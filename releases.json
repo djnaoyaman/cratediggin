@@ -1,5 +1,5 @@
 {
-  "version": "11.2",
+  "version": "12.0",
   "timezone": "Asia/Tokyo",
   "policy": "major-only",
   "history": [
@@ -98,6 +98,15 @@
       "datetime": "2026-10-14T23:09:14+09:00",
       "title": "スワイプ選曲と自分のプレイリストを追加",
       "description": "楽曲一覧の左スワイプで再生・選曲から外し、右スワイプでMY CRATEへ追加。操作ボタンによるPC・キーボード操作、プレイリスト名の変更、曲順の変更、削除の取り消し、ブラウザ保存と選曲内の連続再生に対応。",
+      "kind": "major",
+      "dateBasis": "変更記録日時",
+      "retrospective": false
+    },
+    {
+      "version": "12.0",
+      "datetime": "2026-10-15T00:13:17+09:00",
+      "title": "曲を探す入口をシーンと地域に分離",
+      "description": "聴くシーンと東西の地域を別々に選び、組み合わせて絞り込む構成へ変更。短い選択ボタン、選択中の条件、条件クリアを追加。最初は全曲を表示し、一覧と特集を50曲ずつ展開する。",
       "kind": "major",
       "dateBasis": "変更記録日時",
       "retrospective": false
