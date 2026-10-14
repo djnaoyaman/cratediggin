@@ -22,20 +22,31 @@ def vinyl(im,cx,cy,r):
     text(im,(cx-lr*.78,cy-lr*.32),'33 1/3',int(r*.32),width=lr*1.56,fill=BLUE)
     d.ellipse((cx-2,cy-2,cx+2,cy+2),fill=INK)
 def icon(size):
-    # Render large then downsample so the small mark stays legible.
-    im=Image.new('RGB',(512,512),BLUE)
-    if size<=48:
-        text(im,(53,66),'CD',390,width=406)
-    else:
-        text(im,(35,81),'CRATE',166,width=442)
-        text(im,(35,251),'DIGGIN’',166,width=442)
+    # Centre visible glyph bounds, rather than font advance widths.
+    im=Image.new('RGB',(512,512),BLUE);d=ImageDraw.Draw(im)
+    words=['CD'] if size<=48 else ['CRATE','DIGGIN’']
+    f=font(390 if size<=48 else 166)
+    while max(d.textbbox((0,0),word,font=f)[2] for word in words)>442:f=font(f.size-1)
+    layers=[]
+    for word in words:
+        layer=Image.new('L',(512,512),0);ld=ImageDraw.Draw(layer)
+        box=ld.textbbox((0,0),word,font=f)
+        ld.text((-box[0],-box[1]),word,font=f,fill=255)
+        bounds=layer.point(lambda value:255 if value>220 else 0).getbbox()
+        layers.append(layer.crop(bounds))
+    gap=25 if len(words)>1 else 0
+    total=sum(layer.height for layer in layers)+gap*(len(words)-1)
+    y=(512-total)//2
+    for layer in layers:
+        im.paste(WHITE,((512-layer.width)//2,y),layer)
+        y+=layer.height+gap
     return im.resize((size,size),Image.Resampling.LANCZOS)
 def social_image(track=None):
     im=Image.new('RGB',(1200,630),BLUE);d=ImageDraw.Draw(im)
     text(im,(45,31),'RECORDS. RHYMES. RECOLLECTIONS.',24)
     text(im,(946,31),'VOL. 001',24)
-    text(im,(43,100),'CRATE',215,width=750)
-    text(im,(43,298),'DIGGIN’',215,width=750)
+    text(im,(45,100),'CRATE',215,width=750)
+    text(im,(45,298),'DIGGIN’',215,width=750)
     text(im,(886,103),'KEEP',43,marker=True)
     text(im,(875,160),'DIGGIN’.',43,width=285,marker=True)
     vinyl(im,1004,307,72)
@@ -56,6 +67,6 @@ def write_icons(dist):
     for size,name in [(180,'apple-touch-icon.png'),(32,'favicon-32.png'),(192,'icon-192.png'),(512,'icon-512.png')]:icon(size).save(dist/name)
     icon(48).save(dist/'favicon.ico',sizes=[(16,16),(32,32),(48,48)])
     import io
-    data=io.BytesIO();icon(48).resize((192,192),Image.Resampling.LANCZOS).save(data,format='PNG')
+    data=io.BytesIO();icon(48).save(data,format='PNG')
     encoded=base64.b64encode(data.getvalue()).decode()
     (dist/'favicon.svg').write_text('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><image width="192" height="192" href="data:image/png;base64,'+encoded+'"/></svg>')
