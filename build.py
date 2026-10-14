@@ -99,6 +99,11 @@ for page in DIST.rglob('*.html'):
     if BASE_PATH:
         text=re.sub(r'((?:href|src)=")/(?!/|'+re.escape(BASE_PATH.lstrip('/'))+'/)',lambda m:m[1]+BASE_PATH+'/',text)
     text=re.sub(r'((?:href|src)="[^"]*?(?:style\.css|app\.js|playlist\.js|timeline\.js|filters\.js|tracks\.js|favicon\.svg|favicon-32\.png|favicon\.ico|apple-touch-icon\.png))(?:\?v=[0-9.]+)?(")',lambda m:m[1]+'?v='+release['version']+m[2],text)
+    analytics='<!-- GOOGLE_ANALYTICS -->\n<script async src="https://www.googletagmanager.com/gtag/js?id=G-71ENPHWEJH"></script>\n<script>\nwindow.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag(\'js\', new Date());\ngtag(\'config\', \'G-71ENPHWEJH\', {send_page_view: false});\n</script>\n<!-- /GOOGLE_ANALYTICS -->'
+    text=re.sub(r'<!-- GOOGLE_ANALYTICS -->.*?<!-- /GOOGLE_ANALYTICS -->', '', text, flags=re.S)
+    if '/app.js' not in text:
+        analytics += '<script>gtag(\"event\",\"page_view\",{page_title:document.title,page_location:location.href});</script>'
+    text=text.replace('</head>',analytics+'</head>') if '</head>' in text else text.replace('<body',analytics+'<body',1)
     page.write_text(text)
 manifest=json.loads((DIST/'site.webmanifest').read_text())
 manifest['start_url']=BASE_PATH+'/'
