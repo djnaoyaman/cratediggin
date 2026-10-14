@@ -19953,5 +19953,392 @@
       "B-Real",
       "Nas"
     ]
+  },
+  {
+    "id": "dj-bombjack-lesson-7-the-next-lesson",
+    "title": "Lesson 7: The Next Lesson",
+    "artist": "DJ Bombjack",
+    "year": 1999,
+    "yearBasis": "1999年作品の年。採用音源は現在の公式再配信。",
+    "region": "United Kingdom",
+    "scene": "United Kingdom / Hip Hop",
+    "category": "Hip Hop / Breaks",
+    "moods": [
+      "Breaks",
+      "歩く"
+    ],
+    "album": "Lesson 7: The Next Lesson",
+    "label": "配信ページを参照",
+    "producer": "個別クレジット照合中",
+    "members": "DJ Bombjack",
+    "youtube": {
+      "id": "C9ugn8Xh51Y",
+      "url": "https://www.youtube.com/watch?v=C9ugn8Xh51Y",
+      "channel": "DJ Bombjack - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "verification": "公式配信の曲名と投稿者をYouTubeの表示で照合。"
+    },
+    "art": {
+      "word": "LESSON 7: THE NEXT LESSON",
+      "tag": "UNITED KINGDOM / 1999",
+      "style": "subway",
+      "seed": 19990199,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "LESSON 7: THE NEXT LESSON"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "第七の授業。",
+    "essayTitle": "レコードの授業は、続いている。",
+    "essay": [
+      "第七の授業。ここでは試験用紙より、ターンテーブルがよく働く。切って、並べて、もう一度鳴らす。その順番を、耳で追っていく。",
+      "収録盤は『Lesson 7: The Next Lesson』。曲を一枚だけでかけたあと、前後の選曲へ戻ってみる。同じビートでも、どこから来て、どこへ渡すかで、その日の顔が変わってくる。",
+      "ピザが焼けるのを待つ間に、ドラムを数えてみる。じっと座っているつもりでも、膝が先に時間を覚えてしまう。歩く時には、いつもの道へ一曲分の時間を重ねてみたい。"
+    ],
+    "facts": [
+      {
+        "title": "音源と収録の確認",
+        "text": "指定曲の公式配信を採用。初出年と現在の配信年は区別して記録する。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "切り替わる声や音の入り口を、一つずつ追って聴く。",
+      "曲の終わりと、次にかける一曲の頭を考える。",
+      "同じ盤の前後へ戻り、曲順の中で聴き直す。"
+    ],
+    "context": "90年代の選曲から、現在の耳へ。",
+    "sources": [
+      {
+        "label": "DJ Bombjack - Topic — Lesson 7: The Next Lesson",
+        "url": "https://www.youtube.com/watch?v=C9ugn8Xh51Y",
+        "kind": "公式音源"
+      },
+      {
+        "label": "収録・発表の資料",
+        "url": "https://nialler9.com/lessons-in-hip-hop",
+        "kind": "盤情報"
+      }
+    ],
+    "producers": [],
+    "connections": [],
+    "sounds": [
+      "Breaks"
+    ],
+    "addedOrder": 200,
+    "editorialStatus": "聴き方と選曲メモは編者の私見。制作クレジットは個別照合中。",
+    "sampleStatus": "多くの断片を組み合わせる作品を含むため、単一のメインサンプルは未確定。確認できた原曲を順次記録します。",
+    "collections": [
+      "pizza",
+      "walk"
+    ],
+    "datePublished": "2026-10-14"
+  },
+  {
+    "id": "jurassic-5-lesson-6-the-lecture",
+    "title": "Lesson 6: The Lecture",
+    "artist": "Jurassic 5",
+    "year": 1997,
+    "yearBasis": "初出EPの1997年を表示。採用した音源は2008年の再発。版の編集差は照合中。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles / Hip Hop",
+    "category": "Hip Hop / Breaks",
+    "moods": [
+      "Breaks",
+      "歩く"
+    ],
+    "album": "Jurassic 5 EP / J5",
+    "label": "配信ページを参照",
+    "producer": "個別クレジット照合中",
+    "members": "Jurassic 5",
+    "youtube": {
+      "id": "bcOv_eBmaSk",
+      "url": "https://www.youtube.com/watch?v=bcOv_eBmaSk",
+      "channel": "Jurassic 5 - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "verification": "公式配信の曲名と投稿者をYouTubeの表示で照合。"
+    },
+    "art": {
+      "word": "LESSON 6: THE LECTURE",
+      "tag": "LOS ANGELES / 1997",
+      "style": "subway",
+      "seed": 19970200,
+      "profile": "la-open-sky",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "LESSON 6: THE LECTURE"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "授業は、まだ続いている。",
+    "essayTitle": "レコードの授業は、続いている。",
+    "essay": [
+      "授業は、まだ続いている。Lesson 6という曲名を眺めると、聴くことも練習なのだと思う。最初と最後で耳の向きが少し変われば、今日の収穫は十分だ。",
+      "収録盤は『Jurassic 5 EP / J5』。曲を一枚だけでかけたあと、前後の選曲へ戻ってみる。同じビートでも、どこから来て、どこへ渡すかで、その日の顔が変わってくる。",
+      "ピザが焼けるのを待つ間に、ドラムを数えてみる。じっと座っているつもりでも、膝が先に時間を覚えてしまう。歩く時には、いつもの道へ一曲分の時間を重ねてみたい。"
+    ],
+    "facts": [
+      {
+        "title": "音源と収録の確認",
+        "text": "指定曲の公式配信を採用。初出年と現在の配信年は区別して記録する。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "切り替わる声や音の入り口を、一つずつ追って聴く。",
+      "曲の終わりと、次にかける一曲の頭を考える。",
+      "同じ盤の前後へ戻り、曲順の中で聴き直す。"
+    ],
+    "context": "90年代の選曲から、現在の耳へ。",
+    "sources": [
+      {
+        "label": "Jurassic 5 - Topic — Lesson 6: The Lecture",
+        "url": "https://www.youtube.com/watch?v=bcOv_eBmaSk",
+        "kind": "公式音源"
+      },
+      {
+        "label": "収録・発表の資料",
+        "url": "https://pitchfork.com/news/34001-jurassic-5-reissue-expand-debut-lp/",
+        "kind": "盤情報"
+      }
+    ],
+    "producers": [],
+    "connections": [],
+    "sounds": [
+      "Breaks"
+    ],
+    "addedOrder": 201,
+    "editorialStatus": "聴き方と選曲メモは編者の私見。制作クレジットは個別照合中。",
+    "sampleStatus": "多くの断片を組み合わせる作品を含むため、単一のメインサンプルは未確定。確認できた原曲を順次記録します。",
+    "collections": [
+      "pizza",
+      "walk",
+      "west"
+    ],
+    "datePublished": "2026-10-14"
+  },
+  {
+    "id": "jurassic-5-jayou",
+    "title": "Jayou",
+    "artist": "Jurassic 5",
+    "year": 1998,
+    "yearBasis": "",
+    "region": "Los Angeles",
+    "scene": "Los Angeles / Hip Hop",
+    "category": "Hip Hop / Breaks",
+    "moods": [
+      "Breaks",
+      "歩く"
+    ],
+    "album": "Lyricist Lounge Vol. 1",
+    "label": "配信ページを参照",
+    "producer": "個別クレジット照合中",
+    "members": "Jurassic 5",
+    "youtube": {
+      "id": "3QnVOibhJIc",
+      "url": "https://www.youtube.com/watch?v=3QnVOibhJIc",
+      "channel": "Jurassic 5 - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "verification": "公式配信の曲名と投稿者をYouTubeの表示で照合。"
+    },
+    "art": {
+      "word": "JAYOU",
+      "tag": "LOS ANGELES / 1998",
+      "style": "subway",
+      "seed": 19980201,
+      "profile": "la-open-sky",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "JAYOU"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "Jayouという短い名札を、棚の入口に置く。",
+    "essayTitle": "声のリレーを、棚から。",
+    "essay": [
+      "Jayouという短い名札を、棚の入口に置く。言葉を全部覚えなくても、声のリレーを覚えることはできる。そこから好きな一曲が始まる。",
+      "収録盤は『Lyricist Lounge Vol. 1』。曲を一枚だけでかけたあと、前後の選曲へ戻ってみる。同じビートでも、どこから来て、どこへ渡すかで、その日の顔が変わってくる。",
+      "ピザが焼けるのを待つ間に、ドラムを数えてみる。じっと座っているつもりでも、膝が先に時間を覚えてしまう。歩く時には、いつもの道へ一曲分の時間を重ねてみたい。"
+    ],
+    "facts": [
+      {
+        "title": "音源と収録の確認",
+        "text": "指定曲の公式配信を採用。初出年と現在の配信年は区別して記録する。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "切り替わる声や音の入り口を、一つずつ追って聴く。",
+      "曲の終わりと、次にかける一曲の頭を考える。",
+      "同じ盤の前後へ戻り、曲順の中で聴き直す。"
+    ],
+    "context": "90年代の選曲から、現在の耳へ。",
+    "sources": [
+      {
+        "label": "Jurassic 5 - Topic — Jayou",
+        "url": "https://www.youtube.com/watch?v=3QnVOibhJIc",
+        "kind": "公式音源"
+      },
+      {
+        "label": "収録・発表の資料",
+        "url": "https://www.sourcerecords.jp/product/9229",
+        "kind": "盤情報"
+      }
+    ],
+    "producers": [],
+    "connections": [],
+    "sounds": [
+      "Breaks"
+    ],
+    "addedOrder": 202,
+    "editorialStatus": "聴き方と選曲メモは編者の私見。制作クレジットは個別照合中。",
+    "sampleStatus": "多くの断片を組み合わせる作品を含むため、単一のメインサンプルは未確定。確認できた原曲を順次記録します。",
+    "collections": [
+      "pizza",
+      "walk",
+      "west"
+    ],
+    "datePublished": "2026-10-14"
+  },
+  {
+    "id": "ugly-duckling-now-who-s-laughin",
+    "title": "Now Who’s Laughin’",
+    "artist": "Ugly Duckling",
+    "year": 1999,
+    "yearBasis": "",
+    "region": "Long Beach",
+    "scene": "Long Beach / Hip Hop",
+    "category": "Hip Hop / Breaks",
+    "moods": [
+      "Breaks",
+      "歩く"
+    ],
+    "album": "Fresh Mode",
+    "label": "配信ページを参照",
+    "producer": "個別クレジット照合中",
+    "members": "Ugly Duckling",
+    "youtube": {
+      "id": "MmeVx3Wlesg",
+      "url": "https://www.youtube.com/watch?v=MmeVx3Wlesg",
+      "channel": "Ugly Duckling - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "verification": "公式配信の曲名と投稿者をYouTubeの表示で照合。"
+    },
+    "art": {
+      "word": "NOW WHO’S LAUGHIN’",
+      "tag": "LONG BEACH / 1999",
+      "style": "subway",
+      "seed": 19990202,
+      "profile": "la-open-sky",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "NOW WHO’S LAUGHIN’"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "今は誰が笑っているのか。",
+    "essayTitle": "声のリレーを、棚から。",
+    "essay": [
+      "今は誰が笑っているのか。そう聞かれると、こちらも少し笑ってしまう。洒落のある題名を、洒落だけで片付けないように、一度最後まで聴く。",
+      "収録盤は『Fresh Mode』。曲を一枚だけでかけたあと、前後の選曲へ戻ってみる。同じビートでも、どこから来て、どこへ渡すかで、その日の顔が変わってくる。",
+      "ピザが焼けるのを待つ間に、ドラムを数えてみる。じっと座っているつもりでも、膝が先に時間を覚えてしまう。歩く時には、いつもの道へ一曲分の時間を重ねてみたい。"
+    ],
+    "facts": [
+      {
+        "title": "音源と収録の確認",
+        "text": "指定曲の公式配信を採用。初出年と現在の配信年は区別して記録する。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "切り替わる声や音の入り口を、一つずつ追って聴く。",
+      "曲の終わりと、次にかける一曲の頭を考える。",
+      "同じ盤の前後へ戻り、曲順の中で聴き直す。"
+    ],
+    "context": "90年代の選曲から、現在の耳へ。",
+    "sources": [
+      {
+        "label": "Ugly Duckling - Topic — Now Who’s Laughin’",
+        "url": "https://www.youtube.com/watch?v=MmeVx3Wlesg",
+        "kind": "公式音源"
+      },
+      {
+        "label": "収録・発表の資料",
+        "url": "https://music.apple.com/us/album/fresh-mode/1443809789",
+        "kind": "盤情報"
+      }
+    ],
+    "producers": [],
+    "connections": [],
+    "sounds": [
+      "Breaks"
+    ],
+    "addedOrder": 203,
+    "editorialStatus": "聴き方と選曲メモは編者の私見。制作クレジットは個別照合中。",
+    "sampleStatus": "多くの断片を組み合わせる作品を含むため、単一のメインサンプルは未確定。確認できた原曲を順次記録します。",
+    "collections": [
+      "pizza",
+      "walk",
+      "west"
+    ],
+    "datePublished": "2026-10-14"
   }
 ]
