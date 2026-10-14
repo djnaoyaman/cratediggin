@@ -51,37 +51,23 @@ for t in tracks:
 (DIST/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+HOST+'/sitemap.xml\n')
 (DIST/'llms.txt').write_text('# Crate Diggin’\n\nA Guide to Sampled Mind & Vintage Grooves\n\n選曲・編集・文責 DJ Naoyaman。事実と私見を分け、出典を示すHip Hopガイド。\n\n'+'\n'.join('- ['+t['title']+']('+HOST+'/songs/'+t['id']+'.md)' for t in tracks)+'\n')
 (DIST/'llms-full.txt').write_text('\n\n'.join((DIST/'songs'/(t['id']+'.md')).read_text() for t in tracks))
-(DIST/'favicon.svg').write_text('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" fill="#006cb6"/><text x="32" y="43" text-anchor="middle" fill="white" font-family="sans-serif" font-size="32" font-weight="900">CD</text></svg>')
 (DIST/'404.html').write_text('<!doctype html><html lang="ja"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Crate Diggin’</title><link rel="stylesheet" href="/style.css"><body><main style="padding:10vw"><h1 class="section-title">KEEP DIGGIN’.</h1><p>このページは見つかりませんでした。</p><a href="/">クレートへ戻る</a></main></body></html>')
 print(f'Generated {len(tracks)} songs, source candidates, sitemap and Markdown. Data validation passed.')
 
 # Search, sharing and machine-readable views use the same editorial records.
-from PIL import Image, ImageDraw, ImageFont
-font_path='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
-def icon(size):
-    im=Image.new('RGB',(size,size),'#006cb6');d=ImageDraw.Draw(im);f=ImageFont.truetype(font_path,int(size*.39));box=d.textbbox((0,0),'CD',font=f);d.text(((size-box[2])/2,(size-box[3])/2-box[1]/2),'CD',font=f,fill='white');return im
-icon(180).save(DIST/'apple-touch-icon.png')
-icon(32).save(DIST/'favicon-32.png')
-icon(48).save(DIST/'favicon.ico',sizes=[(16,16),(32,32),(48,48)])
+from brand_assets import icon, social_image, write_icons
+write_icons(DIST)
 (DIST/'site.webmanifest').write_text(json.dumps({'name':'Crate Diggin’','short_name':'Crate Diggin’','start_url':'/','display':'standalone','theme_color':'#006cb6','background_color':'#ffffff','icons':[{'src':'/icon-192.png','sizes':'192x192','type':'image/png'},{'src':'/icon-512.png','sizes':'512x512','type':'image/png'}]}))
 for n in [192,512]:icon(n).save(DIST/f'icon-{n}.png')
 (DIST/'og').mkdir(exist_ok=True)
-def social_image(track=None):
-    palette=track['art']['palette'] if track else ['#006cb6','#ffffff','#8dc9ed','#101114']
-    im=Image.new('RGB',(1200,630),palette[3]);d=ImageDraw.Draw(im);d.rectangle((0,0,20,630),fill=palette[0]);
-    d.text((65,50),'CRATE DIGGIN’',font=ImageFont.truetype(font_path,40),fill=palette[1])
-    title=(track['title'] if track else 'KEEP DIGGIN.').replace('’',"'")
-    f=ImageFont.truetype(font_path,72)
-    while d.textlength(title,font=f)>1070 and f.size>28:f=ImageFont.truetype(font_path,f.size-2)
-    d.text((65,235),title,font=f,fill=palette[1])
-    d.text((65,365),track['artist'] if track else 'Sampled Mind & Vintage Grooves',font=ImageFont.truetype(font_path,32),fill=palette[2])
-    d.text((65,530),'CURATED BY DJ NAOYAMAN',font=ImageFont.truetype(font_path,20),fill=palette[1]);return im
 social_image().save(DIST/'og-image.png')
 def enhance(path,title,description,url,img,ld,article=False):
     content=path.read_text()
     content=re.sub(r'<!-- SHARING_METADATA -->.*?<!-- /SHARING_METADATA -->', '', content, flags=re.S)
     content=re.sub(r'<meta name="(?:author|robots)" content="[^"]*">|<link (?:rel="apple-touch-icon"[^>]*|rel="icon" sizes="32x32"[^>]*|rel="alternate icon"[^>]*|rel="manifest"[^>]*)>', '', content)
     content=re.sub(r'<meta (?:property="og:[^"]+"|name="twitter:[^"]+") content="[^"]*">','',content)
+    version=json.loads((ROOT/'releases.json').read_text())['version']
+    img+='?v='+version
     tags=[('og:title',title),('og:description',description),('og:type','article' if article else 'website'),('og:url',url),('og:site_name','Crate Diggin’'),('og:locale','ja_JP'),('og:image',img),('og:image:width','1200'),('og:image:height','630'),('og:image:alt',title+' — Crate Diggin’')]
     head=''.join('<meta property="'+k+'" content="'+html.escape(v,quote=True)+'">' for k,v in tags)
     head+=''.join('<meta name="'+k+'" content="'+html.escape(v,quote=True)+'">' for k,v in [('twitter:card','summary_large_image'),('twitter:title',title),('twitter:description',description),('twitter:image',img),('twitter:image:alt',title)])
@@ -112,6 +98,7 @@ for page in DIST.rglob('*.html'):
         text=text.replace('<script src="/app.js"','<script src="/releases.js" defer></script><script src="/app.js"')
     if BASE_PATH:
         text=re.sub(r'((?:href|src)=")/(?!/|'+re.escape(BASE_PATH.lstrip('/'))+'/)',lambda m:m[1]+BASE_PATH+'/',text)
+    text=re.sub(r'((?:href|src)="[^"]*?(?:style\.css|favicon\.svg|favicon-32\.png|favicon\.ico|apple-touch-icon\.png))(?:\?v=[0-9.]+)?(")',lambda m:m[1]+'?v='+release['version']+m[2],text)
     page.write_text(text)
 manifest=json.loads((DIST/'site.webmanifest').read_text())
 manifest['start_url']=BASE_PATH+'/'
