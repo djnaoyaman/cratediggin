@@ -22684,5 +22684,375 @@
       "mic-skills"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+  },
+  {
+    "id": "dj-shadow-in-flux",
+    "title": "In/Flux",
+    "artist": "DJ Shadow",
+    "year": 1993,
+    "yearBasis": "DJ Shadow公式によるMo' Wax期シングル（1993–1997）の案内を参照。個別の盤面・初出年は継続照合中。",
+    "region": "San Francisco Bay Area",
+    "scene": "San Francisco Bay Area",
+    "category": "Instrumental Hip Hop",
+    "moods": [
+      "グルーヴ",
+      "街歩き"
+    ],
+    "album": "Mo' Wax singles",
+    "label": "Mo' Wax（公式ボックスセットの収録シングル案内）",
+    "producer": "DJ Shadow",
+    "members": "DJ Shadow",
+    "youtube": {
+      "id": null,
+      "url": null,
+      "channel": "",
+      "type": "音源未確認",
+      "verified": "",
+      "verification": "公式音源URLを確認できるまで再生欄は省略。"
+    },
+    "art": {
+      "word": "IN/FLUX",
+      "lines": [
+        "IN/FLUX"
+      ],
+      "tag": "MO' WAX / 1993",
+      "style": "piece",
+      "seed": 2213,
+      "profile": "ny-subway",
+      "palette": [
+        "#608a78",
+        "#e2d5b5",
+        "#b38052",
+        "#29392f"
+      ],
+      "paletteSource": "Mo' Wax期の編集上の仮配色",
+      "paletteNote": "既存のDJ Shadow作品の配色を暫定的に継承。個別ジャケットとの照合は未完了。",
+      "lettering": "angular",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "反復の中へ、別の時間が流れ込む。",
+    "essayTitle": "反復の中へ、別の時間が流れ込む。",
+    "essay": [
+      "In/Flux。DJ ShadowのMo' Wax期のシングルとして、レコードを掘る入口に置きたい一枚だ。",
+      "サンプリングの面白さは、素材の名前を当てることだけではない。断片を並べる順序が変われば、聴き手の時間の流れも変わる。",
+      "盤面の細かな違いは、これから照合していく。まずは一枚の12インチを、音楽の地図に戻しておきたい。"
+    ],
+    "facts": [
+      {
+        "title": "12インチの収録候補",
+        "text": "DJ Shadow公式が案内する1993–1997年のMo' Waxシングル群に含まれる。個別の発売年、品番、B面の組み合わせは未確認。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。サンプル不使用を意味しません。",
+    "listening": [
+      "反復の中へ、別の時間が流れ込む。",
+      "短い反復と音の重なり方に耳を向ける。"
+    ],
+    "context": "DJ ShadowのMo' Wax期の12インチ作品をたどる。",
+    "sources": [
+      {
+        "label": "DJ Shadow公式 — The Mo' Wax Singles 1993–1997",
+        "url": "https://shop.djshadow.com/blogs/news/the-mo-wax-singles-1993-1997-box-set-with-exclusive-signed-print-now-available-for-pre-order",
+        "kind": "アーティスト公式"
+      }
+    ],
+    "producers": [
+      "DJ Shadow"
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム"
+    ],
+    "addedOrder": 220,
+    "editorialStatus": "12インチ候補として公開。個別品番、年、音源、サンプルの確認は継続中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "cut-scratch"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+  },
+  {
+    "id": "dj-shadow-lost-and-found-sfl",
+    "title": "Lost and Found (S.F.L.)",
+    "artist": "DJ Shadow",
+    "year": 1994,
+    "yearBasis": "DJ Shadow公式によるMo' Wax期シングル（1993–1997）の案内を参照。個別の盤面・初出年は継続照合中。",
+    "region": "San Francisco Bay Area",
+    "scene": "San Francisco Bay Area",
+    "category": "Instrumental Hip Hop",
+    "moods": [
+      "グルーヴ",
+      "街歩き"
+    ],
+    "album": "Mo' Wax singles",
+    "label": "Mo' Wax（公式ボックスセットの収録シングル案内）",
+    "producer": "DJ Shadow",
+    "members": "DJ Shadow",
+    "youtube": {
+      "id": null,
+      "url": null,
+      "channel": "",
+      "type": "音源未確認",
+      "verified": "",
+      "verification": "公式音源URLを確認できるまで再生欄は省略。"
+    },
+    "art": {
+      "word": "LOST AND FOUND (S.F.L.)",
+      "lines": [
+        "LOST AND FOUND (S.F.",
+        "L.)"
+      ],
+      "tag": "MO' WAX / 1994",
+      "style": "piece",
+      "seed": 2215,
+      "profile": "ny-subway",
+      "palette": [
+        "#608a78",
+        "#e2d5b5",
+        "#b38052",
+        "#29392f"
+      ],
+      "paletteSource": "Mo' Wax期の編集上の仮配色",
+      "paletteNote": "既存のDJ Shadow作品の配色を暫定的に継承。個別ジャケットとの照合は未完了。",
+      "lettering": "angular",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "見つけた音を、別の場所へ連れ出す。",
+    "essayTitle": "見つけた音を、別の場所へ連れ出す。",
+    "essay": [
+      "Lost and Found (S.F.L.)。DJ ShadowのMo' Wax期のシングルとして、レコードを掘る入口に置きたい一枚だ。",
+      "サンプリングの面白さは、素材の名前を当てることだけではない。断片を並べる順序が変われば、聴き手の時間の流れも変わる。",
+      "盤面の細かな違いは、これから照合していく。まずは一枚の12インチを、音楽の地図に戻しておきたい。"
+    ],
+    "facts": [
+      {
+        "title": "12インチの収録候補",
+        "text": "DJ Shadow公式が案内する1993–1997年のMo' Waxシングル群に含まれる。個別の発売年、品番、B面の組み合わせは未確認。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。サンプル不使用を意味しません。",
+    "listening": [
+      "見つけた音を、別の場所へ連れ出す。",
+      "短い反復と音の重なり方に耳を向ける。"
+    ],
+    "context": "DJ ShadowのMo' Wax期の12インチ作品をたどる。",
+    "sources": [
+      {
+        "label": "DJ Shadow公式 — The Mo' Wax Singles 1993–1997",
+        "url": "https://shop.djshadow.com/blogs/news/the-mo-wax-singles-1993-1997-box-set-with-exclusive-signed-print-now-available-for-pre-order",
+        "kind": "アーティスト公式"
+      }
+    ],
+    "producers": [
+      "DJ Shadow"
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム"
+    ],
+    "addedOrder": 221,
+    "editorialStatus": "12インチ候補として公開。個別品番、年、音源、サンプルの確認は継続中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "cut-scratch"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+  },
+  {
+    "id": "dj-shadow-what-does-your-soul-look-like",
+    "title": "What Does Your Soul Look Like",
+    "artist": "DJ Shadow",
+    "year": 1994,
+    "yearBasis": "DJ Shadow公式によるMo' Wax期シングル（1993–1997）の案内を参照。個別の盤面・初出年は継続照合中。",
+    "region": "San Francisco Bay Area",
+    "scene": "San Francisco Bay Area",
+    "category": "Instrumental Hip Hop",
+    "moods": [
+      "グルーヴ",
+      "街歩き"
+    ],
+    "album": "Mo' Wax singles",
+    "label": "Mo' Wax（公式ボックスセットの収録シングル案内）",
+    "producer": "DJ Shadow",
+    "members": "DJ Shadow",
+    "youtube": {
+      "id": null,
+      "url": null,
+      "channel": "",
+      "type": "音源未確認",
+      "verified": "",
+      "verification": "公式音源URLを確認できるまで再生欄は省略。"
+    },
+    "art": {
+      "word": "WHAT DOES YOUR SOUL LOOK LIKE",
+      "lines": [
+        "WHAT DOES YOUR SOUL ",
+        "LOOK LIKE"
+      ],
+      "tag": "MO' WAX / 1994",
+      "style": "piece",
+      "seed": 2216,
+      "profile": "ny-subway",
+      "palette": [
+        "#608a78",
+        "#e2d5b5",
+        "#b38052",
+        "#29392f"
+      ],
+      "paletteSource": "Mo' Wax期の編集上の仮配色",
+      "paletteNote": "既存のDJ Shadow作品の配色を暫定的に継承。個別ジャケットとの照合は未完了。",
+      "lettering": "angular",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "問いかける題名に、言葉より長い余韻が残る。",
+    "essayTitle": "問いかける題名に、言葉より長い余韻が残る。",
+    "essay": [
+      "What Does Your Soul Look Like。DJ ShadowのMo' Wax期のシングルとして、レコードを掘る入口に置きたい一枚だ。",
+      "サンプリングの面白さは、素材の名前を当てることだけではない。断片を並べる順序が変われば、聴き手の時間の流れも変わる。",
+      "盤面の細かな違いは、これから照合していく。まずは一枚の12インチを、音楽の地図に戻しておきたい。"
+    ],
+    "facts": [
+      {
+        "title": "12インチの収録候補",
+        "text": "DJ Shadow公式が案内する1993–1997年のMo' Waxシングル群に含まれる。個別の発売年、品番、B面の組み合わせは未確認。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。サンプル不使用を意味しません。",
+    "listening": [
+      "問いかける題名に、言葉より長い余韻が残る。",
+      "短い反復と音の重なり方に耳を向ける。"
+    ],
+    "context": "DJ ShadowのMo' Wax期の12インチ作品をたどる。",
+    "sources": [
+      {
+        "label": "DJ Shadow公式 — The Mo' Wax Singles 1993–1997",
+        "url": "https://shop.djshadow.com/blogs/news/the-mo-wax-singles-1993-1997-box-set-with-exclusive-signed-print-now-available-for-pre-order",
+        "kind": "アーティスト公式"
+      }
+    ],
+    "producers": [
+      "DJ Shadow"
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム"
+    ],
+    "addedOrder": 222,
+    "editorialStatus": "12インチ候補として公開。個別品番、年、音源、サンプルの確認は継続中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "cut-scratch"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+  },
+  {
+    "id": "dj-shadow-high-noon",
+    "title": "High Noon",
+    "artist": "DJ Shadow",
+    "year": 1997,
+    "yearBasis": "DJ Shadow公式によるMo' Wax期シングル（1993–1997）の案内を参照。個別の盤面・初出年は継続照合中。",
+    "region": "San Francisco Bay Area",
+    "scene": "San Francisco Bay Area",
+    "category": "Instrumental Hip Hop",
+    "moods": [
+      "グルーヴ",
+      "街歩き"
+    ],
+    "album": "Mo' Wax singles",
+    "label": "Mo' Wax（公式ボックスセットの収録シングル案内）",
+    "producer": "DJ Shadow",
+    "members": "DJ Shadow",
+    "youtube": {
+      "id": null,
+      "url": null,
+      "channel": "",
+      "type": "音源未確認",
+      "verified": "",
+      "verification": "公式音源URLを確認できるまで再生欄は省略。"
+    },
+    "art": {
+      "word": "HIGH NOON",
+      "lines": [
+        "HIGH NOON"
+      ],
+      "tag": "MO' WAX / 1997",
+      "style": "piece",
+      "seed": 2220,
+      "profile": "ny-subway",
+      "palette": [
+        "#608a78",
+        "#e2d5b5",
+        "#b38052",
+        "#29392f"
+      ],
+      "paletteSource": "Mo' Wax期の編集上の仮配色",
+      "paletteNote": "既存のDJ Shadow作品の配色を暫定的に継承。個別ジャケットとの照合は未完了。",
+      "lettering": "angular",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "真昼という名前に、影の濃さを聴く。",
+    "essayTitle": "真昼という名前に、影の濃さを聴く。",
+    "essay": [
+      "High Noon。DJ ShadowのMo' Wax期のシングルとして、レコードを掘る入口に置きたい一枚だ。",
+      "サンプリングの面白さは、素材の名前を当てることだけではない。断片を並べる順序が変われば、聴き手の時間の流れも変わる。",
+      "盤面の細かな違いは、これから照合していく。まずは一枚の12インチを、音楽の地図に戻しておきたい。"
+    ],
+    "facts": [
+      {
+        "title": "12インチの収録候補",
+        "text": "DJ Shadow公式が案内する1993–1997年のMo' Waxシングル群に含まれる。個別の発売年、品番、B面の組み合わせは未確認。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。サンプル不使用を意味しません。",
+    "listening": [
+      "真昼という名前に、影の濃さを聴く。",
+      "短い反復と音の重なり方に耳を向ける。"
+    ],
+    "context": "DJ ShadowのMo' Wax期の12インチ作品をたどる。",
+    "sources": [
+      {
+        "label": "DJ Shadow公式 — The Mo' Wax Singles 1993–1997",
+        "url": "https://shop.djshadow.com/blogs/news/the-mo-wax-singles-1993-1997-box-set-with-exclusive-signed-print-now-available-for-pre-order",
+        "kind": "アーティスト公式"
+      }
+    ],
+    "producers": [
+      "DJ Shadow"
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム"
+    ],
+    "addedOrder": 223,
+    "editorialStatus": "12インチ候補として公開。個別品番、年、音源、サンプルの確認は継続中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "cut-scratch"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   }
 ]
