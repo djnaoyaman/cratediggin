@@ -1,4 +1,5 @@
 name: Deploy Crate Diggin to GitHub Pages
+# v14.0 publication retry; push triggers a fresh deployment
 on:
   push:
     branches: [main]
