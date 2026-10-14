@@ -1,5 +1,5 @@
 {
-  "version": "10.0",
+  "version": "11.0",
   "timezone": "Asia/Tokyo",
   "policy": "major-only",
   "history": [
@@ -89,6 +89,15 @@
       "datetime": "2026-10-14T21:13:27+09:00",
       "title": "年表にHip Hopの文化史を追加",
       "description": "年号・曲名・リンクの位置を揃え、1973年のパーティー、グラフィティ映画Style Wars、受賞、訃報、殿堂入りなど11件の出来事を出典付きで掲載。年代の絞り込みと年ジャンプで、楽曲と文化の流れを行き来できるようにした。",
+      "kind": "major",
+      "dateBasis": "変更記録日時",
+      "retrospective": false
+    },
+    {
+      "version": "11.0",
+      "datetime": "2026-10-14T23:09:14+09:00",
+      "title": "スワイプ選曲と自分のプレイリストを追加",
+      "description": "楽曲一覧の左スワイプで再生・選曲から外し、右スワイプでMY CRATEへ追加。操作ボタンによるPC・キーボード操作、プレイリスト名の変更、曲順の変更、削除の取り消し、ブラウザ保存と選曲内の連続再生に対応。",
       "kind": "major",
       "dateBasis": "変更記録日時",
       "retrospective": false

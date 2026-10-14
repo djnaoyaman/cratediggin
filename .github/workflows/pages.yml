@@ -32,6 +32,7 @@ jobs:
         run: |
           node --check dist/app.js
           node --check dist/art.js
+          node --check dist/playlist.js
           python build.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4

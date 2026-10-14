@@ -20340,5 +20340,1224 @@
       "west"
     ],
     "datePublished": "2026-10-14"
+  },
+  {
+    "id": "big-noyd-usual-suspect",
+    "title": "Usual Suspect",
+    "artist": "Big Noyd",
+    "year": 1996,
+    "region": "New York",
+    "scene": "New York / Hip Hop",
+    "category": "Hip Hop / Breaks",
+    "moods": [
+      "Breaks",
+      "歩く"
+    ],
+    "album": "Episodes of a Hustla",
+    "label": "Tommy Boy",
+    "producer": "Havoc",
+    "members": "Big Noyd / Prodigy / Havoc",
+    "youtube": {
+      "id": "81JGhiPO6LA",
+      "url": "https://www.youtube.com/watch?v=81JGhiPO6LA",
+      "channel": "Big Noyd - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "verification": "YouTubeの公式投稿・公式配信表示で曲名、投稿者、版を確認。"
+    },
+    "art": {
+      "word": "USUAL SUSPECT",
+      "tag": "NEW YORK / 1996",
+      "style": "subway",
+      "seed": 1996203,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "USUAL SUSPECT"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "いつもの容疑者、という題名をレコード棚で見つける。",
+    "essayTitle": "同じ一枚を、違う角度から。",
+    "essay": [
+      "いつもの容疑者、という題名をレコード棚で見つける。事件の解説を読むように身構えるより、まず声の居場所を聴いてみる。Queensという地名が、地図の文字から音のある場所へ変わっていく。",
+      "Big Noydの公式配信は、ProdigyとHavocの名も並ぶアルバム版。Stretch Armstrong Remixとはビートも版名も分けて置く。好きな一曲を集める時ほど、その小さな名札を丁寧に読んでおきたい。",
+      "ピザが焼けるのを待つ間に、一曲をかける。歩く時には、いつもの道へその反復を連れていく。今日はこの一枚、と自分のプレイリストへ選ぶ。それくらいの付き合い方から、レコードは長く暮らしに残っていく。"
+    ],
+    "facts": [
+      {
+        "title": "採用した音源",
+        "text": "曲名と投稿者を確認した公式音源を採用。1996年のアルバム版。Stretch Armstrong Remixとは区別。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "収録と年表",
+        "text": "1996年作品の収録情報を参照。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "声が入る前と、入った後のビートを聴き比べる。",
+      "一枚を単独でかけてから、収録盤の前後の曲へ戻る。",
+      "原曲、リミックス、インストの版名を確かめながら選曲する。"
+    ],
+    "context": "一曲ずつ選び、次の一曲との間も楽しむためのレコード。",
+    "sources": [
+      {
+        "label": "Big Noyd - Topic — Usual Suspect",
+        "url": "https://www.youtube.com/watch?v=81JGhiPO6LA",
+        "kind": "公式音源"
+      },
+      {
+        "label": "収録・発表の資料",
+        "url": "https://bignoyd.bandcamp.com/track/usual-suspect",
+        "kind": "盤情報"
+      }
+    ],
+    "producers": [
+      "Havoc"
+    ],
+    "connections": [
+      "Mobb Deep"
+    ],
+    "sounds": [
+      "Breaks",
+      "声"
+    ],
+    "addedOrder": 204,
+    "editorialStatus": "聴き方とエッセイは編者の私見。事実は出典を参照。",
+    "sampleStatus": "メインサンプルは個別照合中。使用がないという意味ではありません。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Big Noyd",
+      "Prodigy",
+      "Havoc"
+    ]
+  },
+  {
+    "id": "dilated-peoples-work-the-angles",
+    "title": "Work the Angles",
+    "artist": "Dilated Peoples",
+    "year": 1998,
+    "region": "Los Angeles",
+    "scene": "Los Angeles / Hip Hop",
+    "category": "Hip Hop / Breaks",
+    "moods": [
+      "Breaks",
+      "歩く"
+    ],
+    "album": "The Platform / Work the Angles",
+    "label": "ABB / Capitol",
+    "producer": "KutMasta Kurt",
+    "members": "Evidence / Rakaa / DJ Babu",
+    "youtube": {
+      "id": "QnoW_PLe1zM",
+      "url": "https://www.youtube.com/watch?v=QnoW_PLe1zM",
+      "channel": "Mass Appeal",
+      "type": "Official Video",
+      "official": true,
+      "verified": "2026-10-14",
+      "verification": "YouTubeの公式投稿・公式配信表示で曲名、投稿者、版を確認。"
+    },
+    "art": {
+      "word": "WORK THE ANGLES",
+      "tag": "LOS ANGELES / 1998",
+      "style": "subway",
+      "seed": 1998204,
+      "profile": "la-open-sky",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "WORK THE ANGLES"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "角度を変えてみる。",
+    "essayTitle": "同じ一枚を、違う角度から。",
+    "essay": [
+      "角度を変えてみる。正面から押すだけでは動かなかったものが、横から触ると案外するりと動く。Work the Anglesという題名には、DJが盤のどこへ針を置くか考える時にも似た、手つきの面白さがある。",
+      "1998年の12インチから、2000年の『The Platform』へ続く曲。アルバムにまとまる前の一枚にも、音楽を外へ運ぶ力がある。発表年はシングルの年に揃えておく。 Joseph Koo & Wang Fu Lingの「Opening (The Big Boss soundtrack)」も、横に置いて聴き比べる。",
+      "ピザが焼けるのを待つ間に、一曲をかける。歩く時には、いつもの道へその反復を連れていく。今日はこの一枚、と自分のプレイリストへ選ぶ。それくらいの付き合い方から、レコードは長く暮らしに残っていく。"
+    ],
+    "facts": [
+      {
+        "title": "採用した音源",
+        "text": "曲名と投稿者を確認した公式音源を採用。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "収録と年表",
+        "text": "1998年のシングルを基準とし、2000年のアルバム収録とは分けて表示。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [
+      {
+        "artist": "Joseph Koo & Wang Fu Ling",
+        "title": "Opening (The Big Boss soundtrack)",
+        "year": 1971,
+        "main": true,
+        "role": "The Big Bossのテーマを辿る代表音源。映画の言語版には異なるスコアがあるため、Joseph Koo & Wang Fu Ling名義のOpeningを参考投稿で聴き比べる。",
+        "sources": [
+          2,
+          3
+        ],
+        "youtube": {
+          "id": "3ojhQimowcg",
+          "channel": "AniGaMo",
+          "official": false,
+          "verified": "2026-10-14"
+        }
+      }
+    ],
+    "listening": [
+      "声が入る前と、入った後のビートを聴き比べる。",
+      "一枚を単独でかけてから、収録盤の前後の曲へ戻る。",
+      "原曲、リミックス、インストの版名を確かめながら選曲する。"
+    ],
+    "context": "一曲ずつ選び、次の一曲との間も楽しむためのレコード。",
+    "sources": [
+      {
+        "label": "Mass Appeal — Work the Angles",
+        "url": "https://www.youtube.com/watch?v=QnoW_PLe1zM",
+        "kind": "公式音源"
+      },
+      {
+        "label": "収録・発表の資料",
+        "url": "https://www.laweekly.com/work-the-angles/",
+        "kind": "盤情報"
+      },
+      {
+        "label": "サンプリング関係の資料",
+        "url": "https://www.chongastyle.com/?p=164",
+        "kind": "サンプル資料"
+      },
+      {
+        "label": "AniGaMo — Opening (The Big Boss soundtrack)（参考投稿）",
+        "url": "https://www.youtube.com/watch?v=3ojhQimowcg",
+        "kind": "参考原曲"
+      }
+    ],
+    "producers": [
+      "KutMasta Kurt"
+    ],
+    "connections": [
+      "Dilated Peoples"
+    ],
+    "sounds": [
+      "Breaks",
+      "声"
+    ],
+    "addedOrder": 205,
+    "editorialStatus": "聴き方とエッセイは編者の私見。事実は出典を参照。",
+    "sampleStatus": "曲の骨格を辿る代表サンプルを掲載。原曲の年が未確定の場合は年表の比較点を保留。",
+    "collections": [
+      "pizza",
+      "walk",
+      "west"
+    ],
+    "datePublished": "2026-10-14",
+    "yearBasis": "1998年の12インチを基準。The Platformのアルバム収録は2000年。"
+  },
+  {
+    "id": "gang-starr-flip-the-script",
+    "title": "Flip the Script",
+    "artist": "Gang Starr",
+    "year": 1992,
+    "region": "New York",
+    "scene": "New York / Hip Hop",
+    "category": "Hip Hop / Breaks",
+    "moods": [
+      "Breaks",
+      "歩く"
+    ],
+    "album": "Daily Operation",
+    "label": "Chrysalis / Virgin",
+    "producer": "DJ Premier",
+    "members": "Guru / DJ Premier",
+    "youtube": {
+      "id": "1Y6qwoJGGjs",
+      "url": "https://www.youtube.com/watch?v=1Y6qwoJGGjs",
+      "channel": "Gang Starr - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "verification": "YouTubeの公式投稿・公式配信表示で曲名、投稿者、版を確認。"
+    },
+    "art": {
+      "word": "FLIP THE SCRIPT",
+      "tag": "NEW YORK / 1992",
+      "style": "subway",
+      "seed": 1992205,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "FLIP THE SCRIPT"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "台本をひっくり返す、と曲名が言う。",
+    "essayTitle": "同じ一枚を、違う角度から。",
+    "essay": [
+      "台本をひっくり返す、と曲名が言う。同じドラムを聴いているつもりでも、言葉が入ってくる位置で景色は変わる。Guruの声の落ち着きと、その下で働くビートを別々に追ってみたい。",
+      "収録の入口は『Daily Operation』。Guruの声とDJ Premierのビートを、それぞれ聴いてから一緒に聴く。同じ一枚でも、耳の向け方が変われば、まだ掘れる場所が残っている。",
+      "ピザが焼けるのを待つ間に、一曲をかける。歩く時には、いつもの道へその反復を連れていく。今日はこの一枚、と自分のプレイリストへ選ぶ。それくらいの付き合い方から、レコードは長く暮らしに残っていく。"
+    ],
+    "facts": [
+      {
+        "title": "採用した音源",
+        "text": "曲名と投稿者を確認した公式音源を採用。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "収録と年表",
+        "text": "1992年作品の収録情報を参照。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "声が入る前と、入った後のビートを聴き比べる。",
+      "一枚を単独でかけてから、収録盤の前後の曲へ戻る。",
+      "原曲、リミックス、インストの版名を確かめながら選曲する。"
+    ],
+    "context": "一曲ずつ選び、次の一曲との間も楽しむためのレコード。",
+    "sources": [
+      {
+        "label": "Gang Starr - Topic — Flip the Script",
+        "url": "https://www.youtube.com/watch?v=1Y6qwoJGGjs",
+        "kind": "公式音源"
+      },
+      {
+        "label": "収録・発表の資料",
+        "url": "https://www.universal-music.co.jp/p/uicy-76777/",
+        "kind": "盤情報"
+      }
+    ],
+    "producers": [
+      "DJ Premier"
+    ],
+    "connections": [
+      "Gang Starr"
+    ],
+    "sounds": [
+      "Breaks",
+      "声"
+    ],
+    "addedOrder": 206,
+    "editorialStatus": "聴き方とエッセイは編者の私見。事実は出典を参照。",
+    "sampleStatus": "メインサンプルは個別照合中。使用がないという意味ではありません。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14"
+  },
+  {
+    "id": "gang-starr-ex-girl-to-next-girl",
+    "title": "Ex Girl to Next Girl",
+    "artist": "Gang Starr",
+    "year": 1992,
+    "region": "New York",
+    "scene": "New York / Hip Hop",
+    "category": "Hip Hop / Breaks",
+    "moods": [
+      "Breaks",
+      "歩く"
+    ],
+    "album": "Daily Operation",
+    "label": "Chrysalis / Virgin",
+    "producer": "DJ Premier",
+    "members": "Guru / DJ Premier",
+    "youtube": {
+      "id": "B8kW6IEBdf0",
+      "url": "https://www.youtube.com/watch?v=B8kW6IEBdf0",
+      "channel": "Gang Starr",
+      "type": "Official Video",
+      "official": true,
+      "verified": "2026-10-14",
+      "verification": "YouTubeの公式投稿・公式配信表示で曲名、投稿者、版を確認。"
+    },
+    "art": {
+      "word": "EX GIRL TO NEXT GIRL",
+      "tag": "NEW YORK / 1992",
+      "style": "subway",
+      "seed": 1992206,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "EX GIRL TO NEXT",
+        "GIRL"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "前の恋から、次の恋へ。",
+    "essayTitle": "同じ一枚を、違う角度から。",
+    "essay": [
+      "前の恋から、次の恋へ。題名だけ見れば忙しそうだが、レコードの針はそう急がない。話の進み方とビートの歩幅を、別々に追ってみる。忙しいのは、案外こちらの暮らしの方かもしれない。",
+      "収録の入口は『Daily Operation』。Guruの声とDJ Premierのビートを、それぞれ聴いてから一緒に聴く。同じ一枚でも、耳の向け方が変われば、まだ掘れる場所が残っている。 Ceasar Frazierの「Funk It Up」も、横に置いて聴き比べる。",
+      "ピザが焼けるのを待つ間に、一曲をかける。歩く時には、いつもの道へその反復を連れていく。今日はこの一枚、と自分のプレイリストへ選ぶ。それくらいの付き合い方から、レコードは長く暮らしに残っていく。"
+    ],
+    "facts": [
+      {
+        "title": "採用した音源",
+        "text": "曲名と投稿者を確認した公式音源を採用。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "収録と年表",
+        "text": "1992年作品の収録情報を参照。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [
+      {
+        "artist": "Ceasar Frazier",
+        "title": "Funk It Up",
+        "year": null,
+        "main": true,
+        "role": "曲の反復を辿る代表サンプル。原曲の長い流れと、切り出された音の戻り方を比べる。",
+        "sources": [
+          2,
+          3
+        ],
+        "youtube": {
+          "id": "XWrSBMyeCkg",
+          "channel": "Betto Rollerman",
+          "official": false,
+          "verified": "2026-10-14"
+        }
+      }
+    ],
+    "listening": [
+      "声が入る前と、入った後のビートを聴き比べる。",
+      "一枚を単独でかけてから、収録盤の前後の曲へ戻る。",
+      "原曲、リミックス、インストの版名を確かめながら選曲する。"
+    ],
+    "context": "一曲ずつ選び、次の一曲との間も楽しむためのレコード。",
+    "sources": [
+      {
+        "label": "Gang Starr — Ex Girl to Next Girl",
+        "url": "https://www.youtube.com/watch?v=B8kW6IEBdf0",
+        "kind": "公式音源"
+      },
+      {
+        "label": "収録・発表の資料",
+        "url": "https://www.universal-music.co.jp/p/uicy-76777/",
+        "kind": "盤情報"
+      },
+      {
+        "label": "サンプリング関係の資料",
+        "url": "https://www.okayplayer.com/hear-every-sample-from-gang-starrs-daily-operation-on-chris-reads-25th-anniversary-mixtape/334415",
+        "kind": "サンプル資料"
+      },
+      {
+        "label": "Betto Rollerman — Funk It Up（参考投稿）",
+        "url": "https://www.youtube.com/watch?v=XWrSBMyeCkg",
+        "kind": "参考原曲"
+      }
+    ],
+    "producers": [
+      "DJ Premier"
+    ],
+    "connections": [
+      "Gang Starr"
+    ],
+    "sounds": [
+      "Breaks",
+      "声"
+    ],
+    "addedOrder": 207,
+    "editorialStatus": "聴き方とエッセイは編者の私見。事実は出典を参照。",
+    "sampleStatus": "曲の骨格を辿る代表サンプルを掲載。原曲の年が未確定の場合は年表の比較点を保留。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14"
+  },
+  {
+    "id": "gang-starr-take-two-and-pass",
+    "title": "Take Two and Pass",
+    "artist": "Gang Starr",
+    "year": 1992,
+    "region": "New York",
+    "scene": "New York / Hip Hop",
+    "category": "Hip Hop / Breaks",
+    "moods": [
+      "Breaks",
+      "歩く"
+    ],
+    "album": "Daily Operation",
+    "label": "Chrysalis / Virgin",
+    "producer": "DJ Premier",
+    "members": "Guru / DJ Premier",
+    "youtube": {
+      "id": "rQ2s41j5Jco",
+      "url": "https://www.youtube.com/watch?v=rQ2s41j5Jco",
+      "channel": "Gang Starr - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "verification": "YouTubeの公式投稿・公式配信表示で曲名、投稿者、版を確認。"
+    },
+    "art": {
+      "word": "TAKE TWO AND PASS",
+      "tag": "NEW YORK / 1992",
+      "style": "subway",
+      "seed": 1992207,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "TAKE TWO AND PASS"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "取って、渡す。",
+    "essayTitle": "同じ一枚を、違う角度から。",
+    "essay": [
+      "取って、渡す。曲名の小さな動作を、レコードにも借りてみる。一枚を受け取り、聴いて、次の一枚へ渡す。選曲には、その間をどう作るかという仕事がある。",
+      "収録の入口は『Daily Operation』。Guruの声とDJ Premierのビートを、それぞれ聴いてから一緒に聴く。同じ一枚でも、耳の向け方が変われば、まだ掘れる場所が残っている。 Eddie Hazelの「Frantic Moment」も、横に置いて聴き比べる。",
+      "ピザが焼けるのを待つ間に、一曲をかける。歩く時には、いつもの道へその反復を連れていく。今日はこの一枚、と自分のプレイリストへ選ぶ。それくらいの付き合い方から、レコードは長く暮らしに残っていく。"
+    ],
+    "facts": [
+      {
+        "title": "採用した音源",
+        "text": "曲名と投稿者を確認した公式音源を採用。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "収録と年表",
+        "text": "1992年作品の収録情報を参照。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [
+      {
+        "artist": "Eddie Hazel",
+        "title": "Frantic Moment",
+        "year": 1977,
+        "main": true,
+        "role": "ビートの骨格を辿る代表サンプル。原曲のファンクが、声を載せる反復に変わる。",
+        "sources": [
+          2,
+          3
+        ],
+        "youtube": {
+          "id": "R64XYu2lePQ",
+          "channel": "Eddie Hazel - Topic",
+          "official": true,
+          "verified": "2026-10-14"
+        }
+      }
+    ],
+    "listening": [
+      "声が入る前と、入った後のビートを聴き比べる。",
+      "一枚を単独でかけてから、収録盤の前後の曲へ戻る。",
+      "原曲、リミックス、インストの版名を確かめながら選曲する。"
+    ],
+    "context": "一曲ずつ選び、次の一曲との間も楽しむためのレコード。",
+    "sources": [
+      {
+        "label": "Gang Starr - Topic — Take Two and Pass",
+        "url": "https://www.youtube.com/watch?v=rQ2s41j5Jco",
+        "kind": "公式音源"
+      },
+      {
+        "label": "収録・発表の資料",
+        "url": "https://www.universal-music.co.jp/p/uicy-76777/",
+        "kind": "盤情報"
+      },
+      {
+        "label": "サンプリング関係の資料",
+        "url": "https://www.okayplayer.com/hear-every-sample-from-gang-starrs-daily-operation-on-chris-reads-25th-anniversary-mixtape/334415",
+        "kind": "サンプル資料"
+      },
+      {
+        "label": "Eddie Hazel - Topic — Frantic Moment",
+        "url": "https://www.youtube.com/watch?v=R64XYu2lePQ",
+        "kind": "公式原曲"
+      }
+    ],
+    "producers": [
+      "DJ Premier"
+    ],
+    "connections": [
+      "Gang Starr"
+    ],
+    "sounds": [
+      "Breaks",
+      "声"
+    ],
+    "addedOrder": 208,
+    "editorialStatus": "聴き方とエッセイは編者の私見。事実は出典を参照。",
+    "sampleStatus": "曲の骨格を辿る代表サンプルを掲載。原曲の年が未確定の場合は年表の比較点を保留。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14"
+  },
+  {
+    "id": "gang-starr-2-deep",
+    "title": "2 Deep",
+    "artist": "Gang Starr",
+    "year": 1992,
+    "region": "New York",
+    "scene": "New York / Hip Hop",
+    "category": "Hip Hop / Breaks",
+    "moods": [
+      "Breaks",
+      "歩く"
+    ],
+    "album": "Daily Operation",
+    "label": "Chrysalis / Virgin",
+    "producer": "DJ Premier",
+    "members": "Guru / DJ Premier",
+    "youtube": {
+      "id": "17h8H2KYxrI",
+      "url": "https://www.youtube.com/watch?v=17h8H2KYxrI",
+      "channel": "Gang Starr - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "verification": "YouTubeの公式投稿・公式配信表示で曲名、投稿者、版を確認。"
+    },
+    "art": {
+      "word": "2 DEEP",
+      "tag": "NEW YORK / 1992",
+      "style": "subway",
+      "seed": 1992208,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "2 DEEP"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "二つの深さ、と題名を勝手に読んでみる。",
+    "essayTitle": "同じ一枚を、違う角度から。",
+    "essay": [
+      "二つの深さ、と題名を勝手に読んでみる。声の方を聴く回と、音の方を聴く回。二回かければ、それぞれ別の奥行きが見えてくる。急いで名曲という札を貼る前に、まず二回。",
+      "収録の入口は『Daily Operation』。Guruの声とDJ Premierのビートを、それぞれ聴いてから一緒に聴く。同じ一枚でも、耳の向け方が変われば、まだ掘れる場所が残っている。",
+      "ピザが焼けるのを待つ間に、一曲をかける。歩く時には、いつもの道へその反復を連れていく。今日はこの一枚、と自分のプレイリストへ選ぶ。それくらいの付き合い方から、レコードは長く暮らしに残っていく。"
+    ],
+    "facts": [
+      {
+        "title": "採用した音源",
+        "text": "曲名と投稿者を確認した公式音源を採用。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "収録と年表",
+        "text": "1992年作品の収録情報を参照。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "声が入る前と、入った後のビートを聴き比べる。",
+      "一枚を単独でかけてから、収録盤の前後の曲へ戻る。",
+      "原曲、リミックス、インストの版名を確かめながら選曲する。"
+    ],
+    "context": "一曲ずつ選び、次の一曲との間も楽しむためのレコード。",
+    "sources": [
+      {
+        "label": "Gang Starr - Topic — 2 Deep",
+        "url": "https://www.youtube.com/watch?v=17h8H2KYxrI",
+        "kind": "公式音源"
+      },
+      {
+        "label": "収録・発表の資料",
+        "url": "https://www.universal-music.co.jp/p/uicy-76777/",
+        "kind": "盤情報"
+      }
+    ],
+    "producers": [
+      "DJ Premier"
+    ],
+    "connections": [
+      "Gang Starr"
+    ],
+    "sounds": [
+      "Breaks",
+      "声"
+    ],
+    "addedOrder": 209,
+    "editorialStatus": "聴き方とエッセイは編者の私見。事実は出典を参照。",
+    "sampleStatus": "メインサンプルは個別照合中。使用がないという意味ではありません。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14"
+  },
+  {
+    "id": "gang-starr-mostly-tha-voice",
+    "title": "Mostly Tha Voice",
+    "artist": "Gang Starr",
+    "year": 1994,
+    "region": "New York",
+    "scene": "New York / Hip Hop",
+    "category": "Hip Hop / Breaks",
+    "moods": [
+      "Breaks",
+      "歩く"
+    ],
+    "album": "Hard to Earn",
+    "label": "Chrysalis / Virgin",
+    "producer": "DJ Premier",
+    "members": "Guru / DJ Premier",
+    "youtube": {
+      "id": "b-WF0Vr2A5U",
+      "url": "https://www.youtube.com/watch?v=b-WF0Vr2A5U",
+      "channel": "Gang Starr - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "verification": "YouTubeの公式投稿・公式配信表示で曲名、投稿者、版を確認。"
+    },
+    "art": {
+      "word": "MOSTLY THA VOICE",
+      "tag": "NEW YORK / 1994",
+      "style": "subway",
+      "seed": 1994209,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "MOSTLY THA VOICE"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "ほとんどは、声。",
+    "essayTitle": "同じ一枚を、違う角度から。",
+    "essay": [
+      "ほとんどは、声。そんな題名を見ると、立派な説明をする手が少し止まる。顔を見なくても、その人だと分かる音がある。Guruの一曲を、今日は声の位置から聴いてみたい。",
+      "収録の入口は『Hard to Earn』。Guruの声とDJ Premierのビートを、それぞれ聴いてから一緒に聴く。同じ一枚でも、耳の向け方が変われば、まだ掘れる場所が残っている。",
+      "ピザが焼けるのを待つ間に、一曲をかける。歩く時には、いつもの道へその反復を連れていく。今日はこの一枚、と自分のプレイリストへ選ぶ。それくらいの付き合い方から、レコードは長く暮らしに残っていく。"
+    ],
+    "facts": [
+      {
+        "title": "採用した音源",
+        "text": "曲名と投稿者を確認した公式音源を採用。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "収録と年表",
+        "text": "1994年作品の収録情報を参照。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "声が入る前と、入った後のビートを聴き比べる。",
+      "一枚を単独でかけてから、収録盤の前後の曲へ戻る。",
+      "原曲、リミックス、インストの版名を確かめながら選曲する。"
+    ],
+    "context": "一曲ずつ選び、次の一曲との間も楽しむためのレコード。",
+    "sources": [
+      {
+        "label": "Gang Starr - Topic — Mostly Tha Voice",
+        "url": "https://www.youtube.com/watch?v=b-WF0Vr2A5U",
+        "kind": "公式音源"
+      },
+      {
+        "label": "収録・発表の資料",
+        "url": "https://open.spotify.com/track/68CZM1NEyM5wNFbJqBoCu0",
+        "kind": "盤情報"
+      }
+    ],
+    "producers": [
+      "DJ Premier"
+    ],
+    "connections": [
+      "Gang Starr"
+    ],
+    "sounds": [
+      "Breaks",
+      "声"
+    ],
+    "addedOrder": 210,
+    "editorialStatus": "聴き方とエッセイは編者の私見。事実は出典を参照。",
+    "sampleStatus": "メインサンプルは個別照合中。使用がないという意味ではありません。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14"
+  },
+  {
+    "id": "gang-starr-the-remainz",
+    "title": "The ? Remainz",
+    "artist": "Gang Starr",
+    "year": 1994,
+    "region": "New York",
+    "scene": "New York / Hip Hop",
+    "category": "Hip Hop / Breaks",
+    "moods": [
+      "Breaks",
+      "歩く"
+    ],
+    "album": "Suckas Need Bodyguards / The ? Remainz / Full Clip",
+    "label": "Chrysalis / Virgin",
+    "producer": "DJ Premier",
+    "members": "Guru / DJ Premier",
+    "youtube": {
+      "id": "NiyhQ-A7Ygw",
+      "url": "https://www.youtube.com/watch?v=NiyhQ-A7Ygw",
+      "channel": "Gang Starr - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "verification": "YouTubeの公式投稿・公式配信表示で曲名、投稿者、版を確認。"
+    },
+    "art": {
+      "word": "THE ? REMAINZ",
+      "tag": "NEW YORK / 1994",
+      "style": "subway",
+      "seed": 1994210,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "THE ? REMAINZ"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "何が残るのか。",
+    "essayTitle": "同じ一枚を、違う角度から。",
+    "essay": [
+      "何が残るのか。曲名に疑問符があるからといって、すぐに答えを書き足さなくてもいい。Bob Jamesの原曲へ戻り、またこの反復へ帰ってくる。その往復が終わった後に、耳に残るものを確かめる。",
+      "収録の入口は『Suckas Need Bodyguards / The ? Remainz / Full Clip』。Guruの声とDJ Premierのビートを、それぞれ聴いてから一緒に聴く。同じ一枚でも、耳の向け方が変われば、まだ掘れる場所が残っている。 Bob Jamesの「Look-Alike」も、横に置いて聴き比べる。",
+      "ピザが焼けるのを待つ間に、一曲をかける。歩く時には、いつもの道へその反復を連れていく。今日はこの一枚、と自分のプレイリストへ選ぶ。それくらいの付き合い方から、レコードは長く暮らしに残っていく。"
+    ],
+    "facts": [
+      {
+        "title": "採用した音源",
+        "text": "曲名と投稿者を確認した公式音源を採用。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "収録と年表",
+        "text": "1994年12インチを基準とし、1999年のFull Clip収録とは分けて表示。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [
+      {
+        "artist": "Bob James",
+        "title": "Look-Alike",
+        "year": 1979,
+        "main": true,
+        "role": "鍵盤の反復を辿る代表サンプル。長い原曲の中から、繰り返す音の形を探してみる。",
+        "sources": [
+          2,
+          3
+        ],
+        "youtube": {
+          "id": "ITxbT_Vmfhs",
+          "channel": "Bob James - Topic",
+          "official": true,
+          "verified": "2026-10-14"
+        }
+      }
+    ],
+    "listening": [
+      "声が入る前と、入った後のビートを聴き比べる。",
+      "一枚を単独でかけてから、収録盤の前後の曲へ戻る。",
+      "原曲、リミックス、インストの版名を確かめながら選曲する。"
+    ],
+    "context": "一曲ずつ選び、次の一曲との間も楽しむためのレコード。",
+    "sources": [
+      {
+        "label": "Gang Starr - Topic — The ? Remainz",
+        "url": "https://www.youtube.com/watch?v=NiyhQ-A7Ygw",
+        "kind": "公式音源"
+      },
+      {
+        "label": "収録・発表の資料",
+        "url": "https://hiptankrecords.com/?pid=92768511",
+        "kind": "盤情報"
+      },
+      {
+        "label": "サンプリング関係の資料",
+        "url": "https://www.recordstation.jp/view/item/000000004210",
+        "kind": "サンプル資料"
+      },
+      {
+        "label": "Bob James - Topic — Look-Alike",
+        "url": "https://www.youtube.com/watch?v=ITxbT_Vmfhs",
+        "kind": "公式原曲"
+      }
+    ],
+    "producers": [
+      "DJ Premier"
+    ],
+    "connections": [
+      "Gang Starr"
+    ],
+    "sounds": [
+      "Breaks",
+      "声"
+    ],
+    "addedOrder": 211,
+    "editorialStatus": "聴き方とエッセイは編者の私見。事実は出典を参照。",
+    "sampleStatus": "曲の骨格を辿る代表サンプルを掲載。原曲の年が未確定の場合は年表の比較点を保留。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "yearBasis": "1994年の12インチに収録。公式YouTubeのFull Clipは1999年の再収録。"
+  },
+  {
+    "id": "gang-starr-comin-for-the-datazz",
+    "title": "Comin’ for the Datazz",
+    "artist": "Gang Starr",
+    "year": 1994,
+    "region": "New York",
+    "scene": "New York / Hip Hop",
+    "category": "Hip Hop / Breaks",
+    "moods": [
+      "Breaks",
+      "歩く"
+    ],
+    "album": "Hard to Earn",
+    "label": "Chrysalis / Virgin",
+    "producer": "DJ Premier",
+    "members": "Guru / DJ Premier",
+    "youtube": {
+      "id": "TwPpjM0FnUc",
+      "url": "https://www.youtube.com/watch?v=TwPpjM0FnUc",
+      "channel": "Gang Starr - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "verification": "YouTubeの公式投稿・公式配信表示で曲名、投稿者、版を確認。"
+    },
+    "art": {
+      "word": "COMIN’ FOR THE DATAZZ",
+      "tag": "NEW YORK / 1994",
+      "style": "subway",
+      "seed": 1994211,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "COMIN’ FOR THE",
+        "DATAZZ"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "最後まで気を抜かない題名である。",
+    "essayTitle": "同じ一枚を、違う角度から。",
+    "essay": [
+      "最後まで気を抜かない題名である。アルバムの終わりで聴くか、単独で聴くか。曲順の中に戻ると、一曲が受け持つ仕事まで変わってくる。終わりにも、ちゃんと勢いが残っている。",
+      "収録の入口は『Hard to Earn』。Guruの声とDJ Premierのビートを、それぞれ聴いてから一緒に聴く。同じ一枚でも、耳の向け方が変われば、まだ掘れる場所が残っている。",
+      "ピザが焼けるのを待つ間に、一曲をかける。歩く時には、いつもの道へその反復を連れていく。今日はこの一枚、と自分のプレイリストへ選ぶ。それくらいの付き合い方から、レコードは長く暮らしに残っていく。"
+    ],
+    "facts": [
+      {
+        "title": "採用した音源",
+        "text": "曲名と投稿者を確認した公式音源を採用。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "収録と年表",
+        "text": "1994年作品の収録情報を参照。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "声が入る前と、入った後のビートを聴き比べる。",
+      "一枚を単独でかけてから、収録盤の前後の曲へ戻る。",
+      "原曲、リミックス、インストの版名を確かめながら選曲する。"
+    ],
+    "context": "一曲ずつ選び、次の一曲との間も楽しむためのレコード。",
+    "sources": [
+      {
+        "label": "Gang Starr - Topic — Comin’ for the Datazz",
+        "url": "https://www.youtube.com/watch?v=TwPpjM0FnUc",
+        "kind": "公式音源"
+      },
+      {
+        "label": "収録・発表の資料",
+        "url": "https://open.spotify.com/track/68CZM1NEyM5wNFbJqBoCu0",
+        "kind": "盤情報"
+      }
+    ],
+    "producers": [
+      "DJ Premier"
+    ],
+    "connections": [
+      "Gang Starr"
+    ],
+    "sounds": [
+      "Breaks",
+      "声"
+    ],
+    "addedOrder": 212,
+    "editorialStatus": "聴き方とエッセイは編者の私見。事実は出典を参照。",
+    "sampleStatus": "メインサンプルは個別照合中。使用がないという意味ではありません。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14"
+  },
+  {
+    "id": "gang-starr-b-y-s",
+    "title": "B.Y.S.",
+    "artist": "Gang Starr",
+    "year": 1992,
+    "region": "New York",
+    "scene": "New York / Hip Hop",
+    "category": "Hip Hop / Breaks",
+    "moods": [
+      "Breaks",
+      "歩く"
+    ],
+    "album": "Daily Operation",
+    "label": "Chrysalis / Virgin",
+    "producer": "DJ Premier",
+    "members": "Guru / DJ Premier",
+    "youtube": {
+      "id": "DoX8MoQhARU",
+      "url": "https://www.youtube.com/watch?v=DoX8MoQhARU",
+      "channel": "Gang Starr - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "verification": "YouTubeの公式投稿・公式配信表示で曲名、投稿者、版を確認。"
+    },
+    "art": {
+      "word": "B.Y.S.",
+      "tag": "NEW YORK / 1992",
+      "style": "subway",
+      "seed": 1992212,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "B.Y.S."
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "短い題名ほど、棚の中で目立つことがある。",
+    "essayTitle": "同じ一枚を、違う角度から。",
+    "essay": [
+      "短い題名ほど、棚の中で目立つことがある。三つの文字と、その間の点。意味を読む前にドラムへ耳を向ければ、一枚を覚えるための入口はもう開いている。",
+      "収録の入口は『Daily Operation』。Guruの声とDJ Premierのビートを、それぞれ聴いてから一緒に聴く。同じ一枚でも、耳の向け方が変われば、まだ掘れる場所が残っている。 Billy Garnerの「I Got Some (Pt. 1)」も、横に置いて聴き比べる。",
+      "ピザが焼けるのを待つ間に、一曲をかける。歩く時には、いつもの道へその反復を連れていく。今日はこの一枚、と自分のプレイリストへ選ぶ。それくらいの付き合い方から、レコードは長く暮らしに残っていく。"
+    ],
+    "facts": [
+      {
+        "title": "採用した音源",
+        "text": "曲名と投稿者を確認した公式音源を採用。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "収録と年表",
+        "text": "1992年作品の収録情報を参照。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [
+      {
+        "artist": "Billy Garner",
+        "title": "I Got Some (Pt. 1)",
+        "year": null,
+        "main": true,
+        "role": "ドラムを中心に、ビートの骨格を聴き比べる代表サンプル。",
+        "sources": [
+          2,
+          3
+        ],
+        "youtube": {
+          "id": "SjMRKYCmiCg",
+          "channel": "Billy Garner - Topic",
+          "official": true,
+          "verified": "2026-10-14"
+        }
+      }
+    ],
+    "listening": [
+      "声が入る前と、入った後のビートを聴き比べる。",
+      "一枚を単独でかけてから、収録盤の前後の曲へ戻る。",
+      "原曲、リミックス、インストの版名を確かめながら選曲する。"
+    ],
+    "context": "一曲ずつ選び、次の一曲との間も楽しむためのレコード。",
+    "sources": [
+      {
+        "label": "Gang Starr - Topic — B.Y.S.",
+        "url": "https://www.youtube.com/watch?v=DoX8MoQhARU",
+        "kind": "公式音源"
+      },
+      {
+        "label": "収録・発表の資料",
+        "url": "https://www.universal-music.co.jp/p/uicy-76777/",
+        "kind": "盤情報"
+      },
+      {
+        "label": "サンプリング関係の資料",
+        "url": "https://www.okayplayer.com/hear-every-sample-from-gang-starrs-daily-operation-on-chris-reads-25th-anniversary-mixtape/334415",
+        "kind": "サンプル資料"
+      },
+      {
+        "label": "Billy Garner - Topic — I Got Some (Pt. 1)",
+        "url": "https://www.youtube.com/watch?v=SjMRKYCmiCg",
+        "kind": "公式原曲"
+      }
+    ],
+    "producers": [
+      "DJ Premier"
+    ],
+    "connections": [
+      "Gang Starr"
+    ],
+    "sounds": [
+      "Breaks",
+      "声"
+    ],
+    "addedOrder": 213,
+    "editorialStatus": "聴き方とエッセイは編者の私見。事実は出典を参照。",
+    "sampleStatus": "曲の骨格を辿る代表サンプルを掲載。原曲の年が未確定の場合は年表の比較点を保留。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14"
   }
 ]
