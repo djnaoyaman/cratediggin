@@ -34,5 +34,5 @@
 /* Scratch cue makes the otherwise symmetric grooves visibly rotate on every device. */
 @keyframes crate-record-spin{from{transform:rotate(-15deg)}to{transform:rotate(345deg)}}
 .record-seal{position:relative;animation:crate-record-spin 1.8s linear infinite;transform-origin:50% 50%;will-change:transform}
-.record-seal::after{content:"";position:absolute;left:47%;top:9%;width:6%;height:19%;border-radius:1px;background:#fff;box-shadow:0 0 0 1px #ffffff35}
+.record-seal::after{content:"";position:absolute;left:45%;top:3%;width:10%;height:31%;border-radius:0;background:#fff;box-shadow:0 1px 2px #0008}
 @media(prefers-reduced-motion:reduce){.record-seal{animation:none;will-change:auto}}

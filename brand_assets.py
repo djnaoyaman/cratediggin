@@ -18,7 +18,7 @@ def vinyl(im,cx,cy,r):
         d.ellipse((cx-radius,cy-radius,cx+radius,cy+radius),outline='#303238',width=2)
     lr=r*.37;d.ellipse((cx-lr,cy-lr,cx+lr,cy+lr),fill=WHITE)
     # The same off-centre scratch cue sticker as the animated record.
-    d.rounded_rectangle((cx-4,cy-r*.86,cx+4,cy-r*.53),radius=2,fill=WHITE)
+    d.rectangle((cx-r*.10,cy-r*.94,cx+r*.10,cy-r*.32),fill=WHITE)
     text(im,(cx-lr*.78,cy-lr*.32),'33 1/3',int(r*.32),width=lr*1.56,fill=BLUE)
     d.ellipse((cx-2,cy-2,cx+2,cy+2),fill=INK)
 def icon(size):
