@@ -23054,5 +23054,101 @@
       "cut-scratch"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+  },
+  {
+    "id": "dj-shadow-the-number-song",
+    "title": "The Number Song",
+    "artist": "DJ Shadow",
+    "year": 1996,
+    "yearBasis": "1996年のアルバム『Endtroducing.....』収録。",
+    "region": "San Francisco Bay Area",
+    "scene": "San Francisco Bay Area",
+    "category": "Instrumental Hip Hop",
+    "moods": [
+      "グルーヴ",
+      "街歩き"
+    ],
+    "album": "Endtroducing.....",
+    "label": "Mo' Wax",
+    "producer": "DJ Shadow",
+    "members": "DJ Shadow",
+    "youtube": {
+      "id": null,
+      "url": null,
+      "channel": "",
+      "type": "未照合",
+      "official": false,
+      "verified": "",
+      "verification": "再生可能な正規音源を確認するまでURLを掲載しない。"
+    },
+    "art": {
+      "word": "THE NUMBER SONG",
+      "lines": [
+        "THE NUMBER",
+        "SONG"
+      ],
+      "tag": "DJ SHADOW / 1996",
+      "style": "piece",
+      "seed": 1996225,
+      "profile": "ny-subway",
+      "palette": [
+        "#608a78",
+        "#e2d5b5",
+        "#b38052",
+        "#29392f"
+      ],
+      "paletteSource": "Endtroducing.....",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "数字を数える声が、ビートの一部になる。",
+    "essayTitle": "数字の列から、音楽が始まる。",
+    "essay": [
+      "数字を数える声が、ビートの一部になる。順番を示すだけだった声が、切り刻まれ、リズムとして歩き始める。",
+      "レコードの断片を並べ替えることで、聴き慣れた音は別の表情を見せる。DJ Shadowの面白さは、音を集めることよりも、集めた音に新しい時間を与えることにある。",
+      "『Endtroducing.....』を聴き直すなら、この曲は外せない。カウントが続くあいだ、こちらも音の仕掛けを数えてしまう。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品",
+        "text": "DJ Shadowのアルバム『Endtroducing.....』（1996年）収録曲。12インチ盤の品番とバージョンは継続照合中。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用サンプルの個別照合は未完了。",
+    "listening": [
+      "カウントする声とドラムの絡み。",
+      "音の断片が切り替わる瞬間。"
+    ],
+    "context": "『Endtroducing.....』に収録されたカットアップの魅力を示す一曲。",
+    "sources": [
+      {
+        "label": "DJ Shadow公式サイト",
+        "url": "https://djshadow.com/",
+        "kind": "アーティスト公式サイト"
+      }
+    ],
+    "producers": [
+      "DJ Shadow"
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム",
+      "声の掛け合い"
+    ],
+    "addedOrder": 224,
+    "editorialStatus": "楽曲追加済み。音源、12インチ盤面、サンプル詳細は継続照合中。",
+    "collections": [
+      "walk",
+      "west"
+    ],
+    "editorialCrates": [
+      "cut-scratch"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   }
 ]
