@@ -1,5 +1,5 @@
 {
-  "version": "13.0",
+  "version": "14.0",
   "timezone": "Asia/Tokyo",
   "policy": "major-only",
   "history": [
@@ -118,6 +118,15 @@
       "description": "Gang Starrの指定14曲を照合し、既存7曲と新規7曲で全曲を収録。計220曲。音の聴きどころを基準に選んだ5つの棚、その他の地域、全年代のGang Starr特集を追加。50曲ずつの一覧を維持。",
       "kind": "major",
       "dateBasis": "変更記録日時",
+      "retrospective": false
+    },
+    {
+      "version": "14.0",
+      "datetime": "2026-10-15T09:00:00+09:00",
+      "title": "DJ Shadow 12インチ・アーカイブ拡張",
+      "description": "DJ ShadowのMo' Wax期12インチ作品4曲を追加。公式音源や盤面の未確認事項は明示し、既存220曲を維持。Nasを含む残りの盤は継続調査。",
+      "kind": "major",
+      "dateBasis": "変更記録日時（暫定）",
       "retrospective": false
     }
   ]
