@@ -154,7 +154,11 @@
       "cafe",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "93-til-infinity",
@@ -309,7 +313,11 @@
       "cafe",
       "walk",
       "west"
-    ]
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "in-the-house",
@@ -461,7 +469,11 @@
       "pizza",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "what-im-after",
@@ -747,7 +759,11 @@
     "addedOrder": 4,
     "collections": [
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "runnin",
@@ -895,7 +911,11 @@
       "cafe",
       "walk",
       "west"
-    ]
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "resurrection",
@@ -1021,7 +1041,11 @@
     "collections": [
       "cafe",
       "walk"
-    ]
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "mass-appeal",
@@ -1156,7 +1180,12 @@
       "pizza",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "raw-beats",
+      "cut-scratch"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "props-over-here",
@@ -1286,7 +1315,11 @@
       "pizza",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "times-up",
@@ -1408,7 +1441,11 @@
     "addedOrder": 9,
     "collections": [
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "the-lump-lump",
@@ -1660,7 +1697,11 @@
     "addedOrder": 11,
     "collections": [
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "the-shit-is-real",
@@ -1903,7 +1944,11 @@
       "cafe",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "a-tribe-called-quest-check-the-rhime",
@@ -2020,7 +2065,11 @@
       "pizza",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "a-tribe-called-quest-award-tour",
@@ -2230,7 +2279,11 @@
       "pizza",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "a-tribe-called-quest-bonita-applebum",
@@ -2341,7 +2394,11 @@
       "cafe",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "a-tribe-called-quest-jazz-we-ve-got",
@@ -2434,7 +2491,11 @@
       "cafe",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "pete-rock-c-l-smooth-they-reminisce-over-you-t-r-o-y",
@@ -2544,7 +2605,11 @@
       "cafe",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "pete-rock-c-l-smooth-straighten-it-out",
@@ -3456,7 +3521,11 @@
       "pizza",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "the-beatnuts-off-the-books",
@@ -3642,7 +3711,11 @@
       "pizza",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "lords-of-the-underground-funky-child",
@@ -3734,7 +3807,11 @@
       "pizza",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "gang-starr-dwyck",
@@ -3826,7 +3903,11 @@
       "pizza",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "gang-starr-take-it-personal",
@@ -3916,7 +3997,12 @@
     "collections": [
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "raw-beats",
+      "cut-scratch"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "gang-starr-code-of-the-streets",
@@ -4005,7 +4091,11 @@
     "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
     "collections": [
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "gang-starr-above-the-clouds",
@@ -4096,7 +4186,11 @@
     "collections": [
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "gang-starr-full-clip",
@@ -4186,7 +4280,12 @@
     "collections": [
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "raw-beats",
+      "cut-scratch"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "diamond-d-best-kept-secret",
@@ -4677,7 +4776,11 @@
       "pizza",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "showbiz-a-g-soul-clap",
@@ -4773,7 +4876,11 @@
       "pizza",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "showbiz-a-g-next-level-nyte-time-mix",
@@ -5053,7 +5160,11 @@
       "cafe",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "jeru-the-damaja-come-clean",
@@ -5159,7 +5270,11 @@
     "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
     "collections": [
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "jeru-the-damaja-ya-playin-yaself",
@@ -5342,7 +5457,11 @@
       "cafe",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "all-city-productions-unsolved-mysterme",
@@ -6391,7 +6510,11 @@
     "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
     "collections": [
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "nas-represent",
@@ -6481,7 +6604,11 @@
     "collections": [
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "large-professor-i-juswanna-chill",
@@ -6854,7 +6981,11 @@
     "collections": [
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "the-notorious-b-i-g-juicy",
@@ -7331,7 +7462,11 @@
     "collections": [
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "mobb-deep-survival-of-the-fittest",
@@ -7422,7 +7557,11 @@
     "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
     "collections": [
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "wu-tang-clan-c-r-e-a-m",
@@ -7631,7 +7770,11 @@
     "collections": [
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "gza-liquid-swords",
@@ -7722,7 +7865,11 @@
     "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
     "collections": [
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "raekwon-ice-cream",
@@ -8002,7 +8149,11 @@
       "pizza",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "de-la-soul-stakes-is-high",
@@ -8187,7 +8338,11 @@
       "cafe",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "black-sheep-the-choice-is-yours-revisited",
@@ -8373,7 +8528,11 @@
     "collections": [
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "brand-nubian-all-for-one",
@@ -8556,7 +8715,11 @@
       "cafe",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "digable-planets-rebirth-of-slick-cool-like-dat",
@@ -8648,7 +8811,11 @@
       "cafe",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "digable-planets-9th-wonder-blackitolism",
@@ -8855,7 +9022,11 @@
     "collections": [
       "cafe",
       "walk"
-    ]
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "the-roots-proceed",
@@ -9039,7 +9210,11 @@
       "cafe",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "common-i-used-to-love-h-e-r",
@@ -9244,7 +9419,11 @@
     "collections": [
       "cafe",
       "walk"
-    ]
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "mos-def-ms-fat-booty",
@@ -9450,7 +9629,11 @@
     "collections": [
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "pharoahe-monch-simon-says",
@@ -9540,7 +9723,11 @@
     "collections": [
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "krs-one-mc-s-act-like-they-don-t-know",
@@ -9633,7 +9820,12 @@
       "pizza",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "cut-scratch",
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "krs-one-sound-of-da-police",
@@ -9816,7 +10008,11 @@
       "pizza",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "epmd-so-wat-cha-sayin",
@@ -9912,7 +10108,11 @@
       "pizza",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "das-efx-they-want-efx",
@@ -11940,7 +12140,11 @@
     "collections": [
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "kool-g-rap-dj-polo-ill-street-blues",
@@ -12121,7 +12325,11 @@
     "collections": [
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "epmd-you-gots-to-chill",
@@ -12216,7 +12424,11 @@
       "pizza",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "epmd-crossover",
@@ -13414,7 +13626,11 @@
     "collections": [
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "camp-lo-coolie-high",
@@ -13506,7 +13722,11 @@
       "cafe",
       "walk",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "fugees-fu-gee-la",
@@ -13866,7 +14086,11 @@
       "pizza",
       "walk",
       "west"
-    ]
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "dilated-peoples-worst-comes-to-worst",
@@ -14049,7 +14273,11 @@
       "pizza",
       "walk",
       "west"
-    ]
+    ],
+    "editorialCrates": [
+      "cut-scratch"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "dj-shadow-midnight-in-a-perfect-world",
@@ -14141,7 +14369,11 @@
       "cafe",
       "walk",
       "west"
-    ]
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "dj-krush-kemuri",
@@ -14232,7 +14464,11 @@
     "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
     "collections": [
       "walk"
-    ]
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "nujabes-feather",
@@ -14322,7 +14558,11 @@
     "collections": [
       "cafe",
       "walk"
-    ]
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "nujabes-luv-sic-part-3",
@@ -14414,7 +14654,11 @@
     "collections": [
       "cafe",
       "walk"
-    ]
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "j-dilla-so-far-to-go",
@@ -14504,7 +14748,11 @@
     "collections": [
       "cafe",
       "walk"
-    ]
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "slum-village-fall-in-love",
@@ -14594,7 +14842,11 @@
     "collections": [
       "cafe",
       "walk"
-    ]
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "the-roots-you-got-me",
@@ -15093,7 +15345,11 @@
     "collections": [
       "pizza",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "cut-scratch"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "beastie-boys-shake-your-rump",
@@ -15299,7 +15555,11 @@
     "collections": [
       "pizza",
       "east"
-    ]
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "beastie-boys-pass-the-mic",
@@ -16981,7 +17241,11 @@
     "artists": [
       "Erick Sermon",
       "Passion"
-    ]
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "erick-sermon-its-that-hit",
@@ -17296,7 +17560,11 @@
     "datePublished": "2026-10-14",
     "artists": [
       "Redman"
-    ]
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "erick-sermon-lookaway-remix",
@@ -19705,7 +19973,11 @@
     "datePublished": "2026-10-14",
     "artists": [
       "AZ"
-    ]
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "pete-rock-cl-smooth-lots-of-lovin",
@@ -19824,7 +20096,11 @@
     "artists": [
       "Pete Rock",
       "C.L. Smooth"
-    ]
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "group-therapy-east-coast-west-coast-killas-fire-version",
@@ -20048,7 +20324,11 @@
       "pizza",
       "walk"
     ],
-    "datePublished": "2026-10-14"
+    "datePublished": "2026-10-14",
+    "editorialCrates": [
+      "cut-scratch"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "jurassic-5-lesson-6-the-lecture",
@@ -20145,7 +20425,11 @@
       "walk",
       "west"
     ],
-    "datePublished": "2026-10-14"
+    "datePublished": "2026-10-14",
+    "editorialCrates": [
+      "cut-scratch"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "jurassic-5-jayou",
@@ -20242,7 +20526,11 @@
       "walk",
       "west"
     ],
-    "datePublished": "2026-10-14"
+    "datePublished": "2026-10-14",
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "ugly-duckling-now-who-s-laughin",
@@ -20339,7 +20627,11 @@
       "walk",
       "west"
     ],
-    "datePublished": "2026-10-14"
+    "datePublished": "2026-10-14",
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "big-noyd-usual-suspect",
@@ -20451,7 +20743,11 @@
       "Big Noyd",
       "Prodigy",
       "Havoc"
-    ]
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "dilated-peoples-work-the-angles",
@@ -20587,7 +20883,11 @@
       "west"
     ],
     "datePublished": "2026-10-14",
-    "yearBasis": "1998年の12インチを基準。The Platformのアルバム収録は2000年。"
+    "yearBasis": "1998年の12インチを基準。The Platformのアルバム収録は2000年。",
+    "editorialCrates": [
+      "cut-scratch"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "gang-starr-flip-the-script",
@@ -20830,7 +21130,11 @@
       "walk",
       "east"
     ],
-    "datePublished": "2026-10-14"
+    "datePublished": "2026-10-14",
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "gang-starr-take-two-and-pass",
@@ -20965,7 +21269,11 @@
       "walk",
       "east"
     ],
-    "datePublished": "2026-10-14"
+    "datePublished": "2026-10-14",
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "gang-starr-2-deep",
@@ -21179,7 +21487,11 @@
       "walk",
       "east"
     ],
-    "datePublished": "2026-10-14"
+    "datePublished": "2026-10-14",
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "gang-starr-the-remainz",
@@ -21423,7 +21735,11 @@
       "walk",
       "east"
     ],
-    "datePublished": "2026-10-14"
+    "datePublished": "2026-10-14",
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   },
   {
     "id": "gang-starr-b-y-s",
@@ -21558,6 +21874,815 @@
       "walk",
       "east"
     ],
-    "datePublished": "2026-10-14"
+    "datePublished": "2026-10-14",
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+  },
+  {
+    "id": "gang-starr-alongwaytogo",
+    "title": "ALONGWAYTOGO",
+    "artist": "Gang Starr",
+    "year": 1994,
+    "region": "New York",
+    "scene": "Brooklyn / New York",
+    "category": "Boom Bap",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "album": "Hard to Earn",
+    "label": "Chrysalis",
+    "producer": "DJ Premier",
+    "members": "Guru / DJ Premier",
+    "youtube": {
+      "id": "rLKmXovPVP8",
+      "url": "https://www.youtube.com/watch?v=rLKmXovPVP8",
+      "channel": "Gang Starr",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "検索結果の曲名・投稿者・権利者表示を照合。埋め込み再生は未確認。公式配信を探索し、見つからなかった場合は参考投稿と明示。"
+    },
+    "art": {
+      "word": "ALONGWAYTOGO",
+      "tag": "NEW YORK / 1994",
+      "style": "subway",
+      "seed": 199613,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "ALONGWAYTOGO"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "短いループが進路を決め、スクラッチが句読点を打つ。終点を急がないための、硬い足取り。",
+    "essayTitle": "まだ先がある、というビート。",
+    "essay": [
+      "曲名を一息でつなげた文字列が、すでにひとつのループに見える。私には、この曲の反復も同じように聞こえる。区切りを探している間に、次の小節へ運ばれている。",
+      "Guruの低い声を中心に置いてから、周囲の切れ目へ耳を向ける。スクラッチは飾りというより句読点だ。声が止まった場所にも、まだ発言する人がいる。",
+      "「Mass Appeal」だけで『Hard to Earn』の棚を閉じるのは、少々もったいない。この曲を隣へ置くと、同じ二人が反復の表情を変えていることがよく見える。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と年",
+        "text": "『Hard to Earn』の収録曲。年表は1994年として掲載。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "音源の採用区分",
+        "text": "権利者による公式配信を掲載。配信ページのアップロード年と作品の初出年は区別する。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "まず声とドラムの間合いを聴く。",
+      "同じアルバムの前後の曲と並べ、ループの表情を比べる。",
+      "年代順と選曲棚の両方から、違う隣り合わせで聴く。"
+    ],
+    "context": "1994年の作品。活動地域はNew Yorkとして掲載し、出身地やサウンドトラックの舞台とは区別する。",
+    "sources": [
+      {
+        "label": "ALONGWAYTOGO — Gang Starr",
+        "url": "https://www.youtube.com/watch?v=rLKmXovPVP8",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Gang Starr公式バイオグラフィー",
+        "url": "https://gangstarr.global/pages/bio",
+        "kind": "アーティスト公式資料"
+      }
+    ],
+    "producers": [
+      "DJ Premier"
+    ],
+    "connections": [
+      "Gang Starr"
+    ],
+    "sounds": [
+      "スクラッチ",
+      "ドラム"
+    ],
+    "addedOrder": 214,
+    "editorialStatus": "聴き方とエッセイは編者の私見。事実は出典を参照。",
+    "sampleStatus": "サンプルの出典と版を個別照合中。未確認の曲名・音源は掲載していません。",
+    "collections": [
+      "east"
+    ],
+    "datePublished": "2026-10-15",
+    "editorialCrates": [
+      "raw-beats",
+      "cut-scratch"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+  },
+  {
+    "id": "gang-starr-battle",
+    "title": "Battle",
+    "artist": "Gang Starr",
+    "year": 2002,
+    "region": "New York",
+    "scene": "Brooklyn / New York",
+    "category": "Boom Bap",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "album": "8 Mile (Music from and Inspired by the Motion Picture)",
+    "label": "Shady / Interscope",
+    "producer": "DJ Premier",
+    "members": "Guru / DJ Premier",
+    "youtube": {
+      "id": "dcp4iB7ePQo",
+      "url": "https://www.youtube.com/watch?v=dcp4iB7ePQo",
+      "channel": "Gang Starr",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "検索結果の曲名・投稿者・権利者表示を照合。埋め込み再生は未確認。公式配信を探索し、見つからなかった場合は参考投稿と明示。"
+    },
+    "art": {
+      "word": "BATTLE",
+      "tag": "NEW YORK / 2002",
+      "style": "subway",
+      "seed": 200414,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "BATTLE"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "映画の大看板の脇で、GuruとPremierが二人の距離を守る。",
+    "essayTitle": "二十一世紀にも、声の居場所はある。",
+    "essay": [
+      "大きなサウンドトラックには、曲まで大きく見せたくなる誘惑がある。けれど、ここで私が追いたいのはGuruの声の置き方だ。ビートの隙間へ、言葉が腰を下ろす。",
+      "『8 Mile』の収録曲として2002年に発表された一曲。映画の舞台がデトロイトでも、それを理由にGang Starrの活動地域まで移してはいけない。作品の舞台と、音楽家の足場は別の話である。",
+      "初期の曲と続けて聴けば、年代当てより面白い比較ができる。声の輪郭とドラムの間合い。変わったところを探す耳に、変わらない手つきも引っかかる。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と年",
+        "text": "『8 Mile (Music from and Inspired by the Motion Picture)』の収録曲。年表は2002年として掲載。",
+        "sources": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "音源の採用区分",
+        "text": "権利者による公式配信を掲載。配信ページのアップロード年と作品の初出年は区別する。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "まず声とドラムの間合いを聴く。",
+      "同じアルバムの前後の曲と並べ、ループの表情を比べる。",
+      "年代順と選曲棚の両方から、違う隣り合わせで聴く。"
+    ],
+    "context": "2002年の作品。活動地域はNew Yorkとして掲載し、出身地やサウンドトラックの舞台とは区別する。",
+    "sources": [
+      {
+        "label": "Battle — Gang Starr",
+        "url": "https://www.youtube.com/watch?v=dcp4iB7ePQo",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Gang Starr公式バイオグラフィー",
+        "url": "https://gangstarr.global/pages/bio",
+        "kind": "アーティスト公式資料"
+      },
+      {
+        "label": "8 Mile — Shady Records公式収録曲",
+        "url": "https://www.shadyrecords.com/album/8-mile/",
+        "kind": "レーベル公式資料"
+      }
+    ],
+    "producers": [
+      "DJ Premier"
+    ],
+    "connections": [
+      "Gang Starr"
+    ],
+    "sounds": [
+      "ドラム",
+      "声"
+    ],
+    "addedOrder": 215,
+    "editorialStatus": "聴き方とエッセイは編者の私見。事実は出典を参照。",
+    "sampleStatus": "サンプルの出典と版を個別照合中。未確認の曲名・音源は掲載していません。",
+    "collections": [
+      "east"
+    ],
+    "datePublished": "2026-10-15",
+    "editorialCrates": [
+      "raw-beats",
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+  },
+  {
+    "id": "gang-starr-blowin-up-the-spot",
+    "title": "Blowin’ Up the Spot",
+    "artist": "Gang Starr",
+    "year": 1994,
+    "region": "New York",
+    "scene": "Brooklyn / New York",
+    "category": "Boom Bap",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "album": "Hard to Earn",
+    "label": "Chrysalis",
+    "producer": "DJ Premier",
+    "members": "Guru / DJ Premier",
+    "youtube": {
+      "id": "YfMB60rKhIg",
+      "url": "https://www.youtube.com/watch?v=YfMB60rKhIg",
+      "channel": "Gang Starr",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "検索結果の曲名・投稿者・権利者表示を照合。埋め込み再生は未確認。公式配信を探索し、見つからなかった場合は参考投稿と明示。"
+    },
+    "art": {
+      "word": "BLOWIN’ UP THE SPOT",
+      "tag": "NEW YORK / 1994",
+      "style": "subway",
+      "seed": 199615,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "BLOWIN’",
+        "UP",
+        "THE",
+        "SPOT"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "声とドラムの押し引きで、狭いループが広い場所を取る。",
+    "essayTitle": "音の圧より、配置の圧。",
+    "essay": [
+      "音を足すと、強くなった気がする。だが、この曲で私が面白いと思うのは配置のほうだ。声が前へ出てくる瞬間、ビートの輪郭まで少し強くなる。",
+      "『Hard to Earn』の一曲として、同じ盤の「ALONGWAYTOGO」や「Mass Appeal」と並べる。一枚の中で何が共通し、どこから表情が違うのか。アルバムを聴く楽しみは、その比較にもある。",
+      "大音量だけに頼らず、少し音を絞ってドラムと声の距離を聴いてみる。輪郭が残る曲は、こちらの耳にも仕事をさせてくれる。音楽を流すだけのつもりが、つい手が止まる。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と年",
+        "text": "『Hard to Earn』の収録曲。年表は1994年として掲載。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "音源の採用区分",
+        "text": "権利者による公式配信を掲載。配信ページのアップロード年と作品の初出年は区別する。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "まず声とドラムの間合いを聴く。",
+      "同じアルバムの前後の曲と並べ、ループの表情を比べる。",
+      "年代順と選曲棚の両方から、違う隣り合わせで聴く。"
+    ],
+    "context": "1994年の作品。活動地域はNew Yorkとして掲載し、出身地やサウンドトラックの舞台とは区別する。",
+    "sources": [
+      {
+        "label": "Blowin’ Up the Spot — Gang Starr",
+        "url": "https://www.youtube.com/watch?v=YfMB60rKhIg",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Gang Starr公式バイオグラフィー",
+        "url": "https://gangstarr.global/pages/bio",
+        "kind": "アーティスト公式資料"
+      }
+    ],
+    "producers": [
+      "DJ Premier"
+    ],
+    "connections": [
+      "Gang Starr"
+    ],
+    "sounds": [
+      "ドラム",
+      "声"
+    ],
+    "addedOrder": 216,
+    "editorialStatus": "聴き方とエッセイは編者の私見。事実は出典を参照。",
+    "sampleStatus": "サンプルの出典と版を個別照合中。未確認の曲名・音源は掲載していません。",
+    "collections": [
+      "east"
+    ],
+    "datePublished": "2026-10-15",
+    "editorialCrates": [
+      "raw-beats",
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+  },
+  {
+    "id": "gang-starr-dj-premier-in-deep-concentration",
+    "title": "DJ Premier in Deep Concentration",
+    "artist": "Gang Starr",
+    "year": 1989,
+    "region": "New York",
+    "scene": "Brooklyn / New York",
+    "category": "Instrumental Hip Hop",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "album": "No More Mr. Nice Guy",
+    "label": "Wild Pitch",
+    "producer": "DJ Premier",
+    "members": "Guru / DJ Premier",
+    "youtube": {
+      "id": "45rN6Kgz8w8",
+      "url": "https://www.youtube.com/watch?v=45rN6Kgz8w8",
+      "channel": "Little Pad",
+      "type": "参考投稿（一般ユーザー）",
+      "official": false,
+      "verified": "2026-10-15",
+      "verification": "検索結果の曲名・投稿者・権利者表示を照合。埋め込み再生は未確認。公式配信を探索し、見つからなかった場合は参考投稿と明示。"
+    },
+    "art": {
+      "word": "DJ PREMIER IN DEEP CONCENTRATION",
+      "tag": "NEW YORK / 1989",
+      "style": "subway",
+      "seed": 199116,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "DJ",
+        "PREMIER",
+        "IN",
+        "DEEP"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "マイクを手放しても、音楽の会話は止まらない。ターンテーブルの手つきへ。",
+    "essayTitle": "DJが話している時間。",
+    "essay": [
+      "ラップを待っていると、もう始まっている会話を聞き逃す。この曲では、レコードを動かす手が前へ出る。私には、音を擦る動きそのものが言葉のように聞こえる。",
+      "1989年の『No More Mr. Nice Guy』に収録。公式バイオグラフィーもDJを前面に出した曲として挙げている。後年の名プロデューサーを知ってから戻ると、机の上より先にターンテーブルが見える。",
+      "「Lesson 6」「Lesson 7」と同じ棚へ置いてみる。直接の制作上のつながりを断定するためではない。切り取る、つなぐ、擦るという行為が、それぞれ違う話し方になるのを楽しむためだ。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と年",
+        "text": "『No More Mr. Nice Guy』の収録曲。年表は1989年として掲載。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "音源の採用区分",
+        "text": "公式配信を探索したが確定できず、Little Padによる参考投稿を掲載。公式音源とは区別する。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "スクラッチの切れ目とフレーズのつなぎ方に耳を向ける。",
+      "同じアルバムの前後の曲と並べ、ループの表情を比べる。",
+      "年代順と選曲棚の両方から、違う隣り合わせで聴く。"
+    ],
+    "context": "1989年の作品。活動地域はNew Yorkとして掲載し、出身地やサウンドトラックの舞台とは区別する。",
+    "sources": [
+      {
+        "label": "DJ Premier in Deep Concentration — Little Pad",
+        "url": "https://www.youtube.com/watch?v=45rN6Kgz8w8",
+        "kind": "一般ユーザー投稿・参考音源"
+      },
+      {
+        "label": "Gang Starr公式バイオグラフィー",
+        "url": "https://gangstarr.global/pages/bio",
+        "kind": "アーティスト公式資料"
+      }
+    ],
+    "producers": [
+      "DJ Premier"
+    ],
+    "connections": [
+      "Gang Starr"
+    ],
+    "sounds": [
+      "スクラッチ",
+      "ドラム"
+    ],
+    "addedOrder": 217,
+    "editorialStatus": "聴き方とエッセイは編者の私見。事実は出典を参照。",
+    "sampleStatus": "サンプルの出典と版を個別照合中。未確認の曲名・音源は掲載していません。",
+    "collections": [
+      "east"
+    ],
+    "datePublished": "2026-10-15",
+    "editorialCrates": [
+      "cut-scratch"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+  },
+  {
+    "id": "gang-starr-gotta-get-over-taking-loot",
+    "title": "Gotta Get Over (Taking Loot)",
+    "artist": "Gang Starr",
+    "year": 1992,
+    "region": "New York",
+    "scene": "Brooklyn / New York",
+    "category": "Boom Bap",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "album": "Trespass (Music from the Motion Picture)",
+    "label": "Sire",
+    "producer": "DJ Premier",
+    "members": "Guru / DJ Premier",
+    "youtube": {
+      "id": "wnVHC2xMghE",
+      "url": "https://www.youtube.com/watch?v=wnVHC2xMghE",
+      "channel": "Gang Starr",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "検索結果の曲名・投稿者・権利者表示を照合。埋め込み再生は未確認。公式配信を探索し、見つからなかった場合は参考投稿と明示。"
+    },
+    "art": {
+      "word": "GOTTA GET OVER (TAKING LOOT)",
+      "tag": "NEW YORK / 1992",
+      "style": "subway",
+      "seed": 199417,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "GOTTA",
+        "GET",
+        "OVER",
+        "(TAKING"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "サウンドトラックから拾い直す、二人の輪郭。",
+    "essayTitle": "アルバムの外にも、街は続く。",
+    "essay": [
+      "オリジナルアルバムを順に聴くだけでは、取りこぼす曲がある。この曲は『Trespass』のサウンドトラックへ寄り道する入口になる。寄り道のほうが本棚を増やすのは、音楽でも同じらしい。",
+      "掲載音源は『Full Clip』収録の公式配信だが、年表には1999年のベスト盤ではなく1992年を置く。再会した日を誕生日にしてしまうと、レコードの履歴はずいぶん若返ってしまう。",
+      "ここではGuruの語りと、ビートが次の言葉を待つ場所へ耳を向ける。派手な看板から少し離れて聴いても、二人の輪郭はちゃんと残っている。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と年",
+        "text": "『Trespass (Music from the Motion Picture)』の収録曲。年表は1992年として掲載。",
+        "sources": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "音源の採用区分",
+        "text": "権利者による公式配信を掲載。配信ページのアップロード年と作品の初出年は区別する。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "まず声とドラムの間合いを聴く。",
+      "同じアルバムの前後の曲と並べ、ループの表情を比べる。",
+      "年代順と選曲棚の両方から、違う隣り合わせで聴く。"
+    ],
+    "context": "1992年の作品。活動地域はNew Yorkとして掲載し、出身地やサウンドトラックの舞台とは区別する。",
+    "sources": [
+      {
+        "label": "Gotta Get Over (Taking Loot) — Gang Starr",
+        "url": "https://www.youtube.com/watch?v=wnVHC2xMghE",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Gang Starr公式バイオグラフィー",
+        "url": "https://gangstarr.global/pages/bio",
+        "kind": "アーティスト公式資料"
+      },
+      {
+        "label": "Trespass — 正規配信の収録情報",
+        "url": "https://open.spotify.com/track/5lIe1itP0OXP1PTu8bnxpn",
+        "kind": "正規配信資料"
+      }
+    ],
+    "producers": [
+      "DJ Premier"
+    ],
+    "connections": [
+      "Gang Starr"
+    ],
+    "sounds": [
+      "ドラム",
+      "声"
+    ],
+    "addedOrder": 218,
+    "editorialStatus": "聴き方とエッセイは編者の私見。事実は出典を参照。",
+    "sampleStatus": "サンプルの出典と版を個別照合中。未確認の曲名・音源は掲載していません。",
+    "collections": [
+      "east"
+    ],
+    "datePublished": "2026-10-15",
+    "editorialCrates": [
+      "raw-beats",
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+  },
+  {
+    "id": "gang-starr-no-shame-in-my-game",
+    "title": "No Shame in My Game",
+    "artist": "Gang Starr",
+    "year": 1992,
+    "region": "New York",
+    "scene": "Brooklyn / New York",
+    "category": "Boom Bap",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "album": "Daily Operation",
+    "label": "Chrysalis",
+    "producer": "DJ Premier",
+    "members": "Guru / DJ Premier",
+    "youtube": {
+      "id": "RzuD6pM8P7o",
+      "url": "https://www.youtube.com/watch?v=RzuD6pM8P7o",
+      "channel": "Gang Starr",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "検索結果の曲名・投稿者・権利者表示を照合。埋め込み再生は未確認。公式配信を探索し、見つからなかった場合は参考投稿と明示。"
+    },
+    "art": {
+      "word": "NO SHAME IN MY GAME",
+      "tag": "NEW YORK / 1992",
+      "style": "subway",
+      "seed": 199418,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "NO",
+        "SHAME",
+        "IN",
+        "MY"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "同じ盤の定番曲から、もう一段奥へ。Guruの声の重心を聴く。",
+    "essayTitle": "声に、余分な力を入れない。",
+    "essay": [
+      "声を張れば、言葉が届くとは限らない。Guruを聴いていると、声量とは別の説得力が気になる。低い重心のまま、ビートの上に居場所を作ってしまう。",
+      "『Daily Operation』の一曲「No Shame in My Game」。同じ盤のほかの曲と並べると、同じ声がドラムによって違う表情を持つ。声が変わらなくても、部屋の響きは変わる。",
+      "「B.Y.S.」や「Take Two and Pass」から続けて聴く。好きな曲を増やすというより、好きな一枚の中で、これまで素通りしていた部屋の灯りをつけるような聴き方だ。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と年",
+        "text": "『Daily Operation』の収録曲。年表は1992年として掲載。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "音源の採用区分",
+        "text": "権利者による公式配信を掲載。配信ページのアップロード年と作品の初出年は区別する。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "まず声とドラムの間合いを聴く。",
+      "同じアルバムの前後の曲と並べ、ループの表情を比べる。",
+      "年代順と選曲棚の両方から、違う隣り合わせで聴く。"
+    ],
+    "context": "1992年の作品。活動地域はNew Yorkとして掲載し、出身地やサウンドトラックの舞台とは区別する。",
+    "sources": [
+      {
+        "label": "No Shame in My Game — Gang Starr",
+        "url": "https://www.youtube.com/watch?v=RzuD6pM8P7o",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Gang Starr公式バイオグラフィー",
+        "url": "https://gangstarr.global/pages/bio",
+        "kind": "アーティスト公式資料"
+      }
+    ],
+    "producers": [
+      "DJ Premier"
+    ],
+    "connections": [
+      "Gang Starr"
+    ],
+    "sounds": [
+      "ドラム",
+      "声"
+    ],
+    "addedOrder": 219,
+    "editorialStatus": "聴き方とエッセイは編者の私見。事実は出典を参照。",
+    "sampleStatus": "サンプルの出典と版を個別照合中。未確認の曲名・音源は掲載していません。",
+    "collections": [
+      "east"
+    ],
+    "datePublished": "2026-10-15",
+    "editorialCrates": [
+      "raw-beats",
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "aliases": [
+      "No Shame"
+    ]
+  },
+  {
+    "id": "gang-starr-step-in-the-arena",
+    "title": "Step in the Arena",
+    "artist": "Gang Starr",
+    "year": 1991,
+    "region": "New York",
+    "scene": "Brooklyn / New York",
+    "category": "Boom Bap",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "album": "Step in the Arena",
+    "label": "Chrysalis",
+    "producer": "DJ Premier",
+    "members": "Guru / DJ Premier",
+    "youtube": {
+      "id": "DcOxPVilxrg",
+      "url": "https://www.youtube.com/watch?v=DcOxPVilxrg",
+      "channel": "Gang Starr",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "検索結果の曲名・投稿者・権利者表示を照合。埋め込み再生は未確認。公式配信を探索し、見つからなかった場合は参考投稿と明示。"
+    },
+    "art": {
+      "word": "STEP IN THE ARENA",
+      "tag": "NEW YORK / 1991",
+      "style": "subway",
+      "seed": 199319,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "STEP",
+        "IN",
+        "THE",
+        "ARENA"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "声とビート。その二つの釣り合いが、タイトル曲の看板になる。",
+    "essayTitle": "二人で立てる、大きさの場所。",
+    "essay": [
+      "アリーナという言葉は大きい。けれど私がこの曲で聴きたいのは、観客席の広さより、声とドラムの距離である。二人が収まる場所の設計が、そのまま曲の強さになる。",
+      "公式バイオグラフィーは、同名アルバムを1991年の作品としている。配信欄には異なる年の表示もあるため、このサイトでは公式の作品史に合わせて年表へ置いた。",
+      "1989年の「DJ Premier in Deep Concentration」と続ければ、DJの手つきとMCの居場所を一緒にたどれる。名盤という呼び名の前に、一曲のなかで何が起きているかを聴いていたい。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と年",
+        "text": "『Step in the Arena』の収録曲。年表は1991年として掲載。 公式バイオでは1991年。配信のReleased on欄に1990年表記もあるため、公式作品史を採用。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "音源の採用区分",
+        "text": "権利者による公式配信を掲載。配信ページのアップロード年と作品の初出年は区別する。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "まず声とドラムの間合いを聴く。",
+      "同じアルバムの前後の曲と並べ、ループの表情を比べる。",
+      "年代順と選曲棚の両方から、違う隣り合わせで聴く。"
+    ],
+    "context": "1991年の作品。活動地域はNew Yorkとして掲載し、出身地やサウンドトラックの舞台とは区別する。",
+    "sources": [
+      {
+        "label": "Step in the Arena — Gang Starr",
+        "url": "https://www.youtube.com/watch?v=DcOxPVilxrg",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Gang Starr公式バイオグラフィー",
+        "url": "https://gangstarr.global/pages/bio",
+        "kind": "アーティスト公式資料"
+      }
+    ],
+    "producers": [
+      "DJ Premier"
+    ],
+    "connections": [
+      "Gang Starr"
+    ],
+    "sounds": [
+      "ドラム",
+      "声"
+    ],
+    "addedOrder": 220,
+    "editorialStatus": "聴き方とエッセイは編者の私見。事実は出典を参照。",
+    "sampleStatus": "サンプルの出典と版を個別照合中。未確認の曲名・音源は掲載していません。",
+    "collections": [
+      "east"
+    ],
+    "datePublished": "2026-10-15",
+    "editorialCrates": [
+      "jazz-mellow",
+      "raw-beats",
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
   }
 ]
