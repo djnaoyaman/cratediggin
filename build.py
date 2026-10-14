@@ -41,7 +41,7 @@ for t in tracks:
     page=page.replace('href="'+HOST+'/"','href="'+HOST+'/songs/'+t['id']+'.html"',1)
     page=page.replace('<head>','<head><script>window.INITIAL_ROUTE="#/song/'+t['id']+'";</script>')
     page=page.replace('id="hero"','id="hero" hidden')
-    ld={'@context':'https://schema.org','@type':'Article','headline':t['title']+' — '+t['artist'],'author':{'@type':'Person','name':'DJ Naoyaman'},'datePublished':'2026-10-13','inLanguage':'ja','url':HOST+'/songs/'+t['id']+'.html'}
+    ld={'@context':'https://schema.org','@type':'Article','headline':t['title']+' — '+t['artist'],'author':{'@type':'Person','name':'DJ Naoyaman'},'datePublished':t.get('datePublished','2026-10-13'),'inLanguage':'ja','url':HOST+'/songs/'+t['id']+'.html'}
     page=page.replace('</head>','<script type="application/ld+json">'+json.dumps(ld,ensure_ascii=False)+'</script></head>')
     (p/(t['id']+'.html')).write_text(page)
     md='# '+t['title']+'\n\n'+t['artist']+' / '+str(t['year'])+' / '+t['region']+'\n\n## '+t['essayTitle']+'\n\n'+'\n\n'.join(t['essay'])+'\n\n## 制作背景\n\n'+'\n\n'.join('### '+f['title']+'\n\n'+f['text'] for f in t['facts'])+'\n\n## サンプル元\n\n'+'\n\n'.join(s['artist']+' — '+s['title']+'\n\n'+s['role']+('\n\nhttps://www.youtube.com/watch?v='+s['youtube']['id'] if s.get('youtube') else '') for s in t['samples'])+'\n\n## 出典\n\n'+'\n'.join('- ['+s['label']+']('+s['url']+')' for s in t['sources'])+'\n'
@@ -98,7 +98,7 @@ for page in DIST.rglob('*.html'):
         text=text.replace('<script src="/app.js"','<script src="/releases.js" defer></script><script src="/app.js"')
     if BASE_PATH:
         text=re.sub(r'((?:href|src)=")/(?!/|'+re.escape(BASE_PATH.lstrip('/'))+'/)',lambda m:m[1]+BASE_PATH+'/',text)
-    text=re.sub(r'((?:href|src)="[^"]*?(?:style\.css|app\.js|favicon\.svg|favicon-32\.png|favicon\.ico|apple-touch-icon\.png))(?:\?v=[0-9.]+)?(")',lambda m:m[1]+'?v='+release['version']+m[2],text)
+    text=re.sub(r'((?:href|src)="[^"]*?(?:style\.css|app\.js|timeline\.js|filters\.js|tracks\.js|favicon\.svg|favicon-32\.png|favicon\.ico|apple-touch-icon\.png))(?:\?v=[0-9.]+)?(")',lambda m:m[1]+'?v='+release['version']+m[2],text)
     page.write_text(text)
 manifest=json.loads((DIST/'site.webmanifest').read_text())
 manifest['start_url']=BASE_PATH+'/'

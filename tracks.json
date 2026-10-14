@@ -149,7 +149,12 @@
     "sounds": [
       "ベース"
     ],
-    "addedOrder": 0
+    "addedOrder": 0,
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "93-til-infinity",
@@ -299,7 +304,12 @@
     "sounds": [
       "鍵盤"
     ],
-    "addedOrder": 1
+    "addedOrder": 1,
+    "collections": [
+      "cafe",
+      "walk",
+      "west"
+    ]
   },
   {
     "id": "in-the-house",
@@ -446,7 +456,12 @@
     "sounds": [
       "ホーン"
     ],
-    "addedOrder": 2
+    "addedOrder": 2,
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "what-im-after",
@@ -578,7 +593,12 @@
     "sounds": [
       "声ネタ"
     ],
-    "addedOrder": 3
+    "addedOrder": 3,
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "bucktown",
@@ -724,7 +744,10 @@
       "ホーン",
       "ベース"
     ],
-    "addedOrder": 4
+    "addedOrder": 4,
+    "collections": [
+      "east"
+    ]
   },
   {
     "id": "runnin",
@@ -867,7 +890,12 @@
     "sounds": [
       "ギター"
     ],
-    "addedOrder": 5
+    "addedOrder": 5,
+    "collections": [
+      "cafe",
+      "walk",
+      "west"
+    ]
   },
   {
     "id": "resurrection",
@@ -989,7 +1017,11 @@
     "sounds": [
       "ピアノ"
     ],
-    "addedOrder": 6
+    "addedOrder": 6,
+    "collections": [
+      "cafe",
+      "walk"
+    ]
   },
   {
     "id": "mass-appeal",
@@ -1119,7 +1151,12 @@
     "sounds": [
       "旋律ループ"
     ],
-    "addedOrder": 7
+    "addedOrder": 7,
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "props-over-here",
@@ -1244,7 +1281,12 @@
     "sounds": [
       "ベース"
     ],
-    "addedOrder": 8
+    "addedOrder": 8,
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "times-up",
@@ -1363,7 +1405,10 @@
     "sounds": [
       "ベース"
     ],
-    "addedOrder": 9
+    "addedOrder": 9,
+    "collections": [
+      "east"
+    ]
   },
   {
     "id": "the-lump-lump",
@@ -1486,7 +1531,12 @@
     "sounds": [
       "声ネタ"
     ],
-    "addedOrder": 10
+    "addedOrder": 10,
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "put-it-on",
@@ -1607,7 +1657,10 @@
     "sounds": [
       "ヴィブラフォン"
     ],
-    "addedOrder": 11
+    "addedOrder": 11,
+    "collections": [
+      "east"
+    ]
   },
   {
     "id": "the-shit-is-real",
@@ -1729,7 +1782,10 @@
     "sounds": [
       "鍵盤"
     ],
-    "addedOrder": 12
+    "addedOrder": 12,
+    "collections": [
+      "east"
+    ]
   },
   {
     "id": "a-tribe-called-quest-electric-relaxation",
@@ -1842,7 +1898,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 13,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "a-tribe-called-quest-check-the-rhime",
@@ -1954,7 +2015,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 14,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "a-tribe-called-quest-award-tour",
@@ -2066,7 +2132,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 15,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "a-tribe-called-quest-scenario",
@@ -2154,7 +2225,12 @@
       "ドラム"
     ],
     "addedOrder": 16,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "a-tribe-called-quest-bonita-applebum",
@@ -2260,7 +2336,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 17,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "a-tribe-called-quest-jazz-we-ve-got",
@@ -2348,7 +2429,12 @@
       "ドラム"
     ],
     "addedOrder": 18,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "pete-rock-c-l-smooth-they-reminisce-over-you-t-r-o-y",
@@ -2453,7 +2539,12 @@
       "ホーン"
     ],
     "addedOrder": 19,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "pete-rock-c-l-smooth-straighten-it-out",
@@ -2564,7 +2655,12 @@
       "ファンク"
     ],
     "addedOrder": 20,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "pete-rock-c-l-smooth-take-you-there",
@@ -2651,7 +2747,12 @@
       "ドラム"
     ],
     "addedOrder": 21,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "pete-rock-c-l-smooth-i-get-physical",
@@ -2737,82 +2838,123 @@
       "ドラム"
     ],
     "addedOrder": 22,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "ini-fakin-jax",
-    "title": "Fakin' Jax",
-    "artist": "INI",
-    "year": 1995,
+    "title": "Fakin’ Jax",
+    "artist": "InI feat. Pete Rock",
+    "year": 1996,
     "yearBasis": "編集データ。初出年の個別照合は継続中。",
     "region": "New York",
-    "scene": "New York",
-    "category": "Hip Hop",
+    "scene": "New York / Hip Hop / Soul",
+    "category": "Hip Hop / Soul",
     "moods": [
-      "グルーヴ",
-      "メロウ"
+      "ディギング",
+      "声を聴く"
     ],
-    "album": "Fakin' Jax",
-    "label": "個別確認中",
+    "album": "Fakin Jax / Center of Attention",
+    "label": "採用音源の配信クレジット参照",
     "producer": "Pete Rock",
-    "members": "INI",
+    "members": "InI feat. Pete Rock",
     "youtube": {
-      "id": "9z5eQ6a1nDU",
-      "url": "https://www.youtube.com/watch?v=9z5eQ6a1nDU",
-      "channel": "Yanis",
-      "type": "参考投稿",
-      "official": false,
+      "id": "g_IAMN472XI",
+      "channel": "Pete Rock Official",
+      "type": "Official Audio",
+      "official": true,
       "verified": "2026-10-14",
-      "verification": "検索でタイトル・アーティスト・掲載説明を照合。実際の再生は未検証。"
+      "url": "https://www.youtube.com/watch?v=g_IAMN472XI",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
     },
     "art": {
-      "word": "FAKIN' JAX",
-      "lines": [
-        "FAKIN' JAX"
-      ],
-      "tag": "NEW YORK / 1995",
-      "style": "piece",
-      "seed": 1229926774,
+      "word": "FAKIN’ JAX",
+      "tag": "NEW YORK / 1996",
+      "style": "subway",
+      "seed": 2193,
       "profile": "ny-subway",
       "palette": [
-        "#bd433f",
-        "#e9e2cb",
-        "#6e777c",
-        "#202427"
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
       ],
-      "paletteSource": "Fakin' Jax",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "lettering": "angular",
-      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "FAKIN’",
+        "JAX"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "柔らかな素材と、言葉の切れ味。Pete Rockの別の顔をたどる。",
-    "essayTitle": "柔らかな素材と、言葉の切れ味。",
+    "deck": "Dorothy Ashbyの音を手がかりに、InIへ入る。",
+    "essayTitle": "名札の大きさに、惑わされない。",
     "essay": [
-      "柔らかな素材と、言葉の切れ味。Pete Rockの別の顔をたどる。",
-      "「Fakin' Jax」をこの棚に置く理由は、柔らかな素材と、言葉の切れ味という聴きどころにある。大きな名前の曲も、少し掘った曲も、その音の魅力で隣り合うように選んだ。",
-      "90年代を中心にしたこのクレートで、New Yorkの音と声の一つの表情を聴く。"
+      "Pete Rockの名前を頼りに来た人が、InIという名前を覚えて帰る。その順番で構わない。音楽の棚では、入口の大きな看板より、帰りに持っている小さな名札のほうが大切になることもある。",
+      "サンプルを辿るとDorothy AshbyのCause I Need Itへ繋がる。1969年の録音が、90年代のラップの場所を作る。アルバムの流通には複数の時期があるため、ここでは確認したシングルの1996年と、後年のアルバム配信を分けて扱う。",
+      "元になった音を知ってから聴き直しても、謎が全部消えるわけではない。同じ音が、なぜこの曲ではこの景色になるのか。その残った謎こそ、もう一度再生する理由になる。"
     ],
     "facts": [
       {
-        "title": "掲載音源について",
-        "text": "参考投稿を採用。音源の掲載説明を照合していますが、埋め込みでの再生可否は未検証です。",
+        "title": "採用音源の版を確認",
+        "text": "Fakin Jax / Center of Attentionへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
         "sources": [
           0
         ]
+      },
+      {
+        "title": "収録・発売情報の照合",
+        "text": "追加の出典で、収録作品または指定バージョンを確認。配信サービスの日付は再発や収録版により異なる場合がある。",
+        "sources": [
+          1
+        ]
       }
     ],
-    "samples": [],
-    "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
-    "listening": [
-      "柔らかな素材と、言葉の切れ味。Pete Rockの別の顔をたどる。",
-      "声が入る前のビートと、声が入ったあとの重心を聴き比べる。"
+    "samples": [
+      {
+        "artist": "Dorothy Ashby",
+        "title": "Cause I Need It",
+        "year": 1969,
+        "role": "サンプル系統の記録で、Fakin Jaxが用いた複数要素の素材として確認。ハープ奏者Dorothy Ashbyのレコードへ戻る入口。",
+        "main": true,
+        "sources": [
+          2
+        ],
+        "youtube": {
+          "id": "-BYA8JZ74VA",
+          "channel": "Dorothy Ashby - Topic",
+          "official": true,
+          "verified": "2026-10-14"
+        }
+      }
     ],
-    "context": "90年代を中心にしたこのクレートで、New Yorkの音と声の一つの表情を聴く。",
+    "sampleStatus": "確認できた代表的なサンプルを掲載。全素材の網羅ではありません。",
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1996年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
     "sources": [
       {
-        "label": "YouTube — INI / Fakin' Jax",
-        "url": "https://www.youtube.com/watch?v=9z5eQ6a1nDU",
-        "kind": "参考投稿・配信候補"
+        "label": "Pete Rock Official — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=g_IAMN472XI",
+        "kind": "公式配信"
+      },
+      {
+        "label": "CRIB RECORDS — 1996年シングル盤情報",
+        "url": "https://www.cribrecords.jp/product/5711",
+        "kind": "盤情報"
+      },
+      {
+        "label": "サンプル関係の確認 — Dorothy Ashby / Cause I Need It",
+        "url": "https://www.whosampled.com/sample/1025811/INI-Fakin-Jax-%28Skylar-Garriott-Remix%29-INI-Pete-Rock-Fakin-Jax/",
+        "kind": "サンプル照合"
       }
     ],
     "producers": [
@@ -2820,10 +2962,20 @@
     ],
     "connections": [],
     "sounds": [
-      "ドラム"
+      "声"
     ],
     "addedOrder": 23,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "InI",
+      "Pete Rock"
+    ]
   },
   {
     "id": "souls-of-mischief-that-s-when-ya-lost",
@@ -2912,7 +3064,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 24,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "west"
+    ]
   },
   {
     "id": "the-pharcyde-passin-me-by",
@@ -3021,7 +3177,12 @@
       "ドラム"
     ],
     "addedOrder": 25,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "west"
+    ]
   },
   {
     "id": "the-pharcyde-drop",
@@ -3107,7 +3268,11 @@
       "ドラム"
     ],
     "addedOrder": 26,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "west"
+    ]
   },
   {
     "id": "the-beatnuts-reign-of-the-tec",
@@ -3194,7 +3359,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 27,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "the-beatnuts-get-funky",
@@ -3281,7 +3451,12 @@
       "鍵盤"
     ],
     "addedOrder": 28,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "the-beatnuts-off-the-books",
@@ -3368,7 +3543,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 29,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "lords-of-the-underground-chief-rocka",
@@ -3457,7 +3637,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 30,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "lords-of-the-underground-funky-child",
@@ -3544,7 +3729,12 @@
       "ドラム"
     ],
     "addedOrder": 31,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "gang-starr-dwyck",
@@ -3631,7 +3821,12 @@
       "ベース"
     ],
     "addedOrder": 32,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "gang-starr-take-it-personal",
@@ -3717,7 +3912,11 @@
       "ドラム"
     ],
     "addedOrder": 33,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "gang-starr-code-of-the-streets",
@@ -3803,7 +4002,10 @@
       "ドラム"
     ],
     "addedOrder": 34,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "east"
+    ]
   },
   {
     "id": "gang-starr-above-the-clouds",
@@ -3890,7 +4092,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 35,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "gang-starr-full-clip",
@@ -3976,7 +4182,11 @@
       "ドラム"
     ],
     "addedOrder": 36,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "diamond-d-best-kept-secret",
@@ -4064,7 +4274,12 @@
       "ドラム"
     ],
     "addedOrder": 37,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "diamond-d-sally-got-a-one-track-mind",
@@ -4153,7 +4368,11 @@
       "ドラム"
     ],
     "addedOrder": 38,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "lord-finesse-hip-2-da-game",
@@ -4265,7 +4484,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 39,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "lord-finesse-return-of-the-funky-man",
@@ -4354,7 +4577,12 @@
       "ドラム"
     ],
     "addedOrder": 40,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "showbiz-a-g-party-groove-instrumental",
@@ -4444,7 +4672,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 41,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "showbiz-a-g-soul-clap",
@@ -4535,7 +4768,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 42,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "showbiz-a-g-next-level-nyte-time-mix",
@@ -4625,7 +4863,10 @@
       "鍵盤"
     ],
     "addedOrder": 43,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "east"
+    ]
   },
   {
     "id": "black-moon-who-got-da-props",
@@ -4713,7 +4954,11 @@
       "ドラム"
     ],
     "addedOrder": 44,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "black-moon-i-got-cha-opin-remix",
@@ -4803,7 +5048,12 @@
       "ベース"
     ],
     "addedOrder": 45,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "jeru-the-damaja-come-clean",
@@ -4906,7 +5156,10 @@
       "ドラム"
     ],
     "addedOrder": 46,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "east"
+    ]
   },
   {
     "id": "jeru-the-damaja-ya-playin-yaself",
@@ -4993,7 +5246,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 47,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "group-home-livin-proof",
@@ -5080,7 +5337,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 48,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "all-city-productions-unsolved-mysterme",
@@ -5164,7 +5426,11 @@
       "ドラム"
     ],
     "addedOrder": 49,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "west"
+    ]
   },
   {
     "id": "public-enemy-shut-em-down-pe-te-rock-mixx",
@@ -5252,7 +5518,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 50,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "public-enemy-don-t-believe-the-hype",
@@ -5340,7 +5611,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 51,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "public-enemy-fight-the-power",
@@ -5427,7 +5702,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 52,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "public-enemy-911-is-a-joke",
@@ -5515,7 +5794,12 @@
       "ファンク"
     ],
     "addedOrder": 53,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "public-enemy-brothers-gonna-work-it-out",
@@ -5602,7 +5886,11 @@
       "ドラム"
     ],
     "addedOrder": 54,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "public-enemy-can-t-truss-it",
@@ -5687,7 +5975,10 @@
       "声の掛け合い"
     ],
     "addedOrder": 55,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "east"
+    ]
   },
   {
     "id": "public-enemy-welcome-to-the-terrordome",
@@ -5775,7 +6066,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 56,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "nas-the-world-is-yours",
@@ -5885,7 +6180,12 @@
       "鍵盤"
     ],
     "addedOrder": 57,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "nas-it-ain-t-hard-to-tell",
@@ -5996,7 +6296,11 @@
       "鍵盤"
     ],
     "addedOrder": 58,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "nas-n-y-state-of-mind",
@@ -6084,7 +6388,10 @@
       "声の掛け合い"
     ],
     "addedOrder": 59,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "east"
+    ]
   },
   {
     "id": "nas-represent",
@@ -6170,7 +6477,11 @@
       "ドラム"
     ],
     "addedOrder": 60,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "large-professor-i-juswanna-chill",
@@ -6257,7 +6568,12 @@
       "ドラム"
     ],
     "addedOrder": 61,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "main-source-looking-at-the-front-door",
@@ -6350,7 +6666,11 @@
       "ドラム"
     ],
     "addedOrder": 62,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "main-source-just-hangin-out",
@@ -6437,7 +6757,12 @@
       "ドラム"
     ],
     "addedOrder": 63,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "main-source-live-at-the-barbeque",
@@ -6525,7 +6850,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 64,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "the-notorious-b-i-g-juicy",
@@ -6610,7 +6939,11 @@
       "鍵盤"
     ],
     "addedOrder": 65,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "the-notorious-b-i-g-unbelievable",
@@ -6697,7 +7030,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 66,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "the-notorious-b-i-g-big-poppa",
@@ -6808,7 +7145,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 67,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "craig-mack-flava-in-ya-ear",
@@ -6895,7 +7237,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 68,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "mobb-deep-shook-ones-pt-ii",
@@ -6981,7 +7327,11 @@
       "ドラム"
     ],
     "addedOrder": 69,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "mobb-deep-survival-of-the-fittest",
@@ -7069,7 +7419,10 @@
       "ベース"
     ],
     "addedOrder": 70,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "east"
+    ]
   },
   {
     "id": "wu-tang-clan-c-r-e-a-m",
@@ -7182,7 +7535,10 @@
       "声の掛け合い"
     ],
     "addedOrder": 71,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "east"
+    ]
   },
   {
     "id": "wu-tang-clan-protect-ya-neck",
@@ -7271,7 +7627,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 72,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "gza-liquid-swords",
@@ -7359,7 +7719,10 @@
       "ドラム"
     ],
     "addedOrder": 73,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "east"
+    ]
   },
   {
     "id": "raekwon-ice-cream",
@@ -7448,7 +7811,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 74,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "ol-dirty-bastard-shimmy-shimmy-ya",
@@ -7537,7 +7904,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 75,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "de-la-soul-a-roller-skating-jam-named-saturdays",
@@ -7626,7 +7997,12 @@
       "ドラム"
     ],
     "addedOrder": 76,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "de-la-soul-stakes-is-high",
@@ -7714,7 +8090,11 @@
       "ドラム"
     ],
     "addedOrder": 77,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "de-la-soul-breakadawn",
@@ -7802,7 +8182,12 @@
       "ドラム"
     ],
     "addedOrder": 78,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "black-sheep-the-choice-is-yours-revisited",
@@ -7892,7 +8277,12 @@
       "ドラム"
     ],
     "addedOrder": 79,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "brand-nubian-slow-down",
@@ -7979,7 +8369,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 80,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "brand-nubian-all-for-one",
@@ -8066,7 +8460,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 81,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "grand-puba-i-like-it-i-wanna-be-where-you-are",
@@ -8152,7 +8551,12 @@
       "ソウル"
     ],
     "addedOrder": 82,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "digable-planets-rebirth-of-slick-cool-like-dat",
@@ -8239,7 +8643,12 @@
       "ドラム"
     ],
     "addedOrder": 83,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "digable-planets-9th-wonder-blackitolism",
@@ -8326,7 +8735,12 @@
       "ドラム"
     ],
     "addedOrder": 84,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "us3-cantaloop-flip-fantasia",
@@ -8437,7 +8851,11 @@
       "ドラム"
     ],
     "addedOrder": 85,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk"
+    ]
   },
   {
     "id": "the-roots-proceed",
@@ -8524,7 +8942,11 @@
       "生演奏"
     ],
     "addedOrder": 86,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "the-roots-what-they-do",
@@ -8612,7 +9034,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 87,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "common-i-used-to-love-h-e-r",
@@ -8699,7 +9126,11 @@
       "ドラム"
     ],
     "addedOrder": 88,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk"
+    ]
   },
   {
     "id": "common-the-light",
@@ -8809,7 +9240,11 @@
       "ソウル"
     ],
     "addedOrder": 89,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk"
+    ]
   },
   {
     "id": "mos-def-ms-fat-booty",
@@ -8920,7 +9355,11 @@
       "ソウル"
     ],
     "addedOrder": 90,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "black-star-definition",
@@ -9007,7 +9446,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 91,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "pharoahe-monch-simon-says",
@@ -9093,7 +9536,11 @@
       "ドラム"
     ],
     "addedOrder": 92,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "krs-one-mc-s-act-like-they-don-t-know",
@@ -9181,7 +9628,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 93,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "krs-one-sound-of-da-police",
@@ -9268,7 +9720,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 94,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "eric-b-rakim-don-t-sweat-the-technique",
@@ -9355,7 +9811,12 @@
       "ドラム"
     ],
     "addedOrder": 95,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "epmd-so-wat-cha-sayin",
@@ -9446,7 +9907,12 @@
       "ファンク"
     ],
     "addedOrder": 96,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "das-efx-they-want-efx",
@@ -9532,7 +9998,12 @@
       "ドラム"
     ],
     "addedOrder": 97,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "redman-tonight-s-da-night",
@@ -9622,7 +10093,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 98,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "naughty-by-nature-hip-hop-hooray",
@@ -9709,7 +10184,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 99,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "a-tribe-called-quest-oh-my-god",
@@ -9799,7 +10279,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 100,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "a-tribe-called-quest-steve-biko-stir-it-up",
@@ -9889,7 +10373,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 101,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "a-tribe-called-quest-we-can-get-down",
@@ -9978,7 +10466,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 102,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "a-tribe-called-quest-find-a-way",
@@ -10066,7 +10558,12 @@
       "ドラム"
     ],
     "addedOrder": 103,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "de-la-soul-ego-trippin-part-two",
@@ -10156,7 +10653,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 104,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "de-la-soul-ring-ring-ring-ha-ha-hey",
@@ -10245,7 +10746,11 @@
       "ドラム"
     ],
     "addedOrder": 105,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "de-la-soul-buddy",
@@ -10333,7 +10838,12 @@
       "ドラム"
     ],
     "addedOrder": 106,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "jungle-brothers-straight-out-the-jungle",
@@ -10424,7 +10934,12 @@
       "ファンク"
     ],
     "addedOrder": 107,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "jungle-brothers-black-is-black",
@@ -10512,7 +11027,11 @@
       "ドラム"
     ],
     "addedOrder": 108,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "jungle-brothers-doin-our-own-dang",
@@ -10602,7 +11121,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 109,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "queen-latifah-u-n-i-t-y",
@@ -10689,7 +11213,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 110,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "monie-love-it-s-a-shame-my-sister",
@@ -10777,7 +11305,10 @@
       "ソウル"
     ],
     "addedOrder": 111,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk"
+    ]
   },
   {
     "id": "mc-lyte-poor-georgie",
@@ -10862,7 +11393,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 112,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "ll-cool-j-mama-said-knock-you-out",
@@ -10950,7 +11485,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 113,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "ll-cool-j-around-the-way-girl",
@@ -11036,7 +11575,11 @@
       "ドラム"
     ],
     "addedOrder": 114,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "ll-cool-j-doin-it",
@@ -11120,7 +11663,11 @@
       "ドラム"
     ],
     "addedOrder": 115,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "biz-markie-just-a-friend",
@@ -11207,7 +11754,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 116,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "slick-rick-children-s-story",
@@ -11294,7 +11845,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 117,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "rakim-when-i-b-on-tha-mic",
@@ -11381,7 +11936,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 118,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "kool-g-rap-dj-polo-ill-street-blues",
@@ -11466,7 +12025,10 @@
       "鍵盤"
     ],
     "addedOrder": 119,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "east"
+    ]
   },
   {
     "id": "big-daddy-kane-ain-t-no-half-steppin",
@@ -11555,7 +12117,11 @@
       "ファンク"
     ],
     "addedOrder": 120,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "epmd-you-gots-to-chill",
@@ -11645,7 +12211,12 @@
       "ファンク"
     ],
     "addedOrder": 121,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "epmd-crossover",
@@ -11734,7 +12305,12 @@
       "鍵盤"
     ],
     "addedOrder": 122,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "keith-murray-the-most-beautifullest-thing-in-this-world",
@@ -11824,7 +12400,12 @@
       "ドラム"
     ],
     "addedOrder": 123,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "redman-da-goodness",
@@ -11910,7 +12491,11 @@
       "ドラム"
     ],
     "addedOrder": 124,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "smif-n-wessun-sound-bwoy-bureill",
@@ -11999,7 +12584,11 @@
       "ベース"
     ],
     "addedOrder": 125,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "heltah-skeltah-leflaur-leflah-eshkoshka",
@@ -12090,7 +12679,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 126,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "o-g-c-no-fear",
@@ -12178,7 +12771,11 @@
       "ドラム"
     ],
     "addedOrder": 127,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "artifacts-wrong-side-of-da-tracks",
@@ -12265,7 +12862,11 @@
       "ドラム"
     ],
     "addedOrder": 128,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "artifacts-c-mon-wit-da-git-down",
@@ -12354,7 +12955,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 129,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "channel-live-mad-izm",
@@ -12445,7 +13051,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 130,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "nine-whutcha-want",
@@ -12531,7 +13141,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 131,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "mic-geronimo-shit-s-real",
@@ -12616,7 +13230,10 @@
       "声の掛け合い"
     ],
     "addedOrder": 132,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "east"
+    ]
   },
   {
     "id": "royal-flush-iced-down-medallions",
@@ -12701,7 +13318,11 @@
       "ドラム"
     ],
     "addedOrder": 133,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "camp-lo-luchini-aka-this-is-it",
@@ -12789,7 +13410,11 @@
       "鍵盤"
     ],
     "addedOrder": 134,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "camp-lo-coolie-high",
@@ -12876,7 +13501,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 135,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "fugees-fu-gee-la",
@@ -12964,7 +13594,11 @@
       "ソウル"
     ],
     "addedOrder": 136,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "fugees-ready-or-not",
@@ -13049,7 +13683,10 @@
       "声の掛け合い"
     ],
     "addedOrder": 137,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "east"
+    ]
   },
   {
     "id": "lauryn-hill-doo-wop-that-thing",
@@ -13136,7 +13773,11 @@
       "ドラム"
     ],
     "addedOrder": 138,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "jurassic-5-concrete-schoolyard",
@@ -13220,7 +13861,12 @@
       "ドラム"
     ],
     "addedOrder": 139,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "west"
+    ]
   },
   {
     "id": "dilated-peoples-worst-comes-to-worst",
@@ -13307,7 +13953,11 @@
       "ドラム"
     ],
     "addedOrder": 140,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "west"
+    ]
   },
   {
     "id": "dj-shadow-organ-donor",
@@ -13394,7 +14044,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 141,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "west"
+    ]
   },
   {
     "id": "dj-shadow-midnight-in-a-perfect-world",
@@ -13481,7 +14136,12 @@
       "ドラム"
     ],
     "addedOrder": 142,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "west"
+    ]
   },
   {
     "id": "dj-krush-kemuri",
@@ -13569,7 +14229,10 @@
       "ドラム"
     ],
     "addedOrder": 143,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk"
+    ]
   },
   {
     "id": "nujabes-feather",
@@ -13655,7 +14318,11 @@
       "ドラム"
     ],
     "addedOrder": 144,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk"
+    ]
   },
   {
     "id": "nujabes-luv-sic-part-3",
@@ -13743,7 +14410,11 @@
       "声の掛け合い"
     ],
     "addedOrder": 145,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk"
+    ]
   },
   {
     "id": "j-dilla-so-far-to-go",
@@ -13829,7 +14500,11 @@
       "ドラム"
     ],
     "addedOrder": 146,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk"
+    ]
   },
   {
     "id": "slum-village-fall-in-love",
@@ -13915,7 +14590,11 @@
       "ドラム"
     ],
     "addedOrder": 147,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk"
+    ]
   },
   {
     "id": "the-roots-you-got-me",
@@ -14000,7 +14679,12 @@
       "生演奏"
     ],
     "addedOrder": 148,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "o-c-born-2-live",
@@ -14089,7 +14773,11 @@
       "鍵盤"
     ],
     "addedOrder": 149,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。"
+    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "krs-one-step-into-a-world",
@@ -14194,7 +14882,12 @@
       "声の掛け合い"
     ],
     "addedOrder": 150,
-    "editorialStatus": "公式動画と配信情報を確認。埋め込み再生とサンプル詳細は未検証。"
+    "editorialStatus": "公式動画と配信情報を確認。埋め込み再生とサンプル詳細は未検証。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "beastie-boys-shadrach",
@@ -14293,7 +14986,11 @@
       "ドラム"
     ],
     "addedOrder": 151,
-    "editorialStatus": "公式音源・作品情報を確認。個別制作クレジットとサンプル元は照合中。"
+    "editorialStatus": "公式音源・作品情報を確認。個別制作クレジットとサンプル元は照合中。",
+    "collections": [
+      "pizza",
+      "east"
+    ]
   },
   {
     "id": "beastie-boys-jimmy-james",
@@ -14392,7 +15089,11 @@
       "ドラム"
     ],
     "addedOrder": 152,
-    "editorialStatus": "公式音源・作品情報を確認。個別制作クレジットとサンプル元は照合中。"
+    "editorialStatus": "公式音源・作品情報を確認。個別制作クレジットとサンプル元は照合中。",
+    "collections": [
+      "pizza",
+      "east"
+    ]
   },
   {
     "id": "beastie-boys-shake-your-rump",
@@ -14491,7 +15192,11 @@
       "ドラム"
     ],
     "addedOrder": 153,
-    "editorialStatus": "公式音源・作品情報を確認。個別制作クレジットとサンプル元は照合中。"
+    "editorialStatus": "公式音源・作品情報を確認。個別制作クレジットとサンプル元は照合中。",
+    "collections": [
+      "pizza",
+      "east"
+    ]
   },
   {
     "id": "beastie-boys-root-down",
@@ -14590,7 +15295,11 @@
       "ドラム"
     ],
     "addedOrder": 154,
-    "editorialStatus": "公式音源・作品情報を確認。個別制作クレジットとサンプル元は照合中。"
+    "editorialStatus": "公式音源・作品情報を確認。個別制作クレジットとサンプル元は照合中。",
+    "collections": [
+      "pizza",
+      "east"
+    ]
   },
   {
     "id": "beastie-boys-pass-the-mic",
@@ -14689,7 +15398,11 @@
       "ドラム"
     ],
     "addedOrder": 155,
-    "editorialStatus": "公式音源・作品情報を確認。個別制作クレジットとサンプル元は照合中。"
+    "editorialStatus": "公式音源・作品情報を確認。個別制作クレジットとサンプル元は照合中。",
+    "collections": [
+      "pizza",
+      "east"
+    ]
   },
   {
     "id": "beastie-boys-ch-check-it-out",
@@ -14788,7 +15501,11 @@
       "ドラム"
     ],
     "addedOrder": 156,
-    "editorialStatus": "公式音源・作品情報を確認。個別制作クレジットとサンプル元は照合中。"
+    "editorialStatus": "公式音源・作品情報を確認。個別制作クレジットとサンプル元は照合中。",
+    "collections": [
+      "pizza",
+      "east"
+    ]
   },
   {
     "id": "beastie-boys-negotiation-limerick-file-41-small-stars-remix",
@@ -14893,7 +15610,11 @@
       "ドラム"
     ],
     "addedOrder": 157,
-    "editorialStatus": "公式音源・作品情報を確認。個別制作クレジットとサンプル元は照合中。"
+    "editorialStatus": "公式音源・作品情報を確認。個別制作クレジットとサンプル元は照合中。",
+    "collections": [
+      "pizza",
+      "east"
+    ]
   },
   {
     "id": "beastie-boys-brass-monkey",
@@ -14992,7 +15713,11 @@
       "ドラム"
     ],
     "addedOrder": 158,
-    "editorialStatus": "公式音源・作品情報を確認。個別制作クレジットとサンプル元は照合中。"
+    "editorialStatus": "公式音源・作品情報を確認。個別制作クレジットとサンプル元は照合中。",
+    "collections": [
+      "pizza",
+      "east"
+    ]
   },
   {
     "id": "beastie-boys-paul-revere",
@@ -15091,7 +15816,11 @@
       "ドラム"
     ],
     "addedOrder": 159,
-    "editorialStatus": "公式音源・作品情報を確認。個別制作クレジットとサンプル元は照合中。"
+    "editorialStatus": "公式音源・作品情報を確認。個別制作クレジットとサンプル元は照合中。",
+    "collections": [
+      "pizza",
+      "east"
+    ]
   },
   {
     "id": "black-sheep-splash",
@@ -15190,7 +15919,12 @@
       "ドラム"
     ],
     "addedOrder": 160,
-    "editorialStatus": "収録情報と音源を確認。個別制作クレジットとサンプルの照合は継続中。"
+    "editorialStatus": "収録情報と音源を確認。個別制作クレジットとサンプルの照合は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "black-sheep-flavor-of-the-month",
@@ -15289,7 +16023,12 @@
       "ドラム"
     ],
     "addedOrder": 161,
-    "editorialStatus": "収録情報と音源を確認。個別制作クレジットとサンプルの照合は継続中。"
+    "editorialStatus": "収録情報と音源を確認。個別制作クレジットとサンプルの照合は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "black-sheep-similak-child",
@@ -15388,7 +16127,12 @@
       "ドラム"
     ],
     "addedOrder": 162,
-    "editorialStatus": "収録情報と音源を確認。個別制作クレジットとサンプルの照合は継続中。"
+    "editorialStatus": "収録情報と音源を確認。個別制作クレジットとサンプルの照合は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "black-sheep-strobelite-honey-no-we-didnt-mix",
@@ -15487,7 +16231,12 @@
       "ドラム"
     ],
     "addedOrder": 163,
-    "editorialStatus": "収録情報と音源を確認。個別制作クレジットとサンプルの照合は継続中。"
+    "editorialStatus": "収録情報と音源を確認。個別制作クレジットとサンプルの照合は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "black-sheep-without-a-doubt",
@@ -15586,7 +16335,12 @@
       "ドラム"
     ],
     "addedOrder": 164,
-    "editorialStatus": "収録情報と音源を確認。個別制作クレジットとサンプルの照合は継続中。"
+    "editorialStatus": "収録情報と音源を確認。個別制作クレジットとサンプルの照合は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "black-sheep-black-with-nv",
@@ -15685,7 +16439,12 @@
       "ドラム"
     ],
     "addedOrder": 165,
-    "editorialStatus": "収録情報と音源を確認。個別制作クレジットとサンプルの照合は継続中。"
+    "editorialStatus": "収録情報と音源を確認。個別制作クレジットとサンプルの照合は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "main-source-fakin-the-funk",
@@ -15784,7 +16543,12 @@
       "ドラム"
     ],
     "addedOrder": 166,
-    "editorialStatus": "収録作品と掲載版、公式音源を確認。サンプル元の個別照合は継続中。"
+    "editorialStatus": "収録作品と掲載版、公式音源を確認。サンプル元の個別照合は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "main-source-he-got-so-much-soul",
@@ -15888,7 +16652,12 @@
       "ドラム"
     ],
     "addedOrder": 167,
-    "editorialStatus": "収録作品と掲載版、公式音源を確認。サンプル元の個別照合は継続中。"
+    "editorialStatus": "収録作品と掲載版、公式音源を確認。サンプル元の個別照合は継続中。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ]
   },
   {
     "id": "main-source-hellavision",
@@ -15987,6 +16756,3202 @@
       "ドラム"
     ],
     "addedOrder": 168,
-    "editorialStatus": "収録作品と掲載版、公式音源を確認。サンプル元の個別照合は継続中。"
+    "editorialStatus": "収録作品と掲載版、公式音源を確認。サンプル元の個別照合は継続中。",
+    "collections": [
+      "walk",
+      "east"
+    ]
+  },
+  {
+    "id": "dangelo-dreamin-eyes-def-squad-remix",
+    "title": "Me and Those Dreamin’ Eyes of Mine (Def Squad Remix)",
+    "artist": "D’Angelo feat. Redman",
+    "year": 1996,
+    "region": "Virginia / New York",
+    "scene": "Virginia / New York / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Brown Sugar / Def Squad Remix",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "Erick Sermon",
+    "members": "D’Angelo feat. Redman",
+    "youtube": {
+      "id": "p3OBmSD5sOY",
+      "channel": "D'Angelo - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=p3OBmSD5sOY",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "ME AND THOSE DREAMIN’ EYES OF MINE",
+      "tag": "VIRGINIA / NEW YORK / 1996",
+      "style": "subway",
+      "seed": 2165,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "ME",
+        "AND THOSE DREAMIN’ EYES OF MINE"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "ソウルの夢に、隣の部屋の声が混じる。",
+    "essayTitle": "原曲を着替えさせる。",
+    "essay": [
+      "夢を見るにも、ひとり用と相席用がある。このリミックスは、D’Angeloの名前の隣にRedmanが座る。ずいぶん違う声を呼んできたものだと思うが、違うからこそ、同じ曲をもう一度聴く理由になる。",
+      "リミックスという言葉を、修正版くらいに受け取るのはもったいない。原曲で完結していた部屋に、別の人が家具を運び込む。気に入った椅子は残る。けれど窓から見える景色は変わる。Def Squadという名前は、その模様替えの署名である。",
+      "まずこちらを聴いて、それから通常版へ帰ってみる。正解を決める必要はない。馴染みの顔が違う上着を着て現れたときのように、こちらの目と耳も、少しだけ新しくすればいい。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Brown Sugar / Def Squad Remixへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "収録・発売情報の照合",
+        "text": "追加の出典で、収録作品または指定バージョンを確認。配信サービスの日付は再発や収録版により異なる場合がある。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1996年の位置から、Virginia / New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "D’Angelo — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=p3OBmSD5sOY",
+        "kind": "公式配信"
+      },
+      {
+        "label": "D’Angelo — 指定リミックスの配信情報",
+        "url": "https://music.apple.com/us/song/1444221415",
+        "kind": "配信情報"
+      }
+    ],
+    "producers": [
+      "Erick Sermon"
+    ],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 169,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "yearBasis": "1996年リミックスとして仮配置。通常版・後年デラックス版の日付と分けて再照合中。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "D’Angelo",
+      "Redman"
+    ]
+  },
+  {
+    "id": "erick-sermon-as-the",
+    "title": "As the… (feat. Passion)",
+    "artist": "Erick Sermon feat. Passion",
+    "year": 1996,
+    "region": "New York",
+    "scene": "New York / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Insomnia: The Erick Sermon Compilation Album",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "クレジット照合中",
+    "members": "Erick Sermon feat. Passion",
+    "youtube": {
+      "id": "6ikYj4PQaDs",
+      "channel": "Erick Sermon - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=6ikYj4PQaDs",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "AS THE…",
+      "tag": "NEW YORK / 1996",
+      "style": "subway",
+      "seed": 2166,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "AS",
+        "THE…"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "三つの点は、続きを聴くためにある。",
+    "essayTitle": "話を、途中から始める。",
+    "essay": [
+      "タイトルが途中で終わっている。世の中の説明は長くなる一方なのだから、このくらいの省略には好感が持てる。As the…の先を、耳のほうで補う。曲名だけで、すでに少しこちらを巻き込んでいる。",
+      "Passionを迎えたこの曲は、Erick Sermon名義のコンピレーション『Insomnia』に収められている。ひとりの名前で棚に置かれたレコードから、別の声へ通じる扉が開く。コンピレーションを掘る面白さは、その扉の数にある。",
+      "看板の名前だけを眺めて帰らず、参加者の名前まで読んでみたい。知らなかった誰かに出会ったなら、その日の買い物は十分に成功している。音楽の棚では、寄り道のほうが本題になることもある。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Insomnia: The Erick Sermon Compilation Albumへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "収録・発売情報の照合",
+        "text": "追加の出典で、収録作品または指定バージョンを確認。配信サービスの日付は再発や収録版により異なる場合がある。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1996年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "Erick Sermon — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=6ikYj4PQaDs",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Apple Music — Insomnia収録版",
+        "url": "https://music.apple.com/us/song/1373987513",
+        "kind": "配信情報"
+      }
+    ],
+    "producers": [],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 170,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Erick Sermon",
+      "Passion"
+    ]
+  },
+  {
+    "id": "erick-sermon-its-that-hit",
+    "title": "It’s That Hit (feat. Keith Murray)",
+    "artist": "Erick Sermon & Keith Murray",
+    "year": 1996,
+    "region": "New York",
+    "scene": "New York / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Insomnia: The Erick Sermon Compilation Album",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "クレジット照合中",
+    "members": "Erick Sermon & Keith Murray",
+    "youtube": {
+      "id": "DIu8y60wZQg",
+      "channel": "Erick Sermon - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=DIu8y60wZQg",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "IT’S THAT HIT",
+      "tag": "NEW YORK / 1996",
+      "style": "subway",
+      "seed": 2167,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "IT’S",
+        "THAT HIT"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "声の名前を追えば、クルーの輪郭が見えてくる。",
+    "essayTitle": "看板の後ろの声。",
+    "essay": [
+      "ヒットだ、と曲名のほうが先に言っている。景気のいい話である。もっとも、宣言が大きいほど仕事が大きいとは限らない。だからまずは、Keith Murrayという名前のほうを手がかりに、再生ボタンを押す。",
+      "『Insomnia』は、Erick Sermonの名前で括られた音楽の集まりだ。この曲ではKeith Murrayが並ぶ。プロデューサーを入口にして、声の持ち主へ辿り着く。ヒップホップのレコードには、そういう裏口からの入り方が似合う。",
+      "同じ棚にあるRedmanやEPMDへ戻れば、ひとつの名前だけでは見えなかったつながりが広がる。ヒットの大きさを測る前に、好きな声をひとつ増やす。そのほうが、こちらの耳には役に立つ。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Insomnia: The Erick Sermon Compilation Albumへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "収録・発売情報の照合",
+        "text": "追加の出典で、収録作品または指定バージョンを確認。配信サービスの日付は再発や収録版により異なる場合がある。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1996年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "Erick Sermon — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=DIu8y60wZQg",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Apple Music — Insomnia収録版",
+        "url": "https://music.apple.com/us/song/1373987523",
+        "kind": "配信情報"
+      }
+    ],
+    "producers": [],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 171,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Erick Sermon",
+      "Keith Murray"
+    ]
+  },
+  {
+    "id": "erick-sermon-up-jump-the-boogie",
+    "title": "Up Jump the Boogie (feat. The Wixtons)",
+    "artist": "Erick Sermon feat. The Wixtons",
+    "year": 1996,
+    "region": "New York",
+    "scene": "New York / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Insomnia: The Erick Sermon Compilation Album",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "クレジット照合中",
+    "members": "Erick Sermon feat. The Wixtons",
+    "youtube": {
+      "id": "wFDFMku98sc",
+      "channel": "Erick Sermon - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=wFDFMku98sc",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "UP JUMP THE BOOGIE",
+      "tag": "NEW YORK / 1996",
+      "style": "subway",
+      "seed": 2168,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "UP",
+        "JUMP THE BOOGIE"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "The Wixtonsという名前まで、クレートを掘る。",
+    "essayTitle": "脇の名前を覚える。",
+    "essay": [
+      "音楽を聴いていると、有名な名前だけで一日が終わってしまうことがある。それは便利だが、少々惜しい。The Wixtonsという名前が添えられているなら、今日はそちらにも席を用意しておきたい。",
+      "『Insomnia』の収録曲として辿れるこの一曲は、Erick Sermonの周囲を掘るための入口になる。主役の名札を確認したら、隣の名札も見る。同じアルバムのなかにある声の違いを、まとめてしまわずに聴く。",
+      "好きな曲が増えるのと、知っている名前が増えるのは、少し違う楽しみだ。片方だけでもいいが、両方増えれば棚はもっと面白くなる。次のレコードを探す理由が、もうひとつできるからである。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Insomnia: The Erick Sermon Compilation Albumへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "収録・発売情報の照合",
+        "text": "追加の出典で、収録作品または指定バージョンを確認。配信サービスの日付は再発や収録版により異なる場合がある。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1996年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "Erick Sermon — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=wFDFMku98sc",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Apple Music — Insomnia収録版",
+        "url": "https://music.apple.com/us/song/1373987526",
+        "kind": "配信情報"
+      }
+    ],
+    "producers": [],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 172,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Erick Sermon",
+      "The Wixtons"
+    ]
+  },
+  {
+    "id": "redman-funkorama",
+    "title": "Funkorama",
+    "artist": "Redman",
+    "year": 1995,
+    "region": "New Jersey",
+    "scene": "New Jersey / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Funkorama / Insomnia",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "Erick Sermon",
+    "members": "Redman",
+    "youtube": {
+      "id": "0T-owlnvWBg",
+      "channel": "RedmanVEVO",
+      "type": "Official Video",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=0T-owlnvWBg",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "FUNKORAMA",
+      "tag": "NEW JERSEY / 1995",
+      "style": "subway",
+      "seed": 2168,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "FUNKORAMA"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "ファンクの名前を、遠慮なく看板にする。",
+    "essayTitle": "祭りの名前で呼ぶ。",
+    "essay": [
+      "Funkorama。立派な説明より、こういう曲名のほうが仕事が早い。ファンクの見本市でも始まるのかと思わせる。こちらは入場券を買う代わりに、音量を少しだけ上げればいい。",
+      "Redmanの公式チャンネルに残る映像から、この曲へ入れる。『Insomnia』へも繋がる一曲だが、まとめ盤の年だけで曲の時間を決めてしまわず、先に出たシングルの姿も眺めておきたい。レコードには、それぞれの出入口がある。",
+      "同じクレートのTonight’s Da Nightへ続けてみる。どちらが上かという話は、ひとまず棚の外に置く。同じ声が違う場面で働くところを聴く。そのほうが、名前の印象が立体になる。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Funkorama / Insomniaへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1995年の位置から、New Jerseyのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "Redman — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=0T-owlnvWBg",
+        "kind": "公式配信"
+      }
+    ],
+    "producers": [
+      "Erick Sermon"
+    ],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 173,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Redman"
+    ]
+  },
+  {
+    "id": "erick-sermon-lookaway-remix",
+    "title": "Lookaway (Remix)",
+    "artist": "Erick Sermon & Questionmark Asylum",
+    "year": 2017,
+    "region": "New York",
+    "scene": "New York / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Green Eyed Remixes",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "Erick Sermon",
+    "members": "Erick Sermon & Questionmark Asylum",
+    "youtube": {
+      "id": "KCznQybUbPE",
+      "channel": "Erick Sermon",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=KCznQybUbPE",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "LOOKAWAY",
+      "tag": "NEW YORK / 2017",
+      "style": "subway",
+      "seed": 2191,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "LOOKAWAY"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "Questionmark Asylumへの寄り道。指定されたリミックス版で聴く。",
+    "essayTitle": "別の入口から、同じ部屋へ。",
+    "essay": [
+      "同じ曲でも、入口を替えると部屋の広さが変わる。リミックスを探すのは、そういう面倒で楽しいことだ。今回はLookawayの通常版と混ぜず、Questionmark Asylumの名前がある版を棚に置く。",
+      "公式に配信されている『Green Eyed Remixes』でも確認できる。ここに表示する2017年は、この配信作品の確認年であり、リミックスの最初の発表年を意味しない。時間の違う名札を、ひとつにまとめないでおきたい。",
+      "版が違えば、聴き比べる楽しみも増える。名前の似た曲を見つけて即座に同じものと決めない。そのひと手間は、音楽に対する細かすぎる礼儀というより、自分の耳を退屈させない方法なのだと思う。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Green Eyed Remixesへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "年表の年は確認できた配信版を基準に",
+        "text": "2017年はGreen Eyed Remixesの配信年。リミックス自体の初出年は未確定のため、通常版の発表年を流用していない。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "2017年の位置から、New Yorkのレコードをたどる。表示年は確認できた配信版の年で、リミックスの初出年は照合中。",
+    "sources": [
+      {
+        "label": "Erick Sermon — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=KCznQybUbPE",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Erick Sermon公式 — Green Eyed Remixesの配信日・版名",
+        "url": "https://ericksermon.bandcamp.com/album/green-eyed-remixes",
+        "kind": "公式"
+      }
+    ],
+    "producers": [
+      "Erick Sermon"
+    ],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 174,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "yearBasis": "確認した配信版の年（リミックス初出年は未確定）",
+    "collections": [
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Erick Sermon",
+      "Questionmark Asylum"
+    ]
+  },
+  {
+    "id": "cypress-hill-throw-your-hands-in-the-air",
+    "title": "Throw Your Hands in the Air",
+    "artist": "Cypress Hill",
+    "year": 1996,
+    "region": "Los Angeles",
+    "scene": "Los Angeles / Hip Hop / Soul",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Unreleased & Revamped",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "クレジット照合中",
+    "members": "Cypress Hill",
+    "youtube": {
+      "id": "dNO6aR79PZ4",
+      "channel": "CypressHillVEVO",
+      "type": "Official Video",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=dNO6aR79PZ4",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "THROW YOUR HANDS IN THE AIR",
+      "tag": "LOS ANGELES / 1996",
+      "style": "subway",
+      "seed": 2171,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "THROW",
+        "YOUR HANDS IN THE AIR"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "西の街から、同じ輪のなかへ。",
+    "essayTitle": "上げた手の、行き先。",
+    "essay": [
+      "手を上げろという話は、会議では大体面倒な用事の始まりだ。音楽のなかなら、もう少し気楽に応じられる。曲名の招待状を受け取って、そのまま輪に入ればいい。",
+      "Cypress Hillの公式映像では、リミックスとしてこの題名が掲げられている。『Unreleased & Revamped』に繋がる版であり、名前の似たThrow Your Set in the Airと同じ項目に押し込まない。曲名の一語には、別のレコードを指すだけの重さがある。",
+      "地域をLos Angelesに絞って聴いたあと、Erick Sermonの周囲へ戻る。街の線引きをしてから、音の往来を眺める。地図は境界を覚えるためだけにあるのではなく、境界を越える道を見つけるためにもある。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Unreleased & Revampedへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1996年の位置から、Los Angelesのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "Cypress Hill — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=dNO6aR79PZ4",
+        "kind": "公式配信"
+      }
+    ],
+    "producers": [],
+    "connections": [],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 175,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "collections": [
+      "walk",
+      "west"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Cypress Hill"
+    ]
+  },
+  {
+    "id": "epmd-jane-ii",
+    "title": "Jane II",
+    "artist": "EPMD",
+    "year": 1989,
+    "region": "New York",
+    "scene": "New York / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Unfinished Business",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "EPMD",
+    "members": "EPMD",
+    "youtube": {
+      "id": "dUAvHoJeL8s",
+      "channel": "EPMD - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=dUAvHoJeL8s",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "JANE II",
+      "tag": "NEW YORK / 1989",
+      "style": "subway",
+      "seed": 2165,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "JANE",
+        "II"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "続編の数字から、EPMDの時間をたどる。",
+    "essayTitle": "二度目の名前。",
+    "essay": [
+      "同じ名前に数字が付くと、映画なら少し警戒したくなる。ところがレコードでは、その数字が寄り道の標識になる。Jane II。最初のJaneを知っていても、知らなくても、二度目の名前には二度目の用事がある。",
+      "『Unfinished Business』の収録曲として1989年に位置づける。公式動画のアップロード年や、配信欄に現れる後年の日付を、そのまま初出年に置き換えない。年表では、音楽が最初に置かれた棚を見ている。",
+      "EPMDの曲を年代順に並べると、数字の付いた曲名も景色の一部になる。続編を数えるだけではもったいない。同じ二人の声を、違う時期のレコードで聴く。その距離まで楽しめばいい。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Unfinished Businessへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "収録・発売情報の照合",
+        "text": "追加の出典で、収録作品または指定バージョンを確認。配信サービスの日付は再発や収録版により異なる場合がある。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1989年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "EPMD — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=dUAvHoJeL8s",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Apple Music — Unfinished Business初出情報",
+        "url": "https://music.apple.com/us/song/723821329",
+        "kind": "配信情報"
+      }
+    ],
+    "producers": [
+      "EPMD"
+    ],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 176,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "EPMD"
+    ]
+  },
+  {
+    "id": "method-man-redman-maaad-crew",
+    "title": "Maaad Crew",
+    "artist": "Method Man & Redman",
+    "year": 1999,
+    "region": "New York / New Jersey",
+    "scene": "New York / New Jersey / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Blackout!",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "Erick Sermon",
+    "members": "Method Man & Redman",
+    "youtube": {
+      "id": "DdHpRfBBTkQ",
+      "channel": "Method Man - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=DdHpRfBBTkQ",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "MAAAD CREW",
+      "tag": "NEW YORK / NEW JERSEY / 1999",
+      "style": "subway",
+      "seed": 2176,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "MAAAD",
+        "CREW"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "二人の名前を、一枚のレコードに並べる。",
+    "essayTitle": "相棒がいると、話が変わる。",
+    "essay": [
+      "ひとりで済む用事を、わざわざ二人でやる。効率を求める人には勧めにくいが、音楽にはその無駄がよく似合う。Method ManとRedman。名前を並べるだけで、部屋の人口密度が少し上がる。",
+      "『Blackout!』に収められ、公式配信の制作欄ではErick Sermonが確認できる。一人のプロデューサーを辿っているつもりが、別のクルーの声まで視界に入ってくる。クレジットを読む楽しみは、一本道で終わらないところにある。",
+      "片方のソロへ戻ってから、もう一度こちらを聴く。独り言と会話の違いを、勝ち負けに変える必要はない。隣に誰がいるかで、人は別の顔を出す。マイクの前でも、たぶん同じことだ。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Blackout!へ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1999年の位置から、New York / New Jerseyのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "Redman — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=DdHpRfBBTkQ",
+        "kind": "公式配信"
+      }
+    ],
+    "producers": [
+      "Erick Sermon"
+    ],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 177,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "collections": [
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Method Man",
+      "Redman"
+    ]
+  },
+  {
+    "id": "erick-sermon-maintain",
+    "title": "Maintain",
+    "artist": "Erick Sermon",
+    "year": 1996,
+    "region": "New York",
+    "scene": "New York / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Don’t Be a Menace… Original Soundtrack",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "Erick Sermon",
+    "members": "Erick Sermon",
+    "youtube": {
+      "id": "Ytqs5HIn2y4",
+      "channel": "Erick Sermon - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=Ytqs5HIn2y4",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "MAINTAIN",
+      "tag": "NEW YORK / 1996",
+      "style": "subway",
+      "seed": 2174,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "MAINTAIN"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "映画の棚から、Erick Sermonへ戻る。",
+    "essayTitle": "保つ、という仕事。",
+    "essay": [
+      "続けるとか、保つとかいう言葉は、華やかな宣伝には向かない。だが、長く好きでいる音楽には案外似合う。Maintain。大きな決意を持ち出さず、いまの歩幅を見失わないくらいで聴き始めたい。",
+      "この曲は映画『Don’t Be a Menace…』のサウンドトラックで確認できる。アルバム名だけを追っていると、映画の棚に置かれた一曲を通り過ぎてしまう。ディスコグラフィーというものは、時々、隣の売り場まで伸びている。",
+      "サウンドトラックからソロ作品へ、そしてEPMDへ。場所を変えて同じ人を聴く。派手に新しいものを見つける日ばかりでなく、知っている名前をもう一度確かめる日も、十分にいい一日である。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Don’t Be a Menace… Original Soundtrackへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1996年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "Erick Sermon — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=Ytqs5HIn2y4",
+        "kind": "公式配信"
+      }
+    ],
+    "producers": [
+      "Erick Sermon"
+    ],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 178,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "collections": [
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Erick Sermon"
+    ]
+  },
+  {
+    "id": "erick-sermon-open-fire",
+    "title": "Open Fire",
+    "artist": "Erick Sermon",
+    "year": 1995,
+    "region": "New York",
+    "scene": "New York / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Double or Nothing",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "クレジット照合中",
+    "members": "Erick Sermon",
+    "youtube": {
+      "id": "OzeSJTRhsxo",
+      "channel": "Erick Sermon - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=OzeSJTRhsxo",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "OPEN FIRE",
+      "tag": "NEW YORK / 1995",
+      "style": "subway",
+      "seed": 2174,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "OPEN",
+        "FIRE"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "タイトルの火力より、声の配置を聴く。",
+    "essayTitle": "火をつけたあとで。",
+    "essay": [
+      "Open Fire。物騒な名前だが、こちらの仕事は火災報知器を押すことではない。音楽を、音楽として聴く。強い言葉を入口にしても、出口まで強い言葉だけで済ませる必要はない。",
+      "『Double or Nothing』の収録曲として辿れる。Erick Sermonのソロ名義の棚を眺めながら、周囲の声や制作の名札にも目を向ける。アルバムの看板と、一曲のなかで起きていることは、同じ大きさではない。",
+      "曲名に引っ張られて、全部を攻撃性の一語で括るのは簡単だ。いったんその言葉を外して、声の入り方や間を追ってみる。レコードは、説明を短くしすぎたときにも、まだ別の顔を残している。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Double or Nothingへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1995年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "Erick Sermon — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=OzeSJTRhsxo",
+        "kind": "公式配信"
+      }
+    ],
+    "producers": [],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 179,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Erick Sermon"
+    ]
+  },
+  {
+    "id": "erick-sermon-lil-crazy",
+    "title": "Lil Crazy (feat. Shadz of Lingo)",
+    "artist": "Erick Sermon feat. Shadz of Lingo",
+    "year": 1993,
+    "region": "New York",
+    "scene": "New York / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "No Pressure",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "Erick Sermon",
+    "members": "Erick Sermon feat. Shadz of Lingo",
+    "youtube": {
+      "id": "KbT404LLvAA",
+      "channel": "Erick Sermon - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=KbT404LLvAA",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "LIL CRAZY",
+      "tag": "NEW YORK / 1993",
+      "style": "subway",
+      "seed": 2173,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "LIL",
+        "CRAZY"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "Shadz of Lingoの名前から、もうひとつの棚へ。",
+    "essayTitle": "少しだけ、道を外れる。",
+    "essay": [
+      "Crazyの前にLilが付いている。大騒ぎをするにも、少しだけで済ませたい日があるのだろう。世の中の用事が全部大げさになるなかで、この小さな前置きには妙に安心させられる。",
+      "『No Pressure』に収録され、Shadz of Lingoを迎えた曲である。公式音源の参加者欄まで辿れば、ソロ名義のレコードが一人だけでできているわけではないことが見える。名前を読み足すほど、音楽の地図は細かくなる。",
+      "この曲から別の参加作品を探してみる。大きな歴史の話にする前に、ひとつの声の行き先を追う。それくらいの寄り道でも、いつもの棚は十分に広くなる。少しだけ道を外れる効き目は、侮れない。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "No Pressureへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1993年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "Erick Sermon — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=KbT404LLvAA",
+        "kind": "公式配信"
+      }
+    ],
+    "producers": [
+      "Erick Sermon"
+    ],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 180,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "collections": [
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Erick Sermon",
+      "Shadz of Lingo"
+    ]
+  },
+  {
+    "id": "erick-sermon-on-the-regular",
+    "title": "On the Regular (feat. Duo)",
+    "artist": "Erick Sermon feat. Duo",
+    "year": 1996,
+    "region": "New York",
+    "scene": "New York / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Insomnia: The Erick Sermon Compilation Album",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "クレジット照合中",
+    "members": "Erick Sermon feat. Duo",
+    "youtube": {
+      "id": "_6pb2zM8tR4",
+      "channel": "Erick Sermon - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=_6pb2zM8tR4",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "ON THE REGULAR",
+      "tag": "NEW YORK / 1996",
+      "style": "subway",
+      "seed": 2177,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "ON",
+        "THE REGULAR"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "いつもの棚に、見落としていた名前を。",
+    "essayTitle": "いつもの、の中身。",
+    "essay": [
+      "いつもの、と言って注文できる店はありがたい。毎回こちらの身の上を説明しなくても、用事が済む。On the Regularという名前にも、そんな気楽さを借りて聴いてみたい。",
+      "『Insomnia』の収録曲で、Duoという参加名が並ぶ。馴染みのあるErick Sermonの看板から、馴染みの薄い名前へ行く。コンピレーションを一枚通して眺めると、その往復が何度も起きる。",
+      "知っている曲だけを選んで聴く日も、もちろんある。だが、ときどき隣の曲まで再生してみるといい。いつもの棚に、まだいつもではなかった音が残っている。新しさは、必ずしも新譜の袋に入ってくるわけではない。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Insomnia: The Erick Sermon Compilation Albumへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1996年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "Erick Sermon — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=_6pb2zM8tR4",
+        "kind": "公式配信"
+      }
+    ],
+    "producers": [],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 181,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "collections": [
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Erick Sermon",
+      "Duo"
+    ]
+  },
+  {
+    "id": "erick-sermon-set-it-off",
+    "title": "Set It Off",
+    "artist": "Erick Sermon",
+    "year": 1995,
+    "region": "New York",
+    "scene": "New York / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Double or Nothing",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "Erick Sermon",
+    "members": "Erick Sermon",
+    "youtube": {
+      "id": "EZiLxCp6u_M",
+      "channel": "Erick Sermon - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=EZiLxCp6u_M",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "SET IT OFF",
+      "tag": "NEW YORK / 1995",
+      "style": "subway",
+      "seed": 2177,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "SET",
+        "IT OFF"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "始める合図を、レコードから借りる。",
+    "essayTitle": "始まりは、耳が決める。",
+    "essay": [
+      "何かを始める前に、説明のほうが長くなる人がいる。私にも心当たりがある。そんなときは、Set It Offという題名の一曲を先に置く。説明の会議より、再生ボタンはずっと小さい。",
+      "『Double or Nothing』の収録曲。公式配信のクレジットには、制作に関わる名前だけでなく、曲を構成する著作者の名前も並んでいる。誰の名があるかを読むことと、どの録音をどこで使ったかを断定することは、別にしておきたい。",
+      "まず一曲を聴く。気になる音があれば、その先を調べる。始まり方に立派な理由はいらない。終わってみて次のレコードへ手が伸びたなら、その合図はちゃんと働いたのだと思う。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Double or Nothingへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1995年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "Erick Sermon — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=EZiLxCp6u_M",
+        "kind": "公式配信"
+      }
+    ],
+    "producers": [
+      "Erick Sermon"
+    ],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 182,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Erick Sermon"
+    ]
+  },
+  {
+    "id": "keith-murray-radio",
+    "title": "Radio",
+    "artist": "Keith Murray",
+    "year": 1999,
+    "region": "New York",
+    "scene": "New York / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "It’s a Beautiful Thing",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "クレジット照合中",
+    "members": "Keith Murray",
+    "youtube": {
+      "id": "FXICxSbxzBI",
+      "channel": "Keith Murray - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=FXICxSbxzBI",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "RADIO",
+      "tag": "NEW YORK / 1999",
+      "style": "subway",
+      "seed": 2182,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "RADIO"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "自分で選べる時代に、Radioという題名を聴く。",
+    "essayTitle": "誰かが選んだ、一曲。",
+    "essay": [
+      "ラジオは、次に何がかかるかを自分で決められない。今なら不便な機械に見えるかもしれないが、その不便さに助けられて好きになった曲もある。Radioという題名を、そんな記憶の入口に置く。",
+      "Keith Murrayの『It’s a Beautiful Thing』に収められた1999年の曲。公式配信で版を確認できる。本人の名前を追って聴けば、よく知られたデビュー曲の向こう側にも、まだ続く棚がある。",
+      "選び放題になると、人は案外同じものを選ぶ。今日はこの一曲を、自分のいつもの選曲から少し外して置いてみたい。誰かが選んだ曲に偶然出会う楽しみを、自分の手で作るのも悪くない。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "It’s a Beautiful Thingへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1999年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "Keith Murray — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=FXICxSbxzBI",
+        "kind": "公式配信"
+      }
+    ],
+    "producers": [],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 183,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "collections": [
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Keith Murray"
+    ]
+  },
+  {
+    "id": "ll-cool-j-hey-lover-street-mix",
+    "title": "Hey Lover (Street Mix)",
+    "artist": "LL Cool J feat. Boyz II Men",
+    "year": 1995,
+    "region": "New York",
+    "scene": "New York / Hip Hop / Soul",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Mr. Smith",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "Trackmasters（Tone / Poke）",
+    "members": "LL Cool J feat. Boyz II Men",
+    "youtube": {
+      "id": "CuS2xosGpRU",
+      "channel": "LL COOL J - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=CuS2xosGpRU",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "HEY LOVER",
+      "tag": "NEW YORK / 1995",
+      "style": "subway",
+      "seed": 2179,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "HEY",
+        "LOVER"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "甘さを、Street Mixという名札で聴き直す。",
+    "essayTitle": "甘い話にも、別の版。",
+    "essay": [
+      "恋の話にStreet Mixという但し書きが付く。場所を変えただけで、同じ告白が別の声に聞こえることはある。レコードの版を選ぶのも、それに少し似た作業だと思う。",
+      "ここではBoyz II Menを迎えたHey LoverのStreet Mixを扱う。公式配信でその版名を確認でき、通常版の映像を代わりに置かない。甘い題名ほど、名札の小さな文字も丁寧に読みたい。",
+      "まずラップと歌を別々に意識してみる。それから、同じ一曲のなかで聴く。どちらかを脇役に決める必要はない。二種類の声が同じ場所にいる、その居心地まで楽しめれば十分である。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Mr. Smithへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "収録・発売情報の照合",
+        "text": "追加の出典で、収録作品または指定バージョンを確認。配信サービスの日付は再発や収録版により異なる場合がある。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1995年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "LL COOL J — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=CuS2xosGpRU",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Apple Music — Street Mix版",
+        "url": "https://music.apple.com/gb/song/1444061728",
+        "kind": "配信情報"
+      }
+    ],
+    "producers": [
+      "Trackmasters（Tone / Poke）"
+    ],
+    "connections": [],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 184,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "LL Cool J",
+      "Boyz II Men"
+    ]
+  },
+  {
+    "id": "erick-sermon-dip-dip-di-you-remix-me",
+    "title": "Dip Dip Di (You Remix Me)",
+    "artist": "Erick Sermon & Keith Murray",
+    "year": 2017,
+    "region": "New York",
+    "scene": "New York / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Green Eyed Remixes",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "Erick Sermon",
+    "members": "Erick Sermon & Keith Murray",
+    "youtube": {
+      "id": "sBzDAxu_5Rs",
+      "channel": "Erick Sermon - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=sBzDAxu_5Rs",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "DIP DIP DI",
+      "tag": "NEW YORK / 2017",
+      "style": "subway",
+      "seed": 2202,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "DIP",
+        "DIP DI"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "You Remix Meという、一枚の招待状。",
+    "essayTitle": "こちらも、混ぜてもらう。",
+    "essay": [
+      "You Remix Me。曲名がこちらへ向いている。聴くだけのつもりで来たのに、急に共同作業を持ちかけられたような気分になる。ヒップホップは、完成したものの境界をときどき軽々と動かす。",
+      "Keith Murrayの名前が添えられたこの版は、公式の『Green Eyed Remixes』で確認できる。表示する2017年は、確認した配信作品の年である。元の曲とリミックスの初出時期は、別の名札として照合を続ける。",
+      "版名を覚えて聴くと、同じ題名の別の録音にも出会える。似ているから同じ、と急がずに、どこが違うかを探してみる。音楽を好きでいるための細かい用事は、意外に楽しい。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Green Eyed Remixesへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "年表の年は確認できた配信版を基準に",
+        "text": "2017年はGreen Eyed Remixesの配信年。リミックス自体の初出年は未確定のため、通常版の発表年を流用していない。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "2017年の位置から、New Yorkのレコードをたどる。表示年は確認できた配信版の年で、リミックスの初出年は照合中。",
+    "sources": [
+      {
+        "label": "Erick Sermon — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=sBzDAxu_5Rs",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Erick Sermon公式 — Green Eyed Remixesの配信日・版名",
+        "url": "https://ericksermon.bandcamp.com/album/green-eyed-remixes",
+        "kind": "公式"
+      }
+    ],
+    "producers": [
+      "Erick Sermon"
+    ],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 185,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "yearBasis": "確認した配信版の年（リミックス初出年は未確定）",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Erick Sermon",
+      "Keith Murray"
+    ]
+  },
+  {
+    "id": "erick-sermon-stay-real-remix",
+    "title": "Stay Real (Remix)",
+    "artist": "Erick Sermon",
+    "year": 2017,
+    "region": "New York",
+    "scene": "New York / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Green Eyed Remixes",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "Erick Sermon",
+    "members": "Erick Sermon",
+    "youtube": {
+      "id": "Ft-s7nQMn8w",
+      "channel": "Erick Sermon",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=Ft-s7nQMn8w",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "STAY REAL",
+      "tag": "NEW YORK / 2017",
+      "style": "subway",
+      "seed": 2203,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "STAY",
+        "REAL"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "Stay Realを、リミックス版で棚に置く。",
+    "essayTitle": "同じ名前を、もう一度。",
+    "essay": [
+      "本物でいろ、と言われると、何が本物だったか急に考えたくなる。だが、ここでは先に曲を聴くことにする。人生の宿題を全部片づけてからでないと再生できないレコードなど、少々困る。",
+      "この項目はStay Realのリミックス版である。通常版と同じ音源として扱わず、Erick Sermonの公式投稿を選んだ。2017年は確認できたリミックス集の配信年で、初出年は別途照合中と明記する。",
+      "リミックスを本物の反対側に置く必要はない。誰かが手を加えたことで、前には見えなかった輪郭が出ることもある。元の版へ戻る道を残しておけば、行き来するたびにこちらの耳も少し育つ。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Green Eyed Remixesへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "年表の年は確認できた配信版を基準に",
+        "text": "2017年はGreen Eyed Remixesの配信年。リミックス自体の初出年は未確定のため、通常版の発表年を流用していない。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "2017年の位置から、New Yorkのレコードをたどる。表示年は確認できた配信版の年で、リミックスの初出年は照合中。",
+    "sources": [
+      {
+        "label": "Erick Sermon — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=Ft-s7nQMn8w",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Erick Sermon公式 — Green Eyed Remixesの配信日・版名",
+        "url": "https://ericksermon.bandcamp.com/album/green-eyed-remixes",
+        "kind": "公式"
+      }
+    ],
+    "producers": [
+      "Erick Sermon"
+    ],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 186,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "yearBasis": "確認した配信版の年（リミックス初出年は未確定）",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Erick Sermon"
+    ]
+  },
+  {
+    "id": "epmd-richter-scale",
+    "title": "Richter Scale",
+    "artist": "EPMD",
+    "year": 1997,
+    "region": "New York",
+    "scene": "New York / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Back in Business",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "クレジット照合中",
+    "members": "EPMD",
+    "youtube": {
+      "id": "EFlG5LuYOoY",
+      "channel": "EPMDVEVO",
+      "type": "Official Video",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=EFlG5LuYOoY",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "RICHTER SCALE",
+      "tag": "NEW YORK / 1997",
+      "style": "subway",
+      "seed": 2184,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "RICHTER",
+        "SCALE"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "戻ってきたEPMDを、揺れの名前で聴く。",
+    "essayTitle": "揺れを、数字にしない。",
+    "essay": [
+      "Richter Scaleと聞くと、揺れを測る数字が頭に浮かぶ。音楽の場合は、机の上のメーターより、こちらの体のほうが勝手に計測を始める。数字の話はあとでいい。まず、この題名のついたレコードを聴く。",
+      "1997年の『Back in Business』へ繋がる一曲で、EPMDの公式映像から辿れる。1988年の曲と並べれば、同じ二人の名義が違う時期に置かれていることが分かる。年表は、そういう距離を眺めるためにもある。",
+      "昔のほうが良かった、と言うのは簡単だ。それをいったん保留して、戻ってきた時期の一曲を聴いてみる。比較は点数を付けるためだけにあるのではない。同じ名前の、別の時間に会うためにもある。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Back in Businessへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1997年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "EPMD — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=EFlG5LuYOoY",
+        "kind": "公式配信"
+      }
+    ],
+    "producers": [],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 187,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "collections": [
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "EPMD"
+    ]
+  },
+  {
+    "id": "erick-sermon-stay-real-pt-2",
+    "title": "Stay Real, Pt. 2",
+    "artist": "Erick Sermon, Nature & Keith Murray",
+    "year": 2019,
+    "region": "New York",
+    "scene": "New York / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Vernia",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "Erick Sermon",
+    "members": "Erick Sermon, Nature & Keith Murray",
+    "youtube": {
+      "id": "M3jHv6fe-mg",
+      "channel": "Erick Sermon",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=M3jHv6fe-mg",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "STAY REAL, PT. 2",
+      "tag": "NEW YORK / 2019",
+      "style": "subway",
+      "seed": 2207,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "STAY",
+        "REAL, PT. 2"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "90年代の名前が、2019年でも続いている。",
+    "essayTitle": "昔話で、終わらせない。",
+    "essay": [
+      "Part 2という数字は、前の話を知っている人だけのものではない。今から入ってもいい。Erick Sermon、Nature、Keith Murrayの名前を並べて、2019年のレコードから彼らの時間へ入る。",
+      "『Vernia』の時期に公式投稿された続編である。以前のStay Realと同じ年に置かず、ここでは2019年の曲として扱う。見覚えのある名前が新しいレコードにあるとき、年表はちゃんと先へ伸びる。",
+      "90年代を好きでいることと、90年代に人を閉じ込めることは、同じではない。古い曲へ戻り、その後の曲へ進む。両方の道を残しておけば、懐かしさも少し風通しがよくなる。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Verniaへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "2019年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "Erick Sermon — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=M3jHv6fe-mg",
+        "kind": "公式配信"
+      }
+    ],
+    "producers": [
+      "Erick Sermon"
+    ],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 188,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "collections": [
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Erick Sermon",
+      "Nature",
+      "Keith Murray"
+    ]
+  },
+  {
+    "id": "epmd-youre-a-customer",
+    "title": "You’re a Customer",
+    "artist": "EPMD",
+    "year": 1988,
+    "region": "New York",
+    "scene": "New York / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Strictly Business",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "EPMD",
+    "members": "EPMD",
+    "youtube": {
+      "id": "wh_dZmn7U3A",
+      "channel": "EPMD - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=wh_dZmn7U3A",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "YOU’RE A CUSTOMER",
+      "tag": "NEW YORK / 1988",
+      "style": "subway",
+      "seed": 2177,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "YOU’RE",
+        "A CUSTOMER"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "客の席から、EPMDの最初のアルバムへ。",
+    "essayTitle": "商売の名前で、始まる。",
+    "essay": [
+      "You’re a Customer。客だと言われて、急に店先に立たされた気がする。EPMDの商売に関する題名は、どこか人を食っている。こちらも財布を握りしめる代わりに、好きな音を見つけに行けばいい。",
+      "1988年の『Strictly Business』に収められた一曲。公式音源の配信欄に後年の日付があっても、年表ではアルバムの初出年へ置く。デジタルの名札と、レコードが最初に出た時間を取り違えないためだ。",
+      "同じ棚のYou Gots to Chillへ続けて聴いてみる。一枚の看板を、代表曲ひとつだけで読み終えない。客にだって寄り道する権利はある。その権利は、レコード屋では大いに使うべきだと思う。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Strictly Businessへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "収録・発売情報の照合",
+        "text": "追加の出典で、収録作品または指定バージョンを確認。配信サービスの日付は再発や収録版により異なる場合がある。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1988年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "EPMD — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=wh_dZmn7U3A",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Apple Music — Strictly Business初出情報",
+        "url": "https://music.apple.com/us/song/721248543",
+        "kind": "配信情報"
+      }
+    ],
+    "producers": [
+      "EPMD"
+    ],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 189,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "collections": [
+      "pizza",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "EPMD"
+    ]
+  },
+  {
+    "id": "erick-sermon-im-hot",
+    "title": "I’m Hot",
+    "artist": "Erick Sermon",
+    "year": 2001,
+    "region": "New York",
+    "scene": "New York / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Music",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "クレジット照合中",
+    "members": "Erick Sermon",
+    "youtube": {
+      "id": "KdQvlkAfvHQ",
+      "channel": "ErickSermonVEVO",
+      "type": "Official Video",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=KdQvlkAfvHQ",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "I’M HOT",
+      "tag": "NEW YORK / 2001",
+      "style": "subway",
+      "seed": 2191,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "I’M",
+        "HOT"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "2001年のErick Sermonへ、もう一歩。",
+    "essayTitle": "熱さの、測り方。",
+    "essay": [
+      "自分から熱いと言う人は、少しだけ警戒して眺めたい。けれど曲名なら、その自己申告を楽しむ余地がある。I’m Hot。温度計を出す代わりに、再生ボタンを押してみる。",
+      "『Music』の時期へ繋がる2001年の曲である。Erick Sermonの名を追って90年代から先へ進むと、同じ人の棚が別のアルバム名で続いている。好きな時期があるのはいいが、その先の扉も閉めずにおきたい。",
+      "時代が変わったことを、変化という一語で片づけない。隣の曲と並べたり、前のアルバムへ戻ったりして、自分の耳で距離を測る。その小さな往復のほうが、年号だけを覚えるより面白い。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Musicへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "2001年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "Erick Sermon — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=KdQvlkAfvHQ",
+        "kind": "公式配信"
+      }
+    ],
+    "producers": [],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 190,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "collections": [
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Erick Sermon"
+    ]
+  },
+  {
+    "id": "erick-sermon-feel-it",
+    "title": "Feel It (feat. Sean Paul & Sy Scott)",
+    "artist": "Erick Sermon feat. Sean Paul & Sy Scott",
+    "year": 2004,
+    "region": "New York",
+    "scene": "New York / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Chilltown, New York / Incredible",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "Erick Sermon",
+    "members": "Erick Sermon feat. Sean Paul & Sy Scott",
+    "youtube": {
+      "id": "w5AbYEOkpig",
+      "channel": "Erick Sermon - Topic",
+      "type": "Official Audio（Sy Scott表記のアルバム配信）",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=w5AbYEOkpig",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "FEEL IT",
+      "tag": "NEW YORK / 2004",
+      "style": "subway",
+      "seed": 2195,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "FEEL",
+        "IT"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "参加者の名札から、街の外へ耳を伸ばす。",
+    "essayTitle": "感じる前に、決めすぎない。",
+    "essay": [
+      "Feel Itという名前は、説明の前に耳を出せと言っているようだ。こちらも、ジャンルの仕切り板を先に用意するのをやめて、一曲を受け取ってみたい。整理は、聴いてからでも間に合う。",
+      "画像ではSean PaulとSy Scottの名前が添えられた版が指定されている。公式のアルバム配信にはSy Scottの表記があり、関連クレジットも確認できる。参加名の表記と版の対応は、曖昧にせず説明を残す。",
+      "一人の名前から曲を探していても、隣に別の声がいる。そこへ耳を伸ばすと、いつもの地図が少し広がる。音楽の分類は便利だが、分類を越えて鳴っているものまで、枠に押し戻す必要はない。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Chilltown, New York / Incredibleへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "参加名の表記差",
+        "text": "画像はSean PaulとSy Scottを併記。採用した公式アルバム配信はSy Scottを表記し、Sean Paulの名は著作者欄にある。配信表示の違いを注記している。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "2004年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "Erick Sermon — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=w5AbYEOkpig",
+        "kind": "公式配信"
+      }
+    ],
+    "producers": [
+      "Erick Sermon"
+    ],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 191,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "collections": [
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Erick Sermon",
+      "Sean Paul",
+      "Sy Scott"
+    ]
+  },
+  {
+    "id": "erick-sermon-focus",
+    "title": "Focus (feat. DJ Quik & Xzibit)",
+    "artist": "Erick Sermon feat. DJ Quik & Xzibit",
+    "year": 2000,
+    "region": "New York / Los Angeles",
+    "scene": "New York / Los Angeles / EPMD・Def Squad周辺",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Def Squad Presents: Erick Onasis",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "クレジット照合中",
+    "members": "Erick Sermon feat. DJ Quik & Xzibit",
+    "youtube": {
+      "id": "ETRYy39zPek",
+      "channel": "Erick Sermon",
+      "type": "Official Video",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=ETRYy39zPek",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "FOCUS",
+      "tag": "NEW YORK / LOS ANGELES / 2000",
+      "style": "subway",
+      "seed": 2192,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "FOCUS"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "DJ QuikとXzibitの名が、東西を同じ曲でつなぐ。",
+    "essayTitle": "ピントの先に、別の街。",
+    "essay": [
+      "Focusと言われると、仕事の注意事項みたいで少し身構える。だが、ここでピントを合わせたいのは、DJ QuikとXzibitの名前が同じ名札にあることだ。集中した先に、むしろ街が増える。",
+      "『Erick Onasis』の収録曲で、Erick Sermonの公式映像でも二人の参加を確認できる。New YorkとLos Angelesを別々の箱に入れるだけでは、この一曲の置き場が狭くなる。地域は入口であって、出口を塞ぐ壁ではない。",
+      "先に一人ずつの曲を聴き、ここで会わせてみる。声の違いを消してしまわず、同じ一曲のなかに並べて楽しむ。そのためのFocusなら、私はいくらでも歓迎する。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Def Squad Presents: Erick Onasisへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "収録・発売情報の照合",
+        "text": "追加の出典で、収録作品または指定バージョンを確認。配信サービスの日付は再発や収録版により異なる場合がある。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "2000年の位置から、New York / Los Angelesのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "Erick Sermon — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=ETRYy39zPek",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Apple Music — Erick Onasis収録版",
+        "url": "https://music.apple.com/jp/song/1374724535",
+        "kind": "配信情報"
+      }
+    ],
+    "producers": [],
+    "connections": [
+      "EPMD / Def Squad"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 192,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。録音・版の照合を継続しています。",
+    "collections": [
+      "walk",
+      "east",
+      "west"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Erick Sermon",
+      "DJ Quik",
+      "Xzibit"
+    ]
+  },
+  {
+    "id": "nas-lifes-a-bitch",
+    "title": "Life’s a Bitch",
+    "artist": "Nas feat. AZ & Olu Dara",
+    "year": 1994,
+    "region": "New York",
+    "scene": "New York / Hip Hop / Soul",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Illmatic",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "L.E.S. / Nas",
+    "members": "Nas feat. AZ & Olu Dara",
+    "youtube": {
+      "id": "AxKleuLBRcw",
+      "channel": "NasVEVO",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=AxKleuLBRcw",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "LIFE’S A BITCH",
+      "tag": "NEW YORK / 1994",
+      "style": "subway",
+      "seed": 2187,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "LIFE’S",
+        "A BITCH"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "人生の荒さと、古いソウルの温度が同じ場所にある。",
+    "essayTitle": "ため息にも、音楽は付く。",
+    "essay": [
+      "人生は厄介だという話に、反対する材料はそう多くない。だが、その話を音楽にしてしまうと、ただの愚痴とは違うものになる。Nasの隣にはAZがいて、さらにOlu Daraの名前がある。重い題名の下に、人の輪郭が並んでいる。",
+      "『Illmatic』の一曲を、The Gap BandのYearning for Your Loveまで戻って聴く。同じ音の時間を辿ると、1994年の景色が1980年のレコードに触れていることが見える。過去の音は、慰めだけでなく、新しい言葉の居場所にもなる。",
+      "AZの声が気になったら、次は彼のソロへ行けばいい。一曲の客演が、そのまま別の人生への入口になる。厄介な世の中にも、こういう親切な道案内は残っている。私には、それだけでも聴く理由になる。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Illmaticへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [
+      {
+        "artist": "The Gap Band",
+        "title": "Yearning for Your Love",
+        "year": 1980,
+        "role": "曲の中心になるソウルの素材。アルバム初出の1980年を基準とし、シングル・公式音源の著作権表記にある1981年とは区別。",
+        "main": true,
+        "sources": [
+          1
+        ],
+        "youtube": {
+          "id": "afqzUbvi7D8",
+          "channel": "The Gap Band",
+          "official": true,
+          "verified": "2026-10-14"
+        }
+      }
+    ],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1994年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "Nas — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=AxKleuLBRcw",
+        "kind": "公式配信"
+      },
+      {
+        "label": "サンプル関係の確認 — The Gap Band / Yearning for Your Love",
+        "url": "https://glidemagazine.com/324119/golden-age-thursday-samples-the-gap-bands-yearning-for-your-love-1980-gets-positioned-alongside-hip-hop-heavyweights-like-nas-1994-the-pharcyde-1995/",
+        "kind": "サンプル照合"
+      }
+    ],
+    "producers": [
+      "L.E.S. / Nas"
+    ],
+    "connections": [],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 193,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "確認できた代表的なサンプルを掲載。全素材の網羅ではありません。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Nas",
+      "AZ",
+      "Olu Dara"
+    ]
+  },
+  {
+    "id": "nas-one-love",
+    "title": "One Love",
+    "artist": "Nas",
+    "year": 1994,
+    "region": "New York",
+    "scene": "New York / Hip Hop / Soul",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Illmatic",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "Q-Tip",
+    "members": "Nas",
+    "youtube": {
+      "id": "hxce_qvhi5I",
+      "channel": "NasVEVO",
+      "type": "Official Video",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=hxce_qvhi5I",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "ONE LOVE",
+      "tag": "NEW YORK / 1994",
+      "style": "subway",
+      "seed": 2188,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "ONE",
+        "LOVE"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "遠くにいる誰かへ、音のなかで話しかける。",
+    "essayTitle": "返事の来る場所。",
+    "essay": [
+      "手紙は、相手のいない場所で相手に話しかける道具である。音楽もまた、目の前にいない誰かへ届く。One Loveをその二つの間に置くと、声の距離を聴くための入口になる。",
+      "Q-Tipによる制作と、The Heath BrothersのSmilin’ Billy Suite Part IIの使用が確認できる。『Illmatic』からジャズのレコードへ戻れば、曲の輪郭を作る音に、別の時間があったことが分かる。ひとつの街の話が、ひとつの年だけでできているわけではない。",
+      "まず曲の言葉の置き方を追い、それから元の録音へ帰る。戻ってきたとき、同じ曲が少し違う距離から聞こえれば、それでいい。知識は、ときどき耳の置き場所を変える。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Illmaticへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [
+      {
+        "artist": "The Heath Brothers",
+        "title": "Smilin’ Billy Suite, Part II",
+        "year": 1975,
+        "role": "One Loveのサンプル系統として確認した代表的な素材。掲載した音源は後年の公式配信で、録音の初出年とは分けている。",
+        "main": true,
+        "sources": [
+          1
+        ],
+        "youtube": {
+          "id": "0vZlDCLNd4Y",
+          "channel": "The Heath Brothers - Topic",
+          "official": true,
+          "verified": "2026-10-14"
+        }
+      }
+    ],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1994年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "Nas — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=hxce_qvhi5I",
+        "kind": "公式配信"
+      },
+      {
+        "label": "サンプル関係の確認 — The Heath Brothers / Smilin’ Billy Suite, Part II",
+        "url": "https://www.whosampled.com/sample/405421/Hardwe%27re-The-Pressure-Nas-Q-Tip-One-Love/",
+        "kind": "サンプル照合"
+      }
+    ],
+    "producers": [
+      "Q-Tip"
+    ],
+    "connections": [],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 194,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "確認できた代表的なサンプルを掲載。全素材の網羅ではありません。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Nas"
+    ]
+  },
+  {
+    "id": "az-sugar-hill",
+    "title": "Sugar Hill",
+    "artist": "AZ",
+    "year": 1995,
+    "region": "New York",
+    "scene": "New York / Hip Hop / Soul",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Doe or Die",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "L.E.S.",
+    "members": "AZ",
+    "youtube": {
+      "id": "KnHETY4NXr8",
+      "channel": "AZ - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=KnHETY4NXr8",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "SUGAR HILL",
+      "tag": "NEW YORK / 1995",
+      "style": "subway",
+      "seed": 2190,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "SUGAR",
+        "HILL"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "JuicyのSugar Freeが、AZの街の景色になる。",
+    "essayTitle": "甘さにも、住所がある。",
+    "essay": [
+      "甘い題名の音楽は、つい甘いだけのものとして紹介される。だが、Sugar HillにはAZという声の持ち主がいる。曲名と人の名前を並べてから聴くと、砂糖だけでは説明しきれない場所が見えてくる。",
+      "元になったのはJuicyのSugar Free。名前の似たMtumeの曲と取り違えず、録音の持ち主まで辿りたい。似た題名が並ぶ棚ほど、目より先に結論を出さない。この小さな用心も、ディギングの楽しみのうちだ。",
+      "NasのLife’s a Bitchからここへ進めば、客演で出会った声が自分のレコードを持って現れる。ひとつの名前を知ったあとに、もう一曲好きになる。音楽の知識が役に立つのは、そんな時なのだと思う。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Doe or Dieへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [
+      {
+        "artist": "Juicy",
+        "title": "Sugar Free",
+        "year": 1985,
+        "role": "曲の景色を支える代表的な素材。元ネタはJuicyのSugar Free。ここでは公式配信のDeo / Super Dance Mixを参考音源として掲載しており、サンプルに使われた厳密な収録版の確定は継続中。",
+        "main": true,
+        "sources": [
+          1
+        ],
+        "youtube": {
+          "id": "vKGm2Dwwy5A",
+          "channel": "Juicy - Topic",
+          "official": true,
+          "verified": "2026-10-14"
+        }
+      }
+    ],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1995年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "AZ Quiet Money — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=KnHETY4NXr8",
+        "kind": "公式配信"
+      },
+      {
+        "label": "サンプル関係の確認 — Juicy / Sugar Free",
+        "url": "https://www.groovenutrecords.net/products/detail/4068",
+        "kind": "サンプル照合"
+      }
+    ],
+    "producers": [
+      "L.E.S."
+    ],
+    "connections": [],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 195,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "確認できた代表的なサンプルを掲載。全素材の網羅ではありません。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "AZ"
+    ]
+  },
+  {
+    "id": "az-rather-unique",
+    "title": "Rather Unique",
+    "artist": "AZ",
+    "year": 1995,
+    "region": "New York",
+    "scene": "New York / Hip Hop / Soul",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Doe or Die",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "Pete Rock",
+    "members": "AZ",
+    "youtube": {
+      "id": "cPTokrGDIVs",
+      "channel": "AZ - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=cPTokrGDIVs",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "RATHER UNIQUE",
+      "tag": "NEW YORK / 1995",
+      "style": "subway",
+      "seed": 2191,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "RATHER",
+        "UNIQUE"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "Les McCannの短いAnticipationから、AZの一曲へ。",
+    "essayTitle": "独特です、と言う前に。",
+    "essay": [
+      "自分は独特だと説明するために、みんなが同じ言葉を使う。それはなかなか愉快な光景である。Rather Uniqueという題名を前にしたら、こちらは説明の輪から外れて、まず曲を聴いてみたい。",
+      "Pete Rockの制作で、Les McCannのAnticipationを使っていることが、公式クレジットとサンプル元の側の記録から確認できる。短い録音の断片が、別の人の長い言葉の場所になる。レコードを掘る仕事は、音の寸法を測り直す仕事でもある。",
+      "元の曲へ戻り、それからAZへ帰る。どこが独特なのかを一言で決めるより、その往復をしている時間のほうが面白い。違いは看板に書いておくだけでなく、耳の中で見つければいい。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Doe or Dieへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [
+      {
+        "artist": "Les McCann",
+        "title": "Anticipation",
+        "year": 1973,
+        "role": "原曲側のサンプル使用一覧でAZのRather Uniqueとの関係を確認。Layers収録の短い録音から、曲の顔になる素材へ。",
+        "main": true,
+        "sources": [
+          1
+        ],
+        "youtube": {
+          "id": "5PWuCFEdrRY",
+          "channel": "Les McCann - Topic",
+          "official": true,
+          "verified": "2026-10-14"
+        }
+      }
+    ],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1995年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "AZ Quiet Money — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=cPTokrGDIVs",
+        "kind": "公式配信"
+      },
+      {
+        "label": "サンプル関係の確認 — Les McCann / Anticipation",
+        "url": "https://www.lesmccannxmas.com/sampled-works",
+        "kind": "サンプル照合"
+      }
+    ],
+    "producers": [
+      "Pete Rock"
+    ],
+    "connections": [],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 196,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "確認できた代表的なサンプルを掲載。全素材の網羅ではありません。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "AZ"
+    ]
+  },
+  {
+    "id": "pete-rock-cl-smooth-lots-of-lovin",
+    "title": "Lots of Lovin’",
+    "artist": "Pete Rock & C.L. Smooth",
+    "year": 1992,
+    "region": "New York",
+    "scene": "New York / Hip Hop / Soul",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Mecca and the Soul Brother",
+    "label": "採用音源の配信クレジット参照",
+    "producer": "Pete Rock",
+    "members": "Pete Rock & C.L. Smooth",
+    "youtube": {
+      "id": "8fU4juGF3xI",
+      "channel": "Pete Rock - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=8fU4juGF3xI",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "LOTS OF LOVIN’",
+      "tag": "NEW YORK / 1992",
+      "style": "subway",
+      "seed": 2190,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "LOTS",
+        "OF LOVIN’"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "Ohio Playersの曲の向こうに、もう一度違う午後がある。",
+    "essayTitle": "優しい曲も、棚の真ん中へ。",
+    "essay": [
+      "ラップの棚に優しい曲を置くと、急に但し書きを付けたがる人がいる。だが、レコードはそんな検閲を必要としていない。Lots of Lovin’。題名が用意した場所へ、そのまま入ってみればいい。",
+      "『Mecca and the Soul Brother』から、Ohio PlayersのWhat’s Going Onへ。サンプルの関係を辿ると、ラップの向こうにソウルの録音がある。同じ曲を使うことと、同じ曲になることは、もちろん違う。",
+      "T.R.O.Y.だけでPete RockとC.L. Smoothの棚を読み終えず、こちらにも時間を使いたい。有名な一曲の脇にある表情を知ると、その一曲まで違って聞こえる。優しさは、レコードを弱くするものではないのだと思う。"
+    ],
+    "facts": [
+      {
+        "title": "採用音源の版を確認",
+        "text": "Mecca and the Soul Brotherへ繋がる採用音源。曲名と参加者は公式配信の表示を基準にし、映像の公開年と楽曲の発表年を分けて扱う。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [
+      {
+        "artist": "Ohio Players",
+        "title": "What’s Going On",
+        "year": 1974,
+        "role": "公式周年ミックスの曲目解説がサンプル関係を示す素材。原曲側の公式投稿は確認できなかったため、参考投稿を明記して掲載。",
+        "main": true,
+        "sources": [
+          1
+        ],
+        "youtube": {
+          "id": "hjLNtiH2m4s",
+          "channel": "Pocket Scale GFX（参考投稿）",
+          "official": false,
+          "verified": "2026-10-14"
+        }
+      }
+    ],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1992年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "sources": [
+      {
+        "label": "Pete Rock Official — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=8fU4juGF3xI",
+        "kind": "公式配信"
+      },
+      {
+        "label": "サンプル関係の確認 — Ohio Players / What’s Going On",
+        "url": "https://magazine.waxpoetics.com/listen/pete-rock-cl-smooth-mecca-soul-brother-25th-anniversary-mixtape/",
+        "kind": "サンプル照合"
+      }
+    ],
+    "producers": [
+      "Pete Rock"
+    ],
+    "connections": [],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 198,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "確認できた代表的なサンプルを掲載。全素材の網羅ではありません。",
+    "collections": [
+      "cafe",
+      "walk",
+      "east"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Pete Rock",
+      "C.L. Smooth"
+    ]
+  },
+  {
+    "id": "group-therapy-east-coast-west-coast-killas-fire-version",
+    "title": "East Coast / West Coast Killas (Fire Version)",
+    "artist": "Group Therapy feat. Dr. Dre",
+    "year": 1996,
+    "region": "New York / Los Angeles",
+    "scene": "East Coast / West Coast — Group Therapy",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "ディギング",
+      "声を聴く"
+    ],
+    "album": "Dr. Dre Presents… The Aftermath",
+    "label": "Aftermath / Interscope",
+    "producer": "Dr. Dre / Stu-B-Doo",
+    "members": "RBX、KRS-One、B-Real、Nas（Group Therapy）",
+    "youtube": {
+      "id": "FsbJSugZPHU",
+      "url": "https://www.youtube.com/watch?v=FsbJSugZPHU",
+      "channel": "GroupTherapyVEVO",
+      "type": "Official Video / Fire Version",
+      "official": true,
+      "verified": "2026-10-14",
+      "verification": "公式投稿の曲名・チャンネル・指定版をYouTube oEmbedと公開ページで照合。全端末の再生可否は未検証。"
+    },
+    "art": {
+      "word": "EAST / WEST",
+      "tag": "EAST / WEST / 1996",
+      "style": "subway",
+      "seed": 19962026,
+      "profile": "ny-subway",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "lines": [
+        "EAST COAST",
+        "WEST COAST"
+      ],
+      "lettering": "subway",
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+    },
+    "deck": "東と西を、対立の地図から同じマイクの前へ。指定されたFire Versionで聴く。",
+    "essayTitle": "地図の線を、マイクで越える。",
+    "essay": [
+      "東海岸、西海岸。音楽の説明には便利な言葉だが、便利すぎる言葉は、ときどき人の顔を見えなくする。この曲ではRBX、KRS-One、B-Real、NasがGroup Therapyという名で並ぶ。地図を読む前に、まず四人の名前を読んでおきたい。",
+      "1996年の『Dr. Dre Presents… The Aftermath』へ繋がる一曲。今回の指定は公式映像のFire Versionである。アルバムの音源と映像の版をひとつに丸めず、その名札も残して聴く。東と西を同じ曲に並べる仕事は、説明の線引きより、ずっと具体的だ。",
+      "地域別に掘ったあと、両方の棚にあるこの曲へ戻る。分けることが、最後の目的ではない。違いを覚えてから同じマイクの前に会わせる。その往復までできれば、地図はちゃんと音楽の役に立つ。"
+    ],
+    "facts": [
+      {
+        "title": "指定された映像版を採用",
+        "text": "GroupTherapyVEVOの公式投稿。曲名にFire Versionが明記されている。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "東西のMCが集まるGroup Therapy",
+        "text": "RBX、KRS-One、B-Real、Nasが同じ曲へ参加。REVOLTが1996年の作品とその背景を紹介している。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "制作と版の区別",
+        "text": "盤情報ではアルバム系の制作にDr. Dre、共同制作にStu-B-Dooの名がある。Club Mixのクレジットとは分けて読む。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
+      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
+      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+    ],
+    "context": "1996年。東西を別々の棚に分けてから、同じ曲で合流するための一曲。",
+    "sources": [
+      {
+        "label": "GroupTherapyVEVO — 指定されたFire Version",
+        "url": "https://www.youtube.com/watch?v=FsbJSugZPHU",
+        "kind": "公式"
+      },
+      {
+        "label": "REVOLT — 1996年の曲と参加者・背景",
+        "url": "https://www.revolt.tv/article/2019-04-11/43405/tale-of-the-tape-east-coast-west-coast-killas-ft-rbx-krs-one-b-real-and-nas",
+        "kind": "特集"
+      },
+      {
+        "label": "1996年シングルの盤情報と制作クレジット",
+        "url": "https://www.chartsurfer.de/artist/group-therapy/east-coast-west-coast-killaz-song_cggrh.html",
+        "kind": "盤情報"
+      }
+    ],
+    "producers": [
+      "Dr. Dre",
+      "Stu-B-Doo"
+    ],
+    "connections": [
+      "Group Therapy"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "addedOrder": 199,
+    "editorialStatus": "聴き方とエッセイは編者の私見。制作の事実は出典欄を参照。",
+    "sampleStatus": "メインサンプルは未確定。使用がないという意味ではありません。版の照合を継続中。",
+    "collections": [
+      "walk",
+      "east",
+      "west"
+    ],
+    "datePublished": "2026-10-14",
+    "artists": [
+      "Group Therapy",
+      "Dr. Dre",
+      "RBX",
+      "KRS-One",
+      "B-Real",
+      "Nas"
+    ]
   }
 ]
