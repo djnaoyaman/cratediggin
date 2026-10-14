@@ -35,6 +35,16 @@ jobs:
           node --check dist/art.js
           node --check dist/playlist.js
           python build.py
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          tracks = json.loads(Path('tracks.json').read_text())
+          assert len(tracks) >= 225, f'Expected at least 225 tracks, got {len(tracks)}'
+          assert any(t['id'] == 'dj-shadow-the-number-song' for t in tracks), 'The Number Song missing from source'
+          assert Path('dist/songs/dj-shadow-the-number-song.html').exists(), 'The Number Song page missing from build'
+          assert 'dj-shadow-the-number-song' in Path('dist/tracks.js').read_text(), 'The Number Song missing from client catalog'
+          print('The Number Song: source, page and client catalog verified')
+          PY
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
