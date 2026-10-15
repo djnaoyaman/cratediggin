@@ -39,11 +39,17 @@ jobs:
           import json
           from pathlib import Path
           tracks = json.loads(Path('tracks.json').read_text())
-          assert len(tracks) >= 225, f'Expected at least 225 tracks, got {len(tracks)}'
+          assert len(tracks) >= 226, f'Expected at least 225 tracks, got {len(tracks)}'
           assert any(t['id'] == 'dj-shadow-the-number-song' for t in tracks), 'The Number Song missing from source'
           assert Path('dist/songs/dj-shadow-the-number-song.html').exists(), 'The Number Song page missing from build'
           assert 'dj-shadow-the-number-song' in Path('dist/tracks.js').read_text(), 'The Number Song missing from client catalog'
-          print('The Number Song: source, page and client catalog verified')
+          expected_audio = {'dj-shadow-the-number-song': 'odlhSQqOXL8', 'dj-shadow-the-number-song-cut-chemist-remix': 'c0CKXOCOX3o'}
+          for track_id, video_id in expected_audio.items():
+              track = next(t for t in tracks if t['id'] == track_id)
+              assert track['youtube']['id'] == video_id, f'Incorrect audio: {track_id}'
+              assert Path(f'dist/songs/{track_id}.html').exists()
+          assert all(t.get('youtube', {}).get('id') for t in tracks), 'Missing catalog audio'
+          print('Both Number Song versions and all catalog audio IDs verified')
           PY
       - name: Audit catalog metadata and link integrity
         run: |
