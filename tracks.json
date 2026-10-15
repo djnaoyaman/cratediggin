@@ -22874,10 +22874,10 @@
   },
   {
     "id": "dj-shadow-what-does-your-soul-look-like",
-    "title": "What Does Your Soul Look Like",
+    "title": "What Does Your Soul Look Like (Pt. 1 / Blue Sky Revisit)",
     "artist": "DJ Shadow",
-    "year": 1994,
-    "yearBasis": "DJ Shadow公式によるMo' Wax期シングル（1993–1997）の案内を参照。個別の盤面・初出年は継続照合中。",
+    "year": 1996,
+    "yearBasis": "1996年のEndtroducing.....収録版。1994年の同名シングル群とは区別。",
     "region": "San Francisco Bay Area",
     "scene": "San Francisco Bay Area",
     "category": "Instrumental Hip Hop",
@@ -22885,18 +22885,18 @@
       "グルーヴ",
       "街歩き"
     ],
-    "album": "Mo' Wax singles",
-    "label": "Mo' Wax（公式ボックスセットの収録シングル案内）",
+    "album": "Endtroducing.....",
+    "label": "Mo' Wax",
     "producer": "DJ Shadow",
     "members": "DJ Shadow",
     "youtube": {
-      "id": "CSYUf-A2gEM",
-      "url": "https://www.youtube.com/watch?v=CSYUf-A2gEM",
-      "channel": "djshadow",
-      "type": "公式アーティストチャンネル／PIAS配信（Part 1）",
+      "id": "DyzGu8ZaCrw",
+      "url": "https://www.youtube.com/watch?v=DyzGu8ZaCrw",
+      "channel": "DJ Shadow - Topic",
+      "type": "Official Audio",
       "official": true,
       "verified": "2026-10-15",
-      "verification": "YouTube公式アーティストチャンネルの「What Does Your Soul Look Like (Part 1)」を照合。複数パートを持つ楽曲のためPart 1と明記。実機再生は未検証。"
+      "verification": "公式配信を探索し、YouTube oEmbedの曲名・投稿者を照合。動画公開日と作品の初出年を区別。実音声・日本国内の埋め込み再生は未検証。"
     },
     "art": {
       "word": "WHAT DOES YOUR SOUL LOOK LIKE",
@@ -22904,7 +22904,7 @@
         "WHAT DOES YOUR SOUL ",
         "LOOK LIKE"
       ],
-      "tag": "MO' WAX / 1994",
+      "tag": "DJ SHADOW / 1996",
       "style": "piece",
       "seed": 2216,
       "profile": "ny-subway",
@@ -22914,39 +22914,45 @@
         "#b38052",
         "#29392f"
       ],
-      "paletteSource": "Mo' Wax期の編集上の仮配色",
+      "paletteSource": "Endtroducing.....",
       "paletteNote": "既存のDJ Shadow作品の配色を暫定的に継承。個別ジャケットとの照合は未完了。",
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "問いかける題名に、言葉より長い余韻が残る。",
-    "essayTitle": "問いかける題名に、言葉より長い余韻が残る。",
+    "deck": "サックスの響きに、ゆっくりと景色がほどける。",
+    "essayTitle": "問いの答えは、響きの中に。",
     "essay": [
-      "What Does Your Soul Look Like。DJ ShadowのMo' Wax期のシングルとして、レコードを掘る入口に置きたい一枚だ。",
-      "サンプリングの面白さは、素材の名前を当てることだけではない。断片を並べる順序が変われば、聴き手の時間の流れも変わる。",
-      "盤面の細かな違いは、これから照合していく。まずは一枚の12インチを、音楽の地図に戻しておきたい。"
+      "問いかける曲名に、言葉で答える必要はない。サックスの響きとリズムの間に、こちらが座る場所を見つければいい。",
+      "Part 1 / Blue Sky Revisitという表記を確かめ、アルバムの中で聴き直す。同じ曲名の別パートを取り違えないことも、音の地図をつくる小さな仕事である。",
+      "音楽を説明しようとしていたのに、しばらくすると説明を忘れている。そのくらいの距離で付き合える曲を、手元に残しておきたい。"
     ],
     "facts": [
       {
-        "title": "12インチの収録候補",
-        "text": "DJ Shadow公式が案内する1993–1997年のMo' Waxシングル群に含まれる。個別の発売年、品番、B面の組み合わせは未確認。",
+        "title": "掲載バージョン",
+        "text": "1996年のEndtroducing.....に収録されたPart 1 / Blue Sky Revisitを掲載。同名の初期シングルや別パートと区別。",
         "sources": [
-          0
+          0,
+          1
         ]
       }
     ],
     "samples": [],
     "sampleStatus": "サンプル元は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "問いかける題名に、言葉より長い余韻が残る。",
-      "短い反復と音の重なり方に耳を向ける。"
+      "サックスとビートの距離。",
+      "音の余韻がつくる空間。"
     ],
-    "context": "DJ ShadowのMo' Wax期の12インチ作品をたどる。",
+    "context": "Endtroducing.....のアルバム収録版として、1996年の流れの中に置く。",
     "sources": [
       {
-        "label": "DJ Shadow公式 — The Mo' Wax Singles 1993–1997",
-        "url": "https://shop.djshadow.com/blogs/news/the-mo-wax-singles-1993-1997-box-set-with-exclusive-signed-print-now-available-for-pre-order",
+        "label": "DJ Shadow公式 / Endtroducing.....",
+        "url": "https://djshadow.com/products/dj-shadow-endtroducing-30th-anniversary-edition-2lp-pre-order",
         "kind": "アーティスト公式"
+      },
+      {
+        "label": "What Does Your Soul Look Like (Part 1) (Blue Sky Revisit)",
+        "url": "https://www.youtube.com/watch?v=DyzGu8ZaCrw",
+        "kind": "公式配信音源"
       }
     ],
     "producers": [
@@ -22957,7 +22963,7 @@
       "ドラム"
     ],
     "addedOrder": 222,
-    "editorialStatus": "12インチ候補として公開。個別品番、年、音源、サンプルの確認は継続中。 再生音源は Part 1。複数パートを一曲として誤認しないよう区別。",
+    "editorialStatus": "曲名・年・アルバム・再生音源をPart 1 / Blue Sky Revisitに統一。",
     "collections": [
       "west"
     ],
@@ -23261,5 +23267,3742 @@
       "cut-scratch"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+  },
+  {
+    "id": "dj-shadow-building-steam-with-a-grain-of-salt",
+    "title": "Building Steam With a Grain of Salt",
+    "artist": "DJ Shadow",
+    "year": 1996,
+    "yearBasis": "Endtroducing.....収録版の発表年。動画のアップロード年・再発年とは区別。",
+    "region": "San Francisco Bay Area",
+    "scene": "San Francisco Bay Area",
+    "category": "Electronic / Hip Hop",
+    "moods": [
+      "グルーヴ",
+      "余韻"
+    ],
+    "album": "Endtroducing.....",
+    "label": "Mo' Wax",
+    "producer": "DJ Shadow",
+    "members": "DJ Shadow",
+    "youtube": {
+      "id": "HORLJvUMs08",
+      "url": "https://www.youtube.com/watch?v=HORLJvUMs08",
+      "channel": "DJ Shadow - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "公式配信を探索し、YouTube oEmbedの曲名・投稿者を照合。動画公開日と作品の初出年を区別。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "BUILDING STEAM WITH A GRAIN OF SALT",
+      "lines": [
+        "BUILDING",
+        "STEAM",
+        "WITH A GRAIN OF SALT"
+      ],
+      "tag": "DJ SHADOW / 1996",
+      "style": "piece",
+      "seed": 2026101500,
+      "profile": "ny-subway",
+      "palette": [
+        "#608a78",
+        "#e2d5b5",
+        "#b38052",
+        "#29392f"
+      ],
+      "paletteSource": "Endtroducing.....",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "ピアノの反復に、ドラムが奥行きを与える。",
+    "essayTitle": "小さな反復の、大きな部屋。",
+    "essay": [
+      "同じピアノが戻ってくる。そのたびに少し違う景色が見えるように感じるのは、下を走るドラムに、こちらの体がついていくからだ。",
+      "反復は音楽の省略ではない。わずかな隙間に何を置くか、何を置かずにおくか。その判断で、短い断片にも広い部屋ができる。",
+      "大きな物語を語るのに、音を増やす必要はない。この曲を入口にすると、レコードを聴く耳も、少しだけ辛抱強くなる。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と制作",
+        "text": "1996年のDJ Shadow『Endtroducing.....』収録。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "ピアノの反復とドラムの組み合わせ。",
+      "音が重なる部分と、引かれる部分。"
+    ],
+    "context": "1996年の『Endtroducing.....』を通して、DJ Shadowの音楽の広がりをたどる。",
+    "sources": [
+      {
+        "label": "Endtroducing..... / 公式作品情報",
+        "url": "https://djshadow.com/products/dj-shadow-endtroducing-30th-anniversary-edition-2lp-pre-order",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "DJ Shadow - Topic / Building Steam With A Grain Of Salt",
+        "url": "https://www.youtube.com/watch?v=HORLJvUMs08",
+        "kind": "公式配信音源・動画"
+      }
+    ],
+    "producers": [
+      "DJ Shadow"
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム",
+      "電子音"
+    ],
+    "addedOrder": 226,
+    "editorialStatus": "曲名・公式配信の投稿者・収録作品を照合。サンプルと個別盤の品番は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "DJ Shadow"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "dj-shadow-stem-long-stem",
+    "title": "Stem/Long Stem",
+    "artist": "DJ Shadow",
+    "year": 1996,
+    "yearBasis": "Endtroducing.....収録版の発表年。動画のアップロード年・再発年とは区別。",
+    "region": "San Francisco Bay Area",
+    "scene": "San Francisco Bay Area",
+    "category": "Electronic / Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Endtroducing.....",
+    "label": "Mo' Wax",
+    "producer": "DJ Shadow",
+    "members": "DJ Shadow",
+    "youtube": {
+      "id": "_peZsVcKmMo",
+      "url": "https://www.youtube.com/watch?v=_peZsVcKmMo",
+      "channel": "DJ Shadow - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "公式配信を探索し、YouTube oEmbedの曲名・投稿者を照合。動画公開日と作品の初出年を区別。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "STEM/LONG STEM",
+      "lines": [
+        "STEM/LONG",
+        "STEM"
+      ],
+      "tag": "DJ SHADOW / 1996",
+      "style": "piece",
+      "seed": 2026101501,
+      "profile": "ny-subway",
+      "palette": [
+        "#608a78",
+        "#e2d5b5",
+        "#b38052",
+        "#29392f"
+      ],
+      "paletteSource": "Endtroducing.....",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "静けさと緊張を往復する、長い音の組み立て。",
+    "essayTitle": "音の向こうで、場面が変わる。",
+    "essay": [
+      "静かに構えたつもりでいると、音楽のほうが先に曲がっていく。StemとLong Stemを続けて聴く面白さは、その角を曲がる瞬間にある。",
+      "ひとつのループに居場所を決めず、響きとビートの距離を変えていく。頭の中の映像だけが、勝手に編集室へ入ってしまう。",
+      "筋書きを探すより、場面の変化に身を預けたい。長い曲が短く感じられたら、それは時間の使い方を少し盗まれたということだ。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と制作",
+        "text": "1996年のDJ Shadow『Endtroducing.....』収録。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "前半と後半の音の密度。",
+      "静けさからビートへの移り変わり。"
+    ],
+    "context": "1996年の『Endtroducing.....』を通して、DJ Shadowの音楽の広がりをたどる。",
+    "sources": [
+      {
+        "label": "Endtroducing..... / 公式作品情報",
+        "url": "https://djshadow.com/products/dj-shadow-endtroducing-30th-anniversary-edition-2lp-pre-order",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "DJ Shadow - Topic / Stem / Long Stem (Medley)",
+        "url": "https://www.youtube.com/watch?v=_peZsVcKmMo",
+        "kind": "公式配信音源・動画"
+      }
+    ],
+    "producers": [
+      "DJ Shadow"
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム",
+      "電子音"
+    ],
+    "addedOrder": 227,
+    "editorialStatus": "曲名・公式配信の投稿者・収録作品を照合。サンプルと個別盤の品番は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "DJ Shadow"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "unkle-rabbit-in-your-headlights",
+    "title": "Rabbit in Your Headlights",
+    "artist": "UNKLE",
+    "year": 1998,
+    "yearBasis": "Psyence Fiction収録版の発表年。動画のアップロード年・再発年とは区別。",
+    "region": "London",
+    "scene": "London / Mo' Wax",
+    "category": "Trip Hop",
+    "moods": [
+      "グルーヴ",
+      "余韻"
+    ],
+    "album": "Psyence Fiction",
+    "label": "Mo' Wax",
+    "producer": "DJ Shadow / James Lavelle",
+    "members": "James Lavelle、DJ Shadow / feat. Thom Yorke",
+    "youtube": {
+      "id": "7gj6t4CTiCI",
+      "url": "https://www.youtube.com/watch?v=7gj6t4CTiCI",
+      "channel": "UNKLE - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "公式配信を探索し、YouTube oEmbedの曲名・投稿者を照合。動画公開日と作品の初出年を区別。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "RABBIT IN YOUR HEADLIGHTS",
+      "lines": [
+        "RABBIT",
+        "IN",
+        "YOUR HEADLIGHTS"
+      ],
+      "tag": "UNKLE / 1998",
+      "style": "piece",
+      "seed": 2026101502,
+      "profile": "ny-subway",
+      "palette": [
+        "#e7dfc8",
+        "#b7b9a6",
+        "#c64b3f",
+        "#292b28"
+      ],
+      "paletteSource": "Psyence Fiction",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "Thom Yorkeの声と、UNKLEの深い陰影。",
+    "essayTitle": "声が、暗がりの輪郭をつくる。",
+    "essay": [
+      "声が前に出ているのに、その奥の空間まで聴いてしまう。Thom Yorkeを迎えたこの曲には、歌と音の背景を一緒に眺めたくなる余白がある。",
+      "DJ Shadowの仕事をソロ作品だけで追っていると、こうした接点を通り過ぎてしまう。UNKLEという名前になることで、別の声が同じ地図に入ってくる。",
+      "音楽の分類は便利だが、いい曲の前では少し窮屈でもある。ここでは棚の名前を一度忘れ、歌が消えたあとの響きまで聴きたい。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と制作",
+        "text": "1998年のUNKLE『Psyence Fiction』収録。Thom Yorkeが参加。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "歌声と伴奏の距離。",
+      "終盤へ向かう音の重なり。"
+    ],
+    "context": "1998年の『Psyence Fiction』を通して、UNKLEでのDJ Shadowの制作をたどる。",
+    "sources": [
+      {
+        "label": "Psyence Fiction / 公式作品情報",
+        "url": "https://www.universal-music.co.jp/unkle/biography/",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "UNKLE - Topic / Rabbit in Your Headlights",
+        "url": "https://www.youtube.com/watch?v=7gj6t4CTiCI",
+        "kind": "公式配信音源・動画"
+      }
+    ],
+    "producers": [
+      "DJ Shadow",
+      "James Lavelle"
+    ],
+    "connections": [
+      "UNKLE"
+    ],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 228,
+    "editorialStatus": "曲名・公式配信の投稿者・収録作品を照合。サンプルと個別盤の品番は継続照合中。",
+    "collections": [],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "UNKLE",
+      "Thom Yorke"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "unkle-lonely-soul",
+    "title": "Lonely Soul",
+    "artist": "UNKLE",
+    "year": 1998,
+    "yearBasis": "Psyence Fiction収録版の発表年。動画のアップロード年・再発年とは区別。",
+    "region": "London",
+    "scene": "London / Mo' Wax",
+    "category": "Trip Hop",
+    "moods": [
+      "グルーヴ",
+      "余韻"
+    ],
+    "album": "Psyence Fiction",
+    "label": "Mo' Wax",
+    "producer": "DJ Shadow / James Lavelle",
+    "members": "James Lavelle、DJ Shadow / feat. Richard Ashcroft",
+    "youtube": {
+      "id": "XrFECnl3vno",
+      "url": "https://www.youtube.com/watch?v=XrFECnl3vno",
+      "channel": "UNKLE - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "公式配信を探索し、YouTube oEmbedの曲名・投稿者を照合。動画公開日と作品の初出年を区別。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "LONELY SOUL",
+      "lines": [
+        "LONELY",
+        "SOUL"
+      ],
+      "tag": "UNKLE / 1998",
+      "style": "piece",
+      "seed": 2026101503,
+      "profile": "ny-subway",
+      "palette": [
+        "#e7dfc8",
+        "#b7b9a6",
+        "#c64b3f",
+        "#292b28"
+      ],
+      "paletteSource": "Psyence Fiction",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "Richard Ashcroftの歌を包む、長い余韻。",
+    "essayTitle": "ひとりの声が、広い場所へ届く。",
+    "essay": [
+      "Lonely Soulという題名なのに、音の景色はずいぶん広い。Richard Ashcroftの声を中心に、歌の外側へ意識がゆっくり開いていく。",
+      "ロックの声とビートの組み合わせを、足し算だけでは説明しきれない。声を置く場所が変わると、その声が背負っていた風景まで変わる。",
+      "一曲が終わるまで急ぐ用事は、たいてい待たせても大丈夫だ。少なくとも、この曲を聴いているあいだくらいは。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と制作",
+        "text": "1998年のUNKLE『Psyence Fiction』収録。Richard Ashcroftが参加。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "歌と長い構成の関係。",
+      "曲の前半と終盤の広がり。"
+    ],
+    "context": "1998年の『Psyence Fiction』を通して、UNKLEでのDJ Shadowの制作をたどる。",
+    "sources": [
+      {
+        "label": "Psyence Fiction / 公式作品情報",
+        "url": "https://www.universal-music.co.jp/unkle/biography/",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "UNKLE - Topic / Lonely Soul",
+        "url": "https://www.youtube.com/watch?v=XrFECnl3vno",
+        "kind": "公式配信音源・動画"
+      }
+    ],
+    "producers": [
+      "DJ Shadow",
+      "James Lavelle"
+    ],
+    "connections": [
+      "UNKLE"
+    ],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 229,
+    "editorialStatus": "曲名・公式配信の投稿者・収録作品を照合。サンプルと個別盤の品番は継続照合中。",
+    "collections": [],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "UNKLE",
+      "Richard Ashcroft"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "dj-shadow-six-days",
+    "title": "Six Days",
+    "artist": "DJ Shadow",
+    "year": 2002,
+    "yearBasis": "The Private Press収録版の発表年。動画のアップロード年・再発年とは区別。",
+    "region": "San Francisco Bay Area",
+    "scene": "San Francisco Bay Area",
+    "category": "Electronic / Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "The Private Press",
+    "label": "MCA",
+    "producer": "DJ Shadow",
+    "members": "DJ Shadow",
+    "youtube": {
+      "id": "BEqHME6XUi8",
+      "url": "https://www.youtube.com/watch?v=BEqHME6XUi8",
+      "channel": "DJ Shadow - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "公式配信を探索し、YouTube oEmbedの曲名・投稿者を照合。動画公開日と作品の初出年を区別。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "SIX DAYS",
+      "lines": [
+        "SIX",
+        "DAYS"
+      ],
+      "tag": "DJ SHADOW / 2002",
+      "style": "piece",
+      "seed": 2026101504,
+      "profile": "ny-subway",
+      "palette": [
+        "#e5dccc",
+        "#bc3432",
+        "#232222",
+        "#a8a195"
+      ],
+      "paletteSource": "The Private Press",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "声の反復が、ビートの中で記憶に変わる。",
+    "essayTitle": "繰り返す声に、時間が宿る。",
+    "essay": [
+      "声が繰り返されるたび、同じ言葉に違う重さが乗る。Six Daysでは、歌声そのものと同じくらい、その声が戻ってくる間隔が気になる。",
+      "古い録音の手触りと、新しく組まれたリズム。その間にある時間差が、音楽の奥行きになる。懐かしいという一言では、少し足りない。",
+      "過去の音を使いながら、聴き手を今に引き戻す。サンプリングの魅力は、時計を戻すことより、時間を重ねることにあるのだと思う。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と制作",
+        "text": "2002年のDJ Shadow『The Private Press』収録。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "歌声の反復とビートの間隔。",
+      "音の余韻と低音の関係。"
+    ],
+    "context": "2002年の『The Private Press』を通して、DJ Shadowの音楽の広がりをたどる。",
+    "sources": [
+      {
+        "label": "The Private Press / 公式作品情報",
+        "url": "https://djshadow.com/products/the-private-press-vinyl-2lp",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "DJ Shadow - Topic / Six Days",
+        "url": "https://www.youtube.com/watch?v=BEqHME6XUi8",
+        "kind": "公式配信音源・動画"
+      }
+    ],
+    "producers": [
+      "DJ Shadow"
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム",
+      "電子音"
+    ],
+    "addedOrder": 230,
+    "editorialStatus": "曲名・公式配信の投稿者・収録作品を照合。サンプルと個別盤の品番は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "DJ Shadow"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "dj-shadow-mashin-on-the-motorway",
+    "title": "Mashin' on the Motorway",
+    "artist": "DJ Shadow",
+    "year": 2002,
+    "yearBasis": "The Private Press収録版の発表年。動画のアップロード年・再発年とは区別。",
+    "region": "San Francisco Bay Area",
+    "scene": "San Francisco Bay Area",
+    "category": "Electronic / Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "The Private Press",
+    "label": "MCA",
+    "producer": "DJ Shadow",
+    "members": "DJ Shadow / feat. Lateef the Truthspeaker",
+    "youtube": {
+      "id": "mKibXhFqPjA",
+      "url": "https://www.youtube.com/watch?v=mKibXhFqPjA",
+      "channel": "DJShadowVEVO",
+      "type": "Official Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "公式配信を探索し、YouTube oEmbedの曲名・投稿者を照合。動画公開日と作品の初出年を区別。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "MASHIN' ON THE MOTORWAY",
+      "lines": [
+        "MASHIN'",
+        "ON",
+        "THE MOTORWAY"
+      ],
+      "tag": "DJ SHADOW / 2002",
+      "style": "blockbuster",
+      "seed": 2026101505,
+      "profile": "ny-subway",
+      "palette": [
+        "#e5dccc",
+        "#bc3432",
+        "#232222",
+        "#a8a195"
+      ],
+      "paletteSource": "The Private Press",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "LateefのMCが運ぶ、せわしないビートの景色。",
+    "essayTitle": "ハンドルより先に、言葉が曲がる。",
+    "essay": [
+      "Lateefの言葉が前へ進む。その勢いに押され、ビートまで少し落ち着きをなくしたように聞こえる。曲名に道路があるのも、なるほどと思う。",
+      "DJ Shadowの音楽を静かな内省だけで捉えると、この騒がしさが楽しい寄り道になる。声は風景の一部にも、こちらを引っ張る運転手にもなれる。",
+      "急ぐ音楽を、急がずに聴く。すると、勢いの陰にある細かい組み立てが見えてくる。実際の運転は、どうぞ穏やかに。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と制作",
+        "text": "2002年のDJ Shadow『The Private Press』収録。Lateef the Truthspeakerが参加。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "MCのフロウとビートの掛け合い。",
+      "短い展開の中での音の切り替え。"
+    ],
+    "context": "2002年の『The Private Press』を通して、DJ Shadowの音楽の広がりをたどる。",
+    "sources": [
+      {
+        "label": "The Private Press / 公式作品情報",
+        "url": "https://djshadow.com/products/the-private-press-vinyl-2lp",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "DJShadowVEVO / DJ Shadow - Mashin' On The Motorway",
+        "url": "https://www.youtube.com/watch?v=mKibXhFqPjA",
+        "kind": "公式配信音源・動画"
+      }
+    ],
+    "producers": [
+      "DJ Shadow"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 231,
+    "editorialStatus": "曲名・公式配信の投稿者・収録作品を照合。サンプルと個別盤の品番は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "DJ Shadow",
+      "Lateef the Truthspeaker"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "dj-shadow-scale-it-back",
+    "title": "Scale It Back",
+    "artist": "DJ Shadow",
+    "year": 2011,
+    "yearBasis": "The Less You Know, the Better収録版の発表年。動画のアップロード年・再発年とは区別。",
+    "region": "San Francisco Bay Area",
+    "scene": "San Francisco Bay Area",
+    "category": "Electronic / Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "The Less You Know, the Better",
+    "label": "Island / A&M",
+    "producer": "DJ Shadow",
+    "members": "DJ Shadow / feat. Little Dragon",
+    "youtube": {
+      "id": "NL9ypNz9-mM",
+      "url": "https://www.youtube.com/watch?v=NL9ypNz9-mM",
+      "channel": "DJShadowVEVO",
+      "type": "Official Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "公式配信を探索し、YouTube oEmbedの曲名・投稿者を照合。動画公開日と作品の初出年を区別。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "SCALE IT BACK",
+      "lines": [
+        "SCALE",
+        "IT",
+        "BACK"
+      ],
+      "tag": "DJ SHADOW / 2011",
+      "style": "piece",
+      "seed": 2026101506,
+      "profile": "ny-subway",
+      "palette": [
+        "#eee4d2",
+        "#d94132",
+        "#334a61",
+        "#282722"
+      ],
+      "paletteSource": "The Less You Know, the Better",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "Little Dragonの歌声と、柔らかなビートの接点。",
+    "essayTitle": "歌の居場所を、少し広く。",
+    "essay": [
+      "Little Dragonの歌声が入ると、ビートの輪郭まで柔らかく感じられる。声が主役を奪うのではなく、音楽の中に新しい窓を開ける。",
+      "細かな仕掛けを追いかけてもいいし、ただメロディに乗ってもいい。入口がいくつもある曲は、その日の気分で聴き方を変えられる。",
+      "難しい顔をしなくても、丁寧に作られた音楽は楽しめる。肩の力を抜くことにも、相応の技術がいるのだろう。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と制作",
+        "text": "2011年のDJ Shadow『The Less You Know, the Better』収録。Little Dragonが参加。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "歌声とリズムの柔らかな接点。",
+      "メロディを支える音の配置。"
+    ],
+    "context": "2011年の『The Less You Know, the Better』を通して、DJ Shadowの音楽の広がりをたどる。",
+    "sources": [
+      {
+        "label": "The Less You Know, the Better / 公式作品情報",
+        "url": "https://www.youtube.com/watch?v=NL9ypNz9-mM",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "DJShadowVEVO / DJ Shadow - Scale It Back ft. Little Dragon",
+        "url": "https://www.youtube.com/watch?v=NL9ypNz9-mM",
+        "kind": "公式配信音源・動画"
+      }
+    ],
+    "producers": [
+      "DJ Shadow"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 232,
+    "editorialStatus": "曲名・公式配信の投稿者・収録作品を照合。サンプルと個別盤の品番は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "DJ Shadow",
+      "Little Dragon"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "dj-shadow-the-mountain-will-fall",
+    "title": "The Mountain Will Fall",
+    "artist": "DJ Shadow",
+    "year": 2016,
+    "yearBasis": "The Mountain Will Fall収録版の発表年。動画のアップロード年・再発年とは区別。",
+    "region": "San Francisco Bay Area",
+    "scene": "San Francisco Bay Area",
+    "category": "Electronic / Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "The Mountain Will Fall",
+    "label": "Mass Appeal",
+    "producer": "DJ Shadow",
+    "members": "DJ Shadow",
+    "youtube": {
+      "id": "0Oyti58LzS8",
+      "url": "https://www.youtube.com/watch?v=0Oyti58LzS8",
+      "channel": "Mass Appeal",
+      "type": "Official Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "公式配信を探索し、YouTube oEmbedの曲名・投稿者を照合。動画公開日と作品の初出年を区別。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "THE MOUNTAIN WILL FALL",
+      "lines": [
+        "THE",
+        "MOUNTAIN",
+        "WILL FALL"
+      ],
+      "tag": "DJ SHADOW / 2016",
+      "style": "piece",
+      "seed": 2026101507,
+      "profile": "ny-subway",
+      "palette": [
+        "#c8b3d7",
+        "#d1dadd",
+        "#b8bcbb",
+        "#494054"
+      ],
+      "paletteSource": "The Mountain Will Fall",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "低音と電子音が開く、2016年の音の地形。",
+    "essayTitle": "山を見上げるより、音の中へ。",
+    "essay": [
+      "低音が足元に広がり、その上を電子音が動いていく。ここでは音の細部より先に、音楽全体の大きさを体で測りたくなる。",
+      "昔の名盤を知っていると、つい同じ景色を期待してしまう。しかし作り手は、その先の地形を歩いている。こちらも地図を持ち替えればいい。",
+      "DJ Shadowを一枚のアルバムに閉じ込めないための入口。変化を聴く楽しみは、馴染みの音を見つける楽しみに負けていない。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と制作",
+        "text": "2016年のDJ Shadow『The Mountain Will Fall』収録。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "低音と上に重なる電子音。",
+      "音色の変化がつくる展開。"
+    ],
+    "context": "2016年の『The Mountain Will Fall』を通して、DJ Shadowの音楽の広がりをたどる。",
+    "sources": [
+      {
+        "label": "The Mountain Will Fall / 公式作品情報",
+        "url": "https://djshadow.bandcamp.com/album/the-mountain-will-fall",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "Mass Appeal / DJ Shadow - The Mountain Will Fall (Official Video)",
+        "url": "https://www.youtube.com/watch?v=0Oyti58LzS8",
+        "kind": "公式配信音源・動画"
+      }
+    ],
+    "producers": [
+      "DJ Shadow"
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム",
+      "電子音"
+    ],
+    "addedOrder": 233,
+    "editorialStatus": "曲名・公式配信の投稿者・収録作品を照合。サンプルと個別盤の品番は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "DJ Shadow"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "dj-shadow-nobody-speak",
+    "title": "Nobody Speak",
+    "artist": "DJ Shadow",
+    "year": 2016,
+    "yearBasis": "The Mountain Will Fall収録版の発表年。動画のアップロード年・再発年とは区別。",
+    "region": "San Francisco Bay Area",
+    "scene": "San Francisco Bay Area",
+    "category": "Electronic / Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "The Mountain Will Fall",
+    "label": "Mass Appeal",
+    "producer": "DJ Shadow",
+    "members": "DJ Shadow / feat. Run The Jewels",
+    "youtube": {
+      "id": "FX0ol1zksD4",
+      "url": "https://www.youtube.com/watch?v=FX0ol1zksD4",
+      "channel": "DJ Shadow - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "公式配信を探索し、YouTube oEmbedの曲名・投稿者を照合。動画公開日と作品の初出年を区別。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "NOBODY SPEAK",
+      "lines": [
+        "NOBODY",
+        "SPEAK"
+      ],
+      "tag": "DJ SHADOW / 2016",
+      "style": "blockbuster",
+      "seed": 2026101508,
+      "profile": "ny-subway",
+      "palette": [
+        "#c8b3d7",
+        "#d1dadd",
+        "#b8bcbb",
+        "#494054"
+      ],
+      "paletteSource": "The Mountain Will Fall",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "Run The Jewelsの言葉が、太いビートを押し進める。",
+    "essayTitle": "ビートに、二人分の口がある。",
+    "essay": [
+      "ビートが場所をつくり、Run The Jewelsの二人がそこへ言葉を投げ込む。声が変わるたび、同じリズムの表情まで変わっていく。",
+      "インストゥルメンタルで空間を描く人が、MCのために場所を空ける。その余白は、手を抜いた部分ではなく、声を響かせるための設計だ。",
+      "言葉を全部追えなくても、声の押し引きだけで体は動く。意味と響きの両方で楽しめるところが、ラップの気前のよさである。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と制作",
+        "text": "2016年のDJ Shadow『The Mountain Will Fall』収録。Run The Jewelsが参加。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "二人のMCが交代するタイミング。",
+      "声を受け止めるビートの間。"
+    ],
+    "context": "2016年の『The Mountain Will Fall』を通して、DJ Shadowの音楽の広がりをたどる。",
+    "sources": [
+      {
+        "label": "The Mountain Will Fall / 公式作品情報",
+        "url": "https://djshadow.bandcamp.com/album/the-mountain-will-fall",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "DJ Shadow - Topic / Nobody Speak",
+        "url": "https://www.youtube.com/watch?v=FX0ol1zksD4",
+        "kind": "公式配信音源・動画"
+      }
+    ],
+    "producers": [
+      "DJ Shadow"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 234,
+    "editorialStatus": "曲名・公式配信の投稿者・収録作品を照合。サンプルと個別盤の品番は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "DJ Shadow",
+      "Run The Jewels"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "dj-shadow-rocket-fuel",
+    "title": "Rocket Fuel",
+    "artist": "DJ Shadow",
+    "year": 2019,
+    "yearBasis": "Our Pathetic Age収録版の発表年。動画のアップロード年・再発年とは区別。",
+    "region": "San Francisco Bay Area",
+    "scene": "San Francisco Bay Area",
+    "category": "Electronic / Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Our Pathetic Age",
+    "label": "Mass Appeal",
+    "producer": "DJ Shadow",
+    "members": "DJ Shadow / feat. De La Soul",
+    "youtube": {
+      "id": "7l8oRPz2jZY",
+      "url": "https://www.youtube.com/watch?v=7l8oRPz2jZY",
+      "channel": "DJ Shadow - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "公式配信を探索し、YouTube oEmbedの曲名・投稿者を照合。動画公開日と作品の初出年を区別。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "ROCKET FUEL",
+      "lines": [
+        "ROCKET",
+        "FUEL"
+      ],
+      "tag": "DJ SHADOW / 2019",
+      "style": "blockbuster",
+      "seed": 2026101509,
+      "profile": "ny-subway",
+      "palette": [
+        "#c1c74d",
+        "#cc5844",
+        "#3e5053",
+        "#d6d2b5"
+      ],
+      "paletteSource": "Our Pathetic Age",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "De La Soulと鳴らす、軽快なビートの推進力。",
+    "essayTitle": "燃料は、よく回るビート。",
+    "essay": [
+      "De La Soulの声が入ると、音の切れ目まで遊び場になる。Rocket Fuelという題名どおり、曲の推進力に迷いがない。",
+      "オールドスクールを感じさせる楽しさは、古い型を飾ることとは少し違う。声とリズムを投げ合う、その身軽さが今も働いている。",
+      "気分を上げる音楽に、長い説明はいらない。それでも作りを追い始めると、楽しさの裏にある細かな段取りに感心してしまう。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と制作",
+        "text": "2019年のDJ Shadow『Our Pathetic Age』収録。De La Soulが参加。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "De La Soulの声とリズムの応酬。",
+      "短い音の切り替えが生む勢い。"
+    ],
+    "context": "2019年の『Our Pathetic Age』を通して、DJ Shadowの音楽の広がりをたどる。",
+    "sources": [
+      {
+        "label": "Our Pathetic Age / 公式作品情報",
+        "url": "https://djshadow.bandcamp.com/album/our-pathetic-age",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "DJ Shadow - Topic / Rocket Fuel",
+        "url": "https://www.youtube.com/watch?v=7l8oRPz2jZY",
+        "kind": "公式配信音源・動画"
+      }
+    ],
+    "producers": [
+      "DJ Shadow"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 235,
+    "editorialStatus": "曲名・公式配信の投稿者・収録作品を照合。サンプルと個別盤の品番は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "DJ Shadow",
+      "De La Soul"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "dj-shadow-ozone-scraper",
+    "title": "Ozone Scraper",
+    "artist": "DJ Shadow",
+    "year": 2023,
+    "yearBasis": "Action Adventure収録版の発表年。動画のアップロード年・再発年とは区別。",
+    "region": "San Francisco Bay Area",
+    "scene": "San Francisco Bay Area",
+    "category": "Electronic / Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Action Adventure",
+    "label": "Mass Appeal",
+    "producer": "DJ Shadow",
+    "members": "DJ Shadow",
+    "youtube": {
+      "id": "uTWjjonLJrU",
+      "url": "https://www.youtube.com/watch?v=uTWjjonLJrU",
+      "channel": "DJ Shadow - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "公式配信を探索し、YouTube oEmbedの曲名・投稿者を照合。動画公開日と作品の初出年を区別。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "OZONE SCRAPER",
+      "lines": [
+        "OZONE",
+        "SCRAPER"
+      ],
+      "tag": "DJ SHADOW / 2023",
+      "style": "piece",
+      "seed": 2026101510,
+      "profile": "ny-subway",
+      "palette": [
+        "#5a5180",
+        "#eaa44c",
+        "#a74878",
+        "#202e4f"
+      ],
+      "paletteSource": "Action Adventure",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "メロディと電子音で描く、速度の感覚。",
+    "essayTitle": "速さは、景色の動き方。",
+    "essay": [
+      "電子音が前へ伸びていく。速さというものは、拍の数だけで決まらない。音がどちらへ向かうかでも、体の感じ方は変わる。",
+      "歌声を中心に据えず、メロディと音色で場面を運ぶ。言葉が少ないからこそ、聴き手の頭の中では、それぞれ違う景色が走り出す。",
+      "初期作品へ戻るだけでなく、その先へ進んだ音も並べておきたい。長く作り続ける人の面白さは、同じ場所に留まらないところにある。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と制作",
+        "text": "2023年のDJ Shadow『Action Adventure』収録。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "電子音のメロディと推進力。",
+      "音色の重なりがつくる奥行き。"
+    ],
+    "context": "2023年の『Action Adventure』を通して、DJ Shadowの音楽の広がりをたどる。",
+    "sources": [
+      {
+        "label": "Action Adventure / 公式作品情報",
+        "url": "https://djshadow.bandcamp.com/album/action-adventure",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "DJ Shadow - Topic / Ozone Scraper",
+        "url": "https://www.youtube.com/watch?v=uTWjjonLJrU",
+        "kind": "公式配信音源・動画"
+      }
+    ],
+    "producers": [
+      "DJ Shadow"
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム",
+      "電子音"
+    ],
+    "addedOrder": 236,
+    "editorialStatus": "曲名・公式配信の投稿者・収録作品を照合。サンプルと個別盤の品番は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "DJ Shadow"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "slum-village-players",
+    "title": "Players",
+    "artist": "Slum Village",
+    "year": 2000,
+    "yearBasis": "作品・シングルの初出年を優先。動画公開年・再発年とは区別。",
+    "region": "Detroit",
+    "scene": "Detroit",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Fantastic, Vol. 2",
+    "label": "Barak",
+    "producer": "J Dilla",
+    "members": "Slum Village",
+    "youtube": {
+      "id": "EZXXqfUBbLM",
+      "url": "https://www.youtube.com/watch?v=EZXXqfUBbLM",
+      "channel": "Slum Village - Topic",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "PLAYERS",
+      "lines": [
+        "PLAYERS"
+      ],
+      "tag": "J DILLA / 2000",
+      "style": "blockbuster",
+      "seed": 2026101600,
+      "profile": "ny-subway",
+      "palette": [
+        "#d59a51",
+        "#dbc5a3",
+        "#694938",
+        "#352c2b"
+      ],
+      "paletteSource": "Fantastic, Vol. 2",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "声の断片と低音の揺れ。",
+    "essayTitle": "声を切ると、別の言葉が始まる。",
+    "essay": [
+      "細かく置かれた声の響きに、言葉を聞き取る前から体が反応する。",
+      "低音とドラムを一緒に追うと、反復の中にも重心の移動があるように感じる。",
+      "サンプルの名前を当てる楽しみと、できあがった曲に揺れる楽しみ。その両方を残しておきたい。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "Slum VillageのPlayers。Fantastic, Vol. 2に収録。制作はJ Dilla。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "声の断片と低音の揺れ。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "2000年の作品として、J Dillaの制作とSlum Villageの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "Slum Village - Topic / Players",
+        "url": "https://www.youtube.com/watch?v=EZXXqfUBbLM",
+        "kind": "公式配信・動画"
+      }
+    ],
+    "producers": [
+      "J Dilla"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 237,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "Slum Village"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "slum-village-get-dis-money",
+    "title": "Get Dis Money",
+    "artist": "Slum Village",
+    "year": 1999,
+    "yearBasis": "作品・シングルの初出年を優先。動画公開年・再発年とは区別。",
+    "region": "Detroit",
+    "scene": "Detroit",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Office Space / Fantastic, Vol. 2",
+    "label": "Barak",
+    "producer": "J Dilla",
+    "members": "Slum Village",
+    "youtube": {
+      "id": "tah5UC2hdrk",
+      "url": "https://www.youtube.com/watch?v=tah5UC2hdrk",
+      "channel": "Slum Village - Topic",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "GET DIS MONEY",
+      "lines": [
+        "GET DIS MONEY"
+      ],
+      "tag": "J DILLA / 1999",
+      "style": "piece",
+      "seed": 2026101601,
+      "profile": "ny-subway",
+      "palette": [
+        "#d59a51",
+        "#dbc5a3",
+        "#694938",
+        "#352c2b"
+      ],
+      "paletteSource": "Office Space / Fantastic, Vol. 2",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "低音と声がつくる、気負いのないグルーヴ。",
+    "essayTitle": "お金の話も、こんな調子なら。",
+    "essay": [
+      "題名はずいぶん直接的なのに、曲の足取りには肩の力が抜けた感じがある。",
+      "リズムを細かく数えるより、低音と声が入れ替わるところを聴いていたい。",
+      "深刻な話ばかりでは息が詰まる。ビートには、そういう日常の重さを少し軽くする使い道もある。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "Slum VillageのGet Dis Money。Office Space / Fantastic, Vol. 2に収録。制作はJ Dilla。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "低音と声がつくる、気負いのないグルーヴ。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "1999年の作品として、J Dillaの制作とSlum Villageの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "Slum Village - Topic / Get Dis Money",
+        "url": "https://www.youtube.com/watch?v=tah5UC2hdrk",
+        "kind": "公式配信・動画"
+      }
+    ],
+    "producers": [
+      "J Dilla"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 238,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "Slum Village"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "j-dilla-fuck-the-police",
+    "title": "Fuck the Police",
+    "artist": "J Dilla",
+    "year": 2001,
+    "yearBasis": "2001年にJay Dee名義で発表されたシングル。再発と初出年を区別。",
+    "region": "Detroit",
+    "scene": "Detroit",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Fuck the Police / Move",
+    "label": "Up Above",
+    "producer": "J Dilla",
+    "members": "J Dilla",
+    "youtube": {
+      "id": "uty23F-3nL0",
+      "url": "https://www.youtube.com/watch?v=uty23F-3nL0",
+      "channel": "J Dilla - Topic",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "FUCK THE POLICE",
+      "lines": [
+        "FUCK THE POLICE"
+      ],
+      "tag": "J DILLA / 2001",
+      "style": "blockbuster",
+      "seed": 2026101602,
+      "profile": "ny-subway",
+      "palette": [
+        "#d59a51",
+        "#dbc5a3",
+        "#694938",
+        "#352c2b"
+      ],
+      "paletteSource": "Fuck the Police / Move",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "抗議の言葉と、鋭いビートの輪郭。",
+    "essayTitle": "音が先に、姿勢を示す。",
+    "essay": [
+      "題名を柔らかく包み直す必要はない。強い言葉には、そのまま向き合うべき理由がある。",
+      "声の主張を追いながら、ビートの細部にも耳を残しておく。言葉と音が別々に立っているわけではない。",
+      "楽しい音楽と切実な音楽は、別の棚にしか入らないものではない。体が動いたあとで、考え始めることもある。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "J DillaのFuck the Police。Fuck the Police / Moveに収録。制作はJ Dilla。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "版・制作の区別",
+        "text": "2001年にJay Dee名義で発表されたシングル。再発と初出年を区別。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "抗議の言葉と、鋭いビートの輪郭。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "2001年の作品として、J Dillaの制作とJ Dillaの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "J Dilla - Topic / Fuck the Police",
+        "url": "https://www.youtube.com/watch?v=uty23F-3nL0",
+        "kind": "公式配信・動画"
+      },
+      {
+        "label": "J Dilla公式 / Pay Jay",
+        "url": "https://jdilla.com/catalog/payjay.html",
+        "kind": "アーティスト・レーベル公式"
+      }
+    ],
+    "producers": [
+      "J Dilla"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 239,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "J Dilla"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "jaylib-the-red",
+    "title": "The Red",
+    "artist": "Jaylib",
+    "year": 2003,
+    "yearBasis": "オリジナル版。ビートはJ Dilla、ラップはMadlib。再発の差し替え版とは区別。",
+    "region": "Detroit / Los Angeles",
+    "scene": "Detroit / Los Angeles",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Champion Sound / The Red & The Official",
+    "label": "Stones Throw",
+    "producer": "J Dilla",
+    "members": "J Dilla、Madlib",
+    "youtube": {
+      "id": "VRzRSCRZweY",
+      "url": "https://www.youtube.com/watch?v=VRzRSCRZweY",
+      "channel": "Stones Throw",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "THE RED",
+      "lines": [
+        "THE RED"
+      ],
+      "tag": "J DILLA / 2003",
+      "style": "blockbuster",
+      "seed": 2026101603,
+      "profile": "ny-subway",
+      "palette": [
+        "#d59a51",
+        "#dbc5a3",
+        "#694938",
+        "#352c2b"
+      ],
+      "paletteSource": "Champion Sound / The Red & The Official",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "J Dillaのビートに、Madlibがラップする。",
+    "essayTitle": "二人の名前を、役割まで聴く。",
+    "essay": [
+      "Jaylibという名前の面白さは、二人の名をつなげたところで終わらない。作る人が、相手の音の上で声を出す。",
+      "The RedではJ Dillaが制作し、Madlibがラップする。この役割を知ってから聴くと、同じユニットの別曲も気になってくる。",
+      "肩書きを交換するのではなく、得意技を持ち寄って相手の場所へ入る。いい共作には、そのくらいの身軽さがある。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "JaylibのThe Red。Champion Sound / The Red & The Officialに収録。制作はJ Dilla。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "版・制作の区別",
+        "text": "オリジナル版。ビートはJ Dilla、ラップはMadlib。再発の差し替え版とは区別。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "J Dillaのビートに、Madlibがラップする。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "2003年の作品として、J Dillaの制作とJaylibの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "Stones Throw / Jaylib - The Red",
+        "url": "https://www.youtube.com/watch?v=VRzRSCRZweY",
+        "kind": "公式配信・動画"
+      },
+      {
+        "label": "Stones Throw / Jaylib制作担当",
+        "url": "https://www.stonesthrow.com/news/j-dilla-and-madlib-are-jaylib/",
+        "kind": "アーティスト・レーベル公式"
+      }
+    ],
+    "producers": [
+      "J Dilla"
+    ],
+    "connections": [
+      "Jaylib"
+    ],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 240,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "Jaylib",
+      "J Dilla",
+      "Madlib"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "j-dilla-workinonit",
+    "title": "Workinonit",
+    "artist": "J Dilla",
+    "year": 2006,
+    "yearBasis": "作品・シングルの初出年を優先。動画公開年・再発年とは区別。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Donuts",
+    "label": "Stones Throw",
+    "producer": "J Dilla",
+    "members": "J Dilla",
+    "youtube": {
+      "id": "ogwouE_Msd4",
+      "url": "https://www.youtube.com/watch?v=ogwouE_Msd4",
+      "channel": "J Dilla - Topic",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "WORKINONIT",
+      "lines": [
+        "WORKINONIT"
+      ],
+      "tag": "J DILLA / 2006",
+      "style": "blockbuster",
+      "seed": 2026101604,
+      "profile": "ny-subway",
+      "palette": [
+        "#d59a51",
+        "#dbc5a3",
+        "#694938",
+        "#352c2b"
+      ],
+      "paletteSource": "Donuts",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "切り替わる断片が、そのまま曲の推進力になる。",
+    "essayTitle": "切れ目で、また走り出す。",
+    "essay": [
+      "音が切れたと思ったら、もう次の断片が走り出している。つなぎ目を隠すより、つなぎ目そのものを聴かせる曲だ。",
+      "短い声も、ざらついた響きも、ビートの外には置かれていない。どこまでが素材でどこからがリズムなのか、境目が薄くなる。",
+      "整然と並んだものだけが気持ちよいわけではない。少しぶつかるくらいの断片に、音楽の体温を感じることがある。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "J DillaのWorkinonit。Donutsに収録。制作はJ Dilla。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "アルバム内の位置",
+        "text": "2006年2月7日発売のDonuts収録。WorkinonitはCD曲順の2曲目。1曲目はDonuts (Outro)。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "切り替わる断片が、そのまま曲の推進力になる。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "2006年の作品として、J Dillaの制作とJ Dillaの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "J Dilla - Topic / Workinonit",
+        "url": "https://www.youtube.com/watch?v=ogwouE_Msd4",
+        "kind": "公式配信・動画"
+      },
+      {
+        "label": "Stones Throw / Donuts",
+        "url": "https://www.stonesthrow.com/store/donuts/",
+        "kind": "レーベル公式"
+      }
+    ],
+    "producers": [
+      "J Dilla"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 241,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "cut-scratch"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "J Dilla"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "j-dilla-time-the-donut-of-the-heart",
+    "title": "Time: The Donut of the Heart",
+    "artist": "J Dilla",
+    "year": 2006,
+    "yearBasis": "作品・シングルの初出年を優先。動画公開年・再発年とは区別。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Donuts",
+    "label": "Stones Throw",
+    "producer": "J Dilla",
+    "members": "J Dilla",
+    "youtube": {
+      "id": "0vmhgotEByc",
+      "url": "https://www.youtube.com/watch?v=0vmhgotEByc",
+      "channel": "J Dilla - Topic",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "TIME: THE DONUT OF THE HEART",
+      "lines": [
+        "TIME: THE DONUT OF THE HEART"
+      ],
+      "tag": "J DILLA / 2006",
+      "style": "piece",
+      "seed": 2026101605,
+      "profile": "ny-subway",
+      "palette": [
+        "#d59a51",
+        "#dbc5a3",
+        "#694938",
+        "#352c2b"
+      ],
+      "paletteSource": "Donuts",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "声の余韻が、短いビートの中でほどけていく。",
+    "essayTitle": "短い時間に、長く残るもの。",
+    "essay": [
+      "曲の長さと、心に残る時間は同じではない。短い反復の中にも、ずいぶん遠くまで連れていかれることがある。",
+      "声とリズムが寄り添うところに耳を置くと、細かな切れ目まで柔らかく感じられる。",
+      "何度も聴き直したくなる曲は、何かを説明しきらない。こちらが持ち込んだ気分のぶんだけ、毎回違うところが響く。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "J DillaのTime: The Donut of the Heart。Donutsに収録。制作はJ Dilla。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "アルバム内の位置",
+        "text": "2006年2月7日発売のDonuts収録。制作機材や病床での制作を曲単位の事実として断定しない。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "声の余韻が、短いビートの中でほどけていく。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "2006年の作品として、J Dillaの制作とJ Dillaの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "J Dilla - Topic / Time: The Donut of the Heart",
+        "url": "https://www.youtube.com/watch?v=0vmhgotEByc",
+        "kind": "公式配信・動画"
+      },
+      {
+        "label": "Stones Throw / Donuts",
+        "url": "https://www.stonesthrow.com/store/donuts/",
+        "kind": "レーベル公式"
+      }
+    ],
+    "producers": [
+      "J Dilla"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 242,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "J Dilla"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "j-dilla-last-donut-of-the-night",
+    "title": "Last Donut of the Night",
+    "artist": "J Dilla",
+    "year": 2006,
+    "yearBasis": "作品・シングルの初出年を優先。動画公開年・再発年とは区別。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Donuts",
+    "label": "Stones Throw",
+    "producer": "J Dilla",
+    "members": "J Dilla",
+    "youtube": {
+      "id": "rcbd-r1xC2o",
+      "url": "https://www.youtube.com/watch?v=rcbd-r1xC2o",
+      "channel": "J Dilla - Topic",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "LAST DONUT OF THE NIGHT",
+      "lines": [
+        "LAST DONUT OF THE NIGHT"
+      ],
+      "tag": "J DILLA / 2006",
+      "style": "piece",
+      "seed": 2026101606,
+      "profile": "ny-subway",
+      "palette": [
+        "#d59a51",
+        "#dbc5a3",
+        "#694938",
+        "#352c2b"
+      ],
+      "paletteSource": "Donuts",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "アルバム終盤に置かれた、声と旋律の余韻。",
+    "essayTitle": "夜の終わりを、急がない。",
+    "essay": [
+      "曲名を見ただけで、聴く側は少し身構えてしまう。それでもまずは、鳴っている音から受け取りたい。",
+      "声が浮かび、旋律が戻る。短い曲の中で、その往復が思いのほか大きな景色になる。",
+      "作り手の人生を知ることと、音を聴くこと。その両方を大切にしながら、曲が持つ余白も残しておきたい。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "J DillaのLast Donut of the Night。Donutsに収録。制作はJ Dilla。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "アルバム内の位置",
+        "text": "2006年2月7日発売のDonuts収録。制作機材や病床での制作を曲単位の事実として断定しない。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "アルバム終盤に置かれた、声と旋律の余韻。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "2006年の作品として、J Dillaの制作とJ Dillaの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "J Dilla - Topic / Last Donut Of The Night",
+        "url": "https://www.youtube.com/watch?v=rcbd-r1xC2o",
+        "kind": "公式配信・動画"
+      },
+      {
+        "label": "Stones Throw / Donuts",
+        "url": "https://www.stonesthrow.com/store/donuts/",
+        "kind": "レーベル公式"
+      }
+    ],
+    "producers": [
+      "J Dilla"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 243,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "J Dilla"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "erykah-badu-didnt-cha-know",
+    "title": "Didn't Cha Know",
+    "artist": "Erykah Badu",
+    "year": 2000,
+    "yearBasis": "作品・シングルの初出年を優先。動画公開年・再発年とは区別。",
+    "region": "Dallas / Detroit",
+    "scene": "Dallas / Detroit",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Mama's Gun",
+    "label": "Motown",
+    "producer": "J Dilla",
+    "members": "Erykah Badu",
+    "youtube": {
+      "id": "b4fCymLkgOQ",
+      "url": "https://www.youtube.com/watch?v=b4fCymLkgOQ",
+      "channel": "Erykah Badu - Topic",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "DIDN'T CHA KNOW",
+      "lines": [
+        "DIDN'T CHA KNOW"
+      ],
+      "tag": "J DILLA / 2000",
+      "style": "piece",
+      "seed": 2026101607,
+      "profile": "ny-subway",
+      "palette": [
+        "#d59a51",
+        "#dbc5a3",
+        "#694938",
+        "#352c2b"
+      ],
+      "paletteSource": "Mama's Gun",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "Baduの歌と、ゆっくりうねるビート。",
+    "essayTitle": "声が歩くための、柔らかな道。",
+    "essay": [
+      "Erykah Baduの声を聴いているつもりが、いつのまにか低音の動きまで追っている。歌とビートの関係が、とても近い。",
+      "主役を支えるというより、同じ場所で呼吸している感じがする。間の取り方に、曲全体の居心地がある。",
+      "細かな仕組みはあとで調べてもいい。まずは体がどこで揺れたかを覚えておく。それも立派な聴き方だと思う。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "Erykah BaduのDidn't Cha Know。Mama's Gunに収録。制作はJ Dilla。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "Baduの歌と、ゆっくりうねるビート。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "2000年の作品として、J Dillaの制作とErykah Baduの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "Erykah Badu - Topic / Didn't Cha Know",
+        "url": "https://www.youtube.com/watch?v=b4fCymLkgOQ",
+        "kind": "公式配信・動画"
+      }
+    ],
+    "producers": [
+      "J Dilla"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 244,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "Erykah Badu"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "janet-jackson-got-til-its-gone",
+    "title": "Got 'Til It's Gone",
+    "artist": "Janet Jackson",
+    "year": 1997,
+    "yearBasis": "原曲の公式制作クレジットはJanet Jackson、Jimmy Jam、Terry Lewis。J Dilla制作として断定しない。",
+    "region": "Minneapolis",
+    "scene": "Minneapolis",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "The Velvet Rope",
+    "label": "Virgin",
+    "producer": "Janet Jackson / Jimmy Jam / Terry Lewis",
+    "members": "Janet Jackson",
+    "youtube": {
+      "id": "aL5T6uGs-zU",
+      "url": "https://www.youtube.com/watch?v=aL5T6uGs-zU",
+      "channel": "Janet Jackson - Topic",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "GOT 'TIL IT'S GONE",
+      "lines": [
+        "GOT 'TIL IT'S GONE"
+      ],
+      "tag": "JANET JACKSON / JIMMY JAM / TERRY LEWIS / 1997",
+      "style": "piece",
+      "seed": 2026101608,
+      "profile": "ny-subway",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "The Velvet Rope",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "Janet、Q-Tip、Joni Mitchellが重なる原曲版。",
+    "essayTitle": "同じ曲名でも、制作の名前は確かめる。",
+    "essay": [
+      "声が重なるたびに、曲の中の距離が変わる。Janetの歌、Q-Tipのラップ、引用されたJoni Mitchellの声が、それぞれの場所を持っている。",
+      "音の手触りから好きな作り手を連想することはある。しかし、聴感と制作クレジットは同じではない。ここでは原曲とリミックスを分けて並べた。",
+      "思い込みを一度ほどくと、同じ曲を聴く入口が増える。レコードを掘る作業には、名前を確かめ直す時間も含まれている。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "Janet JacksonのGot 'Til It's Gone。The Velvet Ropeに収録。制作はJanet Jackson / Jimmy Jam / Terry Lewis。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "版・制作の区別",
+        "text": "原曲の公式制作クレジットはJanet Jackson、Jimmy Jam、Terry Lewis。J Dilla制作として断定しない。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "Janet、Q-Tip、Joni Mitchellが重なる原曲版。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "1997年の作品として、Janet Jackson / Jimmy Jam / Terry Lewisの制作とJanet Jacksonの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "Janet Jackson - Topic / Got 'Til It's Gone",
+        "url": "https://www.youtube.com/watch?v=aL5T6uGs-zU",
+        "kind": "公式配信・動画"
+      },
+      {
+        "label": "Universal Music / 原曲制作クレジット",
+        "url": "https://www.universalmusic.it/popular-music/album/got-til-its-gone_30821155966/",
+        "kind": "アーティスト・レーベル公式"
+      }
+    ],
+    "producers": [
+      "Janet Jackson",
+      "Jimmy Jam",
+      "Terry Lewis"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 245,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "Janet Jackson"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "janet-jackson-got-til-its-gone-jay-dees-revenge-mix",
+    "title": "Got 'Til It's Gone (Ummah Jay Dee's Revenge Mix)",
+    "artist": "Janet Jackson",
+    "year": 1997,
+    "yearBasis": "Ummah Jay Dee's Revenge Mixを掲載。1997年のリミックスと、2022年のデラックス再発を区別。",
+    "region": "Detroit",
+    "scene": "Detroit",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Got 'Til It's Gone / The Velvet Rope (Deluxe Edition)",
+    "label": "Virgin",
+    "producer": "J Dilla / The Ummah",
+    "members": "Janet Jackson",
+    "youtube": {
+      "id": "mJTFwnvdLhM",
+      "url": "https://www.youtube.com/watch?v=mJTFwnvdLhM",
+      "channel": "Janet Jackson - Topic",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "GOT 'TIL IT'S GONE (UMMAH JAY DEE'S REVENGE MIX)",
+      "lines": [
+        "GOT 'TIL IT'S GONE (UMMAH JAY DEE'S REVENGE MIX)"
+      ],
+      "tag": "J DILLA / THE UMMAH / 1997",
+      "style": "piece",
+      "seed": 2026101609,
+      "profile": "ny-subway",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "Got 'Til It's Gone / The Velvet Rope (Deluxe Edition)",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "Jay Deeによるリミックスを、原曲と区別して聴く。",
+    "essayTitle": "同じ声に、別の足取りを。",
+    "essay": [
+      "同じ歌声でも、その下のビートが変わると歩き方まで変わる。リミックスの面白さは、知っている曲が別の顔を見せるところにある。",
+      "Jay Deeの名を追うなら、ここではRevenge Mixという版まで確かめておきたい。曲名だけでは、制作の役割を取り違えてしまう。",
+      "原曲と行き来しながら、どこに重さを感じるかを比べる。正解を当てるためではなく、自分の耳の動きを知るために。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "Janet JacksonのGot 'Til It's Gone (Ummah Jay Dee's Revenge Mix)。Got 'Til It's Gone / The Velvet Rope (Deluxe Edition)に収録。制作はJ Dilla / The Ummah。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "版・制作の区別",
+        "text": "Ummah Jay Dee's Revenge Mixを掲載。1997年のリミックスと、2022年のデラックス再発を区別。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "Jay Deeによるリミックスを、原曲と区別して聴く。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "1997年の作品として、J Dilla / The Ummahの制作とJanet Jacksonの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "Janet Jackson - Topic / Got 'Til It's Gone (Ummah Jay Dee's Revenge Mix)",
+        "url": "https://www.youtube.com/watch?v=mJTFwnvdLhM",
+        "kind": "公式配信・動画"
+      },
+      {
+        "label": "Universal Music / The Velvet Rope Deluxe",
+        "url": "https://www.universal-music.co.jp/janet-jackson/news/2022-10-07/",
+        "kind": "アーティスト・レーベル公式"
+      }
+    ],
+    "producers": [
+      "J Dilla",
+      "The Ummah"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 246,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "Janet Jackson"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "lootpack-whenimondamic",
+    "title": "Whenimondamic",
+    "artist": "Lootpack",
+    "year": 1999,
+    "yearBasis": "作品・シングルの初出年を優先。動画公開年・再発年とは区別。",
+    "region": "Oxnard",
+    "scene": "Oxnard",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Soundpieces: Da Antidote!",
+    "label": "Stones Throw",
+    "producer": "Madlib",
+    "members": "Lootpack",
+    "youtube": {
+      "id": "-VYE0w9evbQ",
+      "url": "https://www.youtube.com/watch?v=-VYE0w9evbQ",
+      "channel": "Stones Throw",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "WHENIMONDAMIC",
+      "lines": [
+        "WHENIMONDAMIC"
+      ],
+      "tag": "MADLIB / 1999",
+      "style": "blockbuster",
+      "seed": 2026101610,
+      "profile": "ny-subway",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "Soundpieces: Da Antidote!",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "Lootpackの声と、Madlibのビートが交差する。",
+    "essayTitle": "マイクの前で、音がつながる。",
+    "essay": [
+      "声がビートの上に乗ると、短いフレーズにも身振りが見えてくる。Lootpackでは、その身振りを追うだけでも楽しい。",
+      "Madlibを知ってから初期のグループへ戻ると、のちの別名義とは違う、仲間と鳴らす音の近さに気づく。",
+      "膨大なディスコグラフィーも、一曲ずつなら歩ける。この曲は、その最初の角を曲がるのにちょうどよい。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "LootpackのWhenimondamic。Soundpieces: Da Antidote!に収録。制作はMadlib。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "Lootpackの声と、Madlibのビートが交差する。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "1999年の作品として、Madlibの制作とLootpackの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "Stones Throw / Lootpack (Madlib, Wildchild & DJ Romes) - Whenimondamic [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=-VYE0w9evbQ",
+        "kind": "公式配信・動画"
+      }
+    ],
+    "producers": [
+      "Madlib"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 247,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "Lootpack"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "quasimoto-microphone-mathematics",
+    "title": "Microphone Mathematics",
+    "artist": "Quasimoto",
+    "year": 1999,
+    "yearBasis": "1999年のシングルを初出年とし、2000年のThe Unseen収録を区別。",
+    "region": "Oxnard / Los Angeles",
+    "scene": "Oxnard / Los Angeles",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Microphone Mathematics / The Unseen",
+    "label": "Stones Throw",
+    "producer": "Madlib",
+    "members": "Quasimoto",
+    "youtube": {
+      "id": "P7R8NTfarRA",
+      "url": "https://www.youtube.com/watch?v=P7R8NTfarRA",
+      "channel": "Quasimoto - Topic",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "MICROPHONE MATHEMATICS",
+      "lines": [
+        "MICROPHONE MATHEMATICS"
+      ],
+      "tag": "MADLIB / 1999",
+      "style": "blockbuster",
+      "seed": 2026101611,
+      "profile": "ny-subway",
+      "palette": [
+        "#dfad42",
+        "#a85c34",
+        "#c9c286",
+        "#3b3930"
+      ],
+      "paletteSource": "Microphone Mathematics / The Unseen",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "加工した声が、別の語り手を生み出す。",
+    "essayTitle": "声の高さが、人格を変える。",
+    "essay": [
+      "高い声が入った瞬間、同じ部屋にもう一人いるように聞こえる。Quasimotoという別名義は、名前だけの着替えではない。",
+      "声の響きが変われば、ビートとの距離も、言葉の身軽さも変わる。小さな加工が、大きな世界観につながっている。",
+      "計算という題名だが、式を解く必要はない。声とループの間で起きる妙な楽しさに、まずは乗ってしまえばいい。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "QuasimotoのMicrophone Mathematics。Microphone Mathematics / The Unseenに収録。制作はMadlib。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "版・制作の区別",
+        "text": "1999年のシングルを初出年とし、2000年のThe Unseen収録を区別。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "加工した声が、別の語り手を生み出す。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "1999年の作品として、Madlibの制作とQuasimotoの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "Quasimoto - Topic / Microphone Mathematics",
+        "url": "https://www.youtube.com/watch?v=P7R8NTfarRA",
+        "kind": "公式配信・動画"
+      },
+      {
+        "label": "Stones Throw / Microphone Mathematics",
+        "url": "https://www.stonesthrow.com/store/microphone-mathematics/",
+        "kind": "アーティスト・レーベル公式"
+      }
+    ],
+    "producers": [
+      "Madlib"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 248,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "Quasimoto"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "quasimoto-low-class-conspiracy",
+    "title": "Low Class Conspiracy",
+    "artist": "Quasimoto",
+    "year": 1999,
+    "yearBasis": "1999年のMicrophone Mathematicsシングルに収録。The Unseenへの収録は2000年。",
+    "region": "Oxnard / Los Angeles",
+    "scene": "Oxnard / Los Angeles",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Microphone Mathematics / The Unseen",
+    "label": "Stones Throw",
+    "producer": "Madlib",
+    "members": "Quasimoto",
+    "youtube": {
+      "id": "a7F2HfM9OYY",
+      "url": "https://www.youtube.com/watch?v=a7F2HfM9OYY",
+      "channel": "Quasimoto - Topic",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "LOW CLASS CONSPIRACY",
+      "lines": [
+        "LOW CLASS CONSPIRACY"
+      ],
+      "tag": "MADLIB / 1999",
+      "style": "piece",
+      "seed": 2026101612,
+      "profile": "ny-subway",
+      "palette": [
+        "#dfad42",
+        "#a85c34",
+        "#c9c286",
+        "#3b3930"
+      ],
+      "paletteSource": "Microphone Mathematics / The Unseen",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "ずれた声とループが描く、Quasimotoの小さな世界。",
+    "essayTitle": "変な声にも、暮らしがある。",
+    "essay": [
+      "奇妙な声に慣れてくると、その奇妙さより、語りの調子が気になってくる。キャラクターが音楽の中に住み始める感じがする。",
+      "ループは背景でありながら、声の表情を決める相手でもある。その近さが、この別名義の居心地のよさにつながっている。",
+      "立派な説明をつけるほど遠ざかる音楽もある。少し不思議なまま手元に置いておく、それで十分な気がする。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "QuasimotoのLow Class Conspiracy。Microphone Mathematics / The Unseenに収録。制作はMadlib。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "版・制作の区別",
+        "text": "1999年のMicrophone Mathematicsシングルに収録。The Unseenへの収録は2000年。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "ずれた声とループが描く、Quasimotoの小さな世界。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "1999年の作品として、Madlibの制作とQuasimotoの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "Quasimoto - Topic / Low Class Conspiracy",
+        "url": "https://www.youtube.com/watch?v=a7F2HfM9OYY",
+        "kind": "公式配信・動画"
+      },
+      {
+        "label": "Stones Throw / Microphone Mathematics",
+        "url": "https://www.stonesthrow.com/store/microphone-mathematics/",
+        "kind": "アーティスト・レーベル公式"
+      }
+    ],
+    "producers": [
+      "Madlib"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 249,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "Quasimoto"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "madlib-slims-return",
+    "title": "Slim's Return",
+    "artist": "Madlib",
+    "year": 2003,
+    "yearBasis": "作品・シングルの初出年を優先。動画公開年・再発年とは区別。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Shades of Blue",
+    "label": "Blue Note",
+    "producer": "Madlib",
+    "members": "Madlib",
+    "youtube": {
+      "id": "78E1ZFpHOJI",
+      "url": "https://www.youtube.com/watch?v=78E1ZFpHOJI",
+      "channel": "Madlib - Topic",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "SLIM'S RETURN",
+      "lines": [
+        "SLIM'S RETURN"
+      ],
+      "tag": "MADLIB / 2003",
+      "style": "piece",
+      "seed": 2026101613,
+      "profile": "ny-subway",
+      "palette": [
+        "#234c74",
+        "#7ba3bd",
+        "#b7c8ce",
+        "#dcd7bb"
+      ],
+      "paletteSource": "Shades of Blue",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "Blue Noteの音源と、Madlibのビートの接点。",
+    "essayTitle": "ジャズの棚に、別の入口を。",
+    "essay": [
+      "ジャズの音が、別の拍の感じ方でこちらへ届く。元の演奏を知っていても、知らなくても、入口は開いている。",
+      "Shades of Blueという企画では、名門レーベルの記録がビートの材料になる。古い音に触ることは、必ずしも懐古ではない。",
+      "再構築された曲から元の録音へ戻る。その往復が始まると、レコード棚は急に広くなる。置き場所だけが、少々困る。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "MadlibのSlim's Return。Shades of Blueに収録。制作はMadlib。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "Blue Noteの音源と、Madlibのビートの接点。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "2003年の作品として、Madlibの制作とMadlibの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "Madlib - Topic / Slim's Return",
+        "url": "https://www.youtube.com/watch?v=78E1ZFpHOJI",
+        "kind": "公式配信・動画"
+      }
+    ],
+    "producers": [
+      "Madlib"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 250,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "Madlib"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "madvillain-americas-most-blunted",
+    "title": "America's Most Blunted",
+    "artist": "Madvillain",
+    "year": 2003,
+    "yearBasis": "作品・シングルの初出年を優先。動画公開年・再発年とは区別。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Money Folder / America's Most Blunted / Madvillainy",
+    "label": "Stones Throw",
+    "producer": "Madlib",
+    "members": "Madvillain",
+    "youtube": {
+      "id": "Fw_qKG1xe_8",
+      "url": "https://www.youtube.com/watch?v=Fw_qKG1xe_8",
+      "channel": "Madvillain - Topic",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "AMERICA'S MOST BLUNTED",
+      "lines": [
+        "AMERICA'S MOST BLUNTED"
+      ],
+      "tag": "MADLIB / 2003",
+      "style": "blockbuster",
+      "seed": 2026101614,
+      "profile": "ny-subway",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "Money Folder / America's Most Blunted / Madvillainy",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "MF DOOM、Madlib、Quasimotoの声が入り交じる。",
+    "essayTitle": "煙の向こうに、何人いる。",
+    "essay": [
+      "声が次々と現れ、曲の輪郭まで少し曖昧になる。誰がどこから話しかけてくるのか、その距離感が面白い。",
+      "MF DOOMとMadlibの組み合わせは、役割分担を知ったあとでも簡単には整理しきれない。音の断片が、話の合間へ入り込む。",
+      "わからない部分をすぐに片づけなくてもいい。一度聴いて残った小さな引っかかりが、次に再生する理由になる。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "MadvillainのAmerica's Most Blunted。Money Folder / America's Most Blunted / Madvillainyに収録。制作はMadlib。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "MF DOOM、Madlib、Quasimotoの声が入り交じる。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "2003年の作品として、Madlibの制作とMadvillainの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "Madvillain - Topic / America's Most Blunted",
+        "url": "https://www.youtube.com/watch?v=Fw_qKG1xe_8",
+        "kind": "公式配信・動画"
+      }
+    ],
+    "producers": [
+      "Madlib"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 251,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "Madvillain"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "madvillain-accordion",
+    "title": "Accordion",
+    "artist": "Madvillain",
+    "year": 2004,
+    "yearBasis": "作品・シングルの初出年を優先。動画公開年・再発年とは区別。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Madvillainy",
+    "label": "Stones Throw",
+    "producer": "Madlib",
+    "members": "Madvillain",
+    "youtube": {
+      "id": "bGCHT6fIEBw",
+      "url": "https://www.youtube.com/watch?v=bGCHT6fIEBw",
+      "channel": "Madvillain - Topic",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "ACCORDION",
+      "lines": [
+        "ACCORDION"
+      ],
+      "tag": "MADLIB / 2004",
+      "style": "blockbuster",
+      "seed": 2026101615,
+      "profile": "ny-subway",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "Madvillainy",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "特徴的な反復と、MF DOOMの声の近さ。",
+    "essayTitle": "小さなループに、大きな声。",
+    "essay": [
+      "短い反復が続いているのに、声を追うと景色は止まらない。音の材料の数と、曲の豊かさは別の話なのだろう。",
+      "MF DOOMの言葉は、ビートにぴったり貼りつかず、自分の歩幅で進んでいく。その隣をループが回り続ける。",
+      "足すより残すほうが難しい場面もある。この曲を聴くと、音楽の余白は空き地ではなく、きちんと使われた場所だと思う。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "MadvillainのAccordion。Madvillainyに収録。制作はMadlib。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "特徴的な反復と、MF DOOMの声の近さ。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "2004年の作品として、Madlibの制作とMadvillainの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "Madvillain - Topic / Accordion",
+        "url": "https://www.youtube.com/watch?v=bGCHT6fIEBw",
+        "kind": "公式配信・動画"
+      }
+    ],
+    "producers": [
+      "Madlib"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 252,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "Madvillain"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "madvillain-all-caps",
+    "title": "All Caps",
+    "artist": "Madvillain",
+    "year": 2004,
+    "yearBasis": "作品・シングルの初出年を優先。動画公開年・再発年とは区別。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Madvillainy",
+    "label": "Stones Throw",
+    "producer": "Madlib",
+    "members": "Madvillain",
+    "youtube": {
+      "id": "NPiAK33CfxQ",
+      "url": "https://www.youtube.com/watch?v=NPiAK33CfxQ",
+      "channel": "Madvillain - Topic",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "ALL CAPS",
+      "lines": [
+        "ALL CAPS"
+      ],
+      "tag": "MADLIB / 2004",
+      "style": "blockbuster",
+      "seed": 2026101616,
+      "profile": "ny-subway",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "Madvillainy",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "短い展開に凝縮された、ビートと言葉。",
+    "essayTitle": "大文字で、短く濃く。",
+    "essay": [
+      "曲名は大文字、曲は短い。それでも聴き終えたあとの存在感は、ずいぶん大きい。",
+      "声の運びとビートの切れ目が、互いを押し進めている。短いから省略されているのではなく、短い形に詰められているように感じる。",
+      "説明を長くするのが少し野暮に思えてくる。もう一度再生したほうが、早く伝わる種類の曲である。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "MadvillainのAll Caps。Madvillainyに収録。制作はMadlib。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "短い展開に凝縮された、ビートと言葉。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "2004年の作品として、Madlibの制作とMadvillainの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "Madvillain - Topic / All Caps",
+        "url": "https://www.youtube.com/watch?v=NPiAK33CfxQ",
+        "kind": "公式配信・動画"
+      }
+    ],
+    "producers": [
+      "Madlib"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 253,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "Madvillain"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "madvillain-meat-grinder",
+    "title": "Meat Grinder",
+    "artist": "Madvillain",
+    "year": 2004,
+    "yearBasis": "作品・シングルの初出年を優先。動画公開年・再発年とは区別。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Madvillainy",
+    "label": "Stones Throw",
+    "producer": "Madlib",
+    "members": "Madvillain",
+    "youtube": {
+      "id": "FoasIcgem0w",
+      "url": "https://www.youtube.com/watch?v=FoasIcgem0w",
+      "channel": "Madvillain - Topic",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "MEAT GRINDER",
+      "lines": [
+        "MEAT GRINDER"
+      ],
+      "tag": "MADLIB / 2004",
+      "style": "blockbuster",
+      "seed": 2026101617,
+      "profile": "ny-subway",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "Madvillainy",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "低音と断片がつくる、不思議な手触り。",
+    "essayTitle": "きれいに並ばない、という秩序。",
+    "essay": [
+      "最初から最後まで、安心して予測できる音ではない。小さな断片が、声のまわりでそれぞれ勝手に動いているように感じる。",
+      "それでも曲としてまとまって聞こえるのは、声と低音が居場所を持っているからだろう。雑然として見える部屋にも、住人の秩序はある。",
+      "整頓しすぎると失われる面白さがある。Madlibのビートを聴く時間は、その感覚を耳で確かめる時間でもある。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "MadvillainのMeat Grinder。Madvillainyに収録。制作はMadlib。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "低音と断片がつくる、不思議な手触り。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "2004年の作品として、Madlibの制作とMadvillainの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "Madvillain - Topic / Meat Grinder",
+        "url": "https://www.youtube.com/watch?v=FoasIcgem0w",
+        "kind": "公式配信・動画"
+      }
+    ],
+    "producers": [
+      "Madlib"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 254,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "Madvillain"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "freddie-gibbs-madlib-thuggin",
+    "title": "Thuggin'",
+    "artist": "Freddie Gibbs & Madlib",
+    "year": 2011,
+    "yearBasis": "2011年のThuggin EPで発表。Piñataへの収録は2014年。",
+    "region": "Los Angeles / Gary",
+    "scene": "Los Angeles / Gary",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Thuggin' EP / Piñata",
+    "label": "Madlib Invazion",
+    "producer": "Madlib",
+    "members": "Freddie Gibbs & Madlib",
+    "youtube": {
+      "id": "a2qSiFP0_4M",
+      "url": "https://www.youtube.com/watch?v=a2qSiFP0_4M",
+      "channel": "Freddie Gibbs - Topic",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "THUGGIN'",
+      "lines": [
+        "THUGGIN'"
+      ],
+      "tag": "MADLIB / 2011",
+      "style": "blockbuster",
+      "seed": 2026101618,
+      "profile": "ny-subway",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "Thuggin' EP / Piñata",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "Freddie Gibbsの語りと、反復する旋律。",
+    "essayTitle": "強い声の下に、柔らかな反復。",
+    "essay": [
+      "声の強さと、下で回る旋律の感じが同じ方向を向いていない。その距離が、曲に奥行きをつくっている。",
+      "Freddie Gibbsの言葉を追っていても、ループは耳の隅から離れない。ラップとビートのどちらを聴いていたか、途中でわからなくなる。",
+      "一緒に作るとは、同じことをすることではない。異なる手触りが一曲に収まったときの面白さを、ここでは味わいたい。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "Freddie Gibbs & MadlibのThuggin'。Thuggin' EP / Piñataに収録。制作はMadlib。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "版・制作の区別",
+        "text": "2011年のThuggin EPで発表。Piñataへの収録は2014年。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "Freddie Gibbsの語りと、反復する旋律。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "2011年の作品として、Madlibの制作とFreddie Gibbs & Madlibの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "Freddie Gibbs - Topic / Thuggin’",
+        "url": "https://www.youtube.com/watch?v=a2qSiFP0_4M",
+        "kind": "公式配信・動画"
+      },
+      {
+        "label": "Freddie Gibbs & Madlib公式 / Thuggin EP",
+        "url": "https://freddiegibbsmadlib.bandcamp.com/album/thuggin-ep",
+        "kind": "アーティスト・レーベル公式"
+      }
+    ],
+    "producers": [
+      "Madlib"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 255,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "Freddie Gibbs & Madlib"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "freddie-gibbs-madlib-crime-pays",
+    "title": "Crime Pays",
+    "artist": "Freddie Gibbs & Madlib",
+    "year": 2019,
+    "yearBasis": "作品・シングルの初出年を優先。動画公開年・再発年とは区別。",
+    "region": "Los Angeles / Gary",
+    "scene": "Los Angeles / Gary",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Bandana",
+    "label": "Keep Cool / RCA",
+    "producer": "Madlib",
+    "members": "Freddie Gibbs & Madlib",
+    "youtube": {
+      "id": "99G6GU7Vv4g",
+      "url": "https://www.youtube.com/watch?v=99G6GU7Vv4g",
+      "channel": "Freddie Gibbs - Topic",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "CRIME PAYS",
+      "lines": [
+        "CRIME PAYS"
+      ],
+      "tag": "MADLIB / 2019",
+      "style": "piece",
+      "seed": 2026101619,
+      "profile": "ny-subway",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "Bandana",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "流れるような歌声の断片に、ラップが切り込む。",
+    "essayTitle": "滑らかな道を、速い言葉で。",
+    "essay": [
+      "耳に残る柔らかな反復と、細かく進むラップ。両方を同時に追おうとすると、何度でも聴き直したくなる。",
+      "ビートが優しいからといって、語られることまで穏やかとは限らない。その温度差も、曲を平面的にしない理由のひとつだ。",
+      "心地よい、で終えてもいい。そこからもう一歩耳を寄せてもいい。聴く深さを自分で選べる曲は、長く手元に残る。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "Freddie Gibbs & MadlibのCrime Pays。Bandanaに収録。制作はMadlib。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "流れるような歌声の断片に、ラップが切り込む。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "2019年の作品として、Madlibの制作とFreddie Gibbs & Madlibの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "Freddie Gibbs - Topic / Crime Pays",
+        "url": "https://www.youtube.com/watch?v=99G6GU7Vv4g",
+        "kind": "公式配信・動画"
+      }
+    ],
+    "producers": [
+      "Madlib"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 256,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "Freddie Gibbs & Madlib"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "madlib-road-of-the-lonely-ones",
+    "title": "Road of the Lonely Ones",
+    "artist": "Madlib",
+    "year": 2020,
+    "yearBasis": "2020年12月に先行発表。Sound Ancestorsのアルバム発売は2021年。音楽はMadlib、編集・構成・マスタリングはKieran Hebden。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "Road of the Lonely Ones / Sound Ancestors",
+    "label": "Madlib Invazion",
+    "producer": "Madlib",
+    "members": "Madlib",
+    "youtube": {
+      "id": "Y52M28WQu2s",
+      "url": "https://www.youtube.com/watch?v=Y52M28WQu2s",
+      "channel": "Madlib Invazion",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "ROAD OF THE LONELY ONES",
+      "lines": [
+        "ROAD OF THE LONELY ONES"
+      ],
+      "tag": "MADLIB / 2020",
+      "style": "piece",
+      "seed": 2026101620,
+      "profile": "ny-subway",
+      "palette": [
+        "#386b5c",
+        "#638a74",
+        "#b3a56b",
+        "#222c24"
+      ],
+      "paletteSource": "Road of the Lonely Ones / Sound Ancestors",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "Madlibの音を、Kieran Hebdenの編集でたどる。",
+    "essayTitle": "ひとつの道に、音を並べ直す。",
+    "essay": [
+      "声の反復が、曲名の孤独を少しずつ別の感触に変えていく。ひとりで聴いていても、音の向こうに誰かの気配がある。",
+      "Madlibの音楽をKieran Hebdenが編集し、構成する。素材を作ることと、並べ方を考えること。その間にも創造の場所がある。",
+      "新しい音を足すだけが制作ではない。すでにある音の順序を整えることで、見えてくる道もあるのだと思う。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "MadlibのRoad of the Lonely Ones。Road of the Lonely Ones / Sound Ancestorsに収録。制作はMadlib。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "版・制作の区別",
+        "text": "2020年12月に先行発表。Sound Ancestorsのアルバム発売は2021年。音楽はMadlib、編集・構成・マスタリングはKieran Hebden。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "Madlibの音を、Kieran Hebdenの編集でたどる。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "2020年の作品として、Madlibの制作とMadlibの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "Madlib Invazion / Madlib - Road of the Lonely Ones",
+        "url": "https://www.youtube.com/watch?v=Y52M28WQu2s",
+        "kind": "公式配信・動画"
+      },
+      {
+        "label": "Madlib公式 / 初出シングル",
+        "url": "https://madlib.bandcamp.com/track/road-of-the-lonely-ones",
+        "kind": "アーティスト・レーベル公式"
+      }
+    ],
+    "producers": [
+      "Madlib"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 257,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "Madlib"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "mf-doom-one-beer",
+    "title": "One Beer",
+    "artist": "MF DOOM",
+    "year": 2004,
+    "yearBasis": "作品・シングルの初出年を優先。動画公開年・再発年とは区別。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "MM..FOOD",
+    "label": "Rhymesayers",
+    "producer": "Madlib",
+    "members": "MF DOOM",
+    "youtube": {
+      "id": "ypClJkPhx8o",
+      "url": "https://www.youtube.com/watch?v=ypClJkPhx8o",
+      "channel": "MF Doom - Topic",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "ONE BEER",
+      "lines": [
+        "ONE BEER"
+      ],
+      "tag": "MADLIB / 2004",
+      "style": "blockbuster",
+      "seed": 2026101621,
+      "profile": "ny-subway",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "MM..FOOD",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "Madlibのビートと、MF DOOMの自在な語り。",
+    "essayTitle": "一杯の題名に、詰め込む言葉。",
+    "essay": [
+      "曲名はずいぶん小さな注文だが、言葉の量は一杯では収まらない。MF DOOMの声が、ビートの隙間を次々と歩いていく。",
+      "同じ作り手同士でも、Madvillain名義とソロ作品では見え方が変わる。名前の違いを確かめると、音楽の行き来が少し楽しくなる。",
+      "軽い題名と濃い中身。その釣り合わなさも、この曲の気前のよさなのだろう。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "MF DOOMのOne Beer。MM..FOODに収録。制作はMadlib。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "Madlibのビートと、MF DOOMの自在な語り。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "2004年の作品として、Madlibの制作とMF DOOMの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "MF Doom - Topic / One Beer",
+        "url": "https://www.youtube.com/watch?v=ypClJkPhx8o",
+        "kind": "公式配信・動画"
+      }
+    ],
+    "producers": [
+      "Madlib"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 258,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "MF DOOM"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "de-la-soul-shopping-bags",
+    "title": "Shopping Bags (She Got from You)",
+    "artist": "De La Soul",
+    "year": 2004,
+    "yearBasis": "The Grind Date収録。公式MVの説明でMadlib制作を確認。「The Knock」という曲名では登録しない。",
+    "region": "Long Island / Los Angeles",
+    "scene": "Long Island / Los Angeles",
+    "category": "Hip Hop / Soul",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "The Grind Date",
+    "label": "Sanctuary",
+    "producer": "Madlib",
+    "members": "De La Soul",
+    "youtube": {
+      "id": "TKDHqAMa7T8",
+      "url": "https://www.youtube.com/watch?v=TKDHqAMa7T8",
+      "channel": "De La Soul",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "SHOPPING BAGS (SHE GOT FROM YOU)",
+      "lines": [
+        "SHOPPING BAGS (SHE GOT FROM YOU)"
+      ],
+      "tag": "MADLIB / 2004",
+      "style": "piece",
+      "seed": 2026101622,
+      "profile": "ny-subway",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "The Grind Date",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "De La Soulの声に、Madlibのビートが加わる。",
+    "essayTitle": "買い物袋より、ビートが重い。",
+    "essay": [
+      "声とフックが行き来するたび、曲の足取りが軽くなる。題名の日常感に似合って、音楽はすぐそばで鳴っている。",
+      "De La SoulとMadlibという組み合わせを、名前の大きさだけで聴くのはもったいない。声を受けるビートの置き方にも耳を向けたい。",
+      "誰かの買い物袋の話が、こちらの体を揺らす。ヒップホップは、生活の細部を音楽へ変えるのがうまい。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "De La SoulのShopping Bags (She Got from You)。The Grind Dateに収録。制作はMadlib。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "版・制作の区別",
+        "text": "The Grind Date収録。公式MVの説明でMadlib制作を確認。「The Knock」という曲名では登録しない。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "De La Soulの声に、Madlibのビートが加わる。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "2004年の作品として、Madlibの制作とDe La Soulの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "De La Soul / De La Soul - Shopping Bags (She Got From You) (Official HD Video)",
+        "url": "https://www.youtube.com/watch?v=TKDHqAMa7T8",
+        "kind": "公式配信・動画"
+      },
+      {
+        "label": "De La Soul公式 / Shopping Bags",
+        "url": "https://www.youtube.com/watch?v=TKDHqAMa7T8",
+        "kind": "アーティスト・レーベル公式"
+      }
+    ],
+    "producers": [
+      "Madlib"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 259,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "De La Soul"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "mos-def-auditorium",
+    "title": "Auditorium",
+    "artist": "Mos Def",
+    "year": 2009,
+    "yearBasis": "Slick Rickが参加。MadlibのBeat Konducta in India収録Movie Finaleのビートを用いる。",
+    "region": "Brooklyn / Los Angeles",
+    "scene": "Brooklyn / Los Angeles",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "The Ecstatic",
+    "label": "Downtown",
+    "producer": "Madlib",
+    "members": "Mos Def / feat. Slick Rick",
+    "youtube": {
+      "id": "11q1woSYCKg",
+      "url": "https://www.youtube.com/watch?v=11q1woSYCKg",
+      "channel": "broncos20",
+      "type": "参考投稿（一般ユーザー）",
+      "official": false,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。適切な公式YouTubeを特定できず、一般投稿を採用。YouTube oEmbedで曲名と投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "AUDITORIUM",
+      "lines": [
+        "AUDITORIUM"
+      ],
+      "tag": "MADLIB / 2009",
+      "style": "blockbuster",
+      "seed": 2026101623,
+      "profile": "ny-subway",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "The Ecstatic",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "Madlibの音の上で、Mos DefとSlick Rickが語る。",
+    "essayTitle": "声が変わると、風景が変わる。",
+    "essay": [
+      "同じビートを聴いているのに、語り手が変わると部屋の明るさまで変わったように感じる。声は、それほど大きな楽器なのだ。",
+      "Mos DefとSlick Rickの語りを、Madlibの音が支える。下を流れる反復は動きすぎず、言葉の景色を受け止めている。",
+      "耳を置く場所を変えながら、もう一度。音楽の中にも、席を移るだけで見え方が変わる客席がある。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "Mos DefのAuditorium。The Ecstaticに収録。制作はMadlib。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "版・制作の区別",
+        "text": "Slick Rickが参加。MadlibのBeat Konducta in India収録Movie Finaleのビートを用いる。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "Madlibの音の上で、Mos DefとSlick Rickが語る。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "2009年の作品として、Madlibの制作とMos Defの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "broncos20 / Mos Def - Auditorium (High Quality)",
+        "url": "https://www.youtube.com/watch?v=11q1woSYCKg",
+        "kind": "一般ユーザー投稿（参考音源）"
+      },
+      {
+        "label": "Stones Throw / The Ecstatic",
+        "url": "https://www.stonesthrow.com/news/mos-def-the-ecstatic/",
+        "kind": "アーティスト・レーベル公式"
+      }
+    ],
+    "producers": [
+      "Madlib"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 260,
+    "editorialStatus": "曲名と投稿者を照合。Auditoriumは参考投稿を採用し、公式とは表示しない。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "Mos Def",
+      "Slick Rick"
+    ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "kanye-west-no-more-parties-in-la",
+    "title": "No More Parties in LA",
+    "artist": "Kanye West",
+    "year": 2016,
+    "yearBasis": "作品・シングルの初出年を優先。動画公開年・再発年とは区別。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ"
+    ],
+    "album": "The Life of Pablo",
+    "label": "GOOD Music / Def Jam",
+    "producer": "Madlib / Kanye West",
+    "members": "Kanye West / feat. Kendrick Lamar",
+    "youtube": {
+      "id": "0F5CSjcRZxU",
+      "url": "https://www.youtube.com/watch?v=0F5CSjcRZxU",
+      "channel": "Kanye West - Topic",
+      "type": "Official Audio / Video",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "NO MORE PARTIES IN LA",
+      "lines": [
+        "NO MORE PARTIES IN LA"
+      ],
+      "tag": "MADLIB / KANYE WEST / 2016",
+      "style": "blockbuster",
+      "seed": 2026101624,
+      "profile": "ny-subway",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "The Life of Pablo",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "Kendrick Lamarを迎えた、長い言葉の応酬。",
+    "essayTitle": "パーティーのあとも、声は続く。",
+    "essay": [
+      "言葉が長く続いても、ビートは腰を据えて回っている。ラップの密度とループの粘りが、互いの持久力を引き出しているようだ。",
+      "Madlibのビートが、大きな作品の一角で鳴る。アンダーグラウンドとメインストリームを別々の部屋に閉じ込めない接点でもある。",
+      "作り手の名前をたどると、思いがけない場所へ出る。レコードを掘る面白さは、地図の境界がいつも書き換わるところにある。"
+    ],
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "Kanye WestのNo More Parties in LA。The Life of Pabloに収録。制作はMadlib / Kanye West。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "listening": [
+      "Kendrick Lamarを迎えた、長い言葉の応酬。",
+      "声・旋律とドラムの間に生まれる余白。"
+    ],
+    "context": "2016年の作品として、Madlib / Kanye Westの制作とKanye Westの表現の接点を聴く。",
+    "sources": [
+      {
+        "label": "Kanye West - Topic / No More Parties In LA",
+        "url": "https://www.youtube.com/watch?v=0F5CSjcRZxU",
+        "kind": "公式配信・動画"
+      }
+    ],
+    "producers": [
+      "Madlib",
+      "Kanye West"
+    ],
+    "connections": [],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "addedOrder": 261,
+    "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "artists": [
+      "Kanye West",
+      "Kendrick Lamar"
+    ],
+    "datePublished": "2026-10-15"
   }
 ]
