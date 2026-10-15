@@ -23077,13 +23077,13 @@
     "producer": "DJ Shadow",
     "members": "DJ Shadow",
     "youtube": {
-      "id": null,
-      "url": null,
-      "channel": "",
-      "type": "未照合",
-      "official": false,
-      "verified": "",
-      "verification": "再生可能な正規音源を確認するまでURLを掲載しない。"
+      "id": "odlhSQqOXL8",
+      "url": "https://www.youtube.com/watch?v=odlhSQqOXL8",
+      "channel": "DJ Shadow - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "ユーザー指定URL。YouTube oEmbedでタイトルとDJ Shadow - Topic投稿を照合。実音声・日本国内の埋め込み再生は未検証。"
     },
     "art": {
       "word": "THE NUMBER SONG",
@@ -23134,6 +23134,11 @@
         "label": "DJ Shadow公式サイト",
         "url": "https://djshadow.com/",
         "kind": "アーティスト公式サイト"
+      },
+      {
+        "label": "DJ Shadow - Topic / The Number Song",
+        "url": "https://www.youtube.com/watch?v=odlhSQqOXL8",
+        "kind": "配信音源"
       }
     ],
     "producers": [
@@ -23145,7 +23150,109 @@
       "声の掛け合い"
     ],
     "addedOrder": 224,
-    "editorialStatus": "楽曲追加済み。音源、12インチ盤面、サンプル詳細は継続照合中。",
+    "editorialStatus": "音源設定済み。12インチ盤面、サンプル詳細は継続照合中。",
+    "collections": [
+      "walk",
+      "west"
+    ],
+    "editorialCrates": [
+      "cut-scratch"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+  },
+  {
+    "id": "dj-shadow-the-number-song-cut-chemist-remix",
+    "title": "The Number Song (Cut Chemist Remix)",
+    "artist": "DJ Shadow",
+    "year": 1996,
+    "yearBasis": "原曲の発表年は1996年。リミックス版の初出年は照合中。",
+    "region": "San Francisco Bay Area",
+    "scene": "San Francisco Bay Area",
+    "category": "Instrumental Hip Hop",
+    "moods": [
+      "グルーヴ",
+      "街歩き"
+    ],
+    "album": "The Number Song (Cut Chemist Remix)",
+    "label": "Mo' Wax",
+    "producer": "DJ Shadow / Remix by Cut Chemist",
+    "members": "DJ Shadow",
+    "youtube": {
+      "id": "c0CKXOCOX3o",
+      "url": "https://www.youtube.com/watch?v=c0CKXOCOX3o",
+      "channel": "DJ Shadow - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "ユーザー指定URL。YouTube oEmbedでタイトルとDJ Shadow - Topic投稿を照合。実音声・日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "THE NUMBER SONG",
+      "lines": [
+        "THE NUMBER",
+        "SONG"
+      ],
+      "tag": "DJ SHADOW / CUT CHEMIST REMIX",
+      "style": "piece",
+      "seed": 1996226,
+      "profile": "ny-subway",
+      "palette": [
+        "#608a78",
+        "#e2d5b5",
+        "#b38052",
+        "#29392f"
+      ],
+      "paletteSource": "Endtroducing.....",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "The Number Songを、Cut Chemistのリミックスで聴く。",
+    "essayTitle": "同じ曲を、別の耳で。",
+    "essay": [
+      "DJ Shadow「The Number Song」のCut Chemist Remix。原曲と並べて聴くための一曲。",
+      "同じタイトルを持つ二つの音源を行き来すると、リズムの組み立て方に耳が向く。どこに重心を感じるか、それぞれの耳で確かめたい。",
+      "このページには指定されたリミックス音源を設定した。原曲のページからも、それぞれを独立した楽曲として選べる。"
+    ],
+    "facts": [
+      {
+        "title": "音源のバージョン",
+        "text": "YouTubeのDJ Shadow - Topicによる配信タイトルはThe Number Song (Cut Chemist Remix)。リミックス版の初出盤・発売年は継続照合中。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用サンプルの個別照合は未完了。",
+    "listening": [
+      "原曲とリミックスのリズムの違い。",
+      "音の配置と展開の違い。"
+    ],
+    "context": "DJ ShadowのThe Number SongをCut Chemistがリミックスしたバージョン。",
+    "sources": [
+      {
+        "label": "DJ Shadow公式サイト",
+        "url": "https://djshadow.com/",
+        "kind": "アーティスト公式サイト"
+      },
+      {
+        "label": "DJ Shadow - Topic / The Number Song (Cut Chemist Remix)",
+        "url": "https://www.youtube.com/watch?v=c0CKXOCOX3o",
+        "kind": "配信音源"
+      }
+    ],
+    "producers": [
+      "DJ Shadow",
+      "Cut Chemist"
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム",
+      "声の掛け合い"
+    ],
+    "addedOrder": 225,
+    "editorialStatus": "指定のリミックス音源を設定済み。初出盤・発売年・サンプル詳細は継続照合中。",
     "collections": [
       "walk",
       "west"
