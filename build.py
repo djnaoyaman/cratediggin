@@ -22,6 +22,12 @@ for t in tracks:
     for s in t['sources']:
         assert s['url'].startswith('https://')
 DIST.mkdir(exist_ok=True)
+# Remove orphaned generated pages and cards before regenerating.
+for directory, suffixes in ((DIST/'songs', {'.html', '.md'}), (DIST/'og', {'.png'})):
+    if directory.exists():
+        for stale in directory.iterdir():
+            if stale.is_file() and stale.suffix in suffixes and stale.stem not in ids:
+                stale.unlink()
 (DIST/'tracks.js').write_text('window.TRACKS = '+json.dumps(tracks,ensure_ascii=False).replace('</','<\\/')+';\n')
 base=(DIST/'index.html').read_text()
 base=re.sub(r'<script type="application/ld\+json">.*?</script>', '', base, flags=re.S)
@@ -92,12 +98,6 @@ release=json.loads((ROOT/'releases.json').read_text())
 assert re.fullmatch(r'\d+\.\d+',release['version'])
 assert all(e['kind']=='major' for e in release['history'])
 (DIST/'releases.js').write_text('window.CRATE_SITE_URL = '+json.dumps(HOST)+'; window.CRATE_RELEASE = '+json.dumps(release,ensure_ascii=False).replace('</','<\\/')+';\n')
-for stale in (DIST/'songs').glob('*'):
-    if stale.suffix in ('.html', '.md') and stale.stem not in ids:
-        stale.unlink()
-for stale in (DIST/'og').glob('*.png'):
-    if stale.stem not in ids:
-        stale.unlink()
 for page in DIST.rglob('*.html'):
     text=page.read_text().replace('https://crate-diggin.mossyelf3.chatgpt.site',HOST)
     if '/app.js' in text and '/releases.js' not in text:
