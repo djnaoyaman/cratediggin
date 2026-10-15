@@ -22703,12 +22703,13 @@
     "producer": "DJ Shadow",
     "members": "DJ Shadow",
     "youtube": {
-      "id": null,
-      "url": null,
-      "channel": "",
-      "type": "音源未確認",
-      "verified": "",
-      "verification": "公式音源URLを確認できるまで再生欄は省略。"
+      "id": "-hGT0T-Oc_k",
+      "url": "https://www.youtube.com/watch?v=-hGT0T-Oc_k",
+      "channel": "djshadow",
+      "type": "公式アーティストチャンネル／PIAS配信（1993年シングル版）",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "YouTube公式アーティストチャンネルのタイトル、アーティスト、公開説明を照合。実機での音声・埋め込み再生は未検証。"
     },
     "art": {
       "word": "IN/FLUX",
@@ -22768,7 +22769,7 @@
       "ドラム"
     ],
     "addedOrder": 220,
-    "editorialStatus": "12インチ候補として公開。個別品番、年、音源、サンプルの確認は継続中。",
+    "editorialStatus": "12インチ候補として公開。個別品番、年、音源、サンプルの確認は継続中。 YouTube公式投稿の候補を確認済み。実機での再生確認は未実施。",
     "collections": [
       "west"
     ],
@@ -22795,12 +22796,13 @@
     "producer": "DJ Shadow",
     "members": "DJ Shadow",
     "youtube": {
-      "id": null,
-      "url": null,
-      "channel": "",
-      "type": "音源未確認",
-      "verified": "",
-      "verification": "公式音源URLを確認できるまで再生欄は省略。"
+      "id": "SHV8rWDUTfs",
+      "url": "https://www.youtube.com/watch?v=SHV8rWDUTfs",
+      "channel": "djshadow",
+      "type": "公式アーティストチャンネル／PIAS配信（1994年シングル版）",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "YouTube公式アーティストチャンネルのタイトル、アーティスト、公開説明を照合。実機での音声・埋め込み再生は未検証。"
     },
     "art": {
       "word": "LOST AND FOUND (S.F.L.)",
@@ -22861,7 +22863,7 @@
       "ドラム"
     ],
     "addedOrder": 221,
-    "editorialStatus": "12インチ候補として公開。個別品番、年、音源、サンプルの確認は継続中。",
+    "editorialStatus": "12インチ候補として公開。個別品番、年、音源、サンプルの確認は継続中。 YouTube公式投稿の候補を確認済み。実機での再生確認は未実施。",
     "collections": [
       "west"
     ],
@@ -22888,12 +22890,13 @@
     "producer": "DJ Shadow",
     "members": "DJ Shadow",
     "youtube": {
-      "id": null,
-      "url": null,
-      "channel": "",
-      "type": "音源未確認",
-      "verified": "",
-      "verification": "公式音源URLを確認できるまで再生欄は省略。"
+      "id": "CSYUf-A2gEM",
+      "url": "https://www.youtube.com/watch?v=CSYUf-A2gEM",
+      "channel": "djshadow",
+      "type": "公式アーティストチャンネル／PIAS配信（Part 1）",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "YouTube公式アーティストチャンネルの「What Does Your Soul Look Like (Part 1)」を照合。複数パートを持つ楽曲のためPart 1と明記。実機再生は未検証。"
     },
     "art": {
       "word": "WHAT DOES YOUR SOUL LOOK LIKE",
@@ -22954,7 +22957,7 @@
       "ドラム"
     ],
     "addedOrder": 222,
-    "editorialStatus": "12インチ候補として公開。個別品番、年、音源、サンプルの確認は継続中。",
+    "editorialStatus": "12インチ候補として公開。個別品番、年、音源、サンプルの確認は継続中。 再生音源は Part 1。複数パートを一曲として誤認しないよう区別。",
     "collections": [
       "west"
     ],
@@ -22981,12 +22984,13 @@
     "producer": "DJ Shadow",
     "members": "DJ Shadow",
     "youtube": {
-      "id": null,
-      "url": null,
-      "channel": "",
-      "type": "音源未確認",
-      "verified": "",
-      "verification": "公式音源URLを確認できるまで再生欄は省略。"
+      "id": "-flSzjEzP64",
+      "url": "https://www.youtube.com/watch?v=-flSzjEzP64",
+      "channel": "djshadow",
+      "type": "公式アーティストチャンネル／公式MV",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "YouTube公式アーティストチャンネルのタイトル、アーティスト、公開説明を照合。実機での音声・埋め込み再生は未検証。"
     },
     "art": {
       "word": "HIGH NOON",
@@ -23046,7 +23050,7 @@
       "ドラム"
     ],
     "addedOrder": 223,
-    "editorialStatus": "12インチ候補として公開。個別品番、年、音源、サンプルの確認は継続中。",
+    "editorialStatus": "12インチ候補として公開。個別品番、年、音源、サンプルの確認は継続中。 YouTube公式投稿の候補を確認済み。実機での再生確認は未実施。",
     "collections": [
       "west"
     ],
