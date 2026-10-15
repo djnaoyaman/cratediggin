@@ -1,0 +1,1332 @@
+{
+  "date": "2026-10-15",
+  "before": 263,
+  "after": 363,
+  "added": 100,
+  "skip_existing": 34,
+  "skip_dj_kiyo": 4,
+  "skip_rnb": 4,
+  "hold_unverified": 2,
+  "genreRule": "Apple MusicでR&B/Soul分類の作品は除外。既存登録は変更しない。",
+  "audioVerification": "全追加曲のoEmbedタイトル・投稿者を照合。実音声、日本国内の再生は未検証。",
+  "requests": [
+    {
+      "artist": "J-Live",
+      "title": "Hush The Crowd",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 1,
+      "id": "j-live-hush-the-crowd",
+      "video": "xEdU17puTwk",
+      "official": true
+    },
+    {
+      "artist": "Dead Poetz Society",
+      "title": "Lick A Shot (Remix)",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 2,
+      "id": "dead-poetz-society-lick-a-shot-remix",
+      "video": "Y4IEL4tpMFI",
+      "official": false
+    },
+    {
+      "artist": "The Roots",
+      "title": "Push Up Ya Lighter",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 3,
+      "id": "the-roots-push-up-ya-lighter",
+      "video": "nZleKw7FmvQ",
+      "official": true
+    },
+    {
+      "artist": "Ed O.G",
+      "title": "What U Got",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 4,
+      "id": "ed-o-g-what-u-got",
+      "video": "WlS2HKo56Vc",
+      "official": true
+    },
+    {
+      "artist": "Camp Lo",
+      "title": "Swing",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 5,
+      "id": "camp-lo-swing",
+      "video": "hIQZCKOFjlk",
+      "official": true
+    },
+    {
+      "artist": "A Tribe Called Quest",
+      "title": "Crew",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 6,
+      "id": "a-tribe-called-quest-crew",
+      "video": "dlqeEO7Ogdw",
+      "official": true
+    },
+    {
+      "artist": "Heltah Skeltah",
+      "title": "Therapy",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 7,
+      "id": "heltah-skeltah-therapy",
+      "video": "XOlFG96mpHk",
+      "official": true
+    },
+    {
+      "artist": "Bush Babees feat. Mos Def",
+      "title": "The Love Song",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 8,
+      "id": "bush-babees-feat-mos-def-the-love-song",
+      "video": "2SgUWz6jCrY",
+      "official": true
+    },
+    {
+      "artist": "Big Noyd",
+      "title": "Usual Suspect (Stretch Armstrong Remix)",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 9,
+      "id": "big-noyd-usual-suspect-stretch-armstrong-remix",
+      "video": "U5Tp8aEmkYk",
+      "official": true
+    },
+    {
+      "artist": "Sadat X",
+      "title": "The Lump Lump (Nubian Mix)",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 10,
+      "id": "sadat-x-the-lump-lump-nubian-mix",
+      "video": "7osV4Rb0OaA",
+      "official": true
+    },
+    {
+      "artist": "DJ KIYO",
+      "title": "Intro",
+      "status": "skip_dj_kiyo",
+      "existing_id": null,
+      "requestIndex": 11
+    },
+    {
+      "artist": "Nas",
+      "title": "N.Y. State Of Mind",
+      "status": "skip_existing",
+      "existing_id": "nas-n-y-state-of-mind",
+      "requestIndex": 12
+    },
+    {
+      "artist": "Artifacts",
+      "title": "C'mon Wit Da Git Down",
+      "status": "skip_existing",
+      "existing_id": "artifacts-c-mon-wit-da-git-down",
+      "requestIndex": 13
+    },
+    {
+      "artist": "KRS-One feat. Busta Rhymes",
+      "title": "Build Ya Skillz",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 14,
+      "id": "krs-one-feat-busta-rhymes-build-ya-skillz",
+      "video": "_9R4fCvcbbI",
+      "official": true
+    },
+    {
+      "artist": "O.C.",
+      "title": "O-Zone",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 15,
+      "id": "o-c-o-zone",
+      "video": "OXC9OMSsouQ",
+      "official": true
+    },
+    {
+      "artist": "Grand Puba",
+      "title": "A Little Of This",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 16,
+      "id": "grand-puba-a-little-of-this",
+      "video": "p8Fp8FGqa7c",
+      "official": true
+    },
+    {
+      "artist": "DJ Carbozo",
+      "title": "Keep It Real (Freestyle)",
+      "status": "hold_unverified",
+      "existing_id": null,
+      "requestIndex": 17,
+      "reason": "指定名義・バージョンの正しい音源と作品情報を確定できず。別曲や誤名義の投稿を代用しない。"
+    },
+    {
+      "artist": "AZ",
+      "title": "Gimme Yours",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 18,
+      "id": "az-gimme-yours",
+      "video": "Rtow-CvKIjY",
+      "official": true
+    },
+    {
+      "artist": "Mobb Deep",
+      "title": "Up North Trip",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 19,
+      "id": "mobb-deep-up-north-trip",
+      "video": "TvUj93m2rj8",
+      "official": true
+    },
+    {
+      "artist": "A Tribe Called Quest",
+      "title": "Sucka Nigga",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 20,
+      "id": "a-tribe-called-quest-sucka-nigga",
+      "video": "a6FMOgkLS5c",
+      "official": true
+    },
+    {
+      "artist": "Nas",
+      "title": "The World Is Yours",
+      "status": "skip_existing",
+      "existing_id": "nas-the-world-is-yours",
+      "requestIndex": 21
+    },
+    {
+      "artist": "O.C. & Organized Konfusion",
+      "title": "You Won't Go Far",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 22,
+      "id": "o-c-organized-konfusion-you-won-t-go-far",
+      "video": "X0O5AvA3EzQ",
+      "official": true
+    },
+    {
+      "artist": "Big L",
+      "title": "All Black",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 23,
+      "id": "big-l-all-black",
+      "video": "pMoBAk-HFIg",
+      "official": true
+    },
+    {
+      "artist": "Smif-N-Wessun",
+      "title": "Let's Git It On",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 24,
+      "id": "smif-n-wessun-let-s-git-it-on",
+      "video": "L1n1dSFQbDQ",
+      "official": true
+    },
+    {
+      "artist": "Black Moon",
+      "title": "How Many MC's",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 25,
+      "id": "black-moon-how-many-mc-s",
+      "video": "_-eVgV4PzX8",
+      "official": true
+    },
+    {
+      "artist": "Jeru the Damaja",
+      "title": "Come Clean",
+      "status": "skip_existing",
+      "existing_id": "jeru-the-damaja-come-clean",
+      "requestIndex": 26
+    },
+    {
+      "artist": "Group Home",
+      "title": "Up Against The Wall (Low Budget Mix)",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 27,
+      "id": "group-home-up-against-the-wall-low-budget-mix",
+      "video": "rxC04ZRnweQ",
+      "official": true
+    },
+    {
+      "artist": "Lord Finesse",
+      "title": "Hip 2 Da Game",
+      "status": "skip_existing",
+      "existing_id": "lord-finesse-hip-2-da-game",
+      "requestIndex": 28
+    },
+    {
+      "artist": "Kool G Rap",
+      "title": "Blowin' Up In The World",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 29,
+      "id": "kool-g-rap-blowin-up-in-the-world",
+      "video": "BHQZ3R6d2iw",
+      "official": true
+    },
+    {
+      "artist": "Fugees",
+      "title": "Fu-Gee-La",
+      "status": "skip_existing",
+      "existing_id": "fugees-fu-gee-la",
+      "requestIndex": 30
+    },
+    {
+      "artist": "DeeJay Rell & Killa Ben",
+      "title": "Respect",
+      "status": "hold_unverified",
+      "existing_id": null,
+      "requestIndex": 31,
+      "reason": "指定名義・バージョンの正しい音源と作品情報を確定できず。別曲や誤名義の投稿を代用しない。"
+    },
+    {
+      "artist": "Craig Mack",
+      "title": "Flava In Ya Ear",
+      "status": "skip_existing",
+      "existing_id": "craig-mack-flava-in-ya-ear",
+      "requestIndex": 32
+    },
+    {
+      "artist": "GZA",
+      "title": "Liquid Swords",
+      "status": "skip_existing",
+      "existing_id": "gza-liquid-swords",
+      "requestIndex": 33
+    },
+    {
+      "artist": "O.C.",
+      "title": "Word...Life",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 34,
+      "id": "o-c-word-life",
+      "video": "pfX6kkaSavU",
+      "official": true
+    },
+    {
+      "artist": "Common",
+      "title": "I Used to Love H.E.R.",
+      "status": "skip_existing",
+      "existing_id": "common-i-used-to-love-h-e-r",
+      "requestIndex": 35
+    },
+    {
+      "artist": "Show & A.G.",
+      "title": "Next Level (Nyte Time Mix)",
+      "status": "skip_existing",
+      "existing_id": "showbiz-a-g-next-level-nyte-time-mix",
+      "requestIndex": 36
+    },
+    {
+      "artist": "The Roots",
+      "title": "Distortion To Static",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 37,
+      "id": "the-roots-distortion-to-static",
+      "video": "6p2ACcMcPNQ",
+      "official": true
+    },
+    {
+      "artist": "Erick Sermon",
+      "title": "Bomdigi",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 38,
+      "id": "erick-sermon-bomdigi",
+      "video": "7L5RK3imxsY",
+      "official": true
+    },
+    {
+      "artist": "Pete Rock & C.L. Smooth",
+      "title": "The Main Ingredient",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 39,
+      "id": "pete-rock-c-l-smooth-the-main-ingredient",
+      "video": "40HeNBPN7h0",
+      "official": true
+    },
+    {
+      "artist": "Pete Rock & C.L. Smooth",
+      "title": "Worldwide",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 40,
+      "id": "pete-rock-c-l-smooth-worldwide",
+      "video": "n4q0YRdSyGk",
+      "official": true
+    },
+    {
+      "artist": "Gang Starr",
+      "title": "Mostly Tha Voice",
+      "status": "skip_existing",
+      "existing_id": "gang-starr-mostly-tha-voice",
+      "requestIndex": 41
+    },
+    {
+      "artist": "Black Moon",
+      "title": "Buck 'Em Down",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 42,
+      "id": "black-moon-buck-em-down",
+      "video": "7TNWygvSWuc",
+      "official": true
+    },
+    {
+      "artist": "Nas",
+      "title": "Life's A Bitch",
+      "status": "skip_existing",
+      "existing_id": "nas-lifes-a-bitch",
+      "requestIndex": 43
+    },
+    {
+      "artist": "DJ Kiyo",
+      "title": "Intro",
+      "status": "skip_dj_kiyo",
+      "existing_id": null,
+      "requestIndex": 44
+    },
+    {
+      "artist": "Gang Starr",
+      "title": "Take Two And Pass",
+      "status": "skip_existing",
+      "existing_id": "gang-starr-take-two-and-pass",
+      "requestIndex": 45
+    },
+    {
+      "artist": "Heavy D & The Boyz",
+      "title": "Here Comes The Heavster",
+      "status": "skip_rnb",
+      "existing_id": null,
+      "requestIndex": 46,
+      "reason": "Apple Music作品分類 R&B/Soul",
+      "genreSource": "https://music.apple.com/us/album/blue-funk/1443765300"
+    },
+    {
+      "artist": "Redman",
+      "title": "Tonight's Da Night",
+      "status": "skip_existing",
+      "existing_id": "redman-tonight-s-da-night",
+      "requestIndex": 47
+    },
+    {
+      "artist": "Common",
+      "title": "Breaker 1/9",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 48,
+      "id": "common-breaker-1-9",
+      "video": "c_wDx_dildg",
+      "official": true
+    },
+    {
+      "artist": "A Tribe Called Quest",
+      "title": "Bonita Applebum",
+      "status": "skip_existing",
+      "existing_id": "a-tribe-called-quest-bonita-applebum",
+      "requestIndex": 49
+    },
+    {
+      "artist": "The Pharcyde",
+      "title": "Passin' Me By",
+      "status": "skip_existing",
+      "existing_id": "the-pharcyde-passin-me-by",
+      "requestIndex": 50
+    },
+    {
+      "artist": "Das EFX",
+      "title": "Mic Checka",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 51,
+      "id": "das-efx-mic-checka",
+      "video": "yfq9VVttjP4",
+      "official": true
+    },
+    {
+      "artist": "Cypress Hill",
+      "title": "Stoned Is The Way Of The Walk",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 52,
+      "id": "cypress-hill-stoned-is-the-way-of-the-walk",
+      "video": "lOoFd-QS2gw",
+      "official": true
+    },
+    {
+      "artist": "A Tribe Called Quest",
+      "title": "Vibes And Stuff",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 53,
+      "id": "a-tribe-called-quest-vibes-and-stuff",
+      "video": "HHUuUbLr3nA",
+      "official": true
+    },
+    {
+      "artist": "Brand Nubian",
+      "title": "Steady Bootleggin'",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 54,
+      "id": "brand-nubian-steady-bootleggin",
+      "video": "QINCxEkw_VQ",
+      "official": true
+    },
+    {
+      "artist": "Gang Starr",
+      "title": "2 Deep",
+      "status": "skip_existing",
+      "existing_id": "gang-starr-2-deep",
+      "requestIndex": 55
+    },
+    {
+      "artist": "EPMD",
+      "title": "Underground",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 56,
+      "id": "epmd-underground",
+      "video": "HpVSGfVeJsI",
+      "official": true
+    },
+    {
+      "artist": "Chubb Rock",
+      "title": "The One",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 57,
+      "id": "chubb-rock-the-one",
+      "video": "aOTMJec7spY",
+      "official": true
+    },
+    {
+      "artist": "Big Daddy Kane",
+      "title": "Taste of Chocolate (Video Version)",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 58,
+      "id": "big-daddy-kane-taste-of-chocolate-video-version",
+      "video": "EMenxKvBGe4",
+      "official": true
+    },
+    {
+      "artist": "Pete Rock & C.L. Smooth",
+      "title": "Anger In The Nation",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 59,
+      "id": "pete-rock-c-l-smooth-anger-in-the-nation",
+      "video": "l_ALUyVuL4Q",
+      "official": true
+    },
+    {
+      "artist": "Lord Finesse & DJ Mike Smooth",
+      "title": "Bud Mutha",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 60,
+      "id": "lord-finesse-dj-mike-smooth-bud-mutha",
+      "video": "DC2_H8Jf088",
+      "official": true
+    },
+    {
+      "artist": "Slick Rick",
+      "title": "It's A Boy",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 61,
+      "id": "slick-rick-it-s-a-boy",
+      "video": "AGSeD4_CAv8",
+      "official": true
+    },
+    {
+      "artist": "A Tribe Called Quest",
+      "title": "Can I Kick It?",
+      "status": "skip_existing",
+      "existing_id": "can-i-kick-it",
+      "requestIndex": 62
+    },
+    {
+      "artist": "Poor Righteous Teachers",
+      "title": "Shakiyla (JRH)",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 63,
+      "id": "poor-righteous-teachers-shakiyla-jrh",
+      "video": "jJFfMJq5o34",
+      "official": true
+    },
+    {
+      "artist": "3rd Bass",
+      "title": "Derelicts Of Dialect",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 64,
+      "id": "3rd-bass-derelicts-of-dialect",
+      "video": "qoUAC_DRqqE",
+      "official": true
+    },
+    {
+      "artist": "Tim Dog",
+      "title": "I Ain't Havin' It (feat. Kool Keith)",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 65,
+      "id": "tim-dog-i-ain-t-havin-it-feat-kool-keith",
+      "video": "4e_XPk30tYE",
+      "official": true
+    },
+    {
+      "artist": "LL Cool J",
+      "title": "The Boomin' System",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 66,
+      "id": "ll-cool-j-the-boomin-system",
+      "video": "qdyMQOlbxis",
+      "official": true
+    },
+    {
+      "artist": "Cypress Hill",
+      "title": "Hand On The Pump",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 67,
+      "id": "cypress-hill-hand-on-the-pump",
+      "video": "ybTtI0pAN4c",
+      "official": true
+    },
+    {
+      "artist": "De La Soul",
+      "title": "Oodles Of O's",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 68,
+      "id": "de-la-soul-oodles-of-o-s",
+      "video": "nAjVaRdBDY0",
+      "official": true
+    },
+    {
+      "artist": "Digable Planets",
+      "title": "Rebirth Of Slick (Cool Like Dat)",
+      "status": "skip_existing",
+      "existing_id": "digable-planets-rebirth-of-slick-cool-like-dat",
+      "requestIndex": 69
+    },
+    {
+      "artist": "Brand Nubian",
+      "title": "Love Me Or Leave Me Alone",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 70,
+      "id": "brand-nubian-love-me-or-leave-me-alone",
+      "video": "bsGg6rtH8UY",
+      "official": true
+    },
+    {
+      "artist": "Nice & Smooth",
+      "title": "How To Flow",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 71,
+      "id": "nice-smooth-how-to-flow",
+      "video": "LCTP0rY3UtU",
+      "official": true
+    },
+    {
+      "artist": "Black Sheep",
+      "title": "Black With N.V. (No Vision)",
+      "status": "skip_existing",
+      "existing_id": "black-sheep-black-with-nv",
+      "requestIndex": 72
+    },
+    {
+      "artist": "Showbiz & A.G.",
+      "title": "He Say, She Say",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 73,
+      "id": "showbiz-a-g-he-say-she-say",
+      "video": "zmDwBrbbk40",
+      "official": true
+    },
+    {
+      "artist": "Diamond & The Psychotic Neurotics",
+      "title": "Freestyle (Yo, That's That Shit)",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 74,
+      "id": "diamond-the-psychotic-neurotics-freestyle-yo-that-s-that-shit",
+      "video": "TxL231R4zPI",
+      "official": true
+    },
+    {
+      "artist": "Eric B. & Rakim",
+      "title": "What's On Your Mind?",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 75,
+      "id": "eric-b-rakim-what-s-on-your-mind",
+      "video": "UPuE9YyPlxs",
+      "official": true
+    },
+    {
+      "artist": "LL Cool J",
+      "title": "Around The Way Girl",
+      "status": "skip_existing",
+      "existing_id": "ll-cool-j-around-the-way-girl",
+      "requestIndex": 76
+    },
+    {
+      "artist": "Gang Starr",
+      "title": "Ex-Girl To Next Girl",
+      "status": "skip_existing",
+      "existing_id": "gang-starr-ex-girl-to-next-girl",
+      "requestIndex": 77
+    },
+    {
+      "artist": "DJ KIYO",
+      "title": "Kiyo's Intro",
+      "status": "skip_dj_kiyo",
+      "existing_id": null,
+      "requestIndex": 78
+    },
+    {
+      "artist": "Common Sense",
+      "title": "Resurrection",
+      "status": "skip_existing",
+      "existing_id": "resurrection",
+      "requestIndex": 79
+    },
+    {
+      "artist": "Pete Rock & C.L. Smooth",
+      "title": "In The House",
+      "status": "skip_existing",
+      "existing_id": "in-the-house",
+      "requestIndex": 80
+    },
+    {
+      "artist": "A Tribe Called Quest",
+      "title": "We Can Get Down",
+      "status": "skip_existing",
+      "existing_id": "a-tribe-called-quest-we-can-get-down",
+      "requestIndex": 81
+    },
+    {
+      "artist": "Da Bush Babees",
+      "title": "We Run Things (It's Like Dat)",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 82,
+      "id": "da-bush-babees-we-run-things-it-s-like-dat",
+      "video": "F5ftZHTyiTk",
+      "official": true
+    },
+    {
+      "artist": "The Pharcyde",
+      "title": "4 Better Or 4 Worse",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 83,
+      "id": "the-pharcyde-4-better-or-4-worse",
+      "video": "ReNR_pImYMc",
+      "official": true
+    },
+    {
+      "artist": "Gang Starr",
+      "title": "Comin' For Datazz",
+      "status": "skip_existing",
+      "existing_id": "gang-starr-comin-for-the-datazz",
+      "requestIndex": 84
+    },
+    {
+      "artist": "Da King & I",
+      "title": "Flip Da Scrip",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 85,
+      "id": "da-king-i-flip-da-scrip",
+      "video": "cyTcT0FNf-s",
+      "official": true
+    },
+    {
+      "artist": "Kirk",
+      "title": "Uptown Style",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 86,
+      "id": "kirk-uptown-style",
+      "video": "TZPDLV0p1lE",
+      "official": false
+    },
+    {
+      "artist": "Super Lover Cee & Casanova Rud",
+      "title": "This Dub's For You",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 87,
+      "id": "super-lover-cee-casanova-rud-this-dub-s-for-you",
+      "video": "p1n1T4BNyTs",
+      "official": true
+    },
+    {
+      "artist": "Black Moon",
+      "title": "Who Got Da Props",
+      "status": "skip_existing",
+      "existing_id": "black-moon-who-got-da-props",
+      "requestIndex": 88
+    },
+    {
+      "artist": "Nice & Smooth",
+      "title": "Old To The New",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 89,
+      "id": "nice-smooth-old-to-the-new",
+      "video": "4qEC7bLauzA",
+      "official": true
+    },
+    {
+      "artist": "Da Youngsta's",
+      "title": "Pass Da Mic",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 90,
+      "id": "da-youngsta-s-pass-da-mic",
+      "video": "CZdVKKYS8fw",
+      "official": true
+    },
+    {
+      "artist": "Zhigge",
+      "title": "Toss It Up",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 91,
+      "id": "zhigge-toss-it-up",
+      "video": "SppBdb8Iiw4",
+      "official": true
+    },
+    {
+      "artist": "Mesanjarz of Funk",
+      "title": "Flip Da Script",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 92,
+      "id": "mesanjarz-of-funk-flip-da-script",
+      "video": "GnPf770BoY0",
+      "official": false
+    },
+    {
+      "artist": "Leaders of the New School",
+      "title": "What's Next?",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 93,
+      "id": "leaders-of-the-new-school-what-s-next",
+      "video": "WAfA0lUmR-o",
+      "official": true
+    },
+    {
+      "artist": "Neneh Cherry",
+      "title": "I Ain't Gone Under Yet",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 94,
+      "id": "neneh-cherry-i-ain-t-gone-under-yet",
+      "video": "2PnZg6ucu9Y",
+      "official": true
+    },
+    {
+      "artist": "Pete Rock & C.L. Smooth",
+      "title": "Lots Of Lovin",
+      "status": "skip_existing",
+      "existing_id": "pete-rock-cl-smooth-lots-of-lovin",
+      "requestIndex": 95
+    },
+    {
+      "artist": "Trends of Culture",
+      "title": "Valley Of The Skinz",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 96,
+      "id": "trends-of-culture-valley-of-the-skinz",
+      "video": "nKEUBQGB-Sc",
+      "official": true
+    },
+    {
+      "artist": "Black Sheep",
+      "title": "Without A Doubt",
+      "status": "skip_existing",
+      "existing_id": "black-sheep-without-a-doubt",
+      "requestIndex": 97
+    },
+    {
+      "artist": "The Beatnuts",
+      "title": "Rik's Joint",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 98,
+      "id": "the-beatnuts-rik-s-joint",
+      "video": "E72bSQ5yaSk",
+      "official": true
+    },
+    {
+      "artist": "M.O.P.",
+      "title": "Rugged Neva Smoove",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 99,
+      "id": "m-o-p-rugged-neva-smoove",
+      "video": "s5aK0PMr19k",
+      "official": true
+    },
+    {
+      "artist": "Champ MC",
+      "title": "Keep It On The Real",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 100,
+      "id": "champ-mc-keep-it-on-the-real",
+      "video": "rPgpKxkwb7o",
+      "official": false
+    },
+    {
+      "artist": "Keith Murray",
+      "title": "The Most Beautifullest Thing In The World",
+      "status": "skip_existing",
+      "existing_id": "keith-murray-the-most-beautifullest-thing-in-this-world",
+      "requestIndex": 101
+    },
+    {
+      "artist": "Brand Nubian",
+      "title": "Word Is Bond",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 102,
+      "id": "brand-nubian-word-is-bond",
+      "video": "8ztzZbpreLk",
+      "official": true
+    },
+    {
+      "artist": "Boogiemonsters",
+      "title": "Strange",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 103,
+      "id": "boogiemonsters-strange",
+      "video": "YA30TtWBiqI",
+      "official": true
+    },
+    {
+      "artist": "Yaggfu Front",
+      "title": "Left Field",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 104,
+      "id": "yaggfu-front-left-field",
+      "video": "keO7TwUfyQY",
+      "official": true
+    },
+    {
+      "artist": "Grand Puba",
+      "title": "Amazing",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 105,
+      "id": "grand-puba-amazing",
+      "video": "YPrfLpTPmEQ",
+      "official": true
+    },
+    {
+      "artist": "Prince Markie Dee & Soul Convention",
+      "title": "Something Special",
+      "status": "skip_rnb",
+      "existing_id": null,
+      "requestIndex": 106,
+      "reason": "Apple Music作品分類 R&B/Soul",
+      "genreSource": "https://music.apple.com/us/album/free/1832779138"
+    },
+    {
+      "artist": "Heavy D & The Boyz",
+      "title": "You Can't See What I Can See",
+      "status": "skip_rnb",
+      "existing_id": null,
+      "requestIndex": 107,
+      "reason": "Apple Music作品分類 R&B/Soul",
+      "genreSource": "https://music.apple.com/us/album/blue-funk/1443765300"
+    },
+    {
+      "artist": "EPMD",
+      "title": "Crossover",
+      "status": "skip_existing",
+      "existing_id": "epmd-crossover",
+      "requestIndex": 108
+    },
+    {
+      "artist": "Redman",
+      "title": "Time 4 Sum Aksion",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 109,
+      "id": "redman-time-4-sum-aksion",
+      "video": "FMUcfbpcIeg",
+      "official": true
+    },
+    {
+      "artist": "K-Solo",
+      "title": "Letterman",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 110,
+      "id": "k-solo-letterman",
+      "video": "dbRgpmfkH7k",
+      "official": true
+    },
+    {
+      "artist": "KRS-One",
+      "title": "I Can't Wake Up",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 111,
+      "id": "krs-one-i-can-t-wake-up",
+      "video": "ttI_CLDTrjg",
+      "official": true
+    },
+    {
+      "artist": "Gang Starr",
+      "title": "Now You're Mine",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 112,
+      "id": "gang-starr-now-you-re-mine",
+      "video": "mWdLy9o8btE",
+      "official": true
+    },
+    {
+      "artist": "DJ KIYO",
+      "title": "Kiyo's Intro",
+      "status": "skip_dj_kiyo",
+      "existing_id": null,
+      "requestIndex": 113
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "title": "Somethin' Like Dis",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 114,
+      "id": "dj-jazzy-jeff-the-fresh-prince-somethin-like-dis",
+      "video": "FE7NkxW_p4k",
+      "official": true
+    },
+    {
+      "artist": "Doug E. Fresh",
+      "title": "Bounce",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 115,
+      "id": "doug-e-fresh-bounce",
+      "video": "fPYUWak9HYA",
+      "official": false
+    },
+    {
+      "artist": "Das EFX",
+      "title": "Looseys",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 116,
+      "id": "das-efx-looseys",
+      "video": "KzGgAtuwgLo",
+      "official": true
+    },
+    {
+      "artist": "The Pharcyde",
+      "title": "Officer",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 117,
+      "id": "the-pharcyde-officer",
+      "video": "1aO3MlRbI-I",
+      "official": true
+    },
+    {
+      "artist": "Original Flavor",
+      "title": "All That",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 118,
+      "id": "original-flavor-all-that",
+      "video": "p8manoS45bY",
+      "official": false
+    },
+    {
+      "artist": "Dred Scott",
+      "title": "Nutin' Ta Lose",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 119,
+      "id": "dred-scott-nutin-ta-lose",
+      "video": "xes7PareGew",
+      "official": true
+    },
+    {
+      "artist": "Black Maddness",
+      "title": "Wild Brooklyn Bandits",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 120,
+      "id": "black-maddness-wild-brooklyn-bandits",
+      "video": "XKoyiuprNYY",
+      "official": false
+    },
+    {
+      "artist": "Queen Latifah",
+      "title": "Latifah's Had It Up 2 Here",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 121,
+      "id": "queen-latifah-latifah-s-had-it-up-2-here",
+      "video": "M1ETEkjD-Mc",
+      "official": true
+    },
+    {
+      "artist": "N.W.A.",
+      "title": "Express Yourself",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 122,
+      "id": "n-w-a-express-yourself",
+      "video": "md4ujXhHzLs",
+      "official": true
+    },
+    {
+      "artist": "Public Enemy",
+      "title": "Can't Truss It",
+      "status": "skip_existing",
+      "existing_id": "public-enemy-can-t-truss-it",
+      "requestIndex": 123
+    },
+    {
+      "artist": "Cypress Hill",
+      "title": "The Phuncky Feel One",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 124,
+      "id": "cypress-hill-the-phuncky-feel-one",
+      "video": "VZc5zHwE0tk",
+      "official": true
+    },
+    {
+      "artist": "Double XX Posse",
+      "title": "We Got It Goin' On",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 125,
+      "id": "double-xx-posse-we-got-it-goin-on",
+      "video": "DywzEa-tfW8",
+      "official": true
+    },
+    {
+      "artist": "Jungle Brothers",
+      "title": "Doin' Our Own Dang",
+      "status": "skip_existing",
+      "existing_id": "jungle-brothers-doin-our-own-dang",
+      "requestIndex": 126
+    },
+    {
+      "artist": "Chubb Rock",
+      "title": "Treat 'Em Right",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 127,
+      "id": "chubb-rock-treat-em-right",
+      "video": "DSsWt6b2p5Q",
+      "official": true
+    },
+    {
+      "artist": "EPMD",
+      "title": "It's Time 2 Party",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 128,
+      "id": "epmd-it-s-time-2-party",
+      "video": "ZmUd711NQdQ",
+      "official": true
+    },
+    {
+      "artist": "Boogie Down Productions",
+      "title": "You Must Learn",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 129,
+      "id": "boogie-down-productions-you-must-learn",
+      "video": "YfhvP-Gpk50",
+      "official": true
+    },
+    {
+      "artist": "The Troubleneck Brothers",
+      "title": "Back To The Hip Hop",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 130,
+      "id": "the-troubleneck-brothers-back-to-the-hip-hop",
+      "video": "DnKphOBOS0o",
+      "official": false
+    },
+    {
+      "artist": "The Notorious B.I.G.",
+      "title": "Just Playing (Dreams)",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 131,
+      "id": "the-notorious-b-i-g-just-playing-dreams",
+      "video": "iafrcyFRltw",
+      "official": true
+    },
+    {
+      "artist": "Jeru the Damaja",
+      "title": "Da Bichez",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 132,
+      "id": "jeru-the-damaja-da-bichez",
+      "video": "nUIxd9qExLY",
+      "official": true
+    },
+    {
+      "artist": "KRS-One",
+      "title": "Return Of The Boom Bap",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 133,
+      "id": "krs-one-return-of-the-boom-bap",
+      "video": "SaNgnnvvt04",
+      "official": true
+    },
+    {
+      "artist": "Heavy D & The Boyz",
+      "title": "Blue Funk",
+      "status": "skip_rnb",
+      "existing_id": null,
+      "requestIndex": 134,
+      "reason": "Apple Music作品分類 R&B/Soul",
+      "genreSource": "https://music.apple.com/us/album/blue-funk/1443765300"
+    },
+    {
+      "artist": "Akinyele",
+      "title": "Ak Ha Ha! Ak Hoo Hoo?",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 135,
+      "id": "akinyele-ak-ha-ha-ak-hoo-hoo",
+      "video": "3uFIHL0oqVg",
+      "official": false
+    },
+    {
+      "artist": "Intelligent Hoodlum",
+      "title": "At Large",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 136,
+      "id": "intelligent-hoodlum-at-large",
+      "video": "Z4D-CPpP7ZA",
+      "official": true
+    },
+    {
+      "artist": "A Tribe Called Quest",
+      "title": "Show Business",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 137,
+      "id": "a-tribe-called-quest-show-business",
+      "video": "6vTn8qUYHEw",
+      "official": true
+    },
+    {
+      "artist": "Diamond & The Psychotic Neurotics",
+      "title": "Pass Dat Shit",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 138,
+      "id": "diamond-the-psychotic-neurotics-pass-dat-shit",
+      "video": "VvdfFm3yLPo",
+      "official": true
+    },
+    {
+      "artist": "The Legion",
+      "title": "Legion Groove",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 139,
+      "id": "the-legion-legion-groove",
+      "video": "E15_xFGg8Pg",
+      "official": true
+    },
+    {
+      "artist": "Common",
+      "title": "Take It EZ",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 140,
+      "id": "common-take-it-ez",
+      "video": "C8aTvSbI4Ds",
+      "official": true
+    },
+    {
+      "artist": "Gang Starr",
+      "title": "2 Deep",
+      "status": "skip_existing",
+      "existing_id": "gang-starr-2-deep",
+      "requestIndex": 141
+    },
+    {
+      "artist": "Showbiz & A.G.",
+      "title": "Silence Of The Lambs",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 142,
+      "id": "showbiz-a-g-silence-of-the-lambs",
+      "video": "S30t7xawpnk",
+      "official": true
+    },
+    {
+      "artist": "Original Flavor feat. Jay-Z",
+      "title": "Can I Get Open",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 143,
+      "id": "original-flavor-feat-jay-z-can-i-get-open",
+      "video": "npYPPvgVzZQ",
+      "official": false
+    },
+    {
+      "artist": "The UMC's",
+      "title": "Never Never Land",
+      "status": "added",
+      "existing_id": null,
+      "requestIndex": 144,
+      "id": "the-umc-s-never-never-land",
+      "video": "gWQMRjANVLI",
+      "official": true
+    }
+  ]
+}
