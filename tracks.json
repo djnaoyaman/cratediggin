@@ -22890,12 +22890,13 @@
     "producer": "DJ Shadow",
     "members": "DJ Shadow",
     "youtube": {
-      "id": null,
-      "url": null,
-      "channel": "",
-      "type": "音源未確認",
-      "verified": "",
-      "verification": "公式音源URLを確認できるまで再生欄は省略。"
+      "id": "CSYUf-A2gEM",
+      "url": "https://www.youtube.com/watch?v=CSYUf-A2gEM",
+      "channel": "djshadow",
+      "type": "公式アーティストチャンネル／PIAS配信（Part 1）",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "YouTube公式アーティストチャンネルの「What Does Your Soul Look Like (Part 1)」を照合。複数パートを持つ楽曲のためPart 1と明記。実機再生は未検証。"
     },
     "art": {
       "word": "WHAT DOES YOUR SOUL LOOK LIKE",
@@ -22956,7 +22957,7 @@
       "ドラム"
     ],
     "addedOrder": 222,
-    "editorialStatus": "12インチ候補として公開。個別品番、年、音源、サンプルの確認は継続中。",
+    "editorialStatus": "12インチ候補として公開。個別品番、年、音源、サンプルの確認は継続中。 再生音源は Part 1。複数パートを一曲として誤認しないよう区別。",
     "collections": [
       "west"
     ],
