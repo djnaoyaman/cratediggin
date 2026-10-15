@@ -59,6 +59,9 @@ jobs:
           assert len(list((root/'og').glob('*.png'))) == len(data), 'Generated social image count mismatch'
           html = (root/'index.html').read_text()
           assert '/cratediggin/songs/' in html, 'Project Pages links missing base path'
+          assert '"//cratediggin/' not in html, 'Broken protocol-relative Pages URLs'
+          assert 'src="/cratediggin/tracks.js' in html, 'Track data script URL incorrect'
+          assert 'src="/cratediggin/app.js' in html, 'Player script URL incorrect'
           assert 'dj-shadow-the-number-song' in (root/'tracks.js').read_text()
           print('Generated pages, social cards, URLs and Number Song verified')
           PY
