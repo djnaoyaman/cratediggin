@@ -45,6 +45,23 @@ jobs:
           assert 'dj-shadow-the-number-song' in Path('dist/tracks.js').read_text(), 'The Number Song missing from client catalog'
           print('The Number Song: source, page and client catalog verified')
           PY
+      - name: Audit catalog metadata and link integrity
+        run: |
+          python scripts/audit_catalog.py
+          python -m py_compile scripts/audit_catalog.py build.py
+          python - <<'PY'
+          from pathlib import Path
+          import json
+          root = Path('dist')
+          data = json.loads(Path('tracks.json').read_text())
+          assert len(list((root/'songs').glob('*.html'))) == len(data), 'Generated HTML page count mismatch'
+          assert len(list((root/'songs').glob('*.md'))) == len(data), 'Generated Markdown page count mismatch'
+          assert len(list((root/'og').glob('*.png'))) == len(data), 'Generated social image count mismatch'
+          html = (root/'index.html').read_text()
+          assert '/cratediggin/songs/' in html, 'Project Pages links missing base path'
+          assert 'dj-shadow-the-number-song' in (root/'tracks.js').read_text()
+          print('Generated pages, social cards, URLs and Number Song verified')
+          PY
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:

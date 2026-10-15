@@ -22,6 +22,12 @@ for t in tracks:
     for s in t['sources']:
         assert s['url'].startswith('https://')
 DIST.mkdir(exist_ok=True)
+# Remove orphaned generated pages and cards before regenerating.
+for directory, suffixes in ((DIST/'songs', {'.html', '.md'}), (DIST/'og', {'.png'})):
+    if directory.exists():
+        for stale in directory.iterdir():
+            if stale.is_file() and stale.suffix in suffixes and stale.stem not in ids:
+                stale.unlink()
 (DIST/'tracks.js').write_text('window.TRACKS = '+json.dumps(tracks,ensure_ascii=False).replace('</','<\\/')+';\n')
 base=(DIST/'index.html').read_text()
 base=re.sub(r'<script type="application/ld\+json">.*?</script>', '', base, flags=re.S)
@@ -51,7 +57,7 @@ for t in tracks:
 (DIST/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+HOST+'/sitemap.xml\n')
 (DIST/'llms.txt').write_text('# Crate Diggin’\n\nA Guide to Sampled Mind & Vintage Grooves\n\n選曲・編集・文責 DJ Naoyaman。事実と私見を分け、出典を示すHip Hopガイド。\n\n'+'\n'.join('- ['+t['title']+']('+HOST+'/songs/'+t['id']+'.md)' for t in tracks)+'\n')
 (DIST/'llms-full.txt').write_text('\n\n'.join((DIST/'songs'/(t['id']+'.md')).read_text() for t in tracks))
-(DIST/'404.html').write_text('<!doctype html><html lang="ja"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Crate Diggin’</title><link rel="stylesheet" href="/style.css"><body><main style="padding:10vw"><h1 class="section-title">KEEP DIGGIN’.</h1><p>このページは見つかりませんでした。</p><a href="/">クレートへ戻る</a></main></body></html>')
+(DIST/'404.html').write_text('<!doctype html><html lang="ja"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Crate Diggin’</title><link rel="stylesheet" href="'+BASE_PATH+'/style.css"><body><main style="padding:10vw"><h1 class="section-title">KEEP DIGGIN’.</h1><p>このページは見つかりませんでした。</p><a href="'+BASE_PATH+'/">クレートへ戻る</a></main></body></html>')
 print(f'Generated {len(tracks)} songs, source candidates, sitemap and Markdown. Data validation passed.')
 
 # Search, sharing and machine-readable views use the same editorial records.
@@ -82,7 +88,7 @@ for t in tracks:
     data={'@context':'https://schema.org','@graph':[{'@type':'MusicRecording','@id':url+'#recording','name':t['title'],'byArtist':{'@type':'MusicGroup' if '、' in t['members'] else 'Person','name':t['artist']},'inAlbum':{'@type':'MusicAlbum','name':t['album']},'datePublished':str(t['year']),'url':url,'sameAs':t['youtube']['url']},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'Crate Diggin’','item':HOST+'/'},{'@type':'ListItem','position':2,'name':t['title'],'item':url}]}]}
     enhance(DIST/'songs'/(t['id']+'.html'),t['title']+' / '+t['artist'],t['deck'],url,HOST+'/og/'+t['id']+'.png',data,True)
 # Expose song links in HTML before JavaScript runs; the client then replaces the view.
-listing='<section aria-label="収録曲"><h2>THE RECORD CRATE</h2>'+''.join('<article><h3><a href="/songs/'+t['id']+'.html">'+html.escape(t['title'])+'</a></h3><p>'+html.escape(t['artist']+' / '+str(t['year']))+'</p><p>'+html.escape(t['deck'])+'</p></article>' for t in tracks)+'</section>'
+listing='<section aria-label="収録曲"><h2>THE RECORD CRATE</h2>'+''.join('<article><h3><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+html.escape(t['title'])+'</a></h3><p>'+html.escape(t['artist']+' / '+str(t['year']))+'</p><p>'+html.escape(t['deck'])+'</p></article>' for t in tracks)+'</section>'
 home=DIST/'index.html';content=home.read_text();content=re.sub(r'<main id="view" tabindex="-1">.*?</main>','<main id="view" tabindex="-1">'+listing+'</main>',content,flags=re.S);home.write_text(content)
 enhance(home,'Crate Diggin’ — DJ NaoyamanのHip Hop・サンプリングガイド','楽曲から元ネタへ。Hip Hop、サンプリング、グラフィティを出典付きでたどる音楽ガイド。',HOST+'/',HOST+'/og-image.png',{'@context':'https://schema.org','@type':'WebSite','name':'Crate Diggin’','url':HOST+'/','inLanguage':'ja','author':{'@type':'Person','name':'DJ Naoyaman'}})
 print('Generated per-song social cards, SEO metadata, structured data, touch icons and HTML links.')
@@ -97,7 +103,7 @@ for page in DIST.rglob('*.html'):
     if '/app.js' in text and '/releases.js' not in text:
         text=text.replace('<script src="/app.js"','<script src="/releases.js" defer></script><script src="/app.js"')
     if BASE_PATH:
-        text=re.sub(r'((?:href|src)=")/(?!/|'+re.escape(BASE_PATH.lstrip('/'))+'/)',lambda m:m[1]+BASE_PATH+'/',text)
+        text=re.sub(r'((?:href|src)=")/(?!/|'+re.escape(BASE_PATH.lstrip('/'))+'/)',lambda m:m[1]+'/'+BASE_PATH.lstrip('/')+'/',text)
     text=re.sub(r'((?:href|src)="[^"]*?(?:style\.css|app\.js|playlist\.js|timeline\.js|filters\.js|tracks\.js|favicon\.svg|favicon-32\.png|favicon\.ico|apple-touch-icon\.png))(?:\?v=[0-9.]+)?(")',lambda m:m[1]+'?v='+release['version']+m[2],text)
     analytics='<!-- GOOGLE_ANALYTICS -->\n<script async src="https://www.googletagmanager.com/gtag/js?id=G-71ENPHWEJH"></script>\n<script>\nwindow.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag(\'js\', new Date());\ngtag(\'config\', \'G-71ENPHWEJH\', {send_page_view: false});\n</script>\n<!-- /GOOGLE_ANALYTICS -->'
     text=re.sub(r'<!-- GOOGLE_ANALYTICS -->.*?<!-- /GOOGLE_ANALYTICS -->', '', text, flags=re.S)

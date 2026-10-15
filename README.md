@@ -29,3 +29,11 @@ python version.py --minor
 曲追加の詳細は `ADDING_TRACKS.md` を参照。音源・グラフィティの利用や配信可否は各権利者と配信サービスの条件に従います。
 
 MY CRATEの選曲・名前・曲順はブラウザのlocalStorageに保存します。左スワイプで外す、右スワイプで選曲。•••ボタンからも操作でき、選曲の削除は取り消せます。保存は端末・ブラウザ単位です。
+
+## 品質監査と公開前の確認
+
+`python scripts/audit_catalog.py` は225曲の楽曲ID、YouTube IDとURLの整合性、出典、文章の必須項目、未確認のレーベル・初出年を監査します。結果は `audit-reports/catalog-audit.csv` と `audit-reports/summary.json` に出力します。
+
+`python scripts/audit_catalog.py --online` はYouTube oEmbedの動画タイトル・投稿者を照合する追加調査です。タイトルの一致は正しい録音・バージョン・再生可能性を証明しません。疑義のある曲は実際の音源と盤面を人が照合してください。
+
+ディレクトリの役割と修正範囲は `research/catalog-site-audit-2026-10-15.md` に記載。公開URLと既存の楽曲IDを維持するため、大規模な移動やファイル名変更は行いません。
