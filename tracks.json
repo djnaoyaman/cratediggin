@@ -13587,34 +13587,9 @@
     "essayTitle": "きらめく旋律と、独特の言葉のリズム。",
     "essay": [
       "きらめく旋律と、独特の言葉のリズム。",
-      "「Luchini AKA This Is It」をこの棚に置く理由は、きらめく旋律と、独特の言葉のリズムという聴きどころにある。大きな名前の曲も、少し掘った曲も、その音の魅力で隣り合うように選んだ。",
-      "90年代を中心にしたこのクレートで、New Yorkの音と声の一つの表情を聴く。"
-    ],
-    "facts": [
-      {
-        "title": "掲載音源について",
-        "text": "参考投稿を採用。音源の掲載説明を照合していますが、埋め込みでの再生可否は未検証です。",
-        "sources": [
-          0
-        ]
-      }
-    ],
-    "samples": [],
-    "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
-    "listening": [
-      "きらめく旋律と、独特の言葉のリズム。",
-      "声が入る前のビートと、声が入ったあとの重心を聴き比べる。"
-    ],
-    "context": "90年代を中心にしたこのクレートで、New Yorkの音と声の一つの表情を聴く。",
-    "sources": [
-      {
-        "label": "YouTube — Camp Lo / Luchini AKA This Is It",
-        "url": "https://www.youtube.com/watch?v=WvAqy1i2hEA",
-        "kind": "参考投稿・配信候補"
-      }
-    ],
-    "producers": [
-      "Ski Beatz"
+      "「Luchini AKA This Is It」をこの棚に置く理由は、きらめく旋律と、独特の言葉のリズムという聴きどころにある。大きな名前の曲も、少し掘った曲も、その音の魅力で隣り合うように�
+... 1052 bytes omitted ...
+Beatz"
     ],
     "connections": [],
     "sounds": [
@@ -27003,6 +26978,121 @@
       "Kanye West",
       "Kendrick Lamar"
     ],
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": "dj-shadow-organ-donor-extended-overhaul",
+    "title": "Organ Donor (Extended Overhaul)",
+    "artist": "DJ Shadow",
+    "year": 1997,
+    "yearBasis": "Extended Overhaulは1997年High Noonシングルに収録。指定の配信は2005年の再発に紐づく音源で、再発年・動画公開年とは区別。",
+    "region": "San Francisco Bay Area",
+    "scene": "San Francisco Bay Area",
+    "category": "Instrumental Hip Hop",
+    "moods": [
+      "グルーヴ",
+      "街歩き"
+    ],
+    "album": "High Noon / Endtroducing..... (Deluxe Edition)",
+    "label": "Mo' Wax / Universal-Island",
+    "producer": "DJ Shadow",
+    "members": "DJ Shadow",
+    "youtube": {
+      "id": "C2MmSXrfK9s",
+      "url": "https://www.youtube.com/watch?v=C2MmSXrfK9s",
+      "channel": "DJ Shadow - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-15",
+      "verification": "ユーザー指定動画。YouTube oEmbedでOrgan Donor (Extended Overhaul)とDJ Shadow - Topicを確認。PIASの公式配信説明を照合。実音声と日本国内の埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "ORGAN DONOR",
+      "lines": [
+        "ORGAN DONOR",
+        "EXTENDED OVERHAUL"
+      ],
+      "tag": "DJ SHADOW / EXTENDED OVERHAUL",
+      "style": "piece",
+      "seed": 20261015263,
+      "profile": "ny-subway",
+      "palette": [
+        "#608a78",
+        "#e2d5b5",
+        "#b38052",
+        "#29392f"
+      ],
+      "paletteSource": "Endtroducing.....",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "lettering": "block",
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+    },
+    "deck": "Organ Donorの輪郭を、Extended Overhaulでたどり直す。",
+    "essayTitle": "同じ名前に、もうひとつの展開。",
+    "essay": [
+      "Organ Donorという名前を知っていても、Extended Overhaulという後ろの言葉まで確かめておきたい。同じ曲から始まった音楽でも、版が変われば聴く時間の形も変わる。",
+      "印象的な反復を追う耳と、曲全体の展開を追う耳。その二つを行き来すると、短いアルバム版とは別の楽しみ方が見えてくる。",
+      "好きな曲の別バージョンを探すのは、知っている道を違う時間に歩くことに似ている。見慣れたはずの角で、もう一度足が止まる。"
+    ],
+    "facts": [
+      {
+        "title": "原曲と別バージョンを区別",
+        "text": "1996年のEndtroducing.....収録Organ Donorとは別に、Extended Overhaulとして掲載。DJ Shadow公式のシングル再発案内にもHigh NoonのB面としてExtended Overhaulの原型を確認できる。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "指定した配信音源",
+        "text": "YouTubeのPIAS配信説明では2005年のEndtroducing再発に紐づく。動画公開年の2023年や再発年を、Extended Overhaulの初出年として扱わない。初期シングルのOriginal Versionと完全に同一のマスターとは断定しない。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
+    "listening": [
+      "アルバム版との構成と展開の違い。",
+      "反復する旋律とドラムの重なり。"
+    ],
+    "context": "Mo' Wax期のシングルに展開したOrgan Donorの別バージョン。1997年のシングル収録と後年の再発を分けてたどる。",
+    "sources": [
+      {
+        "label": "DJ Shadow - Topic / Organ Donor (Extended Overhaul)",
+        "url": "https://www.youtube.com/watch?v=C2MmSXrfK9s",
+        "kind": "公式配信音源（ユーザー指定）"
+      },
+      {
+        "label": "DJ Shadow公式 / The Mo' Wax Singles 1993–1997",
+        "url": "https://djshadow.com/collections/music/products/dj-shadow-mo-wax-singles-deluxe-box-set",
+        "kind": "アーティスト公式"
+      },
+      {
+        "label": "On A&M Records / High Noon MW-063",
+        "url": "https://www.onamrecords.com/artists/dj-shadow/discography/britain/mo-wax-recordings/mw-063/high-noon",
+        "kind": "レコード資料アーカイブ（二次資料）"
+      }
+    ],
+    "producers": [
+      "DJ Shadow"
+    ],
+    "connections": [],
+    "sounds": [
+      "オルガン",
+      "ドラム"
+    ],
+    "addedOrder": 262,
+    "editorialStatus": "ユーザー指定のExtended Overhaul公式配信を設定。原曲の楽曲ページと区別。初期盤と配信マスターの細部は継続照合中。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "cut-scratch"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
     "datePublished": "2026-10-15"
   }
 ]
