@@ -32,11 +32,11 @@ MY CRATEの選曲・名前・曲順はブラウザのlocalStorageに保存しま
 
 ## 品質監査と公開前の確認
 
-`python scripts/audit_catalog.py` は225曲の楽曲ID、YouTube IDとURLの整合性、出典、文章の必須項目、未確認のレーベル・初出年を監査します。結果は `audit-reports/catalog-audit.csv` と `audit-reports/summary.json` に出力します。
+`python scripts/audit_catalog.py` はカタログ全曲の楽曲ID、YouTube IDとURLの整合性、出典、文章の必須項目、未確認のレーベル・初出年を監査します。結果は `audit-reports/catalog-audit.csv` と `audit-reports/summary.json` に出力します。
 
 `python scripts/audit_catalog.py --online` はYouTube oEmbedの動画タイトル・投稿者を照合する追加調査です。タイトルの一致は正しい録音・バージョン・再生可能性を証明しません。疑義のある曲は実際の音源と盤面を人が照合してください。
 
-ディレクトリの役割と修正範囲は `research/catalog-site-audit-2026-10-15.md` に記載。公開URLと既存の楽曲IDを維持するため、大規模な移動やファイル名変更は行いません。
+公開URLと既存の楽曲IDを維持します。フロントエンドの編集元は `src/`、共通HTMLは `templates/index.html` です。`dist/` はビルド生成物のため直接編集しません。
 
 ## 聴きどころの選曲棚
 
@@ -45,3 +45,13 @@ MY CRATEの選曲・名前・曲順はブラウザのlocalStorageに保存しま
 棚の件数は検索・補助条件を反映し、0件の棚は選択不可になります。地域は折りたたみ式の補助フィルターです。旧 `editorialCrates` は過去データとして保存しますが、現在の棚判定には使いません。旧棚のURLは全曲に戻し、東西海岸の旧URLは地域条件として維持します。
 
 検証: `node scripts/verify_listening_shelves.js`。ブラウザ検証は `node scripts/verify_listening_shelves_browser.js`（PlaywrightとChromiumが必要。`dist` を `/cratediggin` 配下でローカル配信し、`TEST_URL` でURLを指定。CIでも公開前に実行）。
+
+## ソース構成と再生成
+
+- `src/app/` — 共通状態、MY CRATE、再生、一覧、楽曲記事、特集、画面遷移を分けたJavaScript。`order.json` の順で単一のプライベートスコープに連結します。
+- `src/assets/` — CSS、アート、フィルター、プレイリスト、年表のソース。
+- `templates/index.html` — 記事本文を含まない共通HTML。
+- `frontend.py` — ソースの連結と明示的なデータ差し込み。ビルドはソースを書き換えません。
+- `dist/` と `audit-reports/` — Git管理しない生成物。`dist/` がなくても `python build.py` で再生成できます。
+
+Pythonのテキスト入出力はUTF-8を明示しています。`node scripts/verify_pagination_browser.cjs` は専用のローカルサーバーを起動し、一覧への戻り位置、検索、再読み込み、MY CRATEの並べ替え・削除・取り消しをPC・スマートフォン幅で検証します。CIでも公開前に実行します。

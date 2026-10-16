@@ -4,6 +4,8 @@ Run: python scripts/audit_editorial_depth.py
 Writes a ranked, human-readable CSV report for editorial follow-up.
 """
 import csv
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
 import json
 from pathlib import Path
 

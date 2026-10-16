@@ -4,8 +4,8 @@ from collections import Counter
 from pathlib import Path
 
 root = Path(__file__).resolve().parents[1]
-tracks = json.loads((root / 'tracks.json').read_text())
-report = json.loads((root / 'research/kiyo-hiphop-import-2026-10-15.json').read_text())
+tracks = json.loads((root / 'tracks.json').read_text(encoding='utf-8'))
+report = json.loads((root / 'research/kiyo-hiphop-import-2026-10-15.json').read_text(encoding='utf-8'))
 by_id = {t['id']: t for t in tracks}
 rows = report['requests']
 assert len(rows) == 144

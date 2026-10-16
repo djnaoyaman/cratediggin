@@ -4,7 +4,8 @@ const window={};vm.runInNewContext(fs.readFileSync('dist/tracks.js','utf8'),{win
 vm.runInNewContext(fs.readFileSync('dist/filters.js','utf8'),{window});
 vm.runInNewContext(fs.readFileSync('dist/timeline.js','utf8'),{window});
 const songs=window.TRACKS,app=fs.readFileSync('dist/app.js','utf8');
-assert.equal(songs.length,363);
+const sourceCatalog=JSON.parse(fs.readFileSync('tracks.json','utf8'));
+assert.deepEqual(Array.from(songs,t=>t.id).sort(),sourceCatalog.map(t=>t.id).sort());
 for(const t of songs){assert(t.review);assert.equal(t.review.sampleEntries,t.samples.length);assert.equal(t.review.deepDiveSections,t.deepdives.length)}
 const shadow=songs.find(t=>t.artist==='DJ Shadow'&&t.title==='Organ Donor');
 assert(shadow.samples.some(s=>s.research));
@@ -16,7 +17,7 @@ const buttons=['all','own','related'].map(scope=>({dataset:{featureScope:scope},
 const view={innerHTML:'',querySelectorAll:selector=>selector==='[data-feature-scope]'?buttons:[]};
 const esc=s=>String(s??'').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
 const context=vm.createContext({songs,window,view,$,esc,top:()=>'',paintResults:()=>{},playableIds:xs=>xs.map(t=>t.id),origin:'https://djnaoyaman.github.io/cratediggin',document:{title:''}});
-vm.runInContext('let customMode,applyListFilters,filtered,queue,resultPage,expandedCount;'+app.slice(app.indexOf(' const features=['),app.indexOf(' let lastAnalyticsPage'))+';globalThis.api={featurePage,guidePage,featureTracks,featureIdentity,features,listeningGuides,getFiltered:()=>filtered,reviewSummary};',context);
+vm.runInContext('let customMode,applyListFilters,filtered,queue,resultPage;const browseRestoring=null;'+app.slice(app.indexOf(' const features=['),app.indexOf(' let lastAnalyticsPage'))+';globalThis.api={featurePage,guidePage,featureTracks,featureIdentity,features,listeningGuides,getFiltered:()=>filtered,reviewSummary};',context);
 const api=context.api;
 api.featurePage('tribe-production');assert(view.innerHTML.includes('知性が、身体を動かす。'));
 const all=api.getFiltered().map(t=>t.id);buttons[1].onclick();const own=api.getFiltered().map(t=>t.id);buttons[2].onclick();const related=api.getFiltered().map(t=>t.id);
@@ -26,9 +27,9 @@ const chronology=window.CrateChronology(songs,esc,{events:window.CRATE_EVENTS});
 const timeline=app.slice(app.indexOf(' function timeline(){'),app.indexOf(' function about()'));assert(!timeline.includes('samples'));assert(!timeline.includes('サンプル'));
 assert(!JSON.stringify(songs).includes('90年代を中心にしたこのクレートで'));
 const sourceTracks=JSON.parse(fs.readFileSync('tracks.json','utf8'));
-assert.equal(sourceTracks.filter(t=>t.noteReviewedAt==='2026-10-17').length,119);
+for(const source of sourceTracks){const generated=songs.find(t=>t.id===source.id);assert.equal(generated.noteReviewedAt,source.noteReviewedAt,'Review date drift: '+source.id)}
 assert(!songs.some(t=>t.review.playbackCheckedAt),'No playback checks should be invented');
 const about=app.slice(app.indexOf(' function about()'),app.indexOf(' const features=['));
 const mentions=[...about.matchAll(/SUBURBIA CLASSICA/g)];assert(mentions.length>0);
 for(const mention of mentions){const before=about.slice(Math.max(0,mention.index-180),mention.index);assert(before.includes('href="https://djnaoyaman.github.io/suburbia-classica/"'))}
-console.log('363 content states, unified sample search, ATCQ scopes/redirect, guide order, timeline policy, 119 notes and sister-site links verified');
+console.log('Catalog content states, unified sample search, ATCQ scopes/redirect, guide order, timeline policy, source review dates and sister-site links verified');

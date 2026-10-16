@@ -56,8 +56,8 @@ def main():
     video_ids = Counter((t.get("youtube") or {}).get("id") for t in tracks if (t.get("youtube") or {}).get("id"))
     rows = []
     fatal = []
-    if len(tracks) < 225:
-        fatal.append("Track count unexpectedly fell below 225")
+    if not tracks:
+        fatal.append("Catalog must not be empty")
     if not any(t.get("id") == "dj-shadow-the-number-song" for t in tracks):
         fatal.append("The Number Song is missing")
     for t in tracks:

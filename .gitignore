@@ -5,3 +5,8 @@ __pycache__/
 node_modules/
 .openai/
 .sites-*
+
+# Rebuilt from src/, templates/ and catalog data.
+dist/
+audit-reports/
+editorial_depth_audit.csv
