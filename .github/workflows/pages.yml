@@ -18,6 +18,8 @@ jobs:
       contents: read
     steps:
       - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -57,6 +59,8 @@ jobs:
       - name: Audit catalog metadata and link integrity
         run: |
           python scripts/audit_catalog.py
+          python scripts/verify_discovery.py
+          python scripts/test_revision_dates.py
           node scripts/verify_listening_shelves.js
           node scripts/verify_producer_features.js
           node scripts/verify_feature_editorials.js
@@ -119,6 +123,7 @@ jobs:
           trap 'kill "$server"' EXIT
           node scripts/verify_listening_shelves_browser.js
           node scripts/verify_pagination_browser.cjs
+          node scripts/verify_discovery_browser.cjs
       - name: Save browser screenshots
         if: always()
         uses: actions/upload-artifact@v4

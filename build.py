@@ -75,7 +75,8 @@ for t in tracks:
     page=page.replace('href="'+HOST+'/"','href="'+HOST+'/songs/'+t['id']+'.html"',1)
     page=page.replace('<head>','<head><script>window.INITIAL_ROUTE="#/song/'+t['id']+'";</script>')
     page=page.replace('id="hero"','id="hero" hidden')
-    ld={'@context':'https://schema.org','@type':'Article','headline':t['title']+' — '+t['artist'],'author':{'@type':'Person','name':'DJ Naoyaman'},'datePublished':t.get('datePublished','2026-10-13'),'inLanguage':'ja','url':HOST+'/songs/'+t['id']+'.html'}
+    ld={'@context':'https://schema.org','@type':'Article','headline':t['title']+' — '+t['artist'],'author':{'@type':'Person','name':'DJ Naoyaman'},'inLanguage':'ja','url':HOST+'/songs/'+t['id']+'.html'}
+    if t.get('datePublished'):ld['datePublished']=t['datePublished']
     page=page.replace('</head>','<script type="application/ld+json">'+json.dumps(ld,ensure_ascii=False)+'</script></head>')
     (p/(t['id']+'.html')).write_text(page, encoding='utf-8')
     md='# '+t['title']+'\n\n'+t['artist']+' / '+str(t['year'])+' / '+t['region']+'\n\n## '+t['essayTitle']+'\n\n'+'\n\n'.join(t['essay'])+'\n\n## 制作背景\n\n'+'\n\n'.join('### '+f['title']+'\n\n'+f['text'] for f in t['facts'])+'\n\n## サンプル元\n\n'+'\n\n'.join(s['artist']+' — '+s['title']+'\n\n'+s['role']+('\n\nhttps://www.youtube.com/watch?v='+s['youtube']['id'] if s.get('youtube') else '') for s in t['samples'])+'\n\n## 出典\n\n'+'\n'.join('- ['+s['label']+']('+s['url']+')' for s in t['sources'])+'\n'
@@ -120,6 +121,9 @@ for n in [192,512]:icon(n).save(DIST/f'icon-{n}.png')
 social_image().save(DIST/'og-image.png')
 def enhance(path,title,description,url,img,ld,article=False):
     content=path.read_text(encoding='utf-8')
+    content=re.sub(r'<title>.*?</title>',lambda _:'<title>'+html.escape(title)+'</title>',content,flags=re.S)
+    content=re.sub(r'<meta name="description" content="[^"]*">',lambda _:'<meta name="description" content="'+html.escape(description,quote=True)+'">',content)
+    content=re.sub(r'<link rel="canonical" href="[^"]*">',lambda _:'<link rel="canonical" href="'+url+'">',content)
     content=re.sub(r'<!-- SHARING_METADATA -->.*?<!-- /SHARING_METADATA -->', '', content, flags=re.S)
     content=re.sub(r'<meta name="(?:author|robots)" content="[^"]*">|<link (?:rel="apple-touch-icon"[^>]*|rel="icon" sizes="32x32"[^>]*|rel="alternate icon"[^>]*|rel="manifest"[^>]*)>', '', content)
     content=re.sub(r'<meta (?:property="og:[^"]+"|name="twitter:[^"]+") content="[^"]*">','',content)
@@ -149,7 +153,7 @@ for artist in artist_names:
 for t in tracks:
     social_image(t).save(DIST/'og'/(t['id']+'.png'))
     url=HOST+'/songs/'+t['id']+'.html'
-    data={'@context':'https://schema.org','@graph':[{'@type':'MusicRecording','@id':url+'#recording','name':t['title'],'byArtist':{'@type':'MusicGroup' if '、' in t['members'] else 'Person','name':t['artist']},'inAlbum':{'@type':'MusicAlbum','name':t['album']},'datePublished':str(t['year']),'url':url,'sameAs':t['youtube']['url']},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'Crate Diggin’','item':HOST+'/'},{'@type':'ListItem','position':2,'name':t['title'],'item':url}]}]}
+    data={'@context':'https://schema.org','@graph':[{'@type':'MusicRecording','@id':url+'#recording','name':t['title'],'byArtist':{'name':t['artist']},'inAlbum':{'@type':'MusicAlbum','name':t['album']},'datePublished':str(t['year']),'url':url,'sameAs':t['youtube']['url']},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'Crate Diggin’','item':HOST+'/'},{'@type':'ListItem','position':2,'name':t['title'],'item':url}]}]}
     enhance(DIST/'songs'/(t['id']+'.html'),t['title']+' / '+t['artist'],t['deck'],url,HOST+'/og/'+t['id']+'.png',data,True)
 # Expose song links in HTML before JavaScript runs; the client then replaces the view.
 artist_directory='<section aria-label="アーティストから探す"><h2>ARTIST INDEX</h2><p>アーティスト別の収録曲一覧</p><ul>'+''.join('<li><a href="'+BASE_PATH+'/artists/'+artist_slugs[name]+'.html">'+html.escape(name)+'</a></li>' for name in artist_names)+'</ul></section>'
@@ -221,3 +225,6 @@ for item in manifest['icons']:item['src']=BASE_PATH+'/'+item['src'].lstrip('/')
 (DIST/'site.webmanifest').write_text(json.dumps(manifest), encoding='utf-8')
 (DIST/'.nojekyll').write_text('', encoding='utf-8')
 print('Version '+release['version']+' / GitHub Pages base '+BASE_PATH)
+
+from discovery import finalize_discovery
+finalize_discovery(ROOT,DIST,HOST,tracks,features,guides)

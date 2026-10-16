@@ -55,3 +55,33 @@ MY CRATEの選曲・名前・曲順はブラウザのlocalStorageに保存しま
 - `dist/` と `audit-reports/` — Git管理しない生成物。`dist/` がなくても `python build.py` で再生成できます。
 
 Pythonのテキスト入出力はUTF-8を明示しています。`node scripts/verify_pagination_browser.cjs` は専用のローカルサーバーを起動し、一覧への戻り位置、検索、再読み込み、MY CRATEの並べ替え・削除・取り消しをPC・スマートフォン幅で検証します。CIでも公開前に実行します。
+
+
+## SEO・SNS・AI検索向けの公開情報
+
+`discovery.py` が、静的HTMLと画面移動時に使うメタ情報を同じデータから生成します。`metadata.js` は軽量なページ索引、`metadata/*.json` は各ページの構造化データです。曲・特集・アーティスト・ガイド・編者紹介は実ページURLを持ち、通常の移動はHistory APIで再生状態を保持します。旧 `#/song/...` 等のURLは実URLへ正規化します。
+
+`artist_entities.json` は個人・グループの明示的な分類です。参加名義などを確認できない場合は `null` にし、メンバー欄の区切り文字から推測しません。新しいアーティストを追加する際は、この索引にも追加してください。
+
+記事公開日は元データに存在する値だけを出力します。`revision_dates.py` は本文データと深掘り記事のGit履歴を比較し、確認できる改訂の日時だけを出力します。履歴が不足・破損している箇所や未コミットの変更に、ビルド日時を記事更新日として付けません。CIは完全なGit履歴を取得します。`article-revisions.json` は改訂根拠のコミットを記録します。
+
+Markdownには正規URL、著者、確認できた日付、確認継続中の項目を添えます。`llms.txt` は利用するサービスへの補助情報であり、Googleの検索順位やAI回答での引用を保証するものではありません。レーベル・初出年・録音の照合待ちは、技術的な整備によって確認済みにはなりません。
+
+クローラーが参照するrobots.txtは `https://djnaoyaman.github.io/robots.txt` です。別リポジトリ `djnaoyaman/djnaoyaman.github.io` で既存の制限を維持し、Crate Digginのサイトマップを案内します。Search ConsoleやBing Webmaster Toolsの登録・インデックス状況は各管理画面で確認してください。
+
+## 利用行動と広告効果の計測
+
+GA4に以下のイベントを送ります。ページ表示は実URLとタイトルで送信し、初回流入のUTMや広告クリックIDは一覧の条件変更でも保持します。計測用の固定値と公開楽曲IDだけを独自イベントに含め、プレイリスト名や入力した検索語は送信しません。
+
+| イベント | 発火条件 | 主なパラメータ |
+|---|---|---|
+| `playback_start` | YouTubeが実際に楽曲の再生開始を通知したとき。重複する再生状態通知は除外 | `song_id`, `content_type` |
+| `add_to_playlist` | MY CRATEへの追加 | `song_id` |
+| `remove_from_playlist` | MY CRATEからの削除 | `song_id` |
+| `restore_to_playlist` | 削除の取り消し | `song_id` |
+| `reorder_playlist` | 曲順変更の成功 | `song_id`, `direction` |
+| `share` | 正規URLのコピー、または端末の共有操作の成功 | `method`, `content_type`, `item_id` |
+
+手動のページ表示イベントと二重計測にならないよう、GA4の拡張計測で履歴変更による自動ページ表示の設定も確認してください。GA4管理画面のキーイベント指定、カスタムディメンション登録、Google Adsとの連携はアカウント側の設定です。ソースのイベント追加だけでは広告コンバージョンの設定完了にはなりません。ブラウザテストでは外部の計測スクリプトを止め、イベントのキューだけを検証します。
+
+追加検証: `python scripts/verify_discovery.py`、`python scripts/test_revision_dates.py`、`node scripts/verify_discovery_browser.cjs`。静的HTML、OGP、canonical、画像、実URLの内部リンク、構造化データと改訂根拠、画面移動・共有・計測・JavaScript無効時の本文を検証します。

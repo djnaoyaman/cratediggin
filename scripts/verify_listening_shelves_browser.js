@@ -6,6 +6,7 @@ const assert=require('node:assert/strict');
  for(const width of [1280,390,320]){
   const page=await browser.newPage({viewport:{width,height:900}}),errors=[];
   page.on('pageerror',e=>errors.push(e.message));
+  await page.route('https://www.googletagmanager.com/**',r=>r.abort());
   await page.goto(base+'/#/songs');await page.waitForSelector('[data-crate="loop"]');
   assert.equal(await page.locator('[data-crate]').count(),7);
   assert.equal(await page.locator('.advanced-filters').getAttribute('open'),null);

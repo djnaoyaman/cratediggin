@@ -1,0 +1,266 @@
+"""One metadata model for static HTML, client navigation and machine-readable views."""
+import hashlib
+import html
+import json
+import re
+from pathlib import Path
+from urllib.parse import quote, urlparse
+from revision_dates import revision_dates
+
+
+def encoded(value):
+    return quote(value, safe="~!*'()-_")
+
+
+def finalize_discovery(root, dist, host, tracks, features, guides):
+    esc = html.escape
+    base_path = urlparse(host).path.rstrip('/')
+    version = json.loads((root / 'releases.json').read_text(encoding='utf-8'))['version']
+    deepdives = json.loads((root / 'editorial_deepdives.json').read_text(encoding='utf-8'))
+    revisions = revision_dates(root, tracks, deepdives, features)
+    entities = json.loads((root / 'artist_entities.json').read_text(encoding='utf-8'))
+    assert {t['artist'] for t in tracks} <= entities.keys(), 'Add new artists to artist_entities.json'
+    assert all(x['type'] in ('Person', 'MusicGroup', None) for x in entities.values())
+    author_url = host + '/editor.html'
+    author = {'@type': 'Person', '@id': author_url + '#person', 'name': 'DJ Naoyaman', 'url': author_url}
+    pages = {}
+    template = (root / 'templates' / 'index.html').read_text(encoding='utf-8')
+    names = sorted({t['artist'] for t in tracks}, key=str.casefold)
+    slugs = {n: hashlib.sha256(n.encode()).hexdigest()[:16] for n in names}
+
+    def entity(name):
+        result = {'name': name}
+        kind = entities.get(name, {}).get('type')
+        if kind:
+            result['@type'] = kind
+        if name in slugs:
+            result['@id'] = host + '/artists/' + slugs[name] + '.html#artist'
+        return result
+
+    def add(route, relative, title, description, body=None, image='og-image.png', graph=None, kind='website'):
+        target = dist / (relative or 'index.html')
+        if relative.endswith('/'):
+            target = target / 'index.html'
+        url = host + '/' + relative
+        if body is not None:
+            content = re.sub(r'<main id="view" tabindex="-1">.*?</main>',
+                             lambda _: '<main id="view" tabindex="-1">' + body + '</main>', template, flags=re.S)
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_text(content, encoding='utf-8')
+        elif not target.exists():
+            raise ValueError(f'Missing generated page: {target}')
+        breadcrumb = [{'@type': 'ListItem', 'position': 1, 'name': 'Crate Diggin’', 'item': host + '/'}]
+        if relative:
+            breadcrumb.append({'@type': 'ListItem', 'position': 2, 'name': title.split(' — ')[0], 'item': url})
+        data = {'@context': 'https://schema.org', '@graph': (graph or [
+            {'@type': 'WebPage', '@id': url + '#page', 'url': url, 'name': title,
+             'description': description, 'inLanguage': 'ja', 'author': author}]) + [
+                 {'@type': 'BreadcrumbList', 'itemListElement': breadcrumb}]}
+        pages[route] = {'route': route, 'path': base_path + '/' + relative,
+                        'title': title, 'description': description, 'url': url,
+                        'image': host + '/' + image + '?v=' + version, 'kind': kind,
+                        'jsonld': data, 'target': target,
+                        'published': data['@graph'][0].get('datePublished'),
+                        'modified': data['@graph'][0].get('dateModified')}
+
+    def track_links(items):
+        return '<ul>' + ''.join('<li><a href="' + base_path + '/songs/' + t['id'] + '.html">' +
+                               esc(t['artist'] + ' — ' + t['title']) + '</a></li>' for t in items) + '</ul>'
+
+    def article(url, title, description, image, key, published=None, about=None):
+        data = {'@type': 'Article', '@id': url + '#article', 'url': url, 'mainEntityOfPage': url,
+                'headline': title, 'description': description, 'inLanguage': 'ja', 'author': author,
+                'image': [host + '/' + image]}
+        if published:
+            data['datePublished'] = published
+        revision = revisions.get(key)
+        if revision and (not published or revision['dateModified'][:10] >= published[:10]):
+            data['dateModified'] = revision['dateModified']
+        if about:
+            data['about'] = about
+        return data
+
+    add('#/', '', 'Crate Diggin’ — DJ NaoyamanのHip Hop・サンプリングガイド',
+        '楽曲から元ネタへ。Hip Hop、サンプリング、制作背景を出典付きでたどるDJ Naoyamanの音楽ガイド。',
+        graph=[{'@type': 'WebSite', '@id': host + '/#website', 'url': host + '/', 'name': 'Crate Diggin’',
+                'inLanguage': 'ja', 'author': author}])
+    for t in tracks:
+        relative = 'songs/' + t['id'] + '.html'
+        url = host + '/' + relative
+        image = 'og/' + t['id'] + '.png'
+        recording = {'@type': 'MusicRecording', '@id': url + '#recording', 'name': t['title'],
+                     'byArtist': entity(t['artist']), 'inAlbum': {'@type': 'MusicAlbum', 'name': t['album']},
+                     'url': url, 'subjectOf': {'@id': url + '#article'}}
+        # A reference upload is not an authoritative identity link. Omit sameAs.
+        if not t.get('yearBasis'):
+            recording['datePublished'] = str(t['year'])
+        art = article(url, t['title'] + ' — ' + t['artist'], t['deck'], image,
+                      'song/' + t['id'], t.get('datePublished'), {'@id': url + '#recording'})
+        art['citation'] = [s['url'] for s in t['sources']]
+        add('#/song/' + t['id'], relative, t['title'] + ' / ' + t['artist'] + ' — Crate Diggin’',
+            t['deck'], image=image, graph=[art, recording], kind='article')
+        published = t.get('datePublished')
+        updated = art.get('dateModified')
+        byline = '<p class="byline">選曲・編集・文責 <a href="' + base_path + '/editor.html">DJ Naoyaman</a>'
+        if published:
+            byline += ' · 公開 <time datetime="' + esc(published) + '">' + esc(published[:10]) + '</time>'
+        if updated:
+            byline += ' · 更新 <time datetime="' + esc(updated) + '">' + esc(updated[:10]) + '</time>'
+        byline += '</p>'
+        content = (dist / relative).read_text(encoding='utf-8')
+        content = re.sub(r'<!-- EDITORIAL_BYLINE -->.*?<!-- /EDITORIAL_BYLINE -->', '', content, flags=re.S)
+        content = content.replace('<article>', '<article><!-- EDITORIAL_BYLINE -->' + byline + '<!-- /EDITORIAL_BYLINE -->', 1)
+        (dist / relative).write_text(content, encoding='utf-8')
+        md = dist / 'songs' / (t['id'] + '.md')
+        source_text = re.sub(r'<!-- ARTICLE_METADATA -->.*?<!-- /ARTICLE_METADATA -->\n\n', '', md.read_text(encoding='utf-8'), flags=re.S)
+        source_text = re.sub(r'\n\n<!-- SOURCE_REFERENCES -->.*?<!-- /SOURCE_REFERENCES -->', '', source_text, flags=re.S)
+        for fact in t.get('facts', []):
+            original = '### ' + fact['title'] + '\n\n' + fact['text']
+            references = ' / '.join('[' + t['sources'][i]['label'] + '](' + t['sources'][i]['url'] + ')' for i in fact['sources'])
+            if references:
+                source_text = source_text.replace(original, original + '\n\n<!-- SOURCE_REFERENCES -->\n参考資料: ' + references + '\n<!-- /SOURCE_REFERENCES -->', 1)
+        lines = ['正規URL: ' + url, '著者: [DJ Naoyaman](' + author_url + ')']
+        if published:
+            lines.append('記事公開日: ' + published)
+        if updated:
+            lines.append('記事更新日: ' + updated + '（記事データのGit改訂記録）')
+        if t.get('noteReviewedAt'):
+            lines.append('解説確認日: ' + t['noteReviewedAt'])
+        pending = t.get('review', {}).get('metadataPending', [])
+        if pending:
+            lines.append('確認継続中: ' + ' / '.join(pending))
+        source_text = source_text.replace('\n\n', '\n\n<!-- ARTICLE_METADATA -->\n' + '\n\n'.join(lines) + '\n<!-- /ARTICLE_METADATA -->\n\n', 1)
+        md.write_text(source_text, encoding='utf-8')
+    for name in names:
+        relative = 'artists/' + slugs[name] + '.html'
+        selected = [t for t in tracks if t['artist'] == name]
+        url = host + '/' + relative
+        add('#/artist/' + encoded(name), relative, name + ' の楽曲一覧 — Crate Diggin’',
+            name + 'の掲載' + str(len(selected)) + '曲。楽曲解説、サンプリング元ネタと制作背景を出典からたどる。',
+            graph=[{'@type': 'CollectionPage', '@id': url + '#page', 'url': url, 'name': name + ' の楽曲一覧',
+                    'about': entity(name), 'mainEntity': {'@type': 'ItemList', 'numberOfItems': len(selected),
+                    'itemListElement': [{'@type': 'ListItem', 'position': i + 1, 'url': host + '/songs/' + t['id'] + '.html',
+                                         'name': t['title']} for i, t in enumerate(selected)]}}])
+    for f in features:
+        relative = 'features/' + f['id'] + '.html'
+        url = host + '/' + relative
+        from brand_assets import social_image
+        feature_image = 'feature-og/' + f['id'] + '.png'
+        (dist / 'feature-og').mkdir(exist_ok=True)
+        social_image({'title': f['name'], 'artist': 'Artist & producer features / DJ Naoyaman'}).save(dist / feature_image)
+        description = f['name'] + '特集。' + f['editorial']['title'] + ' ' + f['editorial']['context']
+        add('#/feature/' + f['id'], relative, f['name'] + ' — ' + f['editorial']['title'] + ' / Crate Diggin’',
+            description, image=feature_image, graph=[article(url, f['editorial']['title'], description, feature_image,
+                                        'feature/' + f['id'])], kind='article')
+        pages['#/feature/' + f['id']]['jsonld']['@graph'][0]['citation'] = [s['url'] for s in f['editorial']['sources']]
+    add('#/songs', 'songs/', '楽曲一覧 — Crate Diggin’',
+        str(len(tracks)) + '曲のHip Hopを聴きどころ・アーティスト・年代から探す。サンプル元と制作背景を出典付きで紹介。',
+        '<h1>THE RECORD CRATE</h1><p>聴きどころ・アーティスト・年代から曲を探す。</p>' + track_links(tracks))
+    add('#/artists', 'artists/', 'アーティスト一覧 — Crate Diggin’', '掲載アーティスト別に楽曲と特集を探す。',
+        '<h1>ARTISTS</h1><ul>' + ''.join('<li><a href="' + base_path + '/artists/' + slugs[n] + '.html">' +
+        esc(n) + '</a></li>' for n in names) + '</ul>')
+    add('#/features', 'features/', 'アーティスト・プロデューサー特集 — Crate Diggin’',
+        'DJ Naoyamanの視点で音楽性、制作背景、影響をたどるアーティスト・プロデューサー特集。',
+        '<h1>DEEP IN THE CRATE.</h1><ul>' + ''.join('<li><a href="' + base_path + '/features/' + f['id'] +
+        '.html">' + esc(f['name'] + ' — ' + f['editorial']['title']) + '</a></li>' for f in features) + '</ul>')
+    for g in guides:
+        selected = [next(t for t in tracks if t['id'] == tid) for tid in g['ids']]
+        add('#/guide/' + g['id'], 'guides/' + g['id'] + '.html', g['title'] + ' — Crate Diggin’', g['description'],
+            '<h1>' + esc(g['title']) + '</h1><p>' + esc(g['description']) + '</p>' + track_links(selected))
+    add('#/timeline', 'timeline.html', 'Hip Hopの年表 — Crate Diggin’', '掲載曲を発表年と街からたどるHip Hopの年表。',
+        '<h1>THE TIMELINE</h1>' + ''.join('<section><h2>' + str(y) + '年</h2>' +
+        track_links([t for t in tracks if t['year'] == y]) + '</section>' for y in sorted({t['year'] for t in tracks})))
+    add('#/about', 'about.html', '編集方針 — Crate Diggin’', '事実と編者の私見を分け、参考資料を示すCrate Diggin’の編集方針。',
+        '<h1>編集方針</h1><p>選曲・編集・文責 DJ Naoyaman。</p><p>楽曲の歴史的事実と編者の聴き方を区別し、参考資料を示します。'
+        '未確認事項は推測で埋めず、確認を継続する項目として明示します。YouTubeの投稿やIDの存在は、録音の同一性や再生可能性の保証ではありません。</p>'
+        '<p><a href="' + base_path + '/editor.html">編者について</a></p>')
+    add('#/editor', 'editor.html', 'DJ Naoyaman — 編者紹介 / Crate Diggin’', 'Crate Diggin’の選曲・編集を行うDJ Naoyaman。',
+        '<h1>DJ Naoyaman</h1><p>Crate Diggin’の選曲・編集・文責。</p><p>Hip Hopを入口に、サンプリング、制作背景と音楽文化をたどる。'
+        '聴き方の考察と、資料で確認した事実を区別して紹介します。</p><p><a href="' + base_path + '/about.html">編集方針</a></p>'
+        '<p>姉妹サイト：<a href="https://djnaoyaman.github.io/suburbia-classica/">SUBURBIA CLASSICA</a></p>',
+        graph=[{'@type': 'ProfilePage', '@id': author_url + '#page', 'url': author_url, 'mainEntity': author}])
+
+    def real_links(content):
+        def replace(match):
+            route = html.unescape(match[1])
+            if route.startswith('#/?'):
+                path = base_path + '/songs/?' + route.split('?', 1)[1]
+            else:
+                item = pages.get(route)
+                if not item:
+                    return match[0]
+                path = item['path']
+            return 'href="' + esc(path, quote=True) + '"'
+        return re.sub(r'href="(#/[^\"]*)"', replace, content)
+
+    compact = {}
+    meta_dir = dist / 'metadata'
+    meta_dir.mkdir(exist_ok=True)
+    for route, p in pages.items():
+        target = p.pop('target')
+        key = hashlib.sha256(route.encode()).hexdigest()[:20]
+        p['metadataPath'] = base_path + '/metadata/' + key + '.json'
+        content = target.read_text(encoding='utf-8')
+        content = re.sub(r'<title>.*?</title>', lambda _: '<title>' + esc(p['title']) + '</title>', content, flags=re.S)
+        content = re.sub(r'<meta\b[^>]*(?:name="(?:description|author|robots|twitter:[^"]+)"|property="(?:og|article):[^"]+")[^>]*>', '', content)
+        content = re.sub(r'<link\b[^>]*rel="(?:canonical|alternate)"[^>]*>', '', content)
+        content = re.sub(r'<script type="application/ld\+json">.*?</script>', '', content, flags=re.S)
+        content = re.sub(r'<script>window.INITIAL_ROUTE=.*?</script>', '', content, flags=re.S)
+        meta = '<meta name="description" content="' + esc(p['description'], quote=True) + '">'
+        meta += '<meta name="author" content="DJ Naoyaman"><meta name="robots" content="index,follow,max-image-preview:large">'
+        meta += '<link rel="canonical" href="' + esc(p['url'], quote=True) + '">'
+        for name, value in {'og:title': p['title'], 'og:description': p['description'], 'og:url': p['url'],
+                            'og:type': p['kind'], 'og:site_name': 'Crate Diggin’', 'og:locale': 'ja_JP',
+                            'og:image': p['image'], 'og:image:width': '1200', 'og:image:height': '630',
+                            'og:image:alt': p['title']}.items():
+            meta += '<meta property="' + name + '" content="' + esc(value, quote=True) + '">'
+        for name, value in {'twitter:card': 'summary_large_image', 'twitter:title': p['title'],
+                            'twitter:description': p['description'], 'twitter:image': p['image'], 'twitter:image:alt': p['title']}.items():
+            meta += '<meta name="' + name + '" content="' + esc(value, quote=True) + '">'
+        if p['kind'] == 'article':
+            for name, value in {'article:author': author_url, 'article:published_time': p['published'],
+                                'article:modified_time': p['modified']}.items():
+                if value:
+                    meta += '<meta property="' + name + '" content="' + esc(value, quote=True) + '">'
+        meta += '<script type="application/ld+json">' + json.dumps(p['jsonld'], ensure_ascii=False).replace('</', '<\\/') + '</script>'
+        initial = {'route': route, 'jsonld': p['jsonld']}
+        meta += '<script>window.INITIAL_ROUTE=' + json.dumps(route) + ';window.CRATE_INITIAL_META=' + json.dumps(initial, ensure_ascii=False).replace('</', '<\\/') + ';</script>'
+        meta += '<link rel="author" href="' + author_url + '">'
+        if route.startswith('#/song/'):
+            tid = route.split('/')[-1]
+            meta += '<link rel="alternate" type="text/markdown" href="' + host + '/songs/' + tid + '.md">'
+        if '/metadata.js' not in content:
+            content = content.replace('<script src="' + base_path + '/app.js', '<script src="' + base_path + '/metadata.js?v=' + version + '" defer></script><script src="' + base_path + '/app.js')
+        # Newly added static pages need the same versioned assets and analytics as existing pages.
+        for asset in ('app.js', 'style.css', 'tracks.js', 'playlist.js', 'filters.js', 'timeline.js', 'releases.js'):
+            content = re.sub(r'((?:href|src)="[^\"]*/' + re.escape(asset) + r')(?:\?v=[0-9.]+)?"',
+                             lambda m: m[1] + '?v=' + version + '"', content)
+        if '<!-- GOOGLE_ANALYTICS -->' not in content:
+            home = (dist / 'index.html').read_text(encoding='utf-8')
+            analytics = re.search(r'<!-- GOOGLE_ANALYTICS -->.*?<!-- /GOOGLE_ANALYTICS -->', home, flags=re.S)
+            if analytics:
+                meta += analytics[0]
+        content = real_links(content.replace('</head>', meta + '</head>'))
+        target.write_text(content, encoding='utf-8')
+        (meta_dir / (key + '.json')).write_text(json.dumps(p, ensure_ascii=False), encoding='utf-8')
+        compact[route] = {k: v for k, v in p.items() if k != 'jsonld'}
+    (dist / 'metadata.js').write_text('window.CRATE_PAGES=' + json.dumps(compact, ensure_ascii=False).replace('</', '<\\/') + ';\n', encoding='utf-8')
+    urls = [p['url'] for p in pages.values()]
+    (dist / 'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' +
+        ''.join('<url><loc>' + esc(p['url']) + '</loc>' +
+                ('<lastmod>' + p['jsonld']['@graph'][0]['dateModified'] + '</lastmod>' if p['jsonld']['@graph'][0].get('dateModified') else '') +
+                '</url>' for p in pages.values()) + '</urlset>', encoding='utf-8')
+    llms = '# Crate Diggin’\n\nDJ Naoyamanが選曲・編集する、出典付きのHip Hop・サンプリングガイド。\n\n'
+    llms += '## Editorial policy\n事実と編者の私見を区別します。確認継続中の情報や参考音源を、確認済みの事実と混同しないでください。\n'
+    llms += '- [著者](' + author_url + ')\n- [編集方針](' + host + '/about.html)\n- [サイトマップ](' + host + '/sitemap.xml)\n'
+    llms += '- [全楽曲のMarkdown](' + host + '/llms-full.txt)\n\n'
+    for label, prefix in [('Artists', '#/artist/'), ('Features', '#/feature/'), ('Guides', '#/guide/'), ('Songs', '#/song/')]:
+        llms += '## ' + label + '\n'
+        for route, p in pages.items():
+            if route.startswith(prefix):
+                llms += '- [' + p['title'] + '](' + p['url'] + ')\n'
+        llms += '\n'
+    (dist / 'llms.txt').write_text(llms, encoding='utf-8')
+    (dist / 'llms-full.txt').write_text('\n\n---\n\n'.join((dist / 'songs' / (t['id'] + '.md')).read_text(encoding='utf-8') for t in tracks), encoding='utf-8')
+    (dist / 'article-revisions.json').write_text(json.dumps(revisions, ensure_ascii=False, indent=2), encoding='utf-8')
+    print(f'Unified metadata, real URLs and discovery views: {len(urls)} pages')
