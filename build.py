@@ -101,6 +101,12 @@ def enhance(path,title,description,url,img,ld,article=False):
     content=content.replace('</head>','<!-- SHARING_METADATA -->'+head+'<!-- /SHARING_METADATA --></head>')
     content=content.replace('公式YouTubeの連続再生','YouTube音源の連続再生')
     path.write_text(content)
+for artist in artist_names:
+    slug=artist_slugs[artist]
+    url=HOST+'/artists/'+slug+'.html'
+    entries=[t for t in tracks if t['artist']==artist]
+    data={'@context':'https://schema.org','@graph':[{'@type':'CollectionPage','name':artist+' — Crate Diggin’ 収録曲','url':url,'inLanguage':'ja','mainEntity':{'@type':'ItemList','numberOfItems':len(entries),'itemListElement':[{'@type':'ListItem','position':i+1,'name':t['title'],'url':HOST+'/songs/'+t['id']+'.html'} for i,t in enumerate(entries)]}},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'Crate Diggin’','item':HOST+'/'},{'@type':'ListItem','position':2,'name':artist,'item':url}]}]}
+    enhance(DIST/'artists'/(slug+'.html'),artist+' の楽曲一覧 — Crate Diggin’',artist+' の収録曲 '+str(len(entries))+' 曲。楽曲解説、サンプリング元ネタと出典を紹介。',url,HOST+'/og-image.png',data)
 for t in tracks:
     social_image(t).save(DIST/'og'/(t['id']+'.png'))
     url=HOST+'/songs/'+t['id']+'.html'
