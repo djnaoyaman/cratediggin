@@ -2,6 +2,7 @@
 import json, html, re, os, hashlib
 from urllib.parse import urlparse, quote
 from pathlib import Path
+from listening_shelves import load_shelves
 ROOT=Path(__file__).parent
 DIST=ROOT/'dist'
 HOST=os.environ.get('SITE_URL','https://djnaoyaman.github.io/cratediggin').rstrip('/')
@@ -53,7 +54,8 @@ for directory, suffixes in ((DIST/'songs', {'.html', '.md'}), (DIST/'og', {'.png
 for t in tracks:
     t['deepdives']=deepdive_map.get((t['artist'].casefold(),t['title'].casefold()),[])
     t['researchedSamples']=sample_research_map.get((t['artist'].casefold(),t['title'].casefold()),[])
-(DIST/'tracks.js').write_text('window.TRACKS = '+json.dumps(tracks,ensure_ascii=False).replace('</','<\\/')+';\n')
+shelves=load_shelves(ROOT,tracks,deepdives)
+(DIST/'tracks.js').write_text('window.CRATE_SHELVES = '+json.dumps(shelves,ensure_ascii=False)+';\nwindow.TRACKS = '+json.dumps(tracks,ensure_ascii=False).replace('</','<\\/')+';\n')
 base=(DIST/'index.html').read_text()
 base=re.sub(r'<script type="application/ld\+json">.*?</script>', '', base, flags=re.S)
 base=re.sub(r'<main id="view" tabindex="-1">.*?</main>', '<main id="view" tabindex="-1"></main>', base, flags=re.S)

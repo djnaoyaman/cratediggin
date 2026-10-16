@@ -3,20 +3,19 @@ name: Deploy Crate Diggin to GitHub Pages
 on:
   push:
     branches: [main]
+  pull_request:
+    branches: [main]
   workflow_dispatch:
 permissions:
   contents: read
-  pages: write
-  id-token: write
 concurrency:
   group: github-pages
   cancel-in-progress: false
 jobs:
-  deploy:
+  validate:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      contents: read
     steps:
       - uses: actions/checkout@v6
       - uses: actions/setup-python@v5
@@ -34,6 +33,7 @@ jobs:
           node --check dist/app.js
           node --check dist/art.js
           node --check dist/playlist.js
+          node --check dist/filters.js
           python build.py
           python scripts/audit_editorial_depth.py
           python - <<'PY'
@@ -55,6 +55,7 @@ jobs:
       - name: Audit catalog metadata and link integrity
         run: |
           python scripts/audit_catalog.py
+          node scripts/verify_listening_shelves.js
           node scripts/verify_producer_features.js
           node scripts/verify_feature_editorials.js
           python scripts/verify_kiyo_import.py
@@ -104,10 +105,32 @@ jobs:
           assert 'dj-shadow-the-number-song' in (root/'tracks.js').read_text()
           print('Generated pages, social cards, URLs and Number Song verified')
           PY
-      - uses: actions/configure-pages@v5
+      - name: Verify listening shelves in desktop and mobile browsers
+        run: |
+          npm install --no-save playwright
+          npx playwright install --with-deps chromium
+          mkdir -p /tmp/crate-preview
+          ln -s "$GITHUB_WORKSPACE/dist" /tmp/crate-preview/cratediggin
+          python -m http.server 8765 --directory /tmp/crate-preview >/tmp/crate-preview.log 2>&1 &
+          server=$!
+          trap 'kill "$server"' EXIT
+          node scripts/verify_listening_shelves_browser.js
       - uses: actions/upload-pages-artifact@v4
+        if: github.event_name != 'pull_request'
         with:
           path: dist
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: validate
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v5
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4

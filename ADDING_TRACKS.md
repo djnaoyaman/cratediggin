@@ -32,3 +32,7 @@
 ## 選曲棚と地域
 
 `editorialCrates` は曲単位の編集判断で複数指定。jazz-mellow / funk-soul / raw-beats / cut-scratch / mic-skills を使い、地域や汎用タグから一律に自動付与しない。棚にない曲も「すべて」で探せる。`collections` の east / west は従来どおり活動地域用。その他の地域も選択可能。過去の cafe / pizza / walk は互換データとして残すが新しい選曲棚の判定には使わない。一覧は初期全曲、50曲ずつ。出典の未確認項目は明記する。
+
+### 聴きどころの棚
+
+新しい曲を6つの棚に必ず入れる必要はありません。具体的な解説・聴き方を個別に確認できた曲だけ `listening_shelves.json` に追加してください。`tracks.json` の根拠パスは対象曲からの相対パス（例 `listening.0`）、`editorial_deepdives.json` は配列先頭からの絶対パス（例 `3.sections.1.text`）です。`quote` はその箇所の原文と一致させます。タグは制作史実の認定ではなく、編集上の聴く入口です。

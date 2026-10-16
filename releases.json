@@ -1,5 +1,5 @@
 {
-  "version": "15.1",
+  "version": "16.0",
   "timezone": "Asia/Tokyo",
   "policy": "major-only",
   "history": [
@@ -134,6 +134,15 @@
       "datetime": "2026-10-17T00:49:41+09:00",
       "title": "影響を読むFeaturesと別名義の統合",
       "description": "掲載3曲以上かつ後世への影響を重視する選定基準を明記。14特集に音楽性・後世への影響・私の聴き方と参考資料を追加。J Dilla / Jay Dee、Madlib / Quasimotoを同一人物の別名義として集約し、共同プロジェクトを区別。",
+      "kind": "major",
+      "dateBasis": "変更記録日時",
+      "retrospective": false
+    },
+    {
+      "version": "16.0",
+      "datetime": "2026-10-17T01:03:55+09:00",
+      "title": "聴きどころから選ぶ6つの棚",
+      "description": "解説に根拠がある曲を6つの聴き方で選曲。件数表示と複数棚への分類を加え、地域は補助条件に整理。未分類曲も全曲一覧から探せます。",
       "kind": "major",
       "dateBasis": "変更記録日時",
       "retrospective": false
