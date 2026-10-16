@@ -59,6 +59,8 @@ for t in tracks:
     page=page.replace('</head>','<script type="application/ld+json">'+json.dumps(ld,ensure_ascii=False)+'</script></head>')
     (p/(t['id']+'.html')).write_text(page)
     md='# '+t['title']+'\n\n'+t['artist']+' / '+str(t['year'])+' / '+t['region']+'\n\n## '+t['essayTitle']+'\n\n'+'\n\n'.join(t['essay'])+'\n\n## 制作背景\n\n'+'\n\n'.join('### '+f['title']+'\n\n'+f['text'] for f in t['facts'])+'\n\n## サンプル元\n\n'+'\n\n'.join(s['artist']+' — '+s['title']+'\n\n'+s['role']+('\n\nhttps://www.youtube.com/watch?v='+s['youtube']['id'] if s.get('youtube') else '') for s in t['samples'])+'\n\n## 出典\n\n'+'\n'.join('- ['+s['label']+']('+s['url']+')' for s in t['sources'])+'\n'
+    for section in t.get('deepdives', []):
+        md+='\n## '+section['heading']+'\n\n'+section['text']+'\n\n参考資料: ['+section['sourceLabel']+']('+section['source']+')\n'
     (p/(t['id']+'.md')).write_text(md)
     links.append(HOST+'/songs/'+t['id']+'.html')
 # Search engines need crawlable artist hubs, not only JavaScript hash routes.
