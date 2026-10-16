@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="ja">
+<head><meta name="referrer" content="strict-origin-when-cross-origin">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Crate Diggin’ — A Guide to Sampled Mind & Vintage Grooves</title>
+<meta name="description" content="DJ Naoyamanが編むHip Hopガイド。YouTube音源の連続再生、グラフィティの全画面アート、地域別年表、サンプリングの出典と制作の物語。">
+<meta name="theme-color" content="#006CB6"><link rel="icon" href="/cratediggin/favicon.svg?v=17.0" type="image/svg+xml"><link rel="canonical" href="https://djnaoyaman.github.io/cratediggin/">
+
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bungee&family=Caveat:wght@700&family=Luckiest+Guy&family=Black+Ops+One&family=Rubik+Mono+One&family=Barlow+Condensed:wght@600;700;800;900&family=IBM+Plex+Sans:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&family=Permanent+Marker&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/cratediggin/style.css?v=17.0"><script src="/cratediggin/tracks.js?v=17.0" defer></script><script src="/cratediggin/art.js" defer></script><script src="/cratediggin/filters.js?v=17.0" defer></script><script src="/cratediggin/timeline.js?v=17.0" defer></script><script src="/cratediggin/releases.js" defer></script><script src="/cratediggin/playlist.js?v=17.0" defer></script><script src="/cratediggin/app.js?v=17.0" defer></script>
+
+<link rel="apple-touch-icon" sizes="180x180" href="/cratediggin/apple-touch-icon-vinyl.png?v=original-20261016"></head>
+<body>
+<a class="skip" href="#view">本文へ</a>
+<header class="top"><a class="brand" href="#/" aria-label="Crate Diggin’ ホーム">CD<span>CRATE<br>DIGGIN’</span></a><nav aria-label="メインメニュー"><a href="#/" data-nav="home">Player</a><a href="#/songs" data-nav="songs">Songs</a><a href="#/features" data-nav="features">Features</a><a href="#/timeline" data-nav="timeline">Timeline</a><a href="#/about" data-nav="about">About</a><a href="#/editor" data-nav="editor">Editor</a></nav><span class="header-note">CURATED BY DJ NAOYAMAN</span></header>
+<section class="hero" id="hero" aria-labelledby="hero-title">
+ <div class="hero-top"><span>RECORDS. RHYMES. RECOLLECTIONS.</span><span>VOL. 001 / <b id="hero-count">03</b> RECORDS</span></div>
+ <div class="hero-title"><h1 id="hero-title">CRATE<br><span>DIGGIN’</span></h1><div class="hero-side"><span class="tag-script">Keep<br>diggin’.</span><div class="record-seal" aria-hidden="true"><span>33⅓</span></div><p>THE PAST<br>IS STILL<br>PLAYING.</p></div></div>
+ <div class="hero-bottom"><p class="subtitle">A Guide to Sampled Mind<br>& Vintage Grooves</p><p class="hero-copy">古いレコードのなかに、<br>まだ新しい午後がある。<br><span>選曲・編集　DJ Naoyaman</span></p><a class="hero-action" href="#selection">DIG INTO THE CRATE <span>↙</span></a></div>
+</section>
+<div class="ticker" aria-hidden="true"><div>HIP HOP / SAMPLE CULTURE / GRAFFITI / VINTAGE GROOVES / NEW YORK / OAKLAND / HIP HOP / SAMPLE CULTURE / GRAFFITI / VINTAGE GROOVES / NEW YORK / OAKLAND / </div></div>
+<div class="layout" id="selection">
+ <aside class="player" aria-label="音楽プレイヤー">
+  <div class="player-top"><span class="eyebrow">THE LISTENING ROOM</span><span class="live-dot" id="live-dot"></span></div>
+  <div class="video-wrap"><div id="yt"></div><button class="start-overlay" id="start">▶<span>PRESS PLAY</span></button></div>
+  <div class="now"><span class="eyebrow">NOW ON THE TURNTABLE</span><strong id="now-title">Can I Kick It?</strong><span id="now-artist">A Tribe Called Quest</span><span class="channel" id="now-channel">公式YouTube音源</span></div>
+  <div class="transport"><button id="prev" aria-label="前の曲">←</button><button id="toggle" aria-label="再生・一時停止">▶</button><button id="next" aria-label="次の曲">→</button><button id="art-open" class="art-open" aria-label="全画面グラフィティを表示">↗ <span>ART VIEW</span></button></div>
+  <div class="progress-row"><span id="elapsed">0:00</span><input id="seek" type="range" min="0" max="100" value="0" aria-label="再生位置"><span id="duration">—</span></div>
+  <div class="preferences"><label><input type="checkbox" id="auto" checked>自動で次の曲へ</label><label><input type="checkbox" id="saver" checked>再生中はアートを表示</label></div>
+  <p class="status" id="status" role="status" aria-live="polite">公式YouTube音源を読み込んでいます。</p>
+  <a id="youtube-link" href="https://www.youtube.com/watch?v=D-uV8TGjaGU" target="_blank" rel="noopener" class="external">公式YouTubeで開く ↗</a>
+
+ </aside>
+ <main id="view" tabindex="-1"></main>
+</div>
+<section class="manifesto"><div><span class="eyebrow">A NOTE FROM THE EDITOR</span><h2>Old records.<br>New afternoons.</h2></div><div><p>音楽は、発売された年に閉じ込めておくには、<br>少しばかりよくできすぎている。</p><p>好きな曲を掘る。元になった音をたどる。街や仲間の話に寄り道する。<br>そうして、いまの自分の耳を、もう一度確かめる。</p><a href="#/about">このサイトについて ↗</a></div></section>
+<footer><div><a href="#/" class="footer-brand">CRATE DIGGIN’</a><span>A Guide to Sampled Mind & Vintage Grooves</span></div><p>選曲・編集・文責　DJ Naoyaman<br>事実には出典を。聴き方には余白を。</p><a href="#/timeline">THE TIMELINE ↗</a></footer>
+<section id="art-view" class="art-view" role="dialog" aria-modal="true" aria-labelledby="art-song" hidden><canvas id="wall" aria-hidden="true"></canvas><div class="art-brand">CRATE DIGGIN’ <span>GRAFFITI ROOM</span></div><button id="art-close" aria-label="アート表示を終了">× <span>CLOSE</span></button><div class="art-info"><span id="art-region"></span><h2 id="art-song"></h2><p id="art-artist"></p></div><div class="art-controls"><button id="art-prev" aria-label="前の曲">←</button><button id="art-toggle" aria-label="再生・一時停止">Ⅱ</button><button id="art-next" aria-label="次の曲">→</button></div></section>
+</body></html>

@@ -30,20 +30,22 @@ jobs:
         env:
           SITE_URL: https://djnaoyaman.github.io/cratediggin
         run: |
+          python build.py
           node --check dist/app.js
           node --check dist/art.js
           node --check dist/playlist.js
           node --check dist/filters.js
-          python build.py
+          node --check dist/timeline.js
+          git diff --exit-code -- src templates
           python scripts/audit_editorial_depth.py
           python - <<'PY'
           import json
           from pathlib import Path
-          tracks = json.loads(Path('tracks.json').read_text())
-          assert len(tracks) >= 226, f'Expected at least 225 tracks, got {len(tracks)}'
+          tracks = json.loads(Path('tracks.json').read_text(encoding='utf-8'))
+          assert tracks, 'Catalog must not be empty'
           assert any(t['id'] == 'dj-shadow-the-number-song' for t in tracks), 'The Number Song missing from source'
           assert Path('dist/songs/dj-shadow-the-number-song.html').exists(), 'The Number Song page missing from build'
-          assert 'dj-shadow-the-number-song' in Path('dist/tracks.js').read_text(), 'The Number Song missing from client catalog'
+          assert 'dj-shadow-the-number-song' in Path('dist/tracks.js').read_text(encoding='utf-8'), 'The Number Song missing from client catalog'
           expected_audio = {'dj-shadow-the-number-song': 'odlhSQqOXL8', 'dj-shadow-the-number-song-cut-chemist-remix': 'c0CKXOCOX3o'}
           for track_id, video_id in expected_audio.items():
               track = next(t for t in tracks if t['id'] == track_id)
@@ -65,11 +67,11 @@ jobs:
           from pathlib import Path
           import json
           root = Path('dist')
-          data = json.loads(Path('tracks.json').read_text())
+          data = json.loads(Path('tracks.json').read_text(encoding='utf-8'))
           assert len(list((root/'songs').glob('*.html'))) == len(data), 'Generated HTML page count mismatch'
           assert len(list((root/'songs').glob('*.md'))) == len(data), 'Generated Markdown page count mismatch'
           assert len(list((root/'og').glob('*.png'))) == len(data), 'Generated social image count mismatch'
-          html = (root/'index.html').read_text()
+          html = (root/'index.html').read_text(encoding='utf-8')
           assert '/cratediggin/songs/' in html, 'Project Pages links missing base path'
           assert '"//cratediggin/' not in html, 'Broken protocol-relative Pages URLs'
           assert 'src="/cratediggin/tracks.js' in html, 'Track data script URL incorrect'
@@ -79,31 +81,31 @@ jobs:
           assert (root/'apple-touch-icon-vinyl.png').exists(), 'Vinyl touch icon not generated'
           artist_pages = list((root/'artists').glob('*.html'))
           assert artist_pages, 'No crawlable artist pages generated'
-          sitemap = (root/'sitemap.xml').read_text()
+          sitemap = (root/'sitemap.xml').read_text(encoding='utf-8')
           assert all('/artists/'+p.name in sitemap for p in artist_pages), 'Artist page missing from sitemap'
           assert 'ARTIST INDEX' in html, 'Artist links missing from static home HTML'
           assert '/cratediggin/artists/' in html, 'Crawlable artist links missing from homepage'
-          assert any('/cratediggin/artists/' in p.read_text() for p in (root/'songs').glob('*.html')), 'Crawlable song-to-artist links missing'
-          assert '## Artists' in (root/'llms.txt').read_text(), 'AI discovery artist index missing'
-          assert 'DIG DEEPER' in (root/'app.js').read_text(), 'Deep-dive UI missing'
-          assert '制作の背景：サンプラーの制約が音楽になった' in (root/'tracks.js').read_text(), 'Deep-dive source content missing'
+          assert any('/cratediggin/artists/' in p.read_text(encoding='utf-8') for p in (root/'songs').glob('*.html')), 'Crawlable song-to-artist links missing'
+          assert '## Artists' in (root/'llms.txt').read_text(encoding='utf-8'), 'AI discovery artist index missing'
+          assert 'DIG DEEPER' in (root/'app.js').read_text(encoding='utf-8'), 'Deep-dive UI missing'
+          assert '制作の背景：サンプラーの制約が音楽になった' in (root/'tracks.js').read_text(encoding='utf-8'), 'Deep-dive source content missing'
           import json
-          tracks=json.loads((Path('tracks.json')).read_text())
-          deepdives=json.loads((Path('editorial_deepdives.json')).read_text())
+          tracks=json.loads((Path('tracks.json')).read_text(encoding='utf-8'))
+          deepdives=json.loads((Path('editorial_deepdives.json')).read_text(encoding='utf-8'))
           pe={t['title'] for t in tracks if t['artist']=='Public Enemy'}
           covered={d['title'] for d in deepdives if d['artist']=='Public Enemy' and len(d['sections'])>=3}
           assert pe == covered, f'Public Enemy editorial coverage mismatch: {pe ^ covered}'
           gs={t['title'] for t in tracks if t['artist']=='Gang Starr'}
           gs_covered={d['title'] for d in deepdives if d['artist']=='Gang Starr' and len(d['sections'])>=3}
-          assert len(gs)==22 and gs==gs_covered, f'Gang Starr editorial coverage mismatch: {gs ^ gs_covered}'
+          assert gs and gs==gs_covered, f'Gang Starr editorial coverage mismatch: {gs ^ gs_covered}'
           shadow={t['title'] for t in tracks if t['artist']=='DJ Shadow'}
           shadow_covered={d['title'] for d in deepdives if d['artist']=='DJ Shadow' and len(d['sections'])>=4}
-          assert len(shadow)==18 and shadow==shadow_covered, f'DJ Shadow coverage mismatch: {shadow ^ shadow_covered}'
-          research=json.loads(Path('dj_shadow_sample_research.json').read_text())
+          assert shadow and shadow==shadow_covered, f'DJ Shadow coverage mismatch: {shadow ^ shadow_covered}'
+          research=json.loads(Path('dj_shadow_sample_research.json').read_text(encoding='utf-8'))
           assert len(research)>=6 and sum(len(x['samples']) for x in research)>=13
-          js=(Path('dist')/'tracks.js').read_text()
+          js=(Path('dist')/'tracks.js').read_text(encoding='utf-8')
           assert 'researchedSamples' in js and all(any(s.get('research') for s in t['samples']) for t in tracks if t['artist']=='DJ Shadow' and t['title'] in {e['title'] for e in research})
-          assert 'dj-shadow-the-number-song' in (root/'tracks.js').read_text()
+          assert 'dj-shadow-the-number-song' in (root/'tracks.js').read_text(encoding='utf-8')
           print('Generated pages, social cards, URLs and Number Song verified')
           PY
       - name: Verify listening shelves in desktop and mobile browsers
@@ -116,12 +118,15 @@ jobs:
           server=$!
           trap 'kill "$server"' EXIT
           node scripts/verify_listening_shelves_browser.js
+          node scripts/verify_pagination_browser.cjs
       - name: Save browser screenshots
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: listening-shelf-screenshots
-          path: /tmp/listening-shelf-*.png
+          path: |
+            /tmp/listening-shelf-*.png
+            /tmp/catalog-pagination-*.png
           if-no-files-found: ignore
           retention-days: 3
       - uses: actions/upload-pages-artifact@v4

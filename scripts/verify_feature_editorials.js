@@ -5,7 +5,7 @@ const source=JSON.parse(fs.readFileSync('features.json','utf8'));
 const app=fs.readFileSync('dist/app.js','utf8');
 const view={innerHTML:'',querySelectorAll:()=>[]},canonical={href:''};
 const ctx=vm.createContext({songs,view,document:{title:''},origin:'https://djnaoyaman.github.io/cratediggin',esc:s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;'),top:()=>'',playableIds:s=>s.map(t=>t.id),paintResults:()=>{},$:()=>canonical});
-vm.runInContext('let customMode,applyListFilters,filtered,queue,resultPage,expandedCount;'+app.slice(app.indexOf(' const features=['),app.indexOf(' let lastAnalyticsPage'))+';globalThis.api={features,featureTracks,eligibleFeatures,featurePage};',ctx);
+vm.runInContext('let customMode,applyListFilters,filtered,queue,resultPage;const browseRestoring=null;'+app.slice(app.indexOf(' const features=['),app.indexOf(' let lastAnalyticsPage'))+';globalThis.api={features,featureTracks,eligibleFeatures,featurePage};',ctx);
 const api=ctx.api,eligible=api.eligibleFeatures();
 assert.equal(eligible.length,source.features.length);
 assert.equal(new Set(eligible.flatMap(f=>Array.from(f.aliases||[]))).size,eligible.reduce((n,f)=>n+(f.aliases||[]).length,0));

@@ -2,7 +2,7 @@
 import json
 
 def load_shelves(root, tracks, deepdives):
-    data = json.loads((root/'listening_shelves.json').read_text())
+    data = json.loads((root/'listening_shelves.json').read_text(encoding='utf-8'))
     shelves = data['shelves']
     shelf_ids = {s['id'] for s in shelves}
     assert len(shelves) == len(shelf_ids) == 6, 'Expected six distinct listening shelves'

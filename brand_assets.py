@@ -24,7 +24,7 @@ def vinyl(im,cx,cy,r):
 def icon(size):
     """Use the supplied original record illustration, not a recreated graphic."""
     import io
-    encoded=(ROOT/'brand'/'record-art.jpg.base64').read_text().strip()
+    encoded=(ROOT/'brand'/'record-art.jpg.base64').read_text(encoding='utf-8').strip()
     original=Image.open(io.BytesIO(base64.b64decode(encoded))).convert('RGB')
     return original.resize((size,size),Image.Resampling.LANCZOS)
 
@@ -56,4 +56,4 @@ def write_icons(dist):
     import io
     data=io.BytesIO();icon(48).save(data,format='PNG')
     encoded=base64.b64encode(data.getvalue()).decode()
-    (dist/'favicon.svg').write_text('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><image width="192" height="192" href="data:image/png;base64,'+encoded+'"/></svg>')
+    (dist/'favicon.svg').write_text('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><image width="192" height="192" href="data:image/png;base64,'+encoded+'"/></svg>', encoding='utf-8')

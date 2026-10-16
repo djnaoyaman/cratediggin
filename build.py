@@ -8,21 +8,17 @@ ROOT=Path(__file__).parent
 DIST=ROOT/'dist'
 HOST=os.environ.get('SITE_URL','https://djnaoyaman.github.io/cratediggin').rstrip('/')
 BASE_PATH=urlparse(HOST).path.rstrip('/')
-tracks=json.loads((ROOT/'tracks.json').read_text())
-deepdives=json.loads((ROOT/'editorial_deepdives.json').read_text())
+tracks=json.loads((ROOT/'tracks.json').read_text(encoding='utf-8'))
+deepdives=json.loads((ROOT/'editorial_deepdives.json').read_text(encoding='utf-8'))
 deepdive_map={(e['artist'].casefold(),e['title'].casefold()):e['sections'] for e in deepdives}
 assert len(deepdive_map)==len(deepdives), 'Duplicate deep-dive artist/title key'
 
 # Features use one editorial source for the client and crawlable pages.
-guides=json.loads((ROOT/'guides.json').read_text())
-feature_data=json.loads((ROOT/'features.json').read_text())
+guides=json.loads((ROOT/'guides.json').read_text(encoding='utf-8'))
+feature_data=json.loads((ROOT/'features.json').read_text(encoding='utf-8'))
 features=feature_data['features']
-app=DIST/'app.js'
-client=app.read_text()
-client=re.sub(r' const features=\[.*?\];\n(?= function featureTracks)', ' const features='+json.dumps(features,ensure_ascii=False)+';\n',client,flags=re.S)
-client=re.sub(r' const featurePolicy=.*?;\n', ' const featurePolicy='+json.dumps(feature_data['policy'],ensure_ascii=False)+';\n',client)
-client=re.sub(r' const listeningGuides=.*?;\n', ' const listeningGuides='+json.dumps(guides,ensure_ascii=False)+';\n',client)
-app.write_text(client)
+from frontend import build_frontend
+build_frontend(ROOT,DIST,features,feature_data['policy'],guides)
 def feature_tracks(f):
     return select_feature_tracks(tracks,f)
 features=[f for f in features if len(feature_tracks(f))>=3 and f.get('editorial')]
@@ -55,10 +51,10 @@ for t in tracks:
     t['researchedSamples']=sample_projection(t)
     t['review']=review_state(t,t['deepdives'])
 (ROOT/'audit-reports').mkdir(exist_ok=True)
-(ROOT/'audit-reports'/'maintenance.json').write_text(json.dumps([dict(id=t['id'],artist=t['artist'],title=t['title'],**t['review']) for t in tracks],ensure_ascii=False,indent=2)+'\n')
+(ROOT/'audit-reports'/'maintenance.json').write_text(json.dumps([dict(id=t['id'],artist=t['artist'],title=t['title'],**t['review']) for t in tracks],ensure_ascii=False,indent=2)+'\n', encoding='utf-8')
 shelves=load_shelves(ROOT,tracks,deepdives)
-(DIST/'tracks.js').write_text('window.CRATE_SHELVES = '+json.dumps(shelves,ensure_ascii=False)+';\nwindow.TRACKS = '+json.dumps(tracks,ensure_ascii=False).replace('</','<\\/')+';\n')
-base=(DIST/'index.html').read_text()
+(DIST/'tracks.js').write_text('window.CRATE_SHELVES = '+json.dumps(shelves,ensure_ascii=False)+';\nwindow.TRACKS = '+json.dumps(tracks,ensure_ascii=False).replace('</','<\\/')+';\n', encoding='utf-8')
+base=(DIST/'index.html').read_text(encoding='utf-8')
 base=re.sub(r'<script type="application/ld\+json">.*?</script>', '', base, flags=re.S)
 base=re.sub(r'<main id="view" tabindex="-1">.*?</main>', '<main id="view" tabindex="-1"></main>', base, flags=re.S)
 base=re.sub(r'<!-- SHARING_METADATA -->.*?<!-- /SHARING_METADATA -->', '', base, flags=re.S)
@@ -81,11 +77,11 @@ for t in tracks:
     page=page.replace('id="hero"','id="hero" hidden')
     ld={'@context':'https://schema.org','@type':'Article','headline':t['title']+' — '+t['artist'],'author':{'@type':'Person','name':'DJ Naoyaman'},'datePublished':t.get('datePublished','2026-10-13'),'inLanguage':'ja','url':HOST+'/songs/'+t['id']+'.html'}
     page=page.replace('</head>','<script type="application/ld+json">'+json.dumps(ld,ensure_ascii=False)+'</script></head>')
-    (p/(t['id']+'.html')).write_text(page)
+    (p/(t['id']+'.html')).write_text(page, encoding='utf-8')
     md='# '+t['title']+'\n\n'+t['artist']+' / '+str(t['year'])+' / '+t['region']+'\n\n## '+t['essayTitle']+'\n\n'+'\n\n'.join(t['essay'])+'\n\n## 制作背景\n\n'+'\n\n'.join('### '+f['title']+'\n\n'+f['text'] for f in t['facts'])+'\n\n## サンプル元\n\n'+'\n\n'.join(s['artist']+' — '+s['title']+'\n\n'+s['role']+('\n\nhttps://www.youtube.com/watch?v='+s['youtube']['id'] if s.get('youtube') else '') for s in t['samples'])+'\n\n## 出典\n\n'+'\n'.join('- ['+s['label']+']('+s['url']+')' for s in t['sources'])+'\n'
     for section in t.get('deepdives', []):
         md+='\n## '+section['heading']+'\n\n'+section['text']+'\n\n参考資料: ['+section['sourceLabel']+']('+section['source']+')\n'
-    (p/(t['id']+'.md')).write_text(md)
+    (p/(t['id']+'.md')).write_text(md, encoding='utf-8')
     links.append(HOST+'/songs/'+t['id']+'.html')
 # Search engines need crawlable artist hubs, not only JavaScript hash routes.
 artist_names=sorted({t['artist'] for t in tracks},key=str.casefold)
@@ -104,30 +100,30 @@ for artist in artist_names:
     page=re.sub(r'<link rel="canonical" href="[^"]*">','<link rel="canonical" href="'+url+'">',page)
     page=page.replace('<head>','<head><script>window.INITIAL_ROUTE='+json.dumps('#/artist/'+quote(artist,safe=''))+';</script>',1)
     page=page.replace('id="hero"','id="hero" hidden')
-    (artist_dir/(slug+'.html')).write_text(page)
+    (artist_dir/(slug+'.html')).write_text(page, encoding='utf-8')
     links.append(url)
-(DIST/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+html.escape(u)+'</loc></url>' for u in [HOST+'/']+links)+'</urlset>')
-(DIST/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+HOST+'/sitemap.xml\n')
-(DIST/'llms.txt').write_text('# Crate Diggin’\n\nA Guide to Sampled Mind & Vintage Grooves\n\n選曲・編集・文責 DJ Naoyaman。事実と私見を分け、出典を示すHip Hopガイド。\n\n'+'\n'.join('- ['+t['title']+']('+HOST+'/songs/'+t['id']+'.md)' for t in tracks)+'\n')
+(DIST/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+html.escape(u)+'</loc></url>' for u in [HOST+'/']+links)+'</urlset>', encoding='utf-8')
+(DIST/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+HOST+'/sitemap.xml\n', encoding='utf-8')
+(DIST/'llms.txt').write_text('# Crate Diggin’\n\nA Guide to Sampled Mind & Vintage Grooves\n\n選曲・編集・文責 DJ Naoyaman。事実と私見を分け、出典を示すHip Hopガイド。\n\n'+'\n'.join('- ['+t['title']+']('+HOST+'/songs/'+t['id']+'.md)' for t in tracks)+'\n', encoding='utf-8')
 # Machine-readable discovery guide: source-backed editorial pages, not an indexing guarantee.
-(DIST/'llms.txt').write_text('# Crate Diggin’ — Hip Hop & Sampling Archive\n\n> DJ Naoyamanが選曲・編集するHip Hop、サンプリング、音楽文化の出典付きアーカイブ。\n\n## Start here\n- [ホーム]('+HOST+'/)\n- [サイトマップ]('+HOST+'/sitemap.xml)\n- [全楽曲のMarkdown]('+HOST+'/llms-full.txt)\n\n## Artists\n'+''.join('- ['+a+']('+HOST+'/artists/'+artist_slugs[a]+'.html)\n' for a in artist_names)+'\n## Songs\n'+''.join('- ['+t['artist']+' — '+t['title']+']('+HOST+'/songs/'+t['id']+'.md)\n' for t in tracks)+'\n## Editorial policy\n楽曲の歴史的事実と編集者の解釈は区別しています。各楽曲ページの出典を確認してください。YouTubeへのリンクは公式配信や参考音源の案内であり、音源の権利を主張しません。\n')
-(DIST/'llms-full.txt').write_text('\n\n'.join((DIST/'songs'/(t['id']+'.md')).read_text() for t in tracks))
-(DIST/'404.html').write_text('<!doctype html><html lang="ja"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Crate Diggin’</title><link rel="stylesheet" href="'+BASE_PATH+'/style.css"><body><main style="padding:10vw"><h1 class="section-title">KEEP DIGGIN’.</h1><p>このページは見つかりませんでした。</p><a href="'+BASE_PATH+'/">クレートへ戻る</a></main></body></html>')
+(DIST/'llms.txt').write_text('# Crate Diggin’ — Hip Hop & Sampling Archive\n\n> DJ Naoyamanが選曲・編集するHip Hop、サンプリング、音楽文化の出典付きアーカイブ。\n\n## Start here\n- [ホーム]('+HOST+'/)\n- [サイトマップ]('+HOST+'/sitemap.xml)\n- [全楽曲のMarkdown]('+HOST+'/llms-full.txt)\n\n## Artists\n'+''.join('- ['+a+']('+HOST+'/artists/'+artist_slugs[a]+'.html)\n' for a in artist_names)+'\n## Songs\n'+''.join('- ['+t['artist']+' — '+t['title']+']('+HOST+'/songs/'+t['id']+'.md)\n' for t in tracks)+'\n## Editorial policy\n楽曲の歴史的事実と編集者の解釈は区別しています。各楽曲ページの出典を確認してください。YouTubeへのリンクは公式配信や参考音源の案内であり、音源の権利を主張しません。\n', encoding='utf-8')
+(DIST/'llms-full.txt').write_text('\n\n'.join((DIST/'songs'/(t['id']+'.md')).read_text(encoding='utf-8') for t in tracks), encoding='utf-8')
+(DIST/'404.html').write_text('<!doctype html><html lang="ja"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Crate Diggin’</title><link rel="stylesheet" href="'+BASE_PATH+'/style.css"><body><main style="padding:10vw"><h1 class="section-title">KEEP DIGGIN’.</h1><p>このページは見つかりませんでした。</p><a href="'+BASE_PATH+'/">クレートへ戻る</a></main></body></html>', encoding='utf-8')
 print(f'Generated {len(tracks)} songs, source candidates, sitemap and Markdown. Data validation passed.')
 
 # Search, sharing and machine-readable views use the same editorial records.
 from brand_assets import icon, social_image, write_icons
 write_icons(DIST)
-(DIST/'site.webmanifest').write_text(json.dumps({'name':'Crate Diggin’','short_name':'Crate Diggin’','start_url':'/','display':'standalone','theme_color':'#006cb6','background_color':'#ffffff','icons':[{'src':'/icon-192.png','sizes':'192x192','type':'image/png'},{'src':'/icon-512.png','sizes':'512x512','type':'image/png'}]}))
+(DIST/'site.webmanifest').write_text(json.dumps({'name':'Crate Diggin’','short_name':'Crate Diggin’','start_url':'/','display':'standalone','theme_color':'#006cb6','background_color':'#ffffff','icons':[{'src':'/icon-192.png','sizes':'192x192','type':'image/png'},{'src':'/icon-512.png','sizes':'512x512','type':'image/png'}]}), encoding='utf-8')
 for n in [192,512]:icon(n).save(DIST/f'icon-{n}.png')
 (DIST/'og').mkdir(exist_ok=True)
 social_image().save(DIST/'og-image.png')
 def enhance(path,title,description,url,img,ld,article=False):
-    content=path.read_text()
+    content=path.read_text(encoding='utf-8')
     content=re.sub(r'<!-- SHARING_METADATA -->.*?<!-- /SHARING_METADATA -->', '', content, flags=re.S)
     content=re.sub(r'<meta name="(?:author|robots)" content="[^"]*">|<link (?:rel="apple-touch-icon"[^>]*|rel="icon" sizes="32x32"[^>]*|rel="alternate icon"[^>]*|rel="manifest"[^>]*)>', '', content)
     content=re.sub(r'<meta (?:property="og:[^"]+"|name="twitter:[^"]+") content="[^"]*">','',content)
-    version=json.loads((ROOT/'releases.json').read_text())['version']
+    version=json.loads((ROOT/'releases.json').read_text(encoding='utf-8'))['version']
     img+='?v='+version
     tags=[('og:title',title),('og:description',description),('og:type','article' if article else 'website'),('og:url',url),('og:site_name','Crate Diggin’'),('og:locale','ja_JP'),('og:image',img),('og:image:width','1200'),('og:image:height','630'),('og:image:alt',title+' — Crate Diggin’')]
     head=''.join('<meta property="'+k+'" content="'+html.escape(v,quote=True)+'">' for k,v in tags)
@@ -136,14 +132,14 @@ def enhance(path,title,description,url,img,ld,article=False):
     head+='<script type="application/ld+json">'+json.dumps(ld,ensure_ascii=False).replace('</',r'<\/')+'</script>'
     content=content.replace('</head>','<!-- SHARING_METADATA -->'+head+'<!-- /SHARING_METADATA --></head>')
     content=content.replace('公式YouTubeの連続再生','YouTube音源の連続再生')
-    path.write_text(content)
+    path.write_text(content, encoding='utf-8')
 # Static artist links remain available to crawlers without JavaScript.
 for t in tracks:
     path=DIST/'songs'/(t['id']+'.html')
-    page=path.read_text()
+    page=path.read_text(encoding='utf-8')
     artist_href=BASE_PATH+'/artists/'+artist_slugs[t['artist']]+'.html'
     page=page.replace('<p>'+html.escape(t['artist'])+'</p>','<p><a href="'+artist_href+'">'+html.escape(t['artist'])+'</a></p>',1)
-    path.write_text(page)
+    path.write_text(page, encoding='utf-8')
 for artist in artist_names:
     slug=artist_slugs[artist]
     url=HOST+'/artists/'+slug+'.html'
@@ -158,7 +154,7 @@ for t in tracks:
 # Expose song links in HTML before JavaScript runs; the client then replaces the view.
 artist_directory='<section aria-label="アーティストから探す"><h2>ARTIST INDEX</h2><p>アーティスト別の収録曲一覧</p><ul>'+''.join('<li><a href="'+BASE_PATH+'/artists/'+artist_slugs[name]+'.html">'+html.escape(name)+'</a></li>' for name in artist_names)+'</ul></section>'
 listing='<section aria-label="収録曲"><h2>THE RECORD CRATE</h2>'+''.join('<article><h3><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+html.escape(t['title'])+'</a></h3><p>'+'<a href="'+BASE_PATH+'/artists/'+artist_slugs[t['artist']]+'.html">'+html.escape(t['artist'])+'</a> / '+str(t['year'])+'</p><p>'+html.escape(t['deck'])+'</p></article>' for t in tracks)+'</section>'
-home=DIST/'index.html';content=home.read_text();content=re.sub(r'<main id="view" tabindex="-1">.*?</main>','<main id="view" tabindex="-1">'+artist_directory+listing+'</main>',content,flags=re.S);home.write_text(content)
+home=DIST/'index.html';content=home.read_text(encoding='utf-8');content=re.sub(r'<main id="view" tabindex="-1">.*?</main>','<main id="view" tabindex="-1">'+artist_directory+listing+'</main>',content,flags=re.S);home.write_text(content, encoding='utf-8')
 enhance(home,'Crate Diggin’ — DJ NaoyamanのHip Hop・サンプリングガイド','楽曲から元ネタへ。Hip Hop、サンプリング、グラフィティを出典付きでたどる音楽ガイド。',HOST+'/',HOST+'/og-image.png',{'@context':'https://schema.org','@type':'WebSite','name':'Crate Diggin’','url':HOST+'/','inLanguage':'ja','author':{'@type':'Person','name':'DJ Naoyaman'}})
 print('Generated per-song social cards, SEO metadata, structured data, touch icons and HTML links.')
 
@@ -176,29 +172,29 @@ for f in features:
     page=re.sub(r'<main id="view" tabindex="-1">.*?</main>','<main id="view" tabindex="-1">'+body+'</main>',base,flags=re.S)
     page=page.replace('<head>','<head><script>window.INITIAL_ROUTE='+json.dumps('#/feature/'+f['id'])+';</script>',1)
     page=re.sub(r'<link rel="canonical" href="[^"]*">','<link rel="canonical" href="'+HOST+'/features/'+f['id']+'.html">',page)
-    target=feature_dir/(f['id']+'.html');target.write_text(page)
+    target=feature_dir/(f['id']+'.html');target.write_text(page, encoding='utf-8')
     url=HOST+'/features/'+f['id']+'.html'
     enhance(target,f['name']+' — Features / Crate Diggin’',e['title'],url,HOST+'/og-image.png',{'@context':'https://schema.org','@type':'Article','headline':e['title'],'author':{'@type':'Person','name':'DJ Naoyaman'},'inLanguage':'ja','url':url})
     links.append(url)
     for artist in set(f.get('aliases',[])+(f['names'] if f['type']=='artist' else [])):
         if artist in artist_slugs:
             target_artist=artist_dir/(artist_slugs[artist]+'.html')
-            text=target_artist.read_text().replace('<ul>','<p><a href="'+BASE_PATH+'/features/'+f['id']+'.html">'+esc(e['title'])+' — 特集と考察を読む ↗</a></p><ul>',1)
-            target_artist.write_text(text)
-(DIST/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+html.escape(u)+'</loc></url>' for u in [HOST+'/']+links)+'</urlset>')
-with (DIST/'llms.txt').open('a') as output:
+            text=target_artist.read_text(encoding='utf-8').replace('<ul>','<p><a href="'+BASE_PATH+'/features/'+f['id']+'.html">'+esc(e['title'])+' — 特集と考察を読む ↗</a></p><ul>',1)
+            target_artist.write_text(text, encoding='utf-8')
+(DIST/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+html.escape(u)+'</loc></url>' for u in [HOST+'/']+links)+'</urlset>', encoding='utf-8')
+with (DIST/'llms.txt').open('a', encoding='utf-8') as output:
     output.write('\n## Features\n'+''.join('- ['+f['name']+']('+HOST+'/features/'+f['id']+'.html)\n' for f in features))
 
 old_feature=feature_dir/'tribe-production.html'
-old_feature.write_text('<!doctype html><html lang="ja"><head><meta charset="utf-8"><title>A Tribe Called Quest — Crate Diggin’</title><link rel="canonical" href="'+HOST+'/features/tribe.html"><meta http-equiv="refresh" content="0;url='+HOST+'/features/tribe.html"></head><body><a href="'+HOST+'/features/tribe.html">A Tribe Called Questの特集へ</a></body></html>')
+old_feature.write_text('<!doctype html><html lang="ja"><head><meta charset="utf-8"><title>A Tribe Called Quest — Crate Diggin’</title><link rel="canonical" href="'+HOST+'/features/tribe.html"><meta http-equiv="refresh" content="0;url='+HOST+'/features/tribe.html"></head><body><a href="'+HOST+'/features/tribe.html">A Tribe Called Questの特集へ</a></body></html>', encoding='utf-8')
 
 # A single source of version history, also available to the browser.
-release=json.loads((ROOT/'releases.json').read_text())
+release=json.loads((ROOT/'releases.json').read_text(encoding='utf-8'))
 assert re.fullmatch(r'\d+\.\d+',release['version'])
 assert all(e['kind']=='major' for e in release['history'])
-(DIST/'releases.js').write_text('window.CRATE_SITE_URL = '+json.dumps(HOST)+'; window.CRATE_RELEASE = '+json.dumps(release,ensure_ascii=False).replace('</','<\\/')+';\n')
+(DIST/'releases.js').write_text('window.CRATE_SITE_URL = '+json.dumps(HOST)+'; window.CRATE_RELEASE = '+json.dumps(release,ensure_ascii=False).replace('</','<\\/')+';\n', encoding='utf-8')
 for page in DIST.rglob('*.html'):
-    text=page.read_text().replace('https://crate-diggin.mossyelf3.chatgpt.site',HOST)
+    text=page.read_text(encoding='utf-8').replace('https://crate-diggin.mossyelf3.chatgpt.site',HOST)
     if '/app.js' in text and '/releases.js' not in text:
         text=text.replace('<script src="/app.js"','<script src="/releases.js" defer></script><script src="/app.js"')
     if BASE_PATH:
@@ -217,11 +213,11 @@ for page in DIST.rglob('*.html'):
         text = re.sub(r'<link\b(?=[^>]*\brel="apple-touch-icon")[^>]*>', '', text)
         text = text.replace('</head>', icon_tag + '</head>', 1)
         assert icon_tag in text and text.count('rel="apple-touch-icon"') == 1, 'Expected exactly one fresh touch icon link'
-    page.write_text(text)
-manifest=json.loads((DIST/'site.webmanifest').read_text())
+    page.write_text(text, encoding='utf-8')
+manifest=json.loads((DIST/'site.webmanifest').read_text(encoding='utf-8'))
 manifest['start_url']=BASE_PATH+'/'
 manifest['scope']=BASE_PATH+'/'
 for item in manifest['icons']:item['src']=BASE_PATH+'/'+item['src'].lstrip('/')
-(DIST/'site.webmanifest').write_text(json.dumps(manifest))
-(DIST/'.nojekyll').write_text('')
+(DIST/'site.webmanifest').write_text(json.dumps(manifest), encoding='utf-8')
+(DIST/'.nojekyll').write_text('', encoding='utf-8')
 print('Version '+release['version']+' / GitHub Pages base '+BASE_PATH)
