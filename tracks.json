@@ -39336,5 +39336,1238 @@
       "letteringNote": "作品の転載を用いない独自の文字表現。"
     },
     "curationNote": "選定したのは出典で同定した商業リリースの録音。ミックスに収録された短い抜粋の編集・検閲違いまでは未確認。別リミックスとして登録していない。"
+  },
+  {
+    "id": "akinyele-three",
+    "artist": "Akinyele",
+    "title": "Three",
+    "album": "Aktapuss - The Soundtrack",
+    "label": "Volcano / Jive",
+    "producer": "Key Tec / Wave Form 7 Productions",
+    "producers": [
+      "Key Tec",
+      "Wave Form 7 Productions"
+    ],
+    "sources": [
+      {
+        "label": "Apple Music: Aktapuss - The Soundtrack",
+        "url": "https://music.apple.com/us/album/aktapuss-the-soundtrack/548920069",
+        "kind": "digital-distributor"
+      },
+      {
+        "label": "Qobuz: Aktapuss track-level credits",
+        "url": "https://www.qobuz.com/no-en/album/aktapuss-akinyele/0881034149886",
+        "kind": "digital-distributor-credits"
+      },
+      {
+        "label": "Dig It Out: Akinyele original US LP and12-inch catalog",
+        "url": "https://dig-it-out.blogspot.com/2006/11/akinyele.html",
+        "kind": "collector-physical-release-transcription"
+      },
+      {
+        "label": "Hip Tank Records: Aktapuss original US2LP",
+        "url": "https://hiptankrecords.shop-pro.jp/?pid=155694068",
+        "kind": "specialist-physical-record-dealer"
+      },
+      {
+        "label": "All The Lyrics: Three",
+        "url": "https://www.allthelyrics.com/lyrics/akinyele/three-lyrics-85717.html",
+        "kind": "community-lyric-transcription"
+      },
+      {
+        "label": "AllHipHop: Akinyele Found Pt2 interview",
+        "url": "https://allhiphop.com/features/akinyele-found-pt-2/",
+        "kind": "artist-interview"
+      },
+      {
+        "label": "Volcano公式配信：Three",
+        "url": "https://www.youtube.com/watch?v=HRn4aX5vEy0",
+        "kind": "primary_label_metadata"
+      }
+    ],
+    "deck": "テレビとラップの名前を組み替える、露悪的なパンチラインの連鎖。『Aktapuss』の一場面。",
+    "essayTitle": "三というお題から、どこまで飛べるか",
+    "facts": [
+      {
+        "title": "作品と年代",
+        "text": "1999年『Aktapuss (The Soundtrack)』収録。Apple MusicとVolcano公式音源で作品・年代を照合。",
+        "sources": [
+          0,
+          6
+        ]
+      },
+      {
+        "title": "制作と録音",
+        "text": "Volcano提供のアルバム音源はKey Tec / Wave Form 7 Productionsを制作、CJ Mooreを録音・ミックスとして記載する。",
+        "sources": [
+          6
+        ]
+      },
+      {
+        "title": "アルバム版とシングル版",
+        "text": "コレクターによる盤面クレジットの転記は、アルバムと「Take A Lick」シングルB面で制作表記・曲尺が異なることを示す。本頁は公式配信のアルバム版を選定。",
+        "sources": [
+          2,
+          6
+        ]
+      },
+      {
+        "title": "作品の背景",
+        "text": "Qobuz掲載のKeith Farley／TiVo評は、Lionel C. Martin監督の同名映画のサウンドトラックと説明する。AllHipHopの本人インタビューは、Lord Finesseと公演へ出向いたMCとしての経験を伝える。",
+        "sources": [
+          1,
+          5
+        ]
+      }
+    ],
+    "year": 1999,
+    "yearBasis": "1999年の『Aktapuss』アルバム収録版。配信各社で日付に相違があるため初出日は断定しない。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "members": "Akinyele",
+    "youtube": {
+      "id": "HRn4aX5vEy0",
+      "url": "https://www.youtube.com/watch?v=HRn4aX5vEy0",
+      "title": "Three",
+      "channel": "Akinyele - Topic",
+      "official": true,
+      "type": "Official Audio",
+      "verification": "曲名・演者・収録作品の掲載情報とoEmbedを照合。実音声・原盤との同一性・埋め込み可否・地域制限は未検証。",
+      "verified": "2026-10-16"
+    },
+    "art": {
+      "word": "THREE",
+      "lines": [
+        "THREE"
+      ],
+      "tag": "AKINYELE",
+      "style": "piece",
+      "seed": 371879914,
+      "profile": "ny-subway",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "essay": [
+      "「Three」は1999年の『Aktapuss』に収録されたAkinyeleの一曲。同作はLionel C. Martinが監督した同名映画のサウンドトラックでもある。性的な題材を前面に出した作品世界のなかで、本曲は数字の三をお題に、次々と連想を転がしていく。親密な恋愛を描くというより、聴き手の共有知識を使って意表を突くラップとして捉えたい。",
+      "ヴァースにはテレビ番組の登場人物や音楽グループの名前が現れ、実在の人間関係とは無関係な、挑発的な組み合わせへ飛躍する。もちろんそれは人物についての事実の主張ではない。おもしろさを狙う仕掛けは、誰もが知る名前を別の文脈へ強引に移すことにある。同時に、その笑いが人物の性的な対象化に依存する点は、作品の時代性と限界として残る。",
+      "アルバムにはLarge ProfessorやBuckwildらが参加するが、「Three」の制作クレジットはKey Tec / Wave Form 7 Productionsに結びつく。Akinyeleの初期作の印象から、全曲を同じ制作人脈に帰してしまわないことが大切だ。曲単位で制作者を追うと、ひとりのMCが複数の制作陣の上で、同じ露悪的なキャラクターを維持している構図が見えてくる。",
+      "AkinyeleはAllHipHopのインタビューで、Lord Finesseとともに他のMCの公演へ出向き、アカペラで存在感を示した経験を語っている。この証言を脇に置いて本曲へ戻ると、題材の過激さだけでなく、短い発想を連射して注意を奪うというMCの競争心にも目を向けられる。パンチラインの仕掛けと、その仕掛けが向けられる対象は、分けて考えたい。"
+    ],
+    "samples": [],
+    "sampleStatus": "確認できた引用関係のみを掲載。未掲載はサンプル不使用の認定ではない。",
+    "listening": [
+      "反復フックのお題と、ヴァースの固有名詞の連想がどう往復するか。",
+      "一つの長い筋書きではなく、次々に提示される短い仮定が注意をつなぐ構成。",
+      "歌詞の参照人物を把握したうえで、音の似方と意外な組み合わせのどちらがパンチラインを支えるか確かめる。"
+    ],
+    "context": "テレビとラップの名前を組み替える、露悪的なパンチラインの連鎖。『Aktapuss』の一場面。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "addedOrder": 367,
+    "datePublished": "2026-10-16",
+    "noteReviewedAt": "2026-10-16",
+    "editorialStatus": "本人・制作陣の証言と曲別資料を照合。聴き方は資料に基づく編集上の考察。実再生は未検証。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "出典で同定した収録版を掲載。ミックス抜粋との編集差、実音声の同一性、埋め込み再生・地域制限は未検証。"
+  },
+  {
+    "id": "d-d-all-stars-1-2-pass-it",
+    "artist": "D&D All-Stars",
+    "title": "1, 2 Pass It",
+    "album": "The D&D Project",
+    "label": "Arista / Arista Street",
+    "producer": "DJ Premier",
+    "producers": [
+      "DJ Premier"
+    ],
+    "sources": [
+      {
+        "label": "1,2 Pass It original1995 US12-inch, Crib Records",
+        "url": "https://www.cribrecords.jp/product/5359",
+        "kind": "physical-record dealer"
+      },
+      {
+        "label": "The D&D Project single, Groovenut Records",
+        "url": "https://www.groovenutrecords.net/products/detail/16807",
+        "kind": "physical-record dealer"
+      },
+      {
+        "label": "Billboard September30 1995",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/90s/1995/BB-1995-09-30.pdf",
+        "kind": "contemporary trade press"
+      },
+      {
+        "label": "So Wassup? Episode15, DJ Premier",
+        "url": "https://www.youtube.com/watch?v=dEDblLlAKBQ",
+        "kind": "primary producer video; title/channel verified, narration via attributed press report"
+      },
+      {
+        "label": "Premier recounts D&D recording session, HotNewHipHop",
+        "url": "https://www.hotnewhiphop.com/406189-jay-z-got-denied-entry-into-krs-one-and-fat-joes-1-2-pass-it-session-news",
+        "kind": "secondary report quoting primary producer testimony"
+      },
+      {
+        "label": "D&D All Stars album track01, Illest Facts",
+        "url": "https://www.youtube.com/watch?v=takrljtsGP8",
+        "kind": "unofficial album-track audio metadata"
+      },
+      {
+        "label": "Hitmakers June16 1995",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/Hitmaker/95/Hitmakers-1995-06-16.pdf",
+        "kind": "contemporary trade press"
+      }
+    ],
+    "deck": "D&D Studiosに集まった声が一つのビートを回す。DJ Premierが束ねた、1995年のポッセ・カット。",
+    "essayTitle": "スタジオの名前が、そのまま集団の名前になる",
+    "facts": [
+      {
+        "title": "原曲とリミックス",
+        "text": "1995年Aristaの12インチはAlbum VersionとRemixを分け、いずれもDJ Premier制作と記載。Big C「Look Alive」はDiamond D制作の別曲。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "マイクをつなぐ参加者",
+        "text": "Mad Lion、Doug E. Fresh、KRS-One、Fat Joe、Smif-N-Wessun、Jeru the Damajaが参加する。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "制作時の回想",
+        "text": "DJ Premierの「So Wassup?」での証言を伝えるHotNewHipHop記事は、D&Dの集まりでビートを作り、ヴァースが用意できた人から録音したと報じている。",
+        "sources": [
+          3,
+          4
+        ]
+      }
+    ],
+    "year": 1995,
+    "yearBasis": "1995年のアルバム版を選定。同年のDJ Premierリミックスとは別版。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "members": "Mad Lion / Doug E. Fresh / KRS-One / Fat Joe / Smif-N-Wessun / Jeru the Damaja",
+    "youtube": {
+      "id": "takrljtsGP8",
+      "url": "https://www.youtube.com/watch?v=takrljtsGP8",
+      "title": "D&D All Stars - 01 1,2 Pass It [Produced By DJ Premier]",
+      "channel": "Illest Facts",
+      "type": "User Upload",
+      "official": false,
+      "verified": "2026-10-16",
+      "verification": "曲名・演者・収録作品の掲載情報とoEmbedを照合。実音声・原盤との同一性・埋め込み可否・地域制限は未検証。一般投稿であり、公式音源とは表示しない。"
+    },
+    "art": {
+      "word": "1, 2 PASS IT",
+      "lines": [
+        "1, 2 PASS IT"
+      ],
+      "tag": "D&D ALL-STARS",
+      "style": "piece",
+      "seed": 3514591166,
+      "profile": "ny-subway",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "essay": [
+      "「1, 2 Pass It」は『The D&D Project』を代表する一曲。Mad Lion、Doug E. Fresh、KRS-One、Fat Joe、Smif-N-Wessun、Jeru the Damajaという面々が、D&D All-Starsの名の下にマイクをつなぐ。固定メンバーのグループが作った通常のアルバム曲というより、同じ制作拠点に集まった人々の接点をレコードにしたポッセ・カットとして聴きたい。",
+      "DJ Premierは自身の映像企画『So Wassup?』で、D&DのオーナーDavid LotwinとDoug Gramaが開いた集まりを振り返っている。紹介記事が伝える彼の証言では、その場でビートを作り、ヴァースが用意できた人から録音していく状況だったという。完成品の顔ぶれだけを見ると計画されたスター競演に見えるが、発想の核には、同じ空間にいてすぐ応じられる者同士の競争と交流がある。",
+      "人数の多さを情報量として消化するより、一人が終わって次の一人が入る境目に耳を置いてみたい。声質、語尾、言葉の詰め方が変わるたびに、同じリズムの見え方も変わる。Premierの仕事を、各MCのために別々の舞台を用意することではなく、違いを聴き分けられる共通の土台を保つこととして捉えると、この曲の集団性が見えてくる。",
+      "1995年の12インチにはAlbum VersionとRemixがあり、どちらもPremierが制作している。さらにアカペラとそれぞれのインストも収録され、ラップとトラックを切り離して考えられる構成だ。まず元の版で声の連なりを覚え、次にリミックスへ進むと、同じ参加者でも伴奏の違いが全体の印象をどう変えるかを比較できる。カップリングのBig C「Look Alive」はDiamond Dの制作で、同じ盤から別のプロデューサーへ掘り進めるのも面白い。"
+    ],
+    "samples": [],
+    "sampleStatus": "確認できた引用関係のみを掲載。未掲載はサンプル不使用の認定ではない。",
+    "listening": [
+      "MCが入れ替わる境目で、声質と語尾の置き方を比較する。",
+      "Album VersionとPremier Remixを区別し、同じ声の連なりへの伴奏の作用を比較する。",
+      "アカペラとインストを別々に聴ける12インチの構成から、声とビートの役割分担を考える。"
+    ],
+    "context": "D&D Studiosに集まった声が一つのビートを回す。DJ Premierが束ねた、1995年のポッセ・カット。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "addedOrder": 368,
+    "datePublished": "2026-10-16",
+    "noteReviewedAt": "2026-10-16",
+    "editorialStatus": "本人・制作陣の証言と曲別資料を照合。聴き方は資料に基づく編集上の考察。実再生は未検証。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "出典で同定した収録版を掲載。ミックス抜粋との編集差、実音声の同一性、埋め込み再生・地域制限は未検証。"
+  },
+  {
+    "id": "jeru-me-or-the-papes",
+    "artist": "Jeru the Damaja",
+    "title": "Me or the Papes",
+    "album": "Wrath of the Math",
+    "label": "Payday / FFRR",
+    "producer": "DJ Premier",
+    "producers": [
+      "DJ Premier"
+    ],
+    "sources": [
+      {
+        "label": "Me Or The Papes — official UMG supplied audio",
+        "url": "https://www.youtube.com/watch?v=g9S_sfBfIUA",
+        "kind": "rights-holder supplied metadata"
+      },
+      {
+        "label": "Jeru The Damaja’s Me Or The Papes Gets Official YouTube Debut — uDiscover",
+        "url": "https://www.udiscovermusic.com/news/jeru-me-or-the-papas-video/",
+        "kind": "label-affiliated report"
+      },
+      {
+        "label": "The Source March 1997 single review, archived by DJ Sav One",
+        "url": "https://www.hiphopnostalgia.com/2015/03/jeru-damaja-me-or-papes-source-397.html",
+        "kind": "contemporary critical review archived"
+      },
+      {
+        "label": "MOVING KEYS: DJ PREMIER — Soul Sides",
+        "url": "https://soul-sides.com/2010/05/moving-keys-dj-premier.html",
+        "kind": "specialist criticism"
+      },
+      {
+        "label": "Forgotten Treasure: The Ahmad Jamal Trio The Awakening — Music Is My Sanctuary",
+        "url": "https://musicismysanctuary.com/forgotten-treasure-ahmad-jamal-trio-awakening-1970",
+        "kind": "sample-focused editorial"
+      },
+      {
+        "label": "Pink Floyd's The Dark Side of the Moon: Covers and Samples — Ultimate Classic Rock",
+        "url": "https://ultimateclassicrock.com/pink-floyd-dark-side-of-the-moon-covers-samples/",
+        "kind": "sample-focused editorial"
+      },
+      {
+        "label": "CMJ New Music Monthly December 1996 — Payday/FFRR advertisement",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/CMJ/New-Music/CMJ-New-Music-1996-12.pdf",
+        "kind": "contemporary label advertisement"
+      }
+    ],
+    "deck": "愛情なのか、金なのか。Jeruの問いを、DJ Premierが刻み直すピアノと金銭の音が挟み込む。",
+    "essayTitle": "恋愛の問いを、ピアノの切れ目に置く",
+    "facts": [
+      {
+        "title": "作品と制作",
+        "text": "1996年『Wrath of the Math』収録。公式UMG音源はDJ Premierを制作・ミックス、Kendrick Jeru Davisを作詞・作曲として記載。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "原曲とリミックス",
+        "text": "当時のThe Source評は「Me or the Papes」と「Me, Not the Paper」を区別し、恋愛と物質主義から偽のタフガイへの批判へ主題が変わると論じる。",
+        "sources": [
+          2,
+          3
+        ]
+      },
+      {
+        "title": "参照音の資料",
+        "text": "Ahmad Jamal Trio「I Love Music」はMusic Is My Sanctuary、Pink Floyd「Money」のレジ音はUltimate Classic Rockが参照関係を指摘する。音声の独立比較は未実施。",
+        "sources": [
+          4,
+          5
+        ]
+      }
+    ],
+    "year": 1996,
+    "yearBasis": "1996年『Wrath of the Math』収録を基準。翌年のシングル展開や2026年の動画公開とは区別。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "members": "Jeru the Damaja",
+    "youtube": {
+      "id": "g9S_sfBfIUA",
+      "url": "https://www.youtube.com/watch?v=g9S_sfBfIUA",
+      "title": "Me Or The Papes",
+      "channel": "Jeru The Damaja - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-16",
+      "verification": "曲名・演者・収録作品の掲載情報とoEmbedを照合。実音声・原盤との同一性・埋め込み可否・地域制限は未検証。"
+    },
+    "art": {
+      "word": "ME OR THE PAPES",
+      "lines": [
+        "ME OR THE PAPES"
+      ],
+      "tag": "JERU THE DAMAJA",
+      "style": "piece",
+      "seed": 1076357451,
+      "profile": "ny-subway",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "essay": [
+      "1996年の二作目『Wrath of the Math』で、Jeruはヒップホップの価値観だけでなく、身近な人間関係にも視線を向けた。「Me or the Papes」の問いは、相手が求めているのは自分なのか、それとも金なのか、というもの。前作の「Da Bitchez」へつながる題材だが、単なる強がりとしてではなく、好意と取引の境目を疑う語りとして辿ると曲の焦点が見える。相手を分類する語り手の視線そのものにも、距離を取りながら耳を向けたい。",
+      "制作はDJ Premier。『The Source』の当時評が注目したのは、細かく切り分けられたピアノの働きだった。サンプル資料では、Ahmad Jamal Trioの「I Love Music」との接続が示されている。美しい演奏をそのまま長く流すのではなく、断片と間をラップの周囲へ配置するという聴き方が有効だ。旋律の続きを追う耳と、Jeruの言葉の続きを追う耳が、同じ拍の中で別の緊張を作る。",
+      "金銭は歌詞だけに置かれた主題ではない。Pink Floyd「Money」のレジ音が使われるという指摘からは、具体的な効果音が曲の問いを補強する仕掛けも見えてくる。現金の音が現れる位置で、語りの意味がどう変わるかを確かめたい。ピアノが内面の揺れを読み取る入口になる一方、レジの音は金という対象を手触りのあるものへ戻す。この二つを対照させると、ビートを背景ではなく語りの一部として聴ける。",
+      "次に並べたいのは、Premier自身による別曲名のリミックス「Me, Not the Paper」。当時の評は、原曲の恋愛と物質主義をめぐる主題が、こちらでは偽物のタフガイへの批判へ転じる点を指摘した。Soul Sidesも両者を、Premierのピアノ使いを比較する組として取り上げている。原曲を聴いたあとにリミックスへ進むと、同じ問題意識を別の音と語りへ移すことが、単なる伴奏交換以上の仕事だったと分かる。"
+    ],
+    "samples": [
+      {
+        "artist": "Ahmad Jamal Trio",
+        "title": "I Love Music",
+        "role": "Music Is My Sanctuaryが指摘するピアノ素材。制作者による曲別のサンプル証言ではなく、専門記事の同定として掲載。",
+        "sources": [
+          4
+        ],
+        "main": true,
+        "youtube": {
+          "id": "fW8NQgqYoVQ",
+          "url": "https://www.youtube.com/watch?v=fW8NQgqYoVQ",
+          "title": "I Love Music",
+          "channel": "Ahmad Jamal - Topic",
+          "official": true,
+          "type": "Official Audio",
+          "verified": "2026-10-16",
+          "verification": "oEmbedと権利元配信の説明で演者・曲名・作品を照合。実再生、マスター同一性、埋め込み・地域制限は未検証。"
+        }
+      },
+      {
+        "artist": "Pink Floyd",
+        "title": "Money",
+        "role": "Ultimate Classic Rockが指摘するレジの効果音。比較用は公式配信版で、サンプルに使われた盤・マスターの同一性までは確認していない。",
+        "sources": [
+          5
+        ],
+        "main": false,
+        "youtube": {
+          "id": "q9NtWkikVAE",
+          "url": "https://www.youtube.com/watch?v=q9NtWkikVAE",
+          "title": "Money",
+          "channel": "PINK FLOYD - Topic",
+          "official": true,
+          "type": "Official Audio",
+          "verified": "2026-10-16",
+          "verification": "oEmbedと権利元配信の説明で演者・曲名・作品を照合。実再生、マスター同一性、埋め込み・地域制限は未検証。"
+        }
+      }
+    ],
+    "sampleStatus": "確認できた引用関係のみを掲載。未掲載はサンプル不使用の認定ではない。",
+    "listening": [
+      "ピアノの断片の終わりとJeruのフレーズの終わりを別々に追い、両者の間に生まれる余白に注目する。",
+      "レジ音が現れる箇所を、金についての歌詞や曲名の問いと結び付けて聴く。",
+      "Me, Not the Paperへ続けて進み、ピアノ素材だけでなく批判の対象の変化を比較する。"
+    ],
+    "context": "愛情なのか、金なのか。Jeruの問いを、DJ Premierが刻み直すピアノと金銭の音が挟み込む。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "addedOrder": 369,
+    "datePublished": "2026-10-16",
+    "noteReviewedAt": "2026-10-16",
+    "editorialStatus": "本人・制作陣の証言と曲別資料を照合。聴き方は資料に基づく編集上の考察。実再生は未検証。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "出典で同定した収録版を掲載。ミックス抜粋との編集差、実音声の同一性、埋め込み再生・地域制限は未検証。"
+  },
+  {
+    "id": "pete-rock-cl-smooth-its-on-you",
+    "artist": "Pete Rock & C.L. Smooth",
+    "title": "It's on You",
+    "album": "The Main Ingredient",
+    "label": "Elektra",
+    "producer": "Pete Rock; C.L. Smooth",
+    "producers": [
+      "Pete Rock",
+      "C.L. Smooth"
+    ],
+    "sources": [
+      {
+        "label": "It's on You — Apple Music track credits",
+        "url": "https://music.apple.com/us/song/1435628710",
+        "kind": "official distributor metadata"
+      },
+      {
+        "label": "It's on You — Rhino/Elektra supplied audio",
+        "url": "https://www.youtube.com/watch?v=akrlrDTf2Yk",
+        "kind": "rights-holder supplied metadata"
+      },
+      {
+        "label": "Hitmakers November 11 1994 — Mix Show Disc-overy Club",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/Hitmaker/94/Hitmakers-1994-11-11.pdf",
+        "kind": "contemporary music trade press"
+      },
+      {
+        "label": "The Main Ingredient — Tiny Mix Tapes review",
+        "url": "https://www.tinymixtapes.com/music-review/pete-rock-cl-smooth-main-ingredient",
+        "kind": "music criticism"
+      },
+      {
+        "label": "The Main Ingredient — Time Is Illmatic track-by-track review",
+        "url": "https://timeisillmatic.me/2019/12/17/pete-rock-c-l-smooth-the-main-ingredient-november-8-1994/",
+        "kind": "specialist track criticism"
+      },
+      {
+        "label": "Chris Read The Main Ingredient 25th anniversary mix tracklist — Smoke Deep",
+        "url": "https://smokedeep.blogspot.com/2019/11/pete-rock-cl-smooth-main-ingredient.html",
+        "kind": "reproduced DJ sample-mix tracklist"
+      },
+      {
+        "label": "No Doubt / It's on You sample chain — WhoSampled",
+        "url": "https://www.whosampled.com/sample/718006/Spaze-Windu-Herr-K%C3%B6nig-Loop-%28German-Rapper%29-No-Doubt-Pete-Rock-%26-C.L.-Smooth-It%27s-on-You/",
+        "kind": "sample database"
+      }
+    ],
+    "deck": "柔らかな声のループの向こうで、C.L. Smoothは自分の失敗を待つ人々へ言葉を返す。『The Main Ingredient』終盤の、安らぎだけでは片づかない一曲。",
+    "essayTitle": "柔らかい音の中に、譲らない姿勢を置く",
+    "facts": [
+      {
+        "title": "二人の制作表記",
+        "text": "Apple MusicとRhino/Elektra公式配信はPete RockとC.L. Smoothをともにプロデューサーとして記載する。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "歌詞と音の対比",
+        "text": "Time Is Illmaticの曲別評は、柔らかなヴォーカル・ループと、転落を望む周囲へ向けたC.L. Smoothの語りの対比に注目する。",
+        "sources": [
+          4
+        ]
+      },
+      {
+        "title": "引用関係の確認範囲",
+        "text": "Chris Readのサンプル・ミックス曲目とWhoSampledは、Ahmad Jamal「The Awakening」、Tom Scott and The California Dreamers「Never My Love」を参照元に挙げる。完全な使用素材一覧とはしない。",
+        "sources": [
+          5,
+          6
+        ]
+      }
+    ],
+    "year": 1994,
+    "yearBasis": "1994年『The Main Ingredient』収録。配信曲別情報と同時代の作品資料に基づく。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "members": "Pete Rock & C.L. Smooth",
+    "youtube": {
+      "id": "akrlrDTf2Yk",
+      "url": "https://www.youtube.com/watch?v=akrlrDTf2Yk",
+      "title": "It's on You",
+      "channel": "Pete Rock - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-16",
+      "verification": "曲名・演者・収録作品の掲載情報とoEmbedを照合。実音声・原盤との同一性・埋め込み可否・地域制限は未検証。"
+    },
+    "art": {
+      "word": "IT'S ON YOU",
+      "lines": [
+        "IT'S ON YOU"
+      ],
+      "tag": "PETE ROCK & C.L. SMOOTH",
+      "style": "piece",
+      "seed": 1723763717,
+      "profile": "ny-subway",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "essay": [
+      "「It's on You」は、1994年の『The Main Ingredient』で「In the Flesh」と「Get on the Mic」の間に置かれた曲だ。大きなシングルだけを追うと見落としやすい位置だが、発売当時の業界誌Hitmakersでも注目曲に挙げられていた。アルバム後半の流れを一度受け止め、C.L. Smoothの声へ焦点を戻してみたい。デュオの魅力を、代表曲一曲の強さではなく、長いアルバムの中の濃淡として味わえる場所でもある。",
+      "楽曲のレビューが指摘するのは、柔らかなヴォーカル・ループと、自分の転落を望む周囲へ向けたラップの対比だ。心地よい伴奏だからといって、語りまで無条件に穏やかとは限らない。笑顔の裏の悪意をどう受け止め、自分の足場を保つのか。C.L. Smoothの言葉を追うと、この曲の落ち着きは、争いを知らない人の安らぎではなく、他人の視線に呑まれないための姿勢として捉え直せる。",
+      "サンプルの接続を辿ると、Ahmad Jamalの「The Awakening」と、Tom Scott and The California Dreamersの「Never My Love」が入口になる。鍵盤の運動と声の質感を別々に追ってから曲へ戻ると、音の柔らかさを一括して説明せずに済む。歌声の断片が空気を作り、その上でMCの言葉が具体的な相手へ届いていく。既存の演奏を借りるだけでなく、それぞれの役割を組み替えるという視点が、Pete Rockの制作を聴く助けになる。",
+      "公式クレジットは、Pete Rockに加えてC.L. Smoothもプロデューサーとして記している。ビートを作る人と、その上で話す人という単純な分業図だけに押し込めず、二人の名前を冠した作品として向き合いたい。『The Main Ingredient』がソウルやジャズの柔らかさを広げた作品だとしても、この曲ではその柔らかさがラップの主張を弱めてはいない。最後に「Get on the Mic」へ進むとき、声と伴奏の距離がどう変わるかも、アルバムで聴く楽しみになる。"
+    ],
+    "samples": [
+      {
+        "artist": "Ahmad Jamal Trio",
+        "title": "The Awakening",
+        "role": "Chris Readのサンプル・ミックス曲目とWhoSampledによる参照関係。実音声の独立比較は未実施。",
+        "sources": [
+          5,
+          6
+        ],
+        "main": true,
+        "youtube": {
+          "id": "L34b0ut8Loc",
+          "url": "https://www.youtube.com/watch?v=L34b0ut8Loc",
+          "title": "The Awakening",
+          "channel": "Ahmad Jamal - Topic",
+          "official": true,
+          "type": "Official Audio",
+          "verified": "2026-10-16",
+          "verification": "oEmbedと権利元配信の説明で演者・曲名・作品を照合。実再生、マスター同一性、埋め込み・地域制限は未検証。"
+        }
+      },
+      {
+        "artist": "Tom Scott & The California Dreamers",
+        "title": "Never My Love",
+        "role": "Chris Readのサンプル・ミックス曲目とWhoSampledによる参照関係。歌声の素材として聴き比べる入口であり、完全な素材一覧ではない。",
+        "sources": [
+          5,
+          6
+        ],
+        "main": false,
+        "youtube": {
+          "id": "aq1NVIJuR4A",
+          "url": "https://www.youtube.com/watch?v=aq1NVIJuR4A",
+          "title": "Never My Love",
+          "channel": "Tom Scott - Topic",
+          "official": true,
+          "type": "Official Audio",
+          "verified": "2026-10-16",
+          "verification": "oEmbedと権利元配信の説明で演者・曲名・作品を照合。実再生、マスター同一性、埋め込み・地域制限は未検証。"
+        }
+      }
+    ],
+    "sampleStatus": "確認できた引用関係のみを掲載。未掲載はサンプル不使用の認定ではない。",
+    "listening": [
+      "ヴォーカル・ループの柔らかさと、周囲の悪意に応答するラップの内容を対照させる。",
+      "The AwakeningとNever My Loveを別々に辿り、鍵盤と歌声の役割を聴き分ける。",
+      "前後のIn the Flesh、Get on the Micと続け、終盤の声の配置とテンションの変化を確かめる。"
+    ],
+    "context": "柔らかな声のループの向こうで、C.L. Smoothは自分の失敗を待つ人々へ言葉を返す。『The Main Ingredient』終盤の、安らぎだけでは片づかない一曲。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "addedOrder": 370,
+    "datePublished": "2026-10-16",
+    "noteReviewedAt": "2026-10-16",
+    "editorialStatus": "本人・制作陣の証言と曲別資料を照合。聴き方は資料に基づく編集上の考察。実再生は未検証。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "出典で同定した収録版を掲載。ミックス抜粋との編集差、実音声の同一性、埋め込み再生・地域制限は未検証。"
+  },
+  {
+    "id": "oc-sharp-as-a-knife",
+    "artist": "O.C.",
+    "title": "Sharp as a Knife",
+    "album": "O-Zone Originals Part 2 EP",
+    "label": "No Sleep Recordings",
+    "producer": "Buckwild",
+    "producers": [
+      "Buckwild"
+    ],
+    "sources": [
+      {
+        "label": "O.C.名義Bandcamp：Sharp As A Knife",
+        "url": "https://omarcredle.bandcamp.com/track/sharp-as-a-knife",
+        "kind": "名義掲載の制作クレジット（運営主体の公式性は未確認）"
+      },
+      {
+        "label": "O.C.名義Bandcamp：The O-Zone Files",
+        "url": "https://omarcredle.bandcamp.com/album/the-o-zone-files-rare-demos-and-unreleased-tracks",
+        "kind": "名義掲載の配信アルバム（運営主体の公式性は未確認）"
+      },
+      {
+        "label": "O.C. Demos and Vaulted Treasures — Werner von Wallenrod, May14 2011",
+        "url": "https://wernervonwallenrod.blogspot.com/2011/05/oc-demos-and-vaulted-treasures.html",
+        "kind": "contemporary physical-EP review"
+      },
+      {
+        "label": "No Sleep Recordings listings — Disk Union",
+        "url": "https://diskunion.net/label/27044",
+        "kind": "record retailer release corroboration"
+      },
+      {
+        "label": "The O-Zone Files — Hip Hop Golden Age",
+        "url": "https://hiphopgoldenage.com/o-c-the-ozone-files/",
+        "kind": "archival-release coverage"
+      },
+      {
+        "label": "Sharp As A Knife lyrics — Dork / LRCLIB",
+        "url": "https://readdork.com/lyrics/oc-sharp-as-a-knife",
+        "kind": "imperfect transcription, limited thematic use only"
+      },
+      {
+        "label": "O.C. - Sharp As A Knife — Blazed Music",
+        "url": "https://www.youtube.com/watch?v=ziAqTdb1N68",
+        "kind": "unofficial audio upload metadata"
+      }
+    ],
+    "deck": "『Word...Life』以前のO.C.とBuckwild。1994年に作られ、後年の発掘盤で姿を現したデモは、完成した代表作の手前にある語りの表情を伝える。",
+    "essayTitle": "『Word...Life』の手前にあった、もう一つの声",
+    "facts": [
+      {
+        "title": "録音年と制作",
+        "text": "O.C.名義のBandcamp掲載クレジットはBuckwild制作、1994年と記す。これは録音・制作時期であり、市販盤の発売年とは区別する。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "2011年の発掘盤",
+        "text": "2011年5月の盤紹介はNo Sleep Recordings『O-Zone Originals Part 2』B面への収録を確認できる。Disk Unionも同EPを2011年盤として掲載。",
+        "sources": [
+          2,
+          3
+        ]
+      },
+      {
+        "title": "2019年のアーカイヴ",
+        "text": "後年の『The O-Zone Files』にも収録。配信サービス間で日付が異なるため、デジタル編纂盤は2019年とする。",
+        "sources": [
+          0,
+          1,
+          4
+        ]
+      }
+    ],
+    "year": 2011,
+    "yearBasis": "録音は1994年と制作クレジットに表記。最も早く確認できた市販収録盤は2011年の『O-Zone Originals Part 2』。2019年のアーカイヴ配信や未確認の先行流通とは区別する。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "members": "O.C.",
+    "youtube": {
+      "id": "ziAqTdb1N68",
+      "url": "https://www.youtube.com/watch?v=ziAqTdb1N68",
+      "title": "O.C. - Sharp As A Knife",
+      "channel": "Blazed Music",
+      "type": "User Upload",
+      "official": false,
+      "verified": "2026-10-16",
+      "verification": "曲名・演者・収録作品の掲載情報とoEmbedを照合。実音声・原盤との同一性・埋め込み可否・地域制限は未検証。一般投稿であり、公式音源とは表示しない。"
+    },
+    "art": {
+      "word": "SHARP AS A KNIFE",
+      "lines": [
+        "SHARP AS A KNIFE"
+      ],
+      "tag": "O.C.",
+      "style": "piece",
+      "seed": 3465425517,
+      "profile": "ny-subway",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "essay": [
+      "「Sharp as a Knife」は、O.C.名義のBandcamp掲載クレジットでBuckwild制作、1994年と記されるデモだ。『Word...Life』以前の録音として紹介されたこの曲を、後の成功を知ったうえでの余裕だけで聴くのはもったいない。デビュー作に収まり切らなかった一曲に耳を向けることで、代表作の輪郭の外側に、同じ時期のMCが試していた語り口を探すことができる。",
+      "題名から激しいバトル・ラップを想像するかもしれないが、発掘盤が出た当時のレビューは、むしろ予想よりも力の抜けた曲だと評した。歌詞の入口は学校時代の回想で、そこから自尊心や恋愛の傷へ視線が移る。切れ味を他人へ誇示するだけでなく、自分自身に残った感情へ言葉を向ける曲として聴いてみたい。題名の鋭さと内省的な語りの距離が、興味深い入口になる。",
+      "ここで焦点を当てたいのは、BuckwildとO.C.の組み合わせを、完成された名盤の看板からいったん切り離して聴くことだ。まずラップの文がどこで区切られるかを追い、次に伴奏の反復へ注意を移す。語り手の感情が動く箇所でもビートが同じ足場を保つのか、それとも印象が変わるのか。デモという位置づけを欠点の一覧にせず、声とビートの関係が形になる途中を考えるための手掛かりにしたい。",
+      "2011年にはNo Sleep Recordingsの『O-Zone Originals Part 2』に収められ、2019年の大規模なアーカイヴ『The O-Zone Files』では冒頭近くへ置かれた。同じ録音でも、少量のアナログ盤で出会う場合と、初期デモからフリースタイルまでを並べた51曲の中で出会う場合では、前後に見える景色が違う。続けて『Word...Life』へ進む聴き方も、アーカイヴ内の「Would You Believe?」「Weak Ideas」と並べる聴き方も、この曲を単なる余り物にしない。"
+    ],
+    "samples": [],
+    "sampleStatus": "確認できた引用関係のみを掲載。未掲載はサンプル不使用の認定ではない。",
+    "listening": [
+      "学校時代の回想から感情の吐露へ移る語りを、単なるバトル・ラップの題名として読まずに辿る。",
+      "ラップの文章の区切りと、伴奏の反復の区切りを別々に追う。",
+      "1994年のWord...Lifeと、2019年のアーカイヴで前後に並ぶ曲の両方を比較対象にする。"
+    ],
+    "context": "『Word...Life』以前のO.C.とBuckwild。1994年に作られ、後年の発掘盤で姿を現したデモは、完成した代表作の手前にある語りの表情を伝える。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "addedOrder": 371,
+    "datePublished": "2026-10-16",
+    "noteReviewedAt": "2026-10-16",
+    "editorialStatus": "本人・制作陣の証言と曲別資料を照合。聴き方は資料に基づく編集上の考察。実再生は未検証。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "出典で同定した収録版を掲載。ミックス抜粋との編集差、実音声の同一性、埋め込み再生・地域制限は未検証。"
+  },
+  {
+    "id": "q-ball-curt-cazal-my-kinda-moves",
+    "artist": "Q Ball & Curt Cazal",
+    "title": "My Kinda Moves",
+    "album": "My Kinda Moves (12-inch single)",
+    "label": "VZQ Records",
+    "producer": "Curt Cazal (C. Small)",
+    "producers": [
+      "Curt Cazal"
+    ],
+    "sources": [
+      {
+        "label": "Q’n’C Report, artist interview by ASPRINGER, HipHopDX January17 2002, preserved by Rapchive",
+        "url": "https://rapchive.com/news/q-n-c-report-q-ball-and-curt-cazal/",
+        "kind": "primary artist interview archive"
+      },
+      {
+        "label": "In The Groove, January1996: Q Ball and Curt Cazal review, Oliver Wang",
+        "url": "https://oliverwang.net/groove/groove1-96.html",
+        "kind": "contemporary criticism"
+      },
+      {
+        "label": "My Kind Moves original VZQ 12-inch, Manhattan Records",
+        "url": "https://www.manhattanrecords.jp/MY%2BKIND%2BMOVES%2B%28USED%29/product/0/1000000410754/?cat=115001002&swrd=",
+        "kind": "physical-record dealer"
+      },
+      {
+        "label": "Dig It Out, Q-Ball & Curt Cazal original12-inch description",
+        "url": "https://dig-it-out.blogspot.com/",
+        "kind": "collector pressing transcription"
+      },
+      {
+        "label": "Hot97 Mixmaster Weekend November24 1995",
+        "url": "https://hiphopradioarchive.org/show/870",
+        "kind": "historical broadcast archive"
+      },
+      {
+        "label": "Ill Adrenaline Records: QNC Demo release biography",
+        "url": "https://soundcloud.com/illadrenalinerecords/q-ball-curt-cazal-qnc-demo",
+        "kind": "record label artist biography"
+      },
+      {
+        "label": "Nickel And Dime Radio July11 2008",
+        "url": "https://wfmu.org/playlists/shows/27889",
+        "kind": "radio station playlist"
+      },
+      {
+        "label": "The CRDS Fat Tape Volume3, retrospective track notes",
+        "url": "https://truehiphopspot.blogspot.com/2008/01/the-crds-fat-tape-volume-3.html",
+        "kind": "specialist collector commentary; secondary credit corroboration only"
+      },
+      {
+        "label": "My Kinda Moves lyrics, Paroles2Chansons (SEAM licensed lyrics service)",
+        "url": "https://paroles2chansons.lemonde.fr/paroles-q-ball-curt-cazal/paroles-my-kinda-moves.html",
+        "kind": "licensed lyric transcription; no lyric quotation reproduced"
+      }
+    ],
+    "deck": "VZQの12インチからDJ Premierのラジオへ。QNCの独立期を伝える、1995年の一曲。",
+    "essayTitle": "ラジオと12インチがつないだ二人の動き",
+    "facts": [
+      {
+        "title": "デュオの初期作品",
+        "text": "2002年の本人インタビューは、Central Islipを拠点とする二人が自主リリースした初期曲として「Makin’ Moves」と、その次の「My Kinda Moves」を区別する。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "1995年のシングル",
+        "text": "VZQの12インチにはRadio EditとInstrumental、裏面には「All The Flava」「War Out Here」を収録。盤の転記資料は制作をC. Smallと記し、専門ブログはCurt Cazalの制作として紹介する。",
+        "sources": [
+          2,
+          3,
+          7
+        ]
+      },
+      {
+        "title": "同時代の批評",
+        "text": "Oliver Wangは1996年初頭の評で88 BPMと記し、技巧の複雑さより機知を評価。「Danger」に重ねたのは批評上の印象で、同じサンプルという認定ではない。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "ラジオに残る記録",
+        "text": "1995年11月24日のHot 97 Mixmaster Weekendの記録は、DJ Premierのセットに本曲を掲載する。",
+        "sources": [
+          4
+        ]
+      }
+    ],
+    "year": 1995,
+    "yearBasis": "1995年のVZQシングルと同年ラジオ記録、翌年初頭の批評を基準。投稿音源のRadio Edit／無修正版の厳密な区別は未確認。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "members": "Q Ball & Curt Cazal",
+    "youtube": {
+      "id": "OeM7itMfRmY",
+      "url": "https://www.youtube.com/watch?v=OeM7itMfRmY",
+      "title": "Q Ball & Curt Cazal - My Kinda Moves",
+      "channel": "TheIronSifu",
+      "type": "User Upload",
+      "official": false,
+      "verified": "2026-10-16",
+      "verification": "曲名・演者・収録作品の掲載情報とoEmbedを照合。実音声・原盤との同一性・埋め込み可否・地域制限は未検証。一般投稿であり、公式音源とは表示しない。"
+    },
+    "art": {
+      "word": "MY KINDA MOVES",
+      "lines": [
+        "MY KINDA MOVES"
+      ],
+      "tag": "Q BALL & CURT CAZAL",
+      "style": "piece",
+      "seed": 3553809957,
+      "profile": "ny-subway",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "essay": [
+      "Q BallとCurt Cazalは、Long IslandのCentral Islipを拠点とするデュオ。二人は2002年のインタビューで、自分たちで最初に出した曲として「Makin’ Moves」、続いて「My Kinda Moves」を挙げている。似た題名の二曲は同一曲ではなく、活動を積み上げていく別々の足跡だ。後にQNC名義でも知られる二人を、まず自主的なシングル制作の段階から聴く入口になる。",
+      "Oliver Wangは1996年初頭のレビューで、この曲を88 BPMと記し、ラップの複雑さよりも機知を評価した。その手掛かりは、既存のラッパーや作品を連想させる言葉の連鎖にある。Commonと復活、Bizと商売、Main Sourceと原子を壊す動作が結びつき、単なる名前の列挙を自分の腕前を誇る文句へ変えていく。固有名詞に気づくたび、同じラインが二重に読める作りだ。Wangがビートの感触を「Danger」に重ねたことも、当時の聴き手の距離感を知る面白い補助線になる。",
+      "VZQの12インチは、短いイントロに続いて「My Kinda Moves」のRadio EditとInstrumentalを置き、裏面には「All The Flava」と「War Out Here」を収める。ラップ入りとインストを行き来すれば、声がなくなったときにビートのどこへ耳が向くかを試せる。Curt CazalはJVC FORCEの経験を持つ制作者でもあり、二人組の曲をラッパー側からだけでなく、伴奏を組む側から掘る余地がある。",
+      "1995年11月24日のHot97 Mixmaster Weekendでは、DJ Premierのセットにこの曲が入っている。Group Homeの「Up Against The Wall」の後、マイクの合間を挟んでBlahzay Blahzayの曲へ進む並びは、インディー盤がその時代の新譜と同じ現場で機能していたことを伝える。後年の希少盤という評価から逆に眺めるだけでなく、まずDJが次につなぐ一曲として聴くと、その実用的な魅力に近づける。"
+    ],
+    "samples": [],
+    "sampleStatus": "確認できた引用関係のみを掲載。未掲載はサンプル不使用の認定ではない。",
+    "listening": [
+      "Common、Biz、Main Sourceを連想させる言葉が、通常の意味とヒップホップへの参照をどう重ねるかを追う。",
+      "Radio EditとInstrumentalを比べ、声が担っていたリズムの部分を探る。",
+      "1995年のPremierの曲順を参考に、前後の曲と続けたときの働きを考える。"
+    ],
+    "context": "VZQの12インチからDJ Premierのラジオへ。QNCの独立期を伝える、1995年の一曲。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "addedOrder": 372,
+    "datePublished": "2026-10-16",
+    "noteReviewedAt": "2026-10-16",
+    "editorialStatus": "本人・制作陣の証言と曲別資料を照合。聴き方は資料に基づく編集上の考察。実再生は未検証。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "出典で同定した収録版を掲載。ミックス抜粋との編集差、実音声の同一性、埋め込み再生・地域制限は未検証。"
+  },
+  {
+    "id": "lords-of-the-underground-flow-on-pete-rock-remix",
+    "artist": "Lords of the Underground",
+    "title": "Flow On (Pete Rock Remix)",
+    "album": "Flow On (single / EP)",
+    "label": "Pendulum (original); Capitol / UMG (current digital rights)",
+    "producer": "Marley Marl (original production); Pete Rock (remix)",
+    "producers": [
+      "Marley Marl"
+    ],
+    "sources": [
+      {
+        "label": "Flow On (Pete Rock Remix), Apple Music",
+        "url": "https://music.apple.com/us/song/1589988062",
+        "kind": "official distribution"
+      },
+      {
+        "label": "Flow On (Pete Rock Remix), Lords Of The Underground - Topic",
+        "url": "https://www.youtube.com/watch?v=vSt-ifp9pCQ",
+        "kind": "UMG official distributed audio"
+      },
+      {
+        "label": "Put The Needle On The Record, June 21, 2013",
+        "url": "https://ftp.wfmu.org/playlists/shows/51094",
+        "kind": "radio station playlist"
+      },
+      {
+        "label": "Lords Of The Underground track history, NTS",
+        "url": "https://www.nts.live/artists/41525-lords-of-the-underground",
+        "kind": "radio track metadata, not copied artist biography"
+      },
+      {
+        "label": "Ted Draws: Pete Rock Special, December 18, 2018",
+        "url": "https://www.nts.live/shows/TED-DRAWS/episodes/ted-draws-18th-december-2018",
+        "kind": "radio station playlist"
+      }
+    ],
+    "deck": "Marley Marlの楽曲をPete Rockが組み替え、Kid DeleonとSah-Bも交わる1994年のリミックス。",
+    "essayTitle": "同じラップに、もう一つの聴き方を",
+    "facts": [
+      {
+        "title": "選定した版",
+        "text": "Apple MusicはPete Rock Remixを1994年『Flow On』EPの曲として掲載する。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "制作と再構築の区別",
+        "text": "UMG公式音源はMarley Marlをプロデューサー、Pete Rockをリミキサーとして記載する。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "客演と盤情報",
+        "text": "WFMUとNTSの選曲情報はKid Deleon、Sah-Bの参加と、1994年Pendulumのリミックスとして本曲を記録する。",
+        "sources": [
+          2,
+          3
+        ]
+      },
+      {
+        "title": "後年の選曲",
+        "text": "WFMUは2013年に12インチを選曲し、NTSは2018年のPete Rock特集で本曲を取り上げた。",
+        "sources": [
+          2,
+          4
+        ]
+      }
+    ],
+    "year": 1994,
+    "yearBasis": "1994年のPete Rock Remixを選定。原曲の制作とリミックスの役割を分ける。",
+    "region": "New Jersey",
+    "scene": "New Jersey",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "members": "Lords of the Underground / Kid Deleon / Sah-B",
+    "youtube": {
+      "id": "vSt-ifp9pCQ",
+      "url": "https://www.youtube.com/watch?v=vSt-ifp9pCQ",
+      "title": "Flow On (Pete Rock Remix)",
+      "channel": "Lords Of The Underground - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-16",
+      "verification": "曲名・演者・収録作品の掲載情報とoEmbedを照合。実音声・原盤との同一性・埋め込み可否・地域制限は未検証。"
+    },
+    "art": {
+      "word": "FLOW ON (PETE ROCK REMIX)",
+      "lines": [
+        "FLOW ON (PETE ROCK REMIX)"
+      ],
+      "tag": "LORDS OF THE UNDERGROUND",
+      "style": "piece",
+      "seed": 3937512361,
+      "profile": "ny-subway",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "essay": [
+      "「Flow On」のPete Rock Remixは、1994年のシングルとして独立して味わいたい一曲だ。作品の入口がLords of the Undergroundであっても、ここではラップと同時にリミキサーの仕事が前景に出る。原曲と同じ題名を持つからこそ、何が残され、何によって別の印象が生まれるのかという比較が面白い。",
+      "制作の役割を分けると、この版の輪郭が見える。クレジット上のプロデューサーはMarley Marl、リミックスを担うのはPete Rock。片方の名前で全体を代表させるより、原曲の構築と再解釈という二つの段階を意識したい。ヴァースをひと区切り選び、声のアクセントと伴奏の強拍がどこで重なるかを原曲と比べると、リミックスがラップの受け止め方まで変えうることを探れる。",
+      "別表記の「New Symphony」には、Kid DeleonとSah-Bの参加も刻まれている。Lordsだけで完結する曲ではなく、仲間の声が同じトラックを共有する場として捉えるとよい。聴きどころは、誰か一人の技巧に順位をつけることより、声が交代したときに一つのビートの表情がどう変わるか。各ヴァースの入りと終わりを追えば、客演も曲の流れをつくる存在として聴ける。",
+      "WFMUのBilly Jamは2013年にPendulumの12インチとしてこの版を選曲し、NTSのTed Drawsも2018年のPete Rock特集に取り上げている。グループの曲としてだけでなく、Pete Rockの仕事を辿る道筋にも置けるレコードだ。「Chief Rocka」などの代表曲から一歩横へ進みたいとき、アーティスト名とリミキサー名の二方向から掘れる接点になる。"
+    ],
+    "samples": [],
+    "sampleStatus": "確認できた引用関係のみを掲載。未掲載はサンプル不使用の認定ではない。",
+    "listening": [
+      "同じヴァースを原曲とリミックスで比較し、声のアクセントが伴奏のどこに乗るかを追う。",
+      "Kid DeleonとSah-Bを含む声の交代を、曲の展開をつくる要素として聴く。",
+      "ヴァースの入りと終わりで、ビートの反復が引き継ぎをどう支えるかを確かめる。"
+    ],
+    "context": "Marley Marlの楽曲をPete Rockが組み替え、Kid DeleonとSah-Bも交わる1994年のリミックス。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "addedOrder": 373,
+    "datePublished": "2026-10-16",
+    "noteReviewedAt": "2026-10-16",
+    "editorialStatus": "本人・制作陣の証言と曲別資料を照合。聴き方は資料に基づく編集上の考察。実再生は未検証。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "本頁はPete Rock Remixの掲載情報を照合した別バージョン。原曲へ置き換えていない。実音声・埋め込み可否・地域制限は未検証。"
+  },
+  {
+    "id": "blahzay-blahzay-danger",
+    "artist": "Blahzay Blahzay",
+    "title": "Danger",
+    "album": "Blah Blah Blah (1996)",
+    "label": "Fader / Mercury",
+    "producer": "PF Cuttin / Outloud（当時の共同制作表記。主要ビート制作はPFの証言による）",
+    "producers": [
+      "PF Cuttin",
+      "Outloud"
+    ],
+    "sources": [
+      {
+        "label": "PF Cuttin interview: making Danger, Above Average Hip-Hop (2014)",
+        "url": "https://aboveaveragehiphop.com/when-the-east-is-in-the-house-the-dj-pf-cuttin-interview/",
+        "kind": "primary interview"
+      },
+      {
+        "label": "Past & Present: PF Cuttin, Validated (2021)",
+        "url": "https://www.validatedmagazine.com/culture/2021/7/16/past-amp-present-pf-cuttin",
+        "kind": "primary interview"
+      },
+      {
+        "label": "The Source November 1995 Danger review, archived by Hip-Hop Nostalgia",
+        "url": "https://www.hiphopnostalgia.com/2015/11/blahzay-blahzay-danger-review-1995.html",
+        "kind": "contemporary review reprint"
+      },
+      {
+        "label": "Danger music video, UPROXX",
+        "url": "https://www.youtube.com/watch?v=x7uJzdu7Pak",
+        "kind": "professional video archive metadata"
+      },
+      {
+        "label": "Hit Music, 2 March 1996",
+        "url": "https://www.worldradiohistory.com/UK/Hit-Music/1996/Hit-Music-1996-03-02.pdf",
+        "kind": "contemporary trade press"
+      }
+    ],
+    "deck": "完成したデモを作り直し、声とスクラッチの骨格を残して生まれた、ブルックリンの警報。",
+    "essayTitle": "スクラッチが曲の顔になるまで",
+    "facts": [
+      {
+        "title": "デモの組み直し",
+        "text": "PF Cuttinは、デモ制作中にスクラッチのコーラス、ラップ、ビートを残しながら主要サンプルを入れ替えたと回想する。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "D&Dでの仕上げ",
+        "text": "PFはD&DでGuruに曲を聴かせ、Mercuryとの契約後に同スタジオで録り直したと説明している。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "年代と制作表記",
+        "text": "The Sourceの1995年11月号が本曲をレビュー。1996年Hit Musicの制作欄はPF Cuttin／Outloudと共同表記する。ビートを組んだ経緯はPF本人のインタビューで確認できる。",
+        "sources": [
+          0,
+          2,
+          4
+        ]
+      },
+      {
+        "title": "アルバムとの関係",
+        "text": "1996年『Blah Blah Blah』にも収録。「Danger Part 2」は別曲として区別する。",
+        "sources": [
+          3
+        ]
+      }
+    ],
+    "year": 1995,
+    "yearBasis": "1995年のシングル初出を基準。アルバム『Blah Blah Blah』は翌1996年。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "members": "Outloud / PF Cuttin",
+    "youtube": {
+      "id": "x7uJzdu7Pak",
+      "url": "https://www.youtube.com/watch?v=x7uJzdu7Pak",
+      "title": "Blahzay Blahzay - Danger [Video] (Explicit)",
+      "channel": "UPROXX",
+      "type": "User Upload",
+      "official": false,
+      "verified": "2026-10-16",
+      "verification": "曲名・演者・収録作品の掲載情報とoEmbedを照合。実音声・原盤との同一性・埋め込み可否・地域制限は未検証。一般投稿であり、公式音源とは表示しない。"
+    },
+    "art": {
+      "word": "DANGER",
+      "lines": [
+        "DANGER"
+      ],
+      "tag": "BLAHZAY BLAHZAY",
+      "style": "piece",
+      "seed": 3324796074,
+      "profile": "ny-subway",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "essay": [
+      "Blahzay Blahzayは、MCのOutloudとDJ／ビートメーカーのPF Cuttinによる二人組。「Danger」は1995年に登場し、翌年のアルバム『Blah Blah Blah』へとつながった。曲を支えるのは、ラッパーの声とDJの仕事を対等に置く設計だ。印象的なフックだけでなく、ヴァースの存在感を保ったまま何度もそこへ戻れる構造に注目したい。",
+      "PFが語る制作過程は、完成を急がない編集の話だ。Staten IslandのLaughing Dog Studiosでデモを作った後、彼は伴奏に満足できず、ラップ、ビート、スクラッチのコーラスを残して主なサンプルを交換した。新しい音をカセットの素材と合わせ、手応えを得るとOutloudへ電話し、再び録音の時間を取ったという。フックは仕上げの飾りではなく、改稿しても残された曲の中心だった。",
+      "当時の『The Source』は、Outloudの低い声と、余計な装飾を抑えた強いドラムに着目した。評者が読み取ったのは街の危険だけでなく、言葉の技術より銃の威嚇が尊ばれる状況への批判でもある。強面の音像を単なる武勇伝として受け取るより、ラップが何を危険と呼ぶのかまで追うと、タイトルの射程が広がる。",
+      "PFは後年、D&D StudiosでGuruに曲を聴かせ、Mercuryとの契約後には同所で録り直したと振り返っている。宅録的な試行錯誤と、スタジオでの仕上げは別々の段階だった。聴き返すなら、ヴァースからスクラッチのフックへ移る瞬間と、その後に声が戻る瞬間を対にしてみたい。反復がラップを遮るのではなく、次の言葉を待たせる仕組みとして働くかを確かめられる。"
+    ],
+    "samples": [],
+    "sampleStatus": "確認できた引用関係のみを掲載。未掲載はサンプル不使用の認定ではない。",
+    "listening": [
+      "ヴァースとスクラッチ・フックの交代で、前景に立つ「声」の役割を追う。",
+      "Outloudの低い声とドラムの打点を別々に追い、双方が占める空間を比較する。",
+      "街の危険と、ラップの実力を測る基準への言及を区別して読む。"
+    ],
+    "context": "完成したデモを作り直し、声とスクラッチの骨格を残して生まれた、ブルックリンの警報。",
+    "connections": [],
+    "sounds": [
+      "ラップ",
+      "スクラッチ"
+    ],
+    "addedOrder": 374,
+    "datePublished": "2026-10-16",
+    "noteReviewedAt": "2026-10-16",
+    "editorialStatus": "本人・制作陣の証言と曲別資料を照合。聴き方は資料に基づく編集上の考察。実再生は未検証。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "出典で同定した収録版を掲載。ミックス抜粋との編集差、実音声の同一性、埋め込み再生・地域制限は未検証。"
   }
 ]
