@@ -113,11 +113,11 @@ for page in DIST.rglob('*.html'):
     # Ensure the final emitted HTML has exactly the expected project-scoped touch icon.
     # Older generated HTML may contain a versioned pre-migration icon link.
     if page.name == 'index.html':
-        icon_url = BASE_PATH + '/apple-touch-icon-vinyl.png'
+        icon_url = BASE_PATH + '/apple-touch-icon-vinyl.png?v=original-20261016'
         icon_tag = '<link rel="apple-touch-icon" sizes="180x180" href="' + icon_url + '">'
-        text = re.sub(r'<link\\b(?=[^>]*\\brel="apple-touch-icon")[^>]*>', '', text)
+        text = re.sub(r'<link\b(?=[^>]*\brel="apple-touch-icon")[^>]*>', '', text)
         text = text.replace('</head>', icon_tag + '</head>', 1)
-        assert icon_tag in text, 'Touch icon link was not generated'
+        assert icon_tag in text and text.count('rel="apple-touch-icon"') == 1, 'Expected exactly one fresh touch icon link'
     page.write_text(text)
 manifest=json.loads((DIST/'site.webmanifest').read_text())
 manifest['start_url']=BASE_PATH+'/'
