@@ -39336,5 +39336,355 @@
       "letteringNote": "作品の転載を用いない独自の文字表現。"
     },
     "curationNote": "選定したのは出典で同定した商業リリースの録音。ミックスに収録された短い抜粋の編集・検閲違いまでは未確認。別リミックスとして登録していない。"
+  },
+  {
+    "id": "nas-street-dreams",
+    "artist": "Nas",
+    "title": "Street Dreams",
+    "album": "It Was Written",
+    "label": "Columbia",
+    "producer": "Trackmasters (Poke & Tone)",
+    "producers": [
+      "Trackmasters",
+      "Poke & Tone"
+    ],
+    "sources": [
+      {
+        "label": "Street Dreams — Columbia公式配信音源",
+        "url": "https://www.youtube.com/watch?v=PEEENLUY1nM",
+        "kind": "primary_label_metadata"
+      },
+      {
+        "label": "Apple Music：曲別クレジット",
+        "url": "https://music.apple.com/xk/song/211508154",
+        "kind": "licensed_release_metadata"
+      },
+      {
+        "label": "XXL：Nas本人が語るIt Was Written",
+        "url": "https://www.xxlmag.com/nas-remembers-the-impact-of-it-was-written-15-years-later/",
+        "kind": "primary_artist_interview"
+      },
+      {
+        "label": "Complex：NasとTrackmastersの制作証言",
+        "url": "https://uk.complex.com/music/a/insanulahmed/nas-the-making-of-it-was-written",
+        "kind": "primary_participant_interview"
+      },
+      {
+        "label": "Shazam：Street Dreams歌詞・クレジット",
+        "url": "https://www.shazam.com/song/211508154/street-dreams",
+        "kind": "licensed_lyrics_and_metadata"
+      }
+    ],
+    "deck": "高級車への夢と追跡される不安を、歌えるフックで包む。Trackmastersが組み立てた、1996年のNasのストリート叙事詩。",
+    "essayTitle": "甘い夢の入口に、逃げ場のない現実を置く",
+    "facts": [
+      {
+        "title": "原曲の位置づけ",
+        "text": "1996年Columbia『It Was Written』収録。R. Kelly参加のリミックスとは別録音として扱う。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "制作と演奏",
+        "text": "Poke & Tone制作、Rich Travaliがミックスに参加。Appleの曲別資料はDelightをキーボード奏者として掲載する。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "引用の確認範囲",
+        "text": "Linda Cliffordの録音使用は配信クレジット、Eurythmicsの作品使用は作家表記とNas本人の許諾に関する発言で裏付ける。",
+        "sources": [
+          1,
+          2
+        ]
+      }
+    ],
+    "year": 1996,
+    "yearBasis": "1996年のオリジナル・アルバム収録版を基準。後年の配信日やリミックス版の発売日とは区別する。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "members": "Nas",
+    "youtube": {
+      "id": "PEEENLUY1nM",
+      "url": "https://www.youtube.com/watch?v=PEEENLUY1nM",
+      "title": "Street Dreams",
+      "channel": "Nas - Topic",
+      "official": true,
+      "type": "Official Audio",
+      "verification": "正規Topic配信の曲名・演者・作品情報とoEmbedを照合。実音声・マスターの同一性・埋め込み可否・地域制限は未検証。",
+      "verified": "2026-10-16"
+    },
+    "art": {
+      "word": "STREET DREAMS",
+      "lines": [
+        "STREET DREAMS"
+      ],
+      "tag": "NAS",
+      "style": "piece",
+      "seed": 4216008899,
+      "profile": "ny-subway",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "essay": [
+      "高級車や大金を夢見るフックに対し、ヴァースには移動、取引、警察への警戒が詰め込まれる。富の記号だけを拾うと成功譚に見えるが、語り手は安心できる場所に着いていない。終盤で子ども時代の憧れへ視点を戻す構成にも注目したい。欲望を持った大人の話が、その欲望を誰から覚えたのかという記憶へつながる。",
+      "本曲は1996年の『It Was Written』収録曲で、制作はPoke & Tone。短い旋律を反復するフックと、具体的な場面を積み重ねるラップを分けて聴くと、二つの役割が見えてくる。覚えやすい入口があるからこそ、ヴァースが運ぶ不穏な細部との落差が際立つ。旋律を口ずさめることと、語りの世界で安心できることは同じではない。フックへ戻るたび、そのずれを確かめたい。",
+      "Eurythmics「Sweet Dreams (Are Made of This)」を踏まえたフックと、Linda Cliffordの録音の使用は別の関係だ。AppleのクレジットはCliffordをサンプル元の演者として掲載し、LennoxとStewartを作家に記している。Pokeは「Never Gonna Stop」が2Pac「All Eyez on Me」と重なったことを偶然と説明している。曲名だけで同じビートと片づけず、伴奏の反復と声の旋律を分けて比較したい。",
+      "NasのXXLインタビューでは、Eurythmics側の使用許諾の話と、R. Kellyを迎えた「Street Dreams (Remix)」の話が分かれている。ここで聴くのは『It Was Written』の原曲。Nas自身は許諾が得られたことを喜び、Annie Lennoxへの敬意を語っているが、発言だけから契約の配分率は決められない。既知の旋律を自分の街の欲望へ置き換える、その翻案の働きこそ聴き直したい。"
+    ],
+    "samples": [
+      {
+        "artist": "Linda Clifford",
+        "title": "Never Gonna Stop",
+        "role": "Appleのサンプル元演者表記とPokeの制作証言で確認する録音素材。比較用は一般投稿で、公式音源ではない。",
+        "sources": [
+          1,
+          3
+        ],
+        "youtube": {
+          "id": "qy-RBhg39bw",
+          "url": "https://www.youtube.com/watch?v=qy-RBhg39bw",
+          "title": "LINDA CLIFFORD   NEVER GONNA STOP",
+          "channel": "TheRAREGROOVEMAN",
+          "type": "User Upload",
+          "official": false,
+          "verified": "2026-10-16",
+          "verification": "oEmbed曲名・演者照合のみ。実音声、原盤との同一性、地域制限は未検証。公式音源を検索したが特定できず、一般投稿を比較用として掲載。"
+        },
+        "main": true
+      },
+      {
+        "artist": "Eurythmics",
+        "title": "Sweet Dreams (Are Made of This)",
+        "role": "フックの旋律・歌詞の翻案。Nas本人の許諾に関する証言と作家表記で確認。録音そのものの直接サンプルとは区別する。",
+        "sources": [
+          1,
+          2,
+          4
+        ],
+        "youtube": {
+          "id": "qeMFqkcPYcg",
+          "url": "https://www.youtube.com/watch?v=qeMFqkcPYcg",
+          "title": "Eurythmics, Annie Lennox, Dave Stewart - Sweet Dreams (Are Made Of This) (Official Video)",
+          "channel": "EurythmicsVEVO",
+          "type": "Official Video",
+          "official": true,
+          "verified": "2026-10-16",
+          "verification": "oEmbed曲名・演者照合のみ。実音声、原盤との同一性、地域制限は未検証。"
+        },
+        "main": false
+      }
+    ],
+    "sampleStatus": "出典で確認できた引用関係を掲載。再演奏と録音の使用を区別する。",
+    "listening": [
+      "フックの富の記号と、ヴァースに現れる追跡・警戒の対比を追う。",
+      "Linda Cliffordの伴奏素材とEurythmics由来の歌の旋律を別々に比較する。",
+      "終盤の子ども時代の回想が、冒頭の欲望をどう読み替えるかに注目する。"
+    ],
+    "context": "高級車への夢と追跡される不安を、歌えるフックで包む。Trackmastersが組み立てた、1996年のNasのストリート叙事詩。",
+    "connections": [],
+    "sounds": [
+      "ラップ",
+      "歌唱フック"
+    ],
+    "addedOrder": 367,
+    "datePublished": "2026-10-16",
+    "noteReviewedAt": "2026-10-16",
+    "editorialStatus": "本人・制作陣の証言と曲別資料を照合。聴き方は資料に基づく編集上の考察。実再生は未検証。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "オリジナル・アルバム収録曲として掲載。リミックスや別編集とは区別。YouTubeの掲載情報を照合したが、実音声・埋め込み再生・地域制限は未検証。"
+  },
+  {
+    "id": "jay-z-cant-knock-the-hustle",
+    "artist": "Jay-Z",
+    "title": "Can't Knock the Hustle",
+    "album": "Reasonable Doubt",
+    "label": "Roc-A-Fella",
+    "producer": "Knobody / co-production: Dahoud Darien, Sean C",
+    "producers": [
+      "Knobody",
+      "Dahoud Darien",
+      "Sean C"
+    ],
+    "sources": [
+      {
+        "label": "Roc-A-Fella公式配信音源",
+        "url": "https://www.youtube.com/watch?v=8P12bMQMXLA",
+        "kind": "primary_label_metadata"
+      },
+      {
+        "label": "SPIN：制作陣によるReasonable Doubt回想",
+        "url": "https://www.spinmagazine.com/2016/06/jay-z-reasonable-doubt-producers-interviews-ski-dj-clark-kent-dj-premier/",
+        "kind": "primary_producer_interviews"
+      },
+      {
+        "label": "Fresh Air：Jay-Z本人が曲の意図を説明",
+        "url": "https://freshairarchive.org/segments/jay-z-interviewed-and-decoded",
+        "kind": "primary_artist_interview"
+      },
+      {
+        "label": "Shazam：曲別クレジットと歌詞",
+        "url": "https://www.shazam.com/en-us/song/1475940564/cant-knock-the-hustle-feat-mary-j-blige",
+        "kind": "licensed_lyrics_and_metadata"
+      },
+      {
+        "label": "Cultural Front：Kenton Rambsyによる引用関係の研究",
+        "url": "https://www.culturalfront.org/2016/03/jay-zs-reasonable-doubt-sampling-sources.html",
+        "kind": "research_commentary"
+      }
+    ],
+    "deck": "Mary J. Bligeのフックが迎える『Reasonable Doubt』の入口。Knobodyの土台に共同制作者が厚みを加え、Jay-Zはラップに賭ける自分の立場を語る。",
+    "essayTitle": "ハッスルとは、ここではラップのことだった",
+    "facts": [
+      {
+        "title": "作品と参加者",
+        "text": "1996年『Reasonable Doubt』の冒頭曲。Jay-ZのラップにMary J. Bligeが歌唱で参加する。",
+        "sources": [
+          0,
+          3
+        ]
+      },
+      {
+        "title": "制作の役割",
+        "text": "Knobodyによる原型にDahoud DarienとSean Cが音を加えた経緯を、SPINで当事者が説明している。共同制作の範囲はこの証言を根拠とする。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "タイトルの本人解釈",
+        "text": "Fresh AirでJay-Zは、ラップを志す自分を疑う街の仲間に向けた曲だったと説明する。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "year": 1996,
+    "yearBasis": "1996年のオリジナル・アルバム収録版を基準。後年の配信日やリミックス版の発売日とは区別する。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "members": "Jay-Z / Mary J. Blige",
+    "youtube": {
+      "id": "8P12bMQMXLA",
+      "url": "https://www.youtube.com/watch?v=8P12bMQMXLA",
+      "title": "Can't Knock The Hustle",
+      "channel": "JAŸ-Z - Topic",
+      "official": true,
+      "type": "Official Audio",
+      "verification": "正規Topic配信の曲名・演者・作品情報とoEmbedを照合。実音声・マスターの同一性・埋め込み可否・地域制限は未検証。",
+      "verified": "2026-10-16"
+    },
+    "art": {
+      "word": "CAN'T KNOCK THE HUSTLE",
+      "lines": [
+        "CAN'T KNOCK THE HUSTLE"
+      ],
+      "tag": "JAY-Z",
+      "style": "piece",
+      "seed": 3372980372,
+      "profile": "ny-subway",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "essay": [
+      "Jay-ZはFresh Airで、この曲をストリートの仲間に向けたものと説明している。当時の彼にとって街での稼ぎが仕事であり、ラップこそ挑戦したいハッスルだった。音楽業界では搾取されると止める周囲に、それでも試したいと伝える歌なのだ。この本人の説明を踏まえると、タイトルは単なる稼ぎの誇示ではなく、まだ保証のない音楽への意志として聴こえてくる。",
+      "SPINの制作陣インタビューによれば、出発点はKnobodyが自宅で組み立てたトラックだった。Jay-Zが乗ったあと、Dahoud DarienとSean Cがコードや音を加えたと本人は説明する。共同制作の名前を横一列に覚えるだけでなく、最初の骨格と後から加わった厚みを分けて捉えると、ビートが完成していく過程が見えやすい。",
+      "DahoudはMarcus Millerの音楽を再演奏したと語っている。研究者Kenton Rambsyの整理は、その参照曲を「Much Too Much」とし、歌の側にはMeli’sa Morgan「Fool’s Paradise」との関係も挙げる。録音の切り貼り、演奏による再構築、歌詞や旋律の参照を、すべて同じサンプルという言葉で済ませないことが大切だ。低音の動きとMary J. Bligeのフックを分けて聴くと、引用の層をたどりやすくなる。",
+      "『Reasonable Doubt』の入口で、Jay-Zは細かな言葉を積み重ね、Mary J. Bligeは歌唱のフックを担う。滑らかな反復を背景に、ヴァースでは金銭、実務、判断の言葉が前へ出る。その対比を、贅沢な雰囲気だけに回収せず聴きたい。フックへ戻るたびに、個人的な語りが他人にも口ずさめる宣言へ変わる。本頁で扱うのは1996年の原曲で、後のリミックスやライヴ版とは分けている。"
+    ],
+    "samples": [
+      {
+        "artist": "Marcus Miller",
+        "title": "Much Too Much",
+        "role": "Dahoud Darienが再演奏と説明する素材。曲名はCultural Frontの研究で照合。単純な原盤ループとは断定しない。",
+        "sources": [
+          1,
+          4
+        ],
+        "youtube": {
+          "id": "JWu0HvW-X1M",
+          "url": "https://www.youtube.com/watch?v=JWu0HvW-X1M",
+          "title": "Much Too Much",
+          "channel": "Marcus Miller - Topic",
+          "type": "Official Audio",
+          "official": true,
+          "verified": "2026-10-16",
+          "verification": "oEmbed曲名・演者照合のみ。実音声、原盤との同一性、地域制限は未検証。"
+        },
+        "main": true
+      },
+      {
+        "artist": "Meli'sa Morgan",
+        "title": "Fool's Paradise",
+        "role": "Cultural Frontが整理した歌唱・歌詞の参照関係。Wilsonの作家表記とも対応し、原盤全体の直接サンプルとは断定しない。",
+        "sources": [
+          3,
+          4
+        ],
+        "youtube": {
+          "id": "ZzLmymD1Yr4",
+          "url": "https://www.youtube.com/watch?v=ZzLmymD1Yr4",
+          "title": "Fool's Paradise",
+          "channel": "Meli'sa Morgan - Topic",
+          "type": "Official Audio",
+          "official": true,
+          "verified": "2026-10-16",
+          "verification": "oEmbed曲名・演者照合のみ。実音声、原盤との同一性、地域制限は未検証。"
+        },
+        "main": false
+      }
+    ],
+    "sampleStatus": "出典で確認できた引用関係を掲載。再演奏と録音の使用を区別する。",
+    "listening": [
+      "Mary J. Bligeの歌唱フックと、Jay-Zの具体的な語りの役割を分けて聴く。",
+      "Marcus Miller由来の低音の動きと、その上に加わるコードの厚みを追う。",
+      "タイトルをラップへの挑戦の言葉として捉え直し、誇示と意志の違いに注目する。"
+    ],
+    "context": "Mary J. Bligeのフックが迎える『Reasonable Doubt』の入口。Knobodyの土台に共同制作者が厚みを加え、Jay-Zはラップに賭ける自分の立場を語る。",
+    "connections": [],
+    "sounds": [
+      "ラップ",
+      "歌唱フック"
+    ],
+    "addedOrder": 368,
+    "datePublished": "2026-10-16",
+    "noteReviewedAt": "2026-10-16",
+    "editorialStatus": "本人・制作陣の証言と曲別資料を照合。聴き方は資料に基づく編集上の考察。実再生は未検証。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "オリジナル・アルバム収録曲として掲載。リミックスや別編集とは区別。YouTubeの掲載情報を照合したが、実音声・埋め込み再生・地域制限は未検証。"
   }
 ]
