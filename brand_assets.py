@@ -49,7 +49,7 @@ def social_image(track=None):
     return im
 
 def write_icons(dist):
-    for size,name in [(180,'apple-touch-icon.png'),(32,'favicon-32.png'),(192,'icon-192.png'),(512,'icon-512.png')]:icon(size).save(dist/name)
+    for size,name in [(180,'apple-touch-icon.png'),(180,'apple-touch-icon-vinyl.png'),(32,'favicon-32.png'),(192,'icon-192.png'),(512,'icon-512.png')]:icon(size).save(dist/name)
     icon(48).save(dist/'favicon.ico',sizes=[(16,16),(32,32),(48,48)])
     import io
     data=io.BytesIO();icon(48).save(data,format='PNG')
