@@ -110,6 +110,14 @@ for page in DIST.rglob('*.html'):
     if '/app.js' not in text:
         analytics += '<script>gtag(\"event\",\"page_view\",{page_title:document.title,page_location:location.href});</script>'
     text=text.replace('</head>',analytics+'</head>') if '</head>' in text else text.replace('<body',analytics+'<body',1)
+    # Ensure the final emitted HTML has exactly the expected project-scoped touch icon.
+    # Older generated HTML may contain a versioned pre-migration icon link.
+    if page.name == 'index.html':
+        icon_url = BASE_PATH + '/apple-touch-icon-vinyl.png'
+        icon_tag = '<link rel="apple-touch-icon" sizes="180x180" href="' + icon_url + '">'
+        text = re.sub(r'<link\\b(?=[^>]*\\brel="apple-touch-icon")[^>]*>', '', text)
+        text = text.replace('</head>', icon_tag + '</head>', 1)
+        assert icon_tag in text, 'Touch icon link was not generated'
     page.write_text(text)
 manifest=json.loads((DIST/'site.webmanifest').read_text())
 manifest['start_url']=BASE_PATH+'/'
