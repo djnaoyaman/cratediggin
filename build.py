@@ -1,6 +1,6 @@
 """Generate all public views from the one authoritative record crate."""
 import json, html, re, os, hashlib
-from urllib.parse import urlparse
+from urllib.parse import urlparse, quote
 from pathlib import Path
 ROOT=Path(__file__).parent
 DIST=ROOT/'dist'
@@ -68,7 +68,7 @@ for artist in artist_names:
     page=re.sub(r'<title>.*?</title>','<title>'+html.escape(artist)+' の楽曲一覧 — Crate Diggin’</title>',page)
     page=re.sub(r'<meta name="description" content="[^"]*">','<meta name="description" content="'+html.escape(artist+' のHip Hop楽曲 '+str(len(artist_tracks))+' 曲を収録。楽曲解説、サンプリングの元ネタ、出典をDJ Naoyamanが紹介。',quote=True)+'">',page)
     page=re.sub(r'<link rel="canonical" href="[^"]*">','<link rel="canonical" href="'+url+'">',page)
-    page=page.replace('<head>','<head><script>window.INITIAL_ROUTE='+json.dumps('#/artist/'+__import__('urllib.parse',fromlist=['quote']).quote(artist,safe=''))+';</script>',1)
+    page=page.replace('<head>','<head><script>window.INITIAL_ROUTE='+json.dumps('#/artist/'+quote(artist,safe=''))+';</script>',1)
     page=page.replace('id="hero"','id="hero" hidden')
     (artist_dir/(slug+'.html')).write_text(page)
     links.append(url)
