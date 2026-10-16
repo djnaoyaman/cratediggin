@@ -94,7 +94,7 @@ jobs:
           gs_covered={d['title'] for d in deepdives if d['artist']=='Gang Starr' and len(d['sections'])>=3}
           assert len(gs)==22 and gs==gs_covered, f'Gang Starr editorial coverage mismatch: {gs ^ gs_covered}'
           shadow={t['title'] for t in tracks if t['artist']=='DJ Shadow'}
-          shadow_covered={d['title'] for d in deepdives if d['artist']=='DJ Shadow' and len(d['sections'])>=3}
+          shadow_covered={d['title'] for d in deepdives if d['artist']=='DJ Shadow' and len(d['sections'])>=4}
           assert len(shadow)==18 and shadow==shadow_covered, f'DJ Shadow coverage mismatch: {shadow ^ shadow_covered}'
           research=json.loads(Path('dj_shadow_sample_research.json').read_text())
           assert len(research)>=6 and sum(len(x['samples']) for x in research)>=13
