@@ -214,5 +214,533 @@
         "sourceLabel": "Rock Hall：Bomb Squadの音作り"
       }
     ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "Mass Appeal",
+    "sections": [
+      {
+        "heading": "広く売れる音楽への皮肉",
+        "text": "ヒットを狙う音楽産業を批評する歌詞と、耳に残る反復が同居する。DJ Premierは『Hard to Earn』の多くを意図的に簡素な音へ寄せた一方、この曲を比較的旋律的な例外として語っている。",
+        "source": "https://djbooth.net/features/2019-03-13-dj-premier-interview-gang-starr/",
+        "sourceLabel": "DJBooth：DJ Premierが語る『Hard to Earn』の制作"
+      },
+      {
+        "heading": "音を減らすという制作判断",
+        "text": "『Hard to Earn』全体を通すと、この曲の短い旋律がなぜ際立つかが分かる。華やかに足すのではなく、繰り返す音の位置を決めるという選択が曲の輪郭を作る。",
+        "source": "https://djbooth.net/features/2019-03-13-dj-premier-interview-gang-starr/",
+        "sourceLabel": "DJBooth：DJ Premierが語る『Hard to Earn』の制作"
+      },
+      {
+        "heading": "同じフレーズが戻る瞬間",
+        "text": "イントロの旋律だけを追ったあと、Guruの韻が着地する位置を聴く。反復するフレーズは変わらなくても、声が加わると一周ごとの印象が変化する。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "DWYCK",
+    "sections": [
+      {
+        "heading": "Nice & Smoothとの掛け合い",
+        "text": "この曲の聴取上の中心はGang StarrとNice & Smoothの共演。Guruの落ち着いた声に対し、ゲストの軽快な言葉運びが対照を生む。アルバムの年だけで曲の初出年を決めつけず、シングルと後年の収録盤を分けて考えたい。",
+        "source": "https://www.allmusic.com/artist/gang-starr-mn0000193601",
+        "sourceLabel": "AllMusic：Gang Starrの作品史"
+      },
+      {
+        "heading": "Gang Starrのもう一つの顔",
+        "text": "硬質な社会観察だけでなく、MC同士の技を楽しむパーティー・ラップとして聴ける。DJ PremierがGuruの声に合う音を仕立てたという制作観から、声質の違う参加者をどう共存させるか考えてみたい。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      },
+      {
+        "heading": "ヴァースごとの温度差",
+        "text": "Guruからゲストへ移るたびに、音数よりも言葉の跳ね方に注意する。ビートが一定だからこそ、MCの違いが鮮明になる。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "Take It Personal",
+    "sections": [
+      {
+        "heading": "私的な感情をリズムへ",
+        "text": "『Daily Operation』収録。題名が示すように、関係性や不信の問題をパーソナルな語りとして聴ける。Gang Starrの歌詞は、抽象的なスローガンより具体的な態度を描くところに強さがある。",
+        "source": "https://gangstarr.global/pages/bio",
+        "sourceLabel": "Gang Starr公式：グループとアルバムの歩み"
+      },
+      {
+        "heading": "1992年の作品の中で",
+        "text": "同じ盤の『Ex Girl to Next Girl』や『Flip the Script』と続けて聴くと、Guruがテーマを変えても語りの速度を大きく変えないことが分かる。",
+        "source": "https://musicbrainz.org/artist/9ef8042a-2528-4f5c-b7c1-5e72b1efe170",
+        "sourceLabel": "MusicBrainz：Gang Starrのディスコグラフィー"
+      },
+      {
+        "heading": "声の間にある余白",
+        "text": "語尾の後で伴奏だけが残る瞬間に耳を向ける。言葉を詰め込まないことで、次のフレーズに重みが生まれる。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "Code of the Streets",
+    "sections": [
+      {
+        "heading": "街の規範を問う",
+        "text": "『Hard to Earn』の一曲。題名の「ストリートの掟」は、街で通用する規則や価値観を指す。歌詞を単なる武勇伝として扱わず、何を正当化し何を批判しているのかを分けて聴くことが大切だ。",
+        "source": "https://djbooth.net/features/2019-03-13-dj-premier-interview-gang-starr/",
+        "sourceLabel": "DJBooth：DJ Premierが語る『Hard to Earn』の制作"
+      },
+      {
+        "heading": "削ぎ落とした音が言葉を残す",
+        "text": "DJ Premierはこのアルバムで音を意識的にそぎ落としたと証言する。メロディーの少なさが欠落ではなく、Guruの言葉の輪郭を前面に出す設計になっている。",
+        "source": "https://djbooth.net/features/2019-03-13-dj-premier-interview-gang-starr/",
+        "sourceLabel": "DJBooth：DJ Premierが語る『Hard to Earn』の制作"
+      },
+      {
+        "heading": "硬さの作り方",
+        "text": "キックとスネアの隙間に、声がどの程度踏み込むかを追う。派手な音を増やさず緊張を維持する手法が分かる。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "Above the Clouds",
+    "sections": [
+      {
+        "heading": "Inspectah Deckとの共演",
+        "text": "『Moment of Truth』（1998）収録。Wu-Tang ClanのInspectah Deckが参加し、Guruの抑制された語りと異なる密度のラップを並べる。Gang Starrの音が別のMCの言葉をどう受け止めるかを示す曲でもある。",
+        "source": "https://www.allmusic.com/artist/gang-starr-mn0000193601",
+        "sourceLabel": "AllMusic：Gang Starrの作品史"
+      },
+      {
+        "heading": "成熟期のアルバムを聴く",
+        "text": "『Moment of Truth』は前作から間を置いた復帰作。Guruはこのアルバムで自分も制作に関わったことを語っており、二人の分業を単純化しない視点が必要だ。",
+        "source": "https://allhiphop.com/features/gangstarr-no-question-remainz/",
+        "sourceLabel": "AllHipHop：Guru本人による制作と役割の証言"
+      },
+      {
+        "heading": "浮遊感と地面の対比",
+        "text": "伸びるような音の上に、異なる二つの声がどう着地するかを聴く。音色の印象とラップの硬さの差が聴きどころ。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "Full Clip",
+    "sections": [
+      {
+        "heading": "十周年を刻むタイトル曲",
+        "text": "1999年の回顧作『Full Clip: A Decade of Gang Starr』に結びつく曲。ベスト盤のタイトル曲だからといって、単なる旧曲の再収録と混同しない。作品史の区切りとして聴く。",
+        "source": "https://www.allmusic.com/artist/gang-starr-mn0000193601",
+        "sourceLabel": "AllMusic：Gang Starrの作品史"
+      },
+      {
+        "heading": "DJの技術が前に出る",
+        "text": "Gang StarrではDJ Premierのスクラッチや音の切り返しも演奏の一部。Guruの声の背後で、DJがどう短い音を配置するかに注目したい。",
+        "source": "https://gangstarr.global/pages/bio",
+        "sourceLabel": "Gang Starr公式：グループとアルバムの歩み"
+      },
+      {
+        "heading": "十年を一曲に凝縮する聴き方",
+        "text": "イントロとフックの切れ味を追い、過去の『Mass Appeal』と比較する。制作期の異なる楽曲でも二人の役割分担が残る。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "Flip the Script",
+    "sections": [
+      {
+        "heading": "『Daily Operation』の言葉遊び",
+        "text": "「台本をひっくり返す」という題名は、常識や予想を逆転させるMCの技にもつながる。アルバム全体の流れに戻すと、Guruの語りの柔軟さが見えてくる。",
+        "source": "https://musicbrainz.org/artist/9ef8042a-2528-4f5c-b7c1-5e72b1efe170",
+        "sourceLabel": "MusicBrainz：Gang Starrのディスコグラフィー"
+      },
+      {
+        "heading": "Guruの声は楽器でもある",
+        "text": "DJ PremierはGuruの声の音域や質感に合わせてビートを作ったと語っている。歌詞を読むだけでなく、声がスネアの前後にどう置かれるかを確かめたい。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      },
+      {
+        "heading": "語尾を追いかける",
+        "text": "一行ごとの最後の音節を聴き、次の小節の頭との距離を測るつもりで聴く。韻の仕掛けを音として理解できる。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "Ex Girl to Next Girl",
+    "sections": [
+      {
+        "heading": "恋愛を題材にした日常観察",
+        "text": "政治的な主張だけでなく、男女関係の機微もGuruの題材だった。『Daily Operation』の中で、関係の変化を語る曲として置くとアルバムの視野が広がる。",
+        "source": "https://gangstarr.global/pages/bio",
+        "sourceLabel": "Gang Starr公式：グループとアルバムの歩み"
+      },
+      {
+        "heading": "サンプルと語りの関係",
+        "text": "既存のソウルやジャズを素材にするGang Starrの方法は、懐かしさを呼び出すだけでなく新しい話の背景を作ることにある。個別の使用音源は既存の出典と照合して判断したい。",
+        "source": "https://www.allmusic.com/artist/gang-starr-mn0000193601",
+        "sourceLabel": "AllMusic：Gang Starrの作品史"
+      },
+      {
+        "heading": "話す速度を聴く",
+        "text": "急いで感情を誇張しないGuruの声と、伴奏の反復を別々に聴く。題名の忙しさとは対照的な語りのテンポが面白い。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "Take Two and Pass",
+    "sections": [
+      {
+        "heading": "仲間内の動作を曲にする",
+        "text": "『Daily Operation』の一曲。曲名の「取って、渡す」は共同体の身振りを思わせる。特定の行動を推奨する歌ではなく、当時のラップに現れる生活描写として読む。",
+        "source": "https://musicbrainz.org/artist/9ef8042a-2528-4f5c-b7c1-5e72b1efe170",
+        "sourceLabel": "MusicBrainz：Gang Starrのディスコグラフィー"
+      },
+      {
+        "heading": "ジャズ・ラップという大きな枠",
+        "text": "Gang Starrはジャズ的な音色と硬いドラムを結びつけたグループとして知られる。ただし全曲の元ネタをジャズと決めつけず、実際のサンプル同定は資料ごとに確認したい。",
+        "source": "https://www.allmusic.com/artist/gang-starr-mn0000193601",
+        "sourceLabel": "AllMusic：Gang Starrの作品史"
+      },
+      {
+        "heading": "循環するビートの意味",
+        "text": "一周目はドラム、二周目は声、三周目は短い音の割り込みを聴く。繰り返しが退屈ではなく共有の時間になる。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "2 Deep",
+    "sections": [
+      {
+        "heading": "『Daily Operation』の深度",
+        "text": "曲名の「Deep」を、低音と語りの二つの奥行きとして聴いてみる。これは題名を手がかりにした編集者の聴取提案であり、作者の意図を断定するものではない。",
+        "source": "https://musicbrainz.org/artist/9ef8042a-2528-4f5c-b7c1-5e72b1efe170",
+        "sourceLabel": "MusicBrainz：Gang Starrのディスコグラフィー"
+      },
+      {
+        "heading": "DJ Premierの音の仕立て",
+        "text": "DJ PremierはGuruの声を前に出すため、素材の質感を合わせることを重視したと説明している。この曲でも伴奏の音域と声の居場所を聴き分けたい。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      },
+      {
+        "heading": "二度目に見えるもの",
+        "text": "最初はリズムだけ、次はGuruの声だけを追う。音の少ない箇所にどれだけ情報があるかが見えてくる。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "Mostly Tha Voice",
+    "sections": [
+      {
+        "heading": "声そのものを主題に",
+        "text": "題名が示すのは「ほとんど声」。Guruの声の個性を知る入口として適した曲だ。DJ Premier自身、Guruの独特の声に合わせてビートを作る必要があったと振り返る。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      },
+      {
+        "heading": "『Hard to Earn』の引き算",
+        "text": "同作はDJ Premierが意図的にメロディーを抑え、より荒い質感を追求した作品。音の空白が声を強くするという逆説を感じられる。",
+        "source": "https://djbooth.net/features/2019-03-13-dj-premier-interview-gang-starr/",
+        "sourceLabel": "DJBooth：DJ Premierが語る『Hard to Earn』の制作"
+      },
+      {
+        "heading": "声をミックスの中心に置く",
+        "text": "声が聞こえる大きさではなく、声の前後に残された空間を聴く。小さな音の配置が存在感を決める。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "The ? Remainz",
+    "sections": [
+      {
+        "heading": "疑問符を残すタイトル",
+        "text": "曲名は『The ? Remainz』。疑問符を勝手に補って意味を固定しない。Gang StarrがシングルやB面にも独自の作品を置いた時代の文脈で聴きたい。",
+        "source": "https://gangstarr.global/pages/bio",
+        "sourceLabel": "Gang Starr公式：グループとアルバムの歩み"
+      },
+      {
+        "heading": "アルバム外の曲を追う",
+        "text": "収録盤の表示だけでは、曲の制作時期や初出が見えにくい場合がある。『Hard to Earn』前後のシングルとベスト盤を区別して作品史をたどる。",
+        "source": "https://musicbrainz.org/artist/9ef8042a-2528-4f5c-b7c1-5e72b1efe170",
+        "sourceLabel": "MusicBrainz：Gang Starrのディスコグラフィー"
+      },
+      {
+        "heading": "問いを残すループ",
+        "text": "短い反復が終わるたびに、どの音が記憶に残るか試す。元ネタの同定は曲ページの既存資料を優先する。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "Comin’ for the Datazz",
+    "sections": [
+      {
+        "heading": "アルバム終盤の機能",
+        "text": "『Hard to Earn』収録。単曲で聴くのと、アルバムの流れで聴くのとでは役割が変わる。終盤に置かれた曲として、勢いがどのように維持されるか考えたい。",
+        "source": "https://djbooth.net/features/2019-03-13-dj-premier-interview-gang-starr/",
+        "sourceLabel": "DJBooth：DJ Premierが語る『Hard to Earn』の制作"
+      },
+      {
+        "heading": "荒削りさを選ぶ制作",
+        "text": "DJ Premierは『Hard to Earn』の多くを意図的に簡素で異質な音にしたと語る。滑らかなメロディーを期待する耳には、その選択が挑発的に聞こえる。",
+        "source": "https://djbooth.net/features/2019-03-13-dj-premier-interview-gang-starr/",
+        "sourceLabel": "DJBooth：DJ Premierが語る『Hard to Earn』の制作"
+      },
+      {
+        "heading": "アルバムの出口を探す",
+        "text": "前曲から続けて聴き、曲の入り方と終わり方に注目する。単体の強さだけでは測れないアルバム構成が見える。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "B.Y.S.",
+    "sections": [
+      {
+        "heading": "略語の意味を急がない",
+        "text": "短いタイトルに目が行くが、曲の意味を略語の推測だけで決めない。まず『Daily Operation』という1992年の作品内での位置を確かめる。",
+        "source": "https://musicbrainz.org/artist/9ef8042a-2528-4f5c-b7c1-5e72b1efe170",
+        "sourceLabel": "MusicBrainz：Gang Starrのディスコグラフィー"
+      },
+      {
+        "heading": "ラップとDJの対等な仕事",
+        "text": "Gang StarrはMCとDJの二人組であり、Guruの声だけでなくPremierの音の切り返しが構成に関わる。声のない瞬間にもDJの仕事が続く。",
+        "source": "https://gangstarr.global/pages/bio",
+        "sourceLabel": "Gang Starr公式：グループとアルバムの歩み"
+      },
+      {
+        "heading": "三文字より長い余韻",
+        "text": "フックの前後で音がどう引かれ、戻るかを聴く。タイトルから離れてビートの構造を観察する。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "ALONGWAYTOGO",
+    "sections": [
+      {
+        "heading": "曲名をつなげる勢い",
+        "text": "『Hard to Earn』の一曲。文字を連ねたタイトルのように、フレーズの切れ目を意識しながら聴くと、ループとラップが一体化する感覚をつかめる。",
+        "source": "https://musicbrainz.org/artist/9ef8042a-2528-4f5c-b7c1-5e72b1efe170",
+        "sourceLabel": "MusicBrainz：Gang Starrのディスコグラフィー"
+      },
+      {
+        "heading": "『Hard to Earn』の実験性",
+        "text": "DJ Premierはこのアルバムの『ALONGWAYTOGO』を、メロディーを削った異質なサウンドの例として自ら挙げている。一般的なGang Starr像との違いが制作意図から説明できる。",
+        "source": "https://djbooth.net/features/2019-03-13-dj-premier-interview-gang-starr/",
+        "sourceLabel": "DJBooth：DJ Premierが語る『Hard to Earn』の制作"
+      },
+      {
+        "heading": "切れ目を数える",
+        "text": "短い音の反復とGuruの韻の区切りが一致するか、ずれるかを聴く。繰り返しの中に小さなずれがある。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "Battle",
+    "sections": [
+      {
+        "heading": "映画『8 Mile』との接点",
+        "text": "2002年の映画『8 Mile』関連サウンドトラックに収録された曲。映画の舞台がデトロイトだからといって、Gang Starr自体の活動拠点までデトロイトと混同しない。",
+        "source": "https://musicbrainz.org/artist/9ef8042a-2528-4f5c-b7c1-5e72b1efe170",
+        "sourceLabel": "MusicBrainz：Gang Starrのディスコグラフィー"
+      },
+      {
+        "heading": "アルバム外で聴くGang Starr",
+        "text": "Gang Starrの本編アルバムを時系列で追うだけでは見落とす作品。2003年の『The Ownerz』へ向かう時期の一曲として位置づけたい。",
+        "source": "https://www.allmusic.com/artist/gang-starr-mn0000193601",
+        "sourceLabel": "AllMusic：Gang Starrの作品史"
+      },
+      {
+        "heading": "映画の文脈から離れて聴く",
+        "text": "映像を想像する前にGuruのフレージングとビートの硬さを聴く。作品外の依頼曲でも二人の音楽的な署名が残る。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "Blowin’ Up the Spot",
+    "sections": [
+      {
+        "heading": "『Hard to Earn』の強い輪郭",
+        "text": "1994年のアルバム内の一曲。曲名の勢いと対照的に、音の要素を足すのではなく削る制作方針がアルバム全体に貫かれている。",
+        "source": "https://djbooth.net/features/2019-03-13-dj-premier-interview-gang-starr/",
+        "sourceLabel": "DJBooth：DJ Premierが語る『Hard to Earn』の制作"
+      },
+      {
+        "heading": "Guruに合うビートを作る",
+        "text": "DJ PremierはGang Starrの曲ではGuruの声と自身のビートが合うことを最優先したと説明している。プロデューサーの個性だけを切り離して評価しない視点が重要だ。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      },
+      {
+        "heading": "音が消える場所",
+        "text": "キックやスネアが鳴る瞬間だけでなく、その間の沈黙に耳を向ける。荒さを支えるのは配置の精度でもある。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "DJ Premier in Deep Concentration",
+    "sections": [
+      {
+        "heading": "DJが主役になる1989年の曲",
+        "text": "『No More Mr. Nice Guy』（1989）収録。Gang Starr公式バイオグラフィーでもDJに焦点を当てた曲として紹介される。MCの声を待つだけでは、この曲の面白さを逃す。",
+        "source": "https://gangstarr.global/pages/bio",
+        "sourceLabel": "Gang Starr公式：グループとアルバムの歩み"
+      },
+      {
+        "heading": "スクラッチは装飾ではない",
+        "text": "DJ Premierはレコードを切り返す技術をGang Starrの音楽の核にした。サンプラーによるビートとターンテーブルの演奏を別の層として聴くと、初期の制作思想が分かる。",
+        "source": "https://www.allmusic.com/artist/gang-starr-mn0000193601",
+        "sourceLabel": "AllMusic：Gang Starrの作品史"
+      },
+      {
+        "heading": "針の動きを想像する",
+        "text": "音が突然切れたり戻ったりする瞬間に集中する。メロディーの代わりに、レコードの動きがフレーズを作る。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "Gotta Get Over (Taking Loot)",
+    "sections": [
+      {
+        "heading": "『Trespass』サウンドトラックの寄り道",
+        "text": "1992年の映画『Trespass』関連作品として発表された曲。後年のコンピレーション収録年を原曲の制作年と取り違えないようにしたい。",
+        "source": "https://musicbrainz.org/artist/9ef8042a-2528-4f5c-b7c1-5e72b1efe170",
+        "sourceLabel": "MusicBrainz：Gang Starrのディスコグラフィー"
+      },
+      {
+        "heading": "1992年のGang Starrを横断する",
+        "text": "同年の『Daily Operation』と聴き比べると、アルバム本編と映画向け作品に共通する声とビートの関係が見えてくる。",
+        "source": "https://gangstarr.global/pages/bio",
+        "sourceLabel": "Gang Starr公式：グループとアルバムの歩み"
+      },
+      {
+        "heading": "サウンドトラックを外して聴く",
+        "text": "映画の場面を知らなくても成立するラップのリズムと、短い音の反復を聴く。アルバムの外に置かれた一曲の個性を探したい。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "No Shame in My Game",
+    "sections": [
+      {
+        "heading": "誇りと態度の表明",
+        "text": "『Daily Operation』（1992）収録。タイトルの「恥じることはない」は、他人の評価より自分の態度を優先する響きを持つ。歌詞全体の主張を題名だけから断定せず、曲中の言葉を確かめたい。",
+        "source": "https://musicbrainz.org/artist/9ef8042a-2528-4f5c-b7c1-5e72b1efe170",
+        "sourceLabel": "MusicBrainz：Gang Starrのディスコグラフィー"
+      },
+      {
+        "heading": "Guruの落ち着いた説得力",
+        "text": "DJ PremierはGuruの声の個性をビートで引き立てることを重視した。叫ばずに言葉を前へ出す方法として、声の音域と伴奏のバランスを聴く。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      },
+      {
+        "heading": "フックの戻り方",
+        "text": "同じフレーズが戻る際、声の強さとドラムの位置を聴く。反復が態度を印象づける。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "Step in the Arena",
+    "sections": [
+      {
+        "heading": "1991年の転機",
+        "text": "公式バイオグラフィーは『Step in the Arena』を1991年の作品として紹介している。1989年のデビューから、硬いドラムとジャズ的な質感を組み合わせる二人の方法がより鮮明になった時期。",
+        "source": "https://gangstarr.global/pages/bio",
+        "sourceLabel": "Gang Starr公式：グループとアルバムの歩み"
+      },
+      {
+        "heading": "『アリーナ』という比喩",
+        "text": "競技場を意味する題名を、MCが技を試す場として聴いてみる。これは編集上の比喩的な読み方であり、制作当事者がその意味だけを意図したという主張ではない。",
+        "source": "https://www.allmusic.com/artist/gang-starr-mn0000193601",
+        "sourceLabel": "AllMusic：Gang Starrの作品史"
+      },
+      {
+        "heading": "デビュー盤と比較する",
+        "text": "『DJ Premier in Deep Concentration』から順に聴くと、DJの技術がラップの背景へどう組み込まれていくかをたどれる。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
+  },
+  {
+    "artist": "Gang Starr",
+    "title": "Now You're Mine",
+    "sections": [
+      {
+        "heading": "1994年のアルバムに置く",
+        "text": "『Hard to Earn』収録。強い言葉の題名だけで曲の内容を決めつけず、アルバム全体の硬質な音の中でこの曲がどの役割を担うか聴きたい。",
+        "source": "https://musicbrainz.org/artist/9ef8042a-2528-4f5c-b7c1-5e72b1efe170",
+        "sourceLabel": "MusicBrainz：Gang Starrのディスコグラフィー"
+      },
+      {
+        "heading": "制作の『引き算』という鍵",
+        "text": "DJ Premierはこの作品で従来の旋律的なサンプルから離れ、削ぎ落とした音を意識したと語っている。曲を一つのジャンル名だけで説明しないほうが面白い。",
+        "source": "https://djbooth.net/features/2019-03-13-dj-premier-interview-gang-starr/",
+        "sourceLabel": "DJBooth：DJ Premierが語る『Hard to Earn』の制作"
+      },
+      {
+        "heading": "声と音の境界",
+        "text": "Guruの声が途切れた直後の音を追い、どの短い断片がラップを引き継ぐか確かめる。",
+        "source": "https://www.thefader.com/2019/11/11/dj-premier-gang-starr-one-of-the-best-yet-guru-interview",
+        "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
+      }
+    ]
   }
 ]

@@ -90,6 +90,9 @@ jobs:
           pe={t['title'] for t in tracks if t['artist']=='Public Enemy'}
           covered={d['title'] for d in deepdives if d['artist']=='Public Enemy' and len(d['sections'])>=3}
           assert pe == covered, f'Public Enemy editorial coverage mismatch: {pe ^ covered}'
+          gs={t['title'] for t in tracks if t['artist']=='Gang Starr'}
+          gs_covered={d['title'] for d in deepdives if d['artist']=='Gang Starr' and len(d['sections'])>=3}
+          assert len(gs)==22 and gs==gs_covered, f'Gang Starr editorial coverage mismatch: {gs ^ gs_covered}'
           assert 'dj-shadow-the-number-song' in (root/'tracks.js').read_text()
           print('Generated pages, social cards, URLs and Number Song verified')
           PY
