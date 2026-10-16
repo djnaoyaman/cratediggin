@@ -77,7 +77,7 @@ def enhance(path,title,description,url,img,ld,article=False):
     tags=[('og:title',title),('og:description',description),('og:type','article' if article else 'website'),('og:url',url),('og:site_name','Crate Diggin’'),('og:locale','ja_JP'),('og:image',img),('og:image:width','1200'),('og:image:height','630'),('og:image:alt',title+' — Crate Diggin’')]
     head=''.join('<meta property="'+k+'" content="'+html.escape(v,quote=True)+'">' for k,v in tags)
     head+=''.join('<meta name="'+k+'" content="'+html.escape(v,quote=True)+'">' for k,v in [('twitter:card','summary_large_image'),('twitter:title',title),('twitter:description',description),('twitter:image',img),('twitter:image:alt',title)])
-    head+='<meta name="author" content="DJ Naoyaman"><meta name="robots" content="index,follow,max-image-preview:large"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-vinyl.png"><link rel="icon" sizes="32x32" type="image/png" href="/favicon-32.png"><link rel="alternate icon" href="/favicon.ico"><link rel="manifest" href="/site.webmanifest">'
+    head+='<meta name="author" content="DJ Naoyaman"><meta name="robots" content="index,follow,max-image-preview:large"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="icon" sizes="32x32" type="image/png" href="/favicon-32.png"><link rel="alternate icon" href="/favicon.ico"><link rel="manifest" href="/site.webmanifest">'
     head+='<script type="application/ld+json">'+json.dumps(ld,ensure_ascii=False).replace('</',r'<\/')+'</script>'
     content=content.replace('</head>','<!-- SHARING_METADATA -->'+head+'<!-- /SHARING_METADATA --></head>')
     content=content.replace('公式YouTubeの連続再生','YouTube音源の連続再生')
