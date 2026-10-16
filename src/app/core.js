@@ -3,7 +3,8 @@
  const excluded=new Set();try{JSON.parse(localStorage.getItem('crate-queue-excluded')||'[]').forEach(id=>excluded.add(id))}catch(_){}
  let playlistStorage;try{playlistStorage=localStorage}catch(_){playlistStorage={getItem:()=>null,setItem:()=>{throw Error('storage')}}}
  const myCrate=window.CratePlaylist(songs,playlistStorage);let customMode=false,lastCustomRemoved=null,applyListFilters=null;
- const playableIds=list=>list.filter(x=>x.youtube.id&&(customMode||!excluded.has(x.id))).map(x=>x.id);
+ let queueCustom=false,queueScope=queue.slice();
+ const playableIds=(list,selected=customMode)=>list.filter(x=>x.youtube.id&&(selected||!excluded.has(x.id))).map(x=>x.id);
  function saveExcluded(){try{localStorage.setItem('crate-queue-excluded',JSON.stringify([...excluded]))}catch(_){}}
  queue=playableIds(songs);
  let lastRemoved=null;

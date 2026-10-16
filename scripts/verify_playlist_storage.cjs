@@ -1,0 +1,13 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
+const context={window:{}};vm.runInNewContext(fs.readFileSync('src/assets/playlist.js','utf8'),context);
+let value=null;const storage={getItem:()=>value,setItem:(_,next)=>{value=next;}};
+const create=()=>context.window.CratePlaylist(['a','b','c'].map(id=>({id})),storage);
+const a=create(),b=create();a.add('a');b.add('b');a.rename('Shared');b.add('c');
+assert.deepEqual(JSON.parse(value),{name:'Shared',ids:['a','b','c']});
+const removed=a.remove('b');b.move('c',-1);a.restore(removed);
+assert.deepEqual(JSON.parse(value),{name:'Shared',ids:['c','b','a']});
+assert.equal(b.add('unknown'),false);b.sync();assert.equal(b.name,'Shared');
+assert.equal(b.ids.join(','),'c,b,a');
+const blocked=context.window.CratePlaylist([{id:'a'}],{getItem(){throw Error();},setItem(){throw Error();}});
+assert.equal(blocked.add('a'),false);assert.equal(blocked.has('a'),true);
+console.log('Stale-tab add, rename, reorder, remove/restore, validation and unavailable storage passed');
