@@ -9,6 +9,7 @@ BASE_PATH=urlparse(HOST).path.rstrip('/')
 tracks=json.loads((ROOT/'tracks.json').read_text())
 deepdives=json.loads((ROOT/'editorial_deepdives.json').read_text())
 deepdive_map={(e['artist'].casefold(),e['title'].casefold()):e['sections'] for e in deepdives}
+assert len(deepdive_map)==len(deepdives), 'Duplicate deep-dive artist/title key'
 
 ids=set()
 for t in tracks:
