@@ -70,6 +70,8 @@ jobs:
           assert '"//cratediggin/' not in html, 'Broken protocol-relative Pages URLs'
           assert 'src="/cratediggin/tracks.js' in html, 'Track data script URL incorrect'
           assert 'src="/cratediggin/app.js' in html, 'Player script URL incorrect'
+          assert 'href="/cratediggin/apple-touch-icon-vinyl.png"' in html, 'Vinyl touch icon URL missing'
+          assert (root/'apple-touch-icon-vinyl.png').exists(), 'Vinyl touch icon not generated'
           assert 'dj-shadow-the-number-song' in (root/'tracks.js').read_text()
           print('Generated pages, social cards, URLs and Number Song verified')
           PY
