@@ -8,6 +8,9 @@ HOST=os.environ.get('SITE_URL','https://djnaoyaman.github.io/cratediggin').rstri
 BASE_PATH=urlparse(HOST).path.rstrip('/')
 tracks=json.loads((ROOT/'tracks.json').read_text())
 deepdives=json.loads((ROOT/'editorial_deepdives.json').read_text())
+sample_research=json.loads((ROOT/'dj_shadow_sample_research.json').read_text())
+sample_research_map={(e['artist'].casefold(),e['title'].casefold()):e['samples'] for e in sample_research}
+assert len(sample_research_map)==len(sample_research), 'Duplicate sample research entry'
 deepdive_map={(e['artist'].casefold(),e['title'].casefold()):e['sections'] for e in deepdives}
 assert len(deepdive_map)==len(deepdives), 'Duplicate deep-dive artist/title key'
 
@@ -34,6 +37,7 @@ for directory, suffixes in ((DIST/'songs', {'.html', '.md'}), (DIST/'og', {'.png
                 stale.unlink()
 for t in tracks:
     t['deepdives']=deepdive_map.get((t['artist'].casefold(),t['title'].casefold()),[])
+    t['researchedSamples']=sample_research_map.get((t['artist'].casefold(),t['title'].casefold()),[])
 (DIST/'tracks.js').write_text('window.TRACKS = '+json.dumps(tracks,ensure_ascii=False).replace('</','<\\/')+';\n')
 base=(DIST/'index.html').read_text()
 base=re.sub(r'<script type="application/ld\+json">.*?</script>', '', base, flags=re.S)
@@ -46,6 +50,8 @@ for t in tracks:
     body='<article><h1>'+e(t['title'])+'</h1><p>'+e(t['artist'])+'</p><p>'+e(t['deck'])+'</p><h2>'+e(t['essayTitle'])+'</h2>'+''.join('<p>'+e(x)+'</p>' for x in t['essay'])
     for section in deepdive_map.get((t['artist'].casefold(),t['title'].casefold()),[]):
         body+='<section class="editorial-deepdive"><h2>'+e(section['heading'])+'</h2><p>'+e(section['text'])+'</p><p>参考資料：<a href="'+e(section['source'],quote=True)+'">'+e(section['sourceLabel'])+'</a></p></section>'
+    for sm in t.get('researchedSamples',[]):
+        body+='<section class="editorial-deepdive"><h2>調査済みサンプル：'+e(sm['artist']+' — '+sm['title'])+'</h2><p>'+e(sm['role'])+'</p><p>出典：<a href="'+e(sm['source'],quote=True)+'">資料を開く</a></p></section>'
     body+='<h2>制作背景</h2>'+''.join('<h3>'+e(f['title'])+'</h3><p>'+e(f['text'])+'</p>' for f in t['facts'])
     body+='<h2>サンプル元</h2>'+''.join('<h3>'+e(s['artist']+' — '+s['title'])+'</h3><p>'+e(s['role'])+'</p>'+('<a href="https://www.youtube.com/watch?v='+s['youtube']['id']+'">サンプル元のYouTube</a>' if s.get('youtube') else '') for s in t['samples'])
     body+='<p>'+e(t.get('editorialStatus',''))+'</p><p>'+e(t.get('sampleStatus',''))+'</p><h2>出典</h2>'+''.join('<p><a href="'+e(s['url'])+'">'+e(s['label'])+'</a></p>' for s in t['sources'])+'</article>'
