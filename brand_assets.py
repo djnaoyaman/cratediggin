@@ -22,10 +22,12 @@ def vinyl(im,cx,cy,r):
     text(im,(cx-lr*.78,cy-lr*.32),'33 1/3',int(r*.32),width=lr*1.56,fill=BLUE)
     d.ellipse((cx-2,cy-2,cx+2,cy+2),fill=INK)
 def icon(size):
-    """Home-screen icon: the same blue backdrop and illustrated record as the hero."""
-    im=Image.new('RGB',(512,512),BLUE)
-    vinyl(im,256,256,218)
-    return im.resize((size,size),Image.Resampling.LANCZOS)
+    """Use the supplied original record illustration, not a recreated graphic."""
+    import io
+    encoded=(ROOT/'brand'/'record-art.jpg.base64').read_text().strip()
+    original=Image.open(io.BytesIO(base64.b64decode(encoded))).convert('RGB')
+    return original.resize((size,size),Image.Resampling.LANCZOS)
+
 def social_image(track=None):
     im=Image.new('RGB',(1200,630),BLUE);d=ImageDraw.Draw(im)
     text(im,(45,31),'RECORDS. RHYMES. RECOLLECTIONS.',24)
