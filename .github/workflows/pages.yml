@@ -35,6 +35,7 @@ jobs:
           node --check dist/art.js
           node --check dist/playlist.js
           python build.py
+          python scripts/audit_editorial_depth.py
           python - <<'PY'
           import json
           from pathlib import Path
