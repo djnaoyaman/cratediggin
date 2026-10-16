@@ -15,7 +15,8 @@ const {chromium}=require('playwright');
  let browser;
  try{
   browser=await chromium.launch({headless:true,channel:process.env.BROWSER_CHANNEL||undefined});
-  const page=await browser.newPage({viewport:{width:390,height:900}}),errors=[];
+  const context=await browser.newContext({viewport:{width:390,height:900}});
+  const page=await context.newPage(),errors=[];
   page.on('pageerror',e=>errors.push(e.message));
   await page.route('https://www.googletagmanager.com/**',r=>r.abort());
   await page.route('https://www.youtube.com/iframe_api',r=>r.fulfill({contentType:'application/javascript',body:`
