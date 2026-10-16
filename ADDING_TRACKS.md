@@ -31,7 +31,7 @@
 
 ## 選曲棚と地域
 
-`editorialCrates` は曲単位の編集判断で複数指定。jazz-mellow / funk-soul / raw-beats / cut-scratch / mic-skills を使い、地域や汎用タグから一律に自動付与しない。棚にない曲も「すべて」で探せる。`collections` の east / west は従来どおり活動地域用。その他の地域も選択可能。過去の cafe / pizza / walk は互換データとして残すが新しい選曲棚の判定には使わない。一覧は初期全曲、50曲ずつ。出典の未確認項目は明記する。
+`editorialCrates` の旧ジャンル棚は互換データとして保持しますが、現在の選曲棚の判定には使いません。`collections` の east / west は活動地域の補助条件として維持します。過去の cafe / pizza / walk も互換データです。一覧は初期全曲、50曲ずつ。出典の未確認項目は明記します。
 
 ### 聴きどころの棚
 
