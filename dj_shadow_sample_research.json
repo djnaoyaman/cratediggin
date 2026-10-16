@@ -1,0 +1,129 @@
+[
+  {
+    "artist": "DJ Shadow",
+    "title": "Midnight in a Perfect World",
+    "samples": [
+      {
+        "artist": "David Axelrod",
+        "title": "The Human Abstract",
+        "year": 1969,
+        "role": "旋律の核となる断片。DJ Shadow本人が制作回想で原曲を明かしている。",
+        "source": "https://thequietus.com/interviews/dj-shadow-reconstructed-best-of-interview/"
+      },
+      {
+        "artist": "Pekka Pohjola",
+        "title": "The Madness Subsides",
+        "year": 1975,
+        "role": "複数の楽器音を組み合わせる素材として、サンプル資料に記録されている。",
+        "source": "https://www.whosampled.com/sample/198984/Papa-J.-Ruiz-Kiss-the-Sky-DJ-Shadow-Midnight-in-a-Perfect-World/"
+      },
+      {
+        "artist": "Baraka",
+        "title": "Sower of Seeds",
+        "year": 1976,
+        "role": "ヴォーカルの断片。曲の夜の風景に声の奥行きを加える。",
+        "source": "https://www.whosampled.com/sample/198984/Papa-J.-Ruiz-Kiss-the-Sky-DJ-Shadow-Midnight-in-a-Perfect-World/"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "Building Steam With a Grain of Salt",
+    "samples": [
+      {
+        "artist": "Jeremy Storch",
+        "title": "I Feel a New Shadow",
+        "year": 1970,
+        "role": "反復するピアノの核。アルバムのライナーノーツにクレジットされた素材。",
+        "source": "https://www.theleadin.com/deep-dive/endtroducing"
+      },
+      {
+        "artist": "Frankie Seay & the Soul Riders",
+        "title": "Soul Food",
+        "year": 1969,
+        "role": "ドラム・ブレイク。研究論文のサンプル対応図で位置まで示されている。",
+        "source": "https://run.unl.pt/bitstream/10362/45945/1/TESE%20MESTRADO%20-Guillermo%20de%20Llera%202017.pdf"
+      },
+      {
+        "artist": "George Marsh",
+        "title": "George Marsh on Drums: Interviewed by Terry McGovern",
+        "year": 1974,
+        "role": "ドラマーのインタビュー音声。音楽の作り手の声が楽曲の構造に組み込まれる。",
+        "source": "https://run.unl.pt/bitstream/10362/45945/1/TESE%20MESTRADO%20-Guillermo%20de%20Llera%202017.pdf"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "The Number Song",
+    "samples": [
+      {
+        "artist": "Tony Alvon & the Belairs",
+        "title": "Sexy Coffee Pot",
+        "year": 1969,
+        "role": "ドラム・ブレイク。WhoSampledはShadow版2分20秒付近を示す。",
+        "source": "https://www.whosampled.com/sample/32039/DJ-Shadow-The-Number-Song-Tony-Alvon-%26-the-Belairs-Sexy-Coffee-Pot/"
+      },
+      {
+        "artist": "Metallica",
+        "title": "Orion",
+        "year": 1986,
+        "role": "ベース素材。アルバムのサンプル・クレジットにも挙げられる。",
+        "source": "https://www.whosampled.com/sample/32039/DJ-Shadow-The-Number-Song-Tony-Alvon-%26-the-Belairs-Sexy-Coffee-Pot/"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "Stem/Long Stem",
+    "samples": [
+      {
+        "artist": "Giorgio Moroder",
+        "title": "Tears",
+        "year": 1972,
+        "role": "旋律の断片。1972年の作品が1996年のインストゥルメンタルへ移される。",
+        "source": "https://909originals.com/2021/09/16/midnight-in-a-perfect-akai-mpc-60-five-samples-that-defined-dj-shadows-entroducing/"
+      },
+      {
+        "artist": "Nirvana (UK band)",
+        "title": "Love Suite",
+        "year": 1969,
+        "role": "アルバム版『Stem/Long Stem』のサンプルとしてクレジットされる。米国の同名バンドとは別。",
+        "source": "https://www.whosampled.com/sample/1219472/DJ-Shadow-StemLong-StemTransmission-2-Gene-Redding-Every-Man-Wants-Another-Man%27s-Woman/"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "Six Days",
+    "samples": [
+      {
+        "artist": "Colonel Bagshot",
+        "title": "Six Day War",
+        "year": 1971,
+        "role": "歌声の主素材。原曲とShadow版を比較すると歌詞の切り出し方が分かる。",
+        "source": "https://musicbrainz.org/release/eb9f1d2f-1052-382a-a263-334931a8acfb"
+      },
+      {
+        "artist": "Dennis Olivieri",
+        "title": "I Cry in the Morning",
+        "year": 1970,
+        "role": "旋律素材。『The Private Press』の作品注記に記録されている。",
+        "source": "https://musicbrainz.org/release/eb9f1d2f-1052-382a-a263-334931a8acfb"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "Organ Donor",
+    "samples": [
+      {
+        "artist": "Giorgio Moroder",
+        "title": "Tears",
+        "year": 1972,
+        "role": "音の断片として紹介される。原曲のアルペジオとShadow版の構成を聴き比べたい。",
+        "source": "https://909originals.com/2021/09/16/midnight-in-a-perfect-akai-mpc-60-five-samples-that-defined-dj-shadows-entroducing/"
+      }
+    ]
+  }
+]

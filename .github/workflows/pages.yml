@@ -96,6 +96,10 @@ jobs:
           shadow={t['title'] for t in tracks if t['artist']=='DJ Shadow'}
           shadow_covered={d['title'] for d in deepdives if d['artist']=='DJ Shadow' and len(d['sections'])>=3}
           assert len(shadow)==18 and shadow==shadow_covered, f'DJ Shadow coverage mismatch: {shadow ^ shadow_covered}'
+          research=json.loads(Path('dj_shadow_sample_research.json').read_text())
+          assert len(research)>=6 and sum(len(x['samples']) for x in research)>=13
+          js=(Path('dist')/'tracks.js').read_text()
+          assert 'researchedSamples' in js and 'SAMPLE RESEARCH' in (Path('dist')/'app.js').read_text()
           assert 'dj-shadow-the-number-song' in (root/'tracks.js').read_text()
           print('Generated pages, social cards, URLs and Number Song verified')
           PY
