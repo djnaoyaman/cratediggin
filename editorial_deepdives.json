@@ -742,5 +742,413 @@
         "sourceLabel": "The FADER：DJ Premierが語るGuruの声とビート"
       }
     ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "Organ Donor",
+    "sections": [
+      {
+        "heading": "オルガンが旋律の主役になる",
+        "text": "『Endtroducing.....』の中でも、オルガンの反復が前面に出る曲。歌詞を追うのではなく、音色そのものがフックを作る。サンプルの具体的な出典はこの資料だけでは確定できないため、断定を避ける。",
+        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
+        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+      },
+      {
+        "heading": "ヒップホップのビートと鍵盤の距離",
+        "text": "DJ Shadowは短いサンプルをMPC60で切り出し、複数の音を重ねる制作を回想している。鍵盤の長い響きと細かいドラムの刻みを分けて聴くと、異なる時間感覚が同居する。",
+        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
+        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+      },
+      {
+        "heading": "同じ反復がどう変わるか",
+        "text": "まず鍵盤だけを追い、次にドラムの入り方を聴く。短い素材が何度戻っても、周囲の音の配置で印象が変わることを確かめたい。",
+        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
+        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "Midnight in a Perfect World",
+    "sections": [
+      {
+        "heading": "ピアノの原曲をたどる",
+        "text": "DJ Shadow本人はこの曲のピアノについて、David Axelrodの1969年の作品『The Human Abstract』に由来すると説明している。推測ではなく本人の制作回想に基づく、聴き比べの明確な出発点だ。",
+        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
+        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+      },
+      {
+        "heading": "夜の風景を作る断片",
+        "text": "アルバムを作った当時のDJ Shadowは、サンプリングを通じて大きな音の風景を構想していた。ピアノの断片と声の遠近が、物語を語る代わりに空間を描く。",
+        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
+        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+      },
+      {
+        "heading": "原曲から戻って聴く",
+        "text": "David Axelrodの録音を先に聴き、その後にDJ Shadowへ戻る。旋律そのものより、切り取る長さや繰り返し方が夜の雰囲気をどう変えるかに注目する。",
+        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
+        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "In/Flux",
+    "sections": [
+      {
+        "heading": "Mo’ Wax以前と以後をつなぐ入口",
+        "text": "1993年の初期シングル。James LavelleはDJ Shadowのサンプルとスクラッチを使った初期作品に惹かれ、Mo’ Waxへ誘ったと回想している。アルバム以前から長い構成のインストゥルメンタルを追求していた文脈で聴く。",
+        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
+        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+      },
+      {
+        "heading": "一曲の中の場面転換",
+        "text": "短いループの繰り返しだけでなく、場面が移るような構成に注目したい。レコードから得た音が、曲全体の時間をどう形づくるかを考える入口になる。",
+        "source": "https://djshadow.com/collections/music",
+        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+      },
+      {
+        "heading": "切り替わる瞬間を数える",
+        "text": "リズムや質感が変わる地点に印をつけるように聴く。ヒップホップのビートから長編のサウンド・コラージュへ広がる魅力を味わえる。",
+        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
+        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "Lost and Found (S.F.L.)",
+    "sections": [
+      {
+        "heading": "1994年のシングル期を聴く",
+        "text": "『Endtroducing.....』以前のMo’ Wax期の作品。初期シングルは後年のコンピレーションや再発で聴けることもあるため、1994年の制作期と現在の配信・再発年を混同しない。",
+        "source": "https://djshadow.com/collections/music",
+        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+      },
+      {
+        "heading": "見つけた音を再配置する",
+        "text": "曲名の『Lost and Found』を手がかりに、失われた録音を新しい文脈へ置くサンプリングの発想を考えてみる。ただし題名から作者の意図を断定するものではない。",
+        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
+        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+      },
+      {
+        "heading": "音色の出入りを観察する",
+        "text": "ひとつの素材が現れ、別の素材へ引き継がれるときの空気の変化を追う。初期DJ Shadowの構成感覚が見えてくる。",
+        "source": "https://djshadow.com/collections/music",
+        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "What Does Your Soul Look Like (Pt. 1 / Blue Sky Revisit)",
+    "sections": [
+      {
+        "heading": "同名のパートを取り違えない",
+        "text": "『Endtroducing.....』には同じ大きな題名を共有する別パートがある。ここで扱うのは『Pt. 1 / Blue Sky Revisit』。曲名の一致だけで音源を取り違えると、サンプルの説明もずれてしまう。",
+        "source": "https://djshadow.com/collections/music",
+        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+      },
+      {
+        "heading": "長い音の余韻を聴く",
+        "text": "DJ Shadowは当時、短いサンプルを素材に大きな音の風景を作ろうとしていた。伸びる響きとビートの距離が、曲に問いかけるような空間を与える。",
+        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
+        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+      },
+      {
+        "heading": "別パートとの対比",
+        "text": "同名シリーズのほかのパートと続けて聴き、リズムの密度や音の明暗がどう違うかを確かめる。",
+        "source": "https://djshadow.com/collections/music",
+        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "High Noon",
+    "sections": [
+      {
+        "heading": "『Endtroducing.....』の次の一歩",
+        "text": "1997年のMo’ Wax期シングルとして、デビューアルバム直後のDJ Shadowを追う入口になる。再発盤や編集盤に収録された年を、曲の初出年と混同しないようにしたい。",
+        "source": "https://djshadow.com/collections/music",
+        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+      },
+      {
+        "heading": "映画的な時間の組み立て",
+        "text": "曲名は正午を意味するが、実際の音の緊張を決めるのは題名よりもビートの配置と場面転換。音の切り替え方に耳を向けると、長い曲を退屈させない構成が見える。",
+        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
+        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+      },
+      {
+        "heading": "前作と並べて聴く",
+        "text": "『Organ Donor』や『In/Flux』と並べ、反復する音と展開する音の割合を比べる。",
+        "source": "https://djshadow.com/collections/music",
+        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "The Number Song (Cut Chemist Remix)",
+    "sections": [
+      {
+        "heading": "リミックスを別作品として扱う",
+        "text": "DJ Shadow公式は『The Number Song (Cut Chemist Remix)』を原曲と区別した盤として掲載している。同じ題名でも、DJ Shadowのアルバム収録版とCut Chemistによる再編集を混同しない。",
+        "source": "https://djshadow.com/collections/music",
+        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+      },
+      {
+        "heading": "再編集が変える時間",
+        "text": "原曲で聴き慣れた声の断片やリズムが、別の順番に置かれると聴取体験が変わる。サンプル元を新たに断定する前に、原曲から引き継いだ要素を確かめたい。",
+        "source": "https://djshadow.com/collections/music",
+        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+      },
+      {
+        "heading": "二つのヴァージョンを往復する",
+        "text": "冒頭、ブレイク、終盤をそれぞれ比べ、同じ素材がどこで違う役割を与えられているか聴く。",
+        "source": "https://djshadow.com/collections/music",
+        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "Building Steam With a Grain of Salt",
+    "sections": [
+      {
+        "heading": "反復するピアノと積み上がる時間",
+        "text": "『Endtroducing.....』のピアノが印象的な一曲。DJ Shadowが語る短いサンプルを積み上げる制作環境を知ると、長く続く音楽の背後にある小さな断片の仕事が見えてくる。",
+        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
+        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+      },
+      {
+        "heading": "アルバムの音の風景",
+        "text": "James Lavelleは歌の形式にこだわらず、音の風景を広げるようDJ Shadowに勧めたと回想している。ピアノとドラムの反復は、その方向性を聴く入口になる。",
+        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
+        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+      },
+      {
+        "heading": "変化しない部分を見つける",
+        "text": "同じフレーズが続く中で、ドラムや声の断片がいつ加わり、消えるかを聴く。",
+        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
+        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "Stem/Long Stem",
+    "sections": [
+      {
+        "heading": "組曲のような二つの流れ",
+        "text": "『Stem/Long Stem』はアルバムの中でも構成の変化を追うのに適した曲。DJ Shadowは『Stem』の7インチ版制作時に映画『Heat』をサンプリングしようとしたことを回想しているが、版が異なるためアルバム版に同じ音が入っているとは断定しない。",
+        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
+        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+      },
+      {
+        "heading": "ヴァージョンの区別が重要",
+        "text": "7インチ版とアルバム版を混同すると、映画音声などの出典説明を誤るおそれがある。曲名が似ていても編集・ミックスの差を確認する姿勢が必要だ。",
+        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
+        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+      },
+      {
+        "heading": "前半と後半の転換",
+        "text": "静かな部分とビートが前へ出る部分の境界を聴く。曲の長さが単なる反復でなく展開のために使われている。",
+        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
+        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "Six Days",
+    "sections": [
+      {
+        "heading": "『The Private Press』の声の使い方",
+        "text": "2002年の『The Private Press』収録。歌声の反復を軸に、DJ Shadowがサンプルを使って感情の起伏を組み立てる手法が聴ける。作品の発売年はレーベルのディスコグラフィーとも照合できる。",
+        "source": "https://www.universal-music.co.jp/dj-shadow/discography/",
+        "sourceLabel": "Universal Music Japan：DJ Shadowのディスコグラフィー"
+      },
+      {
+        "heading": "初期作品との距離",
+        "text": "『Midnight in a Perfect World』の静かな断片と並べると、歌声の反復をより前に出す方法の違いが見える。これは編集上の比較である。",
+        "source": "https://djshadow.com/collections/music",
+        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+      },
+      {
+        "heading": "歌声が戻る間隔",
+        "text": "同じ声が何度現れるか、背景のリズムがその都度どう変わるかを聴く。",
+        "source": "https://www.universal-music.co.jp/dj-shadow/discography/",
+        "sourceLabel": "Universal Music Japan：DJ Shadowのディスコグラフィー"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "Mashin' on the Motorway",
+    "sections": [
+      {
+        "heading": "声が曲を運転する",
+        "text": "『The Private Press』期の作品。Lateefのラップが加わることで、インストゥルメンタル中心の作品とは異なる推進力が生まれる。アルバムとシングルの発売年を分けて確認する必要がある。",
+        "source": "https://www.universal-music.co.jp/dj-shadow/discography/",
+        "sourceLabel": "Universal Music Japan：DJ Shadowのディスコグラフィー"
+      },
+      {
+        "heading": "構成の中のスピード感",
+        "text": "ビートの速さだけでなく、声の密度と短い音の切り替わりが曲を前へ押す。DJ Shadowの映画的な構成がラップ曲に転用されているように聴ける。",
+        "source": "https://djshadow.com/collections/music",
+        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+      },
+      {
+        "heading": "声が休む瞬間",
+        "text": "ラップが途切れる場所を聴き、トラックだけでどれだけ運動感が残るか確かめる。",
+        "source": "https://www.universal-music.co.jp/dj-shadow/discography/",
+        "sourceLabel": "Universal Music Japan：DJ Shadowのディスコグラフィー"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "Scale It Back",
+    "sections": [
+      {
+        "heading": "Little Dragonとの接点",
+        "text": "2011年の『The Less You Know, the Better』期の曲。Little Dragonの歌声が入ることで、DJ Shadowのビートにポップな旋律の入口が生まれる。作品年はレーベルのディスコグラフィーで確認できる。",
+        "source": "https://www.universal-music.co.jp/dj-shadow/discography/",
+        "sourceLabel": "Universal Music Japan：DJ Shadowのディスコグラフィー"
+      },
+      {
+        "heading": "インストゥルメンタルとの対照",
+        "text": "初期の音のコラージュと違い、歌声が聴き手の道しるべになる。DJ Shadowの方法が声のある曲にも広がることを示す。",
+        "source": "https://djshadow.com/collections/music",
+        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+      },
+      {
+        "heading": "歌とリズムの境界",
+        "text": "ヴォーカルのフレーズが終わった直後のドラムや電子音に注目する。",
+        "source": "https://www.universal-music.co.jp/dj-shadow/discography/",
+        "sourceLabel": "Universal Music Japan：DJ Shadowのディスコグラフィー"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "The Mountain Will Fall",
+    "sections": [
+      {
+        "heading": "サンプルから作曲へ広がる2016年",
+        "text": "公式の作品解説によれば『The Mountain Will Fall』では、従来の深いサンプリングに加え、シンセサイザーや生楽器を使うオリジナルの作曲へさらに踏み出した。2016年6月24日発売のアルバム表題曲。",
+        "source": "https://djshadow.bandcamp.com/album/the-mountain-will-fall",
+        "sourceLabel": "DJ Shadow公式Bandcamp：『The Mountain Will Fall』作品解説"
+      },
+      {
+        "heading": "低音と電子音の地形",
+        "text": "電子音の層がどこから現れ、低音がどう空間を満たすかを追う。過去の『Endtroducing.....』と比較しても、単なる回帰ではないことが分かる。",
+        "source": "https://djshadow.bandcamp.com/album/the-mountain-will-fall",
+        "sourceLabel": "DJ Shadow公式Bandcamp：『The Mountain Will Fall』作品解説"
+      },
+      {
+        "heading": "旧作と並べて聴く",
+        "text": "『Building Steam With a Grain of Salt』と続け、ループの質感と音の空間設計の違いを確かめる。",
+        "source": "https://djshadow.bandcamp.com/album/the-mountain-will-fall",
+        "sourceLabel": "DJ Shadow公式Bandcamp：『The Mountain Will Fall』作品解説"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "Nobody Speak",
+    "sections": [
+      {
+        "heading": "Run The Jewelsとの共演",
+        "text": "2016年の『The Mountain Will Fall』にはRun The Jewelsが参加する。DJ Shadow公式の作品解説でもゲストとして挙げられており、MCの強いキャラクターとプロデューサーの音作りの関係が聴きどころだ。",
+        "source": "https://djshadow.bandcamp.com/album/the-mountain-will-fall",
+        "sourceLabel": "DJ Shadow公式Bandcamp：『The Mountain Will Fall』作品解説"
+      },
+      {
+        "heading": "インストの作者がラップの場所を作る",
+        "text": "音の風景を描いてきたDJ Shadowが、Killer MikeとEl-Pの声を引き立てる余白を作る。伴奏だけを聴くと、声のために設計された空間が見える。",
+        "source": "https://djshadow.bandcamp.com/album/the-mountain-will-fall",
+        "sourceLabel": "DJ Shadow公式Bandcamp：『The Mountain Will Fall』作品解説"
+      },
+      {
+        "heading": "二人のMCを聴き分ける",
+        "text": "声の交替によって同じビートがどう違って聞こえるかを比べる。",
+        "source": "https://djshadow.bandcamp.com/album/the-mountain-will-fall",
+        "sourceLabel": "DJ Shadow公式Bandcamp：『The Mountain Will Fall』作品解説"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "Rocket Fuel",
+    "sections": [
+      {
+        "heading": "De La Soulとの世代をまたぐ共演",
+        "text": "2019年の『Our Pathetic Age』期の曲。De La Soulを迎え、DJ Shadowのブレイクビーツへの愛着とMCたちの軽やかな掛け合いが交差する。公式ディスコグラフィーでアルバムの位置を確認できる。",
+        "source": "https://djshadow.com/collections/music",
+        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+      },
+      {
+        "heading": "サンプリング文化の連続性",
+        "text": "DJ ShadowとDe La Soulはいずれもレコードを新しい音楽に変える文化と深く結びつく。単に懐かしいと聴くのではなく、2019年の曲としての推進力に耳を向けたい。",
+        "source": "https://djshadow.com/collections/music",
+        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+      },
+      {
+        "heading": "リズムと言葉の受け渡し",
+        "text": "声が次のMCへ移る瞬間とドラムのアクセントを重ねて聴く。",
+        "source": "https://djshadow.com/collections/music",
+        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "Ozone Scraper",
+    "sections": [
+      {
+        "heading": "2023年のインストゥルメンタル表現",
+        "text": "DJ Shadow公式Bandcampによれば『Action Adventure』は2023年10月27日発売。『Ozone Scraper』はその収録曲で、初期作品の文脈を知った上で現在の電子音の使い方を比べられる。",
+        "source": "https://djshadow.bandcamp.com/album/action-adventure",
+        "sourceLabel": "DJ Shadow公式Bandcamp：『Action Adventure』収録情報"
+      },
+      {
+        "heading": "アルバム単位で聴く",
+        "text": "作品を単曲で切り出すだけでなく、『Action Adventure』全体の流れへ戻すと、音色の切り替えや曲間のコントラストが分かる。",
+        "source": "https://djshadow.bandcamp.com/album/action-adventure",
+        "sourceLabel": "DJ Shadow公式Bandcamp：『Action Adventure』収録情報"
+      },
+      {
+        "heading": "進行方向を聴く",
+        "text": "電子音が前へ伸びる感覚と、ビートが地面を作る感覚を分けて聴く。",
+        "source": "https://djshadow.bandcamp.com/album/action-adventure",
+        "sourceLabel": "DJ Shadow公式Bandcamp：『Action Adventure』収録情報"
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow",
+    "title": "Organ Donor (Extended Overhaul)",
+    "sections": [
+      {
+        "heading": "拡張版を原曲と区別する",
+        "text": "『Organ Donor』と『Extended Overhaul』は同じ題名の系統にあるが、長さや展開が異なる版として扱う。DJ Shadow公式の作品一覧にも『Endtroducing.....』の再発・関連盤があり、収録元の違いを確認できる。",
+        "source": "https://djshadow.com/collections/music",
+        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+      },
+      {
+        "heading": "長くなることで変わる構造",
+        "text": "オルガンのフレーズを知っていても、拡張版では展開の時間配分が変わる。長さだけでなく、どの音が追加されるか、何が長く続くかを確かめたい。",
+        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
+        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+      },
+      {
+        "heading": "通常版とのA/B比較",
+        "text": "冒頭、ブレイク、終盤の三地点で両版を聴き比べ、音の追加・削除・反復の長さをメモしてみる。",
+        "source": "https://djshadow.com/collections/music",
+        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+      }
+    ]
   }
 ]
