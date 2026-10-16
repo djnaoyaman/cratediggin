@@ -175,6 +175,7 @@ for f in features:
     body+='<h2>収録曲 '+str(len(selected))+' 曲</h2><ul>'+''.join('<li><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+esc(t['artist']+' — '+t['title'])+'</a></li>' for t in selected)+'</ul>'
     page=re.sub(r'<main id="view" tabindex="-1">.*?</main>','<main id="view" tabindex="-1">'+body+'</main>',base,flags=re.S)
     page=page.replace('<head>','<head><script>window.INITIAL_ROUTE='+json.dumps('#/feature/'+f['id'])+';</script>',1)
+    page=re.sub(r'<link rel="canonical" href="[^"]*">','<link rel="canonical" href="'+HOST+'/features/'+f['id']+'.html">',page)
     target=feature_dir/(f['id']+'.html');target.write_text(page)
     url=HOST+'/features/'+f['id']+'.html'
     enhance(target,f['name']+' — Features / Crate Diggin’',e['title'],url,HOST+'/og-image.png',{'@context':'https://schema.org','@type':'Article','headline':e['title'],'author':{'@type':'Person','name':'DJ Naoyaman'},'inLanguage':'ja','url':url})
