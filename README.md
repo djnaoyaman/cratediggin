@@ -30,6 +30,10 @@ python version.py --minor
 
 MY CRATEの選曲・名前・曲順はブラウザのlocalStorageに保存します。左スワイプで外す、右スワイプで選曲。•••ボタンからも操作でき、選曲の削除は取り消せます。保存は端末・ブラウザ単位です。
 
+選曲の編集は保存直前のデータを読み直し、別タブからの変更をstorageイベントで画面へ反映します。localStorageには複数タブの同時書き込みを排他制御する機能がないため、完全に同時の編集を保証する同期機構ではありません。連続再生の曲順は再生開始時に確定し、特集・ガイド・アーティスト一覧の閲覧や絞り込みでは変更しません。
+
+`node scripts/verify_playlist_storage.cjs` と `node scripts/verify_playback_browser.cjs` で、別タブの編集、再生開始、閲覧中の曲順維持、再生前後の削除を検証します。ブラウザ検証にはPlaywrightとChromiumが必要です。
+
 ## 品質監査と公開前の確認
 
 `python scripts/audit_catalog.py` はカタログ全曲の楽曲ID、YouTube IDとURLの整合性、出典、文章の必須項目、未確認のレーベル・初出年を監査します。結果は `audit-reports/catalog-audit.csv` と `audit-reports/summary.json` に出力します。
