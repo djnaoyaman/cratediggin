@@ -81,6 +81,8 @@ jobs:
           assert '/cratediggin/artists/' in html, 'Crawlable artist links missing from homepage'
           assert any('/cratediggin/artists/' in p.read_text() for p in (root/'songs').glob('*.html')), 'Crawlable song-to-artist links missing'
           assert '## Artists' in (root/'llms.txt').read_text(), 'AI discovery artist index missing'
+          assert 'DIG DEEPER' in (root/'app.js').read_text(), 'Deep-dive UI missing'
+          assert '制作の背景：サンプラーの制約が音楽になった' in (root/'tracks.js').read_text(), 'Deep-dive source content missing'
           assert 'dj-shadow-the-number-song' in (root/'tracks.js').read_text()
           print('Generated pages, social cards, URLs and Number Song verified')
           PY
