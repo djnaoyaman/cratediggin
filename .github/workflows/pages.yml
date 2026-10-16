@@ -56,6 +56,7 @@ jobs:
         run: |
           python scripts/audit_catalog.py
           node scripts/verify_producer_features.js
+          node scripts/verify_feature_editorials.js
           python scripts/verify_kiyo_import.py
           python -m py_compile scripts/audit_catalog.py build.py
           python - <<'PY'
