@@ -18,11 +18,13 @@ const {chromium}=require('playwright');
   const context=await browser.newContext({viewport:{width:390,height:900}});
   const page=await context.newPage(),errors=[];
   page.on('pageerror',e=>errors.push(e.message));
-  await page.route('https://www.googletagmanager.com/**',r=>r.abort());
-  await page.route('https://www.youtube.com/iframe_api',r=>r.fulfill({contentType:'application/javascript',body:`
+  await context.route('https://www.googletagmanager.com/**',r=>r.abort());
+  await context.route('https://www.youtube.com/iframe_api',r=>r.fulfill({contentType:'application/javascript',body:`
    window.__players=[];window.YT={Player:function(id,options){
-    const p={options,loadVideoById(video){(window.__loads??=[]).push(video.videoId);queueMicrotask(()=>options.events?.onStateChange?.({data:1}));},cueVideoById(){},playVideo(){options.events?.onStateChange?.({data:1});},pauseVideo(){options.events?.onStateChange?.({data:2});},stopVideo(){},getDuration(){return 120;},getCurrentTime(){return 0;},seekTo(){},destroy(){}};
-    window.__players.push(p);queueMicrotask(()=>{options.events?.onReady?.();window.__ytReady=true;});return p;
+    const p={options,loadVideoById(video){(window.__loads??=[]).push(video.videoId);queueMicrotask(()=>options.events?.onStateChange?.({data:1}));},cueVideoById(){},playVideo(){(window.__plays??=[]).push(id);options.events?.onStateChange?.({data:1});},pauseVideo(){(window.__pauses??=[]).push(id);options.events?.onStateChange?.({data:2});},stopVideo(){},getDuration(){return 120;},getCurrentTime(){return 0;},seekTo(){},destroy(){}};
+    const play=p.playVideo,pause=p.pauseVideo;
+    p.makeReady=()=>{p.playVideo=play;p.pauseVideo=pause;options.events?.onReady?.({target:p});if(id==='yt')window.__ytReady=true;};
+    window.__players.push(p);if(id==='sample-yt'&&window.__delaySample){delete p.playVideo;delete p.pauseVideo;}else queueMicrotask(p.makeReady);return p;
    }};window.onYouTubeIframeAPIReady();`}));
 
   const open=async()=>{await page.goto(base+'/songs/');await page.waitForFunction(()=>window.__ytReady);};
@@ -61,11 +63,43 @@ const {chromium}=require('playwright');
   assert.equal(saved.ids.length,2,'Both tabs must retain their edits');
   await page.waitForFunction(()=>document.querySelector('#my-crate-tab').textContent.includes('2曲'));
   await other.close();assert.deepEqual(errors,[]);
+  // Removing the cued song must also exclude it from both global play controls.
+  for(const button of ['#start','#toggle']){
+   await page.evaluate(()=>localStorage.clear());await open();
+   const excluded=await page.locator('#results .record-card').first().getAttribute('href');
+   await page.locator('#results .row-menu').first().click();await page.locator('#results .queue-remove').first().click();
+   await page.locator(button).click();await page.waitForFunction(()=>window.__loads?.length===1);
+   const result=await page.evaluate(()=>({title:document.querySelector('#now-title').textContent,video:window.__loads[0],tracks:window.TRACKS}));
+   const removed=result.tracks.find(t=>excluded.endsWith('/'+t.id+'.html'));
+   assert.notEqual(result.video,removed.youtube.id);assert.notEqual(result.title,removed.title);
+  }
+  // A one-song queue must repeat even while another page is being read.
+  await page.evaluate(()=>{localStorage.clear();localStorage.setItem('crate-my-playlist',JSON.stringify({name:'ONE',ids:['can-i-kick-it']}));});
+  await open();await page.locator('#my-crate-tab').click();await page.locator('#play-filter').click();
+  await page.waitForFunction(()=>window.__loads?.length===1);
+  await page.evaluate(url=>{const a=document.createElement('a');a.href=url+'/features/tribe.html';document.body.append(a);a.click();a.remove();},base);
+  await page.evaluate(()=>window.__players[0].options.events.onStateChange({data:0}));
+  await page.waitForFunction(()=>window.__loads?.length===2);
+  assert.equal(await page.evaluate(()=>window.__loads[0]===window.__loads[1]),true);
+  // Delayed sample readiness must not pause the main track or throw; retry after ready works.
+  await page.goto(base+'/songs/can-i-kick-it.html');await page.waitForFunction(()=>window.__ytReady);
+  await page.evaluate(()=>window.__delaySample=true);
+  await page.evaluate(url=>{const a=document.createElement('a');a.href=url+'/songs/runnin.html';document.body.append(a);a.click();a.remove();},base);
+  await page.locator('#article-play').click();
+  const pauses=await page.evaluate(()=>window.__pauses?.filter(id=>id==='yt').length||0);
+  await page.locator('#sample-start').click();
+  assert.equal(await page.evaluate(()=>window.__pauses?.filter(id=>id==='yt').length||0),pauses);
+  assert((await page.locator('#status').textContent()).includes('読み込み中'));
+  await page.evaluate(()=>window.__players.at(-1).makeReady());
+  await page.locator('#sample-start').click();
+  assert.equal(await page.evaluate(()=>window.__plays.at(-1)),'sample-yt');
+  await page.locator('#sample-return').click();
+  assert.equal(await page.evaluate(()=>window.__plays.at(-1)),'yt');assert.deepEqual(errors,[]);
   for(const [route,button] of [['/songs/','#play-filter'],['/features/tribe.html','#feature-play'],['/guides/first-ten.html','#guide-play']]){
    await page.goto(base+route);await page.waitForFunction(()=>window.__ytReady);
    await page.locator(button).click();await page.waitForFunction(()=>window.__loads?.length===1);
    assert.equal(await page.evaluate(()=>window.dataLayer.filter(x=>x[0]==='event'&&x[1]==='playback_start').length),1);
   }
-  console.log('Playback start, queue continuity, active/cued removal and cross-tab persistence passed');
+  console.log('Playback start, exclusion, single-song repeat, delayed sample readiness, queue continuity, removal and cross-tab persistence passed');
  }finally{await browser?.close();await new Promise(resolve=>server.close(resolve));}
 })().catch(error=>{console.error(error);process.exitCode=1;});
