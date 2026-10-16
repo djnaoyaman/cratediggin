@@ -37,6 +37,7 @@ const assert=require('node:assert/strict');
   await page.locator('#library-tab').click();assert(await page.locator('.crate-choices').isVisible());
   assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'Horizontal overflow at '+width);
   for(const b of await page.locator('[data-crate]').all()){const box=await b.boundingBox();assert(box.height>=44,'Touch target too small')}
+  await page.locator('.crate-choices').scrollIntoViewIfNeeded();
   await page.screenshot({path:'/tmp/listening-shelf-'+width+'.png',fullPage:false});
   await page.goto(base+'/#/song/can-i-kick-it');await page.waitForSelector('.listening-links a');
   await page.locator('.listening-links a').first().click();await page.waitForSelector('[data-crate][aria-pressed="true"]');

@@ -115,6 +115,14 @@ jobs:
           server=$!
           trap 'kill "$server"' EXIT
           node scripts/verify_listening_shelves_browser.js
+      - name: Save browser screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: listening-shelf-screenshots
+          path: /tmp/listening-shelf-*.png
+          if-no-files-found: ignore
+          retention-days: 3
       - uses: actions/upload-pages-artifact@v4
         if: github.event_name != 'pull_request'
         with:
