@@ -37,3 +37,11 @@ MY CRATEの選曲・名前・曲順はブラウザのlocalStorageに保存しま
 `python scripts/audit_catalog.py --online` はYouTube oEmbedの動画タイトル・投稿者を照合する追加調査です。タイトルの一致は正しい録音・バージョン・再生可能性を証明しません。疑義のある曲は実際の音源と盤面を人が照合してください。
 
 ディレクトリの役割と修正範囲は `research/catalog-site-audit-2026-10-15.md` に記載。公開URLと既存の楽曲IDを維持するため、大規模な移動やファイル名変更は行いません。
+
+## 聴きどころの選曲棚
+
+`listening_shelves.json` は「ループの妙／ドラムの手触り／ベースのうねり／声とライム／スクラッチの技／曲の展開」の6つの聴き方と、解説を個別に読んで選んだ楽曲を管理します。ジャンルやアーティスト名から一括分類しません。各タグには `tracks.json` または `editorial_deepdives.json` の該当箇所と短い根拠を持たせ、ビルド時に一致を検証します。複数の棚への所属が可能です。未分類曲も「すべて」および検索で見つけられます。
+
+棚の件数は検索・補助条件を反映し、0件の棚は選択不可になります。地域は折りたたみ式の補助フィルターです。旧 `editorialCrates` は過去データとして保存しますが、現在の棚判定には使いません。旧棚のURLは全曲に戻し、東西海岸の旧URLは地域条件として維持します。
+
+検証: `node scripts/verify_listening_shelves.js`。ブラウザ検証は `node scripts/verify_listening_shelves_browser.js`（PlaywrightとChromiumが必要。`dist` を `/cratediggin` 配下でローカル配信し、`TEST_URL` でURLを指定。CIでも公開前に実行）。

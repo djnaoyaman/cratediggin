@@ -1,0 +1,761 @@
+{
+  "policy": "音の特徴から選んだ、編集上の聴き方です。既存の曲別解説に具体的な聴きどころがある曲だけを個別に選び、根拠の文章を記録しています。ジャンルや制作史の断定ではなく、一曲が複数の棚に入る場合もあります。未選定の曲も「すべて」から聴けます。",
+  "shelves": [
+    {
+      "id": "loop",
+      "label": "ループの妙",
+      "description": "短い旋律や音の断片が、繰り返すたびに違って聞こえる曲。"
+    },
+    {
+      "id": "drums",
+      "label": "ドラムの手触り",
+      "description": "硬さ、重さ、跳ね方や隙間。足元をつくる打音に耳を向ける。"
+    },
+    {
+      "id": "bass",
+      "label": "ベースのうねり",
+      "description": "低音の歩幅や深さを追い、曲の重心を身体で感じる。"
+    },
+    {
+      "id": "voice",
+      "label": "声とライム",
+      "description": "声色、言葉の運び、MC同士の掛け合いから聴く。"
+    },
+    {
+      "id": "scratch",
+      "label": "スクラッチの技",
+      "description": "音を擦る、切る、つなぐ。DJの手つきを演奏として聴く。"
+    },
+    {
+      "id": "arrangement",
+      "label": "曲の展開",
+      "description": "声や音の交代、切り替わり、前半と後半の景色を追う。"
+    }
+  ],
+  "tracks": [
+    {
+      "id": "can-i-kick-it",
+      "tags": [
+        {
+          "shelf": "bass",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "最初はベースの歩幅だけを追ってみる。次は、その隙間で働いているドラムへ。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "93-til-infinity",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.3",
+            "quote": "四人の声は、短い持ち場を受け渡していく。誰かひとりが長々と独演するのではなく、会話の輪が回る。うまさは確かにあるのだが、それを見せるためだけに集まってはいないように聞こえる。先に仲間がいて、その仲間と音楽をやっている。この順番は、簡単そうでなかなか保てない。"
+          }
+        },
+        {
+          "shelf": "arrangement",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "まず四人の声を追う。持ち場が切り替わるたび、曲の表情も少し変わる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "in-the-house",
+      "tags": [
+        {
+          "shelf": "loop",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.2",
+            "quote": "ループの継ぎ目よりも、余白に耳を向ける。ここに書いた聴感は編者の私見です。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "runnin",
+      "tags": [
+        {
+          "shelf": "loop",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.0",
+            "quote": "「Runnin’」という題名なのに、こちらを急かす気配がない。ギターのループが風を通し、ビートが足元を整える。私には、全力疾走よりも、知らない道をもう一本だけ歩きたくなる曲に聞こえる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "resurrection",
+      "tags": [
+        {
+          "shelf": "loop",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "ピアノが一周する長さと、ラップの区切りを比べる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mass-appeal",
+      "tags": [
+        {
+          "shelf": "loop",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.0",
+            "quote": "短い旋律が、同じ場所を何度も通る。それなのに退屈しない。「Mass Appeal」を聴くと、材料の多さと料理のうまさは別なのだと分かる。こちらは、ずいぶん少ない材料で腹を満たされる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "props-over-here",
+      "tags": [
+        {
+          "shelf": "bass",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.0",
+            "quote": "洒落ているのに、気取っていない。「Props Over Here」は、その具合がいい。低音がどっしり座っているから、上の声が少しはしゃいでも曲は落ち着いている。床がしっかりしていれば、人は好きに踊れるのである。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "the-lump-lump",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.1",
+            "quote": "「The Lump Lump」は、私には深刻な顔で聴き続けるより、肩の動きに任せたい一曲に聞こえる。Buckwildのビートと、Sadatの独特な節回し。噛み合っているのに、きれいに揃えすぎないところがいい。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a-tribe-called-quest-electric-relaxation",
+      "tags": [
+        {
+          "shelf": "bass",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "力を抜いた声と、丸い低音。トライブの会話をもう一段近くで聴く。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a-tribe-called-quest-check-the-rhime",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "二人の声が受け渡すリズム。掛け合いもビートの一部になる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pete-rock-c-l-smooth-take-you-there",
+      "tags": [
+        {
+          "shelf": "drums",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.1",
+            "quote": "響きの豊かさだけを聴いていると、ドラムの細かな仕事を見落とす。上を流れる音と、足元を支える音。その間にC.L. Smoothの声が居場所をつくる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "souls-of-mischief-that-s-when-ya-lost",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "四人の声が、違う角度で同じビートを走る。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gang-starr-dwyck",
+      "tags": [
+        {
+          "shelf": "bass",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "深い低音に、掛け合いの楽しさ。重くても、足は軽い。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gang-starr-take-it-personal",
+      "tags": [
+        {
+          "shelf": "loop",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "短い音の反復に、Guruの落ち着きが重なる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lord-finesse-hip-2-da-game",
+      "tags": [
+        {
+          "shelf": "loop",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.1",
+            "quote": "ラップの技術を見せながらも、ビートから浮き上がらない。声の余裕と音の反復が噛み合う、そのバランスを楽しみたい。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "showbiz-a-g-next-level-nyte-time-mix",
+      "tags": [
+        {
+          "shelf": "drums",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "夜の緊張を、短い旋律と硬いドラムで引き締める。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "black-moon-i-got-cha-opin-remix",
+      "tags": [
+        {
+          "shelf": "bass",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "柔らかな素材を、深い低音が街へ引き戻す。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jeru-the-damaja-come-clean",
+      "tags": [
+        {
+          "shelf": "drums",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "硬い打楽器の響きが、曲の空気を支配する。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "public-enemy-don-t-believe-the-hype",
+      "tags": [
+        {
+          "shelf": "scratch",
+          "evidence": {
+            "file": "editorial_deepdives.json",
+            "field": "3.sections.1.text",
+            "quote": "Chuck Dの断定的なフレージングと、細かな音の断片を積み重ねる伴奏を分けて聴いてみる。語尾の強さ、スクラッチや短い声の割り込みが、ひとつの主張を繰り返すだけではない緊張感を作る。これは音源を聴く際の編集上の着眼点であり、制作当事者の発言を引用したものではない。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "the-notorious-b-i-g-big-poppa",
+      "tags": [
+        {
+          "shelf": "bass",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "柔らかな低音と、ゆったりした声。甘さにも芯がある。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "craig-mack-flava-in-ya-ear",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "音の隙間が、声の質感をそのまま楽しませる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mobb-deep-shook-ones-pt-ii",
+      "tags": [
+        {
+          "shelf": "drums",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "暗いループの中で、ドラムの輪郭が立つ。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wu-tang-clan-protect-ya-neck",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "声の違いが、クルー全体の輪郭になる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ol-dirty-bastard-shimmy-shimmy-ya",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "外れそうで外れない声。その自由さまでリズムになる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "krs-one-sound-of-da-police",
+      "tags": [
+        {
+          "shelf": "drums",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "一度で耳に残る声と、重いドラムの噛み合わせ。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "das-efx-they-want-efx",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "言葉の跳ね方そのものが、楽器のように聞こえる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ll-cool-j-mama-said-knock-you-out",
+      "tags": [
+        {
+          "shelf": "drums",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "掛け声とドラムの圧力。代表曲の身体性を味わう。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rakim-when-i-b-on-tha-mic",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "精密な声の運びに、Premierのビートが噛み合う。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kool-g-rap-dj-polo-ill-street-blues",
+      "tags": [
+        {
+          "shelf": "loop",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "ピアノの反復と、街の物語の緊張。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "epmd-you-gots-to-chill",
+      "tags": [
+        {
+          "shelf": "bass",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.1",
+            "quote": "低音が先に身体へ届く。それから二人の声が、無理に急がずビートの上へ乗る。この重心は、90年代のファンクを聴くための頼れる入口になる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "smif-n-wessun-sound-bwoy-bureill",
+      "tags": [
+        {
+          "shelf": "bass",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "低音の深さに、別の文化の響きが重なる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mic-geronimo-shit-s-real",
+      "tags": [
+        {
+          "shelf": "loop",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "落ち着いた声と、温かなループの距離感。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fugees-ready-or-not",
+      "tags": [
+        {
+          "shelf": "loop",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "静かな反復の中に、声の強い輪郭がある。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lauryn-hill-doo-wop-that-thing",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "deck",
+            "quote": "歌とラップを、同じ人物の呼吸として味わう。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "beastie-boys-shake-your-rump",
+      "tags": [
+        {
+          "shelf": "arrangement",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.1",
+            "quote": "声の受け渡しとビートの切り替わり。細部に耳を向けるほど、騒がしさの中の組み立てが見えてくる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "beastie-boys-root-down",
+      "tags": [
+        {
+          "shelf": "bass",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "低音のうねりと、三人の声の距離感を楽しむ。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "beastie-boys-pass-the-mic",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.1",
+            "quote": "一人の名演を聴くというより、三人の間に生まれる動きを聴く。順番を守ることと、遠慮することは、どうやら別の話らしい。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "main-source-he-got-so-much-soul",
+      "tags": [
+        {
+          "shelf": "scratch",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.1",
+            "quote": "スクラッチの動きを追いながら、ビートの床にも耳を戻す。断片があるから流れが見える。その組み立てを楽しみたい。"
+          }
+        },
+        {
+          "shelf": "arrangement",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.0",
+            "quote": "声が前に出たあと、音のほうが顔を出す。主役をひとつに決めず、その受け渡しを聴くと、曲の景色が広がってくる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gang-starr-alongwaytogo",
+      "tags": [
+        {
+          "shelf": "loop",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.0",
+            "quote": "曲名を一息でつなげた文字列が、すでにひとつのループに見える。私には、この曲の反復も同じように聞こえる。区切りを探している間に、次の小節へ運ばれている。"
+          }
+        },
+        {
+          "shelf": "scratch",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.1",
+            "quote": "Guruの低い声を中心に置いてから、周囲の切れ目へ耳を向ける。スクラッチは飾りというより句読点だ。声が止まった場所にも、まだ発言する人がいる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gang-starr-blowin-up-the-spot",
+      "tags": [
+        {
+          "shelf": "drums",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.2",
+            "quote": "大音量だけに頼らず、少し音を絞ってドラムと声の距離を聴いてみる。輪郭が残る曲は、こちらの耳にも仕事をさせてくれる。音楽を流すだけのつもりが、つい手が止まる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gang-starr-dj-premier-in-deep-concentration",
+      "tags": [
+        {
+          "shelf": "scratch",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "スクラッチの切れ目とフレーズのつなぎ方に耳を向ける。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dj-shadow-in-flux",
+      "tags": [
+        {
+          "shelf": "arrangement",
+          "evidence": {
+            "file": "editorial_deepdives.json",
+            "field": "33.sections.3.text",
+            "quote": "1993年の『In/Flux』を『Endtroducing.....』以前の長尺コラージュとして聴く。レコードの断片が現れ、消え、再び現れる構成に注目する。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dj-shadow-the-number-song",
+      "tags": [
+        {
+          "shelf": "drums",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "カウントする声とドラムの絡み。"
+          }
+        },
+        {
+          "shelf": "arrangement",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.1",
+            "quote": "音の断片が切り替わる瞬間。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dj-shadow-building-steam-with-a-grain-of-salt",
+      "tags": [
+        {
+          "shelf": "loop",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.0",
+            "quote": "同じピアノが戻ってくる。そのたびに少し違う景色が見えるように感じるのは、下を走るドラムに、こちらの体がついていくからだ。"
+          }
+        },
+        {
+          "shelf": "drums",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.0",
+            "quote": "同じピアノが戻ってくる。そのたびに少し違う景色が見えるように感じるのは、下を走るドラムに、こちらの体がついていくからだ。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dj-shadow-stem-long-stem",
+      "tags": [
+        {
+          "shelf": "arrangement",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.0",
+            "quote": "静かに構えたつもりでいると、音楽のほうが先に曲がっていく。StemとLong Stemを続けて聴く面白さは、その角を曲がる瞬間にある。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dj-shadow-mashin-on-the-motorway",
+      "tags": [
+        {
+          "shelf": "scratch",
+          "evidence": {
+            "file": "editorial_deepdives.json",
+            "field": "41.sections.3.text",
+            "quote": "Lateefのラップが前に出る一方、スクラッチも曲の進行を担う。DJ Shadowの作品を静かなインストゥルメンタルだけで定義しないための一曲だ。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "slum-village-players",
+      "tags": [
+        {
+          "shelf": "bass",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.1",
+            "quote": "低音とドラムを一緒に追うと、反復の中にも重心の移動があるように感じる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "j-dilla-workinonit",
+      "tags": [
+        {
+          "shelf": "arrangement",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.0",
+            "quote": "音が切れたと思ったら、もう次の断片が走り出している。つなぎ目を隠すより、つなぎ目そのものを聴かせる曲だ。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "quasimoto-microphone-mathematics",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.0",
+            "quote": "高い声が入った瞬間、同じ部屋にもう一人いるように聞こえる。Quasimotoという別名義は、名前だけの着替えではない。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "madvillain-accordion",
+      "tags": [
+        {
+          "shelf": "loop",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.1",
+            "quote": "MF DOOMの言葉は、ビートにぴったり貼りつかず、自分の歩幅で進んでいく。その隣をループが回り続ける。"
+          }
+        },
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.1",
+            "quote": "MF DOOMの言葉は、ビートにぴったり貼りつかず、自分の歩幅で進んでいく。その隣をループが回り続ける。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "madvillain-all-caps",
+      "tags": [
+        {
+          "shelf": "arrangement",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.1",
+            "quote": "声の運びとビートの切れ目が、互いを押し進めている。短いから省略されているのではなく、短い形に詰められているように感じる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "madvillain-meat-grinder",
+      "tags": [
+        {
+          "shelf": "bass",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.1",
+            "quote": "それでも曲としてまとまって聞こえるのは、声と低音が居場所を持っているからだろう。雑然として見える部屋にも、住人の秩序はある。"
+          }
+        }
+      ]
+    }
+  ]
+}

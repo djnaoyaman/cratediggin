@@ -75,3 +75,7 @@
 .editorial-deepdive h2,.editorial-deepdive h3{font-size:clamp(19px,2.5vw,27px);line-height:1.35;margin:0 0 12px}
 .editorial-deepdive p{font-size:14px;line-height:1.95;max-width:760px}
 .editorial-deepdive a{color:var(--blue);text-decoration:underline;text-underline-offset:3px}
+
+/* Listening shelves retain the existing blue editorial palette and type. */
+.shelf-note{font-size:12px;line-height:1.8;color:var(--muted);margin:0}.browse-options small{font-size:11px;white-space:nowrap;opacity:.8}.browse-options button:disabled{opacity:.4;cursor:not-allowed}.coast-filter{margin:18px 0}.listening-links{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0}.listening-links a{padding:10px 14px;border:1px solid var(--line);border-radius:24px;font-size:12px;min-height:44px}.crate-choices .browse-label{line-height:1.7;padding-top:10px}.browse-options button{white-space:normal}.crate-current{flex-wrap:wrap}.crate-current p{flex:1;min-width:180px}
+@media(max-width:600px){.crate-choices .browse-label{padding-top:0}.crate-choices .browse-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}.crate-choices .browse-options button{padding:10px 8px}.shelf-note{font-size:11px}}
