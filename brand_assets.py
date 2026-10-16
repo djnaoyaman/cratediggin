@@ -22,24 +22,9 @@ def vinyl(im,cx,cy,r):
     text(im,(cx-lr*.78,cy-lr*.32),'33 1/3',int(r*.32),width=lr*1.56,fill=BLUE)
     d.ellipse((cx-2,cy-2,cx+2,cy+2),fill=INK)
 def icon(size):
-    # Centre visible glyph bounds, rather than font advance widths.
-    im=Image.new('RGB',(512,512),BLUE);d=ImageDraw.Draw(im)
-    words=['CD'] if size<=48 else ['CRATE','DIGGIN’']
-    f=font(390 if size<=48 else 166)
-    while max(d.textbbox((0,0),word,font=f)[2] for word in words)>442:f=font(f.size-1)
-    layers=[]
-    for word in words:
-        layer=Image.new('L',(512,512),0);ld=ImageDraw.Draw(layer)
-        box=ld.textbbox((0,0),word,font=f)
-        ld.text((-box[0],-box[1]),word,font=f,fill=255)
-        bounds=layer.point(lambda value:255 if value>220 else 0).getbbox()
-        layers.append(layer.crop(bounds))
-    gap=25 if len(words)>1 else 0
-    total=sum(layer.height for layer in layers)+gap*(len(words)-1)
-    y=(512-total)//2
-    for layer in layers:
-        im.paste(WHITE,((512-layer.width)//2,y),layer)
-        y+=layer.height+gap
+    """Home-screen icon: the same blue backdrop and illustrated record as the hero."""
+    im=Image.new('RGB',(512,512),BLUE)
+    vinyl(im,256,256,218)
     return im.resize((size,size),Image.Resampling.LANCZOS)
 def social_image(track=None):
     im=Image.new('RGB',(1200,630),BLUE);d=ImageDraw.Draw(im)
