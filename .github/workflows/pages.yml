@@ -72,7 +72,8 @@ jobs:
           import json
           root = Path('dist')
           data = json.loads(Path('tracks.json').read_text(encoding='utf-8'))
-          assert len(list((root/'songs').glob('*.html'))) == len(data), 'Generated HTML page count mismatch'
+          assert {p.stem for p in (root/'songs').glob('*.html') if p.name!='index.html'} == {t['id'] for t in data}, 'Generated song HTML IDs mismatch'
+          assert (root/'songs'/'index.html').exists(), 'Static song index missing'
           assert len(list((root/'songs').glob('*.md'))) == len(data), 'Generated Markdown page count mismatch'
           assert len(list((root/'og').glob('*.png'))) == len(data), 'Generated social image count mismatch'
           html = (root/'index.html').read_text(encoding='utf-8')
@@ -83,7 +84,7 @@ jobs:
           assert 'href="/cratediggin/apple-touch-icon-vinyl.png?v=original-20261016"' in html, 'Vinyl touch icon URL missing'
           assert html.count('rel="apple-touch-icon"') == 1, 'Duplicate Apple touch icon tags'
           assert (root/'apple-touch-icon-vinyl.png').exists(), 'Vinyl touch icon not generated'
-          artist_pages = list((root/'artists').glob('*.html'))
+          artist_pages = [p for p in (root/'artists').glob('*.html') if p.name!='index.html']
           assert artist_pages, 'No crawlable artist pages generated'
           sitemap = (root/'sitemap.xml').read_text(encoding='utf-8')
           assert all('/artists/'+p.name in sitemap for p in artist_pages), 'Artist page missing from sitemap'
