@@ -1,5 +1,5 @@
 {
-  "version": "16.0",
+  "version": "17.0",
   "timezone": "Asia/Tokyo",
   "policy": "major-only",
   "history": [
@@ -143,6 +143,15 @@
       "datetime": "2026-10-17T01:03:55+09:00",
       "title": "聴きどころから選ぶ6つの棚",
       "description": "解説に根拠がある曲を6つの聴き方で選曲。件数表示と複数棚への分類を加え、地域は補助条件に整理。未分類曲も全曲一覧から探せます。",
+      "kind": "major",
+      "dateBasis": "変更記録日時",
+      "retrospective": false
+    },
+    {
+      "version": "17.0",
+      "datetime": "2026-10-17T01:20:25+09:00",
+      "title": "聴く入口と読む情報を整理",
+      "description": "全曲の掲載内容を区分し、サンプル資料を共通化。ATCQ特集を統合し、De La Soul・EPMDを追加。119曲の定型文を見直し、3つのリスニングガイドと特集の連続再生を用意。年表は楽曲と文化の出来事に限定。",
       "kind": "major",
       "dateBasis": "変更記録日時",
       "retrospective": false

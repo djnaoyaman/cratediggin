@@ -3,7 +3,7 @@ const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/st
 const songs=JSON.parse(fs.readFileSync('tracks.json','utf8'));
 const source=JSON.parse(fs.readFileSync('features.json','utf8'));
 const app=fs.readFileSync('dist/app.js','utf8');
-const view={innerHTML:''},canonical={href:''};
+const view={innerHTML:'',querySelectorAll:()=>[]},canonical={href:''};
 const ctx=vm.createContext({songs,view,document:{title:''},origin:'https://djnaoyaman.github.io/cratediggin',esc:s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;'),top:()=>'',playableIds:s=>s.map(t=>t.id),paintResults:()=>{},$:()=>canonical});
 vm.runInContext('let customMode,applyListFilters,filtered,queue,resultPage,expandedCount;'+app.slice(app.indexOf(' const features=['),app.indexOf(' let lastAnalyticsPage'))+';globalThis.api={features,featureTracks,eligibleFeatures,featurePage};',ctx);
 const api=ctx.api,eligible=api.eligibleFeatures();
@@ -14,7 +14,7 @@ for(const f of eligible){
  const selected=api.featureTracks(f);assert(selected.length>=3);
  assert.equal(selected.length,new Set(Array.from(selected,t=>t.id)).size,'Duplicate tracks in '+f.id);
  api.featurePage(f.id);
- for(const key of ['context','legacy','listening'])assert(view.innerHTML.includes(f.editorial[key]));
+ for(const key of ['context','legacy','listening','connections'])assert(view.innerHTML.includes(f.editorial[key]));
  for(const r of f.editorial.sources)assert(view.innerHTML.includes(r.url));
  const html=fs.readFileSync('dist/features/'+f.id+'.html','utf8');
  assert(html.includes('収録曲 '+selected.length+' 曲'),f.id+': static/client count mismatch');
