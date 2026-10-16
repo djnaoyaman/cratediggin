@@ -14,6 +14,21 @@ assert len(sample_research_map)==len(sample_research), 'Duplicate sample researc
 deepdive_map={(e['artist'].casefold(),e['title'].casefold()):e['sections'] for e in deepdives}
 assert len(deepdive_map)==len(deepdives), 'Duplicate deep-dive artist/title key'
 
+# Features use one editorial source for the client and crawlable pages.
+feature_data=json.loads((ROOT/'features.json').read_text())
+features=feature_data['features']
+app=DIST/'app.js'
+client=app.read_text()
+client=re.sub(r' const features=\[.*?\];\n(?= function featureTracks)', ' const features='+json.dumps(features,ensure_ascii=False)+';\n',client,flags=re.S)
+client=re.sub(r' const featurePolicy=.*?;\n', ' const featurePolicy='+json.dumps(feature_data['policy'],ensure_ascii=False)+';\n',client)
+app.write_text(client)
+def feature_tracks(f):
+    names=f['names'];aliases=f.get('aliases',[])
+    return sorted([t for t in tracks if (f.get('allYears') or 1990<=t['year']<=1999) and
+        (t['artist'] in aliases or (t['artist'] in names or any(a in names for a in t.get('artists',[])) if f['type']=='artist' else any(n in names for n in t.get('producers',[])) or t['artist'] in f.get('collaborations',[])))],key=lambda t:(t['year'],t['title']))
+features=[f for f in features if len(feature_tracks(f))>=3 and f.get('editorial')]
+assert len({a for f in features for a in f.get('aliases',[])})==sum(len(f.get('aliases',[])) for f in features),'Duplicate alias across features'
+
 ids=set()
 for t in tracks:
     assert re.fullmatch(r'[a-z0-9-]+',t['id']) and t['id'] not in ids, 'Invalid or duplicate ID'
@@ -143,6 +158,32 @@ listing='<section aria-label="収録曲"><h2>THE RECORD CRATE</h2>'+''.join('<ar
 home=DIST/'index.html';content=home.read_text();content=re.sub(r'<main id="view" tabindex="-1">.*?</main>','<main id="view" tabindex="-1">'+artist_directory+listing+'</main>',content,flags=re.S);home.write_text(content)
 enhance(home,'Crate Diggin’ — DJ NaoyamanのHip Hop・サンプリングガイド','楽曲から元ネタへ。Hip Hop、サンプリング、グラフィティを出典付きでたどる音楽ガイド。',HOST+'/',HOST+'/og-image.png',{'@context':'https://schema.org','@type':'WebSite','name':'Crate Diggin’','url':HOST+'/','inLanguage':'ja','author':{'@type':'Person','name':'DJ Naoyaman'}})
 print('Generated per-song social cards, SEO metadata, structured data, touch icons and HTML links.')
+
+# Every feature is readable without JavaScript and has a shareable URL.
+feature_dir=DIST/'features';feature_dir.mkdir(exist_ok=True)
+for stale in feature_dir.glob('*.html'):
+    if stale.stem not in {f['id'] for f in features}:stale.unlink()
+for f in features:
+    e=f['editorial'];esc=html.escape;selected=feature_tracks(f)
+    body='<h1>'+esc(f['name'])+'</h1><p>'+esc(feature_data['policy'])+'</p><p>'+esc(f.get('identityNote',''))+'</p><article class="prose"><h2>'+esc(e['title'])+'</h2>'
+    for title,key in [('音楽性と背景','context'),('後世に残したもの','legacy'),('私の聴き方','listening')]:
+        body+='<h3>'+title+'</h3><p>'+esc(e[key])+'</p>'
+    body+='<p>影響の評価と聴き方はDJ Naoyamanの考察です。</p><h3>参考資料</h3><ul>'+''.join('<li><a href="'+esc(r['url'],quote=True)+'">'+esc(r['label'])+'</a></li>' for r in e['sources'])+'</ul></article>'
+    body+='<h2>収録曲 '+str(len(selected))+' 曲</h2><ul>'+''.join('<li><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+esc(t['artist']+' — '+t['title'])+'</a></li>' for t in selected)+'</ul>'
+    page=re.sub(r'<main id="view" tabindex="-1">.*?</main>','<main id="view" tabindex="-1">'+body+'</main>',base,flags=re.S)
+    page=page.replace('<head>','<head><script>window.INITIAL_ROUTE='+json.dumps('#/feature/'+f['id'])+';</script>',1)
+    target=feature_dir/(f['id']+'.html');target.write_text(page)
+    url=HOST+'/features/'+f['id']+'.html'
+    enhance(target,f['name']+' — Features / Crate Diggin’',e['title'],url,HOST+'/og-image.png',{'@context':'https://schema.org','@type':'Article','headline':e['title'],'author':{'@type':'Person','name':'DJ Naoyaman'},'inLanguage':'ja','url':url})
+    links.append(url)
+    for artist in set(f.get('aliases',[])+(f['names'] if f['type']=='artist' else [])):
+        if artist in artist_slugs:
+            target_artist=artist_dir/(artist_slugs[artist]+'.html')
+            text=target_artist.read_text().replace('<ul>','<p><a href="'+BASE_PATH+'/features/'+f['id']+'.html">'+esc(e['title'])+' — 特集と考察を読む ↗</a></p><ul>',1)
+            target_artist.write_text(text)
+(DIST/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+html.escape(u)+'</loc></url>' for u in [HOST+'/']+links)+'</urlset>')
+with (DIST/'llms.txt').open('a') as output:
+    output.write('\n## Features\n'+''.join('- ['+f['name']+']('+HOST+'/features/'+f['id']+'.html)\n' for f in features))
 
 # A single source of version history, also available to the browser.
 release=json.loads((ROOT/'releases.json').read_text())

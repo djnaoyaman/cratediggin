@@ -1,5 +1,5 @@
 {
-  "version": "14.4",
+  "version": "15.0",
   "timezone": "Asia/Tokyo",
   "policy": "major-only",
   "history": [
@@ -127,6 +127,15 @@
       "description": "DJ ShadowのMo' Wax期12インチ作品4曲を追加。公式音源や盤面の未確認事項は明示し、既存220曲を維持。Nasを含む残りの盤は継続調査。",
       "kind": "major",
       "dateBasis": "変更記録日時（暫定）",
+      "retrospective": false
+    },
+    {
+      "version": "15.0",
+      "datetime": "2026-10-17T00:49:41+09:00",
+      "title": "影響を読むFeaturesと別名義の統合",
+      "description": "掲載3曲以上かつ後世への影響を重視する選定基準を明記。14特集に音楽性・後世への影響・私の聴き方と参考資料を追加。J Dilla / Jay Dee、Madlib / Quasimotoを同一人物の別名義として集約し、共同プロジェクトを区別。",
+      "kind": "major",
+      "dateBasis": "変更記録日時",
       "retrospective": false
     }
   ]
