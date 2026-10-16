@@ -78,6 +78,8 @@ jobs:
           sitemap = (root/'sitemap.xml').read_text()
           assert all('/artists/'+p.name in sitemap for p in artist_pages), 'Artist page missing from sitemap'
           assert 'ARTIST INDEX' in html, 'Artist links missing from static home HTML'
+          assert '/cratediggin/artists/' in html, 'Crawlable artist links missing from homepage'
+          assert any('/cratediggin/artists/' in p.read_text() for p in (root/'songs').glob('*.html')), 'Crawlable song-to-artist links missing'
           assert '## Artists' in (root/'llms.txt').read_text(), 'AI discovery artist index missing'
           assert 'dj-shadow-the-number-song' in (root/'tracks.js').read_text()
           print('Generated pages, social cards, URLs and Number Song verified')

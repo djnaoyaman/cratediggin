@@ -103,6 +103,13 @@ def enhance(path,title,description,url,img,ld,article=False):
     content=content.replace('</head>','<!-- SHARING_METADATA -->'+head+'<!-- /SHARING_METADATA --></head>')
     content=content.replace('公式YouTubeの連続再生','YouTube音源の連続再生')
     path.write_text(content)
+# Static artist links remain available to crawlers without JavaScript.
+for t in tracks:
+    path=DIST/'songs'/(t['id']+'.html')
+    page=path.read_text()
+    artist_href=BASE_PATH+'/artists/'+artist_slugs[t['artist']]+'.html'
+    page=page.replace('<p>'+html.escape(t['artist'])+'</p>','<p><a href="'+artist_href+'">'+html.escape(t['artist'])+'</a></p>',1)
+    path.write_text(page)
 for artist in artist_names:
     slug=artist_slugs[artist]
     url=HOST+'/artists/'+slug+'.html'
@@ -116,7 +123,7 @@ for t in tracks:
     enhance(DIST/'songs'/(t['id']+'.html'),t['title']+' / '+t['artist'],t['deck'],url,HOST+'/og/'+t['id']+'.png',data,True)
 # Expose song links in HTML before JavaScript runs; the client then replaces the view.
 artist_directory='<section aria-label="アーティストから探す"><h2>ARTIST INDEX</h2><p>アーティスト別の収録曲一覧</p><ul>'+''.join('<li><a href="'+BASE_PATH+'/artists/'+artist_slugs[name]+'.html">'+html.escape(name)+'</a></li>' for name in artist_names)+'</ul></section>'
-listing='<section aria-label="収録曲"><h2>THE RECORD CRATE</h2>'+''.join('<article><h3><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+html.escape(t['title'])+'</a></h3><p>'+html.escape(t['artist']+' / '+str(t['year']))+'</p><p>'+html.escape(t['deck'])+'</p></article>' for t in tracks)+'</section>'
+listing='<section aria-label="収録曲"><h2>THE RECORD CRATE</h2>'+''.join('<article><h3><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+html.escape(t['title'])+'</a></h3><p>'+'<a href="'+BASE_PATH+'/artists/'+artist_slugs[t['artist']]+'.html">'+html.escape(t['artist'])+'</a> / '+str(t['year'])+'</p><p>'+html.escape(t['deck'])+'</p></article>' for t in tracks)+'</section>'
 home=DIST/'index.html';content=home.read_text();content=re.sub(r'<main id="view" tabindex="-1">.*?</main>','<main id="view" tabindex="-1">'+artist_directory+listing+'</main>',content,flags=re.S);home.write_text(content)
 enhance(home,'Crate Diggin’ — DJ NaoyamanのHip Hop・サンプリングガイド','楽曲から元ネタへ。Hip Hop、サンプリング、グラフィティを出典付きでたどる音楽ガイド。',HOST+'/',HOST+'/og-image.png',{'@context':'https://schema.org','@type':'WebSite','name':'Crate Diggin’','url':HOST+'/','inLanguage':'ja','author':{'@type':'Person','name':'DJ Naoyaman'}})
 print('Generated per-song social cards, SEO metadata, structured data, touch icons and HTML links.')
