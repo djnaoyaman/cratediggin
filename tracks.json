@@ -38754,5 +38754,587 @@
       "mic-skills"
     ],
     "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+  },
+  {
+    "artist": "Fat Joe",
+    "title": "Dat Gangsta Shit",
+    "album": "Don Cartagena",
+    "label": "Big Beat / Atlantic",
+    "producer": "DJ Premier",
+    "producers": [
+      "DJ Premier"
+    ],
+    "sources": [
+      {
+        "label": "Fat Joe official YouTube: Dat Gangsta Shit, supplied by Equity Distribution",
+        "url": "https://www.youtube.com/watch?v=0y_-xyeEVDc",
+        "kind": "official-distributor-metadata"
+      },
+      {
+        "label": "DJ Premier Tells All: The Stories Behind His Classic Records",
+        "url": "https://djpremierblog.com/2011/02/19/dj-premier-tells-all-the-stories-behind-his-classic-records/",
+        "kind": "producer-interview-reprint"
+      },
+      {
+        "label": "The Source: Don Cartagena retrospective (2026)",
+        "url": "https://thesource.com/2026/09/01/today-in-hip-hop-history-fat-joe-dropped-his-third-lp-don-cartagena-28-years-ago/",
+        "kind": "music-journalism"
+      },
+      {
+        "label": "WhoSampled: Dat Gangsta Shit / Get Myself High",
+        "url": "https://www.whosampled.com/sample/260807/Fat-Joe-Dat-Gangsta-Shit-The-Dynamics-%28Soul%29-Get-Myself-High/",
+        "kind": "community-sample-identification"
+      }
+    ],
+    "facts": [
+      {
+        "title": "発表と制作",
+        "text": "1998年の第3作『Don Cartagena』収録。制作はDJ Premier。初出はBig Beat／Atlantic系で、現在の配信上の権利表示とは区別する。",
+        "sources": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "MCのための余白",
+        "text": "Premierは本曲について、ビートを簡潔で生々しいものにし、Fat Joeが韻を踏む空間を残したと説明している。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "素材の照合範囲",
+        "text": "WhoSampledはThe Dynamics「Get Myself High」をフック／リフの素材として登録している。データベース上の同定であり、独立した音声比較や権利資料の確認ではない。",
+        "sources": [
+          3
+        ]
+      }
+    ],
+    "id": "fat-joe-dat-gangsta-shit",
+    "year": 1998,
+    "yearBasis": "1998年9月1日発売の『Don Cartagena』収録版。現在の配信権利表示と初出レーベルを区別。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "members": "Fat Joe",
+    "youtube": {
+      "id": "0y_-xyeEVDc",
+      "url": "https://www.youtube.com/watch?v=0y_-xyeEVDc",
+      "title": "Dat Gangsta Shit",
+      "channel": "Fat Joe - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-16",
+      "verification": "oEmbedで曲名「Dat Gangsta Shit」・投稿者「Fat Joe - Topic」を照合。曲名・演者・収録作品を配信／盤情報と照合。公式配信。実再生・埋め込み可否は未検証。"
+    },
+    "deck": "足し算ではなく、MCの居場所を作る。Premier自身の制作証言から読む、Fat Joeの1998年。",
+    "essayTitle": "声のために空けられたビート",
+    "essay": [
+      "1998年の第3作『Don Cartagena』に収録。Terror Squadを大きく打ち出したアルバムのなかで、これはFat JoeとDJ Premierの組み合わせを正面から捉える一曲だ。大人数の客演曲だけで作品を語ると、こうしたソロのラップに焦点を合わせた設計を取りこぼしてしまう。",
+      "Premierは後年のインタビューで、この曲をターンテーブル向きのレコードとして捉え、ビートを簡潔にしてJoeが韻を踏む余地を残したと説明している。重要なのは「音数が少ない」という印象だけではなく、声を埋もれさせないための選択だったこと。派手さを競うのでなく、MCの言葉が占める空間そのものを制作している。",
+      "声の前後の隙間に耳を置いてみたい。伴奏の見せ場を増やすのではなく、Joeが韻を運ぶ場所を作る。Premierの証言を読むと、簡潔さは省略ではなく配置の問題なのだと分かる。プロデューサーが一歩引くことでMCの輪郭を立てる。その引き算を、同じアルバムの別の制作陣による曲と比べるのも面白い。",
+      "サンプル資料が示すのはThe Dynamicsの「Get Myself High」。この関係はWhoSampledの登録情報として押さえつつ、元曲探しの答え合わせだけで終わらせたくない。素材の来歴と、ラップのためにどこまで音を整理するかは別の問いだ。レコードを一枚遡ったら、もう一度Joeの声へ戻る。掘るほどに、空けられた場所の意味が気になってくる。"
+    ],
+    "samples": [
+      {
+        "artist": "The Dynamics",
+        "title": "Get Myself High",
+        "year": 1973,
+        "role": "WhoSampledがフック／リフの素材として登録。データベース上の同定であり、独立した音声比較は未実施。音源は同一録音を確認できていないため掲載しない。",
+        "sources": [
+          3
+        ],
+        "main": false
+      }
+    ],
+    "sampleStatus": "資料で確認した関係だけを掲載。権利処理や音声波形の独立検証を意味しません。",
+    "listening": [
+      "声の前後の余白を、Premierの「ラップのために空ける」という制作意図と照らして聴く。",
+      "短い反復とMCの区切りの関係を追い、音数を増やさずに緊張を維持する方法を考える。",
+      "The Dynamicsの参照元と比較する場合は、音色の一致だけでなく使われ方の変化を確認する。"
+    ],
+    "context": "Terror Squadを打ち出した『Don Cartagena』の中で、Fat JoeのソロとPremierの簡潔な伴奏の関係を捉える一曲。",
+    "connections": [],
+    "sounds": [
+      "ラップ",
+      "ドラム"
+    ],
+    "addedOrder": 363,
+    "datePublished": "2026-10-16",
+    "noteReviewedAt": "2026-10-16",
+    "editorialStatus": "制作・作品情報は出典を照合。聴き方は資料に基づく編集上の提案です。音源の実再生・地域別の視聴可否は未検証。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "art": {
+      "word": "DAT GANGSTA SHIT",
+      "lines": [
+        "DAT GANGSTA SHIT"
+      ],
+      "tag": "FAT JOE",
+      "style": "subway",
+      "seed": 3232748842,
+      "profile": "ny-subway",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通の青・白・黒を使用。",
+      "lettering": "block",
+      "letteringNote": "作品の転載を用いない独自の文字表現。"
+    },
+    "curationNote": "選定したのは出典で同定した商業リリースの録音。ミックスに収録された短い抜粋の編集・検閲違いまでは未確認。別リミックスとして登録していない。"
+  },
+  {
+    "artist": "Busta Rhymes",
+    "title": "Everybody Rise",
+    "album": "Extinction Level Event: The Final World Front",
+    "label": "Elektra",
+    "producer": "Nottz",
+    "producers": [
+      "Nottz"
+    ],
+    "sources": [
+      {
+        "label": "Everybody Rise — official Rhino/Elektra delivery",
+        "url": "https://www.youtube.com/watch?v=KV2jCirrqXo",
+        "kind": "primary_label_metadata"
+      },
+      {
+        "label": "Everybody Rise — Apple Music credits",
+        "url": "https://music.apple.com/sk/song/322122766",
+        "kind": "licensed_release_metadata"
+      },
+      {
+        "label": "Nottz — Red Bull Music Academy Toronto 2007 interview",
+        "url": "https://www.redbullmusicacademy.com/lectures/nottz-sp-footprints/",
+        "kind": "primary_interview"
+      },
+      {
+        "label": "Boss Breaks — The FADER (2007)",
+        "url": "https://www.thefader.com/2007/03/07/boss-breaks",
+        "kind": "music_journalism"
+      },
+      {
+        "label": "Dr. Dre Speaks On Influence Of Other Producers — interview report",
+        "url": "https://zhiphopcleveland.com/1348571/dr-dre-speaks-on-influence-of-other-producers/",
+        "kind": "interview_report"
+      }
+    ],
+    "facts": [
+      {
+        "title": "発表・制作",
+        "text": "1998年12月15日発表のE.L.E.収録。Nottzが制作、原盤はElektra。Bustaはラップ、アレンジおよびミックスにもクレジットされる。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "制作への入口",
+        "text": "Nottzは2007年の公開インタビューで、Holy WaterをきっかけにBustaへビートのカセットを渡したこと、この曲が世に出てBustaが彼の名を広めた後に依頼が増えたことを説明。",
+        "sources": [
+          2
+        ]
+      },
+      {
+        "title": "サンプルと後続作品",
+        "text": "The FADERはThe ControllersのIf Tomorrow Never Comesのピアノ使用を特定。Dr. DreはBoss’s Life制作でBustaの録音を聴き音楽を再演奏したとインタビューで述べている。",
+        "sources": [
+          3,
+          4
+        ]
+      }
+    ],
+    "id": "busta-rhymes-everybody-rise",
+    "year": 1998,
+    "yearBasis": "1998年12月15日発売の『E.L.E.』収録版。後年の「Everybody Rise Again」とは別曲。",
+    "region": "US",
+    "scene": "US",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "members": "Busta Rhymes",
+    "youtube": {
+      "id": "KV2jCirrqXo",
+      "url": "https://www.youtube.com/watch?v=KV2jCirrqXo",
+      "title": "Everybody Rise",
+      "channel": "Busta Rhymes - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-16",
+      "verification": "oEmbedで曲名「Everybody Rise」・投稿者「Busta Rhymes - Topic」を照合。曲名・演者・収録作品を配信／盤情報と照合。公式配信。実再生・埋め込み可否は未検証。"
+    },
+    "deck": "街の名前を呼び上げるBustaと、ソウルのピアノを反復へ変えるNottz。世紀末のE.L.E.を動かす集団的な号令。",
+    "essayTitle": "ピアノの反復を、街から街への呼びかけに変える",
+    "essay": [
+      "1998年の『Extinction Level Event: The Final World Front』でNottzが手がけた「Everybody Rise」。街の名前を呼び上げる声は、一人のラッパーの登場を集団への号令に変える。歌う旋律を主役にするのでなく、呼びかけとヴァースが同じ反復をどう使うか。その役割の違いを追うところから始めたい。",
+      "曲をたどる鍵はThe Controllersの「If Tomorrow Never Comes」。The FADERが指摘するピアノの引用は、ソウル曲をそのまま歌い直すためではなく、Bustaのラップと呼びかけを支える反復へと組み替えられている。ここでの聴き比べは、元曲の旋律の情緒よりも、短いモチーフが反復されたときにリズムの目印へ役割を変える点に向けたい。",
+      "2007年のRed Bull Music Academyで、Nottzは「Holy Water」からBustaとの仕事へ進んだ経緯を語っている。渡したビート・カセットがアルバムの制作につながり、本曲の評判を聞いた人々にBustaがNottzの名とヴァージニア出身であることを伝えると、次の仕事の電話が増えたという。完成曲だけでなく、ビートを手渡す現場と、ラッパーによる制作者の紹介まで含めて聴くと、この曲がNottzのキャリアで持つ重みが分かる。",
+      "まず都市名を並べる呼びかけと、ヴァースを組み立てるラップの役割の差に注目したい。次に元曲を挟んでSnoop Doggの「Boss’s Life」へ進むと、同じ素材の別の扱いが比較できる。Dre本人のインタビュー発言では、後者の音楽を再演奏する際にBustaの録音を参照したという。単なる「同じネタ」の一覧を越え、先行するヒップホップ作品そのものが後続制作の手本になる経路を持つ一曲だ。"
+    ],
+    "samples": [
+      {
+        "artist": "The Controllers",
+        "title": "If Tomorrow Never Comes",
+        "year": null,
+        "role": "The FADERがピアノの引用を指摘。Dr. Dreのインタビュー報道は、後の「Boss’s Life」でBustaの録音を参照して再演奏した経路も伝える。原曲の同一録音を確認した音源リンクは未掲載。",
+        "sources": [
+          3,
+          4
+        ],
+        "main": false
+      }
+    ],
+    "sampleStatus": "資料で確認した関係だけを掲載。権利処理や音声波形の独立検証を意味しません。",
+    "listening": [
+      "編集部の聴取ガイド：ピアノの反復を元曲と比較し、旋律がビートの目印へ変わる箇所を探す。",
+      "都市名の呼び上げとヴァースのラップを対比する。",
+      "Boss’s Lifeと続けて聴き、同じ素材の再演奏による印象の違いを比べる。"
+    ],
+    "context": "Nottzの初期の主要仕事。Bustaが制作者の名前を広めた経緯を、本人の2007年インタビューから辿れる。",
+    "connections": [],
+    "sounds": [
+      "ラップ",
+      "ドラム"
+    ],
+    "addedOrder": 364,
+    "datePublished": "2026-10-16",
+    "noteReviewedAt": "2026-10-16",
+    "editorialStatus": "制作・作品情報は出典を照合。聴き方は資料に基づく編集上の提案です。音源の実再生・地域別の視聴可否は未検証。",
+    "collections": [],
+    "editorialCrates": [],
+    "art": {
+      "word": "EVERYBODY RISE",
+      "lines": [
+        "EVERYBODY RISE"
+      ],
+      "tag": "BUSTA RHYMES",
+      "style": "piece",
+      "seed": 1404933104,
+      "profile": "piece",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通の青・白・黒を使用。",
+      "lettering": "block",
+      "letteringNote": "作品の転載を用いない独自の文字表現。"
+    },
+    "curationNote": "選定したのは出典で同定した商業リリースの録音。ミックスに収録された短い抜粋の編集・検閲違いまでは未確認。別リミックスとして登録していない。"
+  },
+  {
+    "artist": "Lord Finesse feat. Big L",
+    "title": "Yes You May (Funk Flow Mix)",
+    "album": "Party Over Here (12-inch single, B-side)",
+    "label": "Giant",
+    "producer": "T-Ray",
+    "producers": [
+      "T-Ray"
+    ],
+    "sources": [
+      {
+        "label": "Lord Finesse & A.G.: Encore — AllHipHop interview",
+        "url": "https://allhiphop.com/features/lord-finesse-a-g-encore/",
+        "kind": "artist interview"
+      },
+      {
+        "label": "Party Over Here / Yes You May (Funk Flow Mix) — FATMAN RECORDS",
+        "url": "https://fatman.ocnk.net/product/1762",
+        "kind": "physical-record listing"
+      },
+      {
+        "label": "Yes You May (Funk Flow Mix) — WhoSampled",
+        "url": "https://www.whosampled.com/Lord-Finesse/Yes-You-May-%28Funk-Flow-Mix%29/",
+        "kind": "sample database, secondary"
+      },
+      {
+        "label": "Return of the Funky Man 30th anniversary — Brooklyn Radio",
+        "url": "https://brooklynradio.com/30thanniversary-lord-finesse-return-of-the-funky-man/",
+        "kind": "specialist retrospective"
+      },
+      {
+        "label": "Lord Finesse ft. Big L - Yes You May (Remix) (1992)",
+        "url": "https://www.youtube.com/watch?v=-riBOFRt2xw",
+        "kind": "unofficial recording metadata"
+      }
+    ],
+    "facts": [
+      {
+        "title": "B面に収録された別バージョン",
+        "text": "1992年のGiant「Party Over Here」12インチに収録されたFunk Flow Mix。Big L参加版で、A.G.とPercee Pが参加するアルバム原曲とは演者・制作が異なる。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "T-Rayのビートを選ぶ",
+        "text": "Finesseは、Percee Pを介してT-Rayを知り、元来Biz Markie向けだったビートを得て1992年にBig Lを参加させたとインタビューで語っている。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "id": "lord-finesse-yes-you-may-funk-flow-mix",
+    "year": 1992,
+    "yearBasis": "1992年Giant「Party Over Here」12インチのB面、Funk Flow Mix。A.G.／Percee P参加のアルバム原曲および後年の再発と区別。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "members": "Lord Finesse / Big L",
+    "youtube": {
+      "id": "-riBOFRt2xw",
+      "url": "https://www.youtube.com/watch?v=-riBOFRt2xw",
+      "title": "Lord Finesse ft. Big L - Yes You May (Remix) (1992)",
+      "channel": "OfficialEastCoastRap-2",
+      "type": "User Upload",
+      "official": false,
+      "publishedAt": "2022-06-24",
+      "verified": "2026-10-16",
+      "verification": "oEmbedで曲名「Lord Finesse ft. Big L - Yes You May (Remix) (1992)」・投稿者「OfficialEastCoastRap-2」を照合。曲名・演者・収録作品を配信／盤情報と照合。一般投稿。チャンネル名は権利者公認の証明ではありません。実再生・埋め込み可否は未検証。"
+    },
+    "deck": "A.G.とPercee Pの原曲とは別の顔。T-Rayのビートを舞台に、Lord FinesseがBig Lをレコードの世界へ送り出した1992年のリミックス。",
+    "essayTitle": "リミックスが、新人の名刺に変わる瞬間",
+    "essay": [
+      "「Yes You May」は、同じ曲名のまま参加者が入れ替わるところが重要だ。『Return of the Funky Man』の原曲に参加したA.G.とPercee Pではなく、このFunk Flow MixではBig LがFinesseとマイクを分け合う。1992年の「Party Over Here」12インチのB面で、リミックスは曲を延命する手段にとどまらず、新たな才能を紹介する場になった。アルバム本編から一歩外へ出た場所に、別の歴史の始まりがある。",
+      "AllHipHopのインタビューでFinesseは、Percee Pを介してT-Rayを知り、このビートが元来Biz Markie向けだったと説明している。既存曲を少し飾るだけの仕事ではなく、別のMCのために用意された音を選び取り、新人を前へ出すための舞台に変えたわけだ。制作年も本人が1992年と述べており、Big Lの名前がまだ広く知られていない段階での判断だった点に、この共演の意味がある。",
+      "Big Lの登場を単なるゲスト欄の追加で終わらせず、先輩の楽曲を借りた自己紹介として捉えたい。注目点は、一つの長い物語よりも、短い比喩や攻撃的な言い回しを次々と着地させるラップの組み立て。Finesseへマイクが移ったときにも、声の違いだけでなく、言葉を押し出す位置や余白の取り方を比較できる。二人のMCが同じビートの上でどんな輪郭を描くのか。その対照こそが、聴き比べの中心になる。",
+      "サンプル資料を入口にすると、Albert Kingのライヴ録音、Little Richard、Gwen McCraeという組み合わせへ辿り着く。とりわけ低音とドラムを別々の演奏へ遡ってみると、出来上がったビートを一つのループとして扱うだけでは見えない組み立てが浮かぶ。ブルース、ロックンロール、ファンクが、二人のMCのための足場へ姿を変える。原曲とこのリミックスを続けて選盤するなら、歌詞の登場人物の交代と、伴奏の出自の両方を楽しみたい。"
+    ],
+    "samples": [
+      {
+        "artist": "Albert King",
+        "title": "I’ll Play the Blues for You (Live)",
+        "role": "WhoSampledがベース素材として登録。ライブ録音の同一性を確認できる音源は未掲載。",
+        "sources": [
+          2
+        ],
+        "main": false
+      },
+      {
+        "artist": "Little Richard",
+        "title": "The Rill Thing",
+        "role": "WhoSampledがドラム素材として登録。独立した音声比較は未実施。",
+        "sources": [
+          2
+        ],
+        "main": false
+      },
+      {
+        "artist": "Gwen McCrae",
+        "title": "Funky Sensation",
+        "role": "WhoSampledが声の素材として登録。独立した音声比較は未実施。",
+        "sources": [
+          2
+        ],
+        "main": false
+      }
+    ],
+    "sampleStatus": "資料で確認した関係だけを掲載。権利処理や音声波形の独立検証を意味しません。",
+    "listening": [
+      "冒頭の参加者紹介とBig Lの最初のヴァースを、原曲のA.G.／Percee P参加版と区別する。",
+      "Big LからFinesseへ交代したとき、パンチラインの配置とフレーズ間の余白を比較する。",
+      "データベースが示すAlbert Kingの低音素材とLittle Richardのドラム素材を別々に辿り、完成したビートとの関係を確かめる。"
+    ],
+    "context": "D.I.T.C.周辺の人脈を通じ、リミックスのB面がBig Lを紹介する場になった。T-Rayの制作とMC二人の交代に耳を向ける。",
+    "connections": [],
+    "sounds": [
+      "ラップ",
+      "ドラム"
+    ],
+    "addedOrder": 365,
+    "datePublished": "2026-10-16",
+    "noteReviewedAt": "2026-10-16",
+    "editorialStatus": "制作・作品情報は出典を照合。聴き方は資料に基づく編集上の提案です。音源の実再生・地域別の視聴可否は未検証。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "art": {
+      "word": "YES YOU MAY (FUNK FLOW MIX)",
+      "lines": [
+        "YES YOU MAY (FUNK FLOW MIX)"
+      ],
+      "tag": "LORD FINESSE / BIG L",
+      "style": "piece",
+      "seed": 1331554261,
+      "profile": "ny-subway",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通の青・白・黒を使用。",
+      "lettering": "block",
+      "letteringNote": "作品の転載を用いない独自の文字表現。"
+    },
+    "artists": [
+      "Lord Finesse",
+      "Big L"
+    ],
+    "curationNote": "選定したのは出典で同定した商業リリースの録音。ミックスに収録された短い抜粋の編集・検閲違いまでは未確認。アルバム原曲とは別バージョンとして扱う。"
+  },
+  {
+    "artist": "The Roots",
+    "title": "Without a Doubt",
+    "album": "Things Fall Apart",
+    "label": "MCA Records",
+    "producer": "Chaos / The Grand Wizzards",
+    "producers": [
+      "Chaos",
+      "The Grand Wizzards"
+    ],
+    "sources": [
+      {
+        "label": "Without A Doubt — Universal official audio credits",
+        "url": "https://www.youtube.com/watch?v=IJJzRWO72Po",
+        "kind": "primary_label_metadata"
+      },
+      {
+        "label": "Things Fall Apart — Qobuz track credits",
+        "url": "https://www.qobuz.com/us-en/album/things-fall-apart-the-roots/0007502101475",
+        "kind": "licensed_release_metadata"
+      },
+      {
+        "label": "Things Fall Apart 20th anniversary — Universal Music Canada",
+        "url": "https://www.universalmusic.ca/2019/09/25/the-roots-things-fall-apart-to-be-reissued-for-20th-anniversary-on-3lp-september-27/",
+        "kind": "primary_label_statement"
+      },
+      {
+        "label": "Things Fall Apart — Apple Music editorial",
+        "url": "https://music.apple.com/us/album/things-fall-apart/1440632803",
+        "kind": "licensed_metadata_and_editorial"
+      },
+      {
+        "label": "Rediscover Things Fall Apart — Albumism",
+        "url": "https://albumism.com/features/the-roots-things-fall-apart-album-anniversary",
+        "kind": "music_journalism"
+      }
+    ],
+    "facts": [
+      {
+        "title": "原盤と年代",
+        "text": "Things Fall Apartは1999年MCA発売。公式デジタル音源の2004年日付とは区別する。",
+        "sources": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "演者と制作",
+        "text": "Lady Bをフィーチャー。ChaosとThe Grand Wizzardsの制作クレジット、Tariq TrotterとJesse Bonds Weaverの作家クレジットを公式音源とQobuzが掲載。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Schoolly Dとの関係",
+        "text": "Apple MusicはSchoolly DのSaturday Nightのインストゥルメンタルを再現したと説明。Albumismもフィラデルフィアのヒップホップへのオマージュとして扱う。原盤サンプリングだけと断定せず再構築・再現として説明する。",
+        "sources": [
+          3,
+          4
+        ]
+      }
+    ],
+    "id": "the-roots-without-a-doubt",
+    "year": 1999,
+    "yearBasis": "1999年MCA発売『Things Fall Apart』収録版。公式音源の2004年という配信日を初出年には使用しない。",
+    "region": "Philadelphia",
+    "scene": "Philadelphia",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "members": "The Roots / Lady B",
+    "youtube": {
+      "id": "IJJzRWO72Po",
+      "url": "https://www.youtube.com/watch?v=IJJzRWO72Po",
+      "title": "Without A Doubt",
+      "channel": "The Roots - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-16",
+      "verification": "oEmbedで曲名「Without A Doubt」・投稿者「The Roots - Topic」を照合。曲名・演者・収録作品を配信／盤情報と照合。公式配信。実再生・埋め込み可否は未検証。"
+    },
+    "deck": "Lady Bの声とSchoolly Dへの接続。The Rootsがフィラデルフィアのラップの系譜を、装飾を削ったビートで描く。",
+    "essayTitle": "ジャズの先に、フィリーのラップへ戻る",
+    "essay": [
+      "1999年の『Things Fall Apart』に置かれた「Without a Doubt」は、The Rootsをジャズの隣だけで捉えると見落としやすい一曲だ。中心にあるのはBlack ThoughtのラップとLady Bの参加、そしてフィラデルフィアの先行するヒップホップへの具体的な接続。バンドとしての演奏力を誇示するよりも、街に蓄積されたラップの記憶を前に出す。アルバムの多彩さの中で、あえて古いラップの文法へ近づくこと自体が輪郭になる。",
+      "Apple Musicの解説は、トラックをSchoolly Dの「Saturday Night」のインストゥルメンタルに極めて近い再現として説明している。Albumismも、削ぎ落としたドラムとカウベル、Lady Bの声をフィリーの1980年代ヒップホップの継承として位置づける。元曲をたどる際には、「何を引用したか」だけでなく、なぜ同じ街の音を選んだかまで考えると面白い。懐古の飾りではなく、自分たちの出発点をアルバム内に刻む選択として読める。",
+      "曲別クレジットで制作陣に並ぶのはChaosとThe Grand Wizzards。作家欄のTariq Trotter、Melvin Lewis Jr.、Jesse Bonds Weaverという名前を辿ると、ラップ、制作、参照元が別々の役割を持っていることが見えてくる。バンド名を一つ覚えて終えるより、誰が何を持ち寄ったかまで読んでから針を戻したい。",
+      "聴取の入口は、Lady Bの反復的な呼びかけに対し、Black Thoughtのヴァースがどのように言葉の密度を変えるか。次はカウベルを含む打音を目印に、Schoolly Dの原曲と続けて聴くこと。メロディーの豪華さではなく、限られた要素の上でMCがどれだけ場を動かすかという耳に切り替えると、この曲の位置がはっきりする。「Dynamite!」からこの曲を経て「Ain’t Sayin’ Nothin’ New」へという並びで聴けば、一枚の中でビートの肌触りが切り替わる瞬間にも耳を向けられる。"
+    ],
+    "samples": [
+      {
+        "artist": "Schoolly D",
+        "title": "Saturday Night",
+        "year": null,
+        "role": "Apple MusicはSchoolly Dのインストゥルメンタルを再現したと説明。原盤の直接サンプリングと断定せず、再構築／インターポレーションとして扱う。同一録音を確認した比較音源は未掲載。",
+        "sources": [
+          3,
+          4
+        ],
+        "main": false
+      }
+    ],
+    "sampleStatus": "資料で確認した関係だけを掲載。権利処理や音声波形の独立検証を意味しません。",
+    "listening": [
+      "編集部の聴取ガイド：Lady Bの呼びかけとBlack Thoughtのヴァースで言葉の密度を比較。",
+      "ドラムとカウベルを手がかりに、Schoolly DのSaturday Nightとの再現関係を聴き比べる。",
+      "同じアルバムのメロディーを前面に出す曲と並べ、ここで削られている要素を探す。"
+    ],
+    "context": "フィラデルフィアの先行するラップ文化への接続を、Schoolly Dの伴奏の再現とLady Bの参加から聴く。",
+    "connections": [],
+    "sounds": [
+      "ラップ",
+      "ドラム"
+    ],
+    "addedOrder": 366,
+    "datePublished": "2026-10-16",
+    "noteReviewedAt": "2026-10-16",
+    "editorialStatus": "制作・作品情報は出典を照合。聴き方は資料に基づく編集上の提案です。音源の実再生・地域別の視聴可否は未検証。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "art": {
+      "word": "WITHOUT A DOUBT",
+      "lines": [
+        "WITHOUT A DOUBT"
+      ],
+      "tag": "THE ROOTS",
+      "style": "piece",
+      "seed": 3499496588,
+      "profile": "piece",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通の青・白・黒を使用。",
+      "lettering": "block",
+      "letteringNote": "作品の転載を用いない独自の文字表現。"
+    },
+    "curationNote": "選定したのは出典で同定した商業リリースの録音。ミックスに収録された短い抜粋の編集・検閲違いまでは未確認。別リミックスとして登録していない。"
   }
 ]
