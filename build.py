@@ -1,6 +1,6 @@
 """Generate all public views from the one authoritative record crate."""
-import json, html, re, os
-from urllib.parse import urlparse
+import json, html, re, os, hashlib
+from urllib.parse import urlparse, quote
 from pathlib import Path
 ROOT=Path(__file__).parent
 DIST=ROOT/'dist'
@@ -53,9 +53,30 @@ for t in tracks:
     md='# '+t['title']+'\n\n'+t['artist']+' / '+str(t['year'])+' / '+t['region']+'\n\n## '+t['essayTitle']+'\n\n'+'\n\n'.join(t['essay'])+'\n\n## 制作背景\n\n'+'\n\n'.join('### '+f['title']+'\n\n'+f['text'] for f in t['facts'])+'\n\n## サンプル元\n\n'+'\n\n'.join(s['artist']+' — '+s['title']+'\n\n'+s['role']+('\n\nhttps://www.youtube.com/watch?v='+s['youtube']['id'] if s.get('youtube') else '') for s in t['samples'])+'\n\n## 出典\n\n'+'\n'.join('- ['+s['label']+']('+s['url']+')' for s in t['sources'])+'\n'
     (p/(t['id']+'.md')).write_text(md)
     links.append(HOST+'/songs/'+t['id']+'.html')
+# Search engines need crawlable artist hubs, not only JavaScript hash routes.
+artist_names=sorted({t['artist'] for t in tracks},key=str.casefold)
+artist_slugs={name:hashlib.sha256(name.encode('utf-8')).hexdigest()[:16] for name in artist_names}
+artist_dir=DIST/'artists';artist_dir.mkdir(exist_ok=True)
+for stale in artist_dir.glob('*.html'):
+    if stale.stem not in set(artist_slugs.values()):stale.unlink()
+for artist in artist_names:
+    slug=artist_slugs[artist]
+    artist_tracks=[t for t in tracks if t['artist']==artist]
+    url=HOST+'/artists/'+slug+'.html'
+    listing='<main id="view" tabindex="-1"><article><h1>'+html.escape(artist)+'</h1><p>Crate Diggin’ 収録曲 '+str(len(artist_tracks))+' 曲</p><ul>'+''.join('<li><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+html.escape(t['title'])+'</a> ('+str(t['year'])+')</li>' for t in artist_tracks)+'</ul><p><a href="'+BASE_PATH+'/">Crate Diggin’ トップへ</a></p></article></main>'
+    page=base.replace('<main id="view" tabindex="-1"></main>',listing)
+    page=re.sub(r'<title>.*?</title>','<title>'+html.escape(artist)+' の楽曲一覧 — Crate Diggin’</title>',page)
+    page=re.sub(r'<meta name="description" content="[^"]*">','<meta name="description" content="'+html.escape(artist+' のHip Hop楽曲 '+str(len(artist_tracks))+' 曲を収録。楽曲解説、サンプリングの元ネタ、出典をDJ Naoyamanが紹介。',quote=True)+'">',page)
+    page=re.sub(r'<link rel="canonical" href="[^"]*">','<link rel="canonical" href="'+url+'">',page)
+    page=page.replace('<head>','<head><script>window.INITIAL_ROUTE='+json.dumps('#/artist/'+quote(artist,safe=''))+';</script>',1)
+    page=page.replace('id="hero"','id="hero" hidden')
+    (artist_dir/(slug+'.html')).write_text(page)
+    links.append(url)
 (DIST/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+html.escape(u)+'</loc></url>' for u in [HOST+'/']+links)+'</urlset>')
 (DIST/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+HOST+'/sitemap.xml\n')
 (DIST/'llms.txt').write_text('# Crate Diggin’\n\nA Guide to Sampled Mind & Vintage Grooves\n\n選曲・編集・文責 DJ Naoyaman。事実と私見を分け、出典を示すHip Hopガイド。\n\n'+'\n'.join('- ['+t['title']+']('+HOST+'/songs/'+t['id']+'.md)' for t in tracks)+'\n')
+# Machine-readable discovery guide: source-backed editorial pages, not an indexing guarantee.
+(DIST/'llms.txt').write_text('# Crate Diggin’ — Hip Hop & Sampling Archive\n\n> DJ Naoyamanが選曲・編集するHip Hop、サンプリング、音楽文化の出典付きアーカイブ。\n\n## Start here\n- [ホーム]('+HOST+'/)\n- [サイトマップ]('+HOST+'/sitemap.xml)\n- [全楽曲のMarkdown]('+HOST+'/llms-full.txt)\n\n## Artists\n'+''.join('- ['+a+']('+HOST+'/artists/'+artist_slugs[a]+'.html)\n' for a in artist_names)+'\n## Songs\n'+''.join('- ['+t['artist']+' — '+t['title']+']('+HOST+'/songs/'+t['id']+'.md)\n' for t in tracks)+'\n## Editorial policy\n楽曲の歴史的事実と編集者の解釈は区別しています。各楽曲ページの出典を確認してください。YouTubeへのリンクは公式配信や参考音源の案内であり、音源の権利を主張しません。\n')
 (DIST/'llms-full.txt').write_text('\n\n'.join((DIST/'songs'/(t['id']+'.md')).read_text() for t in tracks))
 (DIST/'404.html').write_text('<!doctype html><html lang="ja"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Crate Diggin’</title><link rel="stylesheet" href="'+BASE_PATH+'/style.css"><body><main style="padding:10vw"><h1 class="section-title">KEEP DIGGIN’.</h1><p>このページは見つかりませんでした。</p><a href="'+BASE_PATH+'/">クレートへ戻る</a></main></body></html>')
 print(f'Generated {len(tracks)} songs, source candidates, sitemap and Markdown. Data validation passed.')
@@ -82,14 +103,21 @@ def enhance(path,title,description,url,img,ld,article=False):
     content=content.replace('</head>','<!-- SHARING_METADATA -->'+head+'<!-- /SHARING_METADATA --></head>')
     content=content.replace('公式YouTubeの連続再生','YouTube音源の連続再生')
     path.write_text(content)
+for artist in artist_names:
+    slug=artist_slugs[artist]
+    url=HOST+'/artists/'+slug+'.html'
+    entries=[t for t in tracks if t['artist']==artist]
+    data={'@context':'https://schema.org','@graph':[{'@type':'CollectionPage','name':artist+' — Crate Diggin’ 収録曲','url':url,'inLanguage':'ja','mainEntity':{'@type':'ItemList','numberOfItems':len(entries),'itemListElement':[{'@type':'ListItem','position':i+1,'name':t['title'],'url':HOST+'/songs/'+t['id']+'.html'} for i,t in enumerate(entries)]}},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'Crate Diggin’','item':HOST+'/'},{'@type':'ListItem','position':2,'name':artist,'item':url}]}]}
+    enhance(DIST/'artists'/(slug+'.html'),artist+' の楽曲一覧 — Crate Diggin’',artist+' の収録曲 '+str(len(entries))+' 曲。楽曲解説、サンプリング元ネタと出典を紹介。',url,HOST+'/og-image.png',data)
 for t in tracks:
     social_image(t).save(DIST/'og'/(t['id']+'.png'))
     url=HOST+'/songs/'+t['id']+'.html'
     data={'@context':'https://schema.org','@graph':[{'@type':'MusicRecording','@id':url+'#recording','name':t['title'],'byArtist':{'@type':'MusicGroup' if '、' in t['members'] else 'Person','name':t['artist']},'inAlbum':{'@type':'MusicAlbum','name':t['album']},'datePublished':str(t['year']),'url':url,'sameAs':t['youtube']['url']},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'Crate Diggin’','item':HOST+'/'},{'@type':'ListItem','position':2,'name':t['title'],'item':url}]}]}
     enhance(DIST/'songs'/(t['id']+'.html'),t['title']+' / '+t['artist'],t['deck'],url,HOST+'/og/'+t['id']+'.png',data,True)
 # Expose song links in HTML before JavaScript runs; the client then replaces the view.
+artist_directory='<section aria-label="アーティストから探す"><h2>ARTIST INDEX</h2><p>アーティスト別の収録曲一覧</p><ul>'+''.join('<li><a href="'+BASE_PATH+'/artists/'+artist_slugs[name]+'.html">'+html.escape(name)+'</a></li>' for name in artist_names)+'</ul></section>'
 listing='<section aria-label="収録曲"><h2>THE RECORD CRATE</h2>'+''.join('<article><h3><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+html.escape(t['title'])+'</a></h3><p>'+html.escape(t['artist']+' / '+str(t['year']))+'</p><p>'+html.escape(t['deck'])+'</p></article>' for t in tracks)+'</section>'
-home=DIST/'index.html';content=home.read_text();content=re.sub(r'<main id="view" tabindex="-1">.*?</main>','<main id="view" tabindex="-1">'+listing+'</main>',content,flags=re.S);home.write_text(content)
+home=DIST/'index.html';content=home.read_text();content=re.sub(r'<main id="view" tabindex="-1">.*?</main>','<main id="view" tabindex="-1">'+artist_directory+listing+'</main>',content,flags=re.S);home.write_text(content)
 enhance(home,'Crate Diggin’ — DJ NaoyamanのHip Hop・サンプリングガイド','楽曲から元ネタへ。Hip Hop、サンプリング、グラフィティを出典付きでたどる音楽ガイド。',HOST+'/',HOST+'/og-image.png',{'@context':'https://schema.org','@type':'WebSite','name':'Crate Diggin’','url':HOST+'/','inLanguage':'ja','author':{'@type':'Person','name':'DJ Naoyaman'}})
 print('Generated per-song social cards, SEO metadata, structured data, touch icons and HTML links.')
 

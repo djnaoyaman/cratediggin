@@ -73,6 +73,12 @@ jobs:
           assert 'href="/cratediggin/apple-touch-icon-vinyl.png?v=original-20261016"' in html, 'Vinyl touch icon URL missing'
           assert html.count('rel="apple-touch-icon"') == 1, 'Duplicate Apple touch icon tags'
           assert (root/'apple-touch-icon-vinyl.png').exists(), 'Vinyl touch icon not generated'
+          artist_pages = list((root/'artists').glob('*.html'))
+          assert artist_pages, 'No crawlable artist pages generated'
+          sitemap = (root/'sitemap.xml').read_text()
+          assert all('/artists/'+p.name in sitemap for p in artist_pages), 'Artist page missing from sitemap'
+          assert 'ARTIST INDEX' in html, 'Artist links missing from static home HTML'
+          assert '## Artists' in (root/'llms.txt').read_text(), 'AI discovery artist index missing'
           assert 'dj-shadow-the-number-song' in (root/'tracks.js').read_text()
           print('Generated pages, social cards, URLs and Number Song verified')
           PY
