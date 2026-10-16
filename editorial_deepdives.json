@@ -1,0 +1,50 @@
+[
+  {
+    "artist": "DJ Shadow",
+    "title": "The Number Song",
+    "sections": [
+      {
+        "heading": "制作の背景：サンプラーの制約が音楽になった",
+        "text": "1996年のアルバム『Endtroducing.....』を生んだ制作環境は、現在のDAWとは大きく異なる。DJ Shadowは当時、短いサンプルを切り出して重ね、限られた機材の中で音楽の構成を組み上げた。数を数える声も意味を伝える台詞ではなく、リズムを作る素材として機能している。",
+        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
+        "sourceLabel": "The Guardian：DJ Shadow本人による制作回想"
+      },
+      {
+        "heading": "聴き比べ：ドラムの質感を探す",
+        "text": "サンプリングの参照先として、Tony Alvon & the Belairs「Sexy Coffee Pot」（1969年）のドラムが記録されている。原曲と聴き比べる際は、メロディーではなくスネアの響きとリズムの切り取り方に注目したい。サンプルの同定は公開データベースによるもので、制作当事者による一次証言とは区別して扱う。",
+        "source": "https://www.whosampled.com/sample/32039/DJ-Shadow-The-Number-Song-Tony-Alvon-%26-the-Belairs-Sexy-Coffee-Pot/",
+        "sourceLabel": "WhoSampled：サンプル関係の投稿記録"
+      },
+      {
+        "heading": "もう一歩：なぜインストゥルメンタルで成立するのか",
+        "text": "DJ Shadowは『Endtroducing.....』で、既存の録音を組み合わせながら、歌詞に頼らない展開を作った。『The Number Song』のカウントや声の断片を、意味より音色・拍・場面転換として聴くと、曲の構造が見えやすくなる。これは資料を踏まえた編集上の聴取提案であり、作者がこの曲についてそう説明したという意味ではない。",
+        "source": "https://djmag.com/longreads/solid-gold-how-dj-shadows-endtroducing-built-perfectly-balanced-sample-universe",
+        "sourceLabel": "DJ Mag：アルバムのサンプル構造に関する評論"
+      }
+    ]
+  },
+  {
+    "artist": "A Tribe Called Quest",
+    "title": "Can I Kick It?",
+    "sections": [
+      {
+        "heading": "元ネタの核心：二重に録音されたベース",
+        "text": "曲の土台となるLou Reed「Walk on the Wild Side」のベースは、Herbie Flowersがアップライトベースとエレクトリックベースを重ねた録音で知られる。低音がゆったり動く一方で、ラップとコール＆レスポンスが軽やかに乗る。まず両曲の冒頭を聴き比べると、引用によって楽曲の印象がどう変わるか分かる。",
+        "source": "https://www.ethanhein.com/wp/2023/can-i-kick-it/",
+        "sourceLabel": "Ethan Hein：音楽理論とサンプリングの分析"
+      },
+      {
+        "heading": "サンプリングと権利の歴史",
+        "text": "この曲はサンプル使用に伴う出版権・印税の交渉でも語られてきた。Phife Dawgはインタビューで、Lou Reed側への権利配分によって自分たちに収益が残らなかったと説明している。契約の全条項を独立に確認できるわけではないため、当事者の証言として読むのが適切だ。",
+        "source": "https://nme-jp.com/news/8955/",
+        "sourceLabel": "NME Japan：Phife Dawgの発言を報道"
+      },
+      {
+        "heading": "聴きどころ：問いかけと余白",
+        "text": "『Can I Kick It?』の魅力は、強く押し出すビートより、問いかけに応える声の掛け合いにある。原曲のベースが作る余白に、仲間同士の会話のようなラップが置かれる。元ネタを知ったあとで聴き直すと、引用が単なる懐古ではなく新しいコミュニケーションに変わる瞬間を味わえる。これは編集上の聴取提案である。",
+        "source": "https://www.ethanhein.com/wp/2023/can-i-kick-it/",
+        "sourceLabel": "Ethan Hein：曲の構成分析"
+      }
+    ]
+  }
+]
