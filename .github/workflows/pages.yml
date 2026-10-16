@@ -93,6 +93,9 @@ jobs:
           gs={t['title'] for t in tracks if t['artist']=='Gang Starr'}
           gs_covered={d['title'] for d in deepdives if d['artist']=='Gang Starr' and len(d['sections'])>=3}
           assert len(gs)==22 and gs==gs_covered, f'Gang Starr editorial coverage mismatch: {gs ^ gs_covered}'
+          shadow={t['title'] for t in tracks if t['artist']=='DJ Shadow'}
+          shadow_covered={d['title'] for d in deepdives if d['artist']=='DJ Shadow' and len(d['sections'])>=3}
+          assert len(shadow)==18 and shadow==shadow_covered, f'DJ Shadow coverage mismatch: {shadow ^ shadow_covered}'
           assert 'dj-shadow-the-number-song' in (root/'tracks.js').read_text()
           print('Generated pages, social cards, URLs and Number Song verified')
           PY
