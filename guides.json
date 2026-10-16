@@ -1,0 +1,51 @@
+[
+  {
+    "id": "first-ten",
+    "title": "まず聴く10曲",
+    "description": "声、ジャズ、ファンク、ビート。異なる入口を10曲で歩く。",
+    "ids": [
+      "can-i-kick-it",
+      "93-til-infinity",
+      "runnin",
+      "resurrection",
+      "mass-appeal",
+      "bucktown",
+      "the-notorious-b-i-g-juicy",
+      "black-sheep-the-choice-is-yours-revisited",
+      "de-la-soul-stakes-is-high",
+      "dj-shadow-midnight-in-a-perfect-world"
+    ]
+  },
+  {
+    "id": "back-to-source",
+    "title": "元ネタから掘る",
+    "description": "楽曲ページのサンプル資料と聴き比べから、レコードの向こうへ。",
+    "ids": [
+      "can-i-kick-it",
+      "runnin",
+      "resurrection",
+      "93-til-infinity",
+      "in-the-house",
+      "what-im-after",
+      "mass-appeal",
+      "props-over-here",
+      "times-up",
+      "put-it-on"
+    ]
+  },
+  {
+    "id": "editors-route",
+    "title": "編者のおすすめ順で聴く",
+    "description": "柔らかな音から声の輪へ、最後はインストゥルメンタルへ。",
+    "ids": [
+      "a-tribe-called-quest-electric-relaxation",
+      "pete-rock-c-l-smooth-take-you-there",
+      "common-i-used-to-love-h-e-r",
+      "main-source-looking-at-the-front-door",
+      "gang-starr-dwyck",
+      "the-beatnuts-off-the-books",
+      "jurassic-5-concrete-schoolyard",
+      "dj-shadow-organ-donor"
+    ]
+  }
+]

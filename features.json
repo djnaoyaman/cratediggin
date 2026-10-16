@@ -20,7 +20,8 @@
             "label": "Rock & Roll Hall of Fame — Beastie Boys",
             "url": "https://rockhall.com/inductees/beastie-boys/"
           }
-        ]
+        ],
+        "connections": "Shadrachのサンプリングと、生演奏を取り入れた時期の作品を同じ棚に置くと、ジャンルを横断する歩みを具体的にたどれる。ここでは似た後続作品を推定するより、作り方が変わっても残る好奇心を聴きたい。"
       },
       "aliases": []
     },
@@ -43,7 +44,8 @@
             "label": "Red Bull Music Academy — Large Professor本人インタビュー",
             "url": "https://daily.redbullmusicacademy.com/2015/02/large-professor-interview/"
           }
-        ]
+        ],
+        "connections": "Live at the BarbequeへのNasの参加と、その後のIllmaticでのLarge Professorとの制作は、作品をまたぐ具体的な接点だ。後の展開を知って聴き直すと、一曲の中に次の時代の入口が見えてくる。"
       },
       "aliases": []
     },
@@ -66,7 +68,8 @@
             "label": "POW — Dres本人への30周年インタビュー",
             "url": "https://www.powmag.net/p/a-wolf-in-sheeps-clothing-black-sheep-30-anniversary-album-interview"
           }
-        ]
+        ],
+        "connections": "The Choice Is Yours (Revisited)の掛け合いとStrobelite Honeyの動きを並べる。Native Tonguesのつながりの中でも、Black Sheep独自の軽さと押しの強さが見えてくる。"
       },
       "aliases": []
     },
@@ -87,10 +90,25 @@
           {
             "label": "Rock & Roll Hall of Fame — A Tribe Called Quest",
             "url": "https://rockhall.com/inductees/a-tribe-called-quest/"
+          },
+          {
+            "label": "Red Bull Music Academy — Q-Tip本人の講義",
+            "url": "https://www.redbullmusicacademy.com/lectures/q-tip/"
+          },
+          {
+            "label": "Red Bull Music Academy — Erykah Badu本人の講義",
+            "url": "https://www.redbullmusicacademy.com/lectures/erykah-badu-frother-of-the-month/"
           }
-        ]
+        ],
+        "connections": "Erykah Baduは講義で、Tribeの録音を担当したBob Powerの耳を、自身の制作で起用した理由として語っている。作品の影響は、似たビートを作ることだけでなく、誰と録音するかという選択にも現れる。"
       },
-      "aliases": []
+      "aliases": [],
+      "productionNames": [
+        "A Tribe Called Quest",
+        "Q-Tip",
+        "The Ummah"
+      ],
+      "identityNote": "A Tribe Called Questの作品と、Q-Tip / The Ummah名義の制作参加曲を同じ入口でたどります。グループ・個人・制作チームは同一名義として扱わず、区分して表示します。"
     },
     {
       "id": "gang-starr",
@@ -111,7 +129,8 @@
             "label": "POW / David Ma — Mass Appeal制作当事者取材",
             "url": "https://www.powmag.net/p/the-making-of-gang-starrs-mass-appeal"
           }
-        ]
+        ],
+        "connections": "この棚ではDJ Premierの制作をNasやJeru the Damajaの曲でもたどれる。Guruとの組み合わせを出発点にすると、声が替わったときのビートの役割を聴き分けやすい。"
       },
       "aliases": []
     },
@@ -133,7 +152,8 @@
             "label": "Rock & Roll Hall of Fame — Public Enemy",
             "url": "https://rockhall.com/inductees/public-enemy/"
           }
-        ]
+        ],
+        "connections": "Shut Em Downの原曲とPete Rockのリミックスは、同じ言葉が別の音の文脈へ移る具体例だ。Public Enemyの声と制作を分けて聴くと、メッセージと音の密度の関係を考えやすい。"
       },
       "aliases": []
     },
@@ -155,7 +175,8 @@
             "label": "XXL — Nas本人インタビュー The Genesis",
             "url": "https://www.xxlmag.com/feature-nas-the-genesis/"
           }
-        ]
+        ],
+        "connections": "The World Is YoursのPete Rockと、N.Y. State of MindやRepresentのDJ Premier。同じMCの言葉を異なる制作の耳が受け止める構成を、収録曲からたどれる。"
       },
       "aliases": []
     },
@@ -177,7 +198,8 @@
             "label": "Ambrosia For Heads — AZ本人インタビュー",
             "url": "https://ambrosiaforheads.com/2026/03/az-on-doe-or-die-ii-the-ghost-of-illmatic-and-the-science-of-his-flow/"
           }
-        ]
+        ],
+        "connections": "Sugar HillからNasとの共演へ。同じ声が甘いトラックと別のMCの隣でどう振る舞うかを、掲載曲から聴き比べられる。影響力の大きさと売上の大きさを同じ尺度で測らないための特集でもある。"
       },
       "aliases": []
     },
@@ -200,7 +222,8 @@
             "label": "Song Exploder — DJ Shadow本人による制作解説",
             "url": "https://songexploder.net/transcripts/dj-shadow-transcript.pdf"
           }
-        ]
+        ],
+        "connections": "Organ Donorの音の切り替えとMidnight in a Perfect Worldの奥行き。後続の作り手を一括りにする前に、同じ制作の耳が生む違いを聴く。元ネタは各曲の資料からたどれる。"
       },
       "aliases": [],
       "identityNote": "UNKLEはDJ Shadowひとりの別名義ではなく共同プロジェクトです。本人名義の作品と、制作参加作品を区別してたどります。"
@@ -233,8 +256,13 @@
           {
             "label": "J Dilla公式 — Biography（別名義の確認）",
             "url": "https://jdilla.com/catalog/biography.html"
+          },
+          {
+            "label": "Red Bull Music Academy — QuestloveによるDillaの影響の証言",
+            "url": "https://www.redbullmusicacademy.com/lectures/questlove-new-york-2013/"
           }
-        ]
+        ],
+        "connections": "Questloveは本人の講義でDillaが自身のドラムに与えた影響を語っている。ビート制作から生演奏へ、時間の捉え方が渡っていく。その具体的な証言は、機械と人間を分けて考えすぎないための手がかりになる。"
       },
       "aliases": [
         "J Dilla",
@@ -259,8 +287,13 @@
           {
             "label": "Pete Rock本人インタビュー — 制作と機材",
             "url": "https://yahdigg.wordpress.com/2008/05/01/exclusive-interview-producer-pete-rock/"
+          },
+          {
+            "label": "Stones Throw — High Fidelity / Dilla・Madlibへの取材",
+            "url": "https://www.stonesthrow.com/news/high-fidelity/"
           }
-        ]
+        ],
+        "connections": "Stones Throw掲載の取材で、DillaはMadlibのSP-1200の扱いに驚き、Pete Rockの仕事を比較の基準に挙げている。世代を越えた制作の耳が、同じ機材の可能性を聴き継いでいる。"
       },
       "aliases": []
     },
@@ -282,31 +315,8 @@
             "label": "The Hip Hop Museum — Erick Sermon本人インタビュー",
             "url": "https://thhm.org/blog/on-the-boards-erick-sermon/"
           }
-        ]
-      },
-      "aliases": []
-    },
-    {
-      "id": "tribe-production",
-      "name": "A Tribe Called Quest / Q-Tip / The Ummah",
-      "type": "producer",
-      "names": [
-        "A Tribe Called Quest",
-        "Q-Tip",
-        "The Ummah"
-      ],
-      "allYears": true,
-      "editorial": {
-        "title": "声を置くための、豊かな余白。",
-        "context": "A Tribe Called Quest、Q-Tip、The Ummahの制作を、掲載済みクレジットからたどる特集。The Ummahのチーム名義をQ-Tipひとりの仕事と同一視せず、個々の曲の表記を保っている。",
-        "legacy": "私がこの制作の流れに感じるのは、余白を積極的に使う音楽の強さだ。音を詰めるより、声と低音の居場所を整える。Tribeが示した聴きやすさと探究心の同居は、後のラップとソウルの関係を考えるうえでも、大きな手がかりになる。",
-        "listening": "グループの曲と外部制作を行き来して、ラップの背景にどんな空間が用意されているかを聴く。目立つ音だけを追わず、声が消えた瞬間にも耳を置く。そこで初めて見える設計がある。",
-        "sources": [
-          {
-            "label": "Rock & Roll Hall of Fame — A Tribe Called Quest",
-            "url": "https://rockhall.com/inductees/a-tribe-called-quest/"
-          }
-        ]
+        ],
+        "connections": "EPMD名義の曲と、掲載しているRedmanやKeith Murrayへの制作を行き来する。提供先の声が変わっても残るファンクの感触をたどると、プロデューサーとしての仕事が見えてくる。"
       },
       "aliases": []
     },
@@ -336,13 +346,68 @@
             "label": "Stones Throw — Jaylib公式紹介",
             "url": "https://www.stonesthrow.com/artist/jaylib/"
           }
-        ]
+        ],
+        "connections": "Quasimoto、Madvillain、Jaylibを通じ、声の加工、MCとの協働、互いのビートへの参加という違う方法を選ぶ。名義を増やすことが、表現の視点を増やすことにもなっている。"
       },
       "aliases": [
         "Madlib",
         "Quasimoto"
       ],
       "identityNote": "同一人物の別名義 Madlib / Quasimoto。Madvillain、Jaylib、Freddie Gibbs & Madlibは共同プロジェクトです。The Redの制作はJ Dillaとして区別しています。"
+    },
+    {
+      "id": "de-la-soul",
+      "name": "De La Soul",
+      "type": "artist",
+      "names": [
+        "De La Soul"
+      ],
+      "allYears": true,
+      "aliases": [],
+      "editorial": {
+        "title": "遊びが、音楽の器を広げる。",
+        "context": "サンプリング、掛け合い、曲の構成に遊びを持ち込んだDe La Soul。Questloveは2005年の講義で彼らのデビュー作を自身の音楽体験の中に位置づけている。",
+        "legacy": "私には、彼らが「ラップの曲はこうあるべき」という器を広げたグループに思える。Saturdaysの賑わいとStakes Is Highの引き締まった足取りは違う。それでも、何を面白がるかという耳の主体性はつながっている。後世への影響を、ひとつの音型より、この選び方の自由に感じる。",
+        "listening": "Breakadawnの柔らかさから、Stakes Is Highの声とビートの距離へ。同じグループの中で、景色がどれだけ変わるか。作品を一列に並べて初めて、その自由の大きさが見えてくる。",
+        "sources": [
+          {
+            "label": "Red Bull Music Academy — Questlove本人の講義",
+            "url": "https://www.redbullmusicacademy.com/lectures/uestlove-phrenology-of-hip-hop/"
+          },
+          {
+            "label": "De La Soul公式 — 作品一覧",
+            "url": "https://store.wearedelasoul.com/collections"
+          }
+        ],
+        "connections": "Questloveが自身の音楽体験として語るDe La Soul。Stakes Is HighではJ Dillaの制作も聴ける。受け継がれるものと、その時々に出会う作り手が、一つのグループの歩みに重なる。"
+      }
+    },
+    {
+      "id": "epmd",
+      "name": "EPMD",
+      "type": "artist",
+      "names": [
+        "EPMD"
+      ],
+      "allYears": true,
+      "aliases": [],
+      "editorial": {
+        "title": "太いループが、曲の態度になる。",
+        "context": "Erick SermonとParrish SmithによるEPMD。Erick SermonはThe Hip Hop Museumの本人取材で、ファンクを基礎にした制作と現在までの仕事を語っている。",
+        "legacy": "私はEPMDを聴くと、グルーヴは装飾ではなく、曲の態度を決めるものだと感じる。音が少なくても、低音と声が落ち着けば、堂々とした空間になる。彼らの仕事を入口にErick Sermonの制作曲へ進むと、同じ太さが違う声をどう受け止めるかも見えてくる。",
+        "listening": "You Gots to ChillとCrossoverを並べる。入りやすい音であっても、二人の声の間合いは急がない。大きな音を鳴らすことと、音楽に貫禄があることは、案外別の話なのだと思う。",
+        "sources": [
+          {
+            "label": "The Hip Hop Museum — Erick Sermon本人インタビュー",
+            "url": "https://thhm.org/blog/on-the-boards-erick-sermon/"
+          },
+          {
+            "label": "The Quietus — EPMD両名への作品取材",
+            "url": "https://thequietus.com/opinion-and-essays/anniversary/epmd-business-never-personal-erick-sermon-parrish-smith-interview/"
+          }
+        ],
+        "connections": "EPMDの棚からErick Sermonの制作特集へ進むと、グループ作品と外部制作を聴き比べられる。名義の違いを保ったまま、誰の耳が曲をつないでいるかを追える。"
+      }
     }
   ]
 }

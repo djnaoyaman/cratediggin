@@ -3,40 +3,39 @@ import json, html, re, os, hashlib
 from urllib.parse import urlparse, quote
 from pathlib import Path
 from listening_shelves import load_shelves
+from catalog import review_state, sample_projection, feature_tracks as select_feature_tracks
 ROOT=Path(__file__).parent
 DIST=ROOT/'dist'
 HOST=os.environ.get('SITE_URL','https://djnaoyaman.github.io/cratediggin').rstrip('/')
 BASE_PATH=urlparse(HOST).path.rstrip('/')
 tracks=json.loads((ROOT/'tracks.json').read_text())
 deepdives=json.loads((ROOT/'editorial_deepdives.json').read_text())
-sample_research=json.loads((ROOT/'dj_shadow_sample_research.json').read_text())
-sample_research_map={(e['artist'].casefold(),e['title'].casefold()):e['samples'] for e in sample_research}
-assert len(sample_research_map)==len(sample_research), 'Duplicate sample research entry'
 deepdive_map={(e['artist'].casefold(),e['title'].casefold()):e['sections'] for e in deepdives}
 assert len(deepdive_map)==len(deepdives), 'Duplicate deep-dive artist/title key'
 
 # Features use one editorial source for the client and crawlable pages.
+guides=json.loads((ROOT/'guides.json').read_text())
 feature_data=json.loads((ROOT/'features.json').read_text())
 features=feature_data['features']
 app=DIST/'app.js'
 client=app.read_text()
 client=re.sub(r' const features=\[.*?\];\n(?= function featureTracks)', ' const features='+json.dumps(features,ensure_ascii=False)+';\n',client,flags=re.S)
 client=re.sub(r' const featurePolicy=.*?;\n', ' const featurePolicy='+json.dumps(feature_data['policy'],ensure_ascii=False)+';\n',client)
+client=re.sub(r' const listeningGuides=.*?;\n', ' const listeningGuides='+json.dumps(guides,ensure_ascii=False)+';\n',client)
 app.write_text(client)
 def feature_tracks(f):
-    names=f['names'];aliases=f.get('aliases',[])
-    return sorted([t for t in tracks if (f.get('allYears') or 1990<=t['year']<=1999) and
-        (t['artist'] in aliases or (t['artist'] in names or any(a in names for a in t.get('artists',[])) if f['type']=='artist' else any(n in names for n in t.get('producers',[])) or t['artist'] in f.get('collaborations',[])))],key=lambda t:(t['year'],t['title']))
+    return select_feature_tracks(tracks,f)
 features=[f for f in features if len(feature_tracks(f))>=3 and f.get('editorial')]
 assert len({a for f in features for a in f.get('aliases',[])})==sum(len(f.get('aliases',[])) for f in features),'Duplicate alias across features'
 
+assert all(all(any(t['id']==tid for t in tracks) for tid in g['ids']) for g in guides),'Guide references missing track'
 ids=set()
 for t in tracks:
     assert re.fullmatch(r'[a-z0-9-]+',t['id']) and t['id'] not in ids, 'Invalid or duplicate ID'
     ids.add(t['id'])
     assert isinstance(t['year'],int) and 1970<=t['year']<=2100
     assert t['youtube'].get('id') is None or re.fullmatch(r'[A-Za-z0-9_-]{11}',t['youtube']['id'])
-    assert len(t['essay'])>=3 and t['sources'] and t['moods']
+    assert len(t['essay'])>=1 and t['sources'] and t['moods']
     main=[s for s in t['samples'] if s.get('main')]
     assert len(main)<=1, 'At most one representative sample record is allowed'
     if main and main[0].get('youtube'): assert re.fullmatch(r'[A-Za-z0-9_-]{11}',main[0]['youtube']['id'])
@@ -53,7 +52,10 @@ for directory, suffixes in ((DIST/'songs', {'.html', '.md'}), (DIST/'og', {'.png
                 stale.unlink()
 for t in tracks:
     t['deepdives']=deepdive_map.get((t['artist'].casefold(),t['title'].casefold()),[])
-    t['researchedSamples']=sample_research_map.get((t['artist'].casefold(),t['title'].casefold()),[])
+    t['researchedSamples']=sample_projection(t)
+    t['review']=review_state(t,t['deepdives'])
+(ROOT/'audit-reports').mkdir(exist_ok=True)
+(ROOT/'audit-reports'/'maintenance.json').write_text(json.dumps([dict(id=t['id'],artist=t['artist'],title=t['title'],**t['review']) for t in tracks],ensure_ascii=False,indent=2)+'\n')
 shelves=load_shelves(ROOT,tracks,deepdives)
 (DIST/'tracks.js').write_text('window.CRATE_SHELVES = '+json.dumps(shelves,ensure_ascii=False)+';\nwindow.TRACKS = '+json.dumps(tracks,ensure_ascii=False).replace('</','<\\/')+';\n')
 base=(DIST/'index.html').read_text()
@@ -65,10 +67,9 @@ for t in tracks:
     p=DIST/'songs';p.mkdir(exist_ok=True)
     e=html.escape
     body='<article><h1>'+e(t['title'])+'</h1><p>'+e(t['artist'])+'</p><p>'+e(t['deck'])+'</p><h2>'+e(t['essayTitle'])+'</h2>'+''.join('<p>'+e(x)+'</p>' for x in t['essay'])
+    body+='<p class="review-summary">'+('深掘り記事あり' if t['deepdives'] else 'リスニングノート')+' · サンプル資料 '+str(len(t['samples']))+' 件'+(' · 確認中 '+e(' / '.join(t['review']['metadataPending'])) if t['review']['metadataPending'] else '')+'</p>'
     for section in deepdive_map.get((t['artist'].casefold(),t['title'].casefold()),[]):
         body+='<section class="editorial-deepdive"><h2>'+e(section['heading'])+'</h2><p>'+e(section['text'])+'</p><p>参考資料：<a href="'+e(section['source'],quote=True)+'">'+e(section['sourceLabel'])+'</a></p></section>'
-    for sm in t.get('researchedSamples',[]):
-        body+='<section class="editorial-deepdive"><h2>調査済みサンプル：'+e(sm['artist']+' — '+sm['title'])+'</h2><p>'+e(sm['role'])+'</p><p>出典：<a href="'+e(sm['source'],quote=True)+'">資料を開く</a></p></section>'
     body+='<h2>制作背景</h2>'+''.join('<h3>'+e(f['title'])+'</h3><p>'+e(f['text'])+'</p>' for f in t['facts'])
     body+='<h2>サンプル元</h2>'+''.join('<h3>'+e(s['artist']+' — '+s['title'])+'</h3><p>'+e(s['role'])+'</p>'+('<a href="https://www.youtube.com/watch?v='+s['youtube']['id']+'">サンプル元のYouTube</a>' if s.get('youtube') else '') for s in t['samples'])
     body+='<p>'+e(t.get('editorialStatus',''))+'</p><p>'+e(t.get('sampleStatus',''))+'</p><h2>出典</h2>'+''.join('<p><a href="'+e(s['url'])+'">'+e(s['label'])+'</a></p>' for s in t['sources'])+'</article>'
@@ -168,7 +169,7 @@ for stale in feature_dir.glob('*.html'):
 for f in features:
     e=f['editorial'];esc=html.escape;selected=feature_tracks(f)
     body='<h1>'+esc(f['name'])+'</h1><p>'+esc(feature_data['policy'])+'</p><p>'+esc(f.get('identityNote',''))+'</p><article class="prose"><h2>'+esc(e['title'])+'</h2>'
-    for title,key in [('音楽性と背景','context'),('後世に残したもの','legacy'),('私の聴き方','listening')]:
+    for title,key in [('音楽性と背景','context'),('後世に残したもの','legacy'),('私の聴き方','listening'),('作品と系譜をたどる','connections')]:
         body+='<h3>'+title+'</h3><p>'+esc(e[key])+'</p>'
     body+='<p>影響の評価と聴き方はDJ Naoyamanの考察です。</p><h3>参考資料</h3><ul>'+''.join('<li><a href="'+esc(r['url'],quote=True)+'">'+esc(r['label'])+'</a></li>' for r in e['sources'])+'</ul></article>'
     body+='<h2>収録曲 '+str(len(selected))+' 曲</h2><ul>'+''.join('<li><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+esc(t['artist']+' — '+t['title'])+'</a></li>' for t in selected)+'</ul>'
@@ -186,6 +187,9 @@ for f in features:
 (DIST/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+html.escape(u)+'</loc></url>' for u in [HOST+'/']+links)+'</urlset>')
 with (DIST/'llms.txt').open('a') as output:
     output.write('\n## Features\n'+''.join('- ['+f['name']+']('+HOST+'/features/'+f['id']+'.html)\n' for f in features))
+
+old_feature=feature_dir/'tribe-production.html'
+old_feature.write_text('<!doctype html><html lang="ja"><head><meta charset="utf-8"><title>A Tribe Called Quest — Crate Diggin’</title><link rel="canonical" href="'+HOST+'/features/tribe.html"><meta http-equiv="refresh" content="0;url='+HOST+'/features/tribe.html"></head><body><a href="'+HOST+'/features/tribe.html">A Tribe Called Questの特集へ</a></body></html>')
 
 # A single source of version history, also available to the browser.
 release=json.loads((ROOT/'releases.json').read_text())

@@ -58,6 +58,7 @@ jobs:
           node scripts/verify_listening_shelves.js
           node scripts/verify_producer_features.js
           node scripts/verify_feature_editorials.js
+          node scripts/verify_catalog_views.js
           python scripts/verify_kiyo_import.py
           python -m py_compile scripts/audit_catalog.py build.py
           python - <<'PY'
@@ -101,7 +102,7 @@ jobs:
           research=json.loads(Path('dj_shadow_sample_research.json').read_text())
           assert len(research)>=6 and sum(len(x['samples']) for x in research)>=13
           js=(Path('dist')/'tracks.js').read_text()
-          assert 'researchedSamples' in js and 'SAMPLE RESEARCH' in (Path('dist')/'app.js').read_text()
+          assert 'researchedSamples' in js and all(any(s.get('research') for s in t['samples']) for t in tracks if t['artist']=='DJ Shadow' and t['title'] in {e['title'] for e in research})
           assert 'dj-shadow-the-number-song' in (root/'tracks.js').read_text()
           print('Generated pages, social cards, URLs and Number Song verified')
           PY

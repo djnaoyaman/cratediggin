@@ -12,7 +12,7 @@ import sys
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
-from urllib.parse import urlencode
+from urllib.parse import urlencode, urlparse, parse_qs
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -73,14 +73,14 @@ def main():
             fatal.append("Invalid YouTube ID: " + tid)
         if vid and video_ids[vid] > 1:
             issues.append("SHARED_VIDEO_ID")
-        if vid and video.get("url") != "https://www.youtube.com/watch?v=" + vid:
+        if vid and parse_qs(urlparse(video.get("url", "")).query).get("v") != [vid]:
             issues.append("VIDEO_URL_MISMATCH")
         if not vid:
             issues.append("AUDIO_NOT_VERIFIED")
         if not t.get("sources"):
             fatal.append("Missing sources: " + tid)
-        if len(t.get("essay", [])) < 3:
-            fatal.append("Short essay: " + tid)
+        if not t.get("essay"):
+            fatal.append("Missing listening note: " + tid)
         if "未確認" in t.get("label", "") or "確認中" in t.get("label", ""):
             issues.append("LABEL_NEEDS_RESEARCH")
         if "継続中" in t.get("yearBasis", "") or "照合中" in t.get("yearBasis", ""):

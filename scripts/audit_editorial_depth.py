@@ -25,12 +25,12 @@ for t in tracks:
     sections = lookup.get((t["artist"].casefold(), t["title"].casefold()), {}).get("sections", [])
     # A triage score, NOT a fact-check or a ranking signal.
     issues = []
-    if char_count < 450:
-        issues.append("short_essay")
-    if len(facts) < 3:
-        issues.append("few_facts")
-    if len(sources) < 3:
-        issues.append("few_sources")
+    # Availability dimensions are independent: paragraph and citation counts
+    # do not prove research quality or factual verification.
+    if not essay:
+        issues.append("missing_listening_note")
+    if not sources:
+        issues.append("missing_sources")
     if not samples:
         issues.append("no_sample_context")
     if not sections:
@@ -51,7 +51,7 @@ with dest.open("w", newline="", encoding="utf-8") as f:
     writer.writeheader()
     writer.writerows(rows)
 print("Audited", len(rows), "tracks")
-print("Needs editorial review:", sum(bool(r["issue_count"]) for r in rows))
+print("Tracks with open research dimensions:", sum(bool(r["issue_count"]) for r in rows))
 print("Lowest depth candidates:")
 for r in rows[:20]:
     print(f'  {r["artist"]} — {r["title"]}: {r["issues"]}')

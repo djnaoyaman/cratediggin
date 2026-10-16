@@ -1,0 +1,230 @@
+[
+  {
+    "artist": "A Tribe Called Quest",
+    "catalogTracks": 15,
+    "status": "selected",
+    "reason": "独立特集の解説と資料を掲載"
+  },
+  {
+    "artist": "Pete Rock & C.L. Smooth",
+    "catalogTracks": 9,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "Lords of the Underground",
+    "catalogTracks": 3,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "Smif-N-Wessun",
+    "catalogTracks": 3,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "The Pharcyde",
+    "catalogTracks": 5,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "Common",
+    "catalogTracks": 5,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "Gang Starr",
+    "catalogTracks": 22,
+    "status": "selected",
+    "reason": "独立特集の解説と資料を掲載"
+  },
+  {
+    "artist": "The Beatnuts",
+    "catalogTracks": 5,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "O.C.",
+    "catalogTracks": 4,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "Showbiz & A.G.",
+    "catalogTracks": 5,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "Black Moon",
+    "catalogTracks": 4,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "Jeru the Damaja",
+    "catalogTracks": 3,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "Public Enemy",
+    "catalogTracks": 7,
+    "status": "selected",
+    "reason": "独立特集の解説と資料を掲載"
+  },
+  {
+    "artist": "Nas",
+    "catalogTracks": 5,
+    "status": "selected",
+    "reason": "独立特集の解説と資料を掲載"
+  },
+  {
+    "artist": "Main Source",
+    "catalogTracks": 6,
+    "status": "selected",
+    "reason": "独立特集の解説と資料を掲載"
+  },
+  {
+    "artist": "The Notorious B.I.G.",
+    "catalogTracks": 4,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "Mobb Deep",
+    "catalogTracks": 3,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "De La Soul",
+    "catalogTracks": 8,
+    "status": "selected",
+    "reason": "独立特集の解説と資料を掲載"
+  },
+  {
+    "artist": "Black Sheep",
+    "catalogTracks": 7,
+    "status": "selected",
+    "reason": "独立特集の解説と資料を掲載"
+  },
+  {
+    "artist": "Brand Nubian",
+    "catalogTracks": 5,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "Grand Puba",
+    "catalogTracks": 3,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "The Roots",
+    "catalogTracks": 5,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "KRS-One",
+    "catalogTracks": 5,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "EPMD",
+    "catalogTracks": 8,
+    "status": "selected",
+    "reason": "独立特集の解説と資料を掲載"
+  },
+  {
+    "artist": "Das EFX",
+    "catalogTracks": 3,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "Redman",
+    "catalogTracks": 4,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "Jungle Brothers",
+    "catalogTracks": 3,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "LL Cool J",
+    "catalogTracks": 4,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "Camp Lo",
+    "catalogTracks": 3,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "Jurassic 5",
+    "catalogTracks": 3,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "DJ Shadow",
+    "catalogTracks": 18,
+    "status": "selected",
+    "reason": "独立特集の解説と資料を掲載"
+  },
+  {
+    "artist": "J Dilla",
+    "catalogTracks": 5,
+    "status": "selected",
+    "reason": "独立特集の解説と資料を掲載"
+  },
+  {
+    "artist": "Slum Village",
+    "catalogTracks": 3,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "Beastie Boys",
+    "catalogTracks": 9,
+    "status": "selected",
+    "reason": "独立特集の解説と資料を掲載"
+  },
+  {
+    "artist": "Cypress Hill",
+    "catalogTracks": 4,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  },
+  {
+    "artist": "Erick Sermon",
+    "catalogTracks": 6,
+    "status": "selected",
+    "reason": "独立特集の解説と資料を掲載"
+  },
+  {
+    "artist": "AZ",
+    "catalogTracks": 3,
+    "status": "selected",
+    "reason": "独立特集の解説と資料を掲載"
+  },
+  {
+    "artist": "Madvillain",
+    "catalogTracks": 4,
+    "status": "candidate",
+    "reason": "独立特集の構成・影響の裏付け資料を追加検討。曲数だけでは自動選出しない。"
+  }
+]
