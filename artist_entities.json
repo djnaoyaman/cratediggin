@@ -1,0 +1,455 @@
+{
+  "3rd Bass": {
+    "type": "MusicGroup"
+  },
+  "A Tribe Called Quest": {
+    "type": "MusicGroup"
+  },
+  "AZ": {
+    "type": "Person"
+  },
+  "Akinyele": {
+    "type": "Person"
+  },
+  "All City Productions": {
+    "type": null
+  },
+  "Artifacts": {
+    "type": "MusicGroup"
+  },
+  "Beastie Boys": {
+    "type": "MusicGroup"
+  },
+  "Big Daddy Kane": {
+    "type": "Person"
+  },
+  "Big L": {
+    "type": "Person"
+  },
+  "Big Noyd": {
+    "type": "Person"
+  },
+  "Biz Markie": {
+    "type": "Person"
+  },
+  "Black Maddness": {
+    "type": null
+  },
+  "Black Moon": {
+    "type": "MusicGroup"
+  },
+  "Black Sheep": {
+    "type": "MusicGroup"
+  },
+  "Black Star": {
+    "type": "MusicGroup"
+  },
+  "Boogie Down Productions": {
+    "type": "MusicGroup"
+  },
+  "Boogiemonsters": {
+    "type": "MusicGroup"
+  },
+  "Brand Nubian": {
+    "type": "MusicGroup"
+  },
+  "Bush Babees feat. Mos Def": {
+    "type": null
+  },
+  "Camp Lo": {
+    "type": "MusicGroup"
+  },
+  "Champ MC": {
+    "type": "Person"
+  },
+  "Channel Live": {
+    "type": "MusicGroup"
+  },
+  "Chubb Rock": {
+    "type": "Person"
+  },
+  "Common": {
+    "type": "Person"
+  },
+  "Craig Mack": {
+    "type": "Person"
+  },
+  "Cypress Hill": {
+    "type": "MusicGroup"
+  },
+  "DJ Bombjack": {
+    "type": "Person"
+  },
+  "DJ Jazzy Jeff & The Fresh Prince": {
+    "type": "MusicGroup"
+  },
+  "DJ Krush": {
+    "type": "Person"
+  },
+  "DJ Shadow": {
+    "type": "Person"
+  },
+  "Da Bush Babees": {
+    "type": "MusicGroup"
+  },
+  "Da King & I": {
+    "type": "MusicGroup"
+  },
+  "Da Youngsta's": {
+    "type": "MusicGroup"
+  },
+  "Das EFX": {
+    "type": "MusicGroup"
+  },
+  "De La Soul": {
+    "type": "MusicGroup"
+  },
+  "Dead Poetz Society": {
+    "type": null
+  },
+  "Diamond & The Psychotic Neurotics": {
+    "type": "MusicGroup"
+  },
+  "Diamond D": {
+    "type": "Person"
+  },
+  "Digable Planets": {
+    "type": "MusicGroup"
+  },
+  "Dilated Peoples": {
+    "type": "MusicGroup"
+  },
+  "Double XX Posse": {
+    "type": "MusicGroup"
+  },
+  "Doug E. Fresh": {
+    "type": "Person"
+  },
+  "Dred Scott": {
+    "type": "Person"
+  },
+  "D’Angelo feat. Redman": {
+    "type": null
+  },
+  "EPMD": {
+    "type": "MusicGroup"
+  },
+  "Ed O.G": {
+    "type": "Person"
+  },
+  "Eric B. & Rakim": {
+    "type": "MusicGroup"
+  },
+  "Erick Sermon": {
+    "type": "Person"
+  },
+  "Erick Sermon & Keith Murray": {
+    "type": null
+  },
+  "Erick Sermon & Questionmark Asylum": {
+    "type": null
+  },
+  "Erick Sermon feat. DJ Quik & Xzibit": {
+    "type": null
+  },
+  "Erick Sermon feat. Duo": {
+    "type": null
+  },
+  "Erick Sermon feat. Passion": {
+    "type": null
+  },
+  "Erick Sermon feat. Sean Paul & Sy Scott": {
+    "type": null
+  },
+  "Erick Sermon feat. Shadz of Lingo": {
+    "type": null
+  },
+  "Erick Sermon feat. The Wixtons": {
+    "type": null
+  },
+  "Erick Sermon, Nature & Keith Murray": {
+    "type": null
+  },
+  "Erykah Badu": {
+    "type": "Person"
+  },
+  "Fat Joe": {
+    "type": "Person"
+  },
+  "Freddie Gibbs & Madlib": {
+    "type": "MusicGroup"
+  },
+  "Fugees": {
+    "type": "MusicGroup"
+  },
+  "GZA": {
+    "type": "Person"
+  },
+  "Gang Starr": {
+    "type": "MusicGroup"
+  },
+  "Grand Puba": {
+    "type": "Person"
+  },
+  "Group Home": {
+    "type": "MusicGroup"
+  },
+  "Group Therapy feat. Dr. Dre": {
+    "type": null
+  },
+  "Heltah Skeltah": {
+    "type": "MusicGroup"
+  },
+  "InI feat. Pete Rock": {
+    "type": null
+  },
+  "Intelligent Hoodlum": {
+    "type": "Person"
+  },
+  "J Dilla": {
+    "type": "Person"
+  },
+  "J-Live": {
+    "type": "Person"
+  },
+  "Janet Jackson": {
+    "type": "Person"
+  },
+  "Jaylib": {
+    "type": "MusicGroup"
+  },
+  "Jeru the Damaja": {
+    "type": "Person"
+  },
+  "Jungle Brothers": {
+    "type": "MusicGroup"
+  },
+  "Jurassic 5": {
+    "type": "MusicGroup"
+  },
+  "K-Solo": {
+    "type": "Person"
+  },
+  "KRS-One": {
+    "type": "Person"
+  },
+  "KRS-One feat. Busta Rhymes": {
+    "type": null
+  },
+  "Kanye West": {
+    "type": "Person"
+  },
+  "Keith Murray": {
+    "type": "Person"
+  },
+  "Kirk": {
+    "type": null
+  },
+  "Kool G Rap": {
+    "type": "Person"
+  },
+  "Kool G Rap & DJ Polo": {
+    "type": "MusicGroup"
+  },
+  "LL Cool J": {
+    "type": "Person"
+  },
+  "LL Cool J feat. Boyz II Men": {
+    "type": null
+  },
+  "Large Professor": {
+    "type": "Person"
+  },
+  "Lauryn Hill": {
+    "type": "Person"
+  },
+  "Leaders of the New School": {
+    "type": "MusicGroup"
+  },
+  "Lootpack": {
+    "type": "MusicGroup"
+  },
+  "Lord Finesse": {
+    "type": "Person"
+  },
+  "Lord Finesse & DJ Mike Smooth": {
+    "type": "MusicGroup"
+  },
+  "Lords of the Underground": {
+    "type": "MusicGroup"
+  },
+  "M.O.P.": {
+    "type": "MusicGroup"
+  },
+  "MC Lyte": {
+    "type": "Person"
+  },
+  "MF DOOM": {
+    "type": "Person"
+  },
+  "Madlib": {
+    "type": "Person"
+  },
+  "Madvillain": {
+    "type": "MusicGroup"
+  },
+  "Main Source": {
+    "type": "MusicGroup"
+  },
+  "Mesanjarz of Funk": {
+    "type": null
+  },
+  "Method Man & Redman": {
+    "type": "MusicGroup"
+  },
+  "Mic Geronimo": {
+    "type": "Person"
+  },
+  "Mobb Deep": {
+    "type": "MusicGroup"
+  },
+  "Monie Love": {
+    "type": "Person"
+  },
+  "Mos Def": {
+    "type": "Person"
+  },
+  "N.W.A.": {
+    "type": "MusicGroup"
+  },
+  "Nas": {
+    "type": "Person"
+  },
+  "Nas feat. AZ & Olu Dara": {
+    "type": null
+  },
+  "Naughty by Nature": {
+    "type": "MusicGroup"
+  },
+  "Neneh Cherry": {
+    "type": "Person"
+  },
+  "Nice & Smooth": {
+    "type": "MusicGroup"
+  },
+  "Nine": {
+    "type": "Person"
+  },
+  "Nujabes": {
+    "type": "Person"
+  },
+  "O.C.": {
+    "type": "Person"
+  },
+  "O.C. & Organized Konfusion": {
+    "type": null
+  },
+  "O.G.C.": {
+    "type": "MusicGroup"
+  },
+  "Ol' Dirty Bastard": {
+    "type": "Person"
+  },
+  "Original Flavor": {
+    "type": "MusicGroup"
+  },
+  "Original Flavor feat. Jay-Z": {
+    "type": null
+  },
+  "Pete Rock & C.L. Smooth": {
+    "type": "MusicGroup"
+  },
+  "Pharoahe Monch": {
+    "type": "Person"
+  },
+  "Poor Righteous Teachers": {
+    "type": "MusicGroup"
+  },
+  "Public Enemy": {
+    "type": "MusicGroup"
+  },
+  "Quasimoto": {
+    "type": "Person"
+  },
+  "Queen Latifah": {
+    "type": "Person"
+  },
+  "Raekwon": {
+    "type": "Person"
+  },
+  "Rakim": {
+    "type": "Person"
+  },
+  "Redman": {
+    "type": "Person"
+  },
+  "Royal Flush": {
+    "type": "Person"
+  },
+  "Sadat X": {
+    "type": "Person"
+  },
+  "Showbiz & A.G.": {
+    "type": "MusicGroup"
+  },
+  "Slick Rick": {
+    "type": "Person"
+  },
+  "Slum Village": {
+    "type": "MusicGroup"
+  },
+  "Smif-N-Wessun": {
+    "type": "MusicGroup"
+  },
+  "Souls of Mischief": {
+    "type": "MusicGroup"
+  },
+  "Super Lover Cee & Casanova Rud": {
+    "type": "MusicGroup"
+  },
+  "The Beatnuts": {
+    "type": "MusicGroup"
+  },
+  "The Legion": {
+    "type": "MusicGroup"
+  },
+  "The Notorious B.I.G.": {
+    "type": "Person"
+  },
+  "The Pharcyde": {
+    "type": "MusicGroup"
+  },
+  "The Roots": {
+    "type": "MusicGroup"
+  },
+  "The Troubleneck Brothers": {
+    "type": null
+  },
+  "The UMC's": {
+    "type": "MusicGroup"
+  },
+  "Tim Dog": {
+    "type": "Person"
+  },
+  "Trends of Culture": {
+    "type": "MusicGroup"
+  },
+  "UNKLE": {
+    "type": "MusicGroup"
+  },
+  "US3": {
+    "type": "MusicGroup"
+  },
+  "Ugly Duckling": {
+    "type": "MusicGroup"
+  },
+  "Wu-Tang Clan": {
+    "type": "MusicGroup"
+  },
+  "Yaggfu Front": {
+    "type": "MusicGroup"
+  },
+  "Zhigge": {
+    "type": "MusicGroup"
+  }
+}

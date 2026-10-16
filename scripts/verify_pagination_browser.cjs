@@ -8,7 +8,8 @@ const {chromium} = require('playwright');
 (async () => {
  const root = path.resolve('dist');
  const server = http.createServer((req, res) => {
-  const relative = decodeURIComponent(req.url.split('?')[0]).replace(/^\/cratediggin\/?/, '') || 'index.html';
+  let relative = decodeURIComponent(req.url.split('?')[0]).replace(/^\/cratediggin\/?/, '') || 'index.html';
+  if(relative.endsWith('/'))relative+='index.html';
   const file = path.resolve(root, relative);
   if (!file.startsWith(root + path.sep)) {res.writeHead(403).end(); return;}
   try {
@@ -25,6 +26,7 @@ const {chromium} = require('playwright');
    const page = await browser.newPage({viewport:{width, height:900}}), errors = [];
    page.on('pageerror', e => errors.push(e.message));
    await page.route('https://www.youtube.com/**', r => r.abort());
+   await page.route('https://www.googletagmanager.com/**', r => r.abort());
    await page.goto(base + '/#/songs');
    await page.waitForSelector('.record-row');
    const ids = () => page.locator('#results .record-card').evaluateAll(xs => xs.map(x => x.getAttribute('href')));

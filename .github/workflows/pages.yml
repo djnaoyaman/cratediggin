@@ -18,6 +18,8 @@ jobs:
       contents: read
     steps:
       - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -57,6 +59,8 @@ jobs:
       - name: Audit catalog metadata and link integrity
         run: |
           python scripts/audit_catalog.py
+          python scripts/verify_discovery.py
+          python scripts/test_revision_dates.py
           node scripts/verify_listening_shelves.js
           node scripts/verify_producer_features.js
           node scripts/verify_feature_editorials.js
@@ -68,7 +72,8 @@ jobs:
           import json
           root = Path('dist')
           data = json.loads(Path('tracks.json').read_text(encoding='utf-8'))
-          assert len(list((root/'songs').glob('*.html'))) == len(data), 'Generated HTML page count mismatch'
+          assert {p.stem for p in (root/'songs').glob('*.html') if p.name!='index.html'} == {t['id'] for t in data}, 'Generated song HTML IDs mismatch'
+          assert (root/'songs'/'index.html').exists(), 'Static song index missing'
           assert len(list((root/'songs').glob('*.md'))) == len(data), 'Generated Markdown page count mismatch'
           assert len(list((root/'og').glob('*.png'))) == len(data), 'Generated social image count mismatch'
           html = (root/'index.html').read_text(encoding='utf-8')
@@ -79,7 +84,7 @@ jobs:
           assert 'href="/cratediggin/apple-touch-icon-vinyl.png?v=original-20261016"' in html, 'Vinyl touch icon URL missing'
           assert html.count('rel="apple-touch-icon"') == 1, 'Duplicate Apple touch icon tags'
           assert (root/'apple-touch-icon-vinyl.png').exists(), 'Vinyl touch icon not generated'
-          artist_pages = list((root/'artists').glob('*.html'))
+          artist_pages = [p for p in (root/'artists').glob('*.html') if p.name!='index.html']
           assert artist_pages, 'No crawlable artist pages generated'
           sitemap = (root/'sitemap.xml').read_text(encoding='utf-8')
           assert all('/artists/'+p.name in sitemap for p in artist_pages), 'Artist page missing from sitemap'
@@ -119,6 +124,7 @@ jobs:
           trap 'kill "$server"' EXIT
           node scripts/verify_listening_shelves_browser.js
           node scripts/verify_pagination_browser.cjs
+          node scripts/verify_discovery_browser.cjs
       - name: Save browser screenshots
         if: always()
         uses: actions/upload-artifact@v4
