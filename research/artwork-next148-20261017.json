@@ -1,0 +1,352 @@
+{
+  "state": "reviewed-candidate-pending-ci-and-deployment",
+  "createdAt": "2026-10-17",
+  "baselineCommit": "0ef7e63f1c3ee046c58153af3d6af8850fba13e3",
+  "publishedTransparentBaseline": 247,
+  "candidateTransparent": 263,
+  "catalogTotal": 381,
+  "remainingAfterCandidate": 118,
+  "paletteBasis": "Official licensed digital or artist-site covers visually inspected; editorial color approximations, not sampled measurements.",
+  "assets": [
+    {
+      "id": "dj-shadow-the-number-song-cut-chemist-remix",
+      "title": "The Number Song (Cut Chemist Remix)",
+      "artist": "DJ Shadow",
+      "palette": [
+        "#1996b8",
+        "#31436c",
+        "#c3ddd8"
+      ],
+      "paletteSource": "The Number Song (Cut Chemist Remix)",
+      "coverUrl": "https://djshadow.com/products/dj-shadow-the-number-song-cut-chemist-remix-7-vinyl",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"THE NUMBER SONG (CUT CHEMIST REMIX)\" and exact artist \"DJ SHADOW\". Include every word, subtitle and remix qualifier; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #1996b8, #31436c, #c3ddd8 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/dj-shadow-the-number-song-cut-chemist-remix-alpha.webp",
+      "bytes": 514674,
+      "blobSha": "bdfcb23528fbe53a8428dad4e8093774c5817e26",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "dj-shadow-scale-it-back",
+      "title": "Scale It Back",
+      "artist": "DJ Shadow",
+      "palette": [
+        "#243d57",
+        "#d4ba97",
+        "#b64047",
+        "#725269"
+      ],
+      "paletteSource": "The Less You Know, The Better",
+      "coverUrl": "https://music.apple.com/us/album/the-less-you-know-the-better/1660656585?uo=4",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"SCALE IT BACK\" and exact artist \"DJ SHADOW\". Include every word, subtitle and remix qualifier; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #243d57, #d4ba97, #b64047, #725269 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/dj-shadow-scale-it-back-alpha.webp",
+      "bytes": 479700,
+      "blobSha": "3f727c1a293a22f9b116ea10dfb86bb8a9763edf",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "dj-shadow-rocket-fuel",
+      "title": "Rocket Fuel",
+      "artist": "DJ Shadow",
+      "palette": [
+        "#e52925",
+        "#f1d02b",
+        "#a8a8a8"
+      ],
+      "paletteSource": "Our Pathetic Age",
+      "coverUrl": "https://music.apple.com/us/album/our-pathetic-age/1572533595",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"ROCKET FUEL\" and exact artist \"DJ SHADOW\". Include every word, subtitle and remix qualifier; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #e52925, #f1d02b, #a8a8a8 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/dj-shadow-rocket-fuel-alpha.webp",
+      "bytes": 522576,
+      "blobSha": "419b8a0611edfd44d8bf153a70aac67dca7d4048",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "dj-shadow-ozone-scraper",
+      "title": "Ozone Scraper",
+      "artist": "DJ Shadow",
+      "palette": [
+        "#cd791f",
+        "#c53726",
+        "#34585c"
+      ],
+      "paletteSource": "Action Adventure",
+      "coverUrl": "https://music.apple.com/us/album/action-adventure/1702336934?uo=4",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"OZONE SCRAPER\" and exact artist \"DJ SHADOW\". Include every word, subtitle and remix qualifier; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #cd791f, #c53726, #34585c plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/dj-shadow-ozone-scraper-alpha.webp",
+      "bytes": 483236,
+      "blobSha": "99141975496ddaad887b21f4443c0f3a7a8f5350",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "j-dilla-workinonit",
+      "title": "Workinonit",
+      "artist": "J Dilla",
+      "palette": [
+        "#4b2325",
+        "#ad8964",
+        "#e2dec5"
+      ],
+      "paletteSource": "Donuts",
+      "coverUrl": "https://music.apple.com/us/album/donuts/108233171?uo=4",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"WORKINONIT\" and exact artist \"J DILLA\". Include every word and punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #4b2325, #ad8964, #e2dec5 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/j-dilla-workinonit-alpha.webp",
+      "bytes": 462862,
+      "blobSha": "d59c815c11df1c1009310a567627f9ccfd27d702",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "slum-village-players",
+      "title": "Players",
+      "artist": "Slum Village",
+      "palette": [
+        "#b09b86",
+        "#564b41",
+        "#959994"
+      ],
+      "paletteSource": "Fantastic, Vol. 2",
+      "coverUrl": "https://trafficent.com/wp-content/uploads/2016/07/NMG-5763-SLUM-VILLAGE-Fantastic-Vol-2-LP.pdf",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"PLAYERS\" and exact artist \"SLUM VILLAGE\". Include every word and punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #b09b86, #564b41, #959994 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Ne’Astra reissue NMG-5763-LP, 2016 sell sheet",
+      "image": "assets/graffiti/slum-village-players-alpha.webp",
+      "bytes": 553024,
+      "blobSha": "9447bb8e706b371eef6677a32267e35280b7d768",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "slum-village-get-dis-money",
+      "title": "Get Dis Money",
+      "artist": "Slum Village",
+      "palette": [
+        "#b09b86",
+        "#564b41",
+        "#959994"
+      ],
+      "paletteSource": "Office Space / Fantastic, Vol. 2",
+      "coverUrl": "https://trafficent.com/wp-content/uploads/2016/07/NMG-5763-SLUM-VILLAGE-Fantastic-Vol-2-LP.pdf",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"GET DIS MONEY\" and exact artist \"SLUM VILLAGE\". Include every word and punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #b09b86, #564b41, #959994 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Ne’Astra reissue NMG-5763-LP, 2016 sell sheet",
+      "image": "assets/graffiti/slum-village-get-dis-money-alpha.webp",
+      "bytes": 455580,
+      "blobSha": "e71508a760b7846420613bd3efc1acb16d55a814",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "dj-shadow-in-flux",
+      "title": "In/Flux",
+      "artist": "DJ Shadow",
+      "palette": [
+        "#ad7b60",
+        "#d6404e",
+        "#e8e5df"
+      ],
+      "paletteSource": "Preemptive Strike",
+      "coverUrl": "https://music.apple.com/us/album/preemptive-strike/1660563908",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"IN/FLUX\" and exact artist \"DJ SHADOW\". Include every word and punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #ad7b60, #d6404e, #e8e5df plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/dj-shadow-in-flux-alpha.webp",
+      "bytes": 551214,
+      "blobSha": "e9d91e5abe109776c1617f74698815098c3a8da2",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "jurassic-5-jayou",
+      "title": "Jayou",
+      "artist": "Jurassic 5",
+      "palette": [
+        "#33558a",
+        "#d6c82e",
+        "#c83629",
+        "#5d8c47"
+      ],
+      "paletteSource": "Lyricist Lounge Vol. 1",
+      "coverUrl": "https://www.qobuz.com/us-en/album/lyricist-lounge-vol-1-various-artists/0000881129032",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"JAYOU\" and exact artist \"JURASSIC 5\". Include every word and punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #33558a, #d6c82e, #c83629, #5d8c47 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Rawkus licensed Qobuz digital presentation, 2002 listing.",
+      "image": "assets/graffiti/jurassic-5-jayou-alpha.webp",
+      "bytes": 559662,
+      "blobSha": "35b1ae6701fb4c3bc90c69222c5c193a2ecfac86",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "erick-sermon-maintain",
+      "title": "Maintain",
+      "artist": "Erick Sermon",
+      "palette": [
+        "#d3ba32",
+        "#bb3029",
+        "#64547b",
+        "#aaa17b"
+      ],
+      "paletteSource": "Dont Be A Menace",
+      "coverUrl": "https://www.qobuz.com/dk-en/album/dont-be-a-menace-to-south-central-while-drinking-your-juice-in-the-hood-multi-interpretes/0060254728690",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"MAINTAIN\" and exact artist \"ERICK SERMON\". Include every word and punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #d3ba32, #bb3029, #64547b, #aaa17b plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Island Def Jam soundtrack digital presentation.",
+      "image": "assets/graffiti/erick-sermon-maintain-alpha.webp",
+      "bytes": 551668,
+      "blobSha": "d6732586d76c3025fd71e120f44ac1d5e8d9b596",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "jaylib-the-red",
+      "title": "The Red",
+      "artist": "Jaylib",
+      "palette": [
+        "#292627",
+        "#563137",
+        "#9c3439"
+      ],
+      "paletteSource": "Champion Sound / The Red & The Official",
+      "coverUrl": "https://www.stonesthrow.com/store/the-red-the-official/",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"THE RED\" and exact artist \"JAYLIB\". Include every word and punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #292627, #563137, #9c3439 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "STH2061 original 2003 The Red / The Official single, NOT Champion Sound remix edition.",
+      "image": "assets/graffiti/jaylib-the-red-alpha.webp",
+      "bytes": 513570,
+      "blobSha": "68995b34ec4965662b5a467bcd1060a6141bda41",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "j-dilla-fuck-the-police",
+      "title": "Fuck the Police",
+      "artist": "J Dilla",
+      "palette": [
+        "#afa17a",
+        "#a8adb1",
+        "#294d95"
+      ],
+      "paletteSource": "Fuck the Police / Move",
+      "coverUrl": "https://jdilla.com/catalog/payjay.html",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"FUCK THE POLICE\" and exact artist \"J DILLA\". Include every word and punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #afa17a, #a8adb1, #294d95 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Pay Jay PJ1005 limited 2015 badge-shaped 10-inch picture disc, NOT original 2001 Up Above sleeve.",
+      "image": "assets/graffiti/j-dilla-fuck-the-police-alpha.webp",
+      "bytes": 518380,
+      "blobSha": "5845a6933625413e46fa3465f2de977192c53977",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "dj-shadow-lost-and-found-sfl",
+      "title": "Lost and Found (S.F.L.)",
+      "artist": "DJ Shadow",
+      "palette": [
+        "#356db7",
+        "#d7c542",
+        "#c5cccd"
+      ],
+      "paletteSource": "Lost And Found (S.F.L.)",
+      "coverUrl": "https://www.qobuz.com/us-en/album/lost-and-found-sfl-dj-shadow/cycdmoq379fb0",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"LOST AND FOUND (S.F.L.)\" and exact artist \"DJ SHADOW\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #356db7, #d7c542, #c5cccd plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Licensed PIAS 2026 digital presentation of Lost And Found (S.F.L.), using Mo Wax split-single Lost And Found / Kemuri cover.",
+      "image": "assets/graffiti/dj-shadow-lost-and-found-sfl-alpha.webp",
+      "bytes": 560804,
+      "blobSha": "69d61f3505397356a79385c507b4a7ca501563bc",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "j-dilla-time-the-donut-of-the-heart",
+      "title": "Time: The Donut of the Heart",
+      "artist": "J Dilla",
+      "palette": [
+        "#4b2325",
+        "#ad8964",
+        "#e2dec5"
+      ],
+      "paletteSource": "Donuts",
+      "coverUrl": "https://music.apple.com/us/album/time-the-donut-of-the-heart/108233171?i=108232662&uo=4",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"TIME: THE DONUT OF THE HEART\" and exact artist \"J DILLA\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #4b2325, #ad8964, #e2dec5 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital release at cited URL, not claimed original first pressing.",
+      "image": "assets/graffiti/j-dilla-time-the-donut-of-the-heart-alpha.webp",
+      "bytes": 514988,
+      "blobSha": "eae10c189e430305766c60aefd2d82efe87c3e7f",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "j-dilla-last-donut-of-the-night",
+      "title": "Last Donut of the Night",
+      "artist": "J Dilla",
+      "palette": [
+        "#4b2325",
+        "#ad8964",
+        "#e2dec5"
+      ],
+      "paletteSource": "Donuts",
+      "coverUrl": "https://music.apple.com/us/album/last-donut-of-the-night/108233171?i=108232953&uo=4",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"LAST DONUT OF THE NIGHT\" and exact artist \"J DILLA\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #4b2325, #ad8964, #e2dec5 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital release at cited URL, not claimed original first pressing.",
+      "image": "assets/graffiti/j-dilla-last-donut-of-the-night-alpha.webp",
+      "bytes": 552336,
+      "blobSha": "ce0db2d47f52bbc011a82594dd5104928a54a512",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "erykah-badu-didnt-cha-know",
+      "title": "Didn't Cha Know",
+      "artist": "Erykah Badu",
+      "palette": [
+        "#7c7932",
+        "#db9b35",
+        "#a43b29",
+        "#42232b"
+      ],
+      "paletteSource": "Mama's Gun",
+      "coverUrl": "https://music.apple.com/us/album/didnt-cha-know/1440755899?i=1440756135&uo=4",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"DIDN'T CHA KNOW\" and exact artist \"ERYKAH BADU\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #7c7932, #db9b35, #a43b29, #42232b plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital release at cited URL, not claimed original first pressing.",
+      "image": "assets/graffiti/erykah-badu-didnt-cha-know-alpha.webp",
+      "bytes": 582354,
+      "blobSha": "9aa3d9c7add832242fa9c3b178631c419645ac26",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    }
+  ]
+}

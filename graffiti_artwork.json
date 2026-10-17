@@ -3513,14 +3513,19 @@
       "artist": "Erick Sermon",
       "album": "Don’t Be a Menace… Original Soundtrack",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#d3ba32",
+        "#bb3029",
+        "#64547b",
+        "#aaa17b"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Dont Be A Menace",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/erick-sermon-maintain-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://www.qobuz.com/dk-en/album/dont-be-a-menace-to-south-central-while-drinking-your-juice-in-the-hood-multi-interpretes/0060254728690"
     },
     {
       "id": "erick-sermon-open-fire",
@@ -3950,14 +3955,19 @@
       "artist": "Jurassic 5",
       "album": "Lyricist Lounge Vol. 1",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#33558a",
+        "#d6c82e",
+        "#c83629",
+        "#5d8c47"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Lyricist Lounge Vol. 1",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/jurassic-5-jayou-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://www.qobuz.com/us-en/album/lyricist-lounge-vol-1-various-artists/0000881129032"
     },
     {
       "id": "ugly-duckling-now-who-s-laughin",
@@ -4319,14 +4329,18 @@
       "artist": "DJ Shadow",
       "album": "Mo' Wax singles",
       "palette": [
-        "#608a78",
-        "#e2d5b5",
-        "#b38052",
-        "#29392f"
+        "#ad7b60",
+        "#d6404e",
+        "#e8e5df"
       ],
-      "paletteSource": "Mo' Wax期の編集上の仮配色",
-      "paletteNote": "既存のDJ Shadow作品の配色を暫定的に継承。個別ジャケットとの照合は未完了。",
-      "status": "pending"
+      "paletteSource": "Preemptive Strike",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-in-flux-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/preemptive-strike/1660563908"
     },
     {
       "id": "dj-shadow-lost-and-found-sfl",
@@ -4334,14 +4348,18 @@
       "artist": "DJ Shadow",
       "album": "Mo' Wax singles",
       "palette": [
-        "#608a78",
-        "#e2d5b5",
-        "#b38052",
-        "#29392f"
+        "#356db7",
+        "#d7c542",
+        "#c5cccd"
       ],
-      "paletteSource": "Mo' Wax期の編集上の仮配色",
-      "paletteNote": "既存のDJ Shadow作品の配色を暫定的に継承。個別ジャケットとの照合は未完了。",
-      "status": "pending"
+      "paletteSource": "Lost And Found (S.F.L.)",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-lost-and-found-sfl-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://www.qobuz.com/us-en/album/lost-and-found-sfl-dj-shadow/cycdmoq379fb0"
     },
     {
       "id": "dj-shadow-what-does-your-soul-look-like",
@@ -4408,14 +4426,18 @@
       "artist": "DJ Shadow",
       "album": "The Number Song (Cut Chemist Remix)",
       "palette": [
-        "#608a78",
-        "#e2d5b5",
-        "#b38052",
-        "#29392f"
+        "#1996b8",
+        "#31436c",
+        "#c3ddd8"
       ],
-      "paletteSource": "Endtroducing.....",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteSource": "The Number Song (Cut Chemist Remix)",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-the-number-song-cut-chemist-remix-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://djshadow.com/products/dj-shadow-the-number-song-cut-chemist-remix-7-vinyl"
     },
     {
       "id": "dj-shadow-building-steam-with-a-grain-of-salt",
@@ -4541,14 +4563,19 @@
       "artist": "DJ Shadow",
       "album": "The Less You Know, the Better",
       "palette": [
-        "#eee4d2",
-        "#d94132",
-        "#334a61",
-        "#282722"
+        "#243d57",
+        "#d4ba97",
+        "#b64047",
+        "#725269"
       ],
-      "paletteSource": "The Less You Know, the Better",
-      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
-      "status": "pending"
+      "paletteSource": "The Less You Know, The Better",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-scale-it-back-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/the-less-you-know-the-better/1660656585?uo=4"
     },
     {
       "id": "dj-shadow-the-mountain-will-fall",
@@ -4595,14 +4622,18 @@
       "artist": "DJ Shadow",
       "album": "Our Pathetic Age",
       "palette": [
-        "#c1c74d",
-        "#cc5844",
-        "#3e5053",
-        "#d6d2b5"
+        "#e52925",
+        "#f1d02b",
+        "#a8a8a8"
       ],
       "paletteSource": "Our Pathetic Age",
-      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-rocket-fuel-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/our-pathetic-age/1572533595"
     },
     {
       "id": "dj-shadow-ozone-scraper",
@@ -4610,14 +4641,18 @@
       "artist": "DJ Shadow",
       "album": "Action Adventure",
       "palette": [
-        "#5a5180",
-        "#eaa44c",
-        "#a74878",
-        "#202e4f"
+        "#cd791f",
+        "#c53726",
+        "#34585c"
       ],
       "paletteSource": "Action Adventure",
-      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-ozone-scraper-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/action-adventure/1702336934?uo=4"
     },
     {
       "id": "slum-village-players",
@@ -4625,14 +4660,18 @@
       "artist": "Slum Village",
       "album": "Fantastic, Vol. 2",
       "palette": [
-        "#d59a51",
-        "#dbc5a3",
-        "#694938",
-        "#352c2b"
+        "#b09b86",
+        "#564b41",
+        "#959994"
       ],
       "paletteSource": "Fantastic, Vol. 2",
-      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/slum-village-players-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://trafficent.com/wp-content/uploads/2016/07/NMG-5763-SLUM-VILLAGE-Fantastic-Vol-2-LP.pdf"
     },
     {
       "id": "slum-village-get-dis-money",
@@ -4640,14 +4679,18 @@
       "artist": "Slum Village",
       "album": "Office Space / Fantastic, Vol. 2",
       "palette": [
-        "#d59a51",
-        "#dbc5a3",
-        "#694938",
-        "#352c2b"
+        "#b09b86",
+        "#564b41",
+        "#959994"
       ],
       "paletteSource": "Office Space / Fantastic, Vol. 2",
-      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/slum-village-get-dis-money-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://trafficent.com/wp-content/uploads/2016/07/NMG-5763-SLUM-VILLAGE-Fantastic-Vol-2-LP.pdf"
     },
     {
       "id": "j-dilla-fuck-the-police",
@@ -4655,14 +4698,18 @@
       "artist": "J Dilla",
       "album": "Fuck the Police / Move",
       "palette": [
-        "#d59a51",
-        "#dbc5a3",
-        "#694938",
-        "#352c2b"
+        "#afa17a",
+        "#a8adb1",
+        "#294d95"
       ],
       "paletteSource": "Fuck the Police / Move",
-      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/j-dilla-fuck-the-police-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://jdilla.com/catalog/payjay.html"
     },
     {
       "id": "jaylib-the-red",
@@ -4670,14 +4717,18 @@
       "artist": "Jaylib",
       "album": "Champion Sound / The Red & The Official",
       "palette": [
-        "#d59a51",
-        "#dbc5a3",
-        "#694938",
-        "#352c2b"
+        "#292627",
+        "#563137",
+        "#9c3439"
       ],
       "paletteSource": "Champion Sound / The Red & The Official",
-      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/jaylib-the-red-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://www.stonesthrow.com/store/the-red-the-official/"
     },
     {
       "id": "j-dilla-workinonit",
@@ -4685,14 +4736,18 @@
       "artist": "J Dilla",
       "album": "Donuts",
       "palette": [
-        "#d59a51",
-        "#dbc5a3",
-        "#694938",
-        "#352c2b"
+        "#4b2325",
+        "#ad8964",
+        "#e2dec5"
       ],
       "paletteSource": "Donuts",
-      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/j-dilla-workinonit-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/donuts/108233171?uo=4"
     },
     {
       "id": "j-dilla-time-the-donut-of-the-heart",
@@ -4700,14 +4755,18 @@
       "artist": "J Dilla",
       "album": "Donuts",
       "palette": [
-        "#d59a51",
-        "#dbc5a3",
-        "#694938",
-        "#352c2b"
+        "#4b2325",
+        "#ad8964",
+        "#e2dec5"
       ],
       "paletteSource": "Donuts",
-      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/j-dilla-time-the-donut-of-the-heart-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/time-the-donut-of-the-heart/108233171?i=108232662&uo=4"
     },
     {
       "id": "j-dilla-last-donut-of-the-night",
@@ -4715,14 +4774,18 @@
       "artist": "J Dilla",
       "album": "Donuts",
       "palette": [
-        "#d59a51",
-        "#dbc5a3",
-        "#694938",
-        "#352c2b"
+        "#4b2325",
+        "#ad8964",
+        "#e2dec5"
       ],
       "paletteSource": "Donuts",
-      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/j-dilla-last-donut-of-the-night-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/last-donut-of-the-night/108233171?i=108232953&uo=4"
     },
     {
       "id": "erykah-badu-didnt-cha-know",
@@ -4730,14 +4793,19 @@
       "artist": "Erykah Badu",
       "album": "Mama's Gun",
       "palette": [
-        "#d59a51",
-        "#dbc5a3",
-        "#694938",
-        "#352c2b"
+        "#7c7932",
+        "#db9b35",
+        "#a43b29",
+        "#42232b"
       ],
       "paletteSource": "Mama's Gun",
-      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/erykah-badu-didnt-cha-know-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/didnt-cha-know/1440755899?i=1440756135&uo=4"
     },
     {
       "id": "janet-jackson-got-til-its-gone",
