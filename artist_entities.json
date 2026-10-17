@@ -493,5 +493,26 @@
   },
   "InI": {
     "type": "MusicGroup"
+  },
+  "J Dilla feat. J. Rocc & Karriem Riggins": {
+    "type": null
+  },
+  "Deltron 3030": {
+    "type": "MusicGroup"
+  },
+  "Flying Lotus": {
+    "type": "Person"
+  },
+  "Common feat. Kanye West": {
+    "type": null
+  },
+  "The Roots feat. Truck North & Saigon": {
+    "type": null
+  },
+  "KRS-One & Marley Marl feat. Blaq Poet": {
+    "type": null
+  },
+  "Handsome Boy Modeling School": {
+    "type": "MusicGroup"
   }
 }

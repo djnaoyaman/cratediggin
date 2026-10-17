@@ -43448,5 +43448,988 @@
     "addedOrder": 391,
     "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
     "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+  },
+  {
+    "id": "j-dilla-body-movin",
+    "title": "Body Movin'",
+    "artist": "J Dilla feat. J. Rocc & Karriem Riggins",
+    "year": 2006,
+    "album": "The Shining",
+    "label": "BBE",
+    "producer": "J Dilla / Karriem Riggins / J. Rocc",
+    "producers": [
+      "J Dilla",
+      "Karriem Riggins",
+      "J. Rocc"
+    ],
+    "region": "Detroit",
+    "scene": "Detroit",
+    "category": "Hip Hop",
+    "moods": [
+      "ビート"
+    ],
+    "sounds": [
+      "ドラム",
+      "スクラッチ"
+    ],
+    "members": "",
+    "collections": [],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "samples": [],
+    "connections": [],
+    "youtube": {
+      "id": "2I5DzBysOmI",
+      "channel": "J Dilla - Topic",
+      "type": "Official Audio",
+      "url": "https://www.youtube.com/watch?v=2I5DzBysOmI",
+      "official": true
+    },
+    "art": {
+      "word": "BODY MOVIN'",
+      "tag": "J DILLA FEAT. J. ROCC & KARRIEM RIGGINS",
+      "style": "piece",
+      "seed": 938423411,
+      "profile": "ny-subway",
+      "palette": [
+        "#901f23",
+        "#e1be35",
+        "#fff9df",
+        "#15120d"
+      ],
+      "paletteSource": "The Shining / J Dilla公式Bandcamp掲載カバー",
+      "lines": [
+        "BODY MOVIN'"
+      ],
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。",
+      "paletteNote": "公式カタログ・配信サービスの画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。"
+    },
+    "deck": "ドラム、鍵盤、ターンテーブル。三人の手が動く、短いスタジオの記録。",
+    "essayTitle": "サンプラーの外にも、Dillaの時間は流れる。",
+    "essay": [
+      "「Body Movin'」を、Dillaひとりが組んだドラムの見本として片づけるのは惜しい。BBEの曲目にはJ. RoccとKarriem Rigginsの名も並ぶ。『The Shining』のなかで、演奏者とDJの共同作業が前に出る一曲だ。",
+      "2006年のXLR8R取材でRigginsは、スタジオで生演奏を録音し、J. Roccがカットを加えたと説明している。KorgのソロはDillaの依頼だったという。完成品の輪郭を思い描く人と、その場で音を差し出す人。ビート制作とセッションが別々ではないことを、当事者の話が教えてくれる。",
+      "J. Roccの証言も面白い。いつものTechnics 1200ではないターンテーブルを使い、あとでDillaがまとめた音に驚いたという。大切なのは機材の名前を揃えることではなく、手元にある音をどう作品へ変えるか。その制作の発想から、この曲へ入り直したい。",
+      "ここで耳を向けたいのは、ドラムだけでなく、そこへ出入りする鍵盤とカットの関係である。ラッパーの声が中心にないからこそ、演奏と編集の役割を行き来しながら聴ける。短さは未完成の印ではなく、三人の仕事を凝縮する器になっている。"
+    ],
+    "facts": [
+      {
+        "title": "2006年の曲と2016年の再発",
+        "text": "『The Shining』はBBEから2006年8月22日に発売。2016年には10周年版が登場した。",
+        "sources": [
+          0,
+          3
+        ]
+      },
+      {
+        "title": "生演奏とターンテーブル",
+        "text": "2006年の直接取材でKarriem Rigginsはスタジオでの生演奏とKorgソロ、J. Roccは普段と異なるターンテーブルでのカットを回想している。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "ミックスまで含めた制作",
+        "text": "J. Roccは、録音した演奏がDillaのミックスによって変化したことを語る。演奏を残すだけでなく、その後の整理までが曲づくりだった。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "三人に並ぶ制作クレジット",
+        "text": "10周年版の曲別クレジットではJames Yancey、Karriem Riggins、Jason JacksonがProducerとして並ぶ。演奏とカットについては、RigginsとJ. Roccの直接取材にも記録がある。",
+        "sources": [
+          5,
+          1
+        ]
+      }
+    ],
+    "listening": [
+      "ドラムと鍵盤を別々に追い、それから同時に聴く。",
+      "カットが前へ出る箇所と、演奏を支える箇所を比べる。",
+      "以下の制作取材を読み、機材名より音の受け渡しを想像してみる。"
+    ],
+    "context": "デトロイトのビート制作と、演奏家・ターンテーブリストの共同作業をつなぐ一曲。",
+    "sources": [
+      {
+        "label": "BBE公式 — The Shining / BBE076",
+        "url": "https://bbemusic.com/product/the-shining",
+        "kind": "レーベル"
+      },
+      {
+        "label": "XLR8R — Karriem Riggins and J Dilla Shine（2006年の直接取材）",
+        "url": "https://xlr8r.com/features/karriem-riggins-and-j-dilla-shine/",
+        "kind": "制作取材"
+      },
+      {
+        "label": "J Dilla公式Bandcamp — The Shining",
+        "url": "https://jdilla.bandcamp.com/album/the-shining",
+        "kind": "公式"
+      },
+      {
+        "label": "Bleep — 10周年版の曲目と2016年8月19日発売",
+        "url": "https://bleep.com/release/73244-j-dilla-the-shining-the-10th-anniversary-collection",
+        "kind": "流通"
+      },
+      {
+        "label": "The Orchard配信 — Body Movin'",
+        "url": "https://www.youtube.com/watch?v=2I5DzBysOmI",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Qobuz — The Shining 10周年版 / 曲別制作クレジット",
+        "url": "https://www.qobuz.com/us-en/album/the-shining-the-10th-anniversary-collection-j-dilla/k6w22eoa4g2ob",
+        "kind": "公式配信クレジット"
+      }
+    ],
+    "addedOrder": 392,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+  },
+  {
+    "id": "deltron-3030-mastermind",
+    "title": "Mastermind",
+    "artist": "Deltron 3030",
+    "year": 2000,
+    "album": "Deltron 3030",
+    "label": "75 Ark",
+    "producer": "Dan the Automator",
+    "producers": [
+      "Dan the Automator"
+    ],
+    "region": "California",
+    "scene": "California",
+    "category": "Hip Hop",
+    "moods": [
+      "ビート"
+    ],
+    "sounds": [
+      "ドラム",
+      "スクラッチ"
+    ],
+    "members": "Del the Funky Homosapien、Dan the Automator、Kid Koala",
+    "collections": [],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "samples": [],
+    "connections": [],
+    "youtube": {
+      "id": "O7dyli_nXn4",
+      "channel": "OfficialDELTRON",
+      "type": "Official Audio",
+      "url": "https://www.youtube.com/watch?v=O7dyli_nXn4",
+      "official": true
+    },
+    "art": {
+      "word": "MASTERMIND",
+      "tag": "DELTRON 3030",
+      "style": "piece",
+      "seed": 3160132967,
+      "profile": "ny-subway",
+      "palette": [
+        "#e0c832",
+        "#a77722",
+        "#542b1b",
+        "#17100d"
+      ],
+      "paletteSource": "Deltron 3030 / Del公式Bandcamp掲載カバー",
+      "lines": [
+        "MASTERMIND"
+      ],
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。",
+      "paletteNote": "公式カタログ・配信サービスの画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。"
+    },
+    "deck": "3030年のMCが讃えるのは、音で世界を組み立てるプロデューサー。",
+    "essayTitle": "未来を描く曲の、真ん中にいる制作者。",
+    "essay": [
+      "Deltron 3030は、Delのラップ、Dan the Automatorのプロダクション、Kid Koalaのターンテーブルが交わるプロジェクト。「Mastermind」は2000年の同名アルバムに収められている。未来の物語を扱いながら、ここで前に出るのは音楽を作る行為そのものだ。",
+      "公式に掲載された歌詞では、Automatorを科学や技術のイメージに重ねて讃える。普通なら裏側に置かれるプロデューサーが、未来の物語を進める人物になる。声の主だけでなく、その声の世界を設計する人へもスポットライトが当たる曲だ。",
+      "Automatorの公式紹介は、このアルバムを3030年を舞台にしたラップ作品として位置づけている。弦、ドラム、シンセサイザーによる世界設計と、Delの言葉が描く未来。その二つが同じ方向を向くことで、単に未来的な音色を使う以上の奥行きが生まれる。",
+      "単曲で聴いたあとには、アルバムの曲順へ戻ってみたい。「Mastermind」は10曲目で、短い「New Coke」と「National Movie Review」のあいだに置かれる。曲と小さな場面の切り替えまで聴くと、コンセプト盤がラップと編集の両方で作られていることに気づく。"
+    ],
+    "facts": [
+      {
+        "title": "三人でつくるDeltron",
+        "text": "DelがMC、Dan the Automatorがプロダクション、Kid Koalaがターンテーブルを担う。公式音源も三人をDeltron 3030と併記している。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "2000年から未来へ",
+        "text": "Dan the Automatorの公式作品一覧では『Deltron 3030』は2000年の作品。3030年を舞台とするコンセプトは、現実の発表年から千年以上先へ視線を向けている。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "曲順も読む",
+        "text": "アーティストBandcampではMastermindは10曲目、3分34秒。短い幕間のあいだに位置する構成も、アルバムで再訪する手がかりになる。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "listening": [
+      "Delの声と、プロデューサーを主役にする言葉の構造に注目する。",
+      "前後の短い曲も含めて再生し、単曲との印象の差を比べる。",
+      "インスト版と通常版を混同せず、声を含む原曲から入る。"
+    ],
+    "context": "ベイエリアのMCとプロデューサーに、モントリオールのターンテーブリストが合流。SFという設定を、ラップの共同制作へ接続した作品。",
+    "sources": [
+      {
+        "label": "Del公式Bandcamp — Deltron 3030 / 曲目と歌詞",
+        "url": "https://delthefunkyhomosapien.bandcamp.com/album/deltron-3030",
+        "kind": "公式"
+      },
+      {
+        "label": "Dan the Automator公式 — 作品一覧とDeltron紹介",
+        "url": "https://www.dantheautomator.com/",
+        "kind": "公式"
+      },
+      {
+        "label": "OfficialDELTRON — Mastermind / The Orchard配信",
+        "url": "https://www.youtube.com/watch?v=O7dyli_nXn4",
+        "kind": "公式音源"
+      },
+      {
+        "label": "AllMusic — Deltron 3030 Biography",
+        "url": "https://www.allmusic.com/artist/deltron-3030-mn0000197993/biography",
+        "kind": "音楽資料"
+      }
+    ],
+    "addedOrder": 393,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+  },
+  {
+    "id": "flying-lotus-melt",
+    "title": "Melt!",
+    "artist": "Flying Lotus",
+    "year": 2008,
+    "album": "Los Angeles",
+    "label": "Warp",
+    "producer": "Flying Lotus",
+    "producers": [
+      "Flying Lotus"
+    ],
+    "region": "California",
+    "scene": "Los Angeles",
+    "category": "Hip Hop",
+    "moods": [
+      "ビート"
+    ],
+    "sounds": [
+      "ドラム",
+      "電子音"
+    ],
+    "members": "",
+    "collections": [],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "samples": [],
+    "connections": [],
+    "youtube": {
+      "id": "qY4HDC7f1fI",
+      "channel": "Flying Lotus",
+      "type": "Official Audio",
+      "url": "https://www.youtube.com/watch?v=qY4HDC7f1fI",
+      "official": true
+    },
+    "art": {
+      "word": "MELT!",
+      "tag": "FLYING LOTUS",
+      "style": "piece",
+      "seed": 1207143115,
+      "profile": "ny-subway",
+      "palette": [
+        "#050a0c",
+        "#103640",
+        "#a7b5b9",
+        "#fafafa"
+      ],
+      "paletteSource": "Los Angeles / Flying Lotus公式Bandcampカバー",
+      "lines": [
+        "MELT!"
+      ],
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。",
+      "paletteNote": "公式カタログ・配信サービスの画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。"
+    },
+    "deck": "1分45秒のビートを、架空の映画の一場面として聴く。",
+    "essayTitle": "ロサンゼルスは、暗い色だけでは描けない。",
+    "essay": [
+      "「Melt!」はFlying Lotusの2008年作『Los Angeles』の5曲目。約1分45秒という短さで、アルバムの場面をひとつ受け持つ。のちの『L.A. EP 2X3』にはMono/Polyのリミックスも収められ、短い原曲から別の制作者の世界へ進む道が生まれた。",
+      "アルバム発売時のPlug One取材で、Flying Lotusはこの作品を存在しないSF映画のサウンドトラックのように考えていたと話す。当初は暗い方向を想定していたが、街には明るさや美しさもある。場面の幅を広げながら、作品全体の感触を揃えていったという。",
+      "同じ取材では、完成曲を単に集めるのでなく、並びを変え、足りない部分へ新たな音を作っていったことも語られる。短いビートをアルバムの呼吸のなかで聴く理由が、本人の言葉から見えてくる。「Melt!」の短さも、前後にある場面と一緒に受け取ってみたい。",
+      "2008年のSPIN評はこの曲を、ドラムに鳥のさえずりやマラカスを思わせる音が重なる場面として描写した。これは評者の聴感であり、使用楽器の録音証明ではない。音の正体を急いで決めず、前後の「Golden Diva」「Comet Course」と続けて、場面の移り変わりを楽しみたい。"
+    ],
+    "facts": [
+      {
+        "title": "原曲からMono/Polyへ",
+        "text": "『Los Angeles』のオリジナルと、『L.A. EP 2X3』のMono/Polyリミックス。公式カタログには二つの形で曲名が残る。",
+        "sources": [
+          0,
+          4
+        ]
+      },
+      {
+        "title": "日本でも2008年のWarp作品",
+        "text": "Beatinkの日本盤資料にはBRC196Z、Warp盤にはWARPCD165とWARPLP165の番号が付く。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "短いビートにも曲順の役割",
+        "text": "2008年の直接取材でFlying Lotusは、アルバムの流れを組みながら、必要な場所に新たな曲を作っていったと語る。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "listening": [
+      "オリジナルとMono/Polyリミックスの尺と構成を比べる。",
+      "単曲の後にアルバムの前後も聴き、短い曲が担う場面転換を考える。",
+      "鳥声や打楽器に聞こえる音を、楽器名の断定とは分けて楽しむ。"
+    ],
+    "context": "LAのヒップホップ由来のビート制作が電子音楽へ広がる2008年。本人の制作観と同時代の批評を、短いインスト曲の聴き方につなげる。",
+    "sources": [
+      {
+        "label": "Flying Lotus公式Bandcamp — Melt! / Los Angeles",
+        "url": "https://flyinglotus.bandcamp.com/track/melt-2",
+        "kind": "公式"
+      },
+      {
+        "label": "Beatink — Los Angeles / 日本盤・Warp曲目",
+        "url": "https://www.beatink.com/products/detail.php?product_id=3306",
+        "kind": "公式流通"
+      },
+      {
+        "label": "Plug One — Flying Lotus直接取材（2008年6月10日）",
+        "url": "https://www.plugonemag.com/2008/06/10/the-plug-one-qa-flying-lotus",
+        "kind": "本人取材"
+      },
+      {
+        "label": "SPIN — Los Angeles / Mosi Reeves（2008年6月15日）",
+        "url": "https://www.spinmagazine.com/2008/06/flying-lotus-los-angeles-warp/",
+        "kind": "同時代批評"
+      },
+      {
+        "label": "Flying Lotus公式Bandcamp — Melt! / L.A. EP 2X3の別版",
+        "url": "https://flyinglotus.bandcamp.com/track/melt",
+        "kind": "版照合"
+      },
+      {
+        "label": "Warp公式配信 — Melt! / Los Angeles",
+        "url": "https://www.youtube.com/watch?v=qY4HDC7f1fI",
+        "kind": "公式音源"
+      }
+    ],
+    "addedOrder": 394,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+  },
+  {
+    "id": "common-start-the-show",
+    "title": "Start the Show",
+    "artist": "Common feat. Kanye West",
+    "year": 2007,
+    "album": "Finding Forever",
+    "label": "Geffen / G.O.O.D. Music",
+    "producer": "Kanye West",
+    "producers": [
+      "Kanye West"
+    ],
+    "region": "Chicago",
+    "scene": "Chicago",
+    "category": "Hip Hop",
+    "moods": [
+      "ビート"
+    ],
+    "sounds": [
+      "ドラム",
+      "スクラッチ"
+    ],
+    "members": "",
+    "collections": [],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "samples": [],
+    "connections": [],
+    "youtube": {
+      "id": "H7W57-Jrgp4",
+      "channel": "Common",
+      "type": "Official Audio",
+      "url": "https://www.youtube.com/watch?v=H7W57-Jrgp4",
+      "official": true
+    },
+    "art": {
+      "word": "START THE SHOW",
+      "tag": "COMMON FEAT. KANYE WEST",
+      "style": "piece",
+      "seed": 226956486,
+      "profile": "ny-subway",
+      "palette": [
+        "#37281b",
+        "#da9141",
+        "#458b91",
+        "#f2e4d5"
+      ],
+      "paletteSource": "Finding Forever / Apple Music配信カバー",
+      "lines": [
+        "START THE SHOW"
+      ],
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。",
+      "paletteNote": "公式カタログ・配信サービスの画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。"
+    },
+    "deck": "幕を開けるのは、穏やかな挨拶ではなくMCとしての宣言。",
+    "essayTitle": "始まる前から、マイクは熱を持っている。",
+    "essay": [
+      "『Finding Forever』は2007年のCommon作品。「Start the Show」ではKanye Westがプロデューサーを務め、声でも参加する。Commonを昔ながらの穏やかなジャズ・ラッパーという箱に入れず、競争の場へ立つMCとして聴きたい曲だ。",
+      "発売前の2007年4月、The FADERはRecord Plantでの試聴会を取材した。Commonの隣にはKanye Westがいて、曲を聴きながら手を加えるアイデアを交わしていたという。記事は「Start the Show」を強いビートの導入曲として報告する。まだ完成前のアルバムが、二人のやりとりによって形を変えていた頃の記録だ。",
+      "Apple Musicのアルバム解説は、この曲と「Windmills of Your Mind」の関係を示している。ラップの向こうに映画音楽へ続く入口がある。Alan Bergman、Marilyn Bergman、Michel Legrandという作曲者の名を辿ると、CommonとKanyeの一曲が、別の時代の歌とつながって見える。",
+      "CommonとKanyeの関係を、ラッパーと伴奏役だけで説明しない。声の出番と、曲を組み立てる仕事を行き来する共同制作として聴く。そのうえで『Be』から続く二人の作品を並べれば、同じ組み合わせでもMCの立ち方が一様ではないことが見えてくる。"
+    ],
+    "facts": [
+      {
+        "title": "制作クレジット",
+        "text": "Universalの公式配信音源はKanye WestをProducerとして、CommonとKanye Westを演者として掲載。作曲者にはAlan Bergman、Marilyn Bergman、Michel Legrandも含まれる。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "発売前の海外現場記録",
+        "text": "2007年4月26日のFADER記事は、ハリウッドのRecord Plantで行われた試聴会の直接レポート。CommonとKanyeが未完成のアルバムへアイデアを重ねる姿を伝えている。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "映画音楽へ続く作曲者たち",
+        "text": "Apple Musicの解説は「Windmills of Your Mind」との関係に触れる。公式楽曲クレジットにもAlan Bergman、Marilyn Bergman、Michel Legrandが並ぶ。",
+        "sources": [
+          0,
+          2
+        ]
+      }
+    ],
+    "listening": [
+      "CommonのヴァースとKanyeの声の役割を分けて追う。",
+      "Introから続けて再生し、タイトル通りの始まり方を確かめる。",
+      "発売前記事と完成盤を比べ、制作途中の証言をそのまま最終仕様にしない。"
+    ],
+    "context": "Beに続くCommonとKanye Westの共同制作。2007年の試聴会記録と公式配信クレジットを合わせて読む。",
+    "sources": [
+      {
+        "label": "Universal公式配信 — Start The Show",
+        "url": "https://www.youtube.com/watch?v=H7W57-Jrgp4",
+        "kind": "公式音源"
+      },
+      {
+        "label": "The FADER — 2007年4月26日の試聴会レポート",
+        "url": "https://www.thefader.com/2007/04/26/track-by-track-commons-finding-forever",
+        "kind": "現場取材"
+      },
+      {
+        "label": "Apple Music — Finding Forever / 曲目とアルバム解説",
+        "url": "https://music.apple.com/us/album/finding-forever/1443273958",
+        "kind": "配信資料"
+      }
+    ],
+    "addedOrder": 395,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+  },
+  {
+    "id": "the-roots-criminal",
+    "title": "Criminal",
+    "artist": "The Roots feat. Truck North & Saigon",
+    "year": 2008,
+    "album": "Rising Down",
+    "label": "Def Jam",
+    "producer": "The Roots / Khari Mateen",
+    "producers": [
+      "The Roots",
+      "Khari Mateen"
+    ],
+    "region": "Philadelphia",
+    "scene": "Philadelphia",
+    "category": "Hip Hop",
+    "moods": [
+      "ビート"
+    ],
+    "sounds": [
+      "ドラム",
+      "スクラッチ"
+    ],
+    "members": "",
+    "collections": [],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "samples": [],
+    "connections": [],
+    "youtube": {
+      "id": "vqgrfwGS0-k",
+      "channel": "The Roots",
+      "type": "Official Audio",
+      "url": "https://www.youtube.com/watch?v=vqgrfwGS0-k",
+      "official": true
+    },
+    "art": {
+      "word": "CRIMINAL",
+      "tag": "THE ROOTS FEAT. TRUCK NORTH & SAIGON",
+      "style": "piece",
+      "seed": 147708790,
+      "profile": "ny-subway",
+      "palette": [
+        "#171719",
+        "#e2d3be",
+        "#747066",
+        "#ac9a82"
+      ],
+      "paletteSource": "Rising Down / Apple Music配信カバー",
+      "lines": [
+        "CRIMINAL"
+      ],
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。",
+      "paletteNote": "公式カタログ・配信サービスの画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。"
+    },
+    "deck": "三人のラップと歌声が、街に貼られる呼び名を問い返す。",
+    "essayTitle": "ひとつの名前では、声を括れない。",
+    "essay": [
+      "2008年の『Rising Down』に収められた「Criminal」。The RootsのBlack ThoughtにTruck NorthとSaigonが加わり、複数の視点を一曲のなかで受け渡す。客演の名前を並べるだけでなく、誰の声へ切り替わったかを意識すると、曲の構成が立体的になる。",
+      "制作を担うのはThe RootsとKhari Mateen。公式クレジットでMateenは録音エンジニアにも名を連ねる。バンドの演奏とスタジオの作業をつなぐ人物へ目を向けると、この曲はMC陣だけでなく、音をまとめる側の共同制作としても見えてくる。",
+      "歌声の層もラップ陣だけではない。公式クレジットにはKevin HansonとMercedes Martinezが載る。2008年4月のDavid Hylandによる同時代評は、Hansonのコーラスと三人のMCの対比を、この曲の特徴として取り上げていた。声を積み重ねることが、語りの緊張を別の角度から支えている。",
+      "まずコーラスとヴァースの境目を追い、次に同じ伴奏の上で各MCがどれだけ違う密度を作るかを比べてみたい。ひとりの声を追い続ける聴き方から、声と声の受け渡しを追う聴き方へ。その切り替えによって、一曲のなかの距離や視点が変わってくる。"
+    ],
+    "facts": [
+      {
+        "title": "制作はThe RootsとKhari Mateen",
+        "text": "Universalの公式音源は両者をProducerと記載。Khari MateenにはRecording Engineerの役割もある。",
+        "sources": [
+          0,
+          3
+        ]
+      },
+      {
+        "title": "客演表記の先にいる声",
+        "text": "公式クレジットにはBlack Thought、Truck North、Saigonに加え、Kevin Hanson、Mercedes MartinezがVocalistとして記載される。",
+        "sources": [
+          0,
+          3
+        ]
+      },
+      {
+        "title": "2008年の受け止め方",
+        "text": "David Hylandの発売期レビューは、HansonのコーラスとMC陣の対照を曲の特徴として論じた。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "listening": [
+      "ラップの担当が交代する場所を、声の違いから追う。",
+      "コーラスへ戻ると伴奏の聴こえ方がどう変わるか比べる。",
+      "隣の曲と続けて聴き、アルバムの中の役割を考える。"
+    ],
+    "context": "フィラデルフィアのバンドとしてのThe Rootsと、客演MC・共同制作者の仕事を一曲の単位で追う。",
+    "sources": [
+      {
+        "label": "Universal公式配信 — Criminal / 演者・制作クレジット",
+        "url": "https://www.youtube.com/watch?v=vqgrfwGS0-k",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — Criminal feat. Truck North & Saigon",
+        "url": "https://music.apple.com/pl/song/1442286727",
+        "kind": "配信資料"
+      },
+      {
+        "label": "David Hyland — Rising Down同時代レビュー（2008年4月28日）",
+        "url": "https://soundbytesmusic.com/2008/04/28/review-the-roots-resurrect-themselves-with-rising-down/",
+        "kind": "同時代批評"
+      },
+      {
+        "label": "Qobuz — Rising Down / Criminal曲別制作クレジット",
+        "url": "https://www.qobuz.com/us-en/album/rising-down-the-roots/i4wqeq9it1pba",
+        "kind": "公式配信クレジット"
+      }
+    ],
+    "addedOrder": 396,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+  },
+  {
+    "id": "mos-def-crime-medicine",
+    "title": "Crime & Medicine",
+    "artist": "Mos Def",
+    "year": 2006,
+    "album": "True Magic",
+    "label": "Geffen",
+    "producer": "Mos Def",
+    "producers": [
+      "Mos Def"
+    ],
+    "region": "New York",
+    "scene": "Brooklyn",
+    "category": "Hip Hop",
+    "moods": [
+      "ビート"
+    ],
+    "sounds": [
+      "ドラム",
+      "スクラッチ"
+    ],
+    "members": "",
+    "collections": [],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "samples": [],
+    "connections": [],
+    "youtube": {
+      "id": "z7cCyd8049M",
+      "channel": "Mos Def - Topic",
+      "type": "Official Audio",
+      "url": "https://www.youtube.com/watch?v=z7cCyd8049M",
+      "official": true
+    },
+    "art": {
+      "word": "CRIME & MEDICINE",
+      "tag": "MOS DEF",
+      "style": "piece",
+      "seed": 1311931232,
+      "profile": "ny-subway",
+      "palette": [
+        "#080809",
+        "#652b82",
+        "#e7e5e5",
+        "#ffffff"
+      ],
+      "paletteSource": "True Magic / Apple Musicの現行配信画像",
+      "lines": [
+        "CRIME & MEDICINE"
+      ],
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。",
+      "paletteNote": "公式カタログ・配信サービスの画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。"
+    },
+    "deck": "GZAの世界を知っていても、Mos Defの声で聴き直す余地がある。",
+    "essayTitle": "同じ伴奏が、違うMCを浮かび上がらせる。",
+    "essay": [
+      "「Crime & Medicine」は『True Magic』の5曲目。公式配信ではMos Def自身がプロデューサーとして記載される。同時代のレビューが揃って指摘するのは、GZAの「Liquid Swords」との明確なつながりだ。すでに記憶されている伴奏を別のMCが引き受けることで、声そのものの違いが浮かび上がる。",
+      "2007年2月のGlide評は、Mosによるこの解釈をアルバムの好場面とした。一方、同年1月のPitchfork評は同じ再利用を厳しく評価している。同じ事実から評価が分かれるところに、この曲を掘る面白さがある。名曲というひとことで結論を借りず、自分の耳で二つの声を比べてみる。",
+      "アルバムの外見も通常と違った。AllMusicの発売期レビューは、初回CDが紙のアートワークを持たず、透明ケースとステッカーで流通したことを記録している。装丁をそぎ落とした作品と、よく知られた伴奏へ新しい言葉を置く曲。その両方が、このアルバムをめぐる賛否の風景に残っている。",
+      "比較するときは、サンプルの由来だけを当てて終えない。同じ伴奏に対して、声がどこから入り、どれだけ言葉を詰め、どこに間を残すのか。MosとGZAの違いを手がかりにすれば、レコードを掘ることがMCの技法を聴くことにもつながる。"
+    ],
+    "facts": [
+      {
+        "title": "Mos自身の制作クレジット",
+        "text": "Apple Musicの楽曲別クレジットはMos DefをProducer、Dante SmithをSongwriterと記載する。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "Liquid Swordsとの関係",
+        "text": "発売期のGlideとAllMusicは、GZAの「Liquid Swords」の再解釈・伴奏使用としてこの曲を説明している。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "同時代でも評価はひとつではない",
+        "text": "Glideはこの曲を高く評価した一方、Pitchforkは再利用に批判的。海外の古い批評を並べることで、後年の定評だけでは見えない受け止め方を辿れる。",
+        "sources": [
+          1,
+          3
+        ]
+      },
+      {
+        "title": "透明ケースで現れたアルバム",
+        "text": "AllMusicの発売期レビューは、初回CDが紙のアートワークを持たず、透明ケースとステッカーで流通したことを記録している。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "listening": [
+      "GZAのLiquid Swordsと続けて聴き、ラップの間の置き方を比べる。",
+      "知っている伴奏でも声の人物が変わると何が変わるか考える。",
+      "賛否のある批評を読み、その評価を自分の聴感と分ける。"
+    ],
+    "context": "2006年末のTrue Magicから。公式クレジットと2007年の異なる海外批評を合わせ、作品の再利用とMCの個性を考える。",
+    "sources": [
+      {
+        "label": "Apple Music — Crime & Medicine / 制作クレジット",
+        "url": "https://music.apple.com/us/song/1443203253",
+        "kind": "配信資料"
+      },
+      {
+        "label": "Glide — True Magic / Jack Spilberg（2007年2月25日）",
+        "url": "https://glidemagazine.com/9244/mos-def/",
+        "kind": "同時代批評"
+      },
+      {
+        "label": "AllMusic — True Magic / Andy Kellman",
+        "url": "https://www.allmusic.com/album/true-magic-mw0000768154",
+        "kind": "同時代批評"
+      },
+      {
+        "label": "Pitchfork — True Magic / Sean Fennessey（2007年1月4日）",
+        "url": "https://pitchfork.com/reviews/albums/9738-true-magic/",
+        "kind": "同時代批評"
+      },
+      {
+        "label": "Universal公式配信 — Crime & Medicine",
+        "url": "https://www.youtube.com/watch?v=z7cCyd8049M",
+        "kind": "公式音源"
+      }
+    ],
+    "addedOrder": 397,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+  },
+  {
+    "id": "krs-one-marley-marl-the-victory",
+    "title": "The Victory",
+    "artist": "KRS-One & Marley Marl feat. Blaq Poet",
+    "year": 2007,
+    "album": "Hip Hop Lives",
+    "label": "Koch",
+    "producer": "Marley Marl",
+    "producers": [
+      "Marley Marl"
+    ],
+    "region": "New York",
+    "scene": "Bronx / Queensbridge",
+    "category": "Hip Hop",
+    "moods": [
+      "ビート"
+    ],
+    "sounds": [
+      "ドラム",
+      "スクラッチ"
+    ],
+    "members": "",
+    "collections": [],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "samples": [],
+    "connections": [],
+    "youtube": {
+      "id": "65aPyJiWNmw",
+      "channel": "KRS-One - Topic",
+      "type": "Official Audio",
+      "url": "https://www.youtube.com/watch?v=65aPyJiWNmw",
+      "official": true
+    },
+    "art": {
+      "word": "THE VICTORY",
+      "tag": "KRS-ONE & MARLEY MARL FEAT. BLAQ POET",
+      "style": "piece",
+      "seed": 2482871192,
+      "profile": "ny-subway",
+      "palette": [
+        "#c2b753",
+        "#ab8b3e",
+        "#202123",
+        "#f0eee4"
+      ],
+      "paletteSource": "Hip Hop Lives / Apple Music配信カバー",
+      "lines": [
+        "THE VICTORY"
+      ],
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。",
+      "paletteNote": "公式カタログ・配信サービスの画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。"
+    },
+    "deck": "勝利とは、昔の相手をもう一度倒すことだけではない。",
+    "essayTitle": "対立の物語を、共同制作で書き換える。",
+    "essay": [
+      "KRS-OneとMarley Marlの2007年作『Hip Hop Lives』。「The Victory」にはBlaq Poetも加わる。かつて別の側に立っていた人々が同じレコードへ名前を並べる。その事実だけでも、この曲にはヒップホップの歴史を読み直す入口がある。",
+      "ただし、発売年になって突然仲直りしたという単純な話にはしない。2007年のUnkutによる直接取材でKRSは、Marleyとは以前から友人だったと語り、過去の対立だけで二人を捉える見方を正そうとしている。共同アルバムは関係の誕生というより、本人たちの実像を音で示す機会でもあった。",
+      "同じインタビューでKRSは、Marleyから送られた9曲をすべて録音し、その後House of Hitsでアルバム制作を進めたと回想する。一曲を選ぶはずが、九曲全部を返す。二人の共同作業を動かしたのは、過去の物語だけではなく、届いたビートへすぐに応じるMCの意欲だった。",
+      "「The Victory」ではDJ Premierのスクラッチにも耳を向けたい。Marleyのプロダクション、KRSとBlaq Poetのラップ、Premierのカット。異なる役割が一曲に集まると、かつて別々に語られた名前が、同じ時間を共有し始める。"
+    ],
+    "facts": [
+      {
+        "title": "2007年5月22日、Kochから",
+        "text": "Amoebaの原盤資料は発売日、レーベル、Blaq Poet参加と約3分48秒の曲目情報を掲載。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "敵から突然友人、ではない",
+        "text": "Unkutの2007年直接取材でKRSは、Marleyと以前から親しかったと説明している。対立の年表だけでなく、その後の本人の証言も読む。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "制作とスクラッチを分ける",
+        "text": "AmoebaはMarley MarlをProducer、DJ PremierをScratchesと記載。2007年のSagihiphop評もThe VictoryでのPremierのスクラッチに言及。",
+        "sources": [
+          0,
+          2
+        ]
+      }
+    ],
+    "listening": [
+      "KRSとBlaq Poetの声の対比を追う。",
+      "カットの役割を、ドラムや伴奏の制作とは分けて聴く。",
+      "過去の対立曲と比べるときは、2007年の本人の証言も併せて読む。"
+    ],
+    "context": "BronxとQueensbridgeの対立史を、その後の共同制作から読み直す。人物の役割と証言の時点を分けて紹介する。",
+    "sources": [
+      {
+        "label": "Amoeba — Hip Hop Lives / 原盤情報と制作クレジット",
+        "url": "https://www.amoeba.com/hip-hop-lives-cd-krs-one/albums/777872/",
+        "kind": "原盤資料"
+      },
+      {
+        "label": "Unkut — KRS-One直接インタビュー（2007年6月14日）",
+        "url": "https://unkut.com/2007/06/krs-one-the-unkut-interview/",
+        "kind": "本人取材"
+      },
+      {
+        "label": "Sagihiphop — Hip Hop Lives / 2007年フランス語批評",
+        "url": "https://sagihiphop.com/2007/07/16/krs-one-and-marley-marl-hip-hop-lives/",
+        "kind": "同時代批評"
+      },
+      {
+        "label": "Koch / eOne公式配信 — The Victory",
+        "url": "https://www.youtube.com/watch?v=65aPyJiWNmw",
+        "kind": "公式音源"
+      }
+    ],
+    "addedOrder": 398,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+  },
+  {
+    "id": "handsome-boy-modeling-school-if-it-wasnt-for-you",
+    "title": "If It Wasn't for You (feat. De La Soul & Starchild Excalibur)",
+    "artist": "Handsome Boy Modeling School",
+    "year": 2004,
+    "album": "White People",
+    "label": "Elektra",
+    "producer": "Prince Paul / Dan the Automator",
+    "region": "US",
+    "scene": "Prince Paul × Dan the Automator",
+    "category": "Underground Hip Hop",
+    "moods": [
+      "ディープ",
+      "個性的"
+    ],
+    "members": "Handsome Boy Modeling School",
+    "youtube": {
+      "id": "i1GZhvLhRpI",
+      "channel": "Tommy Boy",
+      "type": "Official Audio",
+      "url": "https://www.youtube.com/watch?v=i1GZhvLhRpI",
+      "official": true
+    },
+    "art": {
+      "word": "IF IT WASN'T FOR YOU (FEAT. DE LA SOUL & STARCHILD EXCALIBUR)",
+      "tag": "HANDSOME BOY MODELING SCHOOL",
+      "style": "piece",
+      "seed": 340209462,
+      "palette": [
+        "#e8e9e9",
+        "#293347",
+        "#252029",
+        "#b0894b"
+      ],
+      "paletteSource": "White People / 公式配信カバー",
+      "lines": [
+        "IF IT WASN'T FOR YOU (FEAT. DE LA SOUL & STARCHILD EXCALIBUR)"
+      ],
+      "lettering": "block",
+      "profile": "ny-subway",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。",
+      "paletteNote": "公式カタログ・配信サービスの画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。"
+    },
+    "deck": "Prince PaulとDan the Automatorの架空の学校へ、De La SoulとStarchild Excaliburが登場。2004年の共同制作をつなぐ一曲。",
+    "essayTitle": "架空の学校に集まる、本物の声。",
+    "essay": [
+      "Handsome Boy Modeling Schoolの名前には、最初から少し芝居がかった可笑しさがある。Prince PaulとDan the Automatorが組み、架空のモデル学校という設定をまとって音楽をつくる。その二人の2004年作『White People』で、「If It Wasn’t for You」はDe La SoulとStarchild Excaliburを迎えた曲として置かれている。",
+      "ここで大切なのは、客演の名前を飾りとして並べるだけで終わらないことだ。制作側にPrince Paul、ラップ側にDe La Soulという組み合わせを意識すると、グループの作品から共同プロジェクトへ視線が移る。別名義のアルバムは、誰かの脇道ではなく、音楽家同士のつながりが見える交差点でもある。",
+      "Warnerの公式紹介では、二人はナサニエル・メリーウェザーとチェスト・ロックウェルというモデルの人格まで用意している。1999年の前作から5年を経たセカンド作でも、その大掛かりな遊びは続く。顔ぶれの豪華さだけでなく、架空の学校という舞台が参加者たちをどう迎えるかにも、このプロジェクトの可笑しさがある。",
+      "ジャケットでは、着飾った二人が白いマネキンに囲まれて杯を持っている。見た目までひとつの冗談に仕立てながら、De La Soulを迎える一曲にはPrince Paulとのつながりがある。架空の学校の看板をくぐった先で、実在の音楽家たちの関係を辿っていく。"
+    ],
+    "facts": [
+      {
+        "title": "正式な曲名と客演",
+        "text": "『White People』の曲目では、De La SoulとStarchild Excaliburがこの曲の客演として並ぶ。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "2004年のセカンド作",
+        "text": "日本盤『White People』は2004年12月8日にElektraから発売。1999年のデビュー作から5年後のセカンド・アルバム。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "ふたりのモデル名義",
+        "text": "Prince Paulはチェスト・ロックウェル、Dan the Automatorはナサニエル・メリーウェザー。架空の人格まで含めて、モデル学校の世界が作られている。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "まずラップの区切りを追い、次に声が止まった隙間のビートへ耳を向ける。",
+      "アルバムの前後の曲と続けて聴き、一曲単位とは違う配置の意味を探してみる。"
+    ],
+    "context": "Prince Paul × Dan the Automator",
+    "sources": [
+      {
+        "label": "公式配信 — If It Wasn’t for You",
+        "url": "https://audiomack.com/handsome-boy-modeling-school/song/if-it-wasnt-for-you-1",
+        "kind": "公式"
+      },
+      {
+        "label": "Warner Music Japan — White People",
+        "url": "https://wmg.jp/handsome-boy-modeling-school/discography/2168",
+        "kind": "公式"
+      },
+      {
+        "label": "Tommy Boy公式音源",
+        "url": "https://www.youtube.com/watch?v=i1GZhvLhRpI",
+        "kind": "公式"
+      }
+    ],
+    "producers": [
+      "Prince Paul / Dan the Automator"
+    ],
+    "connections": [],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "addedOrder": 399,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
   }
 ]
