@@ -134,6 +134,7 @@ jobs:
           node scripts/verify_playback_browser.cjs
           node scripts/verify_graffiti_browser.cjs
           node scripts/verify_feature_portraits_browser.cjs
+          node scripts/verify_feature_swipe_browser.cjs
           node scripts/verify_social_sharing_browser.cjs
           node scripts/verify_url_migration_browser.cjs
           node scripts/verify_profile_notes_browser.cjs
@@ -153,6 +154,7 @@ jobs:
             /tmp/catalog-pagination-*.png
             /tmp/graffiti-*.png
             /tmp/feature-portrait-*.png
+            /tmp/feature-swipe-*.png
             /tmp/social-sharing-*.png
             /tmp/crawl-artwork-*.png
             /tmp/migration-navigation-*.png

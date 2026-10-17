@@ -175,10 +175,10 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
                 '<p class="feature-photo-credit">Photo: <a href="'+esc(v['source'],quote=True)+'">'+esc(v['author'])+'</a> · <a href="'+esc(v['licenseUrl'],quote=True)+'">'+esc(v['license'])+'</a><br>'+esc(v['changes'])+('<br>写真別出典: '+ ' · '.join('<a href="'+esc(c['source'],quote=True)+'">'+esc(c['label'])+'</a> (<a href="'+esc(c['licenseUrl'],quote=True)+'">license</a>)' for c in v['components']) if v.get('components') else '')+'</p></article>')
     add('#/artists', 'artists/', 'ARTISTS — アーティスト特集・一覧 / Crate Diggin’',
         'アーティスト特集と全掲載アーティストの楽曲一覧。',
-        '<h1>ARTISTS</h1><p><a href="'+base_path+'/producers/">PRODUCERS：プロデューサー特集へ ↗</a></p><div class="feature-grid">'+''.join(feature_card(f) for f in features if f['type']=='artist')+'</div><h2>ALL ARTISTS</h2><ul>'+''.join('<li><a href="'+base_path+'/artists/'+slugs[n]+'.html">'+esc(n)+'</a></li>' for n in names)+'</ul>')
+        '<h1>ARTISTS</h1><p><a href="'+base_path+'/producers/">PRODUCERS：プロデューサー特集へ ↗</a></p><p class="feature-swipe-hint">左右にスワイプして特集を探す →</p><div class="feature-grid feature-swipe" role="region" aria-label="特集カード一覧" tabindex="0">'+''.join(feature_card(f) for f in features if f['type']=='artist')+'</div><h2>ALL ARTISTS</h2><ul>'+''.join('<li><a href="'+base_path+'/artists/'+slugs[n]+'.html">'+esc(n)+'</a></li>' for n in names)+'</ul>')
     add('#/producers', 'producers/', 'PRODUCERS — プロデューサー特集 / Crate Diggin’',
         'ビートと制作背景からたどるプロデューサー特集。',
-        '<h1>PRODUCERS</h1><p><a href="'+base_path+'/artists/">ARTISTS：アーティスト特集へ ↗</a></p><div class="feature-grid">'+''.join(feature_card(f) for f in features if f['type']=='producer')+'</div>')
+        '<h1>PRODUCERS</h1><p><a href="'+base_path+'/artists/">ARTISTS：アーティスト特集へ ↗</a></p><p class="feature-swipe-hint">左右にスワイプして特集を探す →</p><div class="feature-grid feature-swipe" role="region" aria-label="特集カード一覧" tabindex="0">'+''.join(feature_card(f) for f in features if f['type']=='producer')+'</div>')
     for g in guides:
         selected = [next(t for t in tracks if t['id'] == tid) for tid in g['ids']]
         add('#/guide/' + g['id'], 'guides/' + g['id'] + '.html', g['title'] + ' — Crate Diggin’', g['description'],
