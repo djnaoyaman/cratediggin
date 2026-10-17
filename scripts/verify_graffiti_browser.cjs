@@ -5,6 +5,7 @@ const assert=require('node:assert/strict');
  try{
   for(const width of [1280,390]){
    const context=await browser.newContext({viewport:{width,height:width===390?844:720},reducedMotion:'reduce'});
+   await context.addInitScript(()=>Object.defineProperty(window,'CRATE_SITE_URL',{get:()=>location.origin+'/cratediggin',set(){}}));
    const page=await context.newPage(),errors=[];
    page.on('pageerror',e=>errors.push(e.message));
    await context.route('https://www.googletagmanager.com/**',r=>r.abort());
