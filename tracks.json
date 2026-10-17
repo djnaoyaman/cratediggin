@@ -17966,13 +17966,13 @@
       "seed": 2174,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#d3ba32",
+        "#bb3029",
+        "#64547b",
+        "#aaa17b"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Dont Be A Menace",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lines": [
         "MAINTAIN"
       ],
@@ -20417,13 +20417,13 @@
       "seed": 19980201,
       "profile": "la-open-sky",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#33558a",
+        "#d6c82e",
+        "#c83629",
+        "#5d8c47"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Lyricist Lounge Vol. 1",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lines": [
         "JAYOU"
       ],
@@ -22668,13 +22668,12 @@
       "seed": 2213,
       "profile": "ny-subway",
       "palette": [
-        "#608a78",
-        "#e2d5b5",
-        "#b38052",
-        "#29392f"
+        "#ad7b60",
+        "#d6404e",
+        "#e8e5df"
       ],
-      "paletteSource": "Mo' Wax期の編集上の仮配色",
-      "paletteNote": "既存のDJ Shadow作品の配色を暫定的に継承。個別ジャケットとの照合は未完了。",
+      "paletteSource": "Preemptive Strike",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -22762,13 +22761,12 @@
       "seed": 2215,
       "profile": "ny-subway",
       "palette": [
-        "#608a78",
-        "#e2d5b5",
-        "#b38052",
-        "#29392f"
+        "#356db7",
+        "#d7c542",
+        "#c5cccd"
       ],
-      "paletteSource": "Mo' Wax期の編集上の仮配色",
-      "paletteNote": "既存のDJ Shadow作品の配色を暫定的に継承。個別ジャケットとの照合は未完了。",
+      "paletteSource": "Lost And Found (S.F.L.)",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -23180,13 +23178,12 @@
       "seed": 1996226,
       "profile": "ny-subway",
       "palette": [
-        "#608a78",
-        "#e2d5b5",
-        "#b38052",
-        "#29392f"
+        "#1996b8",
+        "#31436c",
+        "#c3ddd8"
       ],
-      "paletteSource": "Endtroducing.....",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteSource": "The Number Song (Cut Chemist Remix)",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -24017,13 +24014,13 @@
       "seed": 2026101506,
       "profile": "ny-subway",
       "palette": [
-        "#eee4d2",
-        "#d94132",
-        "#334a61",
-        "#282722"
+        "#243d57",
+        "#d4ba97",
+        "#b64047",
+        "#725269"
       ],
-      "paletteSource": "The Less You Know, the Better",
-      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "paletteSource": "The Less You Know, The Better",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -24333,13 +24330,12 @@
       "seed": 2026101509,
       "profile": "ny-subway",
       "palette": [
-        "#c1c74d",
-        "#cc5844",
-        "#3e5053",
-        "#d6d2b5"
+        "#e52925",
+        "#f1d02b",
+        "#a8a8a8"
       ],
       "paletteSource": "Our Pathetic Age",
-      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -24438,13 +24434,12 @@
       "seed": 2026101510,
       "profile": "ny-subway",
       "palette": [
-        "#5a5180",
-        "#eaa44c",
-        "#a74878",
-        "#202e4f"
+        "#cd791f",
+        "#c53726",
+        "#34585c"
       ],
       "paletteSource": "Action Adventure",
-      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -24541,13 +24536,12 @@
       "seed": 2026101600,
       "profile": "ny-subway",
       "palette": [
-        "#d59a51",
-        "#dbc5a3",
-        "#694938",
-        "#352c2b"
+        "#b09b86",
+        "#564b41",
+        "#959994"
       ],
       "paletteSource": "Fantastic, Vol. 2",
-      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -24638,13 +24632,12 @@
       "seed": 2026101601,
       "profile": "ny-subway",
       "palette": [
-        "#d59a51",
-        "#dbc5a3",
-        "#694938",
-        "#352c2b"
+        "#b09b86",
+        "#564b41",
+        "#959994"
       ],
       "paletteSource": "Office Space / Fantastic, Vol. 2",
-      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -24735,13 +24728,12 @@
       "seed": 2026101602,
       "profile": "ny-subway",
       "palette": [
-        "#d59a51",
-        "#dbc5a3",
-        "#694938",
-        "#352c2b"
+        "#afa17a",
+        "#a8adb1",
+        "#294d95"
       ],
       "paletteSource": "Fuck the Police / Move",
-      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -24844,13 +24836,12 @@
       "seed": 2026101603,
       "profile": "ny-subway",
       "palette": [
-        "#d59a51",
-        "#dbc5a3",
-        "#694938",
-        "#352c2b"
+        "#292627",
+        "#563137",
+        "#9c3439"
       ],
       "paletteSource": "Champion Sound / The Red & The Official",
-      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -24955,13 +24946,12 @@
       "seed": 2026101604,
       "profile": "ny-subway",
       "palette": [
-        "#d59a51",
-        "#dbc5a3",
-        "#694938",
-        "#352c2b"
+        "#4b2325",
+        "#ad8964",
+        "#e2dec5"
       ],
       "paletteSource": "Donuts",
-      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -25064,13 +25054,12 @@
       "seed": 2026101605,
       "profile": "ny-subway",
       "palette": [
-        "#d59a51",
-        "#dbc5a3",
-        "#694938",
-        "#352c2b"
+        "#4b2325",
+        "#ad8964",
+        "#e2dec5"
       ],
       "paletteSource": "Donuts",
-      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -25173,13 +25162,12 @@
       "seed": 2026101606,
       "profile": "ny-subway",
       "palette": [
-        "#d59a51",
-        "#dbc5a3",
-        "#694938",
-        "#352c2b"
+        "#4b2325",
+        "#ad8964",
+        "#e2dec5"
       ],
       "paletteSource": "Donuts",
-      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -25282,13 +25270,13 @@
       "seed": 2026101607,
       "profile": "ny-subway",
       "palette": [
-        "#d59a51",
-        "#dbc5a3",
-        "#694938",
-        "#352c2b"
+        "#7c7932",
+        "#db9b35",
+        "#a43b29",
+        "#42232b"
       ],
       "paletteSource": "Mama's Gun",
-      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
