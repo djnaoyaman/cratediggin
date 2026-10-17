@@ -164,11 +164,13 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         copy='<h3>'+esc(f['name'])+'</h3><p>'+esc(f['editorial']['title'])+'</p><span>年代順で聴く ↗</span>'
         if not v:
             return '<a class="feature-card" href="'+href+'">'+copy+'</a>'
-        return ('<article class="feature-poster"><a class="feature-card feature-card--portrait" href="'+href+'"><div class="feature-portrait">'
+        if v.get('nameOnly'):
+            return '<article class="feature-poster"><a class="feature-card feature-card--portrait" href="'+href+'"><div class="feature-portrait feature-portrait--name"><span class="feature-paper-grain" aria-hidden="true"></span><span class="feature-tape" aria-hidden="true">'+('ARTIST FILE' if f['type']=='artist' else 'PRODUCER FILE')+'</span><img class="feature-name-tag" src="'+base_path+'/'+esc(v['tag'],quote=True)+'" alt="'+esc(v['alt'],quote=True)+'" loading="lazy"></div><div class="feature-poster-copy">'+copy+'</div></a></article>'
+        return ('<article class="feature-poster"><a class="feature-card feature-card--portrait" href="'+href+'"><div class="feature-portrait '+('feature-portrait--contain' if v.get('fit')=='contain' else '')+'">'
                 '<img class="feature-photo" src="'+base_path+'/'+esc(v['photo'],quote=True)+'" alt="'+esc(v['alt'],quote=True)+'" loading="lazy" style="object-position:'+esc(v.get('focus','50% 35%'),quote=True)+'">'
-                '<span class="feature-paper-grain" aria-hidden="true"></span><span class="feature-tape" aria-hidden="true">PRODUCER FILE</span>'
+                '<span class="feature-paper-grain" aria-hidden="true"></span><span class="feature-tape" aria-hidden="true">'+('ARTIST FILE' if f['type']=='artist' else 'PRODUCER FILE')+'</span>'
                 '<img class="feature-name-tag" src="'+base_path+'/'+esc(v['tag'],quote=True)+'" alt="" loading="lazy"></div><div class="feature-poster-copy">'+copy+'</div></a>'
-                '<p class="feature-photo-credit">Photo: <a href="'+esc(v['source'],quote=True)+'">'+esc(v['author'])+'</a> · <a href="'+esc(v['licenseUrl'],quote=True)+'">'+esc(v['license'])+'</a><br>'+esc(v['changes'])+'</p></article>')
+                '<p class="feature-photo-credit">Photo: <a href="'+esc(v['source'],quote=True)+'">'+esc(v['author'])+'</a> · <a href="'+esc(v['licenseUrl'],quote=True)+'">'+esc(v['license'])+'</a><br>'+esc(v['changes'])+('<br>写真別出典: '+ ' · '.join('<a href="'+esc(c['source'],quote=True)+'">'+esc(c['label'])+'</a> (<a href="'+esc(c['licenseUrl'],quote=True)+'">license</a>)' for c in v['components']) if v.get('components') else '')+'</p></article>')
     add('#/features', 'features/', 'アーティスト・プロデューサー特集 — Crate Diggin’',
         'DJ Naoyamanの視点で音楽性、制作背景、影響をたどるアーティスト・プロデューサー特集。',
         '<h1>DEEP IN THE CRATE.</h1>'+''.join('<section><h2>'+label+'</h2><div class="feature-grid">'+''.join(feature_card(f) for f in features if f['type']==kind)+'</div></section>' for kind,label in [('artist','アーティスト特集'),('producer','プロデューサー特集')]))

@@ -10,15 +10,15 @@ const assert=require('node:assert/strict');
    await context.route('https://www.googletagmanager.com/**',r=>r.abort());
    const page=await context.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));
    await page.goto('http://127.0.0.1:8765/cratediggin/features/');
-   const card=page.locator('.feature-poster').first();await card.scrollIntoViewIfNeeded();
-   await page.waitForFunction(()=>[...document.querySelectorAll('.feature-poster img')].every(i=>i.complete&&i.naturalWidth>0));
-   assert.equal(await page.locator('.feature-card').count(),15);
+   const card=page.locator('.feature-poster').filter({has:page.locator('h3',{hasText:'DJ Shadow'})});await card.scrollIntoViewIfNeeded();
+   await card.locator('.feature-photo').evaluate(i=>i.decode());await card.locator('.feature-name-tag').evaluate(i=>i.decode());
+   assert.equal(await page.locator('.feature-card').count(),15);assert.equal(await page.locator('.feature-poster').count(),15);assert.equal(await page.locator('.feature-photo').count(),12);
    assert((await card.innerText()).includes('Scott Sandars'));
    assert.equal(await card.locator('.feature-photo-credit a').last().getAttribute('href'),'https://creativecommons.org/licenses/by/2.0/');
    assert((await card.locator('.feature-photo').getAttribute('alt')).includes('DJ Shadow'));
    assert.equal(await card.locator('.feature-name-tag').getAttribute('alt'),'');
    assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
-   await card.screenshot({path:'/tmp/feature-portrait-'+width+'.png'});
+   await card.screenshot({path:'/tmp/feature-portrait-'+width+'.png'});for(const [i,c] of (await page.locator('.feature-poster').all()).entries()){await c.scrollIntoViewIfNeeded();await page.waitForFunction(()=>[...document.querySelectorAll('.feature-poster img')].filter(i=>i.getBoundingClientRect().top<innerHeight&&i.getBoundingClientRect().bottom>0).every(i=>i.complete&&i.naturalWidth>0));if(await c.locator('.feature-photo').count())assert(await c.locator('.feature-photo').getAttribute('alt'));await c.screenshot({path:'/tmp/feature-portrait-'+width+'-'+i+'.png'});}
    await card.locator('.feature-card').click();await page.locator('h1.section-title').filter({hasText:'DJ Shadow'}).waitFor();
    assert.deepEqual(errors,[]);await context.close();
   }

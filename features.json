@@ -23,7 +23,19 @@
         ],
         "connections": "Shadrachのサンプリングと、生演奏を取り入れた時期の作品を同じ棚に置くと、ジャンルを横断する歩みを具体的にたどれる。ここでは似た後続作品を推定するより、作り方が変わっても残る好奇心を聴きたい。"
       },
-      "aliases": []
+      "aliases": [],
+      "visual": {
+        "photo": "feature-beastie-boys-photo.webp",
+        "tag": "feature-beastie-boys-tag.webp",
+        "alt": "Beastie Boysの実写写真。撮影 Masao Nakagami。",
+        "author": "Masao Nakagami",
+        "source": "https://commons.wikimedia.org/wiki/File:Beastie-boys.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "changes": "表示時のトリミング・セピア調・クラフト紙レイヤー。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 2.0 を適用。",
+        "focus": "60% 50%",
+        "fit": "contain"
+      }
     },
     {
       "id": "main-source",
@@ -47,7 +59,12 @@
         ],
         "connections": "Live at the BarbequeへのNasの参加と、その後のIllmaticでのLarge Professorとの制作は、作品をまたぐ具体的な接点だ。後の展開を知って聴き直すと、一曲の中に次の時代の入口が見えてくる。"
       },
-      "aliases": []
+      "aliases": [],
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-main-source-tag.webp",
+        "alt": "Main Sourceの名前を描いたグラフィティ"
+      }
     },
     {
       "id": "black-sheep",
@@ -71,7 +88,12 @@
         ],
         "connections": "The Choice Is Yours (Revisited)の掛け合いとStrobelite Honeyの動きを並べる。Native Tonguesのつながりの中でも、Black Sheep独自の軽さと押しの強さが見えてくる。"
       },
-      "aliases": []
+      "aliases": [],
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-black-sheep-tag.webp",
+        "alt": "Black Sheepの名前を描いたグラフィティ"
+      }
     },
     {
       "id": "tribe",
@@ -108,7 +130,41 @@
         "Q-Tip",
         "The Ummah"
       ],
-      "identityNote": "A Tribe Called Questの作品と、Q-Tip / The Ummah名義の制作参加曲を同じ入口でたどります。グループ・個人・制作チームは同一名義として扱わず、区分して表示します。"
+      "identityNote": "A Tribe Called Questの作品と、Q-Tip / The Ummah名義の制作参加曲を同じ入口でたどります。グループ・個人・制作チームは同一名義として扱わず、区分して表示します。",
+      "visual": {
+        "photo": "feature-tribe-photo.webp",
+        "tag": "feature-tribe-tag.webp",
+        "alt": "A Tribe Called Questの実写写真。撮影 Mikael 'Mika' Väisänen (Q-Tip and Phife Dawg); Girlfierce Photography (Ali Shaheed Muhammad); WRBB 104.9 FM (Jarobi White); montage uploaded by RTSthestardust。",
+        "author": "Mikael 'Mika' Väisänen (Q-Tip and Phife Dawg); Girlfierce Photography (Ali Shaheed Muhammad); WRBB 104.9 FM (Jarobi White); montage uploaded by RTSthestardust",
+        "source": "https://commons.wikimedia.org/wiki/File:A_Tribe_Called_Quest_montage.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "表示時のトリミング・セピア調・クラフト紙レイヤー。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 4.0 (montage; see component credits) を適用。 実写写真を組み合わせたモンタージュ。",
+        "focus": "50% 50%",
+        "fit": "contain",
+        "components": [
+          {
+            "label": "Q-Tip",
+            "source": "https://commons.wikimedia.org/wiki/File:Q_tip-03.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          },
+          {
+            "label": "Ali Shaheed Muhammad",
+            "source": "https://commons.wikimedia.org/wiki/File:Ali_Shaheed_Muhammad_2008.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+          },
+          {
+            "label": "Phife Dawg",
+            "source": "https://commons.wikimedia.org/wiki/File:Phife_Dawg-mika.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+          },
+          {
+            "label": "Jarobi White",
+            "source": "https://commons.wikimedia.org/wiki/File:Jarobi_White.jpg",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+          }
+        ]
+      }
     },
     {
       "id": "gang-starr",
@@ -132,7 +188,19 @@
         ],
         "connections": "この棚ではDJ Premierの制作をNasやJeru the Damajaの曲でもたどれる。Guruとの組み合わせを出発点にすると、声が替わったときのビートの役割を聴き分けやすい。"
       },
-      "aliases": []
+      "aliases": [],
+      "visual": {
+        "photo": "feature-gang-starr-photo.webp",
+        "tag": "feature-gang-starr-tag.webp",
+        "alt": "Gang Starrの実写写真。撮影 Alan Mildor and Barbara Mürdter; composite by Karppinen。",
+        "author": "Alan Mildor and Barbara Mürdter; composite by Karppinen",
+        "source": "https://commons.wikimedia.org/wiki/File:DJ_Premier_and_Guru.jpg",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "changes": "表示時のトリミング・セピア調・クラフト紙レイヤー。人物・顔の生成や再描画はしていません。 実写写真を組み合わせたモンタージュ。",
+        "focus": "50% 15%",
+        "fit": "contain"
+      }
     },
     {
       "id": "public-enemy",
@@ -155,7 +223,19 @@
         ],
         "connections": "Shut Em Downの原曲とPete Rockのリミックスは、同じ言葉が別の音の文脈へ移る具体例だ。Public Enemyの声と制作を分けて聴くと、メッセージと音の密度の関係を考えやすい。"
       },
-      "aliases": []
+      "aliases": [],
+      "visual": {
+        "photo": "feature-public-enemy-photo.webp",
+        "tag": "feature-public-enemy-tag.webp",
+        "alt": "Public Enemyの実写写真。撮影 kowarski。",
+        "author": "kowarski",
+        "source": "https://commons.wikimedia.org/wiki/File:Chuck_D_and_Flavor_Flav_of_Public_Enemy.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "表示時のトリミング・セピア調・クラフト紙レイヤー。人物・顔の生成や再描画はしていません。",
+        "focus": "50% 25%",
+        "fit": "contain"
+      }
     },
     {
       "id": "nas",
@@ -178,7 +258,19 @@
         ],
         "connections": "The World Is YoursのPete Rockと、N.Y. State of MindやRepresentのDJ Premier。同じMCの言葉を異なる制作の耳が受け止める構成を、収録曲からたどれる。"
       },
-      "aliases": []
+      "aliases": [],
+      "visual": {
+        "photo": "feature-nas-photo.webp",
+        "tag": "feature-nas-tag.webp",
+        "alt": "Nasの実写写真。撮影 Mikael 'Mika' Väisänen / Mikamote。",
+        "author": "Mikael 'Mika' Väisänen / Mikamote",
+        "source": "https://commons.wikimedia.org/wiki/File:Nas-04.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "changes": "表示時のトリミング・セピア調・クラフト紙レイヤー。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 3.0 を適用。",
+        "focus": "50% 20%",
+        "fit": "cover"
+      }
     },
     {
       "id": "az",
@@ -201,7 +293,19 @@
         ],
         "connections": "Sugar HillからNasとの共演へ。同じ声が甘いトラックと別のMCの隣でどう振る舞うかを、掲載曲から聴き比べられる。影響力の大きさと売上の大きさを同じ尺度で測らないための特集でもある。"
       },
-      "aliases": []
+      "aliases": [],
+      "visual": {
+        "photo": "feature-az-photo.webp",
+        "tag": "feature-az-tag.webp",
+        "alt": "AZの実写写真。撮影 Mikael 'Mika' Väisänen / Mika-photography。",
+        "author": "Mikael 'Mika' Väisänen / Mika-photography",
+        "source": "https://commons.wikimedia.org/wiki/File:Az-03.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "changes": "表示時のトリミング・セピア調・クラフト紙レイヤー。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 3.0 を適用。",
+        "focus": "50% 20%",
+        "fit": "cover"
+      }
     },
     {
       "id": "dj-shadow",
@@ -279,7 +383,12 @@
         "J Dilla",
         "Jay Dee"
       ],
-      "identityNote": "同一人物の別名義 J Dilla / Jay Dee。The UmmahとJaylibは別名義ではなく共同プロジェクトです。制作クレジット・参加役割を区別して掲載しています。"
+      "identityNote": "同一人物の別名義 J Dilla / Jay Dee。The UmmahとJaylibは別名義ではなく共同プロジェクトです。制作クレジット・参加役割を区別して掲載しています。",
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-j-dilla-tag.webp",
+        "alt": "J Dilla / Jay Deeの名前を描いたグラフィティ"
+      }
     },
     {
       "id": "pete-rock",
@@ -306,7 +415,19 @@
         ],
         "connections": "Stones Throw掲載の取材で、DillaはMadlibのSP-1200の扱いに驚き、Pete Rockの仕事を比較の基準に挙げている。世代を越えた制作の耳が、同じ機材の可能性を聴き継いでいる。"
       },
-      "aliases": []
+      "aliases": [],
+      "visual": {
+        "photo": "feature-pete-rock-photo.webp",
+        "tag": "feature-pete-rock-tag.webp",
+        "alt": "Pete Rockの実写写真。撮影 Pinguino Kolb / pinguino k。",
+        "author": "Pinguino Kolb / pinguino k",
+        "source": "https://commons.wikimedia.org/wiki/File:Pete_Rock_at_Launch_Party.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "表示時のトリミング・セピア調・クラフト紙レイヤー。人物・顔の生成や再描画はしていません。",
+        "focus": "50% 10%",
+        "fit": "cover"
+      }
     },
     {
       "id": "erick-sermon",
@@ -329,7 +450,19 @@
         ],
         "connections": "EPMD名義の曲と、掲載しているRedmanやKeith Murrayへの制作を行き来する。提供先の声が変わっても残るファンクの感触をたどると、プロデューサーとしての仕事が見えてくる。"
       },
-      "aliases": []
+      "aliases": [],
+      "visual": {
+        "photo": "feature-erick-sermon-photo.webp",
+        "tag": "feature-erick-sermon-tag.webp",
+        "alt": "Erick Sermonの実写写真。撮影 Simon Abrams。",
+        "author": "Simon Abrams",
+        "source": "https://commons.wikimedia.org/wiki/File:Erick_Sermon_%289288240438%29.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "changes": "表示時のトリミング・セピア調・クラフト紙レイヤー。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 2.0 を適用。",
+        "focus": "35% 35%",
+        "fit": "cover"
+      }
     },
     {
       "id": "madlib",
@@ -364,7 +497,19 @@
         "Madlib",
         "Quasimoto"
       ],
-      "identityNote": "同一人物の別名義 Madlib / Quasimoto。Madvillain、Jaylib、Freddie Gibbs & Madlibは共同プロジェクトです。The Redの制作はJ Dillaとして区別しています。"
+      "identityNote": "同一人物の別名義 Madlib / Quasimoto。Madvillain、Jaylib、Freddie Gibbs & Madlibは共同プロジェクトです。The Redの制作はJ Dillaとして区別しています。",
+      "visual": {
+        "photo": "feature-madlib-photo.webp",
+        "tag": "feature-madlib-tag.webp",
+        "alt": "Madlib / Quasimotoの実写写真。撮影 Carl Pocket。",
+        "author": "Carl Pocket",
+        "source": "https://commons.wikimedia.org/wiki/File:MadlibMarch2014Echo_%28cropped%29.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "changes": "表示時のトリミング・セピア調・クラフト紙レイヤー。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 2.0 を適用。",
+        "focus": "50% 25%",
+        "fit": "cover"
+      }
     },
     {
       "id": "de-la-soul",
@@ -391,6 +536,18 @@
           }
         ],
         "connections": "Questloveが自身の音楽体験として語るDe La Soul。Stakes Is HighではJ Dillaの制作も聴ける。受け継がれるものと、その時々に出会う作り手が、一つのグループの歩みに重なる。"
+      },
+      "visual": {
+        "photo": "feature-de-la-soul-photo.webp",
+        "tag": "feature-de-la-soul-tag.webp",
+        "alt": "De La Soulの実写写真。撮影 Gozamos。",
+        "author": "Gozamos",
+        "source": "https://commons.wikimedia.org/wiki/File:De_La_Soul_%284971659790%29.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "changes": "表示時のトリミング・セピア調・クラフト紙レイヤー。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 2.0 を適用。",
+        "focus": "50% 50%",
+        "fit": "contain"
       }
     },
     {
@@ -418,6 +575,18 @@
           }
         ],
         "connections": "EPMDの棚からErick Sermonの制作特集へ進むと、グループ作品と外部制作を聴き比べられる。名義の違いを保ったまま、誰の耳が曲をつないでいるかを追える。"
+      },
+      "visual": {
+        "photo": "feature-epmd-photo.webp",
+        "tag": "feature-epmd-tag.webp",
+        "alt": "EPMDの実写写真。撮影 Simon Abrams。",
+        "author": "Simon Abrams",
+        "source": "https://commons.wikimedia.org/wiki/File:EPMD_%289288244052%29.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "changes": "表示時のトリミング・セピア調・クラフト紙レイヤー。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 2.0 を適用。",
+        "focus": "55% 30%",
+        "fit": "contain"
       }
     }
   ]
