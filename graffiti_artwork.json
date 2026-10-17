@@ -2168,14 +2168,19 @@
       "artist": "Queen Latifah",
       "album": "Black Reign",
       "palette": [
-        "#9f743e",
-        "#e4d2ae",
-        "#768760",
-        "#252820"
+        "#dac6a8",
+        "#977958",
+        "#534638",
+        "#222322"
       ],
       "paletteSource": "Black Reign",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/queen-latifah-u-n-i-t-y-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/black-reign/1443227533"
     },
     {
       "id": "monie-love-it-s-a-shame-my-sister",
@@ -2183,14 +2188,19 @@
       "artist": "Monie Love",
       "album": "Down to Earth",
       "palette": [
-        "#bd4c42",
-        "#e6dbbe",
-        "#7b9a9f",
-        "#262c2e"
+        "#70a3b3",
+        "#274b59",
+        "#de91a6",
+        "#e9edf0"
       ],
       "paletteSource": "Down to Earth",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/monie-love-it-s-a-shame-my-sister-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/down-to-earth/1629184915"
     },
     {
       "id": "mc-lyte-poor-georgie",
@@ -2198,14 +2208,19 @@
       "artist": "MC Lyte",
       "album": "Act Like You Know",
       "palette": [
-        "#bd664a",
-        "#e9d5b2",
-        "#9b9487",
-        "#342a23"
+        "#aeb7cb",
+        "#c59839",
+        "#9b293c",
+        "#242231"
       ],
       "paletteSource": "Act Like You Know",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/mc-lyte-poor-georgie-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/act-like-you-know/403726054"
     },
     {
       "id": "ll-cool-j-mama-said-knock-you-out",
@@ -2213,14 +2228,19 @@
       "artist": "LL Cool J",
       "album": "Mama Said Knock You Out",
       "palette": [
-        "#a94738",
-        "#e6d9bf",
-        "#7c8c84",
-        "#242a27"
+        "#b5a89e",
+        "#e2dcd4",
+        "#c93c3d",
+        "#222321"
       ],
       "paletteSource": "Mama Said Knock You Out",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービス掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/ll-cool-j-mama-said-knock-you-out-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://open.spotify.com/album/51alvFCEa3AwnZeKbpKxeZ"
     },
     {
       "id": "ll-cool-j-around-the-way-girl",
@@ -2228,14 +2248,19 @@
       "artist": "LL Cool J",
       "album": "Mama Said Knock You Out",
       "palette": [
-        "#a94738",
-        "#e6d9bf",
-        "#7c8c84",
-        "#242a27"
+        "#b5a89e",
+        "#e2dcd4",
+        "#c93c3d",
+        "#222321"
       ],
       "paletteSource": "Mama Said Knock You Out",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービス掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/ll-cool-j-around-the-way-girl-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://open.spotify.com/album/51alvFCEa3AwnZeKbpKxeZ"
     },
     {
       "id": "ll-cool-j-doin-it",
@@ -2243,14 +2268,19 @@
       "artist": "LL Cool J",
       "album": "Mr. Smith",
       "palette": [
-        "#a97852",
-        "#e2d2bb",
-        "#70838e",
-        "#262d32"
+        "#344f5b",
+        "#707e9b",
+        "#c3cbd8",
+        "#22343d"
       ],
       "paletteSource": "Mr. Smith",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービス掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/ll-cool-j-doin-it-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/mr-smith/1444087314?l=en-US"
     },
     {
       "id": "biz-markie-just-a-friend",
@@ -2273,14 +2303,19 @@
       "artist": "Slick Rick",
       "album": "The Great Adventures of Slick Rick",
       "palette": [
-        "#ce9e38",
-        "#e6dab7",
-        "#925b45",
-        "#29231d"
+        "#267ca9",
+        "#d6ae57",
+        "#54755c",
+        "#c43e3b"
       ],
       "paletteSource": "The Great Adventures of Slick Rick",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/slick-rick-children-s-story-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/the-great-adventures-of-slick-rick/1440834648"
     },
     {
       "id": "rakim-when-i-b-on-tha-mic",
@@ -2288,14 +2323,19 @@
       "artist": "Rakim",
       "album": "The Master",
       "palette": [
-        "#a54136",
-        "#e4d1b2",
-        "#7f8382",
-        "#262726"
+        "#785a9a",
+        "#b293b8",
+        "#bd4b61",
+        "#292433"
       ],
       "paletteSource": "The Master",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/rakim-when-i-b-on-tha-mic-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/the-master/1440921721"
     },
     {
       "id": "kool-g-rap-dj-polo-ill-street-blues",
@@ -2303,14 +2343,19 @@
       "artist": "Kool G Rap & DJ Polo",
       "album": "Live and Let Die",
       "palette": [
-        "#b04a34",
-        "#e1cba6",
-        "#76816c",
-        "#29271f"
+        "#4c5144",
+        "#afb0ae",
+        "#d8c241",
+        "#20231e"
       ],
       "paletteSource": "Live and Let Die",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/kool-g-rap-dj-polo-ill-street-blues-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://koolgrap.com/discography/"
     },
     {
       "id": "big-daddy-kane-ain-t-no-half-steppin",
@@ -2318,14 +2363,19 @@
       "artist": "Big Daddy Kane",
       "album": "Long Live the Kane",
       "palette": [
-        "#c29135",
-        "#e6d5aa",
-        "#995342",
-        "#28221a"
+        "#6c416f",
+        "#d6bd4b",
+        "#ede4d4",
+        "#674c38"
       ],
       "paletteSource": "Long Live the Kane",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/big-daddy-kane-ain-t-no-half-steppin-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/long-live-the-kane/442164816"
     },
     {
       "id": "epmd-you-gots-to-chill",

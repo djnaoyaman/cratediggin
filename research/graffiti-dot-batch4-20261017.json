@@ -1,0 +1,212 @@
+{
+  "state": "reviewed-candidate-pending-ci-and-deployment",
+  "createdAt": "2026-10-17",
+  "baselineCommit": "96fe0dce3da09596ecd9414e371cba352cb19d2a",
+  "publishedTransparentBaseline": 164,
+  "candidateTransparent": 174,
+  "catalogTotal": 381,
+  "remainingAfterCandidate": 207,
+  "paletteBasis": "Official licensed digital or artist-site covers visually inspected; editorial color approximations, not sampled measurements.",
+  "assets": [
+    {
+      "id": "queen-latifah-u-n-i-t-y",
+      "palette": [
+        "#dac6a8",
+        "#977958",
+        "#534638",
+        "#222322"
+      ],
+      "paletteSource": "Black Reign",
+      "coverUrl": "https://music.apple.com/us/album/black-reign/1443227533",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"U.N.I.T.Y.\".  Exact separate artist \"QUEEN LATIFAH\". Full wording accurately spelled, preserving apostrophes and punctuation, no omissions or abbreviations. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: cream beige, warm sepia brown, dark brown and black with opaque white (#dac6a8, #977958, #534638, #222322). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital presentation at source URL; do not label original first pressing",
+      "image": "assets/graffiti/queen-latifah-u-n-i-t-y-alpha.webp",
+      "bytes": 643928,
+      "blobSha": "71e85fc4ff48bcb8da205c61525504ea430c87ad",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "monie-love-it-s-a-shame-my-sister",
+      "palette": [
+        "#70a3b3",
+        "#274b59",
+        "#de91a6",
+        "#e9edf0"
+      ],
+      "paletteSource": "Down to Earth",
+      "coverUrl": "https://music.apple.com/us/album/down-to-earth/1629184915",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"IT'S A SHAME\". Required legible subtitle \"(MY SISTER)\". Exact separate artist \"MONIE LOVE\". Full wording accurately spelled, preserving apostrophes and punctuation, no omissions or abbreviations. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: washed cyan blue, deep teal, small dusty pink accents, opaque white and black (#70a3b3, #274b59, #de91a6, #e9edf0). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital presentation at source URL; do not label original first pressing",
+      "image": "assets/graffiti/monie-love-it-s-a-shame-my-sister-alpha.webp",
+      "bytes": 542230,
+      "blobSha": "f0bdd5f7fc1caeb25bf3f180da5580151b624d77",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "mc-lyte-poor-georgie",
+      "palette": [
+        "#aeb7cb",
+        "#c59839",
+        "#9b293c",
+        "#242231"
+      ],
+      "paletteSource": "Act Like You Know",
+      "coverUrl": "https://music.apple.com/us/album/act-like-you-know/403726054",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"POOR GEORGIE\".  Exact separate artist \"MC LYTE\". Full wording accurately spelled, preserving apostrophes and punctuation, no omissions or abbreviations. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: pale lavender blue, mustard yellow, dark crimson red, opaque white and black (#aeb7cb, #c59839, #9b293c, #242231). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital presentation at source URL; do not label original first pressing",
+      "image": "assets/graffiti/mc-lyte-poor-georgie-alpha.webp",
+      "bytes": 640970,
+      "blobSha": "ea701d73d43e324df4ec02daddc48dce30179d16",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "ll-cool-j-mama-said-knock-you-out",
+      "palette": [
+        "#b5a89e",
+        "#e2dcd4",
+        "#c93c3d",
+        "#222321"
+      ],
+      "paletteSource": "Mama Said Knock You Out",
+      "coverUrl": "https://open.spotify.com/album/51alvFCEa3AwnZeKbpKxeZ",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"MAMA SAID KNOCK YOU OUT\". Exact separate artist \"LL COOL J\". Full wording accurately spelled, preserving apostrophes, no omissions or abbreviations. Long title may use multiple legible lines. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: warm silver, muted sepia gray, bright red accents, opaque white and near-black (#b5a89e, #e2dcd4, #c93c3d, #222321). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "公式配信サービス掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital presentation at source URL; do not label original first pressing",
+      "image": "assets/graffiti/ll-cool-j-mama-said-knock-you-out-alpha.webp",
+      "bytes": 633532,
+      "blobSha": "95d1510699d79175445ed4e47a502d6862dd749b",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "ll-cool-j-around-the-way-girl",
+      "palette": [
+        "#b5a89e",
+        "#e2dcd4",
+        "#c93c3d",
+        "#222321"
+      ],
+      "paletteSource": "Mama Said Knock You Out",
+      "coverUrl": "https://open.spotify.com/album/51alvFCEa3AwnZeKbpKxeZ",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"AROUND THE WAY GIRL\". Exact separate artist \"LL COOL J\". Full wording accurately spelled, preserving apostrophes, no omissions or abbreviations. Long title may use multiple legible lines. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: warm silver, muted sepia gray, bright red accents, opaque white and near-black (#b5a89e, #e2dcd4, #c93c3d, #222321). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "公式配信サービス掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital presentation at source URL; do not label original first pressing",
+      "image": "assets/graffiti/ll-cool-j-around-the-way-girl-alpha.webp",
+      "bytes": 580908,
+      "blobSha": "a00517b5aed7aabbba3a5bcafc1132a45307f65e",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "ll-cool-j-doin-it",
+      "palette": [
+        "#344f5b",
+        "#707e9b",
+        "#c3cbd8",
+        "#22343d"
+      ],
+      "paletteSource": "Mr. Smith",
+      "coverUrl": "https://music.apple.com/us/album/mr-smith/1444087314?l=en-US",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"DOIN' IT\". Exact separate artist \"LL COOL J\". Full wording accurately spelled, preserving apostrophes, no omissions or abbreviations. Long title may use multiple legible lines. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: dark blue gray teal, muted blue lavender, pale silver white and black (#344f5b, #707e9b, #c3cbd8, #22343d). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "公式配信サービス掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital presentation at source URL; do not label original first pressing",
+      "image": "assets/graffiti/ll-cool-j-doin-it-alpha.webp",
+      "bytes": 599762,
+      "blobSha": "f9bdcdb7605e45dc18ad473e0483e990214b29aa",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "slick-rick-children-s-story",
+      "palette": [
+        "#267ca9",
+        "#d6ae57",
+        "#54755c",
+        "#c43e3b"
+      ],
+      "paletteSource": "The Great Adventures of Slick Rick",
+      "coverUrl": "https://music.apple.com/us/album/the-great-adventures-of-slick-rick/1440834648",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"CHILDREN'S STORY\". Exact separate artist \"SLICK RICK\". Full wording accurately spelled, preserving apostrophes, hyphens and ampersands, no omissions or abbreviations. Long title may use multiple legible lines. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: sky blue, golden yellow, muted green, red, opaque white and black (#267ca9, #d6ae57, #54755c, #c43e3b). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital presentation at source URL; do not label original first pressing",
+      "image": "assets/graffiti/slick-rick-children-s-story-alpha.webp",
+      "bytes": 607576,
+      "blobSha": "d6e79fa28ea31ba5ac44e8a2753669aabc155cb0",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "rakim-when-i-b-on-tha-mic",
+      "palette": [
+        "#785a9a",
+        "#b293b8",
+        "#bd4b61",
+        "#292433"
+      ],
+      "paletteSource": "The Master",
+      "coverUrl": "https://music.apple.com/us/album/the-master/1440921721",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"WHEN I B ON THA MIC\". Exact separate artist \"RAKIM\". Full wording accurately spelled, preserving apostrophes, hyphens and ampersands, no omissions or abbreviations. Long title may use multiple legible lines. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: violet purple, muted lavender, small muted pink red accents, opaque white and near-black (#785a9a, #b293b8, #bd4b61, #292433). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital presentation at source URL; do not label original first pressing",
+      "image": "assets/graffiti/rakim-when-i-b-on-tha-mic-alpha.webp",
+      "bytes": 629634,
+      "blobSha": "cb6173c4a05b7ba73500cf3772e84f13175b4b1e",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "kool-g-rap-dj-polo-ill-street-blues",
+      "palette": [
+        "#4c5144",
+        "#afb0ae",
+        "#d8c241",
+        "#20231e"
+      ],
+      "paletteSource": "Live and Let Die",
+      "coverUrl": "https://koolgrap.com/discography/",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"ILL STREET BLUES\". Exact separate artist \"KOOL G RAP & DJ POLO\". Full wording accurately spelled, preserving apostrophes, hyphens and ampersands, no omissions or abbreviations. Long title may use multiple legible lines. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: near-black olive gray, pale gray, yellow title accents, opaque white and black (#4c5144, #afb0ae, #d8c241, #20231e). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital presentation at source URL; do not label original first pressing",
+      "image": "assets/graffiti/kool-g-rap-dj-polo-ill-street-blues-alpha.webp",
+      "bytes": 679550,
+      "blobSha": "e480b48d3e9aa2e402c10e5c9733beb083c06105",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "big-daddy-kane-ain-t-no-half-steppin",
+      "palette": [
+        "#6c416f",
+        "#d6bd4b",
+        "#ede4d4",
+        "#674c38"
+      ],
+      "paletteSource": "Long Live the Kane",
+      "coverUrl": "https://music.apple.com/us/album/long-live-the-kane/442164816",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"AIN'T NO HALF-STEPPIN'\". Exact separate artist \"BIG DADDY KANE\". Full wording accurately spelled, preserving apostrophes, hyphens and ampersands, no omissions or abbreviations. Long title may use multiple legible lines. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: purple violet, golden yellow, warm brown shadows, opaque white and black (#6c416f, #d6bd4b, #ede4d4, #674c38). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital presentation at source URL; do not label original first pressing",
+      "image": "assets/graffiti/big-daddy-kane-ain-t-no-half-steppin-alpha.webp",
+      "bytes": 612600,
+      "blobSha": "e0bca33bafcf9c0f53f3bd6d74002a523b9ce5e1",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    }
+  ]
+}
