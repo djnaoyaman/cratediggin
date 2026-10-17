@@ -4,6 +4,7 @@ from urllib.parse import urlparse, quote
 from pathlib import Path
 from listening_shelves import load_shelves
 from catalog import review_state, sample_projection, feature_tracks as select_feature_tracks
+from art_motion import motion_for_track
 ROOT=Path(__file__).parent
 DIST=ROOT/'dist'
 HOST=os.environ.get('SITE_URL','https://djnaoyaman.github.io/cratediggin').rstrip('/')
@@ -51,6 +52,7 @@ import shutil
 artwork_data=json.loads((ROOT/'graffiti_artwork.json').read_text(encoding='utf-8'))
 artwork_by_id={a['id']:a for a in artwork_data['tracks']}
 for t in tracks:
+    t['art']['motion']=motion_for_track(t)
     piece=artwork_by_id.get(t['id'],{})
     t['art']['alt']=t['title']+' — '+t['artist']+'｜CRATE DIGGIN｜DJ Naoyaman'
     if piece.get('status')=='ready':
