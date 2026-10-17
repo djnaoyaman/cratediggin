@@ -1,0 +1,592 @@
+{
+  "state": "reviewed-candidate-pending-ci-and-deployment",
+  "createdAt": "2026-10-17",
+  "baselineCommit": "60c3f21f694ada9f27b65bf53b59d46f68815652",
+  "publishedTransparentBaseline": 135,
+  "candidateTransparent": 164,
+  "catalogTotal": 381,
+  "remainingAfterCandidate": 217,
+  "paletteBasis": "Official licensed digital covers visually inspected; editorial color approximations, not sampled measurements.",
+  "assets": [
+    {
+      "id": "raekwon-ice-cream",
+      "palette": [
+        "#e74c26",
+        "#eebc39",
+        "#f7ecdb",
+        "#272021"
+      ],
+      "paletteSource": "Only Built 4 Cuban Linx...",
+      "coverUrl": "https://music.apple.com/ao/album/only-built-4-cuban-linx/258634938",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"ICE CREAM\". Exact smaller artist \"RAEKWON\". Full wording accurately spelled, no omissions or abbreviations. For a long title use a legible multi-line arrangement. Wide horizontal composition, generous 12% clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: fiery orange red, yellow gold, creamy white and black (#e74c26, #eebc39, #f7ecdb, #272021). Colors reference the cover only, do not reproduce album imagery, characters or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/raekwon-ice-cream-alpha.webp",
+      "bytes": 533128,
+      "blobSha": "88e3727899acfee7dc924818f86bdd4a2ecf6fc6",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "de-la-soul-a-roller-skating-jam-named-saturdays",
+      "palette": [
+        "#b95a35",
+        "#30563b",
+        "#d9bd45",
+        "#f4f2e8"
+      ],
+      "paletteSource": "De La Soul Is Dead",
+      "coverUrl": "https://music.apple.com/us/album/de-la-soul-is-dead/1673848395?uo=4",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"A ROLLER SKATING JAM NAMED SATURDAYS\". Exact smaller artist \"DE LA SOUL\". Full wording accurately spelled, no omissions or abbreviations. For a long title use a legible multi-line arrangement. Wide horizontal composition, generous 12% clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: terracotta orange, deep leafy green, small yellow accents, opaque white and black (#b95a35, #30563b, #d9bd45, #f4f2e8). Colors reference the cover only, do not reproduce album imagery, characters or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/de-la-soul-a-roller-skating-jam-named-saturdays-alpha.webp",
+      "bytes": 644894,
+      "blobSha": "b46edce64f3c7c33733d49df2898557b293b9a58",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "de-la-soul-stakes-is-high",
+      "palette": [
+        "#f4f4f1",
+        "#c5c5c2",
+        "#737371",
+        "#252525"
+      ],
+      "paletteSource": "Stakes Is High",
+      "coverUrl": "https://music.apple.com/us/album/stakes-is-high/1674203676?uo=4",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"STAKES IS HIGH\". Exact smaller artist \"DE LA SOUL\". Full wording accurately spelled, no omissions or abbreviations. For a long title use a legible multi-line arrangement. Wide horizontal composition, generous 12% clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: strict black, opaque white and neutral gray monochrome only; no blue, green or warm color (#f4f4f1, #c5c5c2, #737371, #252525). Colors reference the cover only, do not reproduce album imagery, characters or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/de-la-soul-stakes-is-high-alpha.webp",
+      "bytes": 484450,
+      "blobSha": "65fa2633282fb7ac0d232ac12da756dccffafd22",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "de-la-soul-breakadawn",
+      "palette": [
+        "#38a99c",
+        "#e16b35",
+        "#8260a0",
+        "#e7c542"
+      ],
+      "paletteSource": "Buhloone Mindstate",
+      "coverUrl": "https://music.apple.com/us/album/buhloone-mindstate/1673847295?uo=4",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"BREAKADAWN\". Exact smaller artist \"DE LA SOUL\". Full wording accurately spelled, no omissions or abbreviations. For a long title use a legible multi-line arrangement. Wide horizontal composition, generous 12% clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: turquoise green, orange red, purple and yellow, opaque white and black (#38a99c, #e16b35, #8260a0, #e7c542). Colors reference the cover only, do not reproduce album imagery, characters or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/de-la-soul-breakadawn-alpha.webp",
+      "bytes": 575684,
+      "blobSha": "7cc48480941cbeb7cf1b7bcfb5ba3b7b491ddd64",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "black-sheep-the-choice-is-yours-revisited",
+      "palette": [
+        "#eee7d7",
+        "#766353",
+        "#a93231",
+        "#282622"
+      ],
+      "paletteSource": "A Wolf in Sheep's Clothing",
+      "coverUrl": "https://music.apple.com/us/album/a-wolf-in-sheeps-clothing/1440723017",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"THE CHOICE IS YOURS\". Required legible smaller subtitle \"(REVISITED)\". Exact separate artist \"BLACK SHEEP\". Full wording accurately spelled, no omissions or abbreviations. Arrange subtitle and artist on separate readable lines below main title. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: cream white, muted brown, small dark red accents and black (#eee7d7, #766353, #a93231, #282622). Colors reference the cover only, do not reproduce album imagery, characters or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/black-sheep-the-choice-is-yours-revisited-alpha.webp",
+      "bytes": 541350,
+      "blobSha": "3871a9746f8616b9ded82ceceb6e82424a8fa8e5",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "grand-puba-i-like-it-i-wanna-be-where-you-are",
+      "palette": [
+        "#e8e8e5",
+        "#939799",
+        "#414b47",
+        "#202123"
+      ],
+      "paletteSource": "2000",
+      "coverUrl": "https://music.apple.com/us/album/2000/1872806597",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"I LIKE IT\". Required legible smaller subtitle \"(I WANNA BE WHERE YOU ARE)\". Exact separate artist \"GRAND PUBA\". Full wording accurately spelled, no omissions or abbreviations. Arrange subtitle and artist on separate readable lines below main title. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: black, opaque white and silver gray, with faint desaturated olive-gray accents, no gold (#e8e8e5, #939799, #414b47, #202123). Colors reference the cover only, do not reproduce album imagery, characters or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/grand-puba-i-like-it-i-wanna-be-where-you-are-alpha.webp",
+      "bytes": 585244,
+      "blobSha": "ebeb2982a3c59a260c56cc0584f2e9b9a9d9d8a2",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "digable-planets-rebirth-of-slick-cool-like-dat",
+      "palette": [
+        "#355bb0",
+        "#b74c9a",
+        "#dac63d",
+        "#8ca451"
+      ],
+      "paletteSource": "Reachin' (A New Refutation of Time and Space)",
+      "coverUrl": "https://music.apple.com/us/album/reachin-a-new-refutation-of-time-and-space/725211790",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"REBIRTH OF SLICK\". Required legible smaller subtitle \"(COOL LIKE DAT)\". Exact separate artist \"DIGABLE PLANETS\". Full wording accurately spelled, no omissions or abbreviations. Arrange subtitle and artist on separate readable lines below main title. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: blue, magenta purple, yellow green, opaque white and black (#355bb0, #b74c9a, #dac63d, #8ca451). Colors reference the cover only, do not reproduce album imagery, characters or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/digable-planets-rebirth-of-slick-cool-like-dat-alpha.webp",
+      "bytes": 689454,
+      "blobSha": "3f12640f4c005a93e0d18d1e10bafad7b5544df7",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "digable-planets-9th-wonder-blackitolism",
+      "palette": [
+        "#9c8fa5",
+        "#dcd0b4",
+        "#f0e8d7",
+        "#27242b"
+      ],
+      "paletteSource": "Blowout Comb",
+      "coverUrl": "https://music.apple.com/us/album/blowout-comb/724050563?uo=4",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"9TH WONDER\". Required legible smaller subtitle \"(BLACKITOLISM)\". Exact separate artist \"DIGABLE PLANETS\". Full wording accurately spelled, no omissions or abbreviations. Arrange subtitle and artist on separate readable lines below main title. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: muted lavender purple, cream beige, opaque white and black (#9c8fa5, #dcd0b4, #f0e8d7, #27242b). Colors reference the cover only, do not reproduce album imagery, characters or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/digable-planets-9th-wonder-blackitolism-alpha.webp",
+      "bytes": 691300,
+      "blobSha": "5aecb5a66d2fee4ec7ce54631d223c8ec3c856b2",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "us3-cantaloop-flip-fantasia",
+      "palette": [
+        "#eee3c9",
+        "#323e8c",
+        "#d58449",
+        "#8c9665"
+      ],
+      "paletteSource": "Hand on the Torch",
+      "coverUrl": "https://music.apple.com/us/album/hand-on-the-torch/724502027?uo=4",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"CANTALOOP\". Required legible subtitle \"(FLIP FANTASIA)\". Exact separate artist \"US3\". Full wording accurately spelled, no omissions or abbreviations. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: cream, indigo blue, muted orange and olive with a small dusty pink accent (#eee3c9, #323e8c, #d58449, #8c9665). Colors reference the cover only, do not reproduce album imagery, characters or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/us3-cantaloop-flip-fantasia-alpha.webp",
+      "bytes": 610012,
+      "blobSha": "94885d2ab24e4d7e9379d18acf56a526453734f9",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "the-roots-proceed",
+      "palette": [
+        "#2b9fb5",
+        "#9fd3d7",
+        "#163c56",
+        "#182731"
+      ],
+      "paletteSource": "Do You Want More?!!!??!",
+      "coverUrl": "https://music.apple.com/us/album/do-you-want-more/1725363561",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"PROCEED\".  Exact separate artist \"THE ROOTS\". Full wording accurately spelled, no omissions or abbreviations. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: strong cyan blue, pale cyan, navy and black, opaque white letter paint (#2b9fb5, #9fd3d7, #163c56, #182731). Colors reference the cover only, do not reproduce album imagery, characters or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/the-roots-proceed-alpha.webp",
+      "bytes": 610294,
+      "blobSha": "d89fa4c656ae8d2c10076751168c3280e6823a23",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "the-roots-what-they-do",
+      "palette": [
+        "#89522e",
+        "#c0ad4d",
+        "#e3d2b3",
+        "#28201c"
+      ],
+      "paletteSource": "Illadelph Halflife",
+      "coverUrl": "https://music.apple.com/us/album/illadelph-halflife/1440646391",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"WHAT THEY DO\". Exact separate artist \"THE ROOTS\". Full wording accurately spelled, no omissions or abbreviations. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: sepia rust brown, muted yellow green, cream highlights and black (#89522e, #c0ad4d, #e3d2b3, #28201c). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/the-roots-what-they-do-alpha.webp",
+      "bytes": 633416,
+      "blobSha": "3c2a4049045851af10e4075398db72648356920f",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "common-the-light",
+      "palette": [
+        "#235641",
+        "#64816c",
+        "#e6e6de",
+        "#252825"
+      ],
+      "paletteSource": "Like Water for Chocolate",
+      "coverUrl": "https://music.apple.com/us/album/like-water-for-chocolate/1443734256?uo=4",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"THE LIGHT\". Exact separate artist \"COMMON\". Full wording accurately spelled, no omissions or abbreviations. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: forest green, muted sage green, monochrome gray white and black (#235641, #64816c, #e6e6de, #252825). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/common-the-light-alpha.webp",
+      "bytes": 572408,
+      "blobSha": "fce4d0ecc996a64530959315e4a864892fcac5d1",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "mos-def-ms-fat-booty",
+      "palette": [
+        "#bb793c",
+        "#7a4c2d",
+        "#e5d6bd",
+        "#241d1c"
+      ],
+      "paletteSource": "Black on Both Sides",
+      "coverUrl": "https://music.apple.com/us/album/black-on-both-sides/1444213589",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"MS. FAT BOOTY\". Exact separate artist \"MOS DEF\". Full wording accurately spelled, no omissions or abbreviations. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: warm amber copper, dark brown, creamy white and near-black (#bb793c, #7a4c2d, #e5d6bd, #241d1c). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/mos-def-ms-fat-booty-alpha.webp",
+      "bytes": 661886,
+      "blobSha": "592cba01a36ade8bab56132147edf9193b606a41",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "black-star-definition",
+      "palette": [
+        "#e8d789",
+        "#cf5c32",
+        "#47754d",
+        "#28261e"
+      ],
+      "paletteSource": "Mos Def & Talib Kweli Are Black Star",
+      "coverUrl": "https://music.apple.com/us/album/mos-def-talib-kweli-are-black-star/1440799801",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"DEFINITION\". Exact separate artist \"BLACK STAR\". Full wording accurately spelled, no omissions or abbreviations. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: cream yellow, orange red, muted green and black (#e8d789, #cf5c32, #47754d, #28261e). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/black-star-definition-alpha.webp",
+      "bytes": 524864,
+      "blobSha": "da6fe5516c8e924a85460a38bbf0a779640622c4",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "pharoahe-monch-simon-says",
+      "palette": [
+        "#67232d",
+        "#bf5530",
+        "#dfca7a",
+        "#221c20"
+      ],
+      "paletteSource": "Internal Affairs",
+      "coverUrl": "https://music.apple.com/us/album/internal-affairs/1480358751",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"SIMON SAYS\". Exact separate artist \"PHAROAHE MONCH\". Full wording accurately spelled, preserving apostrophes, punctuation and ampersands, no omissions or abbreviations. Long title can use multiple legible lines. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: dark burgundy red, burnt orange, muted yellow white and black (#67232d, #bf5530, #dfca7a, #221c20). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/pharoahe-monch-simon-says-alpha.webp",
+      "bytes": 640096,
+      "blobSha": "f1695d7f4d63d70335a921fec413e31db265158c",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "krs-one-mc-s-act-like-they-don-t-know",
+      "palette": [
+        "#d99356",
+        "#a56535",
+        "#ead1ad",
+        "#33281f"
+      ],
+      "paletteSource": "KRS-One",
+      "coverUrl": "https://music.apple.com/us/album/krs-one/254976930",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"MC'S ACT LIKE THEY DON'T KNOW\". Exact separate artist \"KRS-ONE\". Full wording accurately spelled, preserving apostrophes, punctuation and ampersands, no omissions or abbreviations. Long title can use multiple legible lines. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: golden orange peach, brown, cream white and black (#d99356, #a56535, #ead1ad, #33281f). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/krs-one-mc-s-act-like-they-don-t-know-alpha.webp",
+      "bytes": 693104,
+      "blobSha": "3c3c90e9154c776c7a18fdc503c71d6bdb4321d2",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "krs-one-sound-of-da-police",
+      "palette": [
+        "#18304b",
+        "#718ca3",
+        "#d9a34a",
+        "#ecebe3"
+      ],
+      "paletteSource": "Return of the Boom Bap",
+      "coverUrl": "https://music.apple.com/us/album/return-of-the-boom-bap/267251596",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"SOUND OF DA POLICE\". Exact separate artist \"KRS-ONE\". Full wording accurately spelled, preserving apostrophes, punctuation and ampersands, no omissions or abbreviations. Long title can use multiple legible lines. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: deep navy, muted blue, orange gold, opaque white and black (#18304b, #718ca3, #d9a34a, #ecebe3). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/krs-one-sound-of-da-police-alpha.webp",
+      "bytes": 578944,
+      "blobSha": "9100d19931d4aa6257030b7ff1b5490360b18119",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "eric-b-rakim-don-t-sweat-the-technique",
+      "palette": [
+        "#d9cfdf",
+        "#e7a33b",
+        "#836982",
+        "#eeeae2"
+      ],
+      "paletteSource": "Don't Sweat the Technique",
+      "coverUrl": "https://music.apple.com/us/album/dont-sweat-the-technique/1440798360?uo=4",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"DON'T SWEAT THE TECHNIQUE\". Exact separate artist \"ERIC B. & RAKIM\". Full wording accurately spelled, preserving apostrophes, punctuation and ampersands, no omissions or abbreviations. Long title can use multiple legible lines. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: opaque white, pale lavender gray, orange yellow, muted purple and black (#d9cfdf, #e7a33b, #836982, #eeeae2). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/eric-b-rakim-don-t-sweat-the-technique-alpha.webp",
+      "bytes": 629342,
+      "blobSha": "67030288a2186382e3d44a00227f0dbf7a0b12ca",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "epmd-so-wat-cha-sayin",
+      "palette": [
+        "#76a4c4",
+        "#e3e5df",
+        "#b39a5e",
+        "#292929"
+      ],
+      "paletteSource": "Unfinished Business",
+      "coverUrl": "https://music.apple.com/us/album/unfinished-business/723820648",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"SO WAT CHA SAYIN'\". Exact separate artist \"EPMD\". Full wording accurately spelled, preserving apostrophes, punctuation and ampersands, no omissions or abbreviations. Long title can use multiple legible lines. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: sky blue, white gray, muted gold and black (#76a4c4, #e3e5df, #b39a5e, #292929). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/epmd-so-wat-cha-sayin-alpha.webp",
+      "bytes": 582312,
+      "blobSha": "dc9bc035c5074bc111b1fe65911463de585b186c",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "das-efx-they-want-efx",
+      "palette": [
+        "#b3b63d",
+        "#674a85",
+        "#a83d84",
+        "#25315a"
+      ],
+      "paletteSource": "Dead Serious",
+      "coverUrl": "https://music.apple.com/us/album/dead-serious/305123831",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"THEY WANT EFX\". Exact separate artist \"DAS EFX\". Full wording accurately spelled, preserving apostrophes, punctuation and ampersands, no omissions or abbreviations. Long title can use multiple legible lines. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: acid yellow green olive, purple, magenta and deep navy with opaque white and black (#b3b63d, #674a85, #a83d84, #25315a). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/das-efx-they-want-efx-alpha.webp",
+      "bytes": 624130,
+      "blobSha": "a31fc9c414a140e26e274ab89a83dd5e53067a05",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "redman-tonight-s-da-night",
+      "palette": [
+        "#a42c32",
+        "#d4443a",
+        "#eeece4",
+        "#282322"
+      ],
+      "paletteSource": "Whut? Thee Album",
+      "coverUrl": "https://music.apple.com/us/album/whut-thee-album/1440921502",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"TONIGHT'S DA NIGHT\". Exact separate artist \"REDMAN\". Full wording accurately spelled, preserving apostrophes, punctuation and ampersands, no omissions or abbreviations. Long title can use multiple legible lines. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: saturated dark red, red, opaque white and black (#a42c32, #d4443a, #eeece4, #282322). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/redman-tonight-s-da-night-alpha.webp",
+      "bytes": 602748,
+      "blobSha": "1d1145204e4a2c970dcfc966feb5e83c69e3a1c3",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "naughty-by-nature-hip-hop-hooray",
+      "palette": [
+        "#e6e4dd",
+        "#334050",
+        "#775a44",
+        "#c95a39"
+      ],
+      "paletteSource": "19 Naughty III",
+      "coverUrl": "https://music.apple.com/us/album/19naughtyiii/1604622949",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"HIP HOP HOORAY\". Exact separate artist \"NAUGHTY BY NATURE\". Full wording accurately spelled, preserving apostrophes, punctuation and ampersands, no omissions or abbreviations. Long title can use multiple legible lines. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: opaque white, navy gray, brown and small red orange accents with black (#e6e4dd, #334050, #775a44, #c95a39). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/naughty-by-nature-hip-hop-hooray-alpha.webp",
+      "bytes": 656038,
+      "blobSha": "abab140e406c472ac934c9270d88f1ce39150856",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "de-la-soul-ego-trippin-part-two",
+      "palette": [
+        "#38a99c",
+        "#e16b35",
+        "#8260a0",
+        "#e7c542"
+      ],
+      "paletteSource": "Buhloone Mindstate",
+      "coverUrl": "https://music.apple.com/us/album/buhloone-mindstate/1673847295?uo=4",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"EGO TRIPPIN'\". Required legible subtitle \"(PART TWO)\". Exact separate artist \"DE LA SOUL\". Full wording accurately spelled, preserving apostrophes and punctuation, no omissions or abbreviations. Use separate legible lines for subtitle and artist. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: turquoise green, orange red, purple and yellow, opaque white and black (#38a99c, #e16b35, #8260a0, #e7c542). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/de-la-soul-ego-trippin-part-two-alpha.webp",
+      "bytes": 743916,
+      "blobSha": "4d54740e71350a2c513cb1b72564e863cc6b1b05",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "de-la-soul-ring-ring-ring-ha-ha-hey",
+      "palette": [
+        "#b95a35",
+        "#30563b",
+        "#d9bd45",
+        "#f4f2e8"
+      ],
+      "paletteSource": "De La Soul Is Dead",
+      "coverUrl": "https://music.apple.com/us/album/de-la-soul-is-dead/1673848395?uo=4",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"RING RING RING\". Required legible subtitle \"(HA HA HEY)\". Exact separate artist \"DE LA SOUL\". Full wording accurately spelled, preserving apostrophes and punctuation, no omissions or abbreviations. Use separate legible lines for subtitle and artist. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: terracotta orange, deep leafy green, small yellow accents, opaque white and black (#b95a35, #30563b, #d9bd45, #f4f2e8). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/de-la-soul-ring-ring-ring-ha-ha-hey-alpha.webp",
+      "bytes": 684006,
+      "blobSha": "f9303aef2da33d2266aaa04ea7a30fa474cb6b91",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "de-la-soul-buddy",
+      "palette": [
+        "#e4ce38",
+        "#d74794",
+        "#46b9c6",
+        "#75a44b"
+      ],
+      "paletteSource": "3 Feet High and Rising",
+      "coverUrl": "https://music.apple.com/us/album/3-feet-high-and-rising/1657705063",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"BUDDY\".  Exact separate artist \"DE LA SOUL\". Full wording accurately spelled, preserving apostrophes and punctuation, no omissions or abbreviations. Use separate legible lines for subtitle and artist. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: bright yellow, magenta pink, cyan blue, green, opaque white and black (#e4ce38, #d74794, #46b9c6, #75a44b). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/de-la-soul-buddy-alpha.webp",
+      "bytes": 679798,
+      "blobSha": "1dc33532e83db8892a14dc3d85d3c5dd633b78cc",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "jungle-brothers-straight-out-the-jungle",
+      "palette": [
+        "#718342",
+        "#c3b54b",
+        "#895c37",
+        "#e9e2c6"
+      ],
+      "paletteSource": "Straight Out the Jungle",
+      "coverUrl": "https://music.apple.com/us/album/straight-out-the-jungle/3242008?uo=4",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"STRAIGHT OUT THE JUNGLE\". Exact separate artist \"JUNGLE BROTHERS\". Full wording accurately spelled, preserving apostrophes, no omissions or abbreviations. Long title can use multiple legible lines. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: olive and yellow green, warm brown, yellow, opaque white and black (#718342, #c3b54b, #895c37, #e9e2c6). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/jungle-brothers-straight-out-the-jungle-alpha.webp",
+      "bytes": 625484,
+      "blobSha": "c0e9afda737f6e093437c16db5f01a97a23adf02",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "jungle-brothers-black-is-black",
+      "palette": [
+        "#718342",
+        "#c3b54b",
+        "#895c37",
+        "#e9e2c6"
+      ],
+      "paletteSource": "Straight Out the Jungle",
+      "coverUrl": "https://music.apple.com/us/album/straight-out-the-jungle/3242008?uo=4",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"BLACK IS BLACK\". Exact separate artist \"JUNGLE BROTHERS\". Full wording accurately spelled, preserving apostrophes, no omissions or abbreviations. Long title can use multiple legible lines. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: olive and yellow green, warm brown, yellow, opaque white and black (#718342, #c3b54b, #895c37, #e9e2c6). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/jungle-brothers-black-is-black-alpha.webp",
+      "bytes": 605540,
+      "blobSha": "2f738eacca0b23c4261dbc519a4a792494401233",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "jungle-brothers-doin-our-own-dang",
+      "palette": [
+        "#54874c",
+        "#dfb743",
+        "#c45a39",
+        "#785087"
+      ],
+      "paletteSource": "Done by the Forces of Nature",
+      "coverUrl": "https://music.apple.com/gb/album/357842261",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"DOIN' OUR OWN DANG\". Exact separate artist \"JUNGLE BROTHERS\". Full wording accurately spelled, preserving apostrophes, no omissions or abbreviations. Long title can use multiple legible lines. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: leaf green, golden yellow, red orange, purple, opaque white and black (#54874c, #dfb743, #c45a39, #785087). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/jungle-brothers-doin-our-own-dang-alpha.webp",
+      "bytes": 588786,
+      "blobSha": "65e0019f7eec191456a071c7625f9f8f7383ebdd",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "a-tribe-called-quest-find-a-way",
+      "palette": [
+        "#f4f4f1",
+        "#c5c5c2",
+        "#737371",
+        "#252525"
+      ],
+      "paletteSource": "The Love Movement",
+      "coverUrl": "https://music.apple.com/us/album/the-love-movement-deluxe-edition/254660972",
+      "prompt": "Create a NEW original graffiti lettering CUTOUT on transparent background for a music archive. Use the attached Mass Appeal example ONLY for its sharp angular interlocking 90s letter construction and opaque white interior paint bounded by strong black outlines. Exact title: FIND A WAY. Separate smaller exact artist: A TRIBE CALLED QUEST. Strict monochrome black and white ONLY, with a very few tiny isolated solid gray paint flecks. Clean empty transparent negative space behind, between and around letters. Absolutely NO diffuse paint clouds, gray fog, blurred halos, gradients, glow, vignette, wall, paper, drop shadow or full background. Do not add a backdrop behind text. Letter interiors must be truly opaque solid white (alpha255), black strokes truly opaque black. Only isolated sharp drips and small splatters. Transparent pixels outside the letters and these isolated marks. Wide balanced layout, maintain substantial transparent margins and accurate complete text. Independent new composition, do not reproduce a record label logo.",
+      "paletteNote": "Apple Music掲載の白黒ジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "The Love Movement (Deluxe Edition), digital cover",
+      "image": "assets/graffiti/a-tribe-called-quest-find-a-way-alpha.webp",
+      "bytes": 288956,
+      "blobSha": "013d22c91dd7966a21359ecee63ec6c5c3e51c7e",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    }
+  ]
+}

@@ -1450,14 +1450,19 @@
       "artist": "Raekwon",
       "album": "Only Built 4 Cuban Linx...",
       "palette": [
-        "#a5689a",
-        "#e9ddcd",
-        "#a34342",
-        "#27212b"
+        "#e74c26",
+        "#eebc39",
+        "#f7ecdb",
+        "#272021"
       ],
       "paletteSource": "Only Built 4 Cuban Linx...",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/raekwon-ice-cream-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/ao/album/only-built-4-cuban-linx/258634938"
     },
     {
       "id": "ol-dirty-bastard-shimmy-shimmy-ya",
@@ -1484,14 +1489,19 @@
       "artist": "De La Soul",
       "album": "De La Soul Is Dead",
       "palette": [
-        "#8e3e43",
-        "#e5d6c5",
-        "#729385",
-        "#342b28"
+        "#b95a35",
+        "#30563b",
+        "#d9bd45",
+        "#f4f2e8"
       ],
       "paletteSource": "De La Soul Is Dead",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/de-la-soul-a-roller-skating-jam-named-saturdays-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/de-la-soul-is-dead/1673848395?uo=4"
     },
     {
       "id": "de-la-soul-stakes-is-high",
@@ -1499,14 +1509,19 @@
       "artist": "De La Soul",
       "album": "Stakes Is High",
       "palette": [
-        "#b8834e",
-        "#e5d9b8",
-        "#7c856c",
-        "#2f2d24"
+        "#f4f4f1",
+        "#c5c5c2",
+        "#737371",
+        "#252525"
       ],
       "paletteSource": "Stakes Is High",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/de-la-soul-stakes-is-high-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/stakes-is-high/1674203676?uo=4"
     },
     {
       "id": "de-la-soul-breakadawn",
@@ -1514,14 +1529,19 @@
       "artist": "De La Soul",
       "album": "Buhloone Mindstate",
       "palette": [
-        "#ba5745",
-        "#e9d9bd",
-        "#7295a0",
-        "#26282a"
+        "#38a99c",
+        "#e16b35",
+        "#8260a0",
+        "#e7c542"
       ],
       "paletteSource": "Buhloone Mindstate",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/de-la-soul-breakadawn-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/buhloone-mindstate/1673847295?uo=4"
     },
     {
       "id": "black-sheep-the-choice-is-yours-revisited",
@@ -1529,14 +1549,19 @@
       "artist": "Black Sheep",
       "album": "A Wolf in Sheep's Clothing",
       "palette": [
-        "#cdad32",
-        "#e4d497",
-        "#926b33",
-        "#29291e"
+        "#eee7d7",
+        "#766353",
+        "#a93231",
+        "#282622"
       ],
       "paletteSource": "A Wolf in Sheep's Clothing",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/black-sheep-the-choice-is-yours-revisited-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/a-wolf-in-sheeps-clothing/1440723017"
     },
     {
       "id": "brand-nubian-slow-down",
@@ -1583,14 +1608,19 @@
       "artist": "Grand Puba",
       "album": "2000",
       "palette": [
-        "#9d704d",
-        "#e5d0ad",
-        "#85949a",
-        "#2c2a29"
+        "#e8e8e5",
+        "#939799",
+        "#414b47",
+        "#202123"
       ],
       "paletteSource": "2000",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/grand-puba-i-like-it-i-wanna-be-where-you-are-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/2000/1872806597"
     },
     {
       "id": "digable-planets-rebirth-of-slick-cool-like-dat",
@@ -1598,14 +1628,19 @@
       "artist": "Digable Planets",
       "album": "Reachin' (A New Refutation of Time and Space)",
       "palette": [
-        "#c69141",
-        "#e6dab8",
-        "#758359",
-        "#353123"
+        "#355bb0",
+        "#b74c9a",
+        "#dac63d",
+        "#8ca451"
       ],
       "paletteSource": "Reachin' (A New Refutation of Time and Space)",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/digable-planets-rebirth-of-slick-cool-like-dat-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/reachin-a-new-refutation-of-time-and-space/725211790"
     },
     {
       "id": "digable-planets-9th-wonder-blackitolism",
@@ -1613,14 +1648,19 @@
       "artist": "Digable Planets",
       "album": "Blowout Comb",
       "palette": [
-        "#bc423e",
-        "#e2d5b8",
-        "#8b8267",
-        "#292524"
+        "#9c8fa5",
+        "#dcd0b4",
+        "#f0e8d7",
+        "#27242b"
       ],
       "paletteSource": "Blowout Comb",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/digable-planets-9th-wonder-blackitolism-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/blowout-comb/724050563?uo=4"
     },
     {
       "id": "us3-cantaloop-flip-fantasia",
@@ -1628,14 +1668,19 @@
       "artist": "US3",
       "album": "Hand on the Torch",
       "palette": [
-        "#cd632d",
-        "#ece1c6",
-        "#809bae",
-        "#222a32"
+        "#eee3c9",
+        "#323e8c",
+        "#d58449",
+        "#8c9665"
       ],
       "paletteSource": "Hand on the Torch",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/us3-cantaloop-flip-fantasia-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/hand-on-the-torch/724502027?uo=4"
     },
     {
       "id": "the-roots-proceed",
@@ -1643,14 +1688,19 @@
       "artist": "The Roots",
       "album": "Do You Want More?!!!??!",
       "palette": [
-        "#6b8495",
-        "#ede8db",
-        "#909ea0",
-        "#232c33"
+        "#2b9fb5",
+        "#9fd3d7",
+        "#163c56",
+        "#182731"
       ],
       "paletteSource": "Do You Want More?!!!??!",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-roots-proceed-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/do-you-want-more/1725363561"
     },
     {
       "id": "the-roots-what-they-do",
@@ -1658,14 +1708,19 @@
       "artist": "The Roots",
       "album": "Illadelph Halflife",
       "palette": [
-        "#9c7660",
-        "#e5daca",
-        "#6d828b",
-        "#2c2d30"
+        "#89522e",
+        "#c0ad4d",
+        "#e3d2b3",
+        "#28201c"
       ],
       "paletteSource": "Illadelph Halflife",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-roots-what-they-do-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/illadelph-halflife/1440646391"
     },
     {
       "id": "common-i-used-to-love-h-e-r",
@@ -1693,14 +1748,19 @@
       "artist": "Common",
       "album": "Like Water for Chocolate",
       "palette": [
-        "#a77f50",
-        "#e9d7b4",
-        "#5d7483",
-        "#302722"
+        "#235641",
+        "#64816c",
+        "#e6e6de",
+        "#252825"
       ],
       "paletteSource": "Like Water for Chocolate",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/common-the-light-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/like-water-for-chocolate/1443734256?uo=4"
     },
     {
       "id": "mos-def-ms-fat-booty",
@@ -1708,14 +1768,19 @@
       "artist": "Mos Def",
       "album": "Black on Both Sides",
       "palette": [
-        "#b99268",
-        "#e8d9bb",
-        "#6d7882",
-        "#302b27"
+        "#bb793c",
+        "#7a4c2d",
+        "#e5d6bd",
+        "#241d1c"
       ],
       "paletteSource": "Black on Both Sides",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/mos-def-ms-fat-booty-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/black-on-both-sides/1444213589"
     },
     {
       "id": "black-star-definition",
@@ -1723,14 +1788,19 @@
       "artist": "Black Star",
       "album": "Mos Def & Talib Kweli Are Black Star",
       "palette": [
-        "#ca993b",
-        "#e8dabc",
-        "#867956",
-        "#2d2920"
+        "#e8d789",
+        "#cf5c32",
+        "#47754d",
+        "#28261e"
       ],
       "paletteSource": "Mos Def & Talib Kweli Are Black Star",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/black-star-definition-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/mos-def-talib-kweli-are-black-star/1440799801"
     },
     {
       "id": "pharoahe-monch-simon-says",
@@ -1738,14 +1808,19 @@
       "artist": "Pharoahe Monch",
       "album": "Internal Affairs",
       "palette": [
-        "#b34b3d",
-        "#e6d9c0",
-        "#6a8280",
-        "#282825"
+        "#67232d",
+        "#bf5530",
+        "#dfca7a",
+        "#221c20"
       ],
       "paletteSource": "Internal Affairs",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/pharoahe-monch-simon-says-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/internal-affairs/1480358751"
     },
     {
       "id": "krs-one-mc-s-act-like-they-don-t-know",
@@ -1753,14 +1828,19 @@
       "artist": "KRS-One",
       "album": "KRS-One",
       "palette": [
-        "#aa724b",
-        "#e6d7b9",
-        "#8c9085",
-        "#2b2825"
+        "#d99356",
+        "#a56535",
+        "#ead1ad",
+        "#33281f"
       ],
       "paletteSource": "KRS-One",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/krs-one-mc-s-act-like-they-don-t-know-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/krs-one/254976930"
     },
     {
       "id": "krs-one-sound-of-da-police",
@@ -1768,14 +1848,19 @@
       "artist": "KRS-One",
       "album": "Return of the Boom Bap",
       "palette": [
-        "#ad3a32",
-        "#e5d0b8",
-        "#837660",
-        "#29251f"
+        "#18304b",
+        "#718ca3",
+        "#d9a34a",
+        "#ecebe3"
       ],
       "paletteSource": "Return of the Boom Bap",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/krs-one-sound-of-da-police-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/return-of-the-boom-bap/267251596"
     },
     {
       "id": "eric-b-rakim-don-t-sweat-the-technique",
@@ -1783,14 +1868,19 @@
       "artist": "Eric B. & Rakim",
       "album": "Don't Sweat the Technique",
       "palette": [
-        "#c69635",
-        "#e5d6ad",
-        "#667a73",
-        "#282820"
+        "#d9cfdf",
+        "#e7a33b",
+        "#836982",
+        "#eeeae2"
       ],
       "paletteSource": "Don't Sweat the Technique",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/eric-b-rakim-don-t-sweat-the-technique-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/dont-sweat-the-technique/1440798360?uo=4"
     },
     {
       "id": "epmd-so-wat-cha-sayin",
@@ -1798,14 +1888,19 @@
       "artist": "EPMD",
       "album": "Unfinished Business",
       "palette": [
-        "#ba3437",
-        "#e9ddcb",
-        "#7d7a6d",
-        "#292524"
+        "#76a4c4",
+        "#e3e5df",
+        "#b39a5e",
+        "#292929"
       ],
       "paletteSource": "Unfinished Business",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/epmd-so-wat-cha-sayin-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/unfinished-business/723820648"
     },
     {
       "id": "das-efx-they-want-efx",
@@ -1813,14 +1908,19 @@
       "artist": "Das EFX",
       "album": "Dead Serious",
       "palette": [
-        "#c28438",
-        "#e3d9ad",
-        "#778755",
-        "#2a2c20"
+        "#b3b63d",
+        "#674a85",
+        "#a83d84",
+        "#25315a"
       ],
       "paletteSource": "Dead Serious",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/das-efx-they-want-efx-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/dead-serious/305123831"
     },
     {
       "id": "redman-tonight-s-da-night",
@@ -1828,14 +1928,19 @@
       "artist": "Redman",
       "album": "Whut? Thee Album",
       "palette": [
-        "#a3473b",
-        "#e6d8c3",
-        "#8d8273",
-        "#312a24"
+        "#a42c32",
+        "#d4443a",
+        "#eeece4",
+        "#282322"
       ],
       "paletteSource": "Whut? Thee Album",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/redman-tonight-s-da-night-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/whut-thee-album/1440921502"
     },
     {
       "id": "naughty-by-nature-hip-hop-hooray",
@@ -1843,14 +1948,19 @@
       "artist": "Naughty by Nature",
       "album": "19 Naughty III",
       "palette": [
-        "#c7403b",
-        "#e8dfcb",
-        "#8a9395",
-        "#22282b"
+        "#e6e4dd",
+        "#334050",
+        "#775a44",
+        "#c95a39"
       ],
       "paletteSource": "19 Naughty III",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/naughty-by-nature-hip-hop-hooray-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/19naughtyiii/1604622949"
     },
     {
       "id": "a-tribe-called-quest-oh-my-god",
@@ -1918,14 +2028,19 @@
       "artist": "A Tribe Called Quest",
       "album": "The Love Movement",
       "palette": [
-        "#bc3936",
-        "#e9dfc6",
-        "#859672",
-        "#242621"
+        "#f4f4f1",
+        "#c5c5c2",
+        "#737371",
+        "#252525"
       ],
       "paletteSource": "The Love Movement",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載の白黒ジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-find-a-way-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/the-love-movement-deluxe-edition/254660972"
     },
     {
       "id": "de-la-soul-ego-trippin-part-two",
@@ -1933,14 +2048,19 @@
       "artist": "De La Soul",
       "album": "Buhloone Mindstate",
       "palette": [
-        "#ba5745",
-        "#e9d9bd",
-        "#7295a0",
-        "#26282a"
+        "#38a99c",
+        "#e16b35",
+        "#8260a0",
+        "#e7c542"
       ],
       "paletteSource": "Buhloone Mindstate",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/de-la-soul-ego-trippin-part-two-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/buhloone-mindstate/1673847295?uo=4"
     },
     {
       "id": "de-la-soul-ring-ring-ring-ha-ha-hey",
@@ -1948,14 +2068,19 @@
       "artist": "De La Soul",
       "album": "De La Soul Is Dead",
       "palette": [
-        "#8e3e43",
-        "#e5d6c5",
-        "#729385",
-        "#342b28"
+        "#b95a35",
+        "#30563b",
+        "#d9bd45",
+        "#f4f2e8"
       ],
       "paletteSource": "De La Soul Is Dead",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/de-la-soul-ring-ring-ring-ha-ha-hey-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/de-la-soul-is-dead/1673848395?uo=4"
     },
     {
       "id": "de-la-soul-buddy",
@@ -1963,14 +2088,19 @@
       "artist": "De La Soul",
       "album": "3 Feet High and Rising",
       "palette": [
-        "#e2c638",
-        "#f0e39c",
-        "#cc64a1",
-        "#32604d"
+        "#e4ce38",
+        "#d74794",
+        "#46b9c6",
+        "#75a44b"
       ],
       "paletteSource": "3 Feet High and Rising",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/de-la-soul-buddy-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/3-feet-high-and-rising/1657705063"
     },
     {
       "id": "jungle-brothers-straight-out-the-jungle",
@@ -1978,14 +2108,19 @@
       "artist": "Jungle Brothers",
       "album": "Straight Out the Jungle",
       "palette": [
-        "#cc923f",
-        "#e4d5b4",
-        "#6a854e",
-        "#2d3023"
+        "#718342",
+        "#c3b54b",
+        "#895c37",
+        "#e9e2c6"
       ],
       "paletteSource": "Straight Out the Jungle",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/jungle-brothers-straight-out-the-jungle-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/straight-out-the-jungle/3242008?uo=4"
     },
     {
       "id": "jungle-brothers-black-is-black",
@@ -1993,14 +2128,19 @@
       "artist": "Jungle Brothers",
       "album": "Straight Out the Jungle",
       "palette": [
-        "#cc923f",
-        "#e4d5b4",
-        "#6a854e",
-        "#2d3023"
+        "#718342",
+        "#c3b54b",
+        "#895c37",
+        "#e9e2c6"
       ],
       "paletteSource": "Straight Out the Jungle",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/jungle-brothers-black-is-black-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/straight-out-the-jungle/3242008?uo=4"
     },
     {
       "id": "jungle-brothers-doin-our-own-dang",
@@ -2008,14 +2148,19 @@
       "artist": "Jungle Brothers",
       "album": "Done by the Forces of Nature",
       "palette": [
-        "#c95b33",
-        "#e6d38e",
-        "#80a16c",
-        "#293926"
+        "#54874c",
+        "#dfb743",
+        "#c45a39",
+        "#785087"
       ],
       "paletteSource": "Done by the Forces of Nature",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/jungle-brothers-doin-our-own-dang-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/gb/album/357842261"
     },
     {
       "id": "queen-latifah-u-n-i-t-y",
