@@ -2933,19 +2933,20 @@
       "seed": 2193,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#a63d32",
+        "#171717",
+        "#eee9df",
+        "#c57155"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Center of Attention（Vinyl Digital公式再発盤）",
+      "paletteNote": "Pete RockのBandcampから案内されるVinyl Digital公式再発盤ジャケットの赤煉瓦、黒い人物シルエット、白い表記を目視参照した近似配色。厳密な色抽出値ではない。",
       "lines": [
         "FAKIN’",
         "JAX"
       ],
       "lettering": "subway",
-      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。",
+      "coverSource": "https://www.vinyl-digital.com/en/EXCLUSIVES/Center-of-Attention-Only-Vinyl.html"
     },
     "deck": "Dorothy Ashbyの音を手がかりに、InIへ入る。",
     "essayTitle": "名札の大きさに、惑わされない。",

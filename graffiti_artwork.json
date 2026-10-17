@@ -62,10 +62,10 @@
       "paletteSource": "The Main Ingredient",
       "paletteNote": "収録アルバムのジャケットを参照した編集上の配色。厳密な色抽出値ではない。",
       "status": "ready",
-      "image": "assets/graffiti/in-the-house.webp",
+      "image": "assets/graffiti/in-the-house-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "what-im-after",
@@ -81,10 +81,10 @@
       "paletteSource": "Keepers of the Funk",
       "paletteNote": "ジャケットを参照した編集上の配色。厳密な抽出値ではない。",
       "status": "ready",
-      "image": "assets/graffiti/what-im-after.webp",
+      "image": "assets/graffiti/what-im-after-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "bucktown",
@@ -100,10 +100,10 @@
       "paletteSource": "Dah Shinin’",
       "paletteNote": "ジャケットを参照した編集上の配色。厳密な抽出値ではない。",
       "status": "ready",
-      "image": "assets/graffiti/bucktown.webp",
+      "image": "assets/graffiti/bucktown-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "runnin",
@@ -119,10 +119,10 @@
       "paletteSource": "Labcabincalifornia",
       "paletteNote": "ジャケットの土と草木の色を参照した編集上の配色。厳密な色抽出値ではない。",
       "status": "ready",
-      "image": "assets/graffiti/runnin.webp",
+      "image": "assets/graffiti/runnin-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "resurrection",
@@ -138,10 +138,10 @@
       "paletteSource": "Resurrection",
       "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
       "status": "ready",
-      "image": "assets/graffiti/resurrection.webp",
+      "image": "assets/graffiti/resurrection-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "mass-appeal",
@@ -176,10 +176,10 @@
       "paletteSource": "The Beatnuts（Street Level）",
       "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
       "status": "ready",
-      "image": "assets/graffiti/props-over-here.webp",
+      "image": "assets/graffiti/props-over-here-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "times-up",
@@ -195,10 +195,10 @@
       "paletteSource": "Word...Life",
       "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
       "status": "ready",
-      "image": "assets/graffiti/times-up.webp",
+      "image": "assets/graffiti/times-up-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "the-lump-lump",
@@ -214,10 +214,10 @@
       "paletteSource": "Wild Cowboys",
       "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
       "status": "ready",
-      "image": "assets/graffiti/the-lump-lump.webp",
+      "image": "assets/graffiti/the-lump-lump-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "put-it-on",
@@ -233,10 +233,10 @@
       "paletteSource": "Lifestylez ov da Poor & Dangerous",
       "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
       "status": "ready",
-      "image": "assets/graffiti/put-it-on.webp",
+      "image": "assets/graffiti/put-it-on-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "the-shit-is-real",
@@ -252,10 +252,10 @@
       "paletteSource": "Jealous One’s Envy",
       "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
       "status": "ready",
-      "image": "assets/graffiti/the-shit-is-real.webp",
+      "image": "assets/graffiti/the-shit-is-real-alpha.png",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "a-tribe-called-quest-electric-relaxation",
@@ -271,10 +271,10 @@
       "paletteSource": "Midnight Marauders",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "status": "ready",
-      "image": "assets/graffiti/a-tribe-called-quest-electric-relaxation.webp",
+      "image": "assets/graffiti/a-tribe-called-quest-electric-relaxation-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "a-tribe-called-quest-check-the-rhime",
@@ -290,10 +290,10 @@
       "paletteSource": "The Low End Theory",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "status": "ready",
-      "image": "assets/graffiti/a-tribe-called-quest-check-the-rhime.webp",
+      "image": "assets/graffiti/a-tribe-called-quest-check-the-rhime-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "a-tribe-called-quest-award-tour",
@@ -309,10 +309,10 @@
       "paletteSource": "Midnight Marauders",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "status": "ready",
-      "image": "assets/graffiti/a-tribe-called-quest-award-tour.webp",
+      "image": "assets/graffiti/a-tribe-called-quest-award-tour-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "a-tribe-called-quest-scenario",
@@ -328,10 +328,10 @@
       "paletteSource": "The Low End Theory",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "status": "ready",
-      "image": "assets/graffiti/a-tribe-called-quest-scenario.webp",
+      "image": "assets/graffiti/a-tribe-called-quest-scenario-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "a-tribe-called-quest-bonita-applebum",
@@ -347,10 +347,10 @@
       "paletteSource": "People's Instinctive Travels and the Paths of Rhythm",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "status": "ready",
-      "image": "assets/graffiti/a-tribe-called-quest-bonita-applebum.webp",
+      "image": "assets/graffiti/a-tribe-called-quest-bonita-applebum-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "a-tribe-called-quest-jazz-we-ve-got",
@@ -366,10 +366,10 @@
       "paletteSource": "The Low End Theory",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "status": "ready",
-      "image": "assets/graffiti/a-tribe-called-quest-jazz-we-ve-got.webp",
+      "image": "assets/graffiti/a-tribe-called-quest-jazz-we-ve-got-alpha.png",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "pete-rock-c-l-smooth-they-reminisce-over-you-t-r-o-y",
@@ -385,10 +385,10 @@
       "paletteSource": "Mecca and the Soul Brother",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "status": "ready",
-      "image": "assets/graffiti/pete-rock-c-l-smooth-they-reminisce-over-you-t-r-o-y.webp",
+      "image": "assets/graffiti/pete-rock-c-l-smooth-they-reminisce-over-you-t-r-o-y-alpha.png",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "pete-rock-c-l-smooth-straighten-it-out",
@@ -404,10 +404,10 @@
       "paletteSource": "Mecca and the Soul Brother",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "status": "ready",
-      "image": "assets/graffiti/pete-rock-c-l-smooth-straighten-it-out.webp",
+      "image": "assets/graffiti/pete-rock-c-l-smooth-straighten-it-out-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "pete-rock-c-l-smooth-take-you-there",
@@ -423,10 +423,10 @@
       "paletteSource": "The Main Ingredient",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "status": "ready",
-      "image": "assets/graffiti/pete-rock-c-l-smooth-take-you-there.webp",
+      "image": "assets/graffiti/pete-rock-c-l-smooth-take-you-there-alpha.png",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "pete-rock-c-l-smooth-i-get-physical",
@@ -442,10 +442,10 @@
       "paletteSource": "The Main Ingredient",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "status": "ready",
-      "image": "assets/graffiti/pete-rock-c-l-smooth-i-get-physical.webp",
+      "image": "assets/graffiti/pete-rock-c-l-smooth-i-get-physical-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "ini-fakin-jax",
@@ -453,14 +453,19 @@
       "artist": "InI feat. Pete Rock",
       "album": "Fakin Jax / Center of Attention",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#a63d32",
+        "#171717",
+        "#eee9df",
+        "#c57155"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Center of Attention（Vinyl Digital公式再発盤）",
+      "paletteNote": "Pete RockのBandcampから案内されるVinyl Digital公式再発盤ジャケットの赤煉瓦、黒い人物シルエット、白い表記を目視参照した近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "coverSource": "https://www.vinyl-digital.com/en/EXCLUSIVES/Center-of-Attention-Only-Vinyl.html",
+      "image": "assets/graffiti/ini-fakin-jax-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "souls-of-mischief-that-s-when-ya-lost",
@@ -476,10 +481,10 @@
       "paletteSource": "93 'til Infinity",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "status": "ready",
-      "image": "assets/graffiti/souls-of-mischief-that-s-when-ya-lost.webp",
+      "image": "assets/graffiti/souls-of-mischief-that-s-when-ya-lost-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "the-pharcyde-passin-me-by",
@@ -495,10 +500,10 @@
       "paletteSource": "Bizarre Ride II the Pharcyde",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "status": "ready",
-      "image": "assets/graffiti/the-pharcyde-passin-me-by.webp",
+      "image": "assets/graffiti/the-pharcyde-passin-me-by-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "the-pharcyde-drop",
@@ -514,10 +519,10 @@
       "paletteSource": "Labcabincalifornia",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "status": "ready",
-      "image": "assets/graffiti/the-pharcyde-drop.webp",
+      "image": "assets/graffiti/the-pharcyde-drop-alpha.png",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "the-beatnuts-reign-of-the-tec",
@@ -533,10 +538,10 @@
       "paletteSource": "Intoxicated Demons",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "status": "ready",
-      "image": "assets/graffiti/the-beatnuts-reign-of-the-tec.webp",
+      "image": "assets/graffiti/the-beatnuts-reign-of-the-tec-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "the-beatnuts-get-funky",
@@ -571,10 +576,10 @@
       "paletteSource": "Stone Crazy",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "status": "ready",
-      "image": "assets/graffiti/the-beatnuts-off-the-books.webp",
+      "image": "assets/graffiti/the-beatnuts-off-the-books-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "lords-of-the-underground-chief-rocka",
@@ -590,10 +595,10 @@
       "paletteSource": "Here Come the Lords",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "status": "ready",
-      "image": "assets/graffiti/lords-of-the-underground-chief-rocka.webp",
+      "image": "assets/graffiti/lords-of-the-underground-chief-rocka-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "lords-of-the-underground-funky-child",
@@ -642,7 +647,11 @@
       ],
       "paletteSource": "Daily Operation",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-take-it-personal-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "gang-starr-code-of-the-streets",
@@ -676,7 +685,11 @@
       ],
       "paletteSource": "Moment of Truth",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-above-the-clouds-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "gang-starr-full-clip",
@@ -721,7 +734,11 @@
       ],
       "paletteSource": "Stunts, Blunts & Hip Hop",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/diamond-d-sally-got-a-one-track-mind-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "lord-finesse-hip-2-da-game",
@@ -751,7 +768,11 @@
       ],
       "paletteSource": "Return of the Funky Man",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/lord-finesse-return-of-the-funky-man-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "showbiz-a-g-party-groove-instrumental",
@@ -766,7 +787,11 @@
       ],
       "paletteSource": "Runaway Slave",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/showbiz-a-g-party-groove-instrumental-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "showbiz-a-g-soul-clap",
@@ -811,7 +836,11 @@
       ],
       "paletteSource": "Enta da Stage",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/black-moon-who-got-da-props-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "black-moon-i-got-cha-opin-remix",
@@ -826,7 +855,11 @@
       ],
       "paletteSource": "I Got Cha Opin",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/black-moon-i-got-cha-opin-remix-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "jeru-the-damaja-come-clean",
@@ -916,7 +949,11 @@
       ],
       "paletteSource": "It Takes a Nation of Millions to Hold Us Back",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/public-enemy-don-t-believe-the-hype-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "public-enemy-fight-the-power",
@@ -1006,7 +1043,11 @@
       ],
       "paletteSource": "Illmatic",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/nas-the-world-is-yours-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "nas-it-ain-t-hard-to-tell",
@@ -1096,7 +1137,11 @@
       ],
       "paletteSource": "Breaking Atoms",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/main-source-just-hangin-out-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "main-source-live-at-the-barbeque",
@@ -1186,7 +1231,11 @@
       ],
       "paletteSource": "The Infamous",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/mobb-deep-shook-ones-pt-ii-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "mobb-deep-survival-of-the-fittest",
@@ -1276,7 +1325,11 @@
       ],
       "paletteSource": "Return to the 36 Chambers: The Dirty Version",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/ol-dirty-bastard-shimmy-shimmy-ya-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "de-la-soul-a-roller-skating-jam-named-saturdays",
@@ -1366,7 +1419,11 @@
       ],
       "paletteSource": "One for All",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/brand-nubian-all-for-one-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "grand-puba-i-like-it-i-wanna-be-where-you-are",

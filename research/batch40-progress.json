@@ -1,0 +1,439 @@
+{
+  "status": "in-progress-not-published",
+  "target": 40,
+  "tracks": [
+    {
+      "id": "in-the-house",
+      "sha": "ec388f5d12e7438fb48ad5370185f81b924efbed",
+      "palette": [
+        "#ce9f40",
+        "#f3e3b4",
+        "#98705a",
+        "#211c19"
+      ],
+      "paletteSource": "The Main Ingredient",
+      "paletteNote": "収録アルバムのジャケットを参照した編集上の配色。厳密な色抽出値ではない。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/in-the-house-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "times-up",
+      "sha": "4108ab17c33de133f05afd42a99728a7a11858ad",
+      "palette": [
+        "#b37543",
+        "#ead5a2",
+        "#60704c",
+        "#24211b"
+      ],
+      "paletteSource": "Word...Life",
+      "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/times-up-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "a-tribe-called-quest-award-tour",
+      "sha": "541085f62d9f5a308a473517a2e575f7cb27e5b7",
+      "palette": [
+        "#d93433",
+        "#e4cc54",
+        "#35926c",
+        "#222126"
+      ],
+      "paletteSource": "Midnight Marauders",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/a-tribe-called-quest-award-tour-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "what-im-after",
+      "sha": "277bda94ab712a3dd7a12db845509872dd675033",
+      "palette": [
+        "#b58343",
+        "#e4d2a2",
+        "#bd4c37",
+        "#252622"
+      ],
+      "paletteSource": "Keepers of the Funk",
+      "paletteNote": "ジャケットを参照した編集上の配色。厳密な抽出値ではない。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/what-im-after-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "the-lump-lump",
+      "sha": "e7dbde192bba7130659546729b34838fa6fc21a7",
+      "palette": [
+        "#b77c42",
+        "#e4cf9b",
+        "#60766b",
+        "#29231e"
+      ],
+      "paletteSource": "Wild Cowboys",
+      "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/the-lump-lump-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "a-tribe-called-quest-scenario",
+      "sha": "f524f86a2881a77aa41ea5cfcaf4b3f2cea9ac96",
+      "palette": [
+        "#c02c32",
+        "#75a550",
+        "#f1d84c",
+        "#151718"
+      ],
+      "paletteSource": "The Low End Theory",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/a-tribe-called-quest-scenario-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "pete-rock-c-l-smooth-i-get-physical",
+      "sha": "655ae7bd514d36bbc48d14afa8908db936858ed6",
+      "palette": [
+        "#ce9f40",
+        "#f3e3b4",
+        "#98705a",
+        "#211c19"
+      ],
+      "paletteSource": "The Main Ingredient",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/pete-rock-c-l-smooth-i-get-physical-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "the-beatnuts-off-the-books",
+      "sha": "be10f1456453aad6a6a3bffa342aaf1fbb58cde3",
+      "palette": [
+        "#ab4c40",
+        "#eadbc8",
+        "#6d8c77",
+        "#292b2c"
+      ],
+      "paletteSource": "Stone Crazy",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/the-beatnuts-off-the-books-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "gang-starr-take-it-personal",
+      "sha": "fca152075cc25980a089931a06bb2db2572d153a",
+      "palette": [
+        "#b54c42",
+        "#e4dccb",
+        "#918678",
+        "#292725"
+      ],
+      "paletteSource": "Daily Operation",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/gang-starr-take-it-personal-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "lord-finesse-return-of-the-funky-man",
+      "sha": "16519e8cdf3bf2e374778de970ac97c9ac78944d",
+      "palette": [
+        "#ae4838",
+        "#e9d6ba",
+        "#7d8170",
+        "#282824"
+      ],
+      "paletteSource": "Return of the Funky Man",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/lord-finesse-return-of-the-funky-man-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "bucktown",
+      "sha": "613d506e28597a9ef121b9f5914387aa9675d40d",
+      "palette": [
+        "#aa713c",
+        "#ebd798",
+        "#518070",
+        "#201b16"
+      ],
+      "paletteSource": "Dah Shinin’",
+      "paletteNote": "ジャケットを参照した編集上の配色。厳密な抽出値ではない。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/bucktown-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "put-it-on",
+      "sha": "d21e7a4d56091603c6ac4aea4b817bfdf63846f9",
+      "palette": [
+        "#78907c",
+        "#e6d8b8",
+        "#ad6750",
+        "#282a26"
+      ],
+      "paletteSource": "Lifestylez ov da Poor & Dangerous",
+      "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/put-it-on-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "a-tribe-called-quest-bonita-applebum",
+      "sha": "fa997cf28c52708ad441235a4e412dfa85f0ea16",
+      "palette": [
+        "#ed443b",
+        "#f5cf39",
+        "#39a579",
+        "#292529"
+      ],
+      "paletteSource": "People's Instinctive Travels and the Paths of Rhythm",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/a-tribe-called-quest-bonita-applebum-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "souls-of-mischief-that-s-when-ya-lost",
+      "sha": "2c3b2ce3738354155203e8f6b6f83261e8152b0f",
+      "palette": [
+        "#d6bb69",
+        "#91ada0",
+        "#efe4c7",
+        "#25372f"
+      ],
+      "paletteSource": "93 'til Infinity",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/souls-of-mischief-that-s-when-ya-lost-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "lords-of-the-underground-chief-rocka",
+      "sha": "f216b566df27b0aa1ee1d59cb0f8d503a6bb77d7",
+      "palette": [
+        "#bf713c",
+        "#ece0c4",
+        "#897462",
+        "#332a25"
+      ],
+      "paletteSource": "Here Come the Lords",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/lords-of-the-underground-chief-rocka-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "gang-starr-above-the-clouds",
+      "sha": "35799a69914edf79c062b1c9b6b1bc1a3488c318",
+      "palette": [
+        "#a0433d",
+        "#e9e4db",
+        "#94938d",
+        "#232323"
+      ],
+      "paletteSource": "Moment of Truth",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/gang-starr-above-the-clouds-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "showbiz-a-g-party-groove-instrumental",
+      "sha": "12b7c48b02da6ae3ea67666a051f711d778cf658",
+      "palette": [
+        "#b38958",
+        "#e9dcc4",
+        "#ba5440",
+        "#322d27"
+      ],
+      "paletteSource": "Runaway Slave",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/showbiz-a-g-party-groove-instrumental-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "runnin",
+      "sha": "c4e3f949d063dd18bdf2439e0753b60e665b21b4",
+      "palette": [
+        "#a59b56",
+        "#eadcaf",
+        "#854e35",
+        "#29291f"
+      ],
+      "paletteSource": "Labcabincalifornia",
+      "paletteNote": "ジャケットの土と草木の色を参照した編集上の配色。厳密な色抽出値ではない。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/runnin-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "the-pharcyde-passin-me-by",
+      "sha": "0a6b99615f5fc1510a671a14785ce1abc0dd754f",
+      "palette": [
+        "#ebbf36",
+        "#67b5c2",
+        "#e45f8a",
+        "#32285c"
+      ],
+      "paletteSource": "Bizarre Ride II the Pharcyde",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/the-pharcyde-passin-me-by-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "resurrection",
+      "sha": "c478055d3f60a059464124e0b9a223cd14a1452d",
+      "palette": [
+        "#557d96",
+        "#e5e1d8",
+        "#bd9865",
+        "#17232e"
+      ],
+      "paletteSource": "Resurrection",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/resurrection-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "a-tribe-called-quest-electric-relaxation",
+      "sha": "9b8aba7acb59dccce5524273d19c343837eb4236",
+      "palette": [
+        "#d93433",
+        "#e4cc54",
+        "#35926c",
+        "#222126"
+      ],
+      "paletteSource": "Midnight Marauders",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/a-tribe-called-quest-electric-relaxation-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "props-over-here",
+      "sha": "7b8c0a9bfd2eb3520a55ed7719b8be0e59b2f48f",
+      "palette": [
+        "#ba3638",
+        "#ece1bf",
+        "#d5ae41",
+        "#211e20"
+      ],
+      "paletteSource": "The Beatnuts（Street Level）",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/props-over-here-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "a-tribe-called-quest-check-the-rhime",
+      "sha": "f0cb531c21fdbb25420b4982668bc53d8b1714a0",
+      "palette": [
+        "#c02c32",
+        "#75a550",
+        "#f1d84c",
+        "#151718"
+      ],
+      "paletteSource": "The Low End Theory",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/a-tribe-called-quest-check-the-rhime-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "pete-rock-c-l-smooth-straighten-it-out",
+      "sha": "a43d91443c1206740b598c3c9cc70aa0f19450f1",
+      "palette": [
+        "#ad7f52",
+        "#e7d8b8",
+        "#608e6f",
+        "#302b26"
+      ],
+      "paletteSource": "Mecca and the Soul Brother",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/pete-rock-c-l-smooth-straighten-it-out-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "the-beatnuts-reign-of-the-tec",
+      "sha": "6a14a74e3b6a6202bca0e3ce93fcb1afd4828ded",
+      "palette": [
+        "#da4737",
+        "#eee7d5",
+        "#9e8c61",
+        "#232323"
+      ],
+      "paletteSource": "Intoxicated Demons",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/the-beatnuts-reign-of-the-tec-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "ini-fakin-jax",
+      "sha": "481485d03e072c2d68560f185919dcff1e91d8c3",
+      "palette": [
+        "#a63d32",
+        "#171717",
+        "#eee9df",
+        "#c57155"
+      ],
+      "paletteSource": "Center of Attention（Vinyl Digital公式再発盤）",
+      "paletteNote": "Pete RockのBandcampから案内されるVinyl Digital公式再発盤ジャケットの赤煉瓦、黒い人物シルエット、白い表記を目視参照した近似配色。厳密な色抽出値ではない。",
+      "coverSource": "https://www.vinyl-digital.com/en/EXCLUSIVES/Center-of-Attention-Only-Vinyl.html",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/ini-fakin-jax-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "diamond-d-sally-got-a-one-track-mind",
+      "sha": "69faa11e6932d1d51492b1f22bf601d52002f225",
+      "palette": [
+        "#ae764c",
+        "#eee1c9",
+        "#94a393",
+        "#33362d"
+      ],
+      "paletteSource": "Stunts, Blunts & Hip Hop",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/diamond-d-sally-got-a-one-track-mind-alpha.webp",
+      "transparent": true
+    }
+  ]
+}

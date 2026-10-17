@@ -1,0 +1,134 @@
+{
+  "status": "in-progress-not-published",
+  "target": 40,
+  "tracks": [
+    {
+      "id": "black-moon-who-got-da-props",
+      "sha": "2f7421ec6f683114a2e39ba81342b787a9d361f4",
+      "palette": [
+        "#b6403c",
+        "#e7c94b",
+        "#5b7191",
+        "#25252e"
+      ],
+      "paletteSource": "Enta da Stage",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/black-moon-who-got-da-props-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "black-moon-i-got-cha-opin-remix",
+      "sha": "7b259a83f58f82326b50b14a21d1419046cffe95",
+      "palette": [
+        "#bd3c3a",
+        "#e7ce6a",
+        "#749998",
+        "#242427"
+      ],
+      "paletteSource": "I Got Cha Opin",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/black-moon-i-got-cha-opin-remix-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "public-enemy-don-t-believe-the-hype",
+      "sha": "93569cdc9c1104f6fd80a65beb6db1a1cc990b06",
+      "palette": [
+        "#e0bd3f",
+        "#e8e1ca",
+        "#ac643a",
+        "#211e18"
+      ],
+      "paletteSource": "It Takes a Nation of Millions to Hold Us Back",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/public-enemy-don-t-believe-the-hype-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "nas-the-world-is-yours",
+      "sha": "2b28cd07864f17eabb68c3348e5d3567ea349479",
+      "palette": [
+        "#b58b63",
+        "#eee1cc",
+        "#ab6651",
+        "#342b25"
+      ],
+      "paletteSource": "Illmatic",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/nas-the-world-is-yours-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "main-source-just-hangin-out",
+      "sha": "00d87b3ed0a82941cfa432f08301e86734342a32",
+      "palette": [
+        "#cf7d37",
+        "#eadd9d",
+        "#786994",
+        "#29292e"
+      ],
+      "paletteSource": "Breaking Atoms",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/main-source-just-hangin-out-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "mobb-deep-shook-ones-pt-ii",
+      "sha": "c28f12429a095df62083687f322ff40a7947b438",
+      "palette": [
+        "#aa7650",
+        "#e0c9a6",
+        "#8b715d",
+        "#2e2823"
+      ],
+      "paletteSource": "The Infamous",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/mobb-deep-shook-ones-pt-ii-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "ol-dirty-bastard-shimmy-shimmy-ya",
+      "sha": "93a3d9ea0d9b66098a0e4a6a1639537d015ba230",
+      "palette": [
+        "#b87a4a",
+        "#e5d7c2",
+        "#7d8b9c",
+        "#26303b"
+      ],
+      "paletteSource": "Return to the 36 Chambers: The Dirty Version",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/ol-dirty-bastard-shimmy-shimmy-ya-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "brand-nubian-all-for-one",
+      "sha": "b35f667a5442b4a4a7d4b6dd5e90f82e051040f1",
+      "palette": [
+        "#be483b",
+        "#e9dbb8",
+        "#498866",
+        "#262820"
+      ],
+      "paletteSource": "One for All",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/brand-nubian-all-for-one-alpha.webp",
+      "transparent": true
+    }
+  ]
+}
