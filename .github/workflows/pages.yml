@@ -129,6 +129,7 @@ jobs:
           node scripts/verify_discovery_browser.cjs
           node scripts/verify_playback_browser.cjs
           node scripts/verify_graffiti_browser.cjs
+          node scripts/verify_feature_portraits_browser.cjs
       - name: Save browser screenshots
         if: always()
         uses: actions/upload-artifact@v4
@@ -138,6 +139,7 @@ jobs:
             /tmp/listening-shelf-*.png
             /tmp/catalog-pagination-*.png
             /tmp/graffiti-*.png
+            /tmp/feature-portrait-*.png
           if-no-files-found: ignore
           retention-days: 3
       - uses: actions/upload-pages-artifact@v4

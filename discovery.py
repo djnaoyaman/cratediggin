@@ -159,10 +159,19 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
     add('#/artists', 'artists/', 'アーティスト一覧 — Crate Diggin’', '掲載アーティスト別に楽曲と特集を探す。',
         '<h1>ARTISTS</h1><ul>' + ''.join('<li><a href="' + base_path + '/artists/' + slugs[n] + '.html">' +
         esc(n) + '</a></li>' for n in names) + '</ul>')
+    def feature_card(f):
+        v=f.get('visual');href=base_path+'/features/'+f['id']+'.html'
+        copy='<h3>'+esc(f['name'])+'</h3><p>'+esc(f['editorial']['title'])+'</p><span>年代順で聴く ↗</span>'
+        if not v:
+            return '<a class="feature-card" href="'+href+'">'+copy+'</a>'
+        return ('<article class="feature-poster"><a class="feature-card feature-card--portrait" href="'+href+'"><div class="feature-portrait">'
+                '<img class="feature-photo" src="'+base_path+'/'+esc(v['photo'],quote=True)+'" alt="'+esc(v['alt'],quote=True)+'" loading="lazy" style="object-position:'+esc(v.get('focus','50% 35%'),quote=True)+'">'
+                '<span class="feature-paper-grain" aria-hidden="true"></span><span class="feature-tape" aria-hidden="true">PRODUCER FILE</span>'
+                '<img class="feature-name-tag" src="'+base_path+'/'+esc(v['tag'],quote=True)+'" alt="" loading="lazy"></div><div class="feature-poster-copy">'+copy+'</div></a>'
+                '<p class="feature-photo-credit">Photo: <a href="'+esc(v['source'],quote=True)+'">'+esc(v['author'])+'</a> · <a href="'+esc(v['licenseUrl'],quote=True)+'">'+esc(v['license'])+'</a><br>'+esc(v['changes'])+'</p></article>')
     add('#/features', 'features/', 'アーティスト・プロデューサー特集 — Crate Diggin’',
         'DJ Naoyamanの視点で音楽性、制作背景、影響をたどるアーティスト・プロデューサー特集。',
-        '<h1>DEEP IN THE CRATE.</h1><ul>' + ''.join('<li><a href="' + base_path + '/features/' + f['id'] +
-        '.html">' + esc(f['name'] + ' — ' + f['editorial']['title']) + '</a></li>' for f in features) + '</ul>')
+        '<h1>DEEP IN THE CRATE.</h1>'+''.join('<section><h2>'+label+'</h2><div class="feature-grid">'+''.join(feature_card(f) for f in features if f['type']==kind)+'</div></section>' for kind,label in [('artist','アーティスト特集'),('producer','プロデューサー特集')]))
     for g in guides:
         selected = [next(t for t in tracks if t['id'] == tid) for tid in g['ids']]
         add('#/guide/' + g['id'], 'guides/' + g['id'] + '.html', g['title'] + ' — Crate Diggin’', g['description'],
