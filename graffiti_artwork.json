@@ -8097,6 +8097,166 @@
       "paletteReviewed": true,
       "transparent": true,
       "coverReference": "https://audiomack.com/the-grouch-eligh/song/everafter"
+    },
+    {
+      "id": "the-beatnuts-fried-chicken",
+      "title": "Fried Chicken",
+      "artist": "The Beatnuts",
+      "album": "Street Level",
+      "palette": [
+        "#df191c",
+        "#f18728",
+        "#e8d9bc",
+        "#191710"
+      ],
+      "paletteSource": "https://getondown.com/products/street-level-cd",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-beatnuts-fried-chicken-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://getondown.com/products/street-level-cd"
+    },
+    {
+      "id": "the-beatnuts-let-off-a-couple",
+      "title": "Let Off a Couple",
+      "artist": "The Beatnuts",
+      "album": "Street Level",
+      "palette": [
+        "#df191c",
+        "#f18728",
+        "#e8d9bc",
+        "#191710"
+      ],
+      "paletteSource": "https://getondown.com/products/street-level-cd",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-beatnuts-let-off-a-couple-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://getondown.com/products/street-level-cd"
+    },
+    {
+      "id": "a-tribe-called-quest-lyrics-to-go",
+      "title": "Lyrics to Go",
+      "artist": "A Tribe Called Quest",
+      "album": "Midnight Marauders",
+      "palette": [
+        "#db2432",
+        "#f2ce12",
+        "#3d773f",
+        "#222120"
+      ],
+      "paletteSource": "https://atribecalledquest.com/blogs/discography/1993-midnight-marauders",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-lyrics-to-go-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://atribecalledquest.com/blogs/discography/1993-midnight-marauders"
+    },
+    {
+      "id": "tha-alkaholiks-daaam-buckwild-remix",
+      "title": "Daaam! (Buckwild Remix)",
+      "artist": "Tha Alkaholiks",
+      "album": "Daaam!",
+      "palette": [
+        "#5127d3",
+        "#e6e3dc",
+        "#38352e",
+        "#121212"
+      ],
+      "paletteSource": "https://slash-record.com/?pid=168124810",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/tha-alkaholiks-daaam-buckwild-remix-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://slash-record.com/?pid=168124810"
+    },
+    {
+      "id": "beastie-boys-get-it-together",
+      "title": "Get It Together",
+      "artist": "Beastie Boys feat. Q-Tip",
+      "album": "Ill Communication",
+      "palette": [
+        "#dad5c9",
+        "#a5a196",
+        "#57554f",
+        "#171716"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/ill-communication/724943000",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/beastie-boys-get-it-together-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/ill-communication/724943000"
+    },
+    {
+      "id": "cypress-hill-when-the-shit-goes-down",
+      "title": "When the Shit Goes Down",
+      "artist": "Cypress Hill",
+      "album": "Black Sunday",
+      "palette": [
+        "#b4a38a",
+        "#75634c",
+        "#dfd9cb",
+        "#080e0e"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/black-sunday/266797392",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/cypress-hill-when-the-shit-goes-down-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/black-sunday/266797392"
+    },
+    {
+      "id": "peanut-butter-wolf-run-the-line",
+      "title": "Run the Line",
+      "artist": "Peanut Butter Wolf feat. Rasco",
+      "album": "My Vinyl Weighs a Ton",
+      "palette": [
+        "#d72b19",
+        "#e96d16",
+        "#b91668",
+        "#060906"
+      ],
+      "paletteSource": "https://pbwolf.bandcamp.com/track/run-the-line-feat-rasco-2",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/peanut-butter-wolf-run-the-line-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://pbwolf.bandcamp.com/track/run-the-line-feat-rasco-2"
+    },
+    {
+      "id": "tha-alkaholiks-wlix",
+      "title": "WLIX",
+      "artist": "Tha Alkaholiks feat. Lootpack & Declaime",
+      "album": "Coast II Coast",
+      "palette": [
+        "#2b8794",
+        "#0d444b",
+        "#daa64d",
+        "#dbe6d8"
+      ],
+      "paletteSource": "https://music.apple.com/ca/song/258608265",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/tha-alkaholiks-wlix-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/ca/song/258608265"
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

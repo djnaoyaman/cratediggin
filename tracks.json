@@ -45277,5 +45277,973 @@
     ],
     "addedOrder": 407,
     "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "the-beatnuts-fried-chicken",
+    "title": "Fried Chicken",
+    "artist": "The Beatnuts",
+    "year": 1994,
+    "album": "Street Level",
+    "label": "Relativity",
+    "producer": "The Beatnuts",
+    "producers": [
+      "The Beatnuts"
+    ],
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ",
+      "サンプリング"
+    ],
+    "collections": [
+      "east"
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元を裏付ける資料がないため、個別名は掲載していない。",
+    "connections": [],
+    "youtube": {
+      "id": "VgjMcbv8slw",
+      "url": "https://www.youtube.com/watch?v=VgjMcbv8slw",
+      "channel": "The Beatnuts - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式Topicチャンネルを再照合。権利者提供の掲載情報に基づく確認であり、実音声の聴取・再生進行は未検証。",
+      "title": "Fried Chicken"
+    },
+    "yearBasis": "1994年のオリジナル・アルバム発売年。",
+    "sources": [
+      {
+        "label": "Qobuz: Street Level 曲別クレジット",
+        "url": "https://www.qobuz.com/us-en/album/street-level-the-beatnuts/ukcq59fnpppra",
+        "kind": "catalog"
+      },
+      {
+        "label": "Get On Down: Street Level 再発解説",
+        "url": "https://getondown.com/products/street-level-cd",
+        "kind": "reissue label"
+      },
+      {
+        "label": "The Beatnuts: Fried Chicken 公式配信",
+        "url": "https://www.youtube.com/watch?v=VgjMcbv8slw",
+        "kind": "licensed audio"
+      },
+      {
+        "label": "Take It Personal — Street Level対談（2020年収録／2024年再掲）",
+        "url": "https://www.iheart.com/podcast/1150-take-it-personal-30487669/episode/take-it-personal-flashback-street-level-219850105/",
+        "kind": "artist interview"
+      },
+      {
+        "label": "Unkut — Psycho Les本人へのインタビュー（2015）",
+        "url": "https://unkut.com/2015/05/psycho-les-the-beatnuts-the-unkut-interview/",
+        "kind": "artist interview"
+      }
+    ],
+    "deck": "三人時代のBeatnutsを、アルバムの真ん中から掘る。",
+    "essayTitle": "三人時代のBeatnutsを、アルバムの真ん中から掘る。",
+    "essay": [
+      "「Fried Chicken」は、Juju、Psycho Les、Fashionの三人で作り上げた1994年の『Street Level』に収められている。1993年の『Intoxicated Demons』EPに続く初のフル・アルバムで、後年の二人組としての姿が定着する前の一曲だ。制作名義はThe Beatnuts。ラッパー集団と制作チームという二つの顔が、まだ切り離されずに並んでいる。",
+      "食べ物の名を掲げた題名には、ビートを中心に曲を育てる彼らの感覚が残る。Take It Personalの回想でPsycho Lesは、このビートを自分が作り、最初につけた名前がそのまま完成曲に残ったと説明している。先に物語の題名を決め、それに伴奏をつけたのではない。音を呼び出すための言葉が、レコードの曲名になった。",
+      "アルバムの装丁はHank Mobleyの『The Turnaround!』を参照する一方、Lesは後年、自分たちが志向していたのはもっとハードな音楽だったとも語った。ジャズへの視線と荒っぽい自己像は、ここでは矛盾しない。「Fried Chicken」を三人時代の記録として捉えると、洗練か粗さかという二択では説明できないBeatnutsの出発点が見えてくる。"
+    ],
+    "facts": [
+      {
+        "title": "収録位置",
+        "text": "Street Levelの10曲目。配信版は3分57秒。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "制作と録音",
+        "text": "制作はThe Beatnuts。録音Rich Keller、ミックスChris Curran／Troy Hightower。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "listening": [],
+    "context": "三人時代のBeatnutsを、アルバムの真ん中から掘る。",
+    "art": {
+      "word": "FRIED CHICKEN",
+      "lines": [
+        "FRIED CHICKEN"
+      ],
+      "tag": "THE BEATNUTS",
+      "style": "piece",
+      "seed": 3081498015,
+      "profile": "ny-subway",
+      "palette": [
+        "#df191c",
+        "#f18728",
+        "#e8d9bc",
+        "#191710"
+      ],
+      "paletteSource": "https://getondown.com/products/street-level-cd",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "addedOrder": 408,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "the-beatnuts-let-off-a-couple",
+    "title": "Let Off a Couple",
+    "artist": "The Beatnuts",
+    "year": 1994,
+    "album": "Street Level",
+    "label": "Relativity",
+    "producer": "The Beatnuts",
+    "producers": [
+      "The Beatnuts"
+    ],
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ",
+      "サンプリング"
+    ],
+    "collections": [
+      "east"
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元を裏付ける資料がないため、個別名は掲載していない。",
+    "connections": [],
+    "youtube": {
+      "id": "ML_OUpPoNiI",
+      "url": "https://www.youtube.com/watch?v=ML_OUpPoNiI",
+      "channel": "The Beatnuts - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式Topicチャンネルを再照合。権利者提供の掲載情報に基づく確認であり、実音声の聴取・再生進行は未検証。",
+      "title": "Let Off A Couple"
+    },
+    "yearBasis": "1994年のオリジナル・アルバム発売年。",
+    "sources": [
+      {
+        "label": "Qobuz: Street Level 曲別クレジット",
+        "url": "https://www.qobuz.com/us-en/album/street-level-the-beatnuts/ukcq59fnpppra",
+        "kind": "catalog"
+      },
+      {
+        "label": "Get On Down: Street Level 再発解説",
+        "url": "https://getondown.com/products/street-level-cd",
+        "kind": "reissue label"
+      },
+      {
+        "label": "The Beatnuts: Let Off A Couple 公式配信",
+        "url": "https://www.youtube.com/watch?v=ML_OUpPoNiI",
+        "kind": "licensed audio"
+      },
+      {
+        "label": "Take It Personal — Street Level対談（2020年収録／2024年再掲）",
+        "url": "https://www.iheart.com/podcast/1150-take-it-personal-30487669/episode/take-it-personal-flashback-street-level-219850105/",
+        "kind": "artist interview"
+      },
+      {
+        "label": "Unkut — Psycho Les本人へのインタビュー（2015）",
+        "url": "https://unkut.com/2015/05/psycho-les-the-beatnuts-the-unkut-interview/",
+        "kind": "artist interview"
+      },
+      {
+        "label": "Unkut — Al’ Tariq aka Fashionインタビュー Part 1（2014）",
+        "url": "https://unkut.com/2014/11/al-tariq-aka-fashion-the-unkut-interview-part-one/",
+        "kind": "artist interview"
+      }
+    ],
+    "deck": "一分四十二秒を、曲間ではなく一曲として読む。",
+    "essayTitle": "一分四十二秒を、曲間ではなく一曲として読む。",
+    "essay": [
+      "『Street Level』の「Let Off a Couple」は1分42秒。「Straight Jacket」と「Rik’s Joint」の間に置かれ、長いヴァースを均等に配分する通常のグループ曲とは別の大きさを持つ。短いから単なる曲間の余白なのではなく、この尺のまま名前と役割を与えられた一曲だ。",
+      "短さを考える手掛かりはPsycho Lesの回想にある。Take It Personalで彼は、ビートは好きだったものの自分の歌詞が浮かばず、短いコーラスを受け持って他のメンバーに任せたと説明した。三人の名前が並ぶ曲でも、参加の仕方まで同じである必要はない。この小品には、その柔軟さが凝縮されている。",
+      "もともとBeatnutsは、制作側のJujuとLes、中心となるラッパーのFashionという形を想定していたと、両者のインタビューは伝える。完成したグループはその分業を越えていくが、曲ごとに前へ出る人が変わる余地は残った。「Let Off a Couple」は、三人組を固定された三等分ではなく、曲に応じて組み替わる関係として捉える入口になる。"
+    ],
+    "facts": [
+      {
+        "title": "短尺の独立トラック",
+        "text": "1994年盤Street Levelの8曲目。配信版1分42秒。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "スタジオ担当",
+        "text": "Troy Hightowerは録音・ミックス、Chris Curranはミックスとして記載。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "listening": [],
+    "context": "一分四十二秒を、曲間ではなく一曲として読む。",
+    "art": {
+      "word": "LET OFF A COUPLE",
+      "lines": [
+        "LET OFF A COUPLE"
+      ],
+      "tag": "THE BEATNUTS",
+      "style": "piece",
+      "seed": 240174183,
+      "profile": "ny-subway",
+      "palette": [
+        "#df191c",
+        "#f18728",
+        "#e8d9bc",
+        "#191710"
+      ],
+      "paletteSource": "https://getondown.com/products/street-level-cd",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "addedOrder": 409,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "a-tribe-called-quest-lyrics-to-go",
+    "title": "Lyrics to Go",
+    "artist": "A Tribe Called Quest",
+    "year": 1993,
+    "album": "Midnight Marauders",
+    "label": "Jive",
+    "producer": "A Tribe Called Quest",
+    "producers": [
+      "A Tribe Called Quest"
+    ],
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ",
+      "サンプリング"
+    ],
+    "collections": [
+      "east"
+    ],
+    "samples": [
+      {
+        "artist": "Minnie Riperton",
+        "title": "Inside My Love",
+        "year": 1975,
+        "role": "原曲の高音とエレクトリック・ピアノが、ラップを支える反復へ。",
+        "sources": [
+          5
+        ],
+        "main": true
+      }
+    ],
+    "sampleStatus": "出典で確認できるサンプルを掲載。",
+    "connections": [],
+    "youtube": {
+      "id": "QE1afZJSvqI",
+      "url": "https://www.youtube.com/watch?v=QE1afZJSvqI",
+      "channel": "A Tribe Called Quest - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式Topicチャンネルを再照合。権利者提供の掲載情報に基づく確認であり、実音声の聴取・再生進行は未検証。",
+      "title": "Lyrics to Go"
+    },
+    "yearBasis": "1993年のオリジナル・アルバム発売年。",
+    "sources": [
+      {
+        "label": "A Tribe Called Quest公式: 1993 Midnight Marauders",
+        "url": "https://atribecalledquest.com/blogs/discography/1993-midnight-marauders",
+        "kind": "artist catalog"
+      },
+      {
+        "label": "Q-Tip: Red Bull Music Academy New York 2013",
+        "url": "https://www.redbullmusicacademy.com/lectures/q-tip/",
+        "kind": "artist interview"
+      },
+      {
+        "label": "Lyrics to Go 公式配信クレジット",
+        "url": "https://www.youtube.com/watch?v=QE1afZJSvqI",
+        "kind": "licensed audio"
+      },
+      {
+        "label": "Qobuz — Midnight Marauders曲別クレジット",
+        "url": "https://www.qobuz.com/us-en/album/midnight-marauders-a-tribe-called-quest/0012414149022",
+        "kind": "catalog"
+      },
+      {
+        "label": "Petals: The Minnie Riperton Collection — ライナーノーツ転載",
+        "url": "https://albumlinernotes.com/Petals_-_The_Collection.html",
+        "kind": "liner notes / artist testimony"
+      },
+      {
+        "label": "KEXP — Minnie Riperton「Inside My Love」（2022）",
+        "url": "https://www.kexp.org/read/2022/3/2/50-years-music-1975-minnie-riperton-inside-my-love/",
+        "kind": "radio editorial"
+      }
+    ],
+    "deck": "四拍子の上で、三小節のループが景色をずらす。",
+    "essayTitle": "四拍子の上で、三小節のループが景色をずらす。",
+    "essay": [
+      "「Lyrics to Go」は1993年の『Midnight Marauders』の終盤に置かれた曲だ。素材の一つは、Minnie Ripertonが1975年に発表した「Inside My Love」。歌の頂点にあった声をラップの背景へ移すことで、別の時代の歌唱が新しい役割を得た。制作の公式名義はA Tribe Called Questで、録音とミックスにはグループとBob Powerの名が並ぶ。",
+      "Q-Tipは2013年のRed Bull Music Academyで、この曲を三小節のループの例として認めている。説明の中心は、四拍子の土台に異なる長さで戻る旋律を重ねる面白さだった。拍子そのものを三拍子に変えるのではなく、同じ拍の上で反復の区切りをずらす。その違いが、単純な「ジャジー」という形容だけでは届かない構造を教えてくれる。",
+      "Minnieの回顧盤『Petals』の解説には、Q-Tipから寄せられた賛辞も載っている。彼が評価したのは高音域だけではなく、声に感情や力を込める表現そのものだった。「Lyrics to Go」にあるのは、有名な音を借りる技法だけではない。歌い手への敬意と、その声を別の音楽の中で働かせる発想が交差している。"
+    ],
+    "facts": [
+      {
+        "title": "公式ディスコグラフィー",
+        "text": "1993年Midnight Maraudersの13曲目。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "本人の制作解説",
+        "text": "2013年RBMA対談で三小節ループが話題になり、Q-Tipが四拍子との重なりを説明。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "listening": [],
+    "context": "四拍子の上で、三小節のループが景色をずらす。",
+    "art": {
+      "word": "LYRICS TO GO",
+      "lines": [
+        "LYRICS TO GO"
+      ],
+      "tag": "A TRIBE CALLED QUEST",
+      "style": "piece",
+      "seed": 898733120,
+      "profile": "ny-subway",
+      "palette": [
+        "#db2432",
+        "#f2ce12",
+        "#3d773f",
+        "#222120"
+      ],
+      "paletteSource": "https://atribecalledquest.com/blogs/discography/1993-midnight-marauders",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "addedOrder": 410,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "tha-alkaholiks-daaam-buckwild-remix",
+    "title": "Daaam! (Buckwild Remix)",
+    "artist": "Tha Alkaholiks",
+    "year": 1995,
+    "album": "Daaam!",
+    "label": "Loud / RCA",
+    "producer": "E-Swift; remix by Buckwild",
+    "producers": [
+      "E-Swift",
+      "Buckwild"
+    ],
+    "region": "California",
+    "scene": "California",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ",
+      "サンプリング"
+    ],
+    "collections": [
+      "west"
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元を裏付ける資料がないため、個別名は掲載していない。",
+    "connections": [],
+    "youtube": {
+      "id": "7jd9zn5_i1U",
+      "url": "https://www.youtube.com/watch?v=7jd9zn5_i1U",
+      "channel": "Tha Alkaholiks - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式Topicチャンネルを再照合。権利者提供の掲載情報に基づく確認であり、実音声の聴取・再生進行は未検証。",
+      "title": "Daaam! (Buckwild Remix)"
+    },
+    "yearBasis": "1995年のBuckwild Remixシングル版。",
+    "sources": [
+      {
+        "label": "Amazon Music: Daaam! 8曲版",
+        "url": "https://music.amazon.com/albums/B089R487F7",
+        "kind": "catalog"
+      },
+      {
+        "label": "Tha Alkaholiks: Buckwild Remix 公式配信",
+        "url": "https://www.youtube.com/watch?v=7jd9zn5_i1U",
+        "kind": "licensed audio"
+      },
+      {
+        "label": "Hip-Hop Radio Archive: WKCR February 9, 1995",
+        "url": "https://hiphopradioarchive.org/show/836",
+        "kind": "historical radio archive"
+      },
+      {
+        "label": "Slash Records: Daaam! Buckwild Remix US promo",
+        "url": "https://slash-record.com/?pid=168124810",
+        "kind": "original record listing"
+      },
+      {
+        "label": "Gavin — Thembisa S. Mshaka「Buckwild Wit The Beats」（1994年10月7日）",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/Gavin-Report/90/94/Gavin-Report-1994-10-07.pdf",
+        "kind": "contemporary artist interview"
+      },
+      {
+        "label": "Hitmakers — Street Sheet（1995年3月3日号）",
+        "url": "https://device.report/m/b65098f89d8470202964440f846424c697832a619088806f30b41b6adc8e3451.pdf",
+        "kind": "contemporary trade press"
+      }
+    ],
+    "deck": "西海岸の声を、Buckwildという別の入口から。",
+    "essayTitle": "西海岸の声を、Buckwildという別の入口から。",
+    "essay": [
+      "「Daaam!」のBuckwild Remixは、Tha Alkaholiksの曲を別の作り手の視点から組み直した版だ。E-Swiftによる原曲制作とBuckwildによるリミックスは、クレジットでも区別されている。1995年を示すシングルの配信カタログには4分38秒のRemixがあり、短いRadio EditやInstrumentalとは別に扱われている。",
+      "この版の意味は、後年の人気だけではなく当時の資料にも残る。1995年3月3日付『Hitmakers』の業界欄は、Buckwildのリミックスによって「Daaam!」が再び動き始めたと報じ、ラジオ局での採用にも触れている。リミックスは収集家向けの別テイクというだけでなく、一曲を新しい場所へ運ぶ実務的な役割も担っていた。",
+      "その前年、BuckwildはAhmadとの仕事中に受けた『Gavin』の取材で、東西の対立よりも相手と音楽的に通じ合えることを重視していた。これは本曲の制作経緯を説明した発言ではないが、西海岸のグループをニューヨークの作り手が手掛けることを、例外扱いしないための手掛かりになる。「Daaam!」の別版は、地域の境界より人とビートの接点から見ると面白い。"
+    ],
+    "facts": [
+      {
+        "title": "原曲とリミックスの分担",
+        "text": "公式配信はProducer E-Swift、Re-Mixer Buckwildと記載。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "三つのBuckwild版",
+        "text": "Remix 4分38秒、Radio Edit 3分55秒、Instrumental 4分34秒を別収録。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "listening": [],
+    "context": "西海岸の声を、Buckwildという別の入口から。",
+    "art": {
+      "word": "DAAAM! (BUCKWILD REMIX)",
+      "lines": [
+        "DAAAM! (BUCKWILD REMIX)"
+      ],
+      "tag": "THA ALKAHOLIKS",
+      "style": "piece",
+      "seed": 1459462388,
+      "profile": "ny-subway",
+      "palette": [
+        "#5127d3",
+        "#e6e3dc",
+        "#38352e",
+        "#121212"
+      ],
+      "paletteSource": "https://slash-record.com/?pid=168124810",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "addedOrder": 411,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "beastie-boys-get-it-together",
+    "title": "Get It Together",
+    "artist": "Beastie Boys feat. Q-Tip",
+    "year": 1994,
+    "album": "Ill Communication",
+    "label": "Capitol / Grand Royal",
+    "producer": "Beastie Boys & Mario Caldato Jr.",
+    "producers": [
+      "Beastie Boys",
+      "Mario Caldato Jr."
+    ],
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ",
+      "サンプリング"
+    ],
+    "collections": [
+      "east"
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元を裏付ける資料がないため、個別名は掲載していない。",
+    "connections": [],
+    "youtube": {
+      "id": "0bkMtWL-5vM",
+      "url": "https://www.youtube.com/watch?v=0bkMtWL-5vM",
+      "channel": "Beastie Boys - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式Topicチャンネルを再照合。権利者提供の掲載情報に基づく確認であり、実音声の聴取・再生進行は未検証。",
+      "title": "Get It Together"
+    },
+    "yearBasis": "1994年のオリジナル・アルバム発売年。",
+    "sources": [
+      {
+        "label": "Beastie Boys公式ディスコグラフィー",
+        "url": "https://beastieboys.com/discography/",
+        "kind": "artist catalog"
+      },
+      {
+        "label": "Get It Together 公式配信クレジット",
+        "url": "https://www.youtube.com/watch?v=0bkMtWL-5vM",
+        "kind": "licensed audio"
+      },
+      {
+        "label": "CMJ New Music Report, May 23, 1994",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/CMJ/1994/CMJ-New-Music-Report-1994-05-23.pdf",
+        "kind": "contemporary press"
+      },
+      {
+        "label": "Questlove Supreme — Ad-Rock本人の回想（2024年12月18日、1:36:55〜）",
+        "url": "https://www.iheart.com/podcast/1119-the-questlove-show-53194211/episode/questlove-supreme-adam-adrock-horovitz-249443883/",
+        "kind": "artist interview transcript"
+      },
+      {
+        "label": "Billboard — Beastie Boys新作取材（1994年4月23日）",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/90s/1994/BB-1994-04-23-N.pdf",
+        "kind": "contemporary reporting"
+      }
+    ],
+    "deck": "三人の輪へQ-Tipが入る、1994年の接点。",
+    "essayTitle": "三人の輪へQ-Tipが入る、1994年の接点。",
+    "essay": [
+      "「Get It Together」は、Beastie Boysの三人にQ-Tipが加わった、1994年の『Ill Communication』収録曲だ。ゲストの一節を完成済みの曲へ足しただけではない。Ad-Rockの回想によれば、Q-Tipの即興ラップを編集し、その間へ三人が入り込むことで、四人の共演が組み立てられた。",
+      "この曲はアルバム発売前から、ヒップホップ側の入口も担っていた。1994年5月のCMJは先行EP『Pretzel Nuggets』を取り上げ、その中心曲としてQ-Tip参加の「Get It Together」を紹介している。「Sabotage」だけを代表曲にしてしまうと見えにくい、ラップの現場へ向けたもう一つの顔である。",
+      "アルバムでは「Sabotage」と「Sabrosa」の間に置かれる。ここでの共演は、Beastie Boysの世界を一色に整えるためではなく、別の声を受け入れてその輪郭を広げるもの、と捉えられる。即興を残すことと、曲として構成すること。その二つが対立せず成立するところに、この組み合わせの面白さがある。"
+    ],
+    "facts": [
+      {
+        "title": "作品の年と位置",
+        "text": "公式ディスコグラフィーではIll Communicationは1994年5月31日発売。Get It Togetherは7曲目。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "制作",
+        "text": "Beastie BoysとMario Caldato Jr.。Q-Tip参加の通常アルバム版を対象。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "listening": [],
+    "context": "三人の輪へQ-Tipが入る、1994年の接点。",
+    "art": {
+      "word": "GET IT TOGETHER",
+      "lines": [
+        "GET IT TOGETHER"
+      ],
+      "tag": "BEASTIE BOYS FEAT. Q-TIP",
+      "style": "piece",
+      "seed": 760546866,
+      "profile": "ny-subway",
+      "palette": [
+        "#dad5c9",
+        "#a5a196",
+        "#57554f",
+        "#171716"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/ill-communication/724943000",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "addedOrder": 412,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "cypress-hill-when-the-shit-goes-down",
+    "title": "When the Shit Goes Down",
+    "artist": "Cypress Hill",
+    "year": 1993,
+    "album": "Black Sunday",
+    "label": "Columbia",
+    "producer": "DJ Muggs",
+    "producers": [
+      "DJ Muggs"
+    ],
+    "region": "California",
+    "scene": "California",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ",
+      "サンプリング"
+    ],
+    "collections": [
+      "west"
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元を裏付ける資料がないため、個別名は掲載していない。",
+    "connections": [],
+    "youtube": {
+      "id": "uuYRFxuFqeE",
+      "url": "https://www.youtube.com/watch?v=uuYRFxuFqeE",
+      "channel": "Cypress Hill - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式Topicチャンネルを再照合。権利者提供の掲載情報に基づく確認であり、実音声の聴取・再生進行は未検証。",
+      "title": "When the Shit Goes Down"
+    },
+    "yearBasis": "1993年のオリジナル・アルバム発売年。",
+    "sources": [
+      {
+        "label": "When the Shit Goes Down 公式配信クレジット",
+        "url": "https://www.youtube.com/watch?v=uuYRFxuFqeE",
+        "kind": "licensed audio"
+      },
+      {
+        "label": "Apple Music: Black Sunday",
+        "url": "https://music.apple.com/us/album/black-sunday/266797392",
+        "kind": "catalog"
+      },
+      {
+        "label": "Cypress Hill公式: Black Sunday Live at Royal Albert Hall",
+        "url": "https://cypresshill.com/2025/02/26/cypress-hill-with-the-london-symphony-orchestra-black-sunday-live-at-the-royal-albert-hall/",
+        "kind": "artist news"
+      },
+      {
+        "label": "Mercury Studios: Live album",
+        "url": "https://storeuk.mercurystudios.co/collections/cypress-hill/products/black-sunday-live-at-the-royal-albert-hall-exclusive-gold-2lp",
+        "kind": "label catalog"
+      },
+      {
+        "label": "Apple Music — When the Shit Goes Downの演奏・制作クレジット",
+        "url": "https://music.apple.com/us/song/when-the-shit-goes-down/266797494",
+        "kind": "licensed track credits"
+      },
+      {
+        "label": "Sound On Sound — DJ Muggs／Joe Nicoloインタビュー（2018）",
+        "url": "https://www.soundonsound.com/techniques/classic-tracks-cypress-hill-insane-brain",
+        "kind": "producer and engineer interview"
+      },
+      {
+        "label": "Universal Music Japan — Black Sunday Liveの解説・収録曲",
+        "url": "https://www.universal-music.co.jp/cypress-hill/products/758-3430/",
+        "kind": "label catalog"
+      }
+    ],
+    "deck": "1993年のビートを起点に、別編成の未来へ。",
+    "essayTitle": "1993年のビートを起点に、別編成の未来へ。",
+    "essay": [
+      "「When the Shit Goes Down」は、Cypress Hillが1993年に発表した『Black Sunday』の4曲目。制作を担うDJ Muggsはプログラミング、ターンテーブル、ミックスにも名を連ね、B-RealとSen Dogの声を支える。ビートを作ることと、声が立つ場所を仕上げることが、一人の仕事の中でつながっている。",
+      "その背景には、西海岸だけでは完結しない制作の道筋がある。Muggsは『Black Sunday』のビートとラップをニューヨークの自宅でまとめたと振り返り、ミックスを担当したJoe “The Butcher” Nicoloはフィラデルフィアでの作業を語っている。地域の呼び名だけでは見落とす、人と技術の往復がこのアルバムを支えた。",
+      "本曲は後にLondon Symphony Orchestraとの公演でも取り上げられる。1993年の録音を保存するだけでなく、別の演奏者へ渡して再構成できる楽曲でもあるということだ。サンプルを組み合わせた録音と、大人数が演奏する編曲。その距離をつなぐ起点として、オリジナル版には独自の位置がある。"
+    ],
+    "facts": [
+      {
+        "title": "原盤",
+        "text": "1993年Columbia作品Black Sundayに収録。制作はDJ Muggs。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "別編成での再演",
+        "text": "2024年7月10日、London Symphony OrchestraとRoyal Albert Hallで共演。原曲とライブ版は別録音。",
+        "sources": [
+          2,
+          3
+        ]
+      }
+    ],
+    "listening": [],
+    "context": "1993年のビートを起点に、別編成の未来へ。",
+    "art": {
+      "word": "WHEN THE SHIT GOES DOWN",
+      "lines": [
+        "WHEN THE SHIT GOES DOWN"
+      ],
+      "tag": "CYPRESS HILL",
+      "style": "piece",
+      "seed": 1393891333,
+      "profile": "ny-subway",
+      "palette": [
+        "#b4a38a",
+        "#75634c",
+        "#dfd9cb",
+        "#080e0e"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/black-sunday/266797392",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "addedOrder": 413,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "peanut-butter-wolf-run-the-line",
+    "title": "Run the Line",
+    "artist": "Peanut Butter Wolf feat. Rasco",
+    "year": 1997,
+    "album": "My Vinyl Weighs a Ton",
+    "label": "Stones Throw",
+    "producer": "Peanut Butter Wolf",
+    "producers": [
+      "Peanut Butter Wolf"
+    ],
+    "region": "California",
+    "scene": "California",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ",
+      "サンプリング"
+    ],
+    "collections": [
+      "west"
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元を裏付ける資料がないため、個別名は掲載していない。",
+    "connections": [],
+    "sources": [
+      {
+        "label": "Stones Throw: Run The Line / STH2008",
+        "url": "https://www.stonesthrow.com/store/run-the-line/",
+        "kind": "label catalog"
+      },
+      {
+        "label": "Peanut Butter Wolf: My Vinyl Weighs A Ton",
+        "url": "https://pbwolf.bandcamp.com/track/run-the-line-feat-rasco-2",
+        "kind": "artist catalog"
+      },
+      {
+        "label": "HHV: 1997 original 12-inch",
+        "url": "https://www.hhv.de/records/artikel/peanut-butter-wolf-run-the-line-the-undercover-clear-und-present-danger-1010246",
+        "kind": "record retailer"
+      },
+      {
+        "label": "Official audio",
+        "url": "https://www.youtube.com/watch?v=ui1yUi8uEkQ",
+        "kind": "licensed audio"
+      },
+      {
+        "label": "Peanut Butter Wolf — Stones Throw創設についての本人寄稿",
+        "url": "https://www.stonesthrow.com/about/",
+        "kind": "artist first-person label history"
+      },
+      {
+        "label": "CMJ New Music Monthly — Brian Colemanによる同時代評（1999年3月）",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/CMJ/New-Music/CMJ-New-Music-1999-03.pdf",
+        "kind": "contemporary album review"
+      }
+    ],
+    "deck": "レーベルの名前より先に、一枚の12インチが人をつなぐ。",
+    "essayTitle": "レーベルの名前より先に、一枚の12インチが人をつなぐ。",
+    "essay": [
+      "Peanut Butter Wolfの「Run the Line」は、Rascoを迎えた1997年のStones Throwの12インチから広がった曲だ。同じ盤のもう一方にはEncore参加の「The Undercover」が並ぶ。Wolfの名前を掲げながら、異なるMCへ場所を用意する。この一枚には、制作者とレーベルの主宰者という二つの役割が重なっている。",
+      "Street、Radio、Instrumentalという構成は、単なる収録曲数の違いではない。Wolfはレーベルの方針として、アーティストがレコードでライブを行い、DJが使えるようインスト盤を出すと説明している。作品を完成品として届けると同時に、次の表現の道具として渡す。その発想を「Run the Line」の盤面にも見いだせる。",
+      "1999年には『My Vinyl Weighs a Ton』に収録され、Rascoは「Hold Up」とともにアルバムを支える声の一人となる。当時のCMJ評も、DJの技巧だけでなく参加MCの存在を評価した。Wolfのソロ名義は一人で閉じる看板ではなく、さまざまな声とターンテーブルの技術を集める場所だった。"
+    ],
+    "facts": [
+      {
+        "title": "初出とアルバム",
+        "text": "1997年のSTH2008と、1999年のアルバム収録を区別する。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "ラップ入りとインスト",
+        "text": "公式レーベルはStreet、Radio、Instrumentalを別トラックとして販売している。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "客演",
+        "text": "Rascoの客演はレーベル、アーティストのBandcamp、公式配信で一致する。",
+        "sources": [
+          0,
+          1,
+          3
+        ]
+      }
+    ],
+    "listening": [],
+    "youtube": {
+      "id": "ui1yUi8uEkQ",
+      "url": "https://www.youtube.com/watch?v=ui1yUi8uEkQ",
+      "channel": "Peanut Butter Wolf - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式Topicチャンネルを再照合。権利者提供の掲載情報に基づく確認であり、実音声の聴取・再生進行は未検証。",
+      "title": "Run The Line (feat. Rasco)"
+    },
+    "yearBasis": "1997年のSTH2008シングルを基準。掲載音源は1999年のアルバム収録版。",
+    "context": "レーベルの名前より先に、一枚の12インチが人をつなぐ。",
+    "art": {
+      "word": "RUN THE LINE",
+      "lines": [
+        "RUN THE LINE"
+      ],
+      "tag": "PEANUT BUTTER WOLF FEAT. RASCO",
+      "style": "piece",
+      "seed": 1421392063,
+      "profile": "ny-subway",
+      "palette": [
+        "#d72b19",
+        "#e96d16",
+        "#b91668",
+        "#060906"
+      ],
+      "paletteSource": "https://pbwolf.bandcamp.com/track/run-the-line-feat-rasco-2",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "addedOrder": 414,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "tha-alkaholiks-wlix",
+    "title": "WLIX",
+    "artist": "Tha Alkaholiks feat. Lootpack & Declaime",
+    "year": 1995,
+    "album": "Coast II Coast",
+    "label": "Loud / RCA",
+    "producer": "Madlib",
+    "producers": [
+      "Madlib"
+    ],
+    "region": "California",
+    "scene": "California",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ",
+      "サンプリング"
+    ],
+    "collections": [
+      "west"
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元を裏付ける資料がないため、個別名は掲載していない。",
+    "connections": [],
+    "sources": [
+      {
+        "label": "RCA official audio and credits",
+        "url": "https://www.youtube.com/watch?v=fePFbwInnoM",
+        "kind": "licensed audio credits"
+      },
+      {
+        "label": "Stones Throw: Wildchild interview",
+        "url": "https://www.stonesthrow.com/news/wildchild-in-elemental-magazine/",
+        "kind": "artist interview"
+      },
+      {
+        "label": "Apple Music: WLIX",
+        "url": "https://music.apple.com/ca/song/258608265",
+        "kind": "licensed release metadata"
+      },
+      {
+        "label": "Stones Throw — Lootpack公式アーティスト紹介",
+        "url": "https://www.stonesthrow.com/artist/lootpack/",
+        "kind": "label artist biography"
+      },
+      {
+        "label": "Red Bull Music Academy — Madlib本人の講演（2002）",
+        "url": "https://www.redbullmusicacademy.com/lectures/madlib-king-of-the-beats/",
+        "kind": "artist interview transcript"
+      }
+    ],
+    "deck": "ひとつの曲の中で、次の世代が顔を上げる。",
+    "essayTitle": "ひとつの曲の中で、次の世代が顔を上げる。",
+    "essay": [
+      "Tha Alkaholiksの『Coast II Coast』は、1995年の「WLIX」で幕を開ける。LootpackとDeclaimeを迎え、制作はMadlib、スクラッチにはE-SwiftとDJ Romesが名を連ねる。ホスト側と客演側の名前が、ラップだけでなく伴奏やターンテーブルの役割にもまたがるポッセ・カットだ。",
+      "Lootpackにとって、これは初めてレコードに登場した曲ではない。Tha Alkaholiksとの交流をすでに重ねたうえで、さらに関心を集める機会になった曲だった。後のMadlibの名声から逆算するだけではなく、既存のグループが自分たちのアルバムを若い仲間へ開いた場面としても位置づけられる。",
+      "この関係は、Oxnardで育った仲間たちが独立した作品を出す道へ続く。Madlibは、父Otis Jackson Sr.が1996年の最初の自主盤を支えたと回想している。「WLIX」はその後の活動の予告というだけではない。Tha Alkaholiks、Lootpack、Declaimeが同じ作品を形作った、1995年の交点である。"
+    ],
+    "facts": [
+      {
+        "title": "1995年のアルバム",
+        "text": "公式配信とApple Musicは1995年2月28日の『Coast II Coast』収録曲として示す。",
+        "sources": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "制作者とスクラッチ",
+        "text": "公式クレジットはMad Lib制作、E-SwiftとDJ Romesのスクラッチを掲載する。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "主名義と客演",
+        "text": "Tha Alkaholiksの曲にLootpack、Declaimeが参加。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "listening": [],
+    "youtube": {
+      "id": "fePFbwInnoM",
+      "url": "https://www.youtube.com/watch?v=fePFbwInnoM",
+      "channel": "Tha Alkaholiks - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式Topicチャンネルを再照合。権利者提供の掲載情報に基づく確認であり、実音声の聴取・再生進行は未検証。",
+      "title": "WLIX"
+    },
+    "yearBasis": "1995年のオリジナル・アルバム発売年。",
+    "context": "ひとつの曲の中で、次の世代が顔を上げる。",
+    "art": {
+      "word": "WLIX",
+      "lines": [
+        "WLIX"
+      ],
+      "tag": "THA ALKAHOLIKS FEAT. LOOTPACK & DECLAIME",
+      "style": "piece",
+      "seed": 2310573567,
+      "profile": "ny-subway",
+      "palette": [
+        "#2b8794",
+        "#0d444b",
+        "#daa64d",
+        "#dbe6d8"
+      ],
+      "paletteSource": "https://music.apple.com/ca/song/258608265",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "addedOrder": 415,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
   }
 ]
