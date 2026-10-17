@@ -121,3 +121,27 @@ footer{flex-wrap:wrap}footer .page-sharing{flex-shrink:0}
 /* Native horizontal browsing for mobile feature collections only. */
 .feature-swipe-hint{display:none}.feature-swipe:focus-visible{outline:3px solid #006cb6;outline-offset:3px}
 @media(max-width:640px){.feature-swipe-hint{display:block;font-size:12px;line-height:1.6;margin:18px 0 0;color:#51483c}.feature-grid.feature-swipe{display:grid;grid-template-columns:none;grid-auto-flow:column;grid-auto-columns:86%;align-items:start;gap:14px;max-width:100%;min-width:0;overflow-x:auto;scroll-snap-type:x proximity;scroll-padding-inline:6px;padding:6px 6px 16px;margin-top:8px;scrollbar-width:thin}.feature-swipe>*{min-width:0;scroll-snap-align:start}.feature-swipe .feature-photo-credit{overflow-wrap:anywhere}}
+
+/* Purposeful control feedback; swipe containers retain their existing geometry. */
+:where(.transport button,.art-controls button,.browse-options button,.playlist-scope button,.results-pagination button,.list-tools button,.row-menu,.row-actions button,.play-article button,.sample-actions button,.page-sharing button,.page-sharing a,#art-close){
+  transition:background-color 120ms ease-out,border-color 120ms ease-out,color 120ms ease-out;
+}
+:where(.transport button,.art-controls button,.browse-options button,.playlist-scope button,.results-pagination button,.list-tools button,.row-menu,.row-actions button,.play-article button,.sample-actions button,.page-sharing button,#art-close):not(:disabled):active{
+  box-shadow:inset 0 0 0 2px currentColor;
+}
+.record-card:focus-visible{color:var(--blue)}
+.card-arrow{display:inline-block;transition:transform 160ms ease-out}
+@media(hover:hover) and (pointer:fine){
+  .record-card:hover .card-arrow{transform:translate(2px,-2px)}
+}
+.record-card:focus-visible .card-arrow{transform:translate(2px,-2px)}
+/* Keep the swipe transform and its established 180 ms transition untouched. */
+.record-row.swipe-left .card-arrow,.record-row.swipe-right .card-arrow{transform:none}
+/* Existing card focus outline is clipped by the swipe row overflow. Draw it inside. */
+.record-row>.record-card:focus-visible{outline-offset:-3px}
+@media(prefers-reduced-motion:reduce){
+  :where(.transport button,.art-controls button,.browse-options button,.playlist-scope button,.results-pagination button,.list-tools button,.row-menu,.row-actions button,.play-article button,.sample-actions button,.page-sharing button,.page-sharing a,#art-close,.record-card,.card-arrow){transition:none}
+  .card-arrow,.record-card{transition:none}
+  .card-arrow,.record-card:hover .card-arrow,.record-card:focus-visible .card-arrow{transform:none}
+}
+
