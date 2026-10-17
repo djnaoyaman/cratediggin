@@ -5993,14 +5993,18 @@
       "artist": "Cypress Hill",
       "album": "Cypress Hill",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#9c8d94",
+        "#3a4148",
+        "#34634a"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteSource": "Cypress Hill (Expanded Edition)",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/cypress-hill-hand-on-the-pump-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1579579535"
     },
     {
       "id": "de-la-soul-oodles-of-o-s",
@@ -6008,14 +6012,18 @@
       "artist": "De La Soul",
       "album": "De La Soul Is Dead",
       "palette": [
-        "#8e3e43",
-        "#e5d6c5",
-        "#729385",
-        "#342b28"
+        "#be583a",
+        "#328567",
+        "#e2cf8b"
       ],
       "paletteSource": "De La Soul Is Dead",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/de-la-soul-oodles-of-o-s-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1664602255"
     },
     {
       "id": "brand-nubian-love-me-or-leave-me-alone",
@@ -6023,14 +6031,18 @@
       "artist": "Brand Nubian",
       "album": "In God We Trust",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#6e9a94",
+        "#b63f21",
+        "#c6b84f"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteSource": "In God We Trust",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/brand-nubian-love-me-or-leave-me-alone-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1604632431"
     },
     {
       "id": "nice-smooth-how-to-flow",
@@ -6038,14 +6050,18 @@
       "artist": "Nice & Smooth",
       "album": "Ain't a Damn Thing Changed",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#76566f",
+        "#d7883d",
+        "#d9bd62"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Ain't a Damn Thing Changed",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/nice-smooth-how-to-flow-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/how-to-flow/1443737056?i=1443737547&uo=4"
     },
     {
       "id": "showbiz-a-g-he-say-she-say",
@@ -6093,14 +6109,18 @@
       "artist": "Eric B. & Rakim",
       "album": "House Party 2 / Don't Sweat the Technique",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#d9bb61",
+        "#754676",
+        "#c55c3b"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Don't Sweat the Technique",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/eric-b-rakim-what-s-on-your-mind-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1440798367"
     },
     {
       "id": "da-bush-babees-we-run-things-it-s-like-dat",
@@ -6108,14 +6128,19 @@
       "artist": "Da Bush Babees",
       "album": "Ambushed",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#bda747",
+        "#c6a156",
+        "#992d38",
+        "#38674b"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Ambushed",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/da-bush-babees-we-run-things-it-s-like-dat-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/ambushed/1672770876"
     },
     {
       "id": "the-pharcyde-4-better-or-4-worse",
@@ -6143,14 +6168,18 @@
       "artist": "Da King & I",
       "album": "Flip da Scrip / Contemporary Jeep Music",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#b68b37",
+        "#d7bf85",
+        "#756177"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Contemporary Jeep Music",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/da-king-i-flip-da-scrip-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/555172792"
     },
     {
       "id": "kirk-uptown-style",
@@ -6173,14 +6202,19 @@
       "artist": "Super Lover Cee & Casanova Rud",
       "album": "Blow Up the Spot",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#844647",
+        "#56733c",
+        "#ba7139",
+        "#92939f"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Blow Up the Spot",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/super-lover-cee-casanova-rud-this-dub-s-for-you-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1565537145"
     },
     {
       "id": "nice-smooth-old-to-the-new",
@@ -6188,14 +6222,18 @@
       "artist": "Nice & Smooth",
       "album": "Jewel of the Nile",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#4c3025",
+        "#a57c59",
+        "#d6c5ad"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Jewel of the Nile",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/nice-smooth-old-to-the-new-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1444203928"
     },
     {
       "id": "da-youngsta-s-pass-da-mic",
@@ -6203,14 +6241,18 @@
       "artist": "Da Youngsta's",
       "album": "Somethin 4 da Youngsta's",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#ae712e",
+        "#778294",
+        "#d8c39b"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Somethin 4 the Youngsta's",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/da-youngsta-s-pass-da-mic-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/272494082"
     },
     {
       "id": "zhigge-toss-it-up",
@@ -6218,14 +6260,18 @@
       "artist": "Zhigge",
       "album": "Zhigge",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#b92e2d",
+        "#929292",
+        "#303030"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Zhigge",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/zhigge-toss-it-up-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1442280394"
     },
     {
       "id": "mesanjarz-of-funk-flip-da-script",
@@ -6248,14 +6294,19 @@
       "artist": "Leaders of the New School",
       "album": "T.I.M.E. (The Inner Mind's Eye)",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#513746",
+        "#978f7a",
+        "#c4a14b",
+        "#354882"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "T.I.M.E.",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/leaders-of-the-new-school-what-s-next-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/357814855"
     },
     {
       "id": "neneh-cherry-i-ain-t-gone-under-yet",
@@ -6263,14 +6314,19 @@
       "artist": "Neneh Cherry",
       "album": "Homebrew",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#c3a17b",
+        "#833c38",
+        "#24435a",
+        "#899083"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Homebrew",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/neneh-cherry-i-ain-t-gone-under-yet-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/714822166"
     },
     {
       "id": "trends-of-culture-valley-of-the-skinz",
@@ -6278,14 +6334,18 @@
       "artist": "Trends of Culture",
       "album": "Trendz",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#7c6394",
+        "#c95039",
+        "#969b9d"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Trendz...",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/trends-of-culture-valley-of-the-skinz-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1443475826"
     },
     {
       "id": "the-beatnuts-rik-s-joint",
@@ -6313,14 +6373,18 @@
       "artist": "M.O.P.",
       "album": "To the Death",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#2c4c68",
+        "#e3aa37",
+        "#b35e33"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "To the Death",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/m-o-p-rugged-neva-smoove-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/to-the-death/1778581562"
     },
     {
       "id": "champ-mc-keep-it-on-the-real",
@@ -6343,14 +6407,18 @@
       "artist": "Brand Nubian",
       "album": "Everything Is Everything",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#696668",
+        "#b7b2b2",
+        "#bea24a"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Everything Is Everything",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/brand-nubian-word-is-bond-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1604626951"
     },
     {
       "id": "boogiemonsters-strange",
