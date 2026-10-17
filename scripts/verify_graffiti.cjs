@@ -1,6 +1,9 @@
 const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
 const manifest=JSON.parse(fs.readFileSync('graffiti_artwork.json','utf8'));
 const {window}=vm.runInNewContext(fs.readFileSync('dist/tracks.js','utf8')+';({window})',{window:{}});
+const path=require('node:path');
+function verifyCredits(dir){for(const entry of fs.readdirSync(dir,{withFileTypes:true})){const file=path.join(dir,entry.name);if(entry.isDirectory())verifyCredits(file);else if(file.endsWith('.html')){const html=fs.readFileSync(file,'utf8');if(html.includes('id="art-view"'))assert.match(html,/<span class="art-credit">Designed by DJ Naoyaman<\/span>/,'Missing graffiti credit: '+file)}}}
+verifyCredits('dist');
 const ready=manifest.tracks.filter(t=>t.status==='ready');assert(ready.length>=3);
 for(const t of window.TRACKS)assert.equal(t.art.alt,t.title+' — '+t.artist+'｜CRATE DIGGIN｜DJ Naoyaman');
 for(const a of ready){const t=window.TRACKS.find(t=>t.id===a.id);assert(t&&t.art.image===a.image);assert(a.textReviewed&&a.paletteReviewed);assert(fs.statSync(a.image).size>10000);assert(fs.existsSync('dist/'+a.image));assert.deepEqual(a.palette,Array.from(t.art.palette));assert.equal(a.paletteSource,t.art.paletteSource)}
