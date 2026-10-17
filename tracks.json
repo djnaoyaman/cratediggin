@@ -24612,13 +24612,13 @@
     "producer": "J Dilla",
     "members": "Slum Village",
     "youtube": {
-      "id": "tah5UC2hdrk",
-      "url": "https://www.youtube.com/watch?v=tah5UC2hdrk",
+      "id": "RQ7ILOdQ16w",
+      "url": "https://www.youtube.com/watch?v=RQ7ILOdQ16w",
       "channel": "Slum Village - Topic",
       "type": "Official Audio / Video",
       "official": true,
-      "verified": "2026-10-15",
-      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+      "verified": "2026-10-17",
+      "verification": "旧公式動画は埋め込みエラー150を確認。新しい公式配信の曲名・投稿元・Fan-Tas-Tic Vol 2収録・3:31表記を照合して差し替え。実音声・日本国内の埋め込み再生は未検証。"
     },
     "art": {
       "word": "GET DIS MONEY",
@@ -24665,7 +24665,7 @@
     "sources": [
       {
         "label": "Slum Village - Topic / Get Dis Money",
-        "url": "https://www.youtube.com/watch?v=tah5UC2hdrk",
+        "url": "https://www.youtube.com/watch?v=RQ7ILOdQ16w",
         "kind": "公式配信・動画"
       }
     ],
