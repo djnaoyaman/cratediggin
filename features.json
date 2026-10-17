@@ -226,7 +226,18 @@
         "connections": "Organ Donorの音の切り替えとMidnight in a Perfect Worldの奥行き。後続の作り手を一括りにする前に、同じ制作の耳が生む違いを聴く。元ネタは各曲の資料からたどれる。"
       },
       "aliases": [],
-      "identityNote": "UNKLEはDJ Shadowひとりの別名義ではなく共同プロジェクトです。本人名義の作品と、制作参加作品を区別してたどります。"
+      "identityNote": "UNKLEはDJ Shadowひとりの別名義ではなく共同プロジェクトです。本人名義の作品と、制作参加作品を区別してたどります。",
+      "visual": {
+        "photo": "feature-dj-shadow-photo.jpg",
+        "tag": "feature-dj-shadow-tag.webp",
+        "alt": "DJ Shadow、2006年のDJプレイ写真。撮影 Scott Sandars。",
+        "author": "Scott Sandars",
+        "source": "https://commons.wikimedia.org/wiki/File:DJ_Shadow_(cropped).jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "表示時のトリミング・セピア調・クラフト紙レイヤー。写真の人物・顔は生成・再描画していません。",
+        "focus": "50% 35%"
+      }
     },
     {
       "id": "j-dilla",
