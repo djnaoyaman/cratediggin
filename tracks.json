@@ -19490,13 +19490,13 @@
       "seed": 2187,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#b58b63",
+        "#eee1cc",
+        "#ab6651",
+        "#342b25"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Illmatic",
+      "paletteNote": "既存の同一アルバム設定を参照。編集上の近似配色であり厳密な色抽出ではありません。",
       "lines": [
         "LIFE’S",
         "A BITCH"
@@ -19610,13 +19610,13 @@
       "seed": 2188,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#b58b63",
+        "#eee1cc",
+        "#ab6651",
+        "#342b25"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Illmatic",
+      "paletteNote": "既存の同一アルバム設定を参照。編集上の近似配色であり厳密な色抽出ではありません。",
       "lines": [
         "ONE",
         "LOVE"
@@ -19846,19 +19846,20 @@
       "seed": 2191,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#6f1f21",
+        "#345c32",
+        "#b48a39",
+        "#e7ddb6"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Doe or Die",
+      "paletteNote": "Apple Music掲載のDoe or Dieジャケットを目視参照。臙脂・緑・金褐色・クリームの編集上の近似配色。厳密な色抽出ではありません。",
       "lines": [
         "RATHER",
         "UNIQUE"
       ],
       "lettering": "subway",
-      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。",
+      "paletteCoverSource": "https://music.apple.com/us/album/doe-or-die/724052211"
     },
     "deck": "Les McCannの短いAnticipationから、AZの一曲へ。",
     "essayTitle": "独特です、と言う前に。",
@@ -19968,13 +19969,13 @@
       "seed": 2190,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#ad7f52",
+        "#e7d8b8",
+        "#608e6f",
+        "#302b26"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Mecca and the Soul Brother",
+      "paletteNote": "既存の同一アルバム設定を参照。編集上の近似配色であり厳密な色抽出ではありません。",
       "lines": [
         "LOTS",
         "OF LOVIN’"
@@ -20220,18 +20221,19 @@
       "seed": 19990199,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#151515",
+        "#555555",
+        "#bcbcbc",
+        "#f4f4f4"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Lesson 7: The Next Lesson / The Forever Diggin’ EP",
+      "paletteNote": "アーティスト公式Bandcamp掲載のモノクロ盤面ジャケットを目視参照。黒・グラファイト・銀灰・白の編集上の近似配色。厳密な色抽出ではありません。",
       "lines": [
         "LESSON 7: THE NEXT LESSON"
       ],
       "lettering": "subway",
-      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。",
+      "paletteCoverSource": "https://crownedheights.bandcamp.com/track/lesson-7-the-next-lesson"
     },
     "deck": "第七の授業。",
     "essayTitle": "レコードの授業は、続いている。",
@@ -20320,18 +20322,19 @@
       "seed": 19970200,
       "profile": "la-open-sky",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#bd9445",
+        "#946732",
+        "#eadb8b",
+        "#282828"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "J5（Jurassic 5）",
+      "paletteNote": "Apple Music掲載のJ5ジャケットを目視参照。金・琥珀褐色・淡い金クリーム・チャコールの編集上の近似配色。厳密な色抽出ではありません。",
       "lines": [
         "LESSON 6: THE LECTURE"
       ],
       "lettering": "subway",
-      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。",
+      "paletteCoverSource": "https://music.apple.com/us/album/1777704233"
     },
     "deck": "授業は、まだ続いている。",
     "essayTitle": "レコードの授業は、続いている。",
@@ -23584,7 +23587,8 @@
       "paletteSource": "Psyence Fiction",
       "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
       "lettering": "block",
-      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。",
+      "paletteCoverSource": "https://www.universal-music.co.jp/unkle/biography/"
     },
     "deck": "Thom Yorkeの声と、UNKLEの深い陰影。",
     "essayTitle": "声が、暗がりの輪郭をつくる。",
@@ -23928,7 +23932,8 @@
       "paletteSource": "The Private Press",
       "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
       "lettering": "block",
-      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。",
+      "paletteCoverSource": "https://djshadow.com/products/the-private-press-vinyl-2lp"
     },
     "deck": "LateefのMCが運ぶ、せわしないビートの景色。",
     "essayTitle": "ハンドルより先に、言葉が曲がる。",
@@ -24244,7 +24249,8 @@
       "paletteSource": "The Mountain Will Fall",
       "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
       "lettering": "block",
-      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。",
+      "paletteCoverSource": "https://djshadow.bandcamp.com/album/the-mountain-will-fall"
     },
     "deck": "Run The Jewelsの言葉が、太いビートを押し進める。",
     "essayTitle": "ビートに、二人分の口がある。",
@@ -25927,7 +25933,8 @@
       "paletteSource": "Shades of Blue",
       "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
       "lettering": "block",
-      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。",
+      "paletteCoverSource": "https://www.youtube.com/watch?v=78E1ZFpHOJI"
     },
     "deck": "Blue Noteの音源と、Madlibのビートの接点。",
     "essayTitle": "ジャズの棚に、別の入口を。",
@@ -39336,6 +39343,960 @@
       "letteringNote": "作品の転載を用いない独自の文字表現。"
     },
     "curationNote": "選定したのは出典で同定した商業リリースの録音。ミックスに収録された短い抜粋の編集・検閲違いまでは未確認。別リミックスとして登録していない。"
+  },
+  {
+    "id": "black-moon-showdown",
+    "artist": "Black Moon",
+    "title": "Showdown",
+    "album": "War Zone",
+    "label": "Duck Down / Priority",
+    "producer": "Da Beatminerz",
+    "sources": [
+      {
+        "label": "Showdown feat. Q-Tip — Apple Music",
+        "url": "https://music.apple.com/us/song/338738392",
+        "kind": "licensed_release_metadata"
+      },
+      {
+        "label": "Black Moon: War Zone — AllMusic",
+        "url": "https://www.allmusic.com/album/war-zone-mw0000602575",
+        "kind": "music_reference"
+      },
+      {
+        "label": "Black Moon: War Zone — RapReviews (March 1999)",
+        "url": "https://www.rapreviews.com/1999/03/black-moon-war-zone/",
+        "kind": "contemporary_music_review"
+      },
+      {
+        "label": "Rediscover War Zone — Albumism",
+        "url": "https://albumism.com/features/black-moon-war-zone-album-anniversary",
+        "kind": "music_journalism"
+      },
+      {
+        "label": "War Zone credits transcription — Dork",
+        "url": "https://readdork.com/lyrics/black-moon-war-zone-credits",
+        "kind": "secondary_liner_notes_transcription"
+      },
+      {
+        "label": "Showdown — Dork lyrics and credits",
+        "url": "https://readdork.com/lyrics/black-moon-showdown",
+        "kind": "secondary_lyrics_and_credits"
+      },
+      {
+        "label": "Showdown album version — J S upload",
+        "url": "https://www.youtube.com/watch?v=q_BLScAw-Vw",
+        "kind": "unofficial_audio_upload"
+      },
+      {
+        "label": "Duck Down official release links",
+        "url": "https://linktr.ee/duckdownmusic",
+        "kind": "primary_label_release_hub"
+      }
+    ],
+    "deck": "BuckshotのヴァースをQ-Tipの呼びかけが束ねる。Da Beatminerzが支える、War Zoneの中の開かれた接点。",
+    "essayTitle": "対決ではなく、二つの声で場をつくる",
+    "year": 1999,
+    "yearBasis": "選定版『War Zone』の1999年発売を基準。曲の初出年は照合中で、1998年の先行流通の可能性を否定しない。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "members": "Buckshot / 5ft / DJ Evil Dee / Q-Tip",
+    "producers": [
+      "Da Beatminerz"
+    ],
+    "youtube": {
+      "id": "q_BLScAw-Vw",
+      "url": "https://www.youtube.com/watch?v=q_BLScAw-Vw",
+      "title": "Black Moon Ft. Q-Tip & Buckshot - Showdown (Album Version) (Dirty) (1999) (HD Audio)",
+      "channel": "J S",
+      "type": "User Upload",
+      "official": false,
+      "verified": "2026-10-16",
+      "verification": "2026年10月16日、oEmbedで曲名と投稿者「J S」を確認。一般ユーザー投稿。題名はアルバム版と表記されるが、投稿者が称するリマスター処理や原盤との音声同一性は未検証。公式音源とは表示しない。"
+    },
+    "art": {
+      "word": "SHOWDOWN",
+      "lines": [
+        "SHOWDOWN"
+      ],
+      "tag": "BLACK MOON",
+      "style": "piece",
+      "seed": 3625885664,
+      "profile": "ny-subway",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "essay": [
+      "「Showdown」はBlack Moonの『War Zone』にQ-Tipを迎えた楽曲。客演の価値を長いヴァースの本数だけで測ると、この組み合わせの面白さを取り逃がす。ここでQ-Tipは呼びかけとフックを担い、Buckshotのラップを聴き手へ受け渡す役に回る。二人の技量を競わせるというより、一人が場面を語り、もう一人が集まった人々を曲へ引き込む構造として捉えたい。",
+      "『War Zone』はデビュー作『Enta Da Stage』から約6年を経たBlack Moonのセカンド・アルバム。AllMusicが挙げるBusta Rhymes、Q-Tip、Cocoa Brovazといった客演の広がりの中で、本曲はTribe側の声を迎え入れる接点になる。Albumismは、前年に『The Love Movement』を発表した後のQ-Tipの多彩な客演活動の一つとして本曲を位置づける。Black Moonの復帰だけでなく、1990年代末のニューヨークの人のつながりを聴く入口でもある。",
+      "アルバムを制作面で支えるのはDa Beatminerz。曲別クレジットにはBuckshotにあたるK. Blakeと、E. Dewgarde、W. Dewgardeの名が並ぶ。クレジットの転載では、録音はD&D StudiosのLeo “Swift” Morris、ミックスはMorrisとKieran Walshの共同担当とされる。Q-Tipが参加しているから彼のプロデュース、と短絡しないことが大切だ。MCの声の組み合わせと、その声が乗る制作陣の系譜は、別々に追うことで立体的になる。",
+      "まずBuckshotの長い叙述から、Q-Tipの反復する呼びかけへ切り替わる箇所を追う。次にフックに出てくる車や街区、生活空間の列挙に目を向けると、聴き手を一か所のクラブだけに閉じ込めない曲の作りが見える。隣に同じアルバムの「The Onslaught」を置けば、Busta Rhymesを迎える場面との客演の役割の違いも比べられる。"
+    ],
+    "facts": [
+      {
+        "title": "Q-Tipの参加",
+        "text": "配信・作品資料は「Showdown」をBlack MoonのQ-Tip参加曲として掲載。Q-Tipはフックと呼びかけ、Buckshotはヴァースを担う。",
+        "sources": [
+          0,
+          1,
+          5
+        ]
+      },
+      {
+        "title": "アルバムと制作",
+        "text": "1999年『War Zone』収録、Da Beatminerz制作。転載クレジットにはK. Blake、E. Dewgarde、W. Dewgardeの作家表記と、D&D StudiosでのLeo “Swift” Morrisによる録音と、Leo “Swift” Morris／Kieran Walshによるミックスがある。",
+        "sources": [
+          1,
+          3,
+          4,
+          5
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "個別に出典のある関係だけを掲載。未掲載はサンプル不使用を意味しません。",
+    "listening": [
+      "編集部の聴取ガイド：BuckshotのヴァースとQ-Tipの反復フックを、役割の違いとして聴く。",
+      "フックの車・街区・生活空間の列挙が、聴き手への呼びかけを広げる過程に注目。",
+      "The Onslaughtと続けて聴き、同じグループで客演の使い方がどう変わるかを比べる。"
+    ],
+    "context": "Black Moonのセカンド・アルバムで、BuckshotとQ-Tipがヴァースとフックの役割を分ける一曲。",
+    "connections": [],
+    "sounds": [
+      "ラップ",
+      "ドラム"
+    ],
+    "addedOrder": 367,
+    "datePublished": "2026-10-16",
+    "noteReviewedAt": "2026-10-16",
+    "editorialStatus": "作品資料とクレジットを照合。聴き方は資料に基づく編集上の考察。実再生は未検証。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "出典で同定したアルバム収録曲を掲載。短いミックス抜粋との編集・検閲違いは未確認。"
+  },
+  {
+    "id": "eminem-my-name-is",
+    "artist": "Eminem",
+    "title": "My Name Is",
+    "album": "The Slim Shady LP",
+    "label": "Aftermath / Interscope",
+    "producer": "Dr. Dre",
+    "sources": [
+      {
+        "label": "My Name Is — Universal official audio",
+        "url": "https://www.youtube.com/watch?v=UpijCCRThM8",
+        "kind": "primary_label_metadata"
+      },
+      {
+        "label": "My Name Is — Shazam/Apple credits",
+        "url": "https://www.shazam.com/song/1440871783/my-name-is",
+        "kind": "licensed_release_metadata"
+      },
+      {
+        "label": "Best Rap Solo Performance 2000 — Recording Academy",
+        "url": "https://www.grammy.com/awards/categories/best-rap-solo-performance/2000/",
+        "kind": "primary_award_record"
+      },
+      {
+        "label": "The Making Of My Name Is — official Vevo Footnotes",
+        "url": "https://www.youtube.com/watch?v=C2dhJiHQDgU",
+        "kind": "primary_artist_commentary_video"
+      },
+      {
+        "label": "Eminem Released Annotated Video — ePro report of artist commentary",
+        "url": "https://eminem.news/my-name-is-annotated.html",
+        "kind": "secondary_transcription_of_artist_commentary"
+      },
+      {
+        "label": "My Name Is 25th anniversary — official Eminem website",
+        "url": "https://www.eminem.com/news/limited-edition-my-name-is-99-vintage-t-shirt-reissue/",
+        "kind": "primary_artist_website"
+      }
+    ],
+    "deck": "名乗りのフックを武器にSlim Shadyを登場させる。Dr. DreによるLabi Siffreの再構築と、Eminemの戯画的なラップが結び付いた1999年作。",
+    "essayTitle": "短い自己紹介が、巨大な人物像になるまで",
+    "year": 1999,
+    "yearBasis": "1999年のシングル／『The Slim Shady LP』収録曲。公式音源が示す2月23日はアルバムの日付で、シングル初出日とは区別。",
+    "region": "US",
+    "scene": "US",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "members": "Eminem",
+    "producers": [
+      "Dr. Dre"
+    ],
+    "youtube": {
+      "id": "UpijCCRThM8",
+      "url": "https://www.youtube.com/watch?v=UpijCCRThM8",
+      "title": "My Name Is",
+      "channel": "Eminem - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-16",
+      "verification": "2026年10月16日、oEmbedで曲名と投稿者「Eminem - Topic」を確認。曲名・演者・作品情報の照合。実音声・埋め込み可否・地域制限は未検証。"
+    },
+    "art": {
+      "word": "MY NAME IS",
+      "lines": [
+        "MY NAME IS"
+      ],
+      "tag": "EMINEM",
+      "style": "piece",
+      "seed": 3214765558,
+      "profile": "piece",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "essay": [
+      "「My Name Is」は、本名を説明する自己紹介ではなく、Slim Shadyという人物像を聴き手の前へ投げ出す曲だ。短い名乗りを繰り返すフックに対し、ヴァースでは学校、家族、著名人などを荒唐無稽な場面へ巻き込む。語り手をそのまま作者の履歴として読むより、誇張と悪趣味を引き受けるキャラクターとして捉えると、記憶しやすい入口と挑発的な内容の落差が見えてくる。",
+      "2024年のVevo Footnotesに寄せた本人の説明を伝えるePro記事によれば、これはDr. Dreとの最初のセッションで作った2曲目だった。Dreがターンテーブルで録音をかけ、その一節にEminemが名乗りのフックを乗せたことが出発点になったという。その後ロサンゼルスの滞在先でヴァースを書き、二人はこの曲を世に自己紹介する方法と考えた。先に大きな物語を完成させるのではなく、小さな反応からキャラクターの入口が立ち上がったわけだ。",
+      "素材はLabi Siffreの「I Got The...」。本人の説明ではDreとミュージシャンがその音楽を再演奏しており、単純に既存録音をループした、とだけ片づけない方が制作の実態に近い。公式クレジットでもSiffreはEminem、Andre R. Youngと並ぶ作家だ。元曲と続けて聴く際は、印象的なリフが保たれる部分と、ラップを前に出すために反復の土台へ変換された部分を分けて追いたい。",
+      "フックの名乗り、合いの手、ヴァースの長い文を別々の役割として追うと、親しみやすさと騒々しさが同居する構造が分かりやすい。Dr. Dreは制作だけでなく追加ボーカルにも名を連ね、曲中の声のやり取りに関与する。この一曲は2000年のGrammyでBest Rap Solo Performanceを受賞した。受賞歴だけでなく、簡単に覚えられる反復が異様な語り手をどこまで大きく見せるか、という技法にも耳を向けたい。"
+    ],
+    "facts": [
+      {
+        "title": "制作と発売",
+        "text": "1999年The Slim Shady LP収録。公式音源はDr. Dreを制作・ミックス、Eminem、Andre R. Young、Labi Siffreを作家として記載。原盤Interscope、Shazamの発売レーベルはAftermath。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "元曲の再演奏",
+        "text": "2024年Vevo Footnotesの本人発言を伝えるePro記事は、最初のDreとのセッションで生まれた2曲目と説明。DreがかけたLabi Siffreの録音からフックが生まれ、その音楽をDreと演奏者が再演奏したと伝えている。",
+        "sources": [
+          3,
+          4
+        ]
+      },
+      {
+        "title": "受賞",
+        "text": "2000年、第42回GrammyのBest Rap Solo Performance受賞。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "samples": [
+      {
+        "artist": "Labi Siffre",
+        "title": "I Got The...",
+        "role": "Vevo Footnotesでの本人発言を伝えるePro記事による再演奏／インターポレーション。原盤をそのままループしただけとは断定しない。比較音源は未照合のため未掲載。",
+        "sources": [
+          3,
+          4
+        ],
+        "main": false
+      }
+    ],
+    "sampleStatus": "個別に出典のある関係だけを掲載。未掲載はサンプル不使用を意味しません。",
+    "listening": [
+      "編集部の聴取ガイド：短いフック、合いの手、長いヴァースの語りを分けて追う。",
+      "I Got The...と並べ、リフの保持と再演奏による役割の変化を比べる。",
+      "Dr. Dreの追加ボーカルとEminemの一人称の距離に注目する。"
+    ],
+    "context": "Dr. Dreとの初期セッションから、Slim Shadyという語り手を紹介するフックが生まれた。2000年のGrammyでラップ・ソロ部門受賞。",
+    "connections": [],
+    "sounds": [
+      "ラップ",
+      "ドラム"
+    ],
+    "addedOrder": 368,
+    "datePublished": "2026-10-16",
+    "noteReviewedAt": "2026-10-16",
+    "editorialStatus": "作品資料とクレジットを照合。聴き方は資料に基づく編集上の考察。実再生は未検証。",
+    "collections": [],
+    "editorialCrates": [],
+    "curationNote": "出典で同定したアルバム収録曲を掲載。短いミックス抜粋との編集・検閲違いは未確認。"
+  },
+  {
+    "id": "all-city-get-paid",
+    "artist": "All City",
+    "title": "Get Paid",
+    "album": "Metropolis Gold",
+    "label": "MCA",
+    "producer": "Rockwilder",
+    "sources": [
+      {
+        "label": "Apple Music: Get Paid",
+        "url": "https://music.apple.com/us/song/1444059097",
+        "kind": "digital-distributor"
+      },
+      {
+        "label": "The Good Ol’Dayz: Metropolis Gold track11 credits",
+        "url": "https://www.thegoodoldayz.com/album/metropolis-gold/21557.html",
+        "kind": "release-credit-database"
+      },
+      {
+        "label": "AllMusic: All City biography, Jason Ankeny",
+        "url": "https://www.allmusic.com/artist/all-city-mn0000000025/biography",
+        "kind": "music-reference-biography"
+      },
+      {
+        "label": "FNAC: Metropolis Gold original MCA catalog",
+        "url": "https://www.fr.fnac.be/a741331/All-City-Metropolis-gold-CD-album",
+        "kind": "retailer-release-catalog"
+      },
+      {
+        "label": "WhoSampled: Rockwilder production/sample list, Get Paid",
+        "url": "https://www.whosampled.com/Rockwilder/?sp=6",
+        "kind": "community-sample-database"
+      },
+      {
+        "label": "AllMusic: Metropolis Gold review and tracklist",
+        "url": "https://www.allmusic.com/album/metropolis-gold-mw0000036127",
+        "kind": "music-reference-review"
+      },
+      {
+        "label": "Boom Bap Reviews: Metropolis Gold track-by-track review",
+        "url": "https://boombapreviews.blogspot.com/2015/06/all-city-metropolis-gold-october-24-1998.html",
+        "kind": "independent-critical-blog"
+      },
+      {
+        "label": "Get Paid, All City - Topic",
+        "url": "https://www.youtube.com/watch?v=jAn07nI6TPw",
+        "kind": "youtube-topic-audio-metadata"
+      },
+      {
+        "label": "Music of My Mind: Calloway All The Way sample discussion",
+        "url": "https://eastzono.seesaa.net/article/480871388.html",
+        "kind": "independent-music-blog"
+      }
+    ],
+    "deck": "ブルックリンの二人とRockwilder。Callowayの参照元から、アルバム深部の一曲へ。",
+    "essayTitle": "「稼ぐ」という題名を、クレジットから掘る",
+    "year": 1998,
+    "yearBasis": "1998年『Metropolis Gold』収録。原盤資料の年を採用し、配信の1月1日表記を厳密な初出日とはみなさない。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "members": "J. Mega / Greg Valentine",
+    "producers": [
+      "Rockwilder"
+    ],
+    "youtube": {
+      "id": "jAn07nI6TPw",
+      "url": "https://www.youtube.com/watch?v=jAn07nI6TPw",
+      "title": "Get Paid",
+      "channel": "All City - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-16",
+      "verification": "2026年10月16日、oEmbedで曲名と投稿者「All City - Topic」を確認。曲名・演者・作品情報の照合。実音声・埋め込み可否・地域制限は未検証。"
+    },
+    "art": {
+      "word": "GET PAID",
+      "lines": [
+        "GET PAID"
+      ],
+      "tag": "ALL CITY",
+      "style": "piece",
+      "seed": 3522833460,
+      "profile": "ny-subway",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "essay": [
+      "All CityはJ. MegaとGreg Valentineによるブルックリンのデュオ。AllMusicの評伝によれば、1993年にLyricists’ Loungeで続けてソロを披露した二人が組むことになったという。「Get Paid」は、その二人が1998年の『Metropolis Gold』に残したアルバム曲。シングル「The Actual」だけで彼らの輪郭を決めず、収録曲から声の組み合わせを探る入口になる。",
+      "本曲の制作はRockwilder。録音はDon Elliott、ミックスはTim Lathamというクレジットが残る。『Metropolis Gold』は複数の制作陣が関わる作品であり、この一曲をDJ Premierの「The Actual」と並べると、同じデュオを別の制作者がどう支えるかという比較ができる。アルバムの統一感を「同じビートの質感」だけでなく、二人の存在から考えたい。",
+      "サンプル資料はCallowayの1989年作「I Wanna Be Rich」を参照元に挙げている。クレジットにもReggieとVincent Callowayの名があり、この関係を追う手がかりになる。「金持ちになりたい」と「稼ぐ」という二つの題名を並べるだけでも、富への願望が異なる時代の音楽でどう言い直されるのか、という問いが生まれる。元曲の親しみやすさが、ラップの文脈へ運ばれる過程を比較したい。",
+      "曲別レビューは、Greg Valentineの歌唱フックと、金銭欲が社会にもたらす問題を扱うヴァースに着目している。そこから得られる鑑賞の鍵は、題名を成功の祝福と即断せず、フックの誘いとヴァースの語りが同じ方向を向いているかを確かめること。二人組という編成は、声を交代させるだけでなく、ひとつの主題へ異なる入口を作る可能性を持っている。"
+    ],
+    "facts": [
+      {
+        "title": "デュオと作品",
+        "text": "J. MegaとGreg ValentineによるAll Cityの『Metropolis Gold』収録曲。1998年MCA盤を基準とする。All City Productionsとは別名義。",
+        "sources": [
+          0,
+          2,
+          3
+        ]
+      },
+      {
+        "title": "曲別クレジット",
+        "text": "曲別資料の第11曲「Get Paid」は制作Rockwilder、録音Don Elliott、ミックスTim Lathamと記載。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "歌唱フックとヴァース",
+        "text": "Boom Bap Reviewsの曲別評はGreg Valentineの歌唱フックと、金銭欲が社会に与える影響を扱うヴァースに注目している。",
+        "sources": [
+          6
+        ]
+      }
+    ],
+    "samples": [
+      {
+        "artist": "Calloway",
+        "title": "I Wanna Be Rich",
+        "year": 1989,
+        "role": "サンプルデータベースと専門ブログが参照元として挙げる。独立した音声比較は未実施。比較音源は未照合のため未掲載。",
+        "sources": [
+          4,
+          8
+        ],
+        "main": false
+      }
+    ],
+    "sampleStatus": "個別に出典のある関係だけを掲載。未掲載はサンプル不使用を意味しません。",
+    "listening": [
+      "同じアルバムのThe Actualと比較して、制作者が変わっても残るデュオの個性を探す。",
+      "CallowayのI Wanna Be Richと本曲の「稼ぐ」という主題を比較し、参照元の意味の変化を考える。",
+      "歌唱フックと金銭を扱うヴァースの関係を、単純な成功賛歌かどうかという問いから聴く。"
+    ],
+    "context": "Brooklynの二人組All Cityが、Rockwilderの制作で歌唱フックとラップの金銭観を交差させるアルバム曲。",
+    "connections": [],
+    "sounds": [
+      "ラップ",
+      "ドラム"
+    ],
+    "addedOrder": 369,
+    "datePublished": "2026-10-16",
+    "noteReviewedAt": "2026-10-16",
+    "editorialStatus": "作品資料とクレジットを照合。聴き方は資料に基づく編集上の考察。実再生は未検証。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "出典で同定したアルバム収録曲を掲載。短いミックス抜粋との編集・検閲違いは未確認。"
+  },
+  {
+    "id": "kool-g-rap-cant-stop-the-shine",
+    "artist": "Kool G Rap",
+    "title": "Can't Stop the Shine",
+    "album": "Roots of Evil",
+    "label": "Illstreet / Downlow",
+    "producer": "Kool G Rap（二次資料による記載・原盤クレジット未確認）",
+    "sources": [
+      {
+        "label": "Bandcamp掲載カタログ：The Roots of Evil",
+        "url": "https://theofficialkoolgrap.bandcamp.com/album/the-roots-of-evil",
+        "kind": "配信カタログ（運営主体の公式性は未確認）"
+      },
+      {
+        "label": "Apple Music: Can’t Stop the Shine",
+        "url": "https://music.apple.com/us/song/1487319815",
+        "kind": "digital-distributor"
+      },
+      {
+        "label": "RapReviews: Roots of Evil, Steve Flash Juon, September 1998",
+        "url": "https://www.rapreviews.com/archive/1998_09_rootsofevil.html",
+        "kind": "contemporary-review"
+      },
+      {
+        "label": "Shazam: Can’t Stop The Shine",
+        "url": "https://www.shazam.com/song/1487319815/cant-stop-the-shine",
+        "kind": "digital-metadata-and-lyrics"
+      },
+      {
+        "label": "Roots of Evil discography",
+        "url": "https://en.wikipedia.org/wiki/Roots_of_Evil",
+        "kind": "secondary-discography"
+      },
+      {
+        "label": "Next Records: Can’t Stop the Shine / Thugs Anthem",
+        "url": "https://www.nextrecordsjapan.com/blog024.html",
+        "kind": "specialist-record-dealer"
+      },
+      {
+        "label": "Kool G. Rap YouTube upload",
+        "url": "https://www.youtube.com/watch?v=eJ3s_TSZXpc",
+        "kind": "video-metadata"
+      }
+    ],
+    "deck": "富の光景を韻で連結し、Miss Jonesのフックへ戻る。『Roots of Evil』のパーティー・サイド。",
+    "essayTitle": "輝きを語る声、輝きを疑う視線",
+    "year": 1998,
+    "yearBasis": "1998年の『Roots of Evil』収録版。配信各社で10月の日付が異なるため、初出日は断定しない。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "members": "Kool G Rap / Miss Jones",
+    "producers": [],
+    "youtube": {
+      "id": "eJ3s_TSZXpc",
+      "url": "https://www.youtube.com/watch?v=eJ3s_TSZXpc",
+      "title": "Kool G Rap ► \"Can't Stop The Shine\"  feat. Miss Jones",
+      "channel": "Kool G. Rap",
+      "type": "User Upload",
+      "official": false,
+      "verified": "2026-10-16",
+      "verification": "2026年10月16日、oEmbedで曲名と投稿者「Kool G. Rap」を確認。曲名・Miss Jones参加を投稿表記と資料で照合。チャンネル名だけでは公式性を確定できず、一般投稿として扱う。実再生・埋め込み可否は未検証。"
+    },
+    "art": {
+      "word": "CAN'T STOP THE SHINE",
+      "lines": [
+        "CAN'T STOP THE SHINE"
+      ],
+      "tag": "KOOL G RAP",
+      "style": "piece",
+      "seed": 1498837991,
+      "profile": "ny-subway",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "essay": [
+      "『Roots of Evil』の「Can’t Stop the Shine」は、犯罪の情景を描くKool G Rapの語りを、成功の誇示へと向けた曲だ。1998年当時のRapReviewsも本曲をパーティー・アンセムとして取り上げている。アルバムの暗い物語性を知ってから接すると、祝祭は別世界への脱出というより、同じ世界の豪奢な一室として読める。",
+      "歌詞には車、宝飾、酒、服のディテールが積み重なる。それらは高価な物の目録であると同時に、語り手の身分を瞬時に描く小道具でもある。嫉妬や襲撃への警戒も同居するため、成功は無条件の安息にはならない。輝いて見えることが、他者の欲望と敵意を呼ぶという緊張が曲名の背後に残る。",
+      "Miss Jonesは歌唱フックを担い、G Rapはその反復の周囲に情報量の多いラップを置く。注目したいのは、客演の歌声を単なる飾りとして扱わず、聴き手が戻る場所として捉えることだ。細部を次々に並べるヴァースと、中心の命題を印象づけるフック。その役割の違いから、同じ「輝き」が描写にも標語にもなる。",
+      "レコード専門店Next RecordsはStephanie Millsの「What Cha Gonna Do with My Lovin」とのサンプル関係を指摘している。比較して聴くなら、元曲の恋愛的な呼びかけと、本曲の所有や威信をめぐる言葉の距離がおもしろい。同じ参照先を使う曲でも、語り手が変われば音の意味は変わる。本曲はG Rapの強みを、陰惨な物語だけに限定しないための入口でもある。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と年代",
+        "text": "『Roots of Evil』収録。1998年の同時代評と配信資料を年代の根拠とする。Bandcamp掲載ページの2019年という日付は、原曲の初出年とは区別する。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "制作クレジットの確認範囲",
+        "text": "二次ディスコグラフィーの曲別表はKool G Rapを制作者としている。原盤スリーブによる制作名義の確認は未完了。",
+        "sources": [
+          4
+        ]
+      },
+      {
+        "title": "フックと当時の受け止め",
+        "text": "Miss Jonesが歌唱フックに参加。1998年のRapReviewsは本曲をパーティー・アンセムとして取り上げている。",
+        "sources": [
+          2,
+          3
+        ]
+      }
+    ],
+    "samples": [
+      {
+        "artist": "Stephanie Mills",
+        "title": "What Cha Gonna Do with My Lovin'",
+        "role": "レコード専門店Next Recordsが指摘する参照元。独立した音声比較や権利資料の照合は未実施。比較音源は未掲載。",
+        "sources": [
+          5
+        ],
+        "main": false
+      }
+    ],
+    "sampleStatus": "個別に出典のある関係だけを掲載。未掲載はサンプル不使用を意味しません。",
+    "listening": [
+      "ヴァース内のブランド名や品物の列挙が、人物描写と韻の連結をどう兼ねるか。",
+      "Miss Jonesのフックへ戻る際、細部の描写から曲の中心命題へ視点が切り替わる点。",
+      "Stephanie Millsの参照曲との比較では、歌詞の語り手と場面の変化を追う。"
+    ],
+    "context": "Miss Jonesのフックを迎えた『Roots of Evil』のパーティー・サイド。富の描写と周囲への警戒が同じ語り手の中に現れる。",
+    "connections": [],
+    "sounds": [
+      "ラップ",
+      "ドラム"
+    ],
+    "addedOrder": 370,
+    "datePublished": "2026-10-16",
+    "noteReviewedAt": "2026-10-16",
+    "editorialStatus": "作品資料とクレジットを照合。聴き方は資料に基づく編集上の考察。実再生は未検証。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "出典で同定したアルバム収録曲を掲載。短いミックス抜粋との編集・検閲違いは未確認。"
+  },
+  {
+    "id": "nas-street-dreams",
+    "artist": "Nas",
+    "title": "Street Dreams",
+    "album": "It Was Written",
+    "label": "Columbia",
+    "producer": "Trackmasters (Poke & Tone)",
+    "producers": [
+      "Trackmasters",
+      "Poke & Tone"
+    ],
+    "sources": [
+      {
+        "label": "Street Dreams — Columbia公式配信音源",
+        "url": "https://www.youtube.com/watch?v=PEEENLUY1nM",
+        "kind": "primary_label_metadata"
+      },
+      {
+        "label": "Apple Music：曲別クレジット",
+        "url": "https://music.apple.com/xk/song/211508154",
+        "kind": "licensed_release_metadata"
+      },
+      {
+        "label": "XXL：Nas本人が語るIt Was Written",
+        "url": "https://www.xxlmag.com/nas-remembers-the-impact-of-it-was-written-15-years-later/",
+        "kind": "primary_artist_interview"
+      },
+      {
+        "label": "Complex：NasとTrackmastersの制作証言",
+        "url": "https://uk.complex.com/music/a/insanulahmed/nas-the-making-of-it-was-written",
+        "kind": "primary_participant_interview"
+      },
+      {
+        "label": "Shazam：Street Dreams歌詞・クレジット",
+        "url": "https://www.shazam.com/song/211508154/street-dreams",
+        "kind": "licensed_lyrics_and_metadata"
+      }
+    ],
+    "deck": "高級車への夢と追跡される不安を、歌えるフックで包む。Trackmastersが組み立てた、1996年のNasのストリート叙事詩。",
+    "essayTitle": "甘い夢の入口に、逃げ場のない現実を置く",
+    "facts": [
+      {
+        "title": "原曲の位置づけ",
+        "text": "1996年Columbia『It Was Written』収録。R. Kelly参加のリミックスとは別録音として扱う。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "制作と演奏",
+        "text": "Poke & Tone制作、Rich Travaliがミックスに参加。Appleの曲別資料はDelightをキーボード奏者として掲載する。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "引用の確認範囲",
+        "text": "Linda Cliffordの録音使用は配信クレジット、Eurythmicsの作品使用は作家表記とNas本人の許諾に関する発言で裏付ける。",
+        "sources": [
+          1,
+          2
+        ]
+      }
+    ],
+    "year": 1996,
+    "yearBasis": "1996年のオリジナル・アルバム収録版を基準。後年の配信日やリミックス版の発売日とは区別する。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "members": "Nas",
+    "youtube": {
+      "id": "PEEENLUY1nM",
+      "url": "https://www.youtube.com/watch?v=PEEENLUY1nM",
+      "title": "Street Dreams",
+      "channel": "Nas - Topic",
+      "official": true,
+      "type": "Official Audio",
+      "verification": "正規Topic配信の曲名・演者・作品情報とoEmbedを照合。実音声・マスターの同一性・埋め込み可否・地域制限は未検証。",
+      "verified": "2026-10-16"
+    },
+    "art": {
+      "word": "STREET DREAMS",
+      "lines": [
+        "STREET DREAMS"
+      ],
+      "tag": "NAS",
+      "style": "piece",
+      "seed": 4216008899,
+      "profile": "ny-subway",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "essay": [
+      "高級車や大金を夢見るフックに対し、ヴァースには移動、取引、警察への警戒が詰め込まれる。富の記号だけを拾うと成功譚に見えるが、語り手は安心できる場所に着いていない。終盤で子ども時代の憧れへ視点を戻す構成にも注目したい。欲望を持った大人の話が、その欲望を誰から覚えたのかという記憶へつながる。",
+      "本曲は1996年の『It Was Written』収録曲で、制作はPoke & Tone。短い旋律を反復するフックと、具体的な場面を積み重ねるラップを分けて聴くと、二つの役割が見えてくる。覚えやすい入口があるからこそ、ヴァースが運ぶ不穏な細部との落差が際立つ。旋律を口ずさめることと、語りの世界で安心できることは同じではない。フックへ戻るたび、そのずれを確かめたい。",
+      "Eurythmics「Sweet Dreams (Are Made of This)」を踏まえたフックと、Linda Cliffordの録音の使用は別の関係だ。AppleのクレジットはCliffordをサンプル元の演者として掲載し、LennoxとStewartを作家に記している。Pokeは「Never Gonna Stop」が2Pac「All Eyez on Me」と重なったことを偶然と説明している。曲名だけで同じビートと片づけず、伴奏の反復と声の旋律を分けて比較したい。",
+      "NasのXXLインタビューでは、Eurythmics側の使用許諾の話と、R. Kellyを迎えた「Street Dreams (Remix)」の話が分かれている。ここで聴くのは『It Was Written』の原曲。Nas自身は許諾が得られたことを喜び、Annie Lennoxへの敬意を語っているが、発言だけから契約の配分率は決められない。既知の旋律を自分の街の欲望へ置き換える、その翻案の働きこそ聴き直したい。"
+    ],
+    "samples": [
+      {
+        "artist": "Linda Clifford",
+        "title": "Never Gonna Stop",
+        "role": "Appleのサンプル元演者表記とPokeの制作証言で確認する録音素材。比較用は一般投稿で、公式音源ではない。",
+        "sources": [
+          1,
+          3
+        ],
+        "youtube": {
+          "id": "qy-RBhg39bw",
+          "url": "https://www.youtube.com/watch?v=qy-RBhg39bw",
+          "title": "LINDA CLIFFORD   NEVER GONNA STOP",
+          "channel": "TheRAREGROOVEMAN",
+          "type": "User Upload",
+          "official": false,
+          "verified": "2026-10-16",
+          "verification": "oEmbed曲名・演者照合のみ。実音声、原盤との同一性、地域制限は未検証。公式音源を検索したが特定できず、一般投稿を比較用として掲載。"
+        },
+        "main": true
+      },
+      {
+        "artist": "Eurythmics",
+        "title": "Sweet Dreams (Are Made of This)",
+        "role": "フックの旋律・歌詞の翻案。Nas本人の許諾に関する証言と作家表記で確認。録音そのものの直接サンプルとは区別する。",
+        "sources": [
+          1,
+          2,
+          4
+        ],
+        "youtube": {
+          "id": "qeMFqkcPYcg",
+          "url": "https://www.youtube.com/watch?v=qeMFqkcPYcg",
+          "title": "Eurythmics, Annie Lennox, Dave Stewart - Sweet Dreams (Are Made Of This) (Official Video)",
+          "channel": "EurythmicsVEVO",
+          "type": "Official Video",
+          "official": true,
+          "verified": "2026-10-16",
+          "verification": "oEmbed曲名・演者照合のみ。実音声、原盤との同一性、地域制限は未検証。"
+        },
+        "main": false
+      }
+    ],
+    "sampleStatus": "出典で確認できた引用関係を掲載。再演奏と録音の使用を区別する。",
+    "listening": [
+      "フックの富の記号と、ヴァースに現れる追跡・警戒の対比を追う。",
+      "Linda Cliffordの伴奏素材とEurythmics由来の歌の旋律を別々に比較する。",
+      "終盤の子ども時代の回想が、冒頭の欲望をどう読み替えるかに注目する。"
+    ],
+    "context": "高級車への夢と追跡される不安を、歌えるフックで包む。Trackmastersが組み立てた、1996年のNasのストリート叙事詩。",
+    "connections": [],
+    "sounds": [
+      "ラップ",
+      "歌唱フック"
+    ],
+    "addedOrder": 367,
+    "datePublished": "2026-10-16",
+    "noteReviewedAt": "2026-10-16",
+    "editorialStatus": "本人・制作陣の証言と曲別資料を照合。聴き方は資料に基づく編集上の考察。実再生は未検証。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "オリジナル・アルバム収録曲として掲載。リミックスや別編集とは区別。YouTubeの掲載情報を照合したが、実音声・埋め込み再生・地域制限は未検証。"
+  },
+  {
+    "id": "jay-z-cant-knock-the-hustle",
+    "artist": "Jay-Z",
+    "title": "Can't Knock the Hustle",
+    "album": "Reasonable Doubt",
+    "label": "Roc-A-Fella",
+    "producer": "Knobody / co-production: Dahoud Darien, Sean C",
+    "producers": [
+      "Knobody",
+      "Dahoud Darien",
+      "Sean C"
+    ],
+    "sources": [
+      {
+        "label": "Roc-A-Fella公式配信音源",
+        "url": "https://www.youtube.com/watch?v=8P12bMQMXLA",
+        "kind": "primary_label_metadata"
+      },
+      {
+        "label": "SPIN：制作陣によるReasonable Doubt回想",
+        "url": "https://www.spinmagazine.com/2016/06/jay-z-reasonable-doubt-producers-interviews-ski-dj-clark-kent-dj-premier/",
+        "kind": "primary_producer_interviews"
+      },
+      {
+        "label": "Fresh Air：Jay-Z本人が曲の意図を説明",
+        "url": "https://freshairarchive.org/segments/jay-z-interviewed-and-decoded",
+        "kind": "primary_artist_interview"
+      },
+      {
+        "label": "Shazam：曲別クレジットと歌詞",
+        "url": "https://www.shazam.com/en-us/song/1475940564/cant-knock-the-hustle-feat-mary-j-blige",
+        "kind": "licensed_lyrics_and_metadata"
+      },
+      {
+        "label": "Cultural Front：Kenton Rambsyによる引用関係の研究",
+        "url": "https://www.culturalfront.org/2016/03/jay-zs-reasonable-doubt-sampling-sources.html",
+        "kind": "research_commentary"
+      }
+    ],
+    "deck": "Mary J. Bligeのフックが迎える『Reasonable Doubt』の入口。Knobodyの土台に共同制作者が厚みを加え、Jay-Zはラップに賭ける自分の立場を語る。",
+    "essayTitle": "ハッスルとは、ここではラップのことだった",
+    "facts": [
+      {
+        "title": "作品と参加者",
+        "text": "1996年『Reasonable Doubt』の冒頭曲。Jay-ZのラップにMary J. Bligeが歌唱で参加する。",
+        "sources": [
+          0,
+          3
+        ]
+      },
+      {
+        "title": "制作の役割",
+        "text": "Knobodyによる原型にDahoud DarienとSean Cが音を加えた経緯を、SPINで当事者が説明している。共同制作の範囲はこの証言を根拠とする。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "タイトルの本人解釈",
+        "text": "Fresh AirでJay-Zは、ラップを志す自分を疑う街の仲間に向けた曲だったと説明する。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "year": 1996,
+    "yearBasis": "1996年のオリジナル・アルバム収録版を基準。後年の配信日やリミックス版の発売日とは区別する。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "members": "Jay-Z / Mary J. Blige",
+    "youtube": {
+      "id": "8P12bMQMXLA",
+      "url": "https://www.youtube.com/watch?v=8P12bMQMXLA",
+      "title": "Can't Knock The Hustle",
+      "channel": "JAŸ-Z - Topic",
+      "official": true,
+      "type": "Official Audio",
+      "verification": "正規Topic配信の曲名・演者・作品情報とoEmbedを照合。実音声・マスターの同一性・埋め込み可否・地域制限は未検証。",
+      "verified": "2026-10-16"
+    },
+    "art": {
+      "word": "CAN'T KNOCK THE HUSTLE",
+      "lines": [
+        "CAN'T KNOCK THE HUSTLE"
+      ],
+      "tag": "JAY-Z",
+      "style": "piece",
+      "seed": 3372980372,
+      "profile": "ny-subway",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "essay": [
+      "Jay-ZはFresh Airで、この曲をストリートの仲間に向けたものと説明している。当時の彼にとって街での稼ぎが仕事であり、ラップこそ挑戦したいハッスルだった。音楽業界では搾取されると止める周囲に、それでも試したいと伝える歌なのだ。この本人の説明を踏まえると、タイトルは単なる稼ぎの誇示ではなく、まだ保証のない音楽への意志として聴こえてくる。",
+      "SPINの制作陣インタビューによれば、出発点はKnobodyが自宅で組み立てたトラックだった。Jay-Zが乗ったあと、Dahoud DarienとSean Cがコードや音を加えたと本人は説明する。共同制作の名前を横一列に覚えるだけでなく、最初の骨格と後から加わった厚みを分けて捉えると、ビートが完成していく過程が見えやすい。",
+      "DahoudはMarcus Millerの音楽を再演奏したと語っている。研究者Kenton Rambsyの整理は、その参照曲を「Much Too Much」とし、歌の側にはMeli’sa Morgan「Fool’s Paradise」との関係も挙げる。録音の切り貼り、演奏による再構築、歌詞や旋律の参照を、すべて同じサンプルという言葉で済ませないことが大切だ。低音の動きとMary J. Bligeのフックを分けて聴くと、引用の層をたどりやすくなる。",
+      "『Reasonable Doubt』の入口で、Jay-Zは細かな言葉を積み重ね、Mary J. Bligeは歌唱のフックを担う。滑らかな反復を背景に、ヴァースでは金銭、実務、判断の言葉が前へ出る。その対比を、贅沢な雰囲気だけに回収せず聴きたい。フックへ戻るたびに、個人的な語りが他人にも口ずさめる宣言へ変わる。本頁で扱うのは1996年の原曲で、後のリミックスやライヴ版とは分けている。"
+    ],
+    "samples": [
+      {
+        "artist": "Marcus Miller",
+        "title": "Much Too Much",
+        "role": "Dahoud Darienが再演奏と説明する素材。曲名はCultural Frontの研究で照合。単純な原盤ループとは断定しない。",
+        "sources": [
+          1,
+          4
+        ],
+        "youtube": {
+          "id": "JWu0HvW-X1M",
+          "url": "https://www.youtube.com/watch?v=JWu0HvW-X1M",
+          "title": "Much Too Much",
+          "channel": "Marcus Miller - Topic",
+          "type": "Official Audio",
+          "official": true,
+          "verified": "2026-10-16",
+          "verification": "oEmbed曲名・演者照合のみ。実音声、原盤との同一性、地域制限は未検証。"
+        },
+        "main": true
+      },
+      {
+        "artist": "Meli'sa Morgan",
+        "title": "Fool's Paradise",
+        "role": "Cultural Frontが整理した歌唱・歌詞の参照関係。Wilsonの作家表記とも対応し、原盤全体の直接サンプルとは断定しない。",
+        "sources": [
+          3,
+          4
+        ],
+        "youtube": {
+          "id": "ZzLmymD1Yr4",
+          "url": "https://www.youtube.com/watch?v=ZzLmymD1Yr4",
+          "title": "Fool's Paradise",
+          "channel": "Meli'sa Morgan - Topic",
+          "type": "Official Audio",
+          "official": true,
+          "verified": "2026-10-16",
+          "verification": "oEmbed曲名・演者照合のみ。実音声、原盤との同一性、地域制限は未検証。"
+        },
+        "main": false
+      }
+    ],
+    "sampleStatus": "出典で確認できた引用関係を掲載。再演奏と録音の使用を区別する。",
+    "listening": [
+      "Mary J. Bligeの歌唱フックと、Jay-Zの具体的な語りの役割を分けて聴く。",
+      "Marcus Miller由来の低音の動きと、その上に加わるコードの厚みを追う。",
+      "タイトルをラップへの挑戦の言葉として捉え直し、誇示と意志の違いに注目する。"
+    ],
+    "context": "Mary J. Bligeのフックが迎える『Reasonable Doubt』の入口。Knobodyの土台に共同制作者が厚みを加え、Jay-Zはラップに賭ける自分の立場を語る。",
+    "connections": [],
+    "sounds": [
+      "ラップ",
+      "歌唱フック"
+    ],
+    "addedOrder": 368,
+    "datePublished": "2026-10-16",
+    "noteReviewedAt": "2026-10-16",
+    "editorialStatus": "本人・制作陣の証言と曲別資料を照合。聴き方は資料に基づく編集上の考察。実再生は未検証。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "オリジナル・アルバム収録曲として掲載。リミックスや別編集とは区別。YouTubeの掲載情報を照合したが、実音声・埋め込み再生・地域制限は未検証。"
   },
   {
     "id": "akinyele-three",

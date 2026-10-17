@@ -1,12 +1,33 @@
-/* Original code-drawn lettering. No existing writer's artwork is reproduced. */
+/* Per-track generated artwork; configured images show only their own wall while loading or on failure. */
 (()=>{
+ const imageCache=new Map(),failedImages=new Set();
  const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
  const rand=seed=>()=>{seed|=0;seed=seed+0x6D2B79F5|0;let t=Math.imul(seed^seed>>>15,1|seed);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296};
  let frame=0,started=0,current=null,texture=null,paint=null,width=0,height=0,visible=false;
  const cv=document.getElementById('wall'),ctx=cv.getContext('2d');
  function size(){const d=Math.min(devicePixelRatio||1,1.5);width=innerWidth;height=innerHeight;cv.width=width*d;cv.height=height*d;ctx.setTransform(d,0,0,d,0,0);if(current)prepare(current)}
+ function artworkURL(song){return song.art.image?new URL(song.art.image,(window.CRATE_SITE_URL||location.origin).replace(/\/$/,'')+'/').href:null}
+ function artwork(song){const url=artworkURL(song);if(!url||failedImages.has(url))return null;if(imageCache.has(url))return imageCache.get(url);const image=new Image();image.decoding='async';imageCache.set(url,image);while(imageCache.size>4){const first=imageCache.keys().next().value;if(first===url)break;imageCache.delete(first)}image.onload=()=>{if(visible&&artworkURL(current)===url){started=0;cancelAnimationFrame(frame);frame=requestAnimationFrame(draw)}};image.onerror=()=>{failedImages.add(url);imageCache.delete(url);if(visible&&artworkURL(current)===url){prepare(current);cancelAnimationFrame(frame);frame=requestAnimationFrame(draw)}};image.src=url;return image}
+ function wallPalette(song){
+  const colors=(song.art.palette||['#888888']).map(hex=>{const n=parseInt(hex.slice(1),16),r=(n>>16)/255,g=(n>>8&255)/255,b=(n&255)/255,max=Math.max(r,g,b),min=Math.min(r,g,b),d=max-min,l=(max+min)/2;let h=0;if(d){h=max===r?((g-b)/d)%6:max===g?(b-r)/d+2:(r-g)/d+4;h=(h*60+360)%360}return {h,s:d?d/(1-Math.abs(2*l-1)):0,l}});
+  const accent=colors.reduce((a,b)=>b.s*Math.min(b.l,1-b.l)>a.s*Math.min(a.l,1-a.l)?b:a),average=colors.reduce((n,c)=>n+c.l,0)/colors.length;
+  const seed=[...(song.id||song.title||'')].reduce((n,c)=>(Math.imul(n,31)+c.charCodeAt(0))>>>0,song.art.seed||0),light=average<.52?84:74,saturation=accent.s<.12?2:Math.round(5+accent.s*11);
+  const tone=offset=>`hsl(${Math.round(accent.h)} ${saturation}% ${Math.max(0,Math.min(96,light+offset))}%)`;
+  return {seed,kind:seed%3,top:tone(9),middle:tone(0),bottom:tone(-10)};
+ }
+ function prepareWall(song){
+  const W=width,H=height,wall=wallPalette(song),r=rand(wall.seed);
+  texture=document.createElement('canvas');texture.width=W;texture.height=H;const t=texture.getContext('2d');
+  const light=t.createLinearGradient(0,0,W,H);light.addColorStop(0,wall.top);light.addColorStop(.55,wall.middle);light.addColorStop(1,wall.bottom);t.fillStyle=light;t.fillRect(0,0,W,H);
+  const bh=wall.kind===1?76:280,bw=wall.kind===1?220:560;t.lineWidth=wall.kind===1?2:1;
+  if(wall.kind!==2)for(let y=0;y<H;y+=bh){t.strokeStyle='#34332b20';t.beginPath();t.moveTo(0,y);t.lineTo(W,y);t.stroke();t.strokeStyle='#ffffff32';t.beginPath();t.moveTo(0,y+2);t.lineTo(W,y+2);t.stroke();for(let x=wall.kind===1?(y/bh%2)*-bw/2:0;x<W;x+=bw){t.strokeStyle='#34332b18';t.beginPath();t.moveTo(x,y);t.lineTo(x,y+bh);t.stroke()}}
+  if(wall.kind===2)for(let i=0;i<32;i++){t.fillStyle=i%2?'#ffffff08':'#34332b06';t.beginPath();t.ellipse(r()*W,r()*H,40+r()*150,15+r()*60,r()*Math.PI,0,Math.PI*2);t.fill()}
+  for(let i=0;i<Math.min(26000,W*H/35);i++){const a=r(),z=.3+r()*1.8;t.fillStyle=a>.5?'#ffffff24':'#39372f1c';t.fillRect(r()*W,r()*H,z,z)}
+  for(let i=0;i<16;i++){let x=r()*W,y=r()*H;t.strokeStyle='#4a463a1a';t.lineWidth=.4+r();t.beginPath();t.moveTo(x,y);for(let j=0;j<5;j++){x+=(r()-.5)*30;y+=r()*24;t.lineTo(x,y)}t.stroke()}
+  const shade=t.createRadialGradient(W*.5,H*.43,W*.18,W*.5,H*.43,Math.hypot(W,H)*.6);shade.addColorStop(0,'#00000000');shade.addColorStop(1,'#27251d28');t.fillStyle=shade;t.fillRect(0,0,W,H);
+ }
  function prepare(song){
-  current=song;const r=rand(song.art.seed),W=width,H=height;
+  current=song;const semantic=document.getElementById('artwork-image');if(song.art.image){semantic.alt=song.art.alt||song.title+' — '+song.artist+'｜CRATE DIGGIN｜DJ Naoyaman';semantic.loading='eager';semantic.src=artworkURL(song);semantic.hidden=false}else{semantic.hidden=true;semantic.alt='';semantic.removeAttribute('src')}const generated=artwork(song);document.getElementById('art-view').classList.toggle('image-art',!!song.art.image);if(song.art.image){prepareWall(song);paint=null;return;}const r=rand(song.art.seed),W=width,H=height;
   const colors=song.art.palette||['#006cb6','#ffffff','#60baff','#17212a'];
   const [primary,secondary,accent,bg]=colors;
   const chicago=song.art.profile==='chicago-piano',queens=song.art.profile==='queens-throwup';const la=song.art.profile==='la-open-sky';const oak=song.art.profile==='oakland-handstyle',newark=song.art.profile==='newark-industrial',brooklyn=song.art.profile==='brooklyn-brick';
@@ -63,14 +84,27 @@
   for(let i=0;i<320;i++){const a=r()*Math.PI*2,rx=W*(.2+r()*.25),ry=H*(.1+r()*.11);p.fillStyle=i%3?primary+'3d':secondary+'5b';p.beginPath();p.arc(W*.5+Math.cos(a)*rx,H*.46+Math.sin(a)*ry,r()*2+.4,0,Math.PI*2);p.fill()}
   p.save();p.translate(W*.7,H*.72);p.rotate(-.12);p.textAlign='right';p.font=`${Math.min(W*.047,38)}px 'Permanent Marker',cursive`;p.fillStyle=secondary;p.fillText(song.art.tag,0,0);p.font=`${Math.min(W*.025,19)}px 'Permanent Marker',cursive`;p.fillStyle=accent;p.fillText('Crate Diggin’ / One love.',0,33);p.restore();
  }
- function draw(ts){if(!visible)return;if(!started)started=ts;const primary=(current.art.palette||['#006cb6'])[0];const t=(ts-started)/1000,cycle=reduced?25:t%30;ctx.clearRect(0,0,width,height);ctx.drawImage(texture,0,0);
+ function draw(ts){if(!visible)return;if(!started)started=ts;
+  const generated=artwork(current);if(current.art.image){
+   ctx.clearRect(0,0,width,height);ctx.drawImage(texture,0,0);
+   const elapsed=ts-started,progress=reduced?1:Math.min(1,elapsed/4000);
+   if(generated&&generated.complete&&generated.naturalWidth){
+    const landscape=width>height,top=landscape?48:70,bottom=landscape?92:170,space=Math.max(80,height-top-bottom),scale=Math.min(width/generated.naturalWidth,space/generated.naturalHeight),w=generated.naturalWidth*scale,h=generated.naturalHeight*scale,x=(width-w)/2,y=top+(space-h)/2;
+    ctx.save();ctx.globalCompositeOperation=current.art.transparent?'source-over':'multiply';
+    if(progress<1){const edge=x+(w+24)*progress-12;ctx.beginPath();ctx.moveTo(x-20,y-20);ctx.lineTo(edge,y-20);for(let yy=y;yy<=y+h+20;yy+=12)ctx.lineTo(edge+Math.sin(yy*.11+elapsed*.004)*7,yy);ctx.lineTo(x-20,y+h+20);ctx.closePath();ctx.clip()}
+    ctx.drawImage(generated,x,y,w,h);ctx.restore();
+   }
+   if(!reduced&&progress<1)frame=requestAnimationFrame(draw);return;
+  }
+
+const primary=(current.art.palette||['#006cb6'])[0];const t=(ts-started)/1000,cycle=reduced?25:t%30;ctx.clearRect(0,0,width,height);ctx.drawImage(texture,0,0);
   // The wall gets painted left to right, settles, then receives a fresh pass.
   const progress=Math.min(1,cycle/(current.art.style==='blockbuster'?5:current.art.style==='piece'?13:9)),edge=(width+100)*progress;
   ctx.save();ctx.beginPath();if(current.art.style==='piece'){ctx.arc(width*.5,height*.46,Math.hypot(width,height)*progress,0,Math.PI*2)}else if(current.art.style==='blockbuster'){ctx.rect(0,0,width,height*progress)}else{ctx.rect(0,0,edge,height)}ctx.clip();ctx.drawImage(paint,0,0);ctx.restore();
   if(progress<1){const g=ctx.createLinearGradient(edge-55,0,edge+25,0);g.addColorStop(0,primary+'00');g.addColorStop(.5,'#74c9ff32');g.addColorStop(1,primary+'00');ctx.fillStyle=g;ctx.fillRect(edge-55,height*.23,80,height*.43)}
   if(!reduced){const sway=Math.sin(t*.11)*9;ctx.globalAlpha=.07;ctx.fillStyle='#b6dcff';ctx.fillRect(0,height*.83+sway,width,1);ctx.globalAlpha=1;frame=requestAnimationFrame(draw)}
  }
- window.CrateArt={show(song){visible=true;started=0;size();prepare(song);cancelAnimationFrame(frame);frame=requestAnimationFrame(draw);if(document.fonts)document.fonts.ready.then(()=>{if(visible){prepare(current);if(reduced)draw(performance.now())}})},change(song){cv.style.opacity='0';setTimeout(()=>{if(!visible)return;prepare(song);started=0;cv.style.opacity='1';if(reduced)draw(performance.now())},400)},hide(){visible=false;cancelAnimationFrame(frame)}};
- addEventListener('resize',()=>{if(visible){size();if(reduced)draw(performance.now())}});
+ window.CrateArt={show(song){cancelAnimationFrame(frame);current=song;visible=true;started=0;cv.style.opacity='1';size();draw(performance.now());if(document.fonts)document.fonts.ready.then(()=>{if(visible){prepare(current);if(reduced)draw(performance.now())}})},change(song){if(!visible)return;cancelAnimationFrame(frame);prepare(song);started=0;cv.style.opacity='1';draw(performance.now())},hide(){visible=false;cancelAnimationFrame(frame)}};
+ addEventListener('resize',()=>{if(visible){size();if(reduced||current.art.image)draw(performance.now())}});
  document.addEventListener('visibilitychange',()=>{if(document.hidden)cancelAnimationFrame(frame);else if(visible&&!reduced)frame=requestAnimationFrame(draw)});
 })();

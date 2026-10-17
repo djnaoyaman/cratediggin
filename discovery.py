@@ -37,7 +37,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
             result['@id'] = host + '/artists/' + slugs[name] + '.html#artist'
         return result
 
-    def add(route, relative, title, description, body=None, image='og-image.png', graph=None, kind='website'):
+    def add(route, relative, title, description, body=None, image='og-image.png', graph=None, kind='website', image_alt=None):
         target = dist / (relative or 'index.html')
         if relative.endswith('/'):
             target = target / 'index.html'
@@ -58,7 +58,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
                  {'@type': 'BreadcrumbList', 'itemListElement': breadcrumb}]}
         pages[route] = {'route': route, 'path': base_path + '/' + relative,
                         'title': title, 'description': description, 'url': url,
-                        'image': host + '/' + image + '?v=' + version, 'kind': kind,
+                        'image': host + '/' + image + '?v=' + version, 'imageAlt': image_alt or title, 'kind': kind,
                         'jsonld': data, 'target': target,
                         'published': data['@graph'][0].get('datePublished'),
                         'modified': data['@graph'][0].get('dateModified')}
@@ -98,7 +98,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
                       'song/' + t['id'], t.get('datePublished'), {'@id': url + '#recording'})
         art['citation'] = [s['url'] for s in t['sources']]
         add('#/song/' + t['id'], relative, t['title'] + ' / ' + t['artist'] + ' — Crate Diggin’',
-            t['deck'], image=image, graph=[art, recording], kind='article')
+            t['deck'], image=image, graph=[art, recording], kind='article', image_alt=t['art']['alt'])
         published = t.get('datePublished')
         updated = art.get('dateModified')
         byline = '<p class="byline">選曲・編集・文責 <a href="' + base_path + '/editor.html">DJ Naoyaman</a>'
@@ -212,10 +212,10 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         for name, value in {'og:title': p['title'], 'og:description': p['description'], 'og:url': p['url'],
                             'og:type': p['kind'], 'og:site_name': 'Crate Diggin’', 'og:locale': 'ja_JP',
                             'og:image': p['image'], 'og:image:width': '1200', 'og:image:height': '630',
-                            'og:image:alt': p['title']}.items():
+                            'og:image:alt': p['imageAlt']}.items():
             meta += '<meta property="' + name + '" content="' + esc(value, quote=True) + '">'
         for name, value in {'twitter:card': 'summary_large_image', 'twitter:title': p['title'],
-                            'twitter:description': p['description'], 'twitter:image': p['image'], 'twitter:image:alt': p['title']}.items():
+                            'twitter:description': p['description'], 'twitter:image': p['image'], 'twitter:image:alt': p['imageAlt']}.items():
             meta += '<meta name="' + name + '" content="' + esc(value, quote=True) + '">'
         if p['kind'] == 'article':
             for name, value in {'article:author': author_url, 'article:published_time': p['published'],
@@ -232,7 +232,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         if '/metadata.js' not in content:
             content = content.replace('<script src="' + base_path + '/app.js', '<script src="' + base_path + '/metadata.js?v=' + version + '" defer></script><script src="' + base_path + '/app.js')
         # Newly added static pages need the same versioned assets and analytics as existing pages.
-        for asset in ('app.js', 'style.css', 'tracks.js', 'playlist.js', 'filters.js', 'timeline.js', 'releases.js'):
+        for asset in ('app.js', 'art.js', 'style.css', 'tracks.js', 'playlist.js', 'filters.js', 'timeline.js', 'releases.js'):
             content = re.sub(r'((?:href|src)="[^\"]*/' + re.escape(asset) + r')(?:\?v=[0-9.]+)?"',
                              lambda m: m[1] + '?v=' + version + '"', content)
         if '<!-- GOOGLE_ANALYTICS -->' not in content:

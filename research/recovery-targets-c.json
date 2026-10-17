@@ -1,0 +1,233 @@
+[
+  {
+    "id": "in-the-house",
+    "title": "In the House",
+    "artist": "Pete Rock & C.L. Smooth",
+    "album": "The Main Ingredient",
+    "sources": [
+      {
+        "label": "Warner Music Japan — The Main Ingredient公式情報",
+        "url": "https://wmg.jp/pete-rock-cl-smooth/discography/15956",
+        "kind": "レーベル公式"
+      },
+      {
+        "label": "Chris Read / Music of Substance — 25周年ミックスの曲目",
+        "url": "https://musicofsubstance.com/pete-rock-cl-smooth-main-ingredient-25th-anniversary-mixtape/",
+        "kind": "キュレーター資料"
+      },
+      {
+        "label": "Le Poisson Rouge — Pete Rockのアーティスト紹介",
+        "url": "https://lpr.com/lpr_artists/special-guest-pete-rock-2/",
+        "kind": "出演者紹介"
+      },
+      {
+        "label": "Pete Rock - Topic — Elektraの公式配信クレジット",
+        "url": "https://www.youtube.com/watch?v=WSfKCV3BOk0",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Universal Music — Music, You All公式トラック情報",
+        "url": "https://www.universalmusic.it/musica-jazz/album/music-you-all_32244977582/",
+        "kind": "レーベル公式"
+      }
+    ],
+    "palette": [
+      "#ce9f40",
+      "#f3e3b4",
+      "#98705a",
+      "#211c19"
+    ],
+    "paletteSource": "The Main Ingredient",
+    "paletteNote": "収録アルバムのジャケットを参照した編集上の配色。厳密な色抽出値ではない。",
+    "paperImage": "assets/graffiti/in-the-house.webp"
+  },
+  {
+    "id": "resurrection",
+    "title": "Resurrection",
+    "artist": "Common",
+    "album": "Resurrection",
+    "sources": [
+      {
+        "label": "Common — Resurrection公式動画",
+        "url": "https://www.youtube.com/watch?v=HmOd0GKuztE",
+        "kind": "公式"
+      },
+      {
+        "label": "University Musical Society — Ahmad Jamalとヒップホップ",
+        "url": "https://ums.org/2011/09/14/ahmad-jamal-sampled-into-the-hearts-of-hip-hop/",
+        "kind": "音楽機関の解説"
+      },
+      {
+        "label": "Manhattan Records — Resurrection紹介",
+        "url": "https://www.manhattanrecords.jp/RESURRECTION/product/0/2000000075341/?cat=801001001&swrd=)",
+        "kind": "レコード販売資料"
+      },
+      {
+        "label": "UMG — Dolphin Dance正規配信",
+        "url": "https://www.youtube.com/watch?v=dxnTYFE0x1I",
+        "kind": "公式音源"
+      }
+    ],
+    "palette": [
+      "#557d96",
+      "#e5e1d8",
+      "#bd9865",
+      "#17232e"
+    ],
+    "paletteSource": "Resurrection",
+    "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
+    "paperImage": "assets/graffiti/resurrection.webp"
+  },
+  {
+    "id": "put-it-on",
+    "title": "Put It On",
+    "artist": "Big L",
+    "album": "Lifestylez ov da Poor & Dangerous",
+    "sources": [
+      {
+        "label": "Big L — Put It On公式動画",
+        "url": "https://www.youtube.com/watch?v=WWMjRMJ0dTI",
+        "kind": "公式動画"
+      },
+      {
+        "label": "Revolt — Buckwildの制作特集",
+        "url": "https://www.revolt.tv/article/2019-06-05/95849/the-produce-section-11-of-buckwilds-most-iconic-beats",
+        "kind": "制作特集"
+      },
+      {
+        "label": "Big Division — Put It Onシングル紹介",
+        "url": "https://www.big-division.com/product/5088",
+        "kind": "レコード販売資料"
+      }
+    ],
+    "palette": [
+      "#78907c",
+      "#e6d8b8",
+      "#ad6750",
+      "#282a26"
+    ],
+    "paletteSource": "Lifestylez ov da Poor & Dangerous",
+    "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
+    "paperImage": "assets/graffiti/put-it-on.webp"
+  },
+  {
+    "id": "a-tribe-called-quest-award-tour",
+    "title": "Award Tour",
+    "artist": "A Tribe Called Quest",
+    "album": "Midnight Marauders",
+    "sources": [
+      {
+        "label": "YouTube — A Tribe Called Quest / Award Tour",
+        "url": "https://www.youtube.com/watch?v=P800UWoE9xs",
+        "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "A Tribe Called Quest - Award Tour: Single. CD | Rap Music Guide",
+        "url": "https://www.rapmusicguide.com/cd/9679/a-tribe-called-quest-award-tour",
+        "kind": "サンプル関係の調査資料"
+      }
+    ],
+    "palette": [
+      "#d93433",
+      "#e4cc54",
+      "#35926c",
+      "#222126"
+    ],
+    "paletteSource": "Midnight Marauders",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "paperImage": "assets/graffiti/a-tribe-called-quest-award-tour.webp"
+  },
+  {
+    "id": "pete-rock-c-l-smooth-they-reminisce-over-you-t-r-o-y",
+    "title": "They Reminisce Over You (T.R.O.Y.)",
+    "artist": "Pete Rock & C.L. Smooth",
+    "album": "Mecca and the Soul Brother",
+    "sources": [
+      {
+        "label": "YouTube — Pete Rock & C.L. Smooth / They Reminisce Over You (T.R.O.Y.)",
+        "url": "https://www.youtube.com/watch?v=0xZHe8Q8Mlk",
+        "kind": "公式配信情報"
+      },
+      {
+        "label": "Binary Star's 'Conquistadors' sample of Pete Rock & C.L. Smooth's 'They Reminisce Over You (T.R.O.Y.)' | WhoSampled",
+        "url": "https://www.whosampled.com/sample/67323/Binary-Star-Conquistadors-Pete-Rock-%26-C.L.-Smooth-They-Reminisce-Over-You-%28T.R.O.Y.%29/",
+        "kind": "サンプル関係の調査資料"
+      }
+    ],
+    "palette": [
+      "#ad7f52",
+      "#e7d8b8",
+      "#608e6f",
+      "#302b26"
+    ],
+    "paletteSource": "Mecca and the Soul Brother",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "paperImage": "assets/graffiti/pete-rock-c-l-smooth-they-reminisce-over-you-t-r-o-y.webp"
+  },
+  {
+    "id": "souls-of-mischief-that-s-when-ya-lost",
+    "title": "That's When Ya Lost",
+    "artist": "Souls of Mischief",
+    "album": "93 'til Infinity",
+    "sources": [
+      {
+        "label": "YouTube — Souls of Mischief / That's When Ya Lost",
+        "url": "https://www.youtube.com/watch?v=a_vpCfS3XwE",
+        "kind": "公式配信情報"
+      }
+    ],
+    "palette": [
+      "#d6bb69",
+      "#91ada0",
+      "#efe4c7",
+      "#25372f"
+    ],
+    "paletteSource": "93 'til Infinity",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "paperImage": "assets/graffiti/souls-of-mischief-that-s-when-ya-lost.webp"
+  },
+  {
+    "id": "the-beatnuts-get-funky",
+    "title": "Get Funky",
+    "artist": "The Beatnuts",
+    "album": "Street Level",
+    "sources": [
+      {
+        "label": "YouTube — The Beatnuts / Get Funky",
+        "url": "https://www.youtube.com/watch?v=rZd1j8ic0tY",
+        "kind": "公式配信情報"
+      }
+    ],
+    "palette": [
+      "#d5483b",
+      "#e4dec9",
+      "#9b8c71",
+      "#262420"
+    ],
+    "paletteSource": "Street Level",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "paperImage": "assets/graffiti/the-beatnuts-get-funky.webp"
+  },
+  {
+    "id": "gang-starr-code-of-the-streets",
+    "title": "Code of the Streets",
+    "artist": "Gang Starr",
+    "album": "Hard to Earn",
+    "sources": [
+      {
+        "label": "YouTube — Gang Starr / Code of the Streets",
+        "url": "https://www.youtube.com/watch?v=NC7D_mSeiHE",
+        "kind": "公式配信情報"
+      }
+    ],
+    "palette": [
+      "#bf5737",
+      "#d4b66f",
+      "#ece5cc",
+      "#231f1c"
+    ],
+    "paletteSource": "Hard to Earn",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "paperImage": "assets/graffiti/gang-starr-code-of-the-streets.webp"
+  }
+]

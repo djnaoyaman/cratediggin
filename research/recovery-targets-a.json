@@ -1,0 +1,238 @@
+[
+  {
+    "id": "can-i-kick-it",
+    "title": "Can I Kick It?",
+    "artist": "A Tribe Called Quest",
+    "album": "People’s Instinctive Travels and the Paths of Rhythm",
+    "sources": [
+      {
+        "label": "A Tribe Called Quest公式 — デビュー作のディスコグラフィー",
+        "url": "https://atribecalledquest.com/blogs/discography/1990-people-s-instinctive-travels-and-the-paths-of-rhythm",
+        "kind": "公式"
+      },
+      {
+        "label": "Mix — Classic Tracks / Bob Powerへの制作取材",
+        "url": "https://www.mixonline.com/recording/classic-tracks/classic-tracks-tribe-called-quest-can-i-kick-it-429686",
+        "kind": "制作取材"
+      },
+      {
+        "label": "NME — Phife Dawgの2015年の証言を紹介",
+        "url": "https://www.nme.com/news/music/a-tribe-called-quest-9-1195132",
+        "kind": "証言紹介"
+      },
+      {
+        "label": "GRAMMY — デビュー作30周年の特集",
+        "url": "https://www.grammy.com/news/loops-funk-over-hardcore-beats-30-years-tribe-called-quests-debut-peoples-instinctive/",
+        "kind": "特集"
+      }
+    ],
+    "palette": [
+      "#ed443b",
+      "#f5cf39",
+      "#39a579",
+      "#292529"
+    ],
+    "paletteSource": "People’s Instinctive Travels and the Paths of Rhythm",
+    "paletteNote": "収録アルバムのジャケットを参照した編集上の配色。厳密な色抽出値ではない。",
+    "paperImage": "assets/graffiti/can-i-kick-it.webp"
+  },
+  {
+    "id": "bucktown",
+    "title": "Bucktown",
+    "artist": "Smif-N-Wessun",
+    "album": "Dah Shinin’",
+    "sources": [
+      {
+        "label": "Nervous Records — Bucktown 360 / 1994年のデビュー・シングル",
+        "url": "https://nervousrecords.bandcamp.com/album/bucktown-360",
+        "kind": "公式"
+      },
+      {
+        "label": "P-VINE — Bucktown / Let’s Git It On",
+        "url": "https://p-vine.jp/music/p7-6453",
+        "kind": "公式"
+      },
+      {
+        "label": "Smif-N-Wessun公式 — グループ紹介",
+        "url": "https://www.smifnwessun.com/",
+        "kind": "公式"
+      },
+      {
+        "label": "Strada Records — Bucktown",
+        "url": "https://www.stradarecords.jp/products/23298",
+        "kind": "レコード販売資料"
+      },
+      {
+        "label": "Groovenut Records — 1994年オリジナル12インチ",
+        "url": "https://www.groovenutrecords.net/products/detail/11235",
+        "kind": "レコード販売資料"
+      },
+      {
+        "label": "YouTube — Jack Bruce / UMG正規配信",
+        "url": "https://www.youtube.com/watch?v=Qm-KZUS1h-o",
+        "kind": "公式"
+      }
+    ],
+    "palette": [
+      "#aa713c",
+      "#ebd798",
+      "#518070",
+      "#201b16"
+    ],
+    "paletteSource": "Dah Shinin’",
+    "paletteNote": "ジャケットを参照した編集上の配色。厳密な抽出値ではない。",
+    "paperImage": "assets/graffiti/bucktown.webp"
+  },
+  {
+    "id": "times-up",
+    "title": "Time’s Up",
+    "artist": "O.C.",
+    "album": "Word...Life",
+    "sources": [
+      {
+        "label": "O.C. — Word...Life / Time’s Up",
+        "url": "https://omarcredle.bandcamp.com/album/word-life-deluxe-edition",
+        "kind": "アーティスト配信"
+      },
+      {
+        "label": "Crib Records — Time’s Upのオリジナル12インチ",
+        "url": "https://www.cribrecords.jp/product/2210",
+        "kind": "レコード販売資料"
+      },
+      {
+        "label": "O.C. — Topic音源",
+        "url": "https://www.youtube.com/watch?v=6gNmCGQRpcc",
+        "kind": "公式音源"
+      }
+    ],
+    "palette": [
+      "#b37543",
+      "#ead5a2",
+      "#60704c",
+      "#24211b"
+    ],
+    "paletteSource": "Word...Life",
+    "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
+    "paperImage": "assets/graffiti/times-up.webp"
+  },
+  {
+    "id": "a-tribe-called-quest-electric-relaxation",
+    "title": "Electric Relaxation",
+    "artist": "A Tribe Called Quest",
+    "album": "Midnight Marauders",
+    "sources": [
+      {
+        "label": "YouTube — A Tribe Called Quest / Electric Relaxation",
+        "url": "https://www.youtube.com/watch?v=WHRnvjCkTsw",
+        "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "A Tribe Called Quest - Samples, Covers and Remixes | WhoSampled",
+        "url": "https://www.whosampled.com/sample/176281/A-Tribe-Called-Quest-Can-I-Kick-It%3F-%28Extended-Boilerhouse-Mix%29-Deee-Lite-Bootsy-Collins-Q-Tip-Groove-Is-in-the-Heart/",
+        "kind": "サンプル関係の調査資料"
+      }
+    ],
+    "palette": [
+      "#d93433",
+      "#e4cc54",
+      "#35926c",
+      "#222126"
+    ],
+    "paletteSource": "Midnight Marauders",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "paperImage": "assets/graffiti/a-tribe-called-quest-electric-relaxation.webp"
+  },
+  {
+    "id": "a-tribe-called-quest-bonita-applebum",
+    "title": "Bonita Applebum",
+    "artist": "A Tribe Called Quest",
+    "album": "People's Instinctive Travels and the Paths of Rhythm",
+    "sources": [
+      {
+        "label": "YouTube — A Tribe Called Quest / Bonita Applebum",
+        "url": "https://www.youtube.com/watch?v=6xE6ZWwJezg",
+        "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "A Tribe Called Quest - Samples, Covers and Remixes | WhoSampled",
+        "url": "https://www.whosampled.com/sample/176281/A-Tribe-Called-Quest-Can-I-Kick-It%3F-%28Extended-Boilerhouse-Mix%29-Deee-Lite-Bootsy-Collins-Q-Tip-Groove-Is-in-the-Heart/",
+        "kind": "サンプル関係の調査資料"
+      }
+    ],
+    "palette": [
+      "#ed443b",
+      "#f5cf39",
+      "#39a579",
+      "#292529"
+    ],
+    "paletteSource": "People's Instinctive Travels and the Paths of Rhythm",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "paperImage": "assets/graffiti/a-tribe-called-quest-bonita-applebum.webp"
+  },
+  {
+    "id": "pete-rock-c-l-smooth-take-you-there",
+    "title": "Take You There",
+    "artist": "Pete Rock & C.L. Smooth",
+    "album": "The Main Ingredient",
+    "sources": [
+      {
+        "label": "Pete Rock - Topic — Take You There",
+        "url": "https://www.youtube.com/watch?v=jh_Qkm-wKrs",
+        "kind": "公式配信情報"
+      }
+    ],
+    "palette": [
+      "#ce9f40",
+      "#f3e3b4",
+      "#98705a",
+      "#211c19"
+    ],
+    "paletteSource": "The Main Ingredient",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "paperImage": "assets/graffiti/pete-rock-c-l-smooth-take-you-there.webp"
+  },
+  {
+    "id": "the-pharcyde-drop",
+    "title": "Drop",
+    "artist": "The Pharcyde",
+    "album": "Labcabincalifornia",
+    "sources": [
+      {
+        "label": "YouTube — The Pharcyde / Drop",
+        "url": "https://www.youtube.com/watch?v=1iizk-YJc0U",
+        "kind": "公式配信情報"
+      }
+    ],
+    "palette": [
+      "#a59b56",
+      "#eadcaf",
+      "#854e35",
+      "#29291f"
+    ],
+    "paletteSource": "Labcabincalifornia",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "paperImage": "assets/graffiti/the-pharcyde-drop.webp"
+  },
+  {
+    "id": "lords-of-the-underground-chief-rocka",
+    "title": "Chief Rocka",
+    "artist": "Lords of the Underground",
+    "album": "Here Come the Lords",
+    "sources": [
+      {
+        "label": "Lords Of The Underground - Topic — Chief Rocka",
+        "url": "https://www.youtube.com/watch?v=5rGy0NivzpE",
+        "kind": "公式配信情報"
+      }
+    ],
+    "palette": [
+      "#bf713c",
+      "#ece0c4",
+      "#897462",
+      "#332a25"
+    ],
+    "paletteSource": "Here Come the Lords",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "paperImage": "assets/graffiti/lords-of-the-underground-chief-rocka.webp"
+  }
+]
