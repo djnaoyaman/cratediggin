@@ -10,7 +10,8 @@ for(const a of ready){const t=window.TRACKS.find(t=>t.id===a.id);assert(t&&t.art
 // Actual art API: image URLs, asynchronous loading, late load, resize, song changes,
 // image-fit bounds and hide while loading. No remote player is needed here.
 const frames=[],listeners={},images=[],drawn=[];let clock=1000;
-const gradient={addColorStop(){}};
+const gradientStops=[];
+const gradient={addColorStop(offset,color){gradientStops.push([offset,color])}};
 const ctx=new Proxy({drawImage(...args){drawn.push(args)},measureText(s){return {width:s.length*20}},createLinearGradient(){return gradient},createRadialGradient(){return gradient}},{get:(o,k)=>k in o?o[k]:()=>{}});
 const canvas={getContext:()=>ctx,style:{}};
 const semantic={alt:'',hidden:true,removeAttribute(){}};
@@ -31,5 +32,11 @@ ctx.fillText=()=>{throw new Error('Configured artwork must not flash legacy lett
 c.window.CrateArt.show(song);c.window.CrateArt.change(window.TRACKS.find(t=>t.id==='can-i-kick-it'));
 images[1].onerror();frames.pop()(clock+100);
 assert(classes.has('image-art'),'Failed image must keep its own wall instead of the legacy artwork');
+c.window.CrateArt.hide();
+function wallColors(palette){const start=gradientStops.length;c.window.CrateArt.show({...song,art:{...song.art,palette}});return gradientStops.slice(start,start+3).map(x=>x[1])}
+const redWall=wallColors(['#ba3226','#e4aaa0','#fff4df','#231b19']);
+const blueWall=wallColors(['#234c74','#7ba3bd','#b7c8ce','#dcd7bb']);
+assert.notDeepEqual(redWall,blueWall,'Wall color must follow the album palette');
+assert.deepEqual(redWall,wallColors(['#ba3226','#e4aaa0','#fff4df','#231b19']),'The same album palette must produce a stable wall');
 c.window.CrateArt.hide();
 console.log(ready.length+' cover-colored assets, generated-art switching, late loading, contain sizing, resize and hidden-state behavior verified');
