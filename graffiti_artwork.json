@@ -8417,6 +8417,166 @@
       "paletteReviewed": true,
       "transparent": true,
       "coverReference": "https://music.apple.com/gb/song/286588614"
+    },
+    {
+      "id": "jurassic-5-without-a-doubt",
+      "title": "Without a Doubt",
+      "artist": "Jurassic 5",
+      "album": "Jurassic 5 / Jayou single",
+      "palette": [
+        "#242120",
+        "#a37733",
+        "#d8ad55",
+        "#e8d6ae"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/1777704233",
+      "paletteNote": "J5デラックス配信版の表紙。黒い地に黄土色と金の幾何学的なJ5紋章。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/jurassic-5-without-a-doubt-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/1777704233"
+    },
+    {
+      "id": "the-roots-it-s-comin",
+      "title": "It's Comin'",
+      "artist": "The Roots",
+      "album": "From the Ground Up EP",
+      "palette": [
+        "#df3022",
+        "#b8c1b7",
+        "#171816",
+        "#e8dace"
+      ],
+      "paletteSource": "https://music.bugs.co.kr/album/457111",
+      "paletteNote": "From the Ground Upの表紙。赤と灰緑色の地、黒白の人物写真、細長い橙色の文字。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-roots-it-s-comin-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.bugs.co.kr/album/457111"
+    },
+    {
+      "id": "kmd-stop-smokin-that-shit-vocal",
+      "title": "Stop Smokin' That Shit (Vocal)",
+      "artist": "KMD",
+      "album": "It Sounded Like a Roc / Stop Smokin' That Shit",
+      "palette": [
+        "#f3f5df",
+        "#d72620",
+        "#181914",
+        "#a2a18d"
+      ],
+      "paletteSource": "https://k-m-d.bandcamp.com/album/black-bastards-deluxe-edition",
+      "paletteNote": "Black Bastardsデラックス盤の表紙。淡いクリーム色の地、黒い風刺画と赤いKMD文字。指定Vocal版を収める後発盤の表紙。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/kmd-stop-smokin-that-shit-vocal-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://k-m-d.bandcamp.com/album/black-bastards-deluxe-edition"
+    },
+    {
+      "id": "people-under-the-stairs-the-next-step-ii",
+      "title": "The Next Step II",
+      "artist": "People Under the Stairs",
+      "album": "The Next Step II / The Next Step",
+      "palette": [
+        "#ead6b2",
+        "#a65143",
+        "#261b17",
+        "#be8065"
+      ],
+      "paletteSource": "https://peopleunderthestairs.bandcamp.com/track/the-next-step-ii-2",
+      "paletteNote": "The Next Stepの表紙。クリーム色の上部、赤褐色の人物写真、黒い見出し文字。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/people-under-the-stairs-the-next-step-ii-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://peopleunderthestairs.bandcamp.com/track/the-next-step-ii-2"
+    },
+    {
+      "id": "lone-catalysts-lone-catalysts-instrumental",
+      "title": "Lone Catalysts (Instrumental)",
+      "artist": "Lone Catalysts",
+      "album": "Due Process / Let It Soak / B.U.K.A. BDS-823",
+      "palette": [
+        "#151515",
+        "#565656",
+        "#a4a4a4",
+        "#eeeae0"
+      ],
+      "paletteSource": "https://music.apple.com/jp/song/1822208715",
+      "paletteNote": "Hip Hop (Instrumentals)現行配信の表紙。灰色の舞台写真と黒白の手描き風文字。初出12インチの表紙とは区別。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/lone-catalysts-lone-catalysts-instrumental-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/jp/song/1822208715"
+    },
+    {
+      "id": "jurassic-5-unified-rebelution",
+      "title": "Unified Rebelution",
+      "artist": "Jurassic 5",
+      "album": "Unified Rebelution / Blunt TVT5811",
+      "palette": [
+        "#a9b6ae",
+        "#202820",
+        "#e9dfb1",
+        "#a89668"
+      ],
+      "paletteSource": "https://cutchemist.bandcamp.com/merch/unified-rebelution-12-sealed",
+      "paletteNote": "Cut Chemist本人の販売ページにある初期12インチのラベル。淡い青緑色に黒い大文字、盤の穴とクリーム色の周囲。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/jurassic-5-unified-rebelution-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://cutchemist.bandcamp.com/merch/unified-rebelution-12-sealed"
+    },
+    {
+      "id": "ugly-duckling-everybody-c-mon",
+      "title": "Everybody C'mon",
+      "artist": "Ugly Duckling",
+      "album": "Fresh Mode / 1500 Records",
+      "palette": [
+        "#eee9b5",
+        "#c82625",
+        "#32829d",
+        "#d6bd2b"
+      ],
+      "paletteSource": "https://uglyduckling.bandcamp.com/album/fresh-mode",
+      "paletteNote": "Fresh Modeの表紙。クリーム色の地に赤・青・黄色の服を着た漫画の人物たち。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/ugly-duckling-everybody-c-mon-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://uglyduckling.bandcamp.com/album/fresh-mode"
+    },
+    {
+      "id": "lootpack-the-anthem",
+      "title": "The Anthem",
+      "artist": "Lootpack",
+      "album": "The Anthem EP / Soundpieces: Da Antidote!",
+      "palette": [
+        "#f4f3ef",
+        "#171d20",
+        "#737f83",
+        "#c76369"
+      ],
+      "paletteSource": "https://www.stonesthrow.com/store/the-anthem/",
+      "paletteNote": "The Anthem EPの表紙。白地、黒白の顔写真、細い黒文字と淡い赤の小さな記号。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/lootpack-the-anthem-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://www.stonesthrow.com/store/the-anthem/"
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

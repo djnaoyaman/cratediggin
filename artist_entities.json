@@ -547,5 +547,14 @@
   },
   "Black Star feat. Weldon Irvine": {
     "type": null
+  },
+  "KMD": {
+    "type": "MusicGroup"
+  },
+  "People Under the Stairs": {
+    "type": "MusicGroup"
+  },
+  "Lone Catalysts": {
+    "type": "MusicGroup"
   }
 }
