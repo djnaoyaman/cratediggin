@@ -20561,6 +20561,11 @@
         "label": "収録・発表の資料",
         "url": "https://music.apple.com/us/album/fresh-mode/1443809789",
         "kind": "盤情報"
+      },
+      {
+        "label": "Bandcampで聴く — Ugly Duckling「Now Who’s Laughin」",
+        "url": "https://uglyduckling.bandcamp.com/track/now-whos-laughin",
+        "kind": "公式配信・外部の再生先"
       }
     ],
     "producers": [],
@@ -20569,7 +20574,7 @@
       "Breaks"
     ],
     "addedOrder": 203,
-    "editorialStatus": "聴き方と選曲メモは編者の私見。制作クレジットは個別照合中。",
+    "editorialStatus": "掲載YouTube音源は日本での配信対象外です。出典欄の公式Bandcampから『Fresh Mode』収録版を聴けます。試聴や購入の条件は配信サービスでご確認ください。日本国内での再生は未確認です。",
     "sampleStatus": "多くの断片を組み合わせる作品を含むため、単一のメインサンプルは未確定。確認できた原曲を順次記録します。",
     "collections": [
       "pizza",
@@ -43188,9 +43193,9 @@
     ],
     "sources": [
       {
-        "label": "Pete Rock / InI — 公式Bandcamp",
+        "label": "Bandcampで聴く — Pete Rock / InI「Grown Man Sport」",
         "url": "https://pete-rock.bandcamp.com/track/grown-man-sport",
-        "kind": "公式配信"
+        "kind": "公式配信・外部の再生先"
       },
       {
         "label": "VinDig提供公式音源・制作クレジット",
@@ -43248,7 +43253,7 @@
     },
     "yearBasis": "2003年のBBE/Rapster流通盤を基準とする。1990年代の制作時期、2017年の再発とは区別する。",
     "addedOrder": 390,
-    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "editorialStatus": "掲載YouTube音源は現在利用できません。出典欄の公式Bandcampから聴けます。試聴や購入の条件は配信サービスでご確認ください。日本国内での再生は未確認です。",
     "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
   },
   {
@@ -48233,5 +48238,1053 @@
       "paletteSource": "https://www.stonesthrow.com/store/the-anthem/",
       "paletteNote": "The Anthem EPの表紙。白地、黒白の顔写真、細い黒文字と淡い赤の小さな記号。 目視参照による編集上の近似配色。厳密な色抽出値ではない。"
     }
+  },
+  {
+    "id": "the-beatnuts-worlds-famous",
+    "title": "Worlds Famous",
+    "artist": "The Beatnuts",
+    "year": 1993,
+    "region": "New York",
+    "scene": "Queens / Beatnuts",
+    "category": "Boom Bap",
+    "moods": [
+      "重厚",
+      "グルーヴ"
+    ],
+    "album": "Intoxicated Demons: The EP",
+    "label": "Violator / Relativity",
+    "producer": "The Beatnuts",
+    "members": "JuJu、Psycho Les、Fashion（本曲にはV.I.C.が参加）",
+    "youtube": {
+      "id": "-UTWobzVsB8",
+      "channel": "The Beatnuts",
+      "type": "公式配信音源",
+      "verified": "2026-10-17",
+      "url": "https://www.youtube.com/watch?v=-UTWobzVsB8",
+      "official": true,
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "公式配信の曲名・演者・版を照合。公開地域情報は日本を含む。日本での実再生とサイト内再生は未確認。"
+    },
+    "art": {
+      "word": "WORLDS FAMOUS",
+      "tag": "THE BEATNUTS",
+      "style": "piece",
+      "seed": 1993,
+      "profile": "ny-subway",
+      "palette": [
+        "#df211a",
+        "#bd541e",
+        "#f4f2e9",
+        "#252321"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/intoxicated-demons-the-ep/1641384858",
+      "paletteNote": "白地に大きな赤いロゴ、橙色のグループ名と黒い小文字。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "lines": [
+        "WORLDS FAMOUS"
+      ],
+      "lettering": "block",
+      "letteringNote": "地域と作品の印象をもとにした独自の編集判断。"
+    },
+    "deck": "短い導入の先で、ビートを作る人たち自身がマイクへ進む。1993年のBeatnutsを、後年の二人組に縮めずに聴く。",
+    "essayTitle": "世界へ出る前の、部屋の熱。",
+    "essay": [
+      "「Worlds Famous」を探すときは、まず短いイントロとの境目を確かめたい。『Intoxicated Demons』には約一分の導入と、約三分二十秒の本編が別々に並ぶ。名前が似ていても、こちらは声とビートが一曲を組み立てる本編だ。導入だけでは見えない、ラップする制作集団としての輪郭がここで開く。",
+      "声が替わるところを、曲の区切りとして聴いてみたい。同じビートの上でも、言葉を詰める量や語尾の置き方に意識を移せば、ラップの流れを別の角度から追える。一人の主役を探すより、声と声の距離を手がかりにする聴き方だ。制作集団が自らマイクを握る曲を、伴奏とラップへきれいに二分せずに味わいたい。",
+      "この曲を入口にするなら、有名な後年のシングルへ急ぐより、EPの曲順を少し辿ってみたい。イントロ、本編、短い会話という異なる長さの区切りが、一枚を単なる楽曲の束ではなく人の集まる場所にする。ビートの完成度だけでなく、その間に置かれた声や冗談まで聴く。初期Beatnutsの賑やかさは、その余白にもある。"
+    ],
+    "facts": [
+      {
+        "title": "1993年のEP本編",
+        "text": "配信カタログの2曲目。1曲目の「World’s Famous Intro」とは別曲。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "グループ名義の制作",
+        "text": "Columbia/Legacyの公式配信はProducerをBeatnutsと記載。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "イントロではなく本編を選び、掛け声とヴァースの切り替えを追う。",
+      "続けてEPの前後を聴き、短い会話が曲順をどうつなぐかを確かめる。"
+    ],
+    "context": "短い導入の先で、ビートを作る人たち自身がマイクへ進む。1993年のBeatnutsを、後年の二人組に縮めずに聴く。",
+    "sources": [
+      {
+        "label": "Columbia/Legacy — 「World’s Famous」公式配信",
+        "url": "https://www.youtube.com/watch?v=-UTWobzVsB8",
+        "kind": "公式音源・クレジット"
+      },
+      {
+        "label": "Apple Music — 『Intoxicated Demons』曲順とジャケット",
+        "url": "https://music.apple.com/us/album/intoxicated-demons-the-ep/1641384858",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Unkut — Fashionが語る初期Beatnuts",
+        "url": "https://unkut.com/2014/11/al-tariq-aka-fashion-the-unkut-interview-part-one/",
+        "kind": "本人への取材"
+      },
+      {
+        "label": "Unkut — Psycho Lesが語るDJ時代と制作",
+        "url": "https://unkut.com/2015/05/psycho-les-the-beatnuts-the-unkut-interview/",
+        "kind": "本人への取材"
+      }
+    ],
+    "producers": [
+      "The Beatnuts"
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム",
+      "ベース"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく編集上の選曲。",
+    "addedOrder": 432,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [],
+      [
+        1
+      ]
+    ],
+    "requestList": "owner-restored-first8",
+    "requestRow": "Sentinel_aaa36f2a920c819181f2807f6da11dc7:2",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "jeru-the-damaja-come-clean-instrumental",
+    "title": "Come Clean (Instrumental)",
+    "artist": "Jeru the Damaja",
+    "year": 1993,
+    "region": "New York",
+    "scene": "Brooklyn / Gang Starr Foundation",
+    "category": "Boom Bap",
+    "moods": [
+      "重厚",
+      "グルーヴ"
+    ],
+    "album": "The Sun Rises in the East (Expanded Edition)",
+    "label": "Payday / FFRR",
+    "producer": "DJ Premier",
+    "members": "Jeru the Damaja、DJ Premier",
+    "youtube": {
+      "id": "ARe8vz3LKy4",
+      "channel": "Jeru The Damaja",
+      "type": "公式配信音源",
+      "verified": "2026-10-17",
+      "url": "https://www.youtube.com/watch?v=ARe8vz3LKy4",
+      "official": true,
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "公式配信の曲名・演者・版を照合。公開地域情報は日本を含む。日本での実再生とサイト内再生は未確認。"
+    },
+    "art": {
+      "word": "COME CLEAN (INSTRUMENTAL)",
+      "tag": "JERU THE DAMAJA",
+      "style": "piece",
+      "seed": 1993,
+      "profile": "ny-subway",
+      "palette": [
+        "#eed341",
+        "#cb622d",
+        "#181b18",
+        "#476479"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/the-sun-rises-in-the-east-expanded-edition/1744476229",
+      "paletteNote": "黄色い枠と文字、橙色の炎、黒い衣服とビル、青いデニム。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "lines": [
+        "COME CLEAN (INSTRUMENTAL)"
+      ],
+      "lettering": "block",
+      "letteringNote": "地域と作品の印象をもとにした独自の編集判断。"
+    },
+    "deck": "水滴のような響きを、ラップの背後から主役へ。インスト版は、空間そのものを聴くための別の入口になる。",
+    "essayTitle": "声のいない場所に、骨格が残る。",
+    "essay": [
+      "「Come Clean」のインスト版では、誰が何を言うかより、次の音が来るまでの距離に意識を向けたい。水滴を連想させる響きと硬いドラムを、単なる奇抜さとして片づけないこと。音を少なくすれば自動的に強くなるわけではない。残す音の輪郭と配置によって、空いている場所までリズムの一部になる。",
+      "1993年の12インチにはInstrumentalが独立して収録されていた。ここで案内する正規配信は、2024年の拡張版に収められた同名インストである。ヴォーカル曲とは分けて紹介するが、当時の盤と配信のマスターが完全に同一だとは言わない。歴史上の版と、今日アクセスできる版の両方を区別することで、このビートの入口が明瞭になる。",
+      "JeruはPremierとの関係を、好みを伝えれば仕立て直してくれる協働として語っている。その話を踏まえると、インストはラッパーを取り除いた残り物ではない。ある声が入るために選び抜かれた空間を、別の角度から示す一曲だ。ヴォーカル版へ戻ったとき、言葉が音の隙間をどう使うのかも、いっそう意識できる。"
+    ],
+    "facts": [
+      {
+        "title": "12インチの別トラック",
+        "text": "1993年のPayday盤697-120-002-1ではA2がInstrumental。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "配信は2024年の拡張版",
+        "text": "案内する音源は2024年5月24日の拡張版配信。配信クレジットにはGuruとJeruもProducerとして併記される。1993年盤とのマスターの完全同一性は確認されていない。",
+        "sources": [
+          0,
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "まず水滴を思わせる音の間隔、次にキックとスネアの間へ。",
+      "ヴォーカル版へ戻り、Jeruの言葉がどの隙間に入るかを比べる。"
+    ],
+    "context": "水滴のような響きを、ラップの背後から主役へ。インスト版は、空間そのものを聴くための別の入口になる。",
+    "sources": [
+      {
+        "label": "UMG — 「Come Clean (Instrumental)」公式配信",
+        "url": "https://www.youtube.com/watch?v=ARe8vz3LKy4",
+        "kind": "公式音源・クレジット"
+      },
+      {
+        "label": "Groovenut Records — 1993年オリジナル12インチの収録表",
+        "url": "https://www.groovenutrecords.net/products/detail/16160",
+        "kind": "現物レコード資料"
+      },
+      {
+        "label": "uDiscover — 30周年拡張版のリリース告知",
+        "url": "https://www.udiscovermusic.com/news/jeru-damaja-sun-rises-east-30th-anniversary-reissue/",
+        "kind": "レーベル系公式情報"
+      },
+      {
+        "label": "uDiscover — Jeru本人が語るデビュー作",
+        "url": "https://www.udiscovermusic.com/stories/jeru-the-damaja-the-sun-rises-in-the-east/",
+        "kind": "本人への取材"
+      }
+    ],
+    "producers": [
+      "DJ Premier"
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム",
+      "ベース"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく編集上の選曲。",
+    "addedOrder": 433,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        3
+      ]
+    ],
+    "requestList": "owner-restored-first8",
+    "requestRow": "Sentinel_aaa36f2a920c819181f2807f6da11dc7:7",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "the-beatnuts-yeah-you-get-props",
+    "title": "Yeah You Get Props",
+    "artist": "The Beatnuts",
+    "year": 1994,
+    "region": "New York",
+    "scene": "Queens / Beatnuts",
+    "category": "Boom Bap",
+    "moods": [
+      "重厚",
+      "グルーヴ"
+    ],
+    "album": "Street Level",
+    "label": "Violator / Relativity",
+    "producer": "The Beatnuts",
+    "members": "JuJu、Psycho Les、Fashion",
+    "youtube": {
+      "id": "uc1Y8gGPBCk",
+      "channel": "The Beatnuts",
+      "type": "公式配信音源",
+      "verified": "2026-10-17",
+      "url": "https://www.youtube.com/watch?v=uc1Y8gGPBCk",
+      "official": true,
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "公式配信の曲名・演者・版を照合。公開地域情報は日本を含む。日本での実再生とサイト内再生は未確認。"
+    },
+    "art": {
+      "word": "YEAH YOU GET PROPS",
+      "tag": "THE BEATNUTS",
+      "style": "piece",
+      "seed": 1994,
+      "profile": "ny-subway",
+      "palette": [
+        "#b82b29",
+        "#171414",
+        "#aaa196",
+        "#eee6dc"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/street-level/1363890872",
+      "paletteNote": "赤い大きなロゴとグループ名、暗い白黒写真。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "lines": [
+        "YEAH YOU GET PROPS"
+      ],
+      "lettering": "block",
+      "letteringNote": "地域と作品の印象をもとにした独自の編集判断。"
+    },
+    "deck": "「Props Over Here」とは別の一曲。低音の重さと複数の声の距離から、三人時代のBeatnutsを辿る。",
+    "essayTitle": "同じ言葉でも、別の場所へ。",
+    "essay": [
+      "似た題名が並ぶと、曲まで同じだと思ってしまいそうになる。「Yeah You Get Props」は「Props Over Here」とは別の録音で、『Street Level』の後半に置かれている。まずその距離を保って聴きたい。名高いシングルの陰に畳んでしまわなければ、この曲が三人の声をどう前へ押し出すかに集中できる。",
+      "曲別の正規配信クレジットでは、制作はThe Beatnuts、作詞作曲にはJerry Tineo、Lester Fernandez、Bertony Smallsが並ぶ。制作の看板とマイクの役割が重なる時代の曲だ。低音だけを追う一周と、語尾や掛け声の受け渡しを追う一周を分けてみると、同じ伴奏の中でも声が場面を変える様子を捉えやすい。",
+      "ここでは通常のアルバム曲を入口にし、別表記のRough MixやRadio Editを混ぜない。同じ曲名でも、編集やミックスが変われば聴く場所が変わる。三分余りの曲を、制作の精密さとラップの荒々しさがぶつかる場所として味わいたい。整った演奏へ磨き上げるのとは違う、輪郭の尖りを残す魅力がある。"
+    ],
+    "facts": [
+      {
+        "title": "1994年のアルバム曲",
+        "text": "『Street Level』11曲目の3分29秒の曲として掲載。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "制作とミックス",
+        "text": "制作はThe Beatnuts。Kirk YanoとAndy Blakelockがミックスに記載される。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "低音に集中する一周と、声の受け渡しに集中する一周を分ける。",
+      "「Props Over Here」と並べ、似た題名の二曲の違いを聴く。"
+    ],
+    "context": "「Props Over Here」とは別の一曲。低音の重さと複数の声の距離から、三人時代のBeatnutsを辿る。",
+    "sources": [
+      {
+        "label": "Columbia/Legacy — 「Yeah You Get Props」公式配信",
+        "url": "https://www.youtube.com/watch?v=uc1Y8gGPBCk",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Qobuz — 『Street Level』曲別クレジット",
+        "url": "https://www.qobuz.com/us-en/album/street-level-the-beatnuts/ukcq59fnpppra",
+        "kind": "正規配信クレジット"
+      },
+      {
+        "label": "Unkut — Fashionによる『Street Level』の回想",
+        "url": "https://unkut.com/2014/11/al-tariq-aka-fashion-the-unkut-interview-part-one/",
+        "kind": "本人への取材"
+      },
+      {
+        "label": "Unkut — Psycho Lesによる制作と音質の証言",
+        "url": "https://unkut.com/2015/05/psycho-les-the-beatnuts-the-unkut-interview/",
+        "kind": "本人への取材"
+      }
+    ],
+    "producers": [
+      "The Beatnuts"
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム",
+      "ベース"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく編集上の選曲。",
+    "addedOrder": 434,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "requestList": "owner-restored-first8",
+    "requestRow": "Sentinel_aaa36f2a920c819181f2807f6da11dc7:9",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "krs-one-p-is-still-free",
+    "title": "P Is Still Free",
+    "artist": "KRS-One",
+    "year": 1993,
+    "region": "New York",
+    "scene": "Bronx / Boom Bap",
+    "category": "Boom Bap",
+    "moods": [
+      "重厚",
+      "グルーヴ"
+    ],
+    "album": "Return of the Boom Bap",
+    "label": "Jive",
+    "producer": "DJ Premier",
+    "members": "KRS-One",
+    "youtube": {
+      "id": "0BTSYovRCHA",
+      "channel": "KRS ONE - Topic",
+      "type": "公式配信音源",
+      "verified": "2026-10-17",
+      "url": "https://www.youtube.com/watch?v=0BTSYovRCHA",
+      "official": true,
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "公式配信の曲名・演者・版を照合。公開地域情報は日本を含む。日本での実再生とサイト内再生は未確認。"
+    },
+    "art": {
+      "word": "P IS STILL FREE",
+      "tag": "KRS-ONE",
+      "style": "piece",
+      "seed": 1993,
+      "profile": "ny-subway",
+      "palette": [
+        "#dd8d30",
+        "#32618b",
+        "#15191d",
+        "#e5eceb"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/return-of-the-boom-bap/267251596",
+      "paletteNote": "橙色の縦長文字、青いスタジオ写真、白いアルバム名。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "lines": [
+        "P IS STILL FREE"
+      ],
+      "lettering": "block",
+      "letteringNote": "地域と作品の印象をもとにした独自の編集判断。"
+    },
+    "deck": "「Still」の一語が過去を呼び戻す。Premierのビートに向き合うKRS-Oneを、声のリズムから聴く。",
+    "essayTitle": "戻ることは、同じ場所に留まることではない。",
+    "essay": [
+      "『Return of the Boom Bap』という題名は、懐かしい音を集めるだけの約束ではない。KRS-Oneは後年、このアルバムをヒップホップの反抗的な制作姿勢へ戻る呼びかけだったと説明する。「P Is Still Free」はその中で、過去を示す題名と、現在進行形の声を同居させる一曲だ。",
+      "Jiveの公式配信は、DJ Premierを制作とミックス、L. Parkerを作詞作曲に記している。MC自身の声が強いからこそ、伴奏との関係を聴きたい。語尾をきっぱり置く箇所と、歌うように節を動かす箇所を分けて追う。声を主張の容器としてだけでなく、ドラムに応答するリズムとして捉えると、この組み合わせの輪郭が変わる。",
+      "同じアルバムの「Outta Here」や「Higher Level」へ進むと、一人のMCと一人の制作者でも役割が固定されないことに気づける。重いビートの上で強く言えば成立する、という単純な公式ではない。どのくらい言葉を詰めるか、どこで間を開けるか。曲ごとに違う足場へ立つ声を聴くことが、ソロ名義の出発点を理解する近道になる。"
+    ],
+    "facts": [
+      {
+        "title": "1993年、Jive作品",
+        "text": "『Return of the Boom Bap』12曲目。アルバム発売日は9月28日。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "Premierが制作とミックス",
+        "text": "Jiveの公式音源説明に両方の役割が記載されている。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "語尾を強く置く部分と、歌うような節回しを切り替える部分に注意する。",
+      "「Outta Here」「Higher Level」と続け、Premierとの組み合わせの幅を聴く。"
+    ],
+    "context": "「Still」の一語が過去を呼び戻す。Premierのビートに向き合うKRS-Oneを、声のリズムから聴く。",
+    "sources": [
+      {
+        "label": "Jive — 「P Is Still Free」公式配信",
+        "url": "https://www.youtube.com/watch?v=0BTSYovRCHA",
+        "kind": "公式音源・クレジット"
+      },
+      {
+        "label": "Apple Music — 『Return of the Boom Bap』収録表",
+        "url": "https://music.apple.com/us/album/return-of-the-boom-bap/267251596",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Red Bull Music Academy — KRS-Oneらが語るブームバップ",
+        "url": "https://daily.redbullmusicacademy.com/2013/11/in-search-of-boom-bap/",
+        "kind": "本人への取材"
+      },
+      {
+        "label": "Wayne Marshall — ラップとレゲエの関係を論じた研究",
+        "url": "https://wayneandwax.com/academic/marshall-rap-reggae-dissertation.pdf",
+        "kind": "音楽研究"
+      }
+    ],
+    "producers": [
+      "DJ Premier"
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム",
+      "ベース"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく編集上の選曲。",
+    "addedOrder": 435,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ],
+    "requestList": "owner-restored-first8",
+    "requestRow": "Sentinel_aaa36f2a920c819181f2807f6da11dc7:11",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "epmd-get-off-the-bandwagon",
+    "title": "Get Off the Bandwagon",
+    "artist": "EPMD",
+    "year": 1988,
+    "region": "New York",
+    "scene": "Long Island / EPMD",
+    "category": "Boom Bap",
+    "moods": [
+      "重厚",
+      "グルーヴ"
+    ],
+    "album": "Strictly Business",
+    "label": "Fresh / Sleeping Bag",
+    "producer": "EPMD",
+    "members": "Erick Sermon、Parrish Smith",
+    "youtube": {
+      "id": "f3IfdiZvjNE",
+      "channel": "EPMD",
+      "type": "公式配信音源",
+      "verified": "2026-10-17",
+      "url": "https://www.youtube.com/watch?v=f3IfdiZvjNE",
+      "official": true,
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "公式配信の曲名・演者・版を照合。公開地域情報は日本を含む。日本での実再生とサイト内再生は未確認。"
+    },
+    "art": {
+      "word": "GET OFF THE BANDWAGON",
+      "tag": "EPMD",
+      "style": "piece",
+      "seed": 1988,
+      "profile": "ny-subway",
+      "palette": [
+        "#e4ae34",
+        "#35acd0",
+        "#97bb4e",
+        "#131b1b"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/strictly-business/721248274",
+      "paletteNote": "暗いスタジオ写真、黄橙のロゴ、シアンと黄緑の題名。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "lines": [
+        "GET OFF THE BANDWAGON"
+      ],
+      "lettering": "block",
+      "letteringNote": "地域と作品の印象をもとにした独自の編集判断。"
+    },
+    "deck": "急がずに、主導権を握る。低い重心と二人の応酬で聴く、1988年のアルバム原曲。",
+    "essayTitle": "速度よりも、重さで進む。",
+    "essay": [
+      "「Get Off the Bandwagon」は、EPMDの『Strictly Business』に収録された1988年の曲だ。後年のリミックスではなく、このアルバム曲を入口にする。言葉数や速さで圧倒する聴き方をいったん脇へ置き、低い重心の上で二人がどのくらい余裕を残すのかに耳を向けたい。",
+      "公式配信の制作名義はEPMD。Erick SermonとParrish Smithが作詞作曲に並ぶ。二人のどちらかを声、もう片方を音という固定した分業に分けるより、声と制作が同じ集団の中から出てくる曲として聴くと自然だ。短い受け答えや語尾の置き方は、伴奏の隙間を埋めるだけでなく、曲の歩幅を決めている。",
+      "「bandwagon」という言葉は、勢いのある側へ便乗する態度を思わせる。曲名を踏まえながら、誰かを急いで追いかけるのではない二人の構えを聴いてみたい。『Strictly Business』の他の曲と続けると、冷静さと威圧が両立することが分かる。大きく身振りをしないからこそ、繰り返されるビートがこちらへ重く届く。"
+    ],
+    "facts": [
+      {
+        "title": "デビュー作の8曲目",
+        "text": "1988年の『Strictly Business』収録。現行配信の発売日表示と初出年は分けて扱う。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "EPMD名義の制作",
+        "text": "UMGの曲別説明はProducerをEPMDと記載。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "二人の短い応酬が、同じビートの歩幅をどう変えるか追う。",
+      "『Strictly Business』の曲順へ戻り、原曲の重心を他の曲と比べる。"
+    ],
+    "context": "急がずに、主導権を握る。低い重心と二人の応酬で聴く、1988年のアルバム原曲。",
+    "sources": [
+      {
+        "label": "UMG — 「Get Off the Bandwagon」公式配信",
+        "url": "https://www.youtube.com/watch?v=f3IfdiZvjNE",
+        "kind": "公式音源・クレジット"
+      },
+      {
+        "label": "Apple Music — 『Strictly Business』作品情報",
+        "url": "https://music.apple.com/us/album/strictly-business/721248274",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "POW — Erick Sermonが振り返るデビュー作",
+        "url": "https://www.powmag.net/p/erick-sermon-my-collection-interview-discography",
+        "kind": "本人への取材"
+      },
+      {
+        "label": "Red Bull Music Academy — Eric HazeとEPMDロゴの誕生",
+        "url": "https://daily.redbullmusicacademy.com/2013/06/iconic-logos/",
+        "kind": "デザイン史・本人証言"
+      }
+    ],
+    "producers": [
+      "EPMD"
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム",
+      "ベース"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "funk-soul"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく編集上の選曲。",
+    "addedOrder": 436,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        0
+      ],
+      []
+    ],
+    "requestList": "owner-restored-first8",
+    "requestRow": "Sentinel_aaa36f2a920c819181f2807f6da11dc7:13",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "gang-starr-playtawin",
+    "title": "Playtawin",
+    "artist": "Gang Starr",
+    "year": 2003,
+    "yearBasis": "公式配信に記載された収録作品の発表年。配信ページの月日は版・地域により異なる。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "The Ownerz",
+    "label": "Virgin",
+    "producer": "DJ Premier / Guru",
+    "producers": [
+      "DJ Premier",
+      "Guru"
+    ],
+    "sources": [
+      {
+        "label": "YouTube — 公式音源・クレジット",
+        "url": "https://www.youtube.com/watch?v=TFDSe-s_J7o",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — 収録作品・ジャケット",
+        "url": "https://music.apple.com/us/album/the-ownerz/723694768",
+        "kind": "公式配信"
+      },
+      {
+        "label": "MVRemix — Guruが語る『The Ownerz』（2003年）",
+        "url": "https://mvremix.com/urban/interviews/guru.shtml",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Soul Sides — D&DでのGang Starr取材記録",
+        "url": "https://soul-sides.com/2015/01/bonus-beats-interviewing-gang-starr-at-dd.html",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "deck": "『The Ownerz』に収録。Guru自身が「Full Clip」との近さを語った、二人の勝負曲。",
+    "essayTitle": "変わらない看板で、更新を続ける",
+    "essay": [
+      "「Playtawin」は、Gang Starrが2003年に発表した『The Ownerz』の一曲。公式クレジットにはDJ Premierのプロデュースとミックス、Guruの共同プロデュースが並ぶ。MCとビート職人というわかりやすい役割分担の奥に、二人で作品を組み立てる関係がある。看板だけを懐かしむより、その共同作業を出発点にしたい。",
+      "発売時のMVRemixの取材で、Guruは本曲を「Full Clip」に近い雰囲気の曲として紹介した。同時に、変わっていないという評判に対し、自分は韻の置き方を更新していると説明している。過去の代表曲とのつながりは、以前と同じものを繰り返すという宣言ではない。自分たちの輪郭を保ったまま、今の技術で立ち直すという姿勢だ。",
+      "作品名『The Ownerz』の説明も、その姿勢と重なる。Guruは流行を借りて一時的に振る舞う人々と、自分たちの音を持ち続ける二人を対比した。所有という言葉は、ここでは単なる権利の話ではなく、文化に対する継続した責任を指している。本曲の勝負という言葉も、短期の流行争いより長い時間軸へ置くと違って見える。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "録音と仕上げ",
+        "text": "録音はAnthony Ruotolo、ミックスにはEddie SanchoとDJ Premier、マスタリングにはTony Dawseyを記載。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "作曲名義",
+        "text": "Chris MartinとKeith Elamの二名を作曲者として記載。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "context": "『The Ownerz』に収録。Guru自身が「Full Clip」との近さを語った、二人の勝負曲。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "作品の文脈と制作背景に基づく選曲。",
+    "youtube": {
+      "id": "TFDSe-s_J7o",
+      "url": "https://www.youtube.com/watch?v=TFDSe-s_J7o",
+      "official": true,
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "公式配信の曲名・演者・収録作品を照合。公開ページの地域メタデータは日本（JP）を含む。日本の利用環境での実再生とサイト内埋め込み再生は未確認。",
+      "title": "Playtawin",
+      "channel": "Gang Starr",
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "version": "オリジナル・アルバム収録音源"
+    },
+    "art": {
+      "word": "PLAYTAWIN",
+      "tag": "GANG STARR",
+      "palette": [
+        "#f1eddf",
+        "#171713",
+        "#79725c",
+        "#893b42"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/the-ownerz/723694768",
+      "paletteNote": "白く古びた壁とスピーカー、黒い服、白いシャツ、赤褐色の手書き文字。 目視参照による近似配色。厳密な色抽出値ではない。",
+      "lines": [
+        "PLAYTAWIN"
+      ],
+      "style": "piece",
+      "seed": 2202496591,
+      "profile": "ny-subway",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "requestList": "owner-restored-next8",
+    "requestRow": "Sentinel_6f90bdec572c8191ac763b2b15c7e503:16",
+    "addedOrder": 437
+  },
+  {
+    "id": "mos-def-champion-requiem",
+    "title": "Champion Requiem",
+    "artist": "Mos Def",
+    "year": 2004,
+    "yearBasis": "公式配信に記載された収録作品の発表年。配信ページの月日は版・地域により異なる。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "The New Danger",
+    "label": "Geffen",
+    "producer": "88-Keys",
+    "producers": [
+      "88-Keys"
+    ],
+    "sources": [
+      {
+        "label": "YouTube — 公式音源・クレジット",
+        "url": "https://www.youtube.com/watch?v=bwByioixEmU",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — 収録作品・ジャケット",
+        "url": "https://music.apple.com/us/album/the-new-danger/1442817434",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Apple Music — 『The New Danger』作品紹介",
+        "url": "https://music.apple.com/us/album/the-new-danger/1442817434",
+        "kind": "公式配信の作品解説"
+      },
+      {
+        "label": "Passion of the Weiss — Black Star制作の口述史",
+        "url": "https://www.powmag.net/p/b-boys-will-b-boys-an-oral-history-of-black-star",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "SPIN — Mos Def本人インタビュー（2009年）",
+        "url": "https://www.spinmagazine.com/2009/08/spin-interview-mos-def/",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "deck": "『The New Danger』収録の88-Keys制作曲。Mos Defの実験的な二作目を、ラップの側から辿る。",
+    "essayTitle": "広がったアルバムに残る、古くからの対話",
+    "essay": [
+      "「Champion Requiem」は2004年の『The New Danger』に収められたMos Defの曲。公式音源はプロデューサーとして88 Keysを、歌詞の作者としてMos Defを記載する。Rawkus周辺の初期作品と連続する人間関係はあるが、作品そのものはGeffenから発表された二作目の時期に属する。年代とレーベルを分けて捉えると、その連続性がむしろ明確になる。",
+      "Apple Musicの作品紹介は、本曲の鍵盤と柔らかなギターに注目している。その案内を手がかりにするなら、音の種類を数えるだけでなく、伴奏と言葉の間へ耳を向けたい。声が前へ出るところと、音の輪郭を意識するところを分けて聴く。一曲をアルバム全体の代表に決めつけず、その中にある一つの表情として辿る入口になる。",
+      "一度は歌詞の流れを中心に、もう一度は伴奏との関係を中心に聴いてみる。どちらを手前に置くかによって、同じ曲への注意の向け方は変えられる。ジャンル名や活動期の印象を先に当てはめるより、この曲で声がどんな居場所を持つのかを確かめたい。過去の代表作から連なる部分と、このアルバムならではの部分を、自分の耳で探すための一曲だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        2
+      ],
+      []
+    ],
+    "facts": [
+      {
+        "title": "発売情報",
+        "text": "公式音源は2004年10月12日、Geffen Recordsの作品と記載。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "制作名義",
+        "text": "88 Keysはプロデューサー兼作詞作曲者、Mos Defは作者として掲載される。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "context": "『The New Danger』収録の88-Keys制作曲。Mos Defの実験的な二作目を、ラップの側から辿る。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "作品の文脈と制作背景に基づく選曲。",
+    "youtube": {
+      "id": "bwByioixEmU",
+      "url": "https://www.youtube.com/watch?v=bwByioixEmU",
+      "official": true,
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "公式配信の曲名・演者・収録作品を照合。公開ページの地域メタデータは日本（JP）を含む。日本の利用環境での実再生とサイト内埋め込み再生は未確認。",
+      "title": "Champion Requiem",
+      "channel": "Mos Def - Topic",
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "version": "オリジナル・アルバム収録音源"
+    },
+    "art": {
+      "word": "CHAMPION REQUIEM",
+      "tag": "MOS DEF",
+      "palette": [
+        "#1e1a18",
+        "#77746a",
+        "#b3aa96",
+        "#544639"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/the-new-danger/1442817434",
+      "paletteNote": "黒い帽子と顔を覆う灰色の布。低彩度の茶と灰色、暗い影。 目視参照による近似配色。厳密な色抽出値ではない。",
+      "lines": [
+        "CHAMPION REQUIEM"
+      ],
+      "style": "piece",
+      "seed": 2722276495,
+      "profile": "ny-subway",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "requestList": "owner-restored-next8",
+    "requestRow": "Sentinel_6f90bdec572c8191ac763b2b15c7e503:1",
+    "addedOrder": 438
+  },
+  {
+    "id": "nas-my-way",
+    "title": "My Way",
+    "artist": "Nas",
+    "year": 2002,
+    "yearBasis": "公式配信に記載された収録作品の発表年。配信ページの月日は版・地域により異なる。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "The Lost Tapes",
+    "label": "Columbia",
+    "producer": "The Alchemist",
+    "producers": [
+      "The Alchemist"
+    ],
+    "sources": [
+      {
+        "label": "YouTube — 公式音源・クレジット",
+        "url": "https://www.youtube.com/watch?v=VMLd4Crm3FA",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — 収録作品・ジャケット",
+        "url": "https://music.apple.com/us/album/the-lost-tapes/203942497",
+        "kind": "公式配信"
+      },
+      {
+        "label": "LEVEL — 「My Way」をめぐるNasとDoo Wopの証言",
+        "url": "https://www.levelman.com/nas-the-lost-tapes-oral-history/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "RapReviews — The Alchemistの制作機材と発想（2004年）",
+        "url": "https://www.rapreviews.com/interview/alchemist.html",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "deck": "1999年の誕生日に生まれたとNasが語る曲。2002年の『The Lost Tapes』で正式にまとまった。",
+    "essayTitle": "しまってあった言葉に、作品の居場所を作る",
+    "essay": [
+      "「My Way」は、2002年の『The Lost Tapes』に収録されたNasとThe Alchemistの曲。公式クレジットにはNasir JonesとAlan Maman、録音とミックスにはKevin Crouseの名が載る。発表年だけを見れば2002年の作品だが、その前に曲が存在し、別の経路で人に届いていたことが当事者の証言からわかる。",
+      "LEVELの口述史でNasは、1999年の自分の誕生日に、以前から考えていたことをフリースタイルにしたと説明している。Doo Wopも同年に曲を受け取り、その時点ではフックがなく三つのヴァースだったと回想した。完成盤の発売と曲が生まれた瞬間の間には、数年の隔たりがある。",
+      "この隔たりを単なる発売の遅れとして片づけずに聴きたい。『The Lost Tapes』は、アルバムから外れた録音を一つの順番へ置き直す作品だった。「My Way」は過去の断片でありながら、新しい並びの中では改めて一曲になる。録音の年代と、聴き手へ差し出された作品の年代が重なる場所に、その独特の立ち位置がある。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "録音・ミックス",
+        "text": "Kevin Crouseが録音とミックスの両方を担当。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "配信上の日付の差",
+        "text": "YouTubeの公式音源は2002年9月24日、参照したApple Musicの作品ページは9月23日を表示するため、発表年は2002年として扱う。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "context": "1999年の誕生日に生まれたとNasが語る曲。2002年の『The Lost Tapes』で正式にまとまった。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "作品の文脈と制作背景に基づく選曲。",
+    "youtube": {
+      "id": "VMLd4Crm3FA",
+      "url": "https://www.youtube.com/watch?v=VMLd4Crm3FA",
+      "official": true,
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "公式配信の曲名・演者・収録作品を照合。公開ページの地域メタデータは日本（JP）を含む。日本の利用環境での実再生とサイト内埋め込み再生は未確認。",
+      "title": "My Way",
+      "channel": "Nas",
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "version": "オリジナル・アルバム収録音源"
+    },
+    "art": {
+      "word": "MY WAY",
+      "tag": "NAS",
+      "palette": [
+        "#596174",
+        "#252931",
+        "#eeeae2",
+        "#a19b88"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/the-lost-tapes/203942497",
+      "paletteNote": "青灰色の土と橋、黒い影、白い手書き文字と銀灰色のロゴ。 目視参照による近似配色。厳密な色抽出値ではない。",
+      "lines": [
+        "MY WAY"
+      ],
+      "style": "piece",
+      "seed": 1280996402,
+      "profile": "ny-subway",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "requestList": "owner-restored-next8",
+    "requestRow": "Sentinel_6f90bdec572c8191ac763b2b15c7e503:40",
+    "addedOrder": 439
   }
 ]

@@ -29,9 +29,11 @@ function setup(){
 }
 console.log('Early song, cued selection, exclusions, cancellation, playlist and blocked-autoplay retry passed');
 
-(async()=>{const t=setup();t.ready();t.c.startSong(1);t.players[0].fail(150);assert.equal(t.$('#playback-report').hidden,false);await t.$('#playback-report').onclick();assert(t.copied[0].includes('B — Chosen / エラー 150'));assert(t.copied[0].includes('bbbbbbbbbbb'));console.log('Playback-error copy retains the failed recording and provider error code');})().catch(e=>{console.error(e);process.exitCode=1});
 
-(async()=>{const t=setup();t.ready();t.c.startSong(1);t.runTimers();assert.equal(t.$('#start').hidden,false);assert(t.$('#status').textContent.includes('読み込みに時間'));await t.$('#playback-report').onclick();assert(t.copied[0].includes('15秒を超過'));const ok=setup();ok.ready();ok.c.startSong(1);ok.players[0].state(1);ok.runTimers();assert.equal(ok.$('#playback-report').hidden,true);console.log('Stalled loading offers retry and a report; successful playback cancels timeout');})().catch(e=>{console.error(e);process.exitCode=1});
 
 for(const intervention of ['disable-auto','sample','same-track-retry']){const t=setup();t.ready();t.c.startSong(1);t.players[0].fail(150);if(intervention==='disable-auto')t.$('#auto').checked=false;if(intervention==='sample')t.c.sourceActive=true;if(intervention==='same-track-retry')t.c.startSong(1);t.runTimers();assert(t.loads.every(id=>id==='bbbbbbbbbbb'),intervention+' must cancel a stale auto-skip');assert.equal(t.c.cur,1)}
 console.log('Provider-error auto-skip respects auto preference, sample playback and manual retry');
+
+{const t=setup();t.ready();t.c.startSong(1);t.players[0].fail(150);assert(t.$('#status').textContent.includes('YouTube'));assert.equal(t.c.playbackErrors().length,1);assert.equal(t.copied.length,0);assert(!playerSource.includes('playback-report'));assert(!fs.readFileSync('templates/index.html','utf8').includes('playback-report'));}
+{const t=setup();t.ready();t.c.startSong(1);t.runTimers();assert.equal(t.$('#start').hidden,false);assert(t.$('#status').textContent.includes('読み込みに時間'));assert.equal(t.c.playbackErrors()[0].code,'LOAD_TIMEOUT');const ok=setup();ok.ready();ok.c.startSong(1);ok.players[0].state(1);ok.runTimers();assert.equal(ok.c.playbackErrors().length,0);}
+console.log('Failed-track copy control absent; retry, external link and internal error handling preserved');

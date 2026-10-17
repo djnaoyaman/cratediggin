@@ -17,10 +17,7 @@
  function now(i){cur=i;const s=songs[i];$('#now-title').textContent=s.title;$('#now-artist').textContent=s.artist;$('#now-channel').textContent=s.youtube.channel+' / '+s.youtube.type;$('#youtube-link').href=s.youtube.url;if(!art.hidden){artInfo();window.CrateArt.change(s)}}
  function status(msg){$('#status').textContent=msg}
  function playbackErrors(){try{const rows=JSON.parse(localStorage.getItem('crate-playback-errors')||'[]');return Array.isArray(rows)?rows.filter(r=>r&&typeof r==='object'&&songs.some(s=>s.id===r.songId)&&/^[A-Za-z0-9_-]{11}$/.test(r.videoId)&&(Number.isFinite(Number(r.code))||r.code==='LOAD_TIMEOUT')).slice(-30):[]}catch(_){return []}}
- function recordPlaybackError(track,code){try{const errors=playbackErrors();errors.push({songId:track.id,videoId:track.youtube.id,code,time:new Date().toISOString()});localStorage.setItem('crate-playback-errors',JSON.stringify(errors.slice(-30)))}catch(_){}updatePlaybackReport()}
- function updatePlaybackReport(){$('#playback-report').hidden=!playbackErrors().length}
- $('#playback-report').onclick=async()=>{const errors=playbackErrors();if(!errors.length)return;const text=['CRATE DIGGIN’ 再生エラー / '+(window.CRATE_RELEASE?.version||'version未取得'),...errors.map(r=>{const s=songs.find(s=>s.id===r.songId);return s.artist+' — '+s.title+' / '+(r.code==='LOAD_TIMEOUT'?'読み込み待機が15秒を超過（動画の削除や再生不可を断定しません）':'エラー '+r.code)+' / '+r.time+' / https://www.youtube.com/watch?v='+r.videoId})].join('\n');try{await navigator.clipboard.writeText(text);status('再生できなかった曲の情報をコピーしました。')}catch(_){status('コピーできませんでした。曲名とエラー番号をご確認ください。')}};
- updatePlaybackReport();
+ function recordPlaybackError(track,code){try{const errors=playbackErrors();errors.push({songId:track.id,videoId:track.youtube.id,code,time:new Date().toISOString()});localStorage.setItem('crate-playback-errors',JSON.stringify(errors.slice(-30)))}catch(_){}}
  function toggleUI(p){playing=p;$('#toggle').textContent=p?'Ⅱ':'▶';$('#art-toggle').textContent=p?'Ⅱ':'▶';$('#live-dot').classList.toggle('playing',p)}
  function haltSample(reset=true){if(sourcePlayer&&sourcePlayer.pauseVideo)sourcePlayer.pauseVideo();sourceActive=false;if(reset){returnPlaying=false;returnTime=0}}
  let pendingLoad=null,playbackWatchdog=null,playbackIntent=0;
