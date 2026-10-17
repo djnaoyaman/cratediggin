@@ -24,10 +24,10 @@
       "paletteSource": "People’s Instinctive Travels and the Paths of Rhythm",
       "paletteNote": "収録アルバムのジャケットを参照した編集上の配色。厳密な色抽出値ではない。",
       "status": "ready",
-      "image": "assets/graffiti/can-i-kick-it.webp",
+      "image": "assets/graffiti/can-i-kick-it-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "93-til-infinity",
@@ -43,10 +43,10 @@
       "paletteSource": "93 ’til Infinity",
       "paletteNote": "収録アルバムのジャケットを参照した編集上の配色。厳密な色抽出値ではない。",
       "status": "ready",
-      "image": "assets/graffiti/93-til-infinity.webp",
+      "image": "assets/graffiti/93-til-infinity-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true
     },
     {
       "id": "in-the-house",
@@ -3039,14 +3039,18 @@
       "artist": "Nas feat. AZ & Olu Dara",
       "album": "Illmatic",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#b58b63",
+        "#eee1cc",
+        "#ab6651",
+        "#342b25"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Illmatic",
+      "paletteNote": "既存の同一アルバム設定を参照。編集上の近似配色であり厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/nas-lifes-a-bitch-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "nas-one-love",
@@ -3054,14 +3058,18 @@
       "artist": "Nas",
       "album": "Illmatic",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#b58b63",
+        "#eee1cc",
+        "#ab6651",
+        "#342b25"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Illmatic",
+      "paletteNote": "既存の同一アルバム設定を参照。編集上の近似配色であり厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/nas-one-love-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "az-sugar-hill",
@@ -3084,14 +3092,18 @@
       "artist": "AZ",
       "album": "Doe or Die",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#6f1f21",
+        "#345c32",
+        "#b48a39",
+        "#e7ddb6"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Doe or Die",
+      "paletteNote": "Apple Music掲載のDoe or Dieジャケットを目視参照。臙脂・緑・金褐色・クリームの編集上の近似配色。厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/az-rather-unique-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "pete-rock-cl-smooth-lots-of-lovin",
@@ -3099,14 +3111,18 @@
       "artist": "Pete Rock & C.L. Smooth",
       "album": "Mecca and the Soul Brother",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#ad7f52",
+        "#e7d8b8",
+        "#608e6f",
+        "#302b26"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Mecca and the Soul Brother",
+      "paletteNote": "既存の同一アルバム設定を参照。編集上の近似配色であり厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/pete-rock-cl-smooth-lots-of-lovin-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "group-therapy-east-coast-west-coast-killas-fire-version",
@@ -3129,14 +3145,18 @@
       "artist": "DJ Bombjack",
       "album": "Lesson 7: The Next Lesson",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#151515",
+        "#555555",
+        "#bcbcbc",
+        "#f4f4f4"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Lesson 7: The Next Lesson / The Forever Diggin’ EP",
+      "paletteNote": "アーティスト公式Bandcamp掲載のモノクロ盤面ジャケットを目視参照。黒・グラファイト・銀灰・白の編集上の近似配色。厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/dj-bombjack-lesson-7-the-next-lesson-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "jurassic-5-lesson-6-the-lecture",
@@ -3144,14 +3164,18 @@
       "artist": "Jurassic 5",
       "album": "Jurassic 5 EP / J5",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#bd9445",
+        "#946732",
+        "#eadb8b",
+        "#282828"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "J5（Jurassic 5）",
+      "paletteNote": "Apple Music掲載のJ5ジャケットを目視参照。金・琥珀褐色・淡い金クリーム・チャコールの編集上の近似配色。厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/jurassic-5-lesson-6-the-lecture-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "jurassic-5-jayou",
@@ -3571,7 +3595,11 @@
       ],
       "paletteSource": "Psyence Fiction",
       "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/unkle-rabbit-in-your-headlights-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "unkle-lonely-soul",
@@ -3616,7 +3644,11 @@
       ],
       "paletteSource": "The Private Press",
       "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-mashin-on-the-motorway-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "dj-shadow-scale-it-back",
@@ -3661,7 +3693,11 @@
       ],
       "paletteSource": "The Mountain Will Fall",
       "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-nobody-speak-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "dj-shadow-rocket-fuel",
@@ -3901,7 +3937,11 @@
       ],
       "paletteSource": "Shades of Blue",
       "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/madlib-slims-return-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "madvillain-americas-most-blunted",
