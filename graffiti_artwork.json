@@ -7777,6 +7777,166 @@
       "paletteReviewed": true,
       "transparent": true,
       "coverReference": "https://p-vine.jp/music/pcd-93253"
+    },
+    {
+      "id": "j-dilla-body-movin",
+      "title": "Body Movin'",
+      "artist": "J Dilla feat. J. Rocc & Karriem Riggins",
+      "album": "The Shining",
+      "palette": [
+        "#901f23",
+        "#e1be35",
+        "#fff9df",
+        "#15120d"
+      ],
+      "paletteSource": "The Shining / J Dilla公式Bandcamp掲載カバー",
+      "paletteNote": "公式カタログ・配信サービスの画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/j-dilla-body-movin-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://f4.bcbits.com/img/a3069890886_5.jpg"
+    },
+    {
+      "id": "deltron-3030-mastermind",
+      "title": "Mastermind",
+      "artist": "Deltron 3030",
+      "album": "Deltron 3030",
+      "palette": [
+        "#e0c832",
+        "#a77722",
+        "#542b1b",
+        "#17100d"
+      ],
+      "paletteSource": "Deltron 3030 / Del公式Bandcamp掲載カバー",
+      "paletteNote": "公式カタログ・配信サービスの画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/deltron-3030-mastermind-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://f4.bcbits.com/img/a1948146136_5.jpg"
+    },
+    {
+      "id": "flying-lotus-melt",
+      "title": "Melt!",
+      "artist": "Flying Lotus",
+      "album": "Los Angeles",
+      "palette": [
+        "#050a0c",
+        "#103640",
+        "#a7b5b9",
+        "#fafafa"
+      ],
+      "paletteSource": "Los Angeles / Flying Lotus公式Bandcampカバー",
+      "paletteNote": "公式カタログ・配信サービスの画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/flying-lotus-melt-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://f4.bcbits.com/img/a1312557912_5.jpg"
+    },
+    {
+      "id": "common-start-the-show",
+      "title": "Start the Show",
+      "artist": "Common feat. Kanye West",
+      "album": "Finding Forever",
+      "palette": [
+        "#37281b",
+        "#da9141",
+        "#458b91",
+        "#f2e4d5"
+      ],
+      "paletteSource": "Finding Forever / Apple Music配信カバー",
+      "paletteNote": "公式カタログ・配信サービスの画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/common-start-the-show-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e2/c2/07/e2c207f8-271c-394f-8e23-fef85957eb43/00602517446953.rgb.jpg/1200x630wp-60.jpg"
+    },
+    {
+      "id": "the-roots-criminal",
+      "title": "Criminal",
+      "artist": "The Roots feat. Truck North & Saigon",
+      "album": "Rising Down",
+      "palette": [
+        "#171719",
+        "#e2d3be",
+        "#747066",
+        "#ac9a82"
+      ],
+      "paletteSource": "Rising Down / Apple Music配信カバー",
+      "paletteNote": "公式カタログ・配信サービスの画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-roots-criminal-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/fa/7d/91/fa7d91d0-8c9b-2590-7b14-c586ce877458/08UMGIM05868.rgb.jpg/1200x630wp-60.jpg"
+    },
+    {
+      "id": "mos-def-crime-medicine",
+      "title": "Crime & Medicine",
+      "artist": "Mos Def",
+      "album": "True Magic",
+      "palette": [
+        "#080809",
+        "#652b82",
+        "#e7e5e5",
+        "#ffffff"
+      ],
+      "paletteSource": "True Magic / Apple Musicの現行配信画像",
+      "paletteNote": "公式カタログ・配信サービスの画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/mos-def-crime-medicine-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fd/04/28/fd042883-84e1-bda3-357d-64f1752d4f2b/00602517060579.rgb.jpg/1200x630wp-60.jpg"
+    },
+    {
+      "id": "krs-one-marley-marl-the-victory",
+      "title": "The Victory",
+      "artist": "KRS-One & Marley Marl feat. Blaq Poet",
+      "album": "Hip Hop Lives",
+      "palette": [
+        "#c2b753",
+        "#ab8b3e",
+        "#202123",
+        "#f0eee4"
+      ],
+      "paletteSource": "Hip Hop Lives / Apple Music配信カバー",
+      "paletteNote": "公式カタログ・配信サービスの画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/krs-one-marley-marl-the-victory-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/00/fc/1500fc90-be02-975f-8d0e-88c6bb2f30ff/4451.jpg/1200x630wp-60.jpg"
+    },
+    {
+      "id": "handsome-boy-modeling-school-if-it-wasnt-for-you",
+      "title": "If It Wasn't for You (feat. De La Soul & Starchild Excalibur)",
+      "artist": "Handsome Boy Modeling School",
+      "album": "White People",
+      "palette": [
+        "#e8e9e9",
+        "#293347",
+        "#252029",
+        "#b0894b"
+      ],
+      "paletteSource": "White People / 公式配信カバー",
+      "paletteNote": "公式カタログ・配信サービスの画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/handsome-boy-modeling-school-if-it-wasnt-for-you-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://audiomack.com/handsome-boy-modeling-school/song/if-it-wasnt-for-you-1"
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
