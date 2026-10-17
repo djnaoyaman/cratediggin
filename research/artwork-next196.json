@@ -1,0 +1,350 @@
+{
+  "state": "reviewed-candidate-pending-ci-and-deployment",
+  "createdAt": "2026-10-17",
+  "baselineCommit": "014eb895e7e87bb245404b72dd0013b094349a8b",
+  "publishedTransparentBaseline": 295,
+  "candidateTransparent": 311,
+  "catalogTotal": 381,
+  "remainingAfterCandidate": 70,
+  "paletteBasis": "Official licensed digital or artist-site covers visually inspected; editorial color approximations, not sampled measurements.",
+  "assets": [
+    {
+      "id": "the-roots-distortion-to-static",
+      "title": "Distortion To Static",
+      "artist": "The Roots",
+      "palette": [
+        "#159dc9",
+        "#0c5f9c",
+        "#102a2c"
+      ],
+      "paletteSource": "Do You Want More?!!!??! (Deluxe Version)",
+      "coverUrl": "https://music.apple.com/us/song/1543795054",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Distortion To Static\" and exact artist \"The Roots\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #159dc9, #0c5f9c, #102a2c plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/the-roots-distortion-to-static-alpha.webp",
+      "bytes": 449350,
+      "blobSha": "e609ca36351a86857a55b835fc9a88aa4ebbd1b9",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "erick-sermon-bomdigi",
+      "title": "Bomdigi",
+      "artist": "Erick Sermon",
+      "palette": [
+        "#a07789",
+        "#795740",
+        "#456241"
+      ],
+      "paletteSource": "Double or Nothing",
+      "coverUrl": "https://music.apple.com/us/song/1442864767",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Bomdigi\" and exact artist \"Erick Sermon\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #a07789, #795740, #456241 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/erick-sermon-bomdigi-alpha.webp",
+      "bytes": 573204,
+      "blobSha": "9ac9243d8117b847e1098253e89b032b81d69e97",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "common-breaker-1-9",
+      "title": "Breaker 1/9",
+      "artist": "Common",
+      "palette": [
+        "#b79b58",
+        "#394b75",
+        "#433126"
+      ],
+      "paletteSource": "Can I Borrow a Dollar?",
+      "coverUrl": "https://music.apple.com/us/album/can-i-borrow-a-dollar/267712586",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Breaker 1/9\" and exact artist \"Common\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #b79b58, #394b75, #433126 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/common-breaker-1-9-alpha.webp",
+      "bytes": 483404,
+      "blobSha": "e4eef16da3a2dba8c76bf14d61291844f64cc2e3",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "das-efx-mic-checka",
+      "title": "Mic Checka",
+      "artist": "Das EFX",
+      "palette": [
+        "#a4ac22",
+        "#553e80",
+        "#247165"
+      ],
+      "paletteSource": "Dead Serious",
+      "coverUrl": "https://music.apple.com/us/album/dead-serious/305123831",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Mic Checka\" and exact artist \"Das EFX\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #a4ac22, #553e80, #247165 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/das-efx-mic-checka-alpha.webp",
+      "bytes": 478848,
+      "blobSha": "f2b01305ca7a65b658bbeccaa282f7d7fad35f3c",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "cypress-hill-stoned-is-the-way-of-the-walk",
+      "title": "Stoned Is The Way Of The Walk",
+      "artist": "Cypress Hill",
+      "palette": [
+        "#96877d",
+        "#c82c45",
+        "#d7cdc2"
+      ],
+      "paletteSource": "Cypress Hill",
+      "coverUrl": "https://music.apple.com/us/album/cypress-hill/192754650",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Stoned Is The Way Of The Walk\" and exact artist \"Cypress Hill\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #96877d, #c82c45, #d7cdc2 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/cypress-hill-stoned-is-the-way-of-the-walk-alpha.webp",
+      "bytes": 520480,
+      "blobSha": "b5126a365880a7667c6b41306afb759e1eaba7b1",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "brand-nubian-steady-bootleggin",
+      "title": "Steady Bootleggin'",
+      "artist": "Brand Nubian",
+      "palette": [
+        "#6e9a94",
+        "#b63f21",
+        "#c6b84f"
+      ],
+      "paletteSource": "In God We Trust",
+      "coverUrl": "https://music.apple.com/ru/song/1604632433",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Steady Bootleggin'\" and exact artist \"Brand Nubian\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #6e9a94, #b63f21, #c6b84f plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/brand-nubian-steady-bootleggin-alpha.webp",
+      "bytes": 471968,
+      "blobSha": "158d328dcca5a4215703be5e5c5e3bf78f2a6bac",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "epmd-underground",
+      "title": "Underground",
+      "artist": "EPMD",
+      "palette": [
+        "#366791",
+        "#e8ba5c",
+        "#e59750"
+      ],
+      "paletteSource": "Business as Usual",
+      "coverUrl": "https://music.apple.com/us/album/business-as-usual/1443839321",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Underground\" and exact artist \"EPMD\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #366791, #e8ba5c, #e59750 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/epmd-underground-alpha.webp",
+      "bytes": 516250,
+      "blobSha": "ed1df55268e0b6dd623d88aa059f37936c87749d",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "chubb-rock-the-one",
+      "title": "The One",
+      "artist": "Chubb Rock",
+      "palette": [
+        "#165334",
+        "#ce282c",
+        "#e6c34a"
+      ],
+      "paletteSource": "The One",
+      "coverUrl": "https://music.apple.com/us/album/the-one/40283950",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"The One\" and exact artist \"Chubb Rock\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #165334, #ce282c, #e6c34a plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/chubb-rock-the-one-alpha.webp",
+      "bytes": 504998,
+      "blobSha": "0616a790bee5ccf796ba4be63f86576336c8d338",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "lord-finesse-dj-mike-smooth-bud-mutha",
+      "title": "Bud Mutha",
+      "artist": "Lord Finesse & DJ Mike Smooth",
+      "palette": [
+        "#3b363b",
+        "#8e4b3d",
+        "#be8067"
+      ],
+      "paletteSource": "Funky Technician",
+      "coverUrl": "https://music.apple.com/us/song/1565362430",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Bud Mutha\" and exact artist \"Lord Finesse & DJ Mike Smooth\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #3b363b, #8e4b3d, #be8067 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/lord-finesse-dj-mike-smooth-bud-mutha-alpha.webp",
+      "bytes": 519190,
+      "blobSha": "c388190e69cbc1ee975fe80238f76ee0c57ea888",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "slick-rick-it-s-a-boy",
+      "title": "It's A Boy",
+      "artist": "Slick Rick",
+      "palette": [
+        "#e76d28",
+        "#e7c42b",
+        "#4584ab",
+        "#51b8ad"
+      ],
+      "paletteSource": "The Ruler's Back",
+      "coverUrl": "https://music.apple.com/us/album/the-rulers-back/1443738837",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"It's A Boy\" and exact artist \"Slick Rick\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #e76d28, #e7c42b, #4584ab, #51b8ad plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/slick-rick-it-s-a-boy-alpha.webp",
+      "bytes": 569196,
+      "blobSha": "a6b2718d73e2f8e9c79d974ca23e92f5278a6f80",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "poor-righteous-teachers-shakiyla-jrh",
+      "title": "Shakiyla (JRH)",
+      "artist": "Poor Righteous Teachers",
+      "palette": [
+        "#c6a477",
+        "#8eafa1",
+        "#727e88"
+      ],
+      "paletteSource": "Pure Poverty",
+      "coverUrl": "https://music.apple.com/us/album/pure-poverty/1056401286",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Shakiyla (JRH)\" and exact artist \"Poor Righteous Teachers\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #c6a477, #8eafa1, #727e88 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/poor-righteous-teachers-shakiyla-jrh-alpha.webp",
+      "bytes": 465028,
+      "blobSha": "cf7990f0be682381e853d9bc8ea664ff9ec25f9a",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "3rd-bass-derelicts-of-dialect",
+      "title": "Derelicts Of Dialect",
+      "artist": "3rd Bass",
+      "palette": [
+        "#222222",
+        "#a39a97",
+        "#e2dcd4"
+      ],
+      "paletteSource": "Derelicts of Dialect",
+      "coverUrl": "https://music.apple.com/us/song/1443733716",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Derelicts Of Dialect\" and exact artist \"3rd Bass\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #222222, #a39a97, #e2dcd4 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/3rd-bass-derelicts-of-dialect-alpha.webp",
+      "bytes": 465790,
+      "blobSha": "75ba6cf965e7f41296f813fb3b8ddb0cd6b6314b",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "tim-dog-i-ain-t-havin-it-feat-kool-keith",
+      "title": "I Ain't Havin' It (feat. Kool Keith)",
+      "artist": "Tim Dog",
+      "palette": [
+        "#999b9a",
+        "#668777",
+        "#191919"
+      ],
+      "paletteSource": "Penicillin on Wax",
+      "coverUrl": "https://music.apple.com/us/album/penicillin-on-wax/1245799013",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"I Ain't Havin' It (feat. Kool Keith)\" and exact artist \"Tim Dog\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #999b9a, #668777, #191919 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/tim-dog-i-ain-t-havin-it-feat-kool-keith-alpha.webp",
+      "bytes": 529980,
+      "blobSha": "8e58988f2c1a5a368350b359427878d035602bda",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "ll-cool-j-the-boomin-system",
+      "title": "The Boomin' System",
+      "artist": "LL Cool J",
+      "palette": [
+        "#898886",
+        "#c43942",
+        "#15201e"
+      ],
+      "paletteSource": "Mama Said Knock You Out",
+      "coverUrl": "https://open.spotify.com/album/7p7kcsrdoJ8DKQIMouujcb",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"The Boomin' System\" and exact artist \"LL Cool J\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #898886, #c43942, #15201e plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific Spotify digital album presentation; not claimed original first pressing",
+      "image": "assets/graffiti/ll-cool-j-the-boomin-system-alpha.webp",
+      "bytes": 539184,
+      "blobSha": "d1c639df6589d64c49a4b5c1da71875078bd52fe",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "biz-markie-just-a-friend",
+      "title": "Just a Friend",
+      "artist": "Biz Markie",
+      "palette": [
+        "#dc2422",
+        "#e9d827",
+        "#528839",
+        "#244c74"
+      ],
+      "paletteSource": "The Biz Never Sleeps, 1989 US original Cold Chillin LP",
+      "coverUrl": "https://www.sourcerecords.jp/product/6339",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Just a Friend\" and exact artist \"Biz Markie\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #dc2422, #e9d827, #528839, #244c74 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Dealer original sleeve photograph, not re-recording or compilation. No access to blocked artist-domain certificate attempted.",
+      "image": "assets/graffiti/biz-markie-just-a-friend-alpha.webp",
+      "bytes": 475976,
+      "blobSha": "13ac6058e6a63a389f7e9ea6b584e5382406b108",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "all-city-productions-unsolved-mysterme",
+      "title": "Unsolved Mysterme",
+      "artist": "All City Productions",
+      "palette": [
+        "#e1d6bd",
+        "#bc4c44",
+        "#171715"
+      ],
+      "paletteSource": "Bust Your Rhymes / Unsolved Mysterme, All City Productions ACP9200-1 repress",
+      "coverUrl": "https://manhattanrecords.jp/UNSOLVED%2BMYSTERME%2B%28USED%29/product/0/1000000361506/?cat=&swrd=",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Unsolved Mysterme\" and exact artist \"All City Productions\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #e1d6bd, #bc4c44, #171715 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Dealer explicitly identifies this as same-master repress; do not describe photographed object as original1992 pressing. Exact release family and track membership are established.",
+      "image": "assets/graffiti/all-city-productions-unsolved-mysterme-alpha.webp",
+      "bytes": 555580,
+      "blobSha": "ba00a55fb43715e9f0607d06fe49b049834b324b",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    }
+  ]
+}

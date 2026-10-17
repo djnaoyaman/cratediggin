@@ -959,14 +959,18 @@
       "artist": "All City Productions",
       "album": "Bust Your Rhymes / Unsolved Mysterme",
       "palette": [
-        "#aa5142",
-        "#e5d5ad",
-        "#8b8b7c",
-        "#242526"
+        "#e1d6bd",
+        "#bc4c44",
+        "#171715"
       ],
-      "paletteSource": "Bust Your Rhymes / Unsolved Mysterme",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteSource": "Bust Your Rhymes / Unsolved Mysterme, All City Productions ACP9200-1 repress",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/all-city-productions-unsolved-mysterme-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://manhattanrecords.jp/UNSOLVED%2BMYSTERME%2B%28USED%29/product/0/1000000361506/?cat=&swrd="
     },
     {
       "id": "public-enemy-shut-em-down-pe-te-rock-mixx",
@@ -2288,14 +2292,19 @@
       "artist": "Biz Markie",
       "album": "The Biz Never Sleeps",
       "palette": [
-        "#be8d3c",
-        "#e9d4a3",
-        "#826b54",
-        "#29261f"
+        "#dc2422",
+        "#e9d827",
+        "#528839",
+        "#244c74"
       ],
-      "paletteSource": "The Biz Never Sleeps",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteSource": "The Biz Never Sleeps, 1989 US original Cold Chillin LP",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/biz-markie-just-a-friend-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://www.sourcerecords.jp/product/6339"
     },
     {
       "id": "slick-rick-children-s-story",
@@ -5602,14 +5611,18 @@
       "artist": "The Roots",
       "album": "Distortion to Static / Do You Want More?!!!??!",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#159dc9",
+        "#0c5f9c",
+        "#102a2c"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Do You Want More?!!!??! (Deluxe Version)",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-roots-distortion-to-static-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1543795054"
     },
     {
       "id": "erick-sermon-bomdigi",
@@ -5617,14 +5630,18 @@
       "artist": "Erick Sermon",
       "album": "Double or Nothing",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#a07789",
+        "#795740",
+        "#456241"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteSource": "Double or Nothing",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/erick-sermon-bomdigi-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1442864767"
     },
     {
       "id": "pete-rock-c-l-smooth-the-main-ingredient",
@@ -5692,14 +5709,18 @@
       "artist": "Common",
       "album": "Can I Borrow a Dollar?",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#b79b58",
+        "#394b75",
+        "#433126"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Can I Borrow a Dollar?",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/common-breaker-1-9-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/can-i-borrow-a-dollar/267712586"
     },
     {
       "id": "das-efx-mic-checka",
@@ -5707,14 +5728,18 @@
       "artist": "Das EFX",
       "album": "Dead Serious",
       "palette": [
-        "#c28438",
-        "#e3d9ad",
-        "#778755",
-        "#2a2c20"
+        "#a4ac22",
+        "#553e80",
+        "#247165"
       ],
       "paletteSource": "Dead Serious",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/das-efx-mic-checka-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/dead-serious/305123831"
     },
     {
       "id": "cypress-hill-stoned-is-the-way-of-the-walk",
@@ -5722,14 +5747,18 @@
       "artist": "Cypress Hill",
       "album": "Cypress Hill",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#96877d",
+        "#c82c45",
+        "#d7cdc2"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Cypress Hill",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/cypress-hill-stoned-is-the-way-of-the-walk-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/cypress-hill/192754650"
     },
     {
       "id": "a-tribe-called-quest-vibes-and-stuff",
@@ -5757,14 +5786,18 @@
       "artist": "Brand Nubian",
       "album": "In God We Trust",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#6e9a94",
+        "#b63f21",
+        "#c6b84f"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "In God We Trust",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/brand-nubian-steady-bootleggin-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/ru/song/1604632433"
     },
     {
       "id": "epmd-underground",
@@ -5772,14 +5805,18 @@
       "artist": "EPMD",
       "album": "Business as Usual",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#366791",
+        "#e8ba5c",
+        "#e59750"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Business as Usual",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/epmd-underground-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/business-as-usual/1443839321"
     },
     {
       "id": "chubb-rock-the-one",
@@ -5787,14 +5824,18 @@
       "artist": "Chubb Rock",
       "album": "The One",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#165334",
+        "#ce282c",
+        "#e6c34a"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "The One",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/chubb-rock-the-one-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/the-one/40283950"
     },
     {
       "id": "big-daddy-kane-taste-of-chocolate-video-version",
@@ -5837,14 +5878,18 @@
       "artist": "Lord Finesse & DJ Mike Smooth",
       "album": "Funky Technician",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#3b363b",
+        "#8e4b3d",
+        "#be8067"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Funky Technician",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/lord-finesse-dj-mike-smooth-bud-mutha-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1565362430"
     },
     {
       "id": "slick-rick-it-s-a-boy",
@@ -5852,14 +5897,19 @@
       "artist": "Slick Rick",
       "album": "The Ruler's Back",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#e76d28",
+        "#e7c42b",
+        "#4584ab",
+        "#51b8ad"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "The Ruler's Back",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/slick-rick-it-s-a-boy-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/the-rulers-back/1443738837"
     },
     {
       "id": "poor-righteous-teachers-shakiyla-jrh",
@@ -5867,14 +5917,18 @@
       "artist": "Poor Righteous Teachers",
       "album": "Pure Poverty",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#c6a477",
+        "#8eafa1",
+        "#727e88"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Pure Poverty",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/poor-righteous-teachers-shakiyla-jrh-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/pure-poverty/1056401286"
     },
     {
       "id": "3rd-bass-derelicts-of-dialect",
@@ -5882,14 +5936,18 @@
       "artist": "3rd Bass",
       "album": "Derelicts of Dialect",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#222222",
+        "#a39a97",
+        "#e2dcd4"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Derelicts of Dialect",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/3rd-bass-derelicts-of-dialect-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1443733716"
     },
     {
       "id": "tim-dog-i-ain-t-havin-it-feat-kool-keith",
@@ -5897,14 +5955,18 @@
       "artist": "Tim Dog",
       "album": "Penicillin on Wax",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#999b9a",
+        "#668777",
+        "#191919"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Penicillin on Wax",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/tim-dog-i-ain-t-havin-it-feat-kool-keith-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/penicillin-on-wax/1245799013"
     },
     {
       "id": "ll-cool-j-the-boomin-system",
@@ -5912,14 +5974,18 @@
       "artist": "LL Cool J",
       "album": "Mama Said Knock You Out",
       "palette": [
-        "#a94738",
-        "#e6d9bf",
-        "#7c8c84",
-        "#242a27"
+        "#898886",
+        "#c43942",
+        "#15201e"
       ],
       "paletteSource": "Mama Said Knock You Out",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/ll-cool-j-the-boomin-system-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://open.spotify.com/album/7p7kcsrdoJ8DKQIMouujcb"
     },
     {
       "id": "cypress-hill-hand-on-the-pump",
