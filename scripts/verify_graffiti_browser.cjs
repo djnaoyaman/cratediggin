@@ -17,6 +17,8 @@ const assert=require('node:assert/strict');
    await page.locator('#art-view.image-art').waitFor({state:'visible'});
    await page.waitForFunction(()=>{const c=document.querySelector('#wall'),p=c.getContext('2d').getImageData(0,0,c.width,c.height).data;let n=0;for(let i=0;i<p.length;i+=80)if(p[i]<120)n++;return n>100;});
    assert(await page.locator('#art-view.image-art').isVisible());
+   assert.equal(await page.locator('#art-view .art-credit').innerText(),'Designed by DJ Naoyaman');
+   assert(await page.locator('#art-view .art-credit').isVisible());
    assert(await page.locator('#art-close').isVisible());
    assert(await page.locator('#art-next').isVisible());
    await page.screenshot({path:'/tmp/graffiti-'+width+'.png'});
