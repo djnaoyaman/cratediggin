@@ -7,9 +7,20 @@
  const cv=document.getElementById('wall'),ctx=cv.getContext('2d');
  function size(){const d=Math.min(devicePixelRatio||1,1.5);width=innerWidth;height=innerHeight;cv.width=width*d;cv.height=height*d;ctx.setTransform(d,0,0,d,0,0);if(current)prepare(current)}
  function artworkURL(song){return song.art.image?new URL(song.art.image,(window.CRATE_SITE_URL||location.origin).replace(/\/$/,'')+'/').href:null}
- function artwork(song){const url=artworkURL(song);if(!url||failedImages.has(url))return null;if(imageCache.has(url))return imageCache.get(url);const image=new Image();image.decoding='async';imageCache.set(url,image);while(imageCache.size>4){const first=imageCache.keys().next().value;if(first===url)break;imageCache.delete(first)}image.onload=()=>{if(visible&&artworkURL(current)===url){cancelAnimationFrame(frame);frame=requestAnimationFrame(draw)}};image.onerror=()=>{failedImages.add(url);imageCache.delete(url);if(visible&&artworkURL(current)===url){prepare(current);cancelAnimationFrame(frame);frame=requestAnimationFrame(draw)}};image.src=url;return image}
+ function artwork(song){const url=artworkURL(song);if(!url||failedImages.has(url))return null;if(imageCache.has(url))return imageCache.get(url);const image=new Image();image.decoding='async';imageCache.set(url,image);while(imageCache.size>4){const first=imageCache.keys().next().value;if(first===url)break;imageCache.delete(first)}image.onload=()=>{if(visible&&artworkURL(current)===url){started=0;cancelAnimationFrame(frame);frame=requestAnimationFrame(draw)}};image.onerror=()=>{failedImages.add(url);imageCache.delete(url);if(visible&&artworkURL(current)===url){prepare(current);cancelAnimationFrame(frame);frame=requestAnimationFrame(draw)}};image.src=url;return image}
+ function prepareWall(song){
+  const W=width,H=height,r=rand(song.art.seed),colors=song.art.palette;
+  texture=document.createElement('canvas');texture.width=W;texture.height=H;const t=texture.getContext('2d');
+  const light=t.createLinearGradient(0,0,W,H);light.addColorStop(0,'#e1ddd3');light.addColorStop(.55,'#c9c6bd');light.addColorStop(1,'#aaa79f');t.fillStyle=light;t.fillRect(0,0,W,H);
+  t.fillStyle=colors[0]+'0c';t.fillRect(0,0,W,H);
+  const bh=76,bw=220;t.lineWidth=2;
+  for(let y=0;y<H;y+=bh){t.strokeStyle='#34332b25';t.beginPath();t.moveTo(0,y);t.lineTo(W,y);t.stroke();t.strokeStyle='#ffffff32';t.beginPath();t.moveTo(0,y+2);t.lineTo(W,y+2);t.stroke();for(let x=(y/bh%2)*-bw/2;x<W;x+=bw){t.strokeStyle='#34332b1b';t.beginPath();t.moveTo(x,y);t.lineTo(x,y+bh);t.stroke()}}
+  for(let i=0;i<Math.min(26000,W*H/35);i++){const a=r(),z=.3+r()*1.8;t.fillStyle=a>.5?'#ffffff24':'#39372f1c';t.fillRect(r()*W,r()*H,z,z)}
+  for(let i=0;i<16;i++){let x=r()*W,y=r()*H;t.strokeStyle='#4a463a1a';t.lineWidth=.4+r();t.beginPath();t.moveTo(x,y);for(let j=0;j<5;j++){x+=(r()-.5)*30;y+=r()*24;t.lineTo(x,y)}t.stroke()}
+  const shade=t.createRadialGradient(W*.5,H*.43,W*.18,W*.5,H*.43,Math.hypot(W,H)*.6);shade.addColorStop(0,'#00000000');shade.addColorStop(1,'#27251d28');t.fillStyle=shade;t.fillRect(0,0,W,H);
+ }
  function prepare(song){
-  current=song;const generated=artwork(song);document.getElementById('art-view').classList.toggle('image-art',!!generated);if(generated){texture=null;paint=null;return;}const r=rand(song.art.seed),W=width,H=height;
+  current=song;const semantic=document.getElementById('artwork-image');if(song.art.image){semantic.alt=song.art.alt||song.title+' — '+song.artist+'｜CRATE DIGGIN｜DJ Naoyaman';semantic.src=artworkURL(song);semantic.hidden=false}else{semantic.hidden=true;semantic.alt='';semantic.removeAttribute('src')}const generated=artwork(song);document.getElementById('art-view').classList.toggle('image-art',!!generated);if(generated){prepareWall(song);paint=null;return;}const r=rand(song.art.seed),W=width,H=height;
   const colors=song.art.palette||['#006cb6','#ffffff','#60baff','#17212a'];
   const [primary,secondary,accent,bg]=colors;
   const chicago=song.art.profile==='chicago-piano',queens=song.art.profile==='queens-throwup';const la=song.art.profile==='la-open-sky';const oak=song.art.profile==='oakland-handstyle',newark=song.art.profile==='newark-industrial',brooklyn=song.art.profile==='brooklyn-brick';
@@ -67,7 +78,18 @@
   p.save();p.translate(W*.7,H*.72);p.rotate(-.12);p.textAlign='right';p.font=`${Math.min(W*.047,38)}px 'Permanent Marker',cursive`;p.fillStyle=secondary;p.fillText(song.art.tag,0,0);p.font=`${Math.min(W*.025,19)}px 'Permanent Marker',cursive`;p.fillStyle=accent;p.fillText('Crate Diggin’ / One love.',0,33);p.restore();
  }
  function draw(ts){if(!visible)return;if(!started)started=ts;
-  const generated=artwork(current);if(generated){ctx.clearRect(0,0,width,height);ctx.fillStyle='#faf9f5';ctx.fillRect(0,0,width,height);if(generated.complete&&generated.naturalWidth){const landscape=width>height,top=landscape?48:70,bottom=landscape?92:170,space=Math.max(80,height-top-bottom),scale=Math.min(width/generated.naturalWidth,space/generated.naturalHeight),w=generated.naturalWidth*scale,h=generated.naturalHeight*scale;ctx.save();ctx.globalAlpha=reduced?1:Math.min(1,(ts-started)/650);ctx.drawImage(generated,(width-w)/2,top+(space-h)/2,w,h);ctx.restore();}if(!reduced&&ts-started<900)frame=requestAnimationFrame(draw);return;}
+  const generated=artwork(current);if(generated){
+   ctx.clearRect(0,0,width,height);ctx.drawImage(texture,0,0);
+   const elapsed=ts-started,progress=reduced?1:Math.min(1,elapsed/4000);
+   if(generated.complete&&generated.naturalWidth){
+    const landscape=width>height,top=landscape?48:70,bottom=landscape?92:170,space=Math.max(80,height-top-bottom),scale=Math.min(width/generated.naturalWidth,space/generated.naturalHeight),w=generated.naturalWidth*scale,h=generated.naturalHeight*scale,x=(width-w)/2,y=top+(space-h)/2;
+    ctx.save();ctx.globalCompositeOperation=current.art.transparent?'source-over':'multiply';
+    if(progress<1){const edge=x+(w+24)*progress-12;ctx.beginPath();ctx.moveTo(x-20,y-20);ctx.lineTo(edge,y-20);for(let yy=y;yy<=y+h+20;yy+=12)ctx.lineTo(edge+Math.sin(yy*.11+elapsed*.004)*7,yy);ctx.lineTo(x-20,y+h+20);ctx.closePath();ctx.clip()}
+    ctx.drawImage(generated,x,y,w,h);ctx.restore();
+   }
+   if(!reduced&&progress<1)frame=requestAnimationFrame(draw);return;
+  }
+
 const primary=(current.art.palette||['#006cb6'])[0];const t=(ts-started)/1000,cycle=reduced?25:t%30;ctx.clearRect(0,0,width,height);ctx.drawImage(texture,0,0);
   // The wall gets painted left to right, settles, then receives a fresh pass.
   const progress=Math.min(1,cycle/(current.art.style==='blockbuster'?5:current.art.style==='piece'?13:9)),edge=(width+100)*progress;

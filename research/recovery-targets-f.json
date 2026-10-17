@@ -1,0 +1,127 @@
+[
+  {
+    "id": "unkle-rabbit-in-your-headlights",
+    "title": "Rabbit in Your Headlights",
+    "artist": "UNKLE",
+    "album": "Psyence Fiction",
+    "sources": [
+      {
+        "label": "Psyence Fiction / 公式作品情報",
+        "url": "https://www.universal-music.co.jp/unkle/biography/",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "UNKLE - Topic / Rabbit in Your Headlights",
+        "url": "https://www.youtube.com/watch?v=7gj6t4CTiCI",
+        "kind": "公式配信音源・動画"
+      }
+    ],
+    "palette": [
+      "#e7dfc8",
+      "#b7b9a6",
+      "#c64b3f",
+      "#292b28"
+    ],
+    "paletteSource": "Psyence Fiction",
+    "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。"
+  },
+  {
+    "id": "dj-shadow-mashin-on-the-motorway",
+    "title": "Mashin' on the Motorway",
+    "artist": "DJ Shadow",
+    "album": "The Private Press",
+    "sources": [
+      {
+        "label": "The Private Press / 公式作品情報",
+        "url": "https://djshadow.com/products/the-private-press-vinyl-2lp",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "DJShadowVEVO / DJ Shadow - Mashin' On The Motorway",
+        "url": "https://www.youtube.com/watch?v=mKibXhFqPjA",
+        "kind": "公式配信音源・動画"
+      }
+    ],
+    "palette": [
+      "#e5dccc",
+      "#bc3432",
+      "#232222",
+      "#a8a195"
+    ],
+    "paletteSource": "The Private Press",
+    "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。"
+  },
+  {
+    "id": "dj-shadow-nobody-speak",
+    "title": "Nobody Speak",
+    "artist": "DJ Shadow",
+    "album": "The Mountain Will Fall",
+    "sources": [
+      {
+        "label": "The Mountain Will Fall / 公式作品情報",
+        "url": "https://djshadow.bandcamp.com/album/the-mountain-will-fall",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "DJ Shadow - Topic / Nobody Speak",
+        "url": "https://www.youtube.com/watch?v=FX0ol1zksD4",
+        "kind": "公式配信音源・動画"
+      }
+    ],
+    "palette": [
+      "#c8b3d7",
+      "#d1dadd",
+      "#b8bcbb",
+      "#494054"
+    ],
+    "paletteSource": "The Mountain Will Fall",
+    "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。"
+  },
+  {
+    "id": "madlib-slims-return",
+    "title": "Slim's Return",
+    "artist": "Madlib",
+    "album": "Shades of Blue",
+    "sources": [
+      {
+        "label": "Madlib - Topic / Slim's Return",
+        "url": "https://www.youtube.com/watch?v=78E1ZFpHOJI",
+        "kind": "公式配信・動画"
+      }
+    ],
+    "palette": [
+      "#234c74",
+      "#7ba3bd",
+      "#b7c8ce",
+      "#dcd7bb"
+    ],
+    "paletteSource": "Shades of Blue",
+    "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。"
+  },
+  {
+    "id": "dj-bombjack-lesson-7-the-next-lesson",
+    "title": "Lesson 7: The Next Lesson",
+    "artist": "DJ Bombjack",
+    "album": "Lesson 7: The Next Lesson",
+    "sources": [
+      {
+        "label": "DJ Bombjack - Topic — Lesson 7: The Next Lesson",
+        "url": "https://www.youtube.com/watch?v=C9ugn8Xh51Y",
+        "kind": "公式音源"
+      },
+      {
+        "label": "収録・発表の資料",
+        "url": "https://nialler9.com/lessons-in-hip-hop",
+        "kind": "盤情報"
+      }
+    ],
+    "palette": [
+      "#006cb6",
+      "#ffffff",
+      "#8dc9ed",
+      "#101114"
+    ],
+    "paletteSource": "Crate Diggin’のブランドカラー",
+    "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。"
+  }
+]

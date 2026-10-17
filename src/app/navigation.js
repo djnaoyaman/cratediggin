@@ -56,14 +56,14 @@
   document.title=p.title;
   const canonical=document.querySelector('link[rel="canonical"]')||document.createElement('link');canonical.rel='canonical';canonical.href=p.url;document.head.append(canonical);
   setMeta('description',p.description);setMeta('author','DJ Naoyaman');setMeta('robots','index,follow,max-image-preview:large');
-  for(const [name,text] of Object.entries({'og:title':p.title,'og:description':p.description,'og:url':p.url,'og:type':p.kind,'og:site_name':'Crate Diggin’','og:locale':'ja_JP','og:image':p.image,'og:image:width':'1200','og:image:height':'630','og:image:alt':p.title}))setMeta(name,text,true);
+  for(const [name,text] of Object.entries({'og:title':p.title,'og:description':p.description,'og:url':p.url,'og:type':p.kind,'og:site_name':'Crate Diggin’','og:locale':'ja_JP','og:image':p.image,'og:image:width':'1200','og:image:height':'630','og:image:alt':p.imageAlt||p.title}))setMeta(name,text,true);
   document.head.querySelectorAll('meta[property^="article:"]').forEach(x=>x.remove());
   if(p.kind==='article'){
    setMeta('article:author',pageRegistry['#/editor'].url,true);
    if(p.published)setMeta('article:published_time',p.published,true);
    if(p.modified)setMeta('article:modified_time',p.modified,true);
   }
-  for(const [name,text] of Object.entries({'twitter:card':'summary_large_image','twitter:title':p.title,'twitter:description':p.description,'twitter:image':p.image,'twitter:image:alt':p.title}))setMeta(name,text);
+  for(const [name,text] of Object.entries({'twitter:card':'summary_large_image','twitter:title':p.title,'twitter:description':p.description,'twitter:image':p.image,'twitter:image:alt':p.imageAlt||p.title}))setMeta(name,text);
   document.querySelectorAll('link[rel="alternate"][type="text/markdown"]').forEach(x=>x.remove());
   if(key.startsWith('#/song/')){const alternate=document.createElement('link');alternate.rel='alternate';alternate.type='text/markdown';alternate.href=p.url.replace(/\.html$/,'.md');document.head.append(alternate);}
   if(metadataCache.has(key)){setStructuredData(metadataCache.get(key),key);return;}

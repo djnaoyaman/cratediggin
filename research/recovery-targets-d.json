@@ -1,0 +1,211 @@
+[
+  {
+    "id": "what-im-after",
+    "title": "What I’m After",
+    "artist": "Lords of the Underground",
+    "album": "Keepers of the Funk",
+    "sources": [
+      {
+        "label": "Spotify — Keepers of the Funk",
+        "url": "https://open.spotify.com/album/1N6q5fo2qiBMaNvFHovh41",
+        "kind": "公式"
+      },
+      {
+        "label": "YouTube — 公式Topic配信",
+        "url": "https://www.youtube.com/watch?v=sXI88yYjUgE",
+        "kind": "公式"
+      },
+      {
+        "label": "Between Music Store — オリジナル12インチの紹介",
+        "url": "https://www.betweenmusicstore.jp/product/1663",
+        "kind": "レコード販売資料"
+      },
+      {
+        "label": "Albumism — Keepers of the Funk特集",
+        "url": "https://albumism.com/features/lords-of-the-underground-keepers-of-the-funk-album-anniversary",
+        "kind": "作品特集"
+      },
+      {
+        "label": "YouTube — Redman / UMG正規配信",
+        "url": "https://www.youtube.com/watch?v=_AJ3mL2ypdw",
+        "kind": "公式"
+      }
+    ],
+    "palette": [
+      "#b58343",
+      "#e4d2a2",
+      "#bd4c37",
+      "#252622"
+    ],
+    "paletteSource": "Keepers of the Funk",
+    "paletteNote": "ジャケットを参照した編集上の配色。厳密な抽出値ではない。",
+    "paperImage": "assets/graffiti/what-im-after.webp"
+  },
+  {
+    "id": "props-over-here",
+    "title": "Props Over Here",
+    "artist": "The Beatnuts",
+    "album": "The Beatnuts（Street Level）",
+    "sources": [
+      {
+        "label": "The Beatnuts — Props Over Here正規配信",
+        "url": "https://www.youtube.com/watch?v=WGbsO3yBROQ",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Hip Tank Records — The Beatnuts紹介",
+        "url": "https://hiptankrecords.shop-pro.jp/?pid=178616158",
+        "kind": "レコード販売資料"
+      },
+      {
+        "label": "Apple Music — Street Level / Props Over Here",
+        "url": "https://music.apple.com/us/song/1363892142",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Musica Terra — Wee Tinaの解説と参考音源",
+        "url": "https://musica-terra.com/2021/12/31/special-native-tongue-street-level/",
+        "kind": "サンプル解説"
+      }
+    ],
+    "palette": [
+      "#ba3638",
+      "#ece1bf",
+      "#d5ae41",
+      "#211e20"
+    ],
+    "paletteSource": "The Beatnuts（Street Level）",
+    "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
+    "paperImage": "assets/graffiti/props-over-here.webp"
+  },
+  {
+    "id": "the-shit-is-real",
+    "title": "The Shit Is Real (DJ Premier Remix)",
+    "artist": "Fat Joe",
+    "album": "Jealous One’s Envy",
+    "sources": [
+      {
+        "label": "Fat Joe — リミックスの正規配信",
+        "url": "https://soundcloud.com/fatjoeofficial/the-shit-is-real-dj-premier",
+        "kind": "アーティスト公式配信"
+      },
+      {
+        "label": "Albumism — Jealous One’s Envy特集",
+        "url": "https://albumism.com/features/fat-joe-jealous-ones-envy-album-anniversary",
+        "kind": "作品特集"
+      },
+      {
+        "label": "YouTube — DJ Premier Remix音源",
+        "url": "https://www.youtube.com/watch?v=E8kZRCJVFDE",
+        "kind": "配信音源"
+      }
+    ],
+    "palette": [
+      "#7b7880",
+      "#dad5c8",
+      "#ab8555",
+      "#242228"
+    ],
+    "paletteSource": "Jealous One’s Envy",
+    "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
+    "paperImage": "assets/graffiti/the-shit-is-real.webp"
+  },
+  {
+    "id": "a-tribe-called-quest-scenario",
+    "title": "Scenario",
+    "artist": "A Tribe Called Quest",
+    "album": "The Low End Theory",
+    "sources": [
+      {
+        "label": "YouTube — A Tribe Called Quest / Scenario",
+        "url": "https://www.youtube.com/watch?v=Q6TLWqn82J4",
+        "kind": "参考投稿・配信候補"
+      }
+    ],
+    "palette": [
+      "#c02c32",
+      "#75a550",
+      "#f1d84c",
+      "#151718"
+    ],
+    "paletteSource": "The Low End Theory",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "paperImage": "assets/graffiti/a-tribe-called-quest-scenario.webp"
+  },
+  {
+    "id": "pete-rock-c-l-smooth-straighten-it-out",
+    "title": "Straighten It Out",
+    "artist": "Pete Rock & C.L. Smooth",
+    "album": "Mecca and the Soul Brother",
+    "sources": [
+      {
+        "label": "YouTube — Pete Rock & C.L. Smooth / Straighten It Out",
+        "url": "https://www.youtube.com/watch?v=woD725APoCU",
+        "kind": "公式配信情報"
+      },
+      {
+        "label": "New Releases - 3/6/26 — Grimey's New & Preloved Music",
+        "url": "https://www.grimeys.com/new-releases/3-6-26",
+        "kind": "サンプル関係の調査資料"
+      }
+    ],
+    "palette": [
+      "#ad7f52",
+      "#e7d8b8",
+      "#608e6f",
+      "#302b26"
+    ],
+    "paletteSource": "Mecca and the Soul Brother",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "paperImage": "assets/graffiti/pete-rock-c-l-smooth-straighten-it-out.webp"
+  },
+  {
+    "id": "the-pharcyde-passin-me-by",
+    "title": "Passin' Me By",
+    "artist": "The Pharcyde",
+    "album": "Bizarre Ride II the Pharcyde",
+    "sources": [
+      {
+        "label": "YouTube — The Pharcyde / Passin' Me By",
+        "url": "https://www.youtube.com/watch?v=a-mAK3uB2_0",
+        "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Breaks With Tradition: \"Summer In The City\"",
+        "url": "https://stereogum.com/2055412/quincy-hones-summer-in-the-city-samples/columns/breaks-with-tradition",
+        "kind": "サンプル関係の調査資料"
+      }
+    ],
+    "palette": [
+      "#ebbf36",
+      "#67b5c2",
+      "#e45f8a",
+      "#32285c"
+    ],
+    "paletteSource": "Bizarre Ride II the Pharcyde",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "paperImage": "assets/graffiti/the-pharcyde-passin-me-by.webp"
+  },
+  {
+    "id": "the-beatnuts-off-the-books",
+    "title": "Off the Books",
+    "artist": "The Beatnuts",
+    "album": "Stone Crazy",
+    "sources": [
+      {
+        "label": "YouTube — The Beatnuts / Off the Books",
+        "url": "https://www.youtube.com/watch?v=poB12fNGK28",
+        "kind": "公式配信情報"
+      }
+    ],
+    "palette": [
+      "#ab4c40",
+      "#eadbc8",
+      "#6d8c77",
+      "#292b2c"
+    ],
+    "paletteSource": "Stone Crazy",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "paperImage": "assets/graffiti/the-beatnuts-off-the-books.webp"
+  }
+]

@@ -1,0 +1,238 @@
+[
+  {
+    "id": "93-til-infinity",
+    "title": "93 ’til Infinity",
+    "artist": "Souls of Mischief",
+    "album": "93 ’til Infinity",
+    "sources": [
+      {
+        "label": "Apple Music — アルバム情報",
+        "url": "https://music.apple.com/us/album/93-til-infinity/369570847",
+        "kind": "配信情報"
+      },
+      {
+        "label": "XXL — 四人が語る制作の経緯（2013年）",
+        "url": "https://www.xxlmag.com/souls-of-mischief-break-down-the-making-of-93-til-infinity/",
+        "kind": "本人取材"
+      },
+      {
+        "label": "Okayplayer — A-Plusへの制作取材（2023年）",
+        "url": "https://www.okayplayer.com/behind-the-beat-how-souls-of-mischief-created-a-sonic-safe-space-with-93-til-infinity/391248",
+        "kind": "本人取材"
+      },
+      {
+        "label": "Apple Music — Graham Central Station / The Jam（1975年）",
+        "url": "https://music.apple.com/us/song/360737330",
+        "kind": "公式配信情報"
+      },
+      {
+        "label": "Rhino — Crosswindsの収録曲を示す公式資料",
+        "url": "https://www.rhino.com/article/now-available-billy-cobham-the-atlantic-years-1973-1978",
+        "kind": "レーベル公式"
+      }
+    ],
+    "palette": [
+      "#d6bb69",
+      "#91ada0",
+      "#efe4c7",
+      "#25372f"
+    ],
+    "paletteSource": "93 ’til Infinity",
+    "paletteNote": "収録アルバムのジャケットを参照した編集上の配色。厳密な色抽出値ではない。",
+    "paperImage": "assets/graffiti/93-til-infinity.webp"
+  },
+  {
+    "id": "runnin",
+    "title": "Runnin’",
+    "artist": "The Pharcyde",
+    "album": "Labcabincalifornia",
+    "sources": [
+      {
+        "label": "Delicious Vinyl — Runnin’のシングル紹介",
+        "url": "https://store.deliciousvinyl.com/blogs/news/6146246-the-pharcyde-runnin-color-vinyl-12-w-jay-dee-remix-available-july-10",
+        "kind": "レーベル公式"
+      },
+      {
+        "label": "YouTube — PHARCYDE TV / Remastered 2025",
+        "url": "https://www.youtube.com/watch?v=g1BQBVOVXWE",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Delicious Vinyl — The Pharcyde紹介",
+        "url": "https://store.deliciousvinyl.com/pages/the-pharcyde",
+        "kind": "レーベル公式"
+      },
+      {
+        "label": "Delicious Vinyl — Illa J / Jay Deeの制作歴",
+        "url": "https://deliciousvinyl.com/artists/illa-j/",
+        "kind": "レーベル公式"
+      },
+      {
+        "label": "Flower Records — Saudade Vem Correndoのサンプル関係",
+        "url": "https://flower-r.com/45trio-3/",
+        "kind": "レーベル公式解説"
+      },
+      {
+        "label": "YouTube — Stan Getz / Jazz Samba Encore!",
+        "url": "https://www.youtube.com/watch?v=D0a4vuKQR5w",
+        "kind": "UMG正規配信"
+      }
+    ],
+    "palette": [
+      "#a59b56",
+      "#eadcaf",
+      "#854e35",
+      "#29291f"
+    ],
+    "paletteSource": "Labcabincalifornia",
+    "paletteNote": "ジャケットの土と草木の色を参照した編集上の配色。厳密な色抽出値ではない。",
+    "paperImage": "assets/graffiti/runnin.webp"
+  },
+  {
+    "id": "the-lump-lump",
+    "title": "The Lump Lump",
+    "artist": "Sadat X",
+    "album": "Wild Cowboys",
+    "sources": [
+      {
+        "label": "Apple Music — Wild Cowboys",
+        "url": "https://music.apple.com/us/album/wild-cowboys/1387603663",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Crib Records — The Lump Lumpの制作とフック",
+        "url": "https://www.cribrecords.jp/product/6132",
+        "kind": "レコード販売資料"
+      },
+      {
+        "label": "Sadat X - Topic — The Lump Lump",
+        "url": "https://www.youtube.com/watch?v=0fCjP8wY8BQ",
+        "kind": "公式配信情報"
+      }
+    ],
+    "palette": [
+      "#b77c42",
+      "#e4cf9b",
+      "#60766b",
+      "#29231e"
+    ],
+    "paletteSource": "Wild Cowboys",
+    "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
+    "paperImage": "assets/graffiti/the-lump-lump.webp"
+  },
+  {
+    "id": "a-tribe-called-quest-check-the-rhime",
+    "title": "Check the Rhime",
+    "artist": "A Tribe Called Quest",
+    "album": "The Low End Theory",
+    "sources": [
+      {
+        "label": "YouTube — A Tribe Called Quest / Check the Rhime",
+        "url": "https://www.youtube.com/watch?v=1QWEPdgS3As",
+        "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Minos Pour Main Basse (Sur La Ville)'s 'Tout Doit Disparaitre' sample of A Tribe Called Quest's 'Check the Rhime' | WhoSampled",
+        "url": "https://www.whosampled.com/sample/61828/Minos-Pour-Main-Basse-%28Sur-La-Ville%29-Tout-Doit-Disparaitre-A-Tribe-Called-Quest-Check-the-Rhime/",
+        "kind": "サンプル関係の調査資料"
+      }
+    ],
+    "palette": [
+      "#c02c32",
+      "#75a550",
+      "#f1d84c",
+      "#151718"
+    ],
+    "paletteSource": "The Low End Theory",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "paperImage": "assets/graffiti/a-tribe-called-quest-check-the-rhime.webp"
+  },
+  {
+    "id": "a-tribe-called-quest-jazz-we-ve-got",
+    "title": "Jazz (We've Got)",
+    "artist": "A Tribe Called Quest",
+    "album": "The Low End Theory",
+    "sources": [
+      {
+        "label": "YouTube — A Tribe Called Quest / Jazz (We've Got)",
+        "url": "https://www.youtube.com/watch?v=zlA0GHnERLs",
+        "kind": "公式配信情報"
+      }
+    ],
+    "palette": [
+      "#c02c32",
+      "#75a550",
+      "#f1d84c",
+      "#151718"
+    ],
+    "paletteSource": "The Low End Theory",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "paperImage": "assets/graffiti/a-tribe-called-quest-jazz-we-ve-got.webp"
+  },
+  {
+    "id": "pete-rock-c-l-smooth-i-get-physical",
+    "title": "I Get Physical",
+    "artist": "Pete Rock & C.L. Smooth",
+    "album": "The Main Ingredient",
+    "sources": [
+      {
+        "label": "YouTube — Pete Rock & C.L. Smooth / I Get Physical",
+        "url": "https://www.youtube.com/watch?v=pwQkXcWKH_c",
+        "kind": "公式配信情報"
+      }
+    ],
+    "palette": [
+      "#ce9f40",
+      "#f3e3b4",
+      "#98705a",
+      "#211c19"
+    ],
+    "paletteSource": "The Main Ingredient",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "paperImage": "assets/graffiti/pete-rock-c-l-smooth-i-get-physical.webp"
+  },
+  {
+    "id": "the-beatnuts-reign-of-the-tec",
+    "title": "Reign of the Tec",
+    "artist": "The Beatnuts",
+    "album": "Intoxicated Demons",
+    "sources": [
+      {
+        "label": "YouTube — The Beatnuts / Reign of the Tec",
+        "url": "https://www.youtube.com/watch?v=nsasUW9WPqY",
+        "kind": "参考投稿・配信候補"
+      }
+    ],
+    "palette": [
+      "#da4737",
+      "#eee7d5",
+      "#9e8c61",
+      "#232323"
+    ],
+    "paletteSource": "Intoxicated Demons",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "paperImage": "assets/graffiti/the-beatnuts-reign-of-the-tec.webp"
+  },
+  {
+    "id": "lords-of-the-underground-funky-child",
+    "title": "Funky Child",
+    "artist": "Lords of the Underground",
+    "album": "Here Come the Lords",
+    "sources": [
+      {
+        "label": "The Get Down Records — Lords Of The Underground - Funky Child",
+        "url": "https://www.youtube.com/watch?v=QG7SnSx5b2U",
+        "kind": "参考投稿"
+      }
+    ],
+    "palette": [
+      "#bf713c",
+      "#ece0c4",
+      "#897462",
+      "#332a25"
+    ],
+    "paletteSource": "Here Come the Lords",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "paperImage": "assets/graffiti/lords-of-the-underground-funky-child.webp"
+  }
+]

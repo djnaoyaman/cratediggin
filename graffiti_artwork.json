@@ -26,7 +26,8 @@
       "status": "ready",
       "image": "assets/graffiti/can-i-kick-it.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "93-til-infinity",
@@ -44,7 +45,8 @@
       "status": "ready",
       "image": "assets/graffiti/93-til-infinity.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "in-the-house",
@@ -62,7 +64,8 @@
       "status": "ready",
       "image": "assets/graffiti/in-the-house.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "what-im-after",
@@ -80,7 +83,8 @@
       "status": "ready",
       "image": "assets/graffiti/what-im-after.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "bucktown",
@@ -98,7 +102,8 @@
       "status": "ready",
       "image": "assets/graffiti/bucktown.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "runnin",
@@ -116,7 +121,8 @@
       "status": "ready",
       "image": "assets/graffiti/runnin.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "resurrection",
@@ -134,7 +140,8 @@
       "status": "ready",
       "image": "assets/graffiti/resurrection.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "mass-appeal",
@@ -150,9 +157,10 @@
       "paletteSource": "Hard to Earn",
       "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
       "status": "ready",
-      "image": "assets/graffiti/mass-appeal.webp",
+      "image": "assets/graffiti/mass-appeal-alpha.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "transparent": true
     },
     {
       "id": "props-over-here",
@@ -170,7 +178,8 @@
       "status": "ready",
       "image": "assets/graffiti/props-over-here.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "times-up",
@@ -188,7 +197,8 @@
       "status": "ready",
       "image": "assets/graffiti/times-up.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "the-lump-lump",
@@ -206,7 +216,8 @@
       "status": "ready",
       "image": "assets/graffiti/the-lump-lump.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "put-it-on",
@@ -224,7 +235,8 @@
       "status": "ready",
       "image": "assets/graffiti/put-it-on.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "the-shit-is-real",
@@ -242,7 +254,8 @@
       "status": "ready",
       "image": "assets/graffiti/the-shit-is-real.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "a-tribe-called-quest-electric-relaxation",
@@ -260,7 +273,8 @@
       "status": "ready",
       "image": "assets/graffiti/a-tribe-called-quest-electric-relaxation.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "a-tribe-called-quest-check-the-rhime",
@@ -278,7 +292,8 @@
       "status": "ready",
       "image": "assets/graffiti/a-tribe-called-quest-check-the-rhime.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "a-tribe-called-quest-award-tour",
@@ -296,7 +311,8 @@
       "status": "ready",
       "image": "assets/graffiti/a-tribe-called-quest-award-tour.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "a-tribe-called-quest-scenario",
@@ -314,7 +330,8 @@
       "status": "ready",
       "image": "assets/graffiti/a-tribe-called-quest-scenario.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "a-tribe-called-quest-bonita-applebum",
@@ -332,7 +349,8 @@
       "status": "ready",
       "image": "assets/graffiti/a-tribe-called-quest-bonita-applebum.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "a-tribe-called-quest-jazz-we-ve-got",
@@ -350,7 +368,8 @@
       "status": "ready",
       "image": "assets/graffiti/a-tribe-called-quest-jazz-we-ve-got.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "pete-rock-c-l-smooth-they-reminisce-over-you-t-r-o-y",
@@ -368,7 +387,8 @@
       "status": "ready",
       "image": "assets/graffiti/pete-rock-c-l-smooth-they-reminisce-over-you-t-r-o-y.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "pete-rock-c-l-smooth-straighten-it-out",
@@ -386,7 +406,8 @@
       "status": "ready",
       "image": "assets/graffiti/pete-rock-c-l-smooth-straighten-it-out.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "pete-rock-c-l-smooth-take-you-there",
@@ -404,7 +425,8 @@
       "status": "ready",
       "image": "assets/graffiti/pete-rock-c-l-smooth-take-you-there.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "pete-rock-c-l-smooth-i-get-physical",
@@ -422,7 +444,8 @@
       "status": "ready",
       "image": "assets/graffiti/pete-rock-c-l-smooth-i-get-physical.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "ini-fakin-jax",
@@ -455,7 +478,8 @@
       "status": "ready",
       "image": "assets/graffiti/souls-of-mischief-that-s-when-ya-lost.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "the-pharcyde-passin-me-by",
@@ -473,7 +497,8 @@
       "status": "ready",
       "image": "assets/graffiti/the-pharcyde-passin-me-by.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "the-pharcyde-drop",
@@ -491,7 +516,8 @@
       "status": "ready",
       "image": "assets/graffiti/the-pharcyde-drop.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "the-beatnuts-reign-of-the-tec",
@@ -509,7 +535,8 @@
       "status": "ready",
       "image": "assets/graffiti/the-beatnuts-reign-of-the-tec.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "the-beatnuts-get-funky",
@@ -527,7 +554,8 @@
       "status": "ready",
       "image": "assets/graffiti/the-beatnuts-get-funky.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "the-beatnuts-off-the-books",
@@ -545,7 +573,8 @@
       "status": "ready",
       "image": "assets/graffiti/the-beatnuts-off-the-books.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "lords-of-the-underground-chief-rocka",
@@ -563,7 +592,8 @@
       "status": "ready",
       "image": "assets/graffiti/lords-of-the-underground-chief-rocka.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "lords-of-the-underground-funky-child",
@@ -581,7 +611,8 @@
       "status": "ready",
       "image": "assets/graffiti/lords-of-the-underground-funky-child.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "gang-starr-dwyck",
@@ -629,7 +660,8 @@
       "status": "ready",
       "image": "assets/graffiti/gang-starr-code-of-the-streets.webp",
       "textReviewed": true,
-      "paletteReviewed": true
+      "paletteReviewed": true,
+      "legacyPaper": true
     },
     {
       "id": "gang-starr-above-the-clouds",
@@ -5671,5 +5703,7 @@
       "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
       "status": "pending"
     }
-  ]
+  ],
+  "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
+  "batchSize": 50
 }
