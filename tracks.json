@@ -46245,5 +46245,1080 @@
     },
     "addedOrder": 415,
     "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "category": "Hip Hop",
+    "moods": [
+      "サンプリング"
+    ],
+    "sounds": [
+      "ビート"
+    ],
+    "samples": [
+      {
+        "artist": "The Isley Brothers",
+        "title": "Footsteps in the Dark",
+        "year": 1977,
+        "role": "Radio Milwaukeeが本曲のサンプルとして記録。具体的な切り出し位置は未検証。",
+        "sources": [
+          3
+        ],
+        "main": true
+      }
+    ],
+    "connections": [],
+    "sampleStatus": "サンプル情報は、出典で確認できたものを掲載しています。記載がない場合も、サンプルが使われていないとは限りません。",
+    "id": "j-dilla-wont-do",
+    "title": "Won't Do",
+    "artist": "J Dilla",
+    "year": 2006,
+    "album": "The Shining",
+    "label": "BBE",
+    "producer": "J Dilla",
+    "producers": [
+      "J Dilla"
+    ],
+    "region": "Detroit",
+    "scene": "Detroit / BBE",
+    "collections": [
+      "midwest"
+    ],
+    "sources": [
+      {
+        "label": "BBE — The Shining",
+        "url": "https://bbemusic.com/product/the-shining",
+        "kind": "公式レーベル"
+      },
+      {
+        "label": "J Dilla — 公式配信クレジット",
+        "url": "https://www.youtube.com/watch?v=c2EICDwL7JM",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — 初出アルバム",
+        "url": "https://music.apple.com/us/song/1444685465",
+        "kind": "配信メタデータ"
+      },
+      {
+        "label": "Radio Milwaukee — Isley Brothersのサンプル",
+        "url": "https://radiomilwaukee.org/2010-01-07/k-os-hears-those-footsteps-in-the-dark",
+        "kind": "音楽番組"
+      },
+      {
+        "label": "BBE — 2026年のジャズ再解釈",
+        "url": "https://bbemusic.com/product/valtteri-laurell-visions-of-dilla",
+        "kind": "公式レーベル"
+      },
+      {
+        "label": "J Dilla / BBE — The Shining 10周年盤の公式解説",
+        "url": "https://jdilla.bandcamp.com/album/the-shining-the-10th-anniversary-7-inch-collection",
+        "kind": "公式レーベル解説"
+      }
+    ],
+    "deck": "仲間たちの声のあとに、Dilla自身が残る。",
+    "essayTitle": "仲間たちの声のあとに、Dilla自身が残る。",
+    "essay": [
+      "「Won’t Do」は、2006年8月にBBEから発表された『The Shining』の最後に置かれた。Common、D’Angelo、Black Thoughtらを迎えるアルバムの終点で、マイクを握るのはJ Dilla本人だ。ほかの歌い手へ音を渡してきたプロデューサーが、自分の曲を自分の声で締めくくる。この配置によって、客演者の顔ぶれを追ってきた耳は、作品の中心にいる一人へ戻ってくる。",
+      "『The Shining』はDillaの死後、友人で同じデトロイト出身のKarriem Rigginsが完成を引き受けた作品でもある。BBEは当初から、制作だけでなくラップ、歌、演奏にまたがるDillaの才能を示すアルバムとして紹介していた。「Won’t Do」の声は、その広がりを具体的に伝えるものだ。追悼という背景のなかでも、ここには誰かに語られる対象になる前の、パフォーマーとしてのDillaがいる。",
+      "サンプルの系譜をたどると、The Isley Brothersの1977年作「Footsteps in the Dark」へ行き着く。Radio Milwaukeeは、Ice CubeやSlum Villageと並べて「Won’t Do」をその引用例に挙げている。Dilla自身の声が前景に立つ一方で、曲は長く共有されてきたソウルの録音ともつながっている。一人の表現と、多くの作り手が受け渡してきた素材。その二つを同時に捉えられるのが、この曲の豊かな入口だ。"
+    ],
+    "facts": [
+      {
+        "title": "初出と再発",
+        "text": "2006年のThe Shining収録曲。2016年には10周年版も発売された。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "制作",
+        "text": "公式配信では、プロデューサーにJames Yanceyがクレジットされている。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "サンプルの系譜",
+        "text": "2010年のRadio Milwaukee記事がFootsteps in the Darkの使用例として紹介。",
+        "sources": [
+          3
+        ]
+      },
+      {
+        "title": "後年の広がり",
+        "text": "2026年2月10日にBBEがValtteri Laurell版を発売。フルートにElena Pinderhughes、Ricky-Tick Big Bandが参加する別録音。",
+        "sources": [
+          4
+        ]
+      }
+    ],
+    "listening": [],
+    "youtube": {
+      "id": "c2EICDwL7JM",
+      "url": "https://www.youtube.com/watch?v=c2EICDwL7JM",
+      "channel": "J Dilla - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式配信チャンネルを再照合。実音声の聴取・再生進行は未検証。",
+      "title": "Won't Do"
+    },
+    "yearBasis": "2006年BBE原盤。2016年10周年版と区別。",
+    "requestProvenance": {
+      "batch": "requested_basis53_audit",
+      "row": 32
+    },
+    "context": "仲間たちの声のあとに、Dilla自身が残る。",
+    "art": {
+      "word": "WON'T DO",
+      "lines": [
+        "WON'T DO"
+      ],
+      "tag": "J DILLA",
+      "style": "piece",
+      "seed": 3045621173,
+      "profile": "ny-subway",
+      "palette": [
+        "#8e1e23",
+        "#d9bd35",
+        "#faf5de",
+        "#16150e"
+      ],
+      "paletteSource": "https://music.apple.com/us/song/1444685465",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "addedOrder": 416,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "category": "Hip Hop",
+    "moods": [
+      "サンプリング"
+    ],
+    "sounds": [
+      "ビート"
+    ],
+    "samples": [],
+    "connections": [],
+    "sampleStatus": "サンプル情報は、出典で確認できたものを掲載しています。記載がない場合も、サンプルが使われていないとは限りません。",
+    "id": "madlib-two-for-pay-jay",
+    "title": "Two for Pay Jay (No Dough, No Show)",
+    "artist": "Madlib",
+    "year": 2008,
+    "album": "Beat Konducta Vol. 5: Dil Cosby Suite",
+    "label": "Stones Throw",
+    "producer": "Madlib",
+    "producers": [
+      "Madlib"
+    ],
+    "region": "California",
+    "scene": "Oxnard / Beat Konducta",
+    "collections": [
+      "west"
+    ],
+    "sources": [
+      {
+        "label": "Madlib — Bandcamp曲ページ",
+        "url": "https://yesterdaysnewquintet.bandcamp.com/track/two-for-pay-jay-no-dough-no-show",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Stones Throw — 2008年のジャケット制作記録",
+        "url": "https://www.stonesthrow.com/news/madlib-beat-konducta-dirty-beats-and-dirty-covers/",
+        "kind": "公式レーベル"
+      },
+      {
+        "label": "Boomkat — Vol. 5発売情報",
+        "url": "https://boomkat.com/artists/beat-konducta-madlib/releases/tefpfcst/volume-5-dil-cosby-suite",
+        "kind": "レコード販売資料"
+      },
+      {
+        "label": "Madlib — 公式音源",
+        "url": "https://www.youtube.com/watch?v=2yc190eqrec",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Stones Throw — Beat Konducta Vol. 5公式曲順",
+        "url": "https://www.stonesthrow.com/store/beat-konducta-vol-5-dil-cosby-suite/",
+        "kind": "公式レーベル"
+      },
+      {
+        "label": "Stones Throw — Jaylib Vs J Rocc 7インチ解説",
+        "url": "https://www.stonesthrow.com/store/jaylib-vs-j-rocc-7/",
+        "kind": "公式レーベル"
+      },
+      {
+        "label": "Stones Throw — Ruff Draft / Jaylibの制作背景",
+        "url": "https://www.stonesthrow.com/news/jdilla-ruff-draft/",
+        "kind": "公式レーベル記事"
+      },
+      {
+        "label": "Stones Throw — Beat Konducta Vol. 5–6公式再発解説",
+        "url": "https://store.stonesthrow.com/products/madlib-beat-konducta-vol-5-6-steady-metals-edition",
+        "kind": "公式レーベル"
+      }
+    ],
+    "deck": "短い曲が集まって、友人への長い手紙になる。",
+    "essayTitle": "短い曲が集まって、友人への長い手紙になる。",
+    "essay": [
+      "「Two for Pay Jay (No Dough, No Show)」は、Madlibが2008年に発表した『Beat Konducta Vol. 5: Dil Cosby Suite』の一曲。続くVol. 6と合わせた42曲は、J.Roccとともに友人J Dillaへ捧げたインストゥルメンタル集だ。大きな一曲へ思いを集約する代わりに、いくつもの短い曲を並べる。その一つとして「Two for Pay Jay」を捉えると、独立したビートと組曲の一場面という二つの位置が見えてくる。",
+      "Vol. 5の曲名には「For My Mans」「The Mystery (Dilla’s Still Here)」「The Main Inspiration (Coltrane of Beats)」が並ぶ。献辞、友人の不在、制作上の敬意が、曲名の段階から作品全体を囲んでいる。「Two for Pay Jay」は「The String (Heavy Jones)」と「No More Time? (The Change)」の間に置かれた。単曲の題名だけで意味を決めず、周囲の短編までたどると、追悼の言葉がアルバム全体に分散していることが分かる。",
+      "その背景には、2003年のJaylib『Champion Sound』で互いのビートにラップを乗せた関係がある。MadlibにとってDillaは、遠くから敬愛する先人であると同時に、自分の音へ声を返してくれた共同制作者だった。『Beat Konducta』の献辞をこの往復の延長として読むと、音を作り続ける行為そのものが応答になっている。曲の短さの背後には、一枚の追悼盤より前から続いていた共同作業の時間がある。"
+    ],
+    "facts": [
+      {
+        "title": "初出と合本",
+        "text": "Vol. 5は2008年、合本のCDは公式告知で2009年2月10日発売とされる。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "献辞",
+        "text": "公式BandcampはMadlibとJ.RoccによるJ Dillaへのトリビュートと説明する。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "紙の履歴",
+        "text": "Jeff Jankが担当したVol. 1、2、5、6のアナログ盤カバーは同じ段ボール由来とレーベルが記録する。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "listening": [],
+    "youtube": {
+      "id": "2yc190eqrec",
+      "url": "https://www.youtube.com/watch?v=2yc190eqrec",
+      "channel": "Madlib - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式配信チャンネルを再照合。実音声の聴取・再生進行は未検証。",
+      "title": "Two For Pay Jay (No Dough, No Show)"
+    },
+    "yearBasis": "Vol. 5単独盤2008年を初出とし、現行配信の合本2009年と区別。",
+    "requestProvenance": {
+      "batch": "requested_basis53_audit",
+      "row": 27
+    },
+    "context": "短い曲が集まって、友人への長い手紙になる。",
+    "art": {
+      "word": "TWO FOR PAY JAY (NO DOUGH, NO SHOW)",
+      "lines": [
+        "TWO FOR PAY JAY (NO DOUGH, NO SHOW)"
+      ],
+      "tag": "MADLIB",
+      "style": "piece",
+      "seed": 3105377720,
+      "profile": "ny-subway",
+      "palette": [
+        "#655065",
+        "#bd8b7c",
+        "#4cbbbc",
+        "#f6f3e9"
+      ],
+      "paletteSource": "https://yesterdaysnewquintet.bandcamp.com/track/two-for-pay-jay-no-dough-no-show",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "addedOrder": 417,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "category": "Hip Hop",
+    "moods": [
+      "サンプリング"
+    ],
+    "sounds": [
+      "ビート"
+    ],
+    "samples": [
+      {
+        "artist": "Al Hirt",
+        "title": "Harlem Hendoo",
+        "role": "Albumismが曲名を明記。当時評もAl Hirt引用を確認。",
+        "sources": [
+          1,
+          2
+        ],
+        "main": true
+      }
+    ],
+    "connections": [],
+    "sampleStatus": "サンプル情報は、出典で確認できたものを掲載しています。記載がない場合も、サンプルが使われていないとは限りません。",
+    "id": "the-roots-stay-cool",
+    "title": "Stay Cool",
+    "artist": "The Roots",
+    "year": 2004,
+    "album": "The Tipping Point",
+    "label": "Geffen",
+    "producer": "Melvin “Chaos” Lewis",
+    "producers": [
+      "Melvin “Chaos” Lewis"
+    ],
+    "region": "Philadelphia",
+    "scene": "Philadelphia",
+    "collections": [
+      "east"
+    ],
+    "sources": [
+      {
+        "label": "The Roots — UMG公式配信クレジット",
+        "url": "https://www.youtube.com/watch?v=KyQFEbcVO-c",
+        "kind": "公式音源"
+      },
+      {
+        "label": "AllHipHop — 2004年7月のアルバム評",
+        "url": "https://allhiphop.com/reviews-music/the-tipping-point/",
+        "kind": "当時の音楽評"
+      },
+      {
+        "label": "Albumism — The Tipping Point回顧",
+        "url": "https://albumism.com/features/the-roots-the-tipping-point-album-anniversary",
+        "kind": "音楽記事"
+      },
+      {
+        "label": "The Music Box — 2004年9月号",
+        "url": "https://www.musicbox-online.com/rt-tip.html",
+        "kind": "当時の音楽評"
+      },
+      {
+        "label": "Qobuz — The Tipping Point曲別クレジット",
+        "url": "https://www.qobuz.com/us-en/album/the-tipping-point-the-roots/0007502101777",
+        "kind": "配信クレジット"
+      },
+      {
+        "label": "Be With Records — Al Hirt / Soul In The Horn再発解説",
+        "url": "https://www.bewithrecords.com/products/al-hirt-soul-in-the-horn-lp",
+        "kind": "再発レーベル"
+      },
+      {
+        "label": "Soul Sides — Al Hirt、De La Soul、The Rootsを結ぶ2004年の記事",
+        "url": "https://soul-sides.com/2004/06/from-nowhere-al-hirt-harlem-hendoo.html",
+        "kind": "当時の音楽記事"
+      }
+    ],
+    "deck": "親しみやすさの中に、受け継いだ音と街の緊張がある。",
+    "essayTitle": "親しみやすさの中に、受け継いだ音と街の緊張がある。",
+    "essay": [
+      "「Stay Cool」が収められた2004年の『The Tipping Point』は、The Rootsのなかでも受け止められ方が分かれたアルバムだった。前作『Phrenology』の実験性から、より簡潔で親しみやすい曲へ重心を移したと評されたからだ。その変化の中で「Stay Cool」は、発売当時のAllHipHopでも聴きどころに挙げられた。大きな方向転換を論じる評判の中から、一曲に立ち止まるための入口になる。",
+      "制作を担ったのはMelvin Lewis。配信クレジットには、ミックスのBob Powers、録音のJon Smeltzも並ぶ。The Rootsというバンド名の内側には、曲ごとに異なる制作陣の組み合わせがある。「Stay Cool」をその単位で捉えると、生演奏の集団というイメージだけでは見えにくい仕事の分担に気づく。Black Thoughtの声を中心に据えた曲を、プロデュース、録音、ミックスの各工程が支えている。",
+      "一方、題名の「クールでいろ」は、単なる気楽さの勧めとしてだけは読めない。Albumismが取り上げたBlack Thoughtのヴァースには、警察による暴力や地域の厳しい状況が現れ、逆境の中で平静を保つ姿勢が重なる。親しみやすい形式と社会的な緊張は、同じ曲の中に収まっている。音楽のとっつきやすさから入り、声が何に対して冷静でいようとしているのかへ戻ると、タイトルの意味も変わってくる。"
+    ],
+    "facts": [
+      {
+        "title": "制作",
+        "text": "公式配信はProducer: Melvin Lewisと記載。Bob Powersはミックス、Jon Smeltzは録音。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "発売",
+        "text": "The Tipping Pointは2004年7月13日発売。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "サンプルの履歴",
+        "text": "2004年のAllHipHop評と後年のAlbumismがAl Hirt素材とDe La Soulの使用曲を結びつける。",
+        "sources": [
+          1,
+          2
+        ]
+      }
+    ],
+    "listening": [],
+    "yearBasis": "2004年の原盤。再発・動画アップロード年と区別。",
+    "requestProvenance": {
+      "batch": "requested_basis53_audit",
+      "row": 53
+    },
+    "youtube": {
+      "id": "KyQFEbcVO-c",
+      "url": "https://www.youtube.com/watch?v=KyQFEbcVO-c",
+      "channel": "The Roots - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式配信チャンネルを再照合。実音声の聴取・再生進行は未検証。",
+      "title": "Stay Cool"
+    },
+    "context": "親しみやすさの中に、受け継いだ音と街の緊張がある。",
+    "art": {
+      "word": "STAY COOL",
+      "lines": [
+        "STAY COOL"
+      ],
+      "tag": "THE ROOTS",
+      "style": "piece",
+      "seed": 2428880557,
+      "profile": "ny-subway",
+      "palette": [
+        "#ef8304",
+        "#12100c",
+        "#fbf3d8",
+        "#483116"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/the-tipping-point/1440634793",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "addedOrder": 418,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "category": "Hip Hop",
+    "moods": [
+      "サンプリング"
+    ],
+    "sounds": [
+      "ビート"
+    ],
+    "samples": [],
+    "connections": [],
+    "sampleStatus": "サンプル情報は、出典で確認できたものを掲載しています。記載がない場合も、サンプルが使われていないとは限りません。",
+    "id": "homeliss-derilex-cash-money",
+    "title": "Cash Money",
+    "artist": "Homeliss Derilex",
+    "year": 1996,
+    "album": "Cash Money 12-inch",
+    "label": "Stones Throw",
+    "producer": "The Architect",
+    "producers": [
+      "The Architect"
+    ],
+    "region": "Bay Area",
+    "scene": "Bay Area / early Stones Throw",
+    "collections": [
+      "west"
+    ],
+    "sources": [
+      {
+        "label": "Stones Throw — Cash Money 12-inch",
+        "url": "https://www.stonesthrow.com/store/cash-money-12/",
+        "kind": "公式レーベル"
+      },
+      {
+        "label": "The Architect — 2001年インタビュー転載",
+        "url": "https://www.hugi.is/hiphop/greinar/33539/architect-vidtal-05-2001/",
+        "kind": "本人インタビュー転載"
+      },
+      {
+        "label": "WFMU — 2019年2月22日放送リスト",
+        "url": "https://wfmu.org/playlists/shows/84367",
+        "kind": "放送局記録"
+      },
+      {
+        "label": "Stones Throw — 2026年The Architect新作",
+        "url": "https://www.stonesthrow.com/news/the-architect-the-greatest-story-never-told/",
+        "kind": "公式レーベル"
+      },
+      {
+        "label": "公式配信トラックリスト",
+        "url": "https://open.spotify.com/track/7mzCoQdVsHcDbMUihhhBNK",
+        "kind": "配信メタデータ"
+      },
+      {
+        "label": "Stones Throw — Fraudulentと初期の共通マネージメント",
+        "url": "https://www.stonesthrow.com/store/fraudulent/",
+        "kind": "公式レーベル"
+      },
+      {
+        "label": "KQED — Peanut Butter WolfによるSan Joseシーンの回想",
+        "url": "https://www.kqed.org/arts/13939767/peanut-butter-wolf-san-jose-hip-hop-1980s-1990s",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "deck": "Stones Throwの初期を、二人の仕事からたどる。",
+    "essayTitle": "Stones Throwの初期を、二人の仕事からたどる。",
+    "essay": [
+      "1996年の「Cash Money」は、Stones Throwが二枚目の12インチとして送り出したHomeliss Derilexの曲だ。声を担う50 Grandと、ビートを作るThe Architect。後年のレーベルの広がりを知っている耳にも、まずこの二人の組み合わせを届ける一枚として置きたい。同じ盤には「Operations」も収められ、ラップと制作の両面からグループを紹介する場になっている。",
+      "彼らとPeanut Butter Wolfのつながりは、レーベルの創設以前にさかのぼる。Stones Throwによる初期音源集『Fraudulent』の解説には、1990年代初め、Homeliss Derilex、Wolf、Charizmaが同じ人物のマネージメントを受けていたとある。「Cash Money」は新しいレーベルで突然発見された新人の物語よりも、既にあった地域の関係がレコードへ結びついた一場面として見えてくる。",
+      "Wolfは後年のKQEDの取材で、Homeliss DerilexにはGang Starrの影響を感じていたと振り返っている。西海岸のグループでありながら、耳の向かう先は地理だけで区切れない。さらにStones Throwは「Cash Money」がJ Dillaにサンプリングされたことも記している。東の音楽から刺激を受けたと評された二人の録音が、今度は別の作り手の素材になる。この往復も、一枚の独立系シングルが持つ広がりだ。"
+    ],
+    "facts": [
+      {
+        "title": "原盤",
+        "text": "Stones Throwの12インチSTH2003はCash MoneyとOperationsを収録し、それぞれのインストゥルメンタルも収める。",
+        "sources": [
+          0,
+          4
+        ]
+      },
+      {
+        "title": "制作",
+        "text": "レーベルが50 Grandの声とThe Architectのビートを紹介。2001年インタビュー掲載ディスコグラフィーも1996年盤を記録する。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "2026年への接続",
+        "text": "The Architectは2026年、Stones ThrowのヴァイナルだけをサンプルにしたThe Greatest Story Never Toldを発表。初期の制作活動から30年後の別作品。",
+        "sources": [
+          3
+        ]
+      }
+    ],
+    "listening": [],
+    "yearBasis": "1996年Stones Throw盤。配信上の1月1日は精密な発売日として採用しない。",
+    "requestProvenance": {
+      "batch": "requested_basis53_audit",
+      "row": 12
+    },
+    "youtube": {
+      "id": "8zI055ALuOo",
+      "url": "https://www.youtube.com/watch?v=8zI055ALuOo",
+      "channel": "Homeliss Derilex - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式配信チャンネルを再照合。実音声の聴取・再生進行は未検証。",
+      "title": "Cash Money"
+    },
+    "context": "Stones Throwの初期を、二人の仕事からたどる。",
+    "art": {
+      "word": "CASH MONEY",
+      "lines": [
+        "CASH MONEY"
+      ],
+      "tag": "HOMELISS DERILEX",
+      "style": "piece",
+      "seed": 2092890557,
+      "profile": "ny-subway",
+      "palette": [
+        "#77734c",
+        "#e9e7dc",
+        "#55564e",
+        "#171913"
+      ],
+      "paletteSource": "https://www.stonesthrow.com/store/cash-money-12/",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "addedOrder": 419,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "black-star-astronomy-8th-light",
+    "title": "Astronomy (8th Light)",
+    "artist": "Black Star feat. Weldon Irvine",
+    "year": 1998,
+    "album": "Mos Def & Talib Kweli Are Black Star",
+    "label": "Rawkus",
+    "producer": "Mr. Walt",
+    "producers": [
+      "Mr. Walt"
+    ],
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ",
+      "サンプリング"
+    ],
+    "collections": [
+      "east"
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル情報は、出典で確認できたものを掲載しています。記載がない場合も、サンプルが使われていないとは限りません。",
+    "connections": [],
+    "sources": [
+      {
+        "label": "Universal official audio credits",
+        "url": "https://www.youtube.com/watch?v=aFUPxtpZiwA",
+        "kind": "権利者提供の公式音源クレジット"
+      },
+      {
+        "label": "Official Interscope album catalog",
+        "url": "https://interscope.com/products/black-star-mos-def-talib-kweli-are-black-star-lp",
+        "kind": "レーベル公式カタログ"
+      },
+      {
+        "label": "Passion of the Weiss — Black Star制作オーラル・ヒストリー（2018）",
+        "url": "https://www.powmag.net/p/b-boys-will-b-boys-an-oral-history-of-black-star",
+        "kind": "アーティスト・制作者の回想インタビュー"
+      },
+      {
+        "label": "Soul Sides — Oliver WangによるWeldon Irvineインタビュー（2000年収録／2005年公開）",
+        "url": "https://soul-sides.com/2005/05/weldons-way.html",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "deck": "黒さを言葉でひらき、世代を演奏でつなぐ。",
+    "essayTitle": "黒さを言葉でひらき、世代を演奏でつなぐ。",
+    "essay": [
+      "1998年の『Mos Def & Talib Kweli Are Black Star』で、イントロに続く「Astronomy (8th Light)」。Mos DefとTalib Kweliは、黒人であることをめぐる複数の意味を言葉の往復で探っていく。ユニット名をそのまま自己紹介にするのではなく、その名前が何を含みうるのかを考える曲だ。アルバムの入口に、二人の立ち位置を示す対話が置かれている。",
+      "その対話を支えたのはMr. Waltの制作と、Weldon Irvineの鍵盤だった。DJ Evil Deeの回想によると、Mosはその場で各自が力を出す、フリースタイルのような進め方を提案したという。プログラミング、生の演奏、DJの手仕事を対立させず、一つの部屋に集める。曲の背後には、異なる方法を持つ人たちが共に音楽を作る具体的な風景がある。",
+      "Irvine自身の証言では、本曲はアルバムの最後に録音された曲だった。二人の世界へ聴き手を招く入口が、制作の最後に生まれたことになる。この共演はMosの『Black on Both Sides』へも続いた。かつてのレコードをサンプルとして参照するだけでなく、その作り手と現在の曲を作る。「Astronomy」は、世代をまたぐ関係が新しい仕事へ育っていく接点でもある。"
+    ],
+    "facts": [
+      {
+        "title": "制作",
+        "text": "Universal Music Groupの公式配信では、プロデューサーにMr. Waltがクレジットされている。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "参加者",
+        "text": "配信上の主名義はBlack Star、Weldon Irvine。作詞者欄はTalib KweliとMos Def。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "発売",
+        "text": "1998年Rawkusから発表されたデビュー・アルバムの収録曲。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "listening": [],
+    "youtube": {
+      "id": "aFUPxtpZiwA",
+      "url": "https://www.youtube.com/watch?v=aFUPxtpZiwA",
+      "channel": "Black Star - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式配信チャンネルを再照合。実音声の聴取・再生進行は未検証。",
+      "title": "Astronomy (8th Light)"
+    },
+    "curationNote": "ユーザー指定 Mighty 90s Beatlogy リストから。ミックス音源自体は未聴取。未指定リミックスへ置換しない。",
+    "context": "黒さを言葉でひらき、世代を演奏でつなぐ。",
+    "art": {
+      "word": "ASTRONOMY (8TH LIGHT)",
+      "lines": [
+        "ASTRONOMY (8TH LIGHT)"
+      ],
+      "tag": "BLACK STAR FEAT. WELDON IRVINE",
+      "style": "piece",
+      "seed": 4291659357,
+      "profile": "ny-subway",
+      "palette": [
+        "#d74532",
+        "#e0ba58",
+        "#3c6c36",
+        "#191b16"
+      ],
+      "paletteSource": "https://interscope.com/products/black-star-mos-def-talib-kweli-are-black-star-lp",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "addedOrder": 420,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "mf-doom-dead-bent",
+    "title": "Dead Bent",
+    "artist": "MF DOOM",
+    "year": 1999,
+    "album": "Operation: Doomsday",
+    "label": "Fondle ’Em / Metalface",
+    "producer": "MF DOOM",
+    "producers": [
+      "MF DOOM"
+    ],
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ",
+      "サンプリング"
+    ],
+    "collections": [
+      "east"
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル情報は、出典で確認できたものを掲載しています。記載がない場合も、サンプルが使われていないとは限りません。",
+    "connections": [],
+    "sources": [
+      {
+        "label": "MF DOOM official audio",
+        "url": "https://www.youtube.com/watch?v=6ohRUPhORzc",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Metalface licensed album audio",
+        "url": "https://www.youtube.com/watch?v=eA9MGW0KTI0",
+        "kind": "権利者提供の公式配信音源"
+      },
+      {
+        "label": "Apple Music: Operation Doomsday Complete",
+        "url": "https://music.apple.com/us/album/operation-doomsday-complete/1654811465",
+        "kind": "公式配信アルバム"
+      },
+      {
+        "label": "Filmmaker recollection: Dead Bent video",
+        "url": "https://www.powmag.net/p/mf-doom-dead-bent-video",
+        "kind": "映像制作者本人の回想"
+      },
+      {
+        "label": "MusicBrainz: original and album versions",
+        "url": "https://musicbrainz.org/release/0f6a17e6-b9d7-4a9a-af7d-665dcb5da460",
+        "kind": "ディスコグラフィー（二次資料）"
+      },
+      {
+        "label": "Red Bull Music Academy — DOOM講演・インタビュー（2011）",
+        "url": "https://www.redbullmusicacademy.com/lectures/doom-lecture/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Ambrosia for Heads — Peter Agostonによる2003年DOOMインタビュー紹介と音声",
+        "url": "https://ambrosiaforheads.com/2018/11/mf-doom-interview-audio-metalface/",
+        "kind": "過去の本人インタビュー音声・紹介記事"
+      }
+    ],
+    "deck": "仮面の奥に、作り直した声がある。",
+    "essayTitle": "仮面の奥に、作り直した声がある。",
+    "essay": [
+      "『Operation: Doomsday』に収められた「Dead Bent」は、MF DOOMという人物像の初期をたどる一曲だ。DOOMは後年、KMD時代のZev Love Xとは、小説の別の登場人物ほど違うラップの仕方を目指したと説明した。名義を替えるだけではなく、言葉を話す主体そのものを作り直す。その発想が、仮面を単なる衣装ではないものにしている。",
+      "2003年のインタビューでは、DOOMはラップを、学校で楽しみのために言葉を書いていた感覚へ戻そうとしたと振り返っている。「Dead Bent」は、手元の録音機材と残っていたレコードから生まれ、Bobbitoへ持ち込まれた。潤沢な制作費から出発した復帰作ではない。何があればもう一度曲を作れるかを、自分の手で確かめるところから、この名前の物語は始まった。",
+      "映像監督Adam Bhala Loughは、本曲のサビを挟まない一続きのヴァースに、切れ目のない撮影というアイデアを見いだした。録音された曲の形が、別の作り手の映像の形を決めたのだ。仮面の男を大げさな悪役の舞台へ連れ出すのではなく、部屋から通りへ歩かせる。その小さな日常の動線にも、DOOMというキャラクターは収まってしまう。"
+    ],
+    "facts": [
+      {
+        "title": "アルバム",
+        "text": "Operation: Doomsdayに収録されたMF DOOM自身の制作曲。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "映像の発想",
+        "text": "制作者の回想は、サビのない一節と反復するIsaac Hayesのサンプルがワンショット映像の発想になったと説明する。",
+        "sources": [
+          3
+        ]
+      },
+      {
+        "title": "別版",
+        "text": "Complete版にはオリジナル12インチ版とインストも別枠で存在する。",
+        "sources": [
+          4
+        ]
+      }
+    ],
+    "listening": [],
+    "youtube": {
+      "id": "6ohRUPhORzc",
+      "url": "https://www.youtube.com/watch?v=6ohRUPhORzc",
+      "channel": "MF DOOM",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式配信チャンネルを再照合。実音声の聴取・再生進行は未検証。",
+      "title": "MF DOOM - Dead Bent (Official Audio)"
+    },
+    "curationNote": "ユーザー指定 Mighty 90s Beatlogy リストから。ミックス音源自体は未聴取。未指定リミックスへ置換しない。",
+    "yearBasis": "1999年アルバム版を基準。初出シングル年ではない。",
+    "context": "仮面の奥に、作り直した声がある。",
+    "art": {
+      "word": "DEAD BENT",
+      "lines": [
+        "DEAD BENT"
+      ],
+      "tag": "MF DOOM",
+      "style": "piece",
+      "seed": 472668351,
+      "profile": "ny-subway",
+      "palette": [
+        "#cb2630",
+        "#e8cd49",
+        "#536a68",
+        "#a3a4bb"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/operation-doomsday-complete/1654811465",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "addedOrder": 421,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "a-tribe-called-quest-the-pressure",
+    "title": "The Pressure",
+    "artist": "A Tribe Called Quest",
+    "year": 1996,
+    "album": "Beats, Rhymes & Life",
+    "label": "Jive",
+    "producer": "The Ummah",
+    "producers": [
+      "The Ummah"
+    ],
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ",
+      "サンプリング"
+    ],
+    "collections": [
+      "east"
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル情報は、出典で確認できたものを掲載しています。記載がない場合も、サンプルが使われていないとは限りません。",
+    "connections": [],
+    "sources": [
+      {
+        "label": "Jive official audio credits",
+        "url": "https://www.youtube.com/watch?v=mn8-_ntBtqM",
+        "kind": "権利者提供の公式音源クレジット"
+      },
+      {
+        "label": "Official artist store: Beats Rhymes & Life",
+        "url": "https://atribecalledquest.com/products/beats-rhymes-life-2lp",
+        "kind": "アーティスト公式カタログ"
+      },
+      {
+        "label": "Red Bull Music Academy — Q-Tip講演・インタビュー（2013）",
+        "url": "https://www.redbullmusicacademy.com/lectures/q-tip/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Amanda Sewell — A Typology of Sampling in Hip-Hop（2013）、pp.104–106（本文転載）",
+        "url": "https://paperzz.com/doc/8944600/a-typology-of-sampling-in-hip-hop-amanda",
+        "kind": "音楽学の博士論文（本文転載）"
+      },
+      {
+        "label": "The Ringer — Julian Kimble「Daisies, Aged」（2021）",
+        "url": "https://www.theringer.com/2021/08/06/music/tribe-called-quest-beats-rhymes-life-de-la-soul-stakes-is-high",
+        "kind": "本人インタビューを含む回顧記事"
+      },
+      {
+        "label": "Apple Music — The Pressure 曲別演奏・制作クレジット",
+        "url": "https://music.apple.com/us/song/254977316",
+        "kind": "公式配信の曲別クレジット"
+      }
+    ],
+    "deck": "過去の声を並べて、いまの立ち位置を問い直す。",
+    "essayTitle": "過去の声を並べて、いまの立ち位置を問い直す。",
+    "essay": [
+      "1996年の『Beats, Rhymes & Life』に収められた「The Pressure」には、Tribeが自分たちの録音を切り出して作る、もう一つの自己紹介がある。音楽学者Amanda Sewellは本曲を、自作の声を並べたコラージュとして分析した。新しい歌の中へ過去の曲が顔を出し、グループ名やメンバー名が履歴のようにつながる。サンプリングの向かう先は、先人のレコードだけではない。",
+      "一方で、ラップが見つめるのは現在のヒップホップだ。Q-Tipは派手な持ち物で成功を演出する姿に対し、肝心の契約はどうなっているのかと問いを向ける。The Ringerの回顧記事も、この曲を文化への責任感が表れる場面として読む。過去の自分たちを並べることは懐古にとどまらず、いま何を成功の基準にするのかを示す行為になる。",
+      "制作はThe Ummah。曲別クレジットにはQ-TipとPhifeの声、Ali Shaheed MuhammadのDJ、The Ummahのプログラミングが並ぶ。Q-Tipは共同名義について、個人の手柄よりユニットを前に出す考えだったと説明している。自分たちの歴史を声で示す曲が、制作でも共同体の名を掲げる。その重なりが「The Pressure」の自己主張を支えている。"
+    ],
+    "facts": [
+      {
+        "title": "制作",
+        "text": "Jiveの配信クレジットはThe Ummahと記載する。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "収録位置",
+        "text": "公式ストアの2LP曲順ではB3。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "年",
+        "text": "公式配信は1996年の権利表記。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "listening": [],
+    "youtube": {
+      "id": "mn8-_ntBtqM",
+      "url": "https://www.youtube.com/watch?v=mn8-_ntBtqM",
+      "channel": "A Tribe Called Quest - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式配信チャンネルを再照合。実音声の聴取・再生進行は未検証。",
+      "title": "The Pressure"
+    },
+    "curationNote": "ユーザー指定 Mighty 90s Beatlogy リストから。ミックス音源自体は未聴取。未指定リミックスへ置換しない。",
+    "context": "過去の声を並べて、いまの立ち位置を問い直す。",
+    "art": {
+      "word": "THE PRESSURE",
+      "lines": [
+        "THE PRESSURE"
+      ],
+      "tag": "A TRIBE CALLED QUEST",
+      "style": "piece",
+      "seed": 3164155291,
+      "profile": "ny-subway",
+      "palette": [
+        "#ba526b",
+        "#d7c13a",
+        "#4c6c35",
+        "#30282e"
+      ],
+      "paletteSource": "https://atribecalledquest.com/products/beats-rhymes-life-2lp",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "addedOrder": 422,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "krs-one-the-mc",
+    "title": "The MC",
+    "artist": "KRS-One",
+    "year": 1996,
+    "album": "I Got Next",
+    "label": "Jive",
+    "producer": "Domingo",
+    "producers": [
+      "Domingo"
+    ],
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ",
+      "サンプリング"
+    ],
+    "collections": [
+      "east"
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル情報は、出典で確認できたものを掲載しています。記載がない場合も、サンプルが使われていないとは限りません。",
+    "connections": [],
+    "sources": [
+      {
+        "label": "Jive/Legacy official audio credits",
+        "url": "https://www.youtube.com/watch?v=2H9L3yNe6p8",
+        "kind": "権利者提供の公式音源クレジット"
+      },
+      {
+        "label": "Billboard March 29 1997: Jive campaign interview",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/90s/1997/Billboard-1997-03-29.pdf",
+        "kind": "発売当時の報道"
+      },
+      {
+        "label": "CMJ April 1997: I Got Next review",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/CMJ/1997/CMJ-New-Music-1997-04.pdf",
+        "kind": "発売当時の音楽評"
+      },
+      {
+        "label": "Apple Music: The MC / I Got Next",
+        "url": "https://music.apple.com/gb/song/286588614",
+        "kind": "公式配信カタログ"
+      },
+      {
+        "label": "VALIDATED — Domingoインタビュー「Brooklyn Legend」（2023）",
+        "url": "https://www.validatedmagazine.com/music-1/2023/2/20/brooklyn-legend-domingo",
+        "kind": "プロデューサー本人インタビュー"
+      },
+      {
+        "label": "Dork / LRCLIB — The MC 歌詞・クレジット",
+        "url": "https://readdork.com/lyrics/krs-one-the-mc",
+        "kind": "歌詞書き起こし・クレジット（二次資料）"
+      },
+      {
+        "label": "Billboard — 1997年2月1日号「Twelve Inchers」・Hot Rap Singles",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/90s/1997/Billboard-1997-02-01.pdf",
+        "kind": "発売当時の音楽業界誌"
+      },
+      {
+        "label": "CMJ New Music Monthly — Elliott WilsonによるI Got Next評（1997年4月号、原版スキャン）",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/CMJ/1997/CMJ-New-Music-1997-04%20%28Original%29.pdf",
+        "kind": "発売当時のアルバム評"
+      }
+    ],
+    "deck": "MCとは肩書きではなく、その場で果たす仕事だ。",
+    "essayTitle": "MCとは肩書きではなく、その場で果たす仕事だ。",
+    "essay": [
+      "KRS-Oneの「The MC」は、自分は何者かという問いを、観客のいる場で何ができるかへ置き換える曲だ。止まりかけたパーティーを動かし、大きな会場をまとめ、言葉を届ける。その役割を積み上げながら、自分の名ではなくMCという存在を押し出していく。誇示しているのは持ち物ではなく、必要な場面でマイクを預かれる技量である。",
+      "制作を担ったのはDomingo。本人の回想では、KRSに渡したビートテープから本曲のトラックが選ばれ、マンハッタンのリハーサル・スタジオで選曲を確認したという。同じビートは、すでにFat Joe側へ渡したテープにも入っていた。作品になるかどうかは素材の良し悪しだけでは決まらない。あるMCが自分の言葉を置ける場所を見つけることで、ビートの役割が定まる。",
+      "1997年の『I Got Next』を評したCMJのElliott Wilsonは、「The MC」を教示的な曲として挙げた。ここで教えることと、パーティーを沸かせることは別の仕事ではない。フロウを学び、言葉が及ぼす力に注意しながら、人を動かす。自分の腕前を宣言する曲が、そのまま次のMCへ求める条件にもなっているところに、KRSの教師としての姿がある。"
+    ],
+    "facts": [
+      {
+        "title": "制作とミックス",
+        "text": "Producer、Mixing EngineerはいずれもDomingo。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "先行12インチ",
+        "text": "1997年3月のBillboardが前年10月の3曲入り12インチ発売を報じる。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "同時代の受容",
+        "text": "CMJの1997年評はThe MCを教示的な曲として挙げる。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "listening": [],
+    "youtube": {
+      "id": "2H9L3yNe6p8",
+      "url": "https://www.youtube.com/watch?v=2H9L3yNe6p8",
+      "channel": "KRS ONE - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式配信チャンネルを再照合。実音声の聴取・再生進行は未検証。",
+      "title": "The MC"
+    },
+    "curationNote": "ユーザー指定 Mighty 90s Beatlogy リストから。ミックス音源自体は未聴取。未指定リミックスへ置換しない。",
+    "yearBasis": "Billboard 1997年3月記事の前年10月発売記述に基づく1996年先行12インチ。アルバムは1997年。",
+    "context": "MCとは肩書きではなく、その場で果たす仕事だ。",
+    "art": {
+      "word": "THE MC",
+      "lines": [
+        "THE MC"
+      ],
+      "tag": "KRS-ONE",
+      "style": "piece",
+      "seed": 1433592449,
+      "profile": "ny-subway",
+      "palette": [
+        "#edb331",
+        "#8b381c",
+        "#171f41",
+        "#f3d987"
+      ],
+      "paletteSource": "https://music.apple.com/gb/song/286588614",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "addedOrder": 423,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
   }
 ]
