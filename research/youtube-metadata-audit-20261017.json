@@ -1,0 +1,3440 @@
+{
+  "checkedDate": "2026-10-17",
+  "timezone": "Asia/Tokyo",
+  "method": "YouTube public oEmbed; metadata availability only, not playback proof",
+  "totalTracks": 381,
+  "metadataAvailable": 381,
+  "playbackVerified": false,
+  "note": "Metadata availability does not establish embedding permission, region availability, recording identity, or actual playback.",
+  "tracks": [
+    {
+      "id": "can-i-kick-it",
+      "artist": "A Tribe Called Quest",
+      "title": "Can I Kick It?",
+      "videoId": "D-uV8TGjaGU",
+      "status": "metadata_available",
+      "videoTitle": "A Tribe Called Quest - Can I Kick It? (Official Audio)",
+      "channel": "TribeCalledQuestVEVO"
+    },
+    {
+      "id": "93-til-infinity",
+      "artist": "Souls of Mischief",
+      "title": "93 ’til Infinity",
+      "videoId": "4Z0TeaTzo_U",
+      "status": "metadata_available",
+      "videoTitle": "93 'Til Infinity",
+      "channel": "Souls of Mischief - Topic"
+    },
+    {
+      "id": "in-the-house",
+      "artist": "Pete Rock & C.L. Smooth",
+      "title": "In the House",
+      "videoId": "WSfKCV3BOk0",
+      "status": "metadata_available",
+      "videoTitle": "In The House",
+      "channel": "Pete Rock - Topic"
+    },
+    {
+      "id": "what-im-after",
+      "artist": "Lords of the Underground",
+      "title": "What I’m After",
+      "videoId": "sXI88yYjUgE",
+      "status": "metadata_available",
+      "videoTitle": "What I'm After",
+      "channel": "Lords Of The Underground - Topic"
+    },
+    {
+      "id": "bucktown",
+      "artist": "Smif-N-Wessun",
+      "title": "Bucktown",
+      "videoId": "CwQSq5iZdpQ",
+      "status": "metadata_available",
+      "videoTitle": "Smif-N-Wessun - Bucktown (Original Video)",
+      "channel": "NervousRecordsNYC"
+    },
+    {
+      "id": "runnin",
+      "artist": "The Pharcyde",
+      "title": "Runnin’",
+      "videoId": "g1BQBVOVXWE",
+      "status": "metadata_available",
+      "videoTitle": "Runnin' (Remastered 2025)",
+      "channel": "The Pharcyde - Topic"
+    },
+    {
+      "id": "resurrection",
+      "artist": "Common",
+      "title": "Resurrection",
+      "videoId": "HmOd0GKuztE",
+      "status": "metadata_available",
+      "videoTitle": "Common - Resurrection (Official Video)",
+      "channel": "CommonVEVO"
+    },
+    {
+      "id": "mass-appeal",
+      "artist": "Gang Starr",
+      "title": "Mass Appeal",
+      "videoId": "y9lNbNGbo24",
+      "status": "metadata_available",
+      "videoTitle": "Gang Starr - Mass Appeal",
+      "channel": "GangStarrVEVO"
+    },
+    {
+      "id": "props-over-here",
+      "artist": "The Beatnuts",
+      "title": "Props Over Here",
+      "videoId": "WGbsO3yBROQ",
+      "status": "metadata_available",
+      "videoTitle": "Props Over Here",
+      "channel": "The Beatnuts - Topic"
+    },
+    {
+      "id": "times-up",
+      "artist": "O.C.",
+      "title": "Time’s Up",
+      "videoId": "6gNmCGQRpcc",
+      "status": "metadata_available",
+      "videoTitle": "Time's Up",
+      "channel": "O.C. - Topic"
+    },
+    {
+      "id": "the-lump-lump",
+      "artist": "Sadat X",
+      "title": "The Lump Lump",
+      "videoId": "0fCjP8wY8BQ",
+      "status": "metadata_available",
+      "videoTitle": "The Lump Lump",
+      "channel": "Sadat X - Topic"
+    },
+    {
+      "id": "put-it-on",
+      "artist": "Big L",
+      "title": "Put It On",
+      "videoId": "WWMjRMJ0dTI",
+      "status": "metadata_available",
+      "videoTitle": "Big L - Put It On (Official Music Video)",
+      "channel": "BigLVEVO"
+    },
+    {
+      "id": "the-shit-is-real",
+      "artist": "Fat Joe",
+      "title": "The Shit Is Real (DJ Premier Remix)",
+      "videoId": "E8kZRCJVFDE",
+      "status": "metadata_available",
+      "videoTitle": "The Shit is Real (DJ Premier Remix)",
+      "channel": "Fat Joe - Topic"
+    },
+    {
+      "id": "a-tribe-called-quest-electric-relaxation",
+      "artist": "A Tribe Called Quest",
+      "title": "Electric Relaxation",
+      "videoId": "WHRnvjCkTsw",
+      "status": "metadata_available",
+      "videoTitle": "A Tribe Called Quest - Electric Relaxation (Official HD Video)",
+      "channel": "TribeCalledQuestVEVO"
+    },
+    {
+      "id": "a-tribe-called-quest-check-the-rhime",
+      "artist": "A Tribe Called Quest",
+      "title": "Check the Rhime",
+      "videoId": "1QWEPdgS3As",
+      "status": "metadata_available",
+      "videoTitle": "A Tribe Called Quest - Check The Rhime (Official HD Video)",
+      "channel": "TribeCalledQuestVEVO"
+    },
+    {
+      "id": "a-tribe-called-quest-award-tour",
+      "artist": "A Tribe Called Quest",
+      "title": "Award Tour",
+      "videoId": "P800UWoE9xs",
+      "status": "metadata_available",
+      "videoTitle": "A Tribe Called Quest - Award Tour (Official HD Video) ft. Trugoy The Dove",
+      "channel": "TribeCalledQuestVEVO"
+    },
+    {
+      "id": "a-tribe-called-quest-scenario",
+      "artist": "A Tribe Called Quest",
+      "title": "Scenario",
+      "videoId": "Q6TLWqn82J4",
+      "status": "metadata_available",
+      "videoTitle": "A Tribe Called Quest - Scenario (Official HD Video)",
+      "channel": "TribeCalledQuestVEVO"
+    },
+    {
+      "id": "a-tribe-called-quest-bonita-applebum",
+      "artist": "A Tribe Called Quest",
+      "title": "Bonita Applebum",
+      "videoId": "6xE6ZWwJezg",
+      "status": "metadata_available",
+      "videoTitle": "A Tribe Called Quest - Bonita Applebum (Official Video)",
+      "channel": "TribeCalledQuestVEVO"
+    },
+    {
+      "id": "a-tribe-called-quest-jazz-we-ve-got",
+      "artist": "A Tribe Called Quest",
+      "title": "Jazz (We've Got)",
+      "videoId": "zlA0GHnERLs",
+      "status": "metadata_available",
+      "videoTitle": "Jazz (We've Got)",
+      "channel": "A Tribe Called Quest - Topic"
+    },
+    {
+      "id": "pete-rock-c-l-smooth-they-reminisce-over-you-t-r-o-y",
+      "artist": "Pete Rock & C.L. Smooth",
+      "title": "They Reminisce Over You (T.R.O.Y.)",
+      "videoId": "0xZHe8Q8Mlk",
+      "status": "metadata_available",
+      "videoTitle": "They Reminisce Over You (T.R.O.Y.)",
+      "channel": "Pete Rock - Topic"
+    },
+    {
+      "id": "pete-rock-c-l-smooth-straighten-it-out",
+      "artist": "Pete Rock & C.L. Smooth",
+      "title": "Straighten It Out",
+      "videoId": "woD725APoCU",
+      "status": "metadata_available",
+      "videoTitle": "Straighten It Out",
+      "channel": "Pete Rock - Topic"
+    },
+    {
+      "id": "pete-rock-c-l-smooth-take-you-there",
+      "artist": "Pete Rock & C.L. Smooth",
+      "title": "Take You There",
+      "videoId": "jh_Qkm-wKrs",
+      "status": "metadata_available",
+      "videoTitle": "Take You There",
+      "channel": "Pete Rock - Topic"
+    },
+    {
+      "id": "pete-rock-c-l-smooth-i-get-physical",
+      "artist": "Pete Rock & C.L. Smooth",
+      "title": "I Get Physical",
+      "videoId": "pwQkXcWKH_c",
+      "status": "metadata_available",
+      "videoTitle": "I Get Physical",
+      "channel": "Pete Rock - Topic"
+    },
+    {
+      "id": "ini-fakin-jax",
+      "artist": "InI feat. Pete Rock",
+      "title": "Fakin’ Jax",
+      "videoId": "g_IAMN472XI",
+      "status": "metadata_available",
+      "videoTitle": "Pete Rock - Fakin Jax",
+      "channel": "Pete Rock Official"
+    },
+    {
+      "id": "souls-of-mischief-that-s-when-ya-lost",
+      "artist": "Souls of Mischief",
+      "title": "That's When Ya Lost",
+      "videoId": "a_vpCfS3XwE",
+      "status": "metadata_available",
+      "videoTitle": "That's When Ya Lost",
+      "channel": "Souls of Mischief - Topic"
+    },
+    {
+      "id": "the-pharcyde-passin-me-by",
+      "artist": "The Pharcyde",
+      "title": "Passin' Me By",
+      "videoId": "a-mAK3uB2_0",
+      "status": "metadata_available",
+      "videoTitle": "The Pharcyde - Passin' Me By (Official HD Music Video)",
+      "channel": "PharcydeVEVO"
+    },
+    {
+      "id": "the-pharcyde-drop",
+      "artist": "The Pharcyde",
+      "title": "Drop",
+      "videoId": "1iizk-YJc0U",
+      "status": "metadata_available",
+      "videoTitle": "Drop (Remastered 2025)",
+      "channel": "The Pharcyde - Topic"
+    },
+    {
+      "id": "the-beatnuts-reign-of-the-tec",
+      "artist": "The Beatnuts",
+      "title": "Reign of the Tec",
+      "videoId": "nsasUW9WPqY",
+      "status": "metadata_available",
+      "videoTitle": "The Beatnuts - Reign of the Tec (Official Video)",
+      "channel": "TheBeatnutsVEVO"
+    },
+    {
+      "id": "the-beatnuts-get-funky",
+      "artist": "The Beatnuts",
+      "title": "Get Funky",
+      "videoId": "rZd1j8ic0tY",
+      "status": "metadata_available",
+      "videoTitle": "Get Funky",
+      "channel": "The Beatnuts - Topic"
+    },
+    {
+      "id": "the-beatnuts-off-the-books",
+      "artist": "The Beatnuts",
+      "title": "Off the Books",
+      "videoId": "poB12fNGK28",
+      "status": "metadata_available",
+      "videoTitle": "Off the Books",
+      "channel": "The Beatnuts - Topic"
+    },
+    {
+      "id": "lords-of-the-underground-chief-rocka",
+      "artist": "Lords of the Underground",
+      "title": "Chief Rocka",
+      "videoId": "5rGy0NivzpE",
+      "status": "metadata_available",
+      "videoTitle": "Chief Rocka",
+      "channel": "Lords Of The Underground - Topic"
+    },
+    {
+      "id": "lords-of-the-underground-funky-child",
+      "artist": "Lords of the Underground",
+      "title": "Funky Child",
+      "videoId": "QG7SnSx5b2U",
+      "status": "metadata_available",
+      "videoTitle": "Lords Of The Underground - Funky Child",
+      "channel": "The Get Down Records"
+    },
+    {
+      "id": "gang-starr-dwyck",
+      "artist": "Gang Starr",
+      "title": "DWYCK",
+      "videoId": "7rJ2QxE7CJg",
+      "status": "metadata_available",
+      "videoTitle": "DWYCK",
+      "channel": "Gang Starr - Topic"
+    },
+    {
+      "id": "gang-starr-take-it-personal",
+      "artist": "Gang Starr",
+      "title": "Take It Personal",
+      "videoId": "9NCvwjP_pH8",
+      "status": "metadata_available",
+      "videoTitle": "Take It Personal",
+      "channel": "Gang Starr - Topic"
+    },
+    {
+      "id": "gang-starr-code-of-the-streets",
+      "artist": "Gang Starr",
+      "title": "Code of the Streets",
+      "videoId": "NC7D_mSeiHE",
+      "status": "metadata_available",
+      "videoTitle": "Code Of The Streets",
+      "channel": "Gang Starr - Topic"
+    },
+    {
+      "id": "gang-starr-above-the-clouds",
+      "artist": "Gang Starr",
+      "title": "Above the Clouds",
+      "videoId": "NqhNTA2VHqk",
+      "status": "metadata_available",
+      "videoTitle": "Above The Clouds",
+      "channel": "Gang Starr - Topic"
+    },
+    {
+      "id": "gang-starr-full-clip",
+      "artist": "Gang Starr",
+      "title": "Full Clip",
+      "videoId": "ySyYlXbOIjI",
+      "status": "metadata_available",
+      "videoTitle": "Full Clip",
+      "channel": "Gang Starr - Topic"
+    },
+    {
+      "id": "diamond-d-best-kept-secret",
+      "artist": "Diamond D",
+      "title": "Best Kept Secret",
+      "videoId": "TQpUhDiTuXQ",
+      "status": "metadata_available",
+      "videoTitle": "Diamond D & The Psychotic Neurotics - Best Kept Secret",
+      "channel": "UPROXX"
+    },
+    {
+      "id": "diamond-d-sally-got-a-one-track-mind",
+      "artist": "Diamond D",
+      "title": "Sally Got a One Track Mind",
+      "videoId": "JDNspO6BMkU",
+      "status": "metadata_available",
+      "videoTitle": "Sally Got A One Track Mind",
+      "channel": "Diamond & The Psychotic Neurotics - Topic"
+    },
+    {
+      "id": "lord-finesse-hip-2-da-game",
+      "artist": "Lord Finesse",
+      "title": "Hip 2 Da Game",
+      "videoId": "koMJPLOV6mo",
+      "status": "metadata_available",
+      "videoTitle": "Hip 2 Da Game",
+      "channel": "Lord Finesse - Topic"
+    },
+    {
+      "id": "lord-finesse-return-of-the-funky-man",
+      "artist": "Lord Finesse",
+      "title": "Return of the Funky Man",
+      "videoId": "mCjUvvXHXVw",
+      "status": "metadata_available",
+      "videoTitle": "Lord Finesse - Return Of The Funky Man",
+      "channel": "UPROXX"
+    },
+    {
+      "id": "showbiz-a-g-party-groove-instrumental",
+      "artist": "Showbiz & A.G.",
+      "title": "Party Groove (Instrumental)",
+      "videoId": "U3asg9ETeNk",
+      "status": "metadata_available",
+      "videoTitle": "Party Groove (Instrumental)",
+      "channel": "Showbiz & A.G. - Topic"
+    },
+    {
+      "id": "showbiz-a-g-soul-clap",
+      "artist": "Showbiz & A.G.",
+      "title": "Soul Clap",
+      "videoId": "twNRsEx0lVY",
+      "status": "metadata_available",
+      "videoTitle": "Soul Clap",
+      "channel": "Showbiz & A.G. - Topic"
+    },
+    {
+      "id": "showbiz-a-g-next-level-nyte-time-mix",
+      "artist": "Showbiz & A.G.",
+      "title": "Next Level (Nyte Time Mix)",
+      "videoId": "hmdf8-TsMLU",
+      "status": "metadata_available",
+      "videoTitle": "Showbiz & A.G.- Next Level (Nyte Time Mix)",
+      "channel": "Tarik Tannir"
+    },
+    {
+      "id": "black-moon-who-got-da-props",
+      "artist": "Black Moon",
+      "title": "Who Got da Props",
+      "videoId": "vWJuArf0-Go",
+      "status": "metadata_available",
+      "videoTitle": "Black Moon - Who Got The Props",
+      "channel": "robzta1968"
+    },
+    {
+      "id": "black-moon-i-got-cha-opin-remix",
+      "artist": "Black Moon",
+      "title": "I Got Cha Opin (Remix)",
+      "videoId": "dceorz43MwY",
+      "status": "metadata_available",
+      "videoTitle": "Black Moon - I Got Cha Opin (Remix)",
+      "channel": "NervousRecordsNYC"
+    },
+    {
+      "id": "jeru-the-damaja-come-clean",
+      "artist": "Jeru the Damaja",
+      "title": "Come Clean",
+      "videoId": "mBqNBajMEvg",
+      "status": "metadata_available",
+      "videoTitle": "Come Clean (Video Version)",
+      "channel": "Jeru The Damaja - Topic"
+    },
+    {
+      "id": "jeru-the-damaja-ya-playin-yaself",
+      "artist": "Jeru the Damaja",
+      "title": "Ya Playin' Yaself",
+      "videoId": "xT3NfZVZJMY",
+      "status": "metadata_available",
+      "videoTitle": "Ya Playin' Yaself (Album Version)",
+      "channel": "Jeru The Damaja - Topic"
+    },
+    {
+      "id": "group-home-livin-proof",
+      "artist": "Group Home",
+      "title": "Livin' Proof",
+      "videoId": "NA6nF3qM_pI",
+      "status": "metadata_available",
+      "videoTitle": "Livin' Proof",
+      "channel": "Group Home - Topic"
+    },
+    {
+      "id": "all-city-productions-unsolved-mysterme",
+      "artist": "All City Productions",
+      "title": "Unsolved Mysterme",
+      "videoId": "2S4ONO9fERU",
+      "status": "metadata_available",
+      "videoTitle": "All City Productions - Unsolved Mysterme",
+      "channel": "Doo Doo"
+    },
+    {
+      "id": "public-enemy-shut-em-down-pe-te-rock-mixx",
+      "artist": "Public Enemy",
+      "title": "Shut Em Down (Pe-te Rock Mixx)",
+      "videoId": "CIHzDoFq0GE",
+      "status": "metadata_available",
+      "videoTitle": "Shut Em Down (Pe-te Rock Mixx)",
+      "channel": "Public Enemy - Topic"
+    },
+    {
+      "id": "public-enemy-don-t-believe-the-hype",
+      "artist": "Public Enemy",
+      "title": "Don't Believe the Hype",
+      "videoId": "9vQaVIoEjOM",
+      "status": "metadata_available",
+      "videoTitle": "Public Enemy - Don't Believe The Hype (Official Music Video)",
+      "channel": "PublicEnemyVEVO"
+    },
+    {
+      "id": "public-enemy-fight-the-power",
+      "artist": "Public Enemy",
+      "title": "Fight the Power",
+      "videoId": "mmo3HFa2vjg",
+      "status": "metadata_available",
+      "videoTitle": "Public Enemy - Fight The Power (Official Music Video)",
+      "channel": "PublicEnemyVEVO"
+    },
+    {
+      "id": "public-enemy-911-is-a-joke",
+      "artist": "Public Enemy",
+      "title": "911 Is a Joke",
+      "videoId": "tsHcLIxg8KA",
+      "status": "metadata_available",
+      "videoTitle": "911 Is A Joke",
+      "channel": "Public Enemy - Topic"
+    },
+    {
+      "id": "public-enemy-brothers-gonna-work-it-out",
+      "artist": "Public Enemy",
+      "title": "Brothers Gonna Work It Out",
+      "videoId": "rXdczisrtWc",
+      "status": "metadata_available",
+      "videoTitle": "Brothers Gonna Work It Out",
+      "channel": "Public Enemy - Topic"
+    },
+    {
+      "id": "public-enemy-can-t-truss-it",
+      "artist": "Public Enemy",
+      "title": "Can't Truss It",
+      "videoId": "qQlN9gt2AhA",
+      "status": "metadata_available",
+      "videoTitle": "Can't Truss It",
+      "channel": "Public Enemy - Topic"
+    },
+    {
+      "id": "public-enemy-welcome-to-the-terrordome",
+      "artist": "Public Enemy",
+      "title": "Welcome to the Terrordome",
+      "videoId": "m5t7n-EeE1o",
+      "status": "metadata_available",
+      "videoTitle": "Welcome To The Terrordome",
+      "channel": "Public Enemy - Topic"
+    },
+    {
+      "id": "nas-the-world-is-yours",
+      "artist": "Nas",
+      "title": "The World Is Yours",
+      "videoId": "e5PnuIRnJW8",
+      "status": "metadata_available",
+      "videoTitle": "Nas - The World Is Yours (Official HD Video)",
+      "channel": "NasVEVO"
+    },
+    {
+      "id": "nas-it-ain-t-hard-to-tell",
+      "artist": "Nas",
+      "title": "It Ain't Hard to Tell",
+      "videoId": "lZXtabqDY-c",
+      "status": "metadata_available",
+      "videoTitle": "Nas - It Ain't Hard To Tell (Official Video)",
+      "channel": "NasVEVO"
+    },
+    {
+      "id": "nas-n-y-state-of-mind",
+      "artist": "Nas",
+      "title": "N.Y. State of Mind",
+      "videoId": "hI8A14Qcv68",
+      "status": "metadata_available",
+      "videoTitle": "Nas - N.Y. State of Mind (Official Audio)",
+      "channel": "NasVEVO"
+    },
+    {
+      "id": "nas-represent",
+      "artist": "Nas",
+      "title": "Represent",
+      "videoId": "xiVY_yPgvMs",
+      "status": "metadata_available",
+      "videoTitle": "Nas - Represent (Official Audio)",
+      "channel": "NasVEVO"
+    },
+    {
+      "id": "large-professor-i-juswanna-chill",
+      "artist": "Large Professor",
+      "title": "I Juswanna Chill",
+      "videoId": "Kh0LFYa6InM",
+      "status": "metadata_available",
+      "videoTitle": "Large Professor - Ijuswannachill",
+      "channel": "TheChiefAtlas"
+    },
+    {
+      "id": "main-source-looking-at-the-front-door",
+      "artist": "Main Source",
+      "title": "Looking at the Front Door",
+      "videoId": "ecsuf_MYrBY",
+      "status": "metadata_available",
+      "videoTitle": "Looking At The Front Door",
+      "channel": "Main Source - Topic"
+    },
+    {
+      "id": "main-source-just-hangin-out",
+      "artist": "Main Source",
+      "title": "Just Hangin' Out",
+      "videoId": "uCz02-4rSOE",
+      "status": "metadata_available",
+      "videoTitle": "Just Hangin' Out",
+      "channel": "Main Source - Topic"
+    },
+    {
+      "id": "main-source-live-at-the-barbeque",
+      "artist": "Main Source",
+      "title": "Live at the Barbeque",
+      "videoId": "XmCWfJAPwbA",
+      "status": "metadata_available",
+      "videoTitle": "Main Source - Live at the Barbeque (feat.  Nas, Joe Fatal, Akinyele)",
+      "channel": "Vilosophe"
+    },
+    {
+      "id": "the-notorious-b-i-g-juicy",
+      "artist": "The Notorious B.I.G.",
+      "title": "Juicy",
+      "videoId": "jgJPcH_zGpE",
+      "status": "metadata_available",
+      "videoTitle": "Juicy (2005 Remaster)",
+      "channel": "The Notorious B.I.G. - Topic"
+    },
+    {
+      "id": "the-notorious-b-i-g-unbelievable",
+      "artist": "The Notorious B.I.G.",
+      "title": "Unbelievable",
+      "videoId": "1eNA0RBueoY",
+      "status": "metadata_available",
+      "videoTitle": "The Notorious B.I.G. - Unbelievable (Official Audio)",
+      "channel": "The Notorious B.I.G."
+    },
+    {
+      "id": "the-notorious-b-i-g-big-poppa",
+      "artist": "The Notorious B.I.G.",
+      "title": "Big Poppa",
+      "videoId": "phaJXp_zMYM",
+      "status": "metadata_available",
+      "videoTitle": "The Notorious B.I.G. - Big Poppa (Official Music Video)",
+      "channel": "The Notorious B.I.G."
+    },
+    {
+      "id": "craig-mack-flava-in-ya-ear",
+      "artist": "Craig Mack",
+      "title": "Flava in Ya Ear",
+      "videoId": "GNFqMx0gY7I",
+      "status": "metadata_available",
+      "videoTitle": "Craig Mack - Flava In Ya Ear (Official Music Video)",
+      "channel": "Bad Boy Entertainment"
+    },
+    {
+      "id": "mobb-deep-shook-ones-pt-ii",
+      "artist": "Mobb Deep",
+      "title": "Shook Ones, Pt. II",
+      "videoId": "yoYZf-lBF_U",
+      "status": "metadata_available",
+      "videoTitle": "Mobb Deep - Shook Ones, Pt. II (Official HD Video)",
+      "channel": "MobbDeepVEVO"
+    },
+    {
+      "id": "mobb-deep-survival-of-the-fittest",
+      "artist": "Mobb Deep",
+      "title": "Survival of the Fittest",
+      "videoId": "nfM43P_kIFU",
+      "status": "metadata_available",
+      "videoTitle": "Mobb Deep - Survival of the Fittest (Official Audio)",
+      "channel": "MobbDeepVEVO"
+    },
+    {
+      "id": "wu-tang-clan-c-r-e-a-m",
+      "artist": "Wu-Tang Clan",
+      "title": "C.R.E.A.M.",
+      "videoId": "4yNQ7_7I5aE",
+      "status": "metadata_available",
+      "videoTitle": "C.R.E.A.M. (Cash Rules Everything Around Me) (Official Audio)",
+      "channel": "WuTangClanVEVO"
+    },
+    {
+      "id": "wu-tang-clan-protect-ya-neck",
+      "artist": "Wu-Tang Clan",
+      "title": "Protect Ya Neck",
+      "videoId": "R0IUR4gkPIE",
+      "status": "metadata_available",
+      "videoTitle": "Wu-Tang Clan - Protect Ya Neck (Official HD Video - Clean Version)",
+      "channel": "WuTangClanVEVO"
+    },
+    {
+      "id": "gza-liquid-swords",
+      "artist": "GZA",
+      "title": "Liquid Swords",
+      "videoId": "1YOOxeFr1b8",
+      "status": "metadata_available",
+      "videoTitle": "GZA - Liquid Swords",
+      "channel": "GZAGeniusVEVO"
+    },
+    {
+      "id": "raekwon-ice-cream",
+      "artist": "Raekwon",
+      "title": "Ice Cream",
+      "videoId": "XzkHQlR4Hzo",
+      "status": "metadata_available",
+      "videoTitle": "Ice Cream",
+      "channel": "Raekwon - Topic"
+    },
+    {
+      "id": "ol-dirty-bastard-shimmy-shimmy-ya",
+      "artist": "Ol' Dirty Bastard",
+      "title": "Shimmy Shimmy Ya",
+      "videoId": "vahd-QqU7as",
+      "status": "metadata_available",
+      "videoTitle": "Shimmy Shimmy Ya (2005 Remaster)",
+      "channel": "Ol' Dirty Bastard - Topic"
+    },
+    {
+      "id": "de-la-soul-a-roller-skating-jam-named-saturdays",
+      "artist": "De La Soul",
+      "title": "A Roller Skating Jam Named Saturdays",
+      "videoId": "g7LzurHkPwA",
+      "status": "metadata_available",
+      "videoTitle": "A Roller Skating Jam Named \"Saturdays\"",
+      "channel": "WeAreDeLaSoul - Topic"
+    },
+    {
+      "id": "de-la-soul-stakes-is-high",
+      "artist": "De La Soul",
+      "title": "Stakes Is High",
+      "videoId": "Wzc5Pz3SPUE",
+      "status": "metadata_available",
+      "videoTitle": "Stakes Is High",
+      "channel": "WeAreDeLaSoul - Topic"
+    },
+    {
+      "id": "de-la-soul-breakadawn",
+      "artist": "De La Soul",
+      "title": "Breakadawn",
+      "videoId": "uxJDkVgSBaY",
+      "status": "metadata_available",
+      "videoTitle": "De La Soul - Breakadawn (Official Audio)",
+      "channel": "DeLaSoulVEVO"
+    },
+    {
+      "id": "black-sheep-the-choice-is-yours-revisited",
+      "artist": "Black Sheep",
+      "title": "The Choice Is Yours (Revisited)",
+      "videoId": "hyFHDBQxjIY",
+      "status": "metadata_available",
+      "videoTitle": "The Choice Is Yours (Revisited)",
+      "channel": "Black Sheep - Topic"
+    },
+    {
+      "id": "brand-nubian-slow-down",
+      "artist": "Brand Nubian",
+      "title": "Slow Down",
+      "videoId": "B0KdQMxx8EM",
+      "status": "metadata_available",
+      "videoTitle": "Brand Nubian - Slow Down (Official Music Video) [HD]",
+      "channel": "BrandNubianVEVO"
+    },
+    {
+      "id": "brand-nubian-all-for-one",
+      "artist": "Brand Nubian",
+      "title": "All for One",
+      "videoId": "8auuY4fvLyY",
+      "status": "metadata_available",
+      "videoTitle": "Brand Nubian - All For One (Official Video)",
+      "channel": "Atlantic Records"
+    },
+    {
+      "id": "grand-puba-i-like-it-i-wanna-be-where-you-are",
+      "artist": "Grand Puba",
+      "title": "I Like It (I Wanna Be Where You Are)",
+      "videoId": "o1Z9BZbaiTY",
+      "status": "metadata_available",
+      "videoTitle": "I Like It (I Wanna Be Where You Are)",
+      "channel": "Grand Puba - Topic"
+    },
+    {
+      "id": "digable-planets-rebirth-of-slick-cool-like-dat",
+      "artist": "Digable Planets",
+      "title": "Rebirth of Slick (Cool Like Dat)",
+      "videoId": "cM4kqL13jGM",
+      "status": "metadata_available",
+      "videoTitle": "Digable Planets - Rebirth of Slick (Cool Like Dat) (Official Music Video)",
+      "channel": "DigablePlanetsVEVO"
+    },
+    {
+      "id": "digable-planets-9th-wonder-blackitolism",
+      "artist": "Digable Planets",
+      "title": "9th Wonder (Blackitolism)",
+      "videoId": "8QGLnq9VYxA",
+      "status": "metadata_available",
+      "videoTitle": "Digable Planets - 9th Wonder (Blackitolism)",
+      "channel": "DigablePlanetsVEVO"
+    },
+    {
+      "id": "us3-cantaloop-flip-fantasia",
+      "artist": "US3",
+      "title": "Cantaloop (Flip Fantasia)",
+      "videoId": "yn1XU_vgjag",
+      "status": "metadata_available",
+      "videoTitle": "Cantaloop (Flip Fantasia)",
+      "channel": "Us3 - Topic"
+    },
+    {
+      "id": "the-roots-proceed",
+      "artist": "The Roots",
+      "title": "Proceed",
+      "videoId": "Fw7caqtWAZI",
+      "status": "metadata_available",
+      "videoTitle": "Proceed",
+      "channel": "The Roots - Topic"
+    },
+    {
+      "id": "the-roots-what-they-do",
+      "artist": "The Roots",
+      "title": "What They Do",
+      "videoId": "_qzacv8dtb4",
+      "status": "metadata_available",
+      "videoTitle": "The Roots - What They Do (Official Music Video)",
+      "channel": "TheRootsVEVO"
+    },
+    {
+      "id": "common-i-used-to-love-h-e-r",
+      "artist": "Common",
+      "title": "I Used to Love H.E.R.",
+      "videoId": "FJmGBMx7LNw",
+      "status": "metadata_available",
+      "videoTitle": "I Used to Love H.E.R.",
+      "channel": "Common - Topic"
+    },
+    {
+      "id": "common-the-light",
+      "artist": "Common",
+      "title": "The Light",
+      "videoId": "pK76GKkEc9o",
+      "status": "metadata_available",
+      "videoTitle": "The Light",
+      "channel": "Common - Topic"
+    },
+    {
+      "id": "mos-def-ms-fat-booty",
+      "artist": "Mos Def",
+      "title": "Ms. Fat Booty",
+      "videoId": "aZvjiLbDQq8",
+      "status": "metadata_available",
+      "videoTitle": "Ms. Fat Booty",
+      "channel": "Mos Def - Topic"
+    },
+    {
+      "id": "black-star-definition",
+      "artist": "Black Star",
+      "title": "Definition",
+      "videoId": "EuJaStSL0xM",
+      "status": "metadata_available",
+      "videoTitle": "Black Star (Mos Def & Talib Kweli) - Definition",
+      "channel": "UPROXX"
+    },
+    {
+      "id": "pharoahe-monch-simon-says",
+      "artist": "Pharoahe Monch",
+      "title": "Simon Says",
+      "videoId": "cKsMMoc_oOA",
+      "status": "metadata_available",
+      "videoTitle": "Pharoahe Monch - Simon Says",
+      "channel": "Pharoahe Monch"
+    },
+    {
+      "id": "krs-one-mc-s-act-like-they-don-t-know",
+      "artist": "KRS-One",
+      "title": "MC's Act Like They Don't Know",
+      "videoId": "xnI8JEW7Ty4",
+      "status": "metadata_available",
+      "videoTitle": "KRS-One - MC's Act Like They Don't Know (Official Video)",
+      "channel": "KRSOneVEVO"
+    },
+    {
+      "id": "krs-one-sound-of-da-police",
+      "artist": "KRS-One",
+      "title": "Sound of da Police",
+      "videoId": "sM1nrFkLgsE",
+      "status": "metadata_available",
+      "videoTitle": "Sound of da Police",
+      "channel": "KRS ONE - Topic"
+    },
+    {
+      "id": "eric-b-rakim-don-t-sweat-the-technique",
+      "artist": "Eric B. & Rakim",
+      "title": "Don't Sweat the Technique",
+      "videoId": "mAgK_qOduIQ",
+      "status": "metadata_available",
+      "videoTitle": "Don't Sweat The Technique",
+      "channel": "Eric B. - Topic"
+    },
+    {
+      "id": "epmd-so-wat-cha-sayin",
+      "artist": "EPMD",
+      "title": "So Wat Cha Sayin'",
+      "videoId": "UiR_dkuaYTM",
+      "status": "metadata_available",
+      "videoTitle": "EPMD - So Wat Cha Sayin' (Official Music Video)",
+      "channel": "EPMDVEVO"
+    },
+    {
+      "id": "das-efx-they-want-efx",
+      "artist": "Das EFX",
+      "title": "They Want EFX",
+      "videoId": "KNvmOKT1xbk",
+      "status": "metadata_available",
+      "videoTitle": "They Want EFX",
+      "channel": "Das Efx - Topic"
+    },
+    {
+      "id": "redman-tonight-s-da-night",
+      "artist": "Redman",
+      "title": "Tonight's Da Night",
+      "videoId": "_AJ3mL2ypdw",
+      "status": "metadata_available",
+      "videoTitle": "Tonight's Da Night",
+      "channel": "Redman - Topic"
+    },
+    {
+      "id": "naughty-by-nature-hip-hop-hooray",
+      "artist": "Naughty by Nature",
+      "title": "Hip Hop Hooray",
+      "videoId": "2JhvpQWJgfA",
+      "status": "metadata_available",
+      "videoTitle": "Hip Hop Hooray",
+      "channel": "Naughty By Nature - Topic"
+    },
+    {
+      "id": "a-tribe-called-quest-oh-my-god",
+      "artist": "A Tribe Called Quest",
+      "title": "Oh My God",
+      "videoId": "OIah18jcJko",
+      "status": "metadata_available",
+      "videoTitle": "A Tribe Called Quest - Oh My God (Official HD Video)",
+      "channel": "TribeCalledQuestVEVO"
+    },
+    {
+      "id": "a-tribe-called-quest-steve-biko-stir-it-up",
+      "artist": "A Tribe Called Quest",
+      "title": "Steve Biko (Stir It Up)",
+      "videoId": "r1DaB0m58XI",
+      "status": "metadata_available",
+      "videoTitle": "Steve Biko (Stir It Up)",
+      "channel": "A Tribe Called Quest - Topic"
+    },
+    {
+      "id": "a-tribe-called-quest-we-can-get-down",
+      "artist": "A Tribe Called Quest",
+      "title": "We Can Get Down",
+      "videoId": "MZYVnQkR_6o",
+      "status": "metadata_available",
+      "videoTitle": "We Can Get Down",
+      "channel": "A Tribe Called Quest - Topic"
+    },
+    {
+      "id": "a-tribe-called-quest-find-a-way",
+      "artist": "A Tribe Called Quest",
+      "title": "Find a Way",
+      "videoId": "uslaqYlXAbo",
+      "status": "metadata_available",
+      "videoTitle": "Find a Way",
+      "channel": "A Tribe Called Quest - Topic"
+    },
+    {
+      "id": "de-la-soul-ego-trippin-part-two",
+      "artist": "De La Soul",
+      "title": "Ego Trippin' (Part Two)",
+      "videoId": "yUz9TuUO1Gw",
+      "status": "metadata_available",
+      "videoTitle": "Ego Trippin' (Part Two)",
+      "channel": "WeAreDeLaSoul - Topic"
+    },
+    {
+      "id": "de-la-soul-ring-ring-ring-ha-ha-hey",
+      "artist": "De La Soul",
+      "title": "Ring Ring Ring (Ha Ha Hey)",
+      "videoId": "Er04b43woew",
+      "status": "metadata_available",
+      "videoTitle": "Ring Ring Ring (Ha Ha Hey)",
+      "channel": "WeAreDeLaSoul - Topic"
+    },
+    {
+      "id": "de-la-soul-buddy",
+      "artist": "De La Soul",
+      "title": "Buddy",
+      "videoId": "Sk73NThhUno",
+      "status": "metadata_available",
+      "videoTitle": "Buddy",
+      "channel": "WeAreDeLaSoul - Topic"
+    },
+    {
+      "id": "jungle-brothers-straight-out-the-jungle",
+      "artist": "Jungle Brothers",
+      "title": "Straight Out the Jungle",
+      "videoId": "Svl7iZYT8gU",
+      "status": "metadata_available",
+      "videoTitle": "Straight Out The Jungle",
+      "channel": "Jungle Brothers - Topic"
+    },
+    {
+      "id": "jungle-brothers-black-is-black",
+      "artist": "Jungle Brothers",
+      "title": "Black Is Black",
+      "videoId": "Bu1n4jMeg6I",
+      "status": "metadata_available",
+      "videoTitle": "Black Is Black",
+      "channel": "Jungle Brothers - Topic"
+    },
+    {
+      "id": "jungle-brothers-doin-our-own-dang",
+      "artist": "Jungle Brothers",
+      "title": "Doin' Our Own Dang",
+      "videoId": "gBX0BN26PIE",
+      "status": "metadata_available",
+      "videoTitle": "Doin' Our Own Dang",
+      "channel": "Jungle Brothers - Topic"
+    },
+    {
+      "id": "queen-latifah-u-n-i-t-y",
+      "artist": "Queen Latifah",
+      "title": "U.N.I.T.Y.",
+      "videoId": "f8cHxydDb7o",
+      "status": "metadata_available",
+      "videoTitle": "Queen Latifah - U.N.I.T.Y.",
+      "channel": "QueenLatifahVEVO"
+    },
+    {
+      "id": "monie-love-it-s-a-shame-my-sister",
+      "artist": "Monie Love",
+      "title": "It's a Shame (My Sister)",
+      "videoId": "ZT_U_C9ezVQ",
+      "status": "metadata_available",
+      "videoTitle": "It's a Shame (My Sister)",
+      "channel": "Monie Love - Topic"
+    },
+    {
+      "id": "mc-lyte-poor-georgie",
+      "artist": "MC Lyte",
+      "title": "Poor Georgie",
+      "videoId": "fUO612ZqLgw",
+      "status": "metadata_available",
+      "videoTitle": "Poor Georgie",
+      "channel": "MC Lyte - Topic"
+    },
+    {
+      "id": "ll-cool-j-mama-said-knock-you-out",
+      "artist": "LL Cool J",
+      "title": "Mama Said Knock You Out",
+      "videoId": "vimZj8HW0Kg",
+      "status": "metadata_available",
+      "videoTitle": "LL COOL J - Mama Said Knock You Out",
+      "channel": "LLCoolJVEVO"
+    },
+    {
+      "id": "ll-cool-j-around-the-way-girl",
+      "artist": "LL Cool J",
+      "title": "Around the Way Girl",
+      "videoId": "7_WWTS9gKqk",
+      "status": "metadata_available",
+      "videoTitle": "Around The Way Girl",
+      "channel": "LL COOL J - Topic"
+    },
+    {
+      "id": "ll-cool-j-doin-it",
+      "artist": "LL Cool J",
+      "title": "Doin' It",
+      "videoId": "OqEksaLoZYQ",
+      "status": "metadata_available",
+      "videoTitle": "LL COOL J - Doin' It (Official Music Video)",
+      "channel": "LLCoolJVEVO"
+    },
+    {
+      "id": "biz-markie-just-a-friend",
+      "artist": "Biz Markie",
+      "title": "Just a Friend",
+      "videoId": "VrYdfGmjUIE",
+      "status": "metadata_available",
+      "videoTitle": "Biz Markie - Just a Friend (Official Music Video)",
+      "channel": "Biz Markie"
+    },
+    {
+      "id": "slick-rick-children-s-story",
+      "artist": "Slick Rick",
+      "title": "Children's Story",
+      "videoId": "HjNTu8jdukA",
+      "status": "metadata_available",
+      "videoTitle": "Slick Rick - Children's Story",
+      "channel": "SlickRickVEVO"
+    },
+    {
+      "id": "rakim-when-i-b-on-tha-mic",
+      "artist": "Rakim",
+      "title": "When I B on tha Mic",
+      "videoId": "M34OelgSlKI",
+      "status": "metadata_available",
+      "videoTitle": "Rakim - When I B On Tha Mic (Official Music Video)",
+      "channel": "RakimVEVO"
+    },
+    {
+      "id": "kool-g-rap-dj-polo-ill-street-blues",
+      "artist": "Kool G Rap & DJ Polo",
+      "title": "Ill Street Blues",
+      "videoId": "wkzIcWycU1g",
+      "status": "metadata_available",
+      "videoTitle": "Kool G Rap ► \"Ill Street Blues\"",
+      "channel": "Kool G. Rap"
+    },
+    {
+      "id": "big-daddy-kane-ain-t-no-half-steppin",
+      "artist": "Big Daddy Kane",
+      "title": "Ain't No Half-Steppin'",
+      "videoId": "nqPlF5Mn32M",
+      "status": "metadata_available",
+      "videoTitle": "Ain't No Half-Steppin'",
+      "channel": "Big Daddy Kane - Topic"
+    },
+    {
+      "id": "epmd-you-gots-to-chill",
+      "artist": "EPMD",
+      "title": "You Gots to Chill",
+      "videoId": "fAugOjG4qOc",
+      "status": "metadata_available",
+      "videoTitle": "EPMD - You Gots To Chill",
+      "channel": "EPMDVEVO"
+    },
+    {
+      "id": "epmd-crossover",
+      "artist": "EPMD",
+      "title": "Crossover",
+      "videoId": "DCcWkyg-6s0",
+      "status": "metadata_available",
+      "videoTitle": "EPMD - Crossover (Official Music Video)",
+      "channel": "EPMDVEVO"
+    },
+    {
+      "id": "keith-murray-the-most-beautifullest-thing-in-this-world",
+      "artist": "Keith Murray",
+      "title": "The Most Beautifullest Thing in This World",
+      "videoId": "lge1iy_0Uy4",
+      "status": "metadata_available",
+      "videoTitle": "The Most Beautifullest Thing In This World",
+      "channel": "Keith Murray - Topic"
+    },
+    {
+      "id": "redman-da-goodness",
+      "artist": "Redman",
+      "title": "Da Goodness",
+      "videoId": "e1Q3jY4hpic",
+      "status": "metadata_available",
+      "videoTitle": "Da Goodness",
+      "channel": "Redman - Topic"
+    },
+    {
+      "id": "smif-n-wessun-sound-bwoy-bureill",
+      "artist": "Smif-N-Wessun",
+      "title": "Sound Bwoy Bureill",
+      "videoId": "s5MogMGLWAA",
+      "status": "metadata_available",
+      "videoTitle": "Smif-N-Wessun - Sound Bwoy Bureill",
+      "channel": "NervousRecordsNYC"
+    },
+    {
+      "id": "heltah-skeltah-leflaur-leflah-eshkoshka",
+      "artist": "Heltah Skeltah",
+      "title": "Leflaur Leflah Eshkoshka",
+      "videoId": "KxkkWLi3yuI",
+      "status": "metadata_available",
+      "videoTitle": "Heltah Skeltah (feat. O.G.C.) - Leflaur Leflah EshKoshka (Official Music Video)",
+      "channel": "Heltah Skeltah"
+    },
+    {
+      "id": "o-g-c-no-fear",
+      "artist": "O.G.C.",
+      "title": "No Fear",
+      "videoId": "xUDNMmbYtkw",
+      "status": "metadata_available",
+      "videoTitle": "OGC - No Fear [Explicit]",
+      "channel": "UPROXX"
+    },
+    {
+      "id": "artifacts-wrong-side-of-da-tracks",
+      "artist": "Artifacts",
+      "title": "Wrong Side of da Tracks",
+      "videoId": "nrMRlLSro0Q",
+      "status": "metadata_available",
+      "videoTitle": "Wrong Side of da Tracks",
+      "channel": "Artifacts - Topic"
+    },
+    {
+      "id": "artifacts-c-mon-wit-da-git-down",
+      "artist": "Artifacts",
+      "title": "C'mon wit da Git Down",
+      "videoId": "N16r6xmQJJo",
+      "status": "metadata_available",
+      "videoTitle": "C'Mon Wit Da Git Down",
+      "channel": "Artifacts - Topic"
+    },
+    {
+      "id": "channel-live-mad-izm",
+      "artist": "Channel Live",
+      "title": "Mad Izm",
+      "videoId": "oEd1bDKWX7c",
+      "status": "metadata_available",
+      "videoTitle": "Mad Izm",
+      "channel": "Channel Live - Topic"
+    },
+    {
+      "id": "nine-whutcha-want",
+      "artist": "Nine",
+      "title": "Whutcha Want?",
+      "videoId": "Nn9oiGQzf9U",
+      "status": "metadata_available",
+      "videoTitle": "Whutcha Want?",
+      "channel": "NINE - Topic"
+    },
+    {
+      "id": "mic-geronimo-shit-s-real",
+      "artist": "Mic Geronimo",
+      "title": "Shit's Real",
+      "videoId": "t-03vzgQzgE",
+      "status": "metadata_available",
+      "videoTitle": "Shit's Real",
+      "channel": "Mic Geronimo - Topic"
+    },
+    {
+      "id": "royal-flush-iced-down-medallions",
+      "artist": "Royal Flush",
+      "title": "Iced Down Medallions",
+      "videoId": "jjflVQeZizc",
+      "status": "metadata_available",
+      "videoTitle": "Iced Down Medallions",
+      "channel": "Royal Flush - Topic"
+    },
+    {
+      "id": "camp-lo-luchini-aka-this-is-it",
+      "artist": "Camp Lo",
+      "title": "Luchini AKA This Is It",
+      "videoId": "WvAqy1i2hEA",
+      "status": "metadata_available",
+      "videoTitle": "Camp Lo - Luchini AKA This Is It (Official HD Video)",
+      "channel": "CampLoVEVO"
+    },
+    {
+      "id": "camp-lo-coolie-high",
+      "artist": "Camp Lo",
+      "title": "Coolie High",
+      "videoId": "Y3nA3OgqWaw",
+      "status": "metadata_available",
+      "videoTitle": "Camp Lo - Coolie High (Official HD Video)",
+      "channel": "CampLoVEVO"
+    },
+    {
+      "id": "fugees-fu-gee-la",
+      "artist": "Fugees",
+      "title": "Fu-Gee-La",
+      "videoId": "MPlb9HoOCxs",
+      "status": "metadata_available",
+      "videoTitle": "Fugees - Fu-Gee-La (Official HD Video)",
+      "channel": "TheFugeesVEVO"
+    },
+    {
+      "id": "fugees-ready-or-not",
+      "artist": "Fugees",
+      "title": "Ready or Not",
+      "videoId": "aIXyKmElvv8",
+      "status": "metadata_available",
+      "videoTitle": "Fugees - Ready Or Not (Official HD Video)",
+      "channel": "TheFugeesVEVO"
+    },
+    {
+      "id": "lauryn-hill-doo-wop-that-thing",
+      "artist": "Lauryn Hill",
+      "title": "Doo Wop (That Thing)",
+      "videoId": "T6QKqFPRZSA",
+      "status": "metadata_available",
+      "videoTitle": "Lauryn Hill - Doo Wop (That Thing) (Official HD Video)",
+      "channel": "laurynhillvevo"
+    },
+    {
+      "id": "jurassic-5-concrete-schoolyard",
+      "artist": "Jurassic 5",
+      "title": "Concrete Schoolyard",
+      "videoId": "BxhoG0t6VU0",
+      "status": "metadata_available",
+      "videoTitle": "Concrete Schoolyard",
+      "channel": "Jurassic 5 - Topic"
+    },
+    {
+      "id": "dilated-peoples-worst-comes-to-worst",
+      "artist": "Dilated Peoples",
+      "title": "Worst Comes to Worst",
+      "videoId": "sevZEOUXpw4",
+      "status": "metadata_available",
+      "videoTitle": "Dilated Peoples - Worst Comes To Worst (Official Video)",
+      "channel": "Mass Appeal"
+    },
+    {
+      "id": "dj-shadow-organ-donor",
+      "artist": "DJ Shadow",
+      "title": "Organ Donor",
+      "videoId": "LQ2a1Cg3OCc",
+      "status": "metadata_available",
+      "videoTitle": "Organ Donor",
+      "channel": "DJ Shadow - Topic"
+    },
+    {
+      "id": "dj-shadow-midnight-in-a-perfect-world",
+      "artist": "DJ Shadow",
+      "title": "Midnight in a Perfect World",
+      "videoId": "IHvRY1SC9qw",
+      "status": "metadata_available",
+      "videoTitle": "Midnight In A Perfect World",
+      "channel": "DJ Shadow - Topic"
+    },
+    {
+      "id": "dj-krush-kemuri",
+      "artist": "DJ Krush",
+      "title": "Kemuri",
+      "videoId": "Zjzc4hve6QM",
+      "status": "metadata_available",
+      "videoTitle": "DJ krush - Strictly Turntablized (full album)",
+      "channel": "Diazepam.3016"
+    },
+    {
+      "id": "nujabes-feather",
+      "artist": "Nujabes",
+      "title": "Feather",
+      "videoId": "hQ5x8pHoIPA",
+      "status": "metadata_available",
+      "videoTitle": "Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio]",
+      "channel": "Nujabes"
+    },
+    {
+      "id": "nujabes-luv-sic-part-3",
+      "artist": "Nujabes",
+      "title": "Luv(sic) Part 3",
+      "videoId": "mc_xD6aGV5w",
+      "status": "metadata_available",
+      "videoTitle": "Nujabes - Luv(sic) Part 3 feat.Shing02 [Official Audio]",
+      "channel": "Nujabes"
+    },
+    {
+      "id": "j-dilla-so-far-to-go",
+      "artist": "J Dilla",
+      "title": "So Far to Go",
+      "videoId": "fw64fXeWe_8",
+      "status": "metadata_available",
+      "videoTitle": "So Far to Go",
+      "channel": "J Dilla - Topic"
+    },
+    {
+      "id": "slum-village-fall-in-love",
+      "artist": "Slum Village",
+      "title": "Fall in Love",
+      "videoId": "7EmnMDUWxPY",
+      "status": "metadata_available",
+      "videoTitle": "Slum Village - Fall In Love",
+      "channel": "Robbie D"
+    },
+    {
+      "id": "the-roots-you-got-me",
+      "artist": "The Roots",
+      "title": "You Got Me",
+      "videoId": "MJCHeEQV454",
+      "status": "metadata_available",
+      "videoTitle": "The Roots - You Got Me ft. Erykah Badu",
+      "channel": "TheRootsVEVO"
+    },
+    {
+      "id": "o-c-born-2-live",
+      "artist": "O.C.",
+      "title": "Born 2 Live",
+      "videoId": "Gf68J5iqK6g",
+      "status": "metadata_available",
+      "videoTitle": "O.C. - Born 2 Live",
+      "channel": "UPROXX"
+    },
+    {
+      "id": "krs-one-step-into-a-world",
+      "artist": "KRS-One",
+      "title": "Step into a World (Rapture's Delight)",
+      "videoId": "xbJxcFyaCpI",
+      "status": "metadata_available",
+      "videoTitle": "KRS-One - Step Into A World (Rapture's Delight) (Official Video)",
+      "channel": "KRSOneVEVO"
+    },
+    {
+      "id": "beastie-boys-shadrach",
+      "artist": "Beastie Boys",
+      "title": "Shadrach",
+      "videoId": "H0OCjq418V4",
+      "status": "metadata_available",
+      "videoTitle": "Shadrach",
+      "channel": "Beastie Boys - Topic"
+    },
+    {
+      "id": "beastie-boys-jimmy-james",
+      "artist": "Beastie Boys",
+      "title": "Jimmy James",
+      "videoId": "vw5i7TPkYfI",
+      "status": "metadata_available",
+      "videoTitle": "Beastie Boys - Jimmy James (Official Music Video)",
+      "channel": "BeastieBoys"
+    },
+    {
+      "id": "beastie-boys-shake-your-rump",
+      "artist": "Beastie Boys",
+      "title": "Shake Your Rump",
+      "videoId": "YxaPrPfATuQ",
+      "status": "metadata_available",
+      "videoTitle": "Shake Your Rump",
+      "channel": "Beastie Boys - Topic"
+    },
+    {
+      "id": "beastie-boys-root-down",
+      "artist": "Beastie Boys",
+      "title": "Root Down",
+      "videoId": "Xf1YF_MH1xc",
+      "status": "metadata_available",
+      "videoTitle": "Beastie Boys - Root Down",
+      "channel": "BeastieBoysVEVO"
+    },
+    {
+      "id": "beastie-boys-pass-the-mic",
+      "artist": "Beastie Boys",
+      "title": "Pass the Mic",
+      "videoId": "NpsvBvwRuf0",
+      "status": "metadata_available",
+      "videoTitle": "Beastie Boys - Pass the Mic (Official Music Video)",
+      "channel": "BeastieBoysVEVO"
+    },
+    {
+      "id": "beastie-boys-ch-check-it-out",
+      "artist": "Beastie Boys",
+      "title": "Ch-Check It Out",
+      "videoId": "6iuGp9gUeNk",
+      "status": "metadata_available",
+      "videoTitle": "Beastie Boys - Ch-Check It Out",
+      "channel": "BeastieBoysVEVO"
+    },
+    {
+      "id": "beastie-boys-negotiation-limerick-file-41-small-stars-remix",
+      "artist": "Beastie Boys",
+      "title": "The Negotiation Limerick File (The 41 Small Stars Remix)",
+      "videoId": "qezc6f52kD0",
+      "status": "metadata_available",
+      "videoTitle": "The Negotiation Limerick File (The 41 Small Stars Remix/Remastered 2009)",
+      "channel": "Beastie Boys - Topic"
+    },
+    {
+      "id": "beastie-boys-brass-monkey",
+      "artist": "Beastie Boys",
+      "title": "Brass Monkey",
+      "videoId": "acY2VSskD80",
+      "status": "metadata_available",
+      "videoTitle": "Brass Monkey",
+      "channel": "Beastie Boys - Topic"
+    },
+    {
+      "id": "beastie-boys-paul-revere",
+      "artist": "Beastie Boys",
+      "title": "Paul Revere",
+      "videoId": "kdfF0cOC50w",
+      "status": "metadata_available",
+      "videoTitle": "Paul Revere",
+      "channel": "Beastie Boys - Topic"
+    },
+    {
+      "id": "black-sheep-splash",
+      "artist": "Black Sheep",
+      "title": "Splash (Intro)",
+      "videoId": "PubWJBWuJV4",
+      "status": "metadata_available",
+      "videoTitle": "Black Sheep - Splash (Intro)",
+      "channel": "ghbdtncndbt654"
+    },
+    {
+      "id": "black-sheep-flavor-of-the-month",
+      "artist": "Black Sheep",
+      "title": "Flavor of the Month",
+      "videoId": "Hfn_3FcyjVQ",
+      "status": "metadata_available",
+      "videoTitle": "Flavor Of The Month",
+      "channel": "Black Sheep - Topic"
+    },
+    {
+      "id": "black-sheep-similak-child",
+      "artist": "Black Sheep",
+      "title": "Similak Child",
+      "videoId": "hORxJgl8gFg",
+      "status": "metadata_available",
+      "videoTitle": "Similak Child",
+      "channel": "Black Sheep - Topic"
+    },
+    {
+      "id": "black-sheep-strobelite-honey-no-we-didnt-mix",
+      "artist": "Black Sheep",
+      "title": "Strobelite Honey (No We Didn't Mix)",
+      "videoId": "F12u92IGlFQ",
+      "status": "metadata_available",
+      "videoTitle": "Black Sheep - Strobelite Honey(No We Didn't Mix)",
+      "channel": "Lee Hodgkinson"
+    },
+    {
+      "id": "black-sheep-without-a-doubt",
+      "artist": "Black Sheep",
+      "title": "Without a Doubt",
+      "videoId": "EwkmNvtWm9M",
+      "status": "metadata_available",
+      "videoTitle": "Without A Doubt",
+      "channel": "Black Sheep - Topic"
+    },
+    {
+      "id": "black-sheep-black-with-nv",
+      "artist": "Black Sheep",
+      "title": "Black With N.V. (No Vision)",
+      "videoId": "-J8EwAGteVc",
+      "status": "metadata_available",
+      "videoTitle": "Black With N V (No Vision)",
+      "channel": "Black Sheep - Topic"
+    },
+    {
+      "id": "main-source-fakin-the-funk",
+      "artist": "Main Source",
+      "title": "Fakin' the Funk",
+      "videoId": "tSi_XLDLQac",
+      "status": "metadata_available",
+      "videoTitle": "Fakin The Funk",
+      "channel": "Main Source - Topic"
+    },
+    {
+      "id": "main-source-he-got-so-much-soul",
+      "artist": "Main Source",
+      "title": "He Got So Much Soul (He Don't Need No Music)",
+      "videoId": "YsceP_Xx4ro",
+      "status": "metadata_available",
+      "videoTitle": "He Got So Much Soul (He Don't Need No Music)",
+      "channel": "Main Source - Topic"
+    },
+    {
+      "id": "main-source-hellavision",
+      "artist": "Main Source",
+      "title": "Hellavision",
+      "videoId": "pR4DWkl9Srk",
+      "status": "metadata_available",
+      "videoTitle": "Hellavision",
+      "channel": "Main Source - Topic"
+    },
+    {
+      "id": "dangelo-dreamin-eyes-def-squad-remix",
+      "artist": "D’Angelo feat. Redman",
+      "title": "Me and Those Dreamin’ Eyes of Mine (Def Squad Remix)",
+      "videoId": "p3OBmSD5sOY",
+      "status": "metadata_available",
+      "videoTitle": "Me And Those Dreamin' Eyes Of Mine (Def Squad Remix)",
+      "channel": "D'Angelo - Topic"
+    },
+    {
+      "id": "erick-sermon-as-the",
+      "artist": "Erick Sermon feat. Passion",
+      "title": "As the… (feat. Passion)",
+      "videoId": "6ikYj4PQaDs",
+      "status": "metadata_available",
+      "videoTitle": "As The...",
+      "channel": "Erick Sermon - Topic"
+    },
+    {
+      "id": "erick-sermon-its-that-hit",
+      "artist": "Erick Sermon & Keith Murray",
+      "title": "It’s That Hit (feat. Keith Murray)",
+      "videoId": "DIu8y60wZQg",
+      "status": "metadata_available",
+      "videoTitle": "It's That Hit",
+      "channel": "Erick Sermon - Topic"
+    },
+    {
+      "id": "erick-sermon-up-jump-the-boogie",
+      "artist": "Erick Sermon feat. The Wixtons",
+      "title": "Up Jump the Boogie (feat. The Wixtons)",
+      "videoId": "wFDFMku98sc",
+      "status": "metadata_available",
+      "videoTitle": "Up Jump The Boogie",
+      "channel": "Erick Sermon - Topic"
+    },
+    {
+      "id": "redman-funkorama",
+      "artist": "Redman",
+      "title": "Funkorama",
+      "videoId": "0T-owlnvWBg",
+      "status": "metadata_available",
+      "videoTitle": "Redman - Funkorama",
+      "channel": "RedmanVEVO"
+    },
+    {
+      "id": "erick-sermon-lookaway-remix",
+      "artist": "Erick Sermon & Questionmark Asylum",
+      "title": "Lookaway (Remix)",
+      "videoId": "KCznQybUbPE",
+      "status": "metadata_available",
+      "videoTitle": "Erick Sermon - Lookaway Ft.  Question mark (Asylum Remix)",
+      "channel": "Erick Sermon"
+    },
+    {
+      "id": "cypress-hill-throw-your-hands-in-the-air",
+      "artist": "Cypress Hill",
+      "title": "Throw Your Hands in the Air",
+      "videoId": "dNO6aR79PZ4",
+      "status": "metadata_available",
+      "videoTitle": "Cypress Hill - Throw Your Hands In the Air (Remix - Official Video)",
+      "channel": "CypressHillVEVO"
+    },
+    {
+      "id": "epmd-jane-ii",
+      "artist": "EPMD",
+      "title": "Jane II",
+      "videoId": "dUAvHoJeL8s",
+      "status": "metadata_available",
+      "videoTitle": "Jane II",
+      "channel": "EPMD - Topic"
+    },
+    {
+      "id": "method-man-redman-maaad-crew",
+      "artist": "Method Man & Redman",
+      "title": "Maaad Crew",
+      "videoId": "DdHpRfBBTkQ",
+      "status": "metadata_available",
+      "videoTitle": "Maaad Crew (Album Version (Explicit))",
+      "channel": "Method Man - Topic"
+    },
+    {
+      "id": "erick-sermon-maintain",
+      "artist": "Erick Sermon",
+      "title": "Maintain",
+      "videoId": "Ytqs5HIn2y4",
+      "status": "metadata_available",
+      "videoTitle": "Maintain",
+      "channel": "Erick Sermon - Topic"
+    },
+    {
+      "id": "erick-sermon-open-fire",
+      "artist": "Erick Sermon",
+      "title": "Open Fire",
+      "videoId": "OzeSJTRhsxo",
+      "status": "metadata_available",
+      "videoTitle": "Open Fire",
+      "channel": "Erick Sermon - Topic"
+    },
+    {
+      "id": "erick-sermon-lil-crazy",
+      "artist": "Erick Sermon feat. Shadz of Lingo",
+      "title": "Lil Crazy (feat. Shadz of Lingo)",
+      "videoId": "KbT404LLvAA",
+      "status": "metadata_available",
+      "videoTitle": "Lil Crazy",
+      "channel": "Erick Sermon - Topic"
+    },
+    {
+      "id": "erick-sermon-on-the-regular",
+      "artist": "Erick Sermon feat. Duo",
+      "title": "On the Regular (feat. Duo)",
+      "videoId": "_6pb2zM8tR4",
+      "status": "metadata_available",
+      "videoTitle": "On The Regular",
+      "channel": "Erick Sermon - Topic"
+    },
+    {
+      "id": "erick-sermon-set-it-off",
+      "artist": "Erick Sermon",
+      "title": "Set It Off",
+      "videoId": "EZiLxCp6u_M",
+      "status": "metadata_available",
+      "videoTitle": "Set It Off",
+      "channel": "Erick Sermon - Topic"
+    },
+    {
+      "id": "keith-murray-radio",
+      "artist": "Keith Murray",
+      "title": "Radio",
+      "videoId": "FXICxSbxzBI",
+      "status": "metadata_available",
+      "videoTitle": "Radio (Explicit)",
+      "channel": "Keith Murray - Topic"
+    },
+    {
+      "id": "ll-cool-j-hey-lover-street-mix",
+      "artist": "LL Cool J feat. Boyz II Men",
+      "title": "Hey Lover (Street Mix)",
+      "videoId": "CuS2xosGpRU",
+      "status": "metadata_available",
+      "videoTitle": "Hey Lover (Street Mix)",
+      "channel": "LL COOL J - Topic"
+    },
+    {
+      "id": "erick-sermon-dip-dip-di-you-remix-me",
+      "artist": "Erick Sermon & Keith Murray",
+      "title": "Dip Dip Di (You Remix Me)",
+      "videoId": "sBzDAxu_5Rs",
+      "status": "metadata_available",
+      "videoTitle": "Dip Dip Di (You Remix Me)",
+      "channel": "Erick Sermon - Topic"
+    },
+    {
+      "id": "erick-sermon-stay-real-remix",
+      "artist": "Erick Sermon",
+      "title": "Stay Real (Remix)",
+      "videoId": "Ft-s7nQMn8w",
+      "status": "metadata_available",
+      "videoTitle": "Erick Sermon - Stay Real (Remix)",
+      "channel": "Erick Sermon"
+    },
+    {
+      "id": "epmd-richter-scale",
+      "artist": "EPMD",
+      "title": "Richter Scale",
+      "videoId": "EFlG5LuYOoY",
+      "status": "metadata_available",
+      "videoTitle": "EPMD - Richter Scale",
+      "channel": "EPMDVEVO"
+    },
+    {
+      "id": "erick-sermon-stay-real-pt-2",
+      "artist": "Erick Sermon, Nature & Keith Murray",
+      "title": "Stay Real, Pt. 2",
+      "videoId": "M3jHv6fe-mg",
+      "status": "metadata_available",
+      "videoTitle": "Erick Sermon, Nature, Keith Murray - Stay Real Part 2 (prod. Erick Sermon)",
+      "channel": "Erick Sermon"
+    },
+    {
+      "id": "epmd-youre-a-customer",
+      "artist": "EPMD",
+      "title": "You’re a Customer",
+      "videoId": "wh_dZmn7U3A",
+      "status": "metadata_available",
+      "videoTitle": "You're A Customer",
+      "channel": "EPMD - Topic"
+    },
+    {
+      "id": "erick-sermon-im-hot",
+      "artist": "Erick Sermon",
+      "title": "I’m Hot",
+      "videoId": "KdQvlkAfvHQ",
+      "status": "metadata_available",
+      "videoTitle": "Erick Sermon - I'm Hot (Official Video)",
+      "channel": "ErickSermonVEVO"
+    },
+    {
+      "id": "erick-sermon-feel-it",
+      "artist": "Erick Sermon feat. Sean Paul & Sy Scott",
+      "title": "Feel It (feat. Sean Paul & Sy Scott)",
+      "videoId": "w5AbYEOkpig",
+      "status": "metadata_available",
+      "videoTitle": "Feel It",
+      "channel": "Erick Sermon - Topic"
+    },
+    {
+      "id": "erick-sermon-focus",
+      "artist": "Erick Sermon feat. DJ Quik & Xzibit",
+      "title": "Focus (feat. DJ Quik & Xzibit)",
+      "videoId": "ETRYy39zPek",
+      "status": "metadata_available",
+      "videoTitle": "Erick Sermon - Focus Ft.  DJ Quik & Xzibit (Official Video)",
+      "channel": "Erick Sermon"
+    },
+    {
+      "id": "nas-lifes-a-bitch",
+      "artist": "Nas feat. AZ & Olu Dara",
+      "title": "Life’s a Bitch",
+      "videoId": "AxKleuLBRcw",
+      "status": "metadata_available",
+      "videoTitle": "Nas - Life's a Bitch (Official Audio) ft. AZ, Olu Dara",
+      "channel": "NasVEVO"
+    },
+    {
+      "id": "nas-one-love",
+      "artist": "Nas",
+      "title": "One Love",
+      "videoId": "hxce_qvhi5I",
+      "status": "metadata_available",
+      "videoTitle": "Nas - One Love (Official Video)",
+      "channel": "NasVEVO"
+    },
+    {
+      "id": "az-sugar-hill",
+      "artist": "AZ",
+      "title": "Sugar Hill",
+      "videoId": "KnHETY4NXr8",
+      "status": "metadata_available",
+      "videoTitle": "Sugar Hill",
+      "channel": "AZ - Topic"
+    },
+    {
+      "id": "az-rather-unique",
+      "artist": "AZ",
+      "title": "Rather Unique",
+      "videoId": "cPTokrGDIVs",
+      "status": "metadata_available",
+      "videoTitle": "Rather Unique",
+      "channel": "AZ - Topic"
+    },
+    {
+      "id": "pete-rock-cl-smooth-lots-of-lovin",
+      "artist": "Pete Rock & C.L. Smooth",
+      "title": "Lots of Lovin’",
+      "videoId": "8fU4juGF3xI",
+      "status": "metadata_available",
+      "videoTitle": "Lot's of Lovin",
+      "channel": "Pete Rock - Topic"
+    },
+    {
+      "id": "group-therapy-east-coast-west-coast-killas-fire-version",
+      "artist": "Group Therapy feat. Dr. Dre",
+      "title": "East Coast / West Coast Killas (Fire Version)",
+      "videoId": "FsbJSugZPHU",
+      "status": "metadata_available",
+      "videoTitle": "Group Therapy - East Coast/ West Coast Killas (Fire Version) ft. Dr. Dre",
+      "channel": "GroupTherapyVEVO"
+    },
+    {
+      "id": "dj-bombjack-lesson-7-the-next-lesson",
+      "artist": "DJ Bombjack",
+      "title": "Lesson 7: The Next Lesson",
+      "videoId": "C9ugn8Xh51Y",
+      "status": "metadata_available",
+      "videoTitle": "Lesson 7: The Next Lesson",
+      "channel": "DJ Bombjack - Topic"
+    },
+    {
+      "id": "jurassic-5-lesson-6-the-lecture",
+      "artist": "Jurassic 5",
+      "title": "Lesson 6: The Lecture",
+      "videoId": "bcOv_eBmaSk",
+      "status": "metadata_available",
+      "videoTitle": "Lesson 6: The Lecture",
+      "channel": "Jurassic 5 - Topic"
+    },
+    {
+      "id": "jurassic-5-jayou",
+      "artist": "Jurassic 5",
+      "title": "Jayou",
+      "videoId": "3QnVOibhJIc",
+      "status": "metadata_available",
+      "videoTitle": "Jayou",
+      "channel": "Jurassic 5 - Topic"
+    },
+    {
+      "id": "ugly-duckling-now-who-s-laughin",
+      "artist": "Ugly Duckling",
+      "title": "Now Who’s Laughin’",
+      "videoId": "MmeVx3Wlesg",
+      "status": "metadata_available",
+      "videoTitle": "Now Who's Laughin'",
+      "channel": "Ugly Duckling - Topic"
+    },
+    {
+      "id": "big-noyd-usual-suspect",
+      "artist": "Big Noyd",
+      "title": "Usual Suspect",
+      "videoId": "81JGhiPO6LA",
+      "status": "metadata_available",
+      "videoTitle": "Usual Suspect",
+      "channel": "Big Noyd - Topic"
+    },
+    {
+      "id": "dilated-peoples-work-the-angles",
+      "artist": "Dilated Peoples",
+      "title": "Work the Angles",
+      "videoId": "QnoW_PLe1zM",
+      "status": "metadata_available",
+      "videoTitle": "Dilated Peoples - Work The Angles (Official Video)",
+      "channel": "Mass Appeal"
+    },
+    {
+      "id": "gang-starr-flip-the-script",
+      "artist": "Gang Starr",
+      "title": "Flip the Script",
+      "videoId": "1Y6qwoJGGjs",
+      "status": "metadata_available",
+      "videoTitle": "Flip The Script",
+      "channel": "Gang Starr - Topic"
+    },
+    {
+      "id": "gang-starr-ex-girl-to-next-girl",
+      "artist": "Gang Starr",
+      "title": "Ex Girl to Next Girl",
+      "videoId": "B8kW6IEBdf0",
+      "status": "metadata_available",
+      "videoTitle": "Gang Starr - Ex Girl To The Next Girl",
+      "channel": "GangStarrVEVO"
+    },
+    {
+      "id": "gang-starr-take-two-and-pass",
+      "artist": "Gang Starr",
+      "title": "Take Two and Pass",
+      "videoId": "rQ2s41j5Jco",
+      "status": "metadata_available",
+      "videoTitle": "Take Two And Pass",
+      "channel": "Gang Starr - Topic"
+    },
+    {
+      "id": "gang-starr-2-deep",
+      "artist": "Gang Starr",
+      "title": "2 Deep",
+      "videoId": "17h8H2KYxrI",
+      "status": "metadata_available",
+      "videoTitle": "2 Deep",
+      "channel": "Gang Starr - Topic"
+    },
+    {
+      "id": "gang-starr-mostly-tha-voice",
+      "artist": "Gang Starr",
+      "title": "Mostly Tha Voice",
+      "videoId": "b-WF0Vr2A5U",
+      "status": "metadata_available",
+      "videoTitle": "Mostly Tha Voice",
+      "channel": "Gang Starr - Topic"
+    },
+    {
+      "id": "gang-starr-the-remainz",
+      "artist": "Gang Starr",
+      "title": "The ? Remainz",
+      "videoId": "NiyhQ-A7Ygw",
+      "status": "metadata_available",
+      "videoTitle": "The ? Remainz",
+      "channel": "Gang Starr - Topic"
+    },
+    {
+      "id": "gang-starr-comin-for-the-datazz",
+      "artist": "Gang Starr",
+      "title": "Comin’ for the Datazz",
+      "videoId": "TwPpjM0FnUc",
+      "status": "metadata_available",
+      "videoTitle": "Comin' For The Datazz",
+      "channel": "Gang Starr - Topic"
+    },
+    {
+      "id": "gang-starr-b-y-s",
+      "artist": "Gang Starr",
+      "title": "B.Y.S.",
+      "videoId": "DoX8MoQhARU",
+      "status": "metadata_available",
+      "videoTitle": "B.Y.S.",
+      "channel": "Gang Starr - Topic"
+    },
+    {
+      "id": "gang-starr-alongwaytogo",
+      "artist": "Gang Starr",
+      "title": "ALONGWAYTOGO",
+      "videoId": "rLKmXovPVP8",
+      "status": "metadata_available",
+      "videoTitle": "ALONGWAYTOGO",
+      "channel": "Gang Starr - Topic"
+    },
+    {
+      "id": "gang-starr-battle",
+      "artist": "Gang Starr",
+      "title": "Battle",
+      "videoId": "dcp4iB7ePQo",
+      "status": "metadata_available",
+      "videoTitle": "Battle",
+      "channel": "Gang Starr - Topic"
+    },
+    {
+      "id": "gang-starr-blowin-up-the-spot",
+      "artist": "Gang Starr",
+      "title": "Blowin’ Up the Spot",
+      "videoId": "YfMB60rKhIg",
+      "status": "metadata_available",
+      "videoTitle": "Blowin' Up The Spot",
+      "channel": "Gang Starr - Topic"
+    },
+    {
+      "id": "gang-starr-dj-premier-in-deep-concentration",
+      "artist": "Gang Starr",
+      "title": "DJ Premier in Deep Concentration",
+      "videoId": "45rN6Kgz8w8",
+      "status": "metadata_available",
+      "videoTitle": "Gang Starr - DJ Premier In Deep Concentration",
+      "channel": "Little Pad"
+    },
+    {
+      "id": "gang-starr-gotta-get-over-taking-loot",
+      "artist": "Gang Starr",
+      "title": "Gotta Get Over (Taking Loot)",
+      "videoId": "wnVHC2xMghE",
+      "status": "metadata_available",
+      "videoTitle": "Gotta Get Over (Taking Loot)",
+      "channel": "Gang Starr - Topic"
+    },
+    {
+      "id": "gang-starr-no-shame-in-my-game",
+      "artist": "Gang Starr",
+      "title": "No Shame in My Game",
+      "videoId": "RzuD6pM8P7o",
+      "status": "metadata_available",
+      "videoTitle": "No Shame In My Game",
+      "channel": "Gang Starr - Topic"
+    },
+    {
+      "id": "gang-starr-step-in-the-arena",
+      "artist": "Gang Starr",
+      "title": "Step in the Arena",
+      "videoId": "DcOxPVilxrg",
+      "status": "metadata_available",
+      "videoTitle": "Step In The Arena",
+      "channel": "Gang Starr - Topic"
+    },
+    {
+      "id": "dj-shadow-in-flux",
+      "artist": "DJ Shadow",
+      "title": "In/Flux",
+      "videoId": "-hGT0T-Oc_k",
+      "status": "metadata_available",
+      "videoTitle": "In/Flux",
+      "channel": "DJ Shadow - Topic"
+    },
+    {
+      "id": "dj-shadow-lost-and-found-sfl",
+      "artist": "DJ Shadow",
+      "title": "Lost and Found (S.F.L.)",
+      "videoId": "SHV8rWDUTfs",
+      "status": "metadata_available",
+      "videoTitle": "Lost And Found (S.F.L.)",
+      "channel": "DJ Shadow - Topic"
+    },
+    {
+      "id": "dj-shadow-what-does-your-soul-look-like",
+      "artist": "DJ Shadow",
+      "title": "What Does Your Soul Look Like (Pt. 1 / Blue Sky Revisit)",
+      "videoId": "DyzGu8ZaCrw",
+      "status": "metadata_available",
+      "videoTitle": "What Does Your Soul Look Like (Part 1) (Blue Sky Revisit)",
+      "channel": "DJ Shadow - Topic"
+    },
+    {
+      "id": "dj-shadow-high-noon",
+      "artist": "DJ Shadow",
+      "title": "High Noon",
+      "videoId": "-flSzjEzP64",
+      "status": "metadata_available",
+      "videoTitle": "DJ Shadow - High Noon",
+      "channel": "DJShadowVEVO"
+    },
+    {
+      "id": "dj-shadow-the-number-song",
+      "artist": "DJ Shadow",
+      "title": "The Number Song",
+      "videoId": "odlhSQqOXL8",
+      "status": "metadata_available",
+      "videoTitle": "The Number Song",
+      "channel": "DJ Shadow - Topic"
+    },
+    {
+      "id": "dj-shadow-the-number-song-cut-chemist-remix",
+      "artist": "DJ Shadow",
+      "title": "The Number Song (Cut Chemist Remix)",
+      "videoId": "c0CKXOCOX3o",
+      "status": "metadata_available",
+      "videoTitle": "The Number Song (Cut Chemist Remix)",
+      "channel": "DJ Shadow - Topic"
+    },
+    {
+      "id": "dj-shadow-building-steam-with-a-grain-of-salt",
+      "artist": "DJ Shadow",
+      "title": "Building Steam With a Grain of Salt",
+      "videoId": "HORLJvUMs08",
+      "status": "metadata_available",
+      "videoTitle": "Building Steam With A Grain Of Salt",
+      "channel": "DJ Shadow - Topic"
+    },
+    {
+      "id": "dj-shadow-stem-long-stem",
+      "artist": "DJ Shadow",
+      "title": "Stem/Long Stem",
+      "videoId": "_peZsVcKmMo",
+      "status": "metadata_available",
+      "videoTitle": "Stem / Long Stem (Medley)",
+      "channel": "DJ Shadow - Topic"
+    },
+    {
+      "id": "unkle-rabbit-in-your-headlights",
+      "artist": "UNKLE",
+      "title": "Rabbit in Your Headlights",
+      "videoId": "7gj6t4CTiCI",
+      "status": "metadata_available",
+      "videoTitle": "Rabbit in Your Headlights",
+      "channel": "UNKLE - Topic"
+    },
+    {
+      "id": "unkle-lonely-soul",
+      "artist": "UNKLE",
+      "title": "Lonely Soul",
+      "videoId": "XrFECnl3vno",
+      "status": "metadata_available",
+      "videoTitle": "Lonely Soul",
+      "channel": "UNKLE - Topic"
+    },
+    {
+      "id": "dj-shadow-six-days",
+      "artist": "DJ Shadow",
+      "title": "Six Days",
+      "videoId": "BEqHME6XUi8",
+      "status": "metadata_available",
+      "videoTitle": "Six Days",
+      "channel": "DJ Shadow - Topic"
+    },
+    {
+      "id": "dj-shadow-mashin-on-the-motorway",
+      "artist": "DJ Shadow",
+      "title": "Mashin' on the Motorway",
+      "videoId": "mKibXhFqPjA",
+      "status": "metadata_available",
+      "videoTitle": "DJ Shadow - Mashin' On The Motorway",
+      "channel": "DJShadowVEVO"
+    },
+    {
+      "id": "dj-shadow-scale-it-back",
+      "artist": "DJ Shadow",
+      "title": "Scale It Back",
+      "videoId": "NL9ypNz9-mM",
+      "status": "metadata_available",
+      "videoTitle": "DJ Shadow - Scale It Back ft. Little Dragon",
+      "channel": "DJShadowVEVO"
+    },
+    {
+      "id": "dj-shadow-the-mountain-will-fall",
+      "artist": "DJ Shadow",
+      "title": "The Mountain Will Fall",
+      "videoId": "0Oyti58LzS8",
+      "status": "metadata_available",
+      "videoTitle": "DJ Shadow - The Mountain Will Fall (Official Video)",
+      "channel": "Mass Appeal"
+    },
+    {
+      "id": "dj-shadow-nobody-speak",
+      "artist": "DJ Shadow",
+      "title": "Nobody Speak",
+      "videoId": "FX0ol1zksD4",
+      "status": "metadata_available",
+      "videoTitle": "Nobody Speak",
+      "channel": "DJ Shadow - Topic"
+    },
+    {
+      "id": "dj-shadow-rocket-fuel",
+      "artist": "DJ Shadow",
+      "title": "Rocket Fuel",
+      "videoId": "7l8oRPz2jZY",
+      "status": "metadata_available",
+      "videoTitle": "Rocket Fuel",
+      "channel": "DJ Shadow - Topic"
+    },
+    {
+      "id": "dj-shadow-ozone-scraper",
+      "artist": "DJ Shadow",
+      "title": "Ozone Scraper",
+      "videoId": "uTWjjonLJrU",
+      "status": "metadata_available",
+      "videoTitle": "Ozone Scraper",
+      "channel": "DJ Shadow - Topic"
+    },
+    {
+      "id": "slum-village-players",
+      "artist": "Slum Village",
+      "title": "Players",
+      "videoId": "EZXXqfUBbLM",
+      "status": "metadata_available",
+      "videoTitle": "Players",
+      "channel": "Slum Village - Topic"
+    },
+    {
+      "id": "slum-village-get-dis-money",
+      "artist": "Slum Village",
+      "title": "Get Dis Money",
+      "videoId": "tah5UC2hdrk",
+      "status": "metadata_available",
+      "videoTitle": "Get Dis Money",
+      "channel": "Slum Village - Topic"
+    },
+    {
+      "id": "j-dilla-fuck-the-police",
+      "artist": "J Dilla",
+      "title": "Fuck the Police",
+      "videoId": "uty23F-3nL0",
+      "status": "metadata_available",
+      "videoTitle": "Fuck the Police",
+      "channel": "J Dilla - Topic"
+    },
+    {
+      "id": "jaylib-the-red",
+      "artist": "Jaylib",
+      "title": "The Red",
+      "videoId": "VRzRSCRZweY",
+      "status": "metadata_available",
+      "videoTitle": "Jaylib - The Red",
+      "channel": "Stones Throw"
+    },
+    {
+      "id": "j-dilla-workinonit",
+      "artist": "J Dilla",
+      "title": "Workinonit",
+      "videoId": "ogwouE_Msd4",
+      "status": "metadata_available",
+      "videoTitle": "Workinonit",
+      "channel": "J Dilla - Topic"
+    },
+    {
+      "id": "j-dilla-time-the-donut-of-the-heart",
+      "artist": "J Dilla",
+      "title": "Time: The Donut of the Heart",
+      "videoId": "0vmhgotEByc",
+      "status": "metadata_available",
+      "videoTitle": "Time: The Donut of the Heart",
+      "channel": "J Dilla - Topic"
+    },
+    {
+      "id": "j-dilla-last-donut-of-the-night",
+      "artist": "J Dilla",
+      "title": "Last Donut of the Night",
+      "videoId": "rcbd-r1xC2o",
+      "status": "metadata_available",
+      "videoTitle": "Last Donut Of The Night",
+      "channel": "J Dilla - Topic"
+    },
+    {
+      "id": "erykah-badu-didnt-cha-know",
+      "artist": "Erykah Badu",
+      "title": "Didn't Cha Know",
+      "videoId": "b4fCymLkgOQ",
+      "status": "metadata_available",
+      "videoTitle": "Didn't Cha Know",
+      "channel": "Erykah Badu - Topic"
+    },
+    {
+      "id": "janet-jackson-got-til-its-gone",
+      "artist": "Janet Jackson",
+      "title": "Got 'Til It's Gone",
+      "videoId": "aL5T6uGs-zU",
+      "status": "metadata_available",
+      "videoTitle": "Got 'Til It's Gone",
+      "channel": "Janet Jackson - Topic"
+    },
+    {
+      "id": "janet-jackson-got-til-its-gone-jay-dees-revenge-mix",
+      "artist": "Janet Jackson",
+      "title": "Got 'Til It's Gone (Ummah Jay Dee's Revenge Mix)",
+      "videoId": "mJTFwnvdLhM",
+      "status": "metadata_available",
+      "videoTitle": "Got 'Til It's Gone (Ummah Jay Dee's Revenge Mix)",
+      "channel": "Janet Jackson - Topic"
+    },
+    {
+      "id": "lootpack-whenimondamic",
+      "artist": "Lootpack",
+      "title": "Whenimondamic",
+      "videoId": "-VYE0w9evbQ",
+      "status": "metadata_available",
+      "videoTitle": "Lootpack (Madlib, Wildchild & DJ Romes) - Whenimondamic [Official Music Video]",
+      "channel": "Stones Throw"
+    },
+    {
+      "id": "quasimoto-microphone-mathematics",
+      "artist": "Quasimoto",
+      "title": "Microphone Mathematics",
+      "videoId": "P7R8NTfarRA",
+      "status": "metadata_available",
+      "videoTitle": "Microphone Mathematics",
+      "channel": "Quasimoto - Topic"
+    },
+    {
+      "id": "quasimoto-low-class-conspiracy",
+      "artist": "Quasimoto",
+      "title": "Low Class Conspiracy",
+      "videoId": "a7F2HfM9OYY",
+      "status": "metadata_available",
+      "videoTitle": "Low Class Conspiracy",
+      "channel": "Quasimoto - Topic"
+    },
+    {
+      "id": "madlib-slims-return",
+      "artist": "Madlib",
+      "title": "Slim's Return",
+      "videoId": "78E1ZFpHOJI",
+      "status": "metadata_available",
+      "videoTitle": "Slim's Return",
+      "channel": "Madlib - Topic"
+    },
+    {
+      "id": "madvillain-americas-most-blunted",
+      "artist": "Madvillain",
+      "title": "America's Most Blunted",
+      "videoId": "Fw_qKG1xe_8",
+      "status": "metadata_available",
+      "videoTitle": "America's Most Blunted",
+      "channel": "Madvillain - Topic"
+    },
+    {
+      "id": "madvillain-accordion",
+      "artist": "Madvillain",
+      "title": "Accordion",
+      "videoId": "bGCHT6fIEBw",
+      "status": "metadata_available",
+      "videoTitle": "Accordion",
+      "channel": "Madvillain - Topic"
+    },
+    {
+      "id": "madvillain-all-caps",
+      "artist": "Madvillain",
+      "title": "All Caps",
+      "videoId": "NPiAK33CfxQ",
+      "status": "metadata_available",
+      "videoTitle": "All Caps",
+      "channel": "Madvillain - Topic"
+    },
+    {
+      "id": "madvillain-meat-grinder",
+      "artist": "Madvillain",
+      "title": "Meat Grinder",
+      "videoId": "FoasIcgem0w",
+      "status": "metadata_available",
+      "videoTitle": "Meat Grinder",
+      "channel": "Madvillain - Topic"
+    },
+    {
+      "id": "freddie-gibbs-madlib-thuggin",
+      "artist": "Freddie Gibbs & Madlib",
+      "title": "Thuggin'",
+      "videoId": "a2qSiFP0_4M",
+      "status": "metadata_available",
+      "videoTitle": "Thuggin’",
+      "channel": "Freddie Gibbs - Topic"
+    },
+    {
+      "id": "freddie-gibbs-madlib-crime-pays",
+      "artist": "Freddie Gibbs & Madlib",
+      "title": "Crime Pays",
+      "videoId": "99G6GU7Vv4g",
+      "status": "metadata_available",
+      "videoTitle": "Crime Pays",
+      "channel": "Freddie Gibbs - Topic"
+    },
+    {
+      "id": "madlib-road-of-the-lonely-ones",
+      "artist": "Madlib",
+      "title": "Road of the Lonely Ones",
+      "videoId": "Y52M28WQu2s",
+      "status": "metadata_available",
+      "videoTitle": "Madlib - Road of the Lonely Ones",
+      "channel": "Madlib Invazion"
+    },
+    {
+      "id": "mf-doom-one-beer",
+      "artist": "MF DOOM",
+      "title": "One Beer",
+      "videoId": "ypClJkPhx8o",
+      "status": "metadata_available",
+      "videoTitle": "One Beer",
+      "channel": "MF Doom - Topic"
+    },
+    {
+      "id": "de-la-soul-shopping-bags",
+      "artist": "De La Soul",
+      "title": "Shopping Bags (She Got from You)",
+      "videoId": "TKDHqAMa7T8",
+      "status": "metadata_available",
+      "videoTitle": "De La Soul - Shopping Bags (She Got From You) (Official HD Video)",
+      "channel": "De La Soul"
+    },
+    {
+      "id": "mos-def-auditorium",
+      "artist": "Mos Def",
+      "title": "Auditorium",
+      "videoId": "11q1woSYCKg",
+      "status": "metadata_available",
+      "videoTitle": "Mos Def - Auditorium (High Quality)",
+      "channel": "broncos20"
+    },
+    {
+      "id": "kanye-west-no-more-parties-in-la",
+      "artist": "Kanye West",
+      "title": "No More Parties in LA",
+      "videoId": "0F5CSjcRZxU",
+      "status": "metadata_available",
+      "videoTitle": "No More Parties In LA",
+      "channel": "Kanye West - Topic"
+    },
+    {
+      "id": "dj-shadow-organ-donor-extended-overhaul",
+      "artist": "DJ Shadow",
+      "title": "Organ Donor (Extended Overhaul)",
+      "videoId": "C2MmSXrfK9s",
+      "status": "metadata_available",
+      "videoTitle": "Organ Donor (Extended Overhaul)",
+      "channel": "DJ Shadow - Topic"
+    },
+    {
+      "id": "j-live-hush-the-crowd",
+      "artist": "J-Live",
+      "title": "Hush The Crowd",
+      "videoId": "xEdU17puTwk",
+      "status": "metadata_available",
+      "videoTitle": "Hush The Crowd",
+      "channel": "J-Live - Topic"
+    },
+    {
+      "id": "dead-poetz-society-lick-a-shot-remix",
+      "artist": "Dead Poetz Society",
+      "title": "Lick A Shot (Remix)",
+      "videoId": "Y4IEL4tpMFI",
+      "status": "metadata_available",
+      "videoTitle": "Dead Poetz Society - Lick A Shot (Remix)",
+      "channel": "Indie Cratez"
+    },
+    {
+      "id": "the-roots-push-up-ya-lighter",
+      "artist": "The Roots",
+      "title": "Push Up Ya Lighter",
+      "videoId": "nZleKw7FmvQ",
+      "status": "metadata_available",
+      "videoTitle": "Push Up Ya Lighter (Album Version)",
+      "channel": "The Roots - Topic"
+    },
+    {
+      "id": "ed-o-g-what-u-got",
+      "artist": "Ed O.G",
+      "title": "What U Got",
+      "videoId": "WlS2HKo56Vc",
+      "status": "metadata_available",
+      "videoTitle": "What U Got",
+      "channel": "Edo. G - Topic"
+    },
+    {
+      "id": "camp-lo-swing",
+      "artist": "Camp Lo",
+      "title": "Swing",
+      "videoId": "hIQZCKOFjlk",
+      "status": "metadata_available",
+      "videoTitle": "Camp Lo - Swing (Official Audio)",
+      "channel": "CampLoVEVO"
+    },
+    {
+      "id": "a-tribe-called-quest-crew",
+      "artist": "A Tribe Called Quest",
+      "title": "Crew",
+      "videoId": "dlqeEO7Ogdw",
+      "status": "metadata_available",
+      "videoTitle": "Crew",
+      "channel": "A Tribe Called Quest - Topic"
+    },
+    {
+      "id": "heltah-skeltah-therapy",
+      "artist": "Heltah Skeltah",
+      "title": "Therapy",
+      "videoId": "XOlFG96mpHk",
+      "status": "metadata_available",
+      "videoTitle": "Therapy",
+      "channel": "Heltah Skeltah - Topic"
+    },
+    {
+      "id": "bush-babees-feat-mos-def-the-love-song",
+      "artist": "Bush Babees feat. Mos Def",
+      "title": "The Love Song",
+      "videoId": "2SgUWz6jCrY",
+      "status": "metadata_available",
+      "videoTitle": "The Love Song (feat. Mos Def)",
+      "channel": "Bush Babees - Topic"
+    },
+    {
+      "id": "big-noyd-usual-suspect-stretch-armstrong-remix",
+      "artist": "Big Noyd",
+      "title": "Usual Suspect (Stretch Armstrong Remix)",
+      "videoId": "U5Tp8aEmkYk",
+      "status": "metadata_available",
+      "videoTitle": "Usual Suspect (Stretch Armstrong Remix)",
+      "channel": "Big Noyd - Topic"
+    },
+    {
+      "id": "sadat-x-the-lump-lump-nubian-mix",
+      "artist": "Sadat X",
+      "title": "The Lump Lump (Nubian Mix)",
+      "videoId": "7osV4Rb0OaA",
+      "status": "metadata_available",
+      "videoTitle": "The Lump Lump (Nubian Mix)",
+      "channel": "Sadat X - Topic"
+    },
+    {
+      "id": "krs-one-feat-busta-rhymes-build-ya-skillz",
+      "artist": "KRS-One feat. Busta Rhymes",
+      "title": "Build Ya Skillz",
+      "videoId": "_9R4fCvcbbI",
+      "status": "metadata_available",
+      "videoTitle": "Build Ya Skillz",
+      "channel": "KRS ONE - Topic"
+    },
+    {
+      "id": "o-c-o-zone",
+      "artist": "O.C.",
+      "title": "O-Zone",
+      "videoId": "OXC9OMSsouQ",
+      "status": "metadata_available",
+      "videoTitle": "O-Zone",
+      "channel": "O.C. - Topic"
+    },
+    {
+      "id": "grand-puba-a-little-of-this",
+      "artist": "Grand Puba",
+      "title": "A Little Of This",
+      "videoId": "p8Fp8FGqa7c",
+      "status": "metadata_available",
+      "videoTitle": "Grand Puba - A Little of This (Official Music Video)",
+      "channel": "Tommy Boy"
+    },
+    {
+      "id": "az-gimme-yours",
+      "artist": "AZ",
+      "title": "Gimme Yours",
+      "videoId": "Rtow-CvKIjY",
+      "status": "metadata_available",
+      "videoTitle": "AZ - Gimme Yours (Album Version)",
+      "channel": "UPROXX"
+    },
+    {
+      "id": "mobb-deep-up-north-trip",
+      "artist": "Mobb Deep",
+      "title": "Up North Trip",
+      "videoId": "TvUj93m2rj8",
+      "status": "metadata_available",
+      "videoTitle": "Mobb Deep - Up North Trip (Official Audio)",
+      "channel": "MobbDeepVEVO"
+    },
+    {
+      "id": "a-tribe-called-quest-sucka-nigga",
+      "artist": "A Tribe Called Quest",
+      "title": "Sucka Nigga",
+      "videoId": "a6FMOgkLS5c",
+      "status": "metadata_available",
+      "videoTitle": "A Tribe Called Quest - Sucka Ni**a (Official Audio)",
+      "channel": "Certified"
+    },
+    {
+      "id": "o-c-organized-konfusion-you-won-t-go-far",
+      "artist": "O.C. & Organized Konfusion",
+      "title": "You Won't Go Far",
+      "videoId": "X0O5AvA3EzQ",
+      "status": "metadata_available",
+      "videoTitle": "You Won't Go Far",
+      "channel": "O.C. - Topic"
+    },
+    {
+      "id": "big-l-all-black",
+      "artist": "Big L",
+      "title": "All Black",
+      "videoId": "pMoBAk-HFIg",
+      "status": "metadata_available",
+      "videoTitle": "Big L - All Black (Official Audio)",
+      "channel": "Certified"
+    },
+    {
+      "id": "smif-n-wessun-let-s-git-it-on",
+      "artist": "Smif-N-Wessun",
+      "title": "Let's Git It On",
+      "videoId": "L1n1dSFQbDQ",
+      "status": "metadata_available",
+      "videoTitle": "Smif-N-Wessun - Let's Git It On",
+      "channel": "NervousRecordsNYC"
+    },
+    {
+      "id": "black-moon-how-many-mc-s",
+      "artist": "Black Moon",
+      "title": "How Many MC's",
+      "videoId": "_-eVgV4PzX8",
+      "status": "metadata_available",
+      "videoTitle": "Black Moon - How Many MC's...",
+      "channel": "NervousRecordsNYC"
+    },
+    {
+      "id": "group-home-up-against-the-wall-low-budget-mix",
+      "artist": "Group Home",
+      "title": "Up Against The Wall (Low Budget Mix)",
+      "videoId": "rxC04ZRnweQ",
+      "status": "metadata_available",
+      "videoTitle": "Up Against The Wall (Low Budget Mix)",
+      "channel": "Group Home - Topic"
+    },
+    {
+      "id": "kool-g-rap-blowin-up-in-the-world",
+      "artist": "Kool G Rap",
+      "title": "Blowin' Up In The World",
+      "videoId": "BHQZ3R6d2iw",
+      "status": "metadata_available",
+      "videoTitle": "Blowin' Up In The World",
+      "channel": "Kool G Rap - Topic"
+    },
+    {
+      "id": "o-c-word-life",
+      "artist": "O.C.",
+      "title": "Word...Life",
+      "videoId": "pfX6kkaSavU",
+      "status": "metadata_available",
+      "videoTitle": "Word... Life",
+      "channel": "O.C. - Topic"
+    },
+    {
+      "id": "the-roots-distortion-to-static",
+      "artist": "The Roots",
+      "title": "Distortion To Static",
+      "videoId": "6p2ACcMcPNQ",
+      "status": "metadata_available",
+      "videoTitle": "Distortion To Static",
+      "channel": "The Roots - Topic"
+    },
+    {
+      "id": "erick-sermon-bomdigi",
+      "artist": "Erick Sermon",
+      "title": "Bomdigi",
+      "videoId": "7L5RK3imxsY",
+      "status": "metadata_available",
+      "videoTitle": "Bomdigi",
+      "channel": "Erick Sermon - Topic"
+    },
+    {
+      "id": "pete-rock-c-l-smooth-the-main-ingredient",
+      "artist": "Pete Rock & C.L. Smooth",
+      "title": "The Main Ingredient",
+      "videoId": "40HeNBPN7h0",
+      "status": "metadata_available",
+      "videoTitle": "The Main Ingredient",
+      "channel": "Pete Rock - Topic"
+    },
+    {
+      "id": "pete-rock-c-l-smooth-worldwide",
+      "artist": "Pete Rock & C.L. Smooth",
+      "title": "Worldwide",
+      "videoId": "n4q0YRdSyGk",
+      "status": "metadata_available",
+      "videoTitle": "Worldwide",
+      "channel": "Pete Rock - Topic"
+    },
+    {
+      "id": "black-moon-buck-em-down",
+      "artist": "Black Moon",
+      "title": "Buck 'Em Down",
+      "videoId": "7TNWygvSWuc",
+      "status": "metadata_available",
+      "videoTitle": "Buck 'Em Down",
+      "channel": "Black Moon - Topic"
+    },
+    {
+      "id": "common-breaker-1-9",
+      "artist": "Common",
+      "title": "Breaker 1/9",
+      "videoId": "c_wDx_dildg",
+      "status": "metadata_available",
+      "videoTitle": "Common - Breaker 1/9 (Official Video)",
+      "channel": "CommonVEVO"
+    },
+    {
+      "id": "das-efx-mic-checka",
+      "artist": "Das EFX",
+      "title": "Mic Checka",
+      "videoId": "yfq9VVttjP4",
+      "status": "metadata_available",
+      "videoTitle": "Mic Checka",
+      "channel": "Das Efx - Topic"
+    },
+    {
+      "id": "cypress-hill-stoned-is-the-way-of-the-walk",
+      "artist": "Cypress Hill",
+      "title": "Stoned Is The Way Of The Walk",
+      "videoId": "lOoFd-QS2gw",
+      "status": "metadata_available",
+      "videoTitle": "Stoned Is the Way of the Walk",
+      "channel": "Cypress Hill - Topic"
+    },
+    {
+      "id": "a-tribe-called-quest-vibes-and-stuff",
+      "artist": "A Tribe Called Quest",
+      "title": "Vibes And Stuff",
+      "videoId": "HHUuUbLr3nA",
+      "status": "metadata_available",
+      "videoTitle": "A Tribe Called Quest - Vibes and Stuff (Official Audio)",
+      "channel": "TribeCalledQuestVEVO"
+    },
+    {
+      "id": "brand-nubian-steady-bootleggin",
+      "artist": "Brand Nubian",
+      "title": "Steady Bootleggin'",
+      "videoId": "QINCxEkw_VQ",
+      "status": "metadata_available",
+      "videoTitle": "Brand Nubian - Steady Bootleggin'",
+      "channel": "Tommy Boy"
+    },
+    {
+      "id": "epmd-underground",
+      "artist": "EPMD",
+      "title": "Underground",
+      "videoId": "HpVSGfVeJsI",
+      "status": "metadata_available",
+      "videoTitle": "Underground",
+      "channel": "EPMD - Topic"
+    },
+    {
+      "id": "chubb-rock-the-one",
+      "artist": "Chubb Rock",
+      "title": "The One",
+      "videoId": "aOTMJec7spY",
+      "status": "metadata_available",
+      "videoTitle": "The One",
+      "channel": "Chubb Rock - Topic"
+    },
+    {
+      "id": "big-daddy-kane-taste-of-chocolate-video-version",
+      "artist": "Big Daddy Kane",
+      "title": "Taste of Chocolate (Video Version)",
+      "videoId": "EMenxKvBGe4",
+      "status": "metadata_available",
+      "videoTitle": "Big Daddy Kane - Taste Of Chocolate (Video Version)",
+      "channel": "Warner Records"
+    },
+    {
+      "id": "pete-rock-c-l-smooth-anger-in-the-nation",
+      "artist": "Pete Rock & C.L. Smooth",
+      "title": "Anger In The Nation",
+      "videoId": "l_ALUyVuL4Q",
+      "status": "metadata_available",
+      "videoTitle": "Pete Rock & C.L. Smooth - Anger In The Nation",
+      "channel": "Pete Rock Official"
+    },
+    {
+      "id": "lord-finesse-dj-mike-smooth-bud-mutha",
+      "artist": "Lord Finesse & DJ Mike Smooth",
+      "title": "Bud Mutha",
+      "videoId": "DC2_H8Jf088",
+      "status": "metadata_available",
+      "videoTitle": "Bud Mutha",
+      "channel": "Lord Finesse - Topic"
+    },
+    {
+      "id": "slick-rick-it-s-a-boy",
+      "artist": "Slick Rick",
+      "title": "It's A Boy",
+      "videoId": "AGSeD4_CAv8",
+      "status": "metadata_available",
+      "videoTitle": "It's A Boy",
+      "channel": "Slick Rick - Topic"
+    },
+    {
+      "id": "poor-righteous-teachers-shakiyla-jrh",
+      "artist": "Poor Righteous Teachers",
+      "title": "Shakiyla (JRH)",
+      "videoId": "jJFfMJq5o34",
+      "status": "metadata_available",
+      "videoTitle": "Poor Righteous Teachers - Shakiyla (Official Video)",
+      "channel": "PoorRightTeachVEVO"
+    },
+    {
+      "id": "3rd-bass-derelicts-of-dialect",
+      "artist": "3rd Bass",
+      "title": "Derelicts Of Dialect",
+      "videoId": "qoUAC_DRqqE",
+      "status": "metadata_available",
+      "videoTitle": "Derelicts Of Dialect",
+      "channel": "3rd Bass - Topic"
+    },
+    {
+      "id": "tim-dog-i-ain-t-havin-it-feat-kool-keith",
+      "artist": "Tim Dog",
+      "title": "I Ain't Havin' It (feat. Kool Keith)",
+      "videoId": "4e_XPk30tYE",
+      "status": "metadata_available",
+      "videoTitle": "I Ain't Havin' It",
+      "channel": "Tim Dog - Topic"
+    },
+    {
+      "id": "ll-cool-j-the-boomin-system",
+      "artist": "LL Cool J",
+      "title": "The Boomin' System",
+      "videoId": "qdyMQOlbxis",
+      "status": "metadata_available",
+      "videoTitle": "LL COOL J - The Boomin' System (Official Music Video)",
+      "channel": "LLCoolJVEVO"
+    },
+    {
+      "id": "cypress-hill-hand-on-the-pump",
+      "artist": "Cypress Hill",
+      "title": "Hand On The Pump",
+      "videoId": "ybTtI0pAN4c",
+      "status": "metadata_available",
+      "videoTitle": "Hand On the Pump",
+      "channel": "Cypress Hill - Topic"
+    },
+    {
+      "id": "de-la-soul-oodles-of-o-s",
+      "artist": "De La Soul",
+      "title": "Oodles Of O's",
+      "videoId": "nAjVaRdBDY0",
+      "status": "metadata_available",
+      "videoTitle": "De La Soul - Oodles of O's (Official Audio)",
+      "channel": "WeAreDeLaSoul"
+    },
+    {
+      "id": "brand-nubian-love-me-or-leave-me-alone",
+      "artist": "Brand Nubian",
+      "title": "Love Me Or Leave Me Alone",
+      "videoId": "bsGg6rtH8UY",
+      "status": "metadata_available",
+      "videoTitle": "Love Me or Leave Me Alone",
+      "channel": "Brand Nubian - Topic"
+    },
+    {
+      "id": "nice-smooth-how-to-flow",
+      "artist": "Nice & Smooth",
+      "title": "How To Flow",
+      "videoId": "LCTP0rY3UtU",
+      "status": "metadata_available",
+      "videoTitle": "How To Flow",
+      "channel": "Nice & Smooth - Topic"
+    },
+    {
+      "id": "showbiz-a-g-he-say-she-say",
+      "artist": "Showbiz & A.G.",
+      "title": "He Say, She Say",
+      "videoId": "zmDwBrbbk40",
+      "status": "metadata_available",
+      "videoTitle": "He Say, She Say",
+      "channel": "Showbiz & A.G. - Topic"
+    },
+    {
+      "id": "diamond-the-psychotic-neurotics-freestyle-yo-that-s-that-shit",
+      "artist": "Diamond & The Psychotic Neurotics",
+      "title": "Freestyle (Yo, That's That Shit)",
+      "videoId": "TxL231R4zPI",
+      "status": "metadata_available",
+      "videoTitle": "Freestyle (Yo, That's That Sh...)",
+      "channel": "Diamond & The Psychotic Neurotics - Topic"
+    },
+    {
+      "id": "eric-b-rakim-what-s-on-your-mind",
+      "artist": "Eric B. & Rakim",
+      "title": "What's On Your Mind?",
+      "videoId": "UPuE9YyPlxs",
+      "status": "metadata_available",
+      "videoTitle": "What's On Your Mind",
+      "channel": "Eric B. - Topic"
+    },
+    {
+      "id": "da-bush-babees-we-run-things-it-s-like-dat",
+      "artist": "Da Bush Babees",
+      "title": "We Run Things (It's Like Dat)",
+      "videoId": "F5ftZHTyiTk",
+      "status": "metadata_available",
+      "videoTitle": "We Run Things (It's Like Dat)",
+      "channel": "Da Bush Babees - Topic"
+    },
+    {
+      "id": "the-pharcyde-4-better-or-4-worse",
+      "artist": "The Pharcyde",
+      "title": "4 Better Or 4 Worse",
+      "videoId": "ReNR_pImYMc",
+      "status": "metadata_available",
+      "videoTitle": "The Pharcyde - 4  Better Or 4 Worse (Official Audio)",
+      "channel": "Craft Recordings"
+    },
+    {
+      "id": "da-king-i-flip-da-scrip",
+      "artist": "Da King & I",
+      "title": "Flip Da Scrip",
+      "videoId": "cyTcT0FNf-s",
+      "status": "metadata_available",
+      "videoTitle": "Flip Da Scrip",
+      "channel": "Da King & I - Topic"
+    },
+    {
+      "id": "kirk-uptown-style",
+      "artist": "Kirk",
+      "title": "Uptown Style",
+      "videoId": "TZPDLV0p1lE",
+      "status": "metadata_available",
+      "videoTitle": "Kirk - Uptown Style (1994)",
+      "channel": "Beats Cartel Radio 📻 "
+    },
+    {
+      "id": "super-lover-cee-casanova-rud-this-dub-s-for-you",
+      "artist": "Super Lover Cee & Casanova Rud",
+      "title": "This Dub's For You",
+      "videoId": "p1n1T4BNyTs",
+      "status": "metadata_available",
+      "videoTitle": "This Dub's For You",
+      "channel": "Super Lover Cee & Casanova Rud - Topic"
+    },
+    {
+      "id": "nice-smooth-old-to-the-new",
+      "artist": "Nice & Smooth",
+      "title": "Old To The New",
+      "videoId": "4qEC7bLauzA",
+      "status": "metadata_available",
+      "videoTitle": "Old To The New",
+      "channel": "Nice & Smooth - Topic"
+    },
+    {
+      "id": "da-youngsta-s-pass-da-mic",
+      "artist": "Da Youngsta's",
+      "title": "Pass Da Mic",
+      "videoId": "CZdVKKYS8fw",
+      "status": "metadata_available",
+      "videoTitle": "Pass da Mic",
+      "channel": "Da Youngsta's - Topic"
+    },
+    {
+      "id": "zhigge-toss-it-up",
+      "artist": "Zhigge",
+      "title": "Toss It Up",
+      "videoId": "SppBdb8Iiw4",
+      "status": "metadata_available",
+      "videoTitle": "Toss It Up",
+      "channel": "Zhigge - Topic"
+    },
+    {
+      "id": "mesanjarz-of-funk-flip-da-script",
+      "artist": "Mesanjarz of Funk",
+      "title": "Flip Da Script",
+      "videoId": "GnPf770BoY0",
+      "status": "metadata_available",
+      "videoTitle": "Mesanjarz Of Funk – Fllp Da Script 1993",
+      "channel": "90s hiphop 90s"
+    },
+    {
+      "id": "leaders-of-the-new-school-what-s-next",
+      "artist": "Leaders of the New School",
+      "title": "What's Next?",
+      "videoId": "WAfA0lUmR-o",
+      "status": "metadata_available",
+      "videoTitle": "Leaders Of The New School - What's Next (Official Video)",
+      "channel": "Atlantic Records"
+    },
+    {
+      "id": "neneh-cherry-i-ain-t-gone-under-yet",
+      "artist": "Neneh Cherry",
+      "title": "I Ain't Gone Under Yet",
+      "videoId": "2PnZg6ucu9Y",
+      "status": "metadata_available",
+      "videoTitle": "I Ain't Gone Under Yet",
+      "channel": "Neneh Cherry - Topic"
+    },
+    {
+      "id": "trends-of-culture-valley-of-the-skinz",
+      "artist": "Trends of Culture",
+      "title": "Valley Of The Skinz",
+      "videoId": "nKEUBQGB-Sc",
+      "status": "metadata_available",
+      "videoTitle": "Valley Of The Skinz",
+      "channel": "Trends of Culture - Topic"
+    },
+    {
+      "id": "the-beatnuts-rik-s-joint",
+      "artist": "The Beatnuts",
+      "title": "Rik's Joint",
+      "videoId": "E72bSQ5yaSk",
+      "status": "metadata_available",
+      "videoTitle": "Rik's Joint",
+      "channel": "The Beatnuts - Topic"
+    },
+    {
+      "id": "m-o-p-rugged-neva-smoove",
+      "artist": "M.O.P.",
+      "title": "Rugged Neva Smoove",
+      "videoId": "s5aK0PMr19k",
+      "status": "metadata_available",
+      "videoTitle": "Rugged Neva Smoove",
+      "channel": "M.O.P. - Topic"
+    },
+    {
+      "id": "champ-mc-keep-it-on-the-real",
+      "artist": "Champ MC",
+      "title": "Keep It On The Real",
+      "videoId": "rPgpKxkwb7o",
+      "status": "metadata_available",
+      "videoTitle": "Champ MC - Keep It On The Real",
+      "channel": "zielonycd"
+    },
+    {
+      "id": "brand-nubian-word-is-bond",
+      "artist": "Brand Nubian",
+      "title": "Word Is Bond",
+      "videoId": "8ztzZbpreLk",
+      "status": "metadata_available",
+      "videoTitle": "Brand Nubian - Word is Bond (Official Music Video)",
+      "channel": "Tommy Boy"
+    },
+    {
+      "id": "boogiemonsters-strange",
+      "artist": "Boogiemonsters",
+      "title": "Strange",
+      "videoId": "YA30TtWBiqI",
+      "status": "metadata_available",
+      "videoTitle": "Boogiemonsters - Strange",
+      "channel": "UPROXX"
+    },
+    {
+      "id": "yaggfu-front-left-field",
+      "artist": "Yaggfu Front",
+      "title": "Left Field",
+      "videoId": "keO7TwUfyQY",
+      "status": "metadata_available",
+      "videoTitle": "Yaggfu Front - Left Field",
+      "channel": "UPROXX"
+    },
+    {
+      "id": "grand-puba-amazing",
+      "artist": "Grand Puba",
+      "title": "Amazing",
+      "videoId": "YPrfLpTPmEQ",
+      "status": "metadata_available",
+      "videoTitle": "Grand Puba - Amazing",
+      "channel": "Tommy Boy"
+    },
+    {
+      "id": "redman-time-4-sum-aksion",
+      "artist": "Redman",
+      "title": "Time 4 Sum Aksion",
+      "videoId": "FMUcfbpcIeg",
+      "status": "metadata_available",
+      "videoTitle": "Time 4 Sumaksion",
+      "channel": "Redman - Topic"
+    },
+    {
+      "id": "k-solo-letterman",
+      "artist": "K-Solo",
+      "title": "Letterman",
+      "videoId": "dbRgpmfkH7k",
+      "status": "metadata_available",
+      "videoTitle": "Letterman",
+      "channel": "K-Solo - Topic"
+    },
+    {
+      "id": "krs-one-i-can-t-wake-up",
+      "artist": "KRS-One",
+      "title": "I Can't Wake Up",
+      "videoId": "ttI_CLDTrjg",
+      "status": "metadata_available",
+      "videoTitle": "I Can't Wake Up",
+      "channel": "KRS ONE - Topic"
+    },
+    {
+      "id": "gang-starr-now-you-re-mine",
+      "artist": "Gang Starr",
+      "title": "Now You're Mine",
+      "videoId": "mWdLy9o8btE",
+      "status": "metadata_available",
+      "videoTitle": "Now You're Mine",
+      "channel": "Gang Starr - Topic"
+    },
+    {
+      "id": "dj-jazzy-jeff-the-fresh-prince-somethin-like-dis",
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "title": "Somethin' Like Dis",
+      "videoId": "FE7NkxW_p4k",
+      "status": "metadata_available",
+      "videoTitle": "Somethin' Like Dis",
+      "channel": "DJ Jazzy Jeff & The Fresh Prince - Topic"
+    },
+    {
+      "id": "doug-e-fresh-bounce",
+      "artist": "Doug E. Fresh",
+      "title": "Bounce",
+      "videoId": "fPYUWak9HYA",
+      "status": "metadata_available",
+      "videoTitle": "Doug E Fresh - Bounce (Non-Explicit)",
+      "channel": "Black Watch"
+    },
+    {
+      "id": "das-efx-looseys",
+      "artist": "Das EFX",
+      "title": "Looseys",
+      "videoId": "KzGgAtuwgLo",
+      "status": "metadata_available",
+      "videoTitle": "Das EFX - Looseys",
+      "channel": "DASEFXOfficial"
+    },
+    {
+      "id": "the-pharcyde-officer",
+      "artist": "The Pharcyde",
+      "title": "Officer",
+      "videoId": "1aO3MlRbI-I",
+      "status": "metadata_available",
+      "videoTitle": "The Pharcyde - Officer (Official Audio)",
+      "channel": "Craft Recordings"
+    },
+    {
+      "id": "original-flavor-all-that",
+      "artist": "Original Flavor",
+      "title": "All That",
+      "videoId": "p8manoS45bY",
+      "status": "metadata_available",
+      "videoTitle": "Original Flavor - All That",
+      "channel": "Deflective"
+    },
+    {
+      "id": "dred-scott-nutin-ta-lose",
+      "artist": "Dred Scott",
+      "title": "Nutin' Ta Lose",
+      "videoId": "xes7PareGew",
+      "status": "metadata_available",
+      "videoTitle": "Nutin' Ta Lose",
+      "channel": "Dred Scott - Topic"
+    },
+    {
+      "id": "black-maddness-wild-brooklyn-bandits",
+      "artist": "Black Maddness",
+      "title": "Wild Brooklyn Bandits",
+      "videoId": "XKoyiuprNYY",
+      "status": "metadata_available",
+      "videoTitle": "Black Maddness - Wild Brooklyn Bandits (LP Vocal)",
+      "channel": "ForIndyProsperity"
+    },
+    {
+      "id": "queen-latifah-latifah-s-had-it-up-2-here",
+      "artist": "Queen Latifah",
+      "title": "Latifah's Had It Up 2 Here",
+      "videoId": "M1ETEkjD-Mc",
+      "status": "metadata_available",
+      "videoTitle": "Queen Latifah - Latifah's Had it Up 2 Here (Official 4K Music Video)",
+      "channel": "Tommy Boy"
+    },
+    {
+      "id": "n-w-a-express-yourself",
+      "artist": "N.W.A.",
+      "title": "Express Yourself",
+      "videoId": "md4ujXhHzLs",
+      "status": "metadata_available",
+      "videoTitle": "Express Yourself",
+      "channel": "N.W.A. - Topic"
+    },
+    {
+      "id": "cypress-hill-the-phuncky-feel-one",
+      "artist": "Cypress Hill",
+      "title": "The Phuncky Feel One",
+      "videoId": "VZc5zHwE0tk",
+      "status": "metadata_available",
+      "videoTitle": "The Phuncky Feel One",
+      "channel": "Cypress Hill - Topic"
+    },
+    {
+      "id": "double-xx-posse-we-got-it-goin-on",
+      "artist": "Double XX Posse",
+      "title": "We Got It Goin' On",
+      "videoId": "DywzEa-tfW8",
+      "status": "metadata_available",
+      "videoTitle": "We Got It Goin' On",
+      "channel": "Double XX Posse - Topic"
+    },
+    {
+      "id": "chubb-rock-treat-em-right",
+      "artist": "Chubb Rock",
+      "title": "Treat 'Em Right",
+      "videoId": "DSsWt6b2p5Q",
+      "status": "metadata_available",
+      "videoTitle": "Treat 'Em Right",
+      "channel": "Chubb Rock - Topic"
+    },
+    {
+      "id": "epmd-it-s-time-2-party",
+      "artist": "EPMD",
+      "title": "It's Time 2 Party",
+      "videoId": "ZmUd711NQdQ",
+      "status": "metadata_available",
+      "videoTitle": "It's Time 2 Party",
+      "channel": "EPMD - Topic"
+    },
+    {
+      "id": "boogie-down-productions-you-must-learn",
+      "artist": "Boogie Down Productions",
+      "title": "You Must Learn",
+      "videoId": "YfhvP-Gpk50",
+      "status": "metadata_available",
+      "videoTitle": "You Must Learn",
+      "channel": "Boogie Down Productions - Topic"
+    },
+    {
+      "id": "the-troubleneck-brothers-back-to-the-hip-hop",
+      "artist": "The Troubleneck Brothers",
+      "title": "Back To The Hip Hop",
+      "videoId": "DnKphOBOS0o",
+      "status": "metadata_available",
+      "videoTitle": "Troubleneck Brothers - Back To The Hip Hop",
+      "channel": "djjerc"
+    },
+    {
+      "id": "the-notorious-b-i-g-just-playing-dreams",
+      "artist": "The Notorious B.I.G.",
+      "title": "Just Playing (Dreams)",
+      "videoId": "iafrcyFRltw",
+      "status": "metadata_available",
+      "videoTitle": "The Notorious B.I.G. - Just Playing (Dreams) (Official Audio)",
+      "channel": "The Notorious B.I.G."
+    },
+    {
+      "id": "jeru-the-damaja-da-bichez",
+      "artist": "Jeru the Damaja",
+      "title": "Da Bichez",
+      "videoId": "nUIxd9qExLY",
+      "status": "metadata_available",
+      "videoTitle": "Da Bichez",
+      "channel": "Jeru The Damaja - Topic"
+    },
+    {
+      "id": "krs-one-return-of-the-boom-bap",
+      "artist": "KRS-One",
+      "title": "Return Of The Boom Bap",
+      "videoId": "SaNgnnvvt04",
+      "status": "metadata_available",
+      "videoTitle": "Return of the Boom Bap",
+      "channel": "KRS ONE - Topic"
+    },
+    {
+      "id": "akinyele-ak-ha-ha-ak-hoo-hoo",
+      "artist": "Akinyele",
+      "title": "Ak Ha Ha! Ak Hoo Hoo?",
+      "videoId": "3uFIHL0oqVg",
+      "status": "metadata_available",
+      "videoTitle": "Akinyele - Ak Ha Ha Ak Hoo Hoo",
+      "channel": "everydayhiphop"
+    },
+    {
+      "id": "intelligent-hoodlum-at-large",
+      "artist": "Intelligent Hoodlum",
+      "title": "At Large",
+      "videoId": "Z4D-CPpP7ZA",
+      "status": "metadata_available",
+      "videoTitle": "At Large",
+      "channel": "Intelligent Hoodlum - Topic"
+    },
+    {
+      "id": "a-tribe-called-quest-show-business",
+      "artist": "A Tribe Called Quest",
+      "title": "Show Business",
+      "videoId": "6vTn8qUYHEw",
+      "status": "metadata_available",
+      "videoTitle": "Show Business",
+      "channel": "A Tribe Called Quest - Topic"
+    },
+    {
+      "id": "diamond-the-psychotic-neurotics-pass-dat-shit",
+      "artist": "Diamond & The Psychotic Neurotics",
+      "title": "Pass Dat Shit",
+      "videoId": "VvdfFm3yLPo",
+      "status": "metadata_available",
+      "videoTitle": "Pass Dat S**T",
+      "channel": "Diamond & The Psychotic Neurotics - Topic"
+    },
+    {
+      "id": "the-legion-legion-groove",
+      "artist": "The Legion",
+      "title": "Legion Groove",
+      "videoId": "E15_xFGg8Pg",
+      "status": "metadata_available",
+      "videoTitle": "Legion Groove",
+      "channel": "The Legion - Topic"
+    },
+    {
+      "id": "common-take-it-ez",
+      "artist": "Common",
+      "title": "Take It EZ",
+      "videoId": "C8aTvSbI4Ds",
+      "status": "metadata_available",
+      "videoTitle": "Take It EZ",
+      "channel": "Common - Topic"
+    },
+    {
+      "id": "showbiz-a-g-silence-of-the-lambs",
+      "artist": "Showbiz & A.G.",
+      "title": "Silence Of The Lambs",
+      "videoId": "S30t7xawpnk",
+      "status": "metadata_available",
+      "videoTitle": "Silence Of The Lambs",
+      "channel": "Showbiz & A.G. - Topic"
+    },
+    {
+      "id": "original-flavor-feat-jay-z-can-i-get-open",
+      "artist": "Original Flavor feat. Jay-Z",
+      "title": "Can I Get Open",
+      "videoId": "npYPPvgVzZQ",
+      "status": "metadata_available",
+      "videoTitle": "Original Flavor - Can I Get Open? feat. Jay-Z (HD)",
+      "channel": "Ill Al Kush"
+    },
+    {
+      "id": "the-umc-s-never-never-land",
+      "artist": "The UMC's",
+      "title": "Never Never Land",
+      "videoId": "gWQMRjANVLI",
+      "status": "metadata_available",
+      "videoTitle": "Never Never Land",
+      "channel": "The UMC's - Topic"
+    },
+    {
+      "id": "fat-joe-dat-gangsta-shit",
+      "artist": "Fat Joe",
+      "title": "Dat Gangsta Shit",
+      "videoId": "0y_-xyeEVDc",
+      "status": "metadata_available",
+      "videoTitle": "Dat Gangsta Shit",
+      "channel": "Fat Joe - Topic"
+    },
+    {
+      "id": "busta-rhymes-everybody-rise",
+      "artist": "Busta Rhymes",
+      "title": "Everybody Rise",
+      "videoId": "KV2jCirrqXo",
+      "status": "metadata_available",
+      "videoTitle": "Everybody Rise",
+      "channel": "Busta Rhymes - Topic"
+    },
+    {
+      "id": "lord-finesse-yes-you-may-funk-flow-mix",
+      "artist": "Lord Finesse feat. Big L",
+      "title": "Yes You May (Funk Flow Mix)",
+      "videoId": "-riBOFRt2xw",
+      "status": "metadata_available",
+      "videoTitle": "Lord Finesse ft. Big L - Yes You May (Remix) (1992)",
+      "channel": "OfficialEastCoastRap-2"
+    },
+    {
+      "id": "the-roots-without-a-doubt",
+      "artist": "The Roots",
+      "title": "Without a Doubt",
+      "videoId": "IJJzRWO72Po",
+      "status": "metadata_available",
+      "videoTitle": "Without A Doubt",
+      "channel": "The Roots - Topic"
+    },
+    {
+      "id": "black-moon-showdown",
+      "artist": "Black Moon",
+      "title": "Showdown",
+      "videoId": "q_BLScAw-Vw",
+      "status": "metadata_available",
+      "videoTitle": "Black Moon Ft. Q-Tip & Buckshot - Showdown (Album Version) (Dirty) (1999) (HD Audio)",
+      "channel": "J S"
+    },
+    {
+      "id": "eminem-my-name-is",
+      "artist": "Eminem",
+      "title": "My Name Is",
+      "videoId": "UpijCCRThM8",
+      "status": "metadata_available",
+      "videoTitle": "My Name Is",
+      "channel": "Eminem - Topic"
+    },
+    {
+      "id": "all-city-get-paid",
+      "artist": "All City",
+      "title": "Get Paid",
+      "videoId": "jAn07nI6TPw",
+      "status": "metadata_available",
+      "videoTitle": "Get Paid",
+      "channel": "All City - Topic"
+    },
+    {
+      "id": "kool-g-rap-cant-stop-the-shine",
+      "artist": "Kool G Rap",
+      "title": "Can't Stop the Shine",
+      "videoId": "eJ3s_TSZXpc",
+      "status": "metadata_available",
+      "videoTitle": "Kool G Rap ► \"Can't Stop The Shine\"  feat. Miss Jones",
+      "channel": "Kool G. Rap"
+    },
+    {
+      "id": "nas-street-dreams",
+      "artist": "Nas",
+      "title": "Street Dreams",
+      "videoId": "PEEENLUY1nM",
+      "status": "metadata_available",
+      "videoTitle": "Street Dreams",
+      "channel": "Nas - Topic"
+    },
+    {
+      "id": "jay-z-cant-knock-the-hustle",
+      "artist": "Jay-Z",
+      "title": "Can't Knock the Hustle",
+      "videoId": "8P12bMQMXLA",
+      "status": "metadata_available",
+      "videoTitle": "Can't Knock The Hustle",
+      "channel": "JAŸ-Z - Topic"
+    },
+    {
+      "id": "akinyele-three",
+      "artist": "Akinyele",
+      "title": "Three",
+      "videoId": "HRn4aX5vEy0",
+      "status": "metadata_available",
+      "videoTitle": "Three",
+      "channel": "Akinyele - Topic"
+    },
+    {
+      "id": "d-d-all-stars-1-2-pass-it",
+      "artist": "D&D All-Stars",
+      "title": "1, 2 Pass It",
+      "videoId": "takrljtsGP8",
+      "status": "metadata_available",
+      "videoTitle": "D&D All Stars - 01 1,2 Pass It [Produced By DJ Premier]",
+      "channel": "Illest Facts"
+    },
+    {
+      "id": "jeru-me-or-the-papes",
+      "artist": "Jeru the Damaja",
+      "title": "Me or the Papes",
+      "videoId": "g9S_sfBfIUA",
+      "status": "metadata_available",
+      "videoTitle": "Me Or The Papes",
+      "channel": "Jeru The Damaja - Topic"
+    },
+    {
+      "id": "pete-rock-cl-smooth-its-on-you",
+      "artist": "Pete Rock & C.L. Smooth",
+      "title": "It's on You",
+      "videoId": "akrlrDTf2Yk",
+      "status": "metadata_available",
+      "videoTitle": "It's on You",
+      "channel": "Pete Rock - Topic"
+    },
+    {
+      "id": "oc-sharp-as-a-knife",
+      "artist": "O.C.",
+      "title": "Sharp as a Knife",
+      "videoId": "ziAqTdb1N68",
+      "status": "metadata_available",
+      "videoTitle": "O.C. - Sharp As A Knife",
+      "channel": "Blazed Music"
+    },
+    {
+      "id": "q-ball-curt-cazal-my-kinda-moves",
+      "artist": "Q Ball & Curt Cazal",
+      "title": "My Kinda Moves",
+      "videoId": "OeM7itMfRmY",
+      "status": "metadata_available",
+      "videoTitle": "Q Ball & Curt Cazal - My Kinda Moves",
+      "channel": "TheIronSifu"
+    },
+    {
+      "id": "lords-of-the-underground-flow-on-pete-rock-remix",
+      "artist": "Lords of the Underground",
+      "title": "Flow On (Pete Rock Remix)",
+      "videoId": "vSt-ifp9pCQ",
+      "status": "metadata_available",
+      "videoTitle": "Flow On (Pete Rock Remix)",
+      "channel": "Lords Of The Underground - Topic"
+    },
+    {
+      "id": "blahzay-blahzay-danger",
+      "artist": "Blahzay Blahzay",
+      "title": "Danger",
+      "videoId": "x7uJzdu7Pak",
+      "status": "metadata_available",
+      "videoTitle": "Blahzay Blahzay - Danger [Video] (Explicit)",
+      "channel": "UPROXX"
+    }
+  ]
+}
