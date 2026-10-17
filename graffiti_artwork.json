@@ -167,7 +167,10 @@
       ],
       "paletteSource": "The Beatnuts（Street Level）",
       "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/props-over-here.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "times-up",
@@ -182,7 +185,10 @@
       ],
       "paletteSource": "Word...Life",
       "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/times-up.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "the-lump-lump",
@@ -197,7 +203,10 @@
       ],
       "paletteSource": "Wild Cowboys",
       "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/the-lump-lump.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "put-it-on",
@@ -212,7 +221,10 @@
       ],
       "paletteSource": "Lifestylez ov da Poor & Dangerous",
       "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/put-it-on.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "the-shit-is-real",
@@ -227,7 +239,10 @@
       ],
       "paletteSource": "Jealous One’s Envy",
       "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/the-shit-is-real.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "a-tribe-called-quest-electric-relaxation",
@@ -242,7 +257,10 @@
       ],
       "paletteSource": "Midnight Marauders",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-electric-relaxation.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "a-tribe-called-quest-check-the-rhime",
@@ -257,7 +275,10 @@
       ],
       "paletteSource": "The Low End Theory",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-check-the-rhime.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "a-tribe-called-quest-award-tour",
@@ -272,7 +293,10 @@
       ],
       "paletteSource": "Midnight Marauders",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-award-tour.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "a-tribe-called-quest-scenario",
@@ -287,7 +311,10 @@
       ],
       "paletteSource": "The Low End Theory",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-scenario.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "a-tribe-called-quest-bonita-applebum",
@@ -302,7 +329,10 @@
       ],
       "paletteSource": "People's Instinctive Travels and the Paths of Rhythm",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-bonita-applebum.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "a-tribe-called-quest-jazz-we-ve-got",
@@ -317,7 +347,10 @@
       ],
       "paletteSource": "The Low End Theory",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-jazz-we-ve-got.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "pete-rock-c-l-smooth-they-reminisce-over-you-t-r-o-y",
@@ -332,7 +365,10 @@
       ],
       "paletteSource": "Mecca and the Soul Brother",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/pete-rock-c-l-smooth-they-reminisce-over-you-t-r-o-y.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "pete-rock-c-l-smooth-straighten-it-out",
@@ -347,7 +383,10 @@
       ],
       "paletteSource": "Mecca and the Soul Brother",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/pete-rock-c-l-smooth-straighten-it-out.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "pete-rock-c-l-smooth-take-you-there",
@@ -362,7 +401,10 @@
       ],
       "paletteSource": "The Main Ingredient",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/pete-rock-c-l-smooth-take-you-there.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "pete-rock-c-l-smooth-i-get-physical",
@@ -377,7 +419,10 @@
       ],
       "paletteSource": "The Main Ingredient",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/pete-rock-c-l-smooth-i-get-physical.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "ini-fakin-jax",
@@ -407,7 +452,10 @@
       ],
       "paletteSource": "93 'til Infinity",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/souls-of-mischief-that-s-when-ya-lost.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "the-pharcyde-passin-me-by",
@@ -422,7 +470,10 @@
       ],
       "paletteSource": "Bizarre Ride II the Pharcyde",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/the-pharcyde-passin-me-by.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "the-pharcyde-drop",
@@ -437,7 +488,10 @@
       ],
       "paletteSource": "Labcabincalifornia",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/the-pharcyde-drop.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "the-beatnuts-reign-of-the-tec",
@@ -452,7 +506,10 @@
       ],
       "paletteSource": "Intoxicated Demons",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/the-beatnuts-reign-of-the-tec.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "the-beatnuts-get-funky",
@@ -467,7 +524,10 @@
       ],
       "paletteSource": "Street Level",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/the-beatnuts-get-funky.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "the-beatnuts-off-the-books",
@@ -482,7 +542,10 @@
       ],
       "paletteSource": "Stone Crazy",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/the-beatnuts-off-the-books.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "lords-of-the-underground-chief-rocka",
@@ -497,7 +560,10 @@
       ],
       "paletteSource": "Here Come the Lords",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/lords-of-the-underground-chief-rocka.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "lords-of-the-underground-funky-child",
@@ -512,7 +578,10 @@
       ],
       "paletteSource": "Here Come the Lords",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/lords-of-the-underground-funky-child.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "gang-starr-dwyck",
@@ -557,7 +626,10 @@
       ],
       "paletteSource": "Hard to Earn",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-code-of-the-streets.webp",
+      "textReviewed": true,
+      "paletteReviewed": true
     },
     {
       "id": "gang-starr-above-the-clouds",
