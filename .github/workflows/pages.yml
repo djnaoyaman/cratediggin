@@ -61,6 +61,7 @@ jobs:
           python scripts/audit_catalog.py
           python scripts/verify_discovery.py
           python scripts/verify_url_migration.py
+          python scripts/verify_profile_notes.py
           python scripts/verify_social_sharing_static.py
           python scripts/test_revision_dates.py
           node scripts/verify_listening_shelves.js
@@ -134,6 +135,7 @@ jobs:
           node scripts/verify_feature_portraits_browser.cjs
           node scripts/verify_social_sharing_browser.cjs
           node scripts/verify_url_migration_browser.cjs
+          node scripts/verify_profile_notes_browser.cjs
       - name: Save browser screenshots
         if: always()
         uses: actions/upload-artifact@v4
@@ -147,6 +149,8 @@ jobs:
             /tmp/social-sharing-*.png
             /tmp/crawl-artwork-*.png
             /tmp/migration-navigation-*.png
+            /tmp/editor-profile-*.png
+            /tmp/producer-note-*.png
           if-no-files-found: ignore
           retention-days: 3
       - uses: actions/upload-pages-artifact@v4

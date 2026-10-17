@@ -29,7 +29,7 @@ assert(!JSON.stringify(songs).includes('90年代を中心にしたこのクレ�
 const sourceTracks=JSON.parse(fs.readFileSync('tracks.json','utf8'));
 for(const source of sourceTracks){const generated=songs.find(t=>t.id===source.id);assert.equal(generated.noteReviewedAt,source.noteReviewedAt,'Review date drift: '+source.id)}
 assert(!songs.some(t=>t.review.playbackCheckedAt),'No playback checks should be invented');
-const about=app.slice(app.indexOf(' function about()'),app.indexOf(' const features=['));
+const about=app.slice(app.indexOf(' function about()'),app.indexOf(' const editorProfileHTML='));
 const mentions=[...about.matchAll(/SUBURBIA CLASSICA/g)];assert(mentions.length>0);
 for(const mention of mentions){const before=about.slice(Math.max(0,mention.index-180),mention.index);assert(before.includes('href="https://djnaoyaman.github.io/suburbia-classica/"'))}
 console.log('Catalog content states, unified sample search, ATCQ scopes/redirect, guide order, timeline policy, source review dates and sister-site links verified');

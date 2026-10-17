@@ -200,6 +200,9 @@ for f in features:
     for title,key in [('音楽性と背景','context'),('後世に残したもの','legacy'),('私の聴き方','listening'),('作品と系譜をたどる','connections')]:
         body+='<h3>'+title+'</h3><p>'+esc(e[key])+'</p>'
     body+='<p>影響の評価と聴き方はDJ Naoyamanの考察です。</p><h3>参考資料</h3><ul>'+''.join('<li><a href="'+esc(r['url'],quote=True)+'">'+esc(r['label'])+'</a></li>' for r in e['sources'])+'</ul></article>'
+    if f.get('noteArticle'):
+        note=f['noteArticle']
+        body+='<section class="producer-note"><p class="eyebrow">MY LISTENING NOTES</p><h2>noteで読む</h2><h3>'+esc(note['title'])+'</h3><p>'+esc(note['introduction'])+'</p><a href="'+esc(note['url'],quote=True)+'" target="_blank" rel="noopener noreferrer">noteで続きを読む ↗</a></section>'
     body+='<h2>収録曲 '+str(len(selected))+' 曲</h2><ul>'+''.join('<li><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+esc(t['artist']+' — '+t['title'])+'</a></li>' for t in selected)+'</ul>'
     page=re.sub(r'<main id="view" tabindex="-1">.*?</main>','<main id="view" tabindex="-1">'+body+'</main>',base,flags=re.S)
     page=page.replace('<head>','<head><script>window.INITIAL_ROUTE='+json.dumps('#/feature/'+f['id'])+';</script>',1)
