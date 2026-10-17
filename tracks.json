@@ -26998,13 +26998,12 @@
       "seed": 2026101624,
       "profile": "ny-subway",
       "palette": [
-        "#a7a8a6",
-        "#dbd8ce",
-        "#c57e3c",
-        "#303336"
+        "#f78e54",
+        "#171310",
+        "#d8c6a3"
       ],
       "paletteSource": "The Life of Pablo",
-      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -27099,13 +27098,12 @@
       "seed": 20261015263,
       "profile": "ny-subway",
       "palette": [
-        "#608a78",
-        "#e2d5b5",
-        "#b38052",
-        "#29392f"
+        "#385747",
+        "#c4bca6",
+        "#967d59"
       ],
-      "paletteSource": "Endtroducing.....",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteSource": "Endtroducing (Deluxe Edition)",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -27212,13 +27210,12 @@
       "seed": 202610150000,
       "profile": "ny-subway",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#ed6b18",
+        "#818181",
+        "#181818"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "paletteSource": "Always Has Been",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -27447,13 +27444,12 @@
       "seed": 202610150002,
       "profile": "ny-subway",
       "palette": [
-        "#9c7660",
-        "#e5daca",
-        "#6d828b",
-        "#2c2d30"
+        "#763f2b",
+        "#b28c74",
+        "#a6ab59"
       ],
       "paletteSource": "Illadelph Halflife",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -27567,13 +27563,12 @@
       "seed": 202610150003,
       "profile": "ny-subway",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#94534d",
+        "#c6dae0",
+        "#9a8267"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "paletteSource": "Acting",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -27684,13 +27679,12 @@
       "seed": 202610150004,
       "profile": "ny-subway",
       "palette": [
-        "#c87a3b",
-        "#e8d29b",
-        "#8c536f",
-        "#352b30"
+        "#cc9b55",
+        "#a64b3b",
+        "#7294b8"
       ],
       "paletteSource": "Uptown Saturday Night",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -27801,13 +27795,13 @@
       "seed": 202610150005,
       "profile": "ny-subway",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#955c9b",
+        "#b52b33",
+        "#5d9b46",
+        "#dfb84d"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "paletteSource": "Beats, Rhymes & Life",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -27915,13 +27909,12 @@
       "seed": 202610150006,
       "profile": "ny-subway",
       "palette": [
-        "#9f6c46",
-        "#e4d2b4",
-        "#677e90",
-        "#222a32"
+        "#942f32",
+        "#244c31",
+        "#15151a"
       ],
       "paletteSource": "Nocturnal",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -28032,13 +28025,12 @@
       "seed": 202610150007,
       "profile": "ny-subway",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#9fc13b",
+        "#9d925e",
+        "#181713"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "paletteSource": "Gravity",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -28144,13 +28136,12 @@
       "seed": 202610150008,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#e99120",
+        "#b9c0bd",
+        "#11171a"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteSource": "Episodes of a Hustla",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -28251,13 +28242,12 @@
       "seed": 202610150009,
       "profile": "ny-subway",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#a64b2d",
+        "#e6d76e",
+        "#e7352c"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "paletteSource": "The Lump Lump - EP",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -28370,13 +28360,12 @@
       "seed": 202610150013,
       "profile": "ny-subway",
       "palette": [
-        "#aa724b",
-        "#e6d7b9",
-        "#8c9085",
-        "#2b2825"
+        "#d99143",
+        "#91432b",
+        "#f0d5a6"
       ],
       "paletteSource": "KRS-One",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -28589,13 +28578,12 @@
       "seed": 202610150015,
       "profile": "ny-subway",
       "palette": [
-        "#9d704d",
-        "#e5d0ad",
-        "#85949a",
-        "#2c2a29"
+        "#a4a4ad",
+        "#264349",
+        "#18191d"
       ],
       "paletteSource": "2000",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -29037,13 +29025,12 @@
       "seed": 202610150021,
       "profile": "ny-subway",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#8d783b",
+        "#d4caa4",
+        "#423021"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "paletteSource": "Hidden Gems (Deluxe Edition)",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -29488,13 +29475,12 @@
       "seed": 202610150026,
       "profile": "ny-subway",
       "palette": [
-        "#a38460",
-        "#e6e0d1",
-        "#809295",
-        "#2c3031"
+        "#805c49",
+        "#c5aa91",
+        "#181414"
       ],
       "paletteSource": "Livin' Proof",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -29607,13 +29593,12 @@
       "seed": 202610150028,
       "profile": "ny-subway",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#09604b",
+        "#8f9994",
+        "#a92c31"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "paletteSource": "4, 5, 6",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },

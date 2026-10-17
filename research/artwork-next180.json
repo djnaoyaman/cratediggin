@@ -1,0 +1,349 @@
+{
+  "state": "reviewed-candidate-pending-ci-and-deployment",
+  "createdAt": "2026-10-17",
+  "baselineCommit": "782a3532003b47099b9cd9f2f70f413cd078adbc",
+  "publishedTransparentBaseline": 279,
+  "candidateTransparent": 295,
+  "catalogTotal": 381,
+  "remainingAfterCandidate": 86,
+  "paletteBasis": "Official licensed digital or artist-site covers visually inspected; editorial color approximations, not sampled measurements.",
+  "assets": [
+    {
+      "id": "kanye-west-no-more-parties-in-la",
+      "title": "No More Parties in LA",
+      "artist": "Kanye West",
+      "palette": [
+        "#f78e54",
+        "#171310",
+        "#d8c6a3"
+      ],
+      "paletteSource": "The Life of Pablo",
+      "coverUrl": "https://music.apple.com/us/album/no-more-parties-in-la/1442966257?i=1442966626&uo=4",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"No More Parties in LA\" and exact artist \"Kanye West\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #f78e54, #171310, #d8c6a3 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital release at cited URL, not claimed original first pressing.",
+      "image": "assets/graffiti/kanye-west-no-more-parties-in-la-alpha.webp",
+      "bytes": 595968,
+      "blobSha": "19ca8f6e1e2063b4a5332b14d7383a1adaa2b4ae",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "dj-shadow-organ-donor-extended-overhaul",
+      "title": "Organ Donor (Extended Overhaul)",
+      "artist": "DJ Shadow",
+      "palette": [
+        "#385747",
+        "#c4bca6",
+        "#967d59"
+      ],
+      "paletteSource": "Endtroducing (Deluxe Edition)",
+      "coverUrl": "https://music.apple.com/us/album/organ-donor-extended-overhaul/1660367299?i=1660367995&uo=4",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Organ Donor (Extended Overhaul)\" and exact artist \"DJ Shadow\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #385747, #c4bca6, #967d59 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital release at cited URL, not claimed original first pressing.",
+      "image": "assets/graffiti/dj-shadow-organ-donor-extended-overhaul-alpha.webp",
+      "bytes": 525882,
+      "blobSha": "e6608a4fb93ce72acf0e751fd4b6b63bf3e5ff4e",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "j-live-hush-the-crowd",
+      "title": "Hush The Crowd",
+      "artist": "J-Live",
+      "palette": [
+        "#ed6b18",
+        "#818181",
+        "#181818"
+      ],
+      "paletteSource": "Always Has Been",
+      "coverUrl": "https://realjlive.bandcamp.com/album/always-has-been",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Hush The Crowd\" and exact artist \"J-Live\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #ed6b18, #818181, #181818 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Artist compilation of early singles; track 4 Hush The Crowd. Not claimed original single sleeve.",
+      "image": "assets/graffiti/j-live-hush-the-crowd-alpha.webp",
+      "bytes": 516798,
+      "blobSha": "cc83645f84f1bdc414d9ef9d7bf164fe010788ac",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "the-roots-push-up-ya-lighter",
+      "title": "Push Up Ya Lighter",
+      "artist": "The Roots",
+      "palette": [
+        "#763f2b",
+        "#b28c74",
+        "#a6ab59"
+      ],
+      "paletteSource": "Illadelph Halflife",
+      "coverUrl": "https://music.apple.com/us/album/illadelph-halflife/1440646391",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Push Up Ya Lighter\" and exact artist \"The Roots\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #763f2b, #b28c74, #a6ab59 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/the-roots-push-up-ya-lighter-alpha.webp",
+      "bytes": 526400,
+      "blobSha": "6c013a44c2f4e713823fafcd91840d5854971853",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "ed-o-g-what-u-got",
+      "title": "What U Got",
+      "artist": "Ed O.G",
+      "palette": [
+        "#94534d",
+        "#c6dae0",
+        "#9a8267"
+      ],
+      "paletteSource": "Acting",
+      "coverUrl": "https://90stapes.bandcamp.com/album/acting",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"What U Got\" and exact artist \"Ed O.G\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #94534d, #c6dae0, #9a8267 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "90s Tapes 2025 reissue with new artwork. Original What U Got is track 7 (3:02), distinct from track 9 remix.",
+      "image": "assets/graffiti/ed-o-g-what-u-got-alpha.webp",
+      "bytes": 515698,
+      "blobSha": "2ec57f60c19eb287284fc548414984353ec5dc4d",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "camp-lo-swing",
+      "title": "Swing",
+      "artist": "Camp Lo",
+      "palette": [
+        "#cc9b55",
+        "#a64b3b",
+        "#7294b8"
+      ],
+      "paletteSource": "Uptown Saturday Night",
+      "coverUrl": "https://music.apple.com/us/song/298544255",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Swing\" and exact artist \"Camp Lo\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #cc9b55, #a64b3b, #7294b8 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/camp-lo-swing-alpha.webp",
+      "bytes": 457830,
+      "blobSha": "a6911216e84d9009b16e2a960a24919abfaf8bce",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "a-tribe-called-quest-crew",
+      "title": "Crew",
+      "artist": "A Tribe Called Quest",
+      "palette": [
+        "#955c9b",
+        "#b52b33",
+        "#5d9b46",
+        "#dfb84d"
+      ],
+      "paletteSource": "Beats, Rhymes & Life",
+      "coverUrl": "https://music.apple.com/us/album/beats-rhymes-life/254976948",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Crew\" and exact artist \"A Tribe Called Quest\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #955c9b, #b52b33, #5d9b46, #dfb84d plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/a-tribe-called-quest-crew-alpha.webp",
+      "bytes": 527214,
+      "blobSha": "8dd00389dff6b4936b0e713b3364280350c407e2",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "heltah-skeltah-therapy",
+      "title": "Therapy",
+      "artist": "Heltah Skeltah",
+      "palette": [
+        "#942f32",
+        "#244c31",
+        "#15151a"
+      ],
+      "paletteSource": "Nocturnal",
+      "coverUrl": "https://music.apple.com/us/album/nocturnal/723345818",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Therapy\" and exact artist \"Heltah Skeltah\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #942f32, #244c31, #15151a plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/heltah-skeltah-therapy-alpha.webp",
+      "bytes": 468190,
+      "blobSha": "a77d0c1f62ac494989cb75bd2f5deacfdbebdfe1",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "bush-babees-feat-mos-def-the-love-song",
+      "title": "The Love Song",
+      "artist": "Bush Babees feat. Mos Def",
+      "palette": [
+        "#9fc13b",
+        "#9d925e",
+        "#181713"
+      ],
+      "paletteSource": "Gravity",
+      "coverUrl": "https://wmg.jp/bush-babees/discography/15967",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"The Love Song\" and exact artist \"Bush Babees feat. Mos Def\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #9fc13b, #9d925e, #181713 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Warner Music Japan 2015 CD reissue WPCR-16927; track 11 explicitly credits Mos Def.",
+      "image": "assets/graffiti/bush-babees-feat-mos-def-the-love-song-alpha.webp",
+      "bytes": 463784,
+      "blobSha": "d5f134f4f6180d6d748988b16391ee8318087f34",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "big-noyd-usual-suspect-stretch-armstrong-remix",
+      "title": "Usual Suspect (Stretch Armstrong Remix)",
+      "artist": "Big Noyd",
+      "palette": [
+        "#e99120",
+        "#b9c0bd",
+        "#11171a"
+      ],
+      "paletteSource": "Episodes of a Hustla",
+      "coverUrl": "https://bignoyd.bandcamp.com/album/episodes-of-a-hustla",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Usual Suspect (Stretch Armstrong Remix)\" and exact artist \"Big Noyd\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #e99120, #b9c0bd, #11171a plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Artist Bandcamp special reissue explicitly contains track 11 Usual Suspect (Stretch Armstrong Remix); not substituted standard edition.",
+      "image": "assets/graffiti/big-noyd-usual-suspect-stretch-armstrong-remix-alpha.webp",
+      "bytes": 643520,
+      "blobSha": "9a8e8e8a6a213bc380b25def6aab459b1def9f66",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "sadat-x-the-lump-lump-nubian-mix",
+      "title": "The Lump Lump (Nubian Mix)",
+      "artist": "Sadat X",
+      "palette": [
+        "#a64b2d",
+        "#e6d76e",
+        "#e7352c"
+      ],
+      "paletteSource": "The Lump Lump - EP",
+      "coverUrl": "https://music.apple.com/us/album/the-lump-lump-ep/1522332700",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"The Lump Lump (Nubian Mix)\" and exact artist \"Sadat X\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #a64b2d, #e6d76e, #e7352c plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital EP tracklist explicitly contains Nubian Mix featuring Grand Puba and Lord Jamar.",
+      "image": "assets/graffiti/sadat-x-the-lump-lump-nubian-mix-alpha.webp",
+      "bytes": 521386,
+      "blobSha": "9e40c9baaa81b7095e8a45a50a4892ec3e794bf5",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "krs-one-feat-busta-rhymes-build-ya-skillz",
+      "title": "Build Ya Skillz",
+      "artist": "KRS-One feat. Busta Rhymes",
+      "palette": [
+        "#d99143",
+        "#91432b",
+        "#f0d5a6"
+      ],
+      "paletteSource": "KRS-One",
+      "coverUrl": "https://music.apple.com/us/song/254979103",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Build Ya Skillz\" and exact artist \"KRS-One feat. Busta Rhymes\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #d99143, #91432b, #f0d5a6 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/krs-one-feat-busta-rhymes-build-ya-skillz-alpha.webp",
+      "bytes": 553272,
+      "blobSha": "9606468ff224eb7feaf87df2c5da8215d145b33e",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "grand-puba-a-little-of-this",
+      "title": "A Little Of This",
+      "artist": "Grand Puba",
+      "palette": [
+        "#a4a4ad",
+        "#264349",
+        "#18191d"
+      ],
+      "paletteSource": "2000",
+      "coverUrl": "https://music.apple.com/us/song/1604619702",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"A Little Of This\" and exact artist \"Grand Puba\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #a4a4ad, #264349, #18191d plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/grand-puba-a-little-of-this-alpha.webp",
+      "bytes": 456348,
+      "blobSha": "a6a5b58f7e61cb085d8b22655b903aa4cb336f6e",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "o-c-organized-konfusion-you-won-t-go-far",
+      "title": "You Won't Go Far",
+      "artist": "O.C. & Organized Konfusion",
+      "palette": [
+        "#8d783b",
+        "#d4caa4",
+        "#423021"
+      ],
+      "paletteSource": "Hidden Gems (Deluxe Edition)",
+      "coverUrl": "https://omarcredle.bandcamp.com/album/hidden-gems-deluxe-edition",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"You Won't Go Far\" and exact artist \"O.C. & Organized Konfusion\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #8d783b, #d4caa4, #423021 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Artist digital Deluxe compilation, track 6 You Won't Go Far featuring Organized Konfusion. Not claimed New Jersey Drive sleeve.",
+      "image": "assets/graffiti/o-c-organized-konfusion-you-won-t-go-far-alpha.webp",
+      "bytes": 561078,
+      "blobSha": "6c229fba0985a2bdf9be12bdaff7b890eba63377",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "group-home-up-against-the-wall-low-budget-mix",
+      "title": "Up Against The Wall (Low Budget Mix)",
+      "artist": "Group Home",
+      "palette": [
+        "#805c49",
+        "#c5aa91",
+        "#181414"
+      ],
+      "paletteSource": "Livin' Proof",
+      "coverUrl": "https://music.apple.com/us/song/1443600590",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Up Against The Wall (Low Budget Mix)\" and exact artist \"Group Home\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #805c49, #c5aa91, #181414 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Exact Low Budget Mix verified on licensed song page; not Getaway Car Mix.",
+      "image": "assets/graffiti/group-home-up-against-the-wall-low-budget-mix-alpha.webp",
+      "bytes": 506850,
+      "blobSha": "dbf7cd6b7ac09c93bdbbc0c9595abc4eb0e50226",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "kool-g-rap-blowin-up-in-the-world",
+      "title": "Blowin' Up In The World",
+      "artist": "Kool G Rap",
+      "palette": [
+        "#09604b",
+        "#8f9994",
+        "#a92c31"
+      ],
+      "paletteSource": "4, 5, 6",
+      "coverUrl": "https://music.apple.com/us/album/blowin-up-in-the-world/169715139?i=169715542",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"Blowin' Up In The World\" and exact artist \"Kool G Rap\". Include every word and subtitle, all punctuation; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #09604b, #8f9994, #a92c31 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/kool-g-rap-blowin-up-in-the-world-alpha.webp",
+      "bytes": 518226,
+      "blobSha": "61629ea0debb12b29534263b5706dc42abc2c511",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    }
+  ]
+}

@@ -5127,14 +5127,18 @@
       "artist": "Kanye West",
       "album": "The Life of Pablo",
       "palette": [
-        "#a7a8a6",
-        "#dbd8ce",
-        "#c57e3c",
-        "#303336"
+        "#f78e54",
+        "#171310",
+        "#d8c6a3"
       ],
       "paletteSource": "The Life of Pablo",
-      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/kanye-west-no-more-parties-in-la-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/no-more-parties-in-la/1442966257?i=1442966626&uo=4"
     },
     {
       "id": "dj-shadow-organ-donor-extended-overhaul",
@@ -5142,14 +5146,18 @@
       "artist": "DJ Shadow",
       "album": "High Noon / Endtroducing..... (Deluxe Edition)",
       "palette": [
-        "#608a78",
-        "#e2d5b5",
-        "#b38052",
-        "#29392f"
+        "#385747",
+        "#c4bca6",
+        "#967d59"
       ],
-      "paletteSource": "Endtroducing.....",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteSource": "Endtroducing (Deluxe Edition)",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-organ-donor-extended-overhaul-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/organ-donor-extended-overhaul/1660367299?i=1660367995&uo=4"
     },
     {
       "id": "j-live-hush-the-crowd",
@@ -5157,14 +5165,18 @@
       "artist": "J-Live",
       "album": "Can I Get It? / Hush the Crowd",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#ed6b18",
+        "#818181",
+        "#181818"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Always Has Been",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/j-live-hush-the-crowd-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://realjlive.bandcamp.com/album/always-has-been"
     },
     {
       "id": "dead-poetz-society-lick-a-shot-remix",
@@ -5187,14 +5199,18 @@
       "artist": "The Roots",
       "album": "Illadelph Halflife",
       "palette": [
-        "#9c7660",
-        "#e5daca",
-        "#6d828b",
-        "#2c2d30"
+        "#763f2b",
+        "#b28c74",
+        "#a6ab59"
       ],
       "paletteSource": "Illadelph Halflife",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-roots-push-up-ya-lighter-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/illadelph-halflife/1440646391"
     },
     {
       "id": "ed-o-g-what-u-got",
@@ -5202,14 +5218,18 @@
       "artist": "Ed O.G",
       "album": "Six Song EP",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#94534d",
+        "#c6dae0",
+        "#9a8267"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Acting",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/ed-o-g-what-u-got-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://90stapes.bandcamp.com/album/acting"
     },
     {
       "id": "camp-lo-swing",
@@ -5217,14 +5237,18 @@
       "artist": "Camp Lo",
       "album": "Uptown Saturday Night",
       "palette": [
-        "#c87a3b",
-        "#e8d29b",
-        "#8c536f",
-        "#352b30"
+        "#cc9b55",
+        "#a64b3b",
+        "#7294b8"
       ],
       "paletteSource": "Uptown Saturday Night",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/camp-lo-swing-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/298544255"
     },
     {
       "id": "a-tribe-called-quest-crew",
@@ -5232,14 +5256,19 @@
       "artist": "A Tribe Called Quest",
       "album": "Beats, Rhymes and Life",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#955c9b",
+        "#b52b33",
+        "#5d9b46",
+        "#dfb84d"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Beats, Rhymes & Life",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-crew-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/beats-rhymes-life/254976948"
     },
     {
       "id": "heltah-skeltah-therapy",
@@ -5247,14 +5276,18 @@
       "artist": "Heltah Skeltah",
       "album": "Nocturnal",
       "palette": [
-        "#9f6c46",
-        "#e4d2b4",
-        "#677e90",
-        "#222a32"
+        "#942f32",
+        "#244c31",
+        "#15151a"
       ],
       "paletteSource": "Nocturnal",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/heltah-skeltah-therapy-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/nocturnal/723345818"
     },
     {
       "id": "bush-babees-feat-mos-def-the-love-song",
@@ -5262,14 +5295,18 @@
       "artist": "Bush Babees feat. Mos Def",
       "album": "Gravity",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#9fc13b",
+        "#9d925e",
+        "#181713"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Gravity",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/bush-babees-feat-mos-def-the-love-song-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://wmg.jp/bush-babees/discography/15967"
     },
     {
       "id": "big-noyd-usual-suspect-stretch-armstrong-remix",
@@ -5277,14 +5314,18 @@
       "artist": "Big Noyd",
       "album": "Episodes of a Hustla",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#e99120",
+        "#b9c0bd",
+        "#11171a"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteSource": "Episodes of a Hustla",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/big-noyd-usual-suspect-stretch-armstrong-remix-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://bignoyd.bandcamp.com/album/episodes-of-a-hustla"
     },
     {
       "id": "sadat-x-the-lump-lump-nubian-mix",
@@ -5292,14 +5333,18 @@
       "artist": "Sadat X",
       "album": "The Lump Lump",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#a64b2d",
+        "#e6d76e",
+        "#e7352c"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "The Lump Lump - EP",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/sadat-x-the-lump-lump-nubian-mix-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/the-lump-lump-ep/1522332700"
     },
     {
       "id": "krs-one-feat-busta-rhymes-build-ya-skillz",
@@ -5307,14 +5352,18 @@
       "artist": "KRS-One feat. Busta Rhymes",
       "album": "KRS-One",
       "palette": [
-        "#aa724b",
-        "#e6d7b9",
-        "#8c9085",
-        "#2b2825"
+        "#d99143",
+        "#91432b",
+        "#f0d5a6"
       ],
       "paletteSource": "KRS-One",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/krs-one-feat-busta-rhymes-build-ya-skillz-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/254979103"
     },
     {
       "id": "o-c-o-zone",
@@ -5342,14 +5391,18 @@
       "artist": "Grand Puba",
       "album": "2000",
       "palette": [
-        "#9d704d",
-        "#e5d0ad",
-        "#85949a",
-        "#2c2a29"
+        "#a4a4ad",
+        "#264349",
+        "#18191d"
       ],
       "paletteSource": "2000",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/grand-puba-a-little-of-this-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1604619702"
     },
     {
       "id": "az-gimme-yours",
@@ -5412,14 +5465,18 @@
       "artist": "O.C. & Organized Konfusion",
       "album": "New Jersey Drive, Vol. 2",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#8d783b",
+        "#d4caa4",
+        "#423021"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Hidden Gems (Deluxe Edition)",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/o-c-organized-konfusion-you-won-t-go-far-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://omarcredle.bandcamp.com/album/hidden-gems-deluxe-edition"
     },
     {
       "id": "big-l-all-black",
@@ -5487,14 +5544,18 @@
       "artist": "Group Home",
       "album": "Livin' Proof",
       "palette": [
-        "#a38460",
-        "#e6e0d1",
-        "#809295",
-        "#2c3031"
+        "#805c49",
+        "#c5aa91",
+        "#181414"
       ],
       "paletteSource": "Livin' Proof",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/group-home-up-against-the-wall-low-budget-mix-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1443600590"
     },
     {
       "id": "kool-g-rap-blowin-up-in-the-world",
@@ -5502,14 +5563,18 @@
       "artist": "Kool G Rap",
       "album": "4,5,6",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#09604b",
+        "#8f9994",
+        "#a92c31"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "4, 5, 6",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/kool-g-rap-blowin-up-in-the-world-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/blowin-up-in-the-world/169715139?i=169715542"
     },
     {
       "id": "o-c-word-life",
