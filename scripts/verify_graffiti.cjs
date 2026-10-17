@@ -40,3 +40,5 @@ assert.notDeepEqual(redWall,blueWall,'Wall color must follow the album palette')
 assert.deepEqual(redWall,wallColors(['#ba3226','#e4aaa0','#fff4df','#231b19']),'The same album palette must produce a stable wall');
 c.window.CrateArt.hide();
 console.log(ready.length+' cover-colored assets, generated-art switching, late loading, contain sizing, resize and hidden-state behavior verified');
+
+require('./verify_art_motion.cjs');
