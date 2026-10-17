@@ -1,0 +1,1035 @@
+{
+  "state": "in-production-not-published",
+  "readyAssets": 24,
+  "target": 40,
+  "assets": [
+    {
+      "id": "the-beatnuts-get-funky",
+      "title": "Get Funky",
+      "artist": "The Beatnuts",
+      "album": "Street Level",
+      "legacy": true,
+      "sourceImage": "assets/graffiti/the-beatnuts-get-funky.webp",
+      "palette": [
+        "#d5483b",
+        "#e4dec9",
+        "#9b8c71",
+        "#262420"
+      ],
+      "paletteSource": "Street Level",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteReferenceTrack": "the-beatnuts-get-funky",
+      "art": {
+        "word": "GET FUNKY",
+        "lines": [
+          "GET FUNKY"
+        ],
+        "tag": "NEW YORK / 1994",
+        "style": "piece",
+        "seed": 2098334400,
+        "profile": "ny-subway",
+        "palette": [
+          "#d5483b",
+          "#e4dec9",
+          "#9b8c71",
+          "#262420"
+        ],
+        "paletteSource": "Street Level",
+        "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+        "lettering": "bubble",
+        "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      },
+      "prompt": "Edit target image for CRATE DIGGIN: remove ONLY white paper/background and open whitespace to real transparent alpha. Preserve exact lettering 'Get Funky' and 'The Beatnuts', its complete original composition, palette, internal WHITE PAINT, black strokes, drips, splatter and textured edges. Do not change the letterforms or style; no crops. Leave a transparent margin outside all letters. No wall, rectangle, checkerboard or shadow. Keep white paint inside letters opaque.",
+      "generatedPath": "/workspace/scratch/83635806126b/generated_images/exec-d8ca8076-4f67-4a84-825f-1c3791069cc7.png",
+      "localPath": "/workspace/scratch/83635806126b/batch93/root/the-beatnuts-get-funky-alpha.webp",
+      "image": "assets/graffiti/the-beatnuts-get-funky-alpha.webp",
+      "reviewedText": true,
+      "reviewedAlpha": true,
+      "blobSha": "7a585c2c347f979e407169e5a56533e733257414"
+    },
+    {
+      "id": "lords-of-the-underground-funky-child",
+      "title": "Funky Child",
+      "artist": "Lords of the Underground",
+      "album": "Here Come the Lords",
+      "legacy": true,
+      "sourceImage": "assets/graffiti/lords-of-the-underground-funky-child.webp",
+      "palette": [
+        "#bf713c",
+        "#ece0c4",
+        "#897462",
+        "#332a25"
+      ],
+      "paletteSource": "Here Come the Lords",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteReferenceTrack": "lords-of-the-underground-funky-child",
+      "art": {
+        "word": "FUNKY CHILD",
+        "lines": [
+          "FUNKY CHILD"
+        ],
+        "tag": "NEW JERSEY / 1993",
+        "style": "piece",
+        "seed": 1362499893,
+        "profile": "newark-industrial",
+        "palette": [
+          "#bf713c",
+          "#ece0c4",
+          "#897462",
+          "#332a25"
+        ],
+        "paletteSource": "Here Come the Lords",
+        "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+        "lettering": "tag",
+        "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      },
+      "prompt": "Edit target image for CRATE DIGGIN: remove ONLY white paper/background and open whitespace to real transparent alpha. Preserve exact lettering 'Funky Child' and 'Lords of the Underground', its complete original composition, palette, internal WHITE PAINT, black strokes, drips, splatter and textured edges. Do not change the letterforms or style; no crops. Leave a transparent margin outside all letters. No wall, rectangle, checkerboard or shadow. Keep white paint inside letters opaque.",
+      "generatedPath": "/workspace/scratch/83635806126b/generated_images/exec-8c86a634-85c0-4563-85a5-5afa44e56082.png",
+      "localPath": "/workspace/scratch/83635806126b/batch93/root/lords-of-the-underground-funky-child-alpha.webp",
+      "image": "assets/graffiti/lords-of-the-underground-funky-child-alpha.webp",
+      "reviewedText": true,
+      "reviewedAlpha": true,
+      "blobSha": "c551f4a8e243bfdbb901fb09285fef6a663b4d76"
+    },
+    {
+      "id": "gang-starr-code-of-the-streets",
+      "title": "Code of the Streets",
+      "artist": "Gang Starr",
+      "album": "Hard to Earn",
+      "legacy": true,
+      "sourceImage": "assets/graffiti/gang-starr-code-of-the-streets.webp",
+      "palette": [
+        "#bf5737",
+        "#d4b66f",
+        "#ece5cc",
+        "#231f1c"
+      ],
+      "paletteSource": "Hard to Earn",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteReferenceTrack": "gang-starr-code-of-the-streets",
+      "art": {
+        "word": "CODE OF THE STREETS",
+        "lines": [
+          "CODE OF THE STREETS"
+        ],
+        "tag": "NEW YORK / 1994",
+        "style": "piece",
+        "seed": 2697158156,
+        "profile": "ny-subway",
+        "palette": [
+          "#bf5737",
+          "#d4b66f",
+          "#ece5cc",
+          "#231f1c"
+        ],
+        "paletteSource": "Hard to Earn",
+        "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+        "lettering": "subway",
+        "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      },
+      "prompt": "Edit target image for CRATE DIGGIN: remove ONLY white paper/background and open whitespace to real transparent alpha. Preserve exact lettering 'Code of the Streets' and 'Gang Starr', its complete original composition, palette, internal WHITE PAINT, black strokes, drips, splatter and textured edges. Do not change the letterforms or style; no crops. Leave a transparent margin outside all letters. No wall, rectangle, checkerboard or shadow. Keep white paint inside letters opaque.",
+      "generatedPath": "/workspace/scratch/83635806126b/generated_images/exec-a2a5c9ba-26f7-4aaf-93c8-5bd043053cc4.png",
+      "localPath": "/workspace/scratch/83635806126b/batch93/root/gang-starr-code-of-the-streets-alpha.webp",
+      "image": "assets/graffiti/gang-starr-code-of-the-streets-alpha.webp",
+      "reviewedText": true,
+      "reviewedAlpha": true,
+      "blobSha": "0b2b238260a86e017b2b1219de0032e50160f869"
+    },
+    {
+      "id": "gang-starr-dwyck",
+      "title": "DWYCK",
+      "artist": "Gang Starr",
+      "album": "Hard to Earn",
+      "legacy": false,
+      "palette": [
+        "#bf5737",
+        "#d4b66f",
+        "#ece5cc",
+        "#231f1c"
+      ],
+      "paletteSource": "Hard to Earn",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
+      "paletteReferenceTrack": "mass-appeal",
+      "art": {
+        "word": "DWYCK",
+        "lines": [
+          "DWYCK"
+        ],
+        "tag": "NEW YORK / 1994",
+        "style": "piece",
+        "seed": 2245500455,
+        "profile": "ny-subway",
+        "palette": [
+          "#bf5737",
+          "#d4b66f",
+          "#ece5cc",
+          "#231f1c"
+        ],
+        "paletteSource": "Hard to Earn",
+        "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+        "lettering": "brush",
+        "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      },
+      "image": "assets/graffiti/gang-starr-dwyck-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/a/gang-starr-dwyck.webp",
+      "blobSha": "7d0e2f22e8b9c3bf75b6f1d4b351252526d1180b",
+      "prompt": "Create one transparent-background original graffiti lettering artwork for a hip-hop music archive. EXACT main text \"DWYCK\" and smaller artist text \"Gang Starr\". Preserve every word and punctuation. Reference style is angular interlocking expressive 1990s graffiti with heavy charcoal ink outlines, cream-white painted bevels, dry brush texture, ink splatters and drips. Color palette ONLY #bf5737, #d4b66f, #ece5cc, #231f1c including internal cream paint. Distinct dynamic composition, title legible, artist below; no other text or signature. Fully transparent alpha background, generous empty margins on all four sides. No wall, paper, checkerboard, background rectangle, or cast shadow. All strokes fully inside canvas.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    },
+    {
+      "id": "diamond-d-best-kept-secret",
+      "title": "Best Kept Secret",
+      "artist": "Diamond D",
+      "album": "Stunts, Blunts & Hip Hop",
+      "legacy": false,
+      "palette": [
+        "#ae764c",
+        "#eee1c9",
+        "#94a393",
+        "#33362d"
+      ],
+      "paletteSource": "Stunts, Blunts & Hip Hop",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteReferenceTrack": "diamond-d-sally-got-a-one-track-mind",
+      "art": {
+        "word": "BEST KEPT SECRET",
+        "lines": [
+          "BEST KEPT SECRET"
+        ],
+        "tag": "NEW YORK / 1992",
+        "style": "piece",
+        "seed": 1185483020,
+        "profile": "ny-subway",
+        "palette": [
+          "#ae764c",
+          "#eee1c9",
+          "#94a393",
+          "#33362d"
+        ],
+        "paletteSource": "Stunts, Blunts & Hip Hop",
+        "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+        "lettering": "angular",
+        "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      },
+      "image": "assets/graffiti/diamond-d-best-kept-secret-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/a/diamond-d-best-kept-secret.webp",
+      "blobSha": "4ac29ef02646c925ab1fd98975b94ac2e545e224",
+      "prompt": "Create one transparent-background original graffiti lettering artwork for a hip-hop music archive. EXACT main text \"Best Kept Secret\" and smaller artist text \"Diamond D\". Preserve every word and punctuation. Reference style is angular interlocking expressive 1990s graffiti with heavy charcoal ink outlines, cream-white painted bevels, dry brush texture, ink splatters and drips. Color palette ONLY #ae764c, #eee1c9, #94a393, #33362d including internal cream paint. Distinct dynamic composition, title legible, artist below; no other text or signature. Fully transparent alpha background, generous empty margins on all four sides. No wall, paper, checkerboard, background rectangle, or cast shadow. All strokes fully inside canvas.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    },
+    {
+      "id": "a-tribe-called-quest-steve-biko-stir-it-up",
+      "title": "Steve Biko (Stir It Up)",
+      "artist": "A Tribe Called Quest",
+      "album": "Midnight Marauders",
+      "legacy": false,
+      "palette": [
+        "#d93433",
+        "#e4cc54",
+        "#35926c",
+        "#222126"
+      ],
+      "paletteSource": "Midnight Marauders",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteReferenceTrack": "a-tribe-called-quest-award-tour",
+      "art": {
+        "word": "STEVE BIKO (STIR IT UP)",
+        "lines": [
+          "STEVE BIKO (STIR IT",
+          "UP)"
+        ],
+        "tag": "NEW YORK / 1993",
+        "style": "piece",
+        "seed": 3120745719,
+        "profile": "ny-subway",
+        "palette": [
+          "#d93433",
+          "#e4cc54",
+          "#35926c",
+          "#222126"
+        ],
+        "paletteSource": "Midnight Marauders",
+        "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+        "lettering": "tag",
+        "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      },
+      "image": "assets/graffiti/a-tribe-called-quest-steve-biko-stir-it-up-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/b/a-tribe-called-quest-steve-biko-stir-it-up-alpha.webp",
+      "blobSha": "4e8bfad2545082525dcc699d1db658f2b26d8135",
+      "prompt": "Create a transparent graffiti lettering asset. Style reference supplied: bold original interlocking angular black-and-white subway wildstyle, brush texture, ink splatter and drips. Exact main text \"Steve Biko (Stir It Up)\", exact smaller artist text \"A Tribe Called Quest\". Preserve every word and punctuation, no other text. Wide composition with generous transparent margins; all strokes wholly inside canvas. Title dominant, artist small but legible. Palette accents ONLY #d93433, #e4cc54, #35926c, #222126 plus internal white paint and near-black outlines. No wall, paper, checkerboard, shadows, signatures. Distinct rising diagonal composition. True transparent background.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    },
+    {
+      "id": "a-tribe-called-quest-we-can-get-down",
+      "title": "We Can Get Down",
+      "artist": "A Tribe Called Quest",
+      "album": "Midnight Marauders",
+      "legacy": false,
+      "palette": [
+        "#d93433",
+        "#e4cc54",
+        "#35926c",
+        "#222126"
+      ],
+      "paletteSource": "Midnight Marauders",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteReferenceTrack": "a-tribe-called-quest-award-tour",
+      "art": {
+        "word": "WE CAN GET DOWN",
+        "lines": [
+          "WE CAN GET DOWN"
+        ],
+        "tag": "NEW YORK / 1993",
+        "style": "piece",
+        "seed": 2257562798,
+        "profile": "ny-subway",
+        "palette": [
+          "#d93433",
+          "#e4cc54",
+          "#35926c",
+          "#222126"
+        ],
+        "paletteSource": "Midnight Marauders",
+        "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+        "lettering": "brush",
+        "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      },
+      "image": "assets/graffiti/a-tribe-called-quest-we-can-get-down-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/b/a-tribe-called-quest-we-can-get-down-alpha.webp",
+      "blobSha": "9a57f60daa1951ced9a9a3da87e9952591c0f23b",
+      "prompt": "Create a transparent graffiti lettering asset. Style reference supplied: bold original interlocking angular black-and-white subway wildstyle, brush texture, ink splatter and drips. Exact main text \"We Can Get Down\", exact smaller artist text \"A Tribe Called Quest\". Preserve every word and punctuation, no other text. Wide composition with generous transparent margins; all strokes wholly inside canvas. Title dominant, artist small but legible. Palette accents ONLY #d93433, #e4cc54, #35926c, #222126 plus internal white paint and near-black outlines. No wall, paper, checkerboard, shadows, signatures. Distinct two-line broad composition. True transparent background.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    },
+    {
+      "id": "main-source-he-got-so-much-soul",
+      "title": "He Got So Much Soul (He Don't Need No Music)",
+      "artist": "Main Source",
+      "album": "Breaking Atoms",
+      "legacy": false,
+      "palette": [
+        "#cf7d37",
+        "#eadd9d",
+        "#786994",
+        "#29292e"
+      ],
+      "paletteSource": "Breaking Atoms",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteReferenceTrack": "main-source-just-hangin-out",
+      "art": {
+        "word": "HE GOT SO MUCH SOUL (HE DON'T NEED NO MUSIC)",
+        "lines": [
+          "HE GOT SO MUCH SOUL (HE DON'T NEED NO MUSIC)",
+          "MAIN SOURCE"
+        ],
+        "tag": "NEW YORK / 1991",
+        "style": "piece",
+        "seed": 199101,
+        "profile": "ny-subway",
+        "palette": [
+          "#006cb6",
+          "#ffffff",
+          "#171717",
+          "#0b0b0b"
+        ],
+        "paletteSource": "サイト共通パレット",
+        "paletteNote": "アルバム画像の色照合は未実施。サイト共通色を採用。",
+        "lettering": "bubble",
+        "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      },
+      "image": "assets/graffiti/main-source-he-got-so-much-soul-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/b/main-source-he-got-so-much-soul-alpha.webp",
+      "blobSha": "00223ab8fed0b41f0c7dfb124d74b1b8e864b5b5",
+      "prompt": "Create a transparent graffiti lettering asset matching supplied style reference ONLY in style. Bold original interlocking angular black-and-white subway wildstyle, brush texture, ink splatter and drips. Exact main text He Got So Much Soul (He Don't Need No Music), exact smaller artist text Main Source. Preserve every word and punctuation, including full parenthetical subtitle; no other text. Wide composition with generous transparent margins; all strokes wholly inside canvas. Title dominant, artist small legible. Palette accents ONLY #cf7d37, #eadd9d, #786994, #29292e plus internal white paint and near-black outlines. No wall, paper, checkerboard, shadows, signatures. Distinct three-tier lettering with full subtitle below composition. True transparent background.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    },
+    {
+      "id": "az-sugar-hill",
+      "title": "Sugar Hill",
+      "artist": "AZ",
+      "album": "Doe or Die",
+      "legacy": false,
+      "palette": [
+        "#6f1f21",
+        "#345c32",
+        "#b48a39",
+        "#e7ddb6"
+      ],
+      "paletteSource": "Doe or Die",
+      "paletteNote": "Apple Music掲載のDoe or Dieジャケットを目視参照。臙脂・緑・金褐色・クリームの編集上の近似配色。厳密な色抽出ではありません。",
+      "paletteReferenceTrack": "az-rather-unique",
+      "art": {
+        "word": "SUGAR HILL",
+        "tag": "NEW YORK / 1995",
+        "style": "subway",
+        "seed": 2190,
+        "profile": "ny-subway",
+        "palette": [
+          "#006cb6",
+          "#ffffff",
+          "#8dc9ed",
+          "#101114"
+        ],
+        "paletteSource": "Crate Diggin’のブランドカラー",
+        "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+        "lines": [
+          "SUGAR",
+          "HILL"
+        ],
+        "lettering": "subway",
+        "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+      },
+      "image": "assets/graffiti/az-sugar-hill-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/b/az-sugar-hill-alpha.webp",
+      "blobSha": "ccb67e01e65219467f0965feda27cd461f3a14d8",
+      "prompt": "Create a transparent graffiti lettering asset matching supplied style reference ONLY in style. Bold original interlocking angular black-and-white subway wildstyle, brush texture, ink splatter and drips. Exact main text Sugar Hill, exact smaller artist text AZ. Preserve every word and punctuation, including full parenthetical subtitle; no other text. Wide composition with generous transparent margins; all strokes wholly inside canvas. Title dominant, artist small legible. Palette accents ONLY #6f1f21, #345c32, #b48a39, #e7ddb6 plus internal white paint and near-black outlines. No wall, paper, checkerboard, shadows, signatures. Distinct rising chunky two-line composition. True transparent background.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    },
+    {
+      "id": "gang-starr-flip-the-script",
+      "title": "Flip the Script",
+      "artist": "Gang Starr",
+      "album": "Daily Operation",
+      "legacy": false,
+      "palette": [
+        "#b54c42",
+        "#e4dccb",
+        "#918678",
+        "#292725"
+      ],
+      "paletteSource": "Daily Operation",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteReferenceTrack": "gang-starr-take-it-personal",
+      "art": {
+        "word": "FLIP THE SCRIPT",
+        "tag": "NEW YORK / 1992",
+        "style": "subway",
+        "seed": 1992205,
+        "profile": "ny-subway",
+        "palette": [
+          "#006cb6",
+          "#ffffff",
+          "#8dc9ed",
+          "#101114"
+        ],
+        "paletteSource": "Crate Diggin’のブランドカラー",
+        "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+        "lines": [
+          "FLIP THE SCRIPT"
+        ],
+        "lettering": "subway",
+        "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+      },
+      "image": "assets/graffiti/gang-starr-flip-the-script-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/b/gang-starr-flip-the-script-alpha.webp",
+      "blobSha": "393ce2a65a4618abecdce0370c1aa98172c01f1f",
+      "prompt": "Create a transparent graffiti lettering asset matching supplied style reference ONLY in style. Bold original interlocking angular black-and-white subway wildstyle, brush texture, ink splatter and drips. Exact main text Flip the Script, exact smaller artist text Gang Starr. Preserve every word and punctuation, including full parenthetical subtitle; no other text. Wide composition with generous transparent margins; all strokes wholly inside canvas. Title dominant, artist small legible. Palette accents ONLY #b54c42, #e4dccb, #918678, #292725 plus internal white paint and near-black outlines. No wall, paper, checkerboard, shadows, signatures. Distinct tilted staggered composition. True transparent background.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    },
+    {
+      "id": "gang-starr-ex-girl-to-next-girl",
+      "title": "Ex Girl to Next Girl",
+      "artist": "Gang Starr",
+      "album": "Daily Operation",
+      "legacy": false,
+      "palette": [
+        "#b54c42",
+        "#e4dccb",
+        "#918678",
+        "#292725"
+      ],
+      "paletteSource": "Daily Operation",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteReferenceTrack": "gang-starr-take-it-personal",
+      "art": {
+        "word": "EX GIRL TO NEXT GIRL",
+        "tag": "NEW YORK / 1992",
+        "style": "subway",
+        "seed": 1992206,
+        "profile": "ny-subway",
+        "palette": [
+          "#006cb6",
+          "#ffffff",
+          "#8dc9ed",
+          "#101114"
+        ],
+        "paletteSource": "Crate Diggin’のブランドカラー",
+        "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+        "lines": [
+          "EX GIRL TO NEXT",
+          "GIRL"
+        ],
+        "lettering": "subway",
+        "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+      },
+      "image": "assets/graffiti/gang-starr-ex-girl-to-next-girl-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/b/gang-starr-ex-girl-to-next-girl-alpha.webp",
+      "blobSha": "426d4769c85799386701c4429aab51bc8b88517a",
+      "prompt": "Create a transparent graffiti lettering asset matching supplied style reference ONLY in style. Bold original interlocking angular black-and-white subway wildstyle, brush texture, ink splatter and drips. Exact main text Ex Girl to Next Girl, exact smaller artist text Gang Starr. Preserve every word and punctuation, including full parenthetical subtitle; no other text. Wide composition with generous transparent margins; all strokes wholly inside canvas. Title dominant, artist small legible. Palette accents ONLY #b54c42, #e4dccb, #918678, #292725 plus internal white paint and near-black outlines. No wall, paper, checkerboard, shadows, signatures. Distinct two-line sharp rhythmic composition. True transparent background.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    },
+    {
+      "id": "gang-starr-b-y-s",
+      "title": "B.Y.S.",
+      "artist": "Gang Starr",
+      "album": "Daily Operation",
+      "legacy": false,
+      "palette": [
+        "#b54c42",
+        "#e4dccb",
+        "#918678",
+        "#292725"
+      ],
+      "paletteSource": "Daily Operation",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteReferenceTrack": "gang-starr-take-it-personal",
+      "art": {
+        "word": "B.Y.S.",
+        "tag": "NEW YORK / 1992",
+        "style": "subway",
+        "seed": 1992212,
+        "profile": "ny-subway",
+        "palette": [
+          "#006cb6",
+          "#ffffff",
+          "#8dc9ed",
+          "#101114"
+        ],
+        "paletteSource": "Crate Diggin’のブランドカラー",
+        "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+        "lines": [
+          "B.Y.S."
+        ],
+        "lettering": "subway",
+        "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+      },
+      "image": "assets/graffiti/gang-starr-b-y-s-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/c/gang-starr-b-y-s-alpha.webp",
+      "blobSha": "f4013bb7387d9b60f9644c70a9113abb72639298",
+      "prompt": "Create a transparent graffiti artwork for CRATE DIGGIN'. Exact large title \"B.Y.S.\" and smaller handlettered artist \"GANG STARR\". Original 1990s interlocking angular graffiti piece, energetic bold complex letterforms, sweeping horizontal composition, thick dark outline and cream internal highlights, dry brushed edges, ink splatter and paint drips. Album-referenced palette ONLY #b54c42, #e4dccb, #918678, #292725 plus internal white paint. Genuine alpha transparent background, generous empty margin all sides. No wall, paper, checkerboard, shadows, extra text or signature. Every title word and punctuation exact and readable. Match approved MASS APPEAL reference spirit, never reproduce layout literally.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    },
+    {
+      "id": "gang-starr-alongwaytogo",
+      "title": "ALONGWAYTOGO",
+      "artist": "Gang Starr",
+      "album": "Hard to Earn",
+      "legacy": false,
+      "palette": [
+        "#bf5737",
+        "#d4b66f",
+        "#ece5cc",
+        "#231f1c"
+      ],
+      "paletteSource": "Hard to Earn",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
+      "paletteReferenceTrack": "mass-appeal",
+      "art": {
+        "word": "ALONGWAYTOGO",
+        "tag": "NEW YORK / 1994",
+        "style": "subway",
+        "seed": 199613,
+        "profile": "ny-subway",
+        "palette": [
+          "#006cb6",
+          "#ffffff",
+          "#8dc9ed",
+          "#101114"
+        ],
+        "paletteSource": "Crate Diggin’のブランドカラー",
+        "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
+        "lines": [
+          "ALONGWAYTOGO"
+        ],
+        "lettering": "subway",
+        "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+      },
+      "image": "assets/graffiti/gang-starr-alongwaytogo-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/c/gang-starr-alongwaytogo-alpha.webp",
+      "blobSha": "670b84dd097bff3185ed5916d908b7ed368b9038",
+      "prompt": "Create a transparent graffiti artwork for CRATE DIGGIN'. Exact large title \"ALONGWAYTOGO\" and smaller handlettered artist \"GANG STARR\". Original 1990s interlocking angular graffiti piece, energetic bold complex letterforms, rising diagonal composition, thick dark outline and cream internal highlights, dry brushed edges, ink splatter and paint drips. Album-referenced palette ONLY #bf5737, #d4b66f, #ece5cc, #231f1c plus internal white paint. Genuine alpha transparent background, generous empty margin all sides. No wall, paper, checkerboard, shadows, extra text or signature. Every title word and punctuation exact and readable. Match approved MASS APPEAL reference spirit, never reproduce layout literally.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    },
+    {
+      "id": "dj-shadow-six-days",
+      "title": "Six Days",
+      "artist": "DJ Shadow",
+      "album": "The Private Press",
+      "legacy": false,
+      "palette": [
+        "#e5dccc",
+        "#bc3432",
+        "#232222",
+        "#a8a195"
+      ],
+      "paletteSource": "The Private Press",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "paletteReferenceTrack": "dj-shadow-mashin-on-the-motorway",
+      "art": {
+        "word": "SIX DAYS",
+        "lines": [
+          "SIX",
+          "DAYS"
+        ],
+        "tag": "DJ SHADOW / 2002",
+        "style": "piece",
+        "seed": 2026101504,
+        "profile": "ny-subway",
+        "palette": [
+          "#e5dccc",
+          "#bc3432",
+          "#232222",
+          "#a8a195"
+        ],
+        "paletteSource": "The Private Press",
+        "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+        "lettering": "block",
+        "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      },
+      "image": "assets/graffiti/dj-shadow-six-days-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/c/dj-shadow-six-days-alpha.webp",
+      "blobSha": "d7eb4bd2edabfd7f8db0b3a243c96ab17278ede6",
+      "prompt": "Transparent original 1990s graffiti artwork for CRATE DIGGIN'. Exact large title \"SIX DAYS\" and smaller handlettered artist \"DJ SHADOW\". Bold interlocking angular graffiti piece, wide jagged single-line composition, cream internal paint, dark thick outlines, brushed worn edges, controlled ink splatter and drips. Palette ONLY #e5dccc, #bc3432, #232222, #a8a195 plus internal white. Genuine alpha background and generous empty margin. No wall, paper, checkerboard, cast shadow, extra text or signature. Every word exactly spelled and readable. Approved MASS APPEAL spirit, original composition.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    },
+    {
+      "id": "big-l-all-black",
+      "title": "All Black",
+      "artist": "Big L",
+      "album": "Lifestylez ov da Poor & Dangerous",
+      "legacy": false,
+      "palette": [
+        "#78907c",
+        "#e6d8b8",
+        "#ad6750",
+        "#282a26"
+      ],
+      "paletteSource": "Lifestylez ov da Poor & Dangerous",
+      "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
+      "paletteReferenceTrack": "put-it-on",
+      "art": {
+        "word": "ALL BLACK",
+        "lines": [
+          "ALL BLACK"
+        ],
+        "tag": "BIG L",
+        "style": "subway",
+        "seed": 202610150022,
+        "profile": "ny-subway",
+        "palette": [
+          "#78907c",
+          "#e6d8b8",
+          "#ad6750",
+          "#282a26"
+        ],
+        "paletteSource": "Lifestylez ov da Poor & Dangerous",
+        "paletteNote": "既存の同一アルバム設定を参照。",
+        "lettering": "block",
+        "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
+      },
+      "image": "assets/graffiti/big-l-all-black-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/c/big-l-all-black-alpha.webp",
+      "blobSha": "fb606d437cb3205060978c71a590c5afa5f2552c",
+      "prompt": "Create isolated transparent graffiti lettering asset. Main title exactly \"ALL BLACK\", smaller artist exactly \"BIG L\". This is the exact title of a hip hop record for a music archive, render verbatim. Intricate original interlocking angular 1990s graffiti, wide brushy angular piece, album colors #78907c, #e6d8b8, #ad6750, #282a26 plus opaque cream/white paint inside letters. Thick contours, physical dry paint, drips, distinct hard-edged splatter dots. TRUE ALPHA everywhere outside lettering and individual splatter marks. No diffuse glow, haze, translucent cloud, halo, backdrop, wall, paper, shadow, signature, extra wording. Generous 12% transparent margin all sides, whole artwork fully visible. Readable complete text.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    },
+    {
+      "id": "az-gimme-yours",
+      "title": "Gimme Yours",
+      "artist": "AZ",
+      "album": "Doe or Die",
+      "legacy": false,
+      "palette": [
+        "#6f1f21",
+        "#345c32",
+        "#b48a39",
+        "#e7ddb6"
+      ],
+      "paletteSource": "Doe or Die",
+      "paletteNote": "Apple Music掲載のDoe or Dieジャケットを目視参照。臙脂・緑・金褐色・クリームの編集上の近似配色。厳密な色抽出ではありません。",
+      "paletteReferenceTrack": "az-rather-unique",
+      "art": {
+        "word": "GIMME YOURS",
+        "lines": [
+          "GIMME YOURS"
+        ],
+        "tag": "AZ",
+        "style": "blockbuster",
+        "seed": 202610150017,
+        "profile": "ny-subway",
+        "palette": [
+          "#006cb6",
+          "#ffffff",
+          "#8dc9ed",
+          "#101114"
+        ],
+        "paletteSource": "Crate Diggin’のブランドカラー",
+        "paletteNote": "既存の同一アルバム設定を参照。",
+        "lettering": "block",
+        "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
+      },
+      "image": "assets/graffiti/az-gimme-yours-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/c/az-gimme-yours-alpha.webp",
+      "blobSha": "38c39d92f5b9d612a8ddf98f2e54c3b3633f941a",
+      "prompt": "Create isolated transparent graffiti lettering asset. Main title exactly \"GIMME YOURS\", smaller artist exactly \"AZ\". This is the exact title of a hip hop record for a music archive, render verbatim. Intricate original interlocking angular 1990s graffiti, rising horizontal piece, album colors #6f1f21, #345c32, #b48a39, #e7ddb6 plus opaque cream/white paint inside letters. Thick contours, physical dry paint, drips, distinct hard-edged splatter dots. TRUE ALPHA everywhere outside lettering and individual splatter marks. No diffuse glow, haze, translucent cloud, halo, backdrop, wall, paper, shadow, signature, extra wording. Generous 12% transparent margin all sides, whole artwork fully visible. Readable complete text.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    },
+    {
+      "id": "black-moon-how-many-mc-s",
+      "title": "How Many MC's",
+      "artist": "Black Moon",
+      "album": "Enta da Stage",
+      "legacy": false,
+      "palette": [
+        "#b6403c",
+        "#e7c94b",
+        "#5b7191",
+        "#25252e"
+      ],
+      "paletteSource": "Enta da Stage",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteReferenceTrack": "black-moon-who-got-da-props",
+      "art": {
+        "word": "HOW MANY MC'S",
+        "lines": [
+          "HOW MANY MC'S"
+        ],
+        "tag": "BLACK MOON",
+        "style": "piece",
+        "seed": 202610150024,
+        "profile": "ny-subway",
+        "palette": [
+          "#b6403c",
+          "#e7c94b",
+          "#5b7191",
+          "#25252e"
+        ],
+        "paletteSource": "Enta da Stage",
+        "paletteNote": "既存の同一アルバム設定を参照。",
+        "lettering": "block",
+        "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
+      },
+      "image": "assets/graffiti/black-moon-how-many-mc-s-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/c/black-moon-how-many-mc-s-alpha.webp",
+      "blobSha": "075b98e420595efa7fc4a832512a7133eb420648",
+      "prompt": "A transparent PNG graffiti typographic cutout, wide landscape 2:1 composition. Exact large lettering \"HOW MANY MC'S\" and smaller handpainted \"BLACK MOON\". Original angular interlocking 90s graffiti in colors #b6403c, #e7c94b, #5b7191, #25252e plus white ink. Thick dark outlines, dynamic letter extensions, sharp splashes and drips. Only lettering and discrete paint droplets, empty alpha background. Hard silhouette with NO soft halo, no glow, no cloudy color washes. Broad transparent margins. Preserve full accurate wording.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    },
+    {
+      "id": "gang-starr-blowin-up-the-spot",
+      "title": "Blowin’ Up the Spot",
+      "artist": "Gang Starr",
+      "album": "Hard to Earn",
+      "legacy": false,
+      "palette": [
+        "#bf5737",
+        "#d4b66f",
+        "#ece5cc",
+        "#231f1c"
+      ],
+      "paletteSource": "Hard to Earn",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
+      "paletteReferenceTrack": "mass-appeal",
+      "art": {
+        "word": "BLOWIN’ UP THE SPOT",
+        "tag": "NEW YORK / 1994",
+        "style": "subway",
+        "seed": 199615,
+        "profile": "ny-subway",
+        "palette": [
+          "#006cb6",
+          "#ffffff",
+          "#8dc9ed",
+          "#101114"
+        ],
+        "paletteSource": "Crate Diggin’のブランドカラー",
+        "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
+        "lines": [
+          "BLOWIN’",
+          "UP",
+          "THE",
+          "SPOT"
+        ],
+        "lettering": "subway",
+        "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+      },
+      "image": "assets/graffiti/gang-starr-blowin-up-the-spot-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/c/gang-starr-blowin-up-the-spot-alpha.webp",
+      "blobSha": "4d82564efee084eb481c027ca22739ab56a1d388",
+      "prompt": "Create a transparent graffiti artwork for CRATE DIGGIN'. Exact large title \"BLOWIN’ UP THE SPOT\" and smaller handlettered artist \"GANG STARR\". Original 1990s interlocking angular graffiti piece, energetic bold complex letterforms, wide LANDSCAPE 2:1 horizontal composition, thick dark outline and cream internal highlights, dry brushed edges, ink splatter and paint drips. Album-referenced palette ONLY #bf5737, #d4b66f, #ece5cc, #231f1c plus internal white paint. Genuine alpha transparent background, generous empty margin all sides. No wall, paper, checkerboard, shadows, diffuse glow, haze, halo or extra text or signature. Every title word and punctuation exact and readable. Render letters and paint drops only, sharp isolated silhouette.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    },
+    {
+      "id": "gang-starr-no-shame-in-my-game",
+      "title": "No Shame in My Game",
+      "artist": "Gang Starr",
+      "album": "Daily Operation",
+      "legacy": false,
+      "palette": [
+        "#b54c42",
+        "#e4dccb",
+        "#918678",
+        "#292725"
+      ],
+      "paletteSource": "Daily Operation",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteReferenceTrack": "gang-starr-take-it-personal",
+      "art": {
+        "word": "NO SHAME IN MY GAME",
+        "tag": "NEW YORK / 1992",
+        "style": "subway",
+        "seed": 199418,
+        "profile": "ny-subway",
+        "palette": [
+          "#006cb6",
+          "#ffffff",
+          "#8dc9ed",
+          "#101114"
+        ],
+        "paletteSource": "Crate Diggin’のブランドカラー",
+        "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
+        "lines": [
+          "NO",
+          "SHAME",
+          "IN",
+          "MY"
+        ],
+        "lettering": "subway",
+        "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+      },
+      "image": "assets/graffiti/gang-starr-no-shame-in-my-game-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/c/gang-starr-no-shame-in-my-game-alpha.webp",
+      "blobSha": "382aab03fc9b1d0f8344eeee9ef014c8e2e88a6e",
+      "prompt": "Create a transparent graffiti artwork for CRATE DIGGIN'. Exact large title \"NO SHAME IN MY GAME\" and smaller handlettered artist \"GANG STARR\". Original 1990s interlocking angular graffiti piece, energetic bold complex letterforms, wide LANDSCAPE 2:1 horizontal composition, thick dark outline and cream internal highlights, dry brushed edges, ink splatter and paint drips. Album-referenced palette ONLY #b54c42, #e4dccb, #918678, #292725 plus internal white paint. Genuine alpha transparent background, generous empty margin all sides. No wall, paper, checkerboard, shadows, diffuse glow, haze, halo or extra text or signature. Every title word and punctuation exact and readable. Render letters and paint drops only, sharp isolated silhouette.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    },
+    {
+      "id": "unkle-lonely-soul",
+      "title": "Lonely Soul",
+      "artist": "UNKLE",
+      "album": "Psyence Fiction",
+      "legacy": false,
+      "palette": [
+        "#e7dfc8",
+        "#b7b9a6",
+        "#c64b3f",
+        "#292b28"
+      ],
+      "paletteSource": "Psyence Fiction",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "paletteReferenceTrack": "unkle-rabbit-in-your-headlights",
+      "art": {
+        "word": "LONELY SOUL",
+        "lines": [
+          "LONELY",
+          "SOUL"
+        ],
+        "tag": "UNKLE / 1998",
+        "style": "piece",
+        "seed": 2026101503,
+        "profile": "ny-subway",
+        "palette": [
+          "#e7dfc8",
+          "#b7b9a6",
+          "#c64b3f",
+          "#292b28"
+        ],
+        "paletteSource": "Psyence Fiction",
+        "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+        "lettering": "block",
+        "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      },
+      "image": "assets/graffiti/unkle-lonely-soul-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/c/unkle-lonely-soul-alpha.webp",
+      "blobSha": "e86e79a09f338c8d9281d867399724c4e4a4314a",
+      "prompt": "Create a transparent graffiti artwork for CRATE DIGGIN'. Exact large title \"LONELY SOUL\" and smaller handlettered artist \"UNKLE\". Original 1990s interlocking angular graffiti piece, energetic bold complex letterforms, wide LANDSCAPE 2:1 horizontal composition, thick dark outline and cream internal highlights, dry brushed edges, ink splatter and paint drips. Album-referenced palette ONLY #e7dfc8, #b7b9a6, #c64b3f, #292b28 plus internal white paint. Genuine alpha transparent background, generous empty margin all sides. No wall, paper, checkerboard, shadows, diffuse glow, haze, halo or extra text or signature. Every title word and punctuation exact and readable. Render letters and paint drops only, sharp isolated silhouette.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    },
+    {
+      "id": "dj-shadow-the-mountain-will-fall",
+      "title": "The Mountain Will Fall",
+      "artist": "DJ Shadow",
+      "album": "The Mountain Will Fall",
+      "legacy": false,
+      "palette": [
+        "#c8b3d7",
+        "#d1dadd",
+        "#b8bcbb",
+        "#494054"
+      ],
+      "paletteSource": "The Mountain Will Fall",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "paletteReferenceTrack": "dj-shadow-nobody-speak",
+      "art": {
+        "word": "THE MOUNTAIN WILL FALL",
+        "lines": [
+          "THE",
+          "MOUNTAIN",
+          "WILL FALL"
+        ],
+        "tag": "DJ SHADOW / 2016",
+        "style": "piece",
+        "seed": 2026101507,
+        "profile": "ny-subway",
+        "palette": [
+          "#c8b3d7",
+          "#d1dadd",
+          "#b8bcbb",
+          "#494054"
+        ],
+        "paletteSource": "The Mountain Will Fall",
+        "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+        "lettering": "block",
+        "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      },
+      "image": "assets/graffiti/dj-shadow-the-mountain-will-fall-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/c/dj-shadow-the-mountain-will-fall-alpha.webp",
+      "blobSha": "5d7ad9ed3045e6d5db20a2d8f651264ae94b86a1",
+      "prompt": "Wide landscape 2:1 PNG graffiti cutout, fully transparent alpha. Lettering only. EXACT text \"THE MOUNTAIN WILL FALL\" in a single horizontal line, and smaller \"DJ SHADOW\" below. Original aggressive interlocking angular 90s graffiti with worn cream paint and colors #c8b3d7, #d1dadd, #b8bcbb, #494054. Dark contours, dry-brush highlights, hard edged splatters and drips. No haze, glow, clouds, shadow or backdrop. All objects and lettering inside generous transparent margins. Match MASS APPEAL approved lettering spirit. Readable exact title.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    },
+    {
+      "id": "o-c-o-zone",
+      "title": "O-Zone",
+      "artist": "O.C.",
+      "album": "Word...Life",
+      "legacy": false,
+      "palette": [
+        "#b37543",
+        "#ead5a2",
+        "#60704c",
+        "#24211b"
+      ],
+      "paletteSource": "Word...Life",
+      "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
+      "paletteReferenceTrack": "times-up",
+      "art": {
+        "word": "O-ZONE",
+        "lines": [
+          "O-ZONE"
+        ],
+        "tag": "O.C.",
+        "style": "blockbuster",
+        "seed": 202610150014,
+        "profile": "ny-subway",
+        "palette": [
+          "#b37543",
+          "#ead5a2",
+          "#60704c",
+          "#24211b"
+        ],
+        "paletteSource": "Word...Life",
+        "paletteNote": "既存の同一アルバム設定を参照。",
+        "lettering": "block",
+        "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
+      },
+      "image": "assets/graffiti/o-c-o-zone-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/c/o-c-o-zone-alpha.webp",
+      "blobSha": "1860d51bb2f23d6c056eae088732b05784a2a244",
+      "prompt": "Wide landscape 2:1 PNG graffiti cutout with fully transparent alpha. Only lettering and discrete paint droplets. EXACT text \"O-ZONE\" in a sweeping horizontal composition, smaller \"O.C.\" below. Original aggressive interlocking angular 90s graffiti with worn cream paint and colors #b37543, #ead5a2, #60704c, #24211b. Dark contours, dry-brush highlights, hard edged splatters and drips. No haze, glow, clouds, shadow, rectangular field or backdrop. All objects and lettering inside generous 12% transparent margins. Match MASS APPEAL approved lettering spirit. Readable exact full title.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    },
+    {
+      "id": "mobb-deep-up-north-trip",
+      "title": "Up North Trip",
+      "artist": "Mobb Deep",
+      "album": "The Infamous",
+      "legacy": false,
+      "palette": [
+        "#aa7650",
+        "#e0c9a6",
+        "#8b715d",
+        "#2e2823"
+      ],
+      "paletteSource": "The Infamous",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteReferenceTrack": "mobb-deep-shook-ones-pt-ii",
+      "art": {
+        "word": "UP NORTH TRIP",
+        "lines": [
+          "UP NORTH TRIP"
+        ],
+        "tag": "MOBB DEEP",
+        "style": "piece",
+        "seed": 202610150018,
+        "profile": "ny-subway",
+        "palette": [
+          "#aa7650",
+          "#e0c9a6",
+          "#8b715d",
+          "#2e2823"
+        ],
+        "paletteSource": "The Infamous",
+        "paletteNote": "既存の同一アルバム設定を参照。",
+        "lettering": "block",
+        "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
+      },
+      "image": "assets/graffiti/mobb-deep-up-north-trip-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/c/mobb-deep-up-north-trip-alpha.webp",
+      "blobSha": "962e06853d87bba31df9c89ea3a706a450e7d1ff",
+      "prompt": "Wide landscape 2:1 PNG graffiti cutout with fully transparent alpha. Only lettering and discrete paint droplets. EXACT text \"UP NORTH TRIP\" in a sweeping horizontal composition, smaller \"MOBB DEEP\" below. Original aggressive interlocking angular 90s graffiti with worn cream paint and colors #aa7650, #e0c9a6, #8b715d, #2e2823. Dark contours, dry-brush highlights, hard edged splatters and drips. No haze, glow, clouds, shadow, rectangular field or backdrop. All objects and lettering inside generous 12% transparent margins. Match MASS APPEAL approved lettering spirit. Readable exact full title.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    },
+    {
+      "id": "smif-n-wessun-let-s-git-it-on",
+      "title": "Let's Git It On",
+      "artist": "Smif-N-Wessun",
+      "album": "Dah Shinin'",
+      "legacy": false,
+      "palette": [
+        "#aa713c",
+        "#ebd798",
+        "#518070",
+        "#201b16"
+      ],
+      "paletteSource": "Dah Shinin’",
+      "paletteNote": "ジャケットを参照した編集上の配色。厳密な抽出値ではない。",
+      "paletteReferenceTrack": "bucktown",
+      "art": {
+        "word": "LET'S GIT IT ON",
+        "lines": [
+          "LET'S GIT IT ON"
+        ],
+        "tag": "SMIF-N-WESSUN",
+        "style": "blockbuster",
+        "seed": 202610150023,
+        "profile": "ny-subway",
+        "palette": [
+          "#aa713c",
+          "#ebd798",
+          "#518070",
+          "#201b16"
+        ],
+        "paletteSource": "Dah Shinin’",
+        "paletteNote": "既存の同一アルバム設定を参照。",
+        "lettering": "block",
+        "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
+      },
+      "image": "assets/graffiti/smif-n-wessun-let-s-git-it-on-alpha.webp",
+      "localPath": "/workspace/scratch/83635806126b/batch93/c/smif-n-wessun-let-s-git-it-on-alpha.webp",
+      "blobSha": "7359c8112171b374f4c679557d83c5716a777aa4",
+      "prompt": "Wide landscape 2:1 PNG graffiti cutout with fully transparent alpha. Only lettering and discrete paint droplets. EXACT text \"LET'S GIT IT ON\" in a sweeping horizontal composition, smaller \"SMIF-N-WESSUN\" below. Original aggressive interlocking angular 90s graffiti with worn cream paint and colors #aa713c, #ebd798, #518070, #201b16. Dark contours, dry-brush highlights, hard edged splatters and drips. No haze, glow, clouds, shadow, rectangular field or backdrop. All objects and lettering inside generous 12% transparent margins. Match MASS APPEAL approved lettering spirit. Readable exact full title.",
+      "reviewedText": true,
+      "reviewedAlpha": true
+    }
+  ]
+}

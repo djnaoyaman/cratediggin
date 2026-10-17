@@ -1,0 +1,37 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
+const playerSource=fs.readFileSync('src/app/player.js','utf8');
+const selectionSource=fs.readFileSync('src/app/editorial.js','utf8').split('\n').find(line=>line.includes('function playSelection('));
+function setup(){
+ const elements=new Map(),loads=[],cues=[],players=[],storage=new Map(),copied=[],timers=new Map();let timerId=0;
+ const $=id=>{if(!elements.has(id))elements.set(id,{checked:true,hidden:false,value:0,textContent:'',classList:{toggle(){}},addEventListener(){}});return elements.get(id)};
+ const songs=[{id:'first',title:'First',artist:'A',youtube:{id:'aaaaaaaaaaa',url:'https://www.youtube.com/watch?v=aaaaaaaaaaa'}},{id:'chosen',title:'Chosen',artist:'B',youtube:{id:'bbbbbbbbbbb',url:'https://www.youtube.com/watch?v=bbbbbbbbbbb'}}];
+ const c={songs,$,window:{},art:{hidden:true},document:{createElement:()=>({}),head:{appendChild(){}},activeElement:null},location:{origin:'https://example.com'},localStorage:{getItem:k=>storage.get(k)||null,setItem:(k,v)=>storage.set(k,v)},navigator:{clipboard:{writeText:async text=>copied.push(text)}},setInterval(){},setTimeout(fn){const id=++timerId;timers.set(id,fn);return id},clearTimeout(id){timers.delete(id)},cur:0,queue:['first','chosen'],queueScope:[],queueCustom:false,ready:false,started:false,playing:false,player:null,sourcePlayer:null,sourceId:null,sourceActive:false,returnPlaying:false,returnTime:0,errorCount:0,lastInteraction:0,trackInteraction(){},currentRoute:()=> '#/',navigate(){},playableIds:xs=>xs.map(t=>t.id),YT:{Player:function(id,options){const p={loadVideoById:v=>loads.push(v.videoId),cueVideoById:v=>cues.push(v.videoId),pauseVideo(){},playVideo(){},stopVideo(){},makeReady(){options.events.onReady({target:p})},block(){options.events.onAutoplayBlocked()},fail(code){options.events.onError({data:code})},state(data){options.events.onStateChange({data})}};players.push(p);return p;}}};
+ vm.createContext(c);vm.runInContext(playerSource+'\n'+selectionSource,c);
+ return {c,loads,cues,players,$,copied,runTimers(){const pending=[...timers.values()];timers.clear();pending.forEach(fn=>fn())},ready(){c.window.onYouTubeIframeAPIReady();players[0].makeReady()}};
+}
+{
+ const t=setup();t.c.startSong(1);t.ready();assert.deepEqual(t.loads,['bbbbbbbbbbb'],'A play click before readiness must resume the requested song');assert.equal(t.c.cur,1);
+}
+{
+ const t=setup();t.c.window.onYouTubeIframeAPIReady();t.c.loadSong(1,false);t.players[0].makeReady();assert.deepEqual(t.cues,['bbbbbbbbbbb'],'A changed selection must replace the initial iframe video');assert.deepEqual(t.loads,[],'Browsing alone must not autoplay');
+}
+{
+ const t=setup();t.c.queue=['chosen'];t.c.toggle();t.ready();assert.deepEqual(t.loads,['bbbbbbbbbbb'],'Early global playback must honor exclusions');
+}
+{
+ const t=setup();t.c.toggle();t.c.toggle();t.ready();assert.deepEqual(t.loads,[],'A second toggle cancels pending playback');assert.deepEqual(t.cues,['aaaaaaaaaaa']);assert.equal(t.c.started,false);
+}
+{
+ const t=setup();t.c.playSelection([t.c.songs[1]],true);t.ready();assert.deepEqual(t.loads,['bbbbbbbbbbb'],'An early playlist/feature/guide click must preserve its selection');assert.deepEqual(Array.from(t.c.queue),['chosen']);
+}
+{
+ const t=setup();t.ready();t.c.startSong(1);t.players[0].block();assert.equal(t.$('#start').hidden,false,'Blocked autoplay must restore a visible retry button');t.c.startSong();assert.equal(t.loads.at(-1),'bbbbbbbbbbb');
+}
+console.log('Early song, cued selection, exclusions, cancellation, playlist and blocked-autoplay retry passed');
+
+(async()=>{const t=setup();t.ready();t.c.startSong(1);t.players[0].fail(150);assert.equal(t.$('#playback-report').hidden,false);await t.$('#playback-report').onclick();assert(t.copied[0].includes('B — Chosen / エラー 150'));assert(t.copied[0].includes('bbbbbbbbbbb'));console.log('Playback-error copy retains the failed recording and provider error code');})().catch(e=>{console.error(e);process.exitCode=1});
+
+(async()=>{const t=setup();t.ready();t.c.startSong(1);t.runTimers();assert.equal(t.$('#start').hidden,false);assert(t.$('#status').textContent.includes('読み込みに時間'));await t.$('#playback-report').onclick();assert(t.copied[0].includes('15秒を超過'));const ok=setup();ok.ready();ok.c.startSong(1);ok.players[0].state(1);ok.runTimers();assert.equal(ok.$('#playback-report').hidden,true);console.log('Stalled loading offers retry and a report; successful playback cancels timeout');})().catch(e=>{console.error(e);process.exitCode=1});
+
+for(const intervention of ['disable-auto','sample','same-track-retry']){const t=setup();t.ready();t.c.startSong(1);t.players[0].fail(150);if(intervention==='disable-auto')t.$('#auto').checked=false;if(intervention==='sample')t.c.sourceActive=true;if(intervention==='same-track-retry')t.c.startSong(1);t.runTimers();assert(t.loads.every(id=>id==='bbbbbbbbbbb'),intervention+' must cancel a stale auto-skip');assert.equal(t.c.cur,1)}
+console.log('Provider-error auto-skip respects auto preference, sample playback and manual retry');
