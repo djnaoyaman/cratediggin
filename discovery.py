@@ -169,7 +169,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         return ('<article class="feature-poster"><a class="feature-card feature-card--portrait" href="'+href+'"><div class="feature-portrait '+('feature-portrait--contain' if v.get('fit')=='contain' else '')+'">'
                 '<img class="feature-photo" src="'+base_path+'/'+esc(v['photo'],quote=True)+'" alt="'+esc(v['alt'],quote=True)+'" loading="lazy" style="object-position:'+esc(v.get('focus','50% 35%'),quote=True)+'">'
                 '<span class="feature-paper-grain" aria-hidden="true"></span><span class="feature-tape" aria-hidden="true">'+('ARTIST FILE' if f['type']=='artist' else 'PRODUCER FILE')+'</span>'
-                '<img class="feature-name-tag" src="'+base_path+'/'+esc(v['tag'],quote=True)+'" alt="" loading="lazy"></div><div class="feature-poster-copy">'+copy+'</div></a>'
+                '<img class="feature-name-tag" src="'+base_path+'/'+esc(v['tag'],quote=True)+'" alt="" loading="eager"></div><div class="feature-poster-copy">'+copy+'</div></a>'
                 '<p class="feature-photo-credit">Photo: <a href="'+esc(v['source'],quote=True)+'">'+esc(v['author'])+'</a> · <a href="'+esc(v['licenseUrl'],quote=True)+'">'+esc(v['license'])+'</a><br>'+esc(v['changes'])+('<br>写真別出典: '+ ' · '.join('<a href="'+esc(c['source'],quote=True)+'">'+esc(c['label'])+'</a> (<a href="'+esc(c['licenseUrl'],quote=True)+'">license</a>)' for c in v['components']) if v.get('components') else '')+'</p></article>')
     add('#/features', 'features/', 'アーティスト・プロデューサー特集 — Crate Diggin’',
         'DJ Naoyamanの視点で音楽性、制作背景、影響をたどるアーティスト・プロデューサー特集。',

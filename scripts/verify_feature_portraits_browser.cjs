@@ -18,7 +18,7 @@ const assert=require('node:assert/strict');
    assert((await card.locator('.feature-photo').getAttribute('alt')).includes('DJ Shadow'));
    assert.equal(await card.locator('.feature-name-tag').getAttribute('alt'),'');
    assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
-   await card.screenshot({path:'/tmp/feature-portrait-'+width+'.png'});for(const [i,c] of (await page.locator('.feature-poster').all()).entries()){await c.scrollIntoViewIfNeeded();await page.waitForFunction(()=>[...document.querySelectorAll('.feature-poster img')].filter(i=>i.getBoundingClientRect().top<innerHeight&&i.getBoundingClientRect().bottom>0).every(i=>i.complete&&i.naturalWidth>0));if(await c.locator('.feature-photo').count())assert(await c.locator('.feature-photo').getAttribute('alt'));await c.screenshot({path:'/tmp/feature-portrait-'+width+'-'+i+'.png'});}
+   await card.screenshot({path:'/tmp/feature-portrait-'+width+'.png'});for(const [i,c] of (await page.locator('.feature-poster').all()).entries()){await c.scrollIntoViewIfNeeded();await c.locator('img').evaluateAll(xs=>Promise.all(xs.map(i=>i.decode())));await page.evaluate(()=>new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(r))));if(await c.locator('.feature-photo').count())assert(await c.locator('.feature-photo').getAttribute('alt'));await c.screenshot({path:'/tmp/feature-portrait-'+width+'-'+i+'.png'});}
    await card.locator('.feature-card').click();await page.locator('h1.section-title').filter({hasText:'DJ Shadow'}).waitFor();
    assert.deepEqual(errors,[]);await context.close();
   }

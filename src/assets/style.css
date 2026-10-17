@@ -104,3 +104,6 @@
 .feature-portrait--contain .feature-photo{height:78%;object-fit:contain!important;object-position:50% 50%!important}.feature-portrait--contain:after{inset:78% 0 0;background:#dfc398}.feature-portrait--contain .feature-name-tag{max-height:24%;bottom:1%;width:88%;left:6%}
 
 .feature-portrait--name{display:flex;align-items:center;background:radial-gradient(ellipse at 30% 30%,#ebd8b5,#c7a778)}.feature-portrait--name .feature-name-tag{position:relative;bottom:auto;max-height:65%;z-index:3}.feature-portrait--name:after{display:none}
+
+/* Keep the paper label above, not across, actual faces. */
+.feature-card--portrait{padding-top:50px}.feature-portrait{overflow:visible}.feature-tape{top:-36px}
