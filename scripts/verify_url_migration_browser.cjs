@@ -6,7 +6,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict');
   await context.route('https://www.youtube.com/iframe_api',r=>r.abort());await context.route('https://www.googletagmanager.com/**',r=>r.abort());
   const page=await context.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));
   for(const [old,dest] of [['songs/can-i-kick-it.html','tracks/can-i-kick-it.html'],['features/dj-shadow.html','producers/dj-shadow.html'],['features/tribe-production.html','artists/tribe.html'],['features/','artists/'],['songs/?q=Jazz%20%26%20Soul','tracks/?q=Jazz%20%26%20Soul']]){
-   await page.goto('http://127.0.0.1:8765/cratediggin/'+old);await page.waitForURL('**/cratediggin/'+dest);assert(await page.locator('main').count());
+   const expected=new URL('http://127.0.0.1:8765/cratediggin/'+dest);await page.goto('http://127.0.0.1:8765/cratediggin/'+old);await page.waitForURL(u=>u.pathname===expected.pathname&&[...expected.searchParams].every(([k,v])=>u.searchParams.get(k)===v));assert(await page.locator('main').count());if(expected.searchParams.has('q'))assert.equal(await page.locator('#search').inputValue(),expected.searchParams.get('q'));
   }
   await page.goto('http://127.0.0.1:8765/cratediggin/tracks/can-i-kick-it.html');
   const image=page.locator('.track-artwork img');await image.evaluate(i=>i.decode());assert(await image.isVisible());assert((await image.getAttribute('alt')).includes('DJ Naoyaman'));
