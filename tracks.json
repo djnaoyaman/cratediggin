@@ -44431,5 +44431,851 @@
     "addedOrder": 399,
     "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
     "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+  },
+  {
+    "id": "cipher-complete-bring-hip-hop-back",
+    "title": "Bring Hip Hop Back",
+    "artist": "Cipher Complete",
+    "year": 1998,
+    "yearBasis": "1998年のコンピレーション収録。後年の配信日とは区別。",
+    "region": "East Coast",
+    "scene": "New Jersey / Rawkus",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "Lyricist Lounge, Vol. 1",
+    "label": "Rawkus",
+    "producer": "Dorsey Wesley",
+    "producers": [
+      "Dorsey Wesley"
+    ],
+    "sources": [
+      {
+        "label": "Qobuz — Rawkus提供の曲別制作・録音・ミックス情報",
+        "url": "https://www.qobuz.com/ch-fr/album/lyricist-lounge-vol-1-various-artists/0000881129032",
+        "kind": "source reference"
+      },
+      {
+        "label": "Validated — Flash本人へのインタビュー（2021）",
+        "url": "https://www.validatedmagazine.com/music-1/2021/1/14/iscnt7s06gmtslky0jn9znjw83hi26",
+        "kind": "source reference"
+      }
+    ],
+    "deck": "新人の声が、コンピレーションを越えて届く。",
+    "essayTitle": "一曲から、次の扉が開く。",
+    "essay": [
+      "1998年の『Lyricist Lounge, Vol. 1』は、すでに知られた名前と、これから覚えられる名前が並ぶ場所だった。Cipher Completeの「Bring Hip Hop Back」は、その後者から聴いてみたい一曲だ。",
+      "Dorsey Wesleyが制作・録音・ミックスを担う。表に立つデュオの名前と、その声をレコードへまとめる人の名前。クレジットは、短い曲の背後にある作業の輪を見せてくれる。",
+      "メンバーのFlashにとって、この収録は業界への入口になった。Rawkusという大きな看板を先に見るだけでなく、ここから何かが始まった一人の側へ立ってみる。コンピレーションの聴き方が、少し変わる。"
+    ],
+    "facts": [
+      {
+        "title": "制作・録音・ミックス",
+        "text": "『Lyricist Lounge, Vol. 1』収録。Dorsey Wesleyが制作・録音・ミックスを担当。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元を裏付ける資料がないため、個別名は掲載していない。",
+    "listening": [],
+    "context": "新人の声が、コンピレーションを越えて届く。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "youtube": {
+      "id": "742TdDzW9x4",
+      "url": "https://www.youtube.com/watch?v=742TdDzW9x4",
+      "title": "Bring Hip Hop Back",
+      "channel": "Cipher Complete - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式Topicチャンネルを再照合。権利者提供の掲載情報に基づく確認であり、実音声の聴取・再生進行は未検証。"
+    },
+    "art": {
+      "word": "BRING HIP HOP BACK",
+      "lines": [
+        "BRING HIP HOP BACK"
+      ],
+      "tag": "CIPHER COMPLETE",
+      "style": "piece",
+      "seed": 3342775041,
+      "profile": "ny-subway",
+      "palette": [
+        "#f2c82e",
+        "#345ba0",
+        "#dc4133",
+        "#111112"
+      ],
+      "paletteSource": "https://monsterrobot.party/release/399643/",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "addedOrder": 400,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "common-like-they-used-to-say",
+    "title": "Like They Used to Say",
+    "artist": "Common",
+    "year": 1999,
+    "yearBasis": "1999年シングル。公式動画の2001は収録コンピレーションの日付。",
+    "region": "Chicago",
+    "scene": "Chicago",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "One-Nine-Nine-Nine / Like They Used to Say",
+    "label": "Rawkus",
+    "producer": "Dug Infinite",
+    "producers": [
+      "Dug Infinite"
+    ],
+    "sources": [
+      {
+        "label": "Fake Shore Drive — Dug Infinite本人へのインタビュー（2016）",
+        "url": "https://www.fakeshoredrive.com/2016/07/fsd-feature-catching-dug-infinite.html/",
+        "kind": "source reference"
+      },
+      {
+        "label": "公式音源・アーティスト資料",
+        "url": "https://www.youtube.com/watch?v=m66UITPqCY8",
+        "kind": "source reference"
+      },
+      {
+        "label": "リリース・クレジット照合資料",
+        "url": "https://en.wikipedia.org/wiki/One-Nine-Nine-Nine",
+        "kind": "source reference"
+      },
+      {
+        "label": "1999年シングル現物ジャケット・収録情報",
+        "url": "https://www.sourcerecords.jp/product/10580",
+        "kind": "record sleeve"
+      }
+    ],
+    "deck": "CommonとDug Infinite。シングルのもう一面を、制作の人脈から掘る。",
+    "essayTitle": "もう一面にも、シカゴの時間が流れている。",
+    "essay": [
+      "Commonの「Like They Used to Say」は、1999年の「One-Nine-Nine-Nine」と対になったシングル曲。大きく刷られたCommonの名前の下に、片面ごとに違う制作者の仕事がある。",
+      "こちらを手掛けるのはDug Infinite。「One-Nine-Nine-Nine」のHi-Tekとは別の接点から、Commonの声を囲む。歌い手を軸にレコードを集めていても、制作名義へ目を移すだけで別の地図が開く。",
+      "DugとCommonをつないだのはNo I.D.だった。シカゴでビートを流し、フリースタイルを交わし、集まる場所を維持した仲間たち。この一曲から、その日常へ少し戻ってみたい。"
+    ],
+    "facts": [
+      {
+        "title": "シングルのもう一面",
+        "text": "1999年の「One-Nine-Nine-Nine」と対になった、Dug Infinite制作のCommonの曲。",
+        "sources": [
+          0,
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元を裏付ける資料がないため、個別名は掲載していない。",
+    "listening": [],
+    "context": "CommonとDug Infinite。シングルのもう一面を、制作の人脈から掘る。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "midwest"
+    ],
+    "youtube": {
+      "id": "m66UITPqCY8",
+      "url": "https://www.youtube.com/watch?v=m66UITPqCY8",
+      "title": "Like They Used to Say",
+      "channel": "Common - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式Topicチャンネルを再照合。権利者提供の掲載情報に基づく確認であり、実音声の聴取・再生進行は未検証。"
+    },
+    "art": {
+      "word": "LIKE THEY USED TO SAY",
+      "lines": [
+        "LIKE THEY USED TO SAY"
+      ],
+      "tag": "COMMON",
+      "style": "piece",
+      "seed": 980275945,
+      "profile": "ny-subway",
+      "palette": [
+        "#f0c33c",
+        "#c94024",
+        "#38505a",
+        "#d0c6af"
+      ],
+      "paletteSource": "https://www.sourcerecords.jp/product/10580",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "addedOrder": 401,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "black-eyed-peas-que-dices",
+    "title": "Que Dices?",
+    "artist": "Black Eyed Peas",
+    "year": 1998,
+    "yearBasis": "『Behind the Front』収録版の年。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "Behind the Front",
+    "label": "Interscope",
+    "producer": "will.i.am (William Adams)",
+    "producers": [
+      "will.i.am (William Adams)"
+    ],
+    "sources": [
+      {
+        "label": "Black Eyed Peas — 公式配信音源 ?Que Dices?",
+        "url": "https://www.youtube.com/watch?v=R8I05iBqdmw",
+        "kind": "official audio"
+      },
+      {
+        "label": "リリース・クレジット照合資料",
+        "url": "https://music.apple.com/kz/song/1445663258",
+        "kind": "source reference"
+      },
+      {
+        "label": "Behind the Front公式アルバム掲載・編集解説",
+        "url": "https://music.apple.com/us/album/behind-the-front/1445663231",
+        "kind": "official distribution editorial"
+      },
+      {
+        "label": "Forbes — Steve BaltinによるBlack Eyed Peas取材（2018）",
+        "url": "https://www.forbes.com/sites/stevebaltin/2018/01/18/how-black-eyed-peas-came-back-more-determined-than-ever/",
+        "kind": "primary source / original reporting"
+      }
+    ],
+    "deck": "will.i.amと仲間たちの制作をたどる、初期Black Eyed Peasの一曲。",
+    "essayTitle": "デビュー盤へ、クレジットから戻る。",
+    "essay": [
+      "Black Eyed Peasの「Que Dices?」を、1998年のアルバム『Behind the Front』に収められた形で聴く。後年の巨大なヒット曲を知るほど、最初のアルバムには先入観を外して向き合いたくなる。",
+      "曲別クレジットのWilliam Adamsはwill.i.amの本名。そこにBrian Lapin、Kevin Feyen、Allan Pineda、J. Gomezの名前が重なる。スターの前史というだけでなく、人が集まり作品を作る現場として捉えたい。",
+      "本人たちは後年、初期の自分たちのラップが新しい制作への刺激になったと語っている。過去を置き去りにした、あるいは戻った、と線を一本引くより、時代をまたいで自分たちへ問いかける音楽として聴くほうが面白い。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と制作",
+        "text": "Black Eyed Peasのデビュー・アルバム『Behind the Front』に収録された1998年の一曲。公式配信ではWilliam Adams、すなわちwill.i.amがプロデューサーとして記載されている。後年の大規模なポップ・ヒットとは別に、グループ初期のヒップホップ作品を掘り下げるための入口になる。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元を裏付ける資料がないため、個別名は掲載していない。",
+    "listening": [],
+    "context": "will.i.amと仲間たちの制作をたどる、初期Black Eyed Peasの一曲。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "west"
+    ],
+    "youtube": {
+      "id": "R8I05iBqdmw",
+      "url": "https://www.youtube.com/watch?v=R8I05iBqdmw",
+      "title": "?Que Dices?",
+      "channel": "The Black Eyed Peas - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式Topicチャンネルを再照合。権利者提供の掲載情報に基づく確認であり、実音声の聴取・再生進行は未検証。"
+    },
+    "art": {
+      "word": "QUE DICES?",
+      "lines": [
+        "QUE DICES?"
+      ],
+      "tag": "BLACK EYED PEAS",
+      "style": "piece",
+      "seed": 1523808484,
+      "profile": "ny-subway",
+      "palette": [
+        "#bb7944",
+        "#d5bb68",
+        "#0a0b09",
+        "#f5e8ca"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/behind-the-front/1445663231",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "addedOrder": 402,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "shadez-of-brooklyn-change",
+    "title": "Change",
+    "artist": "Shadez Of Brooklyn",
+    "year": 1996,
+    "yearBasis": "原盤の発売資料と公式配信の権利年を参照。配信開始日を初出と混同しない。",
+    "region": "New York",
+    "scene": "Brooklyn / Pandemonium Wrekordz",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "Change / When It Rains It Pours (Survival Warz), Pandemonium Wrekordz",
+    "label": "Pandemonium Wrekordz",
+    "producer": "Mr. Walt (Da Beatminerz)",
+    "producers": [
+      "Mr. Walt"
+    ],
+    "youtube": {
+      "id": "H42_m0pOR8k",
+      "url": "https://www.youtube.com/watch?v=H42_m0pOR8k",
+      "title": "Change",
+      "channel": "Shadez of Brooklyn - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式Topicチャンネルを再照合。権利者提供の掲載情報に基づく確認であり、実音声の聴取・再生進行は未検証。"
+    },
+    "art": {
+      "word": "CHANGE",
+      "lines": [
+        "CHANGE"
+      ],
+      "tag": "SHADEZ OF BROOKLYN",
+      "style": "piece",
+      "seed": 1463001719,
+      "profile": "ny-subway",
+      "palette": [
+        "#f05c43",
+        "#271e21",
+        "#b33a32",
+        "#090909"
+      ],
+      "paletteSource": "https://www.thegoodoldayz.com/album/change-when-it-rains-it-pours/30370.html",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "deck": "Mr. Walt、Tone The Backbone、D&D Studios。原盤ラベルから音の輪郭へ。",
+    "essayTitle": "ピアノとドラムの間に、証言が立つ。",
+    "essay": [
+      "1996年の「Change」は、Shadez Of BrooklynがPandemonium Wrekordzから出したシングル。『When It Rains It Pours (Survival Warz)』と組み合わされ、街の名前を掲げた声が一枚の12インチになった。",
+      "制作はMr. Walt、キーボードはTone The Backbone。D&D Studiosという録音場所までラベルに残っている。目立つ名前だけでなく、こうした小さな記載から曲へ入る方法もある。",
+      "当時のGavin Reportが拾ったのは、物憂いピアノ、強いドラム、淡々とした語りの取り合わせだった。その見取り図を借りて、伴奏の余韻と声の距離を追ってみたい。"
+    ],
+    "facts": [
+      {
+        "title": "収録盤と掲載音源",
+        "text": "1996年にPandemoniumから発表されたShadez Of Brooklynのシングル。発売当時のGavin Reportは、物憂いピアノと力強いドラムが淡々とした証言を支える曲として紹介している。『When It Rains It Pours』とのカップリングで、Street、Radio、Instrumentalの各版が用意された。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "現物ラベルのクレジット",
+        "text": "SOB 001 A面の原盤ラベルには、Produced by Mr. Walt 4 Da Beatminerz、Keyboards By Tone The Backbone、Recorded At D&D Studios, NYCと記載。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元を裏付ける資料がないため、個別名は掲載していない。",
+    "listening": [
+      "ラップと伴奏を分けて追い、声が入る場面と離れる場面を比較する。"
+    ],
+    "context": "Mr. Walt、Tone The Backbone、D&D Studios。原盤ラベルから音の輪郭へ。",
+    "sources": [
+      {
+        "label": "権利者提供の公式配信クレジット",
+        "url": "https://www.youtube.com/watch?v=H42_m0pOR8k",
+        "kind": "公式配信情報"
+      },
+      {
+        "label": "収録盤・制作資料",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/Gavin-Report/90/96/Gavin-1996-07-26.pdf",
+        "kind": "盤資料"
+      },
+      {
+        "label": "SOB 001原盤A面ラベル画像",
+        "url": "https://www.thegoodoldayz.com/album/change-when-it-rains-it-pours/30370.html",
+        "kind": "original label scan"
+      }
+    ],
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "addedOrder": 403,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "brand-nubian-love-vs-hate",
+    "title": "Love Vs. Hate",
+    "artist": "Brand Nubian",
+    "year": 1998,
+    "yearBasis": "原盤の発売資料と公式配信の権利年を参照。配信開始日を初出と混同しない。",
+    "region": "New York",
+    "scene": "New Rochelle / Brand Nubian",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "Foundation",
+    "label": "Arista",
+    "producer": "Lord Finesse",
+    "producers": [
+      "Lord Finesse"
+    ],
+    "youtube": {
+      "id": "57MqyVrizNc",
+      "url": "https://www.youtube.com/watch?v=57MqyVrizNc",
+      "title": "Love Vs. Hate",
+      "channel": "Brand Nubian - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式Topicチャンネルを再照合。権利者提供の掲載情報に基づく確認であり、実音声の聴取・再生進行は未検証。"
+    },
+    "art": {
+      "word": "LOVE VS. HATE",
+      "lines": [
+        "LOVE VS. HATE"
+      ],
+      "tag": "BRAND NUBIAN",
+      "style": "piece",
+      "seed": 2249470891,
+      "profile": "ny-subway",
+      "palette": [
+        "#a78a46",
+        "#4b2919",
+        "#e7d29b",
+        "#857344"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/foundation/298562204",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "deck": "Grand Pubaの回想とLord Finesseの制作から、タイトルの先へ進む。",
+    "essayTitle": "外側だけでなく、自分たちへ向く問い。",
+    "essay": [
+      "「Love Vs. Hate」は、Brand Nubianの1998年作『Foundation』に収められている。二つの大きな言葉が向かい合うタイトルだが、聴く入口をその対立だけに狭めたくない。",
+      "Grand Pubaは後年、この曲を自ら取り上げ、外の社会を責めるだけではない理解へ進んでいたと話している。誰かへの批判と、自分たちの責任を考えること。その距離を問い直す曲として読む手がかりだ。",
+      "制作はLord Finesse。仲間の声が再び一つのアルバムへ集まり、別の制作集団の仕事と交わる。『Foundation』という題名を、変わらない土台と、そこへ新しく積み重なる経験の両方から眺めてみたい。"
+    ],
+    "facts": [
+      {
+        "title": "収録盤と掲載音源",
+        "text": "Brand Nubianの1998年作『Foundation』収録。制作したLord Finesse本人のディスコグラフィーにも掲載される一曲で、D.I.T.C.の制作陣とBrand Nubianが交わる作品として位置づけられる。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元を裏付ける資料がないため、個別名は掲載していない。",
+    "listening": [
+      "ラップと伴奏を分けて追い、声が入る場面と離れる場面を比較する。"
+    ],
+    "context": "Grand Pubaの回想とLord Finesseの制作から、タイトルの先へ進む。",
+    "sources": [
+      {
+        "label": "権利者提供の公式配信クレジット",
+        "url": "https://www.youtube.com/watch?v=57MqyVrizNc",
+        "kind": "公式配信情報"
+      },
+      {
+        "label": "収録盤・制作資料",
+        "url": "https://www.lordfinesseditc.com/discography/",
+        "kind": "盤資料"
+      },
+      {
+        "label": "収録盤・制作資料",
+        "url": "https://groovenutrecords.wordpress.com/2020/04/27/mon-hiphop-ditc/",
+        "kind": "盤資料"
+      },
+      {
+        "label": "POW — Paul ThompsonによるGrand Pubaインタビュー（2025）",
+        "url": "https://www.powmag.net/p/the-foundation-an-interview-with-grand-puba",
+        "kind": "primary source / original reporting"
+      }
+    ],
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "addedOrder": 404,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "trends-of-culture-top-ten-interlude",
+    "title": "Top Ten Interlude",
+    "artist": "Trends Of Culture",
+    "year": 1993,
+    "yearBasis": "原盤の発売資料と公式配信の権利年を参照。配信開始日を初出と混同しない。",
+    "region": "New York",
+    "scene": "Harlem / Mad Sounds",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "Trendz...",
+    "label": "Mad Sounds / Motown",
+    "producer": "Grapevine & Dinky",
+    "producers": [
+      "Grapevine",
+      "Dinky"
+    ],
+    "youtube": {
+      "id": "gPWLajxQLJ4",
+      "url": "https://www.youtube.com/watch?v=gPWLajxQLJ4",
+      "title": "Top Ten Interlude",
+      "channel": "Trends of Culture - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式Topicチャンネルを再照合。権利者提供の掲載情報に基づく確認であり、実音声の聴取・再生進行は未検証。"
+    },
+    "art": {
+      "word": "TOP TEN INTERLUDE",
+      "lines": [
+        "TOP TEN INTERLUDE"
+      ],
+      "tag": "TRENDS OF CULTURE",
+      "style": "piece",
+      "seed": 1036747789,
+      "profile": "ny-subway",
+      "palette": [
+        "#633e89",
+        "#e63f28",
+        "#b6b8c5",
+        "#0e1411"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/trendz/1443475604",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "deck": "ヒット曲の間に挟まれた短編から、GrapevineとDinkyの制作をたどる。",
+    "essayTitle": "二つの「Valley」の間にあるもの",
+    "essay": [
+      "「Top Ten Interlude」は、Trends Of Cultureの1993年作『Trendz...』の10曲目。「Valley Of The Skinz」とそのBonus Mixの間に置かれた短編だ。原盤のブックレットにはGrapevineとDinkyの共同プロデュースと記され、M.O.L.が制作の中心を担うアルバムの中で、別の組み合わせが顔を出す。",
+      "その位置から聴き直すと、Interludeは単に省略できる余白ではなくなる。同じ曲名が前後に戻ってくる、その間で何が変わるのか。一曲を独立して楽しむと同時に、9曲目から11曲目まで続けて、アルバムが終盤に作った小さな迂回を追ってみたい。"
+    ],
+    "facts": [
+      {
+        "title": "曲別の制作と録音",
+        "text": "原盤ブックレットの10曲目はGrapevine & Dinky制作。録音・ミックスは“D” Anthony JohnsonとKeith “Skiter” Freeman、スタジオはUnique Studios, NY, NY。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "原盤の曲順",
+        "text": "9曲目Valley Of The Skinz、10曲目Top Ten Interlude、11曲目Valley Of The Skinz (Bonus Mix)。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元を裏付ける資料がないため、個別名は掲載していない。",
+    "listening": [],
+    "context": "ヒット曲の間に挟まれた短編から、GrapevineとDinkyの制作をたどる。",
+    "sources": [
+      {
+        "label": "Trends Of Culture公式配信 — Top Ten Interlude",
+        "url": "https://www.youtube.com/watch?v=gPWLajxQLJ4",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Trendz... CDブックレット — 曲別制作・録音クレジット",
+        "url": "https://www.rapmusicguide.com/amass/images/inventory/5956/trends%20of%20culture-3.jpg",
+        "kind": "原盤ブックレット画像"
+      },
+      {
+        "label": "Trendz... CDブックレット — メンバーとマネジメント",
+        "url": "https://www.rapmusicguide.com/amass/images/inventory/5956/trends%20of%20culture-2.jpg",
+        "kind": "原盤ブックレット画像"
+      },
+      {
+        "label": "Billboard — Mad for Trends（1993年5月22日、25頁）",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/90s/1993/BB-1993-05-22.pdf",
+        "kind": "同時代の本人・関係者取材"
+      },
+      {
+        "label": "Billboard — Mad for Trends（Google Books所蔵）",
+        "url": "https://books.google.com/books?id=cygEAAAAMBAJ&pg=PA25&q=darren+chandler+top+ten+entertainment",
+        "kind": "同時代資料"
+      }
+    ],
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "members": "Grapevine / Nastee / M.O.L.",
+    "addedOrder": 405,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "dangerdoom-mince-meat",
+    "title": "Mince Meat",
+    "artist": "DANGERDOOM",
+    "year": 2005,
+    "album": "The Mouse and the Mask",
+    "label": "Lex Records",
+    "producer": "Danger Mouse",
+    "region": "US",
+    "scene": "Danger Mouse × MF DOOM / Lex Records",
+    "category": "Underground Hip Hop",
+    "moods": [
+      "ディープ",
+      "個性的"
+    ],
+    "youtube": {
+      "id": "aAsrZ9E1oPo",
+      "channel": "DANGERDOOM - Topic",
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "url": "https://www.youtube.com/watch?v=aAsrZ9E1oPo",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式Topicチャンネルを再照合。権利者提供の掲載情報に基づく確認であり、実音声の聴取・再生進行は未検証。",
+      "official": true
+    },
+    "art": {
+      "word": "MINCE MEAT",
+      "tag": "DANGERDOOM",
+      "style": "piece",
+      "seed": 4194523746,
+      "palette": [
+        "#ef6948",
+        "#c8c76a",
+        "#767a76",
+        "#171717"
+      ],
+      "paletteSource": "https://dangerdoom.bandcamp.com/track/mince-meat",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lines": [
+        "MINCE MEAT"
+      ],
+      "lettering": "block",
+      "profile": "ny-subway",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "deck": "Danger MouseとMF DOOM。二人の名前が、一つの架空世界になる。",
+    "essayTitle": "仮面の向こうで、作者が遊ぶ。",
+    "essay": [
+      "「Mince Meat」は、Danger MouseとMF DOOMによるDANGERDOOMの2005年作『The Mouse & The Mask』に入っている。共同名義が、そのまま二人の役割を思い出させる。声の主と、その声の舞台をつくる人だ。",
+      "DOOMはキャラクターを使うことで、一人称を実生活の証明から解き放とうとした。話し手の誇張を、作者自身の告白へ即座に置き換えない。そうして聴くと、ラップの中に置かれた想像力へ近づける。",
+      "アルバムの図案も、一度では読み切れない。仮面と耳、色の粒と小さな災厄。遠くから見える形と、近づいて見える内容が違う。一曲を入口に、言葉とパッケージの両方を覗いてみたい。"
+    ],
+    "facts": [
+      {
+        "title": "制作の組み合わせ",
+        "text": "DANGERDOOMはDanger MouseとMF DOOMによる作品。Lexの公式作品ページがDanger Mouseの制作を明記している。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "2005年の収録曲",
+        "text": "公式配信の権利表記は2005年Lex Records。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元を裏付ける資料がないため、個別名は掲載していない。",
+    "listening": [
+      "まずラップの区切りを追い、次に声が止まった隙間のビートへ耳を向ける。",
+      "アルバムの前後の曲と続けて聴き、一曲単位とは違う配置の意味を探してみる。"
+    ],
+    "context": "Danger MouseとMF DOOM。二人の名前が、一つの架空世界になる。",
+    "sources": [
+      {
+        "label": "DANGERDOOM公式Bandcamp — Mince Meat",
+        "url": "https://dangerdoom.bandcamp.com/track/mince-meat",
+        "kind": "公式"
+      },
+      {
+        "label": "Lex Records — The Mouse and the Mask",
+        "url": "https://lexrecords.com/products/the-mouse-the-mask/",
+        "kind": "公式"
+      },
+      {
+        "label": "Lex配信公式音源 — Mince Meat",
+        "url": "https://www.youtube.com/watch?v=aAsrZ9E1oPo",
+        "kind": "公式"
+      },
+      {
+        "label": "The Wire — MF DOOM本人への2005年取材（Stones Throw転載）",
+        "url": "https://www.stonesthrow.com/news/mask-of-sorrow/",
+        "kind": "primary interview"
+      }
+    ],
+    "producers": [
+      "Danger Mouse"
+    ],
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "members": "Danger Mouse、MF DOOM",
+    "addedOrder": 406,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "the-grouch-eligh-everafter",
+    "title": "Everafter",
+    "artist": "The Grouch & Eligh",
+    "year": 2003,
+    "album": "No More Greener Grasses",
+    "label": "Legendary Music",
+    "region": "West Coast",
+    "scene": "The Grouch & Eligh / Independent Hip Hop",
+    "category": "Underground Hip Hop",
+    "moods": [
+      "ディープ",
+      "個性的"
+    ],
+    "youtube": {
+      "id": "uSCG_RGzMRE",
+      "channel": "Grouch - Topic",
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "url": "https://www.youtube.com/watch?v=uSCG_RGzMRE",
+      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式Topicチャンネルを再照合。権利者提供の掲載情報に基づく確認であり、実音声の聴取・再生進行は未検証。",
+      "official": true
+    },
+    "art": {
+      "word": "EVERAFTER",
+      "tag": "THE GROUCH & ELIGH",
+      "style": "piece",
+      "seed": 1814302840,
+      "palette": [
+        "#e2e74b",
+        "#779b47",
+        "#f3f2dd",
+        "#121810"
+      ],
+      "paletteSource": "https://audiomack.com/the-grouch-eligh/song/everafter",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "lines": [
+        "EVERAFTER"
+      ],
+      "lettering": "block",
+      "profile": "ny-subway",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "deck": "穏やかな入口から、二人のフロウが熱を増す。2003年の共同作に刻まれた一曲。",
+    "essayTitle": "二人のフロウが、同じ景色を加速させる",
+    "essay": [
+      "「Everafter」は、The Grouch & Elighが2003年に発表した『No More Greener Grasses』の3曲目。原盤CDにはLegendary MusicとRED Distributionの名があり、二人の連名はLiving Legendsの自主制作が店頭へ広がっていた時期に重なる。",
+      "発売直後のHip Hop Core評でCobaltが特に取り上げたのは、静かな導入からElighが勢いを上げ、続くThe Grouchもフロウの強度を高めていく展開だった。物憂いベースと浮遊する鍵盤に対して、声は前へ進む。その対比を手掛かりに、速さそのものより、二人がどこで推進力を受け渡すのかを追ってみたい。"
+    ],
+    "facts": [
+      {
+        "title": "原盤のレーベルと曲順",
+        "text": "2003年CD裏面はLegendary Music、RED Distribution表記。Everafterは3曲目として収録される。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "発売時に注目された一曲",
+        "text": "2003年11月のHip Hop Core評でCobaltはEverafterをアルバムの注目曲に選び、ElighからThe Grouchへつながるフロウの高まりを評価した。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元を裏付ける資料がないため、個別名は掲載していない。",
+    "listening": [],
+    "context": "穏やかな入口から、二人のフロウが熱を増す。2003年の共同作に刻まれた一曲。",
+    "sources": [
+      {
+        "label": "The Grouch公式配信 — Everafter",
+        "url": "https://www.youtube.com/watch?v=uSCG_RGzMRE",
+        "kind": "公式配信"
+      },
+      {
+        "label": "No More Greener Grasses CD裏面 — Legendary Music / RED Distribution",
+        "url": "https://www.rapmusicguide.com/amass/images/inventory/14258/The%20Grouch%20%26%20Eligh%20-%20No%20More%20Greener%20Grasses%20rear.jpg",
+        "kind": "原盤ジャケット画像"
+      },
+      {
+        "label": "Hip Hop Core — Cobaltによる同時代評（2003年11月）",
+        "url": "https://www.hiphopcore.net/chroniques/the-grouch-eligh--no-more-greener-grasses/",
+        "kind": "同時代の音楽批評"
+      },
+      {
+        "label": "MonsterFresh — The Grouch本人インタビュー（2008）",
+        "url": "https://monsterfresh.com/interviews/simple-man-interview-w-the-grouch/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "CMJ New Music Report — Retail / Points of Impact（2003年11月24日、33頁）",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/CMJ/2003/CMJ-841-2003-11-24.pdf",
+        "kind": "同時代の流通資料"
+      },
+      {
+        "label": "CMJ同号の保存ミラー — 33頁・35頁",
+        "url": "https://device.report/m/26d9ccae1f75a4b9d7f9de91b3f24337e4d5e4364826f673203288fc185d3f5a.pdf",
+        "kind": "同時代資料の保存版"
+      },
+      {
+        "label": "Eligh公式ストア — No More Greener Grasses",
+        "url": "https://www.elighmusic.com/store/no-more-greener-grasses-digital-download",
+        "kind": "アーティスト公式"
+      }
+    ],
+    "producers": [],
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "addedOrder": 407,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
   }
 ]
