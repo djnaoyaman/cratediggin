@@ -3666,14 +3666,18 @@
       "artist": "Erick Sermon",
       "album": "Green Eyed Remixes",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#78d52a",
+        "#31451b",
+        "#eae8bc"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Green Eyed Remixes",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/erick-sermon-stay-real-remix-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/green-eyed-remixes/1374724019"
     },
     {
       "id": "epmd-richter-scale",
@@ -3681,14 +3685,18 @@
       "artist": "EPMD",
       "album": "Back in Business",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#526e76",
+        "#c78f72",
+        "#ebeeee"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Back in Business",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/epmd-richter-scale-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/back-in-business/1443144972"
     },
     {
       "id": "erick-sermon-stay-real-pt-2",
@@ -3696,14 +3704,19 @@
       "artist": "Erick Sermon, Nature & Keith Murray",
       "album": "Vernia",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#a68a4f",
+        "#686c3f",
+        "#bc713c",
+        "#b8d934"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Vernia",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/erick-sermon-stay-real-pt-2-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/vernia/1524159272?uo=4"
     },
     {
       "id": "epmd-youre-a-customer",
@@ -3711,14 +3724,19 @@
       "artist": "EPMD",
       "album": "Strictly Business",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#edac21",
+        "#df6b27",
+        "#16a4c7",
+        "#78ad41"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Strictly Business",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/epmd-youre-a-customer-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/strictly-business/721248274"
     },
     {
       "id": "erick-sermon-im-hot",
@@ -3726,14 +3744,18 @@
       "artist": "Erick Sermon",
       "album": "Music",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#d32c27",
+        "#a6a0a0",
+        "#333031"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Music",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/erick-sermon-im-hot-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/music/298429528?uo=4"
     },
     {
       "id": "erick-sermon-feel-it",
@@ -3741,14 +3763,18 @@
       "artist": "Erick Sermon feat. Sean Paul & Sy Scott",
       "album": "Chilltown, New York / Incredible",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#d92e1f",
+        "#a9a9a9",
+        "#292929"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Incredible",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/erick-sermon-feel-it-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1036216272"
     },
     {
       "id": "erick-sermon-focus",
@@ -3756,14 +3782,18 @@
       "artist": "Erick Sermon feat. DJ Quik & Xzibit",
       "album": "Def Squad Presents: Erick Onasis",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#a2c8dd",
+        "#984237",
+        "#47718e"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Def Squad Presents: Erick Onasis",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/erick-sermon-focus-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/za/song/1374724535"
     },
     {
       "id": "nas-lifes-a-bitch",
@@ -3935,14 +3965,19 @@
       "artist": "Ugly Duckling",
       "album": "Fresh Mode",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#d64c29",
+        "#d8ad3b",
+        "#30599b",
+        "#80ae39"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Fresh Mode",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/ugly-duckling-now-who-s-laughin-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/fresh-mode/1443809789?uo=4"
     },
     {
       "id": "big-noyd-usual-suspect",
@@ -3950,14 +3985,18 @@
       "artist": "Big Noyd",
       "album": "Episodes of a Hustla",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#ee921e",
+        "#49717e",
+        "#e8e7dc"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Episodes of a Hustla",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/big-noyd-usual-suspect-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://bignoyd.bandcamp.com/album/episodes-of-a-hustla"
     },
     {
       "id": "dilated-peoples-work-the-angles",
@@ -3965,14 +4004,19 @@
       "artist": "Dilated Peoples",
       "album": "The Platform / Work the Angles",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#c2b793",
+        "#d5b939",
+        "#c84a3a",
+        "#8093a5"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "The Platform",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/dilated-peoples-work-the-angles-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/the-platform/716434305"
     },
     {
       "id": "gang-starr-flip-the-script",
@@ -4080,14 +4124,18 @@
       "artist": "Gang Starr",
       "album": "Suckas Need Bodyguards / The ? Remainz / Full Clip",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#a9b2ae",
+        "#e1e5de",
+        "#535959"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Full Clip: A Decade of Gang Starr",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-the-remainz-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/724829821"
     },
     {
       "id": "gang-starr-comin-for-the-datazz",
@@ -4155,14 +4203,18 @@
       "artist": "Gang Starr",
       "album": "8 Mile (Music from and Inspired by the Motion Picture)",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#d3a33c",
+        "#e1d5b6",
+        "#515153"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "8 Mile",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-battle-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1444221768"
     },
     {
       "id": "gang-starr-blowin-up-the-spot",
@@ -4190,14 +4242,18 @@
       "artist": "Gang Starr",
       "album": "No More Mr. Nice Guy",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#db2922",
+        "#5c5e59",
+        "#dededb"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "No More Mr. Nice Guy",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-dj-premier-in-deep-concentration-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://open.spotify.com/album/32d7ld2rMvAOWGngAAeq3m"
     },
     {
       "id": "gang-starr-gotta-get-over-taking-loot",
@@ -4205,14 +4261,18 @@
       "artist": "Gang Starr",
       "album": "Trespass (Music from the Motion Picture)",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#d52c79",
+        "#567db4",
+        "#aa9e88"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Trespass",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-gotta-get-over-taking-loot-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/trespass-music-from-the-motion-picture/423051473"
     },
     {
       "id": "gang-starr-no-shame-in-my-game",
@@ -4240,14 +4300,18 @@
       "artist": "Gang Starr",
       "album": "Step in the Arena",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#c6a650",
+        "#e9ddb0",
+        "#9a7a36"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Step in the Arena",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-step-in-the-arena-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/just-to-get-a-rep/723665537?i=723665846"
     },
     {
       "id": "dj-shadow-in-flux",
@@ -4305,14 +4369,18 @@
       "artist": "DJ Shadow",
       "album": "Mo' Wax singles",
       "palette": [
-        "#608a78",
-        "#e2d5b5",
-        "#b38052",
-        "#29392f"
+        "#ad7b60",
+        "#d6404e",
+        "#e8e5df"
       ],
-      "paletteSource": "Mo' Wax期の編集上の仮配色",
-      "paletteNote": "既存のDJ Shadow作品の配色を暫定的に継承。個別ジャケットとの照合は未完了。",
-      "status": "pending"
+      "paletteSource": "High Noon",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-high-noon-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1660564858"
     },
     {
       "id": "dj-shadow-the-number-song",
