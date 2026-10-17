@@ -3838,7 +3838,7 @@
         "#231f1c"
       ],
       "paletteSource": "Hard to Earn",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -6309,7 +6309,7 @@
         "#342b25"
       ],
       "paletteSource": "Illmatic",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteNote": "既存の同一アルバム設定を参照。編集上の近似配色であり厳密な色抽出ではありません。",
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -6422,7 +6422,7 @@
         "#342b25"
       ],
       "paletteSource": "Illmatic",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteNote": "既存の同一アルバム設定を参照。編集上の近似配色であり厳密な色抽出ではありません。",
       "lettering": "tag",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -6516,7 +6516,7 @@
         "#342b25"
       ],
       "paletteSource": "Illmatic",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteNote": "既存の同一アルバム設定を参照。編集上の近似配色であり厳密な色抽出ではありません。",
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -9189,7 +9189,7 @@
         "#17232e"
       ],
       "paletteSource": "Resurrection",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -12653,8 +12653,8 @@
         "#518070",
         "#201b16"
       ],
-      "paletteSource": "Dah Shinin'",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteSource": "Dah Shinin’",
+      "paletteNote": "ジャケットを参照した編集上の配色。厳密な抽出値ではない。",
       "lettering": "subway",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -14112,8 +14112,8 @@
         "#b38052",
         "#29392f"
       ],
-      "paletteSource": "Endtroducing.....",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteSource": "Endtroducing.....（DJ Shadow公式ストア掲載25周年盤）",
+      "paletteNote": "公式ストア掲載ジャケットの深緑の服、クリームの棚、木質の茶と暗部を目視参照した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -14225,8 +14225,8 @@
         "#b38052",
         "#29392f"
       ],
-      "paletteSource": "Endtroducing.....",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteSource": "Endtroducing.....（DJ Shadow公式ストア掲載25周年盤）",
+      "paletteNote": "公式ストア掲載ジャケットの深緑の服、クリームの棚、木質の茶と暗部を目視参照した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -14939,7 +14939,7 @@
         "#24211b"
       ],
       "paletteSource": "Word...Life",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -16805,13 +16805,13 @@
       "seed": 199101,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#171717",
-        "#0b0b0b"
+        "#cf7d37",
+        "#eadd9d",
+        "#786994",
+        "#29292e"
       ],
-      "paletteSource": "サイト共通パレット",
-      "paletteNote": "アルバム画像の色照合は未実施。サイト共通色を採用。",
+      "paletteSource": "Breaking Atoms",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -19729,13 +19729,13 @@
       "seed": 2190,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#6f1f21",
+        "#345c32",
+        "#b48a39",
+        "#e7ddb6"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Doe or Die",
+      "paletteNote": "Apple Music掲載のDoe or Dieジャケットを目視参照。臙脂・緑・金褐色・クリームの編集上の近似配色。厳密な色抽出ではありません。",
       "lines": [
         "SUGAR",
         "HILL"
@@ -20882,13 +20882,13 @@
       "seed": 1992205,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#b54c42",
+        "#e4dccb",
+        "#918678",
+        "#292725"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Daily Operation",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lines": [
         "FLIP THE SCRIPT"
       ],
@@ -20989,13 +20989,13 @@
       "seed": 1992206,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#b54c42",
+        "#e4dccb",
+        "#918678",
+        "#292725"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Daily Operation",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lines": [
         "EX GIRL TO NEXT",
         "GIRL"
@@ -21129,13 +21129,13 @@
       "seed": 1992207,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#b54c42",
+        "#e4dccb",
+        "#918678",
+        "#292725"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Daily Operation",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lines": [
         "TAKE TWO AND PASS"
       ],
@@ -21268,13 +21268,13 @@
       "seed": 1992208,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#b54c42",
+        "#e4dccb",
+        "#918678",
+        "#292725"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Daily Operation",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lines": [
         "2 DEEP"
       ],
@@ -21375,13 +21375,13 @@
       "seed": 1994209,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#bf5737",
+        "#d4b66f",
+        "#ece5cc",
+        "#231f1c"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Hard to Earn",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
       "lines": [
         "MOSTLY THA VOICE"
       ],
@@ -21622,13 +21622,13 @@
       "seed": 1994211,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#bf5737",
+        "#d4b66f",
+        "#ece5cc",
+        "#231f1c"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Hard to Earn",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
       "lines": [
         "COMIN’ FOR THE",
         "DATAZZ"
@@ -21734,13 +21734,13 @@
       "seed": 1992212,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#b54c42",
+        "#e4dccb",
+        "#918678",
+        "#292725"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Daily Operation",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lines": [
         "B.Y.S."
       ],
@@ -21873,13 +21873,13 @@
       "seed": 199613,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#bf5737",
+        "#d4b66f",
+        "#ece5cc",
+        "#231f1c"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Hard to Earn",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
       "lines": [
         "ALONGWAYTOGO"
       ],
@@ -22100,13 +22100,13 @@
       "seed": 199615,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#bf5737",
+        "#d4b66f",
+        "#ece5cc",
+        "#231f1c"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Hard to Earn",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
       "lines": [
         "BLOWIN’",
         "UP",
@@ -22446,13 +22446,13 @@
       "seed": 199418,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#b54c42",
+        "#e4dccb",
+        "#918678",
+        "#292725"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Daily Operation",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lines": [
         "NO",
         "SHAME",
@@ -22875,8 +22875,8 @@
         "#b38052",
         "#29392f"
       ],
-      "paletteSource": "Endtroducing.....",
-      "paletteNote": "既存のDJ Shadow作品の配色を暫定的に継承。個別ジャケットとの照合は未完了。",
+      "paletteSource": "Endtroducing.....（DJ Shadow公式ストア掲載25周年盤）",
+      "paletteNote": "公式ストア掲載ジャケットの深緑の服、クリームの棚、木質の茶と暗部を目視参照した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -23068,8 +23068,8 @@
         "#b38052",
         "#29392f"
       ],
-      "paletteSource": "Endtroducing.....",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "paletteSource": "Endtroducing.....（DJ Shadow公式ストア掲載25周年盤）",
+      "paletteNote": "公式ストア掲載ジャケットの深緑の服、クリームの棚、木質の茶と暗部を目視参照した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -23303,8 +23303,8 @@
         "#b38052",
         "#29392f"
       ],
-      "paletteSource": "Endtroducing.....",
-      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "paletteSource": "Endtroducing.....（DJ Shadow公式ストア掲載25周年盤）",
+      "paletteNote": "公式ストア掲載ジャケットの深緑の服、クリームの棚、木質の茶と暗部を目視参照した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -23448,8 +23448,8 @@
         "#b38052",
         "#29392f"
       ],
-      "paletteSource": "Endtroducing.....",
-      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "paletteSource": "Endtroducing.....（DJ Shadow公式ストア掲載25周年盤）",
+      "paletteNote": "公式ストア掲載ジャケットの深緑の服、クリームの棚、木質の茶と暗部を目視参照した編集上の近似配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
@@ -28525,7 +28525,7 @@
         "#24211b"
       ],
       "paletteSource": "Word...Life",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -28738,13 +28738,13 @@
       "seed": 202610150017,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#6f1f21",
+        "#345c32",
+        "#b48a39",
+        "#e7ddb6"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteSource": "Doe or Die",
+      "paletteNote": "Apple Music掲載のDoe or Dieジャケットを目視参照。臙脂・緑・金褐色・クリームの編集上の近似配色。厳密な色抽出ではありません。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -28856,7 +28856,7 @@
         "#2e2823"
       ],
       "paletteSource": "The Infamous",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -29190,7 +29190,7 @@
         "#282a26"
       ],
       "paletteSource": "Lifestylez ov da Poor & Dangerous",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -29297,7 +29297,7 @@
         "#201b16"
       ],
       "paletteSource": "Dah Shinin’",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "ジャケットを参照した編集上の配色。厳密な抽出値ではない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -29414,7 +29414,7 @@
         "#25252e"
       ],
       "paletteSource": "Enta da Stage",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -29760,7 +29760,7 @@
         "#24211b"
       ],
       "paletteSource": "Word...Life",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -30118,7 +30118,7 @@
         "#211c19"
       ],
       "paletteSource": "The Main Ingredient",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -30238,7 +30238,7 @@
         "#211c19"
       ],
       "paletteSource": "The Main Ingredient",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -30358,7 +30358,7 @@
         "#25252e"
       ],
       "paletteSource": "Enta da Stage",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -30831,7 +30831,7 @@
         "#151718"
       ],
       "paletteSource": "The Low End Theory",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -31403,7 +31403,7 @@
         "#302b26"
       ],
       "paletteSource": "Mecca and the Soul Brother",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "既存の同一アルバム設定を参照。編集上の近似配色であり厳密な色抽出ではありません。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -32690,7 +32690,7 @@
         "#322d27"
       ],
       "paletteSource": "Runaway Slave",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -32809,7 +32809,7 @@
         "#33362d"
       ],
       "paletteSource": "Stunts, Blunts & Hip Hop",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -33154,7 +33154,7 @@
         "#32285c"
       ],
       "paletteSource": "Bizarre Ride II the Pharcyde",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -34416,7 +34416,7 @@
         "#211e20"
       ],
       "paletteSource": "The Beatnuts（Street Level）",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -35562,7 +35562,7 @@
         "#231f1c"
       ],
       "paletteSource": "Hard to Earn",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -36023,7 +36023,7 @@
         "#32285c"
       ],
       "paletteSource": "Bizarre Ride II the Pharcyde",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -37998,7 +37998,7 @@
         "#151718"
       ],
       "paletteSource": "The Low End Theory",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -38107,7 +38107,7 @@
         "#33362d"
       ],
       "paletteSource": "Stunts, Blunts & Hip Hop",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -38460,7 +38460,7 @@
         "#322d27"
       ],
       "paletteSource": "Runaway Slave",
-      "paletteNote": "既存の同一アルバム設定を参照。",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -40875,13 +40875,13 @@
       "seed": 1723763717,
       "profile": "ny-subway",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#ce9f40",
+        "#f3e3b4",
+        "#98705a",
+        "#211c19"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "paletteSource": "The Main Ingredient",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "lettering": "block",
       "letteringNote": "既存作品の転載ではない独自の文字表現。"
     },
