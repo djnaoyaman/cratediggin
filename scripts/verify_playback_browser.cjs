@@ -1,3 +1,4 @@
+require('./verify_player_readiness.cjs');
 const http=require('node:http'),fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
 const {chromium}=require('playwright');
 
