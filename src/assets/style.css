@@ -95,3 +95,5 @@
 .image-art .art-brand span{color:#444}
 
 .art-brand .art-credit{margin-top:6px;font-size:9px;letter-spacing:.06em}
+
+.art-brand .art-credit{display:flex;align-items:center;gap:6px}.art-brand .art-credit-label{margin:0;font-size:8px;letter-spacing:.03em}.art-brand .art-signature{display:block;width:112px;height:32px;object-fit:contain;filter:invert(1)}.image-art .art-brand .art-signature{filter:none}
