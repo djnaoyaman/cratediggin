@@ -1,0 +1,24 @@
+const {chromium}=require('playwright'),assert=require('node:assert/strict');
+(async()=>{const browser=await chromium.launch({headless:true});try{
+ for(const width of [320,390,768,1280])for(const js of [true,false]){
+  const context=await browser.newContext({viewport:{width,height:900},hasTouch:width<=640,javaScriptEnabled:js,reducedMotion:'reduce'});
+  if(js)await context.addInitScript(()=>Object.defineProperty(window,'CRATE_SITE_URL',{get:()=>location.origin+'/cratediggin',set(){}}));
+  await context.route('https://www.youtube.com/iframe_api',r=>r.abort());await context.route('https://www.googletagmanager.com/**',r=>r.abort());
+  const page=await context.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));
+  for(const [path,count] of [['artists',10],['producers',5]]){
+   await page.goto('http://127.0.0.1:8765/cratediggin/'+path+'/');const rail=page.locator('.feature-swipe');await rail.waitFor();assert.equal(await rail.locator('.feature-poster').count(),count);assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
+   const box=await rail.boundingBox();const cards=rail.locator('.feature-poster');const first=await cards.nth(0).boundingBox(),second=await cards.nth(1).boundingBox();
+   if(width<=640){assert(second.x<box.x+box.width-4,'Next card should peek');assert(second.x>first.x+first.width,'Separate columns');assert.equal(await rail.evaluate(e=>getComputedStyle(e).overflowX),'auto');assert(await page.locator('.feature-swipe-hint').isVisible());
+    await rail.scrollIntoViewIfNeeded();const b=await rail.boundingBox();const cdp=await context.newCDPSession(page),y=Math.min(b.y+180,700),x=b.x+b.width*.8;
+    await cdp.send('Input.dispatchTouchEvent',{type:'touchStart',touchPoints:[{x,y}]});for(let i=1;i<=6;i++)await cdp.send('Input.dispatchTouchEvent',{type:'touchMove',touchPoints:[{x:x-i*b.width*.1,y}]});await cdp.send('Input.dispatchTouchEvent',{type:'touchEnd',touchPoints:[]});await page.waitForTimeout(350);assert(await rail.evaluate(e=>e.scrollLeft)>20,'Horizontal touch scroll');
+    await rail.evaluate(e=>e.scrollLeft=0);await rail.focus();await page.keyboard.press('Tab');assert(await page.evaluate(()=>document.activeElement.matches('.feature-card')),'Keyboard enters first card'); const later=rail.locator('.feature-card').nth(2);for(let tab=0;tab<30 && !(await later.evaluate(e=>e===document.activeElement));tab++)await page.keyboard.press('Tab');assert(await later.evaluate(e=>e===document.activeElement),'Keyboard reaches off-screen card');const focusRect=await later.boundingBox(),railRect=await rail.boundingBox();assert(focusRect.x>=railRect.x-1 && focusRect.x+focusRect.width<=railRect.x+railRect.width+1,'Focused card scrolls into view');
+    const before=await page.evaluate(()=>scrollY),rect=await rail.boundingBox(),vy=Math.max(200,Math.min(rect.y+250,650)),vx=rect.x+80;
+    await cdp.send('Input.dispatchTouchEvent',{type:'touchStart',touchPoints:[{x:vx,y:vy}]});for(let i=1;i<=5;i++)await cdp.send('Input.dispatchTouchEvent',{type:'touchMove',touchPoints:[{x:vx,y:vy-i*32}]});await cdp.send('Input.dispatchTouchEvent',{type:'touchEnd',touchPoints:[]});await page.waitForTimeout(250);assert(await page.evaluate(()=>scrollY)>before+20,'Vertical page gesture remains usable');await cdp.detach();
+   }else{assert(Math.abs(first.y-second.y)<2,'Desktop two-column layout');assert.equal(await page.locator('.feature-swipe-hint').isVisible(),false);assert(await rail.evaluate(e=>e.scrollWidth<=e.clientWidth+1));}
+   await rail.locator('.feature-card').first().scrollIntoViewIfNeeded();if(js)await page.screenshot({path:'/tmp/feature-swipe-'+path+'-'+width+'.png',fullPage:false});
+   const href=await rail.locator('.feature-card').first().getAttribute('href');if(width<=640)await rail.locator('.feature-card').first().tap();else await rail.locator('.feature-card').first().click();await page.waitForURL(u=>u.pathname.endsWith('.html'));assert(page.url().includes(href.replace('http://127.0.0.1:8765','')),'Card navigates');
+  }
+  if(js){await page.goto('http://127.0.0.1:8765/cratediggin/artists/');await page.getByRole('link',{name:'PRODUCERS：プロデューサー特集へ ↗',exact:true}).click();await page.waitForURL('**/producers/');assert.equal(await page.locator('.feature-swipe .feature-poster').count(),5);}assert.deepEqual(errors,[]);await context.close();
+ }
+ console.log('Mobile native feature swipe, next-card peek, horizontal/vertical touch, keyboard, static/SPA and desktop grids passed');
+}finally{await browser.close();}})().catch(e=>{console.error(e);process.exitCode=1});
