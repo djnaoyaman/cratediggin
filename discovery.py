@@ -225,7 +225,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
             art = track['art']
             if art.get('image'):
                 figure = '<figure class="track-artwork"><img src="'+base_path+'/'+esc(art['image'],quote=True)+'" alt="'+esc(art['alt'],quote=True)+'" width="'+str(art['width'])+'" height="'+str(art['height'])+'" loading="lazy"><figcaption>Original graffiti · Designed by DJ Naoyaman</figcaption></figure>'
-                content = content.replace('</h1>', '</h1>'+figure, 1)
+                content = re.sub(r'(<main id="view"[^>]*>.*?</h1>)', lambda m: m[0]+figure, content, count=1, flags=re.S)
         content = re.sub(r'<title>.*?</title>', lambda _: '<title>' + esc(p['title']) + '</title>', content, flags=re.S)
         content = re.sub(r'<meta\b[^>]*(?:name="(?:description|author|robots|twitter:[^"]+)"|property="(?:og|article):[^"]+")[^>]*>', '', content)
         content = re.sub(r'<link\b[^>]*rel="(?:canonical|alternate)"[^>]*>', '', content)

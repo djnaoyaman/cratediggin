@@ -31,7 +31,10 @@ for route,p in pages.items():
  if route.startswith('#/song/'):
   tid=route.split('/')[-1];assert ('class="track-artwork"' in s)==(tid in ready)
   if tid in ready:
-   fig=s.split('<figure class="track-artwork">')[1].split('</figure>')[0]
+   assert s.count('class="track-artwork"')==1
+   main=s.split('<main id="view"',1)[1].split('</main>',1)[0]
+   assert 'class="track-artwork"' in main, 'Artwork must be in the article, not the global hero'
+   fig=main.split('<figure class="track-artwork">')[1].split('</figure>')[0]
    assert 'width="' in fig and 'height="' in fig and 'CRATE DIGGIN｜DJ Naoyaman' in fig
 for kind,count,photo in [('artists',10,8),('producers',5,4)]:
  s=(d/kind/'index.html').read_text();assert s.count('class="feature-poster"')==count;assert s.count('class="feature-photo"')==photo
