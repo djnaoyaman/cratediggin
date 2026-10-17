@@ -705,14 +705,19 @@
       "artist": "Gang Starr",
       "album": "Full Clip: A Decade of Gang Starr",
       "palette": [
-        "#d24d35",
-        "#ece7da",
-        "#a79e86",
-        "#232322"
+        "#a9b3af",
+        "#dfe6df",
+        "#343b39",
+        "#7b8884"
       ],
       "paletteSource": "Full Clip: A Decade of Gang Starr",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載の銀色ジャケットを2026-10-17に目視確認した編集上の近似配色。色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-full-clip-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/full-clip-a-decade-of-gang-starr/724829211"
     },
     {
       "id": "diamond-d-best-kept-secret",
@@ -759,14 +764,19 @@
       "artist": "Lord Finesse",
       "album": "The Awakening",
       "palette": [
-        "#c19446",
-        "#e8d5a9",
-        "#9e7056",
-        "#30251e"
+        "#d5a547",
+        "#16131a",
+        "#292c69",
+        "#6d514b"
       ],
       "paletteSource": "The Awakening",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載の1996年版ジャケットを2026-10-17に目視確認。金色の見出し、黒、暗い青紫を参照した編集上の近似配色。色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/lord-finesse-hip-2-da-game-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/the-awakening/1604632794"
     },
     {
       "id": "lord-finesse-return-of-the-funky-man",
@@ -832,14 +842,18 @@
       "artist": "Showbiz & A.G.",
       "album": "Goodfellas",
       "palette": [
-        "#a55747",
-        "#e9decc",
-        "#8e9c91",
-        "#302d2b"
+        "#07080a",
+        "#f5f4f0",
+        "#981e28"
       ],
       "paletteSource": "Goodfellas",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/showbiz-a-g-next-level-nyte-time-mix-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/goodfellas/1444086789"
     },
     {
       "id": "black-moon-who-got-da-props",
@@ -885,14 +899,19 @@
       "artist": "Jeru the Damaja",
       "album": "The Sun Rises in the East",
       "palette": [
-        "#aa6745",
-        "#e3ccb1",
-        "#718593",
-        "#2d2a28"
+        "#cc762c",
+        "#edd38d",
+        "#191619",
+        "#29365b"
       ],
       "paletteSource": "The Sun Rises in the East",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/jeru-the-damaja-come-clean-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/the-sun-rises-in-the-east/1434911347"
     },
     {
       "id": "jeru-the-damaja-ya-playin-yaself",
@@ -900,14 +919,19 @@
       "artist": "Jeru the Damaja",
       "album": "Wrath of the Math",
       "palette": [
-        "#b44438",
-        "#ead6b3",
-        "#738667",
-        "#282824"
+        "#258bb7",
+        "#71c6da",
+        "#e5d9a0",
+        "#102e4b"
       ],
       "paletteSource": "Wrath of the Math",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/jeru-the-damaja-ya-playin-yaself-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/wrath-of-the-math/1443468931"
     },
     {
       "id": "group-home-livin-proof",
@@ -915,14 +939,19 @@
       "artist": "Group Home",
       "album": "Livin' Proof",
       "palette": [
-        "#a38460",
-        "#e6e0d1",
-        "#809295",
-        "#2c3031"
+        "#7c5145",
+        "#b59684",
+        "#ede8df",
+        "#171315"
       ],
       "paletteSource": "Livin' Proof",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/group-home-livin-proof-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/livin-proof/1443600329"
     },
     {
       "id": "all-city-productions-unsolved-mysterme",
@@ -945,14 +974,19 @@
       "artist": "Public Enemy",
       "album": "Apocalypse 91... The Enemy Strikes Black",
       "palette": [
-        "#cb7629",
-        "#e3d2ac",
-        "#5b786b",
-        "#202320"
+        "#1c6038",
+        "#e3e9db",
+        "#ce6d78",
+        "#121713"
       ],
       "paletteSource": "Apocalypse 91... The Enemy Strikes Black",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/public-enemy-shut-em-down-pe-te-rock-mixx-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/apocalypse-91-the-enemy-strikes-black/1434918687"
     },
     {
       "id": "public-enemy-don-t-believe-the-hype",
@@ -979,14 +1013,19 @@
       "artist": "Public Enemy",
       "album": "Fear of a Black Planet",
       "palette": [
-        "#c73b43",
-        "#e8dbbe",
-        "#839dc3",
-        "#1b2033"
+        "#193967",
+        "#37a0b7",
+        "#d33d38",
+        "#e6c735"
       ],
       "paletteSource": "Fear of a Black Planet",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/public-enemy-fight-the-power-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/fear-of-a-black-planet/1440837282"
     },
     {
       "id": "public-enemy-911-is-a-joke",
@@ -994,14 +1033,19 @@
       "artist": "Public Enemy",
       "album": "Fear of a Black Planet",
       "palette": [
-        "#c73b43",
-        "#e8dbbe",
-        "#839dc3",
-        "#1b2033"
+        "#193967",
+        "#37a0b7",
+        "#d33d38",
+        "#e6c735"
       ],
       "paletteSource": "Fear of a Black Planet",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/public-enemy-911-is-a-joke-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/fear-of-a-black-planet/1440837282"
     },
     {
       "id": "public-enemy-brothers-gonna-work-it-out",
@@ -1009,14 +1053,19 @@
       "artist": "Public Enemy",
       "album": "Fear of a Black Planet",
       "palette": [
-        "#c73b43",
-        "#e8dbbe",
-        "#839dc3",
-        "#1b2033"
+        "#193967",
+        "#37a0b7",
+        "#d33d38",
+        "#e6c735"
       ],
       "paletteSource": "Fear of a Black Planet",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/public-enemy-brothers-gonna-work-it-out-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/fear-of-a-black-planet/1440837282"
     },
     {
       "id": "public-enemy-can-t-truss-it",

@@ -1,0 +1,196 @@
+{
+  "state": "reviewed-candidate-pending-ci-and-deployment",
+  "createdAt": "2026-10-17",
+  "baselineCommit": "f3b40b4b055b2342208230f77379ef8c95d8f91f",
+  "publishedTransparentBaseline": 115,
+  "candidateTransparent": 125,
+  "catalogTotal": 381,
+  "remainingAfterCandidate": 256,
+  "paletteBasis": "Official Apple Music covers visually inspected; color hex codes are editorial approximations, not sampled measurements.",
+  "assets": [
+    {
+      "id": "public-enemy-brothers-gonna-work-it-out",
+      "palette": [
+        "#193967",
+        "#37a0b7",
+        "#d33d38",
+        "#e6c735"
+      ],
+      "paletteSource": "Fear of a Black Planet",
+      "coverUrl": "https://music.apple.com/us/album/fear-of-a-black-planet/1440837282",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular90s lettering, black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"BROTHERS GONNA WORK IT OUT\". Exact smaller artist \"PUBLIC ENEMY\". Full wording accurately spelled, not abbreviated. Wide horizontal composition, generous12% clear alpha margin around ALL lettering and droplets. Palette from visually verified Fear of a Black Planet cover: deep midnightblue #193967, cool cyan #37a0b7, red #d33d38, brightgold #e6c735 plus white and black. Colors reference the cover only, do not reproduce its planets or logo. TRUE transparent alpha background: paint marks only, no rectangle/wall/paper/matte/checkerboard/blur/cloudy wash/halo/shadow/signature. Preserve white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/public-enemy-brothers-gonna-work-it-out-alpha.webp",
+      "bytes": 588624,
+      "blobSha": "5ee533c44eb14e04a0a896592e79d30536785352",
+      "textReviewed": true,
+      "alphaReviewed": true
+    },
+    {
+      "id": "lord-finesse-hip-2-da-game",
+      "palette": [
+        "#d5a547",
+        "#16131a",
+        "#292c69",
+        "#6d514b"
+      ],
+      "paletteSource": "The Awakening",
+      "coverUrl": "https://music.apple.com/us/album/the-awakening/1604632794",
+      "paletteNote": "Apple Music掲載の1996年版ジャケットを2026-10-17に目視確認。金色の見出し、黒、暗い青紫を参照した編集上の近似配色。色抽出値ではない。",
+      "image": "assets/graffiti/lord-finesse-hip-2-da-game-alpha.webp",
+      "bytes": 387090,
+      "blobSha": "bea8b87633bd530a7c555eda7556eca306cb2f37",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "prompt": "Create one original graffiti lettering asset for CRATE DIGGIN’. Attached Mass Appeal is STYLE ONLY reference, not words or colors. Exact main title HIP 2 DA GAME. Exact smaller artist LORD FINESSE. Preserve all text precisely. Original complex interlocking angular 1990s graffiti lettering, bold black contours, opaque white internal paint, sharp dry brush edges, drips, discrete paint splatters, energetic horizontal landscape composition. Album-referenced colors from The Awakening: warm mustard gold #d5a547, near-black #16131a, subdued deep indigo #292c69, brown-purple #6d514b, white highlights. TRUE alpha transparent canvas everywhere except letters and discrete droplets. No wall, paper, matte, rectangle, blurry glow or cloudy backdrop. Keep all letters and paint drips fully inside broad 12% margins. No extra text or signatures. Output a saved project asset with transparency."
+    },
+    {
+      "id": "public-enemy-911-is-a-joke",
+      "palette": [
+        "#193967",
+        "#37a0b7",
+        "#d33d38",
+        "#e6c735"
+      ],
+      "paletteSource": "Fear of a Black Planet",
+      "coverUrl": "https://music.apple.com/us/album/fear-of-a-black-planet/1440837282",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular90s lettering, black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"911 IS A JOKE\". Exact smaller artist \"PUBLIC ENEMY\". Full wording accurately spelled, not abbreviated. Wide horizontal composition, generous12% clear alpha margin around ALL lettering and droplets. Palette from visually verified Fear of a Black Planet cover: deep midnightblue #193967, cool cyan #37a0b7, red #d33d38, brightgold #e6c735 plus white and black. Colors reference the cover only, do not reproduce its planets or logo. TRUE transparent alpha background: paint marks only, no rectangle/wall/paper/matte/checkerboard/blur/cloudy wash/halo/shadow/signature. Preserve white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/public-enemy-911-is-a-joke-alpha.webp",
+      "bytes": 592996,
+      "blobSha": "e9755f2dd9f1538deecab481ee68bc5c98df81c3",
+      "textReviewed": true,
+      "alphaReviewed": true
+    },
+    {
+      "id": "jeru-the-damaja-come-clean",
+      "palette": [
+        "#cc762c",
+        "#edd38d",
+        "#191619",
+        "#29365b"
+      ],
+      "paletteSource": "The Sun Rises in the East",
+      "coverUrl": "https://music.apple.com/us/album/the-sun-rises-in-the-east/1434911347",
+      "prompt": "Create original graffiti music artwork. Attached Mass Appeal is STYLE ONLY reference: complex angular interlocking bold1990s graffiti, black contours, opaque white letter paint, dry-brushed rough edges, sharp splatters and drips. Exact large title \"COME CLEAN\". Exact smaller artist \"JERU THE DAMAJA\". All wording verbatim, legible. Wide landscape2:1 composition, all words and droplets comfortably inside12% transparent margins. Palette #cc762c, #edd38d, #191619, #29365b plus opaque white and black, derived from The Sun Rises in the East; Album cover observed: orange fire, gold type, black shadows, restrained dark blue clothing. Do not use reference orange where not in specified palette. TRUE ALPHA background, isolated letters and individual droplets only. NO wall, matte, paper, checkerboard, rectangle, blurryglow, haze, shadow, signature or extra words. Preserve white paint inside letters. Save projectbound image file.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "image": "assets/graffiti/jeru-the-damaja-come-clean-alpha.webp",
+      "bytes": 532290,
+      "blobSha": "2e68b2cf7822d6c0f7cebfb0c152702e84b47f72",
+      "textReviewed": true,
+      "alphaReviewed": true
+    },
+    {
+      "id": "showbiz-a-g-next-level-nyte-time-mix",
+      "palette": [
+        "#07080a",
+        "#f5f4f0",
+        "#981e28"
+      ],
+      "paletteSource": "Goodfellas",
+      "coverUrl": "https://music.apple.com/us/album/goodfellas/1444086789",
+      "prompt": "Create one original transparent graffiti lettering asset, using attached Mass Appeal as STYLE and quality reference only. Exact MAIN TITLE: NEXT LEVEL. Exact essential subtitle: (NYTE TIME MIX). Exact smaller artist: SHOWBIZ & A.G. Render every word, punctuation and mix name legibly; do not omit subtitle or collaborator. Complex original interlocking sharp 1990s graffiti, heavy dark outlines and opaque white letter paint, sharp brushed edges, splatters, ink drips. Wide landscape composition. Album cover Goodfellas references black #07080a, white #f5f4f0, and restrained deep red #981e28 lettering accents. Keep this mostly black/white with red accents, not brown. TRUE ALPHA transparent background outside paint; retain opaque white letter interiors. All letters, subtitle, artist and drips inside generous12% clear margins; do not crop anything. No rectangle, paper, wall, gray background, checkerboard, fog, glow, halo, drop shadow, extra text or signature. This is an artwork asset for a music archive.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "image": "assets/graffiti/showbiz-a-g-next-level-nyte-time-mix-alpha.webp",
+      "bytes": 495198,
+      "blobSha": "223e88a9698a25312e4ad8e8518b6402ec60cbcd",
+      "textReviewed": true,
+      "alphaReviewed": true
+    },
+    {
+      "id": "gang-starr-full-clip",
+      "palette": [
+        "#a9b3af",
+        "#dfe6df",
+        "#343b39",
+        "#7b8884"
+      ],
+      "paletteSource": "Full Clip: A Decade of Gang Starr",
+      "coverUrl": "https://music.apple.com/us/album/full-clip-a-decade-of-gang-starr/724829211",
+      "paletteNote": "Apple Music掲載の銀色ジャケットを2026-10-17に目視確認した編集上の近似配色。色抽出値ではない。",
+      "image": "assets/graffiti/gang-starr-full-clip-alpha.webp",
+      "bytes": 461838,
+      "blobSha": "f25ccfc80bf6260b75bfd38b78cf5aa075461065",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "prompt": "Create one original graffiti lettering asset for CRATE DIGGIN’. Use attached Mass Appeal only as a style/quality reference: angular interlocking bold 1990s graffiti, worn ink, strong dark contours and opaque white internal paint, sharp splatters and drips. Do not copy its words. Exact large title: FULL CLIP. Exact smaller artist: GANG STARR. Wide landscape horizontal composition, entire lettering and drips contained with generous 12% transparent margin. Palette derived from Full Clip: A Decade of Gang Starr album's metallic silver cover: silver gray #a9b3af, pale pewter #dfe6df, charcoal #343b39, muted cool gray #7b8884 plus opaque white and black. No red or orange. TRUE transparent alpha outside lettering and individual paint droplets. No wall, paper, rectangle, checkerboard, cloudy wash, backdrop, haze, glow or shadow. Keep internal white paint; do not erase white letter interiors. No extra words, signature or logos. Deliver a project-bound image file suitable for preserving alpha and web use."
+    },
+    {
+      "id": "group-home-livin-proof",
+      "palette": [
+        "#7c5145",
+        "#b59684",
+        "#ede8df",
+        "#171315"
+      ],
+      "paletteSource": "Livin' Proof",
+      "coverUrl": "https://music.apple.com/us/album/livin-proof/1443600329",
+      "prompt": "Create original graffiti music artwork. Attached Mass Appeal is STYLE ONLY reference: complex angular interlocking bold 1990s graffiti, heavy black contours, opaque white internal paint, dry-brushed edges, discrete splatters and ink drips. Exact MAIN TITLE \"LIVIN' PROOF\".  Exact smaller artist \"GROUP HOME\". All wording verbatim and legible, do not omit subtitle or edition. Wide horizontal landscape composition; keep ALL letters and droplets inside generous12% clear margins. Palette #7c5145, #b59684, #ede8df, #171315 plus opaque white and black, from Livin' Proof. Verified cover: sepia brown photo collage with offwhite lines and white title. TRUE ALPHA background outside letters and individual droplets only. No wall, paper, matte, rectangle, checkerboard, cloudy glow, haze, shadow, extra words or signature. Keep white painted letter interiors opaque. Save project image file.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/group-home-livin-proof-alpha.webp",
+      "bytes": 464778,
+      "blobSha": "0a9f51aa5a5fcd06bcb9a96020b4ee639eed9189",
+      "textReviewed": true,
+      "alphaReviewed": true
+    },
+    {
+      "id": "jeru-the-damaja-ya-playin-yaself",
+      "palette": [
+        "#258bb7",
+        "#71c6da",
+        "#e5d9a0",
+        "#102e4b"
+      ],
+      "paletteSource": "Wrath of the Math",
+      "coverUrl": "https://music.apple.com/us/album/wrath-of-the-math/1443468931",
+      "prompt": "Create original graffiti music artwork. Attached Mass Appeal is STYLE ONLY reference: complex angular interlocking bold1990s graffiti, black contours, opaque white letter paint, dry-brushed rough edges, sharp splatters and drips. Exact large title \"YA PLAYIN' YASELF\". Exact smaller artist \"JERU THE DAMAJA\". All wording verbatim, legible. Wide landscape2:1 composition, all words and droplets comfortably inside12% transparent margins. Palette #258bb7, #71c6da, #e5d9a0, #102e4b plus opaque white and black, derived from Wrath of the Math; Album cover observed: cyan/blue photographic field, black shadows, white light, gold lettering. Do not use reference orange where not in specified palette. TRUE ALPHA background, isolated letters and individual droplets only. NO wall, matte, paper, checkerboard, rectangle, blurryglow, haze, shadow, signature or extra words. Preserve white paint inside letters. Save projectbound image file.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "image": "assets/graffiti/jeru-the-damaja-ya-playin-yaself-alpha.webp",
+      "bytes": 585096,
+      "blobSha": "c87b1d30a420a57172e3d582dec2d4e06d567278",
+      "textReviewed": true,
+      "alphaReviewed": true
+    },
+    {
+      "id": "public-enemy-fight-the-power",
+      "palette": [
+        "#193967",
+        "#37a0b7",
+        "#d33d38",
+        "#e6c735"
+      ],
+      "paletteSource": "Fear of a Black Planet",
+      "coverUrl": "https://music.apple.com/us/album/fear-of-a-black-planet/1440837282",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular90s lettering, black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"FIGHT THE POWER\". Exact smaller artist \"PUBLIC ENEMY\". Full wording accurately spelled, not abbreviated. Wide horizontal composition, generous12% clear alpha margin around ALL lettering and droplets. Palette from visually verified Fear of a Black Planet cover: deep midnightblue #193967, cool cyan #37a0b7, red #d33d38, brightgold #e6c735 plus white and black. Colors reference the cover only, do not reproduce its planets or logo. TRUE transparent alpha background: paint marks only, no rectangle/wall/paper/matte/checkerboard/blur/cloudy wash/halo/shadow/signature. Preserve white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/public-enemy-fight-the-power-alpha.webp",
+      "bytes": 591164,
+      "blobSha": "975dda722e1a936ab68ff9ae6931bf8b3d2f3d18",
+      "textReviewed": true,
+      "alphaReviewed": true
+    },
+    {
+      "id": "public-enemy-shut-em-down-pe-te-rock-mixx",
+      "palette": [
+        "#1c6038",
+        "#e3e9db",
+        "#ce6d78",
+        "#121713"
+      ],
+      "paletteSource": "Apocalypse 91... The Enemy Strikes Black",
+      "coverUrl": "https://music.apple.com/us/album/apocalypse-91-the-enemy-strikes-black/1434918687",
+      "prompt": "Create original graffiti music artwork. Attached Mass Appeal is STYLE ONLY reference: complex angular interlocking bold 1990s graffiti, heavy black contours, opaque white internal paint, dry-brushed edges, discrete splatters and ink drips. Exact MAIN TITLE \"SHUT EM DOWN\". Essential subtitle exactly \"(PE-TE ROCK MIXX)\". Exact smaller artist \"PUBLIC ENEMY\". All wording verbatim and legible, do not omit subtitle or edition. Wide horizontal landscape composition; keep ALL letters and droplets inside generous12% clear margins. Palette #1c6038, #e3e9db, #ce6d78, #121713 plus opaque white and black, from Apocalypse 91... The Enemy Strikes Black. Verified official expanded album cover: dark green field and green lettering, white contours, muted pink/red clothing. TRUE ALPHA background outside letters and individual droplets only. No wall, paper, matte, rectangle, checkerboard, cloudy glow, haze, shadow, extra words or signature. Keep white painted letter interiors opaque. Save project image file.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/public-enemy-shut-em-down-pe-te-rock-mixx-alpha.webp",
+      "bytes": 505268,
+      "blobSha": "1d59a4f568a9e1bc40c3ad54988a4664438c7d69",
+      "textReviewed": true,
+      "alphaReviewed": true
+    }
+  ]
+}
