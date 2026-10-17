@@ -3919,14 +3919,18 @@
       "artist": "Group Therapy feat. Dr. Dre",
       "album": "Dr. Dre Presents… The Aftermath",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#ed5925",
+        "#e7a23b",
+        "#632a24"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Dr. Dre Presents... The Aftermath (1996), official album cover, palette reference only",
+      "paletteNote": "同名基礎曲を収録する正規配信アルバム『Dr. Dre Presents... The Aftermath』のジャケットを配色資料として参照。Fire Version専用盤の確認を意味せず、既存の動画・曲名・版は変更しない。",
+      "status": "ready",
+      "image": "assets/graffiti/group-therapy-east-coast-west-coast-killas-fire-version-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/dr-dre-presents-the-aftermath/1444001087"
     },
     {
       "id": "dj-bombjack-lesson-7-the-next-lesson",
@@ -5851,14 +5855,18 @@
       "artist": "Big Daddy Kane",
       "album": "Taste of Chocolate",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#b36b34",
+        "#e52c58",
+        "#3b2018"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Chocolate City (1990 VHS,3-38198), documented Taste of Chocolate video compilation sleeve",
+      "paletteNote": "『Taste of Chocolate』の映像収録を実物裏面で確認したVHS『Chocolate City』のジャケット配色を参照。掲載動画の3:32編集版とVHS収録版の同一性は未確認。配色のみの資料で、音源・版情報は変更しない。",
+      "status": "ready",
+      "image": "assets/graffiti/big-daddy-kane-taste-of-chocolate-video-version-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://www.discogs.com/release/14942232-Big-Daddy-Kane-Chocolate-City"
     },
     {
       "id": "pete-rock-c-l-smooth-anger-in-the-nation",
@@ -7434,6 +7442,63 @@
       "paletteReviewed": true,
       "transparent": true,
       "coverReference": "https://music.apple.com/us/album/danger/1443900624?i=1443901037&uo=4"
+    },
+    {
+      "id": "heavy-d-the-boyz-you-cant-see-what-i-can-see",
+      "title": "You Can't See What I Can See",
+      "artist": "Heavy D & The Boyz",
+      "album": "Don't Curse / You Can't See What I Can See（1992年シングル）",
+      "palette": [
+        "#f7da55",
+        "#7859a5",
+        "#eda640"
+      ],
+      "paletteSource": "Don't Curse / You Can't See What I Can See, 1992 Uptown MCA12 54428 company sleeve",
+      "paletteNote": "1992年US盤MCA12 54428の実物Uptownカンパニースリーブを目視確認した近似配色。曲専用の絵柄ではなく、レーベル共通スリーブの黄・紫・橙・灰・黒を参照。",
+      "status": "ready",
+      "image": "assets/graffiti/heavy-d-the-boyz-you-cant-see-what-i-can-see-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://store.shopping.yahoo.co.jp/freaksrecords-2/98663.html"
+    },
+    {
+      "id": "prince-markie-dee-the-soul-convention-something-special",
+      "title": "Something Special",
+      "artist": "Prince Markie Dee & The Soul Convention",
+      "album": "Free",
+      "palette": [
+        "#3b70a8",
+        "#152f51",
+        "#d1bd37"
+      ],
+      "paletteSource": "Free (1992), official Columbia digital cover",
+      "paletteNote": "正規配信ジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/prince-markie-dee-the-soul-convention-something-special-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/free/1832779138"
+    },
+    {
+      "id": "heavy-d-the-boyz-blue-funk",
+      "title": "Blue Funk",
+      "artist": "Heavy D & The Boyz",
+      "album": "Blue Funk",
+      "palette": [
+        "#284b70",
+        "#35215a",
+        "#0d1420"
+      ],
+      "paletteSource": "Blue Funk, official MCA digital cover",
+      "paletteNote": "正規配信ジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/heavy-d-the-boyz-blue-funk-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/blue-funk/1443765300"
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

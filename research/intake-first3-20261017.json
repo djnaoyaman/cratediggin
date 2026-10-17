@@ -1,0 +1,123 @@
+{
+  "state": "reviewed-candidate-pending-ci-and-deployment",
+  "newTrackIds": [
+    "heavy-d-the-boyz-you-cant-see-what-i-can-see",
+    "prince-markie-dee-the-soul-convention-something-special",
+    "heavy-d-the-boyz-blue-funk"
+  ],
+  "previousCatalogTotal": 381,
+  "candidateCatalogTotal": 384,
+  "candidateTransparent": 383,
+  "paletteOnlyOldTrackIds": [
+    "big-daddy-kane-taste-of-chocolate-video-version",
+    "group-therapy-east-coast-west-coast-killas-fire-version"
+  ],
+  "audioVerification": "Official player metadata statusOK,embedallowed,JPincluded;actualplaybackunverified",
+  "assets": [
+    {
+      "id": "heavy-d-the-boyz-you-cant-see-what-i-can-see",
+      "title": "You Can't See What I Can See",
+      "artist": "Heavy D & The Boyz",
+      "palette": [
+        "#f7da55",
+        "#7859a5",
+        "#eda640"
+      ],
+      "paletteSource": "Don't Curse / You Can't See What I Can See, 1992 Uptown MCA12 54428 company sleeve",
+      "coverUrl": "https://store.shopping.yahoo.co.jp/freaksrecords-2/98663.html",
+      "referenceEdition": "Actual Uptown company sleeve with yellow, purple, orange, grey and black geometric architecture, photographed with A-side label; B-side membership corroborated by dealer tracklists. Not a bespoke song picture sleeve.",
+      "prompt": "Create original transparent graffiti artwork. Supplied Mass Appeal image is STYLE ONLY: sharp angular interlocking 1990s lettering, bold black outlines, opaque white interiors, dry brush texture, drips and isolated splatter. Exact complete title text: \"You Can't See What I Can See\". Exact artist text: \"Heavy D & The Boyz\". All words must be visible and spelled correctly. Arrange title into2or3strong rows, artist below, generous outer margins. Cover-derived accent colors golden yellow #f7da55, purple #7859a5, orange #eda640 with white black and small grey accents. Original lettering only: no logos, sleeve imagery, photos or signatures. TRUE transparent alpha background outside letters and isolated paint, no wall, rectangle, checkerboard, blurry halo. Opaque white inside letters.",
+      "paletteNote": "1992年US盤MCA12 54428の実物Uptownカンパニースリーブを目視確認した近似配色。曲専用の絵柄ではなく、レーベル共通スリーブの黄・紫・橙・灰・黒を参照。",
+      "image": "assets/graffiti/heavy-d-the-boyz-you-cant-see-what-i-can-see-alpha.webp",
+      "bytes": 652634,
+      "blobSha": "8ae773305d2ceac2023332c833f8f6bfbc13b495",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "prince-markie-dee-the-soul-convention-something-special",
+      "title": "Something Special",
+      "artist": "Prince Markie Dee & The Soul Convention",
+      "palette": [
+        "#3b70a8",
+        "#152f51",
+        "#d1bd37"
+      ],
+      "paletteSource": "Free (1992), official Columbia digital cover",
+      "coverUrl": "https://music.apple.com/us/album/free/1832779138",
+      "prompt": "Create original transparent graffiti artwork. Use supplied Mass Appeal image as STYLE ONLY: sharp angular interlocking 1990s lettering, bold black outlines, opaque white interiors, dry brush texture, intentional drips and isolated splatter. Exact text only, no omissions: title \"Something Special\" and artist \"Prince Markie Dee & The Soul Convention\". Full artist co-credit must be legible. Wide composition with generous margins, all lettering fully inside canvas. Palette derived from actual viewed cover: #3b70a8, #152f51, #d1bd37 plus opaque white and black. Do not copy cover pictures, people, logos, or signature. No wall, rectangular matte, checkerboard, cloudy halo or background. TRUE transparent alpha outside letters and controlled paint accents. Preserve opaque white inside letters.",
+      "paletteNote": "正規配信ジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Free (1992), official Columbia digital cover",
+      "image": "assets/graffiti/prince-markie-dee-the-soul-convention-something-special-alpha.webp",
+      "bytes": 673956,
+      "blobSha": "e52081ea819fd95d45129f2cb54c3acc83a9dd5b",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "heavy-d-the-boyz-blue-funk",
+      "title": "Blue Funk",
+      "artist": "Heavy D & The Boyz",
+      "palette": [
+        "#284b70",
+        "#35215a",
+        "#0d1420"
+      ],
+      "paletteSource": "Blue Funk, official MCA digital cover",
+      "coverUrl": "https://music.apple.com/us/album/blue-funk/1443765300",
+      "prompt": "Create original transparent graffiti artwork. Use supplied Mass Appeal image as STYLE ONLY: sharp angular interlocking 1990s lettering, bold black outlines, opaque white interiors, dry brush texture, intentional drips and isolated splatter. Exact text only, no omissions: title \"Blue Funk\" and artist \"Heavy D & The Boyz\". Full artist co-credit must be legible. Wide composition with generous margins, all lettering fully inside canvas. Palette derived from actual viewed cover: #284b70, #35215a, #0d1420 plus opaque white and black. Do not copy cover pictures, people, logos, or signature. No wall, rectangular matte, checkerboard, cloudy halo or background. TRUE transparent alpha outside letters and controlled paint accents. Preserve opaque white inside letters.",
+      "paletteNote": "正規配信ジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Blue Funk, official MCA digital cover",
+      "image": "assets/graffiti/heavy-d-the-boyz-blue-funk-alpha.webp",
+      "bytes": 473242,
+      "blobSha": "b3fd5e80f31b14f3b1a1782bb54f5f0dd117a789",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "big-daddy-kane-taste-of-chocolate-video-version",
+      "title": "Taste of Chocolate (Video Version)",
+      "artist": "Big Daddy Kane",
+      "palette": [
+        "#b36b34",
+        "#e52c58",
+        "#3b2018"
+      ],
+      "paletteSource": "Chocolate City (1990 VHS,3-38198), documented Taste of Chocolate video compilation sleeve",
+      "coverUrl": "https://www.discogs.com/release/14942232-Big-Daddy-Kane-Chocolate-City",
+      "referenceEdition": "Palette only from verified VHS jacket listing Taste of Chocolate video. Exact3:32edit identity is not established; existing audio/title/version unchanged.",
+      "paletteNote": "『Taste of Chocolate』の映像収録を実物裏面で確認したVHS『Chocolate City』のジャケット配色を参照。掲載動画の3:32編集版とVHS収録版の同一性は未確認。配色のみの資料で、音源・版情報は変更しない。",
+      "prompt": "Original transparent graffiti art, same visual language as supplied Mass Appeal STYLE ONLY. Exact title \"Taste of Chocolate\" with full visible subtitle \"(Video Version)\" and artist \"Big Daddy Kane\". Angular interlocking1990s letters, sharp black contours, opaque white letter interiors, drybrush ink, drips and isolated splatter. Viewed cover palette warm amber golden brown #b36b34, hot pink-red #e52c58, deep brown #3b2018 pluswhiteblack. Wide generous margin, complete spelling and all letters/subtitle inside canvas. No portraits, coverimagery, logos, signatures, wall, rectangular matte, checkerboard or blurredhalo. True transparentalpha outsidelettering and controlledpaint.",
+      "image": "assets/graffiti/big-daddy-kane-taste-of-chocolate-video-version-alpha.webp",
+      "bytes": 559226,
+      "blobSha": "bbbc142d72c2d969551f27c3c461929e5719d4c8",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "group-therapy-east-coast-west-coast-killas-fire-version",
+      "title": "East Coast / West Coast Killas (Fire Version)",
+      "artist": "Group Therapy feat. Dr. Dre",
+      "palette": [
+        "#ed5925",
+        "#e7a23b",
+        "#632a24"
+      ],
+      "paletteSource": "Dr. Dre Presents... The Aftermath (1996), official album cover, palette reference only",
+      "coverUrl": "https://music.apple.com/us/album/dr-dre-presents-the-aftermath/1444001087",
+      "referenceEdition": "Same base song is on this licensed album. Album artwork used only for color reference; no claim it is a Fire Version-specific sleeve. Existing audio/title/version unchanged.",
+      "paletteNote": "同名基礎曲を収録する正規配信アルバム『Dr. Dre Presents... The Aftermath』のジャケットを配色資料として参照。Fire Version専用盤の確認を意味せず、既存の動画・曲名・版は変更しない。",
+      "prompt": "Create original transparent music graffiti lettering, supplied Mass Appeal image STYLE ONLY. Exact fulltitle \"East Coast / West Coast Killas\" and clearly visible subtitle \"(Fire Version)\", exact artist \"Group Therapy feat. Dr. Dre\". Sharp angular interlocking1990s letters with boldblackoutlines and opaquewhiteinteriors, drybrush ink, drips and isolatedsplatter. Wide generousmargin, allcomplete words and co-credit fully insidecanvas. Cover-derived accents fieryorange #ed5925, goldenamber #e7a23b, muteddeepred #632a24 pluswhiteblack. Typographyonly: NO weapons, violent scene, explosion imagery, portraits, coverimages, logos or signatures. TRUEtransparentalpha outsideletters and isolatedpaint, no wall/rectangle/checkerboard/blurhalo.",
+      "image": "assets/graffiti/group-therapy-east-coast-west-coast-killas-fire-version-alpha.webp",
+      "bytes": 730468,
+      "blobSha": "185fca30f782015a0aee6daf8d7d412aaaee21a7",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    }
+  ]
+}

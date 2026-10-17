@@ -20082,13 +20082,12 @@
       "seed": 19962026,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#ed5925",
+        "#e7a23b",
+        "#632a24"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Dr. Dre Presents... The Aftermath (1996), official album cover, palette reference only",
+      "paletteNote": "同名基礎曲を収録する正規配信アルバム『Dr. Dre Presents... The Aftermath』のジャケットを配色資料として参照。Fire Version専用盤の確認を意味せず、既存の動画・曲名・版は変更しない。",
       "lines": [
         "EAST COAST",
         "WEST COAST"
@@ -31217,13 +31216,12 @@
       "seed": 202610150057,
       "profile": "ny-subway",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#b36b34",
+        "#e52c58",
+        "#3b2018"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "paletteSource": "Chocolate City (1990 VHS,3-38198), documented Taste of Chocolate video compilation sleeve",
+      "paletteNote": "『Taste of Chocolate』の映像収録を実物裏面で確認したVHS『Chocolate City』のジャケット配色を参照。掲載動画の3:32編集版とVHS収録版の同一性は未確認。配色のみの資料で、音源・版情報は変更しない。",
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
@@ -41403,5 +41401,447 @@
     ],
     "editorialCrates": [],
     "curationNote": "出典で同定した収録版を掲載。ミックス抜粋との編集差、実音声の同一性、埋め込み再生・地域制限は未検証。"
+  },
+  {
+    "category": "Hip Hop",
+    "region": "New York",
+    "scene": "New York",
+    "moods": [
+      "ラップ"
+    ],
+    "samples": [],
+    "sampleStatus": "原曲・別ミックスごとの引用関係を一次資料で確認できた場合に掲載。未掲載はサンプル不使用の意味ではない。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "datePublished": "2026-10-17",
+    "noteReviewedAt": "2026-10-17",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "editorialStatus": "曲別の正規配信情報・当時資料・専門メディアを照合。聴き方は編集上の提案であり、実音声の再生確認は未完了。",
+    "id": "heavy-d-the-boyz-you-cant-see-what-i-can-see",
+    "artist": "Heavy D & The Boyz",
+    "title": "You Can't See What I Can See",
+    "album": "Don't Curse / You Can't See What I Can See（1992年シングル）",
+    "label": "Uptown / MCA",
+    "producer": "Chad Elliott / Puff Daddy",
+    "producers": [
+      "Chad Elliott",
+      "Puff Daddy"
+    ],
+    "year": 1992,
+    "yearBasis": "1992年のシングルを基準。後年の編集盤『Heavy Hitz』（2000年）や動画の登録年とは区別する。",
+    "addedOrder": 375,
+    "sources": [
+      {
+        "label": "Rhymesayers / Fifth Element: Hip Hop Icons — Heavy D",
+        "url": "https://rhymesayers.com/blogs/fifth-element/5884079-hip-hop-icons-heavy-d-r-i-p",
+        "kind": "specialist retrospective"
+      },
+      {
+        "label": "HeavyDAndTheBoyzVEVO: You Can’t See What I Can See（公式MV）",
+        "url": "https://www.youtube.com/watch?v=J5uqPUZxZHg",
+        "kind": "official music video"
+      },
+      {
+        "label": "Amoeba: Heavy Hitz — release and track listing",
+        "url": "https://www.amoeba.com/heavy-hitz-cd-heavy-d-the-boyz/albums/800581/",
+        "kind": "record retailer discography"
+      },
+      {
+        "label": "The Boombox: Remembering Heavy D — 15 Classic Tracks",
+        "url": "https://theboombox.com/remembering-heavy-d-15-classic-tracks-from-the-overweight-lover/",
+        "kind": "specialist retrospective"
+      },
+      {
+        "label": "Apple Music: You Can’t See What I Can See（music video）",
+        "url": "https://music.apple.com/us/music-video/you-cant-see-what-i-can-see/1446731039",
+        "kind": "licensed video metadata"
+      }
+    ],
+    "deck": "アルバムの外側に残された、Heavy DのMCとしての輪郭。1992年のB面から、そのラップを聴き直す。",
+    "essayTitle": "B面から見える、もう一つのHeavy D",
+    "facts": [
+      {
+        "title": "シングルのB面",
+        "text": "Rhymesayersの回顧記事は、1992年の「Don’t Curse」12インチのB面曲として紹介している。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "曲ごとの制作陣",
+        "text": "本曲の制作はChad ElliottとPuff Daddy。同じ盤に収録される「Don’t Curse」の制作情報を本曲へ転用しない。",
+        "sources": [
+          0,
+          3
+        ]
+      },
+      {
+        "title": "後年の編集盤",
+        "text": "『Heavy Hitz』は2000年9月12日発売。Amoebaの曲目では本曲は9曲目、3分46秒と記載される。",
+        "sources": [
+          2
+        ]
+      },
+      {
+        "title": "掲載映像の版",
+        "text": "掲載するのはHeavyDAndTheBoyzVEVOの公式MV。プレーヤー表示は3分56秒で、編集盤の3分46秒音源と同一尺とは扱わない。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "essay": [
+      "Heavy Dを、華やかなダンス・ヒットから知った人も多いだろう。「You Can’t See What I Can See」は、その入口から少し奥へ進むための一曲だ。Rhymesayersの回顧記事では、1992年の「Don’t Curse」12インチに入っていたB面曲として取り上げられている。ヒット・アルバムの曲順だけを追っていては、出会いにくかった場所にある。",
+      "曲を手がけたのはChad ElliottとPuff Daddy。同じレコードに入っていても、A面とB面では制作陣が変わる。クレジットを曲ごとにたどると、Uptown周辺の音楽が一つの作風だけで出来ていなかったことに気づく。ラップを前へ出すために、どんな伴奏が選ばれているか。まずは声とビートを別々に追ってみたい。",
+      "The Boomboxは本曲を、Heavy Dのストリートに向いた側面が現れる作品として紹介する。親しみやすいスターの顔と、MCとして腕を見せる顔。その両方を行き来できるところに、彼のカタログの面白さがある。聴くときは、フックが戻るたびに言葉の密度がどう切り替わるかに耳を向けたい。",
+      "2000年の編集盤『Heavy Hitz』にも収録され、B面で聴かれていた曲には別の入口ができた。ここでは公式ミュージックビデオを掲載する。映像版と編集盤では表示尺も異なるため、同じ題名を持つ録音の版まで一つにまとめない。いつ、どの形で届けられた曲なのか。その順番を残しておくと、レコードを掘り返す楽しみも残る。"
+    ],
+    "listening": [
+      "フックの反復とヴァースの言葉の密度を、それぞれ追って聴く。",
+      "「Don’t Curse」と並べ、曲ごとの制作陣とラップの置き方を比較する。",
+      "公式MVと編集盤の音源を、尺の異なる版として区別する。"
+    ],
+    "youtube": {
+      "id": "J5uqPUZxZHg",
+      "url": "https://www.youtube.com/watch?v=J5uqPUZxZHg",
+      "title": "Heavy D & The Boyz - You Can't See What I Can See",
+      "channel": "HeavyDAndTheBoyzVEVO",
+      "type": "Official Video",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "認証済みVEVOチャンネル・曲名・1992年UMG表記・動画尺3:56を照合。クラウドブラウザではプレーヤーが初期化される一方、再生時刻は進まず、実再生・埋め込み可否・日本での地域制限は未検証。 2026-10-17のYouTubeプレーヤー公開応答はstatus=OK、埋め込み許可、日本を提供地域に含む。これは実再生成功の確認ではない。",
+      "availabilityCheckedAt": "2026-10-17",
+      "metadataEmbedAllowed": true,
+      "metadataJapanAvailable": true
+    },
+    "curationNote": "1992年シングル曲を公式MVで紹介。2000年編集盤の発売年や音源尺を原盤・映像版へ転用しない。",
+    "context": "アルバムの外側に残された、Heavy DのMCとしての輪郭。1992年のB面から、そのラップを聴き直す。",
+    "art": {
+      "word": "YOU CAN'T SEE WHAT I CAN SEE",
+      "lines": [
+        "YOU CAN'T SEE WHAT I CAN SEE"
+      ],
+      "tag": "HEAVY D & THE BOYZ",
+      "style": "piece",
+      "seed": 2677617207,
+      "profile": "ny-subway",
+      "palette": [
+        "#f7da55",
+        "#7859a5",
+        "#eda640"
+      ],
+      "paletteSource": "Don't Curse / You Can't See What I Can See, 1992 Uptown MCA12 54428 company sleeve",
+      "paletteNote": "1992年US盤MCA12 54428の実物Uptownカンパニースリーブを目視確認した近似配色。曲専用の絵柄ではなく、レーベル共通スリーブの黄・紫・橙・灰・黒を参照。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    }
+  },
+  {
+    "category": "Hip Hop",
+    "region": "New York",
+    "scene": "New York",
+    "moods": [
+      "ラップ"
+    ],
+    "samples": [],
+    "sampleStatus": "原曲・別ミックスごとの引用関係を一次資料で確認できた場合に掲載。未掲載はサンプル不使用の意味ではない。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "datePublished": "2026-10-17",
+    "noteReviewedAt": "2026-10-17",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "editorialStatus": "曲別の正規配信情報・当時資料・専門メディアを照合。聴き方は編集上の提案であり、実音声の再生確認は未完了。",
+    "id": "prince-markie-dee-the-soul-convention-something-special",
+    "artist": "Prince Markie Dee & The Soul Convention",
+    "title": "Something Special",
+    "album": "Free",
+    "label": "Columbia",
+    "producer": "Mark Rooney / Mark Morales",
+    "producers": [
+      "Cory Rooney",
+      "Prince Markie Dee"
+    ],
+    "year": 1992,
+    "yearBasis": "1992年8月11日発売『Free』の原曲を基準。1993年の12インチ・リミックス展開とは区別する。",
+    "addedOrder": 376,
+    "sources": [
+      {
+        "label": "Columbia/Legacy: Something Special — Prince Markie Dee / The Soul Convention",
+        "url": "https://www.youtube.com/watch?v=plDWcEjs5Pg",
+        "kind": "licensed official audio and credits"
+      },
+      {
+        "label": "Amazon Music: Free — Something Special",
+        "url": "https://music.amazon.com/tracks/B0FM4KJQ76",
+        "kind": "licensed release metadata"
+      },
+      {
+        "label": "The GAVIN Report, 23 July 1993 — Columbia advertisement",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/Gavin-Report/90/93/Gavin-1993-07-23.pdf",
+        "kind": "contemporary label advertisement, indexed text"
+      },
+      {
+        "label": "The GAVIN Report, 16 July 1993 — RAP Record to Watch",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/Gavin-Report/90/93/Gavin-1993-07-16.pdf",
+        "kind": "contemporary trade press, indexed text"
+      },
+      {
+        "label": "SOURCE RECORDS: Something Special — US original 12-inch",
+        "url": "https://www.sourcerecords.jp/product/1058",
+        "kind": "record retailer pressing details"
+      },
+      {
+        "label": "Brooklyn Radio: Prince Markie Dee and the Soul Convention — Free",
+        "url": "https://brooklynradio.com/30anniversary-prince-markie-dee-and-the-soul-convention-free/",
+        "kind": "specialist retrospective"
+      }
+    ],
+    "deck": "ソウルへ開かれたラップを、1992年の原曲と翌年の12インチから読み解く。",
+    "essayTitle": "アルバムの一曲が、12インチで広がる",
+    "facts": [
+      {
+        "title": "原曲の発売",
+        "text": "『Free』の11曲目。正規配信の発売日は1992年8月11日、尺は4分27秒。動画の2025年アップロード日は初出年ではない。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "制作クレジット",
+        "text": "Columbia/Legacyの曲別説明はMark RooneyとMark Moralesをプロデューサーとして記載。Rooneyは鍵盤、Moralesはドラムマシンにもクレジットされる。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "1993年の別ミックス",
+        "text": "US12インチにはSummer Of 93 Remix、LP Version、Sub Ghetto Mixを収録。5分台のリミックスと4分台の原曲を区別する。",
+        "sources": [
+          4
+        ]
+      },
+      {
+        "title": "当時のラップ媒体での扱い",
+        "text": "1993年7月16日付GAVINは、RAP欄の注目作として本曲を紹介。ソウル寄りの音楽性とラップ作品としての流通を併せて捉えられる。",
+        "sources": [
+          3
+        ]
+      }
+    ],
+    "essay": [
+      "Fat Boysを離れたPrince Markie Deeが、The Soul Conventionとともに発表した『Free』。「Something Special」は、その1992年のアルバムに収められた一曲だ。ソウルとラップが交わる作品として振り返られてきたアルバムの中で、ここでは正規配信で確認できる4分27秒の原曲を取り上げる。",
+      "曲別の制作クレジットには、Mark RooneyとMark Moralesの名が並ぶ。Rooneyには鍵盤とバックグラウンド・ヴォーカル、Moralesにはドラムマシンも記されている。メロディーを形づくる仕事と、リズムを組み立てる仕事が、制作の欄から見えてくる。歌とラップのどちらかだけを追うより、その間を埋める音へも意識を向けたい。",
+      "翌1993年の12インチでは、Summer Of 93 RemixとSub Ghetto Mixが原曲と並ぶ。同じ曲名でも、4分台のLP Versionと5分台の別ミックスは分けて聴きたい。アルバムの流れの中にあった曲が、一枚のレコードの表裏でどう展開されるのか。版を区別しておくことで、その変化をたどれる。",
+      "当時のGAVINは、本曲をRAP欄の注目作として紹介している。R&Bに近い親しみやすさと、ラップの現場で聴かれることは、必ずしも離れた出来事ではなかった。制作クレジット、アルバム、12インチを行き来しながら、1990年代初頭の境界の柔らかさを考える入口にしたい。"
+    ],
+    "listening": [
+      "ラップ、旋律、バックグラウンド・ヴォーカルを分けて追い、それぞれの役割を聴く。",
+      "鍵盤とドラムマシンのクレジットを手がかりに、伴奏の組み立てを意識する。",
+      "4分27秒の原曲を基準に、1993年の別ミックスと構成を比較する。"
+    ],
+    "youtube": {
+      "id": "plDWcEjs5Pg",
+      "url": "https://www.youtube.com/watch?v=plDWcEjs5Pg",
+      "title": "Something Special",
+      "channel": "Prince Markie Dee - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "説明欄のColumbia/Legacy提供・Free・1992-08-11・Sony権利表記・曲別制作陣、およびプレーヤー尺4:27を正規配信情報と照合。Summer Of 93 Remixではない原曲。プレーヤー初期化後の実再生・埋め込み可否・日本の地域制限は未検証。 2026-10-17のYouTubeプレーヤー公開応答はstatus=OK、埋め込み許可、日本を提供地域に含む。これは実再生成功の確認ではない。",
+      "availabilityCheckedAt": "2026-10-17",
+      "metadataEmbedAllowed": true,
+      "metadataJapanAvailable": true
+    },
+    "curationNote": "原曲の正規配信を掲載。1993年Summer Of 93 RemixやSub Ghetto Mix、5分46秒の編集盤音源に置き換えない。",
+    "context": "ソウルへ開かれたラップを、1992年の原曲と翌年の12インチから読み解く。",
+    "art": {
+      "word": "SOMETHING SPECIAL",
+      "lines": [
+        "SOMETHING SPECIAL"
+      ],
+      "tag": "PRINCE MARKIE DEE & THE SOUL CONVENTION",
+      "style": "piece",
+      "seed": 1959456316,
+      "profile": "ny-subway",
+      "palette": [
+        "#3b70a8",
+        "#152f51",
+        "#d1bd37"
+      ],
+      "paletteSource": "Free (1992), official Columbia digital cover",
+      "paletteNote": "正規配信ジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    }
+  },
+  {
+    "id": "heavy-d-the-boyz-blue-funk",
+    "title": "Blue Funk",
+    "artist": "Heavy D & The Boyz",
+    "year": 1993,
+    "yearBasis": "正規配信の1993年クレジットを基準に掲載。原盤資料には1992年表記の版もあり、版ごとの年次を区別する。動画投稿年を初出年とは扱わない。",
+    "region": "New York",
+    "scene": "Mount Vernon / New York",
+    "category": "Hip Hop",
+    "moods": [
+      "骨太",
+      "グルーヴ"
+    ],
+    "album": "Blue Funk",
+    "label": "Uptown / MCA",
+    "producer": "Pete Rock / Heavy D（共同制作）",
+    "producers": [
+      "Pete Rock",
+      "Heavy D"
+    ],
+    "members": "Heavy D & The Boyz",
+    "youtube": {
+      "id": "dzXTrCSpCeU",
+      "url": "https://www.youtube.com/watch?v=dzXTrCSpCeU",
+      "title": "Blue Funk",
+      "channel": "Heavy D - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "UMGによる正規配信音源の検索掲載情報で曲名・名義・収録作品・制作クレジットを照合。実音声の試聴、埋め込み可否、日本国内での再生可否は未検証。 2026-10-17のYouTubeプレーヤー公開応答はstatus=OK、埋め込み許可、日本を提供地域に含む。これは実再生成功の確認ではない。",
+      "availabilityCheckedAt": "2026-10-17",
+      "metadataEmbedAllowed": true,
+      "metadataJapanAvailable": true
+    },
+    "deck": "Pete Rockのビートへ、Heavy Dの声が腰を下ろす。華やかなヒット曲の裏側にある、骨太なヒップホップ。",
+    "essayTitle": "重さと身軽さのあいだ",
+    "essay": [
+      "Heavy Dを、親しみやすいダンス・ヒットの人として覚えているなら、「Blue Funk」はもう一つの入口になる。同名アルバムの表題曲で、制作はPete Rock、共同制作はHeavy D。歌ものへ寄せて間口を広げるのではなく、ビートとラップの組み合わせへ目を向けたい一曲だ。",
+      "アルバムを振り返る記事では、以前の華やかなダンス志向から、より硬いニューヨークのヒップホップへ向かった作品として位置づけられている。けれど、親しみやすさを捨てた、と一言で片づけるのも惜しい。強いビートの中でMCがどれだけ身軽に動けるのか。重さと軽さを反対のものにしない聴き方が、ここには似合う。",
+      "このアルバムにはDJ Premierも参加している。けれど、アルバム全体の制作陣と、一曲のクレジットは分けておきたい。表題曲を手がけたのはPete Rock。同じ盤の「Yes Y’all」と並べれば、声は同じでも、その周囲に置かれる音の組み方が違うことを追いかけられる。",
+      "聴くときは、Heavy Dの声を追う一回と、声の隙間に残るビートを追う一回に分けてみる。声の置き方で、同じ拍の受け取り方も変わる。ポップな顔とストリートの顔を二つに割るより、その両方を持ったMCとして聴くほうが、Heavy Dという人の輪郭が広がる。"
+    ],
+    "facts": [
+      {
+        "title": "曲単位で読む制作陣",
+        "text": "Apple Musicの楽曲クレジットはPete RockをProducer、Heavy DをCo-Producerとしている。UMGの公式音源でも両者の制作参加を確認できる。アルバムに参加した他のプロデューサーを、この曲の制作者とは扱わない。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "アルバムの中の位置",
+        "text": "『Blue Funk』の11曲目に置かれた約4分35秒の表題曲。次の「Yes Y’all」はDJ Premier制作として紹介されており、同じMCと異なる制作陣を比較する入口になる。",
+        "sources": [
+          4,
+          5
+        ]
+      },
+      {
+        "title": "ダンス・ヒットの印象から一歩外へ",
+        "text": "回顧記事は、このアルバムを従来のダンス志向から、より硬いブームバップへ踏み出した作品として論じている。表題曲は、その変化をPete Rockとの組み合わせで聴ける一曲。",
+        "sources": [
+          3,
+          4
+        ]
+      },
+      {
+        "title": "年次と収録版を区別する",
+        "text": "正規配信は1993年と表記する一方、原盤データベースには1992年の米国盤も掲載されている。ここでは正規配信のアルバム音源を採用し、動画の公開年を楽曲の初出年に置き換えない。",
+        "sources": [
+          0,
+          1,
+          2,
+          5
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "回顧資料にはサンプリングへの言及があるが、原盤クレジットと各引用箇所の直接照合は未実施。未確認のサンプル曲名は掲載しない。未掲載はサンプル不使用を意味しない。",
+    "listening": [
+      "Heavy Dの声を追ったあと、声の切れ目に残るビートへ耳を戻す。",
+      "同じアルバムの「Yes Y’all」と、制作者を分けて聴き比べる。",
+      "フックとヴァースで声の置き方がどう変わるかを追う。"
+    ],
+    "context": "同名アルバムの表題曲。Pete Rock制作、Heavy D共同制作の正規配信クレジットを確認。1992年表記の原盤資料と1993年の配信年次は分けて扱う。",
+    "sources": [
+      {
+        "label": "Heavy D & The Boyz — Blue Funk, Apple Music track credits",
+        "url": "https://music.apple.com/us/song/1443765960",
+        "kind": "正規配信・楽曲別制作クレジット"
+      },
+      {
+        "label": "Heavy D & The Boyz — Blue Funk, Universal Music Group official audio",
+        "url": "https://www.youtube.com/watch?v=dzXTrCSpCeU",
+        "kind": "公式配信音源・制作クレジット"
+      },
+      {
+        "label": "Blue Funk, Qobuz",
+        "url": "https://www.qobuz.com/jp-ja/album/blue-funk-heavy-d-the-boyz/0000881107342",
+        "kind": "正規配信・アルバム情報"
+      },
+      {
+        "label": "Heavy D & the Boyz’ Blue Funk Remembered 20 Years Later, TheDrop",
+        "url": "https://thedrop.fm/heavy-d-the-boyz-blue-funk-20-years-later/",
+        "kind": "作品回顧・曲別批評"
+      },
+      {
+        "label": "Heavy D & the Boyz — Blue Funk, RapReviews",
+        "url": "https://www.rapreviews.com/2011/12/heavy-d-the-boyz-blue-funk/",
+        "kind": "アルバム批評・曲別制作情報"
+      },
+      {
+        "label": "Blue Funk, Uptown UPT 10734 edition, MusicBrainz",
+        "url": "https://musicbrainz.org/release/310027b5-d86a-4b0f-a42b-0aec1da8688c",
+        "kind": "原盤資料・版別トラック情報"
+      },
+      {
+        "label": "Pete Rock, Tracklib",
+        "url": "https://www.tracklib.com/blog/peterock",
+        "kind": "サンプリングサービスによる制作紹介"
+      }
+    ],
+    "connections": [],
+    "sounds": [
+      "ラップ",
+      "ドラム"
+    ],
+    "datePublished": "2026-10-17",
+    "noteReviewedAt": "2026-10-17",
+    "editorialStatus": "正規配信の曲別クレジット・アルバム資料・作品批評を照合。聴き方は編集上の考察であり、実再生確認を意味しない。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "curationNote": "ユーザー指定31曲リストの未登録曲。正規配信のアルバム音源を採用。公式MVの編集版とは区別し、埋め込み再生・地域制限は実装時に確認する。",
+    "addedOrder": 377,
+    "art": {
+      "word": "BLUE FUNK",
+      "lines": [
+        "BLUE FUNK"
+      ],
+      "tag": "HEAVY D & THE BOYZ",
+      "style": "piece",
+      "seed": 550401024,
+      "profile": "ny-subway",
+      "palette": [
+        "#284b70",
+        "#35215a",
+        "#0d1420"
+      ],
+      "paletteSource": "Blue Funk, official MCA digital cover",
+      "paletteNote": "正規配信ジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    }
   }
 ]
