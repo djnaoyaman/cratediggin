@@ -65,6 +65,7 @@ jobs:
           node scripts/verify_producer_features.js
           node scripts/verify_feature_editorials.js
           node scripts/verify_catalog_views.js
+          node scripts/verify_graffiti.cjs
           node scripts/verify_playlist_storage.cjs
           python scripts/verify_kiyo_import.py
           python -m py_compile scripts/audit_catalog.py build.py
@@ -127,6 +128,7 @@ jobs:
           node scripts/verify_pagination_browser.cjs
           node scripts/verify_discovery_browser.cjs
           node scripts/verify_playback_browser.cjs
+          node scripts/verify_graffiti_browser.cjs
       - name: Save browser screenshots
         if: always()
         uses: actions/upload-artifact@v4
@@ -135,6 +137,7 @@ jobs:
           path: |
             /tmp/listening-shelf-*.png
             /tmp/catalog-pagination-*.png
+            /tmp/graffiti-*.png
           if-no-files-found: ignore
           retention-days: 3
       - uses: actions/upload-pages-artifact@v4

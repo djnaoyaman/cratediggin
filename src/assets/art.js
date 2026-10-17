@@ -1,12 +1,15 @@
-/* Original code-drawn lettering. No existing writer's artwork is reproduced. */
+/* Per-track generated artwork; original canvas lettering remains a loading/error fallback. */
 (()=>{
+ const imageCache=new Map(),failedImages=new Set();
  const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
  const rand=seed=>()=>{seed|=0;seed=seed+0x6D2B79F5|0;let t=Math.imul(seed^seed>>>15,1|seed);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296};
  let frame=0,started=0,current=null,texture=null,paint=null,width=0,height=0,visible=false;
  const cv=document.getElementById('wall'),ctx=cv.getContext('2d');
  function size(){const d=Math.min(devicePixelRatio||1,1.5);width=innerWidth;height=innerHeight;cv.width=width*d;cv.height=height*d;ctx.setTransform(d,0,0,d,0,0);if(current)prepare(current)}
+ function artworkURL(song){return song.art.image?new URL(song.art.image,(window.CRATE_SITE_URL||location.origin).replace(/\/$/,'')+'/').href:null}
+ function artwork(song){const url=artworkURL(song);if(!url||failedImages.has(url))return null;if(imageCache.has(url))return imageCache.get(url);const image=new Image();image.decoding='async';imageCache.set(url,image);while(imageCache.size>4){const first=imageCache.keys().next().value;if(first===url)break;imageCache.delete(first)}image.onload=()=>{if(visible&&artworkURL(current)===url){cancelAnimationFrame(frame);frame=requestAnimationFrame(draw)}};image.onerror=()=>{failedImages.add(url);imageCache.delete(url);if(visible&&artworkURL(current)===url){prepare(current);cancelAnimationFrame(frame);frame=requestAnimationFrame(draw)}};image.src=url;return image}
  function prepare(song){
-  current=song;const r=rand(song.art.seed),W=width,H=height;
+  current=song;const generated=artwork(song);document.getElementById('art-view').classList.toggle('image-art',!!generated);if(generated){texture=null;paint=null;return;}const r=rand(song.art.seed),W=width,H=height;
   const colors=song.art.palette||['#006cb6','#ffffff','#60baff','#17212a'];
   const [primary,secondary,accent,bg]=colors;
   const chicago=song.art.profile==='chicago-piano',queens=song.art.profile==='queens-throwup';const la=song.art.profile==='la-open-sky';const oak=song.art.profile==='oakland-handstyle',newark=song.art.profile==='newark-industrial',brooklyn=song.art.profile==='brooklyn-brick';
@@ -63,14 +66,16 @@
   for(let i=0;i<320;i++){const a=r()*Math.PI*2,rx=W*(.2+r()*.25),ry=H*(.1+r()*.11);p.fillStyle=i%3?primary+'3d':secondary+'5b';p.beginPath();p.arc(W*.5+Math.cos(a)*rx,H*.46+Math.sin(a)*ry,r()*2+.4,0,Math.PI*2);p.fill()}
   p.save();p.translate(W*.7,H*.72);p.rotate(-.12);p.textAlign='right';p.font=`${Math.min(W*.047,38)}px 'Permanent Marker',cursive`;p.fillStyle=secondary;p.fillText(song.art.tag,0,0);p.font=`${Math.min(W*.025,19)}px 'Permanent Marker',cursive`;p.fillStyle=accent;p.fillText('Crate Diggin’ / One love.',0,33);p.restore();
  }
- function draw(ts){if(!visible)return;if(!started)started=ts;const primary=(current.art.palette||['#006cb6'])[0];const t=(ts-started)/1000,cycle=reduced?25:t%30;ctx.clearRect(0,0,width,height);ctx.drawImage(texture,0,0);
+ function draw(ts){if(!visible)return;if(!started)started=ts;
+  const generated=artwork(current);if(generated){ctx.clearRect(0,0,width,height);ctx.fillStyle='#faf9f5';ctx.fillRect(0,0,width,height);if(generated.complete&&generated.naturalWidth){const landscape=width>height,top=landscape?48:70,bottom=landscape?92:170,space=Math.max(80,height-top-bottom),scale=Math.min(width/generated.naturalWidth,space/generated.naturalHeight),w=generated.naturalWidth*scale,h=generated.naturalHeight*scale;ctx.save();ctx.globalAlpha=reduced?1:Math.min(1,(ts-started)/650);ctx.drawImage(generated,(width-w)/2,top+(space-h)/2,w,h);ctx.restore();}if(!reduced&&ts-started<900)frame=requestAnimationFrame(draw);return;}
+const primary=(current.art.palette||['#006cb6'])[0];const t=(ts-started)/1000,cycle=reduced?25:t%30;ctx.clearRect(0,0,width,height);ctx.drawImage(texture,0,0);
   // The wall gets painted left to right, settles, then receives a fresh pass.
   const progress=Math.min(1,cycle/(current.art.style==='blockbuster'?5:current.art.style==='piece'?13:9)),edge=(width+100)*progress;
   ctx.save();ctx.beginPath();if(current.art.style==='piece'){ctx.arc(width*.5,height*.46,Math.hypot(width,height)*progress,0,Math.PI*2)}else if(current.art.style==='blockbuster'){ctx.rect(0,0,width,height*progress)}else{ctx.rect(0,0,edge,height)}ctx.clip();ctx.drawImage(paint,0,0);ctx.restore();
   if(progress<1){const g=ctx.createLinearGradient(edge-55,0,edge+25,0);g.addColorStop(0,primary+'00');g.addColorStop(.5,'#74c9ff32');g.addColorStop(1,primary+'00');ctx.fillStyle=g;ctx.fillRect(edge-55,height*.23,80,height*.43)}
   if(!reduced){const sway=Math.sin(t*.11)*9;ctx.globalAlpha=.07;ctx.fillStyle='#b6dcff';ctx.fillRect(0,height*.83+sway,width,1);ctx.globalAlpha=1;frame=requestAnimationFrame(draw)}
  }
- window.CrateArt={show(song){visible=true;started=0;size();prepare(song);cancelAnimationFrame(frame);frame=requestAnimationFrame(draw);if(document.fonts)document.fonts.ready.then(()=>{if(visible){prepare(current);if(reduced)draw(performance.now())}})},change(song){cv.style.opacity='0';setTimeout(()=>{if(!visible)return;prepare(song);started=0;cv.style.opacity='1';if(reduced)draw(performance.now())},400)},hide(){visible=false;cancelAnimationFrame(frame)}};
- addEventListener('resize',()=>{if(visible){size();if(reduced)draw(performance.now())}});
+ window.CrateArt={show(song){visible=true;started=0;size();prepare(song);cancelAnimationFrame(frame);frame=requestAnimationFrame(draw);if(document.fonts)document.fonts.ready.then(()=>{if(visible){prepare(current);if(reduced)draw(performance.now())}})},change(song){cv.style.opacity='0';setTimeout(()=>{if(!visible)return;prepare(song);started=0;cv.style.opacity='1';cancelAnimationFrame(frame);frame=requestAnimationFrame(draw)},400)},hide(){visible=false;cancelAnimationFrame(frame)}};
+ addEventListener('resize',()=>{if(visible){size();if(reduced||artwork(current))draw(performance.now())}});
  document.addEventListener('visibilitychange',()=>{if(document.hidden)cancelAnimationFrame(frame);else if(visible&&!reduced)frame=requestAnimationFrame(draw)});
 })();

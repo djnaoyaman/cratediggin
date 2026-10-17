@@ -1,5 +1,5 @@
 {
-  "version": "17.7",
+  "version": "18.0",
   "timezone": "Asia/Tokyo",
   "policy": "major-only",
   "history": [
@@ -152,6 +152,15 @@
       "datetime": "2026-10-17T01:20:25+09:00",
       "title": "聴く入口と読む情報を整理",
       "description": "全曲の掲載内容を区分し、サンプル資料を共通化。ATCQ特集を統合し、De La Soul・EPMDを追加。119曲の定型文を見直し、3つのリスニングガイドと特集の連続再生を用意。年表は楽曲と文化の出来事に限定。",
+      "kind": "major",
+      "dateBasis": "変更記録日時",
+      "retrospective": false
+    },
+    {
+      "version": "18.0",
+      "datetime": "2026-10-17T10:01:17+09:00",
+      "title": "楽曲ごとのグラフィティ画像を全画面へ",
+      "description": "承認された手描きグラフィティの品質で制作した楽曲画像を、全画面アート表示に実装。作品ジャケット由来の配色、文字の確認、画面内への全体表示を共通ルール化。制作済みの曲から切り替え。",
       "kind": "major",
       "dateBasis": "変更記録日時",
       "retrospective": false
