@@ -8,7 +8,7 @@
   const names=[...new Set(songs.map(s=>s.artist))].sort((a,b)=>a.localeCompare(b,'ja'));
   const selected=name&&names.find(a=>a===name);
   if(!selected){
-   view.innerHTML=top('<a href="#/songs">THE RECORD CRATE</a>','ARTIST INDEX')+'<section class="artist-directory"><h1>ARTISTS</h1><p>アーティストからレコードを探す。全 '+names.length+' 組。</p><div class="artist-grid">'+names.map(a=>'<a href="'+artistUrl(a)+'">'+esc(a)+' <small>'+songs.filter(s=>s.artist===a).length+'</small></a>').join('')+'</div></section>';
+   view.innerHTML=top('<a href="#/songs">THE RECORD CRATE</a>','ARTIST INDEX')+'<section class="artist-directory"><h1>ARTISTS</h1><p><a href="#/producers">PRODUCERS：プロデューサー特集へ ↗</a></p><div class="feature-grid">'+eligibleFeatures().filter(f=>f.type==='artist').map(featureCard).join('')+'</div><h2>ALL ARTISTS</h2><p>アーティストからレコードを探す。全 '+names.length+' 組。</p><div class="artist-grid">'+names.map(a=>'<a href="'+artistUrl(a)+'">'+esc(a)+' <small>'+songs.filter(s=>s.artist===a).length+'</small></a>').join('')+'</div></section>';
   }else{
    customMode=false;applyListFilters=null;const tracks=songs.filter(s=>s.artist===selected);filtered=tracks;
    view.innerHTML=top('<a href="#/artists">ALL ARTISTS</a>',tracks.length+' TRACKS')+'<section class="artist-directory"><h1>'+esc(selected)+'</h1><p>収録曲 '+tracks.length+' 曲</p>'+eligibleFeatures().filter(f=>(f.aliases||[]).includes(selected)||(f.type==='artist'&&f.names.includes(selected))).map(f=>'<p><a href="#/feature/'+f.id+'">'+esc(f.editorial.title)+' — 特集と考察を読む ↗</a></p>').join('')+'<div class="record-list">'+tracks.map(card).join('')+'</div><p><a href="#/artists">← アーティスト一覧へ戻る</a></p></section>';

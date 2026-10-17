@@ -16,7 +16,7 @@ for(const f of eligible){
  api.featurePage(f.id);
  for(const key of ['context','legacy','listening','connections'])assert(view.innerHTML.includes(f.editorial[key]));
  for(const r of f.editorial.sources)assert(view.innerHTML.includes(r.url));
- const html=fs.readFileSync('dist/features/'+f.id+'.html','utf8');
+ const html=fs.readFileSync('dist/'+(f.type==='artist'?'artists':'producers')+'/'+f.id+'.html','utf8');
  assert(html.includes('収録曲 '+selected.length+' 曲'),f.id+': static/client count mismatch');
  assert(html.includes(f.editorial.title));assert(html.includes('#/feature/'+f.id));
  console.log(f.name+': '+selected.length+' tracks, editorial and static route verified');

@@ -24,7 +24,7 @@ for (const [id, required] of Object.entries(expected)) {
   for (const tid of required) {
     const track = selected.find(t => t.id === tid);
     assert(track && track.youtube.id, id + ': missing song/audio ' + tid);
-    assert(fs.existsSync(path.join(root, 'dist/songs', tid + '.html')), 'Missing generated page ' + tid);
+    assert(fs.existsSync(path.join(root, 'dist/tracks', tid + '.html')), 'Missing generated page ' + tid);
   }
   console.log(id + ': ' + selected.length + ' tracks; requested songs and audio present');
 }

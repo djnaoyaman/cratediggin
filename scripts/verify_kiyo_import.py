@@ -20,7 +20,7 @@ for row in rows:
         assert t['youtube']['id'] == row['video']
         assert t['youtube']['official'] == row['official']
         assert 'kiyo' not in t['artist'].lower()
-        assert (root / 'dist/songs' / (t['id'] + '.html')).is_file()
+        assert (root / 'dist/tracks' / (t['id'] + '.html')).is_file()
     elif row['status'] == 'skip_existing':
         assert row['existing_id'] in by_id
 new = [by_id[r['id']] for r in rows if r['status'] == 'added']

@@ -85,6 +85,6 @@ const {chromium} = require('playwright');
    assert.deepEqual(errors, []); await page.close();
    console.log(width + 'px: pagination, history, scroll, reload, search, MY CRATE reorder/removal/undo/clamp passed');
   }
-  assert(fs.readFileSync('dist/features/tribe.html','utf8').includes('rel="canonical" href="https://djnaoyaman.github.io/cratediggin/features/tribe.html"'));
+  assert(fs.readFileSync('dist/artists/tribe.html','utf8').includes('rel="canonical" href="https://djnaoyaman.github.io/cratediggin/artists/tribe.html"'));
  } finally {await browser?.close(); await new Promise(resolve => server.close(resolve));}
 })().catch(e => {console.error(e); process.exitCode = 1;});

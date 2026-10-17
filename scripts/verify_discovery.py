@@ -12,6 +12,13 @@ registry = json.loads((dist / 'metadata.js').read_text(encoding='utf-8').split('
 revision_data = json.loads((dist / 'article-revisions.json').read_text(encoding='utf-8'))
 tracks = json.loads((root / 'tracks.json').read_text(encoding='utf-8'))
 source_by_id = {t['id']: t for t in tracks}
+# Committed source history must not be hidden by derived image metadata.
+if (root / '.git').exists():
+    import sys
+    sys.path.insert(0,str(root))
+    from revision_dates import revision_dates
+    expected = revision_dates(root,tracks,json.loads((root/'editorial_deepdives.json').read_text()),json.loads((root/'features.json').read_text())['features'])
+    assert revision_data == expected, 'Build projections changed authored revision provenance'
 sitemap = ET.fromstring((dist / 'sitemap.xml').read_text(encoding='utf-8'))
 listed = {x.text for x in sitemap.findall('.//{*}loc')}
 base = urlparse(registry['#/']['url']).path.rstrip('/')
@@ -56,7 +63,7 @@ for route, meta in registry.items():
         if original['artist'] in ('A Tribe Called Quest', 'Gang Starr'):
             assert recording['byArtist']['@type'] == 'MusicGroup'
         assert 'sameAs' not in recording, 'Reference uploads must not assert authoritative identity'
-        markdown = (dist / 'songs' / (tid + '.md')).read_text(encoding='utf-8')
+        markdown = (dist / 'tracks' / (tid + '.md')).read_text(encoding='utf-8')
         assert meta['url'] in markdown and '/editor.html' in markdown
     if route.startswith('#/feature/'):
         feature_titles.add(meta['title'])

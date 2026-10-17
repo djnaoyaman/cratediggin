@@ -67,6 +67,8 @@ for t in tracks:
                 assert 'A' in artwork_image.getbands() and artwork_image.getchannel('A').getextrema()[0]==0,'Artwork is not transparent: '+t['id']
         target=DIST/relative;target.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(source,target)
         t['art']['image']=relative
+        with ArtworkImage.open(source) as image_size:
+            t['art']['width'],t['art']['height']=image_size.size
         t['art']['transparent']=bool(piece.get('transparent'))
 
 for t in tracks:

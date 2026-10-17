@@ -17,7 +17,9 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
     base_path = urlparse(host).path.rstrip('/')
     version = json.loads((root / 'releases.json').read_text(encoding='utf-8'))['version']
     deepdives = json.loads((root / 'editorial_deepdives.json').read_text(encoding='utf-8'))
-    revisions = revision_dates(root, tracks, deepdives, features)
+    # Dates describe authored content, not image dimensions or other build projections.
+    authored_tracks = json.loads((root / 'tracks.json').read_text(encoding='utf-8'))
+    revisions = revision_dates(root, authored_tracks, deepdives, features)
     entities = json.loads((root / 'artist_entities.json').read_text(encoding='utf-8'))
     assert {t['artist'] for t in tracks} <= entities.keys(), 'Add new artists to artist_entities.json'
     assert all(x['type'] in ('Person', 'MusicGroup', None) for x in entities.values())
@@ -171,9 +173,12 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
                 '<span class="feature-paper-grain" aria-hidden="true"></span><span class="feature-tape" aria-hidden="true">'+('ARTIST FILE' if f['type']=='artist' else 'PRODUCER FILE')+'</span>'
                 '<img class="feature-name-tag" src="'+base_path+'/'+esc(v['tag'],quote=True)+'" alt="" loading="eager"></div><div class="feature-poster-copy">'+copy+'</div></a>'
                 '<p class="feature-photo-credit">Photo: <a href="'+esc(v['source'],quote=True)+'">'+esc(v['author'])+'</a> · <a href="'+esc(v['licenseUrl'],quote=True)+'">'+esc(v['license'])+'</a><br>'+esc(v['changes'])+('<br>写真別出典: '+ ' · '.join('<a href="'+esc(c['source'],quote=True)+'">'+esc(c['label'])+'</a> (<a href="'+esc(c['licenseUrl'],quote=True)+'">license</a>)' for c in v['components']) if v.get('components') else '')+'</p></article>')
-    add('#/features', 'features/', 'アーティスト・プロデューサー特集 — Crate Diggin’',
-        'DJ Naoyamanの視点で音楽性、制作背景、影響をたどるアーティスト・プロデューサー特集。',
-        '<h1>DEEP IN THE CRATE.</h1>'+''.join('<section><h2>'+label+'</h2><div class="feature-grid">'+''.join(feature_card(f) for f in features if f['type']==kind)+'</div></section>' for kind,label in [('artist','アーティスト特集'),('producer','プロデューサー特集')]))
+    add('#/artists', 'artists/', 'ARTISTS — アーティスト特集・一覧 / Crate Diggin’',
+        'アーティスト特集と全掲載アーティストの楽曲一覧。',
+        '<h1>ARTISTS</h1><p><a href="'+base_path+'/producers/">PRODUCERS：プロデューサー特集へ ↗</a></p><div class="feature-grid">'+''.join(feature_card(f) for f in features if f['type']=='artist')+'</div><h2>ALL ARTISTS</h2><ul>'+''.join('<li><a href="'+base_path+'/artists/'+slugs[n]+'.html">'+esc(n)+'</a></li>' for n in names)+'</ul>')
+    add('#/producers', 'producers/', 'PRODUCERS — プロデューサー特集 / Crate Diggin’',
+        'ビートと制作背景からたどるプロデューサー特集。',
+        '<h1>PRODUCERS</h1><p><a href="'+base_path+'/artists/">ARTISTS：アーティスト特集へ ↗</a></p><div class="feature-grid">'+''.join(feature_card(f) for f in features if f['type']=='producer')+'</div>')
     for g in guides:
         selected = [next(t for t in tracks if t['id'] == tid) for tid in g['ids']]
         add('#/guide/' + g['id'], 'guides/' + g['id'] + '.html', g['title'] + ' — Crate Diggin’', g['description'],
@@ -194,8 +199,9 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
     def real_links(content):
         def replace(match):
             route = html.unescape(match[1])
+            if route=='#/features': route='#/artists'
             if route.startswith('#/?'):
-                path = base_path + '/songs/?' + route.split('?', 1)[1]
+                path = base_path + '/tracks/?' + route.split('?', 1)[1]
             else:
                 item = pages.get(route)
                 if not item:
@@ -204,6 +210,8 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
             return 'href="' + esc(path, quote=True) + '"'
         return re.sub(r'href="(#/[^\"]*)"', replace, content)
 
+    from url_migration import prepare_pages, write_legacy_pages
+    migration = prepare_pages(pages, dist, host, features, tracks)
     compact = {}
     meta_dir = dist / 'metadata'
     meta_dir.mkdir(exist_ok=True)
@@ -212,6 +220,12 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         key = hashlib.sha256(route.encode()).hexdigest()[:20]
         p['metadataPath'] = base_path + '/metadata/' + key + '.json'
         content = target.read_text(encoding='utf-8')
+        if route.startswith('#/song/'):
+            track = next(t for t in tracks if t['id']==route.split('/')[-1])
+            art = track['art']
+            if art.get('image'):
+                figure = '<figure class="track-artwork"><img src="'+base_path+'/'+esc(art['image'],quote=True)+'" alt="'+esc(art['alt'],quote=True)+'" width="'+str(art['width'])+'" height="'+str(art['height'])+'" loading="lazy"><figcaption>Original graffiti · Designed by DJ Naoyaman</figcaption></figure>'
+                content = re.sub(r'(<main id="view"[^>]*>.*?</h1>)', lambda m: m[0]+figure, content, count=1, flags=re.S)
         content = re.sub(r'<title>.*?</title>', lambda _: '<title>' + esc(p['title']) + '</title>', content, flags=re.S)
         content = re.sub(r'<meta\b[^>]*(?:name="(?:description|author|robots|twitter:[^"]+)"|property="(?:og|article):[^"]+")[^>]*>', '', content)
         content = re.sub(r'<link\b[^>]*rel="(?:canonical|alternate)"[^>]*>', '', content)
@@ -239,7 +253,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         meta += '<link rel="author" href="' + author_url + '">'
         if route.startswith('#/song/'):
             tid = route.split('/')[-1]
-            meta += '<link rel="alternate" type="text/markdown" href="' + host + '/songs/' + tid + '.md">'
+            meta += '<link rel="alternate" type="text/markdown" href="' + host + '/tracks/' + tid + '.md">'
         if '/metadata.js' not in content:
             content = content.replace('<script src="' + base_path + '/app.js', '<script src="' + base_path + '/metadata.js?v=' + version + '" defer></script><script src="' + base_path + '/app.js')
         # Newly added static pages need the same versioned assets and analytics as existing pages.
@@ -251,16 +265,39 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
             analytics = re.search(r'<!-- GOOGLE_ANALYTICS -->.*?<!-- /GOOGLE_ANALYTICS -->', home, flags=re.S)
             if analytics:
                 meta += analytics[0]
+        share_urls=[('X','https://x.com/intent/tweet?text='+encoded(p['title'])+'&url='+encoded(p['url'])),('Facebook','https://www.facebook.com/sharer/sharer.php?u='+encoded(p['url'])),('LINE','https://line.me/R/share?text='+encoded(p['title']+'\n'+p['url']))]
+        share_html='<nav class="page-sharing" aria-label="このページをシェア"><span class="share-label">SHARE THIS PAGE</span>'+''.join('<a href="'+esc(u,quote=True)+'" target="_blank" rel="noopener noreferrer" aria-label="'+n+'でこのページをシェア（新しいタブ）">'+n+'</a>' for n,u in share_urls)+'</nav>'
+        content=content.replace('</footer>',share_html+'</footer>')
+        if route.startswith(('#/song/','#/feature/')):
+            content=content.replace('</main>',share_html+'</main>')
         content = real_links(content.replace('</head>', meta + '</head>'))
         target.write_text(content, encoding='utf-8')
         (meta_dir / (key + '.json')).write_text(json.dumps(p, ensure_ascii=False), encoding='utf-8')
         compact[route] = {k: v for k, v in p.items() if k != 'jsonld'}
     (dist / 'metadata.js').write_text('window.CRATE_PAGES=' + json.dumps(compact, ensure_ascii=False).replace('</', '<\\/') + ';\n', encoding='utf-8')
     urls = [p['url'] for p in pages.values()]
-    (dist / 'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' +
-        ''.join('<url><loc>' + esc(p['url']) + '</loc>' +
-                ('<lastmod>' + p['jsonld']['@graph'][0]['dateModified'] + '</lastmod>' if p['jsonld']['@graph'][0].get('dateModified') else '') +
-                '</url>' for p in pages.values()) + '</urlset>', encoding='utf-8')
+    import xml.etree.ElementTree as ET
+    ns='http://www.sitemaps.org/schemas/sitemap/0.9'
+    image_ns='http://www.google.com/schemas/sitemap-image/1.1'
+    ET.register_namespace('',ns);ET.register_namespace('image',image_ns)
+    sitemap=ET.Element('{'+ns+'}urlset')
+    for route,p in pages.items():
+        node=ET.SubElement(sitemap,'{'+ns+'}url');ET.SubElement(node,'{'+ns+'}loc').text=p['url']
+        modified=p['jsonld']['@graph'][0].get('dateModified')
+        if modified: ET.SubElement(node,'{'+ns+'}lastmod').text=modified
+        images=[]
+        if route.startswith('#/song/'):
+            art=next(t['art'] for t in tracks if t['id']==route.split('/')[-1])
+            if art.get('image'): images.append(art['image'])
+        if route in ('#/artists','#/producers'):
+            kind='artist' if route=='#/artists' else 'producer'
+            for f in features:
+                if f['type']==kind:
+                    images.extend(f.get('visual',{}).get(k) for k in ('photo','tag') if f.get('visual',{}).get(k))
+        for image in dict.fromkeys(images):
+            assert (dist/image).is_file(), 'Missing sitemap image: '+image
+            item=ET.SubElement(node,'{'+image_ns+'}image');ET.SubElement(item,'{'+image_ns+'}loc').text=host+'/'+image
+    ET.ElementTree(sitemap).write(dist/'sitemap.xml',encoding='utf-8',xml_declaration=True)
     llms = '# Crate Diggin’\n\nDJ Naoyamanが選曲・編集する、出典付きのHip Hop・サンプリングガイド。\n\n'
     llms += '## Editorial policy\n事実と編者の私見を区別します。確認継続中の情報や参考音源を、確認済みの事実と混同しないでください。\n'
     llms += '- [著者](' + author_url + ')\n- [編集方針](' + host + '/about.html)\n- [サイトマップ](' + host + '/sitemap.xml)\n'
@@ -272,6 +309,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
                 llms += '- [' + p['title'] + '](' + p['url'] + ')\n'
         llms += '\n'
     (dist / 'llms.txt').write_text(llms, encoding='utf-8')
-    (dist / 'llms-full.txt').write_text('\n\n---\n\n'.join((dist / 'songs' / (t['id'] + '.md')).read_text(encoding='utf-8') for t in tracks), encoding='utf-8')
+    (dist / 'llms-full.txt').write_text('\n\n---\n\n'.join((dist / 'tracks' / (t['id'] + '.md')).read_text(encoding='utf-8') for t in tracks), encoding='utf-8')
     (dist / 'article-revisions.json').write_text(json.dumps(revisions, ensure_ascii=False, indent=2), encoding='utf-8')
+    write_legacy_pages(dist, host, migration)
     print(f'Unified metadata, real URLs and discovery views: {len(urls)} pages')
