@@ -7619,6 +7619,164 @@
       "paletteReviewed": true,
       "transparent": true,
       "coverReference": "https://music.apple.com/us/album/behind-the-front/1445663231?uo=4"
+    },
+    {
+      "id": "grand-puba-proper-education",
+      "title": "Proper Education",
+      "artist": "Grand Puba",
+      "album": "Reel to Reel",
+      "palette": [
+        "#ead34c",
+        "#b63d4d",
+        "#456a8a",
+        "#252c2b"
+      ],
+      "paletteSource": "Reel to Reel",
+      "paletteNote": "公式レーベル・アーティスト・正規再発元のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/grand-puba-proper-education-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://tommyboy-records.com/products/292175-reel-to-reel"
+    },
+    {
+      "id": "krs-one-uh-oh",
+      "title": "Uh Oh",
+      "artist": "KRS-One",
+      "album": "Return of the Boom Bap",
+      "palette": [
+        "#d77620",
+        "#24768b",
+        "#c5dcd2",
+        "#182524"
+      ],
+      "paletteSource": "Return of the Boom Bap",
+      "paletteNote": "公式レーベル・アーティスト・正規再発元のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/krs-one-uh-oh-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://www.musiconvinyl.com/products/krs-one-return-of-the-boom-bap-vinyl"
+    },
+    {
+      "id": "fugees-vocab",
+      "title": "Vocab",
+      "artist": "Fugees",
+      "album": "Blunted on Reality",
+      "palette": [
+        "#a65e4b",
+        "#c8afa1",
+        "#412b34",
+        "#eeebe5"
+      ],
+      "paletteSource": "Blunted on Reality",
+      "paletteNote": "公式レーベル・アーティスト・正規再発元のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/fugees-vocab-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://store.sonymusic.es/products/blunted-on-reality-lp?variant=48048230269265"
+    },
+    {
+      "id": "a-tribe-called-quest-verses-from-the-abstract",
+      "title": "Verses from the Abstract",
+      "artist": "A Tribe Called Quest",
+      "album": "The Low End Theory",
+      "palette": [
+        "#ce4655",
+        "#86ad65",
+        "#252725"
+      ],
+      "paletteSource": "The Low End Theory",
+      "paletteNote": "公式レーベル・アーティスト・正規再発元のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-verses-from-the-abstract-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://atribecalledquest.com/blogs/discography/1991-the-low-end-theory"
+    },
+    {
+      "id": "pete-rock-cl-smooth-soul-brother-1",
+      "title": "Soul Brother #1",
+      "artist": "Pete Rock & C.L. Smooth",
+      "album": "Mecca and the Soul Brother",
+      "palette": [
+        "#d6bd36",
+        "#709b86",
+        "#bfc0bf",
+        "#182026"
+      ],
+      "paletteSource": "Mecca and the Soul Brother",
+      "paletteNote": "公式レーベル・アーティスト・正規再発元のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/pete-rock-cl-smooth-soul-brother-1-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://trafficent.com/wp-content/uploads/2016/01/GET-52721-PETE-ROCK-CL-SMOOTH-Mecca-The-Soul-Brother-LP.pdf"
+    },
+    {
+      "id": "diamond-d-flowin",
+      "title": "Flowin’ (feat. John Dough)",
+      "artist": "Diamond D",
+      "album": "Hatred, Passions and Infidelity",
+      "palette": [
+        "#d92b23",
+        "#a6412c",
+        "#f0d2bc",
+        "#1c1411"
+      ],
+      "paletteSource": "Hatred, Passions and Infidelity",
+      "paletteNote": "公式レーベル・アーティスト・正規再発元のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/diamond-d-flowin-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/ca/song/1178189951"
+    },
+    {
+      "id": "ini-grown-man-sport",
+      "title": "Grown Man Sport",
+      "artist": "InI",
+      "album": "Center of Attention",
+      "palette": [
+        "#a63d32",
+        "#171717",
+        "#eee9df",
+        "#c57155"
+      ],
+      "paletteSource": "Center of Attention",
+      "paletteNote": "公式レーベル・アーティスト・正規再発元のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/ini-grown-man-sport-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://pete-rock.bandcamp.com/track/grown-man-sport"
+    },
+    {
+      "id": "large-professor-hungry",
+      "title": "Hungry",
+      "artist": "Large Professor",
+      "album": "The LP",
+      "palette": [
+        "#f0f1ef",
+        "#85a7b4",
+        "#15262b"
+      ],
+      "paletteSource": "The LP（2009年P-VINE正式盤）",
+      "paletteNote": "公式レーベル・アーティスト・正規再発元のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/large-professor-hungry-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://p-vine.jp/music/pcd-93253"
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

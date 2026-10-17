@@ -139,6 +139,7 @@ jobs:
           node scripts/verify_profile_notes_browser.cjs
           node scripts/verify_public_copy_browser.cjs
           node scripts/verify_requested_six_browser.cjs
+          node scripts/verify_deep_rooted_browser.cjs
       - name: Save browser screenshots
         if: always()
         uses: actions/upload-artifact@v4

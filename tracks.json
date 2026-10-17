@@ -42523,5 +42523,930 @@
     "collections": [],
     "editorialCrates": [],
     "curationNote": "ユーザー指定曲。音源の公開プレイヤー情報を照合済み。実音声聴取・ブラウザ実再生は未確認。"
+  },
+  {
+    "id": "grand-puba-proper-education",
+    "title": "Proper Education",
+    "artist": "Grand Puba",
+    "year": 1992,
+    "region": "New York",
+    "scene": "New Rochelle",
+    "category": "Hip Hop",
+    "moods": [
+      "掘り下げる"
+    ],
+    "album": "Reel to Reel",
+    "label": "Elektra（初出） / Tommy Boy（現行配信）",
+    "producer": "Grand Puba",
+    "members": "",
+    "youtube": {
+      "id": "k0NeDOb2M2A",
+      "url": "https://www.youtube.com/watch?v=k0NeDOb2M2A",
+      "channel": "Tommy Boy",
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "official": true
+    },
+    "deck": "Grand Pubaのソロ作から、言葉を主役にした一曲。",
+    "essayTitle": "Proper Education：作品と録音の背景",
+    "essay": [
+      "1992年のソロ・アルバム『Reel to Reel』収録。Tommy Boyの現行カタログでは11曲目に位置し、同レーベルの公式音源も公開されている。初出のElektraと現在の配信権利表記は区別して捉えたい。",
+      "Grand Pubaはニューヨーク州New Rochelle出身。Masters of Ceremonyで活動し、Brand Nubianを経た後にソロ作を発表した。グループの一員として知られる声を、一枚のアルバムの中心に据え直した時期の曲である。",
+      "曲別の盤クレジット転記では制作をGrand Pubaが担当し、Vaughn Sessionsがエンジニアとして記される。グループでの活動を経たMCが、自分の声と制作を一枚の作品にまとめる。その重なりが、このソロ作を辿る手がかりになる。"
+    ],
+    "facts": [
+      {
+        "title": "1992年のソロ作",
+        "text": "1992年作『Reel to Reel』の公式トラックリストに収録されている。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "グループからソロへ",
+        "text": "公式アーティスト紹介はMasters of Ceremony、Brand Nubian、Reel to Reelという活動歴を記載。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "曲別の制作担当",
+        "text": "1992年CDのクレジット転記資料はProper Educationの制作をGrand Puba、エンジニアをVaughn Sessionsと記載。アルバム全体の制作陣とは区別する。",
+        "sources": [
+          4
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Tommy Boy — Reel to Reel",
+        "url": "https://tommyboy-records.com/products/292175-reel-to-reel",
+        "kind": "公式"
+      },
+      {
+        "label": "Tommy Boy — Grand Puba",
+        "url": "https://tommyboy-records.com/us/artists/206523-grand-puba",
+        "kind": "公式"
+      },
+      {
+        "label": "Tommy Boy公式音源",
+        "url": "https://www.youtube.com/watch?v=k0NeDOb2M2A",
+        "kind": "公式音源"
+      },
+      {
+        "label": "正規盤ジャケット参照",
+        "url": "https://tommyboy-records.com/products/292175-reel-to-reel",
+        "kind": "ジャケット資料"
+      },
+      {
+        "label": "The Good Ol’Dayz — CDの曲別クレジット",
+        "url": "https://www.thegoodoldayz.com/album/reel-to-reel/24934.html",
+        "kind": "盤クレジット転記"
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "MCと制作者の両方にGrand Pubaの名前があることを手がかりに、声と伴奏の関係を追う。"
+    ],
+    "context": "1992年のソロ・アルバム『Reel to Reel』収録。Tommy Boyの現行カタログでは11曲目に位置し、同レーベルの公式音源も公開されている。初出のElektraと現在の配信権利表記は区別して捉えたい。",
+    "producers": [
+      "Grand Puba"
+    ],
+    "connections": [],
+    "sounds": [],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "ラップ表現に着目した本サイトの編集上の選曲。細分ジャンル・気分タグは史実上の分類を意味しない。",
+    "art": {
+      "word": "PROPER EDUCATION",
+      "lines": [
+        "PROPER EDUCATION"
+      ],
+      "tag": "GRAND PUBA",
+      "style": "piece",
+      "seed": 202610170500,
+      "profile": "ny-subway",
+      "palette": [
+        "#ead34c",
+        "#b63d4d",
+        "#456a8a",
+        "#252c2b"
+      ],
+      "paletteSource": "Reel to Reel",
+      "paletteSourceUrl": "https://tommyboy-records.com/products/292175-reel-to-reel",
+      "paletteNote": "公式レーベル・アーティスト・正規再発元のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "独自の編集上の文字設定。地域固有の書体とは断定しない。"
+    },
+    "yearBasis": "収録アルバムの原発売年。再発・配信公開年とは区別する。",
+    "addedOrder": 384,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+  },
+  {
+    "id": "krs-one-uh-oh",
+    "title": "Uh Oh",
+    "artist": "KRS-One",
+    "year": 1993,
+    "region": "New York",
+    "scene": "Bronx / Boogie Down Productions",
+    "category": "Hip Hop",
+    "moods": [
+      "掘り下げる"
+    ],
+    "album": "Return of the Boom Bap",
+    "label": "Jive",
+    "producer": "KRS-One",
+    "members": "",
+    "youtube": {
+      "id": "6hT25Xke3KQ",
+      "url": "https://www.youtube.com/watch?v=6hT25Xke3KQ",
+      "channel": "KRS ONE - Topic",
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "official": true
+    },
+    "deck": "MCと制作、その両方にKRS-Oneの名前が刻まれた曲。",
+    "essayTitle": "Uh Oh：作品と録音の背景",
+    "essay": [
+      "1993年『Return of the Boom Bap』収録。DJ Premierの参加でも知られるアルバムだが、全曲を同じプロデューサーの仕事として括るべきではない。「Uh Oh」の配信クレジットにはKRS-One自身が制作とミックスの担当として記されている。",
+      "詞曲はL. Parker名義。ラップの実演だけでなく、その声を乗せる録音の構成にも本人が関わる。MCとプロデューサーという役割の重なりを手がかりにすると、この曲はアルバムの中でも別の入口を開いてくれる。",
+      "Jive提供のアルバム音源には、1993年のZombaの権利表記がある。再発盤でも『Return of the Boom Bap』の一曲として受け継がれ、MC自身の制作を聴く入口になっている。"
+    ],
+    "facts": [
+      {
+        "title": "自ら制作・ミックス",
+        "text": "Qobuzの曲別クレジットはKRS-OneをProducer、Mixing Engineer、Performerと記載。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "原曲は1993年",
+        "text": "Jive提供音源はReturn of the Boom Bap収録、℗1993 Zombaと明記。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "2017年の再発盤",
+        "text": "Music On Vinylの正規再発ではC面2曲目。原発売年1993と再発年2017が別々に明記される。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Jive提供公式音源",
+        "url": "https://www.youtube.com/watch?v=6hT25Xke3KQ",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Qobuz — 曲別クレジット",
+        "url": "https://www.qobuz.com/us-en/album/return-of-the-boom-bap-krs-one/0012414151728",
+        "kind": "配信クレジット"
+      },
+      {
+        "label": "正規盤ジャケット参照",
+        "url": "https://www.musiconvinyl.com/products/krs-one-return-of-the-boom-bap-vinyl",
+        "kind": "ジャケット資料"
+      },
+      {
+        "label": "Apple Music — オリジナルアルバム",
+        "url": "https://music.apple.com/us/album/return-of-the-boom-bap/267251596",
+        "kind": "配信"
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "KRS-Oneが制作とミックスも担う一曲として、ラップの切れ目と伴奏の関係を追う。"
+    ],
+    "context": "1993年『Return of the Boom Bap』収録。DJ Premierの参加でも知られるアルバムだが、全曲を同じプロデューサーの仕事として括るべきではない。「Uh Oh」の配信クレジットにはKRS-One自身が制作とミックスの担当として記されている。",
+    "producers": [
+      "KRS-One"
+    ],
+    "connections": [],
+    "sounds": [],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "ラップ表現に着目した本サイトの編集上の選曲。細分ジャンル・気分タグは史実上の分類を意味しない。",
+    "art": {
+      "word": "UH OH",
+      "lines": [
+        "UH OH"
+      ],
+      "tag": "KRS-ONE",
+      "style": "piece",
+      "seed": 202610170501,
+      "profile": "ny-subway",
+      "palette": [
+        "#d77620",
+        "#24768b",
+        "#c5dcd2",
+        "#182524"
+      ],
+      "paletteSource": "Return of the Boom Bap",
+      "paletteSourceUrl": "https://www.musiconvinyl.com/products/krs-one-return-of-the-boom-bap-vinyl",
+      "paletteNote": "公式レーベル・アーティスト・正規再発元のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "独自の編集上の文字設定。地域固有の書体とは断定しない。"
+    },
+    "yearBasis": "収録アルバムの原発売年。再発・配信公開年とは区別する。",
+    "addedOrder": 385,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+  },
+  {
+    "id": "fugees-vocab",
+    "title": "Vocab",
+    "artist": "Fugees",
+    "year": 1994,
+    "region": "New Jersey",
+    "scene": "Fugees",
+    "category": "Hip Hop",
+    "moods": [
+      "掘り下げる"
+    ],
+    "album": "Blunted on Reality",
+    "label": "Ruffhouse / Columbia",
+    "producer": "Wyclef Jean / Pras Michel",
+    "members": "Wyclef Jean、Pras Michel、Lauryn Hill",
+    "youtube": {
+      "id": "vFkZR4nhHw8",
+      "url": "https://www.youtube.com/watch?v=vFkZR4nhHw8",
+      "channel": "Fugees - Topic",
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "official": true
+    },
+    "deck": "リミックスの知名度だけでは捉えきれない、Fugeesの原曲。",
+    "essayTitle": "Vocab：作品と録音の背景",
+    "essay": [
+      "1994年『Blunted on Reality』収録。Ruffhouse/Columbia提供のアルバム版は、後に広まったリミックスとは異なる録音だ。同じ曲名の下に複数の姿があることも、初期Fugeesを辿る面白さのひとつである。",
+      "公式配信のクレジットではWyclef JeanとPras Michel（Prakazrel）がプロデューサー。Wyclefは声に加えギター、ベース、アレンジにも名前を連ねる。Laurynの声、Khalis Bayyanの鍵盤とサックス、DJ Boy Wonderのスクラッチという参加者も確認できる。",
+      "ラップと楽器の役割を分けて追うと、初期Fugeesの構成が具体的に見えてくる。声だけでなく、ギターやベース、鍵盤を担う人々の名前からも、この録音へ近づくことができる。"
+    ],
+    "facts": [
+      {
+        "title": "アルバム版の収録情報",
+        "text": "Ruffhouse/Columbia提供のアルバム音源には『Blunted On Reality』と1994年の権利表記がある。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "演奏者の配置",
+        "text": "Khalis Bayyanは鍵盤・サックス、DJ Boy Wonderはスクラッチ。アルバム音源の公式クレジットに基づく。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Ruffhouse/Columbia提供公式音源・クレジット",
+        "url": "https://www.youtube.com/watch?v=vFkZR4nhHw8",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — Vocab",
+        "url": "https://music.apple.com/us/song/169704645",
+        "kind": "配信"
+      },
+      {
+        "label": "正規盤ジャケット参照",
+        "url": "https://store.sonymusic.es/products/blunted-on-reality-lp?variant=48048230269265",
+        "kind": "ジャケット資料"
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "クレジットに並ぶギター、ベース、鍵盤、スクラッチを手がかりに、声の周囲へ耳を向ける。"
+    ],
+    "context": "1994年『Blunted on Reality』収録。Ruffhouse/Columbia提供のアルバム版は、後に広まったリミックスとは異なる録音だ。同じ曲名の下に複数の姿があることも、初期Fugeesを辿る面白さのひとつである。",
+    "producers": [
+      "Wyclef Jean / Pras Michel"
+    ],
+    "connections": [],
+    "sounds": [],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "ラップ表現に着目した本サイトの編集上の選曲。細分ジャンル・気分タグは史実上の分類を意味しない。",
+    "art": {
+      "word": "VOCAB",
+      "lines": [
+        "VOCAB"
+      ],
+      "tag": "FUGEES",
+      "style": "piece",
+      "seed": 202610170502,
+      "profile": "ny-subway",
+      "palette": [
+        "#a65e4b",
+        "#c8afa1",
+        "#412b34",
+        "#eeebe5"
+      ],
+      "paletteSource": "Blunted on Reality",
+      "paletteSourceUrl": "https://store.sonymusic.es/products/blunted-on-reality-lp?variant=48048230269265",
+      "paletteNote": "公式レーベル・アーティスト・正規再発元のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "独自の編集上の文字設定。地域固有の書体とは断定しない。"
+    },
+    "yearBasis": "収録アルバムの原発売年。再発・配信公開年とは区別する。",
+    "addedOrder": 386,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+  },
+  {
+    "id": "a-tribe-called-quest-verses-from-the-abstract",
+    "title": "Verses from the Abstract",
+    "artist": "A Tribe Called Quest",
+    "year": 1991,
+    "region": "New York",
+    "scene": "Queens / Native Tongues",
+    "category": "Hip Hop",
+    "moods": [
+      "掘り下げる"
+    ],
+    "album": "The Low End Theory",
+    "label": "Jive",
+    "producer": "A Tribe Called Quest",
+    "members": "Q-Tip、Phife Dawg、Ali Shaheed Muhammad（グループ）; 客演 Vinia Mojica、Ron Carter",
+    "youtube": {
+      "id": "sIqm40Y0LVw",
+      "url": "https://www.youtube.com/watch?v=sIqm40Y0LVw",
+      "channel": "A Tribe Called Quest - Topic",
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "official": true
+    },
+    "deck": "Ron CarterのベースとVinia Mojicaの声。その接点から聴くHip Hop。",
+    "essayTitle": "Verses from the Abstract：作品と録音の背景",
+    "essay": [
+      "1991年『The Low End Theory』収録。「ジャジー」という形容だけでは、この曲の具体的な仕組みは見えてこない。公式クレジットにはRon CarterのベースとVinia Mojicaの声があり、ラップの周囲を誰が支えているかを辿ることができる。",
+      "Jive提供音源の制作表記はA Tribe Called Quest、録音とミックスにはBob Powerの名前が並ぶ。Q-Tipの言葉、ベースの動き、声の応答を別々に追ってから重ねる。それぞれの役割を意識することが、単に雰囲気を味わうより一歩深い聴き方になる。",
+      "ラップを中心に、演奏と歌声が組み合わされる一曲。客演者の名前を手がかりに聴き直すと、Hip Hopの録音の中で異なる表現が出会う場所が見えてくる。"
+    ],
+    "facts": [
+      {
+        "title": "演奏の具体性",
+        "text": "Ron Carterはベース、Vinia Mojicaはボーカルとして公式音源に掲載。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "1991年のアルバム曲",
+        "text": "グループ公式ディスコグラフィーとJive提供音源がThe Low End Theory収録を確認できる。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "制作と録音",
+        "text": "公式音源はA Tribe Called Questの制作、Bob Powerの録音・ミックスを記載。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Jive提供公式音源・演奏者クレジット",
+        "url": "https://www.youtube.com/watch?v=sIqm40Y0LVw",
+        "kind": "公式音源"
+      },
+      {
+        "label": "A Tribe Called Quest — The Low End Theory",
+        "url": "https://atribecalledquest.com/blogs/discography/1991-the-low-end-theory",
+        "kind": "公式"
+      },
+      {
+        "label": "Apple Music — 演奏者クレジット",
+        "url": "https://music.apple.com/us/song/278911466",
+        "kind": "配信クレジット"
+      },
+      {
+        "label": "正規盤ジャケット参照",
+        "url": "https://atribecalledquest.com/blogs/discography/1991-the-low-end-theory",
+        "kind": "ジャケット資料"
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "Ron CarterのベースとVinia Mojicaの声を、ラップとは別々に追ってから重ねて聴く。"
+    ],
+    "context": "1991年『The Low End Theory』収録。「ジャジー」という形容だけでは、この曲の具体的な仕組みは見えてこない。公式クレジットにはRon CarterのベースとVinia Mojicaの声があり、ラップの周囲を誰が支えているかを辿ることができる。",
+    "producers": [
+      "A Tribe Called Quest"
+    ],
+    "connections": [],
+    "sounds": [],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "jazz-mellow",
+      "mic-skills"
+    ],
+    "curationNote": "ラップ表現に着目した本サイトの編集上の選曲。細分ジャンル・気分タグは史実上の分類を意味しない。",
+    "art": {
+      "word": "VERSES FROM THE ABSTRACT",
+      "lines": [
+        "VERSES FROM THE ABSTRACT"
+      ],
+      "tag": "A TRIBE CALLED QUEST",
+      "style": "piece",
+      "seed": 202610170503,
+      "profile": "ny-subway",
+      "palette": [
+        "#ce4655",
+        "#86ad65",
+        "#252725"
+      ],
+      "paletteSource": "The Low End Theory",
+      "paletteSourceUrl": "https://atribecalledquest.com/blogs/discography/1991-the-low-end-theory",
+      "paletteNote": "公式レーベル・アーティスト・正規再発元のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "独自の編集上の文字設定。地域固有の書体とは断定しない。"
+    },
+    "yearBasis": "収録アルバムの原発売年。再発・配信公開年とは区別する。",
+    "addedOrder": 387,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+  },
+  {
+    "id": "pete-rock-cl-smooth-soul-brother-1",
+    "title": "Soul Brother #1",
+    "artist": "Pete Rock & C.L. Smooth",
+    "year": 1992,
+    "region": "New York",
+    "scene": "New York Hip Hop",
+    "category": "Hip Hop",
+    "moods": [
+      "掘り下げる"
+    ],
+    "album": "Mecca and the Soul Brother",
+    "label": "Elektra",
+    "producer": "Pete Rock",
+    "members": "",
+    "youtube": {
+      "id": "s88PxBSKHN8",
+      "url": "https://www.youtube.com/watch?v=s88PxBSKHN8",
+      "channel": "Pete Rock - Topic",
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "official": true
+    },
+    "deck": "1992年の『Mecca and the Soul Brother』に収められた一曲。",
+    "essayTitle": "Soul Brother #1：制作と流通の背景",
+    "essay": [
+      "1992年の『Mecca and the Soul Brother』に収められた一曲。デュオ名義の作品の中で、Pete Rock自身のラップに焦点が当たる。制作する人とマイクを持つ人を別々の役割として考えるだけでは、捉えきれない曲だ。",
+      "Rhino提供の公式音源はPete Rockをプロデューサーと表記。正規再発元Get On Downの資料でも、B面のStraighten It OutとWig Outの間にSoul Brother #1が置かれている。アルバム名に似た別曲「Mecca and the Soul Brother」とは異なる曲だ。",
+      "同じアルバムのT.R.O.Y.だけでなく、この曲へ進むことでデュオの役割の幅が見えてくる。制作を担うPete Rockが、自らマイクも握る。その演じる声とビートの関係へ耳を向けたい。"
+    ],
+    "facts": [
+      {
+        "title": "制作担当",
+        "text": "Rhino公式配信はPete Rockを制作担当と掲載。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "盤上の位置",
+        "text": "正規再発資料GET52721-LPのB2。1992年作品と2016年再発を区別する。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "Pete RockのソロMC",
+        "text": "Albumismの回顧はアルバム唯一のPete Rockソロ曲と説明する。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Rhino提供公式音源",
+        "url": "https://www.youtube.com/watch?v=s88PxBSKHN8",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Get On Down正規再発資料",
+        "url": "https://trafficent.com/wp-content/uploads/2016/01/GET-52721-PETE-ROCK-CL-SMOOTH-Mecca-The-Soul-Brother-LP.pdf",
+        "kind": "正規発売元"
+      },
+      {
+        "label": "Albumism — アルバム回顧",
+        "url": "https://albumism.com/features/tribute-celebrating-30-years-of-pete-rock-and-cl-smooth-mecca-and-the-soul-brother",
+        "kind": "作品解説"
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "Pete Rockの制作とソロMCが重なる一曲として、ビートと言葉の関係へ耳を向ける。"
+    ],
+    "context": "1992年の『Mecca and the Soul Brother』に収められた一曲。デュオ名義の作品の中で、Pete Rock自身のラップに焦点が当たる。制作する人とマイクを持つ人を別々の役割として考えるだけでは、捉えきれない曲だ。",
+    "producers": [
+      "Pete Rock"
+    ],
+    "connections": [],
+    "sounds": [],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "ラップ表現に着目した本サイトの編集上の選曲。細分ジャンル・気分タグは史実上の分類を意味しない。",
+    "art": {
+      "word": "SOUL BROTHER #1",
+      "lines": [
+        "SOUL BROTHER #1"
+      ],
+      "tag": "PETE ROCK & C.L. SMOOTH",
+      "style": "piece",
+      "seed": 202610170510,
+      "profile": "ny-subway",
+      "palette": [
+        "#d6bd36",
+        "#709b86",
+        "#bfc0bf",
+        "#182026"
+      ],
+      "paletteSource": "Mecca and the Soul Brother",
+      "paletteSourceUrl": "https://trafficent.com/wp-content/uploads/2016/01/GET-52721-PETE-ROCK-CL-SMOOTH-Mecca-The-Soul-Brother-LP.pdf",
+      "paletteNote": "公式レーベル・アーティスト・正規再発元のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "独自の編集上の文字設定。地域固有の書体とは断定しない。"
+    },
+    "yearBasis": "収録アルバムの原発売年。再発・配信公開年とは区別する。",
+    "addedOrder": 388,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+  },
+  {
+    "id": "diamond-d-flowin",
+    "title": "Flowin’ (feat. John Dough)",
+    "artist": "Diamond D",
+    "year": 1997,
+    "region": "New York",
+    "scene": "New York Hip Hop",
+    "category": "Hip Hop",
+    "moods": [
+      "掘り下げる"
+    ],
+    "album": "Hatred, Passions and Infidelity",
+    "label": "Mercury（初出） / Dymond Mine（再発）",
+    "producer": "Diamond D",
+    "members": "",
+    "youtube": {
+      "id": "4X0Sd1fM5kg",
+      "url": "https://www.youtube.com/watch?v=4X0Sd1fM5kg",
+      "channel": "Diamond D - Topic",
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "official": true
+    },
+    "deck": "1997年のセカンド・アルバム『Hatred, Passions and Infidelity』から。",
+    "essayTitle": "Flowin’ (feat. John Dough)：制作と流通の背景",
+    "essay": [
+      "1997年のセカンド・アルバム『Hatred, Passions and Infidelity』から。Introに続くFlowin’は、John Doughを迎える歌入りの曲である。Diamond Dのソロ作品に別のMCの声が加わり、アルバムの序盤を形づくる。",
+      "Diamond D自身のレーベルは、このアルバムを1997年の作品として位置づけている。現在の公式配信にはDymond Mine Recordsの2016年表記があるが、それは原曲の成立年を2016年に置き換えるものではない。初出と再発の年を分けておきたい。",
+      "D.I.T.C.のプロデューサーとしての仕事と、自身が前面に出るラップ作品。その両方を辿る入口になる曲だ。客演者との声の受け渡しを追いながら、ソロ作品の中に他者が加わる意味を考えてみたい。"
+    ],
+    "facts": [
+      {
+        "title": "原発売と再配信",
+        "text": "本人レーベルはアルバムを1997年作と記載。公式音源の2016年は再配信の権利表記。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "John Doughの客演",
+        "text": "公式音源とApple Musicがfeat. John Doughと明記する歌入り版。",
+        "sources": [
+          1,
+          2
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Dymond Mine — Diamond Dの活動歴",
+        "url": "https://www.dymondminerecords.com/html/artists.htm",
+        "kind": "本人レーベル"
+      },
+      {
+        "label": "EMPIRE提供公式音源",
+        "url": "https://www.youtube.com/watch?v=4X0Sd1fM5kg",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — Flowin’",
+        "url": "https://music.apple.com/ca/song/1178189951",
+        "kind": "配信"
+      },
+      {
+        "label": "Albumism — アルバム回顧",
+        "url": "https://albumism.com/features/celebrating-25-years-of-diamond-d-hatred-passions-and-infidelity-album-anniversary",
+        "kind": "作品解説"
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "Diamond DとJohn Dough、それぞれの声の役割を手がかりに聴く。"
+    ],
+    "context": "1997年のセカンド・アルバム『Hatred, Passions and Infidelity』から。Introに続くFlowin’は、John Doughを迎える歌入りの曲である。Diamond Dのソロ作品に別のMCの声が加わり、アルバムの序盤を形づくる。",
+    "producers": [
+      "Diamond D"
+    ],
+    "connections": [],
+    "sounds": [],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "ラップ表現に着目した本サイトの編集上の選曲。細分ジャンル・気分タグは史実上の分類を意味しない。",
+    "art": {
+      "word": "FLOWIN’ (FEAT. JOHN DOUGH)",
+      "lines": [
+        "FLOWIN’ (FEAT. JOHN DOUGH)"
+      ],
+      "tag": "DIAMOND D",
+      "style": "piece",
+      "seed": 202610170511,
+      "profile": "ny-subway",
+      "palette": [
+        "#d92b23",
+        "#a6412c",
+        "#f0d2bc",
+        "#1c1411"
+      ],
+      "paletteSource": "Hatred, Passions and Infidelity",
+      "paletteSourceUrl": "https://music.apple.com/ca/song/1178189951",
+      "paletteNote": "公式レーベル・アーティスト・正規再発元のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "独自の編集上の文字設定。地域固有の書体とは断定しない。"
+    },
+    "yearBasis": "収録アルバムの原発売年。再発・配信公開年とは区別する。",
+    "addedOrder": 389,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+  },
+  {
+    "id": "ini-grown-man-sport",
+    "title": "Grown Man Sport",
+    "artist": "InI",
+    "year": 2003,
+    "region": "New York",
+    "scene": "New York Hip Hop",
+    "category": "Hip Hop",
+    "moods": [
+      "掘り下げる"
+    ],
+    "album": "Center of Attention",
+    "label": "BBE / Rapster（2003年流通盤）",
+    "producer": "Pete Rock",
+    "members": "",
+    "youtube": {
+      "id": "S-sTcEQHvkY",
+      "url": "https://www.youtube.com/watch?v=S-sTcEQHvkY",
+      "channel": "Pete Rock - Topic",
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "official": true
+    },
+    "deck": "InIの『Center of Attention』に収められた曲で、制作はPete Rock。",
+    "essayTitle": "Grown Man Sport：制作と流通の背景",
+    "essay": [
+      "InIの『Center of Attention』に収められた曲で、制作はPete Rock。公式配信の作詞表記にはGregory Phillips、Rahsaan Rousseau、Robert Odindoの名前が並び、プロデューサーの名前だけでは収まらないMCたちの録音であることが分かる。",
+      "作品の流通史には複数の段階がある。1990年代の制作を経て、2003年にはBBE/Rapster盤が流通した。Vinyl Digitalによる2017年の再発も、新録というより、すでにあった録音を次の聴き手へ届ける機会だった。",
+      "同じアルバムへ戻れば、Pete Rockの制作を軸に異なるMCの声が並ぶ。客演の豪華さだけではなく、グループの声とプロデューサーの役割を分けて追うと、InIという名義の存在感が見えてくる。"
+    ],
+    "facts": [
+      {
+        "title": "Pete Rockの制作",
+        "text": "公式音源はPeter Phillipsをプロデューサーと明記。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "再発と原録音を分ける",
+        "text": "公式Bandcampは2017年再発を案内し、AllMusicは2003年のRapster盤に同曲を掲載する。録音時期と各版の発売年は異なる。",
+        "sources": [
+          0,
+          2,
+          3
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Pete Rock / InI — 公式Bandcamp",
+        "url": "https://pete-rock.bandcamp.com/track/grown-man-sport",
+        "kind": "公式配信"
+      },
+      {
+        "label": "VinDig提供公式音源・制作クレジット",
+        "url": "https://www.youtube.com/watch?v=S-sTcEQHvkY",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — Grown Man Sport",
+        "url": "https://music.apple.com/us/song/1860600184",
+        "kind": "配信クレジット"
+      },
+      {
+        "label": "AllMusic — 2003年Rapster盤",
+        "url": "https://www.allmusic.com/album/release/center-of-attention-mr0002208108",
+        "kind": "盤情報"
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "Pete Rockの制作とMCたちの声を分けて追い、グループ名義の録音として聴く。"
+    ],
+    "context": "InIの『Center of Attention』に収められた曲で、制作はPete Rock。公式配信の作詞表記にはGregory Phillips、Rahsaan Rousseau、Robert Odindoの名前が並び、プロデューサーの名前だけでは収まらないMCたちの録音であることが分かる。",
+    "producers": [
+      "Pete Rock"
+    ],
+    "connections": [],
+    "sounds": [],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "ラップ表現に着目した本サイトの編集上の選曲。細分ジャンル・気分タグは史実上の分類を意味しない。",
+    "art": {
+      "word": "GROWN MAN SPORT",
+      "lines": [
+        "GROWN MAN SPORT"
+      ],
+      "tag": "INI",
+      "style": "piece",
+      "seed": 202610170512,
+      "profile": "ny-subway",
+      "palette": [
+        "#a63d32",
+        "#171717",
+        "#eee9df",
+        "#c57155"
+      ],
+      "paletteSource": "Center of Attention",
+      "paletteSourceUrl": "https://pete-rock.bandcamp.com/track/grown-man-sport",
+      "paletteNote": "公式レーベル・アーティスト・正規再発元のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "独自の編集上の文字設定。地域固有の書体とは断定しない。"
+    },
+    "yearBasis": "2003年のBBE/Rapster流通盤を基準とする。1990年代の制作時期、2017年の再発とは区別する。",
+    "addedOrder": 390,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+  },
+  {
+    "id": "large-professor-hungry",
+    "title": "Hungry",
+    "artist": "Large Professor",
+    "year": 2002,
+    "region": "New York",
+    "scene": "Flushing, Queens",
+    "category": "Hip Hop",
+    "moods": [
+      "掘り下げる"
+    ],
+    "album": "The LP",
+    "label": "HipHopSite.com（2002年プロモ盤） / Paul Sea Productions（2009年正式盤）",
+    "producer": "Large Professor",
+    "members": "",
+    "youtube": {
+      "id": "hXxDCmwqiUQ",
+      "url": "https://www.youtube.com/watch?v=hXxDCmwqiUQ",
+      "channel": "Large Professor - Topic",
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "official": true
+    },
+    "deck": "幻のソロ作に刻まれた、Extra Pの尽きない意欲。",
+    "essayTitle": "Hungry：失われなかった創作意欲",
+    "essay": [
+      "Large Professorの『The LP』から。1990年代に制作されたアルバムは当初予定どおりには発売されず、2002年の限定プロモ盤を経て、2009年に正式リリースへ至った。Hungryは2003年1月の同時代レビューにも収録曲として記録されており、2009年の新録曲ではない。",
+      "自らビートを制作し、ラップも担うLarge Professor。その音づくりについてAllMusicは、Hungryの霞がかったオルガン・ループをアルバムの聴きどころに挙げている。華美な装飾よりもループの表情とMCの言葉の組み合わせへ焦点を置く、彼のソロ表現を辿る入口になる。",
+      "2015年公開のNPRのインタビューでは、Ali Shaheed MuhammadがHungryの冒頭の言葉を取り上げた。Large Professorは機知に富んだ言い回しを、育ったFlushingの会話の感覚に結びつけて説明している。技巧を単なる速さではなく、日常の言葉の選び方から聴くための手がかりだ。",
+      "同じ対談で本人は、当時の成功や富を誇示する流行よりも、満足せず作り続ける姿勢を重視していたと振り返る。曲名を本人の生き方と短絡的に同一視するのではなく、その時代の価値観を背景として置くと、長く発売を待った作品の意味が見えてくる。"
+    ],
+    "facts": [
+      {
+        "title": "制作・流通・正式発売の三段階",
+        "text": "1990年代の録音、2002年の限定プロモ盤、2009年の正式盤という、制作と流通の異なる段階を持つ。",
+        "sources": [
+          0,
+          2,
+          3
+        ]
+      },
+      {
+        "title": "本人が語る言葉の背景",
+        "text": "NPRの対談ではHungry冒頭の表現を話題に、Flushingで育まれた機知ある会話の感覚を本人が語っている。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "P-VINE — The LP 正式発売情報",
+        "url": "https://p-vine.jp/music/pcd-93253",
+        "kind": "公式レーベル"
+      },
+      {
+        "label": "NPR / KUNC — Large Professor本人インタビュー",
+        "url": "https://www.kunc.org/2015-08-20/large-professor-part-2-i-really-live-through-this-music",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "RapReviews — 2003年1月の同時代レビュー",
+        "url": "https://www.rapreviews.com/2003/01/large-professor-the-lp/",
+        "kind": "同時代記録"
+      },
+      {
+        "label": "AllMusic — 2002年プロモ盤と2009年正式盤",
+        "url": "https://www.allmusic.com/album/release/the-lp-mr0001048211",
+        "kind": "盤情報・作品解説"
+      },
+      {
+        "label": "The Orchard提供公式音源",
+        "url": "https://www.youtube.com/watch?v=hXxDCmwqiUQ",
+        "kind": "公式音源"
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "オルガン・ループの反復と声のアクセントの関係を追う。",
+      "冒頭の言い回しから、押韻だけでなく言葉選びの機知に注目する。"
+    ],
+    "context": "Large Professorの『The LP』から。1990年代に制作されたアルバムは当初予定どおりには発売されず、2002年の限定プロモ盤を経て、2009年に正式リリースへ至った。Hungryは2003年1月の同時代レビューにも収録曲として記録されており、2009年の新録曲ではない。",
+    "producers": [
+      "Large Professor"
+    ],
+    "connections": [],
+    "sounds": [],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "mic-skills"
+    ],
+    "curationNote": "ラップ表現に着目した本サイトの編集上の選曲。細分ジャンル・気分タグは史実上の分類を意味しない。",
+    "art": {
+      "word": "HUNGRY",
+      "lines": [
+        "HUNGRY"
+      ],
+      "tag": "LARGE PROFESSOR",
+      "style": "piece",
+      "seed": 202610170520,
+      "profile": "ny-subway",
+      "palette": [
+        "#f0f1ef",
+        "#85a7b4",
+        "#15262b"
+      ],
+      "paletteSource": "The LP（2009年P-VINE正式盤）",
+      "paletteSourceUrl": "https://p-vine.jp/music/pcd-93253",
+      "paletteNote": "公式レーベル・アーティスト・正規再発元のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "独自の編集上の文字設定。地域固有の書体とは断定しない。"
+    },
+    "yearBasis": "2002年限定プロモ盤の流通を基準とする。1990年代の制作時期、2009年の正式盤とは区別する。",
+    "addedOrder": 391,
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
   }
 ]
