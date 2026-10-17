@@ -47320,5 +47320,986 @@
     },
     "addedOrder": 423,
     "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "jurassic-5-without-a-doubt",
+    "title": "Without a Doubt",
+    "artist": "Jurassic 5",
+    "year": 1998,
+    "yearBasis": "1998年は初期アルバムと米国12インチの年。KZSUの同年9月6日週チャートにも「Jayou / Without a Doubt」の掲載があり、少なくともその時点での流通を確認できる。2008年は『J5』デラックス再発の年。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "Jurassic 5 / Jayou single",
+    "label": "Pan / PIAS（初期LP）",
+    "producer": "制作名義未確定",
+    "producers": [],
+    "sources": [
+      {
+        "label": "DJ Nu-Mark公式 — ディスコグラフィー",
+        "url": "https://djnu-mark.com/discography/",
+        "kind": "公式作品一覧"
+      },
+      {
+        "label": "RapReviews — 『J5』デラックス再発評",
+        "url": "https://www.rapreviews.com/2008/11/jurassic-5-j5-deluxe-re-issue/",
+        "kind": "作品評"
+      },
+      {
+        "label": "MusicBrainz — 『J5』デラックス版の曲目",
+        "url": "https://musicbrainz.org/release/5fcb9cce-e000-476b-87d2-fe594a24657d",
+        "kind": "作品データベース"
+      },
+      {
+        "label": "2K Sports — 『College Hoops 2K8』収録曲発表",
+        "url": "https://ir.take2games.com/static-files/318e4692-9a48-4a40-8fd9-603dbcf196c2",
+        "kind": "公式発表"
+      },
+      {
+        "label": "Tucker-Bloom — DJ Nu-Mark本人へのインタビュー",
+        "url": "https://www.tucker-bloom.com/blogs/news/15092973-interview-with-dj-nu-mark",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "KZSU — 1998年9月6日週の放送局チャート",
+        "url": "https://kzsu.stanford.edu/archives/charts/1998/98-09-06.html/",
+        "kind": "同時代の放送記録"
+      },
+      {
+        "label": "SOURCE RECORDS — 米国盤『Jayou / Without a Doubt』",
+        "url": "https://www.sourcerecords.jp/product/9229",
+        "kind": "現物販売資料"
+      },
+      {
+        "label": "Brian Coleman — Jurassic 5の結成と初期活動をめぐる証言",
+        "url": "https://medium.com/cuepoint/check-the-technique-jurassic-5-s-quality-control-f6933702c2dd",
+        "kind": "関係者インタビュー"
+      }
+    ],
+    "deck": "「Jayou」の裏面、大学ラジオ、バスケットボール・ゲームをつなぐJurassic 5の初期曲。",
+    "essayTitle": "B面から広がった、六人の共同体",
+    "essay": [
+      "「Without a Doubt」は、Jurassic 5の初期レパートリーをアルバムと12インチの両側からつなぐ曲だ。1998年の『Jurassic 5』に入る一方、米国の「Jayou」シングルではB面の主役となり、Radio、Bonus Beat、TV Trackの三つの表記で並ぶ。一曲を完成品として聴くだけでなく、ラジオやDJの現場へ渡す形でも届ける。あの時代のシングルは、楽曲の名刺であると同時に、次の使い手に開かれた道具でもあった。",
+      "この盤が実際にどんな場所へ届いていたかは、スタンフォード大学のラジオ局KZSUが残した1998年9月6日週のチャートから見える。「Jayou / Without a Doubt」はヒップホップ部門20位で、同じ欄にはShow & A.G.、Black Eyed Peas、Gang Starrらの12インチが並んでいる。後世の「クラシック」という括りよりも具体的に、当時の新しいレコードが一緒に選ばれていた棚の風景を伝える記録だ。",
+      "Jurassic 5には、レコードを作ることと人に届けることを切り離さない背景があった。Soupは結成前からレーベルで大学向けのプロモーションを経験し、後年の聞き取りではそのつながりをJ5のカレッジ・ラジオ展開にも生かしたと語っている。KZSUの順位を彼個人の働きの結果と断定はできないが、四人のMCと二人のDJという編成の背後に、自分たちの音楽の居場所を自分たちで作る仕事があったことは見逃せない。"
+    ],
+    "facts": [
+      {
+        "title": "12インチと当時の放送記録",
+        "text": "米国Pickininny盤では「Jayou」がA面、「Without a Doubt」がB面。KZSUの1998年9月6日週ヒップホップ・チャートに、この組み合わせの12インチが20位で掲載されている。",
+        "sources": [
+          6,
+          5
+        ]
+      },
+      {
+        "title": "ゲームで再び届いた初期曲",
+        "text": "2K Sportsは2007年11月1日、『College Hoops 2K8』のサウンドトラックにJurassic 5「Without A Doubt」を収録すると発表した。",
+        "sources": [
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "context": "「Jayou」と組まれた12インチとして1998年の大学ラジオに記録され、2007年には『College Hoops 2K8』にも選ばれた。初期の自主流通から別世代のリスナーとの接点まで、Jurassic 5の音楽が移動した道筋を持つ一曲。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "datePublished": "2026-10-17",
+    "noteReviewedAt": "2026-10-17",
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "curationNote": "ユーザー指定曲。音の構成と作品の文脈に基づく編集上の選曲。",
+    "youtube": {
+      "id": "i3wzr8UaePs",
+      "url": "https://www.youtube.com/watch?v=i3wzr8UaePs",
+      "title": "Without A Doubt",
+      "channel": "Jurassic 5 - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "公式配信の曲名・演者・版表記を照合。実音声の聴取、地域別の再生可否、埋め込み再生は未確認。"
+    },
+    "requestList": "requested26",
+    "requestRow": 11,
+    "addedOrder": 424,
+    "art": {
+      "word": "WITHOUT A DOUBT",
+      "lines": [
+        "WITHOUT A DOUBT"
+      ],
+      "tag": "JURASSIC 5",
+      "style": "piece",
+      "seed": 2494027898,
+      "profile": "ny-subway",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。",
+      "palette": [
+        "#242120",
+        "#a37733",
+        "#d8ad55",
+        "#e8d6ae"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/1777704233",
+      "paletteNote": "J5デラックス配信版の表紙。黒い地に黄土色と金の幾何学的なJ5紋章。 目視参照による編集上の近似配色。厳密な色抽出値ではない。"
+    }
+  },
+  {
+    "id": "the-roots-it-s-comin",
+    "title": "It's Comin'",
+    "artist": "The Roots",
+    "year": 1994,
+    "yearBasis": "1994年のEP『From the Ground Up』収録曲。公式配信でも℗1994 Geffen Recordsと記載される。後年の拡張版や1993年のライヴ音源の発売年とは異なる。",
+    "region": "Philadelphia",
+    "scene": "Philadelphia",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "From the Ground Up EP",
+    "label": "Talkin’ Loud / Geffen",
+    "producer": "Ahmir Thompson / Negaz Grand",
+    "producers": [
+      "Ahmir Thompson / Negaz Grand"
+    ],
+    "sources": [
+      {
+        "label": "The Roots / Audiomack — 「It’s Comin’」の公式配信情報",
+        "url": "https://audiomack.com/theroots/song/its-comin",
+        "kind": "公式音源・クレジット"
+      },
+      {
+        "label": "Bugs — 『From the Ground Up』の曲順",
+        "url": "https://music.bugs.co.kr/album/457111",
+        "kind": "正規配信資料"
+      },
+      {
+        "label": "ラ・ロシェル公共図書館 — 1994年CDの所蔵目録",
+        "url": "https://mediatheques.agglo-larochelle.fr/doc/SYRACUSE/87095/from-the-ground-up-the-roots-groupe-voc-et-instr",
+        "kind": "公共図書館目録"
+      },
+      {
+        "label": "Questloveの番組 — Gilles Petersonと初期The Rootsの回想",
+        "url": "https://www.iheart.com/podcast/1119-the-questlove-show-53194211/episode/qls-classic-gilles-peterson-94410069/",
+        "kind": "本人対談・公式文字起こし"
+      },
+      {
+        "label": "Qobuz — 『Do You Want More?!!!??!』拡張版の曲別クレジット",
+        "url": "https://www.qobuz.com/jp-ja/album/do-you-want-more-deluxe-version-explicit-the-roots/l8o5chx3a3qoa",
+        "kind": "正規配信クレジット"
+      }
+    ],
+    "deck": "初期The Rootsの六曲入りEPを開き、フィラデルフィアとロンドンの接点を伝える一曲。",
+    "essayTitle": "フィラデルフィアからロンドンへ、六分半の扉",
+    "essay": [
+      "「It’s Comin’」が一曲目に置かれた1994年の『From the Ground Up』は、The Rootsの初期史を圧縮した六曲入りEPだ。「Distortion to Static」「Mellow My Man」「Datskat」といった、後の『Do You Want More?!!!??!』にもつながる題名が並ぶ。その先頭に約六分半の曲を据えた構成は、短い自己紹介よりも、まず一曲の時間を丸ごと委ねてもらう入口に見える。",
+      "この入口はフィラデルフィアだけに向けて開かれたものではなかった。Gilles Petersonを迎えた自身の番組で、Questloveは初期の『Organix』がロンドンのクラブでかけられたことに驚いたと振り返っている。自分たちの音楽とナイトクラブが結びつくとは思っていなかったという。その出会いから続く関係の中で、『From the Ground Up』はPetersonのレーベルから広く流通するEPになった。",
+      "だから「It’s Comin’」は、のちの大きなバンドを予告するだけの資料ではない。どんな音楽に踊れるのか、誰がその居場所を見つけるのかという、グループ自身の認識が広がっていく時期に属する作品だ。「Worldwide (London Groove)」も収めるEPをひとまとまりでたどると、アメリカのグループを英国のDJと聴衆が受け止めた往復の経路まで見えてくる。"
+    ],
+    "facts": [
+      {
+        "title": "六曲入りEPの一曲目",
+        "text": "『From the Ground Up』の冒頭に収録。EPには「Worldwide (London Groove)」のほか、「Distortion to Static」のRadio Editや「Do You Want More?!!!??!」のBeat Mixが並ぶ。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "スタジオ版の制作陣",
+        "text": "正規配信の曲別表記はAhmir ThompsonとNegaz Grandがプロデュース。QobuzにはA.J. ShineとRichard Nicholsの共同制作、David Ivoryのエンジニア、Bob Powerらのミックスも記載される。",
+        "sources": [
+          0,
+          4
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "context": "『Organix』がGilles Petersonを通じて英国のクラブへ届いた流れと、『Do You Want More?!!!??!』へ向かうレパートリーが交差する1994年のEP曲。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "datePublished": "2026-10-17",
+    "noteReviewedAt": "2026-10-17",
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "ユーザー指定曲。音の構成と作品の文脈に基づく編集上の選曲。",
+    "youtube": {
+      "id": "gbacy3t8Kzg",
+      "url": "https://www.youtube.com/watch?v=gbacy3t8Kzg",
+      "title": "It's Comin'",
+      "channel": "The Roots - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "公式配信の曲名・演者・版表記を照合。実音声の聴取、地域別の再生可否、埋め込み再生は未確認。"
+    },
+    "requestList": "requested26",
+    "requestRow": 12,
+    "addedOrder": 425,
+    "art": {
+      "word": "IT'S COMIN'",
+      "lines": [
+        "IT'S COMIN'"
+      ],
+      "tag": "THE ROOTS",
+      "style": "piece",
+      "seed": 1153564839,
+      "profile": "ny-subway",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。",
+      "palette": [
+        "#df3022",
+        "#b8c1b7",
+        "#171816",
+        "#e8dace"
+      ],
+      "paletteSource": "https://music.bugs.co.kr/album/457111",
+      "paletteNote": "From the Ground Upの表紙。赤と灰緑色の地、黒白の人物写真、細長い橙色の文字。 目視参照による編集上の近似配色。厳密な色抽出値ではない。"
+    }
+  },
+  {
+    "id": "kmd-stop-smokin-that-shit-vocal",
+    "title": "Stop Smokin' That Shit (Vocal)",
+    "artist": "KMD",
+    "year": 1999,
+    "yearBasis": "1999年はFondle ’EmのSubroc／KMDカップリング盤が同時代評に登場する年。『Black Bastards』の制作時期や1994年の発売予定、2000年のアルバム発売とは区別される。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "It Sounded Like a Roc / Stop Smokin' That Shit",
+    "label": "Fondle ’Em",
+    "producer": "制作名義未確定",
+    "producers": [],
+    "sources": [
+      {
+        "label": "KMD / Metalface — 『Black Bastards』デラックス版",
+        "url": "https://k-m-d.bandcamp.com/album/black-bastards-deluxe-edition",
+        "kind": "公式音源・作品解説"
+      },
+      {
+        "label": "MusicBrainz — KMDの作品一覧",
+        "url": "https://musicbrainz.org/artist/543edda0-d61e-4698-97fa-1f34a1322d20",
+        "kind": "作品データベース"
+      },
+      {
+        "label": "Oliver Wang — 1999年12月のシングル評",
+        "url": "https://oliverwang.net/groove/groove12-99.html",
+        "kind": "同時代のレコード評"
+      },
+      {
+        "label": "Brian Coleman — 『Black Bastards』をめぐる関係者証言",
+        "url": "https://medium.com/cuepoint/check-the-technique-kmds-black-bastards-and-the-birth-of-mf-doom-1849f4c0a6f4",
+        "kind": "関係者インタビュー"
+      },
+      {
+        "label": "Stones Throw — MF DOOM取材記事「Imminent Doom」",
+        "url": "https://www.stonesthrow.com/news/imminent-doom/",
+        "kind": "本人取材記事"
+      }
+    ],
+    "deck": "1999年のFondle ’Em盤と、KMDを支えたラジオ／仲間のつながりからたどるVocal版。",
+    "essayTitle": "しまわれたアルバムから、街へ戻った一曲",
+    "essay": [
+      "1999年12月、Oliver WangはFondle ’Emの12インチを、Subroc「Sounded Like a Roc」とKMD「Stop Smokin’ That Shit」のカップリングとして評している。B面を初めて聴いたと記したその反応には、後世の名盤紹介にはない時間差がある。録音が出来上がったときと、リスナーが新しい曲として受け取るときは同じではない。このシングルは、その隔たりを埋めた一枚だった。",
+      "KMDの二作目『Black Bastards』は1994年に予定されながら発売されず、Subrocを失ったZev Love Xが、その音楽を後へ運ぶことになった。現在の公式デラックス版は本編だけでなく、ラフ音源や別ヴァージョン、インストも併せて残している。「Stop Smokin’ That Shit (Vocal)」はそこに4分46秒で置かれ、本編の「Smokin’ That S*@%!」とは別の曲目を持つ。完成したアルバムだけを遡っても見えない、シングルとしての来歴が残る場所だ。",
+      "この曲の周囲には、KMDの外にもつながる人の輪がある。Brian Colemanの聞き取りでは、Bobbito Garciaが「Smokin’ That Shit」を自分たちのラジオ番組でかけた理由として、参加していたKuriousとLord Searとの交友を挙げている。曲はまず顔の見える関係の中を動き、その後、同じBobbitoのFondle ’EmからKMDの録音が届く。MF DOOMの前史というだけでなく、仲間が録音を聴かれ続けるものにした物語でもある。"
+    ],
+    "facts": [
+      {
+        "title": "1999年のカップリング盤",
+        "text": "Oliver Wangの1999年12月のレコード評は、Fondle ’Em盤をSubroc「Sounded Like a Roc」／KMD「Stop Smokin’ That Shit」の組み合わせとして紹介している。",
+        "sources": [
+          2
+        ]
+      },
+      {
+        "title": "デラックス版に残る三つの曲目",
+        "text": "公式デラックス版には「Smokin’ That S*@%!」4分40秒、「Stop Smokin’ That Shit (Vocal)」4分46秒、「Stop Smokin’ That Shit (Instrumental)」4分37秒が別々に収録されている。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "context": "発売が見送られた『Black Bastards』周辺の録音が、Fondle ’Emの12インチを通して再び届いた例。Kurious、Lord Sear、Bobbito Garciaのつながりも、この曲とMF DOOMの再出発を結ぶ。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "datePublished": "2026-10-17",
+    "noteReviewedAt": "2026-10-17",
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "ユーザー指定曲。音の構成と作品の文脈に基づく編集上の選曲。",
+    "youtube": {
+      "id": "PIydavbQleY",
+      "url": "https://www.youtube.com/watch?v=PIydavbQleY",
+      "title": "Stop Smokin' That Shit (Vocal)",
+      "channel": "KMD - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "公式配信の曲名・演者・版表記を照合。実音声の聴取、地域別の再生可否、埋め込み再生は未確認。"
+    },
+    "requestList": "requested26",
+    "requestRow": 13,
+    "addedOrder": 426,
+    "art": {
+      "word": "STOP SMOKIN' THAT SHIT (VOCAL)",
+      "lines": [
+        "STOP SMOKIN' THAT SHIT (VOCAL)"
+      ],
+      "tag": "KMD",
+      "style": "piece",
+      "seed": 3993843839,
+      "profile": "ny-subway",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。",
+      "palette": [
+        "#f3f5df",
+        "#d72620",
+        "#181914",
+        "#a2a18d"
+      ],
+      "paletteSource": "https://k-m-d.bandcamp.com/album/black-bastards-deluxe-edition",
+      "paletteNote": "Black Bastardsデラックス盤の表紙。淡いクリーム色の地、黒い風刺画と赤いKMD文字。指定Vocal版を収める後発盤の表紙。 目視参照による編集上の近似配色。厳密な色抽出値ではない。"
+    }
+  },
+  {
+    "id": "people-under-the-stairs-the-next-step-ii",
+    "title": "The Next Step II",
+    "artist": "People Under the Stairs",
+    "year": 1998,
+    "yearBasis": "12インチ販売資料は1998年と記載し、公式略歴も最初のフルアルバムを1998年とする。Omの現行配信欄は1999年3月23日で、初期盤とは発売年の表記が異なる。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "The Next Step II / The Next Step",
+    "label": "レーベル未確認",
+    "producer": "制作名義未確定",
+    "producers": [],
+    "sources": [
+      {
+        "label": "People Under the Stairs / Om — 「The Next Step II」",
+        "url": "https://peopleunderthestairs.bandcamp.com/track/the-next-step-ii-2",
+        "kind": "公式音源・作品情報"
+      },
+      {
+        "label": "CRIB RECORDS — 『The Next Step II』12インチの曲目",
+        "url": "https://www.cribrecords.jp/product/2084",
+        "kind": "現物販売資料"
+      },
+      {
+        "label": "Westword — 2000年のThes One／Double K取材",
+        "url": "https://www.westword.com/music/up-with-people-5062691/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "The Point of the Rhyme — Thes Oneのオレゴン大学講演",
+        "url": "https://www.putsonline.co.uk/thepointoftherhyme/UOlecture.htm",
+        "kind": "本人講演の記録"
+      },
+      {
+        "label": "The Point of the Rhyme — 2011年オークランド公演後の二人への取材",
+        "url": "https://www.putsonline.co.uk/thepointoftherhyme/oaklandinterview.htm",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "deck": "レコード店で出会った二人の音楽観を、ヴォーカルとGangstramentalを収めた初期12インチからたどる。",
+    "essayTitle": "ラッパーになる前に、二人は音楽を作っていた",
+    "essay": [
+      "People Under the Stairsの出発点は、大きなクルーを結成する計画ではなく、レコード店で出会った二人のビート制作者だった。Thes Oneは2011年の大学講演で、互いの学校に「向こうにはもっと良いビートを作るやつがいる」と噂されていたDouble Kと顔を合わせ、持っていたカセットを聴かせ合ったと振り返る。競争相手のはずだった相手と、好きな音楽が重なることを発見したのだ。",
+      "「The Next Step II」は、その二人の初期曲であり、同名12インチの表題曲でもある。盤にはヴォーカル曲とGangstramentalが並び、「4 Everybody」や「Time To Rock Our Shit」も同居する。後にアルバム『The Next Step』で一続きになる世界が、ここではDJが面を返し、曲やインストを選ぶ一枚にまとまっている。アルバムの略称ではなく、二人の出発を担った固有の曲名だ。",
+      "Thes Oneは同じ講演で、二人がまず気にしていたのは、自分のラップを目立たせることより音楽そのものだったと語っている。自分たちのビートを自分たちで完成させるために、ラップも引き受ける。その順序を知ると、MCとプロデューサーをきれいに分けないPeople Under the Stairsの姿が見えてくる。この曲は、声もビートも同じ生活の中で育つ、二人だけの制作体制への入口になる。"
+    ],
+    "facts": [
+      {
+        "title": "表題曲とGangstramental",
+        "text": "同名12インチのA面は「The Next Step II」、同曲のGangstramental、「4 Everybody」。B面にも「Time To Rock Our Shit」とそのGangstramentalが収録される。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "音楽が先にあった二人組",
+        "text": "Thes Oneは2011年の講演で、Double Kとレコード店で出会い、互いのビート・テープを聴いたこと、二人ともラップだけでなく楽曲全体を作ることを重視していたと回想している。",
+        "sources": [
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "context": "Double KとThes Oneがラップ、ビート制作、DJの役割を持ち寄った初期作品。自分たちで音楽を作り、音源とジャケットを届けるという独立した制作姿勢が、後のOm Recordsとの関係にも続いていく。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "datePublished": "2026-10-17",
+    "noteReviewedAt": "2026-10-17",
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "curationNote": "ユーザー指定曲。音の構成と作品の文脈に基づく編集上の選曲。",
+    "youtube": {
+      "id": "p4IUayilTf4",
+      "url": "https://www.youtube.com/watch?v=p4IUayilTf4",
+      "title": "The Next Step II",
+      "channel": "PEOPLE UNDER THE STAIRS - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "公式配信の曲名・演者・版表記を照合。実音声の聴取、地域別の再生可否、埋め込み再生は未確認。"
+    },
+    "requestList": "requested26",
+    "requestRow": 14,
+    "addedOrder": 427,
+    "art": {
+      "word": "THE NEXT STEP II",
+      "lines": [
+        "THE NEXT STEP II"
+      ],
+      "tag": "PEOPLE UNDER THE STAIRS",
+      "style": "piece",
+      "seed": 3668352323,
+      "profile": "ny-subway",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。",
+      "palette": [
+        "#ead6b2",
+        "#a65143",
+        "#261b17",
+        "#be8065"
+      ],
+      "paletteSource": "https://peopleunderthestairs.bandcamp.com/track/the-next-step-ii-2",
+      "paletteNote": "The Next Stepの表紙。クリーム色の上部、赤褐色の人物写真、黒い見出し文字。 目視参照による編集上の近似配色。厳密な色抽出値ではない。"
+    }
+  },
+  {
+    "id": "lone-catalysts-lone-catalysts-instrumental",
+    "title": "Lone Catalysts (Instrumental)",
+    "artist": "Lone Catalysts",
+    "year": 1999,
+    "yearBasis": "1999年はB.U.K.A.の12インチ『Due Process / Let It Soak』（BDS-823）の掲載年。現行『Hip Hop (Instrumentals)』は2001年3月7日の作品日付と2025年の権利表記を持つ。両者のマスターが同一かどうかは確定していない。",
+    "region": "Ohio / Pennsylvania",
+    "scene": "Ohio / Pennsylvania",
+    "category": "Hip Hop",
+    "moods": [
+      "ビート"
+    ],
+    "album": "Due Process / Let It Soak / B.U.K.A. BDS-823",
+    "label": "B.U.K.A. Entertainment",
+    "producer": "制作名義未確定",
+    "producers": [],
+    "sources": [
+      {
+        "label": "Eclectico Records — 1999年12インチの収録表",
+        "url": "https://eclecticorecords.com.au/products/lone-catalysts-due-process-let-it-soak-12-very-good-plus-vg",
+        "kind": "レコード店資料"
+      },
+      {
+        "label": "Apple Music — インストゥルメンタル版の公式配信",
+        "url": "https://music.apple.com/jp/song/1822208715",
+        "kind": "公式配信"
+      },
+      {
+        "label": "B.U.K.A. — ヴォーカル版「Lone Catalysts」",
+        "url": "https://lonecatalysts.bandcamp.com/track/lone-catalysts-2",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Todd E. Jones — J. Rawls本人へのインタビュー（2003年）",
+        "url": "https://www.oocities.org/hiphopinterview/jrawls.html",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "World of Beats — J. Rawlsの制作とB.U.K.A.（2000年、転載）",
+        "url": "https://www.hugi.is/hiphop/greinar/28556/lone-catalysts-j-rawls-vidtal/",
+        "kind": "本人インタビュー・転載"
+      },
+      {
+        "label": "Apple Music — 『Hip Hop (Instrumentals)』収録曲と権利表記",
+        "url": "https://music.apple.com/us/album/hip-hop-instrumentals/1822208503",
+        "kind": "公式配信"
+      }
+    ],
+    "deck": "Lone Catalystsのセルフタイトル曲をインストゥルメンタルで聴く指定。",
+    "essayTitle": "グループの名前を、ビートだけで名乗る",
+    "essay": [
+      "グループ名をそのまま曲名にした「Lone Catalysts」を、ラップを外した版から捉え直す。J. Rawlsは2003年のインタビューで、Lone Catalystsでは自分がビートを、J. Sandsがライムを担うと説明している。ただし、その基本的な分業と、このインスト版の個別制作クレジットは別の話だ。ここで確かめたいのは、MCと制作者の二人組が、ラップを外した状態でも自分たちの名前を掲げているという作品のあり方である。",
+      "1999年のB.U.K.A.盤『Due Process / Let It Soak』の収録表には、B面に「Lone Catalysts (Instrumental)」が並ぶ。一方、現在の公式配信では『Hip Hop (Instrumentals)』の14曲目として4分27秒の版に辿り着く。配信の2001年という作品日付や2025年の権利表記は、12インチの発表時期とは区別したい。タイトルと長さが重なっても、それだけで両者を同一マスターと決めることはできない。",
+      "歌入りの「Lone Catalysts」は、公式Bandcampではアルバム『Hip Hop』の一曲として残されている。インストを単なる欠落版と見るのではなく、同じ曲名の下で注目する対象が変わる、と考えると面白い。言葉を追う代わりに反復や区切りへ耳を向け、その後でヴォーカル版へ戻る。グループの輪郭を、ラップの有無という両側から探るための一曲だ。"
+    ],
+    "facts": [
+      {
+        "title": "12インチと現在の配信",
+        "text": "1999年盤BDS-823にはB3として4分27秒の「Lone Catalysts (Instrumental)」を収録。現行『Hip Hop (Instrumentals)』の14曲目も4分27秒だが、タイトルと時間の一致だけでは同一マスターと断定できない。",
+        "sources": [
+          0,
+          1,
+          5
+        ]
+      },
+      {
+        "title": "個別クレジットとグループ内の役割",
+        "text": "J. Rawlsは本人インタビューで、Lone Catalystsでは自分がビート、J. Sandsがライムを担うと説明している。本インスト版の個別プロデューサー表記については、確認できる一次資料がない。",
+        "sources": [
+          3,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "context": "J. RawlsとJ. SandsによるLone Catalystsのセルフタイトル曲のインスト版。1999年のB.U.K.A.盤に同名・同時間の収録があり、現在は『Hip Hop (Instrumentals)』でも聴ける。グループの分業や自主レーベルの成り立ちを、ラップのない入口から辿る一曲。",
+    "connections": [],
+    "sounds": [
+      "インストゥルメンタル"
+    ],
+    "datePublished": "2026-10-17",
+    "noteReviewedAt": "2026-10-17",
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "collections": [
+      "midwest"
+    ],
+    "editorialCrates": [],
+    "curationNote": "ユーザー指定曲。音の構成と作品の文脈に基づく編集上の選曲。",
+    "youtube": {
+      "id": "H6qLMlFfxxM",
+      "url": "https://www.youtube.com/watch?v=H6qLMlFfxxM",
+      "title": "Lone Catalysts (Instrumental)",
+      "channel": "Lone Catalysts - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "公式配信の曲名・演者・版表記を照合。実音声の聴取、地域別の再生可否、埋め込み再生は未確認。"
+    },
+    "requestList": "requested26",
+    "requestRow": 17,
+    "addedOrder": 428,
+    "art": {
+      "word": "LONE CATALYSTS (INSTRUMENTAL)",
+      "lines": [
+        "LONE CATALYSTS (INSTRUMENTAL)"
+      ],
+      "tag": "LONE CATALYSTS",
+      "style": "piece",
+      "seed": 2548026308,
+      "profile": "ny-subway",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。",
+      "palette": [
+        "#151515",
+        "#565656",
+        "#a4a4a4",
+        "#eeeae0"
+      ],
+      "paletteSource": "https://music.apple.com/jp/song/1822208715",
+      "paletteNote": "Hip Hop (Instrumentals)現行配信の表紙。灰色の舞台写真と黒白の手描き風文字。初出12インチの表紙とは区別。 目視参照による編集上の近似配色。厳密な色抽出値ではない。"
+    }
+  },
+  {
+    "id": "jurassic-5-unified-rebelution",
+    "title": "Unified Rebelution",
+    "artist": "Jurassic 5",
+    "year": 1995,
+    "yearBasis": "1995年のBlunt／TVT盤を基準とする。Cut Chemistの公式資料とメンバーへの取材には、それ以前の自主プレスも登場するため、1995年を曲の制作年や初公開年とは断定しない。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "Unified Rebelution / Blunt TVT5811",
+    "label": "Blunt / TVT（1995年流通盤）",
+    "producer": "Cut Chemist",
+    "producers": [
+      "Cut Chemist"
+    ],
+    "sources": [
+      {
+        "label": "Cut Chemist — Blunt盤以前の水色ラベル12インチ",
+        "url": "https://cutchemist.bandcamp.com/merch/unified-rebelution-12-sealed",
+        "kind": "本人の公式資料"
+      },
+      {
+        "label": "DJ Nu-Mark — 公式ディスコグラフィー",
+        "url": "https://djnu-mark.com/discography/",
+        "kind": "公式作品一覧"
+      },
+      {
+        "label": "Source Records — 1995年Blunt盤の収録仕様",
+        "url": "https://www.sourcerecords.jp/product/9332",
+        "kind": "レコード店資料"
+      },
+      {
+        "label": "Brian Coleman — J5メンバーが語る「Unified Rebelution」制作史",
+        "url": "https://medium.com/cuepoint/check-the-technique-jurassic-5-s-quality-control-f6933702c2dd",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Hip Hop Core — Cut Chemist・Marc 7・Soupへの取材（2003年）",
+        "url": "https://www.hiphopcore.net/interviews/jurassic-5-2003-03/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "The Come Up Show — Chali 2naが語るGood LifeとRat Race",
+        "url": "https://www.thecomeupshow.com/2013/10/01/interview-chali-2na-talks-against-the-current-memories-from-the-good-life-and-his-best-advice/",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "deck": "Jurassic 5の結成初期をたどる重要なシングル「Unified Rebelution」。",
+    "essayTitle": "一曲を一緒に演じることから、グループは生まれた",
+    "essay": [
+      "「Unified Rebelution」は、完成したJurassic 5が最初の挨拶として作った曲、とだけ説明すると肝心なところを取り落とす。先にあったのはUnity CommitteeとRebels of Rhythmという二つの集団であり、一緒に曲を作り、ステージに立つ関係だった。Cut Chemistは2003年の取材で、家で仲間とカセットを録り、やがて4トラックのデモを作るようになった過程を振り返っている。グループの誕生は、その日常の延長にあった。",
+      "ここでの1995年はBlunt／TVT盤を指す。ただしCut Chemist本人の販売ページには、Blunt盤より前の水色ラベルの自主盤が示されている。そこには表題曲だけでなく「Lesson 4」、Nu-Markのボーナス・ビーツ、アカペラも収録されていた。MCの共同曲と二人のDJの仕事を一枚に収める構成は、後のJ5の編成を、名前や人数以上に具体的に伝えてくれる。",
+      "Bluntからの発売は、そのまま成功への一本道にはならなかった。Soupはレーベルから一時的な珍しさで見られていたと述べ、Cut Chemistは後に自分たちでRumbleを立ち上げた経緯を語っている。したがってこの曲は、レーベルに発見された瞬間だけの記録ではない。仲間同士の合作を自分たちのレコードにし、流通に乗せ、その後も主体性を取り戻していく歩みの始点として重要なのだ。"
+    ],
+    "facts": [
+      {
+        "title": "自主盤からBlunt盤へ",
+        "text": "Cut ChemistはBlunt盤以前の水色ラベルの12インチを公式に紹介している。1995年のBlunt／TVT盤は、その後のJurassic 5名義による流通盤にあたる。",
+        "sources": [
+          0,
+          3
+        ]
+      },
+      {
+        "title": "制作のきっかけ",
+        "text": "Cut ChemistはDe La Soul「Area」のサンプルの組み合わせから刺激を受け、この曲のビートを作ったと証言する。これは着想についての説明であり、「Area」の直接的なサンプリングを確認する証言ではない。",
+        "sources": [
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "context": "Unity CommitteeとRebels of Rhythmが共同で演じた曲から、Jurassic 5というグループへ。Cut ChemistがDe La Soul「Area」から受けた制作上の刺激、Good Lifeでの初披露、自主盤からBlunt盤への移行が重なる、結成初期の重要作。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "datePublished": "2026-10-17",
+    "noteReviewedAt": "2026-10-17",
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "curationNote": "ユーザー指定曲。音の構成と作品の文脈に基づく編集上の選曲。",
+    "youtube": {
+      "id": "uFQCHSENNlA",
+      "url": "https://www.youtube.com/watch?v=uFQCHSENNlA",
+      "title": "Unified Rebelution",
+      "channel": "Jurassic 5 - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "公式配信の曲名・演者・版表記を照合。実音声の聴取、地域別の再生可否、埋め込み再生は未確認。"
+    },
+    "requestList": "requested26",
+    "requestRow": 18,
+    "addedOrder": 429,
+    "art": {
+      "word": "UNIFIED REBELUTION",
+      "lines": [
+        "UNIFIED REBELUTION"
+      ],
+      "tag": "JURASSIC 5",
+      "style": "piece",
+      "seed": 4065140946,
+      "profile": "ny-subway",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。",
+      "palette": [
+        "#a9b6ae",
+        "#202820",
+        "#e9dfb1",
+        "#a89668"
+      ],
+      "paletteSource": "https://cutchemist.bandcamp.com/merch/unified-rebelution-12-sealed",
+      "paletteNote": "Cut Chemist本人の販売ページにある初期12インチのラベル。淡い青緑色に黒い大文字、盤の穴とクリーム色の周囲。 目視参照による編集上の近似配色。厳密な色抽出値ではない。"
+    }
+  },
+  {
+    "id": "ugly-duckling-everybody-c-mon",
+    "title": "Everybody C'mon",
+    "artist": "Ugly Duckling",
+    "year": 1999,
+    "yearBasis": "Ugly Ducklingの公式Bandcampが『Fresh Mode』の発売日を1999年4月20日と記載している。",
+    "region": "Long Beach",
+    "scene": "Long Beach",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "Fresh Mode / 1500 Records",
+    "label": "1500 Records",
+    "producer": "制作名義未確定",
+    "producers": [],
+    "sources": [
+      {
+        "label": "Ugly Duckling — 「Everybody C’mon」公式音源",
+        "url": "https://uglyduckling.bandcamp.com/track/everybody-cmon",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Ugly Duckling — 『Fresh Mode』曲順・発売日",
+        "url": "https://uglyduckling.bandcamp.com/album/fresh-mode",
+        "kind": "公式作品資料"
+      },
+      {
+        "label": "Wikipedia — 『Fresh Mode』の補助的な作品情報",
+        "url": "https://en.wikipedia.org/wiki/Fresh_Mode",
+        "kind": "作品データベース"
+      },
+      {
+        "label": "OC Weekly — デビュー当時のUgly Ducklingへの取材（1999年）",
+        "url": "https://www.ocweekly.com/fresher-mode-6395450/",
+        "kind": "本人インタビュー・現地取材"
+      },
+      {
+        "label": "rap.de — Young EinsteinとDizzy Dustinの制作談",
+        "url": "https://rap.de/c37-interview/5716-ugly-duckling-2/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Ugly Duckling — 初期デモ集『Down the Road』",
+        "url": "https://uglyduckling.bandcamp.com/album/down-the-road",
+        "kind": "公式作品資料"
+      }
+    ],
+    "deck": "ロングビーチのUgly Ducklingが1999年に発表したEP『Fresh Mode』の収録曲。",
+    "essayTitle": "ロングビーチの三人が作った、自分たちの居場所",
+    "essay": [
+      "「Everybody C’mon」は、Ugly DucklingのデビューEP『Fresh Mode』に収められた一曲。公式配信が示す発表日は1999年4月20日で、8曲中の5曲目に置かれている。直前はDJの名前を掲げた「Einstein’s Takin’ Off」、直後は「Do You Know What I’m Sayin’」。一曲の名前だけでなく、この並びを見ることでも、MCとDJを別々の付属物にしないグループの考え方へ入っていける。",
+      "1993年に結成された三人組は、MCのAndy Cooper、Dizzy Dustin、DJのYoung Einsteinからなる。1999年のOC Weeklyの取材でDustinは、ロングビーチで広く知られていたギャングスタ・ラップの流れに自分たちは属していなかったと説明し、それが「みにくいアヒルの子」という名前にもつながったと話す。地元を離れて別の土地を演じるのではなく、同じ街にいる自分たちの違いを、グループ名に引き受けていた。",
+      "一方で「クラシックなヒップホップ」という美学を、余裕のある懐古趣味だと思うのも違う。Young Einsteinは後年のrap.deの取材で、『Fresh Mode』の録音は予算が乏しく、4日間で進めたと振り返っている。ここにあるのは、昔の様式への愛着と、限られた条件で曲をまとめる現実の仕事だ。「Everybody C’mon」を入口にEP全体へ進むと、短い作品に自分たちの役割を集めて届けようとした初期の姿が見えてくる。"
+    ],
+    "facts": [
+      {
+        "title": "EP内の位置",
+        "text": "1999年の『Fresh Mode』の5曲目。公式配信の長さは3分19秒で、「Einstein’s Takin’ Off」と「Do You Know What I’m Sayin’」の間に置かれている。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "限られた時間での録音",
+        "text": "Young Einsteinはrap.deの取材で、『Fresh Mode』の録音を、乏しい予算の中で4日間で行ったと振り返っている。",
+        "sources": [
+          4
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "context": "1993年にロングビーチで結成されたUgly DucklingのデビューEP『Fresh Mode』収録曲。二人のMCとYoung EinsteinのDJ／レコード収集が支えるグループ像を、初期デモ、短期間での録音、小さなライヴ会場まで広げて辿れる。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "datePublished": "2026-10-17",
+    "noteReviewedAt": "2026-10-17",
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "curationNote": "ユーザー指定曲。音の構成と作品の文脈に基づく編集上の選曲。",
+    "youtube": {
+      "id": "PdUmClCCRnQ",
+      "url": "https://www.youtube.com/watch?v=PdUmClCCRnQ",
+      "title": "Everybody C'mon",
+      "channel": "Ugly Duckling - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "公式配信の曲名・演者・版表記を照合。実音声の聴取、地域別の再生可否、埋め込み再生は未確認。"
+    },
+    "requestList": "requested26",
+    "requestRow": 20,
+    "addedOrder": 430,
+    "art": {
+      "word": "EVERYBODY C'MON",
+      "lines": [
+        "EVERYBODY C'MON"
+      ],
+      "tag": "UGLY DUCKLING",
+      "style": "piece",
+      "seed": 2202177066,
+      "profile": "ny-subway",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。",
+      "palette": [
+        "#eee9b5",
+        "#c82625",
+        "#32829d",
+        "#d6bd2b"
+      ],
+      "paletteSource": "https://uglyduckling.bandcamp.com/album/fresh-mode",
+      "paletteNote": "Fresh Modeの表紙。クリーム色の地に赤・青・黄色の服を着た漫画の人物たち。 目視参照による編集上の近似配色。厳密な色抽出値ではない。"
+    }
+  },
+  {
+    "id": "lootpack-the-anthem",
+    "title": "The Anthem",
+    "artist": "Lootpack",
+    "year": 1998,
+    "yearBasis": "Stones Throw掲載の2004年回顧記事は『The Anthem EP』を1998年、続く『Soundpieces: Da Antidote!』を翌年と位置づけている。",
+    "region": "Oxnard",
+    "scene": "Oxnard",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "The Anthem EP / Soundpieces: Da Antidote!",
+    "label": "Stones Throw",
+    "producer": "Madlib",
+    "producers": [
+      "Madlib"
+    ],
+    "sources": [
+      {
+        "label": "Stones Throw — 『The Anthem』公式解説・収録曲",
+        "url": "https://www.stonesthrow.com/store/the-anthem/",
+        "kind": "レーベル公式資料"
+      },
+      {
+        "label": "Stones Throw／Wax Poetics — MadlibとDOOMの活動史（2004年）",
+        "url": "https://www.stonesthrow.com/news/blunted-on-beats/",
+        "kind": "レーベル掲載記事"
+      },
+      {
+        "label": "Apple Music — 『The Anthem EP』公式配信",
+        "url": "https://music.apple.com/us/album/the-anthem-ep/1824319653",
+        "kind": "公式配信"
+      },
+      {
+        "label": "MusicBrainz — 『The Anthem』リリース情報",
+        "url": "https://musicbrainz.org/release/33420fae-4cf2-3aa2-b34f-708c4584a192",
+        "kind": "作品データベース"
+      },
+      {
+        "label": "Stones Throw — Lootpack公式バイオグラフィー",
+        "url": "https://www.stonesthrow.com/lootpack",
+        "kind": "レーベル公式資料"
+      },
+      {
+        "label": "Stones Throw／Elemental — Madlib本人の初期活動回想（2003年）",
+        "url": "https://www.stonesthrow.com/news/madlib-elemental-2003/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Stones Throw／Elemental — Wildchildが語る制作の自由（2003年）",
+        "url": "https://www.stonesthrow.com/news/wildchild-in-elemental-magazine/",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "deck": "LootpackがStones Throwから発表した初期シングル。",
+    "essayTitle": "自主盤の次へ進んだ、Lootpackの共同宣言",
+    "essay": [
+      "「The Anthem」は、Madlib、Wildchild、DJ RomesからなるLootpackがStones Throwで発表した最初のシングルだ。レーベルの作品紹介は、自主プレスの『Psyche Move』に続く一枚と位置づけている。回顧記事が示す順番は、1998年の本EP、そして翌1999年の『Soundpieces: Da Antidote!』。後年のMadlibの名声から逆算するより、まず三人組が自分たちの作品を広く送り出した局面として置きたい。",
+      "品番STH2013の内容は、表題曲、「Lost Art」、Tha AlkaholiksとDefariを迎えた「Likwit Fusion」、そして各曲のインストという組み合わせである。複数のラップ曲を紹介すると同時に、その音の土台だけを取り出せる構成になっている。12インチはアルバムの予告だけではない。グループの曲、仲間との接続、ビートを別々の入口として差し出す、独立した小さな作品集でもある。",
+      "同じStones Throwの案内によれば、「Lost Art」は後に『Loopdigga EP』へ再収録された。こうした枝道まで辿ると、「The Anthem」の周囲には、アルバム本編だけでは見えない制作の広がりがある。表題曲を単独の代表作として覚えるのもいいが、最初のシングルの全体を見渡すことで、Lootpackが何を自分たちの看板とし、誰と並んで登場しようとしたのかをより具体的に考えられる。"
+    ],
+    "facts": [
+      {
+        "title": "Stones Throwでの最初のシングル",
+        "text": "レーベルは品番STH2013の『The Anthem』を、LootpackのStones Throw第1弾であり、自主盤『Psyche Move』に続く作品と説明している。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "三曲とそれぞれのインスト",
+        "text": "表題曲、「Lost Art」、「Likwit Fusion feat. Tha Alkaholiks & Defari」のヴォーカル版とインスト版を収録。「Lost Art」は後に『Loopdigga EP』にも再収録された。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "context": "LootpackのStones Throw第1弾シングル。自主盤『Psyche Move』から1999年のアルバム『Soundpieces: Da Antidote!』へつながる一枚で、「Lost Art」「Likwit Fusion」と各インストも収録する。制作の自由を保つ契約と、Likwit周辺の交流が背景にある。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "datePublished": "2026-10-17",
+    "noteReviewedAt": "2026-10-17",
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "curationNote": "ユーザー指定曲。音の構成と作品の文脈に基づく編集上の選曲。",
+    "youtube": {
+      "id": "_w3IsyiYIHo",
+      "url": "https://www.youtube.com/watch?v=_w3IsyiYIHo",
+      "title": "The Anthem",
+      "channel": "Lootpack - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "公式配信の曲名・演者・版表記を照合。実音声の聴取、地域別の再生可否、埋め込み再生は未確認。"
+    },
+    "requestList": "requested26",
+    "requestRow": 22,
+    "addedOrder": 431,
+    "art": {
+      "word": "THE ANTHEM",
+      "lines": [
+        "THE ANTHEM"
+      ],
+      "tag": "LOOTPACK",
+      "style": "piece",
+      "seed": 208959142,
+      "profile": "ny-subway",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。",
+      "palette": [
+        "#f4f3ef",
+        "#171d20",
+        "#737f83",
+        "#c76369"
+      ],
+      "paletteSource": "https://www.stonesthrow.com/store/the-anthem/",
+      "paletteNote": "The Anthem EPの表紙。白地、黒白の顔写真、細い黒文字と淡い赤の小さな記号。 目視参照による編集上の近似配色。厳密な色抽出値ではない。"
+    }
   }
 ]
