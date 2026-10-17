@@ -5772,6 +5772,126 @@
       "paletteSource": "サイト共通色",
       "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
       "status": "pending"
+    },
+    {
+      "id": "akinyele-three",
+      "title": "Three",
+      "artist": "Akinyele",
+      "album": "Aktapuss - The Soundtrack",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "d-d-all-stars-1-2-pass-it",
+      "title": "1, 2 Pass It",
+      "artist": "D&D All-Stars",
+      "album": "The D&D Project",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "jeru-me-or-the-papes",
+      "title": "Me or the Papes",
+      "artist": "Jeru the Damaja",
+      "album": "Wrath of the Math",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "pete-rock-cl-smooth-its-on-you",
+      "title": "It's on You",
+      "artist": "Pete Rock & C.L. Smooth",
+      "album": "The Main Ingredient",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "oc-sharp-as-a-knife",
+      "title": "Sharp as a Knife",
+      "artist": "O.C.",
+      "album": "O-Zone Originals Part 2 EP",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "q-ball-curt-cazal-my-kinda-moves",
+      "title": "My Kinda Moves",
+      "artist": "Q Ball & Curt Cazal",
+      "album": "My Kinda Moves (12-inch single)",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "lords-of-the-underground-flow-on-pete-rock-remix",
+      "title": "Flow On (Pete Rock Remix)",
+      "artist": "Lords of the Underground",
+      "album": "Flow On (single / EP)",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "blahzay-blahzay-danger",
+      "title": "Danger",
+      "artist": "Blahzay Blahzay",
+      "album": "Blah Blah Blah (1996)",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "status": "pending"
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
