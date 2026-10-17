@@ -1,5 +1,5 @@
 {
-  "version": "18.1",
+  "version": "19.0",
   "timezone": "Asia/Tokyo",
   "policy": "major-only",
   "history": [
@@ -161,6 +161,15 @@
       "datetime": "2026-10-17T10:01:17+09:00",
       "title": "楽曲ごとのグラフィティ画像を全画面へ",
       "description": "承認された手描きグラフィティの品質で制作した楽曲画像を、全画面アート表示に実装。作品ジャケット由来の配色、文字の確認、画面内への全体表示を共通ルール化。制作済みの曲から切り替え。",
+      "kind": "major",
+      "dateBasis": "変更記録日時",
+      "retrospective": false
+    },
+    {
+      "version": "19.0",
+      "datetime": "2026-10-17T12:21:57+09:00",
+      "title": "透過グラフィティを壁に描く",
+      "description": "壁面の質感と描画演出を復元し、透過画像への差し替えを進める。曲名・アーティスト名・CRATE DIGGIN・DJ Naoyamanを含むaltを自動生成。制作ノートと次回以降のルールを記録し、50曲単位で公開する。",
       "kind": "major",
       "dateBasis": "変更記録日時",
       "retrospective": false

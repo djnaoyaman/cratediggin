@@ -52,12 +52,20 @@ artwork_data=json.loads((ROOT/'graffiti_artwork.json').read_text(encoding='utf-8
 artwork_by_id={a['id']:a for a in artwork_data['tracks']}
 for t in tracks:
     piece=artwork_by_id.get(t['id'],{})
+    t['art']['alt']=t['title']+' — '+t['artist']+'｜CRATE DIGGIN｜DJ Naoyaman'
     if piece.get('status')=='ready':
+        assert piece.get('transparent') or piece.get('legacyPaper'),'New artwork requires transparency: '+t['id']
         relative=piece['image'];source=ROOT/relative
         assert source.is_file() and piece.get('textReviewed') and piece.get('paletteReviewed'),'Incomplete artwork: '+t['id']
         assert piece['palette']==t['art']['palette'] and piece['paletteSource']==t['art']['paletteSource'],'Artwork palette drift: '+t['id']
+        if piece.get('transparent'):
+            from PIL import Image as ArtworkImage
+            with ArtworkImage.open(source) as artwork_image:
+                artwork_image.load()
+                assert 'A' in artwork_image.getbands() and artwork_image.getchannel('A').getextrema()[0]==0,'Artwork is not transparent: '+t['id']
         target=DIST/relative;target.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(source,target)
         t['art']['image']=relative
+        t['art']['transparent']=bool(piece.get('transparent'))
 
 for t in tracks:
     t['deepdives']=deepdive_map.get((t['artist'].casefold(),t['title'].casefold()),[])
@@ -83,6 +91,9 @@ for t in tracks:
     body+='<h2>サンプル元</h2>'+''.join('<h3>'+e(s['artist']+' — '+s['title'])+'</h3><p>'+e(s['role'])+'</p>'+('<a href="https://www.youtube.com/watch?v='+s['youtube']['id']+'">サンプル元のYouTube</a>' if s.get('youtube') else '') for s in t['samples'])
     body+='<p>'+e(t.get('editorialStatus',''))+'</p><p>'+e(t.get('sampleStatus',''))+'</p><h2>出典</h2>'+''.join('<p><a href="'+e(s['url'])+'">'+e(s['label'])+'</a></p>' for s in t['sources'])+'</article>'
     page=base.replace('<main id="view" tabindex="-1"></main>','<main id="view" tabindex="-1">'+body+'</main>')
+    if t['art'].get('image'):
+        image_tag='<img id="artwork-image" class="art-accessible-image" src="'+e(BASE_PATH+'/'+t['art']['image'],quote=True)+'" alt="'+e(t['art']['alt'],quote=True)+'" loading="lazy">'
+        page=page.replace('<img id="artwork-image" class="art-accessible-image" alt="" hidden>',image_tag)
     page=re.sub(r'<title>.*?</title>','<title>'+e(t['title']+' / '+t['artist']+' — Crate Diggin’')+'</title>',page)
     page=re.sub(r'<meta name="description" content="[^"]*">','<meta name="description" content="'+e(t['deck'],quote=True)+'">',page)
     page=page.replace('href="'+HOST+'/"','href="'+HOST+'/songs/'+t['id']+'.html"',1)

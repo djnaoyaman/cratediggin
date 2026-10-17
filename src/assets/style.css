@@ -87,6 +87,9 @@
 
 #my-crate-settings label{display:block;max-width:100%}#my-crate-name{display:block;box-sizing:border-box;width:100%;max-width:100%;min-width:0}
 
-/* Generated pieces are shown in full, keeping the paper and cover-derived inks. */
-.art-view.image-art{background:#faf9f5;color:#1b1b1b}.image-art .art-brand,.image-art .art-info,.image-art .art-info h2,.image-art .art-info p,.image-art #art-region{color:#1b1b1b;text-shadow:none}.image-art #art-close,.image-art .art-controls button{color:#1b1b1b;background:#fffffff0;border-color:#333}.image-art .art-info h2{font-size:clamp(20px,3vw,36px);line-height:1.15}.image-art .art-info{bottom:25px;max-width:calc(100% - 240px)}.image-art .art-info p{margin-bottom:0}
+/* Paint on the textured wall, without a paper panel. */
+.art-view.image-art{background:#c9c6bd;color:#1b1b1b}.image-art .art-brand,.image-art .art-info,.image-art .art-info h2,.image-art .art-info p,.image-art #art-region{color:#1b1b1b;text-shadow:none}.image-art #art-close,.image-art .art-controls button{color:#1b1b1b;background:#fffffff0;border-color:#333}.image-art .art-info h2{font-size:clamp(20px,3vw,36px);line-height:1.15}.image-art .art-info{bottom:25px;max-width:calc(100% - 240px)}.image-art .art-info p{margin-bottom:0}
 @media(max-width:600px){.image-art .art-info{bottom:85px;max-width:calc(100% - 32px);left:16px}.image-art .art-info h2{font-size:24px}.image-art .art-controls{bottom:20px}}
+
+.art-accessible-image{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);border:0}
+.image-art .art-brand span{color:#444}
