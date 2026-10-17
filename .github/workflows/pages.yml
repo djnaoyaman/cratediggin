@@ -62,6 +62,7 @@ jobs:
           python scripts/verify_discovery.py
           python scripts/verify_url_migration.py
           python scripts/verify_profile_notes.py
+          python scripts/verify_public_copy.py
           python scripts/verify_social_sharing_static.py
           python scripts/test_revision_dates.py
           node scripts/verify_listening_shelves.js
@@ -136,6 +137,7 @@ jobs:
           node scripts/verify_social_sharing_browser.cjs
           node scripts/verify_url_migration_browser.cjs
           node scripts/verify_profile_notes_browser.cjs
+          node scripts/verify_public_copy_browser.cjs
       - name: Save browser screenshots
         if: always()
         uses: actions/upload-artifact@v4
