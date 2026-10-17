@@ -557,10 +557,11 @@
       "paletteSource": "Street Level",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "status": "ready",
-      "image": "assets/graffiti/the-beatnuts-get-funky.webp",
+      "image": "assets/graffiti/the-beatnuts-get-funky-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true,
+      "paletteReferenceTrack": "the-beatnuts-get-funky"
     },
     {
       "id": "the-beatnuts-off-the-books",
@@ -614,10 +615,11 @@
       "paletteSource": "Here Come the Lords",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "status": "ready",
-      "image": "assets/graffiti/lords-of-the-underground-funky-child.webp",
+      "image": "assets/graffiti/lords-of-the-underground-funky-child-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true,
+      "paletteReferenceTrack": "lords-of-the-underground-funky-child"
     },
     {
       "id": "gang-starr-dwyck",
@@ -631,8 +633,13 @@
         "#231f1c"
       ],
       "paletteSource": "Hard to Earn",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-dwyck-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "mass-appeal"
     },
     {
       "id": "gang-starr-take-it-personal",
@@ -667,10 +674,11 @@
       "paletteSource": "Hard to Earn",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
       "status": "ready",
-      "image": "assets/graffiti/gang-starr-code-of-the-streets.webp",
+      "image": "assets/graffiti/gang-starr-code-of-the-streets-alpha.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "legacyPaper": true
+      "transparent": true,
+      "paletteReferenceTrack": "gang-starr-code-of-the-streets"
     },
     {
       "id": "gang-starr-above-the-clouds",
@@ -719,7 +727,12 @@
       ],
       "paletteSource": "Stunts, Blunts & Hip Hop",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/diamond-d-best-kept-secret-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "diamond-d-sally-got-a-one-track-mind"
     },
     {
       "id": "diamond-d-sally-got-a-one-track-mind",
@@ -806,7 +819,12 @@
       ],
       "paletteSource": "Runaway Slave",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/showbiz-a-g-soul-clap-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "showbiz-a-g-party-groove-instrumental"
     },
     {
       "id": "showbiz-a-g-next-level-nyte-time-mix",
@@ -1061,8 +1079,13 @@
         "#342b25"
       ],
       "paletteSource": "Illmatic",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "既存の同一アルバム設定を参照。編集上の近似配色であり厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/nas-it-ain-t-hard-to-tell-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "nas-one-love"
     },
     {
       "id": "nas-n-y-state-of-mind",
@@ -1076,8 +1099,13 @@
         "#342b25"
       ],
       "paletteSource": "Illmatic",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "既存の同一アルバム設定を参照。編集上の近似配色であり厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/nas-n-y-state-of-mind-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "nas-one-love"
     },
     {
       "id": "nas-represent",
@@ -1091,8 +1119,13 @@
         "#342b25"
       ],
       "paletteSource": "Illmatic",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "既存の同一アルバム設定を参照。編集上の近似配色であり厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/nas-represent-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "nas-one-love"
     },
     {
       "id": "large-professor-i-juswanna-chill",
@@ -1122,7 +1155,12 @@
       ],
       "paletteSource": "Breaking Atoms",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/main-source-looking-at-the-front-door-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "main-source-just-hangin-out"
     },
     {
       "id": "main-source-just-hangin-out",
@@ -1156,7 +1194,12 @@
       ],
       "paletteSource": "Breaking Atoms",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/main-source-live-at-the-barbeque-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "main-source-just-hangin-out"
     },
     {
       "id": "the-notorious-b-i-g-juicy",
@@ -1250,7 +1293,12 @@
       ],
       "paletteSource": "The Infamous",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/mobb-deep-survival-of-the-fittest-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "mobb-deep-shook-ones-pt-ii"
     },
     {
       "id": "wu-tang-clan-c-r-e-a-m",
@@ -1404,7 +1452,12 @@
       ],
       "paletteSource": "One for All",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/brand-nubian-slow-down-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "brand-nubian-all-for-one"
     },
     {
       "id": "brand-nubian-all-for-one",
@@ -1527,8 +1580,13 @@
         "#17232e"
       ],
       "paletteSource": "Resurrection",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/common-i-used-to-love-h-e-r-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "resurrection"
     },
     {
       "id": "common-the-light",
@@ -1708,7 +1766,12 @@
       ],
       "paletteSource": "Midnight Marauders",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-oh-my-god-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "a-tribe-called-quest-award-tour"
     },
     {
       "id": "a-tribe-called-quest-steve-biko-stir-it-up",
@@ -1723,7 +1786,12 @@
       ],
       "paletteSource": "Midnight Marauders",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-steve-biko-stir-it-up-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "a-tribe-called-quest-award-tour"
     },
     {
       "id": "a-tribe-called-quest-we-can-get-down",
@@ -1738,7 +1806,12 @@
       ],
       "paletteSource": "Midnight Marauders",
       "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-we-can-get-down-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "a-tribe-called-quest-award-tour"
     },
     {
       "id": "a-tribe-called-quest-find-a-way",
@@ -2081,9 +2154,14 @@
         "#518070",
         "#201b16"
       ],
-      "paletteSource": "Dah Shinin'",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteSource": "Dah Shinin’",
+      "paletteNote": "ジャケットを参照した編集上の配色。厳密な抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/smif-n-wessun-sound-bwoy-bureill-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "bucktown"
     },
     {
       "id": "heltah-skeltah-leflaur-leflah-eshkoshka",
@@ -2321,9 +2399,14 @@
         "#b38052",
         "#29392f"
       ],
-      "paletteSource": "Endtroducing.....",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteSource": "Endtroducing.....（DJ Shadow公式ストア掲載25周年盤）",
+      "paletteNote": "公式ストア掲載ジャケットの深緑の服、クリームの棚、木質の茶と暗部を目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-organ-donor-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "coverSource": "https://djshadow.com/collections/all/products/dj-shadow-endtroducing-25th-anniversary-vinyl"
     },
     {
       "id": "dj-shadow-midnight-in-a-perfect-world",
@@ -2336,9 +2419,14 @@
         "#b38052",
         "#29392f"
       ],
-      "paletteSource": "Endtroducing.....",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteSource": "Endtroducing.....（DJ Shadow公式ストア掲載25周年盤）",
+      "paletteNote": "公式ストア掲載ジャケットの深緑の服、クリームの棚、木質の茶と暗部を目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-midnight-in-a-perfect-world-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "coverSource": "https://djshadow.com/collections/all/products/dj-shadow-endtroducing-25th-anniversary-vinyl"
     },
     {
       "id": "dj-krush-kemuri",
@@ -2442,8 +2530,13 @@
         "#24211b"
       ],
       "paletteSource": "Word...Life",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/o-c-born-2-live-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "times-up"
     },
     {
       "id": "krs-one-step-into-a-world",
@@ -2706,14 +2799,19 @@
       "artist": "Main Source",
       "album": "Breaking Atoms",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#171717",
-        "#0b0b0b"
+        "#cf7d37",
+        "#eadd9d",
+        "#786994",
+        "#29292e"
       ],
-      "paletteSource": "サイト共通パレット",
-      "paletteNote": "アルバム画像の色照合は未実施。サイト共通色を採用。",
-      "status": "pending"
+      "paletteSource": "Breaking Atoms",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/main-source-he-got-so-much-soul-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "main-source-just-hangin-out"
     },
     {
       "id": "main-source-hellavision",
@@ -3134,14 +3232,19 @@
       "artist": "AZ",
       "album": "Doe or Die",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#6f1f21",
+        "#345c32",
+        "#b48a39",
+        "#e7ddb6"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Doe or Die",
+      "paletteNote": "Apple Music掲載のDoe or Dieジャケットを目視参照。臙脂・緑・金褐色・クリームの編集上の近似配色。厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/az-sugar-hill-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "az-rather-unique"
     },
     {
       "id": "az-rather-unique",
@@ -3300,14 +3403,19 @@
       "artist": "Gang Starr",
       "album": "Daily Operation",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#b54c42",
+        "#e4dccb",
+        "#918678",
+        "#292725"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Daily Operation",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-flip-the-script-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "gang-starr-take-it-personal"
     },
     {
       "id": "gang-starr-ex-girl-to-next-girl",
@@ -3315,14 +3423,19 @@
       "artist": "Gang Starr",
       "album": "Daily Operation",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#b54c42",
+        "#e4dccb",
+        "#918678",
+        "#292725"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Daily Operation",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-ex-girl-to-next-girl-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "gang-starr-take-it-personal"
     },
     {
       "id": "gang-starr-take-two-and-pass",
@@ -3330,14 +3443,19 @@
       "artist": "Gang Starr",
       "album": "Daily Operation",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#b54c42",
+        "#e4dccb",
+        "#918678",
+        "#292725"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Daily Operation",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-take-two-and-pass-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "gang-starr-take-it-personal"
     },
     {
       "id": "gang-starr-2-deep",
@@ -3345,14 +3463,19 @@
       "artist": "Gang Starr",
       "album": "Daily Operation",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#b54c42",
+        "#e4dccb",
+        "#918678",
+        "#292725"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Daily Operation",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-2-deep-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "gang-starr-take-it-personal"
     },
     {
       "id": "gang-starr-mostly-tha-voice",
@@ -3360,14 +3483,19 @@
       "artist": "Gang Starr",
       "album": "Hard to Earn",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#bf5737",
+        "#d4b66f",
+        "#ece5cc",
+        "#231f1c"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Hard to Earn",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-mostly-tha-voice-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "mass-appeal"
     },
     {
       "id": "gang-starr-the-remainz",
@@ -3390,14 +3518,19 @@
       "artist": "Gang Starr",
       "album": "Hard to Earn",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#bf5737",
+        "#d4b66f",
+        "#ece5cc",
+        "#231f1c"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Hard to Earn",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-comin-for-the-datazz-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "mass-appeal"
     },
     {
       "id": "gang-starr-b-y-s",
@@ -3405,14 +3538,19 @@
       "artist": "Gang Starr",
       "album": "Daily Operation",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#b54c42",
+        "#e4dccb",
+        "#918678",
+        "#292725"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Daily Operation",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-b-y-s-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "gang-starr-take-it-personal"
     },
     {
       "id": "gang-starr-alongwaytogo",
@@ -3420,14 +3558,19 @@
       "artist": "Gang Starr",
       "album": "Hard to Earn",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#bf5737",
+        "#d4b66f",
+        "#ece5cc",
+        "#231f1c"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Hard to Earn",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-alongwaytogo-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "mass-appeal"
     },
     {
       "id": "gang-starr-battle",
@@ -3450,14 +3593,19 @@
       "artist": "Gang Starr",
       "album": "Hard to Earn",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#bf5737",
+        "#d4b66f",
+        "#ece5cc",
+        "#231f1c"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Hard to Earn",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-blowin-up-the-spot-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "mass-appeal"
     },
     {
       "id": "gang-starr-dj-premier-in-deep-concentration",
@@ -3495,14 +3643,19 @@
       "artist": "Gang Starr",
       "album": "Daily Operation",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#b54c42",
+        "#e4dccb",
+        "#918678",
+        "#292725"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
-      "status": "pending"
+      "paletteSource": "Daily Operation",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-no-shame-in-my-game-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "gang-starr-take-it-personal"
     },
     {
       "id": "gang-starr-step-in-the-arena",
@@ -3560,9 +3713,14 @@
         "#b38052",
         "#29392f"
       ],
-      "paletteSource": "Endtroducing.....",
-      "paletteNote": "既存のDJ Shadow作品の配色を暫定的に継承。個別ジャケットとの照合は未完了。",
-      "status": "pending"
+      "paletteSource": "Endtroducing.....（DJ Shadow公式ストア掲載25周年盤）",
+      "paletteNote": "公式ストア掲載ジャケットの深緑の服、クリームの棚、木質の茶と暗部を目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-what-does-your-soul-look-like-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "coverSource": "https://djshadow.com/collections/all/products/dj-shadow-endtroducing-25th-anniversary-vinyl"
     },
     {
       "id": "dj-shadow-high-noon",
@@ -3590,9 +3748,14 @@
         "#b38052",
         "#29392f"
       ],
-      "paletteSource": "Endtroducing.....",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteSource": "Endtroducing.....（DJ Shadow公式ストア掲載25周年盤）",
+      "paletteNote": "公式ストア掲載ジャケットの深緑の服、クリームの棚、木質の茶と暗部を目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-the-number-song-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "coverSource": "https://djshadow.com/collections/all/products/dj-shadow-endtroducing-25th-anniversary-vinyl"
     },
     {
       "id": "dj-shadow-the-number-song-cut-chemist-remix",
@@ -3620,9 +3783,14 @@
         "#b38052",
         "#29392f"
       ],
-      "paletteSource": "Endtroducing.....",
-      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
-      "status": "pending"
+      "paletteSource": "Endtroducing.....（DJ Shadow公式ストア掲載25周年盤）",
+      "paletteNote": "公式ストア掲載ジャケットの深緑の服、クリームの棚、木質の茶と暗部を目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-building-steam-with-a-grain-of-salt-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "coverSource": "https://djshadow.com/collections/all/products/dj-shadow-endtroducing-25th-anniversary-vinyl"
     },
     {
       "id": "dj-shadow-stem-long-stem",
@@ -3635,9 +3803,14 @@
         "#b38052",
         "#29392f"
       ],
-      "paletteSource": "Endtroducing.....",
-      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
-      "status": "pending"
+      "paletteSource": "Endtroducing.....（DJ Shadow公式ストア掲載25周年盤）",
+      "paletteNote": "公式ストア掲載ジャケットの深緑の服、クリームの棚、木質の茶と暗部を目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-stem-long-stem-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "coverSource": "https://djshadow.com/collections/all/products/dj-shadow-endtroducing-25th-anniversary-vinyl"
     },
     {
       "id": "unkle-rabbit-in-your-headlights",
@@ -3671,7 +3844,12 @@
       ],
       "paletteSource": "Psyence Fiction",
       "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/unkle-lonely-soul-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "unkle-rabbit-in-your-headlights"
     },
     {
       "id": "dj-shadow-six-days",
@@ -3686,7 +3864,12 @@
       ],
       "paletteSource": "The Private Press",
       "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-six-days-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "dj-shadow-mashin-on-the-motorway"
     },
     {
       "id": "dj-shadow-mashin-on-the-motorway",
@@ -3735,7 +3918,12 @@
       ],
       "paletteSource": "The Mountain Will Fall",
       "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
-      "status": "pending"
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-the-mountain-will-fall-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "dj-shadow-nobody-speak"
     },
     {
       "id": "dj-shadow-nobody-speak",
@@ -4357,8 +4545,13 @@
         "#24211b"
       ],
       "paletteSource": "Word...Life",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/o-c-o-zone-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "times-up"
     },
     {
       "id": "grand-puba-a-little-of-this",
@@ -4381,14 +4574,19 @@
       "artist": "AZ",
       "album": "Doe or Die",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#6f1f21",
+        "#345c32",
+        "#b48a39",
+        "#e7ddb6"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteSource": "Doe or Die",
+      "paletteNote": "Apple Music掲載のDoe or Dieジャケットを目視参照。臙脂・緑・金褐色・クリームの編集上の近似配色。厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/az-gimme-yours-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "az-rather-unique"
     },
     {
       "id": "mobb-deep-up-north-trip",
@@ -4402,8 +4600,13 @@
         "#2e2823"
       ],
       "paletteSource": "The Infamous",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/mobb-deep-up-north-trip-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "mobb-deep-shook-ones-pt-ii"
     },
     {
       "id": "a-tribe-called-quest-sucka-nigga",
@@ -4447,8 +4650,13 @@
         "#282a26"
       ],
       "paletteSource": "Lifestylez ov da Poor & Dangerous",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/big-l-all-black-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "put-it-on"
     },
     {
       "id": "smif-n-wessun-let-s-git-it-on",
@@ -4462,8 +4670,13 @@
         "#201b16"
       ],
       "paletteSource": "Dah Shinin’",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "ジャケットを参照した編集上の配色。厳密な抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/smif-n-wessun-let-s-git-it-on-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "bucktown"
     },
     {
       "id": "black-moon-how-many-mc-s",
@@ -4477,8 +4690,13 @@
         "#25252e"
       ],
       "paletteSource": "Enta da Stage",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/black-moon-how-many-mc-s-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "black-moon-who-got-da-props"
     },
     {
       "id": "group-home-up-against-the-wall-low-budget-mix",
@@ -4522,8 +4740,13 @@
         "#24211b"
       ],
       "paletteSource": "Word...Life",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/o-c-word-life-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "times-up"
     },
     {
       "id": "the-roots-distortion-to-static",
@@ -4567,8 +4790,13 @@
         "#211c19"
       ],
       "paletteSource": "The Main Ingredient",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/pete-rock-c-l-smooth-the-main-ingredient-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "pete-rock-c-l-smooth-i-get-physical"
     },
     {
       "id": "pete-rock-c-l-smooth-worldwide",
@@ -4582,8 +4810,13 @@
         "#211c19"
       ],
       "paletteSource": "The Main Ingredient",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/pete-rock-c-l-smooth-worldwide-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "pete-rock-c-l-smooth-i-get-physical"
     },
     {
       "id": "black-moon-buck-em-down",
@@ -4597,8 +4830,13 @@
         "#25252e"
       ],
       "paletteSource": "Enta da Stage",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/black-moon-buck-em-down-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "black-moon-who-got-da-props"
     },
     {
       "id": "common-breaker-1-9",
@@ -4657,8 +4895,13 @@
         "#151718"
       ],
       "paletteSource": "The Low End Theory",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-vibes-and-stuff-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "a-tribe-called-quest-jazz-we-ve-got"
     },
     {
       "id": "brand-nubian-steady-bootleggin",
@@ -4732,8 +4975,13 @@
         "#302b26"
       ],
       "paletteSource": "Mecca and the Soul Brother",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "既存の同一アルバム設定を参照。編集上の近似配色であり厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/pete-rock-c-l-smooth-anger-in-the-nation-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "pete-rock-cl-smooth-lots-of-lovin"
     },
     {
       "id": "lord-finesse-dj-mike-smooth-bud-mutha",
@@ -4897,8 +5145,13 @@
         "#322d27"
       ],
       "paletteSource": "Runaway Slave",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/showbiz-a-g-he-say-she-say-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "showbiz-a-g-party-groove-instrumental"
     },
     {
       "id": "diamond-the-psychotic-neurotics-freestyle-yo-that-s-that-shit",
@@ -4912,8 +5165,13 @@
         "#33362d"
       ],
       "paletteSource": "Stunts, Blunts & Hip Hop",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/diamond-the-psychotic-neurotics-freestyle-yo-that-s-that-shit-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "diamond-d-sally-got-a-one-track-mind"
     },
     {
       "id": "eric-b-rakim-what-s-on-your-mind",
@@ -4957,8 +5215,13 @@
         "#32285c"
       ],
       "paletteSource": "Bizarre Ride II the Pharcyde",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/the-pharcyde-4-better-or-4-worse-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "the-pharcyde-passin-me-by"
     },
     {
       "id": "da-king-i-flip-da-scrip",
@@ -5122,8 +5385,13 @@
         "#211e20"
       ],
       "paletteSource": "The Beatnuts（Street Level）",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-beatnuts-rik-s-joint-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "props-over-here"
     },
     {
       "id": "m-o-p-rugged-neva-smoove",
@@ -5272,8 +5540,13 @@
         "#231f1c"
       ],
       "paletteSource": "Hard to Earn",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-now-you-re-mine-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "mass-appeal"
     },
     {
       "id": "dj-jazzy-jeff-the-fresh-prince-somethin-like-dis",
@@ -5332,8 +5605,13 @@
         "#32285c"
       ],
       "paletteSource": "Bizarre Ride II the Pharcyde",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/the-pharcyde-officer-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "the-pharcyde-passin-me-by"
     },
     {
       "id": "original-flavor-all-that",
@@ -5587,8 +5865,13 @@
         "#151718"
       ],
       "paletteSource": "The Low End Theory",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-show-business-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "a-tribe-called-quest-jazz-we-ve-got"
     },
     {
       "id": "diamond-the-psychotic-neurotics-pass-dat-shit",
@@ -5602,8 +5885,13 @@
         "#33362d"
       ],
       "paletteSource": "Stunts, Blunts & Hip Hop",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/diamond-the-psychotic-neurotics-pass-dat-shit-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "diamond-d-sally-got-a-one-track-mind"
     },
     {
       "id": "the-legion-legion-groove",
@@ -5647,8 +5935,13 @@
         "#322d27"
       ],
       "paletteSource": "Runaway Slave",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/showbiz-a-g-silence-of-the-lambs-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "showbiz-a-g-party-groove-instrumental"
     },
     {
       "id": "original-flavor-feat-jay-z-can-i-get-open",
@@ -5881,14 +6174,19 @@
       "artist": "Pete Rock & C.L. Smooth",
       "album": "The Main Ingredient",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#ce9f40",
+        "#f3e3b4",
+        "#98705a",
+        "#211c19"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
-      "status": "pending"
+      "paletteSource": "The Main Ingredient",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/pete-rock-cl-smooth-its-on-you-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "paletteReferenceTrack": "pete-rock-c-l-smooth-i-get-physical"
     },
     {
       "id": "oc-sharp-as-a-knife",
