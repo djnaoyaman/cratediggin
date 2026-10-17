@@ -2383,14 +2383,19 @@
       "artist": "EPMD",
       "album": "Strictly Business",
       "palette": [
-        "#b33c35",
-        "#e1d5ba",
-        "#71836a",
-        "#282822"
+        "#169ac6",
+        "#75b44a",
+        "#e5ae2c",
+        "#272821"
       ],
       "paletteSource": "Strictly Business",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/epmd-you-gots-to-chill-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/strictly-business/721248274"
     },
     {
       "id": "epmd-crossover",
@@ -2398,14 +2403,19 @@
       "artist": "EPMD",
       "album": "Business Never Personal",
       "palette": [
-        "#a3533e",
-        "#e6d8bf",
-        "#788b86",
-        "#272a27"
+        "#bf7139",
+        "#dfc877",
+        "#70525d",
+        "#292329"
       ],
       "paletteSource": "Business Never Personal",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/epmd-crossover-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/business-never-personal/1738530544"
     },
     {
       "id": "keith-murray-the-most-beautifullest-thing-in-this-world",
@@ -2413,14 +2423,19 @@
       "artist": "Keith Murray",
       "album": "The Most Beautifullest Thing in This World",
       "palette": [
-        "#bc7844",
-        "#e3d6b7",
-        "#8b806a",
-        "#28271f"
+        "#345681",
+        "#809ab9",
+        "#c9ad4a",
+        "#e6e8e8"
       ],
       "paletteSource": "The Most Beautifullest Thing in This World",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/keith-murray-the-most-beautifullest-thing-in-this-world-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/the-most-beautifullest-thing-in-this-world/1556170395"
     },
     {
       "id": "redman-da-goodness",
@@ -2428,14 +2443,19 @@
       "artist": "Redman",
       "album": "Doc's da Name 2000",
       "palette": [
-        "#b24635",
-        "#e5d5b7",
-        "#758a91",
-        "#24282b"
+        "#d54234",
+        "#b26647",
+        "#424a7b",
+        "#d7b546"
       ],
       "paletteSource": "Doc's da Name 2000",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/redman-da-goodness-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/docs-da-name-2000/1442933567"
     },
     {
       "id": "smif-n-wessun-sound-bwoy-bureill",
@@ -2463,14 +2483,19 @@
       "artist": "Heltah Skeltah",
       "album": "Nocturnal",
       "palette": [
-        "#9f6c46",
-        "#e4d2b4",
-        "#677e90",
-        "#222a32"
+        "#c73330",
+        "#225a31",
+        "#d6d2cf",
+        "#27282b"
       ],
       "paletteSource": "Nocturnal",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/heltah-skeltah-leflaur-leflah-eshkoshka-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/nocturnal/723345818"
     },
     {
       "id": "o-g-c-no-fear",
@@ -2478,14 +2503,19 @@
       "artist": "O.G.C.",
       "album": "Da Storm",
       "palette": [
-        "#ab7543",
-        "#e1cfa9",
-        "#778d94",
-        "#242b2c"
+        "#7acbdf",
+        "#6671af",
+        "#b18a42",
+        "#101927"
       ],
       "paletteSource": "Da Storm",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/o-g-c-no-fear-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/fr/song/724305274"
     },
     {
       "id": "artifacts-wrong-side-of-da-tracks",
@@ -2493,14 +2523,19 @@
       "artist": "Artifacts",
       "album": "Between a Rock and a Hard Place",
       "palette": [
-        "#ad503a",
-        "#e5d4b5",
-        "#7b9390",
-        "#29312e"
+        "#bf4318",
+        "#eca82c",
+        "#91b8a5",
+        "#40221a"
       ],
       "paletteSource": "Between a Rock and a Hard Place",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/artifacts-wrong-side-of-da-tracks-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/between-a-rock-and-a-hard-place/1282101825"
     },
     {
       "id": "artifacts-c-mon-wit-da-git-down",
@@ -2508,14 +2543,19 @@
       "artist": "Artifacts",
       "album": "Between a Rock and a Hard Place",
       "palette": [
-        "#ad503a",
-        "#e5d4b5",
-        "#7b9390",
-        "#29312e"
+        "#bd3e19",
+        "#eaa323",
+        "#8bb7a0",
+        "#38221a"
       ],
       "paletteSource": "Between a Rock and a Hard Place",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/artifacts-c-mon-wit-da-git-down-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/between-a-rock-and-a-hard-place/1282101825"
     },
     {
       "id": "channel-live-mad-izm",
@@ -2523,14 +2563,19 @@
       "artist": "Channel Live",
       "album": "Station Identification",
       "palette": [
-        "#b17745",
-        "#e5d7b9",
-        "#7d8d85",
-        "#282c26"
+        "#533729",
+        "#d3bba0",
+        "#913937",
+        "#211a1a"
       ],
       "paletteSource": "Station Identification",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/channel-live-mad-izm-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1443478550"
     },
     {
       "id": "nine-whutcha-want",
@@ -2538,14 +2583,19 @@
       "artist": "Nine",
       "album": "Nine Livez",
       "palette": [
-        "#a65138",
-        "#e1cbb1",
-        "#77857b",
-        "#282922"
+        "#795747",
+        "#b99c79",
+        "#c26a3f",
+        "#282221"
       ],
       "paletteSource": "Nine Livez",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/nine-whutcha-want-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/cl/song/1491691773"
     },
     {
       "id": "mic-geronimo-shit-s-real",

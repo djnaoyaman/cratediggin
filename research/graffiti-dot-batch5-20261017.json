@@ -1,0 +1,232 @@
+{
+  "state": "reviewed-candidate-pending-ci-and-deployment",
+  "createdAt": "2026-10-17",
+  "baselineCommit": "27c6b579d87ccc2c75ce0aa605d8195a0d8b99c5",
+  "publishedTransparentBaseline": 174,
+  "candidateTransparent": 184,
+  "catalogTotal": 381,
+  "remainingAfterCandidate": 197,
+  "paletteBasis": "Official licensed digital or artist-site covers visually inspected; editorial color approximations, not sampled measurements.",
+  "assets": [
+    {
+      "id": "epmd-you-gots-to-chill",
+      "title": "YOU GOTS TO CHILL",
+      "artist": "EPMD",
+      "palette": [
+        "#169ac6",
+        "#75b44a",
+        "#e5ae2c",
+        "#272821"
+      ],
+      "paletteSource": "Strictly Business",
+      "coverUrl": "https://music.apple.com/us/album/strictly-business/721248274",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"YOU GOTS TO CHILL\". Exact separate artist \"EPMD\". Full wording accurately spelled, preserving the intentionally unusual word BEAUTIFULLEST where present; no omissions or abbreviations. Long title must use multiple legible lines so all words remain readable. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: cyan blue, lime green, golden yellow orange, opaque white and black (#169ac6, #75b44a, #e5ae2c, #272821). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital presentation at source URL; do not label original first pressing",
+      "image": "assets/graffiti/epmd-you-gots-to-chill-alpha.webp",
+      "bytes": 561788,
+      "blobSha": "ec3f42cfaa1a40df0a10107b8ac94dc6b7f4f896",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "epmd-crossover",
+      "title": "CROSSOVER",
+      "artist": "EPMD",
+      "palette": [
+        "#bf7139",
+        "#dfc877",
+        "#70525d",
+        "#292329"
+      ],
+      "paletteSource": "Business Never Personal",
+      "coverUrl": "https://music.apple.com/us/album/business-never-personal/1738530544",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"CROSSOVER\". Exact separate artist \"EPMD\". Full wording accurately spelled, preserving the intentionally unusual word BEAUTIFULLEST where present; no omissions or abbreviations. Long title must use multiple legible lines so all words remain readable. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: burnt orange, warm yellow, muted violet brown, opaque white and near-black (#bf7139, #dfc877, #70525d, #292329). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital presentation at source URL; do not label original first pressing",
+      "image": "assets/graffiti/epmd-crossover-alpha.webp",
+      "bytes": 569840,
+      "blobSha": "46d101506cd01ce528971da1e7682dd4ab287480",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "keith-murray-the-most-beautifullest-thing-in-this-world",
+      "title": "THE MOST BEAUTIFULLEST THING IN THIS WORLD",
+      "artist": "KEITH MURRAY",
+      "palette": [
+        "#345681",
+        "#809ab9",
+        "#c9ad4a",
+        "#e6e8e8"
+      ],
+      "paletteSource": "The Most Beautifullest Thing in This World",
+      "coverUrl": "https://music.apple.com/us/album/the-most-beautifullest-thing-in-this-world/1556170395",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"THE MOST BEAUTIFULLEST THING IN THIS WORLD\". Exact separate artist \"KEITH MURRAY\". Full wording accurately spelled, preserving the intentionally unusual word BEAUTIFULLEST where present; no omissions or abbreviations. Long title must use multiple legible lines so all words remain readable. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: cool navy, steel blue, ochre gold, opaque white and black (#345681, #809ab9, #c9ad4a, #e6e8e8). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital presentation at source URL; do not label original first pressing",
+      "image": "assets/graffiti/keith-murray-the-most-beautifullest-thing-in-this-world-alpha.webp",
+      "bytes": 664392,
+      "blobSha": "89aa2c64dc326c9573f10ec2ade644ea1f56a899",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "redman-da-goodness",
+      "title": "DA GOODNESS",
+      "artist": "REDMAN",
+      "palette": [
+        "#d54234",
+        "#b26647",
+        "#424a7b",
+        "#d7b546"
+      ],
+      "paletteSource": "Doc's da Name 2000",
+      "coverUrl": "https://music.apple.com/us/album/docs-da-name-2000/1442933567",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"DA GOODNESS\". Exact separate artist \"REDMAN\". Full wording accurately spelled, preserving the intentionally unusual word BEAUTIFULLEST where present; no omissions or abbreviations. Long title must use multiple legible lines so all words remain readable. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: red orange brick, saturated red, navy blue, small muted gold accents, opaque white and black (#d54234, #b26647, #424a7b, #d7b546). Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital presentation at source URL; do not label original first pressing",
+      "image": "assets/graffiti/redman-da-goodness-alpha.webp",
+      "bytes": 605520,
+      "blobSha": "666aeea405c222a21ccc8da211bbd128b58e24b5",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "heltah-skeltah-leflaur-leflah-eshkoshka",
+      "title": "Leflaur Leflah Eshkoshka",
+      "artist": "Heltah Skeltah",
+      "palette": [
+        "#c73330",
+        "#225a31",
+        "#d6d2cf",
+        "#27282b"
+      ],
+      "paletteSource": "Nocturnal",
+      "coverUrl": "https://music.apple.com/us/album/nocturnal/723345818",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"LEFLAUR LEFLAH ESHKOSHKA\". Exact separate artist \"HELTAH SKELTAH\". Full wording accurately spelled, no omissions or abbreviations. Long title must use multiple legible lines so all words remain readable. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: Black/gray nighttime trees, vivid red and forest-green clothing, red outlined title, white highlights. Approximate colors #c73330, #225a31, #d6d2cf, #27282b, plus opaque white and black. Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital presentation at source URL; do not label original first pressing",
+      "image": "assets/graffiti/heltah-skeltah-leflaur-leflah-eshkoshka-alpha.webp",
+      "bytes": 617304,
+      "blobSha": "9788e3e9c72b43795b8e16ce6912bc46915e5f74",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "o-g-c-no-fear",
+      "title": "No Fear",
+      "artist": "O.G.C.",
+      "palette": [
+        "#7acbdf",
+        "#6671af",
+        "#b18a42",
+        "#101927"
+      ],
+      "paletteSource": "Da Storm",
+      "coverUrl": "https://music.apple.com/fr/song/724305274",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"NO FEAR\". Exact separate artist \"O.G.C.\". Full wording accurately spelled, no omissions or abbreviations. Long title must use multiple legible lines so all words remain readable. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: Midnight navy/black storm scene, blue-violet sky, cyan/ice-blue lightning and title, gold-brown OGC outline. Approximate colors #7acbdf, #6671af, #b18a42, #101927, plus opaque white and black. Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital presentation at source URL; do not label original first pressing",
+      "image": "assets/graffiti/o-g-c-no-fear-alpha.webp",
+      "bytes": 546106,
+      "blobSha": "6377c601ea8dbb5e3faff1dafe3fec71dddf8db5",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "artifacts-wrong-side-of-da-tracks",
+      "title": "Wrong Side of da Tracks",
+      "artist": "Artifacts",
+      "palette": [
+        "#bf4318",
+        "#eca82c",
+        "#91b8a5",
+        "#40221a"
+      ],
+      "paletteSource": "Between a Rock and a Hard Place",
+      "coverUrl": "https://music.apple.com/us/album/between-a-rock-and-a-hard-place/1282101825",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"WRONG SIDE OF DA TRACKS\". Exact separate artist \"ARTIFACTS\". Full wording accurately spelled, no omissions or abbreviations. Long title must use multiple legible lines so all words remain readable. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: Fiery burnt orange/rust textured ground, golden yellow lettering and logo, dark brown-black shadows; small turquoise logo edge. Approximate colors #bf4318, #eca82c, #91b8a5, #40221a, plus opaque white and black. Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital presentation at source URL; do not label original first pressing",
+      "image": "assets/graffiti/artifacts-wrong-side-of-da-tracks-alpha.webp",
+      "bytes": 582632,
+      "blobSha": "c18643bc3357cb21d4a81801fc8fd6e5a0a20f7c",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "artifacts-c-mon-wit-da-git-down",
+      "title": "C'mon wit da Git Down",
+      "artist": "Artifacts",
+      "palette": [
+        "#bd3e19",
+        "#eaa323",
+        "#8bb7a0",
+        "#38221a"
+      ],
+      "paletteSource": "Between a Rock and a Hard Place",
+      "coverUrl": "https://music.apple.com/us/album/between-a-rock-and-a-hard-place/1282101825",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"C'MON WIT DA GIT DOWN\". Exact separate artist \"ARTIFACTS\". Full wording accurately spelled, no omissions or abbreviations. Long title must use multiple legible lines so all words remain readable. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: Fiery burnt orange/rust textured ground, golden yellow lettering and logo, dark brown-black shadows; small turquoise logo edge. Approximate colors #bd3e19, #eaa323, #8bb7a0, #38221a, plus opaque white and black. Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital presentation at source URL; do not label original first pressing",
+      "image": "assets/graffiti/artifacts-c-mon-wit-da-git-down-alpha.webp",
+      "bytes": 603572,
+      "blobSha": "da76735c775e999bef15c2b8da3461f31c4fb125",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "channel-live-mad-izm",
+      "title": "Mad Izm",
+      "artist": "Channel Live",
+      "palette": [
+        "#533729",
+        "#d3bba0",
+        "#913937",
+        "#211a1a"
+      ],
+      "paletteSource": "Station Identification",
+      "coverUrl": "https://music.apple.com/us/song/1443478550",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"MAD IZM\". Exact separate artist \"CHANNEL LIVE\". Full wording accurately spelled, no omissions or abbreviations. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: Deep brown/near-black doorway photograph, cream upper light and rust-red handwritten typography. Approximate colors #533729, #d3bba0, #913937, #211a1a, plus opaque white and black. Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital presentation at source URL; do not label original first pressing",
+      "image": "assets/graffiti/channel-live-mad-izm-alpha.webp",
+      "bytes": 652996,
+      "blobSha": "31d15781186625832f77aeccdaa344b9cc0076cd",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "nine-whutcha-want",
+      "title": "Whutcha Want?",
+      "artist": "Nine",
+      "palette": [
+        "#795747",
+        "#b99c79",
+        "#c26a3f",
+        "#282221"
+      ],
+      "paletteSource": "Nine Livez",
+      "coverUrl": "https://music.apple.com/cl/song/1491691773",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"WHUTCHA WANT?\". Exact separate artist \"NINE\". Full wording accurately spelled, no omissions or abbreviations. Wide horizontal composition, generous clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: Warm sepia/brown portrait, cream eyes, black shadows, gray-tan forehead logo and burnt-orange title. Release date not verified. Approximate colors #795747, #b99c79, #c26a3f, #282221, plus opaque white and black. Colors reference the cover only, do not reproduce album imagery, people or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve fully opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Digital presentation at source URL; do not label original first pressing",
+      "image": "assets/graffiti/nine-whutcha-want-alpha.webp",
+      "bytes": 579942,
+      "blobSha": "cfe3d0278fd842d97a6ca423df0db63aae5bb89a",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    }
+  ]
+}
