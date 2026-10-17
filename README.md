@@ -92,4 +92,4 @@ GA4に以下のイベントを送ります。ページ表示は実URLとタイ�
 
 ## 楽曲アートの制作・公開ルール
 
-[ARTWORK_NOTES.md](ARTWORK_NOTES.md)、[ADDING_TRACKS.md](ADDING_TRACKS.md)、[AGENTS.md](AGENTS.md) を次回以降も適用します。作品ジャケットの配色、実際の透過背景、壁面の描画演出、曲名・アーティスト名・CRATE DIGGIN・DJ Naoyamanを含むaltを共通基準とし、最初の42曲の公開後は50曲単位で371曲まで進めます。
+[ARTWORK_NOTES.md](ARTWORK_NOTES.md)、[ADDING_TRACKS.md](ADDING_TRACKS.md)、[AGENTS.md](AGENTS.md) を次回以降も適用します。作品ジャケットの配色、実際の透過背景、壁面の描画演出、曲名・アーティスト名・CRATE DIGGIN・DJ Naoyamanを含むaltを共通基準とし、最初の42曲の公開後は40曲単位で進めます。現在のカタログは381曲で、新規追加曲も制作台帳に含めます。

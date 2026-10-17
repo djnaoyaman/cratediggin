@@ -463,5 +463,17 @@
   },
   "All City": {
     "type": "MusicGroup"
+  },
+  "Jay-Z": {
+    "type": "Person"
+  },
+  "D&D All-Stars": {
+    "type": "MusicGroup"
+  },
+  "Q Ball & Curt Cazal": {
+    "type": "MusicGroup"
+  },
+  "Blahzay Blahzay": {
+    "type": "MusicGroup"
   }
 }

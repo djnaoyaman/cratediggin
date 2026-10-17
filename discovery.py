@@ -232,7 +232,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         if '/metadata.js' not in content:
             content = content.replace('<script src="' + base_path + '/app.js', '<script src="' + base_path + '/metadata.js?v=' + version + '" defer></script><script src="' + base_path + '/app.js')
         # Newly added static pages need the same versioned assets and analytics as existing pages.
-        for asset in ('app.js', 'style.css', 'tracks.js', 'playlist.js', 'filters.js', 'timeline.js', 'releases.js'):
+        for asset in ('app.js', 'art.js', 'style.css', 'tracks.js', 'playlist.js', 'filters.js', 'timeline.js', 'releases.js'):
             content = re.sub(r'((?:href|src)="[^\"]*/' + re.escape(asset) + r')(?:\?v=[0-9.]+)?"',
                              lambda m: m[1] + '?v=' + version + '"', content)
         if '<!-- GOOGLE_ANALYTICS -->' not in content:
