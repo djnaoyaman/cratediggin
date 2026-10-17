@@ -24514,13 +24514,13 @@
     "producer": "J Dilla",
     "members": "Slum Village",
     "youtube": {
-      "id": "EZXXqfUBbLM",
-      "url": "https://www.youtube.com/watch?v=EZXXqfUBbLM",
-      "channel": "Slum Village - Topic",
+      "id": "AbBZKBplhGc",
+      "url": "https://www.youtube.com/watch?v=AbBZKBplhGc",
+      "channel": "OfficialSlumVillage / Slum Village",
       "type": "Official Audio / Video",
       "official": true,
-      "verified": "2026-10-15",
-      "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+      "verified": "2026-10-18",
+      "verification": "公式投稿の曲名・Fan-Tas-Tic Vol 2・権利者Ne’Astra / Cinq・制作J Dilla・2:26表記を照合。旧動画のエラー150を確認して差し替え。実音声の再生進行と日本国内の埋め込み再生は未検証。"
     },
     "art": {
       "word": "PLAYERS",
@@ -24566,8 +24566,8 @@
     "context": "2000年の作品として、J Dillaの制作とSlum Villageの表現の接点を聴く。",
     "sources": [
       {
-        "label": "Slum Village - Topic / Players",
-        "url": "https://www.youtube.com/watch?v=EZXXqfUBbLM",
+        "label": "OfficialSlumVillage / Players — Fan-Tas-Tic Vol 2",
+        "url": "https://www.youtube.com/watch?v=AbBZKBplhGc",
         "kind": "公式配信・動画"
       }
     ],

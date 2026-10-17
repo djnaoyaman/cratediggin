@@ -191,10 +191,8 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         '未確認事項は推測で埋めず、確認を継続する項目として明示します。YouTubeの投稿やIDの存在は、録音の同一性や再生可能性の保証ではありません。</p>'
         '<p><a href="' + base_path + '/editor.html">編者について</a></p>')
     add('#/editor', 'editor.html', 'DJ Naoyaman — 編者紹介 / Crate Diggin’', 'Crate Diggin’の選曲・編集を行うDJ Naoyaman。',
-        '<h1>DJ Naoyaman</h1><p>Crate Diggin’の選曲・編集・文責。</p><p>Hip Hopを入口に、サンプリング、制作背景と音楽文化をたどる。'
-        '聴き方の考察と、資料で確認した事実を区別して紹介します。</p><p><a href="' + base_path + '/about.html">編集方針</a></p>'
-        '<p>姉妹サイト：<a href="https://djnaoyaman.github.io/suburbia-classica/">SUBURBIA CLASSICA</a></p>',
-        graph=[{'@type': 'ProfilePage', '@id': author_url + '#page', 'url': author_url, 'mainEntity': author}])
+        __import__('profile_content').render_profile(root,base_path),
+        graph=[{'@type': 'ProfilePage', '@id': author_url + '#page', 'url': author_url, 'mainEntity': {**author, 'alternateName':'宮崎直哉'}}])
 
     def real_links(content):
         def replace(match):
@@ -289,6 +287,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         if route.startswith('#/song/'):
             art=next(t['art'] for t in tracks if t['id']==route.split('/')[-1])
             if art.get('image'): images.append(art['image'])
+        if route=='#/editor': images.append('dj-naoyaman-signature-v2.webp')
         if route in ('#/artists','#/producers'):
             kind='artist' if route=='#/artists' else 'producer'
             for f in features:

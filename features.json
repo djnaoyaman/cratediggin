@@ -341,6 +341,11 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
         "changes": "表示時のトリミング・セピア調・クラフト紙レイヤー。写真の人物・顔は生成・再描画していません。",
         "focus": "50% 35%"
+      },
+      "noteArticle": {
+        "title": "DJ Shadow【第1話】イントロの次に、その男はいた",
+        "url": "https://note.com/djnaoyaman/n/n5a9aa27897f4",
+        "introduction": "DJ KIYOのミックステープ『PRIMITIVISM』。イントロの次に流れてきたDJ Shadowから、当時夢中になっていた音楽の記憶をたどります。"
       }
     },
     {
@@ -388,6 +393,11 @@
         "nameOnly": true,
         "tag": "feature-j-dilla-tag.webp",
         "alt": "J Dilla / Jay Deeの名前を描いたグラフィティ"
+      },
+      "noteArticle": {
+        "title": "J Dilla【第1話】テープに二度いた男",
+        "url": "https://note.com/djnaoyaman/n/ne944de4bad7d",
+        "introduction": "Jay Deeの「Think Twice」と、The Ummahのリミックス。同じテープで、同じ人とは知らずに聴いていた二つの音から、私のJ Dillaの話が始まります。"
       }
     },
     {
@@ -509,6 +519,11 @@
         "changes": "表示時のトリミング・セピア調・クラフト紙レイヤー。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 2.0 を適用。",
         "focus": "50% 25%",
         "fit": "cover"
+      },
+      "noteArticle": {
+        "title": "MADLIB【第1話】手の写真に、やられた",
+        "url": "https://note.com/djnaoyaman/n/nbd65230df762",
+        "introduction": "鍵盤に置かれた手の写真に惹かれ、ジャケ買いした『Suite for Weldon』。Yesterdays New Quintetの一枚から始まった、私とMadlibの出会いを綴っています。"
       }
     },
     {
