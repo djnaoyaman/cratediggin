@@ -2603,14 +2603,19 @@
       "artist": "Mic Geronimo",
       "album": "The Natural",
       "palette": [
-        "#ab8059",
-        "#e5d9c1",
-        "#7b8d87",
-        "#2d302a"
+        "#39324d",
+        "#717493",
+        "#c7a565",
+        "#22212a"
       ],
       "paletteSource": "The Natural",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/mic-geronimo-shit-s-real-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/the-natural/311282023"
     },
     {
       "id": "royal-flush-iced-down-medallions",
@@ -2618,14 +2623,19 @@
       "artist": "Royal Flush",
       "album": "Ghetto Millionaire",
       "palette": [
-        "#c0a053",
-        "#e3d7b9",
-        "#78877c",
-        "#2a2c25"
+        "#9ebbd0",
+        "#e4d3a4",
+        "#9a794e",
+        "#29282c"
       ],
       "paletteSource": "Ghetto Millionaire",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/royal-flush-iced-down-medallions-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/ghetto-millionaire/311283144"
     },
     {
       "id": "camp-lo-luchini-aka-this-is-it",
@@ -2633,14 +2643,19 @@
       "artist": "Camp Lo",
       "album": "Uptown Saturday Night",
       "palette": [
-        "#c87a3b",
-        "#e8d29b",
-        "#8c536f",
-        "#352b30"
+        "#a47b43",
+        "#ae4834",
+        "#5484b4",
+        "#3c6b60"
       ],
       "paletteSource": "Uptown Saturday Night",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/camp-lo-luchini-aka-this-is-it-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/uptown-saturday-night/298544145"
     },
     {
       "id": "camp-lo-coolie-high",
@@ -2648,14 +2663,19 @@
       "artist": "Camp Lo",
       "album": "Uptown Saturday Night",
       "palette": [
-        "#c87a3b",
-        "#e8d29b",
-        "#8c536f",
-        "#352b30"
+        "#ac7f47",
+        "#b74737",
+        "#5f8dbd",
+        "#437468"
       ],
       "paletteSource": "Uptown Saturday Night",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/camp-lo-coolie-high-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/uptown-saturday-night/298544145"
     },
     {
       "id": "fugees-fu-gee-la",
@@ -2663,14 +2683,19 @@
       "artist": "Fugees",
       "album": "The Score",
       "palette": [
-        "#b74738",
-        "#e7dac2",
-        "#7d7a64",
-        "#26231f"
+        "#b57b34",
+        "#9b654a",
+        "#d1ac83",
+        "#151618"
       ],
       "paletteSource": "The Score",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/fugees-fu-gee-la-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/the-score/1054461239"
     },
     {
       "id": "fugees-ready-or-not",
@@ -2678,14 +2703,19 @@
       "artist": "Fugees",
       "album": "The Score",
       "palette": [
-        "#b74738",
-        "#e7dac2",
-        "#7d7a64",
-        "#26231f"
+        "#bd823d",
+        "#936048",
+        "#cfac89",
+        "#151718"
       ],
       "paletteSource": "The Score",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/fugees-ready-or-not-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/the-score/1054461239"
     },
     {
       "id": "lauryn-hill-doo-wop-that-thing",
@@ -2693,14 +2723,19 @@
       "artist": "Lauryn Hill",
       "album": "The Miseducation of Lauryn Hill",
       "palette": [
-        "#a77143",
-        "#e0c79f",
-        "#8a683f",
-        "#332920"
+        "#d1a262",
+        "#a86836",
+        "#7c342d",
+        "#ebcf9b"
       ],
       "paletteSource": "The Miseducation of Lauryn Hill",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/lauryn-hill-doo-wop-that-thing-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/the-miseducation-of-lauryn-hill/1276760743"
     },
     {
       "id": "jurassic-5-concrete-schoolyard",
@@ -2708,14 +2743,19 @@
       "artist": "Jurassic 5",
       "album": "Jurassic 5",
       "palette": [
-        "#c69d42",
-        "#e6d4a2",
-        "#83a291",
-        "#29372e"
+        "#b48a35",
+        "#cfb255",
+        "#7c613d",
+        "#28282b"
       ],
       "paletteSource": "Jurassic 5",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/jurassic-5-concrete-schoolyard-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1777704238"
     },
     {
       "id": "dilated-peoples-worst-comes-to-worst",
@@ -2723,14 +2763,19 @@
       "artist": "Dilated Peoples",
       "album": "Expansion Team",
       "palette": [
-        "#a78345",
-        "#e6dcc1",
-        "#758888",
-        "#282b25"
+        "#dca933",
+        "#eed075",
+        "#7a4b28",
+        "#272321"
       ],
       "paletteSource": "Expansion Team",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/dilated-peoples-worst-comes-to-worst-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/expansion-team/724727843"
     },
     {
       "id": "dj-shadow-organ-donor",
@@ -2793,14 +2838,19 @@
       "artist": "Nujabes",
       "album": "Modal Soul",
       "palette": [
-        "#c49777",
-        "#e9dbca",
-        "#8a7c85",
-        "#392e30"
+        "#bf4a32",
+        "#575d8e",
+        "#60c3d6",
+        "#e5d5ba"
       ],
       "paletteSource": "Modal Soul",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/nujabes-feather-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/modal-soul/1078914477"
     },
     {
       "id": "nujabes-luv-sic-part-3",
@@ -2808,14 +2858,19 @@
       "artist": "Nujabes",
       "album": "Modal Soul",
       "palette": [
-        "#c49777",
-        "#e9dbca",
-        "#8a7c85",
-        "#392e30"
+        "#be4a36",
+        "#565f91",
+        "#5cc4d6",
+        "#e1cab1"
       ],
       "paletteSource": "Modal Soul",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/nujabes-luv-sic-part-3-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/modal-soul/1078914477"
     },
     {
       "id": "j-dilla-so-far-to-go",
@@ -2823,14 +2878,19 @@
       "artist": "J Dilla",
       "album": "The Shining",
       "palette": [
-        "#bc9b46",
-        "#e6d8b1",
-        "#81816d",
-        "#29261f"
+        "#8b2126",
+        "#d7bd39",
+        "#e4d9bb",
+        "#292426"
       ],
       "paletteSource": "The Shining",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/j-dilla-so-far-to-go-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://jdilla.bandcamp.com/album/the-shining"
     },
     {
       "id": "slum-village-fall-in-love",
@@ -2838,14 +2898,19 @@
       "artist": "Slum Village",
       "album": "Fantastic, Vol. 2",
       "palette": [
-        "#c2a33f",
-        "#e9d99e",
-        "#92803d",
-        "#292719"
+        "#b5a087",
+        "#726659",
+        "#b7b8b4",
+        "#292928"
       ],
       "paletteSource": "Fantastic, Vol. 2",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/slum-village-fall-in-love-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://trafficent.com/wp-content/uploads/2016/07/NMG-5763-SLUM-VILLAGE-Fantastic-Vol-2-LP.pdf"
     },
     {
       "id": "the-roots-you-got-me",
@@ -2853,14 +2918,19 @@
       "artist": "The Roots",
       "album": "Things Fall Apart",
       "palette": [
-        "#a57953",
-        "#e1d2b8",
-        "#889391",
-        "#2b2c28"
+        "#c8c8c5",
+        "#777875",
+        "#333535",
+        "#843b36"
       ],
       "paletteSource": "Things Fall Apart",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-roots-you-got-me-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/things-fall-apart/1479929235"
     },
     {
       "id": "o-c-born-2-live",
@@ -2888,14 +2958,19 @@
       "artist": "KRS-One",
       "album": "I Got Next",
       "palette": [
-        "#b6b0a2",
-        "#ebe4d8",
-        "#686b67",
-        "#262826"
+        "#e1b135",
+        "#bf7a28",
+        "#283a75",
+        "#8c332b"
       ],
       "paletteSource": "I Got Next",
-      "paletteNote": "ジャケットを想定した暫定配色。厳密な抽出・画像照合は未実施。",
-      "status": "pending"
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/krs-one-step-into-a-world-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/i-got-next/286588607"
     },
     {
       "id": "beastie-boys-shadrach",
@@ -2903,14 +2978,19 @@
       "artist": "Beastie Boys",
       "album": "Paul’s Boutique",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#171717",
-        "#0b0b0b"
+        "#b46552",
+        "#c4aa75",
+        "#596e78",
+        "#242e30"
       ],
-      "paletteSource": "サイト共通パレット",
-      "paletteNote": "アルバム画像の厳密な色照合は未実施。サイト共通色を採用。",
-      "status": "pending"
+      "paletteSource": "Paul’s Boutique",
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/beastie-boys-shadrach-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/pauls-boutique-20th-anniversary-remastered-edition/721276795"
     },
     {
       "id": "beastie-boys-jimmy-james",
@@ -2918,14 +2998,19 @@
       "artist": "Beastie Boys",
       "album": "Check Your Head",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#171717",
-        "#0b0b0b"
+        "#d1d0ce",
+        "#92918f",
+        "#565759",
+        "#232426"
       ],
-      "paletteSource": "サイト共通パレット",
-      "paletteNote": "アルバム画像の厳密な色照合は未実施。サイト共通色を採用。",
-      "status": "pending"
+      "paletteSource": "Check Your Head",
+      "paletteNote": "公式配信サービスまたはアーティスト公式サイト掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/beastie-boys-jimmy-james-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/check-your-head/724690226"
     },
     {
       "id": "beastie-boys-shake-your-rump",
