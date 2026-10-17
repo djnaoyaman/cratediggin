@@ -481,5 +481,14 @@
   },
   "Prince Markie Dee & The Soul Convention": {
     "type": null
+  },
+  "Mood": {
+    "type": "MusicGroup"
+  },
+  "Black Eyed Peas": {
+    "type": "MusicGroup"
+  },
+  "The Notorious B.I.G. feat. 112": {
+    "type": null
   }
 }

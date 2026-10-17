@@ -41843,5 +41843,685 @@
       "lettering": "block",
       "letteringNote": "既存作品の転載ではない独自の文字表現。"
     }
+  },
+  {
+    "id": "the-pharcyde-bullshit",
+    "title": "Bullshit",
+    "artist": "The Pharcyde",
+    "year": 1995,
+    "yearBasis": "出典に記載された収録盤の年代を採用。後年のデジタル配信日は初出年として扱わない。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "Labcabincalifornia",
+    "label": "Delicious Vinyl",
+    "producer": "Jay Dee",
+    "producers": [
+      "Jay Dee"
+    ],
+    "members": "The Pharcyde",
+    "youtube": {
+      "id": "HzW4tylAYGs",
+      "url": "https://www.youtube.com/watch?v=HzW4tylAYGs",
+      "channel": "The Pharcyde - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "YouTube公開プレイヤー情報で曲名・演者・権利者提供クレジットを照合。status=OK、playableInEmbed=true、日本が配信対象国に含まれることを2026-10-17に確認。実音声の聴取・ブラウザ実再生は未確認。",
+      "title": "Bullshit"
+    },
+    "art": {
+      "word": "BULLSHIT",
+      "lines": [
+        "BULLSHIT"
+      ],
+      "tag": "THE PHARCYDE",
+      "style": "piece",
+      "seed": 2448586710,
+      "profile": "ny-subway",
+      "palette": [
+        "#101c3b",
+        "#e5c979",
+        "#ef3c36",
+        "#eee7c9"
+      ],
+      "paletteSource": "Labcabincalifornia",
+      "paletteNote": "レーベルまたは公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "deck": "整いすぎないキックが、ラップの時間を別の角度から動かす。",
+    "essayTitle": "Questloveが足を止めたキック",
+    "essay": [
+      "1995年のセカンド作『Labcabincalifornia』を開く一曲。Jay Deeとして活動していたJ Dillaが制作を担当し、The Pharcydeの声を新しいリズム感へ導いた。前作を単純に再現するのではなく、制作陣と音の重心を変えたアルバムの入口でもある。",
+      "この曲の重要さを具体的に語ったのがQuestloveだ。Wax Poeticsの取材で彼は、The Pharcydeの前座を終えて会場を離れようとした際、彼らの最初の曲だった「Bullshit」のキックに違和感を覚え、音を確かめようと会場の正面へ回ったと回想している。均等に揃わない打点は、ドラマーの耳を引き返させるほどの出来事だった。",
+      "聴くときは、上に乗るラップとキックを一度別々に追ってみたい。声の流れを基準にする場合と、低い打点を基準にする場合とで、拍の感じ方がどう変わるか。Questloveの証言は、この曲を「メロウ」という形容だけで片づけず、リズムの設計に耳を向ける手掛かりになる。",
+      "掲載音源は権利者配信の「Bullshit」。配信画面に表示される『Phroduced By J Dilla』は後年の編集盤であり、曲の初出を2025年とするものではない。曲の位置づけは1995年の『Labcabincalifornia』、音源の配信元は別々に記録している。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と制作",
+        "text": "『Labcabincalifornia』期のThe PharcydeとJay Deeの接点を示す一曲。PHARCYDE TVの権利者配信クレジットでも制作はJay Deeと明記されており、グループのラップとデトロイトのビートメイカーによる制作を結びつけて聴ける。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Questloveの証言",
+        "text": "前座出演後に聴こえた「Bullshit」のキックを確かめるため、会場前方へ戻ったと回想している。",
+        "sources": [
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。",
+    "listening": [
+      "ラップを追う聴き方と、低いキックだけを追う聴き方を切り替える。",
+      "規則的に感じる部分と、次の打点を待たせる部分の対比に注目する。"
+    ],
+    "context": "整いすぎないキックが、ラップの時間を別の角度から動かす。",
+    "sources": [
+      {
+        "label": "公式配信クレジット",
+        "url": "https://www.youtube.com/watch?v=HzW4tylAYGs",
+        "kind": "公式配信情報"
+      },
+      {
+        "label": "レーベル公式資料",
+        "url": "https://craftrecordings.com/blogs/news/the-pharcyde-labcabincalifornia",
+        "kind": "発売情報"
+      },
+      {
+        "label": "レーベル公式資料",
+        "url": "https://craftrecordings.com/products/the-pharcyde-labcabincalifornia-2-lp-vinyl",
+        "kind": "発売情報"
+      },
+      {
+        "label": "Questlove、Imaniらの証言：Jay Dee, Son of Detroit — Wax Poetics",
+        "url": "https://magazine.waxpoetics.com/connections/beatmakers/article/jay-dee-son-of-detroit/",
+        "kind": "取材・制作資料"
+      }
+    ],
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "addedOrder": 378,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "editorialStatus": "作品情報と曲別クレジットは出典をご覧ください。未確認のサンプル情報があり、聴き方は編者の考察です。",
+    "collections": [],
+    "editorialCrates": [],
+    "curationNote": "ユーザー指定曲。音源の公開プレイヤー情報を照合済み。実音声聴取・ブラウザ実再生は未確認。"
+  },
+  {
+    "id": "mood-secrets-of-the-sand-jay-dee-remix",
+    "title": "Secrets Of The Sand (Jay Dee Remix)",
+    "artist": "Mood",
+    "year": 1999,
+    "yearBasis": "出典に記載された収録盤の年代を採用。後年のデジタル配信日は初出年として扱わない。",
+    "region": "Cincinnati",
+    "scene": "Cincinnati",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "Snakebacks / Secrets Of The Sand (TVT4433-0)",
+    "label": "Blunt / TVT",
+    "producer": "Jay Dee (remix)",
+    "producers": [
+      "Jay Dee (remix)"
+    ],
+    "members": "Mood",
+    "youtube": {
+      "id": "Aec2SYEXT68",
+      "url": "https://www.youtube.com/watch?v=Aec2SYEXT68",
+      "channel": "mood - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "YouTube公開プレイヤー情報で曲名・演者・権利者提供クレジットを照合。status=OK、playableInEmbed=true、日本が配信対象国に含まれることを2026-10-17に確認。実音声の聴取・ブラウザ実再生は未確認。",
+      "title": "Secrets Of The Sand (Remix)"
+    },
+    "art": {
+      "word": "SECRETS OF THE SAND (JAY DEE REMIX)",
+      "lines": [
+        "SECRETS OF THE SAND (JAY DEE REMIX)"
+      ],
+      "tag": "MOOD",
+      "style": "piece",
+      "seed": 3034302285,
+      "profile": "ny-subway",
+      "palette": [
+        "#f6f3e9",
+        "#673e2d",
+        "#a49470",
+        "#526974"
+      ],
+      "paletteSource": "Snakebacks/Secrets Of The Sand",
+      "paletteNote": "公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "deck": "原曲と別の制作として、12インチのB面から聴き直す。",
+    "essayTitle": "曲名だけでは拾えないJay Deeのリミックス",
+    "essay": [
+      "Moodの「Secrets Of The Sand」をJay Deeがリミックスしたバージョン。タイトルの一致だけで『Doom』収録の原曲と同じ扱いにはできない。ここでは「Snakebacks」と組み合わされた12インチに収められたリミックスを対象にしている。",
+      "現物を扱う販売店の曲目・制作表記では、A面「Snakebacks」はHi-Tek、B面「Secrets Of The Sand」のリミックスはJay Deeと区別されている。同じ盤の中で異なるプロデューサーの仕事を行き来できる点も、12インチという形で聴く面白さだ。",
+      "現在の公式配信では曲名が「Secrets Of The Sand (Remix)」と短く表示されるため、配信タイトルだけではJay Dee版か判断しにくい。収録作品『Snakebacks/Secrets Of The Sand』と盤の曲目を合わせて照合し、別のリミックスや原曲を取り違えないようにしている。",
+      "初出の扱いは1999年のシングル資料と権利者配信を基準とする。聴き比べる際には、ラップそのものの魅力と、それをどの伴奏で聴かせるかというリミックスの役割を分けてみたい。サンプル名や制作機材は、裏付けのない推測を加えていない。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と制作",
+        "text": "Moodの楽曲をJay Deeが再構成したリミックス。1999年の『Snakebacks / Secrets Of The Sand』12インチではB面に収録され、Hi-Tek制作のA面とは制作担当も異なる。『Doom』収録の原曲や別のリミックスと区別して聴きたい一曲。",
+        "sources": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。",
+    "listening": [
+      "制作クレジットを手掛かりに、ラップと伴奏それぞれの役割を聴き分ける。"
+    ],
+    "context": "原曲と別の制作として、12インチのB面から聴き直す。",
+    "sources": [
+      {
+        "label": "公式配信クレジット",
+        "url": "https://www.youtube.com/watch?v=Aec2SYEXT68",
+        "kind": "公式配信情報"
+      },
+      {
+        "label": "発売情報・収録盤資料",
+        "url": "https://music.apple.com/us/song/311295463",
+        "kind": "発売情報"
+      },
+      {
+        "label": "発売情報・収録盤資料",
+        "url": "https://www.betweenmusicstore.jp/product/1878",
+        "kind": "発売情報"
+      },
+      {
+        "label": "発売情報・収録盤資料",
+        "url": "https://www.cocobeat-records.com/products/detail/27208",
+        "kind": "発売情報"
+      }
+    ],
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "addedOrder": 379,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "editorialStatus": "作品情報と曲別クレジットは出典をご覧ください。未確認のサンプル情報があり、聴き方は編者の考察です。",
+    "collections": [],
+    "editorialCrates": [],
+    "curationNote": "ユーザー指定曲。音源の公開プレイヤー情報を照合済み。実音声聴取・ブラウザ実再生は未確認。"
+  },
+  {
+    "id": "camp-lo-black-connection",
+    "title": "Black Connection",
+    "artist": "Camp Lo",
+    "year": 1997,
+    "yearBasis": "出典に記載された収録盤の年代を採用。後年のデジタル配信日は初出年として扱わない。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "Uptown Saturday Night",
+    "label": "Profile / Arista",
+    "producer": "Ski (credited Ski Aka Joe Chink)",
+    "producers": [
+      "Ski (credited Ski Aka Joe Chink)"
+    ],
+    "members": "Camp Lo",
+    "youtube": {
+      "id": "pf-1LYFETyM",
+      "url": "https://www.youtube.com/watch?v=pf-1LYFETyM",
+      "channel": "Camp Lo - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "YouTube公開プレイヤー情報で曲名・演者・権利者提供クレジットを照合。status=OK、playableInEmbed=true、日本が配信対象国に含まれることを2026-10-17に確認。実音声の聴取・ブラウザ実再生は未確認。",
+      "title": "Black Connection"
+    },
+    "art": {
+      "word": "BLACK CONNECTION",
+      "lines": [
+        "BLACK CONNECTION"
+      ],
+      "tag": "CAMP LO",
+      "style": "piece",
+      "seed": 3899272829,
+      "profile": "ny-subway",
+      "palette": [
+        "#b08a54",
+        "#4c7faa",
+        "#a64b36",
+        "#343e3b"
+      ],
+      "paletteSource": "Uptown Saturday Night",
+      "paletteNote": "レーベルまたは公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "deck": "Skiの制作と二人のラップを、アルバムの世界観の中で聴く。",
+    "essayTitle": "二人の声で組み上げる街の物語",
+    "essay": [
+      "Camp Loの『Uptown Saturday Night』に収録された1997年の一曲。公式配信ではSkiがプロデューサーとして記される。アルバムの代表的なシングルだけでなく、その内部へ踏み込む入口として「Black Connection」を置きたい。",
+      "発売当時のCMJは、Sonny CheebaとGeechi Suedeの二人が1970年代のブラックスプロイテーション映画から受けた影響に触れ、アルバムの中でも「Black Connection」に可能性を見いだしている。一方で作品全体のスタイルには批判的でもあり、当初から無条件に称賛されていたと後付けする必要はない。 制作したSkiも2012年のインタビューで、本曲への強い愛着を語っている。",
+      "二人組の曲として聴くなら、一人のヴァースだけを追うより、声が交代することで同じ伴奏の見え方がどう変わるかに注目したい。作品全体の映画的な設定を念頭に置きつつ、語り手の距離や受け渡しを聴くと、単なる心地よい背景音とは違う面が見えてくる。",
+      "収録作品の初出は1997年。現在の配信クレジットに1999年の権利年も併記されているが、それを曲の初出年と混同しない。サンプル元については資料間で演奏者の表記が割れているため、現段階では断定を避けている。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と制作",
+        "text": "1997年1月28日発売の『Uptown Saturday Night』収録曲。Aristaの配信クレジットではSkiが制作を担当。Camp Loの二人によるラップとSkiのプロダクションという、このアルバムを貫く組み合わせを楽しめる。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "同時代の受容",
+        "text": "CMJの1997年3月号は、二人の映画趣味に触れ、本曲をアルバムの見どころの一つとして挙げた。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "Ski自身の愛着",
+        "text": "Skiは2012年のインタビューで、本曲を自身のお気に入りの一つに挙げている。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。",
+    "listening": [
+      "二人の声が交代する場面で、同じ伴奏の印象がどう変わるかを追う。",
+      "フックへ戻る動きと、物語を進めるヴァースの役割を分けて聴く。"
+    ],
+    "context": "Skiの制作と二人のラップを、アルバムの世界観の中で聴く。",
+    "sources": [
+      {
+        "label": "公式配信クレジット",
+        "url": "https://www.youtube.com/watch?v=pf-1LYFETyM",
+        "kind": "公式配信情報"
+      },
+      {
+        "label": "CMJ New Music Monthly 1997年3月号 — 同時代のCamp Lo評",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/CMJ/1997/CMJ-New-Music-1997-03.pdf",
+        "kind": "同時代レビュー"
+      },
+      {
+        "label": "Ski Beatzインタビュー — OfficialCampLo.com掲載",
+        "url": "https://officialcamplo.com/2012/07/",
+        "kind": "制作者本人の証言"
+      }
+    ],
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "addedOrder": 380,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "editorialStatus": "作品情報と曲別クレジットは出典をご覧ください。未確認のサンプル情報があり、聴き方は編者の考察です。",
+    "collections": [],
+    "editorialCrates": [],
+    "curationNote": "ユーザー指定曲。音源の公開プレイヤー情報を照合済み。実音声聴取・ブラウザ実再生は未確認。"
+  },
+  {
+    "id": "the-roots-mellow-my-man",
+    "title": "Mellow My Man",
+    "artist": "The Roots",
+    "year": 1994,
+    "yearBasis": "1994年6月のGeffen広告でFrom The Ground Upへの収録を確認。1995年のアルバム発売より先行する。",
+    "region": "Philadelphia",
+    "scene": "Philadelphia",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "From The Ground Up / Do You Want More?!!!??!",
+    "label": "Geffen",
+    "producer": "Negaz Grand; co-producers A.J. Shine / Richard Nichols",
+    "producers": [
+      "Negaz Grand; co-producers A.J. Shine / Richard Nichols"
+    ],
+    "members": "The Roots",
+    "youtube": {
+      "id": "zOrKnsHKZEU",
+      "url": "https://www.youtube.com/watch?v=zOrKnsHKZEU",
+      "channel": "The Roots - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "YouTube公開プレイヤー情報で曲名・演者・権利者提供クレジットを照合。status=OK、playableInEmbed=true、日本が配信対象国に含まれることを2026-10-17に確認。実音声の聴取・ブラウザ実再生は未確認。",
+      "title": "Mellow My Man"
+    },
+    "art": {
+      "word": "MELLOW MY MAN",
+      "lines": [
+        "MELLOW MY MAN"
+      ],
+      "tag": "THE ROOTS",
+      "style": "piece",
+      "seed": 1691924731,
+      "profile": "ny-subway",
+      "palette": [
+        "#df4627",
+        "#d9ded1",
+        "#141616",
+        "#d99847"
+      ],
+      "paletteSource": "From The Ground Up",
+      "paletteNote": "レーベルまたは公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "deck": "Black ThoughtとMalik Bの受け渡しを、演奏の変化と一緒に追う。",
+    "essayTitle": "バンドとMCが一緒に曲を動かす",
+    "essay": [
+      "The Rootsの初期を代表する一曲で、1995年の『Do You Want More?!!!??!』に先立ち、1994年のEP『From The Ground Up』に収録された。同年6月のGeffen広告にも曲名が掲載されており、アルバムの発売年だけで初出を決めないことが大切だ。",
+      "権利元メディアのuDiscoverは、この曲でBlack ThoughtとMalik Bがヴァースを交わす姿を取り上げている。生楽器のバンドであることだけが特徴なのではなく、MC同士の受け渡しも演奏の一部のように機能するところが、初期The Rootsを聴く楽しみになる。",
+      "1995年2月のThe Observer評は、オルガンやホーンの響きに加え、途中でリズムがジャズ的な動きへ変化し、二人のMCがそれに合わせて言葉のペースを変える点に注目した。ラップの巧さとバンドの巧さを別々に評価するより、両者が同じ瞬間に動く部分を探してみたい。",
+      "掲載候補は『From The Ground Up』名義の公式配信。後のアルバムには同名曲があるが、収録尺や編集の差まで同一と断定せず、EPの音源として明示している。配信上の制作表記はNegaz Grand、共同制作はA.J. ShineとRichard Nichols。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と制作",
+        "text": "『From The Ground Up』に収められ、翌年の『Do You Want More?!!!??!』へとつながる初期The Rootsの一曲。権利者配信ではNegaz Grandがプロデュース、A.J. ShineとRichard Nicholsが共同制作として記される。ラップと演奏の両面からグループ初期の姿を追える作品。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "EPへの先行収録",
+        "text": "1994年6月のGeffen広告に本曲を含むEPの曲目が記載される。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "ラップと演奏の応答",
+        "text": "同時代評はリズムの変化と、それに対応するMCのペースに注目している。",
+        "sources": [
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。",
+    "listening": [
+      "Black ThoughtとMalik Bの受け渡しを追う。",
+      "リズムが変化する場面でラップのペースも変わるか聴く。"
+    ],
+    "context": "Black ThoughtとMalik Bの受け渡しを、演奏の変化と一緒に追う。",
+    "sources": [
+      {
+        "label": "公式配信クレジット",
+        "url": "https://www.youtube.com/watch?v=zOrKnsHKZEU",
+        "kind": "公式配信情報"
+      },
+      {
+        "label": "GeffenのFrom The Ground Up広告 — CMJ 1994年6月27日号",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/CMJ/1994/CMJ-New-Music-Report-1994-06-27.pdf",
+        "kind": "レーベル広告"
+      },
+      {
+        "label": "The Roots Do You Want More? 回顧 — uDiscover Music",
+        "url": "https://www.udiscovermusic.com/stories/the-roots-do-you-want-more-album/",
+        "kind": "権利元メディア"
+      },
+      {
+        "label": "The Observer 1995年2月3日号 — 同時代の曲評",
+        "url": "https://archives.nd.edu/observer/v26/1995-02-03_v26_079.pdf",
+        "kind": "同時代レビュー"
+      }
+    ],
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "addedOrder": 381,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "editorialStatus": "作品情報と曲別クレジットは出典をご覧ください。未確認のサンプル情報があり、聴き方は編者の考察です。",
+    "collections": [],
+    "editorialCrates": [],
+    "curationNote": "ユーザー指定曲。音源の公開プレイヤー情報を照合済み。実音声聴取・ブラウザ実再生は未確認。"
+  },
+  {
+    "id": "the-notorious-big-skys-the-limit",
+    "title": "Sky's The Limit",
+    "artist": "The Notorious B.I.G. feat. 112",
+    "year": 1997,
+    "yearBasis": "出典に記載された収録盤の年代を採用。後年のデジタル配信日は初出年として扱わない。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "Life After Death",
+    "label": "Bad Boy",
+    "producer": "Clark Kent",
+    "producers": [
+      "Clark Kent"
+    ],
+    "members": "The Notorious B.I.G. feat. 112",
+    "youtube": {
+      "id": "nOUZI94P7Pc",
+      "url": "https://www.youtube.com/watch?v=nOUZI94P7Pc",
+      "channel": "The Notorious B.I.G.",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "YouTube公開プレイヤー情報で曲名・演者・権利者提供クレジットを照合。status=OK、playableInEmbed=true、日本が配信対象国に含まれることを2026-10-17に確認。実音声の聴取・ブラウザ実再生は未確認。",
+      "title": "The Notorious B.I.G. - Sky's The Limit (feat. 112) (Official Audio)"
+    },
+    "art": {
+      "word": "SKY'S THE LIMIT",
+      "lines": [
+        "SKY'S THE LIMIT"
+      ],
+      "tag": "THE NOTORIOUS B.I.G. FEAT. 112",
+      "style": "piece",
+      "seed": 3293132959,
+      "profile": "ny-subway",
+      "palette": [
+        "#2e2424",
+        "#8b6f65",
+        "#d59162",
+        "#e3dacc"
+      ],
+      "paletteSource": "Life After Death (2014 Remaster)",
+      "paletteNote": "公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。2014年リマスターの外枠付き画像を参照。原盤ジャケットそのものの確認とは区別する。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "deck": "成功の眩しさだけでなく、そこへ至る時間を語る。",
+    "essayTitle": "Biggieが先に聴き取っていた「一曲」の形",
+    "essay": [
+      "Clark Kentの回想によれば、このビートは最初からBiggieのソロ曲として用意されたわけではなかった。2017年のDrink Champsで彼は、Junior M.A.F.I.A.用の曲を選んでいたBiggieが、このトラックだけは自分のために欲しがったと話している。仲間のアルバムを組み立てる耳と、自身の次作を見据える耳が交わったところから「Sky’s The Limit」は始まった。",
+      "同じ回想でKentは、当初Biggie自身がフックを歌い、その後112が加わったと説明する。完成形の甘いコーラスを、単なる外付けのR&B要素と考えるだけでは制作過程を取りこぼす。Biggieが先に持っていた曲の輪郭を、別の声へ渡していく工程もあった。これはKentの後年の証言として読むべき話で、未発表の初期版をここで試聴したという意味ではない。",
+      "公式音源の紹介は、Bobby Caldwellの「My Flame」を使い、貧困から成功へ至るBiggie自身の経験を語る曲と位置づけている。その背景を踏まえるなら、聴く焦点は「成功」を祝うフックだけでなく、そこへ至る具体的な時間を語るヴァースとの距離にある。歌が掲げる希望と、ラップが積み重ねる来歴を行き来することで、この曲を単純な上昇志向の標語以上のものとして捉えられる。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と制作",
+        "text": "112を迎えた『Life After Death』収録曲。公式紹介でも、貧困から成功へと向かう自身の経験を語る曲として説明され、Bobby Caldwellの『My Flame』を用いたことが示されている。歌のフックとBiggieの語りを組み合わせたヒップホップ作品として聴きたい。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "制作担当",
+        "text": "Clark Kentがプロデューサーとして記載される。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "Bobby Caldwell「My Flame」は公式チャンネル説明で確認。その他の引用関係は調査中。",
+    "listening": [
+      "制作クレジットを手掛かりに、ラップと伴奏それぞれの役割を聴き分ける。"
+    ],
+    "context": "成功の眩しさだけでなく、そこへ至る時間を語る。",
+    "sources": [
+      {
+        "label": "公式配信クレジット",
+        "url": "https://www.youtube.com/watch?v=nOUZI94P7Pc",
+        "kind": "公式配信情報"
+      },
+      {
+        "label": "Sky’s the Limit — Shazam配信クレジット",
+        "url": "https://www.shazam.com/en-us/song/906888524/skys-the-limit-feat-112",
+        "kind": "配信クレジット"
+      },
+      {
+        "label": "DJ Clark Kent、Drink Champs第72回、2017年4月7日公開",
+        "url": "https://podscripts.co/podcasts/drink-champs/episode-72-w-dj-clark-kent",
+        "kind": "本人インタビューの外部文字起こし"
+      },
+      {
+        "label": "Iconic Records第2回「Sky’s The Limit」、2023年5月8日",
+        "url": "https://podcasts.apple.com/gb/podcast/episode-2-skys-the-limit/id1680040130?i=1000612200946",
+        "kind": "Warner Music Group番組公式配信案内"
+      }
+    ],
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "addedOrder": 382,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "editorialStatus": "作品情報と曲別クレジットは出典をご覧ください。未確認のサンプル情報があり、聴き方は編者の考察です。",
+    "collections": [],
+    "editorialCrates": [],
+    "curationNote": "ユーザー指定曲。音源の公開プレイヤー情報を照合済み。実音声聴取・ブラウザ実再生は未確認。"
+  },
+  {
+    "id": "black-eyed-peas-duet",
+    "title": "Duet",
+    "artist": "Black Eyed Peas",
+    "year": 1998,
+    "yearBasis": "出典に記載された収録盤の年代を採用。後年のデジタル配信日は初出年として扱わない。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "Behind The Front",
+    "label": "Interscope",
+    "producer": "will.i.am / Brian Lapin（共同制作）",
+    "producers": [
+      "will.i.am",
+      "Brian Lapin"
+    ],
+    "members": "Black Eyed Peas",
+    "youtube": {
+      "id": "wPuhlNwrioE",
+      "url": "https://www.youtube.com/watch?v=wPuhlNwrioE",
+      "channel": "The Black Eyed Peas - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-17",
+      "verification": "YouTube公開プレイヤー情報で曲名・演者・権利者提供クレジットを照合。status=OK、playableInEmbed=true、日本が配信対象国に含まれることを2026-10-17に確認。実音声の聴取・ブラウザ実再生は未確認。",
+      "title": "Duet"
+    },
+    "art": {
+      "word": "DUET",
+      "lines": [
+        "DUET"
+      ],
+      "tag": "BLACK EYED PEAS",
+      "style": "piece",
+      "seed": 3653218455,
+      "profile": "ny-subway",
+      "palette": [
+        "#bb7944",
+        "#d5bb68",
+        "#0a0b09",
+        "#f5e8ca"
+      ],
+      "paletteSource": "Behind the Front",
+      "paletteNote": "公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "deck": "1998年のデビュー作を、参加者のクレジットから掘る。",
+    "essayTitle": "ループの外側へ、演奏から広げたヒップホップ",
+    "essay": [
+      "「Duet」を掘る手掛かりは、後年のポップ路線との落差よりも、will.i.amがレコードの裏面から学んだ作り方にある。1998年8月のCMJで彼は、A Tribe Called QuestのクレジットからSergio MendesやMinnie Ripertonの原曲へ進み、ループの外にあるコード進行や展開に惹かれたと語っている。その変化まで扱うために、バンドで演奏する方法を選んだという。",
+      "その制作思想のもとで生まれた『Behind The Front』の中でも、「Duet」はWilliam AdamsのプロデュースにBrian Lapinの共同制作、Redfooの声が重なる曲だ。配信の曲別クレジットには、作家としてKevin Feyen、Allan Pineda、Stefan Kendal Gordyの名も並ぶ。一人のビートメイカーの仕事だけではなく、演奏家とMCが交わる録音として見えてくる。",
+      "同年11月のJazzTimes評も、このアルバムを生バンドとサンプルの組み合わせとして捉えていた。ここから先は編集上の聴き方だが、「Duet」では声を追うだけでなく、反復する土台と、フレーズの先へ動こうとする伴奏の関係を探したい。生演奏だからヒップホップと別物なのではなく、サンプルを掘る耳から演奏へ進む、当時のもう一つの作曲観として置ける。"
+    ],
+    "facts": [
+      {
+        "title": "収録作品と制作",
+        "text": "デビュー作『Behind The Front』収録。公式配信のクレジットではWilliam Adamsがプロデュース、Brian Lapinが共同制作を担当し、Redfooもボーカルとして参加する。後年のポップ・ヒットだけでなく、初期グループのラップ作品を辿るための一曲。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。",
+    "listening": [
+      "制作クレジットを手掛かりに、ラップと伴奏それぞれの役割を聴き分ける。"
+    ],
+    "context": "1998年のデビュー作を、参加者のクレジットから掘る。",
+    "sources": [
+      {
+        "label": "公式配信クレジット",
+        "url": "https://www.youtube.com/watch?v=wPuhlNwrioE",
+        "kind": "公式配信情報"
+      },
+      {
+        "label": "Ron Hartによるwill.i.am取材、CMJ New Music Report、1998年8月17日、pp.68–69",
+        "url": "https://www.scribd.com/document/1018982894/CMJ-1998-08-17",
+        "kind": "同時代インタビューの誌面OCR"
+      },
+      {
+        "label": "Qobuz / UMG「Duet」曲別制作クレジット",
+        "url": "https://www.qobuz.com/us-en/album/behind-the-front-the-black-eyed-peas/onl3qqwf6iu3b",
+        "kind": "権利者提供の配信クレジット"
+      },
+      {
+        "label": "Tony Green「Black Eyed Peas: Behind the Front」、JazzTimes、1998年11月1日初出",
+        "url": "https://www.jazztimes.com/archives/black-eyed-peas-behind-the-front/?v=a672068055fa",
+        "kind": "同時代批評（2019年更新アーカイブ）"
+      }
+    ],
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "addedOrder": 383,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "editorialStatus": "作品情報と曲別クレジットは出典をご覧ください。未確認のサンプル情報があり、聴き方は編者の考察です。",
+    "collections": [],
+    "editorialCrates": [],
+    "curationNote": "ユーザー指定曲。音源の公開プレイヤー情報を照合済み。実音声聴取・ブラウザ実再生は未確認。"
   }
 ]
