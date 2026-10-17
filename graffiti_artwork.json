@@ -3231,14 +3231,18 @@
       "artist": "Black Sheep",
       "album": "Strobelite Honey / 12-inch Single",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#171717",
-        "#0b0b0b"
+        "#e7b92c",
+        "#d36724",
+        "#39736f"
       ],
-      "paletteSource": "サイト共通パレット",
-      "paletteNote": "アルバム画像の色照合は未実施。サイト共通色を採用。",
-      "status": "pending"
+      "paletteSource": "Strobelite Honey, UK Mercury MERX 369, 1992 12-inch",
+      "paletteNote": "実物レコードのスリーブ／センターレーベルを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/black-sheep-strobelite-honey-no-we-didnt-mix-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://viewrecordshop.com/product/black-sheep-strobelite-honey-12/"
     },
     {
       "id": "black-sheep-without-a-doubt",
@@ -5193,14 +5197,18 @@
       "artist": "Dead Poetz Society",
       "album": "Klockuz / Lick a Shot",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#70b59d",
+        "#b3c8cb",
+        "#5c7772"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Klockuz / Lick A Shot / Lick A Shot (Remix)",
+      "paletteNote": "実物レコードのスリーブ／センターレーベルを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/dead-poetz-society-lick-a-shot-remix-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://www.discogs.com/release/1041816-Dead-Poetz-Society-Klockuz-Lick-A-Shot-Lick-A-Shot-Remix"
     },
     {
       "id": "the-roots-push-up-ya-lighter",
@@ -6187,14 +6195,18 @@
       "artist": "Kirk",
       "album": "Uptown Style",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#d8d8d2",
+        "#acada8",
+        "#292a2b"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Uptown Style / Feel The Boom (US original promo 12-inch)",
+      "paletteNote": "実物レコードのスリーブ／センターレーベルを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/kirk-uptown-style-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://hiptankrecords.com/?pid=186720877"
     },
     {
       "id": "super-lover-cee-casanova-rud-this-dub-s-for-you",
@@ -6279,14 +6291,18 @@
       "artist": "Mesanjarz of Funk",
       "album": "Mesanjarz of Funk",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#b65bc6",
+        "#258e5d",
+        "#d67264"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Funk In Da Trunk / Flip Da Script (US 1993 12-inch)",
+      "paletteNote": "実物レコードのスリーブ／センターレーベルを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/mesanjarz-of-funk-flip-da-script-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://www.vinylexchange.co.uk/products/mesanjarz-of-funk-funk-in-da-trunk-flip-da-script"
     },
     {
       "id": "leaders-of-the-new-school-what-s-next",
@@ -6392,14 +6408,18 @@
       "artist": "Champ MC",
       "album": "Ghetto Flava",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#d47a2c",
+        "#c8c5b7",
+        "#45423b"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Keep It On The Real / Keep Shit On The Real, EastWest DMD2112 US1994 promotional double12inch",
+      "paletteNote": "実物レコードのスリーブ／センターレーベルを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/champ-mc-keep-it-on-the-real-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://fatman.ocnk.net/product/12693"
     },
     {
       "id": "brand-nubian-word-is-bond",
@@ -6579,14 +6599,18 @@
       "artist": "Doug E. Fresh",
       "album": "Bounce",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#32b7c2",
+        "#9da8b7",
+        "#30405b"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "I-Ight -Alright- / Bounce / Freaks, 1993 US original Gee Street12inch",
+      "paletteNote": "実物レコードのスリーブ／センターレーベルを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/doug-e-fresh-bounce-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://www.cribrecords.jp/product/884"
     },
     {
       "id": "das-efx-looseys",
@@ -6671,14 +6695,18 @@
       "artist": "Black Maddness",
       "album": "How Many Styles / Wild Brooklyn Bandits",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#e9e9eb",
+        "#87888d",
+        "#ed181c"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Wild Brooklyn Bandits (US 1993 12-inch)",
+      "paletteNote": "実物レコードのスリーブ／センターレーベルを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/black-maddness-wild-brooklyn-bandits-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://manhattanrecords.jp/WILD%2BBROOKLYN%2BBANDITS%2B%28USED%29/product/0/1000000285147/?cat=115001002&swrd="
     },
     {
       "id": "queen-latifah-latifah-s-had-it-up-2-here",
@@ -6800,14 +6828,18 @@
       "artist": "Boogie Down Productions",
       "album": "Ghetto Music: The Blueprint of Hip Hop",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#7c645c",
+        "#65717e",
+        "#c3c8cd"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Ghetto Music: The Blueprint of Hip-Hop (Expanded Edition)",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/boogie-down-productions-you-must-learn-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/you-must-learn/1473650401?i=1473650419&uo=4"
     },
     {
       "id": "the-troubleneck-brothers-back-to-the-hip-hop",
@@ -6815,14 +6847,18 @@
       "artist": "The Troubleneck Brothers",
       "album": "Back to the Hip Hop",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#38877d",
+        "#c4b48c",
+        "#b65737"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Back To The Hip-Hop / Pure, Stepsun 53748-0132-0",
+      "paletteNote": "実物レコードのスリーブ／センターレーベルを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-troubleneck-brothers-back-to-the-hip-hop-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://ticro.com/products/t00002404"
     },
     {
       "id": "the-notorious-b-i-g-just-playing-dreams",
@@ -6830,14 +6866,18 @@
       "artist": "The Notorious B.I.G.",
       "album": "Just Playing (Dreams) / Ready to Die (bonus track)",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#b52b2d",
+        "#8e7050",
+        "#d1c0aa"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Ready To Die the Remaster",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-notorious-b-i-g-just-playing-dreams-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/just-playing-dreams/204669415?i=204669758&uo=4"
     },
     {
       "id": "jeru-the-damaja-da-bichez",
@@ -6845,14 +6885,18 @@
       "artist": "Jeru the Damaja",
       "album": "The Sun Rises in the East",
       "palette": [
-        "#aa6745",
-        "#e3ccb1",
-        "#718593",
-        "#2d2a28"
+        "#dd8535",
+        "#e6d887",
+        "#3b4d82"
       ],
       "paletteSource": "The Sun Rises in the East",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/jeru-the-damaja-da-bichez-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/da-bichez/1434911347?i=1434911627&uo=4"
     },
     {
       "id": "krs-one-return-of-the-boom-bap",
@@ -6860,14 +6904,18 @@
       "artist": "KRS-One",
       "album": "Return of the Boom Bap",
       "palette": [
-        "#ad3a32",
-        "#e5d0b8",
-        "#837660",
-        "#29251f"
+        "#d98b36",
+        "#286b9c",
+        "#b3cbd1"
       ],
       "paletteSource": "Return of the Boom Bap",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/krs-one-return-of-the-boom-bap-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/return-of-the-boom-bap/267251596?i=267253118&uo=4"
     },
     {
       "id": "akinyele-ak-ha-ha-ak-hoo-hoo",
@@ -6875,14 +6923,18 @@
       "artist": "Akinyele",
       "album": "Vagina Diner",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#e1263f",
+        "#e8ca90",
+        "#6b416b"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Vagina Diner",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/akinyele-ak-ha-ha-ak-hoo-hoo-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/ak-ha-ha-ak-hoo-hoo/1620463440?i=1620463812&uo=4"
     },
     {
       "id": "intelligent-hoodlum-at-large",
@@ -6890,14 +6942,18 @@
       "artist": "Intelligent Hoodlum",
       "album": "Tragedy: Saga of a Hoodlum",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#cf2435",
+        "#637eae",
+        "#d3cda7"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Tragedy: Saga of a Hoodlum",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/intelligent-hoodlum-at-large-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/at-large/1444377884?i=1444377892&uo=4"
     },
     {
       "id": "a-tribe-called-quest-show-business",
@@ -6945,14 +7001,18 @@
       "artist": "The Legion",
       "album": "Theme + Echo = Krill",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#e39d3c",
+        "#6a3935",
+        "#9a9aa4"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Theme + Echo = Krill",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-legion-legion-groove-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/legion-groove/573958761?i=573958856&uo=4"
     },
     {
       "id": "common-take-it-ez",
@@ -6960,14 +7020,18 @@
       "artist": "Common",
       "album": "Can I Borrow a Dollar?",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#bcaa60",
+        "#343b6c",
+        "#815e40"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteSource": "Can I Borrow a Dollar?",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/common-take-it-ez-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/it/album/take-it-ez/267712586?i=267712642&uo=4"
     },
     {
       "id": "showbiz-a-g-silence-of-the-lambs",
@@ -6995,14 +7059,18 @@
       "artist": "Original Flavor feat. Jay-Z",
       "album": "Beyond Flavor",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#e69442",
+        "#286b99",
+        "#393939"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Beyond Flavor",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/original-flavor-feat-jay-z-can-i-get-open-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/can-i-get-open-feat-ja%C3%BF-z/1765470925?i=1765471154&uo=4"
     },
     {
       "id": "the-umc-s-never-never-land",
@@ -7010,14 +7078,19 @@
       "artist": "The UMC's",
       "album": "Fruits of Nature",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#4e9dc4",
+        "#96be29",
+        "#bd528b",
+        "#e7db30"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Fruits of Nature",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-umc-s-never-never-land-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/never-never-land/1565364358?i=1565364364&uo=4"
     },
     {
       "id": "fat-joe-dat-gangsta-shit",
@@ -7025,14 +7098,18 @@
       "artist": "Fat Joe",
       "album": "Don Cartagena",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#e0de20",
+        "#b9baa7",
+        "#555751"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケット色は未照合。サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Don Cartagena",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/fat-joe-dat-gangsta-shit-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/dat-gangsta-shit/1835093509?i=1835093518&uo=4"
     },
     {
       "id": "busta-rhymes-everybody-rise",
@@ -7040,14 +7117,18 @@
       "artist": "Busta Rhymes",
       "album": "Extinction Level Event: The Final World Front",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#d98242",
+        "#f1c47c",
+        "#813e38"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケット色は未照合。サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Extinction Level Event: The Final World Front",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/busta-rhymes-everybody-rise-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/everybody-rise/322122753?i=322122766&uo=4"
     },
     {
       "id": "lord-finesse-yes-you-may-funk-flow-mix",
@@ -7055,14 +7136,18 @@
       "artist": "Lord Finesse feat. Big L",
       "album": "Party Over Here (12-inch single, B-side)",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#e9776c",
+        "#b95d55",
+        "#55504d"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケット色は未照合。サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Party Over Here, Giant 0-40406, US 1992 12-inch",
+      "paletteNote": "実物レコードのスリーブ／センターレーベルを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/lord-finesse-yes-you-may-funk-flow-mix-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://fatman.ocnk.net/product/1762"
     },
     {
       "id": "the-roots-without-a-doubt",
@@ -7070,14 +7155,18 @@
       "artist": "The Roots",
       "album": "Things Fall Apart",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#b4b4b2",
+        "#505152",
+        "#aa353b"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケット色は未照合。サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Things Fall Apart",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-roots-without-a-doubt-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/without-a-doubt-feat-lady-b/1479929235?i=1479929797&uo=4"
     },
     {
       "id": "black-moon-showdown",
@@ -7085,14 +7174,18 @@
       "artist": "Black Moon",
       "album": "War Zone",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#a0a0a3",
+        "#484c6f",
+        "#9f3d51"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
-      "status": "pending"
+      "paletteSource": "War Zone Revisited",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/black-moon-showdown-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/showdown-feat-q-tip/338737925?i=338738392&uo=4"
     },
     {
       "id": "eminem-my-name-is",
@@ -7100,14 +7193,18 @@
       "artist": "Eminem",
       "album": "The Slim Shady LP",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#404879",
+        "#9b9fc7",
+        "#d1d1df"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
-      "status": "pending"
+      "paletteSource": "The Slim Shady LP",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/eminem-my-name-is-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/my-name-is/1440835991?i=1440836185&uo=4"
     },
     {
       "id": "all-city-get-paid",
@@ -7115,14 +7212,18 @@
       "artist": "All City",
       "album": "Metropolis Gold",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#b84436",
+        "#aaa1a0",
+        "#c2ab62"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
-      "status": "pending"
+      "paletteSource": "Metropolis Gold",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/all-city-get-paid-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/get-paid/1444058486?i=1444059097&uo=4"
     },
     {
       "id": "kool-g-rap-cant-stop-the-shine",
@@ -7130,14 +7231,18 @@
       "artist": "Kool G Rap",
       "album": "Roots of Evil",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#774b38",
+        "#8e927a",
+        "#b6b4af"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
-      "status": "pending"
+      "paletteSource": "Roots of Evil",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/kool-g-rap-cant-stop-the-shine-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/cant-stop-the-shine/1487319786?i=1487319815&uo=4"
     },
     {
       "id": "nas-street-dreams",
@@ -7145,14 +7250,18 @@
       "artist": "Nas",
       "album": "It Was Written",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#b48b68",
+        "#d8c9ae",
+        "#213d32"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
-      "status": "pending"
+      "paletteSource": "It Was Written",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/nas-street-dreams-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/street-dreams/211507540?i=211508154&uo=4"
     },
     {
       "id": "jay-z-cant-knock-the-hustle",
@@ -7160,14 +7269,18 @@
       "artist": "Jay-Z",
       "album": "Reasonable Doubt",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#8e3026",
+        "#aaaaaa",
+        "#4e4e4e"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
-      "status": "pending"
+      "paletteSource": "Can't Knock The Hustle - Single",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/jay-z-cant-knock-the-hustle-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/cant-knock-the-hustle-feat-mary-j-blige/6801310823?i=6801310826&uo=4"
     },
     {
       "id": "akinyele-three",
@@ -7175,14 +7288,18 @@
       "artist": "Akinyele",
       "album": "Aktapuss - The Soundtrack",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#ae7188",
+        "#806961",
+        "#c9b7a9"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
-      "status": "pending"
+      "paletteSource": "Aktapuss - The Soundtrack",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/akinyele-three-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/three/548920069?i=548920110&uo=4"
     },
     {
       "id": "d-d-all-stars-1-2-pass-it",
@@ -7190,14 +7307,18 @@
       "artist": "D&D All-Stars",
       "album": "The D&D Project",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#939393",
+        "#404040",
+        "#8e292e"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
-      "status": "pending"
+      "paletteSource": "Hip-Hop Legacy, Vol. 8",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/d-d-all-stars-1-2-pass-it-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/1-2-pass-it-feat-dj-premier-doug-e-fresh-jeru-the/1031068618?i=1031068698&uo=4"
     },
     {
       "id": "jeru-me-or-the-papes",
@@ -7205,14 +7326,18 @@
       "artist": "Jeru the Damaja",
       "album": "Wrath of the Math",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#278eaa",
+        "#283959",
+        "#d7c772"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
-      "status": "pending"
+      "paletteSource": "Wrath of the Math",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/jeru-me-or-the-papes-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/me-or-the-papes/1443468931?i=1443469030&uo=4"
     },
     {
       "id": "pete-rock-cl-smooth-its-on-you",
@@ -7240,14 +7365,18 @@
       "artist": "O.C.",
       "album": "O-Zone Originals Part 2 EP",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#d0d0d0",
+        "#8a8a8a",
+        "#303030"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
-      "status": "pending"
+      "paletteSource": "The O-Zone Files: Rare Demos and Unreleased Tracks",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/oc-sharp-as-a-knife-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://omarcredle.bandcamp.com/track/sharp-as-a-knife"
     },
     {
       "id": "q-ball-curt-cazal-my-kinda-moves",
@@ -7255,14 +7384,18 @@
       "artist": "Q Ball & Curt Cazal",
       "album": "My Kinda Moves (12-inch single)",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#d4bb36",
+        "#a58e32",
+        "#525047"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
-      "status": "pending"
+      "paletteSource": "My Kinda Moves, VZQ0016, US 1995 12-inch",
+      "paletteNote": "実物レコードのスリーブ／センターレーベルを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/q-ball-curt-cazal-my-kinda-moves-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://fatman.ocnk.net/product/24657"
     },
     {
       "id": "lords-of-the-underground-flow-on-pete-rock-remix",
@@ -7270,14 +7403,18 @@
       "artist": "Lords of the Underground",
       "album": "Flow On (single / EP)",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#c8bda7",
+        "#705394",
+        "#3b3833"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
-      "status": "pending"
+      "paletteSource": "Flow On - EP",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/lords-of-the-underground-flow-on-pete-rock-remix-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/flow-on-pete-rock-remix/1589987900?i=1589988062&uo=4"
     },
     {
       "id": "blahzay-blahzay-danger",
@@ -7285,14 +7422,18 @@
       "artist": "Blahzay Blahzay",
       "album": "Blah Blah Blah (1996)",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#bba84a",
+        "#704b32",
+        "#6090b4"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
-      "status": "pending"
+      "paletteSource": "Blah Blah Blah",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/blahzay-blahzay-danger-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/danger/1443900624?i=1443901037&uo=4"
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
