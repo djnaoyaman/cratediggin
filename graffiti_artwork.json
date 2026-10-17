@@ -5742,6 +5742,36 @@
       "paletteSource": "サイト共通色",
       "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
       "status": "pending"
+    },
+    {
+      "id": "nas-street-dreams",
+      "title": "Street Dreams",
+      "artist": "Nas",
+      "album": "It Was Written",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "jay-z-cant-knock-the-hustle",
+      "title": "Can't Knock the Hustle",
+      "artist": "Jay-Z",
+      "album": "Reasonable Doubt",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "status": "pending"
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

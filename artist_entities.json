@@ -463,5 +463,8 @@
   },
   "All City": {
     "type": "MusicGroup"
+  },
+  "Jay-Z": {
+    "type": "Person"
   }
 }
