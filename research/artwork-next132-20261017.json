@@ -1,0 +1,352 @@
+{
+  "state": "reviewed-candidate-pending-ci-and-deployment",
+  "createdAt": "2026-10-17",
+  "baselineCommit": "d924ef2d5eef67f4fd84ea95cb00f58ef9025286",
+  "publishedTransparentBaseline": 231,
+  "candidateTransparent": 247,
+  "catalogTotal": 381,
+  "remainingAfterCandidate": 134,
+  "paletteBasis": "Official licensed digital or artist-site covers visually inspected; editorial color approximations, not sampled measurements.",
+  "assets": [
+    {
+      "id": "erick-sermon-stay-real-remix",
+      "title": "Stay Real (Remix)",
+      "artist": "Erick Sermon",
+      "palette": [
+        "#78d52a",
+        "#31451b",
+        "#eae8bc"
+      ],
+      "paletteSource": "Green Eyed Remixes",
+      "coverUrl": "https://music.apple.com/us/album/green-eyed-remixes/1374724019",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"STAY REAL (REMIX)\" and exact artist \"ERICK SERMON\". Include every word, all featured artist credits and subtitle text, no omissions or extra words. Use multiple legible lines for long credits. Wide composition with generous transparent margins. Cover-derived solid paint colors #78d52a, #31451b, #eae8bc plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/erick-sermon-stay-real-remix-alpha.webp",
+      "bytes": 646184,
+      "blobSha": "2645fee4bc5efad0b357b01360ce7127d18fe18e",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "epmd-richter-scale",
+      "title": "Richter Scale",
+      "artist": "EPMD",
+      "palette": [
+        "#526e76",
+        "#c78f72",
+        "#ebeeee"
+      ],
+      "paletteSource": "Back in Business",
+      "coverUrl": "https://music.apple.com/us/album/back-in-business/1443144972",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"RICHTER SCALE\" and exact artist \"EPMD\". Include every word, all featured artist credits and subtitle text, no omissions or extra words. Use multiple legible lines for long credits. Wide composition with generous transparent margins. Cover-derived solid paint colors #526e76, #c78f72, #ebeeee plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/epmd-richter-scale-alpha.webp",
+      "bytes": 479642,
+      "blobSha": "3f0fae9c6c48d115595c8d10ebf09d81741ee454",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "erick-sermon-stay-real-pt-2",
+      "title": "Stay Real, Pt. 2",
+      "artist": "Erick Sermon, Nature & Keith Murray",
+      "palette": [
+        "#a68a4f",
+        "#686c3f",
+        "#bc713c",
+        "#b8d934"
+      ],
+      "paletteSource": "Vernia",
+      "coverUrl": "https://music.apple.com/us/album/vernia/1524159272?uo=4",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"STAY REAL, PT. 2\" and exact artist \"ERICK SERMON, NATURE & KEITH MURRAY\". Include every word, all featured artist credits and subtitle text, no omissions or extra words. Use multiple legible lines for long credits. Wide composition with generous transparent margins. Cover-derived solid paint colors #a68a4f, #686c3f, #bc713c, #b8d934 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/erick-sermon-stay-real-pt-2-alpha.webp",
+      "bytes": 686508,
+      "blobSha": "b67a6aadc73deaa07317c7918cfc9d82e0f374d2",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "epmd-youre-a-customer",
+      "title": "You’re a Customer",
+      "artist": "EPMD",
+      "palette": [
+        "#edac21",
+        "#df6b27",
+        "#16a4c7",
+        "#78ad41"
+      ],
+      "paletteSource": "Strictly Business",
+      "coverUrl": "https://music.apple.com/us/album/strictly-business/721248274",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"YOU’RE A CUSTOMER\" and exact artist \"EPMD\". Include every word, all featured artist credits and subtitle text, no omissions or extra words. Use multiple legible lines for long credits. Wide composition with generous transparent margins. Cover-derived solid paint colors #edac21, #df6b27, #16a4c7, #78ad41 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/epmd-youre-a-customer-alpha.webp",
+      "bytes": 500282,
+      "blobSha": "c2eebbd2f177ec5ee3ac38d7b87346f6ba67e32e",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "erick-sermon-im-hot",
+      "title": "I’m Hot",
+      "artist": "Erick Sermon",
+      "palette": [
+        "#d32c27",
+        "#a6a0a0",
+        "#333031"
+      ],
+      "paletteSource": "Music",
+      "coverUrl": "https://music.apple.com/us/album/music/298429528?uo=4",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"I’M HOT\" and exact artist \"ERICK SERMON\". Include every word and all featured artist credits, no omissions or extra words. Use multiple legible lines for long credits. Wide composition with generous transparent margins. Cover-derived solid paint colors #d32c27, #a6a0a0, #333031 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/erick-sermon-im-hot-alpha.webp",
+      "bytes": 611782,
+      "blobSha": "d6353c7c0f228b929ba181da1148617f39e1ef54",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "erick-sermon-feel-it",
+      "title": "Feel It (feat. Sean Paul & Sy Scott)",
+      "artist": "Erick Sermon feat. Sean Paul & Sy Scott",
+      "palette": [
+        "#d92e1f",
+        "#a9a9a9",
+        "#292929"
+      ],
+      "paletteSource": "Incredible",
+      "coverUrl": "https://music.apple.com/us/song/1036216272",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"FEEL IT\" and exact artist \"ERICK SERMON FEAT. SEAN PAUL & SY SCOTT\". Include every word and all featured artist credits, no omissions or extra words. Use multiple legible lines for long credits. Wide composition with generous transparent margins. Cover-derived solid paint colors #d92e1f, #a9a9a9, #292929 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/erick-sermon-feel-it-alpha.webp",
+      "bytes": 557650,
+      "blobSha": "5f7b2691720993a893fc599159135a4ba3e22ba1",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "erick-sermon-focus",
+      "title": "Focus (feat. DJ Quik & Xzibit)",
+      "artist": "Erick Sermon feat. DJ Quik & Xzibit",
+      "palette": [
+        "#a2c8dd",
+        "#984237",
+        "#47718e"
+      ],
+      "paletteSource": "Def Squad Presents: Erick Onasis",
+      "coverUrl": "https://music.apple.com/za/song/1374724535",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"FOCUS\" and exact artist \"ERICK SERMON FEAT. DJ QUIK & XZIBIT\". Include every word and all featured artist credits, no omissions or extra words. Use multiple legible lines for long credits. Wide composition with generous transparent margins. Cover-derived solid paint colors #a2c8dd, #984237, #47718e plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/erick-sermon-focus-alpha.webp",
+      "bytes": 638094,
+      "blobSha": "6d8114a248b257b13c1fe03033d99dad4ec3228d",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "ugly-duckling-now-who-s-laughin",
+      "title": "Now Who’s Laughin’",
+      "artist": "Ugly Duckling",
+      "palette": [
+        "#d64c29",
+        "#d8ad3b",
+        "#30599b",
+        "#80ae39"
+      ],
+      "paletteSource": "Fresh Mode",
+      "coverUrl": "https://music.apple.com/us/album/fresh-mode/1443809789?uo=4",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"NOW WHO’S LAUGHIN’\" and exact artist \"UGLY DUCKLING\". Include every word and all featured artist credits, no omissions or extra words. Use multiple legible lines for long credits. Wide composition with generous transparent margins. Cover-derived solid paint colors #d64c29, #d8ad3b, #30599b, #80ae39 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/ugly-duckling-now-who-s-laughin-alpha.webp",
+      "bytes": 569584,
+      "blobSha": "784fce5ffdf1d30352c5238f727c72257175c048",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "big-noyd-usual-suspect",
+      "title": "Usual Suspect",
+      "artist": "Big Noyd",
+      "palette": [
+        "#ee921e",
+        "#49717e",
+        "#e8e7dc"
+      ],
+      "paletteSource": "Episodes of a Hustla",
+      "coverUrl": "https://bignoyd.bandcamp.com/album/episodes-of-a-hustla",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"USUAL SUSPECT\" and exact artist \"BIG NOYD\". Include every word and punctuation including question mark if present, no omissions or extra words. Use multiple legible lines for long credits. Wide composition with generous transparent margins. Cover-derived solid paint colors #ee921e, #49717e, #e8e7dc plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/big-noyd-usual-suspect-alpha.webp",
+      "bytes": 524334,
+      "blobSha": "41c91d4d2d8f346ed5d2b05e296074b65655a22e",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "dilated-peoples-work-the-angles",
+      "title": "Work the Angles",
+      "artist": "Dilated Peoples",
+      "palette": [
+        "#c2b793",
+        "#d5b939",
+        "#c84a3a",
+        "#8093a5"
+      ],
+      "paletteSource": "The Platform",
+      "coverUrl": "https://music.apple.com/us/album/the-platform/716434305",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"WORK THE ANGLES\" and exact artist \"DILATED PEOPLES\". Include every word and punctuation including question mark if present, no omissions or extra words. Use multiple legible lines for long credits. Wide composition with generous transparent margins. Cover-derived solid paint colors #c2b793, #d5b939, #c84a3a, #8093a5 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/dilated-peoples-work-the-angles-alpha.webp",
+      "bytes": 553696,
+      "blobSha": "fad1b6fef1ccd45ea769fcce1f05d679f223b520",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "gang-starr-the-remainz",
+      "title": "The ? Remainz",
+      "artist": "Gang Starr",
+      "palette": [
+        "#a9b2ae",
+        "#e1e5de",
+        "#535959"
+      ],
+      "paletteSource": "Full Clip: A Decade of Gang Starr",
+      "coverUrl": "https://music.apple.com/us/song/724829821",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"THE ? REMAINZ\" and exact artist \"GANG STARR\". Include every word and punctuation including question mark if present, no omissions or extra words. Use multiple legible lines for long credits. Wide composition with generous transparent margins. Cover-derived solid paint colors #a9b2ae, #e1e5de, #535959 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/gang-starr-the-remainz-alpha.webp",
+      "bytes": 552604,
+      "blobSha": "aad028d75a2ea959cebb82297a4df9132471ecda",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "gang-starr-battle",
+      "title": "Battle",
+      "artist": "Gang Starr",
+      "palette": [
+        "#d3a33c",
+        "#e1d5b6",
+        "#515153"
+      ],
+      "paletteSource": "8 Mile",
+      "coverUrl": "https://music.apple.com/us/song/1444221768",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"BATTLE\" and exact artist \"GANG STARR\". Include every word and punctuation including question mark if present, no omissions or extra words. Use multiple legible lines for long credits. Wide composition with generous transparent margins. Cover-derived solid paint colors #d3a33c, #e1d5b6, #515153 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/gang-starr-battle-alpha.webp",
+      "bytes": 597684,
+      "blobSha": "340c13390a79ccebfc2dcabde32371a90589eab9",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "gang-starr-dj-premier-in-deep-concentration",
+      "title": "DJ Premier in Deep Concentration",
+      "artist": "Gang Starr",
+      "palette": [
+        "#db2922",
+        "#5c5e59",
+        "#dededb"
+      ],
+      "paletteSource": "No More Mr. Nice Guy",
+      "coverUrl": "https://open.spotify.com/album/32d7ld2rMvAOWGngAAeq3m",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"DJ PREMIER IN DEEP CONCENTRATION\" and exact artist \"GANG STARR\". Include every word, subtitle and remix qualifier; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #db2922, #5c5e59, #dededb plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/gang-starr-dj-premier-in-deep-concentration-alpha.webp",
+      "bytes": 525632,
+      "blobSha": "da8519d33370cdbd36a6b6d7ce08e8896d1032dd",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "gang-starr-gotta-get-over-taking-loot",
+      "title": "Gotta Get Over (Taking Loot)",
+      "artist": "Gang Starr",
+      "palette": [
+        "#d52c79",
+        "#567db4",
+        "#aa9e88"
+      ],
+      "paletteSource": "Trespass",
+      "coverUrl": "https://music.apple.com/us/album/trespass-music-from-the-motion-picture/423051473",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"GOTTA GET OVER (TAKING LOOT)\" and exact artist \"GANG STARR\". Include every word, subtitle and remix qualifier; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #d52c79, #567db4, #aa9e88 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/gang-starr-gotta-get-over-taking-loot-alpha.webp",
+      "bytes": 540260,
+      "blobSha": "4d2ceb8e0702ce34ff840cb21f60db9820ef7459",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "gang-starr-step-in-the-arena",
+      "title": "Step in the Arena",
+      "artist": "Gang Starr",
+      "palette": [
+        "#c6a650",
+        "#e9ddb0",
+        "#9a7a36"
+      ],
+      "paletteSource": "Step in the Arena",
+      "coverUrl": "https://music.apple.com/us/album/just-to-get-a-rep/723665537?i=723665846",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"STEP IN THE ARENA\" and exact artist \"GANG STARR\". Include every word, subtitle and remix qualifier; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #c6a650, #e9ddb0, #9a7a36 plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/gang-starr-step-in-the-arena-alpha.webp",
+      "bytes": 490112,
+      "blobSha": "1888e08a6618ba2c17ad553cce049145c2c97688",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "dj-shadow-high-noon",
+      "title": "High Noon",
+      "artist": "DJ Shadow",
+      "palette": [
+        "#ad7b60",
+        "#d6404e",
+        "#e8e5df"
+      ],
+      "paletteSource": "High Noon",
+      "coverUrl": "https://music.apple.com/us/song/1660564858",
+      "prompt": "Create original transparent graffiti artwork. Attached Mass Appeal is STYLE ONLY reference for sharp angular interlocking 90s lettering, bold black contours, opaque white interiors, distinctive letter skeleton, dry brush, drips and isolated paint splatters. ONLY exact title \"HIGH NOON\" and exact artist \"DJ SHADOW\". Include every word, subtitle and remix qualifier; no omissions or extra words. Use multiple legible lines for long titles. Wide composition with generous transparent margins. Cover-derived solid paint colors #ad7b60, #d6404e, #e8e5df plus opaque white and black. No glow. No album imagery, people or logos. TRUE transparent alpha cutout: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, glow, halo, shadow or signature. Fully opaque white paint in letters. Save project asset.",
+      "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Specific digital presentation at cited URL; not claimed original first pressing",
+      "image": "assets/graffiti/dj-shadow-high-noon-alpha.webp",
+      "bytes": 572948,
+      "blobSha": "fc899f8b0cf9adb91d9e427c70533d7d7f86f443",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    }
+  ]
+}
