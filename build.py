@@ -46,6 +46,19 @@ for directory, suffixes in ((DIST/'songs', {'.html', '.md'}), (DIST/'og', {'.png
         for stale in directory.iterdir():
             if stale.is_file() and stale.suffix in suffixes and stale.stem not in ids:
                 stale.unlink()
+# Completed artwork is opt-in per recording; no pending track is labeled ready.
+import shutil
+artwork_data=json.loads((ROOT/'graffiti_artwork.json').read_text(encoding='utf-8'))
+artwork_by_id={a['id']:a for a in artwork_data['tracks']}
+for t in tracks:
+    piece=artwork_by_id.get(t['id'],{})
+    if piece.get('status')=='ready':
+        relative=piece['image'];source=ROOT/relative
+        assert source.is_file() and piece.get('textReviewed') and piece.get('paletteReviewed'),'Incomplete artwork: '+t['id']
+        assert piece['palette']==t['art']['palette'] and piece['paletteSource']==t['art']['paletteSource'],'Artwork palette drift: '+t['id']
+        target=DIST/relative;target.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(source,target)
+        t['art']['image']=relative
+
 for t in tracks:
     t['deepdives']=deepdive_map.get((t['artist'].casefold(),t['title'].casefold()),[])
     t['researchedSamples']=sample_projection(t)
