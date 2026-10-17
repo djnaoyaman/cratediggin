@@ -1,0 +1,249 @@
+{
+  "note": "Recovery assets; not newly validated or deployed",
+  "main": "05a8ecf94db85092ffa341f0053ae24844225bb2",
+  "assets": [
+    {
+      "id": "showbiz-a-g-next-level-nyte-time-mix",
+      "sha": "f2e41da94976f838c641e2afe20f5ad1d54d9297",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "pending",
+      "currentManifestImage": null,
+      "savedPath": "handoff/dot-20261017/unpublished/showbiz-a-g-next-level-nyte-time-mix-alpha.webp"
+    },
+    {
+      "id": "public-enemy-can-t-truss-it",
+      "sha": "78ea772d0512ab24609e6d8da17faedd5e7cc90b",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "pending",
+      "currentManifestImage": null,
+      "savedPath": "handoff/dot-20261017/unpublished/public-enemy-can-t-truss-it-alpha.webp"
+    },
+    {
+      "id": "large-professor-i-juswanna-chill",
+      "sha": "03aa95a2578a805ff8bc4fe1d37f63982c62154b",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "pending",
+      "currentManifestImage": null,
+      "savedPath": "handoff/dot-20261017/unpublished/large-professor-i-juswanna-chill-alpha.webp"
+    },
+    {
+      "id": "all-city-productions-unsolved-mysterme",
+      "sha": "76b9699308f0744d3e3fccdd87d0da7014728035",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "pending",
+      "currentManifestImage": null,
+      "savedPath": "handoff/dot-20261017/unpublished/all-city-productions-unsolved-mysterme-alpha.webp"
+    },
+    {
+      "id": "the-notorious-b-i-g-big-poppa",
+      "sha": "d343a4837ec143b97c4a5ced101c113ad76085d7",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "pending",
+      "currentManifestImage": null,
+      "savedPath": "handoff/dot-20261017/unpublished/the-notorious-b-i-g-big-poppa-alpha.webp"
+    },
+    {
+      "id": "gza-liquid-swords",
+      "sha": "9a2698f9a2f818cb26e4a375cb509cec28e5cfce",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "pending",
+      "currentManifestImage": null,
+      "savedPath": "handoff/dot-20261017/unpublished/gza-liquid-swords-alpha.webp"
+    },
+    {
+      "id": "black-sheep-the-choice-is-yours-revisited",
+      "sha": "878e5b3e90a025062ff5d08d58284c3bf86bbdaa",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "pending",
+      "currentManifestImage": null,
+      "savedPath": "handoff/dot-20261017/unpublished/black-sheep-the-choice-is-yours-revisited-alpha.webp"
+    },
+    {
+      "id": "black-moon-who-got-da-props",
+      "sha": "2f7421ec6f683114a2e39ba81342b787a9d361f4",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "ready",
+      "currentManifestImage": "assets/graffiti/black-moon-who-got-da-props-alpha.webp",
+      "savedPath": "handoff/dot-20261017/unpublished/black-moon-who-got-da-props-alpha.webp"
+    },
+    {
+      "id": "public-enemy-shut-em-down-pe-te-rock-mixx",
+      "sha": "ef256c652323b9e183b6ce4841d088351d754986",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "pending",
+      "currentManifestImage": null,
+      "savedPath": "handoff/dot-20261017/unpublished/public-enemy-shut-em-down-pe-te-rock-mixx-alpha.webp"
+    },
+    {
+      "id": "public-enemy-welcome-to-the-terrordome",
+      "sha": "e9aa05cd3619b807c28f02c5a99ec80a1de8aba1",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "pending",
+      "currentManifestImage": null,
+      "savedPath": "handoff/dot-20261017/unpublished/public-enemy-welcome-to-the-terrordome-alpha.webp"
+    },
+    {
+      "id": "main-source-looking-at-the-front-door",
+      "sha": "3fcf8ea97cd120299fb2284e0552fa4a9d890554",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "pending",
+      "currentManifestImage": null,
+      "savedPath": "handoff/dot-20261017/unpublished/main-source-looking-at-the-front-door-alpha.webp"
+    },
+    {
+      "id": "craig-mack-flava-in-ya-ear",
+      "sha": "b08feb9b4b7ddc75c068bfa8f81e12329b2419a9",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "pending",
+      "currentManifestImage": null,
+      "savedPath": "handoff/dot-20261017/unpublished/craig-mack-flava-in-ya-ear-alpha.webp"
+    },
+    {
+      "id": "raekwon-ice-cream",
+      "sha": "321650487ff2e89b9725e8a2c30c5c9eff08fde4",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "pending",
+      "currentManifestImage": null,
+      "savedPath": "handoff/dot-20261017/unpublished/raekwon-ice-cream-alpha.webp"
+    },
+    {
+      "id": "brand-nubian-slow-down",
+      "sha": "530f9e2960b740dc16d0bdf174689c1b4d1b0c27",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "pending",
+      "currentManifestImage": null,
+      "savedPath": "handoff/dot-20261017/unpublished/brand-nubian-slow-down-alpha.webp"
+    },
+    {
+      "id": "black-moon-i-got-cha-opin-remix",
+      "sha": "7b259a83f58f82326b50b14a21d1419046cffe95",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "ready",
+      "currentManifestImage": "assets/graffiti/black-moon-i-got-cha-opin-remix-alpha.webp",
+      "savedPath": "handoff/dot-20261017/unpublished/black-moon-i-got-cha-opin-remix-alpha.webp"
+    },
+    {
+      "id": "public-enemy-don-t-believe-the-hype",
+      "sha": "93569cdc9c1104f6fd80a65beb6db1a1cc990b06",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "ready",
+      "currentManifestImage": "assets/graffiti/public-enemy-don-t-believe-the-hype-alpha.webp",
+      "savedPath": "handoff/dot-20261017/unpublished/public-enemy-don-t-believe-the-hype-alpha.webp"
+    },
+    {
+      "id": "nas-the-world-is-yours",
+      "sha": "2b28cd07864f17eabb68c3348e5d3567ea349479",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "ready",
+      "currentManifestImage": "assets/graffiti/nas-the-world-is-yours-alpha.webp",
+      "savedPath": "handoff/dot-20261017/unpublished/nas-the-world-is-yours-alpha.webp"
+    },
+    {
+      "id": "main-source-just-hangin-out",
+      "sha": "00d87b3ed0a82941cfa432f08301e86734342a32",
+      "shaValid": true,
+      "review": "palette-correction-required",
+      "currentManifestStatus": "ready",
+      "currentManifestImage": "assets/graffiti/main-source-just-hangin-out-alpha.webp",
+      "savedPath": "handoff/dot-20261017/unpublished/main-source-just-hangin-out-alpha.webp"
+    },
+    {
+      "id": "mobb-deep-shook-ones-pt-ii",
+      "sha": "c28f12429a095df62083687f322ff40a7947b438",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "ready",
+      "currentManifestImage": "assets/graffiti/mobb-deep-shook-ones-pt-ii-alpha.webp",
+      "savedPath": "handoff/dot-20261017/unpublished/mobb-deep-shook-ones-pt-ii-alpha.webp"
+    },
+    {
+      "id": "ol-dirty-bastard-shimmy-shimmy-ya",
+      "sha": "93a3d9ea0d9b66098a0e4a6a1639537d015ba230",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "ready",
+      "currentManifestImage": "assets/graffiti/ol-dirty-bastard-shimmy-shimmy-ya-alpha.webp",
+      "savedPath": "handoff/dot-20261017/unpublished/ol-dirty-bastard-shimmy-shimmy-ya-alpha.webp"
+    },
+    {
+      "id": "brand-nubian-all-for-one",
+      "sha": "b35f667a5442b4a4a7d4b6dd5e90f82e051040f1",
+      "shaValid": true,
+      "review": "palette-correction-required",
+      "currentManifestStatus": "ready",
+      "currentManifestImage": "assets/graffiti/brand-nubian-all-for-one-alpha.webp",
+      "savedPath": "handoff/dot-20261017/unpublished/brand-nubian-all-for-one-alpha.webp"
+    },
+    {
+      "id": "group-home-livin-proof",
+      "sha": "0855407ebeeccac5f52e9248a2c6535fe3326dc1",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "pending",
+      "currentManifestImage": null,
+      "savedPath": "handoff/dot-20261017/unpublished/group-home-livin-proof-alpha.webp"
+    },
+    {
+      "id": "public-enemy-brothers-gonna-work-it-out",
+      "sha": "f62c1f1da9609d99706d7857cf48ef06d26e37bc",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "pending",
+      "currentManifestImage": null,
+      "savedPath": "handoff/dot-20261017/unpublished/public-enemy-brothers-gonna-work-it-out-alpha.webp"
+    },
+    {
+      "id": "nas-represent",
+      "sha": "cb0d35b01e8c76af030536f224ae4853ce423a3d",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "pending",
+      "currentManifestImage": null,
+      "savedPath": "handoff/dot-20261017/unpublished/nas-represent-alpha.webp"
+    },
+    {
+      "id": "the-notorious-b-i-g-unbelievable",
+      "sha": "8b4bf6d1d7e047c068220a4db64c300d4eb8168d",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "pending",
+      "currentManifestImage": null,
+      "savedPath": "handoff/dot-20261017/unpublished/the-notorious-b-i-g-unbelievable-alpha.webp"
+    },
+    {
+      "id": "wu-tang-clan-protect-ya-neck",
+      "sha": "efdd01005821e0760aaccce5dd016a74fdc28517",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "pending",
+      "currentManifestImage": null,
+      "savedPath": "handoff/dot-20261017/unpublished/wu-tang-clan-protect-ya-neck-alpha.webp"
+    },
+    {
+      "id": "digable-planets-9th-wonder-blackitolism",
+      "sha": "c1a9e8af1957c7e166eeb888a877cf47ec3a16f8",
+      "shaValid": true,
+      "review": "historically-reviewed-revalidate-before-publish",
+      "currentManifestStatus": "pending",
+      "currentManifestImage": null,
+      "savedPath": "handoff/dot-20261017/unpublished/digable-planets-9th-wonder-blackitolism-alpha.webp"
+    }
+  ]
+}
