@@ -6426,14 +6426,18 @@
       "artist": "Boogiemonsters",
       "album": "Riders of the Storm: The Underwater Album",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#a39326",
+        "#b32235",
+        "#278291"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Riders of the Storm: The Underwater Album",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/boogiemonsters-strange-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/gb/album/strange/1443586144?i=1443586904&uo=4"
     },
     {
       "id": "yaggfu-front-left-field",
@@ -6441,14 +6445,18 @@
       "artist": "Yaggfu Front",
       "album": "Left Field / Action Packed Adventure!",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#d8b838",
+        "#49334b",
+        "#b1afb1"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Action Packed Adventure!",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/yaggfu-front-left-field-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://90stapes.bandcamp.com/album/action-packed-adventure"
     },
     {
       "id": "grand-puba-amazing",
@@ -6456,14 +6464,18 @@
       "artist": "Grand Puba",
       "album": "2000",
       "palette": [
-        "#9d704d",
-        "#e5d0ad",
-        "#85949a",
-        "#2c2a29"
+        "#acacb6",
+        "#343541",
+        "#26473d"
       ],
       "paletteSource": "2000",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/grand-puba-amazing-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1872806605"
     },
     {
       "id": "redman-time-4-sum-aksion",
@@ -6471,14 +6483,18 @@
       "artist": "Redman",
       "album": "Whut? Thee Album",
       "palette": [
-        "#a3473b",
-        "#e6d8c3",
-        "#8d8273",
-        "#312a24"
+        "#c61d2e",
+        "#242020",
+        "#a94430"
       ],
       "paletteSource": "Whut? Thee Album",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/redman-time-4-sum-aksion-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/time-4-sum-aksion/1440921516"
     },
     {
       "id": "k-solo-letterman",
@@ -6486,14 +6502,18 @@
       "artist": "K-Solo",
       "album": "Time's Up",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#aabc29",
+        "#28354d",
+        "#9d3f12"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Time's Up",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/k-solo-letterman-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/letterman/1239822838?i=1239823188&uo=4"
     },
     {
       "id": "krs-one-i-can-t-wake-up",
@@ -6501,14 +6521,18 @@
       "artist": "KRS-One",
       "album": "Return of the Boom Bap",
       "palette": [
-        "#ad3a32",
-        "#e5d0b8",
-        "#837660",
-        "#29251f"
+        "#d98b36",
+        "#286b9c",
+        "#b3cbd1"
       ],
       "paletteSource": "Return of the Boom Bap",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/krs-one-i-can-t-wake-up-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/i-cant-wake-up/267251596?i=267251928&uo=4"
     },
     {
       "id": "gang-starr-now-you-re-mine",
@@ -6536,14 +6560,18 @@
       "artist": "DJ Jazzy Jeff & The Fresh Prince",
       "album": "Code Red",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#b8303e",
+        "#378e9b",
+        "#cbb33d"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Code Red",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/dj-jazzy-jeff-the-fresh-prince-somethin-like-dis-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/somethin-like-dis/304746838?i=304746841&uo=4"
     },
     {
       "id": "doug-e-fresh-bounce",
@@ -6566,14 +6594,18 @@
       "artist": "Das EFX",
       "album": "Dead Serious",
       "palette": [
-        "#c28438",
-        "#e3d9ad",
-        "#778755",
-        "#2a2c20"
+        "#a3a527",
+        "#633879",
+        "#204a55"
       ],
       "paletteSource": "Dead Serious",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/das-efx-looseys-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/looseys/305123831?i=305124077&uo=4"
     },
     {
       "id": "the-pharcyde-officer",
@@ -6601,14 +6633,18 @@
       "artist": "Original Flavor",
       "album": "All That / Beyond Flavor",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#e69442",
+        "#286b99",
+        "#393939"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Beyond Flavor",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/original-flavor-all-that-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/all-that/1765470925?i=1765472069&uo=4"
     },
     {
       "id": "dred-scott-nutin-ta-lose",
@@ -6616,14 +6652,18 @@
       "artist": "Dred Scott",
       "album": "Nutin' Ta Lose / Breakin' Combs",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#d4ba71",
+        "#29472d",
+        "#909b75"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Breakin' Combs",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/dred-scott-nutin-ta-lose-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/nutin-ta-lose/1861582652?i=1861582665&uo=4"
     },
     {
       "id": "black-maddness-wild-brooklyn-bandits",
@@ -6646,14 +6686,18 @@
       "artist": "Queen Latifah",
       "album": "Nature of a Sista'",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#c38f5c",
+        "#612e46",
+        "#ca4359"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Nature of a Sista'",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/queen-latifah-latifah-s-had-it-up-2-here-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/latifahs-had-it-up-to-here/1604629125?i=1604629126&uo=4"
     },
     {
       "id": "n-w-a-express-yourself",
@@ -6661,14 +6705,18 @@
       "artist": "N.W.A.",
       "album": "Straight Outta Compton",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#dc293f",
+        "#a7d5e6",
+        "#6d5650"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Straight Outta Compton",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/n-w-a-express-yourself-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/express-yourself/1440816032?i=1440816265&uo=4"
     },
     {
       "id": "cypress-hill-the-phuncky-feel-one",
@@ -6676,14 +6724,18 @@
       "artist": "Cypress Hill",
       "album": "Cypress Hill",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#ae243b",
+        "#9b8880",
+        "#514c4a"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteSource": "Cypress Hill",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/cypress-hill-the-phuncky-feel-one-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/192755245"
     },
     {
       "id": "double-xx-posse-we-got-it-goin-on",
@@ -6691,14 +6743,18 @@
       "artist": "Double XX Posse",
       "album": "Put Ya Boots On",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#c66829",
+        "#253359",
+        "#526a31"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "Put Ya Boots On",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/double-xx-posse-we-got-it-goin-on-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/we-got-it-goin-on/1424960466?i=1424961976"
     },
     {
       "id": "chubb-rock-treat-em-right",
@@ -6706,14 +6762,18 @@
       "artist": "Chubb Rock",
       "album": "Treat 'Em Right / The One",
       "palette": [
-        "#006CB6",
-        "#ffffff",
-        "#111111",
-        "#9ba2a9"
+        "#d92e30",
+        "#e4c537",
+        "#185832"
       ],
-      "paletteSource": "サイト共通色",
-      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
-      "status": "pending"
+      "paletteSource": "The One",
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/chubb-rock-treat-em-right-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/treat-em-right/40283950?i=40283958&uo=4"
     },
     {
       "id": "epmd-it-s-time-2-party",
@@ -6721,14 +6781,18 @@
       "artist": "EPMD",
       "album": "Unfinished Business",
       "palette": [
-        "#ba3437",
-        "#e9ddcb",
-        "#7d7a6d",
-        "#292524"
+        "#5687ba",
+        "#a2a2ab",
+        "#d5b451"
       ],
       "paletteSource": "Unfinished Business",
-      "paletteNote": "既存の同一アルバム設定を参照。",
-      "status": "pending"
+      "paletteNote": "配信ジャケットまたは実物レコード資料を2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/epmd-it-s-time-2-party-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://epmddefsquad.bandcamp.com/album/unfinished-business"
     },
     {
       "id": "boogie-down-productions-you-must-learn",
