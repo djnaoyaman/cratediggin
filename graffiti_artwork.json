@@ -7937,6 +7937,166 @@
       "paletteReviewed": true,
       "transparent": true,
       "coverReference": "https://audiomack.com/handsome-boy-modeling-school/song/if-it-wasnt-for-you-1"
+    },
+    {
+      "id": "cipher-complete-bring-hip-hop-back",
+      "title": "Bring Hip Hop Back",
+      "artist": "Cipher Complete",
+      "album": "Lyricist Lounge, Vol. 1",
+      "palette": [
+        "#f2c82e",
+        "#345ba0",
+        "#dc4133",
+        "#111112"
+      ],
+      "paletteSource": "https://monsterrobot.party/release/399643/",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/cipher-complete-bring-hip-hop-back-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://monsterrobot.party/release/399643/"
+    },
+    {
+      "id": "common-like-they-used-to-say",
+      "title": "Like They Used to Say",
+      "artist": "Common",
+      "album": "One-Nine-Nine-Nine / Like They Used to Say",
+      "palette": [
+        "#f0c33c",
+        "#c94024",
+        "#38505a",
+        "#d0c6af"
+      ],
+      "paletteSource": "https://www.sourcerecords.jp/product/10580",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/common-like-they-used-to-say-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://www.sourcerecords.jp/product/10580"
+    },
+    {
+      "id": "black-eyed-peas-que-dices",
+      "title": "Que Dices?",
+      "artist": "Black Eyed Peas",
+      "album": "Behind the Front",
+      "palette": [
+        "#bb7944",
+        "#d5bb68",
+        "#0a0b09",
+        "#f5e8ca"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/behind-the-front/1445663231",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/black-eyed-peas-que-dices-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/behind-the-front/1445663231"
+    },
+    {
+      "id": "shadez-of-brooklyn-change",
+      "title": "Change",
+      "artist": "Shadez Of Brooklyn",
+      "album": "Change / When It Rains It Pours (Survival Warz), Pandemonium Wrekordz",
+      "palette": [
+        "#f05c43",
+        "#271e21",
+        "#b33a32",
+        "#090909"
+      ],
+      "paletteSource": "https://www.thegoodoldayz.com/album/change-when-it-rains-it-pours/30370.html",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/shadez-of-brooklyn-change-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://www.thegoodoldayz.com/album/change-when-it-rains-it-pours/30370.html"
+    },
+    {
+      "id": "brand-nubian-love-vs-hate",
+      "title": "Love Vs. Hate",
+      "artist": "Brand Nubian",
+      "album": "Foundation",
+      "palette": [
+        "#a78a46",
+        "#4b2919",
+        "#e7d29b",
+        "#857344"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/foundation/298562204",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/brand-nubian-love-vs-hate-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/foundation/298562204"
+    },
+    {
+      "id": "trends-of-culture-top-ten-interlude",
+      "title": "Top Ten Interlude",
+      "artist": "Trends Of Culture",
+      "album": "Trendz...",
+      "palette": [
+        "#633e89",
+        "#e63f28",
+        "#b6b8c5",
+        "#0e1411"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/trendz/1443475604",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/trends-of-culture-top-ten-interlude-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/trendz/1443475604"
+    },
+    {
+      "id": "dangerdoom-mince-meat",
+      "title": "Mince Meat",
+      "artist": "DANGERDOOM",
+      "album": "The Mouse and the Mask",
+      "palette": [
+        "#ef6948",
+        "#c8c76a",
+        "#767a76",
+        "#171717"
+      ],
+      "paletteSource": "https://dangerdoom.bandcamp.com/track/mince-meat",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/dangerdoom-mince-meat-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://dangerdoom.bandcamp.com/track/mince-meat"
+    },
+    {
+      "id": "the-grouch-eligh-everafter",
+      "title": "Everafter",
+      "artist": "The Grouch & Eligh",
+      "album": "No More Greener Grasses",
+      "palette": [
+        "#e2e74b",
+        "#779b47",
+        "#f3f2dd",
+        "#121810"
+      ],
+      "paletteSource": "https://audiomack.com/the-grouch-eligh/song/everafter",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-grouch-eligh-everafter-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://audiomack.com/the-grouch-eligh/song/everafter"
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
