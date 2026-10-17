@@ -20,7 +20,7 @@
   const shade=t.createRadialGradient(W*.5,H*.43,W*.18,W*.5,H*.43,Math.hypot(W,H)*.6);shade.addColorStop(0,'#00000000');shade.addColorStop(1,'#27251d28');t.fillStyle=shade;t.fillRect(0,0,W,H);
  }
  function prepare(song){
-  current=song;const semantic=document.getElementById('artwork-image');if(song.art.image){semantic.alt=song.art.alt||song.title+' — '+song.artist+'｜CRATE DIGGIN｜DJ Naoyaman';semantic.src=artworkURL(song);semantic.hidden=false}else{semantic.hidden=true;semantic.alt='';semantic.removeAttribute('src')}const generated=artwork(song);document.getElementById('art-view').classList.toggle('image-art',!!generated);if(generated){prepareWall(song);paint=null;return;}const r=rand(song.art.seed),W=width,H=height;
+  current=song;const semantic=document.getElementById('artwork-image');if(song.art.image){semantic.alt=song.art.alt||song.title+' — '+song.artist+'｜CRATE DIGGIN｜DJ Naoyaman';semantic.loading='eager';semantic.src=artworkURL(song);semantic.hidden=false}else{semantic.hidden=true;semantic.alt='';semantic.removeAttribute('src')}const generated=artwork(song);document.getElementById('art-view').classList.toggle('image-art',!!generated);if(generated){prepareWall(song);paint=null;return;}const r=rand(song.art.seed),W=width,H=height;
   const colors=song.art.palette||['#006cb6','#ffffff','#60baff','#17212a'];
   const [primary,secondary,accent,bg]=colors;
   const chicago=song.art.profile==='chicago-piano',queens=song.art.profile==='queens-throwup';const la=song.art.profile==='la-open-sky';const oak=song.art.profile==='oakland-handstyle',newark=song.art.profile==='newark-industrial',brooklyn=song.art.profile==='brooklyn-brick';
