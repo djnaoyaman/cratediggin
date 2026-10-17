@@ -1,0 +1,5779 @@
+{
+  "qualityReference": "User-approved Mass Appeal preview, 2026-10-17",
+  "quality": "Original interlocking graffiti letterforms, ink edge texture, restrained splatter, negative space, accurate track and artist lettering",
+  "paletteRule": "Use the recorded cover-derived palette for each work. Do not apply one shared blue accent across the catalog.",
+  "paletteInterpretation": "paletteSource records the artwork/album reference; paletteNote distinguishes an editorial interpretation from sampled pixel colors.",
+  "review": [
+    "Check track and artist spelling",
+    "Check crop and reading at small screen sizes",
+    "Check cover-derived palette matches source",
+    "Check unique composition and sufficient paper margin"
+  ],
+  "tracks": [
+    {
+      "id": "can-i-kick-it",
+      "title": "Can I Kick It?",
+      "artist": "A Tribe Called Quest",
+      "album": "People’s Instinctive Travels and the Paths of Rhythm",
+      "palette": [
+        "#ed443b",
+        "#f5cf39",
+        "#39a579",
+        "#292529"
+      ],
+      "paletteSource": "People’s Instinctive Travels and the Paths of Rhythm",
+      "paletteNote": "収録アルバムのジャケットを参照した編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/can-i-kick-it-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "93-til-infinity",
+      "title": "93 ’til Infinity",
+      "artist": "Souls of Mischief",
+      "album": "93 ’til Infinity",
+      "palette": [
+        "#d6bb69",
+        "#91ada0",
+        "#efe4c7",
+        "#25372f"
+      ],
+      "paletteSource": "93 ’til Infinity",
+      "paletteNote": "収録アルバムのジャケットを参照した編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/93-til-infinity-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "in-the-house",
+      "title": "In the House",
+      "artist": "Pete Rock & C.L. Smooth",
+      "album": "The Main Ingredient",
+      "palette": [
+        "#ce9f40",
+        "#f3e3b4",
+        "#98705a",
+        "#211c19"
+      ],
+      "paletteSource": "The Main Ingredient",
+      "paletteNote": "収録アルバムのジャケットを参照した編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/in-the-house.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "what-im-after",
+      "title": "What I’m After",
+      "artist": "Lords of the Underground",
+      "album": "Keepers of the Funk",
+      "palette": [
+        "#b58343",
+        "#e4d2a2",
+        "#bd4c37",
+        "#252622"
+      ],
+      "paletteSource": "Keepers of the Funk",
+      "paletteNote": "ジャケットを参照した編集上の配色。厳密な抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/what-im-after.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "bucktown",
+      "title": "Bucktown",
+      "artist": "Smif-N-Wessun",
+      "album": "Dah Shinin’",
+      "palette": [
+        "#aa713c",
+        "#ebd798",
+        "#518070",
+        "#201b16"
+      ],
+      "paletteSource": "Dah Shinin’",
+      "paletteNote": "ジャケットを参照した編集上の配色。厳密な抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/bucktown.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "runnin",
+      "title": "Runnin’",
+      "artist": "The Pharcyde",
+      "album": "Labcabincalifornia",
+      "palette": [
+        "#a59b56",
+        "#eadcaf",
+        "#854e35",
+        "#29291f"
+      ],
+      "paletteSource": "Labcabincalifornia",
+      "paletteNote": "ジャケットの土と草木の色を参照した編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/runnin.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "resurrection",
+      "title": "Resurrection",
+      "artist": "Common",
+      "album": "Resurrection",
+      "palette": [
+        "#557d96",
+        "#e5e1d8",
+        "#bd9865",
+        "#17232e"
+      ],
+      "paletteSource": "Resurrection",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/resurrection.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "mass-appeal",
+      "title": "Mass Appeal",
+      "artist": "Gang Starr",
+      "album": "Hard to Earn",
+      "palette": [
+        "#bf5737",
+        "#d4b66f",
+        "#ece5cc",
+        "#231f1c"
+      ],
+      "paletteSource": "Hard to Earn",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/mass-appeal-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "props-over-here",
+      "title": "Props Over Here",
+      "artist": "The Beatnuts",
+      "album": "The Beatnuts（Street Level）",
+      "palette": [
+        "#ba3638",
+        "#ece1bf",
+        "#d5ae41",
+        "#211e20"
+      ],
+      "paletteSource": "The Beatnuts（Street Level）",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/props-over-here.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "times-up",
+      "title": "Time’s Up",
+      "artist": "O.C.",
+      "album": "Word...Life",
+      "palette": [
+        "#b37543",
+        "#ead5a2",
+        "#60704c",
+        "#24211b"
+      ],
+      "paletteSource": "Word...Life",
+      "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/times-up.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "the-lump-lump",
+      "title": "The Lump Lump",
+      "artist": "Sadat X",
+      "album": "Wild Cowboys",
+      "palette": [
+        "#b77c42",
+        "#e4cf9b",
+        "#60766b",
+        "#29231e"
+      ],
+      "paletteSource": "Wild Cowboys",
+      "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-lump-lump.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "put-it-on",
+      "title": "Put It On",
+      "artist": "Big L",
+      "album": "Lifestylez ov da Poor & Dangerous",
+      "palette": [
+        "#78907c",
+        "#e6d8b8",
+        "#ad6750",
+        "#282a26"
+      ],
+      "paletteSource": "Lifestylez ov da Poor & Dangerous",
+      "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/put-it-on.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "the-shit-is-real",
+      "title": "The Shit Is Real (DJ Premier Remix)",
+      "artist": "Fat Joe",
+      "album": "Jealous One’s Envy",
+      "palette": [
+        "#7b7880",
+        "#dad5c8",
+        "#ab8555",
+        "#242228"
+      ],
+      "paletteSource": "Jealous One’s Envy",
+      "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-shit-is-real.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "a-tribe-called-quest-electric-relaxation",
+      "title": "Electric Relaxation",
+      "artist": "A Tribe Called Quest",
+      "album": "Midnight Marauders",
+      "palette": [
+        "#d93433",
+        "#e4cc54",
+        "#35926c",
+        "#222126"
+      ],
+      "paletteSource": "Midnight Marauders",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-electric-relaxation.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "a-tribe-called-quest-check-the-rhime",
+      "title": "Check the Rhime",
+      "artist": "A Tribe Called Quest",
+      "album": "The Low End Theory",
+      "palette": [
+        "#c02c32",
+        "#75a550",
+        "#f1d84c",
+        "#151718"
+      ],
+      "paletteSource": "The Low End Theory",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-check-the-rhime.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "a-tribe-called-quest-award-tour",
+      "title": "Award Tour",
+      "artist": "A Tribe Called Quest",
+      "album": "Midnight Marauders",
+      "palette": [
+        "#d93433",
+        "#e4cc54",
+        "#35926c",
+        "#222126"
+      ],
+      "paletteSource": "Midnight Marauders",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-award-tour.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "a-tribe-called-quest-scenario",
+      "title": "Scenario",
+      "artist": "A Tribe Called Quest",
+      "album": "The Low End Theory",
+      "palette": [
+        "#c02c32",
+        "#75a550",
+        "#f1d84c",
+        "#151718"
+      ],
+      "paletteSource": "The Low End Theory",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-scenario.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "a-tribe-called-quest-bonita-applebum",
+      "title": "Bonita Applebum",
+      "artist": "A Tribe Called Quest",
+      "album": "People's Instinctive Travels and the Paths of Rhythm",
+      "palette": [
+        "#ed443b",
+        "#f5cf39",
+        "#39a579",
+        "#292529"
+      ],
+      "paletteSource": "People's Instinctive Travels and the Paths of Rhythm",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-bonita-applebum.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "a-tribe-called-quest-jazz-we-ve-got",
+      "title": "Jazz (We've Got)",
+      "artist": "A Tribe Called Quest",
+      "album": "The Low End Theory",
+      "palette": [
+        "#c02c32",
+        "#75a550",
+        "#f1d84c",
+        "#151718"
+      ],
+      "paletteSource": "The Low End Theory",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-jazz-we-ve-got.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "pete-rock-c-l-smooth-they-reminisce-over-you-t-r-o-y",
+      "title": "They Reminisce Over You (T.R.O.Y.)",
+      "artist": "Pete Rock & C.L. Smooth",
+      "album": "Mecca and the Soul Brother",
+      "palette": [
+        "#ad7f52",
+        "#e7d8b8",
+        "#608e6f",
+        "#302b26"
+      ],
+      "paletteSource": "Mecca and the Soul Brother",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/pete-rock-c-l-smooth-they-reminisce-over-you-t-r-o-y.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "pete-rock-c-l-smooth-straighten-it-out",
+      "title": "Straighten It Out",
+      "artist": "Pete Rock & C.L. Smooth",
+      "album": "Mecca and the Soul Brother",
+      "palette": [
+        "#ad7f52",
+        "#e7d8b8",
+        "#608e6f",
+        "#302b26"
+      ],
+      "paletteSource": "Mecca and the Soul Brother",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/pete-rock-c-l-smooth-straighten-it-out.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "pete-rock-c-l-smooth-take-you-there",
+      "title": "Take You There",
+      "artist": "Pete Rock & C.L. Smooth",
+      "album": "The Main Ingredient",
+      "palette": [
+        "#ce9f40",
+        "#f3e3b4",
+        "#98705a",
+        "#211c19"
+      ],
+      "paletteSource": "The Main Ingredient",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/pete-rock-c-l-smooth-take-you-there.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "pete-rock-c-l-smooth-i-get-physical",
+      "title": "I Get Physical",
+      "artist": "Pete Rock & C.L. Smooth",
+      "album": "The Main Ingredient",
+      "palette": [
+        "#ce9f40",
+        "#f3e3b4",
+        "#98705a",
+        "#211c19"
+      ],
+      "paletteSource": "The Main Ingredient",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/pete-rock-c-l-smooth-i-get-physical.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "ini-fakin-jax",
+      "title": "Fakin’ Jax",
+      "artist": "InI feat. Pete Rock",
+      "album": "Fakin Jax / Center of Attention",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "souls-of-mischief-that-s-when-ya-lost",
+      "title": "That's When Ya Lost",
+      "artist": "Souls of Mischief",
+      "album": "93 'til Infinity",
+      "palette": [
+        "#d6bb69",
+        "#91ada0",
+        "#efe4c7",
+        "#25372f"
+      ],
+      "paletteSource": "93 'til Infinity",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/souls-of-mischief-that-s-when-ya-lost.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "the-pharcyde-passin-me-by",
+      "title": "Passin' Me By",
+      "artist": "The Pharcyde",
+      "album": "Bizarre Ride II the Pharcyde",
+      "palette": [
+        "#ebbf36",
+        "#67b5c2",
+        "#e45f8a",
+        "#32285c"
+      ],
+      "paletteSource": "Bizarre Ride II the Pharcyde",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/the-pharcyde-passin-me-by.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "the-pharcyde-drop",
+      "title": "Drop",
+      "artist": "The Pharcyde",
+      "album": "Labcabincalifornia",
+      "palette": [
+        "#a59b56",
+        "#eadcaf",
+        "#854e35",
+        "#29291f"
+      ],
+      "paletteSource": "Labcabincalifornia",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/the-pharcyde-drop.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "the-beatnuts-reign-of-the-tec",
+      "title": "Reign of the Tec",
+      "artist": "The Beatnuts",
+      "album": "Intoxicated Demons",
+      "palette": [
+        "#da4737",
+        "#eee7d5",
+        "#9e8c61",
+        "#232323"
+      ],
+      "paletteSource": "Intoxicated Demons",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/the-beatnuts-reign-of-the-tec.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "the-beatnuts-get-funky",
+      "title": "Get Funky",
+      "artist": "The Beatnuts",
+      "album": "Street Level",
+      "palette": [
+        "#d5483b",
+        "#e4dec9",
+        "#9b8c71",
+        "#262420"
+      ],
+      "paletteSource": "Street Level",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/the-beatnuts-get-funky.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "the-beatnuts-off-the-books",
+      "title": "Off the Books",
+      "artist": "The Beatnuts",
+      "album": "Stone Crazy",
+      "palette": [
+        "#ab4c40",
+        "#eadbc8",
+        "#6d8c77",
+        "#292b2c"
+      ],
+      "paletteSource": "Stone Crazy",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/the-beatnuts-off-the-books.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "lords-of-the-underground-chief-rocka",
+      "title": "Chief Rocka",
+      "artist": "Lords of the Underground",
+      "album": "Here Come the Lords",
+      "palette": [
+        "#bf713c",
+        "#ece0c4",
+        "#897462",
+        "#332a25"
+      ],
+      "paletteSource": "Here Come the Lords",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/lords-of-the-underground-chief-rocka.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "lords-of-the-underground-funky-child",
+      "title": "Funky Child",
+      "artist": "Lords of the Underground",
+      "album": "Here Come the Lords",
+      "palette": [
+        "#bf713c",
+        "#ece0c4",
+        "#897462",
+        "#332a25"
+      ],
+      "paletteSource": "Here Come the Lords",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/lords-of-the-underground-funky-child.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "gang-starr-dwyck",
+      "title": "DWYCK",
+      "artist": "Gang Starr",
+      "album": "Hard to Earn",
+      "palette": [
+        "#bf5737",
+        "#d4b66f",
+        "#ece5cc",
+        "#231f1c"
+      ],
+      "paletteSource": "Hard to Earn",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "gang-starr-take-it-personal",
+      "title": "Take It Personal",
+      "artist": "Gang Starr",
+      "album": "Daily Operation",
+      "palette": [
+        "#b54c42",
+        "#e4dccb",
+        "#918678",
+        "#292725"
+      ],
+      "paletteSource": "Daily Operation",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "gang-starr-code-of-the-streets",
+      "title": "Code of the Streets",
+      "artist": "Gang Starr",
+      "album": "Hard to Earn",
+      "palette": [
+        "#bf5737",
+        "#d4b66f",
+        "#ece5cc",
+        "#231f1c"
+      ],
+      "paletteSource": "Hard to Earn",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-code-of-the-streets.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "legacyPaper": true
+    },
+    {
+      "id": "gang-starr-above-the-clouds",
+      "title": "Above the Clouds",
+      "artist": "Gang Starr",
+      "album": "Moment of Truth",
+      "palette": [
+        "#a0433d",
+        "#e9e4db",
+        "#94938d",
+        "#232323"
+      ],
+      "paletteSource": "Moment of Truth",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "gang-starr-full-clip",
+      "title": "Full Clip",
+      "artist": "Gang Starr",
+      "album": "Full Clip: A Decade of Gang Starr",
+      "palette": [
+        "#d24d35",
+        "#ece7da",
+        "#a79e86",
+        "#232322"
+      ],
+      "paletteSource": "Full Clip: A Decade of Gang Starr",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "diamond-d-best-kept-secret",
+      "title": "Best Kept Secret",
+      "artist": "Diamond D",
+      "album": "Stunts, Blunts & Hip Hop",
+      "palette": [
+        "#ae764c",
+        "#eee1c9",
+        "#94a393",
+        "#33362d"
+      ],
+      "paletteSource": "Stunts, Blunts & Hip Hop",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "diamond-d-sally-got-a-one-track-mind",
+      "title": "Sally Got a One Track Mind",
+      "artist": "Diamond D",
+      "album": "Stunts, Blunts & Hip Hop",
+      "palette": [
+        "#ae764c",
+        "#eee1c9",
+        "#94a393",
+        "#33362d"
+      ],
+      "paletteSource": "Stunts, Blunts & Hip Hop",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "lord-finesse-hip-2-da-game",
+      "title": "Hip 2 Da Game",
+      "artist": "Lord Finesse",
+      "album": "The Awakening",
+      "palette": [
+        "#c19446",
+        "#e8d5a9",
+        "#9e7056",
+        "#30251e"
+      ],
+      "paletteSource": "The Awakening",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "lord-finesse-return-of-the-funky-man",
+      "title": "Return of the Funky Man",
+      "artist": "Lord Finesse",
+      "album": "Return of the Funky Man",
+      "palette": [
+        "#ae4838",
+        "#e9d6ba",
+        "#7d8170",
+        "#282824"
+      ],
+      "paletteSource": "Return of the Funky Man",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "showbiz-a-g-party-groove-instrumental",
+      "title": "Party Groove (Instrumental)",
+      "artist": "Showbiz & A.G.",
+      "album": "Runaway Slave",
+      "palette": [
+        "#b38958",
+        "#e9dcc4",
+        "#ba5440",
+        "#322d27"
+      ],
+      "paletteSource": "Runaway Slave",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "showbiz-a-g-soul-clap",
+      "title": "Soul Clap",
+      "artist": "Showbiz & A.G.",
+      "album": "Runaway Slave",
+      "palette": [
+        "#b38958",
+        "#e9dcc4",
+        "#ba5440",
+        "#322d27"
+      ],
+      "paletteSource": "Runaway Slave",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "showbiz-a-g-next-level-nyte-time-mix",
+      "title": "Next Level (Nyte Time Mix)",
+      "artist": "Showbiz & A.G.",
+      "album": "Goodfellas",
+      "palette": [
+        "#a55747",
+        "#e9decc",
+        "#8e9c91",
+        "#302d2b"
+      ],
+      "paletteSource": "Goodfellas",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "black-moon-who-got-da-props",
+      "title": "Who Got da Props",
+      "artist": "Black Moon",
+      "album": "Enta da Stage",
+      "palette": [
+        "#b6403c",
+        "#e7c94b",
+        "#5b7191",
+        "#25252e"
+      ],
+      "paletteSource": "Enta da Stage",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "black-moon-i-got-cha-opin-remix",
+      "title": "I Got Cha Opin (Remix)",
+      "artist": "Black Moon",
+      "album": "I Got Cha Opin",
+      "palette": [
+        "#bd3c3a",
+        "#e7ce6a",
+        "#749998",
+        "#242427"
+      ],
+      "paletteSource": "I Got Cha Opin",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "jeru-the-damaja-come-clean",
+      "title": "Come Clean",
+      "artist": "Jeru the Damaja",
+      "album": "The Sun Rises in the East",
+      "palette": [
+        "#aa6745",
+        "#e3ccb1",
+        "#718593",
+        "#2d2a28"
+      ],
+      "paletteSource": "The Sun Rises in the East",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "jeru-the-damaja-ya-playin-yaself",
+      "title": "Ya Playin' Yaself",
+      "artist": "Jeru the Damaja",
+      "album": "Wrath of the Math",
+      "palette": [
+        "#b44438",
+        "#ead6b3",
+        "#738667",
+        "#282824"
+      ],
+      "paletteSource": "Wrath of the Math",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "group-home-livin-proof",
+      "title": "Livin' Proof",
+      "artist": "Group Home",
+      "album": "Livin' Proof",
+      "palette": [
+        "#a38460",
+        "#e6e0d1",
+        "#809295",
+        "#2c3031"
+      ],
+      "paletteSource": "Livin' Proof",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "all-city-productions-unsolved-mysterme",
+      "title": "Unsolved Mysterme",
+      "artist": "All City Productions",
+      "album": "Bust Your Rhymes / Unsolved Mysterme",
+      "palette": [
+        "#aa5142",
+        "#e5d5ad",
+        "#8b8b7c",
+        "#242526"
+      ],
+      "paletteSource": "Bust Your Rhymes / Unsolved Mysterme",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "public-enemy-shut-em-down-pe-te-rock-mixx",
+      "title": "Shut Em Down (Pe-te Rock Mixx)",
+      "artist": "Public Enemy",
+      "album": "Apocalypse 91... The Enemy Strikes Black",
+      "palette": [
+        "#cb7629",
+        "#e3d2ac",
+        "#5b786b",
+        "#202320"
+      ],
+      "paletteSource": "Apocalypse 91... The Enemy Strikes Black",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "public-enemy-don-t-believe-the-hype",
+      "title": "Don't Believe the Hype",
+      "artist": "Public Enemy",
+      "album": "It Takes a Nation of Millions to Hold Us Back",
+      "palette": [
+        "#e0bd3f",
+        "#e8e1ca",
+        "#ac643a",
+        "#211e18"
+      ],
+      "paletteSource": "It Takes a Nation of Millions to Hold Us Back",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "public-enemy-fight-the-power",
+      "title": "Fight the Power",
+      "artist": "Public Enemy",
+      "album": "Fear of a Black Planet",
+      "palette": [
+        "#c73b43",
+        "#e8dbbe",
+        "#839dc3",
+        "#1b2033"
+      ],
+      "paletteSource": "Fear of a Black Planet",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "public-enemy-911-is-a-joke",
+      "title": "911 Is a Joke",
+      "artist": "Public Enemy",
+      "album": "Fear of a Black Planet",
+      "palette": [
+        "#c73b43",
+        "#e8dbbe",
+        "#839dc3",
+        "#1b2033"
+      ],
+      "paletteSource": "Fear of a Black Planet",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "public-enemy-brothers-gonna-work-it-out",
+      "title": "Brothers Gonna Work It Out",
+      "artist": "Public Enemy",
+      "album": "Fear of a Black Planet",
+      "palette": [
+        "#c73b43",
+        "#e8dbbe",
+        "#839dc3",
+        "#1b2033"
+      ],
+      "paletteSource": "Fear of a Black Planet",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "public-enemy-can-t-truss-it",
+      "title": "Can't Truss It",
+      "artist": "Public Enemy",
+      "album": "Apocalypse 91... The Enemy Strikes Black",
+      "palette": [
+        "#cb7629",
+        "#e3d2ac",
+        "#5b786b",
+        "#202320"
+      ],
+      "paletteSource": "Apocalypse 91... The Enemy Strikes Black",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "public-enemy-welcome-to-the-terrordome",
+      "title": "Welcome to the Terrordome",
+      "artist": "Public Enemy",
+      "album": "Fear of a Black Planet",
+      "palette": [
+        "#c73b43",
+        "#e8dbbe",
+        "#839dc3",
+        "#1b2033"
+      ],
+      "paletteSource": "Fear of a Black Planet",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "nas-the-world-is-yours",
+      "title": "The World Is Yours",
+      "artist": "Nas",
+      "album": "Illmatic",
+      "palette": [
+        "#b58b63",
+        "#eee1cc",
+        "#ab6651",
+        "#342b25"
+      ],
+      "paletteSource": "Illmatic",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "nas-it-ain-t-hard-to-tell",
+      "title": "It Ain't Hard to Tell",
+      "artist": "Nas",
+      "album": "Illmatic",
+      "palette": [
+        "#b58b63",
+        "#eee1cc",
+        "#ab6651",
+        "#342b25"
+      ],
+      "paletteSource": "Illmatic",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "nas-n-y-state-of-mind",
+      "title": "N.Y. State of Mind",
+      "artist": "Nas",
+      "album": "Illmatic",
+      "palette": [
+        "#b58b63",
+        "#eee1cc",
+        "#ab6651",
+        "#342b25"
+      ],
+      "paletteSource": "Illmatic",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "nas-represent",
+      "title": "Represent",
+      "artist": "Nas",
+      "album": "Illmatic",
+      "palette": [
+        "#b58b63",
+        "#eee1cc",
+        "#ab6651",
+        "#342b25"
+      ],
+      "paletteSource": "Illmatic",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "large-professor-i-juswanna-chill",
+      "title": "I Juswanna Chill",
+      "artist": "Large Professor",
+      "album": "The LP",
+      "palette": [
+        "#a68a57",
+        "#e3e4ce",
+        "#73866a",
+        "#30362c"
+      ],
+      "paletteSource": "The LP",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "main-source-looking-at-the-front-door",
+      "title": "Looking at the Front Door",
+      "artist": "Main Source",
+      "album": "Breaking Atoms",
+      "palette": [
+        "#cf7d37",
+        "#eadd9d",
+        "#786994",
+        "#29292e"
+      ],
+      "paletteSource": "Breaking Atoms",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "main-source-just-hangin-out",
+      "title": "Just Hangin' Out",
+      "artist": "Main Source",
+      "album": "Breaking Atoms",
+      "palette": [
+        "#cf7d37",
+        "#eadd9d",
+        "#786994",
+        "#29292e"
+      ],
+      "paletteSource": "Breaking Atoms",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "main-source-live-at-the-barbeque",
+      "title": "Live at the Barbeque",
+      "artist": "Main Source",
+      "album": "Breaking Atoms",
+      "palette": [
+        "#cf7d37",
+        "#eadd9d",
+        "#786994",
+        "#29292e"
+      ],
+      "paletteSource": "Breaking Atoms",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "the-notorious-b-i-g-juicy",
+      "title": "Juicy",
+      "artist": "The Notorious B.I.G.",
+      "album": "Ready to Die",
+      "palette": [
+        "#bb372f",
+        "#f1e9db",
+        "#aaa49c",
+        "#252324"
+      ],
+      "paletteSource": "Ready to Die",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "the-notorious-b-i-g-unbelievable",
+      "title": "Unbelievable",
+      "artist": "The Notorious B.I.G.",
+      "album": "Ready to Die",
+      "palette": [
+        "#bb372f",
+        "#f1e9db",
+        "#aaa49c",
+        "#252324"
+      ],
+      "paletteSource": "Ready to Die",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "the-notorious-b-i-g-big-poppa",
+      "title": "Big Poppa",
+      "artist": "The Notorious B.I.G.",
+      "album": "Ready to Die",
+      "palette": [
+        "#bb372f",
+        "#f1e9db",
+        "#aaa49c",
+        "#252324"
+      ],
+      "paletteSource": "Ready to Die",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "craig-mack-flava-in-ya-ear",
+      "title": "Flava in Ya Ear",
+      "artist": "Craig Mack",
+      "album": "Project: Funk da World",
+      "palette": [
+        "#c58d44",
+        "#e8d6a6",
+        "#917548",
+        "#28231e"
+      ],
+      "paletteSource": "Project: Funk da World",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "mobb-deep-shook-ones-pt-ii",
+      "title": "Shook Ones, Pt. II",
+      "artist": "Mobb Deep",
+      "album": "The Infamous",
+      "palette": [
+        "#aa7650",
+        "#e0c9a6",
+        "#8b715d",
+        "#2e2823"
+      ],
+      "paletteSource": "The Infamous",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "mobb-deep-survival-of-the-fittest",
+      "title": "Survival of the Fittest",
+      "artist": "Mobb Deep",
+      "album": "The Infamous",
+      "palette": [
+        "#aa7650",
+        "#e0c9a6",
+        "#8b715d",
+        "#2e2823"
+      ],
+      "paletteSource": "The Infamous",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "wu-tang-clan-c-r-e-a-m",
+      "title": "C.R.E.A.M.",
+      "artist": "Wu-Tang Clan",
+      "album": "Enter the Wu-Tang (36 Chambers)",
+      "palette": [
+        "#d2a54a",
+        "#e7d9bb",
+        "#996e35",
+        "#24201b"
+      ],
+      "paletteSource": "Enter the Wu-Tang (36 Chambers)",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "wu-tang-clan-protect-ya-neck",
+      "title": "Protect Ya Neck",
+      "artist": "Wu-Tang Clan",
+      "album": "Enter the Wu-Tang (36 Chambers)",
+      "palette": [
+        "#d2a54a",
+        "#e7d9bb",
+        "#996e35",
+        "#24201b"
+      ],
+      "paletteSource": "Enter the Wu-Tang (36 Chambers)",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "gza-liquid-swords",
+      "title": "Liquid Swords",
+      "artist": "GZA",
+      "album": "Liquid Swords",
+      "palette": [
+        "#d53943",
+        "#e2ded1",
+        "#648b9e",
+        "#202729"
+      ],
+      "paletteSource": "Liquid Swords",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "raekwon-ice-cream",
+      "title": "Ice Cream",
+      "artist": "Raekwon",
+      "album": "Only Built 4 Cuban Linx...",
+      "palette": [
+        "#a5689a",
+        "#e9ddcd",
+        "#a34342",
+        "#27212b"
+      ],
+      "paletteSource": "Only Built 4 Cuban Linx...",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "ol-dirty-bastard-shimmy-shimmy-ya",
+      "title": "Shimmy Shimmy Ya",
+      "artist": "Ol' Dirty Bastard",
+      "album": "Return to the 36 Chambers: The Dirty Version",
+      "palette": [
+        "#b87a4a",
+        "#e5d7c2",
+        "#7d8b9c",
+        "#26303b"
+      ],
+      "paletteSource": "Return to the 36 Chambers: The Dirty Version",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "de-la-soul-a-roller-skating-jam-named-saturdays",
+      "title": "A Roller Skating Jam Named Saturdays",
+      "artist": "De La Soul",
+      "album": "De La Soul Is Dead",
+      "palette": [
+        "#8e3e43",
+        "#e5d6c5",
+        "#729385",
+        "#342b28"
+      ],
+      "paletteSource": "De La Soul Is Dead",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "de-la-soul-stakes-is-high",
+      "title": "Stakes Is High",
+      "artist": "De La Soul",
+      "album": "Stakes Is High",
+      "palette": [
+        "#b8834e",
+        "#e5d9b8",
+        "#7c856c",
+        "#2f2d24"
+      ],
+      "paletteSource": "Stakes Is High",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "de-la-soul-breakadawn",
+      "title": "Breakadawn",
+      "artist": "De La Soul",
+      "album": "Buhloone Mindstate",
+      "palette": [
+        "#ba5745",
+        "#e9d9bd",
+        "#7295a0",
+        "#26282a"
+      ],
+      "paletteSource": "Buhloone Mindstate",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "black-sheep-the-choice-is-yours-revisited",
+      "title": "The Choice Is Yours (Revisited)",
+      "artist": "Black Sheep",
+      "album": "A Wolf in Sheep's Clothing",
+      "palette": [
+        "#cdad32",
+        "#e4d497",
+        "#926b33",
+        "#29291e"
+      ],
+      "paletteSource": "A Wolf in Sheep's Clothing",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "brand-nubian-slow-down",
+      "title": "Slow Down",
+      "artist": "Brand Nubian",
+      "album": "One for All",
+      "palette": [
+        "#be483b",
+        "#e9dbb8",
+        "#498866",
+        "#262820"
+      ],
+      "paletteSource": "One for All",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "brand-nubian-all-for-one",
+      "title": "All for One",
+      "artist": "Brand Nubian",
+      "album": "One for All",
+      "palette": [
+        "#be483b",
+        "#e9dbb8",
+        "#498866",
+        "#262820"
+      ],
+      "paletteSource": "One for All",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "grand-puba-i-like-it-i-wanna-be-where-you-are",
+      "title": "I Like It (I Wanna Be Where You Are)",
+      "artist": "Grand Puba",
+      "album": "2000",
+      "palette": [
+        "#9d704d",
+        "#e5d0ad",
+        "#85949a",
+        "#2c2a29"
+      ],
+      "paletteSource": "2000",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "digable-planets-rebirth-of-slick-cool-like-dat",
+      "title": "Rebirth of Slick (Cool Like Dat)",
+      "artist": "Digable Planets",
+      "album": "Reachin' (A New Refutation of Time and Space)",
+      "palette": [
+        "#c69141",
+        "#e6dab8",
+        "#758359",
+        "#353123"
+      ],
+      "paletteSource": "Reachin' (A New Refutation of Time and Space)",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "digable-planets-9th-wonder-blackitolism",
+      "title": "9th Wonder (Blackitolism)",
+      "artist": "Digable Planets",
+      "album": "Blowout Comb",
+      "palette": [
+        "#bc423e",
+        "#e2d5b8",
+        "#8b8267",
+        "#292524"
+      ],
+      "paletteSource": "Blowout Comb",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "us3-cantaloop-flip-fantasia",
+      "title": "Cantaloop (Flip Fantasia)",
+      "artist": "US3",
+      "album": "Hand on the Torch",
+      "palette": [
+        "#cd632d",
+        "#ece1c6",
+        "#809bae",
+        "#222a32"
+      ],
+      "paletteSource": "Hand on the Torch",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "the-roots-proceed",
+      "title": "Proceed",
+      "artist": "The Roots",
+      "album": "Do You Want More?!!!??!",
+      "palette": [
+        "#6b8495",
+        "#ede8db",
+        "#909ea0",
+        "#232c33"
+      ],
+      "paletteSource": "Do You Want More?!!!??!",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "the-roots-what-they-do",
+      "title": "What They Do",
+      "artist": "The Roots",
+      "album": "Illadelph Halflife",
+      "palette": [
+        "#9c7660",
+        "#e5daca",
+        "#6d828b",
+        "#2c2d30"
+      ],
+      "paletteSource": "Illadelph Halflife",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "common-i-used-to-love-h-e-r",
+      "title": "I Used to Love H.E.R.",
+      "artist": "Common",
+      "album": "Resurrection",
+      "palette": [
+        "#557d96",
+        "#e5e1d8",
+        "#bd9865",
+        "#17232e"
+      ],
+      "paletteSource": "Resurrection",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "common-the-light",
+      "title": "The Light",
+      "artist": "Common",
+      "album": "Like Water for Chocolate",
+      "palette": [
+        "#a77f50",
+        "#e9d7b4",
+        "#5d7483",
+        "#302722"
+      ],
+      "paletteSource": "Like Water for Chocolate",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "mos-def-ms-fat-booty",
+      "title": "Ms. Fat Booty",
+      "artist": "Mos Def",
+      "album": "Black on Both Sides",
+      "palette": [
+        "#b99268",
+        "#e8d9bb",
+        "#6d7882",
+        "#302b27"
+      ],
+      "paletteSource": "Black on Both Sides",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "black-star-definition",
+      "title": "Definition",
+      "artist": "Black Star",
+      "album": "Mos Def & Talib Kweli Are Black Star",
+      "palette": [
+        "#ca993b",
+        "#e8dabc",
+        "#867956",
+        "#2d2920"
+      ],
+      "paletteSource": "Mos Def & Talib Kweli Are Black Star",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "pharoahe-monch-simon-says",
+      "title": "Simon Says",
+      "artist": "Pharoahe Monch",
+      "album": "Internal Affairs",
+      "palette": [
+        "#b34b3d",
+        "#e6d9c0",
+        "#6a8280",
+        "#282825"
+      ],
+      "paletteSource": "Internal Affairs",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "krs-one-mc-s-act-like-they-don-t-know",
+      "title": "MC's Act Like They Don't Know",
+      "artist": "KRS-One",
+      "album": "KRS-One",
+      "palette": [
+        "#aa724b",
+        "#e6d7b9",
+        "#8c9085",
+        "#2b2825"
+      ],
+      "paletteSource": "KRS-One",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "krs-one-sound-of-da-police",
+      "title": "Sound of da Police",
+      "artist": "KRS-One",
+      "album": "Return of the Boom Bap",
+      "palette": [
+        "#ad3a32",
+        "#e5d0b8",
+        "#837660",
+        "#29251f"
+      ],
+      "paletteSource": "Return of the Boom Bap",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "eric-b-rakim-don-t-sweat-the-technique",
+      "title": "Don't Sweat the Technique",
+      "artist": "Eric B. & Rakim",
+      "album": "Don't Sweat the Technique",
+      "palette": [
+        "#c69635",
+        "#e5d6ad",
+        "#667a73",
+        "#282820"
+      ],
+      "paletteSource": "Don't Sweat the Technique",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "epmd-so-wat-cha-sayin",
+      "title": "So Wat Cha Sayin'",
+      "artist": "EPMD",
+      "album": "Unfinished Business",
+      "palette": [
+        "#ba3437",
+        "#e9ddcb",
+        "#7d7a6d",
+        "#292524"
+      ],
+      "paletteSource": "Unfinished Business",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "das-efx-they-want-efx",
+      "title": "They Want EFX",
+      "artist": "Das EFX",
+      "album": "Dead Serious",
+      "palette": [
+        "#c28438",
+        "#e3d9ad",
+        "#778755",
+        "#2a2c20"
+      ],
+      "paletteSource": "Dead Serious",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "redman-tonight-s-da-night",
+      "title": "Tonight's Da Night",
+      "artist": "Redman",
+      "album": "Whut? Thee Album",
+      "palette": [
+        "#a3473b",
+        "#e6d8c3",
+        "#8d8273",
+        "#312a24"
+      ],
+      "paletteSource": "Whut? Thee Album",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "naughty-by-nature-hip-hop-hooray",
+      "title": "Hip Hop Hooray",
+      "artist": "Naughty by Nature",
+      "album": "19 Naughty III",
+      "palette": [
+        "#c7403b",
+        "#e8dfcb",
+        "#8a9395",
+        "#22282b"
+      ],
+      "paletteSource": "19 Naughty III",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "a-tribe-called-quest-oh-my-god",
+      "title": "Oh My God",
+      "artist": "A Tribe Called Quest",
+      "album": "Midnight Marauders",
+      "palette": [
+        "#d93433",
+        "#e4cc54",
+        "#35926c",
+        "#222126"
+      ],
+      "paletteSource": "Midnight Marauders",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "a-tribe-called-quest-steve-biko-stir-it-up",
+      "title": "Steve Biko (Stir It Up)",
+      "artist": "A Tribe Called Quest",
+      "album": "Midnight Marauders",
+      "palette": [
+        "#d93433",
+        "#e4cc54",
+        "#35926c",
+        "#222126"
+      ],
+      "paletteSource": "Midnight Marauders",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "a-tribe-called-quest-we-can-get-down",
+      "title": "We Can Get Down",
+      "artist": "A Tribe Called Quest",
+      "album": "Midnight Marauders",
+      "palette": [
+        "#d93433",
+        "#e4cc54",
+        "#35926c",
+        "#222126"
+      ],
+      "paletteSource": "Midnight Marauders",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "a-tribe-called-quest-find-a-way",
+      "title": "Find a Way",
+      "artist": "A Tribe Called Quest",
+      "album": "The Love Movement",
+      "palette": [
+        "#bc3936",
+        "#e9dfc6",
+        "#859672",
+        "#242621"
+      ],
+      "paletteSource": "The Love Movement",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "de-la-soul-ego-trippin-part-two",
+      "title": "Ego Trippin' (Part Two)",
+      "artist": "De La Soul",
+      "album": "Buhloone Mindstate",
+      "palette": [
+        "#ba5745",
+        "#e9d9bd",
+        "#7295a0",
+        "#26282a"
+      ],
+      "paletteSource": "Buhloone Mindstate",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "de-la-soul-ring-ring-ring-ha-ha-hey",
+      "title": "Ring Ring Ring (Ha Ha Hey)",
+      "artist": "De La Soul",
+      "album": "De La Soul Is Dead",
+      "palette": [
+        "#8e3e43",
+        "#e5d6c5",
+        "#729385",
+        "#342b28"
+      ],
+      "paletteSource": "De La Soul Is Dead",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "de-la-soul-buddy",
+      "title": "Buddy",
+      "artist": "De La Soul",
+      "album": "3 Feet High and Rising",
+      "palette": [
+        "#e2c638",
+        "#f0e39c",
+        "#cc64a1",
+        "#32604d"
+      ],
+      "paletteSource": "3 Feet High and Rising",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "jungle-brothers-straight-out-the-jungle",
+      "title": "Straight Out the Jungle",
+      "artist": "Jungle Brothers",
+      "album": "Straight Out the Jungle",
+      "palette": [
+        "#cc923f",
+        "#e4d5b4",
+        "#6a854e",
+        "#2d3023"
+      ],
+      "paletteSource": "Straight Out the Jungle",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "jungle-brothers-black-is-black",
+      "title": "Black Is Black",
+      "artist": "Jungle Brothers",
+      "album": "Straight Out the Jungle",
+      "palette": [
+        "#cc923f",
+        "#e4d5b4",
+        "#6a854e",
+        "#2d3023"
+      ],
+      "paletteSource": "Straight Out the Jungle",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "jungle-brothers-doin-our-own-dang",
+      "title": "Doin' Our Own Dang",
+      "artist": "Jungle Brothers",
+      "album": "Done by the Forces of Nature",
+      "palette": [
+        "#c95b33",
+        "#e6d38e",
+        "#80a16c",
+        "#293926"
+      ],
+      "paletteSource": "Done by the Forces of Nature",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "queen-latifah-u-n-i-t-y",
+      "title": "U.N.I.T.Y.",
+      "artist": "Queen Latifah",
+      "album": "Black Reign",
+      "palette": [
+        "#9f743e",
+        "#e4d2ae",
+        "#768760",
+        "#252820"
+      ],
+      "paletteSource": "Black Reign",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "monie-love-it-s-a-shame-my-sister",
+      "title": "It's a Shame (My Sister)",
+      "artist": "Monie Love",
+      "album": "Down to Earth",
+      "palette": [
+        "#bd4c42",
+        "#e6dbbe",
+        "#7b9a9f",
+        "#262c2e"
+      ],
+      "paletteSource": "Down to Earth",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "mc-lyte-poor-georgie",
+      "title": "Poor Georgie",
+      "artist": "MC Lyte",
+      "album": "Act Like You Know",
+      "palette": [
+        "#bd664a",
+        "#e9d5b2",
+        "#9b9487",
+        "#342a23"
+      ],
+      "paletteSource": "Act Like You Know",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "ll-cool-j-mama-said-knock-you-out",
+      "title": "Mama Said Knock You Out",
+      "artist": "LL Cool J",
+      "album": "Mama Said Knock You Out",
+      "palette": [
+        "#a94738",
+        "#e6d9bf",
+        "#7c8c84",
+        "#242a27"
+      ],
+      "paletteSource": "Mama Said Knock You Out",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "ll-cool-j-around-the-way-girl",
+      "title": "Around the Way Girl",
+      "artist": "LL Cool J",
+      "album": "Mama Said Knock You Out",
+      "palette": [
+        "#a94738",
+        "#e6d9bf",
+        "#7c8c84",
+        "#242a27"
+      ],
+      "paletteSource": "Mama Said Knock You Out",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "ll-cool-j-doin-it",
+      "title": "Doin' It",
+      "artist": "LL Cool J",
+      "album": "Mr. Smith",
+      "palette": [
+        "#a97852",
+        "#e2d2bb",
+        "#70838e",
+        "#262d32"
+      ],
+      "paletteSource": "Mr. Smith",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "biz-markie-just-a-friend",
+      "title": "Just a Friend",
+      "artist": "Biz Markie",
+      "album": "The Biz Never Sleeps",
+      "palette": [
+        "#be8d3c",
+        "#e9d4a3",
+        "#826b54",
+        "#29261f"
+      ],
+      "paletteSource": "The Biz Never Sleeps",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "slick-rick-children-s-story",
+      "title": "Children's Story",
+      "artist": "Slick Rick",
+      "album": "The Great Adventures of Slick Rick",
+      "palette": [
+        "#ce9e38",
+        "#e6dab7",
+        "#925b45",
+        "#29231d"
+      ],
+      "paletteSource": "The Great Adventures of Slick Rick",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "rakim-when-i-b-on-tha-mic",
+      "title": "When I B on tha Mic",
+      "artist": "Rakim",
+      "album": "The Master",
+      "palette": [
+        "#a54136",
+        "#e4d1b2",
+        "#7f8382",
+        "#262726"
+      ],
+      "paletteSource": "The Master",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "kool-g-rap-dj-polo-ill-street-blues",
+      "title": "Ill Street Blues",
+      "artist": "Kool G Rap & DJ Polo",
+      "album": "Live and Let Die",
+      "palette": [
+        "#b04a34",
+        "#e1cba6",
+        "#76816c",
+        "#29271f"
+      ],
+      "paletteSource": "Live and Let Die",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "big-daddy-kane-ain-t-no-half-steppin",
+      "title": "Ain't No Half-Steppin'",
+      "artist": "Big Daddy Kane",
+      "album": "Long Live the Kane",
+      "palette": [
+        "#c29135",
+        "#e6d5aa",
+        "#995342",
+        "#28221a"
+      ],
+      "paletteSource": "Long Live the Kane",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "epmd-you-gots-to-chill",
+      "title": "You Gots to Chill",
+      "artist": "EPMD",
+      "album": "Strictly Business",
+      "palette": [
+        "#b33c35",
+        "#e1d5ba",
+        "#71836a",
+        "#282822"
+      ],
+      "paletteSource": "Strictly Business",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "epmd-crossover",
+      "title": "Crossover",
+      "artist": "EPMD",
+      "album": "Business Never Personal",
+      "palette": [
+        "#a3533e",
+        "#e6d8bf",
+        "#788b86",
+        "#272a27"
+      ],
+      "paletteSource": "Business Never Personal",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "keith-murray-the-most-beautifullest-thing-in-this-world",
+      "title": "The Most Beautifullest Thing in This World",
+      "artist": "Keith Murray",
+      "album": "The Most Beautifullest Thing in This World",
+      "palette": [
+        "#bc7844",
+        "#e3d6b7",
+        "#8b806a",
+        "#28271f"
+      ],
+      "paletteSource": "The Most Beautifullest Thing in This World",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "redman-da-goodness",
+      "title": "Da Goodness",
+      "artist": "Redman",
+      "album": "Doc's da Name 2000",
+      "palette": [
+        "#b24635",
+        "#e5d5b7",
+        "#758a91",
+        "#24282b"
+      ],
+      "paletteSource": "Doc's da Name 2000",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "smif-n-wessun-sound-bwoy-bureill",
+      "title": "Sound Bwoy Bureill",
+      "artist": "Smif-N-Wessun",
+      "album": "Dah Shinin'",
+      "palette": [
+        "#aa713c",
+        "#ebd798",
+        "#518070",
+        "#201b16"
+      ],
+      "paletteSource": "Dah Shinin'",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "heltah-skeltah-leflaur-leflah-eshkoshka",
+      "title": "Leflaur Leflah Eshkoshka",
+      "artist": "Heltah Skeltah",
+      "album": "Nocturnal",
+      "palette": [
+        "#9f6c46",
+        "#e4d2b4",
+        "#677e90",
+        "#222a32"
+      ],
+      "paletteSource": "Nocturnal",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "o-g-c-no-fear",
+      "title": "No Fear",
+      "artist": "O.G.C.",
+      "album": "Da Storm",
+      "palette": [
+        "#ab7543",
+        "#e1cfa9",
+        "#778d94",
+        "#242b2c"
+      ],
+      "paletteSource": "Da Storm",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "artifacts-wrong-side-of-da-tracks",
+      "title": "Wrong Side of da Tracks",
+      "artist": "Artifacts",
+      "album": "Between a Rock and a Hard Place",
+      "palette": [
+        "#ad503a",
+        "#e5d4b5",
+        "#7b9390",
+        "#29312e"
+      ],
+      "paletteSource": "Between a Rock and a Hard Place",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "artifacts-c-mon-wit-da-git-down",
+      "title": "C'mon wit da Git Down",
+      "artist": "Artifacts",
+      "album": "Between a Rock and a Hard Place",
+      "palette": [
+        "#ad503a",
+        "#e5d4b5",
+        "#7b9390",
+        "#29312e"
+      ],
+      "paletteSource": "Between a Rock and a Hard Place",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "channel-live-mad-izm",
+      "title": "Mad Izm",
+      "artist": "Channel Live",
+      "album": "Station Identification",
+      "palette": [
+        "#b17745",
+        "#e5d7b9",
+        "#7d8d85",
+        "#282c26"
+      ],
+      "paletteSource": "Station Identification",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "nine-whutcha-want",
+      "title": "Whutcha Want?",
+      "artist": "Nine",
+      "album": "Nine Livez",
+      "palette": [
+        "#a65138",
+        "#e1cbb1",
+        "#77857b",
+        "#282922"
+      ],
+      "paletteSource": "Nine Livez",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "mic-geronimo-shit-s-real",
+      "title": "Shit's Real",
+      "artist": "Mic Geronimo",
+      "album": "The Natural",
+      "palette": [
+        "#ab8059",
+        "#e5d9c1",
+        "#7b8d87",
+        "#2d302a"
+      ],
+      "paletteSource": "The Natural",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "royal-flush-iced-down-medallions",
+      "title": "Iced Down Medallions",
+      "artist": "Royal Flush",
+      "album": "Ghetto Millionaire",
+      "palette": [
+        "#c0a053",
+        "#e3d7b9",
+        "#78877c",
+        "#2a2c25"
+      ],
+      "paletteSource": "Ghetto Millionaire",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "camp-lo-luchini-aka-this-is-it",
+      "title": "Luchini AKA This Is It",
+      "artist": "Camp Lo",
+      "album": "Uptown Saturday Night",
+      "palette": [
+        "#c87a3b",
+        "#e8d29b",
+        "#8c536f",
+        "#352b30"
+      ],
+      "paletteSource": "Uptown Saturday Night",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "camp-lo-coolie-high",
+      "title": "Coolie High",
+      "artist": "Camp Lo",
+      "album": "Uptown Saturday Night",
+      "palette": [
+        "#c87a3b",
+        "#e8d29b",
+        "#8c536f",
+        "#352b30"
+      ],
+      "paletteSource": "Uptown Saturday Night",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "fugees-fu-gee-la",
+      "title": "Fu-Gee-La",
+      "artist": "Fugees",
+      "album": "The Score",
+      "palette": [
+        "#b74738",
+        "#e7dac2",
+        "#7d7a64",
+        "#26231f"
+      ],
+      "paletteSource": "The Score",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "fugees-ready-or-not",
+      "title": "Ready or Not",
+      "artist": "Fugees",
+      "album": "The Score",
+      "palette": [
+        "#b74738",
+        "#e7dac2",
+        "#7d7a64",
+        "#26231f"
+      ],
+      "paletteSource": "The Score",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "lauryn-hill-doo-wop-that-thing",
+      "title": "Doo Wop (That Thing)",
+      "artist": "Lauryn Hill",
+      "album": "The Miseducation of Lauryn Hill",
+      "palette": [
+        "#a77143",
+        "#e0c79f",
+        "#8a683f",
+        "#332920"
+      ],
+      "paletteSource": "The Miseducation of Lauryn Hill",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "jurassic-5-concrete-schoolyard",
+      "title": "Concrete Schoolyard",
+      "artist": "Jurassic 5",
+      "album": "Jurassic 5",
+      "palette": [
+        "#c69d42",
+        "#e6d4a2",
+        "#83a291",
+        "#29372e"
+      ],
+      "paletteSource": "Jurassic 5",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "dilated-peoples-worst-comes-to-worst",
+      "title": "Worst Comes to Worst",
+      "artist": "Dilated Peoples",
+      "album": "Expansion Team",
+      "palette": [
+        "#a78345",
+        "#e6dcc1",
+        "#758888",
+        "#282b25"
+      ],
+      "paletteSource": "Expansion Team",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "dj-shadow-organ-donor",
+      "title": "Organ Donor",
+      "artist": "DJ Shadow",
+      "album": "Endtroducing.....",
+      "palette": [
+        "#608a78",
+        "#e2d5b5",
+        "#b38052",
+        "#29392f"
+      ],
+      "paletteSource": "Endtroducing.....",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "dj-shadow-midnight-in-a-perfect-world",
+      "title": "Midnight in a Perfect World",
+      "artist": "DJ Shadow",
+      "album": "Endtroducing.....",
+      "palette": [
+        "#608a78",
+        "#e2d5b5",
+        "#b38052",
+        "#29392f"
+      ],
+      "paletteSource": "Endtroducing.....",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "dj-krush-kemuri",
+      "title": "Kemuri",
+      "artist": "DJ Krush",
+      "album": "Strictly Turntablized",
+      "palette": [
+        "#b68e59",
+        "#e2d6bc",
+        "#858778",
+        "#2a2b25"
+      ],
+      "paletteSource": "Strictly Turntablized",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "nujabes-feather",
+      "title": "Feather",
+      "artist": "Nujabes",
+      "album": "Modal Soul",
+      "palette": [
+        "#c49777",
+        "#e9dbca",
+        "#8a7c85",
+        "#392e30"
+      ],
+      "paletteSource": "Modal Soul",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "nujabes-luv-sic-part-3",
+      "title": "Luv(sic) Part 3",
+      "artist": "Nujabes",
+      "album": "Modal Soul",
+      "palette": [
+        "#c49777",
+        "#e9dbca",
+        "#8a7c85",
+        "#392e30"
+      ],
+      "paletteSource": "Modal Soul",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "j-dilla-so-far-to-go",
+      "title": "So Far to Go",
+      "artist": "J Dilla",
+      "album": "The Shining",
+      "palette": [
+        "#bc9b46",
+        "#e6d8b1",
+        "#81816d",
+        "#29261f"
+      ],
+      "paletteSource": "The Shining",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "slum-village-fall-in-love",
+      "title": "Fall in Love",
+      "artist": "Slum Village",
+      "album": "Fantastic, Vol. 2",
+      "palette": [
+        "#c2a33f",
+        "#e9d99e",
+        "#92803d",
+        "#292719"
+      ],
+      "paletteSource": "Fantastic, Vol. 2",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "the-roots-you-got-me",
+      "title": "You Got Me",
+      "artist": "The Roots",
+      "album": "Things Fall Apart",
+      "palette": [
+        "#a57953",
+        "#e1d2b8",
+        "#889391",
+        "#2b2c28"
+      ],
+      "paletteSource": "Things Fall Apart",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "o-c-born-2-live",
+      "title": "Born 2 Live",
+      "artist": "O.C.",
+      "album": "Word...Life",
+      "palette": [
+        "#b37543",
+        "#ead5a2",
+        "#60704c",
+        "#24211b"
+      ],
+      "paletteSource": "Word...Life",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "krs-one-step-into-a-world",
+      "title": "Step into a World (Rapture's Delight)",
+      "artist": "KRS-One",
+      "album": "I Got Next",
+      "palette": [
+        "#b6b0a2",
+        "#ebe4d8",
+        "#686b67",
+        "#262826"
+      ],
+      "paletteSource": "I Got Next",
+      "paletteNote": "ジャケットを想定した暫定配色。厳密な抽出・画像照合は未実施。",
+      "status": "pending"
+    },
+    {
+      "id": "beastie-boys-shadrach",
+      "title": "Shadrach",
+      "artist": "Beastie Boys",
+      "album": "Paul’s Boutique",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#171717",
+        "#0b0b0b"
+      ],
+      "paletteSource": "サイト共通パレット",
+      "paletteNote": "アルバム画像の厳密な色照合は未実施。サイト共通色を採用。",
+      "status": "pending"
+    },
+    {
+      "id": "beastie-boys-jimmy-james",
+      "title": "Jimmy James",
+      "artist": "Beastie Boys",
+      "album": "Check Your Head",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#171717",
+        "#0b0b0b"
+      ],
+      "paletteSource": "サイト共通パレット",
+      "paletteNote": "アルバム画像の厳密な色照合は未実施。サイト共通色を採用。",
+      "status": "pending"
+    },
+    {
+      "id": "beastie-boys-shake-your-rump",
+      "title": "Shake Your Rump",
+      "artist": "Beastie Boys",
+      "album": "Paul’s Boutique",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#171717",
+        "#0b0b0b"
+      ],
+      "paletteSource": "サイト共通パレット",
+      "paletteNote": "アルバム画像の厳密な色照合は未実施。サイト共通色を採用。",
+      "status": "pending"
+    },
+    {
+      "id": "beastie-boys-root-down",
+      "title": "Root Down",
+      "artist": "Beastie Boys",
+      "album": "Ill Communication",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#171717",
+        "#0b0b0b"
+      ],
+      "paletteSource": "サイト共通パレット",
+      "paletteNote": "アルバム画像の厳密な色照合は未実施。サイト共通色を採用。",
+      "status": "pending"
+    },
+    {
+      "id": "beastie-boys-pass-the-mic",
+      "title": "Pass the Mic",
+      "artist": "Beastie Boys",
+      "album": "Check Your Head",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#171717",
+        "#0b0b0b"
+      ],
+      "paletteSource": "サイト共通パレット",
+      "paletteNote": "アルバム画像の厳密な色照合は未実施。サイト共通色を採用。",
+      "status": "pending"
+    },
+    {
+      "id": "beastie-boys-ch-check-it-out",
+      "title": "Ch-Check It Out",
+      "artist": "Beastie Boys",
+      "album": "To the 5 Boroughs",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#171717",
+        "#0b0b0b"
+      ],
+      "paletteSource": "サイト共通パレット",
+      "paletteNote": "アルバム画像の厳密な色照合は未実施。サイト共通色を採用。",
+      "status": "pending"
+    },
+    {
+      "id": "beastie-boys-negotiation-limerick-file-41-small-stars-remix",
+      "title": "The Negotiation Limerick File (The 41 Small Stars Remix)",
+      "artist": "Beastie Boys",
+      "album": "Hello Nasty / Remix",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#171717",
+        "#0b0b0b"
+      ],
+      "paletteSource": "サイト共通パレット",
+      "paletteNote": "アルバム画像の厳密な色照合は未実施。サイト共通色を採用。",
+      "status": "pending"
+    },
+    {
+      "id": "beastie-boys-brass-monkey",
+      "title": "Brass Monkey",
+      "artist": "Beastie Boys",
+      "album": "Licensed to Ill",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#171717",
+        "#0b0b0b"
+      ],
+      "paletteSource": "サイト共通パレット",
+      "paletteNote": "アルバム画像の厳密な色照合は未実施。サイト共通色を採用。",
+      "status": "pending"
+    },
+    {
+      "id": "beastie-boys-paul-revere",
+      "title": "Paul Revere",
+      "artist": "Beastie Boys",
+      "album": "Licensed to Ill",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#171717",
+        "#0b0b0b"
+      ],
+      "paletteSource": "サイト共通パレット",
+      "paletteNote": "アルバム画像の厳密な色照合は未実施。サイト共通色を採用。",
+      "status": "pending"
+    },
+    {
+      "id": "black-sheep-splash",
+      "title": "Splash (Intro)",
+      "artist": "Black Sheep",
+      "album": "From the Black Pool of Genius",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#171717",
+        "#0b0b0b"
+      ],
+      "paletteSource": "サイト共通パレット",
+      "paletteNote": "アルバム画像の色照合は未実施。サイト共通色を採用。",
+      "status": "pending"
+    },
+    {
+      "id": "black-sheep-flavor-of-the-month",
+      "title": "Flavor of the Month",
+      "artist": "Black Sheep",
+      "album": "A Wolf in Sheep's Clothing",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#171717",
+        "#0b0b0b"
+      ],
+      "paletteSource": "サイト共通パレット",
+      "paletteNote": "アルバム画像の色照合は未実施。サイト共通色を採用。",
+      "status": "pending"
+    },
+    {
+      "id": "black-sheep-similak-child",
+      "title": "Similak Child",
+      "artist": "Black Sheep",
+      "album": "A Wolf in Sheep's Clothing",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#171717",
+        "#0b0b0b"
+      ],
+      "paletteSource": "サイト共通パレット",
+      "paletteNote": "アルバム画像の色照合は未実施。サイト共通色を採用。",
+      "status": "pending"
+    },
+    {
+      "id": "black-sheep-strobelite-honey-no-we-didnt-mix",
+      "title": "Strobelite Honey (No We Didn't Mix)",
+      "artist": "Black Sheep",
+      "album": "Strobelite Honey / 12-inch Single",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#171717",
+        "#0b0b0b"
+      ],
+      "paletteSource": "サイト共通パレット",
+      "paletteNote": "アルバム画像の色照合は未実施。サイト共通色を採用。",
+      "status": "pending"
+    },
+    {
+      "id": "black-sheep-without-a-doubt",
+      "title": "Without a Doubt",
+      "artist": "Black Sheep",
+      "album": "Non-Fiction",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#171717",
+        "#0b0b0b"
+      ],
+      "paletteSource": "サイト共通パレット",
+      "paletteNote": "アルバム画像の色照合は未実施。サイト共通色を採用。",
+      "status": "pending"
+    },
+    {
+      "id": "black-sheep-black-with-nv",
+      "title": "Black With N.V. (No Vision)",
+      "artist": "Black Sheep",
+      "album": "A Wolf in Sheep's Clothing",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#171717",
+        "#0b0b0b"
+      ],
+      "paletteSource": "サイト共通パレット",
+      "paletteNote": "アルバム画像の色照合は未実施。サイト共通色を採用。",
+      "status": "pending"
+    },
+    {
+      "id": "main-source-fakin-the-funk",
+      "title": "Fakin' the Funk",
+      "artist": "Main Source",
+      "album": "White Men Can’t Rap / Wild Pitch Classics",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#171717",
+        "#0b0b0b"
+      ],
+      "paletteSource": "サイト共通パレット",
+      "paletteNote": "アルバム画像の色照合は未実施。サイト共通色を採用。",
+      "status": "pending"
+    },
+    {
+      "id": "main-source-he-got-so-much-soul",
+      "title": "He Got So Much Soul (He Don't Need No Music)",
+      "artist": "Main Source",
+      "album": "Breaking Atoms",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#171717",
+        "#0b0b0b"
+      ],
+      "paletteSource": "サイト共通パレット",
+      "paletteNote": "アルバム画像の色照合は未実施。サイト共通色を採用。",
+      "status": "pending"
+    },
+    {
+      "id": "main-source-hellavision",
+      "title": "Hellavision",
+      "artist": "Main Source",
+      "album": "Fuck What You Think",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#171717",
+        "#0b0b0b"
+      ],
+      "paletteSource": "サイト共通パレット",
+      "paletteNote": "アルバム画像の色照合は未実施。サイト共通色を採用。",
+      "status": "pending"
+    },
+    {
+      "id": "dangelo-dreamin-eyes-def-squad-remix",
+      "title": "Me and Those Dreamin’ Eyes of Mine (Def Squad Remix)",
+      "artist": "D’Angelo feat. Redman",
+      "album": "Brown Sugar / Def Squad Remix",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "erick-sermon-as-the",
+      "title": "As the… (feat. Passion)",
+      "artist": "Erick Sermon feat. Passion",
+      "album": "Insomnia: The Erick Sermon Compilation Album",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "erick-sermon-its-that-hit",
+      "title": "It’s That Hit (feat. Keith Murray)",
+      "artist": "Erick Sermon & Keith Murray",
+      "album": "Insomnia: The Erick Sermon Compilation Album",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "erick-sermon-up-jump-the-boogie",
+      "title": "Up Jump the Boogie (feat. The Wixtons)",
+      "artist": "Erick Sermon feat. The Wixtons",
+      "album": "Insomnia: The Erick Sermon Compilation Album",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "redman-funkorama",
+      "title": "Funkorama",
+      "artist": "Redman",
+      "album": "Funkorama / Insomnia",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "erick-sermon-lookaway-remix",
+      "title": "Lookaway (Remix)",
+      "artist": "Erick Sermon & Questionmark Asylum",
+      "album": "Green Eyed Remixes",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "cypress-hill-throw-your-hands-in-the-air",
+      "title": "Throw Your Hands in the Air",
+      "artist": "Cypress Hill",
+      "album": "Unreleased & Revamped",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "epmd-jane-ii",
+      "title": "Jane II",
+      "artist": "EPMD",
+      "album": "Unfinished Business",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "method-man-redman-maaad-crew",
+      "title": "Maaad Crew",
+      "artist": "Method Man & Redman",
+      "album": "Blackout!",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "erick-sermon-maintain",
+      "title": "Maintain",
+      "artist": "Erick Sermon",
+      "album": "Don’t Be a Menace… Original Soundtrack",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "erick-sermon-open-fire",
+      "title": "Open Fire",
+      "artist": "Erick Sermon",
+      "album": "Double or Nothing",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "erick-sermon-lil-crazy",
+      "title": "Lil Crazy (feat. Shadz of Lingo)",
+      "artist": "Erick Sermon feat. Shadz of Lingo",
+      "album": "No Pressure",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "erick-sermon-on-the-regular",
+      "title": "On the Regular (feat. Duo)",
+      "artist": "Erick Sermon feat. Duo",
+      "album": "Insomnia: The Erick Sermon Compilation Album",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "erick-sermon-set-it-off",
+      "title": "Set It Off",
+      "artist": "Erick Sermon",
+      "album": "Double or Nothing",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "keith-murray-radio",
+      "title": "Radio",
+      "artist": "Keith Murray",
+      "album": "It’s a Beautiful Thing",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "ll-cool-j-hey-lover-street-mix",
+      "title": "Hey Lover (Street Mix)",
+      "artist": "LL Cool J feat. Boyz II Men",
+      "album": "Mr. Smith",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "erick-sermon-dip-dip-di-you-remix-me",
+      "title": "Dip Dip Di (You Remix Me)",
+      "artist": "Erick Sermon & Keith Murray",
+      "album": "Green Eyed Remixes",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "erick-sermon-stay-real-remix",
+      "title": "Stay Real (Remix)",
+      "artist": "Erick Sermon",
+      "album": "Green Eyed Remixes",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "epmd-richter-scale",
+      "title": "Richter Scale",
+      "artist": "EPMD",
+      "album": "Back in Business",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "erick-sermon-stay-real-pt-2",
+      "title": "Stay Real, Pt. 2",
+      "artist": "Erick Sermon, Nature & Keith Murray",
+      "album": "Vernia",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "epmd-youre-a-customer",
+      "title": "You’re a Customer",
+      "artist": "EPMD",
+      "album": "Strictly Business",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "erick-sermon-im-hot",
+      "title": "I’m Hot",
+      "artist": "Erick Sermon",
+      "album": "Music",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "erick-sermon-feel-it",
+      "title": "Feel It (feat. Sean Paul & Sy Scott)",
+      "artist": "Erick Sermon feat. Sean Paul & Sy Scott",
+      "album": "Chilltown, New York / Incredible",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "erick-sermon-focus",
+      "title": "Focus (feat. DJ Quik & Xzibit)",
+      "artist": "Erick Sermon feat. DJ Quik & Xzibit",
+      "album": "Def Squad Presents: Erick Onasis",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "nas-lifes-a-bitch",
+      "title": "Life’s a Bitch",
+      "artist": "Nas feat. AZ & Olu Dara",
+      "album": "Illmatic",
+      "palette": [
+        "#b58b63",
+        "#eee1cc",
+        "#ab6651",
+        "#342b25"
+      ],
+      "paletteSource": "Illmatic",
+      "paletteNote": "既存の同一アルバム設定を参照。編集上の近似配色であり厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/nas-lifes-a-bitch-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    },
+    {
+      "id": "nas-one-love",
+      "title": "One Love",
+      "artist": "Nas",
+      "album": "Illmatic",
+      "palette": [
+        "#b58b63",
+        "#eee1cc",
+        "#ab6651",
+        "#342b25"
+      ],
+      "paletteSource": "Illmatic",
+      "paletteNote": "既存の同一アルバム設定を参照。編集上の近似配色であり厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/nas-one-love-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    },
+    {
+      "id": "az-sugar-hill",
+      "title": "Sugar Hill",
+      "artist": "AZ",
+      "album": "Doe or Die",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "az-rather-unique",
+      "title": "Rather Unique",
+      "artist": "AZ",
+      "album": "Doe or Die",
+      "palette": [
+        "#6f1f21",
+        "#345c32",
+        "#b48a39",
+        "#e7ddb6"
+      ],
+      "paletteSource": "Doe or Die",
+      "paletteNote": "Apple Music掲載のDoe or Dieジャケットを目視参照。臙脂・緑・金褐色・クリームの編集上の近似配色。厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/az-rather-unique-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    },
+    {
+      "id": "pete-rock-cl-smooth-lots-of-lovin",
+      "title": "Lots of Lovin’",
+      "artist": "Pete Rock & C.L. Smooth",
+      "album": "Mecca and the Soul Brother",
+      "palette": [
+        "#ad7f52",
+        "#e7d8b8",
+        "#608e6f",
+        "#302b26"
+      ],
+      "paletteSource": "Mecca and the Soul Brother",
+      "paletteNote": "既存の同一アルバム設定を参照。編集上の近似配色であり厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/pete-rock-cl-smooth-lots-of-lovin-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    },
+    {
+      "id": "group-therapy-east-coast-west-coast-killas-fire-version",
+      "title": "East Coast / West Coast Killas (Fire Version)",
+      "artist": "Group Therapy feat. Dr. Dre",
+      "album": "Dr. Dre Presents… The Aftermath",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "dj-bombjack-lesson-7-the-next-lesson",
+      "title": "Lesson 7: The Next Lesson",
+      "artist": "DJ Bombjack",
+      "album": "Lesson 7: The Next Lesson",
+      "palette": [
+        "#151515",
+        "#555555",
+        "#bcbcbc",
+        "#f4f4f4"
+      ],
+      "paletteSource": "Lesson 7: The Next Lesson / The Forever Diggin’ EP",
+      "paletteNote": "アーティスト公式Bandcamp掲載のモノクロ盤面ジャケットを目視参照。黒・グラファイト・銀灰・白の編集上の近似配色。厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/dj-bombjack-lesson-7-the-next-lesson-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    },
+    {
+      "id": "jurassic-5-lesson-6-the-lecture",
+      "title": "Lesson 6: The Lecture",
+      "artist": "Jurassic 5",
+      "album": "Jurassic 5 EP / J5",
+      "palette": [
+        "#bd9445",
+        "#946732",
+        "#eadb8b",
+        "#282828"
+      ],
+      "paletteSource": "J5（Jurassic 5）",
+      "paletteNote": "Apple Music掲載のJ5ジャケットを目視参照。金・琥珀褐色・淡い金クリーム・チャコールの編集上の近似配色。厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/jurassic-5-lesson-6-the-lecture-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    },
+    {
+      "id": "jurassic-5-jayou",
+      "title": "Jayou",
+      "artist": "Jurassic 5",
+      "album": "Lyricist Lounge Vol. 1",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "ugly-duckling-now-who-s-laughin",
+      "title": "Now Who’s Laughin’",
+      "artist": "Ugly Duckling",
+      "album": "Fresh Mode",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "big-noyd-usual-suspect",
+      "title": "Usual Suspect",
+      "artist": "Big Noyd",
+      "album": "Episodes of a Hustla",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "dilated-peoples-work-the-angles",
+      "title": "Work the Angles",
+      "artist": "Dilated Peoples",
+      "album": "The Platform / Work the Angles",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "gang-starr-flip-the-script",
+      "title": "Flip the Script",
+      "artist": "Gang Starr",
+      "album": "Daily Operation",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "gang-starr-ex-girl-to-next-girl",
+      "title": "Ex Girl to Next Girl",
+      "artist": "Gang Starr",
+      "album": "Daily Operation",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "gang-starr-take-two-and-pass",
+      "title": "Take Two and Pass",
+      "artist": "Gang Starr",
+      "album": "Daily Operation",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "gang-starr-2-deep",
+      "title": "2 Deep",
+      "artist": "Gang Starr",
+      "album": "Daily Operation",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "gang-starr-mostly-tha-voice",
+      "title": "Mostly Tha Voice",
+      "artist": "Gang Starr",
+      "album": "Hard to Earn",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "gang-starr-the-remainz",
+      "title": "The ? Remainz",
+      "artist": "Gang Starr",
+      "album": "Suckas Need Bodyguards / The ? Remainz / Full Clip",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "gang-starr-comin-for-the-datazz",
+      "title": "Comin’ for the Datazz",
+      "artist": "Gang Starr",
+      "album": "Hard to Earn",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "gang-starr-b-y-s",
+      "title": "B.Y.S.",
+      "artist": "Gang Starr",
+      "album": "Daily Operation",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "gang-starr-alongwaytogo",
+      "title": "ALONGWAYTOGO",
+      "artist": "Gang Starr",
+      "album": "Hard to Earn",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "gang-starr-battle",
+      "title": "Battle",
+      "artist": "Gang Starr",
+      "album": "8 Mile (Music from and Inspired by the Motion Picture)",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "gang-starr-blowin-up-the-spot",
+      "title": "Blowin’ Up the Spot",
+      "artist": "Gang Starr",
+      "album": "Hard to Earn",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "gang-starr-dj-premier-in-deep-concentration",
+      "title": "DJ Premier in Deep Concentration",
+      "artist": "Gang Starr",
+      "album": "No More Mr. Nice Guy",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "gang-starr-gotta-get-over-taking-loot",
+      "title": "Gotta Get Over (Taking Loot)",
+      "artist": "Gang Starr",
+      "album": "Trespass (Music from the Motion Picture)",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "gang-starr-no-shame-in-my-game",
+      "title": "No Shame in My Game",
+      "artist": "Gang Starr",
+      "album": "Daily Operation",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "gang-starr-step-in-the-arena",
+      "title": "Step in the Arena",
+      "artist": "Gang Starr",
+      "album": "Step in the Arena",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "ジャケットからの色抽出ではなく、独自の編集配色。",
+      "status": "pending"
+    },
+    {
+      "id": "dj-shadow-in-flux",
+      "title": "In/Flux",
+      "artist": "DJ Shadow",
+      "album": "Mo' Wax singles",
+      "palette": [
+        "#608a78",
+        "#e2d5b5",
+        "#b38052",
+        "#29392f"
+      ],
+      "paletteSource": "Mo' Wax期の編集上の仮配色",
+      "paletteNote": "既存のDJ Shadow作品の配色を暫定的に継承。個別ジャケットとの照合は未完了。",
+      "status": "pending"
+    },
+    {
+      "id": "dj-shadow-lost-and-found-sfl",
+      "title": "Lost and Found (S.F.L.)",
+      "artist": "DJ Shadow",
+      "album": "Mo' Wax singles",
+      "palette": [
+        "#608a78",
+        "#e2d5b5",
+        "#b38052",
+        "#29392f"
+      ],
+      "paletteSource": "Mo' Wax期の編集上の仮配色",
+      "paletteNote": "既存のDJ Shadow作品の配色を暫定的に継承。個別ジャケットとの照合は未完了。",
+      "status": "pending"
+    },
+    {
+      "id": "dj-shadow-what-does-your-soul-look-like",
+      "title": "What Does Your Soul Look Like (Pt. 1 / Blue Sky Revisit)",
+      "artist": "DJ Shadow",
+      "album": "Endtroducing.....",
+      "palette": [
+        "#608a78",
+        "#e2d5b5",
+        "#b38052",
+        "#29392f"
+      ],
+      "paletteSource": "Endtroducing.....",
+      "paletteNote": "既存のDJ Shadow作品の配色を暫定的に継承。個別ジャケットとの照合は未完了。",
+      "status": "pending"
+    },
+    {
+      "id": "dj-shadow-high-noon",
+      "title": "High Noon",
+      "artist": "DJ Shadow",
+      "album": "Mo' Wax singles",
+      "palette": [
+        "#608a78",
+        "#e2d5b5",
+        "#b38052",
+        "#29392f"
+      ],
+      "paletteSource": "Mo' Wax期の編集上の仮配色",
+      "paletteNote": "既存のDJ Shadow作品の配色を暫定的に継承。個別ジャケットとの照合は未完了。",
+      "status": "pending"
+    },
+    {
+      "id": "dj-shadow-the-number-song",
+      "title": "The Number Song",
+      "artist": "DJ Shadow",
+      "album": "Endtroducing.....",
+      "palette": [
+        "#608a78",
+        "#e2d5b5",
+        "#b38052",
+        "#29392f"
+      ],
+      "paletteSource": "Endtroducing.....",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "dj-shadow-the-number-song-cut-chemist-remix",
+      "title": "The Number Song (Cut Chemist Remix)",
+      "artist": "DJ Shadow",
+      "album": "The Number Song (Cut Chemist Remix)",
+      "palette": [
+        "#608a78",
+        "#e2d5b5",
+        "#b38052",
+        "#29392f"
+      ],
+      "paletteSource": "Endtroducing.....",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "dj-shadow-building-steam-with-a-grain-of-salt",
+      "title": "Building Steam With a Grain of Salt",
+      "artist": "DJ Shadow",
+      "album": "Endtroducing.....",
+      "palette": [
+        "#608a78",
+        "#e2d5b5",
+        "#b38052",
+        "#29392f"
+      ],
+      "paletteSource": "Endtroducing.....",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "dj-shadow-stem-long-stem",
+      "title": "Stem/Long Stem",
+      "artist": "DJ Shadow",
+      "album": "Endtroducing.....",
+      "palette": [
+        "#608a78",
+        "#e2d5b5",
+        "#b38052",
+        "#29392f"
+      ],
+      "paletteSource": "Endtroducing.....",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "unkle-rabbit-in-your-headlights",
+      "title": "Rabbit in Your Headlights",
+      "artist": "UNKLE",
+      "album": "Psyence Fiction",
+      "palette": [
+        "#e7dfc8",
+        "#b7b9a6",
+        "#c64b3f",
+        "#292b28"
+      ],
+      "paletteSource": "Psyence Fiction",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/unkle-rabbit-in-your-headlights-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    },
+    {
+      "id": "unkle-lonely-soul",
+      "title": "Lonely Soul",
+      "artist": "UNKLE",
+      "album": "Psyence Fiction",
+      "palette": [
+        "#e7dfc8",
+        "#b7b9a6",
+        "#c64b3f",
+        "#292b28"
+      ],
+      "paletteSource": "Psyence Fiction",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "dj-shadow-six-days",
+      "title": "Six Days",
+      "artist": "DJ Shadow",
+      "album": "The Private Press",
+      "palette": [
+        "#e5dccc",
+        "#bc3432",
+        "#232222",
+        "#a8a195"
+      ],
+      "paletteSource": "The Private Press",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "dj-shadow-mashin-on-the-motorway",
+      "title": "Mashin' on the Motorway",
+      "artist": "DJ Shadow",
+      "album": "The Private Press",
+      "palette": [
+        "#e5dccc",
+        "#bc3432",
+        "#232222",
+        "#a8a195"
+      ],
+      "paletteSource": "The Private Press",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-mashin-on-the-motorway-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    },
+    {
+      "id": "dj-shadow-scale-it-back",
+      "title": "Scale It Back",
+      "artist": "DJ Shadow",
+      "album": "The Less You Know, the Better",
+      "palette": [
+        "#eee4d2",
+        "#d94132",
+        "#334a61",
+        "#282722"
+      ],
+      "paletteSource": "The Less You Know, the Better",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "dj-shadow-the-mountain-will-fall",
+      "title": "The Mountain Will Fall",
+      "artist": "DJ Shadow",
+      "album": "The Mountain Will Fall",
+      "palette": [
+        "#c8b3d7",
+        "#d1dadd",
+        "#b8bcbb",
+        "#494054"
+      ],
+      "paletteSource": "The Mountain Will Fall",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "dj-shadow-nobody-speak",
+      "title": "Nobody Speak",
+      "artist": "DJ Shadow",
+      "album": "The Mountain Will Fall",
+      "palette": [
+        "#c8b3d7",
+        "#d1dadd",
+        "#b8bcbb",
+        "#494054"
+      ],
+      "paletteSource": "The Mountain Will Fall",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-nobody-speak-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    },
+    {
+      "id": "dj-shadow-rocket-fuel",
+      "title": "Rocket Fuel",
+      "artist": "DJ Shadow",
+      "album": "Our Pathetic Age",
+      "palette": [
+        "#c1c74d",
+        "#cc5844",
+        "#3e5053",
+        "#d6d2b5"
+      ],
+      "paletteSource": "Our Pathetic Age",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "dj-shadow-ozone-scraper",
+      "title": "Ozone Scraper",
+      "artist": "DJ Shadow",
+      "album": "Action Adventure",
+      "palette": [
+        "#5a5180",
+        "#eaa44c",
+        "#a74878",
+        "#202e4f"
+      ],
+      "paletteSource": "Action Adventure",
+      "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "slum-village-players",
+      "title": "Players",
+      "artist": "Slum Village",
+      "album": "Fantastic, Vol. 2",
+      "palette": [
+        "#d59a51",
+        "#dbc5a3",
+        "#694938",
+        "#352c2b"
+      ],
+      "paletteSource": "Fantastic, Vol. 2",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "slum-village-get-dis-money",
+      "title": "Get Dis Money",
+      "artist": "Slum Village",
+      "album": "Office Space / Fantastic, Vol. 2",
+      "palette": [
+        "#d59a51",
+        "#dbc5a3",
+        "#694938",
+        "#352c2b"
+      ],
+      "paletteSource": "Office Space / Fantastic, Vol. 2",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "j-dilla-fuck-the-police",
+      "title": "Fuck the Police",
+      "artist": "J Dilla",
+      "album": "Fuck the Police / Move",
+      "palette": [
+        "#d59a51",
+        "#dbc5a3",
+        "#694938",
+        "#352c2b"
+      ],
+      "paletteSource": "Fuck the Police / Move",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "jaylib-the-red",
+      "title": "The Red",
+      "artist": "Jaylib",
+      "album": "Champion Sound / The Red & The Official",
+      "palette": [
+        "#d59a51",
+        "#dbc5a3",
+        "#694938",
+        "#352c2b"
+      ],
+      "paletteSource": "Champion Sound / The Red & The Official",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "j-dilla-workinonit",
+      "title": "Workinonit",
+      "artist": "J Dilla",
+      "album": "Donuts",
+      "palette": [
+        "#d59a51",
+        "#dbc5a3",
+        "#694938",
+        "#352c2b"
+      ],
+      "paletteSource": "Donuts",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "j-dilla-time-the-donut-of-the-heart",
+      "title": "Time: The Donut of the Heart",
+      "artist": "J Dilla",
+      "album": "Donuts",
+      "palette": [
+        "#d59a51",
+        "#dbc5a3",
+        "#694938",
+        "#352c2b"
+      ],
+      "paletteSource": "Donuts",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "j-dilla-last-donut-of-the-night",
+      "title": "Last Donut of the Night",
+      "artist": "J Dilla",
+      "album": "Donuts",
+      "palette": [
+        "#d59a51",
+        "#dbc5a3",
+        "#694938",
+        "#352c2b"
+      ],
+      "paletteSource": "Donuts",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "erykah-badu-didnt-cha-know",
+      "title": "Didn't Cha Know",
+      "artist": "Erykah Badu",
+      "album": "Mama's Gun",
+      "palette": [
+        "#d59a51",
+        "#dbc5a3",
+        "#694938",
+        "#352c2b"
+      ],
+      "paletteSource": "Mama's Gun",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "janet-jackson-got-til-its-gone",
+      "title": "Got 'Til It's Gone",
+      "artist": "Janet Jackson",
+      "album": "The Velvet Rope",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "The Velvet Rope",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "janet-jackson-got-til-its-gone-jay-dees-revenge-mix",
+      "title": "Got 'Til It's Gone (Ummah Jay Dee's Revenge Mix)",
+      "artist": "Janet Jackson",
+      "album": "Got 'Til It's Gone / The Velvet Rope (Deluxe Edition)",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "Got 'Til It's Gone / The Velvet Rope (Deluxe Edition)",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "lootpack-whenimondamic",
+      "title": "Whenimondamic",
+      "artist": "Lootpack",
+      "album": "Soundpieces: Da Antidote!",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "Soundpieces: Da Antidote!",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "quasimoto-microphone-mathematics",
+      "title": "Microphone Mathematics",
+      "artist": "Quasimoto",
+      "album": "Microphone Mathematics / The Unseen",
+      "palette": [
+        "#dfad42",
+        "#a85c34",
+        "#c9c286",
+        "#3b3930"
+      ],
+      "paletteSource": "Microphone Mathematics / The Unseen",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "quasimoto-low-class-conspiracy",
+      "title": "Low Class Conspiracy",
+      "artist": "Quasimoto",
+      "album": "Microphone Mathematics / The Unseen",
+      "palette": [
+        "#dfad42",
+        "#a85c34",
+        "#c9c286",
+        "#3b3930"
+      ],
+      "paletteSource": "Microphone Mathematics / The Unseen",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "madlib-slims-return",
+      "title": "Slim's Return",
+      "artist": "Madlib",
+      "album": "Shades of Blue",
+      "palette": [
+        "#234c74",
+        "#7ba3bd",
+        "#b7c8ce",
+        "#dcd7bb"
+      ],
+      "paletteSource": "Shades of Blue",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/madlib-slims-return-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    },
+    {
+      "id": "madvillain-americas-most-blunted",
+      "title": "America's Most Blunted",
+      "artist": "Madvillain",
+      "album": "Money Folder / America's Most Blunted / Madvillainy",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "Money Folder / America's Most Blunted / Madvillainy",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "madvillain-accordion",
+      "title": "Accordion",
+      "artist": "Madvillain",
+      "album": "Madvillainy",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "Madvillainy",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "madvillain-all-caps",
+      "title": "All Caps",
+      "artist": "Madvillain",
+      "album": "Madvillainy",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "Madvillainy",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "madvillain-meat-grinder",
+      "title": "Meat Grinder",
+      "artist": "Madvillain",
+      "album": "Madvillainy",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "Madvillainy",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "freddie-gibbs-madlib-thuggin",
+      "title": "Thuggin'",
+      "artist": "Freddie Gibbs & Madlib",
+      "album": "Thuggin' EP / Piñata",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "Thuggin' EP / Piñata",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "freddie-gibbs-madlib-crime-pays",
+      "title": "Crime Pays",
+      "artist": "Freddie Gibbs & Madlib",
+      "album": "Bandana",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "Bandana",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "madlib-road-of-the-lonely-ones",
+      "title": "Road of the Lonely Ones",
+      "artist": "Madlib",
+      "album": "Road of the Lonely Ones / Sound Ancestors",
+      "palette": [
+        "#386b5c",
+        "#638a74",
+        "#b3a56b",
+        "#222c24"
+      ],
+      "paletteSource": "Road of the Lonely Ones / Sound Ancestors",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "mf-doom-one-beer",
+      "title": "One Beer",
+      "artist": "MF DOOM",
+      "album": "MM..FOOD",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "MM..FOOD",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "de-la-soul-shopping-bags",
+      "title": "Shopping Bags (She Got from You)",
+      "artist": "De La Soul",
+      "album": "The Grind Date",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "The Grind Date",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "mos-def-auditorium",
+      "title": "Auditorium",
+      "artist": "Mos Def",
+      "album": "The Ecstatic",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "The Ecstatic",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "kanye-west-no-more-parties-in-la",
+      "title": "No More Parties in LA",
+      "artist": "Kanye West",
+      "album": "The Life of Pablo",
+      "palette": [
+        "#a7a8a6",
+        "#dbd8ce",
+        "#c57e3c",
+        "#303336"
+      ],
+      "paletteSource": "The Life of Pablo",
+      "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
+      "status": "pending"
+    },
+    {
+      "id": "dj-shadow-organ-donor-extended-overhaul",
+      "title": "Organ Donor (Extended Overhaul)",
+      "artist": "DJ Shadow",
+      "album": "High Noon / Endtroducing..... (Deluxe Edition)",
+      "palette": [
+        "#608a78",
+        "#e2d5b5",
+        "#b38052",
+        "#29392f"
+      ],
+      "paletteSource": "Endtroducing.....",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "status": "pending"
+    },
+    {
+      "id": "j-live-hush-the-crowd",
+      "title": "Hush The Crowd",
+      "artist": "J-Live",
+      "album": "Can I Get It? / Hush the Crowd",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "dead-poetz-society-lick-a-shot-remix",
+      "title": "Lick A Shot (Remix)",
+      "artist": "Dead Poetz Society",
+      "album": "Klockuz / Lick a Shot",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "the-roots-push-up-ya-lighter",
+      "title": "Push Up Ya Lighter",
+      "artist": "The Roots",
+      "album": "Illadelph Halflife",
+      "palette": [
+        "#9c7660",
+        "#e5daca",
+        "#6d828b",
+        "#2c2d30"
+      ],
+      "paletteSource": "Illadelph Halflife",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "ed-o-g-what-u-got",
+      "title": "What U Got",
+      "artist": "Ed O.G",
+      "album": "Six Song EP",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "camp-lo-swing",
+      "title": "Swing",
+      "artist": "Camp Lo",
+      "album": "Uptown Saturday Night",
+      "palette": [
+        "#c87a3b",
+        "#e8d29b",
+        "#8c536f",
+        "#352b30"
+      ],
+      "paletteSource": "Uptown Saturday Night",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "a-tribe-called-quest-crew",
+      "title": "Crew",
+      "artist": "A Tribe Called Quest",
+      "album": "Beats, Rhymes and Life",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "heltah-skeltah-therapy",
+      "title": "Therapy",
+      "artist": "Heltah Skeltah",
+      "album": "Nocturnal",
+      "palette": [
+        "#9f6c46",
+        "#e4d2b4",
+        "#677e90",
+        "#222a32"
+      ],
+      "paletteSource": "Nocturnal",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "bush-babees-feat-mos-def-the-love-song",
+      "title": "The Love Song",
+      "artist": "Bush Babees feat. Mos Def",
+      "album": "Gravity",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "big-noyd-usual-suspect-stretch-armstrong-remix",
+      "title": "Usual Suspect (Stretch Armstrong Remix)",
+      "artist": "Big Noyd",
+      "album": "Episodes of a Hustla",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "sadat-x-the-lump-lump-nubian-mix",
+      "title": "The Lump Lump (Nubian Mix)",
+      "artist": "Sadat X",
+      "album": "The Lump Lump",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "krs-one-feat-busta-rhymes-build-ya-skillz",
+      "title": "Build Ya Skillz",
+      "artist": "KRS-One feat. Busta Rhymes",
+      "album": "KRS-One",
+      "palette": [
+        "#aa724b",
+        "#e6d7b9",
+        "#8c9085",
+        "#2b2825"
+      ],
+      "paletteSource": "KRS-One",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "o-c-o-zone",
+      "title": "O-Zone",
+      "artist": "O.C.",
+      "album": "Word...Life",
+      "palette": [
+        "#b37543",
+        "#ead5a2",
+        "#60704c",
+        "#24211b"
+      ],
+      "paletteSource": "Word...Life",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "grand-puba-a-little-of-this",
+      "title": "A Little Of This",
+      "artist": "Grand Puba",
+      "album": "2000",
+      "palette": [
+        "#9d704d",
+        "#e5d0ad",
+        "#85949a",
+        "#2c2a29"
+      ],
+      "paletteSource": "2000",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "az-gimme-yours",
+      "title": "Gimme Yours",
+      "artist": "AZ",
+      "album": "Doe or Die",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "mobb-deep-up-north-trip",
+      "title": "Up North Trip",
+      "artist": "Mobb Deep",
+      "album": "The Infamous",
+      "palette": [
+        "#aa7650",
+        "#e0c9a6",
+        "#8b715d",
+        "#2e2823"
+      ],
+      "paletteSource": "The Infamous",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "a-tribe-called-quest-sucka-nigga",
+      "title": "Sucka Nigga",
+      "artist": "A Tribe Called Quest",
+      "album": "Midnight Marauders",
+      "palette": [
+        "#d93433",
+        "#e4cc54",
+        "#35926c",
+        "#222126"
+      ],
+      "paletteSource": "Midnight Marauders",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "o-c-organized-konfusion-you-won-t-go-far",
+      "title": "You Won't Go Far",
+      "artist": "O.C. & Organized Konfusion",
+      "album": "New Jersey Drive, Vol. 2",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "big-l-all-black",
+      "title": "All Black",
+      "artist": "Big L",
+      "album": "Lifestylez ov da Poor & Dangerous",
+      "palette": [
+        "#78907c",
+        "#e6d8b8",
+        "#ad6750",
+        "#282a26"
+      ],
+      "paletteSource": "Lifestylez ov da Poor & Dangerous",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "smif-n-wessun-let-s-git-it-on",
+      "title": "Let's Git It On",
+      "artist": "Smif-N-Wessun",
+      "album": "Dah Shinin'",
+      "palette": [
+        "#aa713c",
+        "#ebd798",
+        "#518070",
+        "#201b16"
+      ],
+      "paletteSource": "Dah Shinin’",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "black-moon-how-many-mc-s",
+      "title": "How Many MC's",
+      "artist": "Black Moon",
+      "album": "Enta da Stage",
+      "palette": [
+        "#b6403c",
+        "#e7c94b",
+        "#5b7191",
+        "#25252e"
+      ],
+      "paletteSource": "Enta da Stage",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "group-home-up-against-the-wall-low-budget-mix",
+      "title": "Up Against The Wall (Low Budget Mix)",
+      "artist": "Group Home",
+      "album": "Livin' Proof",
+      "palette": [
+        "#a38460",
+        "#e6e0d1",
+        "#809295",
+        "#2c3031"
+      ],
+      "paletteSource": "Livin' Proof",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "kool-g-rap-blowin-up-in-the-world",
+      "title": "Blowin' Up In The World",
+      "artist": "Kool G Rap",
+      "album": "4,5,6",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "o-c-word-life",
+      "title": "Word...Life",
+      "artist": "O.C.",
+      "album": "Word...Life",
+      "palette": [
+        "#b37543",
+        "#ead5a2",
+        "#60704c",
+        "#24211b"
+      ],
+      "paletteSource": "Word...Life",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "the-roots-distortion-to-static",
+      "title": "Distortion To Static",
+      "artist": "The Roots",
+      "album": "Distortion to Static / Do You Want More?!!!??!",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "erick-sermon-bomdigi",
+      "title": "Bomdigi",
+      "artist": "Erick Sermon",
+      "album": "Double or Nothing",
+      "palette": [
+        "#006cb6",
+        "#ffffff",
+        "#8dc9ed",
+        "#101114"
+      ],
+      "paletteSource": "Crate Diggin’のブランドカラー",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "pete-rock-c-l-smooth-the-main-ingredient",
+      "title": "The Main Ingredient",
+      "artist": "Pete Rock & C.L. Smooth",
+      "album": "The Main Ingredient",
+      "palette": [
+        "#ce9f40",
+        "#f3e3b4",
+        "#98705a",
+        "#211c19"
+      ],
+      "paletteSource": "The Main Ingredient",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "pete-rock-c-l-smooth-worldwide",
+      "title": "Worldwide",
+      "artist": "Pete Rock & C.L. Smooth",
+      "album": "The Main Ingredient",
+      "palette": [
+        "#ce9f40",
+        "#f3e3b4",
+        "#98705a",
+        "#211c19"
+      ],
+      "paletteSource": "The Main Ingredient",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "black-moon-buck-em-down",
+      "title": "Buck 'Em Down",
+      "artist": "Black Moon",
+      "album": "Enta da Stage",
+      "palette": [
+        "#b6403c",
+        "#e7c94b",
+        "#5b7191",
+        "#25252e"
+      ],
+      "paletteSource": "Enta da Stage",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "common-breaker-1-9",
+      "title": "Breaker 1/9",
+      "artist": "Common",
+      "album": "Can I Borrow a Dollar?",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "das-efx-mic-checka",
+      "title": "Mic Checka",
+      "artist": "Das EFX",
+      "album": "Dead Serious",
+      "palette": [
+        "#c28438",
+        "#e3d9ad",
+        "#778755",
+        "#2a2c20"
+      ],
+      "paletteSource": "Dead Serious",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "cypress-hill-stoned-is-the-way-of-the-walk",
+      "title": "Stoned Is The Way Of The Walk",
+      "artist": "Cypress Hill",
+      "album": "Cypress Hill",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "a-tribe-called-quest-vibes-and-stuff",
+      "title": "Vibes And Stuff",
+      "artist": "A Tribe Called Quest",
+      "album": "The Low End Theory",
+      "palette": [
+        "#c02c32",
+        "#75a550",
+        "#f1d84c",
+        "#151718"
+      ],
+      "paletteSource": "The Low End Theory",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "brand-nubian-steady-bootleggin",
+      "title": "Steady Bootleggin'",
+      "artist": "Brand Nubian",
+      "album": "In God We Trust",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "epmd-underground",
+      "title": "Underground",
+      "artist": "EPMD",
+      "album": "Business as Usual",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "chubb-rock-the-one",
+      "title": "The One",
+      "artist": "Chubb Rock",
+      "album": "The One",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "big-daddy-kane-taste-of-chocolate-video-version",
+      "title": "Taste of Chocolate (Video Version)",
+      "artist": "Big Daddy Kane",
+      "album": "Taste of Chocolate",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "pete-rock-c-l-smooth-anger-in-the-nation",
+      "title": "Anger In The Nation",
+      "artist": "Pete Rock & C.L. Smooth",
+      "album": "Mecca and the Soul Brother",
+      "palette": [
+        "#ad7f52",
+        "#e7d8b8",
+        "#608e6f",
+        "#302b26"
+      ],
+      "paletteSource": "Mecca and the Soul Brother",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "lord-finesse-dj-mike-smooth-bud-mutha",
+      "title": "Bud Mutha",
+      "artist": "Lord Finesse & DJ Mike Smooth",
+      "album": "Funky Technician",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "slick-rick-it-s-a-boy",
+      "title": "It's A Boy",
+      "artist": "Slick Rick",
+      "album": "The Ruler's Back",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "poor-righteous-teachers-shakiyla-jrh",
+      "title": "Shakiyla (JRH)",
+      "artist": "Poor Righteous Teachers",
+      "album": "Pure Poverty",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "3rd-bass-derelicts-of-dialect",
+      "title": "Derelicts Of Dialect",
+      "artist": "3rd Bass",
+      "album": "Derelicts of Dialect",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "tim-dog-i-ain-t-havin-it-feat-kool-keith",
+      "title": "I Ain't Havin' It (feat. Kool Keith)",
+      "artist": "Tim Dog",
+      "album": "Penicillin on Wax",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "ll-cool-j-the-boomin-system",
+      "title": "The Boomin' System",
+      "artist": "LL Cool J",
+      "album": "Mama Said Knock You Out",
+      "palette": [
+        "#a94738",
+        "#e6d9bf",
+        "#7c8c84",
+        "#242a27"
+      ],
+      "paletteSource": "Mama Said Knock You Out",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "cypress-hill-hand-on-the-pump",
+      "title": "Hand On The Pump",
+      "artist": "Cypress Hill",
+      "album": "Cypress Hill",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "de-la-soul-oodles-of-o-s",
+      "title": "Oodles Of O's",
+      "artist": "De La Soul",
+      "album": "De La Soul Is Dead",
+      "palette": [
+        "#8e3e43",
+        "#e5d6c5",
+        "#729385",
+        "#342b28"
+      ],
+      "paletteSource": "De La Soul Is Dead",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "brand-nubian-love-me-or-leave-me-alone",
+      "title": "Love Me Or Leave Me Alone",
+      "artist": "Brand Nubian",
+      "album": "In God We Trust",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "nice-smooth-how-to-flow",
+      "title": "How To Flow",
+      "artist": "Nice & Smooth",
+      "album": "Ain't a Damn Thing Changed",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "showbiz-a-g-he-say-she-say",
+      "title": "He Say, She Say",
+      "artist": "Showbiz & A.G.",
+      "album": "Runaway Slave",
+      "palette": [
+        "#b38958",
+        "#e9dcc4",
+        "#ba5440",
+        "#322d27"
+      ],
+      "paletteSource": "Runaway Slave",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "diamond-the-psychotic-neurotics-freestyle-yo-that-s-that-shit",
+      "title": "Freestyle (Yo, That's That Shit)",
+      "artist": "Diamond & The Psychotic Neurotics",
+      "album": "Stunts, Blunts & Hip Hop",
+      "palette": [
+        "#ae764c",
+        "#eee1c9",
+        "#94a393",
+        "#33362d"
+      ],
+      "paletteSource": "Stunts, Blunts & Hip Hop",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "eric-b-rakim-what-s-on-your-mind",
+      "title": "What's On Your Mind?",
+      "artist": "Eric B. & Rakim",
+      "album": "House Party 2 / Don't Sweat the Technique",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "da-bush-babees-we-run-things-it-s-like-dat",
+      "title": "We Run Things (It's Like Dat)",
+      "artist": "Da Bush Babees",
+      "album": "Ambushed",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "the-pharcyde-4-better-or-4-worse",
+      "title": "4 Better Or 4 Worse",
+      "artist": "The Pharcyde",
+      "album": "Bizarre Ride II the Pharcyde",
+      "palette": [
+        "#ebbf36",
+        "#67b5c2",
+        "#e45f8a",
+        "#32285c"
+      ],
+      "paletteSource": "Bizarre Ride II the Pharcyde",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "da-king-i-flip-da-scrip",
+      "title": "Flip Da Scrip",
+      "artist": "Da King & I",
+      "album": "Flip da Scrip / Contemporary Jeep Music",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "kirk-uptown-style",
+      "title": "Uptown Style",
+      "artist": "Kirk",
+      "album": "Uptown Style",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "super-lover-cee-casanova-rud-this-dub-s-for-you",
+      "title": "This Dub's For You",
+      "artist": "Super Lover Cee & Casanova Rud",
+      "album": "Blow Up the Spot",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "nice-smooth-old-to-the-new",
+      "title": "Old To The New",
+      "artist": "Nice & Smooth",
+      "album": "Jewel of the Nile",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "da-youngsta-s-pass-da-mic",
+      "title": "Pass Da Mic",
+      "artist": "Da Youngsta's",
+      "album": "Somethin 4 da Youngsta's",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "zhigge-toss-it-up",
+      "title": "Toss It Up",
+      "artist": "Zhigge",
+      "album": "Zhigge",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "mesanjarz-of-funk-flip-da-script",
+      "title": "Flip Da Script",
+      "artist": "Mesanjarz of Funk",
+      "album": "Mesanjarz of Funk",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "leaders-of-the-new-school-what-s-next",
+      "title": "What's Next?",
+      "artist": "Leaders of the New School",
+      "album": "T.I.M.E. (The Inner Mind's Eye)",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "neneh-cherry-i-ain-t-gone-under-yet",
+      "title": "I Ain't Gone Under Yet",
+      "artist": "Neneh Cherry",
+      "album": "Homebrew",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "trends-of-culture-valley-of-the-skinz",
+      "title": "Valley Of The Skinz",
+      "artist": "Trends of Culture",
+      "album": "Trendz",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "the-beatnuts-rik-s-joint",
+      "title": "Rik's Joint",
+      "artist": "The Beatnuts",
+      "album": "The Beatnuts (Street Level)",
+      "palette": [
+        "#ba3638",
+        "#ece1bf",
+        "#d5ae41",
+        "#211e20"
+      ],
+      "paletteSource": "The Beatnuts（Street Level）",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "m-o-p-rugged-neva-smoove",
+      "title": "Rugged Neva Smoove",
+      "artist": "M.O.P.",
+      "album": "To the Death",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "champ-mc-keep-it-on-the-real",
+      "title": "Keep It On The Real",
+      "artist": "Champ MC",
+      "album": "Ghetto Flava",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "brand-nubian-word-is-bond",
+      "title": "Word Is Bond",
+      "artist": "Brand Nubian",
+      "album": "Everything Is Everything",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "boogiemonsters-strange",
+      "title": "Strange",
+      "artist": "Boogiemonsters",
+      "album": "Riders of the Storm: The Underwater Album",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "yaggfu-front-left-field",
+      "title": "Left Field",
+      "artist": "Yaggfu Front",
+      "album": "Left Field / Action Packed Adventure!",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "grand-puba-amazing",
+      "title": "Amazing",
+      "artist": "Grand Puba",
+      "album": "2000",
+      "palette": [
+        "#9d704d",
+        "#e5d0ad",
+        "#85949a",
+        "#2c2a29"
+      ],
+      "paletteSource": "2000",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "redman-time-4-sum-aksion",
+      "title": "Time 4 Sum Aksion",
+      "artist": "Redman",
+      "album": "Whut? Thee Album",
+      "palette": [
+        "#a3473b",
+        "#e6d8c3",
+        "#8d8273",
+        "#312a24"
+      ],
+      "paletteSource": "Whut? Thee Album",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "k-solo-letterman",
+      "title": "Letterman",
+      "artist": "K-Solo",
+      "album": "Time's Up",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "krs-one-i-can-t-wake-up",
+      "title": "I Can't Wake Up",
+      "artist": "KRS-One",
+      "album": "Return of the Boom Bap",
+      "palette": [
+        "#ad3a32",
+        "#e5d0b8",
+        "#837660",
+        "#29251f"
+      ],
+      "paletteSource": "Return of the Boom Bap",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "gang-starr-now-you-re-mine",
+      "title": "Now You're Mine",
+      "artist": "Gang Starr",
+      "album": "Hard to Earn",
+      "palette": [
+        "#bf5737",
+        "#d4b66f",
+        "#ece5cc",
+        "#231f1c"
+      ],
+      "paletteSource": "Hard to Earn",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "dj-jazzy-jeff-the-fresh-prince-somethin-like-dis",
+      "title": "Somethin' Like Dis",
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "album": "Code Red",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "doug-e-fresh-bounce",
+      "title": "Bounce",
+      "artist": "Doug E. Fresh",
+      "album": "Bounce",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "das-efx-looseys",
+      "title": "Looseys",
+      "artist": "Das EFX",
+      "album": "Dead Serious",
+      "palette": [
+        "#c28438",
+        "#e3d9ad",
+        "#778755",
+        "#2a2c20"
+      ],
+      "paletteSource": "Dead Serious",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "the-pharcyde-officer",
+      "title": "Officer",
+      "artist": "The Pharcyde",
+      "album": "Bizarre Ride II the Pharcyde",
+      "palette": [
+        "#ebbf36",
+        "#67b5c2",
+        "#e45f8a",
+        "#32285c"
+      ],
+      "paletteSource": "Bizarre Ride II the Pharcyde",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "original-flavor-all-that",
+      "title": "All That",
+      "artist": "Original Flavor",
+      "album": "All That / Beyond Flavor",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "dred-scott-nutin-ta-lose",
+      "title": "Nutin' Ta Lose",
+      "artist": "Dred Scott",
+      "album": "Nutin' Ta Lose / Breakin' Combs",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "black-maddness-wild-brooklyn-bandits",
+      "title": "Wild Brooklyn Bandits",
+      "artist": "Black Maddness",
+      "album": "How Many Styles / Wild Brooklyn Bandits",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "queen-latifah-latifah-s-had-it-up-2-here",
+      "title": "Latifah's Had It Up 2 Here",
+      "artist": "Queen Latifah",
+      "album": "Nature of a Sista'",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "n-w-a-express-yourself",
+      "title": "Express Yourself",
+      "artist": "N.W.A.",
+      "album": "Straight Outta Compton",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "cypress-hill-the-phuncky-feel-one",
+      "title": "The Phuncky Feel One",
+      "artist": "Cypress Hill",
+      "album": "Cypress Hill",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "double-xx-posse-we-got-it-goin-on",
+      "title": "We Got It Goin' On",
+      "artist": "Double XX Posse",
+      "album": "Put Ya Boots On",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "chubb-rock-treat-em-right",
+      "title": "Treat 'Em Right",
+      "artist": "Chubb Rock",
+      "album": "Treat 'Em Right / The One",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "epmd-it-s-time-2-party",
+      "title": "It's Time 2 Party",
+      "artist": "EPMD",
+      "album": "Unfinished Business",
+      "palette": [
+        "#ba3437",
+        "#e9ddcb",
+        "#7d7a6d",
+        "#292524"
+      ],
+      "paletteSource": "Unfinished Business",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "boogie-down-productions-you-must-learn",
+      "title": "You Must Learn",
+      "artist": "Boogie Down Productions",
+      "album": "Ghetto Music: The Blueprint of Hip Hop",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "the-troubleneck-brothers-back-to-the-hip-hop",
+      "title": "Back To The Hip Hop",
+      "artist": "The Troubleneck Brothers",
+      "album": "Back to the Hip Hop",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "the-notorious-b-i-g-just-playing-dreams",
+      "title": "Just Playing (Dreams)",
+      "artist": "The Notorious B.I.G.",
+      "album": "Just Playing (Dreams) / Ready to Die (bonus track)",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "jeru-the-damaja-da-bichez",
+      "title": "Da Bichez",
+      "artist": "Jeru the Damaja",
+      "album": "The Sun Rises in the East",
+      "palette": [
+        "#aa6745",
+        "#e3ccb1",
+        "#718593",
+        "#2d2a28"
+      ],
+      "paletteSource": "The Sun Rises in the East",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "krs-one-return-of-the-boom-bap",
+      "title": "Return Of The Boom Bap",
+      "artist": "KRS-One",
+      "album": "Return of the Boom Bap",
+      "palette": [
+        "#ad3a32",
+        "#e5d0b8",
+        "#837660",
+        "#29251f"
+      ],
+      "paletteSource": "Return of the Boom Bap",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "akinyele-ak-ha-ha-ak-hoo-hoo",
+      "title": "Ak Ha Ha! Ak Hoo Hoo?",
+      "artist": "Akinyele",
+      "album": "Vagina Diner",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "intelligent-hoodlum-at-large",
+      "title": "At Large",
+      "artist": "Intelligent Hoodlum",
+      "album": "Tragedy: Saga of a Hoodlum",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "a-tribe-called-quest-show-business",
+      "title": "Show Business",
+      "artist": "A Tribe Called Quest",
+      "album": "The Low End Theory",
+      "palette": [
+        "#c02c32",
+        "#75a550",
+        "#f1d84c",
+        "#151718"
+      ],
+      "paletteSource": "The Low End Theory",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "diamond-the-psychotic-neurotics-pass-dat-shit",
+      "title": "Pass Dat Shit",
+      "artist": "Diamond & The Psychotic Neurotics",
+      "album": "Stunts, Blunts & Hip Hop",
+      "palette": [
+        "#ae764c",
+        "#eee1c9",
+        "#94a393",
+        "#33362d"
+      ],
+      "paletteSource": "Stunts, Blunts & Hip Hop",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "the-legion-legion-groove",
+      "title": "Legion Groove",
+      "artist": "The Legion",
+      "album": "Theme + Echo = Krill",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "common-take-it-ez",
+      "title": "Take It EZ",
+      "artist": "Common",
+      "album": "Can I Borrow a Dollar?",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "showbiz-a-g-silence-of-the-lambs",
+      "title": "Silence Of The Lambs",
+      "artist": "Showbiz & A.G.",
+      "album": "Runaway Slave",
+      "palette": [
+        "#b38958",
+        "#e9dcc4",
+        "#ba5440",
+        "#322d27"
+      ],
+      "paletteSource": "Runaway Slave",
+      "paletteNote": "既存の同一アルバム設定を参照。",
+      "status": "pending"
+    },
+    {
+      "id": "original-flavor-feat-jay-z-can-i-get-open",
+      "title": "Can I Get Open",
+      "artist": "Original Flavor feat. Jay-Z",
+      "album": "Beyond Flavor",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "the-umc-s-never-never-land",
+      "title": "Never Never Land",
+      "artist": "The UMC's",
+      "album": "Fruits of Nature",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケットの色を未照合のため、サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "fat-joe-dat-gangsta-shit",
+      "title": "Dat Gangsta Shit",
+      "artist": "Fat Joe",
+      "album": "Don Cartagena",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "busta-rhymes-everybody-rise",
+      "title": "Everybody Rise",
+      "artist": "Busta Rhymes",
+      "album": "Extinction Level Event: The Final World Front",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "lord-finesse-yes-you-may-funk-flow-mix",
+      "title": "Yes You May (Funk Flow Mix)",
+      "artist": "Lord Finesse feat. Big L",
+      "album": "Party Over Here (12-inch single, B-side)",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "the-roots-without-a-doubt",
+      "title": "Without a Doubt",
+      "artist": "The Roots",
+      "album": "Things Fall Apart",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通の青・白・黒を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "black-moon-showdown",
+      "title": "Showdown",
+      "artist": "Black Moon",
+      "album": "War Zone",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "eminem-my-name-is",
+      "title": "My Name Is",
+      "artist": "Eminem",
+      "album": "The Slim Shady LP",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "all-city-get-paid",
+      "title": "Get Paid",
+      "artist": "All City",
+      "album": "Metropolis Gold",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "kool-g-rap-cant-stop-the-shine",
+      "title": "Can't Stop the Shine",
+      "artist": "Kool G Rap",
+      "album": "Roots of Evil",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "nas-street-dreams",
+      "title": "Street Dreams",
+      "artist": "Nas",
+      "album": "It Was Written",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "status": "pending"
+    },
+    {
+      "id": "jay-z-cant-knock-the-hustle",
+      "title": "Can't Knock the Hustle",
+      "artist": "Jay-Z",
+      "album": "Reasonable Doubt",
+      "palette": [
+        "#006CB6",
+        "#ffffff",
+        "#111111",
+        "#9ba2a9"
+      ],
+      "paletteSource": "サイト共通色",
+      "paletteNote": "ジャケット色は未照合。サイト共通色を使用。",
+      "status": "pending"
+    }
+  ],
+  "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
+  "batchSize": 50
+}

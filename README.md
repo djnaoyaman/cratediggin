@@ -89,3 +89,7 @@ GA4に以下のイベントを送ります。ページ表示は実URLとタイ�
 手動のページ表示イベントと二重計測にならないよう、GA4の拡張計測で履歴変更による自動ページ表示の設定も確認してください。GA4管理画面のキーイベント指定、カスタムディメンション登録、Google Adsとの連携はアカウント側の設定です。ソースのイベント追加だけでは広告コンバージョンの設定完了にはなりません。ブラウザテストでは外部の計測スクリプトを止め、イベントのキューだけを検証します。
 
 追加検証: `python scripts/verify_discovery.py`、`python scripts/test_revision_dates.py`、`node scripts/verify_discovery_browser.cjs`。静的HTML、OGP、canonical、画像、実URLの内部リンク、構造化データと改訂根拠、画面移動・共有・計測・JavaScript無効時の本文を検証します。
+
+## 楽曲アートの制作・公開ルール
+
+[ARTWORK_NOTES.md](ARTWORK_NOTES.md)、[ADDING_TRACKS.md](ADDING_TRACKS.md)、[AGENTS.md](AGENTS.md) を次回以降も適用します。作品ジャケットの配色、実際の透過背景、壁面の描画演出、曲名・アーティスト名・CRATE DIGGIN・DJ Naoyamanを含むaltを共通基準とし、最初の42曲の公開後は50曲単位で371曲まで進めます。

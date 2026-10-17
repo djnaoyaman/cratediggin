@@ -1,0 +1,135 @@
+[
+  {
+    "id": "nas-lifes-a-bitch",
+    "title": "Life’s a Bitch",
+    "artist": "Nas feat. AZ & Olu Dara",
+    "album": "Illmatic",
+    "sources": [
+      {
+        "label": "Nas — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=AxKleuLBRcw",
+        "kind": "公式配信"
+      },
+      {
+        "label": "サンプル関係の確認 — The Gap Band / Yearning for Your Love",
+        "url": "https://glidemagazine.com/324119/golden-age-thursday-samples-the-gap-bands-yearning-for-your-love-1980-gets-positioned-alongside-hip-hop-heavyweights-like-nas-1994-the-pharcyde-1995/",
+        "kind": "サンプル照合"
+      }
+    ],
+    "palette": [
+      "#b58b63",
+      "#eee1cc",
+      "#ab6651",
+      "#342b25"
+    ],
+    "paletteSource": "Illmatic",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "canonicalAlbumPalette": true
+  },
+  {
+    "id": "nas-one-love",
+    "title": "One Love",
+    "artist": "Nas",
+    "album": "Illmatic",
+    "sources": [
+      {
+        "label": "Nas — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=hxce_qvhi5I",
+        "kind": "公式配信"
+      },
+      {
+        "label": "サンプル関係の確認 — The Heath Brothers / Smilin’ Billy Suite, Part II",
+        "url": "https://www.whosampled.com/sample/405421/Hardwe%27re-The-Pressure-Nas-Q-Tip-One-Love/",
+        "kind": "サンプル照合"
+      }
+    ],
+    "palette": [
+      "#b58b63",
+      "#eee1cc",
+      "#ab6651",
+      "#342b25"
+    ],
+    "paletteSource": "Illmatic",
+    "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+    "canonicalAlbumPalette": true
+  },
+  {
+    "id": "az-rather-unique",
+    "title": "Rather Unique",
+    "artist": "AZ",
+    "album": "Doe or Die",
+    "sources": [
+      {
+        "label": "AZ Quiet Money — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=cPTokrGDIVs",
+        "kind": "公式配信"
+      },
+      {
+        "label": "サンプル関係の確認 — Les McCann / Anticipation",
+        "url": "https://www.lesmccannxmas.com/sampled-works",
+        "kind": "サンプル照合"
+      }
+    ],
+    "palette": [
+      "#006cb6",
+      "#ffffff",
+      "#8dc9ed",
+      "#101114"
+    ],
+    "paletteSource": "Crate Diggin’のブランドカラー",
+    "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。"
+  },
+  {
+    "id": "pete-rock-cl-smooth-lots-of-lovin",
+    "title": "Lots of Lovin’",
+    "artist": "Pete Rock & C.L. Smooth",
+    "album": "Mecca and the Soul Brother",
+    "sources": [
+      {
+        "label": "Pete Rock Official — 採用した公式YouTube音源・版名",
+        "url": "https://www.youtube.com/watch?v=8fU4juGF3xI",
+        "kind": "公式配信"
+      },
+      {
+        "label": "サンプル関係の確認 — Ohio Players / What’s Going On",
+        "url": "https://magazine.waxpoetics.com/listen/pete-rock-cl-smooth-mecca-soul-brother-25th-anniversary-mixtape/",
+        "kind": "サンプル照合"
+      }
+    ],
+    "palette": [
+      "#ad7f52",
+      "#e7d8b8",
+      "#608e6f",
+      "#302b26"
+    ],
+    "paletteSource": "Mecca and the Soul Brother",
+    "paletteNote": "既存の同一アルバム設定を参照。",
+    "canonicalAlbumPalette": true
+  },
+  {
+    "id": "jurassic-5-lesson-6-the-lecture",
+    "title": "Lesson 6: The Lecture",
+    "artist": "Jurassic 5",
+    "album": "Jurassic 5 EP / J5",
+    "sources": [
+      {
+        "label": "Jurassic 5 - Topic — Lesson 6: The Lecture",
+        "url": "https://www.youtube.com/watch?v=bcOv_eBmaSk",
+        "kind": "公式音源"
+      },
+      {
+        "label": "収録・発表の資料",
+        "url": "https://pitchfork.com/news/34001-jurassic-5-reissue-expand-debut-lp/",
+        "kind": "盤情報"
+      }
+    ],
+    "palette": [
+      "#006cb6",
+      "#ffffff",
+      "#8dc9ed",
+      "#101114"
+    ],
+    "paletteSource": "Crate Diggin’のブランドカラー",
+    "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。"
+  }
+]

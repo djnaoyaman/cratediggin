@@ -1,0 +1,62 @@
+{
+  "target": 42,
+  "catalogTotal": 371,
+  "nextBatchSize": 50,
+  "massAppealRecoveredBlob": "7b8faefc44075ce1a98f9bc62e5eaa3152d06c17",
+  "partitions": {
+    "a": [
+      "can-i-kick-it",
+      "bucktown",
+      "times-up",
+      "a-tribe-called-quest-electric-relaxation",
+      "a-tribe-called-quest-bonita-applebum",
+      "pete-rock-c-l-smooth-take-you-there",
+      "the-pharcyde-drop",
+      "lords-of-the-underground-chief-rocka"
+    ],
+    "b": [
+      "93-til-infinity",
+      "runnin",
+      "the-lump-lump",
+      "a-tribe-called-quest-check-the-rhime",
+      "a-tribe-called-quest-jazz-we-ve-got",
+      "pete-rock-c-l-smooth-i-get-physical",
+      "the-beatnuts-reign-of-the-tec",
+      "lords-of-the-underground-funky-child"
+    ],
+    "c": [
+      "in-the-house",
+      "resurrection",
+      "put-it-on",
+      "a-tribe-called-quest-award-tour",
+      "pete-rock-c-l-smooth-they-reminisce-over-you-t-r-o-y",
+      "souls-of-mischief-that-s-when-ya-lost",
+      "the-beatnuts-get-funky",
+      "gang-starr-code-of-the-streets"
+    ],
+    "d": [
+      "what-im-after",
+      "props-over-here",
+      "the-shit-is-real",
+      "a-tribe-called-quest-scenario",
+      "pete-rock-c-l-smooth-straighten-it-out",
+      "the-pharcyde-passin-me-by",
+      "the-beatnuts-off-the-books"
+    ],
+    "e": [
+      "nas-lifes-a-bitch",
+      "nas-one-love",
+      "az-rather-unique",
+      "pete-rock-cl-smooth-lots-of-lovin",
+      "jurassic-5-lesson-6-the-lecture"
+    ],
+    "f": [
+      "unkle-rabbit-in-your-headlights",
+      "dj-shadow-mashin-on-the-motorway",
+      "dj-shadow-nobody-speak",
+      "madlib-slims-return",
+      "dj-bombjack-lesson-7-the-next-lesson"
+    ]
+  },
+  "status": "Recovering files lost from unpublished workspace; published32 preserved"
+}
