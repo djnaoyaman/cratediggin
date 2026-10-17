@@ -1,4 +1,4 @@
-/* Per-track generated artwork; original canvas lettering remains a loading/error fallback. */
+/* Per-track generated artwork; configured images show only their own wall while loading or on failure. */
 (()=>{
  const imageCache=new Map(),failedImages=new Set();
  const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -20,7 +20,7 @@
   const shade=t.createRadialGradient(W*.5,H*.43,W*.18,W*.5,H*.43,Math.hypot(W,H)*.6);shade.addColorStop(0,'#00000000');shade.addColorStop(1,'#27251d28');t.fillStyle=shade;t.fillRect(0,0,W,H);
  }
  function prepare(song){
-  current=song;const semantic=document.getElementById('artwork-image');if(song.art.image){semantic.alt=song.art.alt||song.title+' — '+song.artist+'｜CRATE DIGGIN｜DJ Naoyaman';semantic.loading='eager';semantic.src=artworkURL(song);semantic.hidden=false}else{semantic.hidden=true;semantic.alt='';semantic.removeAttribute('src')}const generated=artwork(song);document.getElementById('art-view').classList.toggle('image-art',!!generated);if(generated){prepareWall(song);paint=null;return;}const r=rand(song.art.seed),W=width,H=height;
+  current=song;const semantic=document.getElementById('artwork-image');if(song.art.image){semantic.alt=song.art.alt||song.title+' — '+song.artist+'｜CRATE DIGGIN｜DJ Naoyaman';semantic.loading='eager';semantic.src=artworkURL(song);semantic.hidden=false}else{semantic.hidden=true;semantic.alt='';semantic.removeAttribute('src')}const generated=artwork(song);document.getElementById('art-view').classList.toggle('image-art',!!song.art.image);if(song.art.image){prepareWall(song);paint=null;return;}const r=rand(song.art.seed),W=width,H=height;
   const colors=song.art.palette||['#006cb6','#ffffff','#60baff','#17212a'];
   const [primary,secondary,accent,bg]=colors;
   const chicago=song.art.profile==='chicago-piano',queens=song.art.profile==='queens-throwup';const la=song.art.profile==='la-open-sky';const oak=song.art.profile==='oakland-handstyle',newark=song.art.profile==='newark-industrial',brooklyn=song.art.profile==='brooklyn-brick';
@@ -78,10 +78,10 @@
   p.save();p.translate(W*.7,H*.72);p.rotate(-.12);p.textAlign='right';p.font=`${Math.min(W*.047,38)}px 'Permanent Marker',cursive`;p.fillStyle=secondary;p.fillText(song.art.tag,0,0);p.font=`${Math.min(W*.025,19)}px 'Permanent Marker',cursive`;p.fillStyle=accent;p.fillText('Crate Diggin’ / One love.',0,33);p.restore();
  }
  function draw(ts){if(!visible)return;if(!started)started=ts;
-  const generated=artwork(current);if(generated){
+  const generated=artwork(current);if(current.art.image){
    ctx.clearRect(0,0,width,height);ctx.drawImage(texture,0,0);
    const elapsed=ts-started,progress=reduced?1:Math.min(1,elapsed/4000);
-   if(generated.complete&&generated.naturalWidth){
+   if(generated&&generated.complete&&generated.naturalWidth){
     const landscape=width>height,top=landscape?48:70,bottom=landscape?92:170,space=Math.max(80,height-top-bottom),scale=Math.min(width/generated.naturalWidth,space/generated.naturalHeight),w=generated.naturalWidth*scale,h=generated.naturalHeight*scale,x=(width-w)/2,y=top+(space-h)/2;
     ctx.save();ctx.globalCompositeOperation=current.art.transparent?'source-over':'multiply';
     if(progress<1){const edge=x+(w+24)*progress-12;ctx.beginPath();ctx.moveTo(x-20,y-20);ctx.lineTo(edge,y-20);for(let yy=y;yy<=y+h+20;yy+=12)ctx.lineTo(edge+Math.sin(yy*.11+elapsed*.004)*7,yy);ctx.lineTo(x-20,y+h+20);ctx.closePath();ctx.clip()}
@@ -97,7 +97,7 @@ const primary=(current.art.palette||['#006cb6'])[0];const t=(ts-started)/1000,cy
   if(progress<1){const g=ctx.createLinearGradient(edge-55,0,edge+25,0);g.addColorStop(0,primary+'00');g.addColorStop(.5,'#74c9ff32');g.addColorStop(1,primary+'00');ctx.fillStyle=g;ctx.fillRect(edge-55,height*.23,80,height*.43)}
   if(!reduced){const sway=Math.sin(t*.11)*9;ctx.globalAlpha=.07;ctx.fillStyle='#b6dcff';ctx.fillRect(0,height*.83+sway,width,1);ctx.globalAlpha=1;frame=requestAnimationFrame(draw)}
  }
- window.CrateArt={show(song){visible=true;started=0;size();prepare(song);cancelAnimationFrame(frame);frame=requestAnimationFrame(draw);if(document.fonts)document.fonts.ready.then(()=>{if(visible){prepare(current);if(reduced)draw(performance.now())}})},change(song){cv.style.opacity='0';setTimeout(()=>{if(!visible)return;prepare(song);started=0;cv.style.opacity='1';cancelAnimationFrame(frame);frame=requestAnimationFrame(draw)},400)},hide(){visible=false;cancelAnimationFrame(frame)}};
- addEventListener('resize',()=>{if(visible){size();if(reduced||artwork(current))draw(performance.now())}});
+ window.CrateArt={show(song){cancelAnimationFrame(frame);current=song;visible=true;started=0;cv.style.opacity='1';size();draw(performance.now());if(document.fonts)document.fonts.ready.then(()=>{if(visible){prepare(current);if(reduced)draw(performance.now())}})},change(song){if(!visible)return;cancelAnimationFrame(frame);prepare(song);started=0;cv.style.opacity='1';draw(performance.now())},hide(){visible=false;cancelAnimationFrame(frame)}};
+ addEventListener('resize',()=>{if(visible){size();if(reduced||current.art.image)draw(performance.now())}});
  document.addEventListener('visibilitychange',()=>{if(document.hidden)cancelAnimationFrame(frame);else if(visible&&!reduced)frame=requestAnimationFrame(draw)});
 })();
