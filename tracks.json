@@ -1920,9 +1920,9 @@
         "kind": "参考投稿・配信候補"
       },
       {
-        "label": "A Tribe Called Quest - Samples, Covers and Remixes | WhoSampled",
-        "url": "https://www.whosampled.com/sample/176281/A-Tribe-Called-Quest-Can-I-Kick-It%3F-%28Extended-Boilerhouse-Mix%29-Deee-Lite-Bootsy-Collins-Q-Tip-Groove-Is-in-the-Heart/",
-        "kind": "サンプル関係の調査資料"
+        "url": "https://www.bluenote.com/artist/ronnie-foster/",
+        "label": "Blue Note — Ronnie Foster公式紹介／Mystic Brewのサンプル関係",
+        "kind": "レーベル公式資料"
       }
     ],
     "producers": [
@@ -2367,9 +2367,9 @@
         "kind": "参考投稿・配信候補"
       },
       {
-        "label": "A Tribe Called Quest - Samples, Covers and Remixes | WhoSampled",
-        "url": "https://www.whosampled.com/sample/176281/A-Tribe-Called-Quest-Can-I-Kick-It%3F-%28Extended-Boilerhouse-Mix%29-Deee-Lite-Bootsy-Collins-Q-Tip-Groove-Is-in-the-Heart/",
-        "kind": "サンプル関係の調査資料"
+        "url": "https://www.allmusic.com/song/bonita-applebum-mt0004442475",
+        "label": "AllMusic — Bonita Applebum楽曲評／RAMPのDaylight",
+        "kind": "楽曲評・サンプル解説（二次資料）"
       }
     ],
     "producers": [
@@ -3008,9 +3008,9 @@
         "kind": "盤情報"
       },
       {
-        "label": "サンプル関係の確認 — Dorothy Ashby / Cause I Need It",
-        "url": "https://www.whosampled.com/sample/1025811/INI-Fakin-Jax-%28Skylar-Garriott-Remix%29-INI-Pete-Rock-Fakin-Jax/",
-        "kind": "サンプル照合"
+        "url": "https://www.groovenutrecords.net/products/detail/11201",
+        "label": "Groovenut Records — Fakin Jax原盤とDorothy Ashbyのサンプル解説",
+        "kind": "レコード店による原盤・サンプル解説（二次資料）"
       }
     ],
     "producers": [
@@ -19661,9 +19661,9 @@
         "kind": "公式配信"
       },
       {
-        "label": "サンプル関係の確認 — The Heath Brothers / Smilin’ Billy Suite, Part II",
-        "url": "https://www.whosampled.com/sample/405421/Hardwe%27re-The-Pressure-Nas-Q-Tip-One-Love/",
-        "kind": "サンプル照合"
+        "url": "https://www.xxlmag.com/making-of-nas-illmatic/",
+        "label": "XXL — Illmatic制作陣の証言／One Loveのサンプル",
+        "kind": "関係者インタビュー"
       }
     ],
     "producers": [
@@ -23465,7 +23465,7 @@
         "year": 1969,
         "role": "アルバム版『Stem/Long Stem』のサンプルとしてクレジットされる。米国の同名バンドとは別。",
         "sources": [
-          3
+          2
         ],
         "research": true
       }
@@ -23488,14 +23488,9 @@
         "kind": "公式配信音源・動画"
       },
       {
-        "label": "Giorgio Moroder / Tears — サンプル関係の資料",
         "url": "https://909originals.com/2021/09/16/midnight-in-a-perfect-akai-mpc-60-five-samples-that-defined-dj-shadows-entroducing/",
-        "kind": "サンプル調査資料"
-      },
-      {
-        "label": "Nirvana (UK band) / Love Suite — サンプル関係の資料",
-        "url": "https://www.whosampled.com/sample/32552/DJ-Shadow-StemLong-StemTransmission-2-Mother-Mallard%27s-Portable-Masterpiece-Company-Oleo-Strut/",
-        "kind": "サンプル調査資料"
+        "label": "909originals — Stem/Long StemのTears／Love Suiteサンプル解説",
+        "kind": "サンプル解説"
       }
     ],
     "producers": [
@@ -27381,11 +27376,6 @@
         "label": "A5. Dead Poetz Society - Lick A Shot | Ecks.MDC | viniloyalty",
         "url": "https://viniloyalty.bandcamp.com/track/a5-dead-poetz-society-lick-a-shot",
         "kind": "作品情報の照合先（配信・レコード資料）"
-      },
-      {
-        "label": "‎Lick a Shot (Red Astaire Remix) - Song with Lyrics by Hash Mills - Apple Music",
-        "url": "https://music.apple.com/us/album/lick-a-shot-red-astaire-remix/1758360430?i=1758360431",
-        "kind": "作品情報の照合先（配信・レコード資料）"
       }
     ],
     "producers": [],
@@ -27613,11 +27603,6 @@
       {
         "label": "‎Edo. G - Apple Music",
         "url": "https://music.apple.com/us/artist/edo-g/259654976",
-        "kind": "作品情報の照合先（配信・レコード資料）"
-      },
-      {
-        "label": "‎What u got rn - Song by TheUnderdog JP - Apple Music",
-        "url": "https://music.apple.com/us/song/1821529281",
         "kind": "作品情報の照合先（配信・レコード資料）"
       }
     ],
@@ -28046,10 +28031,9 @@
         ]
       },
       {
-        "title": "リリース年の扱い",
-        "text": "1996年の作品として掲載。現在の配信日や動画公開年を初出年と混同しない。",
+        "title": "アルバムの発表年",
+        "text": "「The Love Song」は1996年の『Gravity』収録曲。90s Tapesの公式再発解説は原作の発表年を1996年とし、Mos Defを迎えた本曲を11曲目に挙げている。",
         "sources": [
-          0,
           1
         ]
       }
@@ -28068,14 +28052,9 @@
         "kind": "公式配信音源・動画"
       },
       {
-        "label": "‎The Bush (feat. Marz Money & Mic Handz) - Song with Lyrics by Bush Babees - Apple Music",
-        "url": "https://music.apple.com/us/song/1845776915",
-        "kind": "作品情報の照合先（配信・レコード資料）"
-      },
-      {
-        "label": "‎The Bush (feat. Marz Money & Mic Handz) - Single - Album by Bush Babees - Apple Music",
-        "url": "https://music.apple.com/us/album/the-bush-feat-marz-money-mic-handz-single/1845776762",
-        "kind": "作品情報の照合先（配信・レコード資料）"
+        "url": "https://90stapes.bandcamp.com/album/gravity",
+        "label": "90s Tapes — Gravity公式再発解説・収録曲",
+        "kind": "レーベル公式資料"
       }
     ],
     "producers": [
@@ -28493,10 +28472,9 @@
         ]
       },
       {
-        "title": "リリース年の扱い",
-        "text": "1994年の作品として掲載。現在の配信日や動画公開年を初出年と混同しない。",
+        "title": "アルバムの発表年",
+        "text": "『Word...Life』は1994年発表。O.C.の公式作品ページには1994年10月18日と記載され、「O-Zone」は3曲目に収められている。",
         "sources": [
-          0,
           1
         ]
       }
@@ -28515,9 +28493,9 @@
         "kind": "公式配信音源・動画"
       },
       {
-        "label": "Ozone - Music Video by O - Zone - Shazam",
-        "url": "https://www.shazam.com/song/943900717/ozone/music-video",
-        "kind": "作品情報の照合先（配信・レコード資料）"
+        "label": "O.C. — 『Word...Life』公式作品ページ",
+        "url": "https://omarcredle.bandcamp.com/album/word-life-deluxe-edition",
+        "kind": "アーティスト公式作品資料"
       }
     ],
     "producers": [],
@@ -31938,10 +31916,9 @@
         ]
       },
       {
-        "title": "リリース年の扱い",
-        "text": "1991年の作品として掲載。現在の配信日や動画公開年を初出年と混同しない。",
+        "title": "アルバムの発表年",
+        "text": "「I Ain’t Havin’ It」は1991年の『Penicillin On Wax』収録曲。正規配信の楽曲情報には1991年11月12日と記載されている。",
         "sources": [
-          0,
           1
         ]
       }
@@ -31960,9 +31937,9 @@
         "kind": "公式配信音源・動画"
       },
       {
-        "label": "New Shit (Feat. Champ) | Kool Keith",
-        "url": "https://officialkoolkeith.bandcamp.com/track/new-shit-feat-champ",
-        "kind": "作品情報の照合先（配信・レコード資料）"
+        "label": "Apple Music — Tim Dog「I Ain’t Havin’ It」／『Penicillin On Wax』",
+        "url": "https://music.apple.com/us/song/1245799942",
+        "kind": "正規配信の楽曲・作品情報"
       },
       {
         "label": "Industry | Kool Keith",
@@ -32661,16 +32638,6 @@
         "label": "‎He Say, She Say - Song with Lyrics by Showbiz & A.G. - Apple Music",
         "url": "https://music.apple.com/us/song/911794649",
         "kind": "作品情報の照合先（配信・レコード資料）"
-      },
-      {
-        "label": "‎He Say She Say - Song with Lyrics by Latto - Apple Music",
-        "url": "https://music.apple.com/us/song/1529165193",
-        "kind": "作品情報の照合先（配信・レコード資料）"
-      },
-      {
-        "label": "‎He Say She Say - Song with Lyrics by Latto - Apple Music",
-        "url": "https://music.apple.com/us/song/1543513209",
-        "kind": "作品情報の照合先（配信・レコード資料）"
       }
     ],
     "producers": [
@@ -33361,11 +33328,6 @@
         "label": "KIRK / UPTOWN STYLE / DOWN LOW (12\") - HIP TANK RECORDS",
         "url": "https://hiptankrecords.shop-pro.jp/?pid=185447242",
         "kind": "作品情報の照合先（配信・レコード資料）"
-      },
-      {
-        "label": "Kirk Franklin Joins Uptown Records in Partnership with Fo Yo Soul Entertainment & TRIBL Music Group",
-        "url": "https://www.ugospel.com/p/kirk-franklin-joins-uptown-records",
-        "kind": "作品情報の照合先（配信・レコード資料）"
       }
     ],
     "producers": [],
@@ -33931,16 +33893,6 @@
       {
         "label": "Mesanjarz Of Funk / Flip Da Script/Funk In Da Trunk(Promo12inch) / Atlantic 1993 USオリジナル盤 EX | Groovenut Records SOUL JA",
         "url": "https://www.groovenutrecords.net/products/detail/8073",
-        "kind": "作品情報の照合先（配信・レコード資料）"
-      },
-      {
-        "label": "‎Flip da Script - Song with Lyrics by Wreckachild - Apple Music",
-        "url": "https://music.apple.com/us/album/flip-da-script/1694312236?i=1694312237",
-        "kind": "作品情報の照合先（配信・レコード資料）"
-      },
-      {
-        "label": "‎FlipDaSkript - Apple Music",
-        "url": "https://music.apple.com/us/artist/flipdaskript/1655806926",
         "kind": "作品情報の照合先（配信・レコード資料）"
       }
     ],
@@ -34613,11 +34565,6 @@
       {
         "label": "‎Keep Shit on the Real - Song by Champ MC - Apple Music",
         "url": "https://music.apple.com/us/song/1418181843",
-        "kind": "作品情報の照合先（配信・レコード資料）"
-      },
-      {
-        "label": "‎Keep It Real - Single - Album by Champ - Apple Music",
-        "url": "https://music.apple.com/us/album/keep-it-real-single/1573753594",
         "kind": "作品情報の照合先（配信・レコード資料）"
       }
     ],
@@ -38017,10 +37964,9 @@
         ]
       },
       {
-        "title": "リリース年の扱い",
-        "text": "1992年の作品として掲載。現在の配信日や動画公開年を初出年と混同しない。",
+        "title": "アルバムの発表年",
+        "text": "収録アルバム『Stunts, Blunts, & Hip Hop』は1992年発表。Apple Musicの作品情報には1992年9月22日と記載されている。",
         "sources": [
-          0,
           1
         ]
       }
@@ -38039,19 +37985,9 @@
         "kind": "公式配信音源・動画"
       },
       {
-        "label": "‎Pass Dat Shit (feat. Muncho Bandz) - Single - Album by Gooney4dm - Apple Music",
-        "url": "https://music.apple.com/us/album/pass-dat-shit-feat-muncho-bandz-single/6804124622",
-        "kind": "作品情報の照合先（配信・レコード資料）"
-      },
-      {
-        "label": "‎Pass Dat Shit - Song by Three 6 Mafia - Apple Music",
-        "url": "https://music.apple.com/us/song/1659544412",
-        "kind": "作品情報の照合先（配信・レコード資料）"
-      },
-      {
-        "label": "Pass Dat Shit - Three 6 Mafia: Song Lyrics, Music Videos & Concerts",
-        "url": "https://www.shazam.com/track/55523771/pass-dat-shit",
-        "kind": "作品情報の照合先（配信・レコード資料）"
+        "label": "Apple Music — Diamond & The Psychotic Neurotics『Stunts, Blunts, & Hip Hop』",
+        "url": "https://music.apple.com/us/album/stunts-blunts-hip-hop/1442812533",
+        "kind": "正規配信の作品情報"
       }
     ],
     "producers": [
@@ -38159,16 +38095,6 @@
       {
         "label": "‎Legion Groove - Song by The Legion - Apple Music",
         "url": "https://music.apple.com/us/song/573958856",
-        "kind": "作品情報の照合先（配信・レコード資料）"
-      },
-      {
-        "label": "‎Groove Legion - Apple Music",
-        "url": "https://music.apple.com/us/artist/groove-legion/455474286",
-        "kind": "作品情報の照合先（配信・レコード資料）"
-      },
-      {
-        "label": "‎Legion Of Groove - Apple Music",
-        "url": "https://music.apple.com/us/artist/legion-of-groove/260460509",
         "kind": "作品情報の照合先（配信・レコード資料）"
       }
     ],
@@ -38397,11 +38323,6 @@
       {
         "label": "‎Silence the Lamb (Instrumental) - Song by Showbiz & A.G. - Apple Music",
         "url": "https://music.apple.com/us/song/1478353668",
-        "kind": "作品情報の照合先（配信・レコード資料）"
-      },
-      {
-        "label": "‎Silence of the Lambs - Single - ANA Zumaのアルバム - Apple Music",
-        "url": "https://music.apple.com/jp/album/silence-of-the-lambs-single/1692323351",
         "kind": "作品情報の照合先（配信・レコード資料）"
       }
     ],
@@ -43404,6 +43325,11 @@
         "label": "The Orchard提供公式音源",
         "url": "https://www.youtube.com/watch?v=hXxDCmwqiUQ",
         "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music（日本）— Large Professor「Hungry」／『The LP』",
+        "url": "https://music.apple.com/jp/song/hungry/320488666",
+        "kind": "正規配信・外部の再生先（全曲再生には契約が必要な場合があります）"
       }
     ],
     "samples": [],
@@ -43446,7 +43372,7 @@
     },
     "yearBasis": "2002年限定プロモ盤の流通を基準とする。1990年代の制作時期、2009年の正式盤とは区別する。",
     "addedOrder": 391,
-    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "editorialStatus": "掲載YouTube音源は日本での配信対象外です。出典欄のApple Music（日本）から楽曲ページを開けます。試聴の提供や全曲再生の条件は配信サービスにより異なり、契約が必要な場合があります。",
     "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
   },
   {
@@ -45063,13 +44989,14 @@
       "個性的"
     ],
     "youtube": {
-      "id": "aAsrZ9E1oPo",
-      "channel": "DANGERDOOM - Topic",
+      "id": "V-aNDQ30RgM",
+      "channel": "Danger Mouse",
       "type": "Official Audio",
       "verified": "2026-10-17",
-      "url": "https://www.youtube.com/watch?v=aAsrZ9E1oPo",
-      "verification": "2026年10月17日にYouTube oEmbedの曲名と公式Topicチャンネルを再照合。権利者提供の掲載情報に基づく確認であり、実音声の聴取・再生進行は未検証。",
-      "official": true
+      "url": "https://www.youtube.com/watch?v=V-aNDQ30RgM",
+      "verification": "公式Danger MouseチャンネルのOfficial Audio。旧音源のLex配信・曲名・アルバムを照合し、長さは旧メタデータ2:33、新プレイヤー表示2:33（メタデータ2:34）。公開許可地域に日本を含み、共有の埋め込みコードを確認。実音声・サイト内再生と厳密な同一マスターは未確認。",
+      "official": true,
+      "title": "DANGERDOOM, MF DOOM, Danger Mouse - Mince Meat (Official Audio)"
     },
     "art": {
       "word": "MINCE MEAT",
@@ -45133,9 +45060,9 @@
         "kind": "公式"
       },
       {
-        "label": "Lex配信公式音源 — Mince Meat",
-        "url": "https://www.youtube.com/watch?v=aAsrZ9E1oPo",
-        "kind": "公式"
+        "label": "Danger Mouse公式チャンネル — DANGERDOOM「Mince Meat」Official Audio",
+        "url": "https://www.youtube.com/watch?v=V-aNDQ30RgM",
+        "kind": "制作アーティストによる公式音源"
       },
       {
         "label": "The Wire — MF DOOM本人への2005年取材（Stones Throw転載）",
@@ -45156,7 +45083,7 @@
     ],
     "members": "Danger Mouse、MF DOOM",
     "addedOrder": 406,
-    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+    "editorialStatus": "Danger Mouse公式チャンネルの音源。公開情報では日本を含む地域での配信が案内されています。サイト内での実再生と、従来の配信音源との同一マスターの確認はできていません。"
   },
   {
     "id": "the-grouch-eligh-everafter",
@@ -48098,6 +48025,11 @@
         "label": "Ugly Duckling — 初期デモ集『Down the Road』",
         "url": "https://uglyduckling.bandcamp.com/album/down-the-road",
         "kind": "公式作品資料"
+      },
+      {
+        "label": "Ugly Duckling — 「Everybody C’mon」公式ミュージックビデオ",
+        "url": "https://www.youtube.com/watch?v=h7RnQt2eXHE",
+        "kind": "本人による公式ミュージックビデオ"
       }
     ],
     "deck": "ロングビーチのUgly Ducklingが1999年に発表したEP『Fresh Mode』の収録曲。",
@@ -48134,21 +48066,21 @@
     ],
     "datePublished": "2026-10-17",
     "noteReviewedAt": "2026-10-17",
-    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "editorialStatus": "公式ミュージックビデオ（3分15秒）。アルバム音源とは尺が異なります。公開情報では日本を含む地域での配信が案内されています。サイト内の実再生は未確認です。",
     "collections": [
       "west"
     ],
     "editorialCrates": [],
     "curationNote": "ユーザー指定曲。音の構成と作品の文脈に基づく編集上の選曲。",
     "youtube": {
-      "id": "PdUmClCCRnQ",
-      "url": "https://www.youtube.com/watch?v=PdUmClCCRnQ",
-      "title": "Everybody C'mon",
-      "channel": "Ugly Duckling - Topic",
-      "type": "Official Audio",
+      "id": "h7RnQt2eXHE",
+      "url": "https://www.youtube.com/watch?v=h7RnQt2eXHE",
+      "title": "Ugly Duckling - Everybody C'mon",
+      "channel": "Ugly Duckling",
+      "type": "Official Music Video",
       "official": true,
       "verified": "2026-10-17",
-      "verification": "公式配信の曲名・演者・版表記を照合。実音声の聴取、地域別の再生可否、埋め込み再生は未確認。"
+      "verification": "本人の公式ミュージックビデオ。公開情報の許可地域に日本を含み、埋め込みの共有設定を確認。長さは3分15秒で、アルバム音源と同一の編集とは未確認。サイト内の実再生は未確認。"
     },
     "requestList": "requested26",
     "requestRow": 20,

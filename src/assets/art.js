@@ -1,7 +1,8 @@
 /* Per-track generated artwork; configured images show only their own wall while loading or on failure. */
 (()=>{
  const imageCache=new Map(),failedImages=new Set();
- const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
+ const motionPreference=matchMedia('(prefers-reduced-motion: reduce)');
+ let reduced=motionPreference.matches,motionSettled=false;
  const rand=seed=>()=>{seed|=0;seed=seed+0x6D2B79F5|0;let t=Math.imul(seed^seed>>>15,1|seed);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296};
  let frame=0,started=0,current=null,texture=null,paint=null,width=0,height=0,visible=false,motion=null;
  const cv=document.getElementById('wall'),ctx=cv.getContext('2d');
@@ -20,7 +21,7 @@
  const smooth=n=>n*n*(3-2*n);
  function motionFor(song){const choice=song.art?.motion||{},mode=Object.hasOwn(motionProfiles,choice.mode)?choice.mode:'groove',profile=motionProfiles[mode],seed=(song.art?.seed||0)>>>0;return {mode,duration:Number.isFinite(choice.duration)?Math.max(1000,Math.min(8000,choice.duration)):profile.duration,energy:Number.isFinite(choice.energy)?clamp(choice.energy):profile.energy,variant:Number.isInteger(choice.variant)?((choice.variant%4)+4)%4:seed%4}}
  function reveal(source,box,elapsed,composite='source-over'){
-  const {x,y,w,h}=box,p=reduced?1:clamp(elapsed/motion.duration),v=motion.variant;
+  const {x,y,w,h}=box,p=(reduced||motionSettled)?1:clamp(elapsed/motion.duration),v=motion.variant;
   ctx.save();ctx.globalCompositeOperation=composite;
   if(p<1){
    if(motion.mode==='drift'){
@@ -113,16 +114,26 @@
  }
  function draw(ts){if(!visible)return;if(!started)started=ts;
   const elapsed=ts-started,generated=artwork(current);ctx.clearRect(0,0,width,height);ctx.drawImage(texture,0,0);
-  let progress=reduced?1:clamp(elapsed/motion.duration);
+  let progress=(reduced||motionSettled)?1:clamp(elapsed/motion.duration);
   if(current.art.image){
    if(generated&&generated.complete&&generated.naturalWidth){
     const landscape=width>height,top=landscape?48:70,bottom=landscape?92:170,space=Math.max(80,height-top-bottom),scale=Math.min(width/generated.naturalWidth,space/generated.naturalHeight),w=generated.naturalWidth*scale,h=generated.naturalHeight*scale;
     progress=reveal(generated,{x:(width-w)/2,y:top+(space-h)/2,w,h},elapsed,current.art.transparent?'source-over':'multiply');
    }
   }else progress=reveal(paint,{x:0,y:0,w:width,h:height},elapsed);
-  if(!reduced&&progress<1)frame=requestAnimationFrame(draw);
+  if(!reduced&&!motionSettled&&progress<1)frame=requestAnimationFrame(draw);
  }
- window.CrateArt={motionFor,show(song){cancelAnimationFrame(frame);current=song;visible=true;started=0;cv.style.opacity='1';size();draw(performance.now());if(document.fonts)document.fonts.ready.then(()=>{if(visible){prepare(current);cancelAnimationFrame(frame);draw(performance.now())}})},change(song){if(!visible)return;cancelAnimationFrame(frame);prepare(song);started=0;cv.style.opacity='1';draw(performance.now())},hide(){visible=false;cancelAnimationFrame(frame)}};
+ // A preference change settles this display, including any image that loads later.
+ const onMotionPreferenceChange=event=>{
+  reduced=event.matches;
+  if(!visible)return;
+  motionSettled=true;
+  cancelAnimationFrame(frame);
+  draw(performance.now());
+ };
+ if(motionPreference.addEventListener)motionPreference.addEventListener('change',onMotionPreferenceChange);
+ else if(motionPreference.addListener)motionPreference.addListener(onMotionPreferenceChange);
+ window.CrateArt={motionFor,show(song){cancelAnimationFrame(frame);current=song;visible=true;motionSettled=false;started=0;cv.style.opacity='1';size();draw(performance.now());if(document.fonts)document.fonts.ready.then(()=>{if(visible){prepare(current);cancelAnimationFrame(frame);draw(performance.now())}})},change(song){if(!visible)return;cancelAnimationFrame(frame);prepare(song);motionSettled=false;started=0;cv.style.opacity='1';draw(performance.now())},hide(){visible=false;cancelAnimationFrame(frame)}};
  addEventListener('resize',()=>{if(visible){size();cancelAnimationFrame(frame);draw(performance.now())}});
  document.addEventListener('visibilitychange',()=>{if(document.hidden)cancelAnimationFrame(frame);else if(visible&&!reduced)frame=requestAnimationFrame(draw)});
 })();
