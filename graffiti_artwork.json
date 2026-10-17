@@ -1073,14 +1073,19 @@
       "artist": "Public Enemy",
       "album": "Apocalypse 91... The Enemy Strikes Black",
       "palette": [
-        "#cb7629",
-        "#e3d2ac",
-        "#5b786b",
-        "#202320"
+        "#173c2c",
+        "#619367",
+        "#e8e8df",
+        "#a36474"
       ],
       "paletteSource": "Apocalypse 91... The Enemy Strikes Black",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/public-enemy-can-t-truss-it-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/apocalypse-91-the-enemy-strikes-black/1434918687"
     },
     {
       "id": "public-enemy-welcome-to-the-terrordome",
@@ -1088,14 +1093,19 @@
       "artist": "Public Enemy",
       "album": "Fear of a Black Planet",
       "palette": [
-        "#c73b43",
-        "#e8dbbe",
-        "#839dc3",
-        "#1b2033"
+        "#193967",
+        "#37a0b7",
+        "#d33d38",
+        "#e6c735"
       ],
       "paletteSource": "Fear of a Black Planet",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/public-enemy-welcome-to-the-terrordome-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/fear-of-a-black-planet/1440837282"
     },
     {
       "id": "nas-the-world-is-yours",
@@ -1182,14 +1192,19 @@
       "artist": "Large Professor",
       "album": "The LP",
       "palette": [
-        "#a68a57",
-        "#e3e4ce",
-        "#73866a",
-        "#30362c"
+        "#f3f3ef",
+        "#8597a4",
+        "#c2c7ca",
+        "#242424"
       ],
       "paletteSource": "The LP",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/large-professor-i-juswanna-chill-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/the-lp/321022758"
     },
     {
       "id": "main-source-looking-at-the-front-door",
@@ -1256,14 +1271,19 @@
       "artist": "The Notorious B.I.G.",
       "album": "Ready to Die",
       "palette": [
-        "#bb372f",
-        "#f1e9db",
-        "#aaa49c",
-        "#252324"
+        "#f4f0e8",
+        "#a32836",
+        "#8c674d",
+        "#252323"
       ],
       "paletteSource": "Ready to Die",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-notorious-b-i-g-juicy-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/ready-to-die-the-remaster/204669415"
     },
     {
       "id": "the-notorious-b-i-g-unbelievable",
@@ -1271,14 +1291,19 @@
       "artist": "The Notorious B.I.G.",
       "album": "Ready to Die",
       "palette": [
-        "#bb372f",
-        "#f1e9db",
-        "#aaa49c",
-        "#252324"
+        "#f4f0e8",
+        "#a32836",
+        "#8c674d",
+        "#252323"
       ],
       "paletteSource": "Ready to Die",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-notorious-b-i-g-unbelievable-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/ready-to-die-the-remaster/204669415"
     },
     {
       "id": "the-notorious-b-i-g-big-poppa",
@@ -1286,14 +1311,19 @@
       "artist": "The Notorious B.I.G.",
       "album": "Ready to Die",
       "palette": [
-        "#bb372f",
-        "#f1e9db",
-        "#aaa49c",
-        "#252324"
+        "#f4f0e8",
+        "#a32836",
+        "#8c674d",
+        "#252323"
       ],
       "paletteSource": "Ready to Die",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-notorious-b-i-g-big-poppa-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/ready-to-die-the-remaster/204669415"
     },
     {
       "id": "craig-mack-flava-in-ya-ear",
@@ -1301,14 +1331,19 @@
       "artist": "Craig Mack",
       "album": "Project: Funk da World",
       "palette": [
-        "#c58d44",
-        "#e8d6a6",
-        "#917548",
-        "#28231e"
+        "#9477ad",
+        "#eda845",
+        "#f5f2ea",
+        "#252126"
       ],
       "paletteSource": "Project: Funk da World",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/craig-mack-flava-in-ya-ear-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/project-funk-da-world/101387676"
     },
     {
       "id": "mobb-deep-shook-ones-pt-ii",
@@ -1355,14 +1390,19 @@
       "artist": "Wu-Tang Clan",
       "album": "Enter the Wu-Tang (36 Chambers)",
       "palette": [
-        "#d2a54a",
-        "#e7d9bb",
-        "#996e35",
-        "#24201b"
+        "#33251f",
+        "#6b2831",
+        "#e9a337",
+        "#f0e8d9"
       ],
       "paletteSource": "Enter the Wu-Tang (36 Chambers)",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/wu-tang-clan-c-r-e-a-m-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/enter-the-wu-tang-36-chambers/1746566237?uo=4"
     },
     {
       "id": "wu-tang-clan-protect-ya-neck",
@@ -1370,14 +1410,19 @@
       "artist": "Wu-Tang Clan",
       "album": "Enter the Wu-Tang (36 Chambers)",
       "palette": [
-        "#d2a54a",
-        "#e7d9bb",
-        "#996e35",
-        "#24201b"
+        "#33251f",
+        "#6b2831",
+        "#e9a337",
+        "#f0e8d9"
       ],
       "paletteSource": "Enter the Wu-Tang (36 Chambers)",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/wu-tang-clan-protect-ya-neck-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/enter-the-wu-tang-36-chambers/1746566237?uo=4"
     },
     {
       "id": "gza-liquid-swords",
@@ -1385,14 +1430,19 @@
       "artist": "GZA",
       "album": "Liquid Swords",
       "palette": [
-        "#d53943",
-        "#e2ded1",
-        "#648b9e",
-        "#202729"
+        "#193b72",
+        "#36a1bd",
+        "#596d59",
+        "#aa413e"
       ],
       "paletteSource": "Liquid Swords",
-      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
-      "status": "pending"
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/gza-liquid-swords-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/liquid-swords/1440835438"
     },
     {
       "id": "raekwon-ice-cream",

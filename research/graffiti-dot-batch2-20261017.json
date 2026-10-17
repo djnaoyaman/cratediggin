@@ -1,0 +1,212 @@
+{
+  "state": "reviewed-candidate-pending-ci-and-deployment",
+  "createdAt": "2026-10-17",
+  "baselineCommit": "f2ab6c3df4001d8e5e995d64b92316fb9c5ecc9c",
+  "publishedTransparentBaseline": 125,
+  "candidateTransparent": 135,
+  "catalogTotal": 381,
+  "remainingAfterCandidate": 246,
+  "paletteBasis": "Official licensed digital covers visually inspected; editorial color approximations, not sampled measurements.",
+  "assets": [
+    {
+      "id": "public-enemy-can-t-truss-it",
+      "palette": [
+        "#173c2c",
+        "#619367",
+        "#e8e8df",
+        "#a36474"
+      ],
+      "paletteSource": "Apocalypse 91... The Enemy Strikes Black",
+      "coverUrl": "https://music.apple.com/us/album/apocalypse-91-the-enemy-strikes-black/1434918687",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"CAN'T TRUSS IT\". Exact smaller artist \"PUBLIC ENEMY\". Full wording accurately spelled, not abbreviated. Wide horizontal composition, generous 12% clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: deep forest green, muted green, off-white and dusty pink (#173c2c, #619367, #e8e8df, #a36474), plus white and black. Colors reference the cover only, do not reproduce album imagery or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/public-enemy-can-t-truss-it-alpha.webp",
+      "bytes": 542086,
+      "blobSha": "72f477c8ccd81e10667fb2e9b3a56118c371b4cf",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "public-enemy-welcome-to-the-terrordome",
+      "palette": [
+        "#193967",
+        "#37a0b7",
+        "#d33d38",
+        "#e6c735"
+      ],
+      "paletteSource": "Fear of a Black Planet",
+      "coverUrl": "https://music.apple.com/us/album/fear-of-a-black-planet/1440837282",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"WELCOME TO THE TERRORDOME\". Exact smaller artist \"PUBLIC ENEMY\". Full wording accurately spelled, not abbreviated. Wide horizontal composition, generous 12% clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: midnight blue, cyan, red and gold (#193967, #37a0b7, #d33d38, #e6c735), plus white and black. Colors reference the cover only, do not reproduce album imagery or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/public-enemy-welcome-to-the-terrordome-alpha.webp",
+      "bytes": 655036,
+      "blobSha": "0d0b0e92a20893d61a5b7f4788fe65b383c50a29",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "large-professor-i-juswanna-chill",
+      "palette": [
+        "#f3f3ef",
+        "#8597a4",
+        "#c2c7ca",
+        "#242424"
+      ],
+      "paletteSource": "The LP",
+      "coverUrl": "https://music.apple.com/us/album/the-lp/321022758",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"I JUSWANNA CHILL\". Exact smaller artist \"LARGE PROFESSOR\". Full wording accurately spelled, not abbreviated. Wide horizontal composition, generous 12% clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: opaque white, slate blue, silver gray and black (#f3f3ef, #8597a4, #c2c7ca, #242424), plus white and black. Colors reference the cover only, do not reproduce album imagery or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/large-professor-i-juswanna-chill-alpha.webp",
+      "bytes": 547836,
+      "blobSha": "b7d4649d307256c8c0e1bd54a3ee7ea849f7521e",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "the-notorious-b-i-g-juicy",
+      "palette": [
+        "#f4f0e8",
+        "#a32836",
+        "#8c674d",
+        "#252323"
+      ],
+      "paletteSource": "Ready to Die",
+      "coverUrl": "https://music.apple.com/us/album/ready-to-die-the-remaster/204669415",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"JUICY\". Exact smaller artist \"THE NOTORIOUS B.I.G.\". Full wording accurately spelled, including THE and B.I.G. punctuation. Wide horizontal composition, generous 12% clear alpha margin around ALL lettering and droplets. Palette from visually verified Ready to Die (The Remaster) cover: creamy opaque white, dark red #a32836, sepia brown #8c674d and black. Colors reference the cover only, do not reproduce album imagery or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Ready To Die the Remaster; visible red THE REMASTER footer",
+      "image": "assets/graffiti/the-notorious-b-i-g-juicy-alpha.webp",
+      "bytes": 584510,
+      "blobSha": "e245ba3faca393b85ba5778d4cb1c0b24fac3ab8",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "the-notorious-b-i-g-unbelievable",
+      "palette": [
+        "#f4f0e8",
+        "#a32836",
+        "#8c674d",
+        "#252323"
+      ],
+      "paletteSource": "Ready to Die",
+      "coverUrl": "https://music.apple.com/us/album/ready-to-die-the-remaster/204669415",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"UNBELIEVABLE\". Exact smaller artist \"THE NOTORIOUS B.I.G.\". Full wording accurately spelled, including THE and B.I.G. punctuation. Wide horizontal composition, generous 12% clear alpha margin around ALL lettering and droplets. Palette from visually verified Ready to Die (The Remaster) cover: creamy opaque white, dark red #a32836, sepia brown #8c674d and black. Colors reference the cover only, do not reproduce album imagery or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Ready To Die the Remaster; visible red THE REMASTER footer",
+      "image": "assets/graffiti/the-notorious-b-i-g-unbelievable-alpha.webp",
+      "bytes": 463388,
+      "blobSha": "42f91a913c4ccec9716282134cd10c180b6b5d4e",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "the-notorious-b-i-g-big-poppa",
+      "palette": [
+        "#f4f0e8",
+        "#a32836",
+        "#8c674d",
+        "#252323"
+      ],
+      "paletteSource": "Ready to Die",
+      "coverUrl": "https://music.apple.com/us/album/ready-to-die-the-remaster/204669415",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"BIG POPPA\". Exact smaller artist \"THE NOTORIOUS B.I.G.\". Full wording accurately spelled, including THE and B.I.G. punctuation. Wide horizontal composition, generous 12% clear alpha margin around ALL lettering and droplets. Palette from visually verified Ready to Die (The Remaster) cover: creamy opaque white, dark red #a32836, sepia brown #8c674d and black. Colors reference the cover only, do not reproduce album imagery or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Ready To Die the Remaster; visible red THE REMASTER footer",
+      "image": "assets/graffiti/the-notorious-b-i-g-big-poppa-alpha.webp",
+      "bytes": 458042,
+      "blobSha": "9b4ce949c4912ff2b446806aeaf1fd903cdebeff",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "craig-mack-flava-in-ya-ear",
+      "palette": [
+        "#9477ad",
+        "#eda845",
+        "#f5f2ea",
+        "#252126"
+      ],
+      "paletteSource": "Project: Funk da World",
+      "coverUrl": "https://music.apple.com/us/album/project-funk-da-world/101387676",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"FLAVA IN YA EAR\". Exact smaller artist \"CRAIG MACK\". Full wording accurately spelled, retaining punctuation. Wide horizontal composition, generous 12% clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: lavender and purple with golden orange, opaque white and black (#9477ad, #eda845, #f5f2ea, #252126). Colors reference the cover only, do not reproduce album imagery, characters or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/craig-mack-flava-in-ya-ear-alpha.webp",
+      "bytes": 565052,
+      "blobSha": "afd8e2bf6cd466fd405f1403c08b87adc39ad8fa",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "wu-tang-clan-c-r-e-a-m",
+      "palette": [
+        "#33251f",
+        "#6b2831",
+        "#e9a337",
+        "#f0e8d9"
+      ],
+      "paletteSource": "Enter the Wu-Tang (36 Chambers)",
+      "coverUrl": "https://music.apple.com/us/album/enter-the-wu-tang-36-chambers/1746566237?uo=4",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"C.R.E.A.M.\". Exact smaller artist \"WU-TANG CLAN\". Full wording accurately spelled, retaining punctuation. Wide horizontal composition, generous 12% clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: dark brown, burgundy, orange gold, opaque white and black (#33251f, #6b2831, #e9a337, #f0e8d9). Colors reference the cover only, do not reproduce album imagery, characters or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/wu-tang-clan-c-r-e-a-m-alpha.webp",
+      "bytes": 615580,
+      "blobSha": "6aff8ed1737e3f6bb03ec770aca81dcfd290baeb",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "wu-tang-clan-protect-ya-neck",
+      "palette": [
+        "#33251f",
+        "#6b2831",
+        "#e9a337",
+        "#f0e8d9"
+      ],
+      "paletteSource": "Enter the Wu-Tang (36 Chambers)",
+      "coverUrl": "https://music.apple.com/us/album/enter-the-wu-tang-36-chambers/1746566237?uo=4",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"PROTECT YA NECK\". Exact smaller artist \"WU-TANG CLAN\". Full wording accurately spelled, retaining punctuation. Wide horizontal composition, generous 12% clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: dark brown, burgundy, orange gold, opaque white and black (#33251f, #6b2831, #e9a337, #f0e8d9). Colors reference the cover only, do not reproduce album imagery, characters or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/wu-tang-clan-protect-ya-neck-alpha.webp",
+      "bytes": 619460,
+      "blobSha": "f6f28324ac8aba86519e7de2c35971d0592bf22d",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "gza-liquid-swords",
+      "palette": [
+        "#193b72",
+        "#36a1bd",
+        "#596d59",
+        "#aa413e"
+      ],
+      "paletteSource": "Liquid Swords",
+      "coverUrl": "https://music.apple.com/us/album/liquid-swords/1440835438",
+      "prompt": "Create original transparent graffiti artwork for music archive. Attached Mass Appeal is STYLE ONLY reference for complex sharp interlocking angular 90s lettering, bold black contours, opaque white letter interiors, strong distinctive letter skeleton, dry brush, drips and isolated paint splatters. Exact large title \"LIQUID SWORDS\". Exact smaller artist \"GZA\". Full wording accurately spelled, retaining punctuation. Wide horizontal composition, generous 12% clear alpha margin around ALL lettering and droplets. Palette from visually verified official album cover: midnight navy, cyan blue, muted sage green, tiny muted red accents, opaque white and black (#193b72, #36a1bd, #596d59, #aa413e). Colors reference the cover only, do not reproduce album imagery, characters or logos. TRUE transparent alpha background: paint marks only, no rectangle, wall, paper, matte, checkerboard, blur, cloudy wash, halo, shadow or signature. Preserve opaque white paint inside letters. Save as project asset.",
+      "paletteNote": "Apple Music掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "referenceEdition": "Standard album title digital presentation; rights dates may reflect reissues",
+      "image": "assets/graffiti/gza-liquid-swords-alpha.webp",
+      "bytes": 500266,
+      "blobSha": "00ab2e265b3bf030c5a12a4031f7dce7ac2370d6",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    }
+  ]
+}
