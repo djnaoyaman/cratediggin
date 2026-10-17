@@ -1,5 +1,5 @@
 {
-  "version": "19.30",
+  "version": "20.0",
   "timezone": "Asia/Tokyo",
   "policy": "major-only",
   "history": [
@@ -170,6 +170,15 @@
       "datetime": "2026-10-17T12:21:57+09:00",
       "title": "透過グラフィティを壁に描く",
       "description": "壁面の質感と描画演出を復元し、透過画像への差し替えを進める。曲名・アーティスト名・CRATE DIGGIN・DJ Naoyamanを含むaltを自動生成。制作ノートと次回以降のルールを記録し、50曲単位で公開する。",
+      "kind": "major",
+      "dateBasis": "変更記録日時",
+      "retrospective": false
+    },
+    {
+      "version": "20.0",
+      "datetime": "2026-10-17T15:30:23.292451+00:00",
+      "title": "TRACKS・ARTISTS・PRODUCERSへ整理",
+      "description": "新しいURLと3つの入口へ整理し、以前のリンクからの案内を保持。全ページのSNS共有と、楽曲アートの静的表示・画像サイトマップを追加。",
       "kind": "major",
       "dateBasis": "変更記録日時",
       "retrospective": false

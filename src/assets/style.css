@@ -107,3 +107,9 @@
 
 /* Keep the paper label above, not across, actual faces. */
 .feature-card--portrait{padding-top:50px}.feature-portrait{overflow:visible}.feature-tape{top:-36px}
+
+.page-sharing{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin:28px 0 0;padding:18px 0;border-top:1px solid #7775;font-size:12px}.page-sharing .share-label{font-size:10px;letter-spacing:.14em;margin-right:6px}.page-sharing a,.page-sharing button{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:8px 12px;border:1px solid currentColor;background:transparent;color:inherit;font:inherit;text-decoration:none;cursor:pointer}.page-sharing a:focus-visible,.page-sharing button:focus-visible{outline:3px solid #006cb6;outline-offset:3px}.share-status{flex-basis:100%;font-size:12px}.share-status:empty{display:none}.share-fallback-url{width:100%;min-width:0;padding:10px;font-size:14px}footer .page-sharing{flex-basis:100%;width:100%;margin-top:12px}
+
+footer{flex-wrap:wrap}footer .page-sharing{flex-shrink:0}
+
+.track-artwork{margin:1.5rem 0;max-width:580px;padding:16px;background:#e7e2d8;border:1px solid #bcb4a6}.track-artwork img{display:block;width:100%;height:auto;max-height:460px;object-fit:contain}.track-artwork figcaption{font-size:11px;color:#3b3935;margin-top:8px}

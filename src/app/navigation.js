@@ -6,7 +6,7 @@
  const metadataCache=new Map(initialMetadata?[[initialMetadata.route,initialMetadata.jsonld]]:[]);
  let metadataRequest=0;
 
- function normalizeRoute(value){return value==='#/feature/tribe-production'?'#/feature/tribe':value;}
+ function normalizeRoute(value){return value==='#/features'?'#/artists':value==='#/feature/tribe-production'?'#/feature/tribe':value;}
  function routeFromURL(url){
   if(url.hash.startsWith('#/'))return normalizeRoute(url.hash);
   const path=url.pathname.replace(/\/index\.html$/,'/');
@@ -85,29 +85,33 @@
    (p.published?' · 公開 <time datetime="'+esc(p.published)+'">'+esc(p.published.slice(0,10))+'</time>':'')+
    (p.modified?' · 更新 <time datetime="'+esc(p.modified)+'">'+esc(p.modified.slice(0,10))+'</time>':'')+'</div>';
  }
+ function sharingPage(value){return pageRegistry[value.startsWith('#/?')?'#/songs':normalizeRoute(value)];}
+ function shareLinks(p){
+  const u=encodeURIComponent(p.url),t=encodeURIComponent(p.title),line=encodeURIComponent(p.title+'\n'+p.url);
+  return [['X','https://x.com/intent/tweet?text='+t+'&url='+u],['Facebook','https://www.facebook.com/sharer/sharer.php?u='+u],['LINE','https://line.me/R/share?text='+line]];
+ }
  async function copyPageLink(value,button){
-  const p=pageRegistry[value];if(!p)return;
-  try{
-   await navigator.clipboard.writeText(p.url);button.textContent='コピーしました';
-   trackInteraction('share',{method:'copy_link',content_type:value.startsWith('#/song/')?'song':'feature',item_id:value.split('/').pop()});
-  }catch(_){
-   button.textContent='リンクを選択してコピー';const input=document.createElement('input');input.value=p.url;input.setAttribute('aria-label','共有リンク');button.after(input);input.select();
-  }
+  const p=sharingPage(value);if(!p)return;
+  const host=button.closest('.page-sharing')||button.parentElement,status=host.querySelector('[role="status"]');
+  try{await navigator.clipboard.writeText(p.url);trackInteraction('share',{method:'copy_link',content_type:value.startsWith('#/song/')?'song':'page',item_id:value.split('/').pop()});if(status)status.textContent='リンクをコピーしました';else button.textContent='コピーしました';}
+  catch(_){let input=host.querySelector('.share-fallback-url');if(!input){input=document.createElement('input');input.className='share-fallback-url';input.readOnly=true;input.setAttribute('aria-label','コピーする共有リンク');host.append(input);}input.value=p.url;input.focus();input.select();if(status)status.textContent='リンクを選択してコピーしてください';}
+ }
+ function sharingControls(value){
+  const p=sharingPage(value);if(!p)return null;
+  const host=document.createElement('nav');host.className='page-sharing';host.setAttribute('aria-label','このページをシェア');
+  const label=document.createElement('span');label.className='share-label';label.textContent='SHARE THIS PAGE';host.append(label);
+  for(const [name,url] of shareLinks(p)){const a=document.createElement('a');a.href=url;a.target='_blank';a.rel='noopener noreferrer';a.textContent=name;a.setAttribute('aria-label',name+'でこのページをシェア（新しいタブ）');host.append(a);}
+  const copy=document.createElement('button');copy.type='button';copy.textContent='リンクをコピー';copy.onclick=()=>copyPageLink(value,copy);host.append(copy);
+  if(typeof navigator.share==='function'){const native=document.createElement('button');native.type='button';native.textContent='その他に共有';native.onclick=async()=>{try{await navigator.share({title:p.title,url:p.url});}catch(e){if(e.name!=='AbortError')await copyPageLink(value,copy);}};host.append(native);}
+  const status=document.createElement('span');status.className='share-status';status.setAttribute('role','status');status.setAttribute('aria-live','polite');host.append(status);return host;
  }
  function addPageSharing(value){
-  if(!value.startsWith('#/song/')&&!value.startsWith('#/feature/'))return;
-  const p=pageRegistry[value];if(!p)return;
-  let host=view.querySelector('.share');
-  if(!host){
-   host=document.createElement('div');host.className='share';
-   const button=document.createElement('button');button.type='button';button.textContent='特集のリンクをコピー';button.onclick=()=>copyPageLink(value,button);host.append(button);
-   view.querySelector('h1')?.after(host);
-   const byline=document.createElement('div');byline.innerHTML=articleByline(value);host.after(byline);
-  }
-  if(navigator.share){
-   const button=document.createElement('button');button.type='button';button.textContent='共有する';
-   button.onclick=async()=>{try{await navigator.share({title:p.title,text:p.description,url:p.url});trackInteraction('share',{method:'web_share',content_type:value.startsWith('#/song/')?'song':'feature',item_id:value.split('/').pop()});}catch(error){if(error.name!=='AbortError')await copyPageLink(value,button);}};
-   host.append(button);
+  if(!sharingPage(value))return;
+  document.querySelectorAll('.page-sharing').forEach(n=>n.remove());
+  document.querySelector('footer')?.append(sharingControls(value));
+  if(value.startsWith('#/song/')||value.startsWith('#/feature/')){
+   const article=view.querySelector('article')||view;article.append(sharingControls(value));
+   if(value.startsWith('#/feature/')&&!view.querySelector('.byline')){const b=document.createElement('div');b.innerHTML=articleByline(value);view.querySelector('h1')?.after(b);}
   }
  }
  document.addEventListener('click',event=>{

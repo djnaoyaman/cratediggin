@@ -46,13 +46,13 @@ jobs:
           tracks = json.loads(Path('tracks.json').read_text(encoding='utf-8'))
           assert tracks, 'Catalog must not be empty'
           assert any(t['id'] == 'dj-shadow-the-number-song' for t in tracks), 'The Number Song missing from source'
-          assert Path('dist/songs/dj-shadow-the-number-song.html').exists(), 'The Number Song page missing from build'
+          assert Path('dist/tracks/dj-shadow-the-number-song.html').exists(), 'The Number Song page missing from build'
           assert 'dj-shadow-the-number-song' in Path('dist/tracks.js').read_text(encoding='utf-8'), 'The Number Song missing from client catalog'
           expected_audio = {'dj-shadow-the-number-song': 'odlhSQqOXL8', 'dj-shadow-the-number-song-cut-chemist-remix': 'c0CKXOCOX3o'}
           for track_id, video_id in expected_audio.items():
               track = next(t for t in tracks if t['id'] == track_id)
               assert track['youtube']['id'] == video_id, f'Incorrect audio: {track_id}'
-              assert Path(f'dist/songs/{track_id}.html').exists()
+              assert Path(f'dist/tracks/{track_id}.html').exists()
           assert all(t.get('youtube', {}).get('id') for t in tracks), 'Missing catalog audio'
           print('Both Number Song versions and all catalog audio IDs verified')
           PY
@@ -60,6 +60,8 @@ jobs:
         run: |
           python scripts/audit_catalog.py
           python scripts/verify_discovery.py
+          python scripts/verify_url_migration.py
+          python scripts/verify_social_sharing_static.py
           python scripts/test_revision_dates.py
           node scripts/verify_listening_shelves.js
           node scripts/verify_producer_features.js
@@ -74,12 +76,12 @@ jobs:
           import json
           root = Path('dist')
           data = json.loads(Path('tracks.json').read_text(encoding='utf-8'))
-          assert {p.stem for p in (root/'songs').glob('*.html') if p.name!='index.html'} == {t['id'] for t in data}, 'Generated song HTML IDs mismatch'
-          assert (root/'songs'/'index.html').exists(), 'Static song index missing'
-          assert len(list((root/'songs').glob('*.md'))) == len(data), 'Generated Markdown page count mismatch'
+          assert {p.stem for p in (root/'tracks').glob('*.html') if p.name!='index.html'} == {t['id'] for t in data}, 'Generated song HTML IDs mismatch'
+          assert (root/'tracks'/'index.html').exists(), 'Static song index missing'
+          assert len(list((root/'tracks').glob('*.md'))) == len(data), 'Generated Markdown page count mismatch'
           assert len(list((root/'og').glob('*.png'))) == len(data), 'Generated social image count mismatch'
           html = (root/'index.html').read_text(encoding='utf-8')
-          assert '/cratediggin/songs/' in html, 'Project Pages links missing base path'
+          assert '/cratediggin/tracks/' in html, 'Project Pages links missing base path'
           assert '"//cratediggin/' not in html, 'Broken protocol-relative Pages URLs'
           assert 'src="/cratediggin/tracks.js' in html, 'Track data script URL incorrect'
           assert 'src="/cratediggin/app.js' in html, 'Player script URL incorrect'
@@ -92,7 +94,7 @@ jobs:
           assert all('/artists/'+p.name in sitemap for p in artist_pages), 'Artist page missing from sitemap'
           assert 'ARTIST INDEX' in html, 'Artist links missing from static home HTML'
           assert '/cratediggin/artists/' in html, 'Crawlable artist links missing from homepage'
-          assert any('/cratediggin/artists/' in p.read_text(encoding='utf-8') for p in (root/'songs').glob('*.html')), 'Crawlable song-to-artist links missing'
+          assert any('/cratediggin/artists/' in p.read_text(encoding='utf-8') for p in (root/'tracks').glob('*.html')), 'Crawlable song-to-artist links missing'
           assert '## Artists' in (root/'llms.txt').read_text(encoding='utf-8'), 'AI discovery artist index missing'
           assert 'DIG DEEPER' in (root/'app.js').read_text(encoding='utf-8'), 'Deep-dive UI missing'
           assert '制作の背景：サンプラーの制約が音楽になった' in (root/'tracks.js').read_text(encoding='utf-8'), 'Deep-dive source content missing'
@@ -130,6 +132,8 @@ jobs:
           node scripts/verify_playback_browser.cjs
           node scripts/verify_graffiti_browser.cjs
           node scripts/verify_feature_portraits_browser.cjs
+          node scripts/verify_social_sharing_browser.cjs
+          node scripts/verify_url_migration_browser.cjs
       - name: Save browser screenshots
         if: always()
         uses: actions/upload-artifact@v4
@@ -140,6 +144,9 @@ jobs:
             /tmp/catalog-pagination-*.png
             /tmp/graffiti-*.png
             /tmp/feature-portrait-*.png
+            /tmp/social-sharing-*.png
+            /tmp/crawl-artwork-*.png
+            /tmp/migration-navigation-*.png
           if-no-files-found: ignore
           retention-days: 3
       - uses: actions/upload-pages-artifact@v4

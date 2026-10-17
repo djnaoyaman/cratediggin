@@ -28,11 +28,11 @@ const {chromium}=require('playwright');
     window.__players.push(p);if(id==='sample-yt'&&window.__delaySample){delete p.playVideo;delete p.pauseVideo;}else queueMicrotask(p.makeReady);return p;
    }};window.onYouTubeIframeAPIReady();`}));
 
-  const open=async()=>{await page.goto(base+'/songs/');await page.waitForFunction(()=>window.__ytReady);};
+  const open=async()=>{await page.goto(base+'/tracks/');await page.waitForFunction(()=>window.__ytReady);};
   await open();
   await page.locator('#results .row-menu').first().click();
   await page.locator('#results .queue-remove').first().click();
-  assert(page.url().endsWith('/songs/'),'Removing a cued song must keep the list open');
+  assert(page.url().endsWith('/tracks/'),'Removing a cued song must keep the list open');
   await page.locator('#undo-remove').click();
   await page.evaluate(()=>localStorage.setItem('crate-my-playlist',JSON.stringify({name:'TEST',ids:['can-i-kick-it','runnin']})));
   await open();await page.locator('#my-crate-tab').click();
@@ -41,23 +41,23 @@ const {chromium}=require('playwright');
   assert.equal(await page.locator('#now-title').textContent(),'Can I Kick It?');
   assert.equal(await page.evaluate(()=>window.dataLayer.filter(x=>x[0]==='event'&&x[1]==='playback_start').length),1);
   const artistPath=await page.evaluate(()=>Object.values(window.CRATE_PAGES).find(p=>p.route.startsWith('#/artist/')).path);
-  for(const route of ['/features/tribe.html',artistPath.replace('/cratediggin',''),'/guides/first-ten.html']){
+  for(const route of ['/artists/tribe.html',artistPath.replace('/cratediggin',''),'/guides/first-ten.html']){
    await page.evaluate(url=>{const a=document.createElement('a');a.href=url;document.body.append(a);a.click();a.remove();},base+route);
   }
   await page.evaluate(()=>window.__players[0].options.events.onStateChange({data:0}));
-  await page.waitForURL('**/songs/runnin.html');
+  await page.waitForURL('**/tracks/runnin.html');
   assert.equal(await page.locator('#now-title').textContent(),"Runnin’");
   assert.equal(await page.evaluate(()=>window.__loads.length),2,'Browsing must preserve the selected next song');
   // An active song can also be removed without rendering into a detached list.
-  await page.evaluate(url=>{const a=document.createElement('a');a.href=url+'/songs/';document.body.append(a);a.click();a.remove();},base);
+  await page.evaluate(url=>{const a=document.createElement('a');a.href=url+'/tracks/';document.body.append(a);a.click();a.remove();},base);
   await page.locator('#my-crate-tab').click();
   await page.locator('.record-row').filter({has:page.locator('a[href$="/runnin.html"]')}).locator('.row-menu').click();
   await page.locator('.record-row').filter({has:page.locator('a[href$="/runnin.html"]')}).locator('.queue-remove').click();
-  await page.waitForURL('**/songs/can-i-kick-it.html');
+  await page.waitForURL('**/tracks/can-i-kick-it.html');
   assert.deepEqual(errors,[]);
   // Two already-open tabs edit the same persistent playlist.
   await page.evaluate(()=>localStorage.removeItem('crate-my-playlist'));await open();
-  const other=await page.context().newPage();await other.goto(base+'/songs/');
+  const other=await page.context().newPage();await other.goto(base+'/tracks/');
   const add=async(p,index)=>{await p.locator('#results .row-menu').nth(index).click();await p.locator('#results .crate-add').nth(index).click();};
   await add(page,0);await add(other,1);
   const saved=await page.evaluate(()=>JSON.parse(localStorage.getItem('crate-my-playlist')));
@@ -78,14 +78,14 @@ const {chromium}=require('playwright');
   await page.evaluate(()=>{localStorage.clear();localStorage.setItem('crate-my-playlist',JSON.stringify({name:'ONE',ids:['can-i-kick-it']}));});
   await open();await page.locator('#my-crate-tab').click();await page.locator('#play-filter').click();
   await page.waitForFunction(()=>window.__loads?.length===1);
-  await page.evaluate(url=>{const a=document.createElement('a');a.href=url+'/features/tribe.html';document.body.append(a);a.click();a.remove();},base);
+  await page.evaluate(url=>{const a=document.createElement('a');a.href=url+'/artists/tribe.html';document.body.append(a);a.click();a.remove();},base);
   await page.evaluate(()=>window.__players[0].options.events.onStateChange({data:0}));
   await page.waitForFunction(()=>window.__loads?.length===2);
   assert.equal(await page.evaluate(()=>window.__loads[0]===window.__loads[1]),true);
   // Delayed sample readiness must not pause the main track or throw; retry after ready works.
-  await page.goto(base+'/songs/can-i-kick-it.html');await page.waitForFunction(()=>window.__ytReady);
+  await page.goto(base+'/tracks/can-i-kick-it.html');await page.waitForFunction(()=>window.__ytReady);
   await page.evaluate(()=>window.__delaySample=true);
-  await page.evaluate(url=>{const a=document.createElement('a');a.href=url+'/songs/runnin.html';document.body.append(a);a.click();a.remove();},base);
+  await page.evaluate(url=>{const a=document.createElement('a');a.href=url+'/tracks/runnin.html';document.body.append(a);a.click();a.remove();},base);
   await page.locator('#article-play').click();
   const pauses=await page.evaluate(()=>window.__pauses?.filter(id=>id==='yt').length||0);
   await page.locator('#sample-start').click();
@@ -96,7 +96,7 @@ const {chromium}=require('playwright');
   assert.equal(await page.evaluate(()=>window.__plays.at(-1)),'sample-yt');
   await page.locator('#sample-return').click();
   assert.equal(await page.evaluate(()=>window.__plays.at(-1)),'yt');assert.deepEqual(errors,[]);
-  for(const [route,button] of [['/songs/','#play-filter'],['/features/tribe.html','#feature-play'],['/guides/first-ten.html','#guide-play']]){
+  for(const [route,button] of [['/tracks/','#play-filter'],['/artists/tribe.html','#feature-play'],['/guides/first-ten.html','#guide-play']]){
    await page.goto(base+route);await page.waitForFunction(()=>window.__ytReady);
    await page.locator(button).click();await page.waitForFunction(()=>window.__loads?.length===1);
    assert.equal(await page.evaluate(()=>window.dataLayer.filter(x=>x[0]==='event'&&x[1]==='playback_start').length),1);
