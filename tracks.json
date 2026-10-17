@@ -19490,13 +19490,13 @@
       "seed": 2187,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#b58b63",
+        "#eee1cc",
+        "#ab6651",
+        "#342b25"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Illmatic",
+      "paletteNote": "既存の同一アルバム設定を参照。編集上の近似配色であり厳密な色抽出ではありません。",
       "lines": [
         "LIFE’S",
         "A BITCH"
@@ -19610,13 +19610,13 @@
       "seed": 2188,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#b58b63",
+        "#eee1cc",
+        "#ab6651",
+        "#342b25"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Illmatic",
+      "paletteNote": "既存の同一アルバム設定を参照。編集上の近似配色であり厳密な色抽出ではありません。",
       "lines": [
         "ONE",
         "LOVE"
@@ -19846,19 +19846,20 @@
       "seed": 2191,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#6f1f21",
+        "#345c32",
+        "#b48a39",
+        "#e7ddb6"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Doe or Die",
+      "paletteNote": "Apple Music掲載のDoe or Dieジャケットを目視参照。臙脂・緑・金褐色・クリームの編集上の近似配色。厳密な色抽出ではありません。",
       "lines": [
         "RATHER",
         "UNIQUE"
       ],
       "lettering": "subway",
-      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。",
+      "paletteCoverSource": "https://music.apple.com/us/album/doe-or-die/724052211"
     },
     "deck": "Les McCannの短いAnticipationから、AZの一曲へ。",
     "essayTitle": "独特です、と言う前に。",
@@ -19968,13 +19969,13 @@
       "seed": 2190,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#ad7f52",
+        "#e7d8b8",
+        "#608e6f",
+        "#302b26"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Mecca and the Soul Brother",
+      "paletteNote": "既存の同一アルバム設定を参照。編集上の近似配色であり厳密な色抽出ではありません。",
       "lines": [
         "LOTS",
         "OF LOVIN’"
@@ -20220,18 +20221,19 @@
       "seed": 19990199,
       "profile": "ny-subway",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#151515",
+        "#555555",
+        "#bcbcbc",
+        "#f4f4f4"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "Lesson 7: The Next Lesson / The Forever Diggin’ EP",
+      "paletteNote": "アーティスト公式Bandcamp掲載のモノクロ盤面ジャケットを目視参照。黒・グラファイト・銀灰・白の編集上の近似配色。厳密な色抽出ではありません。",
       "lines": [
         "LESSON 7: THE NEXT LESSON"
       ],
       "lettering": "subway",
-      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。",
+      "paletteCoverSource": "https://crownedheights.bandcamp.com/track/lesson-7-the-next-lesson"
     },
     "deck": "第七の授業。",
     "essayTitle": "レコードの授業は、続いている。",
@@ -20320,18 +20322,19 @@
       "seed": 19970200,
       "profile": "la-open-sky",
       "palette": [
-        "#006cb6",
-        "#ffffff",
-        "#8dc9ed",
-        "#101114"
+        "#bd9445",
+        "#946732",
+        "#eadb8b",
+        "#282828"
       ],
-      "paletteSource": "Crate Diggin’のブランドカラー",
-      "paletteNote": "ジャケットの色抽出ではなく、独自の編集配色。",
+      "paletteSource": "J5（Jurassic 5）",
+      "paletteNote": "Apple Music掲載のJ5ジャケットを目視参照。金・琥珀褐色・淡い金クリーム・チャコールの編集上の近似配色。厳密な色抽出ではありません。",
       "lines": [
         "LESSON 6: THE LECTURE"
       ],
       "lettering": "subway",
-      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
+      "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。",
+      "paletteCoverSource": "https://music.apple.com/us/album/1777704233"
     },
     "deck": "授業は、まだ続いている。",
     "essayTitle": "レコードの授業は、続いている。",
@@ -23584,7 +23587,8 @@
       "paletteSource": "Psyence Fiction",
       "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
       "lettering": "block",
-      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。",
+      "paletteCoverSource": "https://www.universal-music.co.jp/unkle/biography/"
     },
     "deck": "Thom Yorkeの声と、UNKLEの深い陰影。",
     "essayTitle": "声が、暗がりの輪郭をつくる。",
@@ -23928,7 +23932,8 @@
       "paletteSource": "The Private Press",
       "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
       "lettering": "block",
-      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。",
+      "paletteCoverSource": "https://djshadow.com/products/the-private-press-vinyl-2lp"
     },
     "deck": "LateefのMCが運ぶ、せわしないビートの景色。",
     "essayTitle": "ハンドルより先に、言葉が曲がる。",
@@ -24244,7 +24249,8 @@
       "paletteSource": "The Mountain Will Fall",
       "paletteNote": "収録アルバムの印象を参照した編集上の近似配色。厳密な色抽出ではありません。",
       "lettering": "block",
-      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。",
+      "paletteCoverSource": "https://djshadow.bandcamp.com/album/the-mountain-will-fall"
     },
     "deck": "Run The Jewelsの言葉が、太いビートを押し進める。",
     "essayTitle": "ビートに、二人分の口がある。",
@@ -25927,7 +25933,8 @@
       "paletteSource": "Shades of Blue",
       "paletteNote": "アルバムの印象を参照した編集上の近似配色。厳密な画像色抽出ではありません。",
       "lettering": "block",
-      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。",
+      "paletteCoverSource": "https://www.youtube.com/watch?v=78E1ZFpHOJI"
     },
     "deck": "Blue Noteの音源と、Madlibのビートの接点。",
     "essayTitle": "ジャズの棚に、別の入口を。",
