@@ -1,0 +1,18 @@
+{
+  "state": "PAUSED_FOR_DOT_HANDOFF",
+  "sourceArchive": "source-snapshot.json.gz",
+  "sourceArchiveSha256": "7d39e21fc2a5d07d691d005a4f1a9aa1410d2d50cce21be77e21ff59c116aab5",
+  "sourceArchiveBytes": 507939,
+  "unpublishedReviewedAssets": 62,
+  "publishedTransparentAssets": 53,
+  "publishedReadyImages": 56,
+  "candidateTransparentAssets": 115,
+  "catalogTracks": 381,
+  "candidatePendingAlpha": 266,
+  "fixedBatchSize": null,
+  "serviceQuotaRemaining": "not-exposed",
+  "localChecks": "passed",
+  "finalCandidateBrowserCI": "not-run",
+  "merged": false,
+  "deployed": false
+}
