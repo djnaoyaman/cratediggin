@@ -7499,6 +7499,126 @@
       "paletteReviewed": true,
       "transparent": true,
       "coverReference": "https://music.apple.com/us/album/blue-funk/1443765300"
+    },
+    {
+      "id": "the-pharcyde-bullshit",
+      "title": "Bullshit",
+      "artist": "The Pharcyde",
+      "album": "Labcabincalifornia",
+      "palette": [
+        "#101c3b",
+        "#e5c979",
+        "#ef3c36",
+        "#eee7c9"
+      ],
+      "paletteSource": "Labcabincalifornia",
+      "paletteNote": "レーベルまたは公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-pharcyde-bullshit-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://craftrecordings.com/products/the-pharcyde-labcabincalifornia-2-lp-vinyl"
+    },
+    {
+      "id": "mood-secrets-of-the-sand-jay-dee-remix",
+      "title": "Secrets Of The Sand (Jay Dee Remix)",
+      "artist": "Mood",
+      "album": "Snakebacks / Secrets Of The Sand (TVT4433-0)",
+      "palette": [
+        "#f6f3e9",
+        "#673e2d",
+        "#a49470",
+        "#526974"
+      ],
+      "paletteSource": "Snakebacks/Secrets Of The Sand",
+      "paletteNote": "公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/mood-secrets-of-the-sand-jay-dee-remix-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/snakebacks-secrets-of-the-sand/311295426?uo=4"
+    },
+    {
+      "id": "camp-lo-black-connection",
+      "title": "Black Connection",
+      "artist": "Camp Lo",
+      "album": "Uptown Saturday Night",
+      "palette": [
+        "#b08a54",
+        "#4c7faa",
+        "#a64b36",
+        "#343e3b"
+      ],
+      "paletteSource": "Uptown Saturday Night",
+      "paletteNote": "レーベルまたは公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/camp-lo-black-connection-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/black-connection/298544254"
+    },
+    {
+      "id": "the-roots-mellow-my-man",
+      "title": "Mellow My Man",
+      "artist": "The Roots",
+      "album": "From The Ground Up / Do You Want More?!!!??!",
+      "palette": [
+        "#df4627",
+        "#d9ded1",
+        "#141616",
+        "#d99847"
+      ],
+      "paletteSource": "From The Ground Up",
+      "paletteNote": "レーベルまたは公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-roots-mellow-my-man-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/from-the-ground-up/1443629977"
+    },
+    {
+      "id": "the-notorious-big-skys-the-limit",
+      "title": "Sky's The Limit",
+      "artist": "The Notorious B.I.G. feat. 112",
+      "album": "Life After Death",
+      "palette": [
+        "#2e2424",
+        "#8b6f65",
+        "#d59162",
+        "#e3dacc"
+      ],
+      "paletteSource": "Life After Death (2014 Remaster)",
+      "paletteNote": "公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。2014年リマスターの外枠付き画像を参照。原盤ジャケットそのものの確認とは区別する。",
+      "status": "ready",
+      "image": "assets/graffiti/the-notorious-big-skys-the-limit-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/life-after-death-amended-version-2014-remaster/906586710?uo=4"
+    },
+    {
+      "id": "black-eyed-peas-duet",
+      "title": "Duet",
+      "artist": "Black Eyed Peas",
+      "album": "Behind The Front",
+      "palette": [
+        "#bb7944",
+        "#d5bb68",
+        "#0a0b09",
+        "#f5e8ca"
+      ],
+      "paletteSource": "Behind the Front",
+      "paletteNote": "公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/black-eyed-peas-duet-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/behind-the-front/1445663231?uo=4"
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

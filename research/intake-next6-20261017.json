@@ -1,0 +1,150 @@
+{
+  "state": "reviewed-candidate-pending-ci-and-deployment",
+  "newTrackIds": [
+    "the-pharcyde-bullshit",
+    "mood-secrets-of-the-sand-jay-dee-remix",
+    "camp-lo-black-connection",
+    "the-roots-mellow-my-man",
+    "the-notorious-big-skys-the-limit",
+    "black-eyed-peas-duet"
+  ],
+  "previousCatalogTotal": 384,
+  "candidateCatalogTotal": 390,
+  "candidateTransparent": 389,
+  "paletteOnlyOldTrackIds": [],
+  "audioVerification": "Official player metadata statusOK,embedallowed,JPincluded;actualplaybackunverified",
+  "assets": [
+    {
+      "id": "the-pharcyde-bullshit",
+      "title": "Bullshit",
+      "artist": "The Pharcyde",
+      "palette": [
+        "#101c3b",
+        "#e5c979",
+        "#ef3c36",
+        "#eee7c9"
+      ],
+      "paletteSource": "Labcabincalifornia",
+      "paletteNote": "レーベルまたは公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "coverUrl": "https://craftrecordings.com/products/the-pharcyde-labcabincalifornia-2-lp-vinyl",
+      "referenceEdition": "レーベルまたは公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "prompt": "Create original transparent graffiti lettering using provided Mass Appeal image as STYLE ONLY: angular interlocking1990s lettering, strong blackcontours, opaque whiteinteriors, drybrushdrips isolatedsplatter. Exactfulltitle \"Bullshit\" and fullartist \"The Pharcyde\", include every subtitle/co-credit. Cover-derived accents #101c3b, #e5c979, #ef3c36, #eee7c9 pluswhiteblack. Wide generousmargins, allletters insidecanvas. No coverpicture, portraits, logos, signature, wall, rectangularmatte, checkerboard or blurryhalo. TRUEalpha transparency outsideletters and controlledpaint. Unique originalcomposition, legiblefulltext.",
+      "image": "assets/graffiti/the-pharcyde-bullshit-alpha.webp",
+      "bytes": 546224,
+      "blobSha": "d0c62512cc49ee380ae8e7104e80128a911fd26c",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "mood-secrets-of-the-sand-jay-dee-remix",
+      "title": "Secrets Of The Sand (Jay Dee Remix)",
+      "artist": "Mood",
+      "palette": [
+        "#f6f3e9",
+        "#673e2d",
+        "#a49470",
+        "#526974"
+      ],
+      "paletteSource": "Snakebacks/Secrets Of The Sand",
+      "paletteNote": "公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "coverUrl": "https://music.apple.com/us/album/snakebacks-secrets-of-the-sand/311295426?uo=4",
+      "referenceEdition": "公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "prompt": "Create original transparent graffiti lettering using provided Mass Appeal image as STYLE ONLY: angular interlocking1990s lettering, strong blackcontours, opaque whiteinteriors, drybrushdrips isolatedsplatter. Exactfulltitle \"Secrets Of The Sand (Jay Dee Remix)\" and fullartist \"Mood\", include every subtitle/co-credit. Cover-derived accents #f6f3e9, #673e2d, #a49470, #526974 pluswhiteblack. Wide generousmargins, allletters insidecanvas. No coverpicture, portraits, logos, signature, wall, rectangularmatte, checkerboard or blurryhalo. TRUEalpha transparency outsideletters and controlledpaint. Unique originalcomposition, legiblefulltext.",
+      "image": "assets/graffiti/mood-secrets-of-the-sand-jay-dee-remix-alpha.webp",
+      "bytes": 495366,
+      "blobSha": "e1f05bde9d3c37dc1f19132de87436448399d531",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "camp-lo-black-connection",
+      "title": "Black Connection",
+      "artist": "Camp Lo",
+      "palette": [
+        "#b08a54",
+        "#4c7faa",
+        "#a64b36",
+        "#343e3b"
+      ],
+      "paletteSource": "Uptown Saturday Night",
+      "paletteNote": "レーベルまたは公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "coverUrl": "https://music.apple.com/us/song/black-connection/298544254",
+      "referenceEdition": "レーベルまたは公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "prompt": "Create original transparent graffiti lettering using provided Mass Appeal image as STYLE ONLY: angular interlocking1990s lettering, strong blackcontours, opaque whiteinteriors, drybrushdrips isolatedsplatter. Exactfulltitle \"Black Connection\" and fullartist \"Camp Lo\", include every subtitle/co-credit. Cover-derived accents #b08a54, #4c7faa, #a64b36, #343e3b pluswhiteblack. Wide generousmargins, allletters insidecanvas. No coverpicture, portraits, logos, signature, wall, rectangularmatte, checkerboard or blurryhalo. TRUEalpha transparency outsideletters and controlledpaint. Unique originalcomposition, legiblefulltext.",
+      "image": "assets/graffiti/camp-lo-black-connection-alpha.webp",
+      "bytes": 515256,
+      "blobSha": "5aa25a2f8b2962f045baf03b0785cb4a62d870fc",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "the-roots-mellow-my-man",
+      "title": "Mellow My Man",
+      "artist": "The Roots",
+      "palette": [
+        "#df4627",
+        "#d9ded1",
+        "#141616",
+        "#d99847"
+      ],
+      "paletteSource": "From The Ground Up",
+      "paletteNote": "レーベルまたは公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "coverUrl": "https://music.apple.com/us/album/from-the-ground-up/1443629977",
+      "referenceEdition": "レーベルまたは公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "prompt": "Create original transparent graffiti lettering using provided Mass Appeal image as STYLE ONLY: angular interlocking1990s lettering, strong blackcontours, opaque whiteinteriors, drybrushdrips isolatedsplatter. Exactfulltitle \"Mellow My Man\" and fullartist \"The Roots\", include every subtitle/co-credit. Cover-derived accents #df4627, #d9ded1, #141616, #d99847 pluswhiteblack. Wide generousmargins, allletters insidecanvas. No coverpicture, portraits, logos, signature, wall, rectangularmatte, checkerboard or blurryhalo. TRUEalpha transparency outsideletters and controlledpaint. Unique originalcomposition, legiblefulltext.",
+      "image": "assets/graffiti/the-roots-mellow-my-man-alpha.webp",
+      "bytes": 532668,
+      "blobSha": "cfa9b5ddfe4465d0a930c162f27f3c17c14f79a0",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "the-notorious-big-skys-the-limit",
+      "title": "Sky's The Limit",
+      "artist": "The Notorious B.I.G. feat. 112",
+      "palette": [
+        "#2e2424",
+        "#8b6f65",
+        "#d59162",
+        "#e3dacc"
+      ],
+      "paletteSource": "Life After Death (2014 Remaster)",
+      "paletteNote": "公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。2014年リマスターの外枠付き画像を参照。原盤ジャケットそのものの確認とは区別する。",
+      "coverUrl": "https://music.apple.com/us/album/life-after-death-amended-version-2014-remaster/906586710?uo=4",
+      "referenceEdition": "公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。2014年リマスターの外枠付き画像を参照。原盤ジャケットそのものの確認とは区別する。",
+      "prompt": "Create original transparent graffiti lettering using provided Mass Appeal image as STYLE ONLY: angular interlocking1990s lettering, strong blackcontours, opaque whiteinteriors, drybrushdrips isolatedsplatter. Exactfulltitle \"Sky's The Limit\" and fullartist \"The Notorious B.I.G. feat. 112\", include every subtitle/co-credit. Cover-derived accents #2e2424, #8b6f65, #d59162, #e3dacc pluswhiteblack. Wide generousmargins, allletters insidecanvas. No coverpicture, portraits, logos, signature, wall, rectangularmatte, checkerboard or blurryhalo. TRUEalpha transparency outsideletters and controlledpaint. Unique originalcomposition, legiblefulltext.",
+      "image": "assets/graffiti/the-notorious-big-skys-the-limit-alpha.webp",
+      "bytes": 590290,
+      "blobSha": "aec294c721ef8346cffb5681e3137d24f856d8c8",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    },
+    {
+      "id": "black-eyed-peas-duet",
+      "title": "Duet",
+      "artist": "Black Eyed Peas",
+      "palette": [
+        "#bb7944",
+        "#d5bb68",
+        "#0a0b09",
+        "#f5e8ca"
+      ],
+      "paletteSource": "Behind the Front",
+      "paletteNote": "公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "coverUrl": "https://music.apple.com/us/album/behind-the-front/1445663231?uo=4",
+      "referenceEdition": "公式配信サービス掲載画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+      "prompt": "Create original transparent graffiti lettering using provided Mass Appeal image as STYLE ONLY: angular interlocking1990s lettering, strong blackcontours, opaque whiteinteriors, drybrushdrips isolatedsplatter. Exactfulltitle \"Duet\" and fullartist \"Black Eyed Peas\", include every subtitle/co-credit. Cover-derived accents #bb7944, #d5bb68, #0a0b09, #f5e8ca pluswhiteblack. Wide generousmargins, allletters insidecanvas. No coverpicture, portraits, logos, signature, wall, rectangularmatte, checkerboard or blurryhalo. TRUEalpha transparency outsideletters and controlledpaint. Unique originalcomposition, legiblefulltext.",
+      "image": "assets/graffiti/black-eyed-peas-duet-alpha.webp",
+      "bytes": 533148,
+      "blobSha": "2ce1b211b395db15571188a9d0b668f87adb8a99",
+      "textReviewed": true,
+      "alphaReviewed": true,
+      "status": "local-reviewed-unpublished"
+    }
+  ]
+}
