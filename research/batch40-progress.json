@@ -1,0 +1,198 @@
+{
+  "status": "in-progress-not-published",
+  "target": 40,
+  "tracks": [
+    {
+      "id": "in-the-house",
+      "sha": "ec388f5d12e7438fb48ad5370185f81b924efbed",
+      "palette": [
+        "#ce9f40",
+        "#f3e3b4",
+        "#98705a",
+        "#211c19"
+      ],
+      "paletteSource": "The Main Ingredient",
+      "paletteNote": "収録アルバムのジャケットを参照した編集上の配色。厳密な色抽出値ではない。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/in-the-house-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "times-up",
+      "sha": "4108ab17c33de133f05afd42a99728a7a11858ad",
+      "palette": [
+        "#b37543",
+        "#ead5a2",
+        "#60704c",
+        "#24211b"
+      ],
+      "paletteSource": "Word...Life",
+      "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/times-up-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "a-tribe-called-quest-award-tour",
+      "sha": "541085f62d9f5a308a473517a2e575f7cb27e5b7",
+      "palette": [
+        "#d93433",
+        "#e4cc54",
+        "#35926c",
+        "#222126"
+      ],
+      "paletteSource": "Midnight Marauders",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/a-tribe-called-quest-award-tour-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "what-im-after",
+      "sha": "277bda94ab712a3dd7a12db845509872dd675033",
+      "palette": [
+        "#b58343",
+        "#e4d2a2",
+        "#bd4c37",
+        "#252622"
+      ],
+      "paletteSource": "Keepers of the Funk",
+      "paletteNote": "ジャケットを参照した編集上の配色。厳密な抽出値ではない。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/what-im-after-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "bucktown",
+      "sha": "613d506e28597a9ef121b9f5914387aa9675d40d",
+      "palette": [
+        "#aa713c",
+        "#ebd798",
+        "#518070",
+        "#201b16"
+      ],
+      "paletteSource": "Dah Shinin’",
+      "paletteNote": "ジャケットを参照した編集上の配色。厳密な抽出値ではない。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/bucktown-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "put-it-on",
+      "sha": "d21e7a4d56091603c6ac4aea4b817bfdf63846f9",
+      "palette": [
+        "#78907c",
+        "#e6d8b8",
+        "#ad6750",
+        "#282a26"
+      ],
+      "paletteSource": "Lifestylez ov da Poor & Dangerous",
+      "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/put-it-on-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "a-tribe-called-quest-bonita-applebum",
+      "sha": "fa997cf28c52708ad441235a4e412dfa85f0ea16",
+      "palette": [
+        "#ed443b",
+        "#f5cf39",
+        "#39a579",
+        "#292529"
+      ],
+      "paletteSource": "People's Instinctive Travels and the Paths of Rhythm",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/a-tribe-called-quest-bonita-applebum-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "runnin",
+      "sha": "c4e3f949d063dd18bdf2439e0753b60e665b21b4",
+      "palette": [
+        "#a59b56",
+        "#eadcaf",
+        "#854e35",
+        "#29291f"
+      ],
+      "paletteSource": "Labcabincalifornia",
+      "paletteNote": "ジャケットの土と草木の色を参照した編集上の配色。厳密な色抽出値ではない。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/runnin-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "the-pharcyde-passin-me-by",
+      "sha": "0a6b99615f5fc1510a671a14785ce1abc0dd754f",
+      "palette": [
+        "#ebbf36",
+        "#67b5c2",
+        "#e45f8a",
+        "#32285c"
+      ],
+      "paletteSource": "Bizarre Ride II the Pharcyde",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/the-pharcyde-passin-me-by-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "resurrection",
+      "sha": "c478055d3f60a059464124e0b9a223cd14a1452d",
+      "palette": [
+        "#557d96",
+        "#e5e1d8",
+        "#bd9865",
+        "#17232e"
+      ],
+      "paletteSource": "Resurrection",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/resurrection-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "a-tribe-called-quest-electric-relaxation",
+      "sha": "9b8aba7acb59dccce5524273d19c343837eb4236",
+      "palette": [
+        "#d93433",
+        "#e4cc54",
+        "#35926c",
+        "#222126"
+      ],
+      "paletteSource": "Midnight Marauders",
+      "paletteNote": "ジャケットの印象を参照した編集上の近似配色。厳密な色抽出ではなく、追加分は画像との照合を継続する。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/a-tribe-called-quest-electric-relaxation-alpha.webp",
+      "transparent": true
+    },
+    {
+      "id": "props-over-here",
+      "sha": "7b8c0a9bfd2eb3520a55ed7719b8be0e59b2f48f",
+      "palette": [
+        "#ba3638",
+        "#ece1bf",
+        "#d5ae41",
+        "#211e20"
+      ],
+      "paletteSource": "The Beatnuts（Street Level）",
+      "paletteNote": "収録アルバムを参考にした編集上の配色。厳密な色抽出値ではない。",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "image": "assets/graffiti/props-over-here-alpha.webp",
+      "transparent": true
+    }
+  ]
+}
