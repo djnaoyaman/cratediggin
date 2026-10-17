@@ -8257,6 +8257,166 @@
       "paletteReviewed": true,
       "transparent": true,
       "coverReference": "https://music.apple.com/ca/song/258608265"
+    },
+    {
+      "id": "j-dilla-wont-do",
+      "title": "Won't Do",
+      "artist": "J Dilla",
+      "album": "The Shining",
+      "palette": [
+        "#8e1e23",
+        "#d9bd35",
+        "#faf5de",
+        "#16150e"
+      ],
+      "paletteSource": "https://music.apple.com/us/song/1444685465",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/j-dilla-wont-do-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/song/1444685465"
+    },
+    {
+      "id": "madlib-two-for-pay-jay",
+      "title": "Two for Pay Jay (No Dough, No Show)",
+      "artist": "Madlib",
+      "album": "Beat Konducta Vol. 5: Dil Cosby Suite",
+      "palette": [
+        "#655065",
+        "#bd8b7c",
+        "#4cbbbc",
+        "#f6f3e9"
+      ],
+      "paletteSource": "https://yesterdaysnewquintet.bandcamp.com/track/two-for-pay-jay-no-dough-no-show",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/madlib-two-for-pay-jay-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://yesterdaysnewquintet.bandcamp.com/track/two-for-pay-jay-no-dough-no-show"
+    },
+    {
+      "id": "the-roots-stay-cool",
+      "title": "Stay Cool",
+      "artist": "The Roots",
+      "album": "The Tipping Point",
+      "palette": [
+        "#ef8304",
+        "#12100c",
+        "#fbf3d8",
+        "#483116"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/the-tipping-point/1440634793",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-roots-stay-cool-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/the-tipping-point/1440634793"
+    },
+    {
+      "id": "homeliss-derilex-cash-money",
+      "title": "Cash Money",
+      "artist": "Homeliss Derilex",
+      "album": "Cash Money 12-inch",
+      "palette": [
+        "#77734c",
+        "#e9e7dc",
+        "#55564e",
+        "#171913"
+      ],
+      "paletteSource": "https://www.stonesthrow.com/store/cash-money-12/",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/homeliss-derilex-cash-money-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://www.stonesthrow.com/store/cash-money-12/"
+    },
+    {
+      "id": "black-star-astronomy-8th-light",
+      "title": "Astronomy (8th Light)",
+      "artist": "Black Star feat. Weldon Irvine",
+      "album": "Mos Def & Talib Kweli Are Black Star",
+      "palette": [
+        "#d74532",
+        "#e0ba58",
+        "#3c6c36",
+        "#191b16"
+      ],
+      "paletteSource": "https://interscope.com/products/black-star-mos-def-talib-kweli-are-black-star-lp",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/black-star-astronomy-8th-light-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://interscope.com/products/black-star-mos-def-talib-kweli-are-black-star-lp"
+    },
+    {
+      "id": "mf-doom-dead-bent",
+      "title": "Dead Bent",
+      "artist": "MF DOOM",
+      "album": "Operation: Doomsday",
+      "palette": [
+        "#cb2630",
+        "#e8cd49",
+        "#536a68",
+        "#a3a4bb"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/operation-doomsday-complete/1654811465",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/mf-doom-dead-bent-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/operation-doomsday-complete/1654811465"
+    },
+    {
+      "id": "a-tribe-called-quest-the-pressure",
+      "title": "The Pressure",
+      "artist": "A Tribe Called Quest",
+      "album": "Beats, Rhymes & Life",
+      "palette": [
+        "#ba526b",
+        "#d7c13a",
+        "#4c6c35",
+        "#30282e"
+      ],
+      "paletteSource": "https://atribecalledquest.com/products/beats-rhymes-life-2lp",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-the-pressure-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://atribecalledquest.com/products/beats-rhymes-life-2lp"
+    },
+    {
+      "id": "krs-one-the-mc",
+      "title": "The MC",
+      "artist": "KRS-One",
+      "album": "I Got Next",
+      "palette": [
+        "#edb331",
+        "#8b381c",
+        "#171f41",
+        "#f3d987"
+      ],
+      "paletteSource": "https://music.apple.com/gb/song/286588614",
+      "paletteNote": "収録盤のジャケットまたは原盤ラベルを目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/krs-one-the-mc-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/gb/song/286588614"
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
