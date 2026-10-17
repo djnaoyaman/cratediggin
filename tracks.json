@@ -20561,11 +20561,6 @@
         "label": "収録・発表の資料",
         "url": "https://music.apple.com/us/album/fresh-mode/1443809789",
         "kind": "盤情報"
-      },
-      {
-        "label": "Bandcampで聴く — Ugly Duckling「Now Who’s Laughin」",
-        "url": "https://uglyduckling.bandcamp.com/track/now-whos-laughin",
-        "kind": "公式配信・外部の再生先"
       }
     ],
     "producers": [],
@@ -20574,7 +20569,7 @@
       "Breaks"
     ],
     "addedOrder": 203,
-    "editorialStatus": "掲載YouTube音源は日本での配信対象外です。出典欄の公式Bandcampから『Fresh Mode』収録版を聴けます。試聴や購入の条件は配信サービスでご確認ください。日本国内での再生は未確認です。",
+    "editorialStatus": "掲載YouTube音源は日本での配信対象外です。日本からサイト内で再生できる正規音源は未確認です。",
     "sampleStatus": "多くの断片を組み合わせる作品を含むため、単一のメインサンプルは未確定。確認できた原曲を順次記録します。",
     "collections": [
       "pizza",
@@ -43193,9 +43188,9 @@
     ],
     "sources": [
       {
-        "label": "Bandcampで聴く — Pete Rock / InI「Grown Man Sport」",
+        "label": "Pete Rock / InI — 公式Bandcamp",
         "url": "https://pete-rock.bandcamp.com/track/grown-man-sport",
-        "kind": "公式配信・外部の再生先"
+        "kind": "公式配信"
       },
       {
         "label": "VinDig提供公式音源・制作クレジット",
@@ -43253,7 +43248,7 @@
     },
     "yearBasis": "2003年のBBE/Rapster流通盤を基準とする。1990年代の制作時期、2017年の再発とは区別する。",
     "addedOrder": 390,
-    "editorialStatus": "掲載YouTube音源は現在利用できません。出典欄の公式Bandcampから聴けます。試聴や購入の条件は配信サービスでご確認ください。日本国内での再生は未確認です。",
+    "editorialStatus": "掲載YouTube音源は現在利用できません。サイト内で再生できる正規音源は未確認です。",
     "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
   },
   {
