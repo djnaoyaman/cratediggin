@@ -9384,6 +9384,49 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "dj-shadow-cut-chemist-brainfreeze",
+      "title": "Brainfreeze",
+      "artist": "DJ Shadow & Cut Chemist",
+      "album": "Brainfreeze",
+      "palette": [
+        "#101725",
+        "#eadbb9",
+        "#b44f47",
+        "#667f82",
+        "#bc852f"
+      ],
+      "paletteSource": "Brainfreeze OG PRESS CD（Cut Chemist公式ストア）",
+      "paletteNote": "公式ストアの実ジャケットを別途目視照合した記録に基づく近似配色。深い紺黒、古びたクリーム、赤、青緑、黄土色。厳密な色抽出値ではない。",
+      "coverReference": "https://cutchemist.bandcamp.com/merch/brainfreeze-with-dj-shadow-og-press-cd-sealed",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-cut-chemist-brainfreeze-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "dj-shadow-cut-chemist-product-placement-on-tour",
+      "title": "Product Placement: On Tour",
+      "artist": "DJ Shadow & Cut Chemist",
+      "album": "Product Placement: On Tour",
+      "palette": [
+        "#ca2879",
+        "#f1e4c8",
+        "#ed8b3a",
+        "#a64c28",
+        "#111116",
+        "#233e95"
+      ],
+      "paletteSource": "Product Placement: On Tour ライブDVD+CD（Cut Chemist公式ストア）",
+      "paletteNote": "公式ストア掲載On TourライブDVD+CDの実ジャケットを別途目視照合した記録に基づく近似配色。マゼンタ、クリーム、橙、焦げ茶、黒、青。2001年原作のジャケットではなく、単体CDのスキャンとも断定しない。",
+      "coverReference": "https://cutchemist.bandcamp.com/merch/sealed-product-placement-live-dvd-cd-pal-format-but-plays-in-computers",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-cut-chemist-product-placement-on-tour-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

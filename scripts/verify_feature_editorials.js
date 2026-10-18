@@ -5,7 +5,7 @@ const source=JSON.parse(fs.readFileSync('features.json','utf8'));
 const app=fs.readFileSync('dist/app.js','utf8');
 const view={innerHTML:'',querySelectorAll:()=>[]},canonical={href:''};
 const ctx=vm.createContext({songs,view,document:{title:''},origin:'https://djnaoyaman.github.io/cratediggin',esc:s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;'),top:()=>'',playableIds:s=>s.map(t=>t.id),paintResults:()=>{},$:()=>canonical});
-vm.runInContext('let customMode,applyListFilters,filtered,queue,resultPage;const browseRestoring=null;'+app.slice(app.indexOf(' const features=['),app.indexOf(' let lastAnalyticsPage'))+';globalThis.api={features,featureTracks,eligibleFeatures,featurePage};',ctx);
+vm.runInContext(app.slice(app.indexOf(' function workUnit('),app.indexOf(' const songs='))+'let customMode,applyListFilters,filtered,queue,resultPage;const browseRestoring=null;'+app.slice(app.indexOf(' const features=['),app.indexOf(' let lastAnalyticsPage'))+';globalThis.api={features,featureTracks,eligibleFeatures,featurePage};',ctx);
 const api=ctx.api,eligible=api.eligibleFeatures();
 assert.equal(eligible.length,source.features.length);
 assert.equal(new Set(eligible.flatMap(f=>Array.from(f.aliases||[]))).size,eligible.reduce((n,f)=>n+(f.aliases||[]).length,0));
@@ -17,7 +17,9 @@ for(const f of eligible){
  for(const key of ['context','legacy','listening','connections'])assert(view.innerHTML.includes(f.editorial[key]));
  for(const r of f.editorial.sources)assert(view.innerHTML.includes(r.url));
  const html=fs.readFileSync('dist/'+(f.type==='artist'?'artists':'producers')+'/'+f.id+'.html','utf8');
- assert(html.includes('収録曲 '+selected.length+' 曲'),f.id+': static/client count mismatch');
+ const songCount=selected.filter(t=>(t.workType||'single')==='single').length,mixCount=selected.filter(t=>t.workType==='mix').length,countLabel=songCount+'曲'+(mixCount?'・'+mixCount+'ミックス作品':'');
+ assert(html.includes('収録作品 '+countLabel),f.id+': static/client count mismatch');
+ assert(view.innerHTML.includes(countLabel),f.id+': client work count mismatch');
  assert(html.includes(f.editorial.title));assert(html.includes('#/feature/'+f.id));
  console.log(f.name+': '+selected.length+' tracks, editorial and static route verified');
 }

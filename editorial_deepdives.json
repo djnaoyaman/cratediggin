@@ -3155,5 +3155,53 @@
         ]
       }
     ]
+  },
+  {
+    "artist": "DJ Shadow & Cut Chemist",
+    "title": "Brainfreeze",
+    "sections": [
+      {
+        "heading": "二人のLesson 4から始まった縁",
+        "text": "ShadowとCut Chemistが出会ったのは、Oaklandのレコード・ショーだった。Shadowは、二人がそれぞれ「Lesson 4」という題名でDouble Dee & Steinskiへの敬意を示していたことを回想する。好きな音楽が同じというだけでなく、過去の音を受け取り、自分の手で続きを作ろうとしていた。その共通点が、共同作業より先にあった。",
+        "source": "https://xlr8r.com/features/rewind-dj-shadow/",
+        "sourceLabel": "XLR8R — DJ Shadow本人が振り返る二人の出会い（2012年9月27日）",
+        "sources": [
+          2
+        ]
+      },
+      {
+        "heading": "限定盤は、売れ残りへの不安から",
+        "text": "『Brainfreeze』の少数制作について、ShadowはExclaim!で、どれだけ求められるか分からず、売れないCDの箱を抱えたくなかったと説明している。希少価値を演出するために始めた企画ではなかったという本人の証言が面白い。後の熱狂を知るほど、最初から成功が見えていたかのように語りたくなるが、出発点には二人にも読めない需要があった。",
+        "source": "https://exclaim.ca/music/article/dj_shadow-verge_of_third_phase",
+        "sourceLabel": "Exclaim! — DJ Shadow本人が語る限定制作と続編",
+        "sources": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "artist": "DJ Shadow & Cut Chemist",
+    "title": "Product Placement: On Tour",
+    "sections": [
+      {
+        "heading": "DVDがつなぐ、複数の街",
+        "text": "RapReviewsによれば、『On Tour』のDVD本編は東京、ロサンゼルス、ロンドンなどの公演をつないでいる。一晩のステージをそのまま固定した映像ではなく、各地で演奏されたセットを編集した作品だ。同じルーティンを異なる場所へ運ぶというツアーの広がりが、その構成にも残っている。これはDVD版の特徴であり、掲載しているYouTube音源の収録地を特定する情報ではない。",
+        "source": "https://www.rapreviews.com/archive/2005_07D_productplacement.html",
+        "sourceLabel": "RapReviews — On TourのDVD/CD評（2005年7月12日）",
+        "sources": [
+          2
+        ]
+      },
+      {
+        "heading": "二人の外へ広がる、45sの輪",
+        "text": "同DVDには「Cookies & Milk: Around the World in 14 DJs」も収録され、Shortkut、Egon、DJ Spinnaらの45sセットを紹介している。二人の演奏だけを追う本編とは別に、同じフォーマットを使う別のDJへ視線を開く構成だ。共通するのは盤のサイズでも、選ぶ音や組み方まで同じになるわけではない。45sの面白さが、個々のDJの違いとして立ち上がる。",
+        "source": "https://www.rapreviews.com/archive/2005_07D_productplacement.html",
+        "sourceLabel": "RapReviews — On TourのDVD/CD評（2005年7月12日）",
+        "sources": [
+          2
+        ]
+      }
+    ]
   }
 ]

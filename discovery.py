@@ -6,6 +6,7 @@ import re
 from pathlib import Path
 from urllib.parse import quote, urlparse
 from revision_dates import revision_dates
+from catalog import work_type, work_label, work_count
 
 
 def encoded(value):
@@ -67,7 +68,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
 
     def track_links(items):
         return '<ul>' + ''.join('<li><a href="' + base_path + '/songs/' + t['id'] + '.html">' +
-                               esc(t['artist'] + ' — ' + t['title']) + '</a></li>' for t in items) + '</ul>'
+                               esc(t['artist'] + ' — ' + t['title']) + '</a>'+ (' <span class="work-format">'+esc(work_label(t))+'</span>' if work_type(t)!='single' else '')+'</li>' for t in items) + '</ul>'
 
     def article(url, title, description, image, key, published=None, about=None):
         data = {'@type': 'Article', '@id': url + '#article', 'url': url, 'mainEntityOfPage': url,
@@ -93,6 +94,11 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         recording = {'@type': 'MusicRecording', '@id': url + '#recording', 'name': t['title'],
                      'byArtist': entity(t['artist']), 'inAlbum': {'@type': 'MusicAlbum', 'name': t['album']},
                      'url': url, 'subjectOf': {'@id': url + '#article'}}
+        if work_type(t)=='mix':
+            recording['@type']='MusicAlbum'
+            recording['albumProductionType']='https://schema.org/DJMixAlbum'
+            recording['description']='DJミックス作品。単独の楽曲ではなく、複数の録音をつないだ作品。'
+            recording.pop('inAlbum',None)
         # A reference upload is not an authoritative identity link. Omit sameAs.
         if not t.get('yearBasis'):
             recording['datePublished'] = str(t['year'])
@@ -100,7 +106,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
                       'song/' + t['id'], t.get('datePublished'), {'@id': url + '#recording'})
         art['citation'] = [s['url'] for s in t['sources']]
         add('#/song/' + t['id'], relative, t['title'] + ' / ' + t['artist'] + ' — Crate Diggin’',
-            t['deck'], image=image, graph=[art, recording], kind='article', image_alt=t['art']['alt'] if t['art'].get('image') else t['title'] + ' — ' + t['artist'] + '｜CRATE DIGGIN｜DJ Naoyaman')
+            (work_label(t)+'。' if work_type(t)=='mix' else '')+t['deck'], image=image, graph=[art, recording], kind='article', image_alt=t['art']['alt'] if t['art'].get('image') else t['title'] + ' — ' + t['artist'] + '｜CRATE DIGGIN｜DJ Naoyaman')
         published = t.get('datePublished')
         updated = art.get('dateModified')
         byline = '<p class="byline">選曲・編集・文責 <a href="' + base_path + '/editor.html">DJ Naoyaman</a>'
@@ -138,7 +144,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         selected = [t for t in tracks if t['artist'] == name]
         url = host + '/' + relative
         add('#/artist/' + encoded(name), relative, name + ' の楽曲一覧 — Crate Diggin’',
-            name + 'の掲載' + str(len(selected)) + '曲。楽曲解説、サンプリング元ネタと制作背景を出典からたどる。',
+            name + 'の掲載' + work_count(selected) + '。楽曲解説、サンプリング元ネタと制作背景を出典からたどる。',
             graph=[{'@type': 'CollectionPage', '@id': url + '#page', 'url': url, 'name': name + ' の楽曲一覧',
                     'about': entity(name), 'mainEntity': {'@type': 'ItemList', 'numberOfItems': len(selected),
                     'itemListElement': [{'@type': 'ListItem', 'position': i + 1, 'url': host + '/songs/' + t['id'] + '.html',
@@ -156,7 +162,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
                                         'feature/' + f['id'])], kind='article')
         pages['#/feature/' + f['id']]['jsonld']['@graph'][0]['citation'] = [s['url'] for s in f['editorial']['sources']]
     add('#/songs', 'songs/', '楽曲一覧 — Crate Diggin’',
-        str(len(tracks)) + '曲のHip Hopを聴きどころ・アーティスト・年代から探す。サンプル元と制作背景を出典付きで紹介。',
+        work_count(tracks) + 'のHip Hopを聴きどころ・アーティスト・年代から探す。サンプル元と制作背景を出典付きで紹介。',
         '<h1>THE RECORD CRATE</h1><p>聴きどころ・アーティスト・年代から曲を探す。</p>' + track_links(tracks))
     add('#/artists', 'artists/', 'アーティスト一覧 — Crate Diggin’', '掲載アーティスト別に楽曲と特集を探す。',
         '<h1>ARTISTS</h1><ul>' + ''.join('<li><a href="' + base_path + '/artists/' + slugs[n] + '.html">' +

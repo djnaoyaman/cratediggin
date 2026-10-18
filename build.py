@@ -3,7 +3,7 @@ import json, html, re, os, hashlib
 from urllib.parse import urlparse, quote
 from pathlib import Path
 from listening_shelves import load_shelves
-from catalog import review_state, sample_projection, feature_tracks as select_feature_tracks
+from catalog import review_state, sample_projection, feature_tracks as select_feature_tracks, work_type, work_label, work_count, validate_work
 from art_motion import motion_for_track
 from editorial_references import enrich_sections, markdown_reference
 ROOT=Path(__file__).parent
@@ -31,6 +31,7 @@ ids=set()
 for t in tracks:
     assert re.fullmatch(r'[a-z0-9-]+',t['id']) and t['id'] not in ids, 'Invalid or duplicate ID'
     ids.add(t['id'])
+    validate_work(t)
     assert isinstance(t['year'],int) and 1970<=t['year']<=2100
     assert t['youtube'].get('id') is None or re.fullmatch(r'[A-Za-z0-9_-]{11}',t['youtube']['id'])
     assert len(t['essay'])>=1 and t['sources'] and t['moods']
@@ -88,7 +89,7 @@ links=[]
 for t in tracks:
     p=DIST/'songs';p.mkdir(exist_ok=True)
     e=html.escape
-    body='<article><h1>'+e(t['title'])+'</h1><p>'+e(t['artist'])+'</p><p>'+e(t['deck'])+'</p><h2>'+e(t['essayTitle'])+'</h2>'+''.join('<p>'+e(x)+'</p>' for x in t['essay'])
+    body='<article><h1>'+e(t['title'])+'</h1>'+('<p class="work-format">'+e(work_label(t))+'</p>' if work_type(t)!='single' else '')+'<p>'+e(t['artist'])+'</p><p>'+e(t['deck'])+'</p><h2>'+e(t['essayTitle'])+'</h2>'+''.join('<p>'+e(x)+'</p>' for x in t['essay'])
     body+='<p class="review-summary">'+('深掘り記事あり' if t['deepdives'] else 'リスニングノート')+' · サンプル資料 '+str(len(t['samples']))+' 件'+(' · 確認中 '+e(' / '.join(t['review']['metadataPending'])) if t['review']['metadataPending'] else '')+'</p>'
     for section in t['deepdives']:
         body+='<section class="editorial-deepdive"><h2>'+e(section['heading'])+'</h2><p>'+e(section['text'])+'</p><p>参考資料：'+ ' / '.join('<a href="'+e(ref['url'],quote=True)+'">'+e(ref['label'])+'</a>' for ref in section['references'])+'</p></section>'
@@ -111,6 +112,7 @@ for t in tracks:
     page=page.replace('</head>','<script type="application/ld+json">'+json.dumps(ld,ensure_ascii=False)+'</script></head>')
     (p/(t['id']+'.html')).write_text(page, encoding='utf-8')
     md='# '+t['title']+'\n\n'+t['artist']+' / '+str(t['year'])+' / '+t['region']+'\n\n## '+t['essayTitle']+'\n\n'+'\n\n'.join(t['essay'])+'\n\n## 制作背景\n\n'+'\n\n'.join('### '+f['title']+'\n\n'+f['text'] for f in t['facts'])+'\n\n## サンプル元\n\n'+'\n\n'.join(s['artist']+' — '+s['title']+'\n\n'+s['role']+('\n\nhttps://www.youtube.com/watch?v='+s['youtube']['id'] if s.get('youtube') else '') for s in t['samples'])+'\n\n## 出典\n\n'+'\n'.join('- ['+s['label']+']('+s['url']+')' for s in t['sources'])+'\n'
+    if work_type(t)!='single':md+='\n## 作品区分\n\n'+work_label(t)+'\n'
     if t.get('editorSelectionMemory'):
         note=t['editorSelectionMemory'];md+='\n## '+note['heading']+'\n\n'+note['text']+'\n'
     for section in t.get('deepdives', []):
@@ -127,10 +129,10 @@ for artist in artist_names:
     slug=artist_slugs[artist]
     artist_tracks=[t for t in tracks if t['artist']==artist]
     url=HOST+'/artists/'+slug+'.html'
-    listing='<main id="view" tabindex="-1"><article><h1>'+html.escape(artist)+'</h1><p>Crate Diggin’ 収録曲 '+str(len(artist_tracks))+' 曲</p><ul>'+''.join('<li><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+html.escape(t['title'])+'</a> ('+str(t['year'])+')</li>' for t in artist_tracks)+'</ul><p><a href="'+BASE_PATH+'/">Crate Diggin’ トップへ</a></p></article></main>'
+    listing='<main id="view" tabindex="-1"><article><h1>'+html.escape(artist)+'</h1><p>Crate Diggin’ '+work_count(artist_tracks)+'</p><ul>'+''.join('<li><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+html.escape(t['title'])+'</a> ('+str(t['year'])+')</li>' for t in artist_tracks)+'</ul><p><a href="'+BASE_PATH+'/">Crate Diggin’ トップへ</a></p></article></main>'
     page=base.replace('<main id="view" tabindex="-1"></main>',listing)
     page=re.sub(r'<title>.*?</title>','<title>'+html.escape(artist)+' の楽曲一覧 — Crate Diggin’</title>',page)
-    page=re.sub(r'<meta name="description" content="[^"]*">','<meta name="description" content="'+html.escape(artist+' のHip Hop楽曲 '+str(len(artist_tracks))+' 曲を収録。楽曲解説、サンプリングの元ネタ、出典をDJ Naoyamanが紹介。',quote=True)+'">',page)
+    page=re.sub(r'<meta name="description" content="[^"]*">','<meta name="description" content="'+html.escape(artist+' の掲載'+work_count(artist_tracks)+'。楽曲解説、サンプリングの元ネタ、出典をDJ Naoyamanが紹介。',quote=True)+'">',page)
     page=re.sub(r'<link rel="canonical" href="[^"]*">','<link rel="canonical" href="'+url+'">',page)
     page=page.replace('<head>','<head><script>window.INITIAL_ROUTE='+json.dumps('#/artist/'+quote(artist,safe=''))+';</script>',1)
     page=page.replace('id="hero"','id="hero" hidden')
@@ -143,7 +145,7 @@ for artist in artist_names:
 (DIST/'llms.txt').write_text('# Crate Diggin’ — Hip Hop & Sampling Archive\n\n> DJ Naoyamanが選曲・編集するHip Hop、サンプリング、音楽文化の出典付きアーカイブ。\n\n## Start here\n- [ホーム]('+HOST+'/)\n- [サイトマップ]('+HOST+'/sitemap.xml)\n- [全楽曲のMarkdown]('+HOST+'/llms-full.txt)\n\n## Artists\n'+''.join('- ['+a+']('+HOST+'/artists/'+artist_slugs[a]+'.html)\n' for a in artist_names)+'\n## Songs\n'+''.join('- ['+t['artist']+' — '+t['title']+']('+HOST+'/songs/'+t['id']+'.md)\n' for t in tracks)+'\n## Editorial policy\n楽曲の歴史的事実と編集者の解釈は区別しています。各楽曲ページの出典を確認してください。YouTubeへのリンクは公式配信や参考音源の案内であり、音源の権利を主張しません。\n', encoding='utf-8')
 (DIST/'llms-full.txt').write_text('\n\n'.join((DIST/'songs'/(t['id']+'.md')).read_text(encoding='utf-8') for t in tracks), encoding='utf-8')
 (DIST/'404.html').write_text('<!doctype html><html lang="ja"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Crate Diggin’</title><link rel="stylesheet" href="'+BASE_PATH+'/style.css"><body><main style="padding:10vw"><h1 class="section-title">KEEP DIGGIN’.</h1><p>このページは見つかりませんでした。</p><a href="'+BASE_PATH+'/">クレートへ戻る</a></main></body></html>', encoding='utf-8')
-print(f'Generated {len(tracks)} songs, source candidates, sitemap and Markdown. Data validation passed.')
+print(f'Generated {len(tracks)} works ({work_count(tracks)}), source candidates, sitemap and Markdown. Data validation passed.')
 
 # Search, sharing and machine-readable views use the same editorial records.
 from brand_assets import icon, social_image, write_icons
@@ -182,7 +184,7 @@ for artist in artist_names:
     url=HOST+'/artists/'+slug+'.html'
     entries=[t for t in tracks if t['artist']==artist]
     data={'@context':'https://schema.org','@graph':[{'@type':'CollectionPage','name':artist+' — Crate Diggin’ 収録曲','url':url,'inLanguage':'ja','mainEntity':{'@type':'ItemList','numberOfItems':len(entries),'itemListElement':[{'@type':'ListItem','position':i+1,'name':t['title'],'url':HOST+'/songs/'+t['id']+'.html'} for i,t in enumerate(entries)]}},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'Crate Diggin’','item':HOST+'/'},{'@type':'ListItem','position':2,'name':artist,'item':url}]}]}
-    enhance(DIST/'artists'/(slug+'.html'),artist+' の楽曲一覧 — Crate Diggin’',artist+' の収録曲 '+str(len(entries))+' 曲。楽曲解説、サンプリング元ネタと出典を紹介。',url,HOST+'/og-image.png',data)
+    enhance(DIST/'artists'/(slug+'.html'),artist+' の楽曲一覧 — Crate Diggin’',artist+' の掲載'+work_count(entries)+'。楽曲解説、サンプリング元ネタと出典を紹介。',url,HOST+'/og-image.png',data)
 for t in tracks:
     social_image(t).save(DIST/'og'/(t['id']+'.png'))
     url=HOST+'/songs/'+t['id']+'.html'
@@ -216,7 +218,7 @@ for f in features:
     if f.get('noteArticle'):
         note=f['noteArticle']
         body+='<section class="producer-note"><p class="eyebrow">MY LISTENING NOTES</p><h2>noteで読む</h2><h3>'+esc(note['title'])+'</h3><p>'+esc(note['introduction'])+'</p><a href="'+esc(note['url'],quote=True)+'" target="_blank" rel="noopener noreferrer">noteで続きを読む ↗</a></section>'
-    body+='<h2>収録曲 '+str(len(selected))+' 曲</h2><ul>'+''.join('<li><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+esc(t['artist']+' — '+t['title'])+'</a></li>' for t in selected)+'</ul>'
+    body+='<h2>収録作品 '+work_count(selected)+'</h2><ul>'+''.join('<li><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+esc(t['artist']+' — '+t['title'])+'</a></li>' for t in selected)+'</ul>'
     page=re.sub(r'<main id="view" tabindex="-1">.*?</main>','<main id="view" tabindex="-1">'+body+'</main>',base,flags=re.S)
     page=page.replace('<head>','<head><script>window.INITIAL_ROUTE='+json.dumps('#/feature/'+f['id'])+';</script>',1)
     page=re.sub(r'<link rel="canonical" href="[^"]*">','<link rel="canonical" href="'+HOST+'/features/'+f['id']+'.html">',page)

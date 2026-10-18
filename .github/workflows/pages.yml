@@ -60,6 +60,8 @@ jobs:
         run: |
           python scripts/audit_catalog.py
           python scripts/verify_discovery.py
+          python scripts/verify_work_types.py
+          python scripts/verify_mix_works.py
           python scripts/verify_graffiti_og.py
           python scripts/verify_url_migration.py
           python scripts/verify_profile_notes.py
@@ -72,6 +74,7 @@ jobs:
           python scripts/verify_section_reference_output.py .
           python scripts/verify_social_sharing_static.py
           python scripts/test_revision_dates.py
+          node scripts/verify_work_labels.cjs
           node scripts/verify_inline_player.cjs
           node scripts/verify_player_readiness.cjs
           node scripts/verify_listening_shelves.js
@@ -156,6 +159,7 @@ jobs:
           node scripts/verify_shadow_feature_browser.cjs
           node scripts/verify_common_celebrate_browser.cjs
           node scripts/verify_make_her_say_browser.cjs
+          node scripts/verify_mix_works_browser.cjs
           node scripts/verify_deep_rooted_browser.cjs
           node scripts/verify_requested_next_browser.cjs
           node scripts/verify_requested_following_browser.cjs
@@ -188,6 +192,7 @@ jobs:
             /tmp/inline-bandcamp-*.png
             /tmp/section-references-*.png
             /tmp/art-crate-*.png
+            /tmp/dj-shadow-cut-chemist-*.png
             /tmp/shadow-personal-*.png
             /tmp/shadow-photos-*.png
             /tmp/common-celebrate-*.png
