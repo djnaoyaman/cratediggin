@@ -11,7 +11,7 @@ const assert=require('node:assert/strict');
    await context.route('https://www.googletagmanager.com/**',r=>r.abort());
    await context.route('https://www.youtube.com/iframe_api',r=>r.abort());
    await page.goto('http://127.0.0.1:8765/cratediggin/tracks/mass-appeal.html');
-   await page.locator('#art-open').click();
+   await page.locator('#article-art').click();
    await page.waitForFunction(()=>{const i=document.querySelector('#artwork-image');return i.complete&&i.naturalWidth>0;});
    assert.equal(await page.locator('#artwork-image').getAttribute('alt'),'Mass Appeal — Gang Starr｜CRATE DIGGIN｜DJ Naoyaman');
    await page.locator('#art-view.image-art').waitFor({state:'visible'});
@@ -35,7 +35,7 @@ const assert=require('node:assert/strict');
   const moving=await animated.newPage(),motionErrors=[];moving.on('pageerror',e=>motionErrors.push(e.message));
   const ink=()=>moving.evaluate(()=>{const c=document.querySelector('#wall'),d=c.getContext('2d').getImageData(0,0,c.width,c.height).data;let n=0;for(let i=0;i<d.length;i+=1013)n=(Math.imul(n,31)+d[i])>>>0;return n});
   for(const [id,mode] of [['93-til-infinity','drift'],['mass-appeal','groove'],['bucktown','stomp'],['dj-shadow-the-number-song','burst']]){
-   await moving.goto('http://127.0.0.1:8765/cratediggin/tracks/'+id+'.html');await moving.locator('#art-open').click();
+   await moving.goto('http://127.0.0.1:8765/cratediggin/tracks/'+id+'.html');await moving.locator('#article-art').click();
    await moving.locator('#art-view[data-motion="'+mode+'"]').waitFor({state:'visible'});
    const duration=await moving.evaluate(id=>window.TRACKS.find(t=>t.id===id).art.motion.duration,id);
    if(await moving.locator('#artwork-image').isVisible())await moving.waitForFunction(()=>{const i=document.querySelector('#artwork-image');return i.complete&&i.naturalWidth>0});
