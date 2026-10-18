@@ -193,3 +193,15 @@ body[data-player-presentation="idle"] .layout{grid-template-columns:minmax(0,1fr
 body[data-player-presentation="idle"] #listening-player{display:none}
 body[data-player-presentation="idle"] #player-reveal:not([hidden]){display:block}
 #listening-player{scroll-margin-top:100px}
+
+/* A compact record-sleeve tab opens controls, without starting audio. */
+#player-reveal{grid-template-columns:40px minmax(0,1fr) 16px;align-items:center;gap:12px;min-height:64px;width:max-content;max-width:100%;padding:10px 12px;justify-self:start;border:1px solid var(--ink);border-radius:0;background:#eee5d3;color:var(--ink);box-shadow:3px 3px 0 var(--ink);text-align:left}
+body[data-player-presentation="idle"] #player-reveal:not([hidden]){display:inline-grid}
+#player-reveal .reveal-record,#player-reveal .reveal-chevron{display:block;flex:none}
+#player-reveal .reveal-copy{display:grid;gap:3px}
+#player-reveal strong{font-family:var(--display);font-size:22px;font-weight:800;line-height:1;letter-spacing:.04em}
+#player-reveal .reveal-copy>span{font-size:11px;line-height:1.5}
+#player-reveal:focus-visible{outline:3px solid var(--blue);outline-offset:4px}
+body[data-player-presentation="idle"] .layout{row-gap:20px}
+@media(hover:hover){#player-reveal:hover{border-color:var(--blue)}#player-reveal:hover strong{color:var(--blue)}}
+@media(max-width:600px){body[data-player-presentation="idle"] .layout{row-gap:16px}}
