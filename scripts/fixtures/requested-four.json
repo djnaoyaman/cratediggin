@@ -1,0 +1,51 @@
+{
+  "baseCount": 489,
+  "ids": [
+    "dr-octagon-bear-witness",
+    "public-enemy-contract-on-the-world-love-jam",
+    "pete-rock-tha-game",
+    "kanye-west-through-the-wire"
+  ],
+  "art": {
+    "dr-octagon-bear-witness": {
+      "sha256": "b0d25431b2154a6ae4f893fc38b8518ac3b0dbbd3551b60e302b3bbbf3759670",
+      "bytes": 1592504,
+      "size": [
+        1774,
+        887
+      ],
+      "rgbaExactToGeneratedPNG": true
+    },
+    "public-enemy-contract-on-the-world-love-jam": {
+      "sha256": "0f0351b5c609ae825c11287a0ee4ba1a860a475364b5600ebb61156e887e7ff6",
+      "bytes": 1369784,
+      "size": [
+        1789,
+        879
+      ],
+      "rgbaExactToGeneratedPNG": true
+    },
+    "pete-rock-tha-game": {
+      "sha256": "56a5482601776f4033b02e160ea857803dcdffdca47db04261074228433d37e2",
+      "bytes": 1391638,
+      "size": [
+        1774,
+        887
+      ],
+      "rgbaExactToGeneratedPNG": true
+    },
+    "kanye-west-through-the-wire": {
+      "sha256": "0ca432765c5a03c8df512d6a483764a3f94d70f31f8476c1b145bf0c2e26c2ac",
+      "bytes": 1295216,
+      "size": [
+        1774,
+        887
+      ],
+      "rgbaExactToGeneratedPNG": true
+    }
+  },
+  "held": [
+    "az-the-come-up",
+    "kmd-what-a-nigga-know"
+  ]
+}

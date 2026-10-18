@@ -1020,5 +1020,19 @@
     "assets/graffiti/nine-whutcha-want-alpha.webp": "59fbc74d53bf28ec629fa8b0ba71636707ba8efa2627b331ddb571577fe731aa",
     "assets/graffiti/erick-sermon-focus-alpha.webp": "e2432c4eb77d88eded728fb5c154724e2ff15e1894cc936047b303b64ebeef29",
     "assets/graffiti/super-lover-cee-casanova-rud-this-dub-s-for-you-alpha.webp": "df527e064673a5d8a50433ab26b8df3d4f5d25c87cada41b6c61fed39976f598"
+  },
+  "appendOnlyFiles": {
+    "editorial_deepdives.json": {
+      "count": 149,
+      "arrayKey": null
+    },
+    "graffiti_artwork.json": {
+      "count": 489,
+      "arrayKey": "tracks"
+    },
+    "artist_entities.json": {
+      "count": 201,
+      "objectPrefix": true
+    }
   }
 }
