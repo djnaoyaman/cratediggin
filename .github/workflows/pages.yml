@@ -9,7 +9,7 @@ on:
 permissions:
   contents: read
 concurrency:
-  group: github-pages
+  group: ${{ github.event_name == 'pull_request' && format('pages-pr-validation-{0}-{1}', github.run_id, github.run_attempt) || 'github-pages' }}
   cancel-in-progress: false
 jobs:
   validate:
@@ -192,6 +192,20 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/configure-pages@v5
+      - name: Reject stale or non-main deployment
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ "$GITHUB_REF" != "refs/heads/main" || ! "$GITHUB_SHA" =~ ^[0-9a-f]{40}$ ]]; then
+            echo "::error::Only the current main commit may deploy."
+            exit 1
+          fi
+          remote_line="$(timeout 60 git ls-remote --exit-code "https://github.com/${GITHUB_REPOSITORY}.git" refs/heads/main)"
+          read -r remote_sha remote_ref extra <<< "$remote_line"
+          if [[ "$remote_ref" != "refs/heads/main" || -n "${extra:-}" || "$remote_sha" != "$GITHUB_SHA" || "$remote_line" == *$'\n'* ]]; then
+            echo "::error::The deployment commit is not the current main commit."
+            exit 1
+          fi
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
