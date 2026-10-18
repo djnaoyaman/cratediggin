@@ -23,7 +23,7 @@ for (const [id, required] of Object.entries(expected)) {
   assert(selected.every((t, i) => i === 0 || (Number.isInteger(selected[i-1].year)?selected[i-1].year:9999) <= (Number.isInteger(t.year)?t.year:9999)), id + ': chronological order');
   for (const tid of required) {
     const track = selected.find(t => t.id === tid);
-    assert(track && track.youtube.id, id + ': missing song/audio ' + tid);
+    assert(track && context.hasPlayableSource(track), id + ': missing song/audio ' + tid);
     assert(fs.existsSync(path.join(root, 'dist/tracks', tid + '.html')), 'Missing generated page ' + tid);
   }
   console.log(id + ': ' + selected.length + ' tracks; requested songs and audio present');
@@ -32,7 +32,7 @@ const dilla = context.selectFeature(context.catalogFeatures.find(f => f.id === '
 assert(!dilla.some(t => t.id === 'janet-jackson-got-til-its-gone'), 'Original Janet production must not be attributed to Dilla');
 assert.deepEqual(songs.find(t => t.id === 'jaylib-the-red').producers, ['J Dilla']);
 assert.equal(songs.find(t => t.id === 'mos-def-auditorium').youtube.official, false);
-assert(songs.length >= 262 && songs.every(t => t.youtube.id), 'Catalog has missing audio');
+assert(songs.length >= 262 && songs.every(t => context.hasPlayableSource(t)), 'Catalog has missing audio');
 console.log('Credits, reference-audio labeling and all catalog audio IDs verified');
 
 assert.equal(songs.find(t => t.id === 'dj-shadow-organ-donor-extended-overhaul').youtube.id, 'C2MmSXrfK9s');

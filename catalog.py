@@ -41,19 +41,27 @@ def work_type(t):
     return t.get('workType', 'single')
 
 def work_label(t):
-    return {'single': '楽曲', 'mix': 'DJミックス作品', 'live_video': 'ライブ映像（参考投稿）'}[work_type(t)]
+    return {'single': '楽曲', 'mix': 'DJミックス作品', 'live_video': 'ライブ映像（参考投稿）', 'album':'アルバム全体'}[work_type(t)]
 
 def work_count(tracks):
     singles=sum(work_type(t)=='single' for t in tracks)
     mixes=sum(work_type(t)=='mix' for t in tracks)
     videos=sum(work_type(t)=='live_video' for t in tracks)
-    return str(singles)+'曲' + ('・'+str(mixes)+'ミックス作品' if mixes else '') + ('・'+str(videos)+'ライブ映像' if videos else '')
+    albums=sum(work_type(t)=='album' for t in tracks)
+    return str(singles)+'曲' + ('・'+str(mixes)+'ミックス作品' if mixes else '') + ('・'+str(videos)+'ライブ映像' if videos else '') + ('・'+str(albums)+'アルバム' if albums else '')
 
 def validate_work(t):
-    assert work_type(t) in {'single', 'mix', 'live_video'}, 'Unsupported work type'
-    y=t.get('youtube', {})
-    assert y.get('sourceType', 'video')=='video', 'Playlist playback is not implemented in this release'
-    assert not y.get('playlistId'), 'Playlist must not be disguised as a video'
-    if y.get('id'):
-        assert re.fullmatch(r'[A-Za-z0-9_-]{11}',y['id'])
-        assert valid_video_url(y), 'Video URL does not match its identity'
+    assert work_type(t) in {'single', 'mix', 'live_video', 'album'}, 'Unsupported work type'
+    y=t.get('youtube', {});kind=y.get('sourceType','video')
+    assert kind in {'video','playlist'}, 'Unsupported source type'
+    if kind=='playlist':
+        assert work_type(t)=='album' and not y.get('id'), 'Album playlist cannot disguise a video'
+        assert isinstance(y.get('playlistId'),str) and re.fullmatch(r'[A-Za-z0-9_-]+',y['playlistId']), 'Invalid playlist identity'
+        u=urlparse(y.get('url',''));q=parse_qs(u.query)
+        assert u.scheme=='https' and u.hostname in {'www.youtube.com','youtube.com'} and u.path=='/playlist' and q.get('list')==[y['playlistId']] and 'v' not in q, 'Playlist URL mismatch'
+        assert not any(s.get('youtube') for s in t.get('samples',[])), 'Album sample playback is not implemented'
+    else:
+        assert work_type(t)!='album' and not y.get('playlistId'), 'Album requires native playlist source'
+        if y.get('id'):
+            assert re.fullmatch(r'[A-Za-z0-9_-]{11}',y['id'])
+            assert valid_video_url(y), 'Video URL does not match its identity'

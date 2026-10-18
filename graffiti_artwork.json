@@ -9579,6 +9579,27 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "j-dilla-donuts",
+      "title": "Donuts",
+      "artist": "J Dilla",
+      "album": "Donuts",
+      "palette": [
+        "#171212",
+        "#eee5cb",
+        "#6e2932",
+        "#8c6445",
+        "#c5a578"
+      ],
+      "paletteSource": "Donuts（スマイル・カバー）",
+      "paletteNote": "公式ストアのスマイル・カバーを目視した近似配色。黒、クリーム、落ち着いたバーガンディ、茶とタン。",
+      "coverReference": "https://www.stonesthrow.com/store/donuts/",
+      "status": "ready",
+      "image": "assets/graffiti/j-dilla-donuts-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

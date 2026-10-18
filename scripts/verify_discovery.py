@@ -59,7 +59,7 @@ for route, meta in registry.items():
         tid = route.split('/')[-1]
         original = source_by_id[tid]
         assert article.get('datePublished') == original.get('datePublished'), 'Do not invent publication dates'
-        expected_type = {'mix':'MusicAlbum','live_video':'VideoObject'}.get(original.get('workType'),'MusicRecording')
+        expected_type = {'mix':'MusicAlbum','album':'MusicAlbum','live_video':'VideoObject'}.get(original.get('workType'),'MusicRecording')
         recording = next(x for x in graph if x['@type'] == expected_type)
         if original.get('workType') == 'mix':
             assert recording['albumProductionType'] == 'https://schema.org/DJMixAlbum'

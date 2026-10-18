@@ -99,6 +99,13 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
             recording['albumProductionType']='https://schema.org/DJMixAlbum'
             recording['description']='DJミックス作品。単独の楽曲ではなく、複数の録音をつないだ作品。'
             recording.pop('inAlbum',None)
+        if work_type(t)=='album':
+            recording['@type']='MusicAlbum'
+            recording['albumProductionType']='https://schema.org/StudioAlbum'
+            recording['albumReleaseType']='https://schema.org/AlbumRelease'
+            recording['numTracks']=t['trackCount']
+            recording['description']='公式プレイリストで聴くアルバム全体。'
+            recording.pop('inAlbum',None)
         if work_type(t)=='live_video':
             recording={'@type':'VideoObject','@id':url+'#recording','name':t['title'],
                        'description':t['deck'],'url':url,'subjectOf':{'@id':url+'#article'},

@@ -91,6 +91,7 @@ for t in tracks:
     e=html.escape
     body='<article><h1>'+e(t['title'])+'</h1>'+('<p class="work-format">'+e(work_label(t))+'</p>' if work_type(t)!='single' else '')+'<p>'+e(t['artist'])+'</p><p>'+e(t['deck'])+'</p><h2>'+e(t['essayTitle'])+'</h2>'+''.join('<p>'+e(x)+'</p>' for x in t['essay'])
     if work_type(t)=='live_video': body+='<p class="work-year">'+e(year_label(t))+'</p>'
+    if work_type(t)=='album': body+='<section class="album-sequence"><h2>ALBUM SEQUENCE</h2><ol>'+''.join('<li>'+e(x['title'])+'</li>' for x in t['playlistSequence'])+'</ol><p>個別の記事：'+ ' / '.join('<a href="'+BASE_PATH+'/tracks/'+id+'.html">'+e(next(x['title'] for x in tracks if x['id']==id))+'</a>' for id in t.get('relatedTrackIds',[]))+'</p></section>'
     body+='<p class="review-summary">'+('深掘り記事あり' if t['deepdives'] else 'リスニングノート')+' · サンプル資料 '+str(len(t['samples']))+' 件'+(' · 確認中 '+e(' / '.join(t['review']['metadataPending'])) if t['review']['metadataPending'] else '')+'</p>'
     for section in t['deepdives']:
         body+='<section class="editorial-deepdive"><h2>'+e(section['heading'])+'</h2><p>'+e(section['text'])+'</p><p>参考資料：'+ ' / '.join('<a href="'+e(ref['url'],quote=True)+'">'+e(ref['label'])+'</a>' for ref in section['references'])+'</p></section>'
@@ -113,6 +114,7 @@ for t in tracks:
     page=page.replace('</head>','<script type="application/ld+json">'+json.dumps(ld,ensure_ascii=False)+'</script></head>')
     (p/(t['id']+'.html')).write_text(page, encoding='utf-8')
     md='# '+t['title']+'\n\n'+t['artist']+' / '+year_label(t)+' / '+t['region']+'\n\n## '+t['essayTitle']+'\n\n'+'\n\n'.join(t['essay'])+'\n\n## 制作背景\n\n'+'\n\n'.join('### '+f['title']+'\n\n'+f['text'] for f in t['facts'])+'\n\n## サンプル元\n\n'+'\n\n'.join(s['artist']+' — '+s['title']+'\n\n'+s['role']+('\n\nhttps://www.youtube.com/watch?v='+s['youtube']['id'] if s.get('youtube') else '') for s in t['samples'])+'\n\n## 出典\n\n'+'\n'.join('- ['+s['label']+']('+s['url']+')' for s in t['sources'])+'\n'
+    if work_type(t)=='album':md+='\n## ALBUM SEQUENCE\n\n'+'\n'.join(str(x['index'])+'. '+x['title'] for x in t['playlistSequence'])+'\n'
     if work_type(t)!='single':md+='\n## 作品区分\n\n'+work_label(t)+'\n'
     if t.get('editorSelectionMemory'):
         note=t['editorSelectionMemory'];md+='\n## '+note['heading']+'\n\n'+note['text']+'\n'
