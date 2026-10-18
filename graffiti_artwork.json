@@ -9427,6 +9427,158 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "dj-shadow-mutual-slump",
+      "title": "Mutual Slump",
+      "artist": "DJ Shadow",
+      "album": "Endtroducing.....",
+      "palette": [
+        "#455c4b",
+        "#e2e0dc",
+        "#7d7b5f",
+        "#3c474b",
+        "#906838",
+        "#3b3c34"
+      ],
+      "paletteSource": "Endtroducing.....（公式ストア2006年LP掲載の写真ジャケット）",
+      "paletteNote": "公式画像を目視し、緑の服、クリームの柱、オリーブ色の床、デニムの青灰色、盤袋の茶、暗い緑から部分領域のRGB中央値を参照した近似配色。2006年LPの画像であり1996年初版のスキャンとは断定しない。",
+      "coverReference": "https://djshadow.com/products/dj-shadow-endtroducing-lp",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-mutual-slump-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "dj-shadow-napalm-brain-scatter-brain",
+      "title": "Napalm Brain / Scatter Brain (Medley)",
+      "artist": "DJ Shadow",
+      "album": "Endtroducing.....",
+      "palette": [
+        "#455c4b",
+        "#e2e0dc",
+        "#7d7b5f",
+        "#3c474b",
+        "#906838",
+        "#3b3c34"
+      ],
+      "paletteSource": "Endtroducing.....（公式ストア2006年LP掲載の写真ジャケット）",
+      "paletteNote": "公式画像を目視し、緑の服、クリームの柱、オリーブ色の床、デニムの青灰色、盤袋の茶、暗い緑から部分領域のRGB中央値を参照した近似配色。2006年LPの画像であり1996年初版のスキャンとは断定しない。",
+      "coverReference": "https://djshadow.com/products/dj-shadow-endtroducing-lp",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-napalm-brain-scatter-brain-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "dj-shadow-changeling",
+      "title": "Changeling",
+      "artist": "DJ Shadow",
+      "album": "Endtroducing.....",
+      "palette": [
+        "#455c4b",
+        "#e2e0dc",
+        "#7d7b5f",
+        "#3c474b",
+        "#906838",
+        "#3b3c34"
+      ],
+      "paletteSource": "Endtroducing.....（公式ストア2006年LP掲載の写真ジャケット）",
+      "paletteNote": "公式画像を目視し、緑の服、クリームの柱、オリーブ色の床、デニムの青灰色、盤袋の茶、暗い緑から部分領域のRGB中央値を参照した近似配色。2006年LPの画像であり1996年初版のスキャンとは断定しない。",
+      "coverReference": "https://djshadow.com/products/dj-shadow-endtroducing-lp",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-changeling-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "dj-shadow-monosylabik",
+      "title": "Monosylabik, Pt. 1 & 2",
+      "artist": "DJ Shadow",
+      "album": "The Private Press",
+      "palette": [
+        "#ffffff",
+        "#f4c4c7",
+        "#bab18e",
+        "#ef7033",
+        "#d8f1f7",
+        "#1b1f1f"
+      ],
+      "paletteSource": "The Private Press（公式ストア2LP掲載ジャケット）",
+      "paletteNote": "公式画像を目視し、白い地、サーモンピンクの手、カーキの手、橙のインク、淡い青の光、暗い線画から部分領域のRGB中央値を参照した近似配色。正確な再発年は掲載情報にない。",
+      "coverReference": "https://djshadow.com/products/the-private-press-vinyl-2lp",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-monosylabik-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "dj-shadow-you-cant-go-home-again",
+      "title": "You Can't Go Home Again",
+      "artist": "DJ Shadow",
+      "album": "The Private Press",
+      "palette": [
+        "#ffffff",
+        "#f4c4c7",
+        "#bab18e",
+        "#ef7033",
+        "#d8f1f7",
+        "#1b1f1f"
+      ],
+      "paletteSource": "The Private Press（公式ストア2LP掲載ジャケット）",
+      "paletteNote": "公式画像を目視し、白い地、サーモンピンクの手、カーキの手、橙のインク、淡い青の光、暗い線画から部分領域のRGB中央値を参照した近似配色。正確な再発年は掲載情報にない。",
+      "coverReference": "https://djshadow.com/products/the-private-press-vinyl-2lp",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-you-cant-go-home-again-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "dj-shadow-cut-chemist-freeze-live-video",
+      "title": "FReeZe",
+      "artist": "DJ Shadow & Cut Chemist",
+      "album": "FReeZe（DVD映像）",
+      "palette": [
+        "#244834",
+        "#a83929",
+        "#bc912e",
+        "#f0e3bf",
+        "#211b16"
+      ],
+      "paletteSource": "FReeZe DVDパッケージ（撮影担当者Aaron Sonnenberg掲載）",
+      "paletteNote": "実物DVDケースの掲載写真を目視した近似配色。深緑、赤、金、クリーム、暗い茶。Brainfreeze CDの配色ではありません。",
+      "coverReference": "https://aaronsonnenberg.com/blog/freeze-2006-dvd-release-featuring-dj-shadow-and-cut-chemist/",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-cut-chemist-freeze-live-video-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "dj-shadow-cut-chemist-product-placement-live-video",
+      "title": "Product Placement (Live Video)",
+      "artist": "DJ Shadow & Cut Chemist",
+      "album": "収録版未確認",
+      "palette": [
+        "#65201d",
+        "#d74b25",
+        "#f1e9cc",
+        "#e8cd78",
+        "#171313"
+      ],
+      "paletteSource": "Product Placement（2001年原作ミックス）のジャケット・関連作品の配色",
+      "paletteNote": "原作ミックスのジャケット配色を参照。掲載映像版のパッケージ同定ではない。実画像を目視した、深い赤茶、赤橙、クリーム、淡い黄、黒の近似配色。",
+      "coverReference": "https://pitchfork.com/reviews/albums/2372-product-placement/",
+      "status": "ready",
+      "image": "assets/graffiti/dj-shadow-cut-chemist-product-placement-live-video-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

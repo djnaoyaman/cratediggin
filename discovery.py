@@ -6,7 +6,7 @@ import re
 from pathlib import Path
 from urllib.parse import quote, urlparse
 from revision_dates import revision_dates
-from catalog import work_type, work_label, work_count
+from catalog import work_type, work_label, work_count, year_label
 
 
 def encoded(value):
@@ -99,14 +99,20 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
             recording['albumProductionType']='https://schema.org/DJMixAlbum'
             recording['description']='DJミックス作品。単独の楽曲ではなく、複数の録音をつないだ作品。'
             recording.pop('inAlbum',None)
+        if work_type(t)=='live_video':
+            recording={'@type':'VideoObject','@id':url+'#recording','name':t['title'],
+                       'description':t['deck'],'url':url,'subjectOf':{'@id':url+'#article'},
+                       'embedUrl':'https://www.youtube.com/embed/'+t['youtube']['id']}
+            for key in ('uploadDate','thumbnailUrl','duration'):
+                if t['youtube'].get(key): recording[key]=t['youtube'][key]
         # A reference upload is not an authoritative identity link. Omit sameAs.
-        if not t.get('yearBasis'):
+        if t.get('year') is not None and not t.get('yearBasis'):
             recording['datePublished'] = str(t['year'])
         art = article(url, t['title'] + ' — ' + t['artist'], t['deck'], image,
                       'song/' + t['id'], t.get('datePublished'), {'@id': url + '#recording'})
         art['citation'] = [s['url'] for s in t['sources']]
         add('#/song/' + t['id'], relative, t['title'] + ' / ' + t['artist'] + ' — Crate Diggin’',
-            (work_label(t)+'。' if work_type(t)=='mix' else '')+t['deck'], image=image, graph=[art, recording], kind='article', image_alt=t['art']['alt'] if t['art'].get('image') else t['title'] + ' — ' + t['artist'] + '｜CRATE DIGGIN｜DJ Naoyaman')
+            (work_label(t)+'。' if work_type(t)!='single' else '')+t['deck'], image=image, graph=[art, recording], kind='article', image_alt=t['art']['alt'] if t['art'].get('image') else t['title'] + ' — ' + t['artist'] + '｜CRATE DIGGIN｜DJ Naoyaman')
         published = t.get('datePublished')
         updated = art.get('dateModified')
         byline = '<p class="byline">選曲・編集・文責 <a href="' + base_path + '/editor.html">DJ Naoyaman</a>'
@@ -191,7 +197,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
             '<h1>' + esc(g['title']) + '</h1><p>' + esc(g['description']) + '</p>' + track_links(selected))
     add('#/timeline', 'timeline.html', 'Hip Hopの年表 — Crate Diggin’', '掲載曲を発表年と街からたどるHip Hopの年表。',
         '<h1>THE TIMELINE</h1>' + ''.join('<section><h2>' + str(y) + '年</h2>' +
-        track_links([t for t in tracks if t['year'] == y]) + '</section>' for y in sorted({t['year'] for t in tracks})))
+        track_links([t for t in tracks if t['year'] == y]) + '</section>' for y in sorted({t['year'] for t in tracks if t['year'] is not None})) + ('<section><h2>発表年未確認</h2>'+track_links([t for t in tracks if t['year'] is None])+'</section>' if any(t['year'] is None for t in tracks) else ''))
     add('#/about', 'about.html', '編集方針 — Crate Diggin’', '事実と編者の私見を分け、参考資料を示すCrate Diggin’の編集方針。',
         '<h1>編集方針</h1><p>選曲・編集・文責 DJ Naoyaman。</p><p>楽曲の歴史的事実と編者の聴き方を区別し、参考資料を示します。'
         '未確認事項は推測で埋めず、確認を継続する項目として明示します。YouTubeの投稿やIDの存在は、録音の同一性や再生可能性の保証ではありません。</p>'

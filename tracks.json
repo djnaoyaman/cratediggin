@@ -54216,5 +54216,1084 @@
       "paletteNote": "公式ストア掲載On TourライブDVD+CDの実ジャケットを別途目視照合した記録に基づく近似配色。マゼンタ、クリーム、橙、焦げ茶、黒、青。2001年原作のジャケットではなく、単体CDのスキャンとも断定しない。",
       "letteringNote": "ON TOURの版名を残す独自のグラフィティ文字。元ジャケットの人物、ロゴ、バッジは複製しない。"
     }
+  },
+  {
+    "id": "dj-shadow-mutual-slump",
+    "title": "Mutual Slump",
+    "artist": "DJ Shadow",
+    "year": 1996,
+    "yearBasis": "Endtroducing.....のオリジナル発表年1996年。配信の1月1日表記は発売日の証拠に用いない。",
+    "region": "San Francisco Bay Area",
+    "scene": "Davis / San Francisco Bay Area",
+    "category": "Instrumental Hip Hop",
+    "moods": [
+      "深夜",
+      "内省"
+    ],
+    "album": "Endtroducing.....",
+    "label": "Mo’ Wax / A&M（当該配信の権利表記）",
+    "producer": "DJ Shadow",
+    "producers": [
+      "DJ Shadow"
+    ],
+    "members": "DJ Shadow",
+    "deck": "耳なじみのある断片と、まだレコードになっていない声が出会う。",
+    "essayTitle": "有名な音を、知らない場所へ",
+    "essay": [
+      "2016年のSong Exploderで、ShadowはBjörk「Possibly Maybe」をあえて分かりやすい素材として選んだと話す。珍しい盤を知る者だけの音楽に閉じないための選択だった。音程を下げた断片には、元の曲とは違う重さが宿る。",
+      "ドラムの出発点はPugh Rogefeldt「Love, Love, Love」。Shadowは複数のキックとスネアを切り出して交替させた。ループの継ぎ目を隠すことより、一打ごとの違いを残したまま新しい流れを作る。その手つきに耳を向けたい。",
+      "語りの主は当時の恋人Lisa。本人の説明では、自由に話してもらった約20分の録音から、曲に合う部分を抜き出した。古い映画の台詞のように聞こえる声にも、その場で過ごした時間がある。レコードの記憶に、身近な人の記憶が混ざっている。"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ],
+    "facts": [],
+    "samples": [
+      {
+        "artist": "Björk",
+        "title": "Possibly Maybe",
+        "role": "本人が素材として明言。",
+        "main": true,
+        "sources": [
+          1
+        ],
+        "research": true
+      },
+      {
+        "artist": "Pugh Rogefeldt",
+        "title": "Love, Love, Love",
+        "role": "本人がドラムの素材として明言。",
+        "sources": [
+          1
+        ],
+        "research": true
+      }
+    ],
+    "sampleStatus": "確認できた素材を記載。全素材の網羅・原盤全クレジットの確認を意味しません。",
+    "listening": [],
+    "context": "耳なじみのある断片と、まだレコードになっていない声が出会う。",
+    "sources": [
+      {
+        "label": "YouTube：djshadow公式アーティストチャンネル／PIAS提供アルバム音源",
+        "url": "https://www.youtube.com/watch?v=-6ycy0HjF58",
+        "kind": "公式配信メタデータ",
+        "verified": "2026-10-18",
+        "scope": "タイトル・アルバム・権利表示・長さ・日本対象地域・埋込宣言。実再生は未検証。"
+      },
+      {
+        "label": "Song Exploder：DJ Shadow本人による「Mutual Slump」解説（2016年12月8日）",
+        "url": "https://songexploder.net/transcripts/dj-shadow-transcript.pdf",
+        "kind": "本人インタビュー",
+        "speaker": "DJ Shadow",
+        "publishedDate": "2016-12-08",
+        "scope": "Mutual Slump。店舗の話はアルバム制作全体。",
+        "dateSource": "https://songexploder.net/dj-shadow"
+      },
+      {
+        "label": "Wax Poetics：David Maによる本人取材・当事者提供写真（2020年12月8日掲載）",
+        "url": "https://staging--wax-poetics.netlify.app/article/dj-shadow-in-the-beginning/",
+        "kind": "本人インタビュー／当事者提供写真",
+        "speaker": "DJ Shadow。写真説明はWax Poetics編集部。",
+        "publishedDate": "2020-12-08",
+        "scope": "回顧取材。Napalm Brainの写真説明とアルバム・ジャケット撮影の説明を区別。",
+        "canonicalUrl": "https://www.waxpoetics.com/article/dj-shadow-in-the-beginning/",
+        "accessNote": "本文を読めた出版社の旧公開サイト。現在のcanonical URLは取得エラー。"
+      }
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム",
+      "語り",
+      "サックス"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "curationNote": "本人・制作関係者の記録と同時代の批評から、既存の代表曲だけでは見えにくい技法や受容を補う選曲。",
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "editorialStatus": "『Endtroducing.....』収録の公式アルバム音源を掲載。実再生は未確認です。",
+    "noteReviewedAt": "2026-10-18",
+    "addedOrder": 475,
+    "versionBasis": "PIAS提供のdjshadow公式配信「Mutual Slump」（4分1秒）。『Endtroducing.....』（1996年）収録のアルバム音源としてメタデータを照合。Daedelus remixやAlternate Take Without Overdubsではない。",
+    "mix": "DJ Shadow",
+    "youtube": {
+      "id": "-6ycy0HjF58",
+      "url": "https://www.youtube.com/watch?v=-6ycy0HjF58",
+      "title": "Mutual Slump",
+      "channel": "djshadow",
+      "type": "公式アーティストチャンネル／PIAS提供アルバム音源",
+      "official": true,
+      "verified": "2026-10-18",
+      "duration": "PT4M1S",
+      "version": "Mutual Slump — Endtroducing..... album recording",
+      "versionBasis": "PIAS提供のdjshadow公式配信「Mutual Slump」（4分1秒）。『Endtroducing.....』（1996年）収録のアルバム音源としてメタデータを照合。Daedelus remixやAlternate Take Without Overdubsではない。",
+      "japanRegionStatus": "included",
+      "embedUrl": "https://www.youtube.com/embed/-6ycy0HjF58",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "verification": "公式ページのタイトル・アルバム・PIAS提供表記・公式アーティスト認証・長さを照合。JPはregionsAllowedに含まれ、embedUrl宣言あり。観察できたのはプレロールまでで、曲の実音声・日本からの再生・サイト内埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "MUTUAL SLUMP",
+      "lines": [
+        "MUTUAL",
+        "SLUMP"
+      ],
+      "tag": "DJ SHADOW / 1996",
+      "style": "piece",
+      "seed": 1443955755,
+      "lettering": "custom",
+      "letteringNote": "曲名・版名を保ったオリジナルのグラフィティ。",
+      "palette": [
+        "#455c4b",
+        "#e2e0dc",
+        "#7d7b5f",
+        "#3c474b",
+        "#906838",
+        "#3b3c34"
+      ],
+      "paletteSource": "Endtroducing.....（公式ストア2006年LP掲載の写真ジャケット）",
+      "paletteSourceUrl": "https://djshadow.com/products/dj-shadow-endtroducing-lp",
+      "paletteReferenceId": "dj-shadow-endtroducing-official-2006-lp-original-photo-jacket",
+      "paletteNote": "公式画像を目視し、緑の服、クリームの柱、オリーブ色の床、デニムの青灰色、盤袋の茶、暗い緑から部分領域のRGB中央値を参照した近似配色。2006年LPの画像であり1996年初版のスキャンとは断定しない。"
+    }
+  },
+  {
+    "id": "dj-shadow-napalm-brain-scatter-brain",
+    "title": "Napalm Brain / Scatter Brain (Medley)",
+    "artist": "DJ Shadow",
+    "year": 1996,
+    "yearBasis": "Endtroducing.....のオリジナル発表年1996年。配信の1月1日表記は発売日の証拠に用いない。",
+    "region": "San Francisco Bay Area",
+    "scene": "Davis / San Francisco Bay Area",
+    "category": "Instrumental Hip Hop",
+    "moods": [
+      "躍動",
+      "没入"
+    ],
+    "album": "Endtroducing.....",
+    "label": "Mo’ Wax / A&M（当該配信の権利表記）",
+    "producer": "DJ Shadow",
+    "producers": [
+      "DJ Shadow"
+    ],
+    "members": "DJ Shadow",
+    "deck": "長い曲の道筋を、ドラムの組み替えが切り開く。",
+    "essayTitle": "拍の足場が動く九分間",
+    "essay": [
+      "1996年のURB取材で、Shadowは「Napalm Brain」のドラムを4/4から7/8、3/4、5/4へ移し、4/4へ戻す構想として説明した。長尺を支えているのは同じ拍の持久力だけではない。歩幅そのものを変えるような展開を、作者は考えていた。",
+      "2006年には、生のドラマーがグルーヴの入りで少し遅れる感覚を、この曲にも再現したと語っている。整った線の上を進むだけでは生まれない身振りがある。拍子の数字を知ったあとにも、一打の置かれ方を追う余地が残る。",
+      "Wax Poeticsには、1996年に本曲を仕上げるShadowの写真が残る。本人提供の写真説明にある盤は、映画『Gator』の「Moment of Truth」。完成曲を素材名の一覧へ戻すだけでなく、どの盤を手に、どんな作業の只中にいたかまでたどれる貴重な記録だ。"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
+    ],
+    "facts": [],
+    "samples": [
+      {
+        "artist": "Charles Bernstein",
+        "title": "Moment of Truth",
+        "role": "Wax Poetics掲載の本人提供写真説明に、Gatorの同曲をサンプリング中と記載。",
+        "sources": [
+          3,
+          5
+        ],
+        "research": true
+      }
+    ],
+    "sampleStatus": "確認できた素材を記載。全素材の網羅・原盤全クレジットの確認を意味しません。",
+    "listening": [],
+    "context": "長い曲の道筋を、ドラムの組み替えが切り開く。",
+    "sources": [
+      {
+        "label": "YouTube：djshadow公式アーティストチャンネル／PIAS提供アルバム音源",
+        "url": "https://www.youtube.com/watch?v=mskMmwbwClk",
+        "kind": "公式配信メタデータ",
+        "verified": "2026-10-18",
+        "scope": "タイトル・アルバム・権利表示・長さ・日本対象地域・埋込宣言。実再生は未検証。"
+      },
+      {
+        "label": "URB：DJ Shadow本人取材（1996年11月）／Solesidesアーカイブ",
+        "url": "https://www.solesides.com/dj-shadow-why-does-hip-hop-suck-in-96-urb-november-1996.html",
+        "kind": "本人インタビュー（同時代）",
+        "speaker": "DJ Shadow。質問者BRAIN、MERLOとは区別。",
+        "publishedDate": "1996-11",
+        "scope": "Napalm BrainとChangelingの拍子は曲別発言。The Fixx、インストの歴史・物語構成は本人の一般的制作観。"
+      },
+      {
+        "label": "The A.V. Club：Noel MurrayによるDJ Shadow本人取材（2006年10月5日）",
+        "url": "https://www.avclub.com/dj-shadow-1798209921",
+        "kind": "本人インタビュー",
+        "speaker": "DJ Shadow",
+        "publishedDate": "2006-10-05",
+        "scope": "Napalm Brainのグルーヴ冒頭の遅れを再現した、という曲別説明。",
+        "reuseBudgetWords": 25
+      },
+      {
+        "label": "Wax Poetics：David Maによる本人取材・当事者提供写真（2020年12月8日掲載）",
+        "url": "https://staging--wax-poetics.netlify.app/article/dj-shadow-in-the-beginning/",
+        "kind": "本人インタビュー／当事者提供写真",
+        "speaker": "DJ Shadow。写真説明はWax Poetics編集部。",
+        "publishedDate": "2020-12-08",
+        "scope": "回顧取材。Napalm Brainの写真説明とアルバム・ジャケット撮影の説明を区別。",
+        "canonicalUrl": "https://www.waxpoetics.com/article/dj-shadow-in-the-beginning/",
+        "accessNote": "本文を読めた出版社の旧公開サイト。現在のcanonical URLは取得エラー。"
+      },
+      {
+        "label": "Michael A. D’Errico：Behind the Beat（Tufts University修士論文、2011年5月）",
+        "url": "https://www.cs.tufts.edu/~jacob/250hcm/MikeDErricoMAthesis.pdf",
+        "kind": "音楽学研究・著者による聴取分析",
+        "speaker": "Michael A. D’Errico",
+        "publishedDate": "2011-05",
+        "scope": "Changeling本文pp.36–38、Napalm Brain本文pp.39–40。作者の証言ではなく研究者の分析。",
+        "caution": "機材機能・操作の再現推定を制作事実として断定しない。時刻は論文が分析した版のもの。"
+      },
+      {
+        "label": "Intrada Records：Charles Bernstein公式カタログ",
+        "url": "https://store.intrada.com/s.nl/sc.16/category.23301/.f",
+        "kind": "原曲側レーベルの公式カタログ",
+        "speaker": "Intrada Records",
+        "scope": "Gator（1976）の音楽家Charles Bernsteinを確認。サンプル関係そのものはWax Poetics写真説明による。"
+      }
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム",
+      "ブレイクビーツ"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "curationNote": "本人・制作関係者の記録と同時代の批評から、既存の代表曲だけでは見えにくい技法や受容を補う選曲。",
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "editorialStatus": "『Endtroducing.....』収録の公式アルバム音源を掲載。実再生は未確認です。",
+    "noteReviewedAt": "2026-10-18",
+    "addedOrder": 476,
+    "versionBasis": "Endtroducing..... album medley. Not Napalm Brain (Demo Beat) from 2005 deluxe. 1996-01-01 digital date is not evidence for exact original street day.",
+    "mix": "DJ Shadow",
+    "youtube": {
+      "id": "mskMmwbwClk",
+      "url": "https://www.youtube.com/watch?v=mskMmwbwClk",
+      "title": "Napalm Brain / Scatter Brain (Medley)",
+      "channel": "djshadow",
+      "type": "公式アーティストチャンネル／PIAS提供アルバム音源",
+      "official": true,
+      "verified": "2026-10-18",
+      "duration": "PT9M22S",
+      "version": "Napalm Brain / Scatter Brain (Medley) — Endtroducing..... album recording",
+      "versionBasis": "Endtroducing..... album medley. Not Napalm Brain (Demo Beat) from 2005 deluxe. 1996-01-01 digital date is not evidence for exact original street day.",
+      "japanRegionStatus": "included",
+      "embedUrl": "https://www.youtube.com/embed/mskMmwbwClk",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "verification": "公式ページのタイトル・アルバム・PIAS提供表記・公式アーティスト認証・長さを照合。JPはregionsAllowedに含まれ、embedUrl宣言あり。観察できたのはプレロールまでで、曲の実音声・日本からの再生・サイト内埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "NAPALM BRAIN / SCATTER BRAIN (MEDLEY)",
+      "lines": [
+        "NAPALM BRAIN /",
+        "SCATTER BRAIN",
+        "(MEDLEY)"
+      ],
+      "tag": "DJ SHADOW / 1996",
+      "style": "piece",
+      "seed": 299375570,
+      "lettering": "custom",
+      "letteringNote": "曲名・版名を保ったオリジナルのグラフィティ。",
+      "palette": [
+        "#455c4b",
+        "#e2e0dc",
+        "#7d7b5f",
+        "#3c474b",
+        "#906838",
+        "#3b3c34"
+      ],
+      "paletteSource": "Endtroducing.....（公式ストア2006年LP掲載の写真ジャケット）",
+      "paletteSourceUrl": "https://djshadow.com/products/dj-shadow-endtroducing-lp",
+      "paletteReferenceId": "dj-shadow-endtroducing-official-2006-lp-original-photo-jacket",
+      "paletteNote": "公式画像を目視し、緑の服、クリームの柱、オリーブ色の床、デニムの青灰色、盤袋の茶、暗い緑から部分領域のRGB中央値を参照した近似配色。2006年LPの画像であり1996年初版のスキャンとは断定しない。"
+    }
+  },
+  {
+    "id": "dj-shadow-changeling",
+    "title": "Changeling",
+    "artist": "DJ Shadow",
+    "year": 1996,
+    "yearBasis": "Endtroducing.....のオリジナル発表年1996年。配信の1月1日表記は発売日の証拠に用いない。",
+    "region": "San Francisco Bay Area",
+    "scene": "Davis / San Francisco Bay Area",
+    "category": "Instrumental Hip Hop",
+    "moods": [
+      "没入",
+      "浮遊"
+    ],
+    "album": "Endtroducing.....",
+    "label": "Mo’ Wax / A&M（当該配信の権利表記）",
+    "producer": "DJ Shadow",
+    "producers": [
+      "DJ Shadow"
+    ],
+    "members": "DJ Shadow",
+    "deck": "一定に見える反復から、別の拍の感じ方が現れる。",
+    "essayTitle": "変わり続ける、ひとつのグルーヴ",
+    "essay": [
+      "「Changeling」について、Shadowは1996年のURBで4/4のブレイクを切り直し、7/8のように鳴らす試みだったと説明する。原演奏の区切りを、そのまま新しい曲の区切りにしない。借りた音から別の時間を作る発想が、この一曲には具体的に現れている。",
+      "同じ取材で彼は、ラップ以前にブレイクとDJが存在したことを強調した。これはアルバム全体をヒップホップの歴史へ置く発言だ。「Changeling」の変わった拍も、その外側へ逃げるためのものとしてではなく、DJの音楽が持っていた広さから考えてみたい。",
+      "The BamboosのLance Fergusonは、2021年のABC Double Jで、この曲を初めて聴いて自分の音楽人生が変わったと振り返っている。大きな影響という言葉を、アルバムの順位だけで説明する必要はない。次の音楽家の耳が開いた、その具体的な証言を残しておきたい。"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "使用素材の全同定は未完了。サンプル不使用を意味しません。",
+    "listening": [],
+    "context": "一定に見える反復から、別の拍の感じ方が現れる。",
+    "sources": [
+      {
+        "label": "YouTube：djshadow公式アーティストチャンネル／PIAS提供アルバム音源",
+        "url": "https://www.youtube.com/watch?v=p--tqVejRvU",
+        "kind": "公式配信メタデータ",
+        "verified": "2026-10-18",
+        "scope": "タイトル・アルバム・権利表示・長さ・日本対象地域・埋込宣言。実再生は未検証。"
+      },
+      {
+        "label": "URB：DJ Shadow本人取材（1996年11月）／Solesidesアーカイブ",
+        "url": "https://www.solesides.com/dj-shadow-why-does-hip-hop-suck-in-96-urb-november-1996.html",
+        "kind": "本人インタビュー（同時代）",
+        "speaker": "DJ Shadow。質問者BRAIN、MERLOとは区別。",
+        "publishedDate": "1996-11",
+        "scope": "Napalm BrainとChangelingの拍子は曲別発言。The Fixx、インストの歴史・物語構成は本人の一般的制作観。"
+      },
+      {
+        "label": "ABC Double J：Lance Fergusonの「Changeling」についての証言（2021年10月11日）",
+        "url": "https://www.abc.net.au/listen/doublej/music-reads/features/endtroducing-dj-shadow/13579748",
+        "kind": "影響を受けた音楽家の証言",
+        "speaker": "Lance Ferguson（The Bamboos）",
+        "publishedDate": "2021-10-11",
+        "scope": "Changelingを初めて聴いた影響は曲別。録音手法の評価はアルバム全体にも及ぶ。"
+      },
+      {
+        "label": "Michael A. D’Errico：Behind the Beat（Tufts University修士論文、2011年5月）",
+        "url": "https://www.cs.tufts.edu/~jacob/250hcm/MikeDErricoMAthesis.pdf",
+        "kind": "音楽学研究・著者による聴取分析",
+        "speaker": "Michael A. D’Errico",
+        "publishedDate": "2011-05",
+        "scope": "Changeling本文pp.36–38、Napalm Brain本文pp.39–40。作者の証言ではなく研究者の分析。",
+        "caution": "機材機能・操作の再現推定を制作事実として断定しない。時刻は論文が分析した版のもの。"
+      },
+      {
+        "label": "CMJ New Music Monthly：Endtroducing評（1997年3月）",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/CMJ/1997/CMJ-New-Music-1997-03.pdf",
+        "kind": "専門媒体の同時代批評",
+        "speaker": "CMJ「second thoughts」欄の評者",
+        "publishedDate": "1997-03",
+        "scope": "Changelingの反復と微細な変化。評価であって計測結果ではない。",
+        "accessNote": "検索インデックスに現れる該当段落を照合。PDF全体の直接取得は403で未完了。著者名は本文で未確認のため公開文から省いた。"
+      }
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム",
+      "サンプリング"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "curationNote": "本人・制作関係者の記録と同時代の批評から、既存の代表曲だけでは見えにくい技法や受容を補う選曲。",
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "editorialStatus": "『Endtroducing.....』収録の公式アルバム音源を掲載。実再生は未確認です。",
+    "noteReviewedAt": "2026-10-18",
+    "addedOrder": 477,
+    "versionBasis": "1996 album track, not 2005 Changeling / Transmission combined indexing or Original Demo Excerpt.",
+    "mix": "DJ Shadow",
+    "youtube": {
+      "id": "p--tqVejRvU",
+      "url": "https://www.youtube.com/watch?v=p--tqVejRvU",
+      "title": "Changeling",
+      "channel": "djshadow",
+      "type": "公式アーティストチャンネル／PIAS提供アルバム音源",
+      "official": true,
+      "verified": "2026-10-18",
+      "duration": "PT7M17S",
+      "version": "Changeling — Endtroducing..... album recording",
+      "versionBasis": "1996 album track, not 2005 Changeling / Transmission combined indexing or Original Demo Excerpt.",
+      "japanRegionStatus": "included",
+      "embedUrl": "https://www.youtube.com/embed/p--tqVejRvU",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "verification": "公式ページのタイトル・アルバム・PIAS提供表記・公式アーティスト認証・長さを照合。JPはregionsAllowedに含まれ、embedUrl宣言あり。観察できたのはプレロールまでで、曲の実音声・日本からの再生・サイト内埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "CHANGELING",
+      "lines": [
+        "CHANGELING"
+      ],
+      "tag": "DJ SHADOW / 1996",
+      "style": "piece",
+      "seed": 280990546,
+      "lettering": "custom",
+      "letteringNote": "曲名・版名を保ったオリジナルのグラフィティ。",
+      "palette": [
+        "#455c4b",
+        "#e2e0dc",
+        "#7d7b5f",
+        "#3c474b",
+        "#906838",
+        "#3b3c34"
+      ],
+      "paletteSource": "Endtroducing.....（公式ストア2006年LP掲載の写真ジャケット）",
+      "paletteSourceUrl": "https://djshadow.com/products/dj-shadow-endtroducing-lp",
+      "paletteReferenceId": "dj-shadow-endtroducing-official-2006-lp-original-photo-jacket",
+      "paletteNote": "公式画像を目視し、緑の服、クリームの柱、オリーブ色の床、デニムの青灰色、盤袋の茶、暗い緑から部分領域のRGB中央値を参照した近似配色。2006年LPの画像であり1996年初版のスキャンとは断定しない。"
+    }
+  },
+  {
+    "id": "dj-shadow-monosylabik",
+    "title": "Monosylabik, Pt. 1 & 2",
+    "artist": "DJ Shadow",
+    "year": 2002,
+    "yearBasis": "The Private Pressのオリジナル発表年2002年。配信の1月1日表記は発売日の証拠に用いない。",
+    "region": "San Francisco Bay Area",
+    "scene": "Davis / San Francisco Bay Area",
+    "category": "Instrumental Hip Hop",
+    "moods": [
+      "実験的",
+      "躍動"
+    ],
+    "album": "The Private Press",
+    "label": "Universal-Island Records Ltd. / MCA Records（当該配信の権利表記）",
+    "producer": "DJ Shadow",
+    "producers": [
+      "DJ Shadow"
+    ],
+    "members": "DJ Shadow",
+    "deck": "少ない材料で、前作の外へ踏み出す。",
+    "essayTitle": "いちばん戸惑わせる曲を、先に",
+    "essay": [
+      "「Monosylabik」は『The Private Press』のなかでも最も聴き手を驚かせる曲だと、Shadow自身が考えていた。2002年のExclaim!では、英国で1,000枚のホワイト盤として先に出したと説明する。前作の感触を約束する予告ではなく、新しい方向へ耳を向けてもらう入口だった。",
+      "Angus Bateyの回顧によると、制作では二小節を32の断片に分け、機材やスピーカーを通して音を変形させた。冒頭の声だけは別の録音を使い、それ以外を二小節の断片から組み立てた。増やす材料を制限し、その中から次の音を作る、極端な課題だった。",
+      "発売時のThe Village Voiceで、R.J. Smithは本曲をアルバムの大きな転換点と捉え、Warp周辺の電子音楽にも通じる変化を聞いた。狭いところから少しずつ広がる展開を評価している。ひとつの手法を守ることが、以前と違う聴き手へ届く道にもなっていた。"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
+    ],
+    "facts": [],
+    "samples": [
+      {
+        "artist": "Soft Touch",
+        "title": "Plenty Action",
+        "role": "原曲側レーベルが使用を明記。",
+        "main": true,
+        "sources": [
+          4
+        ],
+        "research": true
+      }
+    ],
+    "sampleStatus": "確認できた素材を記載。全素材の網羅・原盤全クレジットの確認を意味しません。",
+    "listening": [],
+    "context": "少ない材料で、前作の外へ踏み出す。",
+    "sources": [
+      {
+        "label": "YouTube：djshadow公式アーティストチャンネル／PIAS提供アルバム音源",
+        "url": "https://www.youtube.com/watch?v=D2nYuOdq1Ro",
+        "kind": "公式配信メタデータ",
+        "verified": "2026-10-18",
+        "scope": "タイトル・アルバム・権利表示・長さ・日本対象地域・埋込宣言。実再生は未検証。"
+      },
+      {
+        "label": "Exclaim!：Noel DixによるDJ Shadow本人取材（2002年6月1日）",
+        "url": "https://exclaim.ca/music/article/dj_shadow-verge_of_third_phase",
+        "kind": "本人インタビュー（同時代）",
+        "speaker": "DJ Shadow",
+        "publishedDate": "2002-06-01",
+        "scope": "Monosylabikの先行ホワイト盤と聴き手の期待に対する説明。"
+      },
+      {
+        "label": "The Quietus：Angus BateyによるThe Private Press再考（2022年6月6日）",
+        "url": "https://thequietus.com/opinion-and-essays/anniversary/dj-shadow-private-press-review-anniversary/",
+        "kind": "過去の本人取材を用いた専門批評",
+        "speaker": "DJ Shadow（2002年発売前取材を引用）／Angus Batey（2022年の地の文）",
+        "publishedDate": "2022-06-06",
+        "interviewDate": "2002（発売前）",
+        "scope": "Monosylabikの制作ルール、You Can’t Go Home Againのブレイク発見と導入部。地の文を本人の直接発言に変換しない。"
+      },
+      {
+        "label": "The Village Voice：R.J. Smith「To the Batcave」（2002年6月4日）",
+        "url": "https://www.villagevoice.com/to-the-batcave/",
+        "kind": "専門媒体の同時代批評",
+        "speaker": "R.J. Smith",
+        "publishedDate": "2002-06-04",
+        "scope": "Monosylabikの音楽的転換と展開を評価した箇所。作者の意図を確定する証言ではない。"
+      },
+      {
+        "label": "Ubiquity Records：These Are the Breaks公式資料（発売日2012年2月14日）",
+        "url": "https://press.ubiquityrecords.com/press/pdf/UR295.pdf",
+        "kind": "原曲側レーベルの公式資料",
+        "speaker": "Ubiquity Records",
+        "publishedDate": null,
+        "releaseDate": "2012-02-14",
+        "scope": "Soft Touch「Plenty Action」の冒頭のベースとドラムがMonosylabikに使われたこと。"
+      },
+      {
+        "label": "DJ Food公式：自身が所有するプロモ盤と制作したミックスの回想（2010年9月17日）",
+        "url": "https://www.djfood.org/dj-shadow-handmade/",
+        "kind": "制作・収集当事者の公式記録",
+        "speaker": "Strictly Kev / DJ Food",
+        "publishedDate": "2010-09-17",
+        "scope": "自身のMonosylabikプロモ盤、2002年制作Press Cuttings。全製造枚数の推定は採らない。"
+      }
+    ],
+    "connections": [],
+    "sounds": [
+      "ベース",
+      "ドラム",
+      "音の変形"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "curationNote": "本人・制作関係者の記録と同時代の批評から、既存の代表曲だけでは見えにくい技法や受容を補う選曲。",
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "editorialStatus": "『The Private Press』収録の公式アルバム音源を掲載。実再生は未確認です。",
+    "noteReviewedAt": "2026-10-18",
+    "addedOrder": 478,
+    "versionBasis": "The Private Press album recording, distributor title Pt. 1 & 2. Not a whole DJ mix. Original physical title commonly Monosylabik; do not call digital suffix a different remix.",
+    "composer": "Josh Davis",
+    "youtube": {
+      "id": "D2nYuOdq1Ro",
+      "url": "https://www.youtube.com/watch?v=D2nYuOdq1Ro",
+      "title": "Monosylabik, Pt. 1 & 2",
+      "channel": "djshadow",
+      "type": "公式アーティストチャンネル／PIAS提供アルバム音源",
+      "official": true,
+      "verified": "2026-10-18",
+      "duration": "PT6M47S",
+      "version": "Monosylabik, Pt. 1 & 2 — The Private Press album recording",
+      "versionBasis": "The Private Press album recording, distributor title Pt. 1 & 2. Not a whole DJ mix. Original physical title commonly Monosylabik; do not call digital suffix a different remix.",
+      "japanRegionStatus": "included",
+      "embedUrl": "https://www.youtube.com/embed/D2nYuOdq1Ro",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "verification": "公式ページのタイトル・アルバム・PIAS提供表記・公式アーティスト認証・長さを照合。JPはregionsAllowedに含まれ、embedUrl宣言あり。観察できたのはプレロールまでで、曲の実音声・日本からの再生・サイト内埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "MONOSYLABIK, PT. 1 & 2",
+      "lines": [
+        "MONOSYLABIK",
+        "PT. 1 & 2"
+      ],
+      "tag": "DJ SHADOW / 2002",
+      "style": "piece",
+      "seed": 2046119763,
+      "lettering": "custom",
+      "letteringNote": "曲名・版名を保ったオリジナルのグラフィティ。",
+      "palette": [
+        "#ffffff",
+        "#f4c4c7",
+        "#bab18e",
+        "#ef7033",
+        "#d8f1f7",
+        "#1b1f1f"
+      ],
+      "paletteSource": "The Private Press（公式ストア2LP掲載ジャケット）",
+      "paletteSourceUrl": "https://djshadow.com/products/the-private-press-vinyl-2lp",
+      "paletteReferenceId": "dj-shadow-private-press-official-2lp-front",
+      "paletteNote": "公式画像を目視し、白い地、サーモンピンクの手、カーキの手、橙のインク、淡い青の光、暗い線画から部分領域のRGB中央値を参照した近似配色。正確な再発年は掲載情報にない。"
+    }
+  },
+  {
+    "id": "dj-shadow-you-cant-go-home-again",
+    "title": "You Can't Go Home Again",
+    "artist": "DJ Shadow",
+    "year": 2002,
+    "yearBasis": "The Private Pressのオリジナル発表年2002年。配信の1月1日表記は発売日の証拠に用いない。",
+    "region": "San Francisco Bay Area",
+    "scene": "Davis / San Francisco Bay Area",
+    "category": "Instrumental Hip Hop",
+    "moods": [
+      "高揚",
+      "躍動"
+    ],
+    "album": "The Private Press",
+    "label": "Universal-Island Records Ltd. / MCA Records（当該配信の権利表記）",
+    "producer": "DJ Shadow",
+    "producers": [
+      "DJ Shadow"
+    ],
+    "members": "DJ Shadow",
+    "deck": "同じブレイクを見つけた仲間が、次の一曲を急がせる。",
+    "essayTitle": "掘り当てた、その先の競争",
+    "essay": [
+      "Angus Bateyの2022年の回顧によると、「You Can’t Go Home Again」の基盤となったファンクのブレイクはCut Chemistも見つけていた。Shadowには先に自分の形を刻みたい思いがあったという。二人の共有する耳が、共作とは別のかたちで曲を動かしていた。",
+      "2002年のResident AdvisorでKarl Palmaは、スカを思わせるベースと80年代風のシンセ、手の込んだドラムに注目した。ここでのスカは曲のジャンルを固定する札ではなく、評者がつかんだ跳ね方の比喩だ。前作からの変化は、音の明るさや身体の動き方にも聞き取られていた。",
+      "2012年、本曲を紹介したShadowは、アルバム『The Private Press』を前作より洗練された作品と評価した。同時に、まとまりや最初の声明としての力では別だとも留保している。デビュー作の衝撃と、その後の成長を同じ物差しで測らない。本人の言葉は、この曲に戻るもうひとつの入口になる。"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "使用素材の全同定は未完了。サンプル不使用を意味しません。",
+    "listening": [],
+    "context": "同じブレイクを見つけた仲間が、次の一曲を急がせる。",
+    "sources": [
+      {
+        "label": "YouTube：djshadow公式アーティストチャンネル／PIAS提供アルバム音源",
+        "url": "https://www.youtube.com/watch?v=XheYpT7-7sE",
+        "kind": "公式配信メタデータ",
+        "verified": "2026-10-18",
+        "scope": "タイトル・アルバム・権利表示・長さ・日本対象地域・埋込宣言。実再生は未検証。"
+      },
+      {
+        "label": "The Quietus：Angus BateyによるThe Private Press再考（2022年6月6日）",
+        "url": "https://thequietus.com/opinion-and-essays/anniversary/dj-shadow-private-press-review-anniversary/",
+        "kind": "過去の本人取材を用いた専門批評",
+        "speaker": "DJ Shadow（2002年発売前取材を引用）／Angus Batey（2022年の地の文）",
+        "publishedDate": "2022-06-06",
+        "interviewDate": "2002（発売前）",
+        "scope": "Monosylabikの制作ルール、You Can’t Go Home Againのブレイク発見と導入部。地の文を本人の直接発言に変換しない。"
+      },
+      {
+        "label": "Resident Advisor：Karl Palmaのシングル評（2002年6月24日）",
+        "url": "https://ra.co/reviews/417",
+        "kind": "専門媒体の同時代批評",
+        "speaker": "Karl Palma",
+        "publishedDate": "2002-06-24",
+        "scope": "You Can’t Go Home Againのスカ的なベース、80年代風シンセ、ドラム。ジャンルの断定ではなく評者の聴感。"
+      },
+      {
+        "label": "The Quietus：DJ Shadow本人によるReconstructed解説（2012年10月23日）",
+        "url": "https://thequietus.com/interviews/dj-shadow-reconstructed-best-of-interview/",
+        "kind": "本人インタビュー",
+        "speaker": "DJ Shadow／聞き手Laurie Tuffrey",
+        "publishedDate": "2012-10-23",
+        "scope": "You Can’t Go Home Againの項でThe Private Press全体を前作と比較。曲単体の制作逸話ではない。"
+      },
+      {
+        "label": "DJ Food公式：自身が所有するプロモ盤と制作したミックスの回想（2010年9月17日）",
+        "url": "https://www.djfood.org/dj-shadow-handmade/",
+        "kind": "制作・収集当事者の公式記録",
+        "speaker": "Strictly Kev / DJ Food",
+        "publishedDate": "2010-09-17",
+        "scope": "自身のMonosylabikプロモ盤、2002年制作Press Cuttings。全製造枚数の推定は採らない。"
+      },
+      {
+        "label": "DJ Food公式SoundCloud：Press Cuttingsの曲目と放送情報",
+        "url": "https://soundcloud.com/strictly/press-cuttings-the-private-press-compacted",
+        "kind": "ミックス作者の公式公開情報",
+        "speaker": "Strictly Kev / DJ Food",
+        "publishedDate": "2010-09-18",
+        "eventDate": "2002-05-06",
+        "scope": "You Can’t Go Home Againを含む曲目、Solid Steel初回放送日。単曲の音源としては採用しない。"
+      }
+    ],
+    "connections": [],
+    "sounds": [
+      "ベース",
+      "シンセ",
+      "ドラム"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "curationNote": "本人・制作関係者の記録と同時代の批評から、既存の代表曲だけでは見えにくい技法や受容を補う選曲。",
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "editorialStatus": "『The Private Press』収録の公式アルバム音源を掲載。実再生は未確認です。",
+    "noteReviewedAt": "2026-10-18",
+    "addedOrder": 479,
+    "versionBasis": "The Private Press album version, not radio edit / official MV edit / live In Tune and On Time.",
+    "composer": "Josh Davis",
+    "youtube": {
+      "id": "XheYpT7-7sE",
+      "url": "https://www.youtube.com/watch?v=XheYpT7-7sE",
+      "title": "You Can't Go Home Again",
+      "channel": "djshadow",
+      "type": "公式アーティストチャンネル／PIAS提供アルバム音源",
+      "official": true,
+      "verified": "2026-10-18",
+      "duration": "PT7M4S",
+      "version": "You Can't Go Home Again — The Private Press album recording",
+      "versionBasis": "The Private Press album version, not radio edit / official MV edit / live In Tune and On Time.",
+      "japanRegionStatus": "included",
+      "embedUrl": "https://www.youtube.com/embed/XheYpT7-7sE",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "verification": "公式ページのタイトル・アルバム・PIAS提供表記・公式アーティスト認証・長さを照合。JPはregionsAllowedに含まれ、embedUrl宣言あり。観察できたのはプレロールまでで、曲の実音声・日本からの再生・サイト内埋め込み再生は未検証。"
+    },
+    "art": {
+      "word": "YOU CAN'T GO HOME AGAIN",
+      "lines": [
+        "YOU CAN'T GO",
+        "HOME AGAIN"
+      ],
+      "tag": "DJ SHADOW / 2002",
+      "style": "piece",
+      "seed": 1140847234,
+      "lettering": "custom",
+      "letteringNote": "曲名・版名を保ったオリジナルのグラフィティ。",
+      "palette": [
+        "#ffffff",
+        "#f4c4c7",
+        "#bab18e",
+        "#ef7033",
+        "#d8f1f7",
+        "#1b1f1f"
+      ],
+      "paletteSource": "The Private Press（公式ストア2LP掲載ジャケット）",
+      "paletteSourceUrl": "https://djshadow.com/products/the-private-press-vinyl-2lp",
+      "paletteReferenceId": "dj-shadow-private-press-official-2lp-front",
+      "paletteNote": "公式画像を目視し、白い地、サーモンピンクの手、カーキの手、橙のインク、淡い青の光、暗い線画から部分領域のRGB中央値を参照した近似配色。正確な再発年は掲載情報にない。"
+    }
+  },
+  {
+    "id": "dj-shadow-cut-chemist-freeze-live-video",
+    "title": "FReeZe",
+    "artist": "DJ Shadow & Cut Chemist",
+    "artists": [
+      "DJ Shadow",
+      "Cut Chemist"
+    ],
+    "year": null,
+    "releaseYear": null,
+    "originalReleaseYear": null,
+    "album": "FReeZe（DVD映像）",
+    "producer": "制作名義未確認",
+    "producers": [],
+    "label": "レーベル未確認",
+    "region": "California",
+    "scene": "California / turntablism",
+    "category": "Live Video",
+    "workType": "live_video",
+    "workScope": "whole_work",
+    "workTypeLabel": "LIVE VIDEO",
+    "countsTowardDailyNewSongs": false,
+    "moods": [
+      "ライブ"
+    ],
+    "sounds": [
+      "45s",
+      "ターンテーブル"
+    ],
+    "collections": [
+      "west"
+    ],
+    "sources": [
+      {
+        "label": "Aaron Sonnenberg — FReeZe撮影担当者による作品紹介",
+        "url": "https://aaronsonnenberg.com/blog/freeze-2006-dvd-release-featuring-dj-shadow-and-cut-chemist/",
+        "kind": "制作参加者の証言"
+      },
+      {
+        "label": "Plug One — Cut Chemist本人が語る45sとステージ（2007年6月22日）",
+        "url": "https://www.plugonemag.com/2007/06/22/the-plug-one-qa-cut-chemist",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "YouTube — JazzDischargeによる参考投稿",
+        "url": "https://www.youtube.com/watch?v=gu9Gz5asQe4",
+        "kind": "第三者参考動画"
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "個々の使用音源の一覧は掲載していません。",
+    "listening": [],
+    "connections": [],
+    "editorialCrates": [],
+    "facts": [],
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "playbackChecked": false,
+    "playbackVerified": false,
+    "embeddedPlaybackChecked": false,
+    "embeddedPlaybackVerified": false,
+    "japanPlaybackChecked": false,
+    "japanPlaybackVerified": false,
+    "noteReviewedAt": "2026-10-18",
+    "yearBasis": "初出年未確認。2006年DVD版と2000年の収録公演は、初出年とは区別しています。",
+    "editorialStatus": "JazzDischargeによる参考投稿です。表示時間は1:49:39（メタデータ1:49:40）。撮影担当者の作品紹介に同じ動画が掲載されていますが、DVD全編との一致と実再生は未確認です。",
+    "curationNote": "FReeZeのライブ映像。JazzDischargeによる参考投稿。",
+    "recordingEdition": "撮影担当者がFReeZeの紹介に掲載するライブ映像",
+    "editionNote": "2006年DVD版への言及がありますが、作品の初出年を示すものではありません。",
+    "editionYear": 2006,
+    "recordingContext": {
+      "date": "2000-01-18",
+      "venue": "El Rey Theatre",
+      "city": "Los Angeles",
+      "scope": "FReeZeが記録する公演についての制作参加者の証言。動画全区間がこの公演とは断定しない。",
+      "source": "https://aaronsonnenberg.com/blog/freeze-2006-dvd-release-featuring-dj-shadow-and-cut-chemist/"
+    },
+    "relatedWorks": [
+      {
+        "id": "dj-shadow-cut-chemist-brainfreeze",
+        "title": "Brainfreeze",
+        "relation": "related_mix_not_same_recording"
+      }
+    ],
+    "deck": "盤を操る手と、そこに集まった人たち。Brainfreezeをステージの記録からたどる。",
+    "essayTitle": "Brainfreezeが、目の前の演奏になる",
+    "essay": [
+      "『FReeZe』が記録するのは、2000年1月18日、ロサンゼルスのEl Rey Theatreで行われた『Brainfreeze』の最終公演だ。撮影に参加したAaron Sonnenbergは、ステージ上と補助映像の撮影を担当したと回想する。二人が組み上げたセットを、音だけでなく、その場の演奏として残す作品である。",
+      "Sonnenbergによれば、DVDはライブ本編に加えてリハーサルやインタビュー、Marvski、Dante、DJ Nu-Mark、Z-Tripの演奏の一部も収める。完成したセットの外へ視野が開かれる構成だ。『Brainfreeze』を取り巻く人と時間から入り直すための映像として捉えたい。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "context": "Brainfreezeの最終公演と、その周辺を記録した映像作品。",
+    "versionBasis": "約109分のFReeZe映像。約52分のBrainfreezeミックスとは別エントリーです。制作参加者のページが指定動画を直接掲載していますが、2006年DVD版の完全な複製とは断定しません。",
+    "youtube": {
+      "id": "gu9Gz5asQe4",
+      "url": "https://www.youtube.com/watch?v=gu9Gz5asQe4",
+      "title": "DJ Shadow & Cut Chemist - FReeZe [2006]",
+      "channel": "JazzDischarge",
+      "channelUrl": "https://www.youtube.com/@jazzdischarge",
+      "channelId": "UCkoQFInK-99P0vHLv3bwVJg",
+      "type": "JazzDischargeによる参考投稿",
+      "sourceType": "video",
+      "official": false,
+      "verified": "2026-10-18",
+      "duration": "PT109M40S",
+      "playerDuration": "1:49:39",
+      "uploadDate": "2021-02-24T13:45:58-08:00",
+      "localizedUploadDate": "2021/02/25",
+      "localizedUploadDateLocale": "ja-JP",
+      "version": "FReeZe／プレイヤー1:49:39、公開メタデータ1:49:40。2006はDVD版の文脈で、収録公演年・作品初出年とは別。",
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+      "embedUrl": "https://www.youtube.com/embed/gu9Gz5asQe4",
+      "embedOfferObserved": true,
+      "playbackChecked": false,
+      "playbackVerified": false,
+      "embeddedPlaybackChecked": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackChecked": false,
+      "japanPlaybackVerified": false,
+      "exactEditionVerified": false,
+      "exactRipAuthenticated": false,
+      "completenessVerified": false,
+      "verification": "公開ページのタイトル・投稿者・時間と埋め込みの案内を照合。regionsAllowedはJPを含みます。日本からの実再生、サイト内埋め込み再生、収録版との完全一致・全編性は未確認です。",
+      "workIdentityVerified": true,
+      "workIdentityEvidence": {
+        "url": "https://aaronsonnenberg.com/blog/freeze-2006-dvd-release-featuring-dj-shadow-and-cut-chemist/",
+        "basis": "制作参加者のFReeZe紹介が、この動画IDを直接掲載。作品との関連を確認したもので、全区間の同一性や完全性の確認ではない。"
+      }
+    },
+    "addedOrder": 480,
+    "members": "DJ Shadow / Cut Chemist",
+    "art": {
+      "word": "FReeZe",
+      "tag": "DJ SHADOW & CUT CHEMIST / LIVE VIDEO",
+      "style": "piece",
+      "seed": 20000118,
+      "palette": [
+        "#244834",
+        "#a83929",
+        "#bc912e",
+        "#f0e3bf",
+        "#211b16"
+      ],
+      "paletteSource": "FReeZe DVDパッケージ（撮影担当者Aaron Sonnenberg掲載）",
+      "paletteSourceUrl": "https://aaronsonnenberg.com/blog/freeze-2006-dvd-release-featuring-dj-shadow-and-cut-chemist/",
+      "paletteNote": "実物DVDケースの掲載写真を目視した近似配色。深緑、赤、金、クリーム、暗い茶。Brainfreeze CDの配色ではありません。"
+    }
+  },
+  {
+    "id": "dj-shadow-cut-chemist-product-placement-live-video",
+    "title": "Product Placement (Live Video)",
+    "artist": "DJ Shadow & Cut Chemist",
+    "artists": [
+      "DJ Shadow",
+      "Cut Chemist"
+    ],
+    "year": null,
+    "releaseYear": null,
+    "originalReleaseYear": null,
+    "album": "収録版未確認",
+    "producer": "制作名義未確認",
+    "producers": [],
+    "label": "レーベル未確認",
+    "region": "California",
+    "scene": "California / turntablism",
+    "category": "Live Video",
+    "workType": "live_video",
+    "workScope": "whole_work",
+    "workTypeLabel": "LIVE VIDEO",
+    "countsTowardDailyNewSongs": false,
+    "moods": [
+      "ライブ"
+    ],
+    "sounds": [
+      "45s",
+      "ターンテーブル"
+    ],
+    "collections": [
+      "west"
+    ],
+    "sources": [
+      {
+        "label": "Exclaim! — DJ Shadow本人が語るProduct Placement（2002年6月1日）",
+        "url": "https://exclaim.ca/music/article/dj_shadow-verge_of_third_phase",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Plug One — Cut Chemist本人が語るステージ（2007年6月22日）",
+        "url": "https://www.plugonemag.com/2007/06/22/the-plug-one-qa-cut-chemist",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Banquet Records — 関連DVD Product Placement On Tourの紹介",
+        "url": "https://www.banquetrecords.com/dj-shadow-cut-chemist/product-placement-on-tour/PPDVDPAL001",
+        "kind": "販売店カタログ・関連作品"
+      },
+      {
+        "label": "YouTube — Estudio 2830による参考投稿",
+        "url": "https://www.youtube.com/watch?v=gdZ5cHYrcLU",
+        "kind": "第三者参考動画"
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "個々の使用音源の一覧は掲載していません。",
+    "listening": [],
+    "connections": [],
+    "editorialCrates": [],
+    "facts": [],
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "playbackChecked": false,
+    "playbackVerified": false,
+    "embeddedPlaybackChecked": false,
+    "embeddedPlaybackVerified": false,
+    "japanPlaybackChecked": false,
+    "japanPlaybackVerified": false,
+    "noteReviewedAt": "2026-10-18",
+    "yearBasis": "収録版と作品の初出年は未確認です。",
+    "editorialStatus": "Estudio 2830による参考投稿です。表示時間は1:11:55（メタデータ1:11:56）。収録版と実再生は未確認で、約60分のOn Tourミックスとは別に掲載しています。",
+    "curationNote": "Product Placementのライブ映像として公開された参考投稿。",
+    "recordingEdition": "Product Placementとして投稿されたライブ映像（収録版未確認）",
+    "editionNote": "Product Placement: On TourのDVDとの同一性は未確認です。",
+    "editionYear": null,
+    "relatedWorks": [
+      {
+        "id": "dj-shadow-cut-chemist-product-placement-on-tour",
+        "title": "Product Placement: On Tour",
+        "relation": "related_context_not_same_recording"
+      }
+    ],
+    "deck": "聴かせることと、見せること。Product Placementを入口に、二人のDJのステージを考える。",
+    "essayTitle": "レコードを鳴らす、その姿まで",
+    "essay": [
+      "『Product Placement』について、DJ Shadowは2002年のExclaim!で、自分にとっては『Brainfreeze』を上回るセットだったと語った。続編に注いだ仕事への強い自負が、その言葉にある。前作の評判をなぞるのではなく、もう一度二人で組み立て直す。その意欲を手がかりに、作品の背景をたどりたい。",
+      "Cut Chemistは2007年のPlug Oneで、自分のステージは見て面白く、聴いて面白く、踊れるものでありたいと話している。音か見せ場か、どちらか一方ではない。これは後年の本人によるライブ観であり、特定の映像場面の説明ではないが、DJを舞台に立つ表現者として見るための言葉だ。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ],
+    "context": "Product Placementとして公開されたライブ映像。収録版は未確認。",
+    "versionBasis": "Estudio 2830の約72分の投稿。MixtapeTrapの約60分のProduct Placement: On Tourや2001年の原作ミックスへ置き換えず、独立した映像エントリーとして扱います。",
+    "youtube": {
+      "id": "gdZ5cHYrcLU",
+      "url": "https://www.youtube.com/watch?v=gdZ5cHYrcLU",
+      "title": "Dj Shadow & Cut Chemist   Product Placement",
+      "channel": "Estudio 2830",
+      "channelUrl": "https://www.youtube.com/@Estudio-gu7dp",
+      "channelId": "UCPpC8bBIw-rqocGVBUwdAIQ",
+      "type": "Estudio 2830による参考投稿",
+      "sourceType": "video",
+      "official": false,
+      "verified": "2026-10-18",
+      "duration": "PT71M56S",
+      "playerDuration": "1:11:55",
+      "uploadDate": "2022-01-16T07:39:19-08:00",
+      "localizedUploadDate": "2022/01/17",
+      "localizedUploadDateLocale": "ja-JP",
+      "version": "Product Placementとして公開されたライブ映像／プレイヤー1:11:55、公開メタデータ1:11:56。On Tour DVDとの同一性未確認。",
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+      "embedUrl": "https://www.youtube.com/embed/gdZ5cHYrcLU",
+      "embedOfferObserved": true,
+      "playbackChecked": false,
+      "playbackVerified": false,
+      "embeddedPlaybackChecked": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackChecked": false,
+      "japanPlaybackVerified": false,
+      "exactEditionVerified": false,
+      "exactRipAuthenticated": false,
+      "completenessVerified": false,
+      "verification": "公開ページのタイトル・投稿者・時間と埋め込みの案内を照合。regionsAllowedはJPを含みます。日本からの実再生、サイト内埋め込み再生、収録版との完全一致・全編性は未確認です。",
+      "workIdentityVerified": false
+    },
+    "addedOrder": 481,
+    "members": "DJ Shadow / Cut Chemist",
+    "art": {
+      "word": "PRODUCT PLACEMENT / LIVE VIDEO",
+      "tag": "DJ SHADOW & CUT CHEMIST / LIVE VIDEO",
+      "style": "piece",
+      "seed": 20010072,
+      "palette": [
+        "#65201d",
+        "#d74b25",
+        "#f1e9cc",
+        "#e8cd78",
+        "#171313"
+      ],
+      "paletteSource": "Product Placement（2001年原作ミックス）のジャケット・関連作品の配色",
+      "paletteSourceUrl": "https://pitchfork.com/reviews/albums/2372-product-placement/",
+      "paletteNote": "原作ミックスのジャケット配色を参照。掲載映像版のパッケージ同定ではない。実画像を目視した、深い赤茶、赤橙、クリーム、淡い黄、黒の近似配色。"
+    }
   }
 ]

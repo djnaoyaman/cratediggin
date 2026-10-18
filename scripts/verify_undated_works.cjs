@@ -1,0 +1,12 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
+const core=fs.readFileSync('src/app/core.js','utf8'),ctx={window:{}};vm.createContext(ctx);vm.runInContext(core.split(' const songs=')[0]+';globalThis.api={yearLabel,yearSort,yearDistance,workCount,workLabel};',ctx);
+vm.runInContext(fs.readFileSync('src/assets/filters.js','utf8'),ctx);vm.runInContext(fs.readFileSync('src/assets/timeline.js','utf8'),ctx);
+const fixture=(id,year,type='single')=>({id,title:id,artist:'Artist',album:'',scene:'',category:'',region:'West',samples:[],year,workType:type,addedOrder:0});
+const a=fixture('dated',1996),b=fixture('undated',null,'live_video'),c=fixture('later',2004,'mix');
+assert.equal(ctx.api.yearLabel(b),'発表年未確認');assert(ctx.api.yearSort(b)>ctx.api.yearSort(c));assert.equal(ctx.api.workCount([a,b,c]),'1曲・1ミックス作品・1ライブ映像');
+assert.deepEqual(Array.from(ctx.window.CrateFilter([b,c,a],{}),x=>x.id),['dated','later','undated']);
+assert.deepEqual(Array.from(ctx.window.CrateFilter([a,b,c],{era:'1990年代'}),x=>x.id),['dated']);
+assert.deepEqual(Array.from(ctx.window.CrateFilter([a,b,c],{era:'発表年未確認'}),x=>x.id),['undated']);
+assert.deepEqual(Array.from(ctx.window.CrateFilter([a,b,c],{q:'undated'}),x=>x.id),['undated']);
+const html=ctx.window.CrateChronology([a,b,c],x=>String(x),{events:[]});assert(html.includes('tc-undated'));assert(html.includes('#/song/undated'));assert(!html.includes('timeline-year-null'));assert(!html.includes('timeline-year-0"'));assert(html.indexOf('timeline-year-2004')<html.indexOf('tc-undated'));
+console.log('Unknown-year ordering/filter/search/timeline and separate live-video counts passed');
