@@ -132,6 +132,7 @@ jobs:
           python -m http.server 8765 --directory /tmp/crate-preview >/tmp/crate-preview.log 2>&1 &
           server=$!
           trap 'kill "$server"' EXIT
+          node scripts/verify_album_browser.cjs
           node scripts/verify_listening_shelves_browser.js
           node scripts/verify_pagination_browser.cjs
           node scripts/verify_discovery_browser.cjs
@@ -153,7 +154,6 @@ jobs:
           node scripts/verify_mix_works_browser.cjs
           node scripts/verify_live_video_browser.cjs
           node scripts/verify_work_label_layout_browser.cjs
-          node scripts/verify_album_browser.cjs
           node scripts/verify_deep_rooted_browser.cjs
           node scripts/verify_requested_next_browser.cjs
           node scripts/verify_requested_following_browser.cjs
