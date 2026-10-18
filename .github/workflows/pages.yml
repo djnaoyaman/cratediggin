@@ -60,6 +60,7 @@ jobs:
         run: |
           python scripts/audit_catalog.py
           python scripts/verify_discovery.py
+          python scripts/verify_graffiti_og.py
           python scripts/verify_url_migration.py
           python scripts/verify_profile_notes.py
           python scripts/verify_public_copy.py

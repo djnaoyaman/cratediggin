@@ -72,7 +72,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
     def article(url, title, description, image, key, published=None, about=None):
         data = {'@type': 'Article', '@id': url + '#article', 'url': url, 'mainEntityOfPage': url,
                 'headline': title, 'description': description, 'inLanguage': 'ja', 'author': author,
-                'image': [host + '/' + image]}
+                'image': [host + '/' + image + '?v=' + version]}
         if published:
             data['datePublished'] = published
         revision = revisions.get(key)
@@ -100,7 +100,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
                       'song/' + t['id'], t.get('datePublished'), {'@id': url + '#recording'})
         art['citation'] = [s['url'] for s in t['sources']]
         add('#/song/' + t['id'], relative, t['title'] + ' / ' + t['artist'] + ' — Crate Diggin’',
-            t['deck'], image=image, graph=[art, recording], kind='article', image_alt=t['art']['alt'])
+            t['deck'], image=image, graph=[art, recording], kind='article', image_alt=t['art']['alt'] if t['art'].get('image') else t['title'] + ' — ' + t['artist'] + '｜CRATE DIGGIN｜DJ Naoyaman')
         published = t.get('datePublished')
         updated = art.get('dateModified')
         byline = '<p class="byline">選曲・編集・文責 <a href="' + base_path + '/editor.html">DJ Naoyaman</a>'
@@ -234,7 +234,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         meta += '<link rel="canonical" href="' + esc(p['url'], quote=True) + '">'
         for name, value in {'og:title': p['title'], 'og:description': p['description'], 'og:url': p['url'],
                             'og:type': p['kind'], 'og:site_name': 'Crate Diggin’', 'og:locale': 'ja_JP',
-                            'og:image': p['image'], 'og:image:width': '1200', 'og:image:height': '630',
+                            'og:image': p['image'], 'og:image:type': 'image/png', 'og:image:width': '1200', 'og:image:height': '630',
                             'og:image:alt': p['imageAlt']}.items():
             meta += '<meta property="' + name + '" content="' + esc(value, quote=True) + '">'
         for name, value in {'twitter:card': 'summary_large_image', 'twitter:title': p['title'],
@@ -310,5 +310,5 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
     (dist / 'llms.txt').write_text(llms, encoding='utf-8')
     (dist / 'llms-full.txt').write_text('\n\n---\n\n'.join((dist / 'tracks' / (t['id'] + '.md')).read_text(encoding='utf-8') for t in tracks), encoding='utf-8')
     (dist / 'article-revisions.json').write_text(json.dumps(revisions, ensure_ascii=False, indent=2), encoding='utf-8')
-    write_legacy_pages(dist, host, migration)
+    write_legacy_pages(dist, host, migration, pages)
     print(f'Unified metadata, real URLs and discovery views: {len(urls)} pages')
