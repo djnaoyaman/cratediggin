@@ -270,10 +270,51 @@ body[data-art-owner=full] #listening-player,body[data-art-owner=full] .sample-vi
 body[data-player-folded=true] .player .player-top,body[data-player-folded=true] .player .now>.eyebrow,body[data-player-folded=true] .player .now>.channel,body[data-player-folded=true] .player .preferences,body[data-player-folded=true] .player .progress-row{display:none}
 body[data-player-folded=true] .player .now strong{font-size:22px}body[data-player-folded=true] .player .now{margin-block:14px}body[data-player-folded=true] .player .status{margin-block:10px}body[data-player-folded=true] .player{padding:16px;border-top:2px solid var(--blue)}
 
-/* Only confirmed stopped/paused owners can lose the native viewport. Play expands first. */
+/* Folding changes presentation only; explicit play may expand controls. */
 body[data-player-compact=true]:not([data-art-owner]) .player .video-wrap,body[data-player-compact=true]:not([data-art-owner]) .player #start{display:none}
 
 /* The wall fills the room; only the transparent lettering is constrained to safe art space. */
 #art-wall-background{display:none;position:fixed;inset:0;width:100vw;height:100dvh;pointer-events:none;z-index:99;border:0;box-shadow:none}
 body[data-art-owner] #art-wall-background{display:block}body[data-art-owner]::before{background:transparent}
 body[data-art-owner] .art-view,body[data-art-owner] .art-view.image-art{background:transparent;border:0;box-shadow:none}
+
+/* Explicit navigation affordances never cover ART or the native player. */
+#back-to-top{position:fixed;right:max(16px,env(safe-area-inset-right));bottom:max(16px,env(safe-area-inset-bottom));min-width:64px;min-height:44px;padding:8px 14px;background:var(--paper);color:var(--ink);border:1px solid var(--ink);z-index:60;font-weight:700;box-shadow:0 2px 12px #141b2d18}
+#back-to-top[hidden],body[data-art-owner] #back-to-top{display:none}
+#enter-crate:focus-visible{outline:3px solid white;outline-offset:4px}
+
+.shuffle-mixer{position:relative;min-height:260px;overflow:hidden;border-block:1px solid var(--line);padding:24px 12px;background:var(--off);perspective:700px}
+.mix-rail{display:block;font:700 11px/1.4 var(--sans);letter-spacing:.18em;color:var(--muted)}
+#shuffle-preview{display:grid;justify-items:center;gap:4px;transform-origin:center}
+#shuffle-preview img{height:170px;width:100%;object-fit:contain;filter:none}
+#shuffle-preview strong{font:800 clamp(24px,4vw,42px)/1.1 var(--display);text-align:center}
+#shuffle-preview>span{font-size:13px;text-align:center}
+.mix-step{animation:crate-mix-step .24s cubic-bezier(.2,.8,.2,1) both}
+@keyframes crate-mix-step{from{transform:translateX(14px) rotate(-3deg) scale(.96)}to{transform:none}}
+@media(prefers-reduced-motion:reduce){.mix-step{animation:none}}
+.reduce-motion .mix-step{animation:none}
+
+
+body[data-art-mode=video] .art-view canvas,body[data-art-mode=video] .art-info{visibility:hidden}
+body[data-art-mode=video] .art-controls{bottom:40px}
+body[data-art-mode=video] .art-provider-help{bottom:8px}
+body[data-art-mode=video] .art-mode-controls{top:52px}
+body[data-art-mode=video] .art-credit{display:none}
+body[data-art-mode=video] .art-crate-status{display:none}
+.art-mode-controls button{min-width:60px;min-height:44px}
+
+/* Compact listening console: presentation only, with the same provider instance. */
+#compact-state{display:none}
+body[data-player-folded=true]:not([data-art-owner]) .layout{grid-template-columns:minmax(0,1fr);gap:24px}
+body[data-player-folded=true]:not([data-art-owner]) .player{position:relative;top:auto;display:grid;grid-template-columns:minmax(0,1fr) 44px 44px;align-items:center;gap:10px;padding:12px 16px;width:100%;min-width:0}
+body[data-player-folded=true]:not([data-art-owner]) .player>:not(.now):not(.transport):not(#player-fold){display:none!important}
+body[data-player-folded=true]:not([data-art-owner]) .player .now{grid-column:1;grid-row:1;margin:0;min-width:0}
+body[data-player-folded=true]:not([data-art-owner]) .player .now strong{font:700 20px/1.15 var(--display);overflow-wrap:anywhere}
+body[data-player-folded=true]:not([data-art-owner]) .player #now-artist{font-size:12px;line-height:1.4;margin:2px 0}
+body[data-player-folded=true]:not([data-art-owner]) #compact-state{display:block;font-size:11px;line-height:1.4;color:#b8c6e8}
+body[data-player-folded=true]:not([data-art-owner]) .player .transport{display:contents}
+body[data-player-folded=true]:not([data-art-owner]) .player .transport>:not(#toggle){display:none}
+body[data-player-folded=true]:not([data-art-owner]) #toggle{grid-column:2;grid-row:1;width:44px;min-width:44px;height:44px;min-height:44px;font-size:22px}
+body[data-player-folded=true]:not([data-art-owner]) #player-fold{grid-column:3;grid-row:1;width:44px;height:44px;min-height:44px;border:1px solid #64718b;margin:0;text-align:center;font-size:22px}
+#player-reveal{width:100%;justify-self:stretch;min-height:58px;padding:6px 12px;gap:12px}#player-reveal strong{font-size:22px}#player-reveal .reveal-copy>span{display:none}
+.editor-profile-heading{background:var(--paper);border:1px solid var(--line);border-top:3px solid var(--blue);padding:clamp(18px,3vw,32px)}.editor-profile-heading h1{color:var(--ink)}.producer-note{background:var(--off);border-color:var(--line)}
