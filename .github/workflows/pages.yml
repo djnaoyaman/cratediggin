@@ -65,6 +65,8 @@ jobs:
           python scripts/verify_public_copy.py
           python scripts/verify_social_sharing_static.py
           python scripts/test_revision_dates.py
+          node scripts/verify_inline_player.cjs
+          node scripts/verify_player_readiness.cjs
           node scripts/verify_listening_shelves.js
           node scripts/verify_producer_features.js
           node scripts/verify_feature_editorials.js
@@ -149,6 +151,7 @@ jobs:
           node scripts/verify_requested_remaining_browser.cjs
           node scripts/verify_recovery_release_browser.cjs
           node scripts/verify_restored_eight_browser.cjs
+          node scripts/verify_inline_player_browser.cjs
       - name: Save browser screenshots
         if: always()
         uses: actions/upload-artifact@v4
@@ -165,6 +168,7 @@ jobs:
             /tmp/migration-navigation-*.png
             /tmp/editor-profile-*.png
             /tmp/producer-note-*.png
+            /tmp/inline-bandcamp-*.png
           if-no-files-found: ignore
           retention-days: 3
       - uses: actions/upload-pages-artifact@v4
