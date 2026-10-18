@@ -12,7 +12,7 @@ assert(shadow.samples.some(s=>s.research));
 for(const sample of shadow.samples)assert(window.CrateFilter(songs,{q:sample.title}).some(t=>t.id===shadow.id));
 assert(window.CrateFilter(songs,{research:'深掘り記事あり'}).every(t=>t.deepdives.length));
 assert(window.CrateFilter(songs,{research:'サンプル資料あり'}).every(t=>t.samples.length));
-const elements=new Map(),$=selector=>{if(!elements.has(selector))elements.set(selector,{});return elements.get(selector)};
+const elements=new Map(),$=selector=>{if(['#back-to-top','#enter-crate'].includes(selector))return null;if(!elements.has(selector))elements.set(selector,{});return elements.get(selector)};
 const buttons=['all','own','related'].map(scope=>({dataset:{featureScope:scope},setAttribute(){}}));
 const view={innerHTML:'',querySelectorAll:selector=>selector==='[data-feature-scope]'?buttons:[]};
 const esc=s=>String(s??'').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
