@@ -12,6 +12,7 @@
 
 <link rel="apple-touch-icon" sizes="180x180" href="/cratediggin/apple-touch-icon-vinyl.png?v=original-20261016"></head>
 <body>
+<script>if(location.hash.startsWith('#/'))document.body.dataset.playerPresentation=location.hash==='#/'?'open':'idle';else if(['q','region','era','producer','connection','sound','research','sort','collection','coast'].some(key=>new URLSearchParams(location.search).has(key)))document.body.dataset.playerPresentation='idle';</script>
 <a class="skip" href="#view">本文へ</a>
 <header class="top"><a class="brand" href="#/" aria-label="Crate Diggin’ ホーム">CD<span>CRATE<br>DIGGIN’</span></a><nav aria-label="メインメニュー"><a href="#/" data-nav="home">Player</a><a href="#/songs" data-nav="songs">TRACKS</a><a href="#/artists" data-nav="artists">ARTISTS</a><a href="#/producers" data-nav="producers">PRODUCERS</a><a href="#/timeline" data-nav="timeline">Timeline</a><a href="#/about" data-nav="about">About</a><a href="#/editor" data-nav="editor">Editor</a></nav><span class="header-note">CURATED BY DJ NAOYAMAN</span></header>
 <section class="hero" id="hero" aria-labelledby="hero-title">
@@ -21,7 +22,8 @@
 </section>
 <div class="ticker" aria-hidden="true"><div>HIP HOP / SAMPLE CULTURE / GRAFFITI / VINTAGE GROOVES / NEW YORK / OAKLAND / HIP HOP / SAMPLE CULTURE / GRAFFITI / VINTAGE GROOVES / NEW YORK / OAKLAND / </div></div>
 <div class="layout" id="selection">
- <aside class="player" aria-label="音楽プレイヤー">
+ <button type="button" id="player-reveal" aria-controls="listening-player" aria-expanded="false" hidden>プレイヤーを表示</button>
+ <aside id="listening-player" class="player" aria-label="音楽プレイヤー">
   <div class="player-top"><span class="eyebrow">THE LISTENING ROOM</span><span class="live-dot" id="live-dot"></span></div>
   <div class="video-wrap"><div id="yt"></div><div id="album-player-host" hidden></div><button class="start-overlay" id="start">▶<span>PRESS PLAY</span></button></div>
   <div class="now"><span class="eyebrow">NOW ON THE TURNTABLE</span><strong id="now-title">Can I Kick It?</strong><span id="now-artist">A Tribe Called Quest</span><span class="channel" id="now-channel">公式YouTube音源</span></div>

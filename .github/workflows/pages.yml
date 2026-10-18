@@ -50,6 +50,8 @@ jobs:
           python scripts/verify_live_video_works.py
           python scripts/verify_donuts_album.py
           node scripts/verify_album_player.cjs
+          node scripts/verify_player_presentation.cjs
+          python scripts/verify_player_presentation.py
           node scripts/verify_player_intent.cjs
           python scripts/verify_mix_works.py
           python scripts/verify_mix_enrichment.py
@@ -140,6 +142,7 @@ jobs:
           node scripts/verify_crate_naming_browser.cjs || naming_status=$?
           test "$player_intent_status" -eq 0
           test "$naming_status" -eq 0
+          node scripts/verify_player_presentation_browser.cjs
           node scripts/verify_album_browser.cjs
           node scripts/verify_listening_shelves_browser.js
           node scripts/verify_pagination_browser.cjs
@@ -200,6 +203,7 @@ jobs:
             /tmp/work-label-*.png
             /tmp/donuts-album-*.png
             /tmp/player-intent-*.png
+            /tmp/player-presentation-*.png
             /tmp/crate-naming-*.png
             /tmp/mix-enrichment-*.png
             /tmp/shadow-personal-*.png
