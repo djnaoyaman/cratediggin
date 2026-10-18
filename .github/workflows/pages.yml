@@ -169,6 +169,7 @@ jobs:
           test "$naming_status" -eq 0
           visible_art_status=0
           renewal_status=0
+          compact_dilla_status=0
           presentation_status=0
           landscape_status=0
           art_modes_status=0
@@ -180,6 +181,7 @@ jobs:
           node scripts/verify_art_landscape_browser.cjs || landscape_status=$?
           node scripts/verify_responsive_renewal_browser.cjs || responsive_status=$?
           node scripts/verify_renewal_browser.cjs || renewal_status=$?
+          node scripts/verify_compact_list_dilla_browser.cjs || compact_dilla_status=$?
           node scripts/verify_player_presentation_browser.cjs || presentation_status=$?
           test "$navigation_hotfix_status" -eq 0
           test "$responsive_status" -eq 0
@@ -187,6 +189,7 @@ jobs:
           test "$landscape_status" -eq 0
           test "$visible_art_status" -eq 0
           test "$renewal_status" -eq 0
+          test "$compact_dilla_status" -eq 0
           test "$presentation_status" -eq 0
           node scripts/verify_album_browser.cjs
           node scripts/verify_listening_shelves_browser.js
@@ -201,7 +204,6 @@ jobs:
           node scripts/verify_profile_notes_browser.cjs
           node scripts/verify_public_copy_browser.cjs
           node scripts/verify_requested_six_browser.cjs
-          node scripts/verify_compact_list_dilla_browser.cjs
           node scripts/verify_requested_two_browser.cjs
           node scripts/verify_section_references_browser.cjs
           node scripts/verify_art_crate_browser.cjs
