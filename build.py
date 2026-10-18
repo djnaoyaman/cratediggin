@@ -5,6 +5,7 @@ from pathlib import Path
 from listening_shelves import load_shelves
 from catalog import review_state, sample_projection, feature_tracks as select_feature_tracks
 from art_motion import motion_for_track
+from editorial_references import enrich_sections, markdown_reference
 ROOT=Path(__file__).parent
 DIST=ROOT/'dist'
 HOST=os.environ.get('SITE_URL','https://djnaoyaman.github.io/cratediggin').rstrip('/')
@@ -72,7 +73,7 @@ for t in tracks:
         t['art']['transparent']=bool(piece.get('transparent'))
 
 for t in tracks:
-    t['deepdives']=deepdive_map.get((t['artist'].casefold(),t['title'].casefold()),[])
+    t['deepdives']=enrich_sections(t,deepdive_map.get((t['artist'].casefold(),t['title'].casefold()),[]))
     t['researchedSamples']=sample_projection(t)
     t['review']=review_state(t,t['deepdives'])
 (ROOT/'audit-reports').mkdir(exist_ok=True)
@@ -89,8 +90,8 @@ for t in tracks:
     e=html.escape
     body='<article><h1>'+e(t['title'])+'</h1><p>'+e(t['artist'])+'</p><p>'+e(t['deck'])+'</p><h2>'+e(t['essayTitle'])+'</h2>'+''.join('<p>'+e(x)+'</p>' for x in t['essay'])
     body+='<p class="review-summary">'+('深掘り記事あり' if t['deepdives'] else 'リスニングノート')+' · サンプル資料 '+str(len(t['samples']))+' 件'+(' · 確認中 '+e(' / '.join(t['review']['metadataPending'])) if t['review']['metadataPending'] else '')+'</p>'
-    for section in deepdive_map.get((t['artist'].casefold(),t['title'].casefold()),[]):
-        body+='<section class="editorial-deepdive"><h2>'+e(section['heading'])+'</h2><p>'+e(section['text'])+'</p><p>参考資料：<a href="'+e(section['source'],quote=True)+'">'+e(section['sourceLabel'])+'</a></p></section>'
+    for section in t['deepdives']:
+        body+='<section class="editorial-deepdive"><h2>'+e(section['heading'])+'</h2><p>'+e(section['text'])+'</p><p>参考資料：'+ ' / '.join('<a href="'+e(ref['url'],quote=True)+'">'+e(ref['label'])+'</a>' for ref in section['references'])+'</p></section>'
     body+='<h2>制作背景</h2>'+''.join('<h3>'+e(f['title'])+'</h3><p>'+e(f['text'])+'</p>' for f in t['facts'])
     body+='<h2>サンプル元</h2>'+''.join('<h3>'+e(s['artist']+' — '+s['title'])+'</h3><p>'+e(s['role'])+'</p>'+('<a href="https://www.youtube.com/watch?v='+s['youtube']['id']+'">サンプル元のYouTube</a>' if s.get('youtube') else '') for s in t['samples'])
     body+='<p>'+e(t.get('editorialStatus',''))+'</p><p>'+e(t.get('sampleStatus',''))+'</p><h2>出典</h2>'+''.join('<p><a href="'+e(s['url'])+'">'+e(s['label'])+'</a></p>' for s in t['sources'])+'</article>'
@@ -109,7 +110,7 @@ for t in tracks:
     (p/(t['id']+'.html')).write_text(page, encoding='utf-8')
     md='# '+t['title']+'\n\n'+t['artist']+' / '+str(t['year'])+' / '+t['region']+'\n\n## '+t['essayTitle']+'\n\n'+'\n\n'.join(t['essay'])+'\n\n## 制作背景\n\n'+'\n\n'.join('### '+f['title']+'\n\n'+f['text'] for f in t['facts'])+'\n\n## サンプル元\n\n'+'\n\n'.join(s['artist']+' — '+s['title']+'\n\n'+s['role']+('\n\nhttps://www.youtube.com/watch?v='+s['youtube']['id'] if s.get('youtube') else '') for s in t['samples'])+'\n\n## 出典\n\n'+'\n'.join('- ['+s['label']+']('+s['url']+')' for s in t['sources'])+'\n'
     for section in t.get('deepdives', []):
-        md+='\n## '+section['heading']+'\n\n'+section['text']+'\n\n参考資料: ['+section['sourceLabel']+']('+section['source']+')\n'
+        md+='\n## '+section['heading']+'\n\n'+section['text']+'\n\n参考資料: '+ ' / '.join(markdown_reference(ref) for ref in section['references'])+'\n'
     (p/(t['id']+'.md')).write_text(md, encoding='utf-8')
     links.append(HOST+'/songs/'+t['id']+'.html')
 # Search engines need crawlable artist hubs, not only JavaScript hash routes.
