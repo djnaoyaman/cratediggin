@@ -53541,5 +53541,185 @@
       }
     ],
     "context": "No I.D.と再び築いた、2011年のソウルフルなヒップホップ。"
+  },
+  {
+    "id": "kid-cudi-make-her-say",
+    "title": "Make Her Say",
+    "artist": "Kid Cudi feat. Kanye West & Common",
+    "year": 2009,
+    "yearBasis": "オリジナルのシングルとアルバムが発表された2009年。",
+    "album": "Make Her Say — Single / Man on the Moon: The End of Day",
+    "producer": "Kanye West",
+    "producers": [
+      "Kanye West"
+    ],
+    "featuredArtists": [
+      "Kanye West",
+      "Common"
+    ],
+    "scratchCredits": "A-Trak",
+    "label": "Universal Motown",
+    "region": "Cleveland",
+    "scene": "Cleveland / G.O.O.D. Music",
+    "category": "Hip Hop",
+    "moods": [
+      "軽やか"
+    ],
+    "sounds": [
+      "ピアノ",
+      "サンプリング",
+      "スクラッチ"
+    ],
+    "collections": [
+      "midwest"
+    ],
+    "sources": [
+      {
+        "label": "Apple Music — シングルと2009年の原盤表記",
+        "url": "https://music.apple.com/us/album/make-her-say-feat-kanye-west-common-single/1472497551",
+        "kind": "公式配信"
+      },
+      {
+        "label": "OMG.BLOG — Kid Cudi本人インタビュー（2009年5月19日）",
+        "url": "https://omg.blog/omg_a_qa_kid_cudi/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Pitchfork — Tom Breihanによる同時代評（2009年4月14日）",
+        "url": "https://pitchfork.com/reviews/tracks/11181-i-poke-her-face-ft-kanye-west-and-common/",
+        "kind": "専門媒体"
+      },
+      {
+        "label": "YouTube — UMG提供シングルの制作クレジット",
+        "url": "https://www.youtube.com/watch?v=Q6g0SF8U0jY",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — オリジナル・アルバムの曲目・発売日",
+        "url": "https://music.apple.com/us/album/man-on-the-moon-the-end-of-day/1440744775",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Spotify — Explicit Versionシングルと収録時間",
+        "url": "https://open.spotify.com/album/2kVrfOyu2lSHFVswiZmui9",
+        "kind": "公式配信"
+      },
+      {
+        "label": "KidCudiVEVO — 公式クリーン版MV",
+        "url": "https://www.youtube.com/watch?v=Xt22KvnRSL4",
+        "kind": "公式MV"
+      }
+    ],
+    "deck": "Gagaのピアノ版から生まれたフックに、Cudi、Kanye、Commonの声が集まる。",
+    "essayTitle": "ピアノの断片から、三人の遊び場へ",
+    "essay": [
+      "「Make Her Say」は、Kid CudiがKanye WestとCommonを迎えた2009年の一曲。制作はKanye、スクラッチはA-Trak。シングルとして発表され、同年のデビュー・アルバム『Man on the Moon: The End of Day』にも収められた。主役の名前を大きく描いたジャケットには、声で加わる二人だけでなく、レコードを操る手の名前まで記されている。",
+      "出発点は、Lady Gagaの「Poker Face」をピアノで演奏した映像だった。2009年のインタビューでCudiは、KanyeがYouTubeで見つけたその演奏を切り刻んでビートにし、自分は当初フリースタイルになると思っていたと振り返る。完成形から逆算した壮大な計画ではなく、別の曲の中に面白い断片を見つけること。その小さな発見が、一曲を動かし始めた。",
+      "同時代のPitchfork評は、露骨な性的ジョークを批判しながらも、三人が肩の力を抜いて言葉を交わす楽しさを拾っている。結婚や誓いを歌った曲として読み替えるのではなく、その軽口と遊び心を含めて聴きたい。曲の成立背景と、誰かがある出来事の記念に選ぶ理由は、同じでなくていい。ここでは、その二つを別々に残しておく。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        3,
+        4
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "声とスクラッチの役割",
+        "text": "客演はKanye WestとCommon。Kanyeはプロデューサーとしても公式配信クレジットに記載される。シングルのジャケットにはA-Trakのスクラッチ担当も明記されている。",
+        "sources": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "title": "シングルとアルバムを区別",
+        "text": "Explicit Versionシングルは公式配信で3分57秒、アルバム収録版は3分36秒。ここに掲載するプレイヤーは3分18秒の公式クリーン版MV。",
+        "sources": [
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "samples": [
+      {
+        "artist": "Lady Gaga",
+        "title": "Poker Face (The Cherrytree Sessions / piano version)",
+        "year": 2009,
+        "role": "ピアノ版の歌声をKanyeが切り出してビート化。制作過程はCudi本人の証言、Cherrytree Sessions版の特定は同時代のPitchfork評による。",
+        "sources": [
+          1,
+          2
+        ],
+        "main": true
+      }
+    ],
+    "sampleStatus": "Lady Gagaのピアノ版を使ったことは本人の証言と同時代評で確認できます。その他のサンプル元は未確認です。",
+    "listening": [],
+    "connections": [],
+    "editorialCrates": [],
+    "curationNote": "仲間の結婚式が元町の山手十番館であり、その記念にCommonの「Celebrate」とともに選んだ一曲。",
+    "editorSelectionMemory": {
+      "heading": "選曲メモ",
+      "text": "仲間の結婚式が元町の山手十番館であり、その記念にCommonの「Celebrate」とともに選んだ一曲。"
+    },
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "editorialStatus": "掲載プレイヤーは公式クリーン版MV（3分18秒）。配信元情報では日本を対象に含みます。実再生は未確認です。",
+    "youtube": {
+      "id": "Xt22KvnRSL4",
+      "url": "https://www.youtube.com/watch?v=Xt22KvnRSL4",
+      "title": "Kid Cudi - Make Her Say (Clean Version) ft. Kanye West, Common",
+      "channel": "KidCudiVEVO",
+      "type": "Official Music Video (Clean Version)",
+      "official": true,
+      "verified": "2026-10-18",
+      "duration": "PT3M18S",
+      "version": "クリーン版MV（3分18秒）",
+      "versionBasis": "公式タイトルがClean Versionと明記。参考ジャケットのExplicit版シングル（約3分58秒）とは別の掲載バージョン。",
+      "japanRegionStatus": "included",
+      "embedUrl": "https://www.youtube.com/embed/Xt22KvnRSL4",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "verification": "公式ページのregionsAllowedにJP、embedUrl宣言あり。日本での実再生とサイト内埋め込み再生は未確認。"
+    },
+    "art": {
+      "word": "MAKE HER SAY",
+      "tag": "KID CUDI / 2009",
+      "palette": [
+        "#ed1725",
+        "#fffdf8",
+        "#151515",
+        "#ed90b3"
+      ],
+      "paletteSource": "Make Her Say — Single",
+      "paletteSourceUrl": "https://music.apple.com/us/album/make-her-say-feat-kanye-west-common-single/1472497551",
+      "paletteNote": "シングル・ジャケットの白地、鮮紅色の文字、黒い影と帯、淡いピンクの斜線を参照した近似配色。掲載プレイヤーのクリーン版MVとは参照元を分けている。",
+      "lines": [
+        "MAKE HER",
+        "SAY"
+      ],
+      "style": "piece",
+      "seed": 20090609,
+      "profile": "midwest",
+      "lettering": "block",
+      "letteringNote": "参照配色を使った独自文字作品。元ジャケットのロゴを複製せず、携帯画面UIや機器情報は一切含めない。"
+    },
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "requestList": "Owner direct request",
+    "requestRow": "Sentinel_fadf6a29c6408191bbe340bfac16f683",
+    "context": "Kanye制作、Common客演、A-Trakスクラッチによる2009年の一曲。",
+    "versionBasis": "参考ジャケットはExplicit版シングル。掲載音源は公式クリーン版MV（3分18秒）で、同一マスターではありません。",
+    "addedOrder": 472
   }
 ]

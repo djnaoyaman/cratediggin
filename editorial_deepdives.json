@@ -3057,5 +3057,23 @@
         "sourceLabel": "DJBooth — Common本人が語る一人のプロデューサーと作品世界（2011年）"
       }
     ]
+  },
+  {
+    "artist": "Kid Cudi feat. Kanye West & Common",
+    "title": "Make Her Say",
+    "sections": [
+      {
+        "heading": "制作の入口：フリースタイルのつもりだった",
+        "text": "Cudiの2009年の証言では、Kanyeが見つけたGagaのピアノ演奏映像を切り刻み、ビートを作ったことが始まりだった。Cudi自身はフリースタイルになると考えていたが、結果として一曲に育ったという。最初から完成品を目指した制作としてではなく、断片を面白がる発想から読む。",
+        "source": "https://omg.blog/omg_a_qa_kid_cudi/",
+        "sourceLabel": "Kid Cudi本人インタビュー｜OMG.BLOG（2009）"
+      },
+      {
+        "heading": "元ネタの違い：ダンス版ではなくピアノ版",
+        "text": "同時代のPitchfork評が指すのは、通常のダンス・ポップ版ではなく『The Cherrytree Sessions』の「Poker Face」。まず元曲の録音違いを意識すると、同じメロディーでも声と伴奏の質感が変わることが分かる。Gagaを新録の客演歌手とするのではなく、引用された演奏の歌い手として捉えたい。",
+        "source": "https://pitchfork.com/reviews/tracks/11181-i-poke-her-face-ft-kanye-west-and-common/",
+        "sourceLabel": "同時代レビュー｜Pitchfork（2009）"
+      }
+    ]
   }
 ]
