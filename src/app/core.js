@@ -1,3 +1,4 @@
+ function workPlayLabel(s){return ({single:'この曲を聴く',mix:'このミックスを聴く',live_video:'この映像を再生'})[workType(s)]}
  function yearLabel(s){return Number.isInteger(s.year)?String(s.year):'発表年未確認'}
  function yearSort(s){return Number.isInteger(s.year)?s.year:9999}
  function yearDistance(a,b){return Number.isInteger(a.year)&&Number.isInteger(b.year)?Math.abs(yearSort(a)-yearSort(b)):9999}
