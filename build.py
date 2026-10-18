@@ -44,7 +44,7 @@ for t in tracks:
         assert s['url'].startswith('https://')
 DIST.mkdir(exist_ok=True)
 # Remove orphaned generated pages and cards before regenerating.
-for directory, suffixes in ((DIST/'songs', {'.html', '.md'}), (DIST/'og', {'.png'})):
+for directory, suffixes in ((DIST/'songs', {'.html', '.md'}), (DIST/'og', {'.jpg'})):
     if directory.exists():
         for stale in directory.iterdir():
             if stale.is_file() and stale.suffix in suffixes and stale.stem not in ids:

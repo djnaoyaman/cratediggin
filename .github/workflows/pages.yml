@@ -107,7 +107,7 @@ jobs:
           assert {p.stem for p in (root/'tracks').glob('*.html') if p.name!='index.html'} == {t['id'] for t in data}, 'Generated song HTML IDs mismatch'
           assert (root/'tracks'/'index.html').exists(), 'Static song index missing'
           assert len(list((root/'tracks').glob('*.md'))) == len(data), 'Generated Markdown page count mismatch'
-          assert len(list((root/'og').glob('*.png'))) == len(data), 'Generated social image count mismatch'
+          assert len(list((root/'og').glob('*.jpg'))) == len(data), 'Generated social image count mismatch'
           html = (root/'index.html').read_text(encoding='utf-8')
           assert '/cratediggin/tracks/' in html, 'Project Pages links missing base path'
           assert '"//cratediggin/' not in html, 'Broken protocol-relative Pages URLs'
