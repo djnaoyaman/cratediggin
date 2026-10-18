@@ -53388,5 +53388,158 @@
       ],
       "lettering": "block"
     }
+  },
+  {
+    "id": "common-celebrate",
+    "title": "Celebrate",
+    "artist": "Common",
+    "year": 2011,
+    "yearBasis": "オリジナル・アルバム発表年。日本盤CDの2012年とは区別。",
+    "album": "The Dreamer/The Believer",
+    "producer": "No I.D.",
+    "producers": [
+      "No I.D."
+    ],
+    "label": "Think Common Music / Warner Bros.",
+    "region": "Chicago",
+    "scene": "Chicago",
+    "category": "Hip Hop",
+    "moods": [
+      "祝福"
+    ],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "midwest"
+    ],
+    "sources": [
+      {
+        "label": "Warner Music Japan — 公式曲目・No I.D.全曲制作",
+        "url": "https://wmg.jp/common/discography/7936",
+        "kind": "レーベル公式"
+      },
+      {
+        "label": "Apple Music — オリジナル・アルバムの発表年とジャンル",
+        "url": "https://music.apple.com/us/album/the-dreamer-the-believer/484275413",
+        "kind": "公式配信"
+      },
+      {
+        "label": "AllHipHop — Common本人が語るNo I.D.との再結集（2011年）",
+        "url": "https://allhiphop.com/news/common-talks-the-dreamer-the-believer-reuniting-with-no-i-d/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "DJBooth — Common本人が語る一人のプロデューサーと作品世界（2011年）",
+        "url": "https://djbooth.net/features/common-in-mix-1220111/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Amazon Music — オリジナル・アルバムの曲順と米国発売日",
+        "url": "https://music.amazon.com/albums/B006IHEN5C",
+        "kind": "公式配信"
+      },
+      {
+        "label": "YouTube — Think Common/Warner Records公式アルバム音源",
+        "url": "https://www.youtube.com/watch?v=58uykVXeGPA",
+        "kind": "公式音源"
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "connections": [],
+    "editorialCrates": [],
+    "curationNote": "仲間の結婚式が元町の山手十番館であり、その記念に選んだCommonの「Celebrate」。",
+    "editorSelectionMemory": {
+      "heading": "選曲メモ",
+      "text": "仲間の結婚式が元町の山手十番館であり、その記念に選んだCommonの「Celebrate」。"
+    },
+    "youtube": {
+      "id": "58uykVXeGPA",
+      "url": "https://www.youtube.com/watch?v=58uykVXeGPA",
+      "official": true,
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VN,YE,YT,ZA,ZW",
+      "verification": "Common - TopicのThink Common/Warner Records提供音源で、曲名・原作アルバム名・℗2011を照合。canonicalページのregionsAllowedにJP、embedUrl宣言あり。日本での実再生とサイト内埋め込み再生は未確認。",
+      "title": "Celebrate",
+      "channel": "Common - Topic",
+      "channelId": "UCHGKcYq0mKucntOv9-qBRJw",
+      "type": "Official Audio",
+      "verified": "2026-10-18",
+      "version": "オリジナル・アルバム収録音源",
+      "duration": "PT4M4S",
+      "embedUrl": "https://www.youtube.com/embed/58uykVXeGPA",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false
+    },
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "art": {
+      "word": "CELEBRATE",
+      "tag": "COMMON",
+      "palette": [
+        "#241e22",
+        "#59404b",
+        "#b77b36",
+        "#f5df75"
+      ],
+      "paletteSource": "The Dreamer/The Believer",
+      "paletteImage": "https://prod-v2-assets.wmg.jp/uploads/p7936_LLL_a82efc903d.jpg",
+      "paletteNote": "レーベル掲載の実ジャケットを目視確認。暗い褐色と紫を帯びた影、金色の都市光、中央の淡い黄色い光。目視による近似配色で、厳密な抽出値ではない。",
+      "lines": [
+        "CELEBRATE"
+      ],
+      "style": "piece",
+      "seed": 2011122009,
+      "profile": "chicago",
+      "lettering": "block",
+      "letteringNote": "既存ジャケットを転載しない独自の文字表現。参照画像の対称形・都市景観そのものは再現しない。",
+      "paletteSourceUrl": "https://wmg.jp/common/discography/7936"
+    },
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "requestList": "Owner direct request",
+    "requestRow": "Sentinel_d7c3000e67548191b15b4b9e64b00e2e",
+    "addedOrder": 471,
+    "deck": "No I.D.と再び築いたソウルフルなヒップホップ。仲間の結婚式を記念して選んだ一曲。",
+    "essayTitle": "喜びを、同じ場所で分かち合う",
+    "essay": [
+      "「Celebrate」はCommonの2011年作『The Dreamer/The Believer』の九曲目。No I.D.がこの曲を含む全曲のプロデュースを手がけた。祝福を掲げる一曲も、二人で築いたアルバムの流れの中に置かれている。",
+      "当時のAllHipHopの取材でCommonは、No I.D.との再結集を、ヒップホップという文化と表現への愛から語っている。初めから全曲を任せる計画だったのではなく、毎日スタジオで作業するうちにそうなったという。完成した制作名義だけでなく、同じ場所に通い続ける二人の関係から、このアルバムのまとまりを捉えたい。",
+      "DJBoothのインタビューでは、一人のMCと少数のプロデューサーが作る統一感によって、聴き手をアーティストの世界へ迎え入れられるとCommonは説明する。本人が目指したのは、ソウルフルなヒップホップの世界だった。「Celebrate」の祝祭性を、その世界から離れた余興ではなく、人と喜びを分かち合うための入口として読むことができる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        4
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "日本盤との年の違い",
+        "text": "日本盤CDの発売は2012年1月18日。オリジナル・アルバムは2011年。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "アルバムの九曲目",
+        "text": "Warner Music JapanとAmazon Musicの曲順で「Celebrate」は9曲目。Amazon Musicでの表示は4分03秒。",
+        "sources": [
+          0,
+          4
+        ]
+      }
+    ],
+    "context": "No I.D.と再び築いた、2011年のソウルフルなヒップホップ。"
   }
 ]
