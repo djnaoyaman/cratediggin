@@ -287,6 +287,10 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         if route.startswith('#/song/'):
             art=next(t['art'] for t in tracks if t['id']==route.split('/')[-1])
             if art.get('image'): images.append(art['image'])
+        if route.startswith('#/feature/'):
+            feature=next((f for f in features if f['id']==route.split('/')[-1]),None)
+            if feature:
+                images.extend(photo['image'] for photo in feature.get('personalFeature',{}).get('photos',[]))
         if route=='#/editor': images.append('dj-naoyaman-signature-v2.webp')
         if route in ('#/artists','#/producers'):
             kind='artist' if route=='#/artists' else 'producer'

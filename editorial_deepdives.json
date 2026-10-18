@@ -16,10 +16,13 @@
         "sourceLabel": "WhoSampled：サンプル関係の投稿記録"
       },
       {
-        "heading": "もう一歩：なぜインストゥルメンタルで成立するのか",
-        "text": "DJ Shadowは『Endtroducing.....』で、既存の録音を組み合わせながら、歌詞に頼らない展開を作った。『The Number Song』のカウントや声の断片を、意味より音色・拍・場面転換として聴くと、曲の構造が見えやすくなる。これは資料を踏まえた編集上の聴取提案であり、作者がこの曲についてそう説明したという意味ではない。",
-        "source": "https://djmag.com/longreads/solid-gold-how-dj-shadows-endtroducing-built-perfectly-balanced-sample-universe",
-        "sourceLabel": "DJ Mag：アルバムのサンプル構造に関する評論"
+        "heading": "MPCで組み、ADATへスクラッチを重ねる",
+        "text": "Shadowは、MPCで組んだ「The Number Song」のミックスをADATへ録り、残りのトラックに複数のスクラッチ・テイクを重ねたと回想する。ビート制作とターンテーブルの演奏は、一度に完結した作業ではなかった。",
+        "source": "https://www.soundonsound.com/techniques/classic-tracks-dj-shadow-midnight-perfect-world",
+        "sourceLabel": "Sound On Sound：DJ Shadow本人の制作解説（2017）",
+        "sources": [
+          4
+        ]
       },
       {
         "heading": "Tony Alvonのドラムを探す",
@@ -796,10 +799,13 @@
         "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
       },
       {
-        "heading": "原曲から戻って聴く",
-        "text": "David Axelrodの録音を先に聴き、その後にDJ Shadowへ戻る。旋律そのものより、切り取る長さや繰り返し方が夜の雰囲気をどう変えるかに注目する。",
-        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
-        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+        "heading": "打点の前の空気まで残す",
+        "text": "本人は、キックやハットを聞こえる打点より前から鳴らし、立ち上がりと余韻をフェードさせたと説明している。音を拍の頭で機械的に切らず、断片の前後まで設計したことが、この曲の滑らかさにつながっている。",
+        "source": "https://www.soundonsound.com/techniques/classic-tracks-dj-shadow-midnight-perfect-world",
+        "sourceLabel": "Sound On Sound：DJ Shadow本人の制作解説（2017）",
+        "sources": [
+          1
+        ]
       },
       {
         "heading": "五つのレコードを一つの夜へ",
@@ -946,10 +952,13 @@
         "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
       },
       {
-        "heading": "二つのヴァージョンを往復する",
-        "text": "冒頭、ブレイク、終盤をそれぞれ比べ、同じ素材がどこで違う役割を与えられているか聴く。",
-        "source": "https://djshadow.com/collections/music",
-        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+        "heading": "再発の裏面までDJのために使う",
+        "text": "『Endtroducing.....』25周年の公式7インチは、A面にCut Chemistのリミックス、B面にアルバムの音を抜き出した新しいDJツール「Drums, Drops & Scratches」を収めた。リミックスを聴くだけでなく、その素材を次のDJへ手渡すような組み合わせになっている。",
+        "source": "https://djshadow.com/products/dj-shadow-the-number-song-cut-chemist-remix-7-vinyl",
+        "sourceLabel": "DJ Shadow公式：25周年7インチの解説",
+        "sources": [
+          2
+        ]
       },
       {
         "heading": "リミックスを独立した録音として読む",
@@ -976,10 +985,13 @@
         "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
       },
       {
-        "heading": "変化しない部分を見つける",
-        "text": "同じフレーズが続く中で、ドラムや声の断片がいつ加わり、消えるかを聴く。",
-        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
-        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+        "heading": "教則盤の声と、学校の演奏記録",
+        "text": "NPRでこの曲を分解したShadowは、Jeremy Storchのピアノに加え、ドラマーGeorge Marshの語りと、高校の演奏記録に由来するパーカッションを説明した。忘れられた歌だけでなく、音楽を教える声や学校の記録も、新しい音楽の材料になる。",
+        "source": "https://www.northcountrypublicradio.org/news/npr/165145271/dj-shadow-on-sampling-as-a-collage-of-mistakes",
+        "sourceLabel": "NPR：Guy RazによるDJ Shadow本人取材（2012）／NCPR掲載",
+        "sources": [
+          4
+        ]
       },
       {
         "heading": "Jeremy Storchのピアノを聴く",
@@ -1006,10 +1018,13 @@
         "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
       },
       {
-        "heading": "前半と後半の転換",
-        "text": "静かな部分とビートが前へ出る部分の境界を聴く。曲の長さが単なる反復でなく展開のために使われている。",
-        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
-        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+        "heading": "最後の段階で形になった「Stem」のドラム",
+        "text": "「Stem」のドラムについて、Shadowは記憶をたどりながら、大半を一晩で作業し、帰路で聴いて翌日に調整したと振り返る。最終判断をする段階で加えたというドラムに耳を向けると、曲の印象を決める仕事が制作の終盤にも残されていたことがわかる。",
+        "source": "https://thequietus.com/interviews/dj-shadow-reconstructed-best-of-interview/",
+        "sourceLabel": "The Quietus：DJ Shadow本人の曲別回想（2012）",
+        "sources": [
+          3
+        ]
       },
       {
         "heading": "同じ素材が異なる曲に現れる",
@@ -1036,10 +1051,13 @@
         "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
       },
       {
-        "heading": "歌声が戻る間隔",
-        "text": "同じ声が何度現れるか、背景のリズムがその都度どう変わるかを聴く。",
-        "source": "https://www.universal-music.co.jp/dj-shadow/discography/",
-        "sourceLabel": "Universal Music Japan：DJ Shadowのディスコグラフィー"
+        "heading": "遅くした生演奏の揺れを整える",
+        "text": "「Six Days」のドラムは、一見単純でも制作には「Stem」以上に時間を要したとShadowは語る。大きく減速した生演奏のテンポの揺れを扱い、同じ断片の反復と悟らせず、生きた流れとしてつなぐことが難題だった。",
+        "source": "https://thequietus.com/interviews/dj-shadow-reconstructed-best-of-interview/",
+        "sourceLabel": "The Quietus：DJ Shadow本人の曲別回想（2012）",
+        "sources": [
+          3
+        ]
       },
       {
         "heading": "Colonel Bagshotの歌声からたどる",
@@ -1126,10 +1144,13 @@
         "sourceLabel": "DJ Shadow公式Bandcamp：『The Mountain Will Fall』作品解説"
       },
       {
-        "heading": "旧作と並べて聴く",
-        "text": "『Building Steam With a Grain of Salt』と続け、ループの質感と音の空間設計の違いを確かめる。",
-        "source": "https://djshadow.bandcamp.com/album/the-mountain-will-fall",
-        "sourceLabel": "DJ Shadow公式Bandcamp：『The Mountain Will Fall』作品解説"
+        "heading": "アルバムを動かした、DJとしての新しい耳",
+        "text": "本人はLow End Theoryへの出演を、自由に新しい音楽をかける感覚を取り戻した機会として振り返る。その後のAll Basses Coveredで大量の新曲を聴いた経験が、アルバム『The Mountain Will Fall』の制作語彙になった。表題曲を、現場で更新された耳の先に置いて聴きたい。",
+        "source": "https://www.interviewmagazine.com/music/dj-shadow",
+        "sourceLabel": "Interview：DJ Shadow本人取材（2016）",
+        "sources": [
+          2
+        ]
       },
       {
         "heading": "2016年の電子音の構造",
@@ -1156,10 +1177,13 @@
         "sourceLabel": "DJ Shadow公式Bandcamp：『The Mountain Will Fall』作品解説"
       },
       {
-        "heading": "二人のMCを聴き分ける",
-        "text": "声の交替によって同じビートがどう違って聞こえるかを比べる。",
-        "source": "https://djshadow.bandcamp.com/album/the-mountain-will-fall",
-        "sourceLabel": "DJ Shadow公式Bandcamp：『The Mountain Will Fall』作品解説"
+        "heading": "ラップが届いてから、笑いの余白を作る",
+        "text": "Shadowによると、Run The Jewelsはまず基本のビートにラップを乗せ、ホーンはその後に加えられた。歌詞の可笑しさを受け止められる音楽的な手がかりが必要だったという。完成した伴奏へ声を置くだけではなく、声を受けて伴奏を作り変える共作だった。",
+        "source": "https://barks.jp/news/855997/",
+        "sourceLabel": "BARKS：DJ Shadow本人インタビュー（2019）",
+        "sources": [
+          2
+        ]
       },
       {
         "heading": "Run The Jewelsとの音の分業",
@@ -1186,10 +1210,13 @@
         "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
       },
       {
-        "heading": "リズムと言葉の受け渡し",
-        "text": "声が次のMCへ移る瞬間とドラムのアクセントを重ねて聴く。",
-        "source": "https://djshadow.com/collections/music",
-        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+        "heading": "完成させすぎずに、De La Soulへ渡す",
+        "text": "本人はDe La Soulに、ホーンもスクラッチもない簡素なトラックでラップしてもらい、その反応を聴いてから完成させたと説明する。声の受け渡しだけでなく、その反応を聴いて組み直すプロデュースにも耳を向けたい。",
+        "source": "https://barks.jp/news/855997/",
+        "sourceLabel": "BARKS：DJ Shadow本人インタビュー（2019）",
+        "sources": [
+          2
+        ]
       },
       {
         "heading": "De La Soulとの掛け合い",
@@ -1246,10 +1273,13 @@
         "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
       },
       {
-        "heading": "通常版とのA/B比較",
-        "text": "冒頭、ブレイク、終盤の三地点で両版を聴き比べ、音の追加・削除・反復の長さをメモしてみる。",
-        "source": "https://djshadow.com/collections/music",
-        "sourceLabel": "DJ Shadow公式：作品・ヴァージョンのリリース情報"
+        "heading": "クラブで使える一曲にするために",
+        "text": "Shadowは『Endtroducing.....』の多くをクラブ向きではないと感じ、DJが現場でかけられる曲を求めて「Organ Donor」を作り直したと話す。Extended Overhaulは、単なる増量版ではなく、フロアへ向けて用途を変えた再構成として聴きたい。",
+        "source": "https://thequietus.com/interviews/dj-shadow-reconstructed-best-of-interview/",
+        "sourceLabel": "The Quietus：DJ Shadow本人の曲別回想（2012）",
+        "sources": [
+          3
+        ]
       },
       {
         "heading": "通常版との構成の違いを聴く",
@@ -3073,6 +3103,56 @@
         "text": "同時代のPitchfork評が指すのは、通常のダンス・ポップ版ではなく『The Cherrytree Sessions』の「Poker Face」。まず元曲の録音違いを意識すると、同じメロディーでも声と伴奏の質感が変わることが分かる。Gagaを新録の客演歌手とするのではなく、引用された演奏の歌い手として捉えたい。",
         "source": "https://pitchfork.com/reviews/tracks/11181-i-poke-her-face-ft-kanye-west-and-common/",
         "sourceLabel": "同時代レビュー｜Pitchfork（2009）"
+      }
+    ]
+  },
+  {
+    "artist": "The Pharcyde",
+    "title": "Passin' Me By",
+    "sections": [
+      {
+        "heading": "二つの証言が語る、曲の始まり",
+        "text": "Bootie BrownはYo! Rapsの取材で、自分がQuincy Jonesの素材をループし、Fatlipとフックを練ったと振り返る。素材を見つけた人物や作業の順序は、SPINでのJ-Swiftの回想と一致しない。どちらか一人の記憶で起源を確定せず、異なる参加者の証言として並べて読むと、制作への関わり方も見えてくる。",
+        "source": "https://yoraps.com/bootie-brown-pioneering-a-new-wave/",
+        "sourceLabel": "Yo! Raps：Bootie Brown本人への取材（公開日未確認）",
+        "sources": [
+          4,
+          2
+        ]
+      },
+      {
+        "heading": "契約前のデモにあった曲",
+        "text": "Delicious Vinyl共同創業者Mike RossはSPINで、受け取ったデモに「Ya Mama」「Officer」とこの曲が入っていたと語る。彼が惹かれたのは、強さを誇示する人物像ではなく、ユーモアと個人的な語りを持つグループの個性だった。「Passin’ Me By」は、契約後に整えられた代表曲というだけでなく、彼らをレーベルへつないだデモの一曲でもある。",
+        "source": "https://www.spinmagazine.com/2012/06/pharcyde-look-back-20-years-passin-me/",
+        "sourceLabel": "SPIN：Mike Rossが振り返る契約前のデモ（2012年6月28日）",
+        "sources": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "artist": "Mobb Deep",
+    "title": "Shook Ones, Pt. II",
+    "sections": [
+      {
+        "heading": "Jessicaへ戻るための手がかり",
+        "text": "Herbie Hancockの公式作品ページは「Jessica」を『Fat Albert Rotunda』の5曲目として掲載し、1969年の録音日程とWarner Brothersの原盤番号WS-1834を記している。同ページに再録されたBob Blumenthalの1994年の解説は、この曲でHancockがアコースティック・ピアノのソロを取ることに触れる。1994年は解説の年で、原録音の年ではない。",
+        "source": "https://www.herbiehancock.com/music/discography/album/fat-albert-rotunda/",
+        "sourceLabel": "Herbie Hancock公式：原盤情報とBob Blumenthalの1994年解説",
+        "sources": [
+          4
+        ]
+      },
+      {
+        "heading": "反復に、場面の切り替わりを作る",
+        "text": "HavocはSong Exploderで、ピアノと低音の土台だけでは変化が足りず、イントロやコーラスの到来を示す音が必要だったと話す。そこでQuincy Jonesのレコードから別の音を加えたという。同回の資料は、その曲を「Kitty with the Bent Frame」としている。素材には反復を支える役割だけでなく、曲の区切りを知らせる役割も与えられた。",
+        "source": "https://songexploder.net/mobb-deep",
+        "sourceLabel": "Song Exploder：Havocの制作証言と使用曲資料（2020年6月17日）",
+        "sources": [
+          2,
+          1
+        ]
       }
     ]
   }

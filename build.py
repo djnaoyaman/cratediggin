@@ -205,6 +205,14 @@ for f in features:
     for title,key in [('音楽性と背景','context'),('後世に残したもの','legacy'),('私の聴き方','listening'),('作品と系譜をたどる','connections')]:
         body+='<h3>'+title+'</h3><p>'+esc(e[key])+'</p>'
     body+='<p>影響の評価と聴き方はDJ Naoyamanの考察です。</p><h3>参考資料</h3><ul>'+''.join('<li><a href="'+esc(r['url'],quote=True)+'">'+esc(r['label'])+'</a></li>' for r in e['sources'])+'</ul></article>'
+    if f.get('personalFeature'):
+        p=f['personalFeature']
+        refs=lambda xs:'<ul>'+''.join('<li><a href="'+esc(x['url'],quote=True)+'" target="_blank" rel="noopener noreferrer">'+esc(x['label'])+' ↗</a></li>' for x in xs)+'</ul>'
+        personal='<section class="feature-personal" aria-label="DJ Naoyamanの体験"><p class="eyebrow">MY EXPERIENCE</p><h2>'+esc(p['title'])+'</h2><p class="feature-personal-byline">'+esc(p['byline'])+'</p>'+''.join('<p>'+esc(x)+'</p>' for x in p['paragraphs'])+refs(p['references'])+'<div class="feature-photo-grid">'
+        for photo in p['photos']:
+            personal+='<figure><img src="'+BASE_PATH+'/'+esc(photo['image'],quote=True)+'" width="'+str(photo['width'])+'" height="'+str(photo['height'])+'" alt="'+esc(photo['alt'],quote=True)+'" loading="lazy" decoding="async"><figcaption>'+esc(photo['caption'])+'</figcaption></figure>'
+        personal+='</div><p>'+esc(p['eventNote'])+'</p>'+refs(p['eventSources'])+'</section>'
+        body=body.replace('<article class="prose">',personal+'<article class="prose">',1)
     if f.get('noteArticle'):
         note=f['noteArticle']
         body+='<section class="producer-note"><p class="eyebrow">MY LISTENING NOTES</p><h2>noteで読む</h2><h3>'+esc(note['title'])+'</h3><p>'+esc(note['introduction'])+'</p><a href="'+esc(note['url'],quote=True)+'" target="_blank" rel="noopener noreferrer">noteで続きを読む ↗</a></section>'
