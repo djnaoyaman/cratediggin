@@ -7,7 +7,8 @@ from catalog import validate_work,work_count
 tracks=json.loads((ROOT/'tracks.json').read_text());by={t['id']:t for t in tracks};t=by['j-dilla-donuts'];y=t['youtube'];validate_work(t)
 assert t['workType']=='album' and t['countsTowardDailyNewSongs'] is False
 assert y['sourceType']=='playlist' and y['playlistId']=='OLAK5uy_m8VPjbn9rF3ninCB-n_ToxxHH5U3_TkvE' and not y.get('id')
-seq=t['playlistSequence'];assert len(seq)==31 and [x['index'] for x in seq]==list(range(1,32))
+expected=json.loads((ROOT/'scripts/fixtures/donuts-playlist-order.json').read_text());assert y['url']==expected['playlistUrl']
+seq=t['playlistSequence'];assert [{k:x[k] for k in ('index','videoId','title')} for x in seq]==expected['items'];assert len(seq)==31 and [x['index'] for x in seq]==list(range(1,32))
 assert seq[0]['title']=='Donuts (Outro)' and seq[-1]['title']=='Welcome To The Show' and seq[3]['title']=='Light It'
 assert all(re.fullmatch(r'[A-Za-z0-9_-]{11}',x['videoId']) and x['metadataVerified'] for x in seq)
 assert len(t['essay'])==6 and len(t['essaySources'])==6 and all(0<=i<len(t['sources']) for ids in t['essaySources'] for i in ids)

@@ -40,22 +40,7 @@ jobs:
           node --check dist/timeline.js
           git diff --exit-code -- src templates
           python scripts/audit_editorial_depth.py
-          python - <<'PY'
-          import json
-          from pathlib import Path
-          tracks = json.loads(Path('tracks.json').read_text(encoding='utf-8'))
-          assert tracks, 'Catalog must not be empty'
-          assert any(t['id'] == 'dj-shadow-the-number-song' for t in tracks), 'The Number Song missing from source'
-          assert Path('dist/tracks/dj-shadow-the-number-song.html').exists(), 'The Number Song page missing from build'
-          assert 'dj-shadow-the-number-song' in Path('dist/tracks.js').read_text(encoding='utf-8'), 'The Number Song missing from client catalog'
-          expected_audio = {'dj-shadow-the-number-song': 'odlhSQqOXL8', 'dj-shadow-the-number-song-cut-chemist-remix': 'c0CKXOCOX3o'}
-          for track_id, video_id in expected_audio.items():
-              track = next(t for t in tracks if t['id'] == track_id)
-              assert track['youtube']['id'] == video_id, f'Incorrect audio: {track_id}'
-              assert Path(f'dist/tracks/{track_id}.html').exists()
-          assert all(t.get('youtube', {}).get('id') for t in tracks), 'Missing catalog audio'
-          print('Both Number Song versions and all catalog audio IDs verified')
-          PY
+          python scripts/verify_catalog_sources.py
       - name: Audit catalog metadata and link integrity
         run: |
           python scripts/audit_catalog.py
