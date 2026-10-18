@@ -185,3 +185,11 @@ footer{flex-wrap:wrap}footer .page-sharing{flex-shrink:0}
 
 /* Keep native sample controls at least 200px high without an intrinsic mobile width. */
 @media(max-width:600px){.sample-video{width:100%;min-width:0;aspect-ratio:auto;height:200px}}
+
+/* Content-first browsing: only the never-opened common player is collapsed. */
+#player-reveal{display:none;min-height:44px;padding:10px 16px;border:1px solid var(--blue);background:white;color:var(--blue);font:inherit;cursor:pointer;justify-self:start}
+#player-reveal:focus-visible{outline:3px solid var(--blue);outline-offset:3px}
+body[data-player-presentation="idle"] .layout{grid-template-columns:minmax(0,1fr)}
+body[data-player-presentation="idle"] #listening-player{display:none}
+body[data-player-presentation="idle"] #player-reveal:not([hidden]){display:block}
+#listening-player{scroll-margin-top:100px}

@@ -22,7 +22,7 @@ const {chromium}=require('playwright');
   await context.route('https://www.googletagmanager.com/**',r=>r.abort());
   await context.route('https://www.youtube.com/iframe_api',r=>r.fulfill({contentType:'application/javascript',body:`
    window.__players=[];window.YT={Player:function(id,options){
-    const p={options,loadVideoById(video){(window.__loads??=[]).push(video.videoId);queueMicrotask(()=>options.events?.onStateChange?.({data:1}));},cueVideoById(){},playVideo(){(window.__plays??=[]).push(id);options.events?.onStateChange?.({data:1});},pauseVideo(){(window.__pauses??=[]).push(id);options.events?.onStateChange?.({data:2});},stopVideo(){},getDuration(){return 120;},getCurrentTime(){return 0;},seekTo(){},destroy(){}};
+    const p={options,loadVideoById(video){if(getComputedStyle(document.querySelector('.player')).display==='none')throw Error('Playback requested before revealing player');(window.__loads??=[]).push(video.videoId);queueMicrotask(()=>options.events?.onStateChange?.({data:1}));},cueVideoById(){},playVideo(){(window.__plays??=[]).push(id);options.events?.onStateChange?.({data:1});},pauseVideo(){(window.__pauses??=[]).push(id);options.events?.onStateChange?.({data:2});},stopVideo(){},getDuration(){return 120;},getCurrentTime(){return 0;},seekTo(){},destroy(){}};
     const play=p.playVideo,pause=p.pauseVideo;
     p.makeReady=()=>{p.playVideo=play;p.pauseVideo=pause;options.events?.onReady?.({target:p});if(id==='yt')window.__ytReady=true;};
     window.__players.push(p);if(id==='sample-yt'&&window.__delaySample){delete p.playVideo;delete p.pauseVideo;}else queueMicrotask(p.makeReady);return p;
@@ -69,7 +69,7 @@ const {chromium}=require('playwright');
    await page.evaluate(()=>localStorage.clear());await open();
    const excluded=await page.locator('#results .record-card').first().getAttribute('href');
    await page.locator('#results .row-menu').first().click();await page.locator('#results .queue-remove').first().click();
-   await page.locator(button).click();await page.waitForFunction(()=>window.__loads?.length===1);
+   await page.locator('#player-reveal').click();await page.locator(button).click();await page.waitForFunction(()=>window.__loads?.length===1);
    const result=await page.evaluate(()=>({title:document.querySelector('#now-title').textContent,video:window.__loads[0],tracks:window.TRACKS}));
    const removed=result.tracks.find(t=>excluded.endsWith('/'+t.id+'.html'));
    assert.notEqual(result.video,removed.youtube.id);assert.notEqual(result.title,removed.title);
@@ -98,7 +98,7 @@ const {chromium}=require('playwright');
   assert.equal(await page.evaluate(()=>window.__plays.at(-1)),'yt');assert.deepEqual(errors,[]);
   for(const [route,button] of [['/tracks/','#play-filter'],['/artists/tribe.html','#feature-play'],['/guides/first-ten.html','#guide-play']]){
    await page.goto(base+route);await page.waitForFunction(()=>window.__ytReady);
-   await page.locator(button).click();await page.waitForFunction(()=>window.__loads?.length===1);
+   assert.equal(await page.locator('.player').isVisible(),false);await page.locator(button).click();await page.waitForFunction(()=>window.__loads?.length===1);assert.equal(await page.locator('.player').isVisible(),true);
    assert.equal(await page.evaluate(()=>window.dataLayer.filter(x=>x[0]==='event'&&x[1]==='playback_start').length),1);
   }
   console.log('Playback start, exclusion, single-song repeat, delayed sample readiness, queue continuity, removal and cross-tab persistence passed');
