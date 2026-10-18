@@ -52333,5 +52333,807 @@
       ],
       "lettering": "block"
     }
+  },
+  {
+    "id": "finsta-bundy-bizm",
+    "title": "Bizm",
+    "artist": "Finsta Bundy",
+    "year": 1998,
+    "album": "101: The High",
+    "label": "自主盤（FB 001） / 再発：90’s Tapes・HHV",
+    "producer": "Richard Nurse",
+    "producers": [
+      "Richard Nurse"
+    ],
+    "scene": "ブルックリン／Bushwick",
+    "yearBasis": "1998年の12インチ「Boogie Spirit / Bizm」（FB 001）を複数の現物販売資料で照合。2020年はアンソロジー再発年であり初出年ではない。正確な初発売日は未確認。",
+    "sources": [
+      {
+        "label": "90’s Tapes / HHV — Bizm 正規音源・制作クレジット",
+        "url": "https://www.youtube.com/watch?v=GMa2I50QDIM",
+        "kind": "公式音源"
+      },
+      {
+        "label": "90s Tapes — 101: The High",
+        "url": "https://90stapes.bandcamp.com/album/101-the-high",
+        "kind": "レーベル資料"
+      },
+      {
+        "label": "Finsta本人インタビュー — The Find, 2013",
+        "url": "https://thefindmag.com/features/hip-hop-interviews/interview-finsta-of-finsta-bundy/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "VINYL CHAMBER — Boogie Spirit / Bizm 現物盤資料",
+        "url": "https://vinylchamber.com/products/finsta-bundy-boogie-spirit-bizm",
+        "kind": "現物販売資料"
+      },
+      {
+        "label": "Between Music Store — FB 001",
+        "url": "https://www.betweenmusicstore.jp/product/149",
+        "kind": "現物販売資料"
+      }
+    ],
+    "essayTitle": "アルバムの外で続いた、Bushwickの言葉",
+    "essay": [
+      "「Bizm」は、1998年の「Boogie Spirit」と組になった12インチの裏面にある。後年の配信で出会うと2020年の曲に見えるが、それは90s Tapesが散在していたシングルをまとめた年だ。一枚のアルバムだけでキャリアをたどれないFinsta Bundyを、盤の表と裏から読み直す入口になる。",
+      "この曲をDa Beatminerz周辺という大きな括りだけで済ませないことも大切だ。正規配信は制作をRichard Nurseと記し、現物盤の販売資料は「Boogie Spirit」をEvil Dee、「Bizm」をRich Blakと区別する。ここでは確実な公式表記を採用し、別名義の同一人物認定は保留する。隣り合う二曲にも、それぞれの作り手がいる。",
+      "Finstaは、自分たちはヒット曲を狙うことに気を取られず、その時に考えていたことを音楽にしたと話す。この発言は「Bizm」の個別制作談ではないが、彼らの姿勢を知る手がかりだ。大きな売上だけを基準にするのではなく、遠くの聴き手が探し続けたシングルとして、この曲の寿命を捉えたい。"
+    ],
+    "essaySources": [
+      [
+        1,
+        3,
+        4
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        2
+      ]
+    ],
+    "youtube": {
+      "id": "GMa2I50QDIM",
+      "url": "https://www.youtube.com/watch?v=GMa2I50QDIM",
+      "channel": "Finsta Bundy - Topic",
+      "official": true,
+      "type": "Official Audio",
+      "title": "Bizm (feat. Rich Blak)",
+      "duration": "PT3M25S",
+      "regionsAllowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+      "japanRegionStatus": "included",
+      "jpRegionsAllowed": true,
+      "verified": "2026-10-18",
+      "verification": "公開watchページのregionsAllowedにJPを確認。日本国内の実再生・埋め込み再生は未検証。正規再発のフル音源であり、初版マスターとの音声比較は未実施。"
+    },
+    "art": {
+      "word": "BIZM",
+      "tag": "FINSTA BUNDY",
+      "palette": [
+        "#080808",
+        "#f0efe9",
+        "#777777",
+        "#343434"
+      ],
+      "paletteSource": "Finsta Bundy — 101: The High",
+      "paletteSourceUrl": "https://90stapes.bandcamp.com/album/101-the-high",
+      "paletteNote": "黒地、大きな白いグラフィティ文字、上下のモノクロ写真。 レーベルの実ジャケットを目視した近似色。",
+      "visuallyInspected": true,
+      "coverInspected": true,
+      "coverInspectedOn": "2026-10-18",
+      "coverInspectionMethod": "Cloud browser screenshot of label Bandcamp release",
+      "style": "piece",
+      "seed": 675943981,
+      "profile": "east-coast",
+      "lines": [
+        "BIZM"
+      ],
+      "lettering": "block"
+    },
+    "region": "East Coast",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "deck": "「Bizm」は、1998年の「Boogie Spirit」と組になった12インチの裏面にある。後年の配信で出会うと2020年の曲に見えるが、それは90s Tapesが散在していたシングルをまとめた年だ。一枚のアルバムだけでキャリアをたどれないFinsta Bundyを、盤の表と裏から読み直す入口になる。",
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "listening": [],
+    "context": "",
+    "connections": [],
+    "editorialCrates": [],
+    "curationNote": "",
+    "addedOrder": 463,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "members": "",
+    "requestList": "underground-requested-intake",
+    "requestRow": "Sentinel_64dffa29b83881919254875e484aa4f4:18",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "mhz-absotively-posolutely",
+    "title": "Absotively Posolutely",
+    "artist": "MHz",
+    "year": 1999,
+    "album": "Table Scraps",
+    "label": "Fondle ’Em / 再発：Man Bites Dog Records",
+    "producer": "Camu Tao",
+    "producers": [
+      "Camu Tao"
+    ],
+    "scene": "オハイオ／Columbus",
+    "yearBasis": "1999年のFondle ’Em盤「Rocket Science」A3。現物盤カタログと1999年7月のDJ本人の選曲記録を照合。Table Scrapsは2001年の編集盤、今回の正規配信の基準となるMan Bites Dog再発は2009年。初出の正確な日付は未確認。",
+    "sources": [
+      {
+        "label": "Man Bites Dog — 正規音源・Camu Tao制作表記",
+        "url": "https://www.youtube.com/watch?v=vCtMeF1yO-U",
+        "kind": "レーベル公式音源"
+      },
+      {
+        "label": "Man Bites Dog — Table Scraps",
+        "url": "https://manbitesdogrecs.bandcamp.com/album/mhz-table-scraps",
+        "kind": "レーベル資料"
+      },
+      {
+        "label": "André Langenfeld — 1999年7月の放送選曲記録",
+        "url": "https://www.andrelangenfeld.de/tag/saturday-nightflight/page/7/",
+        "kind": "DJ本人の選曲記録"
+      },
+      {
+        "label": "Disk Union — MHz 12インチ・再発盤資料",
+        "url": "https://diskunion.net/artist/72236970",
+        "kind": "現物販売資料"
+      },
+      {
+        "label": "Man Bites Dog本人取材 — IMPOSE",
+        "url": "https://imposemagazine.com/features/man-bites-dog-records",
+        "kind": "レーベル取材"
+      },
+      {
+        "label": "Table Scraps — AllMusic",
+        "url": "https://www.allmusic.com/album/table-scraps-mw0001038491",
+        "kind": "音楽批評"
+      },
+      {
+        "label": "MHzからMHz Legacyへ — ALARM",
+        "url": "https://alarm-magazine.com/2013/resurrecting-a-mhz-legacy-rjd2-and-tage-future-chase-inspiration-in-out-of-room/",
+        "kind": "音楽報道"
+      }
+    ],
+    "essayTitle": "コロンバスから届いた、シングルのもう一面",
+    "essay": [
+      "「Absotively Posolutely」は、オハイオ州ColumbusのMHzを、後のソロ活動からではなく一つの集団として聴き直す曲だ。「Rocket Science」の12インチに収録され、1999年7月のAndré Langenfeldの放送記録にもFondle Emの曲として残る。2001年の編集盤より前に、単独の選曲として遠くへ届いていた。",
+      "RJD2の在籍で知られるグループだからといって、全曲を彼の制作と考えるわけにはいかない。Man Bites Dogが公開したこの音源の説明は、プロデューサーをCamu Taoと明記している。クルーの音を一人の代表者へまとめず、曲ごとの役割から聴き直すと、後年の有名さとは異なる地図が見えてくる。",
+      "『Table Scraps』は新作だけを一度に録ったデビュー盤ではなく、シングルと未発表曲をまとめた編集盤として理解したい。AllMusicもその性格を説明している。同じ一枚の中に制作時期の違う曲が並ぶからこそ、「Absotively Posolutely」は後付けの前史ではなく、当時の独立した到達点として残っている。"
+    ],
+    "essaySources": [
+      [
+        2,
+        3,
+        6
+      ],
+      [
+        0
+      ],
+      [
+        5
+      ]
+    ],
+    "youtube": {
+      "id": "vCtMeF1yO-U",
+      "url": "https://www.youtube.com/watch?v=vCtMeF1yO-U",
+      "channel": "manbitesdogrecords",
+      "official": true,
+      "type": "Official Audio",
+      "title": "MHz - Abosotively Posolutely",
+      "duration": "PT4M50S",
+      "regionsAllowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+      "japanRegionStatus": "included",
+      "jpRegionsAllowed": true,
+      "verified": "2026-10-18",
+      "verification": "公開watchページのregionsAllowedにJPを確認。日本国内の実再生・埋め込み再生は未検証。正規再発のフル音源であり、初版マスターとの音声比較は未実施。"
+    },
+    "art": {
+      "word": "ABSOTIVELY POSOLUTELY",
+      "tag": "MHZ",
+      "palette": [
+        "#612c26",
+        "#b29a42",
+        "#8a8051",
+        "#292927"
+      ],
+      "paletteSource": "MHz — Table Scraps",
+      "paletteSourceUrl": "https://manbitesdogrecs.bandcamp.com/album/mhz-table-scraps",
+      "paletteNote": "左側に低い視点の室内とテーブルの脚、右側は臙脂の面に黄土色の文字と細い縦線。 レーベルの実ジャケットを目視した近似色。",
+      "visuallyInspected": true,
+      "coverInspected": true,
+      "coverInspectedOn": "2026-10-18",
+      "coverInspectionMethod": "Cloud browser screenshot of label Bandcamp release",
+      "style": "piece",
+      "seed": 3621019289,
+      "profile": "east-coast",
+      "lines": [
+        "ABSOTIVELY POSOLUTELY"
+      ],
+      "lettering": "block"
+    },
+    "region": "Midwest",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "midwest"
+    ],
+    "deck": "「Absotively Posolutely」は、オハイオ州ColumbusのMHzを、後のソロ活動からではなく一つの集団として聴き直す曲だ。「Rocket Science」の12インチに収録され、1999年7月のAndré Langenfeldの放送記録にもFondle Emの曲として残る。2001年の編集盤より前に、単独の選曲として遠くへ届いていた。",
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "listening": [],
+    "context": "",
+    "connections": [],
+    "editorialCrates": [],
+    "curationNote": "",
+    "addedOrder": 464,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "members": "",
+    "requestList": "underground-requested-intake",
+    "requestRow": "Sentinel_64dffa29b83881919254875e484aa4f4:3",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "nas-rewind",
+    "title": "Rewind",
+    "artist": "Nas",
+    "year": 2001,
+    "yearBasis": "オリジナル・アルバムの発表年。ミックス作品の年や配信動画の公開年とは区別。",
+    "album": "Stillmatic",
+    "producer": "Large Professor",
+    "producers": [
+      "Large Professor"
+    ],
+    "region": "East Coast",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "sources": [
+      {
+        "label": "YouTube — Columbia公式音源・クレジット",
+        "url": "https://www.youtube.com/watch?v=RhRYq2k8ksU",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — Stillmaticの曲順・ジャケット",
+        "url": "https://music.apple.com/us/album/stillmatic/868691176",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Apple Music — Rewindの制作クレジット",
+        "url": "https://music.apple.com/us/song/868691285",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Westword — Nas本人が語る逆順の物語と音楽観",
+        "url": "https://www.westword.com/music/fighting-the-power-5069453/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Sony Music — Stillmatic日本盤の曲目と発表年",
+        "url": "https://www.sonymusic.co.jp/artist/Nas/discography/SICP-1616",
+        "kind": "レーベル公式"
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプルの曲名単位での照合は未掲載。",
+    "listening": [],
+    "connections": [],
+    "editorialCrates": [],
+    "curationNote": "物語の構成と制作背景から辿る選曲。",
+    "youtube": {
+      "id": "RhRYq2k8ksU",
+      "url": "https://www.youtube.com/watch?v=RhRYq2k8ksU",
+      "official": true,
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "公式アーティストの公開ページで曲名とアルバム音源を照合。regionsAllowedはJPを含む。日本での実再生とサイト内埋め込み再生は未確認。",
+      "title": "Rewind",
+      "channel": "Nas",
+      "type": "Official Audio",
+      "verified": "2026-10-18",
+      "version": "オリジナル・アルバム収録音源"
+    },
+    "art": {
+      "word": "REWIND",
+      "tag": "NAS",
+      "palette": [
+        "#e85f22",
+        "#79929b",
+        "#e8e7de",
+        "#183b36"
+      ],
+      "paletteSource": "Nas — Stillmatic",
+      "paletteNote": "灰青色の空、橙色の服と帽子、白い靴と文字、緑を帯びた壁。 目視参照による近似配色。厳密な色抽出値ではない。",
+      "lines": [
+        "REWIND"
+      ],
+      "style": "piece",
+      "seed": 1588048619,
+      "profile": "east-coast",
+      "lettering": "block",
+      "letteringNote": "既存ジャケットを転載しない独自の文字表現。",
+      "paletteSourceUrl": "https://music.apple.com/us/album/stillmatic/868691176"
+    },
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "requestList": "book1-two-track-intake",
+    "requestRow": 1458,
+    "addedOrder": 465,
+    "label": "Columbia",
+    "deck": "『Stillmatic』収録。Large Professorの制作で、物語を結末から巻き戻す。",
+    "essayTitle": "結末から始める、もう一つの時間",
+    "essay": [
+      "「Rewind」は2001年の『Stillmatic』に収められたNasの曲。アルバムでは「You’re da Man」の後、「One Mic」の前に置かれている。短い一曲を独立した技巧の見せ場として聴くだけでなく、この前後を続けて聴くと、アルバムが場面を切り替える速度にも注意が向く。",
+      "物語は結末から始まり、出来事を逆の順番へ辿る。Westwordの取材が指摘するように、逆転するのは場面の順序だけではなく、物理的な動作の描写でもある。何が起きたかを追うと同時に、どう語ることで時間の向きが変わるのかを聴く。その二つの仕事を聴き手へ渡すラップだ。",
+      "公式クレジットにはLarge ProfessorのプロデュースとKevin Crouseの録音が記される。奇抜な構成をNas一人の言葉の実験として閉じず、声を録り、曲として成立させた制作の側にも目を向けたい。逆順の仕掛けと、前へ進んでいく録音の時間。そのずれを保ったまま一曲が終わる。"
+    ],
+    "essaySources": [
+      [
+        1,
+        4
+      ],
+      [
+        3
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "収録時間",
+        "text": "Apple Musicのアルバム表示は2分13秒。公式YouTubeの動画メタデータは2分14秒。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "作者名義",
+        "text": "公式音源はNasir Jones、Paul Mitchell、Rick Rubin、Lillian Armstrongを作者として記載。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "context": "『Stillmatic』収録。Large Professorの制作で、物語を結末から巻き戻す。",
+    "members": ""
+  },
+  {
+    "id": "kendrick-lamar-the-art-of-peer-pressure",
+    "title": "The Art of Peer Pressure",
+    "artist": "Kendrick Lamar",
+    "year": 2012,
+    "yearBasis": "オリジナル・アルバムの発表年。ミックス作品の年や配信動画の公開年とは区別。",
+    "album": "good kid, m.A.A.d city",
+    "producer": "Tabu",
+    "producers": [
+      "Tabu"
+    ],
+    "region": "West Coast",
+    "scene": "Compton",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "west"
+    ],
+    "sources": [
+      {
+        "label": "YouTube — Kendrick Lamar公式アルバム音源",
+        "url": "https://www.youtube.com/watch?v=t93uK0DKvEk",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — good kid, m.A.A.d cityの曲順・ジャケット",
+        "url": "https://music.apple.com/us/album/good-kid-m-a-a-d-city/1471263898?l=en-US",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Apple Music — The Art of Peer Pressureの制作クレジット",
+        "url": "https://music.apple.com/us/song/1471264097",
+        "kind": "公式配信"
+      },
+      {
+        "label": "GAFFA — Rune RaskとJonas Vestergaardの制作証言",
+        "url": "https://gaffa.dk/nyheder/2012/oktober/suspekt-er-med-pa-kendrick-lamars-debutalbum/",
+        "kind": "制作者の証言"
+      },
+      {
+        "label": "The FADER — Kendrick Lamar本人インタビュー（2012年）",
+        "url": "https://www.thefader.com/2012/10/17/interview-kendrick-lamar",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "NPR / NCPR — Kendrick Lamarが語る友人からの影響",
+        "url": "https://www.northcountrypublicradio.org/news/npr/461129966/kendrick-lamar-i-can-t-change-the-world-until-i-change-myself-first",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプルの曲名単位での照合は未掲載。",
+    "listening": [],
+    "connections": [],
+    "editorialCrates": [],
+    "curationNote": "物語の構成と制作背景から辿る選曲。",
+    "youtube": {
+      "id": "t93uK0DKvEk",
+      "url": "https://www.youtube.com/watch?v=t93uK0DKvEk",
+      "official": true,
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "公式アーティストの公開ページで曲名とアルバム音源を照合。regionsAllowedはJPを含む。日本での実再生とサイト内埋め込み再生は未確認。今回のクラウドブラウザーでは動画を再生できない表示が出たため、再生成功は確認していない。",
+      "title": "The Art of Peer Pressure",
+      "channel": "Kendrick Lamar",
+      "type": "Official Audio",
+      "verified": "2026-10-18",
+      "version": "オリジナル・アルバム収録音源"
+    },
+    "art": {
+      "word": "THE ART OF PEER PRESSURE",
+      "tag": "KENDRICK LAMAR",
+      "palette": [
+        "#dddcd2",
+        "#9b9e81",
+        "#252b24",
+        "#b8946d"
+      ],
+      "paletteSource": "Kendrick Lamar — good kid, m.A.A.d city",
+      "paletteNote": "白い写真枠、くすんだ緑の室内、黒い目隠しと服、暖かな褐色の人物と卓上。 目視参照による近似配色。厳密な色抽出値ではない。",
+      "lines": [
+        "THE ART OF PEER PRESSURE"
+      ],
+      "style": "piece",
+      "seed": 1947756290,
+      "profile": "west-coast",
+      "lettering": "block",
+      "letteringNote": "既存ジャケットを転載しない独自の文字表現。",
+      "paletteSourceUrl": "https://music.apple.com/us/album/good-kid-m-a-a-d-city/1471263898?l=en-US"
+    },
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "requestList": "book1-two-track-intake",
+    "requestRow": 2185,
+    "addedOrder": 466,
+    "label": "Aftermath / Interscope",
+    "deck": "『good kid, m.A.A.d city』収録。仲間への信頼と、そこから生まれる危うい影響を辿る。",
+    "essayTitle": "仲間といるとき、誰になるのか",
+    "essay": [
+      "「The Art of Peer Pressure」は2012年の『good kid, m.A.A.d city』の四曲目。公式配信の制作名義はTabuで、作者にはKendrick Lamar Duckworth、Rune Rask、Jonas Vestergaardが並ぶ。Comptonを描く曲の制作には、デンマークの制作者につながる経路も含まれている。",
+      "NPRの取材でKendrickは、幼いころから一緒に育った友人への信頼や忠誠が、自分への影響力になったと語った。自分をリーダーだと思っていても、仲間の行動に引かれていたという。番組がこの曲を挟んで伝える証言を読むと、同調圧力は単なる弱さではなく、親密さの内側にある難しさとして浮かぶ。",
+      "発売直前のThe FADERで、本人はアルバムを自画像と説明している。現在の考え方へ至るまでには、否定的な経験や家族、道徳の問題を通る必要があったという。その言葉を入口にすれば、本曲の危うい出来事も、武勇伝を積み上げるためだけの場面ではない。いま語る人と、当時その場にいた人の距離を考える章になる。"
+    ],
+    "essaySources": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        5
+      ],
+      [
+        4
+      ]
+    ],
+    "facts": [
+      {
+        "title": "録音と仕上げ",
+        "text": "Derek Aliが録音とミックス、Brian GardnerとMike Bozziがマスタリングとして公式配信に記載。",
+        "sources": [
+          2
+        ]
+      },
+      {
+        "title": "曲の長さ",
+        "text": "アルバムの表示は5分24秒。公式YouTubeの動画メタデータは5分25秒。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "context": "『good kid, m.A.A.d city』収録。仲間への信頼と、そこから生まれる危うい影響を辿る。",
+    "members": ""
+  },
+  {
+    "id": "quasimoto-green-power-original",
+    "title": "Green Power (Original Version)",
+    "artist": "Quasimoto",
+    "album": "Stones Throw Summer 2002 / Yessir Whatever",
+    "year": 2002,
+    "yearBasis": "レーベルのStones Throw Summer 2002商品資料が初出盤とOriginal Versionを特定し、Yessir Whateverへのリマスター再録を明記。2013年は再録年であり初出年ではない。",
+    "scene": "オックスナード",
+    "label": "Stones Throw",
+    "producer": "Madlib",
+    "sources": [
+      {
+        "label": "Quasimoto — Green Power 正規配信音源",
+        "url": "https://www.youtube.com/watch?v=KDkjkQ3FA14",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Stones Throw — Summer 2002／初出と再録の説明",
+        "url": "https://www.stonesthrow.com/store/stones-throw-summer-2002/",
+        "kind": "レーベル公式資料"
+      },
+      {
+        "label": "Stones Throw — Green Power (Original Version) 単曲情報",
+        "url": "https://www.stonesthrow.com/store/stones-throw-summer-2002-08-green-power-original-version/",
+        "kind": "レーベル公式資料"
+      },
+      {
+        "label": "Stones Throw — Yessir Whatever 発売告知（2013年）",
+        "url": "https://www.stonesthrow.com/news/quasimoto-yessir-whatever/",
+        "kind": "レーベル公式資料"
+      },
+      {
+        "label": "Jeff Jank — Bonafideインタビュー／レーベル再掲",
+        "url": "https://www.stonesthrow.com/news/jeff-jank-bonafide-interview/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Stones Throw — Quasimoto artist profile",
+        "url": "https://www.stonesthrow.com/artist/quasimoto/",
+        "kind": "レーベル公式資料"
+      }
+    ],
+    "essayTitle": "「Original」の一語から、白盤へ戻る",
+    "essay": [
+      "「Green Power」は、曲名だけでは同じ音源にたどり着けない。ここで扱うのは、Stones Throwが「Original Version」と呼ぶ録音だ。レーベルは『Stones Throw Summer 2002』の曲が、後に『Yessir Whatever』へリマスターして収められたと説明している。『The Unseen』収録版へ置き換えず、2002年の白盤と2013年の再録を結びつけて聴く。小さな括弧書きが、曲の通ってきた別の道を教えてくれる。",
+      "Quasimotoの出発点は、最初から広く売るための作品ではなかった。レーベルによれば、Madlibがオックスナードで自分と身近な仲間のために作ったビート・テープに、その声は現れたという。本人と分身が並ぶ設定を、変わった声の仕掛けだけに縮めるのはもったいない。私的な遊びが作品になる過程そのものが、この名義の背景にある。きれいな経歴へ整理される以前の音に向かう入口として、この一曲を置きたい。",
+      "2013年の『Yessir Whatever』は、およそ十二年間に作られた十二曲をまとめた作品で、廃盤や希少盤の曲と未発表曲が共存する。制作はMadlib、マスタリングはDave Cooley。ここで選んだ正規配信は、その再録盤の音源である。制作年の異なる断片が新しい順序で出会う編集を、単なる余り物の整理と決めつけないこと。録音が作られた時と、聴き手へ届き直す時を分けると、一曲の寿命が見えてくる。"
+    ],
+    "essaySources": [
+      [
+        1,
+        2
+      ],
+      [
+        5
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "youtube": {
+      "id": "KDkjkQ3FA14",
+      "url": "https://www.youtube.com/watch?v=KDkjkQ3FA14",
+      "channel": "Quasimoto - Topic",
+      "official": true,
+      "type": "Official Audio",
+      "version": "2002 Original Version, officially remastered for Yessir Whatever (2013); not The Unseen version",
+      "regionsAllowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+      "jpRegionsAllowed": true,
+      "japanRegionStatus": "included",
+      "verification": "Watch-page DOM meta[itemprop=regionsAllowed] explicitly includes JP. Actual playback from Japan and embedded playback have not been tested.",
+      "verified": "2026-10-18",
+      "title": "Green Power",
+      "duration": "PT2M43S"
+    },
+    "region": "West Coast",
+    "category": "Hip Hop",
+    "producers": [
+      "Madlib"
+    ],
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "west"
+    ],
+    "deck": "「Green Power」は、曲名だけでは同じ音源にたどり着けない。ここで扱うのは、Stones Throwが「Original Version」と呼ぶ録音だ。レーベルは『Stones Throw Summer 2002』の曲が、後に『Yessir Whatever』へリマスターして収められたと説明している。『The Unseen』収録版へ置き換えず、2002年の白盤と2013年の再録を結びつけて聴く。小さな括弧書きが、曲の通ってきた別の道を教えてくれる。",
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "listening": [],
+    "context": "",
+    "connections": [],
+    "editorialCrates": [],
+    "curationNote": "再生音源は2002年Original Versionの2013年公式リマスター。The Unseen版ではない。",
+    "addedOrder": 467,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "members": "",
+    "requestList": "next-requested-research",
+    "requestRow": "Sentinel_214906870ee48191adaa59b1a339df3e:1",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "art": {
+      "word": "GREEN POWER (ORIGINAL VERSION)",
+      "tag": "QUASIMOTO",
+      "palette": [
+        "#ededeb",
+        "#c8c8c6",
+        "#171916",
+        "#898987"
+      ],
+      "paletteSource": "Various — Stones Throw Summer 2002 (STWL1)",
+      "paletteSourceUrl": "https://www.stonesthrow.com/store/stones-throw-summer-2002/",
+      "paletteNote": "初出ホワイトレーベル盤の実物写真。白いラベルと薄灰の盤面、黒い外周、灰色の陰影を目視参照した近似値。後年の黄色いQuasimotoジャケットからは採色していない。",
+      "visuallyInspected": true,
+      "coverInspected": true,
+      "coverInspectionMethod": "Cloud browser screenshot of original release image",
+      "coverInspectedOn": "2026-10-18",
+      "style": "piece",
+      "seed": 53030888,
+      "profile": "west-coast",
+      "lines": [
+        "GREEN POWER (ORIGINAL VERSION)"
+      ],
+      "lettering": "block"
+    }
+  },
+  {
+    "id": "gza-duel-of-the-iron-mic",
+    "title": "Duel of the Iron Mic",
+    "artist": "GZA",
+    "album": "Liquid Swords",
+    "year": 1995,
+    "yearBasis": "正規配信の1995年Geffen原盤表記とGZA本人へのアルバム回顧取材を照合。配信の1月1日表記は発売日として採用しない。",
+    "scene": "ニューヨーク",
+    "label": "Geffen",
+    "producer": "RZA",
+    "sources": [
+      {
+        "label": "GZA — Duel of the Iron Mic 正規配信音源",
+        "url": "https://www.youtube.com/watch?v=PJqou7PFTk0",
+        "kind": "公式音源"
+      },
+      {
+        "label": "GZA — Liquid Swords 正規作品情報",
+        "url": "https://music.apple.com/us/album/liquid-swords/1440835438",
+        "kind": "正規リリース情報"
+      },
+      {
+        "label": "GZA — Sword Play／Wax Poetics曲別インタビュー",
+        "url": "https://magazine.waxpoetics.com/article/wu-tang-clans-gza-runs-down-every-track-off-liquid-swords/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "GZA — Liquid Swords二十周年インタビュー／SPIN",
+        "url": "https://www.spinmagazine.com/2015/11/gza-liquid-swords-20-years-anniversary-interview/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "GZA — The Cornell Daily Sun interview（2009年）",
+        "url": "https://www.cornellsun.com/article/2009/04/chatting-gza",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Monty Ross — Liquid Swords映像制作インタビュー／StockX",
+        "url": "https://stockx.com/news/gza-monty-ross-and-the-making-of-liquid-swords/",
+        "kind": "制作当事者インタビュー"
+      }
+    ],
+    "essayTitle": "緻密な言葉にも、仲間が割って入る余地がある",
+    "essay": [
+      "GZAはWax Poeticsの曲別取材で、「Duel of the Iron Mic」をアルバムで最も好きな曲かもしれないと振り返る。気に入っているのは自分の言葉だけではなく、RZAのビート、録音の響き、Ol’ Dirty Bastardが参加した時の喜びまで含む一曲の出来上がりだった。語彙の多さで知られるMCを、文字だけで採点しないこと。本人の評価には、声を受け止める音と、仲間が持ち込む予測しきれない存在感も入っている。",
+      "その完成形へは、即座にたどり着いたわけではない。GZAはこの曲でいろいろな方法を試し、書くのに時間をかけたと説明する。別の取材でも、文章や単語を何度も直して、ビートと韻が互いを支える形を探すと話した。流れるように聞こえる言葉の背後に、組み直す作業がある。巧さを早口や即興の速さだけで測るのではなく、どの言葉をどの位置へ残したかに耳を向ける手がかりになる。",
+      "『Liquid Swords』の客演についてGZAは、仲間を迎える余地は開けておきながら、参加がなくても自分で作品を支えられるようにしていたと述べている。人数の多さは、主役の不在を埋める仕掛けではない。この曲もソロと集団の二択で分けず、一人の作品の中で複数の声がどう役割を持つかを考えたい。RZAの制作とGZAの構成、その上で交わる仲間の声が、個人名義の盤を閉じた独白にしない。"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "youtube": {
+      "id": "PJqou7PFTk0",
+      "url": "https://www.youtube.com/watch?v=PJqou7PFTk0",
+      "channel": "GZA - Topic",
+      "official": true,
+      "type": "Official Audio",
+      "version": "original Liquid Swords vocal album recording; official UMG delivery",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "jpRegionsAllowed": true,
+      "japanRegionStatus": "included",
+      "verification": "Watch-page DOM meta[itemprop=regionsAllowed] explicitly includes JP. Actual playback from Japan and embedded playback have not been tested.",
+      "verified": "2026-10-18",
+      "title": "Duel Of The Iron Mic",
+      "duration": "PT4M7S"
+    },
+    "region": "East Coast",
+    "category": "Hip Hop",
+    "producers": [
+      "RZA"
+    ],
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "deck": "GZAはWax Poeticsの曲別取材で、「Duel of the Iron Mic」をアルバムで最も好きな曲かもしれないと振り返る。気に入っているのは自分の言葉だけではなく、RZAのビート、録音の響き、Ol’ Dirty Bastardが参加した時の喜びまで含む一曲の出来上がりだった。語彙の多さで知られるMCを、文字だけで採点しないこと。本人の評価には、声を受け止める音と、仲間が持ち込む予測しきれない存在感も入っている。",
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "listening": [],
+    "context": "",
+    "connections": [],
+    "editorialCrates": [],
+    "curationNote": "",
+    "addedOrder": 468,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "members": "",
+    "requestList": "next-requested-research",
+    "requestRow": "Sentinel_2d59a5ffe380819191e3b2774b737ccc:37",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "art": {
+      "word": "DUEL OF THE IRON MIC",
+      "tag": "GZA",
+      "palette": [
+        "#8c2521",
+        "#17202a",
+        "#69b4c2",
+        "#c08245"
+      ],
+      "paletteSource": "GZA — Liquid Swords (1995)",
+      "paletteSourceUrl": "https://stockx.com/news/gza-monty-ross-and-the-making-of-liquid-swords/",
+      "paletteNote": "当事者インタビューに掲載されたオリジナル・ジャケットを目視。赤い縁と背景、濃紺の衣服、水色の文字、人物の黄土色から近似配色を選択。数値抽出ではない。",
+      "visuallyInspected": true,
+      "coverInspected": true,
+      "coverInspectionMethod": "Cloud browser screenshot of original release image",
+      "coverInspectedOn": "2026-10-18",
+      "style": "piece",
+      "seed": 2040565303,
+      "profile": "east-coast",
+      "lines": [
+        "DUEL OF THE IRON MIC"
+      ],
+      "lettering": "block"
+    }
   }
 ]
