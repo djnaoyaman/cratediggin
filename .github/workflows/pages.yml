@@ -134,8 +134,12 @@ jobs:
           python -m http.server 8765 --directory /tmp/crate-preview >/tmp/crate-preview.log 2>&1 &
           server=$!
           trap 'kill "$server"' EXIT
-          node scripts/verify_player_intent_browser.cjs
-          node scripts/verify_crate_naming_browser.cjs
+          player_intent_status=0
+          naming_status=0
+          node scripts/verify_player_intent_browser.cjs || player_intent_status=$?
+          node scripts/verify_crate_naming_browser.cjs || naming_status=$?
+          test "$player_intent_status" -eq 0
+          test "$naming_status" -eq 0
           node scripts/verify_album_browser.cjs
           node scripts/verify_listening_shelves_browser.js
           node scripts/verify_pagination_browser.cjs
