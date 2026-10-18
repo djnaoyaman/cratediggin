@@ -65,6 +65,7 @@ jobs:
           python scripts/verify_profile_notes.py
           python scripts/verify_public_copy.py
           python scripts/verify_reader_copy_cleanup.py
+          python scripts/verify_common_celebrate.py
           python scripts/verify_section_reference_units.py
           python scripts/verify_section_reference_output.py .
           python scripts/verify_social_sharing_static.py
@@ -150,6 +151,7 @@ jobs:
           node scripts/verify_requested_two_browser.cjs
           node scripts/verify_section_references_browser.cjs
           node scripts/verify_art_crate_browser.cjs
+          node scripts/verify_common_celebrate_browser.cjs
           node scripts/verify_deep_rooted_browser.cjs
           node scripts/verify_requested_next_browser.cjs
           node scripts/verify_requested_following_browser.cjs
@@ -181,6 +183,7 @@ jobs:
             /tmp/inline-bandcamp-*.png
             /tmp/section-references-*.png
             /tmp/art-crate-*.png
+            /tmp/common-celebrate-*.png
           if-no-files-found: ignore
           retention-days: 3
       - uses: actions/upload-pages-artifact@v4

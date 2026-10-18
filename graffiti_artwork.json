@@ -9344,6 +9344,26 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "common-celebrate",
+      "title": "Celebrate",
+      "artist": "Common",
+      "album": "The Dreamer/The Believer",
+      "palette": [
+        "#241e22",
+        "#59404b",
+        "#b77b36",
+        "#f5df75"
+      ],
+      "paletteSource": "The Dreamer/The Believer",
+      "paletteNote": "レーベル掲載の実ジャケットを目視確認。暗い褐色と紫を帯びた影、金色の都市光、中央の淡い黄色い光。目視による近似配色で、厳密な抽出値ではない。",
+      "coverReference": "https://wmg.jp/common/discography/7936",
+      "status": "ready",
+      "image": "assets/graffiti/common-celebrate-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
