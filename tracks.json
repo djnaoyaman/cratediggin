@@ -49281,5 +49281,1386 @@
     "requestList": "owner-restored-next8",
     "requestRow": "Sentinel_6f90bdec572c8191ac763b2b15c7e503:40",
     "addedOrder": 439
+  },
+  {
+    "id": "a-tribe-called-quest-excursions",
+    "title": "Excursions",
+    "artist": "A Tribe Called Quest",
+    "year": 1991,
+    "region": "New York",
+    "scene": "Queens / Native Tongues",
+    "category": "Jazz Rap",
+    "moods": [
+      "重厚",
+      "グルーヴ"
+    ],
+    "album": "The Low End Theory",
+    "label": "Jive",
+    "producer": "A Tribe Called Quest",
+    "members": "Q-Tip、Phife Dawg、Ali Shaheed Muhammad",
+    "youtube": {
+      "id": "hrMf6fjtzuM",
+      "channel": "Certified",
+      "type": "公式配信音源",
+      "verified": "2026-10-17",
+      "url": "https://www.youtube.com/watch?v=hrMf6fjtzuM",
+      "official": true,
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+      "verification": "公式配信の曲名・演者・版を照合。公開地域情報は日本を含む。日本での実再生とサイト内再生は未確認。"
+    },
+    "art": {
+      "word": "EXCURSIONS",
+      "tag": "A TRIBE CALLED QUEST",
+      "style": "piece",
+      "seed": 1991,
+      "profile": "ny-subway",
+      "palette": [
+        "#df4b56",
+        "#199b69",
+        "#080b09",
+        "#b12b3a"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/the-low-end-theory/278911460",
+      "paletteNote": "黒地に赤い縞の人物、緑の曲線的なアルバム名。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "lines": [
+        "EXCURSIONS"
+      ],
+      "lettering": "block",
+      "letteringNote": "地域と作品の印象をもとにした独自の編集判断。"
+    },
+    "deck": "アルバムの扉を開けるのは、低音の一歩。過去のレコードと今の声が、同じ時間を歩き出す。",
+    "essayTitle": "低音が、先に道を作る。",
+    "essay": [
+      "『The Low End Theory』は「Excursions」から始まる。アルバム名を説明する前に、まず低音の存在をこちらへ渡す構成だ。派手な導入を待たず、反復のどこを足場にするかを探してみたい。低音を旋律として追う聴き方と、ドラムに対する位置として追う聴き方を行き来すると、曲の入口が広くなる。",
+      "正規配信クレジットでは、Q-Tipがヴォーカルとプログラミング、Ali Shaheed MuhammadがDJ、グループが制作、Bob Powerが録音とミックスを担当する。音を選ぶことと、選んだ音同士が同じ空間に住めるよう整えること。その両方によって、この曲の輪郭はできている。担当者の名前は、音をどんな層に分けて聴けるかの地図でもある。",
+      "Q-Tipは父のレコードやジャズへの関心を語る一方、制作では音を切り分け、別の拍へ置く発想を説明している。昔の音楽を尊重することと、そのまま保存することは同じではない。「Excursions」を懐かしいジャズの飾りとしてではなく、違う時間を新しいリズムへ組み直す曲として聴くと、アルバム最初の一歩の強さが見えてくる。"
+    ],
+    "facts": [
+      {
+        "title": "1991年、アルバム冒頭",
+        "text": "グループ公式ディスコグラフィーの1曲目。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "役割が分かる曲別クレジット",
+        "text": "Q-Tipの声とプログラミング、AliのDJ、Bob Powerの録音・ミックスを掲載。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "冒頭の低音を旋律として追い、その後ドラムとの位置関係へ注意を移す。",
+      "アルバムの一曲目として再生し、「Buggin’ Out」への流れを味わう。"
+    ],
+    "context": "アルバムの扉を開けるのは、低音の一歩。過去のレコードと今の声が、同じ時間を歩き出す。",
+    "sources": [
+      {
+        "label": "Certified — 「Excursions」公式音源",
+        "url": "https://www.youtube.com/watch?v=hrMf6fjtzuM",
+        "kind": "公式音源"
+      },
+      {
+        "label": "A Tribe Called Quest公式 — 『The Low End Theory』",
+        "url": "https://atribecalledquest.com/blogs/discography/1991-the-low-end-theory",
+        "kind": "公式作品情報"
+      },
+      {
+        "label": "Apple Music — 「Excursions」演奏・制作クレジット",
+        "url": "https://music.apple.com/us/song/278911462",
+        "kind": "正規配信クレジット"
+      },
+      {
+        "label": "Red Bull Music Academy — Q-Tipの公開講義",
+        "url": "https://www.redbullmusicacademy.com/lectures/q-tip/",
+        "kind": "本人への取材"
+      },
+      {
+        "label": "Tape Op — Bob Powerが語るループと演奏の時間感覚",
+        "url": "https://tapeop.com/interviews/60/bob-power",
+        "kind": "本人への取材"
+      }
+    ],
+    "producers": [
+      "A Tribe Called Quest"
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム",
+      "ベース"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく編集上の選曲。",
+    "addedOrder": 440,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
+    ],
+    "requestList": "owner-restored-first8",
+    "requestRow": "Sentinel_aaa36f2a920c819181f2807f6da11dc7:16",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "pete-rock-cl-smooth-in-the-flesh",
+    "title": "In the Flesh",
+    "artist": "Pete Rock & C.L. Smooth",
+    "year": 1994,
+    "region": "New York",
+    "scene": "Mount Vernon / Soul Brother",
+    "category": "Jazz Rap",
+    "moods": [
+      "重厚",
+      "グルーヴ"
+    ],
+    "album": "The Main Ingredient",
+    "label": "Elektra",
+    "producer": "Pete Rock / C.L. Smooth",
+    "members": "Pete Rock、C.L. Smooth",
+    "youtube": {
+      "id": "x35cDDp-NE4",
+      "channel": "Pete Rock Official",
+      "type": "公式配信音源",
+      "verified": "2026-10-17",
+      "url": "https://www.youtube.com/watch?v=x35cDDp-NE4",
+      "official": true,
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VN,YE,YT,ZA,ZW",
+      "verification": "公式配信の曲名・演者・版を照合。公開地域情報は日本を含む。日本での実再生とサイト内再生は未確認。"
+    },
+    "art": {
+      "word": "IN THE FLESH",
+      "tag": "PETE ROCK & C.L. SMOOTH",
+      "style": "piece",
+      "seed": 1994,
+      "profile": "ny-subway",
+      "palette": [
+        "#d8cd7b",
+        "#e3e0cc",
+        "#16213a",
+        "#4c6185"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/the-main-ingredient/1435628405",
+      "paletteNote": "クリーム色と黄色の縁・文字、紺色のスタジオ写真、青い衣服。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "lines": [
+        "IN THE FLESH"
+      ],
+      "lettering": "block",
+      "letteringNote": "地域と作品の印象をもとにした独自の編集判断。"
+    },
+    "deck": "一人の声を包むだけでなく、複数の声へ場所を渡す。制作の手つきと人の集まる気配が重なる一曲。",
+    "essayTitle": "その場で生まれる音、その場に残る声。",
+    "essay": [
+      "『The Main Ingredient』後半の「In the Flesh」は、二人の名前を掲げたアルバムの中に、さらに声の輪を広げる曲だ。主役と伴奏を一対一で考えるより、同じトラックを違う声が使う場面として聴きたい。拍は続いているのに、話者が替わると空間の広さまで変わる。その変化を追うことが曲への入口になる。",
+      "Rhino/Elektraの公式配信はPete RockだけでなくC.L. SmoothもProducerとして記している。作る人とラップする人をきれいに二分する説明では、盤に残る役割を落としてしまう。誰がどの工程を担ったかを名前だけで完全に再現することはできないが、少なくとも作品は二人の協働として示されている。",
+      "聴き返すときは、ヴァースの始まりと終わりに注意を絞ってみたい。次の声へ移る前に、どれほどの間があるのか。前の言葉の余韻を残して入るのか、それとも拍を踏み直すのか。複数の演者がいる曲では、個々のラップを比べるだけでなく、つなぎ目を聴くことも一つの楽しみになる。曲全体の流れを、声の交代から辿る入口だ。"
+    ],
+    "facts": [
+      {
+        "title": "1994年の第2作から",
+        "text": "『The Main Ingredient』14曲目。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "共同の制作表記",
+        "text": "公式配信ではPete RockとC.L. Smoothの両名をProducerに掲載。",
+        "sources": [
+          0,
+          4
+        ]
+      }
+    ],
+    "samples": [],
+    "listening": [
+      "声が替わるたび、同じ伴奏のどこが前へ出て聞こえるかを確かめる。",
+      "アルバム後半の流れで聴き、単独再生とは違う曲の入り口を味わう。"
+    ],
+    "context": "一人の声を包むだけでなく、複数の声へ場所を渡す。制作の手つきと人の集まる気配が重なる一曲。",
+    "sources": [
+      {
+        "label": "Rhino/Elektra — 「In the Flesh」公式配信",
+        "url": "https://www.youtube.com/watch?v=x35cDDp-NE4",
+        "kind": "公式音源・クレジット"
+      },
+      {
+        "label": "Apple Music — 『The Main Ingredient』作品情報",
+        "url": "https://music.apple.com/us/album/the-main-ingredient/1435628405",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "REVOLT — Pete Rock本人の制作回想",
+        "url": "https://www.revolt.tv/article/2021-04-22/55141/studio-sessions-pete-rock-shares-over-25-years-of-the-notorious-b-i-g-j-dilla-and-heavy-d-stories",
+        "kind": "制作取材"
+      },
+      {
+        "label": "WhoSampled — 「In the Flesh」の参加者と関連曲",
+        "url": "https://www.whosampled.com/sample/114256/Al%27-Tariq-Rawcotiks-No-Question-Pete-Rock-%26-C.L.-Smooth-Rob-O-Deda-In-the-Flesh/",
+        "kind": "楽曲データベース"
+      },
+      {
+        "label": "Qobuz — 「In the Flesh」配信クレジット",
+        "url": "https://www.qobuz.com/no-en/album/the-main-ingredient-pete-rock-cl-smooth/ugsvgt7q1trua",
+        "kind": "公式配信クレジット"
+      }
+    ],
+    "producers": [
+      "Pete Rock",
+      "C.L. Smooth"
+    ],
+    "connections": [],
+    "sounds": [
+      "ドラム",
+      "ベース"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "jazz-mellow"
+    ],
+    "curationNote": "音の質感・構成・聴きどころに基づく編集上の選曲。",
+    "addedOrder": 441,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "essaySources": [
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        0,
+        4
+      ],
+      []
+    ],
+    "requestList": "owner-restored-first8",
+    "requestRow": "Sentinel_aaa36f2a920c819181f2807f6da11dc7:19",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。"
+  },
+  {
+    "id": "nas-n-y-state-of-mind-pt-ii",
+    "title": "N.Y. State of Mind Pt. II",
+    "artist": "Nas",
+    "year": 1999,
+    "yearBasis": "公式配信に記載された収録作品の発表年。配信ページの月日は版・地域により異なる。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "I Am...",
+    "label": "Columbia",
+    "producer": "DJ Premier",
+    "producers": [
+      "DJ Premier"
+    ],
+    "sources": [
+      {
+        "label": "YouTube — 公式音源・クレジット",
+        "url": "https://www.youtube.com/watch?v=cVNRjPpo68I",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — 収録作品・ジャケット",
+        "url": "https://music.apple.com/us/album/i-am/170439443",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Music Week — DJ Premierが語る続編へのためらい",
+        "url": "https://www.musicweek.com/interviews/read/50-years-of-hip-hop-dj-premier-on-jay-z-nas-notorious-b-i-g-more/088367",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "LEVEL — Nasと制作陣が語る流出音源とアルバム構想",
+        "url": "https://www.levelman.com/nas-the-lost-tapes-oral-history/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "GQ — NasとDJ Premierの共同インタビュー",
+        "url": "https://www.gq.com/story/nas-and-dj-premier-finally-locked-in-for-a-full-album",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "deck": "『I Am...』に収録された「N.Y. State of Mind」の第二部。第一部とは別の1999年発表作品。",
+    "essayTitle": "続編を作る怖さまで、作品の一部として",
+    "essay": [
+      "「N.Y. State of Mind Pt. II」は、Nasの1999年作『I Am...』に収録された続編である。公式配信ではDJ Premierがプロデュースとミックスを担い、Nasir JonesとChristopher Martinが作者として並ぶ。1994年の第一部と名前が近くても、同じ録音の別表記ではない。五年後の作品として独立して向き合う必要がある。",
+      "2023年のMusic Weekの取材でPremierは、第二部を求められたとき、最初の曲を台無しにするのが怖くて当初は乗り気ではなかったと語っている。続編の成立には、名曲のブランドを利用する気軽さより、既に聴き手の記憶になった作品を動かすためらいがあった。後年にはこの続編を気に入っているとも述べている。",
+      "この証言は、第一部を基準に優劣だけを決める聴き方から少し離れる助けになる。同じ名前を使うことで、制作側も以前の達成を意識せざるを得なかった。その重さを抱えながら新しいアルバムに配置したこと自体が、NasとPremierの関係を語る。過去を消さず、しかし過去だけにもならないための第二部だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "録音担当",
+        "text": "Eddie Sanchoが録音、Dexter Thibouがアシスタントとして記載される。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "作品の日付",
+        "text": "公式配信は『I Am...』の発売日を1999年4月6日とする。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "context": "『I Am...』に収録された「N.Y. State of Mind」の第二部。第一部とは別の1999年発表作品。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "作品の文脈と制作背景に基づく選曲。",
+    "youtube": {
+      "id": "cVNRjPpo68I",
+      "url": "https://www.youtube.com/watch?v=cVNRjPpo68I",
+      "official": true,
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "公式配信の曲名・演者・収録作品を照合。公開ページの地域メタデータは日本（JP）を含む。日本の利用環境での実再生とサイト内埋め込み再生は未確認。",
+      "title": "N.Y. State of Mind Pt. II",
+      "channel": "Nas",
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "version": "オリジナル・アルバム収録音源"
+    },
+    "art": {
+      "word": "N.Y. STATE OF MIND PT. II",
+      "tag": "NAS",
+      "palette": [
+        "#d9aa45",
+        "#61402a",
+        "#f2eee0",
+        "#241710"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/i-am/170439443",
+      "paletteNote": "金色のファラオ像、焦げ茶の縞、白い余白と文字。 目視参照による近似配色。厳密な色抽出値ではない。",
+      "lines": [
+        "N.Y. STATE OF MIND PT. II"
+      ],
+      "style": "piece",
+      "seed": 1275622073,
+      "profile": "ny-subway",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "requestList": "owner-restored-next8",
+    "requestRow": "Sentinel_6f90bdec572c8191ac763b2b15c7e503:28",
+    "addedOrder": 442
+  },
+  {
+    "id": "common-chi-city",
+    "title": "Chi-City",
+    "artist": "Common",
+    "year": 2005,
+    "yearBasis": "公式配信に記載された収録作品の発表年。配信ページの月日は版・地域により異なる。",
+    "region": "Chicago",
+    "scene": "Chicago",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "Be",
+    "label": "Geffen",
+    "producer": "Kanye West",
+    "producers": [
+      "Kanye West"
+    ],
+    "sources": [
+      {
+        "label": "YouTube — 公式音源・クレジット",
+        "url": "https://www.youtube.com/watch?v=e9IoEt-TWEg",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — 収録作品・ジャケット",
+        "url": "https://music.apple.com/us/album/be/1440726298",
+        "kind": "公式配信"
+      },
+      {
+        "label": "MVRemix — Commonが語る次作の制作意図（2005年4月）",
+        "url": "https://www.mvremix.com/urban/interviews/common05.shtml",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "MVRemix — 「Chi-City」の一節への本人回答（2005年8月）",
+        "url": "https://www.mvremix.com/urban/interviews/common05-2.shtml",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Jim DeRogatis — CommonとKanye Westの共同制作",
+        "url": "https://www.jimdero.com/News2005/CommonKanyeFeatureMay22.htm",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "UMG公式ストア — 『Be』20周年盤の曲順",
+        "url": "https://shop.udiscovermusic.com/collections/all-products/products/common-be-20th-anniversary-edition-translucent-yellow-marble-blend-2lp",
+        "kind": "レーベル公式"
+      }
+    ],
+    "deck": "『Be』の一曲。故郷の名を掲げることと、同業者への敬意は矛盾しない。",
+    "essayTitle": "街の名前を、狭い境界にしない",
+    "essay": [
+      "「Chi-City」はCommonの2005年作『Be』に収録された、Kanye Westプロデュースの曲。街の名を表題へ置くとき、ラッパーは住所だけでなく、自分が何を代表したいかも示す。ここではシカゴという場所を出発点にしつつ、Commonがどんなヒップホップを信じるのかという問いまで広がっていく。",
+      "発売前のMVRemixでCommonは、次作に求めたものを生々しいヒップホップとソウルだと説明し、そのためにKanyeとJ Dillaへ向かったと語っている。これは単に旧作へ戻る選択ではない。前作で別の可能性を試した演者が、新しい共同制作者との関係を通じて、自分の言葉を置く場所を選び直す作業だった。",
+      "その制作意図を踏まえるなら、街の看板は閉じた所属証明ではなく、誰と何を作るかを決める足場として読める。故郷を名乗りながら、影響源や尊敬するMCは街の外にもいる。地方性と広い系譜を同時に持てることが、Commonの位置を考える鍵になる。曲のタイトルだけから排他的な宣言と決めつけずに聴きたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "アルバム内の位置",
+        "text": "20周年盤の公式曲順ではB面の冒頭に置かれている。",
+        "sources": [
+          5
+        ]
+      },
+      {
+        "title": "制作の組み合わせ",
+        "text": "本曲のプロデューサーはKanye West。『Be』全曲が同一プロデューサーではない。",
+        "sources": [
+          0,
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "context": "『Be』の一曲。故郷の名を掲げることと、同業者への敬意は矛盾しない。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "midwest"
+    ],
+    "editorialCrates": [],
+    "curationNote": "作品の文脈と制作背景に基づく選曲。",
+    "youtube": {
+      "id": "e9IoEt-TWEg",
+      "url": "https://www.youtube.com/watch?v=e9IoEt-TWEg",
+      "official": true,
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "公式配信の曲名・演者・収録作品を照合。公開ページの地域メタデータは日本（JP）を含む。日本の利用環境での実再生とサイト内埋め込み再生は未確認。",
+      "title": "Chi-City",
+      "channel": "Common",
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "version": "オリジナル・アルバム収録音源"
+    },
+    "art": {
+      "word": "CHI-CITY",
+      "tag": "COMMON",
+      "palette": [
+        "#c8bb35",
+        "#8f8b31",
+        "#191b13",
+        "#eee4b5"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/be/1440726298",
+      "paletteNote": "黄緑から金色の背景、黒い帽子と髭、黄褐色の肌、白い小さな文字。 目視参照による近似配色。厳密な色抽出値ではない。",
+      "lines": [
+        "CHI-CITY"
+      ],
+      "style": "piece",
+      "seed": 2325323769,
+      "profile": "chicago",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "requestList": "owner-restored-next8",
+    "requestRow": "Sentinel_6f90bdec572c8191ac763b2b15c7e503:2",
+    "addedOrder": 443
+  },
+  {
+    "id": "common-the-corner",
+    "title": "The Corner",
+    "artist": "Common",
+    "year": 2005,
+    "yearBasis": "公式配信に記載された収録作品の発表年。配信ページの月日は版・地域により異なる。",
+    "region": "Chicago",
+    "scene": "Chicago",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "Be",
+    "label": "Geffen",
+    "producer": "Kanye West",
+    "producers": [
+      "Kanye West"
+    ],
+    "sources": [
+      {
+        "label": "YouTube — 公式音源・クレジット",
+        "url": "https://www.youtube.com/watch?v=B9g2z0i2qdQ",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — 収録作品・ジャケット",
+        "url": "https://music.apple.com/us/album/be/1440726298",
+        "kind": "公式配信"
+      },
+      {
+        "label": "MVRemix — The Last Poetsとの再会と共演",
+        "url": "https://www.mvremix.com/urban/interviews/common05-2.shtml",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Jim DeRogatis — Commonが語る生活を描く姿勢",
+        "url": "https://www.jimdero.com/News2005/CommonKanyeFeatureMay22.htm",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Another Man — The Last Poetsが語る共同体",
+        "url": "https://www.anothermanmag.com/life-culture/10344/the-last-poets-talk-beyonce-blackness-and-why-they-feel-sorry-for-kanye",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "URB — Commonが語る『Be』の長さと前作",
+        "url": "https://urbmagazine.substack.com/p/common-the-urb-interview-by-oliver",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "deck": "CommonとThe Last Poetsが交わる『Be』の一曲。街角を、世代をつなぐ場所として読む。",
+    "essayTitle": "街角から、複数の世代の声を聞く",
+    "essay": [
+      "「The Corner」は2005年の『Be』に収録され、公式音源にもThe Last Poetsの名が並ぶ。Commonの曲に先行世代の表現者が参加することで、街角という日常的な場所が、異なる時代の言葉が集まる場にもなる。ゲストの名を単なる権威の印として見るより、それぞれの声が同じ作品にいる理由を考えたい。",
+      "Commonは2005年の取材で、以前からつながりがあったThe Last Poetsと、Alicia Keysの本の催しで再会したと説明した。その後、「The Corner」に彼らを迎えたいとKanyeと考えたという。世代間の共演は、抽象的な歴史の整理だけで生まれたわけではない。詩を介した実際の出会いが、録音へ続いていた。",
+      "同時期のJim DeRogatisの取材では、Commonは人々を一面的に描かず、暮らしの全体を表したいという立場を示している。この姿勢を本曲の入口にすると、街角を危険や貧困だけの記号へ縮めずに済む。そこで話し、過ごし、他人と関わる人々の場所として読むこと。先行世代の声も、その複雑さを受け止めるために聞こえてくる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "演者の表示",
+        "text": "公式配信ではCommonに加えてThe Last Poetsを明記している。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "作品の所在",
+        "text": "『Be』のアルバム音源を掲載。後発の再編集版や別曲への置き換えではない。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "context": "CommonとThe Last Poetsが交わる『Be』の一曲。街角を、世代をつなぐ場所として読む。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "midwest"
+    ],
+    "editorialCrates": [],
+    "curationNote": "作品の文脈と制作背景に基づく選曲。",
+    "youtube": {
+      "id": "B9g2z0i2qdQ",
+      "url": "https://www.youtube.com/watch?v=B9g2z0i2qdQ",
+      "official": true,
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "公式配信の曲名・演者・収録作品を照合。公開ページの地域メタデータは日本（JP）を含む。日本の利用環境での実再生とサイト内埋め込み再生は未確認。",
+      "title": "The Corner",
+      "channel": "Common",
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "version": "オリジナル・アルバム収録音源"
+    },
+    "art": {
+      "word": "THE CORNER",
+      "tag": "COMMON",
+      "palette": [
+        "#c8bb35",
+        "#8f8b31",
+        "#191b13",
+        "#eee4b5"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/be/1440726298",
+      "paletteNote": "黄緑から金色の背景、黒い帽子と髭、黄褐色の肌、白い小さな文字。 目視参照による近似配色。厳密な色抽出値ではない。",
+      "lines": [
+        "THE CORNER"
+      ],
+      "style": "piece",
+      "seed": 3568547435,
+      "profile": "chicago",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "requestList": "owner-restored-next8",
+    "requestRow": "Sentinel_6f90bdec572c8191ac763b2b15c7e503:34",
+    "addedOrder": 444
+  },
+  {
+    "id": "common-the-food-live",
+    "title": "The Food (Live)",
+    "artist": "Common",
+    "year": 2005,
+    "yearBasis": "公式配信に記載された収録作品の発表年。配信ページの月日は版・地域により異なる。",
+    "region": "Chicago",
+    "scene": "Chicago",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "Be",
+    "label": "Geffen / UMG",
+    "producer": "Kanye West",
+    "producers": [
+      "Kanye West"
+    ],
+    "sources": [
+      {
+        "label": "YouTube — 公式音源・クレジット",
+        "url": "https://www.youtube.com/watch?v=nEOmdL2aIoM",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — 収録作品・ジャケット",
+        "url": "https://music.apple.com/us/album/be/1440726298",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Okayplayer — 『Be』に収録されたテレビ・ライヴ版",
+        "url": "https://www.okayplayer.com/10-things-you-might-not-have-known-about-commons-masterful-comeback-album-be/574172",
+        "kind": "作品解説"
+      },
+      {
+        "label": "URB — Commonが語る「The Food」の始まり",
+        "url": "https://urbmagazine.substack.com/p/common-the-urb-interview-by-oliver",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "UMG公式ストア — 20周年盤とインストゥルメンタル盤",
+        "url": "https://shop.udiscovermusic.com/collections/all-products/products/common-be-20th-anniversary-edition-translucent-yellow-marble-blend-2lp",
+        "kind": "レーベル公式"
+      }
+    ],
+    "deck": "掲載するのは『Be』収録の「The Food (Live)」。スタジオ版とは区別する。",
+    "essayTitle": "ライヴの出来事を、アルバムの一曲にする",
+    "essay": [
+      "ここで取り上げる「The Food」は、『Be』に収録された「The Food (Live)」である。公式配信も曲名にLiveと明記している。CommonとKanye Westによる曲を探すとき、同名のスタジオ音源と混ぜず、このアルバムで選ばれた版を入口にすることが大切だ。題名が同じでも、聴き手が出会う演奏の条件は同じではない。",
+      "Okayplayerの『Be』解説は、収録版をテレビ番組『Chappelle’s Show』での演奏として紹介している。映像のために行われたパフォーマンスが、映像から離れてアルバムへ入った。この選択は、録音作品をスタジオで磨いた音だけの集まりと考える見方を広げる。ある場で起きた出来事も、作品を構成する一曲になれる。",
+      "そのため本曲では、完成度という言葉を演奏の均一さだけに結びつけずに聴きたい。アルバムにライヴ版を置くことは、曲そのものに加え、その曲を人前で差し出す瞬間も保存することだ。声と伴奏の細部を実際に確かめながら、なぜこの版が作品に残されたのかを考える余地がある。スタジオ版の代用品として扱う必要はない。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        4
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "歌唱のクレジット",
+        "text": "公式音源はKanye Westをプロデューサーとバック・ヴォーカルの両方で記載。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "録音とミックス",
+        "text": "Andrew Dawsonは録音とミックス、Manny Marroquinはミックスとして掲載される。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "context": "掲載するのは『Be』収録の「The Food (Live)」。スタジオ版とは区別する。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "midwest"
+    ],
+    "editorialCrates": [],
+    "curationNote": "作品の文脈と制作背景に基づく選曲。",
+    "youtube": {
+      "id": "nEOmdL2aIoM",
+      "url": "https://www.youtube.com/watch?v=nEOmdL2aIoM",
+      "official": true,
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "公式配信の曲名・演者・収録作品を照合。公開ページの地域メタデータは日本（JP）を含む。日本の利用環境での実再生とサイト内埋め込み再生は未確認。",
+      "title": "The Food (Live)",
+      "channel": "Common",
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "version": "アルバム収録ライヴ版"
+    },
+    "art": {
+      "word": "THE FOOD (LIVE)",
+      "tag": "COMMON",
+      "palette": [
+        "#c8bb35",
+        "#8f8b31",
+        "#191b13",
+        "#eee4b5"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/be/1440726298",
+      "paletteNote": "黄緑から金色の背景、黒い帽子と髭、黄褐色の肌、白い小さな文字。 目視参照による近似配色。厳密な色抽出値ではない。",
+      "lines": [
+        "THE FOOD (LIVE)"
+      ],
+      "style": "piece",
+      "seed": 4005920442,
+      "profile": "chicago",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "requestList": "owner-restored-next8",
+    "requestRow": "Sentinel_3bec992ffb388191ac0dc90268027eb1:37",
+    "addedOrder": 445,
+    "versionBasis": "『Be』の正規アルバム収録版を選定。UMG公式の20周年盤はオリジナル曲順のB2を「The Food (Live)」と明記し、公式配信も同名で収録する。"
+  },
+  {
+    "id": "masta-ace-good-ol-love",
+    "title": "Good Ol Love",
+    "artist": "Masta Ace",
+    "year": 2004,
+    "yearBasis": "公式配信に記載された収録作品の発表年。配信ページの月日は版・地域により異なる。",
+    "region": "New York",
+    "scene": "New York",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "album": "A Long Hot Summer",
+    "label": "M3",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "sources": [
+      {
+        "label": "YouTube — 公式音源・クレジット",
+        "url": "https://www.youtube.com/watch?v=8LUpQtLHFGc",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — 収録作品・ジャケット",
+        "url": "https://music.apple.com/us/album/a-long-hot-summer/184880108",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Below System Records — 公式映像と制作クレジット",
+        "url": "https://www.youtube.com/watch?v=Wjc_gPObZqQ",
+        "kind": "レーベル公式映像"
+      },
+      {
+        "label": "RapReviews — Masta Ace本人インタビュー（2004年）",
+        "url": "https://rapreviews.com/interview/mastaace.html",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "deck": "『A Long Hot Summer』収録。9th Wonderの制作と、Masta Aceの長編構成が交わる一曲。",
+    "essayTitle": "一曲の入口から、物語の前後へ",
+    "essay": [
+      "「Good Ol Love」はMasta Aceの2004年作『A Long Hot Summer』に収録された曲で、レーベルの公式映像はプロデューサーを9th Wonderと記している。長い活動歴を持つMCと次の世代の制作家が同じ曲で出会う。その組み合わせを名前の新旧だけで捉えず、曲がどんな作品の中に置かれたのかまで辿りたい。",
+      "同年のRapReviewsの取材でAceは、若い才能を世に送り出す足場を作りたいと説明した。また、短編小説を書き、人物を組み立てることにも取り組んでいたと語る。ラップの曲を書くことと、登場人物のいる物語を考えることが、彼の中では遠く離れた仕事ではなかった。",
+      "この背景を知ると、一曲だけを気に入ることと、アルバムの物語を追うことは対立しなくなる。「Good Ol Love」を独立した入口にし、その後で曲と曲の間の関係へ戻ることができる。聴き手がどこから入っても、作品の前後を探索する余地が残されている。Aceの長編的な仕事を、単曲の魅力が閉ざす必要はない。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "公式音源の発売表示",
+        "text": "公式音源は2004年8月3日、権利表記はM3。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "配信提供",
+        "text": "掲載音源のYouTubeへの配信提供元はSEEDと明記されている。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "context": "『A Long Hot Summer』収録。9th Wonderの制作と、Masta Aceの長編構成が交わる一曲。",
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "curationNote": "作品の文脈と制作背景に基づく選曲。",
+    "youtube": {
+      "id": "8LUpQtLHFGc",
+      "url": "https://www.youtube.com/watch?v=8LUpQtLHFGc",
+      "official": true,
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "公式配信の曲名・演者・収録作品を照合。公開ページの地域メタデータは日本（JP）を含む。日本の利用環境での実再生とサイト内埋め込み再生は未確認。",
+      "title": "Good Ol Love",
+      "channel": "Masta Ace Incorporated - Topic",
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "version": "オリジナル・アルバム収録音源"
+    },
+    "art": {
+      "word": "GOOD OL LOVE",
+      "tag": "MASTA ACE",
+      "palette": [
+        "#bf8039",
+        "#733e28",
+        "#f1eade",
+        "#33262b"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/a-long-hot-summer/184880108",
+      "paletteNote": "褐色と橙色の石造りの階段、白い服、暗い窓、赤の小さなロゴ。 目視参照による近似配色。厳密な色抽出値ではない。",
+      "lines": [
+        "GOOD OL LOVE"
+      ],
+      "style": "piece",
+      "seed": 2395462739,
+      "profile": "ny-subway",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    },
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "requestList": "owner-restored-next8",
+    "requestRow": "Sentinel_6f90bdec572c8191ac763b2b15c7e503:35",
+    "addedOrder": 446
+  },
+  {
+    "id": "med-cant-hold-on",
+    "title": "Can't Hold On",
+    "artist": "MED",
+    "year": 2005,
+    "yearBasis": "正規アルバムの初出年",
+    "region": "West Coast",
+    "scene": "カリフォルニア／Oxnard",
+    "category": "Hip Hop",
+    "album": "Push Comes To Shove",
+    "label": "Stones Throw",
+    "producer": "制作名義未確定",
+    "producers": [],
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "west"
+    ],
+    "sources": [
+      {
+        "label": "MED — Can’t Hold On 正規音源",
+        "url": "https://www.youtube.com/watch?v=Rw3mFq9XjMk",
+        "kind": "公式資料"
+      },
+      {
+        "label": "Stones Throw — Push Comes To Shove",
+        "url": "https://www.stonesthrow.com/store/push-comes-to-shove/",
+        "kind": "公式資料"
+      },
+      {
+        "label": "Stones Throw — Push 12-inch",
+        "url": "https://www.stonesthrow.com/store/push/",
+        "kind": "公式資料"
+      },
+      {
+        "label": "Stones Throw掲載の発売時レビュー",
+        "url": "https://www.stonesthrow.com/news/push-comes-to-shove-news/",
+        "kind": "レーベル再掲の同時代レビュー"
+      },
+      {
+        "label": "MED interview, 2002",
+        "url": "https://www.stonesthrow.com/news/med-interview/",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "deck": "「Can’t Hold On」はMEDのデビュー・アルバム『Push Comes To Shove』に収められた曲だ。",
+    "essayTitle": "前へ押すデビュー盤の中で、記憶に足を止める",
+    "essay": [
+      "「Can’t Hold On」はMEDのデビュー・アルバム『Push Comes To Shove』に収められた曲だ。アルバム名が前進する力を思わせる一方、Stones Throwが掲載した発売時のレビューは、本曲と「Special」を感傷や回想の側にある曲として捉えている。盤の勢いを止める余白が、MEDの語り手としての幅を見せる。",
+      "その内省を、後から加えた別の人格と考える必要はない。2002年のインタビューでMEDは、自分のスタイルをストリートでの経験に根ざすものとし、聴き手に何かを学んでもらうこととMCとしての技量を示すことの両方を挙げていた。技巧を誇る曲と、経験を振り返る曲は、その説明の中では対立しない。",
+      "レコードとしての入口も一つではなかった。「Can’t Hold On」は「Push」と組み合わされた12インチにも収録され、ストリート版、ラジオ版、インストゥルメンタルが用意された。アルバムの中で回想に向かう曲が、別の面ではDJが選び、声とビートをそれぞれ扱えるレコードでもあった。作品を通して聴く時間と、一曲を現場へ持ち出す時間がここで交わる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        4
+      ],
+      [
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "アルバムの制作陣",
+        "text": "デビュー盤全体にはMadlib、Oh No、J Dilla、Just Blazeが参加している。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しません。",
+    "listening": [],
+    "context": "「Can’t Hold On」はMEDのデビュー・アルバム『Push Comes To Shove』に収められた曲だ。",
+    "connections": [],
+    "editorialCrates": [],
+    "curationNote": "作品の文脈と制作背景に基づく選曲。",
+    "youtube": {
+      "id": "Rw3mFq9XjMk",
+      "url": "https://www.youtube.com/watch?v=Rw3mFq9XjMk",
+      "official": true,
+      "kind": "正規アルバム音源",
+      "version": "original album recording",
+      "jpRegionsAllowed": true,
+      "regionsAllowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+      "verification": "公開watchページのDOM meta[itemprop=regionsAllowed]を確認。日本からの実再生試験ではない。",
+      "verifiedAt": "2026-10-17",
+      "title": "Can't Hold On",
+      "description": "Provided to YouTube by Stones Throw Records LLCCan't Hold On · MEDPush Comes To Shove℗ 2005 Stones Throw RecordsReleased on: 2005-05-31Main  Artist: MEDAuto-...",
+      "channel": "MED - Topic",
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "japanRegionStatus": "included"
+    },
+    "members": "",
+    "addedOrder": 447,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "requestRow": "Sentinel_6f90bdec572c8191ac763b2b15c7e503:44",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "art": {
+      "word": "CAN'T HOLD ON",
+      "tag": "MED",
+      "lines": [
+        "CAN'T HOLD ON"
+      ],
+      "palette": [
+        "#16473e",
+        "#f2f6f1",
+        "#171f1c",
+        "#a37762"
+      ],
+      "paletteSource": "MED — Push Comes To Shove (2005)",
+      "paletteSourceUrl": "https://www.stonesthrow.com/store/push-comes-to-shove/",
+      "paletteNote": "濃緑の石壁、白い帽子とシャツの人物、白いMEDロゴ。 目視参照による近似配色。",
+      "style": "piece",
+      "seed": 1954046872,
+      "profile": "west-coast",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    }
+  },
+  {
+    "id": "med-where-im-from",
+    "title": "Where I'm From",
+    "artist": "MED feat. Aloe Blacc",
+    "year": 2010,
+    "yearBasis": "2010年のWhere I’m From / Classic 12インチ初出。アルバムClassicは2011年。",
+    "region": "West Coast",
+    "scene": "カリフォルニア／Oxnard",
+    "category": "Hip Hop",
+    "album": "Classic",
+    "label": "Stones Throw",
+    "producer": "Oh No",
+    "producers": [
+      "Oh No"
+    ],
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "west"
+    ],
+    "sources": [
+      {
+        "label": "MED feat. Aloe Blacc — Where I’m From 正規音源",
+        "url": "https://www.youtube.com/watch?v=ocPFVfJJ4rc",
+        "kind": "公式資料"
+      },
+      {
+        "label": "Stones Throw — Where I’m From / Classic single",
+        "url": "https://www.stonesthrow.com/news/med-where-im-from-aloe-blacc-classic-talib-kweli-12-inch-single/",
+        "kind": "公式資料"
+      },
+      {
+        "label": "Stones Throw — Classic album announcement",
+        "url": "https://www.stonesthrow.com/news/med-classic/",
+        "kind": "公式資料"
+      },
+      {
+        "label": "Stones Throw — Where I’m From video",
+        "url": "https://www.stonesthrow.com/news/video-med-aloe-blacc-where-im-from/",
+        "kind": "公式資料"
+      },
+      {
+        "label": "Stones Throw — Classic cover and tracklist",
+        "url": "https://www.stonesthrow.com/store/classic/",
+        "kind": "公式資料"
+      },
+      {
+        "label": "Oh No discusses Dr. No’s Oxperiment",
+        "url": "https://www.stonesthrow.com/news/oh-no-discussing-dr-no-s-oxperiment-in-remix-mag/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Stones Throw — MED, Hold U",
+        "url": "https://www.stonesthrow.com/news/mp3-med-hold-u/",
+        "kind": "公式資料"
+      }
+    ],
+    "deck": "「Where I’m From」はMEDとAloe Blaccが組み、Oh Noが制作した曲。",
+    "essayTitle": "出身地を語る声と、世代を越える歌",
+    "essay": [
+      "「Where I’m From」はMEDとAloe Blaccが組み、Oh Noが制作した曲。アルバム『Classic』より先に、2010年の12インチで姿を現した。もう一方の面はTalib Kweliを迎えた「Classic」で、そちらの制作はKarriem Riggins。二曲をひとまとめの制作陣で扱わず、声とビートの組み合わせを一曲ずつ確かめたい。",
+      "2011年のアルバム告知でMEDは、『Classic』をあらゆる世代へ届く音楽として説明し、自分自身や地域の現在の問題を扱いながら、人としての成長も聴いてほしいと語っている。「Where I’m From」という出発点を示す題も、その言葉と並べると、過去の地名を懐かしむだけでなく、今を生きる場所へ目を向ける入口になる。",
+      "『Classic』ではMadlibが十曲を手掛け、その周囲にOh No、Karriem Riggins、Georgia Anne Muldrow、The Alchemistの制作曲が置かれた。「Where I’m From」をその一部として聴くと、一人のMCを中心に複数の制作者の視点が集まる構成が分かる。Ross Harris監督の映像も作られ、アルバムに先行していた曲にもう一つの入口を与えた。"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "ジャケットの担当",
+        "text": "アルバム告知はEric ColemanとJeff Jankをアートワーク担当として記している。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しません。",
+    "listening": [],
+    "context": "「Where I’m From」はMEDとAloe Blaccが組み、Oh Noが制作した曲。",
+    "connections": [],
+    "editorialCrates": [],
+    "curationNote": "作品の文脈と制作背景に基づく選曲。",
+    "youtube": {
+      "id": "ocPFVfJJ4rc",
+      "url": "https://www.youtube.com/watch?v=ocPFVfJJ4rc",
+      "official": true,
+      "kind": "正規アルバム音源",
+      "version": "original album recording",
+      "jpRegionsAllowed": true,
+      "regionsAllowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+      "verification": "公開watchページのDOM meta[itemprop=regionsAllowed]を確認。日本からの実再生試験ではない。",
+      "verifiedAt": "2026-10-17",
+      "title": "Where I'm From",
+      "description": "Provided to YouTube by Stones Throw Records LLCWhere I'm From · MED · Aloe BlaccClassic℗ 2011 Stones Throw RecordsReleased on: 2011-11-01Main  Artist: MEDFea...",
+      "channel": "MED - Topic",
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "japanRegionStatus": "included"
+    },
+    "albumYear": 2011,
+    "members": "",
+    "addedOrder": 448,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "requestRow": "Sentinel_3bec992ffb388191ac0dc90268027eb1:52",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "art": {
+      "word": "WHERE I'M FROM",
+      "tag": "MED feat. Aloe Blacc",
+      "lines": [
+        "WHERE I'M FROM"
+      ],
+      "palette": [
+        "#e4dfcd",
+        "#686861",
+        "#ee6465",
+        "#12bbb1"
+      ],
+      "paletteSource": "MED — Classic (2011)",
+      "paletteSourceUrl": "https://www.stonesthrow.com/store/classic/",
+      "paletteNote": "車のそばの帽子姿のモノクロ人物、クリーム地、上部サーモン色MED、下部ターコイズCLASSIC。 目視参照による近似配色。",
+      "style": "piece",
+      "seed": 3440278959,
+      "profile": "west-coast",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    }
+  },
+  {
+    "id": "jurassic-5-improvise",
+    "title": "Improvise",
+    "artist": "Jurassic 5",
+    "year": 1998,
+    "yearBasis": "1998年の拡張版セルフタイトル・アルバム収録。1997年EPとは区別。",
+    "album": "Jurassic 5",
+    "label": "PAN / [PIAS]",
+    "producer": "DJ Nu-Mark",
+    "producers": [
+      "DJ Nu-Mark"
+    ],
+    "region": "West Coast",
+    "scene": "Los Angeles",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "west"
+    ],
+    "sources": [
+      {
+        "label": "Jurassic 5 — Spotify release page / PIAS",
+        "url": "https://open.spotify.com/album/6dJBUj0sSYYwZq38LSAF4F",
+        "kind": "配信資料"
+      },
+      {
+        "label": "Improvise — Apple Music / J5 Deluxe Edition",
+        "url": "https://music.apple.com/us/song/improvise/1777704242",
+        "kind": "公式クレジット"
+      },
+      {
+        "label": "Jurassic-5 interview/profile — CMJ June 26, 2000",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/CMJ/2000/CMJ-2000-06-26.pdf",
+        "kind": "当時の本人インタビュー"
+      },
+      {
+        "label": "Jurassic 5 — Miami New Times review, July 6, 2000",
+        "url": "https://www.miaminewtimes.com/music/jurassic-5-6355591/",
+        "kind": "当時の音楽評"
+      },
+      {
+        "label": "Jet Grind Radio original SEGA Dreamcast manual, printed page 31",
+        "url": "https://www.digitpress.com/library/manuals/dreamcast/jet_grind_radio.pdf",
+        "kind": "ゲーム公式説明書"
+      },
+      {
+        "label": "The Story of Freestyle Fellowship’s To Whom It May Concern — Bandcamp Daily",
+        "url": "https://daily.bandcamp.com/features/freestyle-fellowship-to-whom-it-may-concern-interview",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Improvise — original 1999 single archived at Rap Music Guide",
+        "url": "https://www.rapmusicguide.com/cd/9525/jurassic-5-improvise",
+        "kind": "発売資料アーカイブ"
+      },
+      {
+        "label": "Improvise — Jurassic 5 Topic / Symphonic Distribution",
+        "url": "https://www.youtube.com/watch?v=GtUTkoaPxlc",
+        "kind": "公式音源"
+      }
+    ],
+    "deck": "四人の声を、ビートとともに次へ手渡す。",
+    "essayTitle": "声の受け渡しから生まれる集団の動き",
+    "essay": [
+      "「Improvise」は、Jurassic 5の録音が海を渡って広がっていく時期を映している。確認できる1998年の拡張版セルフタイトル・アルバムでは九曲目に入り、1999年にはInterscopeからシングルとしても展開された。最初のEPと、曲数を増やしたアルバム、さらに後の作品での再収録を一つに潰してしまうと、その道筋が見えない。ロサンゼルスのグループの曲が、異なる地域とパッケージを通って繰り返し入口を得たことまで含めて、この一曲の来歴と考えたい。",
+      "四人がそろうことは、個性を消して一色に塗ることではない。Chali 2naは当時のインタビューで、Unity Committee側の構成や技術への関心と、Rebels of Rhythm側のメロディックな感覚が合わさって、Jurassic 5の音になったと説明している。昔のスタイルをそのまま再演するより、その時代の倫理を引き継ぎたかったという発言も重要だ。「Improvise」の集団性を考えるときにも、懐かしさの記号だけでなく、相手の言葉が入る余地を作りながら曲を完成させる方法へ耳を向けたい。",
+      "2000年のMiami New Times評は、この曲の単純なギター素材と、次のMCへ進むたびに動きを感じさせるドラムに注目していた。長い独演を人数分並べるだけなら、グループの曲は容易に区切れ過ぎてしまう。ところが伴奏にも受け渡しを感じさせる働きがある、とその評から読み取れる。ラップの交代とビートの変化を別々に追うのでなく、同じ流れを押し出す二つの力として考えること。技巧の数を数えるより、誰かが次の人のために勢いを残していく、その運動を捉えるほうが曲の面白さに近づける。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2,
+        6
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "曲別の制作表記",
+        "text": "現在の正規配信はプロデューサーをDJ Nu-Markと記す。",
+        "sources": [
+          7
+        ]
+      }
+    ],
+    "samples": [
+      {
+        "title": "The Hot Rock",
+        "artist": "Quincy Jones",
+        "year": null,
+        "main": false,
+        "role": "SEGA『Jet Grind Radio』公式説明書の音楽クレジットに、本曲での使用を記載。",
+        "sources": [
+          4
+        ]
+      }
+    ],
+    "sampleStatus": "公式説明書で確認できる使用素材を掲載しています。全サンプルの網羅を意味しません。",
+    "listening": [],
+    "context": "四人の声を、ビートとともに次へ手渡す。",
+    "connections": [],
+    "editorialCrates": [],
+    "curationNote": "作品の文脈と制作背景に基づく選曲。",
+    "youtube": {
+      "channel": "Jurassic 5",
+      "description": "Provided to YouTube by Symphonic Distribution\n\nImprovise · Jurassic 5\n\nJ5\n\n℗ 2008 Mass Appeal\n\nReleased on: 2008-02-06\n\nProducer: DJ Nu-Mark\nWriter: Courtenay Henderson\nWriter: Mark Potsic\nWriter: Charles Stewart\nWriter: Dante Givens\nWriter: Marc Stuart\nWriter: Lucas MacFadden\n\nAuto-generated by YouTube.\n音楽\n1 曲\nImprovise\nJurassic 5\nJ5 (Deluxe Edition)\n音楽\n動画の詳細\n日付\n2024/11/04\n視聴回数\n69,509\n高評価数\n828\n一部を表示\n",
+      "duration": "PT3M44S",
+      "id": "GtUTkoaPxlc",
+      "regionsAllowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+      "title": "Improvise",
+      "url": "https://www.youtube.com/watch?v=GtUTkoaPxlc",
+      "official": true,
+      "type": "Official Audio",
+      "verified": "2026-10-17",
+      "jpRegionsAllowed": true,
+      "version": "Original vocal song, J5 (Deluxe Edition) / 2008 Mass Appeal distribution",
+      "verification": "公開watch DOMのregionsAllowedにJPあり。実際の日本国内再生は未試験。1998年盤とのビット単位のマスター同一性は未主張。",
+      "japanRegionStatus": "included"
+    },
+    "recordingEdition": "J5 (Deluxe Edition), 2008 Mass Appeal",
+    "artworkEdition": "J5 (Deluxe Edition)",
+    "members": "",
+    "addedOrder": 449,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "requestRow": "Sentinel_673a134ec05c81918927f9a6f8917d66:4",
+    "editorialStatus": "J5 (Deluxe Edition)の2008年Mass Appeal配信版。日本を配信対象に含みます。サイト内での実再生は未確認です。",
+    "art": {
+      "word": "IMPROVISE",
+      "tag": "Jurassic 5",
+      "lines": [
+        "IMPROVISE"
+      ],
+      "palette": [
+        "#181818",
+        "#aa8b40",
+        "#d1b768"
+      ],
+      "paletteSource": "Jurassic 5 — J5 (Deluxe Edition)",
+      "paletteSourceUrl": "https://music.apple.com/us/song/improvise/1777704242",
+      "paletteNote": "黒ないし濃いチャコール地。中央に金色の円とJ5系の記号、周囲に角度を変えた金色の三角形状の線束とJURASSIC 5文字。人物写真はない。 目視参照による近似配色。",
+      "style": "piece",
+      "seed": 152882189,
+      "profile": "west-coast",
+      "lettering": "block",
+      "letteringNote": "既存作品の転載ではない独自の文字表現。"
+    }
   }
 ]
