@@ -30,6 +30,7 @@
   addEventListener('appinstalled',()=>{confirmedInstalled=true;installPrompt=null;refreshInstall();installState.textContent='ブラウザから追加完了が通知されました。'});
   homeInstallOpen.onclick=()=>{refreshInstall();if(!homeInstallDialog.open)homeInstallDialog.showModal();installClose.focus()};
   installClose.onclick=()=>homeInstallDialog.close();
+  homeInstallDialog.addEventListener('keydown',e=>{if(e.key!=='Tab')return;const items=[...homeInstallDialog.querySelectorAll('button,a[href],input,select,textarea,[tabindex]')].filter(x=>!x.hidden&&!x.disabled&&x.tabIndex>=0&&x.getClientRects().length);const first=items[0],last=items[items.length-1];if(!first){e.preventDefault();return}if(e.shiftKey&&(document.activeElement===first||!homeInstallDialog.contains(document.activeElement))){e.preventDefault();last.focus()}else if(!e.shiftKey&&(document.activeElement===last||!homeInstallDialog.contains(document.activeElement))){e.preventDefault();first.focus()}});
   homeInstallDialog.addEventListener('close',()=>{if(homeInstallOpen.isConnected)homeInstallOpen.focus({preventScroll:true})});
   installNative.onclick=async()=>{if(!installPrompt||installBusy)return;const prompt=installPrompt;installPrompt=null;installBusy=true;refreshInstall();try{await prompt.prompt();const choice=await prompt.userChoice;installState.textContent=choice?.outcome==='accepted'?'追加リクエストを送信しました。完了はブラウザで確認してください。':'追加をキャンセルしました。';}catch{installState.textContent='この環境では追加画面を開けませんでした。下の手順をご確認ください。';}finally{installBusy=false;installNative.disabled=false;installNative.hidden=true;}};
  }
