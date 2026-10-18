@@ -3171,11 +3171,12 @@
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "気まずさも、思い出も、グルーヴにしてしまう。",
-    "essayTitle": "この曲の聴きどころ",
+    "deck": "レコードを組み合わせ、声を試す。その場の発見が、片思いの曲になった。",
+    "essayTitle": "二つのループと、偶然つかんだ声。",
     "essay": [
-      "気まずさも、思い出も、グルーヴにしてしまう。",
-      "少し気まずい感情を、気持ちのよい音の上で聴けてしまう。その居心地のよさと悪さが一緒にあるところを、この曲の魅力として残しておきたい。"
+      "「Passin’ Me By」は、The Pharcydeが1992年に発表した『Bizarre Ride II the Pharcyde』の収録曲。Craft Recordingsの作品解説は、アルバムの発売日を11月24日とし、Quincy Jones「Summer in the City」の使用を確認している。ここでの1992年はアルバム初出の年で、シングル盤の発売日とは分けて考えたい。",
+      "曲ができる場面は、2012年6月28日公開のSPINの直接取材に残っている。J-Swiftの回想では、Reggie Andrewsのガレージにあったレコードから素材を探し、別々のビートにするつもりだった二つのループを、Bootie Brownの提案で組み合わせた。本人が片方の曲名を思い出せないと断っている点まで含めて、この話は制作から約20年後の証言として読める。",
+      "同じ取材でJ-Swiftは、映画『The Doors』を見たあとにFatlipが歌い始めたと振り返る。Fatlip自身も、試した歌声が自分でも意外なものになったと話す。SlimKid3によれば、コーラスが定まってから、それぞれが女性についてのヴァースを書き始めた。言葉を完成したビートへ並べるだけでなく、ループ、声、歌詞が互いの方向を決めていく。その順番を知ると、この曲の個人的な語りを、共同作業の成果としても捉えられる。"
     ],
     "facts": [
       {
@@ -3220,6 +3221,21 @@
         "label": "Breaks With Tradition: \"Summer In The City\"",
         "url": "https://stereogum.com/2055412/quincy-hones-summer-in-the-city-samples/columns/breaks-with-tradition",
         "kind": "サンプル関係の調査資料"
+      },
+      {
+        "label": "SPIN — 参加者が語るPassin’ Me Byの制作（2012年6月28日）",
+        "url": "https://www.spinmagazine.com/2012/06/pharcyde-look-back-20-years-passin-me/",
+        "kind": "本人取材"
+      },
+      {
+        "label": "Craft Recordings — Bizarre Ride II作品資料",
+        "url": "https://craftrecordings.com/blogs/permanent-record/the-pharcyde-bizarre-ride-ii",
+        "kind": "レーベル公式"
+      },
+      {
+        "url": "https://yoraps.com/bootie-brown-pioneering-a-new-wave/",
+        "label": "Yo! Raps：Bootie Brown本人への取材（公開日未確認）",
+        "kind": "本人取材（公開日未確認）"
       }
     ],
     "producers": [
@@ -3236,7 +3252,18 @@
       "walk",
       "west"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "the-pharcyde-drop",
@@ -5719,11 +5746,11 @@
     "youtube": {
       "id": "mmo3HFa2vjg",
       "url": "https://www.youtube.com/watch?v=mmo3HFa2vjg",
-      "channel": "投稿者区分未確認",
-      "type": "参考投稿",
-      "official": false,
-      "verified": "2026-10-14",
-      "verification": "検索でタイトル・アーティスト・掲載説明を照合。実際の再生は未検証。"
+      "channel": "PublicEnemyVEVO",
+      "type": "公式ミュージックビデオ",
+      "official": true,
+      "verified": "2026-10-18",
+      "verification": "YouTube公式oEmbedでタイトルとPublicEnemyVEVOの投稿を確認。掲載IDは変更なし。埋め込み再生・日本国内での再生可否・個別ミックスの照合は未検証。"
     },
     "art": {
       "word": "FIGHT THE POWER",
@@ -5754,15 +5781,44 @@
     ],
     "facts": [
       {
-        "title": "掲載音源について",
-        "text": "参考投稿を採用。音源の掲載説明を照合していますが、埋め込みでの再生可否は未検証です。",
+        "title": "掲載音源と版について",
+        "text": "掲載動画はPublicEnemyVEVOの公式ミュージックビデオ。1989年の映画『Do the Right Thing』で使われた版と、1990年の『Fear of a Black Planet』収録版には違いがある。掲載MVがどのミックスに当たるかは未確認。",
         "sources": [
-          0
+          0,
+          5
         ]
       }
     ],
-    "samples": [],
-    "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
+    "samples": [
+      {
+        "artist": "James Brown",
+        "title": "Funky Drummer",
+        "role": "ドラム・ブレイクの断片。Katzによる1990年のアルバム版分析では、他の素材に重なるキックとスネアが指摘されている。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "artist": "Sly and the Family Stone",
+        "title": "Sing a Simple Song",
+        "role": "声の断片。EURwebの解説では、掛け声とそれに続く声が挙げられている。",
+        "sources": [
+          1,
+          4
+        ]
+      },
+      {
+        "artist": "Bob Marley and the Wailers",
+        "title": "I Shot the Sheriff",
+        "role": "短く切り出された『I』の声。David YaffeはTIDALの寄稿で、1989年の映画で聴いたヴォーカル断片として挙げている。",
+        "sources": [
+          1,
+          3
+        ]
+      }
+    ],
+    "sampleStatus": "資料で確認できるサンプル元3曲を掲載。全サンプルの一覧ではなく、掲載MVでの各断片の使用は未照合。",
     "listening": [
       "街へ向けて開かれた声。90年代の入口となる一曲。",
       "声が入る前のビートと、声が入ったあとの重心を聴き比べる。"
@@ -5770,9 +5826,34 @@
     "context": "90年代へつながるルーツとして、声とビートの組み方をたどる。",
     "sources": [
       {
-        "label": "YouTube — Public Enemy / Fight the Power",
+        "label": "YouTube — Public Enemy / Fight The Power (Official Music Video)",
         "url": "https://www.youtube.com/watch?v=mmo3HFa2vjg",
-        "kind": "参考投稿・配信候補"
+        "kind": "公式ミュージックビデオ"
+      },
+      {
+        "label": "The Guardian — Hank Shocklee・Chuck D インタビュー（2016）",
+        "url": "https://www.theguardian.com/culture/2016/mar/07/how-we-made-public-enemy-fight-the-power",
+        "kind": "制作当事者インタビュー"
+      },
+      {
+        "label": "Mark Katz — Capturing Sound 改訂版（2010）, pp.160–161, 261",
+        "url": "https://www.eamills.com/wp-content/uploads/2020/05/Capturing-sound-how-technology-has-changed-music-by-Mark-Katz.pdf#page=175",
+        "kind": "音楽学者による分析"
+      },
+      {
+        "label": "TIDAL Magazine — Fighting Words（David Yaffe）",
+        "url": "https://tidal.com/magazine/article/fight-the-power/1-92338",
+        "kind": "音楽評論・サンプル解説"
+      },
+      {
+        "label": "EURweb — The Influences and Samples of Public Enemy’s Fight the Power（2020）",
+        "url": "https://eurweb.com/the-influences-and-samples-of-public-enemys-fight-the-power-eur-video-throwback/",
+        "kind": "二次資料・サンプル解説"
+      },
+      {
+        "label": "Rolling Stone — Chuck D・Hank Shocklee・Branford Marsalisらへのインタビュー（2014）",
+        "url": "https://au.rollingstone.com/music/music-news/riot-on-the-set-how-public-enemy-crafted-the-anthem-fight-the-power-471/",
+        "kind": "制作当事者インタビュー・版の相違"
       }
     ],
     "producers": [
@@ -5784,7 +5865,7 @@
       "声の掛け合い"
     ],
     "addedOrder": 52,
-    "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+    "editorialStatus": "サンプル元3曲を資料に基づいて紹介。映画版とアルバム版には違いがあり、掲載MVとの細部の一致は未確認。",
     "collections": [
       "walk",
       "east"
@@ -7367,11 +7448,12 @@
       "lettering": "subway",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "暗いループの中で、ドラムの輪郭が立つ。",
-    "essayTitle": "この曲の聴きどころ",
+    "deck": "Havocが語る、ドラムを先に置き、鍵盤の断片を組み替えた制作。",
+    "essayTitle": "二秒のピアノから、曲の重心を作る。",
     "essay": [
-      "暗いループの中で、ドラムの輪郭が立つ。",
-      "暗い響きに耳が慣れたら、ドラムの位置だけを追ってみる。背景の曇りと拍の明快さが同時にあるところに、この曲の張り詰め方を感じる。"
+      "1995年の『The Infamous』に収められた「Shook Ones, Pt. II」。公式配信のアルバム情報では発売日は4月25日だが、これはアルバムの日付であり、曲の制作日や先行シングルの発売日そのものではない。題名の「Pt. II」にも、先に作った曲をもう一度組み立て直す過程がある。",
+      "2020年6月17日公開のSong Exploderで、Havocはレコード市で得たドラムを起点に、Herbie Hancock「Jessica」の約二秒をサンプラーへ取り込み、鍵盤で音程を変えたと説明する。さらにピアノの一音をフィルター処理し、低音の役割も作ったという。旋律の断片を拾うだけでなく、同じ材料に違う仕事をさせる工程だった。",
+      "同じ回でHavocは、A&Rの提案から新しいビートを「Shook Ones」に使い、スタジオで声を録り直した経緯も語る。自分の歌詞は保ち、Prodigyは書き替えたというのが本人の回想だ。二人のラップと伴奏を、それぞれが完成した部品としてではなく、作り直しの中で関係を変えたものとして読むことができる。"
     ],
     "facts": [
       {
@@ -7393,6 +7475,26 @@
         "label": "YouTube — Mobb Deep / Shook Ones, Pt. II",
         "url": "https://www.youtube.com/watch?v=yoYZf-lBF_U",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Song Exploder — Havoc本人の制作解説・公式書き起こし",
+        "url": "https://songexploder.net/transcripts/mobb-deep-transcript.pdf",
+        "kind": "本人取材"
+      },
+      {
+        "label": "Song Exploder — Episode 186（2020年6月17日公開）",
+        "url": "https://songexploder.net/mobb-deep",
+        "kind": "取材公開日"
+      },
+      {
+        "label": "Apple Music — The Infamous作品情報",
+        "url": "https://music.apple.com/us/album/the-infamous/255342338",
+        "kind": "公式配信情報"
+      },
+      {
+        "label": "Herbie Hancock公式 — Fat Albert Rotunda",
+        "url": "https://www.herbiehancock.com/music/discography/album/fat-albert-rotunda/",
+        "kind": "アーティスト公式／ライナー解説"
       }
     ],
     "producers": [
@@ -7412,7 +7514,19 @@
       "raw-beats"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        3,
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "mobb-deep-survival-of-the-fittest",
@@ -23116,6 +23230,11 @@
         "label": "Metallica / Orion — サンプル関係の資料",
         "url": "https://909originals.com/2021/09/16/midnight-in-a-perfect-akai-mpc-60-five-samples-that-defined-dj-shadows-entroducing/",
         "kind": "サンプル調査資料"
+      },
+      {
+        "label": "Sound On Sound：DJ Shadow本人の制作解説（2017）",
+        "url": "https://www.soundonsound.com/techniques/classic-tracks-dj-shadow-midnight-perfect-world",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -23216,6 +23335,11 @@
         "label": "DJ Shadow - Topic / The Number Song (Cut Chemist Remix)",
         "url": "https://www.youtube.com/watch?v=c0CKXOCOX3o",
         "kind": "配信音源"
+      },
+      {
+        "label": "DJ Shadow公式：25周年7インチの解説",
+        "url": "https://djshadow.com/products/dj-shadow-the-number-song-cut-chemist-remix-7-vinyl",
+        "kind": "公式リリース解説"
       }
     ],
     "producers": [
@@ -23361,6 +23485,11 @@
         "label": "Frankie Seay & the Soul Riders / Soul Food — サンプル関係の資料",
         "url": "https://run.unl.pt/bitstream/10362/45945/1/TESE%20MESTRADO%20-Guillermo%20de%20Llera%202017.pdf",
         "kind": "サンプル調査資料"
+      },
+      {
+        "label": "NPR：Guy RazによるDJ Shadow本人取材（2012）／NCPR掲載",
+        "url": "https://www.northcountrypublicradio.org/news/npr/165145271/dj-shadow-on-sampling-as-a-collage-of-mistakes",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -23491,6 +23620,11 @@
         "url": "https://909originals.com/2021/09/16/midnight-in-a-perfect-akai-mpc-60-five-samples-that-defined-dj-shadows-entroducing/",
         "label": "909originals — Stem/Long StemのTears／Love Suiteサンプル解説",
         "kind": "サンプル解説"
+      },
+      {
+        "label": "The Quietus：DJ Shadow本人の曲別回想（2012）",
+        "url": "https://thequietus.com/interviews/dj-shadow-reconstructed-best-of-interview/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -23837,6 +23971,11 @@
         "label": "Colonel Bagshot / Six Day War — サンプル関係の資料",
         "url": "https://www.whosampled.com/DJ-Shadow/Six-Days/",
         "kind": "サンプル調査資料"
+      },
+      {
+        "label": "The Quietus：DJ Shadow本人の曲別回想（2012）",
+        "url": "https://thequietus.com/interviews/dj-shadow-reconstructed-best-of-interview/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -24155,6 +24294,11 @@
         "label": "Mass Appeal / DJ Shadow - The Mountain Will Fall (Official Video)",
         "url": "https://www.youtube.com/watch?v=0Oyti58LzS8",
         "kind": "公式配信音源・動画"
+      },
+      {
+        "label": "Interview：DJ Shadow本人取材（2016）",
+        "url": "https://www.interviewmagazine.com/music/dj-shadow",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -24260,6 +24404,11 @@
         "label": "DJ Shadow - Topic / Nobody Speak",
         "url": "https://www.youtube.com/watch?v=FX0ol1zksD4",
         "kind": "公式配信音源・動画"
+      },
+      {
+        "label": "BARKS：DJ Shadow本人インタビュー（2019）",
+        "url": "https://barks.jp/news/855997/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -24364,6 +24513,11 @@
         "label": "DJ Shadow - Topic / Rocket Fuel",
         "url": "https://www.youtube.com/watch?v=7l8oRPz2jZY",
         "kind": "公式配信音源・動画"
+      },
+      {
+        "label": "BARKS：DJ Shadow本人インタビュー（2019）",
+        "url": "https://barks.jp/news/855997/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -27146,6 +27300,11 @@
         "label": "On A&M Records / High Noon MW-063",
         "url": "https://www.onamrecords.com/artists/dj-shadow/discography/britain/mo-wax-recordings/mw-063/high-noon",
         "kind": "レコード資料アーカイブ（二次資料）"
+      },
+      {
+        "label": "The Quietus：DJ Shadow本人の曲別回想（2012）",
+        "url": "https://thequietus.com/interviews/dj-shadow-reconstructed-best-of-interview/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
