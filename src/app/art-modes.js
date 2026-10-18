@@ -2,7 +2,7 @@
  let artDisplayMode='hybrid',artPauseBusy=false,artPauseToken=0,artPauseTimer=null;
  function artStoppedInline(){return false}
  function artPlaybackSuppressed(){return false}
- function artModeButtons(){for(const [id,mode] of [['#art-mode-video','video'],['#art-mode-full','full'],['#art-mode-hybrid','hybrid']]){const b=$(id);if(b){b.setAttribute('aria-pressed',String(artDisplayMode===mode));b.disabled=false}}}
+ function artModeButtons(){for(const [id,mode] of [['#art-mode-video','video'],['#art-mode-full','full'],['#art-mode-hybrid','hybrid']]){const b=$(id);if(b){b.setAttribute('aria-pressed',String((!art.hidden?document.body.dataset.artMode:artDisplayMode)===mode));b.disabled=false}}}
  function setArtPresentation(mode){if(!['full','video','hybrid'].includes(mode))return false;artDisplayMode=mode;if(!art.hidden)refreshArtProvider();artModeButtons();return true;}
  function restoreVideoWithoutPlay(){return setArtPresentation('hybrid')}
  function prepareArtExplicitPlay(){}
