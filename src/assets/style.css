@@ -205,3 +205,22 @@ body[data-player-presentation="idle"] #player-reveal:not([hidden]){display:inlin
 body[data-player-presentation="idle"] .layout{row-gap:20px}
 @media(hover:hover){#player-reveal:hover{border-color:var(--blue)}#player-reveal:hover strong{color:var(--blue)}}
 @media(max-width:600px){body[data-player-presentation="idle"] .layout{row-gap:16px}}
+
+/* Preview: shared editorial treatment for controls and artist/producer cards. */
+#player-reveal{background:var(--paper);border-color:var(--ink);border-left:3px solid var(--blue);box-shadow:none;color:var(--ink)}
+#player-reveal strong,#player-reveal .reveal-chevron{color:var(--blue)}
+#player-reveal .reveal-copy>span{color:var(--muted)}
+.feature-poster{background:var(--paper);color:var(--ink);border-color:var(--line);box-shadow:none}
+.feature-portrait,.feature-portrait--name{background:var(--off)}
+.feature-photo{filter:grayscale(1);mix-blend-mode:normal}
+.feature-paper-grain{display:none}
+.feature-portrait:after{background:linear-gradient(transparent,#fff 85%)}
+.feature-portrait--contain:after{background:var(--paper)}
+.feature-portrait--name:after{display:none}
+.feature-tape{background:none;transform:none;color:var(--blue);font:600 10px var(--sans);letter-spacing:.15em}
+.feature-name-tag,.feature-card--portrait:hover .feature-name-tag{transform:none}
+.feature-poster-copy h3{font-family:var(--display);font-size:28px;font-weight:800;line-height:1.1;letter-spacing:.02em;margin-bottom:8px}
+.feature-poster-copy>span{color:var(--blue)}
+.feature-photo-credit,.feature-swipe-hint{color:var(--muted)}
+.feature-grid.feature-swipe>.feature-card:not(.feature-card--portrait){background:var(--paper);border-color:var(--line);box-shadow:none}
+.feature-grid.feature-swipe>.feature-card:not(.feature-card--portrait) h3{font:800 28px/1.1 var(--display);letter-spacing:.02em}
