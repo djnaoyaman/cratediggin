@@ -30,10 +30,12 @@ const {chromium}=require('playwright');
     const p=window.CRATE_PAGES[key],ld=JSON.parse(document.querySelector('script[type="application/ld+json"]').textContent);
     return {expected:p,title:document.title,description:document.querySelector('meta[name="description"]').content,
      og:document.querySelector('meta[property="og:title"]').content,canonical:document.querySelector('link[rel="canonical"]').href,
-     ogURL:document.querySelector('meta[property="og:url"]').content,ld,hash:location.hash,path:location.pathname};
+     ogURL:document.querySelector('meta[property="og:url"]').content,ogImage:document.querySelector('meta[property="og:image"]').content,twitterImage:document.querySelector('meta[name="twitter:image"]').content,imageType:document.querySelector('meta[property="og:image:type"]').content,imageAlt:document.querySelector('meta[property="og:image:alt"]').content,ld,hash:location.hash,path:location.pathname};
    },route);
    assert.equal(result.title,result.expected.title);assert.equal(result.description,result.expected.description);
    assert.equal(result.og,result.expected.title);assert.equal(result.canonical,result.expected.url);assert.equal(result.ogURL,result.expected.url);
+   assert.equal(result.ogImage,result.expected.image);assert.equal(result.twitterImage,result.expected.image);assert.equal(result.imageType,'image/png');assert.equal(result.imageAlt,result.expected.imageAlt);
+   if(route.startsWith('#/song/'))assert.deepEqual(result.ld['@graph'].find(x=>x['@type']==='Article').image,[result.expected.image]);
    assert.equal(result.path,result.expected.path);assert.equal(result.hash,'');
    assert(result.ld['@graph'].some(x=>x.url===result.expected.url||x.itemListElement?.some(y=>y.item===result.expected.url)));
   };

@@ -28,7 +28,30 @@ def icon(size):
     original=Image.open(io.BytesIO(base64.b64decode(encoded))).convert('RGB')
     return original.resize((size,size),Image.Resampling.LANCZOS)
 
+def graffiti_social_image(track):
+    """Lay out an unchanged transparent artwork over the approved dark wall."""
+    source = ROOT / track['art']['image']
+    if not source.is_file():
+        raise ValueError(f'Missing approved artwork for social card: {source}')
+    im = Image.new('RGB', (1200, 630), '#55534e')
+    d = ImageDraw.Draw(im)
+    for y in range(0, 630, 4):
+        d.line((0, y, 1199, y), fill='#595752')
+    for x in range(0, 1200, 7):
+        d.line((x, 0, x, 629), fill='#514f4a')
+    text(im, (48, 27), 'CRATE DIGGIN’', 30)
+    text(im, (890, 33), 'DJ NAOYAMAN', 24, width=262)
+    artwork = Image.open(source).convert('RGBA')
+    artwork.thumbnail((1080, 382), Image.Resampling.LANCZOS)
+    im.paste(artwork, ((1200-artwork.width)//2, 82+(382-artwork.height)//2), artwork)
+    d.line((48, 489, 1152, 489), fill='#aaa69b', width=1)
+    text(im, (48, 508), track['title'], 43, width=1104)
+    text(im, (48, 567), track['artist'], 28, width=1104)
+    return im
+
 def social_image(track=None):
+    if track and track.get('art', {}).get('image'):
+        return graffiti_social_image(track)
     im=Image.new('RGB',(1200,630),BLUE);d=ImageDraw.Draw(im)
     text(im,(45,31),'RECORDS. RHYMES. RECOLLECTIONS.',24)
     text(im,(946,31),'VOL. 001',24)
