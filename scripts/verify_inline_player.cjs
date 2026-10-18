@@ -27,3 +27,11 @@ function frame(t){return vm.runInContext('inlineFrame',t.c)}
  const t=setup();assert.equal(t.c.inlinePlayerMarkup({id:'different'}),'');assert(t.c.inlinePlayerMarkup({id:'ugly-duckling-now-who-s-laughin'}).includes('aria-controls'));assert(!t.c.inlinePlayerMarkup({id:'ugly-duckling-now-who-s-laughin'}).includes('<iframe'));t.ready();t.c.bindInlinePlayer({id:'ugly-duckling-now-who-s-laughin'});t.$('#inline-player-open').onclick();assert(frame(t));let prevented=false;t.$('#inline-player-panel').listeners.keydown({key:'Escape',preventDefault(){prevented=true}});assert(prevented);assert.equal(frame(t),null);assert.equal(t.$('#inline-player-open').attrs['aria-expanded'],'false');
 }
 console.log('Inline lifecycle: delayed readiness, cancelled pending play, late main/sample callbacks, stale timers, exclusive owner, repeat/close/retry, seek, sample navigation recovery, parent keyboard and track allowlist passed');
+
+{
+ const t=setup();t.c.currentRoute=()=> '#/song/ini-grown-man-sport';t.c.songs[0].id='ini-grown-man-sport';t.c.queue[0]='ini-grown-man-sport';t.ready();t.c.startSong();const n=t.loads.length;t.players[0].fail(100);t.runTimers();assert.equal(t.c.cur,0);assert.equal(t.loads.length,n);assert.equal(t.$('#auto').checked,true);assert(t.$('#status').textContent.includes('別プレイヤー'));for(const state of [0,1,3])t.players[0].state(state);t.players[0].block();t.players[0].fail(150);t.runTimers();assert.equal(t.c.cur,0);assert.equal(t.loads.length,n);assert.equal(t.c.started,false);assert.equal(t.c.playing,false);assert.equal(t.$('#auto').checked,true);t.c.startSong();assert(!locked(t));assert.equal(t.loads.length,n+1);t.players[0].fail(100);assert(locked(t));assert(t.c.inlinePlayerMarkup(t.c.songs[0]).includes('aria-controls'));t.c.openInlinePlayer();assert(frame(t).src.includes('track=2828430171'));assert(locked(t));t.players[0].state(0);t.players[0].fail(150);t.runTimers();assert.equal(t.c.cur,0);assert.equal(t.loads.length,n+1);t.c.disposeInlinePlayer();t.c.startSong();assert(!locked(t));assert.equal(t.$('#auto').checked,true);
+}
+{
+ const t=setup();t.ready();t.c.startSong();t.players[0].fail(100);t.runTimers();assert.equal(t.c.cur,1,'Other tracks retain error auto-next');
+}
+console.log('Grown Man Sport exact official inline URL, unavailable-source retention, preserved auto preference and other-track auto-next passed');
