@@ -3,7 +3,7 @@ import html
 import json
 import re
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urljoin
 import xml.etree.ElementTree as ET
 
 root = Path(__file__).resolve().parents[1]
@@ -31,6 +31,13 @@ for route, meta in registry.items():
         target /= 'index.html'
     source = target.read_text(encoding='utf-8')
     assert html.unescape(re.search(r'<title>(.*?)</title>', source, re.S)[1]) == meta['title'], route
+    for tag in re.findall(r'<link\b[^>]*>', source):
+        attrs=dict(re.findall(r'([\w-]+)="([^"]*)"',tag))
+        if attrs.get('rel') in {'icon','alternate icon','apple-touch-icon','manifest'}:
+            resolved=urlparse(urljoin(meta['url'],html.unescape(attrs['href'])))
+            assert resolved.netloc==urlparse(meta['url']).netloc,(route,'Unexpected icon origin')
+            assert resolved.path.startswith(base+'/'),(route,'Icon outside project',resolved.path)
+            assert (dist/resolved.path[len(base)+1:]).is_file(),(route,'Broken resolved icon/manifest',resolved.path)
     for attr, key, expected in [('name', 'description', meta['description']), ('property', 'og:title', meta['title']),
                                 ('property', 'og:description', meta['description']), ('property', 'og:url', meta['url']),
                                 ('name', 'twitter:title', meta['title']), ('name', 'twitter:image', meta['image'])]:

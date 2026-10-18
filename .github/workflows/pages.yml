@@ -146,9 +146,15 @@ jobs:
           node scripts/verify_crate_naming_browser.cjs || naming_status=$?
           test "$player_intent_status" -eq 0
           test "$naming_status" -eq 0
-          node scripts/verify_visible_art_browser.cjs
-          node scripts/verify_renewal_browser.cjs
-          node scripts/verify_player_presentation_browser.cjs
+          visible_art_status=0
+          renewal_status=0
+          presentation_status=0
+          node scripts/verify_visible_art_browser.cjs || visible_art_status=$?
+          node scripts/verify_renewal_browser.cjs || renewal_status=$?
+          node scripts/verify_player_presentation_browser.cjs || presentation_status=$?
+          test "$visible_art_status" -eq 0
+          test "$renewal_status" -eq 0
+          test "$presentation_status" -eq 0
           node scripts/verify_album_browser.cjs
           node scripts/verify_listening_shelves_browser.js
           node scripts/verify_pagination_browser.cjs
