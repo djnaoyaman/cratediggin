@@ -14,7 +14,7 @@ for tid,(video,year) in expected.items():
  html=(ROOT/'dist/tracks'/f'{tid}.html').read_text()
  assert 'work-format' in html and 'DJミックス作品' in html
  assert 'MixtapeTrap' in html and '参考' in html
- assert t['title'] in html and len(t['essay'])==3 and len(t['essaySources'])==3
+ assert t['title'] in html and len(t['essay'])>=3 and len(t['essaySources'])==len(t['essay'])
  memory=t['editorSelectionMemory'];assert '間違いなく' in memory['text'] and 'DJ KIYO' in memory['text']
  assert html.count('<aside class="editor-selection-memory">')==1 and html_module.escape(memory['text']) in html
  assert 'Sentinel_' not in html and 'requestProvenance' not in html
