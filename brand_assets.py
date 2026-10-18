@@ -1,9 +1,10 @@
 """Reproducible brand assets using the hero's original condensed typography."""
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
-import base64, math
+import base64, math, hashlib, shutil, tempfile
 ROOT=Path(__file__).parent
 BLUE='#4169e1';WHITE='#ffffff';INK='#141b2d'
+SOCIAL_WALL='#687180';SOCIAL_WALL_LIGHT='#6a7382';SOCIAL_WALL_DARK='#666f7e';SOCIAL_PAPER='#e8edf6'
 def font(size,marker=False):
     return ImageFont.truetype(str(ROOT/'brand'/('PermanentMarker-Regular.ttf' if marker else 'BarlowCondensed-ExtraBold.ttf')),size)
 def text(im,xy,value,size,width=None,marker=False,fill=WHITE):
@@ -29,22 +30,22 @@ def icon(size):
     return original.resize((size,size),Image.Resampling.LANCZOS)
 
 def graffiti_social_image(track):
-    """Lay out an unchanged transparent artwork over the approved dark wall."""
+    """Lay out an unchanged transparent artwork over a restrained cool wall; white paint remains distinct."""
     source = ROOT / track['art']['image']
     if not source.is_file():
         raise ValueError(f'Missing approved artwork for social card: {source}')
-    im = Image.new('RGB', (1200, 630), '#55534e')
+    im = Image.new('RGB', (1200, 630), SOCIAL_WALL)
     d = ImageDraw.Draw(im)
     for y in range(0, 630, 4):
-        d.line((0, y, 1199, y), fill='#595752')
+        d.line((0, y, 1199, y), fill=SOCIAL_WALL_LIGHT)
     for x in range(0, 1200, 7):
-        d.line((x, 0, x, 629), fill='#514f4a')
+        d.line((x, 0, x, 629), fill=SOCIAL_WALL_DARK)
     text(im, (48, 27), "CRATEDIGGIN'", 30)
     text(im, (890, 33), 'DJ NAOYAMAN', 24, width=262)
     artwork = Image.open(source).convert('RGBA')
     artwork.thumbnail((1080, 382), Image.Resampling.LANCZOS)
     im.paste(artwork, ((1200-artwork.width)//2, 82+(382-artwork.height)//2), artwork)
-    d.line((48, 489, 1152, 489), fill='#aaa69b', width=1)
+    d.line((48, 489, 1152, 489), fill='#aab2bf', width=1)
     text(im, (48, 508), track['title'], 43, width=1104)
     text(im, (48, 567), track['artist'], 28, width=1104)
     return im
@@ -52,25 +53,25 @@ def graffiti_social_image(track):
 def social_image(track=None):
     if track and track.get('art', {}).get('image'):
         return graffiti_social_image(track)
-    im=Image.new('RGB',(1200,630),BLUE);d=ImageDraw.Draw(im)
-    text(im,(45,31),'RECORDS. RHYMES. RECOLLECTIONS.',24)
-    text(im,(946,31),'VOL. 001',24)
-    text(im,(45,100),'CRATE',215,width=750)
-    text(im,(45,298),"DIGGIN'",215,width=750)
-    text(im,(886,103),'KEEP',43,marker=True)
-    text(im,(875,160),"DIGGIN'.",43,width=285,marker=True)
+    im=Image.new('RGB',(1200,630),SOCIAL_PAPER);d=ImageDraw.Draw(im)
+    text(im,(45,31),'RECORDS. RHYMES. RECOLLECTIONS.',24,fill=INK)
+    text(im,(946,31),'VOL. 001',24,fill=INK)
+    text(im,(45,100),'CRATE',215,width=750,fill=INK)
+    text(im,(45,298),"DIGGIN'",215,width=750,fill=INK)
+    text(im,(886,103),'KEEP',43,marker=True,fill=INK)
+    text(im,(875,160),"DIGGIN'.",43,width=285,marker=True,fill=INK)
     vinyl(im,1004,307,72)
-    text(im,(913,402),'THE PAST',22)
-    text(im,(913,431),'IS STILL PLAYING.',22)
-    d.line((45,503,1155,503),fill='#8dc9ed',width=2)
+    text(im,(913,402),'THE PAST',22,fill=INK)
+    text(im,(913,431),'IS STILL PLAYING.',22,fill=INK)
+    d.line((45,503,1155,503),fill='#b8c1d1',width=2)
     if track:
-        text(im,(45,526),track['title'],44,width=820)
-        text(im,(45,580),track['artist'],23,width=820)
-        text(im,(895,555),'DJ NAOYAMAN',25)
+        text(im,(45,526),track['title'],44,width=820,fill=INK)
+        text(im,(45,580),track['artist'],23,width=820,fill=INK)
+        text(im,(895,555),'DJ NAOYAMAN',25,fill=INK)
     else:
-        text(im,(45,527),'A Guide to Sampled Mind',35)
-        text(im,(45,572),'& Vintage Grooves',35)
-        text(im,(889,549),'DJ NAOYAMAN',26)
+        text(im,(45,527),'A Guide to Sampled Mind',35,fill=INK)
+        text(im,(45,572),'& Vintage Grooves',35,fill=INK)
+        text(im,(889,549),'DJ NAOYAMAN',26,fill=INK)
     return im
 
 def write_icons(dist):
@@ -80,3 +81,26 @@ def write_icons(dist):
     data=io.BytesIO();icon(48).save(data,format='PNG')
     encoded=base64.b64encode(data.getvalue()).decode()
     (dist/'favicon.svg').write_text('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><image width="192" height="192" href="data:image/png;base64,'+encoded+'"/></svg>', encoding='utf-8')
+
+
+def save_social_image(path, track=None):
+    """Public SNS derivative: opaque 1200x630 JPEG, quality95 and full chroma."""
+    social_image(track).save(path, format='JPEG', quality=95, subsampling=0, optimize=True)
+
+
+def retire_legacy_social_pngs(dist, track_ids, feature_ids):
+    """Retire only backed-up generated SNS PNGs after every replacement decodes."""
+    paths = [Path('og-image.jpg')] + [Path('og') / (x+'.jpg') for x in track_ids] + [Path('feature-og') / (x+'.jpg') for x in feature_ids]
+    for rel in paths:
+        with Image.open(dist/rel) as im:
+            im.load()
+            assert im.format=='JPEG' and im.mode=='RGB' and im.size==(1200,630), rel
+    for rel in paths:
+        old = dist/rel.with_suffix('.png')
+        if old.exists():
+            data=old.read_bytes(); digest=hashlib.sha256(data).hexdigest()
+            backup=Path(tempfile.gettempdir())/'cratediggin-ogp-png-backup'/digest/rel.with_suffix('.png')
+            backup.parent.mkdir(parents=True,exist_ok=True)
+            shutil.copy2(old,backup)
+            assert backup.read_bytes()==data
+            old.unlink()

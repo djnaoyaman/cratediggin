@@ -18,6 +18,6 @@ assert '<aside class="editor-selection-memory"><h2>選曲メモ</h2><p>'+note+'<
 assert '## 選曲メモ\n\n'+note in m
 assert 'Make Her Say — Kid Cudi feat. Kanye West &amp; Common｜CRATE DIGGIN｜DJ Naoyaman' in h
 im=Image.open(r/'assets/graffiti/kid-cudi-make-her-say-alpha.webp');lo,hi=im.getchannel('A').getextrema();assert lo==0 and hi>=250
-assert Image.open(r/'dist/og/kid-cudi-make-her-say.png').size==(1200,630)
+assert Image.open(r/'dist/og/kid-cudi-make-her-say.jpg').size==(1200,630)
 assert len([d for d in json.loads((r/'editorial_deepdives.json').read_text()) if d['artist']==t['artist'] and d['title']==t['title']][0]['sections'])==2
 print('Make Her Say approved clean MV, source mappings, wedding note, transparent art and OGP verified; actual playback not claimed')

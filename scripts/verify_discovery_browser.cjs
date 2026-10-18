@@ -34,7 +34,7 @@ const {chromium}=require('playwright');
    },route);
    assert.equal(result.title,result.expected.title);assert.equal(result.description,result.expected.description);
    assert.equal(result.og,result.expected.title);assert.equal(result.canonical,result.expected.url);assert.equal(result.ogURL,result.expected.url);
-   assert.equal(result.ogImage,result.expected.image);assert.equal(result.twitterImage,result.expected.image);assert.equal(result.imageType,'image/png');assert.equal(result.imageAlt,result.expected.imageAlt);
+   assert.equal(result.ogImage,result.expected.image);assert.equal(result.twitterImage,result.expected.image);assert.equal(result.imageType,'image/jpeg');assert.equal(result.imageAlt,result.expected.imageAlt);
    if(route.startsWith('#/song/'))assert.deepEqual(result.ld['@graph'].find(x=>x['@type']==='Article').image,[result.expected.image]);
    assert.equal(result.path,result.expected.path);assert.equal(result.hash,'');
    assert(result.ld['@graph'].some(x=>x.url===result.expected.url||x.itemListElement?.some(y=>y.item===result.expected.url)));
