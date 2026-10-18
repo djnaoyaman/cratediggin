@@ -9,7 +9,7 @@ assert 'explicitLyrics' not in t['youtube'] and 'officialArtistChannelId' not in
 assert len(t['essaySources'])==3 and all(all(type(i) is int and 0<=i<len(t['sources']) for i in xs) for xs in t['essaySources'])
 note='仲間の結婚式が元町の山手十番館であり、その記念に選んだCommonの「Celebrate」。'
 assert t['editorSelectionMemory']=={'heading':'選曲メモ','text':note}
-assert {x['id'] for x in tracks if x.get('editorSelectionMemory')}=={'common-celebrate','kid-cudi-make-her-say'}
+assert {'common-celebrate','kid-cudi-make-her-say'} <= {x['id'] for x in tracks if x.get('editorSelectionMemory')}, 'Preserve both wedding selection memories; other authorized memories may coexist'
 html=(r/'dist/tracks/common-celebrate.html').read_text();md=(r/'dist/tracks/common-celebrate.md').read_text()
 assert '<aside class="editor-selection-memory"><h2>選曲メモ</h2><p>'+note+'</p></aside>' in html
 assert '## 選曲メモ\n\n'+note in md

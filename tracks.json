@@ -53880,5 +53880,341 @@
     "context": "Kanye制作、Common客演、A-Trakスクラッチによる2009年の一曲。",
     "versionBasis": "参考ジャケットはExplicit版シングル。掲載音源は公式クリーン版MV（3分18秒）で、同一マスターではありません。",
     "addedOrder": 472
+  },
+  {
+    "id": "dj-shadow-cut-chemist-brainfreeze",
+    "title": "Brainfreeze",
+    "artist": "DJ Shadow & Cut Chemist",
+    "artists": [
+      "DJ Shadow",
+      "Cut Chemist"
+    ],
+    "year": 1999,
+    "releaseYear": 1999,
+    "album": "Brainfreeze",
+    "producer": "DJ Shadow & Cut Chemist（ミックス／ターンテーブル）",
+    "producers": [
+      "DJ Shadow",
+      "Cut Chemist"
+    ],
+    "members": "DJ Shadow / Cut Chemist",
+    "region": "California",
+    "scene": "California / all-45s DJ mix",
+    "category": "DJ Mix",
+    "workType": "mix",
+    "workScope": "whole_work",
+    "workTypeLabel": "DJミックス作品",
+    "countsTowardDailyNewSongs": false,
+    "moods": [
+      "グルーヴ"
+    ],
+    "sounds": [
+      "45s",
+      "スクラッチ",
+      "カットアップ"
+    ],
+    "collections": [
+      "west"
+    ],
+    "sources": [
+      {
+        "label": "DJ Skills — DJ Shadow本人が語る録音の成立と選曲（PDF 10頁）",
+        "url": "https://asset.routledge.com/fp-usermedia/uploadedFiles/Books/Book_Media/Audio/9780240520698_cs.pdf",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Plug One — Cut Chemist本人が語る45sの制約（2007年6月22日）",
+        "url": "https://www.plugonemag.com/2007/06/22/the-plug-one-qa-cut-chemist",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "XLR8R — DJ Shadow本人が振り返る二人の出会い（2012年9月27日）",
+        "url": "https://xlr8r.com/features/rewind-dj-shadow/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Exclaim! — DJ Shadow本人が語る限定制作と続編",
+        "url": "https://exclaim.ca/music/article/dj_shadow-verge_of_third_phase",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "GAVIN — 1999年のBrainfreeze紹介（1999年10月18日、14頁）",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/Gavin-Report/90/99/Gavin-1999-10-18.pdf",
+        "kind": "同時代業界誌"
+      },
+      {
+        "label": "MusicBrainz — Brainfreeze、1999年米国CDの版情報",
+        "url": "https://musicbrainz.org/release/e4825def-264f-4f3c-a245-c51b9465f046",
+        "kind": "作品データベース"
+      },
+      {
+        "label": "Cut Chemist公式ストア — Brainfreezeオリジナル・プレスCD",
+        "url": "https://cutchemist.bandcamp.com/merch/brainfreeze-with-dj-shadow-og-press-cd-sealed",
+        "kind": "アーティスト公式ストア"
+      },
+      {
+        "label": "YouTube — MixtapeTrapによる参考投稿",
+        "url": "https://www.youtube.com/watch?v=VMw2xzb4tlQ",
+        "kind": "第三者参考動画"
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "複数のレコードをつないだミックス作品です。個々の使用音源の一覧は掲載していません。",
+    "listening": [],
+    "connections": [],
+    "editorialCrates": [],
+    "facts": [],
+    "curationNote": "DJ Naoyamanが選んだ、全編で聴くミックス作品。",
+    "editorSelectionMemory": {
+      "heading": "DJ Naoyamanの選曲メモ",
+      "text": "BrainfreezeとProduct Placementは、DJである私に大きなインパクトを与え、サンプリングとDJingへの興味をいっそう深くしてくれた。DJとしての私を特別たらしめたのは、間違いなくこのコンビと、作品を通して彼らへ積極的に愛を送っていたDJ KIYOである。"
+    },
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "editorialStatus": "掲載はMixtapeTrapによる第三者参考動画です。公式投稿ではなく、実再生は未確認です。",
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "addedOrder": 473,
+    "yearBasis": "1999年の作品発表年。後年の再発やFReeZe映像版の発売年とは区別。",
+    "label": "Sixty 7 Recordings",
+    "recordingEdition": "1999年のBrainfreeze全編ミックス",
+    "deck": "レコードを掘る耳と、盤を操る手。二人のDJが、発見した音を一つの時間へ編み直す。",
+    "essayTitle": "レコードの箱から、フロアへ",
+    "essay": [
+      "『Brainfreeze』の出発点は、本番へ向かう直前の録音だった。DJ ShadowはBerkleeでの講演で、Cut Chemistとの初共演に向けて45sだけのルーティンを組み、サンフランシスコの会場へ出かける前の最後のリハーサルを録ったと話している。それが1999年のミックス作品になった。二人のコレクションは、盤を持っているだけでは届かない場所へ、演奏を通して運び出された。",
+      "Cut Chemistが説明する45sの面白さには、扱いづらさも含まれている。盤を操って技を見せるのが難しく、選べる音楽もそのフォーマットに存在するものに限られる。その制約を引き受け、どう乗り越えるかが二人の狙いだったという。小さなレコードだから懐かしい、という話で終わらない。思い通りに扱えない素材と向き合うことが、選曲にも手の動きにも判断を求める。",
+      "選曲の基準も、珍しい盤をどれだけ持っているかだけではなかった。Shadowは、聴き慣れたサンプルの出所を見せるもの、フロアを動かすもの、聴き手を考えさせるものを並べたと振り返る。発見の驚き、身体の反応、耳に残る引っかかり。それぞれ役割の違う音をどう隣り合わせるかに、DJの個性が現れる。元ネタを知った後も、その配置へ戻って聴きたくなる作品だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2,
+        4
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ]
+    ],
+    "context": "45sの発掘とターンテーブルの演奏をつないだ、1999年の共同ミックス。",
+    "versionBasis": "MixtapeTrapによる参考投稿。原盤との完全一致は未確認です。",
+    "youtube": {
+      "id": "VMw2xzb4tlQ",
+      "url": "https://www.youtube.com/watch?v=VMw2xzb4tlQ",
+      "title": "DJ Shadow & Cut Chemist - Brainfreeze (Full Mixtape)",
+      "channel": "MixtapeTrap",
+      "channelUrl": "https://www.youtube.com/@Mixtape_Trap",
+      "type": "MixtapeTrapによる参考投稿",
+      "sourceType": "video",
+      "official": false,
+      "verified": "2026-10-18",
+      "duration": "PT52M11S",
+      "playerDuration": "52:10",
+      "uploadDate": "2026-03-29T17:40:00-07:00",
+      "version": "Brainfreeze Full Mixtape／約52分。メタデータは52:11、プレイヤー表示は52:10。",
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+      "embedUrl": "https://www.youtube.com/embed/VMw2xzb4tlQ",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "exactEditionVerified": false,
+      "verification": "公開ページの投稿者・タイトル・時間を照合。regionsAllowedはJPを含み、embedUrlの宣言あり。日本からの実再生、サイト内埋め込み再生、原盤との音声一致は未確認。"
+    },
+    "art": {
+      "word": "BRAINFREEZE",
+      "lines": [
+        "BRAINFREEZE"
+      ],
+      "tag": "DJ SHADOW & CUT CHEMIST / 1999",
+      "style": "piece",
+      "seed": 1999045001,
+      "profile": "california",
+      "lettering": "block",
+      "palette": [
+        "#101725",
+        "#eadbb9",
+        "#b44f47",
+        "#667f82",
+        "#bc852f"
+      ],
+      "paletteSource": "Brainfreeze OG PRESS CD（Cut Chemist公式ストア）",
+      "paletteSourceUrl": "https://cutchemist.bandcamp.com/merch/brainfreeze-with-dj-shadow-og-press-cd-sealed",
+      "paletteImage": "https://f4.bcbits.com/img/0017990623_36.jpg",
+      "paletteNote": "公式ストアの実ジャケットを別途目視照合した記録に基づく近似配色。深い紺黒、古びたクリーム、赤、青緑、黄土色。厳密な色抽出値ではない。",
+      "letteringNote": "独自のグラフィティ文字。元ジャケットの写真、ロゴ、人物は複製しない。"
+    }
+  },
+  {
+    "id": "dj-shadow-cut-chemist-product-placement-on-tour",
+    "title": "Product Placement: On Tour",
+    "artist": "DJ Shadow & Cut Chemist",
+    "artists": [
+      "DJ Shadow",
+      "Cut Chemist"
+    ],
+    "year": 2004,
+    "releaseYear": 2004,
+    "album": "Product Placement: On Tour",
+    "producer": "DJ Shadow & Cut Chemist（ミックス／ターンテーブル）",
+    "producers": [
+      "DJ Shadow",
+      "Cut Chemist"
+    ],
+    "members": "DJ Shadow / Cut Chemist",
+    "region": "California",
+    "scene": "California / all-45s DJ mix",
+    "category": "DJ Mix",
+    "workType": "mix",
+    "workScope": "whole_work",
+    "workTypeLabel": "ライブ・ミックス作品",
+    "countsTowardDailyNewSongs": false,
+    "moods": [
+      "グルーヴ"
+    ],
+    "sounds": [
+      "45s",
+      "スクラッチ",
+      "カットアップ"
+    ],
+    "collections": [
+      "west"
+    ],
+    "sources": [
+      {
+        "label": "Exclaim! — DJ Shadow本人が語るProduct Placementへの自負",
+        "url": "https://exclaim.ca/music/article/dj_shadow-verge_of_third_phase",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "DJ Times — Cut Chemist本人が語る発掘と演奏の両立（2015年）",
+        "url": "https://www.djtimes.com/2015/01/back-to-the-old-school-dj-shadow-cut-chemists-renegades-of-rhythm-tour-honors-afrika-bambaataas-legacy/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "RapReviews — On TourのDVD/CD評（2005年7月12日）",
+        "url": "https://www.rapreviews.com/archive/2005_07D_productplacement.html",
+        "kind": "専門媒体・DVD評"
+      },
+      {
+        "label": "Pitchfork — 2001年Product Placementの素材を扱う当時評",
+        "url": "https://pitchfork.com/reviews/albums/2372-product-placement/",
+        "kind": "専門媒体・原作盤評"
+      },
+      {
+        "label": "MusicBrainz — On Tour、2004年米国CD・PRSCD-001",
+        "url": "https://musicbrainz.org/release/7dd924e7-d4c2-4acb-8cd1-b206e9ce46dc/cover-art",
+        "kind": "作品データベース"
+      },
+      {
+        "label": "Tower Records — On Tour、2004年の限定CD",
+        "url": "https://tower.jp/item/1098525",
+        "kind": "販売店カタログ"
+      },
+      {
+        "label": "Cut Chemist公式ストア — On TourライブDVD/CD",
+        "url": "https://cutchemist.bandcamp.com/merch/sealed-product-placement-live-dvd-cd-pal-format-but-plays-in-computers",
+        "kind": "アーティスト公式ストア"
+      },
+      {
+        "label": "YouTube — MixtapeTrapによる参考投稿",
+        "url": "https://www.youtube.com/watch?v=Xhg-kVolg-Y",
+        "kind": "第三者参考動画"
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "複数のレコードをつないだミックス作品です。個々の使用音源の一覧は掲載していません。",
+    "listening": [],
+    "connections": [],
+    "editorialCrates": [],
+    "facts": [],
+    "curationNote": "DJ Naoyamanが選んだ、全編で聴くミックス作品。",
+    "editorSelectionMemory": {
+      "heading": "DJ Naoyamanの選曲メモ",
+      "text": "BrainfreezeとProduct Placementは、DJである私に大きなインパクトを与え、サンプリングとDJingへの興味をいっそう深くしてくれた。DJとしての私を特別たらしめたのは、間違いなくこのコンビと、作品を通して彼らへ積極的に愛を送っていたDJ KIYOである。"
+    },
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "editorialStatus": "掲載はMixtapeTrapによる第三者参考動画です。動画は60:44で、CD版（61:33）と長さが異なります。原盤との完全一致と実再生は未確認です。",
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "addedOrder": 474,
+    "yearBasis": "On Tourの2004年リリース。原作Product Placementの2001年や、個々の公演年とは区別。",
+    "relatedOriginalWork": {
+      "title": "Product Placement",
+      "year": 2001
+    },
+    "relatedOriginalWorkYear": 2001,
+    "label": "Pillage Roadshow Productions",
+    "recordingEdition": "Product Placement: On Tourの全編ミックスとして投稿された音源",
+    "deck": "発掘したレコードを、観客の前へ。『Product Placement』の遊び心と構成をライブで捉える。",
+    "essayTitle": "掘った音を、舞台で手渡す",
+    "essay": [
+      "DJ Shadowは『Product Placement』を、自分の中では『Brainfreeze』を上回るセットだったと語っている。Exclaim!の取材で強調したのは、続編に注いだ仕事への誇りだった。2001年の原作からつながる『Product Placement: On Tour』は、2004年に発表されたライブの記録。先の成功をもう一度見せるだけで満足せず、二人で組み立てた次のセットを舞台へ持ち出した、その展開をたどる一作だ。",
+      "Cut Chemistは後年、Shadowとの共同作業では、ターンテーブルの技術とレコードを掘る力を一緒に示したかったと説明した。DJ Timesの取材で重きを置いたのは、新しく発見した古い音楽を人と分かち合うことだった。技を見せる瞬間にも、その手の下には誰かが録音した音がある。『On Tour』を聴く入口もそこにあると思う。何を発見したかと、それをどう届けるか。その両方を担って初めて、二人のパフォーマンスになる。",
+      "素材の行き先には、レコード店のジャンル棚だけでは見つけにくいものもある。原作の当時評が取り上げた「Cookin’ with Gas」は、天然ガスを宣伝するためのラップで、『On Tour』のDVD評にもその演目が登場する。商品を売るための声が、別の文脈ではDJセットの呼び物になる。広告の音まで面白がって拾い上げる耳と、その可笑しさを人前へ差し出す感覚。作品名の『Product Placement』には、そんな遊びを読むこともできる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        4,
+        5
+      ],
+      [
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "context": "2001年のProduct Placementからつながる、2004年のライブ・ミックス作品。",
+    "versionBasis": "2001年のProduct Placementとは別作品。掲載動画は60:44で、CD版の61:33とは長さが異なります。原盤との完全一致は未確認です。",
+    "youtube": {
+      "id": "Xhg-kVolg-Y",
+      "url": "https://www.youtube.com/watch?v=Xhg-kVolg-Y",
+      "title": "DJ Shadow & Cut Chemist - Product Placement: On Tour (Full Mixtape)",
+      "channel": "MixtapeTrap",
+      "channelUrl": "https://www.youtube.com/@Mixtape_Trap",
+      "type": "MixtapeTrapによる参考投稿",
+      "sourceType": "video",
+      "official": false,
+      "verified": "2026-10-18",
+      "duration": "PT60M44S",
+      "playerDuration": "1:00:44",
+      "uploadDate": "2026-03-31T11:18:20-07:00",
+      "version": "On Tour Full Mixtape／60:44。カタログ掲載CD（61:33）との完全一致は未確認。",
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+      "embedUrl": "https://www.youtube.com/embed/Xhg-kVolg-Y",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "exactEditionVerified": false,
+      "verification": "公開ページの投稿者・タイトル・時間を照合。regionsAllowedはJPを含み、embedUrlの宣言あり。日本からの実再生、サイト内埋め込み再生、原盤との音声一致は未確認。"
+    },
+    "art": {
+      "word": "PRODUCT PLACEMENT ON TOUR",
+      "lines": [
+        "PRODUCT PLACEMENT",
+        "ON TOUR"
+      ],
+      "tag": "DJ SHADOW & CUT CHEMIST / 2004",
+      "style": "piece",
+      "seed": 2004045002,
+      "profile": "california",
+      "lettering": "block",
+      "palette": [
+        "#ca2879",
+        "#f1e4c8",
+        "#ed8b3a",
+        "#a64c28",
+        "#111116",
+        "#233e95"
+      ],
+      "paletteSource": "Product Placement: On Tour ライブDVD+CD（Cut Chemist公式ストア）",
+      "paletteSourceUrl": "https://cutchemist.bandcamp.com/merch/sealed-product-placement-live-dvd-cd-pal-format-but-plays-in-computers",
+      "paletteImage": "https://f4.bcbits.com/img/0028605300_36.jpg",
+      "paletteNote": "公式ストア掲載On TourライブDVD+CDの実ジャケットを別途目視照合した記録に基づく近似配色。マゼンタ、クリーム、橙、焦げ茶、黒、青。2001年原作のジャケットではなく、単体CDのスキャンとも断定しない。",
+      "letteringNote": "ON TOURの版名を残す独自のグラフィティ文字。元ジャケットの人物、ロゴ、バッジは複製しない。"
+    }
   }
 ]
