@@ -9304,6 +9304,46 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "redman-rated-r",
+      "title": "Rated “R”",
+      "artist": "Redman",
+      "album": "Whut? Thee Album",
+      "palette": [
+        "#b30c30",
+        "#f0eeeb",
+        "#111012",
+        "#25263e"
+      ],
+      "paletteSource": "Whut? Thee Album",
+      "paletteNote": "赤い背景、黒い帽子、濃紺の衣服、上下の白い帯と赤い荒々しい文字。 正規配信の実ジャケットをクラウドブラウザで目視した近似色。数値抽出ではない。",
+      "coverReference": "https://music.apple.com/us/album/whut-thee-album/1440921502",
+      "status": "ready",
+      "image": "assets/graffiti/redman-rated-r-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "wu-tang-clan-bells-of-war",
+      "title": "Bells of War",
+      "artist": "Wu-Tang Clan",
+      "album": "Wu-Tang Forever",
+      "palette": [
+        "#111411",
+        "#d3d3c8",
+        "#6d5c39",
+        "#484b45"
+      ],
+      "paletteSource": "Wu-Tang Forever",
+      "paletteNote": "黒地に灰白色の地球の経緯線とロゴ、下部のメンバー写真に茶やオリーブの陰影。 正規配信の実ジャケットをクラウドブラウザで目視した近似色。数値抽出ではない。",
+      "coverReference": "https://music.apple.com/us/album/wu-tang-forever/268503472",
+      "status": "ready",
+      "image": "assets/graffiti/wu-tang-clan-bells-of-war-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

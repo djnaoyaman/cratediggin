@@ -53149,5 +53149,244 @@
       ],
       "lettering": "block"
     }
+  },
+  {
+    "id": "redman-rated-r",
+    "title": "Rated “R”",
+    "artist": "Redman",
+    "album": "Whut? Thee Album",
+    "year": 1992,
+    "yearBasis": "正規配信原盤年とアルバム資料・本人取材を照合。DJミックスへの収録年とは区別。配信の1月1日表記を発売日として採用しない。",
+    "region": "East Coast",
+    "scene": "ニュージャージー／ニューアーク",
+    "category": "Hip Hop",
+    "label": "Def Jam（現行正規配信）",
+    "producer": "Erick Sermon / Redman",
+    "producers": [
+      "Erick Sermon",
+      "Redman"
+    ],
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "sources": [
+      {
+        "label": "Redman — Rated “R” 正規配信音源",
+        "url": "https://www.youtube.com/watch?v=4-UxHMd-xdg",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Redman — Whut? Thee Album 正規作品情報",
+        "url": "https://music.apple.com/us/album/whut-thee-album/1440921502",
+        "kind": "正規リリース情報"
+      },
+      {
+        "label": "Redman — Full Clip／2010年の本人回顧",
+        "url": "https://allhiphop.com/features/full-clip-redman-runs-down-his-entire-catalogue/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Redman — The Source／2019年の制作回顧",
+        "url": "https://thesource.com/2019/09/23/exclusive-redman-interview/",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "essayTitle": "荒っぽい名乗りの奥にある、学ぶ時間",
+    "essay": [
+      "「Rated “R”」が収められたのは、1992年の『Whut? Thee Album』。正規音源の制作欄にはErick SermonとR. Noble、つまりRedman本人が並ぶ。先輩の音を借りて声だけを乗せる新人、という図式では捉えきれない出発点だ。曲名の映画的な年齢区分を、過激さの宣伝文句として読むだけでなく、自分の語り口へ付けた看板として眺めたい。短い一曲にも、誰の世界へ入るのかを先に知らせる働きがある。",
+      "2010年の回顧でRedmanは、EPMD、K-Solo、Das EFXのいる陣営から出る以上、自分は何で際立つのかを考えたと話している。影響として挙げるのはJohnny “Guitar” WatsonやParliament-Funkadelicだけでなく、N.W.A、Ice Cube、KRS-One、Slick Rick。東西の境界を守るより、好きな音楽を広く受け取る姿勢が先にあった。その証言を入口にすると、荒っぽい自己紹介の奥に、聴き手として蓄えた語彙を自分の人物像へ組み替える作業が見えてくる。",
+      "本人は2019年、デビュー作を作った時期を学習の過程として振り返った。Erickが忙しくスタジオに来られなくても、セッションを取り消さず、自分で作り方を覚えていったという。完成したアルバムの勢いからは見えにくいが、その背後には手順を身につける時間がある。「Rated “R”」の共同制作クレジットと、このアルバム全体の回想は分けて読みたい。特定の一晩を想像で補わなくても、ラッパーが録音作品の作り手へ育つ時期の曲として位置づけられる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
+    ],
+    "youtube": {
+      "id": "4-UxHMd-xdg",
+      "url": "https://www.youtube.com/watch?v=4-UxHMd-xdg",
+      "channel": "Redman - Topic",
+      "official": true,
+      "type": "Official Audio",
+      "version": "original album recording in current official distribution; not DJ mix edit",
+      "duration": "PT3M22S",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "jpRegionsAllowed": true,
+      "japanRegionStatus": "included",
+      "verification": "公開watchページのDOM meta[itemprop=regionsAllowed]にJPを確認。日本国内からの実再生・埋め込み再生は未検証。初版マスターとの音声比較は未実施。",
+      "verified": "2026-10-18"
+    },
+    "deck": "「Rated “R”」が収められたのは、1992年の『Whut? Thee Album』。正規音源の制作欄にはErick SermonとR. Noble、つまりRedman本人が並ぶ。先輩の音を借りて声だけを乗せる新人、という図式では捉えきれない出発点だ。曲名の映画的な年齢区分を、過激さの宣伝文句として読むだけでなく、自分の語り口へ付けた看板として眺めたい。短い一曲にも、誰の世界へ入るのかを先に知らせる働きがある。",
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプル情報は掲載しない。",
+    "listening": [],
+    "context": "",
+    "connections": [],
+    "editorialCrates": [],
+    "curationNote": "原曲のアルバム収録版。DJミックスの編集・カット入り音源ではない。",
+    "addedOrder": 469,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "members": "",
+    "requestList": "remaining-requested-research",
+    "requestRow": "Sentinel_2d59a5ffe380819191e3b2774b737ccc:19",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "art": {
+      "word": "RATED R",
+      "tag": "REDMAN",
+      "palette": [
+        "#b30c30",
+        "#f0eeeb",
+        "#111012",
+        "#25263e"
+      ],
+      "paletteSource": "Whut? Thee Album",
+      "paletteSourceUrl": "https://music.apple.com/us/album/whut-thee-album/1440921502",
+      "paletteNote": "赤い背景、黒い帽子、濃紺の衣服、上下の白い帯と赤い荒々しい文字。 正規配信の実ジャケットをクラウドブラウザで目視した近似色。数値抽出ではない。",
+      "visuallyInspected": true,
+      "coverInspected": true,
+      "coverInspectedOn": "2026-10-18",
+      "coverInspectionMethod": "Cloud browser screenshot of Apple Music original album page",
+      "style": "piece",
+      "seed": 1483274371,
+      "profile": "east-coast",
+      "lines": [
+        "RATED R"
+      ],
+      "lettering": "block"
+    }
+  },
+  {
+    "id": "wu-tang-clan-bells-of-war",
+    "title": "Bells of War",
+    "artist": "Wu-Tang Clan",
+    "album": "Wu-Tang Forever",
+    "year": 1997,
+    "yearBasis": "正規配信原盤年とアルバム資料・本人取材を照合。DJミックスへの収録年とは区別。正規配信は1997年6月3日を記載。",
+    "region": "East Coast",
+    "scene": "ニューヨーク／スタテンアイランド",
+    "category": "Hip Hop",
+    "label": "Loud / RCA",
+    "producer": "RZA",
+    "producers": [
+      "RZA"
+    ],
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "sources": [
+      {
+        "label": "Wu-Tang Clan — Bells of War 正規配信音源",
+        "url": "https://www.youtube.com/watch?v=YBo0MlJj2So",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Wu-Tang Clan — Wu-Tang Forever 正規作品情報",
+        "url": "https://music.apple.com/us/album/wu-tang-forever/268503472",
+        "kind": "正規リリース情報"
+      },
+      {
+        "label": "SPIN — Phantoms of the Hip-Hopera／1997年の現地取材再掲",
+        "url": "https://www.spinmagazine.com/2017/06/wu-tang-clan-wu-tang-forever-feature/",
+        "kind": "同時代の取材・本人発言"
+      },
+      {
+        "label": "RZA — Fresh Air／2005年3月7日の本人インタビュー",
+        "url": "https://freshairarchive.org/segments/rapper-producer-composer-rza",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "essayTitle": "声が集まる場所と、録音が仕上がる場所",
+    "essay": [
+      "「Bells of War」は、1997年の二枚組『Wu-Tang Forever』に収められた一曲。正規配信ではRZAがプロデューサーとして記され、録音も36 Chamberz StudioのRZA、ミックスはロサンゼルスのAmeraycan StudioでCarlos Bess、Scott Harding、RZAが担当している。大きな集団名の下に、異なる場所と作業の名前が残っているのが面白い。曲を一人のひらめきへ縮めず、録音を積み上げ、外へ届ける形に整える仕事まで含めて見渡せる。",
+      "1997年当時のSPINの取材は、ロサンゼルスで制作中のメンバーを訪ねている。ソロ作品を通して各人の輪郭が広がった時期に、もう一度集団として集まる現場だった。そこでU-Godは一緒にここまで来たことを語り、Raekwonも長く共にいる意思を示している。「Bells of War」の参加者として並ぶ複数の名は、この関係を考える手がかりになる。人数の多さそのものより、独立した声が同じ作品を引き受けることへ耳を向けたい。",
+      "RZAは2005年のFresh Airで、1996年前後に音楽理論を学び始めたと説明した。サンプルの断片を構成する経験を持ちながら、自分でも進行やフレーズを作れるようになろうとしていたという。本人がその変化を結びつけるのが『Wu-Tang Forever』だった。「Bells of War」の素材や演奏をこの証言だけで特定することはできない。それでも、制作の考え方が広がっていた時期の一曲として置くと、二作目を単に初作の拡大版として聴く以外の道が開く。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
+    ],
+    "youtube": {
+      "id": "YBo0MlJj2So",
+      "url": "https://www.youtube.com/watch?v=YBo0MlJj2So",
+      "channel": "Wu-Tang Clan - Topic",
+      "official": true,
+      "type": "Official Audio",
+      "version": "original album recording in current official distribution; not DJ mix edit",
+      "duration": "PT5M13S",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "jpRegionsAllowed": true,
+      "japanRegionStatus": "included",
+      "verification": "公開watchページのDOM meta[itemprop=regionsAllowed]にJPを確認。日本国内からの実再生・埋め込み再生は未検証。初版マスターとの音声比較は未実施。",
+      "verified": "2026-10-18"
+    },
+    "deck": "「Bells of War」は、1997年の二枚組『Wu-Tang Forever』に収められた一曲。正規配信ではRZAがプロデューサーとして記され、録音も36 Chamberz StudioのRZA、ミックスはロサンゼルスのAmeraycan StudioでCarlos Bess、Scott Harding、RZAが担当している。大きな集団名の下に、異なる場所と作業の名前が残っているのが面白い。曲を一人のひらめきへ縮めず、録音を積み上げ、外へ届ける形に整える仕事まで含めて見渡せる。",
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプル情報は掲載しない。",
+    "listening": [],
+    "context": "",
+    "connections": [],
+    "editorialCrates": [],
+    "curationNote": "原曲のアルバム収録版。DJミックスの編集・カット入り音源ではない。",
+    "addedOrder": 470,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "members": "",
+    "requestList": "remaining-requested-research",
+    "requestRow": "Sentinel_2d59a5ffe380819191e3b2774b737ccc:38",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "art": {
+      "word": "BELLS OF WAR",
+      "tag": "WU-TANG CLAN",
+      "palette": [
+        "#111411",
+        "#d3d3c8",
+        "#6d5c39",
+        "#484b45"
+      ],
+      "paletteSource": "Wu-Tang Forever",
+      "paletteSourceUrl": "https://music.apple.com/us/album/wu-tang-forever/268503472",
+      "paletteNote": "黒地に灰白色の地球の経緯線とロゴ、下部のメンバー写真に茶やオリーブの陰影。 正規配信の実ジャケットをクラウドブラウザで目視した近似色。数値抽出ではない。",
+      "visuallyInspected": true,
+      "coverInspected": true,
+      "coverInspectedOn": "2026-10-18",
+      "coverInspectionMethod": "Cloud browser screenshot of Apple Music original album page",
+      "style": "piece",
+      "seed": 1760772361,
+      "profile": "east-coast",
+      "lines": [
+        "BELLS OF WAR"
+      ],
+      "lettering": "block"
+    }
   }
 ]

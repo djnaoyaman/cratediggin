@@ -2984,5 +2984,53 @@
         "sourceLabel": "GZA — Liquid Swords二十周年インタビュー／SPIN"
       }
     ]
+  },
+  {
+    "artist": "Redman",
+    "title": "Rated “R”",
+    "sections": [
+      {
+        "heading": "DJから、舞台へ出るまで",
+        "text": "2010年のインタビューでRedmanは、もともとDoItAllのDJを務め、ラップもしていたと振り返る。地元のクラブでEPMDと出会い、楽屋で腕を見せたことが、その夜のステージへつながったという。\n\nこの入口は、デビューを完成済みのスターの登場として語る物語とは少し違う。誰かの音をつなぐ仕事、近くにいる人の紹介、突然の実演が重なっている。後の「Rated “R”」を、その場で自分を印象づける必要を知った人の自己紹介として読むこともできる。ただし、これは曲そのものの制作日に関する証言ではない。",
+        "sources": [
+          2
+        ],
+        "source": "https://allhiphop.com/features/full-clip-redman-runs-down-his-entire-catalogue/",
+        "sourceLabel": "Redman — Full Clip／2010年の本人回顧"
+      },
+      {
+        "heading": "曲順までが、自分の作品になる",
+        "text": "The Sourceの2019年取材でRedmanは、ビートやラップに加えて、ミックス、マスタリング、曲順もアルバム作りの重要な部分だと話している。デビュー作ではスキットを含めて全体を組み立てたという本人の回想がある。\n\n「Rated “R”」を単独で選びながらも、その前後へ戻る余地を残したい。ひとつのラップの強さと、アルバムの中でそれをどこに置くかは別の仕事だ。曲単位の共同制作欄を尊重しつつ、作品全体の編集にRedmanがどう関わったかを知ると、短い挿話も含めた聴き直しの入口になる。",
+        "sources": [
+          3
+        ],
+        "source": "https://thesource.com/2019/09/23/exclusive-redman-interview/",
+        "sourceLabel": "Redman — The Source／2019年の制作回顧"
+      }
+    ]
+  },
+  {
+    "artist": "Wu-Tang Clan",
+    "title": "Bells of War",
+    "sections": [
+      {
+        "heading": "一つの場所で完結しない録音",
+        "text": "正規音源のクレジットは、録音とミックスの場所を分けている。36 Chamberz Studioでの録音に対し、ミックスはロサンゼルスのAmeraycan Studio。RZAに加え、Carlos BessとScott Hardingの名もそこに記される。\n\nこれは「Bells of War」がいつ、誰の立ち会いで書かれたかをすべて明かす記録ではない。しかし、曲が完成するまでに異なる工程を通ったことは分かる。プロデューサー名だけを見る時に消えてしまう、録音を作品として仕上げる人々の仕事へ戻れる小さな地図だ。",
+        "sources": [
+          0
+        ],
+        "source": "https://www.youtube.com/watch?v=YBo0MlJj2So",
+        "sourceLabel": "Wu-Tang Clan — Bells of War 正規配信音源"
+      },
+      {
+        "heading": "サンプルを捨てずに、作曲を学ぶ",
+        "text": "Fresh AirでRZAは、音楽理論を学ぶ以前から、元の曲の複数の箇所を使ってイントロやヴァース、コーラスを構成していたと説明している。後に理論を学んだことは、その経験を無効にする転向ではなく、自分で表現できる範囲を広げる契機だった。\n\nこの取材で具体例として挙がるのは同じアルバムの「Triumph」であり、「Bells of War」の楽器編成を証明するものではない。その区別を保ちながら二曲を行き来すると、素材の出自を当てるだけでなく、音をどう展開させるかというRZAの関心をたどれる。",
+        "sources": [
+          3
+        ],
+        "source": "https://freshairarchive.org/segments/rapper-producer-composer-rza",
+        "sourceLabel": "RZA — Fresh Air／2005年3月7日の本人インタビュー"
+      }
+    ]
   }
 ]
