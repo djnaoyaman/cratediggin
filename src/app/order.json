@@ -3,6 +3,7 @@
   "navigation.js",
   "playlist-ui.js",
   "player.js",
+  "inline-player.js",
   "catalog-ui.js",
   "song-ui.js",
   "editorial.js",
