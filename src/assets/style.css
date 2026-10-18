@@ -205,3 +205,56 @@ body[data-player-presentation="idle"] #player-reveal:not([hidden]){display:inlin
 body[data-player-presentation="idle"] .layout{row-gap:20px}
 @media(hover:hover){#player-reveal:hover{border-color:var(--blue)}#player-reveal:hover strong{color:var(--blue)}}
 @media(max-width:600px){body[data-player-presentation="idle"] .layout{row-gap:16px}}
+
+/* Preview: shared editorial treatment for controls and artist/producer cards. */
+#player-reveal{background:var(--paper);border-color:var(--ink);border-left:3px solid var(--blue);box-shadow:none;color:var(--ink)}
+#player-reveal strong,#player-reveal .reveal-chevron{color:var(--blue)}
+#player-reveal .reveal-copy>span{color:var(--muted)}
+.feature-poster{background:var(--paper);color:var(--ink);border-color:var(--line);box-shadow:none}
+.feature-portrait,.feature-portrait--name{background:var(--off)}
+.feature-photo{filter:grayscale(1);mix-blend-mode:normal}
+.feature-paper-grain{display:none}
+.feature-portrait:after{background:linear-gradient(transparent,#fff 85%)}
+.feature-portrait--contain:after{background:var(--paper)}
+.feature-portrait--name:after{display:none}
+.feature-tape{background:none;transform:none;color:var(--blue);font:600 10px var(--sans);letter-spacing:.15em}
+.feature-name-tag,.feature-card--portrait:hover .feature-name-tag{transform:none}
+.feature-poster-copy h3{font-family:var(--display);font-size:28px;font-weight:800;line-height:1.1;letter-spacing:.02em;margin-bottom:8px}
+.feature-poster-copy>span{color:var(--blue)}
+.feature-photo-credit,.feature-swipe-hint{color:var(--muted)}
+.feature-grid.feature-swipe>.feature-card:not(.feature-card--portrait){background:var(--paper);border-color:var(--line);box-shadow:none}
+.feature-grid.feature-swipe>.feature-card:not(.feature-card--portrait) h3{font:800 28px/1.1 var(--display);letter-spacing:.02em}
+
+/* Mobile reveal is a full-width entry in the single content column. */
+@media(max-width:600px){#player-reveal{width:100%;justify-self:stretch}}
+
+/* Shared editorial card regions align both collections without clipping credit text. */
+.feature-grid.feature-swipe{align-items:stretch;grid-auto-rows:1fr}
+.feature-poster{display:flex;flex-direction:column;align-self:stretch}
+.feature-card--portrait{display:flex;flex-direction:column;flex:1}
+.feature-portrait{flex:none}
+.feature-poster-copy{display:flex;flex-direction:column;flex:1;min-block-size:10rem}
+.feature-poster-copy>span{margin-top:auto}
+.feature-poster{--feature-credit-space:8rem}
+.feature-photo-credit{min-block-size:var(--feature-credit-space)}
+.feature-poster:not(:has(.feature-photo-credit)):after{content:"";display:block;min-block-size:var(--feature-credit-space)}
+@media(max-width:999px){.feature-poster{--feature-credit-space:12rem}}
+@media(max-width:360px){.feature-poster{--feature-credit-space:16rem}}
+/* Room for enlarged display-font ascenders and two-line collection actions. */
+.feature-poster-copy h3{line-height:1.2}
+.feature-poster-copy>span{min-block-size:3.7em}
+@media(max-width:640px){.feature-poster-copy{min-block-size:13rem}}
+@media(max-width:360px){.feature-poster-copy{min-block-size:14rem}}
+
+/* Visual draft only: contemporary reveal control, no playback behavior changes. */
+#player-reveal{grid-template-columns:minmax(0,1fr) 44px;gap:20px;min-height:92px;padding:18px 20px;width:360px;max-width:100%;text-align:left;background:var(--paper);border:1px solid var(--line);border-left:3px solid var(--blue);box-shadow:none}
+#player-reveal .reveal-copy{min-width:0;text-align:left}
+#player-reveal strong{font-size:32px;line-height:1;letter-spacing:.02em;color:var(--ink)}
+#player-reveal .reveal-copy>span{font-size:11px;color:var(--muted);margin-top:6px}
+#player-reveal .reveal-action{display:grid;place-items:center;width:44px;height:44px;border:1px solid var(--blue);color:var(--blue);background:var(--paper);transition:background-color .12s,color .12s}
+#player-reveal .reveal-chevron{width:20px;height:20px;color:inherit}
+#player-reveal:focus-visible .reveal-action{background:var(--blue);color:white}
+@media(hover:hover){#player-reveal:hover .reveal-action{background:var(--blue);color:white}}
+#player-reveal:active{transform:translateY(1px);box-shadow:none}
+@media(max-width:600px){#player-reveal{width:100%;justify-self:stretch}}
+@media(prefers-reduced-motion:reduce){#player-reveal,#player-reveal:active,#player-reveal .reveal-action{transition:none;transform:none}}
