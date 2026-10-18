@@ -278,3 +278,9 @@ print('Version '+release['version']+' / GitHub Pages base '+BASE_PATH)
 
 from discovery import finalize_discovery
 finalize_discovery(ROOT,DIST,HOST,tracks,features,guides)
+
+# Delivery-only derivatives preserve all authored source images and URLs.
+# Release build-time image caches before the final encoder stage.
+import os, sys
+sys.stdout.flush()
+os.execv(sys.executable, [sys.executable, str(ROOT / 'image_delivery.py'), str(DIST)])

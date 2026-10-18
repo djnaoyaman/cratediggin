@@ -252,3 +252,28 @@ body{background:var(--paper)}.top{background:var(--paper);position:relative;heig
 /* ART layout changes must not move the reading position through scroll anchoring. */
 body:has(#art-view:not([hidden])){overflow-anchor:none}
 .feature-photo-credit{padding-block:0}.feature-photo-credit p{margin:0 0 16px}
+
+/* Authored alpha artwork is shown without a per-image solid backplate. */
+.catalog-graffiti,.track-artwork{background:transparent;background-image:none;padding:0}
+.catalog-graffiti figcaption,.track-artwork figcaption{color:var(--muted)}
+.art-mode-controls{position:absolute;top:94px;left:16px;right:16px;display:flex;gap:8px;z-index:2}
+.art-mode-controls button{min-height:44px;padding:6px 10px;background:transparent;border:1px solid currentColor;color:inherit;font:600 11px var(--sans)}
+.art-mode-controls button[aria-pressed=true]{background:var(--ink);color:white}
+body[data-art-owner] .art-view canvas{top:150px;height:calc(100% - 350px)}
+body[data-art-owner=full] #listening-player,body[data-art-owner=full] .sample-video,body[data-art-owner=full] #inline-player-panel{visibility:hidden!important}
+@media(max-height:500px){body[data-art-owner=full] .art-brand .art-credit{display:none}body[data-art-owner=full] .art-mode-controls{top:52px}body[data-art-owner=full] .art-view canvas{top:100px;height:calc(100% - 260px)}body[data-art-owner=full] .art-info{bottom:76px}body[data-art-owner=full] .art-controls{bottom:30px}body[data-art-owner=full] .art-provider-help{bottom:6px}body[data-art-owner=full] .art-crate-status{display:none}}
+
+/* Keep native video usable throughout the tablet breakpoint, not only phones. */
+@media(min-width:601px) and (max-width:760px){.layout{display:flex;flex-direction:column;gap:32px}.player{position:relative;top:0;width:100%}#view{width:100%;min-width:0}}
+
+#player-fold{min-height:44px;width:100%;display:block;text-align:right;background:transparent;color:#d7deee;border:0;border-bottom:1px solid #64718b;font:600 12px var(--sans);margin-bottom:14px}#player-fold[hidden]{display:none}
+body[data-player-folded=true] .player .player-top,body[data-player-folded=true] .player .now>.eyebrow,body[data-player-folded=true] .player .now>.channel,body[data-player-folded=true] .player .preferences,body[data-player-folded=true] .player .progress-row{display:none}
+body[data-player-folded=true] .player .now strong{font-size:22px}body[data-player-folded=true] .player .now{margin-block:14px}body[data-player-folded=true] .player .status{margin-block:10px}body[data-player-folded=true] .player{padding:16px;border-top:2px solid var(--blue)}
+
+/* Only confirmed stopped/paused owners can lose the native viewport. Play expands first. */
+body[data-player-compact=true]:not([data-art-owner]) .player .video-wrap,body[data-player-compact=true]:not([data-art-owner]) .player #start{display:none}
+
+/* The wall fills the room; only the transparent lettering is constrained to safe art space. */
+#art-wall-background{display:none;position:fixed;inset:0;width:100vw;height:100dvh;pointer-events:none;z-index:99;border:0;box-shadow:none}
+body[data-art-owner] #art-wall-background{display:block}body[data-art-owner]::before{background:transparent}
+body[data-art-owner] .art-view,body[data-art-owner] .art-view.image-art{background:transparent;border:0;box-shadow:none}

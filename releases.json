@@ -187,7 +187,7 @@
       "version": "21.0",
       "datetime": "2026-10-18T22:34:34+09:00",
       "title": "CRATEDIGGIN' — The Listening Archive",
-      "description": "全掲載作品と出典・アートを保持し、聴く・読む・掘る体験を刷新。READINGSとSHUFFLE、見えるプレイヤーとアート表示、検索・共有・静的ページと計測プライバシーを更新。",
+      "description": "全掲載作品と出典・アートを保持し、聴く・読む・掘る体験を刷新。READINGSとSHUFFLE、見えるプレイヤーとアート表示、検索・共有・静的ページと計測プライバシーを更新。 画像の配信幅を最大2400pxへ最適化し、透過グラフィティ、停止確認付きART/VIDEO切り替え、Player以外のコンパクト操作パネルを追加。",
       "kind": "major",
       "dateBasis": "変更記録日時",
       "retrospective": false

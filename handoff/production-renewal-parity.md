@@ -28,3 +28,12 @@ Current owner instruction authorizes full production integration and deployment,
 5. Deployment/cache/analytics source privacy and security; account reporting/Enhanced Measurement verification distinguished from source checks.
 
 No ranking, LLM inclusion, regional playback, iPhone operation or zero-regression guarantee is implied by source checks alone. SEM work is technical landing/discovery/attribution readiness, not paid campaigns.
+
+## Conditional release additions
+Delivery-only image optimization caps all raster widths at2400 without upscaling. Under-cap RGBA pixels, original source files and licenses remain protected; five oversized photos are proportionally resized. image-delivery.json records every derivative and byte/pixel hash.
+
+TRACKS uses original alpha artwork with transparent CSS backplates. ART offers video/full-art choices; full-art requires confirmed pause, suppresses stale playback and never resumes on passive mode changes or Escape. Bandcamp stops and requires explicit reopening. A separate full-viewport deterministic wall sits behind contained graffiti and unobscured native video.
+
+Player stays full. Other routes can fold control chrome while playing, retaining video; only confirmed paused/stopped owners may hide the native viewport. Expand never plays. Unknown/loading/active sample or Bandcamp state cannot be concealed by compact mode.
+
+Expanded browser gates cover320/390/600/601/640/699/700/768/1024/1280/1920 widths,844x390 ART landscape, touch/reduced motion and200%font enlargement (not browser zoom). Amended exact-head CI and contextual captures remain required before conditional release; five production checks follow deployment.
