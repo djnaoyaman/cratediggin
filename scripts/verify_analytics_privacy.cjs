@@ -1,0 +1,15 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const root=process.argv[2]||require('path').join(__dirname,'..'),calls=[];
+const loc={origin:'https://djnaoyaman.github.io',pathname:'/cratediggin/tracks/',href:'https://djnaoyaman.github.io/cratediggin/tracks/?q=PRIVATE_PROBE&utm_source=test#PRIVATE_PROBE'};
+const ctx={window:{gtag:(...a)=>calls.push(a)},URL,location:loc,document:{title:'TRACKS',referrer:'https://outside.example/path?secret=PRIVATE_PROBE'}};vm.createContext(ctx);
+vm.runInContext(fs.readFileSync(root+'/src/assets/analytics-privacy.js','utf8'),ctx);
+vm.runInContext(fs.readFileSync(root+'/src/app/router.js','utf8').split(' function route(){')[0],ctx);
+vm.runInContext('trackPage();trackPage()',ctx);
+assert.equal(calls.filter(c=>c[1]==='page_view').length,1);
+loc.href=loc.origin+loc.pathname+'?q=PRIVATE_PROBE2';vm.runInContext('trackPage()',ctx);
+assert.equal(calls.filter(c=>c[1]==='page_view').length,1);
+loc.pathname='/cratediggin/tracks/can-i-kick-it.html';loc.href=loc.origin+loc.pathname;ctx.document.title='Can I Kick It?';vm.runInContext('trackPage()',ctx);
+let views=calls.filter(c=>c[1]==='page_view');assert.equal(views.length,2);assert.equal(views[1][2].page_referrer,'https://djnaoyaman.github.io/cratediggin/tracks/?utm_source=test');
+loc.pathname='/cratediggin/tracks/';loc.href=loc.origin+loc.pathname;vm.runInContext('trackPage()',ctx);views=calls.filter(c=>c[1]==='page_view');assert.equal(views.length,3);assert.equal(views[2][2].page_referrer,'https://djnaoyaman.github.io/cratediggin/tracks/can-i-kick-it.html');
+assert(!JSON.stringify(calls).includes('PRIVATE_PROBE'));
+console.log('Manual analytics VM pass: initial once, repeated/filter route dedupe, changed route and back counted once, previous safe virtual referrer, no private probe. Does not test GA automatic/network events.');

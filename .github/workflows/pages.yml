@@ -28,6 +28,14 @@ jobs:
           python -m pip install Pillow markdown-it-py==4.0.0
           sudo apt-get update -qq
           sudo apt-get install -y fonts-dejavu-core
+      - name: Restore verified image encoding cache
+        id: image-cache
+        uses: actions/cache/restore@v4
+        with:
+          path: /tmp/cratediggin-image-delivery-cache
+          key: ${{ runner.os }}-image-delivery-${{ hashFiles('image_delivery.py') }}-${{ github.sha }}
+          restore-keys: |
+            ${{ runner.os }}-image-delivery-${{ hashFiles('image_delivery.py') }}-
       - name: Validate JavaScript and generate site
         env:
           SITE_URL: https://djnaoyaman.github.io/cratediggin
@@ -41,6 +49,15 @@ jobs:
           git diff --exit-code -- src templates
           python scripts/audit_editorial_depth.py
           python scripts/verify_catalog_sources.py
+          python scripts/verify_renewal_preservation.py
+          node scripts/verify_analytics_privacy.cjs
+          node scripts/verify_renewal.cjs
+      - name: Save verified image encoding cache
+        if: steps.image-cache.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: /tmp/cratediggin-image-delivery-cache
+          key: ${{ steps.image-cache.outputs.cache-primary-key }}
       - name: Audit catalog metadata and link integrity
         run: |
           python scripts/audit_catalog.py
@@ -50,6 +67,9 @@ jobs:
           python scripts/verify_live_video_works.py
           python scripts/verify_donuts_album.py
           node scripts/verify_album_player.cjs
+          node scripts/verify_visible_art.cjs
+          node scripts/verify_art_modes.cjs
+          python scripts/verify_image_delivery.py
           node scripts/verify_player_presentation.cjs
           python scripts/verify_player_presentation.py
           node scripts/verify_player_intent.cjs
@@ -142,7 +162,21 @@ jobs:
           node scripts/verify_crate_naming_browser.cjs || naming_status=$?
           test "$player_intent_status" -eq 0
           test "$naming_status" -eq 0
-          node scripts/verify_player_presentation_browser.cjs
+          visible_art_status=0
+          renewal_status=0
+          presentation_status=0
+          art_modes_status=0
+          responsive_status=0
+          node scripts/verify_visible_art_browser.cjs || visible_art_status=$?
+          node scripts/verify_art_modes_browser.cjs || art_modes_status=$?
+          node scripts/verify_responsive_renewal_browser.cjs || responsive_status=$?
+          node scripts/verify_renewal_browser.cjs || renewal_status=$?
+          node scripts/verify_player_presentation_browser.cjs || presentation_status=$?
+          test "$responsive_status" -eq 0
+          test "$art_modes_status" -eq 0
+          test "$visible_art_status" -eq 0
+          test "$renewal_status" -eq 0
+          test "$presentation_status" -eq 0
           node scripts/verify_album_browser.cjs
           node scripts/verify_listening_shelves_browser.js
           node scripts/verify_pagination_browser.cjs
@@ -204,6 +238,10 @@ jobs:
             /tmp/donuts-album-*.png
             /tmp/player-intent-*.png
             /tmp/player-presentation-*.png
+            /tmp/renewal-*.png
+            /tmp/visible-art-*.png
+            /tmp/art-modes-*.png
+            /tmp/responsive-renewal-*.png
             /tmp/crate-naming-*.png
             /tmp/mix-enrichment-*.png
             /tmp/shadow-personal-*.png

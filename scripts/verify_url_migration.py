@@ -7,7 +7,8 @@ r=Path(__file__).resolve().parents[1];d=r/'dist'
 pages=json.loads((d/'metadata.js').read_text().removeprefix('window.CRATE_PAGES=').strip().removesuffix(';'))
 mapping=json.loads((d/'url-migrations.json').read_text());base='/cratediggin';host='https://djnaoyaman.github.io'+base
 tracks=json.loads((r/'tracks.json').read_text());features=json.loads((r/'features.json').read_text())['features'];arts=json.loads((r/'graffiti_artwork.json').read_text())['tracks'];ready={a['id'] for a in arts if a['status']=='ready'}
-assert len(pages)==len(tracks)+len({t['artist'] for t in tracks})+len(features)+10
+assert len(pages)==len(tracks)+len({t['artist'] for t in tracks})+len(features)+11
+assert pages['#/readings']['path']==base+'/readings/'
 for old,new in mapping.items():
  p=d/old.removeprefix(base+'/');p=p/'index.html' if old.endswith('/') else p
  assert p.is_file(),old

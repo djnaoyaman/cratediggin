@@ -4,7 +4,7 @@ function harness(reduced=false){
  const calls=[],frames=new Map();let frameId=0;
  const gradient={addColorStop(){}};
  const context=record=>new Proxy({measureText:t=>({width:t.length*20}),createLinearGradient:()=>gradient,createRadialGradient:()=>gradient},{get:(o,k)=>k in o?o[k]:(...args)=>{if(record)calls.push([k,...args])},set:(o,k,v)=>{o[k]=v;if(record&&k==='globalAlpha')calls.push([k,v]);return true}});
- const ctx=context(true),canvas={style:{},getContext:()=>ctx};
+ const ctx=context(true),canvas={style:{},getContext:()=>ctx,getBoundingClientRect:()=>({width:884,height:464})};
  const room={dataset:{},classList:{toggle(){}}},semantic={removeAttribute(){}};
  class Photo{constructor(){this.complete=true;this.naturalWidth=1200;this.naturalHeight=600;this.photo=true}set src(v){this.url=v}}
  const c={window:{CRATE_SITE_URL:'https://example.com/cratediggin'},document:{getElementById:id=>id==='wall'?canvas:id==='artwork-image'?semantic:room,createElement:()=>({getContext:()=>context(false)}),addEventListener(){}},Image:Photo,URL,matchMedia:()=>({matches:reduced}),devicePixelRatio:1,innerWidth:1200,innerHeight:800,performance:{now:()=>1000},requestAnimationFrame:fn=>{frames.set(++frameId,fn);return frameId},cancelAnimationFrame:id=>frames.delete(id),addEventListener(){}};

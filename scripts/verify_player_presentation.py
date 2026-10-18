@@ -17,9 +17,9 @@ for route,p in pages.items():
  parser=RevealParser();parser.feed(text);assert len(parser.buttons)==1
  button=parser.buttons[0];assert button['aria-expanded']=='false' and button['aria-controls']=='listening-player'
  assert ('hidden' in button)==(expected=='open')
- assert button['aria-label']=='OPEN PLAYER：プレイヤーを開く'
+ assert button['aria-label']=='OPEN PLAYER：操作パネルを開く'
  assert 'OPEN PLAYER</strong>' in text and '操作パネルを開く</span>' in text
- assert text.count('class="reveal-record"')==1 and text.count('class="reveal-chevron"')==1
+ assert text.count('class="reveal-action"')==1 and text.count('class="reveal-chevron"')==1
  count+=1
 assert count>700
 print(f'Static content-first markers and compact reveal controls checked for {count} canonical routes.')

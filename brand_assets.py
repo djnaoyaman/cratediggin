@@ -3,7 +3,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 import base64, math
 ROOT=Path(__file__).parent
-BLUE='#006cb6';WHITE='#ffffff';INK='#101114'
+BLUE='#4169e1';WHITE='#ffffff';INK='#141b2d'
 def font(size,marker=False):
     return ImageFont.truetype(str(ROOT/'brand'/('PermanentMarker-Regular.ttf' if marker else 'BarlowCondensed-ExtraBold.ttf')),size)
 def text(im,xy,value,size,width=None,marker=False,fill=WHITE):
@@ -39,7 +39,7 @@ def graffiti_social_image(track):
         d.line((0, y, 1199, y), fill='#595752')
     for x in range(0, 1200, 7):
         d.line((x, 0, x, 629), fill='#514f4a')
-    text(im, (48, 27), 'CRATE DIGGIN’', 30)
+    text(im, (48, 27), "CRATEDIGGIN'", 30)
     text(im, (890, 33), 'DJ NAOYAMAN', 24, width=262)
     artwork = Image.open(source).convert('RGBA')
     artwork.thumbnail((1080, 382), Image.Resampling.LANCZOS)
@@ -56,9 +56,9 @@ def social_image(track=None):
     text(im,(45,31),'RECORDS. RHYMES. RECOLLECTIONS.',24)
     text(im,(946,31),'VOL. 001',24)
     text(im,(45,100),'CRATE',215,width=750)
-    text(im,(45,298),'DIGGIN’',215,width=750)
+    text(im,(45,298),"DIGGIN'",215,width=750)
     text(im,(886,103),'KEEP',43,marker=True)
-    text(im,(875,160),'DIGGIN’.',43,width=285,marker=True)
+    text(im,(875,160),"DIGGIN'.",43,width=285,marker=True)
     vinyl(im,1004,307,72)
     text(im,(913,402),'THE PAST',22)
     text(im,(913,431),'IS STILL PLAYING.',22)
