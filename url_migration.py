@@ -63,7 +63,7 @@ def write_legacy_pages(dist, host, mapping, pages=None):
         social = ''
         page = metadata.get(new) if old.startswith(base + '/songs/') and old.endswith('.html') else None
         if page:
-            values = {'og:title': page['title'], 'og:description': page['description'], 'og:url': page['url'], 'og:type': page['kind'], 'og:site_name': 'CRATEDIGGIN\'', 'og:locale': 'ja_JP', 'og:image': page['image'], 'og:image:width': '1200', 'og:image:height': '630', 'og:image:type': 'image/png', 'og:image:alt': page['imageAlt']}
+            values = {'og:title': page['title'], 'og:description': page['description'], 'og:url': page['url'], 'og:type': page['kind'], 'og:site_name': 'CRATEDIGGIN\'', 'og:locale': 'ja_JP', 'og:image': page['image'], 'og:image:width': '1200', 'og:image:height': '630', 'og:image:type': 'image/jpeg', 'og:image:alt': page['imageAlt']}
             social = ''.join('<meta property="'+key+'" content="'+html.escape(value, quote=True)+'">' for key,value in values.items())
             values = {'twitter:card': 'summary_large_image', 'twitter:title': page['title'], 'twitter:description': page['description'], 'twitter:image': page['image'], 'twitter:image:alt': page['imageAlt']}
             social += ''.join('<meta name="'+key+'" content="'+html.escape(value, quote=True)+'">' for key,value in values.items())

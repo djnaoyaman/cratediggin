@@ -40,7 +40,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
             result['@id'] = host + '/artists/' + slugs[name] + '.html#artist'
         return result
 
-    def add(route, relative, title, description, body=None, image='og-image.png', graph=None, kind='website', image_alt=None):
+    def add(route, relative, title, description, body=None, image='og-image.jpg', graph=None, kind='website', image_alt=None):
         target = dist / (relative or 'index.html')
         if relative.endswith('/'):
             target = target / 'index.html'
@@ -90,7 +90,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
     for t in tracks:
         relative = 'songs/' + t['id'] + '.html'
         url = host + '/' + relative
-        image = 'og/' + t['id'] + '.png'
+        image = 'og/' + t['id'] + '.jpg'
         recording = {'@type': 'MusicRecording', '@id': url + '#recording', 'name': t['title'],
                      'byArtist': entity(t['artist']), 'inAlbum': {'@type': 'MusicAlbum', 'name': t['album']},
                      'url': url, 'subjectOf': {'@id': url + '#article'}}
@@ -165,10 +165,10 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
     for f in features:
         relative = 'features/' + f['id'] + '.html'
         url = host + '/' + relative
-        from brand_assets import social_image
-        feature_image = 'feature-og/' + f['id'] + '.png'
+        from brand_assets import save_social_image
+        feature_image = 'feature-og/' + f['id'] + '.jpg'
         (dist / 'feature-og').mkdir(exist_ok=True)
-        social_image({'title': f['name'], 'artist': 'Artist & producer features / DJ Naoyaman'}).save(dist / feature_image)
+        save_social_image(dist / feature_image, {'title': f['name'], 'artist': 'Artist & producer features / DJ Naoyaman'})
         description = f['name'] + '特集。' + f['editorial']['title'] + ' ' + f['editorial']['context']
         add('#/feature/' + f['id'], relative, f['name'] + ' — ' + f['editorial']['title'] + ' / CRATEDIGGIN\'',
             description, image=feature_image, graph=[article(url, f['editorial']['title'], description, feature_image,
@@ -259,7 +259,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         meta += '<link rel="canonical" href="' + esc(p['url'], quote=True) + '">'
         for name, value in {'og:title': p['title'], 'og:description': p['description'], 'og:url': p['url'],
                             'og:type': p['kind'], 'og:site_name': 'CRATEDIGGIN\'', 'og:locale': 'ja_JP',
-                            'og:image': p['image'], 'og:image:type': 'image/png', 'og:image:width': '1200', 'og:image:height': '630',
+                            'og:image': p['image'], 'og:image:type': 'image/jpeg', 'og:image:width': '1200', 'og:image:height': '630',
                             'og:image:alt': p['imageAlt']}.items():
             meta += '<meta property="' + name + '" content="' + esc(value, quote=True) + '">'
         for name, value in {'twitter:card': 'summary_large_image', 'twitter:title': p['title'],
