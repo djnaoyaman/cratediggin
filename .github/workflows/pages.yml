@@ -149,6 +149,7 @@ jobs:
           node scripts/verify_requested_six_browser.cjs
           node scripts/verify_requested_two_browser.cjs
           node scripts/verify_section_references_browser.cjs
+          node scripts/verify_art_crate_browser.cjs
           node scripts/verify_deep_rooted_browser.cjs
           node scripts/verify_requested_next_browser.cjs
           node scripts/verify_requested_following_browser.cjs
@@ -179,6 +180,7 @@ jobs:
             /tmp/producer-note-*.png
             /tmp/inline-bandcamp-*.png
             /tmp/section-references-*.png
+            /tmp/art-crate-*.png
           if-no-files-found: ignore
           retention-days: 3
       - uses: actions/upload-pages-artifact@v4
