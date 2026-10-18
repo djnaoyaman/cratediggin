@@ -50,6 +50,7 @@ jobs:
           python scripts/verify_live_video_works.py
           python scripts/verify_donuts_album.py
           node scripts/verify_album_player.cjs
+          node scripts/verify_player_intent.cjs
           python scripts/verify_mix_works.py
           python scripts/verify_mix_enrichment.py
           python scripts/verify_graffiti_og.py
@@ -133,6 +134,8 @@ jobs:
           python -m http.server 8765 --directory /tmp/crate-preview >/tmp/crate-preview.log 2>&1 &
           server=$!
           trap 'kill "$server"' EXIT
+          node scripts/verify_player_intent_browser.cjs
+          node scripts/verify_crate_naming_browser.cjs
           node scripts/verify_album_browser.cjs
           node scripts/verify_listening_shelves_browser.js
           node scripts/verify_pagination_browser.cjs
@@ -192,6 +195,8 @@ jobs:
             /tmp/live-video-*.png
             /tmp/work-label-*.png
             /tmp/donuts-album-*.png
+            /tmp/player-intent-*.png
+            /tmp/crate-naming-*.png
             /tmp/mix-enrichment-*.png
             /tmp/shadow-personal-*.png
             /tmp/shadow-photos-*.png
