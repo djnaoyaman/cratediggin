@@ -146,4 +146,4 @@ footer{flex-wrap:wrap}footer .page-sharing{flex-shrink:0}
 }
 
 
-.inline-listening{margin:1rem 0;max-width:700px}.inline-listening button{min-height:44px}.inline-listening p{font-size:13px;line-height:1.6}.inline-listening iframe{max-width:100%;min-width:170px}.inline-listening [hidden]{display:none}
+.inline-listening{margin:1rem 0;max-width:700px}.inline-listening button{min-height:44px;font-size:11px;padding:9px 16px;border:1px solid var(--ink);background:transparent;color:var(--ink)}.inline-listening p{font-size:13px;line-height:1.6}.inline-listening iframe{max-width:100%;min-width:170px}.inline-listening [hidden]{display:none}
