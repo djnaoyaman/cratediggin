@@ -182,3 +182,6 @@ footer{flex-wrap:wrap}footer .page-sharing{flex-shrink:0}
 
 /* Distinguish the inline name editor without changing autosave or playback. */
 #my-crate-settings:focus-within{background:#e2f0fa;box-shadow:inset 4px 0 #006cb6}#my-crate-name{background:#fff;color:#101114;border:1px solid #006cb6;font-size:16px;min-width:0}#my-crate-name:focus-visible,#my-crate-save:focus-visible{outline:3px solid #006cb6;outline-offset:3px}#my-crate-save{margin-top:10px;padding:10px 16px;border:1px solid #006cb6;background:#006cb6;color:#fff;min-height:44px}#my-crate-settings .crate-name-editing{font-weight:600;color:#006cb6;margin:0 0 10px}#my-crate-settings:focus-within .crate-name-editing{color:#101114}#my-crate-name-status:empty{display:none}
+
+/* Keep native sample controls at least 200px high without an intrinsic mobile width. */
+@media(max-width:600px){.sample-video{width:100%;min-width:0;aspect-ratio:auto;height:200px}}
