@@ -64,6 +64,7 @@ jobs:
           python scripts/verify_url_migration.py
           python scripts/verify_profile_notes.py
           python scripts/verify_public_copy.py
+          python scripts/verify_reader_copy_cleanup.py
           python scripts/verify_social_sharing_static.py
           python scripts/test_revision_dates.py
           node scripts/verify_inline_player.cjs
