@@ -59,12 +59,16 @@ for route, meta in registry.items():
         tid = route.split('/')[-1]
         original = source_by_id[tid]
         assert article.get('datePublished') == original.get('datePublished'), 'Do not invent publication dates'
-        expected_type = 'MusicAlbum' if original.get('workType') == 'mix' else 'MusicRecording'
+        expected_type = {'mix':'MusicAlbum','live_video':'VideoObject'}.get(original.get('workType'),'MusicRecording')
         recording = next(x for x in graph if x['@type'] == expected_type)
         if original.get('workType') == 'mix':
             assert recording['albumProductionType'] == 'https://schema.org/DJMixAlbum'
             assert 'inAlbum' not in recording
             assert not any(x['@type'] == 'MusicRecording' for x in graph)
+        if original.get('workType') == 'live_video':
+            assert 'datePublished' not in recording and 'inAlbum' not in recording
+            assert recording['embedUrl']=='https://www.youtube.com/embed/'+original['youtube']['id']
+            assert recording.get('uploadDate')==original['youtube'].get('uploadDate')
         if original['artist'] in ('A Tribe Called Quest', 'Gang Starr'):
             assert recording['byArtist']['@type'] == 'MusicGroup'
         assert 'sameAs' not in recording, 'Reference uploads must not assert authoritative identity'

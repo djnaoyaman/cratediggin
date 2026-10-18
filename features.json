@@ -358,12 +358,14 @@
         ],
         "references": [
           {
-            "label": "関連映像：FReeZe",
-            "url": "https://youtu.be/gu9Gz5asQe4"
+            "label": "FReeZeをアートと再生",
+            "url": "https://youtu.be/gu9Gz5asQe4",
+            "trackId": "dj-shadow-cut-chemist-freeze-live-video"
           },
           {
-            "label": "関連映像：Product Placement",
-            "url": "https://youtu.be/gdZ5cHYrcLU"
+            "label": "Product Placementのライブ映像をアートと再生",
+            "url": "https://youtu.be/gdZ5cHYrcLU",
+            "trackId": "dj-shadow-cut-chemist-product-placement-live-video"
           }
         ],
         "photos": [

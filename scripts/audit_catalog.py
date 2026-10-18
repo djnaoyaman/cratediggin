@@ -111,6 +111,7 @@ def main():
         "version": releases["version"], "total_tracks": len(tracks),
         "total_songs": sum(t.get("workType", "single")=="single" for t in tracks),
         "total_mixes": sum(t.get("workType")=="mix" for t in tracks),
+        "total_live_videos": sum(t.get("workType")=="live_video" for t in tracks),
         "with_video_id": sum(bool(t["youtube_id"]) for t in rows),
         "without_video_id": sum(not t["youtube_id"] for t in rows),
         "duplicate_video_ids": sum(n - 1 for n in video_ids.values() if n > 1),

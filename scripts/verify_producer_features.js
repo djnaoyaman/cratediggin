@@ -10,7 +10,7 @@ const start = app.indexOf(' const features=[');
 const end = app.indexOf(' function featurePage', start);
 assert(start >= 0 && end > start, 'Feature code not found');
 const context = vm.createContext({songs});
-vm.runInContext(app.slice(start, end) + '; globalThis.catalogFeatures = features; globalThis.selectFeature = featureTracks;', context);
+vm.runInContext(fs.readFileSync(path.join(root,'src/app/core.js'),'utf8').split(' const songs=')[0]+app.slice(start, end) + '; globalThis.catalogFeatures = features; globalThis.selectFeature = featureTracks;', context);
 const expected = {
   'dj-shadow': ['dj-shadow-organ-donor-extended-overhaul','dj-shadow-in-flux','dj-shadow-building-steam-with-a-grain-of-salt','dj-shadow-organ-donor','dj-shadow-midnight-in-a-perfect-world','dj-shadow-stem-long-stem','dj-shadow-what-does-your-soul-look-like','dj-shadow-high-noon','unkle-rabbit-in-your-headlights','unkle-lonely-soul','dj-shadow-six-days','dj-shadow-mashin-on-the-motorway','dj-shadow-scale-it-back','dj-shadow-the-mountain-will-fall','dj-shadow-nobody-speak','dj-shadow-rocket-fuel','dj-shadow-ozone-scraper','dj-shadow-the-number-song','dj-shadow-the-number-song-cut-chemist-remix'],
   'j-dilla': ['slum-village-fall-in-love','slum-village-players','slum-village-get-dis-money','j-dilla-fuck-the-police','jaylib-the-red','j-dilla-workinonit','j-dilla-time-the-donut-of-the-heart','j-dilla-last-donut-of-the-night','j-dilla-so-far-to-go','runnin','the-pharcyde-drop','de-la-soul-stakes-is-high','janet-jackson-got-til-its-gone-jay-dees-revenge-mix','a-tribe-called-quest-find-a-way','common-the-light','erykah-badu-didnt-cha-know'],
@@ -20,7 +20,7 @@ for (const [id, required] of Object.entries(expected)) {
   const feature = context.catalogFeatures.find(f => f.id === id);
   assert(feature && feature.type === 'producer' && feature.allYears, id + ': missing all-years producer feature');
   const selected = context.selectFeature(feature);
-  assert(selected.every((t, i) => i === 0 || selected[i - 1].year <= t.year), id + ': chronological order');
+  assert(selected.every((t, i) => i === 0 || (Number.isInteger(selected[i-1].year)?selected[i-1].year:9999) <= (Number.isInteger(t.year)?t.year:9999)), id + ': chronological order');
   for (const tid of required) {
     const track = selected.find(t => t.id === tid);
     assert(track && track.youtube.id, id + ': missing song/audio ' + tid);

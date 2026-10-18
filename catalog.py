@@ -28,22 +28,29 @@ def feature_tracks(tracks,f):
         production=any(n in f.get('productionNames',[]) for n in t.get('producers',[]))
         if f['type']=='producer':production=production or any(n in names for n in t.get('producers',[])) or t['artist'] in f.get('collaborations',[])
         return identity or production
-    return sorted([t for t in tracks if (f.get('allYears') or 1990<=t['year']<=1999) and selected(t)],key=lambda t:(t['year'],t['title']))
+    return sorted([t for t in tracks if (f.get('allYears') or isinstance(t['year'],int) and 1990<=t['year']<=1999) and selected(t)],key=lambda t:(year_sort(t),t['title']))
 
+
+def year_label(t):
+    return str(t['year']) if isinstance(t.get('year'),int) else '発表年未確認'
+
+def year_sort(t):
+    return t['year'] if isinstance(t.get('year'),int) else 9999
 
 def work_type(t):
     return t.get('workType', 'single')
 
 def work_label(t):
-    return {'single': '楽曲', 'mix': 'DJミックス作品'}[work_type(t)]
+    return {'single': '楽曲', 'mix': 'DJミックス作品', 'live_video': 'ライブ映像（参考投稿）'}[work_type(t)]
 
 def work_count(tracks):
     singles=sum(work_type(t)=='single' for t in tracks)
     mixes=sum(work_type(t)=='mix' for t in tracks)
-    return str(singles)+'曲' + ('・'+str(mixes)+'ミックス作品' if mixes else '')
+    videos=sum(work_type(t)=='live_video' for t in tracks)
+    return str(singles)+'曲' + ('・'+str(mixes)+'ミックス作品' if mixes else '') + ('・'+str(videos)+'ライブ映像' if videos else '')
 
 def validate_work(t):
-    assert work_type(t) in {'single', 'mix'}, 'Unsupported work type'
+    assert work_type(t) in {'single', 'mix', 'live_video'}, 'Unsupported work type'
     y=t.get('youtube', {})
     assert y.get('sourceType', 'video')=='video', 'Playlist playback is not implemented in this release'
     assert not y.get('playlistId'), 'Playlist must not be disguised as a video'
