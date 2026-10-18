@@ -565,5 +565,26 @@
   },
   "MED feat. Aloe Blacc": {
     "type": null
+  },
+  "Living Legends": {
+    "type": "MusicGroup"
+  },
+  "Visionaries": {
+    "type": "MusicGroup"
+  },
+  "LMNO": {
+    "type": "Person"
+  },
+  "Pitch Black": {
+    "type": "MusicGroup"
+  },
+  "Time Machine feat. Edo G.": {
+    "type": null
+  },
+  "Method Man feat. Missy Elliott": {
+    "type": null
+  },
+  "Wu-Tang Clan feat. Flavor Flav": {
+    "type": null
   }
 }

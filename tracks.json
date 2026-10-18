@@ -50662,5 +50662,1676 @@
       "lettering": "block",
       "letteringNote": "既存作品の転載ではない独自の文字表現。"
     }
+  },
+  {
+    "id": "living-legends-brand-new",
+    "title": "Brand New",
+    "artist": "Living Legends",
+    "album": "Classic",
+    "year": 2005,
+    "youtube": {
+      "id": "leAhss6HgCQ",
+      "url": "https://www.youtube.com/watch?v=leAhss6HgCQ",
+      "official": true,
+      "provider": "EMPIRE Distribution",
+      "channel": "thelivinglegends",
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "Watch-page DOM meta[itemprop=regionsAllowed] explicitly includes JP; actual Japan playback and embedded playback not tested.",
+      "verified": "2026-10-17",
+      "title": "Brand New",
+      "type": "Official Audio",
+      "version": "オリジナル・アルバム収録音源"
+    },
+    "art": {
+      "word": "BRAND NEW",
+      "tag": "LIVING LEGENDS",
+      "palette": [
+        "#c3ae76",
+        "#eee4bd",
+        "#543c22",
+        "#242219"
+      ],
+      "paletteSource": "Living Legends — Classic",
+      "paletteNote": "セピア色の野球チーム写真、淡いクリーム色のユニフォーム、黄土色と焦茶。 公式掲載の実ジャケットをクラウドブラウザで目視確認した編集上の近似配色。数値抽出ではない。",
+      "coverInspected": true,
+      "coverInspectedOn": "2026-10-17",
+      "coverInspectionMethod": "Cloud browser screenshot of official artist album/store page",
+      "lines": [
+        "BRAND NEW"
+      ],
+      "lettering": "block",
+      "letteringNote": "独自の編集上のレタリング指定。ジャケット文字の複製ではない。",
+      "paletteSourceUrl": "https://www.legendarymusic.net/shop/living-legends-classic-vinyl",
+      "style": "piece",
+      "seed": 1435673075,
+      "profile": "west-coast"
+    },
+    "region": "West Coast",
+    "scene": "West Coast Underground",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "label": "Legendary Music",
+    "producer": "DJ Khalil",
+    "producers": [
+      "DJ Khalil"
+    ],
+    "sources": [
+      {
+        "label": "YouTube — 公式アルバム音源",
+        "url": "https://www.youtube.com/watch?v=leAhss6HgCQ",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Living Legends — Classic 公式盤・ジャケット",
+        "url": "https://www.legendarymusic.net/shop/living-legends-classic-vinyl",
+        "kind": "公式作品ページ"
+      },
+      {
+        "label": "Rapmaniacz — Classic 曲別制作クレジット",
+        "url": "https://www.rapmaniacz.com/living-legends-classic/",
+        "kind": "ディスコグラフィー"
+      },
+      {
+        "label": "XLR8R — Grouch / Luckyiam インタビュー（2005）",
+        "url": "https://xlr8r.com/features/the-living-legends-hip-hop-masterpiece/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Exclaim! — Del F. Cowieによる当時評",
+        "url": "https://exclaim.ca/music/article/living_legends-classic",
+        "kind": "批評"
+      },
+      {
+        "label": "Grateful Web — Grouch / Luckyiam インタビュー（2024）",
+        "url": "https://www.gratefulweb.com/articles/grateful-web-interview-with-living-legends/",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "deck": "DJ Khalil制作。『Classic』の新しさを、細かく刻むファンクの感覚から捉える一曲。",
+    "essayTitle": "「定番」という名前に、新しさを入れる",
+    "essay": [
+      "「Brand New」は2005年の『Classic』に収録されたDJ Khalil制作曲。クルー内部だけで制作を閉じず、外のビートメイカーにも場を開いた作品の一面が、この一曲から見えてくる。",
+      "発売時のExclaim!評でDel F. Cowieが本曲の特徴として挙げたのは、細かく途切れるようなファンクの運びだった。評者は多数のMCが異なるビートに対応する点をアルバムの成果と見ている。曲名の「新しさ」を流行の更新だけでなく、集団が別のリズムへ適応する力として考える入口になる。",
+      "『Classic』の実ジャケットは、野球チームの集合写真を思わせるセピア色の図像だ。古びた写真の色と「Brand New」という名前を並べると、過去の形式を使いながら現在形の集団を見せる、という読み方ができる。これは制作意図の断定ではなく、作品の名前と視覚表現を重ねた編集上の解釈だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2
+      ],
+      [
+        4
+      ],
+      [
+        1
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "context": "DJ Khalil制作。『Classic』の新しさを、細かく刻むファンクの感覚から捉える一曲。",
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "requestList": "living-legends-intake",
+    "requestRow": "Sentinel_f94f6db647f88191a3a8c9cf2873bed6:4",
+    "yearBasis": "オリジナル収録作品の発表年。",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "addedOrder": 450,
+    "members": ""
+  },
+  {
+    "id": "living-legends-blast-your-radio",
+    "title": "Blast Your Radio",
+    "artist": "Living Legends",
+    "album": "Classic",
+    "year": 2005,
+    "youtube": {
+      "id": "uXgTgENOU88",
+      "url": "https://www.youtube.com/watch?v=uXgTgENOU88",
+      "official": true,
+      "provider": "EMPIRE Distribution",
+      "channel": "thelivinglegends",
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "Watch-page DOM meta[itemprop=regionsAllowed] explicitly includes JP; actual Japan playback and embedded playback not tested.",
+      "verified": "2026-10-17",
+      "title": "Blast Your Radio",
+      "type": "Official Audio",
+      "version": "オリジナル・アルバム収録音源"
+    },
+    "art": {
+      "word": "BLAST YOUR RADIO",
+      "tag": "LIVING LEGENDS",
+      "palette": [
+        "#c3ae76",
+        "#eee4bd",
+        "#543c22",
+        "#242219"
+      ],
+      "paletteSource": "Living Legends — Classic",
+      "paletteNote": "セピア色の野球チーム写真、淡いクリーム色のユニフォーム、黄土色と焦茶。 公式掲載の実ジャケットをクラウドブラウザで目視確認した編集上の近似配色。数値抽出ではない。",
+      "coverInspected": true,
+      "coverInspectedOn": "2026-10-17",
+      "coverInspectionMethod": "Cloud browser screenshot of official artist album/store page",
+      "lines": [
+        "BLAST YOUR RADIO"
+      ],
+      "lettering": "block",
+      "letteringNote": "独自の編集上のレタリング指定。ジャケット文字の複製ではない。",
+      "paletteSourceUrl": "https://www.legendarymusic.net/shop/living-legends-classic-vinyl",
+      "style": "piece",
+      "seed": 1934904040,
+      "profile": "west-coast"
+    },
+    "region": "West Coast",
+    "scene": "West Coast Underground",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "label": "Legendary Music",
+    "producer": "Madlib",
+    "producers": [
+      "Madlib"
+    ],
+    "sources": [
+      {
+        "label": "YouTube — 公式アルバム音源",
+        "url": "https://www.youtube.com/watch?v=uXgTgENOU88",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Living Legends — Classic 公式盤・ジャケット",
+        "url": "https://www.legendarymusic.net/shop/living-legends-classic-vinyl",
+        "kind": "公式作品ページ"
+      },
+      {
+        "label": "Rapmaniacz — Classic 曲別制作クレジット",
+        "url": "https://www.rapmaniacz.com/living-legends-classic/",
+        "kind": "ディスコグラフィー"
+      },
+      {
+        "label": "XLR8R — Grouch / Luckyiam インタビュー（2005）",
+        "url": "https://xlr8r.com/features/the-living-legends-hip-hop-masterpiece/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Exclaim! — Del F. Cowieによる当時評",
+        "url": "https://exclaim.ca/music/article/living_legends-classic",
+        "kind": "批評"
+      },
+      {
+        "label": "Grateful Web — Grouch / Luckyiam インタビュー（2024）",
+        "url": "https://www.gratefulweb.com/articles/grateful-web-interview-with-living-legends/",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "deck": "Madlibのビートを得て、「古い」と「クラシック」の違いを問う。",
+    "essayTitle": "懐古とクラシックを分ける",
+    "essay": [
+      "「Blast Your Radio」は『Classic』の三曲目で、制作はMadlib。2005年のExclaim!評でも、アルバムのハイライトとして名指しされている。ここではゲストの知名度より、外から来たビートが多数の声を受け止める場所になっている点に目を向けたい。",
+      "XLR8Rの発売時記事は、アルバム名の意味を本曲に見いだしている。古い形式を再現すれば自動的にクラシックになるわけではなく、新しいものもクラシックになりうるという区別だ。懐かしさを保証書にせず、今作る音楽の価値を問う姿勢が、挑発的な作品名を支えている。",
+      "同時代のCowie評は、アルバムの多様なビートと集団としてのまとまりを評価する一方、シンセ中心の制作がMCを覆う場面も指摘した。本曲への賛辞をその留保と一緒に読むと、単なる全肯定ではないと分かる。「クラシック」を名乗った作品を、当時の聴き手も曲ごとの差から判断していた。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2,
+        4
+      ],
+      [
+        3
+      ],
+      [
+        4
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "context": "Madlibのビートを得て、「古い」と「クラシック」の違いを問う。",
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "requestList": "living-legends-intake",
+    "requestRow": "Sentinel_f94f6db647f88191a3a8c9cf2873bed6:16",
+    "yearBasis": "オリジナル収録作品の発表年。",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "addedOrder": 451,
+    "members": ""
+  },
+  {
+    "id": "living-legends-even-though",
+    "title": "Even Though",
+    "artist": "Living Legends",
+    "album": "Classic",
+    "year": 2005,
+    "youtube": {
+      "id": "nEoUHdiXoxw",
+      "url": "https://www.youtube.com/watch?v=nEoUHdiXoxw",
+      "official": true,
+      "provider": "EMPIRE Distribution",
+      "channel": "thelivinglegends",
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "Watch-page DOM meta[itemprop=regionsAllowed] explicitly includes JP; actual Japan playback and embedded playback not tested.",
+      "verified": "2026-10-17",
+      "title": "Even Though",
+      "type": "Official Audio",
+      "version": "オリジナル・アルバム収録音源"
+    },
+    "art": {
+      "word": "EVEN THOUGH",
+      "tag": "LIVING LEGENDS",
+      "palette": [
+        "#c3ae76",
+        "#eee4bd",
+        "#543c22",
+        "#242219"
+      ],
+      "paletteSource": "Living Legends — Classic",
+      "paletteNote": "セピア色の野球チーム写真、淡いクリーム色のユニフォーム、黄土色と焦茶。 公式掲載の実ジャケットをクラウドブラウザで目視確認した編集上の近似配色。数値抽出ではない。",
+      "coverInspected": true,
+      "coverInspectedOn": "2026-10-17",
+      "coverInspectionMethod": "Cloud browser screenshot of official artist album/store page",
+      "lines": [
+        "EVEN THOUGH"
+      ],
+      "lettering": "block",
+      "letteringNote": "独自の編集上のレタリング指定。ジャケット文字の複製ではない。",
+      "paletteSourceUrl": "https://www.legendarymusic.net/shop/living-legends-classic-vinyl",
+      "style": "piece",
+      "seed": 2471908555,
+      "profile": "west-coast"
+    },
+    "region": "West Coast",
+    "scene": "West Coast Underground",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "label": "Legendary Music",
+    "producer": "Bean One",
+    "producers": [
+      "Bean One"
+    ],
+    "sources": [
+      {
+        "label": "YouTube — 公式アルバム音源",
+        "url": "https://www.youtube.com/watch?v=nEoUHdiXoxw",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Living Legends — Classic 公式盤・ジャケット",
+        "url": "https://www.legendarymusic.net/shop/living-legends-classic-vinyl",
+        "kind": "公式作品ページ"
+      },
+      {
+        "label": "Rapmaniacz — Classic 曲別制作クレジット",
+        "url": "https://www.rapmaniacz.com/living-legends-classic/",
+        "kind": "ディスコグラフィー"
+      },
+      {
+        "label": "Exclaim! — Del F. Cowieによる当時評",
+        "url": "https://exclaim.ca/music/article/living_legends-classic",
+        "kind": "批評"
+      },
+      {
+        "label": "Lyricshare — Even Though 歌詞掲載",
+        "url": "https://lyricshare.net/en/living-legends/even-though.html",
+        "kind": "歌詞資料"
+      }
+    ],
+    "deck": "Luckyiam、Sunspot Jonz、Mursが、愛情と関係の破綻を別々の角度から語る。",
+    "essayTitle": "好きであることと、続けられること",
+    "essay": [
+      "「Even Though」は『Classic』の十一曲目、Bean One制作。掲載歌詞ではLucky.PSC、Sunspot Jonz、Mursの順に語り手が移る。大人数のクルー名義でも、ここで前面にあるのは全員参加の自己紹介ではなく、少数の声で一つの関係の問題を掘り下げる構成だ。",
+      "歌詞の中心には、愛情が残っていても衝突が止まらないという矛盾がある。相手への思いだけを美化せず、嫉妬や不信、自分の振る舞いも視野に入れる。恋愛がうまくいかない理由を一方の悪者に回収しないところに、複数の語り手を置く意味がある。",
+      "Mursのパートでは、若さと将来への期待に対して、関係を支える条件の不足が浮かび上がる。謝罪ややり直しだけで不安が消えるわけでもない。曲名の譲歩を、問題が解決した結論ではなく、気持ちと現実のずれを抱えたまま話す言葉として読むと、この曲の苦さが見えてくる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2,
+        4
+      ],
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "context": "Luckyiam、Sunspot Jonz、Mursが、愛情と関係の破綻を別々の角度から語る。",
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "requestList": "living-legends-intake",
+    "requestRow": "Sentinel_f94f6db647f88191a3a8c9cf2873bed6:21",
+    "yearBasis": "オリジナル収録作品の発表年。",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "addedOrder": 452,
+    "members": ""
+  },
+  {
+    "id": "living-legends-never-fallin",
+    "title": "Never Fallin'",
+    "artist": "Living Legends",
+    "album": "Classic",
+    "year": 2005,
+    "youtube": {
+      "id": "eGv_ZJ5dSPc",
+      "url": "https://www.youtube.com/watch?v=eGv_ZJ5dSPc",
+      "official": true,
+      "provider": "EMPIRE Distribution",
+      "channel": "thelivinglegends",
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "Watch-page DOM meta[itemprop=regionsAllowed] explicitly includes JP; actual Japan playback and embedded playback not tested.",
+      "verified": "2026-10-17",
+      "title": "Never Fallin'",
+      "type": "Official Audio",
+      "version": "オリジナル・アルバム収録音源"
+    },
+    "art": {
+      "word": "NEVER FALLIN'",
+      "tag": "LIVING LEGENDS",
+      "palette": [
+        "#c3ae76",
+        "#eee4bd",
+        "#543c22",
+        "#242219"
+      ],
+      "paletteSource": "Living Legends — Classic",
+      "paletteNote": "セピア色の野球チーム写真、淡いクリーム色のユニフォーム、黄土色と焦茶。 公式掲載の実ジャケットをクラウドブラウザで目視確認した編集上の近似配色。数値抽出ではない。",
+      "coverInspected": true,
+      "coverInspectedOn": "2026-10-17",
+      "coverInspectionMethod": "Cloud browser screenshot of official artist album/store page",
+      "lines": [
+        "NEVER FALLIN'"
+      ],
+      "lettering": "block",
+      "letteringNote": "独自の編集上のレタリング指定。ジャケット文字の複製ではない。",
+      "paletteSourceUrl": "https://www.legendarymusic.net/shop/living-legends-classic-vinyl",
+      "style": "piece",
+      "seed": 1364004778,
+      "profile": "west-coast"
+    },
+    "region": "West Coast",
+    "scene": "West Coast Underground",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "label": "Legendary Music",
+    "producer": "DJ Khalil",
+    "producers": [
+      "DJ Khalil"
+    ],
+    "sources": [
+      {
+        "label": "YouTube — 公式アルバム音源",
+        "url": "https://www.youtube.com/watch?v=eGv_ZJ5dSPc",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Living Legends — Classic 公式盤・ジャケット",
+        "url": "https://www.legendarymusic.net/shop/living-legends-classic-vinyl",
+        "kind": "公式作品ページ"
+      },
+      {
+        "label": "Rapmaniacz — Classic 曲別制作クレジット",
+        "url": "https://www.rapmaniacz.com/living-legends-classic/",
+        "kind": "ディスコグラフィー"
+      },
+      {
+        "label": "Grateful Web — Grouch / Luckyiam インタビュー（2024）",
+        "url": "https://www.gratefulweb.com/articles/grateful-web-interview-with-living-legends/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "LyricsTranslate / Musixmatch — Never Fallin' 歌詞",
+        "url": "https://lyricstranslate.com/en/living-legends-never-fallin-lyrics.html",
+        "kind": "歌詞資料"
+      },
+      {
+        "label": "Living Legends — Classic 公式ストア掲載の盤面・インナー資料",
+        "url": "https://www.legendarymusic.net/shop/living-legends-classic-vinyl",
+        "kind": "公式パッケージ資料"
+      }
+    ],
+    "deck": "六つの語りが、倒れないという言葉をそれぞれの生活へ引き寄せる。",
+    "essayTitle": "強さを一つの形にしない",
+    "essay": [
+      "「Never Fallin'」は2005年の『Classic』に収録された一曲。歌詞資料ではEligh、The Grouch、Sunspot Jonz、Bicasso、Luckyiam、Scarubの六つのヴァースが確認できる。一人の英雄が困難を克服する物語ではなく、異なる状況を持つ声が同じ題名の下へ集まる。",
+      "Grouchのヴァースは、子どもを育てる母親の生活に目を向ける。ここでの強さは、外へ誇示する勝利よりも、余裕のない日々を支える働きとして描かれる。集団のアンセムに家庭の細部が入ることで、立ち続けるという言葉の対象がステージの外へ広がる。",
+      "一方、Luckyiamの語りは自分の無責任さを振り返り、Scarubは孤独な夜に人生への問いを重ねる。単純な成功宣言にせず、自省や答えの出なさも残す構成だ。曲全体を貫く持続の意志は、迷わないことではなく、迷いを認めても語りを止めないこととして読める。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2,
+        4
+      ],
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ],
+    "facts": [
+      {
+        "text": "「Never Fallin'」のプロデュースはDJ Khalil。公式ストアに掲載されたパッケージの曲順と制作クレジットで確認できる。",
+        "sources": [
+          5
+        ],
+        "title": "制作"
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "context": "六つの語りが、倒れないという言葉をそれぞれの生活へ引き寄せる。",
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "requestList": "living-legends-intake",
+    "requestRow": "Sentinel_f94f6db647f88191a3a8c9cf2873bed6:26",
+    "yearBasis": "オリジナル収録作品の発表年。",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "addedOrder": 453,
+    "members": ""
+  },
+  {
+    "id": "visionaries-blessings",
+    "title": "Blessings",
+    "artist": "Visionaries",
+    "album": "Galleries",
+    "year": 1998,
+    "youtube": {
+      "id": "I2zWUFlfWWM",
+      "url": "https://www.youtube.com/watch?v=I2zWUFlfWWM",
+      "official": true,
+      "provider": "The Orchard Enterprises",
+      "channel": "Visionaries - Topic",
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "Watch-page DOM meta[itemprop=regionsAllowed] explicitly includes JP; actual Japan playback and embedded playback not tested.",
+      "verified": "2026-10-17",
+      "title": "Blessings",
+      "type": "Official Audio",
+      "version": "オリジナル・アルバム収録音源"
+    },
+    "art": {
+      "word": "BLESSINGS",
+      "tag": "VISIONARIES",
+      "palette": [
+        "#34451f",
+        "#b9822d",
+        "#f2f1e7",
+        "#27221a"
+      ],
+      "paletteSource": "Visionaries — Galleries",
+      "paletteNote": "暗いオリーブ緑の地に金・茶の額縁、中央に大きな白い余白。 公式掲載の実ジャケットをクラウドブラウザで目視確認した編集上の近似配色。数値抽出ではない。",
+      "coverInspected": true,
+      "coverInspectedOn": "2026-10-17",
+      "coverInspectionMethod": "Cloud browser screenshot of official artist album/store page",
+      "lines": [
+        "BLESSINGS"
+      ],
+      "lettering": "block",
+      "letteringNote": "独自の編集上のレタリング指定。ジャケット文字の複製ではない。",
+      "paletteSourceUrl": "https://thevisionaries.bandcamp.com/album/galleries",
+      "style": "piece",
+      "seed": 1419702542,
+      "profile": "west-coast"
+    },
+    "region": "West Coast",
+    "scene": "West Coast Underground",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "label": "Up Above Records",
+    "producer": "J Rocc",
+    "producers": [
+      "J Rocc"
+    ],
+    "sources": [
+      {
+        "label": "YouTube — 公式アルバム音源",
+        "url": "https://www.youtube.com/watch?v=I2zWUFlfWWM",
+        "kind": "公式音源"
+      },
+      {
+        "label": "公式アルバムページ — ジャケット",
+        "url": "https://thevisionaries.bandcamp.com/album/galleries",
+        "kind": "公式作品ページ"
+      },
+      {
+        "label": "Visionaries — Blessings 公式トラックページ",
+        "url": "https://thevisionaries.bandcamp.com/track/blessings",
+        "kind": "公式作品ページ"
+      },
+      {
+        "label": "Visionaries — Galleries 公式盤説明",
+        "url": "https://visionarieshiphop.store/products/visionaries-galleries",
+        "kind": "公式作品ページ"
+      },
+      {
+        "label": "Visionaries — J Roccとの関係を記したPangaea紹介",
+        "url": "https://visionarieshiphop.store/products/visionaries-pangaea",
+        "kind": "公式作品ページ"
+      },
+      {
+        "label": "Bandcamp Daily — Key-Koolの証言と作品案内",
+        "url": "https://daily.bandcamp.com/lists/the-visionaries-list",
+        "kind": "本人取材・作品案内"
+      }
+    ],
+    "deck": "J Roccが支える初期Visionaries。五人のMCと一人のDJという集団の入り口。",
+    "essayTitle": "祝福を、仲間へひらく",
+    "essay": [
+      "「Blessings」はVisionariesの初期作品『Galleries』に収められたJ Rocc制作曲。公式ストアは後年の『Pangaea』紹介でも、この曲をJ Roccがもたらした最初期の代表曲として振り返っている。一枚のアルバムの一項目にとどまらず、クルーとDJの長い関係を示す曲でもある。",
+      "『Galleries』の公式クレジットには、2Mex、Dannu、Key-Kool、LMNO、Lord Zenの五人が作詞陣として並び、制作陣にはDJ RhettmaticやEvidenceも参加する。異なる持ち場を持つ人々が同じ器に集まる構成だ。J Roccの参加も、固定したメンバーの外と接続しながら音楽を作る、その開かれた関係の中にある。",
+      "Key-Koolは2022年の取材で、六人が一つの集団として続くには共感と譲歩が必要だったと語る。後年の発言を本曲の制作談に置き換えることはできないが、「祝福」という題名を個人だけの幸運ではなく、人と共にいる価値へ向けて読む手掛かりにはなる。競い合う技術と、共存する姿勢が同居するクルーだ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2,
+        4
+      ],
+      [
+        3
+      ],
+      [
+        5
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "context": "J Roccが支える初期Visionaries。五人のMCと一人のDJという集団の入り口。",
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "requestList": "living-legends-intake",
+    "requestRow": "Sentinel_f94f6db647f88191a3a8c9cf2873bed6:13",
+    "yearBasis": "公式Bandcampの当該トラックは1998年を記載。アルバム初出は公式ストアが1997年と記載するため、収録版の年と区別。",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "addedOrder": 454,
+    "members": ""
+  },
+  {
+    "id": "visionaries-sight-for-sore-eyes",
+    "title": "Sight for Sore Eyes",
+    "artist": "Visionaries",
+    "album": "Pangaea",
+    "year": 2004,
+    "youtube": {
+      "id": "Sa7wpd-oRBY",
+      "url": "https://www.youtube.com/watch?v=Sa7wpd-oRBY",
+      "official": true,
+      "provider": "The Orchard Enterprises",
+      "channel": "Visionaries - Topic",
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "Watch-page DOM meta[itemprop=regionsAllowed] explicitly includes JP; actual Japan playback and embedded playback not tested.",
+      "verified": "2026-10-17",
+      "title": "Sight for Sore Eyes",
+      "type": "Official Audio",
+      "version": "オリジナル・アルバム収録音源"
+    },
+    "art": {
+      "word": "SIGHT FOR SORE EYES",
+      "tag": "VISIONARIES",
+      "palette": [
+        "#ebd827",
+        "#a61e1c",
+        "#6f4c24",
+        "#171a11"
+      ],
+      "paletteSource": "Visionaries — Pangaea",
+      "paletteNote": "黄色の光、赤縁の黄色い文字、茶色と黒の人物画。 公式掲載の実ジャケットをクラウドブラウザで目視確認した編集上の近似配色。数値抽出ではない。",
+      "coverInspected": true,
+      "coverInspectedOn": "2026-10-17",
+      "coverInspectionMethod": "Cloud browser screenshot of official artist album/store page",
+      "lines": [
+        "SIGHT FOR SORE EYES"
+      ],
+      "lettering": "block",
+      "letteringNote": "独自の編集上のレタリング指定。ジャケット文字の複製ではない。",
+      "paletteSourceUrl": "https://thevisionaries.bandcamp.com/album/pangaea",
+      "style": "piece",
+      "seed": 2626458850,
+      "profile": "west-coast"
+    },
+    "region": "West Coast",
+    "scene": "West Coast Underground",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "label": "Up Above Records",
+    "producer": "Kan Kick",
+    "producers": [
+      "Kan Kick"
+    ],
+    "sources": [
+      {
+        "label": "YouTube — 公式アルバム音源",
+        "url": "https://www.youtube.com/watch?v=Sa7wpd-oRBY",
+        "kind": "公式音源"
+      },
+      {
+        "label": "公式アルバムページ — ジャケット",
+        "url": "https://thevisionaries.bandcamp.com/album/pangaea",
+        "kind": "公式作品ページ"
+      },
+      {
+        "label": "Visionaries — Sight for Sore Eyes 公式ページ",
+        "url": "https://thevisionaries.bandcamp.com/track/sight-for-sore-eyes",
+        "kind": "公式作品ページ"
+      },
+      {
+        "label": "Visionaries — Pangaea 公式CD紹介",
+        "url": "https://visionarieshiphop.store/products/visionaries-pangaea",
+        "kind": "公式作品ページ"
+      },
+      {
+        "label": "Visionaries — Pangaea 20周年2LPクレジット",
+        "url": "https://visionarieshiphop.store/products/visionaries-pangaea-2lp-1st-press",
+        "kind": "公式クレジット"
+      },
+      {
+        "label": "Bandcamp Daily — Pangaeaの背景",
+        "url": "https://daily.bandcamp.com/lists/the-visionaries-list",
+        "kind": "取材・作品案内"
+      }
+    ],
+    "deck": "Kan Kick制作の『Pangaea』最終曲。分かれた土地と声を、一つの作品へつなぐ。",
+    "essayTitle": "最後の一曲から、作品全体を見渡す",
+    "essay": [
+      "「Sight for Sore Eyes」は2004年の『Pangaea』を締めくくる十七曲目。公式トラックページと再発盤のクレジットは、制作をKan Kickとしている。DJ RhettmaticやKey-Koolらが作るアルバムの最後を、別のビートメイカーへ委ねていることが、クルーの外へ開いた制作体制をよく示す。",
+      "作品名のPangaeaは、かつて一つにつながっていた大陸の名前。Bandcamp Dailyの解説は、タイトル曲でLMNOがその像を仲間同士の共通の起点へ重ねていると指摘する。本曲単体の歌詞の説明ではないが、アルバムの終点を考える際には重要な文脈だ。違いを消すのではなく、違う場所から集まれるという構想がある。",
+      "ジャケットでは、Mear Oneによる人物像が黄色い光線状の背景と赤い輪郭の文字に包まれる。公式再発クレジットには写真のZen Sekizawa、デザインのKenny Kong Ongも記載される。音だけでなく、絵画・写真・レイアウトという別々の仕事を束ねた作品である点も、集団のアルバムとして読み応えがある。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2,
+        4
+      ],
+      [
+        5
+      ],
+      [
+        1,
+        4
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "context": "Kan Kick制作の『Pangaea』最終曲。分かれた土地と声を、一つの作品へつなぐ。",
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "requestList": "living-legends-intake",
+    "requestRow": "Sentinel_f94f6db647f88191a3a8c9cf2873bed6:15",
+    "yearBasis": "公式作品ページに記載された収録版の年。",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "addedOrder": 455,
+    "members": ""
+  },
+  {
+    "id": "lmno-hit",
+    "title": "Hit",
+    "artist": "LMNO",
+    "album": "Economic Food Chain Music",
+    "year": 2004,
+    "youtube": {
+      "id": "jl9bJNXR97E",
+      "url": "https://www.youtube.com/watch?v=jl9bJNXR97E",
+      "official": true,
+      "provider": "The Orchard Enterprises",
+      "channel": "LMNO & 2Mex - Topic",
+      "japanRegionStatus": "included",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "verification": "Watch-page DOM meta[itemprop=regionsAllowed] explicitly includes JP; actual Japan playback and embedded playback not tested.",
+      "verified": "2026-10-17",
+      "title": "Hit",
+      "type": "Official Audio",
+      "version": "オリジナル・アルバム収録音源"
+    },
+    "art": {
+      "word": "HIT",
+      "tag": "LMNO",
+      "palette": [
+        "#334e3d",
+        "#83978f",
+        "#c5c4af",
+        "#33382e"
+      ],
+      "paletteSource": "LMNO — Economic Food Chain Music",
+      "paletteNote": "濃い緑の壁、灰青色の梯子、オフホワイトの壁と紙ラベル。 公式掲載の実ジャケットをクラウドブラウザで目視確認した編集上の近似配色。数値抽出ではない。",
+      "coverInspected": true,
+      "coverInspectedOn": "2026-10-17",
+      "coverInspectionMethod": "Cloud browser screenshot of official artist album/store page",
+      "lines": [
+        "HIT"
+      ],
+      "lettering": "block",
+      "letteringNote": "独自の編集上のレタリング指定。ジャケット文字の複製ではない。",
+      "paletteSourceUrl": "https://lmno.bandcamp.com/album/economic-food-chain-music",
+      "style": "piece",
+      "seed": 517887364,
+      "profile": "west-coast"
+    },
+    "region": "West Coast",
+    "scene": "West Coast Underground",
+    "category": "Hip Hop",
+    "moods": [
+      "ラップ"
+    ],
+    "label": "Up Above Records",
+    "producer": "Oh No",
+    "producers": [
+      "Oh No"
+    ],
+    "sources": [
+      {
+        "label": "YouTube — 公式アルバム音源",
+        "url": "https://www.youtube.com/watch?v=jl9bJNXR97E",
+        "kind": "公式音源"
+      },
+      {
+        "label": "公式アルバムページ — ジャケット",
+        "url": "https://lmno.bandcamp.com/album/economic-food-chain-music",
+        "kind": "公式作品ページ"
+      },
+      {
+        "label": "LMNO — Economic Food Chain Music 公式アルバム",
+        "url": "https://lmno.bandcamp.com/album/economic-food-chain-music",
+        "kind": "公式作品ページ"
+      },
+      {
+        "label": "Recordsale — Hit シングル盤クレジット",
+        "url": "https://recordsale.de/en/artists/lmno/albums/hit",
+        "kind": "盤資料"
+      },
+      {
+        "label": "PBS SoCal — LMNO本人取材（2013）",
+        "url": "https://www.pbssocal.org/history-society/visionaries-of-long-beach-and-venice-lmno-and-evidence",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "HipHopCore — 2004年のアルバム発売情報",
+        "url": "https://www.hiphopcore.net/news/2004/03/lmno-economic-food-chain-music/",
+        "kind": "同時代発売情報"
+      }
+    ],
+    "deck": "Oh No制作、DJ Romesがスクラッチで参加。LMNOの2004年作に収まる短い一撃。",
+    "essayTitle": "声とビートとカットの三者",
+    "essay": [
+      "「Hit」はLMNOの2004年作『Economic Food Chain Music』の五曲目。公式配信はOh Noをプロデューサーとして記し、シングル盤資料ではDJ Romesのスクラッチ参加も確認できる。MC名だけで捉えず、言葉、ビート、カットという三者の役割から見ると、短い題名の中にも制作の立体感が生まれる。",
+      "公式Bandcampでの曲尺は二分二十六秒。シングル盤にはヴォーカル版と「Hitstrumental」が組み合わされている。アルバムの流れの中で聴く曲であると同時に、声を外した土台も独立して扱うDJ向けの形を持っていた。曲の長さと、盤の用途は別の問題なのだと分かる。",
+      "発売前の2004年の紹介記事は、アルバムの約半分をOh Noが手掛けると伝えていた。「Hit」での組み合わせは孤立した一回の客演ではなく、作品の制作体制につながっている。Visionariesの一員として知られるLMNOが、ソロでは別の制作者との関係を育てていた時期を示す一曲だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        5
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しない。",
+    "listening": [],
+    "connections": [],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "context": "Oh No制作、DJ Romesがスクラッチで参加。LMNOの2004年作に収まる短い一撃。",
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "requestList": "living-legends-intake",
+    "requestRow": "Sentinel_f94f6db647f88191a3a8c9cf2873bed6:1",
+    "yearBasis": "2004年。Bandcampは4月20日、現行公式YouTubeは7月20日を記載するため月日は採用しない。",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "addedOrder": 456,
+    "members": ""
+  },
+  {
+    "id": "pitch-black-its-all-real",
+    "title": "It's All Real",
+    "artist": "Pitch Black",
+    "album": "Pitch Black Law",
+    "year": 2003,
+    "youtube": {
+      "id": "ldhZjgyDXtI",
+      "url": "https://www.youtube.com/watch?v=ldhZjgyDXtI",
+      "channel": "Pitch Black - Topic",
+      "official": true,
+      "type": "Official Audio",
+      "version": "original album recording",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "jpRegionsAllowed": true,
+      "japanRegionStatus": "included",
+      "verification": "Watch-page DOM meta[itemprop=regionsAllowed] explicitly includes JP. Actual playback from Japan and embedded playback have not been tested.",
+      "verified": "2026-10-18",
+      "title": "It's All Real",
+      "duration": "PT4M0S"
+    },
+    "yearBasis": "2003年11月の当事者インタビューで現行シングルとして確認。収録アルバムは2004年。",
+    "region": "East Coast",
+    "scene": "ブルックリン",
+    "category": "Hip Hop",
+    "label": "Travio / Universal",
+    "producer": "DJ Premier",
+    "producers": [
+      "DJ Premier"
+    ],
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "sources": [
+      {
+        "label": "Pitch Black — It's All Real 正規音源",
+        "url": "https://www.youtube.com/watch?v=ldhZjgyDXtI",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Pitch Black — Pitch Black Law",
+        "url": "https://music.apple.com/us/album/pitch-black-law/1773189073",
+        "kind": "正規リリース情報"
+      },
+      {
+        "label": "Pitch Black — AllHipHop interview, 2003",
+        "url": "https://allhiphop.com/features/pitch-black-the-blacker-the-berry/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "DJ Premier Tells All — interview reprint",
+        "url": "https://djpremierblog.com/2011/02/19/dj-premier-tells-all-the-stories-behind-his-classic-records/",
+        "kind": "本人インタビュー再掲"
+      },
+      {
+        "label": "Pitch Black: Lighthouse — 2005 interview",
+        "url": "https://allhiphop.com/features/pitch-black-lighthouse/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Pitch Black — official video description",
+        "url": "https://vimeo.com/140485947",
+        "kind": "アーティスト掲載情報"
+      }
+    ],
+    "deck": "「It’s All Real」の強さは、DJ Premierの名前だけでは説明しきれない。Pitch Blackは2003年の取材で、五人の個性を一つの音へまとめる相性こそがグループの理由だと話している。街の物語、派手さ、笑い、予測できない言葉が交代して現れる構成を、単なる人数の多さではなく、異なる声を同じ看板へ集める技術として聴きたい。",
+    "essayTitle": "「本物」を狭いジャンル名にしない五人",
+    "essay": [
+      "「It’s All Real」の強さは、DJ Premierの名前だけでは説明しきれない。Pitch Blackは2003年の取材で、五人の個性を一つの音へまとめる相性こそがグループの理由だと話している。街の物語、派手さ、笑い、予測できない言葉が交代して現れる構成を、単なる人数の多さではなく、異なる声を同じ看板へ集める技術として聴きたい。",
+      "Premierによれば、このビートはもともとRah Diggaのために用意したが、採用されなかったものだった。Pitch Blackが気に入った時点では、曲名へ結びつくスクラッチのフックはまだなかったという。土台を受け渡すだけで終わらず、最後に声の断片を加えて曲の輪郭を決めた。その制作順序を知ると、フックが単なる装飾ではなく、五人を一つの宣言に束ねる役目を持つことが見えてくる。",
+      "タイトルの「real」を、売れる音楽への拒絶と読み切るのも早い。当時のメンバーは、ポップな曲に反対しているのではなく、売りたい気持ちと音楽の誠実さを両立したいと説明していた。この曲は狭い陣営の境界線というより、これから何を作っても自分たちで信じられるものにする、という出発点として置かれている。"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [
+        2
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "listening": [],
+    "context": "",
+    "connections": [],
+    "editorialCrates": [],
+    "curationNote": "",
+    "addedOrder": 457,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "members": "",
+    "requestList": "remaining-originals-intake",
+    "requestRow": "Sentinel_6f90bdec572c8191ac763b2b15c7e503:15",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "art": {
+      "word": "IT'S ALL REAL",
+      "tag": "PITCH BLACK",
+      "palette": [
+        "#171918",
+        "#aa2028",
+        "#62473c",
+        "#e2d4bc"
+      ],
+      "paletteSource": "Pitch Black — Pitch Black Law",
+      "paletteSourceUrl": "https://music.apple.com/us/album/pitch-black-law/1773189073",
+      "paletteNote": "黒い服の五人、暗褐色の背景、赤い看板とゴシック文字。 実ジャケットを目視参照した近似配色。数値抽出ではない。",
+      "visuallyInspected": true,
+      "coverInspected": true,
+      "coverInspectionMethod": "Cloud browser screenshot of authorized album page",
+      "coverInspectedOn": "2026-10-18",
+      "style": "piece",
+      "seed": 1956573836,
+      "profile": "east-coast",
+      "lines": [
+        "IT'S ALL REAL"
+      ],
+      "lettering": "block"
+    }
+  },
+  {
+    "id": "time-machine-mind-in-a-spin",
+    "title": "Mind In A Spin",
+    "artist": "Time Machine feat. Edo G.",
+    "album": "Slow Your Roll",
+    "year": 2004,
+    "youtube": {
+      "id": "0qpn1S4ex8I",
+      "url": "https://www.youtube.com/watch?v=0qpn1S4ex8I",
+      "channel": "Glow Like This",
+      "official": true,
+      "type": "Official Audio",
+      "version": "original album recording",
+      "regionsAllowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+      "jpRegionsAllowed": true,
+      "japanRegionStatus": "included",
+      "verification": "Watch-page DOM meta[itemprop=regionsAllowed] explicitly includes JP. Actual playback from Japan and embedded playback have not been tested.",
+      "verified": "2026-10-18",
+      "title": "Time Machine - \"Mind In A Spin\"",
+      "duration": "PT4M9S"
+    },
+    "yearBasis": "正規作品の初出年",
+    "region": "West Coast",
+    "scene": "プロヴィデンス／ワシントンD.C.からロサンゼルスへ",
+    "category": "Hip Hop",
+    "label": "Glow-in-the-Dark Records",
+    "producer": "Mekalek",
+    "producers": [
+      "Mekalek"
+    ],
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "west"
+    ],
+    "sources": [
+      {
+        "label": "Time Machine feat. Edo G. — Mind In A Spin 正規音源",
+        "url": "https://www.youtube.com/watch?v=0qpn1S4ex8I",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Time Machine — Slow Your Roll",
+        "url": "https://timemachinesound.bandcamp.com/album/slow-your-roll",
+        "kind": "正規リリース情報"
+      },
+      {
+        "label": "Time Machine — Hip Hop Core interview, 2004",
+        "url": "https://www.hiphopcore.net/en/interviews/time-machine-2004-11/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Time Machine: Grime Machine — Resident Advisor",
+        "url": "https://ra.co/reviews/2689",
+        "kind": "同時代レビュー"
+      },
+      {
+        "label": "WFMU — February 15, 2006 playlist",
+        "url": "https://www.wfmu.org/playlists/shows/18081",
+        "kind": "放送局の選曲記録"
+      }
+    ],
+    "deck": "『Slow Your Roll』の中でも「Mind In A Spin」は、ジャズやソウルの穏やかな連想だけには収まらない曲だ。Mekalekは2004年の取材で、このビートを1997年ごろから形にしようとしていたと話している。すぐには解けなかった組み立てが、長い時間を経てようやく噛み合った。曲名が示す頭の混乱とは対照的に、制作には粘り強い整理の時間があった。",
+    "essayTitle": "長く温めたビートが、アルバムの景色を変える",
+    "essay": [
+      "『Slow Your Roll』の中でも「Mind In A Spin」は、ジャズやソウルの穏やかな連想だけには収まらない曲だ。Mekalekは2004年の取材で、このビートを1997年ごろから形にしようとしていたと話している。すぐには解けなかった組み立てが、長い時間を経てようやく噛み合った。曲名が示す頭の混乱とは対照的に、制作には粘り強い整理の時間があった。",
+      "客演のEdo G.は、単にアルバムへ名前を貸したのではない。Time MachineはMasta AceとEdo G.の「Make Some Noise」で一緒に仕事をした後、本曲のデモを送り、本人が気に入って参加を決めたと説明している。Mekalekにとっても、そのヴァースが入ったことで曲は完成し、アルバム全体の流れへ収まった。異なる声が曲の役割まで決める共演だ。",
+      "2005年の『Grime Machine』では、このアルバム曲が新曲二曲と並ぶマキシ・シングルの一角になった。同時代のResident Advisorは、ゆっくりしたダブ／ダンスホール寄りのリズムと重い低音を特徴として挙げている。ジャジーなグループという印象だけで聴くより、既存の持ち味から少し外れる曲をDJの場へ持ち出した一枚、と捉えると選曲の面白さが増す。"
+    ],
+    "essaySources": [
+      [
+        1,
+        2
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "listening": [],
+    "context": "",
+    "connections": [],
+    "editorialCrates": [],
+    "curationNote": "",
+    "addedOrder": 458,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "members": "",
+    "requestList": "remaining-originals-intake",
+    "requestRow": "Sentinel_6f90bdec572c8191ac763b2b15c7e503:31",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "art": {
+      "word": "MIND IN A SPIN",
+      "tag": "TIME MACHINE",
+      "palette": [
+        "#86a648",
+        "#9b2832",
+        "#201b24",
+        "#e5d6ac"
+      ],
+      "paletteSource": "Time Machine feat. Edo G. — Slow Your Roll",
+      "paletteSourceUrl": "https://timemachinesound.bandcamp.com/album/slow-your-roll",
+      "paletteNote": "緑の背景、赤茶のコートの人物と帽子、腕時計、淡い色の看板。 実ジャケットを目視参照した近似配色。数値抽出ではない。",
+      "visuallyInspected": true,
+      "coverInspected": true,
+      "coverInspectionMethod": "Cloud browser screenshot of authorized album page",
+      "coverInspectedOn": "2026-10-18",
+      "style": "piece",
+      "seed": 3494100582,
+      "profile": "west-coast",
+      "lines": [
+        "MIND IN A SPIN"
+      ],
+      "lettering": "block"
+    }
+  },
+  {
+    "id": "method-man-say-what",
+    "title": "Say What",
+    "artist": "Method Man feat. Missy Elliott",
+    "album": "Tical 0: The Prequel",
+    "year": 2004,
+    "youtube": {
+      "id": "OQhqsuYv8VI",
+      "url": "https://www.youtube.com/watch?v=OQhqsuYv8VI",
+      "channel": "Method Man",
+      "official": true,
+      "type": "Official Audio",
+      "version": "original album recording",
+      "regionsAllowed": "AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,EC,EE,ES,FI,FR,GB,GE,GF,GH,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IS,IT,JM,JP,KE,KH,KR,KY,KZ,LA,LI,LK,LT,LU,LV,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,PA,PE,PF,PG,PH,PK,PL,PT,PY,RE,RO,RS,RU,SE,SG,SI,SK,SN,SV,TC,TH,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YT,ZA,ZW",
+      "jpRegionsAllowed": true,
+      "japanRegionStatus": "included",
+      "verification": "Watch-page DOM meta[itemprop=regionsAllowed] explicitly includes JP. Actual playback from Japan and embedded playback have not been tested.",
+      "verified": "2026-10-18",
+      "title": "Say What",
+      "duration": "PT4M12S"
+    },
+    "yearBasis": "正規作品の初出年",
+    "region": "East Coast",
+    "scene": "ニューヨーク",
+    "category": "Hip Hop",
+    "label": "Def Jam",
+    "producer": "Tony Dofat / Sean \"Puffy\" Combs",
+    "producers": [
+      "Tony Dofat",
+      "Sean \"Puffy\" Combs"
+    ],
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "sources": [
+      {
+        "label": "Method Man feat. Missy Elliott — Say What 正規音源",
+        "url": "https://www.youtube.com/watch?v=OQhqsuYv8VI",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Method Man — Tical 0: The Prequel",
+        "url": "https://music.apple.com/us/album/tical-0-the-prequel/1443811778",
+        "kind": "正規リリース情報"
+      },
+      {
+        "label": "Method Man — Say What credits",
+        "url": "https://music.apple.com/us/song/1443812270",
+        "kind": "正規配信クレジット"
+      },
+      {
+        "label": "Method Man: Sound Off — AllHipHop, 2003",
+        "url": "https://allhiphop.com/features/method-man-sound-off/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Status Ain’t Hood interviews Method Man — Village Voice, 2006",
+        "url": "https://www.villagevoice.com/status-aint-hood-interviews-method-man/",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "deck": "「Say What」は、Method ManとMissy Elliottの共演をTony DofatとSean “Puffy” Combsが支える曲だ。Missyの参加から制作まで同じ名前でまとめるのではなく、声を担当する人とビートを担う人を分けて聴くと、組み合わせの面白さが見える。Wu-Tangの一員として知られた声が、別の制作陣と出会っても失わない輪郭が、この一曲の入口になる。",
+    "essayTitle": "声の個性を、別の制作陣へ持ち込む",
+    "essay": [
+      "「Say What」は、Method ManとMissy Elliottの共演をTony DofatとSean “Puffy” Combsが支える曲だ。Missyの参加から制作まで同じ名前でまとめるのではなく、声を担当する人とビートを担う人を分けて聴くと、組み合わせの面白さが見える。Wu-Tangの一員として知られた声が、別の制作陣と出会っても失わない輪郭が、この一曲の入口になる。",
+      "収録盤の『Tical 0: The Prequel』という名前は、単純な原点回帰宣言ではない。発売前の取材でMethod Manは、前作の「Judgement Day」が終末を意味するため、その先ではなく始まりへ戻るという題名の理屈を説明していた。前日譚という枠と、過去と同じ音を作ることは別物だ。「Say What」の異なる顔ぶれは、その区別をよく示している。",
+      "同じ2003年の取材で彼は、題材の前代未聞さより、音楽にどう乗り、言葉をどう扱うかを重視する姿勢を語っていた。声の個性は特定のプロデューサーだけに預けられているわけではない。制作クレジットの違いを変節の記号にするより、いつもの声が別の相手にどう応答するかという聴き方が、この曲には似合う。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "listening": [],
+    "context": "",
+    "connections": [],
+    "editorialCrates": [],
+    "curationNote": "",
+    "addedOrder": 459,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "members": "",
+    "requestList": "remaining-originals-intake",
+    "requestRow": "Sentinel_6f90bdec572c8191ac763b2b15c7e503:19",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "art": {
+      "word": "SAY WHAT",
+      "tag": "METHOD MAN",
+      "palette": [
+        "#241c1c",
+        "#8a5645",
+        "#eee3cf",
+        "#ab2d2a"
+      ],
+      "paletteSource": "Method Man feat. Missy Elliott — Tical 0: The Prequel",
+      "paletteSourceUrl": "https://music.apple.com/us/album/tical-0-the-prequel/1443811778",
+      "paletteNote": "茶色い街並みのコラージュ、中央の子供、白いロゴと赤い文字。 実ジャケットを目視参照した近似配色。数値抽出ではない。",
+      "visuallyInspected": true,
+      "coverInspected": true,
+      "coverInspectionMethod": "Cloud browser screenshot of authorized album page",
+      "coverInspectedOn": "2026-10-18",
+      "style": "piece",
+      "seed": 1371550435,
+      "profile": "east-coast",
+      "lines": [
+        "SAY WHAT"
+      ],
+      "lettering": "block"
+    }
+  },
+  {
+    "id": "wu-tang-clan-soul-power",
+    "title": "Soul Power (Black Jungle)",
+    "artist": "Wu-Tang Clan feat. Flavor Flav",
+    "album": "Iron Flag",
+    "year": 2001,
+    "youtube": {
+      "id": "sMmP-lKXniQ",
+      "url": "https://www.youtube.com/watch?v=sMmP-lKXniQ",
+      "channel": "Wu-Tang Clan",
+      "official": true,
+      "type": "Official Audio",
+      "version": "original album recording",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "jpRegionsAllowed": true,
+      "japanRegionStatus": "included",
+      "verification": "Watch-page DOM meta[itemprop=regionsAllowed] explicitly includes JP. Actual playback from Japan and embedded playback have not been tested.",
+      "verified": "2026-10-18",
+      "title": "Soul Power (Black Jungle)",
+      "duration": "PT4M53S"
+    },
+    "yearBasis": "正規作品の初出年",
+    "region": "East Coast",
+    "scene": "ニューヨーク",
+    "category": "Hip Hop",
+    "label": "Loud",
+    "producer": "RZA",
+    "producers": [
+      "RZA"
+    ],
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "sources": [
+      {
+        "label": "Wu-Tang Clan feat. Flavor Flav — Soul Power (Black Jungle) 正規音源",
+        "url": "https://www.youtube.com/watch?v=sMmP-lKXniQ",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Wu-Tang Clan — Iron Flag",
+        "url": "https://music.apple.com/us/album/iron-flag/1762519766",
+        "kind": "正規リリース情報"
+      },
+      {
+        "label": "36 Chambers — Happy Birthday RZA",
+        "url": "https://36chambers.thewutangclan.com/blogs/news/happy-birthday-rza",
+        "kind": "アーティスト公式資料"
+      },
+      {
+        "label": "RZA — Hip Hop Core interview, 2005",
+        "url": "https://www.hiphopcore.net/en/interviews/rza-2005-05/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "RZA interview, Part 1 — RapReviews, 2006",
+        "url": "https://www.rapreviews.com/2006/08/rza-interview-part-1/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Fight the power — Orlando Weekly",
+        "url": "https://www.orlandoweekly.com/music/fight-the-power-2258606/",
+        "kind": "同時代レビュー"
+      }
+    ],
+    "deck": "「Soul Power (Black Jungle)」では、Wu-Tangの集団性を人数だけでなく、声の役割の違いから聴きたい。同時代のレビューが挙げるのはRaekwon、Masta Killa、Ghostface Killah、U-Godのヴァースと、Flavor Flavのフックへの介入だ。順番に長いヴァースを並べるだけではなく、短い声が次の発言を押し出す仕組みとして、客演が働いている。",
+    "essayTitle": "多声の輪の中へ、Flavor Flavを迎える",
+    "essay": [
+      "「Soul Power (Black Jungle)」では、Wu-Tangの集団性を人数だけでなく、声の役割の違いから聴きたい。同時代のレビューが挙げるのはRaekwon、Masta Killa、Ghostface Killah、U-Godのヴァースと、Flavor Flavのフックへの介入だ。順番に長いヴァースを並べるだけではなく、短い声が次の発言を押し出す仕組みとして、客演が働いている。",
+      "曲の終わりにはMethod ManとFlavor FlavがLong Islandについて話す場面がある。Public EnemyとWu-Tangを大きな影響関係だけで結ぶよりも、この具体的な土地の会話に耳を向けると、世代の違うラッパーが同じレコードにいる距離感が身近になる。ゲスト名を看板に足すだけでなく、会話そのものが曲の余白を作っている。",
+      "制作はRZA。本人の公式ブランドも、この曲をプロデュース作品として挙げている。RZAは2005年の取材で、ソウルだけでなくファンク、レゲエ、ジャズなどを聴いてきたと説明した。曲名の「Soul」に音の出自を一つへ絞る意味まで背負わせず、多方面の聴き方が集団の声を支える、と捉えたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        5
+      ],
+      [
+        5
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "listening": [],
+    "context": "",
+    "connections": [],
+    "editorialCrates": [],
+    "curationNote": "",
+    "addedOrder": 460,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "members": "",
+    "requestList": "remaining-originals-intake",
+    "requestRow": "Sentinel_6f90bdec572c8191ac763b2b15c7e503:22",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "art": {
+      "word": "SOUL POWER (BLACK JUNGLE)",
+      "tag": "WU-TANG CLAN",
+      "palette": [
+        "#4d493c",
+        "#a7a295",
+        "#e2ded5",
+        "#d59126"
+      ],
+      "paletteSource": "Wu-Tang Clan feat. Flavor Flav — Iron Flag",
+      "paletteSourceUrl": "https://music.apple.com/us/album/iron-flag/1762519766",
+      "paletteNote": "灰褐色の集合写真、擦れた質感、黒い旗と黄土色のWu-Tangロゴ。 実ジャケットを目視参照した近似配色。数値抽出ではない。",
+      "visuallyInspected": true,
+      "coverInspected": true,
+      "coverInspectionMethod": "Cloud browser screenshot of authorized album page",
+      "coverInspectedOn": "2026-10-18",
+      "style": "piece",
+      "seed": 1867402776,
+      "profile": "east-coast",
+      "lines": [
+        "SOUL POWER (BLACK JUNGLE)"
+      ],
+      "lettering": "block"
+    }
+  },
+  {
+    "id": "large-professor-the-beginning",
+    "title": "The Beginning",
+    "artist": "Large Professor",
+    "album": "The Beginning / After School",
+    "year": 2005,
+    "youtube": {
+      "id": "GSXa6XWMkXA",
+      "url": "https://www.youtube.com/watch?v=GSXa6XWMkXA",
+      "channel": "Large Professor - Topic",
+      "official": true,
+      "type": "Official Audio",
+      "version": "original single Main version, not Clean or Instrumental",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "jpRegionsAllowed": true,
+      "japanRegionStatus": "included",
+      "verification": "Watch-page DOM meta[itemprop=regionsAllowed] explicitly includes JP. Actual playback from Japan and embedded playback have not been tested.",
+      "verified": "2026-10-18",
+      "title": "The Beginning (Main)",
+      "duration": "PT3M24S"
+    },
+    "yearBasis": "正規作品の初出年",
+    "region": "East Coast",
+    "scene": "ニューヨーク",
+    "category": "Hip Hop",
+    "label": "Paul Sea Productions",
+    "producer": "",
+    "producers": [],
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "sources": [
+      {
+        "label": "Large Professor — The Beginning 正規音源",
+        "url": "https://www.youtube.com/watch?v=GSXa6XWMkXA",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Large Professor — The Beginning / After School",
+        "url": "https://music.apple.com/us/album/the-beginning-after-school/274723699",
+        "kind": "正規リリース情報"
+      },
+      {
+        "label": "Large Professor, Part 2: I Really Live Through This Music — NPR/WEAA",
+        "url": "https://www.weaa.org/2015-08-20/large-professor-part-2-i-really-live-through-this-music",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Large Professor — Red Bull Music Academy interview",
+        "url": "https://daily.redbullmusicacademy.com/2015/02/large-professor-interview/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Large Pro — The Beginning / After School physical edition",
+        "url": "https://www.vinylexchange.co.uk/products/large-pro-the-beginning-after-school",
+        "kind": "現物取扱店情報"
+      }
+    ],
+    "deck": "「The Beginning」は、2005年にPaul Sea Productionsから出た「After School」とのカップリングだ。デジタル版にはMain、Clean、Instrumentalという違いが残る。曲名だけなら再出発の大きな宣言にも見えるが、ここではまず、声入りと声なしを別々に扱えるシングルの具体的な作りに注目したい。ラップ作品であると同時に、DJが使う道具としての顔がある。",
+    "essayTitle": "「始まり」を、続けてきた仕事の中に置く",
+    "essay": [
+      "「The Beginning」は、2005年にPaul Sea Productionsから出た「After School」とのカップリングだ。デジタル版にはMain、Clean、Instrumentalという違いが残る。曲名だけなら再出発の大きな宣言にも見えるが、ここではまず、声入りと声なしを別々に扱えるシングルの具体的な作りに注目したい。ラップ作品であると同時に、DJが使う道具としての顔がある。",
+      "Large Professorは後年の取材で、発売するかどうかにかかわらず制作を続け、ビートが言うべきことを思いつかせるときに自分でもラップすると説明している。この証言は本曲だけの制作秘話ではないが、タイトルを「復活」の物語に急いで回収しないための手がかりになる。表に出るレコードの間にも、音を試す日常は途切れていない。",
+      "盤の名義にはLarge Proという短い表記が使われ、レーベルにはPaul Seaの名がある。本人によれば、その名前は師匠Paul Cへの敬意を含んでいる。新しい曲を出す行為の中に、以前に受け取った技術や記憶が残る。「The Beginning」は、何もない地点から始めるというより、受け継いだものを携えて次の一枚を作る姿としても読める。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        4
+      ],
+      [
+        2
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "listening": [],
+    "context": "",
+    "connections": [],
+    "editorialCrates": [],
+    "curationNote": "",
+    "addedOrder": 461,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "members": "",
+    "requestList": "remaining-originals-intake",
+    "requestRow": "Sentinel_6f90bdec572c8191ac763b2b15c7e503:29",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "art": {
+      "word": "THE BEGINNING",
+      "tag": "LARGE PROFESSOR",
+      "palette": [
+        "#119682",
+        "#f3f1ed",
+        "#272626",
+        "#ba9186"
+      ],
+      "paletteSource": "Large Professor — The Beginning / After School",
+      "paletteSourceUrl": "https://music.apple.com/us/album/the-beginning-after-school/274723699",
+      "paletteNote": "白地に緑と黒の大文字、緑の上着、淡い赤茶色の建物。 実ジャケットを目視参照した近似配色。数値抽出ではない。",
+      "visuallyInspected": true,
+      "coverInspected": true,
+      "coverInspectionMethod": "Cloud browser screenshot of authorized album page",
+      "coverInspectedOn": "2026-10-18",
+      "style": "piece",
+      "seed": 3478463352,
+      "profile": "east-coast",
+      "lines": [
+        "THE BEGINNING"
+      ],
+      "lettering": "block"
+    }
+  },
+  {
+    "id": "masta-ace-hood",
+    "title": "H.O.O.D.",
+    "artist": "Masta Ace",
+    "album": "A Long Hot Summer",
+    "year": 2004,
+    "youtube": {
+      "id": "8bSm6Qev2x8",
+      "url": "https://www.youtube.com/watch?v=8bSm6Qev2x8",
+      "channel": "Masta Ace Incorporated - Topic",
+      "official": true,
+      "type": "Official Audio",
+      "version": "original album recording",
+      "regionsAllowed": "AE,AR,AS,AT,AU,AW,AZ,BA,BD,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GE,GF,GH,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IQ,IS,IT,JM,JO,JP,KE,KH,KR,KW,KY,KZ,LA,LB,LI,LK,LT,LU,LV,LY,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NP,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PR,PT,PY,QA,RE,RO,RS,RU,SA,SE,SG,SI,SK,SN,SV,TC,TH,TN,TR,TW,TZ,UA,UG,US,UY,VE,VI,VN,YE,YT,ZA,ZW",
+      "jpRegionsAllowed": true,
+      "japanRegionStatus": "included",
+      "verification": "Watch-page DOM meta[itemprop=regionsAllowed] explicitly includes JP. Actual playback from Japan and embedded playback have not been tested.",
+      "verified": "2026-10-18",
+      "title": "H.O.O.D.",
+      "duration": "PT3M46S"
+    },
+    "yearBasis": "正規作品の初出年",
+    "region": "East Coast",
+    "scene": "ブルックリン",
+    "category": "Hip Hop",
+    "label": "M3",
+    "producer": "",
+    "producers": [],
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "sources": [
+      {
+        "label": "Masta Ace — H.O.O.D. 正規音源",
+        "url": "https://www.youtube.com/watch?v=8bSm6Qev2x8",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Masta Ace — A Long Hot Summer",
+        "url": "https://music.apple.com/us/album/a-long-hot-summer/184880108",
+        "kind": "正規リリース情報"
+      },
+      {
+        "label": "Masta Ace — A Long Hot Summer, Below System",
+        "url": "https://belowsystem.bandcamp.com/album/a-long-hot-summer",
+        "kind": "レーベル公式資料"
+      },
+      {
+        "label": "Masta Ace — RapReviews interview, 2004",
+        "url": "https://www.rapreviews.com/interview/mastaace.html",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Masta Ace — HipHopCanada interview, 2004",
+        "url": "https://hiphopcanada.com/a-long-hot-summer-masta-ace-discusses-new-album-adapting-with-the-times-more/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "A Long Hot Summer — laut.de",
+        "url": "https://laut.de/Masta-Ace/Alben/A-Long-Hot-Summer-93091",
+        "kind": "作品レビュー"
+      }
+    ],
+    "deck": "「H.O.O.D.」を、出身地への愛着だけで聴くと大事な陰影を落としてしまう。レビューでも指摘されるのは、Masta Aceが街の一員でありながら、そこで起きることを美化せず眺める二重の立ち位置だ。故郷を肯定することと、その問題を見ないことは同じではない。親しみのある場所だからこそ、見過ごせない細部が言葉になる。",
+    "essayTitle": "故郷の内側にいながら、見過ごさない語り手",
+    "essay": [
+      "「H.O.O.D.」を、出身地への愛着だけで聴くと大事な陰影を落としてしまう。レビューでも指摘されるのは、Masta Aceが街の一員でありながら、そこで起きることを美化せず眺める二重の立ち位置だ。故郷を肯定することと、その問題を見ないことは同じではない。親しみのある場所だからこそ、見過ごせない細部が言葉になる。",
+      "『A Long Hot Summer』にはAceと非公式マネージャーFats Belvedereを軸にした物語がある。ただしMasta Aceは当時の取材で、実体験を材料にしながら架空の物語を組み立てると説明した。曲に現れる出来事をすべて本人の履歴へ変換するのではなく、何を見せるためにその場面を選んだのかを考えると、語り手としての仕事が見えてくる。",
+      "彼は2004年の取材で、ラップに期待される狭い題材だけでは、自分の経験を言い尽くせないことも話している。「H.O.O.D.」の価値は、街の名前を強く叫ぶことだけにない。よく知る場所へ一定の距離を保ち、矛盾を残したまま語る。その落ち着きが、単純な英雄像ではない主人公をアルバムの中で生かしている。"
+    ],
+    "essaySources": [
+      [
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "listening": [],
+    "context": "",
+    "connections": [],
+    "editorialCrates": [],
+    "curationNote": "",
+    "addedOrder": 462,
+    "datePublished": "2026-10-18",
+    "noteReviewedAt": "2026-10-18",
+    "members": "",
+    "requestList": "remaining-originals-intake",
+    "requestRow": "Sentinel_6f90bdec572c8191ac763b2b15c7e503:39",
+    "editorialStatus": "配信元の公開情報では日本を配信対象に含む公式音源です。サイト内での実再生は未確認です。",
+    "art": {
+      "word": "H.O.O.D.",
+      "tag": "MASTA ACE",
+      "palette": [
+        "#bf8039",
+        "#733e28",
+        "#f1eade",
+        "#33262b"
+      ],
+      "paletteSource": "Masta Ace — A Long Hot Summer",
+      "paletteSourceUrl": "https://music.apple.com/us/album/a-long-hot-summer/184880108",
+      "paletteNote": "橙色と褐色の建物の階段、白い服の人物、暗い窓。 実ジャケットを目視参照した近似配色。数値抽出ではない。",
+      "visuallyInspected": true,
+      "coverInspected": true,
+      "coverInspectionMethod": "Cloud browser screenshot of authorized album page",
+      "coverInspectedOn": "2026-10-18",
+      "style": "piece",
+      "seed": 762131686,
+      "profile": "east-coast",
+      "lines": [
+        "H.O.O.D."
+      ],
+      "lettering": "block"
+    }
   }
 ]

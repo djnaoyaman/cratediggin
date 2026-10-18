@@ -8924,6 +8924,266 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "living-legends-brand-new",
+      "title": "Brand New",
+      "artist": "Living Legends",
+      "album": "Classic",
+      "palette": [
+        "#c3ae76",
+        "#eee4bd",
+        "#543c22",
+        "#242219"
+      ],
+      "paletteSource": "Living Legends — Classic",
+      "paletteNote": "セピア色の野球チーム写真、淡いクリーム色のユニフォーム、黄土色と焦茶。 公式掲載の実ジャケットをクラウドブラウザで目視確認した編集上の近似配色。数値抽出ではない。",
+      "coverReference": "https://www.legendarymusic.net/shop/living-legends-classic-vinyl",
+      "status": "ready",
+      "image": "assets/graffiti/living-legends-brand-new-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "living-legends-blast-your-radio",
+      "title": "Blast Your Radio",
+      "artist": "Living Legends",
+      "album": "Classic",
+      "palette": [
+        "#c3ae76",
+        "#eee4bd",
+        "#543c22",
+        "#242219"
+      ],
+      "paletteSource": "Living Legends — Classic",
+      "paletteNote": "セピア色の野球チーム写真、淡いクリーム色のユニフォーム、黄土色と焦茶。 公式掲載の実ジャケットをクラウドブラウザで目視確認した編集上の近似配色。数値抽出ではない。",
+      "coverReference": "https://www.legendarymusic.net/shop/living-legends-classic-vinyl",
+      "status": "ready",
+      "image": "assets/graffiti/living-legends-blast-your-radio-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "living-legends-even-though",
+      "title": "Even Though",
+      "artist": "Living Legends",
+      "album": "Classic",
+      "palette": [
+        "#c3ae76",
+        "#eee4bd",
+        "#543c22",
+        "#242219"
+      ],
+      "paletteSource": "Living Legends — Classic",
+      "paletteNote": "セピア色の野球チーム写真、淡いクリーム色のユニフォーム、黄土色と焦茶。 公式掲載の実ジャケットをクラウドブラウザで目視確認した編集上の近似配色。数値抽出ではない。",
+      "coverReference": "https://www.legendarymusic.net/shop/living-legends-classic-vinyl",
+      "status": "ready",
+      "image": "assets/graffiti/living-legends-even-though-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "living-legends-never-fallin",
+      "title": "Never Fallin'",
+      "artist": "Living Legends",
+      "album": "Classic",
+      "palette": [
+        "#c3ae76",
+        "#eee4bd",
+        "#543c22",
+        "#242219"
+      ],
+      "paletteSource": "Living Legends — Classic",
+      "paletteNote": "セピア色の野球チーム写真、淡いクリーム色のユニフォーム、黄土色と焦茶。 公式掲載の実ジャケットをクラウドブラウザで目視確認した編集上の近似配色。数値抽出ではない。",
+      "coverReference": "https://www.legendarymusic.net/shop/living-legends-classic-vinyl",
+      "status": "ready",
+      "image": "assets/graffiti/living-legends-never-fallin-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "visionaries-blessings",
+      "title": "Blessings",
+      "artist": "Visionaries",
+      "album": "Galleries",
+      "palette": [
+        "#34451f",
+        "#b9822d",
+        "#f2f1e7",
+        "#27221a"
+      ],
+      "paletteSource": "Visionaries — Galleries",
+      "paletteNote": "暗いオリーブ緑の地に金・茶の額縁、中央に大きな白い余白。 公式掲載の実ジャケットをクラウドブラウザで目視確認した編集上の近似配色。数値抽出ではない。",
+      "coverReference": "https://thevisionaries.bandcamp.com/album/galleries",
+      "status": "ready",
+      "image": "assets/graffiti/visionaries-blessings-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "visionaries-sight-for-sore-eyes",
+      "title": "Sight for Sore Eyes",
+      "artist": "Visionaries",
+      "album": "Pangaea",
+      "palette": [
+        "#ebd827",
+        "#a61e1c",
+        "#6f4c24",
+        "#171a11"
+      ],
+      "paletteSource": "Visionaries — Pangaea",
+      "paletteNote": "黄色の光、赤縁の黄色い文字、茶色と黒の人物画。 公式掲載の実ジャケットをクラウドブラウザで目視確認した編集上の近似配色。数値抽出ではない。",
+      "coverReference": "https://thevisionaries.bandcamp.com/album/pangaea",
+      "status": "ready",
+      "image": "assets/graffiti/visionaries-sight-for-sore-eyes-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "lmno-hit",
+      "title": "Hit",
+      "artist": "LMNO",
+      "album": "Economic Food Chain Music",
+      "palette": [
+        "#334e3d",
+        "#83978f",
+        "#c5c4af",
+        "#33382e"
+      ],
+      "paletteSource": "LMNO — Economic Food Chain Music",
+      "paletteNote": "濃い緑の壁、灰青色の梯子、オフホワイトの壁と紙ラベル。 公式掲載の実ジャケットをクラウドブラウザで目視確認した編集上の近似配色。数値抽出ではない。",
+      "coverReference": "https://lmno.bandcamp.com/album/economic-food-chain-music",
+      "status": "ready",
+      "image": "assets/graffiti/lmno-hit-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "pitch-black-its-all-real",
+      "title": "It's All Real",
+      "artist": "Pitch Black",
+      "album": "Pitch Black Law",
+      "palette": [
+        "#171918",
+        "#aa2028",
+        "#62473c",
+        "#e2d4bc"
+      ],
+      "paletteSource": "Pitch Black — Pitch Black Law",
+      "paletteNote": "黒い服の五人、暗褐色の背景、赤い看板とゴシック文字。 実ジャケットを目視参照した近似配色。数値抽出ではない。",
+      "coverReference": "https://music.apple.com/us/album/pitch-black-law/1773189073",
+      "status": "ready",
+      "image": "assets/graffiti/pitch-black-its-all-real-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "time-machine-mind-in-a-spin",
+      "title": "Mind In A Spin",
+      "artist": "Time Machine feat. Edo G.",
+      "album": "Slow Your Roll",
+      "palette": [
+        "#86a648",
+        "#9b2832",
+        "#201b24",
+        "#e5d6ac"
+      ],
+      "paletteSource": "Time Machine feat. Edo G. — Slow Your Roll",
+      "paletteNote": "緑の背景、赤茶のコートの人物と帽子、腕時計、淡い色の看板。 実ジャケットを目視参照した近似配色。数値抽出ではない。",
+      "coverReference": "https://timemachinesound.bandcamp.com/album/slow-your-roll",
+      "status": "ready",
+      "image": "assets/graffiti/time-machine-mind-in-a-spin-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "method-man-say-what",
+      "title": "Say What",
+      "artist": "Method Man feat. Missy Elliott",
+      "album": "Tical 0: The Prequel",
+      "palette": [
+        "#241c1c",
+        "#8a5645",
+        "#eee3cf",
+        "#ab2d2a"
+      ],
+      "paletteSource": "Method Man feat. Missy Elliott — Tical 0: The Prequel",
+      "paletteNote": "茶色い街並みのコラージュ、中央の子供、白いロゴと赤い文字。 実ジャケットを目視参照した近似配色。数値抽出ではない。",
+      "coverReference": "https://music.apple.com/us/album/tical-0-the-prequel/1443811778",
+      "status": "ready",
+      "image": "assets/graffiti/method-man-say-what-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "wu-tang-clan-soul-power",
+      "title": "Soul Power (Black Jungle)",
+      "artist": "Wu-Tang Clan feat. Flavor Flav",
+      "album": "Iron Flag",
+      "palette": [
+        "#4d493c",
+        "#a7a295",
+        "#e2ded5",
+        "#d59126"
+      ],
+      "paletteSource": "Wu-Tang Clan feat. Flavor Flav — Iron Flag",
+      "paletteNote": "灰褐色の集合写真、擦れた質感、黒い旗と黄土色のWu-Tangロゴ。 実ジャケットを目視参照した近似配色。数値抽出ではない。",
+      "coverReference": "https://music.apple.com/us/album/iron-flag/1762519766",
+      "status": "ready",
+      "image": "assets/graffiti/wu-tang-clan-soul-power-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "large-professor-the-beginning",
+      "title": "The Beginning",
+      "artist": "Large Professor",
+      "album": "The Beginning / After School",
+      "palette": [
+        "#119682",
+        "#f3f1ed",
+        "#272626",
+        "#ba9186"
+      ],
+      "paletteSource": "Large Professor — The Beginning / After School",
+      "paletteNote": "白地に緑と黒の大文字、緑の上着、淡い赤茶色の建物。 実ジャケットを目視参照した近似配色。数値抽出ではない。",
+      "coverReference": "https://music.apple.com/us/album/the-beginning-after-school/274723699",
+      "status": "ready",
+      "image": "assets/graffiti/large-professor-the-beginning-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "masta-ace-hood",
+      "title": "H.O.O.D.",
+      "artist": "Masta Ace",
+      "album": "A Long Hot Summer",
+      "palette": [
+        "#bf8039",
+        "#733e28",
+        "#f1eade",
+        "#33262b"
+      ],
+      "paletteSource": "Masta Ace — A Long Hot Summer",
+      "paletteNote": "橙色と褐色の建物の階段、白い服の人物、暗い窓。 実ジャケットを目視参照した近似配色。数値抽出ではない。",
+      "coverReference": "https://music.apple.com/us/album/a-long-hot-summer/184880108",
+      "status": "ready",
+      "image": "assets/graffiti/masta-ace-hood-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
