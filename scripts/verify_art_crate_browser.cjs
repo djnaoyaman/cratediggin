@@ -46,7 +46,7 @@ const {chromium}=require('playwright');
   assert((await button.getAttribute('aria-label')).includes('外す'));assert((await page.locator('#art-crate-status').textContent()).includes('追加'));
   await button.click();assert.equal(await button.getAttribute('aria-pressed'),'false');assert.deepEqual(await ids(),[]);assert.deepEqual(await snapshot(),before);
   await button.focus();await page.keyboard.press('Space');assert.equal(await button.getAttribute('aria-pressed'),'true');await page.keyboard.press('Enter');assert.deepEqual(await ids(),[]);assert.deepEqual(await snapshot(),before);
-  await button.click();await page.keyboard.press('Tab');assert.equal(await page.evaluate(()=>document.activeElement.id),'art-close');await page.keyboard.press('Shift+Tab');assert.equal(await page.evaluate(()=>document.activeElement.id),'art-crate-add');
+  await button.click();assert.equal(await page.locator('#art-view').getAttribute('role'),'region');assert.equal(await page.locator('#art-view').getAttribute('aria-modal'),null);await page.locator('#art-close').focus();assert.equal(await page.evaluate(()=>document.activeElement.id),'art-close');
   await page.keyboard.press('Escape');await page.locator('#art-view').waitFor({state:'hidden'});assert.equal(await page.evaluate(()=>document.activeElement.id),'art-open');
   await open();assert.equal(await button.getAttribute('aria-pressed'),'true');
   const peer=await context.newPage();await peer.goto(base+'/about.html');
@@ -61,7 +61,7 @@ const {chromium}=require('playwright');
   // The same removal while merely cued must not load or navigate.
   await page.evaluate(k=>localStorage.setItem(k,JSON.stringify({name:'TEST',ids:['can-i-kick-it','runnin']})),key);
   await page.goto(base+'/tracks/');await page.waitForFunction(()=>window.__ytReady);await page.locator('#my-crate-tab').click();if(await page.locator('#player-reveal').isVisible())await page.locator('#player-reveal').click();await page.locator('#art-open').click();const paused=await snapshot();await button.click();assert.deepEqual(await snapshot(),paused);
-  for(const viewport of [{width:320,height:740},{width:390,height:844},{width:1280,height:900},{width:740,height:360}]){
+  for(const viewport of [{width:320,height:740},{width:390,height:844},{width:1280,height:900},{width:740,height:420}]){
    await page.setViewportSize(viewport);await open();
    await page.evaluate(()=>{document.querySelector('#art-song').textContent='A long track title with its exact original version and extended descriptive subtitle';document.querySelector('#art-artist').textContent='Artist with featured collaborators';});
    const boxes=await page.locator('#art-view button').evaluateAll(bs=>bs.map(b=>{const r=b.getBoundingClientRect();return {x:r.x,y:r.y,w:r.width,h:r.height,right:r.right,bottom:r.bottom};}));

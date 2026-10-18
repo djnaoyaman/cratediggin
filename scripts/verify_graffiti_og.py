@@ -54,7 +54,7 @@ for route,p in registry.items():
                 assert checked>0,tid
             artwork_count+=1
         else:
-            assert im.getpixel((1,1))==(0,108,182),tid
+            assert im.getpixel((1,1))==(65,105,225),tid
             assert 'graffiti' not in p['imageAlt'].lower()
             fallback_count+=1
     count+=1

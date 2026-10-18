@@ -13,7 +13,7 @@ const frames=[],listeners={},images=[],drawn=[];let clock=1000;
 const gradientStops=[];
 const gradient={addColorStop(offset,color){gradientStops.push([offset,color])}};
 const ctx=new Proxy({drawImage(...args){drawn.push(args)},measureText(s){return {width:s.length*20}},createLinearGradient(){return gradient},createRadialGradient(){return gradient}},{get:(o,k)=>k in o?o[k]:()=>{}});
-const canvas={getContext:()=>ctx,style:{}};
+let canvasRect={width:366,height:364};const canvas={getContext:()=>ctx,style:{},getBoundingClientRect:()=>canvasRect};
 const semantic={alt:'',hidden:true,removeAttribute(){}};
 const classes=new Set(),art={classList:{toggle:(name,on)=>on?classes.add(name):classes.delete(name)}};
 class FakeImage{constructor(){images.push(this);this.complete=false;this.naturalWidth=1672;this.naturalHeight=941}set src(v){this.url=v}load(){this.complete=true;this.onload()}}
@@ -21,8 +21,8 @@ const c={window:{CRATE_SITE_URL:'https://djnaoyaman.github.io/cratediggin'},docu
 vm.createContext(c);vm.runInContext(fs.readFileSync('src/assets/art.js','utf8'),c);
 const song=window.TRACKS.find(t=>t.id==='mass-appeal');c.window.CrateArt.show(song);assert(classes.has('image-art'));assert(images[0].url.endsWith('/cratediggin/'+song.art.image));assert.equal(semantic.alt,'Mass Appeal — Gang Starr｜CRATE DIGGIN｜DJ Naoyaman');
 clock=3000;frames.shift()(clock);images[0].load();frames.pop()(clock+50);assert(drawn.length);
-let args=drawn.at(-1);assert(args[3]<=390&&args[4]<=844);assert(args[1]>=0&&args[2]>=0);
-const before=drawn.length;c.innerWidth=1280;c.innerHeight=720;listeners.resize();assert(drawn.length>before);args=drawn.at(-1);assert(args[3]<=1280&&args[4]<=720);
+let args=drawn.at(-1);assert(args[3]<=canvasRect.width&&args[4]<=canvasRect.height);assert(args[1]>=0&&args[2]>=0);
+const before=drawn.length;c.innerWidth=1280;c.innerHeight=720;canvasRect={width:884,height:464};listeners.resize();assert(drawn.length>before);args=drawn.at(-1);assert(args[3]<=canvasRect.width&&args[4]<=canvasRect.height);
 const switchedAt=drawn.length;
 c.window.CrateArt.change(window.TRACKS.find(t=>t.id==='can-i-kick-it'));assert.equal(images.length,2);assert.equal(semantic.alt,'Can I Kick It? — A Tribe Called Quest｜CRATE DIGGIN｜DJ Naoyaman');
 assert(drawn.length>switchedAt,'Switch must repaint the wall synchronously');

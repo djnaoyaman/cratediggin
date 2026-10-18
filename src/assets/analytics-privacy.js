@@ -1,0 +1,3 @@
+/* Public route attribution only. Never send search text, hashes, names or unknown parameters. */
+window.CrateAnalyticsURL=function(value,campaigns=false){try{const u=new URL(value,location.origin);const clean=new URL(u.origin+u.pathname);if(campaigns)for(const key of ['utm_source','utm_medium','utm_campaign','gclid','dclid','gbraid','wbraid']){const v=u.searchParams.get(key);if(v&&/^[A-Za-z0-9_-]{1,160}$/.test(v))clean.searchParams.set(key,v)}return clean.href}catch(_){return location.origin+location.pathname}};
+window.CrateAnalyticsReferrer=function(value){if(!value)return '';try{const u=new URL(value);return u.origin===location.origin?window.CrateAnalyticsURL(value):u.origin+'/'}catch(_){return ''}};

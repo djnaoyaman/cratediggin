@@ -41,6 +41,9 @@ jobs:
           git diff --exit-code -- src templates
           python scripts/audit_editorial_depth.py
           python scripts/verify_catalog_sources.py
+          python scripts/verify_renewal_preservation.py
+          node scripts/verify_analytics_privacy.cjs
+          node scripts/verify_renewal.cjs
       - name: Audit catalog metadata and link integrity
         run: |
           python scripts/audit_catalog.py
@@ -50,6 +53,7 @@ jobs:
           python scripts/verify_live_video_works.py
           python scripts/verify_donuts_album.py
           node scripts/verify_album_player.cjs
+          node scripts/verify_visible_art.cjs
           node scripts/verify_player_presentation.cjs
           python scripts/verify_player_presentation.py
           node scripts/verify_player_intent.cjs
@@ -142,6 +146,8 @@ jobs:
           node scripts/verify_crate_naming_browser.cjs || naming_status=$?
           test "$player_intent_status" -eq 0
           test "$naming_status" -eq 0
+          node scripts/verify_visible_art_browser.cjs
+          node scripts/verify_renewal_browser.cjs
           node scripts/verify_player_presentation_browser.cjs
           node scripts/verify_album_browser.cjs
           node scripts/verify_listening_shelves_browser.js
@@ -204,6 +210,8 @@ jobs:
             /tmp/donuts-album-*.png
             /tmp/player-intent-*.png
             /tmp/player-presentation-*.png
+            /tmp/renewal-*.png
+            /tmp/visible-art-*.png
             /tmp/crate-naming-*.png
             /tmp/mix-enrichment-*.png
             /tmp/shadow-personal-*.png

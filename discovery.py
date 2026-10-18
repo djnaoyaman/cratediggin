@@ -52,7 +52,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
             target.write_text(content, encoding='utf-8')
         elif not target.exists():
             raise ValueError(f'Missing generated page: {target}')
-        breadcrumb = [{'@type': 'ListItem', 'position': 1, 'name': 'Crate Diggin’', 'item': host + '/'}]
+        breadcrumb = [{'@type': 'ListItem', 'position': 1, 'name': 'CRATEDIGGIN\'', 'item': host + '/'}]
         if relative:
             breadcrumb.append({'@type': 'ListItem', 'position': 2, 'name': title.split(' — ')[0], 'item': url})
         data = {'@context': 'https://schema.org', '@graph': (graph or [
@@ -83,9 +83,9 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
             data['about'] = about
         return data
 
-    add('#/', '', 'Crate Diggin’ — DJ NaoyamanのHip Hop・サンプリングガイド',
+    add('#/', '', 'CRATEDIGGIN\' — DJ NaoyamanのHip Hop・サンプリングガイド',
         '楽曲から元ネタへ。Hip Hop、サンプリング、制作背景を出典付きでたどるDJ Naoyamanの音楽ガイド。',
-        graph=[{'@type': 'WebSite', '@id': host + '/#website', 'url': host + '/', 'name': 'Crate Diggin’',
+        graph=[{'@type': 'WebSite', '@id': host + '/#website', 'url': host + '/', 'name': 'CRATEDIGGIN\'',
                 'inLanguage': 'ja', 'author': author}])
     for t in tracks:
         relative = 'songs/' + t['id'] + '.html'
@@ -118,7 +118,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         art = article(url, t['title'] + ' — ' + t['artist'], t['deck'], image,
                       'song/' + t['id'], t.get('datePublished'), {'@id': url + '#recording'})
         art['citation'] = [s['url'] for s in t['sources']]
-        add('#/song/' + t['id'], relative, t['title'] + ' / ' + t['artist'] + ' — Crate Diggin’',
+        add('#/song/' + t['id'], relative, t['title'] + ' / ' + t['artist'] + ' — CRATEDIGGIN\'',
             (work_label(t)+'。' if work_type(t)!='single' else '')+t['deck'], image=image, graph=[art, recording], kind='article', image_alt=t['art']['alt'] if t['art'].get('image') else t['title'] + ' — ' + t['artist'] + '｜CRATE DIGGIN｜DJ Naoyaman')
         published = t.get('datePublished')
         updated = art.get('dateModified')
@@ -156,7 +156,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         relative = 'artists/' + slugs[name] + '.html'
         selected = [t for t in tracks if t['artist'] == name]
         url = host + '/' + relative
-        add('#/artist/' + encoded(name), relative, name + ' の楽曲一覧 — Crate Diggin’',
+        add('#/artist/' + encoded(name), relative, name + ' の楽曲一覧 — CRATEDIGGIN\'',
             name + 'の掲載' + work_count(selected) + '。楽曲解説、サンプリング元ネタと制作背景を出典からたどる。',
             graph=[{'@type': 'CollectionPage', '@id': url + '#page', 'url': url, 'name': name + ' の楽曲一覧',
                     'about': entity(name), 'mainEntity': {'@type': 'ItemList', 'numberOfItems': len(selected),
@@ -170,14 +170,16 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         (dist / 'feature-og').mkdir(exist_ok=True)
         social_image({'title': f['name'], 'artist': 'Artist & producer features / DJ Naoyaman'}).save(dist / feature_image)
         description = f['name'] + '特集。' + f['editorial']['title'] + ' ' + f['editorial']['context']
-        add('#/feature/' + f['id'], relative, f['name'] + ' — ' + f['editorial']['title'] + ' / Crate Diggin’',
+        add('#/feature/' + f['id'], relative, f['name'] + ' — ' + f['editorial']['title'] + ' / CRATEDIGGIN\'',
             description, image=feature_image, graph=[article(url, f['editorial']['title'], description, feature_image,
                                         'feature/' + f['id'])], kind='article')
         pages['#/feature/' + f['id']]['jsonld']['@graph'][0]['citation'] = [s['url'] for s in f['editorial']['sources']]
-    add('#/songs', 'songs/', '楽曲一覧 — Crate Diggin’',
+    add('#/songs', 'songs/', '楽曲一覧 — CRATEDIGGIN\'',
         work_count(tracks) + 'のHip Hopを聴きどころ・アーティスト・年代から探す。サンプル元と制作背景を出典付きで紹介。',
-        '<h1>THE RECORD CRATE</h1><p>聴きどころ・アーティスト・年代から曲を探す。</p>' + track_links(tracks))
-    add('#/artists', 'artists/', 'アーティスト一覧 — Crate Diggin’', '掲載アーティスト別に楽曲と特集を探す。',
+        '<h1>TRACKS FROM THE GRAFFITI.</h1><p>聴きどころ・アーティスト・年代から曲を探す。</p>' + track_links(tracks))
+    readings_body='<h1>READ THE SOUND.</h1><p>制作の背景、サンプリング、人と音楽のつながりを読む。</p><div class="reading-grid">'+''.join('<a class="reading-card" href="'+base_path+'/songs/'+t['id']+'.html"><span class="eyebrow">'+esc(t['artist'])+'</span><h2>'+esc(t.get('essayTitle') or t['title'])+'</h2><p>'+esc(t['deck'])+'</p><span>READ ARTICLE ↗</span></a>' for t in tracks)+'</div>'
+    add('#/readings','readings/',"READINGS — CRATEDIGGIN'",'Hip Hopの制作背景、サンプリング、街と人の物語。全掲載作品の記事を読む。',readings_body)
+    add('#/artists', 'artists/', 'アーティスト一覧 — CRATEDIGGIN\'', '掲載アーティスト別に楽曲と特集を探す。',
         '<h1>ARTISTS</h1><ul>' + ''.join('<li><a href="' + base_path + '/artists/' + slugs[n] + '.html">' +
         esc(n) + '</a></li>' for n in names) + '</ul>')
     def feature_card(f):
@@ -191,25 +193,23 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
                 '<img class="feature-photo" src="'+base_path+'/'+esc(v['photo'],quote=True)+'" alt="'+esc(v['alt'],quote=True)+'" loading="lazy" style="object-position:'+esc(v.get('focus','50% 35%'),quote=True)+'">'
                 '<span class="feature-paper-grain" aria-hidden="true"></span><span class="feature-tape" aria-hidden="true">'+('ARTIST FILE' if f['type']=='artist' else 'PRODUCER FILE')+'</span>'
                 '<img class="feature-name-tag" src="'+base_path+'/'+esc(v['tag'],quote=True)+'" alt="" loading="eager"></div><div class="feature-poster-copy">'+copy+'</div></a>'
-                '<p class="feature-photo-credit">Photo: <a href="'+esc(v['source'],quote=True)+'">'+esc(v['author'])+'</a> · <a href="'+esc(v['licenseUrl'],quote=True)+'">'+esc(v['license'])+'</a><br>'+esc(v['changes'])+('<br>写真別出典: '+ ' · '.join('<a href="'+esc(c['source'],quote=True)+'">'+esc(c['label'])+'</a> (<a href="'+esc(c['licenseUrl'],quote=True)+'">license</a>)' for c in v['components']) if v.get('components') else '')+'</p></article>')
-    add('#/artists', 'artists/', 'ARTISTS — アーティスト特集・一覧 / Crate Diggin’',
+                '<details class="feature-photo-credit"><summary>PHOTO / LICENSE</summary><p>Photo: <a href="'+esc(v['source'],quote=True)+'">'+esc(v['author'])+'</a> · <a href="'+esc(v['licenseUrl'],quote=True)+'">'+esc(v['license'])+'</a><br>'+esc(v['changes'])+('<br>写真別出典: '+ ' · '.join('<a href="'+esc(c['source'],quote=True)+'">'+esc(c['label'])+'</a> (<a href="'+esc(c['licenseUrl'],quote=True)+'">license</a>)' for c in v['components']) if v.get('components') else '')+'</p></details></article>')
+    add('#/artists', 'artists/', 'ARTISTS — アーティスト特集・一覧 / CRATEDIGGIN\'',
         'アーティスト特集と全掲載アーティストの楽曲一覧。',
         '<h1>ARTISTS</h1><p><a href="'+base_path+'/producers/">PRODUCERS：プロデューサー特集へ ↗</a></p><p class="feature-swipe-hint">左右にスワイプして特集を探す →</p><div class="feature-grid feature-swipe" role="region" aria-label="特集カード一覧" tabindex="0">'+''.join(feature_card(f) for f in features if f['type']=='artist')+'</div><h2>ALL ARTISTS</h2><ul>'+''.join('<li><a href="'+base_path+'/artists/'+slugs[n]+'.html">'+esc(n)+'</a></li>' for n in names)+'</ul>')
-    add('#/producers', 'producers/', 'PRODUCERS — プロデューサー特集 / Crate Diggin’',
+    add('#/producers', 'producers/', 'PRODUCERS — プロデューサー特集 / CRATEDIGGIN\'',
         'ビートと制作背景からたどるプロデューサー特集。',
         '<h1>PRODUCERS</h1><p><a href="'+base_path+'/artists/">ARTISTS：アーティスト特集へ ↗</a></p><p class="feature-swipe-hint">左右にスワイプして特集を探す →</p><div class="feature-grid feature-swipe" role="region" aria-label="特集カード一覧" tabindex="0">'+''.join(feature_card(f) for f in features if f['type']=='producer')+'</div>')
     for g in guides:
         selected = [next(t for t in tracks if t['id'] == tid) for tid in g['ids']]
-        add('#/guide/' + g['id'], 'guides/' + g['id'] + '.html', g['title'] + ' — Crate Diggin’', g['description'],
+        add('#/guide/' + g['id'], 'guides/' + g['id'] + '.html', g['title'] + ' — CRATEDIGGIN\'', g['description'],
             '<h1>' + esc(g['title']) + '</h1><p>' + esc(g['description']) + '</p>' + track_links(selected))
-    add('#/timeline', 'timeline.html', 'Hip Hopの年表 — Crate Diggin’', '掲載曲を発表年と街からたどるHip Hopの年表。',
+    add('#/timeline', 'timeline.html', 'Hip Hopの年表 — CRATEDIGGIN\'', '掲載曲を発表年と街からたどるHip Hopの年表。',
         '<h1>THE TIMELINE</h1>' + ''.join('<section><h2>' + str(y) + '年</h2>' +
         track_links([t for t in tracks if t['year'] == y]) + '</section>' for y in sorted({t['year'] for t in tracks if t['year'] is not None})) + ('<section><h2>発表年未確認</h2>'+track_links([t for t in tracks if t['year'] is None])+'</section>' if any(t['year'] is None for t in tracks) else ''))
-    add('#/about', 'about.html', '編集方針 — Crate Diggin’', '事実と編者の私見を分け、参考資料を示すCrate Diggin’の編集方針。',
-        '<h1>編集方針</h1><p>選曲・編集・文責 DJ Naoyaman。</p><p>楽曲の歴史的事実と編者の聴き方を区別し、参考資料を示します。'
-        '未確認事項は推測で埋めず、確認を継続する項目として明示します。YouTubeの投稿やIDの存在は、録音の同一性や再生可能性の保証ではありません。</p>'
-        '<p><a href="' + base_path + '/editor.html">編者について</a></p>')
-    add('#/editor', 'editor.html', 'DJ Naoyaman — 編者紹介 / Crate Diggin’', 'Crate Diggin’の選曲・編集を行うDJ Naoyaman。',
+    from render_editorial import about_html
+    add('#/about', 'about.html', "編集方針 — CRATEDIGGIN'", '事実と編者の私見を分け、参考資料を示す編集方針。', about_html(root,tracks))
+    add('#/editor', 'editor.html', 'DJ Naoyaman — 編者紹介 / CRATEDIGGIN\'', 'CRATEDIGGIN\'の選曲・編集を行うDJ Naoyaman。',
         __import__('profile_content').render_profile(root,base_path),
         graph=[{'@type': 'ProfilePage', '@id': author_url + '#page', 'url': author_url, 'mainEntity': {**author, 'alternateName':'宮崎直哉'}}])
 
@@ -245,6 +245,8 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
                 content = re.sub(r'(<main id="view"[^>]*>.*?</h1>)', lambda m: m[0]+figure, content, count=1, flags=re.S)
         presentation = 'open' if route == '#/' else 'idle'
         content = re.sub(r'<body(?: data-player-presentation="[^"]*")?>', '<body data-player-presentation="'+presentation+'">', content, count=1)
+        if p['route'] != '#/':
+            content = content.replace('id="hero" aria-labelledby=', 'id="hero" hidden aria-labelledby=', 1)
         if presentation == 'idle':
             content = re.sub(r'(<button\b(?=[^>]*\bid="player-reveal")[^>]*?)\s+hidden(?=[\s>])', r'\1', content, count=1)
         content = re.sub(r'<title>.*?</title>', lambda _: '<title>' + esc(p['title']) + '</title>', content, flags=re.S)
@@ -256,7 +258,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         meta += '<meta name="author" content="DJ Naoyaman"><meta name="robots" content="index,follow,max-image-preview:large">'
         meta += '<link rel="canonical" href="' + esc(p['url'], quote=True) + '">'
         for name, value in {'og:title': p['title'], 'og:description': p['description'], 'og:url': p['url'],
-                            'og:type': p['kind'], 'og:site_name': 'Crate Diggin’', 'og:locale': 'ja_JP',
+                            'og:type': p['kind'], 'og:site_name': 'CRATEDIGGIN\'', 'og:locale': 'ja_JP',
                             'og:image': p['image'], 'og:image:type': 'image/png', 'og:image:width': '1200', 'og:image:height': '630',
                             'og:image:alt': p['imageAlt']}.items():
             meta += '<meta property="' + name + '" content="' + esc(value, quote=True) + '">'
@@ -324,7 +326,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
             assert (dist/image).is_file(), 'Missing sitemap image: '+image
             item=ET.SubElement(node,'{'+image_ns+'}image');ET.SubElement(item,'{'+image_ns+'}loc').text=host+'/'+image
     ET.ElementTree(sitemap).write(dist/'sitemap.xml',encoding='utf-8',xml_declaration=True)
-    llms = '# Crate Diggin’\n\nDJ Naoyamanが選曲・編集する、出典付きのHip Hop・サンプリングガイド。\n\n'
+    llms = '# CRATEDIGGIN\'\n\nDJ Naoyamanが選曲・編集する、出典付きのHip Hop・サンプリングガイド。\n\n'
     llms += '## Editorial policy\n事実と編者の私見を区別します。確認継続中の情報や参考音源を、確認済みの事実と混同しないでください。\n'
     llms += '- [著者](' + author_url + ')\n- [編集方針](' + host + '/about.html)\n- [サイトマップ](' + host + '/sitemap.xml)\n'
     llms += '- [全楽曲のMarkdown](' + host + '/llms-full.txt)\n\n'

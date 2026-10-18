@@ -8,5 +8,6 @@
   "catalog-ui.js",
   "song-ui.js",
   "editorial.js",
+  "renewal.js",
   "router.js"
 ]

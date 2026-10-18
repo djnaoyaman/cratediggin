@@ -104,7 +104,7 @@ for t in tracks:
     if t['art'].get('image'):
         image_tag='<img id="artwork-image" class="art-accessible-image" src="'+e(BASE_PATH+'/'+t['art']['image'],quote=True)+'" alt="'+e(t['art']['alt'],quote=True)+'" loading="lazy">'
         page=page.replace('<img id="artwork-image" class="art-accessible-image" alt="" hidden>',image_tag)
-    page=re.sub(r'<title>.*?</title>','<title>'+e(t['title']+' / '+t['artist']+' — Crate Diggin’')+'</title>',page)
+    page=re.sub(r'<title>.*?</title>','<title>'+e(t['title']+' / '+t['artist']+' — CRATEDIGGIN\'')+'</title>',page)
     page=re.sub(r'<meta name="description" content="[^"]*">','<meta name="description" content="'+e(t['deck'],quote=True)+'">',page)
     page=page.replace('href="'+HOST+'/"','href="'+HOST+'/songs/'+t['id']+'.html"',1)
     page=page.replace('<head>','<head><script>window.INITIAL_ROUTE="#/song/'+t['id']+'";</script>')
@@ -132,9 +132,9 @@ for artist in artist_names:
     slug=artist_slugs[artist]
     artist_tracks=[t for t in tracks if t['artist']==artist]
     url=HOST+'/artists/'+slug+'.html'
-    listing='<main id="view" tabindex="-1"><article><h1>'+html.escape(artist)+'</h1><p>Crate Diggin’ '+work_count(artist_tracks)+'</p><ul>'+''.join('<li><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+html.escape(t['title'])+'</a> ('+year_label(t)+')</li>' for t in artist_tracks)+'</ul><p><a href="'+BASE_PATH+'/">Crate Diggin’ トップへ</a></p></article></main>'
+    listing='<main id="view" tabindex="-1"><article><h1>'+html.escape(artist)+'</h1><p>CRATEDIGGIN\' '+work_count(artist_tracks)+'</p><ul>'+''.join('<li><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+html.escape(t['title'])+'</a> ('+year_label(t)+')</li>' for t in artist_tracks)+'</ul><p><a href="'+BASE_PATH+'/">CRATEDIGGIN\' トップへ</a></p></article></main>'
     page=base.replace('<main id="view" tabindex="-1"></main>',listing)
-    page=re.sub(r'<title>.*?</title>','<title>'+html.escape(artist)+' の楽曲一覧 — Crate Diggin’</title>',page)
+    page=re.sub(r'<title>.*?</title>','<title>'+html.escape(artist)+' の楽曲一覧 — CRATEDIGGIN\'</title>',page)
     page=re.sub(r'<meta name="description" content="[^"]*">','<meta name="description" content="'+html.escape(artist+' の掲載'+work_count(artist_tracks)+'。楽曲解説、サンプリングの元ネタ、出典をDJ Naoyamanが紹介。',quote=True)+'">',page)
     page=re.sub(r'<link rel="canonical" href="[^"]*">','<link rel="canonical" href="'+url+'">',page)
     page=page.replace('<head>','<head><script>window.INITIAL_ROUTE='+json.dumps('#/artist/'+quote(artist,safe=''))+';</script>',1)
@@ -143,17 +143,17 @@ for artist in artist_names:
     links.append(url)
 (DIST/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+html.escape(u)+'</loc></url>' for u in [HOST+'/']+links)+'</urlset>', encoding='utf-8')
 (DIST/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+HOST+'/sitemap.xml\n', encoding='utf-8')
-(DIST/'llms.txt').write_text('# Crate Diggin’\n\nA Guide to Sampled Mind & Vintage Grooves\n\n選曲・編集・文責 DJ Naoyaman。事実と私見を分け、出典を示すHip Hopガイド。\n\n'+'\n'.join('- ['+t['title']+']('+HOST+'/songs/'+t['id']+'.md)' for t in tracks)+'\n', encoding='utf-8')
+(DIST/'llms.txt').write_text('# CRATEDIGGIN\'\n\nA Guide to Sampled Mind & Vintage Grooves\n\n選曲・編集・文責 DJ Naoyaman。事実と私見を分け、出典を示すHip Hopガイド。\n\n'+'\n'.join('- ['+t['title']+']('+HOST+'/songs/'+t['id']+'.md)' for t in tracks)+'\n', encoding='utf-8')
 # Machine-readable discovery guide: source-backed editorial pages, not an indexing guarantee.
-(DIST/'llms.txt').write_text('# Crate Diggin’ — Hip Hop & Sampling Archive\n\n> DJ Naoyamanが選曲・編集するHip Hop、サンプリング、音楽文化の出典付きアーカイブ。\n\n## Start here\n- [ホーム]('+HOST+'/)\n- [サイトマップ]('+HOST+'/sitemap.xml)\n- [全楽曲のMarkdown]('+HOST+'/llms-full.txt)\n\n## Artists\n'+''.join('- ['+a+']('+HOST+'/artists/'+artist_slugs[a]+'.html)\n' for a in artist_names)+'\n## Songs\n'+''.join('- ['+t['artist']+' — '+t['title']+']('+HOST+'/songs/'+t['id']+'.md)\n' for t in tracks)+'\n## Editorial policy\n楽曲の歴史的事実と編集者の解釈は区別しています。各楽曲ページの出典を確認してください。YouTubeへのリンクは公式配信や参考音源の案内であり、音源の権利を主張しません。\n', encoding='utf-8')
+(DIST/'llms.txt').write_text('# CRATEDIGGIN\' — Hip Hop & Sampling Archive\n\n> DJ Naoyamanが選曲・編集するHip Hop、サンプリング、音楽文化の出典付きアーカイブ。\n\n## Start here\n- [ホーム]('+HOST+'/)\n- [サイトマップ]('+HOST+'/sitemap.xml)\n- [全楽曲のMarkdown]('+HOST+'/llms-full.txt)\n\n## Artists\n'+''.join('- ['+a+']('+HOST+'/artists/'+artist_slugs[a]+'.html)\n' for a in artist_names)+'\n## Songs\n'+''.join('- ['+t['artist']+' — '+t['title']+']('+HOST+'/songs/'+t['id']+'.md)\n' for t in tracks)+'\n## Editorial policy\n楽曲の歴史的事実と編集者の解釈は区別しています。各楽曲ページの出典を確認してください。YouTubeへのリンクは公式配信や参考音源の案内であり、音源の権利を主張しません。\n', encoding='utf-8')
 (DIST/'llms-full.txt').write_text('\n\n'.join((DIST/'songs'/(t['id']+'.md')).read_text(encoding='utf-8') for t in tracks), encoding='utf-8')
-(DIST/'404.html').write_text('<!doctype html><html lang="ja"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Crate Diggin’</title><link rel="stylesheet" href="'+BASE_PATH+'/style.css"><body><main style="padding:10vw"><h1 class="section-title">KEEP DIGGIN’.</h1><p>このページは見つかりませんでした。</p><a href="'+BASE_PATH+'/">クレートへ戻る</a></main></body></html>', encoding='utf-8')
+(DIST/'404.html').write_text('<!doctype html><html lang="ja"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>CRATEDIGGIN\'</title><link rel="stylesheet" href="'+BASE_PATH+'/style.css"><body><main style="padding:10vw"><h1 class="section-title">KEEP DIGGIN’.</h1><p>このページは見つかりませんでした。</p><a href="'+BASE_PATH+'/">クレートへ戻る</a></main></body></html>', encoding='utf-8')
 print(f'Generated {len(tracks)} works ({work_count(tracks)}), source candidates, sitemap and Markdown. Data validation passed.')
 
 # Search, sharing and machine-readable views use the same editorial records.
 from brand_assets import icon, social_image, write_icons
 write_icons(DIST)
-(DIST/'site.webmanifest').write_text(json.dumps({'name':'Crate Diggin’','short_name':'Crate Diggin’','start_url':'/','display':'standalone','theme_color':'#006cb6','background_color':'#ffffff','icons':[{'src':'/icon-192.png','sizes':'192x192','type':'image/png'},{'src':'/icon-512.png','sizes':'512x512','type':'image/png'}]}), encoding='utf-8')
+(DIST/'site.webmanifest').write_text(json.dumps({'name':'CRATEDIGGIN\'','short_name':'CRATEDIGGIN\'','start_url':'/','display':'standalone','theme_color':'#4169e1','background_color':'#ffffff','icons':[{'src':'/icon-192.png','sizes':'192x192','type':'image/png'},{'src':'/icon-512.png','sizes':'512x512','type':'image/png'}]}), encoding='utf-8')
 for n in [192,512]:icon(n).save(DIST/f'icon-{n}.png')
 (DIST/'og').mkdir(exist_ok=True)
 social_image().save(DIST/'og-image.png')
@@ -167,7 +167,7 @@ def enhance(path,title,description,url,img,ld,article=False):
     content=re.sub(r'<meta (?:property="og:[^"]+"|name="twitter:[^"]+") content="[^"]*">','',content)
     version=json.loads((ROOT/'releases.json').read_text(encoding='utf-8'))['version']
     img+='?v='+version
-    tags=[('og:title',title),('og:description',description),('og:type','article' if article else 'website'),('og:url',url),('og:site_name','Crate Diggin’'),('og:locale','ja_JP'),('og:image',img),('og:image:width','1200'),('og:image:height','630'),('og:image:alt',title+' — Crate Diggin’')]
+    tags=[('og:title',title),('og:description',description),('og:type','article' if article else 'website'),('og:url',url),('og:site_name','CRATEDIGGIN\''),('og:locale','ja_JP'),('og:image',img),('og:image:width','1200'),('og:image:height','630'),('og:image:alt',title+' — CRATEDIGGIN\'')]
     head=''.join('<meta property="'+k+'" content="'+html.escape(v,quote=True)+'">' for k,v in tags)
     head+=''.join('<meta name="'+k+'" content="'+html.escape(v,quote=True)+'">' for k,v in [('twitter:card','summary_large_image'),('twitter:title',title),('twitter:description',description),('twitter:image',img),('twitter:image:alt',title)])
     head+='<meta name="author" content="DJ Naoyaman"><meta name="robots" content="index,follow,max-image-preview:large"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-vinyl.png"><link rel="icon" sizes="32x32" type="image/png" href="/favicon-32.png"><link rel="alternate icon" href="/favicon.ico"><link rel="manifest" href="/site.webmanifest">'
@@ -186,18 +186,18 @@ for artist in artist_names:
     slug=artist_slugs[artist]
     url=HOST+'/artists/'+slug+'.html'
     entries=[t for t in tracks if t['artist']==artist]
-    data={'@context':'https://schema.org','@graph':[{'@type':'CollectionPage','name':artist+' — Crate Diggin’ 収録曲','url':url,'inLanguage':'ja','mainEntity':{'@type':'ItemList','numberOfItems':len(entries),'itemListElement':[{'@type':'ListItem','position':i+1,'name':t['title'],'url':HOST+'/songs/'+t['id']+'.html'} for i,t in enumerate(entries)]}},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'Crate Diggin’','item':HOST+'/'},{'@type':'ListItem','position':2,'name':artist,'item':url}]}]}
-    enhance(DIST/'artists'/(slug+'.html'),artist+' の楽曲一覧 — Crate Diggin’',artist+' の掲載'+work_count(entries)+'。楽曲解説、サンプリング元ネタと出典を紹介。',url,HOST+'/og-image.png',data)
+    data={'@context':'https://schema.org','@graph':[{'@type':'CollectionPage','name':artist+' — CRATEDIGGIN\' 収録曲','url':url,'inLanguage':'ja','mainEntity':{'@type':'ItemList','numberOfItems':len(entries),'itemListElement':[{'@type':'ListItem','position':i+1,'name':t['title'],'url':HOST+'/songs/'+t['id']+'.html'} for i,t in enumerate(entries)]}},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'CRATEDIGGIN\'','item':HOST+'/'},{'@type':'ListItem','position':2,'name':artist,'item':url}]}]}
+    enhance(DIST/'artists'/(slug+'.html'),artist+' の楽曲一覧 — CRATEDIGGIN\'',artist+' の掲載'+work_count(entries)+'。楽曲解説、サンプリング元ネタと出典を紹介。',url,HOST+'/og-image.png',data)
 for t in tracks:
     social_image(t).save(DIST/'og'/(t['id']+'.png'))
     url=HOST+'/songs/'+t['id']+'.html'
-    data={'@context':'https://schema.org','@graph':[{'@type':'MusicRecording','@id':url+'#recording','name':t['title'],'byArtist':{'name':t['artist']},'inAlbum':{'@type':'MusicAlbum','name':t['album']},**({'datePublished':str(t['year'])} if t['year'] is not None else {}),'url':url,'sameAs':t['youtube']['url']},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'Crate Diggin’','item':HOST+'/'},{'@type':'ListItem','position':2,'name':t['title'],'item':url}]}]}
+    data={'@context':'https://schema.org','@graph':[{'@type':'MusicRecording','@id':url+'#recording','name':t['title'],'byArtist':{'name':t['artist']},'inAlbum':{'@type':'MusicAlbum','name':t['album']},**({'datePublished':str(t['year'])} if t['year'] is not None else {}),'url':url,'sameAs':t['youtube']['url']},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'CRATEDIGGIN\'','item':HOST+'/'},{'@type':'ListItem','position':2,'name':t['title'],'item':url}]}]}
     enhance(DIST/'songs'/(t['id']+'.html'),t['title']+' / '+t['artist'],t['deck'],url,HOST+'/og/'+t['id']+'.png',data,True)
 # Expose song links in HTML before JavaScript runs; the client then replaces the view.
 artist_directory='<section aria-label="アーティストから探す"><h2>ARTIST INDEX</h2><p>アーティスト別の収録曲一覧</p><ul>'+''.join('<li><a href="'+BASE_PATH+'/artists/'+artist_slugs[name]+'.html">'+html.escape(name)+'</a></li>' for name in artist_names)+'</ul></section>'
 listing='<section aria-label="収録曲"><h2>THE RECORD CRATE</h2>'+''.join('<article><h3><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+html.escape(t['title'])+'</a></h3><p>'+'<a href="'+BASE_PATH+'/artists/'+artist_slugs[t['artist']]+'.html">'+html.escape(t['artist'])+'</a> / '+year_label(t)+'</p><p>'+html.escape(t['deck'])+'</p></article>' for t in tracks)+'</section>'
 home=DIST/'index.html';content=home.read_text(encoding='utf-8');content=re.sub(r'<main id="view" tabindex="-1">.*?</main>','<main id="view" tabindex="-1">'+artist_directory+listing+'</main>',content,flags=re.S);home.write_text(content, encoding='utf-8')
-enhance(home,'Crate Diggin’ — DJ NaoyamanのHip Hop・サンプリングガイド','楽曲から元ネタへ。Hip Hop、サンプリング、グラフィティを出典付きでたどる音楽ガイド。',HOST+'/',HOST+'/og-image.png',{'@context':'https://schema.org','@type':'WebSite','name':'Crate Diggin’','url':HOST+'/','inLanguage':'ja','author':{'@type':'Person','name':'DJ Naoyaman'}})
+enhance(home,'CRATEDIGGIN\' — DJ NaoyamanのHip Hop・サンプリングガイド','楽曲から元ネタへ。Hip Hop、サンプリング、グラフィティを出典付きでたどる音楽ガイド。',HOST+'/',HOST+'/og-image.png',{'@context':'https://schema.org','@type':'WebSite','name':'CRATEDIGGIN\'','url':HOST+'/','inLanguage':'ja','author':{'@type':'Person','name':'DJ Naoyaman'}})
 print('Generated per-song social cards, SEO metadata, structured data, touch icons and HTML links.')
 
 # Every feature is readable without JavaScript and has a shareable URL.
@@ -227,7 +227,7 @@ for f in features:
     page=re.sub(r'<link rel="canonical" href="[^"]*">','<link rel="canonical" href="'+HOST+'/features/'+f['id']+'.html">',page)
     target=feature_dir/(f['id']+'.html');target.write_text(page, encoding='utf-8')
     url=HOST+'/features/'+f['id']+'.html'
-    enhance(target,f['name']+' — Features / Crate Diggin’',e['title'],url,HOST+'/og-image.png',{'@context':'https://schema.org','@type':'Article','headline':e['title'],'author':{'@type':'Person','name':'DJ Naoyaman'},'inLanguage':'ja','url':url})
+    enhance(target,f['name']+' — Features / CRATEDIGGIN\'',e['title'],url,HOST+'/og-image.png',{'@context':'https://schema.org','@type':'Article','headline':e['title'],'author':{'@type':'Person','name':'DJ Naoyaman'},'inLanguage':'ja','url':url})
     links.append(url)
     for artist in set(f.get('aliases',[])+(f['names'] if f['type']=='artist' else [])):
         if artist in artist_slugs:
@@ -239,7 +239,7 @@ with (DIST/'llms.txt').open('a', encoding='utf-8') as output:
     output.write('\n## Features\n'+''.join('- ['+f['name']+']('+HOST+'/features/'+f['id']+'.html)\n' for f in features))
 
 old_feature=feature_dir/'tribe-production.html'
-old_feature.write_text('<!doctype html><html lang="ja"><head><meta charset="utf-8"><title>A Tribe Called Quest — Crate Diggin’</title><link rel="canonical" href="'+HOST+'/features/tribe.html"><meta http-equiv="refresh" content="0;url='+HOST+'/features/tribe.html"></head><body><a href="'+HOST+'/features/tribe.html">A Tribe Called Questの特集へ</a></body></html>', encoding='utf-8')
+old_feature.write_text('<!doctype html><html lang="ja"><head><meta charset="utf-8"><title>A Tribe Called Quest — CRATEDIGGIN\'</title><link rel="canonical" href="'+HOST+'/features/tribe.html"><meta http-equiv="refresh" content="0;url='+HOST+'/features/tribe.html"></head><body><a href="'+HOST+'/features/tribe.html">A Tribe Called Questの特集へ</a></body></html>', encoding='utf-8')
 
 # A single source of version history, also available to the browser.
 release=json.loads((ROOT/'releases.json').read_text(encoding='utf-8'))
@@ -253,10 +253,11 @@ for page in DIST.rglob('*.html'):
     if BASE_PATH:
         text=re.sub(r'((?:href|src)=")/(?!/|'+re.escape(BASE_PATH.lstrip('/'))+'/)',lambda m:m[1]+BASE_PATH.lstrip('/')+'/',text)
     text=re.sub(r'((?:href|src)="[^"]*?(?:style\.css|app\.js|art\.js|releases\.js|playlist\.js|timeline\.js|filters\.js|tracks\.js|favicon\.svg|favicon-32\.png|favicon\.ico|apple-touch-icon\.png))(?:\?v=[0-9.]+)?(")',lambda m:m[1]+'?v='+release['version']+m[2],text)
-    analytics='<!-- GOOGLE_ANALYTICS -->\n<script async src="https://www.googletagmanager.com/gtag/js?id=G-71ENPHWEJH"></script>\n<script>\nwindow.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag(\'js\', new Date());\ngtag(\'config\', \'G-71ENPHWEJH\', {send_page_view: false});\n</script>\n<!-- /GOOGLE_ANALYTICS -->'
+    privacy=(ROOT/'src/assets/analytics-privacy.js').read_text()
+    analytics='<!-- GOOGLE_ANALYTICS -->\n<script>'+privacy+'\nwindow.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("set",{page_location:CrateAnalyticsURL(location.href,true),page_referrer:CrateAnalyticsReferrer(document.referrer)});gtag("js",new Date());gtag("config","G-71ENPHWEJH",{send_page_view:false});</script>\n<script async src="https://www.googletagmanager.com/gtag/js?id=G-71ENPHWEJH"></script>\n<!-- /GOOGLE_ANALYTICS -->'
     text=re.sub(r'<!-- GOOGLE_ANALYTICS -->.*?<!-- /GOOGLE_ANALYTICS -->', '', text, flags=re.S)
     if '/app.js' not in text:
-        analytics += '<script>gtag(\"event\",\"page_view\",{page_title:document.title,page_location:location.href});</script>'
+        analytics += '<script>gtag(\"event\",\"page_view\",{page_title:document.title,page_location:CrateAnalyticsURL(location.href,true),page_referrer:CrateAnalyticsReferrer(document.referrer)});</script>'
     text=text.replace('</head>',analytics+'</head>') if '</head>' in text else text.replace('<body',analytics+'<body',1)
     # Ensure the final emitted HTML has exactly the expected project-scoped touch icon.
     # Older generated HTML may contain a versioned pre-migration icon link.

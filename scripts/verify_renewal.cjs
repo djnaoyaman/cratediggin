@@ -1,0 +1,11 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
+const src=fs.readFileSync('src/app/renewal.js','utf8');
+const fn=src.slice(src.indexOf(' function renewalPick('),src.indexOf(' function renewalDraw('));const c={Math};vm.createContext(c);vm.runInContext(fn,c);
+const pool=[{id:'a'},{id:'b'},{id:'c'}];assert.equal(c.renewalPick([],null),null);assert.equal(c.renewalPick([pool[0]],'a').id,'a');
+for(const r of [0,.1,.49,.5,.9,.999])assert.notEqual(c.renewalPick(pool,'b',()=>r).id,'b');
+assert.deepEqual([0,.34,.67].map(r=>c.renewalPick(pool,null,()=>r).id),['a','b','c']);
+assert(src.includes('if(renewalDrawing)return'));assert(src.includes('token!==renewalDrawToken'));assert(src.includes('host.isConnected'));assert(src.includes("prefers-reduced-motion: reduce"));
+const draw=src.slice(src.indexOf(' function renewalDraw('),src.indexOf(' function readingCard('));assert.equal((draw.match(/playSelection\(/g)||[]).length,1);assert(draw.includes("$('#shuffle-play').onclick=()=>"));
+const template=fs.readFileSync('templates/index.html','utf8');assert(template.includes("CRATEDIGGIN'"));assert(template.includes('data-nav="readings"'));assert(template.includes('id="home-editorial"'));assert(template.includes('record-seal'));assert(!template.includes('header-stamp'));
+const cards=fs.readFileSync('src/app/player.js','utf8');assert(cards.includes('customMode||currentRoute().startsWith(\'#/songs\')'));assert(cards.includes('esc(s.deck)'));
+console.log('Renewal pool selection, no-repeat, cancel token, explicit-play boundary, full-content UI hooks and exact brand passed; not browser/audio proof.');
