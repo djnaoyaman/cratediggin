@@ -8729,6 +8729,201 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "a-tribe-called-quest-excursions",
+      "title": "Excursions",
+      "artist": "A Tribe Called Quest",
+      "album": "The Low End Theory",
+      "palette": [
+        "#df4b56",
+        "#199b69",
+        "#080b09",
+        "#b12b3a"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/the-low-end-theory/278911460",
+      "paletteNote": "黒地に赤い縞の人物、緑の曲線的なアルバム名。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/a-tribe-called-quest-excursions-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "pete-rock-cl-smooth-in-the-flesh",
+      "title": "In the Flesh",
+      "artist": "Pete Rock & C.L. Smooth",
+      "album": "The Main Ingredient",
+      "palette": [
+        "#d8cd7b",
+        "#e3e0cc",
+        "#16213a",
+        "#4c6185"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/the-main-ingredient/1435628405",
+      "paletteNote": "クリーム色と黄色の縁・文字、紺色のスタジオ写真、青い衣服。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/pete-rock-cl-smooth-in-the-flesh-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "nas-n-y-state-of-mind-pt-ii",
+      "title": "N.Y. State of Mind Pt. II",
+      "artist": "Nas",
+      "album": "I Am...",
+      "palette": [
+        "#d9aa45",
+        "#61402a",
+        "#f2eee0",
+        "#241710"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/i-am/170439443",
+      "paletteNote": "金色のファラオ像、焦げ茶の縞、白い余白と文字。 目視参照による近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/nas-n-y-state-of-mind-pt-ii-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "common-chi-city",
+      "title": "Chi-City",
+      "artist": "Common",
+      "album": "Be",
+      "palette": [
+        "#c8bb35",
+        "#8f8b31",
+        "#191b13",
+        "#eee4b5"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/be/1440726298",
+      "paletteNote": "黄緑から金色の背景、黒い帽子と髭、黄褐色の肌、白い小さな文字。 目視参照による近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/common-chi-city-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/be/1440726298"
+    },
+    {
+      "id": "common-the-corner",
+      "title": "The Corner",
+      "artist": "Common",
+      "album": "Be",
+      "palette": [
+        "#c8bb35",
+        "#8f8b31",
+        "#191b13",
+        "#eee4b5"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/be/1440726298",
+      "paletteNote": "黄緑から金色の背景、黒い帽子と髭、黄褐色の肌、白い小さな文字。 目視参照による近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/common-the-corner-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/be/1440726298"
+    },
+    {
+      "id": "common-the-food-live",
+      "title": "The Food (Live)",
+      "artist": "Common",
+      "album": "Be",
+      "palette": [
+        "#c8bb35",
+        "#8f8b31",
+        "#191b13",
+        "#eee4b5"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/be/1440726298",
+      "paletteNote": "黄緑から金色の背景、黒い帽子と髭、黄褐色の肌、白い小さな文字。 目視参照による近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/common-the-food-live-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "coverReference": "https://music.apple.com/us/album/be/1440726298"
+    },
+    {
+      "id": "masta-ace-good-ol-love",
+      "title": "Good Ol Love",
+      "artist": "Masta Ace",
+      "album": "A Long Hot Summer",
+      "palette": [
+        "#bf8039",
+        "#733e28",
+        "#f1eade",
+        "#33262b"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/a-long-hot-summer/184880108",
+      "paletteNote": "褐色と橙色の石造りの階段、白い服、暗い窓、赤の小さなロゴ。 目視参照による近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/masta-ace-good-ol-love-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "med-cant-hold-on",
+      "title": "Can't Hold On",
+      "artist": "MED",
+      "album": "Push Comes To Shove",
+      "palette": [
+        "#16473e",
+        "#f2f6f1",
+        "#171f1c",
+        "#a37762"
+      ],
+      "paletteSource": "MED — Push Comes To Shove (2005)",
+      "paletteNote": "濃緑の石壁、白い帽子とシャツの人物、白いMEDロゴ。 目視参照による近似配色。",
+      "coverReference": "https://www.stonesthrow.com/store/push-comes-to-shove/",
+      "status": "ready",
+      "image": "assets/graffiti/med-cant-hold-on-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "med-where-im-from",
+      "title": "Where I'm From",
+      "artist": "MED feat. Aloe Blacc",
+      "album": "Classic",
+      "palette": [
+        "#e4dfcd",
+        "#686861",
+        "#ee6465",
+        "#12bbb1"
+      ],
+      "paletteSource": "MED — Classic (2011)",
+      "paletteNote": "車のそばの帽子姿のモノクロ人物、クリーム地、上部サーモン色MED、下部ターコイズCLASSIC。 目視参照による近似配色。",
+      "coverReference": "https://www.stonesthrow.com/store/classic/",
+      "status": "ready",
+      "image": "assets/graffiti/med-where-im-from-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "jurassic-5-improvise",
+      "title": "Improvise",
+      "artist": "Jurassic 5",
+      "album": "Jurassic 5",
+      "palette": [
+        "#181818",
+        "#aa8b40",
+        "#d1b768"
+      ],
+      "paletteSource": "Jurassic 5 — J5 (Deluxe Edition)",
+      "paletteNote": "黒ないし濃いチャコール地。中央に金色の円とJ5系の記号、周囲に角度を変えた金色の三角形状の線束とJURASSIC 5文字。人物写真はない。 目視参照による近似配色。",
+      "coverReference": "https://music.apple.com/us/song/improvise/1777704242",
+      "status": "ready",
+      "image": "assets/graffiti/jurassic-5-improvise-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

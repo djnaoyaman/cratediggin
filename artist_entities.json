@@ -556,5 +556,14 @@
   },
   "Lone Catalysts": {
     "type": "MusicGroup"
+  },
+  "Masta Ace": {
+    "type": "Person"
+  },
+  "MED": {
+    "type": "Person"
+  },
+  "MED feat. Aloe Blacc": {
+    "type": null
   }
 }
