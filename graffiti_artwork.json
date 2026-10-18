@@ -9364,6 +9364,26 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "kid-cudi-make-her-say",
+      "title": "Make Her Say",
+      "artist": "Kid Cudi feat. Kanye West & Common",
+      "album": "Make Her Say — Single / Man on the Moon: The End of Day",
+      "palette": [
+        "#ed1725",
+        "#fffdf8",
+        "#151515",
+        "#ed90b3"
+      ],
+      "paletteSource": "Make Her Say — Single",
+      "paletteNote": "シングル・ジャケットの白地、鮮紅色の文字、黒い影と帯、淡いピンクの斜線を参照した近似配色。掲載プレイヤーのクリーン版MVとは参照元を分けている。",
+      "coverReference": "https://music.apple.com/us/album/make-her-say-feat-kanye-west-common-single/1472497551",
+      "status": "ready",
+      "image": "assets/graffiti/kid-cudi-make-her-say-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
