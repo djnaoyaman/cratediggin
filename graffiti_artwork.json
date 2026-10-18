@@ -8577,6 +8577,158 @@
       "paletteReviewed": true,
       "transparent": true,
       "coverReference": "https://www.stonesthrow.com/store/the-anthem/"
+    },
+    {
+      "id": "the-beatnuts-worlds-famous",
+      "title": "Worlds Famous",
+      "artist": "The Beatnuts",
+      "album": "Intoxicated Demons: The EP",
+      "palette": [
+        "#df211a",
+        "#bd541e",
+        "#f4f2e9",
+        "#252321"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/intoxicated-demons-the-ep/1641384858",
+      "paletteNote": "白地に大きな赤いロゴ、橙色のグループ名と黒い小文字。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-beatnuts-worlds-famous-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "jeru-the-damaja-come-clean-instrumental",
+      "title": "Come Clean (Instrumental)",
+      "artist": "Jeru the Damaja",
+      "album": "The Sun Rises in the East (Expanded Edition)",
+      "palette": [
+        "#eed341",
+        "#cb622d",
+        "#181b18",
+        "#476479"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/the-sun-rises-in-the-east-expanded-edition/1744476229",
+      "paletteNote": "黄色い枠と文字、橙色の炎、黒い衣服とビル、青いデニム。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/jeru-the-damaja-come-clean-instrumental-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "the-beatnuts-yeah-you-get-props",
+      "title": "Yeah You Get Props",
+      "artist": "The Beatnuts",
+      "album": "Street Level",
+      "palette": [
+        "#b82b29",
+        "#171414",
+        "#aaa196",
+        "#eee6dc"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/street-level/1363890872",
+      "paletteNote": "赤い大きなロゴとグループ名、暗い白黒写真。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/the-beatnuts-yeah-you-get-props-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "krs-one-p-is-still-free",
+      "title": "P Is Still Free",
+      "artist": "KRS-One",
+      "album": "Return of the Boom Bap",
+      "palette": [
+        "#dd8d30",
+        "#32618b",
+        "#15191d",
+        "#e5eceb"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/return-of-the-boom-bap/267251596",
+      "paletteNote": "橙色の縦長文字、青いスタジオ写真、白いアルバム名。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/krs-one-p-is-still-free-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "epmd-get-off-the-bandwagon",
+      "title": "Get Off the Bandwagon",
+      "artist": "EPMD",
+      "album": "Strictly Business",
+      "palette": [
+        "#e4ae34",
+        "#35acd0",
+        "#97bb4e",
+        "#131b1b"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/strictly-business/721248274",
+      "paletteNote": "暗いスタジオ写真、黄橙のロゴ、シアンと黄緑の題名。 目視参照による編集上の近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/epmd-get-off-the-bandwagon-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "gang-starr-playtawin",
+      "title": "Playtawin",
+      "artist": "Gang Starr",
+      "album": "The Ownerz",
+      "palette": [
+        "#f1eddf",
+        "#171713",
+        "#79725c",
+        "#893b42"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/the-ownerz/723694768",
+      "paletteNote": "白く古びた壁とスピーカー、黒い服、白いシャツ、赤褐色の手書き文字。 目視参照による近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/gang-starr-playtawin-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "mos-def-champion-requiem",
+      "title": "Champion Requiem",
+      "artist": "Mos Def",
+      "album": "The New Danger",
+      "palette": [
+        "#1e1a18",
+        "#77746a",
+        "#b3aa96",
+        "#544639"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/the-new-danger/1442817434",
+      "paletteNote": "黒い帽子と顔を覆う灰色の布。低彩度の茶と灰色、暗い影。 目視参照による近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/mos-def-champion-requiem-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "nas-my-way",
+      "title": "My Way",
+      "artist": "Nas",
+      "album": "The Lost Tapes",
+      "palette": [
+        "#596174",
+        "#252931",
+        "#eeeae2",
+        "#a19b88"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/the-lost-tapes/203942497",
+      "paletteNote": "青灰色の土と橋、黒い影、白い手書き文字と銀灰色のロゴ。 目視参照による近似配色。厳密な色抽出値ではない。",
+      "status": "ready",
+      "image": "assets/graffiti/nas-my-way-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

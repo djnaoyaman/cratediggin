@@ -148,6 +148,7 @@ jobs:
           node scripts/verify_requested_basis_browser.cjs
           node scripts/verify_requested_remaining_browser.cjs
           node scripts/verify_recovery_release_browser.cjs
+          node scripts/verify_restored_eight_browser.cjs
       - name: Save browser screenshots
         if: always()
         uses: actions/upload-artifact@v4
