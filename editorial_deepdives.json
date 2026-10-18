@@ -3417,5 +3417,86 @@
         "sourceLabel": "Stones Throw — Behind the smile: J Dilla’s Donuts album cover"
       }
     ]
+  },
+  {
+    "artist": "Dr. Octagon",
+    "title": "Bear Witness",
+    "sections": [
+      {
+        "heading": "DIG：出典からもう一歩",
+        "text": "約3分の「Q-Bert’s Story」と、6分46秒の「Automator’s 2 Turntables and a Razor Blade Re-Edit」を聴き比べる入口に。 DanがQbertを迎えた経緯を語るインタビューと併せて辿ると、ターンテーブルを作品の登場人物の一人として捉えられる。",
+        "source": "https://interscope.com/products/dr-octagon-dr-octagonecologyst-ivc-edition",
+        "sourceLabel": "Dr. Octagonecologyst IVC Edition, Interscope",
+        "sources": [
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "artist": "Public Enemy",
+    "title": "Contract On The World Love Jam",
+    "sections": [
+      {
+        "heading": "制作の分業を読む",
+        "text": "Chuck DはMark Deryの取材で、Eric Sadler、Hank Shocklee、Keith Shockleeと音の断片からグルーヴを組む日常を語る。SP-12やS900を使い、Macintoshでの加工とシーケンスはEricとKeithの領分だったという。曲の発想を語る人と、音を整える人の役割を並べると、The Bomb Squadという制作名義の中身が見えてくる。",
+        "source": "https://mrbeland.weebly.com/uploads/3/0/5/5/30558007/formanneal-thats_the_joint_the_hip_hop_studies_readerbook.pdf#page=431",
+        "sourceLabel": "Public Enemy Confrontation, Mark Dery interview reprinted in That’s the Joint!, p.414",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "heading": "音の導入と、視覚の宣言",
+        "text": "2014年再発盤を収蔵するSmithsonianの記録は、惑星を描いたジャケットだけでなく、内袋の宣言や影響を受けた人物の一覧にも触れている。声を組み合わせる導入曲から、言葉と図像を重ねたパッケージへ視線を移すと、アルバムがどんな立場を示そうとしたかを別の角度から辿れる。",
+        "source": "https://www.si.edu/object/nmaahc_2015.195.36abc",
+        "sourceLabel": "Smithsonian — Fear of a Black Planet（2014年再発盤）",
+        "sources": [
+          2
+        ]
+      },
+      {
+        "heading": "Instrumentalの中に残る声",
+        "text": "公式配信では題名に「Instrumental」が添えられ、制作はThe Bomb Squad、作曲にはKeith Shocklee、Eric Sadler、Carlton Ridenhourが記される。一方、Chuck Dの説明ではインタビューや広告の声がこの曲の材料になっている。ラップのヴァースだけを声の役割と考えず、切り取られた発話が曲をどう形作るかに耳を向けたい。",
+        "source": "https://www.youtube.com/watch?v=se65otxUOz0",
+        "sourceLabel": "Public Enemy / UMG official YouTube metadata",
+        "sources": [
+          3,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "artist": "Pete Rock feat. Raekwon, Prodigy & Ghostface Killah",
+    "title": "Tha Game",
+    "sections": [
+      {
+        "heading": "DIG：出典からもう一歩",
+        "text": "Pete Rock、Raekwon、Prodigy、Ghostface Killahの名前が並ぶ公式クレジットを傍らに、誰の声がどう交代するかを追ってみたい。 さらに『Soul Survivor』の他の客演曲へ進むと、プロデューサー名義のアルバムをMCたちがどう形作るか、比較の入口が広がる。",
+        "source": "https://www.youtube.com/watch?v=--VU4B9DtZM",
+        "sourceLabel": "Tha Game, RCA distributed recording",
+        "sources": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "artist": "Kanye West",
+    "title": "Through The Wire",
+    "sections": [
+      {
+        "heading": "DIG：出典からもう一歩",
+        "text": "Chaka Khanの「Through the Fire」から「Through The Wire」へ。歌声の速度と音程の変化を、Jeremy Tatarの比較音例とともに辿る。 初期ミックステープ版と商業発売版の声の違い、当時Kanyeが語った映像と宣伝への取り組みを併せると、録音が人に届くまでの道のりも見えてくる。",
+        "source": "https://mtosmt.org/issues/mto.23.29.2/mto.23.29.2.tatar.html",
+        "sourceLabel": "Jeremy Tatar, Injury, Affirmation, and the Disability Masquerade, Music Theory Online 29.2",
+        "sources": [
+          3,
+          1
+        ]
+      }
+    ]
   }
 ]

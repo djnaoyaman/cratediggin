@@ -55842,5 +55842,536 @@
       "paletteSourceUrl": "https://www.stonesthrow.com/store/donuts/",
       "paletteNote": "公式ストアのスマイル・カバーを目視した近似配色。黒、クリーム、落ち着いたバーガンディ、茶とタン。"
     }
+  },
+  {
+    "id": "dr-octagon-bear-witness",
+    "title": "Bear Witness",
+    "artist": "Dr. Octagon",
+    "year": 1996,
+    "yearBasis": "1996年の原作アルバムに収録された約3分の録音。後年の再編集・再発年と区別する。",
+    "album": "Dr. Octagon / Dr. Octagonecologyst",
+    "producer": "Dan the Automator",
+    "producers": [
+      "Dan the Automator"
+    ],
+    "essay": [
+      "「Bear Witness」を掘るときは、まず版を分けておきたい。Interscopeの公式曲目では、約3分の「Q-Bert’s Story」と、6分46秒の「Automator’s 2 Turntables and a Razor Blade Re-Edit」が別々に載る。 ここで辿るのは約3分のアルバム版。長尺の再編集とは異なる録音として聴きたい。",
+      "Dan the Automatorは原作について、Kool Keithのキャラクターを聞いて音楽を組み立て、Qbertを迎え入れたと語っている。制作場所は両親の家の地下にあったGlue Factory。レコード会社の期待する音に合わせずに進められた自由も、彼が強調する点だ。 Qbertへの評価を語る別のインタビューからも、ターンテーブルを特別な演奏の場として考える姿勢が伝わる。 この曲を入口にすると、Dr. OctagonをMC一人の変名だけで捉えず、声、制作、DJの技術が持ち場を持つ作品として辿れる。"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "個々のサンプル音源の出典は未確認です。素材が使われていないという意味ではありません。",
+    "sources": [
+      {
+        "label": "YouTube：公式配信 — Bear Witness",
+        "url": "https://www.youtube.com/watch?v=35g7cZEW9Aw",
+        "kind": "配信メタデータ",
+        "verified": "2026-10-18",
+        "scope": "タイトル・投稿者・説明欄・長さ・埋込宣言を照合。実再生の確認とは区別。"
+      },
+      {
+        "label": "Dr. Octagonecologyst IVC Edition, Interscope",
+        "url": "https://interscope.com/products/dr-octagon-dr-octagonecologyst-ivc-edition",
+        "kind": "official label catalog",
+        "scope": "Original album dated 1996; Bear Witness (Q-Bert’s Story) 3:00 distinguished from Automator’s 2 Turntables and a Razor Blade Re-Edit 6:46. Label identifies Dan production and Q-Bert turntablism."
+      },
+      {
+        "label": "Dan the Automator and DJ Hard Rich interview, Keith McMillen Instruments",
+        "url": "https://keithmcmillen.com/blog/interview-dan-automator-dj-hard-rich-k-mix-dr-octagon/",
+        "kind": "primary producer interview",
+        "scope": "Dan explains bringing Qbert into the project, independent creative freedom, and recording the original album at the Glue Factory in his parents basement. Album context, not a Bear Witness session-by-session account."
+      },
+      {
+        "label": "I’m a Student of Music and Always Have Been, Dan the Automator interview",
+        "url": "https://www.powmag.net/p/dan-the-automator-interview",
+        "kind": "primary producer interview",
+        "scope": "Qbertの技量とスクラッチへの考え方についてのDan the Automatorの証言。2018年の作品についての話題も含む。"
+      },
+      {
+        "label": "Dr Octagon (International Version), Spotify metadata",
+        "url": "https://open.spotify.com/intl-de/track/4Yd8l1oORFmk2q6MaIsur8",
+        "kind": "licensed platform metadata",
+        "scope": "1996 Bulk phonogram/A&M copyright; album listing has Bear Witness at 3:01. URL is title-track page containing full listing, not Bear Witness playback URL."
+      },
+      {
+        "label": "Qobuz licensed track credits",
+        "url": "https://www.qobuz.com/it-it/album/dr-octagonecologyst-dr-octagon/svsti6tws8hrc",
+        "kind": "licensed credits",
+        "scope": "Track 11 Bear Witness 3:00: producer/mixing Automator; composer Daniel M. Nakamura."
+      },
+      {
+        "label": "原盤・レーベル表記：www.irishtimes.com",
+        "url": "https://www.irishtimes.com/culture/dance-1.60458",
+        "scope": "Contemporary June 21 1996 album review prints Mo Wax/Bulk, MWO46CD. Supports original-period label wording, not edition chronology or first-release day."
+      }
+    ],
+    "connections": [],
+    "listening": [],
+    "moods": [
+      "グルーヴ"
+    ],
+    "sounds": [],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "editorialStatus": "掲載音源のメタデータを照合。実再生は未確認です。",
+    "noteReviewedAt": "2026-10-18",
+    "addedOrder": 483,
+    "versionBasis": "Original circa-three-minute album recording, also subtitled Q-Bert’s Story. Not the 6:46 Automator re-edit or Bear Witness IV.",
+    "aliases": [
+      "Bear Witness (Q-Bert’s Story)",
+      "Dr Octagon — Bear Witness"
+    ],
+    "youtube": {
+      "id": "35g7cZEW9Aw",
+      "url": "https://www.youtube.com/watch?v=35g7cZEW9Aw",
+      "title": "Bear Witness",
+      "channel": "Dr. Octagon - Topic",
+      "type": "公式配信",
+      "official": true,
+      "verified": "2026-10-18",
+      "duration": "PT3M1S",
+      "version": "Original circa-three-minute album recording, also subtitled Q-Bert’s Story. Not the 6:46 Automator re-edit or Bear Witness IV.",
+      "versionBasis": "Title/album/producer/runtime agree with licensed Qobuz and label original-version listings. Metadata qualified, not actual playback.",
+      "embedUrl": "https://www.youtube.com/embed/35g7cZEW9Aw",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false
+    },
+    "art": {
+      "word": "BEAR WITNESS",
+      "lines": [
+        "BEAR WITNESS"
+      ],
+      "tag": "DR. OCTAGON",
+      "style": "piece",
+      "seed": 3183687548,
+      "palette": [
+        "#292228",
+        "#e6dfcc",
+        "#ad3c4c",
+        "#a49383",
+        "#bac2a8",
+        "#c5aa67"
+      ],
+      "paletteSource": "Dr. Octagon / Dr. Octagonecologyst",
+      "paletteSourceUrl": "https://musicbrainz.org/release/2271e923-291d-4dd0-96d7-3cf3f9d294ed/cover-art",
+      "paletteNote": "1996年Bulk盤ジャケットを目視した近似配色。古紙のクリーム、トープ、赤、黒、淡いセージ、黄土色。 印刷色の厳密な指定値ではありません。"
+    },
+    "region": "California",
+    "scene": "San Francisco / Dr. Octagon / Turntablism",
+    "label": "Bulk Recordings / Mo’ Wax",
+    "essayTitle": "Qbertの手が語る、Dr. Octagonのもう一つの顔",
+    "deck": "Dan the Automatorの証言から、制作とターンテーブルが出会う場所へ。",
+    "context": "Dan the Automatorの証言から、制作とターンテーブルが出会う場所へ。",
+    "category": "Hip Hop",
+    "datePublished": "2026-10-18",
+    "artists": [
+      "Dr. Octagon"
+    ]
+  },
+  {
+    "id": "public-enemy-contract-on-the-world-love-jam",
+    "title": "Contract On The World Love Jam",
+    "artist": "Public Enemy",
+    "year": 1990,
+    "yearBasis": "1990年『Fear of a Black Planet』の冒頭曲。配信の1月1日表記を実際の発売日とは扱わない。",
+    "album": "Fear of a Black Planet",
+    "producer": "The Bomb Squad",
+    "producers": [
+      "The Bomb Squad"
+    ],
+    "essay": [
+      "『Fear of a Black Planet』の入口で、Public Enemyは声の断片を組み立てる。「Contract On The World Love Jam」の作り方を尋ねられたChuck Dは、ラジオからインタビューや広告をカセットへ録音し、その断片をどう並べれば曲になるか考えたと説明している。 既成の歌を引用するだけでなく、日常の放送そのものを作詞の材料として扱う発想だ。",
+      "同じ証言では、こうした導入を長くしすぎず、次の動きのある曲へ勢いよくつなぐ必要も語られる。 Smithsonian所蔵の2014年再発LPでも、A面は本曲から「Brothers Gonna Work It Out」へ進む。 約1分44秒という短さを、内容の少なさと取り違えないようにしたい。アルバムの順番まで含めて聴くための入口であり、声をどう配置するかという制作の判断が前面に出た一曲だ。"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1,
+        2,
+        3
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "個々のサンプル音源の出典は未確認です。素材が使われていないという意味ではありません。",
+    "sources": [
+      {
+        "label": "YouTube：公式配信 — Contract On The World Love Jam (Instrumental)",
+        "url": "https://www.youtube.com/watch?v=se65otxUOz0",
+        "kind": "配信メタデータ",
+        "verified": "2026-10-18",
+        "scope": "タイトル・投稿者・説明欄・長さ・埋込宣言を照合。実再生の確認とは区別。"
+      },
+      {
+        "label": "Public Enemy Confrontation, Mark Dery interview reprinted in That’s the Joint!, p.414",
+        "url": "https://mrbeland.weebly.com/uploads/3/0/5/5/30558007/formanneal-thats_the_joint_the_hip_hop_studies_readerbook.pdf#page=431",
+        "kind": "primary interview reprint",
+        "scope": "Printed page 414, PDF zero-based page430: Chuck D describes radio interviews/commercials captured on cassette, arranging fragments like a song, and keeping the opener short so it launches the next groove."
+      },
+      {
+        "label": "Smithsonian — Fear of a Black Planet（2014年再発盤）",
+        "url": "https://www.si.edu/object/nmaahc_2015.195.36abc",
+        "kind": "museum physical artifact",
+        "scope": "2014年再発盤の所蔵記録。ジャケット・内袋の説明と曲順を参照。初版現物の証明とは区別。"
+      },
+      {
+        "label": "Public Enemy / UMG official YouTube metadata",
+        "url": "https://www.youtube.com/watch?v=se65otxUOz0",
+        "kind": "official distributed recording",
+        "scope": "104 seconds; Fear Of A Black Planet, 1990 Island Def Jam phonogram; producer The Bomb Squad; composers Keith Shocklee, Eric Sadler, Carlton Ridenhour. Instrumental suffix is the official album metadata, not proof of a later alternate beat-only mix. January 1 is generic digital date, not used as exact historical release day."
+      },
+      {
+        "label": "地域・活動背景：www.adelphi.edu",
+        "url": "https://www.adelphi.edu/news/chuck-d-public-enemy-honorary-doctorate-egree-adelphi/",
+        "scope": "University describes WBAU as hip-hop hub and Chuck D program featuring future Public Enemy members."
+      },
+      {
+        "label": "地域・活動背景：www.adelphi.edu",
+        "url": "https://www.adelphi.edu/Adelphi-Magazine/Adelphi-Magazine-Fall-2013.pdf",
+        "scope": "University history documents WBAU Long Island/New York reach and Chuck D connection."
+      }
+    ],
+    "connections": [],
+    "listening": [],
+    "moods": [
+      "グルーヴ"
+    ],
+    "sounds": [],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "editorialStatus": "掲載音源のメタデータを照合。実再生は未確認です。",
+    "noteReviewedAt": "2026-10-18",
+    "addedOrder": 484,
+    "versionBasis": "Original album-opening sound collage, approximately 1:44. Official digital label includes Instrumental. Not a combined two-track upload or a later Herb Instrumental remix.",
+    "aliases": [
+      "Contract On The World Love Jam (Instrumental)",
+      "Contract on the World Love Jam (Intro)"
+    ],
+    "youtube": {
+      "id": "se65otxUOz0",
+      "url": "https://www.youtube.com/watch?v=se65otxUOz0",
+      "title": "Contract On The World Love Jam (Instrumental)",
+      "channel": "Public Enemy - Topic",
+      "type": "公式配信",
+      "official": true,
+      "verified": "2026-10-18",
+      "duration": "PT1M44S",
+      "version": "Original album-opening sound collage, approximately 1:44. Official digital label includes Instrumental. Not a combined two-track upload or a later Herb Instrumental remix.",
+      "versionBasis": "Album, title and duration metadata checked; actual playback not verified.",
+      "embedUrl": "https://www.youtube.com/embed/se65otxUOz0",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false
+    },
+    "art": {
+      "word": "CONTRACT ON THE WORLD LOVE JAM",
+      "lines": [
+        "CONTRACT ON THE WORLD LOVE JAM"
+      ],
+      "tag": "PUBLIC ENEMY",
+      "style": "piece",
+      "seed": 1042939402,
+      "palette": [
+        "#111c30",
+        "#235470",
+        "#66b6cf",
+        "#e5bc4c",
+        "#bc263c",
+        "#f1eed8"
+      ],
+      "paletteSource": "Fear of a Black Planet",
+      "paletteSourceUrl": "https://musicbrainz.org/release/21c01cab-6b26-4930-a2d3-28054d7874ed/cover-art",
+      "paletteNote": "1990年Def Jam/CBS盤ジャケットを目視した近似配色。濃紺、青、シアン、黄、赤、白。 印刷色の厳密な指定値ではありません。"
+    },
+    "region": "New York",
+    "scene": "Long Island / WBAU / The Bomb Squad",
+    "label": "Def Jam",
+    "essayTitle": "ラジオの断片が、アルバムの扉になる",
+    "deck": "Chuck Dの説明から、録りためた声を曲へ組み上げる方法を読む。",
+    "context": "Chuck Dの説明から、録りためた声を曲へ組み上げる方法を読む。",
+    "category": "Hip Hop",
+    "datePublished": "2026-10-18",
+    "artists": [
+      "Public Enemy"
+    ]
+  },
+  {
+    "id": "pete-rock-tha-game",
+    "title": "Tha Game",
+    "artist": "Pete Rock feat. Raekwon, Prodigy & Ghostface Killah",
+    "year": 1998,
+    "yearBasis": "1998年『Soul Survivor』期の原曲。配信メタデータの日付から初出日を推定しない。",
+    "album": "Soul Survivor",
+    "producer": "Pete Rock",
+    "producers": [
+      "Pete Rock"
+    ],
+    "essay": [
+      "Pete Rockは、この共演がLoudのオフィスでの交流から生まれたと振り返っている。 公式クレジットに並ぶのはRaekwon、Prodigy、Ghostface Killah。制作と演奏者の欄にはPete自身の名前もある。 ここで辿りたいのは、豪華な名前の一覧だけでなく、プロデューサー名義の作品に異なるMCが集まる仕組みだ。 制作のクレジットを併せて見ると、『Soul Survivor』という作品の輪郭が見えやすくなる。"
+    ],
+    "essaySources": [
+      [
+        1,
+        2
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "個々のサンプル音源の出典は未確認です。素材が使われていないという意味ではありません。",
+    "sources": [
+      {
+        "label": "YouTube：公式配信 — Tha Game",
+        "url": "https://www.youtube.com/watch?v=--VU4B9DtZM",
+        "kind": "配信メタデータ",
+        "verified": "2026-10-18",
+        "scope": "タイトル・投稿者・説明欄・長さ・埋込宣言を照合。実再生の確認とは区別。"
+      },
+      {
+        "label": "Pete Rock Tells All, Daniel Isenberg interview",
+        "url": "https://www.complex.com/music/a/daniel-isenberg/interview-pete-rock-classics",
+        "kind": "primary producer interview",
+        "scope": "Pete Rockが語るLoudオフィスでの交流。"
+      },
+      {
+        "label": "Tha Game, RCA distributed recording",
+        "url": "https://www.youtube.com/watch?v=--VU4B9DtZM",
+        "kind": "label-delivered metadata",
+        "scope": "Soul Survivor; Pete Rock producer; Raekwon, Prodigy, Ghostface Killah performers. 299 seconds. Digital June 17 date not accepted as historical album date."
+      },
+      {
+        "label": "地域・活動背景：bbemusic.com",
+        "url": "https://bbemusic.com/artist/pete-rock",
+        "scope": "Pete Rockのニューヨーク、WBLSでの活動背景を記すレーベル公式略歴。"
+      },
+      {
+        "label": "Cellar Records — Soul Survivor US original LP",
+        "url": "https://cellar-records.com/products/used-pete-rock-soul-survivor-lp",
+        "kind": "オリジナル盤販売資料",
+        "scope": "1998年US盤、Loud Records、番号07863-67616-1の表記。"
+      }
+    ],
+    "connections": [],
+    "listening": [],
+    "moods": [
+      "グルーヴ"
+    ],
+    "sounds": [],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "editorialStatus": "掲載音源のメタデータを照合。実再生は未確認です。",
+    "noteReviewedAt": "2026-10-18",
+    "addedOrder": 485,
+    "versionBasis": "Original 4:59 vocal album recording; not instrumental, radio edit, or later remix.",
+    "aliases": [],
+    "youtube": {
+      "id": "--VU4B9DtZM",
+      "url": "https://www.youtube.com/watch?v=--VU4B9DtZM",
+      "title": "Tha Game",
+      "channel": "Pete Rock - Topic",
+      "type": "公式配信",
+      "official": true,
+      "verified": "2026-10-18",
+      "duration": "PT4M59S",
+      "version": "Original 4:59 vocal album recording; not instrumental, radio edit, or later remix.",
+      "versionBasis": "Original 4:59 vocal album recording; not instrumental, radio edit, or later remix.",
+      "embedUrl": "https://www.youtube.com/embed/--VU4B9DtZM",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false
+    },
+    "art": {
+      "word": "THA GAME",
+      "lines": [
+        "THA GAME"
+      ],
+      "tag": "PETE ROCK FEAT. RAEKWON, PRODIGY & GHOSTFACE KILLAH",
+      "style": "piece",
+      "seed": 1906368784,
+      "palette": [
+        "#be762c",
+        "#584c35",
+        "#2e3028",
+        "#ca9c66",
+        "#7d592d",
+        "#f1eee6"
+      ],
+      "paletteSource": "Soul Survivor",
+      "paletteSourceUrl": "https://cellar-records.com/products/used-pete-rock-soul-survivor-lp",
+      "paletteNote": "1998年Soul Survivorのジャケットを目視した近似配色。銅色、金、暗いオリーブ、銀白。 印刷色の厳密な指定値ではありません。"
+    },
+    "region": "New York",
+    "scene": "New York / Loud Records",
+    "label": "Loud Records / RCA",
+    "essayTitle": "Pete Rockの一曲に集う、三人のMC",
+    "deck": "Raekwon、Prodigy、Ghostface Killahとの共演を、制作クレジットから辿る。",
+    "context": "Raekwon、Prodigy、Ghostface Killahとの共演を、制作クレジットから辿る。",
+    "category": "Hip Hop",
+    "datePublished": "2026-10-18",
+    "artists": [
+      "Pete Rock",
+      "Raekwon",
+      "Prodigy",
+      "Ghostface Killah"
+    ]
+  },
+  {
+    "id": "kanye-west-through-the-wire",
+    "title": "Through The Wire",
+    "artist": "Kanye West",
+    "year": 2003,
+    "yearBasis": "2003年の商業発売版。2004年『The College Dropout』収録と、先行するミックステープ版を区別する。",
+    "album": "The College Dropout",
+    "producer": "Kanye West",
+    "producers": [
+      "Kanye West"
+    ],
+    "essay": [
+      "2004年2月のインタビューでKanyeは、映像の費用を自分で負担し、ラジオに届けるため独立したプロモーターも起用したと語っている。 「Through The Wire」は、曲を書くことと、その曲が届く場所を作ることが隣り合った一曲として辿れる。ここでは2003年の商業発売版を、2004年の『The College Dropout』に収めた音源を選ぶ。公式配信は制作をKanye、録音をFrancis Graham、ミックスをManny Marroquinと記す。 事故後の録音という逸話には版の区別が欠かせない。音楽研究者Jeremy Tatarは、初期ミックステープ版と後の再録版を比較している。 現在選んだアルバム版のすべての声を、顎を固定したまま録った声だと一括りにはしない。"
+    ],
+    "essaySources": [
+      [
+        1,
+        2,
+        3
+      ]
+    ],
+    "facts": [],
+    "samples": [
+      {
+        "artist": "Chaka Khan",
+        "title": "Through the Fire",
+        "role": "Chaka Khanの歌声を速度・音程を上げて用いたサンプル。",
+        "main": true,
+        "sources": [
+          3
+        ],
+        "research": true,
+        "youtube": {
+          "id": "TmtkLP_jcEI",
+          "url": "https://www.youtube.com/watch?v=TmtkLP_jcEI",
+          "title": "Through the Fire",
+          "channel": "Chaka Khan - Topic",
+          "official": true,
+          "verified": "2026-10-18",
+          "playbackVerified": false,
+          "verification": "Rhino/Warner-delivered I Feel for You album track, 1984 phonogram; title has no live/remix/remaster qualifier. Original recording identity supported; exact mastering/source pressing equivalence not established."
+        }
+      }
+    ],
+    "sampleStatus": "Chaka Khan「Through the Fire」の歌声を用いたことを文献で確認。参考音源は公式配信のスタジオ録音で、実再生は未確認です。",
+    "sources": [
+      {
+        "label": "YouTube：公式配信 — Through The Wire",
+        "url": "https://www.youtube.com/watch?v=AE8y25CcE6s",
+        "kind": "配信メタデータ",
+        "verified": "2026-10-18",
+        "scope": "タイトル・投稿者・説明欄・長さ・埋込宣言を照合。実再生の確認とは区別。"
+      },
+      {
+        "label": "Rishad Mistri, Kanye West, SPIN February 9 2004",
+        "url": "https://www.spinmagazine.com/2004/02/kanye-west/",
+        "kind": "contemporary primary interview",
+        "scope": "West states he paid for the video and independent radio promotion to earn label support. Chaka Khan sample and Roc-A-Fella/Def Jam identified."
+      },
+      {
+        "label": "Through The Wire UMG official audio",
+        "url": "https://www.youtube.com/watch?v=AE8y25CcE6s",
+        "kind": "label-delivered metadata",
+        "scope": "221 seconds; College Dropout; 2003 phonogram; February 10 2004 album date; Kanye producer, Francis Graham recording, Manny Marroquin mixing."
+      },
+      {
+        "label": "Jeremy Tatar, Injury, Affirmation, and the Disability Masquerade, Music Theory Online 29.2",
+        "url": "https://mtosmt.org/issues/mto.23.29.2/mto.23.29.2.tatar.html",
+        "kind": "expert research with comparative audio examples",
+        "scope": "2002年のミックステープ版と2003年の再録版を比較。初期録音の話し声が一部残る点も扱う。"
+      },
+      {
+        "label": "YouTube：Chaka Khan - Topic／Rhino・Warner公式配信「Through the Fire」",
+        "url": "https://www.youtube.com/watch?v=TmtkLP_jcEI",
+        "kind": "公式配信メタデータ",
+        "verified": "2026-10-18",
+        "scope": "Rhino/Warner-delivered I Feel for You album track, 1984 phonogram; title has no live/remix/remaster qualifier. Original recording identity supported; exact mastering/source pressing equivalence not established."
+      }
+    ],
+    "connections": [],
+    "listening": [],
+    "moods": [
+      "グルーヴ"
+    ],
+    "sounds": [],
+    "collections": [
+      "midwest"
+    ],
+    "editorialCrates": [],
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "editorialStatus": "掲載音源のメタデータを照合。実再生は未確認です。",
+    "noteReviewedAt": "2026-10-18",
+    "addedOrder": 486,
+    "versionBasis": "2003 retail vocal recording as issued on 2004 album, 3:41. Explicitly not earliest Get Well Soon mixtape vocal.",
+    "aliases": [],
+    "youtube": {
+      "id": "AE8y25CcE6s",
+      "url": "https://www.youtube.com/watch?v=AE8y25CcE6s",
+      "title": "Through The Wire",
+      "channel": "Kanye West - Topic",
+      "type": "公式配信",
+      "official": true,
+      "verified": "2026-10-18",
+      "duration": "PT3M41S",
+      "version": "2003 retail vocal recording as issued on 2004 album, 3:41. Explicitly not earliest Get Well Soon mixtape vocal.",
+      "versionBasis": "2003 retail vocal recording as issued on 2004 album, 3:41. Explicitly not earliest Get Well Soon mixtape vocal.",
+      "embedUrl": "https://www.youtube.com/embed/AE8y25CcE6s",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false
+    },
+    "art": {
+      "word": "THROUGH THE WIRE",
+      "lines": [
+        "THROUGH THE WIRE"
+      ],
+      "tag": "KANYE WEST",
+      "style": "piece",
+      "seed": 441108149,
+      "palette": [
+        "#602827",
+        "#6f3d42",
+        "#49201d",
+        "#e29535",
+        "#a85e39",
+        "#924330"
+      ],
+      "paletteSource": "The College Dropout",
+      "paletteSourceUrl": "https://www.sourcerecords.jp/product/2633",
+      "paletteNote": "オリジナル期の茶色いThe College Dropoutジャケットを目視した近似配色。茶、金、ベージュ、赤褐色。 印刷色の厳密な指定値ではありません。"
+    },
+    "region": "Chicago",
+    "scene": "Chicago / Roc-A-Fella",
+    "label": "Roc-A-Fella / Def Jam",
+    "essayTitle": "声を録り、届く場所を作る",
+    "deck": "自ら進めた映像と宣伝、Chaka Khanの声、二つの録音からデビュー曲を辿る。",
+    "context": "自ら進めた映像と宣伝、Chaka Khanの声、二つの録音からデビュー曲を辿る。",
+    "category": "Hip Hop",
+    "datePublished": "2026-10-18",
+    "artists": [
+      "Kanye West"
+    ]
   }
 ]

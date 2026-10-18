@@ -9600,6 +9600,94 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "dr-octagon-bear-witness",
+      "title": "Bear Witness",
+      "artist": "Dr. Octagon",
+      "album": "Dr. Octagon / Dr. Octagonecologyst",
+      "palette": [
+        "#292228",
+        "#e6dfcc",
+        "#ad3c4c",
+        "#a49383",
+        "#bac2a8",
+        "#c5aa67"
+      ],
+      "paletteSource": "Dr. Octagon / Dr. Octagonecologyst",
+      "paletteNote": "1996年Bulk盤ジャケットを目視した近似配色。古紙のクリーム、トープ、赤、黒、淡いセージ、黄土色。 印刷色の厳密な指定値ではありません。",
+      "coverReference": "https://musicbrainz.org/release/2271e923-291d-4dd0-96d7-3cf3f9d294ed/cover-art",
+      "status": "ready",
+      "image": "assets/graffiti/dr-octagon-bear-witness-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "public-enemy-contract-on-the-world-love-jam",
+      "title": "Contract On The World Love Jam",
+      "artist": "Public Enemy",
+      "album": "Fear of a Black Planet",
+      "palette": [
+        "#111c30",
+        "#235470",
+        "#66b6cf",
+        "#e5bc4c",
+        "#bc263c",
+        "#f1eed8"
+      ],
+      "paletteSource": "Fear of a Black Planet",
+      "paletteNote": "1990年Def Jam/CBS盤ジャケットを目視した近似配色。濃紺、青、シアン、黄、赤、白。 印刷色の厳密な指定値ではありません。",
+      "coverReference": "https://musicbrainz.org/release/21c01cab-6b26-4930-a2d3-28054d7874ed/cover-art",
+      "status": "ready",
+      "image": "assets/graffiti/public-enemy-contract-on-the-world-love-jam-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "pete-rock-tha-game",
+      "title": "Tha Game",
+      "artist": "Pete Rock feat. Raekwon, Prodigy & Ghostface Killah",
+      "album": "Soul Survivor",
+      "palette": [
+        "#be762c",
+        "#584c35",
+        "#2e3028",
+        "#ca9c66",
+        "#7d592d",
+        "#f1eee6"
+      ],
+      "paletteSource": "Soul Survivor",
+      "paletteNote": "1998年Soul Survivorのジャケットを目視した近似配色。銅色、金、暗いオリーブ、銀白。 印刷色の厳密な指定値ではありません。",
+      "coverReference": "https://cellar-records.com/products/used-pete-rock-soul-survivor-lp",
+      "status": "ready",
+      "image": "assets/graffiti/pete-rock-tha-game-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "kanye-west-through-the-wire",
+      "title": "Through The Wire",
+      "artist": "Kanye West",
+      "album": "The College Dropout",
+      "palette": [
+        "#602827",
+        "#6f3d42",
+        "#49201d",
+        "#e29535",
+        "#a85e39",
+        "#924330"
+      ],
+      "paletteSource": "The College Dropout",
+      "paletteNote": "オリジナル期の茶色いThe College Dropoutジャケットを目視した近似配色。茶、金、ベージュ、赤褐色。 印刷色の厳密な指定値ではありません。",
+      "coverReference": "https://www.sourcerecords.jp/product/2633",
+      "status": "ready",
+      "image": "assets/graffiti/kanye-west-through-the-wire-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
