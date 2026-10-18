@@ -2,7 +2,7 @@ const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/st
 const inlineSource=fs.readFileSync('src/app/inline-player.js','utf8');
 const sampleSource=fs.readFileSync('src/app/song-ui.js','utf8').split('\n').filter(l=>/^ function (returnToTrack|createSamplePlayer|disposeSample)\(/.test(l)).join('\n');
 const coreSource=fs.readFileSync('src/app/core.js','utf8');
-const playerSource=coreSource.slice(0,coreSource.indexOf(' const songs='))+fs.readFileSync('src/app/player.js','utf8');
+const playerSource=coreSource.slice(0,coreSource.indexOf(' const songs='))+fs.readFileSync('src/app/album-player.js','utf8')+fs.readFileSync('src/app/player.js','utf8');
 const selectionSource=fs.readFileSync('src/app/editorial.js','utf8').split('\n').find(line=>line.includes('function playSelection('));
 function setup(){
  const elements=new Map(),loads=[],cues=[],players=[],storage=new Map(),copied=[],timers=new Map();let timerId=0;

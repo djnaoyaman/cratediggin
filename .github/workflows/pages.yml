@@ -63,6 +63,8 @@ jobs:
           python scripts/verify_work_types.py
           node scripts/verify_undated_works.cjs
           python scripts/verify_live_video_works.py
+          python scripts/verify_donuts_album.py
+          node scripts/verify_album_player.cjs
           python scripts/verify_mix_works.py
           python scripts/verify_graffiti_og.py
           python scripts/verify_url_migration.py
@@ -166,6 +168,7 @@ jobs:
           node scripts/verify_mix_works_browser.cjs
           node scripts/verify_live_video_browser.cjs
           node scripts/verify_work_label_layout_browser.cjs
+          node scripts/verify_album_browser.cjs
           node scripts/verify_deep_rooted_browser.cjs
           node scripts/verify_requested_next_browser.cjs
           node scripts/verify_requested_following_browser.cjs
@@ -201,6 +204,7 @@ jobs:
             /tmp/dj-shadow-cut-chemist-*.png
             /tmp/live-video-*.png
             /tmp/work-label-*.png
+            /tmp/donuts-album-*.png
             /tmp/shadow-personal-*.png
             /tmp/shadow-photos-*.png
             /tmp/common-celebrate-*.png

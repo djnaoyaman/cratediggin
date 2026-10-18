@@ -3354,5 +3354,59 @@
         ]
       }
     ]
+  },
+  {
+    "artist": "J Dilla",
+    "title": "Donuts",
+    "sections": [
+      {
+        "heading": "ビートテープが、アルバムになる",
+        "text": "Stones Throwは、優れたデモのビートテープをフルレングスへ育てる企画だったと説明している。完成した短い曲を並べるだけでなく、順番と長さによって全体の体験をつくる。その視点から、まずはシャッフルせずに聴きたい。",
+        "sources": [
+          0
+        ],
+        "source": "https://www.stonesthrow.com/store/donuts/",
+        "sourceLabel": "Stones Throw — Donuts"
+      },
+      {
+        "heading": "曲順をつくる、もうひとつの耳",
+        "text": "Peanut Butter Wolfは、Jankが曲順や各曲の長さに変更を提案し、Dillaがそれを承認したと語る。これはWolfの回想として読む。Jankを全曲のビート制作者とする意味ではなく、Dillaの音をアルバムとして届ける編集への参加を示す証言だ。",
+        "sources": [
+          2,
+          1
+        ],
+        "source": "https://banjo-groundhog-ahha.squarespace.com/peanut-butter-wolf",
+        "sourceLabel": "Trent Moorman — Peanut Butter Wolf Interview (The Stranger掲載取材の著者アーカイブ)"
+      },
+      {
+        "heading": "音の荒さを、消さずに仕上げる",
+        "text": "Dave Cooleyはマスタリングで、圧縮による独特の脈動を保つようコンプレッサーのリリースをテンポに合わせたと回想している。一方で、届いた時点ですでに大部分が仕上がっていたとも述べる。磨くことと、角をなくすことは同じではない。",
+        "sources": [
+          3
+        ],
+        "source": "https://reverb.com/news/engineering-dilla-how-j-dillas-classic-albums-were-mixed-and-mastered",
+        "sourceLabel": "Reverb — Engineering Dilla: How J Dilla’s Classic Albums Were Mixed and Mastered"
+      },
+      {
+        "heading": "病床の神話より、制作の過程へ",
+        "text": "レーベルは入退院を重ねた時期に完成した作品と説明する。Jordan Fergusonの取材を収めた書籍抜粋では2005年10月には発売準備が整っていたとされ、Dan Charnasも後年の調査で通説を検討し直した。全曲の制作場所や機材をひとまとめに断定せず、ビートの制作とアルバムの編集・完成を分けて考えたい。",
+        "sources": [
+          0,
+          4,
+          5
+        ],
+        "source": "https://www.stonesthrow.com/store/donuts/",
+        "sourceLabel": "Stones Throw — Donuts"
+      },
+      {
+        "heading": "二つのジャケット、ひとつの作品",
+        "text": "笑顔の写真と、ドーナツ店のイラスト。Jankが手がけた二つのカバーは同じ作品につながる。レーベルによると、笑顔はMEDの映像撮影時の素材から選ばれ、デジタルとCDの主カバーになった。二つのビジュアルから、同じ音楽への入口が開いている。",
+        "sources": [
+          1
+        ],
+        "source": "https://www.stonesthrow.com/news/behind-the-smile-j-dilla-donuts/",
+        "sourceLabel": "Stones Throw — Behind the smile: J Dilla’s Donuts album cover"
+      }
+    ]
   }
 ]

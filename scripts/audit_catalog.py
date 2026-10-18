@@ -30,7 +30,7 @@ def check_video(track):
     video = track.get("youtube") or {}
     vid = video.get("id")
     if not vid:
-        return ("NO_VIDEO", "", "")
+        return ("PLAYLIST_METADATA_ONLY" if video.get("playlistId") else "NO_VIDEO", "", "")
     url = "https://www.youtube.com/watch?" + urlencode({"v": vid})
     endpoint = "https://www.youtube.com/oembed?" + urlencode({"url": url, "format": "json"})
     try:
@@ -75,7 +75,7 @@ def main():
             issues.append("SHARED_VIDEO_ID")
         if vid and parse_qs(urlparse(video.get("url", "")).query).get("v") != [vid]:
             issues.append("VIDEO_URL_MISMATCH")
-        if not vid:
+        if not vid and not video.get("playlistId"):
             issues.append("AUDIO_NOT_VERIFIED")
         if not t.get("sources"):
             fatal.append("Missing sources: " + tid)
@@ -91,7 +91,7 @@ def main():
             issues.append("VIDEO_PROVENANCE_MISSING")
         rows.append(dict(id=tid, artist=t.get("artist"), title=t.get("title"), year=t.get("year"),
                          youtube_id=vid or "", youtube_url=video.get("url") or "",
-                         uploader="", video_title="", video_status="NOT_CHECKED" if vid else "NO_VIDEO",
+                         uploader="", video_title="", video_status="NOT_CHECKED" if vid else "PLAYLIST_METADATA_ONLY" if video.get("playlistId") else "NO_VIDEO",
                          metadata_status="REVIEW" if issues else "STRUCTURALLY_OK",
                          issues=";".join(issues), source_count=len(t.get("sources", [])),
                          essay_paragraphs=len(t.get("essay", []))))
@@ -111,6 +111,8 @@ def main():
         "version": releases["version"], "total_tracks": len(tracks),
         "total_songs": sum(t.get("workType", "single")=="single" for t in tracks),
         "total_mixes": sum(t.get("workType")=="mix" for t in tracks),
+        "total_albums": sum(t.get("workType")=="album" for t in tracks),
+        "with_playlist_id":sum(bool(t.get("youtube",{}).get("playlistId")) for t in tracks),
         "total_live_videos": sum(t.get("workType")=="live_video" for t in tracks),
         "with_video_id": sum(bool(t["youtube_id"]) for t in rows),
         "without_video_id": sum(not t["youtube_id"] for t in rows),

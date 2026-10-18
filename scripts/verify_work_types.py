@@ -1,4 +1,4 @@
-"""Work labels preserve single-song accounting; unsupported playlist sources fail closed."""
+"""Work labels preserve single-song accounting; native album playlist sources validate exact identity."""
 import json,sys
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1];sys.path.insert(0,str(ROOT))
@@ -14,4 +14,11 @@ for invalid in [dict(s,workType='bogus'),dict(s,workType='album'),{'youtube':dic
  try:validate_work(invalid)
  except AssertionError:pass
  else:raise AssertionError('Invalid or unsupported source was accepted')
-print('Work type validation and separate song/mix accounting passed; no playlist or playback claim')
+album={'workType':'album','youtube':{'sourceType':'playlist','playlistId':'PLabc','url':'https://www.youtube.com/playlist?list=PLabc'}}
+validate_work(album)
+assert work_count([s,m,album])=='1曲・1ミックス作品・1アルバム'
+for url in ['https://www.youtube.com/playlist?list=WRONG','https://evil.example/playlist?list=PLabc','http://www.youtube.com/playlist?list=PLabc','https://www.youtube.com/watch?list=PLabc']:
+ try:validate_work(dict(album,youtube=dict(album['youtube'],url=url)))
+ except AssertionError:pass
+ else:raise AssertionError('Bad playlist URL accepted')
+print('Work type validation and separate song/mix accounting passed; native playlist schema validated, no playback claim')
