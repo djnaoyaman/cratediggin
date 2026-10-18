@@ -9184,6 +9184,126 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "finsta-bundy-bizm",
+      "title": "Bizm",
+      "artist": "Finsta Bundy",
+      "album": "101: The High",
+      "palette": [
+        "#080808",
+        "#f0efe9",
+        "#777777",
+        "#343434"
+      ],
+      "paletteSource": "Finsta Bundy — 101: The High",
+      "paletteNote": "黒地、大きな白いグラフィティ文字、上下のモノクロ写真。 レーベルの実ジャケットを目視した近似色。",
+      "coverReference": "https://90stapes.bandcamp.com/album/101-the-high",
+      "status": "ready",
+      "image": "assets/graffiti/finsta-bundy-bizm-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "mhz-absotively-posolutely",
+      "title": "Absotively Posolutely",
+      "artist": "MHz",
+      "album": "Table Scraps",
+      "palette": [
+        "#612c26",
+        "#b29a42",
+        "#8a8051",
+        "#292927"
+      ],
+      "paletteSource": "MHz — Table Scraps",
+      "paletteNote": "左側に低い視点の室内とテーブルの脚、右側は臙脂の面に黄土色の文字と細い縦線。 レーベルの実ジャケットを目視した近似色。",
+      "coverReference": "https://manbitesdogrecs.bandcamp.com/album/mhz-table-scraps",
+      "status": "ready",
+      "image": "assets/graffiti/mhz-absotively-posolutely-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "nas-rewind",
+      "title": "Rewind",
+      "artist": "Nas",
+      "album": "Stillmatic",
+      "palette": [
+        "#e85f22",
+        "#79929b",
+        "#e8e7de",
+        "#183b36"
+      ],
+      "paletteSource": "Nas — Stillmatic",
+      "paletteNote": "灰青色の空、橙色の服と帽子、白い靴と文字、緑を帯びた壁。 目視参照による近似配色。厳密な色抽出値ではない。",
+      "coverReference": "https://music.apple.com/us/album/stillmatic/868691176",
+      "status": "ready",
+      "image": "assets/graffiti/nas-rewind-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "kendrick-lamar-the-art-of-peer-pressure",
+      "title": "The Art of Peer Pressure",
+      "artist": "Kendrick Lamar",
+      "album": "good kid, m.A.A.d city",
+      "palette": [
+        "#dddcd2",
+        "#9b9e81",
+        "#252b24",
+        "#b8946d"
+      ],
+      "paletteSource": "Kendrick Lamar — good kid, m.A.A.d city",
+      "paletteNote": "白い写真枠、くすんだ緑の室内、黒い目隠しと服、暖かな褐色の人物と卓上。 目視参照による近似配色。厳密な色抽出値ではない。",
+      "coverReference": "https://music.apple.com/us/album/good-kid-m-a-a-d-city/1471263898?l=en-US",
+      "status": "ready",
+      "image": "assets/graffiti/kendrick-lamar-the-art-of-peer-pressure-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "quasimoto-green-power-original",
+      "title": "Green Power (Original Version)",
+      "artist": "Quasimoto",
+      "album": "Stones Throw Summer 2002 / Yessir Whatever",
+      "palette": [
+        "#ededeb",
+        "#c8c8c6",
+        "#171916",
+        "#898987"
+      ],
+      "paletteSource": "Various — Stones Throw Summer 2002 (STWL1)",
+      "paletteNote": "初出ホワイトレーベル盤の実物写真。白いラベルと薄灰の盤面、黒い外周、灰色の陰影を目視参照した近似値。後年の黄色いQuasimotoジャケットからは採色していない。",
+      "coverReference": "https://www.stonesthrow.com/store/stones-throw-summer-2002/",
+      "status": "ready",
+      "image": "assets/graffiti/quasimoto-green-power-original-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "gza-duel-of-the-iron-mic",
+      "title": "Duel of the Iron Mic",
+      "artist": "GZA",
+      "album": "Liquid Swords",
+      "palette": [
+        "#8c2521",
+        "#17202a",
+        "#69b4c2",
+        "#c08245"
+      ],
+      "paletteSource": "GZA — Liquid Swords (1995)",
+      "paletteNote": "当事者インタビューに掲載されたオリジナル・ジャケットを目視。赤い縁と背景、濃紺の衣服、水色の文字、人物の黄土色から近似配色を選択。数値抽出ではない。",
+      "coverReference": "https://stockx.com/news/gza-monty-ross-and-the-making-of-liquid-swords/",
+      "status": "ready",
+      "image": "assets/graffiti/gza-duel-of-the-iron-mic-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

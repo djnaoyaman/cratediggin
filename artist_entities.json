@@ -586,5 +586,14 @@
   },
   "Wu-Tang Clan feat. Flavor Flav": {
     "type": null
+  },
+  "Finsta Bundy": {
+    "type": "MusicGroup"
+  },
+  "MHz": {
+    "type": "MusicGroup"
+  },
+  "Kendrick Lamar": {
+    "type": "Person"
   }
 }
