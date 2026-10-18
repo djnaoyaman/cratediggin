@@ -51,6 +51,7 @@ jobs:
           python scripts/verify_catalog_sources.py
           python scripts/verify_renewal_preservation.py
           python scripts/verify_requested_four.py
+          python scripts/verify_requested_six.py
           node scripts/verify_analytics_privacy.cjs
           node scripts/verify_renewal.cjs
       - name: Save verified image encoding cache
@@ -223,6 +224,7 @@ jobs:
           node scripts/verify_requested_thirteen_browser.cjs
           node scripts/verify_requested_later_six_browser.cjs
           node scripts/verify_requested_four_browser.cjs
+          node scripts/verify_requested_six_browser.cjs
       - name: Save browser screenshots
         if: always()
         uses: actions/upload-artifact@v4
@@ -237,6 +239,7 @@ jobs:
             /tmp/social-sharing-*.png
             /tmp/crawl-artwork-*.png
             /tmp/requested-four-*.png
+            /tmp/requested-six-*.png
             /tmp/migration-navigation-*.png
             /tmp/editor-profile-*.png
             /tmp/producer-note-*.png

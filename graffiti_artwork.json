@@ -9688,6 +9688,134 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "the-beatnuts-third-of-the-trio",
+      "title": "Third of the Trio",
+      "artist": "The Beatnuts",
+      "album": "Intoxicated Demons: The EP",
+      "palette": [
+        "#D5D0BA",
+        "#CE5C22",
+        "#B63812",
+        "#24241E"
+      ],
+      "paletteSource": "Intoxicated Demons: The EP",
+      "paletteNote": "オリジナル期ジャケットを参照した近似配色。印刷色の厳密な指定値ではありません。",
+      "coverReference": "https://slash-record.com/?pid=182475540",
+      "status": "ready",
+      "image": "assets/graffiti/the-beatnuts-third-of-the-trio-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "epmd-scratch-bring-it-back-part-2",
+      "title": "Scratch Bring It Back (Part 2-Mic Doc)",
+      "artist": "EPMD",
+      "album": "Business Never Personal",
+      "palette": [
+        "#262522",
+        "#684B37",
+        "#E89442",
+        "#D86625",
+        "#E5D49B"
+      ],
+      "paletteSource": "Business Never Personal",
+      "paletteNote": "オリジナル期ジャケットを参照した近似配色。印刷色の厳密な指定値ではありません。",
+      "coverReference": "https://www.thegoodoldayz.com/album/business-never-personal/21474.html",
+      "status": "ready",
+      "image": "assets/graffiti/epmd-scratch-bring-it-back-part-2-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "smif-n-wessun-wrektime",
+      "title": "Wrektime",
+      "artist": "Smif-N-Wessun",
+      "album": "Dah Shinin'",
+      "palette": [
+        "#0E1111",
+        "#575437",
+        "#E09B19",
+        "#AF651C",
+        "#422370",
+        "#D8C7A2"
+      ],
+      "paletteSource": "Dah Shinin'",
+      "paletteNote": "オリジナル期ジャケットを参照した近似配色。印刷色の厳密な指定値ではありません。",
+      "coverReference": "https://www.thegoodoldayz.com/album/dah-shinin/14381.html",
+      "status": "ready",
+      "image": "assets/graffiti/smif-n-wessun-wrektime-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "brand-nubian-step-into-da-cipher",
+      "title": "Step Into da Cipher",
+      "artist": "Brand Nubian",
+      "album": "Everything Is Everything",
+      "palette": [
+        "#34312E",
+        "#62584F",
+        "#9F9589",
+        "#D4C9B8",
+        "#D6A52F"
+      ],
+      "paletteSource": "Everything Is Everything",
+      "paletteNote": "オリジナル期ジャケットを参照した近似配色。印刷色の厳密な指定値ではありません。",
+      "coverReference": "https://www.plexusrecords.com/everything-is-everything-a58067.html",
+      "status": "ready",
+      "image": "assets/graffiti/brand-nubian-step-into-da-cipher-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "redman-a-day-of-sooperman-lover",
+      "title": "A Day of Sooperman Lover",
+      "artist": "Redman",
+      "album": "Whut? Thee Album",
+      "palette": [
+        "#B12E21",
+        "#D94723",
+        "#1C211B",
+        "#EFF0E8",
+        "#1C2532"
+      ],
+      "paletteSource": "Whut? Thee Album",
+      "paletteNote": "オリジナル期ジャケットを参照した近似配色。印刷色の厳密な指定値ではありません。",
+      "coverReference": "https://www.thegoodoldayz.com/album/whut-the-album/13252.html",
+      "status": "ready",
+      "image": "assets/graffiti/redman-a-day-of-sooperman-lover-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "showbiz-a-g-hold-ya-head",
+      "title": "Hold Ya Head",
+      "artist": "Showbiz & A.G.",
+      "album": "Runaway Slave",
+      "palette": [
+        "#222723",
+        "#717B79",
+        "#21344C",
+        "#4C8491",
+        "#606447",
+        "#DF3B25",
+        "#E0E3D7"
+      ],
+      "paletteSource": "Runaway Slave",
+      "paletteNote": "オリジナル期ジャケットを参照した近似配色。印刷色の厳密な指定値ではありません。",
+      "coverReference": "https://www.thegoodoldayz.com/album/runaway-slave/25121.html",
+      "status": "ready",
+      "image": "assets/graffiti/showbiz-a-g-hold-ya-head-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

@@ -3498,5 +3498,160 @@
         ]
       }
     ]
+  },
+  {
+    "artist": "The Beatnuts",
+    "title": "Third of the Trio",
+    "sections": [
+      {
+        "heading": "DIG：Reign of the Tec",
+        "text": "同じ1993年EPのシングル。Fashionが前に出る本曲との役割の違いを比較したい。",
+        "source": "https://newsroom.sonymusic.pl/263550-przygotujcie-sie-na-tegoroczna-edycje-rsd-black-friday",
+        "sourceLabel": "Sony Music Poland: Intoxicated Demons 30th-anniversary announcement",
+        "sources": [
+          0,
+          3
+        ]
+      },
+      {
+        "heading": "DIG：Props Over Here",
+        "text": "翌1994年のアルバム収録曲。EPからフル・アルバムへ、作品順に辿る接続。",
+        "source": "https://www.rapreviews.com/2005/12/the-beatnuts-the-beatnuts/",
+        "sourceLabel": "RapReviews: The Beatnuts 1994 album retrospective",
+        "sources": [
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "artist": "EPMD",
+    "title": "Scratch Bring It Back (Part 2-Mic Doc)",
+    "sections": [
+      {
+        "heading": "DIG：Crossover",
+        "text": "同じアルバムで本曲の直後に置かれた曲。曲順に沿って展開を辿れる。",
+        "source": "https://music.apple.com/us/album/business-never-personal/1444064480",
+        "sourceLabel": "Apple Music: Business Never Personal",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "heading": "DIG：Head Banger",
+        "text": "アルバムでは本曲の前曲。同年US12インチにも両曲が収録されている。",
+        "source": "https://music.apple.com/us/album/business-never-personal/1444064480",
+        "sourceLabel": "Apple Music: Business Never Personal",
+        "sources": [
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "artist": "Smif-N-Wessun",
+    "title": "Wrektime",
+    "sections": [
+      {
+        "heading": "DIG：Bucktown",
+        "text": "同じアルバムの曲。Mr. WaltとEvil Deeの共同制作で、本曲との担当の違いを比較できる。",
+        "source": "https://p-vine.jp/music/p7-6477",
+        "sourceLabel": "P-VINE — Wontime / Wrektime",
+        "sources": [
+          1,
+          2,
+          8
+        ]
+      },
+      {
+        "heading": "DIG：Sound Bwoy Bureill",
+        "text": "同じアルバムの別曲。共通するMCと制作陣を軸に、作品内を辿る入口。",
+        "source": "https://www.thegoodoldayz.com/album/dah-shinin/14381.html",
+        "sourceLabel": "The Good Ol’Dayz — Dah Shinin CD credits",
+        "sources": [
+          2,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "artist": "Brand Nubian",
+    "title": "Step Into da Cipher",
+    "sections": [
+      {
+        "heading": "DIG：Word Is Bond",
+        "text": "同じアルバムの冒頭曲で、こちらもLord Jamar制作。曲順に沿った接続。",
+        "source": "https://tommyboy-records.com/us/products/292360-everything-is-everything",
+        "sourceLabel": "Tommy Boy — Everything Is Everything",
+        "sources": [
+          0,
+          4
+        ]
+      },
+      {
+        "heading": "DIG：Alladat",
+        "text": "同じアルバムでBuckwildが制作した曲。制作担当の違いを比較する入口。",
+        "source": "https://tommyboy-records.com/us/products/292360-everything-is-everything",
+        "sourceLabel": "Tommy Boy — Everything Is Everything",
+        "sources": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "artist": "Redman",
+    "title": "A Day of Sooperman Lover",
+    "sections": [
+      {
+        "heading": "DIG：Jane II",
+        "text": "Sooperman Loverの着想源と報じられた「Jane」シリーズの一曲。物語の連作という接続。",
+        "source": "https://hiphopdx.com/news/redman-sooperman-lover-7-muddy-waters-2",
+        "sourceLabel": "HipHopDX: Redman interview and Sooperman Lover history",
+        "sources": [
+          2,
+          4
+        ]
+      },
+      {
+        "heading": "DIG：Tonight’s Da Night",
+        "text": "同じ1992年のデビュー作に収録。Redmanの表現をアルバムの中で比較する入口。",
+        "source": "https://www.youtube.com/watch?v=5MR9Ua-e5fY",
+        "sourceLabel": "UMG / Redman Topic: A Day Of Sooperman Lover",
+        "sources": [
+          0,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "artist": "Showbiz & A.G.",
+    "title": "Hold Ya Head",
+    "sections": [
+      {
+        "heading": "DIG：He Say, She Say",
+        "text": "『Runaway Slave』で本曲の次に置かれた曲。曲順に沿って辿れる。",
+        "source": "https://www.qobuz.com/us-en/album/runaway-slave-showbiz-ag/0060253799693",
+        "sourceLabel": "Qobuz — Runaway Slave",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "heading": "DIG：Soul Clap",
+        "text": "アルバムには「Soul Clap (Short Version)」を収録。ShowbizとDiamond Dの共同制作を辿る接続で、当サイトに掲載する同曲音源との版の一致は未確認。",
+        "source": "https://www.qobuz.com/us-en/album/runaway-slave-showbiz-ag/0060253799693",
+        "sourceLabel": "Qobuz — Runaway Slave",
+        "sources": [
+          1,
+          4
+        ]
+      }
+    ]
   }
 ]

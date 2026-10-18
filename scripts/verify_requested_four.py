@@ -10,7 +10,7 @@ expected={
  'kanye-west-through-the-wire':('Through The Wire','Kanye West',2003,'AE8y25CcE6s',1),
 }
 t=json.loads((R/'tracks.json').read_text());base=json.loads((R/'scripts/fixtures/renewal-preservation.json').read_text())['records']
-assert len(t)==len(base)+4 and {x['id'] for x in t}-set(base)==set(expected)
+assert len(t)>=len(base)+4 and set(expected)<={x['id'] for x in t}-set(base)
 by={x['id']:x for x in t}; art={x['id']:x for x in json.loads((R/'graffiti_artwork.json').read_text())['tracks']};d={(x['artist'],x['title']):x['sections'] for x in json.loads((R/'editorial_deepdives.json').read_text())}
 f=json.loads((R/'scripts/fixtures/requested-four.json').read_text())
 for id,(title,artist,year,video,count) in expected.items():
