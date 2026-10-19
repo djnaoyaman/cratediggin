@@ -20,7 +20,8 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
     deepdives = json.loads((root / 'editorial_deepdives.json').read_text(encoding='utf-8'))
     # Dates describe authored content, not image dimensions or other build projections.
     authored_tracks = json.loads((root / 'tracks.json').read_text(encoding='utf-8'))
-    revisions = revision_dates(root, authored_tracks, deepdives, features)
+    authored_features = json.loads((root / 'features.json').read_text(encoding='utf-8'))['features']
+    revisions = revision_dates(root, authored_tracks, deepdives, authored_features)
     entities = json.loads((root / 'artist_entities.json').read_text(encoding='utf-8'))
     assert {t['artist'] for t in tracks} <= entities.keys(), 'Add new artists to artist_entities.json'
     assert all(x['type'] in ('Person', 'MusicGroup', None) for x in entities.values())
@@ -187,9 +188,10 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         esc(n) + '</a></li>' for n in names) + '</ul>')
     def feature_card(f):
         v=f.get('visual');href=base_path+'/features/'+f['id']+'.html'
-        copy='<h3>'+esc(f['name'])+'</h3><p>'+esc(f['editorial']['title'])+'</p><span>年代順で聴く ↗</span>'
+        from feature_policy import qualification_label
+        copy='<h3>'+esc(f['name'])+'</h3><p>'+esc(f['editorial']['title'])+'</p><span>'+esc(qualification_label(f))+'</span>'
         if not v:
-            return '<a class="feature-card" href="'+href+'">'+copy+'</a>'
+            return '<a class="feature-card feature-card--text" data-feature-id="'+esc(f['id'])+'" href="'+href+'"><span class="eyebrow">PRODUCTION STORIES</span>'+copy+'<span>READ FEATURE ↗</span></a>'
         if v.get('nameOnly'):
             return '<article class="feature-poster"><a class="feature-card feature-card--portrait" href="'+href+'"><div class="feature-portrait feature-portrait--name"><span class="feature-paper-grain" aria-hidden="true"></span><span class="feature-tape" aria-hidden="true">'+('ARTIST FILE' if f['type']=='artist' else 'PRODUCER FILE')+'</span><img class="feature-name-tag" src="'+base_path+'/'+esc(v['tag'],quote=True)+'" alt="'+esc(v['alt'],quote=True)+'" loading="lazy"></div><div class="feature-poster-copy">'+copy+'</div></a></article>'
         return ('<article class="feature-poster"><a class="feature-card feature-card--portrait '+('feature-card--provided' if v.get('precomposed') else '')+'" href="'+href+'"><div class="feature-portrait '+('feature-portrait--provided ' if v.get('precomposed') else '')+('feature-portrait--contain' if v.get('fit')=='contain' else '')+'">'
@@ -197,12 +199,18 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
                 '<span class="feature-paper-grain" aria-hidden="true"></span><span class="feature-tape" aria-hidden="true">'+('ARTIST FILE' if f['type']=='artist' else 'PRODUCER FILE')+'</span>'
                 '<img class="feature-name-tag" src="'+base_path+'/'+esc(v['tag'],quote=True)+'" alt="" loading="eager"></div><div class="feature-poster-copy">'+copy+'</div></a>'+
                 ('<details class="feature-photo-credit" data-photo-provenance="user-provided"><summary>PHOTO / SOURCE</summary><p>'+esc(v['credit'])+'<br>'+esc(v['changes'])+'</p></details>' if v.get('provenance')=='user-provided' else '<details class="feature-photo-credit"><summary>PHOTO / LICENSE</summary><p>Photo: <a href="'+esc(v['source'],quote=True)+'">'+esc(v['author'])+'</a> · <a href="'+esc(v['licenseUrl'],quote=True)+'">'+esc(v['license'])+'</a><br>'+esc(v['changes'])+('<br>写真別出典: '+ ' · '.join('<a href="'+esc(c['source'],quote=True)+'">'+esc(c['label'])+'</a> (<a href="'+esc(c['licenseUrl'],quote=True)+'">license</a>)' for c in v['components']) if v.get('components') else '')+'</p></details>')+'</article>')
+    def feature_grid(kind):
+        active=[f for f in features if f['type']==kind and f['qualification']['tier']!='archive']
+        archive=[f for f in features if f['type']==kind and f['qualification']['tier']=='archive']
+        grid=lambda fs:'<div class="feature-grid feature-swipe" role="region" aria-label="特集カード一覧" tabindex="0">'+''.join(feature_card(f) for f in fs)+'</div>'
+        policy=json.loads((root/'features.json').read_text())['policy']
+        return '<p class="feature-policy">'+esc(policy)+'</p><p class="feature-swipe-hint">左右にスワイプして特集を探す →</p>'+grid(active)+('<section class="feature-archive"><h2>ARCHIVE</h2><p>掲載曲数にかかわらず、公開済みの特集を残しています。</p>'+grid(archive)+'</section>' if archive else '')
     add('#/artists', 'artists/', 'ARTISTS — アーティスト特集・一覧 / CRATEDIGGIN\'',
         'アーティスト特集と全掲載アーティストの楽曲一覧。',
-        '<h1>ARTISTS</h1><p><a href="'+base_path+'/producers/">PRODUCERS：プロデューサー特集へ ↗</a></p><p class="feature-swipe-hint">左右にスワイプして特集を探す →</p><div class="feature-grid feature-swipe" role="region" aria-label="特集カード一覧" tabindex="0">'+''.join(feature_card(f) for f in features if f['type']=='artist')+'</div><h2>ALL ARTISTS</h2><ul>'+''.join('<li><a href="'+base_path+'/artists/'+slugs[n]+'.html">'+esc(n)+'</a></li>' for n in names)+'</ul>')
+        '<h1>ARTISTS</h1><p><a href="'+base_path+'/producers/">PRODUCERS：プロデューサー特集へ ↗</a></p>'+feature_grid('artist')+'<h2>ALL ARTISTS</h2><ul>'+''.join('<li><a href="'+base_path+'/artists/'+slugs[n]+'.html">'+esc(n)+'</a></li>' for n in names)+'</ul>')
     add('#/producers', 'producers/', 'PRODUCERS — プロデューサー特集 / CRATEDIGGIN\'',
         'ビートと制作背景からたどるプロデューサー特集。',
-        '<h1>PRODUCERS</h1><p><a href="'+base_path+'/artists/">ARTISTS：アーティスト特集へ ↗</a></p><p class="feature-swipe-hint">左右にスワイプして特集を探す →</p><div class="feature-grid feature-swipe" role="region" aria-label="特集カード一覧" tabindex="0">'+''.join(feature_card(f) for f in features if f['type']=='producer')+'</div>')
+        '<h1>PRODUCERS</h1><p><a href="'+base_path+'/artists/">ARTISTS：アーティスト特集へ ↗</a></p>'+feature_grid('producer')+'')
     for g in guides:
         selected = [next(t for t in tracks if t['id'] == tid) for tid in g['ids']]
         add('#/guide/' + g['id'], 'guides/' + g['id'] + '.html', g['title'] + ' — CRATEDIGGIN\'', g['description'],

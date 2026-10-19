@@ -1,4 +1,5 @@
 from pathlib import Path
+from approved_premier_feature import historical_premier_file
 import hashlib,json
 from approved_browser_tools import FIXTURE as f,historical_browser_tools_file
 R=Path(__file__).resolve().parents[1];D=R/'dist';sha=lambda b:hashlib.sha256(b).hexdigest()
@@ -8,9 +9,9 @@ for path,c in f['files'].items():
  try:historical_browser_tools_file(path,data+b' ')
  except AssertionError:pass
  else:raise AssertionError('Unapproved mutation accepted: '+path)
-for path,h in f['protected'].items():assert sha((R/path).read_bytes())==h,path
+for path,h in f['protected'].items():assert sha(historical_premier_file(path,(R/path).read_bytes()))==h,path
 assert len(json.loads((R/'tracks.json').read_text()))==499
-assert json.loads((R/'releases.json').read_text())['version']=='21.10'
+assert json.loads((R/'releases.json').read_text())['version']=='21.11'
 s=(R/'src/app/renewal.js').read_text();assert '[300,360,450,570,720,900]' in s and "$('#shuffle-again').onclick=renewalDraw" in s
 assert 'window.external' not in s and 'navigator.share' not in s and 'serviceWorker.register' not in s
 if D.exists():
@@ -26,7 +27,7 @@ import copy,io
 from approved_browser_tools import historical_browser_tools_social
 a=f['blackSheepAsset'];asset=R/a['path'];assert sha(asset.read_bytes())==a['sha256']
 with Image.open(asset) as im:assert im.size==(1456,816) and sha(im.convert('RGBA').tobytes())==a['pixelSHA256']
-before=json.loads(f['files']['features.json']['before']);after=json.loads((R/'features.json').read_text());normalized=copy.deepcopy(after)
+before=json.loads(f['files']['features.json']['before']);after=json.loads(historical_premier_file('features.json',(R/'features.json').read_bytes()));normalized=copy.deepcopy(after)
 for item in normalized['features']:
  if item['id']=='black-sheep':
   previous=next(x for x in before['features'] if x['id']==item['id']);v=item['visual']
@@ -47,7 +48,7 @@ if D.exists():
  except AssertionError:pass
  else:raise AssertionError('Unexpected social image mutation accepted')
  pages=json.loads((D/'metadata.js').read_text().split('=',1)[1].rstrip(';\n'));meta=pages['#/feature/black-sheep']
- assert meta['image'].endswith('/'+rel+'?v=21.10')
+ assert meta['image'].endswith('/'+rel+'?v=21.11')
  assert meta['image'] in (D/'artists/black-sheep.html').read_text()
  assert 'image/jpeg' in (D/'artists/black-sheep.html').read_text()
  assert '/artists/black-sheep.html' in (D/'features/black-sheep.html').read_text()

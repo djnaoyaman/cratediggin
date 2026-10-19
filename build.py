@@ -18,12 +18,14 @@ assert len(deepdive_map)==len(deepdives), 'Duplicate deep-dive artist/title key'
 # Features use one editorial source for the client and crawlable pages.
 guides=json.loads((ROOT/'guides.json').read_text(encoding='utf-8'))
 feature_data=json.loads((ROOT/'features.json').read_text(encoding='utf-8'))
-features=feature_data['features']
+from feature_policy import qualify_features
+from feature_editorial import render_longform
+features=qualify_features(tracks,feature_data['features'])
 from frontend import build_frontend
 build_frontend(ROOT,DIST,features,feature_data['policy'],guides)
 def feature_tracks(f):
     return select_feature_tracks(tracks,f)
-features=[f for f in features if len(feature_tracks(f))>=3 and f.get('editorial')]
+features=[f for f in features if f.get('editorial')]
 assert len({a for f in features for a in f.get('aliases',[])})==sum(len(f.get('aliases',[])) for f in features),'Duplicate alias across features'
 
 assert all(all(any(t['id']==tid for t in tracks) for tid in g['ids']) for g in guides),'Guide references missing track'
@@ -207,9 +209,12 @@ for stale in feature_dir.glob('*.html'):
 for f in features:
     e=f['editorial'];esc=html.escape;selected=feature_tracks(f)
     body='<h1>'+esc(f['name'])+'</h1><p>'+esc(feature_data['policy'])+'</p><p>'+esc(f.get('identityNote',''))+'</p><article class="prose"><h2>'+esc(e['title'])+'</h2>'
-    for title,key in [('音楽性と背景','context'),('後世に残したもの','legacy'),('私の聴き方','listening'),('作品と系譜をたどる','connections')]:
-        body+='<h3>'+title+'</h3><p>'+esc(e[key])+'</p>'
-    body+='<p>影響の評価と聴き方はDJ Naoyamanの考察です。</p><h3>参考資料</h3><ul>'+''.join('<li><a href="'+esc(r['url'],quote=True)+'">'+esc(r['label'])+'</a></li>' for r in e['sources'])+'</ul></article>'
+    if e.get('format')=='source-led-v1':
+        body='<h1>'+esc(f['name'])+'</h1><p>'+esc(feature_data['policy'])+'</p><p>'+esc(f.get('identityNote',''))+'</p>'+render_longform(e,BASE_PATH)
+    else:
+        for title,key in [('音楽性と背景','context'),('後世に残したもの','legacy'),('私の聴き方','listening'),('作品と系譜をたどる','connections')]:
+            body+='<h3>'+title+'</h3><p>'+esc(e[key])+'</p>'
+        body+='<p>影響の評価と聴き方はDJ Naoyamanの考察です。</p><h3>参考資料</h3><ul>'+''.join('<li><a href="'+esc(r['url'],quote=True)+'">'+esc(r['label'])+'</a></li>' for r in e['sources'])+'</ul></article>'
     if f.get('personalFeature'):
         p=f['personalFeature']
         refs=lambda xs:'<ul>'+''.join('<li><a href="'+esc(BASE_PATH+'/tracks/'+x['trackId']+'.html' if x.get('trackId') else x['url'],quote=True)+'"'+('' if x.get('trackId') else ' target="_blank" rel="noopener noreferrer"')+'>'+esc(x['label'])+(' ▶' if x.get('trackId') else ' ↗')+'</a></li>' for x in xs)+'</ul>'

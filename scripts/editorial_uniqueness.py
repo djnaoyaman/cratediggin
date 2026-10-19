@@ -25,8 +25,16 @@ def authored(root):
    put(owner,f'deep.{i}.heading',s.get('heading',''),ent,'headline');put(owner,f'deep.{i}.text',s.get('text',''),ent)
  for x in json.loads((root/'features.json').read_text())['features']:
   ent=x.get('names',[x.get('name','')]);owner='feature:'+x['id']
-  for k,v in x.get('editorial',{}).items():
-   if isinstance(v,str):put(owner,'editorial.'+k,v,ent,'headline' if k=='title' else 'body')
+  e=x.get('editorial',{})
+  if e.get('format')=='source-led-v1':
+   put(owner,'editorial.title',e['title'],ent,'headline');put(owner,'editorial.deck',e['deck'],ent,'deck')
+   for i,p in enumerate(e['introduction']):put(owner,f'editorial.introduction.{i}',p,ent)
+   for i,section in enumerate(e['sections']):
+    put(owner,f'editorial.sections.{i}.heading',section['heading'],ent,'headline')
+    for j,p in enumerate(section['paragraphs']):put(owner,f'editorial.sections.{i}.paragraphs.{j}',p,ent)
+  else:
+   for k,v in e.items():
+    if isinstance(v,str):put(owner,'editorial.'+k,v,ent,'headline' if k=='title' else 'body')
   p=x.get('personalFeature',{})
   for i,s in enumerate(p.get('paragraphs',[])):put(owner,f'personal.{i}',s,ent)
  return out

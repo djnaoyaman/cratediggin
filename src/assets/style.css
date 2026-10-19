@@ -397,3 +397,13 @@ body[data-art-mode=video] .art-signature{display:none}
 #view .record-row>.record-card{border:0}
 #back-to-top.back-to-top-inline{position:static;display:block;width:max-content;max-width:100%;margin:20px 0 20px auto;box-shadow:none;border:0;background:var(--off);min-height:44px}
 #back-to-top.back-to-top-inline[hidden],body[data-art-owner] #back-to-top.back-to-top-inline{display:none}
+/* Source-led text features remain honest typography, without placeholder portraits. */
+.feature-card--text{display:flex;flex-direction:column;justify-content:center;gap:16px;min-height:240px;padding:24px;align-self:start;background:transparent;border:1px solid var(--ink);overflow-wrap:anywhere}
+.feature-card--text h3{font-size:clamp(28px,4vw,48px);line-height:1.05}
+.feature-card--text p{line-height:1.6}
+.feature-card--text:focus-visible{outline:3px solid #4169e1;outline-offset:4px}
+.feature-policy{max-width:76ch;line-height:1.8;margin:20px 0 28px}
+.feature-archive{margin-top:36px}
+.feature-editorial--source-led{max-width:76ch}
+.feature-editorial--source-led section{margin-block:32px}
+.feature-editorial--source-led .essay-references{font-size:13px;line-height:1.7;overflow-wrap:anywhere}

@@ -6,7 +6,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict');
   await context.route('https://www.youtube.com/iframe_api',r=>r.abort());await context.route('https://www.googletagmanager.com/**',r=>r.abort());
   const page=await context.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));
   for(const [path,count] of [['artists',10],['producers',5]]){
-   await page.goto('http://127.0.0.1:8765/cratediggin/'+path+'/');const rail=page.locator('.feature-swipe');await rail.waitFor();assert.equal(await rail.locator('.feature-poster').count(),count);assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
+   await page.goto('http://127.0.0.1:8765/cratediggin/'+path+'/');const rail=page.locator('.feature-swipe').first();await rail.waitFor();assert.equal(await page.locator('.feature-poster').count(),count);assert.equal(await rail.locator('.feature-poster').count(),path==='artists'?9:5);assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
    const box=await rail.boundingBox();const cards=rail.locator('.feature-poster');const first=await cards.nth(0).boundingBox(),second=await cards.nth(1).boundingBox();
    if(width<=640){assert(second.x<box.x+box.width-4,'Next card should peek');assert(second.x>first.x+first.width,'Separate columns');assert.equal(await rail.evaluate(e=>getComputedStyle(e).overflowX),'auto');assert(await page.locator('.feature-swipe-hint').isVisible());
     await rail.scrollIntoViewIfNeeded();const b=await rail.boundingBox();const cdp=await context.newCDPSession(page),y=Math.min(b.y+180,700),x=b.x+b.width*.8;
