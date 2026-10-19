@@ -17,3 +17,20 @@
  const backToTop=$('#back-to-top');let renewalScrollFrame=0;
  function refreshBackToTop(){renewalScrollFrame=0;if(backToTop){const b={left:innerWidth-140,right:innerWidth,top:innerHeight-100,bottom:innerHeight},overlap=[...document.querySelectorAll('iframe')].some(f=>{const r=f.getBoundingClientRect();return r.width>0&&r.height>0&&r.right>b.left&&r.left<b.right&&r.bottom>b.top&&r.top<b.bottom});backToTop.hidden=scrollY<Math.max(600,innerHeight)||!art.hidden||overlap;}}
  if(backToTop){backToTop.onclick=()=>{const target=$('.brand');target?.focus({preventScroll:true});window.scrollTo({top:0,behavior:renewalScrollBehavior()})};addEventListener('scroll',()=>{if(!renewalScrollFrame)renewalScrollFrame=requestAnimationFrame(refreshBackToTop)},{passive:true});addEventListener('resize',refreshBackToTop);refreshBackToTop();}
+
+ // Installation stays a user-owned browser action; no service worker or permissions are registered.
+ const homeInstallOpen=$('#home-install-open'),homeInstallDialog=$('#home-install-dialog');
+ if(homeInstallOpen&&homeInstallDialog&&typeof homeInstallDialog.showModal==='function'){
+  let installPrompt=null,installBusy=false,confirmedInstalled=false;
+  const installNative=$('#home-install-native'),installState=$('#home-install-state'),installClose=$('#home-install-close');
+  const installed=()=>confirmedInstalled||matchMedia('(display-mode: standalone)').matches||navigator.standalone===true;
+  const refreshInstall=()=>{homeInstallOpen.hidden=installed();installNative.hidden=!installPrompt||installed();installNative.disabled=installBusy;installState.textContent=installed()?'現在、ホーム画面から起動しています。':'';};
+  refreshInstall();
+  addEventListener('beforeinstallprompt',e=>{e.preventDefault();installPrompt=e;refreshInstall()});
+  addEventListener('appinstalled',()=>{confirmedInstalled=true;installPrompt=null;refreshInstall();installState.textContent='ブラウザから追加完了が通知されました。'});
+  homeInstallOpen.onclick=()=>{refreshInstall();if(!homeInstallDialog.open)homeInstallDialog.showModal();installClose.focus()};
+  installClose.onclick=()=>homeInstallDialog.close();
+  homeInstallDialog.addEventListener('keydown',e=>{if(e.key!=='Tab')return;const items=[...homeInstallDialog.querySelectorAll('button,a[href],input,select,textarea,[tabindex]')].filter(x=>!x.hidden&&!x.disabled&&x.tabIndex>=0&&x.getClientRects().length);const first=items[0],last=items[items.length-1];if(!first){e.preventDefault();return}if(e.shiftKey&&(document.activeElement===first||!homeInstallDialog.contains(document.activeElement))){e.preventDefault();last.focus()}else if(!e.shiftKey&&(document.activeElement===last||!homeInstallDialog.contains(document.activeElement))){e.preventDefault();first.focus()}});
+  homeInstallDialog.addEventListener('close',()=>{if(homeInstallOpen.isConnected)homeInstallOpen.focus({preventScroll:true})});
+  installNative.onclick=async()=>{if(!installPrompt||installBusy)return;const prompt=installPrompt;installPrompt=null;installBusy=true;refreshInstall();try{await prompt.prompt();const choice=await prompt.userChoice;installState.textContent=choice?.outcome==='accepted'?'追加リクエストを送信しました。完了はブラウザで確認してください。':'追加をキャンセルしました。';}catch{installState.textContent='この環境では追加画面を開けませんでした。下の手順をご確認ください。';}finally{installBusy=false;installNative.disabled=false;installNative.hidden=true;}};
+ }

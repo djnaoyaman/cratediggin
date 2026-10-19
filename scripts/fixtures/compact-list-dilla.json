@@ -1,0 +1,684 @@
+{
+  "base": "be4d2d28ee18c1362eb0b58d6c9624a47c22a996",
+  "protected": {
+    "tracks.json": "a5f9871ecdc9deead34b1dc7e7bc5cafd9cc50d61d6ebe08c5d89cc7e7dae506",
+    "editorial_deepdives.json": "f7306d81a18a62b047a4bf8f03fdb4b0252939baed9ec10cfd2512d0105d6156",
+    "graffiti_artwork.json": "bdb5d975053d954e36e58fe087b1212e76a4ab9952e0be245800fc125595073c",
+    "artist_entities.json": "542290cca4fa06d6b8122b8e00a96911a18d4b4b2ece19fdd7c7ab17b7c653cf",
+    "editor_profile.json": "d804c5cc45593e125fc1993751feafd6bd1b823fa7ed20f8cb3301c4ca6a4815",
+    "guides.json": "4577ae94470e8dec95a99868919c560cbdba95be988ddf7497216b9abb44f6d8",
+    "listening_shelves.json": "10e04eeb5990f4caf3780667ca7c774561c698d1d7aceedbeae72ac165aea4cb"
+  },
+  "featuresBefore": {
+    "policy": "後世の音楽や表現に大きな影響を残したと考えるアーティストのうち、このサイトで3曲以上を紹介できる人・グループを特集します。音楽性と影響はDJ Naoyamanの視点で選び、曲数だけでは決めていません。プロデューサー特集は、本人名義と掲載済み制作クレジットに基づく関連曲を数えます。 同一人物・同一グループと資料で確認できる別名義は、ひとつの特集にまとめます。共同プロジェクトや所属グループは、本人の別名義とは区別します。",
+    "features": [
+      {
+        "id": "beastie-boys",
+        "name": "Beastie Boys",
+        "type": "artist",
+        "names": [
+          "Beastie Boys"
+        ],
+        "allYears": true,
+        "note": "指定の9曲を収録。90年代を中心に、1986・1989年の前史と2004年の展開、41 Small Stars Remixを年代順にたどります。",
+        "editorial": {
+          "title": "遊びを、音楽の方法にする。",
+          "context": "ハードコアからラップへ進み、多層的なサンプリングと生演奏を行き来したグループ。ひとつの奏法に自分たちを固定しなかった歩みが、音楽性そのものになっている。",
+          "legacy": "私が彼らの大きさを感じるのは、ジャンルを越えることを特別な儀式にしなかった点だ。レコードを切ることも、楽器を鳴らすことも、同じ好奇心でつながる。後に続く作り手に、好きなものを一緒に持ち込める余地を残したと思う。",
+          "listening": "Shadrachの音の重なりから、生演奏の手触りが前に出る曲へ。器用さより、面白がり方の一貫性を聴きたい。遊びは、長く続けると思想になる。",
+          "sources": [
+            {
+              "label": "Rock & Roll Hall of Fame — Beastie Boys",
+              "url": "https://rockhall.com/inductees/beastie-boys/"
+            }
+          ],
+          "connections": "Shadrachのサンプリングと、生演奏を取り入れた時期の作品を同じ棚に置くと、ジャンルを横断する歩みを具体的にたどれる。ここでは似た後続作品を推定するより、作り方が変わっても残る好奇心を聴きたい。"
+        },
+        "aliases": [],
+        "visual": {
+          "photo": "feature-beastie-boys-photo.webp",
+          "tag": "feature-beastie-boys-tag.webp",
+          "alt": "Beastie Boysの実写写真。撮影 Masao Nakagami。",
+          "author": "Masao Nakagami",
+          "source": "https://commons.wikimedia.org/wiki/File:Beastie-boys.jpg",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 2.0 を適用。",
+          "focus": "60% 50%",
+          "fit": "contain"
+        }
+      },
+      {
+        "id": "main-source",
+        "name": "Main Source",
+        "type": "artist",
+        "names": [
+          "Main Source"
+        ],
+        "allYears": true,
+        "note": "掲載済みの6曲を年代順に収録。HellavisionはFuck What You Think収録版。制作時期と発売年を区別して掲載。",
+        "editorial": {
+          "title": "原石を見つける耳。",
+          "context": "Breaking Atomsを生んだMain Source。Large Professorの制作と、Live at the BarbequeでのNasの登場は、後のIllmaticにつながる重要な接点になった。",
+          "legacy": "私には、彼らの功績が二重に見える。レコードの中から音の可能性を見つけ、人の中からまだ知られていない声を見つけた。音を掘ることと才能を見つけることが、同じ耳の仕事だったのだと思う。",
+          "listening": "Looking at the Front Doorでは、短く巡る音が、声の置き方によって違う表情を持つ。派手な展開を待つより、同じ輪の中で何が変わるかを聴く。その習慣が、次のレコードの面白さも変えてくれる。",
+          "sources": [
+            {
+              "label": "Red Bull Music Academy — Large Professor本人インタビュー",
+              "url": "https://daily.redbullmusicacademy.com/2015/02/large-professor-interview/"
+            }
+          ],
+          "connections": "Live at the BarbequeへのNasの参加と、その後のIllmaticでのLarge Professorとの制作は、作品をまたぐ具体的な接点だ。後の展開を知って聴き直すと、一曲の中に次の時代の入口が見えてくる。"
+        },
+        "aliases": [],
+        "visual": {
+          "nameOnly": true,
+          "tag": "feature-main-source-tag.webp",
+          "alt": "Main Sourceの名前を描いたグラフィティ"
+        }
+      },
+      {
+        "id": "black-sheep",
+        "name": "Black Sheep",
+        "type": "artist",
+        "names": [
+          "Black Sheep"
+        ],
+        "allYears": true,
+        "note": "指定の6曲とThe Choice Is Yours (Revisited)を収録。Splash (Intro)は2010年の作品として掲載。Flavor of the Monthはオリジナル、Strobelite HoneyはNo We Didn’t Mixを選曲。",
+        "editorial": {
+          "title": "軽やかさにも、骨がある。",
+          "context": "DresとMista LawngeによるBlack SheepはNative Tonguesの輪に加わり、The Choice Is YoursやFlavor of the Monthを送り出した。Dresは取材で、そのつながりと自分たちの歩みを語っている。",
+          "legacy": "私が残したいのは、軽快さと鋭さが同居できるという彼らの答えだ。踊れること、笑えること、言葉が立っていること。その全部が一曲の中で成立する。後世への影響も、誰が似せたかだけでなく、この自由の広がりとして捉えたい。",
+          "listening": "The Choice Is Yoursの声の掛け合いと、Strobelite Honeyのしなやかな足取りを並べる。肩の力は抜けているのに、リズムの輪郭は鮮明だ。気楽に聴ける音ほど、作りは案外したたかである。",
+          "sources": [
+            {
+              "label": "POW — Dres本人への30周年インタビュー",
+              "url": "https://www.powmag.net/p/a-wolf-in-sheeps-clothing-black-sheep-30-anniversary-album-interview"
+            }
+          ],
+          "connections": "The Choice Is Yours (Revisited)の掛け合いとStrobelite Honeyの動きを並べる。Native Tonguesのつながりの中でも、Black Sheep独自の軽さと押しの強さが見えてくる。"
+        },
+        "aliases": [],
+        "visual": {
+          "nameOnly": true,
+          "tag": "feature-black-sheep-tag.webp",
+          "alt": "Black Sheepの名前を描いたグラフィティ"
+        }
+      },
+      {
+        "id": "tribe",
+        "name": "A Tribe Called Quest",
+        "type": "artist",
+        "names": [
+          "A Tribe Called Quest"
+        ],
+        "allYears": true,
+        "editorial": {
+          "title": "知性が、身体を動かす。",
+          "context": "A Tribe Called Questはジャズやソウルのサンプルと、遊び心のあるラップを組み合わせた。Rock Hallの紹介も、その音楽性とHip Hopにおける存在を位置づけている。",
+          "legacy": "私にとって彼らは、知的であることと身体が動くことを、同じ場所へ連れてきたグループだ。難しい顔をしなくても、音楽は深くなれる。その感覚が、ジャズとHip Hopの関係を考えるときの大切な基準になっている。",
+          "listening": "ベースを追い、次にキック、そしてQ-TipとPhifeの声へ。どこから入っても、別の入口が見つかる。余白があるから、聴き手も会話に参加できるのだと思う。",
+          "sources": [
+            {
+              "label": "Rock & Roll Hall of Fame — A Tribe Called Quest",
+              "url": "https://rockhall.com/inductees/a-tribe-called-quest/"
+            },
+            {
+              "label": "Red Bull Music Academy — Q-Tip本人の講義",
+              "url": "https://www.redbullmusicacademy.com/lectures/q-tip/"
+            },
+            {
+              "label": "Red Bull Music Academy — Erykah Badu本人の講義",
+              "url": "https://www.redbullmusicacademy.com/lectures/erykah-badu-frother-of-the-month/"
+            }
+          ],
+          "connections": "Erykah Baduは講義で、Tribeの録音を担当したBob Powerの耳を、自身の制作で起用した理由として語っている。作品の影響は、似たビートを作ることだけでなく、誰と録音するかという選択にも現れる。"
+        },
+        "aliases": [],
+        "productionNames": [
+          "A Tribe Called Quest",
+          "Q-Tip",
+          "The Ummah"
+        ],
+        "identityNote": "A Tribe Called Questの作品と、Q-Tip / The Ummah名義の制作参加曲を同じ入口でたどります。グループ・個人・制作チームは同一名義として扱わず、区分して表示します。",
+        "visual": {
+          "photo": "feature-tribe-photo.webp",
+          "tag": "feature-tribe-tag.webp",
+          "alt": "A Tribe Called Questの実写写真。撮影 Mikael 'Mika' Väisänen (Q-Tip and Phife Dawg); Girlfierce Photography (Ali Shaheed Muhammad); WRBB 104.9 FM (Jarobi White); montage uploaded by RTSthestardust。",
+          "author": "Mikael 'Mika' Väisänen (Q-Tip and Phife Dawg); Girlfierce Photography (Ali Shaheed Muhammad); WRBB 104.9 FM (Jarobi White); montage uploaded by RTSthestardust",
+          "source": "https://commons.wikimedia.org/wiki/File:A_Tribe_Called_Quest_montage.png",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 4.0 (montage; see component credits) を適用。 実写写真を組み合わせたモンタージュ。",
+          "focus": "50% 50%",
+          "fit": "contain",
+          "components": [
+            {
+              "label": "Q-Tip",
+              "source": "https://commons.wikimedia.org/wiki/File:Q_tip-03.jpg",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            {
+              "label": "Ali Shaheed Muhammad",
+              "source": "https://commons.wikimedia.org/wiki/File:Ali_Shaheed_Muhammad_2008.jpg",
+              "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+            },
+            {
+              "label": "Phife Dawg",
+              "source": "https://commons.wikimedia.org/wiki/File:Phife_Dawg-mika.jpg",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+            },
+            {
+              "label": "Jarobi White",
+              "source": "https://commons.wikimedia.org/wiki/File:Jarobi_White.jpg",
+              "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gang-starr",
+        "name": "Gang Starr",
+        "type": "artist",
+        "names": [
+          "Gang Starr"
+        ],
+        "allYears": true,
+        "note": "Guruの声とPremierの手つき。1989年のDJトラックから2002年のBattleまで、アルバムの外に残る曲もたどる。",
+        "editorial": {
+          "title": "少ない音で、街が立ち上がる。",
+          "context": "GuruのラップとDJ Premierのビートが軸になるGang Starr。Mass Appealの制作取材では、短い音の反復を曲へ仕立てるPremierの仕事が、本人の証言からたどれる。",
+          "legacy": "彼らが残したものを、私は「何を足すかより、何を残すか」という美意識として聴いている。声とループとスクラッチ。その関係を磨くだけで、街の輪郭まで見えてくる。ブーンバップの強さを考えるとき、何度でも戻る場所だ。",
+          "listening": "Guruの声は、ビートを押しのけず、同じ重さでそこにいる。Mass Appealから別のテンポの曲へ移っても、その均衡を確かめたい。聴き慣れたはずの一周が、ふいに新しく聞こえる。",
+          "sources": [
+            {
+              "label": "POW / David Ma — Mass Appeal制作当事者取材",
+              "url": "https://www.powmag.net/p/the-making-of-gang-starrs-mass-appeal"
+            }
+          ],
+          "connections": "この棚ではDJ Premierの制作をNasやJeru the Damajaの曲でもたどれる。Guruとの組み合わせを出発点にすると、声が替わったときのビートの役割を聴き分けやすい。"
+        },
+        "aliases": [],
+        "visual": {
+          "photo": "feature-gang-starr-photo.webp",
+          "tag": "feature-gang-starr-tag.webp",
+          "alt": "Gang Starrの実写写真。撮影 Alan Mildor and Barbara Mürdter; composite by Karppinen。",
+          "author": "Alan Mildor and Barbara Mürdter; composite by Karppinen",
+          "source": "https://commons.wikimedia.org/wiki/File:DJ_Premier_and_Guru.jpg",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。 実写写真を組み合わせたモンタージュ。",
+          "focus": "50% 15%",
+          "fit": "contain"
+        }
+      },
+      {
+        "id": "public-enemy",
+        "name": "Public Enemy",
+        "type": "artist",
+        "names": [
+          "Public Enemy"
+        ],
+        "allYears": true,
+        "editorial": {
+          "title": "音の密度が、言葉の切実さになる。",
+          "context": "Chuck DとFlavor Flavの声、Bomb Squadの制作で知られるPublic Enemy。Rock Hallはその音楽と政治的なメッセージの革新性を紹介している。",
+          "legacy": "私が彼らの大きさを感じるのは、主張がサウンドの形にまで及んでいることだ。重なる声や切迫した音が、言葉だけでは届かない緊張を生む。何を言うかと、どんな音で言うか。その二つを一緒に問う姿勢を、後世に残したと思う。",
+          "listening": "原曲とPete RockによるShut Em Downのリミックスを行き来する。同じ声が別の風景を持つとき、制作の思想まで聞こえてくる。メッセージを読むだけでなく、その身体を成す音も聴きたい。",
+          "sources": [
+            {
+              "label": "Rock & Roll Hall of Fame — Public Enemy",
+              "url": "https://rockhall.com/inductees/public-enemy/"
+            }
+          ],
+          "connections": "Shut Em Downの原曲とPete Rockのリミックスは、同じ言葉が別の音の文脈へ移る具体例だ。Public Enemyの声と制作を分けて聴くと、メッセージと音の密度の関係を考えやすい。"
+        },
+        "aliases": [],
+        "visual": {
+          "photo": "feature-public-enemy-photo.webp",
+          "tag": "feature-public-enemy-tag.webp",
+          "alt": "Public Enemyの実写写真。撮影 kowarski。",
+          "author": "kowarski",
+          "source": "https://commons.wikimedia.org/wiki/File:Chuck_D_and_Flavor_Flav_of_Public_Enemy.jpg",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。",
+          "focus": "50% 25%",
+          "fit": "contain"
+        }
+      },
+      {
+        "id": "nas",
+        "name": "Nas",
+        "type": "artist",
+        "names": [
+          "Nas"
+        ],
+        "allYears": true,
+        "editorial": {
+          "title": "風景を、言葉の中へ。",
+          "context": "NasはMain Sourceの作品への参加を経てIllmaticを発表した。本人のインタビューでは、Large Professorとの関係や初期の制作を、自身の言葉で振り返っている。",
+          "legacy": "私がNasに感じるのは、街を説明するだけでは終わらない描写の力だ。細部の選び方と視点の移動によって、聴く側の頭に風景が生まれる。ラップで何を語るかと、どう見せるかを一緒に考える基準を残したと思う。",
+          "listening": "The World Is Yoursの開けた感触と、ほかの収録曲の声の距離を聴き比べる。ビートが替わると、同じ声の照明も替わる。言葉だけでなく、言葉の周囲にどんな空気があるかまで聴きたい。",
+          "sources": [
+            {
+              "label": "XXL — Nas本人インタビュー The Genesis",
+              "url": "https://www.xxlmag.com/feature-nas-the-genesis/"
+            }
+          ],
+          "connections": "The World Is YoursのPete Rockと、N.Y. State of MindやRepresentのDJ Premier。同じMCの言葉を異なる制作の耳が受け止める構成を、収録曲からたどれる。"
+        },
+        "aliases": [],
+        "visual": {
+          "photo": "feature-nas-photo.webp",
+          "tag": "feature-nas-tag.webp",
+          "alt": "Nasの実写写真。撮影 Mikael 'Mika' Väisänen / Mikamote。",
+          "author": "Mikael 'Mika' Väisänen / Mikamote",
+          "source": "https://commons.wikimedia.org/wiki/File:Nas-04.jpg",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 3.0 を適用。",
+          "focus": "50% 20%",
+          "fit": "cover"
+        }
+      },
+      {
+        "id": "az",
+        "name": "AZ",
+        "type": "artist",
+        "names": [
+          "AZ"
+        ],
+        "allYears": true,
+        "editorial": {
+          "title": "滑らかさは、技術の表情。",
+          "context": "AZはNasとの共演とDoe or Dieで知られるMC。本人への取材では、フロウを形づくった音楽や、Nas、Pete Rockらとの関係が語られている。",
+          "legacy": "私がAZをここに置くのは、フロウの精度を聴くための重要な基準だからだ。韻の細かさをこれみよがしにせず、文章の流れに溶かしてしまう。その滑らかさの中に、後のMCを聴くときにも役立つ技術の物差しがあると思う。",
+          "listening": "Sugar Hillでは、耳当たりのよいトラックの上で、声がどこまで細かく動いているかを追う。一度は曲に身を任せ、次は語尾を聴く。同じ曲で二度、違う楽しみ方ができる。",
+          "sources": [
+            {
+              "label": "Ambrosia For Heads — AZ本人インタビュー",
+              "url": "https://ambrosiaforheads.com/2026/03/az-on-doe-or-die-ii-the-ghost-of-illmatic-and-the-science-of-his-flow/"
+            }
+          ],
+          "connections": "Sugar HillからNasとの共演へ。同じ声が甘いトラックと別のMCの隣でどう振る舞うかを、掲載曲から聴き比べられる。影響力の大きさと売上の大きさを同じ尺度で測らないための特集でもある。"
+        },
+        "aliases": [],
+        "visual": {
+          "photo": "feature-az-photo.webp",
+          "tag": "feature-az-tag.webp",
+          "alt": "AZの実写写真。撮影 Mikael 'Mika' Väisänen / Mika-photography。",
+          "author": "Mikael 'Mika' Väisänen / Mika-photography",
+          "source": "https://commons.wikimedia.org/wiki/File:Az-03.jpg",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 3.0 を適用。",
+          "focus": "50% 20%",
+          "fit": "cover"
+        }
+      },
+      {
+        "id": "dj-shadow",
+        "name": "DJ Shadow",
+        "type": "producer",
+        "names": [
+          "DJ Shadow"
+        ],
+        "allYears": true,
+        "note": "In/FluxからAction Adventureまで。ソロ作品、UNKLE、共演曲、The Number Songの2バージョンを、制作の軸でたどる。",
+        "editorial": {
+          "title": "レコードの記憶で、映画をつくる。",
+          "context": "DJ ShadowはEndtroducing.....で知られるプロデューサー。本人が制作を解説するSong Exploderでは、音の断片を組み合わせ、ひとつの曲へ育てる過程を具体的にたどれる。",
+          "legacy": "私は彼の音楽を聴くと、サンプリングを編集の思想として考えたくなる。別々の場所にあった音が出会い、元のレコードにはなかった感情が生まれる。声のいない音楽にも物語が宿る。その可能性を広く感じさせた作り手だと思う。",
+          "listening": "Midnight in a Perfect Worldの奥行きと、The Number Songの切り替えを行き来する。静けさと運動は、同じ耳から生まれている。元ネタの数を数えたあとに、もう一度、一曲として聴きたい。",
+          "sources": [
+            {
+              "label": "Song Exploder — DJ Shadow本人による制作解説",
+              "url": "https://songexploder.net/transcripts/dj-shadow-transcript.pdf"
+            }
+          ],
+          "connections": "Organ Donorの音の切り替えとMidnight in a Perfect Worldの奥行き。後続の作り手を一括りにする前に、同じ制作の耳が生む違いを聴く。元ネタは各曲の資料からたどれる。"
+        },
+        "aliases": [],
+        "identityNote": "UNKLEはDJ Shadowひとりの別名義ではなく共同プロジェクトです。本人名義の作品と、制作参加作品を区別してたどります。",
+        "visual": {
+          "photo": "feature-dj-shadow-photo.jpg",
+          "tag": "feature-dj-shadow-tag.webp",
+          "alt": "DJ Shadow、2006年のDJプレイ写真。撮影 Scott Sandars。",
+          "author": "Scott Sandars",
+          "source": "https://commons.wikimedia.org/wiki/File:DJ_Shadow_(cropped).jpg",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "changes": "表示時のトリミング・配置。写真の人物・顔は生成・再描画していません。",
+          "focus": "50% 35%"
+        },
+        "noteArticle": {
+          "title": "DJ Shadow【第1話】イントロの次に、その男はいた",
+          "url": "https://note.com/djnaoyaman/n/n5a9aa27897f4",
+          "introduction": "DJ KIYOのミックステープ『PRIMITIVISM』。イントロの次に流れてきたDJ Shadowから、当時夢中になっていた音楽の記憶をたどります。"
+        },
+        "personalFeature": {
+          "title": "DJ Shadow、Cut Chemist、DJ KIYO。私のDJingを深くした音楽",
+          "byline": "文・写真提供：DJ Naoyaman",
+          "paragraphs": [
+            "DJ Shadowは、私にとって最重要のアーティストだ。",
+            "『Brainfreeze』と『Product Placement』は、私のサンプリングとDJingへの興味を大きく深めた。DJ ShadowとCut Chemist。DJとしての私を特別たらしめたのは、間違いなくこのコンビと、作品を通して彼らへ積極的に愛を送っていたDJ KIYOである。",
+            "この二人のライブにも足を運んだ。BrainfreezeとProduct Placementは、私にとってDJとしてのあり方を考えるうえで欠かせない作品だ。",
+            "『Endtroducing.....』の30周年ライブのためにロサンゼルスまで飛び、本人にも会った。ここに載せたのは、その旅で残した会場とライブの写真だ。"
+          ],
+          "references": [
+            {
+              "label": "FReeZeをアートと再生",
+              "url": "https://youtu.be/gu9Gz5asQe4",
+              "trackId": "dj-shadow-cut-chemist-freeze-live-video"
+            },
+            {
+              "label": "Product Placementのライブ映像をアートと再生",
+              "url": "https://youtu.be/gdZ5cHYrcLU",
+              "trackId": "dj-shadow-cut-chemist-product-placement-live-video"
+            }
+          ],
+          "photos": [
+            {
+              "image": "dj-shadow-novo-2026-photo-2.jpg",
+              "width": 1536,
+              "height": 1152,
+              "alt": "DJ SHADOWの表示があるThe Novoのガラス張りの入口",
+              "caption": "ロサンゼルス、The Novoの入口。写真提供：DJ Naoyaman"
+            },
+            {
+              "image": "dj-shadow-novo-2026-photo-3.jpg",
+              "width": 1536,
+              "height": 1152,
+              "alt": "DJ SHADOW、30 YEARS OF ENDTRODUCING、FRIDAY SEPT 25THと表示されたスクリーン",
+              "caption": "『Endtroducing.....』30周年公演の会場内告知。写真提供：DJ Naoyaman"
+            },
+            {
+              "image": "dj-shadow-novo-2026-photo-1.jpg",
+              "width": 1536,
+              "height": 1152,
+              "alt": "空を映した大きなスクリーンとDJブースのあるステージ",
+              "caption": "The Novo公演のステージ。写真提供：DJ Naoyaman"
+            },
+            {
+              "image": "dj-shadow-novo-2026-photo-4.jpg",
+              "width": 1536,
+              "height": 1152,
+              "alt": "青い照明の会場とステージ前に集まった観客",
+              "caption": "会場のフロアの様子。写真提供：DJ Naoyaman"
+            }
+          ],
+          "eventNote": "公演情報：2026年9月25日、The Novo（Los Angeles）。",
+          "eventSources": [
+            {
+              "label": "AXS／Goldenvoice公式公演情報",
+              "url": "https://www.axs.com/events/1425516/dj-shadow-30-years-of-endtroducing-tickets/promos/1132239"
+            },
+            {
+              "label": "DJ Shadow公式：2026年秋ツアー発表",
+              "url": "https://djshadow.com/blogs/news/fall-2026-north-america-endtroduicng-30-tour-presale"
+            }
+          ]
+        }
+      },
+      {
+        "id": "j-dilla",
+        "name": "J Dilla / Jay Dee",
+        "type": "producer",
+        "names": [
+          "J Dilla",
+          "Jay Dee",
+          "The Ummah"
+        ],
+        "allYears": true,
+        "note": "Slum Village、Donuts、外部制作曲を年代順に。The Ummah名義の制作はチームクレジットとして扱い、Got ’Til It’s GoneはJay Deeのリミックス版を収録。",
+        "editorial": {
+          "title": "時間に、人の体温を残す。",
+          "context": "J DillaはJay Dee名義でも活動し、Slum Village、外部制作、ソロ作品を横断した。Stones ThrowではMadlibとのJaylib、そしてDonutsを発表している。The Ummah名義の曲はチームの制作として区別する。",
+          "legacy": "私がDillaに感じるのは、リズムを身体の時間として捉え直す力だ。わずかな前後や音の重さが、反復に人の気配をつくる。後に続くビートを聴く耳まで変えてしまったことが、彼の大きな影響だと思う。",
+          "listening": "Fall in Loveの揺れからDonutsの短い場面へ。揺れ方だけを真似する前に、どの音が何を支えているかを聴きたい。自由に聞こえるビートにも、ちゃんと重心がある。",
+          "sources": [
+            {
+              "label": "Stones Throw — J Dilla公式アーティスト紹介",
+              "url": "https://www.stonesthrow.com/artist/jdilla/"
+            },
+            {
+              "label": "Stones Throw — Jaylib公式紹介",
+              "url": "https://www.stonesthrow.com/artist/jaylib/"
+            },
+            {
+              "label": "J Dilla公式 — Biography（別名義の確認）",
+              "url": "https://jdilla.com/catalog/biography.html"
+            },
+            {
+              "label": "Red Bull Music Academy — QuestloveによるDillaの影響の証言",
+              "url": "https://www.redbullmusicacademy.com/lectures/questlove-new-york-2013/"
+            }
+          ],
+          "connections": "Questloveは本人の講義でDillaが自身のドラムに与えた影響を語っている。ビート制作から生演奏へ、時間の捉え方が渡っていく。その具体的な証言は、機械と人間を分けて考えすぎないための手がかりになる。"
+        },
+        "aliases": [
+          "J Dilla",
+          "Jay Dee"
+        ],
+        "identityNote": "同一人物の別名義 J Dilla / Jay Dee。The UmmahとJaylibは別名義ではなく共同プロジェクトです。制作クレジット・参加役割を区別して掲載しています。",
+        "visual": {
+          "nameOnly": true,
+          "tag": "feature-j-dilla-tag.webp",
+          "alt": "J Dilla / Jay Deeの名前を描いたグラフィティ"
+        },
+        "noteArticle": {
+          "title": "J Dilla【第1話】テープに二度いた男",
+          "url": "https://note.com/djnaoyaman/n/ne944de4bad7d",
+          "introduction": "Jay Deeの「Think Twice」と、The Ummahのリミックス。同じテープで、同じ人とは知らずに聴いていた二つの音から、私のJ Dillaの話が始まります。"
+        }
+      },
+      {
+        "id": "pete-rock",
+        "name": "Pete Rock",
+        "type": "producer",
+        "names": [
+          "Pete Rock"
+        ],
+        "allYears": true,
+        "editorial": {
+          "title": "古い音の中に、明日の光。",
+          "context": "Pete RockはC.L. Smoothとの作品に加え、NasのThe World Is YoursやPublic EnemyのShut Em Downのリミックスを制作した。本人への取材では、制作機材やソロ活動も語られている。",
+          "legacy": "私には彼の仕事が、過去のレコードの感情を、別の時代へ運ぶものに聞こえる。ソウルの温度を保ちながら、ドラムでいまの足場をつくる。サンプリングで生まれる郷愁が、同時に新しさにもなる。その両立の基準を残したと思う。",
+          "listening": "C.L. Smoothと組んだ曲から外部制作へ、声の違いをまたいで聴く。ホーンの華やかさだけでなく、その下でどんな低音が支えているか。光のある音楽ほど、足元もよくできている。",
+          "sources": [
+            {
+              "label": "Pete Rock本人インタビュー — 制作と機材",
+              "url": "https://yahdigg.wordpress.com/2008/05/01/exclusive-interview-producer-pete-rock/"
+            },
+            {
+              "label": "Stones Throw — High Fidelity / Dilla・Madlibへの取材",
+              "url": "https://www.stonesthrow.com/news/high-fidelity/"
+            }
+          ],
+          "connections": "Stones Throw掲載の取材で、DillaはMadlibのSP-1200の扱いに驚き、Pete Rockの仕事を比較の基準に挙げている。世代を越えた制作の耳が、同じ機材の可能性を聴き継いでいる。"
+        },
+        "aliases": [],
+        "visual": {
+          "photo": "feature-pete-rock-photo.webp",
+          "tag": "feature-pete-rock-tag.webp",
+          "alt": "Pete Rockの実写写真。撮影 Pinguino Kolb / pinguino k。",
+          "author": "Pinguino Kolb / pinguino k",
+          "source": "https://commons.wikimedia.org/wiki/File:Pete_Rock_at_Launch_Party.jpg",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。",
+          "focus": "50% 10%",
+          "fit": "cover"
+        }
+      },
+      {
+        "id": "erick-sermon",
+        "name": "Erick Sermon",
+        "type": "producer",
+        "names": [
+          "Erick Sermon"
+        ],
+        "allYears": true,
+        "editorial": {
+          "title": "ファンクを、日常の足取りに。",
+          "context": "EPMDの一員であり、ソロと外部制作でも活動するErick Sermon。The Hip Hop Museumの本人取材では、ファンクを軸にした制作と、その後の仕事が語られている。",
+          "legacy": "私にとって彼の大きさは、ファンクを特別な飾りにしないところにある。低音と声が噛み合えば、それだけで曲が歩き出す。技巧を見せる前に身体を動かす。その感覚が、東海岸のHip Hopを聴くうえで欠かせない一本の軸になっている。",
+          "listening": "EPMD、ソロ、外部制作を並べ、声が替わっても残る足取りを追う。音数が少ない場所ほど、ベースとキックの会話がよく聞こえる。理屈を考えているうちに、首のほうが先に答えてしまう。",
+          "sources": [
+            {
+              "label": "The Hip Hop Museum — Erick Sermon本人インタビュー",
+              "url": "https://thhm.org/blog/on-the-boards-erick-sermon/"
+            }
+          ],
+          "connections": "EPMD名義の曲と、掲載しているRedmanやKeith Murrayへの制作を行き来する。提供先の声が変わっても残るファンクの感触をたどると、プロデューサーとしての仕事が見えてくる。"
+        },
+        "aliases": [],
+        "visual": {
+          "photo": "feature-erick-sermon-photo.webp",
+          "tag": "feature-erick-sermon-tag.webp",
+          "alt": "Erick Sermonの実写写真。撮影 Simon Abrams。",
+          "author": "Simon Abrams",
+          "source": "https://commons.wikimedia.org/wiki/File:Erick_Sermon_%289288240438%29.jpg",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 2.0 を適用。",
+          "focus": "35% 35%",
+          "fit": "cover"
+        }
+      },
+      {
+        "id": "madlib",
+        "name": "Madlib / Quasimoto",
+        "type": "producer",
+        "names": [
+          "Madlib"
+        ],
+        "allYears": true,
+        "collaborations": [
+          "Jaylib"
+        ],
+        "note": "Lootpack、Quasimoto、Madvillainから外部制作曲へ。JaylibのThe RedはMadlibがラップ、ビートはJ Dillaとして区別。",
+        "editorial": {
+          "title": "寄り道が、そのまま地図になる。",
+          "context": "MadlibはQuasimotoとしての作品、MF DOOMとのMadvillain、J DillaとのJaylibなど、複数の名義と協働を行き来する。QuasimotoとMadlibが同一人物であることは、Stones Throwの公式紹介にも記されている。",
+          "legacy": "私が彼に感じる影響力は、掘り方の自由さにある。音の出自を整然と仕分けするより、思いがけない隣人同士を出会わせる。完成品の滑らかさより、発見した瞬間の熱を残す。そんな作り方を、ひとつの美意識として聴かせてくれる。",
+          "listening": "Quasimotoの声とMadvillainの断片を、同じ耳の別の表情として聴く。JaylibのThe RedはMadlibがラップし、ビートはJ Dilla。その違いまで含めて、名義の向こうにある役割をたどりたい。",
+          "sources": [
+            {
+              "label": "Stones Throw — Quasimoto公式紹介",
+              "url": "https://www.stonesthrow.com/artist/quasimoto/"
+            },
+            {
+              "label": "Stones Throw — Jaylib公式紹介",
+              "url": "https://www.stonesthrow.com/artist/jaylib/"
+            }
+          ],
+          "connections": "Quasimoto、Madvillain、Jaylibを通じ、声の加工、MCとの協働、互いのビートへの参加という違う方法を選ぶ。名義を増やすことが、表現の視点を増やすことにもなっている。"
+        },
+        "aliases": [
+          "Madlib",
+          "Quasimoto"
+        ],
+        "identityNote": "同一人物の別名義 Madlib / Quasimoto。Madvillain、Jaylib、Freddie Gibbs & Madlibは共同プロジェクトです。The Redの制作はJ Dillaとして区別しています。",
+        "visual": {
+          "photo": "feature-madlib-photo.webp",
+          "tag": "feature-madlib-tag.webp",
+          "alt": "Madlib / Quasimotoの実写写真。撮影 Carl Pocket。",
+          "author": "Carl Pocket",
+          "source": "https://commons.wikimedia.org/wiki/File:MadlibMarch2014Echo_%28cropped%29.jpg",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 2.0 を適用。",
+          "focus": "50% 25%",
+          "fit": "cover"
+        },
+        "noteArticle": {
+          "title": "MADLIB【第1話】手の写真に、やられた",
+          "url": "https://note.com/djnaoyaman/n/nbd65230df762",
+          "introduction": "鍵盤に置かれた手の写真に惹かれ、ジャケ買いした『Suite for Weldon』。Yesterdays New Quintetの一枚から始まった、私とMadlibの出会いを綴っています。"
+        }
+      },
+      {
+        "id": "de-la-soul",
+        "name": "De La Soul",
+        "type": "artist",
+        "names": [
+          "De La Soul"
+        ],
+        "allYears": true,
+        "aliases": [],
+        "editorial": {
+          "title": "遊びが、音楽の器を広げる。",
+          "context": "サンプリング、掛け合い、曲の構成に遊びを持ち込んだDe La Soul。Questloveは2005年の講義で彼らのデビュー作を自身の音楽体験の中に位置づけている。",
+          "legacy": "私には、彼らが「ラップの曲はこうあるべき」という器を広げたグループに思える。Saturdaysの賑わいとStakes Is Highの引き締まった足取りは違う。それでも、何を面白がるかという耳の主体性はつながっている。後世への影響を、ひとつの音型より、この選び方の自由に感じる。",
+          "listening": "Breakadawnの柔らかさから、Stakes Is Highの声とビートの距離へ。同じグループの中で、景色がどれだけ変わるか。作品を一列に並べて初めて、その自由の大きさが見えてくる。",
+          "sources": [
+            {
+              "label": "Red Bull Music Academy — Questlove本人の講義",
+              "url": "https://www.redbullmusicacademy.com/lectures/uestlove-phrenology-of-hip-hop/"
+            },
+            {
+              "label": "De La Soul公式 — 作品一覧",
+              "url": "https://store.wearedelasoul.com/collections"
+            }
+          ],
+          "connections": "Questloveが自身の音楽体験として語るDe La Soul。Stakes Is HighではJ Dillaの制作も聴ける。受け継がれるものと、その時々に出会う作り手が、一つのグループの歩みに重なる。"
+        },
+        "visual": {
+          "photo": "feature-de-la-soul-photo.webp",
+          "tag": "feature-de-la-soul-tag.webp",
+          "alt": "De La Soulの実写写真。撮影 Gozamos。",
+          "author": "Gozamos",
+          "source": "https://commons.wikimedia.org/wiki/File:De_La_Soul_%284971659790%29.jpg",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 2.0 を適用。",
+          "focus": "50% 50%",
+          "fit": "contain"
+        }
+      },
+      {
+        "id": "epmd",
+        "name": "EPMD",
+        "type": "artist",
+        "names": [
+          "EPMD"
+        ],
+        "allYears": true,
+        "aliases": [],
+        "editorial": {
+          "title": "太いループが、曲の態度になる。",
+          "context": "Erick SermonとParrish SmithによるEPMD。Erick SermonはThe Hip Hop Museumの本人取材で、ファンクを基礎にした制作と現在までの仕事を語っている。",
+          "legacy": "私はEPMDを聴くと、グルーヴは装飾ではなく、曲の態度を決めるものだと感じる。音が少なくても、低音と声が落ち着けば、堂々とした空間になる。彼らの仕事を入口にErick Sermonの制作曲へ進むと、同じ太さが違う声をどう受け止めるかも見えてくる。",
+          "listening": "You Gots to ChillとCrossoverを並べる。入りやすい音であっても、二人の声の間合いは急がない。大きな音を鳴らすことと、音楽に貫禄があることは、案外別の話なのだと思う。",
+          "sources": [
+            {
+              "label": "The Hip Hop Museum — Erick Sermon本人インタビュー",
+              "url": "https://thhm.org/blog/on-the-boards-erick-sermon/"
+            },
+            {
+              "label": "The Quietus — EPMD両名への作品取材",
+              "url": "https://thequietus.com/opinion-and-essays/anniversary/epmd-business-never-personal-erick-sermon-parrish-smith-interview/"
+            }
+          ],
+          "connections": "EPMDの棚からErick Sermonの制作特集へ進むと、グループ作品と外部制作を聴き比べられる。名義の違いを保ったまま、誰の耳が曲をつないでいるかを追える。"
+        },
+        "visual": {
+          "photo": "feature-epmd-photo.webp",
+          "tag": "feature-epmd-tag.webp",
+          "alt": "EPMDの実写写真。撮影 Simon Abrams。",
+          "author": "Simon Abrams",
+          "source": "https://commons.wikimedia.org/wiki/File:EPMD_%289288244052%29.jpg",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 2.0 を適用。",
+          "focus": "55% 30%",
+          "fit": "contain"
+        }
+      }
+    ]
+  },
+  "photoSHA256": "43380e815ba78b1ce88771c353100c08efa9c0822743fbed658901d3f970b90d"
+}

@@ -453,9 +453,14 @@
       ],
       "identityNote": "同一人物の別名義 J Dilla / Jay Dee。The UmmahとJaylibは別名義ではなく共同プロジェクトです。制作クレジット・参加役割を区別して掲載しています。",
       "visual": {
-        "nameOnly": true,
         "tag": "feature-j-dilla-tag.webp",
-        "alt": "J Dilla / Jay Deeの名前を描いたグラフィティ"
+        "alt": "J Dillaの肖像写真（ユーザー提供）",
+        "photo": "feature-j-dilla-user-photo.jpeg",
+        "fit": "contain",
+        "focus": "50% 50%",
+        "provenance": "user-provided",
+        "credit": "ユーザー提供",
+        "changes": "写真の色・構図は変更せず掲載。"
       },
       "noteArticle": {
         "title": "J Dilla【第1話】テープに二度いた男",
