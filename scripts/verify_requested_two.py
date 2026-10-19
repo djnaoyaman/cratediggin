@@ -3,18 +3,19 @@ from pathlib import Path
 import json,hashlib,copy,sys
 from PIL import Image
 from approved_timeline_explorer import historical_explorer_file
+from approved_artifacts_credits import historical_credit_file
 from approved_requested_two import FIXTURE as F,historical_intake_file,historical_intake_tracks
 R=Path(__file__).resolve().parents[1];D=R/'dist';sys.path.insert(0,str(R));sha=lambda b:hashlib.sha256(b).hexdigest()
 from feature_policy import role_projection
 from catalog import feature_tracks
-tracks=json.loads((R/'tracks.json').read_text());old=historical_intake_tracks();ids=[t['id'] for t in tracks]
+tracks=json.loads(historical_credit_file('tracks.json',(R/'tracks.json').read_bytes()));old=historical_intake_tracks();ids=[t['id'] for t in tracks]
 assert len(tracks)==len(set(ids))==501 and len(old)==499
 assert tracks[499:]==F['records'] and ids[499:]==F['ids'] and not set(F['held'])&set(ids)
 assert [t['id'] for t in old]==F['orderedIds']
 assert sum(t.get('workType','single')=='single' for t in tracks)==496
 assert set(F['appendedFiles'])=={'tracks.json','editorial_deepdives.json','graffiti_artwork.json'}
 for path,c in F['appendedFiles'].items():
- raw=(R/path).read_bytes();assert sha(raw)==c['afterSHA256'];assert sha(historical_intake_file(path,raw))==c['beforeSHA256']
+ raw=(R/path).read_bytes();assert sha(historical_credit_file(path,raw))==c['afterSHA256'];assert sha(historical_intake_file(path,raw))==c['beforeSHA256']
  value=json.loads(raw)
  cases=[raw+b' ']
  if c['arrayKey'] is None:

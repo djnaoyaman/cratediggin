@@ -2,11 +2,12 @@
 from pathlib import Path
 import json, hashlib
 from approved_media_correction import historical_record
+from approved_artifacts_credits import historical_credit_file
 from approved_editorial_corrections import historical_editorial_file
 root=Path(__file__).resolve().parents[1]
 f=json.loads((root/'scripts/fixtures/renewal-preservation.json').read_text())
 def digest(v):return hashlib.sha256(json.dumps(v,ensure_ascii=False,sort_keys=True,separators=(',',':')).encode()).hexdigest()
-t=json.loads((root/'tracks.json').read_text()); ids=[x['id'] for x in t]
+t=json.loads(historical_credit_file('tracks.json',(root/'tracks.json').read_bytes())); ids=[x['id'] for x in t]
 assert len(ids)==len(set(ids))
 records={x['id']:x for x in t}
 assert set(f['records'])<=set(records), 'Published works removed'

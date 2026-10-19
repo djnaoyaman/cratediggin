@@ -17,7 +17,7 @@ from approved_home_install_direct import historical_home_install_file
 for path,h in F['protected'].items():assert sha(historical_home_install_file(path,(R/path).read_bytes()))==h,path
 tracks=json.loads((R/'tracks.json').read_text());historical_tracks=historical_intake_tracks();assert len(historical_tracks)==499 and len(tracks)==501
 source=json.loads((R/'features.json').read_text());before=json.loads(F['files']['features.json']['before']);assert source['features'][:-1]==before['features'];assert len(source['features'])==16
-f=source['features'][-1];assert f['id']=='dj-premier' and f['type']=='producer' and f['names']==['DJ Premier'] and f['allYears'];assert f['visual']['photo']=='feature-dj-premier-provided-collage.webp' and f['visual']['provenance']=='user-provided' and not f['visual'].get('tag')
+f=source['features'][-1];assert f['id']=='dj-premier' and f['type']=='producer' and f['names']==['DJ Premier'] and f['allYears'];assert f['visual']['photo']=='feature-dj-premier-provided-collage.webp' and f['visual']['provenance']=='user-provided' and f['visual'].get('tag')=='feature-dj-premier-tag.webp'
 roles=role_projection(historical_tracks);approved=F['qualifiedIdentities'];actual={n for n,q in roles.items() if q['tier']!='archive'};assert actual=={x['name'] for x in approved} and len(actual)==42
 for row in approved:
  q=roles[row['name']];assert q['artistIds']==row['artist_ids'] and q['producerIds']==row['producer_ids'];assert q['tier']==row['tier']

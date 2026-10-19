@@ -755,14 +755,14 @@
       },
       "visual": {
         "photo": "feature-dj-premier-provided-collage.webp",
-        "typographicName": "DJ PREMIER",
         "alt": "DJ Premierのコラージュ画像（ユーザー提供）",
         "fit": "contain",
         "focus": "50% 50%",
         "provenance": "user-provided",
         "credit": "ユーザー提供",
         "changes": "提供された完成画像の構図・色・人物は変更せず掲載。",
-        "precomposed": true
+        "precomposed": true,
+        "tag": "feature-dj-premier-tag.webp"
       }
     }
   ]

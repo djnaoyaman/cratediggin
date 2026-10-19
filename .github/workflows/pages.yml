@@ -52,6 +52,7 @@ jobs:
           python scripts/verify_renewal_preservation.py
           python scripts/verify_requested_four.py
           python scripts/verify_requested_six.py
+          python scripts/verify_artifacts_credits.py
           python scripts/verify_timeline_explorer.py
           node scripts/verify_catalog_explorer.cjs
           python scripts/verify_requested_two.py
@@ -178,6 +179,8 @@ jobs:
           python -m http.server 8765 --directory /tmp/crate-preview >/tmp/crate-preview.log 2>&1 &
           server=$!
           trap 'kill "$server"' EXIT
+          node scripts/verify_artifacts_credits_browser.cjs
+          node scripts/verify_feature_swipe_browser.cjs
           player_intent_status=0
           naming_status=0
           node scripts/verify_player_intent_browser.cjs || player_intent_status=$?
@@ -239,7 +242,6 @@ jobs:
           node scripts/verify_playback_browser.cjs
           node scripts/verify_graffiti_browser.cjs
           node scripts/verify_feature_portraits_browser.cjs
-          node scripts/verify_feature_swipe_browser.cjs
           node scripts/verify_social_sharing_browser.cjs
           node scripts/verify_url_migration_browser.cjs
           node scripts/verify_profile_notes_browser.cjs
@@ -287,6 +289,7 @@ jobs:
             /tmp/crawl-artwork-*.png
             /tmp/requested-four-*.png
             /tmp/requested-six-*.png
+            /tmp/artifacts-credit-*.png
             /tmp/timeline-explorer-*.png
             /tmp/requested-two-*.png
             /tmp/ini-japan-media-*.png

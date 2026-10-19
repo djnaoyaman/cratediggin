@@ -20,7 +20,7 @@ if D.exists():
  profile=(D/'editor.html').read_text();assert '<span class="editor-name-accessible">DJ Naoyaman</span>' in profile
  assert 'class="editor-signature"' in profile and 'alt="" width="1881" height="628"' in profile
  assert '宮崎直哉' in profile and '約5万曲' in profile and '明治大学' in profile
- assert 'designed by DJ NAOYAMAN' in (D/'index.html').read_text()
+ assert 'class="art-credit" role="img" aria-label="Designed by DJ Naoyaman"' in (D/'index.html').read_text() and '>designed by</span>' in (D/'index.html').read_text()
 print('Exact five scoped UI/visual file corrections;499 records, all supplied photos, biography, ART credit, media and social image bytes preserved')
 # The only new content asset is the user-supplied Black Sheep composition.
 from PIL import Image
