@@ -13037,7 +13037,7 @@
     ],
     "album": "Between a Rock and a Hard Place",
     "label": "個別確認中",
-    "producer": "Buckwild",
+    "producer": "T-Ray; co-produced by Artifacts",
     "members": "Artifacts",
     "youtube": {
       "id": "nrMRlLSro0Q",
@@ -13082,6 +13082,13 @@
         "sources": [
           0
         ]
+      },
+      {
+        "title": "原盤の制作クレジット",
+        "sources": [
+          1
+        ],
+        "text": "Big Beat 0-10154のA面には「Wrong Side of da Tracks」のLP Version（4:19）が収録されている。1994年の盤面に記された制作・ミックス担当はT-Ray、共同制作はArtifactsだ。"
       }
     ],
     "samples": [],
@@ -13095,10 +13102,17 @@
         "label": "YouTube — Artifacts / Wrong Side of da Tracks",
         "url": "https://www.youtube.com/watch?v=nrMRlLSro0Q",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Big Beat 0-10154 — 1994年US盤12インチA面レーベル（ELLA Records掲載画像）",
+        "url": "https://ellarecords.jp/cdn/shop/files/20260117_090.jpg?v=1769501767&width=1946",
+        "kind": "原盤画像（第三者レコード店掲載）",
+        "scope": "1994年US盤12インチのA面。LP Version（4:19）の収録と、T-Rayによる制作・ミックス、Artifacts名義の共同制作を記載。"
       }
     ],
     "producers": [
-      "Buckwild"
+      "T-Ray",
+      "Artifacts"
     ],
     "connections": [],
     "sounds": [
@@ -57327,7 +57341,7 @@
     "artist": "Artifacts",
     "year": 1994,
     "album": "Between a Rock and a Hard Place",
-    "producer": "T-Ray",
+    "producer": "T-Ray; co-produced by Artifacts",
     "essayTitle": "冒頭の怒りを、制作日の記憶からたどる",
     "deck": "El Da Senseiが振り返る制作日の口論と、T-Rayが語る12インチの選曲。1994年のアルバムを締めくくる一曲に、二つの来歴が重なる。",
     "essay": [
@@ -57380,6 +57394,12 @@
         "url": "https://www.thegoodoldayz.com/album/between-a-rock-and-a-hard-place-21473/21473.html",
         "kind": "レコード資料・クレジット転記（二次資料）",
         "scope": "Newark, New Jerseyという活動地域と、曲別のT-Ray制作クレジット。"
+      },
+      {
+        "label": "Big Beat 0-10154 — 1994年US盤12インチB面レーベル（ELLA Records掲載画像）",
+        "url": "https://ellarecords.jp/cdn/shop/files/20260117_091.jpg?v=1769501767&width=1946",
+        "kind": "原盤画像（第三者レコード店掲載）",
+        "scope": "1994年US盤12インチのB面。LP Version（2:24）の収録と、T-Rayによる制作・ミックス、Artifacts名義の共同制作を記載。"
       }
     ],
     "category": "Hip Hop",
@@ -57388,7 +57408,15 @@
       "掘り下げる"
     ],
     "listening": [],
-    "facts": [],
+    "facts": [
+      {
+        "title": "原盤の制作クレジット",
+        "sources": [
+          5
+        ],
+        "text": "「Whassup Now Muthafucka?」は同じ12インチのB面にLP Version（2:24）として収録。レーベルにはT-Rayの制作・ミックスに加え、グループ名義のArtifactsによる共同制作も明記されている。"
+      }
+    ],
     "collections": [
       "east"
     ],
@@ -57405,7 +57433,8 @@
     "scene": "Newark, New Jersey",
     "label": "Big Beat / Atlantic",
     "producers": [
-      "T-Ray"
+      "T-Ray",
+      "Artifacts"
     ],
     "yearBasis": "1994年のBig Beat／Atlantic盤。原盤CDと正規配信の原盤年を照合し、配信開始日とは区別。",
     "editorialCrates": [],

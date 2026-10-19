@@ -2,7 +2,7 @@ const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/st
 const manifest=JSON.parse(fs.readFileSync('graffiti_artwork.json','utf8'));
 const {window}=vm.runInNewContext(fs.readFileSync('dist/tracks.js','utf8')+';({window})',{window:{}});
 const path=require('node:path');
-function verifyCredits(dir){for(const entry of fs.readdirSync(dir,{withFileTypes:true})){const file=path.join(dir,entry.name);if(entry.isDirectory())verifyCredits(file);else if(file.endsWith('.html')){const html=fs.readFileSync(file,'utf8');if(html.includes('id="art-view"')){assert.match(html,/<span class="art-credit" aria-label="Designed by DJ Naoyaman">/,'Missing graffiti credit: '+file);assert.match(html,/<img class="art-signature"[^>]+alt="DJ Naoyaman"/,'Missing graffiti signature: '+file);assert.match(html,/art\.js\?v=[0-9.]+/,'Artwork script must bypass stale cache: '+file)}}}}
+function verifyCredits(dir){for(const entry of fs.readdirSync(dir,{withFileTypes:true})){const file=path.join(dir,entry.name);if(entry.isDirectory())verifyCredits(file);else if(file.endsWith('.html')){const html=fs.readFileSync(file,'utf8');if(html.includes('id="art-view"')){assert.match(html,/<span class="art-credit" role="img" aria-label="Designed by DJ Naoyaman">/,'Missing graffiti credit: '+file);assert.match(html,/<img class="art-signature"[^>]+alt=""/,'Missing graffiti signature: '+file);assert.match(html,/art\.js\?v=[0-9.]+/,'Artwork script must bypass stale cache: '+file)}}}}
 verifyCredits('dist');
 const ready=manifest.tracks.filter(t=>t.status==='ready');assert(ready.length>=3);
 for(const t of window.TRACKS)assert.equal(t.art.alt,t.title+' — '+t.artist+'｜CRATE DIGGIN｜DJ Naoyaman');

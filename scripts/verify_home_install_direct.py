@@ -13,7 +13,7 @@ for path,c in F['files'].items():
  except AssertionError:pass
  else:raise AssertionError('Unapproved mutation accepted: '+path)
 for path,h in F['protected'].items():assert sha(historical_opening_file(path,(R/path).read_bytes()))==h,path
-before=json.loads(F['files']['features.json']['before']);current=json.loads((R/'features.json').read_text());assert current['policy']==before['policy'];assert len(current['features'])==16
+before=json.loads(F['files']['features.json']['before']);current=json.loads(__import__('approved_artifacts_credits').historical_credit_file('features.json',(R/'features.json').read_bytes()));assert current['policy']==before['policy'];assert len(current['features'])==16
 for old,new in zip(before['features'],current['features']):
  if old['id']=='dj-premier':
   normalized=dict(new);v=normalized.pop('visual');assert normalized==old;assert v['photo']=='feature-dj-premier-provided-collage.webp' and v['precomposed'] and v['credit']=='ユーザー提供' and v['typographicName']=='DJ PREMIER' and not v.get('tag')
@@ -46,7 +46,7 @@ if (D/'metadata.js').exists():
  assert meta['#/editor']['image'] in editor
  for a in F['editorPhotos']:assert (D/Path(a['path']).name).read_bytes()==(R/a['path']).read_bytes()
  gallery=(D/'tracks/index.html').read_text();assert 'static-graffiti-gallery' in gallery and gallery.count('class="catalog-graffiti"')==500
- index=(D/'producers/index.html').read_text();assert 'feature-dj-premier-provided-collage.webp' in index and 'feature-name-typography' in index
+ index=(D/'producers/index.html').read_text();assert 'feature-dj-premier-provided-collage.webp' in index and 'feature-dj-premier-tag.webp' in index
  assert 'undefined' not in index and '/None' not in index
  assert (D/asset.name).read_bytes()==asset.read_bytes()
 print('Direct native-install capability/guide scope and exact supplied Premier pixels;499 records, old15 features/photos,515 other OGP and all published prose preserved')
