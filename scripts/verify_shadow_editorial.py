@@ -1,5 +1,6 @@
 """Verify bounded editorial enrichment, owner-photo provenance and static feature output."""
 import hashlib,json
+from approved_media_correction import historical_record
 from pathlib import Path
 from html.parser import HTMLParser
 from PIL import Image
@@ -10,6 +11,7 @@ fields=['id','title','artist','year','album','art','addedOrder']
 ids=[x['id'] for x in t]
 assert len(ids)==len(set(ids)) and len(t)>=len(e['tracks']) and set(e['tracks'])<=set(ids)
 for x in t:
+ x=historical_record(x)
  if x['id'] in e['tracks']:assert digest({k:x.get(k) for k in fields}|{'youtubeId':x['youtube']['id']})==e['tracks'][x['id']],x['id']
 art=json.loads((R/'graffiti_artwork.json').read_text())['tracks'];art_by={x['id']:x for x in art}
 assert len(art_by)==len(art) and set(e['artwork'])<=set(art_by)

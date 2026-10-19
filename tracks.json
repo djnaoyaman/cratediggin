@@ -43312,12 +43312,22 @@
     "producer": "Pete Rock",
     "members": "",
     "youtube": {
-      "id": "S-sTcEQHvkY",
-      "url": "https://www.youtube.com/watch?v=S-sTcEQHvkY",
-      "channel": "Pete Rock - Topic",
-      "type": "Official Audio",
-      "verified": "2026-10-17",
-      "official": true
+      "id": "pXu0g1gFjDM",
+      "url": "https://www.youtube.com/watch?v=pXu0g1gFjDM",
+      "title": "Pete Rock - Grown Man Sport",
+      "channel": "Pete Rock Official",
+      "channelId": "UCruzFcHYNawnTKC5LpEROMw",
+      "type": "公式アーティストチャンネル",
+      "official": true,
+      "verified": "2026-10-19",
+      "duration": "PT4M36S",
+      "version": "Center of Attentionのスタジオ曲に対応する公式アップロード",
+      "versionBasis": "公式投稿の曲名、InI／Center of Attention関連キーワード、4分36秒表記を照合。同一マスターの音声比較は未検証。",
+      "embedUrl": "https://www.youtube.com/embed/pXu0g1gFjDM",
+      "japanAvailableMetadata": true,
+      "embeddableMetadata": true,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false
     },
     "deck": "InIの『Center of Attention』に収められた曲で、制作はPete Rock。",
     "essayTitle": "Grown Man Sport：制作と流通の背景",
@@ -43407,7 +43417,7 @@
     },
     "yearBasis": "2003年のBBE/Rapster流通盤を基準とする。1990年代の制作時期、2017年の再発とは区別する。",
     "addedOrder": 390,
-    "editorialStatus": "このYouTube音源は現在再生できません。別の公式プレイヤーをこのページ内で開けます。",
+    "editorialStatus": "公式アーティストチャンネルの音源を掲載。再生できない場合は、このページ内の別の公式プレイヤーも利用できます。",
     "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
   },
   {
