@@ -182,6 +182,7 @@ jobs:
           editorial_status=0
           producer_photos_status=0
           bookmark_status=0
+          browse_spacing_status=0
           presentation_status=0
           landscape_status=0
           art_modes_status=0
@@ -198,6 +199,7 @@ jobs:
           node scripts/verify_editorial_remediation_browser.cjs || editorial_status=$?
           node scripts/verify_producer_photos_browser.cjs || producer_photos_status=$?
           node scripts/verify_bookmark_helper_browser.cjs || bookmark_status=$?
+          node scripts/verify_browse_spacing_browser.cjs || browse_spacing_status=$?
           node scripts/verify_player_presentation_browser.cjs || presentation_status=$?
           test "$navigation_hotfix_status" -eq 0
           test "$responsive_status" -eq 0
@@ -210,6 +212,7 @@ jobs:
           test "$editorial_status" -eq 0
           test "$producer_photos_status" -eq 0
           test "$bookmark_status" -eq 0
+          test "$browse_spacing_status" -eq 0
           test "$presentation_status" -eq 0
           node scripts/verify_album_browser.cjs
           node scripts/verify_listening_shelves_browser.js
@@ -268,6 +271,7 @@ jobs:
             /tmp/editorial-remediation-*.png
             /tmp/producer-collage-*.png
             /tmp/bookmark-*.png
+            /tmp/browse-spacing-*.png
             /tmp/compact-list-*.png
             /tmp/compact-dilla-*.png
             /tmp/migration-navigation-*.png
