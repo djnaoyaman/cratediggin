@@ -5,8 +5,8 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict');
   if(js)await context.addInitScript(()=>Object.defineProperty(window,'CRATE_SITE_URL',{get:()=>location.origin+'/cratediggin',set(){}}));
   await context.route('https://www.youtube.com/iframe_api',r=>r.abort());await context.route('https://www.googletagmanager.com/**',r=>r.abort());
   const page=await context.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));
-  for(const [path,count] of [['artists',10],['producers',5]]){
-   await page.goto('http://127.0.0.1:8765/cratediggin/'+path+'/');const rail=page.locator('.feature-swipe').first();await rail.waitFor();assert.equal(await page.locator('.feature-poster').count(),count);assert.equal(await rail.locator('.feature-poster').count(),path==='artists'?9:5);assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
+  for(const [path,count] of [['artists',10],['producers',6]]){
+   await page.goto('http://127.0.0.1:8765/cratediggin/'+path+'/');const rail=page.locator('.feature-swipe').first();await rail.waitFor();assert.equal(await page.locator('.feature-poster').count(),count);assert.equal(await rail.locator('.feature-poster').count(),path==='artists'?9:6);assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
    const box=await rail.boundingBox();const cards=rail.locator('.feature-poster');const first=await cards.nth(0).boundingBox(),second=await cards.nth(1).boundingBox();
    if(width<=640){assert(second.x<box.x+box.width-4,'Next card should peek');assert(second.x>first.x+first.width,'Separate columns');assert.equal(await rail.evaluate(e=>getComputedStyle(e).overflowX),'auto');assert(await page.locator('.feature-swipe-hint').isVisible());
     await rail.scrollIntoViewIfNeeded();const b=await rail.boundingBox();const cdp=await context.newCDPSession(page),y=Math.min(b.y+180,700),x=b.x+b.width*.8;
@@ -18,7 +18,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict');
    await rail.locator('.feature-card').first().scrollIntoViewIfNeeded();if(js)await page.screenshot({path:'/tmp/feature-swipe-'+path+'-'+width+'.png',fullPage:false});
    const href=await rail.locator('.feature-card').first().getAttribute('href');if(width<=640)await rail.locator('.feature-card').first().tap();else await rail.locator('.feature-card').first().click();await page.waitForURL(u=>u.pathname.endsWith('.html'));assert(page.url().includes(href.replace('http://127.0.0.1:8765','')),'Card navigates');
   }
-  if(js){await page.goto('http://127.0.0.1:8765/cratediggin/artists/');await page.getByRole('link',{name:'PRODUCERS：プロデューサー特集へ ↗',exact:true}).click();await page.waitForURL('**/producers/');assert.equal(await page.locator('.feature-swipe .feature-poster').count(),5);}assert.deepEqual(errors,[]);await context.close();
+  if(js){await page.goto('http://127.0.0.1:8765/cratediggin/artists/');await page.getByRole('link',{name:'PRODUCERS：プロデューサー特集へ ↗',exact:true}).click();await page.waitForURL('**/producers/');assert.equal(await page.locator('.feature-swipe .feature-poster').count(),6);}assert.deepEqual(errors,[]);await context.close();
  }
  console.log('Mobile native feature swipe, next-card peek, horizontal/vertical touch, keyboard, static/SPA and desktop grids passed');
 }finally{await browser.close();}})().catch(e=>{console.error(e);process.exitCode=1});

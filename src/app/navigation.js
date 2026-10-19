@@ -14,14 +14,15 @@
   if(!page)return null;
   if(page.route==='#/'||page.route==='#/songs'){
    const params=new URLSearchParams();for(const key of browseKeys)if(url.searchParams.has(key))params.set(key,url.searchParams.get(key));
-   if(params.size)return '#/?'+params.toString();
+   if(params.size)return page.route+'?'+params.toString();
   }
   return page.route;
  }
  function currentRoute(){return routeFromURL(new URL(location.href))||window.INITIAL_ROUTE||'#/';}
  function routeURL(value){
   value=normalizeRoute(value);
-  if(value.startsWith('#/?'))return pageRegistry['#/songs'].path+'?'+value.slice(3);
+  if(value.startsWith('#/?'))return pageRegistry['#/'].path+'?'+value.slice(3);
+  if(value.startsWith('#/songs?'))return pageRegistry['#/songs'].path+'?'+value.slice(8);
   return pageRegistry[value]?.path||pageRegistry['#/'].path;
  }
  function replaceBrowseRoute(value){
@@ -50,7 +51,7 @@
   document.documentElement.dataset.metadataRoute=key;
  }
  function updateMetadata(value){
-  const key=value.startsWith('#/?')?'#/songs':normalizeRoute(value),p=pageRegistry[key];
+  const key=value.startsWith('#/songs?')?'#/songs':value.startsWith('#/?')?'#/':normalizeRoute(value),p=pageRegistry[key];
   if(!p)return;
   const request=++metadataRequest;
   document.title=p.title;
@@ -85,7 +86,7 @@
    (p.published?' · 公開 <time datetime="'+esc(p.published)+'">'+esc(p.published.slice(0,10))+'</time>':'')+
    (p.modified?' · 更新 <time datetime="'+esc(p.modified)+'">'+esc(p.modified.slice(0,10))+'</time>':'')+'</div>';
  }
- function sharingPage(value){return pageRegistry[value.startsWith('#/?')?'#/songs':normalizeRoute(value)];}
+ function sharingPage(value){return pageRegistry[value.startsWith('#/songs?')?'#/songs':value.startsWith('#/?')?'#/':normalizeRoute(value)];}
  function shareLinks(p){
   const u=encodeURIComponent(p.url),t=encodeURIComponent(p.title),line=encodeURIComponent(p.title+'\n'+p.url);
   return [['X','https://x.com/intent/tweet?text='+t+'&url='+u],['Facebook','https://www.facebook.com/sharer/sharer.php?u='+u],['LINE','https://line.me/R/share?text='+line]];

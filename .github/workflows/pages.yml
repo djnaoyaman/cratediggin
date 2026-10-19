@@ -58,6 +58,9 @@ jobs:
           python scripts/verify_producer_photos.py
           python scripts/verify_browser_tools.py
           python scripts/verify_premier_feature.py
+          python scripts/verify_home_install_direct.py
+          node scripts/verify_home_install_direct.cjs
+          node scripts/verify_gallery_routes.cjs
           python scripts/test_editorial_uniqueness.py
           python scripts/verify_editorial_uniqueness.py
           python scripts/verify_essay_reference_output.py
@@ -185,6 +188,7 @@ jobs:
           bookmark_status=0
           browse_spacing_status=0
           premier_feature_status=0
+          tracks_gallery_status=0
           presentation_status=0
           landscape_status=0
           art_modes_status=0
@@ -203,6 +207,7 @@ jobs:
           node scripts/verify_bookmark_helper_browser.cjs || bookmark_status=$?
           node scripts/verify_browse_spacing_browser.cjs || browse_spacing_status=$?
           node scripts/verify_premier_feature_browser.cjs || premier_feature_status=$?
+          node scripts/verify_tracks_gallery_browser.cjs || tracks_gallery_status=$?
           node scripts/verify_player_presentation_browser.cjs || presentation_status=$?
           test "$navigation_hotfix_status" -eq 0
           test "$responsive_status" -eq 0
@@ -217,6 +222,7 @@ jobs:
           test "$bookmark_status" -eq 0
           test "$browse_spacing_status" -eq 0
           test "$premier_feature_status" -eq 0
+          test "$tracks_gallery_status" -eq 0
           test "$presentation_status" -eq 0
           node scripts/verify_album_browser.cjs
           node scripts/verify_listening_shelves_browser.js
@@ -277,6 +283,8 @@ jobs:
             /tmp/bookmark-*.png
             /tmp/browse-spacing-*.png
             /tmp/premier-feature-*.png
+            /tmp/editor-photo-*.png
+            /tmp/tracks-gallery-*.png
             /tmp/compact-list-*.png
             /tmp/compact-dilla-*.png
             /tmp/migration-navigation-*.png
