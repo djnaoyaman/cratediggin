@@ -12,10 +12,11 @@ for path,c in F['files'].items():
  try:historical_premier_file(path,data+b' ')
  except AssertionError:pass
  else:raise AssertionError('Unexpected mutation accepted: '+path)
-for path,h in F['protected'].items():assert sha((R/path).read_bytes())==h,path
+from approved_home_install_direct import historical_home_install_file
+for path,h in F['protected'].items():assert sha(historical_home_install_file(path,(R/path).read_bytes()))==h,path
 tracks=json.loads((R/'tracks.json').read_text());assert len(tracks)==499
 source=json.loads((R/'features.json').read_text());before=json.loads(F['files']['features.json']['before']);assert source['features'][:-1]==before['features'];assert len(source['features'])==16
-f=source['features'][-1];assert f['id']=='dj-premier' and f['type']=='producer' and f['names']==['DJ Premier'] and f['allYears'];assert not f.get('visual')
+f=source['features'][-1];assert f['id']=='dj-premier' and f['type']=='producer' and f['names']==['DJ Premier'] and f['allYears'];assert f['visual']['photo']=='feature-dj-premier-provided-collage.webp' and f['visual']['provenance']=='user-provided' and not f['visual'].get('tag')
 roles=role_projection(tracks);approved=F['qualifiedIdentities'];actual={n for n,q in roles.items() if q['tier']!='archive'};assert actual=={x['name'] for x in approved} and len(actual)==42
 for row in approved:
  q=roles[row['name']];assert q['artistIds']==row['artist_ids'] and q['producerIds']==row['producer_ids'];assert q['tier']==row['tier']
@@ -77,7 +78,7 @@ if (D/'metadata.js').exists():
  for path,h in F['socialImages'].items():assert sha((D/path).read_bytes())==h,path
  assert len(F['socialImages'])==515
  meta=json.loads((D/'metadata.js').read_text().split('=',1)[1].rstrip(';\n'));m=meta['#/feature/dj-premier'];assert m['url'].endswith('/producers/dj-premier.html')
- assert m['image'].endswith('/feature-og/dj-premier.jpg?v=21.11')
+ assert m['image'].endswith('/feature-og/dj-premier.jpg?v='+json.loads((R/'releases.json').read_text())['version'])
  page=(D/'producers/dj-premier.html').read_text();assert rendered in page
  for tid in roles['DJ Premier']['producerIds']:assert '/tracks/'+tid+'.html' in page
  assert '収録作品 42曲' in page

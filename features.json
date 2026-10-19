@@ -752,6 +752,17 @@
           }
         ],
         "disclosure": "制作の経緯は本人の証言に基づきます。比較の順番と読み方は本稿の編集上の提案で、DJ Naoyaman本人の体験談ではありません。"
+      },
+      "visual": {
+        "photo": "feature-dj-premier-provided-collage.webp",
+        "typographicName": "DJ PREMIER",
+        "alt": "DJ Premierのコラージュ画像（ユーザー提供）",
+        "fit": "contain",
+        "focus": "50% 50%",
+        "provenance": "user-provided",
+        "credit": "ユーザー提供",
+        "changes": "提供された完成画像の構図・色・人物は変更せず掲載。",
+        "precomposed": true
       }
     }
   ]

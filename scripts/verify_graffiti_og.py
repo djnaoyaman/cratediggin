@@ -74,8 +74,8 @@ assert artwork_count==sum(a.get('status')=='ready' for a in art_by_id.values())
 print(f'{artwork_count} unchanged transparent artworks composited unchanged before deliberate JPEG encoding on subtle walls; {fallback_count} honest generic fallback')
 
 # Every generic/profile social card also uses JPEG, while PNG application icons remain PNG.
-expected_count=len(tracks)+len(json.loads((root/'features.json').read_text())['features'])+1
-jpgs=list((dist/'og').glob('*.jpg'))+list((dist/'feature-og').glob('*.jpg'))+[dist/'og-image.jpg']
+expected_count=len(tracks)+len(json.loads((root/'features.json').read_text())['features'])+2
+jpgs=list((dist/'og').glob('*.jpg'))+list((dist/'feature-og').glob('*.jpg'))+[dist/'og-image.jpg',dist/'editor-og.jpg']
 assert len(jpgs)==expected_count
 assert not list((dist/'og').glob('*.png')) and not list((dist/'feature-og').glob('*.png')) and not (dist/'og-image.png').exists()
 for path in jpgs:

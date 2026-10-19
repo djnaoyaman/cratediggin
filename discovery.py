@@ -180,7 +180,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         pages['#/feature/' + f['id']]['jsonld']['@graph'][0]['citation'] = [s['url'] for s in f['editorial']['sources']]
     add('#/songs', 'songs/', '楽曲一覧 — CRATEDIGGIN\'',
         work_count(tracks) + 'のHip Hopを聴きどころ・アーティスト・年代から探す。サンプル元と制作背景を出典付きで紹介。',
-        '<h1>TRACKS FROM THE GRAFFITI.</h1><p>聴きどころ・アーティスト・年代から曲を探す。</p>' + track_links(tracks))
+        '<h1>TRACKS FROM THE GRAFFITI.</h1><p>グラフティから曲を選ぶ。</p><div class="static-graffiti-gallery">'+''.join('<a href="'+base_path+'/songs/'+t['id']+'.html"><h2>'+esc(t['title'])+'</h2><p>'+esc(t['artist'])+'</p>'+('<figure class="catalog-graffiti"><img loading="lazy" src="'+base_path+'/'+esc(t['art']['image'])+'" alt="'+esc(t['art']['alt'])+'"><figcaption>Designed by DJ Naoyaman</figcaption></figure>' if t.get('art',{}).get('image') else '')+'</a>' for t in tracks)+'</div>')
     readings_body='<h1>READ THE SOUND.</h1><p>制作の背景、サンプリング、人と音楽のつながりを読む。</p><div class="reading-grid">'+''.join('<a class="reading-card" href="'+base_path+'/songs/'+t['id']+'.html"><span class="eyebrow">'+esc(t['artist'])+'</span><h2>'+esc(t.get('essayTitle') or t['title'])+'</h2><p>'+esc(t['deck'])+'</p><span>READ ARTICLE ↗</span></a>' for t in tracks)+'</div>'
     add('#/readings','readings/',"READINGS — CRATEDIGGIN'",'Hip Hopの制作背景、サンプリング、街と人の物語。全掲載作品の記事を読む。',readings_body)
     add('#/artists', 'artists/', 'アーティスト一覧 — CRATEDIGGIN\'', '掲載アーティスト別に楽曲と特集を探す。',
@@ -192,12 +192,13 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         copy='<h3>'+esc(f['name'])+'</h3><p>'+esc(f['editorial']['title'])+'</p><span>'+esc(qualification_label(f))+'</span>'
         if not v:
             return '<a class="feature-card feature-card--text" data-feature-id="'+esc(f['id'])+'" href="'+href+'"><span class="eyebrow">PRODUCTION STORIES</span>'+copy+'<span>READ FEATURE ↗</span></a>'
+        tag=('<img class="feature-name-tag" src="'+base_path+'/'+esc(v['tag'],quote=True)+'" alt="" loading="eager">') if v.get('tag') else '<span class="feature-name-tag feature-name-typography" aria-hidden="true">'+esc(v.get('typographicName',f['name']))+'</span>'
         if v.get('nameOnly'):
             return '<article class="feature-poster"><a class="feature-card feature-card--portrait" href="'+href+'"><div class="feature-portrait feature-portrait--name"><span class="feature-paper-grain" aria-hidden="true"></span><span class="feature-tape" aria-hidden="true">'+('ARTIST FILE' if f['type']=='artist' else 'PRODUCER FILE')+'</span><img class="feature-name-tag" src="'+base_path+'/'+esc(v['tag'],quote=True)+'" alt="'+esc(v['alt'],quote=True)+'" loading="lazy"></div><div class="feature-poster-copy">'+copy+'</div></a></article>'
         return ('<article class="feature-poster"><a class="feature-card feature-card--portrait '+('feature-card--provided' if v.get('precomposed') else '')+'" href="'+href+'"><div class="feature-portrait '+('feature-portrait--provided ' if v.get('precomposed') else '')+('feature-portrait--contain' if v.get('fit')=='contain' else '')+'">'
                 '<img class="feature-photo" src="'+base_path+'/'+esc(v['photo'],quote=True)+'" alt="'+esc(v['alt'],quote=True)+'" loading="lazy" style="object-position:'+esc(v.get('focus','50% 35%'),quote=True)+'">'
                 '<span class="feature-paper-grain" aria-hidden="true"></span><span class="feature-tape" aria-hidden="true">'+('ARTIST FILE' if f['type']=='artist' else 'PRODUCER FILE')+'</span>'
-                '<img class="feature-name-tag" src="'+base_path+'/'+esc(v['tag'],quote=True)+'" alt="" loading="eager"></div><div class="feature-poster-copy">'+copy+'</div></a>'+
+                +tag+'</div><div class="feature-poster-copy">'+copy+'</div></a>'+
                 ('<details class="feature-photo-credit" data-photo-provenance="user-provided"><summary>PHOTO / SOURCE</summary><p>'+esc(v['credit'])+'<br>'+esc(v['changes'])+'</p></details>' if v.get('provenance')=='user-provided' else '<details class="feature-photo-credit"><summary>PHOTO / LICENSE</summary><p>Photo: <a href="'+esc(v['source'],quote=True)+'">'+esc(v['author'])+'</a> · <a href="'+esc(v['licenseUrl'],quote=True)+'">'+esc(v['license'])+'</a><br>'+esc(v['changes'])+('<br>写真別出典: '+ ' · '.join('<a href="'+esc(c['source'],quote=True)+'">'+esc(c['label'])+'</a> (<a href="'+esc(c['licenseUrl'],quote=True)+'">license</a>)' for c in v['components']) if v.get('components') else '')+'</p></details>')+'</article>')
     def feature_grid(kind):
         active=[f for f in features if f['type']==kind and f['qualification']['tier']!='archive']
@@ -220,15 +221,19 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         track_links([t for t in tracks if t['year'] == y]) + '</section>' for y in sorted({t['year'] for t in tracks if t['year'] is not None})) + ('<section><h2>発表年未確認</h2>'+track_links([t for t in tracks if t['year'] is None])+'</section>' if any(t['year'] is None for t in tracks) else ''))
     from render_editorial import about_html
     add('#/about', 'about.html', "編集方針 — CRATEDIGGIN'", '事実と編者の私見を分け、参考資料を示す編集方針。', about_html(root,tracks))
+    from brand_assets import save_feature_social_image
+    save_feature_social_image(dist/'editor-og.jpg',root/'src/assets/editor-provided-collage.webp')
     add('#/editor', 'editor.html', 'DJ Naoyaman — 編者紹介 / CRATEDIGGIN\'', 'CRATEDIGGIN\'の選曲・編集を行うDJ Naoyaman。',
-        __import__('profile_content').render_profile(root,base_path),
-        graph=[{'@type': 'ProfilePage', '@id': author_url + '#page', 'url': author_url, 'mainEntity': {**author, 'alternateName':'宮崎直哉'}}])
+        __import__('profile_content').render_profile(root,base_path), image='editor-og.jpg',
+        graph=[{'@type': 'ProfilePage', '@id': author_url + '#page', 'url': author_url, 'mainEntity': {**author, 'alternateName':'宮崎直哉','image':host+'/editor-og.jpg?v='+version}}])
 
     def real_links(content):
         def replace(match):
             route = html.unescape(match[1])
             if route=='#/features': route='#/artists'
             if route.startswith('#/?'):
+                path = base_path + '/?' + route.split('?', 1)[1]
+            elif route.startswith('#/songs?'):
                 path = base_path + '/tracks/?' + route.split('?', 1)[1]
             else:
                 item = pages.get(route)
@@ -327,7 +332,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
             feature=next((f for f in features if f['id']==route.split('/')[-1]),None)
             if feature:
                 images.extend(photo['image'] for photo in feature.get('personalFeature',{}).get('photos',[]))
-        if route=='#/editor': images.append('dj-naoyaman-signature-v2.webp')
+        if route=='#/editor': images.extend(['dj-naoyaman-signature-v2.webp','editor-provided-collage.webp','editor-provided-event.jpg'])
         if route in ('#/artists','#/producers'):
             kind='artist' if route=='#/artists' else 'producer'
             for f in features:
