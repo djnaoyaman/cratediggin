@@ -9,7 +9,7 @@ def inline(text):
     result.append(html.escape(text[start:]));return ''.join(result)
 
 def profile_photo(base_path, kind):
-    name, width, height, alt = (("editor-provided-collage.webp",1456,816,"DJ NaoyamanのDJパフォーマンス・コラージュ（ユーザー提供）") if kind=="hero" else ("editor-provided-event.jpg",1920,1280,"DJ Naoyamanのイベント写真（ユーザー提供）"))
+    name, width, height, alt = (("editor-provided-collage.webp",1456,816,"DJ NaoyamanのDJパフォーマンス・コラージュ（ユーザー提供）") if kind=="hero" else ("editor-provided-event.jpg",2048,1365,"DJ Naoyamanのイベント写真（ユーザー提供）"))
     return '<figure class="editor-photo editor-photo--'+kind+'"><img src="'+base_path+'/'+name+'" width="'+str(width)+'" height="'+str(height)+'" alt="'+alt+'" loading="lazy"><figcaption>ユーザー提供</figcaption></figure>'
 
 def render_profile(root,base_path):
