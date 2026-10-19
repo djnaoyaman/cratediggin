@@ -1,6 +1,8 @@
 [
   "core.js",
   "navigation.js",
+  "opening-selection.js",
+  "opening.js",
   "playlist-ui.js",
   "art-modes.js",
   "album-player.js",
