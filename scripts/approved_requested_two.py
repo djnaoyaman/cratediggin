@@ -5,6 +5,8 @@ ROOT=Path(__file__).resolve().parents[1]
 FIXTURE=json.loads((ROOT/'scripts/fixtures/requested-two.json').read_text())
 sha=lambda data:hashlib.sha256(data).hexdigest()
 def historical_intake_file(path,data):
+ from approved_timeline_explorer import historical_explorer_file
+ data=historical_explorer_file(path,data)
  if path=='releases.json':
   c=FIXTURE['release'];assert sha(data)==c['afterSHA256'],'Unapproved release drift'
   value=json.loads(data);assert value['version']==c['version'];value['version']=c['before']['version'];assert value==c['before']

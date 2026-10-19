@@ -10,6 +10,7 @@
   "inline-player.js",
   "catalog-ui.js",
   "song-ui.js",
+  "timeline-explorer.js",
   "editorial.js",
   "renewal.js",
   "router.js"

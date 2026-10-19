@@ -1,5 +1,5 @@
 {
-  "version": "21.14",
+  "version": "22.0",
   "timezone": "Asia/Tokyo",
   "policy": "major-only",
   "history": [
@@ -191,6 +191,14 @@
       "kind": "major",
       "dateBasis": "変更記録日時",
       "retrospective": false
+    },
+    {
+      "version": "22.0",
+      "datetime": "2026-10-19T11:42:22.186284+00:00",
+      "title": "収録作品を見渡すグラフィカル年表",
+      "description": "年代・アーティスト・制作名義・地域・掲載カテゴリ・音のタグから収録構成を見渡し、条件を掛け合わせて作品と年表へ進める入口を追加。未登録・未確認と集計の分母を明示。",
+      "kind": "major",
+      "dateBasis": "変更記録"
     }
   ]
 }
