@@ -1,3 +1,4 @@
+from approved_requested_two import historical_intake_tracks, historical_intake_file
 """Exact21.12 content/art preservation around a bounded opening-selection change."""
 from pathlib import Path
 import hashlib,json
@@ -9,9 +10,9 @@ for path,c in F['files'].items():
  try:historical_opening_file(path,data+b' ')
  except AssertionError:pass
  else:raise AssertionError('Unapproved source accepted: '+path)
-for path,h in F['protected'].items():assert sha((R/path).read_bytes())==h,path
-assert len(json.loads((R/'tracks.json').read_text()))==499
-assert json.loads((R/'releases.json').read_text())['version']=='21.13'
+for path,h in F['protected'].items():assert sha(historical_intake_file(path,(R/path).read_bytes()))==h,path
+assert len(historical_intake_tracks())==499
+assert json.loads(historical_intake_file('releases.json',(R/'releases.json').read_bytes()))['version']=='21.13'
 assert len(F['socialImages'])==517
 if D.exists():
  for path,h in F['socialImages'].items():assert sha((D/path).read_bytes())==h,path

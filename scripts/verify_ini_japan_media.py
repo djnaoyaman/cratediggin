@@ -1,10 +1,11 @@
+from approved_requested_two import historical_intake_tracks, historical_intake_file
 """Exact one-record correction; protect every other published value and product byte."""
 import json, hashlib, copy
 from pathlib import Path
 from approved_media_correction import FIXTURE as f, historical_record, digest
 from approved_editorial_corrections import historical_editorial_file
 R=Path(__file__).resolve().parents[1]
-t=json.loads((R/'tracks.json').read_text()); assert [x['id'] for x in t]==f['orderedIds'] and len(t)==499
+t=historical_intake_tracks(); assert [x['id'] for x in t]==f['orderedIds'] and len(t)==499
 for x in t:assert digest(historical_record(x))==f['publishedRecords'][x['id']],x['id']
 for name,h in f['protectedFiles'].items():assert hashlib.sha256(historical_editorial_file(name,(R/name).read_bytes())).hexdigest()==h,name
 c=f['corrections'];assert len(c)==1 and c[0]['id']=='ini-grown-man-sport'

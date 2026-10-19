@@ -52,6 +52,7 @@ jobs:
           python scripts/verify_renewal_preservation.py
           python scripts/verify_requested_four.py
           python scripts/verify_requested_six.py
+          python scripts/verify_requested_two.py
           python scripts/verify_compact_list_dilla.py
           python scripts/verify_ini_japan_media.py
           python scripts/verify_editorial_remediation.py
@@ -242,6 +243,7 @@ jobs:
           node scripts/verify_profile_notes_browser.cjs
           node scripts/verify_public_copy_browser.cjs
           node scripts/verify_requested_six_browser.cjs
+          node scripts/verify_oct19_two_browser.cjs
           node scripts/verify_requested_two_browser.cjs
           node scripts/verify_section_references_browser.cjs
           node scripts/verify_art_crate_browser.cjs
@@ -282,6 +284,7 @@ jobs:
             /tmp/crawl-artwork-*.png
             /tmp/requested-four-*.png
             /tmp/requested-six-*.png
+            /tmp/requested-two-*.png
             /tmp/ini-japan-media-*.png
             /tmp/editorial-remediation-*.png
             /tmp/producer-collage-*.png

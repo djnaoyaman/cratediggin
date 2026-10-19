@@ -1,4 +1,4 @@
-"""All66 authored mappings agree in static HTML and Markdown;433 unmapped essays add no references."""
+"""All68 authored mappings agree in static HTML and Markdown;433 unmapped essays add no references."""
 from pathlib import Path
 import json,sys
 from html.parser import HTMLParser
@@ -20,5 +20,6 @@ for t in json.loads((R/'tracks.json').read_text()):
  for row in expected:
   assert '参考資料：'+' / '.join(markdown_reference(x) for x in row) in md,t['id']
  if expected:count+=1
-assert count==66
-print('66 mapped articles exact static/Markdown citation parity;433 unmapped essays have no invented reference rows')
+assert count==68
+f=json.loads((R/'scripts/fixtures/requested-two.json').read_text());assert [t['id'] for t in json.loads((R/'tracks.json').read_text()) if 'essaySources'in t]==f['mappedIds']
+print('68 mapped articles exact static/Markdown citation parity;433 unmapped essays have no invented reference rows')

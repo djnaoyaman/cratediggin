@@ -1,10 +1,11 @@
+from approved_requested_two import historical_intake_tracks, historical_intake_file
 """Three exact editorial corrections; preserve all499 recordings and unrelated product bytes."""
 import copy,hashlib,json,sys
 from pathlib import Path
 from approved_editorial_corrections import FIXTURE as f,digest,historical_editorial_record,historical_editorial_file
 R=Path(__file__).resolve().parents[1];sys.path.insert(0,str(R))
 from editorial_references import essay_references
-tracks=json.loads((R/'tracks.json').read_text());assert len(tracks)==499 and [x['id'] for x in tracks]==f['orderedIds']
+tracks=historical_intake_tracks();assert len(tracks)==499 and [x['id'] for x in tracks]==f['orderedIds']
 for t in tracks:assert digest(historical_editorial_record(t))==f['publishedRecords'][t['id']],t['id']
 for name,h in f['protectedFiles'].items():assert hashlib.sha256(historical_editorial_file(name,(R/name).read_bytes())).hexdigest()==h,name
 assert set(f['fileCorrections'])=={'listening_shelves.json','src/app/song-ui.js'}
@@ -24,7 +25,7 @@ shelf=json.loads((R/'listening_shelves.json').read_text());old=json.loads(f['fil
 assert shelf!=old
 # All authored mappings are checked, not merely the three corrected articles.
 mapped=[t for t in tracks if 'essaySources'in t];assert len(mapped)==66
-for t in mapped:
+for t in json.loads((R/'tracks.json').read_text()):
  for i in range(len(t['essay'])):essay_references(t,i)
 base={'essay':['a'],'sources':[{'url':'https://example.org/a','label':'A'}]}
 assert essay_references(base,0)==[]
