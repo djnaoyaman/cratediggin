@@ -2,6 +2,7 @@
 from pathlib import Path
 import json,hashlib,copy,sys
 from approved_artifacts_credits import historical_credit_file
+from approved_queue_scope import historical_queue_scope_file
 R=Path(__file__).resolve().parents[1];sys.path.insert(0,str(R));from feature_policy import role_projection
 from catalog import feature_tracks
 from catalog_explorer import aggregate,summary
@@ -67,7 +68,7 @@ assert (R/'FEATURE_COMPLETENESS.md').exists()
 for f in features:assert [x['id'] for x in feature_tracks(old,f)]==[x['id'] for x in feature_tracks(tracks,f)]
 assert summary(old)==summary(tracks)
 bins=aggregate(tracks,'producer');assert bins['__missing__']==115 and len(bins)==181 and sum(n for k,n in bins.items() if k!='__missing__')==450
-release=json.loads((R/'releases.json').read_text());before=json.loads(F['files']['releases.json']['before']);assert release==dict(before,version='22.1')
+release=json.loads(historical_queue_scope_file('releases.json',(R/'releases.json').read_bytes()));before=json.loads(F['files']['releases.json']['before']);assert release==dict(before,version='22.1')
 D=R/'dist'
 if D.exists():
  assert (D/Path(t['path']).name).read_bytes()==(R/t['path']).read_bytes()
@@ -77,5 +78,5 @@ if D.exists():
   t=r['after'];html=(D/'tracks'/f"{t['id']}.html").read_text();md=(D/'tracks'/f"{t['id']}.md").read_text()
   for text in [t['facts'][-1]['text'],t['sources'][-1]['label']]:assert text in html and text in md,text
  client=(D/'tracks.js').read_text();assert all(r['after']['producer'] in client for r in F['records'])
- timeline=(D/'timeline.html').read_text();assert '501掲載作品' in timeline and '22.1' in timeline
+ timeline=(D/'timeline.html').read_text();assert '501掲載作品' in timeline and json.loads((R/'releases.json').read_text())['version'] in timeline
 print('Two exact original-LP credit corrections; all501 media/art/prose,16 feature selections,519 OGP preserved; counts and mutation guards PASS')

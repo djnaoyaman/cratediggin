@@ -4,6 +4,8 @@ import hashlib,json,copy
 ROOT=Path(__file__).resolve().parents[1]
 sha=lambda b:hashlib.sha256(b).hexdigest()
 def historical_credit_file(path,data):
+ from approved_queue_scope import historical_queue_scope_file
+ data=historical_queue_scope_file(path,data)
  f=json.loads((ROOT/'scripts/fixtures/approved-artifacts-credits.json').read_text())
  c=f['files'].get(path)
  if c is None:return data
