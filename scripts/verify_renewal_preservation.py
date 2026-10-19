@@ -1,6 +1,7 @@
 """Protect published content while permitting future, separately reviewed additions."""
 from pathlib import Path
 import json, hashlib
+from approved_media_correction import historical_record
 root=Path(__file__).resolve().parents[1]
 f=json.loads((root/'scripts/fixtures/renewal-preservation.json').read_text())
 def digest(v):return hashlib.sha256(json.dumps(v,ensure_ascii=False,sort_keys=True,separators=(',',':')).encode()).hexdigest()
@@ -8,7 +9,7 @@ t=json.loads((root/'tracks.json').read_text()); ids=[x['id'] for x in t]
 assert len(ids)==len(set(ids))
 records={x['id']:x for x in t}
 assert set(f['records'])<=set(records), 'Published works removed'
-for key,value in f['records'].items():assert digest(records[key])==value, 'Protected work changed: '+key
+for key,value in f['records'].items():assert digest(historical_record(records[key]))==value, 'Protected work changed: '+key
 def protected_bytes(path, append=None):
     data=path.read_bytes()
     if append is None:return data

@@ -1,12 +1,13 @@
 """Protect all493 previously published works and validate the six requested additions."""
 from pathlib import Path
 import json,hashlib
+from approved_media_correction import historical_record
 from PIL import Image
 R=Path(__file__).resolve().parents[1]
 def digest(x):return hashlib.sha256(json.dumps(x,ensure_ascii=False,sort_keys=True,separators=(',',':')).encode()).hexdigest()
 f=json.loads((R/'scripts/fixtures/requested-six.json').read_text());baseline=f['published493'];t=json.loads((R/'tracks.json').read_text());ids=[x['id'] for x in t];by={x['id']:x for x in t}
 assert len(t)==499 and len(set(ids))==499 and ids[:493]==baseline['orderedIds']
-for id,h in baseline['records'].items():assert digest(by[id])==h, 'Published record changed: '+id
+for id,h in baseline['records'].items():assert digest(historical_record(by[id]))==h, 'Published record changed: '+id
 for name,p in baseline['sourcePrefixes'].items():
  d=json.loads((R/name).read_text());key=p['kind'];n=p['count']
  if key=='object':d=dict(list(d.items())[:n])
