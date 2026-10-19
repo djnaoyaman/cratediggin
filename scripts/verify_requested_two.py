@@ -2,6 +2,7 @@
 from pathlib import Path
 import json,hashlib,copy,sys
 from PIL import Image
+from approved_timeline_explorer import historical_explorer_file
 from approved_requested_two import FIXTURE as F,historical_intake_file,historical_intake_tracks
 R=Path(__file__).resolve().parents[1];D=R/'dist';sys.path.insert(0,str(R));sha=lambda b:hashlib.sha256(b).hexdigest()
 from feature_policy import role_projection
@@ -28,9 +29,9 @@ for path,c in F['appendedFiles'].items():
   try:historical_intake_file(path,bad)
   except AssertionError:pass
   else:raise AssertionError('Mutation accepted: '+path)
-for path,h in F['protected'].items():assert sha((R/path).read_bytes())==h,path
+for path,h in F['protected'].items():assert sha(historical_explorer_file(path,(R/path).read_bytes()))==h,path
 assert {'src/app/opening.js','src/app/opening-selection.js','features.json','artist_entities.json'}<=set(F['protected'])
-assert json.loads((R/'releases.json').read_text())['version']==F['release']['version']=='21.14'
+assert json.loads(historical_explorer_file('releases.json',(R/'releases.json').read_bytes()))['version']==F['release']['version']=='21.14'
 assert sha(historical_intake_file('releases.json',(R/'releases.json').read_bytes()))==F['release']['beforeSHA256']
 for bad in [dict(F['release']['before'],version='21.99'),dict(F['release']['before'],version='21.14',history=[])]:
  try:historical_intake_file('releases.json',(json.dumps(bad,ensure_ascii=False,indent=2)+'\n').encode())
@@ -72,5 +73,5 @@ if D.exists():
  for t in F['records']:
   id=t['id'];html=(D/'tracks'/f'{id}.html').read_text();md=(D/'tracks'/f'{id}.md').read_text();assert t['deck'] in html and all(paragraph in md for paragraph in t['essay'])
   assert id in (D/'llms-full.txt').read_text();assert f'/tracks/{id}.html' in (D/'songs'/f'{id}.html').read_text()
-  assert meta['#/song/'+id]['image'].endswith('/og/'+id+'.jpg?v=21.14')
+  assert meta['#/song/'+id]['image'].endswith('/og/'+id+'.jpg?v='+json.loads((R/'releases.json').read_text())['version'])
 print('Two requested source-led additions:501 works,496 singles,500 art; all499/517OGP and current UI protected, exact five role deltas, mutation rejection; no actual audio certification')

@@ -12,6 +12,7 @@
   const path=url.pathname.replace(/\/index\.html$/,'/');
   const page=pageByPath.get(path);
   if(!page)return null;
+  if(page.route==='#/timeline'){const params=new URLSearchParams();for(const key of window.CrateExplorer.keys)if(url.searchParams.has(key))params.set(key,url.searchParams.get(key));return page.route+(params.size?'?'+params.toString():'')}
   if(page.route==='#/'||page.route==='#/songs'){
    const params=new URLSearchParams();for(const key of browseKeys)if(url.searchParams.has(key))params.set(key,url.searchParams.get(key));
    if(params.size)return page.route+'?'+params.toString();
@@ -21,6 +22,7 @@
  function currentRoute(){return routeFromURL(new URL(location.href))||window.INITIAL_ROUTE||'#/';}
  function routeURL(value){
   value=normalizeRoute(value);
+  if(value.startsWith('#/timeline?'))return pageRegistry['#/timeline'].path+'?'+value.slice(11);
   if(value.startsWith('#/?'))return pageRegistry['#/'].path+'?'+value.slice(3);
   if(value.startsWith('#/songs?'))return pageRegistry['#/songs'].path+'?'+value.slice(8);
   return pageRegistry[value]?.path||pageRegistry['#/'].path;
@@ -51,7 +53,7 @@
   document.documentElement.dataset.metadataRoute=key;
  }
  function updateMetadata(value){
-  const key=value.startsWith('#/songs?')?'#/songs':value.startsWith('#/?')?'#/':normalizeRoute(value),p=pageRegistry[key];
+  const key=value.startsWith('#/timeline?')?'#/timeline':value.startsWith('#/songs?')?'#/songs':value.startsWith('#/?')?'#/':normalizeRoute(value),p=pageRegistry[key];
   if(!p)return;
   const request=++metadataRequest;
   document.title=p.title;
@@ -86,7 +88,7 @@
    (p.published?' · 公開 <time datetime="'+esc(p.published)+'">'+esc(p.published.slice(0,10))+'</time>':'')+
    (p.modified?' · 更新 <time datetime="'+esc(p.modified)+'">'+esc(p.modified.slice(0,10))+'</time>':'')+'</div>';
  }
- function sharingPage(value){return pageRegistry[value.startsWith('#/songs?')?'#/songs':value.startsWith('#/?')?'#/':normalizeRoute(value)];}
+ function sharingPage(value){const p=pageRegistry[value.startsWith('#/timeline?')?'#/timeline':value.startsWith('#/songs?')?'#/songs':value.startsWith('#/?')?'#/':normalizeRoute(value)];return p&&value.startsWith('#/timeline?')?{...p,url:new URL(routeURL(value),location.origin).href}:p;}
  function shareLinks(p){
   const u=encodeURIComponent(p.url),t=encodeURIComponent(p.title),line=encodeURIComponent(p.title+'\n'+p.url);
   return [['X','https://x.com/intent/tweet?text='+t+'&url='+u],['Facebook','https://www.facebook.com/sharer/sharer.php?u='+u],['LINE','https://line.me/R/share?text='+line]];
@@ -94,7 +96,7 @@
  async function copyPageLink(value,button){
   const p=sharingPage(value);if(!p)return;
   const host=button.closest('.page-sharing')||button.parentElement,status=host.querySelector('[role="status"]');
-  try{await navigator.clipboard.writeText(p.url);trackInteraction('share',{method:'copy_link',content_type:value.startsWith('#/song/')?'song':'page',item_id:value.split('/').pop()});if(status)status.textContent='リンクをコピーしました';else button.textContent='コピーしました';}
+  try{await navigator.clipboard.writeText(p.url);trackInteraction('share',{method:'copy_link',content_type:value.startsWith('#/song/')?'song':'page',item_id:value.startsWith('#/timeline')?'timeline':value.split('/').pop()});if(status)status.textContent='リンクをコピーしました';else button.textContent='コピーしました';}
   catch(_){let input=host.querySelector('.share-fallback-url');if(!input){input=document.createElement('input');input.className='share-fallback-url';input.readOnly=true;input.setAttribute('aria-label','コピーする共有リンク');host.append(input);}input.value=p.url;input.focus();input.select();if(status)status.textContent='リンクを選択してコピーしてください';}
  }
  function sharingControls(value){

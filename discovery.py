@@ -216,8 +216,8 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         selected = [next(t for t in tracks if t['id'] == tid) for tid in g['ids']]
         add('#/guide/' + g['id'], 'guides/' + g['id'] + '.html', g['title'] + ' — CRATEDIGGIN\'', g['description'],
             '<h1>' + esc(g['title']) + '</h1><p>' + esc(g['description']) + '</p>' + track_links(selected))
-    add('#/timeline', 'timeline.html', 'Hip Hopの年表 — CRATEDIGGIN\'', '掲載曲を発表年と街からたどるHip Hopの年表。',
-        '<h1>THE TIMELINE</h1>' + ''.join('<section><h2>' + str(y) + '年</h2>' +
+    add('#/timeline', 'timeline.html', 'Hip Hopの年表 — CRATEDIGGIN\'', '年代・作り手・地域・掲載カテゴリから収録構成を見渡し、出典のある文化の年表へ進む。',
+        '<h1>THE TIMELINE</h1>' + __import__('catalog_explorer').render_summary(tracks) + ''.join('<section><h2>' + str(y) + '年</h2>' +
         track_links([t for t in tracks if t['year'] == y]) + '</section>' for y in sorted({t['year'] for t in tracks if t['year'] is not None})) + ('<section><h2>発表年未確認</h2>'+track_links([t for t in tracks if t['year'] is None])+'</section>' if any(t['year'] is None for t in tracks) else ''))
     from render_editorial import about_html
     add('#/about', 'about.html', "編集方針 — CRATEDIGGIN'", '事実と編者の私見を分け、参考資料を示す編集方針。', about_html(root,tracks))
@@ -296,7 +296,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         if '/metadata.js' not in content:
             content = content.replace('<script src="' + base_path + '/app.js', '<script src="' + base_path + '/metadata.js?v=' + version + '" defer></script><script src="' + base_path + '/app.js')
         # Newly added static pages need the same versioned assets and analytics as existing pages.
-        for asset in ('app.js', 'art.js', 'style.css', 'tracks.js', 'playlist.js', 'filters.js', 'timeline.js', 'releases.js'):
+        for asset in ('app.js', 'art.js', 'style.css', 'tracks.js', 'playlist.js', 'filters.js', 'timeline.js', 'catalog-explorer.js', 'releases.js'):
             content = re.sub(r'((?:href|src)="[^\"]*/' + re.escape(asset) + r')(?:\?v=[0-9.]+)?"',
                              lambda m: m[1] + '?v=' + version + '"', content)
         if '<!-- GOOGLE_ANALYTICS -->' not in content:
