@@ -11,7 +11,7 @@ for path,c in f['files'].items():
  else:raise AssertionError('Unapproved mutation accepted: '+path)
 for path,h in f['protected'].items():assert sha(historical_premier_file(path,(R/path).read_bytes()))==h,path
 assert len(json.loads((R/'tracks.json').read_text()))==499
-assert json.loads((R/'releases.json').read_text())['version']=='21.12'
+assert json.loads((R/'releases.json').read_text())['version']=='21.13'
 s=(R/'src/app/renewal.js').read_text();assert '[300,360,450,570,720,900]' in s and "$('#shuffle-again').onclick=renewalDraw" in s
 assert 'window.external' not in s and 'navigator.share' not in s and 'serviceWorker.register' not in s
 if D.exists():
