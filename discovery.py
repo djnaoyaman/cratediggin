@@ -20,7 +20,8 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
     deepdives = json.loads((root / 'editorial_deepdives.json').read_text(encoding='utf-8'))
     # Dates describe authored content, not image dimensions or other build projections.
     authored_tracks = json.loads((root / 'tracks.json').read_text(encoding='utf-8'))
-    revisions = revision_dates(root, authored_tracks, deepdives, features)
+    authored_features = json.loads((root / 'features.json').read_text(encoding='utf-8'))['features']
+    revisions = revision_dates(root, authored_tracks, deepdives, authored_features)
     entities = json.loads((root / 'artist_entities.json').read_text(encoding='utf-8'))
     assert {t['artist'] for t in tracks} <= entities.keys(), 'Add new artists to artist_entities.json'
     assert all(x['type'] in ('Person', 'MusicGroup', None) for x in entities.values())

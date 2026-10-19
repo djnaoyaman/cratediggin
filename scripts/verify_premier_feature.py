@@ -36,6 +36,23 @@ fake=[dict(tracks[0],id='unknown-role',artist='New Artist',artists=[],producers=
 for old in source['features'][:-1]:
  selected={t['id'] for t in feature_tracks(tracks,old)};previous=set(F['previousSelections'][old['id']]);assert selected==previous|({'beastie-boys-get-it-together'} if old['id']=='beastie-boys' else set())
 allf=qualify_features(tracks,source['features']);assert len(allf)==16 and next(x for x in allf if x['id']=='az')['qualification']['tier']=='archive'
+# Exercise the actual discovery entry point even in Git-less local snapshots.
+# Stop at revision lookup, after checking raw authored inputs rather than projections.
+import discovery
+from unittest.mock import patch
+class RevisionInputsChecked(Exception):pass
+def check_revision_inputs(root, authored_tracks, authored_dives, authored_features):
+ assert authored_tracks==tracks
+ assert authored_dives==json.loads((R/'editorial_deepdives.json').read_text())
+ assert authored_features==source['features']
+ assert all('qualification' not in feature for feature in authored_features)
+ raise RevisionInputsChecked
+projected_tracks=copy.deepcopy(tracks);projected_tracks[0]['projectionOnlyTest']='must not enter authored dates'
+with patch.object(discovery,'revision_dates',side_effect=check_revision_inputs) as lookup:
+ try:discovery.finalize_discovery(R,D,'https://example.org/cratediggin',projected_tracks,allf,[])
+ except RevisionInputsChecked:pass
+ else:raise AssertionError('Discovery did not validate authored revision inputs')
+ lookup.assert_called_once()
 e=f['editorial'];assert e['format']=='source-led-v1' and len(e['sources'])==5 and len(e['sections'])==6
 expected=['mass-appeal','gang-starr-alongwaytogo','nas-n-y-state-of-mind','the-notorious-b-i-g-unbelievable','jeru-the-damaja-come-clean']
 links=re.findall(r'\]\(#/song/([a-z0-9-]+)\)',json.dumps(e,ensure_ascii=False));assert links==expected
