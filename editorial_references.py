@@ -27,3 +27,16 @@ def markdown_reference(reference):
     label = ''.join('\\' + char if char in punctuation else char for char in label)
     url = quote(reference['url'], safe=":/?#[]@!$&'()*+,;=%")
     return '[' + label + '](<' + url + '>)'
+
+
+def essay_references(track, index):
+    """Missing mappings produce no citation; malformed authored mappings fail the build."""
+    mappings = track.get('essaySources')
+    if mappings is None:
+        return []
+    assert isinstance(mappings, list) and len(mappings) == len(track['essay']), 'Invalid essay source mapping'
+    indices = mappings[index]
+    assert isinstance(indices, list), 'Invalid essay source indices'
+    if not indices:
+        return []
+    return section_references(track, {'sources': indices})

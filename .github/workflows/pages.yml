@@ -54,6 +54,11 @@ jobs:
           python scripts/verify_requested_six.py
           python scripts/verify_compact_list_dilla.py
           python scripts/verify_ini_japan_media.py
+          python scripts/verify_editorial_remediation.py
+          python scripts/test_editorial_uniqueness.py
+          python scripts/verify_editorial_uniqueness.py
+          python scripts/verify_essay_reference_output.py
+          node scripts/verify_essay_references.cjs
           node scripts/verify_analytics_privacy.cjs
           node scripts/verify_renewal.cjs
       - name: Save verified image encoding cache
@@ -172,6 +177,7 @@ jobs:
           renewal_status=0
           compact_dilla_status=0
           ini_media_status=0
+          editorial_status=0
           presentation_status=0
           landscape_status=0
           art_modes_status=0
@@ -185,6 +191,7 @@ jobs:
           node scripts/verify_renewal_browser.cjs || renewal_status=$?
           node scripts/verify_compact_list_dilla_browser.cjs || compact_dilla_status=$?
           node scripts/verify_ini_japan_media_browser.cjs || ini_media_status=$?
+          node scripts/verify_editorial_remediation_browser.cjs || editorial_status=$?
           node scripts/verify_player_presentation_browser.cjs || presentation_status=$?
           test "$navigation_hotfix_status" -eq 0
           test "$responsive_status" -eq 0
@@ -194,6 +201,7 @@ jobs:
           test "$renewal_status" -eq 0
           test "$compact_dilla_status" -eq 0
           test "$ini_media_status" -eq 0
+          test "$editorial_status" -eq 0
           test "$presentation_status" -eq 0
           node scripts/verify_album_browser.cjs
           node scripts/verify_listening_shelves_browser.js
@@ -249,6 +257,7 @@ jobs:
             /tmp/requested-four-*.png
             /tmp/requested-six-*.png
             /tmp/ini-japan-media-*.png
+            /tmp/editorial-remediation-*.png
             /tmp/compact-list-*.png
             /tmp/compact-dilla-*.png
             /tmp/migration-navigation-*.png

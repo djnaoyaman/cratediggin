@@ -2,9 +2,10 @@ from pathlib import Path
 import json,hashlib,copy
 from PIL import Image
 from approved_media_correction import historical_tracks_bytes
+from approved_editorial_corrections import historical_editorial_file
 R=Path(__file__).resolve().parents[1];f=json.loads((R/'scripts/fixtures/compact-list-dilla.json').read_text())
 for name,h in f['protected'].items():
- data=(R/name).read_bytes()
+ data=historical_editorial_file(name,(R/name).read_bytes())
  if name=='tracks.json':data=historical_tracks_bytes(data)
  assert hashlib.sha256(data).hexdigest()==h,name
 current=json.loads((R/'features.json').read_text());before=f['featuresBefore'];normalized=copy.deepcopy(current)
