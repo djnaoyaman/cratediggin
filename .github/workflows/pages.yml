@@ -180,6 +180,7 @@ jobs:
           server=$!
           trap 'kill "$server"' EXIT
           node scripts/verify_artifacts_credits_browser.cjs
+          node scripts/verify_feature_swipe_browser.cjs
           player_intent_status=0
           naming_status=0
           node scripts/verify_player_intent_browser.cjs || player_intent_status=$?
@@ -241,7 +242,6 @@ jobs:
           node scripts/verify_playback_browser.cjs
           node scripts/verify_graffiti_browser.cjs
           node scripts/verify_feature_portraits_browser.cjs
-          node scripts/verify_feature_swipe_browser.cjs
           node scripts/verify_social_sharing_browser.cjs
           node scripts/verify_url_migration_browser.cjs
           node scripts/verify_profile_notes_browser.cjs
