@@ -14,6 +14,8 @@ def historical_editorial_record(record):
    return copy.deepcopy(c['before'])
  return record
 def historical_editorial_file(path,data):
+ from approved_photo_replacement import historical_photo_file
+ data=historical_photo_file(path,data)
  c=FIXTURE['fileCorrections'].get(path)
  if c:
   assert hashlib.sha256(data).hexdigest()==c['afterSHA256'], 'Unapproved shelf drift'

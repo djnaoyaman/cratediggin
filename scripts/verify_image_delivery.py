@@ -26,8 +26,8 @@ for r in rows:
  if source.exists():
   source_count+=1
   assert sha(source.read_bytes())==r['inputSha256'],'Original source mismatch: '+str(source)
-expected={'feature-pete-rock-photo.webp','feature-beastie-boys-photo.webp','feature-public-enemy-photo.webp','feature-erick-sermon-photo.webp','feature-epmd-photo.webp'}
-assert expected<=set(resized),resized
+# All five formerly oversized producer/artist photos are explicitly retired.
+assert not resized,resized
 assert source_count>=520,source_count
 assert report['outputBytes']<=report['inputBytes']
 print(f"All {len(rows)} delivered images <=2400px; {len(resized)} proportional derivatives; all other decoded pixels preserved; original source bytes verified")

@@ -369,3 +369,11 @@ body[data-art-mode=video] .art-signature{display:none}
 #home-install-dialog::backdrop{background:rgba(15,23,42,.58)}
 #home-install-dialog h2{font-size:26px;line-height:1.3;margin:0 0 16px}#home-install-dialog h3{font-size:16px}#home-install-dialog p,#home-install-dialog li{font-size:15px;line-height:1.8}#home-install-dialog ol{padding-left:24px}#home-install-dialog button{min-height:44px;min-width:88px;padding:10px 16px;border:1px solid var(--ink);background:var(--ink);color:white;font:inherit;cursor:pointer;margin:8px 8px 0 0}#home-install-dialog :focus-visible{outline:3px solid var(--blue);outline-offset:3px}
 @media(max-width:600px){.top nav #home-install-open{grid-column:1 / -1;justify-self:start;max-width:100%}}
+
+/* Supplied finished collages: preserve their full composition and separate existing tag art. */
+.feature-card--provided{padding-top:0}
+.feature-portrait--provided{height:390px;display:grid;grid-template-rows:minmax(0,1fr) 64px;gap:8px;background:var(--paper);overflow:hidden}
+.feature-portrait--provided .feature-photo{position:static;width:100%;height:100%;object-fit:contain!important;object-position:50% 50%!important;filter:none;mix-blend-mode:normal}
+.feature-portrait--provided:after,.feature-portrait--provided .feature-paper-grain,.feature-portrait--provided .feature-tape{display:none}
+.feature-portrait--provided .feature-name-tag{position:static;display:block;align-self:center;justify-self:center;width:92%;height:64px;max-height:64px;object-fit:contain;transform:none}
+@media(max-width:640px){.feature-portrait--provided{height:380px}}

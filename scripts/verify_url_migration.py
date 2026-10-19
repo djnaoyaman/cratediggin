@@ -37,13 +37,13 @@ for route,p in pages.items():
    assert 'class="track-artwork"' in main, 'Artwork must be in the article, not the global hero'
    fig=main.split('<figure class="track-artwork">')[1].split('</figure>')[0]
    assert 'width="' in fig and 'height="' in fig and 'CRATE DIGGIN｜DJ Naoyaman' in fig
-for kind,count,photo in [('artists',10,8),('producers',5,5)]:
+for kind,count,photo in [('artists',10,9),('producers',5,5)]:
  s=(d/kind/'index.html').read_text();assert s.count('class="feature-poster"')==count;assert s.count('class="feature-photo"')==photo
 sitemap=ET.parse(d/'sitemap.xml');ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9','i':'http://www.google.com/schemas/sitemap-image/1.1'}
 urls=[n.text for n in sitemap.findall('s:url/s:loc',ns)];assert len(urls)==len(set(urls))==len(pages)
 assert set(urls)=={p['url'] for p in pages.values()}
 personal_images=sum(len(f.get('personalFeature',{}).get('photos',[])) for f in json.loads((r/'features.json').read_text())['features'] if '#/feature/'+f['id'] in pages)
-images=sitemap.findall('s:url/i:image/i:loc',ns);assert len(images)==len(ready)+28+(1 if (r/'editor_profile.json').exists() else 0)+personal_images
+images=sitemap.findall('s:url/i:image/i:loc',ns);assert len(images)==len(ready)+29+(1 if (r/'editor_profile.json').exists() else 0)+personal_images
 for n in images: assert (d/n.text.removeprefix(host+'/')).is_file()
 assert len(list((d/'artists').glob('[0-9a-f]'*16+'.html')))==len({t['artist'] for t in tracks})
 print(f'{len(mapping)} old URL mappings, {len(pages)} canonical pages, {len(images)} image entries, unchanged artist directory verified')

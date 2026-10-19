@@ -165,10 +165,13 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
     for f in features:
         relative = 'features/' + f['id'] + '.html'
         url = host + '/' + relative
-        from brand_assets import save_social_image
+        from brand_assets import save_social_image, save_feature_social_image
         feature_image = 'feature-og/' + f['id'] + '.jpg'
         (dist / 'feature-og').mkdir(exist_ok=True)
-        save_social_image(dist / feature_image, {'title': f['name'], 'artist': 'Artist & producer features / DJ Naoyaman'})
+        if f.get('visual',{}).get('precomposed'):
+            save_feature_social_image(dist/feature_image, root/'src/assets'/f['visual']['photo'])
+        else:
+            save_social_image(dist / feature_image, {'title': f['name'], 'artist': 'Artist & producer features / DJ Naoyaman'})
         description = f['name'] + '特集。' + f['editorial']['title'] + ' ' + f['editorial']['context']
         add('#/feature/' + f['id'], relative, f['name'] + ' — ' + f['editorial']['title'] + ' / CRATEDIGGIN\'',
             description, image=feature_image, graph=[article(url, f['editorial']['title'], description, feature_image,
@@ -189,7 +192,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
             return '<a class="feature-card" href="'+href+'">'+copy+'</a>'
         if v.get('nameOnly'):
             return '<article class="feature-poster"><a class="feature-card feature-card--portrait" href="'+href+'"><div class="feature-portrait feature-portrait--name"><span class="feature-paper-grain" aria-hidden="true"></span><span class="feature-tape" aria-hidden="true">'+('ARTIST FILE' if f['type']=='artist' else 'PRODUCER FILE')+'</span><img class="feature-name-tag" src="'+base_path+'/'+esc(v['tag'],quote=True)+'" alt="'+esc(v['alt'],quote=True)+'" loading="lazy"></div><div class="feature-poster-copy">'+copy+'</div></a></article>'
-        return ('<article class="feature-poster"><a class="feature-card feature-card--portrait" href="'+href+'"><div class="feature-portrait '+('feature-portrait--contain' if v.get('fit')=='contain' else '')+'">'
+        return ('<article class="feature-poster"><a class="feature-card feature-card--portrait '+('feature-card--provided' if v.get('precomposed') else '')+'" href="'+href+'"><div class="feature-portrait '+('feature-portrait--provided ' if v.get('precomposed') else '')+('feature-portrait--contain' if v.get('fit')=='contain' else '')+'">'
                 '<img class="feature-photo" src="'+base_path+'/'+esc(v['photo'],quote=True)+'" alt="'+esc(v['alt'],quote=True)+'" loading="lazy" style="object-position:'+esc(v.get('focus','50% 35%'),quote=True)+'">'
                 '<span class="feature-paper-grain" aria-hidden="true"></span><span class="feature-tape" aria-hidden="true">'+('ARTIST FILE' if f['type']=='artist' else 'PRODUCER FILE')+'</span>'
                 '<img class="feature-name-tag" src="'+base_path+'/'+esc(v['tag'],quote=True)+'" alt="" loading="eager"></div><div class="feature-poster-copy">'+copy+'</div></a>'+
