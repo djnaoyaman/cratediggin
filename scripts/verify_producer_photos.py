@@ -2,13 +2,14 @@
 from pathlib import Path
 import json,hashlib,copy,io
 from PIL import Image
+from approved_browser_tools import historical_browser_tools_file,historical_browser_tools_social
 from approved_photo_replacement import FIXTURE as f,historical_photo_file
 R=Path(__file__).resolve().parents[1];D=R/'dist';sha=lambda b:hashlib.sha256(b).hexdigest()
 ids={'dj-shadow','j-dilla','madlib','pete-rock','erick-sermon','tribe','gang-starr','public-enemy','nas','az','de-la-soul','beastie-boys','main-source','epmd'}
 assert {a['id'] for a in f['assets']}==ids
 for p,c in f['files'].items():assert historical_photo_file(p,(R/p).read_bytes())==c['before'].encode()
-for p,h in f['protected'].items():assert sha((R/p).read_bytes())==h,p
-old=json.loads(f['files']['features.json']['before']);new=json.loads((R/'features.json').read_text());norm=copy.deepcopy(new)
+for p,h in f['protected'].items():assert sha(historical_browser_tools_file(p,(R/p).read_bytes()))==h,p
+old=json.loads(f['files']['features.json']['before']);new=json.loads(historical_browser_tools_file('features.json',(R/'features.json').read_bytes()));norm=copy.deepcopy(new)
 assert len(new['features'])==15
 for item in norm['features']:
  previous=next(x for x in old['features'] if x['id']==item['id'])
@@ -47,7 +48,7 @@ for a in f['assets']:
   graph=json.loads((D/meta['metadataPath'].removeprefix('/cratediggin/')).read_text())
   assert meta['image'] in json.dumps(graph)
 assert len(f['unchangedSocialImages'])==500
-for path,h in f['unchangedSocialImages'].items():assert sha((D/path).read_bytes())==h,path
+for path,h in f['unchangedSocialImages'].items():assert sha(historical_browser_tools_social(path,(D/path).read_bytes()))==h,path
 # No public file may point to a retired producer photo.
 for p in D.rglob('*'):
  if p.is_file() and p.suffix in {'.html','.js','.json','.md','.xml'}:

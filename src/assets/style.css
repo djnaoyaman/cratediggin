@@ -364,16 +364,36 @@ body[data-art-mode=video] .art-signature{display:none}
 }
 
 /* User-initiated home-screen entry, with native dialog focus containment. */
-#home-install-open{font:inherit;font-size:12px;min-height:44px;padding:8px 12px;border:1px solid currentColor;background:transparent;color:inherit;cursor:pointer}
-#home-install-dialog{box-sizing:border-box;width:min(560px,calc(100% - 32px));max-height:calc(100dvh - 32px);overflow:auto;padding:24px;border:1px solid var(--line);background:var(--paper);color:var(--ink)}
-#home-install-dialog::backdrop{background:rgba(15,23,42,.58)}
-#home-install-dialog h2{font-size:26px;line-height:1.3;margin:0 0 16px}#home-install-dialog h3{font-size:16px}#home-install-dialog p,#home-install-dialog li{font-size:15px;line-height:1.8}#home-install-dialog ol{padding-left:24px}#home-install-dialog button{min-height:44px;min-width:88px;padding:10px 16px;border:1px solid var(--ink);background:var(--ink);color:white;font:inherit;cursor:pointer;margin:8px 8px 0 0}#home-install-dialog :focus-visible{outline:3px solid var(--blue);outline-offset:3px}
-@media(max-width:600px){.top nav #home-install-open{grid-column:1 / -1;justify-self:start;max-width:100%}}
+#home-install-open,#bookmark-open{font:inherit;font-size:12px;min-height:44px;padding:8px 12px;border:1px solid currentColor;background:transparent;color:inherit;cursor:pointer}
+#home-install-dialog,#bookmark-dialog{box-sizing:border-box;width:min(560px,calc(100% - 32px));max-height:calc(100dvh - 32px);overflow:auto;padding:24px;border:1px solid var(--line);background:var(--paper);color:var(--ink)}
+#home-install-dialog::backdrop,#bookmark-dialog::backdrop{background:rgba(15,23,42,.58)}
+#home-install-dialog h2,#bookmark-dialog h2{font-size:26px;line-height:1.3;margin:0 0 16px}#home-install-dialog h3,#bookmark-dialog h3{font-size:16px}#home-install-dialog p,#bookmark-dialog p,#home-install-dialog li,#bookmark-dialog li{font-size:15px;line-height:1.8}#home-install-dialog ol,#bookmark-dialog ol{padding-left:24px}#home-install-dialog button,#bookmark-dialog button{min-height:44px;min-width:88px;padding:10px 16px;border:1px solid var(--ink);background:var(--ink);color:white;font:inherit;cursor:pointer;margin:8px 8px 0 0}#home-install-dialog :focus-visible,#bookmark-dialog :focus-visible{outline:3px solid var(--blue);outline-offset:3px}
+.browser-save-tools[hidden]{display:none}.browser-save-tools{display:flex;flex-wrap:wrap;gap:6px;min-width:0;max-width:100%}.browser-save-tools>button{max-width:100%}@media(max-width:600px){.top nav .browser-save-tools{grid-column:1 / -1;justify-self:start;width:100%}}
 
 /* Supplied finished collages: preserve their full composition and separate existing tag art. */
 .feature-card--provided{padding-top:0}
-.feature-portrait--provided{height:390px;display:grid;grid-template-rows:minmax(0,1fr) 64px;gap:8px;background:var(--paper);overflow:hidden}
-.feature-portrait--provided .feature-photo{position:static;width:100%;height:100%;object-fit:contain!important;object-position:50% 50%!important;filter:none;mix-blend-mode:normal}
+.feature-portrait--provided{height:auto;display:grid;grid-template-rows:auto 64px;gap:8px;background:var(--paper);overflow:hidden}
+.feature-portrait--provided .feature-photo{position:static;width:100%;height:auto;aspect-ratio:1456 / 816;object-fit:contain!important;object-position:50% 50%!important;filter:none;mix-blend-mode:normal}
 .feature-portrait--provided:after,.feature-portrait--provided .feature-paper-grain,.feature-portrait--provided .feature-tape{display:none}
 .feature-portrait--provided .feature-name-tag{position:static;display:block;align-self:center;justify-self:center;width:92%;height:64px;max-height:64px;object-fit:contain;transform:none}
-@media(max-width:640px){.feature-portrait--provided{height:380px}}
+/* The supplied signature is the Editor identity, not a second boxed nameplate. */
+.editor-profile-heading{padding:0;border:0;background:transparent;margin:0 0 32px}
+.editor-profile-heading h1{margin:0;line-height:1}
+.editor-profile-heading .editor-signature{width:min(100%,600px);height:auto;margin:0;object-fit:contain}
+.editor-profile-heading .editor-real-name{margin:12px 0 0;font-size:15px;line-height:1.8}
+.editor-name-accessible{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+
+/* Quiet browsing controls: one search rule, spacing for groups, one line per result. */
+#view .advanced-filters{border:0;margin:8px 0 20px}
+#view .advanced-filters>summary{min-height:44px;padding:10px 0}
+#view .crate-sort{border-top:0;padding-top:0;margin-top:12px}
+#view .crate-sort select,#view .filter-fields select{min-height:44px}
+#view .list-tools{margin:16px 0 24px;gap:16px}
+#view #view-toggle{border:0;background:var(--off);color:var(--ink);padding:10px 12px;min-height:44px}
+#view .results-pagination{border:0;margin:16px 0;padding:8px 0;gap:8px 16px}
+#view .results-pagination button{border:0;background:transparent;padding:8px;min-height:44px}
+#view .results-pagination select{border:1px solid var(--line);min-height:44px;background:var(--paper)}
+#view .record-row{border-top:0;border-bottom:1px solid var(--line)}
+#view .record-row>.record-card{border:0}
+#back-to-top.back-to-top-inline{position:static;display:block;width:max-content;max-width:100%;margin:20px 0 20px auto;box-shadow:none;border:0;background:var(--off);min-height:44px}
+#back-to-top.back-to-top-inline[hidden],body[data-art-owner] #back-to-top.back-to-top-inline{display:none}
