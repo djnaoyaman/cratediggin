@@ -1,11 +1,13 @@
 """Normalize only the exact audited media correction for immutable historical guards."""
 from pathlib import Path
 import json, hashlib, copy
+from approved_editorial_corrections import historical_editorial_record
 ROOT=Path(__file__).resolve().parents[1]
 FIXTURE=json.loads((ROOT/'scripts/fixtures/approved-media-correction.json').read_text())
 def digest(value):
     return hashlib.sha256(json.dumps(value,ensure_ascii=False,sort_keys=True,separators=(',',':')).encode()).hexdigest()
 def historical_record(record):
+    record=historical_editorial_record(record)
     for correction in FIXTURE['corrections']:
         if record['id']==correction['id']:
             assert digest(correction['before'])==correction['beforeSHA256']

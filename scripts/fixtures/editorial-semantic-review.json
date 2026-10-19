@@ -1,0 +1,51 @@
+{
+  "scope": "three corrected works only; not semantic certification of the catalog",
+  "works": {
+    "j-live-hush-the-crowd": {
+      "afterSHA256": "42cc0aa953a36869cc3276493cf8730cf4ea924c2c71311eec0743867cb68dfe",
+      "reviewed": true,
+      "proposition": "An opening slot while the audience waited outside explains later support for opening acts.",
+      "contrasts": [
+        "Not a generic audience-response or skills premise."
+      ],
+      "sources": [
+        "https://www.whudat.com/interview/pages/j-live"
+      ]
+    },
+    "dj-shadow-midnight-in-a-perfect-world": {
+      "afterSHA256": "d0ab3b3ef8e958a25b6ee10b8e714dc7b78747c1c0916adc2479730c0af118a0",
+      "reviewed": true,
+      "proposition": "Shadow combined a loop with an existing beat, but could no longer reconstruct the beat’s processing when recalling the work.",
+      "contrasts": [
+        "Passin Me By concerns collective songwriting and voices, not irrecoverable processing."
+      ],
+      "sources": [
+        "https://thequietus.com/interviews/dj-shadow-reconstructed-best-of-interview/"
+      ]
+    },
+    "a-tribe-called-quest-electric-relaxation": {
+      "afterSHA256": "404f048029366411dc719faecafca5fd753c9f73b9074436b4c9b0ca301b34e6",
+      "reviewed": true,
+      "proposition": "The sampled composer learned of the record after release and bought it to hear its new life.",
+      "contrasts": [
+        "Lyrics To Go concerns meter; rejected Electric v1 reused that premise.",
+        "Verses concerns a pre-session invitation; this is post-release discovery.",
+        "Can I Kick It concerns revenue allocation, not creator reception.",
+        "Street Dreams concerns approval and arrangement, not this discovery narrative."
+      ],
+      "sources": [
+        "https://postgenre.org/reboot-ronnie-foster-ii/",
+        "https://www.powmag.net/p/ronnie-foster-interview"
+      ]
+    }
+  },
+  "reviewedFields": [
+    "essayTitle",
+    "deck",
+    "essay",
+    "listening",
+    "appended sources",
+    "essaySources"
+  ],
+  "exclusions": "Unchanged context, facts, audio and historical source claims are preserved, not newly certified."
+}
