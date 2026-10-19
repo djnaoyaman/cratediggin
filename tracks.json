@@ -57320,5 +57320,277 @@
       "paletteSourceUrl": "https://www.thegoodoldayz.com/album/runaway-slave/25121.html",
       "paletteNote": "オリジナル期ジャケットを参照した近似配色。印刷色の厳密な指定値ではありません。"
     }
+  },
+  {
+    "id": "artifacts-whassup-now-muthafucka",
+    "title": "Whassup Now Muthafucka?",
+    "artist": "Artifacts",
+    "year": 1994,
+    "album": "Between a Rock and a Hard Place",
+    "producer": "T-Ray",
+    "essayTitle": "冒頭の怒りを、制作日の記憶からたどる",
+    "deck": "El Da Senseiが振り返る制作日の口論と、T-Rayが語る12インチの選曲。1994年のアルバムを締めくくる一曲に、二つの来歴が重なる。",
+    "essay": [
+      "El Da Senseiは2006年の取材で、この曲をT-Rayと二人で作ったと振り返る。その日、Tame OneはT-Rayの家に来ていなかった。後で曲を聴いたTameと口論になり、それが冒頭で怒っている理由だという。声の勢いを単なる演技と決めつける前に、本人が語った制作日の出来事を押さえておきたい。",
+      "T-Rayが語るのは、もう一つの制作判断だ。「Wrong Side of Da Tracks」を表に据え、「Whassup」を裏に置く。三曲に加え、ボーナス・ビートやアカペラも入れ、DJに必要なものを渡したかったという。1994年の13曲入りCDでは最後に収まる一曲が、12インチでは盤全体の使い方を考えた選曲の一部だった。",
+      "Elによれば、録音前にはKool G Rapの「On the Run」を聴いていた。そして後年、この曲を使うバトルDJの話題ではMista Sinistaの扱いに驚いたと答えている。作り手が直前に聴いていた音楽と、完成後にDJが見つけた使い道。その両側が、El自身の証言に残っている。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        0
+      ]
+    ],
+    "samples": [],
+    "sampleStatus": "主なサンプル元は未確認です。",
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "sources": [
+      {
+        "label": "AllHipHop — El Da Sensei本人インタビュー（2006年）",
+        "url": "https://allhiphop.com/features/el-da-sensei-el-producto/",
+        "kind": "本人インタビュー",
+        "scope": "制作日の出来事、録音前の参照曲と、その後のDJによる扱いについての回想。"
+      },
+      {
+        "label": "Unkut — T-Ray本人インタビュー Part 2（2007年）",
+        "url": "https://unkut.com/2007/08/t-ray-the-unkut-interview-part-2/",
+        "kind": "制作者本人インタビュー",
+        "scope": "Wrong SideとWhassupを収めた12インチの選曲と、DJ向けの構成意図。"
+      },
+      {
+        "label": "Rhino Atlantic / Artifacts - Topic — Whassup Now Muthafucka?",
+        "url": "https://www.youtube.com/watch?v=7kzxthQQPEU",
+        "kind": "正規配信メタデータ",
+        "scope": "作品名、収録アルバムと1994年原盤の情報。"
+      },
+      {
+        "label": "Between a Rock and a Hard Place — 1994年CD裏ジャケット",
+        "url": "https://www.thegoodoldayz.com/files/tgod/covers%20Discogs/b/between-a-rock-and-a-hard-place-21473/discogs/between-a-rock-and-a-hard-place-21473-600-471-2.jpg",
+        "kind": "原盤画像（第三者アーカイブ）",
+        "scope": "Big Beat／Atlanticの表記と、13曲入りCDの曲順。"
+      },
+      {
+        "label": "The Good Ol’Dayz — Artifacts / Between a Rock and a Hard Place",
+        "url": "https://www.thegoodoldayz.com/album/between-a-rock-and-a-hard-place-21473/21473.html",
+        "kind": "レコード資料・クレジット転記（二次資料）",
+        "scope": "Newark, New Jerseyという活動地域と、曲別のT-Ray制作クレジット。"
+      }
+    ],
+    "category": "Hip Hop",
+    "sounds": [],
+    "moods": [
+      "掘り下げる"
+    ],
+    "listening": [],
+    "facts": [],
+    "collections": [
+      "east"
+    ],
+    "context": "El Da Senseiが振り返る制作日の口論と、T-Rayが語る12インチの選曲。1994年のアルバムを締めくくる一曲に、二つの来歴が重なる。",
+    "noteReviewedAt": "2026-10-19",
+    "artists": [
+      "Artifacts"
+    ],
+    "connections": [
+      "artifacts-wrong-side-of-da-tracks",
+      "artifacts-c-mon-wit-da-git-down"
+    ],
+    "region": "New Jersey",
+    "scene": "Newark, New Jersey",
+    "label": "Big Beat / Atlantic",
+    "producers": [
+      "T-Ray"
+    ],
+    "yearBasis": "1994年のBig Beat／Atlantic盤。原盤CDと正規配信の原盤年を照合し、配信開始日とは区別。",
+    "editorialCrates": [],
+    "aliases": [],
+    "datePublished": "2026-10-19",
+    "addedOrder": 493,
+    "editorialStatus": "公式配信のメタデータで、作品情報・日本の配信対象・埋め込み許可を照合。日本国内からの実再生と埋め込み再生は未確認です。",
+    "versionBasis": "Original studio album identity supported by official distributor metadata; exact mastering and actual playback unverified.",
+    "youtube": {
+      "id": "7kzxthQQPEU",
+      "url": "https://www.youtube.com/watch?v=7kzxthQQPEU",
+      "title": "Whassup Now Muthafucka?",
+      "channel": "Artifacts - Topic",
+      "type": "公式配信",
+      "official": true,
+      "verified": "2026-10-19",
+      "duration": "PT2M25S",
+      "version": "Original studio album recording metadata",
+      "versionBasis": "Original studio album identity supported by official distributor metadata; exact mastering and actual playback unverified.",
+      "embedUrl": "https://www.youtube.com/embed/7kzxthQQPEU",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanAvailableMetadata": true,
+      "embeddableMetadata": true,
+      "channelId": "UCJxjeq0-p_0Q0u5J2ihx-cw"
+    },
+    "art": {
+      "word": "WHASSUP NOW MUTHAFUCKA?",
+      "lines": [
+        "WHASSUP NOW",
+        "MUTHAFUCKA?"
+      ],
+      "tag": "ARTIFACTS",
+      "style": "piece",
+      "seed": 435728107,
+      "palette": [
+        "#A23F37",
+        "#C56D35",
+        "#C79846",
+        "#F3F2C3",
+        "#D9E5C2",
+        "#332F2A"
+      ],
+      "paletteSource": "Between a Rock and a Hard Place",
+      "paletteSourceUrl": "https://www.thegoodoldayz.com/files/tgod/covers%20Discogs/b/between-a-rock-and-a-hard-place-21473/discogs/between-a-rock-and-a-hard-place-21473-600-600-0.jpg",
+      "paletteNote": "オリジナル期CDジャケットを目視参照した近似配色。印刷色の厳密な指定値ではありません。"
+    }
+  },
+  {
+    "id": "diamond-the-psychotic-neurotics-i-went-for-mine",
+    "title": "I Went for Mine",
+    "artist": "Diamond & The Psychotic Neurotics",
+    "year": 1992,
+    "album": "Stunts, Blunts & Hip Hop",
+    "producer": "Jazzy Jay; co-produced by Diamond D",
+    "essayTitle": "「刻め」と教えた師匠の、珍しいループ",
+    "deck": "Diamond Dに音を切り分ける技術を教えたJazzy Jay。その師匠が手がけた「I Went for Mine」を、Diamond自身は意外なループの曲として記憶している。",
+    "essay": [
+      "DiamondはJazzy Jayから、レコードをそのまま繰り返すだけでなく、断片を組み合わせて自分のループを作ることを学んだと語る。ところが「I Went for Mine」については、プログラムしたドラムを用いながらもループの曲になったと説明する。本人が感じた意外さは、師匠の普段の教えを知ってこそ見えてくる。",
+      "オリジナルCDのブックレットは、この曲のプロデューサーをJazzy Jay、共同制作をDiamond、スクラッチをMaster Teeと記す。Diamond名義のアルバムだからといって、全工程が一人の仕事とは限らない。師弟関係についての回想に、当時のクレジットが具体的な担当を与えている。",
+      "音楽ライターOliver Wangは2006年、この曲が当初のCDとカセットには入り、アナログLPには入っていなかったことを振り返っている。現在の配信で同じアルバムとして並んでいても、最初に手にした形式によって聴ける曲は違った。「隠れた曲」という印象には、作品評価だけでなく盤の構成も関わっている。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        3
+      ]
+    ],
+    "samples": [],
+    "sampleStatus": "主なサンプル元は未確認です。",
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "sources": [
+      {
+        "label": "Albumism — Jesse DuckerによるDiamond D本人インタビュー（2017年12月29日）",
+        "url": "https://albumism.com/interviews/the-enduring-duality-and-dynamism-of-hip-hop-legend-diamond-d",
+        "kind": "本人インタビュー",
+        "scope": "Jazzy Jayから学んだ音の切り分け方と、I Went for Mineのループについての回想。 ブロンクスでの来歴とD.I.T.C.の文脈。"
+      },
+      {
+        "label": "Stunts, Blunts & Hip Hop — CDブックレット、曲1〜11",
+        "url": "https://www.thegoodoldayz.com/files/tgod/covers%20Discogs/s/stunts-blunts-hip-hop/discogs/stunts-blunts-hip-hop-600-600-4.jpg",
+        "kind": "原盤画像（第三者アーカイブ）",
+        "scope": "本曲のJazzy Jay制作、Diamond共同制作、Master Teeのスクラッチと、Best Kept Secretの制作担当。"
+      },
+      {
+        "label": "UMG / Diamond & The Psychotic Neurotics - Topic — I Went For Mine",
+        "url": "https://www.youtube.com/watch?v=2D-MC50InyE",
+        "kind": "正規配信メタデータ",
+        "scope": "作品名、収録アルバムと1992年原盤の情報。"
+      },
+      {
+        "label": "Soul Sides — Oliver Wang / DIAMOND + BUSTA: CREDIT IS DUE（2006年4月3日）",
+        "url": "https://soul-sides.com/2006/04/diamond-busta-credit-is-due.html",
+        "kind": "音楽ライターによる歴史的解説",
+        "scope": "発売当初のCD・カセットとアナログ盤の収録差についての記述。"
+      },
+      {
+        "label": "Stunts, Blunts & Hip Hop — CDブックレット、曲12〜23",
+        "url": "https://www.thegoodoldayz.com/files/tgod/covers%20Discogs/s/stunts-blunts-hip-hop/discogs/stunts-blunts-hip-hop-600-600-5.jpg",
+        "kind": "原盤画像（第三者アーカイブ）",
+        "scope": "FreestyleのDiamond制作とThe Large Professorの共同制作。"
+      },
+      {
+        "label": "Stunts, Blunts & Hip Hop — 1992年CD裏ジャケット",
+        "url": "https://www.thegoodoldayz.com/files/tgod/covers%20Discogs/s/stunts-blunts-hip-hop/discogs/stunts-blunts-hip-hop-600-511-1.jpg",
+        "kind": "原盤画像（第三者アーカイブ）",
+        "scope": "1992年の原盤年、ChemistryとMercuryの表記、収録順と演奏時間。"
+      }
+    ],
+    "category": "Hip Hop",
+    "sounds": [],
+    "moods": [
+      "掘り下げる"
+    ],
+    "listening": [],
+    "facts": [],
+    "collections": [
+      "east"
+    ],
+    "context": "Diamond Dに音を切り分ける技術を教えたJazzy Jay。その師匠が手がけた「I Went for Mine」を、Diamond自身は意外なループの曲として記憶している。",
+    "noteReviewedAt": "2026-10-19",
+    "artists": [
+      "Diamond & The Psychotic Neurotics"
+    ],
+    "connections": [
+      "diamond-d-best-kept-secret",
+      "diamond-the-psychotic-neurotics-freestyle-yo-that-s-that-shit"
+    ],
+    "region": "New York",
+    "scene": "Bronx / D.I.T.C.",
+    "label": "Chemistry / Mercury",
+    "producers": [
+      "Jazzy Jay",
+      "Diamond D"
+    ],
+    "yearBasis": "1992年のChemistry／Mercury盤。原盤CDの表記と正規配信の原盤年を照合し、再発・配信開始日とは区別。",
+    "editorialCrates": [],
+    "aliases": [],
+    "datePublished": "2026-10-19",
+    "addedOrder": 494,
+    "editorialStatus": "公式配信のメタデータで、作品情報・日本の配信対象・埋め込み許可を照合。日本国内からの実再生と埋め込み再生は未確認です。",
+    "versionBasis": "Original studio album identity supported by official distributor metadata; exact mastering and actual playback unverified.",
+    "youtube": {
+      "id": "2D-MC50InyE",
+      "url": "https://www.youtube.com/watch?v=2D-MC50InyE",
+      "title": "I Went For Mine",
+      "channel": "Diamond & The Psychotic Neurotics - Topic",
+      "type": "公式配信",
+      "official": true,
+      "verified": "2026-10-19",
+      "duration": "PT3M19S",
+      "version": "Original studio album recording metadata",
+      "versionBasis": "Original studio album identity supported by official distributor metadata; exact mastering and actual playback unverified.",
+      "embedUrl": "https://www.youtube.com/embed/2D-MC50InyE",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanAvailableMetadata": true,
+      "embeddableMetadata": true,
+      "channelId": "UCymQzV2rUMuXj7jd3Dnww2g"
+    },
+    "art": {
+      "word": "I WENT FOR MINE",
+      "lines": [
+        "I WENT",
+        "FOR MINE"
+      ],
+      "tag": "DIAMOND & THE PSYCHOTIC NEUROTICS",
+      "style": "piece",
+      "seed": 1088908132,
+      "palette": [
+        "#F5F3E8",
+        "#16140C",
+        "#66ADA9",
+        "#2B827F",
+        "#D9AD42",
+        "#E55B47"
+      ],
+      "paletteSource": "Stunts, Blunts & Hip Hop",
+      "paletteSourceUrl": "https://www.thegoodoldayz.com/files/tgod/covers%20Discogs/s/stunts-blunts-hip-hop/discogs/stunts-blunts-hip-hop-600-595-0.jpg",
+      "paletteNote": "オリジナル期CDジャケットを目視参照した近似配色。印刷色の厳密な指定値ではありません。"
+    }
   }
 ]

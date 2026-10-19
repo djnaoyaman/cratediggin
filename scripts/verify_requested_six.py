@@ -1,3 +1,4 @@
+from approved_requested_two import historical_intake_tracks, historical_intake_file
 """Protect all493 previously published works and validate the six requested additions."""
 from pathlib import Path
 import json,hashlib
@@ -5,7 +6,7 @@ from approved_media_correction import historical_record
 from PIL import Image
 R=Path(__file__).resolve().parents[1]
 def digest(x):return hashlib.sha256(json.dumps(x,ensure_ascii=False,sort_keys=True,separators=(',',':')).encode()).hexdigest()
-f=json.loads((R/'scripts/fixtures/requested-six.json').read_text());baseline=f['published493'];t=json.loads((R/'tracks.json').read_text());ids=[x['id'] for x in t];by={x['id']:x for x in t}
+f=json.loads((R/'scripts/fixtures/requested-six.json').read_text());baseline=f['published493'];t=historical_intake_tracks();ids=[x['id'] for x in t];by={x['id']:x for x in t}
 assert len(t)==499 and len(set(ids))==499 and ids[:493]==baseline['orderedIds']
 for id,h in baseline['records'].items():assert digest(historical_record(by[id]))==h, 'Published record changed: '+id
 for name,p in baseline['sourcePrefixes'].items():
@@ -29,5 +30,5 @@ for id in f['ids']:
   assert forbidden not in json.dumps([x['essay'],x['sources'],deep[(x['artist'],x['title'])]],ensure_ascii=False)
  if not id.startswith('redman-'):assert x['samples']==[] and '未確認' in x['sampleStatus']
 r=by['redman-a-day-of-sooperman-lover'];assert len(r['samples'])==1;s=r['samples'][0];assert s.get('main') is not True and s['title']=='Superman Lover' and s['youtube']['id']=='fQrAQU9c3wY' and s['sources']
-assert not set(f['held'])&set(ids)
+assert not set(f['held'])&{x['id'] for x in json.loads((R/'tracks.json').read_text())}
 print('Six exact requested records; all493 original values/order and new4 assets protected; sources, non-dominant sample, alpha/white paint passed; no audio certification')

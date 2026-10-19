@@ -1,3 +1,4 @@
+from approved_requested_two import historical_intake_tracks, historical_intake_file
 from pathlib import Path
 import json,hashlib,copy
 from PIL import Image
@@ -14,5 +15,5 @@ assert visual['tag']==old['visual']['tag'] and visual['fit']=='contain' and visu
 assert not any(k in visual for k in ['author','license','licenseUrl','source'])
 p=R/'src/assets'/visual['photo'];assert hashlib.sha256(p.read_bytes()).hexdigest()==f['photoSHA256']
 with Image.open(p) as im:assert im.size==(512,512)
-assert len(json.loads((R/'tracks.json').read_text()))==499
+assert len(historical_intake_tracks())==499
 print('499 records and all editorial sources unchanged; only authorized J Dilla visual changed; original512px JPEG hash preserved; no invented license')

@@ -1,3 +1,4 @@
+from approved_requested_two import historical_intake_tracks
 """Exact append-only feature publication; catalog roles are not a discography claim."""
 from pathlib import Path
 import json,hashlib,sys,copy,re
@@ -14,10 +15,10 @@ for path,c in F['files'].items():
  else:raise AssertionError('Unexpected mutation accepted: '+path)
 from approved_home_install_direct import historical_home_install_file
 for path,h in F['protected'].items():assert sha(historical_home_install_file(path,(R/path).read_bytes()))==h,path
-tracks=json.loads((R/'tracks.json').read_text());assert len(tracks)==499
+tracks=json.loads((R/'tracks.json').read_text());historical_tracks=historical_intake_tracks();assert len(historical_tracks)==499 and len(tracks)==501
 source=json.loads((R/'features.json').read_text());before=json.loads(F['files']['features.json']['before']);assert source['features'][:-1]==before['features'];assert len(source['features'])==16
 f=source['features'][-1];assert f['id']=='dj-premier' and f['type']=='producer' and f['names']==['DJ Premier'] and f['allYears'];assert f['visual']['photo']=='feature-dj-premier-provided-collage.webp' and f['visual']['provenance']=='user-provided' and not f['visual'].get('tag')
-roles=role_projection(tracks);approved=F['qualifiedIdentities'];actual={n for n,q in roles.items() if q['tier']!='archive'};assert actual=={x['name'] for x in approved} and len(actual)==42
+roles=role_projection(historical_tracks);approved=F['qualifiedIdentities'];actual={n for n,q in roles.items() if q['tier']!='archive'};assert actual=={x['name'] for x in approved} and len(actual)==42
 for row in approved:
  q=roles[row['name']];assert q['artistIds']==row['artist_ids'] and q['producerIds']==row['producer_ids'];assert q['tier']==row['tier']
 assert sum(q['tier']=='priority' for q in roles.values())==22
@@ -31,11 +32,11 @@ for q in roles.values():assert len(q['artistIds'])==len(set(q['artistIds'])) and
 non_songs={t['id'] for t in tracks if t.get('workType','single')!='single'}
 assert all(not non_songs.intersection(q['artistIds']+q['producerIds']) for q in roles.values())
 # Duplicate input rows do not inflate role counts.
-assert role_projection(tracks+[tracks[0]])==roles
+assert role_projection(tracks+[tracks[0]])==role_projection(tracks)
 # Unknown producers remain unknown, never inferred from group membership.
 fake=[dict(tracks[0],id='unknown-role',artist='New Artist',artists=[],producers=[])];assert role_projection(fake)['New Artist']['producerCount']==0
 for old in source['features'][:-1]:
- selected={t['id'] for t in feature_tracks(tracks,old)};previous=set(F['previousSelections'][old['id']]);assert selected==previous|({'beastie-boys-get-it-together'} if old['id']=='beastie-boys' else set())
+ selected={t['id'] for t in feature_tracks(historical_tracks,old)};previous=set(F['previousSelections'][old['id']]);assert selected==previous|({'beastie-boys-get-it-together'} if old['id']=='beastie-boys' else set())
 allf=qualify_features(tracks,source['features']);assert len(allf)==16 and next(x for x in allf if x['id']=='az')['qualification']['tier']=='archive'
 # Exercise the actual discovery entry point even in Git-less local snapshots.
 # Stop at revision lookup, after checking raw authored inputs rather than projections.

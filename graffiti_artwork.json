@@ -9816,6 +9816,50 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "artifacts-whassup-now-muthafucka",
+      "title": "Whassup Now Muthafucka?",
+      "artist": "Artifacts",
+      "album": "Between a Rock and a Hard Place",
+      "palette": [
+        "#A23F37",
+        "#C56D35",
+        "#C79846",
+        "#F3F2C3",
+        "#D9E5C2",
+        "#332F2A"
+      ],
+      "paletteSource": "Between a Rock and a Hard Place",
+      "paletteNote": "オリジナル期CDジャケットを目視参照した近似配色。印刷色の厳密な指定値ではありません。",
+      "coverReference": "https://www.thegoodoldayz.com/files/tgod/covers%20Discogs/b/between-a-rock-and-a-hard-place-21473/discogs/between-a-rock-and-a-hard-place-21473-600-600-0.jpg",
+      "status": "ready",
+      "image": "assets/graffiti/artifacts-whassup-now-muthafucka-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "diamond-the-psychotic-neurotics-i-went-for-mine",
+      "title": "I Went for Mine",
+      "artist": "Diamond & The Psychotic Neurotics",
+      "album": "Stunts, Blunts & Hip Hop",
+      "palette": [
+        "#F5F3E8",
+        "#16140C",
+        "#66ADA9",
+        "#2B827F",
+        "#D9AD42",
+        "#E55B47"
+      ],
+      "paletteSource": "Stunts, Blunts & Hip Hop",
+      "paletteNote": "オリジナル期CDジャケットを目視参照した近似配色。印刷色の厳密な指定値ではありません。",
+      "coverReference": "https://www.thegoodoldayz.com/files/tgod/covers%20Discogs/s/stunts-blunts-hip-hop/discogs/stunts-blunts-hip-hop-600-595-0.jpg",
+      "status": "ready",
+      "image": "assets/graffiti/diamond-the-psychotic-neurotics-i-went-for-mine-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

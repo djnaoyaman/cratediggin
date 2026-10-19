@@ -3653,5 +3653,53 @@
         ]
       }
     ]
+  },
+  {
+    "artist": "Artifacts",
+    "title": "Whassup Now Muthafucka?",
+    "sections": [
+      {
+        "heading": "DIG：Wrong Side of da Tracks",
+        "text": "T-Rayが同じ12インチの表側に選んだ曲。B面に置いた「Whassup」と、盤の使い方を考えた二曲としてたどれる。",
+        "source": "https://unkut.com/2007/08/t-ray-the-unkut-interview-part-2/",
+        "sourceLabel": "Unkut — T-Ray本人インタビュー Part 2（2007年）",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "heading": "DIG：C'mon wit da Git Down",
+        "text": "同じ1994年盤の2曲目。末尾の「Whassup」から冒頭側へ戻る、アルバム内の聴き順として選びたい。",
+        "source": "https://www.thegoodoldayz.com/files/tgod/covers%20Discogs/b/between-a-rock-and-a-hard-place-21473/discogs/between-a-rock-and-a-hard-place-21473-600-471-2.jpg",
+        "sourceLabel": "Between a Rock and a Hard Place — 1994年CD裏ジャケット",
+        "sources": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "artist": "Diamond & The Psychotic Neurotics",
+    "title": "I Went for Mine",
+    "sections": [
+      {
+        "heading": "DIG：Best Kept Secret",
+        "text": "同じアルバムの2曲目で、制作はDiamond。Jazzy Jayが制作した本曲と、名義人自身の制作曲を並べるための一曲。",
+        "source": "https://www.thegoodoldayz.com/files/tgod/covers%20Discogs/s/stunts-blunts-hip-hop/discogs/stunts-blunts-hip-hop-600-600-4.jpg",
+        "sourceLabel": "Stunts, Blunts & Hip Hop — CDブックレット、曲1〜11",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "heading": "DIG：Freestyle (Yo, That's That Shit)",
+        "text": "同盤18曲目。Diamond制作にThe Large Professorが共同制作で加わる。「I Went for Mine」とは役割の組み合わせが異なる共同作業としてたどれる。",
+        "source": "https://www.thegoodoldayz.com/files/tgod/covers%20Discogs/s/stunts-blunts-hip-hop/discogs/stunts-blunts-hip-hop-600-600-5.jpg",
+        "sourceLabel": "Stunts, Blunts & Hip Hop — CDブックレット、曲12〜23",
+        "sources": [
+          4
+        ]
+      }
+    ]
   }
 ]
