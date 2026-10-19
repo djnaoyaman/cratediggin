@@ -104,3 +104,15 @@ def retire_legacy_social_pngs(dist, track_ids, feature_ids):
             shutil.copy2(old,backup)
             assert backup.read_bytes()==data
             old.unlink()
+
+
+def feature_social_image(source):
+    """Contain the complete supplied collage; no face crop or extra painted overlay."""
+    im=Image.new('RGB',(1200,630),SOCIAL_PAPER)
+    with Image.open(source) as original:
+        art=original.convert('RGBA');art.thumbnail((1200,630),Image.Resampling.LANCZOS)
+        im.paste(art,((1200-art.width)//2,(630-art.height)//2),art)
+    return im
+
+def save_feature_social_image(path,source):
+    feature_social_image(source).save(path,format='JPEG',quality=95,subsampling=0,optimize=True)

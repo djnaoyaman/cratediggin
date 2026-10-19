@@ -25,16 +25,15 @@
       },
       "aliases": [],
       "visual": {
-        "photo": "feature-beastie-boys-photo.webp",
+        "photo": "feature-beastie-boys-provided-collage.webp",
         "tag": "feature-beastie-boys-tag.webp",
-        "alt": "Beastie Boysの実写写真。撮影 Masao Nakagami。",
-        "author": "Masao Nakagami",
-        "source": "https://commons.wikimedia.org/wiki/File:Beastie-boys.jpg",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-        "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 2.0 を適用。",
-        "focus": "60% 50%",
-        "fit": "contain"
+        "alt": "Beastie Boysのコラージュ画像（ユーザー提供）",
+        "fit": "contain",
+        "focus": "50% 50%",
+        "provenance": "user-provided",
+        "credit": "ユーザー提供",
+        "changes": "提供された完成画像の構図・色・人物は変更せず掲載。",
+        "precomposed": true
       }
     },
     {
@@ -61,9 +60,15 @@
       },
       "aliases": [],
       "visual": {
-        "nameOnly": true,
+        "photo": "feature-main-source-provided-collage.webp",
         "tag": "feature-main-source-tag.webp",
-        "alt": "Main Sourceの名前を描いたグラフィティ"
+        "alt": "Main Sourceのコラージュ画像（ユーザー提供）",
+        "fit": "contain",
+        "focus": "50% 50%",
+        "provenance": "user-provided",
+        "credit": "ユーザー提供",
+        "changes": "提供された完成画像の構図・色・人物は変更せず掲載。",
+        "precomposed": true
       }
     },
     {
@@ -132,38 +137,15 @@
       ],
       "identityNote": "A Tribe Called Questの作品と、Q-Tip / The Ummah名義の制作参加曲を同じ入口でたどります。グループ・個人・制作チームは同一名義として扱わず、区分して表示します。",
       "visual": {
-        "photo": "feature-tribe-photo.webp",
+        "photo": "feature-tribe-provided-collage.webp",
         "tag": "feature-tribe-tag.webp",
-        "alt": "A Tribe Called Questの実写写真。撮影 Mikael 'Mika' Väisänen (Q-Tip and Phife Dawg); Girlfierce Photography (Ali Shaheed Muhammad); WRBB 104.9 FM (Jarobi White); montage uploaded by RTSthestardust。",
-        "author": "Mikael 'Mika' Väisänen (Q-Tip and Phife Dawg); Girlfierce Photography (Ali Shaheed Muhammad); WRBB 104.9 FM (Jarobi White); montage uploaded by RTSthestardust",
-        "source": "https://commons.wikimedia.org/wiki/File:A_Tribe_Called_Quest_montage.png",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 4.0 (montage; see component credits) を適用。 実写写真を組み合わせたモンタージュ。",
-        "focus": "50% 50%",
+        "alt": "A Tribe Called Questのコラージュ画像（ユーザー提供）",
         "fit": "contain",
-        "components": [
-          {
-            "label": "Q-Tip",
-            "source": "https://commons.wikimedia.org/wiki/File:Q_tip-03.jpg",
-            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
-          },
-          {
-            "label": "Ali Shaheed Muhammad",
-            "source": "https://commons.wikimedia.org/wiki/File:Ali_Shaheed_Muhammad_2008.jpg",
-            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
-          },
-          {
-            "label": "Phife Dawg",
-            "source": "https://commons.wikimedia.org/wiki/File:Phife_Dawg-mika.jpg",
-            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
-          },
-          {
-            "label": "Jarobi White",
-            "source": "https://commons.wikimedia.org/wiki/File:Jarobi_White.jpg",
-            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
-          }
-        ]
+        "focus": "50% 50%",
+        "provenance": "user-provided",
+        "credit": "ユーザー提供",
+        "changes": "提供された完成画像の構図・色・人物は変更せず掲載。",
+        "precomposed": true
       }
     },
     {
@@ -190,16 +172,15 @@
       },
       "aliases": [],
       "visual": {
-        "photo": "feature-gang-starr-photo.webp",
+        "photo": "feature-gang-starr-provided-collage.webp",
         "tag": "feature-gang-starr-tag.webp",
-        "alt": "Gang Starrの実写写真。撮影 Alan Mildor and Barbara Mürdter; composite by Karppinen。",
-        "author": "Alan Mildor and Barbara Mürdter; composite by Karppinen",
-        "source": "https://commons.wikimedia.org/wiki/File:DJ_Premier_and_Guru.jpg",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
-        "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。 実写写真を組み合わせたモンタージュ。",
-        "focus": "50% 15%",
-        "fit": "contain"
+        "alt": "Gang Starrのコラージュ画像（ユーザー提供）",
+        "fit": "contain",
+        "focus": "50% 50%",
+        "provenance": "user-provided",
+        "credit": "ユーザー提供",
+        "changes": "提供された完成画像の構図・色・人物は変更せず掲載。",
+        "precomposed": true
       }
     },
     {
@@ -225,16 +206,15 @@
       },
       "aliases": [],
       "visual": {
-        "photo": "feature-public-enemy-photo.webp",
+        "photo": "feature-public-enemy-provided-collage.webp",
         "tag": "feature-public-enemy-tag.webp",
-        "alt": "Public Enemyの実写写真。撮影 kowarski。",
-        "author": "kowarski",
-        "source": "https://commons.wikimedia.org/wiki/File:Chuck_D_and_Flavor_Flav_of_Public_Enemy.jpg",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-        "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。",
-        "focus": "50% 25%",
-        "fit": "contain"
+        "alt": "Public Enemyのコラージュ画像（ユーザー提供）",
+        "fit": "contain",
+        "focus": "50% 50%",
+        "provenance": "user-provided",
+        "credit": "ユーザー提供",
+        "changes": "提供された完成画像の構図・色・人物は変更せず掲載。",
+        "precomposed": true
       }
     },
     {
@@ -260,16 +240,15 @@
       },
       "aliases": [],
       "visual": {
-        "photo": "feature-nas-photo.webp",
+        "photo": "feature-nas-provided-collage.webp",
         "tag": "feature-nas-tag.webp",
-        "alt": "Nasの実写写真。撮影 Mikael 'Mika' Väisänen / Mikamote。",
-        "author": "Mikael 'Mika' Väisänen / Mikamote",
-        "source": "https://commons.wikimedia.org/wiki/File:Nas-04.jpg",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-        "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 3.0 を適用。",
-        "focus": "50% 20%",
-        "fit": "cover"
+        "alt": "Nasのコラージュ画像（ユーザー提供）",
+        "fit": "contain",
+        "focus": "50% 50%",
+        "provenance": "user-provided",
+        "credit": "ユーザー提供",
+        "changes": "提供された完成画像の構図・色・人物は変更せず掲載。",
+        "precomposed": true
       }
     },
     {
@@ -295,16 +274,15 @@
       },
       "aliases": [],
       "visual": {
-        "photo": "feature-az-photo.webp",
+        "photo": "feature-az-provided-collage.webp",
         "tag": "feature-az-tag.webp",
-        "alt": "AZの実写写真。撮影 Mikael 'Mika' Väisänen / Mika-photography。",
-        "author": "Mikael 'Mika' Väisänen / Mika-photography",
-        "source": "https://commons.wikimedia.org/wiki/File:Az-03.jpg",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-        "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 3.0 を適用。",
-        "focus": "50% 20%",
-        "fit": "cover"
+        "alt": "AZのコラージュ画像（ユーザー提供）",
+        "fit": "contain",
+        "focus": "50% 50%",
+        "provenance": "user-provided",
+        "credit": "ユーザー提供",
+        "changes": "提供された完成画像の構図・色・人物は変更せず掲載。",
+        "precomposed": true
       }
     },
     {
@@ -332,15 +310,15 @@
       "aliases": [],
       "identityNote": "UNKLEはDJ Shadowひとりの別名義ではなく共同プロジェクトです。本人名義の作品と、制作参加作品を区別してたどります。",
       "visual": {
-        "photo": "feature-dj-shadow-photo.jpg",
+        "photo": "feature-dj-shadow-provided-collage.webp",
         "tag": "feature-dj-shadow-tag.webp",
-        "alt": "DJ Shadow、2006年のDJプレイ写真。撮影 Scott Sandars。",
-        "author": "Scott Sandars",
-        "source": "https://commons.wikimedia.org/wiki/File:DJ_Shadow_(cropped).jpg",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-        "changes": "表示時のトリミング・配置。写真の人物・顔は生成・再描画していません。",
-        "focus": "50% 35%"
+        "alt": "DJ Shadowのコラージュ画像（ユーザー提供）",
+        "fit": "contain",
+        "focus": "50% 50%",
+        "provenance": "user-provided",
+        "credit": "ユーザー提供",
+        "changes": "提供された完成画像の構図・色・人物は変更せず掲載。",
+        "precomposed": true
       },
       "noteArticle": {
         "title": "DJ Shadow【第1話】イントロの次に、その男はいた",
@@ -453,14 +431,15 @@
       ],
       "identityNote": "同一人物の別名義 J Dilla / Jay Dee。The UmmahとJaylibは別名義ではなく共同プロジェクトです。制作クレジット・参加役割を区別して掲載しています。",
       "visual": {
+        "photo": "feature-j-dilla-provided-collage.webp",
         "tag": "feature-j-dilla-tag.webp",
-        "alt": "J Dillaの肖像写真（ユーザー提供）",
-        "photo": "feature-j-dilla-user-photo.jpeg",
+        "alt": "J Dilla / Jay Deeのコラージュ画像（ユーザー提供）",
         "fit": "contain",
         "focus": "50% 50%",
         "provenance": "user-provided",
         "credit": "ユーザー提供",
-        "changes": "写真の色・構図は変更せず掲載。"
+        "changes": "提供された完成画像の構図・色・人物は変更せず掲載。",
+        "precomposed": true
       },
       "noteArticle": {
         "title": "J Dilla【第1話】テープに二度いた男",
@@ -495,16 +474,15 @@
       },
       "aliases": [],
       "visual": {
-        "photo": "feature-pete-rock-photo.webp",
+        "photo": "feature-pete-rock-provided-collage.webp",
         "tag": "feature-pete-rock-tag.webp",
-        "alt": "Pete Rockの実写写真。撮影 Pinguino Kolb / pinguino k。",
-        "author": "Pinguino Kolb / pinguino k",
-        "source": "https://commons.wikimedia.org/wiki/File:Pete_Rock_at_Launch_Party.jpg",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-        "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。",
-        "focus": "50% 10%",
-        "fit": "cover"
+        "alt": "Pete Rockのコラージュ画像（ユーザー提供）",
+        "fit": "contain",
+        "focus": "50% 50%",
+        "provenance": "user-provided",
+        "credit": "ユーザー提供",
+        "changes": "提供された完成画像の構図・色・人物は変更せず掲載。",
+        "precomposed": true
       }
     },
     {
@@ -530,16 +508,15 @@
       },
       "aliases": [],
       "visual": {
-        "photo": "feature-erick-sermon-photo.webp",
+        "photo": "feature-erick-sermon-provided-collage.webp",
         "tag": "feature-erick-sermon-tag.webp",
-        "alt": "Erick Sermonの実写写真。撮影 Simon Abrams。",
-        "author": "Simon Abrams",
-        "source": "https://commons.wikimedia.org/wiki/File:Erick_Sermon_%289288240438%29.jpg",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-        "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 2.0 を適用。",
-        "focus": "35% 35%",
-        "fit": "cover"
+        "alt": "Erick Sermonのコラージュ画像（ユーザー提供）",
+        "fit": "contain",
+        "focus": "50% 50%",
+        "provenance": "user-provided",
+        "credit": "ユーザー提供",
+        "changes": "提供された完成画像の構図・色・人物は変更せず掲載。",
+        "precomposed": true
       }
     },
     {
@@ -577,16 +554,15 @@
       ],
       "identityNote": "同一人物の別名義 Madlib / Quasimoto。Madvillain、Jaylib、Freddie Gibbs & Madlibは共同プロジェクトです。The Redの制作はJ Dillaとして区別しています。",
       "visual": {
-        "photo": "feature-madlib-photo.webp",
+        "photo": "feature-madlib-provided-collage.webp",
         "tag": "feature-madlib-tag.webp",
-        "alt": "Madlib / Quasimotoの実写写真。撮影 Carl Pocket。",
-        "author": "Carl Pocket",
-        "source": "https://commons.wikimedia.org/wiki/File:MadlibMarch2014Echo_%28cropped%29.jpg",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-        "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 2.0 を適用。",
-        "focus": "50% 25%",
-        "fit": "cover"
+        "alt": "Madlib / Quasimotoのコラージュ画像（ユーザー提供）",
+        "fit": "contain",
+        "focus": "50% 50%",
+        "provenance": "user-provided",
+        "credit": "ユーザー提供",
+        "changes": "提供された完成画像の構図・色・人物は変更せず掲載。",
+        "precomposed": true
       },
       "noteArticle": {
         "title": "MADLIB【第1話】手の写真に、やられた",
@@ -621,16 +597,15 @@
         "connections": "Questloveが自身の音楽体験として語るDe La Soul。Stakes Is HighではJ Dillaの制作も聴ける。受け継がれるものと、その時々に出会う作り手が、一つのグループの歩みに重なる。"
       },
       "visual": {
-        "photo": "feature-de-la-soul-photo.webp",
+        "photo": "feature-de-la-soul-provided-collage.webp",
         "tag": "feature-de-la-soul-tag.webp",
-        "alt": "De La Soulの実写写真。撮影 Gozamos。",
-        "author": "Gozamos",
-        "source": "https://commons.wikimedia.org/wiki/File:De_La_Soul_%284971659790%29.jpg",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-        "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 2.0 を適用。",
+        "alt": "De La Soulのコラージュ画像（ユーザー提供）",
+        "fit": "contain",
         "focus": "50% 50%",
-        "fit": "contain"
+        "provenance": "user-provided",
+        "credit": "ユーザー提供",
+        "changes": "提供された完成画像の構図・色・人物は変更せず掲載。",
+        "precomposed": true
       }
     },
     {
@@ -660,16 +635,15 @@
         "connections": "EPMDの棚からErick Sermonの制作特集へ進むと、グループ作品と外部制作を聴き比べられる。名義の違いを保ったまま、誰の耳が曲をつないでいるかを追える。"
       },
       "visual": {
-        "photo": "feature-epmd-photo.webp",
+        "photo": "feature-epmd-provided-collage.webp",
         "tag": "feature-epmd-tag.webp",
-        "alt": "EPMDの実写写真。撮影 Simon Abrams。",
-        "author": "Simon Abrams",
-        "source": "https://commons.wikimedia.org/wiki/File:EPMD_%289288244052%29.jpg",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-        "changes": "表示時のトリミング・配置。人物・顔の生成や再描画はしていません。 写真の表示加工にも同じ CC BY-SA 2.0 を適用。",
-        "focus": "55% 30%",
-        "fit": "contain"
+        "alt": "EPMDのコラージュ画像（ユーザー提供）",
+        "fit": "contain",
+        "focus": "50% 50%",
+        "provenance": "user-provided",
+        "credit": "ユーザー提供",
+        "changes": "提供された完成画像の構図・色・人物は変更せず掲載。",
+        "precomposed": true
       }
     }
   ]

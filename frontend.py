@@ -8,8 +8,13 @@ from profile_content import render_profile
 
 def build_frontend(root, dist, features, policy, guides):
     dist.mkdir(parents=True, exist_ok=True)
+    retired=json.loads((root/'retired_feature_photos.json').read_text())['paths']
+    assert len(retired)==13 and all('/' not in name and name.startswith('feature-') for name in retired)
+    for name in retired:
+        stale=dist/name
+        if stale.exists():stale.unlink()
     for asset in (root / 'src' / 'assets').iterdir():
-        if asset.is_file():
+        if asset.is_file() and asset.name not in retired:
             shutil.copyfile(asset, dist / asset.name)
     source = root / 'src' / 'app'
     order = json.loads((source / 'order.json').read_text(encoding='utf-8'))
