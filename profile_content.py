@@ -10,7 +10,7 @@ def inline(text):
 
 def render_profile(root,base_path):
     data=json.loads((root/'editor_profile.json').read_text(encoding='utf-8'))
-    out=['<article class="editor-profile"><header class="editor-profile-heading"><h1>'+html.escape(data['name'])+'</h1><p>'+html.escape(data['realName'])+'</p><img class="editor-signature" src="'+base_path+'/'+data['signature']+'" alt="DJ Naoyamanのタギング・グラフティ署名" width="1881" height="628"></header><div class="prose">'];in_list=False
+    out=['<article class="editor-profile"><header class="editor-profile-heading"><h1><span class="editor-name-accessible">'+html.escape(data['name'])+'</span><img class="editor-signature" src="'+base_path+'/'+data['signature']+'" alt="" width="1881" height="628"></h1><p class="editor-real-name">'+html.escape(data['realName'])+'</p></header><div class="prose">'];in_list=False
     for block in data['blocks']:
         kind=block['type'];text=block['text']
         if kind=='h1':continue

@@ -2,12 +2,13 @@
 from pathlib import Path
 import json,hashlib,copy,io
 from PIL import Image
+from approved_browser_tools import historical_browser_tools_file
 from approved_photo_replacement import FIXTURE as f,historical_photo_file
 R=Path(__file__).resolve().parents[1];D=R/'dist';sha=lambda b:hashlib.sha256(b).hexdigest()
 ids={'dj-shadow','j-dilla','madlib','pete-rock','erick-sermon','tribe','gang-starr','public-enemy','nas','az','de-la-soul','beastie-boys','main-source','epmd'}
 assert {a['id'] for a in f['assets']}==ids
 for p,c in f['files'].items():assert historical_photo_file(p,(R/p).read_bytes())==c['before'].encode()
-for p,h in f['protected'].items():assert sha((R/p).read_bytes())==h,p
+for p,h in f['protected'].items():assert sha(historical_browser_tools_file(p,(R/p).read_bytes()))==h,p
 old=json.loads(f['files']['features.json']['before']);new=json.loads((R/'features.json').read_text());norm=copy.deepcopy(new)
 assert len(new['features'])==15
 for item in norm['features']:
