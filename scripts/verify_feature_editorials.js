@@ -5,16 +5,16 @@ const source=JSON.parse(fs.readFileSync('features.json','utf8'));
 const app=fs.readFileSync('dist/app.js','utf8');
 const view={innerHTML:'',querySelectorAll:()=>[]},canonical={href:''};
 const ctx=vm.createContext({songs,view,document:{title:''},origin:'https://djnaoyaman.github.io/cratediggin',esc:s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;'),top:()=>'',playableIds:s=>s.map(t=>t.id),paintResults:()=>{},$:selector=>['#back-to-top','#enter-crate'].includes(selector)?null:canonical});
-vm.runInContext(app.slice(app.indexOf(' function yearLabel('),app.indexOf(' const songs='))+'let customMode,applyListFilters,filtered,queue,resultPage;const browseRestoring=null;'+app.slice(app.indexOf(' const features=['),app.indexOf(' let lastAnalyticsPage'))+';globalThis.api={features,featureTracks,eligibleFeatures,featurePage};',ctx);
+vm.runInContext(app.slice(app.indexOf(' function yearLabel('),app.indexOf(' const songs='))+'let customMode,applyListFilters,filtered,queue,resultPage;const browseRestoring=null;'+app.slice(app.indexOf(' const features=['),app.indexOf(' let lastAnalyticsPage'))+';globalThis.api={features,featureTracks,featureIdentity,publishedFeatures,eligibleFeatures,featurePage};',ctx);
 const api=ctx.api,eligible=api.eligibleFeatures();
-assert.equal(eligible.length,source.features.length);
+assert.equal(eligible.length,source.features.length-1);assert.equal(api.publishedFeatures().length,source.features.length);assert(!eligible.some(f=>f.id==='az'));
 assert.equal(new Set(eligible.flatMap(f=>Array.from(f.aliases||[]))).size,eligible.reduce((n,f)=>n+(f.aliases||[]).length,0));
-api.featurePage();assert(view.innerHTML.includes('3曲以上'));assert(view.innerHTML.includes('同一人物'));
-for(const f of eligible){
- const selected=api.featureTracks(f);assert(selected.length>=3);
+api.featurePage();assert(view.innerHTML.includes('5曲以上'));assert(view.innerHTML.includes('8曲以上'));
+for(const f of api.publishedFeatures()){
+ const selected=api.featureTracks(f);assert(selected.length>=3);if(f.id==='beastie-boys'){assert.equal(selected.length,10);const included=selected.find(t=>t.id==='beastie-boys-get-it-together');assert(included&&api.featureIdentity(f,included),'Explicit primary billing belongs to own scope');}
  assert.equal(selected.length,new Set(Array.from(selected,t=>t.id)).size,'Duplicate tracks in '+f.id);
  api.featurePage(f.id);
- for(const key of ['context','legacy','listening','connections'])assert(view.innerHTML.includes(f.editorial[key]));
+ if(f.editorial.format==='source-led-v1'){for(const sec of f.editorial.sections)assert(view.innerHTML.includes(sec.heading));assert(!view.innerHTML.includes('DJ NAOYAMAN’S VIEW'));}else for(const key of ['context','legacy','listening','connections'])assert(view.innerHTML.includes(f.editorial[key]));
  for(const r of f.editorial.sources)assert(view.innerHTML.includes(r.url));
  const html=fs.readFileSync('dist/'+(f.type==='artist'?'artists':'producers')+'/'+f.id+'.html','utf8');
  const songCount=selected.filter(t=>(t.workType||'single')==='single').length,mixCount=selected.filter(t=>t.workType==='mix').length,videoCount=selected.filter(t=>t.workType==='live_video').length,countLabel=songCount+'曲'+(mixCount?'・'+mixCount+'ミックス作品':'')+(videoCount?'・'+videoCount+'ライブ映像':'');

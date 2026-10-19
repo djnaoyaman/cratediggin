@@ -24,7 +24,7 @@ def valid_video_url(video):
 def feature_tracks(tracks,f):
     names=f['names'];aliases=f.get('aliases',[])
     def selected(t):
-        identity=t['artist'] in aliases or t['artist'] in names or any(a in names for a in t.get('artists',[]))
+        identity=t['artist'].split(' feat. ')[0] in aliases or t['artist'].split(' feat. ')[0] in names or any(a in names for a in t.get('artists',[]))
         production=any(n in f.get('productionNames',[]) for n in t.get('producers',[]))
         if f['type']=='producer':production=production or any(n in names for n in t.get('producers',[])) or t['artist'] in f.get('collaborations',[])
         return identity or production

@@ -1,5 +1,5 @@
 {
-  "policy": "後世の音楽や表現に大きな影響を残したと考えるアーティストのうち、このサイトで3曲以上を紹介できる人・グループを特集します。音楽性と影響はDJ Naoyamanの視点で選び、曲数だけでは決めていません。プロデューサー特集は、本人名義と掲載済み制作クレジットに基づく関連曲を数えます。 同一人物・同一グループと資料で確認できる別名義は、ひとつの特集にまとめます。共同プロジェクトや所属グループは、本人の別名義とは区別します。",
+  "policy": "アーティスト名義または制作クレジットのどちらかで掲載5曲以上を特集候補、8曲以上を優先候補とします。曲数だけで公開せず、本人の証言や制作背景から独自の読み応えを作れることを条件にします。曲数は掲載済みの楽曲録音を名義別・役割別に集計し、同じ録音の重複やアルバム全体・ミックス・ライブ映像は含めません。未確認の制作クレジットを補完したり、グループの作品をメンバー個人へ自動加算したりしません。公開済みの記事は曲数にかかわらずアーカイブとして残します。",
   "features": [
     {
       "id": "beastie-boys",
@@ -650,6 +650,108 @@
         "credit": "ユーザー提供",
         "changes": "提供された完成画像の構図・色・人物は変更せず掲載。",
         "precomposed": true
+      }
+    },
+    {
+      "id": "dj-premier",
+      "name": "DJ Premier",
+      "type": "producer",
+      "names": [
+        "DJ Premier"
+      ],
+      "allYears": true,
+      "identityNote": "掲載済みの制作クレジットに基づく42曲を収録。別録音・リミックス・インストゥルメンタルを含む掲載単位の数で、42の異なる作曲作品や全制作歴を意味するものではありません。",
+      "editorial": {
+        "format": "source-led-v1",
+        "title": "DJ PremierとMCたち。制作の入口をたどる",
+        "deck": "Guruが壁に貼った曲名、Nasの声、Biggieが持ち込んだサンプル案。本人の制作証言から、五つの掲載曲をたどる。",
+        "context": "Guruが壁に貼った曲名、Nasの声、Biggieが持ち込んだサンプル案。本人の制作証言から、五つの掲載曲をたどる。",
+        "introduction": [
+          "DJ Premierの仕事を、相手とのやり取りから見てみたい。Guruが曲名と狙いを伝え、PremierがNasの声を思い浮かべる。Biggieはフックに使う素材を提案し、Jeruとの仕事の背景にはクルーを育てる構想があった。五つの掲載曲を手がかりに、曲を作る場面と、その仕事につながった関係をたどる。"
+        ],
+        "sections": [
+          {
+            "heading": "Guruのメモには、曲の役目まで書いてあった",
+            "paragraphs": [
+              "[Mass Appeal](#/song/mass-appeal)について、Premierは2019年のDavid Maの取材にこういう作業風景を伝えている。Guruはアルバムの曲名を紙にして壁に貼り、短い説明も添えていた。この曲にはシングルにするという指定があった。Premierが探したのは、二人が揶揄していた、薄味で反復的な「エレベーター音楽」に通じる素材だった。短いループを選んだ理由まで、Guruとの会話につながっている。",
+              "ここで見えてくるのは、ラップとビートを別々の担当者が納品するだけではない制作だ。Guruが曲の狙いを言葉で示し、Premierが音の選び方で応じる。曲名は完成後のラベルではなく、制作を始めるための指示にもなっていた。"
+            ],
+            "sources": [
+              0
+            ]
+          },
+          {
+            "heading": "実験の方向も、二人で話し合った",
+            "paragraphs": [
+              "[ALONGWAYTOGO](#/song/gang-starr-alongwaytogo)も『Hard to Earn』の一曲だ。Premierは2019年のDJBoothの取材で、この曲をアルバムで試みた実験の例として挙げている。",
+              "同じ取材で、Premierはこの方向をGuruと話し合い、Guruもその試みに賛同していたと説明している。曲名のメモがあるときだけでなく、アルバム全体の方向を決める場面にも二人のやり取りがあった。"
+            ],
+            "sources": [
+              1
+            ]
+          },
+          {
+            "heading": "Nasでは、先に声を思い浮かべた",
+            "paragraphs": [
+              "[N.Y. State of Mind](#/song/nas-n-y-state-of-mind)では入口が変わる。2007年のRed Bull Music Academyで、PremierはGuruとの進め方を説明したあと、Nasとのこの曲では、まず彼の声を想像したと話している。曲のコンセプトが先に渡されていたわけではなかった。",
+              "同じ講演で、別のMCから過去のヒット曲のようなものを頼まれても、その人に合うものを作るのだと述べている。この二つの話を合わせると、声を思い浮かべるという言葉が具体的になる。以前の成功例を再現するより、いま向き合うMCを制作の出発点にする。その判断を知ってから、Guruの曲とNasの曲を並べたい。"
+            ],
+            "sources": [
+              2
+            ]
+          },
+          {
+            "heading": "Biggieは、フックの素材も提案した",
+            "paragraphs": [
+              "[Unbelievable](#/song/the-notorious-b-i-g-unbelievable)の話には、もう少し意外な共同作業がある。2021年のMark Ronsonとの対談によれば、「Impeach the President」に音を足すという案を出したのはBiggieだった。さらにR. Kellyの「Your Body's Callin'」から声を使う案も、彼の側から出ている。Premierは音程が合うかを気にしたが、試した結果は曲に残った。",
+              "Premierの技として語られがちな声のサンプリングにも、MCの発案が入っていた。だからこのフックは、DJの手際だけでなく、Biggieが自分の曲をどう完成させようとしたかを考える入口にもなる。"
+            ],
+            "sources": [
+              3
+            ]
+          },
+          {
+            "heading": "Jeruとの仕事の背景にあった、Guruのクルー構想",
+            "paragraphs": [
+              "[Come Clean](#/song/jeru-the-damaja-come-clean)は1993年のシングルで、翌1994年の『The Sun Rises in the East』にも収録された。2014年のMichael A. Gonzalesの取材で、PremierはGuruがJeruをGang Starrのクルーへ紹介したと振り返る。Guruには自分たちのクルーを育てる構想があり、その時点で最も準備ができていたJeruから進めたという。",
+              "この証言が伝えるのは、ビートの着想そのものより、Jeruとの仕事が始まった背景だ。誰を次に送り出すかという判断も、制作の機会を形づくっていた。Come Cleanをここに置くと、Guruの役割を曲のアイデアだけでなく、人をつなぐ仕事からも考えられる。"
+            ],
+            "sources": [
+              4
+            ]
+          },
+          {
+            "heading": "五曲を、制作の入口から聴き直す",
+            "paragraphs": [
+              "順番は、Mass Appeal → ALONGWAYTOGO → N.Y. State of Mind → Unbelievable → Come Clean。同じアルバムの二曲から始め、MCが替わり、最後にGuruのクルー構想へ戻る。",
+              "この順番で注目したいのは、Premierらしさを数えることより、各曲の制作や、その背景にあったやり取りだ。曲名と狙い、声、素材の提案、活動の構想。その違いを制作証言と照らし合わせると、プロデューサーの仕事を、音を作る技術と人のアイデアを受け取る判断の両方から考えられる。"
+            ],
+            "sources": []
+          }
+        ],
+        "sources": [
+          {
+            "label": "The Making of Gang Starr’s Mass Appeal",
+            "url": "https://www.powmag.net/p/the-making-of-gang-starrs-mass-appeal"
+          },
+          {
+            "label": "DJ Premier Reminisces on 25 Years of Gang Starr’s Hard to Earn & Hip-Hop in 1994",
+            "url": "https://djbooth.net/features/2019-03-13-dj-premier-interview-gang-starr/"
+          },
+          {
+            "label": "DJ Premier / Red Bull Music Academy Toronto 2007",
+            "url": "https://www.redbullmusicacademy.com/lectures/dj-premier-you-know-my-steez/"
+          },
+          {
+            "label": "DJ Premier on Gang Starr, ’80s synth pop, and Biggie’s comedic side",
+            "url": "https://www.thefader.com/2021/11/01/dj-premier-on-gang-starr-80s-synth-pop-and-biggies-comedic-side"
+          },
+          {
+            "label": "DJ Premier Remembers Jeru The Damaja’s The Sun Rises In The East 20 Years Later",
+            "url": "https://www.xxlmag.com/dj-premier-jeru-damaja-sun-rises-east-interview/"
+          }
+        ],
+        "disclosure": "制作の経緯は本人の証言に基づきます。比較の順番と読み方は本稿の編集上の提案で、DJ Naoyaman本人の体験談ではありません。"
       }
     }
   ]

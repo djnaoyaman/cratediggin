@@ -1,0 +1,19 @@
+{
+  "scope": "feature:dj-premier",
+  "reviewedEditorialSHA256": "c2704b38d31c2d1d96be102028218a096ca785dc87ffcc095222646269c1c13e",
+  "comparisonSHA256": {
+    "tracks.json": "a8ca5c68501115edb197e951a6c9a3e1f42d7041fab7cdf289c7ef19436a769c",
+    "features.json": "840b653d3e8801ca893b6dcd3861cb51c977967ab29af09294124f683f58cd21",
+    "editorial_deepdives.json": "f7306d81a18a62b047a4bf8f03fdb4b0252939baed9ec10cfd2512d0105d6156"
+  },
+  "reviewDate": "2026-10-19",
+  "verdict": "Independent primary-source and substantive-distinctness review clear after bounded wording corrections. Rendering, playback and full discography verification are not implied.",
+  "nearestRelated": [
+    "feature:gang-starr",
+    "feature:nas",
+    "mass-appeal",
+    "gang-starr-alongwaytogo",
+    "nas-n-y-state-of-mind-pt-ii",
+    "the-beginning"
+  ]
+}
