@@ -1,0 +1,249 @@
+{
+  "base": "9e9153ad4c8d35893590830dd16f0fa2d71e8c49",
+  "id": "wu-tang-clan-triumph",
+  "record": {
+    "id": "wu-tang-clan-triumph",
+    "title": "Triumph",
+    "artist": "Wu-Tang Clan",
+    "artists": [
+      "Wu-Tang Clan"
+    ],
+    "year": 1997,
+    "yearBasis": "1997年のオリジナル・アルバム収録。Sonyのアルバム発売日説明と公式配信を照合し、動画公開年とは区別。",
+    "album": "Wu-Tang Forever",
+    "producer": "RZA",
+    "producers": [
+      "RZA"
+    ],
+    "region": "New York",
+    "scene": "Staten Island / Wu-Tang Clan",
+    "label": "Loud / RCA",
+    "category": "Hip Hop",
+    "essayTitle": "弦が消え、声が入る。その出入りを聴く。",
+    "deck": "弦、声、ギター、ピアノを出し入れするRZA。Inspectah Deckのヴァースに圧倒されたGZA。本人たちの言葉から、Triumphの緊張をたどる。",
+    "essay": [
+      "「Triumph」の長さを支えるものは、MCの人数だけではない。RZAは2005年のFresh Airで、この曲の短く刻む弦が上昇して消え、声が入り、それも消えてギターとピアノが現れる流れを説明している。何を足すかと同時に、何を引くか。5分38秒の公式アルバム配信を聴く入口として、ラップの交代とは別に、伴奏の出入りを追ってみたい。",
+      "この説明を知ると、繰り返されるビートを背景と決めつけずに聴ける。RZAが語るのは、使った機材の一覧ではなく、音の役目を時間の中で変える作業だ。ある音が消えたあとに何が残るか、次の音がどこから入るか。ここでの聴き方はその制作証言を踏まえた提案であり、個々の音がどの原盤に由来するかを特定したものではない。",
+      "言葉の側にも、共演者が感じた緊張がある。2006年のAllHipHopでGZAは、Inspectah Deckのヴァースを聴き、その後に自分が何を言えるか戸惑ったと振り返る。これは客観的な順位ではなく、同じ曲に加わった人の反応だ。Deckの技巧を数えるだけでなく、同じ曲に加わるGZAが受け取った圧力として読むと、長い曲の中の一つのヴァースが別の重さを持つ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "ここで扱うRZAの発言は編曲と音の出入りについての説明です。サンプリングされた原盤の特定や、使用素材の完全な一覧とはしていません。",
+    "sources": [
+      {
+        "label": "LOUD / RCA — Triumph official album delivery",
+        "url": "https://www.youtube.com/watch?v=7AFEWPAir8s",
+        "kind": "primary_distributor_video",
+        "scope": "Wu-Tang Forever、1997-06-03、RZA制作・録音、RZAとCarlos BessがAmeraycanでミックス。338秒。"
+      },
+      {
+        "label": "Fresh Air — RZA interview, 2005",
+        "url": "https://freshairarchive.org/segments/rapper-producer-composer-rza",
+        "kind": "primary_artist_interview",
+        "scope": "RZA本人がTriumphの弦、声、ギター、ピアノの出入りを説明。1996年頃からの理論学習とサンプリング経験の統合。"
+      },
+      {
+        "label": "AllHipHop — Rewind the Rhyme: GZA, 2006",
+        "url": "https://allhiphop.com/features/rewind-the-rhyme-gza/",
+        "kind": "primary_artist_interview",
+        "scope": "GZAがDeckのヴァースを聴いて続くことの難しさを感じたと述べる。本人の評価であり客観的順位ではない。"
+      },
+      {
+        "label": "Get On Down — Wu-Tang Forever 4LP",
+        "url": "https://getondown.com/products/wu-tang-forever-4xlp-lyric-booklet",
+        "kind": "primary_authorized_reissue_label",
+        "scope": "1997年作品の正規25周年再発。Triumph5:38、コーラスのない先行曲、アルバム初週首位。"
+      },
+      {
+        "label": "Sony Music Canada — Wu-Tang Forever 25th anniversary",
+        "url": "https://www.sonymusic.ca/press_release/wu-tang-clan-launch-25-year-celebration-of-iconic-double-album-opus-wu-tang-forever-with-anniversary-collection-more",
+        "kind": "primary_record_label",
+        "scope": "1997年6月3日アルバム発売。2022年復刻のedits/instrumentals、slowed+reverb別版と1997年撮影現場インタビュー再公開。"
+      },
+      {
+        "label": "Certified — The Making of Triumph, Episode 1: RZA",
+        "url": "https://www.youtube.com/watch?v=YovA6nno-FM",
+        "kind": "primary_archival_artist_interview",
+        "scope": "1997年撮影、2022年公開。動画の成立経緯はSony説明で確認。インタビュー全内容の逐語照合は未実施。"
+      },
+      {
+        "label": "Apple Music — Triumph on Wu-Tang Forever",
+        "url": "https://music.apple.com/us/song/268503852",
+        "kind": "label_supplied_distributor_metadata",
+        "scope": "該当曲ページのHTMLに曲名TriumphのExplicitバッジ（showExplicitBadge:true）とWu-Tang Forever表示。実再生未確認。"
+      }
+    ],
+    "connections": [
+      "wu-tang-clan-bells-of-war",
+      "wu-tang-clan-protect-ya-neck",
+      "wu-tang-clan-method-man"
+    ],
+    "listening": [
+      "RZAの説明を手がかりに、弦や声が消える箇所と、別の音が入る箇所を追う。",
+      "Inspectah Deckのヴァースのあとを、GZAの回想を知ったうえで聴き直す。"
+    ],
+    "moods": [
+      "グルーヴ"
+    ],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "editorialStatus": "公式音源の作品情報・日本の配信対象・埋め込み許可をメタデータで照合。日本国内からの実再生と埋め込み再生は未確認です。",
+    "noteReviewedAt": "2026-10-21",
+    "youtube": {
+      "id": "7AFEWPAir8s",
+      "url": "https://www.youtube.com/watch?v=7AFEWPAir8s",
+      "title": "Triumph",
+      "channel": "Wu-Tang Clan - Topic",
+      "channelId": "UCdQKMtGgbbahJWE3rkPaGoA",
+      "type": "公式音源",
+      "official": true,
+      "verified": "2026-10-20",
+      "duration": "PT5M38S",
+      "embedUrl": "https://www.youtube.com/embed/7AFEWPAir8s",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "version": "Official album delivery (metadata cross-check; no audio/master comparison)",
+      "versionBasis": "Official Wu-Tang Forever album delivery, metadata-qualified; videoDetails338s / microformat339s. Apple exact album-track metadata marks Explicit. No listening, waveform or original1997 mix/master comparison performed.",
+      "verification": "公開ページのメタデータは再生可・埋め込み可、日本を配信対象に含む。実再生や波形照合は行っていない。",
+      "explicitMetadataCrosscheck": "https://music.apple.com/us/song/268503852",
+      "japanAvailableInMetadata": true,
+      "metadataPlayableInEmbed": true,
+      "japanAvailableMetadata": true,
+      "embeddableMetadata": true
+    },
+    "aliases": [],
+    "versionBasis": "Official Wu-Tang Forever album delivery, metadata-qualified; videoDetails338s / microformat339s. Apple exact album-track metadata marks Explicit. No listening, waveform or original1997 mix/master comparison performed.",
+    "context": "1997年のWu-Tang Forever収録曲。伴奏の入れ替わりと共演者の制作回想を、長い曲の展開を読む手がかりにする。",
+    "datePublished": "2026-10-21",
+    "addedOrder": 496,
+    "art": {
+      "word": "TRIUMPH",
+      "lines": [
+        "TRIUMPH"
+      ],
+      "tag": "WU-TANG CLAN",
+      "style": "piece",
+      "seed": 19970603,
+      "palette": [
+        "#F2EEE2",
+        "#141414",
+        "#9C9C95",
+        "#8B7352",
+        "#B89B54"
+      ],
+      "paletteSource": "Wu-Tang Forever",
+      "paletteSourceUrl": "https://getondown.com/products/wu-tang-forever-4xlp-lyric-booklet",
+      "paletteNote": "正規再発のジャケットを目視参照した近似配色。黒、銀灰色、生成り、抑えたセピアを基にし、写真やロゴは転載しない。"
+    }
+  },
+  "deepdive": {
+    "artist": "Wu-Tang Clan",
+    "title": "Triumph",
+    "sections": [
+      {
+        "heading": "声の人数と、ヴァースの人数を分ける",
+        "text": "公式配信はオリジナルの9人にCappadonnaを加えた10人を列記している。ただし参加者の数と、独立したラップ・ヴァースの数は同じではない。Ol’ Dirty Bastardの声の役割を、ほかのメンバーのヴァースと一括りにしないこと。クレジットを見ながら、導入とマイクリレーを分けて聴くのが入口になる。",
+        "sources": [
+          0
+        ],
+        "source": "https://www.youtube.com/watch?v=7AFEWPAir8s",
+        "sourceLabel": "LOUD / RCA — Triumph official album delivery"
+      },
+      {
+        "heading": "RZA一人という表記で終わらせない",
+        "text": "公式配信は制作をRZA、録音を36 Chamberz StudioのRZA、ミックスをAmeraycan StudioのRZAとCarlos Bessと記す。制作担当者の名前と、録音を形にした仕事は別の列に残る。「RZA制作」の一語から、録音と、ロサンゼルスでのミックスという工程の違いへ視野を広げられる。",
+        "sources": [
+          0
+        ],
+        "source": "https://www.youtube.com/watch?v=7AFEWPAir8s",
+        "sourceLabel": "LOUD / RCA — Triumph official album delivery"
+      },
+      {
+        "heading": "同名の別版を混ぜない",
+        "text": "Sonyは2022年、「Triumph」など3組のデジタルEPで当時のリミックス、エディット、インストを再公開し、別途slowed＋reverb版も案内した。正規の流通でも、バージョンは一つではない。本項では『Wu-Tang Forever』名義で5分38秒と表示される公式配信を採用し、映像用編集や速度加工版と区別した。これは配信メタデータによる照合であり、1997年盤との聴き比べやマスターの同一性を確認したという意味ではない。",
+        "sources": [
+          0,
+          4
+        ],
+        "source": "https://www.youtube.com/watch?v=7AFEWPAir8s",
+        "sourceLabel": "LOUD / RCA — Triumph official album delivery"
+      }
+    ]
+  },
+  "artEntry": {
+    "id": "wu-tang-clan-triumph",
+    "status": "ready",
+    "image": "assets/graffiti/wu-tang-clan-triumph-alpha.webp",
+    "transparent": true,
+    "textReviewed": true,
+    "paletteReviewed": true,
+    "palette": [
+      "#F2EEE2",
+      "#141414",
+      "#9C9C95",
+      "#8B7352",
+      "#B89B54"
+    ],
+    "paletteSource": "Wu-Tang Forever",
+    "paletteSourceUrl": "https://getondown.com/products/wu-tang-forever-4xlp-lyric-booklet",
+    "paletteNote": "正規再発のジャケットを目視参照した近似配色。黒、銀灰色、生成り、抑えたセピアを基にし、写真やロゴは転載しない。"
+  },
+  "files": {
+    "tracks.json": {
+      "beforeSHA256": "8ed79e2c69b919fbe025fc5f5d853b7529883a6a3d5ba22cf260aa4e36f6806e",
+      "afterSHA256": "6d60dc3e31b377227b47a678db1e9a24bc71df73359bcfa1556c23573f6dcd69",
+      "arrayKey": null,
+      "beforeCount": 502
+    },
+    "editorial_deepdives.json": {
+      "beforeSHA256": "6f3db456190486639c292d27830b9f70ab03be2017243a2009746c77d91c38ab",
+      "afterSHA256": "4ecd66799f48a3fb23263826839b88f2d5b3c6c1ead89020933338f60b12ae8f",
+      "arrayKey": null,
+      "beforeCount": 162
+    },
+    "graffiti_artwork.json": {
+      "beforeSHA256": "afd0f3257d50cdab65175605840a1b0ea40c02d5202238a989b1270c1c125f1f",
+      "afterSHA256": "3fe85c203b063ba2eb6080eff6d03aa8b847f8e60a159c92e0093a982451be45",
+      "arrayKey": "tracks",
+      "beforeCount": 502
+    },
+    "releases.json": {
+      "beforeSHA256": "7eff59f523fb8d96958d1b720a4db8c3092945b22e19092cb0d645cd4e44795a",
+      "afterSHA256": "3ac6d284b1fa729c7c506d4d749ba71b32065e6271a2156f2a7ee30d2b99c34d",
+      "beforeVersion": "22.13"
+    }
+  },
+  "protected": {
+    "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+    "artist_entities.json": "542290cca4fa06d6b8122b8e00a96911a18d4b4b2ece19fdd7c7ab17b7c653cf",
+    "guides.json": "4577ae94470e8dec95a99868919c560cbdba95be988ddf7497216b9abb44f6d8",
+    "listening_shelves.json": "26f634c98c577a68ab0b2e2a09472f759b9e20bb776931425ad6bed1d9880aa8"
+  },
+  "asset": {
+    "sha256": "81dc16b319c1fe41eefae6a422925528719c6cf055b39a07a1f5e2bcb553adbc",
+    "dimensions": [
+      1831,
+      859
+    ],
+    "rgbaSHA256": "36ad4e3f15361f9585a22b9219aaa2643f0de07fa213ac0ae1c2c47e886d6c3b"
+  }
+}

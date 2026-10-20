@@ -3743,5 +3743,39 @@
         ]
       }
     ]
+  },
+  {
+    "artist": "Wu-Tang Clan",
+    "title": "Triumph",
+    "sections": [
+      {
+        "heading": "声の人数と、ヴァースの人数を分ける",
+        "text": "公式配信はオリジナルの9人にCappadonnaを加えた10人を列記している。ただし参加者の数と、独立したラップ・ヴァースの数は同じではない。Ol’ Dirty Bastardの声の役割を、ほかのメンバーのヴァースと一括りにしないこと。クレジットを見ながら、導入とマイクリレーを分けて聴くのが入口になる。",
+        "sources": [
+          0
+        ],
+        "source": "https://www.youtube.com/watch?v=7AFEWPAir8s",
+        "sourceLabel": "LOUD / RCA — Triumph official album delivery"
+      },
+      {
+        "heading": "RZA一人という表記で終わらせない",
+        "text": "公式配信は制作をRZA、録音を36 Chamberz StudioのRZA、ミックスをAmeraycan StudioのRZAとCarlos Bessと記す。制作担当者の名前と、録音を形にした仕事は別の列に残る。「RZA制作」の一語から、録音と、ロサンゼルスでのミックスという工程の違いへ視野を広げられる。",
+        "sources": [
+          0
+        ],
+        "source": "https://www.youtube.com/watch?v=7AFEWPAir8s",
+        "sourceLabel": "LOUD / RCA — Triumph official album delivery"
+      },
+      {
+        "heading": "同名の別版を混ぜない",
+        "text": "Sonyは2022年、「Triumph」など3組のデジタルEPで当時のリミックス、エディット、インストを再公開し、別途slowed＋reverb版も案内した。正規の流通でも、バージョンは一つではない。本項では『Wu-Tang Forever』名義で5分38秒と表示される公式配信を採用し、映像用編集や速度加工版と区別した。これは配信メタデータによる照合であり、1997年盤との聴き比べやマスターの同一性を確認したという意味ではない。",
+        "sources": [
+          0,
+          4
+        ],
+        "source": "https://www.youtube.com/watch?v=7AFEWPAir8s",
+        "sourceLabel": "LOUD / RCA — Triumph official album delivery"
+      }
+    ]
   }
 ]

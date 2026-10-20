@@ -9878,6 +9878,24 @@
       "paletteSource": "Enter the Wu-Tang (36 Chambers)",
       "paletteSourceUrl": "https://coverartarchive.org/release/2a059e43-e66c-4d6d-9a4f-dea9a6919061/10112836421.jpg",
       "paletteNote": "1993年US CDの原盤ジャケットを目視参照した近似配色。黒、黄土色、褐色、生成りを基にし、写真やロゴは転載しない。"
+    },
+    {
+      "id": "wu-tang-clan-triumph",
+      "status": "ready",
+      "image": "assets/graffiti/wu-tang-clan-triumph-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "palette": [
+        "#F2EEE2",
+        "#141414",
+        "#9C9C95",
+        "#8B7352",
+        "#B89B54"
+      ],
+      "paletteSource": "Wu-Tang Forever",
+      "paletteSourceUrl": "https://getondown.com/products/wu-tang-forever-4xlp-lyric-booklet",
+      "paletteNote": "正規再発のジャケットを目視参照した近似配色。黒、銀灰色、生成り、抑えたセピアを基にし、写真やロゴは転載しない。"
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
