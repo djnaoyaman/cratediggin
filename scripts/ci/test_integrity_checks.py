@@ -41,11 +41,11 @@ class IntegrityTests(unittest.TestCase):
             '<a href="/cratediggin/tracks/">TRACKS</a>',
             '<script src="/cratediggin/tracks.js"></script>',
             '<script src="/cratediggin/app.js"></script>',
-            '<link rel="apple-touch-icon" href="/cratediggin/apple-touch-icon-vinyl.png?v=original-20261016">',
+            '<link rel="apple-touch-icon" href="/cratediggin/apple-touch-icon-tagging.png?v=brand-test-token">',
             '<a href="/cratediggin/artists/a.html">ARTIST INDEX</a>',
         ])
         self.write('dist/index.html', self.html)
-        self.write('dist/apple-touch-icon-vinyl.png', 'synthetic asset')
+        self.write('dist/apple-touch-icon-tagging.png', 'synthetic asset')
         for t in self.tracks:
             self.write(f'dist/tracks/{t["id"]}.html', '<a href="/cratediggin/artists/a.html">Artist</a>')
             self.write(f'dist/tracks/{t["id"]}.md', 'Synthetic song')
@@ -74,7 +74,17 @@ class IntegrityTests(unittest.TestCase):
             actual.update(assertions(block['source']))
         self.assertEqual(sum(actual.values()), 26)
         self.assertEqual(sum(actual.values()), integrity.LEGACY_ASSERTION_COUNT)
-        self.assertEqual(actual, expected)
+        # Only the three explicitly superseded vinyl-icon assertions migrate.
+        old_touch = """from pathlib import Path
+root=Path('dist')
+html=''
+assert 'href="/cratediggin/apple-touch-icon-vinyl.png?v=original-20261016"' in html, 'Vinyl touch icon URL missing'
+assert html.count('rel="apple-touch-icon"') == 1, 'Duplicate Apple touch icon tags'
+assert (root/'apple-touch-icon-vinyl.png').exists(), 'Vinyl touch icon not generated'
+"""
+        expected.subtract(assertions(old_touch))
+        expected.update(assertions(integrity.BLOCKS['touch-icon']['source']))
+        self.assertEqual(+actual, +expected)
 
     def test_every_block_passes_individually_without_other_block_execution(self):
         for name in integrity.BLOCKS:

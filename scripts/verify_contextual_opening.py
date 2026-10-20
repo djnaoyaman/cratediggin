@@ -1,3 +1,4 @@
+from approved_brand_identity import historical_brand_social_digest
 from approved_requested_two import historical_intake_tracks, historical_intake_file
 """Exact21.12 content/art preservation around a bounded opening-selection change."""
 from pathlib import Path
@@ -15,7 +16,7 @@ assert len(historical_intake_tracks())==499
 assert json.loads(historical_intake_file('releases.json',(R/'releases.json').read_bytes()))['version']=='21.13'
 assert len(F['socialImages'])==517
 if D.exists():
- for path,h in F['socialImages'].items():assert sha((D/path).read_bytes())==h,path
+ for path,h in F['socialImages'].items():assert historical_brand_social_digest(path,(D/path).read_bytes())==h,path
  index=(D/'index.html').read_text();assert 'id="now-title">曲を選んでください' in index
  assert 'window.CrateOpening' not in index
  print('All517 delivered social images byte-identical')

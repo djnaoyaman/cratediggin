@@ -1,3 +1,4 @@
+from approved_brand_identity import historical_brand_social_digest
 from approved_requested_two import historical_intake_tracks, historical_intake_file
 from pathlib import Path
 from approved_premier_feature import historical_premier_file
@@ -16,7 +17,7 @@ assert json.loads(historical_intake_file('releases.json',(R/'releases.json').rea
 s=(R/'src/app/renewal.js').read_text();assert '[300,360,450,570,720,900]' in s and "$('#shuffle-again').onclick=renewalDraw" in s
 assert 'window.external' not in s and 'navigator.share' not in s and 'serviceWorker.register' not in s
 if D.exists():
- for path,h in f['socialImages'].items():assert sha((D/path).read_bytes())==h,path
+ for path,h in f['socialImages'].items():assert historical_brand_social_digest(path,(D/path).read_bytes())==h,path
  profile=(D/'editor.html').read_text();assert '<span class="editor-name-accessible">DJ Naoyaman</span>' in profile
  assert 'class="editor-signature"' in profile and 'alt="" width="1881" height="628"' in profile
  assert '宮崎直哉' in profile and '約5万曲' in profile and '明治大学' in profile

@@ -1,3 +1,4 @@
+from approved_brand_identity import historical_brand_social_digest
 from pathlib import Path
 import json,hashlib
 from approved_album_navigation import historical_album_navigation_file
@@ -17,6 +18,6 @@ assert new==old.replace('queueCustom=customMode;queue=playableIds(filtered)','qu
 release=json.loads(historical_shuffle_scope_file('releases.json',(R/'releases.json').read_bytes()));assert release==dict(json.loads(F['files']['releases.json']['before']),version='22.2')
 assert historical_queue_scope_file('unrelated.txt',b'unchanged')==b'unchanged'
 if (R/'dist').exists():
- for path,h in F['socialImages'].items():assert sha((R/'dist'/path).read_bytes())==h,path
+ for path,h in F['socialImages'].items():assert historical_brand_social_digest(path,(R/'dist'/path).read_bytes())==h,path
  assert len(F['socialImages'])==519
 print('Exact one-branch queue scope correction;501 content/media/art and519 OGP preserved; drift rejection PASS')

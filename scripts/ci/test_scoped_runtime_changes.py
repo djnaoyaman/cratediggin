@@ -29,4 +29,17 @@ class ScopedRuntimeTests(unittest.TestCase):
   for path in ('tracks.json','unmapped.py'):
    bad=copy.deepcopy(self.m);bad['scoped_runtime_changes'][path]=bad['scoped_runtime_changes'].pop(self.path)
    with self.assertRaises(s.SelectionError):s.validate_manifest(bad,(HERE/'bootstrap-pages.yml').read_bytes())
+ def test_brand_assets_are_explicit_and_unknown_assets_block(self):
+  m=json.loads((HERE/'manifest.json').read_text())
+  for path in ['brand/identity/apple-180.png','brand/identity/install-512.png','brand/identity/favicon-192.png','brand/identity/social-1200.jpg']:
+   for status in ('A','M','D'):
+    change=dict(status=status,old_path=None if status=='A' else path,new_path=None if status=='D' else path)
+    p=s.select_changes(m,[change]);self.assertFalse(p['blockers']);self.assertIn('brand-identity',{c['id'] for c in p['selected']})
+  p=s.select_changes(m,[dict(status='R100',old_path='brand/identity/apple-180.png',new_path='brand/unknown.png')]);self.assertTrue(p['blockers'])
+ def test_brand_source_pairs_select_only_direct_brand_group(self):
+  m=json.loads((HERE/'manifest.json').read_text());root=HERE.parents[1]
+  f=json.loads((root/'scripts/fixtures/approved-brand-identity.json').read_text())
+  for path in ('brand_assets.py','build.py','discovery.py'):
+   p=s.select_changes(m,[dict(status='M',old_path=path,new_path=path)],lambda _:f['files'][path]['before'].encode(),lambda _:(root/path).read_bytes())
+   self.assertFalse(p['blockers']);self.assertEqual({c['id'] for c in p['selected']},set(m['groups']['brand_identity']))
 if __name__=='__main__':unittest.main()

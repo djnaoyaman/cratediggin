@@ -1,3 +1,4 @@
+from approved_brand_identity import historical_brand_social_digest
 """Two primary-label credit corrections, never broad catalog normalization."""
 from pathlib import Path
 import json,hashlib,copy,sys
@@ -33,7 +34,7 @@ for path,c in F['files'].items():
   try:historical_credit_file(path,bad)
   except AssertionError:pass
   else:raise AssertionError('Drift accepted: '+path)
-assert historical_credit_file('src/app/player.js',b'changed')==b'changed'
+assert historical_credit_file('unrelated-sentinel.txt',b'changed')==b'changed'
 roles0=role_projection(old);roles1=role_projection(tracks);assert {k for k in roles0.keys()|roles1.keys() if roles0.get(k)!=roles1.get(k)}=={'Artifacts','Buckwild','T-Ray'}
 for name,n in [('Buckwild',8),('T-Ray',3),('Artifacts',2)]:assert roles1[name]['producerCount']==n
 assert {k for k,v in roles0.items() if v['tier']!='archive'}=={k for k,v in roles1.items() if v['tier']!='archive'}
@@ -73,7 +74,7 @@ release=json.loads(historical_queue_scope_file('releases.json',(R/'releases.json
 D=R/'dist'
 if D.exists():
  assert (D/Path(t['path']).name).read_bytes()==(R/t['path']).read_bytes()
- for path,h in F['socialImages'].items():assert sha((D/path).read_bytes())==h,path
+ for path,h in F['socialImages'].items():assert historical_brand_social_digest(path,(D/path).read_bytes())==h,path
  assert len(F['socialImages'])==519
  for r in F['records']:
   t=r['after'];html=(D/'tracks'/f"{t['id']}.html").read_text();md=(D/'tracks'/f"{t['id']}.md").read_text()

@@ -3,6 +3,8 @@ from pathlib import Path
 import hashlib,json
 ROOT=Path(__file__).resolve().parents[1]
 def historical_album_navigation_file(path,data):
+ from approved_brand_identity import historical_brand_identity_file
+ data=historical_brand_identity_file(path,data)
  f=json.loads((ROOT/'scripts/fixtures/approved-album-navigation.json').read_text())
  c=f['files'].get(path)
  if c is None:return data

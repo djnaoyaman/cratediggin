@@ -6,6 +6,7 @@ import re
 from pathlib import Path
 from urllib.parse import quote, urlparse
 from revision_dates import revision_dates
+from brand_assets import brand_revision
 from catalog import work_type, work_label, work_count, year_label
 
 
@@ -17,6 +18,9 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
     esc = html.escape
     base_path = urlparse(host).path.rstrip('/')
     version = json.loads((root / 'releases.json').read_text(encoding='utf-8'))['version']
+    brand_images={'og-image.jpg'}|{'og/'+t['id']+'.jpg' for t in tracks if not t.get('art',{}).get('image')}
+    def image_url(image):
+        return host+'/'+image+'?v='+(brand_revision() if image in brand_images else version)
     deepdives = json.loads((root / 'editorial_deepdives.json').read_text(encoding='utf-8'))
     # Dates describe authored content, not image dimensions or other build projections.
     authored_tracks = json.loads((root / 'tracks.json').read_text(encoding='utf-8'))
@@ -62,7 +66,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
                  {'@type': 'BreadcrumbList', 'itemListElement': breadcrumb}]}
         pages[route] = {'route': route, 'path': base_path + '/' + relative,
                         'title': title, 'description': description, 'url': url,
-                        'image': host + '/' + image + '?v=' + version, 'imageAlt': image_alt or title, 'kind': kind,
+                        'image': image_url(image), 'imageAlt': image_alt or title, 'kind': kind,
                         'jsonld': data, 'target': target,
                         'published': data['@graph'][0].get('datePublished'),
                         'modified': data['@graph'][0].get('dateModified')}
@@ -74,7 +78,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
     def article(url, title, description, image, key, published=None, about=None):
         data = {'@type': 'Article', '@id': url + '#article', 'url': url, 'mainEntityOfPage': url,
                 'headline': title, 'description': description, 'inLanguage': 'ja', 'author': author,
-                'image': [host + '/' + image + '?v=' + version]}
+                'image': [image_url(image)]}
         if published:
             data['datePublished'] = published
         revision = revisions.get(key)

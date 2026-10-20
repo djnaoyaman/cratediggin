@@ -41,11 +41,11 @@ BLOCKS = {
         "source": 'from pathlib import Path\nimport json\nroot = Path(\'dist\')\nhtml = (root/\'index.html\').read_text(encoding=\'utf-8\')\nassert \'/cratediggin/tracks/\' in html, \'Project Pages links missing base path\'\nassert \'"//cratediggin/\' not in html, \'Broken protocol-relative Pages URLs\'\nassert \'src="/cratediggin/tracks.js\' in html, \'Track data script URL incorrect\'\nassert \'src="/cratediggin/app.js\' in html, \'Player script URL incorrect\'\n',
     },
     'touch-icon': {
-        "description": 'Preserve the unique vinyl touch icon and generated asset.',
+        "description": 'Preserve the unique tagging touch icon and generated asset.',
         "source_inputs": [],
-        "generated_inputs": ['dist/index.html', 'dist/apple-touch-icon-vinyl.png'],
+        "generated_inputs": ['dist/index.html', 'dist/apple-touch-icon-tagging.png'],
         "dependencies": [],
-        "source": 'from pathlib import Path\nimport json\nroot = Path(\'dist\')\nhtml = (root/\'index.html\').read_text(encoding=\'utf-8\')\nassert \'href="/cratediggin/apple-touch-icon-vinyl.png?v=original-20261016"\' in html, \'Vinyl touch icon URL missing\'\nassert html.count(\'rel="apple-touch-icon"\') == 1, \'Duplicate Apple touch icon tags\'\nassert (root/\'apple-touch-icon-vinyl.png\').exists(), \'Vinyl touch icon not generated\'\n',
+        "source": 'from pathlib import Path\nimport json\nroot = Path(\'dist\')\nhtml = (root/\'index.html\').read_text(encoding=\'utf-8\')\nassert \'href="/cratediggin/apple-touch-icon-tagging.png?v=\' in html, \'Tagging touch icon URL missing\'\nassert html.count(\'rel="apple-touch-icon"\') == 1, \'Duplicate Apple touch icon tags\'\nassert (root/\'apple-touch-icon-tagging.png\').exists(), \'Tagging touch icon not generated\'\n',
     },
     'artist-discovery': {
         "description": 'Preserve crawlable artist discovery, sitemap, and AI index.',

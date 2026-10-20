@@ -1,3 +1,4 @@
+from approved_brand_identity import historical_brand_social_digest
 """Two exact requested additions; no unrelated content, media, art or UI drift."""
 from pathlib import Path
 import json,hashlib,copy,sys
@@ -39,7 +40,7 @@ for bad in [dict(F['release']['before'],version='21.99'),dict(F['release']['befo
  except AssertionError:pass
  else:raise AssertionError('Release drift accepted')
 # Unknown paths are never exempted.
-assert historical_intake_file('src/app/player.js',b'changed')==b'changed'
+assert historical_intake_file('unrelated-sentinel.txt',b'changed')==b'changed'
 dives=json.loads((R/'editorial_deepdives.json').read_text());assert len(dives)==161 and dives[159:]==F['deepdives']
 art=json.loads((R/'graffiti_artwork.json').read_text())['tracks'];assert len(art)==501 and sum(x.get('status')=='ready' for x in art)==500
 assert [x for x in art if x['id'] in F['ids']]==F['artEntries']
@@ -65,7 +66,7 @@ features=json.loads((R/'features.json').read_text())['features'];assert len(feat
 for f in features:assert [t['id'] for t in feature_tracks(tracks,f)]==F['featureSelections'][f['id']]
 assert [t['id'] for t in tracks if 'essaySources' in t]==F['mappedIds'] and len(F['mappedIds'])==68
 if D.exists():
- for path,h in F['socialImages'].items():assert sha((D/path).read_bytes())==h,path
+ for path,h in F['socialImages'].items():assert historical_brand_social_digest(path,(D/path).read_bytes())==h,path
  actual={str(p.relative_to(D)) for p in D.rglob('*.jpg') if p.parent.name in {'og','feature-og'} or p.name in {'og-image.jpg','editor-og.jpg'}}
  assert actual==set(F['socialImages'])|{'og/'+id+'.jpg' for id in F['ids']} and len(actual)==519
  meta=json.loads((D/'metadata.js').read_text().split('=',1)[1].rstrip(';\n'));assert len(meta)==731
