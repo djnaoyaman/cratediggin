@@ -1836,6 +1836,42 @@
       "legacy": false,
       "requires_build": true,
       "label": "editor-profile-update"
+    },
+    {
+      "id": "person-queue-source",
+      "argv": [
+        "python",
+        "scripts/verify_person_queue.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": false,
+      "label": "person-queue-source"
+    },
+    {
+      "id": "person-queue-unit",
+      "argv": [
+        "node",
+        "scripts/verify_person_queue.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": false,
+      "label": "person-queue-unit"
+    },
+    {
+      "id": "person-queue-browser",
+      "argv": [
+        "node",
+        "scripts/verify_person_queue_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "person-queue-browser"
     }
   ],
   "groups": {
@@ -2192,6 +2228,11 @@
     "editor-profile-update": [
       "editor-profile-update",
       "chessboxin"
+    ],
+    "person_queue": [
+      "person-queue-source",
+      "person-queue-unit",
+      "person-queue-browser"
     ]
   },
   "runtime_rules": {
@@ -2762,13 +2803,30 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/approved_editor_profile_update.py": [
-      "scripts/fixtures/approved-editor-profile-update.json"
+      "scripts/fixtures/approved-editor-profile-update.json",
+      "scripts/approved_person_queue.py"
     ],
     "scripts/verify_editor_profile_update.py": [
       "scripts/approved_editor_profile_update.py"
     ],
     "scripts/verify_profile_notes_browser.cjs": [
       "scripts/fixtures/approved-editor-profile-update.json"
+    ],
+    "scripts/approved_person_queue.py": [
+      "scripts/fixtures/approved-person-queue.json"
+    ],
+    "scripts/verify_person_queue.py": [
+      "scripts/approved_person_queue.py"
+    ],
+    "scripts/verify_person_queue.cjs": [
+      "src/app/player.js",
+      "src/app/editorial.js"
+    ],
+    "scripts/verify_person_queue_browser.cjs": [
+      "scripts/fixtures/youtube-video-id-validation.json"
+    ],
+    "scripts/ci/test_scoped_runtime_changes.py": [
+      "scripts/approved_person_queue.py"
     ]
   },
   "policy_paths": [
@@ -2804,7 +2862,9 @@
     "scripts/approved_chessboxin.py",
     "scripts/fixtures/approved-chessboxin.json",
     "scripts/approved_editor_profile_update.py",
-    "scripts/fixtures/approved-editor-profile-update.json"
+    "scripts/fixtures/approved-editor-profile-update.json",
+    "scripts/approved_person_queue.py",
+    "scripts/fixtures/approved-person-queue.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -2922,6 +2982,13 @@
         "groups": [
           "album_bootstrap"
         ]
+      },
+      {
+        "before_sha256": "47839331002a49320f852c9a0f2ad5943f34c955cbd1a5b2057849dbb77e13bd",
+        "after_sha256": "8101714a5260c204cfb12f36530048daeee5fd93f034fa94031115ee125b1f40",
+        "groups": [
+          "person_queue"
+        ]
       }
     ],
     "src/app/router.js": [
@@ -3000,6 +3067,15 @@
         "after_sha256": "50f02a0e7a9dca6a721f166eeb34685ca2ddd25a9b2a33d9e310ff86415675d9",
         "groups": [
           "image_alt"
+        ]
+      }
+    ],
+    "src/app/editorial.js": [
+      {
+        "before_sha256": "e628e49d15a8bea7814397e034a1616d52c46ddc36d14fb6faa4b41cd25f53e5",
+        "after_sha256": "074018183963817772101bef8ccb80bcb909710d429bfbd7ffd975abb5090259",
+        "groups": [
+          "person_queue"
         ]
       }
     ]
