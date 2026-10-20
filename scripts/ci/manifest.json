@@ -1728,6 +1728,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "premium-notice"
+    },
+    {
+      "id": "wutang-feature",
+      "argv": [
+        "python",
+        "scripts/verify_wutang_feature.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "wutang-feature"
+    },
+    {
+      "id": "wutang-feature-browser",
+      "argv": [
+        "node",
+        "scripts/verify_wutang_feature_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "wutang-feature-browser"
     }
   ],
   "groups": {
@@ -2055,6 +2079,11 @@
     ],
     "premium_notice": [
       "premium-notice"
+    ],
+    "wutang_feature": [
+      "wutang-feature",
+      "wutang-feature-browser",
+      "54a3b5310da6d3db"
     ]
   },
   "runtime_rules": {
@@ -2565,10 +2594,22 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/approved_premium_notice.py": [
-      "scripts/fixtures/approved-premium-notice.json"
+      "scripts/fixtures/approved-premium-notice.json",
+      "scripts/approved_wutang_feature.py"
     ],
     "scripts/verify_premium_notice.py": [
       "scripts/approved_premium_notice.py"
+    ],
+    "scripts/approved_wutang_feature.py": [
+      "scripts/fixtures/approved-wutang-feature.json"
+    ],
+    "scripts/verify_wutang_feature.py": [
+      "scripts/approved_wutang_feature.py",
+      "scripts/fixtures/approved-wutang-feature.json"
+    ],
+    "scripts/verify_wutang_feature_browser.cjs": [
+      "scripts/fixtures/approved-wutang-feature.json",
+      "scripts/verify_visible_art_browser.cjs"
     ]
   },
   "policy_paths": [
@@ -2594,7 +2635,9 @@
     "scripts/approved_method_man.py",
     "scripts/fixtures/approved-method-man.json",
     "scripts/approved_premium_notice.py",
-    "scripts/fixtures/approved-premium-notice.json"
+    "scripts/fixtures/approved-premium-notice.json",
+    "scripts/approved_wutang_feature.py",
+    "scripts/fixtures/approved-wutang-feature.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -2828,6 +2871,33 @@
         "after_sha256": "1eed0bc4335ae9c6e0088d49ba61f4faf19e32f49a65b922a128ac709ce5046e",
         "groups": [
           "method_man"
+        ]
+      }
+    ],
+    "features.json": [
+      {
+        "before_sha256": "3dc2309928e12a28a9db8dbdd60a866a9fd3b01055e8e0f49bbce5b3e87c4299",
+        "after_sha256": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+        "groups": [
+          "wutang_feature"
+        ]
+      }
+    ],
+    "src/assets/feature-wu-tang-clan-provided-collage.jpg": [
+      {
+        "before_sha256": null,
+        "after_sha256": "ec54d1baf77155004c202f16a8959a35dbd9df771a33a3a7d9a5d626044ca705",
+        "groups": [
+          "wutang_feature"
+        ]
+      }
+    ],
+    "src/assets/feature-wu-tang-clan-tag.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "de3f45cf6568dae60a09235d0eba0536e38d0ace22ac77138cec419aeb55994b",
+        "groups": [
+          "wutang_feature"
         ]
       }
     ]
