@@ -3,6 +3,8 @@ from pathlib import Path
 import hashlib,json
 ROOT=Path(__file__).resolve().parents[1]
 def historical_queue_scope_file(path,data):
+    from approved_shuffle_scope import historical_shuffle_scope_file
+    data=historical_shuffle_scope_file(path,data)
     f=json.loads((ROOT/'scripts/fixtures/approved-queue-scope.json').read_text())
     c=f['files'].get(path)
     if c is None:return data
