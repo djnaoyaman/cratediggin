@@ -1824,6 +1824,18 @@
       "legacy": false,
       "requires_build": true,
       "label": "chessboxin-browser"
+    },
+    {
+      "id": "editor-profile-update",
+      "argv": [
+        "python",
+        "scripts/verify_editor_profile_update.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "editor-profile-update"
     }
   ],
   "groups": {
@@ -2176,6 +2188,10 @@
       "wutang-feature",
       "wutang-feature-browser",
       "aint-nuthing"
+    ],
+    "editor-profile-update": [
+      "editor-profile-update",
+      "chessboxin"
     ]
   },
   "runtime_rules": {
@@ -2734,7 +2750,8 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/approved_chessboxin.py": [
-      "scripts/fixtures/approved-chessboxin.json"
+      "scripts/fixtures/approved-chessboxin.json",
+      "scripts/approved_editor_profile_update.py"
     ],
     "scripts/verify_chessboxin.py": [
       "scripts/approved_chessboxin.py",
@@ -2743,6 +2760,15 @@
     ],
     "scripts/verify_chessboxin_browser.cjs": [
       "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_editor_profile_update.py": [
+      "scripts/fixtures/approved-editor-profile-update.json"
+    ],
+    "scripts/verify_editor_profile_update.py": [
+      "scripts/approved_editor_profile_update.py"
+    ],
+    "scripts/verify_profile_notes_browser.cjs": [
+      "scripts/fixtures/approved-editor-profile-update.json"
     ]
   },
   "policy_paths": [
@@ -2776,7 +2802,9 @@
     "scripts/approved_aint_nuthing.py",
     "scripts/fixtures/approved-aint-nuthing.json",
     "scripts/approved_chessboxin.py",
-    "scripts/fixtures/approved-chessboxin.json"
+    "scripts/fixtures/approved-chessboxin.json",
+    "scripts/approved_editor_profile_update.py",
+    "scripts/fixtures/approved-editor-profile-update.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -3127,6 +3155,15 @@
         "after_sha256": "a3b52a650a0979ae9d1dbc6f084d846ddb356712798a1c79de8f184540823eba",
         "groups": [
           "chessboxin"
+        ]
+      }
+    ],
+    "editor_profile.json": [
+      {
+        "before_sha256": "d804c5cc45593e125fc1993751feafd6bd1b823fa7ed20f8cb3301c4ca6a4815",
+        "after_sha256": "1d73bceeb6ffb6d5e212bf62eaff685412c114479c73c3e024cc396b94ece161",
+        "groups": [
+          "editor-profile-update"
         ]
       }
     ]

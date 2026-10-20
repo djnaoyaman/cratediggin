@@ -63,6 +63,6 @@ if not args.source_only:
  assert all(s['heading'] in page for s in dives[-1]['sections'])
  assert 'https://djnaoyaman.github.io/cratediggin/tracks/'+id+'.html' in (D/'sitemap.xml').read_text()
  registry=json.loads((D/'metadata.js').read_text().strip().removeprefix('window.CRATE_PAGES=').removesuffix(';'))
- assert registry['#/song/'+id]['image'].endswith('/og/'+id+'.jpg?v=22.16')
+ assert registry['#/song/'+id]['image'].endswith('/og/'+id+'.jpg?v='+json.loads((R/'releases.json').read_text())['version'])
  assert (D/'og'/(id+'.jpg')).is_file()
 print('One Chessboxin addition; exact published504 prefix, source mappings, transparent art, honest media metadata, negative partial bundle'+(' (source-only; generated output not run)' if args.source_only else ', generated article/Markdown/metadata/sitemap PASS'))
