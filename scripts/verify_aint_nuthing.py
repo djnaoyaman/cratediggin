@@ -31,6 +31,9 @@ assert set(track['connections'])<={t['id'] for t in old}
 assert track['essayTitle'] not in {t['essayTitle'] for t in old}
 dives=json.loads((R/'editorial_deepdives.json').read_text());assert dives[-1]==F['deepdive']
 assert len({(d['artist'].casefold(),d['title'].casefold()) for d in dives})==len(dives)
+sys.path.insert(0,str(R))
+from editorial_references import enrich_sections
+assert len(enrich_sections(track,dives[-1]['sections']))==3
 for section in dives[-1]['sections']:
  assert section['text'] and section['heading'] and section['sources']
  assert all(0<=i<len(track['sources']) for i in section['sources'])

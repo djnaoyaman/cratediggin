@@ -156,7 +156,8 @@
         "sources": [
           1
         ],
-        "source": "https://daily.redbullmusicacademy.com/2018/06/engineering-wu-tang-clan/"
+        "source": "https://daily.redbullmusicacademy.com/2018/06/engineering-wu-tang-clan/",
+        "sourceLabel": "Red Bull Music Academy — Engineering the Wu-Tang Clan, 2018"
       },
       {
         "heading": "歓声になったタイトル",
@@ -164,7 +165,8 @@
         "sources": [
           2
         ],
-        "source": "https://www.highsnobiety.com/p/wu-tang-clan-36-chambers-interview/"
+        "source": "https://www.highsnobiety.com/p/wu-tang-clan-36-chambers-interview/",
+        "sourceLabel": "Highsnobiety — Wu-Tang Clan Speak on 36 Chambers, 2018"
       },
       {
         "heading": "共同制作を、均等な作業分担と言い換えない",
@@ -172,7 +174,8 @@
         "sources": [
           0
         ],
-        "source": "https://coverartarchive.org/release/2a059e43-e66c-4d6d-9a4f-dea9a6919061/23472558266.jpg"
+        "source": "https://coverartarchive.org/release/2a059e43-e66c-4d6d-9a4f-dea9a6919061/23472558266.jpg",
+        "sourceLabel": "Enter the Wu-Tang original US CD booklet"
       }
     ]
   },
@@ -203,7 +206,7 @@
     },
     "editorial_deepdives.json": {
       "beforeSHA256": "4ecd66799f48a3fb23263826839b88f2d5b3c6c1ead89020933338f60b12ae8f",
-      "afterSHA256": "2223024a87b0fc47cfe58001f180ee04b1d63ed6a76b7c4e47ea54629b8ff6bc",
+      "afterSHA256": "25fd8abbf36453582ec62797f245b0e8d3f8b98cacf44c6f5e640a422d167697",
       "arrayKey": null,
       "beforeCount": 163
     },
