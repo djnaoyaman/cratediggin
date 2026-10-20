@@ -1596,6 +1596,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "Catalog-derived static hero count"
+    },
+    {
+      "id": "album-navigation-preservation",
+      "argv": [
+        "python",
+        "scripts/verify_album_navigation.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": false,
+      "label": "album-navigation-preservation"
+    },
+    {
+      "id": "album-navigation-browser",
+      "argv": [
+        "node",
+        "scripts/verify_album_navigation_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "album-navigation-browser"
     }
   ],
   "groups": {
@@ -1836,7 +1860,8 @@
       "be955d53a17c6671",
       "5790b8c6bd29cc39",
       "cfbf4af948b88cfd",
-      "e0297cb34bc6eb08"
+      "e0297cb34bc6eb08",
+      "album-navigation-preservation"
     ],
     "article": [
       "3a98739a23fad1c3",
@@ -1864,6 +1889,22 @@
     ],
     "static_work_count": [
       "static-work-count"
+    ],
+    "album_navigation": [
+      "66d6521fb1ff5bb0",
+      "c0e498c4bc9a0343",
+      "11cc02294f7b3422",
+      "8aa8a08ab16690d1",
+      "43d6239a266f66a6",
+      "edf6a18bb0e41e73",
+      "be79c0fe5c1e7856",
+      "0a206c4010036a19",
+      "257ca35e99884782",
+      "e4962cf597ea9cd1",
+      "d9d2aa06afacde8a",
+      "5790b8c6bd29cc39",
+      "album-navigation-preservation",
+      "album-navigation-browser"
     ]
   },
   "runtime_rules": {
@@ -2181,7 +2222,8 @@
     "scripts/verify_queue_scope.py": [
       "scripts/approved_queue_scope.py",
       "scripts/approved_shuffle_scope.py",
-      "scripts/fixtures/approved-queue-scope.json"
+      "scripts/fixtures/approved-queue-scope.json",
+      "scripts/approved_album_navigation.py"
     ],
     "scripts/verify_browser_tools.py": [
       "scripts/approved_browser_tools.py",
@@ -2280,11 +2322,19 @@
       "tracks.json"
     ],
     "scripts/approved_static_work_count.py": [
-      "scripts/fixtures/approved-static-work-count.json"
+      "scripts/fixtures/approved-static-work-count.json",
+      "scripts/approved_album_navigation.py"
     ],
     "scripts/verify_static_work_count.py": [
       "scripts/approved_static_work_count.py",
       "scripts/fixtures/approved-static-work-count.json"
+    ],
+    "scripts/approved_album_navigation.py": [
+      "scripts/fixtures/approved-album-navigation.json"
+    ],
+    "scripts/verify_album_navigation.py": [
+      "scripts/approved_album_navigation.py",
+      "scripts/fixtures/approved-album-navigation.json"
     ]
   },
   "policy_paths": [
@@ -2295,7 +2345,9 @@
     "scripts/approved_shuffle_scope.py",
     "scripts/verify_shuffle_scope.py",
     "scripts/approved_static_work_count.py",
-    "scripts/fixtures/approved-static-work-count.json"
+    "scripts/fixtures/approved-static-work-count.json",
+    "scripts/approved_album_navigation.py",
+    "scripts/fixtures/approved-album-navigation.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -2372,6 +2424,69 @@
         "after_sha256": "40aa4e80841903f3d638e17ff9e1a77071b5edc72ca6ca1ced9440bcfaa4d977",
         "groups": [
           "static_work_count"
+        ]
+      }
+    ],
+    "src/app/album-player.js": [
+      {
+        "before_sha256": "4ba7c032d216c1dede4a2d66fc747674acf34861efdf35a618320100e9a566af",
+        "after_sha256": "3c7da645801aa2569afa330912beccbd98caca067efa8876e865990c68094271",
+        "groups": [
+          "album_navigation"
+        ]
+      }
+    ],
+    "src/app/player.js": [
+      {
+        "before_sha256": "760bc3bd2b2311ffd66d4fe822a4cbe8fa7e181ef681099b4366d4ab98a178da",
+        "after_sha256": "f7c64e7486724eda3f6ceee8e0939b3ff5e9360bd68b8fe1a585a63149fe78f2",
+        "groups": [
+          "album_navigation"
+        ]
+      }
+    ],
+    "src/app/router.js": [
+      {
+        "before_sha256": "1270fa8855492102a3a8ced614d31c5a2bdebd5f2a0fa90f48fb48b00763f85c",
+        "after_sha256": "c9f7c7ae480f019ea52b13de79f379585f2a784fc1259d068de656ee9cf25fcc",
+        "groups": [
+          "album_navigation"
+        ]
+      }
+    ],
+    "src/app/playlist-ui.js": [
+      {
+        "before_sha256": "14ccf4e173029b761b838f00d06c534d08520baa201935341bcac448a0c84f7f",
+        "after_sha256": "9c9f9545138b87ed085db1e521eed2ffce6747e301445be3f23501ec43cd0542",
+        "groups": [
+          "album_navigation"
+        ]
+      }
+    ],
+    "src/app/catalog-ui.js": [
+      {
+        "before_sha256": "670bee8f6a975023f85be36db252cdfc152cf10d1ef0dd3e18ce2d82c74098c7",
+        "after_sha256": "41657658439da6b77a1bd17382ee9aa9c5d1266c0817591142a72cb8e3fd7414",
+        "groups": [
+          "album_navigation"
+        ]
+      }
+    ],
+    "src/app/song-ui.js": [
+      {
+        "before_sha256": "b6618bbb3df4a5995226b9c5d9e1de3e77580d1ab09b498d84658266ca38ea07",
+        "after_sha256": "17550fe0d77afb50e2b961969f00e21892d4865f32fffa29fd251007dd13de38",
+        "groups": [
+          "album_navigation"
+        ]
+      }
+    ],
+    "src/app/inline-player.js": [
+      {
+        "before_sha256": "e8e7ec43ac59b25135857effed5244d75db101625aeb0684959279252e68659a",
+        "after_sha256": "64fb405e83f5f42ff6ef727850c907d4b93dd28d2fbae8f7bc71333efa7ba40d",
+        "groups": [
+          "album_navigation"
         ]
       }
     ]

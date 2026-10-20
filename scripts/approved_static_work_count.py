@@ -3,6 +3,8 @@ from pathlib import Path
 import hashlib,json
 ROOT=Path(__file__).resolve().parents[1]
 def historical_static_work_count_file(path,data):
+ from approved_album_navigation import historical_album_navigation_file
+ data=historical_album_navigation_file(path,data)
  f=json.loads((ROOT/'scripts/fixtures/approved-static-work-count.json').read_text())
  c=f['files'].get(path)
  if c is None:return data
