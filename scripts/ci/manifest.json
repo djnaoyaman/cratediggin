@@ -1776,6 +1776,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "triumph-browser"
+    },
+    {
+      "id": "aint_nuthing",
+      "argv": [
+        "python",
+        "scripts/verify_aint_nuthing.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "aint_nuthing"
+    },
+    {
+      "id": "aint-nuthing-browser",
+      "argv": [
+        "node",
+        "scripts/verify_aint_nuthing_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "aint-nuthing-browser"
     }
   ],
   "groups": {
@@ -2114,6 +2138,13 @@
       "triumph-browser",
       "wutang-feature",
       "wutang-feature-browser"
+    ],
+    "aint_nuthing": [
+      "aint_nuthing",
+      "aint-nuthing-browser",
+      "wutang-feature",
+      "wutang-feature-browser",
+      "triumph"
     ]
   },
   "runtime_rules": {
@@ -2646,14 +2677,27 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/approved_triumph.py": [
-      "scripts/fixtures/approved-triumph.json"
+      "scripts/fixtures/approved-triumph.json",
+      "scripts/approved_aint_nuthing.py"
     ],
     "scripts/verify_triumph.py": [
       "scripts/approved_triumph.py",
       "scripts/editorial_uniqueness.py",
-      "scripts/fixtures/editorial-legacy-debt.json"
+      "scripts/fixtures/editorial-legacy-debt.json",
+      "scripts/approved_aint_nuthing.py"
     ],
     "scripts/verify_triumph_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_aint_nuthing.py": [
+      "scripts/fixtures/approved-aint-nuthing.json"
+    ],
+    "scripts/verify_aint_nuthing.py": [
+      "scripts/approved_aint_nuthing.py",
+      "scripts/editorial_uniqueness.py",
+      "scripts/fixtures/editorial-legacy-debt.json"
+    ],
+    "scripts/verify_aint_nuthing_browser.cjs": [
       "scripts/verify_visible_art_browser.cjs"
     ]
   },
@@ -2684,7 +2728,9 @@
     "scripts/approved_wutang_feature.py",
     "scripts/fixtures/approved-wutang-feature.json",
     "scripts/approved_triumph.py",
-    "scripts/fixtures/approved-triumph.json"
+    "scripts/fixtures/approved-triumph.json",
+    "scripts/approved_aint_nuthing.py",
+    "scripts/fixtures/approved-aint-nuthing.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -2899,6 +2945,13 @@
         "groups": [
           "triumph"
         ]
+      },
+      {
+        "before_sha256": "6d60dc3e31b377227b47a678db1e9a24bc71df73359bcfa1556c23573f6dcd69",
+        "after_sha256": "31263e671d0fd277b5f1ef4721b9726ce66064fa5d98f4050ffc1fc482cec26f",
+        "groups": [
+          "aint_nuthing"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -2915,6 +2968,13 @@
         "groups": [
           "triumph"
         ]
+      },
+      {
+        "before_sha256": "4ecd66799f48a3fb23263826839b88f2d5b3c6c1ead89020933338f60b12ae8f",
+        "after_sha256": "2223024a87b0fc47cfe58001f180ee04b1d63ed6a76b7c4e47ea54629b8ff6bc",
+        "groups": [
+          "aint_nuthing"
+        ]
       }
     ],
     "graffiti_artwork.json": [
@@ -2930,6 +2990,13 @@
         "after_sha256": "3fe85c203b063ba2eb6080eff6d03aa8b847f8e60a159c92e0093a982451be45",
         "groups": [
           "triumph"
+        ]
+      },
+      {
+        "before_sha256": "3fe85c203b063ba2eb6080eff6d03aa8b847f8e60a159c92e0093a982451be45",
+        "after_sha256": "e338d45cd6860beae2c83056e6a330fde7a11a2243c2a62b249a50e6caaee748",
+        "groups": [
+          "aint_nuthing"
         ]
       }
     ],
@@ -2975,6 +3042,15 @@
         "after_sha256": "81dc16b319c1fe41eefae6a422925528719c6cf055b39a07a1f5e2bcb553adbc",
         "groups": [
           "triumph"
+        ]
+      }
+    ],
+    "assets/graffiti/wu-tang-clan-aint-nuthing-ta-f-wit-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "f2f762173439510f0a561cd7f0791c6ed894b96fbdb7512c38df5d2eb942af60",
+        "groups": [
+          "aint_nuthing"
         ]
       }
     ]

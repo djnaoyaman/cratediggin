@@ -57933,5 +57933,150 @@
       "paletteSourceUrl": "https://getondown.com/products/wu-tang-forever-4xlp-lyric-booklet",
       "paletteNote": "正規再発のジャケットを目視参照した近似配色。黒、銀灰色、生成り、抑えたセピアを基にし、写真やロゴは転載しない。"
     }
+  },
+  {
+    "id": "wu-tang-clan-aint-nuthing-ta-f-wit",
+    "title": "Wu-Tang Clan Ain’t Nuthing ta F’ Wit",
+    "artist": "Wu-Tang Clan",
+    "artists": [
+      "Wu-Tang Clan"
+    ],
+    "year": 1993,
+    "yearBasis": "1993年オリジナルUS CDの曲目と制作クレジットを照合。公式動画の公開年や再発年とは区別。",
+    "album": "Enter the Wu-Tang (36 Chambers)",
+    "producer": "RZA（共同制作：Method Man）",
+    "producers": [
+      "RZA",
+      "Method Man"
+    ],
+    "region": "New York",
+    "scene": "Staten Island / Wu-Tang Clan",
+    "label": "Loud / RCA",
+    "category": "Hip Hop",
+    "essayTitle": "子ども番組の記憶が、クルーの合言葉へ変わる",
+    "deck": "Underdogの主題曲と、原盤に残るMethod Manの共同制作クレジット。強烈なタイトルの奥から、Wu-Tangの音を作った共同作業を読む。",
+    "essay": [
+      "曲名そのものがクルーの宣言になっている「Wu-Tang Clan Ain’t Nuthing ta F’ Wit」。1993年の原盤CDでは第7曲、3分36秒と記される。RZA、Inspectah Deck、Method Manの声を中心に据えた曲は、大人数の全員紹介とは違う方法でWu-Tangの名前を残す。短い合言葉と三者のラップが、集団の看板になる。",
+      "その輪郭を作る素材には、アニメ「Underdog」の主題曲がある。FirehouseのエンジニアNolan Moffitteは2018年のRed Bull Music Academyで、その素材をRZAが入れた現場にいたと証言した。子ども番組の音が、別の場所と声の中で威圧感を帯びる。元ネタの意外さで終わらず、同じ音が何を背負うようになったかを聴き比べたい。",
+      "原盤にはRZAの制作名だけでなく、Method Manの共同制作を示す記号がある。ラップの担当とビートの制作担当を分けて読むと、Method Manはマイクの前だけにいたわけではないと分かる。どの音を誰が操作したかまでは、このクレジットだけでは断定できない。それでも「RZAがすべてを一人で作った」という省略を避けるための、確かな手掛かりだ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        4
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "Underdogの主題曲の使用は録音現場にいたNolan Moffitteの証言で確認。具体的な市販原盤・版・演奏者・年は未確定のため、サンプル音源の一覧には登録していません。",
+    "sources": [
+      {
+        "label": "Enter the Wu-Tang original US CD booklet",
+        "url": "https://coverartarchive.org/release/2a059e43-e66c-4d6d-9a4f-dea9a6919061/23472558266.jpg",
+        "kind": "primary_original_packaging_scan",
+        "scope": "Track7 3:36。RZA制作・ミックス・アレンジ、Method Man共同制作、Ethan Rymanエンジニア。"
+      },
+      {
+        "label": "Red Bull Music Academy — Engineering the Wu-Tang Clan, 2018",
+        "url": "https://daily.redbullmusicacademy.com/2018/06/engineering-wu-tang-clan/",
+        "kind": "primary_recording_personnel_oral_history",
+        "scope": "Nolan MoffitteはUnderdog素材を入れた現場への同席を証言。Ethan RymanはRZAと自身のサンプラー／卓・テープの役割分担を説明。"
+      },
+      {
+        "label": "Highsnobiety — Wu-Tang Clan Speak on 36 Chambers, 2018",
+        "url": "https://www.highsnobiety.com/p/wu-tang-clan-36-chambers-interview/",
+        "kind": "primary_artist_interview_and_event_report",
+        "scope": "U-God、Cappadonnaへの取材とシドニー・オペラハウス公演の現場記事。"
+      },
+      {
+        "label": "RCA / Legacy — Ain’t Nuthing official delivery",
+        "url": "https://www.youtube.com/watch?v=G1GdDt5mrqo",
+        "kind": "primary_distributor_video",
+        "scope": "曲名・アルバム・制作担当の照合用。"
+      },
+      {
+        "label": "WuTangClanVEVO — Ain’t Nuthing Official Audio",
+        "url": "https://www.youtube.com/watch?v=YKa5tyjLbi8",
+        "kind": "primary_artist_video",
+        "scope": "公開用公式音源候補。個別メタデータファイルで配信国・長さを確認。"
+      }
+    ],
+    "connections": [
+      "wu-tang-clan-method-man",
+      "wu-tang-clan-protect-ya-neck",
+      "wu-tang-clan-triumph"
+    ],
+    "listening": [
+      "Underdogの素材についての現場証言を踏まえ、声と背景の音が作る印象の違いを聴く。",
+      "三人の声と短いタイトルの言葉が、集団名をどう印象づけるかに注目する。"
+    ],
+    "moods": [
+      "グルーヴ"
+    ],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "editorialStatus": "公式音源の作品情報・日本の配信対象・埋め込み許可をメタデータで照合。日本国内からの実再生と埋め込み再生は未確認です。",
+    "noteReviewedAt": "2026-10-21",
+    "youtube": {
+      "id": "YKa5tyjLbi8",
+      "url": "https://www.youtube.com/watch?v=YKa5tyjLbi8",
+      "title": "Wu-Tang Clan Ain’t Nuthing ta F’ Wit (Official Audio)",
+      "channel": "WuTangClanVEVO",
+      "channelId": "UC1wNaX00osCIK4VjwboFqzA",
+      "type": "公式音源",
+      "official": true,
+      "verified": "2026-10-20",
+      "duration": "PT3M38S",
+      "embedUrl": "https://www.youtube.com/embed/YKa5tyjLbi8",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "version": "Official album-family audio (metadata cross-check; no audio/master comparison)",
+      "versionBasis": "Official audio and explicit album-track retailer metadata correspond to the1993 album family. Original booklet3:36; selected upload218 seconds. No listening, waveform, original-master or censorship comparison performed.",
+      "verification": "公開ページのメタデータは再生可・埋め込み可、日本を配信対象に含む。実再生や波形照合は行っていない。",
+      "explicitMetadataCrosscheck": "https://music.amazon.co.jp/tracks/B076NTZSXK",
+      "japanAvailableInMetadata": true,
+      "metadataPlayableInEmbed": true,
+      "japanAvailableMetadata": true,
+      "embeddableMetadata": true
+    },
+    "aliases": [],
+    "versionBasis": "Official audio and explicit album-track retailer metadata correspond to the1993 album family. Original booklet3:36; selected upload218 seconds. No listening, waveform, original-master or censorship comparison performed.",
+    "context": "1993年のEnter the Wu-Tang (36 Chambers)収録曲。原盤の制作記号と録音現場の証言を併読する。",
+    "datePublished": "2026-10-21",
+    "addedOrder": 497,
+    "art": {
+      "word": "WU-TANG CLAN AIN’T NUTHING TA F’ WIT",
+      "lines": [
+        "WU-TANG CLAN",
+        "AIN’T NUTHING",
+        "TA F’ WIT"
+      ],
+      "tag": "WU-TANG CLAN",
+      "style": "piece",
+      "seed": 19933607,
+      "palette": [
+        "#F4F0DF",
+        "#19140C",
+        "#DA9A13",
+        "#9B4C1B",
+        "#512A2D"
+      ],
+      "paletteSource": "Enter the Wu-Tang (36 Chambers)",
+      "paletteSourceUrl": "https://coverartarchive.org/release/2a059e43-e66c-4d6d-9a4f-dea9a6919061/10112836421.jpg",
+      "paletteNote": "1993年US CDの原盤ジャケットを目視参照した近似配色。黒、黄土色、褐色、生成りを基にし、写真やロゴは転載しない。"
+    }
   }
 ]
