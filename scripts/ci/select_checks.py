@@ -148,6 +148,14 @@ def validate_manifest(manifest, snapshot):
         safe_path(path)
         if not groups or any(g not in manifest['groups'] for g in groups):
             raise SelectionError(f'Missing runtime behavior group for {path}')
+    for path, rules in manifest.get('scoped_runtime_changes', {}).items():
+        if path not in manifest['runtime_rules'] or not isinstance(rules, list) or not rules:
+            raise SelectionError(f'Invalid scoped runtime path: {path}')
+        for rule in rules:
+            if set(rule) != {'before_sha256','after_sha256','groups'} or any(not isinstance(rule[k], str) or not re.fullmatch('[0-9a-f]{64}', rule[k]) for k in ('before_sha256','after_sha256')):
+                raise SelectionError(f'Invalid scoped runtime identity: {path}')
+            if not rule['groups'] or any(g not in manifest['groups'] for g in rule['groups']):
+                raise SelectionError(f'Invalid scoped runtime groups: {path}')
     for owner, dependencies in manifest.get('script_dependencies', {}).items():
         safe_path(owner)
         for path in dependencies:
@@ -175,7 +183,25 @@ def merge_manifests(base, candidate):
             merged[field][key] = list(dict.fromkeys(merged[field].get(key, []) + values))
     for field in ('policy_paths', 'policy_files', 'data_paths', 'nonruntime_paths', 'syntax_existing', 'integrity_ids', 'blocked_asset_prefixes'):
         merged[field] = list(dict.fromkeys(merged[field] + base[field]))
+    for path, rules in base.get('scoped_runtime_changes', {}).items():
+        target = merged.setdefault('scoped_runtime_changes', {}).setdefault(path, [])
+        for rule in rules:
+            if rule not in target:
+                target.append(rule)
     return merged
+
+
+def scoped_runtime_groups(manifest, path, read_before, read_after):
+    if read_before is None or read_after is None:
+        return None
+    before, after = read_before(path), read_after(path)
+    if before is None or after is None:
+        return None
+    groups = []
+    for rule in manifest.get('scoped_runtime_changes', {}).get(path, []):
+        if hashlib.sha256(before).hexdigest() == rule['before_sha256'] and hashlib.sha256(after).hexdigest() == rule['after_sha256']:
+            groups.extend(rule['groups'])
+    return list(dict.fromkeys(groups)) or None
 
 
 def reverse_consumers(paths, dependencies):
@@ -233,6 +259,13 @@ def select_changes(manifest, changes, read_before=None, read_after=None, event='
             add_group('policy', path + ' → CI policy/dispatch/strict preservation contract')
             classified.append({'path': path, 'scope': 'policy'})
         elif path in manifest['runtime_rules']:
+            narrow = scoped_runtime_groups(manifest, path, read_before, read_after)
+            if narrow is not None:
+                for group in narrow:
+                    add_group(group, path + ' → exact reviewed before/after rendering delta')
+                build = True
+                classified.append({'path': path, 'scope': 'exact runtime delta'})
+                continue
             for group in manifest['runtime_rules'][path]:
                 add_group(group, path + ' → explicitly declared direct runtime consumers')
             build = True
