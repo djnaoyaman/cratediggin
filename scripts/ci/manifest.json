@@ -1680,6 +1680,18 @@
       "legacy": false,
       "requires_build": false,
       "label": "python scripts/verify_album_recovery.py"
+    },
+    {
+      "id": "album-bootstrap-preservation",
+      "argv": [
+        "python",
+        "scripts/verify_album_bootstrap.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": false,
+      "label": "python scripts/verify_album_bootstrap.py"
     }
   ],
   "groups": {
@@ -1990,6 +2002,16 @@
       "album-navigation-preservation",
       "album-navigation-browser",
       "album-recovery-preservation"
+    ],
+    "album_bootstrap": [
+      "66d6521fb1ff5bb0",
+      "c0e498c4bc9a0343",
+      "11cc02294f7b3422",
+      "8aa8a08ab16690d1",
+      "album-navigation-preservation",
+      "album-navigation-browser",
+      "album-recovery-preservation",
+      "album-bootstrap-preservation"
     ]
   },
   "runtime_rules": {
@@ -2460,12 +2482,27 @@
       "scripts/approved_album_recovery.py"
     ],
     "scripts/approved_album_recovery.py": [
-      "scripts/fixtures/approved-album-recovery.json"
+      "scripts/fixtures/approved-album-recovery.json",
+      "scripts/approved_album_bootstrap.py"
     ],
     "scripts/verify_album_recovery.py": [
       "scripts/approved_album_recovery.py",
       "scripts/approved_album_navigation.py",
-      "scripts/fixtures/approved-album-navigation.json"
+      "scripts/fixtures/approved-album-navigation.json",
+      "scripts/approved_album_bootstrap.py"
+    ],
+    "scripts/approved_album_bootstrap.py": [
+      "scripts/fixtures/approved-album-bootstrap.json"
+    ],
+    "scripts/verify_album_bootstrap.py": [
+      "scripts/approved_album_bootstrap.py",
+      "scripts/fixtures/youtube-video-id-validation.json"
+    ],
+    "scripts/verify_album_player.cjs": [
+      "scripts/fixtures/youtube-video-id-validation.json"
+    ],
+    "scripts/verify_album_navigation_browser.cjs": [
+      "scripts/fixtures/youtube-video-id-validation.json"
     ]
   },
   "policy_paths": [
@@ -2484,7 +2521,10 @@
     "scripts/approved_image_alt.py",
     "scripts/fixtures/approved-image-alt.json",
     "scripts/approved_album_recovery.py",
-    "scripts/fixtures/approved-album-recovery.json"
+    "scripts/fixtures/approved-album-recovery.json",
+    "scripts/approved_album_bootstrap.py",
+    "scripts/fixtures/approved-album-bootstrap.json",
+    "scripts/fixtures/youtube-video-id-validation.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -2586,6 +2626,13 @@
         "after_sha256": "f7c64e7486724eda3f6ceee8e0939b3ff5e9360bd68b8fe1a585a63149fe78f2",
         "groups": [
           "album_navigation"
+        ]
+      },
+      {
+        "before_sha256": "f7c64e7486724eda3f6ceee8e0939b3ff5e9360bd68b8fe1a585a63149fe78f2",
+        "after_sha256": "47839331002a49320f852c9a0f2ad5943f34c955cbd1a5b2057849dbb77e13bd",
+        "groups": [
+          "album_bootstrap"
         ]
       }
     ],
