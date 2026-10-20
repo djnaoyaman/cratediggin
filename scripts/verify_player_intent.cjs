@@ -44,7 +44,7 @@ for(const album of [false,true]){
 }
 console.log('Asynchronous main/album rapid global-ART intent, loading cancel, late callbacks, native recovery, sample return and duration reset passed; no real playback claim');
 
-{const t=setup();t.ready();const p=t.album();p.index=0;p.state(1);p.state(0);assert.equal(t.session().wantsPlay,true);p.state(3);t.timers();assert.equal(t.session().failed,true,'Intermediate member stall must retain watchdog');}
+{const t=setup();t.ready();const p=t.album();p.index=0;p.state(1);p.state(0);assert.equal(t.session().wantsPlay,true);p.state(3);t.timers();assert.equal(t.session().failed,false,'Intermediate member stall must remain recoverable');assert.equal(t.session().wantsPlay,false,'Watchdog clears stalled play intent');assert.equal(t.$('#start').hidden,false,'Watchdog exposes explicit retry');}
 {const t=setup();t.ready();const p=t.album();p.index=30;p.state(1);p.state(0);assert.equal(t.session().wantsPlay,false);assert.equal(t.c.cur,1);assert.equal(t.$('#toggle').textContent,'▶');}
 {const t=setup();t.ready();t.c.startSong(0);const p=t.players[0];p.video='';p.error(100);assert.equal(t.c.playbackErrors().length,1,'Unknown provider metadata must not discard errors');}
 {const t=setup();t.ready();t.c.startSong(0);const p=t.players[0];for(const state of [-1,5,3]){p.state(state);assert.equal(t.$('#toggle').textContent,'Ⅱ');}t.c.toggle();for(const state of [-1,5,3]){p.state(state);assert.equal(t.$('#toggle').textContent,'▶');}}
