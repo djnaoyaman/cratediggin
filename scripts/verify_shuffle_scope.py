@@ -1,3 +1,4 @@
+from approved_method_man import historical_method_man_file
 from pathlib import Path
 import hashlib,json
 from approved_shuffle_scope import historical_shuffle_scope_file
@@ -9,8 +10,8 @@ for path,c in F['files'].items():
  try:historical_shuffle_scope_file(path,data+b' ')
  except AssertionError:pass
  else:raise AssertionError('Unexpected drift accepted: '+path)
-for name,key in [('tracks.json','tracksSHA256'),('features.json','featuresSHA256'),('editorial_deepdives.json','deepdivesSHA256')]:assert sha((R/name).read_bytes())==F[key],name
-assert len(json.loads((R/'tracks.json').read_text()))==501
+for name,key in [('tracks.json','tracksSHA256'),('features.json','featuresSHA256'),('editorial_deepdives.json','deepdivesSHA256')]:assert sha(historical_method_man_file(name,(R/name).read_bytes()))==F[key],name
+assert len(json.loads(historical_method_man_file('tracks.json',(R/'tracks.json').read_bytes())))==501
 release=json.loads(historical_ci_policy_file('releases.json',(R/'releases.json').read_bytes()));assert release==dict(json.loads(F['files']['releases.json']['before']),version='22.3')
 assert historical_shuffle_scope_file('unrelated.txt',b'unchanged')==b'unchanged'
 print('Exact shuffle invalidation delta; all501 records, feature/deep prose unchanged; historical asset/OGP gates retained')

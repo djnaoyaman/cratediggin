@@ -1692,6 +1692,30 @@
       "legacy": false,
       "requires_build": false,
       "label": "python scripts/verify_album_bootstrap.py"
+    },
+    {
+      "id": "method-man",
+      "argv": [
+        "python",
+        "scripts/verify_method_man.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "method-man"
+    },
+    {
+      "id": "method-man-browser",
+      "argv": [
+        "node",
+        "scripts/verify_method_man_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "method-man-browser"
     }
   ],
   "groups": {
@@ -2012,6 +2036,10 @@
       "album-navigation-browser",
       "album-recovery-preservation",
       "album-bootstrap-preservation"
+    ],
+    "method_man": [
+      "method-man",
+      "method-man-browser"
     ]
   },
   "runtime_rules": {
@@ -2219,7 +2247,8 @@
     "scripts/verify_shuffle_scope.py": [
       "scripts/approved_ci_policy.py",
       "scripts/approved_shuffle_scope.py",
-      "scripts/fixtures/approved-shuffle-scope.json"
+      "scripts/fixtures/approved-shuffle-scope.json",
+      "scripts/approved_method_man.py"
     ],
     "scripts/approved_contextual_opening.py": [
       "scripts/approved_requested_two.py",
@@ -2428,7 +2457,8 @@
       "scripts/approved_queue_scope.py",
       "scripts/approved_static_work_count.py",
       "scripts/fixtures/approved-ci-policy.json",
-      "scripts/fixtures/approved-queue-scope.json"
+      "scripts/fixtures/approved-queue-scope.json",
+      "scripts/approved_method_man.py"
     ],
     "scripts/verify_playback_browser.cjs": [
       "scripts/verify_player_readiness.cjs"
@@ -2463,7 +2493,8 @@
     ],
     "scripts/verify_album_navigation.py": [
       "scripts/approved_album_navigation.py",
-      "scripts/fixtures/approved-album-navigation.json"
+      "scripts/fixtures/approved-album-navigation.json",
+      "scripts/approved_method_man.py"
     ],
     "scripts/verify_brand_identity.py": [
       "scripts/approved_brand_identity.py"
@@ -2492,17 +2523,30 @@
       "scripts/approved_album_bootstrap.py"
     ],
     "scripts/approved_album_bootstrap.py": [
-      "scripts/fixtures/approved-album-bootstrap.json"
+      "scripts/fixtures/approved-album-bootstrap.json",
+      "scripts/approved_method_man.py"
     ],
     "scripts/verify_album_bootstrap.py": [
       "scripts/approved_album_bootstrap.py",
-      "scripts/fixtures/youtube-video-id-validation.json"
+      "scripts/fixtures/youtube-video-id-validation.json",
+      "scripts/approved_method_man.py"
     ],
     "scripts/verify_album_player.cjs": [
       "scripts/fixtures/youtube-video-id-validation.json"
     ],
     "scripts/verify_album_navigation_browser.cjs": [
       "scripts/fixtures/youtube-video-id-validation.json"
+    ],
+    "scripts/approved_method_man.py": [
+      "scripts/fixtures/approved-method-man.json"
+    ],
+    "scripts/verify_method_man.py": [
+      "scripts/approved_method_man.py",
+      "scripts/editorial_uniqueness.py",
+      "scripts/fixtures/editorial-legacy-debt.json"
+    ],
+    "scripts/verify_method_man_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs"
     ]
   },
   "policy_paths": [
@@ -2524,7 +2568,9 @@
     "scripts/fixtures/approved-album-recovery.json",
     "scripts/approved_album_bootstrap.py",
     "scripts/fixtures/approved-album-bootstrap.json",
-    "scripts/fixtures/youtube-video-id-validation.json"
+    "scripts/fixtures/youtube-video-id-validation.json",
+    "scripts/approved_method_man.py",
+    "scripts/fixtures/approved-method-man.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -2536,7 +2582,8 @@
     "scripts/ci/test_run_checks.py",
     "scripts/ci/test_integrity_checks.py",
     "scripts/ci/README.md",
-    "scripts/ci/test_scoped_runtime_changes.py"
+    "scripts/ci/test_scoped_runtime_changes.py",
+    "scripts/ci/test_scoped_content_changes.py"
   ],
   "data_paths": [
     "listening_shelves.json",
@@ -2712,6 +2759,44 @@
         "after_sha256": "50f02a0e7a9dca6a721f166eeb34685ca2ddd25a9b2a33d9e310ff86415675d9",
         "groups": [
           "image_alt"
+        ]
+      }
+    ]
+  },
+  "scoped_content_changes": {
+    "tracks.json": [
+      {
+        "before_sha256": "a3c38a0c1747b869c67bfc4a0aa630deb5d792f074d48615992bcd6b9dc1d913",
+        "after_sha256": "8ed79e2c69b919fbe025fc5f5d853b7529883a6a3d5ba22cf260aa4e36f6806e",
+        "groups": [
+          "method_man"
+        ]
+      }
+    ],
+    "editorial_deepdives.json": [
+      {
+        "before_sha256": "401d6ce95581bbea67149898026f5a9584f75ed3c88be0083d7c255aa1f01af9",
+        "after_sha256": "6f3db456190486639c292d27830b9f70ab03be2017243a2009746c77d91c38ab",
+        "groups": [
+          "method_man"
+        ]
+      }
+    ],
+    "graffiti_artwork.json": [
+      {
+        "before_sha256": "b7a480467950bb43e7cd26aa550acb2492e147077fbf50ee65fdacf1f8e639cb",
+        "after_sha256": "afd0f3257d50cdab65175605840a1b0ea40c02d5202238a989b1270c1c125f1f",
+        "groups": [
+          "method_man"
+        ]
+      }
+    ],
+    "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "1eed0bc4335ae9c6e0088d49ba61f4faf19e32f49a65b922a128ac709ce5046e",
+        "groups": [
+          "method_man"
         ]
       }
     ]
