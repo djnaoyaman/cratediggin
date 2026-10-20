@@ -3777,5 +3777,38 @@
         "sourceLabel": "LOUD / RCA — Triumph official album delivery"
       }
     ]
+  },
+  {
+    "artist": "Wu-Tang Clan",
+    "title": "Wu-Tang Clan Ain’t Nuthing ta F’ Wit",
+    "sections": [
+      {
+        "heading": "サンプラーから、卓とテープへ",
+        "text": "同じRBMA取材でEthan Rymanは、RZAがサンプラーとシーケンサー、自分が卓・テープ・オートメーションを扱ったと説明する。これは当時のセッション全般の証言であり、この曲の全工程を再現した記録ではない。音の粗さを、機械の性能だけでなく、素材を録り、残す判断の積み重ねとして考えるための証言だ。",
+        "sources": [
+          1
+        ],
+        "source": "https://daily.redbullmusicacademy.com/2018/06/engineering-wu-tang-clan/",
+        "sourceLabel": "Red Bull Music Academy — Engineering the Wu-Tang Clan, 2018"
+      },
+      {
+        "heading": "歓声になったタイトル",
+        "text": "Highsnobietyの2018年取材は、『36 Chambers』を携えたシドニー・オペラハウス公演を伝えている。Staten Islandの集団名を掲げた曲が、遠い会場でも共有される言葉になる。本曲を代表曲として選ぶ理由は、単に作品中の一曲だからではなく、Wu-Tangを呼ぶための合言葉として働く点にある。最後の位置づけは公演記録を踏まえた編集判断である。",
+        "sources": [
+          2
+        ],
+        "source": "https://www.highsnobiety.com/p/wu-tang-clan-36-chambers-interview/",
+        "sourceLabel": "Highsnobiety — Wu-Tang Clan Speak on 36 Chambers, 2018"
+      },
+      {
+        "heading": "共同制作を、均等な作業分担と言い換えない",
+        "text": "原盤の表記が証明するのは、RZAの制作・ミックス・アレンジと、Method Manの共同制作クレジットである。そこから二人が半分ずつ作った、同じ機材を操作した、とまでは言えない。クレジットを細かく読むほど、分かることと、まだ分からないことの境界もはっきりする。",
+        "sources": [
+          0
+        ],
+        "source": "https://coverartarchive.org/release/2a059e43-e66c-4d6d-9a4f-dea9a6919061/23472558266.jpg",
+        "sourceLabel": "Enter the Wu-Tang original US CD booklet"
+      }
+    ]
   }
 ]

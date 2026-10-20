@@ -3,6 +3,7 @@ from pathlib import Path
 import argparse,copy,hashlib,json,sys
 from PIL import Image
 from approved_triumph import F,historical_triumph_file
+from approved_aint_nuthing import historical_aint_nuthing_file
 R=Path(__file__).resolve().parents[1];sha=lambda b:hashlib.sha256(b).hexdigest()
 args=argparse.ArgumentParser();args.add_argument('--source-only',action='store_true');args=args.parse_args()
 assert set(F['files'])=={'tracks.json','editorial_deepdives.json','graffiti_artwork.json','releases.json'}
@@ -14,7 +15,7 @@ for name,c in F['files'].items():
   except AssertionError:pass
   else:raise AssertionError('Unapproved partial/drifted bundle accepted: '+name)
 for name,h in F['protected'].items():assert sha((R/name).read_bytes())==h,name
-tracks=json.loads((R/'tracks.json').read_text());old=json.loads(historical_triumph_file('tracks.json',(R/'tracks.json').read_bytes()))
+tracks=json.loads(historical_aint_nuthing_file('tracks.json',(R/'tracks.json').read_bytes()));old=json.loads(historical_triumph_file('tracks.json',(R/'tracks.json').read_bytes()))
 assert len(tracks)==503 and len(old)==502 and tracks[:-1]==old and tracks[-1]==F['record']
 assert len({t['id'] for t in tracks})==503
 assert sum(t.get('workType','single')=='single' for t in tracks)==498
@@ -29,13 +30,13 @@ for indices in track['essaySources']:
 assert all(s['url'].startswith('https://') and s['label'] for s in track['sources'])
 assert set(track['connections'])<={t['id'] for t in old}
 assert track['essayTitle'] not in {t['essayTitle'] for t in old}
-dives=json.loads((R/'editorial_deepdives.json').read_text());assert dives[-1]==F['deepdive']
+dives=json.loads(historical_aint_nuthing_file('editorial_deepdives.json',(R/'editorial_deepdives.json').read_bytes()));assert dives[-1]==F['deepdive']
 assert len({(d['artist'].casefold(),d['title'].casefold()) for d in dives})==len(dives)
 for section in dives[-1]['sections']:
  assert section['text'] and section['heading'] and section['sources']
  assert all(0<=i<len(track['sources']) for i in section['sources'])
  assert section['source'] in [track['sources'][i]['url'] for i in section['sources']]
-art=json.loads((R/'graffiti_artwork.json').read_text())['tracks'];assert art[-1]==F['artEntry'] and len(art)==503
+art=json.loads(historical_aint_nuthing_file('graffiti_artwork.json',(R/'graffiti_artwork.json').read_bytes()))['tracks'];assert art[-1]==F['artEntry'] and len(art)==503
 assert art[-1]['palette']==track['art']['palette'] and art[-1]['transparent'] and art[-1]['textReviewed'] and art[-1]['paletteReviewed']
 image=R/art[-1]['image'];assert sha(image.read_bytes())==F['asset']['sha256']
 with Image.open(image) as im:
@@ -56,6 +57,6 @@ if not args.source_only:
  assert all(s['heading'] in page for s in dives[-1]['sections'])
  assert 'https://djnaoyaman.github.io/cratediggin/tracks/'+id+'.html' in (D/'sitemap.xml').read_text()
  registry=json.loads((D/'metadata.js').read_text().strip().removeprefix('window.CRATE_PAGES=').removesuffix(';'))
- assert registry['#/song/'+id]['image'].endswith('/og/'+id+'.jpg?v=22.14')
+ assert registry['#/song/'+id]['image'].endswith('/og/'+id+'.jpg?v='+json.loads((R/'releases.json').read_text())['version'])
  assert (D/'og'/(id+'.jpg')).is_file()
 print('One Triumph addition; exact published502 prefix, source mappings, transparent art, honest media metadata, negative partial bundle'+(' (source-only; generated output not run)' if args.source_only else ', generated article/Markdown/metadata/sitemap PASS'))
