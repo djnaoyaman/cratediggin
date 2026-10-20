@@ -1644,6 +1644,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "node scripts/verify_brand_identity_browser.cjs"
+    },
+    {
+      "id": "image-alt",
+      "argv": [
+        "python",
+        "scripts/verify_image_alt.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "python scripts/verify_image_alt.py"
+    },
+    {
+      "id": "image-alt-navigation",
+      "argv": [
+        "node",
+        "scripts/verify_image_alt_navigation.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "node scripts/verify_image_alt_navigation.cjs"
     }
   ],
   "groups": {
@@ -1938,6 +1962,13 @@
       "0686e3f46eb2f291",
       "brand-identity",
       "brand-identity-browser"
+    ],
+    "image_alt": [
+      "5ff83d5a4edfa5fe",
+      "58ba2cab8905e5c8",
+      "0686e3f46eb2f291",
+      "image-alt",
+      "image-alt-navigation"
     ]
   },
   "runtime_rules": {
@@ -2395,6 +2426,14 @@
       "scripts/approved_brand_identity.py"
     ],
     "scripts/approved_brand_identity.py": [
+      "scripts/approved_image_alt.py",
+      "scripts/fixtures/approved-brand-identity.json"
+    ],
+    "scripts/approved_image_alt.py": [
+      "scripts/fixtures/approved-image-alt.json"
+    ],
+    "scripts/verify_image_alt.py": [
+      "scripts/approved_image_alt.py",
       "scripts/fixtures/approved-brand-identity.json"
     ]
   },
@@ -2410,7 +2449,9 @@
     "scripts/approved_album_navigation.py",
     "scripts/fixtures/approved-album-navigation.json",
     "scripts/approved_brand_identity.py",
-    "scripts/fixtures/approved-brand-identity.json"
+    "scripts/fixtures/approved-brand-identity.json",
+    "scripts/approved_image_alt.py",
+    "scripts/fixtures/approved-image-alt.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -2577,6 +2618,13 @@
         "after_sha256": "64365a4015421c35f6a87667a11ae15e72558d93f942a8c8ae20b22127d584c2",
         "groups": [
           "brand_identity"
+        ]
+      },
+      {
+        "before_sha256": "64365a4015421c35f6a87667a11ae15e72558d93f942a8c8ae20b22127d584c2",
+        "after_sha256": "50f02a0e7a9dca6a721f166eeb34685ca2ddd25a9b2a33d9e310ff86415675d9",
+        "groups": [
+          "image_alt"
         ]
       }
     ]

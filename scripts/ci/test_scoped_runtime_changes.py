@@ -1,7 +1,8 @@
 """Exact render-only coverage cannot narrow any other source delta."""
 import copy,hashlib,json
 from pathlib import Path
-import unittest
+import unittest,sys
+sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
 import select_checks as s
 HERE=Path(__file__).resolve().parent
 class ScopedRuntimeTests(unittest.TestCase):
@@ -40,6 +41,9 @@ class ScopedRuntimeTests(unittest.TestCase):
   m=json.loads((HERE/'manifest.json').read_text());root=HERE.parents[1]
   f=json.loads((root/'scripts/fixtures/approved-brand-identity.json').read_text())
   for path in ('brand_assets.py','build.py','discovery.py'):
-   p=s.select_changes(m,[dict(status='M',old_path=path,new_path=path)],lambda _:f['files'][path]['before'].encode(),lambda _:(root/path).read_bytes())
+   # Brand scope is historical after the later image-alt-only correction.
+   from approved_image_alt import historical_image_alt_file
+   after=historical_image_alt_file(path,(root/path).read_bytes())
+   p=s.select_changes(m,[dict(status='M',old_path=path,new_path=path)],lambda _:f['files'][path]['before'].encode(),lambda _:after)
    self.assertFalse(p['blockers']);self.assertEqual({c['id'] for c in p['selected']},set(m['groups']['brand_identity']))
 if __name__=='__main__':unittest.main()
