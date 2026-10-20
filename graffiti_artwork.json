@@ -9860,6 +9860,24 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "wu-tang-clan-method-man",
+      "status": "ready",
+      "image": "assets/graffiti/wu-tang-clan-method-man-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "palette": [
+        "#F4F0DF",
+        "#19140C",
+        "#DA9A13",
+        "#9B4C1B",
+        "#512A2D"
+      ],
+      "paletteSource": "Enter the Wu-Tang (36 Chambers)",
+      "paletteSourceUrl": "https://coverartarchive.org/release/2a059e43-e66c-4d6d-9a4f-dea9a6919061/10112836421.jpg",
+      "paletteNote": "1993年US CDの原盤ジャケットを目視参照した近似配色。黒、黄土色、褐色、生成りを基にし、写真やロゴは転載しない。"
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

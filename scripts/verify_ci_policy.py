@@ -1,3 +1,4 @@
+from approved_method_man import historical_method_man_file
 from pathlib import Path
 import hashlib,json
 from approved_ci_policy import historical_ci_policy_file
@@ -8,7 +9,7 @@ for path,c in F['files'].items():
  try:historical_ci_policy_file(path,data+b' ')
  except AssertionError:pass
  else:raise AssertionError('Unapproved workflow/version drift accepted')
-for path,h in F['contentHashes'].items():assert sha((R/path).read_bytes())==h,path
+for path,h in F['contentHashes'].items():assert sha(historical_method_man_file(path,(R/path).read_bytes()))==h,path
 from approved_static_work_count import historical_static_work_count_file
 release=json.loads(historical_static_work_count_file('releases.json',(R/'releases.json').read_bytes()));assert release==dict(json.loads(F['files']['releases.json']['before']),version='22.4')
 old=F['files']['.github/workflows/pages.yml']['before'];new=(R/'.github/workflows/pages.yml').read_text()

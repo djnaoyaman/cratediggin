@@ -3701,5 +3701,47 @@
         ]
       }
     ]
+  },
+  {
+    "artist": "Wu-Tang Clan",
+    "title": "Method Man",
+    "sections": [
+      {
+        "heading": "サンプラーの外にも、引用はある",
+        "text": "Method ManはXXLの取材で、名前を綴る発想をHall & Oates「Method of Modern Love」、最後の呼びかけをMasta Ace「Music Man」、別の言葉の運びを「Come Together」と結びつけている。これは本人による制作回想であり、各曲の録音そのものをRZAが切り出したという説明ではない。ビートの元ネタと、ラッパーが声で作り直す記憶を分けて追うと、この曲の引用の面白さが見えてくる。",
+        "source": "https://www.xxlmag.com/wu-tang-clan-members-revisit-enter-the-wu-tang-36-chambers/",
+        "sourceLabel": "XXL: Wu-Tang Clan Members Revisit Enter the Wu-Tang: 36 Chambers (2013)",
+        "sources": [
+          2
+        ]
+      },
+      {
+        "heading": "原盤の小さな記号を読む",
+        "text": "1993年US CDのブックレットは、全曲の制作・ミックス・アレンジをPrince Rakeem “The Rza”と記す一方、共同制作の例外を記号で指定している。「Method Man」にはその共同制作記号がない。Ethan Rymanのエンジニア表記、Firehouse Studioでの録音・ミックス、Chris Gehringerのマスタリングも残る。後年の配信表示だけでなく、当時の盤の役割分担へ戻ってみたい。",
+        "source": "https://coverartarchive.org/release/2a059e43-e66c-4d6d-9a4f-dea9a6919061/23472558266.jpg",
+        "sourceLabel": "Enter the Wu-Tang (36 Chambers), original US CD booklet",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "heading": "自分の名前から、クルーの合言葉へ",
+        "text": "RZAは2022年のRecording Academyの取材で、「C.R.E.A.M.」にはフックが必要で、当時それを最も得意としていたMethod Manに頼んだと話す。こちらでは自分の名前を印象づけ、あちらでは仲間の物語を束ねる。二曲を並べると、Method Manの役割を「ソロで目立つ人」だけでなく、曲の中心となる短い言葉を担う人として捉え直せる。後半はその証言を踏まえた編集上の聴き比べ案である。",
+        "source": "https://www.grammy.com/news/rza-wu-tang-clan-bobby-digital-saturday-afternoon-kung-fu-theater-interview/",
+        "sourceLabel": "Recording Academy: RZA’s Constant Elevation (2022)",
+        "sources": [
+          4
+        ]
+      },
+      {
+        "heading": "代表曲を、アルバムの歴史へ戻す",
+        "text": "米国議会図書館は2022年、『Enter the Wu-Tang (36 Chambers)』をNational Recording Registryへ登録した。説明は、粗い質感の制作、映画からの引用、MCの言葉、各人のソロ契約の自由が組み合わさった影響に触れている。登録の対象は「Method Man」単曲ではなくアルバム全体。本曲を代表曲として選ぶ理由も、一曲の知名度だけでなく、個性を集団の強さへつなぐ作品の設計から考えたい。",
+        "source": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/registry-by-induction-years/2022/",
+        "sourceLabel": "Library of Congress: National Recording Registry, 2022",
+        "sources": [
+          5
+        ]
+      }
+    ]
   }
 ]

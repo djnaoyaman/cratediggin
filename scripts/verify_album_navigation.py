@@ -1,3 +1,4 @@
+from approved_method_man import historical_method_man_file
 from pathlib import Path
 import hashlib,json
 from approved_album_navigation import historical_album_navigation_file
@@ -10,6 +11,6 @@ for path,c in F['files'].items():
  except AssertionError:pass
  else:raise AssertionError('Unapproved drift accepted: '+path)
 assert historical_album_navigation_file('unrelated.txt',b'unchanged')==b'unchanged'
-for path,h in F['contentHashes'].items():assert sha((R/path).read_bytes())==h,path
-assert len(json.loads((R/'tracks.json').read_text()))==501
+for path,h in F['contentHashes'].items():assert sha(historical_method_man_file(path,(R/path).read_bytes()))==h,path
+assert len(json.loads(historical_method_man_file('tracks.json',(R/'tracks.json').read_bytes())))==501
 print('Exact album-navigation delta; all501 authored work/media records, features and deep dives unchanged; negative drift cases PASS')

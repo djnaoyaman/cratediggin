@@ -57621,5 +57621,163 @@
       "paletteSourceUrl": "https://www.thegoodoldayz.com/files/tgod/covers%20Discogs/s/stunts-blunts-hip-hop/discogs/stunts-blunts-hip-hop-600-595-0.jpg",
       "paletteNote": "オリジナル期CDジャケットを目視参照した近似配色。印刷色の厳密な指定値ではありません。"
     }
+  },
+  {
+    "id": "wu-tang-clan-method-man",
+    "title": "Method Man",
+    "artist": "Wu-Tang Clan",
+    "artists": [
+      "Wu-Tang Clan"
+    ],
+    "year": 1993,
+    "yearBasis": "1993年のオリジナル・アルバム収録。公式動画の公開年とは区別。",
+    "album": "Enter the Wu-Tang (36 Chambers)",
+    "producer": "RZA",
+    "producers": [
+      "RZA"
+    ],
+    "region": "New York",
+    "scene": "Staten Island / Wu-Tang Clan",
+    "label": "Loud / RCA",
+    "category": "Hip Hop",
+    "essayTitle": "九人の集団から、一人の名前が街へ出る",
+    "deck": "名前を綴るフックは、覚えてきた音楽を声で組み直す装置だった。Method Man本人の制作回想から、Wu-Tangの個性と集団の戦略を辿る。",
+    "essay": [
+      "「Method Man」は、Wu-Tang Clanの1993年作『Enter the Wu-Tang (36 Chambers)』で、一人の名前をそのまま看板にした曲だ。原盤CDでは第9曲、制作はRZA。大人数のマイクリレーで知られる集団の中に、誰の声なのかを強く記憶させる入口が置かれている。クルーを知ることと、一人のMCを好きになること。その二つがここでは切り離されていない。",
+      "2013年のXXLで、Method ManはRZAの家でこの曲を作ったと振り返り、フックやラップの着想を、それまで耳にしてきた複数の曲へ結びつけている。大切なのは、ここで語られるのがレコードの音を切り出す操作だけではないことだ。覚えていた歌い方や言葉の運びを、自分の名前と声へ移し替える。サンプルを探す耳と同時に、MCの記憶がどう働くかにも耳を向けたい。",
+      "この個人名の曲を、Wu-Tang Clan名義で聴く意味も大きい。RZAはNPRの2013年取材で、グループはLoudと契約しながら、各メンバーは別の会社でソロ活動できる仕組みを説明している。一人の存在感が集団の外へ逃げるのではなく、入口を増やして集団へ戻ってくる。「Method Man」は、その関係を音楽として考えるための代表曲だ。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "下記で扱うHall & Oates、Masta Ace、Come Togetherは、本人が語る歌唱・フレーズの着想源です。原盤音源のサンプリングとは区別し、使用サンプルの完全な一覧とはしていません。",
+    "sources": [
+      {
+        "label": "Enter the Wu-Tang (36 Chambers), original US CD booklet",
+        "url": "https://coverartarchive.org/release/2a059e43-e66c-4d6d-9a4f-dea9a6919061/23472558266.jpg",
+        "kind": "primary_original_packaging_scan",
+        "scope": "1993年US CDの原盤ブックレット。第9曲Method Man 5:50、RZA制作・ミックス・アレンジ、Ethan Rymanエンジニア。アルバム共通クレジットと曲別例外を区別。"
+      },
+      {
+        "label": "Wu-Tang Clan — Method Man (Official Audio)",
+        "url": "https://www.youtube.com/watch?v=HMs77OZFwUY",
+        "kind": "primary_artist_video",
+        "scope": "WuTangClanVEVOの公式音源。メタデータ上352秒、埋め込み許可、日本が配信対象国に含まれる。実再生未確認。"
+      },
+      {
+        "label": "XXL: Wu-Tang Clan Members Revisit Enter the Wu-Tang: 36 Chambers (2013)",
+        "url": "https://www.xxlmag.com/wu-tang-clan-members-revisit-enter-the-wu-tang-36-chambers/",
+        "kind": "primary_artist_interview",
+        "scope": "Method Man本人がRZA宅での制作とHall & Oates、Masta Ace、Come Togetherから得た着想を説明。音源サンプリングの証明とは別。"
+      },
+      {
+        "label": "NPR / KPBS: The Wu-Tang Clan’s 20-Year Plan (2013)",
+        "url": "https://www.kpbs.org/news/national/2013/04/08/the-wu-tang-clans-20-year-plan",
+        "kind": "primary_artist_interview",
+        "scope": "RZA本人が集団と各ソロのレーベル戦略を説明。LoudとDef Jamの役割、各人が違う聴衆へ届く構想。"
+      },
+      {
+        "label": "Recording Academy: RZA’s Constant Elevation (2022)",
+        "url": "https://www.grammy.com/news/rza-wu-tang-clan-bobby-digital-saturday-afternoon-kung-fu-theater-interview/",
+        "kind": "primary_artist_interview",
+        "scope": "RZA本人がC.R.E.A.M.のフックをMethod Manへ頼んだ理由を語る。Method Manの旋律感覚への証言。"
+      },
+      {
+        "label": "Library of Congress: National Recording Registry, 2022",
+        "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/registry-by-induction-years/2022/",
+        "kind": "primary_institutional_registry",
+        "scope": "Enter the Wu-Tang全体の2022年登録と、East Coast／hardcore rapへの影響。Method Man単曲の登録ではない。"
+      },
+      {
+        "label": "RCA / Legacy — Method Man official delivery",
+        "url": "https://www.youtube.com/watch?v=zwUVrxoW3pg",
+        "kind": "primary_distributor_video",
+        "scope": "現行レーベル配信説明にもRZA、Ethan Ryman、Chris Gehringerを記載。音源採用候補とは別のクレジット照合用。"
+      },
+      {
+        "label": "Amazon Music: Method Man [Explicit], Expanded Edition",
+        "url": "https://music.amazon.co.uk/tracks/B001GUID7A",
+        "kind": "label_supplied_distributor_metadata",
+        "scope": "Method Man [Explicit]、Enter The Wu-Tang [Expanded Edition] [Explicit]、5:51、1993年11月9日、℗1993 Sony。YouTubeの同アルバム表示と照合。実再生の確認ではない。"
+      }
+    ],
+    "connections": [
+      "wu-tang-clan-c-r-e-a-m",
+      "wu-tang-clan-protect-ya-neck"
+    ],
+    "listening": [
+      "名前を綴るフックと、ヴァースの言葉の切り方を分けて聴く。",
+      "「C.R.E.A.M.」のフックと並べ、同じ声が個人の看板と集団の合言葉をどう作るかを比べる。"
+    ],
+    "moods": [
+      "グルーヴ"
+    ],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "editorialStatus": "公式音源の作品情報・日本の配信対象・埋め込み許可をメタデータで照合。日本国内からの実再生と埋め込み再生は未確認です。",
+    "noteReviewedAt": "2026-10-20",
+    "youtube": {
+      "id": "HMs77OZFwUY",
+      "url": "https://www.youtube.com/watch?v=HMs77OZFwUY",
+      "title": "Method Man (Official Audio)",
+      "channel": "WuTangClanVEVO",
+      "type": "公式音源",
+      "official": true,
+      "verified": "2026-10-20",
+      "duration": "PT5M52S",
+      "embedUrl": "https://www.youtube.com/embed/HMs77OZFwUY",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "version": "Original album version (explicit-version metadata cross-check; no audio comparison)",
+      "versionBasis": "Official artist/title, Expanded Edition music-ID and full-length metadata cross-checked against Amazon’s explicit Expanded Edition track. The 1993 original CD prints 5:50; digital retailer 5:51; videoDetails352s / microformat353s. These small differences do not independently prove the mix or master. No listening/waveform comparison performed.",
+      "verification": "公開ページのメタデータは再生可・埋め込み可、日本を配信対象に含む。実再生や波形照合は行っていない。",
+      "explicitMetadataCrosscheck": "https://music.amazon.co.uk/tracks/B001GUID7A",
+      "japanAvailableInMetadata": true,
+      "metadataPlayableInEmbed": true,
+      "japanAvailableMetadata": true,
+      "embeddableMetadata": true,
+      "channelId": "UC1wNaX00osCIK4VjwboFqzA"
+    },
+    "aliases": [],
+    "versionBasis": "Official artist/title, Expanded Edition music-ID and full-length metadata cross-checked against Amazon’s explicit Expanded Edition track. The 1993 original CD prints 5:50; digital retailer 5:51; videoDetails352s / microformat353s. These small differences do not independently prove the mix or master. No listening/waveform comparison performed.",
+    "context": "1993年の『Enter the Wu-Tang (36 Chambers)』収録曲。グループ名義の中で、Method Manの名前と声に焦点を当てる。",
+    "datePublished": "2026-10-20",
+    "addedOrder": 495,
+    "art": {
+      "word": "METHOD MAN",
+      "lines": [
+        "METHOD MAN"
+      ],
+      "tag": "WU-TANG CLAN",
+      "style": "piece",
+      "seed": 19933609,
+      "palette": [
+        "#F4F0DF",
+        "#19140C",
+        "#DA9A13",
+        "#9B4C1B",
+        "#512A2D"
+      ],
+      "paletteSource": "Enter the Wu-Tang (36 Chambers)",
+      "paletteSourceUrl": "https://coverartarchive.org/release/2a059e43-e66c-4d6d-9a4f-dea9a6919061/10112836421.jpg",
+      "paletteNote": "1993年US CDの原盤ジャケットを目視参照した近似配色。黒、黄土色、褐色、生成りを基にし、写真やロゴは転載しない。"
+    }
   }
 ]
