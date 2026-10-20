@@ -1800,6 +1800,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "aint-nuthing-browser"
+    },
+    {
+      "id": "chessboxin",
+      "argv": [
+        "python",
+        "scripts/verify_chessboxin.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "chessboxin"
+    },
+    {
+      "id": "chessboxin-browser",
+      "argv": [
+        "node",
+        "scripts/verify_chessboxin_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "chessboxin-browser"
     }
   ],
   "groups": {
@@ -2145,6 +2169,13 @@
       "wutang-feature",
       "wutang-feature-browser",
       "triumph"
+    ],
+    "chessboxin": [
+      "chessboxin",
+      "chessboxin-browser",
+      "wutang-feature",
+      "wutang-feature-browser",
+      "aint-nuthing"
     ]
   },
   "runtime_rules": {
@@ -2690,14 +2721,27 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/approved_aint_nuthing.py": [
-      "scripts/fixtures/approved-aint-nuthing.json"
+      "scripts/fixtures/approved-aint-nuthing.json",
+      "scripts/approved_chessboxin.py"
     ],
     "scripts/verify_aint_nuthing.py": [
       "scripts/approved_aint_nuthing.py",
       "scripts/editorial_uniqueness.py",
-      "scripts/fixtures/editorial-legacy-debt.json"
+      "scripts/fixtures/editorial-legacy-debt.json",
+      "scripts/approved_chessboxin.py"
     ],
     "scripts/verify_aint_nuthing_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_chessboxin.py": [
+      "scripts/fixtures/approved-chessboxin.json"
+    ],
+    "scripts/verify_chessboxin.py": [
+      "scripts/approved_chessboxin.py",
+      "scripts/editorial_uniqueness.py",
+      "scripts/fixtures/editorial-legacy-debt.json"
+    ],
+    "scripts/verify_chessboxin_browser.cjs": [
       "scripts/verify_visible_art_browser.cjs"
     ]
   },
@@ -2730,7 +2774,9 @@
     "scripts/approved_triumph.py",
     "scripts/fixtures/approved-triumph.json",
     "scripts/approved_aint_nuthing.py",
-    "scripts/fixtures/approved-aint-nuthing.json"
+    "scripts/fixtures/approved-aint-nuthing.json",
+    "scripts/approved_chessboxin.py",
+    "scripts/fixtures/approved-chessboxin.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -2952,6 +2998,13 @@
         "groups": [
           "aint_nuthing"
         ]
+      },
+      {
+        "before_sha256": "31263e671d0fd277b5f1ef4721b9726ce66064fa5d98f4050ffc1fc482cec26f",
+        "after_sha256": "17b115e1e2f1fcce3b6549898d7f08e0ffe11f2bc33ff3fee9530f8b80b725bb",
+        "groups": [
+          "chessboxin"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -2975,6 +3028,13 @@
         "groups": [
           "aint_nuthing"
         ]
+      },
+      {
+        "before_sha256": "25fd8abbf36453582ec62797f245b0e8d3f8b98cacf44c6f5e640a422d167697",
+        "after_sha256": "2995d5d9ec6106ec0819f4c5d3dd1e48fde41813d8c17e79bb32e46de2ddc6ba",
+        "groups": [
+          "chessboxin"
+        ]
       }
     ],
     "graffiti_artwork.json": [
@@ -2997,6 +3057,13 @@
         "after_sha256": "e338d45cd6860beae2c83056e6a330fde7a11a2243c2a62b249a50e6caaee748",
         "groups": [
           "aint_nuthing"
+        ]
+      },
+      {
+        "before_sha256": "e338d45cd6860beae2c83056e6a330fde7a11a2243c2a62b249a50e6caaee748",
+        "after_sha256": "957bd0b6176825c76ef4adf9243845a20ff97a833f1511ff6854d56b2edee94d",
+        "groups": [
+          "chessboxin"
         ]
       }
     ],
@@ -3051,6 +3118,15 @@
         "after_sha256": "f2f762173439510f0a561cd7f0791c6ed894b96fbdb7512c38df5d2eb942af60",
         "groups": [
           "aint_nuthing"
+        ]
+      }
+    ],
+    "assets/graffiti/wu-tang-clan-da-mystery-of-chessboxin-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "a3b52a650a0979ae9d1dbc6f084d846ddb356712798a1c79de8f184540823eba",
+        "groups": [
+          "chessboxin"
         ]
       }
     ]

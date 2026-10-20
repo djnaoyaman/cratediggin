@@ -58078,5 +58078,155 @@
       "paletteSourceUrl": "https://coverartarchive.org/release/2a059e43-e66c-4d6d-9a4f-dea9a6919061/10112836421.jpg",
       "paletteNote": "1993年US CDの原盤ジャケットを目視参照した近似配色。黒、黄土色、褐色、生成りを基にし、写真やロゴは転載しない。"
     }
+  },
+  {
+    "id": "wu-tang-clan-da-mystery-of-chessboxin",
+    "title": "Da Mystery of Chessboxin’",
+    "artist": "Wu-Tang Clan",
+    "artists": [
+      "Wu-Tang Clan"
+    ],
+    "year": 1993,
+    "yearBasis": "1993年オリジナルUS CDの曲目と制作クレジットを照合。公式動画の公開年や再発年とは区別。",
+    "album": "Enter the Wu-Tang (36 Chambers)",
+    "producer": "RZA（共同制作：Ol’ Dirty Bastard）",
+    "producers": [
+      "RZA",
+      "Ol' Dirty Bastard"
+    ],
+    "region": "New York",
+    "scene": "Staten Island / Wu-Tang Clan",
+    "label": "Loud / RCA",
+    "category": "Hip Hop",
+    "essayTitle": "最後の一枠が、Masta Killaの入口になった",
+    "deck": "書いた言葉を、録音の中で生きる声へ。Masta Killaのデビューを、本人の回想と原盤の共同制作クレジットから辿る。",
+    "essay": [
+      "「Da Mystery of Chessboxin’」は、1993年の『Enter the Wu-Tang (36 Chambers)』の中で、声が次々に景色を変える曲だ。その最後に現れるMasta Killaの一節には、一人のMCが録音の世界へ入る瞬間が残る。Red Bull Music Academyで本人が語ったところでは、アルバムはほぼ出来上がり、この曲に一枠が残されていた。そこへ書いてきた言葉で場所を得たという。",
+      "2015年のAllHipHopでも、Masta Killaはこのヴァースを、初めて座って書き上げたものだったと説明する。紙をGZAへ見せると、内容には可能性があり、あとはそれを声にして伝えることが必要だと促された。良い言葉を持つことと、それをラップとして成立させることは同じではない。この曲を聴くとき、最後の声だけを名場面として切り取るより、その直前までの勢いをどう受け止めるかに注目したい。",
+      "制作の側にも一人ではない名前が残る。原盤の第6曲には、RZAの制作・ミックス・アレンジに加え、Ol’ Dirty Bastardの共同制作が記される。エンジニアは、アルバムの基本表記であるEthan RymanではなくCarlos Bess。マイクリレーの違いと同じように、盤の細かな例外にも、この曲ならではの組み合わせがある。"
+    ],
+    "essaySources": [
+      [
+        2,
+        1
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "共同制作クレジットから、ODBが担当した具体的な素材やドラムは推定していません。サンプル元の原盤・映画タイトルは一次資料による確認を終えていないため未登録です。",
+    "sources": [
+      {
+        "label": "Enter the Wu-Tang original US CD booklet",
+        "url": "https://coverartarchive.org/release/2a059e43-e66c-4d6d-9a4f-dea9a6919061/23472558266.jpg",
+        "kind": "primary_original_packaging_scan",
+        "scope": "Track6 4:48。RZA制作・ミックス・アレンジ、Ol’ Dirty Bastard共同制作、Carlos Bessエンジニア。"
+      },
+      {
+        "label": "AllHipHop — Masta Killa interview, 2015",
+        "url": "https://allhiphop.com/features/exclusive-masta-killa-wu-tang-clan-making-36-chambers-modern-hip-hop-drake-wu-tang-forever-remix/",
+        "kind": "primary_artist_interview",
+        "scope": "初めて座って書いたヴァース。GZAへ見せ、内容と発声の可能性を指摘されたという回想。"
+      },
+      {
+        "label": "Red Bull Music Academy — Wu-Tang Clan lecture",
+        "url": "https://www.redbullmusicacademy.com/lectures/wu-tang-lecture/",
+        "kind": "primary_artist_panel_transcript",
+        "scope": "アルバムがほぼ完成していた時点でChessboxin’に一枠が残り、Masta Killaの参加につながったという本人の説明。"
+      },
+      {
+        "label": "XXL — 36 Chambers oral history, 2013",
+        "url": "https://www.xxlmag.com/wu-tang-clan-members-revisit-enter-the-wu-tang-36-chambers/",
+        "kind": "primary_artist_interview",
+        "scope": "Masta Killa本人はKillah Priestの既録音の有無を覚えていないとする。安易な居眠り逸話の断定に反対する証拠。"
+      },
+      {
+        "label": "RCA / Legacy — Da Mystery of Chessboxin’",
+        "url": "https://www.youtube.com/watch?v=Lki_5CVKS0Y",
+        "kind": "primary_distributor_video",
+        "scope": "制作・工程のレーベル配信クレジット照合。"
+      },
+      {
+        "label": "WuTangClanVEVO — Da Mystery of Chessboxin’ Official Audio",
+        "url": "https://www.youtube.com/watch?v=O-6Xow1_6MY",
+        "kind": "primary_artist_video",
+        "scope": "公開用公式音源候補。個別メタデータファイルで配信国・長さを確認。"
+      }
+    ],
+    "connections": [
+      "wu-tang-clan-method-man",
+      "wu-tang-clan-protect-ya-neck",
+      "wu-tang-clan-aint-nuthing-ta-f-wit"
+    ],
+    "listening": [
+      "Masta Killaの最後のヴァースを、本人が語る書くことと声にすることの違いから聴き直す。",
+      "声の受け渡しと、原盤の共同制作・エンジニア表記を別々の手がかりとして読む。"
+    ],
+    "moods": [
+      "グルーヴ"
+    ],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "editorialStatus": "公式音源の作品情報・日本の配信対象・埋め込み許可をメタデータで照合。日本国内からの実再生と埋め込み再生は未確認です。",
+    "noteReviewedAt": "2026-10-21",
+    "youtube": {
+      "id": "O-6Xow1_6MY",
+      "url": "https://www.youtube.com/watch?v=O-6Xow1_6MY",
+      "title": "Da Mystery of Chessboxin’ (Official Audio)",
+      "channel": "WuTangClanVEVO",
+      "channelId": "UC1wNaX00osCIK4VjwboFqzA",
+      "type": "公式音源",
+      "official": true,
+      "verified": "2026-10-20",
+      "duration": "PT4M49S",
+      "embedUrl": "https://www.youtube.com/embed/O-6Xow1_6MY",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "version": "Official album-family audio (metadata cross-check; no audio/master comparison)",
+      "versionBasis": "Official audio and inspected retailer album listing correspond to the1993 album family. Original booklet4:48; selected upload289 seconds. No listening, waveform, original-master or censorship comparison performed.",
+      "verification": "公開ページのメタデータは再生可・埋め込み可、日本を配信対象に含む。実再生や波形照合は行っていない。",
+      "explicitMetadataCrosscheck": "https://music.amazon.co.jp/tracks/B076NTZSXK",
+      "japanAvailableInMetadata": true,
+      "metadataPlayableInEmbed": true,
+      "japanAvailableMetadata": true,
+      "embeddableMetadata": true
+    },
+    "aliases": [],
+    "versionBasis": "Official audio and inspected retailer album listing correspond to the1993 album family. Original booklet4:48; selected upload289 seconds. No listening, waveform, original-master or censorship comparison performed.",
+    "context": "1993年のEnter the Wu-Tang (36 Chambers)収録曲。Masta Killaが参加を得るまでの本人の回想と、原盤に残る制作担当の例外を読む。",
+    "datePublished": "2026-10-21",
+    "addedOrder": 498,
+    "art": {
+      "word": "DA MYSTERY OF CHESSBOXIN’",
+      "lines": [
+        "DA MYSTERY",
+        "OF CHESSBOXIN’"
+      ],
+      "tag": "WU-TANG CLAN",
+      "style": "piece",
+      "seed": 19933606,
+      "palette": [
+        "#F4F0DF",
+        "#19140C",
+        "#DA9A13",
+        "#9B4C1B",
+        "#512A2D"
+      ],
+      "paletteSource": "Enter the Wu-Tang (36 Chambers)",
+      "paletteSourceUrl": "https://coverartarchive.org/release/2a059e43-e66c-4d6d-9a4f-dea9a6919061/10112836421.jpg",
+      "paletteNote": "1993年US CDの原盤ジャケットを目視参照した近似配色。黒、黄土色、褐色、生成りを基にし、写真やロゴは転載しない。"
+    }
   }
 ]

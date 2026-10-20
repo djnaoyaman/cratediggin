@@ -3810,5 +3810,39 @@
         "sourceLabel": "Enter the Wu-Tang original US CD booklet"
       }
     ]
+  },
+  {
+    "artist": "Wu-Tang Clan",
+    "title": "Da Mystery of Chessboxin’",
+    "sections": [
+      {
+        "heading": "居眠りの逸話より、本人が確かに覚えること",
+        "text": "この曲にはKillah Priestとの競争をめぐる有名な逸話があるが、2013年のXXLでMasta Killaは、彼がすでに録音していたかどうかを覚えていないと述べている。複数の人に参加の機会があったことと、GZAへ紙を見せたことは語るが、そこから他人が眠ったせいで席を得たと断定しない。本人の記憶にも境界があることを残しておきたい。",
+        "sources": [
+          3
+        ],
+        "source": "https://www.xxlmag.com/wu-tang-clan-members-revisit-enter-the-wu-tang-36-chambers/",
+        "sourceLabel": "XXL — 36 Chambers oral history, 2013"
+      },
+      {
+        "heading": "共演が、そのまま審査になる",
+        "text": "RBMAの場でMasta Killaは、残った一枠をめぐり、ほかにもMCがスタジオにいたと説明する。自分の一節が仕事の上での参加を決めた、というのが本人の整理だ。ここでの聴き比べは勝者を決めるためだけではない。前の声が作った緊張を次の声がどう変えるか、その受け渡しを見るためにある。",
+        "sources": [
+          2
+        ],
+        "source": "https://www.redbullmusicacademy.com/lectures/wu-tang-lecture/",
+        "sourceLabel": "Red Bull Music Academy — Wu-Tang Clan lecture"
+      },
+      {
+        "heading": "ODBを、声の個性だけに閉じ込めない",
+        "text": "Ol’ Dirty Bastardは本曲で、歌い手としてだけでなく共同制作者としても原盤に名を残す。ただしブックレットは、どのサンプルやドラムを担当したかまでは説明しない。予測しにくいパフォーマンスの印象と、印刷された仕事のクレジット。その両方を持って聴き直すことで、彼を単なる破天荒なキャラクターにしない入口になる。",
+        "sources": [
+          0,
+          5
+        ],
+        "source": "https://coverartarchive.org/release/2a059e43-e66c-4d6d-9a4f-dea9a6919061/23472558266.jpg",
+        "sourceLabel": "Enter the Wu-Tang original US CD booklet"
+      }
+    ]
   }
 ]
