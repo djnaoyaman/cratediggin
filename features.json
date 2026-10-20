@@ -764,6 +764,79 @@
         "precomposed": true,
         "tag": "feature-dj-premier-tag.webp"
       }
+    },
+    {
+      "id": "wu-tang-clan",
+      "name": "Wu-Tang Clan",
+      "type": "artist",
+      "names": [
+        "Wu-Tang Clan"
+      ],
+      "allYears": true,
+      "identityNote": "Wu-Tang Clanを主名義とする掲載作品を収録。客演を含むグループ名義は含め、メンバーのソロ作品は自動的に合算しません。掲載数は全ディスコグラフィーの曲数ではありません。",
+      "editorial": {
+        "format": "source-led-v1",
+        "title": "違う声のまま、ひとつの集団になる",
+        "deck": "八つのヴァースを並べた最初の名刺と、個人の名前を外へ送り出す契約。Wu-Tang Clanを、声と活動の組み立てから読む。",
+        "context": "集団の録音と個人の活動を両立させる仕組みを、RZAの証言からたどる。",
+        "introduction": [
+          "九人を同じ声に揃えるのではなく、それぞれの違いを集団の輪郭にする。Wu-Tang Clanの入口を、誰が何曲ラップしたかという数字だけでなく、声をどう並べ、個人の活動をどう外へ広げたかという二つの問いから考えたい。"
+        ],
+        "sections": [
+          {
+            "heading": "最初の名刺は、八つのヴァースだった",
+            "paragraphs": [
+              "2013年のNPRの取材は、[Protect Ya Neck](#/song/wu-tang-clan-protect-ya-neck)を、八つのヴァースを並べ、コーラスを置かない曲として紹介している。九人の集団の入口を、一つの均一な声ではなく、声の交代から考えることができる。",
+              "声の交代そのものを道案内にする、という聴き方ができる。全員の名前を先に覚えてから聴く必要はない。まず一人が終わり、別の声が入る瞬間を追うと、集団の大きさが曲の展開として見えてくる。"
+            ],
+            "sources": [
+              0
+            ]
+          },
+          {
+            "heading": "集団の契約に、個人が出ていく余地を残す",
+            "paragraphs": [
+              "同じ取材でRZAは、グループはLoudと契約しながら、メンバーは個別に別のレーベルへ進める構想を振り返っている。一つの会社に全員を閉じ込めるのではなく、個人の仕事が別々の場所へ届く仕組みを作る。その考え方は、作品の外側にも集団の形を広げていた。",
+              "[Method Man](#/song/wu-tang-clan-method-man)は、その個人名がグループの曲名にもなる入口だ。一方、[C.R.E.A.M.](#/song/wu-tang-clan-c-r-e-a-m)では語りとフックの役割に注目できる。個人を際立たせることと、集団として曲を成立させることは、どちらか一方だけを選ぶ話ではない。"
+            ],
+            "sources": [
+              0
+            ]
+          },
+          {
+            "heading": "録音として残された、音と言葉と仕組み",
+            "paragraphs": [
+              "個人の活動へ枝分かれしたあとの影響まで、録音の評価につながっている。『Enter the Wu-Tang (36 Chambers)』の2022年National Recording Registry登録を伝える米国議会図書館の発表は、別のレーベルへ広がった関連作品が、その後数十年にわたりグループの影響を深めたことにも触れている。",
+              "1993年の曲から[1997年のBells of War](#/song/wu-tang-clan-bells-of-war)、さらに[Soul Power (Black Jungle)](#/song/wu-tang-clan-soul-power)へ進み、同じグループの別の時期を比較してみたい。このページの選曲は掲載済み作品だけをまとめたもので、全作品目録や代表曲の網羅ではない。各記事に掲げた出典も確かめながら、違う声が一緒にいる意味を考えたい。"
+            ],
+            "sources": [
+              1
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "label": "NPR / KPBS — The Wu-Tang Clan’s 20-Year Plan (2013-04-08)",
+            "url": "https://www.kpbs.org/news/national/2013/04/08/the-wu-tang-clans-20-year-plan"
+          },
+          {
+            "label": "Library of Congress — National Recording Registry 2022 announcement",
+            "url": "https://newsroom.loc.gov/news/national-recording-registry-inducts-music-from-alicia-keys--ricky-martin--journey-and-more-in-2022/s/fee30140-0454-401c-a2a2-205298e32fb1"
+          }
+        ],
+        "disclosure": "歴史と契約の経緯は公開された取材・公式資料に基づきます。比較の順番と聴き方は本稿の編集上の提案で、DJ Naoyaman本人の体験談ではありません。"
+      },
+      "visual": {
+        "photo": "feature-wu-tang-clan-provided-collage.jpg",
+        "alt": "Wu-Tang Clanのコラージュ画像（ユーザー提供）",
+        "fit": "contain",
+        "focus": "50% 50%",
+        "provenance": "user-provided",
+        "credit": "ユーザー提供",
+        "changes": "提供された完成画像の構図・色・人物は変更せず掲載。",
+        "precomposed": true,
+        "tag": "feature-wu-tang-clan-tag.webp"
+      }
     }
   ]
 }
