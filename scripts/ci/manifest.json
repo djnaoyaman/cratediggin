@@ -1778,7 +1778,7 @@
       "label": "triumph-browser"
     },
     {
-      "id": "aint_nuthing",
+      "id": "aint-nuthing",
       "argv": [
         "python",
         "scripts/verify_aint_nuthing.py"
@@ -1787,7 +1787,7 @@
       "kind": "static",
       "legacy": false,
       "requires_build": true,
-      "label": "aint_nuthing"
+      "label": "aint-nuthing"
     },
     {
       "id": "aint-nuthing-browser",
@@ -2140,7 +2140,7 @@
       "wutang-feature-browser"
     ],
     "aint_nuthing": [
-      "aint_nuthing",
+      "aint-nuthing",
       "aint-nuthing-browser",
       "wutang-feature",
       "wutang-feature-browser",
