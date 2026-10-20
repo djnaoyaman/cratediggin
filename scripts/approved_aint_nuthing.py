@@ -5,6 +5,8 @@ ROOT=Path(__file__).resolve().parents[1]
 F=json.loads((ROOT/'scripts/fixtures/approved-aint-nuthing.json').read_text())
 sha=lambda b:hashlib.sha256(b).hexdigest()
 def historical_aint_nuthing_file(path,data):
+ from approved_chessboxin import historical_chessboxin_file
+ data=historical_chessboxin_file(path,data)
  c=F['files'].get(path)
  if c is None:return data
  assert sha(data)==c['afterSHA256'],'Unapproved Ain’t Nuthing drift: '+path
