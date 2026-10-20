@@ -1,0 +1,2332 @@
+{
+  "schema": 1,
+  "bootstrap_commit": "b027a4b5b938b9f1d7f56a27bb629e683f9a749e",
+  "bootstrap_workflow_sha256": "1acf04217aef8ccb551756cb1a4458a1403c9f34aa44fd22b56069c12177d124",
+  "legacy_count": 129,
+  "commands": [
+    {
+      "id": "7213de0e801de79e",
+      "argv": [
+        "python",
+        "scripts/audit_editorial_depth.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "python scripts/audit_editorial_depth.py"
+    },
+    {
+      "id": "9d2b2760cc952d59",
+      "argv": [
+        "python",
+        "scripts/verify_catalog_sources.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_catalog_sources.py"
+    },
+    {
+      "id": "c702a2a5aefbc33e",
+      "argv": [
+        "python",
+        "scripts/verify_renewal_preservation.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "python scripts/verify_renewal_preservation.py"
+    },
+    {
+      "id": "92f525a3b5cc01fe",
+      "argv": [
+        "python",
+        "scripts/verify_requested_four.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "python scripts/verify_requested_four.py"
+    },
+    {
+      "id": "9516d9e557eeacee",
+      "argv": [
+        "python",
+        "scripts/verify_requested_six.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "python scripts/verify_requested_six.py"
+    },
+    {
+      "id": "e0297cb34bc6eb08",
+      "argv": [
+        "python",
+        "scripts/verify_shuffle_scope.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "python scripts/verify_shuffle_scope.py"
+    },
+    {
+      "id": "af04438788f1ece5",
+      "argv": [
+        "python",
+        "scripts/verify_queue_scope.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_queue_scope.py"
+    },
+    {
+      "id": "43d6239a266f66a6",
+      "argv": [
+        "node",
+        "scripts/verify_queue_scope.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "node scripts/verify_queue_scope.cjs"
+    },
+    {
+      "id": "6e870b19ca1e2d60",
+      "argv": [
+        "python",
+        "scripts/verify_artifacts_credits.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_artifacts_credits.py"
+    },
+    {
+      "id": "4ac47d30fbe4003e",
+      "argv": [
+        "python",
+        "scripts/verify_timeline_explorer.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_timeline_explorer.py"
+    },
+    {
+      "id": "65b1aa24626a83a3",
+      "argv": [
+        "node",
+        "scripts/verify_catalog_explorer.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_catalog_explorer.cjs"
+    },
+    {
+      "id": "7ead9c756d660eef",
+      "argv": [
+        "python",
+        "scripts/verify_requested_two.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_requested_two.py"
+    },
+    {
+      "id": "bfd1f53a07527154",
+      "argv": [
+        "python",
+        "scripts/verify_compact_list_dilla.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "python scripts/verify_compact_list_dilla.py"
+    },
+    {
+      "id": "05da2cf3d65a82be",
+      "argv": [
+        "python",
+        "scripts/verify_ini_japan_media.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "python scripts/verify_ini_japan_media.py"
+    },
+    {
+      "id": "861d9d0b582d6a24",
+      "argv": [
+        "python",
+        "scripts/verify_editorial_remediation.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "python scripts/verify_editorial_remediation.py"
+    },
+    {
+      "id": "98b8f782799a7cf3",
+      "argv": [
+        "python",
+        "scripts/verify_producer_photos.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_producer_photos.py"
+    },
+    {
+      "id": "e1f01a7e8b59a43b",
+      "argv": [
+        "python",
+        "scripts/verify_browser_tools.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_browser_tools.py"
+    },
+    {
+      "id": "548ca18205117369",
+      "argv": [
+        "python",
+        "scripts/verify_premier_feature.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_premier_feature.py"
+    },
+    {
+      "id": "e9530b17f0e8e2e1",
+      "argv": [
+        "python",
+        "scripts/verify_home_install_direct.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_home_install_direct.py"
+    },
+    {
+      "id": "305b55dfe4c9d479",
+      "argv": [
+        "node",
+        "scripts/verify_home_install_direct.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "node scripts/verify_home_install_direct.cjs"
+    },
+    {
+      "id": "260d7d9f6ed8977d",
+      "argv": [
+        "node",
+        "scripts/verify_gallery_routes.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_gallery_routes.cjs"
+    },
+    {
+      "id": "8290878e2251e25e",
+      "argv": [
+        "node",
+        "scripts/verify_opening_selection.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "node scripts/verify_opening_selection.cjs"
+    },
+    {
+      "id": "85225a5e9980e35a",
+      "argv": [
+        "python",
+        "scripts/verify_contextual_opening.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_contextual_opening.py"
+    },
+    {
+      "id": "4b5d4f2d087ced43",
+      "argv": [
+        "python",
+        "scripts/test_editorial_uniqueness.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/test_editorial_uniqueness.py"
+    },
+    {
+      "id": "c4984debb2e920b3",
+      "argv": [
+        "python",
+        "scripts/verify_editorial_uniqueness.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "python scripts/verify_editorial_uniqueness.py"
+    },
+    {
+      "id": "b83e4c4116b157c4",
+      "argv": [
+        "python",
+        "scripts/verify_essay_reference_output.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_essay_reference_output.py"
+    },
+    {
+      "id": "83a7ec3d587e416e",
+      "argv": [
+        "node",
+        "scripts/verify_essay_references.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "node scripts/verify_essay_references.cjs"
+    },
+    {
+      "id": "f28c678d171810a6",
+      "argv": [
+        "node",
+        "scripts/verify_analytics_privacy.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "node scripts/verify_analytics_privacy.cjs"
+    },
+    {
+      "id": "c03055bfec4a1e4e",
+      "argv": [
+        "node",
+        "scripts/verify_renewal.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "node scripts/verify_renewal.cjs"
+    },
+    {
+      "id": "ca4202878e9022e8",
+      "argv": [
+        "python",
+        "scripts/audit_catalog.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "python scripts/audit_catalog.py"
+    },
+    {
+      "id": "5ff83d5a4edfa5fe",
+      "argv": [
+        "python",
+        "scripts/verify_discovery.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_discovery.py"
+    },
+    {
+      "id": "4d0f713149ca70b4",
+      "argv": [
+        "python",
+        "scripts/verify_work_types.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "python scripts/verify_work_types.py"
+    },
+    {
+      "id": "1a601d0369c6f4d3",
+      "argv": [
+        "node",
+        "scripts/verify_undated_works.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "node scripts/verify_undated_works.cjs"
+    },
+    {
+      "id": "1aa657090f768438",
+      "argv": [
+        "python",
+        "scripts/verify_live_video_works.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_live_video_works.py"
+    },
+    {
+      "id": "cb6ffb5599f62e77",
+      "argv": [
+        "python",
+        "scripts/verify_donuts_album.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_donuts_album.py"
+    },
+    {
+      "id": "66d6521fb1ff5bb0",
+      "argv": [
+        "node",
+        "scripts/verify_album_player.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "node scripts/verify_album_player.cjs"
+    },
+    {
+      "id": "d4d2f5ece837942b",
+      "argv": [
+        "node",
+        "scripts/verify_visible_art.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "node scripts/verify_visible_art.cjs"
+    },
+    {
+      "id": "0a206c4010036a19",
+      "argv": [
+        "node",
+        "scripts/verify_art_modes.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "node scripts/verify_art_modes.cjs"
+    },
+    {
+      "id": "be79c0fe5c1e7856",
+      "argv": [
+        "node",
+        "scripts/verify_art_resume_intent.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "node scripts/verify_art_resume_intent.cjs"
+    },
+    {
+      "id": "ed1108dcf37f7101",
+      "argv": [
+        "node",
+        "scripts/verify_navigation_hotfix.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "node scripts/verify_navigation_hotfix.cjs"
+    },
+    {
+      "id": "4a6ea4350e32779f",
+      "argv": [
+        "python",
+        "scripts/verify_image_delivery.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_image_delivery.py"
+    },
+    {
+      "id": "8aa8a08ab16690d1",
+      "argv": [
+        "node",
+        "scripts/verify_player_presentation.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "node scripts/verify_player_presentation.cjs"
+    },
+    {
+      "id": "4700053810aa755c",
+      "argv": [
+        "python",
+        "scripts/verify_player_presentation.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_player_presentation.py"
+    },
+    {
+      "id": "c0e498c4bc9a0343",
+      "argv": [
+        "node",
+        "scripts/verify_player_intent.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "node scripts/verify_player_intent.cjs"
+    },
+    {
+      "id": "1ecafabd59ebe7a8",
+      "argv": [
+        "python",
+        "scripts/verify_mix_works.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_mix_works.py"
+    },
+    {
+      "id": "b66ed147c912b72d",
+      "argv": [
+        "python",
+        "scripts/verify_mix_enrichment.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_mix_enrichment.py"
+    },
+    {
+      "id": "b651481635e60984",
+      "argv": [
+        "python",
+        "scripts/verify_graffiti_og.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_graffiti_og.py"
+    },
+    {
+      "id": "f196271f9ae25902",
+      "argv": [
+        "python",
+        "scripts/verify_url_migration.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_url_migration.py"
+    },
+    {
+      "id": "c3f002aac0573c83",
+      "argv": [
+        "python",
+        "scripts/verify_profile_notes.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_profile_notes.py"
+    },
+    {
+      "id": "7e9b670a6f23a0fe",
+      "argv": [
+        "python",
+        "scripts/verify_public_copy.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_public_copy.py"
+    },
+    {
+      "id": "dcf77192aad9145f",
+      "argv": [
+        "python",
+        "scripts/verify_reader_copy_cleanup.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "python scripts/verify_reader_copy_cleanup.py"
+    },
+    {
+      "id": "5aa56066fd7e30fa",
+      "argv": [
+        "python",
+        "scripts/verify_shadow_editorial.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_shadow_editorial.py"
+    },
+    {
+      "id": "db935ad7436ab1a8",
+      "argv": [
+        "python",
+        "scripts/verify_common_celebrate.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_common_celebrate.py"
+    },
+    {
+      "id": "02a0be3f117aa4d3",
+      "argv": [
+        "python",
+        "scripts/verify_make_her_say.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_make_her_say.py"
+    },
+    {
+      "id": "2f9629c533be44ca",
+      "argv": [
+        "python",
+        "scripts/verify_section_reference_units.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "python scripts/verify_section_reference_units.py"
+    },
+    {
+      "id": "ff68f3a81d56207f",
+      "argv": [
+        "python",
+        "scripts/verify_section_reference_output.py",
+        "."
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_section_reference_output.py ."
+    },
+    {
+      "id": "58ba2cab8905e5c8",
+      "argv": [
+        "python",
+        "scripts/verify_social_sharing_static.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_social_sharing_static.py"
+    },
+    {
+      "id": "0686e3f46eb2f291",
+      "argv": [
+        "python",
+        "scripts/test_revision_dates.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "python scripts/test_revision_dates.py"
+    },
+    {
+      "id": "ce9b90fe9ce32335",
+      "argv": [
+        "node",
+        "scripts/verify_work_labels.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "node scripts/verify_work_labels.cjs"
+    },
+    {
+      "id": "edf6a18bb0e41e73",
+      "argv": [
+        "node",
+        "scripts/verify_inline_player.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "node scripts/verify_inline_player.cjs"
+    },
+    {
+      "id": "11cc02294f7b3422",
+      "argv": [
+        "node",
+        "scripts/verify_player_readiness.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "node scripts/verify_player_readiness.cjs"
+    },
+    {
+      "id": "66e2a37ffc51cd63",
+      "argv": [
+        "node",
+        "scripts/verify_listening_shelves.js"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_listening_shelves.js"
+    },
+    {
+      "id": "64522a9b7ef096cb",
+      "argv": [
+        "node",
+        "scripts/verify_producer_features.js"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_producer_features.js"
+    },
+    {
+      "id": "54a3b5310da6d3db",
+      "argv": [
+        "node",
+        "scripts/verify_feature_editorials.js"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_feature_editorials.js"
+    },
+    {
+      "id": "8b173b1a3b4b5fcc",
+      "argv": [
+        "node",
+        "scripts/verify_catalog_views.js"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_catalog_views.js"
+    },
+    {
+      "id": "c2b4c35be4d78d3c",
+      "argv": [
+        "node",
+        "scripts/verify_graffiti.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_graffiti.cjs"
+    },
+    {
+      "id": "e0f8e173bc7a77ed",
+      "argv": [
+        "node",
+        "scripts/verify_playlist_storage.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "node scripts/verify_playlist_storage.cjs"
+    },
+    {
+      "id": "05821de128789a9f",
+      "argv": [
+        "node",
+        "scripts/verify_ux_motion.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": false,
+      "label": "node scripts/verify_ux_motion.cjs"
+    },
+    {
+      "id": "aa526716c8c3e3ff",
+      "argv": [
+        "python",
+        "scripts/verify_kiyo_import.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": true,
+      "requires_build": true,
+      "label": "python scripts/verify_kiyo_import.py"
+    },
+    {
+      "id": "b21fd2c0cd0e8344",
+      "argv": [
+        "node",
+        "scripts/verify_shuffle_scope_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_shuffle_scope_browser.cjs"
+    },
+    {
+      "id": "e4962cf597ea9cd1",
+      "argv": [
+        "node",
+        "scripts/verify_queue_scope_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_queue_scope_browser.cjs"
+    },
+    {
+      "id": "3a98739a23fad1c3",
+      "argv": [
+        "node",
+        "scripts/verify_artifacts_credits_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_artifacts_credits_browser.cjs"
+    },
+    {
+      "id": "edcd3c94076be68b",
+      "argv": [
+        "node",
+        "scripts/verify_feature_swipe_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_feature_swipe_browser.cjs"
+    },
+    {
+      "id": "d9d2aa06afacde8a",
+      "argv": [
+        "node",
+        "scripts/verify_player_intent_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_player_intent_browser.cjs"
+    },
+    {
+      "id": "ba8152e1b7e12693",
+      "argv": [
+        "node",
+        "scripts/verify_crate_naming_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_crate_naming_browser.cjs"
+    },
+    {
+      "id": "21524c4cc2a68246",
+      "argv": [
+        "node",
+        "scripts/verify_visible_art_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_visible_art_browser.cjs"
+    },
+    {
+      "id": "025198f09819e1ca",
+      "argv": [
+        "node",
+        "scripts/verify_navigation_hotfix_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_navigation_hotfix_browser.cjs"
+    },
+    {
+      "id": "6149f42c4bf174a4",
+      "argv": [
+        "node",
+        "scripts/verify_art_modes_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_art_modes_browser.cjs"
+    },
+    {
+      "id": "1b85c8839830e954",
+      "argv": [
+        "node",
+        "scripts/verify_art_landscape_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_art_landscape_browser.cjs"
+    },
+    {
+      "id": "14adb431723f9cd4",
+      "argv": [
+        "node",
+        "scripts/verify_responsive_renewal_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_responsive_renewal_browser.cjs"
+    },
+    {
+      "id": "75cef4803b34325a",
+      "argv": [
+        "node",
+        "scripts/verify_renewal_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_renewal_browser.cjs"
+    },
+    {
+      "id": "4350f207f9b1e298",
+      "argv": [
+        "node",
+        "scripts/verify_compact_list_dilla_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_compact_list_dilla_browser.cjs"
+    },
+    {
+      "id": "ac41d581cf254100",
+      "argv": [
+        "node",
+        "scripts/verify_ini_japan_media_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_ini_japan_media_browser.cjs"
+    },
+    {
+      "id": "2da3a9c6334b54c0",
+      "argv": [
+        "node",
+        "scripts/verify_editorial_remediation_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_editorial_remediation_browser.cjs"
+    },
+    {
+      "id": "5ae3ebe449e4f1a4",
+      "argv": [
+        "node",
+        "scripts/verify_producer_photos_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_producer_photos_browser.cjs"
+    },
+    {
+      "id": "19cd8d0f5d8fcd17",
+      "argv": [
+        "node",
+        "scripts/verify_bookmark_helper_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_bookmark_helper_browser.cjs"
+    },
+    {
+      "id": "139fd687fe25e7ad",
+      "argv": [
+        "node",
+        "scripts/verify_browse_spacing_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_browse_spacing_browser.cjs"
+    },
+    {
+      "id": "b53e4820edecd49e",
+      "argv": [
+        "node",
+        "scripts/verify_premier_feature_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_premier_feature_browser.cjs"
+    },
+    {
+      "id": "d3aa673ac108a720",
+      "argv": [
+        "node",
+        "scripts/verify_tracks_gallery_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_tracks_gallery_browser.cjs"
+    },
+    {
+      "id": "79f7e3abadd6f18e",
+      "argv": [
+        "node",
+        "scripts/verify_opening_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_opening_browser.cjs"
+    },
+    {
+      "id": "2f5051ad06248cb2",
+      "argv": [
+        "node",
+        "scripts/verify_player_presentation_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_player_presentation_browser.cjs"
+    },
+    {
+      "id": "257ca35e99884782",
+      "argv": [
+        "node",
+        "scripts/verify_album_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_album_browser.cjs"
+    },
+    {
+      "id": "1bb600ebdc789679",
+      "argv": [
+        "node",
+        "scripts/verify_listening_shelves_browser.js"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_listening_shelves_browser.js"
+    },
+    {
+      "id": "ac1912fd4817c0c2",
+      "argv": [
+        "node",
+        "scripts/verify_pagination_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_pagination_browser.cjs"
+    },
+    {
+      "id": "cebe096440e51153",
+      "argv": [
+        "node",
+        "scripts/verify_discovery_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_discovery_browser.cjs"
+    },
+    {
+      "id": "879e34eb5e23aaf5",
+      "argv": [
+        "node",
+        "scripts/verify_playback_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_playback_browser.cjs"
+    },
+    {
+      "id": "5634bacf4e9cea0b",
+      "argv": [
+        "node",
+        "scripts/verify_graffiti_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_graffiti_browser.cjs"
+    },
+    {
+      "id": "1a9f684a419cc870",
+      "argv": [
+        "node",
+        "scripts/verify_feature_portraits_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_feature_portraits_browser.cjs"
+    },
+    {
+      "id": "25c2d8dde6be194a",
+      "argv": [
+        "node",
+        "scripts/verify_social_sharing_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_social_sharing_browser.cjs"
+    },
+    {
+      "id": "31c4078c6b4dd0a2",
+      "argv": [
+        "node",
+        "scripts/verify_url_migration_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_url_migration_browser.cjs"
+    },
+    {
+      "id": "07d1372ca7f94307",
+      "argv": [
+        "node",
+        "scripts/verify_profile_notes_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_profile_notes_browser.cjs"
+    },
+    {
+      "id": "bcd03c24afc5ea34",
+      "argv": [
+        "node",
+        "scripts/verify_public_copy_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_public_copy_browser.cjs"
+    },
+    {
+      "id": "14a645998084be5d",
+      "argv": [
+        "node",
+        "scripts/verify_requested_six_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_requested_six_browser.cjs"
+    },
+    {
+      "id": "4945246cadc4e5a9",
+      "argv": [
+        "node",
+        "scripts/verify_timeline_explorer_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_timeline_explorer_browser.cjs"
+    },
+    {
+      "id": "4d25788a3f2e8faa",
+      "argv": [
+        "node",
+        "scripts/verify_oct19_two_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_oct19_two_browser.cjs"
+    },
+    {
+      "id": "41a03e70988ec51d",
+      "argv": [
+        "node",
+        "scripts/verify_requested_two_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_requested_two_browser.cjs"
+    },
+    {
+      "id": "191dcf49a349d4ac",
+      "argv": [
+        "node",
+        "scripts/verify_section_references_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_section_references_browser.cjs"
+    },
+    {
+      "id": "5342872243713643",
+      "argv": [
+        "node",
+        "scripts/verify_art_crate_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_art_crate_browser.cjs"
+    },
+    {
+      "id": "63f9f4b4ada850d3",
+      "argv": [
+        "node",
+        "scripts/verify_shadow_feature_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_shadow_feature_browser.cjs"
+    },
+    {
+      "id": "be955d53a17c6671",
+      "argv": [
+        "node",
+        "scripts/verify_common_celebrate_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_common_celebrate_browser.cjs"
+    },
+    {
+      "id": "7098014321f5ccba",
+      "argv": [
+        "node",
+        "scripts/verify_make_her_say_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_make_her_say_browser.cjs"
+    },
+    {
+      "id": "fd3d78cb892931be",
+      "argv": [
+        "node",
+        "scripts/verify_mix_works_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_mix_works_browser.cjs"
+    },
+    {
+      "id": "0635448bbe7c4da3",
+      "argv": [
+        "node",
+        "scripts/verify_mix_enrichment_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_mix_enrichment_browser.cjs"
+    },
+    {
+      "id": "f3910336bbc2e8bd",
+      "argv": [
+        "node",
+        "scripts/verify_live_video_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_live_video_browser.cjs"
+    },
+    {
+      "id": "cce7459cc81e580c",
+      "argv": [
+        "node",
+        "scripts/verify_work_label_layout_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_work_label_layout_browser.cjs"
+    },
+    {
+      "id": "0e8558d8077073cc",
+      "argv": [
+        "node",
+        "scripts/verify_deep_rooted_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_deep_rooted_browser.cjs"
+    },
+    {
+      "id": "2d8b3ebc8b48918d",
+      "argv": [
+        "node",
+        "scripts/verify_requested_next_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_requested_next_browser.cjs"
+    },
+    {
+      "id": "d5a590bd01879e14",
+      "argv": [
+        "node",
+        "scripts/verify_requested_following_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_requested_following_browser.cjs"
+    },
+    {
+      "id": "ecab1d4186bcaa69",
+      "argv": [
+        "node",
+        "scripts/verify_requested_more_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_requested_more_browser.cjs"
+    },
+    {
+      "id": "ba4b8cb77212302c",
+      "argv": [
+        "node",
+        "scripts/verify_requested_basis_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_requested_basis_browser.cjs"
+    },
+    {
+      "id": "d2907316749f7ca4",
+      "argv": [
+        "node",
+        "scripts/verify_requested_remaining_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_requested_remaining_browser.cjs"
+    },
+    {
+      "id": "dc5fe5418c278b46",
+      "argv": [
+        "node",
+        "scripts/verify_recovery_release_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_recovery_release_browser.cjs"
+    },
+    {
+      "id": "9c4f03357c820054",
+      "argv": [
+        "node",
+        "scripts/verify_restored_eight_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_restored_eight_browser.cjs"
+    },
+    {
+      "id": "5790b8c6bd29cc39",
+      "argv": [
+        "node",
+        "scripts/verify_inline_player_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_inline_player_browser.cjs"
+    },
+    {
+      "id": "cfbf4af948b88cfd",
+      "argv": [
+        "node",
+        "scripts/verify_inline_player_browser.cjs"
+      ],
+      "env": {
+        "INLINE_PLAYER_TRACK": "ini-grown-man-sport"
+      },
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "INLINE_PLAYER_TRACK=ini-grown-man-sport node scripts/verify_inline_player_browser.cjs"
+    },
+    {
+      "id": "cc969a85febabb48",
+      "argv": [
+        "node",
+        "scripts/verify_restored_seven_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_restored_seven_browser.cjs"
+    },
+    {
+      "id": "1f24bbd7037dd4e4",
+      "argv": [
+        "node",
+        "scripts/verify_requested_thirteen_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_requested_thirteen_browser.cjs"
+    },
+    {
+      "id": "0a2724a0ff2a1918",
+      "argv": [
+        "node",
+        "scripts/verify_requested_later_six_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_requested_later_six_browser.cjs"
+    },
+    {
+      "id": "eb0ae2c032addfaa",
+      "argv": [
+        "node",
+        "scripts/verify_requested_four_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": true,
+      "requires_build": true,
+      "label": "node scripts/verify_requested_four_browser.cjs"
+    },
+    {
+      "id": "ci-policy-units",
+      "argv": [
+        "python",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "scripts/ci",
+        "-p",
+        "test_*.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": false,
+      "label": "CI selector/integrity/runner units"
+    },
+    {
+      "id": "ci-policy-preservation",
+      "argv": [
+        "python",
+        "scripts/verify_ci_policy.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": false,
+      "label": "Exact CI policy preservation and negative drift"
+    }
+  ],
+  "groups": {
+    "queue": [
+      "af04438788f1ece5",
+      "43d6239a266f66a6",
+      "e0f8e173bc7a77ed",
+      "879e34eb5e23aaf5",
+      "e4962cf597ea9cd1",
+      "c0e498c4bc9a0343",
+      "edcd3c94076be68b",
+      "d9d2aa06afacde8a",
+      "ba8152e1b7e12693",
+      "ac1912fd4817c0c2",
+      "5342872243713643"
+    ],
+    "catalog": [
+      "8b173b1a3b4b5fcc",
+      "260d7d9f6ed8977d",
+      "65b1aa24626a83a3",
+      "1a601d0369c6f4d3",
+      "ed1108dcf37f7101",
+      "ac1912fd4817c0c2",
+      "d3aa673ac108a720",
+      "139fd687fe25e7ad",
+      "ce9b90fe9ce32335",
+      "66e2a37ffc51cd63",
+      "025198f09819e1ca",
+      "1bb600ebdc789679",
+      "cce7459cc81e580c"
+    ],
+    "shuffle": [
+      "e0297cb34bc6eb08",
+      "b21fd2c0cd0e8344"
+    ],
+    "player": [
+      "c0e498c4bc9a0343",
+      "11cc02294f7b3422",
+      "8aa8a08ab16690d1",
+      "4700053810aa755c",
+      "66d6521fb1ff5bb0",
+      "edf6a18bb0e41e73",
+      "be79c0fe5c1e7856",
+      "d9d2aa06afacde8a",
+      "2f5051ad06248cb2",
+      "257ca35e99884782",
+      "5790b8c6bd29cc39",
+      "cfbf4af948b88cfd"
+    ],
+    "art_modes": [
+      "0a206c4010036a19",
+      "d4d2f5ece837942b",
+      "be79c0fe5c1e7856",
+      "6149f42c4bf174a4",
+      "21524c4cc2a68246",
+      "1b85c8839830e954"
+    ],
+    "canvas": [
+      "c2b4c35be4d78d3c",
+      "05821de128789a9f",
+      "5634bacf4e9cea0b"
+    ],
+    "opening": [
+      "8290878e2251e25e",
+      "79f7e3abadd6f18e"
+    ],
+    "renewal": [
+      "c03055bfec4a1e4e",
+      "e9530b17f0e8e2e1",
+      "305b55dfe4c9d479",
+      "75cef4803b34325a",
+      "19cd8d0f5d8fcd17",
+      "05821de128789a9f",
+      "1bb600ebdc789679"
+    ],
+    "features": [
+      "54a3b5310da6d3db",
+      "64522a9b7ef096cb",
+      "1a9f684a419cc870",
+      "edcd3c94076be68b",
+      "b53e4820edecd49e",
+      "63f9f4b4ada850d3"
+    ],
+    "editorial": [
+      "83a7ec3d587e416e",
+      "b83e4c4116b157c4",
+      "2f9629c533be44ca",
+      "ff68f3a81d56207f",
+      "2da3a9c6334b54c0",
+      "191dcf49a349d4ac"
+    ],
+    "navigation": [
+      "260d7d9f6ed8977d",
+      "ed1108dcf37f7101",
+      "5ff83d5a4edfa5fe",
+      "f196271f9ae25902",
+      "58ba2cab8905e5c8",
+      "cebe096440e51153",
+      "31c4078c6b4dd0a2",
+      "25c2d8dde6be194a"
+    ],
+    "timeline": [
+      "4ac47d30fbe4003e",
+      "65b1aa24626a83a3",
+      "1a601d0369c6f4d3",
+      "4945246cadc4e5a9"
+    ],
+    "profile": [
+      "c3f002aac0573c83",
+      "7e9b670a6f23a0fe",
+      "07d1372ca7f94307",
+      "bcd03c24afc5ea34"
+    ],
+    "privacy": [
+      "f28c678d171810a6"
+    ],
+    "images": [
+      "4a6ea4350e32779f",
+      "b651481635e60984",
+      "5634bacf4e9cea0b",
+      "1a9f684a419cc870"
+    ],
+    "responsive": [
+      "14adb431723f9cd4",
+      "2f5051ad06248cb2",
+      "21524c4cc2a68246",
+      "191dcf49a349d4ac",
+      "1a9f684a419cc870",
+      "5790b8c6bd29cc39",
+      "cfbf4af948b88cfd"
+    ],
+    "dates": [
+      "0686e3f46eb2f291",
+      "5ff83d5a4edfa5fe"
+    ],
+    "release": [
+      "58ba2cab8905e5c8",
+      "c3f002aac0573c83",
+      "7e9b670a6f23a0fe"
+    ],
+    "policy_browser": [
+      "be955d53a17c6671",
+      "5790b8c6bd29cc39",
+      "cfbf4af948b88cfd"
+    ],
+    "shared_runtime": [
+      "af04438788f1ece5",
+      "43d6239a266f66a6",
+      "e0f8e173bc7a77ed",
+      "879e34eb5e23aaf5",
+      "e4962cf597ea9cd1",
+      "c0e498c4bc9a0343",
+      "11cc02294f7b3422",
+      "8aa8a08ab16690d1",
+      "4700053810aa755c",
+      "66d6521fb1ff5bb0",
+      "edf6a18bb0e41e73",
+      "be79c0fe5c1e7856",
+      "d9d2aa06afacde8a",
+      "2f5051ad06248cb2",
+      "257ca35e99884782",
+      "5790b8c6bd29cc39",
+      "cfbf4af948b88cfd",
+      "0a206c4010036a19",
+      "d4d2f5ece837942b",
+      "6149f42c4bf174a4",
+      "21524c4cc2a68246",
+      "1b85c8839830e954",
+      "8290878e2251e25e",
+      "79f7e3abadd6f18e",
+      "54a3b5310da6d3db",
+      "64522a9b7ef096cb",
+      "1a9f684a419cc870",
+      "edcd3c94076be68b",
+      "b53e4820edecd49e",
+      "63f9f4b4ada850d3",
+      "83a7ec3d587e416e",
+      "b83e4c4116b157c4",
+      "2f9629c533be44ca",
+      "ff68f3a81d56207f",
+      "2da3a9c6334b54c0",
+      "191dcf49a349d4ac",
+      "260d7d9f6ed8977d",
+      "ed1108dcf37f7101",
+      "5ff83d5a4edfa5fe",
+      "f196271f9ae25902",
+      "58ba2cab8905e5c8",
+      "cebe096440e51153",
+      "31c4078c6b4dd0a2",
+      "25c2d8dde6be194a",
+      "4ac47d30fbe4003e",
+      "65b1aa24626a83a3",
+      "1a601d0369c6f4d3",
+      "4945246cadc4e5a9",
+      "14adb431723f9cd4",
+      "b21fd2c0cd0e8344",
+      "3a98739a23fad1c3",
+      "ba8152e1b7e12693",
+      "025198f09819e1ca",
+      "75cef4803b34325a",
+      "4350f207f9b1e298",
+      "ac41d581cf254100",
+      "5ae3ebe449e4f1a4",
+      "19cd8d0f5d8fcd17",
+      "139fd687fe25e7ad",
+      "d3aa673ac108a720",
+      "1bb600ebdc789679",
+      "ac1912fd4817c0c2",
+      "5634bacf4e9cea0b",
+      "07d1372ca7f94307",
+      "bcd03c24afc5ea34",
+      "14a645998084be5d",
+      "4d25788a3f2e8faa",
+      "41a03e70988ec51d",
+      "5342872243713643",
+      "be955d53a17c6671",
+      "7098014321f5ccba",
+      "fd3d78cb892931be",
+      "0635448bbe7c4da3",
+      "f3910336bbc2e8bd",
+      "cce7459cc81e580c",
+      "0e8558d8077073cc",
+      "2d8b3ebc8b48918d",
+      "d5a590bd01879e14",
+      "ecab1d4186bcaa69",
+      "ba4b8cb77212302c",
+      "d2907316749f7ca4",
+      "dc5fe5418c278b46",
+      "9c4f03357c820054",
+      "cc969a85febabb48",
+      "1f24bbd7037dd4e4",
+      "0a2724a0ff2a1918",
+      "eb0ae2c032addfaa"
+    ],
+    "policy": [
+      "ci-policy-units",
+      "ci-policy-preservation",
+      "be955d53a17c6671",
+      "5790b8c6bd29cc39",
+      "cfbf4af948b88cfd",
+      "e0297cb34bc6eb08"
+    ],
+    "article": [
+      "3a98739a23fad1c3",
+      "14a645998084be5d",
+      "4d25788a3f2e8faa",
+      "41a03e70988ec51d",
+      "191dcf49a349d4ac",
+      "be955d53a17c6671",
+      "7098014321f5ccba",
+      "fd3d78cb892931be",
+      "0635448bbe7c4da3",
+      "f3910336bbc2e8bd",
+      "0e8558d8077073cc",
+      "2d8b3ebc8b48918d",
+      "d5a590bd01879e14",
+      "ecab1d4186bcaa69",
+      "ba4b8cb77212302c",
+      "d2907316749f7ca4",
+      "dc5fe5418c278b46",
+      "9c4f03357c820054",
+      "cc969a85febabb48",
+      "1f24bbd7037dd4e4",
+      "0a2724a0ff2a1918",
+      "eb0ae2c032addfaa"
+    ]
+  },
+  "runtime_rules": {
+    "src/app/core.js": [
+      "shared_runtime"
+    ],
+    "src/app/navigation.js": [
+      "shared_runtime",
+      "privacy"
+    ],
+    "src/app/opening-selection.js": [
+      "opening"
+    ],
+    "src/app/opening.js": [
+      "opening",
+      "player"
+    ],
+    "src/app/playlist-ui.js": [
+      "queue",
+      "catalog",
+      "shuffle",
+      "player"
+    ],
+    "src/app/art-modes.js": [
+      "art_modes",
+      "player"
+    ],
+    "src/app/album-player.js": [
+      "player",
+      "art_modes"
+    ],
+    "src/app/player.js": [
+      "player",
+      "catalog",
+      "features",
+      "queue",
+      "opening"
+    ],
+    "src/app/inline-player.js": [
+      "player",
+      "art_modes"
+    ],
+    "src/app/catalog-ui.js": [
+      "catalog",
+      "queue",
+      "shuffle",
+      "timeline"
+    ],
+    "src/app/song-ui.js": [
+      "editorial",
+      "player",
+      "art_modes",
+      "navigation",
+      "article"
+    ],
+    "src/app/timeline-explorer.js": [
+      "timeline",
+      "catalog"
+    ],
+    "src/app/editorial.js": [
+      "features",
+      "editorial",
+      "profile",
+      "timeline",
+      "catalog",
+      "navigation"
+    ],
+    "src/app/renewal.js": [
+      "renewal",
+      "shuffle",
+      "opening",
+      "catalog",
+      "queue",
+      "features"
+    ],
+    "src/app/router.js": [
+      "shared_runtime"
+    ],
+    "src/app/order.json": [
+      "shared_runtime"
+    ],
+    "src/assets/art.js": [
+      "canvas"
+    ],
+    "src/assets/playlist.js": [
+      "queue"
+    ],
+    "src/assets/filters.js": [
+      "catalog",
+      "timeline",
+      "opening"
+    ],
+    "src/assets/timeline.js": [
+      "timeline"
+    ],
+    "src/assets/catalog-explorer.js": [
+      "timeline",
+      "catalog"
+    ],
+    "src/assets/analytics-privacy.js": [
+      "privacy"
+    ],
+    "src/assets/style.css": [
+      "shared_runtime"
+    ],
+    "templates/index.html": [
+      "shared_runtime"
+    ],
+    "build.py": [
+      "images",
+      "dates",
+      "navigation",
+      "editorial",
+      "profile"
+    ],
+    "frontend.py": [
+      "shared_runtime"
+    ],
+    "catalog.py": [
+      "catalog",
+      "player",
+      "features",
+      "timeline"
+    ],
+    "catalog_explorer.py": [
+      "timeline",
+      "catalog"
+    ],
+    "art_motion.py": [
+      "canvas"
+    ],
+    "brand_assets.py": [
+      "images"
+    ],
+    "discovery.py": [
+      "navigation",
+      "editorial",
+      "features",
+      "profile",
+      "dates"
+    ],
+    "editorial_references.py": [
+      "editorial"
+    ],
+    "feature_editorial.py": [
+      "features",
+      "editorial"
+    ],
+    "feature_policy.py": [
+      "features",
+      "catalog"
+    ],
+    "image_delivery.py": [
+      "images"
+    ],
+    "listening_shelves.py": [
+      "catalog",
+      "opening"
+    ],
+    "profile_content.py": [
+      "profile"
+    ],
+    "render_editorial.py": [
+      "profile"
+    ],
+    "revision_dates.py": [
+      "dates"
+    ],
+    "url_migration.py": [
+      "navigation"
+    ],
+    "version.py": [
+      "release"
+    ]
+  },
+  "script_dependencies": {
+    "scripts/verify_mix_enrichment.py": [
+      "scripts/fixtures/mix-interview-enrichment.json"
+    ],
+    "scripts/test_editorial_uniqueness.py": [
+      "scripts/editorial_uniqueness.py"
+    ],
+    "scripts/verify_compact_list_dilla.py": [
+      "scripts/approved_editorial_corrections.py",
+      "scripts/approved_media_correction.py",
+      "scripts/approved_requested_two.py",
+      "scripts/fixtures/compact-list-dilla.json"
+    ],
+    "scripts/verify_premier_feature_browser.cjs": [
+      "features.json",
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/verify_shuffle_scope.py": [
+      "scripts/approved_ci_policy.py",
+      "scripts/approved_shuffle_scope.py",
+      "scripts/fixtures/approved-shuffle-scope.json"
+    ],
+    "scripts/approved_contextual_opening.py": [
+      "scripts/approved_requested_two.py",
+      "scripts/fixtures/approved-contextual-opening.json"
+    ],
+    "scripts/verify_tracks_gallery_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_queue_scope.py": [
+      "scripts/approved_shuffle_scope.py",
+      "scripts/fixtures/approved-queue-scope.json"
+    ],
+    "scripts/verify_artifacts_credits.py": [
+      "scripts/approved_artifacts_credits.py",
+      "scripts/approved_queue_scope.py",
+      "scripts/fixtures/approved-artifacts-credits.json"
+    ],
+    "scripts/approved_requested_two.py": [
+      "scripts/approved_timeline_explorer.py",
+      "scripts/fixtures/requested-two.json"
+    ],
+    "scripts/verify_artifacts_credits_browser.cjs": [
+      "scripts/fixtures/approved-artifacts-credits.json",
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_media_correction.py": [
+      "scripts/approved_editorial_corrections.py",
+      "scripts/fixtures/approved-media-correction.json"
+    ],
+    "scripts/approved_home_install_direct.py": [
+      "scripts/approved_contextual_opening.py",
+      "scripts/fixtures/approved-home-install-direct.json"
+    ],
+    "scripts/approved_browser_tools.py": [
+      "scripts/approved_premier_feature.py",
+      "scripts/fixtures/approved-browser-tools.json"
+    ],
+    "scripts/verify_requested_four.py": [
+      "scripts/fixtures/renewal-preservation.json",
+      "scripts/fixtures/requested-four.json"
+    ],
+    "scripts/verify_producer_photos.py": [
+      "scripts/approved_browser_tools.py",
+      "scripts/approved_photo_replacement.py"
+    ],
+    "scripts/verify_editorial_remediation.py": [
+      "scripts/approved_editorial_corrections.py",
+      "scripts/approved_requested_two.py"
+    ],
+    "scripts/approved_artifacts_credits.py": [
+      "scripts/approved_queue_scope.py",
+      "scripts/fixtures/approved-artifacts-credits.json"
+    ],
+    "scripts/approved_premier_feature.py": [
+      "scripts/approved_home_install_direct.py",
+      "scripts/fixtures/approved-premier-feature.json"
+    ],
+    "scripts/verify_essay_reference_output.py": [
+      "scripts/fixtures/requested-two.json"
+    ],
+    "scripts/verify_art_landscape_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/verify_ini_japan_media_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_shuffle_scope.py": [
+      "scripts/approved_ci_policy.py",
+      "scripts/fixtures/approved-shuffle-scope.json"
+    ],
+    "scripts/approved_timeline_explorer.py": [
+      "scripts/approved_artifacts_credits.py",
+      "scripts/fixtures/approved-timeline-explorer.json"
+    ],
+    "scripts/verify_requested_two.py": [
+      "scripts/approved_artifacts_credits.py",
+      "scripts/approved_requested_two.py",
+      "scripts/approved_timeline_explorer.py"
+    ],
+    "scripts/approved_photo_replacement.py": [
+      "scripts/approved_browser_tools.py",
+      "scripts/fixtures/approved-producer-photos.json"
+    ],
+    "scripts/verify_timeline_explorer_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs",
+      "src/assets/catalog-explorer.js",
+      "tracks.json"
+    ],
+    "scripts/verify_art_modes_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/verify_timeline_explorer.py": [
+      "scripts/approved_artifacts_credits.py",
+      "scripts/approved_timeline_explorer.py",
+      "scripts/fixtures/approved-timeline-explorer.json"
+    ],
+    "scripts/verify_responsive_renewal_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/verify_art_resume_intent.cjs": [
+      "scripts/verify_player_intent.cjs"
+    ],
+    "scripts/verify_shuffle_scope_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/verify_queue_scope_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/verify_contextual_opening.py": [
+      "scripts/approved_contextual_opening.py",
+      "scripts/approved_requested_two.py"
+    ],
+    "scripts/verify_editorial_uniqueness.py": [
+      "scripts/approved_editorial_corrections.py",
+      "scripts/editorial_uniqueness.py",
+      "scripts/fixtures/editorial-legacy-debt.json",
+      "scripts/fixtures/editorial-semantic-review.json"
+    ],
+    "scripts/verify_queue_scope.py": [
+      "scripts/approved_queue_scope.py",
+      "scripts/approved_shuffle_scope.py",
+      "scripts/fixtures/approved-queue-scope.json"
+    ],
+    "scripts/verify_browser_tools.py": [
+      "scripts/approved_browser_tools.py",
+      "scripts/approved_premier_feature.py",
+      "scripts/approved_requested_two.py"
+    ],
+    "scripts/verify_opening_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs",
+      "tracks.json"
+    ],
+    "scripts/verify_ini_japan_media.py": [
+      "scripts/approved_editorial_corrections.py",
+      "scripts/approved_media_correction.py",
+      "scripts/approved_requested_two.py"
+    ],
+    "scripts/verify_renewal_preservation.py": [
+      "scripts/approved_artifacts_credits.py",
+      "scripts/approved_editorial_corrections.py",
+      "scripts/approved_media_correction.py",
+      "scripts/fixtures/renewal-preservation.json"
+    ],
+    "scripts/verify_shadow_editorial.py": [
+      "scripts/approved_media_correction.py",
+      "scripts/shadow_editorial_expected.json"
+    ],
+    "scripts/verify_premier_feature.py": [
+      "scripts/approved_home_install_direct.py",
+      "scripts/approved_premier_feature.py",
+      "scripts/approved_requested_two.py",
+      "scripts/editorial_uniqueness.py",
+      "scripts/fixtures/premier-editorial-review.json"
+    ],
+    "scripts/verify_bookmark_helper_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/verify_oct19_two_browser.cjs": [
+      "scripts/fixtures/approved-artifacts-credits.json",
+      "scripts/fixtures/requested-two.json",
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/verify_compact_list_dilla_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs",
+      "tracks.json"
+    ],
+    "scripts/verify_donuts_album.py": [
+      "scripts/fixtures/donuts-playlist-order.json"
+    ],
+    "scripts/verify_browse_spacing_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/verify_navigation_hotfix_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/verify_home_install_direct.py": [
+      "scripts/approved_contextual_opening.py",
+      "scripts/approved_home_install_direct.py",
+      "scripts/approved_requested_two.py"
+    ],
+    "scripts/verify_requested_six.py": [
+      "scripts/approved_media_correction.py",
+      "scripts/approved_requested_two.py",
+      "scripts/fixtures/requested-six.json"
+    ],
+    "scripts/approved_editorial_corrections.py": [
+      "scripts/approved_photo_replacement.py",
+      "scripts/fixtures/approved-editorial-corrections.json"
+    ],
+    "scripts/approved_ci_policy.py": [
+      "scripts/fixtures/approved-ci-policy.json"
+    ],
+    "scripts/verify_ci_policy.py": [
+      "scripts/approved_ci_policy.py",
+      "scripts/approved_queue_scope.py",
+      "scripts/fixtures/approved-ci-policy.json",
+      "scripts/fixtures/approved-queue-scope.json"
+    ],
+    "scripts/verify_playback_browser.cjs": [
+      "scripts/verify_player_readiness.cjs"
+    ],
+    "scripts/verify_graffiti.cjs": [
+      "scripts/verify_art_motion.cjs"
+    ],
+    "scripts/verify_catalog_explorer.cjs": [
+      "src/assets/catalog-explorer.js"
+    ],
+    "scripts/verify_producer_photos_browser.cjs": [
+      "features.json"
+    ],
+    "scripts/verify_essay_references.cjs": [
+      "scripts/fixtures/requested-two.json"
+    ],
+    "scripts/verify_renewal_browser.cjs": [
+      "features.json",
+      "tracks.json"
+    ]
+  },
+  "policy_paths": [
+    ".github/workflows/pages.yml",
+    "scripts/approved_ci_policy.py",
+    "scripts/fixtures/approved-ci-policy.json",
+    "scripts/verify_ci_policy.py",
+    "scripts/approved_shuffle_scope.py",
+    "scripts/verify_shuffle_scope.py"
+  ],
+  "policy_files": [
+    "scripts/ci/select_checks.py",
+    "scripts/ci/run_checks.py",
+    "scripts/ci/manifest.json",
+    "scripts/ci/bootstrap-pages.yml",
+    "scripts/ci/integrity_checks.py",
+    "scripts/ci/test_select_checks.py",
+    "scripts/ci/test_run_checks.py",
+    "scripts/ci/test_integrity_checks.py",
+    "scripts/ci/README.md"
+  ],
+  "data_paths": [
+    "listening_shelves.json",
+    "editorial_deepdives.json",
+    "guides.json",
+    "dj_shadow_sample_research.json",
+    "editor_profile.json",
+    "tracks.json",
+    "features.json",
+    "retired_feature_photos.json",
+    "artist_entities.json",
+    "graffiti_artwork.json"
+  ],
+  "blocked_asset_prefixes": [
+    "assets/",
+    "brand/",
+    "src/assets/"
+  ],
+  "nonruntime_paths": [
+    "README.md",
+    "AGENTS.md",
+    "ADDING_TRACKS.md",
+    "ARTWORK_NOTES.md",
+    "DEPLOYMENT_RULES.md",
+    "FEATURE_COMPLETENESS.md",
+    ".gitignore"
+  ],
+  "syntax_existing": [
+    "dist/app.js",
+    "dist/art.js",
+    "dist/playlist.js",
+    "dist/filters.js",
+    "dist/timeline.js"
+  ],
+  "integrity_ids": [
+    "generated-pages",
+    "social-card-count",
+    "project-pages-urls",
+    "touch-icon",
+    "artist-discovery",
+    "deep-dive-output",
+    "public-enemy-coverage",
+    "gang-starr-coverage",
+    "shadow-coverage",
+    "shadow-research-counts",
+    "shadow-research-output",
+    "number-song-output"
+  ]
+}
