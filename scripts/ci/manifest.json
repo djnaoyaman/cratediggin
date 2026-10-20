@@ -2605,7 +2605,9 @@
     ],
     "scripts/verify_wutang_feature.py": [
       "scripts/approved_wutang_feature.py",
-      "scripts/fixtures/approved-wutang-feature.json"
+      "scripts/fixtures/approved-wutang-feature.json",
+      "scripts/editorial_uniqueness.py",
+      "scripts/fixtures/editorial-legacy-debt.json"
     ],
     "scripts/verify_wutang_feature_browser.cjs": [
       "scripts/fixtures/approved-wutang-feature.json",
