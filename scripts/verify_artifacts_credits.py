@@ -3,6 +3,7 @@ from pathlib import Path
 import json,hashlib,copy,sys
 from approved_artifacts_credits import historical_credit_file
 from approved_queue_scope import historical_queue_scope_file
+from approved_queue_scope import historical_queue_scope_file
 R=Path(__file__).resolve().parents[1];sys.path.insert(0,str(R));from feature_policy import role_projection
 from catalog import feature_tracks
 from catalog_explorer import aggregate,summary
@@ -20,7 +21,7 @@ for r in F['records']:
  assert '1994' in b['sources'][-1]['label'] and b['sources'][-1]['kind']=='原盤画像（第三者レコード店掲載）'
  for field in ['youtube','art','essay','deck','samples','sampleStatus','title','artist','album']:
   assert a[field]==b[field],(b['id'],field)
-for path,h in F['protected'].items():assert sha((R/path).read_bytes())==h,path
+for path,h in F['protected'].items():assert sha(historical_queue_scope_file(path,(R/path).read_bytes()))==h,path
 for path,c in F['files'].items():
  data=(R/path).read_bytes();assert sha(historical_credit_file(path,data))==c['beforeSHA256']
  bads=[data+b' ']

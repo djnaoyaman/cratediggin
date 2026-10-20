@@ -52,6 +52,7 @@ jobs:
           python scripts/verify_renewal_preservation.py
           python scripts/verify_requested_four.py
           python scripts/verify_requested_six.py
+          python scripts/verify_shuffle_scope.py
           python scripts/verify_queue_scope.py
           node scripts/verify_queue_scope.cjs
           python scripts/verify_artifacts_credits.py
@@ -181,6 +182,7 @@ jobs:
           python -m http.server 8765 --directory /tmp/crate-preview >/tmp/crate-preview.log 2>&1 &
           server=$!
           trap 'kill "$server"' EXIT
+          node scripts/verify_shuffle_scope_browser.cjs
           node scripts/verify_queue_scope_browser.cjs
           node scripts/verify_artifacts_credits_browser.cjs
           node scripts/verify_feature_swipe_browser.cjs
