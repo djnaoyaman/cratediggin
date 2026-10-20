@@ -4,6 +4,7 @@ from html.parser import HTMLParser
 from urllib.parse import urlsplit
 import json,hashlib
 from approved_image_alt import F,historical_image_alt_file
+from approved_album_recovery import historical_album_recovery_file
 R=Path(__file__).resolve().parents[1];D=R/'dist';sha=lambda b:hashlib.sha256(b).hexdigest()
 assert set(F['files'])=={'discovery.py','releases.json'}
 for p,c in F['files'].items():
@@ -14,7 +15,7 @@ for p,c in F['files'].items():
 expected=F['files']['discovery.py']['before']
 for old,new in F['replacements']:assert expected.count(old)==1;expected=expected.replace(old,new,1)
 assert (R/'discovery.py').read_text()==expected
-release=json.loads(F['files']['releases.json']['before']);release['version']='22.8';assert json.loads((R/'releases.json').read_text())==release
+release=json.loads(F['files']['releases.json']['before']);release['version']='22.8';assert json.loads(historical_album_recovery_file('releases.json',(R/'releases.json').read_bytes()))==release
 brand=json.loads((R/'scripts/fixtures/approved-brand-identity.json').read_text())
 for p,h in brand['contentHashes'].items():assert sha((R/p).read_bytes())==h,p
 class Head(HTMLParser):

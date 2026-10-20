@@ -1668,6 +1668,18 @@
       "legacy": false,
       "requires_build": true,
       "label": "node scripts/verify_image_alt_navigation.cjs"
+    },
+    {
+      "id": "album-recovery-preservation",
+      "argv": [
+        "python",
+        "scripts/verify_album_recovery.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": false,
+      "label": "python scripts/verify_album_recovery.py"
     }
   ],
   "groups": {
@@ -1969,6 +1981,15 @@
       "0686e3f46eb2f291",
       "image-alt",
       "image-alt-navigation"
+    ],
+    "album_recovery": [
+      "66d6521fb1ff5bb0",
+      "c0e498c4bc9a0343",
+      "11cc02294f7b3422",
+      "8aa8a08ab16690d1",
+      "album-navigation-preservation",
+      "album-navigation-browser",
+      "album-recovery-preservation"
     ]
   },
   "runtime_rules": {
@@ -2430,11 +2451,21 @@
       "scripts/fixtures/approved-brand-identity.json"
     ],
     "scripts/approved_image_alt.py": [
-      "scripts/fixtures/approved-image-alt.json"
+      "scripts/fixtures/approved-image-alt.json",
+      "scripts/approved_album_recovery.py"
     ],
     "scripts/verify_image_alt.py": [
       "scripts/approved_image_alt.py",
-      "scripts/fixtures/approved-brand-identity.json"
+      "scripts/fixtures/approved-brand-identity.json",
+      "scripts/approved_album_recovery.py"
+    ],
+    "scripts/approved_album_recovery.py": [
+      "scripts/fixtures/approved-album-recovery.json"
+    ],
+    "scripts/verify_album_recovery.py": [
+      "scripts/approved_album_recovery.py",
+      "scripts/approved_album_navigation.py",
+      "scripts/fixtures/approved-album-navigation.json"
     ]
   },
   "policy_paths": [
@@ -2451,7 +2482,9 @@
     "scripts/approved_brand_identity.py",
     "scripts/fixtures/approved-brand-identity.json",
     "scripts/approved_image_alt.py",
-    "scripts/fixtures/approved-image-alt.json"
+    "scripts/fixtures/approved-image-alt.json",
+    "scripts/approved_album_recovery.py",
+    "scripts/fixtures/approved-album-recovery.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -2537,6 +2570,13 @@
         "after_sha256": "3c7da645801aa2569afa330912beccbd98caca067efa8876e865990c68094271",
         "groups": [
           "album_navigation"
+        ]
+      },
+      {
+        "before_sha256": "3c7da645801aa2569afa330912beccbd98caca067efa8876e865990c68094271",
+        "after_sha256": "16d7b966078ccce42152d60c4b384d72c39991231cb6b381b6fb34b09504f6f5",
+        "groups": [
+          "album_recovery"
         ]
       }
     ],
