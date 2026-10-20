@@ -3,6 +3,8 @@ from pathlib import Path
 import hashlib,json
 ROOT=Path(__file__).resolve().parents[1]
 def historical_ci_policy_file(path,data):
+    from approved_static_work_count import historical_static_work_count_file
+    data=historical_static_work_count_file(path,data)
     f=json.loads((ROOT/'scripts/fixtures/approved-ci-policy.json').read_text())
     c=f['files'].get(path)
     if c is None:return data

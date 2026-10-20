@@ -1584,6 +1584,18 @@
       "legacy": false,
       "requires_build": false,
       "label": "Exact CI policy preservation and negative drift"
+    },
+    {
+      "id": "static-work-count",
+      "argv": [
+        "python",
+        "scripts/verify_static_work_count.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "Catalog-derived static hero count"
     }
   ],
   "groups": {
@@ -1849,6 +1861,9 @@
       "1f24bbd7037dd4e4",
       "0a2724a0ff2a1918",
       "eb0ae2c032addfaa"
+    ],
+    "static_work_count": [
+      "static-work-count"
     ]
   },
   "runtime_rules": {
@@ -2235,13 +2250,15 @@
       "scripts/fixtures/approved-editorial-corrections.json"
     ],
     "scripts/approved_ci_policy.py": [
+      "scripts/approved_static_work_count.py",
       "scripts/fixtures/approved-ci-policy.json"
     ],
     "scripts/verify_ci_policy.py": [
       "scripts/approved_ci_policy.py",
       "scripts/approved_queue_scope.py",
       "scripts/fixtures/approved-ci-policy.json",
-      "scripts/fixtures/approved-queue-scope.json"
+      "scripts/fixtures/approved-queue-scope.json",
+      "scripts/approved_static_work_count.py"
     ],
     "scripts/verify_playback_browser.cjs": [
       "scripts/verify_player_readiness.cjs"
@@ -2261,6 +2278,13 @@
     "scripts/verify_renewal_browser.cjs": [
       "features.json",
       "tracks.json"
+    ],
+    "scripts/approved_static_work_count.py": [
+      "scripts/fixtures/approved-static-work-count.json"
+    ],
+    "scripts/verify_static_work_count.py": [
+      "scripts/approved_static_work_count.py",
+      "scripts/fixtures/approved-static-work-count.json"
     ]
   },
   "policy_paths": [
@@ -2269,7 +2293,9 @@
     "scripts/fixtures/approved-ci-policy.json",
     "scripts/verify_ci_policy.py",
     "scripts/approved_shuffle_scope.py",
-    "scripts/verify_shuffle_scope.py"
+    "scripts/verify_shuffle_scope.py",
+    "scripts/approved_static_work_count.py",
+    "scripts/fixtures/approved-static-work-count.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -2280,7 +2306,8 @@
     "scripts/ci/test_select_checks.py",
     "scripts/ci/test_run_checks.py",
     "scripts/ci/test_integrity_checks.py",
-    "scripts/ci/README.md"
+    "scripts/ci/README.md",
+    "scripts/ci/test_scoped_runtime_changes.py"
   ],
   "data_paths": [
     "listening_shelves.json",
@@ -2328,5 +2355,25 @@
     "shadow-research-counts",
     "shadow-research-output",
     "number-song-output"
-  ]
+  ],
+  "scoped_runtime_changes": {
+    "frontend.py": [
+      {
+        "before_sha256": "87e431979ef2aa22980d78613d9fa8f62731a8c774f279ef0b55f6d46a3f7ea4",
+        "after_sha256": "76c76efba974a5fab32af60eb79683f6c6227e97c30eb1c175e0224057018512",
+        "groups": [
+          "static_work_count"
+        ]
+      }
+    ],
+    "templates/index.html": [
+      {
+        "before_sha256": "e689fb5ebaeca01cb241260525ec439cc296a26829c455ad4b061379b005cd79",
+        "after_sha256": "40aa4e80841903f3d638e17ff9e1a77071b5edc72ca6ca1ced9440bcfaa4d977",
+        "groups": [
+          "static_work_count"
+        ]
+      }
+    ]
+  }
 }

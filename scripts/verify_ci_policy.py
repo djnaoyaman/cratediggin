@@ -9,7 +9,8 @@ for path,c in F['files'].items():
  except AssertionError:pass
  else:raise AssertionError('Unapproved workflow/version drift accepted')
 for path,h in F['contentHashes'].items():assert sha((R/path).read_bytes())==h,path
-release=json.loads((R/'releases.json').read_text());assert release==dict(json.loads(F['files']['releases.json']['before']),version='22.4')
+from approved_static_work_count import historical_static_work_count_file
+release=json.loads(historical_static_work_count_file('releases.json',(R/'releases.json').read_bytes()));assert release==dict(json.loads(F['files']['releases.json']['before']),version='22.4')
 old=F['files']['.github/workflows/pages.yml']['before'];new=(R/'.github/workflows/pages.yml').read_text()
 assert old.split('  deploy:\n',1)[1]==new.split('  deploy:\n',1)[1], 'Deployment guards/permissions must remain byte-identical'
 assert '  validate:\n' in new and '    needs: validate\n' in new
