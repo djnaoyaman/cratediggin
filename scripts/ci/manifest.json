@@ -1716,6 +1716,18 @@
       "legacy": false,
       "requires_build": true,
       "label": "method-man-browser"
+    },
+    {
+      "id": "premium-notice",
+      "argv": [
+        "python",
+        "scripts/verify_premium_notice.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "premium-notice"
     }
   ],
   "groups": {
@@ -2040,6 +2052,9 @@
     "method_man": [
       "method-man",
       "method-man-browser"
+    ],
+    "premium_notice": [
+      "premium-notice"
     ]
   },
   "runtime_rules": {
@@ -2538,7 +2553,8 @@
       "scripts/fixtures/youtube-video-id-validation.json"
     ],
     "scripts/approved_method_man.py": [
-      "scripts/fixtures/approved-method-man.json"
+      "scripts/fixtures/approved-method-man.json",
+      "scripts/approved_premium_notice.py"
     ],
     "scripts/verify_method_man.py": [
       "scripts/approved_method_man.py",
@@ -2547,6 +2563,12 @@
     ],
     "scripts/verify_method_man_browser.cjs": [
       "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_premium_notice.py": [
+      "scripts/fixtures/approved-premium-notice.json"
+    ],
+    "scripts/verify_premium_notice.py": [
+      "scripts/approved_premium_notice.py"
     ]
   },
   "policy_paths": [
@@ -2570,7 +2592,9 @@
     "scripts/fixtures/approved-album-bootstrap.json",
     "scripts/fixtures/youtube-video-id-validation.json",
     "scripts/approved_method_man.py",
-    "scripts/fixtures/approved-method-man.json"
+    "scripts/fixtures/approved-method-man.json",
+    "scripts/approved_premium_notice.py",
+    "scripts/fixtures/approved-premium-notice.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -2648,6 +2672,13 @@
         "after_sha256": "40aa4e80841903f3d638e17ff9e1a77071b5edc72ca6ca1ced9440bcfaa4d977",
         "groups": [
           "static_work_count"
+        ]
+      },
+      {
+        "before_sha256": "40aa4e80841903f3d638e17ff9e1a77071b5edc72ca6ca1ced9440bcfaa4d977",
+        "after_sha256": "dd24f5cdad12e43c801f24303e53c0970a62045316fa6a16e0de42d82bbff26d",
+        "groups": [
+          "premium_notice"
         ]
       }
     ],

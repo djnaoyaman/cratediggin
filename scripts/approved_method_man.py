@@ -5,6 +5,8 @@ ROOT=Path(__file__).resolve().parents[1]
 F=json.loads((ROOT/'scripts/fixtures/approved-method-man.json').read_text())
 sha=lambda b:hashlib.sha256(b).hexdigest()
 def historical_method_man_file(path,data):
+ from approved_premium_notice import historical_premium_notice_file
+ data=historical_premium_notice_file(path,data)
  c=F['files'].get(path)
  if c is None:return data
  assert sha(data)==c['afterSHA256'],'Unapproved Method Man drift: '+path
