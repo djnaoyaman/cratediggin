@@ -45,6 +45,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
             result['@id'] = host + '/artists/' + slugs[name] + '.html#artist'
         return result
 
+    brand_image_alt='青い背景に白い「CRATE DIGGIN’」のタギングアート'
     def add(route, relative, title, description, body=None, image='og-image.jpg', graph=None, kind='website', image_alt=None):
         target = dist / (relative or 'index.html')
         if relative.endswith('/'):
@@ -66,7 +67,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
                  {'@type': 'BreadcrumbList', 'itemListElement': breadcrumb}]}
         pages[route] = {'route': route, 'path': base_path + '/' + relative,
                         'title': title, 'description': description, 'url': url,
-                        'image': image_url(image), 'imageAlt': image_alt or title, 'kind': kind,
+                        'image': image_url(image), 'imageAlt': image_alt or (brand_image_alt if image in brand_images else title), 'kind': kind,
                         'jsonld': data, 'target': target,
                         'published': data['@graph'][0].get('datePublished'),
                         'modified': data['@graph'][0].get('dateModified')}
@@ -124,7 +125,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
                       'song/' + t['id'], t.get('datePublished'), {'@id': url + '#recording'})
         art['citation'] = [s['url'] for s in t['sources']]
         add('#/song/' + t['id'], relative, t['title'] + ' / ' + t['artist'] + ' — CRATEDIGGIN\'',
-            (work_label(t)+'。' if work_type(t)!='single' else '')+t['deck'], image=image, graph=[art, recording], kind='article', image_alt=t['art']['alt'] if t['art'].get('image') else t['title'] + ' — ' + t['artist'] + '｜CRATE DIGGIN｜DJ Naoyaman')
+            (work_label(t)+'。' if work_type(t)!='single' else '')+t['deck'], image=image, graph=[art, recording], kind='article', image_alt=t['art']['alt'] if t['art'].get('image') else brand_image_alt)
         published = t.get('datePublished')
         updated = art.get('dateModified')
         byline = '<p class="byline">選曲・編集・文責 <a href="' + base_path + '/editor.html">DJ Naoyaman</a>'
@@ -180,7 +181,8 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         description = f['name'] + '特集。' + f['editorial']['title'] + ' ' + f['editorial']['context']
         add('#/feature/' + f['id'], relative, f['name'] + ' — ' + f['editorial']['title'] + ' / CRATEDIGGIN\'',
             description, image=feature_image, graph=[article(url, f['editorial']['title'], description, feature_image,
-                                        'feature/' + f['id'])], kind='article')
+                                        'feature/' + f['id'])], kind='article',
+            image_alt=f['visual']['alt'] if f.get('visual',{}).get('precomposed') else brand_image_alt)
         pages['#/feature/' + f['id']]['jsonld']['@graph'][0]['citation'] = [s['url'] for s in f['editorial']['sources']]
     add('#/songs', 'songs/', '楽曲一覧 — CRATEDIGGIN\'',
         work_count(tracks) + 'のHip Hopを聴きどころ・アーティスト・年代から探す。サンプル元と制作背景を出典付きで紹介。',
@@ -229,6 +231,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
     save_feature_social_image(dist/'editor-og.jpg',root/'src/assets/editor-provided-collage.webp')
     add('#/editor', 'editor.html', 'DJ Naoyaman — 編者紹介 / CRATEDIGGIN\'', 'CRATEDIGGIN\'の選曲・編集を行うDJ Naoyaman。',
         __import__('profile_content').render_profile(root,base_path), image='editor-og.jpg',
+        image_alt='DJ NaoyamanのDJパフォーマンス・コラージュ（ユーザー提供）',
         graph=[{'@type': 'ProfilePage', '@id': author_url + '#page', 'url': author_url, 'mainEntity': {**author, 'alternateName':'宮崎直哉','image':host+'/editor-og.jpg?v='+version}}])
 
     def real_links(content):
