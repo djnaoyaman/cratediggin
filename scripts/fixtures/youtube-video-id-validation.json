@@ -1,0 +1,9 @@
+{
+  "sourceUrl": "https://www.youtube.com/s/player/c271e571/www-widgetapi.vflset/www-widgetapi.js",
+  "sourceSHA256": "316a92f17a6607590c3675c075dbea110f7ab5bf8dd3e24a6eaf3bd767122038",
+  "sourceBytes": 27038,
+  "extractedAt": "2026-10-20T05:11:13.273228+00:00",
+  "constructorDefaultsExpression": "Object.assign({title:\"video player\",videoId:\"\",width:640,height:360},b||{})",
+  "lookupFunction": "function Y(a,b){a=[a.options,window.YTConfig||{}];for(var c=0;c<a.length;c++){var d=a[c][b];if(d!==void 0)return d}return null}",
+  "embedPathFunction": "function Ya(a){if((a=String(Y(a,\"videoId\")))&&(a.length!==11||!a.match(/^[a-zA-Z0-9\\-_]+$/)))throw Error(\"Invalid video id\");return\"/embed/\"+a}"
+}
