@@ -1,3 +1,4 @@
+from approved_brand_identity import historical_brand_social_digest
 """Fourteen exact supplied collages, no editorial/media drift or silent licensing claims."""
 from pathlib import Path
 import json,hashlib,copy,io
@@ -48,7 +49,7 @@ for a in f['assets']:
   graph=json.loads((D/meta['metadataPath'].removeprefix('/cratediggin/')).read_text())
   assert meta['image'] in json.dumps(graph)
 assert len(f['unchangedSocialImages'])==500
-for path,h in f['unchangedSocialImages'].items():assert sha(historical_browser_tools_social(path,(D/path).read_bytes()))==h,path
+for path,h in f['unchangedSocialImages'].items():assert historical_brand_social_digest(path,historical_browser_tools_social(path,(D/path).read_bytes()))==h,path
 # No public file may point to a retired producer photo.
 for p in D.rglob('*'):
  if p.is_file() and p.suffix in {'.html','.js','.json','.md','.xml'}:

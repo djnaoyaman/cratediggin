@@ -41,7 +41,8 @@ for route,p in registry.items():
     reference=social_image(track)
     encoded=io.BytesIO();reference.save(encoded,format='JPEG',quality=95,subsampling=0,optimize=True)
     target=dist/'og'/f'{tid}.jpg'
-    assert target.read_bytes()==encoded.getvalue(), 'JPEG must be deterministic rendering of original artwork: '+tid
+    expected_bytes=encoded.getvalue() if piece.get('status')=='ready' else (root/'brand/identity/social-1200.jpg').read_bytes()
+    assert target.read_bytes()==expected_bytes, 'JPEG must be deterministic approved artwork or generic brand source: '+tid
     assert not (dist/'og'/f'{tid}.png').exists(), 'Retired SNS PNG still public: '+tid
     with Image.open(target) as im:
         im.load(); assert im.format=='JPEG' and im.size==(1200,630) and im.mode=='RGB',tid
@@ -63,7 +64,7 @@ for route,p in registry.items():
             assert checked>0,tid
         artwork_count+=1
     else:
-        assert reference.getpixel((1,1))==rgb(SOCIAL_PAPER),tid
+        with Image.open(root/'brand/identity/social-1200.jpg') as generic:assert reference.tobytes()==generic.convert('RGB').tobytes(),tid
         assert 'graffiti' not in p['imageAlt'].lower()
         fallback_count+=1
     count+=1

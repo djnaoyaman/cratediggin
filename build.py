@@ -153,10 +153,10 @@ for artist in artist_names:
 print(f'Generated {len(tracks)} works ({work_count(tracks)}), source candidates, sitemap and Markdown. Data validation passed.')
 
 # Search, sharing and machine-readable views use the same editorial records.
-from brand_assets import icon, save_social_image, write_icons, retire_legacy_social_pngs
+from brand_assets import save_social_image, write_icons, retire_legacy_social_pngs, normalize_brand_head, brand_revision
 write_icons(DIST)
-(DIST/'site.webmanifest').write_text(json.dumps({'name':'CRATEDIGGIN\'','short_name':'CRATEDIGGIN\'','start_url':'/','display':'standalone','theme_color':'#4169e1','background_color':'#ffffff','icons':[{'src':'/icon-192.png','sizes':'192x192','type':'image/png'},{'src':'/icon-512.png','sizes':'512x512','type':'image/png'}]}), encoding='utf-8')
-for n in [192,512]:icon(n).save(DIST/f'icon-{n}.png')
+(DIST/'site.webmanifest').write_text(json.dumps({'name':'CRATEDIGGIN\'','short_name':'CRATEDIGGIN\'','start_url':'/','display':'standalone','theme_color':'#4169e1','background_color':'#ffffff','icons':[{'src':'/icon-192.png','sizes':'192x192','type':'image/png','purpose':'any'},{'src':'/icon-512.png','sizes':'512x512','type':'image/png','purpose':'any'},{'src':'/icon-maskable-512.png','sizes':'512x512','type':'image/png','purpose':'maskable'}]}), encoding='utf-8')
+
 (DIST/'og').mkdir(exist_ok=True)
 save_social_image(DIST/'og-image.jpg')
 def enhance(path,title,description,url,img,ld,article=False):
@@ -264,25 +264,20 @@ for page in DIST.rglob('*.html'):
     if '/app.js' not in text:
         analytics += '<script>gtag(\"event\",\"page_view\",{page_title:document.title,page_location:CrateAnalyticsURL(location.href,true),page_referrer:CrateAnalyticsReferrer(document.referrer)});</script>'
     text=text.replace('</head>',analytics+'</head>') if '</head>' in text else text.replace('<body',analytics+'<body',1)
-    # Ensure the final emitted HTML has exactly the expected project-scoped touch icon.
-    # Older generated HTML may contain a versioned pre-migration icon link.
-    if page.name == 'index.html':
-        icon_url = BASE_PATH + '/apple-touch-icon-vinyl.png?v=original-20261016'
-        icon_tag = '<link rel="apple-touch-icon" sizes="180x180" href="' + icon_url + '">'
-        text = re.sub(r'<link\b(?=[^>]*\brel="apple-touch-icon")[^>]*>', '', text)
-        text = text.replace('</head>', icon_tag + '</head>', 1)
-        assert icon_tag in text and text.count('rel="apple-touch-icon"') == 1, 'Expected exactly one fresh touch icon link'
     page.write_text(text, encoding='utf-8')
 manifest=json.loads((DIST/'site.webmanifest').read_text(encoding='utf-8'))
 manifest['start_url']=BASE_PATH+'/'
 manifest['scope']=BASE_PATH+'/'
-for item in manifest['icons']:item['src']=BASE_PATH+'/'+item['src'].lstrip('/')
+for item in manifest['icons']:item['src']=BASE_PATH+'/'+item['src'].lstrip('/')+'?v='+brand_revision()
 (DIST/'site.webmanifest').write_text(json.dumps(manifest), encoding='utf-8')
 (DIST/'.nojekyll').write_text('', encoding='utf-8')
 print('Version '+release['version']+' / GitHub Pages base '+BASE_PATH)
 
 from discovery import finalize_discovery
 finalize_discovery(ROOT,DIST,HOST,tracks,features,guides)
+for page in DIST.rglob("*.html"):
+    if page.name == "404.html":continue  # The existing redirect shell intentionally has no head.
+    page.write_text(normalize_brand_head(page.read_text(encoding="utf-8"),BASE_PATH),encoding="utf-8")
 
 # Delivery-only derivatives preserve all authored source images and URLs.
 # Release build-time image caches before the final encoder stage.

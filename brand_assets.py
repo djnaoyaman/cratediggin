@@ -22,12 +22,19 @@ def vinyl(im,cx,cy,r):
     d.rectangle((cx-r*.10,cy-r*.94,cx+r*.10,cy-r*.32),fill=WHITE)
     text(im,(cx-lr*.78,cy-lr*.32),'33 1/3',int(r*.32),width=lr*1.56,fill=BLUE)
     d.ellipse((cx-2,cy-2,cx+2,cy+2),fill=INK)
+BRAND_FILES=('apple-180.png','install-512.png','favicon-192.png','social-1200.jpg')
+def brand_revision():
+    return hashlib.sha256(b''.join((ROOT/'brand/identity'/name).read_bytes() for name in BRAND_FILES)).hexdigest()[:16]
+
 def icon(size):
-    """Use the supplied original record illustration, not a recreated graphic."""
-    import io
-    encoded=(ROOT/'brand'/'record-art.jpg.base64').read_text(encoding='utf-8').strip()
-    original=Image.open(io.BytesIO(base64.b64decode(encoded))).convert('RGB')
-    return original.resize((size,size),Image.Resampling.LANCZOS)
+    """Resize the approved generated brand icon without repainting its lettering."""
+    source='apple-180.png' if size==180 else 'install-512.png'
+    with Image.open(ROOT/'brand/identity'/source) as im:
+        return im.convert('RGB').resize((size,size),Image.Resampling.LANCZOS)
+
+def small_icon(size):
+    with Image.open(ROOT/'brand/identity/favicon-192.png') as im:
+        return im.convert('RGB').resize((size,size),Image.Resampling.LANCZOS)
 
 def graffiti_social_image(track):
     """Lay out an unchanged transparent artwork over a restrained cool wall; white paint remains distinct."""
@@ -53,39 +60,54 @@ def graffiti_social_image(track):
 def social_image(track=None):
     if track and track.get('art', {}).get('image'):
         return graffiti_social_image(track)
-    im=Image.new('RGB',(1200,630),SOCIAL_PAPER);d=ImageDraw.Draw(im)
-    text(im,(45,31),'RECORDS. RHYMES. RECOLLECTIONS.',24,fill=INK)
-    text(im,(946,31),'VOL. 001',24,fill=INK)
-    text(im,(45,100),'CRATE',215,width=750,fill=INK)
-    text(im,(45,298),"DIGGIN'",215,width=750,fill=INK)
-    text(im,(886,103),'KEEP',43,marker=True,fill=INK)
-    text(im,(875,160),"DIGGIN'.",43,width=285,marker=True,fill=INK)
-    vinyl(im,1004,307,72)
-    text(im,(913,402),'THE PAST',22,fill=INK)
-    text(im,(913,431),'IS STILL PLAYING.',22,fill=INK)
-    d.line((45,503,1155,503),fill='#b8c1d1',width=2)
-    if track:
-        text(im,(45,526),track['title'],44,width=820,fill=INK)
-        text(im,(45,580),track['artist'],23,width=820,fill=INK)
-        text(im,(895,555),'DJ NAOYAMAN',25,fill=INK)
-    else:
-        text(im,(45,527),'A Guide to Sampled Mind',35,fill=INK)
-        text(im,(45,572),'& Vintage Grooves',35,fill=INK)
-        text(im,(889,549),'DJ NAOYAMAN',26,fill=INK)
-    return im
+    # A generic brand card is not claimed to be completed work-specific graffiti.
+    with Image.open(ROOT/'brand/identity/social-1200.jpg') as im:
+        return im.convert('RGB').copy()
+
 
 def write_icons(dist):
-    for size,name in [(180,'apple-touch-icon.png'),(180,'apple-touch-icon-vinyl.png'),(32,'favicon-32.png'),(192,'icon-192.png'),(512,'icon-512.png')]:icon(size).save(dist/name)
-    icon(48).save(dist/'favicon.ico',sizes=[(16,16),(32,32),(48,48)])
+    for size,name in [(180,'apple-touch-icon.png'),(180,'apple-touch-icon-tagging.png'),(192,'icon-192.png'),(512,'icon-512.png'),(512,'icon-maskable-512.png')]:
+        icon(size).save(dist/name)
+    for size in (16,32,48,96,192):small_icon(size).save(dist/f'favicon-{size}.png')
+    small_icon(48).save(dist/'favicon.ico',sizes=[(16,16),(32,32),(48,48)])
     import io
-    data=io.BytesIO();icon(48).save(data,format='PNG')
+    data=io.BytesIO();small_icon(192).save(data,format='PNG')
     encoded=base64.b64encode(data.getvalue()).decode()
-    (dist/'favicon.svg').write_text('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><image width="192" height="192" href="data:image/png;base64,'+encoded+'"/></svg>', encoding='utf-8')
+    (dist/'favicon.svg').write_text('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><image width="192" height="192" href="data:image/png;base64,'+encoded+'"/></svg>',encoding='utf-8')
+    # Keep the historical file available for already-cached documents, never link it anew.
+    import io
+    encoded=(ROOT/'brand/record-art.jpg.base64').read_text().strip()
+    with Image.open(io.BytesIO(base64.b64decode(encoded))) as old:
+        old.convert('RGB').resize((180,180),Image.Resampling.LANCZOS).save(dist/'apple-touch-icon-vinyl.png')
+
+def normalize_brand_head(html,base_path):
+    """One final icon contract, after every static/discovery page is generated."""
+    import re
+    from html.parser import HTMLParser
+    class Tag(HTMLParser):
+        def handle_starttag(self,tag,attrs):self.attrs=dict(attrs)
+    def keep(match):
+        p=Tag();p.feed(match.group());a=getattr(p,'attrs',{})
+        rel=set(a.get('rel','').lower().split())
+        if rel & {'icon','apple-touch-icon','manifest'} or a.get('name','').lower()=='theme-color':return ''
+        return match.group()
+    head,sep,tail=html.partition('</head>')
+    if not sep:raise ValueError('Cannot normalize icons without a closing head')
+    head=re.sub(r'<(?:link|meta)\b[^>]*>',keep,head,flags=re.I)
+    prefix=base_path.rstrip('/')+'/'
+    revision=brand_revision()
+    tags='<meta name="theme-color" content="'+BLUE+'">'
+    for rel,size,mime,name in [('apple-touch-icon','180x180',None,'apple-touch-icon-tagging.png'),('icon','any','image/svg+xml','favicon.svg'),('icon','32x32','image/png','favicon-32.png'),('icon','96x96','image/png','favicon-96.png'),('alternate icon',None,'image/x-icon','favicon.ico'),('manifest',None,None,'site.webmanifest')]:
+        tags+='<link rel="'+rel+'"'+(' sizes="'+size+'"' if size else '')+(' type="'+mime+'"' if mime else '')+' href="'+prefix+name+'?v='+revision+'">'
+    return head+tags+sep+tail
 
 
 def save_social_image(path, track=None):
     """Public SNS derivative: opaque 1200x630 JPEG, quality95 and full chroma."""
-    social_image(track).save(path, format='JPEG', quality=95, subsampling=0, optimize=True)
+    if not track or not track.get('art',{}).get('image'):
+        shutil.copyfile(ROOT/'brand/identity/social-1200.jpg',path)
+    else:
+        social_image(track).save(path, format='JPEG', quality=95, subsampling=0, optimize=True)
 
 
 def retire_legacy_social_pngs(dist, track_ids, feature_ids):

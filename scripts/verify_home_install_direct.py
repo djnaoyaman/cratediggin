@@ -1,3 +1,4 @@
+from approved_brand_identity import historical_brand_social_digest
 from approved_requested_two import historical_intake_tracks, historical_intake_file
 """Preserve published21.11 exactly except the approved helper UI, gallery restoration and supplied photos."""
 from pathlib import Path
@@ -29,7 +30,7 @@ for a in F['editorPhotos']:
 if (D/'metadata.js').exists():
  assert len(F['socialImages'])==516
  for path,h in F['socialImages'].items():
-  if path!='feature-og/dj-premier.jpg':assert sha((D/path).read_bytes())==h,path
+  if path!='feature-og/dj-premier.jpg':assert historical_brand_social_digest(path,(D/path).read_bytes())==h,path
  from brand_assets import save_feature_social_image
  import tempfile
  with tempfile.TemporaryDirectory() as temp:

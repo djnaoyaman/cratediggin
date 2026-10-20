@@ -1620,6 +1620,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "album-navigation-browser"
+    },
+    {
+      "id": "brand-identity",
+      "argv": [
+        "python",
+        "scripts/verify_brand_identity.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "python scripts/verify_brand_identity.py"
+    },
+    {
+      "id": "brand-identity-browser",
+      "argv": [
+        "node",
+        "scripts/verify_brand_identity_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "node scripts/verify_brand_identity_browser.cjs"
     }
   ],
   "groups": {
@@ -1905,6 +1929,15 @@
       "5790b8c6bd29cc39",
       "album-navigation-preservation",
       "album-navigation-browser"
+    ],
+    "brand_identity": [
+      "5ff83d5a4edfa5fe",
+      "b651481635e60984",
+      "f196271f9ae25902",
+      "58ba2cab8905e5c8",
+      "0686e3f46eb2f291",
+      "brand-identity",
+      "brand-identity-browser"
     ]
   },
   "runtime_rules": {
@@ -2078,6 +2111,18 @@
     ],
     "version.py": [
       "release"
+    ],
+    "brand/identity/social-1200.jpg": [
+      "brand_identity"
+    ],
+    "brand/identity/apple-180.png": [
+      "brand_identity"
+    ],
+    "brand/identity/favicon-192.png": [
+      "brand_identity"
+    ],
+    "brand/identity/install-512.png": [
+      "brand_identity"
     ]
   },
   "script_dependencies": {
@@ -2115,6 +2160,7 @@
     ],
     "scripts/verify_artifacts_credits.py": [
       "scripts/approved_artifacts_credits.py",
+      "scripts/approved_brand_identity.py",
       "scripts/approved_queue_scope.py",
       "scripts/fixtures/approved-artifacts-credits.json"
     ],
@@ -2143,6 +2189,7 @@
       "scripts/fixtures/requested-four.json"
     ],
     "scripts/verify_producer_photos.py": [
+      "scripts/approved_brand_identity.py",
       "scripts/approved_browser_tools.py",
       "scripts/approved_photo_replacement.py"
     ],
@@ -2177,6 +2224,7 @@
     ],
     "scripts/verify_requested_two.py": [
       "scripts/approved_artifacts_credits.py",
+      "scripts/approved_brand_identity.py",
       "scripts/approved_requested_two.py",
       "scripts/approved_timeline_explorer.py"
     ],
@@ -2194,6 +2242,7 @@
     ],
     "scripts/verify_timeline_explorer.py": [
       "scripts/approved_artifacts_credits.py",
+      "scripts/approved_brand_identity.py",
       "scripts/approved_timeline_explorer.py",
       "scripts/fixtures/approved-timeline-explorer.json"
     ],
@@ -2210,6 +2259,7 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/verify_contextual_opening.py": [
+      "scripts/approved_brand_identity.py",
       "scripts/approved_contextual_opening.py",
       "scripts/approved_requested_two.py"
     ],
@@ -2220,12 +2270,14 @@
       "scripts/fixtures/editorial-semantic-review.json"
     ],
     "scripts/verify_queue_scope.py": [
+      "scripts/approved_album_navigation.py",
+      "scripts/approved_brand_identity.py",
       "scripts/approved_queue_scope.py",
       "scripts/approved_shuffle_scope.py",
-      "scripts/fixtures/approved-queue-scope.json",
-      "scripts/approved_album_navigation.py"
+      "scripts/fixtures/approved-queue-scope.json"
     ],
     "scripts/verify_browser_tools.py": [
+      "scripts/approved_brand_identity.py",
       "scripts/approved_browser_tools.py",
       "scripts/approved_premier_feature.py",
       "scripts/approved_requested_two.py"
@@ -2250,6 +2302,7 @@
       "scripts/shadow_editorial_expected.json"
     ],
     "scripts/verify_premier_feature.py": [
+      "scripts/approved_brand_identity.py",
       "scripts/approved_home_install_direct.py",
       "scripts/approved_premier_feature.py",
       "scripts/approved_requested_two.py",
@@ -2278,6 +2331,7 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/verify_home_install_direct.py": [
+      "scripts/approved_brand_identity.py",
       "scripts/approved_contextual_opening.py",
       "scripts/approved_home_install_direct.py",
       "scripts/approved_requested_two.py"
@@ -2298,9 +2352,9 @@
     "scripts/verify_ci_policy.py": [
       "scripts/approved_ci_policy.py",
       "scripts/approved_queue_scope.py",
+      "scripts/approved_static_work_count.py",
       "scripts/fixtures/approved-ci-policy.json",
-      "scripts/fixtures/approved-queue-scope.json",
-      "scripts/approved_static_work_count.py"
+      "scripts/fixtures/approved-queue-scope.json"
     ],
     "scripts/verify_playback_browser.cjs": [
       "scripts/verify_player_readiness.cjs"
@@ -2322,19 +2376,26 @@
       "tracks.json"
     ],
     "scripts/approved_static_work_count.py": [
-      "scripts/fixtures/approved-static-work-count.json",
-      "scripts/approved_album_navigation.py"
+      "scripts/approved_album_navigation.py",
+      "scripts/fixtures/approved-static-work-count.json"
     ],
     "scripts/verify_static_work_count.py": [
       "scripts/approved_static_work_count.py",
       "scripts/fixtures/approved-static-work-count.json"
     ],
     "scripts/approved_album_navigation.py": [
+      "scripts/approved_brand_identity.py",
       "scripts/fixtures/approved-album-navigation.json"
     ],
     "scripts/verify_album_navigation.py": [
       "scripts/approved_album_navigation.py",
       "scripts/fixtures/approved-album-navigation.json"
+    ],
+    "scripts/verify_brand_identity.py": [
+      "scripts/approved_brand_identity.py"
+    ],
+    "scripts/approved_brand_identity.py": [
+      "scripts/fixtures/approved-brand-identity.json"
     ]
   },
   "policy_paths": [
@@ -2347,7 +2408,9 @@
     "scripts/approved_static_work_count.py",
     "scripts/fixtures/approved-static-work-count.json",
     "scripts/approved_album_navigation.py",
-    "scripts/fixtures/approved-album-navigation.json"
+    "scripts/fixtures/approved-album-navigation.json",
+    "scripts/approved_brand_identity.py",
+    "scripts/fixtures/approved-brand-identity.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -2487,6 +2550,33 @@
         "after_sha256": "64fb405e83f5f42ff6ef727850c907d4b93dd28d2fbae8f7bc71333efa7ba40d",
         "groups": [
           "album_navigation"
+        ]
+      }
+    ],
+    "brand_assets.py": [
+      {
+        "before_sha256": "34640db29c737950805cabc57dba484660a6954529c26861084b6e86c3602fd2",
+        "after_sha256": "2d85f28c86a2912618da432a50159f1ce46c6e46ceab5cb4988db25b284cd59e",
+        "groups": [
+          "brand_identity"
+        ]
+      }
+    ],
+    "build.py": [
+      {
+        "before_sha256": "475d33443b1ad2c7ff536d4e00dff11de990b688e02dfbbf516b2d8df36be585",
+        "after_sha256": "c0f6969512c2dd5b27ff23ae098439267cb0bb5076c02a12d9130d74e642dc8b",
+        "groups": [
+          "brand_identity"
+        ]
+      }
+    ],
+    "discovery.py": [
+      {
+        "before_sha256": "9b76e07de11b1b1c2815a54a9daa3fb87a3683a66e26803774acfb60975fb3bd",
+        "after_sha256": "64365a4015421c35f6a87667a11ae15e72558d93f942a8c8ae20b22127d584c2",
+        "groups": [
+          "brand_identity"
         ]
       }
     ]

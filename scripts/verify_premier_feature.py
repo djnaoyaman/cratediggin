@@ -1,3 +1,4 @@
+from approved_brand_identity import historical_brand_social_digest
 from approved_requested_two import historical_intake_tracks
 """Exact append-only feature publication; catalog roles are not a discography claim."""
 from pathlib import Path
@@ -76,7 +77,7 @@ for bad in [None,{}, {'label':'x','url':'javascript:alert(1)'},{'label':'','url'
  except (AssertionError,TypeError):pass
  else:raise AssertionError('Invalid source accepted')
 if (D/'metadata.js').exists():
- for path,h in F['socialImages'].items():assert sha((D/path).read_bytes())==h,path
+ for path,h in F['socialImages'].items():assert historical_brand_social_digest(path,(D/path).read_bytes())==h,path
  assert len(F['socialImages'])==515
  meta=json.loads((D/'metadata.js').read_text().split('=',1)[1].rstrip(';\n'));m=meta['#/feature/dj-premier'];assert m['url'].endswith('/producers/dj-premier.html')
  assert m['image'].endswith('/feature-og/dj-premier.jpg?v='+json.loads((R/'releases.json').read_text())['version'])
