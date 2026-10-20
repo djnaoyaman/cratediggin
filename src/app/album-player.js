@@ -1,6 +1,8 @@
  // A native playlist owns its own internal sequencing. Album events never advance the outer crate.
  let albumSession=null,albumGeneration=0,albumPlaybackLocked=false;
  function albumCurrent(s){return albumSession===s&&s.generation===albumGeneration&&albumPlaybackLocked&&songs[cur]?.id===s.workId}
+ function albumOwnsPlayback(){return !!albumSession&&albumCurrent(albumSession)}
+ function resumeAlbum(i,play){const s=albumSession;if(!albumOwnsPlayback()||s.workId!==songs[i]?.id||s.failed)return false;if(!play)return true;openPlayerPresentation();started=true;$('#start').hidden=true;if(!s.wantsPlay){requestPlaybackIntent(s,true,s.player);albumWatchdog(s);if(s.ready)s.player.playVideo();reconcilePlaybackIntent(s,s.player,s.revision);}return true;}
  function albumVisible(on){const main=$('#yt'),host=$('#album-player-host');if(main)main.hidden=on;if(host)host.hidden=!on;}
  function disposeAlbumPlayer(){const old=albumSession;albumSession=null;albumGeneration++;if(old){clearTimeout(old.timer);old.wantsPlay=false;try{old.player?.pauseVideo()}catch(_){}try{old.player?.destroy()}catch(_){}}const host=$('#album-player-host');if(host)host.replaceChildren?.();albumVisible(false);if(typeof queueArtProviderRefresh==='function')queueArtProviderRefresh();}
  function albumFailure(s,message){if(!albumCurrent(s))return;clearTimeout(s.timer);s.wantsPlay=false;s.pendingState=null;s.revision++;s.buffering=false;s.failed=true;recordPlaybackError(songs[cur],'ALBUM_LOAD_ERROR');try{s.player?.pauseVideo()}catch(_){}toggleUI(false);$('#start').hidden=false;status(message+' 再生ボタンで再試行できます。YouTubeのアルバムリンクもご利用ください。');if(typeof leaveArtForPlaybackFailure==='function')leaveArtForPlaybackFailure();}
