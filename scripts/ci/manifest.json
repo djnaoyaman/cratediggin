@@ -2856,6 +2856,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "research-batch06-browser"
+    },
+    {
+      "id": "editor-bathing-link",
+      "argv": [
+        "python",
+        "scripts/verify_editor_bathing_link.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "editor-bathing-link"
+    },
+    {
+      "id": "editor-bathing-link-browser",
+      "argv": [
+        "node",
+        "scripts/verify_editor_bathing_link_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "editor-bathing-link-browser"
     }
   ],
   "groups": {
@@ -3385,6 +3409,10 @@
     "research_batch06": [
       "research-batch06",
       "research-batch06-browser"
+    ],
+    "editor_bathing_link": [
+      "editor-bathing-link",
+      "editor-bathing-link-browser"
     ]
   },
   "runtime_rules": {
@@ -4082,7 +4110,8 @@
     "scripts/verify_editor_affinity.py": [
       "scripts/approved_editor_affinity.py",
       "profile_content.py",
-      "scripts/approved_halftime.py"
+      "scripts/approved_halftime.py",
+      "scripts/approved_editor_bathing_link.py"
     ],
     "scripts/verify_editor_affinity_browser.cjs": [
       "scripts/fixtures/approved-editor-affinity.json"
@@ -4446,13 +4475,24 @@
       "scripts/fixtures/approved-research-batch05.json"
     ],
     "scripts/approved_research_batch06.py": [
-      "scripts/fixtures/approved-research-batch06.json"
+      "scripts/fixtures/approved-research-batch06.json",
+      "scripts/approved_editor_bathing_link.py"
     ],
     "scripts/verify_research_batch06.py": [
       "scripts/approved_research_batch06.py"
     ],
     "scripts/verify_research_batch06_browser.cjs": [
       "scripts/fixtures/approved-research-batch06.json"
+    ],
+    "scripts/approved_editor_bathing_link.py": [
+      "scripts/fixtures/approved-editor-bathing-link.json"
+    ],
+    "scripts/verify_editor_bathing_link.py": [
+      "scripts/approved_editor_bathing_link.py",
+      "profile_content.py"
+    ],
+    "scripts/verify_editor_bathing_link_browser.cjs": [
+      "scripts/fixtures/approved-editor-bathing-link.json"
     ]
   },
   "policy_paths": [
@@ -4574,7 +4614,9 @@
     "scripts/approved_research_batch05.py",
     "scripts/fixtures/approved-research-batch05.json",
     "scripts/approved_research_batch06.py",
-    "scripts/fixtures/approved-research-batch06.json"
+    "scripts/fixtures/approved-research-batch06.json",
+    "scripts/approved_editor_bathing_link.py",
+    "scripts/fixtures/approved-editor-bathing-link.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -5522,6 +5564,13 @@
         "after_sha256": "977a36f96e638d8d7fa925235ad9dc70c9e7607ae6d220a43b82b789c8746caa",
         "groups": [
           "editor_affinity"
+        ]
+      },
+      {
+        "before_sha256": "977a36f96e638d8d7fa925235ad9dc70c9e7607ae6d220a43b82b789c8746caa",
+        "after_sha256": "d098f38d313662c25d2bbb304523af71e3e8c7be3d1665891a56f9bacd52b06b",
+        "groups": [
+          "editor_bathing_link"
         ]
       }
     ],
