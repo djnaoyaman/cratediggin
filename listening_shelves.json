@@ -334,8 +334,8 @@
           "shelf": "voice",
           "evidence": {
             "file": "tracks.json",
-            "field": "deck",
-            "quote": "声の違いが、クルー全体の輪郭になる。"
+            "field": "listening.0",
+            "quote": "声が交代する場面を追い、次のMCへの期待がどう生まれるか考えてみる。"
           }
         }
       ]
