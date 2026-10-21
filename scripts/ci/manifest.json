@@ -2520,6 +2520,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "catalog-scope-repair-browser"
+    },
+    {
+      "id": "headings-batch01",
+      "argv": [
+        "python",
+        "scripts/verify_headings_batch01.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "headings-batch01"
+    },
+    {
+      "id": "headings-batch01-browser",
+      "argv": [
+        "node",
+        "scripts/verify_headings_batch01_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "headings-batch01-browser"
     }
   ],
   "groups": {
@@ -2993,6 +3017,10 @@
     "catalog_scope_repair": [
       "catalog-scope-repair",
       "catalog-scope-repair-browser"
+    ],
+    "headings_batch01": [
+      "headings-batch01",
+      "headings-batch01-browser"
     ]
   },
   "runtime_rules": {
@@ -3914,13 +3942,23 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/approved_catalog_scope_repair.py": [
-      "scripts/fixtures/approved-catalog-scope-repair.json"
+      "scripts/fixtures/approved-catalog-scope-repair.json",
+      "scripts/approved_headings_batch01.py"
     ],
     "scripts/verify_catalog_scope_repair.py": [
       "scripts/approved_catalog_scope_repair.py"
     ],
     "scripts/verify_catalog_scope_repair_browser.cjs": [
       "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_headings_batch01.py": [
+      "scripts/fixtures/approved-headings-batch01.json"
+    ],
+    "scripts/verify_headings_batch01.py": [
+      "scripts/approved_headings_batch01.py"
+    ],
+    "scripts/verify_headings_batch01_browser.cjs": [
+      "scripts/fixtures/approved-headings-batch01.json"
     ]
   },
   "policy_paths": [
@@ -4014,7 +4052,9 @@
     "scripts/approved_desktop_art_space.py",
     "scripts/fixtures/approved-desktop-art-space.json",
     "scripts/approved_catalog_scope_repair.py",
-    "scripts/fixtures/approved-catalog-scope-repair.json"
+    "scripts/fixtures/approved-catalog-scope-repair.json",
+    "scripts/approved_headings_batch01.py",
+    "scripts/fixtures/approved-headings-batch01.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -4557,6 +4597,13 @@
         "after_sha256": "f8195ac68b04ea63d92a681a11d6909558849ffa1bbe6ef84111a538d4c7fbeb",
         "groups": [
           "four_mix"
+        ]
+      },
+      {
+        "before_sha256": "f8195ac68b04ea63d92a681a11d6909558849ffa1bbe6ef84111a538d4c7fbeb",
+        "after_sha256": "43f222f939b65ae144ae62785c704e7335b3235dd5fe717f151542238a3a06eb",
+        "groups": [
+          "headings_batch01"
         ]
       }
     ],

@@ -1,0 +1,464 @@
+{
+  "base": "ed891ddff0dab12ef3f206e1c6bd4c53c8afe55f",
+  "batch": 1,
+  "completed": 29,
+  "total": 226,
+  "beforeVersion": "22.45",
+  "rows": [
+    {
+      "id": "a-tribe-called-quest-check-the-rhime",
+      "old": "この曲の聴きどころ",
+      "new": "掛け合う二人、声の継ぎ目もビートになる",
+      "rationale": "二人の声の受け渡しを、この曲のリズムの焦点として提示。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "二人の声が受け渡すリズム。掛け合いもビートの一部になる。 / 一人の声だけを追うより、次の声へ渡る直前に耳を置きたい。掛け合いの面白さは、二人が同じことをしていないところから立ち上がる。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "a-tribe-called-quest-award-tour",
+      "old": "この曲の聴きどころ",
+      "new": "声の弾みとループが揃える軽快な足取り",
+      "rationale": "速さではなく声と反復の重なりを焦点にした。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "前へ進むビートに、軽快な声。歩く速度が少し上がる。 / 前へ進む感触を、音の速さだけで説明しないでおきたい。声の弾みとループの巡りが重なる瞬間を探すと、この曲の足取りが見えてくる。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "a-tribe-called-quest-scenario",
+      "old": "この曲の聴きどころ",
+      "new": "マイクを渡すたびに変わるビートの表情",
+      "rationale": "声の交代で同じビートの印象が変わるという本文の視点。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "マイクが次々に渡るたび、輪の熱が上がっていく。 / 声が替わるたびに、同じビートの表情まで変わって聞こえる。誰がいちばん目立つかに加えて、次の人へ熱を渡す瞬間も楽しみたい。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "a-tribe-called-quest-bonita-applebum",
+      "old": "この曲の聴きどころ",
+      "new": "語りかける声を包む、柔らかな反復",
+      "rationale": "声の距離とループの柔らかさを結び付ける。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "柔らかな反復と、近い声。強さとは違う魅力の入口。 / 近くで話すような声を、柔らかな反復が受け止めている。力強く迫る曲の隣に置くと、この距離の近さがいっそうよくわかる。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "a-tribe-called-quest-jazz-we-ve-got",
+      "old": "この曲の聴きどころ",
+      "new": "ジャズの響きがラップの足場になるまで",
+      "rationale": "ジャズの音色とドラム、ラップの関係を焦点にする。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "ジャズを飾りにせず、ラップの呼吸へ組み込む。 / ジャズらしい響きを見つけたら、そのままドラムへ耳を移してみる。音色の印象とラップの足場が、どこで一つになるかを聴きたい。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "pete-rock-c-l-smooth-they-reminisce-over-you-t-r-o-y",
+      "old": "この曲の聴きどころ",
+      "new": "明るいホーンに重なる、低音と声の切なさ",
+      "rationale": "本文にある明暗の重なりを、楽器と声の関係で示す。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "ホーンの余韻に、記憶が寄り添う。明るさの中にも深さがある。 / ホーンの明るさに引かれたあとで、低音と声の重さへ戻ってみる。晴れたように響く音が、どこか切なくも聞こえる。その重なりを急いでほどかずにいたい。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "pete-rock-c-l-smooth-straighten-it-out",
+      "old": "この曲の聴きどころ",
+      "new": "声かループか、跳ねるファンクの主役を追う",
+      "rationale": "反復のたびに声とループのどちらを追うかという聴き方。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "声とループが同じ方向へ跳ねる。ファンクの腰を追いたい。 / 跳ねる感触を、声とループのどちらが引っ張っているかを考えながら聴く。一周するたびに主役が入れ替わるようなら、その行き来もグルーヴなのだと思う。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "pete-rock-c-l-smooth-take-you-there",
+      "old": "この曲の聴きどころ",
+      "new": "甘い響きの足元に、硬いドラムの輪郭",
+      "rationale": "メロウな表層とドラムの硬さの対照を採る。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "甘い音を、芯のあるドラムが支える。奥行きのあるメロウ。 / 甘い響きに身を任せたら、次はドラムだけを追ってみる。柔らかく聞こえる曲の足元に、思いのほか硬い輪郭があることを楽しみたい。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "pete-rock-c-l-smooth-i-get-physical",
+      "old": "この曲の聴きどころ",
+      "new": "身体が動く理由は、ビートの小さな隙間に",
+      "rationale": "音の細部と身体的な反応を結ぶ本文の問い。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "タイトルどおり、まず身体へ。細かい音の配置まで楽しい。 / 身体が動く理由を探すなら、大きな音より小さな隙間に耳を置く。題名を思い出す前に首が動いていたら、ビートの仕事はもう済んでいる。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "souls-of-mischief-that-s-when-ya-lost",
+      "old": "この曲の聴きどころ",
+      "new": "四人四様、同じビートへの入り方",
+      "rationale": "四人の声の相違とビートへの入り方を明示。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "四人の声が、違う角度で同じビートを走る。 / 四人の声の違いを追いながら、同じビートへの入り方を比べたい。輪のまとまりは、全員が同じ声を出すことから生まれるわけではない。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "the-beatnuts-reign-of-the-tec",
+      "old": "この曲の聴きどころ",
+      "new": "ざらつく響きと声がつくる、一枚の壁",
+      "rationale": "本文固有の壁の比喩を、全体の質感という角度で採る。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "ざらついた音に、迷いのない声。Beatnutsの輪郭を濃くする。 / ざらついた音と声を、一枚の壁として聴いてみたい。細部を探す前に全体の手触りを受け止めると、この曲の輪郭がつかみやすい。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "the-beatnuts-get-funky",
+      "old": "この曲の聴きどころ",
+      "new": "短い旋律が巡るたび、声が景色を動かす",
+      "rationale": "短い旋律の反復と声の登場による変化に限定。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "短い旋律に、身体を動かす仕事を任せる。 / 短い旋律が何度巡っても、声が入ると景色が動く。その反復に飽きるかどうかより、どこで身体が反応するかを確かめたい。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "the-beatnuts-off-the-books",
+      "old": "この曲の聴きどころ",
+      "new": "賑やかなマイクの往来をさばく軽快なビート",
+      "rationale": "複数の声と一定して進むビートの役割分担。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "声が増えても、ビートは軽快。遊び心のあるポッセ・カット。 / 次々に現れる声と、変わらず進むビートを別々に追ってみる。賑やかな曲にも交通整理はある。その手際のよさを聴くのも楽しい。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "lords-of-the-underground-chief-rocka",
+      "old": "この曲の聴きどころ",
+      "new": "ホーンと声の押し引きに、跳ねる隙間を探す",
+      "rationale": "ホーンと声の勢いだけでなく隙間への着眼を示す。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "ホーンと声の押し引き。ニューアークの跳ね方をもう一曲。 / ホーンの勢いと声の押し引きを、同じ動きとして聴いてみる。前へ出る音が多いのに窮屈に聞こえないなら、隙間の使い方にも耳を向けたい。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "lords-of-the-underground-funky-child",
+      "old": "この曲の聴きどころ",
+      "new": "軽快さと太さが収まる、ひとつのビート",
+      "rationale": "軽快さと音の太さの同居という本文の中心。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "軽快さと太さが同居する。勢いの中の細工も聴きたい。 / 軽快に聞こえる瞬間と、音の太さを感じる瞬間を行き来する。その両方が同じビートに収まっているところを、細部を追いながら味わいたい。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "gang-starr-dwyck",
+      "old": "この曲の聴きどころ",
+      "new": "低音は重く、声の受け渡しは気軽に",
+      "rationale": "低音と掛け合いの軽重の対照を簡潔に示す。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "深い低音に、掛け合いの楽しさ。重くても、足は軽い。 / 低音の重さの上で、声の受け渡しは気軽に進んでいく。重い音楽がいつも重々しいとは限らない。その違いを首で確かめられる一曲だと思う。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "gang-starr-take-it-personal",
+      "old": "この曲の聴きどころ",
+      "new": "短い反復に着地する、Guruの言葉",
+      "rationale": "反復の上での声の位置を追うという具体的な聴き方。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "短い音の反復に、Guruの落ち着きが重なる。 / 短い音が巡るたび、Guruの声がどこに着地するかを聴く。動きの少ない背景だからこそ、言葉の運びが近くに感じられる。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "gang-starr-code-of-the-streets",
+      "old": "この曲の聴きどころ",
+      "new": "乾いた響きと落ち着いた声が保つ緊張",
+      "rationale": "煽りではなく乾きと声の落ち着きによる緊張を示す。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "乾いた輪郭の中に、街の緊張が残る。 / 音の乾きと声の落ち着きを、同じ空間の中で捉えたい。強く煽る音がなくても緊張は続く。その理由を反復の中で探してみる。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "gang-starr-above-the-clouds",
+      "old": "この曲の聴きどころ",
+      "new": "浮かぶ響きと地に足のついた声の遠近",
+      "rationale": "音と声の高さの違いを空間の奥行きとして表す。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "浮かぶ音と、地に足のついた声。別々の高さが一曲になる。 / 浮かぶような響きの下に、声の重心を感じながら聴く。高さの違うものが同じ場所にある。その奥行きが、曲名の景色とも重なって聞こえる。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "gang-starr-full-clip",
+      "old": "この曲の聴きどころ",
+      "new": "鮮明なビートの強さ、声が残す間合い",
+      "rationale": "鮮明なビートに対して声の間を追う本文の視点。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "積み重ねた仕事を、鮮明なビートで振り返る。 / ビートの鮮明さに引かれたら、声が残す間合いにも耳を向けたい。強さを長く保つために、どこで力を抜いているかを聴くのも面白い。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "diamond-d-best-kept-secret",
+      "old": "この曲の聴きどころ",
+      "new": "選び抜く態度がにじむ、ループ一周の自信",
+      "rationale": "本文の音を選んで置く判断と、派手な展開に頼らない態度。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "目立つことより、音で分からせる。掘る人の自信。 / 派手な展開を待たず、一周の中にある自信を聴く。掘った音をここへ置く。その判断自体が曲の態度になっているように感じる。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "diamond-d-sally-got-a-one-track-mind",
+      "old": "この曲の聴きどころ",
+      "new": "ループは巡り、語りは先へ進む",
+      "rationale": "同じ背景と進む物語の動きの違いに焦点を合わせる。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "反復の気持ちよさに、物語の流れが乗る。 / 繰り返す音と、先へ進む言葉を別々に追ってみたい。背景が同じでも、語りが進めば風景は変わる。その動きの違いが面白い。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "lord-finesse-hip-2-da-game",
+      "old": "この曲の聴きどころ",
+      "new": "滑らかなループで、声はどこまで急がないか",
+      "rationale": "声の余裕をテンポ断定ではなく本文の問いとして示す。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "余裕のある声と、滑らかなループ。力まずに主役になる。 / 滑らかな音に、声が無理なく収まっているように聞こえる。余裕は、音数の少なさだけでは作れない。声がどこまで急がずにいられるかを聴きたい。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "lord-finesse-return-of-the-funky-man",
+      "old": "この曲の聴きどころ",
+      "new": "太いビートに噛み合う、ラップのユーモア",
+      "rationale": "音の押し出しと言葉の面白さの組み合わせ。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "ラップのユーモアが、ビートの太さとよく噛み合う。 / 太いビートの上で、声の表情を追いかける。言葉の面白さと音の押し出しが出会うところに、この曲の身軽さを感じる。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "showbiz-a-g-party-groove-instrumental",
+      "old": "この曲の聴きどころ",
+      "new": "ラップを待たず、ドラムと低音の会話へ",
+      "rationale": "インスト版の本文に沿って、リズム隊が前面に出る聴き方。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "声を休ませて、ビートの身体性を味わう。 / 声を待たずに、ドラムと低音の会話へ入ってみる。普段はラップの後ろに聞いているものが前へ出ると、同じ耳にも別の仕事が生まれる。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "showbiz-a-g-soul-clap",
+      "old": "この曲の聴きどころ",
+      "new": "掛け声に応える足元、パーティーを支える低音",
+      "rationale": "掛け声だけでなく低音が輪への誘いを担うという視点。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "掛け声と低音。輪に入りたくなるパーティーの熱。 / 掛け声に応じる気分で聴きながら、その下の低音を追う。輪の中へ誘う力が、声だけでできているのか。足元の音にも答えがありそうだ。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "showbiz-a-g-next-level-nyte-time-mix",
+      "old": "この曲の聴きどころ",
+      "new": "短い旋律と硬いドラムが引き締める夜",
+      "rationale": "指定ミックスの本文だけを根拠に、緊張を作る要素を示す。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "夜の緊張を、短い旋律と硬いドラムで引き締める。 / 短い旋律が巡るたびに、硬いドラムとの距離を確かめたい。華やかに広げるより、空間を引き締める。その方向に夜の感触を聴いている。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "black-moon-who-got-da-props",
+      "old": "この曲の聴きどころ",
+      "new": "煙たい響きから浮かぶ、声とリズムの輪郭",
+      "rationale": "ぼやけた響きとはっきりした声、リズムの対比。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "煙たい音でも、輪郭は明快。ブルックリンの別の入口。 / 煙たい響きと、はっきりしたリズムを交互に追う。ぼやけて聞こえる部分があるからこそ、前へ出る声の輪郭にも気づきやすい。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    },
+    {
+      "id": "black-moon-i-got-cha-opin-remix",
+      "old": "この曲の聴きどころ",
+      "new": "柔らかな素材と深い低音、リミックスの声の居場所",
+      "rationale": "指定リミックスの柔らかさと低音、および比較の着眼点。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "柔らかな素材を、深い低音が街へ引き戻す。 / 柔らかい素材に耳を預けたあと、低音へ戻ってみる。原曲と比べるときも、旋律の違いだけでなく、声の居場所がどう変わるかを聴きたい。"
+        }
+      ],
+      "needs_review": false,
+      "review_reason": null,
+      "partition": 1
+    }
+  ],
+  "files": {
+    "tracks.json": {
+      "beforeSHA256": "f8195ac68b04ea63d92a681a11d6909558849ffa1bbe6ef84111a538d4c7fbeb",
+      "afterSHA256": "43f222f939b65ae144ae62785c704e7335b3235dd5fe717f151542238a3a06eb"
+    },
+    "releases.json": {
+      "beforeSHA256": "9605cc5727577be6cd3ba846dfd23a8dd8cfa47f8e533f958ce834c9fcc093e8",
+      "afterSHA256": "bf1030959d0170e3ac7cdb10b2529466ecaabecc4ffbc84da036f20d9cc48ca6"
+    }
+  },
+  "protected": {
+    "graffiti_artwork.json": "fccdb745bbd3b2871ef3b506b3197077f5e6b42cd543cefdbd042a2efb3f9c49",
+    "editorial_deepdives.json": "5b989c85ad5e6b0114a341209da18e6ed05608b71424d5184fe3733dc86436c0",
+    "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+    "artist_entities.json": "be0a95389d26e99480325ad2a7f0872ba3e21e7e58b6cf2b3fd7515d5805469b",
+    "src/app/catalog-ui.js": "2566d24be62e0a069bea040046664e301f36333890cf9057667e64866d5c1400",
+    "src/app/song-ui.js": "a96fc013d3e5e4ca3dfe359a8cc78c051fa559a9215d210ee3f84a073891b41a",
+    "src/app/editorial.js": "0e50447ea73ea4dc15fcf27c2f38d8214af89f77590d03a25b39cf4b31e5917d",
+    "src/assets/style.css": "369f75276d3aa790753db69ae410b1c5e24b93c24c8a645c436cf4c6053ef421"
+  }
+}
