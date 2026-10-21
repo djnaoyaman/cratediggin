@@ -2448,6 +2448,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "remaining-size-browser"
+    },
+    {
+      "id": "product-live-art",
+      "argv": [
+        "python",
+        "scripts/verify_product_live_art.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "product-live-art"
+    },
+    {
+      "id": "product-live-art-browser",
+      "argv": [
+        "node",
+        "scripts/verify_product_live_art_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "product-live-art-browser"
     }
   ],
   "groups": {
@@ -2908,6 +2932,10 @@
     "remaining_size": [
       "remaining-size",
       "remaining-size-browser"
+    ],
+    "product_live_art": [
+      "product-live-art",
+      "product-live-art-browser"
     ]
   },
   "runtime_rules": {
@@ -3796,13 +3824,24 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/approved_remaining_size.py": [
-      "scripts/fixtures/approved-remaining-size.json"
+      "scripts/fixtures/approved-remaining-size.json",
+      "scripts/approved_product_live_art.py"
     ],
     "scripts/verify_remaining_size.py": [
       "scripts/approved_remaining_size.py"
     ],
     "scripts/verify_remaining_size_browser.cjs": [
       "scripts/fixtures/approved-remaining-size.json",
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_product_live_art.py": [
+      "scripts/fixtures/approved-product-live-art.json"
+    ],
+    "scripts/verify_product_live_art.py": [
+      "scripts/approved_product_live_art.py"
+    ],
+    "scripts/verify_product_live_art_browser.cjs": [
+      "scripts/fixtures/approved-product-live-art.json",
       "scripts/verify_visible_art_browser.cjs"
     ]
   },
@@ -3891,7 +3930,9 @@
     "scripts/approved_nine_branding.py",
     "scripts/fixtures/approved-nine-branding.json",
     "scripts/approved_remaining_size.py",
-    "scripts/fixtures/approved-remaining-size.json"
+    "scripts/fixtures/approved-remaining-size.json",
+    "scripts/approved_product_live_art.py",
+    "scripts/fixtures/approved-product-live-art.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -5064,6 +5105,15 @@
         "after_sha256": "038776b13142fac01fe42d045fa13dd296e704f574d54236c5e2a918be7adc7c",
         "groups": [
           "remaining_size"
+        ]
+      }
+    ],
+    "assets/graffiti/dj-shadow-cut-chemist-product-placement-live-video-alpha.webp": [
+      {
+        "before_sha256": "f22c99c7fc7585a4727e29bbc655b5c013dbf4bc68bb2a5e051df688075b2fd0",
+        "after_sha256": "305c2f7f5462680ebc09be01c4a1393696fd153bd3b8a115eaeb6598bb848866",
+        "groups": [
+          "product_live_art"
         ]
       }
     ]
