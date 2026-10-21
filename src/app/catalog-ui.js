@@ -16,6 +16,7 @@
  }}
 
  function listPage(){
+  customMode=!!browseRestoring?.customMode; // Only this route's saved browse state may restore My Crate.
   const listBase=currentRoute().startsWith('#/songs')?'#/songs':'#/';
   // Artist index is reachable from the record crate without changing current filters.
   const scenes=[['all','すべて','全曲を年代順に。棚に未分類の曲も、ここから聴けます。'],...(window.CRATE_SHELVES||[]).map(s=>[s.id,s.label,s.description])];

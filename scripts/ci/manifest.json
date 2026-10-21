@@ -2496,6 +2496,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "desktop-art-space-browser"
+    },
+    {
+      "id": "catalog-scope-repair",
+      "argv": [
+        "python",
+        "scripts/verify_catalog_scope_repair.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": false,
+      "label": "catalog-scope-repair"
+    },
+    {
+      "id": "catalog-scope-repair-browser",
+      "argv": [
+        "node",
+        "scripts/verify_catalog_scope_repair_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "catalog-scope-repair-browser"
     }
   ],
   "groups": {
@@ -2965,6 +2989,10 @@
       "desktop-art-space",
       "desktop-art-space-browser",
       "0a206c4010036a19"
+    ],
+    "catalog_scope_repair": [
+      "catalog-scope-repair",
+      "catalog-scope-repair-browser"
     ]
   },
   "runtime_rules": {
@@ -3875,13 +3903,23 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/approved_desktop_art_space.py": [
-      "scripts/fixtures/approved-desktop-art-space.json"
+      "scripts/fixtures/approved-desktop-art-space.json",
+      "scripts/approved_catalog_scope_repair.py"
     ],
     "scripts/verify_desktop_art_space.py": [
       "scripts/approved_desktop_art_space.py"
     ],
     "scripts/verify_desktop_art_space_browser.cjs": [
       "scripts/fixtures/approved-desktop-art-space.json",
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_catalog_scope_repair.py": [
+      "scripts/fixtures/approved-catalog-scope-repair.json"
+    ],
+    "scripts/verify_catalog_scope_repair.py": [
+      "scripts/approved_catalog_scope_repair.py"
+    ],
+    "scripts/verify_catalog_scope_repair_browser.cjs": [
       "scripts/verify_visible_art_browser.cjs"
     ]
   },
@@ -3974,7 +4012,9 @@
     "scripts/approved_product_live_art.py",
     "scripts/fixtures/approved-product-live-art.json",
     "scripts/approved_desktop_art_space.py",
-    "scripts/fixtures/approved-desktop-art-space.json"
+    "scripts/fixtures/approved-desktop-art-space.json",
+    "scripts/approved_catalog_scope_repair.py",
+    "scripts/fixtures/approved-catalog-scope-repair.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -4172,6 +4212,13 @@
         "after_sha256": "45a9bca92d0b73c3bdcb3770623fc97517444ef29b3867a2ae6416c4c83fd990",
         "groups": [
           "sort_direction"
+        ]
+      },
+      {
+        "before_sha256": "45a9bca92d0b73c3bdcb3770623fc97517444ef29b3867a2ae6416c4c83fd990",
+        "after_sha256": "2566d24be62e0a069bea040046664e301f36333890cf9057667e64866d5c1400",
+        "groups": [
+          "catalog_scope_repair"
         ]
       }
     ],
