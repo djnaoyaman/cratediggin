@@ -16112,11 +16112,11 @@
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "静かな反復の中に、声の強い輪郭がある。",
-    "essayTitle": "静かな反復の前に残る声の存在感",
+    "deck": "Enyaの声をループし、Laurynの歌を迎えた。",
+    "essayTitle": "歌う前から、声のための場所を作る。",
     "essay": [
-      "静かな反復の中に、声の強い輪郭がある。",
-      "静かな反復を背にして、声がどこまで前へ出るかを聴く。音の大きさに頼らず存在感が残る、その距離を味わっていたい。"
+      "WyclefはThe Line of Best Fitの取材で、Enyaのハミングに惹かれ、速めればラップを乗せられると考えたと語る。ループでビートを作っていたところへ、Lauryn Hillが入ってきてフックを歌ったという。",
+      "まず背景の声、次に前へ出る歌へ耳を向けたい。二つの声を分けて捉えると、Wyclefが用意した音にLaurynが応じた順序をたどれる。"
     ],
     "facts": [
       {
@@ -16130,14 +16130,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "静かな反復の中に、声の強い輪郭がある。"
+      "背景の声とLaurynのフックを分けて聴く。"
     ],
-    "context": "静かな反復を背にして、声がどこまで前へ出るかを聴く。音の大きさに頼らず存在感が残る、その距離を味わっていたい。",
+    "context": "ビートを先に作り、歌が加わった。",
     "sources": [
       {
         "label": "YouTube — Fugees / Ready or Not",
         "url": "https://www.youtube.com/watch?v=aIXyKmElvv8",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Wyclef Jean本人インタビュー — The Line of Best Fit",
+        "url": "https://www.thelineofbestfit.com/features/interviews/nine-songs-wyclef-jean",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [],
@@ -16151,7 +16156,15 @@
     "collections": [
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "lauryn-hill-doo-wop-that-thing",
@@ -16200,11 +16213,11 @@
       "lettering": "stencil",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "歌とラップを、同じ人物の呼吸として味わう。",
-    "essayTitle": "歌もラップも、一人の声の違う表情",
+    "deck": "歌いやすさの先に、自尊心の話がある。",
+    "essayTitle": "一緒に歌う言葉が、自分への問いになる。",
     "essay": [
-      "歌とラップを、同じ人物の呼吸として味わう。",
-      "歌とラップの切り替わりを、一人の声の違う表情として聴く。区別して楽しんだあとに、一曲を動かす呼吸としてつなぎ直してみたい。"
+      "バークリーの教員でMCでもあるDanielle “Queen D.” Scottは、「Doo Wop」を皆で歌える曲でありながら、自尊心や誠実さを問う歌だと評している。",
+      "口ずさめることと、言葉の意味を受け止めることは同じではない。その指摘を手がかりに、フックだけで終えず、何を大切にするよう促しているのかへ耳を戻したい。"
     ],
     "facts": [
       {
@@ -16218,14 +16231,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "歌とラップを、同じ人物の呼吸として味わう。"
+      "歌えるフックから、言葉が促す自尊心へ耳を戻す。"
     ],
-    "context": "歌とラップの切り替わりを、一人の声の違う表情として聴く。区別して楽しんだあとに、一曲を動かす呼吸としてつなぎ直してみたい。",
+    "context": "Scottの解釈を手がかりに歌詞を読む。",
     "sources": [
       {
         "label": "YouTube — Lauryn Hill / Doo Wop (That Thing)",
         "url": "https://www.youtube.com/watch?v=T6QKqFPRZSA",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Danielle “Queen D.” Scottの解釈 — Berklee College of Music",
+        "url": "https://college.berklee.edu/news/i-the-miseducation-of-lauryn-hill-i-turns-25",
+        "kind": "専門家インタビュー・解釈"
       }
     ],
     "producers": [
@@ -16241,7 +16259,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "jurassic-5-concrete-schoolyard",
@@ -16418,12 +16444,11 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "90年代の掘る耳が、次の十年へ続く。",
-    "essayTitle": "90年代の掘る耳が、次の十年へ続く。",
+    "deck": "Havocの引用とGuruの参加が、次の録音へ続く。",
+    "essayTitle": "引用した声の本人を、リミックスに招く。",
     "essay": [
-      "90年代の掘る耳が、次の十年へ続く。",
-      "「Worst Comes to Worst」をこの棚に置く理由は、90年代の掘る耳が、次の十年へ続くという聴きどころにある。大きな名前の曲も、少し掘った曲も、その音の魅力で隣り合うように選んだ。",
-      "90年代の音の感覚が、その後へどう受け継がれたかを聴く。"
+      "EvidenceはFACTの取材で、原曲を特別にした要素としてHavocの声のサンプルと、ヴァース間に入るGuruを挙げた。",
+      "そしてリミックスには、その二人を迎えたという。原曲では引用されていたHavocが、新たな録音で参加する。原曲とリミックスを並べ、同じ人物の声が担う役割の違いを確かめたい。"
     ],
     "facts": [
       {
@@ -16437,15 +16462,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "90年代の掘る耳が、次の十年へ続く。",
-      "声が入る前のビートと、声が入ったあとの重心を聴き比べる。"
+      "原曲のHavocの引用と、リミックスでの参加を聴き比べる。"
     ],
-    "context": "90年代の音の感覚が、その後へどう受け継がれたかを聴く。",
+    "context": "引用が、本人との共演へつながった。",
     "sources": [
       {
         "label": "YouTube — Dilated Peoples / Worst Comes to Worst",
         "url": "https://www.youtube.com/watch?v=sevZEOUXpw4",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Evidence / Alchemist本人インタビュー — FACT",
+        "url": "https://www.factmag.com/2014/01/26/black-magic-a-stoned-alchemist-evidence-talk-us-through-their-back-catalogue/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -16460,6 +16489,14 @@
     "collections": [
       "walk",
       "west"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
     ]
   },
   {
@@ -16840,11 +16877,11 @@
       "lettering": "tag",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "ラップの隣に置きたい、煙たいビートの空間。",
-    "essayTitle": "煙たいビートの後ろ、響きの行方を待つ",
+    "deck": "本人が教える、二つの「Kemuri」の比べ方。",
+    "essayTitle": "逆向きにした素材を、別ミックスで戻す。",
     "essay": [
-      "ラップの隣に置きたい、煙たいビートの空間。",
-      "音の少ない場所に耳を置き、ビートの後ろの空間まで追う。ラップを聴くときとは少し違う待ち方で、響きの行方を楽しみたい。"
+      "DJ KRUSHはWax Poeticsで、「Kemuri」のサンプルを逆再生していると説明する。一方、自らの「Kemuri Untouchable Mix」では元の向きに戻したという。",
+      "原曲の素材名を当てる前に、二つの版を並べてみたい。音の出所だけでなく、再生する向きも制作上の選択だったことを確かめる聴き比べになる。"
     ],
     "facts": [
       {
@@ -16858,15 +16895,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "ラップの隣に置きたい、煙たいビートの空間。",
-      "音の登場と退場を追い、短い反復がどこで表情を変えるかを聴く。"
+      "原曲とUntouchable Mixで、素材の向きを比べる。"
     ],
-    "context": "音の少ない場所に耳を置き、ビートの後ろの空間まで追う。ラップを聴くときとは少し違う待ち方で、響きの行方を楽しみたい。",
+    "context": "逆再生と、その選択を変えた別版。",
     "sources": [
       {
         "label": "YouTube — DJ Krush / Kemuri",
         "url": "https://www.youtube.com/watch?v=Zjzc4hve6QM&t=544s",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "DJ KRUSH本人インタビュー — Wax Poetics",
+        "url": "https://magazine.waxpoetics.com/connections/japan/article/dj-krush-breakbeat-swordsman/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -16885,7 +16926,15 @@
       "raw-beats"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "nujabes-feather",
@@ -16933,12 +16982,11 @@
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "90年代のジャズ・ラップを、別の土地の午後へつなぐ。",
-    "essayTitle": "90年代のジャズ・ラップを、別の土地の午後へつなぐ。",
+    "deck": "羽の軽さだけではなく、書き手の発想へ。",
+    "essayTitle": "Akinが歌詞に持ち込んだ、ダリへの思い。",
     "essay": [
-      "90年代のジャズ・ラップを、別の土地の午後へつなぐ。",
-      "90年代のジャズ・ラップに耳を育てられた人にも、自然につながる響きがある。年代を越えて残るのは、旋律と声を同じ場所に住まわせる感覚だと思う。",
-      "90年代の音の感覚が、その後へどう受け継がれたかを聴く。"
+      "「Feather」に参加したAkinはRail Road Hip Hopの取材で、人生の矛盾を考え、恐れや束縛を手放すことを思い描いて歌詞を書いたと説明している。",
+      "ダリへの言及も、絵画やシュルレアリスムへの好みから出たという。Nujabesのビートだけでなく、Akinがどんな発想を言葉へ持ち込んだのかにも耳を向けたい。"
     ],
     "facts": [
       {
@@ -16952,15 +17000,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "90年代のジャズ・ラップを、別の土地の午後へつなぐ。",
-      "声が入る前のビートと、声が入ったあとの重心を聴き比べる。"
+      "Akinのヴァースを、絵画への関心と結びつけて読む。"
     ],
-    "context": "90年代の音の感覚が、その後へどう受け継がれたかを聴く。",
+    "context": "客演MC本人が明かす歌詞の発想。",
     "sources": [
       {
         "label": "YouTube — Nujabes / Feather",
         "url": "https://www.youtube.com/watch?v=hQ5x8pHoIPA",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Akin本人インタビュー — Rail Road Hip Hop",
+        "url": "https://railroadhiphop.blogspot.com/2008/10/interview-with-akin-from-cyne.html",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -16979,7 +17031,15 @@
     "editorialCrates": [
       "jazz-mellow"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "nujabes-luv-sic-part-3",
@@ -17027,12 +17087,11 @@
       "lettering": "stencil",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "旋律と声の距離感から、受け継がれた耳を聴く。",
-    "essayTitle": "旋律と声の距離感から、受け継がれた耳を聴く。",
+    "deck": "同じ曲名でも、アルバムによって構成が違う。",
+    "essayTitle": "二つのヴァースで残すか、三つで届けるか。",
     "essay": [
-      "旋律と声の距離感から、受け継がれた耳を聴く。",
-      "90年代のジャズ・ラップに耳を育てられた人にも、自然につながる響きがある。年代を越えて残るのは、旋律と声を同じ場所に住まわせる感覚だと思う。",
-      "90年代の音の感覚が、その後へどう受け継がれたかを聴く。"
+      "Shing02はARBANの取材で、三つ録ったヴァースをNujabesが二つに絞ったと振り返る。『Modal Soul』版は、その簡潔さを選んだ形だ。",
+      "同記事によれば、没後の再録版は三つのヴァースを収め、『Luv(sic) Hexalogy』にも入った。二つのアルバムでは、ヴァース数だけでなく録音も異なる。掲載動画がどの版に当たるかは未確認のため、この比較とは区別して扱う。"
     ],
     "facts": [
       {
@@ -17046,15 +17105,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "旋律と声の距離感から、受け継がれた耳を聴く。",
-      "声が入る前のビートと、声が入ったあとの重心を聴き比べる。"
+      "『Modal Soul』版と『Hexalogy』版のヴァース数を確認する。"
     ],
-    "context": "90年代の音の感覚が、その後へどう受け継がれたかを聴く。",
+    "context": "二つの版は、構成と録音を区別する。",
     "sources": [
       {
         "label": "YouTube — Nujabes / Luv(sic) Part 3",
         "url": "https://www.youtube.com/watch?v=mc_xD6aGV5w",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Shing02本人インタビュー — ARBAN / 大前至",
+        "url": "https://www.arban-mag.com/article/56044/2",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -17075,7 +17138,15 @@
     "editorialCrates": [
       "jazz-mellow"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "j-dilla-so-far-to-go",
@@ -17354,11 +17425,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "演奏の温度と、歌とラップの距離感。",
-    "essayTitle": "歌とラップをつなぐ演奏の温度",
+    "deck": "曲の設計を、バンドの演奏へ渡した。",
+    "essayTitle": "打ち込みと鍵盤の設計を、二人が演奏し直す。",
     "essay": [
-      "演奏の温度と、歌とラップの距離感。",
-      "歌とラップの間で、演奏がどんな距離を保っているかを聴く。主役が替わっても残る温度を追うと、一曲としてのつながりが見えてくる。"
+      "Scott StorchはRBMAで、「You Got Me」はJill Scottとピアノで作り始めたと説明する。その後にドラムを組み、鍵盤でベースを模したという。",
+      "The Rootsの曲になると、Hubがベースを弾き直し、Questloveも元のパターンでドラムを録り直した。生演奏か打ち込みかの二択ではなく、設計を演奏へ受け渡した曲として聴きたい。"
     ],
     "facts": [
       {
@@ -17372,14 +17443,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "演奏の温度と、歌とラップの距離感。"
+      "ベースとドラムを、最初の設計を引き継いだ演奏として捉える。"
     ],
-    "context": "歌とラップの間で、演奏がどんな距離を保っているかを聴く。主役が替わっても残る温度を追うと、一曲としてのつながりが見えてくる。",
+    "context": "鍵盤とプログラミングから、バンド演奏へ。",
     "sources": [
       {
         "label": "YouTube — The Roots / You Got Me",
         "url": "https://www.youtube.com/watch?v=MJCHeEQV454",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Scott Storch本人講演 — Red Bull Music Academy",
+        "url": "https://www.redbullmusicacademy.com/lectures/scott-storch-hits-dr-dre-fat-joe-the-roots/",
+        "kind": "制作本人の講演記録"
       }
     ],
     "producers": [],
@@ -17395,7 +17471,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "o-c-born-2-live",
@@ -17443,11 +17527,11 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "短い旋律に、言葉の余韻を残す。",
-    "essayTitle": "言葉のあとで、短い旋律が違って響く",
+    "deck": "物語の出発点は、同じ街区の友人だった。",
+    "essayTitle": "子供の頃に見た別れを、歌へ書き残す。",
     "essay": [
-      "短い旋律に、言葉の余韻を残す。",
-      "短い旋律が戻るたび、声の余韻がどう残るかを聴く。同じループでも、言葉を聞いたあとの耳には少し違って響く。その変化を楽しみたい。"
+      "O.C.はAaron Matthewsの取材に、「Born 2 Live」は育った頃の実体験から書いたと語る。同じ街区の少年が車にはねられて亡くなった経験が、自分も死と無縁ではないと気づかせたという。",
+      "題名を一般的な人生訓として受け取る前に、具体的な友人の記憶から生まれた言葉として読みたい。思い出を語ることが、そのまま生と死を考える入口になっている。"
     ],
     "facts": [
       {
@@ -17461,14 +17545,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "短い旋律に、言葉の余韻を残す。"
+      "人生についての言葉を、友人の具体的な記憶と重ねて読む。"
     ],
-    "context": "短い旋律が戻るたび、声の余韻がどう残るかを聴く。同じループでも、言葉を聞いたあとの耳には少し違って響く。その変化を楽しみたい。",
+    "context": "本人の経験から書かれた生と死の歌。",
     "sources": [
       {
         "label": "YouTube — O.C. / Born 2 Live",
         "url": "https://www.youtube.com/watch?v=Gf68J5iqK6g",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "O.C.本人インタビュー — Aaron Matthews / Passion of the Weiss",
+        "url": "https://www.powmag.net/p/question-in-the-form-of-an-answer-an-interview-and-bluffers-guide-to-the-music-of-o-c",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -17487,7 +17576,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "krs-one-step-into-a-world",
@@ -17536,12 +17633,11 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "輪郭の強いビートに、KRS-Oneの声が踏み込んでくる。フロアへ向かう一曲。",
-    "essayTitle": "声が、フロアの中心になる。",
+    "deck": "Kenny Parkerの評価を変えたのは、翌日の歌だった。",
+    "essayTitle": "ビートだけでは伝わらなかった、歌の役割。",
     "essay": [
-      "聴感としてまず残るのは、ビートの押し出しと声の存在感。KRS-Oneの言葉は、伴奏の上に乗るだけでなく、曲全体の重心を動かしている。",
-      "このクレートでは、フロアを意識して聴きたい一曲として選んだ。繰り返すフレーズとラップの切り替わりに耳を向けると、同じビートの景色が変わる。",
-      "ここでの聴きどころは編集者の解釈。収録情報は配信ページ、音源はKRSOneVEVOの公式動画へつなぐ。"
+      "Kenny ParkerはUnkutで、Jesse Westが持ち込んだ「Step into a World」のビートに、最初は強く惹かれなかったと振り返る。馴染みの「Champ」を刻んだものに思えたという。",
+      "翌日、KRSに歌が重なった版を聴かされると、評価が変わった。ビートだけで判断せず、歌が加わったときに何が変わるか。その制作時のやり取りを手がかりにフックを聴きたい。"
     ],
     "facts": [
       {
@@ -17562,10 +17658,9 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "反復するビートとラップの重心の変化。",
-      "フックからヴァースへ切り替わる瞬間。"
+      "フックの歌が加わる場面を、ビートとの組み合わせとして聴く。"
     ],
-    "context": "ニューヨークの90年代を、声とフロアの接点から聴く。",
+    "context": "歌を重ねたことで、見方が変わった。",
     "sources": [
       {
         "label": "KRSOneVEVO — Official Video",
@@ -17581,6 +17676,11 @@
         "label": "Step into a World — release and production credits",
         "url": "https://en.wikipedia.org/wiki/Step_into_a_World_%28Rapture%27s_Delight%29",
         "kind": "二次資料"
+      },
+      {
+        "label": "Kenny Parker本人インタビュー — Unkut / Robbie Ettelson",
+        "url": "https://unkut.com/2006/10/the-kenny-parker-show-part-3/",
+        "kind": "制作現場の当事者インタビュー"
       }
     ],
     "producers": [
@@ -17597,6 +17697,14 @@
       "pizza",
       "walk",
       "east"
+    ],
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        3
+      ]
     ]
   },
   {
