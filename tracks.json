@@ -8427,11 +8427,12 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "声の違いが、クルー全体の輪郭になる。",
-    "essayTitle": "違う声が並んで見える、クルーの輪郭",
+    "deck": "録音を始め、初めての聴き手へ届ける。その経緯をたどる。",
+    "essayTitle": "持ち寄った録音費から、ラジオへ届いた一曲",
     "essay": [
-      "声の違いが、クルー全体の輪郭になる。",
-      "次の声が現れるたび、前の声との質感の差を聴く。ひとつのクルーを知る入口として、同じでないものが並ぶ楽しさを味わいたい。"
+      "Ghostface KillahはRBMAの公開対談で、「Protect Ya Neck」の録音時に各人が50ドルを出したと回想している。曲を録るための動きから、デビューの経緯をたどってみたい。",
+      "レコードは、出来上がっただけでは広まらない。NPRの取材でBobbito GarciaとStretch Armstrongは、メンバーがWKCRへ持ち込んだ曲をかけ、その後も繰り返し流したと語る。音源を作ることと、それを初めて耳にする人へ渡すこと。その両方を進めた過程を知ると、デビュー曲という言葉が、単なるディスコグラフィー上の順番ではなくなる。",
+      "ラジオへの売り込みを手伝ったSchott Freeは同じ取材で、各人の異なるスタイルそのものがフックになる、と説明している。覚えやすいサビを待つ代わりに、次のMCがどう入ってくるかを待つ。この見方を手がかりに、声の交代で期待が更新される仕組みに注目したい。クルーの人数を数えるだけで終わらない聴き方だ。"
     ],
     "facts": [
       {
@@ -8445,14 +8446,64 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "声の違いが、クルー全体の輪郭になる。"
+      "声が交代する場面を追い、次のMCへの期待がどう生まれるか考えてみる。"
     ],
-    "context": "次の声が現れるたび、前の声との質感の差を聴く。ひとつのクルーを知る入口として、同じでないものが並ぶ楽しさを味わいたい。",
+    "context": "録音からラジオへ届くまでの経緯を、当事者の回想から読む。",
     "sources": [
       {
         "label": "YouTube — Wu-Tang Clan / Protect Ya Neck",
         "url": "https://www.youtube.com/watch?v=R0IUR4gkPIE",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Fresh Air — Rapper, Producer, Composer: The RZA (2005)",
+        "url": "https://freshairarchive.org/segments/rapper-producer-composer-rza",
+        "kind": "primary_artist_interview"
+      },
+      {
+        "label": "VladTV — Inspectah Deck: Using the Triumph Verse Twice Helped My Legacy (2015)",
+        "url": "https://www.vladtv.com/article/212631/inspectah-deck-using-the-triumph-verse-twice-helped-my-legacy",
+        "kind": "primary_interview_publisher_written_summary"
+      },
+      {
+        "label": "AllHipHop — Rewind the Rhyme: GZA (2006)",
+        "url": "https://allhiphop.com/features/rewind-the-rhyme-gza/",
+        "kind": "primary_artist_interview"
+      },
+      {
+        "label": "Sony Music Canada — Wu-Tang Forever anniversary (2022)",
+        "url": "https://www.sonymusic.ca/press_release/wu-tang-clan-launch-25-year-celebration-of-iconic-double-album-opus-wu-tang-forever-with-anniversary-collection-more",
+        "kind": "primary_record_label"
+      },
+      {
+        "label": "Red Bull Music Academy — Wu-Tang Clan lecture",
+        "url": "https://www.redbullmusicacademy.com/lectures/wu-tang-lecture/",
+        "kind": "primary_participant_panel_transcript"
+      },
+      {
+        "label": "NPR取材記事のKPBS転載 — Wu-Tang Clan",
+        "url": "https://www.kpbs.org/news/national/2013/04/08/the-wu-tang-clans-20-year-plan",
+        "kind": "primary_interviews_and_reporter_context"
+      },
+      {
+        "label": "XXL — Wu-Tang Clan Members Revisit Enter The Wu-Tang: 36 Chambers (2013)",
+        "url": "https://www.xxlmag.com/wu-tang-clan-members-revisit-enter-the-wu-tang-36-chambers/",
+        "kind": "primary_artist_interviews"
+      },
+      {
+        "label": "AllHipHop — Masta Killa Talks Making Enter The Wu-Tang (2015)",
+        "url": "https://allhiphop.com/features/exclusive-masta-killa-wu-tang-clan-making-36-chambers-modern-hip-hop-drake-wu-tang-forever-remix/",
+        "kind": "primary_artist_interview"
+      },
+      {
+        "label": "Apple Music — Protect Ya Neck EP",
+        "url": "https://music.apple.com/us/album/protect-ya-neck-ep/1437568060",
+        "kind": "label_supplied_distributor_metadata"
+      },
+      {
+        "label": "Legacy Recordings — Enter The Wu-Tang: 36 Chambers",
+        "url": "https://www.legacyrecordings.com/releases/enter-the-wu-tang-36-chambers-pa-nr/",
+        "kind": "primary_label_catalog"
       }
     ],
     "producers": [
@@ -8475,7 +8526,18 @@
       "raw-beats"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        5
+      ],
+      [
+        6
+      ],
+      [
+        6
+      ]
+    ]
   },
   {
     "id": "gza-liquid-swords",
@@ -8491,7 +8553,7 @@
       "緊張感"
     ],
     "album": "Liquid Swords",
-    "label": "個別確認中",
+    "label": "Geffen",
     "producer": "RZA",
     "members": "GZA",
     "youtube": {
@@ -8523,11 +8585,11 @@
       "lettering": "tag",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "鋭い言葉を、冷たい音の空間で受け止める。",
-    "essayTitle": "冷たい響きの空間で際立つ言葉の輪郭",
+    "deck": "フックの来歴と、映像に残った制作の記憶をたどる。",
+    "essayTitle": "1984年の掛け合いが、表題曲のフックになった",
     "essay": [
-      "鋭い言葉を、冷たい音の空間で受け止める。",
-      "冷たいと感じる音の空間に、言葉の輪郭を置いてみる。耳を温めるような旋律を待たず、その距離感ごと受け止めると面白い。"
+      "GZAによれば、「Liquid Swords」のフックは、RZA、Ol’ Dirty Bastardと1984年ごろにしていた掛け合いが元だ。普段は数日かけて書くが、この曲ではビートを聴き、その場でラップしたと振り返る。",
+      "その記憶は、映像の現場にも続く。ビデオを制作したMonty Rossが覚えているのは、ブルックリンの広い校庭に巨大な時計を置き、夕方から翌朝まで撮影した夜だ。音源の制作とは別の証言だが、表題曲を一つの場面に仕立てようとする仕事までたどると、作品の輪郭がより具体的になる。"
     ],
     "facts": [
       {
@@ -8541,14 +8603,29 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "鋭い言葉を、冷たい音の空間で受け止める。"
+      "フックとヴァースを分け、制作の回想を手掛かりに声を追ってみる。"
     ],
-    "context": "冷たいと感じる音の空間に、言葉の輪郭を置いてみる。耳を温めるような旋律を待たず、その距離感ごと受け止めると面白い。",
+    "context": "曲の制作と映像の制作を分け、それぞれの参加者の回想を読む。",
     "sources": [
       {
         "label": "YouTube — GZA / Liquid Swords",
         "url": "https://www.youtube.com/watch?v=1YOOxeFr1b8",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Wax Poetics — David MaによるGZA取材（2014年初出、2021年再掲）",
+        "url": "https://magazine.waxpoetics.com/article/wu-tang-clans-gza-runs-down-every-track-off-liquid-swords/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Qobuz — Liquid Swords 曲別正規配信クレジット",
+        "url": "https://www.qobuz.com/au-en/album/liquid-swords-genius-gza/0072064248132",
+        "kind": "正規配信クレジット"
+      },
+      {
+        "label": "Monty Ross — Liquid Swords映像制作インタビュー／StockX",
+        "url": "https://stockx.com/news/gza-monty-ross-and-the-making-of-liquid-swords/",
+        "kind": "制作当事者インタビュー"
       }
     ],
     "producers": [
@@ -8569,7 +8646,15 @@
       "raw-beats"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        3
+      ]
+    ]
   },
   {
     "id": "raekwon-ice-cream",
@@ -8617,11 +8702,12 @@
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "甘く響く素材と、粗い声。両方の手触りが残る。",
-    "essayTitle": "甘い素材と粗い声、溶け合わない手触りも聴く",
+    "deck": "制作の回想から、各人の役割をたどる。",
+    "essayTitle": "Cappadonnaは、見学のつもりだった",
     "essay": [
-      "甘く響く素材と、粗い声。両方の手触りが残る。",
-      "素材の甘い響きと、声の粗さを別々に味わってから重ねる。なめらかに一つになる瞬間だけでなく、違う手触りが残るところも聴いていたい。"
+      "「Ice Cream」は1995年の『Only Built 4 Cuban Linx...』収録曲。客演にはGhostface Killah、Method Man、Cappadonnaが名を連ねる。",
+      "CappadonnaはRBMAで、見学に来たスタジオでRZAに促され、「Ice Cream」に加わったと回想する。RaekwonとGhostfaceのヴァースはすでにあり、後からMethod Manがフックを録ったという。",
+      "もっとも、Raekwonは初めからこの曲に確信を持っていたわけではない。2015年のSPINの取材では、犯罪の世界を描くアルバムの筋立てに対し、この曲をどう置くか迷ったことを明かしている。それでも女性の聴き手に向けた曲は必要だったと話し、やがて自分でも気に入るようになったという。「Ice Cream」をアルバムから切り離すより、作品の中で話しかける相手が変わる場面として聴いてみたい。"
     ],
     "facts": [
       {
@@ -8635,14 +8721,29 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "甘く響く素材と、粗い声。両方の手触りが残る。"
+      "各ヴァースとフックの役割を分けて追ってみる。"
     ],
-    "context": "素材の甘い響きと、声の粗さを別々に味わってから重ねる。なめらかに一つになる瞬間だけでなく、違う手触りが残るところも聴いていたい。",
+    "context": "CappadonnaとRaekwonの回想から、曲が形になるまでを読む。",
     "sources": [
       {
         "label": "YouTube — Raekwon / Ice Cream",
         "url": "https://www.youtube.com/watch?v=XzkHQlR4Hzo",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Red Bull Music Academy — Wu-Tang Clan lecture",
+        "url": "https://www.redbullmusicacademy.com/lectures/wu-tang-lecture/",
+        "kind": "primary_artist_panel_transcript"
+      },
+      {
+        "label": "SPIN — Raekwon Answers 20 Questions (2015)",
+        "url": "https://www.spinmagazine.com/2015/07/raekwon-only-built-4-cuban-linx-20th-anniversary-interview/",
+        "kind": "primary_artist_interview"
+      },
+      {
+        "label": "Apple Music — Ice Cream song page",
+        "url": "https://music.apple.com/us/song/ice-cream-feat-ghostface-killah-method-man-cappadonna/258637558",
+        "kind": "official_distribution_metadata"
       }
     ],
     "producers": [
@@ -8661,7 +8762,18 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "ol-dirty-bastard-shimmy-shimmy-ya",
@@ -53523,16 +53635,15 @@
         "kind": "同時代レビュー"
       }
     ],
-    "deck": "「Soul Power (Black Jungle)」では、Wu-Tangの集団性を人数だけでなく、声の役割の違いから聴きたい。同時代のレビューが挙げるのはRaekwon、Masta Killa、Ghostface Killah、U-Godのヴァースと、Flavor Flavのフックへの介入だ。順番に長いヴァースを並べるだけではなく、短い声が次の発言を押し出す仕組みとして、客演が働いている。",
-    "essayTitle": "多声の輪の中へ、Flavor Flavを迎える",
+    "deck": "客演のフックと会話、そして公式の選曲から読み直す。",
+    "essayTitle": "フックから世間話まで、Flavor Flavを迎えた一曲",
     "essay": [
-      "「Soul Power (Black Jungle)」では、Wu-Tangの集団性を人数だけでなく、声の役割の違いから聴きたい。同時代のレビューが挙げるのはRaekwon、Masta Killa、Ghostface Killah、U-Godのヴァースと、Flavor Flavのフックへの介入だ。順番に長いヴァースを並べるだけではなく、短い声が次の発言を押し出す仕組みとして、客演が働いている。",
-      "曲の終わりにはMethod ManとFlavor FlavがLong Islandについて話す場面がある。Public EnemyとWu-Tangを大きな影響関係だけで結ぶよりも、この具体的な土地の会話に耳を向けると、世代の違うラッパーが同じレコードにいる距離感が身近になる。ゲスト名を看板に足すだけでなく、会話そのものが曲の余白を作っている。",
-      "制作はRZA。本人の公式ブランドも、この曲をプロデュース作品として挙げている。RZAは2005年の取材で、ソウルだけでなくファンク、レゲエ、ジャズなどを聴いてきたと説明した。曲名の「Soul」に音の出自を一つへ絞る意味まで背負わせず、多方面の聴き方が集団の声を支える、と捉えたい。"
+      "Flavor Flavの役割は、フックと終盤の会話から捉えられる。発売当時のOrlando Weeklyは、Wu-Tangのメンバーが続く合間のフックに、彼の声が入り込む構成を取り上げている。客演の存在感を持ち時間だけでは測れない曲だ。",
+      "終盤ではMethod ManとFlavor Flavが、ロングアイランドの地元について会話する。同じレビューが記録したこの場面は、グループ同士の共演を、個人と個人のやりとりへ近づける。ラップが終わったからと切り上げず、会話までを一曲の時間として捉える聴き方ができる。",
+      "制作はRZA。本人が共同創業した36 Chambersの公式サイトは、2017年の誕生日企画で、社内でよくかける彼の仕事の一つとして本曲を選び、プロデューサーとしての参加を明記した。2001年の『Iron Flag』の一曲が、十数年後にもブランドのスタッフによる選曲に残っている。ヒット曲の一覧とは違うところから、この曲を拾い直せる。"
     ],
     "essaySources": [
       [
-        0,
         5
       ],
       [
@@ -53540,14 +53651,16 @@
       ],
       [
         2,
-        3
+        1
       ]
     ],
     "facts": [],
     "samples": [],
     "sampleStatus": "",
-    "listening": [],
-    "context": "",
+    "listening": [
+      "フックから終盤の会話まで、Flavor Flavの役割を追ってみる。"
+    ],
+    "context": "当時の批評と公式の選曲から、客演と制作の役割を読む。",
     "connections": [],
     "editorialCrates": [],
     "curationNote": "",
@@ -54529,7 +54642,7 @@
         "kind": "正規リリース情報"
       },
       {
-        "label": "GZA — Sword Play／Wax Poetics曲別インタビュー",
+        "label": "Wax Poetics — David MaによるGZA取材（2014年初出、2021年再掲）",
         "url": "https://magazine.waxpoetics.com/article/wu-tang-clans-gza-runs-down-every-track-off-liquid-swords/",
         "kind": "本人インタビュー"
       },
@@ -54547,24 +54660,23 @@
         "label": "Monty Ross — Liquid Swords映像制作インタビュー／StockX",
         "url": "https://stockx.com/news/gza-monty-ross-and-the-making-of-liquid-swords/",
         "kind": "制作当事者インタビュー"
+      },
+      {
+        "label": "Qobuz — Liquid Swords 曲別正規配信クレジット",
+        "url": "https://www.qobuz.com/au-en/album/liquid-swords-genius-gza/0072064248132",
+        "kind": "正規配信クレジット"
       }
     ],
-    "essayTitle": "緻密な言葉にも、仲間が割って入る余地がある",
+    "essayTitle": "Deckの声を引き立てる、ライブでの音量の切り替え",
     "essay": [
-      "GZAはWax Poeticsの曲別取材で、「Duel of the Iron Mic」をアルバムで最も好きな曲かもしれないと振り返る。気に入っているのは自分の言葉だけではなく、RZAのビート、録音の響き、Ol’ Dirty Bastardが参加した時の喜びまで含む一曲の出来上がりだった。語彙の多さで知られるMCを、文字だけで採点しないこと。本人の評価には、声を受け止める音と、仲間が持ち込む予測しきれない存在感も入っている。",
-      "その完成形へは、即座にたどり着いたわけではない。GZAはこの曲でいろいろな方法を試し、書くのに時間をかけたと説明する。別の取材でも、文章や単語を何度も直して、ビートと韻が互いを支える形を探すと話した。流れるように聞こえる言葉の背後に、組み直す作業がある。巧さを早口や即興の速さだけで測るのではなく、どの言葉をどの位置へ残したかに耳を向ける手がかりになる。",
-      "『Liquid Swords』の客演についてGZAは、仲間を迎える余地は開けておきながら、参加がなくても自分で作品を支えられるようにしていたと述べている。人数の多さは、主役の不在を埋める仕掛けではない。この曲もソロと集団の二択で分けず、一人の作品の中で複数の声がどう役割を持つかを考えたい。RZAの制作とGZAの構成、その上で交わる仲間の声が、個人名義の盤を閉じた独白にしない。"
+      "GZAはWax Poeticsで、執筆を試行錯誤し、ODBの参加を喜んだと語る。ライブではDeckの場面で伴奏を絞り、再び上げるという。アルバムのミックスではなく、舞台上の演出の話だ。",
+      "GZAはSPINの取材で、RZAをビートの作り手としてだけでなく、言葉の順序やフロウにも意見を出すMCとして説明している。これは二人の共同作業全般の話だ。そこを踏まえてこの曲に戻れば、ラップと伴奏を別々に採点するより、声をどこで前へ出すかという関係に注目できる。"
     ],
     "essaySources": [
       [
         2
       ],
       [
-        2,
-        3
-      ],
-      [
-        0,
         3
       ]
     ],
@@ -54597,12 +54709,14 @@
     "collections": [
       "east"
     ],
-    "deck": "GZAはWax Poeticsの曲別取材で、「Duel of the Iron Mic」をアルバムで最も好きな曲かもしれないと振り返る。気に入っているのは自分の言葉だけではなく、RZAのビート、録音の響き、Ol’ Dirty Bastardが参加した時の喜びまで含む一曲の出来上がりだった。語彙の多さで知られるMCを、文字だけで採点しないこと。本人の評価には、声を受け止める音と、仲間が持ち込む予測しきれない存在感も入っている。",
+    "deck": "録音の制作と舞台での演出。本人の回想から、二つの場面を読む。",
     "facts": [],
     "samples": [],
     "sampleStatus": "",
-    "listening": [],
-    "context": "",
+    "listening": [
+      "声と伴奏の関係に注目し、ライブの回想を録音版の説明と混同しない。"
+    ],
+    "context": "アルバム制作の回想と、ライブでの演出を分けて読む。",
     "connections": [],
     "editorialCrates": [],
     "curationNote": "",
@@ -54802,24 +54916,33 @@
         "label": "RZA — Fresh Air／2005年3月7日の本人インタビュー",
         "url": "https://freshairarchive.org/segments/rapper-producer-composer-rza",
         "kind": "本人インタビュー"
+      },
+      {
+        "label": "Paul Thompson — Wu-Tang Forever回顧／The Ringer",
+        "url": "https://www.theringer.com/2022/06/03/music/wu-tang-forever-25th-anniversary",
+        "kind": "音楽評論・二次資料"
+      },
+      {
+        "label": "Qobuz — Wu-Tang Forever 曲別正規配信クレジット",
+        "url": "https://www.qobuz.com/ca-en/album/wu-tang-forever-wu-tang-clan/5099749766921",
+        "kind": "正規配信クレジット"
       }
     ],
-    "essayTitle": "声が集まる場所と、録音が仕上がる場所",
+    "essayTitle": "Method Manの抑えた語り口に注目する",
     "essay": [
-      "「Bells of War」は、1997年の二枚組『Wu-Tang Forever』に収められた一曲。正規配信ではRZAがプロデューサーとして記され、録音も36 Chamberz StudioのRZA、ミックスはロサンゼルスのAmeraycan StudioでCarlos Bess、Scott Harding、RZAが担当している。大きな集団名の下に、異なる場所と作業の名前が残っているのが面白い。曲を一人のひらめきへ縮めず、録音を積み上げ、外へ届ける形に整える仕事まで含めて見渡せる。",
-      "1997年当時のSPINの取材は、ロサンゼルスで制作中のメンバーを訪ねている。ソロ作品を通して各人の輪郭が広がった時期に、もう一度集団として集まる現場だった。そこでU-Godは一緒にここまで来たことを語り、Raekwonも長く共にいる意思を示している。「Bells of War」の参加者として並ぶ複数の名は、この関係を考える手がかりになる。人数の多さそのものより、独立した声が同じ作品を引き受けることへ耳を向けたい。",
-      "RZAは2005年のFresh Airで、1996年前後に音楽理論を学び始めたと説明した。サンプルの断片を構成する経験を持ちながら、自分でも進行やフレーズを作れるようになろうとしていたという。本人がその変化を結びつけるのが『Wu-Tang Forever』だった。「Bells of War」の素材や演奏をこの証言だけで特定することはできない。それでも、制作の考え方が広がっていた時期の一曲として置くと、二作目を単に初作の拡大版として聴く以外の道が開く。"
+      "「Bells of War」を聴く入口として、Method Manの声の変化に注目したい。2022年のThe RingerでPaul Thompsonは、この曲の抑制を気の抜けたラップではなく、演技として評価している。同じ声でも、強く押す場面だけが聴きどころではない。一歩引いた語り方が何を伝えるか、という視点だ。",
+      "音を支える側にも複数の仕事がある。正規配信の曲別クレジットでは、RZAが制作と録音を担当し、ミックスにはRZA、Carlos Bess、Scott Hardingが並ぶ。声の存在感をMC一人の技術だけへ還元せず、それをどのような音像で届けるかまで含めて考えられる一曲だ。",
+      "アルバムの並びで見ると、この曲の次に来る「The M.G.M.」はTrue Masterの制作。ミックスには引き続きCarlos BessとScott Hardingが参加するが、ビートの作り手は替わる。『Wu-Tang Forever』を一括りにRZAの音と呼ぶ前に、曲ごとの担当を確かめると、集団の統一感と各人の仕事を分けて聴く手がかりになる。"
     ],
     "essaySources": [
       [
-        0,
-        1
+        4
       ],
       [
-        2
+        5
       ],
       [
-        3
+        5
       ]
     ],
     "youtube": {
@@ -54836,12 +54959,14 @@
       "verification": "公開watchページのDOM meta[itemprop=regionsAllowed]にJPを確認。日本国内からの実再生・埋め込み再生は未検証。初版マスターとの音声比較は未実施。",
       "verified": "2026-10-18"
     },
-    "deck": "「Bells of War」は、1997年の二枚組『Wu-Tang Forever』に収められた一曲。正規配信ではRZAがプロデューサーとして記され、録音も36 Chamberz StudioのRZA、ミックスはロサンゼルスのAmeraycan StudioでCarlos Bess、Scott Harding、RZAが担当している。大きな集団名の下に、異なる場所と作業の名前が残っているのが面白い。曲を一人のひらめきへ縮めず、録音を積み上げ、外へ届ける形に整える仕事まで含めて見渡せる。",
+    "deck": "批評と曲別クレジットを手掛かりに、声の届け方を考える。",
     "facts": [],
     "samples": [],
     "sampleStatus": "未確認のサンプル情報は掲載しない。",
-    "listening": [],
-    "context": "",
+    "listening": [
+      "Method Manの語り口を追い、批評家の見方と照らしてみる。"
+    ],
+    "context": "批評家の視点と曲別クレジットから、声と制作の役割を読む。",
     "connections": [],
     "editorialCrates": [],
     "curationNote": "原曲のアルバム収録版。DJミックスの編集・カット入り音源ではない。",
@@ -58939,16 +59064,16 @@
     "scene": "Staten Island / Wu-Tang Clan",
     "label": "Loud / RCA",
     "category": "Hip Hop",
-    "essayTitle": "九人の集団から、一人の名前が街へ出る",
-    "deck": "名前を綴るフックは、覚えてきた音楽を声で組み直す装置だった。Method Man本人の制作回想から、Wu-Tangの個性と集団の戦略を辿る。",
+    "essayTitle": "名前を覚えさせるフックは、聴いてきた曲から",
+    "deck": "名前を綴る発想にも、他の曲の記憶がある。本人が明かした二曲を入口に、自己紹介の作り方をたどる。",
     "essay": [
-      "「Method Man」は、Wu-Tang Clanの1993年作『Enter the Wu-Tang (36 Chambers)』で、一人の名前をそのまま看板にした曲だ。原盤CDでは第9曲、制作はRZA。大人数のマイクリレーで知られる集団の中に、誰の声なのかを強く記憶させる入口が置かれている。クルーを知ることと、一人のMCを好きになること。その二つがここでは切り離されていない。",
-      "2013年のXXLで、Method ManはRZAの家でこの曲を作ったと振り返り、フックやラップの着想を、それまで耳にしてきた複数の曲へ結びつけている。大切なのは、ここで語られるのがレコードの音を切り出す操作だけではないことだ。覚えていた歌い方や言葉の運びを、自分の名前と声へ移し替える。サンプルを探す耳と同時に、MCの記憶がどう働くかにも耳を向けたい。",
-      "この個人名の曲を、Wu-Tang Clan名義で聴く意味も大きい。RZAはNPRの2013年取材で、グループはLoudと契約しながら、各メンバーは別の会社でソロ活動できる仕組みを説明している。一人の存在感が集団の外へ逃げるのではなく、入口を増やして集団へ戻ってくる。「Method Man」は、その関係を音楽として考えるための代表曲だ。"
+      "「Method Man」のフックで、自分の名前をどう印象づけるか。本人はXXLで、Hall & Oatesの「Method of Modern Love」とMasta Aceの「Music Man」を着想源に挙げている。自分だけの看板になる曲に、聴いてきた別の音楽が組み込まれているのが面白い。",
+      "これは、元の録音をそのまま切り出したというサンプル情報ではない。本人が挙げた曲を聴き比べるなら、まず名前を綴る発想や呼びかけの作り方に注目したい。ビートに使われた原盤を探す作業とは切り分けて、ラッパーが記憶を自分の声へ移す方法を考える。引用元の一覧を増やすより、この違いを意識するほうが曲の作り方に近づける。",
+      "そして、この個人名はグループから離れるための看板ではなかった。NPRの取材でRZAは、Method ManとOl’ Dirty Bastardを同じDef Jamへ集めず、別々のレーベルへ広げる判断を説明している。個性を一つに揃えるのではなく、それぞれを入口にする構想だ。この曲を「Protect Ya Neck」と並べれば、集団で名乗ることと、一人の名前を覚えてもらうことの違いを考えられる。"
     ],
     "essaySources": [
       [
-        0
+        2
       ],
       [
         2
@@ -58980,7 +59105,7 @@
         "scope": "Method Man本人がRZA宅での制作とHall & Oates、Masta Ace、Come Togetherから得た着想を説明。音源サンプリングの証明とは別。"
       },
       {
-        "label": "NPR / KPBS: The Wu-Tang Clan’s 20-Year Plan (2013)",
+        "label": "NPR取材記事のKPBS転載 — Wu-Tang Clan",
         "url": "https://www.kpbs.org/news/national/2013/04/08/the-wu-tang-clans-20-year-plan",
         "kind": "primary_artist_interview",
         "scope": "RZA本人が集団と各ソロのレーベル戦略を説明。LoudとDef Jamの役割、各人が違う聴衆へ届く構想。"
@@ -59008,6 +59133,46 @@
         "url": "https://music.amazon.co.uk/tracks/B001GUID7A",
         "kind": "label_supplied_distributor_metadata",
         "scope": "Method Man [Explicit]、Enter The Wu-Tang [Expanded Edition] [Explicit]、5:51、1993年11月9日、℗1993 Sony。YouTubeの同アルバム表示と照合。実再生の確認ではない。"
+      },
+      {
+        "label": "Fresh Air — Rapper, Producer, Composer: The RZA (2005)",
+        "url": "https://freshairarchive.org/segments/rapper-producer-composer-rza",
+        "kind": "primary_artist_interview"
+      },
+      {
+        "label": "VladTV — Inspectah Deck: Using the Triumph Verse Twice Helped My Legacy (2015)",
+        "url": "https://www.vladtv.com/article/212631/inspectah-deck-using-the-triumph-verse-twice-helped-my-legacy",
+        "kind": "primary_interview_publisher_written_summary"
+      },
+      {
+        "label": "AllHipHop — Rewind the Rhyme: GZA (2006)",
+        "url": "https://allhiphop.com/features/rewind-the-rhyme-gza/",
+        "kind": "primary_artist_interview"
+      },
+      {
+        "label": "Sony Music Canada — Wu-Tang Forever anniversary (2022)",
+        "url": "https://www.sonymusic.ca/press_release/wu-tang-clan-launch-25-year-celebration-of-iconic-double-album-opus-wu-tang-forever-with-anniversary-collection-more",
+        "kind": "primary_record_label"
+      },
+      {
+        "label": "Red Bull Music Academy — Wu-Tang Clan lecture",
+        "url": "https://www.redbullmusicacademy.com/lectures/wu-tang-lecture/",
+        "kind": "primary_participant_panel_transcript"
+      },
+      {
+        "label": "AllHipHop — Masta Killa Talks Making Enter The Wu-Tang (2015)",
+        "url": "https://allhiphop.com/features/exclusive-masta-killa-wu-tang-clan-making-36-chambers-modern-hip-hop-drake-wu-tang-forever-remix/",
+        "kind": "primary_artist_interview"
+      },
+      {
+        "label": "Apple Music — Protect Ya Neck EP",
+        "url": "https://music.apple.com/us/album/protect-ya-neck-ep/1437568060",
+        "kind": "label_supplied_distributor_metadata"
+      },
+      {
+        "label": "Legacy Recordings — Enter The Wu-Tang: 36 Chambers",
+        "url": "https://www.legacyrecordings.com/releases/enter-the-wu-tang-36-chambers-pa-nr/",
+        "kind": "primary_label_catalog"
       }
     ],
     "connections": [
@@ -59015,8 +59180,7 @@
       "wu-tang-clan-protect-ya-neck"
     ],
     "listening": [
-      "名前を綴るフックと、ヴァースの言葉の切り方を分けて聴く。",
-      "「C.R.E.A.M.」のフックと並べ、同じ声が個人の看板と集団の合言葉をどう作るかを比べる。"
+      "着想源に挙げられた曲と、フックの呼び掛け方を比べてみる。"
     ],
     "moods": [
       "グルーヴ"
@@ -59056,7 +59220,7 @@
     },
     "aliases": [],
     "versionBasis": "Official artist/title, Expanded Edition music-ID and full-length metadata cross-checked against Amazon’s explicit Expanded Edition track. The 1993 original CD prints 5:50; digital retailer 5:51; videoDetails352s / microformat353s. These small differences do not independently prove the mix or master. No listening/waveform comparison performed.",
-    "context": "1993年の『Enter the Wu-Tang (36 Chambers)』収録曲。グループ名義の中で、Method Manの名前と声に焦点を当てる。",
+    "context": "フックの着想源と、グループの中で個人名を掲げる意味を読む。",
     "datePublished": "2026-10-20",
     "addedOrder": 495,
     "art": {
@@ -59097,23 +59261,23 @@
     "scene": "Staten Island / Wu-Tang Clan",
     "label": "Loud / RCA",
     "category": "Hip Hop",
-    "essayTitle": "弦が消え、声が入る。その出入りを聴く。",
-    "deck": "弦、声、ギター、ピアノを出し入れするRZA。Inspectah Deckのヴァースに圧倒されたGZA。本人たちの言葉から、Triumphの緊張をたどる。",
+    "essayTitle": "先に書かれたヴァースが「Triumph」を開いた",
+    "deck": "冒頭のラップは、この曲のために初めて書かれたものではなかった。制作時の回想から、完成までをたどる。",
     "essay": [
-      "「Triumph」の長さを支えるものは、MCの人数だけではない。RZAは2005年のFresh Airで、この曲の短く刻む弦が上昇して消え、声が入り、それも消えてギターとピアノが現れる流れを説明している。何を足すかと同時に、何を引くか。5分38秒の公式アルバム配信を聴く入口として、ラップの交代とは別に、伴奏の出入りを追ってみたい。",
-      "この説明を知ると、繰り返されるビートを背景と決めつけずに聴ける。RZAが語るのは、使った機材の一覧ではなく、音の役目を時間の中で変える作業だ。ある音が消えたあとに何が残るか、次の音がどこから入るか。ここでの聴き方はその制作証言を踏まえた提案であり、個々の音がどの原盤に由来するかを特定したものではない。",
-      "言葉の側にも、共演者が感じた緊張がある。2006年のAllHipHopでGZAは、Inspectah Deckのヴァースを聴き、その後に自分が何を言えるか戸惑ったと振り返る。これは客観的な順位ではなく、同じ曲に加わった人の反応だ。Deckの技巧を数えるだけでなく、同じ曲に加わるGZAが受け取った圧力として読むと、長い曲の中の一つのヴァースが別の重さを持つ。"
+      "「Triumph」でInspectah Deckが披露したヴァースには、その前の出番があった。2015年のVladTVによる本人取材の紹介記事は、Tony Touchの『Power Cypha: 50 MCs, Volume 1』で使ったものを、Tony Touchの了承を得て再び録音したと伝える。まだ仕上がっていないRZAのトラックに、先に書かれた言葉が合ったという経緯だ。最初からこの曲専用に用意された名演、と考えると見落とす制作過程がある。",
+      "伴奏も完成形から逆算して考えると面白い。RZAは2005年のFresh Airで、短く刻む弦が上昇して消え、声、さらにギターとピアノへと音の組み合わせが移る、と説明した。音楽理論を学び、それまでのサンプリング経験と結びつけていた時期の曲でもある。ラップの交代だけでなく、同じ声の後ろで何が残り、何が引かれるかを追うと、別の聴きどころができる。",
+      "出来上がったヴァースは仲間にも重かった。GZAは2006年のAllHipHopで、Deckを聴いて自分が何を続けられるのか戸惑ったと振り返る。これは優劣を決める採点ではなく、同じ曲を作る側の実感だ。既に使った言葉であっても、別のビートと仲間の声に置かれることで、新しい働きをする。その組み合わせを聴く曲として「Triumph」を捉え直したい。"
     ],
     "essaySources": [
       [
-        0,
-        1
+        7
       ],
       [
         1
       ],
       [
-        2
+        2,
+        7
       ]
     ],
     "facts": [],
@@ -59161,6 +59325,41 @@
         "url": "https://music.apple.com/us/song/268503852",
         "kind": "label_supplied_distributor_metadata",
         "scope": "該当曲ページのHTMLに曲名TriumphのExplicitバッジ（showExplicitBadge:true）とWu-Tang Forever表示。実再生未確認。"
+      },
+      {
+        "label": "VladTV — Inspectah Deck: Using the Triumph Verse Twice Helped My Legacy (2015)",
+        "url": "https://www.vladtv.com/article/212631/inspectah-deck-using-the-triumph-verse-twice-helped-my-legacy",
+        "kind": "primary_interview_publisher_written_summary"
+      },
+      {
+        "label": "Red Bull Music Academy — Wu-Tang Clan lecture",
+        "url": "https://www.redbullmusicacademy.com/lectures/wu-tang-lecture/",
+        "kind": "primary_participant_panel_transcript"
+      },
+      {
+        "label": "NPR取材記事のKPBS転載 — Wu-Tang Clan",
+        "url": "https://www.kpbs.org/news/national/2013/04/08/the-wu-tang-clans-20-year-plan",
+        "kind": "primary_interviews_and_reporter_context"
+      },
+      {
+        "label": "XXL — Wu-Tang Clan Members Revisit Enter The Wu-Tang: 36 Chambers (2013)",
+        "url": "https://www.xxlmag.com/wu-tang-clan-members-revisit-enter-the-wu-tang-36-chambers/",
+        "kind": "primary_artist_interviews"
+      },
+      {
+        "label": "AllHipHop — Masta Killa Talks Making Enter The Wu-Tang (2015)",
+        "url": "https://allhiphop.com/features/exclusive-masta-killa-wu-tang-clan-making-36-chambers-modern-hip-hop-drake-wu-tang-forever-remix/",
+        "kind": "primary_artist_interview"
+      },
+      {
+        "label": "Apple Music — Protect Ya Neck EP",
+        "url": "https://music.apple.com/us/album/protect-ya-neck-ep/1437568060",
+        "kind": "label_supplied_distributor_metadata"
+      },
+      {
+        "label": "Legacy Recordings — Enter The Wu-Tang: 36 Chambers",
+        "url": "https://www.legacyrecordings.com/releases/enter-the-wu-tang-36-chambers-pa-nr/",
+        "kind": "primary_label_catalog"
       }
     ],
     "connections": [
@@ -59169,8 +59368,7 @@
       "wu-tang-clan-method-man"
     ],
     "listening": [
-      "RZAの説明を手がかりに、弦や声が消える箇所と、別の音が入る箇所を追う。",
-      "Inspectah Deckのヴァースのあとを、GZAの回想を知ったうえで聴き直す。"
+      "MCの交代だけでなく、同じ声の後ろで伴奏がどう移るかにも注目する。"
     ],
     "moods": [
       "グルーヴ"
@@ -59210,7 +59408,7 @@
     },
     "aliases": [],
     "versionBasis": "Official Wu-Tang Forever album delivery, metadata-qualified; videoDetails338s / microformat339s. Apple exact album-track metadata marks Explicit. No listening, waveform or original1997 mix/master comparison performed.",
-    "context": "1997年のWu-Tang Forever収録曲。伴奏の入れ替わりと共演者の制作回想を、長い曲の展開を読む手がかりにする。",
+    "context": "ヴァースと伴奏が組み合わされる過程を、参加者の回想から読む。",
     "datePublished": "2026-10-21",
     "addedOrder": 496,
     "art": {
@@ -59252,23 +59450,23 @@
     "scene": "Staten Island / Wu-Tang Clan",
     "label": "Loud / RCA",
     "category": "Hip Hop",
-    "essayTitle": "子ども番組の記憶が、クルーの合言葉へ変わる",
-    "deck": "Underdogの主題曲と、原盤に残るMethod Manの共同制作クレジット。強烈なタイトルの奥から、Wu-Tangの音を作った共同作業を読む。",
+    "essayTitle": "アニメの主題曲で鳴らす、Wu-Tangの宣言",
+    "deck": "子ども向けアニメの音と、RZAが振り返った当時の感情。二つの入口から、グループ名を掲げる一曲を読む。",
     "essay": [
-      "曲名そのものがクルーの宣言になっている「Wu-Tang Clan Ain’t Nuthing ta F’ Wit」。1993年の原盤CDでは第7曲、3分36秒と記される。RZA、Inspectah Deck、Method Manの声を中心に据えた曲は、大人数の全員紹介とは違う方法でWu-Tangの名前を残す。短い合言葉と三者のラップが、集団の看板になる。",
-      "その輪郭を作る素材には、アニメ「Underdog」の主題曲がある。FirehouseのエンジニアNolan Moffitteは2018年のRed Bull Music Academyで、その素材をRZAが入れた現場にいたと証言した。子ども番組の音が、別の場所と声の中で威圧感を帯びる。元ネタの意外さで終わらず、同じ音が何を背負うようになったかを聴き比べたい。",
-      "原盤にはRZAの制作名だけでなく、Method Manの共同制作を示す記号がある。ラップの担当とビートの制作担当を分けて読むと、Method Manはマイクの前だけにいたわけではないと分かる。どの音を誰が操作したかまでは、このクレジットだけでは断定できない。それでも「RZAがすべてを一人で作った」という省略を避けるための、確かな手掛かりだ。"
+      "「Wu-Tang Clan Ain’t Nuthing ta F’ Wit」は、曲名からしてグループの宣言だ。ただ、その制作をたどると、強い言葉とは意外な組み合わせが見えてくる。使われた素材の一つは、子ども向けアニメ「Underdog」の主題曲だった。録音現場にいたNolan Moffitteは、RZAがその素材を入れた瞬間を、2018年のRed Bull Music Academyの取材で振り返っている。",
+      "一方、RZA自身は2008年のWestwordのインタビューでこの曲に触れ、ビートとその勢いは、当時の自分の内面を表したものだったと説明した。取材の話題は後年の『8 Diagrams』をめぐる意見の違い。初期の攻撃性を否定するのではなく、それだけではない音楽も作りたいという話の中で、この曲を引き合いに出していた。",
+      "この二つの証言を並べると、元ネタの意外さだけで聴き終えるのは惜しい。素材がどこから来たかと、作り手がそれに何を託したかは別の問いだ。アニメの音を使ったという事実を入口に、グループ名を押し出す言葉へ耳を戻す。その往復が、この曲をもう一度聴く手掛かりになる。"
     ],
     "essaySources": [
-      [
-        0,
-        4
-      ],
       [
         1
       ],
       [
-        0
+        5
+      ],
+      [
+        1,
+        5
       ]
     ],
     "facts": [],
@@ -59304,6 +59502,11 @@
         "url": "https://www.youtube.com/watch?v=YKa5tyjLbi8",
         "kind": "primary_artist_video",
         "scope": "公開用公式音源候補。個別メタデータファイルで配信国・長さを確認。"
+      },
+      {
+        "label": "Westword — Q&A With The RZA (2008)",
+        "url": "https://www.westword.com/music/qanda-with-the-rza-5699842/",
+        "kind": "primary_artist_interview"
       }
     ],
     "connections": [
@@ -59312,8 +59515,7 @@
       "wu-tang-clan-triumph"
     ],
     "listening": [
-      "Underdogの素材についての現場証言を踏まえ、声と背景の音が作る印象の違いを聴く。",
-      "三人の声と短いタイトルの言葉が、集団名をどう印象づけるかに注目する。"
+      "素材の出自を知ったうえで、グループ名を掲げる言葉へ耳を戻す。"
     ],
     "moods": [
       "グルーヴ"
@@ -59353,7 +59555,7 @@
     },
     "aliases": [],
     "versionBasis": "Official audio and explicit album-track retailer metadata correspond to the1993 album family. Original booklet3:36; selected upload218 seconds. No listening, waveform, original-master or censorship comparison performed.",
-    "context": "1993年のEnter the Wu-Tang (36 Chambers)収録曲。原盤の制作記号と録音現場の証言を併読する。",
+    "context": "『Enter the Wu-Tang (36 Chambers)』収録曲。録音技師とRZA本人の回想から制作をたどる。",
     "datePublished": "2026-10-21",
     "addedOrder": 497,
     "art": {
@@ -59397,23 +59599,22 @@
     "scene": "Staten Island / Wu-Tang Clan",
     "label": "Loud / RCA",
     "category": "Hip Hop",
-    "essayTitle": "最後の一枠が、Masta Killaの入口になった",
-    "deck": "書いた言葉を、録音の中で生きる声へ。Masta Killaのデビューを、本人の回想と原盤の共同制作クレジットから辿る。",
+    "essayTitle": "Masta Killaが最後の枠を得るまで",
+    "deck": "参加者の回想から、書いた言葉を声にする仕事をたどる。",
     "essay": [
-      "「Da Mystery of Chessboxin’」は、1993年の『Enter the Wu-Tang (36 Chambers)』の中で、声が次々に景色を変える曲だ。その最後に現れるMasta Killaの一節には、一人のMCが録音の世界へ入る瞬間が残る。Red Bull Music Academyで本人が語ったところでは、アルバムはほぼ出来上がり、この曲に一枠が残されていた。そこへ書いてきた言葉で場所を得たという。",
-      "2015年のAllHipHopでも、Masta Killaはこのヴァースを、初めて座って書き上げたものだったと説明する。紙をGZAへ見せると、内容には可能性があり、あとはそれを声にして伝えることが必要だと促された。良い言葉を持つことと、それをラップとして成立させることは同じではない。この曲を聴くとき、最後の声だけを名場面として切り取るより、その直前までの勢いをどう受け止めるかに注目したい。",
-      "制作の側にも一人ではない名前が残る。原盤の第6曲には、RZAの制作・ミックス・アレンジに加え、Ol’ Dirty Bastardの共同制作が記される。エンジニアは、アルバムの基本表記であるEthan RymanではなくCarlos Bess。マイクリレーの違いと同じように、盤の細かな例外にも、この曲ならではの組み合わせがある。"
+      "「Da Mystery of Chessboxin’」の最後を担うMasta Killaは、最初から録音に慣れたMCとして現れたわけではない。2015年のAllHipHopで、このヴァースが初めて腰を据えて書き上げたものだったと説明している。紙を見せたGZAが認めたのは内容の可能性であり、次の課題は、それを声にして伝えることだった。",
+      "RBMAの公開対談でMasta Killaは、ほぼ完成したアルバムに一枠だけ残り、自分の言葉で参加を決めたと語る。仲間としてのつながりと、仕事としての加入は別だという説明だった。",
+      "ここで聴きたいのは、誰かに勝ったという結末より、書いた言葉を一つのヴァースとして届ける仕事だ。前のMCから曲を受け取り、どこで言葉を区切り、どう終わりへ運ぶのか。GZAの助言を知ったうえで最後のパートに戻れば、歌詞の内容だけでなく、その伝え方にも注意が向く。デビューの逸話を、声の聴き方につなげられる一曲だ。"
     ],
     "essaySources": [
       [
-        2,
         1
       ],
       [
-        1
+        2
       ],
       [
-        0
+        1
       ]
     ],
     "facts": [],
@@ -59455,6 +59656,41 @@
         "url": "https://www.youtube.com/watch?v=O-6Xow1_6MY",
         "kind": "primary_artist_video",
         "scope": "公開用公式音源候補。個別メタデータファイルで配信国・長さを確認。"
+      },
+      {
+        "label": "Fresh Air — Rapper, Producer, Composer: The RZA (2005)",
+        "url": "https://freshairarchive.org/segments/rapper-producer-composer-rza",
+        "kind": "primary_artist_interview"
+      },
+      {
+        "label": "VladTV — Inspectah Deck: Using the Triumph Verse Twice Helped My Legacy (2015)",
+        "url": "https://www.vladtv.com/article/212631/inspectah-deck-using-the-triumph-verse-twice-helped-my-legacy",
+        "kind": "primary_interview_publisher_written_summary"
+      },
+      {
+        "label": "AllHipHop — Rewind the Rhyme: GZA (2006)",
+        "url": "https://allhiphop.com/features/rewind-the-rhyme-gza/",
+        "kind": "primary_artist_interview"
+      },
+      {
+        "label": "Sony Music Canada — Wu-Tang Forever anniversary (2022)",
+        "url": "https://www.sonymusic.ca/press_release/wu-tang-clan-launch-25-year-celebration-of-iconic-double-album-opus-wu-tang-forever-with-anniversary-collection-more",
+        "kind": "primary_record_label"
+      },
+      {
+        "label": "NPR取材記事のKPBS転載 — Wu-Tang Clan",
+        "url": "https://www.kpbs.org/news/national/2013/04/08/the-wu-tang-clans-20-year-plan",
+        "kind": "primary_interviews_and_reporter_context"
+      },
+      {
+        "label": "Apple Music — Protect Ya Neck EP",
+        "url": "https://music.apple.com/us/album/protect-ya-neck-ep/1437568060",
+        "kind": "label_supplied_distributor_metadata"
+      },
+      {
+        "label": "Legacy Recordings — Enter The Wu-Tang: 36 Chambers",
+        "url": "https://www.legacyrecordings.com/releases/enter-the-wu-tang-36-chambers-pa-nr/",
+        "kind": "primary_label_catalog"
       }
     ],
     "connections": [
@@ -59463,8 +59699,7 @@
       "wu-tang-clan-aint-nuthing-ta-f-wit"
     ],
     "listening": [
-      "Masta Killaの最後のヴァースを、本人が語る書くことと声にすることの違いから聴き直す。",
-      "声の受け渡しと、原盤の共同制作・エンジニア表記を別々の手がかりとして読む。"
+      "最後のヴァースで、言葉の区切りと曲の終わりへの運びを追ってみる。"
     ],
     "moods": [
       "グルーヴ"
@@ -59504,7 +59739,7 @@
     },
     "aliases": [],
     "versionBasis": "Official audio and inspected retailer album listing correspond to the1993 album family. Original booklet4:48; selected upload289 seconds. No listening, waveform, original-master or censorship comparison performed.",
-    "context": "1993年のEnter the Wu-Tang (36 Chambers)収録曲。Masta Killaが参加を得るまでの本人の回想と、原盤に残る制作担当の例外を読む。",
+    "context": "Masta Killaが書いた言葉を、録音へつなげるまでの回想を読む。",
     "datePublished": "2026-10-21",
     "addedOrder": 498,
     "art": {
