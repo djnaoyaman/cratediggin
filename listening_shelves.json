@@ -185,19 +185,6 @@
       ]
     },
     {
-      "id": "souls-of-mischief-that-s-when-ya-lost",
-      "tags": [
-        {
-          "shelf": "voice",
-          "evidence": {
-            "file": "tracks.json",
-            "field": "deck",
-            "quote": "四人の声が、違う角度で同じビートを走る。"
-          }
-        }
-      ]
-    },
-    {
       "id": "gang-starr-dwyck",
       "tags": [
         {
@@ -214,11 +201,11 @@
       "id": "gang-starr-take-it-personal",
       "tags": [
         {
-          "shelf": "loop",
+          "shelf": "drums",
           "evidence": {
             "file": "tracks.json",
-            "field": "deck",
-            "quote": "短い音の反復に、Guruの落ち着きが重なる。"
+            "field": "listening.0",
+            "quote": "Exarchosの指摘を手がかりに、キックの間隔と均等な16分音符を意識して比較する。"
           }
         }
       ]

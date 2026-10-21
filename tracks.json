@@ -3297,11 +3297,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "タイトルどおり、まず身体へ。細かい音の配置まで楽しい。",
-    "essayTitle": "身体が動く理由は、ビートの小さな隙間に",
+    "deck": "「I Get Physical」の出口を、次の聴き方の入口に。",
+    "essayTitle": "終わりに残る音から、ビートを聴き直す。",
     "essay": [
-      "タイトルどおり、まず身体へ。細かい音の配置まで楽しい。",
-      "身体が動く理由を探すなら、大きな音より小さな隙間に耳を置く。題名を思い出す前に首が動いていたら、ビートの仕事はもう済んでいる。"
+      "「I Get Physical」は、ラップが終わったところで再生を止めずに聴いてみたい。Tiny Mix TapesのPaul Haneyは、この曲の終わりでサンプルが単独で鳴ることに注目した。彼にとって、その部分はPete Rockが素材をどう変えたかを感じ直す場面だった。",
+      "素材をたどる別の手がかりもある。Chris Readの『The Main Ingredient』25周年ミックスの曲目表では、George Bensonの「Face It Boy, It’s Over」と、Big Daddy Kane feat. Biz Markieの「Just Rhymin’ With Biz」が本曲のサンプルとして並ぶ。これは制作者本人の証言ではなく、DJによる選曲と調査の記録だ。",
+      "元曲を知ることと、曲の中でその音がどう働くかを知ることは違う。Haneyの指摘を手がかりに、まず最後まで聴き、そのあと本編に戻る。音の出どころを当てるだけで終わらない聴き方が、ここにはある。"
     ],
     "facts": [
       {
@@ -3315,14 +3316,24 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "タイトルどおり、まず身体へ。細かい音の配置まで楽しい。"
+      "Haneyの観察を手がかりに、ラップ後の部分と本編を比較する。"
     ],
-    "context": "身体が動く理由を探すなら、大きな音より小さな隙間に耳を置く。題名を思い出す前に首が動いていたら、ビートの仕事はもう済んでいる。",
+    "context": "『The Main Ingredient』収録曲。末尾の構成はPaul Haneyの批評、サンプル関係はChris Readの曲目表に基づいて紹介する。",
     "sources": [
       {
         "label": "YouTube — Pete Rock & C.L. Smooth / I Get Physical",
         "url": "https://www.youtube.com/watch?v=pwQkXcWKH_c",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Paul Haney — The Main Ingredient review / Tiny Mix Tapes",
+        "url": "https://www.tinymixtapes.com/music-review/pete-rock-cl-smooth-main-ingredient",
+        "kind": "署名批評"
+      },
+      {
+        "label": "Chris Read anniversary mix tracklist / Flea Market Funk",
+        "url": "https://fleamarketfunk.com/2019/11/27/pete-rock-cl-smooth-the-main-ingredient-25th-anniversary-mixtape/",
+        "kind": "DJキュレーションの掲載資料"
       }
     ],
     "producers": [
@@ -3339,7 +3350,18 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "ini-fakin-jax",
@@ -3389,12 +3411,12 @@
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。",
       "coverSource": "https://www.vinyl-digital.com/en/EXCLUSIVES/Center-of-Attention-Only-Vinyl.html"
     },
-    "deck": "Dorothy Ashbyの音を手がかりに、InIへ入る。",
-    "essayTitle": "名札の大きさに、惑わされない。",
+    "deck": "Pete Rockの回想から、「Fakin’ Jax」が先に届いた事情をたどる。",
+    "essayTitle": "出るはずだったアルバムを、一枚のシングルから。",
     "essay": [
-      "Pete Rockの名前を頼りに来た人が、InIという名前を覚えて帰る。その順番で構わない。音楽の棚では、入口の大きな看板より、帰りに持っている小さな名札のほうが大切になることもある。",
-      "サンプルを辿るとDorothy AshbyのCause I Need Itへ繋がる。1969年の録音が、90年代のラップの場所を作る。アルバムの流通には複数の時期があるため、ここでは確認したシングルの1996年と、後年のアルバム配信を分けて扱う。",
-      "元になった音を知ってから聴き直しても、謎が全部消えるわけではない。同じ音が、なぜこの曲ではこの景色になるのか。その残った謎こそ、もう一度再生する理由になる。"
+      "「Fakin’ Jax」は、発売予定だったアルバムから先に届いた一曲だった。Pete Rockは2011年のABCDR du Sonの取材で、『Center of Attention』はElektraから出るはずだったが、当時はこの曲とB面の「Props」だけが発売されたと振り返っている。",
+      "彼によれば、作品を支持していた責任者が替わったあと、アルバムの計画は止まった。これは制作側からの回想であり、レーベルの内部事情を独立に確認した説明ではない。",
+      "その背景を知ってから、アルバムをまだ知らないつもりで聴き直す。この一曲だけで、グループのどんな姿が浮かぶだろう。後年のアルバムから入った人も、当時のシングルへ戻れば、声とビートの出会いを別の順序でたどれる。"
     ],
     "facts": [
       {
@@ -3432,11 +3454,9 @@
     ],
     "sampleStatus": "確認できた代表的なサンプルを掲載。全素材の網羅ではありません。",
     "listening": [
-      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
-      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
-      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+      "アルバムをまだ知らない状態で初めて届いたシングルとして、グループの声とビートを受け取ってみる。"
     ],
-    "context": "1996年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "context": "シングルと後年のアルバム流通を区別する。発売計画の経緯はPete Rockの2011年の回想として扱う。",
     "sources": [
       {
         "label": "Pete Rock Official — 採用した公式YouTube音源・版名",
@@ -3452,6 +3472,11 @@
         "url": "https://www.groovenutrecords.net/products/detail/11201",
         "label": "Groovenut Records — Fakin Jax原盤とDorothy Ashbyのサンプル解説",
         "kind": "レコード店による原盤・サンプル解説（二次資料）"
+      },
+      {
+        "label": "Pete Rock interview / ABCDR du Son",
+        "url": "https://www.abcdrduson.com/interviews/pete-rock/",
+        "kind": "制作者本人へのインタビュー"
       }
     ],
     "producers": [
@@ -3472,6 +3497,17 @@
     "artists": [
       "InI",
       "Pete Rock"
+    ],
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ]
     ]
   },
   {
@@ -3520,11 +3556,12 @@
       "lettering": "tag",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "四人の声が、違う角度で同じビートを走る。",
-    "essayTitle": "四人四様、同じビートへの入り方",
+    "deck": "Phestoが選んだのは、世界に自分たちを紹介した一曲だった。",
+    "essayTitle": "韻を踏みたくなるビートで、最初の名乗り。",
     "essay": [
-      "四人の声が、違う角度で同じビートを走る。",
-      "四人の声の違いを追いながら、同じビートへの入り方を比べたい。輪のまとまりは、全員が同じ声を出すことから生まれるわけではない。"
+      "『93 ’til Infinity』で好きな曲を聞かれ、Phestoが選んだのは「That’s When Ya Lost」だった。2013年のThe Sourceの取材で、最初のシングルとして自分たちを世界へ紹介した曲だと振り返っている。",
+      "彼が挙げたのは、Biz Markieのブレイク、ホーン、ベースライン。韻を踏みたくなる伴奏で、当時の自分たちをよく表していたという。四人の声だけでなく、言葉を乗せたくなる土台へ耳を向ける入口になる。",
+      "同じ取材でOpioは、Native TonguesやGang Starrの影響を認めつつ、ラップでは独自の語彙を探していたと話す。好きな音を受け継ぎ、自分たちの言葉を乗せる。後の代表曲を知った耳で、この最初の名乗りに戻ってみたい。"
     ],
     "facts": [
       {
@@ -3538,14 +3575,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "四人の声が、違う角度で同じビートを走る。"
+      "Phestoが挙げたドラム、ホーン、ベースを手がかりに、四人の言葉を誘う伴奏として聴く。"
     ],
-    "context": "四人の声の違いを追いながら、同じビートへの入り方を比べたい。輪のまとまりは、全員が同じ声を出すことから生まれるわけではない。",
+    "context": "PhestoとOpioの2013年の取材に基づく。Biz Markieの具体的な録音曲名はこの証言だけでは特定しない。",
     "sources": [
       {
         "label": "YouTube — Souls of Mischief / That's When Ya Lost",
         "url": "https://www.youtube.com/watch?v=a_vpCfS3XwE",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Bryan Hahn — Souls of Mischief interview / The Source, page 2",
+        "url": "https://thesource.com/2013/07/03/exclusive-interview-souls-of-mischief-discuss-underground-hip-hop-and-20-years-since-93-til-infinity/2/",
+        "kind": "メンバー本人へのインタビュー"
       }
     ],
     "producers": [
@@ -3564,7 +3606,18 @@
       "walk",
       "west"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "the-pharcyde-passin-me-by",
@@ -3782,11 +3835,13 @@
       "lettering": "stencil",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "「Drop」の映像を支えたのは、Spike Jonzeの明確な演出と、言語学者と重ねた逆向きの発音練習だった。",
+    "deck": "奇抜な思いつきだけではない。「Drop」の映像を支えた、音からの発想と発音の練習。",
     "essayTitle": "逆向きの発音を、身体に入れる一週間。",
     "essay": [
-      "「Drop」の映像を、Bootie Brownは奇妙な体験というより、技術的で指示の明確な仕事として振り返っている。2016年のBonafideの取材によれば、メンバーは言語学者と一週間を過ごし、言葉を音として逆向きに覚えた。映像を逆再生したとき、ところどころの言葉と口元が合うよう、普段のラップとは違う発音を準備したのだ。",
-      "ここで覚え直すのは、歌詞の意味ではなく、口で作る音の順序だ。逆再生という編集の仕掛けを、ラッパー自身が身体で引き受ける。Brownが語るSpike Jonzeの演出は、そのために何をするかが明確だった。完成した映像の不思議さの奥に、発音を練習する具体的な一週間がある。"
+      "「Drop」の逆再生映像は、曲とは無関係な仕掛けを後から載せたものではなかった。2013年のLA Film FestでSpike Jonzeは、曲の逆向きのループから発想したと語っている。曲全体を逆再生したカセットを作り、それに口を合わせられないかと考えたという。",
+      "その発想を実際の身体へ移すには、言葉をいったん音に戻す必要があった。Jonzeの回想では、UCLAの言語学者が逆向きの発音を書き起こし、メンバーはツアー中もヘッドホンと発音用のシートで練習した。歌詞の意味を逆に並べるのではなく、逆回転で言葉に戻る音の順番を覚える作業だった。",
+      "Brownも2016年のBonafideの取材で、言語学者と一週間取り組んだと振り返っている。彼の説明では、撮影中の発音は言葉にならないように聞こえても、映像を逆にするとところどころで言葉を捉えられる。完璧な口の同期を当然のように語るより、その難しさを含めて見るほうが、この仕事の細かさが伝わる。",
+      "Brownが強調するのは、Jonzeの仕事が技術的で、狙いがはっきりしていたことだ。不思議な動きだけを楽しんだあとで、もう一度口元を追ってみたい。曲の音から生まれた着想を、メンバーが練習して身体に引き受けた。その往復が、この映像の面白さを支えている。"
     ],
     "facts": [
       {
@@ -3800,9 +3855,9 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "映像を見返すなら、逆向きの動きだけでなく、言葉と口元が合う瞬間を探してみる。"
+      "Jonzeの着想の説明を踏まえ、曲の逆向きの音と映像の口元を対応づけて見る。"
     ],
-    "context": "1995年の『Labcabincalifornia』収録曲。映像の準備については、Bootie Brownが2016年の取材で当時の作業を振り返っている。",
+    "context": "映像制作を語ったJonzeの2013年の登壇発言と、Brownの2016年の取材を区別して紹介する。",
     "sources": [
       {
         "label": "YouTube — The Pharcyde / Drop",
@@ -3813,6 +3868,11 @@
         "label": "Bonafide — Bootie Brown・Imaniインタビュー（2016年4月5日）",
         "url": "https://www.bonafidemag.com/somethin-that-means-somethin-an-interview-with-the-pharcyde/",
         "kind": "本人インタビュー"
+      },
+      {
+        "label": "Spike Jonze LA Film Fest remarks / The Playlist",
+        "url": "https://theplaylist.net/l-a-film-fest-spike-jonze-talks-music-videos-james-gandolfini-wild-things-maurice-sendak-more-20130625/",
+        "kind": "監督本人の登壇発言の報道"
       }
     ],
     "producers": [
@@ -3831,10 +3891,17 @@
     "noteReviewedAt": "2026-10-17",
     "essaySources": [
       [
-        1
+        2
+      ],
+      [
+        2
       ],
       [
         1
+      ],
+      [
+        1,
+        2
       ]
     ]
   },
@@ -3975,11 +4042,12 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "短い旋律に、身体を動かす仕事を任せる。",
-    "essayTitle": "短い旋律が巡るたび、声が景色を動かす",
+    "deck": "Fashionが考えた、別の先行曲。",
+    "essayTitle": "最初に聴かせたい曲は、別にあった。",
     "essay": [
-      "短い旋律に、身体を動かす仕事を任せる。",
-      "短い旋律が何度巡っても、声が入ると景色が動く。その反復に飽きるかどうかより、どこで身体が反応するかを確かめたい。"
+      "FashionはUnkutの取材で、『Street Level』の先行曲には「Get Funky」もありえたと話す。",
+      "実際は「Props Over Here」。レーベルのラジオ志向と本人たちの希望が食い違ったという回想だ。",
+      "二曲の順番を入れ替えて聴いてみたい。最初に何を聴くかで、このグループに期待するものも変わるだろうか。"
     ],
     "facts": [
       {
@@ -3993,14 +4061,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "短い旋律に、身体を動かす仕事を任せる。"
+      "二曲の順序を変え、最初の印象を比べる。"
     ],
-    "context": "短い旋律が何度巡っても、声が入ると景色が動く。その反復に飽きるかどうかより、どこで身体が反応するかを確かめたい。",
+    "context": "別の先行曲という可能性を語った、Fashionの回想。",
     "sources": [
       {
         "label": "YouTube — The Beatnuts / Get Funky",
         "url": "https://www.youtube.com/watch?v=rZd1j8ic0tY",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Robbie Ettelson — Al’ Tariq aka Fashion interview, part 1 / Unkut",
+        "url": "https://unkut.com/2014/11/al-tariq-aka-fashion-the-unkut-interview-part-one/",
+        "kind": "メンバー本人への取材"
       }
     ],
     "producers": [
@@ -4022,7 +4095,18 @@
       "funk-soul"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "the-beatnuts-off-the-books",
@@ -4070,11 +4154,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "声が増えても、ビートは軽快。遊び心のあるポッセ・カット。",
-    "essayTitle": "賑やかなマイクの往来をさばく軽快なビート",
+    "deck": "Cuban Linkが語った、「Off the Books」に参加するまで。",
+    "essayTitle": "Punについて行ったら、曲に声が残った。",
     "essay": [
-      "声が増えても、ビートは軽快。遊び心のあるポッセ・カット。",
-      "次々に現れる声と、変わらず進むビートを別々に追ってみる。賑やかな曲にも交通整理はある。その手際のよさを聴くのも楽しい。"
+      "2014年のHipHopDXの取材でCuban Linkは、「Off the Books」への参加は偶然の機会だったと振り返る。Jujuに招かれたのはBig Pun。Cuban Linkは同行を遠慮したが、Punに強く誘われてQueensのスタジオへ向かった。",
+      "ビートを聴いて脇で書き始めると、Punが二人で掛け合おうと提案した。Cuban Linkによれば、以前「Toe To Toe」で試した応酬を踏まえ、その場で書き進めたという。",
+      "Triple Seisも書いていたが、長くなるためその部分は外されたとも話す。最終形を聴くときは、PunからCuban Linkへの受け渡しを追ってみたい。同行者が加わり、二人の経験が曲の形に残った録音として。"
     ],
     "facts": [
       {
@@ -4088,14 +4173,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "声が増えても、ビートは軽快。遊び心のあるポッセ・カット。"
+      "Cuban Linkの回想を手がかりに、Punからの声の受け渡しを追う。"
     ],
-    "context": "次々に現れる声と、変わらず進むビートを別々に追ってみる。賑やかな曲にも交通整理はある。その手際のよさを聴くのも楽しい。",
+    "context": "参加者Cuban Linkの2014年の取材を、HipHopDX記事の保存転載で確認した。未発表テイクや録音日は未確認。",
     "sources": [
       {
         "label": "YouTube — The Beatnuts / Off the Books",
         "url": "https://www.youtube.com/watch?v=poB12fNGK28",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Sherron Shabazz — Cuban Link interview / HipHopDX, preserved by Rapchive",
+        "url": "https://rapchive.com/news/cuban-link-says-the-fat-joe-conflict-will-never-be-resolved/",
+        "kind": "参加者本人への取材の保存転載"
       }
     ],
     "producers": [
@@ -4113,7 +4203,18 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "lords-of-the-underground-chief-rocka",
@@ -4162,11 +4263,12 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "ホーンと声の押し引き。ニューアークの跳ね方をもう一曲。",
-    "essayTitle": "ホーンと声の押し引きに、跳ねる隙間を探す",
+    "deck": "K-Def自身の訂正から、原曲とリミックスの境目をたどる。",
+    "essayTitle": "そのブレイクの話は、リミックスのこと。",
     "essay": [
-      "ホーンと声の押し引き。ニューアークの跳ね方をもう一曲。",
-      "ホーンの勢いと声の押し引きを、同じ動きとして聴いてみる。前へ出る音が多いのに窮屈に聞こえないなら、隙間の使い方にも耳を向けたい。"
+      "2007年のUnkutの取材で、質問者が「Funky Child」のリミックスの話をすると、K-Defは「Chief Rocka」のリミックスだと訂正した。そこで話題になったのは、Jack Bruceの素材を使ったブレイクだった。",
+      "K-Defはさらに、広く知られたオリジナルのミックスと、そのリミックスを区別している。この逸話を、そのまま原曲のサンプル情報にしてはいけない。",
+      "次に掘るなら、まず盤や音源の版名を確かめてから聴き比べたい。同じ曲名でも、伴奏まで同じとは限らない。制作者の小さな訂正が、探すべき録音を変えてくれる。"
     ],
     "facts": [
       {
@@ -4180,14 +4282,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "ホーンと声の押し引き。ニューアークの跳ね方をもう一曲。"
+      "録音版を確認してから、オリジナルとリミックスの伴奏を比べる。"
     ],
-    "context": "ホーンの勢いと声の押し引きを、同じ動きとして聴いてみる。前へ出る音が多いのに窮屈に聞こえないなら、隙間の使い方にも耳を向けたい。",
+    "context": "本ページは原曲を対象とし、K-Defの語ったリミックスのサンプル逸話とは区別する。リミックスの正式盤面表記は未確定。",
     "sources": [
       {
         "label": "Lords Of The Underground - Topic — Chief Rocka",
         "url": "https://www.youtube.com/watch?v=5rGy0NivzpE",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Robbie Ettelson — K-Def interview / Unkut",
+        "url": "https://unkut.com/2007/01/jersey-has-breaks-k-def-interview/",
+        "kind": "制作者本人への取材"
       }
     ],
     "producers": [
@@ -4210,7 +4317,18 @@
       "funk-soul"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "lords-of-the-underground-funky-child",
@@ -4259,11 +4377,12 @@
       "lettering": "tag",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "軽快さと太さが同居する。勢いの中の細工も聴きたい。",
-    "essayTitle": "軽快さと太さが収まる、ひとつのビート",
+    "deck": "「Funky Child」を、K-Defのサンプリングについての回想から。",
+    "essayTitle": "曲の評価と、作り手の取り分は別だった。",
     "essay": [
-      "軽快さと太さが同居する。勢いの中の細工も聴きたい。",
-      "軽快に聞こえる瞬間と、音の太さを感じる瞬間を行き来する。その両方が同じビートに収まっているところを、細部を追いながら味わいたい。"
+      "「Funky Child」には五つほどのサンプルを使った。K-Defは2008年のFrom Da Bricksの取材でそう振り返りながら、この曲から出版印税を受け取っていないとも話した。",
+      "素材を重ねて一曲を作ることと、作り手に取り分が残ることは別だった。この証言は、サンプリングの巧さだけで話を終わらせない。ただし、出版印税についての発言を、制作の報酬が一切なかったという話には広げられない。",
+      "素材の数を当てるだけでなく、どう一曲に結びつくのかを聴いてみたい。その音への評価と、本人が語る仕事の対価との隔たりも、この曲の制作史の一部だ。"
     ],
     "facts": [
       {
@@ -4277,14 +4396,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "軽快さと太さが同居する。勢いの中の細工も聴きたい。"
+      "K-Defの回想を手がかりに、素材が一曲へ組み合わされる働きを聴く。"
     ],
-    "context": "軽快に聞こえる瞬間と、音の太さを感じる瞬間を行き来する。その両方が同じビートに収まっているところを、細部を追いながら味わいたい。",
+    "context": "サンプル数と出版印税はK-Defの2008年の回想として紹介する。契約書・精算書や現在の権利関係は確認していない。",
     "sources": [
       {
         "label": "The Get Down Records — Lords Of The Underground - Funky Child",
         "url": "https://www.youtube.com/watch?v=QG7SnSx5b2U",
         "kind": "参考投稿"
+      },
+      {
+        "label": "From Da Bricks — K-Def interview part I",
+        "url": "https://fromdabricks.com/2008/04/07/fdb-interview-spot-k-def-pt-i/",
+        "kind": "制作者本人への取材"
       }
     ],
     "producers": [
@@ -4305,7 +4429,18 @@
       "funk-soul"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "gang-starr-dwyck",
@@ -4470,11 +4605,12 @@
       "lettering": "stencil",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "短い音の反復に、Guruの落ち着きが重なる。",
-    "essayTitle": "短い反復に着地する、Guruの言葉",
+    "deck": "研究者が注目したのは、キックの間隔だった。",
+    "essayTitle": "繰り返すキックは、等間隔ではない。",
     "essay": [
-      "短い音の反復に、Guruの落ち着きが重なる。",
-      "短い音が巡るたび、Guruの声がどこに着地するかを聴く。動きの少ない背景だからこそ、言葉の運びが近くに感じられる。"
+      "研究者Mike Exarchosは、「Take It Personal」のキックの16分音符に注目している。彼の分析では強くスウィングしており、ほとんど三連符のような感触に近づくという。",
+      "これは制作者が明かした設定値ではなく、研究者による聴覚的な分析だ。Guruの言葉を追ったあと、今度はキックへ注意を移してみる。均等な16分音符を思い浮かべると、その間隔を比べる手がかりになる。",
+      "同じパターンが戻ることと、その中の音が等間隔に並ぶことは別だ。反復の有無だけでなく、一つひとつの音をいつ置くか。その違いから、この曲のビートを聴き直してみたい。"
     ],
     "facts": [
       {
@@ -4488,14 +4624,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "短い音の反復に、Guruの落ち着きが重なる。"
+      "Exarchosの指摘を手がかりに、キックの間隔と均等な16分音符を意識して比較する。"
     ],
-    "context": "短い音が巡るたび、Guruの声がどこに着地するかを聴く。動きの少ない背景だからこそ、言葉の運びが近くに感じられる。",
+    "context": "『Daily Operation』収録曲のキックをExarchosのリズム分析から考える。分析対象の録音と制作機材との因果関係は断定しない。",
     "sources": [
       {
         "label": "YouTube — Gang Starr / Take It Personal",
         "url": "https://www.youtube.com/watch?v=9NCvwjP_pH8",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Mike Exarchos — Boom bap ex machina: hip-hop aesthetics and the Akai MPC",
+        "url": "https://repository.uwl.ac.uk/id/eprint/5150/1/Boom%20Bap%20ex%20Machina-%20Hip-Hop%20Aesthetics%20and%20the%20Akai%20MPC.pdf",
+        "kind": "研究者による音楽分析・大学リポジトリの著者稿"
       }
     ],
     "producers": [
@@ -4516,7 +4657,18 @@
       "cut-scratch"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "gang-starr-code-of-the-streets",
