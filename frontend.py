@@ -3,7 +3,7 @@ import json
 import shutil
 import os
 from urllib.parse import urlparse
-from profile_content import render_profile
+from profile_content import render_profile, EDITOR_NOTE_REPLACEMENTS
 
 
 def render_work_count(template, tracks):
@@ -31,6 +31,7 @@ def build_frontend(root, dist, features, policy, guides):
         '{{FEATURES}}': features,
         '{{FEATURE_POLICY}}': policy,
         '{{GUIDES}}': guides,
+        '{{EDITOR_NOTE_REPLACEMENTS}}': EDITOR_NOTE_REPLACEMENTS,
         '{{EDITOR_PROFILE}}': render_profile(root,urlparse(os.environ.get('SITE_URL','https://djnaoyaman.github.io/cratediggin')).path.rstrip('/')),
     }
     client = '\n'.join((source / name).read_text(encoding='utf-8') for name in order)

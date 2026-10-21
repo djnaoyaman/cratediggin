@@ -260,6 +260,8 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         key = hashlib.sha256(route.encode()).hexdigest()[:20]
         p['metadataPath'] = base_path + '/metadata/' + key + '.json'
         content = target.read_text(encoding='utf-8')
+        if route == '#/editor':
+            content = __import__('profile_content').polite_editor_note(content)
         if route.startswith('#/song/'):
             track = next(t for t in tracks if t['id']==route.split('/')[-1])
             art = track['art']

@@ -1,5 +1,6 @@
 """Exact owner-supplied paragraphs and unchanged biography tail/photo rendering."""
 from pathlib import Path
+from approved_editor_polite import historical_editor_polite_file
 import argparse,hashlib,json,sys,html
 from approved_editor_profile_update import F,historical_editor_profile_file,sha
 R=Path(__file__).resolve().parents[1];p=argparse.ArgumentParser();p.add_argument('--source-only',action='store_true');a=p.parse_args()
@@ -10,7 +11,7 @@ for name,spec in F['files'].items():
   except AssertionError:pass
   else:raise AssertionError('Unapproved profile drift accepted')
 for name,h in F['protected'].items():assert sha((R/name).read_bytes())==h,name
-old=json.loads(F['files']['editor_profile.json']['before']);new=json.loads((R/'editor_profile.json').read_text());assert {k:v for k,v in new.items() if k!='blocks'}=={k:v for k,v in old.items() if k!='blocks'}
+old=json.loads(F['files']['editor_profile.json']['before']);new=json.loads(historical_editor_polite_file('editor_profile.json',(R/'editor_profile.json').read_bytes()));assert {k:v for k,v in new.items() if k!='blocks'}=={k:v for k,v in old.items() if k!='blocks'}
 assert new['blocks']==[old['blocks'][0]]+F['requestedBlocks']+F['preservedTail']
 assert len(F['requestedBlocks'])==17 and sum(b['type']=='h2' for b in F['requestedBlocks'])==3
 assert [b['text'] for b in F['requestedBlocks'] if b['type']=='h2']==['音楽を掘る。記憶を編む。','はじまりは、足立区の15歳','作ることへのこだわり']

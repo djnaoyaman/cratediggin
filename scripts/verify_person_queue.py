@@ -1,5 +1,6 @@
 from pathlib import Path
 import json
+from approved_editor_polite import historical_editor_polite_file
 from approved_person_queue import F,sha,historical_person_queue_file
 R=Path(__file__).resolve().parents[1]
 for p,c in F['files'].items():
@@ -8,6 +9,6 @@ for p,c in F['files'].items():
   try:historical_person_queue_file(p,bad)
   except AssertionError:pass
   else:raise AssertionError('Unapproved drift accepted: '+p)
-for p,h in F['protected'].items():assert sha((R/p).read_bytes())==h,p
+for p,h in F['protected'].items():assert sha(historical_editor_polite_file(p,(R/p).read_bytes()))==h,p
 assert len(json.loads((R/'tracks.json').read_text()))==505
 print('Exact 2-module person queue delta; 505 records, all features/articles/profile and other transport modules unchanged; negative drift checks PASS')

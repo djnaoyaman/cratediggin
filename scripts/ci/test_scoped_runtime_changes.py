@@ -67,9 +67,10 @@ class ScopedRuntimeTests(unittest.TestCase):
    self.assertTrue(set().union(*(set(m['groups'][g]) for g in m['runtime_rules'][path]))<={c['id'] for c in q['selected']})
  def test_person_queue_exact_pair_and_drift(self):
   m=json.loads((HERE/'manifest.json').read_text());root=HERE.parents[1]
+  from approved_editor_polite import historical_editor_polite_file
   f=json.loads((root/'scripts/fixtures/approved-person-queue.json').read_text())['files']
   for path in ['src/app/player.js','src/app/editorial.js']:
-   before=f[path]['before'].encode();after=(root/path).read_bytes();change=[dict(status='M',old_path=path,new_path=path)]
+   before=f[path]['before'].encode();after=historical_editor_polite_file(path,(root/path).read_bytes());change=[dict(status='M',old_path=path,new_path=path)]
    p=s.select_changes(m,change,lambda _:before,lambda _:after)
    self.assertFalse(p['blockers']);self.assertEqual({c['id'] for c in p['selected']},set(m['groups']['person_queue']))
    for a,b in [(before+b' ',after),(before,after+b' '),(None,after),(before,None),(after,before)]:

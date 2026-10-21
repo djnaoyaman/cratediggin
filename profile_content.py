@@ -25,3 +25,15 @@ def render_profile(root,base_path):
         out.append('<'+kind+'>'+inline(text)+'</'+kind+'>')
     if in_list:out.append('</ul>')
     out.append('</div></article>');return ''.join(out)
+
+
+EDITOR_NOTE_REPLACEMENTS = [['少しばかりよくできすぎている。', '少しばかりよくできすぎています。'], ['好きな曲を掘る。元になった音をたどる。街や仲間の話に寄り道する。', '好きな曲を掘ります。元になった音をたどります。街や仲間の話に寄り道します。'], ['そうして、いまの自分の耳を、もう一度確かめる。', 'そうして、いまの自分の耳を、もう一度確かめます。']]
+
+def polite_editor_note(content):
+    """Change only the shared note within an EDITOR static page."""
+    def convert(match):
+        text=match[0]
+        for before,after in EDITOR_NOTE_REPLACEMENTS:
+            text=text.replace(before,after)
+        return text
+    return re.sub(r'<section class="manifesto">.*?</section>',convert,content,count=1,flags=re.S)
