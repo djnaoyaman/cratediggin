@@ -3869,5 +3869,31 @@
         "sourceLabel": "Apollo Brown - The Reset / Mello Music Group"
       }
     ]
+  },
+  {
+    "artist": "Nas",
+    "title": "Halftime",
+    "sections": [
+      {
+        "heading": "DIG DEEPER 01｜12インチの「LP Version」を起点に",
+        "text": "Sonyが2013年の復刻盤で示した曲順では、A面にRadio Edit、LP Version、そのインストゥルメンタル、B面にButcher Remixとそのインストゥルメンタルが並ぶ。「Halftime」という曲名だけで選ぶと別ミックスに行き着くこともあるため、まず原曲のLP Versionを基準にするのが確実だ。今回のリンクはLegacy Recordingsが提供する『Illmatic』収録音源で、Butcher Remixではない。",
+        "sources": [
+          1,
+          3
+        ],
+        "source": "https://www.legacyrecordings.com/2013/10/16/legacy-recordings-announces-limited-edition-vinyl-exclusives-for-record-store-day-black-friday-friday-november-29-2013/",
+        "sourceLabel": "Sony Legacy Recordings — 1992年オリジナル12インチの復刻告知（2013-10-16）"
+      },
+      {
+        "heading": "DIG DEEPER 02｜制作年はNas自身の訂正から読む",
+        "text": "NPRのインタビューで注目したいのは、聞き手が挙げた1993年をNasが1992年に直している点。サウンドトラックへの提供、その後のアルバム制作という順序が、本人の言葉でつながる。さらにXXLのLarge ProfessorとBusta Rhymesの回想を合わせれば、完成したレコードのクレジットだけでは見えない、録音現場とビート選びの過程まで追える。ただし、Bustaの証言を「彼のために正式発注された曲」と言い換える根拠はない。",
+        "sources": [
+          4,
+          5
+        ],
+        "source": "https://www.northcountrypublicradio.org/news/npr/305629896/",
+        "sourceLabel": "Nas / NPR Microphone Check — Ali Shaheed Muhammad・Frannie Kelleyによる取材（2014-04-23、転載全文）"
+      }
+    ]
   }
 ]

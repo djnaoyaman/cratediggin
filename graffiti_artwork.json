@@ -9949,6 +9949,23 @@
       "transparent": true,
       "textReviewed": true,
       "paletteReviewed": true
+    },
+    {
+      "palette": [
+        "#171128",
+        "#765394",
+        "#b39ac9",
+        "#f1dfa2"
+      ],
+      "paletteSource": "Halftime — original1992single sleeve",
+      "paletteSourceUrl": "https://cdn-p.smehost.net/sites/35faef12c1b64b21b3fda052d205af13/wp-content/uploads/2020/09/album-nas-nastynas-halftime200.jpg",
+      "paletteNote": "実際に表示確認したオリジナル盤ジャケットの紫・ライラック・暗色とクリーム色の文字を参照した編集上の近似配色。厳密な色抽出値ではありません。",
+      "id": "nas-halftime",
+      "status": "ready",
+      "image": "assets/graffiti/nas-halftime-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
