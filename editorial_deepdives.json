@@ -4118,5 +4118,34 @@
         "sourceLabel": "Apple Music — 3 Feet High and Rising標準盤"
       }
     ]
+  },
+  {
+    "artist": "Blu",
+    "title": "Amnesia",
+    "sections": [
+      {
+        "heading": "2009年の配信と、2011年の販売版",
+        "text": "USCの学生ラジオKXSCは、2009年2月17日の記事で『Her Favorite Colo(u)r』がその週に届いた作品だと紹介している。2011年のPitchforkも、かつて無料で配信された2009年のミックステープが販売版になったと説明する。したがって初出年は2009年として読むのが適切だ。一方、掲載する正規YouTube音源は2011年4月19日のアルバム版として登録されている。Nature Soundsは初期MP3版の後にミックスとマスタリングが行われたことを説明しており、いま聴ける販売版をそのまま2009年の未加工マスターと呼ぶことはできない。曲の誕生と、手元の版の来歴を分けておきたい。",
+        "sources": [
+          4,
+          5,
+          1,
+          6
+        ],
+        "source": "https://kxsc.org/articles/2009/2/17/my-favorite-colour-is-blu.html",
+        "sourceLabel": "KXSC Radio — My Favorite Colo(u)r is Blu / 2009-02-17"
+      },
+      {
+        "heading": "Original、Remind、インストを混ぜない",
+        "text": "2011年2月14日の『Amnesia EP』には、約2分58秒の「Amnesia (Original)」とそのインストに加え、約1分27秒の「Amnesia (Remind)」、約1分28秒の「Amnesia (RewindInstrumental)」が別々に登録されている。タイトルが似ていても、同じ音源の別リンクとして扱わない方がいい。今回の掲載音源は『Her Favorite Colo(u)r』名義の約2分58秒の正規配信で、EPを辿る場合はOriginal表記の音源を入口にする。配信情報のnotExplicitという区分だけで、クリーン版だと決めることもできない。曲名の括弧や一分以上の長さの差は、見逃すには少し大きい。",
+        "sources": [
+          7,
+          8,
+          6
+        ],
+        "source": "https://itunes.apple.com/lookup?id=414434609&entity=song",
+        "sourceLabel": "Apple Music — Amnesia EPの公式曲目・版名・長さ"
+      }
+    ]
   }
 ]

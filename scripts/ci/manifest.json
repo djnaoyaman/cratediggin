@@ -2304,6 +2304,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "timeline-pair-browser"
+    },
+    {
+      "id": "blu-amnesia",
+      "argv": [
+        "python",
+        "scripts/verify_blu_amnesia.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "blu-amnesia"
+    },
+    {
+      "id": "blu-amnesia-browser",
+      "argv": [
+        "node",
+        "scripts/verify_blu_amnesia_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "blu-amnesia-browser"
     }
   ],
   "groups": {
@@ -2740,6 +2764,10 @@
     "timeline_pair": [
       "timeline-pair",
       "timeline-pair-browser"
+    ],
+    "blu_amnesia": [
+      "blu-amnesia",
+      "blu-amnesia-browser"
     ]
   },
   "runtime_rules": {
@@ -3557,7 +3585,8 @@
       "scripts/fixtures/approved-timeline-three.json"
     ],
     "scripts/approved_timeline_pair.py": [
-      "scripts/fixtures/approved-timeline-pair.json"
+      "scripts/fixtures/approved-timeline-pair.json",
+      "scripts/approved_blu_amnesia.py"
     ],
     "scripts/verify_timeline_pair.py": [
       "scripts/approved_timeline_pair.py",
@@ -3567,6 +3596,18 @@
     "scripts/verify_timeline_pair_browser.cjs": [
       "scripts/verify_visible_art_browser.cjs",
       "scripts/fixtures/approved-timeline-pair.json"
+    ],
+    "scripts/approved_blu_amnesia.py": [
+      "scripts/fixtures/approved-blu-amnesia.json"
+    ],
+    "scripts/verify_blu_amnesia.py": [
+      "scripts/approved_blu_amnesia.py",
+      "scripts/editorial_uniqueness.py",
+      "scripts/fixtures/editorial-legacy-debt.json"
+    ],
+    "scripts/verify_blu_amnesia_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs",
+      "scripts/fixtures/approved-blu-amnesia.json"
     ]
   },
   "policy_paths": [
@@ -3642,7 +3683,9 @@
     "scripts/approved_timeline_three.py",
     "scripts/fixtures/approved-timeline-three.json",
     "scripts/approved_timeline_pair.py",
-    "scripts/fixtures/approved-timeline-pair.json"
+    "scripts/fixtures/approved-timeline-pair.json",
+    "scripts/approved_blu_amnesia.py",
+    "scripts/fixtures/approved-blu-amnesia.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -3690,7 +3733,8 @@
     "research/intake-cash-money-three-20261021.json",
     "research/intake-med-classic-20261021.json",
     "research/intake-timeline-three-20261021.json",
-    "research/intake-timeline-pair-20261021.json"
+    "research/intake-timeline-pair-20261021.json",
+    "research/intake-blu-amnesia-20261021.json"
   ],
   "syntax_existing": [
     "dist/app.js",
@@ -4148,6 +4192,13 @@
         "groups": [
           "timeline_pair"
         ]
+      },
+      {
+        "before_sha256": "bf7fa54638b82512bd41139a1d71d58c1bd1b65726c224587e5dee1b4c11f0e6",
+        "after_sha256": "11e8242de8c1c98d89a3233b4a19c6feff2b7a3f11bdc220fbe7a4cc3e16fcac",
+        "groups": [
+          "blu_amnesia"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -4227,6 +4278,13 @@
         "groups": [
           "timeline_pair"
         ]
+      },
+      {
+        "before_sha256": "00953d7a73733c0ec6a7f78127b3155c4846cc15d1fc8a6ad2777b4cd1d64a4d",
+        "after_sha256": "af79b81fdd597c329831b431f661b37b4659520d76bf48a6ce6edb15321a5698",
+        "groups": [
+          "blu_amnesia"
+        ]
       }
     ],
     "graffiti_artwork.json": [
@@ -4298,6 +4356,13 @@
         "after_sha256": "c94e7e35aa82ce2b7942d4c0ee751c3e991abc772f6629df69a561b039e30f85",
         "groups": [
           "timeline_pair"
+        ]
+      },
+      {
+        "before_sha256": "c94e7e35aa82ce2b7942d4c0ee751c3e991abc772f6629df69a561b039e30f85",
+        "after_sha256": "556d4a16edb799469fec18c5c619036f0bb08fa216c0f8dae654693f4b5b2b7f",
+        "groups": [
+          "blu_amnesia"
         ]
       }
     ],
@@ -4407,6 +4472,13 @@
         "after_sha256": "ce897572c7712353b82e6248a4e3b4e7fa174c7c6703a915ed8442b376151ff9",
         "groups": [
           "timeline_three"
+        ]
+      },
+      {
+        "before_sha256": "ce897572c7712353b82e6248a4e3b4e7fa174c7c6703a915ed8442b376151ff9",
+        "after_sha256": "2605d2555e1eafc7f0c0a686b5afded14cd6de209310894453965affa141f9b7",
+        "groups": [
+          "blu_amnesia"
         ]
       }
     ],
@@ -4524,6 +4596,15 @@
         "after_sha256": "0d969046205a89e100a396fc84f9a4ef08e7d92b6098aeec09e503022eb4dbc2",
         "groups": [
           "timeline_pair"
+        ]
+      }
+    ],
+    "assets/graffiti/blu-amnesia-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "73d893c979aabb52d54024b638c888c3ed5dcdf9102227c5955dd2c7c12dccef",
+        "groups": [
+          "blu_amnesia"
         ]
       }
     ]

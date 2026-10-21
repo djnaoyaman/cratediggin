@@ -5,6 +5,8 @@ R=Path(__file__).resolve().parents[1]
 F=json.loads((R/'scripts/fixtures/approved-timeline-pair.json').read_text())
 sha=lambda b:hashlib.sha256(b).hexdigest()
 def historical_timeline_pair_file(path,data):
+ from approved_blu_amnesia import historical_blu_amnesia_file
+ data=historical_blu_amnesia_file(path,data)
  c=F['files'].get(path)
  if c is None:return data
  assert sha(data)==c['afterSHA256'],'Unapproved Timeline-track drift: '+path
