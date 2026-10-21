@@ -1,0 +1,397 @@
+{
+  "base": "b8eb6202aad5f1c5716db7b3645f62e7483a8645",
+  "batch": 6,
+  "completed": 170,
+  "total": 226,
+  "beforeVersion": "22.50",
+  "rows": [
+    {
+      "id": "o-c-organized-konfusion-you-won-t-go-far",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "MCが交差するたび、視点が切り替わる",
+      "rationale": "複数MCの交差と視点の移動に絞り、人数や役割を推定しない。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "O.C. & Organized Konfusionの「You Won't Go Far」。まず耳を向けたいのは、複数のMCが交差するときの視点の切り替わりだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "big-l-all-black",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "一行ずつ、言葉の切れ味と着地を追う",
+      "rationale": "本文の行単位の聴き方を採用し、絶対的な技術評価を加えない。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Big Lの「All Black」。まず耳を向けたいのは、一行ごとの言葉の切れ味と着地点だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "smif-n-wessun-let-s-git-it-on",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "受け継ぐフレーズに、二人の手触り",
+      "rationale": "声の単なるリレーではなく、本文のフレーズの手触りという角度を残す。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Smif-N-Wessunの「Let's Git It On」。まず耳を向けたいのは、二人のMCが受け継ぐフレーズの手触りだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "black-moon-how-many-mc-s",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "何人のMCへ、問いを押し出す声",
+      "rationale": "題名の問いと本文の声の押し出しを結び、具体的な対象は補わない。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Black Moonの「How Many MC's」。まず耳を向けたいのは、問いかけの反復と声の押し出しだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "group-home-up-against-the-wall-low-budget-mix",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "Low Budget Mix、音数より間合いへ",
+      "rationale": "版を識別しつつ、本文が提案する音数とラップの間合いに焦点を絞る。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Group Homeの「Up Against The Wall (Low Budget Mix)」。まず耳を向けたいのは、Low Budget Mixの音数とラップの間合いだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "kool-g-rap-blowin-up-in-the-world",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "細かな音節が、ひと続きのフロウになる",
+      "rationale": "細かな音節がまとまって進むという本文の描写を取り出す。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Kool G Rapの「Blowin' Up In The World」。まず耳を向けたいのは、細かな音節がまとまって進むフロウだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "o-c-word-life",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "O.C.の表題曲、語りの息継ぎを探す",
+      "rationale": "本文の表題曲の語り口とラップがひと息つく場所を探す提案を結ぶ。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "O.C.の「Word...Life」。まず耳を向けたいのは、アルバムと同じ言葉を掲げる表題曲の語り口だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        },
+        {
+          "field": "article_body[1]",
+          "snippet": "『Word...Life』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "the-roots-distortion-to-static",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "繰り返すリズムの中、声の動きを追う",
+      "rationale": "反復の中の声とリズムという本文の角度に限定する。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "The Rootsの「Distortion To Static」。まず耳を向けたいのは、反復の中で動く声とリズムの関係だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "erick-sermon-bomdigi",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "短いフックのあとに、余白を聴く",
+      "rationale": "本文にある短いフックとリズムの余白の関係に絞る。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Erick Sermonの「Bomdigi」。まず耳を向けたいのは、短いフックが残すリズムの余白だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "pete-rock-c-l-smooth-the-main-ingredient",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "表題曲の中で釣り合う、声とビート",
+      "rationale": "既存本文の均衡という角度を残し、楽器やサンプルを補わない。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Pete Rock & C.L. Smoothの「The Main Ingredient」。まず耳を向けたいのは、表題曲からたどる声とビートの均衡だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "pete-rock-c-l-smooth-worldwide",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "世界を掲げる題名、すぐ近くのラップ",
+      "rationale": "大きな題名と近い声という本文の対照を具体的に示す。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Pete Rock & C.L. Smoothの「Worldwide」。まず耳を向けたいのは、大きな題名に対して近く響くラップの距離感だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "black-moon-buck-em-down",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "アルバム版で確かめる、声の入り口",
+      "rationale": "本文が指定するアルバム版と声の入り方に限定し、別版との差を推定しない。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Black Moonの「Buck 'Em Down」。まず耳を向けたいのは、アルバム版の構成と声の入り方だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "common-breaker-1-9",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "シカゴのMC、言葉のアクセントを追う",
+      "rationale": "本文の地名とアクセントを用い、地域一般の音楽的特徴には広げない。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Commonの「Breaker 1/9」。まず耳を向けたいのは、シカゴのMCが刻む言葉のアクセントだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "das-efx-mic-checka",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "弾む音節は、ビートとどう噛み合うか",
+      "rationale": "本文の音節の弾みとビートの関係を、聴取の問いにする。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Das EFXの「Mic Checka」。まず耳を向けたいのは、音節が弾むラップとビートの噛み合わせだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "cypress-hill-stoned-is-the-way-of-the-walk",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "声のクセとリズムの揺れが結びつく",
+      "rationale": "本文の声質と揺れの結びつきに限定し、声の具体的な音色は推定しない。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Cypress Hillの「Stoned Is The Way Of The Walk」。まず耳を向けたいのは、声のクセとリズムの揺れの結びつきだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "a-tribe-called-quest-vibes-and-stuff",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "言葉の後ろに残る低音を、追いかける",
+      "rationale": "既存本文の低音の役割を、聴く対象として前面に出す。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "A Tribe Called Questの「Vibes And Stuff」。まず耳を向けたいのは、言葉の後ろに残る低音の役割だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "brand-nubian-steady-bootleggin",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "戻るフレーズ、その拍にラップを探す",
+      "rationale": "反復するフレーズとラップの拍の位置という既存の角度を問い直す。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Brand Nubianの「Steady Bootleggin'」。まず耳を向けたいのは、反復するフレーズとラップの拍の位置だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "epmd-underground",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "二人のラップの温度差、その下のビート",
+      "rationale": "本文の二人の温度差とビートの足場を対比としてまとめる。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "EPMDの「Underground」。まず耳を向けたいのは、二人のラップの温度差とビートの足場だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "chubb-rock-the-one",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "表題を背負う声、その大きさと間合い",
+      "rationale": "本文の表題曲に固有の入口を保ち、声量の強弱は断定しない。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Chubb Rockの「The One」。まず耳を向けたいのは、表題を背負う声の大きさと間合いだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "big-daddy-kane-taste-of-chocolate-video-version",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "映像版を流れる、軽快な言葉運び",
+      "rationale": "本文の映像版と軽快さを採用し、版の差や映像内容は追加しない。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Big Daddy Kaneの「Taste of Chocolate (Video Version)」。まず耳を向けたいのは、映像版の流れから追う言葉の軽快さだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "pete-rock-c-l-smooth-anger-in-the-nation",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "社会へ向く言葉、伴奏との温度差",
+      "rationale": "本文に明示された社会への言葉と伴奏の対比だけを採用する。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Pete Rock & C.L. Smoothの「Anger In The Nation」。まず耳を向けたいのは、社会へ向けた言葉と伴奏の温度差だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "lord-finesse-dj-mike-smooth-bud-mutha",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "声の抑揚をたどり、パンチラインの着地へ",
+      "rationale": "抑揚から言葉の着地点へ向かう、本文の聴き方を示す。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Lord Finesse & DJ Mike Smoothの「Bud Mutha」。まず耳を向けたいのは、声の抑揚とパンチラインの着地点だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "slick-rick-it-s-a-boy",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "物語を話すフロウは、拍のどこにいるか",
+      "rationale": "本文の物語的な話し方と拍の位置を、確認型の見出しにする。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Slick Rickの「It's A Boy」。まず耳を向けたいのは、物語を話すようなフロウと拍の位置だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "poor-righteous-teachers-shakiyla-jrh",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "名を呼ぶ声が、フックで繰り返される",
+      "rationale": "本文の呼びかけと反復に限定し、人物の属性や歌詞の背景は補わない。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Poor Righteous Teachersの「Shakiyla (JRH)」。まず耳を向けたいのは、名を呼びかける声とフックの繰り返しだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "3rd-bass-derelicts-of-dialect",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "表題曲で声が交差し、ことばが走る",
+      "rationale": "本文にある声の交差とことばの勢いを主題にする。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "3rd Bassの「Derelicts Of Dialect」。まず耳を向けたいのは、表題曲で交差する声とことばの勢いだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "tim-dog-i-ain-t-havin-it-feat-kool-keith",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "Tim DogとKool Keith、声の個性がぶつかる",
+      "rationale": "名義で確認できる二人を明示し、本文の声の対照を具体化する。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Tim Dogの「I Ain't Havin' It (feat. Kool Keith)」。まず耳を向けたいのは、二人の個性がぶつかる声の対照だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "ll-cool-j-the-boomin-system",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "低音を鳴らすことが、ラップの主題になる",
+      "rationale": "本文に明示された主題を取り出し、機材や聴取場所は追加しない。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "LL Cool Jの「The Boomin' System」。まず耳を向けたいのは、低音を鳴らすこと自体をテーマにするラップだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "cypress-hill-hand-on-the-pump",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "フックを覚えたら、声のリズムへ戻る",
+      "rationale": "耳に残るフックと声のリズムという既存の角度を聴く順番に変える。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Cypress Hillの「Hand On The Pump」。まず耳を向けたいのは、耳に残るフックと声のリズムだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    }
+  ],
+  "files": {
+    "tracks.json": {
+      "beforeSHA256": "f416e69f5e377116a9d75df988a65c3b86ac669c782f51295e3ba019ca020a51",
+      "afterSHA256": "ec3d5e38d620d59a2fd3b564bae359e5a78c30662a6e4b44646c7e414835cb62"
+    },
+    "releases.json": {
+      "beforeSHA256": "0c8900963ba2e22d1fbd644a608c5339884fb6331d60f6d5485335a5c3246678",
+      "afterSHA256": "a02f12a897d5b966b2c6a5b72444724faa5c5279eea3734c8b8492a11e7ad9b7"
+    }
+  },
+  "protected": {
+    "graffiti_artwork.json": "fccdb745bbd3b2871ef3b506b3197077f5e6b42cd543cefdbd042a2efb3f9c49",
+    "editorial_deepdives.json": "5b989c85ad5e6b0114a341209da18e6ed05608b71424d5184fe3733dc86436c0",
+    "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+    "artist_entities.json": "be0a95389d26e99480325ad2a7f0872ba3e21e7e58b6cf2b3fd7515d5805469b",
+    "src/app/catalog-ui.js": "2566d24be62e0a069bea040046664e301f36333890cf9057667e64866d5c1400",
+    "src/app/song-ui.js": "a96fc013d3e5e4ca3dfe359a8cc78c051fa559a9215d210ee3f84a073891b41a",
+    "src/app/editorial.js": "0e50447ea73ea4dc15fcf27c2f38d8214af89f77590d03a25b39cf4b31e5917d",
+    "src/assets/style.css": "369f75276d3aa790753db69ae410b1c5e24b93c24c8a645c436cf4c6053ef421"
+  }
+}
