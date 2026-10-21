@@ -5,6 +5,8 @@ R=Path(__file__).resolve().parents[1]
 F=json.loads((R/'scripts/fixtures/approved-editor-affinity.json').read_text())
 sha=lambda b:hashlib.sha256(b).hexdigest()
 def historical_editor_affinity_file(path,data):
+ from approved_halftime import historical_halftime_file
+ data=historical_halftime_file(path,data)
  c=F['files'].get(path)
  if c is None:return data
  assert sha(data)==c['afterSHA256'],'Unapproved EDITOR preference drift: '+path

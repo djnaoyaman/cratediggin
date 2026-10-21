@@ -58448,5 +58448,165 @@
       "paletteSourceUrl": "https://f4.bcbits.com/img/a4028902129_5.jpg",
       "paletteNote": "ジャケットの黒い地と黄色い筆記体を参照した編集上の配色。厳密な色抽出値ではない。"
     }
+  },
+  {
+    "id": "nas-halftime",
+    "title": "Halftime",
+    "artist": "Nas",
+    "artists": [
+      "Nas"
+    ],
+    "year": 1992,
+    "yearBasis": "Sony Legacyの復刻告知がオリジナル12インチを1992年と明記。Apple Musicの曲情報は1992-10-13。1994年は『Illmatic』発売年で、原曲の初出年とは分ける。",
+    "album": "Illmatic",
+    "producer": "Large Professor",
+    "producers": [
+      "Large Professor"
+    ],
+    "members": "Nas",
+    "region": "New York",
+    "scene": "New York",
+    "label": "Columbia Records（掲載『Illmatic』音源の権利表記）",
+    "category": "Hip Hop",
+    "essayTitle": "友人たちの輪から、ブースの中へ。",
+    "deck": "Large ProfessorとBusta Rhymesの回想が照らす、Nasの言葉がビートを自分のものにした瞬間。",
+    "essay": [
+      "『Illmatic』の５曲目として知られる「Halftime」には、アルバムより早い出発点がある。最初に世に出たのは1992年、Nasty Nas名義で映画『Zebrahead』のサウンドトラックに参加した時期だ。Apple Musicの曲情報は1992年10月13日を示し、SonyのLegacy Recordingsもオリジナル12インチを1992年の作品と説明している。その後、1994年４月19日発売の『Illmatic』に収録された。曲の登場年とアルバムの発売年は分けて押さえておきたい。",
+      "制作を担ったのはLarge Professor。Legacy Recordings提供の公式音源には、プロデューサーとして彼の名が、録音・ミックス担当としてKevin Reynoldsの名が記されている。Nasは2014年のNPR「Microphone Check」で、Chung King Studiosでの制作時期を1993年と尋ねられると、1992年だったと訂正。「Halftime」を最初に録音し、サウンドトラックに必要とされたため提供した、と振り返った。本人の回想からたどると、この曲は『Illmatic』へ続く制作の初期と、映画を通じたソロ・デビューが重なる地点にある。",
+      "その現場を別の角度から伝えるのが、XXLの制作証言集だ。Large Professorは、友人たちとくつろいでいたNasがブースに入ると、周囲が一気に沸いた場面を回想する。同じ記事でBusta Rhymesは、そのビートが自分の目の前で作られ、使う機会もあったものの、どう乗せるか思いつかなかったと語っている。後にNasの録音を聴いて悔やんだという証言は、同じビートでも誰が言葉を置くかによって作品が決まることを思わせる。これは2009年４月号に掲載され、2014年４月16日にウェブで再掲された回想であり、1992年当時の取材として扱わないようにしたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        5
+      ]
+    ],
+    "facts": [
+      {
+        "title": "原曲の登場年とアルバムの発売年",
+        "text": "1992年の原曲と、1994年4月19日発売の『Illmatic』収録を区別しています。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "掲載音源と制作クレジット",
+        "text": "Legacy Recordings提供の『Illmatic』音源。プロデュースはLarge Professor、録音・ミックスはKevin Reynoldsと明記されています。",
+        "sources": [
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用された個別サンプルの録音・出典は未照合。サンプル不使用を意味しません。",
+    "sources": [
+      {
+        "label": "Apple Music — Halftime（1992年10月13日の曲情報）",
+        "url": "https://music.apple.com/us/song/201424752",
+        "kind": "配信メタデータ"
+      },
+      {
+        "label": "Sony Legacy Recordings — 1992年オリジナル12インチの復刻告知（2013-10-16）",
+        "url": "https://www.legacyrecordings.com/2013/10/16/legacy-recordings-announces-limited-edition-vinyl-exclusives-for-record-store-day-black-friday-friday-november-29-2013/",
+        "kind": "レーベル公式資料"
+      },
+      {
+        "label": "Apple Music — Illmatic（1994-04-19）",
+        "url": "https://music.apple.com/us/album/illmatic/856131729",
+        "kind": "公式配信情報"
+      },
+      {
+        "label": "Nas — Halftime / Legacy Recordings提供の公式音源・制作クレジット",
+        "url": "https://www.youtube.com/watch?v=wjmrHOwm4tw",
+        "kind": "公式音源・制作クレジット"
+      },
+      {
+        "label": "Nas / NPR Microphone Check — Ali Shaheed Muhammad・Frannie Kelleyによる取材（2014-04-23、転載全文）",
+        "url": "https://www.northcountrypublicradio.org/news/npr/305629896/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "XXL — An Oral History of Nas’ Illmatic（2009年4月号、2014-04-16ウェブ再掲）",
+        "url": "https://www.xxlmag.com/making-of-nas-illmatic/",
+        "kind": "制作当事者の回想"
+      }
+    ],
+    "connections": [
+      "nas-n-y-state-of-mind",
+      "nas-the-world-is-yours"
+    ],
+    "listening": [
+      "Large ProfessorとBustaの異なる回想を読んでから、同じビートをNasがどう言葉で引き受けるのかに耳を向けたい。"
+    ],
+    "moods": [
+      "グルーヴ",
+      "緊張感"
+    ],
+    "sounds": [
+      "ドラム",
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "audioVerificationStatus": "公式音源の曲名・アルバム・制作クレジット、261秒、日本を含む配信対象国、埋め込み可のメタデータを確認。日本国内の実再生・埋め込み実再生は未確認。",
+    "editorialStatus": "原曲の発売年、制作当事者の回想、公式音源の情報を出典付きで掲載。日本国内からの実再生と埋め込み再生は未確認。",
+    "noteReviewedAt": "2026-10-21",
+    "youtube": {
+      "id": "wjmrHOwm4tw",
+      "url": "https://www.youtube.com/watch?v=wjmrHOwm4tw",
+      "title": "Halftime",
+      "channel": "Nas - Topic",
+      "type": "公式音源（Legacy Recordings提供）",
+      "official": true,
+      "verified": "2026-10-21",
+      "embedUrl": "https://www.youtube.com/embed/wjmrHOwm4tw",
+      "duration": "PT4M21S",
+      "japanAvailableMetadata": true,
+      "embeddableMetadata": true,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "version": "Illmatic album audio (Legacy Recordings metadata; no waveform/mastering comparison)",
+      "versionBasis": "原曲は1992年。採用音源はLegacy Recordings提供の1994年『Illmatic』収録版で、公式メタデータに曲名・アルバム・制作クレジットを確認。1992年12インチLP Versionと別にButcher Remixが存在する。各盤との波形・マスタリング比較や無修正音声の実聴は行っていない。",
+      "verification": "2026-10-21取得のwatchメタデータで261秒、playableInEmbed=true、availableCountriesにJPを確認。実聴・日本国内回線での再生検証ではありません。"
+    },
+    "aliases": [
+      "Nasty Nas — Halftime"
+    ],
+    "versionBasis": "原曲は1992年。採用音源はLegacy Recordings提供の1994年『Illmatic』収録版で、公式メタデータに曲名・アルバム・制作クレジットを確認。1992年12インチLP Versionと別にButcher Remixが存在する。各盤との波形・マスタリング比較や無修正音声の実聴は行っていない。",
+    "context": "『Illmatic』が形になる前、Nasは『Zebrahead』へ一曲を送り出していた。ソロ作品の出発点を、本人と制作側それぞれの証言からたどる。",
+    "datePublished": "2026-10-21",
+    "addedOrder": 500,
+    "art": {
+      "word": "HALFTIME",
+      "lines": [
+        "HALFTIME"
+      ],
+      "tag": "NAS",
+      "style": "piece",
+      "seed": 19921013,
+      "palette": [
+        "#171128",
+        "#765394",
+        "#b39ac9",
+        "#f1dfa2"
+      ],
+      "paletteSource": "Halftime — original1992single sleeve",
+      "paletteSourceUrl": "https://cdn-p.smehost.net/sites/35faef12c1b64b21b3fda052d205af13/wp-content/uploads/2020/09/album-nas-nastynas-halftime200.jpg",
+      "paletteNote": "実際に表示確認したオリジナル盤ジャケットの紫・ライラック・暗色とクリーム色の文字を参照した編集上の近似配色。厳密な色抽出値ではありません。"
+    }
   }
 ]

@@ -2040,6 +2040,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "editor-affinity-browser"
+    },
+    {
+      "id": "halftime",
+      "argv": [
+        "python",
+        "scripts/verify_halftime.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "halftime"
+    },
+    {
+      "id": "halftime-browser",
+      "argv": [
+        "node",
+        "scripts/verify_halftime_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "halftime-browser"
     }
   ],
   "groups": {
@@ -2431,6 +2455,11 @@
     "editor_affinity": [
       "editor-affinity",
       "editor-affinity-browser"
+    ],
+    "halftime": [
+      "halftime",
+      "halftime-browser",
+      "editor-affinity"
     ]
   },
   "runtime_rules": {
@@ -3121,14 +3150,27 @@
       "scripts/approved_person_photos.py"
     ],
     "scripts/approved_editor_affinity.py": [
-      "scripts/fixtures/approved-editor-affinity.json"
+      "scripts/fixtures/approved-editor-affinity.json",
+      "scripts/approved_halftime.py"
     ],
     "scripts/verify_editor_affinity.py": [
       "scripts/approved_editor_affinity.py",
-      "profile_content.py"
+      "profile_content.py",
+      "scripts/approved_halftime.py"
     ],
     "scripts/verify_editor_affinity_browser.cjs": [
       "scripts/fixtures/approved-editor-affinity.json"
+    ],
+    "scripts/approved_halftime.py": [
+      "scripts/fixtures/approved-halftime.json"
+    ],
+    "scripts/verify_halftime.py": [
+      "scripts/approved_halftime.py",
+      "scripts/editorial_uniqueness.py",
+      "scripts/fixtures/editorial-legacy-debt.json"
+    ],
+    "scripts/verify_halftime_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs"
     ]
   },
   "policy_paths": [
@@ -3181,7 +3223,9 @@
     "scripts/approved_person_photos.py",
     "scripts/fixtures/approved-person-photos.json",
     "scripts/approved_editor_affinity.py",
-    "scripts/fixtures/approved-editor-affinity.json"
+    "scripts/fixtures/approved-editor-affinity.json",
+    "scripts/approved_halftime.py",
+    "scripts/fixtures/approved-halftime.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -3222,7 +3266,8 @@
     "DEPLOYMENT_RULES.md",
     "FEATURE_COMPLETENESS.md",
     ".gitignore",
-    "research/intake-something-20261021.json"
+    "research/intake-something-20261021.json",
+    "research/intake-halftime-20261021.json"
   ],
   "syntax_existing": [
     "dist/app.js",
@@ -3532,6 +3577,13 @@
         "groups": [
           "something"
         ]
+      },
+      {
+        "before_sha256": "16a99301b8ec3b11f20d709a5bce9a1a36a6c631ff271f11c5031e3a82953c0d",
+        "after_sha256": "b634e00d24888bb98fb53cd191b8ffb290bb32c66048f7b2703bd917e9d0bd63",
+        "groups": [
+          "halftime"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -3569,6 +3621,13 @@
         "groups": [
           "something"
         ]
+      },
+      {
+        "before_sha256": "dacdee23a913d832924fcbdf81c19b512b1844f42d1505bc12c4192470c6d036",
+        "after_sha256": "ef193b16a56f84d776f2e37679ab8ca1cfc24cbaf3fb4187b46d275e7b364137",
+        "groups": [
+          "halftime"
+        ]
       }
     ],
     "graffiti_artwork.json": [
@@ -3605,6 +3664,13 @@
         "after_sha256": "89ed2eb6703589f7fa00d992fb84e943f5ffc6bf050c51599ef497065b257a90",
         "groups": [
           "something"
+        ]
+      },
+      {
+        "before_sha256": "89ed2eb6703589f7fa00d992fb84e943f5ffc6bf050c51599ef497065b257a90",
+        "after_sha256": "f26024b9ca55ba0b10e5f0dc62bfcc3ffc54106cfd0b577d729303a23a036305",
+        "groups": [
+          "halftime"
         ]
       }
     ],
@@ -3709,6 +3775,15 @@
         "after_sha256": "7f3992b7f4f7d6dbc9779c668a4ef4f97b922e0f4a698317bea1394699cc7b60",
         "groups": [
           "something"
+        ]
+      }
+    ],
+    "assets/graffiti/nas-halftime-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "599a6ae9cffa2b19432befd20b031a4f341af596a645663e1c2d6e7dc90d58f4",
+        "groups": [
+          "halftime"
         ]
       }
     ]

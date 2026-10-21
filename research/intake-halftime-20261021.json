@@ -1,0 +1,43 @@
+{
+  "originalRecoveredRow": {
+    "source_row_id": "Book1.xlsx:Sheet1:435",
+    "excel_row": 435,
+    "title": "Halftime",
+    "artist": "Nas",
+    "source_mix": "FOUR-MAT STUDIO 05152003",
+    "source_genre": "Mix Tape",
+    "typed_queue_source_row_ids": [
+      "Sentinel_aaa36f2a920c819181f2807f6da11dc7:17"
+    ],
+    "catalog_ids": [],
+    "status": "unresolved_overlaps_typed_queue",
+    "typed_queue_classes": [
+      "no_direct_match_requires_research"
+    ]
+  },
+  "reconciledCatalogCount": 506,
+  "reconciledCatalogSHA256": "16a99301b8ec3b11f20d709a5bce9a1a36a6c631ff271f11c5031e3a82953c0d",
+  "main": "937d73b7626932c846d09987bb0f2065659679a8",
+  "exactTitleMatches": [],
+  "status": "Source and artwork checked; local publication candidate, not yet published",
+  "note": "Source mix date is intake context, not original release date.",
+  "trackId": "nas-halftime",
+  "selectedVideo": {
+    "id": "wjmrHOwm4tw",
+    "url": "https://www.youtube.com/watch?v=wjmrHOwm4tw",
+    "title": "Halftime",
+    "channel": "Nas - Topic",
+    "type": "公式音源（Legacy Recordings提供）",
+    "official": true,
+    "verified": "2026-10-21",
+    "embedUrl": "https://www.youtube.com/embed/wjmrHOwm4tw",
+    "duration": "PT4M21S",
+    "japanAvailableMetadata": true,
+    "embeddableMetadata": true,
+    "playbackVerified": false,
+    "embeddedPlaybackVerified": false,
+    "version": "Illmatic album audio (Legacy Recordings metadata; no waveform/mastering comparison)",
+    "versionBasis": "原曲は1992年。採用音源はLegacy Recordings提供の1994年『Illmatic』収録版で、公式メタデータに曲名・アルバム・制作クレジットを確認。1992年12インチLP Versionと別にButcher Remixが存在する。各盤との波形・マスタリング比較や無修正音声の実聴は行っていない。",
+    "verification": "2026-10-21取得のwatchメタデータで261秒、playableInEmbed=true、availableCountriesにJPを確認。実聴・日本国内回線での再生検証ではありません。"
+  }
+}

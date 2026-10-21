@@ -1,0 +1,247 @@
+{
+  "base": "959a3cbbcdc9f1dde40603eed6c5f26706cd7b81",
+  "id": "nas-halftime",
+  "record": {
+    "id": "nas-halftime",
+    "title": "Halftime",
+    "artist": "Nas",
+    "artists": [
+      "Nas"
+    ],
+    "year": 1992,
+    "yearBasis": "Sony Legacyの復刻告知がオリジナル12インチを1992年と明記。Apple Musicの曲情報は1992-10-13。1994年は『Illmatic』発売年で、原曲の初出年とは分ける。",
+    "album": "Illmatic",
+    "producer": "Large Professor",
+    "producers": [
+      "Large Professor"
+    ],
+    "members": "Nas",
+    "region": "New York",
+    "scene": "New York",
+    "label": "Columbia Records（掲載『Illmatic』音源の権利表記）",
+    "category": "Hip Hop",
+    "essayTitle": "友人たちの輪から、ブースの中へ。",
+    "deck": "Large ProfessorとBusta Rhymesの回想が照らす、Nasの言葉がビートを自分のものにした瞬間。",
+    "essay": [
+      "『Illmatic』の５曲目として知られる「Halftime」には、アルバムより早い出発点がある。最初に世に出たのは1992年、Nasty Nas名義で映画『Zebrahead』のサウンドトラックに参加した時期だ。Apple Musicの曲情報は1992年10月13日を示し、SonyのLegacy Recordingsもオリジナル12インチを1992年の作品と説明している。その後、1994年４月19日発売の『Illmatic』に収録された。曲の登場年とアルバムの発売年は分けて押さえておきたい。",
+      "制作を担ったのはLarge Professor。Legacy Recordings提供の公式音源には、プロデューサーとして彼の名が、録音・ミックス担当としてKevin Reynoldsの名が記されている。Nasは2014年のNPR「Microphone Check」で、Chung King Studiosでの制作時期を1993年と尋ねられると、1992年だったと訂正。「Halftime」を最初に録音し、サウンドトラックに必要とされたため提供した、と振り返った。本人の回想からたどると、この曲は『Illmatic』へ続く制作の初期と、映画を通じたソロ・デビューが重なる地点にある。",
+      "その現場を別の角度から伝えるのが、XXLの制作証言集だ。Large Professorは、友人たちとくつろいでいたNasがブースに入ると、周囲が一気に沸いた場面を回想する。同じ記事でBusta Rhymesは、そのビートが自分の目の前で作られ、使う機会もあったものの、どう乗せるか思いつかなかったと語っている。後にNasの録音を聴いて悔やんだという証言は、同じビートでも誰が言葉を置くかによって作品が決まることを思わせる。これは2009年４月号に掲載され、2014年４月16日にウェブで再掲された回想であり、1992年当時の取材として扱わないようにしたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        5
+      ]
+    ],
+    "facts": [
+      {
+        "title": "原曲の登場年とアルバムの発売年",
+        "text": "1992年の原曲と、1994年4月19日発売の『Illmatic』収録を区別しています。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "掲載音源と制作クレジット",
+        "text": "Legacy Recordings提供の『Illmatic』音源。プロデュースはLarge Professor、録音・ミックスはKevin Reynoldsと明記されています。",
+        "sources": [
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用された個別サンプルの録音・出典は未照合。サンプル不使用を意味しません。",
+    "sources": [
+      {
+        "label": "Apple Music — Halftime（1992年10月13日の曲情報）",
+        "url": "https://music.apple.com/us/song/201424752",
+        "kind": "配信メタデータ"
+      },
+      {
+        "label": "Sony Legacy Recordings — 1992年オリジナル12インチの復刻告知（2013-10-16）",
+        "url": "https://www.legacyrecordings.com/2013/10/16/legacy-recordings-announces-limited-edition-vinyl-exclusives-for-record-store-day-black-friday-friday-november-29-2013/",
+        "kind": "レーベル公式資料"
+      },
+      {
+        "label": "Apple Music — Illmatic（1994-04-19）",
+        "url": "https://music.apple.com/us/album/illmatic/856131729",
+        "kind": "公式配信情報"
+      },
+      {
+        "label": "Nas — Halftime / Legacy Recordings提供の公式音源・制作クレジット",
+        "url": "https://www.youtube.com/watch?v=wjmrHOwm4tw",
+        "kind": "公式音源・制作クレジット"
+      },
+      {
+        "label": "Nas / NPR Microphone Check — Ali Shaheed Muhammad・Frannie Kelleyによる取材（2014-04-23、転載全文）",
+        "url": "https://www.northcountrypublicradio.org/news/npr/305629896/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "XXL — An Oral History of Nas’ Illmatic（2009年4月号、2014-04-16ウェブ再掲）",
+        "url": "https://www.xxlmag.com/making-of-nas-illmatic/",
+        "kind": "制作当事者の回想"
+      }
+    ],
+    "connections": [
+      "nas-n-y-state-of-mind",
+      "nas-the-world-is-yours"
+    ],
+    "listening": [
+      "Large ProfessorとBustaの異なる回想を読んでから、同じビートをNasがどう言葉で引き受けるのかに耳を向けたい。"
+    ],
+    "moods": [
+      "グルーヴ",
+      "緊張感"
+    ],
+    "sounds": [
+      "ドラム",
+      "ラップ"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [
+      "raw-beats"
+    ],
+    "audioVerificationStatus": "公式音源の曲名・アルバム・制作クレジット、261秒、日本を含む配信対象国、埋め込み可のメタデータを確認。日本国内の実再生・埋め込み実再生は未確認。",
+    "editorialStatus": "原曲の発売年、制作当事者の回想、公式音源の情報を出典付きで掲載。日本国内からの実再生と埋め込み再生は未確認。",
+    "noteReviewedAt": "2026-10-21",
+    "youtube": {
+      "id": "wjmrHOwm4tw",
+      "url": "https://www.youtube.com/watch?v=wjmrHOwm4tw",
+      "title": "Halftime",
+      "channel": "Nas - Topic",
+      "type": "公式音源（Legacy Recordings提供）",
+      "official": true,
+      "verified": "2026-10-21",
+      "embedUrl": "https://www.youtube.com/embed/wjmrHOwm4tw",
+      "duration": "PT4M21S",
+      "japanAvailableMetadata": true,
+      "embeddableMetadata": true,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "version": "Illmatic album audio (Legacy Recordings metadata; no waveform/mastering comparison)",
+      "versionBasis": "原曲は1992年。採用音源はLegacy Recordings提供の1994年『Illmatic』収録版で、公式メタデータに曲名・アルバム・制作クレジットを確認。1992年12インチLP Versionと別にButcher Remixが存在する。各盤との波形・マスタリング比較や無修正音声の実聴は行っていない。",
+      "verification": "2026-10-21取得のwatchメタデータで261秒、playableInEmbed=true、availableCountriesにJPを確認。実聴・日本国内回線での再生検証ではありません。"
+    },
+    "aliases": [
+      "Nasty Nas — Halftime"
+    ],
+    "versionBasis": "原曲は1992年。採用音源はLegacy Recordings提供の1994年『Illmatic』収録版で、公式メタデータに曲名・アルバム・制作クレジットを確認。1992年12インチLP Versionと別にButcher Remixが存在する。各盤との波形・マスタリング比較や無修正音声の実聴は行っていない。",
+    "context": "『Illmatic』が形になる前、Nasは『Zebrahead』へ一曲を送り出していた。ソロ作品の出発点を、本人と制作側それぞれの証言からたどる。",
+    "datePublished": "2026-10-21",
+    "addedOrder": 500,
+    "art": {
+      "word": "HALFTIME",
+      "lines": [
+        "HALFTIME"
+      ],
+      "tag": "NAS",
+      "style": "piece",
+      "seed": 19921013,
+      "palette": [
+        "#171128",
+        "#765394",
+        "#b39ac9",
+        "#f1dfa2"
+      ],
+      "paletteSource": "Halftime — original1992single sleeve",
+      "paletteSourceUrl": "https://cdn-p.smehost.net/sites/35faef12c1b64b21b3fda052d205af13/wp-content/uploads/2020/09/album-nas-nastynas-halftime200.jpg",
+      "paletteNote": "実際に表示確認したオリジナル盤ジャケットの紫・ライラック・暗色とクリーム色の文字を参照した編集上の近似配色。厳密な色抽出値ではありません。"
+    }
+  },
+  "deepdive": {
+    "artist": "Nas",
+    "title": "Halftime",
+    "sections": [
+      {
+        "heading": "DIG DEEPER 01｜12インチの「LP Version」を起点に",
+        "text": "Sonyが2013年の復刻盤で示した曲順では、A面にRadio Edit、LP Version、そのインストゥルメンタル、B面にButcher Remixとそのインストゥルメンタルが並ぶ。「Halftime」という曲名だけで選ぶと別ミックスに行き着くこともあるため、まず原曲のLP Versionを基準にするのが確実だ。今回のリンクはLegacy Recordingsが提供する『Illmatic』収録音源で、Butcher Remixではない。",
+        "sources": [
+          1,
+          3
+        ],
+        "source": "https://www.legacyrecordings.com/2013/10/16/legacy-recordings-announces-limited-edition-vinyl-exclusives-for-record-store-day-black-friday-friday-november-29-2013/",
+        "sourceLabel": "Sony Legacy Recordings — 1992年オリジナル12インチの復刻告知（2013-10-16）"
+      },
+      {
+        "heading": "DIG DEEPER 02｜制作年はNas自身の訂正から読む",
+        "text": "NPRのインタビューで注目したいのは、聞き手が挙げた1993年をNasが1992年に直している点。サウンドトラックへの提供、その後のアルバム制作という順序が、本人の言葉でつながる。さらにXXLのLarge ProfessorとBusta Rhymesの回想を合わせれば、完成したレコードのクレジットだけでは見えない、録音現場とビート選びの過程まで追える。ただし、Bustaの証言を「彼のために正式発注された曲」と言い換える根拠はない。",
+        "sources": [
+          4,
+          5
+        ],
+        "source": "https://www.northcountrypublicradio.org/news/npr/305629896/",
+        "sourceLabel": "Nas / NPR Microphone Check — Ali Shaheed Muhammad・Frannie Kelleyによる取材（2014-04-23、転載全文）"
+      }
+    ]
+  },
+  "artEntry": {
+    "palette": [
+      "#171128",
+      "#765394",
+      "#b39ac9",
+      "#f1dfa2"
+    ],
+    "paletteSource": "Halftime — original1992single sleeve",
+    "paletteSourceUrl": "https://cdn-p.smehost.net/sites/35faef12c1b64b21b3fda052d205af13/wp-content/uploads/2020/09/album-nas-nastynas-halftime200.jpg",
+    "paletteNote": "実際に表示確認したオリジナル盤ジャケットの紫・ライラック・暗色とクリーム色の文字を参照した編集上の近似配色。厳密な色抽出値ではありません。",
+    "id": "nas-halftime",
+    "status": "ready",
+    "image": "assets/graffiti/nas-halftime-alpha.webp",
+    "transparent": true,
+    "textReviewed": true,
+    "paletteReviewed": true
+  },
+  "files": {
+    "tracks.json": {
+      "beforeSHA256": "16a99301b8ec3b11f20d709a5bce9a1a36a6c631ff271f11c5031e3a82953c0d",
+      "afterSHA256": "b634e00d24888bb98fb53cd191b8ffb290bb32c66048f7b2703bd917e9d0bd63",
+      "arrayKey": null,
+      "beforeCount": 506
+    },
+    "editorial_deepdives.json": {
+      "beforeSHA256": "dacdee23a913d832924fcbdf81c19b512b1844f42d1505bc12c4192470c6d036",
+      "afterSHA256": "ef193b16a56f84d776f2e37679ab8ca1cfc24cbaf3fb4187b46d275e7b364137",
+      "arrayKey": null,
+      "beforeCount": 166
+    },
+    "graffiti_artwork.json": {
+      "beforeSHA256": "89ed2eb6703589f7fa00d992fb84e943f5ffc6bf050c51599ef497065b257a90",
+      "afterSHA256": "f26024b9ca55ba0b10e5f0dc62bfcc3ffc54106cfd0b577d729303a23a036305",
+      "arrayKey": "tracks",
+      "beforeCount": 506
+    },
+    "releases.json": {
+      "beforeSHA256": "1d88eb7d9121407e81fcd8ad2a8ececc9450fe15b781b3ae791a47b3672c6347",
+      "afterSHA256": "9dae66757fc917ef794135c6edf409081885c7b92d5545111b8af74cd50f9264",
+      "beforeVersion": "22.25"
+    }
+  },
+  "protected": {
+    "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+    "artist_entities.json": "9e952d640f20e0c203e6bbcba1746da53eb014bfc05f957b86dea2c77fb0c02f",
+    "editor_profile.json": "977a36f96e638d8d7fa925235ad9dc70c9e7607ae6d220a43b82b789c8746caa",
+    "guides.json": "4577ae94470e8dec95a99868919c560cbdba95be988ddf7497216b9abb44f6d8",
+    "listening_shelves.json": "26f634c98c577a68ab0b2e2a09472f759b9e20bb776931425ad6bed1d9880aa8"
+  },
+  "asset": {
+    "sha256": "599a6ae9cffa2b19432befd20b031a4f341af596a645663e1c2d6e7dc90d58f4",
+    "dimensions": [
+      1774,
+      887
+    ],
+    "rgbaSHA256": "31133814d89528952a118e4dd1fd5a65fb36e64fd665ceeaa0924eef6dae3c27"
+  }
+}
