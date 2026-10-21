@@ -5,6 +5,8 @@ R=Path(__file__).resolve().parents[1]
 F=json.loads((R/'scripts/fixtures/approved-road-editorial.json').read_text())
 sha=lambda b:hashlib.sha256(b).hexdigest()
 def historical_road_file(path,data):
+ from approved_something import historical_something_file
+ data=historical_something_file(path,data)
  spec=F['files'].get(path)
  if spec is None:return data
  assert sha(data)==spec['afterSHA256'],'Unapproved Road of the Lonely Ones editorial drift: '+path

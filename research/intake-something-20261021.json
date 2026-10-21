@@ -1,0 +1,37 @@
+{
+  "sourceMessage": "Sentinel_844de5bff7fc8191bb59574c12c0f3f5",
+  "sourceRow": 3,
+  "intakeMix": "TRUE SCHOOL UNDERGROUND CONTEMPORARY MIX VOL.1",
+  "submittedTitle": "Something",
+  "submittedArtist": "Hassaan Mackey & Apollo Brown",
+  "submittedMixYear": 2012,
+  "submittedSegmentDuration": "2:02",
+  "trackId": "hassaan-mackey-apollo-brown-something",
+  "originalReleaseYear": 2011,
+  "versionRule": "Mix year and segment duration retained as intake provenance, not substituted for original work metadata.",
+  "officialSourcesSearched": [
+    "https://apollobrown360.bandcamp.com/album/daily-bread",
+    "https://apollobrown360.bandcamp.com/track/something",
+    "https://www.michiganhiphop.com/2010/08/31/apollo-brown-interview/",
+    "https://grindin.net/news/apollo-brown-interview/",
+    "https://musicismysanctuary.com/apollo-brown-hassan-mackey",
+    "https://soundcloud.com/mellomusicgroup/hassaan-mackey-apollo-brown",
+    "https://www.mellomusicgroup.com/pages/apollo-brown-the-reset"
+  ],
+  "selectedVideo": {
+    "id": "ugRgKqQ3x4M",
+    "url": "https://www.youtube.com/watch?v=ugRgKqQ3x4M",
+    "title": "Hassaan Mackey & Apollo Brown - Something",
+    "channel": "Nathan Weckesser",
+    "type": "一般ユーザー投稿（非公式）",
+    "official": false,
+    "verified": "2026-10-21",
+    "embedUrl": "https://www.youtube.com/embed/ugRgKqQ3x4M",
+    "playbackVerified": false,
+    "embeddedPlaybackVerified": false,
+    "version": "Daily Bread album track (uploader metadata; audio comparison not performed)",
+    "versionBasis": "2011年Daily Breadの第3曲。公式Bandcampは3分09秒。採用YouTubeは同曲名・アルバム情報を持つ一般ユーザー投稿で、原盤との音声・マスタリング比較、動画全長、日本国内の再生は未確認。",
+    "verification": "YouTube oEmbedで曲名・投稿者を照合。動画全長・配信対象国・埋め込み許可は未確認。実再生検証ではありません。"
+  },
+  "sampleIdentity": "unverified; no inferred sample record"
+}

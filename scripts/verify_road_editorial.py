@@ -1,6 +1,7 @@
 """One cited editorial correction, without any recording, artwork or credit change."""
 from pathlib import Path
 import argparse,json,sys
+from approved_something import historical_something_file
 from approved_road_editorial import F,historical_road_file,sha
 R=Path(__file__).resolve().parents[1]
 p=argparse.ArgumentParser();p.add_argument('--source-only',action='store_true');a=p.parse_args()
@@ -10,8 +11,8 @@ for name,spec in F['files'].items():
   try:historical_road_file(name,bad)
   except AssertionError:pass
   else:raise AssertionError('Unapproved partial/drift accepted')
-for name,h in F['protected'].items():assert sha((R/name).read_bytes())==h,name
-tracks=json.loads((R/'tracks.json').read_text());old=json.loads(historical_road_file('tracks.json',(R/'tracks.json').read_bytes()))
+for name,h in F['protected'].items():assert sha(historical_something_file(name,(R/name).read_bytes()))==h,name
+tracks=json.loads(historical_something_file('tracks.json',(R/'tracks.json').read_bytes()));old=json.loads(historical_road_file('tracks.json',(R/'tracks.json').read_bytes()))
 assert len(tracks)==len(old)==505
 changed=[(x,y) for x,y in zip(old,tracks) if x!=y];assert len(changed)==1
 before,t=changed[0];c=F['correction'];assert before==c['before'] and t==c['after']
