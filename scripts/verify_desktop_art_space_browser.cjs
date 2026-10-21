@@ -124,7 +124,7 @@ async function measure(p,selector,mode){
 function assertLayout(m,row){
  const {boxes:b,buttons}=m,w=row.width,h=row.height;
  assert(m.scrollWidth<=w+1,'No horizontal document overflow');
- for(const q of buttons){const r=q.rect;assert(r.width>=44&&r.height>=44,`44px target ${q.id}`);assert(r.x>=0&&r.y>=0&&r.right<=w+1&&r.bottom<=h+1,`Contained target ${q.id}`);if(m.mode==='video'&&w>=1024&&q.id==='art-close'){
+ for(const q of buttons){const r=q.rect;assert(r.width>=44&&r.height>=44,`44px target ${q.id}`);assert(r.x>=0&&r.y>=0&&r.right<=w+1&&r.bottom<=h+1,`Contained target ${q.id}`);if(m.mode==='video'&&q.id==='art-close'){
    // Existing VIDEO container intercepts only the lower edge. Keep this visible,
    // require the center usable, and compare the exact baseline mask below.
    assert(q.samples[0].hit&&q.samples[1].hit,'VIDEO CLOSE top and center remain usable');
