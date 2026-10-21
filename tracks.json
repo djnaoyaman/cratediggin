@@ -17872,12 +17872,11 @@
       "lettering": "subway",
       "letteringNote": "曲ごとの独自の編集表現。"
     },
-    "deck": "ざらついた音の重なりに、声が輪郭を与える。",
-    "essayTitle": "入口から、耳を揺さぶる。",
+    "deck": "MCAが持ち帰ったデモに、ほかの二人も加わりたくなった。",
+    "essayTitle": "Marioの家で録った声が、三人をラップへ戻した。",
     "essay": [
-      "最初から音がきれいに整列しているわけではない。ざらつきも、揺れも、そのまま曲の手触りになる。磨きすぎない音には、こちらの耳が触れる余地がある。",
-      "声が入ると、散らばっていた音に方向が生まれる。何が鳴っているかを数えるより、どう重なって聞こえるかを楽しみたい。",
-      "ここに記したのは編者の聴感です。"
+      "Mario Caldato Jr.の回想では、「Jimmy James」はMCAとMarioの自宅スタジオで組み立てたデモから育った。MCAは仲間のいるスタジオでラップするのを気恥ずかしがり、Marioの家で仮の声を録ったという。",
+      "翌日それを聴いた仲間が参加を望み、ラップへの意欲が戻ってきた。インスト作品も考えていた時期に、一人の声が三人の曲を動かした。"
     ],
     "facts": [
       {
@@ -17898,10 +17897,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の個別照合は継続中。サンプル不使用を意味しません。",
     "listening": [
-      "ざらついた音の重なりに、声が輪郭を与える。",
-      "声が交代する瞬間と、ビートの隙間。"
+      "三人の声を、デモを聴いて参加したくなった応答として捉えてみる。"
     ],
-    "context": "90年代を中心に、その前史と後の展開をBeastie Boysの選曲でつなぐ。",
+    "context": "ラップ再開のきっかけになった、自宅での試作。",
     "sources": [
       {
         "label": "Beastie Boys — 公式ディスコグラフィー",
@@ -17912,6 +17910,11 @@
         "label": "BeastieBoys — Beastie Boys - Jimmy James (Official Music Video)",
         "url": "https://www.youtube.com/watch?v=vw5i7TPkYfI",
         "kind": "公式音源（公開情報で投稿者を確認）"
+      },
+      {
+        "label": "Mario Caldato Jr. — RBMA Barcelona 2008",
+        "url": "https://www.redbullmusicacademy.com/lectures/mario-caldato-jr-surfing-the-meterbridge/",
+        "kind": "制作当事者の講演記録"
       }
     ],
     "producers": [],
@@ -17931,7 +17934,15 @@
     "editorialCrates": [
       "cut-scratch"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "beastie-boys-shake-your-rump",
@@ -17979,12 +17990,11 @@
       "lettering": "subway",
       "letteringNote": "曲ごとの独自の編集表現。"
     },
-    "deck": "断片の切り替わりを、身体で受け止める一曲。",
-    "essayTitle": "腰のほうが、先にわかる。",
+    "deck": "Dust Brothersの提案を、Beastie Boysは逆に受け取った。",
+    "essayTitle": "音を減らさず、その上にラップを乗せる。",
     "essay": [
-      "音の景色が次々に変わる。ところが身体は、そのたびに立ち止まったりしない。耳が整理するより先に、腰のほうが話を理解している。",
-      "声の受け渡しとビートの切り替わり。細部に耳を向けるほど、騒がしさの中の組み立てが見えてくる。",
-      "ここに記したのは編者の聴感です。"
+      "MCAはSPINの口述史で、「Shake Your Rump」になる音源を初めて聴いた場面を語っている。Dust Brothersは音が多すぎるのでビートだけに整理できると申し出たが、彼らはそのままラップしたかった。",
+      "声のために場所を空けるより、すでにある音へ加わる。その選択を知ると、伴奏を背景に退けず、ラップと並ぶ存在として追いたくなる。"
     ],
     "facts": [
       {
@@ -18005,10 +18015,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の個別照合は継続中。サンプル不使用を意味しません。",
     "listening": [
-      "断片の切り替わりを、身体で受け止める一曲。",
-      "声が交代する瞬間と、ビートの隙間。"
+      "声だけでなく、減らされず残った伴奏との関係を追う。"
     ],
-    "context": "90年代を中心に、その前史と後の展開をBeastie Boysの選曲でつなぐ。",
+    "context": "引き算を断り、元の音の重なりを選んだ。",
     "sources": [
       {
         "label": "Beastie Boys — 公式ディスコグラフィー",
@@ -18019,6 +18028,11 @@
         "label": "Beastie Boys - Topic — Shake Your Rump",
         "url": "https://www.youtube.com/watch?v=YxaPrPfATuQ",
         "kind": "公式音源（公開情報で投稿者を確認）"
+      },
+      {
+        "label": "Alan Light — Beastie Boys口述史 / SPIN",
+        "url": "https://www.spinmagazine.com/1998/09/story-yo-oral-history-beastie-boys/4/",
+        "kind": "本人・制作関係者の証言"
       }
     ],
     "producers": [],
@@ -18034,6 +18048,14 @@
     "collections": [
       "pizza",
       "east"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
     ]
   },
   {
@@ -18210,12 +18232,11 @@
       "lettering": "subway",
       "letteringNote": "曲ごとの独自の編集表現。"
     },
-    "deck": "三人の声の受け渡しが、曲の推進力になる。",
-    "essayTitle": "マイクを渡すと、景色も変わる。",
+    "deck": "James Newtonは、フルートを吹きながら歌っていた。",
+    "essayTitle": "笛の断片には、吹き手の声も入っている。",
     "essay": [
-      "マイクを渡す。ごく簡単な動作なのに、声が替わるだけで曲の空気も替わる。同じビートの上に、違う重心が現れる。",
-      "一人の名演を聴くというより、三人の間に生まれる動きを聴く。順番を守ることと、遠慮することは、どうやら別の話らしい。",
-      "ここに記したのは編者の聴感です。"
+      "「Pass the Mic」が取り込んだ「Choir」の約六秒は、フルートだけの演奏ではない。2002年のNewton対Diamond判決の事実記載は、James Newtonが笛の音を保ちながら、同時に声の音程を動かす箇所だと説明している。",
+      "ラッパーたちの声を追う曲で、サンプルの内側にも別の人の声がある。元の「Choir」と行き来して、その二重の演奏へ注意を向けてみたい。"
     ],
     "facts": [
       {
@@ -18236,10 +18257,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の個別照合は継続中。サンプル不使用を意味しません。",
     "listening": [
-      "三人の声の受け渡しが、曲の推進力になる。",
-      "声が交代する瞬間と、ビートの隙間。"
+      "サンプルを笛だけと決めつけず、声と楽器が重なる演奏として探る。"
     ],
-    "context": "90年代を中心に、その前史と後の展開をBeastie Boysの選曲でつなぐ。",
+    "context": "サンプルの中に残る、吹くことと歌うこと。",
     "sources": [
       {
         "label": "Beastie Boys — 公式ディスコグラフィー",
@@ -18250,6 +18270,11 @@
         "label": "BeastieBoysVEVO — Beastie Boys - Pass the Mic (Official Music Video)",
         "url": "https://www.youtube.com/watch?v=NpsvBvwRuf0",
         "kind": "公式音源（公開情報で投稿者を確認）"
+      },
+      {
+        "label": "Newton v. Diamond（2002）— 判決本文・事実記載",
+        "url": "https://www.casemine.com/judgement/us/5914b8ceadd7b049347875f5?locale=en_UK",
+        "kind": "裁判記録（転載）"
       }
     ],
     "producers": [],
@@ -18265,6 +18290,14 @@
     "collections": [
       "pizza",
       "east"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
     ]
   },
   {
@@ -18313,12 +18346,11 @@
       "lettering": "subway",
       "letteringNote": "曲ごとの独自の編集表現。"
     },
-    "deck": "短い反復と声の掛け合いが、勢いをつくる。",
-    "essayTitle": "声だけで、街は賑やかになる。",
+    "deck": "Peggy Lee版の冒頭が手がかり。",
+    "essayTitle": "カバーの出だしが、ラップの土台になる。",
     "essay": [
-      "声が重なり、短いフレーズが戻ってくる。その繰り返しが、曲を小さくまとめるのではなく、むしろ勢いを増していく。",
-      "ここでは、隙間もひとつの聴きどころだ。言葉が詰まる瞬間と、ビートが顔を出す瞬間。その往復に耳を預けたい。",
-      "ここに記したのは編者の聴感です。"
+      "音楽教育者Ethan Heinは、Peggy Leeによる1969年の「The Dock of the Bay」の冒頭のドラムが、「Ch-Check It Out」に使われていると解説している。",
+      "歌が始まる前にも、別の曲へつながる材料がある。"
     ],
     "facts": [
       {
@@ -18339,10 +18371,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の個別照合は継続中。サンプル不使用を意味しません。",
     "listening": [
-      "短い反復と声の掛け合いが、勢いをつくる。",
-      "声が交代する瞬間と、ビートの隙間。"
+      "Peggy Lee版の冒頭と聴き比べる。"
     ],
-    "context": "90年代を中心に、その前史と後の展開をBeastie Boysの選曲でつなぐ。",
+    "context": "歌の前にある材料。",
     "sources": [
       {
         "label": "Beastie Boys — 公式ディスコグラフィー",
@@ -18353,6 +18384,11 @@
         "label": "BeastieBoysVEVO — Beastie Boys - Ch-Check It Out",
         "url": "https://www.youtube.com/watch?v=6iuGp9gUeNk",
         "kind": "公式音源（公開情報で投稿者を確認）"
+      },
+      {
+        "label": "Ethan Hein — The Dock of the Bay解説 / MusicRadar",
+        "url": "https://www.musicradar.com/artists/one-of-the-hardest-things-i-ever-had-to-do-was-mix-that-song-a-music-professor-breaks-down-steve-cropper-and-otis-reddings-sittin-on-the-dock-of-the-bay",
+        "kind": "音楽教育者の署名分析"
       }
     ],
     "producers": [],
@@ -18368,6 +18404,14 @@
     "collections": [
       "pizza",
       "east"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
     ]
   },
   {
@@ -18416,12 +18460,11 @@
       "lettering": "subway",
       "letteringNote": "曲ごとの独自の編集表現。"
     },
-    "deck": "原曲とは区別して聴く、41 Small Stars Remix。",
-    "essayTitle": "同じ言葉にも、別の部屋がある。",
+    "deck": "41 Small Starsの名の向こうにいるのはAd-Rock。",
+    "essayTitle": "別名で組み直すのは、メンバー本人だった。",
     "essay": [
-      "リミックスを選ぶというのは、曲名だけでは選曲が終わらないということだ。同じ言葉でも、周囲の音が変われば、耳が向かう場所は変わる。",
-      "このクレートでは、41 Small Stars Remixを独立した一曲として置いた。声と伴奏の距離を追いながら、別の角度から曲に近づきたい。",
-      "ここに記したのは編者の聴感です。"
+      "The QuietusのNoel Gardnerは、このリミックスをAd-Rockが41 Small Stars名義でドラムを切り刻み、強めた版と評している。外から招かれた別人ではなく、メンバー自身が曲を組み直している。",
+      "この評を手がかりに原曲と比べるなら、まず打楽器へ。声の違いを探すだけではない、自分たちの曲の読み直しとして聴く入口になる。"
     ],
     "facts": [
       {
@@ -18443,10 +18486,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の個別照合は継続中。サンプル不使用を意味しません。",
     "listening": [
-      "原曲とは区別して聴く、41 Small Stars Remix。",
-      "声が交代する瞬間と、ビートの隙間。"
+      "Gardnerの評を手がかりに、原曲とドラムの扱いを比較する。"
     ],
-    "context": "90年代を中心に、その前史と後の展開をBeastie Boysの選曲でつなぐ。",
+    "context": "本人が別名で施したリミックス。",
     "sources": [
       {
         "label": "Beastie Boys — 公式ディスコグラフィー",
@@ -18462,6 +18504,11 @@
         "label": "The Negotiation Limerick File — リミックス盤の収録情報",
         "url": "https://en.wikipedia.org/wiki/The_Negotiation_Limerick_File",
         "kind": "二次資料 / 1998年のリミックス収録情報"
+      },
+      {
+        "label": "Noel Gardner — Hello Nasty再発評 / The Quietus",
+        "url": "https://thequietus.com/quietus-reviews/beastie-boys-hello-nasty-reissue-album-review/",
+        "kind": "署名音楽評論"
       }
     ],
     "producers": [],
@@ -18477,6 +18524,14 @@
     "collections": [
       "pizza",
       "east"
+    ],
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        3
+      ]
     ]
   },
   {
@@ -18873,12 +18928,10 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "声の軽さと、ビートの足取りを楽しむオリジナル版。",
-    "essayTitle": "今月の味は、まだ残る。",
+    "deck": "Dresが気にした冒頭。",
+    "essayTitle": "新しい味のつもりが、先輩への挑発に聞こえた。",
     "essay": [
-      "声がこちらへ近づいてくるのに、肩には力が入っていない。ビートの上を軽く歩くような語り口が、曲の入口を広くしている。",
-      "このクレートではオリジナルを選んだ。短いフレーズの戻り方と、声が置かれる位置に耳を向けると、繰り返しにも表情が見える。",
-      "ここに記したのは編者の聴感です。"
+      "Dresによれば、冒頭がBig Daddy Kaneへの当てこすりに聞こえないか、Lawngeに確かめたという。Paul Arnoldの取材で、Lawngeの意図は自分たちを新しい味に見立てた自己紹介だったと説明する。"
     ],
     "facts": [
       {
@@ -18899,10 +18952,9 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "声の軽さと、ビートの足取りを楽しむオリジナル版。",
-      "声とビートの間合い。"
+      "冒頭を自己紹介として捉え直す。"
     ],
-    "context": "Black Sheepの各作品を、声とグルーヴの違いからたどる。",
+    "context": "意図と受け取られ方。",
     "sources": [
       {
         "label": "収録作品・配信情報",
@@ -18913,6 +18965,11 @@
         "label": "Black Sheep - Topic — Flavor Of The Month",
         "url": "https://www.youtube.com/watch?v=Hfn_3FcyjVQ",
         "kind": "公式音源"
+      },
+      {
+        "label": "Paul ArnoldによるDres取材（HipHopDX 2011／Rapchive保存版）",
+        "url": "https://rapchive.com/news/timeless-dres-revisits-black-sheep-s-a-wolf-in-sheep-s-clothing/",
+        "kind": "本人インタビューの保存転載"
       }
     ],
     "producers": [],
@@ -18928,6 +18985,11 @@
       "pizza",
       "walk",
       "east"
+    ],
+    "essaySources": [
+      [
+        2
+      ]
     ]
   },
   {
@@ -18977,12 +19039,10 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "声と伴奏の隙間から、曲の癖を楽しむ。",
-    "essayTitle": "軽さの中にも、引っかかりがある。",
+    "deck": "一時停止ボタンで作詞の準備。",
+    "essayTitle": "ラップを書くために、自分でループを延ばした。",
     "essay": [
-      "少し変わった音の手触りに、声が収まっていく。整いすぎないからこそ、こちらの耳が立ち止まる場所がある。",
-      "声だけを追っていた耳を、伴奏のほうへ戻してみる。同じ曲なのに、別の表情が見つかる。その行き来を楽しみたい。",
-      "ここに記したのは編者の聴感です。"
+      "DresはPaul Arnoldの取材で、「Similak Child」のアルバム版の主なループを一時停止ボタンで約五分に延ばし、詞を書いたと振り返る。ラップする本人も、伴奏を繰り返す作業に加わっていた。"
     ],
     "facts": [
       {
@@ -19003,10 +19063,9 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "声と伴奏の隙間から、曲の癖を楽しむ。",
-      "声とビートの間合い。"
+      "作詞のためのループへ耳を戻す。"
     ],
-    "context": "Black Sheepの各作品を、声とグルーヴの違いからたどる。",
+    "context": "書くための手作業。",
     "sources": [
       {
         "label": "収録作品・配信情報",
@@ -19017,6 +19076,11 @@
         "label": "Black Sheep - Topic — Similak Child",
         "url": "https://www.youtube.com/watch?v=hORxJgl8gFg",
         "kind": "公式音源"
+      },
+      {
+        "label": "Paul ArnoldによるDres取材（HipHopDX 2011／Rapchive保存版）",
+        "url": "https://rapchive.com/news/timeless-dres-revisits-black-sheep-s-a-wolf-in-sheep-s-clothing/",
+        "kind": "本人インタビューの保存転載"
       }
     ],
     "producers": [],
@@ -19032,6 +19096,11 @@
       "pizza",
       "walk",
       "east"
+    ],
+    "essaySources": [
+      [
+        2
+      ]
     ]
   },
   {
