@@ -15186,11 +15186,11 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "グラフィティとラップの関係を、選曲でもたどる。",
-    "essayTitle": "グラフィティからビートと声へ戻る",
+    "deck": "T-Rayが用意したのは、曲だけではなかった。",
+    "essayTitle": "聴くためだけでなく、DJが使うための一枚。",
     "essay": [
-      "グラフィティとラップの関係を、選曲でもたどる。",
-      "グラフィティという入口から曲へ進み、最後はビートと声へ戻ってみる。文化のつながりを知ることが、音そのものを聴く楽しさにもつながる。"
+      "T-RayはUnkutの取材で、この曲の12インチに複数の曲、ボーナス・ビート、アカペラを入れたかったと語る。DJに必要なものを揃えるためだった。",
+      "完成した一曲として聴く先に、声とビートを別々に扱い、次の曲へつなぐ使い方も見えてくる。"
     ],
     "facts": [
       {
@@ -15211,9 +15211,9 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "グラフィティとラップの関係を、選曲でもたどる。"
+      "曲に加え、声だけ・ビートだけの版が何を可能にするか考える。"
     ],
-    "context": "グラフィティという入口から曲へ進み、最後はビートと声へ戻ってみる。文化のつながりを知ることが、音そのものを聴く楽しさにもつながる。",
+    "context": "DJへ素材を渡すことまで考えたシングル。",
     "sources": [
       {
         "label": "YouTube — Artifacts / Wrong Side of da Tracks",
@@ -15225,6 +15225,11 @@
         "url": "https://ellarecords.jp/cdn/shop/files/20260117_090.jpg?v=1769501767&width=1946",
         "kind": "原盤画像（第三者レコード店掲載）",
         "scope": "1994年US盤12インチのA面。LP Version（4:19）の収録と、T-Rayによる制作・ミックス、Artifacts名義の共同制作を記載。"
+      },
+      {
+        "label": "T-Ray — Unkut interview, part 2（2007）",
+        "url": "https://unkut.com/2007/08/t-ray-the-unkut-interview-part-2/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -15241,7 +15246,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "artifacts-c-mon-wit-da-git-down",
@@ -15383,11 +15396,11 @@
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "低い重心のまま、声の掛け合いを楽しむ。",
-    "essayTitle": "低い重心の上、掛け合う声を追う",
+    "deck": "Hakim Greenが語った、曲に込めた別の視点。",
+    "essayTitle": "集まって楽しむ側の話を、歌にする。",
     "essay": [
-      "低い重心のまま、声の掛け合いを楽しむ。",
-      "低い重心を保つ背景と、掛け合う声を別々に追ってみる。曲の熱が上がっても足場は崩れない。その安定が声の自由を支えているように聞こえる。"
+      "Hakim GreenはHoneysuckleで、麻薬戦争の影響を受ける二世代を見て育ったと振り返る。一方、大麻を囲んで人が集まり楽しむ面は認められていなかった、とも語った。",
+      "「Mad Izm」はその見方を変える機会だったという。ここでは健康への評価ではなく、誰の経験を歌に残そうとしたのかに耳を向けたい。"
     ],
     "facts": [
       {
@@ -15401,9 +15414,9 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "低い重心のまま、声の掛け合いを楽しむ。"
+      "楽しさの表現を、本人が語る社会的な背景と合わせて捉える。"
     ],
-    "context": "低い重心を保つ背景と、掛け合う声を別々に追ってみる。曲の熱が上がっても足場は崩れない。その安定が声の自由を支えているように聞こえる。",
+    "context": "否定的に語られてきた経験を、当事者の側から歌ったという本人の説明。",
     "sources": [
       {
         "label": "YouTube — 音源を探す",
@@ -15414,6 +15427,11 @@
         "url": "https://www.youtube.com/watch?v=oEd1bDKWX7c",
         "label": "Channel Live - Topic — Mad Izm",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Chelsea Young — Hakim Green Celebrates 25 Years of Mad Izm / Honeysuckle",
+        "url": "https://honeysucklemag.com/hakim-green-25-years-of-mad-izm/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [],
@@ -15428,7 +15446,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "nine-whutcha-want",
@@ -15477,11 +15503,11 @@
       "lettering": "stencil",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "一度で覚える声の質感。ビートも、その声を支える。",
-    "essayTitle": "声の質感を主役にするビートの余白",
+    "deck": "限られた映像予算にも、Nineは選択を残した。",
+    "essayTitle": "ジープ一台で、自分の曲を街へ出す。",
     "essay": [
-      "一度で覚える声の質感。ビートも、その声を支える。",
-      "まず声の質感を覚え、次にその周囲の音を聴く。特徴のある声を主役として置くために、ビートがどんな余白を作るかを楽しみたい。"
+      "NineはVALIDATEDで、この曲のビデオ予算は1万5千ドルだったと振り返る。学生たちと考えたのは、ジープでBroadwayからWashington Square Parkへ走り、その車内でラップする案だった。",
+      "さらに、普段目にする映像とは違う、肌の色の濃い女性を運転役に望んだという。豪華さではなく、誰を画面に置くかまで自分で決めた一曲として捉えたい。"
     ],
     "facts": [
       {
@@ -15495,14 +15521,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "一度で覚える声の質感。ビートも、その声を支える。"
+      "声だけでなく、本人がその声をどう街へ届けようとしたかに注目する。"
     ],
-    "context": "まず声の質感を覚え、次にその周囲の音を聴く。特徴のある声を主役として置くために、ビートがどんな余白を作るかを楽しみたい。",
+    "context": "予算の小ささを、表現の選択がないことにはしなかった。",
     "sources": [
       {
         "label": "NINE - Topic — Whutcha Want?",
         "url": "https://www.youtube.com/watch?v=Nn9oiGQzf9U",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Nine — The Talk Different / VALIDATED（2021）",
+        "url": "https://www.validatedmagazine.com/music-1/2021/7/25/the-talk-different-nine",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [],
@@ -15517,7 +15548,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "mic-geronimo-shit-s-real",
@@ -15565,11 +15604,11 @@
       "lettering": "subway",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "落ち着いた声と、温かなループの距離感。",
-    "essayTitle": "温かなループと声、近づきすぎない間合い",
+    "deck": "Mic Geronimoが振り返る、計画より先に動いた撮影。",
+    "essayTitle": "構成案なしで始まった、最初のビデオ。",
     "essay": [
-      "落ち着いた声と、温かなループの距離感。",
-      "落ち着いた声と温かな反復の間に、どれくらい距離があるかを聴く。音が近づきすぎないところに、この曲の居心地を感じる。"
+      "HalftimeOnlineが「Shit’s Real」の初期ビデオについて尋ねると、Mic Geronimoは計画も映像の構成案もなく、非常に即興的だったと答えている。",
+      "曲が世に出る過程は、初めから整えられていたわけではない。その場で動いた人たちの仕事として、音源と映像の関係を捉え直せる。"
     ],
     "facts": [
       {
@@ -15583,14 +15622,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "落ち着いた声と、温かなループの距離感。"
+      "構成案なしで始まった撮影が、曲をどう映像へ移したのか考える。"
     ],
-    "context": "落ち着いた声と温かな反復の間に、どれくらい距離があるかを聴く。音が近づきすぎないところに、この曲の居心地を感じる。",
+    "context": "2006年の本人回想から見える、初期の映像制作。",
     "sources": [
       {
         "label": "YouTube — Mic Geronimo / Shit's Real",
         "url": "https://www.youtube.com/watch?v=t-03vzgQzgE",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Mic Geronimo — HalftimeOnline interview（2006）",
+        "url": "https://halftimeonline.net/artists/new-york/mic-geronimo/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [],
@@ -15604,7 +15648,15 @@
     "collections": [
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "royal-flush-iced-down-medallions",
@@ -15653,11 +15705,11 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "小さな音の反復に、街の手触りが残る。",
-    "essayTitle": "小さな反復、声が入るたび変わる空間",
+    "deck": "Noreagaとの共演を支えた、昔からの関係。",
+    "essayTitle": "地区の対立より、二人の付き合いが先にある。",
     "essay": [
-      "小さな音の反復に、街の手触りが残る。",
-      "小さく巡る音へ耳を置き、声が入ったときの空間の変化を追う。大きな展開より、一周ごとの手触りを楽しむ曲として聴きたい。"
+      "Royal FlushはAllHipHopで、この曲でNoreagaと息が合う理由を尋ねられた。LefrakとFlushingの地区同士には対立があったが、二人は昔から親しく、ラップで競ったこともあったという。",
+      "地域名でひとまとめにせず、個人同士の付き合いを背景に共演を聴く。そこには、地区の境界だけでは説明できない関係がある。"
     ],
     "facts": [
       {
@@ -15671,14 +15723,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "小さな音の反復に、街の手触りが残る。"
+      "二人の共演を、地区の看板ではなく以前からの付き合いとして聴く。"
     ],
-    "context": "小さく巡る音へ耳を置き、声が入ったときの空間の変化を追う。大きな展開より、一周ごとの手触りを楽しむ曲として聴きたい。",
+    "context": "本人が語る、近隣地区の対立を越えた共演の背景。",
     "sources": [
       {
         "label": "YouTube — Royal Flush / Iced Down Medallions",
         "url": "https://www.youtube.com/watch?v=jjflVQeZizc",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Royal Flush — Queens Wild / AllHipHop（2005）",
+        "url": "https://allhiphop.com/features/royal-flush-queens-wild/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [],
@@ -15692,7 +15749,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "camp-lo-luchini-aka-this-is-it",
@@ -15741,11 +15806,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "きらめく旋律と、独特の言葉のリズム。",
-    "essayTitle": "きらめく旋律の奥、言葉の独特な歩幅",
+    "deck": "「Luchini」はアルバム最後の録音だった。",
+    "essayTitle": "最後に必要だった、ラジオへ届く一曲。",
     "essay": [
-      "きらめく旋律と、独特の言葉のリズム。",
-      "きらめく旋律と、すぐにはつかみ切れない言葉の流れを行き来する。音は入口を開いてくれる。その奥で声の独特な歩幅を楽しみたい。"
+      "Ski Beatzによれば、Profileからラジオ向けのシングルを求められ、一週間ほどレコードを掘った末に「Luchini」が生まれた。見つけたのはDynastyの「Adventures in the Land of Music」だった。",
+      "アルバムの入口を作るために、最後に探し当てた音として聴き直したい。"
     ],
     "facts": [
       {
@@ -15759,14 +15824,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "きらめく旋律と、独特の言葉のリズム。"
+      "アルバムの他の曲と並べ、入口として選ばれた役割を考える。"
     ],
-    "context": "きらめく旋律と、すぐにはつかみ切れない言葉の流れを行き来する。音は入口を開いてくれる。その奥で声の独特な歩幅を楽しみたい。",
+    "context": "Ski Beatzが語る、最後のシングル探し。",
     "sources": [
       {
         "label": "YouTube — Camp Lo / Luchini AKA This Is It",
         "url": "https://www.youtube.com/watch?v=WvAqy1i2hEA",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Ski Beatz — Uptown Saturday Night 15周年インタビュー / OfficialCampLo",
+        "url": "https://officialcamplo.com/2012/07/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -15787,7 +15857,15 @@
       "funk-soul"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "camp-lo-coolie-high",
@@ -15930,11 +16008,11 @@
       "lettering": "tag",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "ソウル、ラップ、声の歌心。その間を行き来する。",
-    "essayTitle": "歌からラップへ、切り替わりの呼吸",
+    "deck": "Laurynのフックを残すために、別の曲との調整があった。",
+    "essayTitle": "別の曲に渡したフックを、取り戻す。",
     "essay": [
-      "ソウル、ラップ、声の歌心。その間を行き来する。",
-      "歌う声からラップへ、耳がどんなふうに移動するかを追う。違う表現が同じ曲の呼吸に収まる、その切り替わりを楽しみたい。"
+      "Salaam RemiはAmbrosia For Headsで、Laurynが複数のソウル曲を試し、Teena Marieの「Ooh La La La」を選んだと語る。ただ、その歌い方は別のアーティストの曲ですでに使っていた。",
+      "そこでLaurynは相手へ連絡し、その曲には別のものを作ると申し出て了承を得たという。印象的なフックの裏に、もう一つの曲との調整があった。"
     ],
     "facts": [
       {
@@ -15948,14 +16026,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "ソウル、ラップ、声の歌心。その間を行き来する。"
+      "引用元だけでなく、そのフックをこの曲に残すための選択にも注目する。"
     ],
-    "context": "歌う声からラップへ、耳がどんなふうに移動するかを追う。違う表現が同じ曲の呼吸に収まる、その切り替わりを楽しみたい。",
+    "context": "候補を試す作業と、別の録音との調整から生まれたフック。",
     "sources": [
       {
         "label": "YouTube — Fugees / Fu-Gee-La",
         "url": "https://www.youtube.com/watch?v=MPlb9HoOCxs",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Salaam Remi — Fu-Gee-La interview / Ambrosia For Heads（2016）",
+        "url": "https://ambrosiaforheads.com/2016/02/the-fugees-fu-gee-la-set-the-score-for-the-group-salaam-remi-explains/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -15973,7 +16056,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "fugees-ready-or-not",
