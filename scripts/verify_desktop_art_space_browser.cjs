@@ -101,7 +101,7 @@ async function measure(p,selector,mode){
   const ids={canvas:'#wall',brand:'.art-brand',credit:'.art-credit',signature:'.art-signature',close:'#art-close',info:'.art-info',title:'#art-song',artist:'#art-artist',controls:'.art-controls',help:'#art-provider-help',status:'#art-crate-status'};
   const boxes=Object.fromEntries(Object.entries(ids).map(([k,s])=>[k,box(document.querySelector(s))]));
   const buttons=[...document.querySelectorAll('.art-mode-controls button,.art-controls button,#art-close')].map(e=>{
-   const r=box(e);return r?{id:e.id,rect:r,hit:[[.1,.1],[.5,.5],[.9,.9]].every(([x,y])=>e.contains(document.elementFromPoint(r.x+r.width*x,r.y+r.height*y)))}:null;
+   const r=box(e);if(!r)return null;const samples=[[.1,.1],[.5,.5],[.9,.9]].map(([x,y])=>{const t=document.elementFromPoint(r.x+r.width*x,r.y+r.height*y);return{hit:e.contains(t),tag:t?.tagName,id:t?.id,className:typeof t?.className==='string'?t.className:null}});return{id:e.id,rect:r,hit:samples.every(x=>x.hit),samples};
   }).filter(Boolean);
   const provider=document.querySelector(selector),pr=box(provider);
   const providerClear=pr?[[.1,.1],[.5,.5],[.9,.9]].every(([x,y])=>document.elementFromPoint(pr.x+pr.width*x,pr.y+pr.height*y)===provider):null;
@@ -178,6 +178,7 @@ async function runCase(browser,{width,height,variant,owner}){
    await p.locator('#art-mode-'+mode).click();
    await p.waitForFunction(m=>document.body.dataset.artMode===m,mode);
    if(mode!=='video')await settled(p);
+   else await p.evaluate(()=>new Promise(resolve=>requestAnimationFrame(()=>requestAnimationFrame(resolve))));
    await p.locator('.art-signature').evaluate(i=>i.decode());
    await unchanged(p,before,selector);
    const m=await measure(p,selector,mode),first=!row.measurements[mode];
@@ -261,7 +262,7 @@ function comparePairs(){
  finally{
   save();
   console.log('DESKTOP_ART_COMPARISONS '+JSON.stringify(report.comparisons));
-  console.log('DESKTOP_ART_CASES '+JSON.stringify(report.cases.map(r=>({owner:r.owner,viewport:[r.width,r.height],variant:r.variant,status:r.status,network:r.network,fullCanvas:r.measurements.full?.boxes.canvas,fullPaint:r.measurements.full?.alpha?.bounds,error:r.error?.split('\n')[0]}))));
+  console.log('DESKTOP_ART_CASES '+JSON.stringify(report.cases.map(r=>({owner:r.owner,viewport:[r.width,r.height],variant:r.variant,status:r.status,network:r.network,fullCanvas:r.measurements.full?.boxes.canvas,fullPaint:r.measurements.full?.alpha?.bounds,modes:r.measurements,error:r.error?.split('\n')[0]}))));
   await browser.close();
  }
 })().catch(e=>{console.error(e);process.exitCode=1});
