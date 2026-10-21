@@ -256,8 +256,8 @@
           "shelf": "bass",
           "evidence": {
             "file": "tracks.json",
-            "field": "deck",
-            "quote": "柔らかな素材を、深い低音が街へ引き戻す。"
+            "field": "listening.0",
+            "quote": "RemixとBarry Whiteの曲を比べ、旋律、低音、リズムの素材を分けて追ってみる。"
           }
         }
       ]
@@ -269,8 +269,8 @@
           "shelf": "drums",
           "evidence": {
             "file": "tracks.json",
-            "field": "deck",
-            "quote": "硬い打楽器の響きが、曲の空気を支配する。"
+            "field": "listening.0",
+            "quote": "ドラムの反復とJeruの声を分け、それぞれの入り方に注目してみる。"
           }
         }
       ]
@@ -295,8 +295,8 @@
           "shelf": "bass",
           "evidence": {
             "file": "tracks.json",
-            "field": "deck",
-            "quote": "柔らかな低音と、ゆったりした声。甘さにも芯がある。"
+            "field": "listening.0",
+            "quote": "素材の曲と続けて聴き、低音、ラップ、フックの役割を分けて考えてみる。"
           }
         }
       ]
@@ -321,8 +321,8 @@
           "shelf": "drums",
           "evidence": {
             "file": "tracks.json",
-            "field": "deck",
-            "quote": "Havocが語る、ドラムを先に置き、鍵盤の断片を組み替えた制作。"
+            "field": "listening.0",
+            "quote": "最初のShook OnesとPt.IIを比べ、ドラム、ほかの伴奏、歌詞を別々に追ってみる。"
           }
         }
       ]

@@ -664,12 +664,13 @@
       "lettering": "angular",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "昼のジャズを、夜のブルックリンへ。低い重心のまま、街の名前が耳に残る。",
-    "essayTitle": "ジャズにも、終電のあとの顔がある。",
+    "deck": "コーラスが厚くなる理由を、Tekが語る録音現場から辿る。",
+    "essayTitle": "「Bucktown」のコーラスに、仲間の声が増えていった理由",
     "essay": [
-      "ジャズを借りれば、ラップが上品になる。そんな便利な話ではないらしい。「Bucktown」のループは、ネクタイを結ぶより、襟を少し立てたくなる。洒落ているのに、妙に油断できない。",
-      "素材はJack Bruceの「Born To Be Blue」。元の演奏へ戻ってからこちらを聴くと、同じ音の居場所が変わったように感じる。レコードを細かく切るだけでなく、街の照明まで変えてしまう。それがサンプリングの面白さだ。",
-      "「What I’m After」の跳ねる勢いから、この曲で重心を下げる。私の選曲では、ここが昼と夜の境目になる。まだ帰るつもりはない。ただ、歩き方は少し変わった。"
+      "「Bucktown」では、コーラスに加わる声の数にも注目したい。2017年のPlayatunerのインタビューでその変化を尋ねられたTekは、最初から狙っていた演出ではなかったと答えている。",
+      "自分たちの録音になったので、仲間をスタジオへ呼んだ。夜が進むにつれて人が集まり、それで声も増えたのだろう、とTekは振り返る。本人の記憶にも少し留保はあるが、あの合唱を、友人たちが録音へ加わっていく場面として捉える手がかりになる。",
+      "ビートにも意外な来歴がある。同じインタビューでTekは、「Bucktown」と「Soun Bwoy Bureill」はもともとHeltah Skeltah向けに作られ、彼らが選ばなかったものだと話している。別の二人に渡ったことで、Smif-N-Wessunを代表する曲になった。",
+      "1994年のデビュー・シングルで、翌年の『Dah Shinin’』にも収録。Da Beatminerzのビートを追うと同時に、コーラスごとに声の厚みがどう変わるかを聴いてみたい。二人のラップの周囲にいる仲間まで、この曲の一部になっている。"
     ],
     "facts": [
       {
@@ -716,11 +717,9 @@
       }
     ],
     "listening": [
-      "まずはループと低音の距離だけを聴く。",
-      "TekとSteeleの声が入れ替わることで、同じビートの表情がどう変わるか。",
-      "元の演奏へ戻ってから、もう一度ブルックリンへ。"
+      "コーラスごとに加わる声を追い、Tekの回想と照らしてみる。"
     ],
-    "context": "Brooklyn / Boot Camp Clikの一曲。Queensのトライブと同じNew Yorkでも、曲ごとの空気は違う。地域の比較は優劣ではなく、聴くための地図として使う。",
+    "context": "コーラスとビートの来歴を、Tekの回想から読む。",
     "sources": [
       {
         "label": "Nervous Records — Bucktown 360 / 1994年のデビュー・シングル",
@@ -751,6 +750,11 @@
         "label": "YouTube — Jack Bruce / UMG正規配信",
         "url": "https://www.youtube.com/watch?v=Qm-KZUS1h-o",
         "kind": "公式"
+      },
+      {
+        "label": "Playatuner — Tek interview (2017)",
+        "url": "https://playatuner.com/2017/05/tek-of-smif-n-wessun-interview/",
+        "kind": "一次資料・参加者インタビュー"
       }
     ],
     "producers": [
@@ -770,7 +774,22 @@
     "editorialCrates": [
       "raw-beats"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        6
+      ],
+      [
+        6
+      ],
+      [
+        6
+      ],
+      [
+        0,
+        1
+      ]
+    ]
   },
   {
     "id": "runnin",
@@ -5377,11 +5396,13 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "煙たい音でも、輪郭は明快。ブルックリンの別の入口。",
-    "essayTitle": "煙たい響きから浮かぶ、声とリズムの輪郭",
+    "deck": "3回の反復と最後の変化。Evil Deeの説明からループを辿る。",
+    "essayTitle": "同じ断片を3回。Evil Deeが明かす「Who Got da Props」の組み方",
     "essay": [
-      "煙たい音でも、輪郭は明快。ブルックリンの別の入口。",
-      "煙たい響きと、はっきりしたリズムを交互に追う。ぼやけて聞こえる部分があるからこそ、前へ出る声の輪郭にも気づきやすい。"
+      "「Who Got da Props」のループには、作った本人が説明した小さな仕掛けがある。2011年のRed Bull Music AcademyでDJ Evil Deeは、Ronnie Lawsの「Tidal Wave」から取った最初の部分を3回繰り返し、最後に別の部分を入れたと明かしている。",
+      "その証言を手がかりにするなら、聴く場所はループの終わりだ。繰り返しが続いたあと、どこで違う音へ進むのか。元の演奏の曲名を知るだけでなく、短いまとまりの作り方まで追える。",
+      "録音時の話も面白い。Such-a-Soundのスタジオにはターンテーブル用の場所がなく、Evil Deeは床に座ってスクラッチを入れたという。さらに、望む音をめぐってエンジニアと意見がぶつかり、最後は自分で音量を整えた。本人にとって、プロのスタジオで初めて手がけたミックスだった。",
+      "素材を選び、順番を決め、仕上がりの音まで自分で引き受ける。その具体的な作業から辿ると、この曲を「煙たい音」と呼ぶだけでは見えなかった作り手の判断が見えてくる。"
     ],
     "facts": [
       {
@@ -5395,14 +5416,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "煙たい音でも、輪郭は明快。ブルックリンの別の入口。"
+      "ループの終わりに注目し、同じ部分から別の部分へ移る箇所を追ってみる。"
     ],
-    "context": "煙たい響きと、はっきりしたリズムを交互に追う。ぼやけて聞こえる部分があるからこそ、前へ出る声の輪郭にも気づきやすい。",
+    "context": "DJ Evil Dee本人が説明する素材の並べ方と、録音現場の判断を読む。",
     "sources": [
       {
         "label": "YouTube — Black Moon / Who Got da Props",
         "url": "https://www.youtube.com/watch?v=vWJuArf0-Go",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Red Bull Music Academy — Black Moon lecture (2011)",
+        "url": "https://www.redbullmusicacademy.com/lectures/black-moon-lecture/",
+        "kind": "一次資料・本人発言の公式書き起こし"
       }
     ],
     "producers": [
@@ -5420,7 +5446,19 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      []
+    ]
   },
   {
     "id": "black-moon-i-got-cha-opin-remix",
@@ -5469,11 +5507,13 @@
       "lettering": "tag",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "柔らかな素材を、深い低音が街へ引き戻す。",
-    "essayTitle": "柔らかな素材と深い低音、リミックスの声の居場所",
+    "deck": "Barry Whiteの素材を、旋律だけでなくビート全体へ。",
+    "essayTitle": "ハイハット以外はBarry White。「I Got Cha Opin」Remixの組み方",
     "essay": [
-      "柔らかな素材を、深い低音が街へ引き戻す。",
-      "柔らかい素材に耳を預けたあと、低音へ戻ってみる。原曲と比べるときも、旋律の違いだけでなく、声の居場所がどう変わるかを聴きたい。"
+      "ここで取り上げるのは、『Enta da Stage』のアルバム版とは別の「I Got Cha Opin」Remix。1994年の12インチとして出たこの版では、Barry Whiteの「Playing Your Game, Baby」が素材になっている。",
+      "使用したのは、目立つフレーズだけではなかった。2024年のAlbumismのインタビューでEvil Deeは、Mr. Waltと組んだこのビートについて、ハイハットを除く部分をBarry Whiteの音から作ったと説明している。ひとつの録音から、伴奏のあちこちへ素材を取り出していたわけだ。",
+      "歌詞も新しくなっている。Hip-Hop Nostalgiaが再掲した『The Source』1994年4月号のレビューは、新たなビートに加えて歌詞も全面的に変わった点を紹介していた。アルバム版と比べるときは、バックの音だけでなく、Buckshotが何をどうラップしているかにも耳を向けたい。",
+      "まずRemixの伴奏を追い、次にBarry Whiteへ戻る。旋律の出どころ探しから一歩進んで、リズムを支える音も同じレコードから来ているのかを考えると、この作り直しの大きさが分かりやすい。"
     ],
     "facts": [
       {
@@ -5487,14 +5527,34 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "柔らかな素材を、深い低音が街へ引き戻す。"
+      "RemixとBarry Whiteの曲を比べ、旋律、低音、リズムの素材を分けて追ってみる。"
     ],
-    "context": "柔らかい素材に耳を預けたあと、低音へ戻ってみる。原曲と比べるときも、旋律の違いだけでなく、声の居場所がどう変わるかを聴きたい。",
+    "context": "アルバム版ではなくRemixを対象に、制作者の回想と当時の批評を読む。",
     "sources": [
       {
         "label": "YouTube — Black Moon / I Got Cha Opin (Remix)",
         "url": "https://www.youtube.com/watch?v=dceorz43MwY",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Albumism — Da Beatminerz interview (2024)",
+        "url": "https://albumism.com/interviews/sustained-creativity-a-conversation-with-da-beatminerz",
+        "kind": "一次資料・制作者インタビュー"
+      },
+      {
+        "label": "DJBooth — Black Moon interview (2018)",
+        "url": "https://djbooth.net/features/2018-10-18-black-moon-interview-enta-da-stage/",
+        "kind": "本人インタビュー・記者による曲紹介"
+      },
+      {
+        "label": "Hip-Hop Nostalgia — The Source 1994年4月号レビュー再掲",
+        "url": "https://www.hiphopnostalgia.com/2014/03/black-moon-i-got-cha-opin-review-1994.html",
+        "kind": "当時の批評の再掲・原誌未照合"
+      },
+      {
+        "label": "Soul Sides — Black Moon versions (2012)",
+        "url": "https://soul-sides.com/2012/04/black-moon-vs-black-moon-vs-black-moon.html",
+        "kind": "音楽批評・二次資料"
       }
     ],
     "producers": [
@@ -5518,7 +5578,20 @@
       "jazz-mellow"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        2,
+        4
+      ],
+      [
+        1
+      ],
+      [
+        3
+      ],
+      []
+    ]
   },
   {
     "id": "jeru-the-damaja-come-clean",
@@ -5566,11 +5639,12 @@
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "硬い打楽器の響きが、曲の空気を支配する。",
-    "essayTitle": "硬い打楽器の余韻、その後ろの空白まで",
+    "deck": "素材の来歴と録音の回想から、声と伴奏を聴き直す。",
+    "essayTitle": "「Come Clean」は1日で録音され、翌日ラジオで流れた",
     "essay": [
-      "硬い打楽器の響きが、曲の空気を支配する。",
-      "打楽器の響きがどこまで残るか、その後ろの空白まで聴く。音が少ない場所に耳を置くと、声が入った瞬間の圧力も違って感じられる。"
+      "水滴を思わせる音の出どころを、REVOLTの解説はShelly Manneの「Infinity」としている。音の印象と、素材となった録音の来歴は分けて辿りたい。",
+      "DJ Premierは2014年のXXLの取材で、「Come Clean」を1日で録音し、翌日にはHot 97で流れたと回想している。",
+      "まず伴奏の反復を追い、次にJeruの声へ注意を移してみる。素材へ戻るときも、何の音に聞こえるかと、どの曲から来たかを別々に確かめたい。"
     ],
     "facts": [
       {
@@ -5589,16 +5663,16 @@
         "main": true,
         "role": "打楽器の主要素材。細かな切り出し位置は未検証。",
         "sources": [
-          1
+          1,
+          2
         ]
       }
     ],
     "sampleStatus": "代表的な素材を資料で確認",
     "listening": [
-      "硬い打楽器の響きが、曲の空気を支配する。",
-      "Shelly Manneの「Infinity」へ戻り、素材と完成した曲で音の役割がどう変わるかを確かめる。"
+      "ドラムの反復とJeruの声を分け、それぞれの入り方に注目してみる。"
     ],
-    "context": "打楽器の響きがどこまで残るか、その後ろの空白まで聴く。音が少ない場所に耳を置くと、声が入った瞬間の圧力も違って感じられる。",
+    "context": "素材についての解説と、DJ Premierの録音の回想を分けて読む。",
     "sources": [
       {
         "label": "YouTube — Jeru the Damaja / Come Clean",
@@ -5606,9 +5680,14 @@
         "kind": "公式配信情報"
       },
       {
-        "label": "Positive K's 'It's All Gravy' sample of Jeru the Damaja's 'Come Clean' | WhoSampled",
-        "url": "https://www.whosampled.com/sample/113611/Positive-K-It%27s-All-Gravy-Jeru-the-Damaja-Come-Clean/",
-        "kind": "サンプル関係の調査資料"
+        "label": "XXL — DJ Premier on The Sun Rises in the East (2014)",
+        "url": "https://www.xxlmag.com/dj-premier-jeru-damaja-sun-rises-east-interview/",
+        "kind": "一次資料・制作者インタビュー／素材名は記者記述"
+      },
+      {
+        "label": "REVOLT — DJ Premier’s iconic beats (2018)",
+        "url": "https://www.revolt.tv/article/2018-12-05/94929/the-produce-section-13-of-dj-premiers-most-iconic-beats",
+        "kind": "音楽媒体解説・二次資料"
       }
     ],
     "producers": [
@@ -5627,7 +5706,16 @@
       "raw-beats"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        1
+      ],
+      []
+    ]
   },
   {
     "id": "jeru-the-damaja-ya-playin-yaself",
@@ -7651,7 +7739,7 @@
     ],
     "album": "Ready to Die",
     "label": "個別確認中",
-    "producer": "制作クレジット確認中",
+    "producer": "Poke / Sean “Puffy” Combs",
     "members": "The Notorious B.I.G.",
     "youtube": {
       "id": "jgJPcH_zGpE",
@@ -7682,11 +7770,12 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "誰もが入れる旋律と、固有の物語。有名曲も棚の大切な一枚。",
-    "essayTitle": "親しみやすい旋律から、固有の物語へ",
+    "deck": "曲に込めた狙いを、Trackmastersの回想から読む。",
+    "essayTitle": "Mtumeのループに、ラップの居場所を作る",
     "essay": [
-      "誰もが入れる旋律と、固有の物語。有名曲も棚の大切な一枚。",
-      "入りやすい旋律と、その人にしか語れない声を一緒に聴く。有名な曲を知っているつもりで通り過ぎず、どの瞬間に言葉が近づくかを確かめたい。"
+      "「Juicy」の親しみやすさには、作り手が目指した場所がある。TrackmastersのPokeとToneはXXLの取材で、ブロック・パーティーの感触を取り戻したかったと振り返る。Puffとも、その方向で意見が合っていたという。",
+      "材料はMtumeの「Juicy Fruit」。別のXXL取材でPokeは、ループにハイハットや低音を足し、ラップとフックの入る場所がわかるよう組み立てたと説明している。元の曲を選ぶだけでなく、Biggieが言葉を置くための構成を作る仕事だった。",
+      "素材の曲と続けて聴くときは、声を置く場所にも注目したい。旋律の出どころだけでなく、ラップとフックをどう迎えるかが、制作の回想から見えてくる。"
     ],
     "facts": [
       {
@@ -7700,17 +7789,30 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "誰もが入れる旋律と、固有の物語。有名曲も棚の大切な一枚。"
+      "ラップとフックの切り替わりを追い、伴奏の構成にも注目する。"
     ],
-    "context": "入りやすい旋律と、その人にしか語れない声を一緒に聴く。有名な曲を知っているつもりで通り過ぎず、どの瞬間に言葉が近づくかを確かめたい。",
+    "context": "Trackmastersの制作回想から、ラップとフックを置く構成を読む。",
     "sources": [
       {
         "label": "YouTube — The Notorious B.I.G. / Juicy",
         "url": "https://www.youtube.com/watch?v=jgJPcH_zGpE",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "XXL — Trackmasters本人インタビュー（2011）",
+        "url": "https://www.xxlmag.com/production-credit-trackmasters-90s-edition/",
+        "kind": "制作参加者の取材・証言"
+      },
+      {
+        "label": "XXL — Ready to Die制作参加者の証言（2004年記事、2014年再掲）",
+        "url": "https://www.xxlmag.com/the-making-of-ready-to-diefamily-business/",
+        "kind": "制作参加者の取材・証言"
       }
     ],
-    "producers": [],
+    "producers": [
+      "Poke",
+      "Sean “Puffy” Combs"
+    ],
     "connections": [],
     "sounds": [
       "ドラム",
@@ -7722,7 +7824,16 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2
+      ],
+      []
+    ]
   },
   {
     "id": "the-notorious-b-i-g-unbelievable",
@@ -7770,11 +7881,11 @@
       "lettering": "tag",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "小さな音を、声の大きな存在感が運ぶ。",
-    "essayTitle": "小さく巡るビートに広がる、大きな声の存在感",
+    "deck": "シングルでの役割と制作料を、Premierの回想から読む。",
+    "essayTitle": "「Juicy」のB面に求められた一曲",
     "essay": [
-      "小さな音を、声の大きな存在感が運ぶ。",
-      "小さく巡る音を、声がどこまで大きく見せるかを追う。ビートが主張しすぎない場所に、ラップの存在感が収まる。その配分を楽しみたい。"
+      "DJ Premierは2023年のMusic Weekの取材で、Biggieが「Juicy」のB面にストリート向けの曲を求め、制作料は5,000ドルだったと回想している。",
+      "「Unbelievable」だけでなく、「Juicy」と続けて聴いてみる。どちらを先に聴くかを入れ替えると、二曲の組み合わせはどう感じられるだろう。"
     ],
     "facts": [
       {
@@ -7788,14 +7899,18 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "小さな音を、声の大きな存在感が運ぶ。"
+      "JuicyとUnbelievableを続けて聴き、二曲の組み合わせを考えてみる。"
     ],
-    "context": "小さく巡る音を、声がどこまで大きく見せるかを追う。ビートが主張しすぎない場所に、ラップの存在感が収まる。その配分を楽しみたい。",
+    "context": "制作の依頼を、シングルのA面とB面の関係から読む。",
     "sources": [
       {
         "label": "YouTube — The Notorious B.I.G. / Unbelievable",
         "url": "https://www.youtube.com/watch?v=1eNA0RBueoY",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Music Week — DJ Premier interview by George Garner (2023-08-31)",
+        "url": "https://www.musicweek.com/interviews/read/50-years-of-hip-hop-dj-premier-on-jay-z-nas-notorious-b-i-g-more/088367"
       }
     ],
     "producers": [
@@ -7812,7 +7927,13 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      []
+    ]
   },
   {
     "id": "the-notorious-b-i-g-big-poppa",
@@ -7829,7 +7950,7 @@
     ],
     "album": "Ready to Die",
     "label": "個別確認中",
-    "producer": "Easy Mo Bee",
+    "producer": "Chucky Thompson / Sean “Puffy” Combs",
     "members": "The Notorious B.I.G.",
     "youtube": {
       "id": "phaJXp_zMYM",
@@ -7860,11 +7981,12 @@
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "柔らかな低音と、ゆったりした声。甘さにも芯がある。",
-    "essayTitle": "ゆったりした声の甘さを支える低音の骨組み",
+    "deck": "素材を選んだ狙いと、Biggieが返した答えをたどる。",
+    "essayTitle": "Biggieの別の顔を引き出したBig Poppa",
     "essay": [
-      "柔らかな低音と、ゆったりした声。甘さにも芯がある。",
-      "ゆったりした声の下で、低音がどんな速度を作っているかを聴く。甘く聞こえる曲にも、崩れない骨組みがある。その両方に耳を置いていたい。"
+      "「Big Poppa」でChucky Thompsonが試したかったのは、Biggieをニューヨークだけのラッパーとして扱わないことだった。本人はYouKnowIGotSoulの取材で、Ice Cubeの「It Was a Good Day」を意識し、Isley Brothersの素材で別の表情を引き出そうとしたと語っている。",
+      "制作中の会話から、ThompsonはBiggieの幅を感じ取っていたという。ビートを渡してスタジオを離れ、翌朝戻ると、Nashiem Myrickが前夜に録られたフックを喜んでいた。この回想では、プロデューサーが用意した方向に、ラッパーが自分の答えを返している。",
+      "素材の曲名は「Between the Sheets」。XXLの制作証言ではMyrickもこの曲を挙げ、制作名義にはChucky ThompsonとSean “Puffy” Combsが記されている。甘いR&Bを借りた、という説明から一歩進んで、その上でBiggieに何をさせたかったのかを考えると、曲の成り立ちが見えてくる。"
     ],
     "facts": [
       {
@@ -7895,10 +8017,9 @@
     ],
     "sampleStatus": "代表的な素材を資料で確認",
     "listening": [
-      "柔らかな低音と、ゆったりした声。甘さにも芯がある。",
-      "The Isley Brothersの「Between the Sheets」へ戻り、素材と完成した曲で音の役割がどう変わるかを確かめる。"
+      "素材の曲と続けて聴き、低音、ラップ、フックの役割を分けて考えてみる。"
     ],
-    "context": "ゆったりした声の下で、低音がどんな速度を作っているかを聴く。甘く聞こえる曲にも、崩れない骨組みがある。その両方に耳を置いていたい。",
+    "context": "Chucky Thompsonが語る制作の狙いと、曲別クレジットを読む。",
     "sources": [
       {
         "label": "YouTube — The Notorious B.I.G. / Big Poppa",
@@ -7906,13 +8027,19 @@
         "kind": "参考投稿・配信候補"
       },
       {
-        "label": "ScHoolboy Q's 'Raymond 1969' sample of The Notorious B.I.G.'s 'Big Poppa' | WhoSampled",
-        "url": "https://www.whosampled.com/sample/199205/ScHoolboy-Q-Raymond-1969-The-Notorious-B.I.G.-Big-Poppa/",
-        "kind": "サンプル関係の調査資料"
+        "label": "XXL — Ready to Die制作参加者の証言",
+        "url": "https://www.xxlmag.com/the-making-of-ready-to-diefamily-business/",
+        "kind": "制作参加者の取材・証言"
+      },
+      {
+        "label": "YouKnowIGotSoul — Chucky Thompson本人インタビュー（2011）",
+        "url": "https://youknowigotsoul.com/interview-chucky-thompson-part-2",
+        "kind": "制作参加者の取材・証言"
       }
     ],
     "producers": [
-      "Easy Mo Bee"
+      "Chucky Thompson",
+      "Sean “Puffy” Combs"
     ],
     "connections": [],
     "sounds": [
@@ -7927,7 +8054,18 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "craig-mack-flava-in-ya-ear",
@@ -8065,12 +8203,12 @@
       "lettering": "subway",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "Havocが語る、ドラムを先に置き、鍵盤の断片を組み替えた制作。",
-    "essayTitle": "二秒のピアノから、曲の重心を作る。",
+    "deck": "残した部分と作り直した部分を、Havocの回想からたどる。",
+    "essayTitle": "Shook Onesを捨てずに、もう一度作る",
     "essay": [
-      "1995年の『The Infamous』に収められた「Shook Ones, Pt. II」。公式配信のアルバム情報では発売日は4月25日だが、これはアルバムの日付であり、曲の制作日や先行シングルの発売日そのものではない。題名の「Pt. II」にも、先に作った曲をもう一度組み立て直す過程がある。",
-      "2020年6月17日公開のSong Exploderで、Havocはレコード市で得たドラムを起点に、Herbie Hancock「Jessica」の約二秒をサンプラーへ取り込み、鍵盤で音程を変えたと説明する。さらにピアノの一音をフィルター処理し、低音の役割も作ったという。旋律の断片を拾うだけでなく、同じ材料に違う仕事をさせる工程だった。",
-      "同じ回でHavocは、A&Rの提案から新しいビートを「Shook Ones」に使い、スタジオで声を録り直した経緯も語る。自分の歌詞は保ち、Prodigyは書き替えたというのが本人の回想だ。二人のラップと伴奏を、それぞれが完成した部品としてではなく、作り直しの中で関係を変えたものとして読むことができる。"
+      "「Shook Ones, Pt. II」は、前の曲を捨てて一から始めたわけではない。HavocはSong Exploderで、最初の「Shook Ones」の歌詞やフックを気に入っていた一方、まだ良くできると感じていたと話す。題名の続きには、残したい部分のある曲を作り直す過程がある。",
+      "新しいビートでは、先に用意したドラムにHerbie Hancockの「Jessica」の短い断片を合わせた。Havocによると、サンプラーの鍵盤で音程を変え、さらにピアノの一音をフィルターに通して低音にも使ったという。同じ材料が、伴奏とベースの二つの役目を担っている。",
+      "新しいビートを聴いたA&Rの提案で、二人は声も録り直した。Havocは自分の歌詞を残し、Prodigyは書き替えたという。伴奏も言葉も全部交換したのではない。変える部分と守る部分を、それぞれ選んだ結果が「Pt. II」だった。"
     ],
     "facts": [
       {
@@ -8084,9 +8222,9 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "暗いループの中で、ドラムの輪郭が立つ。"
+      "最初のShook OnesとPt.IIを比べ、ドラム、ほかの伴奏、歌詞を別々に追ってみる。"
     ],
-    "context": "暗い響きに耳が慣れたら、ドラムの位置だけを追ってみる。背景の曇りと拍の明快さが同時にあるところに、この曲の張り詰め方を感じる。",
+    "context": "Havocの回想から、前の曲を作り直す際に残したものと変えたものを読む。",
     "sources": [
       {
         "label": "YouTube — Mobb Deep / Shook Ones, Pt. II",
@@ -8134,7 +8272,6 @@
     "noteReviewedAt": "2026-10-17",
     "essaySources": [
       [
-        3,
         1
       ],
       [
@@ -8192,11 +8329,12 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "街の緊張を、反復と低音で保ち続ける。",
-    "essayTitle": "反復と低音で濃くなる、声の緊張の時間",
+    "deck": "身近な聴き手の厳しい評価と、外出時にも解けない警戒心。Prodigy自身の回想から、歌詞の切迫感をたどる。",
+    "essayTitle": "地元の厳しい耳に、Prodigyが返した言葉",
     "essay": [
-      "街の緊張を、反復と低音で保ち続ける。",
-      "同じ音が巡るあいだ、声の緊張がどう保たれるかを聴く。展開が少なくても時間は濃くなる。その密度を、反復の側から捉えてみたい。"
+      "「Survival of the Fittest」の切迫した言葉には、地元の聴き手に認めさせたいという気持ちも重なっていた。2006年のAllHipHopの取材で、ProdigyはQueensbridgeでラップを競った頃を回想している。自分への評価は厳しく、Havocはソロになるべきだという声まであった。その後、この曲などを書き始めた時には、そうはさせないという思いがあったという。",
+      "同じ取材で、二人が語ったのは地元の現実を描くことだった。Havocによれば、身近な人たちは、ラップの内容が嘘でも出来が悪くても黙ってはいない。遠くの観客を驚かせるより先に、その場所を知る人の耳に耐える言葉が必要だった。",
+      "Prodigyは2014年のHipHopDXの取材でも、この曲の冒頭を日常の警戒心と結び付けている。家を出たら左右を見て、車内にも目を配る。生き延びることが最初に頭にあるから、あの言葉が出てきたという。曲名の「適者生存」を強者の誇示だけで受け取らず、危険を見落とせない人の言葉として聴き直すと、別の入口が開く。"
     ],
     "facts": [
       {
@@ -8210,14 +8348,29 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "街の緊張を、反復と低音で保ち続ける。"
+      "強さの誇示だけでなく、危険を見落とせない人の言葉として曲名を捉える。"
     ],
-    "context": "同じ音が巡るあいだ、声の緊張がどう保たれるかを聴く。展開が少なくても時間は濃くなる。その密度を、反復の側から捉えてみたい。",
+    "context": "1995年の『The Infamous』収録曲。ここではオリジナル曲を扱い、後年のリミックスとは分ける。",
     "sources": [
       {
         "label": "YouTube — Mobb Deep / Survival of the Fittest",
         "url": "https://www.youtube.com/watch?v=nfM43P_kIFU",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "AllHipHop — Rewind The Rhyme: Mobb Deep (2006)",
+        "url": "https://allhiphop.com/features/rewind-the-rhyme-mobb-deep/",
+        "kind": "primary_artist_interview"
+      },
+      {
+        "label": "HipHopDX / Rapchive — Prodigy Revisits Survival Of The Fittest (2014)",
+        "url": "https://rapchive.com/news/prodigy-revisits-survival-of-the-fittest-talks-mobb-deep-evolution/",
+        "kind": "primary_artist_interview_archival_republication"
+      },
+      {
+        "label": "Okayplayer — Havoc Speaks on The Infamous (2020)",
+        "url": "https://www.okayplayer.com/havoc-speaks-on-how-he-prodigy-made-a-genre-defining-classic-with-the-infamous/598626",
+        "kind": "primary_artist_interview"
       }
     ],
     "producers": [
@@ -8237,7 +8390,18 @@
       "raw-beats"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "wu-tang-clan-c-r-e-a-m",
@@ -13749,7 +13913,7 @@
     ],
     "album": "Nocturnal",
     "label": "個別確認中",
-    "producer": "Da Beatminerz",
+    "producer": "Baby Paul",
     "members": "Heltah Skeltah",
     "youtube": {
       "id": "KxkkWLi3yuI",
@@ -13781,11 +13945,13 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "個性のある声が、同じ低音の上で交差する。",
-    "essayTitle": "交差する声が、同じ低音へ着地する",
+    "deck": "Heltah SkeltahとO.G.C.を一緒に紹介したFab 5。アルバムに先行したB面曲の経緯を、RockとDru-Haの話からたどる。",
+    "essayTitle": "B面から主役へ、二組五人の「Leflaur」",
     "essay": [
-      "個性のある声が、同じ低音の上で交差する。",
-      "声が交差するたび、違う個性が同じ低音へ着地する。誰の声かを覚える前にも、その手触りの違いだけで十分に楽しめる。"
+      "「Leflaur Leflah Eshkoshka」は、Heltah Skeltahだけの名刺ではない。RockとRuckことSean Priceの二人に、O.G.C.のStarang Wondah、Top Dog、Louieville Sluggahが加わったFab 5の曲だ。二組の名前を知っておくと、五人が集まるこの曲の位置付けがはっきりする。",
+      "Duck DownのDru-Haは2021年の取材で、二組のアルバムを準備する時間を作りながら、まず合同のシングルで紹介しようとした経緯を語っている。Fab 5が後から二組へ分裂したのではなく、すでにあったHeltah SkeltahとO.G.C.を一緒に送り出す企画だった。",
+      "そのシングルの表は「Blah」、裏が「Leflaur Leflah Eshkoshka」。Rockによれば、後者は最初から『Nocturnal』用に録った曲ではなく、B面から注目を集めてアルバムにも入った。現在のDuck Down公式ストアにある再発盤でも、この表裏の組み合わせを確認できる。",
+      "Rockは同じ取材で、この曲名の言葉には意味がないと説明している。"
     ],
     "facts": [
       {
@@ -13799,18 +13965,33 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "個性のある声が、同じ低音の上で交差する。"
+      "Heltah Skeltahの二人とO.G.C.の三人による、合同曲として聴く。"
     ],
-    "context": "声が交差するたび、違う個性が同じ低音へ着地する。誰の声かを覚える前にも、その手触りの違いだけで十分に楽しめる。",
+    "context": "Fab 5名義のシングルに始まり、Heltah Skeltahの『Nocturnal』に収録された曲。",
     "sources": [
       {
         "label": "YouTube — Heltah Skeltah / Leflaur Leflah Eshkoshka",
         "url": "https://www.youtube.com/watch?v=KxkkWLi3yuI",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Passion of the Weiss — Heltah Skeltah’s Nocturnal Turns 25 (Rock / Dru-Ha interview, 2021)",
+        "url": "https://www.powmag.net/p/helta-skeltahs-nocturnal-turns-25",
+        "kind": "primary_artist_label_interview"
+      },
+      {
+        "label": "Duck Down official store — Fab 5 Blah & Leflaur Leflah Eshkoshka 7-inch",
+        "url": "https://www.shopduckdown.com/product/5QLPDM20/fab-5-blah-leflaur-leflah-eshkoshka-7-vinyl-single-white-label",
+        "kind": "primary_label_product"
+      },
+      {
+        "label": "Apple Music — Leflaur Leflah Eshkoshka credits",
+        "url": "https://music.apple.com/us/song/723346150",
+        "kind": "official_distribution_credits"
       }
     ],
     "producers": [
-      "Da Beatminerz"
+      "Baby Paul"
     ],
     "connections": [
       "Boot Camp Clik"
@@ -13826,7 +14007,22 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "o-g-c-no-fear",
