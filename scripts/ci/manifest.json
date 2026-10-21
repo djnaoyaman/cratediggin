@@ -1992,6 +1992,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "something-browser"
+    },
+    {
+      "id": "person-photos",
+      "argv": [
+        "python",
+        "scripts/verify_person_photos.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "person-photos"
+    },
+    {
+      "id": "person-photos-browser",
+      "argv": [
+        "node",
+        "scripts/verify_person_photos_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "person-photos-browser"
     }
   ],
   "groups": {
@@ -2374,6 +2398,11 @@
       "something",
       "something-browser",
       "road-editorial"
+    ],
+    "person_photos": [
+      "person-photos",
+      "person-photos-browser",
+      "person-queue-unit"
     ]
   },
   "runtime_rules": {
@@ -2559,6 +2588,9 @@
     ],
     "brand/identity/install-512.png": [
       "brand_identity"
+    ],
+    "person_photos.py": [
+      "person_photos"
     ]
   },
   "script_dependencies": {
@@ -3032,7 +3064,8 @@
       "scripts/fixtures/approved-road-editorial.json"
     ],
     "scripts/approved_something.py": [
-      "scripts/fixtures/approved-something.json"
+      "scripts/fixtures/approved-something.json",
+      "scripts/approved_person_photos.py"
     ],
     "scripts/verify_something.py": [
       "scripts/approved_something.py",
@@ -3041,6 +3074,21 @@
     ],
     "scripts/verify_something_browser.cjs": [
       "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/verify_person_photos.py": [
+      "person_photos.py",
+      "scripts/approved_person_photos.py",
+      "scripts/fixtures/approved-person-photos.json"
+    ],
+    "scripts/verify_person_photos_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs",
+      "features.json"
+    ],
+    "scripts/approved_person_photos.py": [
+      "scripts/fixtures/approved-person-photos.json"
+    ],
+    "scripts/ci/test_person_photo_scope.py": [
+      "scripts/approved_person_photos.py"
     ]
   },
   "policy_paths": [
@@ -3089,7 +3137,9 @@
     "scripts/approved_road_editorial.py",
     "scripts/fixtures/approved-road-editorial.json",
     "scripts/approved_something.py",
-    "scripts/fixtures/approved-something.json"
+    "scripts/fixtures/approved-something.json",
+    "scripts/approved_person_photos.py",
+    "scripts/fixtures/approved-person-photos.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -3102,7 +3152,8 @@
     "scripts/ci/test_integrity_checks.py",
     "scripts/ci/README.md",
     "scripts/ci/test_scoped_runtime_changes.py",
-    "scripts/ci/test_scoped_content_changes.py"
+    "scripts/ci/test_scoped_content_changes.py",
+    "scripts/ci/test_person_photo_scope.py"
   ],
   "data_paths": [
     "listening_shelves.json",
@@ -3222,6 +3273,13 @@
         "groups": [
           "person_queue"
         ]
+      },
+      {
+        "before_sha256": "8101714a5260c204cfb12f36530048daeee5fd93f034fa94031115ee125b1f40",
+        "after_sha256": "19e95030152447f0c91815aa044fe4ab919bad5bea8ec74772224e4766a0c662",
+        "groups": [
+          "person_photos"
+        ]
       }
     ],
     "src/app/router.js": [
@@ -3285,6 +3343,13 @@
         "groups": [
           "brand_identity"
         ]
+      },
+      {
+        "before_sha256": "c0f6969512c2dd5b27ff23ae098439267cb0bb5076c02a12d9130d74e642dc8b",
+        "after_sha256": "1269e5b9306b22e9431f4881d618d7b51d1af543687461131b31333695571ad0",
+        "groups": [
+          "person_photos"
+        ]
       }
     ],
     "discovery.py": [
@@ -3308,6 +3373,13 @@
         "groups": [
           "editor_polite"
         ]
+      },
+      {
+        "before_sha256": "b983bcbb107ab232ecbfe27b64acb479b34fafee67e606256ed0a4d3e732dda9",
+        "after_sha256": "7dabd53d9633106e3832e92b610811399475a2674616f4eae4ffa7a10819375f",
+        "groups": [
+          "person_photos"
+        ]
       }
     ],
     "src/app/editorial.js": [
@@ -3323,6 +3395,13 @@
         "after_sha256": "9bc1e54e49da8ab90085c4a68edbaaee55044a8e075e82cc89734bf31d7975bc",
         "groups": [
           "editor_polite"
+        ]
+      },
+      {
+        "before_sha256": "9bc1e54e49da8ab90085c4a68edbaaee55044a8e075e82cc89734bf31d7975bc",
+        "after_sha256": "0e50447ea73ea4dc15fcf27c2f38d8214af89f77590d03a25b39cf4b31e5917d",
+        "groups": [
+          "person_photos"
         ]
       }
     ],
@@ -3341,6 +3420,15 @@
         "after_sha256": "fc7286893f4217e7fff49e1bb28345dd6378d2504b7dd6ecd9cfd3d8d4ced802",
         "groups": [
           "editor_polite"
+        ]
+      }
+    ],
+    "src/assets/style.css": [
+      {
+        "before_sha256": "850039f228a308a87137fc95b9afa7971d36950bae6ef0e510d475223de6a60a",
+        "after_sha256": "cccfbe07ed0efc2e11c64ebb5553e478a8d066538b39d4d0b00f89a60bda9cc6",
+        "groups": [
+          "person_photos"
         ]
       }
     ]
