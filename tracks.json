@@ -22760,12 +22760,12 @@
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。",
       "paletteCoverSource": "https://music.apple.com/us/album/doe-or-die/724052211"
     },
-    "deck": "Les McCannの短いAnticipationから、AZの一曲へ。",
-    "essayTitle": "独特です、と言う前に。",
+    "deck": "Pete Rockが振り返る、完成前のスタジオで起きた事故。",
+    "essayTitle": "電源が切れて、ビートを作り直した。",
     "essay": [
-      "自分は独特だと説明するために、みんなが同じ言葉を使う。それはなかなか愉快な光景である。Rather Uniqueという題名を前にしたら、こちらは説明の輪から外れて、まず曲を聴いてみたい。",
-      "Pete Rockの制作で、Les McCannのAnticipationを使っていることが、公式クレジットとサンプル元の側の記録から確認できる。短い録音の断片が、別の人の長い言葉の場所になる。レコードを掘る仕事は、音の寸法を測り直す仕事でもある。",
-      "元の曲へ戻り、それからAZへ帰る。どこが独特なのかを一言で決めるより、その往復をしている時間のほうが面白い。違いは看板に書いておくだけでなく、耳の中で見つければいい。"
+      "Pete RockはREVOLTの取材で、「Rather Unique」をスタジオで仕上げていた時、助手が電源タップに触れてビートが止まり、最初から作り直したと語っている。いま残る曲の前に、失われた作業があった。",
+      "サンプル元はLes McCannの「Anticipation」。McCann側の作品一覧でも、この曲との関係が確認できる。素材の出どころと、完成までの経緯は、別々の資料からたどれる。",
+      "元曲へ戻ってからAZへ帰る。その往復に、作り手が一度やり直したという話を重ねてみたい。ただし、消えたビートがどう違っていたかは、この証言だけでは再現できない。"
     ],
     "facts": [
       {
@@ -22795,11 +22795,9 @@
       }
     ],
     "listening": [
-      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
-      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
-      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+      "「Anticipation」との関係をたどる。失われたビートの音は想像で決めつけない。"
     ],
-    "context": "1995年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "context": "サンプルの選択に加え、完成前のやり直しをPete Rock自身の証言から読む。",
     "sources": [
       {
         "label": "AZ Quiet Money — 採用した公式YouTube音源・版名",
@@ -22810,6 +22808,11 @@
         "label": "サンプル関係の確認 — Les McCann / Anticipation",
         "url": "https://www.lesmccannxmas.com/sampled-works",
         "kind": "サンプル照合"
+      },
+      {
+        "url": "https://www.revolt.tv/article/2021-04-22/55141/studio-sessions-pete-rock-shares-over-25-years-of-the-notorious-b-i-g-j-dilla-and-heavy-d-stories",
+        "label": "REVOLT — Pete Rock「Studio Sessions」インタビュー（2021）",
+        "kind": "制作者本人の証言"
       }
     ],
     "producers": [
@@ -22834,7 +22837,19 @@
     "editorialCrates": [
       "jazz-mellow"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ]
   },
   {
     "id": "pete-rock-cl-smooth-lots-of-lovin",
@@ -22882,12 +22897,12 @@
       "lettering": "subway",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "Ohio Playersの曲の向こうに、もう一度違う午後がある。",
-    "essayTitle": "優しい曲も、棚の真ん中へ。",
+    "deck": "音だけでなく、一枚の見た目も次の作り手に残っていく。",
+    "essayTitle": "KREVAが思い返した、ハートのジャケット。",
     "essay": [
-      "ラップの棚に優しい曲を置くと、急に但し書きを付けたがる人がいる。だが、レコードはそんな検閲を必要としていない。Lots of Lovin’。題名が用意した場所へ、そのまま入ってみればいい。",
-      "『Mecca and the Soul Brother』から、Ohio PlayersのWhat’s Going Onへ。サンプルの関係を辿ると、ラップの向こうにソウルの録音がある。同じ曲を使うことと、同じ曲になることは、もちろん違う。",
-      "T.R.O.Y.だけでPete RockとC.L. Smoothの棚を読み終えず、こちらにも時間を使いたい。有名な一曲の脇にある表情を知ると、その一曲まで違って聞こえる。優しさは、レコードを弱くするものではないのだと思う。"
+      "KREVAは「レコードの日」の取材にこの12インチを持参し、『愛・自分博』のハートのアートワークには、「Lots of Lovin」のジャケットを見て育ったことが関係しているかもしれない、と振り返った。本人が示す可能性であって、影響の断定ではない。",
+      "曲から元の録音へ戻る道もある。Chris ReadによるWax Poeticsのミックス曲目では、Ohio Playersの「What’s Going On」が「Lots of Lovin」のサンプル元として紹介されている。",
+      "ジャケットから日本の作品へ、曲からソウルの録音へ。一枚のまわりに二つの道を見つけられる。なおKREVAが好むと話したのはリミックスで、ここで紹介するアルバムにつながる音源と混同しない。"
     ],
     "facts": [
       {
@@ -22917,11 +22932,9 @@
       }
     ],
     "listening": [
-      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
-      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
-      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+      "音源の版を確かめてから、原曲とリミックス、サンプル元を別々にたどる。"
     ],
-    "context": "1992年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "context": "KREVAの個人的な記憶と、Chris Readが示すサンプル関係から、この一枚の広がりを読む。",
     "sources": [
       {
         "label": "Pete Rock Official — 採用した公式YouTube音源・版名",
@@ -22932,6 +22945,11 @@
         "label": "サンプル関係の確認 — Ohio Players / What’s Going On",
         "url": "https://magazine.waxpoetics.com/listen/pete-rock-cl-smooth-mecca-soul-brother-25th-anniversary-mixtape/",
         "kind": "サンプル照合"
+      },
+      {
+        "url": "https://record-day.jp/comment/special_interview_2024/",
+        "label": "レコードの日 — KREVA SPECIAL INTERVIEW 2024",
+        "kind": "アーティスト本人の回想"
       }
     ],
     "producers": [
@@ -22957,7 +22975,19 @@
     "editorialCrates": [
       "jazz-mellow"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ]
   },
   {
     "id": "group-therapy-east-coast-west-coast-killas-fire-version",
@@ -23004,12 +23034,12 @@
       "lettering": "subway",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "東と西を、対立の地図から同じマイクの前へ。Fire Versionで聴く。",
-    "essayTitle": "地図の線を、マイクで越える。",
+    "deck": "RBXの録音から、KRS-One、Nas、B-Realへ。本人が語る参加の順番。",
+    "essayTitle": "四人は、一度に集まったのではなかった。",
     "essay": [
-      "東海岸、西海岸。音楽の説明には便利な言葉だが、便利すぎる言葉は、ときどき人の顔を見えなくする。この曲ではRBX、KRS-One、B-Real、NasがGroup Therapyという名で並ぶ。地図を読む前に、まず四人の名前を読んでおきたい。",
-      "1996年の『Dr. Dre Presents… The Aftermath』へ繋がる一曲。ここで聴けるのは公式映像のFire Versionである。アルバム音源とは版を区別して紹介している。東と西を同じ曲に並べる仕事は、説明の線引きより、ずっと具体的だ。",
-      "地域別に掘ったあと、両方の棚にあるこの曲へ戻る。分けることが、最後の目的ではない。違いを覚えてから同じマイクの前に会わせる。その往復までできれば、地図はちゃんと音楽の役に立つ。"
+      "RBXがWHO?MAGで語る制作の始まりは、Dr. Dreに最初の役を頼まれたことだった。その録音をニューヨークで聴いたKRS-Oneが参加を申し出て、Nasが続き、戻った先でB-Realが加わったという。",
+      "東西の四人が並ぶGroup Therapyは、1996年の『Dr. Dre Presents… The Aftermath』へつながる組み合わせだ。RBXの回想を読むと、同じ部屋に全員が集まったと想像するより、録音が次の人を呼んだ順番をたどりたくなる。",
+      "掲載しているのは公式映像のFire Version。上の証言は楽曲の成立についてのもので、この映像版独自の編集やミックス工程を説明するものではない。アルバム音源やClub Mixとは版を分けておく。"
     ],
     "facts": [
       {
@@ -23036,11 +23066,9 @@
     ],
     "samples": [],
     "listening": [
-      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
-      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
-      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+      "四人が参加した順番の証言を手がかりに、声の受け渡しへ注意を向ける。"
     ],
-    "context": "1996年。東西を別々の棚に分けてから、同じ曲で合流するための一曲。",
+    "context": "地域名で分けるだけでなく、RBXが語る録音と参加の順番から四人の接点を読む。",
     "sources": [
       {
         "label": "GroupTherapyVEVO — Fire Version",
@@ -23056,6 +23084,11 @@
         "label": "1996年シングルの盤情報と制作クレジット",
         "url": "https://www.chartsurfer.de/artist/group-therapy/east-coast-west-coast-killaz-song_cggrh.html",
         "kind": "盤情報"
+      },
+      {
+        "url": "https://www.whomag.net/rbx/",
+        "label": "William Hernandez — RBX / WHO?MAG",
+        "kind": "参加者本人のインタビュー"
       }
     ],
     "producers": [
@@ -23084,6 +23117,20 @@
       "KRS-One",
       "B-Real",
       "Nas"
+    ],
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        0,
+        2,
+        3
+      ]
     ]
   },
   {
@@ -23234,12 +23281,12 @@
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。",
       "paletteCoverSource": "https://music.apple.com/us/album/1777704233"
     },
-    "deck": "授業は、まだ続いている。",
-    "essayTitle": "音の入口を追う、第六のレコード授業",
+    "deck": "Cut Chemistが公開した「The Sketch」から、Lesson 6の設計図をたどる。",
+    "essayTitle": "完成版の前に、十五分の練習テープ。",
     "essay": [
-      "授業は、まだ続いている。Lesson 6という曲名を眺めると、聴くことも練習なのだと思う。最初と最後で耳の向きが少し変われば、今日の収穫は十分だ。",
-      "収録盤は『Jurassic 5 EP / J5』。曲を一枚だけでかけたあと、前後の選曲へ戻ってみる。同じビートでも、どこから来て、どこへ渡すかで、その日の顔が変わってくる。",
-      "ピザが焼けるのを待つ間に、ドラムを数えてみる。じっと座っているつもりでも、膝が先に時間を覚えてしまう。歩く時には、いつもの道へ一曲分の時間を重ねてみたい。"
+      "Cut Chemistの公式Bandcampは、約十五分の未編集の練習テープ「The Sketch」を、「Lesson 6」の設計図として公開している。完成品の手前に戻れる資料だ。",
+      "2016年のEPには、元のマルチトラックから復元した版と、カットや会話を外したDIY版もある。公式説明は1999年の再発版との違いも注意している。",
+      "ここに掲載するJ5名義の音源を復元版と同一視せず、版名を確かめてから比較へ進みたい。"
     ],
     "facts": [
       {
@@ -23253,11 +23300,9 @@
     ],
     "samples": [],
     "listening": [
-      "切り替わる声や音の入り口を、一つずつ追って聴く。",
-      "曲の終わりと、次にかける一曲の頭を考える。",
-      "同じ盤の前後へ戻り、曲順の中で聴き直す。"
+      "公式の版説明とともに、練習テープと完成版を比べる。"
     ],
-    "context": "90年代の選曲から、現在の耳へ。",
+    "context": "練習テープと複数の版を分けて読む。",
     "sources": [
       {
         "label": "Jurassic 5 - Topic — Lesson 6: The Lecture",
@@ -23268,6 +23313,11 @@
         "label": "収録・発表の資料",
         "url": "https://pitchfork.com/news/34001-jurassic-5-reissue-expand-debut-lp/",
         "kind": "盤情報"
+      },
+      {
+        "url": "https://cutchemist.bandcamp.com/album/lesson-6-the-lecture-ep-remastered",
+        "label": "Cut Chemist — Lesson 6: The Lecture EP (Remastered)",
+        "kind": "制作者公式リリース解説"
       }
     ],
     "producers": [],
@@ -23287,7 +23337,18 @@
     "editorialCrates": [
       "cut-scratch"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "jurassic-5-jayou",
@@ -23335,12 +23396,11 @@
       "lettering": "subway",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "Jayouという短い名札を、棚の入口に置く。",
-    "essayTitle": "歌詞を覚える前に、声の順番を覚える",
+    "deck": "「Jayou」と「Concrete and Clay」をつなぐ、Pleasure Webの二つのパート。",
+    "essayTitle": "同じ七インチの、もう片面へ。",
     "essay": [
-      "Jayouという短い名札を、棚の入口に置く。言葉を全部覚えなくても、声のリレーを覚えることはできる。そこから好きな一曲が始まる。",
-      "収録盤は『Lyricist Lounge Vol. 1』。曲を一枚だけでかけたあと、前後の選曲へ戻ってみる。同じビートでも、どこから来て、どこへ渡すかで、その日の顔が変わってくる。",
-      "ピザが焼けるのを待つ間に、ドラムを数えてみる。じっと座っているつもりでも、膝が先に時間を覚えてしまう。歩く時には、いつもの道へ一曲分の時間を重ねてみたい。"
+      "音楽ライターのOliver WangはSoul Sidesで、「Jayou」はPleasure Webの「Music Man」Part 2を使い、「Concrete and Clay」では同じ七インチのPart 1へ戻った、と説明している。",
+      "同じ盤でも使う部分は違う。この解説を手がかりに、二つのパートとJ5の曲を組にしてたどりたい。一枚の別の場所から曲を作る、という比較ができる。"
     ],
     "facts": [
       {
@@ -23354,11 +23414,9 @@
     ],
     "samples": [],
     "listening": [
-      "切り替わる声や音の入り口を、一つずつ追って聴く。",
-      "曲の終わりと、次にかける一曲の頭を考える。",
-      "同じ盤の前後へ戻り、曲順の中で聴き直す。"
+      "「Music Man」Part 2と「Jayou」、Part 1と「Concrete and Clay」を別々の組で比べる。"
     ],
-    "context": "90年代の選曲から、現在の耳へ。",
+    "context": "Oliver Wangの解説から、同じ盤の別の使い方を読む。",
     "sources": [
       {
         "label": "Jurassic 5 - Topic — Jayou",
@@ -23369,6 +23427,11 @@
         "label": "収録・発表の資料",
         "url": "https://www.sourcerecords.jp/product/9229",
         "kind": "盤情報"
+      },
+      {
+        "url": "https://soul-sides.com/2007/12/cut-chemist-vs-cut-chemist-which-flip-is-better.html",
+        "label": "Oliver Wang（O-Dub）— Cut Chemist vs. Cut Chemist / Soul Sides",
+        "kind": "音楽ライターによるサンプル解説"
       }
     ],
     "producers": [],
@@ -23388,7 +23451,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "ugly-duckling-now-who-s-laughin",
@@ -23651,12 +23722,12 @@
       "lettering": "subway",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "角度を変えてみる。",
-    "essayTitle": "映画のテーマと聴き比べる、針の角度",
+    "deck": "1998年の12インチを、Rakaaが語る自主的な活動の道のりに置く。",
+    "essayTitle": "大手と組む前に、自分たちで届けた。",
     "essay": [
-      "角度を変えてみる。正面から押すだけでは動かなかったものが、横から触ると案外するりと動く。Work the Anglesという題名には、DJが盤のどこへ針を置くか考える時にも似た、手つきの面白さがある。",
-      "1998年の12インチから、2000年の『The Platform』へ続く曲。アルバムにまとまる前の一枚にも、音楽を外へ運ぶ力がある。発表年はシングルの年に揃えておく。 Joseph Koo & Wang Fu Lingの「Opening (The Big Boss soundtrack)」も、横に置いて聴き比べる。",
-      "ピザが焼けるのを待つ間に、一曲をかける。歩く時には、いつもの道へその反復を連れていく。今日はこの一枚、と自分のプレイリストへ選ぶ。それくらいの付き合い方から、レコードは長く暮らしに残っていく。"
+      "2000年のLA Weekly取材で、Rakaaは大手レーベルの助けを借りずに世界へツアーを組み、レコードを届けてきたと話している。Capitolとの契約も、条件を話し合って納得できる形にしたという。",
+      "同記事のDerrick Mathisは、ABBから出た一連のレコードの中に、1998年の12インチ「Work the Angles」を挙げている。のちに『The Platform』へ入る前から、曲は独立した一枚として外へ届いていた。",
+      "1998年のシングルから2000年のアルバムへ、という順番を分けて聴きたい。Joseph Koo & Wang Fu Lingの「Opening (The Big Boss soundtrack)」も、横に置いて聴き比べる。"
     ],
     "facts": [
       {
@@ -23694,11 +23765,9 @@
       }
     ],
     "listening": [
-      "声が入る前と、入った後のビートを聴き比べる。",
-      "一枚を単独でかけてから、収録盤の前後の曲へ戻る。",
-      "原曲、リミックス、インストの版名を確かめながら選曲する。"
+      "12インチでの発表とアルバム収録を分け、既存のサンプル元への道もたどる。"
     ],
-    "context": "一曲ずつ選び、次の一曲との間も楽しむためのレコード。",
+    "context": "曲の発売順と、Rakaaが語る自主活動・契約の考え方を重ねて読む。",
     "sources": [
       {
         "label": "Mass Appeal — Work the Angles",
@@ -23744,7 +23813,19 @@
     "editorialCrates": [
       "cut-scratch"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ]
   },
   {
     "id": "gang-starr-flip-the-script",
