@@ -26442,12 +26442,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "J Dillaのビートに、Madlibがラップする。",
-    "essayTitle": "二人の名前を、役割まで聴く。",
+    "deck": "最初のJaylibシングルで、二人の役割が裏返る。",
+    "essayTitle": "The RedとThe Officialを一組で読む。",
     "essay": [
-      "Jaylibという名前の面白さは、二人の名をつなげたところで終わらない。作る人が、相手の音の上で声を出す。",
-      "The RedではJ Dillaが制作し、Madlibがラップする。この役割を知ってから聴くと、同じユニットの別曲も気になってくる。",
-      "肩書きを交換するのではなく、得意技を持ち寄って相手の場所へ入る。いい共作には、そのくらいの身軽さがある。"
+      "「The Red」の相方は「The Official」。2003年の12インチ『The Red & The Official』は、Jaylibとして最初の正式リリースだった。二人の名前を合わせたユニットの仕組みが、この一枚に収まっている。",
+      "「The Red」はJ Dillaの制作にMadlibのラップ。「The Official」ではMadlibが制作し、J Dillaがラップする。両曲を続けると、一人の作り手をビートと声の両側から追える。まずこの組み合わせから二人の違いを探してみたい。",
+      "版には注意したい。Stones Throwはこの12インチの「The Red」をオリジナル版と明記し、現在の『Champion Sound』商品ページには「The Red (Remix)」を載せている。ここで取り上げるのは2003年のオリジナル版。ただし、掲載プレーヤーの音がその版に一致するかは、まだ照合できていない。"
     ],
     "facts": [
       {
@@ -26459,7 +26459,7 @@
       },
       {
         "title": "版・制作の区別",
-        "text": "オリジナル版。ビートはJ Dilla、ラップはMadlib。再発の差し替え版とは区別。",
+        "text": "本稿はオリジナル版を対象に、J Dillaの制作とMadlibのラップを扱う。掲載プレーヤーがその版と一致するかは未照合。",
         "sources": [
           1
         ]
@@ -26468,10 +26468,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "J Dillaのビートに、Madlibがラップする。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "The Officialと並べ、同じ人物が制作側とラップ側を行き来する関係を追う。"
     ],
-    "context": "2003年の作品として、J Dillaの制作とJaylibの表現の接点を聴く。",
+    "context": "2003年の正式デビュー12インチに収録されたオリジナル版を対象とする。",
     "sources": [
       {
         "label": "Stones Throw / Jaylib - The Red",
@@ -26481,6 +26480,16 @@
       {
         "label": "Stones Throw / Jaylib制作担当",
         "url": "https://www.stonesthrow.com/news/j-dilla-and-madlib-are-jaylib/",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "Stones Throw / The Red & The Official",
+        "url": "https://www.stonesthrow.com/store/the-red-the-official/",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "Stones Throw / Champion Sound",
+        "url": "https://www.stonesthrow.com/store/champion-sound/",
         "kind": "アーティスト・レーベル公式"
       }
     ],
@@ -26506,7 +26515,19 @@
       "J Dilla",
       "Madlib"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ]
   },
   {
     "id": "j-dilla-workinonit",
@@ -27237,12 +27258,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "Lootpackの声と、Madlibのビートが交差する。",
-    "essayTitle": "マイクの前で、音がつながる。",
+    "deck": "Wildchildのコーラスは二つある。",
+    "essayTitle": "ベース、ラップ、スクラッチを三人で分け合う。",
     "essay": [
-      "声がビートの上に乗ると、短いフレーズにも身振りが見えてくる。Lootpackでは、その身振りを追うだけでも楽しい。",
-      "Madlibを知ってから初期のグループへ戻ると、のちの別名義とは違う、仲間と鳴らす音の近さに気づく。",
-      "膨大なディスコグラフィーも、一曲ずつなら歩ける。この曲は、その最初の角を曲がるのにちょうどよい。"
+      "「Whenimondamic」は、Wildchildのコーラスが二つある曲。Stones Throwが12インチの紹介でわざわざ数を強調するほど、曲の顔になる部分だ。ヴァースだけを追わず、コーラスがどう戻ってくるかにも耳を向けたい。",
+      "その紹介にはMadlibのベースラインとDJ Romesのスクラッチも並ぶ。Madlibの初期仕事としてだけ眺めると、声とターンテーブルを担う二人が背景に下がってしまう。ここでは三人それぞれの役割を手がかりにしたい。",
+      "同じ12インチには「Whenimondamic」のインストゥルメンタルも入っている。ラップのある版とない版を比べれば、声を追っているときには見落としがちなビート側へ意識を移せる。『Soundpieces: Da Antidote!』へ進む前に、この一曲の組み立てを見直す入口になる。"
     ],
     "facts": [
       {
@@ -27256,15 +27277,30 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "Lootpackの声と、Madlibのビートが交差する。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "Wildchildの二つのコーラスを手がかりに曲の区切りを追う。",
+      "同じ12インチのインスト版と比較し、声を外したときの構成を確かめる。"
     ],
-    "context": "1999年の作品として、Madlibの制作とLootpackの表現の接点を聴く。",
+    "context": "公式のディスコグラフィーでは1999年に分類される12インチ。Soundpieces: Da Antidote!にも収録。",
     "sources": [
       {
         "label": "Stones Throw / Lootpack (Madlib, Wildchild & DJ Romes) - Whenimondamic [Official Music Video]",
         "url": "https://www.youtube.com/watch?v=-VYE0w9evbQ",
         "kind": "公式配信・動画"
+      },
+      {
+        "label": "Stones Throw / Whenimondamic",
+        "url": "https://www.stonesthrow.com/store/whenimondamic/",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "Stones Throw / Pieces of Soundpieces",
+        "url": "https://www.stonesthrow.com/news/stones-throw-podcast-50-lootpack-pieces-of-soundpieces-news/",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "Lootpack official Bandcamp / Whenimondamic",
+        "url": "https://lootpack.bandcamp.com/track/whenimondamic",
+        "kind": "アーティスト・レーベル公式"
       }
     ],
     "producers": [
@@ -27287,7 +27323,18 @@
     "artists": [
       "Lootpack"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "quasimoto-microphone-mathematics",
@@ -27334,12 +27381,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "加工した声が、別の語り手を生み出す。",
-    "essayTitle": "声の高さが、人格を変える。",
+    "deck": "おなじみのLord Quasの姿を、このシングルからたどる。",
+    "essayTitle": "声のキャラクターに、DJ Designが姿を与える。",
     "essay": [
-      "高い声が入った瞬間、同じ部屋にもう一人いるように聞こえる。Quasimotoという別名義は、名前だけの着替えではない。",
-      "声の響きが変われば、ビートとの距離も、言葉の身軽さも変わる。小さな加工が、大きな世界観につながっている。",
-      "計算という題名だが、式を解く必要はない。声とループの間で起きる妙な楽しさに、まずは乗ってしまえばいい。"
+      "「Microphone Mathematics」は、Quasimotoの見た目をたどるうえでも外せない。Stones Throwの公式回顧によれば、現在おなじみの姿を最初に描いたのはDJ Design。このシングルではKeith Beats名義でクレジットされていた。",
+      "音の中のQuasimotoと、ジャケットのQuasimotoは、同時に完成したわけではない。DJ Designの絵を、のちにJeff Jankが『The Unseen』のCDブックレットなどへ展開していった。一曲のシングルに描かれた姿が、作品をまたいで育っていく。",
+      "レーベルが初のソロ12インチと紹介するこの盤には、インストゥルメンタルも用意されている。声のキャラクターと絵のキャラクターを知ったら、今度は声を外した版へ。名前や姿からいったん離れて、Madlibのトラックを追う道もある。"
     ],
     "facts": [
       {
@@ -27360,10 +27407,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "加工した声が、別の語り手を生み出す。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "シングルのインスト版と比べ、声がある版との印象の違いを確かめる。"
     ],
-    "context": "1999年の作品として、Madlibの制作とQuasimotoの表現の接点を聴く。",
+    "context": "1999年のソロ12インチと2000年のThe Unseen収録を区別する。",
     "sources": [
       {
         "label": "Quasimoto - Topic / Microphone Mathematics",
@@ -27373,6 +27419,11 @@
       {
         "label": "Stones Throw / Microphone Mathematics",
         "url": "https://www.stonesthrow.com/store/microphone-mathematics/",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "Stones Throw / History of Lord Quas",
+        "url": "https://www.stonesthrow.com/news/history-of-lord-quas/",
         "kind": "アーティスト・レーベル公式"
       }
     ],
@@ -27396,7 +27447,18 @@
     "artists": [
       "Quasimoto"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "quasimoto-low-class-conspiracy",
@@ -27443,12 +27505,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "ずれた声とループが描く、Quasimotoの小さな世界。",
-    "essayTitle": "変な声にも、暮らしがある。",
+    "deck": "Low Class Conspiracyが着ぐるみになった。",
+    "essayTitle": "2011年の映像が、昔の曲に別の姿を与える。",
     "essay": [
-      "奇妙な声に慣れてくると、その奇妙さより、語りの調子が気になってくる。キャラクターが音楽の中に住み始める感じがする。",
-      "ループは背景でありながら、声の表情を決める相手でもある。その近さが、この別名義の居心地のよさにつながっている。",
-      "立派な説明をつけるほど遠ざかる音楽もある。少し不思議なまま手元に置いておく、それで十分な気がする。"
+      "「Low Class Conspiracy」には、曲の発売から時間を置いて作られた映像がある。2011年、Kristoffer Crookによる作品がStones Throwの動画コンテストで4位に選ばれた。アルバム『The Unseen』が出た2000年とは別の出来事だ。",
+      "レーベルが喜んで取り上げたのは、Lord Quasの着ぐるみ。クレジットには衣装担当Hanna Duna、Quasimoto役Maiken Ryeの名がある。紙の上で見慣れたキャラクターを、人が着て演じるための仕事が加わっている。",
+      "この映像を入口に曲へ戻るのも面白い。ただし、そこで見える姿や演出を、そのまま録音時のMadlibの意図に重ねることはできない。後から別の作り手が一曲を受け取り、新しい見せ方を与えた作品として見比べたい。"
     ],
     "facts": [
       {
@@ -27459,20 +27521,20 @@
         ]
       },
       {
-        "title": "版・制作の区別",
-        "text": "1999年のMicrophone Mathematicsシングルに収録。The Unseenへの収録は2000年。",
+        "title": "アルバムと後年の映像",
+        "text": "The Unseenへの収録は2000年。2011年の動画コンテスト作品は、録音より後に制作された映像として区別する。",
         "sources": [
-          1
+          2,
+          3
         ]
       }
     ],
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "ずれた声とループが描く、Quasimotoの小さな世界。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "曲を聴いて浮かぶ人物像と、後年の映像が与える姿を分けて捉える。"
     ],
-    "context": "1999年の作品として、Madlibの制作とQuasimotoの表現の接点を聴く。",
+    "context": "2000年のThe Unseen収録と、2011年の動画コンテスト入賞を区別する。",
     "sources": [
       {
         "label": "Quasimoto - Topic / Low Class Conspiracy",
@@ -27482,6 +27544,16 @@
       {
         "label": "Stones Throw / Microphone Mathematics",
         "url": "https://www.stonesthrow.com/store/microphone-mathematics/",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "Stones Throw / Low Class Conspiracy video",
+        "url": "https://www.stonesthrow.com/news/quasimoto-low-class-conspiracy-video/",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "Quasimoto official Bandcamp / Low Class Conspiracy",
+        "url": "https://quasimoto.bandcamp.com/track/low-class-conspiracy",
         "kind": "アーティスト・レーベル公式"
       }
     ],
@@ -27505,7 +27577,19 @@
     "artists": [
       "Quasimoto"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        2,
+        3
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "madlib-slims-return",
@@ -27553,12 +27637,13 @@
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。",
       "paletteCoverSource": "https://www.youtube.com/watch?v=78E1ZFpHOJI"
     },
-    "deck": "Blue Noteの音源と、Madlibのビートの接点。",
-    "essayTitle": "ジャズの棚に、別の入口を。",
+    "deck": "音だけでなく、ジャケットも素材に。MV監督の証言から見える、Blue Noteへの入り方。",
+    "essayTitle": "Blue Noteのジャケットに入り込む、Slim's Return",
     "essay": [
-      "ジャズの音が、別の拍の感じ方でこちらへ届く。元の演奏を知っていても、知らなくても、入口は開いている。",
-      "Shades of Blueという企画では、名門レーベルの記録がビートの材料になる。古い音に触ることは、必ずしも懐古ではない。",
-      "再構築された曲から元の録音へ戻る。その往復が始まると、レコード棚は急に広くなる。置き場所だけが、少々困る。"
+      "「Slim's Return」には、Blue Noteの音を組み替えるだけでなく、そのジャケットの世界へ入っていくという映像の発想があった。監督のDavid Ahujaは2022年のインタビューで、名盤のアートワークを参照し、Madlibをその中に置き、レコードを掘る文化と結び付ける企画だったと話している。",
+      "Ahujaによれば、映像では実際のジャケットを分解して使い、グラフィックの参考にはSaul Bassの仕事もあった。古いレコードを探す行為と、そこから新しい形を作る行為。その二つを、映像の作り方でもつなごうとしていたわけだ。",
+      "音の側にも、名前をたどる手がかりがある。Universal Musicが公開する2023年再発盤の曲別クレジットでは、ヴィブラフォンにAhmad Miller、DJにDJ Lord Such、制作とリミックスにMadlibが記されている。ここで扱うのは2003年の『Shades of Blue』収録曲で、再発盤の発売年を曲の初出年とはしない。",
+      "この曲からBlue Noteへ戻るなら、音源だけでなくジャケットにも目を向けてみたい。"
     ],
     "facts": [
       {
@@ -27572,15 +27657,29 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "Blue Noteの音源と、Madlibのビートの接点。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "ヴィブラフォンとDJのクレジットを手がかりに、音を作る役割の違いへ目を向ける。"
     ],
-    "context": "2003年の作品として、Madlibの制作とMadlibの表現の接点を聴く。",
+    "context": "2003年『Shades of Blue』収録曲。2023年再発のクレジットは補助資料として用い、既存配信音源のマスター同一性は断定しない。",
     "sources": [
       {
         "label": "Madlib - Topic / Slim's Return",
         "url": "https://www.youtube.com/watch?v=78E1ZFpHOJI",
         "kind": "公式配信・動画"
+      },
+      {
+        "label": "For The Love — Slim's Return監督David Ahujaインタビュー（2022）",
+        "url": "https://kev2.substack.com/p/madlib-slims-return",
+        "kind": "制作参加者の取材・証言"
+      },
+      {
+        "label": "Universal Music Italia — Shades Of Blue公式曲別クレジット（2023再発）",
+        "url": "https://www.universalmusic.it/musica-jazz/album/shades-of-blue_36082603934/",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "Apple Music — Slim's Return／Shades of Blue",
+        "url": "https://music.apple.com/us/song/slims-return/1444093551",
+        "kind": "公式配信・作品情報"
       }
     ],
     "producers": [
@@ -27603,7 +27702,20 @@
     "artists": [
       "Madlib"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        2,
+        3
+      ],
+      []
+    ]
   },
   {
     "id": "madvillain-americas-most-blunted",
@@ -28012,12 +28124,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "低音と断片がつくる、不思議な手触り。",
-    "essayTitle": "きれいに並ばない、という秩序。",
+    "deck": "初期録音へ戻り、完成形と比べる入口。",
+    "essayTitle": "「Meat Grinder」を、もう一つの名前で探す",
     "essay": [
-      "最初から最後まで、安心して予測できる音ではない。小さな断片が、声のまわりでそれぞれ勝手に動いているように感じる。",
-      "それでも曲としてまとまって聞こえるのは、声と低音が居場所を持っているからだろう。雑然として見える部屋にも、住人の秩序はある。",
-      "整頓しすぎると失われる面白さがある。Madlibのビートを聴く時間は、その感覚を耳で確かめる時間でもある。"
+      "公式デモ盤では、「Meat Grinder」のデモが「Just for Kicks」と表記されている。",
+      "Stones Throwの回顧によれば、2002年にDOOMがLAでMadlibと制作した際、この曲と「Figaro」のデモが生まれた。完成アルバムの発売は2004年。公開された年と、録音した年は分けて読む必要がある。",
+      "二つの名前を目印に、声の入りと終わり方を比べてみたい。どこを編集したかを決めつけず、同じ条件で聴き直すための入口にする。"
     ],
     "facts": [
       {
@@ -28031,15 +28143,26 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "低音と断片がつくる、不思議な手触り。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "声の入りと終わり方を比べてみる。"
     ],
-    "context": "2004年の作品として、Madlibの制作とMadvillainの表現の接点を聴く。",
+    "context": "初期録音と完成形を区別して読む。",
     "sources": [
       {
         "label": "Madvillain - Topic / Meat Grinder",
         "url": "https://www.youtube.com/watch?v=FoasIcgem0w",
         "kind": "公式配信・動画"
+      },
+      {
+        "label": "Madvillain公式Bandcamp — Madvillainy Demos",
+        "url": "https://madvillain.bandcamp.com/album/madvillainy-demos"
+      },
+      {
+        "label": "Madvillain公式Bandcamp — Madvillainy",
+        "url": "https://madvillain.bandcamp.com/album/madvillainy"
+      },
+      {
+        "label": "Stones Throw — MF DOOM追悼文、2021-01-05",
+        "url": "https://www.stonesthrow.com/news/mf-doom/"
       }
     ],
     "producers": [
@@ -28062,7 +28185,16 @@
     "artists": [
       "Madvillain"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      []
+    ]
   },
   {
     "id": "freddie-gibbs-madlib-thuggin",
@@ -28309,12 +28441,13 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "Madlibの音楽に、Kieran Hebdenの編集・構成。そして公式クレジットに残る二つのサンプル名義。",
-    "essayTitle": "音を作る人、並べ直す人。",
+    "deck": "『Lunch Breaks』のドラムから、次の制作へ。J-Zone本人の証言がつなぐ一曲の背景。",
+    "essayTitle": "J-Zoneのドラムが、Madlibの曲になる",
     "essay": [
-      "「Road of the Lonely Ones」の公式シングルページは、音楽をMadlib、編集・構成・マスタリングをKieran Hebdenと記している。同じ「制作」という言葉でまとめずに読むと、音を生む仕事と、それを一曲の形に整える仕事の分担が見えてくる。",
-      "サンプルのクレジットにはThe EthicsとJ-Zoneの名がある。ただし、このページが明記するのは名義と提供元で、元になった曲名や録音の版までは書かれていない。声やドラムを聴き分ける入口にはなるが、どの音が誰のどの録音かを、この記載だけで決めつけない。",
-      "収録アルバム『Sound Ancestors』の公式紹介でHebdenは、Madlibから数年にわたり何百もの音楽の断片を受け取り、編集し、組み合わせたと説明している。この曲も、素材の出会いだけでなく、一枚を通して聴くための並べ方という視点からたどれる。"
+      "「Road of the Lonely Ones」のドラムには、J-Zoneが自分で演奏して録音したブレイクが使われている。本人は2020年12月の記事で、Madlibが自分の初期のドラムブレイク盤をサンプリングしたと報告した。2023年には、その出典盤が『Lunch Breaks』だったことも明かしている。",
+      "J-Zoneは2014年から、音楽家がサンプリングに使えるブレイクのレコードを出していた。かつて音を切り取って曲を作っていた人が、今度はほかの作り手に切り取られるドラムを演奏する。その立場の変化は本人にとって不安も伴ったが、Madlibによる使用はうれしい出来事だったという。",
+      "この接点には続きもある。J-Zoneによれば、2020年にEgonとMadlibから届いたのは、『Road of the Lonely Ones』で使うドラムの許諾についての連絡だった。そして、彼らの音楽ライブラリー・シリーズで一枚を作る機会につながる。後に発表された『Intoxicated Skull』へも、この曲から道が延びている。",
+      "完成したシングルでは、音楽はMadlib、編集・構成・マスタリングはKieran Hebdenと分けて記されている。サンプル名義にはThe EthicsとJ-Zone。音を演奏した人、選んで曲にした人、編集した人をたどると、一つのビートの後ろにある仕事が少しずつ見えてくる。"
     ],
     "facts": [
       {
@@ -28333,12 +28466,11 @@
       }
     ],
     "samples": [],
-    "sampleStatus": "公式シングルページはThe EthicsとJ-Zoneをサンプル名義として記載。元曲名・録音の版・各音との対応は個別照合中。",
+    "sampleStatus": "公式クレジットはThe EthicsとJ-Zoneを記載。J-Zone本人の説明で、ドラムが自身の『Lunch Breaks』からのサンプルと確認できる。各サンプルの曲名・録音版・切出し位置は未確定。",
     "listening": [
-      "Madlibの音を、Kieran Hebdenの編集でたどる。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "J-Zoneの録音したドラムを使う曲として、ビートの手触りへ耳を向ける。"
     ],
-    "context": "2020年12月に先行発表され、2021年の『Sound Ancestors』に収録。公式クレジットではMadlibの音楽とKieran Hebdenの編集・構成・マスタリングを区別している。",
+    "context": "2020年12月に先行発表、2021年1月29日発売の『Sound Ancestors』に収録。Madlibの音楽とKieran Hebdenの編集・構成・マスタリングを区別する。",
     "sources": [
       {
         "label": "Madlib Invazion / Madlib - Road of the Lonely Ones",
@@ -28354,6 +28486,16 @@
         "label": "Madlib公式：Sound Ancestors／制作クレジットとKieran Hebdenの説明",
         "url": "https://madlib.bandcamp.com/album/sound-ancestors",
         "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "Jay Mumford公式 — J-Zone Sampled on Madlib’s Latest Single（2020）",
+        "url": "https://jaymumfordmusic.com/j-zone-sampled-on-madlibs-latest-single-road-of-the-lonely-ones/",
+        "kind": "制作参加者・演奏者本人の証言"
+      },
+      {
+        "label": "Jay Mumford公式 — Intoxicated Skull Out Now!!!（2023）",
+        "url": "https://jaymumfordmusic.com/intoxicated-skull-out-now/",
+        "kind": "制作参加者・演奏者本人の証言"
       }
     ],
     "producers": [
@@ -28379,13 +28521,17 @@
     "datePublished": "2026-10-15",
     "essaySources": [
       [
-        1
+        3,
+        4
+      ],
+      [
+        3
+      ],
+      [
+        4
       ],
       [
         1
-      ],
-      [
-        2
       ]
     ]
   },
@@ -60795,28 +60941,27 @@
     "scene": "Oxnard / Stones Throw",
     "label": "Stones Throw",
     "category": "Hip Hop",
-    "essayTitle": "二人の名前の下に、もう一人を読む。",
-    "deck": "赤い大文字のMEDとKWELI。その二人を支えるKarriem Rigginsの仕事から、2010年のシングルと、その先に続く制作のつながりを辿る。",
+    "essayTitle": "「Classic」の映像に集まった、曲のクレジットの外の仲間たち",
+    "deck": "二人のMCの曲に、映像ではさらに仲間が加わる。2010年の12インチと翌年の公式告知をたどる。",
     "essay": [
-      "2010年の12インチを表から見ると、MEDとKWELIの名前が赤い大文字で並んでいる。その下に小さく「Classic」。二人のMCを前面に出した一枚だが、もう一つ確かめたい名前はKarriem Rigginsだ。Stones Throwの告知は、この曲の制作をRiggins、反対側の「Where I’m From」をOh Noと分けている。同じ盤を返すだけで、声の組み合わせも、ビートを作る人も変わる。",
-      "MEDとRigginsの接点は、このシングルだけではない。Rigginsは2021年の取材で、J Dillaの『The Shining』を仕上げる際、「Jungle Love」へGuilty SimpsonとMEDを招いたと振り返っている。これは同曲のビート制作をRigginsへ帰す話ではなく、誰の声を作品へ迎えるかという仕事の証言だ。「Classic」でも、MCの隣にあるプロデューサーの名前を、伴奏の担当者というだけで読み終えずにいたい。",
-      "翌2011年のアルバムも『Classic』と名づけられた。MEDがレーベルに寄せた説明では、狙いは世代を越えて聴かれる可能性を持つ音楽であり、現在の自分やコミュニティの問題を扱いながら成長を見せることだった。これはアルバム名についての発言で、先行曲の作詞意図を直接語るものではない。それでも「Classic」を、すでに過去の評価が固まった音楽だけを指す言葉ではなく、これから届く相手への願いとして捉える入口になる。",
-      "先へ掘るなら、Riggins自身がまとめた2012年のミックス『Karriem Riggins Produced That』が具体的な道になる。「Classic」は、Slum Villageの「Tainted」やJ Dillaの「The Clapper」などと同じ選曲表に置かれている。MEDのアルバムへ戻る道と、作り手の仕事を横断する道。曲名を知ったところで探索を終えず、今回は後者から、二人の声の周囲へ耳を広げてみたい。"
+      "「Classic」の録音にはMEDとTalib Kweli、制作にはKarriem Riggins。けれど2011年の公式ビデオ紹介を開くと、名前の輪はもっと広い。Riggins自身に加え、Strong Arm Steady、Oh No、Alchemist、Peanut Butter Wolf、Noelle Scaggsも出演者として挙がっている。音源のクレジットだけでは見えなかった顔ぶれだ。",
+      "曲がレコードになったのは、その映像告知より前。2010年10月、Stones Throwは「Where I’m From」と組んだ両A面12インチを発表した。「Classic」はRigginsとKweli、もう片面はOh NoとAloe Blacc。MEDを中心に、作り手と歌い手の組み合わせが一枚の表裏で入れ替わる。",
+      "映像の出演者を録音の参加者と混同してはいけない。それでも、片面のプロデューサーOh Noが「Classic」のビデオ紹介にも登場することは面白い。盤では分かれている二つの組み合わせが、映像の周辺ではつながっている。曲ごとの役割を確かめると、仲間が集まる場の広さも見えてくる。",
+      "12インチのカタログには、声入りに加えてインストゥルメンタルとアカペラもある。映像から人をたどったあとには、声とビートを別々に聴く入口も用意されている。MEDとKweliを追う日と、Rigginsの仕事へ目を向ける日。同じ「Classic」でも、掘り始める場所を変えられる。"
     ],
     "essaySources": [
       [
-        0,
-        1,
-        8
+        2
       ],
       [
-        5
+        0
       ],
       [
-        3
+        2,
+        0
       ],
       [
-        7
+        1
       ]
     ],
     "facts": [
@@ -60897,8 +61042,7 @@
       "med-cant-hold-on"
     ],
     "listening": [
-      "MEDのアルバムへ戻る前に、Riggins本人のミックスで「Classic」の前後を辿る。MC中心の曲順とは違うつながりを探す。",
-      "公式カタログではヴォーカル、インストゥルメンタル、アカペラが分かれている。声とビートを別々の入口として捉える。"
+      "声とビートを分けて追い、インスト版やアカペラとの比較へ進む。"
     ],
     "moods": [
       "グルーヴ"
@@ -60943,7 +61087,7 @@
       "Medaphoar — Classic"
     ],
     "versionBasis": "採用候補はStones Throw自身が公開した「Classic feat Talib Kweli」の公式ビデオ。レーベルの2010年シングルおよびビデオ紹介はいずれもKarriem Riggins制作と明記。Dirty／Clean／アルバム版のどのマスターと完全一致するかは未確認で、公式ビデオ版として扱う。2009年ポッドキャストの同名曲を別プロデュースと断定しない。",
-    "context": "Talib Kweliを迎えた2010年の両A面シングル。Karriem Rigginsの制作と、MEDとの以前からの接点を手がかりに読む。",
+    "context": "2010年の12インチと、2011年の映像告知を分けて読む。",
     "datePublished": "2026-10-21",
     "addedOrder": 504,
     "art": {
@@ -62026,19 +62170,19 @@
       "versionBasis": "掲載音源は2005年『Push Comes to Shove』の単独アルバム曲です。Radio編集、インスト、「Push / Get Back」をつないだ公式映像とは分けています。配信メタデータの149秒と約2分30秒の表記には丸めの差があり、原盤との波形一致を示すものではありません。",
       "verification": "2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。"
     },
-    "essayTitle": "カメラが止まる、その少し前に。",
-    "deck": "MEDの「Push」の撮影現場から、J Dillaの『Donuts』の笑顔が生まれた。二枚の作品を結ぶのは、演出よりも撮影の余白だった。",
+    "essayTitle": "BETで流れなかった「Push」が、Donutsの顔になるまで",
+    "deck": "MEDの映像が、別のレコードの表紙へ。監督とデザイナーの証言をたどる。",
     "essay": [
-      "2005年の「Push」は、MEDのデビュー・アルバム『Push Comes to Shove』に入っている。アルバムにはMadlib、Oh No、Just Blazeも参加するが、この曲の制作と客演はJ Dilla。誰がどの曲を作ったのかを分けて見ると、豪華な名前の一覧が、具体的な共同作業へ変わってくる。",
-      "映像を監督したAndrew Guraは、2005年に「Push」の撮影を依頼され、ロサンゼルスのHighland ParkやHollywood Boulevardで撮ったと振り返る。J Dillaも現場へ来て、MEDと一緒に楽しんでいた。音楽を止めたあとも、Guraはカメラを回し続けたという。予定どおりの場面だけを残したわけではなかった。",
-      "数か月後、Stones ThrowのJeff Jankから、J Dillaの『Donuts』に使える写真がないかと連絡が来る。そこで映像の静止画が渡され、よく知られる笑顔のジャケットにつながった。Jankによれば、当初はCDやデジタルにこの写真を、LPにはドーナツ店の絵を使っていた。名盤の顔にも、媒体によって別の姿があった。",
-      "「Push」は、後のジャケットの出所としてだけ覚えるには惜しい。MED自身の最初のアルバムにある、MEDとDillaの一曲なのだから。ただ、作品の裏側をたどると、別の作品へ続く扉がふいに開くことがある。音楽が止まったあとも回っていたカメラ。その小さな余白が、いまも二枚のレコードをつないでいる。"
+      "MEDの「Push」は、J Dillaが制作し、声でも参加したデビュー作『Push Comes to Shove』の一曲だ。2005年、その映像を監督したAndrew Guraは、後年の回想で意外な行き止まりを明かしている。作品はBETに受理されたものの、MEDのラジオ放送実績が足りず、BETでは流れなかったという。",
+      "ただし、撮影した映像の役目はそこで終わらなかった。GuraはMEDとDillaが楽しむ様子を、音楽が止まったあとにも撮り続けていた。その後、Jeff Jankの求めに応じて静止画を渡し、笑顔のDillaが『Donuts』のジャケットになる。",
+      "最初から同じ写真がすべての盤に使われたわけではない。Jankによると、映像から取り出した画像は解像度が低く、当初はCDやデジタル向けに使った。LPにはドーナツ店の絵を採用し、のちに笑顔のジャケットをアナログ盤にも求める声を受け、画像を大きく印刷できるよう再構成した。",
+      "この来歴を知っても、「Push」を『Donuts』の付録にしてしまいたくはない。公式カタログへ戻れば、そこにあるのはMED名義のアルバムと、「Can’t Hold On」を裏に配した12インチだ。Dillaの写真へ続く道をたどったあと、今度はMEDのレコードへ戻る。その往復ができることも、この一曲の面白さだ。"
     ],
     "essaySources": [
       [
-        0,
         1,
-        2
+        7,
+        3
       ],
       [
         3
@@ -62048,7 +62192,7 @@
       ],
       [
         1,
-        3
+        4
       ]
     ],
     "facts": [
@@ -62106,6 +62250,10 @@
         "label": "Stones Throw — Stones Throw 102: In Living the True Gods / STH2187 DVD",
         "url": "https://www.stonesthrow.com/store/stones-throw-102-in-living-the-true-gods/",
         "kind": "公式カタログ"
+      },
+      {
+        "label": "Stones Throw — Jordan Ferguson著Donuts抜粋、Egonらの証言",
+        "url": "https://www.stonesthrow.com/news/j-dilla-donuts-333-excerpt/"
       }
     ],
     "samples": [],
@@ -62119,9 +62267,9 @@
     ],
     "yearBasis": "掲載音源は2005年『Push Comes to Shove』の単独アルバム曲です。Radio編集、インスト、「Push / Get Back」をつないだ公式映像とは分けています。配信メタデータの149秒と約2分30秒の表記には丸めの差があり、原盤との波形一致を示すものではありません。",
     "versionBasis": "掲載音源は2005年『Push Comes to Shove』の単独アルバム曲です。Radio編集、インスト、「Push / Get Back」をつないだ公式映像とは分けています。配信メタデータの149秒と約2分30秒の表記には丸めの差があり、原盤との波形一致を示すものではありません。",
-    "context": "J Dillaとの共作を、単独のアルバム音源と、後のジャケットへつながる映像制作の双方から読む。",
+    "context": "映像の制作と、Donutsのジャケットへの展開をたどる。",
     "listening": [
-      "単独のアルバム音源と、Push／Get Backを組み合わせた映像の構成を分けてたどる。"
+      "MEDの声とDillaのビートを追い、映像から曲そのものへ戻ってみる。"
     ],
     "moods": [
       "ラップ"
@@ -62581,21 +62729,16 @@
       "versionBasis": "掲載音源は2011年『Arms & Hammers』の6曲目にあたる、約3分42秒のボーカル曲です。インストやリミックス、受領したMIXの抜粋ではありません。制作はNottzで、Madlib制作の前作とは区別しています。",
       "verification": "2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。"
     },
-    "essayTitle": "仲間の名前が、曲の輪郭になる。",
-    "deck": "Nottzのもとに集まる、四人の客演とStrong Arm Steady。2011年の一曲から、制作年数よりも長い仲間のつながりをたどる。",
+    "essayTitle": "「All the Brothers」の顔ぶれを、客演の決め方から読む",
+    "deck": "曲別の顔ぶれと、本人が語る人選の考え方を分けて読む。",
     "essay": [
-      "Strong Arm Steadyの「All the Brothers」は、2011年の『Arms & Hammers』に収められた一曲。制作はNottzで、Chace Infinite、Talib Kweli、KRS-One、Planet Asiaが加わる。名前を並べるだけでも、ずいぶん広い輪になる。主役の三人だけで閉じず、先輩や仲間まで同じ曲へ招き入れる。その人選自体が、このグループの立ち位置を教えてくれる。",
-      "前年の『In Search of Stoney Jackson』はMadlibと組んだ作品だった。だから今回も、という早合点はしないでおきたい。当時のiHipHopの批評は、『Arms & Hammers』が前作とは異なる方向へ広がる一方、この曲にはアンダーグラウンドの客演陣が集まっていると指摘する。アルバム全体の変化と、手放さなかったつながり。その両方を考える入口になる。",
-      "2011年のインタビューで、Krondonは『Arms & Hammers』のために五年をかけ、およそ150曲を録ったと話している。一時の話題で終わらない作品にしたいという考えも、そこにはあった。ここでの長さは、音源の再生時間ではない。曲を作り、選び、もう一度作る時間のことだ。完成したトラックリストの背後に、それだけ多くの候補が控えていた。",
-      "同じ取材でMitchy Slickは、参加者たちを実際に付き合いのある人々として語る。その言葉を踏まえると、「Brothers」という題を、ただ大勢を呼んだ記念写真のようには扱いたくない。これは曲名からの編集上の読みだが、クレジットに並ぶ名前は、そのまま仕事と友情の履歴にも見えてくる。大きな輪は、顔の見える関係からできている。"
+      "「All the Brothers」の客演欄には、Chace Infinite、Talib Kweli、KRS-One、Planet Asiaが並ぶ。2011年の『Arms & Hammers』発売前に公表された曲目では、制作はNottz。Madlibと組んだ前年のアルバムを知っていても、この曲まで同じ制作者とは限らない。まずは一曲の名簿から入りたい。",
+      "Phil Da Agonyは2011年のHipHopDX取材で、客演は戦略的に名前を集めるのではなく、曲に合う人を考えると説明した。これはアルバム全体の話で、この曲だけの人選を証明するものではない。",
+      "同じ取材では、長く制作していた『Arms & Hammers』に先立ち、待つ聴き手へMadlibとの作品を届けたとも語っている。発売順だけで制作の流れを決めつけず、曲別の名義と本人の説明を分けてたどりたい。"
     ],
     "essaySources": [
       [
-        0,
         1
-      ],
-      [
-        3
       ],
       [
         2
@@ -62669,9 +62812,9 @@
     ],
     "yearBasis": "掲載音源は2011年『Arms & Hammers』の6曲目にあたる、約3分42秒のボーカル曲です。インストやリミックス、受領したMIXの抜粋ではありません。制作はNottzで、Madlib制作の前作とは区別しています。",
     "versionBasis": "掲載音源は2011年『Arms & Hammers』の6曲目にあたる、約3分42秒のボーカル曲です。インストやリミックス、受領したMIXの抜粋ではありません。制作はNottzで、Madlib制作の前作とは区別しています。",
-    "context": "制作と客演のクレジットから、三人のグループが外へ開いたつながりを読む。",
+    "context": "曲目の記録と、メンバーのアルバム制作談を区別して読む。",
     "listening": [
-      "Nottzの制作と四人の客演を、クレジットの名前ごとに追ってみる。"
+      "客演者が交代する箇所に注目し、それぞれの声と伴奏の関係を追う。"
     ],
     "moods": [
       "ラップ"
