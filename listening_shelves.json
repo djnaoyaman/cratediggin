@@ -354,19 +354,6 @@
       ]
     },
     {
-      "id": "beastie-boys-shake-your-rump",
-      "tags": [
-        {
-          "shelf": "arrangement",
-          "evidence": {
-            "file": "tracks.json",
-            "field": "essay.1",
-            "quote": "声の受け渡しとビートの切り替わり。細部に耳を向けるほど、騒がしさの中の組み立てが見えてくる。"
-          }
-        }
-      ]
-    },
-    {
       "id": "beastie-boys-root-down",
       "tags": [
         {
@@ -386,8 +373,8 @@
           "shelf": "voice",
           "evidence": {
             "file": "tracks.json",
-            "field": "essay.1",
-            "quote": "一人の名演を聴くというより、三人の間に生まれる動きを聴く。順番を守ることと、遠慮することは、どうやら別の話らしい。"
+            "field": "listening.0",
+            "quote": "サンプルを笛だけと決めつけず、声と楽器が重なる演奏として探る。"
           }
         }
       ]
