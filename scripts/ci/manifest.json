@@ -2400,6 +2400,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "named-art-first-browser"
+    },
+    {
+      "id": "nine-branding",
+      "argv": [
+        "python",
+        "scripts/verify_nine_branding.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "nine-branding"
+    },
+    {
+      "id": "nine-branding-browser",
+      "argv": [
+        "node",
+        "scripts/verify_nine_branding_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "nine-branding-browser"
     }
   ],
   "groups": {
@@ -2852,6 +2876,10 @@
     "named_art_first": [
       "named-art-first",
       "named-art-first-browser"
+    ],
+    "nine_branding": [
+      "nine-branding",
+      "nine-branding-browser"
     ]
   },
   "runtime_rules": {
@@ -3718,13 +3746,24 @@
       "scripts/fixtures/approved-four-mix.json"
     ],
     "scripts/approved_named_art_first.py": [
-      "scripts/fixtures/approved-named-art-first.json"
+      "scripts/fixtures/approved-named-art-first.json",
+      "scripts/approved_nine_branding.py"
     ],
     "scripts/verify_named_art_first.py": [
       "scripts/approved_named_art_first.py"
     ],
     "scripts/verify_named_art_first_browser.cjs": [
       "scripts/fixtures/approved-named-art-first.json",
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_nine_branding.py": [
+      "scripts/fixtures/approved-nine-branding.json"
+    ],
+    "scripts/verify_nine_branding.py": [
+      "scripts/approved_nine_branding.py"
+    ],
+    "scripts/verify_nine_branding_browser.cjs": [
+      "scripts/fixtures/approved-nine-branding.json",
       "scripts/verify_visible_art_browser.cjs"
     ]
   },
@@ -3809,7 +3848,9 @@
     "scripts/approved_four_mix.py",
     "scripts/fixtures/approved-four-mix.json",
     "scripts/approved_named_art_first.py",
-    "scripts/fixtures/approved-named-art-first.json"
+    "scripts/fixtures/approved-named-art-first.json",
+    "scripts/approved_nine_branding.py",
+    "scripts/fixtures/approved-nine-branding.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -4820,6 +4861,87 @@
         "after_sha256": "b6da85736f9010729254d7ce63e439736ce76dc1505e59aa5272f2f29410bc78",
         "groups": [
           "named_art_first"
+        ]
+      }
+    ],
+    "assets/graffiti/wu-tang-clan-soul-power-alpha.webp": [
+      {
+        "before_sha256": "353f0057d061d47ced1fa3d5c696a0bfe2bbab01850f405b839eaf6abf3d9f73",
+        "after_sha256": "1034281f4d978f3215f4efec221282e6ffdfd9f516791307f54069f0d3706bec",
+        "groups": [
+          "nine_branding"
+        ]
+      }
+    ],
+    "assets/graffiti/method-man-say-what-alpha.webp": [
+      {
+        "before_sha256": "21a882da97e08754189bb9a9d041f527e781c0bbd75ca117dab4d79f7ba9918f",
+        "after_sha256": "05250a1aa8a37320305e46d38502ccc321ee08b30034b0b4811a6ba4e49bf97e",
+        "groups": [
+          "nine_branding"
+        ]
+      }
+    ],
+    "assets/graffiti/time-machine-mind-in-a-spin-alpha.webp": [
+      {
+        "before_sha256": "76dfc81aabe098d3fc464e2d8d334b735aeabf94a95afa2b2622b70cdd1d4cef",
+        "after_sha256": "96cfb02e79f43b4ae641ad1992ac8e3c916c4d196b810b26a195bc240af27824",
+        "groups": [
+          "nine_branding"
+        ]
+      }
+    ],
+    "assets/graffiti/pitch-black-its-all-real-alpha.webp": [
+      {
+        "before_sha256": "5198477ed30cf9359a04203b549c3e71fabeea964922ef700a93957639307f54",
+        "after_sha256": "402af06de23c3403f2f57b44df70437ac0864a02f47de23936d95fcb20fce4b7",
+        "groups": [
+          "nine_branding"
+        ]
+      }
+    ],
+    "assets/graffiti/visionaries-sight-for-sore-eyes-alpha.webp": [
+      {
+        "before_sha256": "327bbf26a344802518bd47f78f209423017482992962b67fccfdbb4229740685",
+        "after_sha256": "94a9b97b740cb0a165a830b8522aa225867eae832903bfe273196db4dec0d3d8",
+        "groups": [
+          "nine_branding"
+        ]
+      }
+    ],
+    "assets/graffiti/visionaries-blessings-alpha.webp": [
+      {
+        "before_sha256": "b1d5316f00fdf95847d66b3efdba9c680111f4d0e68ffdbd708649acfbaac0ae",
+        "after_sha256": "f22bb330fb9590dffe486e2edef9c1d33d30c4c3417f56ae72c2729dace0eee6",
+        "groups": [
+          "nine_branding"
+        ]
+      }
+    ],
+    "assets/graffiti/living-legends-never-fallin-alpha.webp": [
+      {
+        "before_sha256": "6fdd72f2e21878e65314c0b95c82f6c8c9d371bc257337d8b05d157ee5a61018",
+        "after_sha256": "ee2f865d381e5a2c4f2d9f8b4ee40e7c82dc10c34db146d4916e0ee6f2d7d3ac",
+        "groups": [
+          "nine_branding"
+        ]
+      }
+    ],
+    "assets/graffiti/living-legends-even-though-alpha.webp": [
+      {
+        "before_sha256": "98cbe03e3a77f60ac299444c1e92f8b080c5650920e941826090e450f7a98f8a",
+        "after_sha256": "31cc01c3ec992dc8734156c37a9b239aeb0a14685e551c26fae1a4cf32f2a9ad",
+        "groups": [
+          "nine_branding"
+        ]
+      }
+    ],
+    "assets/graffiti/living-legends-blast-your-radio-alpha.webp": [
+      {
+        "before_sha256": "1e74f6d3ee005c17ec398b5312da6cb59b11ebd6a4dc7ed8baf1c401c5c97d5e",
+        "after_sha256": "c745049d8088d28fe3d57491faa6acb259fff38b7d98e5151625e8c43a2be8d8",
+        "groups": [
+          "nine_branding"
         ]
       }
     ]
