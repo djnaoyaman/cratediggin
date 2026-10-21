@@ -26919,12 +26919,10 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "Richard Ashcroftの歌を包む、長い余韻。",
-    "essayTitle": "ひとりの声が、広い場所へ届く。",
+    "deck": "Ashcroftとの録音を、Shadowが振り返る。",
+    "essayTitle": "最初のデモの声が、完成版にも。",
     "essay": [
-      "Lonely Soulという題名なのに、音の景色はずいぶん広い。Richard Ashcroftの声を中心に、歌の外側へ意識がゆっくり開いていく。",
-      "ロックの声とビートの組み合わせを、足し算だけでは説明しきれない。声を置く場所が変わると、その声が背負っていた風景まで変わる。",
-      "一曲が終わるまで急ぐ用事は、たいてい待たせても大丈夫だ。少なくとも、この曲を聴いているあいだくらいは。"
+      "DJ ShadowはStereogumの取材で、Richard Ashcroftと作った最初のデモから、歌の大部分を完成版にも使ったと話す。二人にはDavid Axelrodの音楽という共通の関心もあった。"
     ],
     "facts": [
       {
@@ -26939,10 +26937,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "歌と長い構成の関係。",
-      "曲の前半と終盤の広がり。"
+      "声を録り直すだけでなく、最初の録音を残す選択に注目する。"
     ],
-    "context": "1998年の『Psyence Fiction』を通して、UNKLEでのDJ Shadowの制作をたどる。",
+    "context": "初期の録音が、曲の核として残った。",
     "sources": [
       {
         "label": "Psyence Fiction / 公式作品情報",
@@ -26953,6 +26950,11 @@
         "label": "UNKLE - Topic / Lonely Soul",
         "url": "https://www.youtube.com/watch?v=XrFECnl3vno",
         "kind": "公式配信音源・動画"
+      },
+      {
+        "url": "https://stereogum.com/2240398/dj-shadow-new-album-unkle-dj-hero-rare-records/interviews",
+        "label": "Oumar Saleh — DJ Shadow interview / Stereogum 2023",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -26977,7 +26979,12 @@
       "UNKLE",
       "Richard Ashcroft"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "dj-shadow-six-days",
@@ -27025,12 +27032,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "声の反復が、ビートの中で記憶に変わる。",
-    "essayTitle": "繰り返す声に、時間が宿る。",
+    "deck": "二つの古い録音の役割を、署名レビューからたどる。",
+    "essayTitle": "歌と伴奏は、別のレコードから。",
     "essay": [
-      "声が繰り返されるたび、同じ言葉に違う重さが乗る。Six Daysでは、歌声そのものと同じくらい、その声が戻ってくる間隔が気になる。",
-      "古い録音の手触りと、新しく組まれたリズム。その間にある時間差が、音楽の奥行きになる。懐かしいという一言では、少し足りない。",
-      "過去の音を使いながら、聴き手を今に引き戻す。サンプリングの魅力は、時計を戻すことより、時間を重ねることにあるのだと思う。"
+      "Tom Breihanは『The Private Press』の回顧記事で、「Six Days」の歌をColonel Bagshotの「Six Day War」、音楽の素材をDennis Olivieriの「I Cry in the Morning」と説明している。他のサンプルも含まれるが、この二曲は声と伴奏の出自を分けて考える手がかりになる。",
+      "原曲の歌を移すことと、周囲の音楽を作り直すこと。別々の録音が一曲の中で出会う過程を、引用元との聴き比べから考えてみたい。"
     ],
     "facts": [
       {
@@ -27066,10 +27072,9 @@
     ],
     "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "歌声の反復とビートの間隔。",
-      "音の余韻と低音の関係。"
+      "二つの引用元を並べ、歌と伴奏の出自を分けて追う。"
     ],
-    "context": "2002年の『The Private Press』を通して、DJ Shadowの音楽の広がりをたどる。",
+    "context": "別々の録音を組み合わせる発想に注目する。",
     "sources": [
       {
         "label": "The Private Press / 公式作品情報",
@@ -27090,6 +27095,11 @@
         "label": "The Quietus：DJ Shadow本人の曲別回想（2012）",
         "url": "https://thequietus.com/interviews/dj-shadow-reconstructed-best-of-interview/",
         "kind": "本人インタビュー"
+      },
+      {
+        "url": "https://stereogum.com/2188661/the-private-press-turns-20/reviews/the-anniversary",
+        "label": "Tom Breihan — The Private Press Turns 20 / Stereogum",
+        "kind": "署名付き音楽批評"
       }
     ],
     "producers": [
@@ -27112,7 +27122,15 @@
     "artists": [
       "DJ Shadow"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "dj-shadow-mashin-on-the-motorway",
@@ -27162,12 +27180,11 @@
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。",
       "paletteCoverSource": "https://djshadow.com/products/the-private-press-vinyl-2lp"
     },
-    "deck": "LateefのMCが運ぶ、せわしないビートの景色。",
-    "essayTitle": "ハンドルより先に、言葉が曲がる。",
+    "deck": "John Bookが描いた、Lateefを囲む道路の場面。",
+    "essayTitle": "渋滞の中に、何人もの声。",
     "essay": [
-      "Lateefの言葉が前へ進む。その勢いに押され、ビートまで少し落ち着きをなくしたように聞こえる。曲名に道路があるのも、なるほどと思う。",
-      "DJ Shadowの音楽を静かな内省だけで捉えると、この騒がしさが楽しい寄り道になる。声は風景の一部にも、こちらを引っ張る運転手にもなれる。",
-      "急ぐ音楽を、急がずに聴く。すると、勢いの陰にある細かい組み立てが見えてくる。実際の運転は、どうぞ穏やかに。"
+      "音楽評論家John Bookは2002年のレビューで、Lateefの交通を使った比喩に注目している。さらにGift of Gab、Chief Xcel、Joyo Velarde、Lyrics Bornを、道路上の怒りを描く場面の一部として紹介した。",
+      "これはBookによる曲の読み方だ。中心のラップだけでなく、その周りに置かれた声を登場人物として追うと、一人の独白とは違う聴き方ができる。"
     ],
     "facts": [
       {
@@ -27182,10 +27199,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "MCのフロウとビートの掛け合い。",
-      "短い展開の中での音の切り替え。"
+      "主役のラップと、その周囲の声を分けて追う。"
     ],
-    "context": "2002年の『The Private Press』を通して、DJ Shadowの音楽の広がりをたどる。",
+    "context": "発表当時の批評を手がかりに、声の役割を考える。",
     "sources": [
       {
         "label": "The Private Press / 公式作品情報",
@@ -27196,6 +27212,11 @@
         "label": "DJShadowVEVO / DJ Shadow - Mashin' On The Motorway",
         "url": "https://www.youtube.com/watch?v=mKibXhFqPjA",
         "kind": "公式配信音源・動画"
+      },
+      {
+        "url": "https://www.rapreviews.com/2002/05/dj-shadow-private-press/",
+        "label": "John Book — DJ Shadow Private Press / RapReviews 2002",
+        "kind": "署名付き音楽批評"
       }
     ],
     "producers": [
@@ -27219,7 +27240,15 @@
       "DJ Shadow",
       "Lateef the Truthspeaker"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "dj-shadow-scale-it-back",
@@ -27268,12 +27297,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "Little Dragonの歌声と、柔らかなビートの接点。",
-    "essayTitle": "歌の居場所を、少し広く。",
+    "deck": "数年越しの共演は、Little Dragonからの返信で形になった。",
+    "essayTitle": "返ってきた歌を、車で確かめた。",
     "essay": [
-      "Little Dragonの歌声が入ると、ビートの輪郭まで柔らかく感じられる。声が主役を奪うのではなく、音楽の中に新しい窓を開ける。",
-      "細かな仕掛けを追いかけてもいいし、ただメロディに乗ってもいい。入口がいくつもある曲は、その日の気分で聴き方を変えられる。",
-      "難しい顔をしなくても、丁寧に作られた音楽は楽しめる。肩の力を抜くことにも、相応の技術がいるのだろう。"
+      "Kidkanevilとの対談で、DJ ShadowはLittle Dragonと数年前から共演したかったと話している。彼らのGorillaz参加を知って一度ためらったが、そこで諦める必要はないと考え直したという。",
+      "送った曲がLittle Dragonから戻り、車で再生した時、うまくいくとすぐに確信した。完成形を先に決めきるのではなく、相手から届くものを受け取る。その瞬間を本人の回想からたどれる。"
     ],
     "facts": [
       {
@@ -27288,10 +27316,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "歌声とリズムの柔らかな接点。",
-      "メロディを支える音の配置。"
+      "二組の共演がどう成立したかを、歌と伴奏の関係から考える。"
     ],
-    "context": "2011年の『The Less You Know, the Better』を通して、DJ Shadowの音楽の広がりをたどる。",
+    "context": "長く望んだ相手からの返答が、曲を完成へ進めた。",
     "sources": [
       {
         "label": "The Less You Know, the Better / 公式作品情報",
@@ -27302,6 +27329,11 @@
         "label": "DJShadowVEVO / DJ Shadow - Scale It Back ft. Little Dragon",
         "url": "https://www.youtube.com/watch?v=NL9ypNz9-mM",
         "kind": "公式配信音源・動画"
+      },
+      {
+        "url": "https://www.bonafidemag.com/dj-shadow-interview/",
+        "label": "Kidkanevil interviews DJ Shadow / Bonafide",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -27325,7 +27357,15 @@
       "DJ Shadow",
       "Little Dragon"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "dj-shadow-the-mountain-will-fall",
@@ -27374,12 +27414,10 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "低音と電子音が開く、2016年の音の地形。",
-    "essayTitle": "山を見上げるより、音の中へ。",
+    "deck": "保管庫のレコードが、表題曲の出発点に。",
+    "essayTitle": "新しい曲にも、古い盤が残る。",
     "essay": [
-      "低音が足元に広がり、その上を電子音が動いていく。ここでは音の細部より先に、音楽全体の大きさを体で測りたくなる。",
-      "昔の名盤を知っていると、つい同じ景色を期待してしまう。しかし作り手は、その先の地形を歩いている。こちらも地図を持ち替えればいい。",
-      "DJ Shadowを一枚のアルバムに閉じ込めないための入口。変化を聴く楽しみは、馴染みの音を見つける楽しみに負けていない。"
+      "DJ ShadowはPitchforkに、表題曲でDario Baldan Bemboの「Prima Alba」を使ったと説明している。素材は保管庫のコレクションから選んだものだ。新しい作風と、古い盤を探す営みは切り離されていない。"
     ],
     "facts": [
       {
@@ -27394,10 +27432,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "低音と上に重なる電子音。",
-      "音色の変化がつくる展開。"
+      "「Prima Alba」と表題曲を並べて聴く。"
     ],
-    "context": "2016年の『The Mountain Will Fall』を通して、DJ Shadowの音楽の広がりをたどる。",
+    "context": "変化の中にも、レコードから作る方法がある。",
     "sources": [
       {
         "label": "The Mountain Will Fall / 公式作品情報",
@@ -27412,6 +27449,11 @@
       {
         "label": "Interview：DJ Shadow本人取材（2016）",
         "url": "https://www.interviewmagazine.com/music/dj-shadow",
+        "kind": "本人インタビュー"
+      },
+      {
+        "url": "https://pitchfork.com/news/64636-dj-shadow-announces-new-album-the-mountain-will-fall-featuring-run-the-jewels-shares-title-track-listen/",
+        "label": "Marc Hogan — DJ Shadow announces The Mountain Will Fall / Pitchfork 2016",
         "kind": "本人インタビュー"
       }
     ],
@@ -27435,7 +27477,12 @@
     "artists": [
       "DJ Shadow"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        3
+      ]
+    ]
   },
   {
     "id": "dj-shadow-nobody-speak",
@@ -27484,12 +27531,11 @@
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。",
       "paletteCoverSource": "https://djshadow.bandcamp.com/album/the-mountain-will-fall"
     },
-    "deck": "Run The Jewelsの言葉が、太いビートを押し進める。",
-    "essayTitle": "ビートに、二人分の口がある。",
+    "deck": "Run The Jewelsを迎える前の、サンプル探しの話。",
+    "essayTitle": "ビートを作ってから、二人が浮かんだ。",
     "essay": [
-      "ビートが場所をつくり、Run The Jewelsの二人がそこへ言葉を投げ込む。声が変わるたび、同じリズムの表情まで変わっていく。",
-      "インストゥルメンタルで空間を描く人が、MCのために場所を空ける。その余白は、手を抜いた部分ではなく、声を響かせるための設計だ。",
-      "言葉を全部追えなくても、声の押し引きだけで体は動く。意味と響きの両方で楽しめるところが、ラップの気前のよさである。"
+      "VPROの取材でDJ Shadowは、ギターから太いベースへ移るサンプルが「Nobody Speak」の土台になったと説明している。どの箱で見つけたかは覚えているが、レコード名は明かしていない。",
+      "基本のトラックができた時点で、Run The Jewelsに参加してほしいと分かったという。先に共演者を決めて伴奏を用意した、という順序ではない。作ったビートが次の相手を呼び込む例として読める。"
     ],
     "facts": [
       {
@@ -27504,10 +27550,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "二人のMCが交代するタイミング。",
-      "声を受け止めるビートの間。"
+      "基本のビートが共演相手を導いた、という本人の説明から聴く。"
     ],
-    "context": "2016年の『The Mountain Will Fall』を通して、DJ Shadowの音楽の広がりをたどる。",
+    "context": "素材を見つけることと、声を選ぶことがつながった。",
     "sources": [
       {
         "label": "The Mountain Will Fall / 公式作品情報",
@@ -27522,6 +27567,11 @@
       {
         "label": "BARKS：DJ Shadow本人インタビュー（2019）",
         "url": "https://barks.jp/news/855997/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "url": "https://3voor12.vpro.nl/artikelen/dj-shadow-ik-weet-dat-ik-geen-gouden-plaat-hit-of-grammy-meer-ga-scoren",
+        "label": "Sander Kerkhof — DJ Shadow interview / VPRO 3voor12 2016",
         "kind": "本人インタビュー"
       }
     ],
@@ -27546,7 +27596,15 @@
       "DJ Shadow",
       "Run The Jewels"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        3
+      ]
+    ]
   },
   {
     "id": "dj-shadow-rocket-fuel",
@@ -27593,12 +27651,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "De La Soulと鳴らす、軽快なビートの推進力。",
-    "essayTitle": "燃料は、よく回るビート。",
+    "deck": "De La Soulに送ったのは、完成前のシンプルな曲だった。",
+    "essayTitle": "声が届いてから、音を足す。",
     "essay": [
-      "De La Soulの声が入ると、音の切れ目まで遊び場になる。Rocket Fuelという題名どおり、曲の推進力に迷いがない。",
-      "オールドスクールを感じさせる楽しさは、古い型を飾ることとは少し違う。声とリズムを投げ合う、その身軽さが今も働いている。",
-      "気分を上げる音楽に、長い説明はいらない。それでも作りを追い始めると、楽しさの裏にある細かな段取りに感心してしまう。"
+      "DJ ShadowはBARKSの取材で、「Rocket Fuel」をDe La Soulへ渡した段階ではホルンもスクラッチもなかったと話している。完成させる前に、相手がどうラップするかを確かめたかったからだ。",
+      "同じ取材では、歌い手との共作は半分ほどできた土台を渡し、返ってきたものを受けて音楽を組み直すと説明している。この制作順序は、声に場所を空けるだけでなく、声を受けて仕上げる方法でもある。"
     ],
     "facts": [
       {
@@ -27613,10 +27670,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "De La Soulの声とリズムの応酬。",
-      "短い音の切り替えが生む勢い。"
+      "ラップを受け取ってから加えた音、という制作順序に注目する。"
     ],
-    "context": "2019年の『Our Pathetic Age』を通して、DJ Shadowの音楽の広がりをたどる。",
+    "context": "共演者の返答を、伴奏の仕上げに生かす。",
     "sources": [
       {
         "label": "Our Pathetic Age / 公式作品情報",
@@ -27631,6 +27687,11 @@
       {
         "label": "BARKS：DJ Shadow本人インタビュー（2019）",
         "url": "https://barks.jp/news/855997/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "url": "https://barks.jp/news/855997/",
+        "label": "BARKS — DJ Shadow interview 2019「優れたアートは時代の明暗を…」",
         "kind": "本人インタビュー"
       }
     ],
@@ -27655,7 +27716,15 @@
       "DJ Shadow",
       "De La Soul"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        3
+      ]
+    ]
   },
   {
     "id": "dj-shadow-ozone-scraper",
@@ -27702,12 +27771,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "メロディと電子音で描く、速度の感覚。",
-    "essayTitle": "速さは、景色の動き方。",
+    "deck": "本人が明かした、曲と映像の対照。",
+    "essayTitle": "速い曲に、遅い自転車。",
     "essay": [
-      "電子音が前へ伸びていく。速さというものは、拍の数だけで決まらない。音がどちらへ向かうかでも、体の感じ方は変わる。",
-      "歌声を中心に据えず、メロディと音色で場面を運ぶ。言葉が少ないからこそ、聴き手の頭の中では、それぞれ違う景色が走り出す。",
-      "初期作品へ戻るだけでなく、その先へ進んだ音も並べておきたい。長く作り続ける人の面白さは、同じ場所に留まらないところにある。"
+      "DJ Shadowは公式サイトで、「Ozone Scraper」は速さの感覚を表すための曲だと説明している。一方、映像では遅い自転車に乗る村人を描き、やがて想像力が走り出す物語にしたかったという。",
+      "本人が公表したこの意図を入口に、速さそのものとして聴くか、遅い移動との対比から考えるか。音と映像の関係を探る手がかりになる。"
     ],
     "facts": [
       {
@@ -27722,10 +27790,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "電子音のメロディと推進力。",
-      "音色の重なりがつくる奥行き。"
+      "本人のいう「速さ」を、映像の着想と分けて考える。"
     ],
-    "context": "2023年の『Action Adventure』を通して、DJ Shadowの音楽の広がりをたどる。",
+    "context": "曲の狙いと映像の物語を、対照的に組み合わせた。",
     "sources": [
       {
         "label": "Action Adventure / 公式作品情報",
@@ -27736,6 +27803,11 @@
         "label": "DJ Shadow - Topic / Ozone Scraper",
         "url": "https://www.youtube.com/watch?v=uTWjjonLJrU",
         "kind": "公式配信音源・動画"
+      },
+      {
+        "url": "https://djshadow.com/blogs/news/ozone-scraper-out-now",
+        "label": "DJ Shadow — Ozone Scraper Out Now / official site 2023-08-18",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -27758,7 +27830,15 @@
     "artists": [
       "DJ Shadow"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "slum-village-players",
@@ -27804,12 +27884,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "声の断片と低音の揺れ。",
-    "essayTitle": "声を切ると、別の言葉が始まる。",
+    "deck": "T3が語る、言葉の繰り返しで聴こえ方を変える仕掛け。",
+    "essayTitle": "サンプルは、別の名前を歌っている。",
     "essay": [
-      "細かく置かれた声の響きに、言葉を聞き取る前から体が反応する。",
-      "低音とドラムを一緒に追うと、反復の中にも重心の移動があるように感じる。",
-      "サンプルの名前を当てる楽しみと、できあがった曲に揺れる楽しみ。その両方を残しておきたい。"
+      "T3はThe FADERで、サンプルが歌っているのは曲名ではなく人名だと説明している。細かく切り刻んだというより、自分たちが題名の言葉を何度も言うことで、そう聴こえるようにしたという。",
+      "『Fantastic, Vol. 2』を解説するPreezyも、The Singers Unlimitedの「Clair」とこの曲の関係を指摘している。元の歌を聴いてから戻り、周りの言葉がサンプルの聴こえ方をどう導くか、比べてみたい。"
     ],
     "facts": [
       {
@@ -27823,15 +27902,24 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "声の断片と低音の揺れ。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "元の「Clair」と並べ、歌われた言葉と聴き取った言葉を分けてみる。"
     ],
-    "context": "2000年の作品として、J Dillaの制作とSlum Villageの表現の接点を聴く。",
+    "context": "切り方だけでなく、言葉の置き方からサンプリングを読む。",
     "sources": [
       {
         "label": "OfficialSlumVillage / Players — Fan-Tas-Tic Vol 2",
         "url": "https://www.youtube.com/watch?v=AbBZKBplhGc",
         "kind": "公式配信・動画"
+      },
+      {
+        "url": "https://www.thefader.com/2006/11/18/shine-on-and-on-extended-sentimental-remix",
+        "label": "The FADER — Shine On...and On（2006）／T3の証言",
+        "kind": "制作参加者本人の回想"
+      },
+      {
+        "url": "https://theboombox.com/slum-village-fantastic-vol-2-album/",
+        "label": "Preezy — Five Best Songs From Fantastic, Vol. 2 / The Boombox",
+        "kind": "音楽ライターによる作品解説"
       }
     ],
     "producers": [
@@ -27854,7 +27942,15 @@
     "artists": [
       "Slum Village"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "slum-village-get-dis-money",
@@ -27900,12 +27996,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "低音と声がつくる、気負いのないグルーヴ。",
-    "essayTitle": "お金の話も、こんな調子なら。",
+    "deck": "T3の回想から、三人で曲を仕上げる時のやり取りを読む。",
+    "essayTitle": "Baatinのヴァースを、書き直す。",
     "essay": [
-      "題名はずいぶん直接的なのに、曲の足取りには肩の力が抜けた感じがある。",
-      "リズムを細かく数えるより、低音と声が入れ替わるところを聴いていたい。",
-      "深刻な話ばかりでは息が詰まる。ビートには、そういう日常の重さを少し軽くする使い道もある。"
+      "T3は2026年のAmbrosia For Heads取材で、この曲を自分とDillaが始め、あとからBaatinを迎えたと振り返る。さらにBaatinはヴァースを三回ほど書き直し、異なる詞の版が少なくとも二つあると話している。",
+      "同じ取材でT3は、金や女性を歌ったのは、その頃の暮らしや手に入れたいものを言葉にしたからだと説明する。気楽さを想像するだけでなく、誰がどんな言葉を持ち込み、曲に残したのかへ目を向けたい。"
     ],
     "facts": [
       {
@@ -27919,15 +28014,19 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "低音と声がつくる、気負いのないグルーヴ。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "完成版の声を追う。未公開の別ヴァースがどう違うかは推測しない。"
     ],
-    "context": "1999年の作品として、J Dillaの制作とSlum Villageの表現の接点を聴く。",
+    "context": "金の話を、当時の願いと三人の制作のやり取りから読む。",
     "sources": [
       {
         "label": "Slum Village - Topic / Get Dis Money",
         "url": "https://www.youtube.com/watch?v=RQ7ILOdQ16w",
         "kind": "公式配信・動画"
+      },
+      {
+        "url": "https://ambrosiaforheads.com/2026/03/t3-young-rj-tell-the-oral-history-of-slum-villages-get-dis-money/",
+        "label": "Ambrosia For Heads — T3 & Young RJ / Get Dis Money oral history（2026）",
+        "kind": "メンバー本人の取材・回想"
       }
     ],
     "producers": [
@@ -27950,7 +28049,15 @@
     "artists": [
       "Slum Village"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "j-dilla-fuck-the-police",

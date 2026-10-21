@@ -495,32 +495,6 @@
       ]
     },
     {
-      "id": "dj-shadow-mashin-on-the-motorway",
-      "tags": [
-        {
-          "shelf": "scratch",
-          "evidence": {
-            "file": "editorial_deepdives.json",
-            "field": "41.sections.3.text",
-            "quote": "Lateefのラップが前に出る一方、スクラッチも曲の進行を担う。DJ Shadowの作品を静かなインストゥルメンタルだけで定義しないための一曲だ。"
-          }
-        }
-      ]
-    },
-    {
-      "id": "slum-village-players",
-      "tags": [
-        {
-          "shelf": "bass",
-          "evidence": {
-            "file": "tracks.json",
-            "field": "essay.1",
-            "quote": "低音とドラムを一緒に追うと、反復の中にも重心の移動があるように感じる。"
-          }
-        }
-      ]
-    },
-    {
       "id": "j-dilla-workinonit",
       "tags": [
         {
