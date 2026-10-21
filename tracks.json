@@ -60046,5 +60046,229 @@
       "style": "piece",
       "seed": 198901
     }
+  },
+  {
+    "id": "blu-amnesia",
+    "title": "Amnesia",
+    "artist": "Blu",
+    "artists": [
+      "Blu"
+    ],
+    "year": 2009,
+    "yearBasis": "2009年2月17日のKXSC同時代記事と2011年Pitchforkの再発解説が、2009年の初期配信を裏付ける。掲載音源は2011年4月19日版として配信されるアルバム音源。初期2009年マスターとの同一性は未検証。",
+    "album": "Her Favorite Colo(u)r",
+    "producer": "Blu",
+    "producers": [
+      "Blu"
+    ],
+    "members": "Blu（ラップ／制作）",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "label": "Nature Sounds / New World Color（2011年販売版）",
+    "category": "Hip Hop",
+    "essayTitle": "傷ついたとき、レコードへ向かった。",
+    "deck": "声を残したレコードから、自分の言葉を作る。Blu自身の回想と制作クレジットを手がかりに、「Amnesia」をアルバムの中へ戻してみる。",
+    "essay": [
+      "傷ついたとき、Bluが頼ったのは自分のレコードだった。2012年8月17日掲載のQuality Controlの取材で『Her Favorite Colo(u)r』の背景を尋ねられた彼は、自分自身のつらい時期に音楽へ向かったこと、レコードが慰めになったことを話している。作品を自分にとってのブルースと捉えた、その回想から「Amnesia」へ入ってみたい。過去の音楽を選ぶことと、いまの感情を言葉にすることが、同じ人の手の中にある。",
+      "「Amnesia」は『Her Favorite Colo(u)r』の2曲目で、プロデュースもBlu本人。公式Bandcampは、アルバムの制作をBluとし、「Untitled (Loved U) 2」だけをExileの担当としている。Bluの名前からExileとの共作を思い浮かべても、この曲のビートまで彼に預けてはいけない。ラップの声を追うだけでなく、その声を置くためにBluが選んだ音へも視線を移すと、一人で担った仕事の広さが見えてくる。",
+      "素材を辿る手がかりは、Billie Holidayの「Am I Blue?」だ。2011年4月19日掲載のExclaim!で、Kevin Jonesはこの録音が「Amnesia」の土台になっていると指摘する。ここで古いレコードを、懐かしい雰囲気を添えるためのものとだけ考えるのは惜しい。レコードに支えられたというBluの話と並べると、以前からそこにあった声を、自分の感情を話すために迎え入れた制作として捉えられる。これは素材の選ばれ方への読み方であり、本人が個別のサンプル選定理由を語ったという意味ではない。",
+      "アルバムの入口には「Love」があり、その次に「Amnesia」、続いて「Since」が置かれる。Nature Soundsの紹介が説明するのは、恋愛を扱う映画の会話と、失意を語るラップが同居する作品だ。好きな一曲からアルバムへ戻るなら、まずこの三曲を順番に辿ってみるのもよさそうだ。Blu自身の言葉に入る前後で、ほかの人の声や既存の音楽がどんな役を引き受けるのか。曲目をただの住所録で終わらせない聴き方になる。",
+      "本人が語った傷心の経験は、アルバム全体についての回想であり、「Amnesia」が生まれた一日の記録ではない。それでも、この曲を作り手の側から聴くための大事な距離を教えてくれる。私生活の答え合わせを急ぐより、手元のレコードと言葉を使って一つの作品を作る、その行為に目を向けたい。曲名は記憶が遠のくことを示しているのに、掘り進める入口には、誰かの声を残したレコードがある。"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "ラップと制作を担うBlu",
+        "text": "公式Bandcampと正規アルバム配信は、Amnesiaの制作をBlu本人と記載。Exile制作とする根拠はありません。",
+        "sources": [
+          0,
+          6
+        ]
+      },
+      {
+        "title": "初出年と掲載版",
+        "text": "作品は2009年に配信。掲載音源は2011年4月19日のHer Favorite Colo(u)r名義で配信される約2分58秒のアルバム版です。",
+        "sources": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "title": "配信情報と実再生の確認範囲",
+        "text": "2026年10月21日05:24 UTCに確認した配信メタデータでは、日本が配信対象で埋め込み可能とされています。現在の日本国内からの実再生・埋め込み実再生は未確認です。2009年の初期配信マスターとの音声・波形比較も行っていません。",
+        "sources": [
+          6
+        ]
+      },
+      {
+        "title": "2011年版の日付表記",
+        "text": "掲載音源とApple Musicのアルバム情報は2011年4月19日、現在の公式Bandcampは同年2月14日を記載しています。配信先による日付表記の違いを残し、原曲の初出年である2009年とは分けています。",
+        "sources": [
+          0,
+          6,
+          10
+        ]
+      }
+    ],
+    "samples": [
+      {
+        "artist": "Billie Holiday",
+        "title": "Am I Blue?",
+        "year": null,
+        "main": true,
+        "role": "Exclaim!の2011年レビューがAmnesiaの土台として挙げる録音。具体的な録音年・原盤・切り出し位置は未照合。",
+        "sources": [
+          3
+        ]
+      }
+    ],
+    "sampleStatus": "Billie Holiday「Am I Blue?」との関係を同時代レビューで確認。サンプルの正確な録音版・原盤年・公式再生先は未照合のため音源リンクは設けていません。全素材の網羅や本人によるサンプル選定理由の確認を意味しません。",
+    "sources": [
+      {
+        "label": "Blu / Nature Sounds Bandcamp — Her Favorite Colo(u)r",
+        "url": "https://blu-lp.bandcamp.com/album/her-favorite-colo-u-r",
+        "kind": "アーティスト／レーベル公式"
+      },
+      {
+        "label": "Nature Sounds — Her Favorite Colo(u)r (CD)",
+        "url": "https://naturesoundsmusic.com/products/blu-her-favorite-colour-cd",
+        "kind": "レーベル公式資料"
+      },
+      {
+        "label": "Quality Control — Blu interview / Doc Jota / 2012-08-17",
+        "url": "https://qualitycontrol6.blogspot.com/2012/08/entrevista-blu-conociendo-johnson.html",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Exclaim! — Kevin Jones / Her Favorite Colo(u)r / 2011-04-19",
+        "url": "https://exclaim.ca/music/article/blu-her_favorite_colour",
+        "kind": "同時代の批評・サンプル関係の二次資料"
+      },
+      {
+        "label": "KXSC Radio — My Favorite Colo(u)r is Blu / 2009-02-17",
+        "url": "https://kxsc.org/articles/2009/2/17/my-favorite-colour-is-blu.html",
+        "kind": "2009年当時の大学ラジオ記事"
+      },
+      {
+        "label": "Pitchfork — Nate Patrin / Her Favorite Colo(u)r / 2011-05-19",
+        "url": "https://pitchfork.com/reviews/albums/15429-her-favorite-colour/",
+        "kind": "2011年販売版の批評・発売経緯の二次資料"
+      },
+      {
+        "label": "Blu - Topic — Amnesia / BWSCD Inc提供",
+        "url": "https://www.youtube.com/watch?v=deC4OUiDFoc",
+        "kind": "正規配信音源・制作クレジット"
+      },
+      {
+        "label": "Apple Music — Amnesia EPの公式曲目・版名・長さ",
+        "url": "https://itunes.apple.com/lookup?id=414434609&entity=song",
+        "kind": "公式配信メタデータ"
+      },
+      {
+        "label": "Blu - Topic — Amnesia (Original) / Virgin Music Group提供",
+        "url": "https://www.youtube.com/watch?v=F6ZpLTlNaWw",
+        "kind": "正規配信音源"
+      },
+      {
+        "label": "Blu-Official — Amnesia (Original)",
+        "url": "https://soundcloud.com/blu-official/amnesia-original",
+        "kind": "アーティスト配信メタデータ"
+      },
+      {
+        "label": "Apple Music — Her Favorite Colo(u)r",
+        "url": "https://music.apple.com/us/album/her-favorite-colo-u-r/1477097300",
+        "kind": "公式配信情報"
+      },
+      {
+        "label": "Blu / Nature Sounds Bandcamp — Amnesia",
+        "url": "https://blu-lp.bandcamp.com/track/amnesia",
+        "kind": "アーティスト／レーベル公式音源"
+      }
+    ],
+    "connections": [],
+    "listening": [
+      "Love → Amnesia → Sinceの順に、アルバムの入口へ戻り、曲をまたいで声が担う役割を確かめてみる。",
+      "ラップと制作の両方がBlu本人というクレジットを手がかりに、語る声と選ばれた素材の関係へ耳を向ける。"
+    ],
+    "moods": [
+      "内省"
+    ],
+    "sounds": [
+      "声"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "audioVerificationStatus": "2026年10月21日05:24 UTCに確認した配信メタデータでは、日本が配信対象で埋め込み可能とされています。現在の日本国内からの実再生・埋め込み実再生は未確認です。2009年の初期配信マスターとの音声・波形比較も行っていません。",
+    "editorialStatus": "本人の回想と公式制作クレジット、2009年の初出と2011年の販売版を出典付きで紹介。実再生・埋め込み実再生と初期マスターとの音声比較は未確認です。",
+    "noteReviewedAt": "2026-10-21",
+    "youtube": {
+      "id": "deC4OUiDFoc",
+      "url": "https://www.youtube.com/watch?v=deC4OUiDFoc",
+      "title": "Amnesia",
+      "channel": "Blu - Topic",
+      "channelId": "UCNDvQXpM-zUtuqSMT2aXNKw",
+      "type": "公式音源（BWSCD Inc提供）",
+      "official": true,
+      "verified": "2026-10-21",
+      "duration": "PT2M58S",
+      "embedUrl": "https://www.youtube.com/embed/deC4OUiDFoc",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "version": "Her Favorite Colo(u)r album audio, 2011 commercial-edition metadata",
+      "versionBasis": "原曲は2009年。掲載音源は2011年4月19日版として配信されるHer Favorite Colo(u)rの178秒アルバム音源。2009年初期配信マスターやEP Originalとの音声同一性は未検証。",
+      "verification": "2026-10-21のwatchメタデータとoEmbedで配信元・作品・178秒を照合。配信対象国にJP、埋め込み可を確認。日本国内からの実再生・埋め込み実再生の確認ではありません。",
+      "japanAvailableMetadata": true,
+      "embeddableMetadata": true,
+      "japanAvailableInMetadata": true,
+      "metadataPlayableInEmbed": true,
+      "notice": "2026年10月21日05:24 UTCに確認した配信メタデータでは、日本が配信対象で埋め込み可能とされています。現在の日本国内からの実再生・埋め込み実再生は未確認です。2009年の初期配信マスターとの音声・波形比較も行っていません。",
+      "metadataCheckedAt": "2026-10-21T05:24:42Z"
+    },
+    "aliases": [],
+    "versionBasis": "原曲は2009年。掲載音源は2011年4月19日版として配信されるHer Favorite Colo(u)rの178秒アルバム音源。2009年初期配信マスターやEP Originalとの音声同一性は未検証。",
+    "context": "2009年のオンライン配信から2011年の販売版へ。ロサンゼルスのBluが自らのレコードと言葉を使った作品を、本人の回想と版の来歴から辿る。",
+    "datePublished": "2026-10-21",
+    "addedOrder": 510,
+    "art": {
+      "word": "AMNESIA",
+      "tag": "BLU",
+      "lines": [
+        "AMNESIA"
+      ],
+      "style": "piece",
+      "seed": 2009517,
+      "palette": [
+        "#9bc8e2",
+        "#ffffff",
+        "#24292d",
+        "#a6b778",
+        "#c5d45e"
+      ],
+      "paletteSource": "Blu — Her Favorite Colo(u)r (official album jacket)",
+      "paletteSourceUrl": "https://blu-lp.bandcamp.com/album/her-favorite-colo-u-r",
+      "paletteNote": "公式ジャケットの青い空、白い光、暗い人物輪郭、淡い緑のフレアを目視参照した近似色。写真や人物は転載せず、独自の文字構成で制作。"
+    }
   }
 ]

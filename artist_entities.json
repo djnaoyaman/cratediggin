@@ -622,5 +622,8 @@
   },
   "RUN-D.M.C. feat. Aerosmith": {
     "type": "MusicGroup"
+  },
+  "Blu": {
+    "type": "Person"
   }
 }

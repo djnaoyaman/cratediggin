@@ -10127,6 +10127,24 @@
       "transparent": true,
       "textReviewed": true,
       "paletteReviewed": true
+    },
+    {
+      "palette": [
+        "#9bc8e2",
+        "#ffffff",
+        "#24292d",
+        "#a6b778",
+        "#c5d45e"
+      ],
+      "paletteSource": "Blu — Her Favorite Colo(u)r (official album jacket)",
+      "paletteSourceUrl": "https://blu-lp.bandcamp.com/album/her-favorite-colo-u-r",
+      "paletteNote": "公式ジャケットの青い空、白い光、暗い人物輪郭、淡い緑のフレアを目視参照した近似色。写真や人物は転載せず、独自の文字構成で制作。",
+      "id": "blu-amnesia",
+      "status": "ready",
+      "image": "assets/graffiti/blu-amnesia-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
