@@ -2865,23 +2865,13 @@
     "title": "Passin' Me By",
     "sections": [
       {
-        "heading": "二つの証言が語る、曲の始まり",
-        "text": "Bootie BrownはYo! Rapsの取材で、自分がQuincy Jonesの素材をループし、Fatlipとフックを練ったと振り返る。素材を見つけた人物や作業の順序は、SPINでのJ-Swiftの回想と一致しない。どちらか一人の記憶で起源を確定せず、異なる参加者の証言として並べて読むと、制作への関わり方も見えてくる。",
-        "source": "https://yoraps.com/bootie-brown-pioneering-a-new-wave/",
-        "sourceLabel": "Yo! Raps：Bootie Brown本人への取材（公開日未確認）",
+        "heading": "Quincy Jones本人との対面",
+        "text": "The Urban Dailyの取材でJ-Swiftは、The RoxyでQuincy Jonesに会い、曲を褒められたと回想している。素材にしたレコードの作者が、完成した曲をどう受け止めたかも、作り手に残る記憶だった。",
         "sources": [
-          4,
-          2
-        ]
-      },
-      {
-        "heading": "契約前のデモにあった曲",
-        "text": "Delicious Vinyl共同創業者Mike RossはSPINで、受け取ったデモに「Ya Mama」「Officer」とこの曲が入っていたと語る。彼が惹かれたのは、強さを誇示する人物像ではなく、ユーモアと個人的な語りを持つグループの個性だった。「Passin’ Me By」は、契約後に整えられた代表曲というだけでなく、彼らをレーベルへつないだデモの一曲でもある。",
-        "source": "https://www.spinmagazine.com/2012/06/pharcyde-look-back-20-years-passin-me/",
-        "sourceLabel": "SPIN：Mike Rossが振り返る契約前のデモ（2012年6月28日）",
-        "sources": [
-          2
-        ]
+          5
+        ],
+        "source": "https://theurbandaily.com/2270297/the-pharcyde-bizarre-ride-20-years-later-exclusive/4/",
+        "sourceLabel": "The Urban Daily — The Pharcyde Recall Their Bizarre Ride 20 Years Later"
       }
     ]
   },
@@ -4282,6 +4272,61 @@
   {
     "artist": "Rakim",
     "title": "When I B on tha Mic",
+    "sections": []
+  },
+  {
+    "artist": "Beastie Boys",
+    "title": "Paul Revere",
+    "sections": []
+  },
+  {
+    "artist": "Beastie Boys",
+    "title": "Brass Monkey",
+    "sections": []
+  },
+  {
+    "artist": "Beastie Boys",
+    "title": "Shadrach",
+    "sections": []
+  },
+  {
+    "artist": "Beastie Boys",
+    "title": "Root Down",
+    "sections": []
+  },
+  {
+    "artist": "The Pharcyde",
+    "title": "Runnin’",
+    "sections": [
+      {
+        "heading": "12インチには別ミックスもある",
+        "text": "Delicious Vinylの2012年再発告知には、Jay Dee Extended MixとSmooth Extended Mixが別々に記載されている。アルバム版についての話を読むときは、同じ曲名の別ミックスと混同しないよう、盤の表記も見ておきたい。",
+        "sources": [
+          0
+        ],
+        "source": "https://store.deliciousvinyl.com/blogs/news/6146246-the-pharcyde-runnin-color-vinyl-12-w-jay-dee-remix-available-july-10",
+        "sourceLabel": "Delicious Vinyl — Runnin’のシングル紹介"
+      }
+    ]
+  },
+  {
+    "artist": "Souls of Mischief",
+    "title": "93 ’til Infinity",
+    "sections": []
+  },
+  {
+    "artist": "Black Sheep",
+    "title": "The Choice Is Yours (Revisited)",
+    "sections": []
+  },
+  {
+    "artist": "Jungle Brothers",
+    "title": "Straight Out the Jungle",
+    "sections": []
+  },
+  {
+    "artist": "Jurassic 5",
+    "title": "Concrete Schoolyard",
     "sections": []
   }
 ]
