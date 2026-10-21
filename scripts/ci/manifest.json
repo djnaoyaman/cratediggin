@@ -2328,6 +2328,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "blu-amnesia-browser"
+    },
+    {
+      "id": "two-player-region",
+      "argv": [
+        "python",
+        "scripts/verify_two_player_region.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "two-player-region"
+    },
+    {
+      "id": "two-player-region-browser",
+      "argv": [
+        "node",
+        "scripts/verify_two_player_region_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "two-player-region-browser"
     }
   ],
   "groups": {
@@ -2768,6 +2792,10 @@
     "blu_amnesia": [
       "blu-amnesia",
       "blu-amnesia-browser"
+    ],
+    "two_player_region": [
+      "two-player-region",
+      "two-player-region-browser"
     ]
   },
   "runtime_rules": {
@@ -3598,7 +3626,8 @@
       "scripts/fixtures/approved-timeline-pair.json"
     ],
     "scripts/approved_blu_amnesia.py": [
-      "scripts/fixtures/approved-blu-amnesia.json"
+      "scripts/fixtures/approved-blu-amnesia.json",
+      "scripts/approved_two_player_region.py"
     ],
     "scripts/verify_blu_amnesia.py": [
       "scripts/approved_blu_amnesia.py",
@@ -3608,6 +3637,15 @@
     "scripts/verify_blu_amnesia_browser.cjs": [
       "scripts/verify_visible_art_browser.cjs",
       "scripts/fixtures/approved-blu-amnesia.json"
+    ],
+    "scripts/verify_two_player_region.py": [
+      "scripts/approved_two_player_region.py"
+    ],
+    "scripts/verify_two_player_region_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_two_player_region.py": [
+      "scripts/fixtures/approved-two-player-region.json"
     ]
   },
   "policy_paths": [
@@ -3685,7 +3723,9 @@
     "scripts/approved_timeline_pair.py",
     "scripts/fixtures/approved-timeline-pair.json",
     "scripts/approved_blu_amnesia.py",
-    "scripts/fixtures/approved-blu-amnesia.json"
+    "scripts/fixtures/approved-blu-amnesia.json",
+    "scripts/approved_two_player_region.py",
+    "scripts/fixtures/approved-two-player-region.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -3734,7 +3774,8 @@
     "research/intake-med-classic-20261021.json",
     "research/intake-timeline-three-20261021.json",
     "research/intake-timeline-pair-20261021.json",
-    "research/intake-blu-amnesia-20261021.json"
+    "research/intake-blu-amnesia-20261021.json",
+    "research/two-player-region-repair-20261021.json"
   ],
   "syntax_existing": [
     "dist/app.js",
@@ -4198,6 +4239,13 @@
         "after_sha256": "11e8242de8c1c98d89a3233b4a19c6feff2b7a3f11bdc220fbe7a4cc3e16fcac",
         "groups": [
           "blu_amnesia"
+        ]
+      },
+      {
+        "before_sha256": "11e8242de8c1c98d89a3233b4a19c6feff2b7a3f11bdc220fbe7a4cc3e16fcac",
+        "after_sha256": "b2ea1bded1649adf8038a8cd0b0e95fc9bce746ea2a972d167dc030662c6eb09",
+        "groups": [
+          "two_player_region"
         ]
       }
     ],
