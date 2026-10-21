@@ -1872,6 +1872,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "person-queue-browser"
+    },
+    {
+      "id": "editor-polite-source",
+      "argv": [
+        "python",
+        "scripts/verify_editor_polite.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": false,
+      "label": "editor-polite-source"
+    },
+    {
+      "id": "editor-polite-browser",
+      "argv": [
+        "node",
+        "scripts/verify_editor_polite_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "editor-polite-browser"
     }
   ],
   "groups": {
@@ -2233,6 +2257,10 @@
       "person-queue-source",
       "person-queue-unit",
       "person-queue-browser"
+    ],
+    "editor_polite": [
+      "editor-polite-source",
+      "editor-polite-browser"
     ]
   },
   "runtime_rules": {
@@ -2807,16 +2835,19 @@
       "scripts/approved_person_queue.py"
     ],
     "scripts/verify_editor_profile_update.py": [
-      "scripts/approved_editor_profile_update.py"
+      "scripts/approved_editor_profile_update.py",
+      "scripts/approved_editor_polite.py"
     ],
     "scripts/verify_profile_notes_browser.cjs": [
       "scripts/fixtures/approved-editor-profile-update.json"
     ],
     "scripts/approved_person_queue.py": [
-      "scripts/fixtures/approved-person-queue.json"
+      "scripts/fixtures/approved-person-queue.json",
+      "scripts/approved_editor_polite.py"
     ],
     "scripts/verify_person_queue.py": [
-      "scripts/approved_person_queue.py"
+      "scripts/approved_person_queue.py",
+      "scripts/approved_editor_polite.py"
     ],
     "scripts/verify_person_queue.cjs": [
       "src/app/player.js",
@@ -2826,7 +2857,25 @@
       "scripts/fixtures/youtube-video-id-validation.json"
     ],
     "scripts/ci/test_scoped_runtime_changes.py": [
-      "scripts/approved_person_queue.py"
+      "scripts/approved_person_queue.py",
+      "scripts/approved_editor_polite.py"
+    ],
+    "scripts/approved_editor_polite.py": [
+      "scripts/fixtures/approved-editor-polite.json"
+    ],
+    "scripts/verify_editor_polite.py": [
+      "scripts/approved_editor_polite.py",
+      "scripts/fixtures/editor-polite-prose.json",
+      "profile_content.py",
+      "templates/index.html",
+      "editor_profile.json",
+      "discovery.py",
+      "src/app/editorial.js",
+      "src/app/renewal.js"
+    ],
+    "scripts/verify_editor_polite_browser.cjs": [
+      "editor_profile.json",
+      "scripts/fixtures/editor-polite-prose.json"
     ]
   },
   "policy_paths": [
@@ -2864,7 +2913,10 @@
     "scripts/approved_editor_profile_update.py",
     "scripts/fixtures/approved-editor-profile-update.json",
     "scripts/approved_person_queue.py",
-    "scripts/fixtures/approved-person-queue.json"
+    "scripts/fixtures/approved-person-queue.json",
+    "scripts/approved_editor_polite.py",
+    "scripts/fixtures/approved-editor-polite.json",
+    "scripts/fixtures/editor-polite-prose.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -2933,6 +2985,13 @@
         "after_sha256": "76c76efba974a5fab32af60eb79683f6c6227e97c30eb1c175e0224057018512",
         "groups": [
           "static_work_count"
+        ]
+      },
+      {
+        "before_sha256": "76c76efba974a5fab32af60eb79683f6c6227e97c30eb1c175e0224057018512",
+        "after_sha256": "9f64e0478276c869bd46032c54e7c019f690f8d005b2d60de25b0aa03c57c467",
+        "groups": [
+          "editor_polite"
         ]
       }
     ],
@@ -3068,6 +3127,13 @@
         "groups": [
           "image_alt"
         ]
+      },
+      {
+        "before_sha256": "50f02a0e7a9dca6a721f166eeb34685ca2ddd25a9b2a33d9e310ff86415675d9",
+        "after_sha256": "b983bcbb107ab232ecbfe27b64acb479b34fafee67e606256ed0a4d3e732dda9",
+        "groups": [
+          "editor_polite"
+        ]
       }
     ],
     "src/app/editorial.js": [
@@ -3076,6 +3142,31 @@
         "after_sha256": "074018183963817772101bef8ccb80bcb909710d429bfbd7ffd975abb5090259",
         "groups": [
           "person_queue"
+        ]
+      },
+      {
+        "before_sha256": "074018183963817772101bef8ccb80bcb909710d429bfbd7ffd975abb5090259",
+        "after_sha256": "9bc1e54e49da8ab90085c4a68edbaaee55044a8e075e82cc89734bf31d7975bc",
+        "groups": [
+          "editor_polite"
+        ]
+      }
+    ],
+    "profile_content.py": [
+      {
+        "before_sha256": "3c03c0f66079ece1cc3598ae7c58690e3345638749627cea9d74958dfb5a13a6",
+        "after_sha256": "c2af51d4f05dfcc051d386e5b4d9eba85fd1686f0c513a3f5c6381a5840723a3",
+        "groups": [
+          "editor_polite"
+        ]
+      }
+    ],
+    "src/app/renewal.js": [
+      {
+        "before_sha256": "c28df4ce434857d949e5beab56c89964b3c41c949b5cb87ac0932de5f3884e25",
+        "after_sha256": "fc7286893f4217e7fff49e1bb28345dd6378d2504b7dd6ecd9cfd3d8d4ced802",
+        "groups": [
+          "editor_polite"
         ]
       }
     ]
@@ -3240,6 +3331,13 @@
         "after_sha256": "1d73bceeb6ffb6d5e212bf62eaff685412c114479c73c3e024cc396b94ece161",
         "groups": [
           "editor-profile-update"
+        ]
+      },
+      {
+        "before_sha256": "1d73bceeb6ffb6d5e212bf62eaff685412c114479c73c3e024cc396b94ece161",
+        "after_sha256": "d589afc915cda0324e1240461f55b220ee41dcedb4c53057534da1aeae35339a",
+        "groups": [
+          "editor_polite"
         ]
       }
     ]
