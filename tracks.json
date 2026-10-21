@@ -2016,11 +2016,12 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "二人の声が受け渡すリズム。掛け合いもビートの一部になる。",
-    "essayTitle": "掛け合う二人、声の継ぎ目もビートになる",
+    "deck": "Phifeが自分の声に自信を持ち始めた時期。その変化を、Q-Tipとの掛け合いからたどる。",
+    "essayTitle": "自分の声を嫌っていたPhifeが、前に出る",
     "essay": [
-      "二人の声が受け渡すリズム。掛け合いもビートの一部になる。",
-      "一人の声だけを追うより、次の声へ渡る直前に耳を置きたい。掛け合いの面白さは、二人が同じことをしていないところから立ち上がる。"
+      "「Check the Rhime」の掛け合いを聴く前に、Phife Dawgが自分の声を嫌っていたことを知っておきたい。本人はDazedの取材で、Q-TipとAliがその声を認めてくれても、最初は好きになれなかったと振り返る。『The Low End Theory』を録るころ、ようやく自分の声をつかんだ感覚があったという。",
+      "1991年の同作に収められたこの曲は、その変化を聴く入口になる。Phifeは別の取材でも、このアルバムで初めてグループの一員だと実感したと話している。当時JiveにいたBarry Weissも、「Check the Rhime」の発売をPhifeが大きく注目された転機として挙げた。",
+      "ここではQ-Tipの声だけを追わず、Phifeへマイクが渡るところを聴きたい。一方が主役でもう一方が添え物、という聴き方から離れてみる。声を交わす二人の関係に注目すると、この曲はPhifeが自分の場所を得ていく記録としても聴ける。"
     ],
     "facts": [
       {
@@ -2051,10 +2052,9 @@
     ],
     "sampleStatus": "代表的な素材を資料で確認",
     "listening": [
-      "二人の声が受け渡すリズム。掛け合いもビートの一部になる。",
-      "Average White Bandの「Love Your Life」へ戻り、素材と完成した曲で音の役割がどう変わるかを確かめる。"
+      "Q-TipからPhifeへ声が渡る場面を追い、二人それぞれの役割を確かめてみる。"
     ],
-    "context": "一人の声だけを追うより、次の声へ渡る直前に耳を置きたい。掛け合いの面白さは、二人が同じことをしていないところから立ち上がる。",
+    "context": "1991年『The Low End Theory』収録の原曲を対象に、Phife本人と関係者の回想をたどる。掲載動画の収録版は今回の調査では再確認していない。",
     "sources": [
       {
         "label": "YouTube — A Tribe Called Quest / Check the Rhime",
@@ -2062,9 +2062,29 @@
         "kind": "参考投稿・配信候補"
       },
       {
-        "label": "Minos Pour Main Basse (Sur La Ville)'s 'Tout Doit Disparaitre' sample of A Tribe Called Quest's 'Check the Rhime' | WhoSampled",
-        "url": "https://www.whosampled.com/sample/61828/Minos-Pour-Main-Basse-%28Sur-La-Ville%29-Tout-Doit-Disparaitre-A-Tribe-Called-Quest-Check-the-Rhime/",
-        "kind": "サンプル関係の調査資料"
+        "label": "Average White Band公式：About / Samples",
+        "url": "https://www.averagewhiteband.com/bio",
+        "kind": "サンプル元アーティスト公式"
+      },
+      {
+        "label": "ATCQ公式ディスコグラフィー：1991 - The Low End Theory",
+        "url": "https://atribecalledquest.com/blogs/discography/1991-the-low-end-theory",
+        "kind": "アーティスト公式"
+      },
+      {
+        "label": "Interview：Phife Dawg’s Quarter-Century（2015）",
+        "url": "https://www.interviewmagazine.com/music/phife-dawg",
+        "kind": "本人への直接取材"
+      },
+      {
+        "label": "Dazed：Phife Dawg本人の2011年インタビュー再掲（2016）",
+        "url": "https://www.dazeddigital.com/music/article/30493/1/phife-dawg-the-small-street-kid-who-became-a-rap-warrior",
+        "kind": "本人への直接取材"
+      },
+      {
+        "label": "The Village Voice：A Tribe Called Quest’s Soundtrack to the Resistance（2016）",
+        "url": "https://www.villagevoice.com/a-tribe-called-quests-soundtrack-to-the-resistance/",
+        "kind": "関係者への直接取材"
       }
     ],
     "producers": [
@@ -2088,7 +2108,22 @@
       "mic-skills"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        2,
+        3,
+        5
+      ],
+      [
+        3,
+        4,
+        5
+      ]
+    ]
   },
   {
     "id": "a-tribe-called-quest-award-tour",
@@ -7702,11 +7737,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "甘い旋律の記憶に、ざらついた声が重なる。",
-    "essayTitle": "甘い旋律とざらつく声が重なる風景",
+    "deck": "RZAによれば、RaekwonとInspectah Deckだけの原型は12分。そこへMethod Manのフックが加わった。",
+    "essayTitle": "12分の原型に、Method Manのフックが加わる",
     "essay": [
-      "甘い旋律の記憶に、ざらついた声が重なる。",
-      "甘い旋律を追う耳と、粗い声を追う耳を行き来する。片方だけなら違う曲になる。その二つが重なるところに、忘れにくい風景がある。"
+      "「C.R.E.A.M.」の印象的なフックは、制作の途中で加わった。RZAは2022年のGRAMMY.comの取材で、完成までに複数の形を経たと説明している。RaekwonとInspectah Deckだけの段階では別の題名が付き、長さは12分あったという。",
+      "RZAは二人の声の組み合わせを気に入り、1993年の『Enter the Wu-Tang (36 Chambers)』にこの曲を入れようとした。ただ、それだけでは足りないとも感じた。そこでフックを任せた相手がMethod Manだった。短く覚えやすい反復は、長い語りの後から必要とされたパートなのだ。",
+      "そう知って聴くなら、フックだけを曲の結論にしないほうが面白い。RaekwonとInspectah Deckの語りを追い、その後で同じ言葉が戻るたびに、どう意味が変わって聞こえるかを確かめたい。ここで注目したいのは、誰がいちばん多くラップするかではなく、短いパートが曲全体に何を加えているかだ。"
     ],
     "facts": [
       {
@@ -7737,10 +7773,9 @@
     ],
     "sampleStatus": "代表的な素材を資料で確認",
     "listening": [
-      "甘い旋律の記憶に、ざらついた声が重なる。",
-      "The Charmelsの「As Long as I've Got You」へ戻り、素材と完成した曲で音の役割がどう変わるかを確かめる。"
+      "RaekwonとInspectah Deckの語りのあとで、Method Manのフックが戻る役割を考えてみる。"
     ],
-    "context": "甘い旋律を追う耳と、粗い声を追う耳を行き来する。片方だけなら違う曲になる。その二つが重なるところに、忘れにくい風景がある。",
+    "context": "1993年『Enter the Wu-Tang (36 Chambers)』収録曲についての制作回想。12分は制作途中の版の長さで、掲載音源の尺や版を示すものではない。",
     "sources": [
       {
         "label": "YouTube — Wu-Tang Clan / C.R.E.A.M.",
@@ -7748,9 +7783,24 @@
         "kind": "参考投稿・配信候補"
       },
       {
-        "label": "Wu-Tang Clan『36 Chambers』1994年プロモ盤の実物記録｜C.r.e.a.m. Team Records",
-        "url": "https://www.creamteamrecords.com/art-piece/wu-tang-clan-36-chambers/",
-        "kind": "サンプル関係の調査資料"
+        "label": "Spotify Newsroom：Soul Music and Sirens（2018）",
+        "url": "https://newsroom.spotify.com/2018-11-09/soul-music-and-sirens-the-story-behind-the-wu-tang-clans-36-chambers/",
+        "kind": "配信元公式掲載の二次解説（本人証言ではない）"
+      },
+      {
+        "label": "GRAMMY.com：RZA’s Constant Elevation（2022）",
+        "url": "https://www.grammy.com/news/rza-wu-tang-clan-bobby-digital-saturday-afternoon-kung-fu-theater-interview/",
+        "kind": "本人への直接取材"
+      },
+      {
+        "label": "Library of Congress：RZA interview（2022-05-04）",
+        "url": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/Interview_RZA.pdf",
+        "kind": "本人への直接取材"
+      },
+      {
+        "label": "Sony Music Canada：Enter The Wu-Tang 30周年告知（2023）",
+        "url": "https://www.sonymusic.ca/press_release/celebrate-the-wu-tang-clans-30th-anniversary-of-debut-album-enter-the-wu-tang-36-chambers",
+        "kind": "権利元公式"
       }
     ],
     "producers": [
@@ -7769,7 +7819,19 @@
     "collections": [
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "wu-tang-clan-protect-ya-neck",
@@ -14277,11 +14339,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "「Organ Donor」を人がどう受け取るか、DJ Shadow自身にも読めなかった。",
-    "essayTitle": "嫌われると思っていた、あの反復。",
+    "deck": "「Organ Donor」は酷評されると思った。DJ Shadowの回想から、好きな音を作品に残す判断をたどる。",
+    "essayTitle": "嫌われると思っても、好きな音は残す",
     "essay": [
-      "DJ Shadowは2016年のMusicRadarの取材で、『Endtroducing.....』を振り返り、「Organ Donor」は人に嫌われ、酷評されると思っていたと話している。いま曲を知る耳には意外でも、作り手の手応えと聴き手の反応は同じではなかった。",
-      "その話に続けて彼が語るのは、誰かが気に入らないかもしれないという理由で、自分が好きな音楽を作るのをやめるべきではない、という姿勢だ。ここでは反復の仕組みだけでなく、その音を作品に残した判断にも耳を向けたい。"
+      "DJ Shadowは「Organ Donor」を、人に嫌われ、酷評される曲だと思っていた。2016年のMusicRadarの取材で本人が明かした予想だ。ここで面白いのは、評判を確信して作ったわけではないということ。完成後の評価から制作を振り返るだけでは見えない、作り手の迷いがある。",
+      "その話に続けてShadowは、誰かが気に入らないかもしれないからといって、自分の好きな音楽を作るのをやめるべきではないと語る。オルガンのフレーズを聴くとき、音の出どころだけでなく、それを作品に残した判断にも注目してみたい。これは本人の制作手順を再現する説明ではなく、発言を踏まえた聴き方の提案だ。",
+      "対象は1996年の『Endtroducing.....』収録の原曲。公式20周年盤でも、アルバム本編の「Organ Donor」と別ディスクの「Extended Overhaul」は分けて収録されている。後の再構成版を原曲のつもりで聴かず、まずアルバムの曲順の中に置いてみると、比較の出発点がはっきりする。"
     ],
     "facts": [
       {
@@ -14306,9 +14369,9 @@
     ],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "鍵盤の反復とドラムを分けて追い、どちらが耳を引きつけるか確かめる。"
+      "「Mutual Slump」から原曲の「Organ Donor」へ進み、次の「Why Hip Hop Sucks in ’96」まで曲順で聴いてみる。"
     ],
-    "context": "1996年の『Endtroducing.....』収録曲。後の「Extended Overhaul」とは別の版として聴く。",
+    "context": "1996年のアルバム原曲を対象にした記事。後のExtended Overhaulやライブ版とは分けて扱い、掲載動画の実音声は今回再検証していない。",
     "sources": [
       {
         "label": "YouTube — DJ Shadow / Organ Donor",
@@ -14329,6 +14392,16 @@
         "label": "DJ Shadow公式：Endtroducing 20周年盤トラックリスト",
         "url": "https://djshadow.com/collections/all/products/endtroducing-20th-anniversary-endtrospective-edition-3cd-deluxe-digipack",
         "kind": "アーティスト公式"
+      },
+      {
+        "label": "MusicRadar：DJ Shadow本人インタビュー（2023-12-30）",
+        "url": "https://www.musicradar.com/news/dj-shadow-on-why-hell-never-go-back-to-the-mpc-i-got-the-newest-mpc-and-i-lasted-about-a-day-and-a-half-when-you-know-what-the-possibilities-are-now-and-you-try-to-go-back-in-time-it-doesnt-work",
+        "kind": "一次証言"
+      },
+      {
+        "label": "Sam Redmore / Jalapeno Records公式：Tears",
+        "url": "https://samredmore.bandcamp.com/album/tears-2",
+        "kind": "後続カバー制作者の一次証言"
       }
     ],
     "producers": [
@@ -14336,8 +14409,7 @@
     ],
     "connections": [],
     "sounds": [
-      "ドラム",
-      "声の掛け合い"
+      "ドラム"
     ],
     "addedOrder": 141,
     "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
@@ -14357,6 +14429,9 @@
       ],
       [
         2
+      ],
+      [
+        3
       ]
     ]
   },
@@ -25182,12 +25257,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "切り替わる断片が、そのまま曲の推進力になる。",
-    "essayTitle": "切れ目で、また走り出す。",
+    "deck": "ひとつ前の「Donuts (Outro)」は12秒。そこから続けると、曲の入口も聴きどころになる。",
+    "essayTitle": "「Workinonit」は、12秒前から聴いてみる",
     "essay": [
-      "音が切れたと思ったら、もう次の断片が走り出している。つなぎ目を隠すより、つなぎ目そのものを聴かせる曲だ。",
-      "短い声も、ざらついた響きも、ビートの外には置かれていない。どこまでが素材でどこからがリズムなのか、境目が薄くなる。",
-      "整然と並んだものだけが気持ちよいわけではない。少しぶつかるくらいの断片に、音楽の体温を感じることがある。"
+      "「Workinonit」を聴くなら、ひとつ前の曲から始めてみたい。『Donuts』の冒頭には12秒の「Donuts (Outro)」があり、その次に2分57秒の「Workinonit」が置かれている。Stones ThrowがSoundCloudに公開した音源も、この2曲をまとめたものだ。単曲の再生ボタンだけでは見えにくい入口がある。",
+      "アルバムの成り立ちにも、つなぎ方の話が出てくる。制作に関わったJeff Jankの回想によれば、出発点は22分のビートCDだった。そこから元の魅力を損なわないように追加する音楽を選び、編集とマスタリングを進めたという。いまの曲順は、短いビートをただ集めて終えたものではない。",
+      "まず「Outro」から「Workinonit」へ、次は「Workinonit」から3曲目の「Waves」へ。曲名が切り替わる場所で、耳にはどんな区切りが感じられるだろう。断片の細かさだけに注目するより、前後を含めて聴くと、一曲としてのまとまりとアルバムの流れを行き来できる。"
     ],
     "facts": [
       {
@@ -25208,10 +25283,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "切り替わる断片が、そのまま曲の推進力になる。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "公式アルバムの「Donuts (Outro)」から「Workinonit」、さらに「Waves」へ続けて聴き、曲の境目を確かめてみる。"
     ],
-    "context": "2006年の作品として、J Dillaの制作とJ Dillaの表現の接点を聴く。",
+    "context": "2006年『Donuts』の2曲目「Workinonit」。25曲目の「Walkinonit」とは別曲で、ここでは公式曲順と制作参加者の証言を手掛かりにする。",
     "sources": [
       {
         "label": "J Dilla - Topic / Workinonit",
@@ -25219,9 +25293,24 @@
         "kind": "公式配信・動画"
       },
       {
-        "label": "Stones Throw / Donuts",
-        "url": "https://www.stonesthrow.com/store/donuts/",
-        "kind": "レーベル公式"
+        "label": "J Dilla / Stones Throw公式Bandcamp：Donuts",
+        "url": "https://dilla.bandcamp.com/album/donuts",
+        "kind": "レーベル公式配信"
+      },
+      {
+        "label": "Stones Throw公式SoundCloud：J Dilla - Workinonit",
+        "url": "https://soundcloud.com/stonesthrow/dilla-workinonit",
+        "kind": "レーベル公式配信"
+      },
+      {
+        "label": "Stones Throw掲載：Jordan Ferguson『Donuts』抜粋、Jeff Jank・Egonの証言",
+        "url": "https://www.stonesthrow.com/news/j-dilla-donuts-333-excerpt/",
+        "kind": "制作参加者への直接取材の引用を含む公認書籍抜粋"
+      },
+      {
+        "label": "Stones Throw：Behind the smile、Jeff JankとAndrew Guraの回想",
+        "url": "https://www.stonesthrow.com/news/behind-the-smile-j-dilla-donuts/",
+        "kind": "制作参加者の一次証言"
       }
     ],
     "producers": [
@@ -25244,7 +25333,19 @@
     "artists": [
       "J Dilla"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        1,
+        2
+      ],
+      [
+        3
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "j-dilla-time-the-donut-of-the-heart",
@@ -26424,12 +26525,13 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "短い展開に凝縮された、ビートと言葉。",
-    "essayTitle": "大文字で、短く濃く。",
+    "deck": "漫画仕立てのMVは、曲の展開をどう読み取ったのか。監督の話から、Madlibのビートへ戻る。",
+    "essayTitle": "曲の展開が、追跡劇になる",
     "essay": [
-      "曲名は大文字、曲は短い。それでも聴き終えたあとの存在感は、ずいぶん大きい。",
-      "声の運びとビートの切れ目が、互いを押し進めている。短いから省略されているのではなく、短い形に詰められているように感じる。",
-      "説明を長くするのが少し野暮に思えてくる。もう一度再生したほうが、早く伝わる種類の曲である。"
+      "「All Caps」のMV監督James Reitanoは、曲から追跡や種明かしの場面を考えたと話している。漫画仕立ての物語は、彼が曲の展開をどう受け取ったかを知る手掛かりになる。",
+      "配役もDJとMCの関係を表す。DOOMは前に立つ怪物、Madlibは金属ケースの中で働く裏方。声とビートを担う二人を、違う役で描いたという。",
+      "実際の制作でも、二人はビートの形を大切にしていた。『Madvillainy』制作時のインタビューで、Madlibは音をパート別に残さず、ビートをそのまま2チャンネルへ録音していたと説明する。DOOMも、その方法なら後からビートの組み立てを変えられず、そこへラップを乗せられると応じている。これはアルバム全体についての話だが、二人の分担を知るうえで面白い。",
+      "そこで役立つのが、12インチ『Curls & All Caps』に収められたインスト版だ。まず声なしで展開を追い、それから原曲へ戻って、DOOMの言葉がどこに入るかを聴く。さらに公式MVと比べれば、同じビートにラッパーと映像作家がそれぞれ何を見つけたか、二つの入口から楽しめる。"
     ],
     "facts": [
       {
@@ -26443,15 +26545,44 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "短い展開に凝縮された、ビートと言葉。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "公式12インチのインスト版と原曲を比べ、声が加わる位置を自分で確かめてみる。"
     ],
-    "context": "2004年の作品として、Madlibの制作とMadvillainの表現の接点を聴く。",
+    "context": "2004年『Madvillainy』収録の原曲。記事で触れるアニメーションMVは出典先で紹介する別の鑑賞対象で、このページのTopic掲載音源そのものではない。",
     "sources": [
       {
         "label": "Madvillain - Topic / All Caps",
         "url": "https://www.youtube.com/watch?v=NPiAK33CfxQ",
         "kind": "公式配信・動画"
+      },
+      {
+        "label": "Stones Throw：James ReitanoによるAll Capsの映像制作Q&A",
+        "url": "https://www.stonesthrow.com/news/madvillain-all-caps-video/",
+        "kind": "監督本人の一次証言／公開元レーベル"
+      },
+      {
+        "label": "Stones Throw：Madvillain本人へのWax Poeticsインタビュー",
+        "url": "https://www.stonesthrow.com/news/blunted-on-beats/",
+        "kind": "Madlib・MF DOOM本人の一次証言（転載）"
+      },
+      {
+        "label": "Stones Throw：Curls & All Caps公式商品情報",
+        "url": "https://www.stonesthrow.com/store/curls/",
+        "kind": "発売元による収録曲・版情報"
+      },
+      {
+        "label": "Stones Throw：Madvillainy公式商品情報",
+        "url": "https://www.stonesthrow.com/store/madvillainy/",
+        "kind": "発売元による作品・参加者情報"
+      },
+      {
+        "label": "Stones Throw：Curls & All Capsのラジオ用プロモ盤",
+        "url": "https://www.stonesthrow.com/news/moet-in-a-flask-madvillains-curls-radio-promo/",
+        "kind": "製作元の記録"
+      },
+      {
+        "label": "Stones Throw：MF DOOM追悼記事とMadvillainy発売日",
+        "url": "https://www.stonesthrow.com/news/mf-doom/",
+        "kind": "発売元の制作回想・発売記録"
       }
     ],
     "producers": [
@@ -26474,7 +26605,22 @@
     "artists": [
       "Madvillain"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3,
+        1
+      ]
+    ]
   },
   {
     "id": "madvillain-meat-grinder",

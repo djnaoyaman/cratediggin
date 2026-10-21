@@ -757,28 +757,22 @@
     "title": "Organ Donor",
     "sections": [
       {
-        "heading": "オルガンが旋律の主役になる",
-        "text": "『Endtroducing.....』の中でも、オルガンの反復が前面に出る曲。歌詞を追うのではなく、音色そのものがフックを作る。サンプルの具体的な出典はこの資料だけでは確定できないため、断定を避ける。",
-        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
-        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
+        "heading": "ステレオで12秒という制作条件",
+        "text": "Shadowは同じ2016年の取材で、『Endtroducing.....』制作期のステレオサンプリング容量を12秒と説明している。これはアルバムの制作環境についての話で、「Organ Donor」の長さや、使った素材の合計秒数ではない。短い容量から曲固有の操作を推測することはできない。",
+        "source": "https://www.musicradar.com/news/tech/dj-shadow-on-key-influences-over-the-years-and-the-gear-he-just-cant-do-without-643390",
+        "sourceLabel": "MusicRadar / Future Music：DJ Shadow本人インタビュー（2016-10-17）",
+        "sources": [
+          2
+        ]
       },
       {
-        "heading": "ヒップホップのビートと鍵盤の距離",
-        "text": "DJ Shadowは短いサンプルをMPC60で切り出し、複数の音を重ねる制作を回想している。鍵盤の長い響きと細かいドラムの刻みを分けて聴くと、異なる時間感覚が同居する。",
-        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
-        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
-      },
-      {
-        "heading": "同じ反復がどう変わるか",
-        "text": "まず鍵盤だけを追い、次にドラムの入り方を聴く。短い素材が何度戻っても、周囲の音の配置で印象が変わることを確かめたい。",
-        "source": "https://www.theguardian.com/culture/2022/jun/27/inadvertently-invented-trip-hop-how-we-made-dj-shadow-endtroducing-pink-floyd-beethoven",
-        "sourceLabel": "The Guardian：DJ ShadowとJames Lavelleによる『Endtroducing.....』制作回想"
-      },
-      {
-        "heading": "Moroder『Tears』を原曲から聴く",
-        "text": "Giorgio Moroder『Tears』（1972）は『Organ Donor』と『Stem/Long Stem』双方に関連する素材として音楽資料で紹介される。旋律とドラムを別々に聴き、どの断片が移されているかを確かめたい。",
-        "source": "https://909originals.com/2021/09/16/midnight-in-a-perfect-akai-mpc-60-five-samples-that-defined-dj-shadows-entroducing/",
-        "sourceLabel": "追加調査資料｜909originals.com"
+        "heading": "Tearsからクンビアへ",
+        "text": "Sam Redmoreは2022年にGiorgio Moroderの「Tears」をカバーした。本人の説明では、Shadowの「Organ Donor」でも知られるオルガンのリフにクンビアの打楽器を合わせる発想から始まり、ホーンや弦を加えていったという。同じ旋律を別のリズムで捉える、もう一つの比較先になる。",
+        "source": "https://samredmore.bandcamp.com/album/tears-2",
+        "sourceLabel": "Sam Redmore / Jalapeno Records公式：Tears",
+        "sources": [
+          5
+        ]
       }
     ]
   },
@@ -4246,6 +4240,103 @@
         ],
         "source": "https://www.thejasentarldaviscompany.com/2011/11/",
         "sourceLabel": "Jasen T. Davis — Strong Arm Steadyインタビュー掲載アーカイブ"
+      }
+    ]
+  },
+  {
+    "artist": "A Tribe Called Quest",
+    "title": "Check the Rhime",
+    "sections": [
+      {
+        "heading": "ホーンの出どころは、AWB自身が記録している",
+        "text": "Average White Bandの公式サイトは、サンプル使用例の一覧で「Love Your Life」のホーンと「Check the Rhime」の関係を明記している。曲全体が一つの原曲からできているという意味ではない。まずこのホーンを手がかりに原曲へ戻ると、ラップの背後にある別の演奏へ聴き進められる。",
+        "source": "https://www.averagewhiteband.com/bio",
+        "sourceLabel": "Average White Band公式：About / Samples",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "heading": "ラップ以前から、相手の言葉を続けられた",
+        "text": "PhifeはQ-Tipを2歳のころから知り、互いの言いかけた文を続けられる仲だったと回想している。これはこの曲の録音手順を説明した発言ではなく、二人の関係についての証言だ。掛け合いを技巧だけでなく、長いつきあいの延長として捉える手がかりになる。",
+        "source": "https://www.dazeddigital.com/music/article/30493/1/phife-dawg-the-small-street-kid-who-became-a-rap-warrior",
+        "sourceLabel": "Dazed：Phife Dawg本人の2011年インタビュー再掲（2016）",
+        "sources": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "artist": "J Dilla",
+    "title": "Workinonit",
+    "sections": [
+      {
+        "heading": "アルバムになっても、ビートの行き先は閉じなかった",
+        "text": "Egonの回想では、Stones Throwが『Donuts』をアルバムとして出したあとも、Dillaは収録ビートを他のアーティストに売ることができた。一枚の作品として聴かせることと、誰かがラップを乗せるためのビートであること。その両方を残す取り決めだった。",
+        "source": "https://www.stonesthrow.com/news/j-dilla-donuts-333-excerpt/",
+        "sourceLabel": "Stones Throw掲載：Jordan Ferguson『Donuts』抜粋、Jeff Jank・Egonの証言",
+        "sources": [
+          3
+        ]
+      },
+      {
+        "heading": "笑顔の写真と、ドーナツ店の絵",
+        "text": "『Donuts』の初期ジャケットは、CDとデジタルがDillaの写真、LPがドーナツ店のイラストだった。写真はMEDの「Push」の映像から選ばれた静止画。Jeff Jankは後に大きく印刷できるよう再構成し、写真版のLPも作った。ジャケットが違うだけで、別の録音だとは判断できない。",
+        "source": "https://www.stonesthrow.com/news/behind-the-smile-j-dilla-donuts/",
+        "sourceLabel": "Stones Throw：Behind the smile、Jeff JankとAndrew Guraの回想",
+        "sources": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "artist": "Madvillain",
+    "title": "All Caps",
+    "sections": [
+      {
+        "heading": "紙に描いた約千枚が動きだす",
+        "text": "監督によれば、MVには約900〜1000枚の手描きの絵を使用した。紙の絵をスキャンして合成した映像だ。動きだけでなく、止めた一枚の描写も見てみたい。",
+        "source": "https://www.stonesthrow.com/news/madvillain-all-caps-video/",
+        "sourceLabel": "Stones Throw：James ReitanoによるAll Capsの映像制作Q&A",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "heading": "通常盤にはない、プロモ盤のもう一曲",
+        "text": "『Curls & All Caps』のラジオ／DJ向けプロモ盤には、通常盤とは別にMadlibの「Bonus Beat (Radio Promo Exclusive)」が入る。Stones Throwの2010年の記録では製作は約200枚、そのうち40〜50枚のスリーヴにJeff Jankがスプレーで絵を施した。通常盤とプロモ盤は、曲目から区別したい。",
+        "source": "https://www.stonesthrow.com/news/moet-in-a-flask-madvillains-curls-radio-promo/",
+        "sourceLabel": "Stones Throw：Curls & All Capsのラジオ用プロモ盤",
+        "sources": [
+          5,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "artist": "Wu-Tang Clan",
+    "title": "C.R.E.A.M.",
+    "sections": [
+      {
+        "heading": "ピアノをたどると、1967年のThe Charmelsへ",
+        "text": "Spotify公式の作品解説は、ビートの素材をThe Charmels「As Long as I’ve Got You」（1967年）と説明している。原曲と本曲を比べるなら、まずピアノが担う役割に注目したい。ここで確認できるのは代表的な素材の関係で、他の音まで同じ曲から来たと決めることはできない。",
+        "source": "https://newsroom.spotify.com/2018-11-09/soul-music-and-sirens-the-story-behind-the-wu-tang-clans-36-chambers/",
+        "sourceLabel": "Spotify Newsroom：Soul Music and Sirens（2018）",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "heading": "人数をそろえるより、曲に合う部分を残す",
+        "text": "『36 Chambers』の制作について、RZAは米国議会図書館の取材で、各人のラップを聴き、曲に合う部分を選んで録音・編集したと説明している。これはアルバム全体の方針であり、本曲を何小節削ったかの証拠ではない。大人数のグループでも、一曲に全員を均等に登場させる必要はないという制作の考え方が見える。",
+        "source": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/Interview_RZA.pdf",
+        "sourceLabel": "Library of Congress：RZA interview（2022-05-04）",
+        "sources": [
+          3
+        ]
       }
     ]
   }
