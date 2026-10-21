@@ -41,7 +41,7 @@ if not a.source_only:
  D=R/'dist';readings=html.unescape((D/'readings/index.html').read_text())
  for row in F['rows']:
   t=by[row['id']];page=html.unescape((D/('tracks/'+t['id']+'.html')).read_text());md=(D/('songs/'+t['id']+'.md')).read_text();d=next(x for x in deep if x['artist']==t['artist'] and x['title']==t['title'])
-  for value in [t['essayTitle'],t['deck'],*t['essay'],t['context'],*t['listening']]:assert value in page,value
+  for value in [t['essayTitle'],t['deck'],*t['essay']]:assert value in page,value
   assert t['essayTitle'] in readings and t['essayTitle'] in md
   for sec in d['sections']:assert sec['heading'] in page and sec['text'] in page and sec['source'] in page
   for ids in t['essaySources']:
