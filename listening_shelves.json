@@ -165,8 +165,8 @@
           "shelf": "voice",
           "evidence": {
             "file": "tracks.json",
-            "field": "deck",
-            "quote": "二人の声が受け渡すリズム。掛け合いもビートの一部になる。"
+            "field": "listening.0",
+            "quote": "Q-TipからPhifeへ声が渡る場面を追い、二人それぞれの役割を確かめてみる。"
           }
         }
       ]
@@ -691,8 +691,8 @@
           "shelf": "arrangement",
           "evidence": {
             "file": "tracks.json",
-            "field": "essay.0",
-            "quote": "音が切れたと思ったら、もう次の断片が走り出している。つなぎ目を隠すより、つなぎ目そのものを聴かせる曲だ。"
+            "field": "listening.0",
+            "quote": "公式アルバムの「Donuts (Outro)」から「Workinonit」、さらに「Waves」へ続けて聴き、曲の境目を確かめてみる。"
           }
         }
       ]
@@ -738,8 +738,8 @@
           "shelf": "arrangement",
           "evidence": {
             "file": "tracks.json",
-            "field": "essay.1",
-            "quote": "声の運びとビートの切れ目が、互いを押し進めている。短いから省略されているのではなく、短い形に詰められているように感じる。"
+            "field": "listening.0",
+            "quote": "公式12インチのインスト版と原曲を比べ、声が加わる位置を自分で確かめてみる。"
           }
         }
       ]
