@@ -1,0 +1,342 @@
+{
+  "base": "8d1ed436d9e3ed30eda179ca02a87308dec6df1c",
+  "batch": 8,
+  "completed": 226,
+  "total": 226,
+  "beforeVersion": "22.52",
+  "rows": [
+    {
+      "id": "gang-starr-now-you-re-mine",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "ビートが巡っても、揺るがない語り",
+      "rationale": "同じビート上で続く声の安定感を、反復との対比で表す。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "同じビートの上で続く声の安定感。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "dj-jazzy-jeff-the-fresh-prince-somethin-like-dis",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "日常語のようなフレーズを軽快に運ぶ",
+      "rationale": "日常語そのものとは断定せず、本文の比喩と語り口を保つ。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "日常語のようなフレーズと軽快な語り口。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "doug-e-fresh-bounce",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "弾む合図は、フックと拍のあいだに",
+      "rationale": "フックが弾む動きを促すという既存の聴きどころを表す。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "弾む動きを促すフックと拍の関係。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "das-efx-looseys",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "細かな音節の連打が、ラップをつなぐ",
+      "rationale": "細かな音節と流れに絞り、未記載の発音技法は追加しない。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "細かな音節の連打とラップの流れ。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "the-pharcyde-officer",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "役を演じるような声で、物語を進める",
+      "rationale": "声の演技性について本文の「ような」を残す。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "役を演じるような声と物語の進行。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "original-flavor-all-that",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "歌のフックからラップへ、その接続点",
+      "rationale": "歌とラップのつながる場所を見出しの中心にする。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "歌のフックとラップが接続する場所。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "dred-scott-nutin-ta-lose",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "押す声、引く声、ビートに残る隙間",
+      "rationale": "声の押し引きとビートの隙間という三つの観察点を並べる。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "声の押し引きとビートの隙間。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "black-maddness-wild-brooklyn-bandits",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "反復するビートに、クルーの声を重ねて聴く",
+      "rationale": "クルーの声とビートの関係を聴く提案。声が実際に同時録音されているとは断定しない。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "クルーの声と反復するビートの関係。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "queen-latifah-latifah-s-had-it-up-2-here",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "強い言葉をぼかさない、声の置き方",
+      "rationale": "言葉の強さだけでなく、明瞭に届ける声の配置を焦点にする。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "強い言葉をはっきり届ける声の置き方。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "n-w-a-express-yourself",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "自分を表せ、その呼びかけを明瞭に",
+      "rationale": "自己表現の呼びかけと明瞭さを扱い、具体的歌詞の引用とはしない。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "自己表現を呼びかける言葉の明瞭さ。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "cypress-hill-the-phuncky-feel-one",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "声の手触りがファンクの拍に触れる",
+      "rationale": "声の質感とファンクのリズムの接点を触感の比喩で表す。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "声の質感とファンクのリズムの接点。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "double-xx-posse-we-got-it-goin-on",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "短いフックを抜け、ヴァースへ勢いよく",
+      "rationale": "フックの短さとヴァースへの移行の勢いに絞る。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "短いフックからヴァースへ移る勢い。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "chubb-rock-treat-em-right",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "踊る体を思い浮かべ、声と拍を聴く",
+      "rationale": "実際の聴衆の行動ではなく、本文通り想像する聴き方にする。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "踊る体を想像させる声と拍の関係。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "epmd-it-s-time-2-party",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "パーティーへの誘い、二人の声を聴き分ける",
+      "rationale": "パーティーへの言葉と二人の声の対照を合わせる。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "パーティーを促す言葉と二人の声の対照。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "boogie-down-productions-you-must-learn",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "学べという呼びかけを、リズムで受け取る",
+      "rationale": "学ぶことへの呼びかけとリズムを結び、教育内容は推測しない。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "学ぶことを呼びかける言葉のリズム。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "the-troubleneck-brothers-back-to-the-hip-hop",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "ヒップホップを名指すフックに声がまとまる",
+      "rationale": "名指しのフックと声のまとまりという本文の特徴を残す。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "ヒップホップを名指すフックと声のまとまり。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "the-notorious-b-i-g-just-playing-dreams",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "夢として語る物語、そのラップの間合い",
+      "rationale": "夢という枠組みと間合いを中心にし、他の夢を扱う曲と区別する。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "夢という枠で進む物語とラップの間合い。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "jeru-the-damaja-da-bichez",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "言葉の角は、声のアクセントに現れる",
+      "rationale": "言葉の角を立てるアクセントという本文の比喩を維持する。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "言葉の角を立てる声のアクセント。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "krs-one-return-of-the-boom-bap",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "ブーン・バップを名乗る、ドラムと声の響き",
+      "rationale": "表題の呼称とドラム・声の響きをつなぎ、歴史的復興などは主張しない。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "表題そのものを響かせるドラムと声。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "akinyele-ak-ha-ha-ak-hoo-hoo",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "フックで変わる声の表情、小節で追う",
+      "rationale": "声の表情と小節の区切りを観察単位にする。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "声の表情が変わるフックと小節の区切り。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "intelligent-hoodlum-at-large",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "ラップの距離感を、ひと息の場所から探る",
+      "rationale": "本文の距離感と息継ぎを聴く提案に限定。題名から視野の広さを推論せず、固有性は要確認。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "視野を広げる題名とラップの距離感。"
+      },
+      "needs_review": false,
+      "additional_evidence": {
+        "field": "article_body[1]",
+        "snippet": "音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。"
+      },
+      "review_resolution": "Editorial review: faithful question/listening suggestion explicitly present in existing body or listening text; no new musical or historical assertion. Thin article depth remains unchanged."
+    },
+    {
+      "id": "a-tribe-called-quest-show-business",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "音楽を仕事として語る、いくつもの声",
+      "rationale": "音楽の仕事という題材と複数の声を中心にし、具体的批判内容は補わない。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "音楽の仕事を語る複数の声の交差。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "diamond-the-psychotic-neurotics-pass-dat-shit",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "ＭＣは交代する、ビートは一定のまま",
+      "rationale": "MCの交代と一定のビートの対比をそのまま観察軸にする。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "次々と交代するMCとビートの一定さ。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "the-legion-legion-groove",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "グループの名がフックの輪郭になる",
+      "rationale": "グループ名と結びついたフックを焦点とする。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "グループ名と結びついたフックの輪郭。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "common-take-it-ez",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "初期の声の弾みを、フロウの変化で追う",
+      "rationale": "初期という本文の範囲を保ち、フロウの細かな変化を入口にする。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "初期の声の弾み方とフロウの細かな変化。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "showbiz-a-g-silence-of-the-lambs",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "抑えた声だからこそ、間合いを追いたい",
+      "rationale": "声の抑制とラップの間合いを聴く提案にする。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "抑えた声から追うラップの間合い。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "original-flavor-feat-jay-z-can-i-get-open",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "客演の前後で聴き分ける、声の個性",
+      "rationale": "客演を挟む声の切り替わりを比較の視点にする。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "客演を挟んで切り替わる声の個性。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "the-umc-s-never-never-land",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "夢めいた題名から、動き続けるラップへ",
+      "rationale": "夢は題名の印象として留め、歌詞の物語とは断定しない。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "夢のような題名とラップの運動感。"
+      },
+      "needs_review": false
+    }
+  ],
+  "files": {
+    "tracks.json": {
+      "beforeSHA256": "32dfeb2ce363ceb99e10701275a0adbffff7a64dbb143e76f4399da8dd018a02",
+      "afterSHA256": "61f2e80df60501a6bac1679f4d0f5c78ad4b2a12cba429268dfc74ddeaf6ae70"
+    },
+    "releases.json": {
+      "beforeSHA256": "4539f4cbf8660bd4adeebcb834813d6d91bb35c165896536c6163c6cb80994d6",
+      "afterSHA256": "0f655c8ff21fed008e08c6eb3a7a7164d3ec6c9ecd137fd9c73a4349717a3c24"
+    }
+  },
+  "protected": {
+    "graffiti_artwork.json": "fccdb745bbd3b2871ef3b506b3197077f5e6b42cd543cefdbd042a2efb3f9c49",
+    "editorial_deepdives.json": "5b989c85ad5e6b0114a341209da18e6ed05608b71424d5184fe3733dc86436c0",
+    "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+    "artist_entities.json": "be0a95389d26e99480325ad2a7f0872ba3e21e7e58b6cf2b3fd7515d5805469b",
+    "src/app/catalog-ui.js": "2566d24be62e0a069bea040046664e301f36333890cf9057667e64866d5c1400",
+    "src/app/song-ui.js": "a96fc013d3e5e4ca3dfe359a8cc78c051fa559a9215d210ee3f84a073891b41a",
+    "src/app/editorial.js": "0e50447ea73ea4dc15fcf27c2f38d8214af89f77590d03a25b39cf4b31e5917d",
+    "src/assets/style.css": "369f75276d3aa790753db69ae410b1c5e24b93c24c8a645c436cf4c6053ef421"
+  }
+}
