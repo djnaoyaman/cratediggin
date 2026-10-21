@@ -420,7 +420,7 @@
           "shelf": "scratch",
           "evidence": {
             "file": "tracks.json",
-            "field": "listening.0",
+            "field": "listening.1",
             "quote": "スクラッチの切れ目とフレーズのつなぎ方に耳を向ける。"
           }
         }
@@ -447,15 +447,15 @@
           "evidence": {
             "file": "tracks.json",
             "field": "listening.0",
-            "quote": "カウントする声とドラムの絡み。"
+            "quote": "終盤のブレイクを確かめ、曲中のほかの素材と区別して聴く。"
           }
         },
         {
           "shelf": "arrangement",
           "evidence": {
-            "file": "tracks.json",
-            "field": "listening.1",
-            "quote": "音の断片が切り替わる瞬間。"
+            "file": "editorial_deepdives.json",
+            "field": "0.sections.2.text",
+            "quote": "Shadowは、MPCで組んだ「The Number Song」のミックスをADATへ録り、残りのトラックに複数のスクラッチ・テイクを重ねたと回想する。ビート制作とターンテーブルの演奏は、一度に完結した作業ではなかった。"
           }
         }
       ]
