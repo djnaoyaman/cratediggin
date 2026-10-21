@@ -2256,6 +2256,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "med-classic-browser"
+    },
+    {
+      "id": "timeline-three",
+      "argv": [
+        "python",
+        "scripts/verify_timeline_three.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "timeline-three"
+    },
+    {
+      "id": "timeline-three-browser",
+      "argv": [
+        "node",
+        "scripts/verify_timeline_three_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "timeline-three-browser"
     }
   ],
   "groups": {
@@ -2684,6 +2708,10 @@
     "med_classic": [
       "med-classic",
       "med-classic-browser"
+    ],
+    "timeline_three": [
+      "timeline-three",
+      "timeline-three-browser"
     ]
   },
   "runtime_rules": {
@@ -3475,7 +3503,8 @@
       "scripts/fixtures/approved-cash-money-three.json"
     ],
     "scripts/approved_med_classic.py": [
-      "scripts/fixtures/approved-med-classic.json"
+      "scripts/fixtures/approved-med-classic.json",
+      "scripts/approved_timeline_three.py"
     ],
     "scripts/verify_med_classic.py": [
       "scripts/approved_med_classic.py",
@@ -3485,6 +3514,18 @@
     "scripts/verify_med_classic_browser.cjs": [
       "scripts/verify_visible_art_browser.cjs",
       "scripts/fixtures/approved-med-classic.json"
+    ],
+    "scripts/approved_timeline_three.py": [
+      "scripts/fixtures/approved-timeline-three.json"
+    ],
+    "scripts/verify_timeline_three.py": [
+      "scripts/approved_timeline_three.py",
+      "scripts/editorial_uniqueness.py",
+      "scripts/fixtures/editorial-legacy-debt.json"
+    ],
+    "scripts/verify_timeline_three_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs",
+      "scripts/fixtures/approved-timeline-three.json"
     ]
   },
   "policy_paths": [
@@ -3556,7 +3597,9 @@
     "scripts/approved_cash_money_three.py",
     "scripts/fixtures/approved-cash-money-three.json",
     "scripts/approved_med_classic.py",
-    "scripts/fixtures/approved-med-classic.json"
+    "scripts/fixtures/approved-med-classic.json",
+    "scripts/approved_timeline_three.py",
+    "scripts/fixtures/approved-timeline-three.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -3602,7 +3645,8 @@
     "research/sampling-timeline-evidence-20261021.json",
     "research/bear-witness-region-repair-20261021.json",
     "research/intake-cash-money-three-20261021.json",
-    "research/intake-med-classic-20261021.json"
+    "research/intake-med-classic-20261021.json",
+    "research/intake-timeline-three-20261021.json"
   ],
   "syntax_existing": [
     "dist/app.js",
@@ -4046,6 +4090,13 @@
         "groups": [
           "med_classic"
         ]
+      },
+      {
+        "before_sha256": "e7fe586041f75d567e2075ea722e1879f76666acb2f2d0223d5fe5d3c0a75bf8",
+        "after_sha256": "7a6443556f14d6b429074874203d345dfdc856583ce3650877ce0d9b247afa7c",
+        "groups": [
+          "timeline_three"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -4111,6 +4162,13 @@
         "groups": [
           "med_classic"
         ]
+      },
+      {
+        "before_sha256": "bd27365c17e5195b12896c9a5b37948111b87ecee3fe0ea667588c91923c991f",
+        "after_sha256": "513f4e95b1751eda3c842b8e88f0eb442f9570f99eee36e67a832b7231a8637f",
+        "groups": [
+          "timeline_three"
+        ]
       }
     ],
     "graffiti_artwork.json": [
@@ -4168,6 +4226,13 @@
         "after_sha256": "800d4089d4d0bffce02a56c1c8b12b21e6537b99ad480fbb13864b0b218c0f6c",
         "groups": [
           "med_classic"
+        ]
+      },
+      {
+        "before_sha256": "800d4089d4d0bffce02a56c1c8b12b21e6537b99ad480fbb13864b0b218c0f6c",
+        "after_sha256": "6e5164cd48a106ceaad6089aa158588b82938b26d7d23e50c6e1deb15eb35b8a",
+        "groups": [
+          "timeline_three"
         ]
       }
     ],
@@ -4271,6 +4336,13 @@
         "groups": [
           "cash_money_three"
         ]
+      },
+      {
+        "before_sha256": "fc576a212b500a3c76e615bde8128124075e6e203d8996201761b66035adacb0",
+        "after_sha256": "ce897572c7712353b82e6248a4e3b4e7fa174c7c6703a915ed8442b376151ff9",
+        "groups": [
+          "timeline_three"
+        ]
       }
     ],
     "assets/graffiti/hassaan-mackey-apollo-brown-something-alpha.webp": [
@@ -4342,6 +4414,33 @@
         "after_sha256": "d29d25e2e2bc5796bcf0bae7b8f3a7f4f363f04ae9e1e41ffac046186015895e",
         "groups": [
           "med_classic"
+        ]
+      }
+    ],
+    "assets/graffiti/sugarhill-gang-rappers-delight-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "752ba061a51522000eb466066f630f1e9f7b6f4f7fc61a4c4f3908e473bafead",
+        "groups": [
+          "timeline_three"
+        ]
+      }
+    ],
+    "assets/graffiti/grandmaster-flash-the-furious-five-the-message-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "01ef4b0fe4c1a58dc6c2b769f903f245b2bc829bc4fc88faef2ce1cbb573f018",
+        "groups": [
+          "timeline_three"
+        ]
+      }
+    ],
+    "assets/graffiti/run-dmc-walk-this-way-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "cea0e37ca525aaa7bc1f0c9c12fa4fbf35b32b66879cfd97301279391bed1315",
+        "groups": [
+          "timeline_three"
         ]
       }
     ]

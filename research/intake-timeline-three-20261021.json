@@ -1,0 +1,82 @@
+{
+  "userMessageId": "Sentinel_59059692a6cc81918fae4905c4680ba6",
+  "request": "年表で取り上げられている曲、関連する曲は優先的に追加してください。",
+  "baseCatalog": 511,
+  "selected": [
+    {
+      "id": "sugarhill-gang-rappers-delight",
+      "title": "Rapper’s Delight",
+      "artist": "The Sugarhill Gang",
+      "yearBasis": "1979年のSugar Hill SH-542 12インチのLong Versionを対象。後年のコンピレーション配信年、短い編集版、再録とは区別します。",
+      "selectedVideo": {
+        "id": "ZjRi-S7J70Y",
+        "url": "https://www.youtube.com/watch?v=ZjRi-S7J70Y",
+        "title": "Rapper’s Delight (Long Version)",
+        "channel": "Sugarhill Gang",
+        "type": "公式音源（レーベル配信情報）",
+        "official": true,
+        "verified": "2026-10-21",
+        "embedUrl": "https://www.youtube.com/embed/ZjRi-S7J70Y",
+        "playbackVerified": false,
+        "embeddedPlaybackVerified": false,
+        "version": "Original 1979 SH-542 A-side Long Version",
+        "versionBasis": "Original 1979 long 12-inch recording; retain Long Version in audio/version metadata, not a later re-recording. Rhino / Sugarhill Gang Official Artist Channel. Explicit Long Version; ℗1979 Sugar Hill Records. Delivery album is later compilation The Sugar Hill Records Story, not the original jacket. Duration and master equivalence not listened to. 選択投稿と原盤の波形・マスタリングの完全一致は未検証です。",
+        "notice": "曲名・投稿者・レーベル説明に基づく掲載です。現在の日本での配信可否・埋め込み許可・動画の再生時間と実再生は未確認です。",
+        "verification": "曲名・投稿者・レーベル説明に基づく掲載です。現在の日本での配信可否・埋め込み許可・動画の再生時間と実再生は未確認です。",
+        "providedBy": "Rhino"
+      },
+      "artOriginalLibraryId": "libfile_dff03ff5f96081919a984a7316262229"
+    },
+    {
+      "id": "grandmaster-flash-the-furious-five-the-message",
+      "title": "The Message",
+      "artist": "Grandmaster Flash & The Furious Five",
+      "yearBasis": "1982年のThe Message原録音を対象。アルバムの約7分10秒の版で、短いシングル／MV編集版や後年の再録とは区別します。",
+      "selectedVideo": {
+        "id": "JfnFkJDuDM0",
+        "url": "https://www.youtube.com/watch?v=JfnFkJDuDM0",
+        "title": "The Message",
+        "channel": "Grandmaster Flash",
+        "type": "公式音源（レーベル配信情報）",
+        "official": true,
+        "verified": "2026-10-21",
+        "embedUrl": "https://www.youtube.com/embed/JfnFkJDuDM0",
+        "playbackVerified": false,
+        "embeddedPlaybackVerified": false,
+        "version": "Original 1982 full vocal recording as on The Message album, circa 7:10, with closing scene",
+        "versionBasis": "Original 1982 album recording, featuring Melle Mel and Duke Bootee, approximately 7:10; not a later remake. Rhino / Grandmaster Flash Official Artist Channel; title names Melle Mel and Duke Bootee; The Message album; ℗1982 Sugar Hill. Rhino album page lists 7:10. 選択投稿と原盤の波形・マスタリングの完全一致は未検証です。",
+        "notice": "曲名・投稿者・レーベル説明に基づく掲載です。現在の日本での配信可否・埋め込み許可・動画の再生時間と実再生は未確認です。",
+        "verification": "曲名・投稿者・レーベル説明に基づく掲載です。現在の日本での配信可否・埋め込み許可・動画の再生時間と実再生は未確認です。",
+        "providedBy": "Rhino"
+      },
+      "artOriginalLibraryId": "libfile_6643b69e6b788191b529a7142cfc42c0"
+    },
+    {
+      "id": "run-dmc-walk-this-way",
+      "title": "Walk This Way",
+      "artist": "RUN-D.M.C. feat. Aerosmith",
+      "yearBasis": "1986年のRaising Hellに収録された共演録音を対象。Aerosmithの1975年録音、MV編集版、後年のライブ録音とは区別します。",
+      "selectedVideo": {
+        "id": "dLB0P8nT2w8",
+        "url": "https://www.youtube.com/watch?v=dLB0P8nT2w8",
+        "title": "Walk This Way",
+        "channel": "RUN DMC",
+        "type": "公式音源（レーベル配信情報）",
+        "official": true,
+        "verified": "2026-10-21",
+        "embedUrl": "https://www.youtube.com/embed/dLB0P8nT2w8",
+        "playbackVerified": false,
+        "embeddedPlaybackVerified": false,
+        "version": "1986 RUN-D.M.C. collaboration with Steven Tyler and Joe Perry, original Raising Hell album version",
+        "versionBasis": "Original RUN-D.M.C. album collaboration from 1986; not Aerosmith’s 1975 recording or the music-video edit. Arista / RUN DMC Official Artist Channel; Raising Hell, ℗1986, date metadata 1986-05-15. Official video 4B_UYYPb-Gk is a separate candidate, not silently interchangeable. 選択投稿と原盤の波形・マスタリングの完全一致は未検証です。",
+        "notice": "曲名・投稿者・レーベル説明に基づく掲載です。現在の日本での配信可否・埋め込み許可・動画の再生時間と実再生は未確認です。",
+        "verification": "曲名・投稿者・レーベル説明に基づく掲載です。現在の日本での配信可否・埋め込み許可・動画の再生時間と実再生は未確認です。",
+        "providedBy": "Arista"
+      },
+      "artOriginalLibraryId": "libfile_80fd3831833881918676c799059f4094"
+    }
+  ],
+  "verificationLimit": "Exact recording families and label delivery descriptions researched. Current JP/embed/duration and actual playback not established after rate-limit response; no alternate-route retry.",
+  "sourceReview": "Participant interviews and label/institutional sources reviewed; producer and co-producer roles distinguished from printed corporate production credits. Editorial interpretation is not personal listening verification.",
+  "otherPendingRequests": "Cash Money remaining six retained separately with original request provenance and holds; no substitution or duplication."
+}

@@ -59310,5 +59310,421 @@
       "paletteSourceUrl": "https://stonesthrow.com/images/2010/medclassic-01.jpg",
       "paletteNote": "以前目視した原盤ジャケットの赤・オフホワイト・黒を参照した編集上の近似値。既存の生成原画を復元し、文字と透過を再確認。"
     }
+  },
+  {
+    "id": "sugarhill-gang-rappers-delight",
+    "title": "Rapper’s Delight",
+    "artist": "The Sugarhill Gang",
+    "artists": [
+      "The Sugarhill Gang"
+    ],
+    "year": 1979,
+    "yearBasis": "1979年のSugar Hill SH-542 12インチのLong Versionを対象。後年のコンピレーション配信年、短い編集版、再録とは区別します。",
+    "album": "Rapper’s Delight (Sugar Hill SH-542 12-inch single)",
+    "producer": "Sylvia Robinson",
+    "producers": [
+      "Sylvia Robinson"
+    ],
+    "productionCreditNote": "Sylvia Robinson：producer / Sylvia Inc.：printed original production credit",
+    "region": "New Jersey",
+    "scene": "New Jersey / Sugar Hill",
+    "label": "Sugar Hill",
+    "category": "Hip Hop",
+    "essayTitle": "マイクを返すと、まだ続いていた。",
+    "deck": "1979年のLong Versionを、録音に参加した二人の回想と原盤資料から読む。短い編集版や後年の再録とは分けて扱う。",
+    "context": "長い12インチの構成に、パーティーでマイクを回す習慣が残る。",
+    "essay": [
+      "長い曲には、長く聴かせるための仕掛けがある。「Rapper’s Delight」の場合は、次の人へマイクを渡すことだ。ベースが同じ道を回り、声が交代するたびに景色の縮尺が変わる。十五分近い尺を、ひとりの大演説にしない。その気軽さが、今でもこのレコードのいいところだと思う。",
+      "ここで選ぶのは、1979年のSugar Hill SH-542に入ったLong Version。現物ラベルには15分と印刷され、現在の正規配信では14分37秒とされる。短いシングル版とは分けておく。個人の制作クレジットはSylvia Robinson、当時の盤面にはSylvia Inc. Productionの表記がある。",
+      "Master Geeは2016年の取材で、録音でもパーティーと同じようにマイクを回し続けたと振り返っている。録音のテイクという考えに馴染みがなく、パーティーのように続けたことで、長い一曲にその場の順番が残った。レコードに入る前からあった習慣が、レコードの形を決めてしまう。ここが面白い。",
+      "年表では、ラップがレコードで広く届いていく1979年の一曲として置きたい。「すべての始まり」と大きく書くより、持ち帰れるパーティーができた、と考える。誰かの出番が終わっても、ビートは片づけられない。まだ次の人がいる。その感じを、長い版で確かめたい。"
+    ],
+    "essaySources": [
+      [],
+      [
+        0,
+        3,
+        5
+      ],
+      [
+        4
+      ],
+      []
+    ],
+    "facts": [],
+    "sources": [
+      {
+        "label": "Library of Congress original release catalog",
+        "url": "https://www.loc.gov/item/95786229/",
+        "kind": "primary_catalog"
+      },
+      {
+        "label": "Smithsonian original Timeline source",
+        "url": "https://americanhistory.si.edu/collections/object/nmah_1320076",
+        "kind": "primary_museum_object"
+      },
+      {
+        "label": "Rhino official audio metadata",
+        "url": "https://www.youtube.com/watch?v=ZjRi-S7J70Y",
+        "kind": "label_delivery"
+      },
+      {
+        "label": "Breakwell Records — SH-542赤ラベルと当時のカンパニースリーヴの現物写真",
+        "url": "https://www.breakwellrecords.com/product/1965",
+        "kind": "retailer_original_artifact_photo"
+      },
+      {
+        "label": "Moo Kid / Conor McCaffrey — Wonder Mike、Master Geeへの取材（2016）",
+        "url": "https://mookidmusic.com/2016/06/10/interview-sugarhill-gang-on-how-they-made-rappers-delight/",
+        "kind": "participant_interview"
+      },
+      {
+        "label": "Rhino配信のLong Version — Qobuz",
+        "url": "https://www.qobuz.com/us-en/album/rappers-delight-the-sugarhill-gang/0081227871468",
+        "kind": "label_delivered_retail_metadata"
+      },
+      {
+        "label": "Library of Congress — Eric Reese寄稿",
+        "url": "https://lcweb2.loc.gov/static/programs/national-recording-preservation-board/documents/RappersDelight.pdf",
+        "kind": "institutional_hosted_historical_essay"
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用録音・別演奏の区別と音源リンクは今回未照合です。本文の記述から未確認のサンプル項目を追加していません。",
+    "connections": [],
+    "listening": [
+      "長い版でMCの順番が一周するところに注目し、短い編集版との構成の違いを探したい。"
+    ],
+    "moods": [
+      "グルーヴ"
+    ],
+    "sounds": [
+      "ラップ",
+      "ドラム"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "audioVerificationStatus": "曲名・投稿者・レーベル説明に基づく掲載です。現在の日本での配信可否・埋め込み許可・動画の再生時間と実再生は未確認です。",
+    "editorialStatus": "資料に基づく制作史と編集上の聴き方です。編者の個人的な実体験や今回の実再生検証を意味しません。",
+    "noteReviewedAt": "2026-10-21",
+    "datePublished": "2026-10-21",
+    "addedOrder": 505,
+    "versionBasis": "Original 1979 long 12-inch recording; retain Long Version in audio/version metadata, not a later re-recording. Rhino / Sugarhill Gang Official Artist Channel. Explicit Long Version; ℗1979 Sugar Hill Records. Delivery album is later compilation The Sugar Hill Records Story, not the original jacket. Duration and master equivalence not listened to. 選択投稿と原盤の波形・マスタリングの完全一致は未検証です。",
+    "youtube": {
+      "id": "ZjRi-S7J70Y",
+      "url": "https://www.youtube.com/watch?v=ZjRi-S7J70Y",
+      "title": "Rapper’s Delight (Long Version)",
+      "channel": "Sugarhill Gang",
+      "type": "公式音源（レーベル配信情報）",
+      "official": true,
+      "verified": "2026-10-21",
+      "embedUrl": "https://www.youtube.com/embed/ZjRi-S7J70Y",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "version": "Original 1979 SH-542 A-side Long Version",
+      "versionBasis": "Original 1979 long 12-inch recording; retain Long Version in audio/version metadata, not a later re-recording. Rhino / Sugarhill Gang Official Artist Channel. Explicit Long Version; ℗1979 Sugar Hill Records. Delivery album is later compilation The Sugar Hill Records Story, not the original jacket. Duration and master equivalence not listened to. 選択投稿と原盤の波形・マスタリングの完全一致は未検証です。",
+      "notice": "曲名・投稿者・レーベル説明に基づく掲載です。現在の日本での配信可否・埋め込み許可・動画の再生時間と実再生は未確認です。",
+      "verification": "曲名・投稿者・レーベル説明に基づく掲載です。現在の日本での配信可否・埋め込み許可・動画の再生時間と実再生は未確認です。",
+      "providedBy": "Rhino"
+    },
+    "art": {
+      "word": "RAPPER’S DELIGHT",
+      "lines": [
+        "RAPPER’S DELIGHT"
+      ],
+      "tag": "THE SUGARHILL GANG",
+      "style": "piece",
+      "seed": 197900,
+      "palette": [
+        "#D33329",
+        "#EE9735",
+        "#F6D852",
+        "#26221E"
+      ],
+      "paletteSource": "1979 Sugar Hill SH-542 red-label 12-inch, orange/yellow company sleeve",
+      "paletteSourceUrl": "https://www.breakwellrecords.com/product/1965",
+      "paletteNote": "現物写真を目視した編集上の近似。赤いセンターラベル、橙／黄の放射状カンパニースリーヴ、黒い活字を参照。後年の青いSugar Hillスリーヴや配信コンピレーションの絵柄は使わない。全体ジャケット固有の絵ではなく会社共通スリーヴであることを明記。"
+    }
+  },
+  {
+    "id": "grandmaster-flash-the-furious-five-the-message",
+    "title": "The Message",
+    "artist": "Grandmaster Flash & The Furious Five",
+    "artists": [
+      "Grandmaster Flash & The Furious Five"
+    ],
+    "year": 1982,
+    "yearBasis": "1982年のThe Message原録音を対象。アルバムの約7分10秒の版で、短いシングル／MV編集版や後年の再録とは区別します。",
+    "album": "The Message",
+    "producer": "Ed “Duke Bootee” Fletcher / Jiggs Chase",
+    "producers": [
+      "Ed “Duke Bootee” Fletcher",
+      "Jiggs Chase"
+    ],
+    "productionCreditNote": "Ed “Duke Bootee” Fletcher：制作、Jiggs Chase：共同制作。Rich BunnellによるLibrary of Congress掲載解説に基づきます。別資料のSylvia Inc. & Jigsaw Productions表記は、Rock Hallの2005年再発盤目録の転記であり、原盤ラベルの直接目視確認とは区別しています。",
+    "region": "Bronx",
+    "scene": "Bronx / Sugar Hill",
+    "label": "Sugar Hill",
+    "category": "Hip Hop",
+    "essayTitle": "声を置くための、広い隙間。",
+    "deck": "グループの名義と、Duke Bootee、Jiggs Chase、Melle Melの具体的な制作・歌唱の役割を分けて読む。",
+    "context": "名義だけでは見えない制作の分担から、1982年の録音を読み直す。",
+    "essay": [
+      "「The Message」は、音が少ないところが耳に残る。シンセの短い線が消えると、その下から声の輪郭が近づいてくる。賑やかな場所で会話を聞き取るのとは逆に、伴奏が席を空けているようだ。語られる街は窮屈なのに、音の配置には余白がある。",
+      "1982年、Grandmaster Flash & The Furious Five名義で発表された曲。ただし、その名前だけからFlashが制作の中心だったと考えると、肝心なところを取り落とす。Library of Congress掲載の解説は、Ed “Duke Bootee” Fletcherの構想と制作、Jiggs Chaseの共同制作、Melle Melの作詞と声を分けて記している。",
+      "Melle MelはFresh Airの取材で、パーティー向けのラップに慣れていたグループが、この曲を進んで録音したわけではなかったと振り返る。後に転機と呼ばれる曲でも、歌う側が最初からその大きさを知っていたとは限らない。ここでは、そのためらいも制作史の一部として残しておきたい。",
+      "年表の1982年へ戻るときは、社会的な主題という札だけで聴き終えず、言葉を運ぶ間隔に耳を向ける。七分ほどの原録音を通すと、短いフレーズの反復が簡単には出口を作らない。声が語り終えれば街の事情も片づく、というわけではない。その後味まで含めて、一曲なのだと思う。"
+    ],
+    "essaySources": [
+      [],
+      [
+        0
+      ],
+      [
+        5
+      ],
+      []
+    ],
+    "facts": [],
+    "sources": [
+      {
+        "label": "Library of Congress: The Message",
+        "url": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/TheMessage.pdf",
+        "kind": "institutional_recording_history"
+      },
+      {
+        "label": "Rock Hall original album catalog",
+        "url": "https://axiell.rockhall.com/rrhof-ais/Details/fullCatalogue/200025874",
+        "kind": "primary_artifact_catalog"
+      },
+      {
+        "label": "Rhino album page",
+        "url": "https://www.rhino.com/product/the-message",
+        "kind": "label_catalog"
+      },
+      {
+        "label": "Rhino album feature",
+        "url": "https://www.rhino.com/aod/the-message-grandmaster-flash-the-furious-five",
+        "kind": "label_history"
+      },
+      {
+        "label": "Official album audio",
+        "url": "https://www.youtube.com/watch?v=JfnFkJDuDM0",
+        "kind": "label_delivery"
+      },
+      {
+        "label": "Fresh Air Archive — Melle Melへの1992年取材、2007年再放送",
+        "url": "https://freshairarchive.org/segments/melle-mel-stands-message",
+        "kind": "participant_interview"
+      },
+      {
+        "label": "Connect Savannah — Ed Fletcher / Duke Booteeへの2013年取材",
+        "url": "https://www.connectsavannah.com/music-and-clubs/the-man-behind-the-message-2263348/",
+        "kind": "participant_interview"
+      },
+      {
+        "label": "Greg Wilson — 当時のレコードリストに基づく1982年8月選曲記録",
+        "url": "https://electrofunkroots.co.uk/greg-wilsons-top-10-floorfillers-august-82/",
+        "kind": "dj_primary_archive"
+      },
+      {
+        "label": "Street Sounds公式 — 1982年コンピレーションの原盤表記と7:10",
+        "url": "https://www.streetsounds.co.uk/main1.html",
+        "kind": "label_catalog"
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用録音・別演奏の区別と音源リンクは今回未照合です。本文の記述から未確認のサンプル項目を追加していません。",
+    "connections": [],
+    "listening": [
+      "声が入る前後の余白と、最後の場面が残す後味に注意して聴いてみたい。"
+    ],
+    "moods": [
+      "グルーヴ"
+    ],
+    "sounds": [
+      "ラップ",
+      "ドラム"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "audioVerificationStatus": "曲名・投稿者・レーベル説明に基づく掲載です。現在の日本での配信可否・埋め込み許可・動画の再生時間と実再生は未確認です。",
+    "editorialStatus": "資料に基づく制作史と編集上の聴き方です。編者の個人的な実体験や今回の実再生検証を意味しません。",
+    "noteReviewedAt": "2026-10-21",
+    "datePublished": "2026-10-21",
+    "addedOrder": 506,
+    "versionBasis": "Original 1982 album recording, featuring Melle Mel and Duke Bootee, approximately 7:10; not a later remake. Rhino / Grandmaster Flash Official Artist Channel; title names Melle Mel and Duke Bootee; The Message album; ℗1982 Sugar Hill. Rhino album page lists 7:10. 選択投稿と原盤の波形・マスタリングの完全一致は未検証です。",
+    "youtube": {
+      "id": "JfnFkJDuDM0",
+      "url": "https://www.youtube.com/watch?v=JfnFkJDuDM0",
+      "title": "The Message",
+      "channel": "Grandmaster Flash",
+      "type": "公式音源（レーベル配信情報）",
+      "official": true,
+      "verified": "2026-10-21",
+      "embedUrl": "https://www.youtube.com/embed/JfnFkJDuDM0",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "version": "Original 1982 full vocal recording as on The Message album, circa 7:10, with closing scene",
+      "versionBasis": "Original 1982 album recording, featuring Melle Mel and Duke Bootee, approximately 7:10; not a later remake. Rhino / Grandmaster Flash Official Artist Channel; title names Melle Mel and Duke Bootee; The Message album; ℗1982 Sugar Hill. Rhino album page lists 7:10. 選択投稿と原盤の波形・マスタリングの完全一致は未検証です。",
+      "notice": "曲名・投稿者・レーベル説明に基づく掲載です。現在の日本での配信可否・埋め込み許可・動画の再生時間と実再生は未確認です。",
+      "verification": "曲名・投稿者・レーベル説明に基づく掲載です。現在の日本での配信可否・埋め込み許可・動画の再生時間と実再生は未確認です。",
+      "providedBy": "Rhino"
+    },
+    "art": {
+      "word": "THE MESSAGE",
+      "lines": [
+        "THE MESSAGE"
+      ],
+      "tag": "GRANDMASTER FLASH & THE FURIOUS FIVE",
+      "style": "piece",
+      "seed": 198201,
+      "palette": [
+        "#B1B0A3",
+        "#72223D",
+        "#9B86B7",
+        "#EDE9E6",
+        "#242123"
+      ],
+      "paletteSource": "The Message original album artwork",
+      "paletteSourceUrl": "https://www.rhino.com/product/the-message",
+      "paletteNote": "Rhinoのオリジナル・アルバム図版を目視した編集上の近似。上部の灰緑、衣服の臙脂、路面と写真の紫、白い服と黒い輪郭を参照。街路写真自体を転載・模倣しない。"
+    }
+  },
+  {
+    "id": "run-dmc-walk-this-way",
+    "title": "Walk This Way",
+    "artist": "RUN-D.M.C. feat. Aerosmith",
+    "artists": [
+      "RUN-D.M.C. feat. Aerosmith"
+    ],
+    "year": 1986,
+    "yearBasis": "1986年のRaising Hellに収録された共演録音を対象。Aerosmithの1975年録音、MV編集版、後年のライブ録音とは区別します。",
+    "album": "Raising Hell",
+    "producer": "Russell Simmons / Rick Rubin / Jason Mizell / Joseph Simmons",
+    "producers": [
+      "Russell Simmons",
+      "Rick Rubin",
+      "Jason Mizell",
+      "Joseph Simmons"
+    ],
+    "productionCreditNote": "Russell Simmons / Rick Rubin：制作。Jason Mizell / Joseph Simmons：共同制作。以前照合したArista配信情報に基づき、Sonyの現行紹介文で独立確認できるRick Rubinの記載とは区別します。",
+    "region": "Queens",
+    "scene": "Hollis / Queens",
+    "label": "Profile Records",
+    "category": "Hip Hop",
+    "essayTitle": "先にドラムを知っていた。",
+    "deck": "1986年のアルバム録音を、DMCとジャケットデザイナー本人の回想からたどる。1975年の原曲やMV編集版とは区別する。",
+    "context": "DJが知っていたドラムから、異なる声が交わるアルバム録音へ。",
+    "essay": [
+      "「Walk This Way」の入口は、ギターの派手さより先に、あのドラムの置き方にある。次の声が入る場所を、床にテープで示してあるようなビート。その上でRunとDMCが言葉を受け渡し、Steven Tylerの声が高いところから割り込んでくる。違う声なのに、歩く道はひとつだ。",
+      "1986年の『Raising Hell』に入ったのは、Aerosmithの1975年録音そのままではなく、TylerとJoe Perryを迎えた新しい録音。Rick RubinとRussell Simmonsの制作、Jam Master JayことJason MizellとJoseph Simmonsの共同制作というクレジットも、ここでは分けて見ておきたい。年表の1986年は、この出会いの年である。",
+      "DMCはComplexの取材で、当初はAerosmithの曲をループして、自分たちのラップを乗せるつもりだったと話す。曲全体をやり直す案には戸惑った。それをRun-DMCらしい掛け合いに変えるよう促したのがJayだったという。ジャンルの大握手の前に、いつもの口の動かし方へ戻る作業があった。",
+      "だから聴くときは、両者が似ているところだけでなく、似ていないまま噛み合うところを追いたい。二人の硬い区切りと、Tylerの引き伸ばす声。揃えすぎないから、受け渡しが見える。歴史の教科書なら一行で済む共演にも、マイクの前ではそれぞれの歩幅が残っている。"
+    ],
+    "essaySources": [
+      [],
+      [
+        2
+      ],
+      [
+        4
+      ],
+      []
+    ],
+    "facts": [],
+    "sources": [
+      {
+        "label": "Rock Hall Walk This Way video exhibit",
+        "url": "https://artsandculture.google.com/asset/walk-this-way-video-run-d-m-c/swGsWDZwmLCeBw?hl=en",
+        "kind": "primary_museum_exhibit"
+      },
+      {
+        "label": "Recording Academy Rick Rubin biography",
+        "url": "https://www.grammy.com/artists/rick-rubin/13812/",
+        "kind": "institutional_artist_history"
+      },
+      {
+        "label": "Arista album audio",
+        "url": "https://www.youtube.com/watch?v=dLB0P8nT2w8",
+        "kind": "label_delivery"
+      },
+      {
+        "label": "Sony Raising Hell product",
+        "url": "https://vinyl.sonymusic.com/products/run-dmc-raising-hell-lp",
+        "kind": "label_catalog"
+      },
+      {
+        "label": "Complex — DMC本人による制作回想（2016）",
+        "url": "https://uk.complex.com/music/a/chaz-kangas/darryl-dmc-mcdaniels-interview-run-dmc-raising-hell-prince",
+        "kind": "participant_interview"
+      },
+      {
+        "label": "Eye on Design — Janet Perrへのジャケット制作取材（2020）",
+        "url": "https://eyeondesign.aiga.org/under-the-covers-there-wasnt-a-concept-concept-behind-the-design-of-run-dmcs-seminal-raising-hell/",
+        "kind": "designer_interview"
+      },
+      {
+        "label": "Aerosmith公式 — 1986年共演の回顧",
+        "url": "https://www.aerosmith.com/news/aerohistory--on-this-day-aerosmith-and-run-d-m-c--make-history",
+        "kind": "artist_official_history"
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用録音・別演奏の区別と音源リンクは今回未照合です。本文の記述から未確認のサンプル項目を追加していません。",
+    "connections": [],
+    "listening": [
+      "RunとDMCの短い区切り、Tylerの長く伸ばす声がどう受け渡されるかを追いたい。"
+    ],
+    "moods": [
+      "グルーヴ"
+    ],
+    "sounds": [
+      "ラップ",
+      "ドラム"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "audioVerificationStatus": "曲名・投稿者・レーベル説明に基づく掲載です。現在の日本での配信可否・埋め込み許可・動画の再生時間と実再生は未確認です。",
+    "editorialStatus": "資料に基づく制作史と編集上の聴き方です。編者の個人的な実体験や今回の実再生検証を意味しません。",
+    "noteReviewedAt": "2026-10-21",
+    "datePublished": "2026-10-21",
+    "addedOrder": 507,
+    "versionBasis": "Original RUN-D.M.C. album collaboration from 1986; not Aerosmith’s 1975 recording or the music-video edit. Arista / RUN DMC Official Artist Channel; Raising Hell, ℗1986, date metadata 1986-05-15. Official video 4B_UYYPb-Gk is a separate candidate, not silently interchangeable. 選択投稿と原盤の波形・マスタリングの完全一致は未検証です。",
+    "youtube": {
+      "id": "dLB0P8nT2w8",
+      "url": "https://www.youtube.com/watch?v=dLB0P8nT2w8",
+      "title": "Walk This Way",
+      "channel": "RUN DMC",
+      "type": "公式音源（レーベル配信情報）",
+      "official": true,
+      "verified": "2026-10-21",
+      "embedUrl": "https://www.youtube.com/embed/dLB0P8nT2w8",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "version": "1986 RUN-D.M.C. collaboration with Steven Tyler and Joe Perry, original Raising Hell album version",
+      "versionBasis": "Original RUN-D.M.C. album collaboration from 1986; not Aerosmith’s 1975 recording or the music-video edit. Arista / RUN DMC Official Artist Channel; Raising Hell, ℗1986, date metadata 1986-05-15. Official video 4B_UYYPb-Gk is a separate candidate, not silently interchangeable. 選択投稿と原盤の波形・マスタリングの完全一致は未検証です。",
+      "notice": "曲名・投稿者・レーベル説明に基づく掲載です。現在の日本での配信可否・埋め込み許可・動画の再生時間と実再生は未確認です。",
+      "verification": "曲名・投稿者・レーベル説明に基づく掲載です。現在の日本での配信可否・埋め込み許可・動画の再生時間と実再生は未確認です。",
+      "providedBy": "Arista"
+    },
+    "art": {
+      "word": "WALK THIS WAY",
+      "lines": [
+        "WALK THIS WAY"
+      ],
+      "tag": "RUN-D.M.C. FEAT. AEROSMITH",
+      "style": "piece",
+      "seed": 198602,
+      "palette": [
+        "#008A4D",
+        "#B62479",
+        "#B5D0B6",
+        "#17291E"
+      ],
+      "paletteSource": "Raising Hell",
+      "paletteSourceUrl": "https://vinyl.sonymusic.com/products/run-dmc-raising-hell-lp",
+      "paletteNote": "Sony掲載の緑の写真／マゼンタ文字の表ジャケットを目視して選んだ近似色。白い商品写真の余白と黒い盤は配色対象外。Janet Perr本人の取材は、この組み合わせと紫／緑の組み合わせをともに当初の2仕様として説明している。再発で新造された配色と誤認しない。"
+    }
   }
 ]

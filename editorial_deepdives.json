@@ -3997,5 +3997,77 @@
         "sourceLabel": "POW — Karriem Riggins interview by Joel Biswas, 2021-02-26"
       }
     ]
+  },
+  {
+    "artist": "The Sugarhill Gang",
+    "title": "Rapper’s Delight",
+    "sections": [
+      {
+        "heading": "初めて聴く人へ、何を説明するか",
+        "text": "Wonder MikeはMoo Kidの取材で、ニューヨーク周辺の外にも届くことを考え、冒頭で何をしている音楽なのかを説明したと話している。あの入り口は、仲間内の合言葉であると同時に、初めて耳を向けた人への案内でもあった。",
+        "sources": [
+          4
+        ],
+        "source": "https://mookidmusic.com/2016/06/10/interview-sugarhill-gang-on-how-they-made-rappers-delight/",
+        "sourceLabel": "Moo Kid / Conor McCaffrey — Wonder Mike、Master Geeへの取材（2016）"
+      },
+      {
+        "heading": "三人になる前のオーディション",
+        "text": "Master Geeは、Sylvia Robinsonの家に集まった夜も、採用されるのは一人だと思っていたと振り返る。ところが最後に三人を組ませる方針が決まった。最初から一組として活動していた三人の記録、というわけではなかった。",
+        "sources": [
+          4
+        ],
+        "source": "https://mookidmusic.com/2016/06/10/interview-sugarhill-gang-on-how-they-made-rappers-delight/",
+        "sourceLabel": "Moo Kid / Conor McCaffrey — Wonder Mike、Master Geeへの取材（2016）"
+      }
+    ]
+  },
+  {
+    "artist": "Grandmaster Flash & The Furious Five",
+    "title": "The Message",
+    "sections": [
+      {
+        "heading": "店先から、Disco Feverへ",
+        "text": "Melle Melによると、レコードは125丁目の店先や、彼らが通っていたDisco Feverで試された。「Planet Rock」に続いて流しても客の熱が落ちなかったことに、本人は驚いたという。録音前のためらいとは別に、曲の可能性を知らせたのは現場の反応だった。",
+        "sources": [
+          5
+        ],
+        "source": "https://freshairarchive.org/segments/melle-mel-stands-message",
+        "sourceLabel": "Fresh Air Archive — Melle Melへの1992年取材、2007年再放送"
+      },
+      {
+        "heading": "Duke Booteeは、社会へ鏡を向けた",
+        "text": "2013年のConnect Savannahの取材で、Fletcherは自分の仕事を社会に鏡を向けることとして語っている。彼はSugar Hillでスタジオ奏者、共同制作者、書き手として働いた人物でもある。名義の裏側までたどることで、ラップを支えた音楽家の仕事が見えてくる。",
+        "sources": [
+          6
+        ],
+        "source": "https://www.connectsavannah.com/music-and-clubs/the-man-behind-the-message-2263348/",
+        "sourceLabel": "Connect Savannah — Ed Fletcher / Duke Booteeへの2013年取材"
+      }
+    ]
+  },
+  {
+    "artist": "RUN-D.M.C. feat. Aerosmith",
+    "title": "Walk This Way",
+    "sections": [
+      {
+        "heading": "本命のロック曲は、タイトル曲だった",
+        "text": "DMCは、タイトル曲の「Raising Hell」こそ「Rock Box」「King of Rock」に続くロック曲になるはずだったと振り返る。アルバムの当初の見取り図では、ロックとの接点が「Walk This Way」だけに集中していたわけではない。",
+        "sources": [
+          4
+        ],
+        "source": "https://uk.complex.com/music/a/chaz-kangas/darryl-dmc-mcdaniels-interview-run-dmc-raising-hell-prince",
+        "sourceLabel": "Complex — DMC本人による制作回想（2016）"
+      },
+      {
+        "heading": "緑とマゼンタにも、原版の理由がある",
+        "text": "デザイン担当のJanet Perrは、白黒写真を2組の配色で印刷したと説明する。紫の写真に緑の文字、そして緑の写真にマゼンタの文字。今回はSony掲載の後者を参照する。写真の色は一種類に固定されていなかった。ジャケットを「見覚え」だけで決めないための、ちょうどよい例だ。",
+        "sources": [
+          5
+        ],
+        "source": "https://eyeondesign.aiga.org/under-the-covers-there-wasnt-a-concept-concept-behind-the-design-of-run-dmcs-seminal-raising-hell/",
+        "sourceLabel": "Eye on Design — Janet Perrへのジャケット制作取材（2020）"
+      }
+    ]
   }
 ]
