@@ -23980,12 +23980,11 @@
       "lettering": "subway",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "前の恋から、次の恋へ。",
-    "essayTitle": "恋は進む、Guruの語りは急がない",
+    "deck": "フィルターの使い方を、Premier自身の回想からたどる。",
+    "essayTitle": "教わったフィルターを、自分の曲へ。",
     "essay": [
-      "前の恋から、次の恋へ。題名だけ見れば忙しそうだが、レコードの針はそう急がない。話の進み方とビートの歩幅を、別々に追ってみる。忙しいのは、案外こちらの暮らしの方かもしれない。",
-      "収録の入口は『Daily Operation』。Guruの声とDJ Premierのビートを、それぞれ聴いてから一緒に聴く。同じ一枚でも、耳の向け方が変われば、まだ掘れる場所が残っている。 Ceasar Frazierの「Funk It Up」も、横に置いて聴き比べる。",
-      "ピザが焼けるのを待つ間に、一曲をかける。歩く時には、いつもの道へその反復を連れていく。今日はこの一枚、と自分のプレイリストへ選ぶ。それくらいの付き合い方から、レコードは長く暮らしに残っていく。"
+      "Amir Saidの『The BeatTips Manual』で、DJ Premierはフィルターの技術を発展させた例にこの曲を挙げている。Large ProfessorからSP-12での使い方を教わり、Pete Rockによる、加工したサンプルと元のサンプルを重ねて低音を作る方法にも触れている。",
+      "ただし、Pete Rockの重ね方を、そのままこの曲の工程とは決めつけない。技術を教わり、自分の曲へ進めるという回想を入口に、低音と上の音の関係を確かめたい。"
     ],
     "facts": [
       {
@@ -24023,11 +24022,9 @@
       }
     ],
     "listening": [
-      "声が入る前と、入った後のビートを聴き比べる。",
-      "一枚を単独でかけてから、収録盤の前後の曲へ戻る。",
-      "原曲、リミックス、インストの版名を確かめながら選曲する。"
+      "Premierの回想を手がかりに、低音と上の音の関係を確かめる。"
     ],
-    "context": "一曲ずつ選び、次の一曲との間も楽しむためのレコード。",
+    "context": "技術を教わり、自分の曲へ応用する過程が見える。",
     "sources": [
       {
         "label": "Gang Starr — Ex Girl to Next Girl",
@@ -24048,6 +24045,11 @@
         "label": "Betto Rollerman — Funk It Up（参考投稿）",
         "url": "https://www.youtube.com/watch?v=XWrSBMyeCkg",
         "kind": "参考原曲"
+      },
+      {
+        "url": "https://beattips.com/wp-content/uploads/2020/07/TBM_6_REV_PDF_D8.pdf",
+        "label": "Amir Said — The BeatTips Manual / DJ Premier interview, p.512",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -24072,7 +24074,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "gang-starr-take-two-and-pass",
@@ -24119,12 +24129,11 @@
       "lettering": "subway",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "取って、渡す。",
-    "essayTitle": "ファンクを切り出し、声を渡す反復へ",
+    "deck": "Chris Readの曲目表から、二つの引用元をたどる。",
+    "essayTitle": "ファンクの曲と、ラップの断片。",
     "essay": [
-      "取って、渡す。曲名の小さな動作を、レコードにも借りてみる。一枚を受け取り、聴いて、次の一枚へ渡す。選曲には、その間をどう作るかという仕事がある。",
-      "収録の入口は『Daily Operation』。Guruの声とDJ Premierのビートを、それぞれ聴いてから一緒に聴く。同じ一枚でも、耳の向け方が変われば、まだ掘れる場所が残っている。 Eddie Hazelの「Frantic Moment」も、横に置いて聴き比べる。",
-      "ピザが焼けるのを待つ間に、一曲をかける。歩く時には、いつもの道へその反復を連れていく。今日はこの一枚、と自分のプレイリストへ選ぶ。それくらいの付き合い方から、レコードは長く暮らしに残っていく。"
+      "DJのChris Readは『Daily Operation』の記念ミックスで、この曲の引用元にEddie Hazelの「Frantic Moment」と、Juice Crew All Starsの「Juice Crew All Stars」の断片を挙げている。ファンク側の一曲だけでなく、ラップ側の素材も並べているのが手がかりだ。",
+      "既に紹介しているHazelの原曲に、もう一つの参照先を加えてみる。二つの素材がどこで使われるかを探す聴き比べなら、曲名だけを眺めるより先へ進める。"
     ],
     "facts": [
       {
@@ -24162,11 +24171,9 @@
       }
     ],
     "listening": [
-      "声が入る前と、入った後のビートを聴き比べる。",
-      "一枚を単独でかけてから、収録盤の前後の曲へ戻る。",
-      "原曲、リミックス、インストの版名を確かめながら選曲する。"
+      "Eddie HazelとJuice Crew All Stars、二つの参照先を並べて聴く。"
     ],
-    "context": "一曲ずつ選び、次の一曲との間も楽しむためのレコード。",
+    "context": "DJが公開した曲目表を入口に、引用元の組合せを調べる。",
     "sources": [
       {
         "label": "Gang Starr - Topic — Take Two and Pass",
@@ -24187,6 +24194,11 @@
         "label": "Eddie Hazel - Topic — Frantic Moment",
         "url": "https://www.youtube.com/watch?v=R64XYu2lePQ",
         "kind": "公式原曲"
+      },
+      {
+        "url": "https://musicofsubstance.com/discography/gang-starr-daily-operation-25th-anniversary-mixtape/",
+        "label": "Chris Read — Daily Operation 25th Anniversary Mixtape tracklist",
+        "kind": "DJ本人の公式曲目資料"
       }
     ],
     "producers": [
@@ -24211,7 +24223,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "gang-starr-2-deep",
@@ -24258,12 +24278,11 @@
       "lettering": "subway",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "二つの深さ、と題名を勝手に読んでみる。",
-    "essayTitle": "二度かけて聴き分ける、声と音の深さ",
+    "deck": "Geoff Barrowが選んだ「2 Deep」。",
+    "essayTitle": "MCだけでなく、音楽の側へ。",
     "essay": [
-      "二つの深さ、と題名を勝手に読んでみる。声の方を聴く回と、音の方を聴く回。二回かければ、それぞれ別の奥行きが見えてくる。急いで名曲という札を貼る前に、まず二回。",
-      "収録の入口は『Daily Operation』。Guruの声とDJ Premierのビートを、それぞれ聴いてから一緒に聴く。同じ一枚でも、耳の向け方が変われば、まだ掘れる場所が残っている。",
-      "ピザが焼けるのを待つ間に、一曲をかける。歩く時には、いつもの道へその反復を連れていく。今日はこの一枚、と自分のプレイリストへ選ぶ。それくらいの付き合い方から、レコードは長く暮らしに残っていく。"
+      "Geoff BarrowはPitchforkの取材で『Daily Operation』から「2 Deep」を挙げ、MCより音楽面への関心を語った。",
+      "その選曲を手がかりに、ビートへ注意を向けてみたい。"
     ],
     "facts": [
       {
@@ -24283,11 +24302,9 @@
     ],
     "samples": [],
     "listening": [
-      "声が入る前と、入った後のビートを聴き比べる。",
-      "一枚を単独でかけてから、収録盤の前後の曲へ戻る。",
-      "原曲、リミックス、インストの版名を確かめながら選曲する。"
+      "Barrowの選曲から、ビートへ。"
     ],
-    "context": "一曲ずつ選び、次の一曲との間も楽しむためのレコード。",
+    "context": "別の作り手による受け止め方。",
     "sources": [
       {
         "label": "Gang Starr - Topic — 2 Deep",
@@ -24298,6 +24315,11 @@
         "label": "収録・発表の資料",
         "url": "https://www.universal-music.co.jp/p/uicy-76777/",
         "kind": "盤情報"
+      },
+      {
+        "url": "https://pitchfork.com/features/5-10-15-20/8483-5-10-15-20-geoff-barrow/",
+        "label": "Geoff Barrow — 5-10-15-20 / Pitchfork",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -24318,7 +24340,15 @@
       "walk",
       "east"
     ],
-    "datePublished": "2026-10-14"
+    "datePublished": "2026-10-14",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "gang-starr-mostly-tha-voice",
@@ -24365,12 +24395,11 @@
       "lettering": "subway",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "ほとんどは、声。",
-    "essayTitle": "Guruの声、その前後に残る空間",
+    "deck": "研究者が読み解く、Guruの「声」という主張。",
+    "essayTitle": "言葉の前に、声そのもの。",
     "essay": [
-      "ほとんどは、声。そんな題名を見ると、立派な説明をする手が少し止まる。顔を見なくても、その人だと分かる音がある。Guruの一曲を、今日は声の位置から聴いてみたい。",
-      "収録の入口は『Hard to Earn』。Guruの声とDJ Premierのビートを、それぞれ聴いてから一緒に聴く。同じ一枚でも、耳の向け方が変われば、まだ掘れる場所が残っている。",
-      "ピザが焼けるのを待つ間に、一曲をかける。歩く時には、いつもの道へその反復を連れていく。今日はこの一枚、と自分のプレイリストへ選ぶ。それくらいの付き合い方から、レコードは長く暮らしに残っていく。"
+      "Fernand HörnerとOliver Kautnyは、ラップの声を扱う研究書で「Mostly tha Voice」を取り上げている。二人は、この曲の「声」を、韻や言葉の組み立てとは区別された、声そのものの響きについての主張として読んでいる。",
+      "これは研究者の解釈だ。その区別を借りて、何を言うか、どうリズムに乗せるか、どんな声で届くかを分けて聴いてみたい。題名の一語から、ラップの複数の働きへ戻る入口になる。"
     ],
     "facts": [
       {
@@ -24390,11 +24419,9 @@
     ],
     "samples": [],
     "listening": [
-      "声が入る前と、入った後のビートを聴き比べる。",
-      "一枚を単独でかけてから、収録盤の前後の曲へ戻る。",
-      "原曲、リミックス、インストの版名を確かめながら選曲する。"
+      "言葉の内容、リズムへの乗せ方、声の響きを分けて追う。"
     ],
-    "context": "一曲ずつ選び、次の一曲との間も楽しむためのレコード。",
+    "context": "声を研究する議論でも参照された一曲。",
     "sources": [
       {
         "label": "Gang Starr - Topic — Mostly Tha Voice",
@@ -24405,6 +24432,11 @@
         "label": "収録・発表の資料",
         "url": "https://open.spotify.com/track/68CZM1NEyM5wNFbJqBoCu0",
         "kind": "盤情報"
+      },
+      {
+        "url": "https://beckassets.blob.core.windows.net/product/readingsample/12707415/9783899429985_excerpt_001.pdf",
+        "label": "Fernand Hörner / Oliver Kautny — Mostly tha Voice! Zur Einleitung, p.10",
+        "kind": "音楽研究者による分析"
       }
     ],
     "producers": [
@@ -24429,7 +24461,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "gang-starr-the-remainz",
@@ -24475,12 +24515,11 @@
       "lettering": "subway",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "何が残るのか。",
-    "essayTitle": "鍵盤のループを往復し、問いを残す",
+    "deck": "Bob Jamesの盤に残った雑音を、Premierは切り捨てなかった。",
+    "essayTitle": "雨で傷んだレコードも、素材にする。",
     "essay": [
-      "何が残るのか。曲名に疑問符があるからといって、すぐに答えを書き足さなくてもいい。Bob Jamesの原曲へ戻り、またこの反復へ帰ってくる。その往復が終わった後に、耳に残るものを確かめる。",
-      "収録の入口は『Suckas Need Bodyguards / The ? Remainz / Full Clip』。Guruの声とDJ Premierのビートを、それぞれ聴いてから一緒に聴く。同じ一枚でも、耳の向け方が変われば、まだ掘れる場所が残っている。 Bob Jamesの「Look-Alike」も、横に置いて聴き比べる。",
-      "ピザが焼けるのを待つ間に、一曲をかける。歩く時には、いつもの道へその反復を連れていく。今日はこの一枚、と自分のプレイリストへ選ぶ。それくらいの付き合い方から、レコードは長く暮らしに残っていく。"
+      "DJ Premierは2007年のRed Bull Music Academyで、この曲に使ったBob Jamesの盤が雨で傷んでいたと話している。内袋の紙が盤に残り、雑音が出た。それでも短い部分を切って反復し、音程を下げたところ、Guruがそのまま残そうと言ったという。",
+      "既存の紹介で挙げた「Look-Alike」へ戻る時には、旋律だけでなく、盤の状態まで曲の材料になるという制作の発想を手がかりにしたい。きれいな素材だけを選ぶ作り方とは、別の道が見えてくる。"
     ],
     "facts": [
       {
@@ -24518,11 +24557,9 @@
       }
     ],
     "listening": [
-      "声が入る前と、入った後のビートを聴き比べる。",
-      "一枚を単独でかけてから、収録盤の前後の曲へ戻る。",
-      "原曲、リミックス、インストの版名を確かめながら選曲する。"
+      "「Look-Alike」と並べ、盤の傷みを残すという本人の説明を手がかりにする。"
     ],
-    "context": "一曲ずつ選び、次の一曲との間も楽しむためのレコード。",
+    "context": "不完全な盤を、捨てずに曲へ組み込んだ制作談。",
     "sources": [
       {
         "label": "Gang Starr - Topic — The ? Remainz",
@@ -24543,6 +24580,11 @@
         "label": "Bob James - Topic — Look-Alike",
         "url": "https://www.youtube.com/watch?v=ITxbT_Vmfhs",
         "kind": "公式原曲"
+      },
+      {
+        "url": "https://www.redbullmusicacademy.com/lectures/dj-premier-you-know-my-steez/",
+        "label": "DJ Premier — Red Bull Music Academy Toronto 2007",
+        "kind": "本人講義の公式文字起こし"
       }
     ],
     "producers": [
@@ -24564,7 +24606,16 @@
       "east"
     ],
     "datePublished": "2026-10-14",
-    "yearBasis": "1994年の12インチに収録。公式YouTubeのFull Clipは1999年の再収録。"
+    "yearBasis": "1994年の12インチに収録。公式YouTubeのFull Clipは1999年の再収録。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4,
+        2
+      ]
+    ]
   },
   {
     "id": "gang-starr-comin-for-the-datazz",
@@ -24862,12 +24913,11 @@
       "lettering": "subway",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "短いループが進路を決め、スクラッチが句読点を打つ。終点を急がないための、硬い足取り。",
-    "essayTitle": "まだ先がある、というビート。",
+    "deck": "「Poetic Justice」のための発想が、『Hard to Earn』に残った。",
+    "essayTitle": "映画に届かなかった曲を、アルバムへ。",
     "essay": [
-      "曲名を一息でつなげた文字列が、すでにひとつのループに見える。私には、この曲の反復も同じように聞こえる。区切りを探している間に、次の小節へ運ばれている。",
-      "Guruの低い声を中心に置いてから、周囲の切れ目へ耳を向ける。スクラッチは飾りというより句読点だ。声が止まった場所にも、まだ発言する人がいる。",
-      "「Mass Appeal」だけで『Hard to Earn』の棚を閉じるのは、少々もったいない。この曲を隣へ置くと、同じ二人が反復の表情を変えていることがよく見える。"
+      "DJ Sav OneはHip-Hop Nostalgiaで、Premierの「So Wassup?」の回想を紹介している。この曲は映画『Poetic Justice』の旅を題材に構想され、Guruが名付けたが、監督John Singletonには採用されなかったという。",
+      "同記事によれば、二人は制作終盤だった『Hard to Earn』へ曲を収めた。題名の「長い道のり」を、人生一般の比喩だけでなく、当初の映画の旅と重ねて読む入口になる。"
     ],
     "facts": [
       {
@@ -24888,11 +24938,9 @@
     ],
     "samples": [],
     "listening": [
-      "まず声とドラムの間合いを聴く。",
-      "同じアルバムの前後の曲と並べ、ループの表情を比べる。",
-      "年代順と選曲棚の両方から、違う隣り合わせで聴く。"
+      "映画の旅を出発点にした題名として、言葉の運びを追う。"
     ],
-    "context": "1994年の作品。活動地域はNew Yorkとして掲載し、出身地やサウンドトラックの舞台とは区別する。",
+    "context": "映画用の構想が、アルバムの一曲として残った経緯。",
     "sources": [
       {
         "label": "ALONGWAYTOGO — Gang Starr",
@@ -24903,6 +24951,11 @@
         "label": "Gang Starr公式バイオグラフィー",
         "url": "https://gangstarr.global/pages/bio",
         "kind": "アーティスト公式資料"
+      },
+      {
+        "url": "https://www.hiphopnostalgia.com/2021/12/dj-premier-so-wassup-alongwaytogo.html",
+        "label": "DJ Sav One — DJ Premier So Wassup? ALONGWAYTOGO / Hip-Hop Nostalgia",
+        "kind": "DJによる本人回想の紹介"
       }
     ],
     "producers": [
@@ -24926,7 +24979,15 @@
       "raw-beats",
       "cut-scratch"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "gang-starr-battle",

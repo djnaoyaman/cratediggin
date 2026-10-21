@@ -401,27 +401,6 @@
       ]
     },
     {
-      "id": "gang-starr-alongwaytogo",
-      "tags": [
-        {
-          "shelf": "loop",
-          "evidence": {
-            "file": "tracks.json",
-            "field": "essay.0",
-            "quote": "曲名を一息でつなげた文字列が、すでにひとつのループに見える。私には、この曲の反復も同じように聞こえる。区切りを探している間に、次の小節へ運ばれている。"
-          }
-        },
-        {
-          "shelf": "scratch",
-          "evidence": {
-            "file": "tracks.json",
-            "field": "essay.1",
-            "quote": "Guruの低い声を中心に置いてから、周囲の切れ目へ耳を向ける。スクラッチは飾りというより句読点だ。声が止まった場所にも、まだ発言する人がいる。"
-          }
-        }
-      ]
-    },
-    {
       "id": "gang-starr-blowin-up-the-spot",
       "tags": [
         {
