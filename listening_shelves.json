@@ -704,8 +704,8 @@
           "shelf": "voice",
           "evidence": {
             "file": "tracks.json",
-            "field": "essay.0",
-            "quote": "高い声が入った瞬間、同じ部屋にもう一人いるように聞こえる。Quasimotoという別名義は、名前だけの着替えではない。"
+            "field": "listening.0",
+            "quote": "シングルのインスト版と比べ、声がある版との印象の違いを確かめる。"
           }
         }
       ]
@@ -748,11 +748,11 @@
       "id": "madvillain-meat-grinder",
       "tags": [
         {
-          "shelf": "bass",
+          "shelf": "voice",
           "evidence": {
             "file": "tracks.json",
-            "field": "essay.1",
-            "quote": "それでも曲としてまとまって聞こえるのは、声と低音が居場所を持っているからだろう。雑然として見える部屋にも、住人の秩序はある。"
+            "field": "listening.0",
+            "quote": "声の入りと終わり方を比べてみる。"
           }
         }
       ]
