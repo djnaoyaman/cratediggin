@@ -5,6 +5,8 @@ ROOT=Path(__file__).resolve().parents[1]
 F=json.loads((ROOT/'scripts/fixtures/approved-halftime.json').read_text())
 sha=lambda b:hashlib.sha256(b).hexdigest()
 def historical_halftime_file(path,data):
+ from approved_sampling_timeline import historical_sampling_timeline_file
+ data=historical_sampling_timeline_file(path,data)
  c=F['files'].get(path)
  if c is None:return data
  assert sha(data)==c['afterSHA256'],'Unapproved Halftime drift: '+path

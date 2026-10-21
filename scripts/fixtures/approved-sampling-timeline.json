@@ -1,0 +1,390 @@
+{
+  "base": "348c77e7f98d0dc413f7b782052aaa1a817b94d1",
+  "oldEvents": [
+    {
+      "year": 1973,
+      "date": "1973-08-11",
+      "category": "BLOCK PARTY",
+      "title": "ブロンクスのBack to School Jam",
+      "text": "Kool HercとCindy Campbellによる1520 Sedgwick Avenueのパーティー。Hip Hopの起点として語り継がれる一夜。",
+      "source": "Smithsonian",
+      "url": "https://www.smithsonianmag.com/smithsonian-institution/how-the-block-party-became-an-urban-phenomenon-180980560/"
+    },
+    {
+      "year": 1979,
+      "date": "1979",
+      "category": "RECORDS",
+      "title": "Rapper’s Delightがレコードになる",
+      "text": "Sugarhill Gangの一曲が、パーティーの外へ届く。1979年の盤はスミソニアンにも収蔵されている。",
+      "source": "Smithsonian",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1320076"
+    },
+    {
+      "year": 1982,
+      "date": "1982",
+      "category": "STREET VOICES",
+      "title": "The Messageが街の現実を伝える",
+      "text": "Grandmaster Flash & the Furious Fiveの作品。踊るための音楽に、暮らしの厳しさを語る声が重なる。",
+      "source": "Smithsonian",
+      "url": "https://collections.si.edu/search/record/ark%3A/65665/fd5f2ba7e6cb0434305961bed18556b4b2a"
+    },
+    {
+      "year": 1983,
+      "date": "1983",
+      "category": "GRAFFITI / FILM",
+      "title": "Style WarsがPBSで放送される",
+      "text": "Tony SilverとHenry Chalfantの映画が、ニューヨークのグラフィティとHip Hopの現場を記録。壁も列車も、文化の大切なページになる。",
+      "source": "Style Wars公式",
+      "url": "https://www.stylewars.com/about"
+    },
+    {
+      "year": 1986,
+      "date": "1986",
+      "category": "CROSSOVER",
+      "title": "RUN DMCとAerosmithのWalk This Way",
+      "text": "ラップとロックが同じ曲で出会う。ジャンルを横断する共演が、映像とともに広いリスナーへ届く。",
+      "source": "Rock Hall",
+      "url": "https://rockhall.com/inductees/run-dmc/"
+    },
+    {
+      "year": 1989,
+      "date": "1989",
+      "category": "GRAMMY",
+      "title": "ラップ部門で初のGRAMMY受賞",
+      "text": "DJ Jazzy Jeff & the Fresh PrinceのParents Just Don’t UnderstandがBest Rap Performanceを受賞。賞の舞台にもラップの名前が刻まれる。",
+      "source": "Recording Academy",
+      "url": "https://www.grammy.com/awards/31st-annual-grammy-awards/"
+    },
+    {
+      "year": 1996,
+      "date": "1996-09-13",
+      "category": "IN MEMORIAM",
+      "title": "Tupac Shakurが亡くなる",
+      "text": "Tupac Shakurが25歳で死去。対立の見出しだけでなく、残された歌と声から、この時代を聴き直したい。",
+      "source": "Rock Hall所蔵資料",
+      "url": "https://catalog.rockhall.com/rrhof-ais/Details/archive/110130110"
+    },
+    {
+      "year": 1997,
+      "date": "1997-03-09",
+      "category": "IN MEMORIAM",
+      "title": "The Notorious B.I.G.が亡くなる",
+      "text": "Christopher Wallaceが24歳で死去。東西という二つの言葉では収まらない喪失を、音楽の歴史の中にも残す。",
+      "source": "Rock Hall所蔵資料",
+      "url": "https://catalog.rockhall.com/rrhof-ais/Details/archive/110101584"
+    },
+    {
+      "year": 1999,
+      "date": "1999",
+      "category": "GRAMMY",
+      "title": "Lauryn Hillが一晩で5部門を受賞",
+      "text": "The Miseducation of Lauryn HillがAlbum of the Yearに。ラップと歌を行き来する作品が、GRAMMYの大きな舞台へ進む。",
+      "source": "Recording Academy",
+      "url": "https://www.grammy.com/news/lauryn-hill-album-year-win-miseducation-grammy-rewind-video-speech/"
+    },
+    {
+      "year": 2007,
+      "date": "2007",
+      "category": "ROCK HALL",
+      "title": "初のラップ・グループの殿堂入り",
+      "text": "Grandmaster Flash & the Furious FiveがRock & Roll Hall of Fameへ。ターンテーブルの仕事も音楽史へ刻まれていく。",
+      "source": "Rock Hall",
+      "url": "https://rockhall.com/inductees/grandmaster-flash-and-furious-five/"
+    },
+    {
+      "year": 2023,
+      "date": "2023",
+      "category": "HIP HOP 50",
+      "title": "Hip Hopの50年を祝う",
+      "text": "GRAMMYの記念番組にDJ Jazzy Jeff & the Fresh Prince、Queen Latifah、Commonらが登場。世代を越えて、文化の半世紀を祝う。",
+      "source": "Recording Academy",
+      "url": "https://www.grammy.com/news/a-grammy-salute-to-50-years-of-hip-hop-recap-photos/"
+    }
+  ],
+  "newEvents": [
+    {
+      "id": "jp-neighboring-rights-effective-1971",
+      "year": 1971,
+      "date": "1971-01-01",
+      "category": "LAW / JP / 施行",
+      "title": "日本、録音と実演を守る著作隣接権の枠組みへ",
+      "text": "1970年に公布された新しい著作権法が施行。作詞・作曲などの著作者の権利とは別に、実演家やレコード製作者などを保護する著作隣接権の制度を設けます。録音された音を素材として扱うとき、その録音側の権利にも目を向ける土台になります。",
+      "source": "衆議院・昭和45年法律第48号",
+      "url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/06319700506048.htm",
+      "sources": [
+        {
+          "label": "衆議院・公布時の著作権法",
+          "url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/06319700506048.htm"
+        },
+        {
+          "label": "文化庁・著作隣接権の解説",
+          "url": "https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/gaiyo/chosaku_rinsetsuken.html"
+        }
+      ],
+      "relatedTrackIds": []
+    },
+    {
+      "id": "us-sound-recording-protection-effective-1972",
+      "year": 1972,
+      "date": "1972-02-15",
+      "category": "LAW / US / 録音保護規定施行",
+      "title": "米国、録音そのものへの連邦保護が始まる",
+      "text": "1971年の録音物保護改正法の録音保護規定が施行され、対象となる新しい録音に、無断複製などに対する限定的な連邦著作権保護が導入されました。作曲の権利とは別に、「その録音の音」を扱う権利が制度上明確になります。それ以前の録音が自由に使えた、という意味ではありません。",
+      "source": "米国公法92-140・85 Stat. 391",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-85/pdf/STATUTE-85-Pg391.pdf",
+      "sources": [
+        {
+          "label": "米国公法92-140",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-85/pdf/STATUTE-85-Pg391.pdf"
+        },
+        {
+          "label": "米国著作権局・2000年議会証言",
+          "url": "https://www.copyright.gov/docs/regstat52500.html"
+        }
+      ],
+      "relatedTrackIds": []
+    },
+    {
+      "id": "fairlight-cmi-introduction-1979",
+      "year": 1979,
+      "date": "1979",
+      "category": "TECHNOLOGY",
+      "title": "Fairlight CMI、録音した音を演奏する",
+      "text": "Fairlight CMIの初代が登場。外部の音をデジタル録音し、音楽の素材として扱うサンプリングと、演奏を組み立てるシーケンス機能を備えた制作環境が形になります。",
+      "source": "Powerhouse Museum・Fairlight CMI収蔵資料",
+      "url": "https://collection.powerhouse.com.au/object/66226",
+      "relatedTrackIds": []
+    },
+    {
+      "id": "akai-mpc60-introduction-1988",
+      "year": 1988,
+      "date": "1988",
+      "category": "TECHNOLOGY",
+      "title": "MPC60、サンプルとリズムを一台に",
+      "text": "AkaiとRoger LinnによるMPC60が登場。サンプリング・ドラムマシンとMIDIシーケンサーが一体となり、パッドを叩く演奏と録音素材の編集を結びつけます。",
+      "source": "Roger Linn Design・Museum",
+      "url": "https://www.rogerlinndesign.com/about/about-museum",
+      "sources": [
+        {
+          "label": "Roger Linn Design・Museum",
+          "url": "https://www.rogerlinndesign.com/about/about-museum"
+        },
+        {
+          "label": "Roger Linn・FAQ",
+          "url": "https://www.rogerlinndesign.com/about/roger-faq"
+        }
+      ],
+      "relatedTrackIds": []
+    },
+    {
+      "id": "public-enemy-fear-of-a-black-planet-1990",
+      "year": 1990,
+      "date": "1990-04",
+      "category": "SAMPLE WORKS",
+      "title": "Bomb Squad、断片を重ねて時代を鳴らす",
+      "text": "Public Enemyが『Fear of a Black Planet』を発表。Bomb Squadがファンクの断片やノイズを重ねる制作は、サンプリングを伴奏だけでなく、社会に向けた声を支える表現として示します。",
+      "source": "Rickey Vincent・米国議会図書館掲載解説",
+      "url": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/FearOfABlackPlanet.pdf",
+      "relatedTrackIds": [
+        "public-enemy-fight-the-power",
+        "public-enemy-911-is-a-joke"
+      ]
+    },
+    {
+      "id": "grand-upright-biz-markie-injunction-1991",
+      "year": 1991,
+      "date": "1991-12-17",
+      "category": "JUDGMENT / US / 仮差止命令",
+      "title": "Biz Markieの無許諾使用に仮差止め",
+      "text": "米ニューヨーク南部地区連邦地裁は、Biz Markieの「Alone Again」における無許諾使用をめぐり仮差止めを認めました。楽曲と録音の権利処理が争われた一件で、世界共通のサンプリング禁止を定めた判断ではありません。",
+      "source": "Grand Upright Music v. Warner Bros.・裁判所命令",
+      "url": "https://law.justia.com/cases/federal/district-courts/FSupp/780/182/1445286/",
+      "sources": [
+        {
+          "label": "裁判所命令全文・Justia収録",
+          "url": "https://law.justia.com/cases/federal/district-courts/FSupp/780/182/1445286/"
+        },
+        {
+          "label": "判例集原文・Berkeley Law収録",
+          "url": "https://www.law.berkeley.edu/files/Grand_Upright_Music.pdf"
+        }
+      ],
+      "relatedTrackIds": []
+    },
+    {
+      "id": "dj-shadow-endtroducing-release-1996",
+      "year": 1996,
+      "date": "1996",
+      "category": "SAMPLE WORKS",
+      "title": "DJ Shadow、断片でアルバムの世界を組み立てる",
+      "text": "DJ Shadowがデビュー作『Endtroducing.....』を発表。録音から切り出した音を重ね、並べ替える制作を、ラッパーの伴奏にとどまらないアルバムの表現としてたどります。",
+      "source": "DJ Shadow公式・30周年ツアー告知",
+      "url": "https://djshadow.com/blogs/news/fall-2026-north-america-endtroduicng-30-tour-presale",
+      "sources": [
+        {
+          "label": "DJ Shadow公式・1996年のデビュー作を回顧",
+          "url": "https://djshadow.com/blogs/news/fall-2026-north-america-endtroduicng-30-tour-presale"
+        },
+        {
+          "label": "公式ストア・作品解説と当時のレビュー",
+          "url": "https://djshadow.com/collections/vinyl/products/dj-shadow-endtroducing-lp"
+        }
+      ],
+      "relatedTrackIds": [
+        "dj-shadow-midnight-in-a-perfect-world",
+        "dj-shadow-organ-donor"
+      ]
+    },
+    {
+      "id": "boss-sp303-introduction-2001",
+      "year": 2001,
+      "date": "2001",
+      "category": "TECHNOLOGY",
+      "title": "SP-303、小さな箱で音を組み替える",
+      "text": "BOSSのSP-303が登場。サンプルを呼び出すパッドに、ヴァイナル・シミュレーションやテープ・エコーなどのエフェクトを組み合わせ、録った音を加工していく制作を支えます。",
+      "source": "Roland・サンプラーの歴史",
+      "url": "https://articles.roland.com/a-history-of-roland-samplers/",
+      "sources": [
+        {
+          "label": "Roland・サンプラーの歴史",
+          "url": "https://articles.roland.com/a-history-of-roland-samplers/"
+        },
+        {
+          "label": "Roland・発売年を記した製品一覧",
+          "url": "https://proav.roland.com/jp/support/service_repair/1708080000/"
+        }
+      ],
+      "relatedTrackIds": []
+    },
+    {
+      "id": "madvillain-madvillainy-release-2004",
+      "year": 2004,
+      "date": "2004-03-23",
+      "category": "SAMPLE WORKS",
+      "title": "Madvillainy、旅先のレコードも制作素材へ",
+      "text": "MF DOOMとMadlibが『Madvillainy』を発表。Stones Throwの回想では、Madlibはブラジルでも携帯レコードプレーヤー、SP-303、借りたカセットデッキを使い、アルバムに入るビートを制作しています。",
+      "source": "Stones Throw・Madvillainy 10周年回顧",
+      "url": "https://www.stonesthrow.com/news/madvillain-madvillainy/",
+      "relatedTrackIds": [
+        "madvillain-accordion",
+        "madvillain-all-caps"
+      ]
+    },
+    {
+      "id": "j-dilla-donuts-release-2006",
+      "year": 2006,
+      "date": "2006-02-07",
+      "category": "SAMPLE WORKS",
+      "title": "Donuts、短いビートを一枚につなぐ",
+      "text": "J Dillaの『Donuts』が発売。短いビートを連ねた31曲の構成は、サンプルの切り方やつなぎ方そのものへ耳を向ける入口になります。Stones Throwは、デモテープをアルバムへ育てる発想から始まったと振り返っています。",
+      "source": "Stones Throw・Donuts 20周年盤解説",
+      "url": "https://www.stonesthrow.com/news/j-dilla-donuts-20th-anniversary-audiophile-edition-vinyl/",
+      "sources": [
+        {
+          "label": "Stones Throw・発売日と制作経緯",
+          "url": "https://www.stonesthrow.com/news/j-dilla-donuts-20th-anniversary-audiophile-edition-vinyl/"
+        },
+        {
+          "label": "Apple Music・31曲の収録情報",
+          "url": "https://music.apple.com/us/album/donuts/108233171"
+        }
+      ],
+      "relatedTrackIds": [
+        "j-dilla-workinonit",
+        "j-dilla-donuts"
+      ]
+    },
+    {
+      "id": "us-mma-pre1972-recordings-enacted-2018",
+      "year": 2018,
+      "date": "2018-10-11",
+      "category": "LAW / US / 成立",
+      "title": "米国、1972年より前の録音にも連邦の救済制度",
+      "text": "Music Modernization Actが成立。第2編は、1972年2月15日より前に固定された録音について、無許諾利用に対する連邦法上の救済と一定の例外を設けました。古いレコードも「昔の音だから自由」とは言い切れないことを示す節目です。",
+      "source": "米国著作権局・1972年以前の録音",
+      "url": "https://www.copyright.gov/music-modernization/pre1972-soundrecordings/",
+      "sources": [
+        {
+          "label": "米国著作権局・1972年以前の録音",
+          "url": "https://www.copyright.gov/music-modernization/pre1972-soundrecordings/"
+        },
+        {
+          "label": "米国著作権局・MMA成立の経緯",
+          "url": "https://www.copyright.gov/music-modernization/creation.html"
+        }
+      ],
+      "relatedTrackIds": []
+    },
+    {
+      "id": "eu-pelham-phonogram-judgment-2019",
+      "year": 2019,
+      "date": "2019-07-29",
+      "category": "JUDGMENT / EU / 判決",
+      "title": "EU、短いサンプルと録音製作者の権利を判断",
+      "text": "EU司法裁判所の公式発表によると、Pelham事件では、ごく短い音の抜き出しも録音製作者の複製権に関わると判断。一方、耳で認識できない形に改変して使う場合は、その権利の侵害に当たらないとしました。EU法の解釈であり、すべての権利や国に共通する許可ではありません。",
+      "source": "EU司法裁判所・C-476/17公式発表",
+      "url": "https://curia.europa.eu/jcms/upload/docs/application/pdf/2019-07/cp190098en.pdf",
+      "relatedTrackIds": []
+    },
+    {
+      "id": "de-la-soul-six-albums-streaming-2023",
+      "year": 2023,
+      "date": "2023-03-03",
+      "category": "ACCESS",
+      "title": "De La Soul、初期6作品が配信へ",
+      "text": "De La Soulの初期6アルバムがストリーミングで公開。Reservoirは、サンプルの権利処理と配信準備に18か月取り組んだと説明しています。作品を作る技術だけでなく、聴ける状態を保つ仕事にも目を向ける出来事です。",
+      "source": "Reservoir・De La Soul配信開始告知",
+      "url": "https://reservoir-media.com/reservoir-celebrates-de-la-souls-catalog-out-now-on-all-streaming-platforms/",
+      "sources": [
+        {
+          "label": "Reservoir・初期6作品の配信開始",
+          "url": "https://reservoir-media.com/reservoir-celebrates-de-la-souls-catalog-out-now-on-all-streaming-platforms/"
+        },
+        {
+          "label": "Reservoir・18か月の準備を振り返る",
+          "url": "https://reservoir-media.com/de-la-soul-campaign-wins-marketing-superstar-award-at-the-2024-bizzy-awards/"
+        }
+      ],
+      "relatedTrackIds": [
+        "de-la-soul-buddy",
+        "de-la-soul-stakes-is-high"
+      ]
+    },
+    {
+      "id": "eu-pelham-pastiche-judgment-2026",
+      "year": 2026,
+      "date": "2026-04-14",
+      "category": "JUDGMENT / EU / 判決",
+      "title": "EU、サンプリングとパスティーシュの例外を整理",
+      "text": "EU司法裁判所の公式発表によると、同裁判所はPelham紛争でパスティーシュの例外を解釈。既存作品を想起させつつ明確な違いがあり、認識できる芸術的・創造的な対話を行う表現を対象としました。創造的な再利用すべてを無条件に認めるものではありません。",
+      "source": "EU司法裁判所・C-590/23公式発表",
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-04/cp260050en.pdf",
+      "relatedTrackIds": []
+    }
+  ],
+  "files": {
+    "src/assets/timeline.js": {
+      "before": "'use strict';\nwindow.CRATE_EVENTS = [{\"year\": 1973, \"date\": \"1973-08-11\", \"category\": \"BLOCK PARTY\", \"title\": \"ブロンクスのBack to School Jam\", \"text\": \"Kool HercとCindy Campbellによる1520 Sedgwick Avenueのパーティー。Hip Hopの起点として語り継がれる一夜。\", \"source\": \"Smithsonian\", \"url\": \"https://www.smithsonianmag.com/smithsonian-institution/how-the-block-party-became-an-urban-phenomenon-180980560/\"}, {\"year\": 1979, \"date\": \"1979\", \"category\": \"RECORDS\", \"title\": \"Rapper’s Delightがレコードになる\", \"text\": \"Sugarhill Gangの一曲が、パーティーの外へ届く。1979年の盤はスミソニアンにも収蔵されている。\", \"source\": \"Smithsonian\", \"url\": \"https://americanhistory.si.edu/collections/object/nmah_1320076\"}, {\"year\": 1982, \"date\": \"1982\", \"category\": \"STREET VOICES\", \"title\": \"The Messageが街の現実を伝える\", \"text\": \"Grandmaster Flash & the Furious Fiveの作品。踊るための音楽に、暮らしの厳しさを語る声が重なる。\", \"source\": \"Smithsonian\", \"url\": \"https://collections.si.edu/search/record/ark%3A/65665/fd5f2ba7e6cb0434305961bed18556b4b2a\"}, {\"year\": 1983, \"date\": \"1983\", \"category\": \"GRAFFITI / FILM\", \"title\": \"Style WarsがPBSで放送される\", \"text\": \"Tony SilverとHenry Chalfantの映画が、ニューヨークのグラフィティとHip Hopの現場を記録。壁も列車も、文化の大切なページになる。\", \"source\": \"Style Wars公式\", \"url\": \"https://www.stylewars.com/about\"}, {\"year\": 1986, \"date\": \"1986\", \"category\": \"CROSSOVER\", \"title\": \"RUN DMCとAerosmithのWalk This Way\", \"text\": \"ラップとロックが同じ曲で出会う。ジャンルを横断する共演が、映像とともに広いリスナーへ届く。\", \"source\": \"Rock Hall\", \"url\": \"https://rockhall.com/inductees/run-dmc/\"}, {\"year\": 1989, \"date\": \"1989\", \"category\": \"GRAMMY\", \"title\": \"ラップ部門で初のGRAMMY受賞\", \"text\": \"DJ Jazzy Jeff & the Fresh PrinceのParents Just Don’t UnderstandがBest Rap Performanceを受賞。賞の舞台にもラップの名前が刻まれる。\", \"source\": \"Recording Academy\", \"url\": \"https://www.grammy.com/awards/31st-annual-grammy-awards/\"}, {\"year\": 1996, \"date\": \"1996-09-13\", \"category\": \"IN MEMORIAM\", \"title\": \"Tupac Shakurが亡くなる\", \"text\": \"Tupac Shakurが25歳で死去。対立の見出しだけでなく、残された歌と声から、この時代を聴き直したい。\", \"source\": \"Rock Hall所蔵資料\", \"url\": \"https://catalog.rockhall.com/rrhof-ais/Details/archive/110130110\"}, {\"year\": 1997, \"date\": \"1997-03-09\", \"category\": \"IN MEMORIAM\", \"title\": \"The Notorious B.I.G.が亡くなる\", \"text\": \"Christopher Wallaceが24歳で死去。東西という二つの言葉では収まらない喪失を、音楽の歴史の中にも残す。\", \"source\": \"Rock Hall所蔵資料\", \"url\": \"https://catalog.rockhall.com/rrhof-ais/Details/archive/110101584\"}, {\"year\": 1999, \"date\": \"1999\", \"category\": \"GRAMMY\", \"title\": \"Lauryn Hillが一晩で5部門を受賞\", \"text\": \"The Miseducation of Lauryn HillがAlbum of the Yearに。ラップと歌を行き来する作品が、GRAMMYの大きな舞台へ進む。\", \"source\": \"Recording Academy\", \"url\": \"https://www.grammy.com/news/lauryn-hill-album-year-win-miseducation-grammy-rewind-video-speech/\"}, {\"year\": 2007, \"date\": \"2007\", \"category\": \"ROCK HALL\", \"title\": \"初のラップ・グループの殿堂入り\", \"text\": \"Grandmaster Flash & the Furious FiveがRock & Roll Hall of Fameへ。ターンテーブルの仕事も音楽史へ刻まれていく。\", \"source\": \"Rock Hall\", \"url\": \"https://rockhall.com/inductees/grandmaster-flash-and-furious-five/\"}, {\"year\": 2023, \"date\": \"2023\", \"category\": \"HIP HOP 50\", \"title\": \"Hip Hopの50年を祝う\", \"text\": \"GRAMMYの記念番組にDJ Jazzy Jeff & the Fresh Prince、Queen Latifah、Commonらが登場。世代を越えて、文化の半世紀を祝う。\", \"source\": \"Recording Academy\", \"url\": \"https://www.grammy.com/news/a-grammy-salute-to-50-years-of-hip-hop-recap-photos/\"}];\n// The chronology follows catalog records and sourced cultural events.\nwindow.CrateChronology=(songs,esc,options={})=>{\n const events=options.events||[];\n if(!songs.length&&!events.length)return '<p class=\"empty\">この条件の曲はまだありません。条件を変えて掘ってみてください。</p>';\n const years=[...new Set([...songs.filter(s=>Number.isInteger(s.year)).map(s=>s.year),...events.map(e=>e.year)])].sort((a,b)=>a-b);\n const record=s=>'<article class=\"tc-record\"><div class=\"tc-record-head\"><span class=\"tc-city\">'+esc(s.region)+'</span>'+(s.yearBasis?'<span class=\"tc-date-note\">'+(s.yearBasis.includes('配信版')?'配信版の年 · 初出年は照合中':'発表年の根拠は解説を参照')+'</span>':'')+'<a href=\"#/song/'+s.id+'\" aria-label=\"'+esc(s.title+' / '+s.artist+'の解説を読む')+'\"><h3>'+esc(s.title)+'</h3><p>'+esc(s.artist)+'</p><span class=\"tc-arrow\" aria-hidden=\"true\">↗</span></a></div></article>';\n const news=e=>'<article class=\"tc-event\"><div class=\"tc-event-meta\"><time datetime=\"'+esc(e.date)+'\">'+esc(e.date.replaceAll('-','.'))+'</time><span>'+esc(e.category)+'</span></div><h3>'+esc(e.title)+'</h3><p>'+esc(e.text)+'</p><a href=\"'+esc(e.url)+'\" target=\"_blank\" rel=\"noopener\">出典 '+esc(e.source)+' ↗</a></article>';\n return '<nav class=\"tc-years\" aria-label=\"年へ移動\">'+years.map(y=>'<a href=\"#timeline-year-'+y+'\" data-timeline-year=\"'+y+'\">'+y+'</a>').join('')+'</nav><p class=\"tc-history-key\">RECORDS 楽曲 · CULTURE 時代の出来事</p><div class=\"tc-history\">'+years.map(y=>{const list=songs.filter(s=>s.year===y),items=events.filter(e=>e.year===y),regions=[...new Set(list.flatMap(s=>s.region.split(' / ')))];return '<section class=\"tc-year-group\" id=\"timeline-year-'+y+'\" tabindex=\"-1\"><header class=\"tc-year-heading\"><h2>'+y+'</h2><span>'+(list.length?list.length+' RECORDS':'CULTURE')+'</span><p>'+esc(regions.join(' · '))+'</p></header><div class=\"tc-year-records\">'+list.slice(0,4).map(record).join('')+(list.length>4?'<details class=\"tc-more\"><summary>'+y+'年の残り'+(list.length-4)+'曲も見る</summary>'+list.slice(4).map(record).join('')+'</details>':'')+items.map(news).join('')+'</div></section>'}).join('')+'</div>'+(songs.some(s=>!Number.isInteger(s.year))?'<section class=\"tc-undated\"><h2>発表年未確認</h2>'+songs.filter(s=>!Number.isInteger(s.year)).map(record).join('')+'</section>':'');\n};\n",
+      "beforeSHA256": "1068985e2bbc3691ef0a75afe61324400c5a4cc2e6d47da64cab314a7389738c",
+      "afterSHA256": "efc7a6e7076b541507367c98d2b2eb4711d407bac9f760414a8ecbc35a3511b6"
+    },
+    "releases.json": {
+      "before": "{\n  \"version\": \"22.26\",\n  \"timezone\": \"Asia/Tokyo\",\n  \"policy\": \"major-only\",\n  \"history\": [\n    {\n      \"version\": \"1.0\",\n      \"datetime\": \"2026-10-13T14:44:59.874601+00:00\",\n      \"title\": \"初版公開\",\n      \"description\": \"連続再生、楽曲解説、サンプル元プレイヤー、地域別年表、全画面グラフィティを備えたCrate Diggin’を公開。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"公開記録\",\n      \"retrospective\": true\n    },\n    {\n      \"version\": \"2.0\",\n      \"datetime\": \"2026-10-13T16:09:47.041074+00:00\",\n      \"title\": \"グラフィティ表現の再設計\",\n      \"description\": \"曲ごとのアート表現と全画面の描画を改修。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"公開記録\",\n      \"retrospective\": true\n    },\n    {\n      \"version\": \"3.0\",\n      \"datetime\": \"2026-10-13T16:19:11.452353+00:00\",\n      \"title\": \"曲を探す条件の再設計\",\n      \"description\": \"地域・年代・プロデューサー・つながり・音の特徴で絞り込む構造へ変更。並べ方を独立させ、年代順を標準に。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"公開記録\",\n      \"retrospective\": true\n    },\n    {\n      \"version\": \"4.0\",\n      \"datetime\": \"2026-10-13T21:04:56.918200+00:00\",\n      \"title\": \"アーティスト・プロデューサー特集\",\n      \"description\": \"特集から曲を掘り下げる導線と、コンパクトな曲一覧を追加。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"公開記録\",\n      \"retrospective\": true\n    },\n    {\n      \"version\": \"5.0\",\n      \"datetime\": \"2026-10-13T21:16:41.412917+00:00\",\n      \"title\": \"プレイヤーと曲一覧の役割を整理\",\n      \"description\": \"プレイヤー側の長い曲リストを外し、曲を探す操作を一覧へ集約。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"公開記録\",\n      \"retrospective\": true\n    },\n    {\n      \"version\": \"6.0\",\n      \"datetime\": \"2026-10-13T21:19:02.811809+00:00\",\n      \"title\": \"曲一覧を段階的に展開\",\n      \"description\": \"最初の12曲から一つの操作で続きを広げ、最初の12曲へ畳める表示に変更。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"公開記録\",\n      \"retrospective\": true\n    },\n    {\n      \"version\": \"7.0\",\n      \"datetime\": \"2026-10-13T21:47:10.697850+00:00\",\n      \"title\": \"再生リスト操作と特集内連続再生\",\n      \"description\": \"左スワイプによる再生リストからの除外・取り消しを追加し、特集の再生範囲を維持する処理を導入。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"公開記録\",\n      \"retrospective\": true\n    },\n    {\n      \"version\": \"8.0\",\n      \"datetime\": \"2026-10-14T07:04:18+09:00\",\n      \"title\": \"更新履歴とバージョン管理を導入\",\n      \"description\": \"About末尾に主要な機能変更の履歴を追加。大きな変更で前の数字、細かな変更で後ろの数字を更新する運用を開始。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"変更記録日時\",\n      \"retrospective\": false\n    },\n    {\n      \"version\": \"9.0\",\n      \"datetime\": \"2026-10-14T14:26:34+09:00\",\n      \"title\": \"年表と聴く場面から掘る一覧を再設計\",\n      \"description\": \"年代・街を読む年表とサンプルの年代比較を切り替える機能、絞り込み・年への移動・固定年代軸を追加。一覧の入口をCafe、Pizza、Funky Walkin’、East Coast、West Coastの順に整え、25曲ずつ表示する構成へ変更。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"変更記録日時\",\n      \"retrospective\": false\n    },\n    {\n      \"version\": \"10.0\",\n      \"datetime\": \"2026-10-14T21:13:27+09:00\",\n      \"title\": \"年表にHip Hopの文化史を追加\",\n      \"description\": \"年号・曲名・リンクの位置を揃え、1973年のパーティー、グラフィティ映画Style Wars、受賞、訃報、殿堂入りなど11件の出来事を出典付きで掲載。年代の絞り込みと年ジャンプで、楽曲と文化の流れを行き来できるようにした。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"変更記録日時\",\n      \"retrospective\": false\n    },\n    {\n      \"version\": \"11.0\",\n      \"datetime\": \"2026-10-14T23:09:14+09:00\",\n      \"title\": \"スワイプ選曲と自分のプレイリストを追加\",\n      \"description\": \"楽曲一覧の左スワイプで再生・選曲から外し、右スワイプでMY CRATEへ追加。操作ボタンによるPC・キーボード操作、プレイリスト名の変更、曲順の変更、削除の取り消し、ブラウザ保存と選曲内の連続再生に対応。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"変更記録日時\",\n      \"retrospective\": false\n    },\n    {\n      \"version\": \"12.0\",\n      \"datetime\": \"2026-10-15T00:13:17+09:00\",\n      \"title\": \"曲を探す入口をシーンと地域に分離\",\n      \"description\": \"聴くシーンと東西の地域を別々に選び、組み合わせて絞り込む構成へ変更。短い選択ボタン、選択中の条件、条件クリアを追加。最初は全曲を表示し、一覧と特集を50曲ずつ展開する。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"変更記録日時\",\n      \"retrospective\": false\n    },\n    {\n      \"version\": \"13.0\",\n      \"datetime\": \"2026-10-15T01:40:29+09:00\",\n      \"title\": \"DJ Naoyamanの選曲棚\",\n      \"description\": \"Gang Starrの指定14曲を照合し、既存7曲と新規7曲で全曲を収録。計220曲。音の聴きどころを基準に選んだ5つの棚、その他の地域、全年代のGang Starr特集を追加。50曲ずつの一覧を維持。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"変更記録日時\",\n      \"retrospective\": false\n    },\n    {\n      \"version\": \"14.0\",\n      \"datetime\": \"2026-10-15T09:00:00+09:00\",\n      \"title\": \"DJ Shadow 12インチ・アーカイブ拡張\",\n      \"description\": \"DJ ShadowのMo' Wax期12インチ作品4曲を追加。公式音源や盤面の未確認事項は明示し、既存220曲を維持。Nasを含む残りの盤は継続調査。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"変更記録日時（暫定）\",\n      \"retrospective\": false\n    },\n    {\n      \"version\": \"15.0\",\n      \"datetime\": \"2026-10-17T00:49:41+09:00\",\n      \"title\": \"影響を読むFeaturesと別名義の統合\",\n      \"description\": \"掲載3曲以上かつ後世への影響を重視する選定基準を明記。14特集に音楽性・後世への影響・私の聴き方と参考資料を追加。J Dilla / Jay Dee、Madlib / Quasimotoを同一人物の別名義として集約し、共同プロジェクトを区別。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"変更記録日時\",\n      \"retrospective\": false\n    },\n    {\n      \"version\": \"16.0\",\n      \"datetime\": \"2026-10-17T01:03:55+09:00\",\n      \"title\": \"聴きどころから選ぶ6つの棚\",\n      \"description\": \"解説に根拠がある曲を6つの聴き方で選曲。件数表示と複数棚への分類を加え、地域は補助条件に整理。未分類曲も全曲一覧から探せます。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"変更記録日時\",\n      \"retrospective\": false\n    },\n    {\n      \"version\": \"17.0\",\n      \"datetime\": \"2026-10-17T01:20:25+09:00\",\n      \"title\": \"聴く入口と読む情報を整理\",\n      \"description\": \"全曲の掲載内容を区分し、サンプル資料を共通化。ATCQ特集を統合し、De La Soul・EPMDを追加。119曲の定型文を見直し、3つのリスニングガイドと特集の連続再生を用意。年表は楽曲と文化の出来事に限定。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"変更記録日時\",\n      \"retrospective\": false\n    },\n    {\n      \"version\": \"18.0\",\n      \"datetime\": \"2026-10-17T10:01:17+09:00\",\n      \"title\": \"楽曲ごとのグラフィティ画像を全画面へ\",\n      \"description\": \"承認された手描きグラフィティの品質で制作した楽曲画像を、全画面アート表示に実装。作品ジャケット由来の配色、文字の確認、画面内への全体表示を共通ルール化。制作済みの曲から切り替え。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"変更記録日時\",\n      \"retrospective\": false\n    },\n    {\n      \"version\": \"19.0\",\n      \"datetime\": \"2026-10-17T12:21:57+09:00\",\n      \"title\": \"透過グラフィティを壁に描く\",\n      \"description\": \"壁面の質感と描画演出を復元し、透過画像への差し替えを進める。曲名・アーティスト名・CRATE DIGGIN・DJ Naoyamanを含むaltを自動生成。制作ノートと次回以降のルールを記録し、50曲単位で公開する。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"変更記録日時\",\n      \"retrospective\": false\n    },\n    {\n      \"version\": \"20.0\",\n      \"datetime\": \"2026-10-17T15:30:23.292451+00:00\",\n      \"title\": \"TRACKS・ARTISTS・PRODUCERSへ整理\",\n      \"description\": \"新しいURLと3つの入口へ整理し、以前のリンクからの案内を保持。全ページのSNS共有と、楽曲アートの静的表示・画像サイトマップを追加。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"変更記録日時\",\n      \"retrospective\": false\n    },\n    {\n      \"version\": \"21.0\",\n      \"datetime\": \"2026-10-18T22:34:34+09:00\",\n      \"title\": \"CRATEDIGGIN' — The Listening Archive\",\n      \"description\": \"全掲載作品と出典・アートを保持し、聴く・読む・掘る体験を刷新。READINGSとSHUFFLE、見えるプレイヤーとアート表示、検索・共有・静的ページと計測プライバシーを更新。 画像の配信幅を最大2400pxへ最適化し、透過グラフィティ、停止確認付きART/VIDEO切り替え、Player以外のコンパクト操作パネルを追加。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"変更記録日時\",\n      \"retrospective\": false\n    },\n    {\n      \"version\": \"22.0\",\n      \"datetime\": \"2026-10-19T11:42:22.186284+00:00\",\n      \"title\": \"収録作品を見渡すグラフィカル年表\",\n      \"description\": \"年代・アーティスト・制作名義・地域・掲載カテゴリ・音のタグから収録構成を見渡し、条件を掛け合わせて作品と年表へ進める入口を追加。未登録・未確認と集計の分母を明示。\",\n      \"kind\": \"major\",\n      \"dateBasis\": \"変更記録\"\n    }\n  ]\n}\n",
+      "beforeSHA256": "9dae66757fc917ef794135c6edf409081885c7b92d5545111b8af74cd50f9264",
+      "afterSHA256": "a6d030576bab195dba0ed1aca7ad703847ab290073054e64850a3982babcab4b"
+    }
+  },
+  "protected": {
+    "tracks.json": "b634e00d24888bb98fb53cd191b8ffb290bb32c66048f7b2703bd917e9d0bd63",
+    "editorial_deepdives.json": "ef193b16a56f84d776f2e37679ab8ca1cfc24cbaf3fb4187b46d275e7b364137",
+    "graffiti_artwork.json": "f26024b9ca55ba0b10e5f0dc62bfcc3ffc54106cfd0b577d729303a23a036305",
+    "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+    "artist_entities.json": "9e952d640f20e0c203e6bbcba1746da53eb014bfc05f957b86dea2c77fb0c02f",
+    "editor_profile.json": "977a36f96e638d8d7fa925235ad9dc70c9e7607ae6d220a43b82b789c8746caa",
+    "src/app/editorial.js": "0e50447ea73ea4dc15fcf27c2f38d8214af89f77590d03a25b39cf4b31e5917d",
+    "src/app/router.js": "c9f7c7ae480f019ea52b13de79f379585f2a784fc1259d068de656ee9cf25fcc",
+    "src/app/player.js": "19e95030152447f0c91815aa044fe4ab919bad5bea8ec74772224e4766a0c662",
+    "src/assets/style.css": "cccfbe07ed0efc2e11c64ebb5553e478a8d066538b39d4d0b00f89a60bda9cc6",
+    "src/assets/catalog-explorer.js": "697c85b0f74eb264e440cecd4304ac29a750ebe1099dfb367674a25cbfff68b8"
+  }
+}
