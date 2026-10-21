@@ -14277,11 +14277,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "声のない時間にも、サンプルの物語がある。",
-    "essayTitle": "この曲の聴きどころ",
+    "deck": "「Organ Donor」を人がどう受け取るか、DJ Shadow自身にも読めなかった。",
+    "essayTitle": "嫌われると思っていた、あの反復。",
     "essay": [
-      "声のない時間にも、サンプルの物語がある。",
-      "ラップの登場を待たず、音の入り方と抜け方を追ってみる。旋律の断片が、声に代わって場面を運ぶ。その短い展開を何度も聴きたくなる。"
+      "DJ Shadowは2016年のMusicRadarの取材で、『Endtroducing.....』を振り返り、「Organ Donor」は人に嫌われ、酷評されると思っていたと話している。いま曲を知る耳には意外でも、作り手の手応えと聴き手の反応は同じではなかった。",
+      "その話に続けて彼が語るのは、誰かが気に入らないかもしれないという理由で、自分が好きな音楽を作るのをやめるべきではない、という姿勢だ。ここでは反復の仕組みだけでなく、その音を作品に残した判断にも耳を向けたい。"
     ],
     "facts": [
       {
@@ -14306,10 +14306,9 @@
     ],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "声のない時間にも、サンプルの物語がある。",
-      "音の登場と退場を追い、短い反復がどこで表情を変えるかを聴く。"
+      "鍵盤の反復とドラムを分けて追い、どちらが耳を引きつけるか確かめる。"
     ],
-    "context": "ラップの登場を待たず、音の入り方と抜け方を追ってみる。旋律の断片が、声に代わって場面を運ぶ。その短い展開を何度も聴きたくなる。",
+    "context": "1996年の『Endtroducing.....』収録曲。後の「Extended Overhaul」とは別の版として聴く。",
     "sources": [
       {
         "label": "YouTube — DJ Shadow / Organ Donor",
@@ -14320,6 +14319,16 @@
         "label": "Giorgio Moroder / Tears — サンプル関係の資料",
         "url": "https://909originals.com/2021/09/16/midnight-in-a-perfect-akai-mpc-60-five-samples-that-defined-dj-shadows-entroducing/",
         "kind": "サンプル調査資料"
+      },
+      {
+        "label": "MusicRadar：DJ Shadow本人への取材（2016年10月17日）",
+        "url": "https://www.musicradar.com/news/tech/dj-shadow-on-key-influences-over-the-years-and-the-gear-he-just-cant-do-without-643390",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "DJ Shadow公式：Endtroducing 20周年盤トラックリスト",
+        "url": "https://djshadow.com/collections/all/products/endtroducing-20th-anniversary-endtrospective-edition-3cd-deluxe-digipack",
+        "kind": "アーティスト公式"
       }
     ],
     "producers": [
@@ -14341,7 +14350,15 @@
       "cut-scratch"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "dj-shadow-midnight-in-a-perfect-world",

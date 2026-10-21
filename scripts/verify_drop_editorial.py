@@ -1,6 +1,7 @@
 """One cited editorial correction, without any recording, artwork or credit change."""
 from pathlib import Path
 import argparse,json,sys
+from approved_organ_editorial import historical_organ_file
 from approved_drop_editorial import F,historical_drop_file,sha
 R=Path(__file__).resolve().parents[1]
 p=argparse.ArgumentParser();p.add_argument('--source-only',action='store_true');a=p.parse_args()
@@ -11,7 +12,7 @@ for name,spec in F['files'].items():
   except AssertionError:pass
   else:raise AssertionError('Unapproved partial/drift accepted')
 for name,h in F['protected'].items():assert sha((R/name).read_bytes())==h,name
-tracks=json.loads((R/'tracks.json').read_text());old=json.loads(historical_drop_file('tracks.json',(R/'tracks.json').read_bytes()))
+tracks=json.loads(historical_organ_file('tracks.json',(R/'tracks.json').read_bytes()));old=json.loads(historical_drop_file('tracks.json',(R/'tracks.json').read_bytes()))
 assert len(tracks)==len(old)==505
 changed=[(x,y) for x,y in zip(old,tracks) if x!=y];assert len(changed)==1
 before,t=changed[0];c=F['correction'];assert before==c['before'] and t==c['after']
