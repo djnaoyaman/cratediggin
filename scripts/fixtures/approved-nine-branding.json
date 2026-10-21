@@ -1,0 +1,119 @@
+{
+  "base": "6c8295e71a88c1aecd2efed012a56aac8db39146",
+  "assets": [
+    {
+      "id": "wu-tang-clan-soul-power",
+      "path": "assets/graffiti/wu-tang-clan-soul-power-alpha.webp",
+      "beforeSHA256": "353f0057d061d47ced1fa3d5c696a0bfe2bbab01850f405b839eaf6abf3d9f73",
+      "afterSHA256": "1034281f4d978f3215f4efec221282e6ffdfd9f516791307f54069f0d3706bec",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "rgbaSHA256": "8bb39842d63c7bda4a326d59658454614323b27570e4bc3bda1ddb1fdbf1ee1c"
+    },
+    {
+      "id": "method-man-say-what",
+      "path": "assets/graffiti/method-man-say-what-alpha.webp",
+      "beforeSHA256": "21a882da97e08754189bb9a9d041f527e781c0bbd75ca117dab4d79f7ba9918f",
+      "afterSHA256": "05250a1aa8a37320305e46d38502ccc321ee08b30034b0b4811a6ba4e49bf97e",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "rgbaSHA256": "35c9e63e3b45f350d23818795050a8af97011e7d4a98b4cba9c6af54442abfcc"
+    },
+    {
+      "id": "time-machine-mind-in-a-spin",
+      "path": "assets/graffiti/time-machine-mind-in-a-spin-alpha.webp",
+      "beforeSHA256": "76dfc81aabe098d3fc464e2d8d334b735aeabf94a95afa2b2622b70cdd1d4cef",
+      "afterSHA256": "96cfb02e79f43b4ae641ad1992ac8e3c916c4d196b810b26a195bc240af27824",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "rgbaSHA256": "4b2709f8efbfc9b7438655f6e714b985f79f46e9ada88fa11342db8f8e12b9d8"
+    },
+    {
+      "id": "pitch-black-its-all-real",
+      "path": "assets/graffiti/pitch-black-its-all-real-alpha.webp",
+      "beforeSHA256": "5198477ed30cf9359a04203b549c3e71fabeea964922ef700a93957639307f54",
+      "afterSHA256": "402af06de23c3403f2f57b44df70437ac0864a02f47de23936d95fcb20fce4b7",
+      "dimensions": [
+        1913,
+        822
+      ],
+      "rgbaSHA256": "b58b3d235784d8f441e9c36721b6a2ac439019f2b7264a7ee80275b99404207c"
+    },
+    {
+      "id": "visionaries-sight-for-sore-eyes",
+      "path": "assets/graffiti/visionaries-sight-for-sore-eyes-alpha.webp",
+      "beforeSHA256": "327bbf26a344802518bd47f78f209423017482992962b67fccfdbb4229740685",
+      "afterSHA256": "94a9b97b740cb0a165a830b8522aa225867eae832903bfe273196db4dec0d3d8",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "rgbaSHA256": "ffbb61c68bdeb2dc4e0bcb5be58f140b66c472525f705dc1ebfe9d9230e2f74b"
+    },
+    {
+      "id": "visionaries-blessings",
+      "path": "assets/graffiti/visionaries-blessings-alpha.webp",
+      "beforeSHA256": "b1d5316f00fdf95847d66b3efdba9c680111f4d0e68ffdbd708649acfbaac0ae",
+      "afterSHA256": "f22bb330fb9590dffe486e2edef9c1d33d30c4c3417f56ae72c2729dace0eee6",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "rgbaSHA256": "91acacfc8cc4ec6c3c7c43bf9a383f134d571d12a2b1fcaf4aa491111d5e5425"
+    },
+    {
+      "id": "living-legends-never-fallin",
+      "path": "assets/graffiti/living-legends-never-fallin-alpha.webp",
+      "beforeSHA256": "6fdd72f2e21878e65314c0b95c82f6c8c9d371bc257337d8b05d157ee5a61018",
+      "afterSHA256": "ee2f865d381e5a2c4f2d9f8b4ee40e7c82dc10c34db146d4916e0ee6f2d7d3ac",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "rgbaSHA256": "d15fcaf358754d2e02785b616f90a94c931709b1c7e8d6124599755dee077635"
+    },
+    {
+      "id": "living-legends-even-though",
+      "path": "assets/graffiti/living-legends-even-though-alpha.webp",
+      "beforeSHA256": "98cbe03e3a77f60ac299444c1e92f8b080c5650920e941826090e450f7a98f8a",
+      "afterSHA256": "31cc01c3ec992dc8734156c37a9b239aeb0a14685e551c26fae1a4cf32f2a9ad",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "rgbaSHA256": "90c6fb3db95b0a4905f3de8e052b96e8645c027d1a477af5e41eccefdb4fb18f"
+    },
+    {
+      "id": "living-legends-blast-your-radio",
+      "path": "assets/graffiti/living-legends-blast-your-radio-alpha.webp",
+      "beforeSHA256": "1e74f6d3ee005c17ec398b5312da6cb59b11ebd6a4dc7ed8baf1c401c5c97d5e",
+      "afterSHA256": "c745049d8088d28fe3d57491faa6acb259fff38b7d98e5151625e8c43a2be8d8",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "rgbaSHA256": "bc0e8f796438250107177c7cbb9580072f402df115c280101ea70447d48525ab"
+    }
+  ],
+  "beforeVersion": "22.40",
+  "beforeReleaseSHA256": "2d071458be3ae5ab3ef35bdbd3427aaf6a25ce1edaf5d33105c1bae9124f1be4",
+  "afterReleaseSHA256": "414ade5a19e503c3a1cd4ad3cd8fc28cc9c0bd08d75493d54f7f5bf17852812c",
+  "protected": {
+    "tracks.json": "f8195ac68b04ea63d92a681a11d6909558849ffa1bbe6ef84111a538d4c7fbeb",
+    "graffiti_artwork.json": "fccdb745bbd3b2871ef3b506b3197077f5e6b42cd543cefdbd042a2efb3f9c49",
+    "editorial_deepdives.json": "5b989c85ad5e6b0114a341209da18e6ed05608b71424d5184fe3733dc86436c0",
+    "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+    "artist_entities.json": "be0a95389d26e99480325ad2a7f0872ba3e21e7e58b6cf2b3fd7515d5805469b",
+    "editor_profile.json": "977a36f96e638d8d7fa925235ad9dc70c9e7607ae6d220a43b82b789c8746caa",
+    "src/app/player.js": "6796ca1e0ebe8ede8c3619fd6af2785410d247728bb627e79dceb8769e942c0a",
+    "src/assets/art.js": "bff0c731802e8fc530ce6f29440723c2c860e5da1899459e8498d6680c85e91b",
+    "src/assets/style.css": "b6a2627965e44b62640495ec57d74a819eef054282d86d7bc448341ce26a21c5"
+  },
+  "visualReview": "Full title and artist, light/dark transparency, visible lettering size, original palette and no inside-site branding reviewed independently of alpha bounds."
+}
