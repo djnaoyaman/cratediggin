@@ -208,15 +208,12 @@
       "lettering": "tag",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "1993年から、どこまでも。四人の声が入れ替わり、古いジャズの断片が空を広げる。青春は、年号のなかに収まってくれない。",
-    "essayTitle": "年号は古くなる。午後は古くならない。",
+    "deck": "短い持ち場にした狙いは何だったのか。Opioの構成の話とA-Plusのレコード探しをたどる。",
+    "essayTitle": "四人全員が、各ヴァースに登場するために",
     "essay": [
-      "1993年から無限に、と来た。若いというのは、実に気前がいい。こちらは明日の予定をひとつ決めるだけでも面倒なのに、彼らは仲間と過ごす時間に、終わりを置かなかった。しかもそれを、こんなに涼しい顔で歌にしてしまった。",
-      "Souls of Mischiefの「93 ’til Infinity」。オークランドの四人組が、1993年に発表した同名のデビュー作の表題曲である。ビートを手がけたのはA-Plus。ビリー・コブハムの「Heather」を使ったあの響きが、曲の頭から、こちらのいる場所を少しだけ広くしてくれる。",
-      "西海岸、と言うと、私たちはときどき便利な景色を持ち出す。車、椰子の木、強い日差し。もちろんそれもあるのだろう。しかしこの曲を聴いていると、もっと個人的な場所に着く。仲間が集まり、話があちこちに飛び、何をするともなく午後が続いている。観光案内には載せにくいが、人生では案外こういう時間のほうが残る。",
-      "四人の声は、短い持ち場を受け渡していく。誰かひとりが長々と独演するのではなく、会話の輪が回る。うまさは確かにあるのだが、それを見せるためだけに集まってはいないように聞こえる。先に仲間がいて、その仲間と音楽をやっている。この順番は、簡単そうでなかなか保てない。",
-      "私には、この曲の心地よさに、少しだけ切なさが混じって聞こえる。楽しい時間が永遠に続かないことを、聴く側はもう知っているからだ。それでも再生すれば、あの午後には戻れる。レコードというものは、ずいぶん小さな顔をして、大きなことをやっている。",
-      "年号は古くなる。けれど、ここにある午後は古くならない。無限という言葉の正体がそれなら、彼らの見込みはなかなか正しかったのだと思う。"
+      "OpioはXXLで、全員が各ヴァースに登場できるよう、持ち場を短くしたと説明している。一人ずつを長く紹介するのではなく、早い段階でグループ全体を聴かせる構成だった。",
+      "ビートにも、別の曲から始まる道筋がある。A-PlusのOkayplayerでの制作回想によると、DJ PremierがBilly Cobhamの『Crosswinds』の表題曲を使ったと知り、そのアルバムを探した。そこで惹かれたのが、同じ盤に入っていた「Heather」だった。先行する曲を手がかりに、一枚の別の場所へ進んでいる。",
+      "次に聴くなら、声が交代する位置を追ってみたい。全員を各ヴァースに置くという狙いが、どう形になっているだろうか。"
     ],
     "facts": [
       {
@@ -228,8 +225,8 @@
         ]
       },
       {
-        "title": "タイトルは、91から93へ",
-        "text": "XXLのメンバー取材によると、構想の出発点は高校時代の「91 ’til Infinity」。レコード契約と発売時期を経て、タイトルの年号も変わった。",
+        "title": "未完成の「91」から、別のビートの「93」へ",
+        "text": "XXLのメンバー取材によると、高校時代の未完成曲「91 ’til Infinity」は、より遅い別のビートを使っていた。同じ伴奏の年号だけを変えた曲ではない。",
         "sources": [
           1
         ]
@@ -270,11 +267,9 @@
       }
     ],
     "listening": [
-      "まず四人の声を追う。持ち場が切り替わるたび、曲の表情も少し変わる。",
-      "上に浮かぶサンプルと、下で刻むドラムを別々に聴いてみる。",
-      "心地よさと切なさが同居する、というのは編者の私見。自分にはどう聞こえるか、確かめてほしい。"
+      "声が交代する位置を追い、四人の持ち場がどう組まれているか確かめてみる。"
     ],
-    "context": "Hieroglyphicsのつながりを背にした、East Bayの一曲。西海岸という大きな括りのなかにある、オークランドの別の表情を聴ける。",
+    "context": "四人を登場させる構成と、A-Plusのレコード探索を本人の回想から読む。",
     "sources": [
       {
         "label": "Apple Music — アルバム情報",
@@ -320,7 +315,16 @@
     "editorialCrates": [
       "jazz-mellow"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2
+      ],
+      []
+    ]
   },
   {
     "id": "in-the-house",
@@ -812,12 +816,13 @@
       "lettering": "brush",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "ブラジルのギターが、LAの歩幅をつくる。軽やかなループに、少しだけ影が差す。",
-    "essayTitle": "走る曲なのに、急がなくていい。",
+    "deck": "Slimkid3が守ろうとしたのは、サンプルだけでなくドラムの組み方だった。",
+    "essayTitle": "「Runnin’」で残された、Jay Deeのドラム",
     "essay": [
-      "「Runnin’」という題名なのに、こちらを急かす気配がない。ギターのループが風を通し、ビートが足元を整える。私には、全力疾走よりも、知らない道をもう一本だけ歩きたくなる曲に聞こえる。",
-      "素材はStan GetzとLuiz Bonfáの「Saudade Vem Correndo」。元の演奏へ戻ると、ラップの中で親しんだ音に、別の時間が続いていることが分かる。切り取られた断片の向こうに、まだ一曲ぶんの世界がある。サンプリングは、音楽を短くするだけの仕事ではない。",
-      "「Bucktown」のあとに置くなら、ここで窓を開けたい。低い重心から、少しだけ空気の多い場所へ。明るさと軽さは同じではないし、軽さと薄さも同じではない。その区別を、長い説明より先に教えてくれる一曲だ。"
+      "「Runnin’」のビートは、そのまま完成形へ進んだわけではない。Slimkid3は2006年の取材で、FatlipがJay Deeのドラムを組み直そうとした際、元の形を残すために衝突したと明かしている。自分たちが迎えたプロデューサーの仕事を、そのまま生かしたかったのだ。",
+      "2016年のSkiddleの取材でも、Slimkid3はこの出来事を振り返った。彼にとってドラムのずれ方は、直すべき箇所ではなくJay Deeらしさだったという。決められた形にそろえるより、作った人の癖を残す。その判断が、この曲の制作では争点になった。",
+      "出会いをつないだのはQ-Tipだった。The Urban Dailyの取材によれば、Slimkid3たちはQ-Tipの部屋でカセットを聴き、その中に後の「Runnin’」や「Drop」のループがあった。Jay Deeという名前をQ-Tipの別名だと思っていた、という当時の勘違いも本人は話している。",
+      "「Runnin’」は1995年の『Labcabincalifornia』からの最初のシングルになった。素材として知られるのはStan Getzの「Saudade Vem Correndo」だが、聴き直すならサンプルの旋律だけでなく、ドラムとの組み合わせにも注目したい。どの音を借りたかに加え、どんなリズムを残そうとしたかを知ると、この曲への入口がもう一つ増える。"
     ],
     "facts": [
       {
@@ -851,10 +856,9 @@
         "title": "Saudade Vem Correndo",
         "year": 1963,
         "main": true,
-        "role": "曲の顔になるギターのループ。元の演奏が持つ流れと、反復がつくるラップの歩幅を聴き比べたい。",
+        "role": "「Saudade Vem Correndo」を使用。素材の楽器や位置は断定せず、原曲との比較へ案内する。",
         "sources": [
-          4,
-          5
+          4
         ],
         "youtube": {
           "id": "D0a4vuKQR5w",
@@ -865,11 +869,10 @@
       }
     ],
     "listening": [
-      "ギターの反復だけを追い、次にその下で動くドラムへ。",
-      "同じループの上で4人の声がどう景色を変えるか。",
-      "サンプル元を聴いてから曲へ戻る。ラップの中に残された音と、切り取られた音を比べる。"
+      "反復する素材と、その下のドラムを別々に追ってみる。",
+      "サンプル元を聴いてから戻り、リズムの組み合わせを比べる。"
     ],
-    "context": "LAのグループとDetroitのJay Dee、ブラジル音楽の演奏が一曲で出会う。地図の地域表示はグループの活動拠点を基準にし、制作や素材のつながりは別に読む。",
+    "context": "Q-Tipの紹介で出会ったJay Deeのビートを、The Pharcydeがどう受け止めたか。",
     "sources": [
       {
         "label": "Delicious Vinyl — Runnin’のシングル紹介",
@@ -900,6 +903,36 @@
         "label": "YouTube — Stan Getz / Jazz Samba Encore!",
         "url": "https://www.youtube.com/watch?v=D0a4vuKQR5w",
         "kind": "UMG正規配信"
+      },
+      {
+        "label": "SPIN — An Oral History of The Pharcyde’s Passin’ Me By",
+        "url": "https://www.spinmagazine.com/2012/06/pharcyde-look-back-20-years-passin-me/",
+        "kind": "参加者への直接取材"
+      },
+      {
+        "label": "Craft Recordings — Bizarre Ride II The Pharcyde",
+        "url": "https://craftrecordings.com/blogs/permanent-record/the-pharcyde-bizarre-ride-ii",
+        "kind": "再発レーベル公式解説"
+      },
+      {
+        "label": "Yo! Raps — Bootie Brown: Pioneering A New Wave",
+        "url": "https://yoraps.com/bootie-brown-pioneering-a-new-wave/",
+        "kind": "Bootie Brown本人への取材"
+      },
+      {
+        "label": "The Urban Daily — The Pharcyde Recall Their Bizarre Ride 20 Years Later",
+        "url": "https://theurbandaily.com/2270297/the-pharcyde-bizarre-ride-20-years-later-exclusive/4/",
+        "kind": "Fatlip・Slimkid3・J-Swift本人への取材"
+      },
+      {
+        "label": "Stones Throw — The story behind some of J Dilla’s greatest productions",
+        "url": "https://www.stonesthrow.com/news/the-story-behind-some-of-j-dilla-s-greatest-productions/",
+        "kind": "FADERの2006年参加者取材を公式転載"
+      },
+      {
+        "label": "Skiddle — Bizarre Ride Live interview: Jay Dee also wrote that history",
+        "url": "https://www.skiddle.com/news/all/Bizarre-Ride-Live-interview-Jay-Dee-also-wrote-that-history/30432/",
+        "kind": "Slimkid3ほか本人への取材"
       }
     ],
     "producers": [
@@ -907,7 +940,7 @@
     ],
     "connections": [],
     "sounds": [
-      "ギター"
+      "ドラム"
     ],
     "addedOrder": 5,
     "collections": [
@@ -918,7 +951,22 @@
     "editorialCrates": [
       "jazz-mellow"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        10
+      ],
+      [
+        11
+      ],
+      [
+        9
+      ],
+      [
+        0,
+        4
+      ]
+    ]
   },
   {
     "id": "resurrection",
@@ -3365,12 +3413,13 @@
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "レコードを組み合わせ、声を試す。その場の発見が、片思いの曲になった。",
-    "essayTitle": "二つのループと、偶然つかんだ声。",
+    "deck": "Fatlipの歌声をきっかけに、それぞれの恋の話が動きだした。",
+    "essayTitle": "コーラスから始まった、四人の片思い",
     "essay": [
-      "「Passin’ Me By」は、The Pharcydeが1992年に発表した『Bizarre Ride II the Pharcyde』の収録曲。Craft Recordingsの作品解説は、アルバムの発売日を11月24日とし、Quincy Jones「Summer in the City」の使用を確認している。ここでの1992年はアルバム初出の年で、シングル盤の発売日とは分けて考えたい。",
-      "曲ができる場面は、2012年6月28日公開のSPINの直接取材に残っている。J-Swiftの回想では、Reggie Andrewsのガレージにあったレコードから素材を探し、別々のビートにするつもりだった二つのループを、Bootie Brownの提案で組み合わせた。本人が片方の曲名を思い出せないと断っている点まで含めて、この話は制作から約20年後の証言として読める。",
-      "同じ取材でJ-Swiftは、映画『The Doors』を見たあとにFatlipが歌い始めたと振り返る。Fatlip自身も、試した歌声が自分でも意外なものになったと話す。SlimKid3によれば、コーラスが定まってから、それぞれが女性についてのヴァースを書き始めた。言葉を完成したビートへ並べるだけでなく、ループ、声、歌詞が互いの方向を決めていく。その順番を知ると、この曲の個人的な語りを、共同作業の成果としても捉えられる。"
+      "Slimkid3の回想では、まずコーラスができ、そのあとに四人の話が生まれた。2012年のSPINの取材で、Fatlipの歌声を受けて、それぞれが女性についてのヴァースを書き始めたと振り返っている。",
+      "J-Swiftの記憶では、ビートにも仲間のひと言が関わっている。Reggie Andrewsのガレージで見つけたレコードから二つのループを用意し、別のビートにするつもりだったところ、Bootie Brownが組み合わせを提案した。片方はQuincy Jonesの「Summer in the City」。もう片方の曲名は、この取材では思い出せないと話している。",
+      "ただし、始まり方については別の証言もある。Bootie BrownはYo! Rapsに、自分がQuincy Jonesの音をループし、Fatlipとフックを練ったと説明している。制作の順番を一つに決めることはできない。それでも、互いのアイデアを聴いて曲を変えていくやり取りが、両方の回想に残っている。",
+      "曲は1992年11月24日発売の『Bizarre Ride II the Pharcyde』に収録された。サンプル元を知るだけでなく、コーラスを受けて一人ずつ何を語るのかに耳を向けたい。同じ曲の中に四つの視点がある理由を、制作時の会話からたどれる。"
     ],
     "facts": [
       {
@@ -3387,9 +3436,9 @@
         "title": "Summer in the City",
         "year": 1973,
         "main": true,
-        "role": "主要な鍵盤の素材。細かな切り出し位置は未検証。",
+        "role": "Quincy Jones「Summer in the City」を使用。楽器や切り出し位置はここでは限定しない。",
         "sources": [
-          1
+          3
         ],
         "youtube": {
           "id": "jpbK4tLQH_s",
@@ -3401,10 +3450,9 @@
     ],
     "sampleStatus": "代表的な素材を資料で確認",
     "listening": [
-      "気まずさも、思い出も、グルーヴにしてしまう。",
-      "Quincy Jonesの「Summer in the City」へ戻り、素材と完成した曲で音の役割がどう変わるかを確かめる。"
+      "コーラスから各ヴァースへ、語り手が替わるところに注目する。"
     ],
-    "context": "少し気まずい感情を、気持ちのよい音の上で聴けてしまう。その居心地のよさと悪さが一緒にあるところを、この曲の魅力として残しておきたい。",
+    "context": "コーラスと四人の語りの関係を、制作時の会話とあわせて聴く。",
     "sources": [
       {
         "label": "YouTube — The Pharcyde / Passin' Me By",
@@ -3430,6 +3478,31 @@
         "url": "https://yoraps.com/bootie-brown-pioneering-a-new-wave/",
         "label": "Yo! Raps：Bootie Brown本人への取材（公開日未確認）",
         "kind": "本人取材（公開日未確認）"
+      },
+      {
+        "label": "The Urban Daily — The Pharcyde Recall Their Bizarre Ride 20 Years Later",
+        "url": "https://theurbandaily.com/2270297/the-pharcyde-bizarre-ride-20-years-later-exclusive/4/",
+        "kind": "Fatlip・Slimkid3・J-Swift本人への取材"
+      },
+      {
+        "label": "Stones Throw — The story behind some of J Dilla’s greatest productions",
+        "url": "https://www.stonesthrow.com/news/the-story-behind-some-of-j-dilla-s-greatest-productions/",
+        "kind": "FADERの2006年参加者取材を公式転載"
+      },
+      {
+        "label": "Skiddle — Bizarre Ride Live interview: Jay Dee also wrote that history",
+        "url": "https://www.skiddle.com/news/all/Bizarre-Ride-Live-interview-Jay-Dee-also-wrote-that-history/30432/",
+        "kind": "Slimkid3ほか本人への取材"
+      },
+      {
+        "label": "Delicious Vinyl — Runnin’ color vinyl 12-inch",
+        "url": "https://store.deliciousvinyl.com/blogs/news/6146246-the-pharcyde-runnin-color-vinyl-12-w-jay-dee-remix-available-july-10",
+        "kind": "発売元公式再発告知"
+      },
+      {
+        "label": "Flower Records — Saudade Vem Correndo / 45trio",
+        "url": "https://flower-r.com/45trio-3/",
+        "kind": "カバー作品の発売元公式説明。Pharcyde原盤のクレジットではない"
       }
     ],
     "producers": [
@@ -3449,12 +3522,17 @@
     "noteReviewedAt": "2026-10-17",
     "essaySources": [
       [
-        3
+        2
       ],
       [
         2
       ],
       [
+        4,
+        2
+      ],
+      [
+        3,
         2
       ]
     ]
@@ -9062,11 +9140,13 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "選ぶことそのものを、フロアの合言葉にする。",
-    "essayTitle": "呼び掛けに応えて、フロアの輪へ",
+    "deck": "完成したアルバムを待つあいだにも、制作の腕は変わっていく。Mista Lawngeが語るRevisitedの出発点。",
+    "essayTitle": "発売を待つ一年が、リミックスを生んだ",
     "essay": [
-      "選ぶことそのものを、フロアの合言葉にする。",
-      "声の呼び掛けに応じるつもりで聴くと、曲への入り方が変わる。自分の部屋でも、少しだけ輪の中にいる。その距離の縮まりを楽しみたい。"
+      "「The Choice Is Yours (Revisited)」には、原曲の完成後に生まれた時間差がある。Mista LawngeはAmbrosia For Headsの取材で、アルバムの発売がサンプル許諾のため一年ほど遅れ、その間に自分の制作が進歩したと話している。二枚目のシングルに原曲が選ばれると、今のやり方でリミックスしたくなったという。",
+      "ここで区別したいのが、括弧のない原曲とRevisitedだ。両方を収めたMr Bongoの正規再発盤は、原曲側にJohnny Hammond、Revisited側にMcCoy TynerのベースとSweet Linda Divineの声を挙げている。同じ曲名でも、素材の組み合わせから作り直した版として並べてみると面白い。",
+      "Dresが考えたのは、ビートだけではなかった。Village Voiceの本人取材では、コーラスは自分の案だったと説明し、Naughty by Natureの「O.P.P.」から呼び掛けと応答の強さを学んだと振り返っている。聴き手が加われる場所をどう作るかも、この曲の制作の一部だった。",
+      "まず原曲とRevisitedを続けて聴き、声を支える土台がどこで変わるかを追ってみたい。Revisitedという表記は、同じ曲をもう一度載せた印ではなく、作り手の更新をたどる目印になる。"
     ],
     "facts": [
       {
@@ -9080,14 +9160,29 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "選ぶことそのものを、フロアの合言葉にする。"
+      "原曲とRevisitedを続けて聴き、声を支える伴奏を比べてみる。"
     ],
-    "context": "声の呼び掛けに応じるつもりで聴くと、曲への入り方が変わる。自分の部屋でも、少しだけ輪の中にいる。その距離の縮まりを楽しみたい。",
+    "context": "原曲とRevisitedの違いを、再制作の回想と盤の説明から読む。",
     "sources": [
       {
         "label": "Black Sheep - Topic — The Choice Is Yours (Revisited)",
         "url": "https://www.youtube.com/watch?v=hyFHDBQxjIY",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Ambrosia For Heads — DresとMista Lawngeの制作回想（2016）",
+        "url": "https://ambrosiaforheads.com/2016/10/black-sheep-wolf-sheeps-clothing-interview/",
+        "kind": "制作当事者インタビュー"
+      },
+      {
+        "label": "Mr Bongo — 原曲／Revisited両面の正規再発解説",
+        "url": "https://www.mrbongo.com/products/the-choice-is-yours-vinyl-7",
+        "kind": "再発レーベル公式解説"
+      },
+      {
+        "label": "Village Voice — Dresが語るコーラスとO.P.P.（2010）",
+        "url": "https://www.villagevoice.com/the-choice-is-his-black-sheeps-dres-picks-the-five-best-bar-mitzvahsweet-16-rocking-hip-hop-classics-of-all-time/",
+        "kind": "本人取材"
       }
     ],
     "producers": [
@@ -9106,7 +9201,19 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ],
+      []
+    ]
   },
   {
     "id": "brand-nubian-slow-down",
@@ -11760,12 +11867,13 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "声、ファンク、遊び心。90年代の前夜をたどる。",
-    "essayTitle": "声、ファンク、遊び心。",
+    "deck": "Afrika Baby Bamが名前に込めたものと、冒頭に使われたManu Dibangoの声。曲の入口から二つのつながりをたどる。",
+    "essayTitle": "曲を録るころに選んだ、Afrikaという名前",
     "essay": [
-      "声、ファンク、遊び心。90年代の前夜をたどる。",
-      "「Straight Out the Jungle」をこの棚に置く理由は、声、ファンク、遊び心という聴きどころにある。大きな名前の曲も、少し掘った曲も、その音の魅力で隣り合うように選んだ。",
-      "90年代へつながるルーツとして、声とビートの組み方をたどる。Native Tonguesの曲を続けて聴くと、共通する耳と、それぞれの違いが見えてくる。"
+      "Afrika Baby Bamは、いつその名前を名乗るようになったのか。rap.deの本人取材では、「Straight Out the Jungle」を録音していた17、18歳ごろだったと振り返っている。Afrika Bambaataaの「Planet Rock」が、ヒップホップとZulu Nationへの関心を持つきっかけだったという。",
+      "その説明で本人が重視しているのは、音楽だけでなく文化を代表するという考え方だ。この曲の制作と芸名の選択が同じ時期だったと知ると、Jungle Brothersの紹介曲としてだけでなく、自分が何に連なるのかを表す曲としても聴いてみたくなる。",
+      "冒頭の声には、もう一つの来歴がある。DefectedのManu Dibango特集は、この曲が「Weya」のチャントから始まると説明している。これは同誌の音楽解説に基づく情報で、Jungle Brothers本人によるサンプル制作の証言ではない。Dibangoの名を「Soul Makossa」だけで覚えていたなら、別の曲へ進む手がかりになる。",
+      "アルバム制作については、AfrikaがRock The Bells掲載の回想で、ターンテーブルを録音機につなぎ、ループを継ぎ足した方法を語っている。ただし、その説明を表題曲の全工程と決めつけることはできない。まずは冒頭の声の出どころと、自ら選んだ名前の背景を手がかりに聴いてみたい。"
     ],
     "facts": [
       {
@@ -11779,15 +11887,29 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "声、ファンク、遊び心。90年代の前夜をたどる。",
-      "声が入る前のビートと、声が入ったあとの重心を聴き比べる。"
+      "冒頭の声を手掛かりに、紹介された素材曲にも戻ってみる。"
     ],
-    "context": "90年代へつながるルーツとして、声とビートの組み方をたどる。Native Tonguesの曲を続けて聴くと、共通する耳と、それぞれの違いが見えてくる。",
+    "context": "芸名を選んだ時期と曲の制作を、Afrika Baby Bamの回想から読む。",
     "sources": [
       {
         "label": "YouTube — Jungle Brothers / Straight Out the Jungle",
         "url": "https://www.youtube.com/watch?v=Svl7iZYT8gU",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "rap.de — Afrika Baby Bamが語る芸名の由来（2006）",
+        "url": "https://rap.de/c37-interview/5932-afrika-baby-bambaataa/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Defected — Manu Dibango特集のWeyaへの言及（2020）",
+        "url": "https://defected.com/news/post/manu-dibango--africas-dancefloor-master",
+        "kind": "レーベル媒体の音楽解説。サンプルの制作者証言ではない"
+      },
+      {
+        "label": "Rock The Bells — Native Tonguesのオーラル・ヒストリー（2023）",
+        "url": "https://rockthebells.com/articles/native-tongues-oral-history/",
+        "kind": "新規取材・アーカイブ証言の編集記事"
       }
     ],
     "producers": [
@@ -11807,6 +11929,20 @@
       "pizza",
       "walk",
       "east"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
     ]
   },
   {
@@ -14730,11 +14866,13 @@
       "lettering": "subway",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "マイクの受け渡しから、グループの楽しさを聴く。",
-    "essayTitle": "マイクが渡る瞬間、声がまとまる瞬間",
+    "deck": "1997年のEPに入る前から、ビートはテープに残っていた。Cut Chemistの回想から、曲になるまでの時間をたどる。",
+    "essayTitle": "ビートの出発点は、1994年のサンプル・テープ",
     "essay": [
-      "マイクの受け渡しから、グループの楽しさを聴く。",
-      "マイクが渡る瞬間と、声がまとまる瞬間に耳を置く。一人ずつの個性を聴くことが、そのままグループの楽しさへ戻ってくる。"
+      "「Concrete Schoolyard」のビートは、発売のずっと前にあった。Cut ChemistはSPINの取材で、1994年に一晩かけてレコードをサンプリングしたテープを振り返り、この曲と「Jayou」、後年の「Quality Control」などをそこに結び付けている。発表年の違う曲が、同じ作業の夜までさかのぼる。",
+      "本人によれば、メンバーが昔のビートを覚えていて、再び持ち出すきっかけになった。これはJ5の制作全般の回想だが、曲になる前の素材をグループで覚えている、という作り方が見えてくる。",
+      "初出とシングル発売は分けておきたい。Plug Oneは1997年のEP収録曲と紹介し、Universal Music JapanもEPを1997年、同曲のシングルを1998年としている。配信アルバムの1998年表記を、曲の初出年とはしない。",
+      "「Jayou」や「Quality Control」と並べるなら、発売順とは別の制作のつながりを意識してみたい。同じテープにあったことは、同じサンプルを使ったという意味ではない。"
     ],
     "facts": [
       {
@@ -14748,14 +14886,34 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "マイクの受け渡しから、グループの楽しさを聴く。"
+      "制作時期と発売順を分けて、JayouやQuality Controlとのつながりを考えてみる。"
     ],
-    "context": "マイクが渡る瞬間と、声がまとまる瞬間に耳を置く。一人ずつの個性を聴くことが、そのままグループの楽しさへ戻ってくる。",
+    "context": "発表年とは別の制作のつながりを、Cut Chemistの回想から読む。",
     "sources": [
       {
         "label": "YouTube — Jurassic 5 / Concrete Schoolyard",
         "url": "https://www.youtube.com/watch?v=BxhoG0t6VU0",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "SPIN — Cut Chemistが語る1994年のサンプル・テープ（2020）",
+        "url": "https://www.spinmagazine.com/2020/06/jurassic-5-quality-control-20th-anniversary/2/",
+        "kind": "制作者本人のオーラル・ヒストリー"
+      },
+      {
+        "label": "Plug One — Cut Chemist取材記事の作品紹介（2007）",
+        "url": "https://www.plugonemag.com/2007/06/22/the-plug-one-qa-cut-chemist",
+        "kind": "取材記事の編集部による作品情報"
+      },
+      {
+        "label": "Universal Music Japan — Jurassic 5公式略歴",
+        "url": "https://www.universal-music.co.jp/jurassic5/biography/",
+        "kind": "レーベル公式"
+      },
+      {
+        "label": "Spotify — Jurassic 5（1998）の収録情報",
+        "url": "https://open.spotify.com/album/6dJBUj0sSYYwZq38LSAF4F",
+        "kind": "正規配信情報。検索結果に年・曲名表示を確認"
       }
     ],
     "producers": [],
@@ -14774,7 +14932,21 @@
       "mic-skills"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        2,
+        3,
+        4
+      ],
+      []
+    ]
   },
   {
     "id": "dilated-peoples-worst-comes-to-worst",
@@ -16050,12 +16222,12 @@
       "lettering": "subway",
       "letteringNote": "曲ごとの独自の編集表現。"
     },
-    "deck": "細かな音の断片と三人の声が、ひとつの流れになる。",
-    "essayTitle": "切り貼りなのに、ひとつの身体。",
+    "deck": "この曲の映像を作るとき、MCAが手がかりにしたのはLeRoy Neimanの画集だった。",
+    "essayTitle": "Shadrachの映像は、絵画から発想された",
     "essay": [
-      "音の断片が忙しく行き交うのに、曲の足取りは軽い。声もビートも、それぞれ勝手に遊んでいるようで、同じ場所へ帰ってくる。",
-      "細部を追う聴き方と、全体のうねりに乗る聴き方。その両方を行き来できるところが、この曲の面白さだと思う。",
-      "ここに記したのは編者の聴感です。"
+      "「Shadrach」には、音源とは別にたどってみたい映像の制作話がある。アニメーション監督のChris Casadyによれば、MCAはLeRoy Neimanの画集に夢中になり、その絵のようなビデオを作れないかと考えた。出発点は、絵の色だけでなく、厚く塗られた表面の質感だった。",
+      "撮影した演奏の映像をもとに、アクリル絵具で彩色する方法が取られた。身体の動きを絵画へ移し替える試みだった。",
+      "美術を担当したAudri Phillipsも、映像の色が明るい漫画のように調整されかけたとき、MCAが絵画らしさを守ろうとしたことを振り返っている。1989年の『Paul’s Boutique』に入ったこの曲を、今度は「どう絵にしたかったのか」から眺めてみる。音だけでは見えなかった制作のこだわりが、そこにある。ここで紹介した映像と、掲載中の音源動画は別のものとして扱う。"
     ],
     "facts": [
       {
@@ -16076,10 +16248,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の個別照合は継続中。サンプル不使用を意味しません。",
     "listening": [
-      "細かな音の断片と三人の声が、ひとつの流れになる。",
-      "声が交代する瞬間と、ビートの隙間。"
+      "紹介した映像を別途見るときは、身体の動きと絵具の表面を比べてみる。"
     ],
-    "context": "90年代を中心に、その前史と後の展開をBeastie Boysの選曲でつなぐ。",
+    "context": "音源とは別に制作されたミュージックビデオの美術を、参加者の回想から読む。",
     "sources": [
       {
         "label": "Beastie Boys — 公式ディスコグラフィー",
@@ -16090,6 +16261,11 @@
         "label": "Beastie Boys - Topic — Shadrach",
         "url": "https://www.youtube.com/watch?v=H0OCjq418V4",
         "kind": "公式音源（公開情報で投稿者を確認）"
+      },
+      {
+        "label": "The Moveable Fest — Democratizing Cinema: The Filmmaking Legacy of Adam Yauch",
+        "url": "https://moveablefest.com/oscilloscope-adam-yauch-filmmaking/",
+        "kind": "制作参加者Chris Casady・Audri Phillipsの登壇取材"
       }
     ],
     "producers": [],
@@ -16105,6 +16281,18 @@
     "collections": [
       "pizza",
       "east"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        2,
+        0
+      ]
     ]
   },
   {
@@ -16363,12 +16551,12 @@
       "lettering": "subway",
       "letteringNote": "曲ごとの独自の編集表現。"
     },
-    "deck": "低音のうねりと、三人の声の距離感を楽しむ。",
-    "essayTitle": "低いところから、景色が動く。",
+    "deck": "Jimmy Smithの1972年のライブ録音が、1994年のBeastie Boysへつながっている。",
+    "essayTitle": "Root DownからJimmy Smithのライブ盤へ",
     "essay": [
-      "低い音が、曲の床をつくる。その上で声が動くと、同じ場所にいながら景色だけが変わっていくように聞こえる。",
-      "一人の声だけを追っていた耳が、いつのまにか三人の受け渡しを追い始める。主役が交代しても、グルーヴの居場所は変わらない。",
-      "ここに記したのは編者の聴感です。"
+      "「Root Down」の先には、Jimmy Smithのライブ盤がある。Verveの公式解説は、1972年の『Root Down』の表題曲がBeastie Boysにサンプリングされたことを明記している。曲目に載る名前は「Root Down (And Get It)」。同じ言葉が、二つのレコードを結んでいる。",
+      "その元のアルバムは、1972年にロサンゼルスで録音されたもの。オルガン奏者Smithを囲んだ若いバンドには、当時のファンクやロックからの影響があったという。ヒップホップから元の一曲へさかのぼると、ジャンル名だけでは見つけにくい隣り合い方が見えてくる。",
+      "Beastie Boysの曲は、まず1994年の『Ill Communication』に収録された。翌1995年には同名EPが出て、LP版に加えてFree Zone Mix、PP Balloon Mixも並んだ。ここで取り上げるのはアルバムの「Root Down」。元ネタを探す道と、別ミックスを比べる道を、分けてたどれる一曲だ。"
     ],
     "facts": [
       {
@@ -16389,10 +16577,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の個別照合は継続中。サンプル不使用を意味しません。",
     "listening": [
-      "低音のうねりと、三人の声の距離感を楽しむ。",
-      "声が交代する瞬間と、ビートの隙間。"
+      "低音の動きを追い、Jimmy Smithの原曲や別ミックスと版名を確かめながら比べてみる。"
     ],
-    "context": "90年代を中心に、その前史と後の展開をBeastie Boysの選曲でつなぐ。",
+    "context": "サンプル元のライブ盤と、アルバム版・EPの別ミックスを分けて読む。",
     "sources": [
       {
         "label": "Beastie Boys — 公式ディスコグラフィー",
@@ -16403,6 +16590,16 @@
         "label": "BeastieBoysVEVO — Beastie Boys - Root Down",
         "url": "https://www.youtube.com/watch?v=Xf1YF_MH1xc",
         "kind": "公式音源（公開情報で投稿者を確認）"
+      },
+      {
+        "label": "Verve — Jimmy Smith: Root Down (Acoustic Sounds Series)",
+        "url": "https://store.ververecords.com/products/jimmy-smith-root-down-acoustic-sounds-series",
+        "kind": "サンプル元レーベル公式情報"
+      },
+      {
+        "label": "Beastie Boys公式ストア — Root Down LP",
+        "url": "https://shopus.beastieboys.com/products/root-down-lp",
+        "kind": "アーティスト公式作品情報"
       }
     ],
     "producers": [],
@@ -16422,7 +16619,19 @@
     "editorialCrates": [
       "funk-soul"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        0,
+        3
+      ]
+    ]
   },
   {
     "id": "beastie-boys-pass-the-mic",
@@ -16785,12 +16994,12 @@
       "lettering": "subway",
       "letteringNote": "曲ごとの独自の編集表現。"
     },
-    "deck": "耳に残る反復と、声の勢いを楽しむ。",
-    "essayTitle": "短いフックは、長く残る。",
+    "deck": "曲名のカクテルは何だったのか。Mike Dへの取材で、よく似た別の飲み物との違いがわかる。",
+    "essayTitle": "Brass Monkeyは何の飲み物だったのか",
     "essay": [
-      "短いフックが、何度も戻ってくる。一度覚えると、こちらの頭の中でも勝手に続きが始まる。なかなか勤勉なフレーズである。",
-      "繰り返しに乗る声の勢いと、ビートの間合い。細かな説明より、その二つの噛み合わせをまず楽しみたい。",
-      "ここに記したのは編者の聴感です。"
+      "「Brass Monkey」は、どんな酒を歌った曲なのか。番組『Sideshow』のSean Rameswaramは、モルトリカーにオレンジジュースを混ぜた飲み物だと思っていた。友人から、この曲と同じものだと教わっていたからだ。",
+      "ところがMike D本人に尋ねると、話が合わなかった。彼が説明したのは、ウォッカ、ダークラム、オレンジジュースをあらかじめ混ぜて売っていたカクテル。2014年6月に放送された取材は、覚えていた曲名と、思い描いていた飲み物が別物だったことを明らかにした。",
+      "1986年の『Licensed to Ill』に入ったこの曲には、そんな身近な商品の名前が残っている。ただの景気のいい合言葉として受け取るより、三人が具体的な飲み物について歌っていたと知ると、タイトルが少し近くなる。由来を知る楽しさは、必ずしも大きな伝説でなくていい。"
     ],
     "facts": [
       {
@@ -16811,10 +17020,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の個別照合は継続中。サンプル不使用を意味しません。",
     "listening": [
-      "耳に残る反復と、声の勢いを楽しむ。",
-      "声が交代する瞬間と、ビートの隙間。"
+      "曲名の由来を踏まえ、声が掛け合う箇所に注目してみる。"
     ],
-    "context": "90年代を中心に、その前史と後の展開をBeastie Boysの選曲でつなぐ。",
+    "context": "曲名の飲み物を、Mike Dへの取材から確かめる。",
     "sources": [
       {
         "label": "Beastie Boys — 公式ディスコグラフィー",
@@ -16825,6 +17033,11 @@
         "label": "Beastie Boys - Topic — Brass Monkey",
         "url": "https://www.youtube.com/watch?v=acY2VSskD80",
         "kind": "公式音源（公開情報で投稿者を確認）"
+      },
+      {
+        "label": "PRX / Sideshow — Hip-Hop, 40s, and the Myth of the Brass Monkey",
+        "url": "https://theworld.org/episodes/2015/08/19/33-hip-hop-40s-and-myth-brass-monkey",
+        "kind": "取材者Sean RameswaramによるMike Dへの直接取材報告"
       }
     ],
     "producers": [],
@@ -16840,6 +17053,18 @@
     "collections": [
       "pizza",
       "east"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        0,
+        2
+      ]
     ]
   },
   {
@@ -16888,12 +17113,12 @@
       "lettering": "subway",
       "letteringNote": "曲ごとの独自の編集表現。"
     },
-    "deck": "ラップの語り口と、音の隙間に耳を向ける。",
-    "essayTitle": "声が進める、小さな物語。",
+    "deck": "MCAが試したのは、ビートの逆回転。Mike Dの回想から、その作り方をたどる。",
+    "essayTitle": "逆回転のビートを作ったMCAの実験",
     "essay": [
-      "声を追ううちに、曲を聴くことと話の続きを待つことが、少しずつ同じになる。ラップの語り口そのものが、こちらを先へ連れていく。",
-      "音の隙間があるから、声の輪郭がよく見える。派手に埋めるより、何を残すか。その選び方を楽しみたい。",
-      "ここに記したのは編者の聴感です。"
+      "「Paul Revere」のビートには、MCAの実験が残っている。Rolandの記事が紹介するMike Dの回想によれば、MCAは808のビートを別のテープへ録音し、向きを反転させて元のマルチトラックへ戻した。出来上がった逆回転のビートが、この曲の核になったという。",
+      "その808にも来歴がある。2018年のNPRのインタビューでAd-Rockは、中古楽器店でギターを買うつもりが、同じ250ドルのドラムマシンを選んだと話している。それが後に彼らの録音に使われ、Mike Dは例として「Paul Revere」の名を挙げた。",
+      "1986年の『Licensed to Ill』に収まった一曲を、機材の側から見直してみる。新しい音を手に入れる方法は、新しい楽器を増やすことだけではない。すでにあるビートの向きを変える。その発想を入口に、声の下で繰り返されるリズムを追ってみたい。"
     ],
     "facts": [
       {
@@ -16914,10 +17139,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の個別照合は継続中。サンプル不使用を意味しません。",
     "listening": [
-      "ラップの語り口と、音の隙間に耳を向ける。",
-      "声が交代する瞬間と、ビートの隙間。"
+      "声とドラムを分け、テープ操作の回想を手掛かりにリズムを追ってみる。"
     ],
-    "context": "90年代を中心に、その前史と後の展開をBeastie Boysの選曲でつなぐ。",
+    "context": "MCAのテープ操作と808の来歴を、メンバーの回想から読む。",
     "sources": [
       {
         "label": "Beastie Boys — 公式ディスコグラフィー",
@@ -16928,6 +17152,16 @@
         "label": "Beastie Boys - Topic — Paul Revere",
         "url": "https://www.youtube.com/watch?v=kdfF0cOC50w",
         "kind": "公式音源（公開情報で投稿者を確認）"
+      },
+      {
+        "label": "NPR / NCPR — Beastie Boys本人インタビュー（2018）",
+        "url": "https://www.northcountrypublicradio.org/news/npr/659697200/the-beastie-boys-on-their-hip-hop-journey-and-missing-adam-yauch",
+        "kind": "メンバー本人のインタビュー書き起こし"
+      },
+      {
+        "label": "Roland — Sound Behind the Song: Paul Revere",
+        "url": "https://articles.roland.com/paul-revere-beastie-boys/",
+        "kind": "機材メーカー記事／Mike Dの2012年証言を明示転載"
       }
     ],
     "producers": [],
@@ -16943,6 +17177,18 @@
     "collections": [
       "pizza",
       "east"
+    ],
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        2
+      ],
+      [
+        0,
+        3
+      ]
     ]
   },
   {
