@@ -56017,7 +56017,7 @@
         "url": "https://www.youtube.com/watch?v=35g7cZEW9Aw",
         "kind": "配信メタデータ",
         "verified": "2026-10-18",
-        "scope": "タイトル・投稿者・説明欄・長さ・埋込宣言を照合。実再生の確認とは区別。"
+        "scope": "タイトル・投稿者・説明欄・長さ・埋込宣言を照合。実再生の確認とは区別。 2026年10月21日の地域宣言は米国のみで、日本を含まないため再生先には使っていません。"
       },
       {
         "label": "Dr. Octagonecologyst IVC Edition, Interscope",
@@ -56053,6 +56053,13 @@
         "label": "原盤・レーベル表記：www.irishtimes.com",
         "url": "https://www.irishtimes.com/culture/dance-1.60458",
         "scope": "Contemporary June 21 1996 album review prints Mo Wax/Bulk, MWO46CD. Supports original-period label wording, not edition chronology or first-release day."
+      },
+      {
+        "label": "YouTube：TONES' TUNES — Dr. Octagon - Bear Witness",
+        "url": "https://www.youtube.com/watch?v=_dC7jx1iqxY",
+        "kind": "非公式参考投稿のメタデータ",
+        "verified": "2026-10-21",
+        "scope": "原作アルバム名・Automator・181秒を照合。JPを含む地域宣言と埋め込み許可を確認。実再生・音声同一性は未確認。"
       }
     ],
     "connections": [],
@@ -56066,7 +56073,7 @@
     ],
     "editorialCrates": [],
     "audioVerificationStatus": "metadata_qualified_playback_unverified",
-    "editorialStatus": "掲載音源のメタデータを照合。実再生は未確認です。",
+    "editorialStatus": "日本を含む配信地域と埋め込み許可のメタデータを確認した参考投稿です。日本国内での実再生・音声の同一性は未確認です。",
     "noteReviewedAt": "2026-10-18",
     "addedOrder": 483,
     "versionBasis": "Original circa-three-minute album recording, also subtitled Q-Bert’s Story. Not the 6:46 Automator re-edit or Bear Witness IV.",
@@ -56075,19 +56082,25 @@
       "Dr Octagon — Bear Witness"
     ],
     "youtube": {
-      "id": "35g7cZEW9Aw",
-      "url": "https://www.youtube.com/watch?v=35g7cZEW9Aw",
-      "title": "Bear Witness",
-      "channel": "Dr. Octagon - Topic",
-      "type": "公式配信",
-      "official": true,
-      "verified": "2026-10-18",
+      "id": "_dC7jx1iqxY",
+      "url": "https://www.youtube.com/watch?v=_dC7jx1iqxY",
+      "title": "Dr. Octagon - Bear Witness",
+      "channel": "TONES' TUNES",
+      "type": "参考投稿（非公式）",
+      "official": false,
+      "verified": "2026-10-21",
       "duration": "PT3M1S",
-      "version": "Original circa-three-minute album recording, also subtitled Q-Bert’s Story. Not the 6:46 Automator re-edit or Bear Witness IV.",
-      "versionBasis": "Title/album/producer/runtime agree with licensed Qobuz and label original-version listings. Metadata qualified, not actual playback.",
-      "embedUrl": "https://www.youtube.com/embed/35g7cZEW9Aw",
+      "version": "Metadata consistent with the circa-three-minute album recording (Q-Bert’s Story), not the6:46 re-edit or Bear Witness IV; audio equivalence unverified.",
+      "versionBasis": "投稿説明の原作アルバム名・Automatorの制作表記と181秒の長さが、約3分のアルバム版の資料と整合します。1997年表記は投稿説明のDreamWorks盤を指し、原作1996年とは区別します。波形・マスターの同一性、実再生、日本国内での実再生は未確認です。",
+      "embedUrl": "https://www.youtube.com/embed/_dC7jx1iqxY",
       "playbackVerified": false,
-      "embeddedPlaybackVerified": false
+      "embeddedPlaybackVerified": false,
+      "japanRegionStatus": "included",
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "regionMetadataCheckedAt": "2026-10-21",
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false
     },
     "art": {
       "word": "BEAR WITNESS",

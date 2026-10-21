@@ -5,6 +5,8 @@ R=Path(__file__).resolve().parents[1]
 F=json.loads((R/'scripts/fixtures/approved-live-video-year-labels.json').read_text())
 sha=lambda b:hashlib.sha256(b).hexdigest()
 def historical_live_video_year_labels_file(path,data):
+ from approved_bear_witness_region import historical_bear_witness_region_file
+ data=historical_bear_witness_region_file(path,data)
  c=F['files'].get(path)
  if c is None:return data
  assert sha(data)==c['afterSHA256'],'Unapproved video-year drift: '+path
