@@ -10395,11 +10395,11 @@
       "lettering": "subway",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "ジャズの輪郭を残したまま、言葉の居場所をつくる。",
-    "essayTitle": "ジャズの輪郭、声の拍、動く低音",
+    "deck": "サンプルの共有にも、仲間へのひと言があった。",
+    "essayTitle": "同じネタを、友人とは違う形に。",
     "essay": [
-      "ジャズの輪郭を残したまま、言葉の居場所をつくる。",
-      "ジャズらしい輪郭と、声がつくる拍を別々に追ってみる。洒落た雰囲気だけで聴き終えず、低音の動きにも耳を置いておきたい。"
+      "Ladybug Meccaによると、Art Blakeyの「Stretchin’」はIshの友人が別の曲で既に使っていた。",
+      "Ishは友人に断ってから、違う形に組み替えたという。同じレコードから別の曲を作る、その出発点に敬意があった。"
     ],
     "facts": [
       {
@@ -10413,14 +10413,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "ジャズの輪郭を残したまま、言葉の居場所をつくる。"
+      "ネタの珍しさだけでなく、使い方の違いに目を向けたい。"
     ],
-    "context": "ジャズらしい輪郭と、声がつくる拍を別々に追ってみる。洒落た雰囲気だけで聴き終えず、低音の動きにも耳を置いておきたい。",
+    "context": "Meccaの回想からたどる制作。",
     "sources": [
       {
         "label": "YouTube — Digable Planets / Rebirth of Slick (Cool Like Dat)",
         "url": "https://www.youtube.com/watch?v=cM4kqL13jGM",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Digable Planets — Cool Like That / Pitchfork",
+        "url": "https://pitchfork.com/thepitch/1190-cool-like-that-the-reunited-digable-planets-look-back/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -10441,7 +10446,15 @@
       "jazz-mellow"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "digable-planets-9th-wonder-blackitolism",
@@ -10490,11 +10503,11 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "柔らかい音にも、街の体温と芯がある。",
-    "essayTitle": "柔らかな響きに埋もれない声の芯",
+    "deck": "プロデューサー名の由来を、本人がこの曲へ結びつけている。",
+    "essayTitle": "曲名が、次の作り手の名前になった。",
     "essay": [
-      "柔らかい音にも、街の体温と芯がある。",
-      "柔らかい響きの内側に、声の芯を探してみる。穏やかに聞こえることと、主張が薄いことは同じではない。その違いを音から感じたい。"
+      "プロデューサーの9th Wonderは、Kam Williamsの取材で、自分の名はDigable Planetsの曲名から取ったと説明している。曲を作ったのが同名の彼、という話ではない。",
+      "短く呼んでも形を変えても響きが残る名前を探し、紙に候補を書き並べた。その中で気に入ったのが9th Wonderだったという。音を引用しなくても、好きな曲を自分の活動へ持ち込む方法はある。"
     ],
     "facts": [
       {
@@ -10508,14 +10521,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "柔らかい音にも、街の体温と芯がある。"
+      "この曲から、名を受け取ったプロデューサーの仕事へ辿ってみる。"
     ],
-    "context": "柔らかい響きの内側に、声の芯を探してみる。穏やかに聞こえることと、主張が薄いことは同じではない。その違いを音から感じたい。",
+    "context": "曲名から芸名へ続く、本人が明かしたつながり。",
     "sources": [
       {
         "label": "YouTube — Digable Planets / 9th Wonder (Blackitolism)",
         "url": "https://www.youtube.com/watch?v=8QGLnq9VYxA",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "9th Wonder interview / Kam Williams, AALBC",
+        "url": "https://aalbc.com/interview/behold-the-9th-wonder-of-the-world",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -10532,7 +10550,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "us3-cantaloop-flip-fantasia",
@@ -10581,11 +10607,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "ジャズの記憶を、広く開かれたグルーヴへ。",
-    "essayTitle": "ジャズの響きをラップの足場に",
+    "deck": "Hancockの演奏から使ったのは、各1小節の三つの断片。",
+    "essayTitle": "三つの1小節で、ジャズの続きを組み立てる。",
     "essay": [
-      "ジャズの記憶を、広く開かれたグルーヴへ。",
-      "親しみのあるジャズの響きが、ラップの足場としてどう動くかを聴く。元の曲へ戻る前にも、ここでのドラムと声の関係を味わっておきたい。"
+      "Geoff Wilkinsonによると、「Cantaloop」に使ったHerbie Hancockの「Cantaloupe Island」は三つの1小節サンプル。長い演奏をそのまま流したわけではない。",
+      "主軸になる1小節を出し入れし、コーラスの途中で切り替え、コーラスの最後に第三の断片を置く。本人の説明を手掛かりにすると、反復そのものよりも、反復の切り替えで曲を進める設計が見えてくる。"
     ],
     "facts": [
       {
@@ -10616,10 +10642,9 @@
     ],
     "sampleStatus": "代表的な素材を資料で確認",
     "listening": [
-      "ジャズの記憶を、広く開かれたグルーヴへ。",
-      "Herbie Hancockの「Cantaloupe Island」へ戻り、素材と完成した曲で音の役割がどう変わるかを確かめる。"
+      "コーラス中盤と末尾を、断片の切り替わる場所として確かめたい。"
     ],
-    "context": "親しみのあるジャズの響きが、ラップの足場としてどう動くかを聴く。元の曲へ戻る前にも、ここでのドラムと声の関係を味わっておきたい。",
+    "context": "Wilkinson本人による、原曲の組み立て方。",
     "sources": [
       {
         "label": "YouTube — US3 / Cantaloop (Flip Fantasia)",
@@ -10630,6 +10655,11 @@
         "label": "US3, Cantaloop (flip fantasia) | Samples.fr",
         "url": "https://www.samples.fr/2006/09/16/us3-cantaloop-flip-fantasia/",
         "kind": "サンプル関係の調査資料"
+      },
+      {
+        "label": "Geoff Wilkinson — Hand On The Torch track-by-track / MusicRadar",
+        "url": "https://www.musicradar.com/news/tech/classic-album-geoff-wilkinson-on-us3s-hand-on-the-torch-640876",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -10650,7 +10680,15 @@
       "jazz-mellow"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "the-roots-proceed",
@@ -10698,11 +10736,11 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "演奏とラップの呼吸が、一緒に動く。",
-    "essayTitle": "生演奏とラップが重なる場所",
+    "deck": "Black Thoughtが振り返るのは、Malik Bとのライブの積み重ね。",
+    "essayTitle": "ステージで磨いた二人の呼吸を、テープへ。",
     "essay": [
-      "演奏とラップの呼吸が、一緒に動く。",
-      "演奏の動きとラップの動きが、どこで重なるかを追ってみる。生演奏という言葉でひとまとめにせず、音ごとの役割まで聴くと面白い。"
+      "Black Thoughtは「Proceed」を、Malik Bとの呼吸がよく表れた曲として挙げている。二人はライブで本編の曲に入る前から即興を交わし、そのやり取りを重ねていた。",
+      "Rolling Stoneの取材では、初期の録音をSigma Soundの狭い部屋でテープを回しながら言葉を出していく作業と説明し、この曲もその一つだったと話す。演奏するバンドというだけでなく、MC同士が現場で育てた関係の記録としても聴ける。"
     ],
     "facts": [
       {
@@ -10716,14 +10754,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "演奏とラップの呼吸が、一緒に動く。"
+      "Black ThoughtとMalik Bの受け渡しに注目したい。"
     ],
-    "context": "演奏の動きとラップの動きが、どこで重なるかを追ってみる。生演奏という言葉でひとまとめにせず、音ごとの役割まで聴くと面白い。",
+    "context": "原曲の回想。Roy Ayers参加の「Proceed II」とは分けて扱う。",
     "sources": [
       {
         "label": "YouTube — The Roots / Proceed",
         "url": "https://www.youtube.com/watch?v=Fw7caqtWAZI",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Black Thought: My Life in 20 Songs / Jason Newman, Rolling Stone",
+        "url": "https://au.rollingstone.com/music/music-lists/roots-black-thought-songs-35967/theres-something-goin-on-1995-35969/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -10740,7 +10783,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "the-roots-what-they-do",
@@ -10789,11 +10840,11 @@
       "lettering": "tag",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "滑らかな響きの中で、声の距離感を味わう。",
-    "essayTitle": "滑らかな響きから、言葉へ戻る距離",
+    "deck": "Questloveが後から気づいた、Biggieの映像との重なり。",
+    "essayTitle": "風刺の映像が、意図しない相手を指した。",
     "essay": [
-      "滑らかな響きの中で、声の距離感を味わう。",
-      "滑らかな響きの向こうで、声がどのくらい近くに置かれているかを聴く。背景の心地よさに包まれたまま、言葉へ戻れる距離がある。"
+      "「What They Do」の映像について、QuestloveはMark Ronsonとの対談で、Charles Stoneに任せていたと振り返る。Biggieの「One More Chance」を思わせる場面には、後から気づいたという。",
+      "撮影現場では特定の相手への攻撃に見えず、そう気づいていれば止めていた、とも話している。映像がどう受け取られたかと、本人が説明する意図は分けておきたい。曲をそのまま個人へのディスと決めつけるのは早い。"
     ],
     "facts": [
       {
@@ -10807,14 +10858,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "滑らかな響きの中で、声の距離感を味わう。"
+      "曲と公式映像を、別々の表現として見比べたい。"
     ],
-    "context": "滑らかな響きの向こうで、声がどのくらい近くに置かれているかを聴く。背景の心地よさに包まれたまま、言葉へ戻れる距離がある。",
+    "context": "2021年のQuestlove本人による回想に基づく。",
     "sources": [
       {
         "label": "TheRootsVEVO — The Roots - What They Do (Official Music Video)",
         "url": "https://www.youtube.com/watch?v=_qzacv8dtb4",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Questlove / The FADER Uncovered with Mark Ronson",
+        "url": "https://www.thefader.com/2021/05/10/questlove-on-phrenology-philly-soul-and-talking-the-simpsons-with-jay-z",
+        "kind": "本人インタビュー・公式文字起こし"
       }
     ],
     "producers": [
@@ -10836,7 +10892,15 @@
       "jazz-mellow"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "common-i-used-to-love-h-e-r",
@@ -10974,12 +11038,11 @@
       "lettering": "stencil",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "90年代のソウル感が、次の十年へ続いていく。",
-    "essayTitle": "90年代のソウル感が、次の十年へ続いていく。",
+    "deck": "言葉を埋めて録り直すより、残したい声があった。",
+    "essayTitle": "完成させても、最初の声を超えられなかった。",
     "essay": [
-      "90年代のソウル感が、次の十年へ続いていく。",
-      "大きな声を出すことだけが、ラップの説得力ではない。言葉を運ぶ速度と、音の余韻を残す間合い。そこにCommonをこの棚へ置く理由がある。",
-      "90年代の音の感覚が、その後へどう受け継がれたかを聴く。"
+      "Commonは「The Light」の制作を振り返り、歌詞を書き終える前に声を録っていたと明かしている。言葉をまだ埋めていない箇所も、リズムを口にして録音を進めた。",
+      "後でそこに入れる一節を考え、少なくとも20回は録り直したものの、最初のテイクより良くならなかったという。完成した文章が、必ずしも最良の録音ではない。この曲には、その判断が残っている。"
     ],
     "facts": [
       {
@@ -10998,7 +11061,7 @@
         "main": true,
         "role": "声と旋律の主要素材。細かな切り出し位置は未検証。",
         "sources": [
-          1
+          2
         ],
         "youtube": {
           "id": "ApjR5hU3pSE",
@@ -11010,11 +11073,9 @@
     ],
     "sampleStatus": "代表的な素材を資料で確認",
     "listening": [
-      "90年代のソウル感が、次の十年へ続いていく。",
-      "声が入る前のビートと、声が入ったあとの重心を聴き比べる。",
-      "Bobby Caldwellの「Open Your Eyes」へ戻り、素材と完成した曲で音の役割がどう変わるかを確かめる。"
+      "言葉が途切れてリズムになる箇所を、制作時の選択と結びつけて聴きたい。"
     ],
-    "context": "90年代の音の感覚が、その後へどう受け継がれたかを聴く。",
+    "context": "Common自身が語る、残された未完成テイク。",
     "sources": [
       {
         "label": "YouTube — Common / The Light",
@@ -11025,6 +11086,11 @@
         "label": "Amerigo Gazaway's 'The Light (I'm Yours)' sample of Common's 'The Light' | WhoSampled",
         "url": "https://www.whosampled.com/sample/520195/Amerigo-Gazaway-The-Light-%28I%27m-Yours%29-Common-The-Light/",
         "kind": "サンプル関係の調査資料"
+      },
+      {
+        "label": "Common — The Making of The Light / RapIndustry",
+        "url": "https://rapindustry.com/common-the-making-of-the-light/",
+        "kind": "本人映像インタビュー掲載文字起こし"
       }
     ],
     "producers": [
@@ -11044,7 +11110,15 @@
     "editorialCrates": [
       "jazz-mellow"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "mos-def-ms-fat-booty",
@@ -11092,11 +11166,11 @@
       "lettering": "subway",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "ソウルの声の断片が、物語の入口になる。",
-    "essayTitle": "巡るソウルの声、先へ進む語り",
+    "deck": "Ayatollahは、素材にする前から歌へ入り込んでいた。",
+    "essayTitle": "切り取る前に、Arethaの一曲を聴き込む。",
     "essay": [
-      "ソウルの声の断片が、物語の入口になる。",
-      "声の断片が巡る場所を入口にして、ラップの語りへ進んでみる。同じ響きが戻ってくるのに、話は同じ場所にとどまらない。その運びを楽しみたい。"
+      "Gino Sorcinelliがまとめた制作記事によると、AyatollahはAretha Franklinの「One Step Ahead」をすぐ切り刻まず、繰り返し聴いた。記事が紹介する本人の証言では、まず歌声や曲の雰囲気を感じたかったという。",
+      "記事はさらに、ビートを複数の形に作ってから選んだと説明する。よい素材を見つければ完成、ではない。元の歌を受け止める時間と、組み替えて選ぶ時間の両方が、この曲への入口になる。"
     ],
     "facts": [
       {
@@ -11127,10 +11201,9 @@
     ],
     "sampleStatus": "代表的な素材を資料で確認",
     "listening": [
-      "ソウルの声の断片が、物語の入口になる。",
-      "Aretha Franklinの「One Step Ahead」へ戻り、素材と完成した曲で音の役割がどう変わるかを確かめる。"
+      "Mos Defの語りと並ぶ歌声を、元のArethaの曲へも辿ってみたい。"
     ],
-    "context": "声の断片が巡る場所を入口にして、ラップの語りへ進んでみる。同じ響きが戻ってくるのに、話は同じ場所にとどまらない。その運びを楽しみたい。",
+    "context": "制作証言を紹介したSorcinelliの記事に基づく。",
     "sources": [
       {
         "label": "YouTube — Mos Def / Ms. Fat Booty",
@@ -11141,6 +11214,11 @@
         "label": "Ms. Fat Sample | Radio Milwaukee",
         "url": "https://radiomilwaukee.org/2013-06-07/ms-fat-sample",
         "kind": "サンプル関係の調査資料"
+      },
+      {
+        "label": "Gino Sorcinelli — A Forgotten Aretha Franklin Single / Micro-Chop",
+        "url": "https://microchop.substack.com/p/a-forgotten-aretha-franklin-single",
+        "kind": "記名専門ライターによる制作解説・本人証言紹介"
       }
     ],
     "producers": [
@@ -11158,7 +11236,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "black-star-definition",
@@ -11206,11 +11292,11 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "二人の声が、同じ方向へ力強く進む。",
-    "essayTitle": "二人の声、重なる力と異なる輪郭",
+    "deck": "Hi-Tekの物足りなさは、「Re:Definition」へ続く。",
+    "essayTitle": "作り込みたい人が残した、シンプルな原曲。",
     "essay": [
-      "二人の声が、同じ方向へ力強く進む。",
-      "二人の声が同じ方向を向く瞬間と、違う輪郭を見せる瞬間を聴く。力強さの中にも受け渡しがある。そのやりとりを追うと曲が近づいてくる。"
+      "Hi-Tekによると、Mos DefはRawkusのオフィスでフックを歌い、「P Is Free」のビートを作り直す案を持ち込んだ。Hi-Tekが仕上げた「Definition」をMosは気に入ったが、作り手自身にはシンプルすぎると感じられた。",
+      "もっと技巧的に変形させたい。その気持ちから生まれたのが、別曲の「Re:Definition」だったという。原曲を未完成扱いするのではなく、同じ出発点から二つの答えが並んだと捉えると、両曲の聴き比べが面白くなる。"
     ],
     "facts": [
       {
@@ -11224,14 +11310,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "二人の声が、同じ方向へ力強く進む。"
+      "「Definition」と「Re:Definition」は別々に再生して比べたい。"
     ],
-    "context": "二人の声が同じ方向を向く瞬間と、違う輪郭を見せる瞬間を聴く。力強さの中にも受け渡しがある。そのやりとりを追うと曲が近づいてくる。",
+    "context": "Hi-Tekの制作回想に基づく、二つの曲の関係。",
     "sources": [
       {
         "label": "YouTube — Black Star / Definition",
         "url": "https://www.youtube.com/watch?v=EuJaStSL0xM",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Hi-Tek — Beat Break / DJBooth",
+        "url": "https://djbooth.net/features/2017-09-22-hi-tek-interview-beat-break/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -11252,7 +11343,15 @@
       "mic-skills"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "pharoahe-monch-simon-says",
@@ -11300,11 +11399,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "短い音の圧力だけで、場の温度を変える。",
-    "essayTitle": "短い音が戻るたび、増していく圧力",
+    "deck": "Monchが感じたのは、大ヒットの予感よりも強いイメージ。",
+    "essayTitle": "ビートを作りながら、怪獣映画の画が立ち上がる。",
     "essay": [
-      "短い音の圧力だけで、場の温度を変える。",
-      "短い音が戻るたびに、曲の圧力がどう増すかを聴く。多くの材料を探さなくても場の空気は変わる。その切り替わりを身体で確かめたい。"
+      "Pharoahe MonchはWHO?MAGの取材で、「Simon Says」が大ヒットするとは予想していなかったと話す。ただ、ビートを作るうちに、これまでヒップホップで感じたことのないイメージがあったという。",
+      "Godzillaのテーマを選んだ背景を聞かれると、怪獣映画好きで、友人から映画のサウンドトラックの音をもらったと説明している。派手なサンプルというだけでなく、作り手の映画への親しみが曲へ入った例として辿れる。"
     ],
     "facts": [
       {
@@ -11318,14 +11417,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "短い音の圧力だけで、場の温度を変える。"
+      "音からどんな場面が浮かぶか、自分のイメージも重ねてみたい。"
     ],
-    "context": "短い音が戻るたびに、曲の圧力がどう増すかを聴く。多くの材料を探さなくても場の空気は変わる。その切り替わりを身体で確かめたい。",
+    "context": "Rob Schwartzによる本人取材から、原曲の発想を辿る。",
     "sources": [
       {
         "label": "YouTube — Pharoahe Monch / Simon Says",
         "url": "https://www.youtube.com/watch?v=cKsMMoc_oOA",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Pharoahe Monch interview / Rob Schwartz, WHO?MAG",
+        "url": "https://www.whomag.net/pharoah-monch/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -11345,7 +11449,15 @@
       "mic-skills"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "krs-one-mc-s-act-like-they-don-t-know",
