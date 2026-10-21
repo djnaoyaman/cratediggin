@@ -1,0 +1,42 @@
+{
+  "base": "008533741d5607162ce143cbdf483556b70009fd",
+  "assets": [
+    {
+      "id": "diamond-the-psychotic-neurotics-i-went-for-mine",
+      "path": "assets/graffiti/diamond-the-psychotic-neurotics-i-went-for-mine-alpha.webp",
+      "beforeSHA256": "0966676545e9732f7f01303bbdf0a9abe38b047a1f11a4e881b67299a0fffa7d",
+      "afterSHA256": "ceeb3ff3ed9e0feab200a4e9285acda984858e157dcc36e4aec58fb7c446cfaa",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "rgbaSHA256": "8a3c4e5a94f3bbc64c42cc5b51a89faadacfaa297654064c1ccc388bb88cf750"
+    },
+    {
+      "id": "artifacts-whassup-now-muthafucka",
+      "path": "assets/graffiti/artifacts-whassup-now-muthafucka-alpha.webp",
+      "beforeSHA256": "51009c674409987d0c05d007b3185b5860bc3efd217bb1a2c3e704051bfdbf64",
+      "afterSHA256": "b6da85736f9010729254d7ce63e439736ce76dc1505e59aa5272f2f29410bc78",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "rgbaSHA256": "5bd8b62e4a1e68e5ace1ad9528e231d588893989867174c5222ac458100c502c"
+    }
+  ],
+  "beforeVersion": "22.39",
+  "beforeReleaseSHA256": "85af4ada437c621e160bcc42e2d226c2b10d316124a5a983885064750068d71c",
+  "afterReleaseSHA256": "2d071458be3ae5ab3ef35bdbd3427aaf6a25ce1edaf5d33105c1bae9124f1be4",
+  "protected": {
+    "tracks.json": "f8195ac68b04ea63d92a681a11d6909558849ffa1bbe6ef84111a538d4c7fbeb",
+    "graffiti_artwork.json": "fccdb745bbd3b2871ef3b506b3197077f5e6b42cd543cefdbd042a2efb3f9c49",
+    "editorial_deepdives.json": "5b989c85ad5e6b0114a341209da18e6ed05608b71424d5184fe3733dc86436c0",
+    "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+    "artist_entities.json": "be0a95389d26e99480325ad2a7f0872ba3e21e7e58b6cf2b3fd7515d5805469b",
+    "editor_profile.json": "977a36f96e638d8d7fa925235ad9dc70c9e7607ae6d220a43b82b789c8746caa",
+    "src/app/player.js": "6796ca1e0ebe8ede8c3619fd6af2785410d247728bb627e79dceb8769e942c0a",
+    "src/assets/art.js": "bff0c731802e8fc530ce6f29440723c2c860e5da1899459e8498d6680c85e91b",
+    "src/assets/style.css": "b6a2627965e44b62640495ec57d74a819eef054282d86d7bc448341ce26a21c5"
+  },
+  "visualReview": "Full title and artist, light/dark transparency, visible lettering size, original palette and no inside-site branding reviewed independently of alpha bounds."
+}
