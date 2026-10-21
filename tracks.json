@@ -20557,12 +20557,11 @@
       "lettering": "subway",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "続編の数字から、EPMDの時間をたどる。",
-    "essayTitle": "二度目の名前。",
+    "deck": "Erickが女性役を担う、Janeの続編。",
+    "essayTitle": "二人のMCが、登場人物を演じ分ける。",
     "essay": [
-      "同じ名前に数字が付くと、映画なら少し警戒したくなる。ところがレコードでは、その数字が寄り道の標識になる。Jane II。最初のJaneを知っていても、知らなくても、二度目の名前には二度目の用事がある。",
-      "『Unfinished Business』の収録曲として1989年に位置づける。公式動画のアップロード年や、配信欄に現れる後年の日付を、そのまま初出年に置き換えない。年表では、音楽が最初に置かれた棚を見ている。",
-      "EPMDの曲を年代順に並べると、数字の付いた曲名も景色の一部になる。続編を数えるだけではもったいない。同じ二人の声を、違う時期のレコードで聴く。その距離まで楽しめばいい。"
+      "UnkutのRobbie Ettelsonは「Jane II」でErick Sermonが女性役を演じていると解説する。Parrishが出会うKrisは、前作のJaneと同じ人物として描かれるという。",
+      "『Unfinished Business』のこの曲では、誰がラップしているかに加え、誰の役を演じているかも追いたい。二人の掛け合いを、登場人物の会話として読む入口になる。"
     ],
     "facts": [
       {
@@ -20582,11 +20581,9 @@
     ],
     "samples": [],
     "listening": [
-      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
-      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
-      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+      "声の持ち主と、物語で演じている役を分けて追う。"
     ],
-    "context": "1989年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "context": "Robbie Ettelsonの解説から、役の分担を読む。",
     "sources": [
       {
         "label": "EPMD — 採用した公式YouTube音源・版名",
@@ -20597,6 +20594,11 @@
         "label": "Apple Music — Unfinished Business初出情報",
         "url": "https://music.apple.com/us/song/723821329",
         "kind": "配信情報"
+      },
+      {
+        "label": "Robbie Ettelson — Janeシリーズ解説 / Unkut",
+        "url": "https://unkut.com/2017/02/an-in-depth-study-of-epmds-jane-saga/",
+        "kind": "記名批評"
       }
     ],
     "producers": [
@@ -20619,6 +20621,15 @@
     "datePublished": "2026-10-14",
     "artists": [
       "EPMD"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2,
+        1
+      ]
     ]
   },
   {
@@ -20667,12 +20678,11 @@
       "lettering": "subway",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "二人の名前を、一枚のレコードに並べる。",
-    "essayTitle": "相棒がいると、話が変わる。",
+    "deck": "Redman本人が振り返る、歌詞の背景。",
+    "essayTitle": "ラップに残った、舞台での事故。",
     "essay": [
-      "ひとりで済む用事を、わざわざ二人でやる。効率を求める人には勧めにくいが、音楽にはその無駄がよく似合う。Method ManとRedman。名前を並べるだけで、部屋の人口密度が少し上がる。",
-      "『Blackout!』に収められ、公式配信の制作欄ではErick Sermonが確認できる。一人のプロデューサーを辿っているつもりが、別のクルーの声まで視界に入ってくる。クレジットを読む楽しみは、一本道で終わらないところにある。",
-      "片方のソロへ戻ってから、もう一度こちらを聴く。独り言と会話の違いを、勝ち負けに変える必要はない。隣に誰がいるかで、人は別の顔を出す。マイクの前でも、たぶん同じことだ。"
+      "The Real Hip-Hopの取材で、Sherron Shabazzは「Maaad Crew」が舞台での事故に触れていると尋ねた。Redmanはそれを認め、空中演出のロープが切れ、ハーネスから体が外れかけたと振り返る。",
+      "『Blackout!』の一曲を、実際の公演の記憶も含むラップとして聴き直したい。大げさな話と決めつける前に、本人が語った出来事と歌詞を照らし合わせる。"
     ],
     "facts": [
       {
@@ -20685,16 +20695,19 @@
     ],
     "samples": [],
     "listening": [
-      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
-      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
-      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+      "Redmanの事故への言及を、本人の回想と照らす。"
     ],
-    "context": "1999年の位置から、New York / New Jerseyのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "context": "舞台の出来事と歌詞が、本人の証言でつながる。",
     "sources": [
       {
         "label": "Redman — 採用した公式YouTube音源・版名",
         "url": "https://www.youtube.com/watch?v=DdHpRfBBTkQ",
         "kind": "公式配信"
+      },
+      {
+        "label": "Redman本人インタビュー — Sherron Shabazz / The Real Hip-Hop",
+        "url": "https://therealhip-hop.com/from-the-vault-redman/amp/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -20717,6 +20730,14 @@
     "artists": [
       "Method Man",
       "Redman"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
     ]
   },
   {
@@ -20861,12 +20882,11 @@
       "lettering": "subway",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "タイトルの火力より、声の配置を聴く。",
-    "essayTitle": "火をつけたあとで。",
+    "deck": "Keith Murrayの一節を入口に、Def Squadを聴く。",
+    "essayTitle": "ソロ作の最後で、三人のラップを比べる。",
     "essay": [
-      "Open Fire。物騒な名前だが、こちらの仕事は火災報知器を押すことではない。音楽を、音楽として聴く。強い言葉を入口にしても、出口まで強い言葉だけで済ませる必要はない。",
-      "『Double or Nothing』の収録曲として辿れる。Erick Sermonのソロ名義の棚を眺めながら、周囲の声や制作の名札にも目を向ける。アルバムの看板と、一曲のなかで起きていることは、同じ大きさではない。",
-      "曲名に引っ張られて、全部を攻撃性の一語で括るのは簡単だ。いったんその言葉を外して、声の入り方や間を追ってみる。レコードは、説明を短くしすぎたときにも、まだ別の顔を残している。"
+      "『Double or Nothing』の最後に置かれた「Open Fire」には、RedmanとKeith Murrayが参加する。AlbumismのJesse Duckerは、Murrayが16小節に詰め込む音節の多さを聴きどころに挙げている。",
+      "その批評を手がかりに、三人の声だけでなく、一節に言葉をどう収めるかを比べたい。速さを競う曲と決めつけず、同じ曲のなかで各人の言葉の運びを追ってみる。"
     ],
     "facts": [
       {
@@ -20879,15 +20899,23 @@
     ],
     "samples": [],
     "listening": [
-      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
-      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
-      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+      "Duckerが注目するMurrayの一節から、三人の言葉の運びを比べる。"
     ],
-    "context": "1995年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "context": "客演クレジットと、Duckerの具体的な批評を入口にする。",
     "sources": [
       {
         "label": "Erick Sermon — 採用した公式YouTube音源・版名",
         "url": "https://www.youtube.com/watch?v=OzeSJTRhsxo",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Jesse Ducker — Double or Nothing再評 / Albumism",
+        "url": "https://albumism.com/features/erick-sermon-double-or-nothing-album-anniversary",
+        "kind": "記名批評"
+      },
+      {
+        "label": "Erick Sermon / Def Squad — Double Or Nothing曲順・客演表記",
+        "url": "https://ericksermon.bandcamp.com/album/double-or-nothing",
         "kind": "公式配信"
       }
     ],
@@ -20909,6 +20937,15 @@
     "datePublished": "2026-10-14",
     "artists": [
       "Erick Sermon"
+    ],
+    "essaySources": [
+      [
+        1,
+        2
+      ],
+      [
+        1
+      ]
     ]
   },
   {
@@ -20957,12 +20994,11 @@
       "lettering": "subway",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "Shadz of Lingoの名前から、もうひとつの棚へ。",
-    "essayTitle": "少しだけ、道を外れる。",
+    "deck": "ソロ作の中で、Shadz of Lingoに耳を向ける。",
+    "essayTitle": "最後のヴァースから、客演者をたどる。",
     "essay": [
-      "Crazyの前にLilが付いている。大騒ぎをするにも、少しだけで済ませたい日があるのだろう。世の中の用事が全部大げさになるなかで、この小さな前置きには妙に安心させられる。",
-      "『No Pressure』に収録され、Shadz of Lingoを迎えた曲である。公式音源の参加者欄まで辿れば、ソロ名義のレコードが一人だけでできているわけではないことが見える。名前を読み足すほど、音楽の地図は細かくなる。",
-      "この曲から別の参加作品を探してみる。大きな歴史の話にする前に、ひとつの声の行き先を追う。それくらいの寄り道でも、いつもの棚は十分に広くなる。少しだけ道を外れる効き目は、侮れない。"
+      "『No Pressure』の「Lil Crazy」について、AlbumismのJesse DuckerはShadz of Lingoの二人を中心的な聴きどころと評する。なかでも、最後のヴァースを担当するLingoのフロウに注目している。",
+      "Erick Sermonのソロ作だからと、客演を添え物にしない。その指摘を手がかりに最後のヴァースを追い、LingoとKoloradoのデュオへ聴く範囲を広げたい。"
     ],
     "facts": [
       {
@@ -20975,15 +21011,23 @@
     ],
     "samples": [],
     "listening": [
-      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
-      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
-      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+      "Duckerが挙げるLingoの最終ヴァースに注目する。"
     ],
-    "context": "1993年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
+    "context": "名義ではなく、客演者の役割から曲をたどる。",
     "sources": [
       {
         "label": "Erick Sermon — 採用した公式YouTube音源・版名",
         "url": "https://www.youtube.com/watch?v=KbT404LLvAA",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Jesse Ducker — No Pressure再評 / Albumism",
+        "url": "https://albumism.com/features/erick-sermon-debut-solo-album-no-pressure-album-anniversary",
+        "kind": "記名批評"
+      },
+      {
+        "label": "Erick Sermon / Def Squad — Lil Crazy収録作品",
+        "url": "https://ericksermon.bandcamp.com/album/no-pressure",
         "kind": "公式配信"
       }
     ],
@@ -21007,6 +21051,15 @@
     "artists": [
       "Erick Sermon",
       "Shadz of Lingo"
+    ],
+    "essaySources": [
+      [
+        1,
+        2
+      ],
+      [
+        1
+      ]
     ]
   },
   {
