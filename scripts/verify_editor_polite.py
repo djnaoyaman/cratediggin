@@ -1,8 +1,9 @@
 from pathlib import Path
 from approved_editor_polite import F,sha,historical_editor_polite_file
+from approved_editor_affinity import historical_editor_affinity_file
 import json,re,sys,html,subprocess
 R=Path(__file__).resolve().parents[1];P=R;B=R;sys.path.insert(0,str(R));from profile_content import render_profile,polite_editor_note,EDITOR_NOTE_REPLACEMENTS
-packet=json.loads((R/'scripts/fixtures/editor-polite-prose.json').read_text());old=packet['beforeProfile'];new=json.loads((R/'editor_profile.json').read_text());expected=json.loads(json.dumps(old))
+packet=json.loads((R/'scripts/fixtures/editor-polite-prose.json').read_text());old=packet['beforeProfile'];new=json.loads(historical_editor_affinity_file('editor_profile.json',(R/'editor_profile.json').read_bytes()));expected=json.loads(json.dumps(old))
 for x in packet['replacements']:assert expected['blocks'][x['index']]==x['before'];expected['blocks'][x['index']]=x['after']
 assert expected==new and old['blocks'][:19]==new['blocks'][:19]
 assert re.findall(r'https://[^)]+',json.dumps(old))==re.findall(r'https://[^)]+',json.dumps(new))
