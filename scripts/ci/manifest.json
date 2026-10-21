@@ -2016,6 +2016,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "person-photos-browser"
+    },
+    {
+      "id": "editor-affinity",
+      "argv": [
+        "python",
+        "scripts/verify_editor_affinity.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "editor-affinity"
+    },
+    {
+      "id": "editor-affinity-browser",
+      "argv": [
+        "node",
+        "scripts/verify_editor_affinity_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "editor-affinity-browser"
     }
   ],
   "groups": {
@@ -2403,6 +2427,10 @@
       "person-photos",
       "person-photos-browser",
       "person-queue-unit"
+    ],
+    "editor_affinity": [
+      "editor-affinity",
+      "editor-affinity-browser"
     ]
   },
   "runtime_rules": {
@@ -3018,7 +3046,8 @@
       "editor_profile.json",
       "discovery.py",
       "src/app/editorial.js",
-      "src/app/renewal.js"
+      "src/app/renewal.js",
+      "scripts/approved_editor_affinity.py"
     ],
     "scripts/verify_editor_polite_browser.cjs": [
       "editor_profile.json",
@@ -3085,10 +3114,21 @@
       "features.json"
     ],
     "scripts/approved_person_photos.py": [
-      "scripts/fixtures/approved-person-photos.json"
+      "scripts/fixtures/approved-person-photos.json",
+      "scripts/approved_editor_affinity.py"
     ],
     "scripts/ci/test_person_photo_scope.py": [
       "scripts/approved_person_photos.py"
+    ],
+    "scripts/approved_editor_affinity.py": [
+      "scripts/fixtures/approved-editor-affinity.json"
+    ],
+    "scripts/verify_editor_affinity.py": [
+      "scripts/approved_editor_affinity.py",
+      "profile_content.py"
+    ],
+    "scripts/verify_editor_affinity_browser.cjs": [
+      "scripts/fixtures/approved-editor-affinity.json"
     ]
   },
   "policy_paths": [
@@ -3139,7 +3179,9 @@
     "scripts/approved_something.py",
     "scripts/fixtures/approved-something.json",
     "scripts/approved_person_photos.py",
-    "scripts/fixtures/approved-person-photos.json"
+    "scripts/fixtures/approved-person-photos.json",
+    "scripts/approved_editor_affinity.py",
+    "scripts/fixtures/approved-editor-affinity.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -3642,6 +3684,13 @@
         "after_sha256": "d589afc915cda0324e1240461f55b220ee41dcedb4c53057534da1aeae35339a",
         "groups": [
           "editor_polite"
+        ]
+      },
+      {
+        "before_sha256": "d589afc915cda0324e1240461f55b220ee41dcedb4c53057534da1aeae35339a",
+        "after_sha256": "977a36f96e638d8d7fa925235ad9dc70c9e7607ae6d220a43b82b789c8746caa",
+        "groups": [
+          "editor_affinity"
         ]
       }
     ],
