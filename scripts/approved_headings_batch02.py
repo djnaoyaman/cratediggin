@@ -4,6 +4,8 @@ R=Path(__file__).resolve().parents[1]
 F=json.loads((R/'scripts/fixtures/approved-headings-batch02.json').read_text())
 sha=lambda b:hashlib.sha256(b).hexdigest()
 def historical_headings_batch02_file(path,data):
+ from approved_headings_batch03 import historical_headings_batch03_file
+ data=historical_headings_batch03_file(path,data)
  c=F['files'].get(path)
  if c is None:return data
  assert sha(data)==c['afterSHA256'],'Unapproved heading correction drift: '+path

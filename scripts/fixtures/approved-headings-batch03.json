@@ -1,0 +1,393 @@
+{
+  "base": "4d41662758ee9d34540e6612868f59b9921d2226",
+  "batch": 3,
+  "completed": 86,
+  "total": 226,
+  "beforeVersion": "22.47",
+  "rows": [
+    {
+      "id": "de-la-soul-breakadawn",
+      "old": "この曲の聴きどころ",
+      "new": "懐かしい断片に、いまの声が入る",
+      "rationale": "懐かしい響きの反復と声が持ち込む新しい時間の対比を抽出。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "柔らかな断片が、記憶と現在をつなぐ。\n柔らかな断片が巡るところに、声が新しい時間を持ち込む。懐かしく聞こえる響きの中で、何が現在の曲を作っているかを聴きたい。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "black-sheep-the-choice-is-yours-revisited",
+      "old": "この曲の聴きどころ",
+      "new": "呼び掛けに応えて、フロアの輪へ",
+      "rationale": "選択を合言葉にする曲と、呼び掛けによって縮まる距離に焦点。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "選ぶことそのものを、フロアの合言葉にする。\n声の呼び掛けに応じるつもりで聴くと、曲への入り方が変わる。自分の部屋でも、少しだけ輪の中にいる。その距離の縮まりを楽しみたい。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "brand-nubian-slow-down",
+      "old": "この曲の聴きどころ",
+      "new": "軽い足取りに、急がない声の間合い",
+      "rationale": "音の軽さと声の落ち着きの対照を見出し化。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "軽やかな音の上で、声が急がず進む。\n軽い足取りの音に対して、声がどこまで落ち着いていられるかを聴く。急がないことで生まれる説得力もある。その間合いを確かめたい。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "brand-nubian-all-for-one",
+      "old": "この曲の聴きどころ",
+      "new": "声が替われば、ビートの見え方も変わる",
+      "rationale": "同じビートを声の交替で聴き直す本文の観点を抽出。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "声の受け渡しから、グループの楽しさを聴く。\n声の順番が替わるたび、同じビートの別の面を探す。まとまりを聴く日と、一人ずつを追う日で、曲の楽しみ方も変わってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "grand-puba-i-like-it-i-wanna-be-where-you-are",
+      "old": "この曲の聴きどころ",
+      "new": "甘いソウルに、かしこまらないラップ",
+      "rationale": "ソウルの甘さと気楽な声の運びを組み合わせた。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "ソウルの甘さに、ラップの気楽さを重ねる。\n甘い響きの上で、声がかしこまらずに進んでいく。気楽に聞こえる曲ほど、音と言葉の間がよくできている。その居心地を聴きたい。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "digable-planets-rebirth-of-slick-cool-like-dat",
+      "old": "この曲の聴きどころ",
+      "new": "ジャズの輪郭、声の拍、動く低音",
+      "rationale": "本文に示された三つの聴取対象を並べ、雰囲気だけで終えない視点を提示。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "ジャズの輪郭を残したまま、言葉の居場所をつくる。\nジャズらしい輪郭と、声がつくる拍を別々に追ってみる。洒落た雰囲気だけで聴き終えず、低音の動きにも耳を置いておきたい。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "digable-planets-9th-wonder-blackitolism",
+      "old": "この曲の聴きどころ",
+      "new": "柔らかな響きに埋もれない声の芯",
+      "rationale": "柔らかさと主張の薄さを区別する本文の論点を保持。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "柔らかい音にも、街の体温と芯がある。\n柔らかい響きの内側に、声の芯を探してみる。穏やかに聞こえることと、主張が薄いことは同じではない。その違いを音から感じたい。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "us3-cantaloop-flip-fantasia",
+      "old": "この曲の聴きどころ",
+      "new": "ジャズの響きをラップの足場に",
+      "rationale": "素材の出典や切り出し位置ではなく、完成曲での役割へ焦点。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "ジャズの記憶を、広く開かれたグルーヴへ。\n親しみのあるジャズの響きが、ラップの足場としてどう動くかを聴く。元の曲へ戻る前にも、ここでのドラムと声の関係を味わっておきたい。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "the-roots-proceed",
+      "old": "この曲の聴きどころ",
+      "new": "生演奏とラップが重なる場所",
+      "rationale": "生演奏という分類から、音と声の具体的な重なりへ耳を向ける。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "演奏とラップの呼吸が、一緒に動く。\n演奏の動きとラップの動きが、どこで重なるかを追ってみる。生演奏という言葉でひとまとめにせず、音ごとの役割まで聴くと面白い。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "the-roots-what-they-do",
+      "old": "この曲の聴きどころ",
+      "new": "滑らかな響きから、言葉へ戻る距離",
+      "rationale": "背景の心地よさと声への近さを往復する本文の視点を表現。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "滑らかな響きの中で、声の距離感を味わう。\n滑らかな響きの向こうで、声がどのくらい近くに置かれているかを聴く。背景の心地よさに包まれたまま、言葉へ戻れる距離がある。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "common-i-used-to-love-h-e-r",
+      "old": "この曲の聴きどころ",
+      "new": "変わる音楽、物語に残る愛着",
+      "rationale": "音楽との関係を物語として聴く観点を抽出し、個人的体験の断言は避けた。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "音楽との関係を、一つの物語として聴く。\n物語を追ったあと、同じ曲を音楽との距離の話として聴き直したい。好きなものが変わっていくとき、好きだった自分も一緒に残る。その感覚が重なる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "mos-def-ms-fat-booty",
+      "old": "この曲の聴きどころ",
+      "new": "巡るソウルの声、先へ進む語り",
+      "rationale": "声の断片の反復と進行するラップの物語を対比。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "ソウルの声の断片が、物語の入口になる。\n声の断片が巡る場所を入口にして、ラップの語りへ進んでみる。同じ響きが戻ってくるのに、話は同じ場所にとどまらない。その運びを楽しみたい。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "black-star-definition",
+      "old": "この曲の聴きどころ",
+      "new": "二人の声、重なる力と異なる輪郭",
+      "rationale": "同じ方向への力と各声の違いを両立する聴き方を保持。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "二人の声が、同じ方向へ力強く進む。\n二人の声が同じ方向を向く瞬間と、違う輪郭を見せる瞬間を聴く。力強さの中にも受け渡しがある。そのやりとりを追うと曲が近づいてくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "pharoahe-monch-simon-says",
+      "old": "この曲の聴きどころ",
+      "new": "短い音が戻るたび、増していく圧力",
+      "rationale": "短い反復で生まれる圧力という本文の中心に限定。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "短い音の圧力だけで、場の温度を変える。\n短い音が戻るたびに、曲の圧力がどう増すかを聴く。多くの材料を探さなくても場の空気は変わる。その切り替わりを身体で確かめたい。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "krs-one-mc-s-act-like-they-don-t-know",
+      "old": "この曲の聴きどころ",
+      "new": "言葉を際立たせるビートの空白",
+      "rationale": "説得力の源を声だけでなくビートが用意する空間へ求める観点。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "声の説得力と、ビートの明快さが向き合う。\n声の説得力に引かれたら、ビートが用意している空間へ耳を戻す。言葉を際立たせるために何が鳴り、どこが空いているのかを聴きたい。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "krs-one-sound-of-da-police",
+      "old": "この曲の聴きどころ",
+      "new": "重いドラムに噛み合う掛け声",
+      "rationale": "音として身体に届く掛け声とドラムの組み合わせを特定。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "一度で耳に残る声と、重いドラムの噛み合わせ。\n耳に残る掛け声と、重いドラムを交互に追う。言葉が音として身体へ届く瞬間を、この曲の明快さとして感じていたい。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "eric-b-rakim-don-t-sweat-the-technique",
+      "old": "この曲の聴きどころ",
+      "new": "ジャズの勢いと精密なラップの並走",
+      "rationale": "音の熱量と声の精密さが同時に進む本文の対比を抽出。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "ジャズの熱と、ラップの精密さが同じ速度で走る。\n音の勢いと、声の精密な運びを同じ速度で追えるかを試す。細かい仕事が難しい顔をせず聞こえる。その軽やかさにも耳を向けたい。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "das-efx-they-want-efx",
+      "old": "この曲の聴きどころ",
+      "new": "子音も語尾も、跳ねる楽器になる",
+      "rationale": "声を楽器として聴く本文の具体例を見出しの核にした。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "言葉の跳ね方そのものが、楽器のように聞こえる。\n言葉の意味を追う耳を少し休め、声の跳ね方を聴く。子音や語尾まで音楽の動きとして聞こえてくると、ラップが別の楽器にも感じられる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "redman-tonight-s-da-night",
+      "old": "この曲の聴きどころ",
+      "new": "声ネタの先へ、一曲の間合いをたどる",
+      "rationale": "断片として聞いた声から曲全体へ戻る既存記事の視点を採用。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "すでに掲載した声ネタを、今度は一曲として味わう。\n声の質感に耳を置き、次にビートとの間合いを聴く。断片で聞いていた声も、一曲としてたどると、そこへ至る時間まで楽しめる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "naughty-by-nature-hip-hop-hooray",
+      "old": "この曲の聴きどころ",
+      "new": "掛け声に加わる、みんなで聴く楽しさ",
+      "rationale": "個々の細部よりも合唱への参加を中心とする短評の固有角度。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "大勢で声を合わせる楽しさも、ヒップホップの大切な顔。\n掛け声に参加するつもりで聴くと、曲と自分の距離が一気に縮まる。細部を掘る楽しさと、みんなで声を出す楽しさは、同じ棚に置いておきたい。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "a-tribe-called-quest-oh-my-god",
+      "old": "この曲の聴きどころ",
+      "new": "低音の巡りを変えて聴かせる一声",
+      "rationale": "掛け声の入りがビートの感じ方を変える瞬間に焦点。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "低音と掛け声が、輪の温度を上げる。\n低音の巡りと掛け声の入り方を追ってみる。声の一言が、ビートの感じ方まで変える。その短い瞬間に耳を置いていたい。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "a-tribe-called-quest-steve-biko-stir-it-up",
+      "old": "この曲の聴きどころ",
+      "new": "短い反復の上でラップはどこへ動くか",
+      "rationale": "反復素材そのものより声の足取りを追う本文の問いを保持。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "短い断片が、声を動かす足場になる。\n短い音が繰り返される場所で、ラップがどちらへ動くかを聴く。断片そのものより、その上にどんな足取りが生まれるかを追いたい。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "a-tribe-called-quest-we-can-get-down",
+      "old": "この曲の聴きどころ",
+      "new": "ゆったりした声を支える低音の着地点",
+      "rationale": "リラックスした声と揺るがない重心の関係を具体化。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "ゆったりした声でも、ビートの腰は揺るがない。\nゆったりした声に身を任せながら、低音の着地点を追う。リラックスした感触の中にも重心はある。その揺るがなさが気持ちよい。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "a-tribe-called-quest-find-a-way",
+      "old": "この曲の聴きどころ",
+      "new": "柔らかな音と声、その間の余白",
+      "rationale": "継承史の断定を避け、本文が提案する音の距離へ絞った。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "90年代の終盤から、柔らかな音の継承を聴く。\n声と柔らかな音の間に、どれくらい余白があるかを聴く。年代をたどるときも、変わったものと残ったものを、音の距離から探してみたい。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "de-la-soul-ego-trippin-part-two",
+      "old": "この曲の聴きどころ",
+      "new": "声が遊ぶと、音の隙間も動きだす",
+      "rationale": "声の遊びによって背景の隙間まで動いて聞こえる観点を採用。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "遊び心のある声が、音の隙間を跳ね回る。\n声の遊びを追いかけると、背景の隙間まで動いて聞こえる。真っすぐ進むだけでは出会えない面白さを、この曲の中で探したい。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "de-la-soul-ring-ring-ring-ha-ha-hey",
+      "old": "この曲の聴きどころ",
+      "new": "日常の煩わしさを、耳に残る楽しさへ",
+      "rationale": "題材の小ささと曲に変える身軽さという本文の主題を抽出。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "日常の小さな煩わしさも、曲の楽しさへ変える。\n日常の煩わしさが、耳に残る楽しさへ変わってしまう。題材の小ささを気にせず曲にできる、その身軽さにも惹かれる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "queen-latifah-u-n-i-t-y",
+      "old": "この曲の聴きどころ",
+      "new": "太い音の前に立つ、言葉の明快さ",
+      "rationale": "声の押し出しだけでなく言葉の届き方を聴く本文の重点。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "太い音の中に、声の強さと明快さがある。\n太い音の中で、声がどこまではっきり前に立つかを聴く。押し出しの強さだけでなく、言葉を届かせる明快さにも注目したい。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "monie-love-it-s-a-shame-my-sister",
+      "old": "この曲の聴きどころ",
+      "new": "親しい旋律から、ラップの細かな運びへ",
+      "rationale": "旋律の親しみやすさを入口に声の細部へ近づく聴き方を抽出。",
+      "evidence": [
+        {
+          "field": "article_body",
+          "snippet": "ソウルの親しみやすさを、ラップの速さへつなぐ。\n親しみのある旋律と、先へ動くラップを同時に追ってみる。耳を誘う音があるから、声の運びの細かさにも自然に近づける。"
+        }
+      ],
+      "needs_review": false
+    }
+  ],
+  "files": {
+    "tracks.json": {
+      "beforeSHA256": "1389d22f835d0e17bf8e7b86c7caeb4a967ca60eecd0c29b0a5b57fefcc6ffe1",
+      "afterSHA256": "092229fb33dd950626dffe2b32b82bc11a7bfc3c21413f5fcb8407a4744defde"
+    },
+    "releases.json": {
+      "beforeSHA256": "03365db569bc749ddda29a1cc9d1bcfba697e642955a84d5c55e14b4e95ad07f",
+      "afterSHA256": "ab65c0874bf8e51ef43fbe78a4aa09452370bc014f9767b272ff3f84bf345050"
+    }
+  },
+  "protected": {
+    "graffiti_artwork.json": "fccdb745bbd3b2871ef3b506b3197077f5e6b42cd543cefdbd042a2efb3f9c49",
+    "editorial_deepdives.json": "5b989c85ad5e6b0114a341209da18e6ed05608b71424d5184fe3733dc86436c0",
+    "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+    "artist_entities.json": "be0a95389d26e99480325ad2a7f0872ba3e21e7e58b6cf2b3fd7515d5805469b",
+    "src/app/catalog-ui.js": "2566d24be62e0a069bea040046664e301f36333890cf9057667e64866d5c1400",
+    "src/app/song-ui.js": "a96fc013d3e5e4ca3dfe359a8cc78c051fa559a9215d210ee3f84a073891b41a",
+    "src/app/editorial.js": "0e50447ea73ea4dc15fcf27c2f38d8214af89f77590d03a25b39cf4b31e5917d",
+    "src/assets/style.css": "369f75276d3aa790753db69ae410b1c5e24b93c24c8a645c436cf4c6053ef421"
+  }
+}
