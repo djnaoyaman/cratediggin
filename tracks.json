@@ -7946,11 +7946,11 @@
       "lettering": "subway",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "気持ちの揺れと、晴れた音。日常をラップへ持ち込む。",
-    "essayTitle": "晴れた響きの中で、落ち着かない声",
+    "deck": "高校時代の思いを、外の世界へ。",
+    "essayTitle": "高校生の恋愛の悩みが、世界に向けたレコードになる。",
     "essay": [
-      "気持ちの揺れと、晴れた音。日常をラップへ持ち込む。",
-      "晴れたような音の中で、声がどこか落ち着かない。音の明るさと気持ちの明るさを別々に聴くと、日常の複雑さが近づいてくる。"
+      "Large Professorが語る「Looking at the Front Door」の出発点は、高校時代の恋愛の悩みだった。",
+      "父からは、レコードを出すなら世界に語りかけるのだと教わったという。私的な思いが、公に届く言葉になる。"
     ],
     "facts": [
       {
@@ -7964,9 +7964,9 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "気持ちの揺れと、晴れた音。日常をラップへ持ち込む。"
+      "個人の悩みが歌になる距離を考えたい。"
     ],
-    "context": "晴れたような音の中で、声がどこか落ち着かない。音の明るさと気持ちの明るさを別々に聴くと、日常の複雑さが近づいてくる。",
+    "context": "Large Professorの回想から。",
     "sources": [
       {
         "label": "YouTube — 音源を探す",
@@ -7977,6 +7977,11 @@
         "url": "https://www.youtube.com/watch?v=ecsuf_MYrBY",
         "label": "Main Source - Topic — Looking At The Front Door",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Large Professor / Chairman Mao interview — RBMA",
+        "url": "https://daily.redbullmusicacademy.com/2015/02/large-professor-interview/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -7992,7 +7997,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "main-source-just-hangin-out",
@@ -8041,11 +8054,11 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "目的のない時間にも、しっかりしたグルーヴがある。",
-    "essayTitle": "どこへも急がない時間を支えるグルーヴ",
+    "deck": "サンプリングの工夫は、耳に入る音だけにあるとは限らない。",
+    "essayTitle": "ループに残さなかった歌声に、腕が出る。",
     "essay": [
-      "目的のない時間にも、しっかりしたグルーヴがある。",
-      "どこへも急がない気分で、ループの巡りを追ってみる。目的のない時間にも、ちゃんと音楽はある。その居心地を支えるリズムを聴きたい。"
+      "Large ProfessorがVillage Voiceで自慢したのは、「Just Hangin’ Out」に使ったGwen McCrae「90% of Me Is You」のループを取り出す腕だった。他の人が試すと元の歌声が混じるが、自分はそれを避けて抜き出せた、と本人は振り返っている。",
+      "大切なのは、ここで具体的な操作手順までは明かされていないこと。元曲を見つけるだけでは、この仕事の半分しか見えてこない。どの音を残し、どの声を入れないかという選別に目を向けると、ループを作る作業がぐっと具体的になる。"
     ],
     "facts": [
       {
@@ -8059,14 +8072,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "目的のない時間にも、しっかりしたグルーヴがある。"
+      "素材の曲名を当てたあとに、切り取られた範囲にも注意を向ける。"
     ],
-    "context": "どこへも急がない気分で、ループの巡りを追ってみる。目的のない時間にも、ちゃんと音楽はある。その居心地を支えるリズムを聴きたい。",
+    "context": "聴こえるものの背後にある、切り出しの判断。",
     "sources": [
       {
         "label": "Main Source - Topic — Just Hangin' Out",
         "url": "https://www.youtube.com/watch?v=uCz02-4rSOE",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Large Professor, Bigger Than Life — J. Pablo / Village Voice",
+        "url": "https://www.villagevoice.com/large-professor-bigger-than-life/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -8083,7 +8101,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "main-source-live-at-the-barbeque",
@@ -8132,11 +8158,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "次々に声が現れる。マイクの輪から時代をたどる。",
-    "essayTitle": "一つのビートが縁取る、次々に現れる個性",
+    "deck": "Nasの言葉と、スタジオで選ばれた素材。",
+    "essayTitle": "Nasの筆は、自分のヴァースの外にも届いていた。",
     "essay": [
-      "次々に声が現れる。マイクの輪から時代をたどる。",
-      "声が替わるたびに、耳の注目も切り替えてみる。一つのビートに複数の個性が並ぶと、同じ背景がそれぞれ違う額縁になる。"
+      "NasはNPRの取材で、「Live at the Barbeque」ではJoe Fatalのヴァースの一部も書いたと明かしている。自分の声以外にも、参加の跡がある。",
+      "K-CutがNOWに語った制作の場面も興味深い。アルバムにもう一曲必要となり、Nasらを招いたとき、使うサンプルはまだ決まっていなかった。スタジオで45回転盤を探し、Vicki Andersonの曲を選んだという。完成後の名演の順位より、声と素材が集まって一曲になる過程に目を向けたい。"
     ],
     "facts": [
       {
@@ -8150,14 +8176,24 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "次々に声が現れる。マイクの輪から時代をたどる。"
+      "声と素材が集まった経緯から聴き直したい。"
     ],
-    "context": "声が替わるたびに、耳の注目も切り替えてみる。一つのビートに複数の個性が並ぶと、同じ背景がそれぞれ違う額縁になる。",
+    "context": "参加者とサンプルが集まる制作の場。",
     "sources": [
       {
         "label": "YouTube — Main Source / Live at the Barbeque",
         "url": "https://www.youtube.com/watch?v=XmCWfJAPwbA",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Nas / Microphone Check — NPR（NCPR転載）",
+        "url": "https://www.northcountrypublicradio.org/news/npr/305629896/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Still so ill — Julia LeConte / NOW",
+        "url": "https://nowtoronto.com/music/still-so-ill/",
+        "kind": "参加者インタビュー"
       }
     ],
     "producers": [
@@ -8178,7 +8214,15 @@
       "mic-skills"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "the-notorious-b-i-g-juicy",
@@ -8569,11 +8613,11 @@
       "lettering": "stencil",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "音の隙間が、声の質感をそのまま楽しませる。",
-    "essayTitle": "隙間にむき出しになる、声のざらつきと重さ",
+    "deck": "サンプルを長く借りるのではなく、音の材料として演奏する。",
+    "essayTitle": "ギターの一音から、あのフレーズを作る。",
     "essay": [
-      "音の隙間が、声の質感をそのまま楽しませる。",
-      "音の隙間に、声のざらつきや重さがよく見える。旋律を追う耳を少し休めると、声そのものが曲の中心であることに気づきやすい。"
+      "「Flava in Ya Ear」の特徴的な音は、ギターの一音を低い音から高い音へ移調したものだった。Easy Mo BeeがRyan Proctorのインタビューで明かしている。完成した旋律をそのまま借りた、という説明ではない。",
+      "本人は、サンプルをやめるのではなく、出所がすぐには分からない使い方を求めていたという。一音を手に入れ、その音からフレーズを組む。元のレコードのどの部分かを探すだけでなく、切り取った後に何を演奏したのかを考えると、このビートの作り方が見えてくる。"
     ],
     "facts": [
       {
@@ -8587,14 +8631,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "音の隙間が、声の質感をそのまま楽しませる。"
+      "反復する音型を、素材の選択と音程の操作に分けて考える。"
     ],
-    "context": "音の隙間に、声のざらつきや重さがよく見える。旋律を追う耳を少し休めると、声そのものが曲の中心であることに気づきやすい。",
+    "context": "借りた音を、新しく演奏するための材料にする。",
     "sources": [
       {
         "label": "YouTube — Craig Mack / Flava in Ya Ear",
         "url": "https://www.youtube.com/watch?v=GNFqMx0gY7I",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Easy Mo Bee interview — Ryan Proctor / Blues & Soul 944",
+        "url": "https://oldtothenew.wordpress.com/2009/01/15/archive-easy-mo-bee-interview-part-three-originally-printed-in-blues-soul-944-may-2005/",
+        "kind": "制作者インタビュー・著者再掲"
       }
     ],
     "producers": [
@@ -8611,7 +8660,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "mobb-deep-shook-ones-pt-ii",
@@ -9441,11 +9498,11 @@
       "lettering": "stencil",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "外れそうで外れない声。その自由さまでリズムになる。",
-    "essayTitle": "拍を離れそうな声に、リズムの自由を聴く",
+    "deck": "Open Mike Eagleの回想から、ODBへの入口をたどる。",
+    "essayTitle": "二つの音が、若いリスナーの入口になった。",
     "essay": [
-      "外れそうで外れない声。その自由さまでリズムになる。",
-      "声が拍を離れそうに聞こえるところで、耳はどんな足場を選ぶだろう。整った歌い方だけを基準にしないと、リズムの自由さがよく見えてくる。"
+      "Open Mike Eagleは番組Heat Rocksで、Wu-Tangとの入口が「Shimmy Shimmy Ya」の映像だったと振り返る。そこで印象に残ったのはODBの姿だけではない。曲のピアノを二つの音ほどの単純さとして捉え、その分かりやすさも若かった自分を引きつけたと話している。",
+      "これは音符の数を確定する分析ではなく、後にラッパーとなる一人の聴き手の記憶だ。奇抜な振る舞いに目を奪われる一方で、自分でも触れられそうな音がある。破天荒という評判だけでは拾えない、曲への近づきやすさを教えてくれる。"
     ],
     "facts": [
       {
@@ -9459,14 +9516,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "外れそうで外れない声。その自由さまでリズムになる。"
+      "声の個性に加えて、覚えやすい伴奏が入口になるかを確かめたい。"
     ],
-    "context": "声が拍を離れそうに聞こえるところで、耳はどんな足場を選ぶだろう。整った歌い方だけを基準にしないと、リズムの自由さがよく見えてくる。",
+    "context": "音楽家が語る、聴き手だったころの記憶。",
     "sources": [
       {
         "label": "YouTube — Ol' Dirty Bastard / Shimmy Shimmy Ya",
         "url": "https://www.youtube.com/watch?v=vahd-QqU7as",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Open Mike Eagle / Heat Rocks EP153 — Maximum Fun",
+        "url": "https://maximumfun.org/transcripts/heat-rocks/transcript-heat-rocks-ep153-wu-tang-clan-special/",
+        "kind": "音楽家による批評・番組公式書き起こし"
       }
     ],
     "producers": [
@@ -9485,7 +9547,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "de-la-soul-a-roller-skating-jam-named-saturdays",
@@ -9534,11 +9604,11 @@
       "lettering": "subway",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "遊びのある構成で、レコードの楽しさを広げる。",
-    "essayTitle": "場面が切り替わるたび、構成の寄り道を楽しむ",
+    "deck": "立ち寄ったRussell Simmonsが、そのまま参加。",
+    "essayTitle": "遊びに来た人まで、曲の中へ。",
     "essay": [
-      "遊びのある構成で、レコードの楽しさを広げる。",
-      "場面が切り替わる感触を、一曲の中の散歩として聴く。一本の筋だけを追わず、寄り道も楽しむ。その聴き方がよく似合うと思う。"
+      "TrugoyがXXLで語った「Saturdays」の客演は、予定された顔合わせではない。Russell Simmonsがスタジオへ立ち寄り、音を聴いていた流れで参加したという。",
+      "友人にも開かれた録音現場では、訪問が共演に変わることもあった。"
     ],
     "facts": [
       {
@@ -9552,14 +9622,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "遊びのある構成で、レコードの楽しさを広げる。"
+      "客演につながった偶然にも思いを巡らせたい。"
     ],
-    "context": "場面が切り替わる感触を、一曲の中の散歩として聴く。一本の筋だけを追わず、寄り道も楽しむ。その聴き方がよく似合うと思う。",
+    "context": "Trugoyが語る、スタジオでの出会い。",
     "sources": [
       {
         "label": "YouTube — De La Soul / A Roller Skating Jam Named Saturdays",
         "url": "https://www.youtube.com/watch?v=g7LzurHkPwA",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Trugoy interview — Eric Diep / XXL",
+        "url": "https://www.xxlmag.com/de-la-soul-interview/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -9582,7 +9657,15 @@
       "funk-soul"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "de-la-soul-stakes-is-high",
@@ -9993,11 +10076,11 @@
       "lettering": "tag",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "軽やかな音の上で、声が急がず進む。",
-    "essayTitle": "軽い足取りに、急がない声の間合い",
+    "deck": "ギターとホーン、それぞれの出所へ。",
+    "essayTitle": "ポップ曲のギターを、別の組み合わせへ。",
     "essay": [
-      "軽やかな音の上で、声が急がず進む。",
-      "軽い足取りの音に対して、声がどこまで落ち着いていられるかを聴く。急がないことで生まれる説得力もある。その間合いを確かめたい。"
+      "Jesse Duckerの解説によると、「Slow Down」はEdie Brickell & New Bohemians「What I Am」のギターに、Kool & The Gangのホーンを重ねている。",
+      "元曲を一つ見つけた先にも、組み合わせの発見がある。"
     ],
     "facts": [
       {
@@ -10011,14 +10094,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "軽やかな音の上で、声が急がず進む。"
+      "ギターの周囲の音にも耳を向ける。"
     ],
-    "context": "軽い足取りの音に対して、声がどこまで落ち着いていられるかを聴く。急がないことで生まれる説得力もある。その間合いを確かめたい。",
+    "context": "別々の録音が、一つの伴奏へ。",
     "sources": [
       {
         "label": "YouTube — Brand Nubian / Slow Down",
         "url": "https://www.youtube.com/watch?v=B0KdQMxx8EM",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "One For All anniversary — Jesse Ducker / Albumism",
+        "url": "https://albumism.com/features/brand-nubian-debut-album-one-for-all-album-anniversary",
+        "kind": "署名入り音楽批評"
       }
     ],
     "producers": [
@@ -10039,7 +10127,15 @@
       "funk-soul"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "brand-nubian-all-for-one",
@@ -10087,11 +10183,11 @@
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "声の受け渡しから、グループの楽しさを聴く。",
-    "essayTitle": "声が替われば、ビートの見え方も変わる",
+    "deck": "James Brownの、ドラムではない部分へ。",
+    "essayTitle": "James Brownから借りたのは、弦とピアノの断片。",
     "essay": [
-      "声の受け渡しから、グループの楽しさを聴く。",
-      "声の順番が替わるたび、同じビートの別の面を探す。まとまりを聴く日と、一人ずつを追う日で、曲の楽しみ方も変わってくる。"
+      "Jesse Duckerのアルバム評によれば、Grand Pubaは「All for One」にJames Brown「Can Mind」の短い弦とピアノの部分を用いた。",
+      "よく知る名前でも、どこを切り取るかで曲の役割は変わる。"
     ],
     "facts": [
       {
@@ -10105,14 +10201,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "声の受け渡しから、グループの楽しさを聴く。"
+      "伴奏を元の録音と聴き比べたい。"
     ],
-    "context": "声の順番が替わるたび、同じビートの別の面を探す。まとまりを聴く日と、一人ずつを追う日で、曲の楽しみ方も変わってくる。",
+    "context": "弦とピアノから辿るサンプリング。",
     "sources": [
       {
         "label": "YouTube — Brand Nubian / All for One",
         "url": "https://www.youtube.com/watch?v=8auuY4fvLyY",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "One For All anniversary — Jesse Ducker / Albumism",
+        "url": "https://albumism.com/features/brand-nubian-debut-album-one-for-all-album-anniversary",
+        "kind": "署名入り音楽批評"
       }
     ],
     "producers": [
@@ -10130,7 +10231,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "grand-puba-i-like-it-i-wanna-be-where-you-are",
@@ -10179,11 +10288,11 @@
       "lettering": "stencil",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "ソウルの甘さに、ラップの気楽さを重ねる。",
-    "essayTitle": "甘いソウルに、かしこまらないラップ",
+    "deck": "ソウルとのつながりは、伴奏だけにあるわけではない。",
+    "essayTitle": "レコードの引用と、声で歌い直す記憶。",
     "essay": [
-      "ソウルの甘さに、ラップの気楽さを重ねる。",
-      "甘い響きの上で、声がかしこまらずに進んでいく。気楽に聞こえる曲ほど、音と言葉の間がよくできている。その居心地を聴きたい。"
+      "Jesse Duckerは「I Like It」を、Mark SparksがCal Tjader版「Never My Love」を遅くして使ったトラックとして評している。一方で、Puba自身も既存の歌を歌い替えながら進むことに注目している。",
+      "サンプルされた録音と、自分の声でよみがえらせる歌。ここでは二つの方法で過去の音楽に触れている、と読むことができる。伴奏の出所だけを探して終わらず、ラップと歌の間を行き来する声にも注目したい。"
     ],
     "facts": [
       {
@@ -10197,14 +10306,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "ソウルの甘さに、ラップの気楽さを重ねる。"
+      "録音から借りた音と、本人が歌うフレーズを分けて聴く。"
     ],
-    "context": "甘い響きの上で、声がかしこまらずに進んでいく。気楽に聞こえる曲ほど、音と言葉の間がよくできている。その居心地を聴きたい。",
+    "context": "過去の音楽とのつながりを、声の側からも探す。",
     "sources": [
       {
         "label": "YouTube — Grand Puba / I Like It (I Wanna Be Where You Are)",
         "url": "https://www.youtube.com/watch?v=o1Z9BZbaiTY",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "2000 anniversary — Jesse Ducker / hedrush",
+        "url": "https://medium.com/hedrush/celebrating-the-30th-anniversary-of-grand-pubas-2000-30b4d87747f5",
+        "kind": "署名入り音楽批評"
       }
     ],
     "producers": [],
@@ -10224,7 +10338,15 @@
       "funk-soul"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "digable-planets-rebirth-of-slick-cool-like-dat",

@@ -276,19 +276,6 @@
       ]
     },
     {
-      "id": "craig-mack-flava-in-ya-ear",
-      "tags": [
-        {
-          "shelf": "voice",
-          "evidence": {
-            "file": "tracks.json",
-            "field": "deck",
-            "quote": "音の隙間が、声の質感をそのまま楽しませる。"
-          }
-        }
-      ]
-    },
-    {
       "id": "mobb-deep-shook-ones-pt-ii",
       "tags": [
         {
@@ -310,19 +297,6 @@
             "file": "tracks.json",
             "field": "listening.0",
             "quote": "声が交代する場面を追い、次のMCへの期待がどう生まれるか考えてみる。"
-          }
-        }
-      ]
-    },
-    {
-      "id": "ol-dirty-bastard-shimmy-shimmy-ya",
-      "tags": [
-        {
-          "shelf": "voice",
-          "evidence": {
-            "file": "tracks.json",
-            "field": "deck",
-            "quote": "外れそうで外れない声。その自由さまでリズムになる。"
           }
         }
       ]
