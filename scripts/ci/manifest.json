@@ -2184,6 +2184,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "masta-ace-art-cleanup-browser"
+    },
+    {
+      "id": "large-professor-art-cleanup",
+      "argv": [
+        "python",
+        "scripts/verify_large_professor_art_cleanup.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "large-professor-art-cleanup"
+    },
+    {
+      "id": "large-professor-art-cleanup-browser",
+      "argv": [
+        "node",
+        "scripts/verify_large_professor_art_cleanup_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "large-professor-art-cleanup-browser"
     }
   ],
   "groups": {
@@ -2600,6 +2624,10 @@
     "masta_ace_art_cleanup": [
       "masta-ace-art-cleanup",
       "masta-ace-art-cleanup-browser"
+    ],
+    "large_professor_art_cleanup": [
+      "large-professor-art-cleanup",
+      "large-professor-art-cleanup-browser"
     ]
   },
   "runtime_rules": {
@@ -3358,12 +3386,22 @@
       "scripts/approved_masta_ace_art_cleanup.py"
     ],
     "scripts/approved_masta_ace_art_cleanup.py": [
-      "scripts/fixtures/approved-masta-ace-art-cleanup.json"
+      "scripts/fixtures/approved-masta-ace-art-cleanup.json",
+      "scripts/approved_large_professor_art_cleanup.py"
     ],
     "scripts/verify_masta_ace_art_cleanup.py": [
       "scripts/approved_masta_ace_art_cleanup.py"
     ],
     "scripts/verify_masta_ace_art_cleanup_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_large_professor_art_cleanup.py": [
+      "scripts/fixtures/approved-large-professor-art-cleanup.json"
+    ],
+    "scripts/verify_large_professor_art_cleanup.py": [
+      "scripts/approved_large_professor_art_cleanup.py"
+    ],
+    "scripts/verify_large_professor_art_cleanup_browser.cjs": [
       "scripts/verify_visible_art_browser.cjs"
     ]
   },
@@ -3430,7 +3468,9 @@
     "scripts/approved_bear_witness_region.py",
     "scripts/fixtures/approved-bear-witness-region.json",
     "scripts/approved_masta_ace_art_cleanup.py",
-    "scripts/fixtures/approved-masta-ace-art-cleanup.json"
+    "scripts/fixtures/approved-masta-ace-art-cleanup.json",
+    "scripts/approved_large_professor_art_cleanup.py",
+    "scripts/fixtures/approved-large-professor-art-cleanup.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -4120,6 +4160,15 @@
         "after_sha256": "245cb3edd3a1b318842d30d7b0c13f3d19722cc7bde85f2d0c0439489d52daab",
         "groups": [
           "masta_ace_art_cleanup"
+        ]
+      }
+    ],
+    "assets/graffiti/large-professor-the-beginning-alpha.webp": [
+      {
+        "before_sha256": "bc3c521050f4efa8e6e3cb6d2575ab4d6b74e808e43317acee54764e39af6871",
+        "after_sha256": "663bef18db9d13130d4d3b36bd6a1c2e7fc3e112ddebc6116c9267f88337355c",
+        "groups": [
+          "large_professor_art_cleanup"
         ]
       }
     ]

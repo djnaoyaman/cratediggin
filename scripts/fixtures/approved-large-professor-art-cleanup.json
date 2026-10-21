@@ -1,0 +1,25 @@
+{
+  "base": "e6ef620086a813a481f5ac0db5f894040beb491e",
+  "id": "large-professor-the-beginning",
+  "asset": "assets/graffiti/large-professor-the-beginning-alpha.webp",
+  "beforeAssetSHA256": "bc3c521050f4efa8e6e3cb6d2575ab4d6b74e808e43317acee54764e39af6871",
+  "afterAssetSHA256": "663bef18db9d13130d4d3b36bd6a1c2e7fc3e112ddebc6116c9267f88337355c",
+  "rgbaSHA256": "3a7d289de24e57ea2cce4b6d0d883e37e5e02ad2593f78374b5ca87204078529",
+  "dimensions": [
+    1774,
+    887
+  ],
+  "beforeVersion": "22.31",
+  "beforeReleaseSHA256": "ae3c08ac2d5f0ab3263d822fc68c0745d9d3dd4faff292b053ecf713b67ea236",
+  "afterReleaseSHA256": "a4ab5a47416c27ca86e2fdd07f6ae4dae5c90609b27d3e8beeab62e1fd0e9d44",
+  "protected": {
+    "tracks.json": "3b8c18cd1460c62ffaec3361cc3af7c00b91f79f1dc4f5caf5efacaf8f44ad1e",
+    "graffiti_artwork.json": "f26024b9ca55ba0b10e5f0dc62bfcc3ffc54106cfd0b577d729303a23a036305",
+    "editorial_deepdives.json": "f68168fc1a782706555976e87ecb920e0a30b2b8c071e23662dda504d4a8bc3a",
+    "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+    "src/app/player.js": "6796ca1e0ebe8ede8c3619fd6af2785410d247728bb627e79dceb8769e942c0a",
+    "src/assets/art.js": "bff0c731802e8fc530ce6f29440723c2c860e5da1899459e8498d6680c85e91b",
+    "src/assets/style.css": "b6a2627965e44b62640495ec57d74a819eef054282d86d7bc448341ce26a21c5",
+    "assets/graffiti/masta-ace-hood-alpha.webp": "245cb3edd3a1b318842d30d7b0c13f3d19722cc7bde85f2d0c0439489d52daab"
+  }
+}
