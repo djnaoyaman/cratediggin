@@ -1,0 +1,267 @@
+{
+  "base": "52700de0a2aeac34cfc0dc4b00d5516d735e5706",
+  "correction": {
+    "id": "madlib-road-of-the-lonely-ones",
+    "allowedFields": [
+      "essayTitle",
+      "deck",
+      "essay",
+      "context",
+      "sampleStatus",
+      "sources",
+      "essaySources"
+    ],
+    "before": {
+      "id": "madlib-road-of-the-lonely-ones",
+      "title": "Road of the Lonely Ones",
+      "artist": "Madlib",
+      "year": 2020,
+      "yearBasis": "2020年12月に先行発表。Sound Ancestorsのアルバム発売は2021年。音楽はMadlib、編集・構成・マスタリングはKieran Hebden。",
+      "region": "Los Angeles",
+      "scene": "Los Angeles",
+      "category": "Hip Hop / Soul",
+      "moods": [
+        "グルーヴ"
+      ],
+      "album": "Road of the Lonely Ones / Sound Ancestors",
+      "label": "Madlib Invazion",
+      "producer": "Madlib",
+      "members": "Madlib",
+      "youtube": {
+        "id": "Y52M28WQu2s",
+        "url": "https://www.youtube.com/watch?v=Y52M28WQu2s",
+        "channel": "Madlib Invazion",
+        "type": "Official Audio / Video",
+        "official": true,
+        "verified": "2026-10-15",
+        "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+      },
+      "art": {
+        "word": "ROAD OF THE LONELY ONES",
+        "lines": [
+          "ROAD OF THE LONELY ONES"
+        ],
+        "tag": "MADLIB / 2020",
+        "style": "piece",
+        "seed": 2026101620,
+        "profile": "ny-subway",
+        "palette": [
+          "#101010",
+          "#d9d9d9",
+          "#777777"
+        ],
+        "paletteSource": "Sound Ancestors",
+        "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+        "lettering": "block",
+        "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      },
+      "deck": "Madlibの音を、Kieran Hebdenの編集でたどる。",
+      "essayTitle": "ひとつの道に、音を並べ直す。",
+      "essay": [
+        "声の反復が、曲名の孤独を少しずつ別の感触に変えていく。ひとりで聴いていても、音の向こうに誰かの気配がある。",
+        "Madlibの音楽をKieran Hebdenが編集し、構成する。素材を作ることと、並べ方を考えること。その間にも創造の場所がある。",
+        "新しい音を足すだけが制作ではない。すでにある音の順序を整えることで、見えてくる道もあるのだと思う。"
+      ],
+      "facts": [
+        {
+          "title": "作品と制作",
+          "text": "MadlibのRoad of the Lonely Ones。Road of the Lonely Ones / Sound Ancestorsに収録。制作はMadlib。",
+          "sources": [
+            0
+          ]
+        },
+        {
+          "title": "版・制作の区別",
+          "text": "2020年12月に先行発表。Sound Ancestorsのアルバム発売は2021年。音楽はMadlib、編集・構成・マスタリングはKieran Hebden。",
+          "sources": [
+            1
+          ]
+        }
+      ],
+      "samples": [],
+      "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+      "listening": [
+        "Madlibの音を、Kieran Hebdenの編集でたどる。",
+        "声・旋律とドラムの間に生まれる余白。"
+      ],
+      "context": "2020年の作品として、Madlibの制作とMadlibの表現の接点を聴く。",
+      "sources": [
+        {
+          "label": "Madlib Invazion / Madlib - Road of the Lonely Ones",
+          "url": "https://www.youtube.com/watch?v=Y52M28WQu2s",
+          "kind": "公式配信・動画"
+        },
+        {
+          "label": "Madlib公式 / 初出シングル",
+          "url": "https://madlib.bandcamp.com/track/road-of-the-lonely-ones",
+          "kind": "アーティスト・レーベル公式"
+        }
+      ],
+      "producers": [
+        "Madlib"
+      ],
+      "connections": [],
+      "sounds": [
+        "声",
+        "ドラム"
+      ],
+      "addedOrder": 257,
+      "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+      "collections": [
+        "west"
+      ],
+      "editorialCrates": [
+        "funk-soul"
+      ],
+      "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+      "artists": [
+        "Madlib"
+      ],
+      "datePublished": "2026-10-15"
+    },
+    "after": {
+      "id": "madlib-road-of-the-lonely-ones",
+      "title": "Road of the Lonely Ones",
+      "artist": "Madlib",
+      "year": 2020,
+      "yearBasis": "2020年12月に先行発表。Sound Ancestorsのアルバム発売は2021年。音楽はMadlib、編集・構成・マスタリングはKieran Hebden。",
+      "region": "Los Angeles",
+      "scene": "Los Angeles",
+      "category": "Hip Hop / Soul",
+      "moods": [
+        "グルーヴ"
+      ],
+      "album": "Road of the Lonely Ones / Sound Ancestors",
+      "label": "Madlib Invazion",
+      "producer": "Madlib",
+      "members": "Madlib",
+      "youtube": {
+        "id": "Y52M28WQu2s",
+        "url": "https://www.youtube.com/watch?v=Y52M28WQu2s",
+        "channel": "Madlib Invazion",
+        "type": "Official Audio / Video",
+        "official": true,
+        "verified": "2026-10-15",
+        "verification": "アーティスト・レーベル・Topicの公式音源を探索。YouTube oEmbedで曲名と公式投稿者を照合。実音声・日本国内の埋め込み再生は未検証。"
+      },
+      "art": {
+        "word": "ROAD OF THE LONELY ONES",
+        "lines": [
+          "ROAD OF THE LONELY ONES"
+        ],
+        "tag": "MADLIB / 2020",
+        "style": "piece",
+        "seed": 2026101620,
+        "profile": "ny-subway",
+        "palette": [
+          "#101010",
+          "#d9d9d9",
+          "#777777"
+        ],
+        "paletteSource": "Sound Ancestors",
+        "paletteNote": "公式配信サービスまたは権利元掲載のジャケットを2026-10-17に目視確認した編集上の近似配色。厳密な色抽出値ではない。",
+        "lettering": "block",
+        "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      },
+      "deck": "Madlibの音楽に、Kieran Hebdenの編集・構成。そして公式クレジットに残る二つのサンプル名義。",
+      "essayTitle": "音を作る人、並べ直す人。",
+      "essay": [
+        "「Road of the Lonely Ones」の公式シングルページは、音楽をMadlib、編集・構成・マスタリングをKieran Hebdenと記している。同じ「制作」という言葉でまとめずに読むと、音を生む仕事と、それを一曲の形に整える仕事の分担が見えてくる。",
+        "サンプルのクレジットにはThe EthicsとJ-Zoneの名がある。ただし、このページが明記するのは名義と提供元で、元になった曲名や録音の版までは書かれていない。声やドラムを聴き分ける入口にはなるが、どの音が誰のどの録音かを、この記載だけで決めつけない。",
+        "収録アルバム『Sound Ancestors』の公式紹介でHebdenは、Madlibから数年にわたり何百もの音楽の断片を受け取り、編集し、組み合わせたと説明している。この曲も、素材の出会いだけでなく、一枚を通して聴くための並べ方という視点からたどれる。"
+      ],
+      "facts": [
+        {
+          "title": "作品と制作",
+          "text": "MadlibのRoad of the Lonely Ones。Road of the Lonely Ones / Sound Ancestorsに収録。制作はMadlib。",
+          "sources": [
+            0
+          ]
+        },
+        {
+          "title": "版・制作の区別",
+          "text": "2020年12月に先行発表。Sound Ancestorsのアルバム発売は2021年。音楽はMadlib、編集・構成・マスタリングはKieran Hebden。",
+          "sources": [
+            1
+          ]
+        }
+      ],
+      "samples": [],
+      "sampleStatus": "公式シングルページはThe EthicsとJ-Zoneをサンプル名義として記載。元曲名・録音の版・各音との対応は個別照合中。",
+      "listening": [
+        "Madlibの音を、Kieran Hebdenの編集でたどる。",
+        "声・旋律とドラムの間に生まれる余白。"
+      ],
+      "context": "2020年12月に先行発表され、2021年の『Sound Ancestors』に収録。公式クレジットではMadlibの音楽とKieran Hebdenの編集・構成・マスタリングを区別している。",
+      "sources": [
+        {
+          "label": "Madlib Invazion / Madlib - Road of the Lonely Ones",
+          "url": "https://www.youtube.com/watch?v=Y52M28WQu2s",
+          "kind": "公式配信・動画"
+        },
+        {
+          "label": "Madlib公式 / 初出シングル",
+          "url": "https://madlib.bandcamp.com/track/road-of-the-lonely-ones",
+          "kind": "アーティスト・レーベル公式"
+        },
+        {
+          "label": "Madlib公式：Sound Ancestors／制作クレジットとKieran Hebdenの説明",
+          "url": "https://madlib.bandcamp.com/album/sound-ancestors",
+          "kind": "アーティスト・レーベル公式"
+        }
+      ],
+      "producers": [
+        "Madlib"
+      ],
+      "connections": [],
+      "sounds": [
+        "声",
+        "ドラム"
+      ],
+      "addedOrder": 257,
+      "editorialStatus": "曲名と投稿者を照合。公式音源を採用。盤ごとの違い・サンプル詳細は継続照合中。",
+      "collections": [
+        "west"
+      ],
+      "editorialCrates": [
+        "funk-soul"
+      ],
+      "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+      "artists": [
+        "Madlib"
+      ],
+      "datePublished": "2026-10-15",
+      "essaySources": [
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          2
+        ]
+      ]
+    }
+  },
+  "files": {
+    "tracks.json": {
+      "beforeSHA256": "35c7547ecf98ac6d084f6c1db43b5b805167769aa1878d0effcee0df73d30491",
+      "afterSHA256": "ab67baf3c4bb7f860ec25d58eaf0ad3583011bc04f9ca403e73991ff886c0664"
+    },
+    "releases.json": {
+      "beforeSHA256": "337b3713942c929f2f5d2ceb5db32859d7643eae8af598c7e1a9627364046d1e",
+      "afterSHA256": "1a2401a72c255778a0f8ae16d998e97f7def4a00a14637a1883acbb1bb35036b"
+    }
+  },
+  "protected": {
+    "editor_profile.json": "d589afc915cda0324e1240461f55b220ee41dcedb4c53057534da1aeae35339a",
+    "editorial_deepdives.json": "2995d5d9ec6106ec0819f4c5d3dd1e48fde41813d8c17e79bb32e46de2ddc6ba",
+    "graffiti_artwork.json": "957bd0b6176825c76ef4adf9243845a20ff97a833f1511ff6854d56b2edee94d",
+    "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+    "artist_entities.json": "542290cca4fa06d6b8122b8e00a96911a18d4b4b2ece19fdd7c7ab17b7c653cf",
+    "guides.json": "4577ae94470e8dec95a99868919c560cbdba95be988ddf7497216b9abb44f6d8",
+    "listening_shelves.json": "26f634c98c577a68ab0b2e2a09472f759b9e20bb776931425ad6bed1d9880aa8"
+  },
+  "beforeVersion": "22.21"
+}

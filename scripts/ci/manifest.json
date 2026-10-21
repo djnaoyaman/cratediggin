@@ -1944,6 +1944,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "organ-editorial-browser"
+    },
+    {
+      "id": "road-editorial",
+      "argv": [
+        "python",
+        "scripts/verify_road_editorial.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "road-editorial"
+    },
+    {
+      "id": "road-editorial-browser",
+      "argv": [
+        "node",
+        "scripts/verify_road_editorial_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "road-editorial-browser"
     }
   ],
   "groups": {
@@ -2317,6 +2341,10 @@
     "organ_editorial": [
       "organ-editorial",
       "organ-editorial-browser"
+    ],
+    "road_editorial": [
+      "road-editorial",
+      "road-editorial-browser"
     ]
   },
   "runtime_rules": {
@@ -2949,15 +2977,28 @@
       "scripts/fixtures/approved-drop-editorial.json"
     ],
     "scripts/approved_organ_editorial.py": [
-      "scripts/fixtures/approved-organ-editorial.json"
+      "scripts/fixtures/approved-organ-editorial.json",
+      "scripts/approved_road_editorial.py"
     ],
     "scripts/verify_organ_editorial.py": [
       "scripts/approved_organ_editorial.py",
       "scripts/editorial_uniqueness.py",
-      "scripts/fixtures/editorial-legacy-debt.json"
+      "scripts/fixtures/editorial-legacy-debt.json",
+      "scripts/approved_road_editorial.py"
     ],
     "scripts/verify_organ_editorial_browser.cjs": [
       "scripts/fixtures/approved-organ-editorial.json"
+    ],
+    "scripts/approved_road_editorial.py": [
+      "scripts/fixtures/approved-road-editorial.json"
+    ],
+    "scripts/verify_road_editorial.py": [
+      "scripts/approved_road_editorial.py",
+      "scripts/editorial_uniqueness.py",
+      "scripts/fixtures/editorial-legacy-debt.json"
+    ],
+    "scripts/verify_road_editorial_browser.cjs": [
+      "scripts/fixtures/approved-road-editorial.json"
     ]
   },
   "policy_paths": [
@@ -3002,7 +3043,9 @@
     "scripts/approved_drop_editorial.py",
     "scripts/fixtures/approved-drop-editorial.json",
     "scripts/approved_organ_editorial.py",
-    "scripts/fixtures/approved-organ-editorial.json"
+    "scripts/fixtures/approved-organ-editorial.json",
+    "scripts/approved_road_editorial.py",
+    "scripts/fixtures/approved-road-editorial.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -3299,6 +3342,13 @@
         "after_sha256": "35c7547ecf98ac6d084f6c1db43b5b805167769aa1878d0effcee0df73d30491",
         "groups": [
           "organ_editorial"
+        ]
+      },
+      {
+        "before_sha256": "35c7547ecf98ac6d084f6c1db43b5b805167769aa1878d0effcee0df73d30491",
+        "after_sha256": "ab67baf3c4bb7f860ec25d58eaf0ad3583011bc04f9ca403e73991ff886c0664",
+        "groups": [
+          "road_editorial"
         ]
       }
     ],
