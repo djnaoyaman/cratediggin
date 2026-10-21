@@ -5601,11 +5601,12 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "掛け声と低音。輪に入りたくなるパーティーの熱。",
-    "essayTitle": "掛け声に応える足元、パーティーを支える低音",
+    "deck": "アルバムの終盤に、EP時代の低音が戻ってくる。",
+    "essayTitle": "EPからアルバムへ運ばれた低音",
     "essay": [
-      "掛け声と低音。輪に入りたくなるパーティーの熱。",
-      "掛け声に応じる気分で聴きながら、その下の低音を追う。輪の中へ誘う力が、声だけでできているのか。足元の音にも答えがありそうだ。"
+      "Jesse DuckerのAlbumism回顧は、「Soul Clap」をJBsの「More Peas」から取ったベースラインで紹介する。掛け声だけでなく、その足元を支える反復に耳を向けたい。",
+      "同記事によると、この曲はEPで先に登場し、後に『Runaway Slave』の終盤にも収められた。アルバムの新曲群のあとで、二人の出発点へ戻る配置として聴ける。",
+      "Diamond Dも2013年の取材で、この曲を自分が制作したと述べている。ただし、その発言は個々のミックスを指定していない。ここでは掲載音源の版や、Showbizとの制作分担まで確定しない。"
     ],
     "facts": [
       {
@@ -5619,14 +5620,24 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "掛け声と低音。輪に入りたくなるパーティーの熱。"
+      "JBs由来と紹介されたベースラインを、声の下で追う。"
     ],
-    "context": "掛け声に応じる気分で聴きながら、その下の低音を追う。輪の中へ誘う力が、声だけでできているのか。足元の音にも答えがありそうだ。",
+    "context": "EPで先行した曲が、アルバムの終盤にも残された。",
     "sources": [
       {
         "label": "YouTube — Showbiz & A.G. / Soul Clap",
         "url": "https://www.youtube.com/watch?v=twNRsEx0lVY",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Jesse Ducker — Runaway Slave回顧 / Albumism",
+        "url": "https://albumism.com/features/showbiz-and-ag-debut-album-runaway-slave-album-anniversary",
+        "kind": "署名付き作品回顧"
+      },
+      {
+        "label": "The Lost Tapes — Diamond D本人インタビュー（2013年）",
+        "url": "https://claaa7.blogspot.com/2013/04/exclusive-interview-diamond-d.html",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -5652,7 +5663,18 @@
       "funk-soul"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "showbiz-a-g-next-level-nyte-time-mix",
