@@ -335,7 +335,7 @@
           "evidence": {
             "file": "tracks.json",
             "field": "deck",
-            "quote": "静かな反復の中に、声の強い輪郭がある。"
+            "quote": "Enyaの声をループし、Laurynの歌を迎えた。"
           }
         }
       ]
@@ -347,8 +347,8 @@
           "shelf": "voice",
           "evidence": {
             "file": "tracks.json",
-            "field": "deck",
-            "quote": "歌とラップを、同じ人物の呼吸として味わう。"
+            "field": "listening.0",
+            "quote": "歌えるフックから、言葉が促す自尊心へ耳を戻す。"
           }
         }
       ]
