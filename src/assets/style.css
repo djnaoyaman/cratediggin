@@ -467,3 +467,10 @@ body[data-art-mode=video] .art-credit{flex-direction:row;align-items:center;gap:
 
 /* Contextual dates must retain their edition caveat even in compact lists. */
 #results.compact-results .record-card.contextual-year-card .card-main>.card-meta{display:flex!important}#results.compact-results .record-card.contextual-year-card .card-main>.work-year-note{display:block!important;font-size:11px;line-height:1.6;margin:6px 0;max-width:100%}
+
+/* Desktop ART-only reclaims the redundant mode-control row.
+   Keep the existing footer reserve, provider geometry, and smaller layouts. */
+@media (min-width:1024px) and (min-height:600px){
+ body[data-art-owner=full][data-art-mode=full] .art-mode-controls{top:14px;left:200px;right:auto}
+ body[data-art-owner=full][data-art-mode=full] .art-view canvas{top:96px;height:calc(100% - 296px)}
+}

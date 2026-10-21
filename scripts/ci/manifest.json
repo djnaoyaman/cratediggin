@@ -2472,6 +2472,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "product-live-art-browser"
+    },
+    {
+      "id": "desktop-art-space",
+      "argv": [
+        "python",
+        "scripts/verify_desktop_art_space.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "desktop-art-space"
+    },
+    {
+      "id": "desktop-art-space-browser",
+      "argv": [
+        "node",
+        "scripts/verify_desktop_art_space_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "desktop-art-space-browser"
     }
   ],
   "groups": {
@@ -2936,6 +2960,11 @@
     "product_live_art": [
       "product-live-art",
       "product-live-art-browser"
+    ],
+    "desktop_art_space": [
+      "desktop-art-space",
+      "desktop-art-space-browser",
+      "0a206c4010036a19"
     ]
   },
   "runtime_rules": {
@@ -3835,13 +3864,24 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/approved_product_live_art.py": [
-      "scripts/fixtures/approved-product-live-art.json"
+      "scripts/fixtures/approved-product-live-art.json",
+      "scripts/approved_desktop_art_space.py"
     ],
     "scripts/verify_product_live_art.py": [
       "scripts/approved_product_live_art.py"
     ],
     "scripts/verify_product_live_art_browser.cjs": [
       "scripts/fixtures/approved-product-live-art.json",
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_desktop_art_space.py": [
+      "scripts/fixtures/approved-desktop-art-space.json"
+    ],
+    "scripts/verify_desktop_art_space.py": [
+      "scripts/approved_desktop_art_space.py"
+    ],
+    "scripts/verify_desktop_art_space_browser.cjs": [
+      "scripts/fixtures/approved-desktop-art-space.json",
       "scripts/verify_visible_art_browser.cjs"
     ]
   },
@@ -3932,7 +3972,9 @@
     "scripts/approved_remaining_size.py",
     "scripts/fixtures/approved-remaining-size.json",
     "scripts/approved_product_live_art.py",
-    "scripts/fixtures/approved-product-live-art.json"
+    "scripts/fixtures/approved-product-live-art.json",
+    "scripts/approved_desktop_art_space.py",
+    "scripts/fixtures/approved-desktop-art-space.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -4288,6 +4330,13 @@
         "after_sha256": "b6a2627965e44b62640495ec57d74a819eef054282d86d7bc448341ce26a21c5",
         "groups": [
           "live_video_year_labels"
+        ]
+      },
+      {
+        "before_sha256": "b6a2627965e44b62640495ec57d74a819eef054282d86d7bc448341ce26a21c5",
+        "after_sha256": "369f75276d3aa790753db69ae410b1c5e24b93c24c8a645c436cf4c6053ef421",
+        "groups": [
+          "desktop_art_space"
         ]
       }
     ],
