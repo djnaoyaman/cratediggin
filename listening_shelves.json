@@ -41,7 +41,7 @@
           "evidence": {
             "file": "tracks.json",
             "field": "listening.0",
-            "quote": "最初はベースの歩幅だけを追ってみる。次は、その隙間で働いているドラムへ。"
+            "quote": "ベースを追ったあと、ドラムや短く差し込む音へ注意を移してみる。"
           }
         }
       ]
@@ -152,8 +152,8 @@
           "shelf": "bass",
           "evidence": {
             "file": "tracks.json",
-            "field": "context",
-            "quote": "低音の丸みを追っていると、声の置かれる場所にも余裕が聞こえてくる。題名どおりに力を抜きながら、その余裕がどこで生まれるかを探してみたい。"
+            "field": "listening.0",
+            "quote": "声の交代を追ったあと、Mystic Brewへ戻り、ベースの役割も比べてみる。"
           }
         }
       ]
