@@ -302,19 +302,6 @@
       ]
     },
     {
-      "id": "krs-one-sound-of-da-police",
-      "tags": [
-        {
-          "shelf": "drums",
-          "evidence": {
-            "file": "tracks.json",
-            "field": "deck",
-            "quote": "一度で耳に残る声と、重いドラムの噛み合わせ。"
-          }
-        }
-      ]
-    },
-    {
       "id": "das-efx-they-want-efx",
       "tags": [
         {
