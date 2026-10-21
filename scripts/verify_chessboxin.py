@@ -1,5 +1,6 @@
 """One requested record and its real generated article; no changes to the published 504."""
 from pathlib import Path
+from approved_drop_editorial import historical_drop_file
 import argparse,copy,hashlib,json,sys
 from PIL import Image
 from approved_chessboxin import F,historical_chessboxin_file
@@ -14,7 +15,7 @@ for name,c in F['files'].items():
   except AssertionError:pass
   else:raise AssertionError('Unapproved partial/drifted bundle accepted: '+name)
 for name,h in F['protected'].items():assert sha((R/name).read_bytes())==h,name
-tracks=json.loads((R/'tracks.json').read_text());old=json.loads(historical_chessboxin_file('tracks.json',(R/'tracks.json').read_bytes()))
+tracks=json.loads(historical_drop_file('tracks.json',(R/'tracks.json').read_bytes()));old=json.loads(historical_chessboxin_file('tracks.json',(R/'tracks.json').read_bytes()))
 assert len(tracks)==505 and len(old)==504 and tracks[:-1]==old and tracks[-1]==F['record']
 assert len({t['id'] for t in tracks})==505
 assert sum(t.get('workType','single')=='single' for t in tracks)==500

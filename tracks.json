@@ -3332,11 +3332,11 @@
       "lettering": "stencil",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "足元が少しずれる感覚まで、ビートの面白さになる。",
-    "essayTitle": "この曲の聴きどころ",
+    "deck": "「Drop」の映像を支えたのは、Spike Jonzeの明確な演出と、言語学者と重ねた逆向きの発音練習だった。",
+    "essayTitle": "逆向きの発音を、身体に入れる一週間。",
     "essay": [
-      "足元が少しずれる感覚まで、ビートの面白さになる。",
-      "足元がずれるような感触に慣れたら、声の入り方へ耳を移してみる。つかみにくいものを何度も聴くうちに、自分の拍の取り方まで少し変わってくる。"
+      "「Drop」の映像を、Bootie Brownは奇妙な体験というより、技術的で指示の明確な仕事として振り返っている。2016年のBonafideの取材によれば、メンバーは言語学者と一週間を過ごし、言葉を音として逆向きに覚えた。映像を逆再生したとき、ところどころの言葉と口元が合うよう、普段のラップとは違う発音を準備したのだ。",
+      "ここで覚え直すのは、歌詞の意味ではなく、口で作る音の順序だ。逆再生という編集の仕掛けを、ラッパー自身が身体で引き受ける。Brownが語るSpike Jonzeの演出は、そのために何をするかが明確だった。完成した映像の不思議さの奥に、発音を練習する具体的な一週間がある。"
     ],
     "facts": [
       {
@@ -3350,14 +3350,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "足元が少しずれる感覚まで、ビートの面白さになる。"
+      "映像を見返すなら、逆向きの動きだけでなく、言葉と口元が合う瞬間を探してみる。"
     ],
-    "context": "足元がずれるような感触に慣れたら、声の入り方へ耳を移してみる。つかみにくいものを何度も聴くうちに、自分の拍の取り方まで少し変わってくる。",
+    "context": "1995年の『Labcabincalifornia』収録曲。映像の準備については、Bootie Brownが2016年の取材で当時の作業を振り返っている。",
     "sources": [
       {
         "label": "YouTube — The Pharcyde / Drop",
         "url": "https://www.youtube.com/watch?v=1iizk-YJc0U",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Bonafide — Bootie Brown・Imaniインタビュー（2016年4月5日）",
+        "url": "https://www.bonafidemag.com/somethin-that-means-somethin-an-interview-with-the-pharcyde/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -3373,7 +3378,15 @@
       "walk",
       "west"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "the-beatnuts-reign-of-the-tec",
