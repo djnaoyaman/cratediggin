@@ -1091,12 +1091,12 @@
       "lettering": "block",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "ほんの短い音が、なかなか頭から出ていかない。GuruとPremierによる、反復の強さ。",
-    "essayTitle": "二秒あれば、街は変わる。",
+    "deck": "短いループだけではない。Premierが最初は戸惑った、Guruの入り方にも注目したい。",
+    "essayTitle": "Guruは1拍目から入らなかった",
     "essay": [
-      "短い旋律が、同じ場所を何度も通る。それなのに退屈しない。「Mass Appeal」を聴くと、材料の多さと料理のうまさは別なのだと分かる。こちらは、ずいぶん少ない材料で腹を満たされる。",
-      "Vic Jurisの「Horizon Drive」から拾った断片が、速度を変えて別の顔になる。私には、元の曲を見つけるだけでなく、そこを選んだ耳のほうが驚きだ。長い演奏の中の、ごく小さな窓。その窓を街の入口にしてしまう。",
-      "DJ Premierは制作取材で、当時の薄味なクラブ向けの音をからかう意図を語っている。そんな冗談が、これほど長く聴かれる曲になる。笑いながら作っても、仕事は細かい。Guruの落ち着いた声が、その仕掛けを大げさに説明せず運んでいく。"
+      "「Mass Appeal」でDJ Premier自身が意外に感じたのは、Guruのラップが入る位置だった。David Maの取材で彼は、1拍目ではなく4から入ったと振り返っている。普段の自分の作り方とは違い、最初は少し不自然に思えた。それでも、その入り方を残したという。",
+      "Guruは最初のシングルに指定していたが、Premierは新鮮な状態で仕上げるため、制作をアルバムの終盤まで残したという。",
+      "Premierは、当時のクラブで似た音が繰り返される状況を皮肉にするため、軽い旋律の素材を探したと話す。"
     ],
     "samples": [
       {
@@ -1158,14 +1158,17 @@
         "label": "ModeAudio — サンプル解説と参考音源",
         "url": "https://modeaudio.com/magazine/masters-of-sampling-dj-premier",
         "kind": "サンプル解説"
+      },
+      {
+        "label": "DJBooth — DJ Premier『Hard to Earn』25周年取材",
+        "url": "https://djbooth.net/features/2019-03-13-dj-premier-interview-gang-starr/",
+        "kind": "本人への制作取材"
       }
     ],
     "listening": [
-      "旋律が何度戻るかより、戻るたびにドラムがどう聞こえるか。",
-      "Guruの声の落ち着きと、ビートの硬さの組み合わせ。",
-      "少ない音でどこまで表情が変わるかを追う。"
+      "冒頭でGuruが入る位置を追い、ループの繰り返しとの関係を確かめてみる。"
     ],
-    "context": "Brooklyn / DJ Premierを軸に聴く一曲。年表の地域は活動拠点を基準にし、出身地やサンプル元の地域とは分けて扱う。",
+    "context": "本人・参加者の制作回想に基づく記事。掲載音源の実再生やマスター同一性は今回再検証していない。",
     "producers": [
       "DJ Premier"
     ],
@@ -1185,7 +1188,18 @@
       "raw-beats",
       "cut-scratch"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "props-over-here",
@@ -3938,11 +3952,12 @@
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "深い低音に、掛け合いの楽しさ。重くても、足は軽い。",
-    "essayTitle": "低音は重く、声の受け渡しは気軽に",
+    "deck": "Nice & Smoothとの共演をつなぐ短い部分。Premierは、それをフックとは呼んでいなかった。",
+    "essayTitle": "フックではなく、次のMCへのつなぎ",
     "essay": [
-      "深い低音に、掛け合いの楽しさ。重くても、足は軽い。",
-      "低音の重さの上で、声の受け渡しは気軽に進んでいく。重い音楽がいつも重々しいとは限らない。その違いを首で確かめられる一曲だと思う。"
+      "「DWYCK」にはフックがなく、あるのは移行部だ。DJ PremierはXXLの取材で、初期Gang Starrのスクラッチについて話すなかで、そう説明している。繰り返すサビを待つよりも、ラップとラップの間がどうつながるかに注目すると、構成を追う手がかりになる。",
+      "Nice & Smoothを迎えたこの曲は、『Hard to Earn』のためだけに作られた新曲として扱わないほうがいい。PremierはBeatlegの取材で、「Take It Personal」のB面に入れた経緯を話している。アルバムにはない曲をシングルに用意すること自体が、彼の狙いだった。",
+      "その発想はヒップホップだけから来たものではない。PremierはPrinceやニューウェイヴのレコードにも触れ、B面に未知の曲がある楽しみを説明している。アルバムを持っている人にも、別の盤を手に取る理由を作る。「DWYCK」を掘ると、ラップの共演だけでなく、レコードの売り方と買い方も見えてくる。"
     ],
     "facts": [
       {
@@ -3956,14 +3971,24 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "深い低音に、掛け合いの楽しさ。重くても、足は軽い。"
+      "低音の動きとMCが交代するときのつなぎを、それぞれ追ってみる。"
     ],
-    "context": "低音の重さの上で、声の受け渡しは気軽に進んでいく。重い音楽がいつも重々しいとは限らない。その違いを首で確かめられる一曲だと思う。",
+    "context": "本人・参加者の制作回想に基づく記事。掲載音源の実再生やマスター同一性は今回再検証していない。",
     "sources": [
       {
         "label": "YouTube — Gang Starr / DWYCK",
         "url": "https://www.youtube.com/watch?v=7rJ2QxE7CJg",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "XXL — DJ Premier: The XXL Icon Interview",
+        "url": "https://www.xxlmag.com/dj-premier-the-xxl-icon-interview/",
+        "kind": "本人への制作取材"
+      },
+      {
+        "label": "Beatleg — DJ Premier取材（DJ Premier Blog掲載）",
+        "url": "https://djpremierblog.com/2015/03/16/dj-premier-interview-with-beatleg-japan/",
+        "kind": "本人への取材の再掲載"
       }
     ],
     "producers": [
@@ -3985,7 +4010,18 @@
       "mic-skills"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "gang-starr-take-it-personal",
@@ -4219,11 +4255,12 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "浮かぶ音と、地に足のついた声。別々の高さが一曲になる。",
-    "essayTitle": "浮かぶ響きと地に足のついた声の遠近",
+    "deck": "Inspectah Deckがスタジオに入ったとき、流れていたのはドラムだった。",
+    "essayTitle": "ラップを録ったあとも、ビートは作られていた",
     "essay": [
-      "浮かぶ音と、地に足のついた声。別々の高さが一曲になる。",
-      "浮かぶような響きの下に、声の重心を感じながら聴く。高さの違うものが同じ場所にある。その奥行きが、曲名の景色とも重なって聞こえる。"
+      "「Above the Clouds」は、出来上がったビートへ客演を載せるだけのセッションではなかった。Inspectah DeckはJunkeeの取材で、入室したときはドラムだけが鳴っていたと話している。Premierは、その場で音を組み立てていくつもりだった。",
+      "DeckとGuruは部屋の離れた位置で、それぞれ言葉を考えた。Deckによれば、相手の耳元で自分のラップを試して邪魔をしたくなかったからだ。準備ができると小声でGuruに聞かせ、二人はビートの一部分に合わせて声を録ったという。",
+      "録音の後にも作業は続いた。Deckが強く覚えていたのは、Premierが音を切り刻み、曲を組み上げていく様子だった。完成形を最初から渡されたのではなく、同じ部屋で仕上がる過程を見ていた。その証言を知ると、客演というクレジットの背後に、三人が作業を進める時間が見えてくる。"
     ],
     "facts": [
       {
@@ -4237,14 +4274,24 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "浮かぶ音と、地に足のついた声。別々の高さが一曲になる。"
+      "声とビートを別々に追い、録音後にも組み上げられたという回想と照らしてみる。"
     ],
-    "context": "浮かぶような響きの下に、声の重心を感じながら聴く。高さの違うものが同じ場所にある。その奥行きが、曲名の景色とも重なって聞こえる。",
+    "context": "本人・参加者の制作回想に基づく記事。掲載音源の実再生やマスター同一性は今回再検証していない。",
     "sources": [
       {
         "label": "YouTube — Gang Starr / Above the Clouds",
         "url": "https://www.youtube.com/watch?v=NqhNTA2VHqk",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Junkee — Inspectah Deckが語る共演作",
+        "url": "https://archive.junkee.com/longform/inspectah-decks-favourite-collaborations-a-trip-through-hip-hop-history",
+        "kind": "参加者本人への制作取材"
+      },
+      {
+        "label": "Qobuz — Moment Of Truth 配信クレジット",
+        "url": "https://www.qobuz.com/us-en/album/moment-of-truth-gang-starr/0724384558550",
+        "kind": "配信クレジット"
       }
     ],
     "producers": [
@@ -4265,7 +4312,18 @@
       "mic-skills"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "gang-starr-full-clip",
@@ -4313,11 +4371,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "積み重ねた仕事を、鮮明なビートで振り返る。",
-    "essayTitle": "鮮明なビートの強さ、声が残す間合い",
+    "deck": "フックに切り出されたGuruの声。その出発点は「You Know My Steez」の第3ヴァースだった。",
+    "essayTitle": "自分たちの一節が、客席の返事になる",
     "essay": [
-      "積み重ねた仕事を、鮮明なビートで振り返る。",
-      "ビートの鮮明さに引かれたら、声が残す間合いにも耳を向けたい。強さを長く保つために、どこで力を抜いているかを聴くのも面白い。"
+      "「Full Clip」を掘るなら、先に「You Know My Steez」の第3ヴァースへ戻ってみたい。DJ PremierはWordplayの取材で、そこにある一節をサンプリングしたと説明している。別の曲のラップの一部が、ここではフックを作る材料になった。",
+      "その一節は、ステージで客席が返す言葉にもなった。Premierによれば、「Full Clip」をかけると観客が声を合わせ、終演時やアンコールでもその言葉で締めくくっていたという。録音に残ったGuruの声と、会場で返ってくる声。短いサンプルの用途は、曲の中だけには収まらなかった。",
+      "「Full Clip」は1999年の『Full Clip: A Decade of Gang Starr』に収められている。公式サイトが十周年を記念する回顧盤と位置づける作品だ。ただ過去曲を並べるだけでなく、その中の言葉を別の曲で使い直す。フックの出所をたどることは、Gang Starrが自分たちの録音をどう扱ったかを見る入口になる。"
     ],
     "facts": [
       {
@@ -4331,14 +4390,29 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "積み重ねた仕事を、鮮明なビートで振り返る。"
+      "You Know My Steezの第3ヴァースとFull Clipのフックを比べ、同じ言葉の役割を追う。"
     ],
-    "context": "ビートの鮮明さに引かれたら、声が残す間合いにも耳を向けたい。強さを長く保つために、どこで力を抜いているかを聴くのも面白い。",
+    "context": "本人・参加者の制作回想に基づく記事。掲載音源の実再生やマスター同一性は今回再検証していない。",
     "sources": [
       {
         "label": "YouTube — Gang Starr / Full Clip",
         "url": "https://www.youtube.com/watch?v=ySyYlXbOIjI",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Wordplay — DJ Premier取材",
+        "url": "https://www.wordplaymagazine.com/blog-1/2019/12/2/dj-premier-interview",
+        "kind": "本人への制作取材"
+      },
+      {
+        "label": "Qobuz — Full Clip: A Decade Of Gang Starr 配信クレジット",
+        "url": "https://www.qobuz.com/gb-en/album/full-clip-a-decade-of-gang-starr-gang-starr/0724352118953",
+        "kind": "配信クレジット"
+      },
+      {
+        "label": "Gang Starr公式 — BIO",
+        "url": "https://gangstarr.global/pages/bio",
+        "kind": "公式作品紹介"
       }
     ],
     "producers": [
@@ -4359,7 +4433,20 @@
       "cut-scratch"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1,
+        2,
+        3
+      ]
+    ]
   },
   {
     "id": "diamond-d-best-kept-secret",
@@ -6346,11 +6433,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "ピアノの余韻から、街の言葉へ。Pete Rockの別の仕事。",
-    "essayTitle": "ピアノの余韻の向こうに、Nasの街の言葉",
+    "deck": "Nasが選んだのはビートだけではなかった。Pete Rockの声が加わるまでを、本人の証言からたどる。",
+    "essayTitle": "Pete Rockに歌ってほしいと頼んだNas",
     "essay": [
-      "ピアノの余韻から、街の言葉へ。Pete Rockの別の仕事。",
-      "ピアノの余韻とNasの声を、同じ距離で聴かずに置いてみる。開けた音の向こうに街の言葉がある。その遠近がこの曲の気持ちよさにつながっていると思う。"
+      "「The World Is Yours」のフックをPete Rockに歌ってもらう。それはNasの提案だった。PeteはDJBoothのインタビューで、最初は乗り気ではなかったものの、Nasの希望を受けて歌ってみたと振り返る。制作クレジットの名前が、そのまま曲中の声にもつながっている。",
+      "二人を引き合わせたのはLarge Professorだ。Peteの家でビートを聴いたNasが反応し、フックの構想を口ずさみ始めたという。素材になったのはAhmad Jamal Trioの「I Love Music」。Peteが用意したビートを受け取るだけでなく、Nasも声の入れ方を提案して曲を形にしていた。",
+      "ラップに加え、フックのPeteの声にも注意して聴き直してみたい。"
     ],
     "facts": [
       {
@@ -6381,10 +6469,10 @@
     ],
     "sampleStatus": "代表的な素材を資料で確認",
     "listening": [
-      "ピアノの余韻から、街の言葉へ。Pete Rockの別の仕事。",
-      "Ahmad Jamalの「I Love Music」へ戻り、素材と完成した曲で音の役割がどう変わるかを確かめる。"
+      "Pete Rockのフックに注意を向け、制作担当者の声を追う。",
+      "I Love MusicとIt’s Yoursという異なる素材の入口を確かめる。"
     ],
-    "context": "ピアノの余韻とNasの声を、同じ距離で聴かずに置いてみる。開けた音の向こうに街の言葉がある。その遠近がこの曲の気持ちよさにつながっていると思う。",
+    "context": "Pete Rock本人の回想から、Nasがフックの声を提案した経緯をたどる。掲載音源の実再生は今回再検証していない。",
     "sources": [
       {
         "label": "YouTube — Nas / The World Is Yours",
@@ -6392,9 +6480,19 @@
         "kind": "参考投稿・配信候補"
       },
       {
-        "label": "Nas and DJ Green Lantern's 'Nas Timeline' sample of Nas's 'The World Is Yours' | WhoSampled",
-        "url": "https://www.whosampled.com/sample/103388/Nas-DJ-Green-Lantern-Nas-Timeline-Nas-The-World-Is-Yours/",
-        "kind": "サンプル関係の調査資料"
+        "label": "DJBooth：Pete Rock本人へのBeat Breakインタビュー",
+        "url": "https://djbooth.net/features/2018-10-25-pete-rock-beat-break-interview/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "XXL：Illmatic制作陣のオーラルヒストリー",
+        "url": "https://www.xxlmag.com/making-of-nas-illmatic/",
+        "kind": "関係者の直接証言"
+      },
+      {
+        "label": "Legacy Recordings：Illmatic XX公式曲目",
+        "url": "https://www.legacyrecordings.com/releases/illmatic-xx-legacy-edition-pa-2-cd-digipak/?order=desc",
+        "kind": "発売元公式曲目"
       }
     ],
     "producers": [
@@ -6412,7 +6510,18 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "nas-it-ain-t-hard-to-tell",
@@ -6461,11 +6570,12 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "大きな旋律の記憶を、ラップの現在へ組み替える。",
-    "essayTitle": "記憶に残る旋律を横切る、ラップの現在",
+    "deck": "デモにもあった曲を、そのまま出したわけではない。歌詞とビート、それぞれの磨き直しをたどる。",
+    "essayTitle": "デモから磨き直した「It Ain’t Hard to Tell」",
     "essay": [
-      "大きな旋律の記憶を、ラップの現在へ組み替える。",
-      "耳に残る旋律を追ったら、ラップがその記憶をどう横切るかを聴く。親しみのある響きが別の曲の現在になる、その変化に面白さを感じる。"
+      "第1ヴァースと、第2ヴァースの大部分を書き換えた一方、ビートの大枠は残したとMC Serchは語る。デモと完成版を比較する入口になる。",
+      "そのビートの作り直しにはDJ Premierも立ち会っていた。The FADERのインタビューで、Michael Jacksonの「Human Nature」を使った状態から、Large Professorがさらにファンキーにしようと手を加え、新しいドラムを組んだと振り返っている。骨格が残ることと、細部が変わることは両立する。",
+      "Large Professor自身はNPRのインタビューで、この曲を地元で祝杯を上げるようなものとして説明した。荒さを残しながら、言葉は気分を押し上げる。その説明を手掛かりにすると、元曲を当てるだけでなく、親しみのある素材をどんな場の音楽にしたかったのかまで聴き直せる。"
     ],
     "facts": [
       {
@@ -6496,10 +6606,10 @@
     ],
     "sampleStatus": "代表的な素材を資料で確認",
     "listening": [
-      "大きな旋律の記憶を、ラップの現在へ組み替える。",
-      "Michael Jacksonの「Human Nature」へ戻り、素材と完成した曲で音の役割がどう変わるかを確かめる。"
+      "デモと完成版を比較する際は、歌詞の改稿とドラムの変更を分けて確認する。",
+      "通常曲と追加リミックスは版名をそろえて選ぶ。"
     ],
-    "context": "耳に残る旋律を追ったら、ラップがその記憶をどう横切るかを聴く。親しみのある響きが別の曲の現在になる、その変化に面白さを感じる。",
+    "context": "デモからの歌詞・ビートの改稿を、制作関係者の証言で区別して扱う。掲載音源の実再生は今回再検証していない。",
     "sources": [
       {
         "label": "YouTube — Nas / It Ain't Hard to Tell",
@@ -6507,9 +6617,24 @@
         "kind": "参考投稿・配信候補"
       },
       {
-        "label": "Nach feat. DJ Zide's 'Classic' sample of Nas's 'It Ain't Hard to Tell' | WhoSampled",
-        "url": "https://www.whosampled.com/sample/296909/Nach-DJ-Zide-Classic-Nas-It-Ain%27t-Hard-to-Tell/",
-        "kind": "サンプル関係の調査資料"
+        "label": "The FADER Uncovered：DJ Premier本人インタビュー",
+        "url": "https://www.thefader.com/2021/11/01/dj-premier-on-gang-starr-80s-synth-pop-and-biggies-comedic-side",
+        "kind": "本人インタビュー文字起こし"
+      },
+      {
+        "label": "XXL：Illmatic制作陣のオーラルヒストリー",
+        "url": "https://www.xxlmag.com/making-of-nas-illmatic/",
+        "kind": "関係者の直接証言"
+      },
+      {
+        "label": "NPR Microphone Check：Large Professor Part 2（WUNC掲載）",
+        "url": "https://www.wunc.org/npr-music/2015-08-20/large-professor-part-2-i-really-live-through-this-music",
+        "kind": "本人インタビュー文字起こし"
+      },
+      {
+        "label": "Legacy Recordings：Illmatic XX公式曲目",
+        "url": "https://www.legacyrecordings.com/releases/illmatic-xx-legacy-edition-pa-2-cd-digipak/?order=desc",
+        "kind": "発売元公式曲目"
       }
     ],
     "producers": [
@@ -6526,7 +6651,18 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        1
+      ],
+      [
+        3
+      ]
+    ]
   },
   {
     "id": "nas-n-y-state-of-mind",
@@ -6574,11 +6710,12 @@
       "lettering": "tag",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "鍵盤の反復と声の緊張。都市の奥行きを聴く。",
-    "essayTitle": "鍵盤は繰り返し、言葉は緊張を運ぶ",
+    "deck": "冒頭で迷っていたのは、言葉ではなく入りどころだった。",
+    "essayTitle": "最初の一節に飛び込むまでの、Nasのためらい",
     "essay": [
-      "鍵盤の反復と声の緊張。都市の奥行きを聴く。",
-      "鍵盤の反復を足場にして、声が先へ進むのを聴く。緊張が続く理由を大きな展開に求めず、同じ音と違う言葉の関係から探したい。"
+      "Premierの回想では、Nasは冒頭で入りどころをつかめず、合図を受けてラップに入った。最初のヴァースは一度で録れたという。",
+      "一方、Nasは大半の歌詞を事前に書いていたと説明する。一発録りと、その場ですべて即興したことは同じではない。",
+      "映画『Time Is Illmatic』でPremierは、遅く暗い曲を目指したと話す。冒頭から声が入るまでの間を、聴き直す手掛かりにしたい。"
     ],
     "facts": [
       {
@@ -6592,14 +6729,29 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "鍵盤の反復と声の緊張。都市の奥行きを聴く。"
+      "ラップが始まる直前から、最初のヴァースへ入る間を追ってみる。"
     ],
-    "context": "鍵盤の反復を足場にして、声が先へ進むのを聴く。緊張が続く理由を大きな展開に求めず、同じ音と違う言葉の関係から探したい。",
+    "context": "1994年のIllmatic収録曲。録音時の回想と掲載音源の実再生検証は分けている。",
     "sources": [
       {
         "label": "YouTube — Nas / N.Y. State of Mind",
         "url": "https://www.youtube.com/watch?v=hI8A14Qcv68",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "XXL：An Oral History of Nas’ Classic Debut Album Illmatic",
+        "url": "https://www.xxlmag.com/making-of-nas-illmatic/",
+        "kind": "当事者インタビュー"
+      },
+      {
+        "label": "PBS：Nas: Time Is Illmatic 公式トランスクリプト",
+        "url": "https://www.pbs.org/video/nas-time-is-illmatic-sr8hah/",
+        "kind": "当事者の映像インタビューを書き起こした一次資料"
+      },
+      {
+        "label": "Apple Music：Illmatic",
+        "url": "https://music.apple.com/us/album/illmatic/662324135",
+        "kind": "公式配信メタデータ"
       }
     ],
     "producers": [
@@ -6620,7 +6772,18 @@
       "raw-beats"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "nas-represent",
@@ -6668,11 +6831,12 @@
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "低い重心のまま、言葉が前へ進む。",
-    "essayTitle": "重心の低いビートを、言葉が追い越していく",
+    "deck": "アルバムに入ったビートは最初の案ではなかった。DJ Premierが語る「Represent」の作り直し。",
+    "essayTitle": "「Represent」は、ビートを作り直していた",
     "essay": [
-      "低い重心のまま、言葉が前へ進む。",
-      "低い重心を保つビートと、前へ出る言葉の動きを追う。背景は落ち着いているのに声は止まらない。その速度差が曲を運んでいるように聞こえる。"
+      "『Illmatic』の「Represent」は、最初のビートのまま発売された曲ではない。DJ Premierは『Questlove Supreme』で、アルバムに入ったものを自分でリミックスと呼び、初期版には別のジャズのベースラインを使っていたと説明している。ここでいうリミックスは、発売後の追加盤ではなく、完成までの作り直しのことだ。",
+      "Premierによると、変更を決意する刺激になったのがQ-Tipの「One Love」だった。新しい「Represent」をNasに聴かせても、すぐには賛成してもらえず、採用してほしいと繰り返し頼んだという。プロデューサー同士の競争という話が、この曲ではビートの差し替えとして具体的に残っている。",
+      "Nasはこの曲について、MC ShanとMarley Marlが築いたQueensbridgeの看板を引き継ぐ重みを語っている。"
     ],
     "facts": [
       {
@@ -6686,14 +6850,30 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "低い重心のまま、言葉が前へ進む。"
+      "発売版と初期制作版を取り違えず、ビートが変わると受け取り方も変わるか確かめる。",
+      "Queensbridgeの先行者を意識したNasの言葉に注目する。"
     ],
-    "context": "低い重心を保つビートと、前へ出る言葉の動きを追う。背景は落ち着いているのに声は止まらない。その速度差が曲を運んでいるように聞こえる。",
+    "context": "Premier本人の回想から、アルバム完成までのビート差し替えを扱う。発売後の別リミックスや掲載音源のマスターを特定した説明ではない。",
     "sources": [
       {
         "label": "YouTube — Nas / Represent",
         "url": "https://www.youtube.com/watch?v=xiVY_yPgvMs",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Questlove Supreme：DJ Premier（2017年インタビュー再配信）",
+        "url": "https://www.iheart.com/podcast/1119-the-questlove-show-53194211/episode/qls-classic-dj-premier-92901812/",
+        "kind": "番組公式の自動文字起こし"
+      },
+      {
+        "label": "XXL：Illmatic制作陣のオーラルヒストリー",
+        "url": "https://www.xxlmag.com/making-of-nas-illmatic/",
+        "kind": "関係者の直接証言"
+      },
+      {
+        "label": "Legacy Recordings：Illmatic XX公式曲目",
+        "url": "https://www.legacyrecordings.com/releases/illmatic-xx-legacy-edition-pa-2-cd-digipak/?order=desc",
+        "kind": "発売元公式曲目"
       }
     ],
     "producers": [
@@ -6713,7 +6893,18 @@
       "raw-beats"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "large-professor-i-juswanna-chill",
@@ -19948,12 +20139,12 @@
       "lettering": "subway",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "遠くにいる誰かへ、音のなかで話しかける。",
-    "essayTitle": "返事の来る場所。",
+    "deck": "Nasが友人と交わしていた手紙。そのやり取りが、収監された仲間を励ます曲の出発点になった。",
+    "essayTitle": "収監中の友人との手紙が「One Love」になった",
     "essay": [
-      "手紙は、相手のいない場所で相手に話しかける道具である。音楽もまた、目の前にいない誰かへ届く。One Loveをその二つの間に置くと、声の距離を聴くための入口になる。",
-      "Q-Tipによる制作と、The Heath BrothersのSmilin’ Billy Suite Part IIの使用が確認できる。『Illmatic』からジャズのレコードへ戻れば、曲の輪郭を作る音に、別の時間があったことが分かる。ひとつの街の話が、ひとつの年だけでできているわけではない。",
-      "まず曲の言葉の置き方を追い、それから元の録音へ帰る。戻ってきたとき、同じ曲が少し違う距離から聞こえれば、それでいい。知識は、ときどき耳の置き場所を変える。"
+      "「One Love」の出発点は、収監中の友人とNasが実際に交わした手紙だった。『Time Is Illmatic』で、外の近況を書いて返していたと話している。",
+      "目的は仲間を励ますこと。同じ作品でQ-Tipは、収監の影響が本人の家族にも及ぶ点に注目する。",
+      "誰に何を知らせ、何を気にかけているか。近況報告と相手への問いを分けて追うと、手紙という行為から曲に入り直せる。"
     ],
     "facts": [
       {
@@ -19983,9 +20174,8 @@
       }
     ],
     "listening": [
-      "曲名や版名を確かめ、参加者ごとに声を追って聴く。",
-      "同じアーティストの別の時期の曲へ進み、違いを自分の耳で探す。",
-      "元ネタが確認できた曲は、原曲へ戻ってからもう一度聴く。"
+      "誰への便りなのか、何を報告し、どう気遣っているかを追う。",
+      "収監中の相手だけでなく、外の家族や友人へ話が及ぶ箇所に注意する。"
     ],
     "context": "1994年の位置から、New Yorkのレコードをたどる。制作背景と発売情報は出典を示し、聴感の解説とは分けて扱う。",
     "sources": [
@@ -19998,6 +20188,16 @@
         "url": "https://www.xxlmag.com/making-of-nas-illmatic/",
         "label": "XXL — Illmatic制作陣の証言／One Loveのサンプル",
         "kind": "関係者インタビュー"
+      },
+      {
+        "label": "PBS：Nas: Time Is Illmatic 公開トランスクリプト",
+        "url": "https://www.pbs.org/video/nas-time-is-illmatic-sr8hah/",
+        "kind": "Nas・Q-Tip出演ドキュメンタリー文字起こし"
+      },
+      {
+        "label": "Legacy Recordings：Illmatic XX公式曲目",
+        "url": "https://www.legacyrecordings.com/releases/illmatic-xx-legacy-edition-pa-2-cd-digipak/?order=desc",
+        "kind": "発売元公式曲目"
       }
     ],
     "producers": [
@@ -20018,6 +20218,17 @@
     "datePublished": "2026-10-14",
     "artists": [
       "Nas"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ]
     ]
   },
   {

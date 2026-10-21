@@ -113,8 +113,8 @@
           "shelf": "loop",
           "evidence": {
             "file": "tracks.json",
-            "field": "essay.0",
-            "quote": "短い旋律が、同じ場所を何度も通る。それなのに退屈しない。「Mass Appeal」を聴くと、材料の多さと料理のうまさは別なのだと分かる。こちらは、ずいぶん少ない材料で腹を満たされる。"
+            "field": "listening.0",
+            "quote": "冒頭でGuruが入る位置を追い、ループの繰り返しとの関係を確かめてみる。"
           }
         }
       ]
@@ -204,8 +204,8 @@
           "shelf": "bass",
           "evidence": {
             "file": "tracks.json",
-            "field": "deck",
-            "quote": "深い低音に、掛け合いの楽しさ。重くても、足は軽い。"
+            "field": "listening.0",
+            "quote": "低音の動きとMCが交代するときのつなぎを、それぞれ追ってみる。"
           }
         }
       ]
