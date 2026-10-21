@@ -14482,12 +14482,13 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "気に入ったループを、手元のビートへ重ねた。DJ Shadowの2012年の回想から、曲が生まれた組み合わせと、本人にも取り戻せない制作手順をたどる。",
-    "essayTitle": "作り直せないビートに、あのループを重ねる。",
+    "deck": "「Midnight」の映像は、完成した曲ではなくサンプルに合わせて撮られた。B+の制作回想から、音と映像の切れ目を追ってみる。",
+    "essayTitle": "サンプルの切れ目を映像で見る",
     "essay": [
-      "完成した曲は何度でも再生できる。けれど、その作り方まで同じように取り戻せるとは限らない。DJ Shadowは2012年のThe Quietusの取材で、「Midnight In A Perfect World」のビートをどう加工したのか、自分でも思い出せないと振り返っている。",
-      "一方、主要なサンプルとの出会いは、MPCを使い始めて間もない1992年ごろ、あるいはそれ以前だったという。気に入っていた短いループを、すでに持っていたビートへ合わせた。それが「Midnight」の出発点だと説明する。レコードを見つけることと、曲になる組み合わせを見つけることは、同じ瞬間ではなかった。",
-      "この証言を読むと、元ネタの一覧とは別の制作史が見えてくる。何を使ったかだけでなく、手元にあった断片同士をいつ結びつけたか。完成形から手順を逆算しきれないところに、サンプリングを選択と編集の仕事として考える手がかりがある。"
+      "「Midnight in a Perfect World」のミュージックビデオには、サンプリングの仕組みを目で追うための工夫がある。映像を手がけたBrian “B+” Crossによると、撮影の基準にしたのは完成曲ではなく、材料になったサンプルだった。",
+      "本人が例に挙げるのは、女性がチェロを弾く場面。二つの映像を徐々に重ねるディゾルブを入れ、その途中で切る。もとの音楽の流れより、Shadowが組み直した曲の切れ目を優先する編集だという。映像の奏者を、そのままサンプルの演奏者だと思わないことも大切だ。",
+      "音の組み合わせについては、Shadow自身も別の回想を残している。気に入ったループを見つけたのは1992年ごろか、それ以前。すでにあったビートにそのループを合わせて曲が生まれたが、ビートの加工手順は思い出せないと、2012年のThe Quietusで話している。",
+      "繰り返すフレーズの始まりと終わりを追い、MVの画面が切り替わる場所と比べてみたい。ここで取り上げるMVと、このページの掲載動画が同じ編集版かは今回確認していない。"
     ],
     "facts": [
       {
@@ -14552,10 +14553,10 @@
     ],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "本人が語る「先にあったビート」と「後から合わせたループ」を分けて考え、重なったときの関係を追ってみる。",
-      "サンプル元の名前を調べる際も、2012年の証言が「主要なサンプル」の曲名を明示していない点は分けて読む。"
+      "繰り返すフレーズを一つ選び、始まりと終わりを追う。",
+      "ミュージックビデオでは、音の区切りと画面の編集がどう対応するか確かめる。映像の楽器をサンプル元の証拠にはしない。"
     ],
-    "context": "音が重なる場所と、奥へ引いていく場所を聴き分けたい。夜のような感触が、単に静かな音だけでできているわけではないところに惹かれる。",
+    "context": "1996年のアルバム収録曲を対象にする。本文のMVは別の鑑賞対象で、掲載動画と同じ編集版かは今回未検証。",
     "sources": [
       {
         "label": "YouTube — DJ Shadow / Midnight in a Perfect World",
@@ -14571,6 +14572,21 @@
         "label": "The Quietus — DJ Shadow本人によるReconstructed曲別回想、2012年10月23日",
         "url": "https://thequietus.com/interviews/dj-shadow-reconstructed-best-of-interview/",
         "kind": "本人インタビュー"
+      },
+      {
+        "label": "Brian “B+” Cross本人インタビュー（2020年取材／2021年公開）",
+        "url": "https://www.djshadowreconstructed.com/post/brian-b-cross-the-man-behind-the-camera-s",
+        "kind": "映像制作者本人インタビュー（独立アーカイブ掲載）"
+      },
+      {
+        "label": "DJ Shadow公式ストア：20周年盤の本編・別テイク・リミックス一覧",
+        "url": "https://djshadow.com/collections/all/products/endtroducing-20th-anniversary-endtrospective-edition-3cd-deluxe-digipack",
+        "kind": "アーティスト公式作品情報"
+      },
+      {
+        "label": "DJ Shadow公式ストア：Endtroducing..... 30周年盤",
+        "url": "https://djshadow.com/products/dj-shadow-endtroducing-30th-anniversary-edition-2lp-pre-order",
+        "kind": "アーティスト公式作品情報"
       }
     ],
     "producers": [
@@ -14594,12 +14610,16 @@
     "noteReviewedAt": "2026-10-17",
     "essaySources": [
       [
-        2
+        3
+      ],
+      [
+        3
       ],
       [
         2
       ],
       [
+        3,
         2
       ]
     ]
@@ -14934,12 +14954,12 @@
       "lettering": "subway",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "温かな断片が、90年代の先でも息をしている。",
-    "essayTitle": "温かな断片が、90年代の先でも息をしている。",
+    "deck": "『The Shining』通常版の客演はCommonとD’Angelo。公式インスト版を手掛かりに、声とビートを聴き分ける。",
+    "essayTitle": "「So Far to Go」を、声あり・声なしで",
     "essay": [
-      "温かな断片が、90年代の先でも息をしている。",
-      "「So Far to Go」をこの棚に置く理由は、温かな断片が、90年代の先でも息をしているという聴きどころにある。大きな名前の曲も、少し掘った曲も、その音の魅力で隣り合うように選んだ。",
-      "90年代の音の感覚が、その後へどう受け継がれたかを聴く。"
+      "「So Far to Go」でJ Dillaと並んでクレジットされるのは、CommonとD’Angeloだ。2006年の『The Shining』に収められた曲で、BBEの公式曲目では6曲目、5分36秒。J Dilla一人の名前だけで探すより、この二人の参加を押さえると曲の姿が見えやすくなる。",
+      "聴き比べの相手には、BBEが出している『The Shining Instrumentals』がある。こちらにも同名曲が5分36秒で収録されている。まず声入りを聴き、次にインストへ移って、声を追っていたときには意識しなかった音を探す。もう一度声入りへ戻れば、ビートのどこに注意を向けるかも変えられる。",
+      "ただし、同じ曲名でも版を確かめたい。2016年の10周年7インチ集では「Short Edit」と明記されている。また、Commonの2007年作『Finding Forever』にも、D’Angeloを迎えた同名曲がある。ここでの出発点はあくまでJ Dilla名義の『The Shining』通常版。聴き比べるときも、アルバム名までそろえて選ぶと迷わない。"
     ],
     "facts": [
       {
@@ -14953,15 +14973,44 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "温かな断片が、90年代の先でも息をしている。",
-      "声が入る前のビートと、声が入ったあとの重心を聴き比べる。"
+      "通常アルバム版と公式インスト版を往復し、声を追っていたときに意識しなかった音を探す。"
     ],
-    "context": "90年代の音の感覚が、その後へどう受け継がれたかを聴く。",
+    "context": "『The Shining』通常版5分36秒を記事の対象にする。Short EditやCommon名義の同名曲とは区別し、掲載音源の版同一性は今回未検証。",
     "sources": [
       {
         "label": "YouTube — J Dilla / So Far to Go",
         "url": "https://www.youtube.com/watch?v=fw64fXeWe_8",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "BBE：The Shining、BBE076",
+        "url": "https://bbemusic.com/product/the-shining",
+        "kind": "発売元原盤・発売告知"
+      },
+      {
+        "label": "BBE公式Bandcamp：The Shining",
+        "url": "https://jdilla.bandcamp.com/album/the-shining",
+        "kind": "発売元曲目・時間"
+      },
+      {
+        "label": "BBE公式Bandcamp：The Shining Instrumentals",
+        "url": "https://jdilla.bandcamp.com/album/the-shining-instrumentals",
+        "kind": "発売元別版曲目"
+      },
+      {
+        "label": "BBE公式Bandcamp：10th Anniversary 7 Inch Collection",
+        "url": "https://jdilla.bandcamp.com/album/the-shining-the-10th-anniversary-7-inch-collection",
+        "kind": "発売元別版曲目"
+      },
+      {
+        "label": "Apple Music：Common / Finding Forever",
+        "url": "https://music.apple.com/us/album/finding-forever/1440726835",
+        "kind": "権利者配信情報・サービス編集文"
+      },
+      {
+        "label": "Apple Music：Common & D’Angelo / So Far to Go",
+        "url": "https://music.apple.com/lc/song/1440726845",
+        "kind": "配信クレジット"
       }
     ],
     "producers": [
@@ -14980,7 +15029,21 @@
     "editorialCrates": [
       "funk-soul"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        1,
+        2
+      ],
+      [
+        3
+      ],
+      [
+        4,
+        5,
+        6
+      ]
+    ]
   },
   {
     "id": "slum-village-fall-in-love",
@@ -23229,12 +23292,12 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "真昼という名前に、影の濃さを聴く。",
-    "essayTitle": "真昼という名前に、影の濃さを聴く。",
+    "deck": "DJ Shadow本人が語った、細かく切り分けたドラムの組み立てを追う。",
+    "essayTitle": "ドラムだけで、約100パッド",
     "essay": [
-      "High Noon。DJ ShadowのMo' Wax期のシングルとして、レコードを掘る入口に置きたい一枚だ。",
-      "サンプリングの面白さは、素材の名前を当てることだけではない。断片を並べる順序が変われば、聴き手の時間の流れも変わる。",
-      "盤面の細かな違いは、これから照合していく。まずは一枚の12インチを、音楽の地図に戻しておきたい。"
+      "「High Noon」の制作で、DJ Shadowが細かく語っているのはドラムだ。1997年のKeyboardのインタビューでは、切り分けたドラム音をMPC-3000の64パッドに割り当て、さらに別のディスクも使ったと説明している。ドラムだけで約100パッド。その数字から、この曲に注ぎ込んだ編集の細かさが見えてくる。",
+      "ドラムを主役にして聴き、短い断片が次の打音へどうつながるかに注目したい。",
+      "本人が英国向けの単発シングルと説明したこの曲は1997年発売。翌年の編集盤『Preemptive Strike』への収録とは区別したい。"
     ],
     "facts": [
       {
@@ -23248,15 +23311,34 @@
     "samples": [],
     "sampleStatus": "サンプル元は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "真昼という名前に、影の濃さを聴く。",
-      "短い反復と音の重なり方に耳を向ける。"
+      "短いドラムの断片が次の打音へどうつながるかに注意して聴いてみる。"
     ],
-    "context": "DJ ShadowのMo' Wax期の12インチ作品をたどる。",
+    "context": "1997年のMo’ Waxシングルを対象にする。1998年の編集盤や後年の別ミックスとは区別し、掲載音源のマスター同一性は今回未検証。",
     "sources": [
       {
         "label": "DJ Shadow公式 — The Mo' Wax Singles 1993–1997",
         "url": "https://shop.djshadow.com/blogs/news/the-mo-wax-singles-1993-1997-box-set-with-exclusive-signed-print-now-available-for-pre-order",
         "kind": "アーティスト公式"
+      },
+      {
+        "label": "Keyboard 1997年10月号：DJ Shadow本人インタビュー（Solesides掲載）",
+        "url": "https://www.solesides.com/dj-shadow-mdj-shadow-keyboard-october-1997.html",
+        "kind": "本人インタビューの再録"
+      },
+      {
+        "label": "The Quietus：DJ Shadow’s Reconstructed: An Oral History",
+        "url": "https://thequietus.com/interviews/dj-shadow-reconstructed-best-of-interview/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Apple Music：High Noon - EP",
+        "url": "https://music.apple.com/us/album/high-noon-ep/6783457034",
+        "kind": "公式配信メタデータ"
+      },
+      {
+        "label": "Apple Music：Preemptive Strike",
+        "url": "https://music.apple.com/us/album/preemptive-strike/1660563908",
+        "kind": "公式配信メタデータ"
       }
     ],
     "producers": [
@@ -23274,7 +23356,20 @@
     "editorialCrates": [
       "cut-scratch"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1,
+        3,
+        4
+      ]
+    ]
   },
   {
     "id": "dj-shadow-the-number-song",
@@ -23567,12 +23662,13 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "ピアノの反復に、ドラムが奥行きを与える。",
-    "essayTitle": "小さな反復の、大きな部屋。",
+    "deck": "ピアノのそばで話すのは、ドラマーのGeorge Marsh。本人取材で明かされた語りと打楽器の出所から、この曲に集まった録音をたどる。",
+    "essayTitle": "ドラマーの声と学校のレコード",
     "essay": [
-      "同じピアノが戻ってくる。そのたびに少し違う景色が見えるように感じるのは、下を走るドラムに、こちらの体がついていくからだ。",
-      "反復は音楽の省略ではない。わずかな隙間に何を置くか、何を置かずにおくか。その判断で、短い断片にも広い部屋ができる。",
-      "大きな物語を語るのに、音を増やす必要はない。この曲を入口にすると、レコードを聴く耳も、少しだけ辛抱強くなる。"
+      "「Building Steam With a Grain of Salt」の語りは、新録のナレーションではない。2012年のNPRでShadowは、ピアノはJeremy Storchのレコード、話し声はドラマーGeorge Marshの声を収めた教則盤から取ったと説明している。",
+      "同じ番組で取り上げられたパーカッションは、高校の演奏記録から。学校のバンドが残したレコードにも、Shadowは材料を見つけていた。ここで説明されるのは一つの打楽器の出所で、曲中のドラムすべてを同じ録音と考える必要はない。",
+      "Marshの公式サイトにも『Endtroducing.....』が載り、自分の声がShadowにサンプリングされたことが紹介されている。語り手の名前を知ると、この曲からドラマー自身の録音へ戻る道もできる。まず声に耳を向けてから、Marshの作品一覧をのぞいてみるのも面白い。",
+      "ピアノ、話し声、打楽器を順番に追ってみよう。それぞれを別の録音として聴くと、曲に入る前にはどんな役目を持っていたのかが気になってくる。演奏を教えるための声や、学校に残すための記録が、同じビートの中でどう組み合わされるか。それがこの曲を掘る具体的な入口になる。"
     ],
     "facts": [
       {
@@ -23618,10 +23714,10 @@
     ],
     "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "ピアノの反復とドラムの組み合わせ。",
-      "音が重なる部分と、引かれる部分。"
+      "ピアノの反復を追い、George Marshの話し声やパーカッションとの組み合わせを確かめる。",
+      "教則盤の語りを単なる音色としてだけでなく、演奏者の言葉として聴く。"
     ],
-    "context": "1996年の『Endtroducing.....』を通して、DJ Shadowの音楽の広がりをたどる。",
+    "context": "1996年のEndtroducing.....収録曲。NPRの曲別解説とGeorge Marsh公式サイトから、素材の出所をたどる。",
     "sources": [
       {
         "label": "Endtroducing..... / 公式作品情報",
@@ -23647,6 +23743,16 @@
         "label": "NPR：Guy RazによるDJ Shadow本人取材（2012）／NCPR掲載",
         "url": "https://www.northcountrypublicradio.org/news/npr/165145271/dj-shadow-on-sampling-as-a-collage-of-mistakes",
         "kind": "本人インタビュー"
+      },
+      {
+        "label": "George Marsh公式サイト：参加録音とサンプリングされた声",
+        "url": "https://www.georgemarsh.com/cds",
+        "kind": "素材演奏者公式"
+      },
+      {
+        "label": "DJ Shadow公式ストア：20周年盤の本編・別テイク・リミックス一覧",
+        "url": "https://djshadow.com/collections/all/products/endtroducing-20th-anniversary-endtrospective-edition-3cd-deluxe-digipack",
+        "kind": "アーティスト公式作品情報"
       }
     ],
     "producers": [
@@ -23669,7 +23775,22 @@
     "artists": [
       "DJ Shadow"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ],
+      [
+        5
+      ],
+      [
+        4,
+        5
+      ]
+    ]
   },
   {
     "id": "dj-shadow-stem-long-stem",
@@ -23717,12 +23838,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "静けさと緊張を往復する、長い音の組み立て。",
-    "essayTitle": "音の向こうで、場面が変わる。",
+    "deck": "ハードコア・ロックのようなビートを、サンプルの配置で作る。",
+    "essayTitle": "サンプルのドラムで、ハードコアを組む",
     "essay": [
-      "静かに構えたつもりでいると、音楽のほうが先に曲がっていく。StemとLong Stemを続けて聴く面白さは、その角を曲がる瞬間にある。",
-      "ひとつのループに居場所を決めず、響きとビートの距離を変えていく。頭の中の映像だけが、勝手に編集室へ入ってしまう。",
-      "筋書きを探すより、場面の変化に身を預けたい。長い曲が短く感じられたら、それは時間の使い方を少し盗まれたということだ。"
+      "Shadowは1996年のURBで、「Stem」のサンプル・ドラムをハードコア・ロックのビートのように組んだと説明している。素材の出所に加え、その打音で何をしたかったかがわかる。",
+      "2012年のThe Quietusでは、記憶が正しければドラム制作の大半は一晩だったと回想。帰りの車で聴き、翌日に修正したという。",
+      "制作終盤に加えたドラムという回想を手がかりに、ほかの音との関係を追ってみたい。これは本人が「Stem」について語った経緯だ。"
     ],
     "facts": [
       {
@@ -23758,10 +23879,10 @@
     ],
     "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "前半と後半の音の密度。",
-      "静けさからビートへの移り変わり。"
+      "Stemについて本人が語った、ハードコア・ロックを意識したドラムの組み方。",
+      "ドラムを土台としてだけでなく、ほかの音へあとから加えられた要素として聴く。"
     ],
-    "context": "1996年の『Endtroducing.....』を通して、DJ Shadowの音楽の広がりをたどる。",
+    "context": "1996年のアルバム収録曲。本人がStemとして語ったドラム制作の回想を扱い、Long Stem全区間や掲載動画の収録範囲へ広げない。",
     "sources": [
       {
         "label": "Endtroducing..... / 公式作品情報",
@@ -23782,6 +23903,21 @@
         "label": "The Quietus：DJ Shadow本人の曲別回想（2012）",
         "url": "https://thequietus.com/interviews/dj-shadow-reconstructed-best-of-interview/",
         "kind": "本人インタビュー"
+      },
+      {
+        "label": "URB：DJ Shadow本人取材（1996年11月）／Solesidesアーカイブ",
+        "url": "https://www.solesides.com/dj-shadow-why-does-hip-hop-suck-in-96-urb-november-1996.html",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Keyboard：DJ Shadow本人取材（1997年10月）／Solesidesアーカイブ",
+        "url": "https://www.solesides.com/dj-shadow-mdj-shadow-keyboard-october-1997.html",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Qobuz：Endtroducing (Deluxe Edition)配信クレジット",
+        "url": "https://www.qobuz.com/us-en/album/endtroducing-dj-shadow/gj94mf6b5hfgb",
+        "kind": "正規配信メタデータ"
       }
     ],
     "producers": [
@@ -23804,7 +23940,18 @@
     "artists": [
       "DJ Shadow"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ]
+    ]
   },
   {
     "id": "unkle-rabbit-in-your-headlights",
@@ -25499,12 +25646,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "アルバム終盤に置かれた、声と旋律の余韻。",
-    "essayTitle": "夜の終わりを、急がない。",
+    "deck": "『Donuts』の30曲目。曲名だけでは見えてこない、アルバム終盤の並びをたどる。",
+    "essayTitle": "「最後のドーナツ」のあとに、もう一曲",
     "essay": [
-      "曲名を見ただけで、聴く側は少し身構えてしまう。それでもまずは、鳴っている音から受け取りたい。",
-      "声が浮かび、旋律が戻る。短い曲の中で、その往復が思いのほか大きな景色になる。",
-      "作り手の人生を知ることと、音を聴くこと。その両方を大切にしながら、曲が持つ余白も残しておきたい。"
+      "「Last Donut of the Night」は、『Donuts』の最後の曲ではない。Stones Throwの公式配信では全31曲中の30曲目で、長さは1分39秒。そのあとに「Welcome to the Show」が続く。曲名から終幕を想像していたら、この並びを確かめるだけでも聴き直す理由になる。",
+      "『Donuts』は2006年2月7日に発売された。レーベルによると、出発点は出来のよいデモのビートテープをアルバムにするという案だった。一曲だけを取り出すのに加えて、短い曲がどんな順序で並ぶかにも目を向けたい作品だ。",
+      "この曲の前には「Hi.」「Bye.」がある。まずは「Bye.」から続けて聴き、「Last Donut of the Night」で止めずに次へ進んでみる。単独再生ではこの曲の中に向いていた注意を、曲と曲の境目へ移す聴き方だ。タイトルを手掛かりにしながらも、そこで作品の意味を決めつけずに聴ける。"
     ],
     "facts": [
       {
@@ -25525,10 +25672,10 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "アルバム終盤に置かれた、声と旋律の余韻。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "単曲と「Bye.」からの連続再生を比べ、入り方の印象が変わるか確かめる。",
+      "「Last Donut of the Night」のあとも止めずに、次の曲への切り替わりを聴く。"
     ],
-    "context": "2006年の作品として、J Dillaの制作とJ Dillaの表現の接点を聴く。",
+    "context": "2006年『Donuts』の30曲目。公式曲順では続くWelcome to the Showが31曲目で、掲載音源の実再生は今回未検証。",
     "sources": [
       {
         "label": "J Dilla - Topic / Last Donut Of The Night",
@@ -25539,6 +25686,16 @@
         "label": "Stones Throw / Donuts",
         "url": "https://www.stonesthrow.com/store/donuts/",
         "kind": "レーベル公式"
+      },
+      {
+        "label": "Stones Throw公式Bandcamp：Donuts曲順・時間",
+        "url": "https://dilla.bandcamp.com/album/donuts",
+        "kind": "発売元公式配信"
+      },
+      {
+        "label": "Stones Throw：2011年Last Donut of the Night映像コンテスト結果",
+        "url": "https://www.stonesthrow.com/news/jdilla-last-donut-of-the-night-video/",
+        "kind": "主催者Peanut Butter Wolfの一次報告"
       }
     ],
     "producers": [
@@ -25561,7 +25718,18 @@
     "artists": [
       "J Dilla"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "erykah-badu-didnt-cha-know",
@@ -26429,12 +26597,13 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "特徴的な反復と、MF DOOMの声の近さ。",
-    "essayTitle": "小さなループに、大きな声。",
+    "deck": "サンプル元を演奏したDaedelusの証言から、鍵盤の旋律とMadlibのベースを聴き分ける。",
+    "essayTitle": "「Accordion」の音は、アコーディオンではなかった",
     "essay": [
-      "短い反復が続いているのに、声を追うと景色は止まらない。音の材料の数と、曲の豊かさは別の話なのだろう。",
-      "MF DOOMの言葉は、ビートにぴったり貼りつかず、自分の歩幅で進んでいく。その隣をループが回り続ける。",
-      "足すより残すほうが難しい場面もある。この曲を聴くと、音楽の余白は空き地ではなく、きちんと使われた場所だと思う。"
+      "「Accordion」の素材はDaedelusの「Experience」。本人はSong Exploderで、自動送風のハーモニウムのような楽器を弾いたと説明し、厳密にはアコーディオンではないと話している。",
+      "「Experience」は2002年の『Invention』に入っている。Daedelusによれば、Madlibとの接点は、同じアルバムの別曲「Playing Parties」のリミックスだった。その後「Experience」が「Accordion」の素材になる。古いレコードを掘り当てた話ではなく、同時代の作り手どうしをつなぐ録音だった。",
+      "Daedelusは、MadlibのベースとMF DOOMの声が加わったことも挙げる。原曲と続けて聴き、旋律だけでなく低音と言葉の役割を比べたい。",
+      "ここで取り上げるのは、2004年3月23日発売の『Madvillainy』に収められた完成版。公式配信では2曲目、1分58秒だ。まずは「Experience」、次にこの曲という順で、同じ旋律が別の曲の中心になる過程をたどってみたい。"
     ],
     "facts": [
       {
@@ -26448,15 +26617,30 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "特徴的な反復と、MF DOOMの声の近さ。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "ExperienceとAccordionを続けて聴き、繰り返す旋律、低音、声の役割を別々に追う。",
+      "曲名から楽器を決めつけず、元の演奏者による解説と照らす。"
     ],
-    "context": "2004年の作品として、Madlibの制作とMadvillainの表現の接点を聴く。",
+    "context": "2004年『Madvillainy』の完成版を対象に、素材演奏者の証言をたどる。掲載音源の実再生やマスター同一性は今回再検証していない。",
     "sources": [
       {
         "label": "Madvillain - Topic / Accordion",
         "url": "https://www.youtube.com/watch?v=bGCHT6fIEBw",
         "kind": "公式配信・動画"
+      },
+      {
+        "label": "Madvillain公式Bandcamp：Madvillainy",
+        "url": "https://madvillain.bandcamp.com/album/madvillainy",
+        "kind": "発売元公式配信"
+      },
+      {
+        "label": "Song Exploder：Daedelus本人によるExperience制作解説・公式逐語録",
+        "url": "https://songexploder.net/transcripts/daedelus-transcript.pdf",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "FACT：Daedelus本人が振り返るInventionとAccordion",
+        "url": "https://www.factmag.com/2016/03/08/daedelus-album-guide/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -26479,7 +26663,21 @@
     "artists": [
       "Madvillain"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [
+        2
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "madvillain-all-caps",
@@ -54845,12 +55043,12 @@
       "DJ Shadow"
     ],
     "members": "DJ Shadow",
-    "deck": "一定に見える反復から、別の拍の感じ方が現れる。",
-    "essayTitle": "変わり続ける、ひとつのグルーヴ",
+    "deck": "本人によれば、4/4のブレイクを切り直し、7/8のように鳴らした。",
+    "essayTitle": "元の拍子まで切り直す",
     "essay": [
-      "「Changeling」について、Shadowは1996年のURBで4/4のブレイクを切り直し、7/8のように鳴らす試みだったと説明する。原演奏の区切りを、そのまま新しい曲の区切りにしない。借りた音から別の時間を作る発想が、この一曲には具体的に現れている。",
-      "同じ取材で彼は、ラップ以前にブレイクとDJが存在したことを強調した。これはアルバム全体をヒップホップの歴史へ置く発言だ。「Changeling」の変わった拍も、その外側へ逃げるためのものとしてではなく、DJの音楽が持っていた広さから考えてみたい。",
-      "The BamboosのLance Fergusonは、2021年のABC Double Jで、この曲を初めて聴いて自分の音楽人生が変わったと振り返っている。大きな影響という言葉を、アルバムの順位だけで説明する必要はない。次の音楽家の耳が開いた、その具体的な証言を残しておきたい。"
+      "Shadowは1996年のURBで、「Changeling」の4/4のブレイクを切り分け、7/8のように鳴らしたと説明している。元の演奏を借りるだけでなく、反復の長さも組み替えたという話だ。",
+      "次に聴くときは、ドラムがどこで一周すると感じるかを追ってみたい。",
+      "曲全体を7/8と決めつけず、本人の説明を手がかりに、打音の区切りへ注意を向ける。"
     ],
     "essaySources": [
       [
@@ -54860,14 +55058,17 @@
         1
       ],
       [
-        2
+        1
       ]
     ],
     "facts": [],
     "samples": [],
     "sampleStatus": "使用素材の全同定は未完了。サンプル不使用を意味しません。",
-    "listening": [],
-    "context": "一定に見える反復から、別の拍の感じ方が現れる。",
+    "listening": [
+      "ドラムのまとまりが、どこで一周すると感じるか。",
+      "メロディーを追う聴き方から、打音の区切りを追う聴き方へ切り替える。"
+    ],
+    "context": "1996年のアルバム収録曲。拍子の組み替えは本人の説明に基づき、曲全体の拍子や掲載動画の版を実測したものではない。",
     "sources": [
       {
         "label": "YouTube：djshadow公式アーティストチャンネル／PIAS提供アルバム音源",
@@ -54909,6 +55110,21 @@
         "publishedDate": "1997-03",
         "scope": "Changelingの反復と微細な変化。評価であって計測結果ではない。",
         "accessNote": "検索インデックスに現れる該当段落を照合。PDF全体の直接取得は403で未完了。著者名は本文で未確認のため公開文から省いた。"
+      },
+      {
+        "label": "Keyboard：DJ Shadow本人取材（1997年10月）／Solesidesアーカイブ",
+        "url": "https://www.solesides.com/dj-shadow-mdj-shadow-keyboard-october-1997.html",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "DJ Shadow公式：Endtroducing..... 30周年盤",
+        "url": "https://djshadow.com/products/dj-shadow-endtroducing-30th-anniversary-edition-2lp-pre-order",
+        "kind": "公式作品情報"
+      },
+      {
+        "label": "Qobuz：Endtroducing (Deluxe Edition)配信クレジット",
+        "url": "https://www.qobuz.com/us-en/album/endtroducing-dj-shadow/gj94mf6b5hfgb",
+        "kind": "正規配信メタデータ"
       }
     ],
     "connections": [],
@@ -59921,29 +60137,29 @@
     "region": "Los Angeles",
     "scene": "Los Angeles / Stones Throw",
     "label": "Stones Throw Records",
-    "essayTitle": "短いループに、言葉が居残る。",
-    "deck": "2002年のLAで生まれたデモから、2004年の完成版へ。旅の逸話より先に、曲名の残る制作記録をたどる。",
+    "essayTitle": "「Figaro」はデモと完成版を聴き比べたい",
+    "deck": "2分33秒のデモと、2分25秒の完成版。二つの「Figaro」から、声の置き方とアルバムの並べ方を追う。",
     "essay": [
-      "「Figaro」は2分25秒。短いのに、言葉の荷物はずいぶん多い。ビートが同じ場所を回るあいだ、声は句の切れ目を少しずつずらしていく。次の行へ進んだつもりが、前の響きがまだ耳の中にいる。そんな引っかかりを、一度でほどこうとしなくていい。",
-      "Stones Throwの回顧では、MF DOOMがLAの家でMadlibと制作を始めた最初の数日に、「Meat Grinder」と「Figaro」が生まれた。別の追悼記事は、その訪問を2002年とし、そこで作られたものをデモと呼んでいる。ここで案内するのは、2004年3月23日に出た『Madvillainy』の完成版だ。",
-      "2004年のWax Poeticsの対話で、DOOMはDe La Soulの作品から受けた刺激を語り、聴く人に場面や絵が浮かぶ表現を目指すと話している。この曲を、その姿勢から読むのも面白い。筋道だけを追うより、次々に置かれる言葉が頭の中でどんな画面を作るか、少し任せてみる。",
-      "アルバムの制作史にはブラジルで作られたビートの話もある。ただ、その旅の景色を「Figaro」の制作場所に重ねてしまうと、最初のLAでの記録がぼやける。曲の背景も、レコードの溝と同じで、近くに並ぶものが全部ひと続きとは限らない。まずはこの短い一曲の歩幅で掘ってみたい。"
+      "「Figaro」には、公式に聴き比べられるデモがある。『Madvillainy Demos』では6曲目で2分33秒。2004年の完成アルバムでは14曲目で2分25秒だ。八秒の差だけで何が変わったかは決められないが、同じ曲名の別版を並べる、はっきりした入口になる。",
+      "Stones Throwの回顧によると、「Figaro」と「Meat Grinder」は、DOOMがLAの家でMadlibと制作を始めた最初の数日に生まれた曲だ。後年のDemos盤も、初期の声を録音し、手早くミックスした段階を伝えるもの。2004年の完成版を、その最初の録音と同一のものとして扱わないほうが、二人の仕事を細かく追える。",
+      "レーベルは、デモ流出後のアルバム制作で声を録り直し、ビートを追加し、曲順を組み替えたと説明している。「Figaro」のどの語をどう直したかまで示す資料ではない。それでも比較するときの目印はできる。声の入り、句を区切る位置、曲の終わりを順に追えば、長さの数字だけでは分からない違いを自分の耳で確かめられる。",
+      "曲順にも手掛かりがある。両方の版で「Figaro」の前は「Operation Lifesaver AKA Mint Test」だが、次はデモの「Rainbows」に対して完成版では「Hardcore Hustle」。単曲を比べたあとは、前後も続けて聴いてみたい。同じ曲の出口が、次に来る曲によってどう感じられるかまで比較できる。"
     ],
     "essaySources": [
       [
-        2,
-        3
+        3,
+        7
       ],
       [
         0,
-        1
+        8
       ],
       [
-        4
+        8
       ],
       [
-        0,
-        1
+        3,
+        7
       ]
     ],
     "sources": [
@@ -59981,12 +60197,23 @@
         "label": "Stones Throw Records LLC — Figaro（以前の配信メタデータ確認）",
         "url": "https://www.youtube.com/watch?v=I4P5RR4jPGg",
         "kind": "inherited_label_delivery_metadata"
+      },
+      {
+        "label": "Madvillain公式Bandcamp：Madvillainy Demos",
+        "url": "https://madvillain.bandcamp.com/album/madvillainy-demos",
+        "kind": "発売元公式配信"
+      },
+      {
+        "label": "Stones Throw：DemosとAudiophile Editionの説明",
+        "url": "https://www.stonesthrow.com/news/madvillainy-demos-audiophile-edition-vinyl/",
+        "kind": "発売元の版解説"
       }
     ],
     "samples": [],
     "sampleStatus": "本調査は3曲の版・制作史・年表との関係を中心に照合しました。サンプル一覧を網羅したものではなく、未照合の素材を推測で追加していません。",
     "listening": [
-      "ループの戻る位置と、ラップの句が切れる位置を別々に追う。"
+      "公式デモと完成版を並べ、声の入り・句の区切り・終わりを比較する。",
+      "Mint Testから次の曲まで続けて聴き、二つの曲順による印象を比べる。"
     ],
     "moods": [
       "グルーヴ",
@@ -60002,7 +60229,7 @@
       "Madvillain"
     ],
     "category": "Hip Hop",
-    "context": "完成版へ至る時間と、DOOMが言葉で作ろうとした画面を、レーベルの回顧と本人の対話から読む。",
+    "context": "2004年の完成アルバム版と公式デモを比較する記事。掲載音源がデモ版だとは主張せず、実際の音声差は読者が確かめるための手掛かりとして示す。",
     "facts": [
       {
         "title": "掲載音源の版と確認範囲",
