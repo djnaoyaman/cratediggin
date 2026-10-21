@@ -26,6 +26,7 @@ dives=json.loads((R/'editorial_deepdives.json').read_text());assert dives[-4:]==
 art=json.loads((R/'graffiti_artwork.json').read_text());assert art['tracks'][-4:]==F['artEntries'] and len(art['tracks'])==521
 for t,d,a,img in zip(F['records'],F['deepdives'],F['artEntries'],F['assets']):
  assert len(t['essay'])==len(t['essaySources'])==4 and len(d['sections'])==2
+ assert t['moods']==['ラップ'] and t['sources']
  assert all('（' not in p for p in t['producers'])
  assert t['versionBasis']==t['youtube']['versionBasis']
  assert isinstance(t['youtube']['channel'],str) and t['youtube']['channel'].strip()

@@ -3,7 +3,7 @@
   "files": {
     "tracks.json": {
       "beforeSHA256": "b2ea1bded1649adf8038a8cd0b0e95fc9bce746ea2a972d167dc030662c6eb09",
-      "afterSHA256": "f2f82eddc126d1ebe41585d108c2725cba16184af4d35e995a78ab935e897dd7",
+      "afterSHA256": "f8195ac68b04ea63d92a681a11d6909558849ffa1bbe6ef84111a538d4c7fbeb",
       "arrayKey": null,
       "beforeCount": 517
     },
@@ -184,7 +184,9 @@
       "listening": [
         "単独のアルバム音源と、Push／Get Backを組み合わせた映像の構成を分けてたどる。"
       ],
-      "moods": [],
+      "moods": [
+        "ラップ"
+      ],
       "sounds": [],
       "collections": [],
       "editorialCrates": [],
@@ -375,7 +377,9 @@
       "listening": [
         "2010年の先行曲を、翌年のBang Ya Head 3の曲順へ戻してみる。"
       ],
-      "moods": [],
+      "moods": [
+        "ラップ"
+      ],
       "sounds": [],
       "collections": [],
       "editorialCrates": [],
@@ -557,7 +561,9 @@
       "listening": [
         "Cracks in the Vinylの三曲目として、前後の曲との並びを確かめてみる。"
       ],
-      "moods": [],
+      "moods": [
+        "ラップ"
+      ],
       "sounds": [],
       "collections": [],
       "editorialCrates": [],
@@ -728,7 +734,9 @@
       "listening": [
         "Nottzの制作と四人の客演を、クレジットの名前ごとに追ってみる。"
       ],
-      "moods": [],
+      "moods": [
+        "ラップ"
+      ],
       "sounds": [],
       "collections": [],
       "editorialCrates": [],
