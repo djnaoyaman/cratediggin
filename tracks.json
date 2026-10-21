@@ -59726,5 +59726,325 @@
       "paletteSourceUrl": "https://vinyl.sonymusic.com/products/run-dmc-raising-hell-lp",
       "paletteNote": "Sony掲載の緑の写真／マゼンタ文字の表ジャケットを目視して選んだ近似色。白い商品写真の余白と黒い盤は配色対象外。Janet Perr本人の取材は、この組み合わせと紫／緑の組み合わせをともに当初の2仕様として説明している。再発で新造された配色と誤認しない。"
     }
+  },
+  {
+    "id": "madvillain-figaro",
+    "title": "Figaro",
+    "artist": "Madvillain",
+    "year": 2004,
+    "yearBasis": "2004年3月23日発売Madvillainyの完成アルバム版。2002年に作られたデモ、後年のDemos盤、Instrumentals、Madvillainy 2のリミックスは別版として扱います。",
+    "album": "Madvillainy",
+    "producer": "Madlib",
+    "producers": [
+      "Madlib"
+    ],
+    "productionCreditNote": "Stones ThrowはMC MF DOOM／producer Madlibと役割を明記。主たるビート制作欄はMadlib。先行YouTubeメタデータのProducer欄にMF DOOMもあることは記録に残し、追加のビート共同制作を推測しない。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles / Stones Throw",
+    "label": "Stones Throw Records",
+    "essayTitle": "短いループに、言葉が居残る。",
+    "deck": "2002年のLAで生まれたデモから、2004年の完成版へ。旅の逸話より先に、曲名の残る制作記録をたどる。",
+    "essay": [
+      "「Figaro」は2分25秒。短いのに、言葉の荷物はずいぶん多い。ビートが同じ場所を回るあいだ、声は句の切れ目を少しずつずらしていく。次の行へ進んだつもりが、前の響きがまだ耳の中にいる。そんな引っかかりを、一度でほどこうとしなくていい。",
+      "Stones Throwの回顧では、MF DOOMがLAの家でMadlibと制作を始めた最初の数日に、「Meat Grinder」と「Figaro」が生まれた。別の追悼記事は、その訪問を2002年とし、そこで作られたものをデモと呼んでいる。ここで案内するのは、2004年3月23日に出た『Madvillainy』の完成版だ。",
+      "2004年のWax Poeticsの対話で、DOOMはDe La Soulの作品から受けた刺激を語り、聴く人に場面や絵が浮かぶ表現を目指すと話している。この曲を、その姿勢から読むのも面白い。筋道だけを追うより、次々に置かれる言葉が頭の中でどんな画面を作るか、少し任せてみる。",
+      "アルバムの制作史にはブラジルで作られたビートの話もある。ただ、その旅の景色を「Figaro」の制作場所に重ねてしまうと、最初のLAでの記録がぼやける。曲の背景も、レコードの溝と同じで、近くに並ぶものが全部ひと続きとは限らない。まずはこの短い一曲の歩幅で掘ってみたい。"
+    ],
+    "essaySources": [
+      [
+        2,
+        3
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        4
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Stones Throw — Madvillainy 10周年回顧",
+        "url": "https://www.stonesthrow.com/news/madvillain-madvillainy/",
+        "kind": "primary_label_history"
+      },
+      {
+        "label": "Stones Throw — MF DOOM追悼回顧",
+        "url": "https://www.stonesthrow.com/news/mf-doom/",
+        "kind": "primary_label_history"
+      },
+      {
+        "label": "Madvillain / Stones Throw — Figaro公式Bandcamp",
+        "url": "https://madvillain.bandcamp.com/track/figaro-2",
+        "kind": "official_label_distribution"
+      },
+      {
+        "label": "Madvillain / Stones Throw — Madvillainy公式Bandcamp",
+        "url": "https://madvillain.bandcamp.com/album/madvillainy",
+        "kind": "official_label_catalog"
+      },
+      {
+        "label": "Wax Poetics — EgonによるMadlib / MF DOOM取材（2004、Stones Throw再掲）",
+        "url": "https://www.stonesthrow.com/news/blunted-on-beats/",
+        "kind": "participant_interview"
+      },
+      {
+        "label": "Stones Throw — Madvillainy標準盤",
+        "url": "https://www.stonesthrow.com/store/madvillainy/",
+        "kind": "original_label_catalog"
+      },
+      {
+        "label": "Stones Throw Records LLC — Figaro（以前の配信メタデータ確認）",
+        "url": "https://www.youtube.com/watch?v=I4P5RR4jPGg",
+        "kind": "inherited_label_delivery_metadata"
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "本調査は3曲の版・制作史・年表との関係を中心に照合しました。サンプル一覧を網羅したものではなく、未照合の素材を推測で追加していません。",
+    "listening": [
+      "ループの戻る位置と、ラップの句が切れる位置を別々に追う。"
+    ],
+    "moods": [
+      "グルーヴ",
+      "浮遊感"
+    ],
+    "sounds": [
+      "ラップ",
+      "ループ"
+    ],
+    "editorialStatus": "出典に基づく制作史と編集上の聴き方です。今回の実再生確認や編者の個人的な体験を意味しません。 実再生は未確認です。",
+    "versionBasis": "公式Bandcamp標準アルバムの14曲目Figaro、2:25。既存YouTube候補は2004年Stones Throw配信の完成アルバム版として記録済みですが、今回再アクセス・再生していません。",
+    "artists": [
+      "Madvillain"
+    ],
+    "category": "Hip Hop",
+    "context": "完成版へ至る時間と、DOOMが言葉で作ろうとした画面を、レーベルの回顧と本人の対話から読む。",
+    "facts": [
+      {
+        "title": "掲載音源の版と確認範囲",
+        "text": "掲載音源はStones Throw配信の『Madvillainy』アルバム版です。デモ、インスト、後年のリミックスとは区別しています。2分25秒は公式Bandcampの収録時間で、選択動画の長さを検証した値ではありません。 以前に確認したレーベル配信情報に基づく掲載です。日本での配信可否・埋め込み許可・動画の再生時間・実再生は今回再確認せず、現時点では未確認です。原盤と配信マスターの完全一致も未検証です。",
+        "sources": [
+          6
+        ]
+      },
+      {
+        "title": "MCとビート制作の役割",
+        "text": "Stones Throwの作品紹介は、MF DOOMをMC、Madlibをプロデューサーとして説明しています。一方、以前に確認した配信メタデータのProducer欄にはMF DOOMも記載されています。このページの制作欄は原レーベルの役割説明に沿い、配信欄の表記だけからビートの共同制作を断定していません。",
+        "sources": [
+          3,
+          5,
+          6
+        ]
+      }
+    ],
+    "connections": [
+      "madvillain-meat-grinder",
+      "madvillain-accordion"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "noteReviewedAt": "2026-10-21",
+    "datePublished": "2026-10-21",
+    "addedOrder": 508,
+    "audioVerificationStatus": "以前に確認したレーベル配信情報に基づく掲載です。日本での配信可否・埋め込み許可・動画の再生時間・実再生は今回再確認せず、現時点では未確認です。原盤と配信マスターの完全一致も未検証です。",
+    "youtube": {
+      "id": "I4P5RR4jPGg",
+      "url": "https://www.youtube.com/watch?v=I4P5RR4jPGg",
+      "title": "Figaro",
+      "channel": "投稿チャンネル未確認",
+      "providedBy": "Stones Throw Records LLC",
+      "type": "公式音源（レーベル配信情報）",
+      "official": true,
+      "verified": "2026-10-21",
+      "embedUrl": "https://www.youtube.com/embed/I4P5RR4jPGg",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "version": "2004 final Madvillainy album recording",
+      "versionBasis": "公式Bandcamp標準アルバムの14曲目Figaro、2:25。既存YouTube候補は2004年Stones Throw配信の完成アルバム版として記録済みですが、今回再アクセス・再生していません。",
+      "notice": "以前に確認したレーベル配信情報に基づく掲載です。日本での配信可否・埋め込み許可・動画の再生時間・実再生は今回再確認せず、現時点では未確認です。原盤と配信マスターの完全一致も未検証です。",
+      "verification": "既存proposal.jsonの2026-10-21照合記録を継承。今回YouTubeを再取得していない。公式Bandcampの曲・収録・長さ・発売日を独立確認。 以前に確認したレーベル配信情報に基づく掲載です。日本での配信可否・埋め込み許可・動画の再生時間・実再生は今回再確認せず、現時点では未確認です。原盤と配信マスターの完全一致も未検証です。"
+    },
+    "art": {
+      "word": "FIGARO",
+      "tag": "MADVILLAIN",
+      "palette": [
+        "#E0E0DE",
+        "#A0A09C",
+        "#51514F",
+        "#111110",
+        "#F47729"
+      ],
+      "paletteSource": "Madvillainy — standard original album cover",
+      "paletteSourceUrl": "https://www.stonesthrow.com/store/madvillainy/",
+      "paletteNote": "Stones Throw標準盤ページのジャケット画像を目視。白銀〜灰〜黒の写真と右上のオレンジから編集上の近似色を選択。人物・金属仮面・オレンジの四角を模写せず、独自の文字構成へ用いる。Demos盤や別リミックスのジャケットではない。",
+      "lines": [
+        "FIGARO"
+      ],
+      "style": "piece",
+      "seed": 200400
+    }
+  },
+  {
+    "id": "de-la-soul-me-myself-and-i",
+    "title": "Me Myself and I",
+    "artist": "De La Soul",
+    "year": 1989,
+    "yearBasis": "1989年の3 Feet High and Rising収録曲。現行配信の2023年表記は配信再開／再発の年であり、曲の初出年に置き換えません。",
+    "album": "3 Feet High and Rising",
+    "producer": "Prince Paul / De La Soul",
+    "producers": [
+      "Prince Paul",
+      "De La Soul"
+    ],
+    "productionCreditNote": "Prince Paul：制作（先行正規配信資料ではミックスも記載）。De La Soul：共同の制作主体。Maseoの素材提案とPaulのドラム・構成追加は1990年のPaul本人の証言で裏付ける。Maseoを新たな単独クレジットへ書き換えない。",
+    "region": "Long Island",
+    "scene": "Amityville / Long Island",
+    "label": "Tommy Boy Records",
+    "essayTitle": "自分たちらしさが、ラジオへ出る。",
+    "deck": "Maseoが持ち込んだファンクと、Prince Paulが加えたドラム。1989年の一曲から、2023年に聴ける場所が戻るまで。",
+    "essay": [
+      "「Me Myself and I」の明るさは、聴く側へ身構える時間をあまり与えない。軽く跳ねる反復と、するりと口に戻ってくるタイトル。陽気な入口をくぐってから、自分たちの立ち位置をちゃんと伝える。大きな宣言を、普段着のまま言える曲だ。",
+      "Prince Paulは1990年の取材で、レーベルから親しみやすい曲を求められ、Maseoが「Knee Deep」を提案したと話している。そこへPaulがドラムと構成を加えた。PosとTrugoyは最初、商業的すぎると感じたという。すんなり生まれたヒットというより、いつもの自分たちと外の耳をすり合わせた結果だった。",
+      "初出は1989年の『3 Feet High and Rising』。年表でこの曲を2023年にもたどるのは、新曲として生まれ直したからではない。Reservoirが初期6作品の配信再開を知らせたとき、この曲も代表的な収録曲として挙げられた。作られた年と、広く聴けるようになった年が、離れて存在している。",
+      "ポップな曲だけを聴いて、その人たちの全部がわかった気になるのは、入口で家の間取りを決めるようなものだ。Prince Paul自身も、ラジオ向けのこの曲と、アルバム全体の実験や楽しさを分けて振り返っている。親しみやすさを頼りに入って、次の曲で少し迷ってみる。その順番も悪くない。"
+    ],
+    "essaySources": [
+      [],
+      [
+        3
+      ],
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        5
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Apple Music — Me Myself and I",
+        "url": "https://music.apple.com/us/song/me-myself-and-i/1657705243",
+        "kind": "label_distribution_metadata"
+      },
+      {
+        "label": "Reservoir — 2023年配信開始予告",
+        "url": "https://www.globenewswire.com/en/news-release/2023/01/03/2582185/0/en/Reservoir-Brings-De-La-Soul-s-Iconic-Catalog-to-Streaming-Platforms.html",
+        "kind": "rightsholder_press_release"
+      },
+      {
+        "label": "Reservoir — 配信開始当日の告知",
+        "url": "https://reservoir-media.com/reservoir-celebrates-de-la-souls-catalog-out-now-on-all-streaming-platforms/",
+        "kind": "rightsholder_announcement"
+      },
+      {
+        "label": "Music Technology — Prince Paul本人への取材（1990）",
+        "url": "https://www.muzines.co.uk/articles/soul-sonic-force/293?theme=2",
+        "kind": "contemporary_participant_interview"
+      },
+      {
+        "label": "Cult MTL — Maseo本人への取材（2013）",
+        "url": "https://cultmtl.com/2013/10/maseo/",
+        "kind": "participant_interview"
+      },
+      {
+        "label": "Talkhouse — Prince Paulの寄稿（2014）",
+        "url": "https://talkhouse.com/prince-paul-talks-cowboy-troys-king-of-clubs",
+        "kind": "participant_authored_essay"
+      },
+      {
+        "label": "Apple Music — 3 Feet High and Rising標準盤",
+        "url": "https://music.apple.com/us/album/3-feet-high-and-rising/1657705063",
+        "kind": "official_distribution_catalog"
+      },
+      {
+        "label": "Reservoir（先行資料の配信元記録。今回未再取得） — Me Myself and I（以前の配信メタデータ確認）",
+        "url": "https://www.youtube.com/watch?v=a0ZhDbZIbiM",
+        "kind": "inherited_label_delivery_metadata"
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "本調査は3曲の版・制作史・年表との関係を中心に照合しました。サンプル一覧を網羅したものではなく、未照合の素材を推測で追加していません。",
+    "listening": [
+      "タイトルの反復が、細かなラップの区切りをどう受け止めるかを追う。"
+    ],
+    "moods": [
+      "グルーヴ",
+      "軽快"
+    ],
+    "sounds": [
+      "ラップ",
+      "ファンク"
+    ],
+    "editorialStatus": "出典に基づく制作史と編集上の聴き方です。今回の実再生確認や編者の個人的な体験を意味しません。 実再生は未確認です。",
+    "versionBasis": "1989年のアルバム曲を対象とし、現在の2023年AOI/Chrysalis配信版を案内します。リミックス、インスト、MV導入部を含む編集版、Single Mixへ黙って差し替えません。原盤と配信マスターの完全一致は未確認です。",
+    "artists": [
+      "De La Soul"
+    ],
+    "category": "Hip Hop",
+    "context": "グループ内の素材提案とPrince Paulの構成づくりを、当事者の異なる証言から重ねて読む。",
+    "facts": [
+      {
+        "title": "掲載音源の版と確認範囲",
+        "text": "掲載音源は1989年のアルバム曲を収めた2023年AOI／Chrysalisの配信版です。曲の初出年と現在の配信年を分けて記載しています。 以前に確認したレーベル配信情報に基づく掲載です。日本での配信可否・埋め込み許可・動画の再生時間・実再生は今回再確認せず、現時点では未確認です。原盤と配信マスターの完全一致も未検証です。",
+        "sources": [
+          7
+        ]
+      }
+    ],
+    "connections": [
+      "de-la-soul-buddy",
+      "de-la-soul-stakes-is-high"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "noteReviewedAt": "2026-10-21",
+    "datePublished": "2026-10-21",
+    "addedOrder": 509,
+    "audioVerificationStatus": "以前に確認したレーベル配信情報に基づく掲載です。日本での配信可否・埋め込み許可・動画の再生時間・実再生は今回再確認せず、現時点では未確認です。原盤と配信マスターの完全一致も未検証です。",
+    "youtube": {
+      "id": "a0ZhDbZIbiM",
+      "url": "https://www.youtube.com/watch?v=a0ZhDbZIbiM",
+      "title": "Me Myself and I",
+      "channel": "WeAreDeLaSoul",
+      "providedBy": "Reservoir（先行資料の配信元記録。今回未再取得）",
+      "type": "公式音源（レーベル配信情報）",
+      "official": true,
+      "verified": "2026-10-21",
+      "embedUrl": "https://www.youtube.com/embed/a0ZhDbZIbiM",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "version": "1989 album composition / 2023 streaming reissue",
+      "versionBasis": "1989年のアルバム曲を対象とし、現在の2023年AOI/Chrysalis配信版を案内します。リミックス、インスト、MV導入部を含む編集版、Single Mixへ黙って差し替えません。原盤と配信マスターの完全一致は未確認です。",
+      "notice": "以前に確認したレーベル配信情報に基づく掲載です。日本での配信可否・埋め込み許可・動画の再生時間・実再生は今回再確認せず、現時点では未確認です。原盤と配信マスターの完全一致も未検証です。",
+      "verification": "既存proposal.jsonの2026-10-21照合記録を継承。今回YouTubeを再取得していない。Appleの現行曲ページとReservoir告知を独立確認。 以前に確認したレーベル配信情報に基づく掲載です。日本での配信可否・埋め込み許可・動画の再生時間・実再生は今回再確認せず、現時点では未確認です。原盤と配信マスターの完全一致も未検証です。"
+    },
+    "art": {
+      "word": "ME MYSELF AND I",
+      "tag": "DE LA SOUL",
+      "palette": [
+        "#FFF400",
+        "#EC4097",
+        "#64BC32",
+        "#039DCF",
+        "#F6A54C",
+        "#191919",
+        "#F5F5F2"
+      ],
+      "paletteSource": "3 Feet High and Rising — standard album sleeve",
+      "paletteSourceUrl": "https://music.apple.com/us/album/3-feet-high-and-rising/1657705063",
+      "paletteNote": "Apple Musicの標準アルバム画像を目視。黄色地、ピンクのグループ名、緑のタイトル、青と橙の装飾、モノクロ写真から編集上の近似色を選択。Appleカード外側の白い余白は除外。肖像や花柄の配置は転用しない。",
+      "lines": [
+        "ME MYSELF AND I"
+      ],
+      "style": "piece",
+      "seed": 198901
+    }
   }
 ]

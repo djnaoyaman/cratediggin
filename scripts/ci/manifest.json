@@ -2280,6 +2280,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "timeline-three-browser"
+    },
+    {
+      "id": "timeline-pair",
+      "argv": [
+        "python",
+        "scripts/verify_timeline_pair.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "timeline-pair"
+    },
+    {
+      "id": "timeline-pair-browser",
+      "argv": [
+        "node",
+        "scripts/verify_timeline_pair_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "timeline-pair-browser"
     }
   ],
   "groups": {
@@ -2712,6 +2736,10 @@
     "timeline_three": [
       "timeline-three",
       "timeline-three-browser"
+    ],
+    "timeline_pair": [
+      "timeline-pair",
+      "timeline-pair-browser"
     ]
   },
   "runtime_rules": {
@@ -3516,7 +3544,8 @@
       "scripts/fixtures/approved-med-classic.json"
     ],
     "scripts/approved_timeline_three.py": [
-      "scripts/fixtures/approved-timeline-three.json"
+      "scripts/fixtures/approved-timeline-three.json",
+      "scripts/approved_timeline_pair.py"
     ],
     "scripts/verify_timeline_three.py": [
       "scripts/approved_timeline_three.py",
@@ -3526,6 +3555,18 @@
     "scripts/verify_timeline_three_browser.cjs": [
       "scripts/verify_visible_art_browser.cjs",
       "scripts/fixtures/approved-timeline-three.json"
+    ],
+    "scripts/approved_timeline_pair.py": [
+      "scripts/fixtures/approved-timeline-pair.json"
+    ],
+    "scripts/verify_timeline_pair.py": [
+      "scripts/approved_timeline_pair.py",
+      "scripts/editorial_uniqueness.py",
+      "scripts/fixtures/editorial-legacy-debt.json"
+    ],
+    "scripts/verify_timeline_pair_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs",
+      "scripts/fixtures/approved-timeline-pair.json"
     ]
   },
   "policy_paths": [
@@ -3599,7 +3640,9 @@
     "scripts/approved_med_classic.py",
     "scripts/fixtures/approved-med-classic.json",
     "scripts/approved_timeline_three.py",
-    "scripts/fixtures/approved-timeline-three.json"
+    "scripts/fixtures/approved-timeline-three.json",
+    "scripts/approved_timeline_pair.py",
+    "scripts/fixtures/approved-timeline-pair.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -3646,7 +3689,8 @@
     "research/bear-witness-region-repair-20261021.json",
     "research/intake-cash-money-three-20261021.json",
     "research/intake-med-classic-20261021.json",
-    "research/intake-timeline-three-20261021.json"
+    "research/intake-timeline-three-20261021.json",
+    "research/intake-timeline-pair-20261021.json"
   ],
   "syntax_existing": [
     "dist/app.js",
@@ -4097,6 +4141,13 @@
         "groups": [
           "timeline_three"
         ]
+      },
+      {
+        "before_sha256": "7a6443556f14d6b429074874203d345dfdc856583ce3650877ce0d9b247afa7c",
+        "after_sha256": "bf7fa54638b82512bd41139a1d71d58c1bd1b65726c224587e5dee1b4c11f0e6",
+        "groups": [
+          "timeline_pair"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -4169,6 +4220,13 @@
         "groups": [
           "timeline_three"
         ]
+      },
+      {
+        "before_sha256": "513f4e95b1751eda3c842b8e88f0eb442f9570f99eee36e67a832b7231a8637f",
+        "after_sha256": "00953d7a73733c0ec6a7f78127b3155c4846cc15d1fc8a6ad2777b4cd1d64a4d",
+        "groups": [
+          "timeline_pair"
+        ]
       }
     ],
     "graffiti_artwork.json": [
@@ -4233,6 +4291,13 @@
         "after_sha256": "6e5164cd48a106ceaad6089aa158588b82938b26d7d23e50c6e1deb15eb35b8a",
         "groups": [
           "timeline_three"
+        ]
+      },
+      {
+        "before_sha256": "6e5164cd48a106ceaad6089aa158588b82938b26d7d23e50c6e1deb15eb35b8a",
+        "after_sha256": "c94e7e35aa82ce2b7942d4c0ee751c3e991abc772f6629df69a561b039e30f85",
+        "groups": [
+          "timeline_pair"
         ]
       }
     ],
@@ -4441,6 +4506,24 @@
         "after_sha256": "cea0e37ca525aaa7bc1f0c9c12fa4fbf35b32b66879cfd97301279391bed1315",
         "groups": [
           "timeline_three"
+        ]
+      }
+    ],
+    "assets/graffiti/madvillain-figaro-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "da9ecac093f382a670ff672f7ce97f95eef60fad926b3b39dd559d0c4212ab77",
+        "groups": [
+          "timeline_pair"
+        ]
+      }
+    ],
+    "assets/graffiti/de-la-soul-me-myself-and-i-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "0d969046205a89e100a396fc84f9a4ef08e7d92b6098aeec09e503022eb4dbc2",
+        "groups": [
+          "timeline_pair"
         ]
       }
     ]
