@@ -2088,6 +2088,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "sampling-timeline-browser"
+    },
+    {
+      "id": "sort-direction",
+      "argv": [
+        "node",
+        "scripts/verify_sort_direction.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": false,
+      "label": "sort-direction"
+    },
+    {
+      "id": "sort-direction-browser",
+      "argv": [
+        "node",
+        "scripts/verify_sort_direction_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "sort-direction-browser"
     }
   ],
   "groups": {
@@ -2488,6 +2512,10 @@
     "sampling_timeline": [
       "sampling-timeline",
       "sampling-timeline-browser"
+    ],
+    "sort_direction": [
+      "sort-direction",
+      "sort-direction-browser"
     ]
   },
   "runtime_rules": {
@@ -3202,13 +3230,23 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/approved_sampling_timeline.py": [
-      "scripts/fixtures/approved-sampling-timeline.json"
+      "scripts/fixtures/approved-sampling-timeline.json",
+      "scripts/approved_sort_direction.py"
     ],
     "scripts/verify_sampling_timeline.cjs": [
       "scripts/fixtures/approved-sampling-timeline.json"
     ],
     "scripts/verify_sampling_timeline_browser.cjs": [
       "scripts/fixtures/approved-sampling-timeline.json",
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_sort_direction.py": [
+      "scripts/fixtures/approved-sort-direction.json"
+    ],
+    "scripts/verify_sort_direction.cjs": [
+      "scripts/fixtures/approved-sort-direction.json"
+    ],
+    "scripts/verify_sort_direction_browser.cjs": [
       "scripts/verify_visible_art_browser.cjs"
     ]
   },
@@ -3266,7 +3304,9 @@
     "scripts/approved_halftime.py",
     "scripts/fixtures/approved-halftime.json",
     "scripts/approved_sampling_timeline.py",
-    "scripts/fixtures/approved-sampling-timeline.json"
+    "scripts/fixtures/approved-sampling-timeline.json",
+    "scripts/approved_sort_direction.py",
+    "scripts/fixtures/approved-sort-direction.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -3436,6 +3476,13 @@
         "groups": [
           "album_navigation"
         ]
+      },
+      {
+        "before_sha256": "41657658439da6b77a1bd17382ee9aa9c5d1266c0817591142a72cb8e3fd7414",
+        "after_sha256": "45a9bca92d0b73c3bdcb3770623fc97517444ef29b3867a2ae6416c4c83fd990",
+        "groups": [
+          "sort_direction"
+        ]
       }
     ],
     "src/app/song-ui.js": [
@@ -3567,6 +3614,15 @@
         "after_sha256": "efc7a6e7076b541507367c98d2b2eb4711d407bac9f760414a8ecbc35a3511b6",
         "groups": [
           "sampling_timeline"
+        ]
+      }
+    ],
+    "src/assets/filters.js": [
+      {
+        "before_sha256": "0a28931f8d0a2578cf6f2f5958f1bfc9802819cff56cd759c9856c600fcb7fe5",
+        "after_sha256": "48675b56af5caca1ef0e0d61b3b9283a7f2b6f52673ef359a982b136fd05df51",
+        "groups": [
+          "sort_direction"
         ]
       }
     ]

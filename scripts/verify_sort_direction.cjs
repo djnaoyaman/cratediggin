@@ -1,0 +1,13 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict'),crypto=require('node:crypto');
+const sha=b=>crypto.createHash('sha256').update(b).digest('hex'),F=JSON.parse(fs.readFileSync('scripts/fixtures/approved-sort-direction.json'));
+for(const[p,c]of Object.entries(F.files)){assert.equal(sha(fs.readFileSync(p)),c.afterSHA256);assert.equal(sha(c.before),c.beforeSHA256)}for(const[p,h]of Object.entries(F.protected))assert.equal(sha(fs.readFileSync(p)),h,p);
+const window={};vm.runInNewContext(fs.readFileSync('src/assets/filters.js','utf8'),{window});const old={};vm.runInNewContext(F.files['src/assets/filters.js'].before,{window:old});const all=JSON.parse(fs.readFileSync('tracks.json'));
+const ids=x=>Array.from(x,x=>x.id),filter=(xs,sort,q='')=>window.CrateFilter(xs,{sort,q});
+for(const sort of ['year','title','artist','selection',undefined,'unknown'])assert.deepEqual(ids(filter(all,sort)),ids(old.CrateFilter(all,{sort})),sort+' preserves existing order');
+const sample=[{id:'u',year:null,title:'Unknown',artist:'Beta',addedOrder:4},{id:'b',year:2000,title:'Zebra',artist:'Alpha',addedOrder:2},{id:'a',year:1990,title:'Alpha',artist:'Zeta',addedOrder:1},{id:'c',year:2000,title:'Alpha',artist:'Alpha',addedOrder:3}].map(x=>({...x,samples:[]}));const original=JSON.stringify(sample);
+for(const[sort,expected]of Object.entries({'year':['a','c','b','u'],'year-desc':['c','b','a','u'],'title':['a','c','u','b'],'title-desc':['b','u','a','c'],'artist':['c','b','u','a'],'artist-desc':['a','u','b','c'],'selection':['a','b','c','u'],'selection-desc':['u','c','b','a']}))assert.deepEqual(ids(filter(sample,sort)),expected,sort);
+const tied=sample.map(x=>({...x,addedOrder:1}));assert.deepEqual(ids(filter(tied,'selection-desc')),ids(tied));assert.equal(JSON.stringify(sample),original);assert.deepEqual(ids(filter(sample,'year-desc','Alpha')),['c','b','a']);
+for(const sort of ['year-desc','title-desc','artist-desc','selection-desc']){const result=filter(all,sort);assert.equal(result.length,507);assert.equal(new Set(ids(result)).size,507);assert.deepEqual(ids(result),ids(filter(all,sort)))}
+const recent=filter(all,'year-desc');let unknown=false;for(const t of recent){if(!Number.isInteger(t.year))unknown=true;else assert(!unknown,'Known years remain before unknown years')}
+const ui=fs.readFileSync('src/app/catalog-ui.js','utf8');for(const label of ['年代 · 古い順','年代 · 新しい順','曲名 · A→Z','曲名 · Z→A','アーティスト · A→Z','アーティスト · Z→A','追加 · 古い順','追加 · 新しい順'])assert(ui.includes(label));assert(!/昇順|降順/.test(ui));
+console.log('Eight sort modes, old defaults exact, unknown-year tail, stable ties, filters and all507 records preserved PASS');

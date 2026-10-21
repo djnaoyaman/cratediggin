@@ -5,6 +5,8 @@ R=Path(__file__).resolve().parents[1]
 F=json.loads((R/'scripts/fixtures/approved-sampling-timeline.json').read_text())
 sha=lambda b:hashlib.sha256(b).hexdigest()
 def historical_sampling_timeline_file(path,data):
+ from approved_sort_direction import historical_sort_direction_file
+ data=historical_sort_direction_file(path,data)
  c=F['files'].get(path)
  if c is None:return data
  assert sha(data)==c['afterSHA256'],'Unapproved Timeline drift: '+path
