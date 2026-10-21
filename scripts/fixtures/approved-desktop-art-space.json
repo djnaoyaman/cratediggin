@@ -1,0 +1,22 @@
+{
+  "base": "e8db3728c2d0cb0261c67a31c12a72e65e267e89",
+  "beforeVersion": "22.43",
+  "beforeReleaseSHA256": "c9356858a6aeac712af56ba58b43cb90481c954cdba12b7cb8c78572c55b7400",
+  "afterReleaseSHA256": "8e8e7cdcd40ea04a312a2f86dcdc1103265477be91b431c5f9284b443784d5b8",
+  "beforeStyleSHA256": "b6a2627965e44b62640495ec57d74a819eef054282d86d7bc448341ce26a21c5",
+  "afterStyleSHA256": "369f75276d3aa790753db69ae410b1c5e24b93c24c8a645c436cf4c6053ef421",
+  "patch": "\n/* Desktop ART-only reclaims the redundant mode-control row.\n   Keep the existing footer reserve, provider geometry, and smaller layouts. */\n@media (min-width:1024px) and (min-height:600px){\n body[data-art-owner=full][data-art-mode=full] .art-mode-controls{top:14px;left:200px;right:auto}\n body[data-art-owner=full][data-art-mode=full] .art-view canvas{top:96px;height:calc(100% - 296px)}\n}\n",
+  "protected": {
+    "tracks.json": "f8195ac68b04ea63d92a681a11d6909558849ffa1bbe6ef84111a538d4c7fbeb",
+    "graffiti_artwork.json": "fccdb745bbd3b2871ef3b506b3197077f5e6b42cd543cefdbd042a2efb3f9c49",
+    "editorial_deepdives.json": "5b989c85ad5e6b0114a341209da18e6ed05608b71424d5184fe3733dc86436c0",
+    "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+    "artist_entities.json": "be0a95389d26e99480325ad2a7f0872ba3e21e7e58b6cf2b3fd7515d5805469b",
+    "editor_profile.json": "977a36f96e638d8d7fa925235ad9dc70c9e7607ae6d220a43b82b789c8746caa",
+    "src/app/player.js": "6796ca1e0ebe8ede8c3619fd6af2785410d247728bb627e79dceb8769e942c0a",
+    "src/assets/art.js": "bff0c731802e8fc530ce6f29440723c2c860e5da1899459e8498d6680c85e91b",
+    "src/app/art-modes.js": "b2fd5fed3ef69a47de418e052c42ff80b24ad0af49e29b7ab002e6998e1e9670",
+    "src/app/router.js": "1cb3fafc99ac53400560ccc768186809eb37855cbc261e9fff86f10309558eb9",
+    "templates/index.html": "dd24f5cdad12e43c801f24303e53c0970a62045316fa6a16e0de42d82bbff26d"
+  }
+}
