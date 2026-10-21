@@ -328,45 +328,6 @@
       ]
     },
     {
-      "id": "kool-g-rap-dj-polo-ill-street-blues",
-      "tags": [
-        {
-          "shelf": "loop",
-          "evidence": {
-            "file": "tracks.json",
-            "field": "deck",
-            "quote": "ピアノの反復と、街の物語の緊張。"
-          }
-        }
-      ]
-    },
-    {
-      "id": "epmd-you-gots-to-chill",
-      "tags": [
-        {
-          "shelf": "bass",
-          "evidence": {
-            "file": "tracks.json",
-            "field": "essay.1",
-            "quote": "低音が先に身体へ届く。それから二人の声が、無理に急がずビートの上へ乗る。この重心は、90年代のファンクを聴くための頼れる入口になる。"
-          }
-        }
-      ]
-    },
-    {
-      "id": "smif-n-wessun-sound-bwoy-bureill",
-      "tags": [
-        {
-          "shelf": "bass",
-          "evidence": {
-            "file": "tracks.json",
-            "field": "deck",
-            "quote": "低音の深さに、別の文化の響きが重なる。"
-          }
-        }
-      ]
-    },
-    {
       "id": "mic-geronimo-shit-s-real",
       "tags": [
         {

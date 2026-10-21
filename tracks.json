@@ -13817,11 +13817,11 @@
       "lettering": "tag",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "掛け合いが、ビートの温度を変えていく。",
-    "essayTitle": "同じビートも、掛け合いで温度が変わる",
+    "deck": "Rashad Smithの回想では、ビートの出発点にBiggieの注文があった。",
+    "essayTitle": "LLのビートは、最初からLLのためではなかった。",
     "essay": [
-      "掛け合いが、ビートの温度を変えていく。",
-      "掛け合いの前後で、同じビートの温度がどう変わるかを追う。声の距離も曲の一部として聴くと、この曲の運びがつかみやすい。"
+      "「Doin’ It」のビートは、当初The Notorious B.I.G.へ向けて作られたものだった。Rashad SmithのR.O.A.D. Podcast出演を紹介したKISS 104.1のGustavo Chaconによれば、Grace Jonesの「My Jamaican Guy」を使う案もBiggieから出たという。",
+      "その後、Chris Lightyを通じてLL Cool Jと制作する機会が生まれ、手持ちのビートを聴かせる中でこの曲が選ばれた。LLの代表曲となった伴奏にも、別の声を迎えるはずだった道筋がある。LLの曲になるまでの、その移動も興味深い。"
     ],
     "facts": [
       {
@@ -13835,14 +13835,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "掛け合いが、ビートの温度を変えていく。"
+      "伴奏の行き先が変わったことを知ったうえで、LLの声との組み合わせを聴く。"
     ],
-    "context": "掛け合いの前後で、同じビートの温度がどう変わるかを追う。声の距離も曲の一部として聴くと、この曲の運びがつかみやすい。",
+    "context": "Biggieへ向かった制作が、LLとの一曲へつながった。",
     "sources": [
       {
         "label": "YouTube — LL Cool J / Doin' It",
         "url": "https://www.youtube.com/watch?v=OqEksaLoZYQ",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "url": "https://www.kiss104fm.com/entertainment/ll-cool-j-classic-doin-it-almost-never-happened/H4YUYJI3NFBW3FYP4UULEWVYQI/",
+        "label": "Gustavo Chacon — Rashad Smith制作談 / KISS 104.1",
+        "kind": "本人インタビューを紹介する署名報道"
       }
     ],
     "producers": [],
@@ -13856,7 +13861,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "biz-markie-just-a-friend",
@@ -13904,12 +13917,11 @@
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "上手さだけでは届かない、声の人間味。",
-    "essayTitle": "上手さだけでは届かない、声の人間味。",
+    "deck": "TJ Swan、Al B. Sure!、Keith Sweatが参加できず、Biz自身が歌った。",
+    "essayTitle": "歌い手が決まらず、あの声になった。",
     "essay": [
-      "上手さだけでは届かない、声の人間味。",
-      "「Just a Friend」をこの棚に置く理由は、上手さだけでは届かない、声の人間味という聴きどころにある。大きな名前の曲も、少し掘った曲も、その音の魅力で隣り合うように選んだ。",
-      "90年代へつながるルーツとして、声とビートの組み方をたどる。"
+      "「Just a Friend」のサビを、Biz Markieは最初から自分で歌うつもりではなかった。Michael D. McClellanの取材で、TJ Swanには自身のアルバム制作があり、Al B. Sure!とKeith Sweatも忙しかったため、自分で担当したと振り返っている。",
+      "同じ取材では、仲間やレーベルから曲を否定されても、自分だけは可能性を信じていたと語る。あの歌声は、他の歌い手を探した末の選択だった。上手いか下手かだけでは語れない魅力を、本人が手放さなかった一曲でもある。"
     ],
     "facts": [
       {
@@ -13923,15 +13935,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "上手さだけでは届かない、声の人間味。",
-      "声が入る前のビートと、声が入ったあとの重心を聴き比べる。"
+      "予定されていた歌手ではなく、物語の語り手自身がサビを引き受けたことに注目する。"
     ],
-    "context": "90年代へつながるルーツとして、声とビートの組み方をたどる。",
+    "context": "別の歌い手を探した末に残った、Biz本人の声。",
     "sources": [
       {
         "label": "YouTube — Biz Markie / Just a Friend",
         "url": "https://www.youtube.com/watch?v=VrYdfGmjUIE",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "url": "https://www.fifteenminuteswith.com/2019/05/27/biz-markie-just-a-friend/",
+        "label": "Michael D. McClellan — Biz Markie / Fifteen Minutes With",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -13947,6 +13963,14 @@
     "collections": [
       "walk",
       "east"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
     ]
   },
   {
@@ -13995,12 +14019,11 @@
       "lettering": "stencil",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "物語を聞かせる声。90年代のラップに続くルーツ。",
-    "essayTitle": "物語を聞かせる声。",
+    "deck": "Slick Rickは、実体験の再現ではなく周囲の風景から作った話だと説明する。",
+    "essayTitle": "実話ではない。でも、街から生まれている。",
     "essay": [
-      "物語を聞かせる声。90年代のラップに続くルーツ。",
-      "「Children's Story」をこの棚に置く理由は、物語を聞かせる声という聴きどころにある。大きな名前の曲も、少し掘った曲も、その音の魅力で隣り合うように選んだ。",
-      "90年代へつながるルーツとして、声とビートの組み方をたどる。"
+      "「Children’s Story」は、本人が目撃した事件の記録ではない。Ben MerlisによるuDiscover Musicの取材で、Slick Rickは身近な環境から材料を拾い、想像で組み立てた物語だと明かしている。記事によれば、デモ段階の童話的な内容から、犯罪への警告を含む話へ練り直された。",
+      "音の側にも街の記憶がある。後から加えたピアノはBob Jamesの「Nautilus」をなぞるもの。Rickは、昔のブロック・パーティーで皆が知っていた音だったから取り入れたと説明する。作り話を、聞き覚えのある街の音が支えている。"
     ],
     "facts": [
       {
@@ -14014,15 +14037,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "物語を聞かせる声。90年代のラップに続くルーツ。",
-      "声が入る前のビートと、声が入ったあとの重心を聴き比べる。"
+      "物語の創作と、街で共有されていた音の記憶を、別々の手がかりとして聴く。"
     ],
-    "context": "90年代へつながるルーツとして、声とビートの組み方をたどる。",
+    "context": "創作した物語と、ブロック・パーティーから引き継ぐ音。",
     "sources": [
       {
         "label": "YouTube — Slick Rick / Children's Story",
         "url": "https://www.youtube.com/watch?v=HjNTu8jdukA",
         "kind": "公式配信情報"
+      },
+      {
+        "url": "https://www.udiscovermusic.com/stories/slick-rick-interview-great-adventures/",
+        "label": "Ben Merlis — Slick Rick / uDiscover Music",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -14038,6 +14065,14 @@
     "collections": [
       "walk",
       "east"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
     ]
   },
   {
@@ -14208,11 +14243,11 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "ピアノの反復と、街の物語の緊張。",
-    "essayTitle": "戻るピアノ、先へ進む街の物語",
+    "deck": "Trackmastersが取り寄せたビートを聴いた瞬間、G Rapは詞の方向をつかんだ。",
+    "essayTitle": "取りに戻ったフロッピーが、物語の方向を決めた。",
     "essay": [
-      "ピアノの反復と、街の物語の緊張。",
-      "ピアノが戻るたびに、語りがどこまで進んだかを確かめる。変わらない音を背に物語が動く。その関係から曲の緊張を感じたい。"
+      "「Ill Street Blues」の制作時、Trackmastersは用意した音をクイーンズのスタジオへ持ってきていなかった。Kool G RapがWilliam Hernandezの取材で話したところでは、メンバーがブロンクスへ戻り、フロッピーを取ってきたという。",
+      "持ち帰ったサンプルが鳴ると、G Rapは強い手応えを感じ、歌詞をどちらへ進めるかが見えたと振り返る。先に物語を完成させて伴奏を付けたのではなく、音が語りの行き先を示した。伴奏を、背景だけでなく発想の出発点として捉え直せる。"
     ],
     "facts": [
       {
@@ -14226,14 +14261,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "ピアノの反復と、街の物語の緊張。"
+      "物語を追いながら、詞の方向を決めた伴奏の役割にも耳を戻す。"
     ],
-    "context": "ピアノが戻るたびに、語りがどこまで進んだかを確かめる。変わらない音を背に物語が動く。その関係から曲の緊張を感じたい。",
+    "context": "届いたビートが、ラップの方向を示した制作。",
     "sources": [
       {
         "label": "YouTube — Kool G Rap & DJ Polo / Ill Street Blues",
         "url": "https://www.youtube.com/watch?v=wkzIcWycU1g",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "url": "https://www.whomag.net/kool-g-rap/",
+        "label": "William Hernandez — Kool G Rap / WHO?MAG",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [],
@@ -14247,7 +14287,15 @@
     "collections": [
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "big-daddy-kane-ain-t-no-half-steppin",
@@ -14296,12 +14344,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "滑らかな声とファンク。90年代の前に置きたい一枚。",
-    "essayTitle": "滑らかな声とファンク。",
+    "deck": "Kaneはこの曲の制作に、自分とBiz Markieも手を動かしていたと語る。",
+    "essayTitle": "マイクの前だけではなかった、Kaneの仕事。",
     "essay": [
-      "滑らかな声とファンク。90年代の前に置きたい一枚。",
-      "「Ain't No Half-Steppin'」をこの棚に置く理由は、滑らかな声とファンクという聴きどころにある。大きな名前の曲も、少し掘った曲も、その音の魅力で隣り合うように選んだ。",
-      "90年代へつながるルーツとして、声とビートの組み方をたどる。"
+      "「Ain’t No Half-Steppin’」を、Kaneのラップと他人の伴奏という二分法だけで見ると、本人の回想からこぼれるものがある。The Real Hip-Hopの取材でKaneは、デビュー作の音作りにも自ら関わり、この曲などではBiz Markieの助けを得たと話している。",
+      "これは正式な制作クレジットを書き換える話ではなく、Kane側から見た現場の役割分担だ。言葉を乗せる側にも、音を選び組み立てる視点があった。その証言を手がかりに、MCの声と伴奏が形になるまでを一緒に考えたい。"
     ],
     "facts": [
       {
@@ -14315,15 +14362,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "滑らかな声とファンク。90年代の前に置きたい一枚。",
-      "声が入る前のビートと、声が入ったあとの重心を聴き比べる。"
+      "完成したラップだけでなく、本人が語る音作りへの参加も手がかりにする。"
     ],
-    "context": "90年代へつながるルーツとして、声とビートの組み方をたどる。",
+    "context": "Kaneが回想する、Bizと関わった音作り。",
     "sources": [
       {
         "label": "YouTube — Big Daddy Kane / Ain't No Half-Steppin'",
         "url": "https://www.youtube.com/watch?v=nqPlF5Mn32M",
         "kind": "公式配信情報"
+      },
+      {
+        "url": "https://therealhip-hop.com/a-conversation-with-big-daddy-kane/amp/",
+        "label": "A Conversation with Big Daddy Kane / The Real Hip-Hop",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -14344,7 +14395,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "epmd-you-gots-to-chill",
@@ -14392,12 +14451,11 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "低音の太さから、後のファンク・ラップをたどる。",
-    "essayTitle": "低音の太さから、後のファンク・ラップをたどる。",
+    "deck": "Erick Sermonは強いエコーを、街のパーティーから持ち込んだと語っていた。",
+    "essayTitle": "エコーが連れてきた、街のパーティー。",
     "essay": [
-      "低音の太さから、後のファンク・ラップをたどる。",
-      "低音が先に身体へ届く。それから二人の声が、無理に急がずビートの上へ乗る。この重心は、90年代のファンクを聴くための頼れる入口になる。",
-      "90年代へつながるルーツとして、声とビートの組み方をたどる。Hit Squadの曲を続けて聴くと、共通する耳と、それぞれの違いが見えてくる。"
+      "「You Gots to Chill」のエコーには、録音以前の集まりの記憶がある。音楽研究者Wayne Marshallの博士論文は、Brian Colemanの取材に答えたErick Sermonの言葉を引いている。家や街区のパーティーでは、エコーが大きな魅力だったという。",
+      "Sermonは、この曲にもその響きを持ち込んだと説明する。録音の中に、街で人が集まった感覚を残す。その発想を知ると、エコーは単なる音の飾りではなく、パーティーの記憶を運ぶ手がかりになる。"
     ],
     "facts": [
       {
@@ -14411,15 +14469,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "低音の太さから、後のファンク・ラップをたどる。",
-      "声が入る前のビートと、声が入ったあとの重心を聴き比べる。"
+      "エコーを、街のパーティーから持ち込まれた響きとして意識する。"
     ],
-    "context": "90年代へつながるルーツとして、声とビートの組み方をたどる。Hit Squadの曲を続けて聴くと、共通する耳と、それぞれの違いが見えてくる。",
+    "context": "街の集まりのエコーを、レコードの中へ。",
     "sources": [
       {
         "label": "YouTube — EPMD / You Gots to Chill",
         "url": "https://www.youtube.com/watch?v=fAugOjG4qOc",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "url": "https://wayneandwax.com/academic/marshall-rap-reggae-dissertation.pdf",
+        "label": "Wayne Marshall — Routes, Rap, Reggae, p.186 note27",
+        "kind": "音楽学博士論文・本人取材の引用"
       }
     ],
     "producers": [
@@ -14443,7 +14505,15 @@
     "editorialCrates": [
       "funk-soul"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "epmd-crossover",
@@ -14491,11 +14561,11 @@
       "lettering": "tag",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "分かりやすい旋律にも、曲の態度が残る。",
-    "essayTitle": "親しみやすい旋律に残る声の態度",
+    "deck": "Parrish Smithの回想では、Russell Simmonsのやり直し要求が曲を生んだ。",
+    "essayTitle": "完成したはずのアルバムに、最後の一曲。",
     "essay": [
-      "分かりやすい旋律にも、曲の態度が残る。",
-      "耳に入りやすい旋律を楽しみながら、声がどんな態度でそこにいるかを聴く。親しみやすい音でも、曲の輪郭はぼやけない。その両立が面白い。"
+      "EPMDは『Business Never Personal』を仕上げ、「Play the Next Man」を自信のある曲としてDef Jamへ持ち込んだ。ところがParrish SmithがXXLで振り返ったところでは、Russell Simmonsはそれをシングルとして出すことに反対し、別の曲を作るよう求めたという。",
+      "二人が戻って作ったのが「Crossover」だった。完成したという作り手の手応えと、外へ届ける一曲を探す判断は一致していなかった。その食い違いが、アルバムにもう一つの顔を加えた。"
     ],
     "facts": [
       {
@@ -14509,14 +14579,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "分かりやすい旋律にも、曲の態度が残る。"
+      "仕上がったアルバムに後から必要とされた一曲として、役割を考えながら聴く。"
     ],
-    "context": "耳に入りやすい旋律を楽しみながら、声がどんな態度でそこにいるかを聴く。親しみやすい音でも、曲の輪郭はぼやけない。その両立が面白い。",
+    "context": "シングル案のやり直しから生まれた一曲。",
     "sources": [
       {
         "label": "YouTube — EPMD / Crossover",
         "url": "https://www.youtube.com/watch?v=DCcWkyg-6s0",
         "kind": "公式配信情報"
+      },
+      {
+        "url": "https://xxlmag.s3.amazonaws.com/pdfs/defjam-moment.pdf",
+        "label": "Parrish Smith — Def Jam oral history / XXL Nov 2009, p.54",
+        "kind": "本人証言・雑誌原紙"
       }
     ],
     "producers": [
@@ -14536,7 +14611,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "keith-murray-the-most-beautifullest-thing-in-this-world",
@@ -14586,11 +14669,11 @@
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "甘い音を、密度の高いラップが横切る。",
-    "essayTitle": "甘い響きの上を走るラップの密度",
+    "deck": "曲とアルバムの名は、Erick Sermon作品で披露した一節につながっている。",
+    "essayTitle": "客演の一節が、ソロの看板になった。",
     "essay": [
-      "甘い音を、密度の高いラップが横切る。",
-      "甘い音の上を、密度のある声が通り過ぎる。音楽の柔らかさとラップの細かさを交互に追うと、一曲の中で耳の焦点が変わる。"
+      "「The Most Beautifullest Thing in This World」という長い名は、ソロ作だけで完結しない。Jesse DuckerのAlbumism評が指摘するように、Keith MurrayがErick Sermonの「Hostile」で披露した一節が、次のシングルとアルバムの題になった。",
+      "Duckerは、難しい語や造語を街のスラングと並べるMurrayの個性にも注目している。整った文法だけを基準にすれば過剰に見える題も、その声の癖を示す看板になる。客演で耳に残した言葉が、ソロの入口まで運ばれている。"
     ],
     "facts": [
       {
@@ -14604,14 +14687,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "甘い音を、密度の高いラップが横切る。"
+      "「Hostile」の客演とこの曲を、言葉が受け渡される関係としてたどる。"
     ],
-    "context": "甘い音の上を、密度のある声が通り過ぎる。音楽の柔らかさとラップの細かさを交互に追うと、一曲の中で耳の焦点が変わる。",
+    "context": "客演で名乗った言葉を、ソロ作品の題へ。",
     "sources": [
       {
         "label": "YouTube — Keith Murray / The Most Beautifullest Thing in This World",
         "url": "https://www.youtube.com/watch?v=lge1iy_0Uy4",
         "kind": "公式配信情報"
+      },
+      {
+        "url": "https://albumism.com/features/keith-murray-debut-album-the-most-beautifullest-thing-in-this-world-album-anniversary",
+        "label": "Jesse Ducker — Keith Murray album retrospective / Albumism",
+        "kind": "署名専門評論"
       }
     ],
     "producers": [
@@ -14630,7 +14718,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "redman-da-goodness",
@@ -14767,11 +14863,11 @@
       "lettering": "subway",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "低音の深さに、別の文化の響きが重なる。",
-    "essayTitle": "深い低音から、重なる声の響きへ",
+    "deck": "Steeleはレゲエ好きの弟Top Dogを、この曲に欠かせない声として誘った。",
+    "essayTitle": "家でレゲエをかけていた弟を、マイクへ。",
     "essay": [
-      "低音の深さに、別の文化の響きが重なる。",
-      "低音の深いところに耳を置いて、声の響きとの関係を追う。いつものラップの聴き方を少し広げ、音の重なりから別の入口を探したい。"
+      "「Sound Bwoy Bureill」にTop Dogを招いた理由は、身近なところにあった。Jesse SerwerのLargeUp取材でSteeleは、家でいつもレゲエをかけていた弟こそ、その感覚を持つ人物だったと話している。自分たちだけでまねをするのではなく、彼に参加してもらいたかったという。",
+      "当時のTop Dogはまだラップをしていなかった、とSteeleは振り返る。二人は普段やっているレゲエの感じを出してほしいと誘い、シンプルに始めた。家庭で聴いていた音と、仲間として加わる声が、ここで一曲につながっている。"
     ],
     "facts": [
       {
@@ -14785,14 +14881,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "低音の深さに、別の文化の響きが重なる。"
+      "客演を追加の声としてだけでなく、家で共有していた音楽を運ぶ存在として聴く。"
     ],
-    "context": "低音の深いところに耳を置いて、声の響きとの関係を追う。いつものラップの聴き方を少し広げ、音の重なりから別の入口を探したい。",
+    "context": "Steeleの弟が持っていたレゲエの感覚を、曲の中へ。",
     "sources": [
       {
         "label": "YouTube — Smif-N-Wessun / Sound Bwoy Bureill",
         "url": "https://www.youtube.com/watch?v=s5MogMGLWAA",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "url": "https://www.largeup.com/2011/06/28/heds-and-dreds-pt-2-exclusive-interview-with-smif-n-wessun/amp/",
+        "label": "Jesse Serwer — Smif-n-Wessun / LargeUp",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -14811,7 +14912,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "heltah-skeltah-leflaur-leflah-eshkoshka",
