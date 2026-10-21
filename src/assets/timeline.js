@@ -5,7 +5,7 @@ window.CrateChronology=(songs,esc,options={})=>{
  const events=options.events||[];
  if(!songs.length&&!events.length)return '<p class="empty">この条件の曲はまだありません。条件を変えて掘ってみてください。</p>';
  const years=[...new Set([...songs.filter(s=>Number.isInteger(s.year)).map(s=>s.year),...events.map(e=>e.year)])].sort((a,b)=>a-b);
- const record=s=>'<article class="tc-record"><div class="tc-record-head"><span class="tc-city">'+esc(s.region)+'</span>'+(s.yearBasis?'<span class="tc-date-note">'+(s.yearBasis.includes('配信版')?'配信版の年 · 初出年は照合中':'発表年の根拠は解説を参照')+'</span>':'')+'<a href="#/song/'+s.id+'" aria-label="'+esc(s.title+' / '+s.artist+'の解説を読む')+'"><h3>'+esc(s.title)+'</h3><p>'+esc(s.artist)+'</p><span class="tc-arrow" aria-hidden="true">↗</span></a></div></article>';
+ const record=s=>'<article class="tc-record"><div class="tc-record-head"><span class="tc-city">'+esc(s.region)+'</span>'+(s.yearQualifier?'<span class="tc-date-note">'+esc(s.year+'年〈'+s.yearQualifier+'〉')+'</span><p class="work-year-note">'+esc(s.yearDisplayNote)+'</p>':s.yearBasis?'<span class="tc-date-note">'+(s.yearBasis.includes('配信版')?'配信版の年 · 初出年は照合中':'発表年の根拠は解説を参照')+'</span>':'')+'<a href="#/song/'+s.id+'" aria-label="'+esc(s.title+' / '+s.artist+'の解説を読む')+'"><h3>'+esc(s.title)+'</h3><p>'+esc(s.artist)+'</p><span class="tc-arrow" aria-hidden="true">↗</span></a></div></article>';
  const news=e=>{
   const sources=e.sources?.length?e.sources:[{label:e.source,url:e.url}],catalog=window.TRACKS||songs;
   const related=(e.relatedTrackIds||[]).slice(0,2).map(id=>catalog.find(s=>s.id===id)).filter(Boolean);

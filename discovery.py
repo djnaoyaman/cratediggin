@@ -75,7 +75,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
 
     def track_links(items):
         return '<ul>' + ''.join('<li><a href="' + base_path + '/songs/' + t['id'] + '.html">' +
-                               esc(t['artist'] + ' — ' + t['title']) + '</a>'+ (' <span class="work-format">'+esc(work_label(t))+'</span>' if work_type(t)!='single' else '')+'</li>' for t in items) + '</ul>'
+                               esc(t['artist'] + ' — ' + t['title']) + '</a>'+(' <span class="work-year">'+esc(year_label(t))+'</span><p class="work-year-note">'+esc(t['yearDisplayNote'])+'</p>' if t.get('yearQualifier') else '')+ (' <span class="work-format">'+esc(work_label(t))+'</span>' if work_type(t)!='single' else '')+'</li>' for t in items) + '</ul>'
 
     def article(url, title, description, image, key, published=None, about=None):
         data = {'@type': 'Article', '@id': url + '#article', 'url': url, 'mainEntityOfPage': url,
