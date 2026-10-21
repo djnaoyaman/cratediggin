@@ -10145,6 +10145,79 @@
       "transparent": true,
       "textReviewed": true,
       "paletteReviewed": true
+    },
+    {
+      "palette": [
+        "#123E4D",
+        "#2C6175",
+        "#BDDCE9",
+        "#FAFCFC",
+        "#07171D"
+      ],
+      "paletteSource": "2005 debut album Push Comes to Shove, STH2108",
+      "paletteSourceUrl": "https://www.stonesthrow.com/store/push-comes-to-shove/",
+      "paletteNote": "2005年のオリジナル・アルバムの青緑、白、暗い輪郭を目視参照した近似色。12インチは無地スリーヴのため、アルバムを配色資料に使用。人物・写真・既存題字は転載していません。",
+      "id": "med-push",
+      "status": "ready",
+      "image": "assets/graffiti/med-push-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    },
+    {
+      "palette": [
+        "#B2B593",
+        "#9B9F83",
+        "#EEEEE4",
+        "#64747A",
+        "#303033"
+      ],
+      "paletteSource": "2011 Bang Ya Head 3 Special Edition compilation CD; not an invented 2010 single jacket.",
+      "paletteSourceUrl": "https://www.stonesthrow.com/news/med-bang-ya-head-3-special-edition/",
+      "paletteNote": "該当する版のジャケットを目視参照した近似色です。人物・写真・既存題字は転載していません。",
+      "id": "med-aint-bragging",
+      "status": "ready",
+      "image": "assets/graffiti/med-aint-bragging-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    },
+    {
+      "palette": [
+        "#DE5A16",
+        "#B7471C",
+        "#E5B247",
+        "#F4DEA2",
+        "#6D6951",
+        "#28251D"
+      ],
+      "paletteSource": "Original 2011 EP cover with birds and bottom-left artists; not changed 2023 cover.",
+      "paletteSourceUrl": "https://geminihiphop.blogspot.com/2011/12/ep-planet-asia-and-madlib-cracks-in.html",
+      "paletteNote": "該当する版のジャケットを目視参照した近似色です。人物・写真・既存題字は転載していません。",
+      "id": "planet-asia-madlib-masonic-vocals",
+      "status": "ready",
+      "image": "assets/graffiti/planet-asia-madlib-masonic-vocals-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    },
+    {
+      "palette": [
+        "#F1E8B3",
+        "#F8F4DD",
+        "#7E1610",
+        "#100A06",
+        "#8F8A81"
+      ],
+      "paletteSource": "2011 Arms & Hammers original album.",
+      "paletteSourceUrl": "https://open.spotify.com/track/6gMHo0kBBNxzwPo0DkHYii",
+      "paletteNote": "該当する版のジャケットを目視参照した近似色です。人物・写真・既存題字は転載していません。",
+      "id": "strong-arm-steady-all-the-brothers",
+      "status": "ready",
+      "image": "assets/graffiti/strong-arm-steady-all-the-brothers-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
