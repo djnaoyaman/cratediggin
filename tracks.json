@@ -26817,12 +26817,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "Madlibの音を、Kieran Hebdenの編集でたどる。",
-    "essayTitle": "ひとつの道に、音を並べ直す。",
+    "deck": "Madlibの音楽に、Kieran Hebdenの編集・構成。そして公式クレジットに残る二つのサンプル名義。",
+    "essayTitle": "音を作る人、並べ直す人。",
     "essay": [
-      "声の反復が、曲名の孤独を少しずつ別の感触に変えていく。ひとりで聴いていても、音の向こうに誰かの気配がある。",
-      "Madlibの音楽をKieran Hebdenが編集し、構成する。素材を作ることと、並べ方を考えること。その間にも創造の場所がある。",
-      "新しい音を足すだけが制作ではない。すでにある音の順序を整えることで、見えてくる道もあるのだと思う。"
+      "「Road of the Lonely Ones」の公式シングルページは、音楽をMadlib、編集・構成・マスタリングをKieran Hebdenと記している。同じ「制作」という言葉でまとめずに読むと、音を生む仕事と、それを一曲の形に整える仕事の分担が見えてくる。",
+      "サンプルのクレジットにはThe EthicsとJ-Zoneの名がある。ただし、このページが明記するのは名義と提供元で、元になった曲名や録音の版までは書かれていない。声やドラムを聴き分ける入口にはなるが、どの音が誰のどの録音かを、この記載だけで決めつけない。",
+      "収録アルバム『Sound Ancestors』の公式紹介でHebdenは、Madlibから数年にわたり何百もの音楽の断片を受け取り、編集し、組み合わせたと説明している。この曲も、素材の出会いだけでなく、一枚を通して聴くための並べ方という視点からたどれる。"
     ],
     "facts": [
       {
@@ -26841,12 +26841,12 @@
       }
     ],
     "samples": [],
-    "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
+    "sampleStatus": "公式シングルページはThe EthicsとJ-Zoneをサンプル名義として記載。元曲名・録音の版・各音との対応は個別照合中。",
     "listening": [
       "Madlibの音を、Kieran Hebdenの編集でたどる。",
       "声・旋律とドラムの間に生まれる余白。"
     ],
-    "context": "2020年の作品として、Madlibの制作とMadlibの表現の接点を聴く。",
+    "context": "2020年12月に先行発表され、2021年の『Sound Ancestors』に収録。公式クレジットではMadlibの音楽とKieran Hebdenの編集・構成・マスタリングを区別している。",
     "sources": [
       {
         "label": "Madlib Invazion / Madlib - Road of the Lonely Ones",
@@ -26856,6 +26856,11 @@
       {
         "label": "Madlib公式 / 初出シングル",
         "url": "https://madlib.bandcamp.com/track/road-of-the-lonely-ones",
+        "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "label": "Madlib公式：Sound Ancestors／制作クレジットとKieran Hebdenの説明",
+        "url": "https://madlib.bandcamp.com/album/sound-ancestors",
         "kind": "アーティスト・レーベル公式"
       }
     ],
@@ -26879,7 +26884,18 @@
     "artists": [
       "Madlib"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "mf-doom-one-beer",
