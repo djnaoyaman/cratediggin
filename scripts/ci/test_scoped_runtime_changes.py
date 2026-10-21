@@ -58,10 +58,21 @@ class ScopedRuntimeTests(unittest.TestCase):
  def test_album_bootstrap_exact_pair_and_drift(self):
   m=json.loads((HERE/'manifest.json').read_text());root=HERE.parents[1];path='src/app/player.js'
   f=json.loads((root/'scripts/fixtures/approved-album-bootstrap.json').read_text())['files'][path]
-  before=f['before'].encode();after=(root/path).read_bytes();change=[dict(status='M',old_path=path,new_path=path)]
+  from approved_person_queue import historical_person_queue_file
+  before=f['before'].encode();after=historical_person_queue_file(path,(root/path).read_bytes());change=[dict(status='M',old_path=path,new_path=path)]
   p=s.select_changes(m,change,lambda _:before,lambda _:after)
   self.assertEqual({c['id'] for c in p['selected']},set(m['groups']['album_bootstrap']))
   for a,b in [(before+b' ',after),(before,after+b' '),(None,after),(before,None),(after,before)]:
    q=s.select_changes(m,change,lambda _:a,lambda _:b)
    self.assertTrue(set().union(*(set(m['groups'][g]) for g in m['runtime_rules'][path]))<={c['id'] for c in q['selected']})
+ def test_person_queue_exact_pair_and_drift(self):
+  m=json.loads((HERE/'manifest.json').read_text());root=HERE.parents[1]
+  f=json.loads((root/'scripts/fixtures/approved-person-queue.json').read_text())['files']
+  for path in ['src/app/player.js','src/app/editorial.js']:
+   before=f[path]['before'].encode();after=(root/path).read_bytes();change=[dict(status='M',old_path=path,new_path=path)]
+   p=s.select_changes(m,change,lambda _:before,lambda _:after)
+   self.assertFalse(p['blockers']);self.assertEqual({c['id'] for c in p['selected']},set(m['groups']['person_queue']))
+   for a,b in [(before+b' ',after),(before,after+b' '),(None,after),(before,None),(after,before)]:
+    q=s.select_changes(m,change,lambda _:a,lambda _:b)
+    self.assertTrue(set().union(*(set(m['groups'][g]) for g in m['runtime_rules'][path]))<={c['id'] for c in q['selected']})
 if __name__=='__main__':unittest.main()

@@ -12,13 +12,22 @@
  function top(label,note='VOL. 001'){return '<div class="page-top"><span class="eyebrow">'+label+'</span><span class="edition">'+note+'</span></div>'}
  function card(s){const showImage=customMode||currentRoute().startsWith('#/songs');return '<a class="record-card" href="#/song/'+s.id+'"><div class="card-main"><h3>'+esc(s.title)+'</h3><span class="card-artist artist-jump" role="link" tabindex="0" data-artist="'+esc(s.artist)+'" aria-label="'+esc(s.artist)+'の曲一覧">'+esc(s.artist)+'<span class="card-artist-arrow" aria-hidden="true"> ↗</span></span><div class="card-meta"><b>'+yearLabel(s)+'</b><span>'+esc(s.region)+'</span><span>'+esc(s.category)+'</span></div>'+(workType(s)!=='single'?'<span class="work-format">'+workLabel(s)+'</span>':'')+'<p>'+esc(s.deck)+'</p><div class="tags">'+s.moods.map(x=>'<span>'+esc(x)+'</span>').join('')+'</div>'+(showImage&&s.art.image?'<figure class="catalog-graffiti"><img loading="lazy" decoding="async" src="'+origin+'/'+esc(s.art.image)+'" alt="'+esc(s.art.alt)+'"><figcaption>Designed by DJ Naoyaman</figcaption></figure>':'')+'</div><span class="card-arrow">↗</span></a>'}
  function artistUrl(name){return '#/artist/'+encodeURIComponent(name)}
+ function scopePersonQueue(list){
+  queueScope=list.map(t=>t.id);queueCustom=false;queue=playableIds(list,false);
+  if(playing||mainIntent.wantsPlay||pendingLoad?.play||albumOwnsPlayback()||sourceActive||inlinePlaybackLocked)return;
+  started=false;$('#start').hidden=false;
+  const first=songs.findIndex(t=>t.id===queue[0]);
+  if(first>=0){loadSong(first,false);return}
+  playbackIntent++;clearPlaybackWatchdog();pendingLoad=null;lastPlaybackEvent=null;resetMainIntent();disposeAlbumPlayer();albumPlaybackLocked=false;now(-1);
+  if(ready)player.stopVideo();toggleUI(false);$('#seek').value=0;$('#elapsed').textContent='0:00';$('#duration').textContent='—';status('この一覧に再生できる曲がありません。除外した曲は戻せます。');
+ }
  function artistPage(name){
   const names=[...new Set(songs.map(s=>s.artist))].sort((a,b)=>a.localeCompare(b,'ja'));
   const selected=name&&names.find(a=>a===name);
   if(!selected){
    view.innerHTML=top('<a href="#/songs">THE RECORD CRATE</a>','ARTIST INDEX')+'<section class="artist-directory"><h1>ARTISTS</h1><p><a href="#/producers">PRODUCERS：プロデューサー特集へ ↗</a></p>'+featureGrid('artist')+'<h2>ALL ARTISTS</h2><p>アーティストからレコードを探す。全 '+names.length+' 組。</p><div class="artist-grid">'+names.map(a=>'<a href="'+artistUrl(a)+'">'+esc(a)+' <small>'+songs.filter(s=>s.artist===a).length+'</small></a>').join('')+'</div></section>';
   }else{
-   customMode=false;applyListFilters=null;const tracks=songs.filter(s=>s.artist===selected);filtered=tracks;
+   customMode=false;applyListFilters=null;const tracks=songs.filter(s=>s.artist===selected);filtered=tracks;scopePersonQueue(tracks);
    view.innerHTML=top('<a href="#/artists">ALL ARTISTS</a>',tracks.length+' TRACKS')+'<section class="artist-directory"><h1>'+esc(selected)+'</h1><p>収録作品 '+workCount(tracks)+'</p>'+publishedFeatures().filter(f=>(f.aliases||[]).includes(selected)||(f.type==='artist'&&f.names.includes(selected))).map(f=>'<p><a href="#/feature/'+f.id+'">'+esc(f.editorial.title)+' — 特集と考察を読む ↗</a></p>').join('')+'<div class="record-list">'+tracks.map(card).join('')+'</div><p><a href="#/artists">← アーティスト一覧へ戻る</a></p></section>';
   }
  }
