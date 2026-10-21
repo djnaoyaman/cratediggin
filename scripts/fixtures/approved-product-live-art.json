@@ -1,0 +1,31 @@
+{
+  "base": "22b1ebb43cd360831d82f357a1c7292b7d6ef232",
+  "assets": [
+    {
+      "id": "dj-shadow-cut-chemist-product-placement-live-video",
+      "path": "assets/graffiti/dj-shadow-cut-chemist-product-placement-live-video-alpha.webp",
+      "beforeSHA256": "f22c99c7fc7585a4727e29bbc655b5c013dbf4bc68bb2a5e051df688075b2fd0",
+      "afterSHA256": "305c2f7f5462680ebc09be01c4a1393696fd153bd3b8a115eaeb6598bb848866",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "rgbaSHA256": "69ab86093411e3bcdf06675b7213236b7d99165f502cd0a5f3a6daaddbbc67a3"
+    }
+  ],
+  "beforeVersion": "22.42",
+  "beforeReleaseSHA256": "203a955cfa81af738dd1bc79ffbd27e8f95b9afb7e8fdb7376a2ef78f16db891",
+  "afterReleaseSHA256": "c9356858a6aeac712af56ba58b43cb90481c954cdba12b7cb8c78572c55b7400",
+  "protected": {
+    "tracks.json": "f8195ac68b04ea63d92a681a11d6909558849ffa1bbe6ef84111a538d4c7fbeb",
+    "graffiti_artwork.json": "fccdb745bbd3b2871ef3b506b3197077f5e6b42cd543cefdbd042a2efb3f9c49",
+    "editorial_deepdives.json": "5b989c85ad5e6b0114a341209da18e6ed05608b71424d5184fe3733dc86436c0",
+    "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+    "artist_entities.json": "be0a95389d26e99480325ad2a7f0872ba3e21e7e58b6cf2b3fd7515d5805469b",
+    "editor_profile.json": "977a36f96e638d8d7fa925235ad9dc70c9e7607ae6d220a43b82b789c8746caa",
+    "src/app/player.js": "6796ca1e0ebe8ede8c3619fd6af2785410d247728bb627e79dceb8769e942c0a",
+    "src/assets/art.js": "bff0c731802e8fc530ce6f29440723c2c860e5da1899459e8498d6680c85e91b",
+    "src/assets/style.css": "b6a2627965e44b62640495ec57d74a819eef054282d86d7bc448341ce26a21c5"
+  },
+  "visualReview": "Full title and artist, light/dark transparency, visible lettering size, original palette and no inside-site branding reviewed independently of alpha bounds."
+}
