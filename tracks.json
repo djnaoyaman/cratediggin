@@ -25265,12 +25265,11 @@
       "lettering": "subway",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "マイクを手放しても、音楽の会話は止まらない。ターンテーブルの手つきへ。",
-    "essayTitle": "DJが話している時間。",
+    "deck": "Premier本人が話す、二つの素材の出会い。",
+    "essayTitle": "ピアノと「Summer Madness」が重なった。",
     "essay": [
-      "ラップを待っていると、もう始まっている会話を聞き逃す。この曲では、レコードを動かす手が前へ出る。私には、音を擦る動きそのものが言葉のように聞こえる。",
-      "1989年の『No More Mr. Nice Guy』に収録。公式バイオグラフィーもDJを前面に出した曲として挙げている。後年の名プロデューサーを知ってから戻ると、机の上より先にターンテーブルが見える。",
-      "「Lesson 6」「Lesson 7」と同じ棚へ置いてみる。直接の制作上のつながりを断定するためではない。切り取る、つなぐ、擦るという行為が、それぞれ違う話し方になるのを楽しむためだ。"
+      "Andrew MasonによるWax Poeticsの取材で、DJ Premierはこの曲を、気に入っていたピアノのループとKool & the Gangの「Summer Madness」を重ねて作ったと話している。二つがうまく合ったのだという。",
+      "当時はDJが自分の曲を持つことに憧れ、自分も作りたかったと振り返る。元曲へ戻り、重なった後の役割を聴き比べたい。"
     ],
     "facts": [
       {
@@ -25291,11 +25290,10 @@
     ],
     "samples": [],
     "listening": [
-      "スクラッチの切れ目とフレーズのつなぎ方に耳を向ける。",
-      "同じアルバムの前後の曲と並べ、ループの表情を比べる。",
-      "年代順と選曲棚の両方から、違う隣り合わせで聴く。"
+      "「Summer Madness」と、この曲での使われ方を比べる。",
+      "スクラッチの切れ目とフレーズのつなぎ方に耳を向ける。"
     ],
-    "context": "1989年の作品。活動地域はNew Yorkとして掲載し、出身地やサウンドトラックの舞台とは区別する。",
+    "context": "二つの素材を重ねた経緯を、本人の証言からたどる。",
     "sources": [
       {
         "label": "DJ Premier in Deep Concentration — Little Pad",
@@ -25306,6 +25304,16 @@
         "label": "Gang Starr公式バイオグラフィー",
         "url": "https://gangstarr.global/pages/bio",
         "kind": "アーティスト公式資料"
+      },
+      {
+        "url": "https://magazine.waxpoetics.com/article/dj-premier-takes-it-personal/",
+        "label": "Andrew Mason — DJ Premier Takes It Personal / Wax Poetics",
+        "kind": "本人インタビュー"
+      },
+      {
+        "url": "https://www.ttm-dj.com/ttm-01-02-scratches/",
+        "label": "TTM — DJ Babuの「Deep Concentration」評（Scratch Magazine 2005より再掲）",
+        "kind": "DJ本人の批評・再掲"
       }
     ],
     "producers": [
@@ -25328,7 +25336,15 @@
     "editorialCrates": [
       "cut-scratch"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "gang-starr-gotta-get-over-taking-loot",
@@ -25612,12 +25628,12 @@
       "lettering": "subway",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "声とビート。その二つの釣り合いが、タイトル曲の看板になる。",
-    "essayTitle": "二人で立てる、大きさの場所。",
+    "deck": "「Step in the Arena」は、MPC導入より前に生まれた。",
+    "essayTitle": "アルバムで最初に作ったビート。",
     "essay": [
-      "アリーナという言葉は大きい。けれど私がこの曲で聴きたいのは、観客席の広さより、声とドラムの距離である。二人が収まる場所の設計が、そのまま曲の強さになる。",
+      "DJ PremierはWax Poeticsの取材で、このタイトル曲がアルバム用に最初に作ったビートだったと語る。当時使っていたのはAlesisで、MPCを使い始めたのは次作『Daily Operation』からだという。",
       "公式バイオグラフィーは、同名アルバムを1991年の作品としている。配信欄には異なる年の表示もあるため、このサイトでは公式の作品史に合わせて年表へ置いた。",
-      "1989年の「DJ Premier in Deep Concentration」と続ければ、DJの手つきとMCの居場所を一緒にたどれる。名盤という呼び名の前に、一曲のなかで何が起きているかを聴いていたい。"
+      "後年の制作機材の印象を、そのまま初期作品へ当てはめない。本人が語った順序から、一枚の始まりをたどってみたい。"
     ],
     "facts": [
       {
@@ -25638,11 +25654,9 @@
     ],
     "samples": [],
     "listening": [
-      "まず声とドラムの間合いを聴く。",
-      "同じアルバムの前後の曲と並べ、ループの表情を比べる。",
-      "年代順と選曲棚の両方から、違う隣り合わせで聴く。"
+      "制作した順番と、アルバムの曲順を分けて考える。"
     ],
-    "context": "1991年の作品。活動地域はNew Yorkとして掲載し、出身地やサウンドトラックの舞台とは区別する。",
+    "context": "本人が語る、MPC以前のタイトル曲。",
     "sources": [
       {
         "label": "Step in the Arena — Gang Starr",
@@ -25653,6 +25667,11 @@
         "label": "Gang Starr公式バイオグラフィー",
         "url": "https://gangstarr.global/pages/bio",
         "kind": "アーティスト公式資料"
+      },
+      {
+        "url": "https://magazine.waxpoetics.com/article/dj-premier-takes-it-personal/",
+        "label": "Andrew Mason — DJ Premier Takes It Personal / Wax Poetics",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -25677,7 +25696,18 @@
       "raw-beats",
       "mic-skills"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "dj-shadow-in-flux",
@@ -25724,12 +25754,11 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "反復の中へ、別の時間が流れ込む。",
-    "essayTitle": "反復の中へ、別の時間が流れ込む。",
+    "deck": "「In/Flux」でShadowが目指した、出発と回帰。",
+    "essayTitle": "ラップのないビートではなく、物語を。",
     "essay": [
-      "In/Flux。DJ ShadowのMo' Wax期のシングルとして、レコードを掘る入口に置きたい一枚だ。",
-      "サンプリングの面白さは、素材の名前を当てることだけではない。断片を並べる順序が変われば、聴き手の時間の流れも変わる。",
-      "盤面の細かな違いは、これから照合していく。まずは一枚の12インチを、音楽の地図に戻しておきたい。"
+      "DJ ShadowはDavid MaによるWax Poeticsの取材で、「In/Flux」では単にビートを作るのではなく、インストゥルメンタルで物語を語ろうとしたと説明している。展開が離れていき、また戻ってくる構成を意識していたという。",
+      "この本人談を入口に、素材の名前だけでなく、何が戻ってくるかを追ってみたい。ラップを待つ時間とは違う聴き方を、曲の中で探す。"
     ],
     "facts": [
       {
@@ -25743,15 +25772,19 @@
     "samples": [],
     "sampleStatus": "サンプル元は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "反復の中へ、別の時間が流れ込む。",
-      "短い反復と音の重なり方に耳を向ける。"
+      "一度離れた要素が、どこで戻ってくるかを確かめる。"
     ],
-    "context": "DJ ShadowのMo' Wax期の12インチ作品をたどる。",
+    "context": "本人が語る、器楽で物語を作る試み。",
     "sources": [
       {
         "label": "DJ Shadow公式 — The Mo' Wax Singles 1993–1997",
         "url": "https://shop.djshadow.com/blogs/news/the-mo-wax-singles-1993-1997-box-set-with-exclusive-signed-print-now-available-for-pre-order",
         "kind": "アーティスト公式"
+      },
+      {
+        "url": "https://magazine.waxpoetics.com/article/dj-shadow-in-the-beginning/",
+        "label": "David Ma — In the Beginning: DJ Shadow / Wax Poetics",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -25769,7 +25802,15 @@
     "editorialCrates": [
       "cut-scratch"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "dj-shadow-lost-and-found-sfl",
@@ -25817,12 +25858,11 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "見つけた音を、別の場所へ連れ出す。",
-    "essayTitle": "見つけた音を、別の場所へ連れ出す。",
+    "deck": "「Lost and Found」でShadowが意図した方向転換。",
+    "essayTitle": "「アシッド・ジャズ」の期待から離れる。",
     "essay": [
-      "Lost and Found (S.F.L.)。DJ ShadowのMo' Wax期のシングルとして、レコードを掘る入口に置きたい一枚だ。",
-      "サンプリングの面白さは、素材の名前を当てることだけではない。断片を並べる順序が変われば、聴き手の時間の流れも変わる。",
-      "盤面の細かな違いは、これから照合していく。まずは一枚の12インチを、音楽の地図に戻しておきたい。"
+      "Wax PoeticsのDavid Maの取材に対し、DJ Shadowは「Lost and Found」を、それまでと正反対へ向かうつもりで作ったと語る。自分の音楽をアシッド・ジャズと呼ぶ人たちを試したかったという。",
+      "生活も安定せず、機材を移さなければならない時期だったと本人は振り返る。その事情を音の原因と決めつけず、期待される分類から離れようとした制作意図として読みたい。"
     ],
     "facts": [
       {
@@ -25836,15 +25876,19 @@
     "samples": [],
     "sampleStatus": "サンプル元は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "見つけた音を、別の場所へ連れ出す。",
-      "短い反復と音の重なり方に耳を向ける。"
+      "「In/Flux」と並べ、同じ作り方だと思い込まずに聴く。"
     ],
-    "context": "DJ ShadowのMo' Wax期の12インチ作品をたどる。",
+    "context": "本人が語った、期待された分類への反発。",
     "sources": [
       {
         "label": "DJ Shadow公式 — The Mo' Wax Singles 1993–1997",
         "url": "https://shop.djshadow.com/blogs/news/the-mo-wax-singles-1993-1997-box-set-with-exclusive-signed-print-now-available-for-pre-order",
         "kind": "アーティスト公式"
+      },
+      {
+        "url": "https://magazine.waxpoetics.com/article/dj-shadow-in-the-beginning/",
+        "label": "David Ma — In the Beginning: DJ Shadow / Wax Poetics",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -25862,7 +25906,15 @@
     "editorialCrates": [
       "cut-scratch"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "dj-shadow-what-does-your-soul-look-like",
@@ -26135,12 +26187,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "数字を数える声が、ビートの一部になる。",
-    "essayTitle": "数字の列から、音楽が始まる。",
+    "deck": "カリフォルニアへ渡ったレコードが、一曲の終盤につながる。",
+    "essayTitle": "終わりのブレイクは、韓国の盤から。",
     "essay": [
-      "数字を数える声が、ビートの一部になる。順番を示すだけだった声が、切り刻まれ、リズムとして歩き始める。",
-      "レコードの断片を並べ替えることで、聴き慣れた音は別の表情を見せる。DJ Shadowの面白さは、音を集めることよりも、集めた音に新しい時間を与えることにある。",
-      "『Endtroducing.....』を聴き直すなら、この曲は外せない。カウントが続くあいだ、こちらも音の仕掛けを数えてしまう。"
+      "DJ Shadowは2005年、Bill Brewsterの取材で「The Number Song」の終わりのブレイクビートについて話している。素材は、何らかの経路でカリフォルニアへ渡った韓国のレコードだったという。取材は後にRed Bull Music Academyが再掲載した。",
+      "この証言で分かるのは、終盤の素材にまつわる盤の移動だ。演奏者や曲名、どの店で手に入れたかまでは語られていない。曲全体の素材を一枚にまとめて説明する話でもない。",
+      "サンプル名を探す聴き方に加えて、その盤がどう手元へ届いたのかという問いが生まれる。既知の素材をたどりながら、終わりのブレイクにも耳を向けたい。"
     ],
     "facts": [
       {
@@ -26175,10 +26227,9 @@
     ],
     "sampleStatus": "使用サンプルの個別照合は未完了。",
     "listening": [
-      "カウントする声とドラムの絡み。",
-      "音の断片が切り替わる瞬間。"
+      "終盤のブレイクを確かめ、曲中のほかの素材と区別して聴く。"
     ],
-    "context": "『Endtroducing.....』に収録されたカットアップの魅力を示す一曲。",
+    "context": "本人談からたどる、国を越えて移動したレコードと終盤の素材。",
     "sources": [
       {
         "label": "DJ Shadow公式サイト",
@@ -26204,6 +26255,11 @@
         "label": "Sound On Sound：DJ Shadow本人の制作解説（2017）",
         "url": "https://www.soundonsound.com/techniques/classic-tracks-dj-shadow-midnight-perfect-world",
         "kind": "本人インタビュー"
+      },
+      {
+        "url": "https://daily.redbullmusicacademy.com/2018/04/dj-shadow-interview/",
+        "label": "Bill Brewster — The Vinyl-Hunting Exploits of DJ Shadow / DJ History・RBMA",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -26223,7 +26279,18 @@
     "editorialCrates": [
       "cut-scratch"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        5
+      ],
+      [
+        5
+      ],
+      [
+        5
+      ]
+    ]
   },
   {
     "id": "dj-shadow-the-number-song-cut-chemist-remix",
@@ -26271,12 +26338,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "The Number Songを、Cut Chemistのリミックスで聴く。",
-    "essayTitle": "同じ曲を、別の耳で。",
+    "deck": "レコード市での出会いが、「The Number Song」の依頼へ。",
+    "essayTitle": "二人の共同作業は、このリミックスから。",
     "essay": [
-      "DJ Shadow「The Number Song」のCut Chemist Remix。原曲と並べて聴くための一曲。",
-      "同じタイトルを持つ二つの音源を行き来すると、リズムの組み立て方に耳が向く。どこに重心を感じるか、それぞれの耳で確かめたい。",
-      "このページではリミックス音源を紹介しています。原曲のページからも、それぞれを独立した楽曲として選べます。"
+      "Cut ChemistはHenry BoothによるWTJU掲載のインタビューで、DJ Shadowとは1994年、ベイエリアのレコード市で会ったと振り返っている。その後Shadowから「The Number Song」のリミックスを頼まれたという。",
+      "本人によれば、これが二人の最初のプロとしての共同作業だった。後に続くミックス作品の前に、まず一曲を別のDJへ渡す機会があった。原曲とこの版を分けて聴く理由が、二人の履歴からも見えてくる。",
+      "同じタイトルを持つ二つの音源を行き来し、どこが残り、どこが組み替えられたかを確かめたい。このページが扱うのはCut Chemist Remixで、原曲そのものではない。"
     ],
     "facts": [
       {
@@ -26290,10 +26357,9 @@
     "samples": [],
     "sampleStatus": "使用サンプルの個別照合は未完了。",
     "listening": [
-      "原曲とリミックスのリズムの違い。",
-      "音の配置と展開の違い。"
+      "原曲とリミックスを交互に聴き、残る要素と変わる要素を確かめる。"
     ],
-    "context": "DJ ShadowのThe Number SongをCut Chemistがリミックスしたバージョン。",
+    "context": "Cut Chemist本人が語る、DJ Shadowとの共同作業の出発点。",
     "sources": [
       {
         "label": "DJ Shadow公式サイト",
@@ -26309,6 +26375,11 @@
         "label": "DJ Shadow公式：25周年7インチの解説",
         "url": "https://djshadow.com/products/dj-shadow-the-number-song-cut-chemist-remix-7-vinyl",
         "kind": "公式リリース解説"
+      },
+      {
+        "url": "https://www.wtju.net/interview-cut-chemist-behalf-upc-pkg-concerts/",
+        "label": "Henry Booth — Cut Chemist interview / WTJU",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -26329,7 +26400,18 @@
     "editorialCrates": [
       "cut-scratch"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ]
+    ]
   },
   {
     "id": "dj-shadow-building-steam-with-a-grain-of-salt",
@@ -26719,12 +26801,11 @@
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。",
       "paletteCoverSource": "https://www.universal-music.co.jp/unkle/biography/"
     },
-    "deck": "Thom Yorkeの声と、UNKLEの深い陰影。",
-    "essayTitle": "声が、暗がりの輪郭をつくる。",
+    "deck": "Thom Yorkeが「Rabbit in Your Headlights」に出会った場面。",
+    "essayTitle": "ホテルのロビーで、デモを渡した。",
     "essay": [
-      "声が前に出ているのに、その奥の空間まで聴いてしまう。Thom Yorkeを迎えたこの曲には、歌と音の背景を一緒に眺めたくなる余白がある。",
-      "DJ Shadowの仕事をソロ作品だけで追っていると、こうした接点を通り過ぎてしまう。UNKLEという名前になることで、別の声が同じ地図に入ってくる。",
-      "音楽の分類は便利だが、いい曲の前では少し窮屈でもある。ここでは棚の名前を一度忘れ、歌が消えたあとの響きまで聴きたい。"
+      "DJ ShadowはOumar SalehによるStereogumの取材で、タイムズスクエアのParamount HotelのロビーでThom Yorkeにデモを渡したと振り返る。それが後の「Rabbit in Your Headlights」だった。",
+      "Yorkeは重ねた音の音程を指摘したあと、興味深く、これに言葉を書けそうだと応じたという。完成曲の録音場所の話ではなく、まだ歌のないデモを聴いた時の本人の記憶だ。"
     ],
     "facts": [
       {
@@ -26739,10 +26820,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の曲名・録音バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "歌声と伴奏の距離。",
-      "終盤へ向かう音の重なり。"
+      "完成した歌から、デモを渡した時のやり取りへ思いを戻す。"
     ],
-    "context": "1998年の『Psyence Fiction』を通して、UNKLEでのDJ Shadowの制作をたどる。",
+    "context": "Shadowが語った、デモと歌い手の最初の接点。",
     "sources": [
       {
         "label": "Psyence Fiction / 公式作品情報",
@@ -26753,6 +26833,11 @@
         "label": "UNKLE - Topic / Rabbit in Your Headlights",
         "url": "https://www.youtube.com/watch?v=7gj6t4CTiCI",
         "kind": "公式配信音源・動画"
+      },
+      {
+        "url": "https://stereogum.com/2240398/dj-shadow-new-album-unkle-dj-hero-rare-records/interviews/weve-got-a-file-on-you",
+        "label": "Oumar Saleh — We’ve Got a File on You: DJ Shadow / Stereogum",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -26777,7 +26862,15 @@
       "UNKLE",
       "Thom Yorke"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "unkle-lonely-soul",
