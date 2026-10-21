@@ -1,0 +1,338 @@
+{
+  "base": "1ea8265c8c660ef4042d0770c13420b48288c10f",
+  "batch": 7,
+  "completed": 198,
+  "total": 226,
+  "beforeVersion": "22.51",
+  "rows": [
+    {
+      "id": "de-la-soul-oodles-of-o-s",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "言葉遊びを次のフレーズへ手渡す",
+      "rationale": "言葉遊びを単独の技巧ではなく、フレーズの受け渡しとして捉える。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "言葉遊びとフレーズの受け渡し。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "brand-nubian-love-me-or-leave-me-alone",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "愛の話は、ラップの言い回しから",
+      "rationale": "愛という題材とラップの言い回しを結び、歌詞の具体的内容は補わない。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "愛を題材にしたラップの言い回し。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "nice-smooth-how-to-flow",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "違う声ふたつ、フロウの作り方",
+      "rationale": "二人の声の違いをフロウへの入口にする。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "二人の異なる声が作るフロウ。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "showbiz-a-g-he-say-she-say",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "会話めいた題名から、語りのテンポへ",
+      "rationale": "会話的なのは題名という本文の範囲を保ち、曲全体を対話形式と断定しない。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "会話のような題名と語りのテンポ。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "diamond-the-psychotic-neurotics-freestyle-yo-that-s-that-shit",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "フリースタイルの名に、声の勢いを聴く",
+      "rationale": "フリースタイルを掲げるという本文の表現を保ち、即興録音だったとは断定しない。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "フリースタイルを掲げる声の勢い。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "eric-b-rakim-what-s-on-your-mind",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "問いかけの言葉とビートの呼吸を合わせる",
+      "rationale": "問いかけと呼吸という既存の聴きどころを一つの動作として示す。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "問いかけから始まる言葉とビートの呼吸。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "da-bush-babees-we-run-things-it-s-like-dat",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "フックを交差点に、いくつもの声",
+      "rationale": "複数の声が交差する場所としてフックを見立てる。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "フックを挟んで交差する複数の声。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "the-pharcyde-4-better-or-4-worse",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "笑いだけでは済まないラップの語り口",
+      "rationale": "ユーモアと不穏さの同居を、片方だけで聴かない視点にする。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "ユーモアと不穏さが同居する語り口。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "da-king-i-flip-da-scrip",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "短いフレーズ、拍とのずれを楽しむ",
+      "rationale": "短いフレーズとリズムのずれに焦点を限定する。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "短いフレーズとリズムのずれの楽しさ。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "kirk-uptown-style",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "アップタウンを掲げる声の輪郭",
+      "rationale": "題名と本文の地名への言及から声の輪郭へ導き、具体的地区や出身は補わない。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "地名を掲げる声とビートの輪郭。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "super-lover-cee-casanova-rud-this-dub-s-for-you",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "ダブという名を入口に、反復をたどる",
+      "rationale": "ダブは題名からの入口にとどめ、制作手法やジャンルを断定しない。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "ダブという題名からたどる反復の役割。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "nice-smooth-old-to-the-new",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "古いと新しい、その往復を言葉の響きで",
+      "rationale": "本文の新旧の往復を音の響きとして扱い、年代比較の事実は加えない。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "古さと新しさを往復する言葉の響き。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "da-youngsta-s-pass-da-mic",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "マイクを渡すたび、声が切り替わる",
+      "rationale": "マイクの受け渡しと声の交代を対応させる。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "マイクを渡す動きと声の切り替わり。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "zhigge-toss-it-up",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "掛け声が拍を押す、拍が声を押す",
+      "rationale": "掛け声とリズムが互いを押す感覚を対句にする。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "掛け声とリズムが互いを押す感覚。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "mesanjarz-of-funk-flip-da-script",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "ラップの受け渡しは、小節のつなぎ目に",
+      "rationale": "同名に近い他曲と区別し、この曲の小節の接続へ焦点を置く。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "ラップを受け渡す小節のつなぎ目。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "leaders-of-the-new-school-what-s-next",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "「次は？」のフックとＭＣたちの動き",
+      "rationale": "本文にある次への問いと複数MCを結び、具体的交代順は加えない。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "次を問いかけるフックと複数MCの動き。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "neneh-cherry-i-ain-t-gone-under-yet",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "歌とラップ、その境目を往復する声",
+      "rationale": "曲内の声の動きに絞り、ジャンル判定は行わない。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "歌とラップの境目を行き来する声。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "trends-of-culture-valley-of-the-skinz",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "繰り返す言葉を、声のまとまりで追う",
+      "rationale": "反復する言葉と声のまとまりという二つの観察点をつなぐ。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "言葉の反復と声のまとまり方。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "the-beatnuts-rik-s-joint",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "巡るビートのどこにラップを置くか",
+      "rationale": "反復を基準にラップの配置を探す問いにする。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "ビートの反復を軸にしたラップの配置。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "m-o-p-rugged-neva-smoove",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "強い声もドラムも、一緒に押し寄せる",
+      "rationale": "声とドラムの同時性を個別の聴きどころとして前面に出す。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "強い声とドラムが同時に押し寄せる感覚。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "champ-mc-keep-it-on-the-real",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "まっすぐなラップ、フックの役目は何か",
+      "rationale": "本文のラップの置き方とフックの役割から、断定せず問いを立てる。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "言葉をまっすぐ置くラップとフックの役割。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "brand-nubian-word-is-bond",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "約束の言葉をフックで繰り返す",
+      "rationale": "本文が示す約束としての言葉と反復を中心に据える。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "言葉を約束として刻むフックの反復。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "boogiemonsters-strange",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "不思議さは言葉にあるか、伴奏にあるか",
+      "rationale": "不思議さを言葉と伴奏の双方から探る本文を問いの形にする。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "不思議さを言葉と伴奏の両方から追う聴き方。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "yaggfu-front-left-field",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "フックを境に、声の運びはどう変わるか",
+      "rationale": "本文の範囲では固有の音楽的情報が少ない。安全な聴き方の問いにとどめた仮案。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "フックとヴァースで変わる声の運び。"
+      },
+      "needs_review": false,
+      "review_resolution": "Editorial review: faithful question/listening suggestion explicitly present in existing body or listening text; no new musical or historical assertion. Thin article depth remains unchanged."
+    },
+    {
+      "id": "grand-puba-amazing",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "軽やかな声とループ、その釣り合い",
+      "rationale": "軽やかさを声だけの性質とし、ループとの関係に焦点を置く。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "軽やかな声とループの釣り合い。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "redman-time-4-sum-aksion",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "声の勢いが拍を乗り越える、その瞬間",
+      "rationale": "声が拍を越える瞬間という本文固有の観察点を残す。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "勢いのある声が拍を乗り越える瞬間。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "k-solo-letterman",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "言葉を音の連なりとして聴いてみる",
+      "rationale": "音を連ねるという既存記述を聴き方の提案にする。綴りの具体的技巧は補わない。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "音を連ねる言葉とリズムの関係。"
+      },
+      "needs_review": false
+    },
+    {
+      "id": "krs-one-i-can-t-wake-up",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "夢の場面を切らさず、ラップでたどる",
+      "rationale": "夢を語るラップの連続性を軸にし、夢の筋書きは加えない。",
+      "evidence": {
+        "field": "existing_context.listening[0]",
+        "snippet": "夢の場面を語るラップの連続性。"
+      },
+      "needs_review": false
+    }
+  ],
+  "files": {
+    "tracks.json": {
+      "beforeSHA256": "ec3d5e38d620d59a2fd3b564bae359e5a78c30662a6e4b44646c7e414835cb62",
+      "afterSHA256": "32dfeb2ce363ceb99e10701275a0adbffff7a64dbb143e76f4399da8dd018a02"
+    },
+    "releases.json": {
+      "beforeSHA256": "a02f12a897d5b966b2c6a5b72444724faa5c5279eea3734c8b8492a11e7ad9b7",
+      "afterSHA256": "4539f4cbf8660bd4adeebcb834813d6d91bb35c165896536c6163c6cb80994d6"
+    }
+  },
+  "protected": {
+    "graffiti_artwork.json": "fccdb745bbd3b2871ef3b506b3197077f5e6b42cd543cefdbd042a2efb3f9c49",
+    "editorial_deepdives.json": "5b989c85ad5e6b0114a341209da18e6ed05608b71424d5184fe3733dc86436c0",
+    "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+    "artist_entities.json": "be0a95389d26e99480325ad2a7f0872ba3e21e7e58b6cf2b3fd7515d5805469b",
+    "src/app/catalog-ui.js": "2566d24be62e0a069bea040046664e301f36333890cf9057667e64866d5c1400",
+    "src/app/song-ui.js": "a96fc013d3e5e4ca3dfe359a8cc78c051fa559a9215d210ee3f84a073891b41a",
+    "src/app/editorial.js": "0e50447ea73ea4dc15fcf27c2f38d8214af89f77590d03a25b39cf4b31e5917d",
+    "src/assets/style.css": "369f75276d3aa790753db69ae410b1c5e24b93c24c8a645c436cf4c6053ef421"
+  }
+}
