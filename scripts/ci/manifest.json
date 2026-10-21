@@ -2208,6 +2208,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "large-professor-art-cleanup-browser"
+    },
+    {
+      "id": "cash-money-three",
+      "argv": [
+        "python",
+        "scripts/verify_cash_money_three.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "cash-money-three"
+    },
+    {
+      "id": "cash-money-three-browser",
+      "argv": [
+        "node",
+        "scripts/verify_cash_money_three_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "cash-money-three-browser"
     }
   ],
   "groups": {
@@ -2628,6 +2652,10 @@
     "large_professor_art_cleanup": [
       "large-professor-art-cleanup",
       "large-professor-art-cleanup-browser"
+    ],
+    "cash_money_three": [
+      "cash-money-three",
+      "cash-money-three-browser"
     ]
   },
   "runtime_rules": {
@@ -3396,13 +3424,26 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/approved_large_professor_art_cleanup.py": [
-      "scripts/fixtures/approved-large-professor-art-cleanup.json"
+      "scripts/fixtures/approved-large-professor-art-cleanup.json",
+      "scripts/approved_cash_money_three.py"
     ],
     "scripts/verify_large_professor_art_cleanup.py": [
       "scripts/approved_large_professor_art_cleanup.py"
     ],
     "scripts/verify_large_professor_art_cleanup_browser.cjs": [
       "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_cash_money_three.py": [
+      "scripts/fixtures/approved-cash-money-three.json"
+    ],
+    "scripts/verify_cash_money_three.py": [
+      "scripts/approved_cash_money_three.py",
+      "scripts/editorial_uniqueness.py",
+      "scripts/fixtures/editorial-legacy-debt.json"
+    ],
+    "scripts/verify_cash_money_three_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs",
+      "scripts/fixtures/approved-cash-money-three.json"
     ]
   },
   "policy_paths": [
@@ -3470,7 +3511,9 @@
     "scripts/approved_masta_ace_art_cleanup.py",
     "scripts/fixtures/approved-masta-ace-art-cleanup.json",
     "scripts/approved_large_professor_art_cleanup.py",
-    "scripts/fixtures/approved-large-professor-art-cleanup.json"
+    "scripts/fixtures/approved-large-professor-art-cleanup.json",
+    "scripts/approved_cash_money_three.py",
+    "scripts/fixtures/approved-cash-money-three.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -3514,7 +3557,8 @@
     "research/intake-something-20261021.json",
     "research/intake-halftime-20261021.json",
     "research/sampling-timeline-evidence-20261021.json",
-    "research/bear-witness-region-repair-20261021.json"
+    "research/bear-witness-region-repair-20261021.json",
+    "research/intake-cash-money-three-20261021.json"
   ],
   "syntax_existing": [
     "dist/app.js",
@@ -3944,6 +3988,13 @@
         "groups": [
           "bear_witness_region"
         ]
+      },
+      {
+        "before_sha256": "3b8c18cd1460c62ffaec3361cc3af7c00b91f79f1dc4f5caf5efacaf8f44ad1e",
+        "after_sha256": "f0665029f7a8aa5bd0bd534d0d7cf59339042a6eaf60af772e1f89ea3aa4ff08",
+        "groups": [
+          "cash_money_three"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -3995,6 +4046,13 @@
         "groups": [
           "live_video_year_labels"
         ]
+      },
+      {
+        "before_sha256": "f68168fc1a782706555976e87ecb920e0a30b2b8c071e23662dda504d4a8bc3a",
+        "after_sha256": "ba5eb9c70b346452037bddbeb40c4dcfe2f77b196163639e9f6e8a99e992dc87",
+        "groups": [
+          "cash_money_three"
+        ]
       }
     ],
     "graffiti_artwork.json": [
@@ -4038,6 +4096,13 @@
         "after_sha256": "f26024b9ca55ba0b10e5f0dc62bfcc3ffc54106cfd0b577d729303a23a036305",
         "groups": [
           "halftime"
+        ]
+      },
+      {
+        "before_sha256": "f26024b9ca55ba0b10e5f0dc62bfcc3ffc54106cfd0b577d729303a23a036305",
+        "after_sha256": "233be58a262bae14bf895104a6418bf34a29592f6b3368ac095faf49bd6945da",
+        "groups": [
+          "cash_money_three"
         ]
       }
     ],
@@ -4134,6 +4199,13 @@
         "groups": [
           "something"
         ]
+      },
+      {
+        "before_sha256": "9e952d640f20e0c203e6bbcba1746da53eb014bfc05f957b86dea2c77fb0c02f",
+        "after_sha256": "fc576a212b500a3c76e615bde8128124075e6e203d8996201761b66035adacb0",
+        "groups": [
+          "cash_money_three"
+        ]
       }
     ],
     "assets/graffiti/hassaan-mackey-apollo-brown-something-alpha.webp": [
@@ -4169,6 +4241,33 @@
         "after_sha256": "663bef18db9d13130d4d3b36bd6a1c2e7fc3e112ddebc6116c9267f88337355c",
         "groups": [
           "large_professor_art_cleanup"
+        ]
+      }
+    ],
+    "assets/graffiti/cash-money-marvelous-ugly-people-be-quiet-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "a94db705740ea28ed4dd67ffc393a649b233981d554b4829beed1bf1f6ae375f",
+        "groups": [
+          "cash_money_three"
+        ]
+      }
+    ],
+    "assets/graffiti/cash-money-marvelous-ugly-people-be-quiet-dj-cash-money-remix-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "824d3e1dea69896f157e065ce64f1b79654a7c5ecf80f4150c72d956f959522f",
+        "groups": [
+          "cash_money_three"
+        ]
+      }
+    ],
+    "assets/graffiti/cash-money-marvelous-the-mighty-hard-rocker-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "6e20242e10adfb3d331cacfd91e038510a4695c3c17cacce7fb81ddc33515ece",
+        "groups": [
+          "cash_money_three"
         ]
       }
     ]

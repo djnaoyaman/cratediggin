@@ -9966,6 +9966,61 @@
       "transparent": true,
       "textReviewed": true,
       "paletteReviewed": true
+    },
+    {
+      "palette": [
+        "#6E950A",
+        "#F5C828",
+        "#32275C",
+        "#D62B7C",
+        "#171611"
+      ],
+      "paletteSource": "Play It Kool / Ugly People Be Quiet / Sleeping Bag SLX-31 / sleeve SLX 31",
+      "paletteSourceUrl": "https://www.vinylexchange.co.uk/cdn/shop/files/image_2049483_grande.jpg?v=1735920244",
+      "paletteNote": "実際に目視確認した当該版ジャケットの配色を参照した編集上の近似値。ジャケット写真・ロゴは転載せず、独自の文字構成にしています。",
+      "id": "cash-money-marvelous-ugly-people-be-quiet",
+      "status": "ready",
+      "image": "assets/graffiti/cash-money-marvelous-ugly-people-be-quiet-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    },
+    {
+      "palette": [
+        "#1B1B1A",
+        "#E5E51A",
+        "#C92C80",
+        "#F34E46",
+        "#3B3262"
+      ],
+      "paletteSource": "Where's The Party At? / Sleeping Bag TLX-42016 / X label TLX-42016X",
+      "paletteSourceUrl": "https://baseec-img-mng.akamaized.net/images/item/origin/676a31d2b9d54a9492fae487f7299e2b.jpg?im=Resize%2Cwidth%3D1280%2Ctype%3Dnormal&imformat=generic&q=90",
+      "paletteNote": "実際に目視確認した当該版ジャケットの配色を参照した編集上の近似値。ジャケット写真・ロゴは転載せず、独自の文字構成にしています。",
+      "id": "cash-money-marvelous-ugly-people-be-quiet-dj-cash-money-remix",
+      "status": "ready",
+      "image": "assets/graffiti/cash-money-marvelous-ugly-people-be-quiet-dj-cash-money-remix-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    },
+    {
+      "palette": [
+        "#1B1B1D",
+        "#F25439",
+        "#5EAA4E",
+        "#F0EA13",
+        "#EFEDDA",
+        "#126BC0"
+      ],
+      "paletteSource": "Find An Ugly Woman / The Mighty Hard Rocker / Sleeping Bag SLX40143",
+      "paletteSourceUrl": "https://soulclaprecord.com/html/upload/save_image/1013154556_6acdd3a43196f.jpeg",
+      "paletteNote": "実際に目視確認した当該版ジャケットの配色を参照した編集上の近似値。ジャケット写真・ロゴは転載せず、独自の文字構成にしています。",
+      "id": "cash-money-marvelous-the-mighty-hard-rocker",
+      "status": "ready",
+      "image": "assets/graffiti/cash-money-marvelous-the-mighty-hard-rocker-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

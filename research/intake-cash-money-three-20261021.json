@@ -1,0 +1,78 @@
+{
+  "userMessageId": "Sentinel_132b57cc824481919531c3cc12cfe816",
+  "requestedArtist": "Cash Money & Marvelous",
+  "requestedTitles": [
+    "Ugly People Be Quiet",
+    "Ugly People Be Quiet (DJ Cash Money Remix)",
+    "The Mighty Hard Rocker"
+  ],
+  "scope": "First three exact requested recordings; six other submitted rows remain queued or held, not discarded.",
+  "records": [
+    {
+      "id": "cash-money-marvelous-ugly-people-be-quiet",
+      "selectedVideo": {
+        "id": "lGOKJkOtnLI",
+        "url": "https://www.youtube.com/watch?v=lGOKJkOtnLI",
+        "title": "Cash Money & Marvelous - Ugly People Be Quiet",
+        "channel": "Sleeping Bag / Fresh Records",
+        "type": "公式音源（レーベル／正規配信の掲載情報）",
+        "official": true,
+        "verified": "2026-10-21",
+        "embedUrl": "https://www.youtube.com/embed/lGOKJkOtnLI",
+        "playbackVerified": false,
+        "embeddedPlaybackVerified": false,
+        "version": "1987 original / Club Version; not 1988 DJ Cash Money Remix",
+        "versionBasis": "1987年のSleeping Bag SLX-31と同年のBillboard/Cash Box掲載を基準とする。1988年のアルバム収録、2015年の動画公開とは区別。 掲載投稿の曲名・説明を照合した選定であり、盤との波形・マスタリング比較と実聴は行っていません。",
+        "notice": "投稿の曲名・チャンネル・説明情報を照合しています。日本での配信可否、埋め込み許可、再生時間、実再生は未確認です。",
+        "verification": "投稿の曲名・チャンネル・説明情報を照合しています。日本での配信可否、埋め込み許可、再生時間、実再生は未確認です。"
+      },
+      "yearBasis": "1987年のSleeping Bag SLX-31と同年のBillboard/Cash Box掲載を基準とする。1988年のアルバム収録、2015年の動画公開とは区別。"
+    },
+    {
+      "id": "cash-money-marvelous-ugly-people-be-quiet-dj-cash-money-remix",
+      "selectedVideo": {
+        "id": "PEeMLfn8e_8",
+        "url": "https://www.youtube.com/watch?v=PEeMLfn8e_8",
+        "title": "Ugly People Be Quiet (Dj Cash Money Remix)",
+        "channel": "Cash Money & Marvelous - Topic",
+        "type": "公式音源（レーベル／正規配信の掲載情報）",
+        "official": true,
+        "verified": "2026-10-21",
+        "embedUrl": "https://www.youtube.com/embed/PEeMLfn8e_8",
+        "playbackVerified": false,
+        "embeddedPlaybackVerified": false,
+        "version": "Where's The Party At? X7, printed Ugly People Be Quiet (Remix), 3:41; exact DJ Cash Money qualifier confirmed separately by distributor upload",
+        "versionBasis": "1988年のSleeping Bag LP TLX-42016収録版。1989年1月の同時代記事にもRemixを確認。2016年の再配信日・動画公開年と区別。 掲載投稿の曲名・説明を照合した選定であり、盤との波形・マスタリング比較と実聴は行っていません。",
+        "notice": "投稿の曲名・チャンネル・説明情報を照合しています。日本での配信可否、埋め込み許可、再生時間、実再生は未確認です。",
+        "verification": "投稿の曲名・チャンネル・説明情報を照合しています。日本での配信可否、埋め込み許可、再生時間、実再生は未確認です。"
+      },
+      "yearBasis": "1988年のSleeping Bag LP TLX-42016収録版。1989年1月の同時代記事にもRemixを確認。2016年の再配信日・動画公開年と区別。"
+    },
+    {
+      "id": "cash-money-marvelous-the-mighty-hard-rocker",
+      "selectedVideo": {
+        "id": "YhWP1AL1JB4",
+        "url": "https://www.youtube.com/watch?v=YhWP1AL1JB4",
+        "title": "Cash Money & Marvelous - The Mighty Hard Rocker",
+        "channel": "Sleeping Bag / Fresh Records",
+        "type": "公式音源（レーベル／正規配信の掲載情報）",
+        "official": true,
+        "verified": "2026-10-21",
+        "embedUrl": "https://www.youtube.com/embed/YhWP1AL1JB4",
+        "playbackVerified": false,
+        "embeddedPlaybackVerified": false,
+        "version": "1988 vocal/original on US Y side, not instrumental or B&B Remix",
+        "versionBasis": "1988年の米国Sleeping Bag SLX40143と同年12月の同時代レビューを基準とする。英国での1989年展開、2015年の動画公開とは区別。 掲載投稿の曲名・説明を照合した選定であり、盤との波形・マスタリング比較と実聴は行っていません。",
+        "notice": "投稿の曲名・チャンネル・説明情報を照合しています。日本での配信可否、埋め込み許可、再生時間、実再生は未確認です。",
+        "verification": "投稿の曲名・チャンネル・説明情報を照合しています。日本での配信可否、埋め込み許可、再生時間、実再生は未確認です。"
+      },
+      "yearBasis": "1988年の米国Sleeping Bag SLX40143と同年12月の同時代レビューを基準とする。英国での1989年展開、2015年の動画公開とは区別。"
+    }
+  ],
+  "mediaLimit": "One fresh YouTube metadata request returned429; no retry or alternative route. Current JP/embed/duration and actual playback remain unknown.",
+  "artOriginalLibraryIds": [
+    "libfile_faef821542588191924ec07f9f584392",
+    "libfile_7b1dc3a79a188191b79f934ecc371055",
+    "libfile_be0588c087048191949531e38e7d5fc6"
+  ]
+}
