@@ -2376,6 +2376,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "four-mix-browser"
+    },
+    {
+      "id": "named-art-first",
+      "argv": [
+        "python",
+        "scripts/verify_named_art_first.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "named-art-first"
+    },
+    {
+      "id": "named-art-first-browser",
+      "argv": [
+        "node",
+        "scripts/verify_named_art_first_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "named-art-first-browser"
     }
   ],
   "groups": {
@@ -2824,6 +2848,10 @@
     "four_mix": [
       "four-mix",
       "four-mix-browser"
+    ],
+    "named_art_first": [
+      "named-art-first",
+      "named-art-first-browser"
     ]
   },
   "runtime_rules": {
@@ -3677,7 +3705,8 @@
       "scripts/fixtures/approved-two-player-region.json"
     ],
     "scripts/approved_four_mix.py": [
-      "scripts/fixtures/approved-four-mix.json"
+      "scripts/fixtures/approved-four-mix.json",
+      "scripts/approved_named_art_first.py"
     ],
     "scripts/verify_four_mix.py": [
       "scripts/approved_four_mix.py",
@@ -3687,6 +3716,16 @@
     "scripts/verify_four_mix_browser.cjs": [
       "scripts/verify_visible_art_browser.cjs",
       "scripts/fixtures/approved-four-mix.json"
+    ],
+    "scripts/approved_named_art_first.py": [
+      "scripts/fixtures/approved-named-art-first.json"
+    ],
+    "scripts/verify_named_art_first.py": [
+      "scripts/approved_named_art_first.py"
+    ],
+    "scripts/verify_named_art_first_browser.cjs": [
+      "scripts/fixtures/approved-named-art-first.json",
+      "scripts/verify_visible_art_browser.cjs"
     ]
   },
   "policy_paths": [
@@ -3768,7 +3807,9 @@
     "scripts/approved_two_player_region.py",
     "scripts/fixtures/approved-two-player-region.json",
     "scripts/approved_four_mix.py",
-    "scripts/fixtures/approved-four-mix.json"
+    "scripts/fixtures/approved-four-mix.json",
+    "scripts/approved_named_art_first.py",
+    "scripts/fixtures/approved-named-art-first.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -4761,6 +4802,24 @@
         "after_sha256": "56816ff527b74eb420cab774122ec58b1b819ac51d97d38f70e9e249c169a4b8",
         "groups": [
           "four_mix"
+        ]
+      }
+    ],
+    "assets/graffiti/diamond-the-psychotic-neurotics-i-went-for-mine-alpha.webp": [
+      {
+        "before_sha256": "0966676545e9732f7f01303bbdf0a9abe38b047a1f11a4e881b67299a0fffa7d",
+        "after_sha256": "ceeb3ff3ed9e0feab200a4e9285acda984858e157dcc36e4aec58fb7c446cfaa",
+        "groups": [
+          "named_art_first"
+        ]
+      }
+    ],
+    "assets/graffiti/artifacts-whassup-now-muthafucka-alpha.webp": [
+      {
+        "before_sha256": "51009c674409987d0c05d007b3185b5860bc3efd217bb1a2c3e704051bfdbf64",
+        "after_sha256": "b6da85736f9010729254d7ce63e439736ce76dc1505e59aa5272f2f29410bc78",
+        "groups": [
+          "named_art_first"
         ]
       }
     ]
