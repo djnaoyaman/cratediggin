@@ -4,6 +4,8 @@ import json,hashlib
 R=Path(__file__).resolve().parents[1]
 F=json.loads((R/'scripts/fixtures/approved-masta-ace-art-cleanup.json').read_text())
 def historical_masta_ace_art_cleanup_file(path,data):
+ from approved_large_professor_art_cleanup import historical_large_professor_art_cleanup_file
+ data=historical_large_professor_art_cleanup_file(path,data)
  if path!='releases.json':return data
  assert hashlib.sha256(data).hexdigest()==F['afterReleaseSHA256'],'Unapproved artwork-release drift'
  obj=json.loads(data);obj['version']=F['beforeVersion'];before=(json.dumps(obj,ensure_ascii=False,indent=2)+'\n').encode()
