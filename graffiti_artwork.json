@@ -9932,6 +9932,23 @@
       "transparent": true,
       "textReviewed": true,
       "paletteReviewed": true
+    },
+    {
+      "palette": [
+        "#0b0d0b",
+        "#252623",
+        "#d6b822",
+        "#eee2ab"
+      ],
+      "paletteSource": "Daily Bread",
+      "paletteSourceUrl": "https://f4.bcbits.com/img/a4028902129_5.jpg",
+      "paletteNote": "ジャケットの黒い地と黄色い筆記体を参照した編集上の配色。厳密な色抽出値ではない。",
+      "id": "hassaan-mackey-apollo-brown-something",
+      "status": "ready",
+      "image": "assets/graffiti/hassaan-mackey-apollo-brown-something-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

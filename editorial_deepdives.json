@@ -3844,5 +3844,30 @@
         "sourceLabel": "Enter the Wu-Tang original US CD booklet"
       }
     ]
+  },
+  {
+    "artist": "Hassaan Mackey & Apollo Brown",
+    "title": "Something",
+    "sections": [
+      {
+        "heading": "DIG DEEPER 01｜新しい機材より、切り口の精度",
+        "text": "2010年の取材でApolloは、ソフトウェアを使う理由を、音の切り方とアタックを細かく扱えること、画面で構造を見られることに結びつけている。機材の値段ではなく出来上がった音を重視するという姿勢だ。これを「Something」固有の機材リストと取り違えず、彼の制作観を知る入口にしたい。サンプルの原曲名や使用機種を無理に埋めなくても、どこに注意を向けていた作り手なのかは分かる。",
+        "sources": [
+          2
+        ],
+        "source": "https://www.michiganhiphop.com/2010/08/31/apollo-brown-interview/",
+        "sourceLabel": "Apollo Brown Interview / MichiganHipHop /2010-08-31"
+      },
+      {
+        "heading": "DIG DEEPER 02｜『Daily Bread』より前の接点を探す",
+        "text": "二人の名前が並ぶ場所は、このアルバムだけではない。Mello Music Groupの公式『The Reset』ページには、2010年作の「Odds Ain't Fair」にHassaan Mackeyが参加したことが記されている。そこから『Daily Bread』へ進めば、客演という形で記録された接点が、アルバム一枚を担う共作へ広がったことを確認できる。ただし、このクレジットだけで初対面の時期や知り合った経緯まで断定することはできない。",
+        "sources": [
+          6,
+          0
+        ],
+        "source": "https://www.mellomusicgroup.com/pages/apollo-brown-the-reset",
+        "sourceLabel": "Apollo Brown - The Reset / Mello Music Group"
+      }
+    ]
   }
 ]

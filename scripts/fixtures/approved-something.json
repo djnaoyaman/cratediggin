@@ -1,0 +1,259 @@
+{
+  "base": "5ccda49d33ade8aa02c7bd7807d87c761692f060",
+  "id": "hassaan-mackey-apollo-brown-something",
+  "record": {
+    "id": "hassaan-mackey-apollo-brown-something",
+    "title": "Something",
+    "artist": "Hassaan Mackey & Apollo Brown",
+    "artists": [
+      "Hassaan Mackey",
+      "Apollo Brown"
+    ],
+    "year": 2011,
+    "yearBasis": "公式Daily Breadページの発売日は2011年7月26日。受領したDJミックスの2012年および2分02秒は原曲の発売年・長さとは区別。",
+    "album": "Daily Bread",
+    "producer": "Apollo Brown",
+    "producers": [
+      "Apollo Brown"
+    ],
+    "members": "Hassaan Mackey（作詞・ヴォーカル） / Apollo Brown（制作・アレンジ）",
+    "region": "Rochester / Detroit",
+    "scene": "Mello Music Group",
+    "label": "Mello Music Group",
+    "category": "Hip Hop",
+    "essayTitle": "デトロイトから、東海岸の耳で。",
+    "deck": "ロチェスターのHassaan Mackeyと、東海岸のブーンバップを志向するApollo Brown。『Daily Bread』の「Something」を、都市名だけでは括れない二人の接点から聴く。",
+    "essay": [
+      "デトロイトのプロデューサーだから、デトロイトの音がする。そう考えると、Apollo Brownの輪郭を少し見誤る。2010年のMichiganHipHopの取材で、彼は自分の音を、土地特有のスウィングではなく東海岸寄りのブーンバップだと説明している。ニューヨーク州ロチェスターのMC、Hassaan Mackeyと組んだ『Daily Bread』も、二つの都市の名前より、二人の耳が向いた方角から捉えたい。",
+      "「Something」は2011年7月26日発表の『Daily Bread』三曲目。公式音源は三分九秒で、制作とアレンジをApollo、ヴォーカルをHassaanが担う。二曲目の「Volume」と四曲目の「Dollar Bill Hill」の間に置かれている。ミックスから出会った曲をアルバムへ戻してみると、この順番も、新たな聴きどころになる。",
+      "Apolloは2012年のGRINDINの取材で、相手にビートを渡して任せるのではなく、同じスタジオで構想を練り、アルバムの完成まで関わる姿勢を語っている。これは「Something」個別のセッション解説ではないが、単なるビート提供者と、作品全体を組み立てるプロデューサーを、彼がどう区別していたかを示している。",
+      "Hassaanの側から制作の距離が伝わるのは、2011年のMusic Is My Sanctuaryに掲載された「Volume」の回想だ。早朝に列車で到着し、Apolloの家で聴いた最初のビートから書き始め、その夜にスタジオで録音したという。あくまで隣の曲の話であり、「Something」も同じ日に生まれたとは言えない。それでも、共作を単なる音源ファイルの往復と考えないための、具体的な場面がここにはある。",
+      "同じGRINDINの取材でApolloが制作の軸に挙げるのは、簡潔さと一貫性だった。目新しい様式を発明するより、自分が育った音楽を受け継ぎ、自分の手つきを加える。『Daily Bread』を過去の再現と片づける前に、この意思を置いて聴きたい。二人の都市は違う。だが、馴染みのある形式を使って一枚を作ることは、その距離を隔たりのままにしない。"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        3
+      ],
+      [
+        4
+      ],
+      [
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "原曲と受領ミックス",
+        "text": "Daily Breadの第3曲。公式掲載は2011年7月26日、3分09秒。DJミックス内の抜粋時間とは別の情報です。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "制作の担当",
+        "text": "全曲の制作・アレンジはApollo Brown、作詞・ヴォーカルはHassaan Mackey。録音はTate McBroom、ミックスはMagnetic、マスタリングはEric Morgeson。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "この曲に使われたサンプル元の曲名・録音版は未確認です。制作方法のインタビューから個別素材を推定していません。",
+    "sources": [
+      {
+        "label": "Daily Bread / official album and credits",
+        "url": "https://apollobrown360.bandcamp.com/album/daily-bread",
+        "kind": "artist/label primary",
+        "scope": "Release date, album track3, exact3:09 duration in HTML metadata, production/arrangement/vocal credits, cover"
+      },
+      {
+        "label": "Something / official track",
+        "url": "https://apollobrown360.bandcamp.com/track/something",
+        "kind": "artist/label primary",
+        "scope": "Exact original album track identity"
+      },
+      {
+        "label": "Apollo Brown Interview / MichiganHipHop /2010-08-31",
+        "url": "https://www.michiganhiphop.com/2010/08/31/apollo-brown-interview/",
+        "kind": "first-person interview",
+        "scope": "Daily Bread already underway in2010; East Coast rather than Detroit-swing self-description; software/precise chopping; outcome over expensive equipment. December mention is announced plan, NOT release date."
+      },
+      {
+        "label": "Apollo Brown Interview / GRINDIN /2012-11-15",
+        "url": "https://grindin.net/news/apollo-brown-interview/",
+        "kind": "first-person interview",
+        "scope": "Album-oriented production, in-person conceptualisation, simplicity and consistency, preserving familiar music,2010 MMG signing. Later interview: do not attribute every detail as specific Something session fact."
+      },
+      {
+        "label": "Future Classic: Apollo Brown & Hassan Mackey Daily Bread /2011-07-20",
+        "url": "https://musicismysanctuary.com/apollo-brown-hassan-mackey",
+        "kind": "contemporary feature carrying direct Hassaan statement",
+        "scope": "Hassaan describes writing Volume after early train arrival and recording that night. This is Volume, not Something. No stand-alone full Hassaan Q&A located."
+      },
+      {
+        "label": "Hassaan Mackey & Apollo Brown - Something / Mello Music Group",
+        "url": "https://soundcloud.com/mellomusicgroup/hassaan-mackey-apollo-brown",
+        "kind": "official label audio",
+        "scope": "Official exact-track audio and valid oEmbed"
+      },
+      {
+        "label": "Apollo Brown - The Reset / Mello Music Group",
+        "url": "https://www.mellomusicgroup.com/pages/apollo-brown-the-reset",
+        "kind": "label primary",
+        "scope": "2010 The Reset includes Odds Ain't Fair featuring Hassaan Mackey; prior credited connection"
+      },
+      {
+        "label": "Nathan Weckesser — Hassaan Mackey & Apollo Brown - Something",
+        "url": "https://www.youtube.com/watch?v=ugRgKqQ3x4M",
+        "kind": "一般ユーザー投稿（非公式）",
+        "scope": "oEmbedで曲名・投稿者を照合。投稿説明はDaily Bread第3曲の購入音源としている。実音声・日本国内の再生・動画全長は未確認。"
+      }
+    ],
+    "connections": [],
+    "listening": [
+      "Volume、Something、Dollar Bill Hillの順に、公式アルバムの曲順へ戻って聴いてみる。",
+      "Apollo Brownの機材観を、音源の使用機種やサンプル名を断定する根拠とは分けて読む。"
+    ],
+    "moods": [
+      "グルーヴ"
+    ],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "audioVerificationStatus": "user_upload_identity_checked_playback_unverified",
+    "editorialStatus": "公式音源を探索し、公式BandcampとレーベルSoundCloudを出典に掲載。プレイヤーは一般ユーザー投稿（非公式）です。曲名・投稿者を照合していますが、日本国内からの実再生と埋め込み再生は未確認です。",
+    "noteReviewedAt": "2026-10-21",
+    "youtube": {
+      "id": "ugRgKqQ3x4M",
+      "url": "https://www.youtube.com/watch?v=ugRgKqQ3x4M",
+      "title": "Hassaan Mackey & Apollo Brown - Something",
+      "channel": "Nathan Weckesser",
+      "type": "一般ユーザー投稿（非公式）",
+      "official": false,
+      "verified": "2026-10-21",
+      "embedUrl": "https://www.youtube.com/embed/ugRgKqQ3x4M",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "version": "Daily Bread album track (uploader metadata; audio comparison not performed)",
+      "versionBasis": "2011年Daily Breadの第3曲。公式Bandcampは3分09秒。採用YouTubeは同曲名・アルバム情報を持つ一般ユーザー投稿で、原盤との音声・マスタリング比較、動画全長、日本国内の再生は未確認。",
+      "verification": "YouTube oEmbedで曲名・投稿者を照合。動画全長・配信対象国・埋め込み許可は未確認。実再生検証ではありません。"
+    },
+    "aliases": [],
+    "versionBasis": "2011年Daily Breadの第3曲。公式Bandcampは3分09秒。採用YouTubeは同曲名・アルバム情報を持つ一般ユーザー投稿で、原盤との音声・マスタリング比較、動画全長、日本国内の再生は未確認。",
+    "context": "2011年のDaily Breadから、ロチェスターのMCとデトロイト拠点のプロデューサーによる共作を読む。2010年と2012年の取材は制作観の資料であり、この曲の録音当日を証明するものではありません。",
+    "datePublished": "2026-10-21",
+    "addedOrder": 499,
+    "art": {
+      "word": "SOMETHING",
+      "lines": [
+        "SOMETHING"
+      ],
+      "tag": "HASSAAN MACKEY & APOLLO BROWN",
+      "style": "piece",
+      "seed": 20110726,
+      "palette": [
+        "#0b0d0b",
+        "#252623",
+        "#d6b822",
+        "#eee2ab"
+      ],
+      "paletteSource": "Daily Bread",
+      "paletteSourceUrl": "https://f4.bcbits.com/img/a4028902129_5.jpg",
+      "paletteNote": "ジャケットの黒い地と黄色い筆記体を参照した編集上の配色。厳密な色抽出値ではない。"
+    }
+  },
+  "deepdive": {
+    "artist": "Hassaan Mackey & Apollo Brown",
+    "title": "Something",
+    "sections": [
+      {
+        "heading": "DIG DEEPER 01｜新しい機材より、切り口の精度",
+        "text": "2010年の取材でApolloは、ソフトウェアを使う理由を、音の切り方とアタックを細かく扱えること、画面で構造を見られることに結びつけている。機材の値段ではなく出来上がった音を重視するという姿勢だ。これを「Something」固有の機材リストと取り違えず、彼の制作観を知る入口にしたい。サンプルの原曲名や使用機種を無理に埋めなくても、どこに注意を向けていた作り手なのかは分かる。",
+        "sources": [
+          2
+        ],
+        "source": "https://www.michiganhiphop.com/2010/08/31/apollo-brown-interview/",
+        "sourceLabel": "Apollo Brown Interview / MichiganHipHop /2010-08-31"
+      },
+      {
+        "heading": "DIG DEEPER 02｜『Daily Bread』より前の接点を探す",
+        "text": "二人の名前が並ぶ場所は、このアルバムだけではない。Mello Music Groupの公式『The Reset』ページには、2010年作の「Odds Ain't Fair」にHassaan Mackeyが参加したことが記されている。そこから『Daily Bread』へ進めば、客演という形で記録された接点が、アルバム一枚を担う共作へ広がったことを確認できる。ただし、このクレジットだけで初対面の時期や知り合った経緯まで断定することはできない。",
+        "sources": [
+          6,
+          0
+        ],
+        "source": "https://www.mellomusicgroup.com/pages/apollo-brown-the-reset",
+        "sourceLabel": "Apollo Brown - The Reset / Mello Music Group"
+      }
+    ]
+  },
+  "artEntry": {
+    "palette": [
+      "#0b0d0b",
+      "#252623",
+      "#d6b822",
+      "#eee2ab"
+    ],
+    "paletteSource": "Daily Bread",
+    "paletteSourceUrl": "https://f4.bcbits.com/img/a4028902129_5.jpg",
+    "paletteNote": "ジャケットの黒い地と黄色い筆記体を参照した編集上の配色。厳密な色抽出値ではない。",
+    "id": "hassaan-mackey-apollo-brown-something",
+    "status": "ready",
+    "image": "assets/graffiti/hassaan-mackey-apollo-brown-something-alpha.webp",
+    "transparent": true,
+    "textReviewed": true,
+    "paletteReviewed": true
+  },
+  "files": {
+    "tracks.json": {
+      "beforeSHA256": "ab67baf3c4bb7f860ec25d58eaf0ad3583011bc04f9ca403e73991ff886c0664",
+      "afterSHA256": "16a99301b8ec3b11f20d709a5bce9a1a36a6c631ff271f11c5031e3a82953c0d",
+      "arrayKey": null,
+      "beforeCount": 505
+    },
+    "editorial_deepdives.json": {
+      "beforeSHA256": "2995d5d9ec6106ec0819f4c5d3dd1e48fde41813d8c17e79bb32e46de2ddc6ba",
+      "afterSHA256": "dacdee23a913d832924fcbdf81c19b512b1844f42d1505bc12c4192470c6d036",
+      "arrayKey": null,
+      "beforeCount": 165
+    },
+    "graffiti_artwork.json": {
+      "beforeSHA256": "957bd0b6176825c76ef4adf9243845a20ff97a833f1511ff6854d56b2edee94d",
+      "afterSHA256": "89ed2eb6703589f7fa00d992fb84e943f5ffc6bf050c51599ef497065b257a90",
+      "arrayKey": "tracks",
+      "beforeCount": 505
+    },
+    "releases.json": {
+      "beforeSHA256": "1a2401a72c255778a0f8ae16d998e97f7def4a00a14637a1883acbb1bb35036b",
+      "afterSHA256": "07f0511782e18ac1a45d2f0a5b7fa3ed50c089e3fc426f4ee0b970e3879ce097",
+      "beforeVersion": "22.22"
+    }
+  },
+  "protected": {
+    "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+    "artist_entities.json": "542290cca4fa06d6b8122b8e00a96911a18d4b4b2ece19fdd7c7ab17b7c653cf",
+    "guides.json": "4577ae94470e8dec95a99868919c560cbdba95be988ddf7497216b9abb44f6d8",
+    "listening_shelves.json": "26f634c98c577a68ab0b2e2a09472f759b9e20bb776931425ad6bed1d9880aa8"
+  },
+  "asset": {
+    "sha256": "7f3992b7f4f7d6dbc9779c668a4ef4f97b922e0f4a698317bea1394699cc7b60",
+    "dimensions": [
+      1774,
+      887
+    ],
+    "rgbaSHA256": "8080e23b26789fa10e51b709c83549eedbe2833a95fe1eda3dfd5581e495012d"
+  }
+}

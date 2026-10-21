@@ -1968,6 +1968,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "road-editorial-browser"
+    },
+    {
+      "id": "something",
+      "argv": [
+        "python",
+        "scripts/verify_something.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "something"
+    },
+    {
+      "id": "something-browser",
+      "argv": [
+        "node",
+        "scripts/verify_something_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "something-browser"
     }
   ],
   "groups": {
@@ -2345,6 +2369,11 @@
     "road_editorial": [
       "road-editorial",
       "road-editorial-browser"
+    ],
+    "something": [
+      "something",
+      "something-browser",
+      "road-editorial"
     ]
   },
   "runtime_rules": {
@@ -2990,15 +3019,28 @@
       "scripts/fixtures/approved-organ-editorial.json"
     ],
     "scripts/approved_road_editorial.py": [
-      "scripts/fixtures/approved-road-editorial.json"
+      "scripts/fixtures/approved-road-editorial.json",
+      "scripts/approved_something.py"
     ],
     "scripts/verify_road_editorial.py": [
       "scripts/approved_road_editorial.py",
       "scripts/editorial_uniqueness.py",
-      "scripts/fixtures/editorial-legacy-debt.json"
+      "scripts/fixtures/editorial-legacy-debt.json",
+      "scripts/approved_something.py"
     ],
     "scripts/verify_road_editorial_browser.cjs": [
       "scripts/fixtures/approved-road-editorial.json"
+    ],
+    "scripts/approved_something.py": [
+      "scripts/fixtures/approved-something.json"
+    ],
+    "scripts/verify_something.py": [
+      "scripts/approved_something.py",
+      "scripts/editorial_uniqueness.py",
+      "scripts/fixtures/editorial-legacy-debt.json"
+    ],
+    "scripts/verify_something_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs"
     ]
   },
   "policy_paths": [
@@ -3045,7 +3087,9 @@
     "scripts/approved_organ_editorial.py",
     "scripts/fixtures/approved-organ-editorial.json",
     "scripts/approved_road_editorial.py",
-    "scripts/fixtures/approved-road-editorial.json"
+    "scripts/fixtures/approved-road-editorial.json",
+    "scripts/approved_something.py",
+    "scripts/fixtures/approved-something.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -3084,7 +3128,8 @@
     "ARTWORK_NOTES.md",
     "DEPLOYMENT_RULES.md",
     "FEATURE_COMPLETENESS.md",
-    ".gitignore"
+    ".gitignore",
+    "research/intake-something-20261021.json"
   ],
   "syntax_existing": [
     "dist/app.js",
@@ -3350,6 +3395,13 @@
         "groups": [
           "road_editorial"
         ]
+      },
+      {
+        "before_sha256": "ab67baf3c4bb7f860ec25d58eaf0ad3583011bc04f9ca403e73991ff886c0664",
+        "after_sha256": "16a99301b8ec3b11f20d709a5bce9a1a36a6c631ff271f11c5031e3a82953c0d",
+        "groups": [
+          "something"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -3380,6 +3432,13 @@
         "groups": [
           "chessboxin"
         ]
+      },
+      {
+        "before_sha256": "2995d5d9ec6106ec0819f4c5d3dd1e48fde41813d8c17e79bb32e46de2ddc6ba",
+        "after_sha256": "dacdee23a913d832924fcbdf81c19b512b1844f42d1505bc12c4192470c6d036",
+        "groups": [
+          "something"
+        ]
       }
     ],
     "graffiti_artwork.json": [
@@ -3409,6 +3468,13 @@
         "after_sha256": "957bd0b6176825c76ef4adf9243845a20ff97a833f1511ff6854d56b2edee94d",
         "groups": [
           "chessboxin"
+        ]
+      },
+      {
+        "before_sha256": "957bd0b6176825c76ef4adf9243845a20ff97a833f1511ff6854d56b2edee94d",
+        "after_sha256": "89ed2eb6703589f7fa00d992fb84e943f5ffc6bf050c51599ef497065b257a90",
+        "groups": [
+          "something"
         ]
       }
     ],
@@ -3488,6 +3554,15 @@
         "after_sha256": "d589afc915cda0324e1240461f55b220ee41dcedb4c53057534da1aeae35339a",
         "groups": [
           "editor_polite"
+        ]
+      }
+    ],
+    "assets/graffiti/hassaan-mackey-apollo-brown-something-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "7f3992b7f4f7d6dbc9779c668a4ef4f97b922e0f4a698317bea1394699cc7b60",
+        "groups": [
+          "something"
         ]
       }
     ]
