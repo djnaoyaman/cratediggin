@@ -4,6 +4,8 @@ import json,hashlib
 R=Path(__file__).resolve().parents[1]
 F=json.loads((R/'scripts/fixtures/approved-desktop-art-space.json').read_text())
 def historical_desktop_art_space_file(path,data):
+ from approved_catalog_scope_repair import historical_catalog_scope_repair_file
+ data=historical_catalog_scope_repair_file(path,data)
  if path=='src/assets/style.css':
   assert hashlib.sha256(data).hexdigest()==F['afterStyleSHA256'],'Unapproved ART layout CSS drift'
   patch=F['patch'].encode();assert data.endswith(patch)
