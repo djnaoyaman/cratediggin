@@ -5,7 +5,7 @@ from PIL import Image
 from approved_something import F,historical_something_file
 R=Path(__file__).resolve().parents[1];sha=lambda b:hashlib.sha256(b).hexdigest()
 args=argparse.ArgumentParser();args.add_argument('--source-only',action='store_true');args=args.parse_args()
-assert set(F['files'])=={'tracks.json','editorial_deepdives.json','graffiti_artwork.json','releases.json'}
+assert set(F['files'])=={'tracks.json','editorial_deepdives.json','graffiti_artwork.json','releases.json','artist_entities.json'}
 for name,c in F['files'].items():
  raw=(R/name).read_bytes();assert sha(historical_something_file(name,raw))==c['beforeSHA256']
  # Exact full-bundle binding rejects partial publication and any old/new record drift.
@@ -18,6 +18,8 @@ tracks=json.loads((R/'tracks.json').read_text());old=json.loads(historical_somet
 assert len(tracks)==506 and len(old)==505 and tracks[:-1]==old and tracks[-1]==F['record']
 assert len({t['id'] for t in tracks})==506
 assert sum(t.get('workType','single')=='single' for t in tracks)==501
+entities=json.loads((R/'artist_entities.json').read_text());assert {t['artist'] for t in tracks} <= entities.keys()
+assert entities['Hassaan Mackey & Apollo Brown']=={'type':None}
 track=tracks[-1];assert track['id']=='hassaan-mackey-apollo-brown-something' and track['artist']=='Hassaan Mackey & Apollo Brown' and track['producers']==['Apollo Brown']
 assert track['artists']==['Hassaan Mackey','Apollo Brown'] and track['year']==2011
 assert track['youtube']['id']=='ugRgKqQ3x4M' and track['youtube']['official'] is False

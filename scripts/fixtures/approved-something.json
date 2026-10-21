@@ -240,11 +240,18 @@
       "beforeSHA256": "1a2401a72c255778a0f8ae16d998e97f7def4a00a14637a1883acbb1bb35036b",
       "afterSHA256": "07f0511782e18ac1a45d2f0a5b7fa3ed50c089e3fc426f4ee0b970e3879ce097",
       "beforeVersion": "22.22"
+    },
+    "artist_entities.json": {
+      "beforeSHA256": "542290cca4fa06d6b8122b8e00a96911a18d4b4b2ece19fdd7c7ab17b7c653cf",
+      "afterSHA256": "9e952d640f20e0c203e6bbcba1746da53eb014bfc05f957b86dea2c77fb0c02f",
+      "addedEntity": "Hassaan Mackey & Apollo Brown",
+      "entityValue": {
+        "type": null
+      }
     }
   },
   "protected": {
     "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
-    "artist_entities.json": "542290cca4fa06d6b8122b8e00a96911a18d4b4b2ece19fdd7c7ab17b7c653cf",
     "guides.json": "4577ae94470e8dec95a99868919c560cbdba95be988ddf7497216b9abb44f6d8",
     "listening_shelves.json": "26f634c98c577a68ab0b2e2a09472f759b9e20bb776931425ad6bed1d9880aa8"
   },

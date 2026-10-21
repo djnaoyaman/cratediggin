@@ -10,6 +10,8 @@ def historical_something_file(path,data):
  assert sha(data)==c['afterSHA256'],'Unapproved Something drift: '+path
  obj=json.loads(data)
  if path=='releases.json':obj['version']=c['beforeVersion']
+ elif path=='artist_entities.json':
+  assert obj.pop(c['addedEntity'])==c['entityValue']
  elif c['arrayKey'] is None:
   assert len(obj)==c['beforeCount']+1
   obj=obj[:c['beforeCount']]

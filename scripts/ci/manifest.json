@@ -3557,6 +3557,15 @@
         ]
       }
     ],
+    "artist_entities.json": [
+      {
+        "before_sha256": "542290cca4fa06d6b8122b8e00a96911a18d4b4b2ece19fdd7c7ab17b7c653cf",
+        "after_sha256": "9e952d640f20e0c203e6bbcba1746da53eb014bfc05f957b86dea2c77fb0c02f",
+        "groups": [
+          "something"
+        ]
+      }
+    ],
     "assets/graffiti/hassaan-mackey-apollo-brown-something-alpha.webp": [
       {
         "before_sha256": null,
