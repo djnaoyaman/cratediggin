@@ -55147,7 +55147,7 @@
       "DJ Shadow",
       "Cut Chemist"
     ],
-    "year": null,
+    "year": 2000,
     "releaseYear": null,
     "originalReleaseYear": null,
     "album": "FReeZe（DVD映像）",
@@ -55227,7 +55227,7 @@
     "japanPlaybackChecked": false,
     "japanPlaybackVerified": false,
     "noteReviewedAt": "2026-10-18",
-    "yearBasis": "初出年未確認。2006年DVD版と2000年の収録公演は、初出年とは区別しています。",
+    "yearBasis": "2000年は中心となるEl Rey Theatre公演の収録年です。DVDの発売年とは区別しています。",
     "editorialStatus": "JazzDischargeによる参考投稿です。表示時間は1:49:39（メタデータ1:49:40）。撮影担当者の作品紹介に同じ動画が掲載されていますが、DVD全編との一致と実再生は未確認です。",
     "curationNote": "FReeZeのライブ映像。JazzDischargeによる参考投稿。",
     "recordingEdition": "撮影担当者がFReeZeの紹介に掲載するライブ映像",
@@ -55322,17 +55322,19 @@
       "paletteSource": "FReeZe DVDパッケージ（撮影担当者Aaron Sonnenberg掲載）",
       "paletteSourceUrl": "https://aaronsonnenberg.com/blog/freeze-2006-dvd-release-featuring-dj-shadow-and-cut-chemist/",
       "paletteNote": "実物DVDケースの掲載写真を目視した近似配色。深緑、赤、金、クリーム、暗い茶。Brainfreeze CDの配色ではありません。"
-    }
+    },
+    "yearQualifier": "ライブ収録",
+    "yearDisplayNote": "2000年は公演収録年です。掲載動画の全区間・完全性や特定DVD版との一致を示すものではありません。"
   },
   {
     "id": "dj-shadow-cut-chemist-product-placement-live-video",
-    "title": "Product Placement (Live Video)",
+    "title": "Product Placement On Tour",
     "artist": "DJ Shadow & Cut Chemist",
     "artists": [
       "DJ Shadow",
       "Cut Chemist"
     ],
-    "year": null,
+    "year": 2004,
     "releaseYear": null,
     "originalReleaseYear": null,
     "album": "収録版未確認",
@@ -55386,6 +55388,16 @@
         "url": "https://www.phoenixnewtimes.com/music/gone-hollywood-6413403",
         "label": "Phoenix New Times — Z-Tripと2001年Product Placementツアーの同時代記事",
         "kind": "同時代専門媒体"
+      },
+      {
+        "label": "EIL・Product Placement On Tour（2004年DVD/CD版）",
+        "url": "https://eil.com/shop/moreinfo.asp?catalogid=285160",
+        "kind": "販売カタログ（索引情報で年・品番を照合）"
+      },
+      {
+        "label": "Muziekweb・Cut Chemist作品目録",
+        "url": "https://www.muziekweb.nl/Link/M00000038883/POPULAR/Cut-Chemist",
+        "kind": "図書館目録（索引情報で2004年DVD版を照合）"
       }
     ],
     "samples": [],
@@ -55411,7 +55423,7 @@
     "japanPlaybackChecked": false,
     "japanPlaybackVerified": false,
     "noteReviewedAt": "2026-10-18",
-    "yearBasis": "収録版と作品の初出年は未確認です。",
+    "yearBasis": "2004年は『Product Placement On Tour』DVD/CD版の発売年として表示しています。掲載中のEstudio 2830投稿との同一性、作品の最初の公開年は未確認です。",
     "editorialStatus": "Estudio 2830による参考投稿です。表示時間は1:11:55（メタデータ1:11:56）。収録版と実再生は未確認で、約60分のOn Tourミックスとは別に掲載しています。",
     "curationNote": "Product Placementのライブ映像として公開された参考投稿。",
     "recordingEdition": "Product Placementとして投稿されたライブ映像（収録版未確認）",
@@ -55494,7 +55506,12 @@
       "paletteSource": "Product Placement（2001年原作ミックス）のジャケット・関連作品の配色",
       "paletteSourceUrl": "https://pitchfork.com/reviews/albums/2372-product-placement/",
       "paletteNote": "原作ミックスのジャケット配色を参照。掲載映像版のパッケージ同定ではない。実画像を目視した、深い赤茶、赤橙、クリーム、淡い黄、黒の近似配色。"
-    }
+    },
+    "yearQualifier": "映像発売",
+    "yearDisplayNote": "2004年は関連DVD作品の発売年です。掲載動画とDVDの同一性は未確認です。",
+    "aliases": [
+      "Product Placement (Live Video)"
+    ]
   },
   {
     "id": "j-dilla-donuts",

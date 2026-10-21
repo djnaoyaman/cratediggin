@@ -6,7 +6,7 @@ by={x['id']:x for x in json.loads((R/'tracks.json').read_text())}
 expected=json.loads((R/'scripts/fixtures/mix-interview-enrichment.json').read_text())
 dives={(d['artist'],d['title']):d['sections'] for d in json.loads((R/'editorial_deepdives.json').read_text())}
 for e in expected:
- t=by[e['id']];assert t['year']==e['year'] and t['youtube']['id']==e['videoId']
+ t=by[e['id']];assert t['year']==({'dj-shadow-cut-chemist-freeze-live-video':2000,'dj-shadow-cut-chemist-product-placement-live-video':2004}.get(e['id'],e['year'])) and t['youtube']['id']==e['videoId']
  n=len(e['originalEssays']);assert t['essay'][:n]==e['originalEssays'] and t['essaySources'][:n]==e['originalEssaySources']
  assert t['essay'][n]==e['addedEssay'] and t['essaySources'][n]==e['addedEssaySources']
  assert [t['sources'][i]['url'] for i in t['essaySources'][n]]==e['addedSourceUrls']

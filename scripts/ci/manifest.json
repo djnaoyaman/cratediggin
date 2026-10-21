@@ -2112,6 +2112,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "sort-direction-browser"
+    },
+    {
+      "id": "live-video-year-labels",
+      "argv": [
+        "python",
+        "scripts/verify_live_video_year_labels.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "live-video-year-labels"
+    },
+    {
+      "id": "live-video-year-labels-browser",
+      "argv": [
+        "node",
+        "scripts/verify_live_video_year_labels_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "live-video-year-labels-browser"
     }
   ],
   "groups": {
@@ -2516,6 +2540,10 @@
     "sort_direction": [
       "sort-direction",
       "sort-direction-browser"
+    ],
+    "live_video_year_labels": [
+      "live-video-year-labels",
+      "live-video-year-labels-browser"
     ]
   },
   "runtime_rules": {
@@ -3203,7 +3231,8 @@
       "scripts/approved_editor_affinity.py"
     ],
     "scripts/ci/test_person_photo_scope.py": [
-      "scripts/approved_person_photos.py"
+      "scripts/approved_person_photos.py",
+      "scripts/approved_live_video_year_labels.py"
     ],
     "scripts/approved_editor_affinity.py": [
       "scripts/fixtures/approved-editor-affinity.json",
@@ -3241,13 +3270,25 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/approved_sort_direction.py": [
-      "scripts/fixtures/approved-sort-direction.json"
+      "scripts/fixtures/approved-sort-direction.json",
+      "scripts/approved_live_video_year_labels.py"
     ],
     "scripts/verify_sort_direction.cjs": [
       "scripts/fixtures/approved-sort-direction.json"
     ],
     "scripts/verify_sort_direction_browser.cjs": [
       "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/verify_live_video_year_labels.py": [
+      "catalog.py",
+      "scripts/fixtures/live-video-year-labels.json"
+    ],
+    "scripts/verify_live_video_year_labels_browser.cjs": [
+      "scripts/fixtures/live-video-year-labels.json",
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_live_video_year_labels.py": [
+      "scripts/fixtures/approved-live-video-year-labels.json"
     ]
   },
   "policy_paths": [
@@ -3306,7 +3347,10 @@
     "scripts/approved_sampling_timeline.py",
     "scripts/fixtures/approved-sampling-timeline.json",
     "scripts/approved_sort_direction.py",
-    "scripts/fixtures/approved-sort-direction.json"
+    "scripts/fixtures/approved-sort-direction.json",
+    "scripts/approved_live_video_year_labels.py",
+    "scripts/fixtures/live-video-year-labels.json",
+    "scripts/fixtures/approved-live-video-year-labels.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -3449,6 +3493,13 @@
         "groups": [
           "person_photos"
         ]
+      },
+      {
+        "before_sha256": "19e95030152447f0c91815aa044fe4ab919bad5bea8ec74772224e4766a0c662",
+        "after_sha256": "6796ca1e0ebe8ede8c3619fd6af2785410d247728bb627e79dceb8769e942c0a",
+        "groups": [
+          "live_video_year_labels"
+        ]
       }
     ],
     "src/app/router.js": [
@@ -3457,6 +3508,13 @@
         "after_sha256": "c9f7c7ae480f019ea52b13de79f379585f2a784fc1259d068de656ee9cf25fcc",
         "groups": [
           "album_navigation"
+        ]
+      },
+      {
+        "before_sha256": "c9f7c7ae480f019ea52b13de79f379585f2a784fc1259d068de656ee9cf25fcc",
+        "after_sha256": "1cb3fafc99ac53400560ccc768186809eb37855cbc261e9fff86f10309558eb9",
+        "groups": [
+          "live_video_year_labels"
         ]
       }
     ],
@@ -3492,6 +3550,13 @@
         "groups": [
           "album_navigation"
         ]
+      },
+      {
+        "before_sha256": "17550fe0d77afb50e2b961969f00e21892d4865f32fffa29fd251007dd13de38",
+        "after_sha256": "a96fc013d3e5e4ca3dfe359a8cc78c051fa559a9215d210ee3f84a073891b41a",
+        "groups": [
+          "live_video_year_labels"
+        ]
       }
     ],
     "src/app/inline-player.js": [
@@ -3526,6 +3591,13 @@
         "groups": [
           "person_photos"
         ]
+      },
+      {
+        "before_sha256": "1269e5b9306b22e9431f4881d618d7b51d1af543687461131b31333695571ad0",
+        "after_sha256": "207997f4e3017ab7a8a7ac77bd0942ebaebdd6679e27f22bf0624441156e41c9",
+        "groups": [
+          "live_video_year_labels"
+        ]
       }
     ],
     "discovery.py": [
@@ -3555,6 +3627,13 @@
         "after_sha256": "7dabd53d9633106e3832e92b610811399475a2674616f4eae4ffa7a10819375f",
         "groups": [
           "person_photos"
+        ]
+      },
+      {
+        "before_sha256": "7dabd53d9633106e3832e92b610811399475a2674616f4eae4ffa7a10819375f",
+        "after_sha256": "a435ce710c4c465307e7ff18986af65d4a5a0a2fd2a4bebe2d9e657ad5b38b98",
+        "groups": [
+          "live_video_year_labels"
         ]
       }
     ],
@@ -3597,6 +3676,13 @@
         "groups": [
           "editor_polite"
         ]
+      },
+      {
+        "before_sha256": "fc7286893f4217e7fff49e1bb28345dd6378d2504b7dd6ecd9cfd3d8d4ced802",
+        "after_sha256": "235b46593c1387db6253201c29e70fbe650d08260d670cd66b6ee9a8d3d833b4",
+        "groups": [
+          "live_video_year_labels"
+        ]
       }
     ],
     "src/assets/style.css": [
@@ -3605,6 +3691,13 @@
         "after_sha256": "cccfbe07ed0efc2e11c64ebb5553e478a8d066538b39d4d0b00f89a60bda9cc6",
         "groups": [
           "person_photos"
+        ]
+      },
+      {
+        "before_sha256": "cccfbe07ed0efc2e11c64ebb5553e478a8d066538b39d4d0b00f89a60bda9cc6",
+        "after_sha256": "b6a2627965e44b62640495ec57d74a819eef054282d86d7bc448341ce26a21c5",
+        "groups": [
+          "live_video_year_labels"
         ]
       }
     ],
@@ -3615,6 +3708,13 @@
         "groups": [
           "sampling_timeline"
         ]
+      },
+      {
+        "before_sha256": "efc7a6e7076b541507367c98d2b2eb4711d407bac9f760414a8ecbc35a3511b6",
+        "after_sha256": "2018250a119471b18f02ee8304084514de439e80587e592dada733e40a40e661",
+        "groups": [
+          "live_video_year_labels"
+        ]
       }
     ],
     "src/assets/filters.js": [
@@ -3623,6 +3723,24 @@
         "after_sha256": "48675b56af5caca1ef0e0d61b3b9283a7f2b6f52673ef359a982b136fd05df51",
         "groups": [
           "sort_direction"
+        ]
+      }
+    ],
+    "catalog.py": [
+      {
+        "before_sha256": "f6352b1ca824c767fb785cf89f43d03c677a57605fbef968fa37e92facd76684",
+        "after_sha256": "224221b90549cfd7ddb4593628323af571ea667a04b4fb4efbd0c77f0fb29b3a",
+        "groups": [
+          "live_video_year_labels"
+        ]
+      }
+    ],
+    "src/app/core.js": [
+      {
+        "before_sha256": "80d6e3b3f46094a8c491162155126f4764088a1d753b216bdef771a607afd98a",
+        "after_sha256": "a2fe99a83dc2ecc8c19e684c1e4334df3e17c868636b054cfa8ef587a3fb71a6",
+        "groups": [
+          "live_video_year_labels"
         ]
       }
     ]
@@ -3691,6 +3809,13 @@
         "groups": [
           "halftime"
         ]
+      },
+      {
+        "before_sha256": "b634e00d24888bb98fb53cd191b8ffb290bb32c66048f7b2703bd917e9d0bd63",
+        "after_sha256": "d8b772c8929bf9985fc9ee1165e37adc0c7cfd811e82bdca8db67adf5b9c1600",
+        "groups": [
+          "live_video_year_labels"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -3734,6 +3859,13 @@
         "after_sha256": "ef193b16a56f84d776f2e37679ab8ca1cfc24cbaf3fb4187b46d275e7b364137",
         "groups": [
           "halftime"
+        ]
+      },
+      {
+        "before_sha256": "ef193b16a56f84d776f2e37679ab8ca1cfc24cbaf3fb4187b46d275e7b364137",
+        "after_sha256": "f68168fc1a782706555976e87ecb920e0a30b2b8c071e23662dda504d4a8bc3a",
+        "groups": [
+          "live_video_year_labels"
         ]
       }
     ],

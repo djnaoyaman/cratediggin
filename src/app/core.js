@@ -1,7 +1,7 @@
  function workPlayLabel(s){return ({single:'この曲を聴く',mix:'このミックスを聴く',live_video:'この映像を再生',album:'アルバム全体を聴く'})[workType(s)]}
  function isAlbumSource(s){return s?.youtube?.sourceType==='playlist'}
  function hasPlayableSource(s){return !!(isAlbumSource(s)?s.youtube.playlistId:s?.youtube?.id)}
- function yearLabel(s){return Number.isInteger(s.year)?String(s.year):'発表年未確認'}
+ function yearLabel(s){return Number.isInteger(s.year)?String(s.year)+(s.yearQualifier?'年〈'+s.yearQualifier+'〉':''):'発表年未確認'}
  function yearSort(s){return Number.isInteger(s.year)?s.year:9999}
  function yearDistance(a,b){return Number.isInteger(a.year)&&Number.isInteger(b.year)?Math.abs(yearSort(a)-yearSort(b)):9999}
  function youtubeLinkLabel(s){return s.youtube.official===true?'公式YouTubeで開く ↗':s.youtube.official===false?'YouTubeの参考投稿で開く ↗':'YouTubeで開く ↗'}

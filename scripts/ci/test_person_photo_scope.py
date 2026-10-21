@@ -3,12 +3,13 @@ import hashlib,json,sys,unittest
 from pathlib import Path
 R=Path(__file__).resolve().parents[2];sys.path.insert(0,str(R/'scripts'))
 import select_checks as s
+from approved_live_video_year_labels import historical_live_video_year_labels_file
 class PortraitScope(unittest.TestCase):
  def test_exact_and_drift(self):
   m=json.loads((R/'scripts/ci/manifest.json').read_text());f=json.loads((R/'scripts/fixtures/approved-person-photos.json').read_text())
   for path,c in f['files'].items():
    if path=='releases.json':continue
-   old=c['before'].encode();new=(R/path).read_bytes();change=[dict(status='M',old_path=path,new_path=path)]
+   old=c['before'].encode();new=historical_live_video_year_labels_file(path,(R/path).read_bytes());change=[dict(status='M',old_path=path,new_path=path)]
    plan=s.select_changes(m,change,lambda _:old,lambda _:new)
    self.assertFalse(plan['blockers']);self.assertEqual({x['id'] for x in plan['selected']},set(m['groups']['person_photos']))
    plan=s.select_changes(m,change,lambda _:old,lambda _:new+b' ')

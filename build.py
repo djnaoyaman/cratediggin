@@ -92,8 +92,8 @@ links=[]
 for t in tracks:
     p=DIST/'songs';p.mkdir(exist_ok=True)
     e=html.escape
-    body='<article><h1>'+e(t['title'])+'</h1>'+('<p class="work-format">'+e(work_label(t))+'</p>' if work_type(t)!='single' else '')+'<p>'+e(t['artist'])+'</p><p>'+e(t['deck'])+'</p><h2>'+e(t['essayTitle'])+'</h2>'+''.join('<p>'+e(x)+'</p>'+('<div class="essay-references">参考資料：'+ ' / '.join('<a href="'+e(ref['url'],quote=True)+'">'+e(ref['label'])+'</a>' for ref in essay_references(t,j))+'</div>' if essay_references(t,j) else '') for j,x in enumerate(t['essay']))
-    if work_type(t)=='live_video': body+='<p class="work-year">'+e(year_label(t))+'</p>'
+    body='<article><h1>'+e(t['title'])+'</h1>'+('<p class="work-year">'+e(year_label(t))+'</p><p class="work-year-note">'+e(t['yearDisplayNote'])+'</p>' if t.get('yearQualifier') else '')+('<p class="work-format">'+e(work_label(t))+'</p>' if work_type(t)!='single' else '')+'<p>'+e(t['artist'])+'</p><p>'+e(t['deck'])+'</p><h2>'+e(t['essayTitle'])+'</h2>'+''.join('<p>'+e(x)+'</p>'+('<div class="essay-references">参考資料：'+ ' / '.join('<a href="'+e(ref['url'],quote=True)+'">'+e(ref['label'])+'</a>' for ref in essay_references(t,j))+'</div>' if essay_references(t,j) else '') for j,x in enumerate(t['essay']))
+    if work_type(t)=='live_video' and not t.get('yearQualifier'): body+='<p class="work-year">'+e(year_label(t))+'</p>'
     if work_type(t)=='album': body+='<section class="album-sequence"><h2>ALBUM SEQUENCE</h2><ol>'+''.join('<li>'+e(x['title'])+'</li>' for x in t['playlistSequence'])+'</ol><p>個別の記事：'+ ' / '.join('<a href="'+BASE_PATH+'/tracks/'+id+'.html">'+e(next(x['title'] for x in tracks if x['id']==id))+'</a>' for id in t.get('relatedTrackIds',[]))+'</p></section>'
     body+='<p class="review-summary">'+('深掘り記事あり' if t['deepdives'] else 'リスニングノート')+' · サンプル資料 '+str(len(t['samples']))+' 件'+(' · 確認中 '+e(' / '.join(t['review']['metadataPending'])) if t['review']['metadataPending'] else '')+'</p>'
     for section in t['deepdives']:
@@ -116,7 +116,7 @@ for t in tracks:
     if t.get('datePublished'):ld['datePublished']=t['datePublished']
     page=page.replace('</head>','<script type="application/ld+json">'+json.dumps(ld,ensure_ascii=False)+'</script></head>')
     (p/(t['id']+'.html')).write_text(page, encoding='utf-8')
-    md='# '+t['title']+'\n\n'+t['artist']+' / '+year_label(t)+' / '+t['region']+'\n\n## '+t['essayTitle']+'\n\n'+'\n\n'.join(x+('\n\n参考資料：'+ ' / '.join(markdown_reference(ref) for ref in essay_references(t,j)) if essay_references(t,j) else '') for j,x in enumerate(t['essay']))+'\n\n## 制作背景\n\n'+'\n\n'.join('### '+f['title']+'\n\n'+f['text'] for f in t['facts'])+'\n\n## サンプル元\n\n'+'\n\n'.join(s['artist']+' — '+s['title']+'\n\n'+s['role']+('\n\nhttps://www.youtube.com/watch?v='+s['youtube']['id'] if s.get('youtube') else '') for s in t['samples'])+'\n\n## 出典\n\n'+'\n'.join('- ['+s['label']+']('+s['url']+')' for s in t['sources'])+'\n'
+    md='# '+t['title']+'\n\n'+t['artist']+' / '+year_label(t)+' / '+t['region']+('\n\n'+t['yearDisplayNote'] if t.get('yearDisplayNote') else '')+'\n\n## '+t['essayTitle']+'\n\n'+'\n\n'.join(x+('\n\n参考資料：'+ ' / '.join(markdown_reference(ref) for ref in essay_references(t,j)) if essay_references(t,j) else '') for j,x in enumerate(t['essay']))+'\n\n## 制作背景\n\n'+'\n\n'.join('### '+f['title']+'\n\n'+f['text'] for f in t['facts'])+'\n\n## サンプル元\n\n'+'\n\n'.join(s['artist']+' — '+s['title']+'\n\n'+s['role']+('\n\nhttps://www.youtube.com/watch?v='+s['youtube']['id'] if s.get('youtube') else '') for s in t['samples'])+'\n\n## 出典\n\n'+'\n'.join('- ['+s['label']+']('+s['url']+')' for s in t['sources'])+'\n'
     if work_type(t)=='album':md+='\n## ALBUM SEQUENCE\n\n'+'\n'.join(str(x['index'])+'. '+x['title'] for x in t['playlistSequence'])+'\n'
     if work_type(t)!='single':md+='\n## 作品区分\n\n'+work_label(t)+'\n'
     if t.get('editorSelectionMemory'):
@@ -135,7 +135,7 @@ for artist in artist_names:
     slug=artist_slugs[artist]
     artist_tracks=[t for t in tracks if t['artist']==artist]
     url=HOST+'/artists/'+slug+'.html'
-    listing='<main id="view" tabindex="-1"><article><h1>'+html.escape(artist)+'</h1>'+photo_header(photo_feature(features,artist),BASE_PATH)+'<p>CRATEDIGGIN\' '+work_count(artist_tracks)+'</p><ul>'+''.join('<li><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+html.escape(t['title'])+'</a> ('+year_label(t)+')</li>' for t in artist_tracks)+'</ul><p><a href="'+BASE_PATH+'/">CRATEDIGGIN\' トップへ</a></p></article></main>'
+    listing='<main id="view" tabindex="-1"><article><h1>'+html.escape(artist)+'</h1>'+photo_header(photo_feature(features,artist),BASE_PATH)+'<p>CRATEDIGGIN\' '+work_count(artist_tracks)+'</p><ul>'+''.join('<li><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+html.escape(t['title'])+'</a> ('+year_label(t)+')'+('<p class="work-year-note">'+html.escape(t['yearDisplayNote'])+'</p>' if t.get('yearDisplayNote') else '')+'</li>' for t in artist_tracks)+'</ul><p><a href="'+BASE_PATH+'/">CRATEDIGGIN\' トップへ</a></p></article></main>'
     page=base.replace('<main id="view" tabindex="-1"></main>',listing)
     page=re.sub(r'<title>.*?</title>','<title>'+html.escape(artist)+' の楽曲一覧 — CRATEDIGGIN\'</title>',page)
     page=re.sub(r'<meta name="description" content="[^"]*">','<meta name="description" content="'+html.escape(artist+' の掲載'+work_count(artist_tracks)+'。楽曲解説、サンプリングの元ネタ、出典をDJ Naoyamanが紹介。',quote=True)+'">',page)
@@ -194,11 +194,11 @@ for artist in artist_names:
 for t in tracks:
     save_social_image(DIST/'og'/(t['id']+'.jpg'),t)
     url=HOST+'/songs/'+t['id']+'.html'
-    data={'@context':'https://schema.org','@graph':[{'@type':'MusicRecording','@id':url+'#recording','name':t['title'],'byArtist':{'name':t['artist']},'inAlbum':{'@type':'MusicAlbum','name':t['album']},**({'datePublished':str(t['year'])} if t['year'] is not None else {}),'url':url,'sameAs':t['youtube']['url']},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'CRATEDIGGIN\'','item':HOST+'/'},{'@type':'ListItem','position':2,'name':t['title'],'item':url}]}]}
+    data={'@context':'https://schema.org','@graph':[{'@type':'MusicRecording','@id':url+'#recording','name':t['title'],'byArtist':{'name':t['artist']},'inAlbum':{'@type':'MusicAlbum','name':t['album']},**({'datePublished':str(t['year'])} if t['year'] is not None and not t.get('yearQualifier') else {}),'url':url,'sameAs':t['youtube']['url']},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'CRATEDIGGIN\'','item':HOST+'/'},{'@type':'ListItem','position':2,'name':t['title'],'item':url}]}]}
     enhance(DIST/'songs'/(t['id']+'.html'),t['title']+' / '+t['artist'],t['deck'],url,HOST+'/og/'+t['id']+'.jpg',data,True)
 # Expose song links in HTML before JavaScript runs; the client then replaces the view.
 artist_directory='<section aria-label="アーティストから探す"><h2>ARTIST INDEX</h2><p>アーティスト別の収録曲一覧</p><ul>'+''.join('<li><a href="'+BASE_PATH+'/artists/'+artist_slugs[name]+'.html">'+html.escape(name)+'</a></li>' for name in artist_names)+'</ul></section>'
-listing='<section aria-label="収録曲"><h2>THE RECORD CRATE</h2>'+''.join('<article><h3><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+html.escape(t['title'])+'</a></h3><p>'+'<a href="'+BASE_PATH+'/artists/'+artist_slugs[t['artist']]+'.html">'+html.escape(t['artist'])+'</a> / '+year_label(t)+'</p><p>'+html.escape(t['deck'])+'</p></article>' for t in tracks)+'</section>'
+listing='<section aria-label="収録曲"><h2>THE RECORD CRATE</h2>'+''.join('<article><h3><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+html.escape(t['title'])+'</a></h3><p>'+'<a href="'+BASE_PATH+'/artists/'+artist_slugs[t['artist']]+'.html">'+html.escape(t['artist'])+'</a> / '+year_label(t)+'</p>'+('<p class="work-year-note">'+html.escape(t['yearDisplayNote'])+'</p>' if t.get('yearDisplayNote') else '')+'<p>'+html.escape(t['deck'])+'</p></article>' for t in tracks)+'</section>'
 home=DIST/'index.html';content=home.read_text(encoding='utf-8');content=re.sub(r'<main id="view" tabindex="-1">.*?</main>','<main id="view" tabindex="-1">'+artist_directory+listing+'</main>',content,flags=re.S);home.write_text(content, encoding='utf-8')
 enhance(home,'CRATEDIGGIN\' — DJ NaoyamanのHip Hop・サンプリングガイド','楽曲から元ネタへ。Hip Hop、サンプリング、グラフィティを出典付きでたどる音楽ガイド。',HOST+'/',HOST+'/og-image.jpg',{'@context':'https://schema.org','@type':'WebSite','name':'CRATEDIGGIN\'','url':HOST+'/','inLanguage':'ja','author':{'@type':'Person','name':'DJ Naoyaman'}})
 print('Generated per-song social cards, SEO metadata, structured data, touch icons and HTML links.')

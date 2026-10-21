@@ -32,7 +32,7 @@ def feature_tracks(tracks,f):
 
 
 def year_label(t):
-    return str(t['year']) if isinstance(t.get('year'),int) else '発表年未確認'
+    return (str(t['year'])+'年〈'+t['yearQualifier']+'〉' if t.get('yearQualifier') else str(t['year'])) if isinstance(t.get('year'),int) else '発表年未確認'
 
 def year_sort(t):
     return t['year'] if isinstance(t.get('year'),int) else 9999
