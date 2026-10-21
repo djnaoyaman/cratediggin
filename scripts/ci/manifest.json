@@ -2160,6 +2160,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "bear-witness-region-browser"
+    },
+    {
+      "id": "masta-ace-art-cleanup",
+      "argv": [
+        "python",
+        "scripts/verify_masta_ace_art_cleanup.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "masta-ace-art-cleanup"
+    },
+    {
+      "id": "masta-ace-art-cleanup-browser",
+      "argv": [
+        "node",
+        "scripts/verify_masta_ace_art_cleanup_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "masta-ace-art-cleanup-browser"
     }
   ],
   "groups": {
@@ -2572,6 +2596,10 @@
     "bear_witness_region": [
       "bear-witness-region",
       "bear-witness-region-browser"
+    ],
+    "masta_ace_art_cleanup": [
+      "masta-ace-art-cleanup",
+      "masta-ace-art-cleanup-browser"
     ]
   },
   "runtime_rules": {
@@ -3326,7 +3354,17 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/approved_bear_witness_region.py": [
-      "scripts/fixtures/approved-bear-witness-region.json"
+      "scripts/fixtures/approved-bear-witness-region.json",
+      "scripts/approved_masta_ace_art_cleanup.py"
+    ],
+    "scripts/approved_masta_ace_art_cleanup.py": [
+      "scripts/fixtures/approved-masta-ace-art-cleanup.json"
+    ],
+    "scripts/verify_masta_ace_art_cleanup.py": [
+      "scripts/approved_masta_ace_art_cleanup.py"
+    ],
+    "scripts/verify_masta_ace_art_cleanup_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs"
     ]
   },
   "policy_paths": [
@@ -3390,7 +3428,9 @@
     "scripts/fixtures/live-video-year-labels.json",
     "scripts/fixtures/approved-live-video-year-labels.json",
     "scripts/approved_bear_witness_region.py",
-    "scripts/fixtures/approved-bear-witness-region.json"
+    "scripts/fixtures/approved-bear-witness-region.json",
+    "scripts/approved_masta_ace_art_cleanup.py",
+    "scripts/fixtures/approved-masta-ace-art-cleanup.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -4071,6 +4111,15 @@
         "after_sha256": "599a6ae9cffa2b19432befd20b031a4f341af596a645663e1c2d6e7dc90d58f4",
         "groups": [
           "halftime"
+        ]
+      }
+    ],
+    "assets/graffiti/masta-ace-hood-alpha.webp": [
+      {
+        "before_sha256": "a24e04f8e8693a186683ba047141068e859609469c77a80db81a6714a5e0ee75",
+        "after_sha256": "245cb3edd3a1b318842d30d7b0c13f3d19722cc7bde85f2d0c0439489d52daab",
+        "groups": [
+          "masta_ace_art_cleanup"
         ]
       }
     ]
