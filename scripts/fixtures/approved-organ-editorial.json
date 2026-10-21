@@ -1,0 +1,276 @@
+{
+  "base": "2965f47d6469ddef8ec347dd08a7685f129f0b53",
+  "correction": {
+    "id": "dj-shadow-organ-donor",
+    "allowedFields": [
+      "essayTitle",
+      "deck",
+      "essay",
+      "listening",
+      "context",
+      "sources",
+      "essaySources"
+    ],
+    "before": {
+      "id": "dj-shadow-organ-donor",
+      "title": "Organ Donor",
+      "artist": "DJ Shadow",
+      "year": 1996,
+      "yearBasis": "編集データ。初出年の個別照合は継続中。",
+      "region": "San Francisco Bay Area",
+      "scene": "San Francisco Bay Area",
+      "category": "Instrumental Hip Hop",
+      "moods": [
+        "グルーヴ",
+        "街歩き"
+      ],
+      "album": "Endtroducing.....",
+      "label": "個別確認中",
+      "producer": "DJ Shadow",
+      "members": "DJ Shadow",
+      "youtube": {
+        "id": "LQ2a1Cg3OCc",
+        "url": "https://www.youtube.com/watch?v=LQ2a1Cg3OCc",
+        "channel": "djshadow",
+        "type": "公式配信候補",
+        "official": true,
+        "verified": "2026-10-14",
+        "verification": "検索でタイトル・アーティスト・掲載説明を照合。実際の再生は未検証。"
+      },
+      "art": {
+        "word": "ORGAN DONOR",
+        "lines": [
+          "ORGAN DONOR"
+        ],
+        "tag": "SAN FRANCISCO BAY AREA / 1996",
+        "style": "piece",
+        "seed": 2833712673,
+        "profile": "ny-subway",
+        "palette": [
+          "#608a78",
+          "#e2d5b5",
+          "#b38052",
+          "#29392f"
+        ],
+        "paletteSource": "Endtroducing.....（DJ Shadow公式ストア掲載25周年盤）",
+        "paletteNote": "公式ストア掲載ジャケットの深緑の服、クリームの棚、木質の茶と暗部を目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+        "lettering": "block",
+        "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      },
+      "deck": "声のない時間にも、サンプルの物語がある。",
+      "essayTitle": "この曲の聴きどころ",
+      "essay": [
+        "声のない時間にも、サンプルの物語がある。",
+        "ラップの登場を待たず、音の入り方と抜け方を追ってみる。旋律の断片が、声に代わって場面を運ぶ。その短い展開を何度も聴きたくなる。"
+      ],
+      "facts": [
+        {
+          "title": "掲載音源について",
+          "text": "公式配信候補を採用。音源の掲載説明を照合していますが、埋め込みでの再生可否は未検証です。",
+          "sources": [
+            0
+          ]
+        }
+      ],
+      "samples": [
+        {
+          "artist": "Giorgio Moroder",
+          "title": "Tears",
+          "year": 1972,
+          "role": "音の断片として紹介される。原曲のアルペジオとShadow版の構成を聴き比べたい。",
+          "sources": [
+            1
+          ],
+          "research": true
+        }
+      ],
+      "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
+      "listening": [
+        "声のない時間にも、サンプルの物語がある。",
+        "音の登場と退場を追い、短い反復がどこで表情を変えるかを聴く。"
+      ],
+      "context": "ラップの登場を待たず、音の入り方と抜け方を追ってみる。旋律の断片が、声に代わって場面を運ぶ。その短い展開を何度も聴きたくなる。",
+      "sources": [
+        {
+          "label": "YouTube — DJ Shadow / Organ Donor",
+          "url": "https://www.youtube.com/watch?v=LQ2a1Cg3OCc",
+          "kind": "公式配信情報"
+        },
+        {
+          "label": "Giorgio Moroder / Tears — サンプル関係の資料",
+          "url": "https://909originals.com/2021/09/16/midnight-in-a-perfect-akai-mpc-60-five-samples-that-defined-dj-shadows-entroducing/",
+          "kind": "サンプル調査資料"
+        }
+      ],
+      "producers": [
+        "DJ Shadow"
+      ],
+      "connections": [],
+      "sounds": [
+        "ドラム",
+        "声の掛け合い"
+      ],
+      "addedOrder": 141,
+      "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+      "collections": [
+        "pizza",
+        "walk",
+        "west"
+      ],
+      "editorialCrates": [
+        "cut-scratch"
+      ],
+      "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+      "noteReviewedAt": "2026-10-17"
+    },
+    "after": {
+      "id": "dj-shadow-organ-donor",
+      "title": "Organ Donor",
+      "artist": "DJ Shadow",
+      "year": 1996,
+      "yearBasis": "編集データ。初出年の個別照合は継続中。",
+      "region": "San Francisco Bay Area",
+      "scene": "San Francisco Bay Area",
+      "category": "Instrumental Hip Hop",
+      "moods": [
+        "グルーヴ",
+        "街歩き"
+      ],
+      "album": "Endtroducing.....",
+      "label": "個別確認中",
+      "producer": "DJ Shadow",
+      "members": "DJ Shadow",
+      "youtube": {
+        "id": "LQ2a1Cg3OCc",
+        "url": "https://www.youtube.com/watch?v=LQ2a1Cg3OCc",
+        "channel": "djshadow",
+        "type": "公式配信候補",
+        "official": true,
+        "verified": "2026-10-14",
+        "verification": "検索でタイトル・アーティスト・掲載説明を照合。実際の再生は未検証。"
+      },
+      "art": {
+        "word": "ORGAN DONOR",
+        "lines": [
+          "ORGAN DONOR"
+        ],
+        "tag": "SAN FRANCISCO BAY AREA / 1996",
+        "style": "piece",
+        "seed": 2833712673,
+        "profile": "ny-subway",
+        "palette": [
+          "#608a78",
+          "#e2d5b5",
+          "#b38052",
+          "#29392f"
+        ],
+        "paletteSource": "Endtroducing.....（DJ Shadow公式ストア掲載25周年盤）",
+        "paletteNote": "公式ストア掲載ジャケットの深緑の服、クリームの棚、木質の茶と暗部を目視参照した編集上の近似配色。厳密な色抽出値ではない。",
+        "lettering": "block",
+        "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
+      },
+      "deck": "「Organ Donor」を人がどう受け取るか、DJ Shadow自身にも読めなかった。",
+      "essayTitle": "嫌われると思っていた、あの反復。",
+      "essay": [
+        "DJ Shadowは2016年のMusicRadarの取材で、『Endtroducing.....』を振り返り、「Organ Donor」は人に嫌われ、酷評されると思っていたと話している。いま曲を知る耳には意外でも、作り手の手応えと聴き手の反応は同じではなかった。",
+        "その話に続けて彼が語るのは、誰かが気に入らないかもしれないという理由で、自分が好きな音楽を作るのをやめるべきではない、という姿勢だ。ここでは反復の仕組みだけでなく、その音を作品に残した判断にも耳を向けたい。"
+      ],
+      "facts": [
+        {
+          "title": "掲載音源について",
+          "text": "公式配信候補を採用。音源の掲載説明を照合していますが、埋め込みでの再生可否は未検証です。",
+          "sources": [
+            0
+          ]
+        }
+      ],
+      "samples": [
+        {
+          "artist": "Giorgio Moroder",
+          "title": "Tears",
+          "year": 1972,
+          "role": "音の断片として紹介される。原曲のアルペジオとShadow版の構成を聴き比べたい。",
+          "sources": [
+            1
+          ],
+          "research": true
+        }
+      ],
+      "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
+      "listening": [
+        "鍵盤の反復とドラムを分けて追い、どちらが耳を引きつけるか確かめる。"
+      ],
+      "context": "1996年の『Endtroducing.....』収録曲。後の「Extended Overhaul」とは別の版として聴く。",
+      "sources": [
+        {
+          "label": "YouTube — DJ Shadow / Organ Donor",
+          "url": "https://www.youtube.com/watch?v=LQ2a1Cg3OCc",
+          "kind": "公式配信情報"
+        },
+        {
+          "label": "Giorgio Moroder / Tears — サンプル関係の資料",
+          "url": "https://909originals.com/2021/09/16/midnight-in-a-perfect-akai-mpc-60-five-samples-that-defined-dj-shadows-entroducing/",
+          "kind": "サンプル調査資料"
+        },
+        {
+          "label": "MusicRadar：DJ Shadow本人への取材（2016年10月17日）",
+          "url": "https://www.musicradar.com/news/tech/dj-shadow-on-key-influences-over-the-years-and-the-gear-he-just-cant-do-without-643390",
+          "kind": "本人インタビュー"
+        },
+        {
+          "label": "DJ Shadow公式：Endtroducing 20周年盤トラックリスト",
+          "url": "https://djshadow.com/collections/all/products/endtroducing-20th-anniversary-endtrospective-edition-3cd-deluxe-digipack",
+          "kind": "アーティスト公式"
+        }
+      ],
+      "producers": [
+        "DJ Shadow"
+      ],
+      "connections": [],
+      "sounds": [
+        "ドラム",
+        "声の掛け合い"
+      ],
+      "addedOrder": 141,
+      "editorialStatus": "選曲・短い聴きどころを掲載。発売情報と全サンプルの詳細調査は継続中。",
+      "collections": [
+        "pizza",
+        "walk",
+        "west"
+      ],
+      "editorialCrates": [
+        "cut-scratch"
+      ],
+      "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+      "noteReviewedAt": "2026-10-17",
+      "essaySources": [
+        [
+          2
+        ],
+        [
+          2
+        ]
+      ]
+    }
+  },
+  "files": {
+    "tracks.json": {
+      "beforeSHA256": "bf12ae0e0436741530043323c14cdfeeb8712b9533b136a2227cf0600da0bcf5",
+      "afterSHA256": "35c7547ecf98ac6d084f6c1db43b5b805167769aa1878d0effcee0df73d30491"
+    },
+    "releases.json": {
+      "beforeSHA256": "689d5f479a80d1043b469a1a12a7554a0c55f355c37a5880584e94e1b31eb1de",
+      "afterSHA256": "337b3713942c929f2f5d2ceb5db32859d7643eae8af598c7e1a9627364046d1e"
+    }
+  },
+  "protected": {
+    "editor_profile.json": "d589afc915cda0324e1240461f55b220ee41dcedb4c53057534da1aeae35339a",
+    "editorial_deepdives.json": "2995d5d9ec6106ec0819f4c5d3dd1e48fde41813d8c17e79bb32e46de2ddc6ba",
+    "graffiti_artwork.json": "957bd0b6176825c76ef4adf9243845a20ff97a833f1511ff6854d56b2edee94d",
+    "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+    "artist_entities.json": "542290cca4fa06d6b8122b8e00a96911a18d4b4b2ece19fdd7c7ab17b7c653cf",
+    "guides.json": "4577ae94470e8dec95a99868919c560cbdba95be988ddf7497216b9abb44f6d8",
+    "listening_shelves.json": "26f634c98c577a68ab0b2e2a09472f759b9e20bb776931425ad6bed1d9880aa8"
+  },
+  "beforeVersion": "22.20"
+}
