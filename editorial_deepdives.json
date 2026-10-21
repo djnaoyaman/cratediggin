@@ -3895,5 +3895,83 @@
         "sourceLabel": "Nas / NPR Microphone Check — Ali Shaheed Muhammad・Frannie Kelleyによる取材（2014-04-23、転載全文）"
       }
     ]
+  },
+  {
+    "artist": "Cash Money & Marvelous",
+    "title": "Ugly People Be Quiet",
+    "sections": [
+      {
+        "heading": "印刷クレジットと、後年の制作証言",
+        "text": "SLX-31の資料では、裏ジャケットにCash MoneyとHerby-Luv、盤面にHerbie Love Bug Azorという表記差がある。一方、2024年のKurtis Mantronikのインタビューでは、彼自身がこの曲のビートをCash Moneyへ渡したと回想し、Cash Moneyの同趣旨の発言も紹介される。盤面上の責任表示と、誰がビートを組んだかという証言は分けて読む必要がある。後者だけで前者を消さない。",
+        "sources": [
+          6,
+          7
+        ],
+        "source": "https://musicbase.net/cs/play-it-kool-ugly-people-be-quiet",
+        "sourceLabel": "Musicbase：SLX-31盤面／裏ジャケットのクレジット転記"
+      },
+      {
+        "heading": "ニューヨークのラジオへ届いた一枚",
+        "text": "Hip-Hop Radio Archiveには、1988年3月18日のWBLS「Mr. Magic’s Rap Attack」でこの曲が流れた記録がある。同じ番組にはLatee、Schoolly D、Eric B. & Rakimらも並ぶ。フィラデルフィアの二人の音源が、ニューヨークのラップ番組の選曲の中へ入っていく様子を、当時の放送単位でたどれる資料だ。ここで記録されている曲名は無印の「Ugly People Be Quiet」であり、リミックスの証拠としては流用しない。",
+        "sources": [
+          8
+        ],
+        "source": "https://hiphopradioarchive.org/show/1093",
+        "sourceLabel": "Hip-Hop Radio Archive：Mr. Magic’s Rap Attack, 1988-03-18"
+      }
+    ]
+  },
+  {
+    "artist": "Cash Money & Marvelous",
+    "title": "Ugly People Be Quiet (DJ Cash Money Remix)",
+    "sections": [
+      {
+        "heading": "2016年は新作年ではない",
+        "text": "採用候補のTopic音源には、The Orchard配信、原盤表示℗1988 Sleeping Bag、配信日2016年3月11日、動画公開日2016年9月17日が別々に示される。1989年1月の音楽誌にもすでにリミックス名が現れるため、作品年を2016年へ置き換えない。現行の長い版名「Dj Cash Money Remix」は、LPの「Remix」と担当者クレジットを結び付ける有用な表示である。",
+        "sources": [
+          2,
+          0,
+          1
+        ],
+        "source": "https://www.youtube.com/watch?v=PEeMLfn8e_8",
+        "sourceLabel": "The Orchard / Cash Money & Marvelous - Topic：Ugly People Be Quiet (Dj Cash Money Remix)"
+      },
+      {
+        "heading": "三つの「別バージョン」を混同しない",
+        "text": "1987年のSLX-31には「Ugly People Be Quiet」のClub VersionとDub Versionが入る。1988年LPのX7はそれらとは別に「Remix」として収録され、担当者も記されている。さらに無印版も同じLPのY1に残る。Dub、無印、DJ Cash Money Remixを曲名の似通いだけで統合せず、盤番号・面番号・バージョン名を一緒に見ることが、この曲を掘る近道になる。",
+        "sources": [
+          3,
+          0,
+          4
+        ],
+        "source": "https://musicbase.net/cs/play-it-kool-ugly-people-be-quiet",
+        "sourceLabel": "Musicbase：SLX-31盤面／裏ジャケットのクレジット転記"
+      }
+    ]
+  },
+  {
+    "artist": "Cash Money & Marvelous",
+    "title": "The Mighty Hard Rocker",
+    "sections": [
+      {
+        "heading": "VocalとInstrumentalも別々に追う",
+        "text": "米国SLX40143はX面に「Find An Ugly Woman」、Y面に「The Mighty Hard Rocker」を置き、それぞれVocalとInstrumentalを収録する。販売資料の曲目は後者を4分26秒と4分20秒で区別している。曲名が同じでも、歌入り・インスト・後年の別リミックスは同じ登録ではない。まず原盤の四曲構成を押さえると、検索で混在する音源の整理がしやすい。",
+        "sources": [
+          6,
+          0
+        ],
+        "source": "https://soulclaprecord.com/index.php/products/detail/67073",
+        "sourceLabel": "SOUL CLAP：Find An Ugly Woman / The Mighty Hard Rocker"
+      },
+      {
+        "heading": "Metersの一曲がつなぐ三つのタイトル",
+        "text": "原曲の作家・演奏者Joseph “Zigaboo” Modeliste側の出版社Jomodは、「The Mighty Hard Rocker」「The Music Maker」に加えて、Mantronixの「King Of The Beats」も「Same Old Thing」の使用例として挙げる。Cash MoneyとMantronikの仕事を、似た音という印象だけでなく、原曲側の記録から横につなげて掘れる。ただし資料は使用箇所の秒数や採取方法までは示していない。",
+        "sources": [
+          5
+        ],
+        "source": "https://www.jomodmusicpublishing.com/credits/",
+        "sourceLabel": "Jomod Music Publishing：Metersサンプル使用一覧"
+      }
+    ]
   }
 ]

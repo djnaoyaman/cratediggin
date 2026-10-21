@@ -1,0 +1,696 @@
+{
+  "base": "b24e8c3fed924e346b8258e799149a8b3ea2c10b",
+  "files": {
+    "tracks.json": {
+      "beforeSHA256": "3b8c18cd1460c62ffaec3361cc3af7c00b91f79f1dc4f5caf5efacaf8f44ad1e",
+      "afterSHA256": "f0665029f7a8aa5bd0bd534d0d7cf59339042a6eaf60af772e1f89ea3aa4ff08",
+      "arrayKey": null,
+      "beforeCount": 507
+    },
+    "editorial_deepdives.json": {
+      "beforeSHA256": "f68168fc1a782706555976e87ecb920e0a30b2b8c071e23662dda504d4a8bc3a",
+      "afterSHA256": "ba5eb9c70b346452037bddbeb40c4dcfe2f77b196163639e9f6e8a99e992dc87",
+      "arrayKey": null,
+      "beforeCount": 167
+    },
+    "graffiti_artwork.json": {
+      "beforeSHA256": "f26024b9ca55ba0b10e5f0dc62bfcc3ffc54106cfd0b577d729303a23a036305",
+      "afterSHA256": "233be58a262bae14bf895104a6418bf34a29592f6b3368ac095faf49bd6945da",
+      "arrayKey": "tracks",
+      "beforeCount": 507
+    },
+    "artist_entities.json": {
+      "beforeSHA256": "9e952d640f20e0c203e6bbcba1746da53eb014bfc05f957b86dea2c77fb0c02f",
+      "afterSHA256": "fc576a212b500a3c76e615bde8128124075e6e203d8996201761b66035adacb0",
+      "arrayKey": "entity",
+      "addedEntity": "Cash Money & Marvelous",
+      "entityValue": {
+        "type": "MusicGroup"
+      }
+    },
+    "releases.json": {
+      "beforeSHA256": "a4ab5a47416c27ca86e2fdd07f6ae4dae5c90609b27d3e8beeab62e1fd0e9d44",
+      "afterSHA256": "ef5fae467870fe734db92e48a6f22705f4c788b298ec908b334fdd47a920288b",
+      "arrayKey": "version",
+      "beforeVersion": "22.32"
+    }
+  },
+  "records": [
+    {
+      "title": "Ugly People Be Quiet",
+      "artist": "Cash Money & Marvelous",
+      "year": 1987,
+      "yearBasis": "1987年のSleeping Bag SLX-31と同年のBillboard/Cash Box掲載を基準とする。1988年のアルバム収録、2015年の動画公開とは区別。",
+      "region": "Philadelphia",
+      "scene": "Philadelphia",
+      "category": "Hip Hop",
+      "album": "Where's the Party At?",
+      "label": "Sleeping Bag Records",
+      "deck": "1987年の裏面から広がった、MCとDJの共同名刺。",
+      "essayTitle": "B面で名乗りを上げたフィラデルフィア",
+      "essay": [
+        "「Ugly People Be Quiet」の出発点は、1988年のアルバムより一歩早い。1987年の12インチ「Play It Kool」の裏面に収められ、同年12月のBillboardとCash Boxが取り上げている。Cornell大学の所蔵目録にもSleeping BagのSLX-31、1987年作品として残る。アルバムで知った曲を、まず一枚のシングルへ戻してみたい。",
+        "当時の英国の書き手James Hamiltonは、表面の「Play It Kool」に対し、こちらではカッティングの鋭さが増すと評した。曲名の強い呼びかけだけでなく、DJが前へ出る瞬間も受け止められていたことがわかる。MarvelousのラップとCash Moneyの手さばきを対等な主役として捉えると、二人組の名前が持つ意味も見えてくる。",
+        "Cash Moneyはフィラデルフィアで独自のDJスタイルを磨き、翌1988年にDMC世界王者となった。NAMMの口述史も、彼をバトルの勝者であると同時に、近所の仲間へダンス・ミックスを届けてきたDJとして紹介している。この曲の1987年という日付は、世界大会の肩書きが定着する前から、パーティーの現場とレコード制作がつながっていたことを示す。",
+        "サンプルを入口に掘るならTears for Fearsへ。2020年の再発紹介でも、この曲による引用が聴きどころとして挙げられている。ソウルやファンクだけをたどると見逃す、英国ポップとフィラデルフィアの接点だ。まず元曲「Head Over Heels」との関係を手掛かりに、親しみのある断片が別の場へ運ばれる過程に注目したい。"
+      ],
+      "sources": [
+        {
+          "label": "Billboard, 1987-12-05：SLX-31レビュー",
+          "url": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/80s/1987/Billboard-1987-12-05.pdf",
+          "kind": "同時代音楽業界誌",
+          "date": "1987-12-05",
+          "supports": "Play It Kool / Ugly People Be Quietが1987年に存在。Play It Kool制作Hurby Love Bug Azor、作J.Hewlett/M.Berryman。"
+        },
+        {
+          "label": "Cash Box, 1987-12-26：SLX-31レビューとSleeping Bag広告",
+          "url": "https://www.worldradiohistory.com/Archive-All-Music/Cash-Box/80s/1987/CB-1987-12-26.pdf",
+          "kind": "同時代音楽業界誌／レーベル広告",
+          "date": "1987-12-26",
+          "supports": "p104レビューはPlay It Koolの裏面Ugly People Be Quietを取り上げる。p112広告にSLX31。"
+        },
+        {
+          "label": "Cornell University：SLX-31所蔵レコード目録",
+          "url": "https://rmc.library.cornell.edu/EAD/htmldocs/RMM08094s9ss1ss4C.html",
+          "kind": "大学アーカイブ所蔵記録",
+          "supports": "Box209 SR12433/12434、1987、Sleeping Bag SLX-31、Play it kool / Ugly people be quiet。"
+        },
+        {
+          "label": "James Hamilton, Record Mirror 1987-12-05（アーカイブ転記）",
+          "url": "https://jameshamiltonsdiscopage.com/1987/12/05/december-5-1987-sweet-tee-d-j-todd-rick-astley-jellybean-flightt/",
+          "kind": "同時代レビューのアーカイブ転記",
+          "date": "1987-12-05",
+          "supports": "SLX31。Play92bpm／Ugly0-98bpm。後者の切り込むカッティングを評する。"
+        },
+        {
+          "label": "NAMM Oral History：DJ Cash Money",
+          "url": "https://ww1.namm.org/library/oral-history/dj-cash-money",
+          "kind": "本人インタビューを伴う音楽産業史アーカイブ",
+          "date": "2012-11-16",
+          "supports": "Philadelphia、1988 DMC World Champion、Transformer scratch発展への関与。単独発明者と断定しない。"
+        },
+        {
+          "label": "OYE Records：Where’s the Party At?再発紹介",
+          "url": "https://www.oye-records.com/releases/cash-money-marvelous-wheres-the-party-at",
+          "kind": "再発盤の販売・作品資料",
+          "date": "2020-02-14",
+          "supports": "1988作品の再発。Ugly People Be QuietのTearsForFears引用を紹介。original artwork/inner sleeveを復刻。"
+        },
+        {
+          "label": "Musicbase：SLX-31盤面／裏ジャケットのクレジット転記",
+          "url": "https://musicbase.net/cs/play-it-kool-ugly-people-be-quiet",
+          "kind": "二次レコード資料",
+          "supports": "裏面Cash Money & Herby-Luv、盤面Herbie Love Bug Azorのみという差異。原盤面画像の今回目視確認は未完了。"
+        },
+        {
+          "label": "Kurtis Mantronik / Just-Ice interview（Rock The Bells記事のBlackout転載）",
+          "url": "https://blackouthiphop.com/blog/a-long-time-an-exclusive-interview-with-kurtis-mantronik-and-just-ice/",
+          "kind": "本人証言を含むインタビュー転載",
+          "date": "2024-12-08",
+          "supports": "KurtisはUglyのビートをCashに提供したと回想。Cashの同趣旨発言も引用。印刷された制作クレジットとは別種の証拠。原掲載URLは確認時404。"
+        },
+        {
+          "label": "Hip-Hop Radio Archive：Mr. Magic’s Rap Attack, 1988-03-18",
+          "url": "https://hiphopradioarchive.org/show/1093",
+          "kind": "放送録音アーカイブと曲目記録",
+          "date": "1988-03-18",
+          "supports": "WBLS(NewYork)の番組にUgly People Be Quietを記録。編集された曲目一覧であり、本調査で放送音声を聴いたわけではない。"
+        }
+      ],
+      "id": "cash-money-marvelous-ugly-people-be-quiet",
+      "artists": [
+        "Cash Money & Marvelous"
+      ],
+      "producer": "DJ Cash Money / Hurby “Luv Bug” Azor",
+      "producers": [
+        "DJ Cash Money",
+        "Hurby “Luv Bug” Azor"
+      ],
+      "members": "Cash Money / Marvelous",
+      "essaySources": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          6
+        ]
+      ],
+      "facts": [],
+      "samples": [],
+      "sampleStatus": "個々のサンプル録音・版と音源リンクは未照合。本文では出典が示す関係だけを扱います。",
+      "connections": [
+        "cash-money-marvelous-ugly-people-be-quiet-dj-cash-money-remix",
+        "cash-money-marvelous-the-mighty-hard-rocker"
+      ],
+      "listening": [
+        "当時の放送・レビューを入口に、MCとDJのどちらが前へ出るのかに耳を向けたい。"
+      ],
+      "moods": [
+        "グルーヴ"
+      ],
+      "sounds": [
+        "ラップ",
+        "スクラッチ"
+      ],
+      "collections": [
+        "east"
+      ],
+      "editorialCrates": [
+        "raw-beats"
+      ],
+      "context": "1987年のシングルの裏面から、フィラデルフィアの二人が広がっていく。その経路を、当時のレビューと放送記録で追う。",
+      "audioVerificationStatus": "投稿の曲名・チャンネル・説明情報を照合しています。日本での配信可否、埋め込み許可、再生時間、実再生は未確認です。",
+      "editorialStatus": "原盤資料・同時代記事・制作証言を出典付きで掲載。日本国内からの実再生と埋め込み再生は未確認。",
+      "noteReviewedAt": "2026-10-21",
+      "datePublished": "2026-10-21",
+      "addedOrder": 501,
+      "versionBasis": "1987年のSleeping Bag SLX-31と同年のBillboard/Cash Box掲載を基準とする。1988年のアルバム収録、2015年の動画公開とは区別。 掲載投稿の曲名・説明を照合した選定であり、盤との波形・マスタリング比較と実聴は行っていません。",
+      "youtube": {
+        "id": "lGOKJkOtnLI",
+        "url": "https://www.youtube.com/watch?v=lGOKJkOtnLI",
+        "title": "Cash Money & Marvelous - Ugly People Be Quiet",
+        "channel": "Sleeping Bag / Fresh Records",
+        "type": "公式音源（レーベル／正規配信の掲載情報）",
+        "official": true,
+        "verified": "2026-10-21",
+        "embedUrl": "https://www.youtube.com/embed/lGOKJkOtnLI",
+        "playbackVerified": false,
+        "embeddedPlaybackVerified": false,
+        "version": "1987 original / Club Version; not 1988 DJ Cash Money Remix",
+        "versionBasis": "1987年のSleeping Bag SLX-31と同年のBillboard/Cash Box掲載を基準とする。1988年のアルバム収録、2015年の動画公開とは区別。 掲載投稿の曲名・説明を照合した選定であり、盤との波形・マスタリング比較と実聴は行っていません。",
+        "notice": "投稿の曲名・チャンネル・説明情報を照合しています。日本での配信可否、埋め込み許可、再生時間、実再生は未確認です。",
+        "verification": "投稿の曲名・チャンネル・説明情報を照合しています。日本での配信可否、埋め込み許可、再生時間、実再生は未確認です。"
+      },
+      "productionCreditNote": "DJ Cash Money / Hurby “Luv Bug” Azor（印刷クレジットの資料に基づく。制作証言はDIG DEEPER参照）",
+      "art": {
+        "word": "UGLY PEOPLE BE QUIET",
+        "lines": [
+          "UGLY PEOPLE BE QUIET"
+        ],
+        "tag": "CASH MONEY & MARVELOUS",
+        "style": "piece",
+        "seed": 1987001,
+        "palette": [
+          "#6E950A",
+          "#F5C828",
+          "#32275C",
+          "#D62B7C",
+          "#171611"
+        ],
+        "paletteSource": "Play It Kool / Ugly People Be Quiet / Sleeping Bag SLX-31 / sleeve SLX 31",
+        "paletteSourceUrl": "https://www.vinylexchange.co.uk/cdn/shop/files/image_2049483_grande.jpg?v=1735920244",
+        "paletteNote": "実際に目視確認した当該版ジャケットの配色を参照した編集上の近似値。ジャケット写真・ロゴは転載せず、独自の文字構成にしています。"
+      }
+    },
+    {
+      "title": "Ugly People Be Quiet (DJ Cash Money Remix)",
+      "artist": "Cash Money & Marvelous",
+      "year": 1988,
+      "yearBasis": "1988年のSleeping Bag LP TLX-42016収録版。1989年1月の同時代記事にもRemixを確認。2016年の再配信日・動画公開年と区別。",
+      "region": "Philadelphia",
+      "scene": "Philadelphia",
+      "category": "Hip Hop",
+      "album": "Where's the Party At?",
+      "label": "Sleeping Bag Records",
+      "deck": "LPの面をまたいで出会う、Cash Money自身による別構成。",
+      "essayTitle": "同じ曲名を、二つの仕事として残す",
+      "essay": [
+        "『Where’s the Party At?』の米国LPは、X面の最後に「Ugly People Be Quiet (Remix)」、Y面の最初に無印の「Ugly People Be Quiet」を置いている。レコードを裏返すところに二つの版が接する配置だ。前者は約3分41秒、後者は約4分28秒という盤の曲目表も、その違いを明示している。ここではX7のリミックスを独立した一曲として扱う。",
+        "リミックスの見どころを、単に速くなった版と説明するのは早計だ。1989年1月のRecord Mirrorでは、「The Music Maker」と並んでこの版のスクラッチとカッティングが評価されている。曲の知名度を借りた付録というより、DJの仕事に耳を向けるための入口として、同時代から認識されていた。原曲との比較でも、テンポだけでなく素材の並べ方を追いたい。",
+        "LPのクレジット転記は、X7のリミックス担当をDJ Cash Moneyと特定する。現在のThe Orchard経由の配信も「Dj Cash Money Remix」と明記しており、単に同名曲へ括弧を足した登録ではない。同じ二人の名義の中に、リミキサーとしてのCash Moneyの署名がもう一度刻まれている。",
+        "こうした再構成は、二人組のアルバムをMCの曲集としてだけ眺めないための手掛かりになる。声を前へ出す仕事と、既存の音を組み替えて展開を作る仕事。その両方が同じレコードの中で隣り合う。無印版を聴いたあとにこの版へ進めば、「何を残し、何を動かしたのか」というDJの選択を比較する聴き方ができる。"
+      ],
+      "sources": [
+        {
+          "label": "The Vinyl Room：US初期盤TLX-42016の曲目・クレジット",
+          "url": "https://shop-obc.michael45.com/produkt/cash-money-marvelous-wheres-the-party-at/",
+          "kind": "二次レコード資料",
+          "supports": "1988、X7UglyRemix3:41／Y1Ugly4:28／Y2Mighty4:25／Y6MusicMaker3:39。Remix[X7] DJ Cash Money。原盤画像は今回未取得。"
+        },
+        {
+          "label": "Record Mirror, 1989-01-14：Mighty Hard Rocker／アルバム評",
+          "url": "https://www.worldradiohistory.com/UK/Record-Mirror/80s/89/Record-Mirror-1989-01-14.pdf",
+          "kind": "同時代音楽誌",
+          "date": "1989-01-14",
+          "supports": "UKではMightyがA面。LPは前年クリスマス前に流通。Music MakerとUgly Remixのscratch/cutting評価。オリジナルとRemixを別掲。BPMは当時測定値。"
+        },
+        {
+          "label": "The Orchard / Cash Money & Marvelous - Topic：Ugly People Be Quiet (Dj Cash Money Remix)",
+          "url": "https://www.youtube.com/watch?v=PEeMLfn8e_8",
+          "kind": "正規配信YouTubeメタデータ（検索インデックス）",
+          "date": "2016-09-17",
+          "supports": "完全版名Dj Cash Money Remix、The Orchard、℗1988SleepingBag、配信2016-03-11。音声未試聴。"
+        },
+        {
+          "label": "Musicbase：SLX-31盤面／裏ジャケットのクレジット転記",
+          "url": "https://musicbase.net/cs/play-it-kool-ugly-people-be-quiet",
+          "kind": "二次レコード資料",
+          "supports": "裏面Cash Money & Herby-Luv、盤面Herbie Love Bug Azorのみという差異。原盤面画像の今回目視確認は未完了。"
+        },
+        {
+          "label": "Where’s The Party At? TLX-42016 オリジナル盤写真（óleo Records）",
+          "url": "https://oleo.theshop.jp/items/71948986",
+          "kind": "原盤ジャケット／X面レーベル写真を今回目視確認",
+          "supports": "裏ジャケットX7はUgly People Be Quiet (Remix)、Y1はoriginal。X面盤面TLX-42016X、℗©1988、Remix3:41を直接確認。黄色地・水色ロゴ。"
+        }
+      ],
+      "id": "cash-money-marvelous-ugly-people-be-quiet-dj-cash-money-remix",
+      "artists": [
+        "Cash Money & Marvelous"
+      ],
+      "producer": "DJ Cash Money / Joe The Butcher",
+      "producers": [
+        "DJ Cash Money",
+        "Joe The Butcher"
+      ],
+      "members": "Cash Money / Marvelous",
+      "essaySources": [
+        [
+          0,
+          4
+        ],
+        [
+          1
+        ],
+        [
+          0,
+          2,
+          4
+        ],
+        [
+          0
+        ]
+      ],
+      "facts": [],
+      "samples": [],
+      "sampleStatus": "個々のサンプル録音・版と音源リンクは未照合。本文では出典が示す関係だけを扱います。",
+      "connections": [
+        "cash-money-marvelous-ugly-people-be-quiet",
+        "cash-money-marvelous-the-mighty-hard-rocker"
+      ],
+      "listening": [
+        "無印版とRemixを同じ名前でまとめず、レコードの面番号と担当者表記を見ながら聴き比べたい。"
+      ],
+      "moods": [
+        "グルーヴ"
+      ],
+      "sounds": [
+        "ラップ",
+        "スクラッチ"
+      ],
+      "collections": [
+        "east"
+      ],
+      "editorialCrates": [
+        "raw-beats"
+      ],
+      "context": "同じアルバムに無印版とRemixが並ぶ。盤面と配信表記を照らし合わせ、DJ Cash Moneyの再構成を別の作品としてたどる。",
+      "audioVerificationStatus": "投稿の曲名・チャンネル・説明情報を照合しています。日本での配信可否、埋め込み許可、再生時間、実再生は未確認です。",
+      "editorialStatus": "原盤資料・同時代記事・制作証言を出典付きで掲載。日本国内からの実再生と埋め込み再生は未確認。",
+      "noteReviewedAt": "2026-10-21",
+      "datePublished": "2026-10-21",
+      "addedOrder": 502,
+      "versionBasis": "1988年のSleeping Bag LP TLX-42016収録版。1989年1月の同時代記事にもRemixを確認。2016年の再配信日・動画公開年と区別。 掲載投稿の曲名・説明を照合した選定であり、盤との波形・マスタリング比較と実聴は行っていません。",
+      "youtube": {
+        "id": "PEeMLfn8e_8",
+        "url": "https://www.youtube.com/watch?v=PEeMLfn8e_8",
+        "title": "Ugly People Be Quiet (Dj Cash Money Remix)",
+        "channel": "Cash Money & Marvelous - Topic",
+        "type": "公式音源（レーベル／正規配信の掲載情報）",
+        "official": true,
+        "verified": "2026-10-21",
+        "embedUrl": "https://www.youtube.com/embed/PEeMLfn8e_8",
+        "playbackVerified": false,
+        "embeddedPlaybackVerified": false,
+        "version": "Where's The Party At? X7, printed Ugly People Be Quiet (Remix), 3:41; exact DJ Cash Money qualifier confirmed separately by distributor upload",
+        "versionBasis": "1988年のSleeping Bag LP TLX-42016収録版。1989年1月の同時代記事にもRemixを確認。2016年の再配信日・動画公開年と区別。 掲載投稿の曲名・説明を照合した選定であり、盤との波形・マスタリング比較と実聴は行っていません。",
+        "notice": "投稿の曲名・チャンネル・説明情報を照合しています。日本での配信可否、埋め込み許可、再生時間、実再生は未確認です。",
+        "verification": "投稿の曲名・チャンネル・説明情報を照合しています。日本での配信可否、埋め込み許可、再生時間、実再生は未確認です。"
+      },
+      "productionCreditNote": "DJ Cash Money：制作・アレンジ・ミックス。Joe The Butcher：共同制作。TLX-42016Xの全曲クレジットに基づき、リミックスの担当者表記と区別しています。",
+      "art": {
+        "word": "UGLY PEOPLE BE QUIET (DJ CASH MONEY REMIX)",
+        "lines": [
+          "UGLY PEOPLE BE QUIET (DJ CASH MONEY REMIX)"
+        ],
+        "tag": "CASH MONEY & MARVELOUS",
+        "style": "piece",
+        "seed": 1987002,
+        "palette": [
+          "#1B1B1A",
+          "#E5E51A",
+          "#C92C80",
+          "#F34E46",
+          "#3B3262"
+        ],
+        "paletteSource": "Where's The Party At? / Sleeping Bag TLX-42016 / X label TLX-42016X",
+        "paletteSourceUrl": "https://baseec-img-mng.akamaized.net/images/item/origin/676a31d2b9d54a9492fae487f7299e2b.jpg?im=Resize%2Cwidth%3D1280%2Ctype%3Dnormal&imformat=generic&q=90",
+        "paletteNote": "実際に目視確認した当該版ジャケットの配色を参照した編集上の近似値。ジャケット写真・ロゴは転載せず、独自の文字構成にしています。"
+      }
+    },
+    {
+      "title": "The Mighty Hard Rocker",
+      "artist": "Cash Money & Marvelous",
+      "year": 1988,
+      "yearBasis": "1988年の米国Sleeping Bag SLX40143と同年12月の同時代レビューを基準とする。英国での1989年展開、2015年の動画公開とは区別。",
+      "region": "Philadelphia",
+      "scene": "Philadelphia",
+      "category": "Hip Hop",
+      "album": "Where's the Party At?",
+      "label": "Sleeping Bag Records",
+      "deck": "米国では裏面、英国では表面。DJの切れ味が押し出した一曲。",
+      "essayTitle": "海を渡ってA面へ出たハード・ロッカー",
+      "essay": [
+        "「The Mighty Hard Rocker」は、米国の12インチでは「Find An Ugly Woman」のY面に収まった。ところが英国ではこの曲がA面へ回る。1989年1月のRecord Mirrorが、その面の入れ替わりをはっきり報じている。同じ二人の二曲でも、どちらを入口にするかでレコードの顔つきは変わる。クラブの反応をたどる面白さがここにある。",
+        "米国盤が入った1988年12月のレビューで、James Hamiltonは「Find An Ugly Woman」の軽快さと、この曲の強くうねる質感を対比し、後者にCash Moneyのミックス技術を見ていた。1988年の世界王者という肩書きが、歌の脇の紹介文だけに留まらない。DJの働きそのものが、シングルのもう一つの売りとして取り出されていたのである。",
+        "制作の裏側では、盤のジャケットにDJ Cash MoneyとJoe The Butcherの共同作業が刻まれる。プロデュースとミックスには二人、エンジニアにはJoeの名がある。Joe Nicolo本人の公式ディスコグラフィーもアルバムへの制作・録音・ミックス参加を記録する。ターンテーブルの技量とスタジオで形にする技術、その接点から捉えたい曲だ。",
+        "さらに原曲側から見ると、Jomod Music Publishingのサンプル使用一覧がこの曲をThe Metersの「Same Ol Thing」へ結び付ける。同じ一覧にはアルバムの「The Music Maker」も載る。表題の「Hard Rocker」をジャンル名として読むより、ファンクの素材をどう別の推進力へ変えたかを問うほうが、Cash Moneyの選曲眼へ近づける。"
+      ],
+      "sources": [
+        {
+          "label": "Sleeping Bag SLX40143オリジナル裏ジャケット（SOUL CLAP実物写真）",
+          "url": "https://soulclaprecord.com/html/upload/save_image/1013154556_6acdd3a4634ed.jpeg",
+          "kind": "オリジナル・ジャケットの写真／今回目視確認",
+          "supports": "Cash Money / Joe The Butcher production+mix、Joe engineering、all songs written Marvin Berryman。Saxophone Jammin Jay Davidsonは一括表記なのでMighty個別演奏とは断定しない。"
+        },
+        {
+          "label": "Record Mirror, 1989-01-14：Mighty Hard Rocker／アルバム評",
+          "url": "https://www.worldradiohistory.com/UK/Record-Mirror/80s/89/Record-Mirror-1989-01-14.pdf",
+          "kind": "同時代音楽誌",
+          "date": "1989-01-14",
+          "supports": "UKではMightyがA面。LPは前年クリスマス前に流通。Music MakerとUgly Remixのscratch/cutting評価。オリジナルとRemixを別掲。BPMは当時測定値。"
+        },
+        {
+          "label": "James Hamilton, Record Mirror 1988-12-03（アーカイブ転記）",
+          "url": "https://jameshamiltonsdiscopage.com/1988/12/03/december-3-1988-if-its-december-it-must-be-belgium-new-beat-report/",
+          "kind": "同時代レビューのアーカイブ転記",
+          "date": "1988-12-03",
+          "supports": "米SLX40143のX面FindとY面Mighty。両曲の性格を対比。"
+        },
+        {
+          "label": "NAMM Oral History：DJ Cash Money",
+          "url": "https://ww1.namm.org/library/oral-history/dj-cash-money",
+          "kind": "本人インタビューを伴う音楽産業史アーカイブ",
+          "date": "2012-11-16",
+          "supports": "Philadelphia、1988 DMC World Champion、Transformer scratch発展への関与。単独発明者と断定しない。"
+        },
+        {
+          "label": "Joe Nicolo公式ディスコグラフィー",
+          "url": "https://joenicolo.net/discography",
+          "kind": "制作当事者の公式資料",
+          "supports": "Where’s The Party At?にProducer/Engineer/Mixerとして参加。Jazzy Jeff & Fresh Prince作品にもengineering/mixとして掲載。"
+        },
+        {
+          "label": "Jomod Music Publishing：Metersサンプル使用一覧",
+          "url": "https://www.jomodmusicpublishing.com/credits/",
+          "kind": "原曲作家・演奏者側の音楽出版社資料",
+          "supports": "The Mighty Hard RockerとThe Music MakerはSame Ol Thingをsample。Mantronix King Of The Beatsも同曲を使用。位置や秒数は資料にない。"
+        },
+        {
+          "label": "SOUL CLAP：Find An Ugly Woman / The Mighty Hard Rocker",
+          "url": "https://soulclaprecord.com/index.php/products/detail/67073",
+          "kind": "オリジナル盤写真を伴う販売資料",
+          "supports": "1988US、FindVocal3:25/Inst3:25、MightyVocal4:26/Inst4:20。JimmyBoHorne引用は店の解説であり原盤のsample表記ではない。"
+        }
+      ],
+      "id": "cash-money-marvelous-the-mighty-hard-rocker",
+      "artists": [
+        "Cash Money & Marvelous"
+      ],
+      "producer": "DJ Cash Money / Joe The Butcher",
+      "producers": [
+        "DJ Cash Money",
+        "Joe The Butcher"
+      ],
+      "members": "Cash Money / Marvelous",
+      "essaySources": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          5
+        ]
+      ],
+      "facts": [],
+      "samples": [],
+      "sampleStatus": "個々のサンプル録音・版と音源リンクは未照合。本文では出典が示す関係だけを扱います。",
+      "connections": [
+        "cash-money-marvelous-ugly-people-be-quiet",
+        "cash-money-marvelous-ugly-people-be-quiet-dj-cash-money-remix"
+      ],
+      "listening": [
+        "Find An Ugly Womanと並ぶ12インチの構成から、当時の評者が描き分けた二曲の役割をたどりたい。"
+      ],
+      "moods": [
+        "グルーヴ"
+      ],
+      "sounds": [
+        "ラップ",
+        "スクラッチ"
+      ],
+      "collections": [
+        "east"
+      ],
+      "editorialCrates": [
+        "raw-beats"
+      ],
+      "context": "一枚の12インチに並ぶ二つの歌入り曲。原盤の構成と当時の評を手掛かりに、The Mighty Hard Rockerの位置を探る。",
+      "audioVerificationStatus": "投稿の曲名・チャンネル・説明情報を照合しています。日本での配信可否、埋め込み許可、再生時間、実再生は未確認です。",
+      "editorialStatus": "原盤資料・同時代記事・制作証言を出典付きで掲載。日本国内からの実再生と埋め込み再生は未確認。",
+      "noteReviewedAt": "2026-10-21",
+      "datePublished": "2026-10-21",
+      "addedOrder": 503,
+      "versionBasis": "1988年の米国Sleeping Bag SLX40143と同年12月の同時代レビューを基準とする。英国での1989年展開、2015年の動画公開とは区別。 掲載投稿の曲名・説明を照合した選定であり、盤との波形・マスタリング比較と実聴は行っていません。",
+      "youtube": {
+        "id": "YhWP1AL1JB4",
+        "url": "https://www.youtube.com/watch?v=YhWP1AL1JB4",
+        "title": "Cash Money & Marvelous - The Mighty Hard Rocker",
+        "channel": "Sleeping Bag / Fresh Records",
+        "type": "公式音源（レーベル／正規配信の掲載情報）",
+        "official": true,
+        "verified": "2026-10-21",
+        "embedUrl": "https://www.youtube.com/embed/YhWP1AL1JB4",
+        "playbackVerified": false,
+        "embeddedPlaybackVerified": false,
+        "version": "1988 vocal/original on US Y side, not instrumental or B&B Remix",
+        "versionBasis": "1988年の米国Sleeping Bag SLX40143と同年12月の同時代レビューを基準とする。英国での1989年展開、2015年の動画公開とは区別。 掲載投稿の曲名・説明を照合した選定であり、盤との波形・マスタリング比較と実聴は行っていません。",
+        "notice": "投稿の曲名・チャンネル・説明情報を照合しています。日本での配信可否、埋め込み許可、再生時間、実再生は未確認です。",
+        "verification": "投稿の曲名・チャンネル・説明情報を照合しています。日本での配信可否、埋め込み許可、再生時間、実再生は未確認です。"
+      },
+      "productionCreditNote": "DJ Cash Money / Joe The Butcher",
+      "art": {
+        "word": "THE MIGHTY HARD ROCKER",
+        "lines": [
+          "THE MIGHTY HARD ROCKER"
+        ],
+        "tag": "CASH MONEY & MARVELOUS",
+        "style": "piece",
+        "seed": 1987003,
+        "palette": [
+          "#1B1B1D",
+          "#F25439",
+          "#5EAA4E",
+          "#F0EA13",
+          "#EFEDDA",
+          "#126BC0"
+        ],
+        "paletteSource": "Find An Ugly Woman / The Mighty Hard Rocker / Sleeping Bag SLX40143",
+        "paletteSourceUrl": "https://soulclaprecord.com/html/upload/save_image/1013154556_6acdd3a43196f.jpeg",
+        "paletteNote": "実際に目視確認した当該版ジャケットの配色を参照した編集上の近似値。ジャケット写真・ロゴは転載せず、独自の文字構成にしています。"
+      }
+    }
+  ],
+  "deepdives": [
+    {
+      "artist": "Cash Money & Marvelous",
+      "title": "Ugly People Be Quiet",
+      "sections": [
+        {
+          "heading": "印刷クレジットと、後年の制作証言",
+          "text": "SLX-31の資料では、裏ジャケットにCash MoneyとHerby-Luv、盤面にHerbie Love Bug Azorという表記差がある。一方、2024年のKurtis Mantronikのインタビューでは、彼自身がこの曲のビートをCash Moneyへ渡したと回想し、Cash Moneyの同趣旨の発言も紹介される。盤面上の責任表示と、誰がビートを組んだかという証言は分けて読む必要がある。後者だけで前者を消さない。",
+          "sources": [
+            6,
+            7
+          ],
+          "source": "https://musicbase.net/cs/play-it-kool-ugly-people-be-quiet",
+          "sourceLabel": "Musicbase：SLX-31盤面／裏ジャケットのクレジット転記"
+        },
+        {
+          "heading": "ニューヨークのラジオへ届いた一枚",
+          "text": "Hip-Hop Radio Archiveには、1988年3月18日のWBLS「Mr. Magic’s Rap Attack」でこの曲が流れた記録がある。同じ番組にはLatee、Schoolly D、Eric B. & Rakimらも並ぶ。フィラデルフィアの二人の音源が、ニューヨークのラップ番組の選曲の中へ入っていく様子を、当時の放送単位でたどれる資料だ。ここで記録されている曲名は無印の「Ugly People Be Quiet」であり、リミックスの証拠としては流用しない。",
+          "sources": [
+            8
+          ],
+          "source": "https://hiphopradioarchive.org/show/1093",
+          "sourceLabel": "Hip-Hop Radio Archive：Mr. Magic’s Rap Attack, 1988-03-18"
+        }
+      ]
+    },
+    {
+      "artist": "Cash Money & Marvelous",
+      "title": "Ugly People Be Quiet (DJ Cash Money Remix)",
+      "sections": [
+        {
+          "heading": "2016年は新作年ではない",
+          "text": "採用候補のTopic音源には、The Orchard配信、原盤表示℗1988 Sleeping Bag、配信日2016年3月11日、動画公開日2016年9月17日が別々に示される。1989年1月の音楽誌にもすでにリミックス名が現れるため、作品年を2016年へ置き換えない。現行の長い版名「Dj Cash Money Remix」は、LPの「Remix」と担当者クレジットを結び付ける有用な表示である。",
+          "sources": [
+            2,
+            0,
+            1
+          ],
+          "source": "https://www.youtube.com/watch?v=PEeMLfn8e_8",
+          "sourceLabel": "The Orchard / Cash Money & Marvelous - Topic：Ugly People Be Quiet (Dj Cash Money Remix)"
+        },
+        {
+          "heading": "三つの「別バージョン」を混同しない",
+          "text": "1987年のSLX-31には「Ugly People Be Quiet」のClub VersionとDub Versionが入る。1988年LPのX7はそれらとは別に「Remix」として収録され、担当者も記されている。さらに無印版も同じLPのY1に残る。Dub、無印、DJ Cash Money Remixを曲名の似通いだけで統合せず、盤番号・面番号・バージョン名を一緒に見ることが、この曲を掘る近道になる。",
+          "sources": [
+            3,
+            0,
+            4
+          ],
+          "source": "https://musicbase.net/cs/play-it-kool-ugly-people-be-quiet",
+          "sourceLabel": "Musicbase：SLX-31盤面／裏ジャケットのクレジット転記"
+        }
+      ]
+    },
+    {
+      "artist": "Cash Money & Marvelous",
+      "title": "The Mighty Hard Rocker",
+      "sections": [
+        {
+          "heading": "VocalとInstrumentalも別々に追う",
+          "text": "米国SLX40143はX面に「Find An Ugly Woman」、Y面に「The Mighty Hard Rocker」を置き、それぞれVocalとInstrumentalを収録する。販売資料の曲目は後者を4分26秒と4分20秒で区別している。曲名が同じでも、歌入り・インスト・後年の別リミックスは同じ登録ではない。まず原盤の四曲構成を押さえると、検索で混在する音源の整理がしやすい。",
+          "sources": [
+            6,
+            0
+          ],
+          "source": "https://soulclaprecord.com/index.php/products/detail/67073",
+          "sourceLabel": "SOUL CLAP：Find An Ugly Woman / The Mighty Hard Rocker"
+        },
+        {
+          "heading": "Metersの一曲がつなぐ三つのタイトル",
+          "text": "原曲の作家・演奏者Joseph “Zigaboo” Modeliste側の出版社Jomodは、「The Mighty Hard Rocker」「The Music Maker」に加えて、Mantronixの「King Of The Beats」も「Same Old Thing」の使用例として挙げる。Cash MoneyとMantronikの仕事を、似た音という印象だけでなく、原曲側の記録から横につなげて掘れる。ただし資料は使用箇所の秒数や採取方法までは示していない。",
+          "sources": [
+            5
+          ],
+          "source": "https://www.jomodmusicpublishing.com/credits/",
+          "sourceLabel": "Jomod Music Publishing：Metersサンプル使用一覧"
+        }
+      ]
+    }
+  ],
+  "artEntries": [
+    {
+      "palette": [
+        "#6E950A",
+        "#F5C828",
+        "#32275C",
+        "#D62B7C",
+        "#171611"
+      ],
+      "paletteSource": "Play It Kool / Ugly People Be Quiet / Sleeping Bag SLX-31 / sleeve SLX 31",
+      "paletteSourceUrl": "https://www.vinylexchange.co.uk/cdn/shop/files/image_2049483_grande.jpg?v=1735920244",
+      "paletteNote": "実際に目視確認した当該版ジャケットの配色を参照した編集上の近似値。ジャケット写真・ロゴは転載せず、独自の文字構成にしています。",
+      "id": "cash-money-marvelous-ugly-people-be-quiet",
+      "status": "ready",
+      "image": "assets/graffiti/cash-money-marvelous-ugly-people-be-quiet-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    },
+    {
+      "palette": [
+        "#1B1B1A",
+        "#E5E51A",
+        "#C92C80",
+        "#F34E46",
+        "#3B3262"
+      ],
+      "paletteSource": "Where's The Party At? / Sleeping Bag TLX-42016 / X label TLX-42016X",
+      "paletteSourceUrl": "https://baseec-img-mng.akamaized.net/images/item/origin/676a31d2b9d54a9492fae487f7299e2b.jpg?im=Resize%2Cwidth%3D1280%2Ctype%3Dnormal&imformat=generic&q=90",
+      "paletteNote": "実際に目視確認した当該版ジャケットの配色を参照した編集上の近似値。ジャケット写真・ロゴは転載せず、独自の文字構成にしています。",
+      "id": "cash-money-marvelous-ugly-people-be-quiet-dj-cash-money-remix",
+      "status": "ready",
+      "image": "assets/graffiti/cash-money-marvelous-ugly-people-be-quiet-dj-cash-money-remix-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    },
+    {
+      "palette": [
+        "#1B1B1D",
+        "#F25439",
+        "#5EAA4E",
+        "#F0EA13",
+        "#EFEDDA",
+        "#126BC0"
+      ],
+      "paletteSource": "Find An Ugly Woman / The Mighty Hard Rocker / Sleeping Bag SLX40143",
+      "paletteSourceUrl": "https://soulclaprecord.com/html/upload/save_image/1013154556_6acdd3a43196f.jpeg",
+      "paletteNote": "実際に目視確認した当該版ジャケットの配色を参照した編集上の近似値。ジャケット写真・ロゴは転載せず、独自の文字構成にしています。",
+      "id": "cash-money-marvelous-the-mighty-hard-rocker",
+      "status": "ready",
+      "image": "assets/graffiti/cash-money-marvelous-the-mighty-hard-rocker-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    }
+  ],
+  "assets": [
+    {
+      "path": "assets/graffiti/cash-money-marvelous-ugly-people-be-quiet-alpha.webp",
+      "sha256": "a94db705740ea28ed4dd67ffc393a649b233981d554b4829beed1bf1f6ae375f",
+      "rgbaSHA256": "e49398228c05d5b37e46a28924440cf3f589d1cd6a9c8aa6002f4b036e03579b",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sourcePNG": "01-ugly-people-be-quiet-original.png"
+    },
+    {
+      "path": "assets/graffiti/cash-money-marvelous-ugly-people-be-quiet-dj-cash-money-remix-alpha.webp",
+      "sha256": "824d3e1dea69896f157e065ce64f1b79654a7c5ecf80f4150c72d956f959522f",
+      "rgbaSHA256": "85c599e7774376955b40b789e7f043188028716d6b00167c4ff43f865176e1e6",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sourcePNG": "02-ugly-people-be-quiet-dj-cash-money-remix.png"
+    },
+    {
+      "path": "assets/graffiti/cash-money-marvelous-the-mighty-hard-rocker-alpha.webp",
+      "sha256": "6e20242e10adfb3d331cacfd91e038510a4695c3c17cacce7fb81ddc33515ece",
+      "rgbaSHA256": "7184ab06dcc98a3e0cb4d5a7d193a5c9297e04e80ee9540031b5928754e7a17e",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sourcePNG": "03-the-mighty-hard-rocker.png"
+    }
+  ],
+  "protected": {
+    "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+    "editor_profile.json": "977a36f96e638d8d7fa925235ad9dc70c9e7607ae6d220a43b82b789c8746caa",
+    "listening_shelves.json": "26f634c98c577a68ab0b2e2a09472f759b9e20bb776931425ad6bed1d9880aa8"
+  }
+}
