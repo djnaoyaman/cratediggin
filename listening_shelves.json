@@ -631,16 +631,16 @@
           "shelf": "loop",
           "evidence": {
             "file": "tracks.json",
-            "field": "essay.0",
-            "quote": "同じピアノが戻ってくる。そのたびに少し違う景色が見えるように感じるのは、下を走るドラムに、こちらの体がついていくからだ。"
+            "field": "listening.0",
+            "quote": "ピアノ、George Marshの話し声、パーカッションを別々に追い、組み合わせを確かめる。"
           }
         },
         {
           "shelf": "drums",
           "evidence": {
             "file": "tracks.json",
-            "field": "essay.0",
-            "quote": "同じピアノが戻ってくる。そのたびに少し違う景色が見えるように感じるのは、下を走るドラムに、こちらの体がついていくからだ。"
+            "field": "listening.0",
+            "quote": "ピアノ、George Marshの話し声、パーカッションを別々に追い、組み合わせを確かめる。"
           }
         }
       ]
@@ -652,8 +652,8 @@
           "shelf": "arrangement",
           "evidence": {
             "file": "tracks.json",
-            "field": "essay.0",
-            "quote": "静かに構えたつもりでいると、音楽のほうが先に曲がっていく。StemとLong Stemを続けて聴く面白さは、その角を曲がる瞬間にある。"
+            "field": "listening.0",
+            "quote": "Stemについて本人が語った、ハードコア・ロックを意識したドラムの組み方。"
           }
         }
       ]
@@ -717,16 +717,16 @@
           "shelf": "loop",
           "evidence": {
             "file": "tracks.json",
-            "field": "essay.1",
-            "quote": "MF DOOMの言葉は、ビートにぴったり貼りつかず、自分の歩幅で進んでいく。その隣をループが回り続ける。"
+            "field": "listening.0",
+            "quote": "ExperienceとAccordionを続けて聴き、旋律と低音を別々に追う。"
           }
         },
         {
           "shelf": "voice",
           "evidence": {
             "file": "tracks.json",
-            "field": "essay.1",
-            "quote": "MF DOOMの言葉は、ビートにぴったり貼りつかず、自分の歩幅で進んでいく。その隣をループが回り続ける。"
+            "field": "listening.0",
+            "quote": "ExperienceとAccordionを続けて聴き、旋律と低音を別々に追う。"
           }
         }
       ]
