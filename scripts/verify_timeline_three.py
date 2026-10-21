@@ -1,6 +1,7 @@
 """Requested three-record append and directly generated output only."""
 from pathlib import Path
 import hashlib,json,sys
+from html import escape
 from PIL import Image
 from approved_timeline_three import F,historical_timeline_three_file
 R=Path(__file__).resolve().parents[1];sha=lambda b:hashlib.sha256(b).hexdigest()
@@ -44,8 +45,8 @@ baseline=json.loads((R/'scripts/fixtures/editorial-legacy-debt.json').read_text(
 if '--source-only' not in sys.argv:
  for t,d,a in zip(F['records'],F['deepdives'],F['artEntries']):
   D=R/'dist';p=(D/'tracks'/(t['id']+'.html')).read_text();md=(D/'songs'/(t['id']+'.md')).read_text()
-  assert t['essayTitle'] in p and t['essayTitle'] in md and t['essayTitle'] in (D/'readings/index.html').read_text()
-  assert all(x in p for x in t['essay']) and all(s['heading'] in p for s in d['sections'])
+  assert escape(t['essayTitle']) in p and t['essayTitle'] in md and escape(t['essayTitle']) in (D/'readings/index.html').read_text()
+  assert all(escape(x) in p for x in t['essay']) and all(escape(s['heading']) in p for s in d['sections'])
   assert '未確認' in p and a['image'] in p and 'DJ Naoyaman' in p
   assert '/tracks/'+t['id']+'.html' in (D/'sitemap.xml').read_text()
   with Image.open(D/'og'/(t['id']+'.jpg')) as im:assert im.size==(1200,630)
