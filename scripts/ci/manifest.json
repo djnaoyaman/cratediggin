@@ -3442,7 +3442,8 @@
       "scripts/fixtures/editorial-legacy-debt.json"
     ],
     "scripts/verify_cash_money_three_browser.cjs": [
-      "scripts/verify_visible_art_browser.cjs"
+      "scripts/verify_visible_art_browser.cjs",
+      "scripts/fixtures/approved-cash-money-three.json"
     ]
   },
   "policy_paths": [
