@@ -44,14 +44,11 @@
       "lettering": "subway",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "大声を出さなくても、街の空気は変えられる。ルー・リードのベースが歩き出し、そこへトライブが、いつもの調子で話しかける。",
-    "essayTitle": "大声を出さずに、扉を開ける。",
+    "deck": "有名なベースだけで説明しきれない一曲。素材を一つずつたどってみたい。",
+    "essayTitle": "ベースのほかにも、二枚のレコード",
     "essay": [
-      "名曲というものは、ときに紹介する側を困らせる。あまりに知られているので、何を言っても後づけに聞こえるからだ。ところがこの曲は、説明の到着など待っていない。あのベースが鳴った時点で、もうこちらの肩が少し動いている。身体は評論家より仕事が早い。",
-      "A Tribe Called Questの「Can I Kick It?」。1990年のデビュー作に収められた一曲である。原曲を知っていれば、ルー・リードの「Walk on the Wild Side」が顔を出す。知らなくても困らない。誰かの記憶を借りて、自分の記憶が始まる。サンプリングには、そういう妙な親切がある。",
-      "私が面白いと思うのは、ここに威圧よりも会話があることだ。マイクを持つと、人はつい何かを証明したくなる。自分は強い。自分は正しい。自分は特別だ。ところがトライブは、輪の外にいるこちらにも席をひとつ空けているように聞こえる。肩の力は抜けているのに、音の輪郭は少しもぼやけない。",
-      "古い音源の断片をつなぎ、違う時間を同じ場所に住まわせる。レコードを掘るというのは、結局、過去を保存するだけの行為ではないのだろう。過去のほうにも、まだ働いてもらうのである。しかもこんなに気持ちよく。",
-      "街を歩く。誰かと落ち合う。まだ用事は決まっていない。そんな時間に、これほどよく似合う曲もそう多くない。何十年も前の音楽なのに、今日の午後を少し新しくしてくれる。私には、そのくらいの効き目がちょうどいい。"
+      "「Can I Kick It?」の材料をLou Reedの「Walk on the Wild Side」だけで覚えているなら、もう二枚を加えたい。Bob Powerを取材したMixは、ドラムとハモンドの出所をDr. Lonnie Smith「Spinning Wheel」、ギターのスライド音をDr. Buzzard’s Original Savannah Band「Sun Shower」としている。",
+      "1990年のデビュー作で、この曲は「Bonita Applebum」の次に置かれている。まずベース、次は打楽器、さらに短く差し込む音へと注意を移してみたい。これは聴き方の提案だ。同じ一周の中でも、何を追うかで別のレコードとの接点が見つかる。"
     ],
     "facts": [
       {
@@ -113,11 +110,9 @@
       }
     ],
     "listening": [
-      "最初はベースの歩幅だけを追ってみる。次は、その隙間で働いているドラムへ。",
-      "声が近づいたり離れたりする距離感を聴く。ここから先は、編者の聴き方です。",
-      "曲を聴いたあとで、サンプル元へ戻る。同じ音なのに、景色が違って聞こえる。"
+      "ベースを追ったあと、ドラムや短く差し込む音へ注意を移してみる。"
     ],
-    "context": "Native Tonguesというつながりのなかで、ジャズやロックの素材と、ユーモアのあるラップが出会った。ニューヨークの一曲を、東海岸の型だけに閉じ込めずに聴いてみたい。",
+    "context": "Lou Reed以外の素材にも目を向け、制作取材から曲の組み合わせをたどる。",
     "sources": [
       {
         "label": "A Tribe Called Quest公式 — デビュー作のディスコグラフィー",
@@ -158,7 +153,15 @@
     "editorialCrates": [
       "jazz-mellow"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        0
+      ]
+    ]
   },
   {
     "id": "93-til-infinity",
@@ -1888,12 +1891,12 @@
       "lettering": "subway",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "「Mystic Brew」の作者Ronnie Fosterは、英国の音楽関係者からの電話でTribeによる使用を知った。原曲を探すリスナーとは逆に、作者が「Electric Relaxation」へたどり着いた話。",
-    "essayTitle": "自分の曲の行方を、レコードを買って確かめる。",
+    "deck": "書き手と声の関係から、二人の掛け合いを聴き直す。",
+    "essayTitle": "自分で書いた言葉を、相手がラップする",
     "essay": [
-      "サンプル元を探して古いレコードへ戻る。その逆向きの道を、Ronnie Fosterはたどっている。2022年7月公開のPostGenreのインタビューで、英国の音楽関係者からTribeの話を聞き、『Midnight Marauders』を買って「Electric Relaxation」を聴いたと回想した。自分の「Mystic Brew」が別の曲になっていたことを、作者自身もあとから確かめたのだ。",
-      "その発見を、初めから歓迎していたわけではない。同じ取材では、当初の抵抗感と、Blue Noteへ相談して対応してもらった経緯も語っている。これはFoster側の回想であり、契約内容を確定する資料ではない。音を受け継ぐことの面白さと、作り手がどう受け止めたかは、分けずに考えておきたい。",
-      "一方、同年8月公開のPassion of the Weissのインタビューでは、Ali Shaheed Muhammadを通じてQ-Tipと連絡を取り、約二時間話したことを喜んでいる。音の引用が先にあり、作り手同士の会話が後から追いついた。「Electric Relaxation」を原曲の紹介役としてだけでなく、作者が自作のその後に出会い直す場所として読むこともできる。"
+      "「Electric Relaxation」の掛け合いには、歌詞を交換するひと手間があった。2013年のXXLの取材でPhife Dawgは、Q-Tipと互いの言葉を書いたと言いかけてから、各自で書いたものを録音時に取り替えたのだと言い直している。誰が書いたかと、誰の声で聴こえるかが、単純には重ならない曲なのだ。",
+      "Phifeは、祖母宅の地下室でQ-Tipが作っていたビートを、帰宅時に耳にしたとも振り返る。これは完成録音の場所を示す話ではなく、制作途中の音に出会った記憶だ。",
+      "主要素材の「Mystic Brew」は、Ronnie Fosterの1972年作『Two Headed Freap』の曲。Blue Noteも本曲での使用を確認している。原曲へ戻る楽しみと同時に、Tribeでは声が替わる瞬間を追ってみるのもよい。"
     ],
     "facts": [
       {
@@ -1924,9 +1927,9 @@
     ],
     "sampleStatus": "代表的な素材を資料で確認",
     "listening": [
-      "「Electric Relaxation」から「Mystic Brew」へ戻ったら、似ている箇所を見つけるだけで終わらず、原曲を一曲通して聴く。切り取られた素材の外にも、Fosterの作品が続いている。"
+      "声の交代を追ったあと、Mystic Brewへ戻り、ベースの役割も比べてみる。"
     ],
-    "context": "低音の丸みを追っていると、声の置かれる場所にも余裕が聞こえてくる。題名どおりに力を抜きながら、その余裕がどこで生まれるかを探してみたい。",
+    "context": "Phifeの回想から、書いた言葉と録音した声の関係をたどる。",
     "sources": [
       {
         "label": "YouTube — A Tribe Called Quest / Electric Relaxation",
@@ -1947,6 +1950,16 @@
         "label": "Passion of the Weiss — Chris RobinsonによるRonnie Foster本人インタビュー、2022年8月1日",
         "url": "https://www.powmag.net/p/ronnie-foster-interview",
         "kind": "原曲作者本人のインタビュー"
+      },
+      {
+        "label": "XXL — Dan RysによるPhife Dawgの好きなTribe曲10選（2013年11月8日）",
+        "url": "https://www.xxlmag.com/phife-breaks-ten-favorite-tribe-called-quest-songs/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "A Tribe Called Quest公式 — Midnight Marauders",
+        "url": "https://atribecalledquest.com/blogs/discography/1993-midnight-marauders",
+        "kind": "公式ディスコグラフィー"
       }
     ],
     "producers": [
@@ -1974,13 +1987,13 @@
     "noteReviewedAt": "2026-10-17",
     "essaySources": [
       [
-        2
+        4
       ],
       [
-        2
+        4
       ],
       [
-        3
+        1
       ]
     ]
   },
@@ -2185,11 +2198,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "前へ進むビートに、軽快な声。歩く速度が少し上がる。",
-    "essayTitle": "声の弾みとループが揃える軽快な足取り",
+    "deck": "アルバムに入るかさえ迷っていた曲。Q-Tipが語るPalladiumの反応と、シングル写真の撮影場所。",
+    "essayTitle": "客席で試された「Award Tour」",
     "essay": [
-      "前へ進むビートに、軽快な声。歩く速度が少し上がる。",
-      "前へ進む感触を、音の速さだけで説明しないでおきたい。声の弾みとループの巡りが重なる瞬間を探すと、この曲の足取りが見えてくる。"
+      "「Award Tour」は、最初から先行シングルとして用意された曲ではなかった。Q-Tipは2008年の取材で、当初は「Oh My God」を先に出すつもりで、この曲がアルバムに入るかも自分には確信がなかったと振り返っている。完成後の代表曲という姿からは見えにくい、発売前の迷いが残る証言だ。",
+      "試す場所になったのは、ニューヨークのPalladium。Q-Tipによれば、The Beatnutsと共演したショーケースで「Oh My God」に続けて披露すると、観客は大きく反応した。シングルのジャケットに使われた写真も、その「Award Tour」の演奏中に撮られたものだという。ジャケットに残った一場面を、曲の来歴へたどることができる。",
+      "この話を手がかりに、聴くときは自分ならどこで反応するかを探してみたい。声が入るところか、同じフレーズが戻るところか。後から付いた名曲という評価をいったん外し、まだ客席に試されていた曲として向き合う。これは本人の回想から広げた聴き方で、当時の演奏を確認した記録ではない。"
     ],
     "facts": [
       {
@@ -2220,10 +2234,9 @@
     ],
     "sampleStatus": "代表的な素材を資料で確認",
     "listening": [
-      "前へ進むビートに、軽快な声。歩く速度が少し上がる。",
-      "Weldon Irvineの「We Gettin' Down」へ戻り、素材と完成した曲で音の役割がどう変わるかを確かめる。"
+      "発売前の披露についての証言を手がかりに、自分ならどの箇所で反応するかを探す。実再生による分析ではなく、編集上の聴き方。"
     ],
-    "context": "前へ進む感触を、音の速さだけで説明しないでおきたい。声の弾みとループの巡りが重なる瞬間を探すと、この曲の足取りが見えてくる。",
+    "context": "Q-Tipの回想から、発売前の披露とシングル写真の関係を読む。",
     "sources": [
       {
         "label": "YouTube — A Tribe Called Quest / Award Tour",
@@ -2234,6 +2247,11 @@
         "label": "A Tribe Called Quest - Award Tour: Single. CD | Rap Music Guide",
         "url": "https://www.rapmusicguide.com/cd/9679/a-tribe-called-quest-award-tour",
         "kind": "サンプル関係の調査資料"
+      },
+      {
+        "label": "AllHipHop — Q-Tip: The Catalog (2008年11月4日、本人インタビュー)",
+        "url": "https://allhiphop.com/features/q-tip-the-catalog/",
+        "kind": "participant_interview"
       }
     ],
     "producers": [
@@ -2253,7 +2271,16 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ],
+      []
+    ]
   },
   {
     "id": "a-tribe-called-quest-scenario",
@@ -2301,11 +2328,12 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "マイクが次々に渡るたび、輪の熱が上がっていく。",
-    "essayTitle": "マイクを渡すたびに変わるビートの表情",
+    "deck": "最後のヴァースだけでなく、その直前にも注目したい。",
+    "essayTitle": "Bustaの登場を、Q-Tipは自分のヴァースから準備した",
     "essay": [
-      "マイクが次々に渡るたび、輪の熱が上がっていく。",
-      "声が替わるたびに、同じビートの表情まで変わって聞こえる。誰がいちばん目立つかに加えて、次の人へ熱を渡す瞬間も楽しみたい。"
+      "「Scenario」でBusta Rhymesを追うなら、その前のQ-Tipのパートから聴きたい。2012年のXXLでBustaは、そこに挟まる自分の部分をQ-Tipが書いたと明かしている。登場を予告する仕掛けだ。最後のヴァース全体をQ-Tipが書いた、という話ではない。",
+      "同じ回想では、制作中に参加者が増え、Q-TipがTribeとLeaders of the New Schoolだけに絞り直したという。そこでラップを改稿し、Bustaの内容を聴いたQ-Tipが最後に置くと決めた。完成形は、集まった声をそのまま並べただけではなかった。",
+      "1991年の『The Low End Theory』では最後の曲にあたる。声が交代する前に、次のラッパーを迎える部分へも耳を向けてみたい。"
     ],
     "facts": [
       {
@@ -2319,14 +2347,24 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "マイクが次々に渡るたび、輪の熱が上がっていく。"
+      "Q-TipのパートからBustaの最後のヴァースまで、次の声を迎える部分に注目する。"
     ],
-    "context": "声が替わるたびに、同じビートの表情まで変わって聞こえる。誰がいちばん目立つかに加えて、次の人へ熱を渡す瞬間も楽しみたい。",
+    "context": "Bustaの登場と最後のヴァースを分け、制作時に決められた声の順序を読む。",
     "sources": [
       {
         "label": "YouTube — A Tribe Called Quest / Scenario",
         "url": "https://www.youtube.com/watch?v=Q6TLWqn82J4",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "XXL — Busta RhymesがShaheem Reidに語る「Scenario」（2012年3月9日）",
+        "url": "https://www.xxlmag.com/busta-rhymes-remember-a-tribe-called-quests-scenario-20-years-later/",
+        "kind": "参加者本人の回想取材"
+      },
+      {
+        "label": "A Tribe Called Quest公式 — The Low End Theory",
+        "url": "https://atribecalledquest.com/blogs/discography/1991-the-low-end-theory",
+        "kind": "公式ディスコグラフィー"
       }
     ],
     "producers": [
@@ -2349,7 +2387,18 @@
       "mic-skills"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "a-tribe-called-quest-bonita-applebum",
@@ -2397,11 +2446,12 @@
       "lettering": "tag",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "柔らかな反復と、近い声。強さとは違う魅力の入口。",
-    "essayTitle": "語りかける声を包む、柔らかな反復",
+    "deck": "Q-Tipは初めからあの語り口で歌っていたわけではない。Miles Davisが語る「間」を読み、自分のラップも組み直した。",
+    "essayTitle": "普通のラップから、会話のような歌い方へ",
     "essay": [
-      "柔らかな反復と、近い声。強さとは違う魅力の入口。",
-      "近くで話すような声を、柔らかな反復が受け止めている。力強く迫る曲の隣に置くと、この距離の近さがいっそうよくわかる。"
+      "「Bonita Applebum」の語りかけるような歌い方には、作り直した過程がある。Q-TipはRed Bull Music Academyの講演で、最初は通常のラップとして作り、後から会話のような語り口に組み直したと説明している。その頃に読んだMiles Davisのインタビューが、音と音の間を意識する手掛かりになったという。",
+      "曲そのものの始まりは、さらに早い。Sony Music掲載のインタビューでAli Shaheed Muhammadは、最初に作ったのは1985年、再録したのは1989年と振り返っている。残っていたのは基本の発想で、歌詞もトラックも大きく変わった。1990年のアルバムに入った形を、そのまま高校時代のデモだと思わないほうがよい。",
+      "二つの回想を踏まえて、次の言葉までの間にも耳を向けてみたい。1989年の再録と語り口の変更が同じ時期だったかは、資料からは確定できない。"
     ],
     "facts": [
       {
@@ -2426,10 +2476,9 @@
     ],
     "sampleStatus": "代表的な素材を資料で確認",
     "listening": [
-      "柔らかな反復と、近い声。強さとは違う魅力の入口。",
-      "RAMPの「Daylight」へ戻り、素材と完成した曲で音の役割がどう変わるかを確かめる。"
+      "声が続く場所と、次の言葉まで待つ場所をそれぞれ追ってみる。"
     ],
-    "context": "近くで話すような声を、柔らかな反復が受け止めている。力強く迫る曲の隣に置くと、この距離の近さがいっそうよくわかる。",
+    "context": "初期版と再録、語り口の変更について、二人の回想を分けて読む。",
     "sources": [
       {
         "label": "YouTube — A Tribe Called Quest / Bonita Applebum",
@@ -2440,6 +2489,21 @@
         "url": "https://www.allmusic.com/song/bonita-applebum-mt0004442475",
         "label": "AllMusic — Bonita Applebum楽曲評／RAMPのDaylight",
         "kind": "楽曲評・サンプル解説（二次資料）"
+      },
+      {
+        "label": "Red Bull Music Academy — Q-Tip講演書き起こし",
+        "url": "https://www.redbullmusicacademy.com/lectures/q-tip/",
+        "kind": "Q-Tip本人の講演"
+      },
+      {
+        "label": "Sony Music — Ali Shaheed Muhammadインタビュー全文",
+        "url": "https://www.sonymusic.co.jp/artist/ATribeCalledQuest/info/461912",
+        "kind": "公式掲載の本人インタビュー"
+      },
+      {
+        "label": "A Tribe Called Quest公式 — 1990年作曲目",
+        "url": "https://atribecalledquest.com/blogs/discography/1990-people-s-instinctive-travels-and-the-paths-of-rhythm",
+        "kind": "公式ディスコグラフィー"
       }
     ],
     "producers": [
@@ -2463,7 +2527,19 @@
       "jazz-mellow"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [
+        2,
+        3
+      ]
+    ]
   },
   {
     "id": "a-tribe-called-quest-jazz-we-ve-got",
@@ -2608,11 +2684,12 @@
       "lettering": "stencil",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "ホーンの余韻に、記憶が寄り添う。明るさの中にも深さがある。",
-    "essayTitle": "明るいホーンに重なる、低音と声の切なさ",
+    "deck": "原曲を知っていても、聴く場所が変われば発見がある。",
+    "essayTitle": "同じレコードの、別の場所へ",
     "essay": [
-      "ホーンの余韻に、記憶が寄り添う。明るさの中にも深さがある。",
-      "ホーンの明るさに引かれたあとで、低音と声の重さへ戻ってみる。晴れたように響く音が、どこか切なくも聞こえる。その重なりを急いでほどかずにいたい。"
+      "「T.R.O.Y.」のホーンは、誰も知らないレコードから見つかったわけではない。Pete RockはWax Poeticsで、Black Sheepが先に冒頭を使ったTom Scottのレコードをさらに聴き進め、あの音を見つけたと振り返っている。",
+      "同じ取材でPeteは、亡くなった親友Trouble T-Royへの悲しみの中でビートを作ったと語る。有名な素材を選んだという話だけではなく、レコードのどこに自分の気持ちが重なったのか、という制作の記憶でもある。",
+      "原曲へ戻るときは、知っている部分を見つけて終わらず、その先も聴いてみたい。一枚のレコードに、まだ別の曲の入口が残っているかもしれない。"
     ],
     "facts": [
       {
@@ -2625,11 +2702,11 @@
     ],
     "samples": [
       {
-        "artist": "Tom Scott",
+        "artist": "Tom Scott with The California Dreamers",
         "title": "Today",
         "year": 1967,
         "main": true,
-        "role": "ホーンを含む主要素材。細かな切り出し位置は未検証。",
+        "role": "使用箇所の秒位置は未検証。",
         "sources": [
           1
         ]
@@ -2637,10 +2714,9 @@
     ],
     "sampleStatus": "代表的な素材を資料で確認",
     "listening": [
-      "ホーンの余韻に、記憶が寄り添う。明るさの中にも深さがある。",
-      "Tom Scottの「Today」へ戻り、素材と完成した曲で音の役割がどう変わるかを確かめる。"
+      "原曲を途中で止めずに聴き、気になる箇所を探してみる。"
     ],
-    "context": "ホーンの明るさに引かれたあとで、低音と声の重さへ戻ってみる。晴れたように響く音が、どこか切なくも聞こえる。その重なりを急いでほどかずにいたい。",
+    "context": "素材の探し方を手掛かりに、曲の制作背景を読む。",
     "sources": [
       {
         "label": "YouTube — Pete Rock & C.L. Smooth / They Reminisce Over You (T.R.O.Y.)",
@@ -2648,9 +2724,19 @@
         "kind": "公式配信情報"
       },
       {
-        "label": "Binary Star's 'Conquistadors' sample of Pete Rock & C.L. Smooth's 'They Reminisce Over You (T.R.O.Y.)' | WhoSampled",
-        "url": "https://www.whosampled.com/sample/67323/Binary-Star-Conquistadors-Pete-Rock-%26-C.L.-Smooth-They-Reminisce-Over-You-%28T.R.O.Y.%29/",
-        "kind": "サンプル関係の調査資料"
+        "label": "DJBooth — Pete Rock Beat Break interview (2018)",
+        "url": "https://djbooth.net/features/2018-10-25-pete-rock-beat-break-interview/",
+        "kind": "当事者インタビュー"
+      },
+      {
+        "label": "Wax Poetics — Primary Colors / Pete Rock interview",
+        "url": "https://magazine.waxpoetics.com/article/pete-rock-primary-colors/",
+        "kind": "当事者インタビュー"
+      },
+      {
+        "label": "Rhino — Mecca and the Soul Brother 25th anniversary",
+        "url": "https://www.rhino.com/article/happy-25th-pete-rock-and-cl-smooth-mecca-and-the-soul-brother",
+        "kind": "レーベル解説"
       }
     ],
     "producers": [
@@ -2672,7 +2758,16 @@
       "jazz-mellow"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ],
+      []
+    ]
   },
   {
     "id": "pete-rock-c-l-smooth-straighten-it-out",
@@ -2720,11 +2815,12 @@
       "lettering": "subway",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "声とループが同じ方向へ跳ねる。ファンクの腰を追いたい。",
-    "essayTitle": "声かループか、跳ねるファンクの主役を追う",
+    "deck": "125丁目に並んだ海賊版カセット。PeteとCLは、その問題をシングルの題材にした。",
+    "essayTitle": "海賊版カセットに向けた「Straighten It Out」",
     "essay": [
-      "声とループが同じ方向へ跳ねる。ファンクの腰を追いたい。",
-      "跳ねる感触を、声とループのどちらが引っ張っているかを考えながら聴く。一周するたびに主役が入れ替わるようなら、その行き来もグルーヴなのだと思う。"
+      "「Straighten It Out」が扱うのは、音楽が売れる街で、作った人にお金が戻らないという問題だ。Pete RockはXXLで、当時の125丁目には海賊版のヒップホップ・カセットを売る人が並んでいたと振り返る。その状況を曲にして、きちんと取り上げようとしたのが出発点だった。",
+      "素材となったErnie Hinesの「Our Generation」には、もともと政治的な呼びかけがある。再発を手がけたAce Recordsも、その性格とPeteによる使用を紹介している。Pete自身も、元の歌詞の深さをヒップホップでどう伝えるか考えたと説明しており、気に入った音だけを借りた話ではない。",
+      "CL Smoothは後年、この曲について問われ、自分の声が届くなら中身のあることを言いたい、と答えている。サンプリングで先人の音を次の作品へ渡しながら、無断複製には異議を唱える。二つを同じ「コピー」で片づけないところに、この曲を読み直す面白さがある。"
     ],
     "facts": [
       {
@@ -2741,9 +2837,10 @@
         "title": "Our Generation",
         "year": 1972,
         "main": true,
-        "role": "主要なファンクの素材。細かな切り出し位置は未検証。",
+        "role": "Ace Recordsが使用を紹介する素材。同資料の曲名表記には誤りがあり、曲の来歴はPete Rockの取材と照合。切り出し位置は未検証。",
         "sources": [
-          1
+          1,
+          2
         ],
         "youtube": {
           "id": "HtQG78vvVR0",
@@ -2755,10 +2852,9 @@
     ],
     "sampleStatus": "代表的な素材を資料で確認",
     "listening": [
-      "声とループが同じ方向へ跳ねる。ファンクの腰を追いたい。",
-      "Ernie Hinesの「Our Generation」へ戻り、素材と完成した曲で音の役割がどう変わるかを確かめる。"
+      "元の曲と完成した曲を比べ、呼びかけが向かう相手や主題に注目する。"
     ],
-    "context": "跳ねる感触を、声とループのどちらが引っ張っているかを考えながら聴く。一周するたびに主役が入れ替わるようなら、その行き来もグルーヴなのだと思う。",
+    "context": "海賊版カセットについての制作回想と、素材の来歴を分けて読む。",
     "sources": [
       {
         "label": "YouTube — Pete Rock & C.L. Smooth / Straighten It Out",
@@ -2766,9 +2862,24 @@
         "kind": "公式配信情報"
       },
       {
-        "label": "New Releases - 3/6/26 — Grimey's New & Preloved Music",
-        "url": "https://www.grimeys.com/new-releases/3-6-26",
-        "kind": "サンプル関係の調査資料"
+        "label": "Ace Records / BGP — Ernie Hines: Electrified",
+        "url": "https://acerecords.co.uk/electrified",
+        "kind": "再発レーベル解説"
+      },
+      {
+        "label": "XXL — Pete Rock on Mecca and the Soul Brother (2012)",
+        "url": "https://www.xxlmag.com/pete-rock-speaks-on-20th-anniversary-of-mecca-and-the-soul-brother/",
+        "kind": "当事者インタビュー"
+      },
+      {
+        "label": "Skiddle — CL Smooth interview (2017)",
+        "url": "https://www.skiddle.com/news/all/CL-Smooth-Interview-Straightening-it-out/32238/",
+        "kind": "当事者インタビュー"
+      },
+      {
+        "label": "Apple Music — Straighten It Out / Mecca and the Soul Brother",
+        "url": "https://music.apple.com/us/song/217509393",
+        "kind": "配信情報"
       }
     ],
     "producers": [
@@ -2787,7 +2898,20 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ]
   },
   {
     "id": "pete-rock-c-l-smooth-take-you-there",
@@ -8510,7 +8634,7 @@
     ],
     "album": "Stakes Is High",
     "label": "個別確認中",
-    "producer": "J Dilla",
+    "producer": "J Dilla (Jay Dee) / De La Soul",
     "members": "De La Soul",
     "youtube": {
       "id": "Wzc5Pz3SPUE",
@@ -8541,11 +8665,12 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "首を動かすビートと、耳を止める言葉。",
-    "essayTitle": "首を揺らす拍と、聞き流せない言葉の緊張",
+    "deck": "業界への不満だけではない。De La自身の迷いに、Dillaのビートが形を与えた。",
+    "essayTitle": "Dillaのビートで問い直した、自分たちの居場所",
     "essay": [
-      "首を動かすビートと、耳を止める言葉。",
-      "首が動く拍を追いながら、声に耳を戻す。ビートの気持ちよさと言葉の緊張が同居するから、聞き流すことと聴き込むことの間を行き来できる。"
+      "「Stakes Is High」は、ヒップホップの現状を外から裁くだけの曲ではない。PosdnuosはXXLのインタビューで、自分のヴァースは世界や暮らしを、Daveのヴァースは業界への不満を扱ったと説明している。同時に問われていたのは、De La Soulがその時代に何を意味するのか、という自分たちの居場所だった。",
+      "タイトル曲の構想は、Dillaのビートを選ぶ前からあった。Posは自作のトラックで一度ラップしていたが、決め手に欠けると感じていたという。転機はQ-Tipの家で聴いたDillaのテープ。気に入ったと悟られないよう反応を抑え、席を外してDaveに電話した、とOkayplayerで振り返っている。",
+      "配信クレジットのプロデューサー表記はJay DeeとDe La Soul。Dillaとの出会いを、言葉まで外から与えられた話にする必要はない。先にあった問いに、探していた音が合った。その制作順序を知ると、この曲の切実さを、単なる懐古や他者への批判だけでは片づけられなくなる。"
     ],
     "facts": [
       {
@@ -8559,18 +8684,34 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "首を動かすビートと、耳を止める言葉。"
+      "PosとDaveがそれぞれ何に問いを向けているか、言葉の主題を分けて追う。"
     ],
-    "context": "首が動く拍を追いながら、声に耳を戻す。ビートの気持ちよさと言葉の緊張が同居するから、聞き流すことと聴き込むことの間を行き来できる。",
+    "context": "先にあったタイトル曲の構想と、後から選ばれたビートの関係を読む。",
     "sources": [
       {
         "label": "YouTube — De La Soul / Stakes Is High",
         "url": "https://www.youtube.com/watch?v=Wzc5Pz3SPUE",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "XXL — Posdnuos / Dave interview (2011)",
+        "url": "https://www.xxlmag.com/train-of-thought-de-la-souls-stakes-is-high-15-years-later/",
+        "kind": "当事者インタビュー"
+      },
+      {
+        "label": "Okayplayer — Posdnuos / Maseo interview (2023)",
+        "url": "https://www.okayplayer.com/de-la-soul-on-how-j-dilla-invented-the-modern-beat-tape/363058",
+        "kind": "当事者インタビュー"
+      },
+      {
+        "label": "Apple Music — Stakes Is High credits",
+        "url": "https://music.apple.com/us/song/1674203786",
+        "kind": "配信クレジット"
       }
     ],
     "producers": [
-      "J Dilla"
+      "J Dilla",
+      "De La Soul"
     ],
     "connections": [
       "Native Tongues"
@@ -8584,7 +8725,19 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ]
   },
   {
     "id": "de-la-soul-breakadawn",
@@ -8601,7 +8754,7 @@
     ],
     "album": "Buhloone Mindstate",
     "label": "個別確認中",
-    "producer": "Prince Paul",
+    "producer": "De La Soul / Prince Paul",
     "members": "De La Soul",
     "youtube": {
       "id": "uxJDkVgSBaY",
@@ -8632,11 +8785,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "柔らかな断片が、記憶と現在をつなぐ。",
-    "essayTitle": "懐かしい断片に、いまの声が入る",
+    "deck": "完成していたビートを取り戻し、シングルへ。Posの組み合わせの発想からたどる「Breakadawn」。",
+    "essayTitle": "Michael JacksonとSmokey Robinsonを、Posがつないだ",
     "essay": [
-      "柔らかな断片が、記憶と現在をつなぐ。",
-      "柔らかな断片が巡るところに、声が新しい時間を持ち込む。懐かしく聞こえる響きの中で、何が現在の曲を作っているかを聴きたい。"
+      "「Breakadawn」の組み合わせを考えたのはPosdnuosだった。Soul Sidesに掲載された本人の回想では、Smokey Robinsonの歌声と、部屋のターンテーブルにあったMichael Jacksonの「I Can't Help It」が頭の中で結びついた。そこに「Yes We Can Can」のビートを合わせたという。",
+      "そのトラックは、もともとDe Laのアルバム用ではなかった。Prince Paulと関わりのあったMike Teluxeのために作ったものの、使われないまま残っていた。『Buhloone Mindstate』の制作終盤、レーベルがラジオ向けの曲を求めた際に取り戻し、シングル候補にした、とPosは説明している。",
+      "配信クレジットにはDe La SoulとPrince Paulがプロデューサーとして並ぶ。だから、Posが素材を組んだという制作の内側と、作品としての共同クレジットは分けて読んでおきたい。名の知れた曲を使ったというだけでなく、別々に存在していた声やビートを合わせる判断と、使い道の変化まで見える一曲だ。"
     ],
     "facts": [
       {
@@ -8650,17 +8804,28 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "柔らかな断片が、記憶と現在をつなぐ。"
+      "声とビートを別々に追い、組み合わせの発想を手掛かりに聴いてみる。"
     ],
-    "context": "柔らかな断片が巡るところに、声が新しい時間を持ち込む。懐かしく聞こえる響きの中で、何が現在の曲を作っているかを聴きたい。",
+    "context": "Posの素材選びと、別の歌い手向けだったトラックの使い道の変化をたどる。",
     "sources": [
       {
         "label": "YouTube — De La Soul / Breakadawn",
         "url": "https://www.youtube.com/watch?v=uxJDkVgSBaY",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Soul Sides — Buhloone Bonus Beats / Oliver Wang's original interviews",
+        "url": "https://soul-sides.com/2013/12/buhloone-bonus-beats.html",
+        "kind": "制作者による一次取材・当事者インタビュー"
+      },
+      {
+        "label": "Apple Music — Breakadawn credits",
+        "url": "https://music.apple.com/us/song/1664590462",
+        "kind": "配信クレジット"
       }
     ],
     "producers": [
+      "De La Soul",
       "Prince Paul"
     ],
     "connections": [
@@ -8680,7 +8845,19 @@
       "funk-soul"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ]
   },
   {
     "id": "black-sheep-the-choice-is-yours-revisited",
@@ -60522,26 +60699,26 @@
     "region": "Long Island",
     "scene": "Amityville / Long Island",
     "label": "Tommy Boy Records",
-    "essayTitle": "自分たちらしさが、ラジオへ出る。",
-    "deck": "Maseoが持ち込んだファンクと、Prince Paulが加えたドラム。1989年の一曲から、2023年に聴ける場所が戻るまで。",
+    "essayTitle": "注文から生まれた曲にも、好きな音があった",
+    "deck": "レーベルの注文と、以前から使いたかった素材。MaseoとDaveの証言から、ヒット曲の生まれ方を読み直す。",
     "essay": [
-      "「Me Myself and I」の明るさは、聴く側へ身構える時間をあまり与えない。軽く跳ねる反復と、するりと口に戻ってくるタイトル。陽気な入口をくぐってから、自分たちの立ち位置をちゃんと伝える。大きな宣言を、普段着のまま言える曲だ。",
-      "Prince Paulは1990年の取材で、レーベルから親しみやすい曲を求められ、Maseoが「Knee Deep」を提案したと話している。そこへPaulがドラムと構成を加えた。PosとTrugoyは最初、商業的すぎると感じたという。すんなり生まれたヒットというより、いつもの自分たちと外の耳をすり合わせた結果だった。",
-      "初出は1989年の『3 Feet High and Rising』。年表でこの曲を2023年にもたどるのは、新曲として生まれ直したからではない。Reservoirが初期6作品の配信再開を知らせたとき、この曲も代表的な収録曲として挙げられた。作られた年と、広く聴けるようになった年が、離れて存在している。",
-      "ポップな曲だけを聴いて、その人たちの全部がわかった気になるのは、入口で家の間取りを決めるようなものだ。Prince Paul自身も、ラジオ向けのこの曲と、アルバム全体の実験や楽しさを分けて振り返っている。親しみやすさを頼りに入って、次の曲で少し迷ってみる。その順番も悪くない。"
+      "「Me Myself and I」の出発点には、Maseoが持ち込んだ「Knee Deep」があった。Prince Paulは1990年の取材で、レーベルがもっと親しみやすい曲を求めたため、この素材を使い、ドラムと構成を加えたと説明している。最初に聴いたPosとTrugoyは、商業的すぎると感じたという。",
+      "ただし、これを単に「作りたくなかったヒット曲」で終わらせると、本人たちの気持ちを取りこぼす。GQの取材では、Maseoは以前からこの素材を使いたかったと話し、Daveもサンプリングできてよかったと振り返る。レーベルの注文と、好きなレコードを使う喜びは、同じ曲の中にあった。",
+      "制作をPrince Paul一人の仕事にまとめないことも大切だ。Maseoは2013年の取材で、この曲のアイデアを持ち込んだのは自分だったと説明している。曲を聴く入口として、素材を選ぶ仕事と、それを曲に組み立てる仕事を分けて考えてみると、共同制作の中身が少し具体的になる。",
+      "対象は1989年の『3 Feet High and Rising』に収められた曲。2023年は、初期カタログがストリーミングにそろった年だ。Reservoirの当日告知でも、この二つの年は分けられている。現在の配信版へ進むときも、新曲や別のリミックスが1989年版に置き換わったとは扱わない。"
     ],
     "essaySources": [
-      [],
       [
         3
       ],
       [
-        0,
-        1,
-        2
+        8
       ],
       [
-        5
+        4
+      ],
+      [
+        2
       ]
     ],
     "sources": [
@@ -60584,12 +60761,22 @@
         "label": "Reservoir（先行資料の配信元記録。今回未再取得） — Me Myself and I（以前の配信メタデータ確認）",
         "url": "https://www.youtube.com/watch?v=a0ZhDbZIbiM",
         "kind": "inherited_label_delivery_metadata"
+      },
+      {
+        "label": "GQ — De La Soul Picks Their Favorite (and/or Most Hated) Tracks（本人たちのインタビュー）",
+        "url": "https://www.gq.com/story/de-la-soul-albums-streaming-favorite-songs-dave-jolicoeur-trugoy-the-dove",
+        "kind": "participant_interview"
+      },
+      {
+        "label": "Radio Milwaukee — De La Soul’s Maseo: The dream became real life and kept going（2023年4月25日）",
+        "url": "https://radiomilwaukee.org/discover-music/artist-interviews/2023-04-25/de-la-soul-maseo-interview",
+        "kind": "participant_interview"
       }
     ],
     "samples": [],
     "sampleStatus": "本調査は3曲の版・制作史・年表との関係を中心に照合しました。サンプル一覧を網羅したものではなく、未照合の素材を推測で追加していません。",
     "listening": [
-      "タイトルの反復が、細かなラップの区切りをどう受け止めるかを追う。"
+      "素材選びと構成づくりを別々の仕事として考え、共同制作の来歴から曲へ戻る。実再生による分析ではなく、編集上の聴き方。"
     ],
     "moods": [
       "グルーヴ",
@@ -60605,7 +60792,7 @@
       "De La Soul"
     ],
     "category": "Hip Hop",
-    "context": "グループ内の素材提案とPrince Paulの構成づくりを、当事者の異なる証言から重ねて読む。",
+    "context": "商業性への戸惑いと、素材への愛着。異なる時期の当事者証言を重ねて読む。",
     "facts": [
       {
         "title": "掲載音源の版と確認範囲",

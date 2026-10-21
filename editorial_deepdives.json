@@ -35,26 +35,7 @@
   {
     "artist": "A Tribe Called Quest",
     "title": "Can I Kick It?",
-    "sections": [
-      {
-        "heading": "元ネタの核心：二重に録音されたベース",
-        "text": "曲の土台となるLou Reed「Walk on the Wild Side」のベースは、Herbie Flowersがアップライトベースとエレクトリックベースを重ねた録音で知られる。低音がゆったり動く一方で、ラップとコール＆レスポンスが軽やかに乗る。まず両曲の冒頭を聴き比べると、引用によって楽曲の印象がどう変わるか分かる。",
-        "source": "https://www.ethanhein.com/wp/2023/can-i-kick-it/",
-        "sourceLabel": "Ethan Hein：音楽理論とサンプリングの分析"
-      },
-      {
-        "heading": "サンプリングと権利の歴史",
-        "text": "この曲はサンプル使用に伴う出版権・印税の交渉でも語られてきた。Phife Dawgはインタビューで、Lou Reed側への権利配分によって自分たちに収益が残らなかったと説明している。契約の全条項を独立に確認できるわけではないため、当事者の証言として読むのが適切だ。",
-        "source": "https://www.nme.com/news/music/a-tribe-called-quest-9-1195132",
-        "sourceLabel": "NME Japan：Phife Dawgの発言を報道"
-      },
-      {
-        "heading": "聴きどころ：問いかけと余白",
-        "text": "『Can I Kick It?』の魅力は、強く押し出すビートより、問いかけに応える声の掛け合いにある。原曲のベースが作る余白に、仲間同士の会話のようなラップが置かれる。元ネタを知ったあとで聴き直すと、引用が単なる懐古ではなく新しいコミュニケーションに変わる瞬間を味わえる。これは編集上の聴取提案である。",
-        "source": "https://www.ethanhein.com/wp/2023/can-i-kick-it/",
-        "sourceLabel": "Ethan Hein：曲の構成分析"
-      }
-    ]
+    "sections": []
   },
   {
     "artist": "Public Enemy",
@@ -4006,23 +3987,13 @@
     "title": "Me Myself and I",
     "sections": [
       {
-        "heading": "共同制作の中にいた、DJの仕事",
-        "text": "Maseoは2013年の取材で、この曲のアイデアを持ち込んだのは自分だったと話す。同時に、グループ名でまとめられたクレジットでは個々の仕事が見えにくかったとも振り返る。Prince Paulの役割を小さくするためではなく、制作を一人の名前に集約しないために残したい証言だ。",
+        "heading": "シングル盤にも、ひと工夫",
+        "text": "2023年のRadio Milwaukeeの取材では、「3面ある」シングル盤の話題になると、Maseoはそれが「Me Myself and I」だと応じ、Tommy Boyの発案をたたえている。曲だけでなく盤の作りにも遊びを持ち込んだ例だ。ただし、ここでは溝の仕組みや特定プレスの仕様までは断定しない。",
         "sources": [
-          4
+          9
         ],
-        "source": "https://cultmtl.com/2013/10/maseo/",
-        "sourceLabel": "Cult MTL — Maseo本人への取材（2013）"
-      },
-      {
-        "heading": "1989と2023は、別々の時計",
-        "text": "Apple Musicの標準盤ページは発売年を1989年としつつ、権利表記に2023年のA.O.I.／Chrysalisを置いている。Reservoirの発表でも配信開始日は2023年3月3日。現在の配信日だけを拾うと、曲が34歳若返ってしまう。初出と再発を別に記録する理由が、ここでははっきり見える。",
-        "sources": [
-          6,
-          2
-        ],
-        "source": "https://music.apple.com/us/album/3-feet-high-and-rising/1657705063",
-        "sourceLabel": "Apple Music — 3 Feet High and Rising標準盤"
+        "source": "https://radiomilwaukee.org/discover-music/artist-interviews/2023-04-25/de-la-soul-maseo-interview",
+        "sourceLabel": "Radio Milwaukee — De La Soul’s Maseo: The dream became real life and kept going（2023年4月25日）"
       }
     ]
   },
@@ -4390,5 +4361,45 @@
         "sourceLabel": "XXL — Illmatic制作陣の証言／One Loveのサンプル"
       }
     ]
+  },
+  {
+    "artist": "A Tribe Called Quest",
+    "title": "Bonita Applebum",
+    "sections": []
+  },
+  {
+    "artist": "A Tribe Called Quest",
+    "title": "Electric Relaxation",
+    "sections": []
+  },
+  {
+    "artist": "A Tribe Called Quest",
+    "title": "Scenario",
+    "sections": []
+  },
+  {
+    "artist": "A Tribe Called Quest",
+    "title": "Award Tour",
+    "sections": []
+  },
+  {
+    "artist": "De La Soul",
+    "title": "Stakes Is High",
+    "sections": []
+  },
+  {
+    "artist": "De La Soul",
+    "title": "Breakadawn",
+    "sections": []
+  },
+  {
+    "artist": "Pete Rock & C.L. Smooth",
+    "title": "They Reminisce Over You (T.R.O.Y.)",
+    "sections": []
+  },
+  {
+    "artist": "Pete Rock & C.L. Smooth",
+    "title": "Straighten It Out",
+    "sections": []
   }
 ]
