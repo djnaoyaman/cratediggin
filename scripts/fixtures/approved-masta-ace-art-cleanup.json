@@ -1,0 +1,24 @@
+{
+  "base": "52eb79c6a1a650de142b31f45826bdb56c46a941",
+  "id": "masta-ace-hood",
+  "asset": "assets/graffiti/masta-ace-hood-alpha.webp",
+  "beforeAssetSHA256": "a24e04f8e8693a186683ba047141068e859609469c77a80db81a6714a5e0ee75",
+  "afterAssetSHA256": "245cb3edd3a1b318842d30d7b0c13f3d19722cc7bde85f2d0c0439489d52daab",
+  "rgbaSHA256": "4ebcf82e0c860c81c6cf4e2299842c31acb572122fcc927febf6c22774c343bd",
+  "dimensions": [
+    1774,
+    887
+  ],
+  "beforeVersion": "22.30",
+  "beforeReleaseSHA256": "01a89bde4a401f0b4e890f18db16e8df23d0fcbd73badc73338699bf7c89dc7d",
+  "afterReleaseSHA256": "ae3c08ac2d5f0ab3263d822fc68c0745d9d3dd4faff292b053ecf713b67ea236",
+  "protected": {
+    "tracks.json": "3b8c18cd1460c62ffaec3361cc3af7c00b91f79f1dc4f5caf5efacaf8f44ad1e",
+    "graffiti_artwork.json": "f26024b9ca55ba0b10e5f0dc62bfcc3ffc54106cfd0b577d729303a23a036305",
+    "editorial_deepdives.json": "f68168fc1a782706555976e87ecb920e0a30b2b8c071e23662dda504d4a8bc3a",
+    "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+    "src/app/player.js": "6796ca1e0ebe8ede8c3619fd6af2785410d247728bb627e79dceb8769e942c0a",
+    "src/assets/art.js": "bff0c731802e8fc530ce6f29440723c2c860e5da1899459e8498d6680c85e91b",
+    "src/assets/style.css": "b6a2627965e44b62640495ec57d74a819eef054282d86d7bc448341ce26a21c5"
+  }
+}

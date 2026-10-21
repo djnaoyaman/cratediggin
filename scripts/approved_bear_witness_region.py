@@ -5,6 +5,8 @@ R=Path(__file__).resolve().parents[1]
 F=json.loads((R/'scripts/fixtures/approved-bear-witness-region.json').read_text())
 sha=lambda b:hashlib.sha256(b).hexdigest()
 def historical_bear_witness_region_file(path,data):
+ from approved_masta_ace_art_cleanup import historical_masta_ace_art_cleanup_file
+ data=historical_masta_ace_art_cleanup_file(path,data)
  c=F['files'].get(path)
  if c is None:return data
  assert sha(data)==c['afterSHA256'],'Unapproved Bear Witness drift: '+path
