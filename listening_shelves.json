@@ -281,9 +281,9 @@
         {
           "shelf": "scratch",
           "evidence": {
-            "file": "editorial_deepdives.json",
-            "field": "3.sections.1.text",
-            "quote": "Chuck Dの断定的なフレージングと、細かな音の断片を積み重ねる伴奏を分けて聴いてみる。語尾の強さ、スクラッチや短い声の割り込みが、ひとつの主張を繰り返すだけではない緊張感を作る。これは音源を聴く際の編集上の着眼点であり、制作当事者の発言を引用したものではない。"
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "制作回想を手掛かりに、スクラッチ、ビート、声を別々に追ってみる。"
           }
         }
       ]
@@ -399,8 +399,8 @@
           "shelf": "voice",
           "evidence": {
             "file": "tracks.json",
-            "field": "deck",
-            "quote": "精密な声の運びに、Premierのビートが噛み合う。"
+            "field": "listening.0",
+            "quote": "ラップの声と、スクラッチで組まれたフックを分けて追ってみる。"
           }
         }
       ]

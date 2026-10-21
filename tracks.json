@@ -5869,11 +5869,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "声の圧力と、太いグルーヴ。リミックスで景色が変わる。",
-    "essayTitle": "声の圧力はそのまま、リミックスが変える景色",
+    "deck": "Pete Rockはテンポと声を合わせ、一日でミックスを仕上げたと回想。正規配信クレジットではPete RockがRemixer、Jamey StaubがRemix Engineer。原曲制作とは区別できる。",
+    "essayTitle": "Pete Rockが一日で仕上げたリミックス",
     "essay": [
-      "声の圧力と、太いグルーヴ。リミックスで景色が変わる。",
-      "声の圧力を保ったまま、背景の景色が変わって聞こえる。原曲へ戻るときには、同じ言葉の温度がどう移るかを確かめたい。"
+      "Pete Rockが「Shut Em Down」を振り返ったとき、話の中心にあったのは声とビートを合わせる作業だった。2008年のComplexのインタビューを転載した記録では、テンポを合わせ、ヴォーカルにビートをなじませてからミックスに入り、一日で仕上げたと語っている。完成までの速さだけでなく、すでにあるラップを出発点にしたところが、この版を知る手がかりになる。",
+      "ここで扱うのは「Pe-te Rock Mixx」。正規配信のクレジットにはPete Rockがリミキサー、Jamey Staubがリミックス・エンジニアとして記載されている。原曲側のプロデューサーも同じ欄に並ぶが、それぞれの役割は分けて読める。Pete Rockの仕事を、原曲そのものの制作と取り違えないためにも、この二つの肩書きは押さえておきたい。",
+      "同じシングルの配信には、声を外した「Rock Mixx Instrumental」と通常の「Shut Em Down」も収められている。まずリミックスの伴奏だけを聴き、次に声のある版へ戻る。そのあと原曲と比べれば、Pete Rockが声に合わせて組み立てた仕事を、三つの音源からたどれる。単にどちらが好みかを選ぶだけではない、比較の順番だ。"
     ],
     "facts": [
       {
@@ -5887,14 +5888,24 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "声の圧力と、太いグルーヴ。リミックスで景色が変わる。"
+      "リミックスの伴奏のみ、声あり、原曲の順で、版名を確かめながら比べてみる。"
     ],
-    "context": "声の圧力を保ったまま、背景の景色が変わって聞こえる。原曲へ戻るときには、同じ言葉の温度がどう移るかを確かめたい。",
+    "context": "Pete Rockのリミックスに対象を絞り、制作回想と版別クレジットを読む。",
     "sources": [
       {
         "label": "YouTube — Public Enemy / Shut Em Down (Pe-te Rock Mixx)",
         "url": "https://www.youtube.com/watch?v=CIHzDoFq0GE",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Pete Rock「Soul Provider」2008年Complexインタビュー転載",
+        "url": "https://beatpress.wordpress.com/2008/03/06/new-pete-rock-interview/",
+        "kind": "参加者インタビューの転載（原掲載誌と聞き手を明記）"
+      },
+      {
+        "label": "Supraphonline：Def Jam／UMG配信のShut Em Down各版とクレジット",
+        "url": "https://www.supraphonline.cz/album/468313-shut-em-down?trackId=4863864",
+        "kind": "正規配信販売店の権利元提供クレジット"
       }
     ],
     "producers": [
@@ -5912,7 +5923,18 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "public-enemy-don-t-believe-the-hype",
@@ -5961,12 +5983,12 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "90年代へ続く声と音の圧力。その前夜をたどる。",
-    "essayTitle": "90年代へ続く声と音の圧力。",
+    "deck": "制作側がまだ手応えを持てなかったデモを、DMCがApollo Theaterの前で鳴らした。曲が完成へ向かった理由をHank Shockleeが語っている。",
+    "essayTitle": "DMCが街で鳴らしたデモを、反応を聞いて仕上げた",
     "essay": [
-      "90年代へ続く声と音の圧力。その前夜をたどる。",
-      "声の強さだけでは、この音楽の面白さは説明しきれない。音が密集していても、身体が追える芯がある。80年代の代表曲も含め、90年代の音楽へ続く圧力を聴きたい。",
-      "90年代へつながるルーツとして、声とビートの組み方をたどる。"
+      "「Don’t Believe the Hype」は、制作側が最初から自信を持っていた曲ではなかった。Hank Shockleeは2018年のKEXPの取材で、DMCがApollo Theaterの公演後、車のサウンドシステムでデモをかけたと振り返る。集まった人々の反応が伝わってきて、仕上げる価値があると判断したという。",
+      "音の作り方にも複数の人が関わっている。Tape Opの取材でShockleeが挙げたのは、James BrownのレコードをスクラッチするChuck D、別のターンテーブルでビートを重ねるKeith Shocklee、S900の音を一オクターブ下げるEric Sadlerという分担だ。ラッパーと制作者をきれいに二分できない録音現場だった。",
+      "歌の狙いについて、Chuck Dは1988年のSPINで、与えられた情報をそのまま受け取らず、自分で調べて問い直すことだと説明した。その言葉と、デモを街で試して判断した経緯を並べると面白い。完成した曲の評判だけでなく、どう確かめて完成に近づいたのかにも目を向けたい。"
     ],
     "facts": [
       {
@@ -5980,15 +6002,29 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "90年代へ続く声と音の圧力。その前夜をたどる。",
-      "声が入る前のビートと、声が入ったあとの重心を聴き比べる。"
+      "制作回想を手掛かりに、スクラッチ、ビート、声を別々に追ってみる。"
     ],
-    "context": "90年代へつながるルーツとして、声とビートの組み方をたどる。",
+    "context": "デモを仕上げる判断と、制作中の役割分担を本人の回想から読む。",
     "sources": [
       {
         "label": "YouTube — Public Enemy / Don't Believe the Hype",
         "url": "https://www.youtube.com/watch?v=9vQaVIoEjOM",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "KEXP — Hank Shockleeインタビュー（2018）",
+        "url": "https://kexp.org/read/2018/6/21/bomb-squads-hank-shocklee-30th-anniversary-public-enemys-emit-takes-nation-millions-hold-us-backem/",
+        "kind": "制作当事者インタビュー"
+      },
+      {
+        "label": "Tape Op #51 — Hank Shockleeインタビュー",
+        "url": "https://tapeop.com/interviews/51/hank-shocklee",
+        "kind": "制作当事者インタビュー"
+      },
+      {
+        "label": "SPIN — Chuck D、1988年9月号インタビュー再掲",
+        "url": "https://www.spinmagazine.com/2019/08/public-enemy-chuck-d-it-takes-a-nation-of-millions-to-hold-us-back-september-1988-interview-armageddon-in-effect/",
+        "kind": "発表当時の本人インタビュー"
       }
     ],
     "producers": [
@@ -6004,6 +6040,17 @@
     "collections": [
       "walk",
       "east"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
     ]
   },
   {
@@ -6052,12 +6099,12 @@
       "lettering": "tag",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "街へ向けて開かれた声。90年代の入口となる一曲。",
-    "essayTitle": "街へ向けて開かれた声。",
+    "deck": "映画のためのアンセムを、演奏の重ね方からたどる。Branford Marsalisの回想には、サンプルだけではない制作の現場が残る。",
+    "essayTitle": "映画用の録音では、サックスのソロを三つ重ねた",
     "essay": [
-      "街へ向けて開かれた声。90年代の入口となる一曲。",
-      "声の強さだけでは、この音楽の面白さは説明しきれない。音が密集していても、身体が追える芯がある。80年代の代表曲も含め、90年代の音楽へ続く圧力を聴きたい。",
-      "90年代へつながるルーツとして、声とビートの組み方をたどる。"
+      "「Fight the Power」は、Spike Leeの映画『Do the Right Thing』（1989年）のために作られた。映画用の版と、1990年の『Fear of a Black Planet』収録版は区別しておきたい。",
+      "Branford Marsalisは2014年の取材で、Hank Shockleeの指示により異なるスタイルのソロを三つ録り、それらを重ねたと回想している。掲載MVにも同じ処理があるかは未確認だ。",
+      "サンプルを探すだけでなく、吹いて録った音をどう扱ったかも、この曲を知る入口になる。まず映画用の版とアルバム版を分けて聴き、声の周りに何が置かれているかを比べてみたい。掲載MVがどのミックスに当たるかは、引き続き未確認だ。"
     ],
     "facts": [
       {
@@ -6075,7 +6122,6 @@
         "title": "Funky Drummer",
         "role": "ドラム・ブレイクの断片。Katzによる1990年のアルバム版分析では、他の素材に重なるキックとスネアが指摘されている。",
         "sources": [
-          1,
           2
         ]
       },
@@ -6084,7 +6130,6 @@
         "title": "Sing a Simple Song",
         "role": "声の断片。EURwebの解説では、掛け声とそれに続く声が挙げられている。",
         "sources": [
-          1,
           4
         ]
       },
@@ -6093,17 +6138,15 @@
         "title": "I Shot the Sheriff",
         "role": "短く切り出された『I』の声。David YaffeはTIDALの寄稿で、1989年の映画で聴いたヴォーカル断片として挙げている。",
         "sources": [
-          1,
           3
         ]
       }
     ],
     "sampleStatus": "資料で確認できるサンプル元3曲を掲載。全サンプルの一覧ではなく、掲載MVでの各断片の使用は未照合。",
     "listening": [
-      "街へ向けて開かれた声。90年代の入口となる一曲。",
-      "声が入る前のビートと、声が入ったあとの重心を聴き比べる。"
+      "制作回想を手掛かりに、声と楽器の重なりを別々に追ってみる。"
     ],
-    "context": "90年代へつながるルーツとして、声とビートの組み方をたどる。",
+    "context": "映画用の録音について語られた制作回想を、掲載版との違いに注意して読む。",
     "sources": [
       {
         "label": "YouTube — Public Enemy / Fight The Power (Official Music Video)",
@@ -6134,6 +6177,11 @@
         "label": "Rolling Stone — Chuck D・Hank Shocklee・Branford Marsalisらへのインタビュー（2014）",
         "url": "https://au.rollingstone.com/music/music-news/riot-on-the-set-how-public-enemy-crafted-the-anthem-fight-the-power-471/",
         "kind": "制作当事者インタビュー・版の相違"
+      },
+      {
+        "label": "Apple Music — Fear of a Black Planet",
+        "url": "https://music.apple.com/us/album/fear-of-a-black-planet/1440837282",
+        "kind": "正規配信のアルバム発売・レーベル表示"
       }
     ],
     "producers": [
@@ -6149,6 +6197,16 @@
     "collections": [
       "walk",
       "east"
+    ],
+    "essaySources": [
+      [
+        5,
+        6
+      ],
+      [
+        5
+      ],
+      []
     ]
   },
   {
@@ -6197,11 +6255,12 @@
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "ユーモアのある声とファンク。軽快さの奥にも意味がある。",
-    "essayTitle": "軽快なファンクとユーモアを、軽い話で終わらせない",
+    "deck": "ユーモアのある曲という説明だけでは足りない。Flavor Flavは、その言葉を書いた理由を、救急搬送中に友人を失った経験と結び付けて語っている。",
+    "essayTitle": "Flavor Flavが「911」に重ねた、友人を失った経験",
     "essay": [
-      "ユーモアのある声とファンク。軽快さの奥にも意味がある。",
-      "軽快な声に引かれたあと、その後ろで続くファンクを追う。笑いのある表現を、軽い話だと決めつけずに聴く。その二重の距離が面白い。"
+      "「911 Is a Joke」の背景には、Flavor Flavが中学生の頃に経験した出来事がある。2026年のHarvardでの登壇で彼は、争いの中で刺された友人に救急隊の到着が間に合わず、病院へ向かう救急車の中で亡くなったと話した。そして、その経験がこの曲の言葉につながったと説明している。",
+      "Chuck Dは2010年の取材で、「Welcome to the Terrordome」の後には違う展開が必要だったと振り返った。「911 Is a Joke」のトラックを作ったのはKeith ShockleeとEric Sadlerで、Flavor Flavを前面に出したことが、曲の軽やかな印象にもつながったという。これはChuck Dの制作回想だ。",
+      "1990年の『Fear of a Black Planet』に収められたこの曲では、声の面白さと訴えていることを切り離さずに聴きたい。本人の経験を踏まえると、救急対応への批判を、ただの冗談としては受け取れなくなる。ただし、この歌や回想を現在の救急サービス全体の実態を示す資料に置き換えることはできない。"
     ],
     "facts": [
       {
@@ -6215,14 +6274,29 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "ユーモアのある声とファンク。軽快さの奥にも意味がある。"
+      "語り手の経験として語られた背景を踏まえ、曲の主題を追ってみる。"
     ],
-    "context": "軽快な声に引かれたあと、その後ろで続くファンクを追う。笑いのある表現を、軽い話だと決めつけずに聴く。その二重の距離が面白い。",
+    "context": "Flavor Flavの回想とChuck Dの起用の説明を分けて読む。",
     "sources": [
       {
         "label": "YouTube — Public Enemy / 911 Is a Joke",
         "url": "https://www.youtube.com/watch?v=tsHcLIxg8KA",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Harvard FAS — Flavor Flav登壇取材（2026年4月9日）",
+        "url": "https://current.fas.harvard.edu/stories/harvard-flavor-flav-weighs-place-hip-hop-history",
+        "kind": "登壇主催大学による本人発言の取材記録"
+      },
+      {
+        "label": "Orlando Weekly — Back to black、Chuck Dインタビュー（2010）",
+        "url": "https://www.orlandoweekly.com/news/back-to-black-2255514/",
+        "kind": "制作当事者インタビュー"
+      },
+      {
+        "label": "Apple Music — Fear of a Black Planet",
+        "url": "https://music.apple.com/us/album/fear-of-a-black-planet/1440837282",
+        "kind": "正規配信のアルバム発売・レーベル表示"
       }
     ],
     "producers": [
@@ -6241,7 +6315,18 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
+    ]
   },
   {
     "id": "public-enemy-brothers-gonna-work-it-out",
@@ -6290,11 +6375,12 @@
       "lettering": "stencil",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "音が重なっても、身体を動かす芯は失わない。",
-    "essayTitle": "押し重なる響きの中で、身体が追う拍を探す",
+    "deck": "新しい曲の入り口に、以前のPublic Enemyが顔を出す。音楽学の分析から、冒頭の声の組み合わせをたどる。",
+    "essayTitle": "「Brothers Gonna Work It Out」の冒頭に戻ってくる、過去の声",
     "essay": [
-      "音が重なっても、身体を動かす芯は失わない。",
-      "音の重なりに圧倒されたら、身体が追っている拍だけに耳を向ける。密度の高い曲を聴くとき、まず一本の足場を見つけるのも楽しみ方だと思う。"
+      "「Brothers Gonna Work It Out」の冒頭には、Public Enemy自身の過去の録音が組み込まれている。音楽学者Amanda Sewellは2013年の博士論文で、曲頭の声を「Rebel Without a Pause」「Don’t Believe the Hype」「Bring the Noise」からの断片として整理した。これは制作者の証言ではなく、録音を比較した研究者の分析だ。",
+      "公式ストアの曲順では、本曲はインストゥルメンタル「Contract on the World Love Jam」の次に置かれている。アルバムの導入を抜けたところで、過去の曲にいた声に出会う。その並びを知ると、単曲の始まりが、Public Enemyの以前の作品へ戻る入り口にもなる。後半は曲順と分析を踏まえた読み方である。",
+      "引用元とされる3曲と聴き比べるなら、言葉の意味だけでなく、声の切り出し方にも注目したい。同じ人物の声でも、新しいラップと既存の録音の断片では役割が違う。音の密度を一括りにするより、どの声がどこから来たのかを追うと、この曲の組み立てへ一歩近づける。"
     ],
     "facts": [
       {
@@ -6308,14 +6394,24 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "音が重なっても、身体を動かす芯は失わない。"
+      "過去の3曲との比較を、声の切り出し方に注目する手がかりに。掲載動画の実再生に基づく聴取報告ではない。"
     ],
-    "context": "音の重なりに圧倒されたら、身体が追っている拍だけに耳を向ける。密度の高い曲を聴くとき、まず一本の足場を見つけるのも楽しみ方だと思う。",
+    "context": "冒頭の自己引用を、研究者の分析と公式の曲順から読む。",
     "sources": [
       {
         "label": "YouTube — Public Enemy / Brothers Gonna Work It Out",
         "url": "https://www.youtube.com/watch?v=rXdczisrtWc",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Amanda Sewell — A Typology of Sampling in Hip-Hop (Indiana University, 2013), pp.130–132 / Figure 3.3",
+        "url": "https://paperzz.com/doc/8944600/a-typology-of-sampling-in-hip-hop-amanda",
+        "kind": "scholarly_analysis_secondary_to_recording"
+      },
+      {
+        "label": "Public Enemy Official Store — Fear Of A Black Planet LP",
+        "url": "https://publicenemy.clothing/products/public-enemy-fear-of-a-black-planet-lp",
+        "kind": "official_artist_catalog"
       }
     ],
     "producers": [
@@ -6331,7 +6427,19 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "public-enemy-can-t-truss-it",
@@ -6348,7 +6456,7 @@
     ],
     "album": "Apocalypse 91... The Enemy Strikes Black",
     "label": "個別確認中",
-    "producer": "制作クレジット確認中",
+    "producer": "The Imperial Grand Ministers of Funk（アルバム制作クレジット）",
     "members": "Public Enemy",
     "youtube": {
       "id": "qQlN9gt2AhA",
@@ -6379,11 +6487,12 @@
       "lettering": "subway",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "鋭いビートと、強い声。密度の違いを並べて聴く。",
-    "essayTitle": "鋭いビートと強い声、その間の細部へ",
+    "deck": "Bomb Squadだけでは読み落とす制作の分担。1991年のアルバム・ジャケットには、別の制作チーム名が記されている。",
+    "essayTitle": "「Can’t Truss It」の制作名義を、ジャケットから読み直す",
     "essay": [
-      "鋭いビートと、強い声。密度の違いを並べて聴く。",
-      "ビートの鋭さと声の強さを、同時に受け止めてみたい。両方が前へ出る曲だからこそ、何度目かにはその間にある細かな音も追ってみる。"
+      "「Can’t Truss It」を収めた『Apocalypse 91… The Enemy Strikes Black』のジャケットには、制作担当としてThe Imperial Grand Ministers of Funkとある。その下に並ぶのはStuart Robertz、Cerwin（C-Dawg）Depper、Gary G-Wiz、The JBL。The Bomb Squadは別にエグゼクティヴ・プロデューサーとして記載されている。",
+      "つまり、Public Enemyの音だからといって、制作の担い手を毎回同じ名前で片付けることはできない。この表記が教えるのは、制作とエグゼクティヴ・プロデュースを分けたクレジットだ。ただし、ジャケットは各人が「Can’t Truss It」のどの音を担当したかまでは示していない。クレジットの役割を、個々の演奏やビート制作の分担と取り違えずに読みたい。",
+      "音をどう選んだかについては、WNYCがこの曲を取り上げた取材で、Hank Shockleeが、録り直しても再現できない古い録音の感触を求めてサンプリングすると説明している。これは彼の制作観であり、この曲の全素材を確定する証言ではない。引用元の名前当てだけでなく、録音された音の質感そのものが素材になる、という聴き方につながる。"
     ],
     "facts": [
       {
@@ -6397,17 +6506,29 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "鋭いビートと、強い声。密度の違いを並べて聴く。"
+      "素材の曲名だけでなく、録音の質感にも耳を向けるという聴き方。Shockleeの制作観からの提案で、掲載動画を聴取した報告ではない。"
     ],
-    "context": "ビートの鋭さと声の強さを、同時に受け止めてみたい。両方が前へ出る曲だからこそ、何度目かにはその間にある細かな音も追ってみる。",
+    "context": "原ジャケットの制作名義と、Hank Shockleeのサンプリング観を分けて読む。",
     "sources": [
       {
         "label": "YouTube — Public Enemy / Can't Truss It",
         "url": "https://www.youtube.com/watch?v=qQlN9gt2AhA",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Apocalypse 91… original sleeve, reproduced in AARC filing to US Copyright Royalty Board, PDF pp.120–121",
+        "url": "https://www.crb.gov/proceedings/14-CRB-0006/AARCs_Reply_to_Comments_Attachments.pdf#page=120",
+        "kind": "original_release_credit_reproduction"
+      },
+      {
+        "label": "WNYC On the Media — They Say That I Stole This (2010年12月24日), Hank Shocklee interview",
+        "url": "https://www.wnycstudios.org/podcasts/otm/segments/133028-they-say-that-i-stole-this",
+        "kind": "participant_interview"
       }
     ],
-    "producers": [],
+    "producers": [
+      "The Imperial Grand Ministers of Funk"
+    ],
     "connections": [],
     "sounds": [
       "ドラム",
@@ -6418,7 +6539,18 @@
     "collections": [
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "public-enemy-welcome-to-the-terrordome",
@@ -6467,11 +6599,12 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "押し寄せる音の中に、一本の声が立ち上がる。",
-    "essayTitle": "押し寄せる背景に立つ声、その切迫感",
+    "deck": "Chuck Dが語ったのは、単なる怒りの表現ではなく、1989年を自分の立場から伝えることだった。",
+    "essayTitle": "1989年を、誰の視点で伝えるのか",
     "essay": [
-      "押し寄せる音の中に、一本の声が立ち上がる。",
-      "押し寄せる音の中で、声がどこに立っているかを聴く。背景を静かにして言葉を通す方法とは違う、その切迫の作り方を感じたい。"
+      "「Welcome to the Terrordome」について、Chuck Dは1989年末のステージで、その年を黒人男性の報告者として振り返る曲だと説明した。発言を掲載したのは1990年3月号のSPIN。新聞やテレビの総括ではなく、街で暮らす自分と黒人の人々に、その一年がどう響いたかを伝えるという話だった。",
+      "この説明が出た時期、グループはProfessor Griffの反ユダヤ的発言をめぐる批判の中にあり、この曲の歌詞も新たな批判を受けていた。同時期の取材を読むと、発信する側であるChuck D自身が、報じられる側にもなっていたことが分かる。本人の説明は曲を読む手掛かりであって、批判の妥当性まで決めるものではない。",
+      "だから、題名から恐怖の空間を自由に想像するより、まず「誰が一年を語っているのか」を意識して聴いてみたい。1990年の『Fear of a Black Planet』に収められた曲だが、その視線は直前の1989年へ向いている。発売年と、歌が振り返る時間を分けると、言葉の切迫した背景を捉えやすくなる。"
     ],
     "facts": [
       {
@@ -6485,14 +6618,24 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "押し寄せる音の中に、一本の声が立ち上がる。"
+      "発表当時の説明を踏まえ、語り手がどの時代に向き合っているかに注目する。"
     ],
-    "context": "押し寄せる音の中で、声がどこに立っているかを聴く。背景を静かにして言葉を通す方法とは違う、その切迫の作り方を感じたい。",
+    "context": "発表当時の取材に記録された、Chuck Dの説明を手掛かりに読む。",
     "sources": [
       {
         "label": "YouTube — Public Enemy / Welcome to the Terrordome",
         "url": "https://www.youtube.com/watch?v=m5t7n-EeE1o",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "SPIN — Chuck D、1990年3月号インタビュー再掲",
+        "url": "https://www.spinmagazine.com/2015/04/public-enemy-fear-of-a-black-planet-chuck-d-interview-1990/",
+        "kind": "発表当時の本人発言・取材記録"
+      },
+      {
+        "label": "Apple Music — Fear of a Black Planet",
+        "url": "https://music.apple.com/us/album/fear-of-a-black-planet/1440837282",
+        "kind": "正規配信のアルバム発売・レーベル表示"
       }
     ],
     "producers": [
@@ -6509,7 +6652,19 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ]
   },
   {
     "id": "nas-the-world-is-yours",
@@ -10465,11 +10620,12 @@
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "ジャズの熱と、ラップの精密さが同じ速度で走る。",
-    "essayTitle": "ジャズの勢いと精密なラップの並走",
+    "deck": "Rakim本人がこの曲を、自分のスタイルを模倣するMCに向けた警告と説明。スタジオでビートを聴いて書いたという具体的な作詞回想もある。",
+    "essayTitle": "Rakimが模倣するMCに向けた一曲",
     "essay": [
-      "ジャズの熱と、ラップの精密さが同じ速度で走る。",
-      "音の勢いと、声の精密な運びを同じ速度で追えるかを試す。細かい仕事が難しい顔をせず聞こえる。その軽やかさにも耳を向けたい。"
+      "RakimはRed Bull Music Academyの講義で、「Don’t Sweat the Technique」を、自分のスタイルに近づいてきたMCへの牽制だったと説明している。技巧の披露だけでなく、他のラッパーに向けた曲でもある。",
+      "本人によれば、当時はスタジオでビートを作り、その場で作詞することが多かった。この曲についても、ビートから書く方向を見つけたと振り返っている。言葉と伴奏の関係を考える手掛かりになる。",
+      "曲名が繰り返される箇所を、他のMCへの呼びかけとして捉えてみたい。技巧を鑑賞するための標語として読む場合とは、ヴァースの受け取り方も変わる。1992年の同名アルバムに収められ、配信クレジットではEric B.とRakimの二人がプロデューサーとされる一曲。まず本人の作詞意図を知ってから、その主張がラップの運びにどう表れるかを確かめたい。"
     ],
     "facts": [
       {
@@ -10483,14 +10639,24 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "ジャズの熱と、ラップの精密さが同じ速度で走る。"
+      "題名が戻る箇所を、他のMCへの呼びかけとして捉えてみる。"
     ],
-    "context": "音の勢いと、声の精密な運びを同じ速度で追えるかを試す。細かい仕事が難しい顔をせず聞こえる。その軽やかさにも耳を向けたい。",
+    "context": "Rakim本人が語る曲の相手と、ビートから作詞へ進む手順を読む。",
     "sources": [
       {
         "label": "YouTube — Eric B. & Rakim / Don't Sweat the Technique",
         "url": "https://www.youtube.com/watch?v=mAgK_qOduIQ",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Red Bull Music Academy：Rakim講義全文",
+        "url": "https://www.redbullmusicacademy.com/lectures/rakim-lecture/",
+        "kind": "本人インタビューの主催者公開トランスクリプト"
+      },
+      {
+        "label": "Shazam：Don’t Sweat the Technique 曲別クレジット",
+        "url": "https://www.shazam.com/song/1440798552/dont-sweat-the-technique",
+        "kind": "正規配信クレジット"
       }
     ],
     "producers": [
@@ -10511,7 +10677,19 @@
       "mic-skills"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ]
   },
   {
     "id": "epmd-so-wat-cha-sayin",
@@ -12581,11 +12759,12 @@
       "lettering": "subway",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "精密な声の運びに、Premierのビートが噛み合う。",
-    "essayTitle": "声の細かな動きとビートの区切り",
+    "deck": "フックはDJ Premierのスクラッチとして歌詞資料に記載され、ヴァースではDJの手さばきが具体的に語られる。ソロ名義でもMCとDJの働きを一曲内で追える。",
+    "essayTitle": "RakimがDJの手さばきをラップする",
     "essay": [
-      "精密な声の運びに、Premierのビートが噛み合う。",
-      "声の細かい動きと、ビートの区切りを行き来して聴く。きっちり噛み合う瞬間だけでなく、少し離れて進むところにも耳を向けたい。"
+      "「When I B on tha Mic」は、Rakimのラップだけでなく、DJの仕事を手がかりに追いたい一曲だ。AWAに掲載された歌詞では、冒頭のフックがDJ Premierによるスクラッチと示されている。題名を覚える入口になる部分で、すでにDJの役割が前に出ている。",
+      "ヴァースでは、DJの演奏技術そのものも称えられる。Rakimは自分のMCとしての力を語りながら、DJの技にも言葉を向ける。フックを鳴らす役と、その技をラップする役を意識すると、曲の中にもう一つのつながりが見えてくる。",
+      "1999年のソロ作『The Master』収録曲で、当該アルバム版の制作クレジットはDJ Premier。ミックスにはEddie Sancho、補助の役割にはDexter Thibouの名もある。Eric B. & Rakim名義の曲とは制作の組み合わせが変わっているが、ここでもMCとDJの関係は曲を読む重要な手がかりになる。ヴァースの内容を知ったうえで、スクラッチのフックへ戻ってみたい。"
     ],
     "facts": [
       {
@@ -12599,14 +12778,29 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "精密な声の運びに、Premierのビートが噛み合う。"
+      "ラップの声と、スクラッチで組まれたフックを分けて追ってみる。"
     ],
-    "context": "声の細かい動きと、ビートの区切りを行き来して聴く。きっちり噛み合う瞬間だけでなく、少し離れて進むところにも耳を向けたい。",
+    "context": "配信歌詞の演奏指示と制作クレジットから、MCとDJの役割を読む。",
     "sources": [
       {
         "label": "YouTube — Rakim / When I B on tha Mic",
         "url": "https://www.youtube.com/watch?v=M34OelgSlKI",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "AWA：When I B On Tha Mic 作品歌詞",
+        "url": "https://s.awa.fm/track/6c6d07a0237147056d78",
+        "kind": "正規配信サービスの歌詞掲載"
+      },
+      {
+        "label": "Qobuz：The Master アルバム版曲別クレジット",
+        "url": "https://www.qobuz.com/us-en/album/the-master-rakim/0073145420822",
+        "kind": "Universal権利表示付き配信クレジット"
+      },
+      {
+        "label": "Apple Music：The Master版 When I B on tha Mic",
+        "url": "https://music.apple.com/us/song/when-i-b-on-tha-mic/1440921941",
+        "kind": "正規配信の作品同定"
       }
     ],
     "producers": [
@@ -12627,7 +12821,19 @@
       "mic-skills"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ]
   },
   {
     "id": "kool-g-rap-dj-polo-ill-street-blues",
@@ -33828,12 +34034,12 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "問いかけから始まる言葉とビートの呼吸を聴く。",
-    "essayTitle": "問いかけの言葉とビートの呼吸を合わせる",
+    "deck": "題名の抽象的な問いではなく、Aトレインでの出会いからフォート・グリーンへ続く恋愛の場面描写。アルバム曲別歌詞・クレジットで直接確認。",
+    "essayTitle": "Aトレインの出会いから始まる恋愛譚",
     "essay": [
-      "Eric B. & Rakimの「What's On Your Mind?」。まず耳を向けたいのは、問いかけから始まる言葉とビートの呼吸だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『House Party 2 / Don't Sweat the Technique』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Don't Sweat the Technique」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "Shazam掲載の歌詞に基づいて、曲の物語を紹介する。「What’s On Your Mind?」の出発点は、ブルックリンへ向かうAトレインだ。Rakimの語り手は車内で女性に声をかけるが、すぐには会話が進まない。フォート・グリーンに着くと、二人は再び顔を合わせる。相手の心を知りたいという題名の問いは、こうした具体的な出会いの場面から生まれてくる。",
+      "地名だけでなく、やり取りの変化にも物語の進み方が表れる。車内で返事をもらえず機嫌を損ねた語り手が、次には相手の反応を気にし始める。ラップの強さを競うときとは違う、うまく振る舞いたいのに思い通りにはいかない人物像だ。ここをRakim本人の実体験と決めつけず、歌の中で組み立てられた場面として追うと面白い。",
+      "この曲は映画『House Party 2』でも使われ、その後の『Don’t Sweat the Technique』では冒頭に置かれている。本ページで扱うのはそのアルバム版で、「House Party II Rap Theme」の名を持つExtended Vocal Versionとは区別する。アルバムを頭から聴くときには、まずこの恋愛の物語からRakimに入れることを覚えておきたい。"
     ],
     "facts": [
       {
@@ -33855,10 +34061,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "問いかけから始まる言葉とビートの呼吸。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "語り手と相手の応答が、場面ごとにどう変わるかを追ってみる。"
     ],
-    "context": "1991年のHip Hop選曲。『House Party 2 / Don't Sweat the Technique』の作品情報と音源の版を分けて掲載。",
+    "context": "掲載歌詞の場面と、映画使用・アルバム収録の違いを分けて読む。",
     "sources": [
       {
         "label": "Eric B. - Topic / What's On Your Mind",
@@ -33879,6 +34084,16 @@
         "label": "‎What's On Your Mind (House Party II Rap Theme) [Extended Vocal Version] - Song with Lyrics by Eric B. & Rakim - Apple M",
         "url": "https://music.apple.com/us/song/1452806758",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Shazam：What’s on Your Mind? アルバム版歌詞・制作クレジット",
+        "url": "https://www.shazam.com/song/1440798367/whats-on-your-mind",
+        "kind": "正規サービス掲載の作品本文と曲別クレジット"
+      },
+      {
+        "label": "uDiscover公式ストア：Don’t Sweat The Technique 2LP",
+        "url": "https://shop.udiscovermusic.com/collections/eric-b-rakim/products/eric-b-rakim-don-t-sweat-the-technique-2lp-black",
+        "kind": "レーベル系公式商品説明・曲順"
       }
     ],
     "producers": [
@@ -33901,7 +34116,19 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
   },
   {
     "id": "da-bush-babees-we-run-things-it-s-like-dat",
