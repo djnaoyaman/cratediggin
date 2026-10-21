@@ -2820,27 +2820,7 @@
   {
     "artist": "Mobb Deep",
     "title": "Shook Ones, Pt. II",
-    "sections": [
-      {
-        "heading": "Jessicaへ戻るための手がかり",
-        "text": "Herbie Hancockの公式作品ページは「Jessica」を『Fat Albert Rotunda』の5曲目として掲載し、1969年の録音日程とWarner Brothersの原盤番号WS-1834を記している。同ページに再録されたBob Blumenthalの1994年の解説は、この曲でHancockがアコースティック・ピアノのソロを取ることに触れる。1994年は解説の年で、原録音の年ではない。",
-        "source": "https://www.herbiehancock.com/music/discography/album/fat-albert-rotunda/",
-        "sourceLabel": "Herbie Hancock公式：原盤情報とBob Blumenthalの1994年解説",
-        "sources": [
-          4
-        ]
-      },
-      {
-        "heading": "反復に、場面の切り替わりを作る",
-        "text": "HavocはSong Exploderで、ピアノと低音の土台だけでは変化が足りず、イントロやコーラスの到来を示す音が必要だったと話す。そこでQuincy Jonesのレコードから別の音を加えたという。同回の資料は、その曲を「Kitty with the Bent Frame」としている。素材には反復を支える役割だけでなく、曲の区切りを知らせる役割も与えられた。",
-        "source": "https://songexploder.net/mobb-deep",
-        "sourceLabel": "Song Exploder：Havocの制作証言と使用曲資料（2020年6月17日）",
-        "sources": [
-          2,
-          1
-        ]
-      }
-    ]
+    "sections": []
   },
   {
     "artist": "DJ Shadow & Cut Chemist",
@@ -4171,6 +4151,51 @@
   {
     "artist": "GZA",
     "title": "Liquid Swords",
+    "sections": []
+  },
+  {
+    "artist": "The Notorious B.I.G.",
+    "title": "Juicy",
+    "sections": []
+  },
+  {
+    "artist": "The Notorious B.I.G.",
+    "title": "Big Poppa",
+    "sections": []
+  },
+  {
+    "artist": "The Notorious B.I.G.",
+    "title": "Unbelievable",
+    "sections": []
+  },
+  {
+    "artist": "Mobb Deep",
+    "title": "Survival of the Fittest",
+    "sections": []
+  },
+  {
+    "artist": "Heltah Skeltah",
+    "title": "Leflaur Leflah Eshkoshka",
+    "sections": []
+  },
+  {
+    "artist": "Black Moon",
+    "title": "Who Got da Props",
+    "sections": []
+  },
+  {
+    "artist": "Black Moon",
+    "title": "I Got Cha Opin (Remix)",
+    "sections": []
+  },
+  {
+    "artist": "Smif-N-Wessun",
+    "title": "Bucktown",
+    "sections": []
+  },
+  {
+    "artist": "Jeru the Damaja",
+    "title": "Come Clean",
     "sections": []
   }
 ]
