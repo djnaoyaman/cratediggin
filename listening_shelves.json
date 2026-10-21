@@ -211,27 +211,14 @@
       ]
     },
     {
-      "id": "lord-finesse-hip-2-da-game",
-      "tags": [
-        {
-          "shelf": "loop",
-          "evidence": {
-            "file": "tracks.json",
-            "field": "deck",
-            "quote": "余裕のある声と、滑らかなループ。力まずに主役になる。"
-          }
-        }
-      ]
-    },
-    {
       "id": "showbiz-a-g-next-level-nyte-time-mix",
       "tags": [
         {
-          "shelf": "drums",
+          "shelf": "bass",
           "evidence": {
             "file": "tracks.json",
-            "field": "deck",
-            "quote": "夜の緊張を、短い旋律と硬いドラムで引き締める。"
+            "field": "essay.1",
+            "quote": "Albumism の Jesse Ducker は、このリミックスが Maynard Ferguson「Mister Mellow」のベースとギターを使い、その滑らかさが A.G. の強気なラップと対照をなす、と評している。声の力に、同じ強さの音をぶつけるだけが方法ではない。柔らかな伴奏との違いからラップを捉える、という聴き方ができる。"
           }
         }
       ]

@@ -5047,11 +5047,11 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "目立つことより、音で分からせる。掘る人の自信。",
-    "essayTitle": "選び抜く態度がにじむ、ループ一周の自信",
+    "deck": "別のMCのための訪問が、自分のソロへつながった。",
+    "essayTitle": "ビートを聴かせに行き、声で道が開いた。",
     "essay": [
-      "目立つことより、音で分からせる。掘る人の自信。",
-      "派手な展開を待たず、一周の中にある自信を聴く。掘った音をここへ置く。その判断自体が曲の態度になっているように感じる。"
+      "「Best Kept Secret」は、もともとUltimate Forceのアルバム用だった。Diamond DがUnkutの取材で振り返っている。",
+      "別のMCに提供するビートをChemistry Recordsへ持参し、自分もラップすると話して、自作の音源を聴かせたという。ビートの作り手が、自分の声も届けた曲だった。"
     ],
     "facts": [
       {
@@ -5065,14 +5065,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "目立つことより、音で分からせる。掘る人の自信。"
+      "ビートだけでなく、作った本人がマイクに立つ意味に注目する。"
     ],
-    "context": "派手な展開を待たず、一周の中にある自信を聴く。掘った音をここへ置く。その判断自体が曲の態度になっているように感じる。",
+    "context": "Ultimate Forceの制作から、Diamond Dのソロへつながった一曲。",
     "sources": [
       {
         "label": "YouTube — Diamond D / Best Kept Secret",
         "url": "https://www.youtube.com/watch?v=TQpUhDiTuXQ",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Diamond D — Stunts, Blunts & Hip-Hop track-by-track / Unkut",
+        "url": "https://unkut.com/2014/02/track-by-track-diamond-d-breaks-down-the-stunts-blunts-hip-hop-album/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -5091,7 +5096,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "diamond-d-sally-got-a-one-track-mind",
@@ -5140,11 +5153,11 @@
       "lettering": "tag",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "反復の気持ちよさに、物語の流れが乗る。",
-    "essayTitle": "ループは巡り、語りは先へ進む",
+    "deck": "語りの先に、育っていく妹がいた。",
+    "essayTitle": "サリーの話を、幼い妹へ。",
     "essay": [
-      "反復の気持ちよさに、物語の流れが乗る。",
-      "繰り返す音と、先へ進む言葉を別々に追ってみたい。背景が同じでも、語りが進めば風景は変わる。その動きの違いが面白い。"
+      "Diamond Dは「Sally Got a One Track Mind」を、幼かった妹のために書いたとUnkutで語っている。成長したとき、愛情を求める場所を誤らないでほしかったという。",
+      "物語の主人公だけでなく、この話を届けたかった相手にも目を向けたい。"
     ],
     "facts": [
       {
@@ -5158,14 +5171,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "反復の気持ちよさに、物語の流れが乗る。"
+      "物語の主人公と、作者が言葉を届けようとした相手を分けて考える。"
     ],
-    "context": "繰り返す音と、先へ進む言葉を別々に追ってみたい。背景が同じでも、語りが進めば風景は変わる。その動きの違いが面白い。",
+    "context": "作者の妹への思いが込められた物語。",
     "sources": [
       {
         "label": "YouTube — Diamond D / Sally Got a One Track Mind",
         "url": "https://www.youtube.com/watch?v=JDNspO6BMkU",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Diamond D — Stunts, Blunts & Hip-Hop track-by-track / Unkut",
+        "url": "https://unkut.com/2014/02/track-by-track-diamond-d-breaks-down-the-stunts-blunts-hip-hop-album/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -5183,7 +5201,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "lord-finesse-hip-2-da-game",
@@ -5231,11 +5257,11 @@
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "余裕のある声と、滑らかなループ。力まずに主役になる。",
-    "essayTitle": "滑らかなループで、声はどこまで急がないか",
+    "deck": "ラップだけでなく、映像の見せ方も自分で。",
+    "essayTitle": "自分で脚本を書くと、自分らしく映れた。",
     "essay": [
-      "余裕のある声と、滑らかなループ。力まずに主役になる。",
-      "滑らかな音に、声が無理なく収まっているように聞こえる。余裕は、音数の少なさだけでは作れない。声がどこまで急がずにいられるかを聴きたい。"
+      "「Hip 2 Da Game」の映像は、Lord Finesse自身が脚本を書いた。Unkutの取材では、自分らしく振る舞えた撮影として振り返っている。",
+      "映像で何を見せるかも、本人の表現の一部だった。曲とともに、その選択にも目を向けたい。"
     ],
     "facts": [
       {
@@ -5266,10 +5292,9 @@
     ],
     "sampleStatus": "代表的な素材を資料で確認",
     "listening": [
-      "余裕のある声と、滑らかなループ。力まずに主役になる。",
-      "Oscar Petersonの「Dream of You」へ戻り、素材と完成した曲で音の役割がどう変わるかを確かめる。"
+      "映像を選ぶ側としての本人にも注目する。"
     ],
-    "context": "滑らかな音に、声が無理なく収まっているように聞こえる。余裕は、音数の少なさだけでは作れない。声がどこまで急がずにいられるかを聴きたい。",
+    "context": "本人が脚本を書いたミュージックビデオ。",
     "sources": [
       {
         "label": "YouTube — Lord Finesse / Hip 2 Da Game",
@@ -5280,6 +5305,11 @@
         "label": "A History of Otis Redding Samples in Hip-Hop",
         "url": "https://www.complex.com/music/a/lauren-nostro/a-history-of-otis-redding-samples-in-hip-hop",
         "kind": "サンプル関係の調査資料"
+      },
+      {
+        "label": "Lord Finesse — The Unkut Interview",
+        "url": "https://unkut.com/2014/11/lord-finesse-the-unkut-interview-part-one/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -5298,7 +5328,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "lord-finesse-return-of-the-funky-man",
@@ -5347,11 +5385,11 @@
       "lettering": "stencil",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "ラップのユーモアが、ビートの太さとよく噛み合う。",
-    "essayTitle": "太いビートに噛み合う、ラップのユーモア",
+    "deck": "曲を広めた映像を、本人はどう見ていたのか。",
+    "essayTitle": "あの映像に、本人は馴染めなかった。",
     "essay": [
-      "ラップのユーモアが、ビートの太さとよく噛み合う。",
-      "太いビートの上で、声の表情を追いかける。言葉の面白さと音の押し出しが出会うところに、この曲の身軽さを感じる。"
+      "「Return of the Funky Man」の映像について、Lord Finesse は Unkut の取材で、描かれた姿が自分の望んだものではなく、居心地がよくなかったと振り返っている。",
+      "完成した映像と、本人が見せたかった姿は同じとは限らない。後年の回顧から、その違いにも目を向けたい。"
     ],
     "facts": [
       {
@@ -5365,14 +5403,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "ラップのユーモアが、ビートの太さとよく噛み合う。"
+      "映像の演出と、本人が望んでいた表現を分けて見る。"
     ],
-    "context": "太いビートの上で、声の表情を追いかける。言葉の面白さと音の押し出しが出会うところに、この曲の身軽さを感じる。",
+    "context": "本人が後年の取材で振り返った、初期の映像制作。",
     "sources": [
       {
         "label": "YouTube — Lord Finesse / Return of the Funky Man",
         "url": "https://www.youtube.com/watch?v=mCjUvvXHXVw",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Lord Finesse — The Unkut Interview",
+        "url": "https://unkut.com/2014/11/lord-finesse-the-unkut-interview-part-one/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -5391,7 +5434,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "showbiz-a-g-party-groove-instrumental",
@@ -5440,11 +5491,11 @@
       "lettering": "subway",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "声を休ませて、ビートの身体性を味わう。",
-    "essayTitle": "ラップを待たず、ドラムと低音の会話へ",
+    "deck": "歌う主役がいなくても、声の出番はある。",
+    "essayTitle": "インストなのに、声が曲を動かす。",
     "essay": [
-      "声を休ませて、ビートの身体性を味わう。",
-      "声を待たずに、ドラムと低音の会話へ入ってみる。普段はラップの後ろに聞いているものが前へ出ると、同じ耳にも別の仕事が生まれる。"
+      "「Party Groove (Instrumental)」を、ラップの伴奏だけだと思うと聴き逃すものがある。Matt Jostは1992年版EPの批評で、Chuck DやKid Capriの声の断片を扱う、独立したインスト曲として評価している。",
+      "その観察を手がかりにすると、注目するのは声の不在ではなく、声が入る場所と切り方になる。長いヴァースを待つ代わりに、短い声が曲の中でどう働くかを追ってみたい。"
     ],
     "facts": [
       {
@@ -5458,15 +5509,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "声を休ませて、ビートの身体性を味わう。",
-      "音の登場と退場を追い、短い反復がどこで表情を変えるかを聴く。"
+      "Jostの批評を手がかりに、声の断片の登場と切り替わりに注目する。"
     ],
-    "context": "声を待たずに、ドラムと低音の会話へ入ってみる。普段はラップの後ろに聞いているものが前へ出ると、同じ耳にも別の仕事が生まれる。",
+    "context": "1992年版EPのInstrumentalを論じたMatt Jostの批評を手がかりにする。",
     "sources": [
       {
         "label": "YouTube — Showbiz & A.G. / Party Groove (Instrumental)",
         "url": "https://www.youtube.com/watch?v=U3asg9ETeNk",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Matt Jost — Party Groove/Soul Clap EP / RapReviews",
+        "url": "https://www.rapreviews.com/archive/BTTL_showpartygroove.html",
+        "kind": "署名批評"
       }
     ],
     "producers": [
@@ -5490,7 +5545,15 @@
       "funk-soul"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "showbiz-a-g-soul-clap",
@@ -5637,11 +5700,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "夜の緊張を、短い旋律と硬いドラムで引き締める。",
-    "essayTitle": "短い旋律と硬いドラムが引き締める夜",
+    "deck": "Premier のリミックスは、A.G. の強気な言葉を柔らかな素材と組み合わせる。",
+    "essayTitle": "なめらかな伴奏で、ラップの強さが立つ。",
     "essay": [
-      "夜の緊張を、短い旋律と硬いドラムで引き締める。",
-      "短い旋律が巡るたびに、硬いドラムとの距離を確かめたい。華やかに広げるより、空間を引き締める。その方向に夜の感触を聴いている。"
+      "「Next Level」には、同じ『Goodfellas』に入った O.G. 版と、DJ Premier による Nyte Time Mix がある。ここで取り上げるのは後者。曲名だけでなくミックス名まで読むと、誰が伴奏を組み替えたのかが見えてくる。",
+      "Albumism の Jesse Ducker は、このリミックスが Maynard Ferguson「Mister Mellow」のベースとギターを使い、その滑らかさが A.G. の強気なラップと対照をなす、と評している。声の力に、同じ強さの音をぶつけるだけが方法ではない。柔らかな伴奏との違いからラップを捉える、という聴き方ができる。"
     ],
     "facts": [
       {
@@ -5655,14 +5718,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "夜の緊張を、短い旋律と硬いドラムで引き締める。"
+      "O.G. 版と聴き比べるなら、ラップの印象が伴奏によってどう変わるかを追いたい。"
     ],
-    "context": "短い旋律が巡るたびに、硬いドラムとの距離を確かめたい。華やかに広げるより、空間を引き締める。その方向に夜の感触を聴いている。",
+    "context": "同じアルバムにある別ミックスとの比較が、Premier の仕事を知る入口になる。",
     "sources": [
       {
         "label": "YouTube — Showbiz & A.G. / Next Level (Nyte Time Mix)",
         "url": "https://www.youtube.com/watch?v=hmdf8-TsMLU",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Albumism — Jesse Ducker による Goodfellas 回顧",
+        "url": "https://albumism.com/features/show-and-ag-goodfellas-album-anniversary",
+        "kind": "署名批評"
       }
     ],
     "producers": [
@@ -5680,7 +5748,15 @@
     "collections": [
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "black-moon-who-got-da-props",
@@ -6095,11 +6171,11 @@
       "lettering": "stencil",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "少ない材料で、声の存在感を際立たせる。",
-    "essayTitle": "背景が引くほど、際立つ声の存在感",
+    "deck": "似た素材から違う曲を作る。その鍵を、音の順番から考える。",
+    "essayTitle": "同じ低音を、別の並びへ。",
     "essay": [
-      "少ない材料で、声の存在感を際立たせる。",
-      "声に注目したら、次は背景がどこまで主張を控えているかを追う。材料を増やさず存在感を保つ、その均衡を聴く曲として置いておきたい。"
+      "「Ya Playin’ Yaself」を、Junior M.A.F.I.A.「Player’s Anthem」と並べて考える。研究者 Joseph Schloss は、二曲の低音の音符を対応させ、同じ素材でも順番を組み替えることで別のフレーズになる例として分析している。サンプルを見つけたあとにも、どう切り分け、どう並べたかという発見が残る。",
+      "ただし、似た素材を使ったことと、相手への当てつけを狙ったことは別だ。Premier の映像企画を紹介した WhoSampled の Chris Read によれば、本人は素材の重複を偶然と説明し、もう一方を耳にしたあと、似すぎないよう組み替えたという。音の関係は比較できても、制作の意図まで同じ話にはできない。"
     ],
     "facts": [
       {
@@ -6113,14 +6189,24 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "少ない材料で、声の存在感を際立たせる。"
+      "二曲を比較するときは、低音の音色だけでなく、音が現れる順番を手がかりにしたい。"
     ],
-    "context": "声に注目したら、次は背景がどこまで主張を控えているかを追う。材料を増やさず存在感を保つ、その均衡を聴く曲として置いておきたい。",
+    "context": "素材の共通性と、作り手が語る制作意図を分けて読む。",
     "sources": [
       {
         "label": "YouTube — Jeru the Damaja / Ya Playin' Yaself",
         "url": "https://www.youtube.com/watch?v=xT3NfZVZJMY",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Joseph Schloss — Sampling Ethics",
+        "url": "https://files.commons.gc.cuny.edu/wp-content/blogs.dir/11558/files/2022/04/Schloss_Sampling.pdf",
+        "kind": "研究者による音楽分析"
+      },
+      {
+        "label": "WhoSampled — Chris Read による So Wassup? 第33回紹介",
+        "url": "https://www.whosampled.com/news/2022/04/27/dj-premier-breaks-down-the-making-of-jeru-the-damajas-ya-playin-yaself-in-episode-33-of-so-wassup/",
+        "kind": "本人談を紹介する署名記事"
       }
     ],
     "producers": [
@@ -6137,7 +6223,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "group-home-livin-proof",
@@ -6185,11 +6279,11 @@
       "lettering": "subway",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "温かなループと素朴な声。磨きすぎない魅力を残す。",
-    "essayTitle": "磨かれたループと飾らない声の親しみやすさ",
+    "deck": "元曲の大きさと、ビートに選ばれる断片の短さは同じではない。",
+    "essayTitle": "長いソロから、三つの音を残す。",
     "essay": [
-      "温かなループと素朴な声。磨きすぎない魅力を残す。",
-      "磨かれたループと、飾りすぎない声の取り合わせに耳を向ける。二つの質感が少し違うことが、そのまま曲の親しみやすさになっているように思う。"
+      "タイトル曲「Livin’ Proof」の手がかりは、長い演奏の中のごく小さな部分にある。Albumism の Jesse Ducker は、Premier が Ramsey Lewis「Collage」の長い鍵盤ソロから三つの音を取り、ドラムと組み合わせたと説明している。大きな旋律を丸ごと借りるのではなく、短い断片を曲の中心へ据える仕事として捉えられる。",
+      "この指摘を入口に聴き比べるなら、元曲の有名な箇所を探すより、演奏の途中で通り過ぎる音に注意を向けたい。選び出される前と、反復の中心になったあと。同じ音の役割がどう変わるのかを考えると、短いループをただ単調と片づけずに済む。"
     ],
     "facts": [
       {
@@ -6203,14 +6297,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "温かなループと素朴な声。磨きすぎない魅力を残す。"
+      "「Collage」と比較するなら、短い鍵盤の断片が曲の中心になる変化に注目したい。"
     ],
-    "context": "磨かれたループと、飾りすぎない声の取り合わせに耳を向ける。二つの質感が少し違うことが、そのまま曲の親しみやすさになっているように思う。",
+    "context": "長い演奏の一部が、短いループの主役になる。Duckerの分析は、選ばれた三音へ耳を向ける手がかりになる。",
     "sources": [
       {
         "label": "YouTube — Group Home / Livin' Proof",
         "url": "https://www.youtube.com/watch?v=NA6nF3qM_pI",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Albumism — Jesse Ducker による Livin’ Proof 回顧",
+        "url": "https://albumism.com/features/group-home-debut-album-livin-proof-album-anniversary",
+        "kind": "署名批評"
       }
     ],
     "producers": [
@@ -6232,7 +6331,15 @@
       "raw-beats"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "all-city-productions-unsolved-mysterme",
@@ -6279,11 +6386,12 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "定番の隣に置きたい、掘ったレコードの手触り。",
-    "essayTitle": "定番の合間で、知名度より耳の反応を試す",
+    "deck": "All City から Gee Street へ。「再発」だけでは説明できない版の違いがある。",
+    "essayTitle": "同じ曲名で、歌詞も録音も作り直した。",
     "essay": [
-      "定番の隣に置きたい、掘ったレコードの手触り。",
-      "名の知られた曲の合間に置いて、耳が何に反応するかを試したい。知っているから好きなのか、音そのものに引かれたのか。棚を掘るときの問いが残る。"
+      "1994年5月28日付Billboardは、Gee StreetのJohn Bakerの説明として、「Unsolved Mysterme」を新しい歌詞とプロダクションで録り直したと報じている。同じ曲名でも、盤の出し直しだけではなかった。",
+      "同記事によれば、旧版はMystermeが1992年に西海岸でJoe Quixxと録音したデモから生まれ、All Cityから発売された。旧版の成立とGee Streetでの再録は、分けておきたい。",
+      "掲載中の参考動画がどちらの録音かは、音源照合を終えていない。同名曲をひとまとめにせず、レーベルと版を確かめながら聴き比べたい。"
     ],
     "facts": [
       {
@@ -6297,14 +6405,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "定番の隣に置きたい、掘ったレコードの手触り。"
+      "同名の動画や盤を比較するときは、All City 版か Gee Street の再録かを先に確かめたい。"
     ],
-    "context": "名の知られた曲の合間に置いて、耳が何に反応するかを試したい。知っているから好きなのか、音そのものに引かれたのか。棚を掘るときの問いが残る。",
+    "context": "旧録音と再録の違いを伝えた同時代の報道。掲載動画の版と各盤の制作クレジットは確認を続ける。",
     "sources": [
       {
         "label": "YouTube — All City Productions / Unsolved Mysterme",
         "url": "https://www.youtube.com/watch?v=2S4ONO9fERU",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Billboard — 1994年5月28日号「Gee Street Mystery」",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/90s/1994/BB-1994-05-28.pdf",
+        "kind": "同時代報道・レーベル代表と本人への取材"
       }
     ],
     "producers": [],
@@ -6318,7 +6431,18 @@
       "walk",
       "west"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "public-enemy-shut-em-down-pe-te-rock-mixx",
