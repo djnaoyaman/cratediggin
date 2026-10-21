@@ -2064,6 +2064,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "halftime-browser"
+    },
+    {
+      "id": "sampling-timeline",
+      "argv": [
+        "node",
+        "scripts/verify_sampling_timeline.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": false,
+      "label": "sampling-timeline"
+    },
+    {
+      "id": "sampling-timeline-browser",
+      "argv": [
+        "node",
+        "scripts/verify_sampling_timeline_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "sampling-timeline-browser"
     }
   ],
   "groups": {
@@ -2460,6 +2484,10 @@
       "halftime",
       "halftime-browser",
       "editor-affinity"
+    ],
+    "sampling_timeline": [
+      "sampling-timeline",
+      "sampling-timeline-browser"
     ]
   },
   "runtime_rules": {
@@ -3162,7 +3190,8 @@
       "scripts/fixtures/approved-editor-affinity.json"
     ],
     "scripts/approved_halftime.py": [
-      "scripts/fixtures/approved-halftime.json"
+      "scripts/fixtures/approved-halftime.json",
+      "scripts/approved_sampling_timeline.py"
     ],
     "scripts/verify_halftime.py": [
       "scripts/approved_halftime.py",
@@ -3170,6 +3199,16 @@
       "scripts/fixtures/editorial-legacy-debt.json"
     ],
     "scripts/verify_halftime_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_sampling_timeline.py": [
+      "scripts/fixtures/approved-sampling-timeline.json"
+    ],
+    "scripts/verify_sampling_timeline.cjs": [
+      "scripts/fixtures/approved-sampling-timeline.json"
+    ],
+    "scripts/verify_sampling_timeline_browser.cjs": [
+      "scripts/fixtures/approved-sampling-timeline.json",
       "scripts/verify_visible_art_browser.cjs"
     ]
   },
@@ -3225,7 +3264,9 @@
     "scripts/approved_editor_affinity.py",
     "scripts/fixtures/approved-editor-affinity.json",
     "scripts/approved_halftime.py",
-    "scripts/fixtures/approved-halftime.json"
+    "scripts/fixtures/approved-halftime.json",
+    "scripts/approved_sampling_timeline.py",
+    "scripts/fixtures/approved-sampling-timeline.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -3267,7 +3308,8 @@
     "FEATURE_COMPLETENESS.md",
     ".gitignore",
     "research/intake-something-20261021.json",
-    "research/intake-halftime-20261021.json"
+    "research/intake-halftime-20261021.json",
+    "research/sampling-timeline-evidence-20261021.json"
   ],
   "syntax_existing": [
     "dist/app.js",
@@ -3516,6 +3558,15 @@
         "after_sha256": "cccfbe07ed0efc2e11c64ebb5553e478a8d066538b39d4d0b00f89a60bda9cc6",
         "groups": [
           "person_photos"
+        ]
+      }
+    ],
+    "src/assets/timeline.js": [
+      {
+        "before_sha256": "1068985e2bbc3691ef0a75afe61324400c5a4cc2e6d47da64cab314a7389738c",
+        "after_sha256": "efc7a6e7076b541507367c98d2b2eb4711d407bac9f760414a8ecbc35a3511b6",
+        "groups": [
+          "sampling_timeline"
         ]
       }
     ]

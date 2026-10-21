@@ -1,0 +1,571 @@
+{
+  "preparedDate": "2026-10-21",
+  "purpose": "CRATEDIGGIN Timelineに追加する14件のデータと出典・編集上の制約。既存11件の置換用ではない。",
+  "scope": {
+    "coreCulturalEvents": 9,
+    "recommendedAdditionalLegalCards": [
+      "L1",
+      "L2",
+      "L4",
+      "L5",
+      "L6"
+    ],
+    "totalNewEvents": 14,
+    "totalLegalEventsIncludingCore1991": 6,
+    "existingEventsToPreserve": 11,
+    "expectedTotalAfterMerge": 25,
+    "optionalEventsExcluded": [
+      "1978-01-01 / L3",
+      "2016-06-02 / VMG Salsoul"
+    ]
+  },
+  "verificationMethod": "各項目の公開出典と日付の根拠、適用範囲、確認できた内容の限界を記録。関連曲IDは507件のカタログと照合。",
+  "catalogVerification": {
+    "path": "tracks.json",
+    "count": 507,
+    "sha256": "b634e00d24888bb98fb53cd191b8ffb290bb32c66048f7b2703bd917e9d0bd63",
+    "checkedIds": [
+      "public-enemy-fight-the-power",
+      "public-enemy-911-is-a-joke",
+      "dj-shadow-midnight-in-a-perfect-world",
+      "dj-shadow-organ-donor",
+      "madvillain-accordion",
+      "madvillain-all-caps",
+      "j-dilla-workinonit",
+      "j-dilla-donuts",
+      "de-la-soul-buddy",
+      "de-la-soul-stakes-is-high"
+    ],
+    "allIdsExist": true,
+    "maximumRelatedIdsPerEvent": 2,
+    "legalEventRelatedIdsEmpty": true,
+    "trackDataModified": false
+  },
+  "dataValidation": {
+    "eventsSha256": "daff0b308c5d7867158ddc610e2814967cc42baa4962c92ac0dd5da17ee1cffd",
+    "eventCount": 14,
+    "uniqueIds": true,
+    "yearMatchesDate": true,
+    "supportedDatePrecisionOnly": true,
+    "chronologicalOrder": true,
+    "sourceUrlsHttps": true,
+    "maximumPublicSourcesPerEvent": 2,
+    "noResearchMetadataInPublicEvents": true,
+    "existingEventsPreservation": "本準備工程では既存Timelineファイルを変更していない。既存11件の不変性とID衝突は統合時に唯一の書き手が確認する。"
+  },
+  "integrationNotes": [
+    "new-events.jsonは追加14件のみ。既存11件に追記する。",
+    "年精度のdateはYYYY、月精度はYYYY-MMのまま扱い、架空の1月1日や月初へ補完しない。",
+    "sourceとurlは単一出典表示への互換用。sourcesがある場合は主出典を含む最大2件で、重複表示しない。",
+    "relatedTrackIdsは関連作品を読む導線であり、特定機材の使用、旅先での制作、訴訟対象作品であることの主張ではない。",
+    "法令・裁判カードのcategoryに国・地域と施行／成立／命令／判決の区別を明示する。",
+    "現在のフィルター挙動、モバイルでのcategory折り返し、関連曲ルート、出典表示は統合側で確認する。",
+    "本ファイルは検証用の付録であり、内部の調査パスや作業方法を公開カードに表示しない。"
+  ],
+  "globalCaveats": [
+    "法律相談や個別サンプリングの適法性判断ではなく、歴史的制度と文化の出来事を説明する。",
+    "世界初のサンプリング、秒数による自動許諾、無条件のサンプリング許諾、架空の試聴経験を主張しない。",
+    "出典のsourcePublishedは記事や文書の公開日。歴史的な出来事の日付とは分け、未表示・未確認はnullとする。",
+    "日本法のe-Gov現行全文は先行調査で抽出できていないため、現行日本法を網羅的に監査したとは扱わない。",
+    "EUの2カードは裁判所の公式発表を読んだ範囲に明示的に限定。判決全文の未読は公開を妨げるデータ欠損ではないが、判決全文の読了を要件とする場合は追加検証が必要。"
+  ],
+  "events": [
+    {
+      "selection": "L1",
+      "datePrecision": "day",
+      "eventDateType": "日本の著作権法施行日",
+      "historicalDocumentDates": {
+        "enacted": "1970-04-28",
+        "promulgated": "1970-05-06",
+        "effective": "1971-01-01"
+      },
+      "evidence": "公布時の著作権法の第4章、第89条、第91条、第96条、および附則第1条。文化庁の解説は現在の制度を補足する資料で、1971年当時のすべての権利を示すものではない。",
+      "caveats": [
+        "1971年より前に実演や録音が全く保護されなかったとは述べない。",
+        "現在の70年の保護期間やオンライン利用の権利を1971年に遡及させない。",
+        "ヒップホップやサンプリングのために制定された法律とは述べない。",
+        "公布日とウェブ掲載日を区別する。ウェブ掲載日は未確認。"
+      ],
+      "additionalEvidence": [
+        {
+          "label": "文部科学省・改正経緯資料",
+          "url": "https://www.mext.go.jp/b_menu/shingi/bunka/gijiroku/013/020801b.pdf",
+          "sourcePublished": null
+        },
+        {
+          "label": "国会会議録・1970年3月11日の政府説明",
+          "url": "https://kokkai.ndl.go.jp/simple/detail?minId=106305077X00519700311",
+          "sourcePublished": null,
+          "originalDocumentDate": "1970-03-11"
+        }
+      ],
+      "id": "jp-neighboring-rights-effective-1971",
+      "eventDate": "1971-01-01",
+      "sources": [
+        {
+          "label": "衆議院・公布時の著作権法",
+          "url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/06319700506048.htm",
+          "sourcePublished": null,
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        },
+        {
+          "label": "文化庁・著作隣接権の解説",
+          "url": "https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/gaiyo/chosaku_rinsetsuken.html",
+          "sourcePublished": null,
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        }
+      ],
+      "relatedTracks": []
+    },
+    {
+      "selection": "L2",
+      "datePrecision": "day",
+      "eventDateType": "米国録音物保護改正法の録音保護規定施行日",
+      "historicalDocumentDates": {
+        "enacted": "1971-10-15",
+        "recordingProvisionsEffective": "1972-02-15"
+      },
+      "evidence": "Pub. L. 92-140, 85 Stat. 391の録音保護規定と、両日付を明記する米国著作権局の議会証言。",
+      "caveats": [
+        "法律のすべての規定が同日に施行されたとは述べない。",
+        "当時の制度には対象録音の時期などの条件があり、既存の全録音へ一律に保護が及んだわけではない。",
+        "1972年より前の録音が自動的に自由に使えたわけではなく、州法や後の連邦制度と区別する。",
+        "独立した再演奏と実際の録音の複製を同一視せず、再演奏が常に自由とも述べない。"
+      ],
+      "id": "us-sound-recording-protection-effective-1972",
+      "eventDate": "1972-02-15",
+      "sources": [
+        {
+          "label": "米国公法92-140",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-85/pdf/STATUTE-85-Pg391.pdf",
+          "sourcePublished": null,
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        },
+        {
+          "label": "米国著作権局・2000年議会証言",
+          "url": "https://www.copyright.gov/docs/regstat52500.html",
+          "sourcePublished": "2000-05-25",
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        }
+      ],
+      "relatedTracks": []
+    },
+    {
+      "selection": "core-1",
+      "datePrecision": "year",
+      "eventDateType": "初代モデルの登場年",
+      "evidence": "Powerhouse Museumの収蔵品解説の制作経緯が初代シリーズの1979年発売を記載。",
+      "caveats": [
+        "収蔵された機体は1985年製、取得は1986年。これらをモデルの発売年と取り違えない。",
+        "世界初のサンプラーとは述べない。",
+        "カタログ内のアーティストがこの機体を使ったと推定しない。"
+      ],
+      "id": "fairlight-cmi-introduction-1979",
+      "eventDate": "1979",
+      "sources": [
+        {
+          "label": "Powerhouse Museum・Fairlight CMI収蔵資料",
+          "url": "https://collection.powerhouse.com.au/object/66226",
+          "sourcePublished": null,
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        }
+      ],
+      "relatedTracks": []
+    },
+    {
+      "selection": "core-2",
+      "datePrecision": "year",
+      "eventDateType": "MPC60登場年",
+      "evidence": "設計者Roger LinnのMuseumページとFAQ。FAQは1988年のNAMMでの発表を記載。",
+      "caveats": [
+        "月日を断定しない。流通する12月8日説と同年春のレビューは整合しない。",
+        "MPC60をMPC60-IIやMPC3000と同一視しない。",
+        "関連曲の機材使用を推定しない。"
+      ],
+      "id": "akai-mpc60-introduction-1988",
+      "eventDate": "1988",
+      "sources": [
+        {
+          "label": "Roger Linn Design・Museum",
+          "url": "https://www.rogerlinndesign.com/about/about-museum",
+          "sourcePublished": null,
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        },
+        {
+          "label": "Roger Linn・FAQ",
+          "url": "https://www.rogerlinndesign.com/about/roger-faq",
+          "sourcePublished": null,
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        }
+      ],
+      "relatedTracks": []
+    },
+    {
+      "selection": "core-3",
+      "datePrecision": "month",
+      "eventDateType": "アルバム発売月",
+      "evidence": "米国議会図書館が掲載するRickey Vincent執筆の解説。PDFの1ページ目にサンプリングと音の積層、3ページ目に1990年4月の発売。",
+      "caveats": [
+        "米国議会図書館掲載の外部専門家による解説であり、公的な法的認定ではない。",
+        "2004年の録音物登録年は記事の公開日ではない。解説は2015年までの資料を参照している。",
+        "社会に向けた声を支える表現という表現は資料の記述に基づく編集上のまとめ。",
+        "Fight the Powerの初出年1989年は変えない。1990年はアルバムの出来事。"
+      ],
+      "id": "public-enemy-fear-of-a-black-planet-1990",
+      "eventDate": "1990-04",
+      "sources": [
+        {
+          "label": "Rickey Vincent・米国議会図書館掲載解説",
+          "url": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/FearOfABlackPlanet.pdf",
+          "sourcePublished": null,
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        }
+      ],
+      "relatedTracks": [
+        {
+          "id": "public-enemy-fight-the-power",
+          "title": "Fight the Power",
+          "artist": "Public Enemy",
+          "year": 1989,
+          "album": "Fear of a Black Planet"
+        },
+        {
+          "id": "public-enemy-911-is-a-joke",
+          "title": "911 Is a Joke",
+          "artist": "Public Enemy",
+          "year": 1990,
+          "album": "Fear of a Black Planet"
+        }
+      ]
+    },
+    {
+      "selection": "core-4",
+      "datePrecision": "day",
+      "eventDateType": "米ニューヨーク南部地区連邦地裁の仮差止命令日",
+      "historicalDocumentDates": {
+        "memorandumAndOrder": "1991-12-17"
+      },
+      "evidence": "Grand Upright Music Ltd. v. Warner Bros. Records Inc., 780 F. Supp. 182のmemorandum and order。無許諾複製、権利の帰属、仮差止めを扱う裁判所本文。",
+      "caveats": [
+        "JustiaのAI要約ではなく、掲載された裁判所本文が根拠。",
+        "世界共通のサンプリング禁止や、権利処理の誕生を定めた判断とは述べない。",
+        "判決文には既存の権利処理部門への言及がある。",
+        "訴訟対象でないBiz Markieの曲を関連付けない。"
+      ],
+      "id": "grand-upright-biz-markie-injunction-1991",
+      "eventDate": "1991-12-17",
+      "sources": [
+        {
+          "label": "裁判所命令全文・Justia収録",
+          "url": "https://law.justia.com/cases/federal/district-courts/FSupp/780/182/1445286/",
+          "sourcePublished": null,
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        },
+        {
+          "label": "判例集原文・Berkeley Law収録",
+          "url": "https://www.law.berkeley.edu/files/Grand_Upright_Music.pdf",
+          "sourcePublished": null,
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        }
+      ],
+      "relatedTracks": []
+    },
+    {
+      "selection": "core-5",
+      "datePrecision": "year",
+      "eventDateType": "原盤アルバム発売年",
+      "evidence": "アーティスト公式の30周年ツアー告知は1996年のデビュー作と記載。公式ストア掲載の当時のレビューが制作と作品の文脈を補足。",
+      "caveats": [
+        "地域別の初発売日の確認が未了のため、年の精度にとどめる。",
+        "公式ストアのReleased 2006は販売中の版の情報であり、原盤の発売年ではない。",
+        "最初の全曲サンプリング・アルバムとは述べない。",
+        "作品の表現をたどるという表現は編集上の案内であり、実際に試聴したとの主張ではない。"
+      ],
+      "id": "dj-shadow-endtroducing-release-1996",
+      "eventDate": "1996",
+      "sources": [
+        {
+          "label": "DJ Shadow公式・1996年のデビュー作を回顧",
+          "url": "https://djshadow.com/blogs/news/fall-2026-north-america-endtroduicng-30-tour-presale",
+          "sourcePublished": "2026-06-15",
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        },
+        {
+          "label": "公式ストア・作品解説と当時のレビュー",
+          "url": "https://djshadow.com/collections/vinyl/products/dj-shadow-endtroducing-lp",
+          "sourcePublished": null,
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        }
+      ],
+      "relatedTracks": [
+        {
+          "id": "dj-shadow-midnight-in-a-perfect-world",
+          "title": "Midnight in a Perfect World",
+          "artist": "DJ Shadow",
+          "year": 1996,
+          "album": "Endtroducing....."
+        },
+        {
+          "id": "dj-shadow-organ-donor",
+          "title": "Organ Donor",
+          "artist": "DJ Shadow",
+          "year": 1996,
+          "album": "Endtroducing....."
+        }
+      ]
+    },
+    {
+      "selection": "core-6",
+      "datePrecision": "year",
+      "eventDateType": "製品発売年",
+      "evidence": "メーカーの歴史記事は1998年のSP-202から3年後にSP-303が登場と記述。メーカーの修理対応製品一覧は発売年2001を明記。",
+      "caveats": [
+        "2001年の取扱説明書の著作権表示は補強であり、それだけを発売年の証明としない。",
+        "メーカー記事中の別製品についての世界初DAWなどの記述を転載しない。",
+        "Donuts全体が一台の機材で作られたと述べない。"
+      ],
+      "additionalEvidence": [
+        {
+          "label": "BOSS SP-303取扱説明書",
+          "url": "https://cdn.roland.com/assets/media/pdf/SP-303_OM.pdf",
+          "sourcePublished": null,
+          "copyrightYear": 2001
+        }
+      ],
+      "id": "boss-sp303-introduction-2001",
+      "eventDate": "2001",
+      "sources": [
+        {
+          "label": "Roland・サンプラーの歴史",
+          "url": "https://articles.roland.com/a-history-of-roland-samplers/",
+          "sourcePublished": "2021-11-10",
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        },
+        {
+          "label": "Roland・発売年を記した製品一覧",
+          "url": "https://proav.roland.com/jp/support/service_repair/1708080000/",
+          "sourcePublished": null,
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        }
+      ],
+      "relatedTracks": []
+    },
+    {
+      "selection": "core-7",
+      "datePrecision": "day",
+      "eventDateType": "アルバム発売日",
+      "evidence": "Stones Throwの10周年回顧。2004年3月23日の発売日と、Madlibのブラジルでの制作機材を記載。",
+      "caveats": [
+        "ブラジルでの制作は発売より前の出来事であり、発売日当日の行為ではない。",
+        "AccordionやAll Capsがブラジルで制作されたとは特定しない。関連リンクはアルバム収録曲への導線。",
+        "Meat GrinderとFigaroは記事にLAの家での早期制作の記述があり、ブラジル制作の実例にしない。"
+      ],
+      "id": "madvillain-madvillainy-release-2004",
+      "eventDate": "2004-03-23",
+      "sources": [
+        {
+          "label": "Stones Throw・Madvillainy 10周年回顧",
+          "url": "https://www.stonesthrow.com/news/madvillain-madvillainy/",
+          "sourcePublished": "2014-03-23",
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        }
+      ],
+      "relatedTracks": [
+        {
+          "id": "madvillain-accordion",
+          "title": "Accordion",
+          "artist": "Madvillain",
+          "year": 2004,
+          "album": "Madvillainy"
+        },
+        {
+          "id": "madvillain-all-caps",
+          "title": "All Caps",
+          "artist": "Madvillain",
+          "year": 2004,
+          "album": "Madvillainy"
+        }
+      ]
+    },
+    {
+      "selection": "core-8",
+      "datePrecision": "day",
+      "eventDateType": "原盤アルバム発売日",
+      "evidence": "Stones Throwの20周年盤記事が原盤発売日2006年2月7日とデモテープからの制作経緯を記載。Apple Musicのレーベル提供情報で31曲を補強。",
+      "caveats": [
+        "20周年盤記事の公開日や再発盤の発売日を原盤の発売日と取り違えない。",
+        "全曲病院制作説や単一サンプラー制作説を採用しない。",
+        "耳を向ける入口という表現は編集上の案内であり、実際に試聴したとの主張ではない。"
+      ],
+      "id": "j-dilla-donuts-release-2006",
+      "eventDate": "2006-02-07",
+      "sources": [
+        {
+          "label": "Stones Throw・発売日と制作経緯",
+          "url": "https://www.stonesthrow.com/news/j-dilla-donuts-20th-anniversary-audiophile-edition-vinyl/",
+          "sourcePublished": "2025-10-23",
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        },
+        {
+          "label": "Apple Music・31曲の収録情報",
+          "url": "https://music.apple.com/us/album/donuts/108233171",
+          "sourcePublished": null,
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        }
+      ],
+      "relatedTracks": [
+        {
+          "id": "j-dilla-workinonit",
+          "title": "Workinonit",
+          "artist": "J Dilla",
+          "year": 2006,
+          "album": "Donuts"
+        },
+        {
+          "id": "j-dilla-donuts",
+          "title": "Donuts",
+          "artist": "J Dilla",
+          "year": 2006,
+          "album": "Donuts"
+        }
+      ]
+    },
+    {
+      "selection": "L4",
+      "datePrecision": "day",
+      "eventDateType": "米国Music Modernization Act成立日",
+      "historicalDocumentDates": {
+        "enacted": "2018-10-11"
+      },
+      "evidence": "米国著作権局の1972年以前の録音に関する解説とMMA成立経緯。第2編は連邦法上の救済と例外を整備。",
+      "caveats": [
+        "MMA第1編の包括的ライセンス制度の稼働日2021年1月1日とは区別する。",
+        "古い録音を通常の連邦著作権制度に完全かつ一律に遡及編入したとは述べない。",
+        "全録音が一律に2067年まで保護されるとは述べない。",
+        "包括的なサンプリング許諾ではない。曲そのものと録音の権利は分けて扱う。"
+      ],
+      "additionalEvidence": [
+        {
+          "label": "17 USC 1401",
+          "url": "https://www.copyright.gov/title17/92chap14.html",
+          "sourcePublished": null
+        }
+      ],
+      "id": "us-mma-pre1972-recordings-enacted-2018",
+      "eventDate": "2018-10-11",
+      "sources": [
+        {
+          "label": "米国著作権局・1972年以前の録音",
+          "url": "https://www.copyright.gov/music-modernization/pre1972-soundrecordings/",
+          "sourcePublished": null,
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        },
+        {
+          "label": "米国著作権局・MMA成立の経緯",
+          "url": "https://www.copyright.gov/music-modernization/creation.html",
+          "sourcePublished": null,
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        }
+      ],
+      "relatedTracks": []
+    },
+    {
+      "selection": "L5",
+      "datePrecision": "day",
+      "eventDateType": "EU司法裁判所C-476/17判決日",
+      "evidence": "EU司法裁判所の公式プレスリリース98/19。先行調査で全文が読まれた資料はこの公表説明であり、判決全文ではない。表示本文も「公式発表によると」と限定する。",
+      "caveats": [
+        "プレスリリースは非拘束的説明であり、判決そのものではない。",
+        "録音製作者の複製権についてのEU法解釈を、すべての権利や国に広げない。",
+        "秒数による一律の自由利用ルールや、認識不能性についての個別助言にしない。",
+        "2026年の例外解釈カードと併記し、2019年のみを現在の法制度全体の要約としない。"
+      ],
+      "unreadPrimaryJudgment": {
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62017CJ0476",
+        "status": "先行調査ではJavaScript確認画面となり、判決本文は未読。回避やCAPTCHA操作は行っていない。"
+      },
+      "id": "eu-pelham-phonogram-judgment-2019",
+      "eventDate": "2019-07-29",
+      "sources": [
+        {
+          "label": "EU司法裁判所・C-476/17公式発表",
+          "url": "https://curia.europa.eu/jcms/upload/docs/application/pdf/2019-07/cp190098en.pdf",
+          "sourcePublished": "2019-07-29",
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        }
+      ],
+      "relatedTracks": []
+    },
+    {
+      "selection": "core-9",
+      "datePrecision": "day",
+      "eventDateType": "初期6アルバムの配信開始日",
+      "evidence": "権利者Reservoirの当日配信告知と、18か月の権利処理・配信準備を述べる翌年の回顧。",
+      "caveats": [
+        "18か月という説明はReservoirに帰属させ、独立した監査結果として断定しない。",
+        "すべてのサンプルが原盤と同一であるとは述べない。",
+        "Buddyの1989年、Stakes Is Highの1996年という原曲の初出年を変更しない。"
+      ],
+      "id": "de-la-soul-six-albums-streaming-2023",
+      "eventDate": "2023-03-03",
+      "sources": [
+        {
+          "label": "Reservoir・初期6作品の配信開始",
+          "url": "https://reservoir-media.com/reservoir-celebrates-de-la-souls-catalog-out-now-on-all-streaming-platforms/",
+          "sourcePublished": "2023-03-03",
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        },
+        {
+          "label": "Reservoir・18か月の準備を振り返る",
+          "url": "https://reservoir-media.com/de-la-soul-campaign-wins-marketing-superstar-award-at-the-2024-bizzy-awards/",
+          "sourcePublished": "2024-05-16",
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        }
+      ],
+      "relatedTracks": [
+        {
+          "id": "de-la-soul-buddy",
+          "title": "Buddy",
+          "artist": "De La Soul",
+          "year": 1989,
+          "album": "3 Feet High and Rising"
+        },
+        {
+          "id": "de-la-soul-stakes-is-high",
+          "title": "Stakes Is High",
+          "artist": "De La Soul",
+          "year": 1996,
+          "album": "Stakes Is High"
+        }
+      ]
+    },
+    {
+      "selection": "L6",
+      "datePrecision": "day",
+      "eventDateType": "EU司法裁判所C-590/23判決日",
+      "evidence": "EU司法裁判所の公式プレスリリース50/26。先行調査で読まれた資料はこの公表説明であり、表示本文も「公式発表によると」と限定する。",
+      "caveats": [
+        "プレスリリースは非拘束的説明であり、判決全文を読んだとは扱わない。",
+        "2025年6月17日の法務官意見や、ドイツの例外施行日2021年6月7日とは区別する。",
+        "既存作品を想起させること、明確な違い、認識できる芸術的・創造的対話という説明を維持する。",
+        "あらゆる創造的再利用を自動的に許すものでも、隠された模倣や剽窃を含むものでもない。",
+        "EU司法裁判所がNur mirの最終的な適法性を確定したとは述べない。具体的な紛争は国内裁判所が判断する。最新のドイツ国内最終処分はこの資料で検証していない。"
+      ],
+      "unreadPrimaryJudgment": {
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62023CJ0590",
+        "status": "先行調査ではJavaScript確認画面となり、判決本文は未読。回避やCAPTCHA操作は行っていない。"
+      },
+      "id": "eu-pelham-pastiche-judgment-2026",
+      "eventDate": "2026-04-14",
+      "sources": [
+        {
+          "label": "EU司法裁判所・C-590/23公式発表",
+          "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-04/cp260050en.pdf",
+          "sourcePublished": "2026-04-14",
+          "verificationBasis": "先行調査資料の読了記録。今回の準備工程では再取得していない。"
+        }
+      ],
+      "relatedTracks": []
+    }
+  ]
+}
