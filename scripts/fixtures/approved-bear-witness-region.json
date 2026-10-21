@@ -1,0 +1,307 @@
+{
+  "base": "3a0b7092fddf5c4b9669df3666fdeb50e584190f",
+  "beforeRecord": {
+    "id": "dr-octagon-bear-witness",
+    "title": "Bear Witness",
+    "artist": "Dr. Octagon",
+    "year": 1996,
+    "yearBasis": "1996年の原作アルバムに収録された約3分の録音。後年の再編集・再発年と区別する。",
+    "album": "Dr. Octagon / Dr. Octagonecologyst",
+    "producer": "Dan the Automator",
+    "producers": [
+      "Dan the Automator"
+    ],
+    "essay": [
+      "「Bear Witness」を掘るときは、まず版を分けておきたい。Interscopeの公式曲目では、約3分の「Q-Bert’s Story」と、6分46秒の「Automator’s 2 Turntables and a Razor Blade Re-Edit」が別々に載る。 ここで辿るのは約3分のアルバム版。長尺の再編集とは異なる録音として聴きたい。",
+      "Dan the Automatorは原作について、Kool Keithのキャラクターを聞いて音楽を組み立て、Qbertを迎え入れたと語っている。制作場所は両親の家の地下にあったGlue Factory。レコード会社の期待する音に合わせずに進められた自由も、彼が強調する点だ。 Qbertへの評価を語る別のインタビューからも、ターンテーブルを特別な演奏の場として考える姿勢が伝わる。 この曲を入口にすると、Dr. OctagonをMC一人の変名だけで捉えず、声、制作、DJの技術が持ち場を持つ作品として辿れる。"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "個々のサンプル音源の出典は未確認です。素材が使われていないという意味ではありません。",
+    "sources": [
+      {
+        "label": "YouTube：公式配信 — Bear Witness",
+        "url": "https://www.youtube.com/watch?v=35g7cZEW9Aw",
+        "kind": "配信メタデータ",
+        "verified": "2026-10-18",
+        "scope": "タイトル・投稿者・説明欄・長さ・埋込宣言を照合。実再生の確認とは区別。"
+      },
+      {
+        "label": "Dr. Octagonecologyst IVC Edition, Interscope",
+        "url": "https://interscope.com/products/dr-octagon-dr-octagonecologyst-ivc-edition",
+        "kind": "official label catalog",
+        "scope": "Original album dated 1996; Bear Witness (Q-Bert’s Story) 3:00 distinguished from Automator’s 2 Turntables and a Razor Blade Re-Edit 6:46. Label identifies Dan production and Q-Bert turntablism."
+      },
+      {
+        "label": "Dan the Automator and DJ Hard Rich interview, Keith McMillen Instruments",
+        "url": "https://keithmcmillen.com/blog/interview-dan-automator-dj-hard-rich-k-mix-dr-octagon/",
+        "kind": "primary producer interview",
+        "scope": "Dan explains bringing Qbert into the project, independent creative freedom, and recording the original album at the Glue Factory in his parents basement. Album context, not a Bear Witness session-by-session account."
+      },
+      {
+        "label": "I’m a Student of Music and Always Have Been, Dan the Automator interview",
+        "url": "https://www.powmag.net/p/dan-the-automator-interview",
+        "kind": "primary producer interview",
+        "scope": "Qbertの技量とスクラッチへの考え方についてのDan the Automatorの証言。2018年の作品についての話題も含む。"
+      },
+      {
+        "label": "Dr Octagon (International Version), Spotify metadata",
+        "url": "https://open.spotify.com/intl-de/track/4Yd8l1oORFmk2q6MaIsur8",
+        "kind": "licensed platform metadata",
+        "scope": "1996 Bulk phonogram/A&M copyright; album listing has Bear Witness at 3:01. URL is title-track page containing full listing, not Bear Witness playback URL."
+      },
+      {
+        "label": "Qobuz licensed track credits",
+        "url": "https://www.qobuz.com/it-it/album/dr-octagonecologyst-dr-octagon/svsti6tws8hrc",
+        "kind": "licensed credits",
+        "scope": "Track 11 Bear Witness 3:00: producer/mixing Automator; composer Daniel M. Nakamura."
+      },
+      {
+        "label": "原盤・レーベル表記：www.irishtimes.com",
+        "url": "https://www.irishtimes.com/culture/dance-1.60458",
+        "scope": "Contemporary June 21 1996 album review prints Mo Wax/Bulk, MWO46CD. Supports original-period label wording, not edition chronology or first-release day."
+      }
+    ],
+    "connections": [],
+    "listening": [],
+    "moods": [
+      "グルーヴ"
+    ],
+    "sounds": [],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "editorialStatus": "掲載音源のメタデータを照合。実再生は未確認です。",
+    "noteReviewedAt": "2026-10-18",
+    "addedOrder": 483,
+    "versionBasis": "Original circa-three-minute album recording, also subtitled Q-Bert’s Story. Not the 6:46 Automator re-edit or Bear Witness IV.",
+    "aliases": [
+      "Bear Witness (Q-Bert’s Story)",
+      "Dr Octagon — Bear Witness"
+    ],
+    "youtube": {
+      "id": "35g7cZEW9Aw",
+      "url": "https://www.youtube.com/watch?v=35g7cZEW9Aw",
+      "title": "Bear Witness",
+      "channel": "Dr. Octagon - Topic",
+      "type": "公式配信",
+      "official": true,
+      "verified": "2026-10-18",
+      "duration": "PT3M1S",
+      "version": "Original circa-three-minute album recording, also subtitled Q-Bert’s Story. Not the 6:46 Automator re-edit or Bear Witness IV.",
+      "versionBasis": "Title/album/producer/runtime agree with licensed Qobuz and label original-version listings. Metadata qualified, not actual playback.",
+      "embedUrl": "https://www.youtube.com/embed/35g7cZEW9Aw",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false
+    },
+    "art": {
+      "word": "BEAR WITNESS",
+      "lines": [
+        "BEAR WITNESS"
+      ],
+      "tag": "DR. OCTAGON",
+      "style": "piece",
+      "seed": 3183687548,
+      "palette": [
+        "#292228",
+        "#e6dfcc",
+        "#ad3c4c",
+        "#a49383",
+        "#bac2a8",
+        "#c5aa67"
+      ],
+      "paletteSource": "Dr. Octagon / Dr. Octagonecologyst",
+      "paletteSourceUrl": "https://musicbrainz.org/release/2271e923-291d-4dd0-96d7-3cf3f9d294ed/cover-art",
+      "paletteNote": "1996年Bulk盤ジャケットを目視した近似配色。古紙のクリーム、トープ、赤、黒、淡いセージ、黄土色。 印刷色の厳密な指定値ではありません。"
+    },
+    "region": "California",
+    "scene": "San Francisco / Dr. Octagon / Turntablism",
+    "label": "Bulk Recordings / Mo’ Wax",
+    "essayTitle": "Qbertの手が語る、Dr. Octagonのもう一つの顔",
+    "deck": "Dan the Automatorの証言から、制作とターンテーブルが出会う場所へ。",
+    "context": "Dan the Automatorの証言から、制作とターンテーブルが出会う場所へ。",
+    "category": "Hip Hop",
+    "datePublished": "2026-10-18",
+    "artists": [
+      "Dr. Octagon"
+    ]
+  },
+  "afterRecord": {
+    "id": "dr-octagon-bear-witness",
+    "title": "Bear Witness",
+    "artist": "Dr. Octagon",
+    "year": 1996,
+    "yearBasis": "1996年の原作アルバムに収録された約3分の録音。後年の再編集・再発年と区別する。",
+    "album": "Dr. Octagon / Dr. Octagonecologyst",
+    "producer": "Dan the Automator",
+    "producers": [
+      "Dan the Automator"
+    ],
+    "essay": [
+      "「Bear Witness」を掘るときは、まず版を分けておきたい。Interscopeの公式曲目では、約3分の「Q-Bert’s Story」と、6分46秒の「Automator’s 2 Turntables and a Razor Blade Re-Edit」が別々に載る。 ここで辿るのは約3分のアルバム版。長尺の再編集とは異なる録音として聴きたい。",
+      "Dan the Automatorは原作について、Kool Keithのキャラクターを聞いて音楽を組み立て、Qbertを迎え入れたと語っている。制作場所は両親の家の地下にあったGlue Factory。レコード会社の期待する音に合わせずに進められた自由も、彼が強調する点だ。 Qbertへの評価を語る別のインタビューからも、ターンテーブルを特別な演奏の場として考える姿勢が伝わる。 この曲を入口にすると、Dr. OctagonをMC一人の変名だけで捉えず、声、制作、DJの技術が持ち場を持つ作品として辿れる。"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "個々のサンプル音源の出典は未確認です。素材が使われていないという意味ではありません。",
+    "sources": [
+      {
+        "label": "YouTube：公式配信 — Bear Witness",
+        "url": "https://www.youtube.com/watch?v=35g7cZEW9Aw",
+        "kind": "配信メタデータ",
+        "verified": "2026-10-18",
+        "scope": "タイトル・投稿者・説明欄・長さ・埋込宣言を照合。実再生の確認とは区別。 2026年10月21日の地域宣言は米国のみで、日本を含まないため再生先には使っていません。"
+      },
+      {
+        "label": "Dr. Octagonecologyst IVC Edition, Interscope",
+        "url": "https://interscope.com/products/dr-octagon-dr-octagonecologyst-ivc-edition",
+        "kind": "official label catalog",
+        "scope": "Original album dated 1996; Bear Witness (Q-Bert’s Story) 3:00 distinguished from Automator’s 2 Turntables and a Razor Blade Re-Edit 6:46. Label identifies Dan production and Q-Bert turntablism."
+      },
+      {
+        "label": "Dan the Automator and DJ Hard Rich interview, Keith McMillen Instruments",
+        "url": "https://keithmcmillen.com/blog/interview-dan-automator-dj-hard-rich-k-mix-dr-octagon/",
+        "kind": "primary producer interview",
+        "scope": "Dan explains bringing Qbert into the project, independent creative freedom, and recording the original album at the Glue Factory in his parents basement. Album context, not a Bear Witness session-by-session account."
+      },
+      {
+        "label": "I’m a Student of Music and Always Have Been, Dan the Automator interview",
+        "url": "https://www.powmag.net/p/dan-the-automator-interview",
+        "kind": "primary producer interview",
+        "scope": "Qbertの技量とスクラッチへの考え方についてのDan the Automatorの証言。2018年の作品についての話題も含む。"
+      },
+      {
+        "label": "Dr Octagon (International Version), Spotify metadata",
+        "url": "https://open.spotify.com/intl-de/track/4Yd8l1oORFmk2q6MaIsur8",
+        "kind": "licensed platform metadata",
+        "scope": "1996 Bulk phonogram/A&M copyright; album listing has Bear Witness at 3:01. URL is title-track page containing full listing, not Bear Witness playback URL."
+      },
+      {
+        "label": "Qobuz licensed track credits",
+        "url": "https://www.qobuz.com/it-it/album/dr-octagonecologyst-dr-octagon/svsti6tws8hrc",
+        "kind": "licensed credits",
+        "scope": "Track 11 Bear Witness 3:00: producer/mixing Automator; composer Daniel M. Nakamura."
+      },
+      {
+        "label": "原盤・レーベル表記：www.irishtimes.com",
+        "url": "https://www.irishtimes.com/culture/dance-1.60458",
+        "scope": "Contemporary June 21 1996 album review prints Mo Wax/Bulk, MWO46CD. Supports original-period label wording, not edition chronology or first-release day."
+      },
+      {
+        "label": "YouTube：TONES' TUNES — Dr. Octagon - Bear Witness",
+        "url": "https://www.youtube.com/watch?v=_dC7jx1iqxY",
+        "kind": "非公式参考投稿のメタデータ",
+        "verified": "2026-10-21",
+        "scope": "原作アルバム名・Automator・181秒を照合。JPを含む地域宣言と埋め込み許可を確認。実再生・音声同一性は未確認。"
+      }
+    ],
+    "connections": [],
+    "listening": [],
+    "moods": [
+      "グルーヴ"
+    ],
+    "sounds": [],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "audioVerificationStatus": "metadata_qualified_playback_unverified",
+    "editorialStatus": "日本を含む配信地域と埋め込み許可のメタデータを確認した非公式の参考投稿です。日本国内での実再生・音声の同一性は未確認です。",
+    "noteReviewedAt": "2026-10-18",
+    "addedOrder": 483,
+    "versionBasis": "Original circa-three-minute album recording, also subtitled Q-Bert’s Story. Not the 6:46 Automator re-edit or Bear Witness IV.",
+    "aliases": [
+      "Bear Witness (Q-Bert’s Story)",
+      "Dr Octagon — Bear Witness"
+    ],
+    "youtube": {
+      "id": "_dC7jx1iqxY",
+      "url": "https://www.youtube.com/watch?v=_dC7jx1iqxY",
+      "title": "Dr. Octagon - Bear Witness",
+      "channel": "TONES' TUNES",
+      "type": "参考投稿（非公式）",
+      "official": false,
+      "verified": "2026-10-21",
+      "duration": "PT3M1S",
+      "version": "Metadata consistent with the circa-three-minute album recording (Q-Bert’s Story), not the6:46 re-edit or Bear Witness IV; audio equivalence unverified.",
+      "versionBasis": "投稿説明の原作アルバム名・Automatorの制作表記と181秒の長さが、約3分のアルバム版の資料と整合します。1997年表記は投稿説明のDreamWorks盤を指し、原作1996年とは区別します。波形・マスターの同一性、実再生、日本国内での実再生は未確認です。",
+      "embedUrl": "https://www.youtube.com/embed/_dC7jx1iqxY",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanRegionStatus": "included",
+      "playabilityStatus": "OK",
+      "playableInEmbed": true,
+      "regionMetadataCheckedAt": "2026-10-21",
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false
+    },
+    "art": {
+      "word": "BEAR WITNESS",
+      "lines": [
+        "BEAR WITNESS"
+      ],
+      "tag": "DR. OCTAGON",
+      "style": "piece",
+      "seed": 3183687548,
+      "palette": [
+        "#292228",
+        "#e6dfcc",
+        "#ad3c4c",
+        "#a49383",
+        "#bac2a8",
+        "#c5aa67"
+      ],
+      "paletteSource": "Dr. Octagon / Dr. Octagonecologyst",
+      "paletteSourceUrl": "https://musicbrainz.org/release/2271e923-291d-4dd0-96d7-3cf3f9d294ed/cover-art",
+      "paletteNote": "1996年Bulk盤ジャケットを目視した近似配色。古紙のクリーム、トープ、赤、黒、淡いセージ、黄土色。 印刷色の厳密な指定値ではありません。"
+    },
+    "region": "California",
+    "scene": "San Francisco / Dr. Octagon / Turntablism",
+    "label": "Bulk Recordings / Mo’ Wax",
+    "essayTitle": "Qbertの手が語る、Dr. Octagonのもう一つの顔",
+    "deck": "Dan the Automatorの証言から、制作とターンテーブルが出会う場所へ。",
+    "context": "Dan the Automatorの証言から、制作とターンテーブルが出会う場所へ。",
+    "category": "Hip Hop",
+    "datePublished": "2026-10-18",
+    "artists": [
+      "Dr. Octagon"
+    ]
+  },
+  "files": {
+    "tracks.json": {
+      "beforeSHA256": "d8b772c8929bf9985fc9ee1165e37adc0c7cfd811e82bdca8db67adf5b9c1600",
+      "afterSHA256": "3b8c18cd1460c62ffaec3361cc3af7c00b91f79f1dc4f5caf5efacaf8f44ad1e"
+    },
+    "releases.json": {
+      "beforeSHA256": "6e4c269bff0fb36ecfeabf9a5209375f4c2e64b0c3609af37b155a3d19bcdc4d",
+      "afterSHA256": "01a89bde4a401f0b4e890f18db16e8df23d0fcbd73badc73338699bf7c89dc7d"
+    }
+  },
+  "beforeVersion": "22.29",
+  "protected": {
+    "editorial_deepdives.json": "f68168fc1a782706555976e87ecb920e0a30b2b8c071e23662dda504d4a8bc3a",
+    "graffiti_artwork.json": "f26024b9ca55ba0b10e5f0dc62bfcc3ffc54106cfd0b577d729303a23a036305",
+    "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+    "src/app/player.js": "6796ca1e0ebe8ede8c3619fd6af2785410d247728bb627e79dceb8769e942c0a"
+  }
+}

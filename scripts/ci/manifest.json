@@ -2136,6 +2136,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "live-video-year-labels-browser"
+    },
+    {
+      "id": "bear-witness-region",
+      "argv": [
+        "python",
+        "scripts/verify_bear_witness_region.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "bear-witness-region"
+    },
+    {
+      "id": "bear-witness-region-browser",
+      "argv": [
+        "node",
+        "scripts/verify_bear_witness_region_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "bear-witness-region-browser"
     }
   ],
   "groups": {
@@ -2544,6 +2568,10 @@
     "live_video_year_labels": [
       "live-video-year-labels",
       "live-video-year-labels-browser"
+    ],
+    "bear_witness_region": [
+      "bear-witness-region",
+      "bear-witness-region-browser"
     ]
   },
   "runtime_rules": {
@@ -3288,7 +3316,17 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/approved_live_video_year_labels.py": [
-      "scripts/fixtures/approved-live-video-year-labels.json"
+      "scripts/fixtures/approved-live-video-year-labels.json",
+      "scripts/approved_bear_witness_region.py"
+    ],
+    "scripts/verify_bear_witness_region.py": [
+      "scripts/approved_bear_witness_region.py"
+    ],
+    "scripts/verify_bear_witness_region_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_bear_witness_region.py": [
+      "scripts/fixtures/approved-bear-witness-region.json"
     ]
   },
   "policy_paths": [
@@ -3350,7 +3388,9 @@
     "scripts/fixtures/approved-sort-direction.json",
     "scripts/approved_live_video_year_labels.py",
     "scripts/fixtures/live-video-year-labels.json",
-    "scripts/fixtures/approved-live-video-year-labels.json"
+    "scripts/fixtures/approved-live-video-year-labels.json",
+    "scripts/approved_bear_witness_region.py",
+    "scripts/fixtures/approved-bear-witness-region.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -3393,7 +3433,8 @@
     ".gitignore",
     "research/intake-something-20261021.json",
     "research/intake-halftime-20261021.json",
-    "research/sampling-timeline-evidence-20261021.json"
+    "research/sampling-timeline-evidence-20261021.json",
+    "research/bear-witness-region-repair-20261021.json"
   ],
   "syntax_existing": [
     "dist/app.js",
@@ -3815,6 +3856,13 @@
         "after_sha256": "d8b772c8929bf9985fc9ee1165e37adc0c7cfd811e82bdca8db67adf5b9c1600",
         "groups": [
           "live_video_year_labels"
+        ]
+      },
+      {
+        "before_sha256": "d8b772c8929bf9985fc9ee1165e37adc0c7cfd811e82bdca8db67adf5b9c1600",
+        "after_sha256": "3b8c18cd1460c62ffaec3361cc3af7c00b91f79f1dc4f5caf5efacaf8f44ad1e",
+        "groups": [
+          "bear_witness_region"
         ]
       }
     ],
