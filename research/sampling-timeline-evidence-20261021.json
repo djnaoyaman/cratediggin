@@ -19,21 +19,9 @@
       "2016-06-02 / VMG Salsoul"
     ]
   },
-  "researchProvenance": [
-    {
-      "path": "/workspace/shared/sampling-timeline-research/evidence-packet.md",
-      "researchDate": "2026-10-21",
-      "readInThisPreparation": true
-    },
-    {
-      "path": "/workspace/shared/sampling-timeline-research/legal-addendum.md",
-      "researchDate": "2026-10-21",
-      "readInThisPreparation": true
-    }
-  ],
-  "verificationMethod": "提供された調査資料から出典付き日本語データを作成し、現行ローカルカタログ507件と関連IDを照合。新たなウェブ取得、ブラウザー操作、リポジトリ編集、公開は行っていない。",
+  "verificationMethod": "各項目の公開出典と日付の根拠、適用範囲、確認できた内容の限界を記録。関連曲IDは507件のカタログと照合。",
   "catalogVerification": {
-    "path": "/workspace/shared/halftime-candidate/tracks.json",
+    "path": "tracks.json",
     "count": 507,
     "sha256": "b634e00d24888bb98fb53cd191b8ffb290bb32c66048f7b2703bd917e9d0bd63",
     "checkedIds": [
