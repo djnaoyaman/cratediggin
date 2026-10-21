@@ -11506,11 +11506,11 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "声の説得力と、ビートの明快さが向き合う。",
-    "essayTitle": "言葉を際立たせるビートの空白",
+    "deck": "曲名とフックを生んだのは、本人の別の曲だった。",
+    "essayTitle": "今のKRSを呼び込む、過去のKRSの声。",
     "essay": [
-      "声の説得力と、ビートの明快さが向き合う。",
-      "声の説得力に引かれたら、ビートが用意している空間へ耳を戻す。言葉を際立たせるために何が鳴り、どこが空いているのかを聴きたい。"
+      "DJ Premierがフックに選んだのは、KRS-One自身の「Hip Hop VS Rap」の声。「MC’s Act Like They Don’t Know」は、その一節をスクラッチで呼び戻す曲でもある。",
+      "Premierの制作談を紹介するTrue Skool掲載記事では、冒頭をKurtis Blowの「The Breaks」のように始めようと提案したのもKRSだったと伝えている。以前の自分と先人への目配せを組み合わせ、今ここにいるMCを名乗り直す。その設計が、二人のやり取りから見えてくる。"
     ],
     "facts": [
       {
@@ -11524,14 +11524,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "声の説得力と、ビートの明快さが向き合う。"
+      "フックを、今のラップに応じる過去の本人の声として捉えてみる。"
     ],
-    "context": "声の説得力に引かれたら、ビートが用意している空間へ耳を戻す。言葉を際立たせるために何が鳴り、どこが空いているのかを聴きたい。",
+    "context": "別曲の声と先人への参照を、KRSとPremierが組み合わせた。",
     "sources": [
       {
         "label": "YouTube — KRS-One / MC's Act Like They Don't Know",
         "url": "https://www.youtube.com/watch?v=xnI8JEW7Ty4",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "DJ Premier制作談の紹介 — True Skool / Rock The Bells",
+        "url": "https://trueskool.com/forum/topics/dj-premier-shares-the-mcs-act-like-they-don-t-know-backstory",
+        "kind": "制作本人の証言を紹介する二次資料"
       }
     ],
     "producers": [
@@ -11554,7 +11559,15 @@
       "mic-skills"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "krs-one-sound-of-da-police",
@@ -11602,11 +11615,11 @@
       "lettering": "tag",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "一度で耳に残る声と、重いドラムの噛み合わせ。",
-    "essayTitle": "重いドラムに噛み合う掛け声",
+    "deck": "Heather B向けの歌詞と、Foxxx側が見送ったShowbizのビートが合流した。",
+    "essayTitle": "別のMCに向かった詞とビートが、ここで出会った。",
     "essay": [
-      "一度で耳に残る声と、重いドラムの噛み合わせ。",
-      "耳に残る掛け声と、重いドラムを交互に追う。言葉が音として身体へ届く瞬間を、この曲の明快さとして感じていたい。"
+      "「Sound of da Police」の歌詞をKRS-Oneが書いたのは、ツアー中の東京の空港だった。Eric DuckerによるLEVELの本人取材によれば、もともとはHeather Bのための曲。彼女はKenny Parkerのトラックで録音したものの、自分には合わないと判断したという。",
+      "一方、ShowbizがFreddie Foxxxに用意したビートも、彼のマネジメントには採用されなかった。KRSはスタジオでそれを聴き、先の歌詞を重ねることを思いつく。Foxxx自身も、KRSが単なるラップの土台から、主題を持った曲へ変えたと評価している。"
     ],
     "facts": [
       {
@@ -11620,14 +11633,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "一度で耳に残る声と、重いドラムの噛み合わせ。"
+      "別々に生まれた言葉と伴奏が、同じ主張へ向かう組み合わせとして聴く。"
     ],
-    "context": "耳に残る掛け声と、重いドラムを交互に追う。言葉が音として身体へ届く瞬間を、この曲の明快さとして感じていたい。",
+    "context": "二つの制作経路が合流した一曲。",
     "sources": [
       {
         "label": "YouTube — KRS-One / Sound of da Police",
         "url": "https://www.youtube.com/watch?v=sM1nrFkLgsE",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Eric Ducker — Sound of Da Police / LEVEL",
+        "url": "https://www.levelman.com/how-krs-ones-sound-of-da-police-went-from-anti-cop-anthem-to-theme-song-and-back-again-8ad757473bd9/",
+        "kind": "KRS-One・Freddie Foxxx本人取材"
       }
     ],
     "producers": [
@@ -11644,7 +11662,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "eric-b-rakim-don-t-sweat-the-technique",
@@ -12000,11 +12026,11 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "すでに掲載した声ネタを、今度は一曲として味わう。",
-    "essayTitle": "声ネタの先へ、一曲の間合いをたどる",
+    "deck": "Redman自身は、腕を競う曲とは別の楽しさを感じていた。",
+    "essayTitle": "技巧を競わない夜も、Redmanの持ち味。",
     "essay": [
-      "すでに掲載した声ネタを、今度は一曲として味わう。",
-      "声の質感に耳を置き、次にビートとの間合いを聴く。断片で聞いていた声も、一曲としてたどると、そこへ至る時間まで楽しめる。"
+      "「Tonight’s Da Night」を、Redmanは自分の技巧を示す曲とは少し違うものとして振り返っている。Keith Murphyの取材では、良いサンプルがあり、楽しんで取り組んだ曲だったと説明した。",
+      "同じ『Whut? Thee Album』でも、「Watch Yo Nuggets」はErick Sermonと張り合う曲、「I’m a Bad」も言葉に力を入れた曲として挙げている。その対比を知ると、この曲の価値を難しいラップだけで測らなくていい。本人が楽しさを置いた場所へ、耳を向けられる。"
     ],
     "facts": [
       {
@@ -12018,14 +12044,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "すでに掲載した声ネタを、今度は一曲として味わう。"
+      "同じアルバムの「Watch Yo Nuggets」と、本人が語る狙いの違いを比べたい。"
     ],
-    "context": "声の質感に耳を置き、次にビートとの間合いを聴く。断片で聞いていた声も、一曲としてたどると、そこへ至る時間まで楽しめる。",
+    "context": "本人が区別した、言葉の競争と曲を楽しむ時間。",
     "sources": [
       {
         "label": "YouTube — Redman / Tonight's Da Night",
         "url": "https://www.youtube.com/watch?v=_AJ3mL2ypdw",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Keith Murphy — Redman Full Clip / AllHipHop掲載",
+        "url": "https://allhiphop.com/features/full-clip-redman-runs-down-his-entire-catalogue/",
+        "kind": "本人インタビュー（VIBE取材の転載）"
       }
     ],
     "producers": [
@@ -12045,7 +12076,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "naughty-by-nature-hip-hop-hooray",
@@ -12093,11 +12132,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "大勢で声を合わせる楽しさも、ヒップホップの大切な顔。",
-    "essayTitle": "掛け声に加わる、みんなで聴く楽しさ",
+    "deck": "Vin Rockは、掛け声がすでにパーティーやローラースケート場にあったと語る。",
+    "essayTitle": "パーティーで育った掛け声が、曲の中心へ。",
     "essay": [
-      "大勢で声を合わせる楽しさも、ヒップホップの大切な顔。",
-      "掛け声に参加するつもりで聴くと、曲と自分の距離が一気に縮まる。細部を掘る楽しさと、みんなで声を出す楽しさは、同じ棚に置いておきたい。"
+      "「Hip Hop Hooray」のサビは、何もないところから大合唱を発明したわけではない。Tiernan Cannonが紹介したVin Rockの説明では、あの掛け声は東海岸のパーティーやローラースケート場ですでに親しまれていた。KayGeeのビートへ取り込んだ時点で、届くという手応えがあったという。",
+      "同記事でVin Rockが強調するのは、街の人々が持つ創造力と、一緒に参加すること。観客が歌へ加わる場面は、完成した曲へのおまけではない。遊び場で共有されていた声を曲に持ち込む、その発想とつながっている。"
     ],
     "facts": [
       {
@@ -12111,14 +12150,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "大勢で声を合わせる楽しさも、ヒップホップの大切な顔。"
+      "サビを新しい決め文句としてだけでなく、パーティーから持ち込まれた声として聴く。"
     ],
-    "context": "掛け声に参加するつもりで聴くと、曲と自分の距離が一気に縮まる。細部を掘る楽しさと、みんなで声を出す楽しさは、同じ棚に置いておきたい。",
+    "context": "遊び場にあった掛け声を、KayGeeのビートへ。",
     "sources": [
       {
         "label": "YouTube — Naughty by Nature / Hip Hop Hooray",
         "url": "https://www.youtube.com/watch?v=2JhvpQWJgfA",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Tiernan Cannon — Hip Hop Hooray / Hip Hop Hero",
+        "url": "https://hiphophero.com/story-behind-naughty-by-natures-hip-hop-hooray/",
+        "kind": "本人発言を紹介する署名記事"
       }
     ],
     "producers": [
@@ -12136,7 +12180,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "a-tribe-called-quest-oh-my-god",
@@ -12184,11 +12236,11 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "低音と掛け声が、輪の温度を上げる。",
-    "essayTitle": "低音の巡りを変えて聴かせる一声",
+    "deck": "「Oh My God」の自己紹介を、Phifeは複雑な気持ちで振り返った。",
+    "essayTitle": "決め台詞のあとに残った、Phifeのためらい。",
     "essay": [
-      "低音と掛け声が、輪の温度を上げる。",
-      "低音の巡りと掛け声の入り方を追ってみる。声の一言が、ビートの感じ方まで変える。その短い瞬間に耳を置いていたい。"
+      "糖尿病を自分の呼び名にした「Oh My God」の一節。GQのZach Baronは、映画でPhifeがこの言葉を振り返り、口にしたことをためらう場面を紹介している。",
+      "2007年にAllHipHopが伝えた仲間の言葉では、Jarobiもその呼び名を使いながら、Phifeへの支援に感謝していた。自分を語った一言は、仲間が本人を呼ぶ言葉にもなっていた。"
     ],
     "facts": [
       {
@@ -12202,14 +12254,24 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "低音と掛け声が、輪の温度を上げる。"
+      "一節を、Phife本人と仲間の言葉から捉え直す。"
     ],
-    "context": "低音の巡りと掛け声の入り方を追ってみる。声の一言が、ビートの感じ方まで変える。その短い瞬間に耳を置いていたい。",
+    "context": "本人のためらいと、Jarobiが使った呼び名。",
     "sources": [
       {
         "label": "YouTube — A Tribe Called Quest / Oh My God",
         "url": "https://www.youtube.com/watch?v=OIah18jcJko",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Zach Baron — The Heroic Uncool of Phife Dawg / GQ",
+        "url": "https://www.gq.com/story/the-heroic-uncool-of-phife-dawg",
+        "kind": "署名評論・映画内発言の紹介"
+      },
+      {
+        "label": "Phife Dawg and group statements / AllHipHop (2007)",
+        "url": "https://allhiphop.com/news/phife-dawg-speaks-on-personal-struggle-with-diabetes-and-vh1-hip-hop-honors/",
+        "kind": "本人・仲間の発言を掲載した報道"
       }
     ],
     "producers": [
@@ -12229,7 +12291,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "a-tribe-called-quest-steve-biko-stir-it-up",
@@ -12370,11 +12440,11 @@
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "ゆったりした声でも、ビートの腰は揺るがない。",
-    "essayTitle": "ゆったりした声を支える低音の着地点",
+    "deck": "この曲のサンプル盤を見つけた人物として、88-Keysの名が出てくる。",
+    "essayTitle": "レコードを見つけたのは、88-Keys。",
     "essay": [
-      "ゆったりした声でも、ビートの腰は揺るがない。",
-      "ゆったりした声に身を任せながら、低音の着地点を追う。リラックスした感触の中にも重心はある。その揺るがなさが気持ちよい。"
+      "「We Can Get Down」の制作を、レコードを探す側からたどると88-Keysに行き着く。Shawn SetaroによるThe Cipherの取材を紹介したAmbrosia For Headsは、彼がこの曲と「Award Tour」で使われる盤を見つけたと伝えている。",
+      "そのつながりの入口は、十代で手伝っていたジャズのレコード業者John Curreroだった。そこで耳を養い、Q-Tipへとつながったという。ビートを組む仕事だけでなく、その材料を探して届ける耳もある。制作クレジットだけでは見えにくい、レコードの流通から曲へ至る道が浮かぶ。"
     ],
     "facts": [
       {
@@ -12388,14 +12458,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "ゆったりした声でも、ビートの腰は揺るがない。"
+      "完成したビートの手前にある、選盤する耳の仕事を想像して聴く。"
     ],
-    "context": "ゆったりした声に身を任せながら、低音の着地点を追う。リラックスした感触の中にも重心はある。その揺るがなさが気持ちよい。",
+    "context": "88-Keysのレコード探しから見える、制作のもう一つの入口。",
     "sources": [
       {
         "label": "YouTube — A Tribe Called Quest / We Can Get Down",
         "url": "https://www.youtube.com/watch?v=MZYVnQkR_6o",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "88-Keys / The Cipher interview report — Ambrosia For Heads",
+        "url": "https://ambrosiaforheads.com/2015/02/88-keys-comprehensive-history/",
+        "kind": "本人インタビューの内容紹介"
       }
     ],
     "producers": [
@@ -12414,7 +12489,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "a-tribe-called-quest-find-a-way",
@@ -12462,11 +12545,11 @@
       "lettering": "stencil",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "90年代の終盤から、柔らかな音の継承を聴く。",
-    "essayTitle": "柔らかな音と声、その間の余白",
+    "deck": "TOWA TEIは「Find a Way」を、自分のリミックス集へ入れたかった。",
+    "essayTitle": "リミックスではない曲が、リミックス集に選ばれた。",
     "essay": [
-      "90年代の終盤から、柔らかな音の継承を聴く。",
-      "声と柔らかな音の間に、どれくらい余白があるかを聴く。年代をたどるときも、変わったものと残ったものを、音の距離から探してみたい。"
+      "「Find a Way」は、TOWA TEIの2014年の作品集『94-14 REMIX』にも収められている。ただし本人はiLOUDの取材で、これはリミックスではなく、自分の「Technova」をサンプリングした曲だと区別している。",
+      "それでも収録したかったのは、この曲が大のお気に入りだったから。元の曲の作り手にとっても、他者が音を借りて生まれた作品が、二十年の活動を振り返る選曲に欠かせないものになった。元ネタを探し当てた先に、借りられた側からの愛着も見えてくる。"
     ],
     "facts": [
       {
@@ -12480,14 +12563,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "90年代の終盤から、柔らかな音の継承を聴く。"
+      "元曲との似た箇所だけでなく、別の曲として愛された変化へ耳を向ける。"
     ],
-    "context": "声と柔らかな音の間に、どれくらい余白があるかを聴く。年代をたどるときも、変わったものと残ったものを、音の距離から探してみたい。",
+    "context": "サンプル元の作者自身が選んだ、一曲としての「Find a Way」。",
     "sources": [
       {
         "label": "YouTube — A Tribe Called Quest / Find a Way",
         "url": "https://www.youtube.com/watch?v=uslaqYlXAbo",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "TOWA TEI『94-14』&『94-14 COVERS』 / iLOUD",
+        "url": "https://futuregroove.jp/iloud/interview/towa_tei_94-14/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -12506,7 +12594,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "de-la-soul-ego-trippin-part-two",
