@@ -1,0 +1,426 @@
+{
+  "base": "4e3c5bdedb0286ad3dab8d3af32b773d6a159d20",
+  "batch": 5,
+  "completed": 142,
+  "total": 226,
+  "beforeVersion": "22.49",
+  "rows": [
+    {
+      "id": "jurassic-5-lesson-6-the-lecture",
+      "old": "レコードの授業は、続いている。",
+      "new": "音の入口を追う、第六のレコード授業",
+      "rationale": "授業の比喩を保ち、音の切り替わりを聴く提案に焦点を絞る。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "授業は、まだ続いている。Lesson 6という曲名を眺めると、聴くことも練習なのだと思う。最初と最後で耳の向きが少し変われば、今日の収穫は十分だ。"
+        },
+        {
+          "field": "existing_context.listening[0]",
+          "snippet": "切り替わる声や音の入り口を、一つずつ追って聴く。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jurassic-5-jayou",
+      "old": "声のリレーを、棚から。",
+      "new": "歌詞を覚える前に、声の順番を覚える",
+      "rationale": "本文固有の「言葉を全部覚えなくても」という入口を、声の受け渡しに結びつける。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Jayouという短い名札を、棚の入口に置く。言葉を全部覚えなくても、声のリレーを覚えることはできる。そこから好きな一曲が始まる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "ugly-duckling-now-who-s-laughin",
+      "old": "声のリレーを、棚から。",
+      "new": "笑うのは誰か、最後の音まで聴いてみる",
+      "rationale": "題名への問いと最後まで聴く提案に限定する。固有の音楽的描写が乏しいため暫定案。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "今は誰が笑っているのか。そう聞かれると、こちらも少し笑ってしまう。洒落のある題名を、洒落だけで片付けないように、一度最後まで聴く。"
+        }
+      ],
+      "needs_review": false,
+      "review_resolution": "Editorial review: faithful question/listening suggestion explicitly present in existing body or listening text; no new musical or historical assertion. Thin article depth remains unchanged."
+    },
+    {
+      "id": "big-noyd-usual-suspect",
+      "old": "同じ一枚を、違う角度から。",
+      "new": "クイーンズの声を、アルバム版で聴く",
+      "rationale": "本文の地名と声への着目を採用し、別掲載のリミックスと区別する。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "いつもの容疑者、という題名をレコード棚で見つける。事件の解説を読むように身構えるより、まず声の居場所を聴いてみる。Queensという地名が、地図の文字から音のある場所へ変わっていく。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "dilated-peoples-work-the-angles",
+      "old": "同じ一枚を、違う角度から。",
+      "new": "映画のテーマと聴き比べる、針の角度",
+      "rationale": "本文の針を置く手つきと映画音楽への聴き比べを組み合わせる。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "角度を変えてみる。正面から押すだけでは動かなかったものが、横から触ると案外するりと動く。Work the Anglesという題名には、DJが盤のどこへ針を置くか考える時にも似た、手つきの面白さがある。"
+        },
+        {
+          "field": "existing_context.samples[0].role",
+          "snippet": "The Big Bossのテーマを辿る代表音源。映画の言語版には異なるスコアがあるため、Joseph Koo & Wang Fu Ling名義のOpeningを参考投稿で聴き比べる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "gang-starr-flip-the-script",
+      "old": "同じ一枚を、違う角度から。",
+      "new": "Guruの語尾から、次の小節を待つ",
+      "rationale": "深掘り欄の音節末と次の小節の距離という具体的な聴き方を採用する。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "台本をひっくり返す、と曲名が言う。同じドラムを聴いているつもりでも、言葉が入ってくる位置で景色は変わる。Guruの声の落ち着きと、その下で働くビートを別々に追ってみたい。"
+        },
+        {
+          "field": "dig_deeper.sections[2].text",
+          "snippet": "一行ごとの最後の音節を聴き、次の小節の頭との距離を測るつもりで聴く。韻の仕掛けを音として理解できる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "gang-starr-ex-girl-to-next-girl",
+      "old": "同じ一枚を、違う角度から。",
+      "new": "恋は進む、Guruの語りは急がない",
+      "rationale": "恋愛の話の展開と落ち着いた語りの対照を本文と深掘り欄から取り出す。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "前の恋から、次の恋へ。題名だけ見れば忙しそうだが、レコードの針はそう急がない。話の進み方とビートの歩幅を、別々に追ってみる。忙しいのは、案外こちらの暮らしの方かもしれない。"
+        },
+        {
+          "field": "dig_deeper.sections[2].text",
+          "snippet": "急いで感情を誇張しないGuruの声と、伴奏の反復を別々に聴く。題名の忙しさとは対照的な語りのテンポが面白い。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "gang-starr-take-two-and-pass",
+      "old": "同じ一枚を、違う角度から。",
+      "new": "ファンクを切り出し、声を渡す反復へ",
+      "rationale": "Eddie Hazelの原曲が声を載せる反復になるという既存の説明に絞る。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "取って、渡す。曲名の小さな動作を、レコードにも借りてみる。一枚を受け取り、聴いて、次の一枚へ渡す。選曲には、その間をどう作るかという仕事がある。"
+        },
+        {
+          "field": "existing_context.samples[0].role",
+          "snippet": "ビートの骨格を辿る代表サンプル。原曲のファンクが、声を載せる反復に変わる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "gang-starr-2-deep",
+      "old": "同じ一枚を、違う角度から。",
+      "new": "二度かけて聴き分ける、声と音の深さ",
+      "rationale": "題名の解釈を断定せず、本文にある二回の聴き分けという提案にする。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "二つの深さ、と題名を勝手に読んでみる。声の方を聴く回と、音の方を聴く回。二回かければ、それぞれ別の奥行きが見えてくる。急いで名曲という札を貼る前に、まず二回。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "gang-starr-mostly-tha-voice",
+      "old": "同じ一枚を、違う角度から。",
+      "new": "Guruの声、その前後に残る空間",
+      "rationale": "声の音量ではなく前後の空間という深掘り欄の視点を採用する。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "ほとんどは、声。そんな題名を見ると、立派な説明をする手が少し止まる。顔を見なくても、その人だと分かる音がある。Guruの一曲を、今日は声の位置から聴いてみたい。"
+        },
+        {
+          "field": "dig_deeper.sections[2].text",
+          "snippet": "声が聞こえる大きさではなく、声の前後に残された空間を聴く。小さな音の配置が存在感を決める。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "gang-starr-the-remainz",
+      "old": "同じ一枚を、違う角度から。",
+      "new": "鍵盤のループを往復し、問いを残す",
+      "rationale": "鍵盤の反復と原曲への往復を、曲名の疑問符を補わずに結ぶ。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "何が残るのか。曲名に疑問符があるからといって、すぐに答えを書き足さなくてもいい。Bob Jamesの原曲へ戻り、またこの反復へ帰ってくる。その往復が終わった後に、耳に残るものを確かめる。"
+        },
+        {
+          "field": "existing_context.samples[0].role",
+          "snippet": "鍵盤の反復を辿る代表サンプル。長い原曲の中から、繰り返す音の形を探してみる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "gang-starr-comin-for-the-datazz",
+      "old": "同じ一枚を、違う角度から。",
+      "new": "アルバムの出口でも、勢いは終わらない",
+      "rationale": "本文固有の終盤の役割と残る勢いを見出しにする。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "最後まで気を抜かない題名である。アルバムの終わりで聴くか、単独で聴くか。曲順の中に戻ると、一曲が受け持つ仕事まで変わってくる。終わりにも、ちゃんと勢いが残っている。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "gang-starr-b-y-s",
+      "old": "同じ一枚を、違う角度から。",
+      "new": "三文字の意味より、ドラムの骨格へ",
+      "rationale": "略語の意味を推測せず、本文とサンプル欄のドラムへの入口を選ぶ。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "短い題名ほど、棚の中で目立つことがある。三つの文字と、その間の点。意味を読む前にドラムへ耳を向ければ、一枚を覚えるための入口はもう開いている。"
+        },
+        {
+          "field": "existing_context.samples[0].role",
+          "snippet": "ドラムを中心に、ビートの骨格を聴き比べる代表サンプル。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "dead-poetz-society-lick-a-shot-remix",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "リミックスが組み替える、言葉との距離",
+      "rationale": "既存本文が示すリミックスの聴きどころに限定し、制作手法は追加しない。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Dead Poetz Societyの「Lick A Shot (Remix)」。まず耳を向けたいのは、リミックスで組み替えられた言葉とビートの距離だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "the-roots-push-up-ya-lighter",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "バンドの動きに、ラップが交わる瞬間",
+      "rationale": "本文のバンドとラップの接点を主題にし、演奏者や楽器は推定しない。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "The Rootsの「Push Up Ya Lighter」。まず耳を向けたいのは、バンドの運動とラップが交わる接点だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "ed-o-g-what-u-got",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "短い問いが戻るたび、声の輪郭を追う",
+      "rationale": "問いかけの反復という固有の記述から、声に焦点を合わせる。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Ed O.Gの「What U Got」。まず耳を向けたいのは、短い問いかけを反復する声の輪郭だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "camp-lo-swing",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "二人のフロウが、会話のように渡る",
+      "rationale": "本文に明示された会話的な受け渡しを、他の複数MC曲と区別する軸にする。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Camp Loの「Swing」。まず耳を向けたいのは、会話のように受け渡される二人のフロウだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "a-tribe-called-quest-crew",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "クルーという一語に、声と視点が集まる",
+      "rationale": "本文が提案するクルーという言葉への着目を保ち、物語の詳細は補わない。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "A Tribe Called Questの「Crew」。まず耳を向けたいのは、クルーという言葉に集まる声と視点だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "heltah-skeltah-therapy",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "違う声質が、ひとつのリズムに出会う",
+      "rationale": "声質の違いと共有するリズムという対比に絞る。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Heltah Skeltahの「Therapy」。まず耳を向けたいのは、異なる声質が一つのリズムを共有する瞬間だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "bush-babees-feat-mos-def-the-love-song",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "ラヴソングを、ラップの語り口から",
+      "rationale": "本文の題名と語り口の関係を見出しにし、歌詞内容や恋愛の主題は断定しない。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Bush Babees feat. Mos Defの「The Love Song」。まず耳を向けたいのは、ラヴソングという題名とラップの語り口の関係だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "big-noyd-usual-suspect-stretch-armstrong-remix",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "Stretch Armstrong版、声と伴奏の接点",
+      "rationale": "版名を残してアルバム版と識別し、既存の聴取提案だけを示す。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Big Noydの「Usual Suspect (Stretch Armstrong Remix)」。まず耳を向けたいのは、Stretch Armstrong版での声と伴奏の組み合わせだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "sadat-x-the-lump-lump-nubian-mix",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "Nubian Mixで追う、Sadat Xの声",
+      "rationale": "別ミックスという入口と独特の声への着目を保持する。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Sadat Xの「The Lump Lump (Nubian Mix)」。まず耳を向けたいのは、Nubian Mixという別の角度から追う独特の声だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "krs-one-feat-busta-rhymes-build-ya-skillz",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "二人の声が張りつめる、掛け合いの間",
+      "rationale": "本文の緊張と掛け合いという角度を採用し、優劣や力量評価は付けない。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "KRS-One feat. Busta Rhymesの「Build Ya Skillz」。まず耳を向けたいのは、二人の声が生む緊張と掛け合いだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "o-c-o-zone",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "言葉の切れ目は、小節のどこに来るか",
+      "rationale": "言葉の区切りと小節末の関係を、確認しながら聴く問いにする。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "O.C.の「O-Zone」。まず耳を向けたいのは、言葉の区切りと小節の終わりの関係だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "grand-puba-a-little-of-this",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "滑らかな言葉運び、その隙間のリズム",
+      "rationale": "本文固有の滑らかさとリズムの隙間を見出しの中心に置く。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Grand Pubaの「A Little Of This」。まず耳を向けたいのは、滑らかな言葉運びとリズムの隙間だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "az-gimme-yours",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "長いフレーズを運ぶ、AZの声の流れ",
+      "rationale": "フレーズの長さという既存の角度を採用し、速さや息継ぎは断定しない。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "AZの「Gimme Yours」。まず耳を向けたいのは、長いフレーズを収める声の流れだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "mobb-deep-up-north-trip",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "街の風景を浮かべる、声の温度を聴く",
+      "rationale": "本文の都市の風景という聴取イメージを保ち、特定の歌詞内容は補わない。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "Mobb Deepの「Up North Trip」。まず耳を向けたいのは、都市の風景を浮かばせる声の温度だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "a-tribe-called-quest-sucka-nigga",
+      "old": "声と拍のあいだに耳を置く",
+      "new": "呼び名を問い直す、言葉の重なり",
+      "rationale": "既存本文の主題を直接取り出し、曲名の差別語を見出しで反復しない。",
+      "evidence": [
+        {
+          "field": "article_body[0]",
+          "snippet": "A Tribe Called Questの「Sucka Nigga」。まず耳を向けたいのは、呼び名を問い直す言葉の重なりだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。"
+        }
+      ],
+      "needs_review": false
+    }
+  ],
+  "files": {
+    "tracks.json": {
+      "beforeSHA256": "f27eb5ff481a6a87de84a29c75640f297bd0490bad736cf0f954384f47e7c230",
+      "afterSHA256": "f416e69f5e377116a9d75df988a65c3b86ac669c782f51295e3ba019ca020a51"
+    },
+    "releases.json": {
+      "beforeSHA256": "d749af5ebdf2eaea410801b4f7f629d1b7679052f8a3b949b6a2a810295789a9",
+      "afterSHA256": "0c8900963ba2e22d1fbd644a608c5339884fb6331d60f6d5485335a5c3246678"
+    }
+  },
+  "protected": {
+    "graffiti_artwork.json": "fccdb745bbd3b2871ef3b506b3197077f5e6b42cd543cefdbd042a2efb3f9c49",
+    "editorial_deepdives.json": "5b989c85ad5e6b0114a341209da18e6ed05608b71424d5184fe3733dc86436c0",
+    "features.json": "148bae956f68986d11e897b99eff82b526b7e9e64534b9831404d056fdae5742",
+    "artist_entities.json": "be0a95389d26e99480325ad2a7f0872ba3e21e7e58b6cf2b3fd7515d5805469b",
+    "src/app/catalog-ui.js": "2566d24be62e0a069bea040046664e301f36333890cf9057667e64866d5c1400",
+    "src/app/song-ui.js": "a96fc013d3e5e4ca3dfe359a8cc78c051fa559a9215d210ee3f84a073891b41a",
+    "src/app/editorial.js": "0e50447ea73ea4dc15fcf27c2f38d8214af89f77590d03a25b39cf4b31e5917d",
+    "src/assets/style.css": "369f75276d3aa790753db69ae410b1c5e24b93c24c8a645c436cf4c6053ef421"
+  }
+}

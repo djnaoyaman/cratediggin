@@ -2616,6 +2616,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "headings-batch04-browser"
+    },
+    {
+      "id": "headings-batch05",
+      "argv": [
+        "python",
+        "scripts/verify_headings_batch05.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "headings-batch05"
+    },
+    {
+      "id": "headings-batch05-browser",
+      "argv": [
+        "node",
+        "scripts/verify_headings_batch05_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "headings-batch05-browser"
     }
   ],
   "groups": {
@@ -3105,6 +3129,10 @@
     "headings_batch04": [
       "headings-batch04",
       "headings-batch04-browser"
+    ],
+    "headings_batch05": [
+      "headings-batch05",
+      "headings-batch05-browser"
     ]
   },
   "runtime_rules": {
@@ -4066,13 +4094,23 @@
       "scripts/fixtures/approved-headings-batch03.json"
     ],
     "scripts/approved_headings_batch04.py": [
-      "scripts/fixtures/approved-headings-batch04.json"
+      "scripts/fixtures/approved-headings-batch04.json",
+      "scripts/approved_headings_batch05.py"
     ],
     "scripts/verify_headings_batch04.py": [
       "scripts/approved_headings_batch04.py"
     ],
     "scripts/verify_headings_batch04_browser.cjs": [
       "scripts/fixtures/approved-headings-batch04.json"
+    ],
+    "scripts/approved_headings_batch05.py": [
+      "scripts/fixtures/approved-headings-batch05.json"
+    ],
+    "scripts/verify_headings_batch05.py": [
+      "scripts/approved_headings_batch05.py"
+    ],
+    "scripts/verify_headings_batch05_browser.cjs": [
+      "scripts/fixtures/approved-headings-batch05.json"
     ]
   },
   "policy_paths": [
@@ -4174,7 +4212,9 @@
     "scripts/approved_headings_batch03.py",
     "scripts/fixtures/approved-headings-batch03.json",
     "scripts/approved_headings_batch04.py",
-    "scripts/fixtures/approved-headings-batch04.json"
+    "scripts/fixtures/approved-headings-batch04.json",
+    "scripts/approved_headings_batch05.py",
+    "scripts/fixtures/approved-headings-batch05.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -4745,6 +4785,13 @@
         "after_sha256": "f27eb5ff481a6a87de84a29c75640f297bd0490bad736cf0f954384f47e7c230",
         "groups": [
           "headings_batch04"
+        ]
+      },
+      {
+        "before_sha256": "f27eb5ff481a6a87de84a29c75640f297bd0490bad736cf0f954384f47e7c230",
+        "after_sha256": "f416e69f5e377116a9d75df988a65c3b86ac669c782f51295e3ba019ca020a51",
+        "groups": [
+          "headings_batch05"
         ]
       }
     ],
