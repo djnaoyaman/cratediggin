@@ -59120,5 +59120,195 @@
       "paletteSourceUrl": "https://soulclaprecord.com/html/upload/save_image/1013154556_6acdd3a43196f.jpeg",
       "paletteNote": "実際に目視確認した当該版ジャケットの配色を参照した編集上の近似値。ジャケット写真・ロゴは転載せず、独自の文字構成にしています。"
     }
+  },
+  {
+    "id": "med-classic",
+    "title": "Classic (feat. Talib Kweli)",
+    "artist": "MED",
+    "artists": [
+      "MED",
+      "Talib Kweli"
+    ],
+    "year": 2010,
+    "yearBasis": "2010年10月12日のStones Throw告知で確認できる12インチSTH2255の発売年。絶対的な初公開年とは断定しない。2009年のBang Ya Head IIに同名曲が載る資料はあるが、その版との同一性は未確定。2011年のアルバム、2012年の受領ミックスとは区別。",
+    "album": "Classic",
+    "producer": "Karriem Riggins",
+    "producers": [
+      "Karriem Riggins"
+    ],
+    "members": "MED / Talib Kweli（客演）",
+    "region": "Oxnard",
+    "scene": "Oxnard / Stones Throw",
+    "label": "Stones Throw",
+    "category": "Hip Hop",
+    "essayTitle": "二人の名前の下に、もう一人を読む。",
+    "deck": "赤い大文字のMEDとKWELI。その二人を支えるKarriem Rigginsの仕事から、2010年のシングルと、その先に続く制作のつながりを辿る。",
+    "essay": [
+      "2010年の12インチを表から見ると、MEDとKWELIの名前が赤い大文字で並んでいる。その下に小さく「Classic」。二人のMCを前面に出した一枚だが、もう一つ確かめたい名前はKarriem Rigginsだ。Stones Throwの告知は、この曲の制作をRiggins、反対側の「Where I’m From」をOh Noと分けている。同じ盤を返すだけで、声の組み合わせも、ビートを作る人も変わる。",
+      "MEDとRigginsの接点は、このシングルだけではない。Rigginsは2021年の取材で、J Dillaの『The Shining』を仕上げる際、「Jungle Love」へGuilty SimpsonとMEDを招いたと振り返っている。これは同曲のビート制作をRigginsへ帰す話ではなく、誰の声を作品へ迎えるかという仕事の証言だ。「Classic」でも、MCの隣にあるプロデューサーの名前を、伴奏の担当者というだけで読み終えずにいたい。",
+      "翌2011年のアルバムも『Classic』と名づけられた。MEDがレーベルに寄せた説明では、狙いは世代を越えて聴かれる可能性を持つ音楽であり、現在の自分やコミュニティの問題を扱いながら成長を見せることだった。これはアルバム名についての発言で、先行曲の作詞意図を直接語るものではない。それでも「Classic」を、すでに過去の評価が固まった音楽だけを指す言葉ではなく、これから届く相手への願いとして捉える入口になる。",
+      "先へ掘るなら、Riggins自身がまとめた2012年のミックス『Karriem Riggins Produced That』が具体的な道になる。「Classic」は、Slum Villageの「Tainted」やJ Dillaの「The Clapper」などと同じ選曲表に置かれている。MEDのアルバムへ戻る道と、作り手の仕事を横断する道。曲名を知ったところで探索を終えず、今回は後者から、二人の声の周囲へ耳を広げてみたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3
+      ],
+      [
+        7
+      ]
+    ],
+    "facts": [
+      {
+        "title": "2010年のシングル、2011年のアルバム",
+        "text": "STH2255は「Where I’m From」との両A面12インチ。ここでの2010年は、この盤の発売年を示します。アルバム『Classic』は2011年です。",
+        "sources": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "title": "曲ごとの制作クレジット",
+        "text": "「Classic」はKarriem Riggins制作。アルバムの多くをMadlibが担当していても、この曲のクレジットとは分けて扱います。",
+        "sources": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "この曲のサンプル元は一次資料で確認できていません。Rigginsの一般的な制作方法から、使用素材や生演奏の有無を推定していません。",
+    "sources": [
+      {
+        "label": "Stones Throw — Where I’m From / Classic 12-inch announcement, 2010-10-12",
+        "url": "https://www.stonesthrow.com/news/med-where-im-from-aloe-blacc-classic-talib-kweli-12-inch-single/",
+        "kind": "primary_label_announcement"
+      },
+      {
+        "label": "Stones Throw — Classic b/w Where I’m From, STH2255",
+        "url": "https://www.stonesthrow.com/store/classic-b-w-where-im-from/",
+        "kind": "primary_label_catalog"
+      },
+      {
+        "label": "Stones Throw — Classic official video",
+        "url": "https://www.stonesthrow.com/news/med-classic-talib-kweli-official-video/",
+        "kind": "primary_label_video"
+      },
+      {
+        "label": "Stones Throw — MED Classic album announcement, 2011-09-06",
+        "url": "https://www.stonesthrow.com/news/med-classic/",
+        "kind": "primary_label_announcement_with_artist_statement"
+      },
+      {
+        "label": "Stones Throw — MED interview, 2002",
+        "url": "https://www.stonesthrow.com/news/med-interview/",
+        "kind": "primary_artist_interview"
+      },
+      {
+        "label": "POW — Karriem Riggins interview by Joel Biswas, 2021-02-26",
+        "url": "https://www.powmag.net/p/karriem-riggins-interview-2",
+        "kind": "primary_artist_interview"
+      },
+      {
+        "label": "POW — Karriem Riggins interview by Mano Sundaresan, 2018-03-30",
+        "url": "https://www.powmag.net/p/karriem-riggins-interview",
+        "kind": "primary_artist_interview"
+      },
+      {
+        "label": "Stones Throw Podcast 74 — Karriem Riggins Produced That, 2012-06-19",
+        "url": "https://www.stonesthrow.com/news/stones-throw-podcast-74-2/",
+        "kind": "primary_label_tracklist_artist_mix"
+      },
+      {
+        "label": "Stones Throw — original Classic-facing STH2255 sleeve photograph",
+        "url": "https://stonesthrow.com/images/2010/medclassic-01.jpg",
+        "kind": "primary_label_original_packaging_photo"
+      },
+      {
+        "label": "Stones Throw YouTube — MED Classic feat Talib Kweli (Official Video HD)",
+        "url": "https://www.youtube.com/watch?v=IEvNu_rdhXk",
+        "kind": "primary_label_video_metadata"
+      }
+    ],
+    "connections": [
+      "med-cant-hold-on"
+    ],
+    "listening": [
+      "MEDのアルバムへ戻る前に、Riggins本人のミックスで「Classic」の前後を辿る。MC中心の曲順とは違うつながりを探す。",
+      "公式カタログではヴォーカル、インストゥルメンタル、アカペラが分かれている。声とビートを別々の入口として捉える。"
+    ],
+    "moods": [
+      "グルーヴ"
+    ],
+    "sounds": [
+      "声",
+      "ドラム"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "audioVerificationStatus": "公式ビデオの曲名・投稿者と、日本の配信対象・埋め込み許可は以前取得したメタデータで照合しています。現在の配信状況、日本国内からの実再生、埋め込み内の再生、Clean／Dirty版との完全一致は未確認です。",
+    "editorialStatus": "公式ビデオの曲名・投稿者と、日本の配信対象・埋め込み許可をメタデータで照合。実際の音声、日本国内からの再生、埋め込み内の再生は未確認です。",
+    "noteReviewedAt": "2026-10-21",
+    "youtube": {
+      "id": "IEvNu_rdhXk",
+      "url": "https://www.youtube.com/watch?v=IEvNu_rdhXk",
+      "title": "MED - Classic feat Talib Kweli (Official Video HD)",
+      "channel": "Stones Throw",
+      "channelId": "UCiqlFbD_WOB1ZwqQwosCDmw",
+      "type": "公式ビデオ",
+      "official": true,
+      "verified": "2026-10-21",
+      "duration": "PT2M59S",
+      "durationMetadataNote": "videoDetails.lengthSeconds=179; microformat.lengthSeconds=180. This minor metadata discrepancy is preserved, not silently treated as audio measurement.",
+      "embedUrl": "https://www.youtube.com/embed/IEvNu_rdhXk",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "version": "Official music-video version; clean/dirty/master equality not asserted",
+      "versionBasis": "採用候補はStones Throw自身が公開した「Classic feat Talib Kweli」の公式ビデオ。レーベルの2010年シングルおよびビデオ紹介はいずれもKarriem Riggins制作と明記。Dirty／Clean／アルバム版のどのマスターと完全一致するかは未確認で、公式ビデオ版として扱う。2009年ポッドキャストの同名曲を別プロデュースと断定しない。",
+      "verification": "公式ビデオの曲名・投稿者と、日本の配信対象・埋め込み許可は以前取得したメタデータで照合しています。現在の配信状況、日本国内からの実再生、埋め込み内の再生、Clean／Dirty版との完全一致は未確認です。",
+      "japanAvailableInMetadata": true,
+      "metadataPlayableInEmbed": true,
+      "japanAvailableMetadata": true,
+      "embeddableMetadata": true,
+      "notice": "公式ビデオの曲名・投稿者と、日本の配信対象・埋め込み許可は以前取得したメタデータで照合しています。現在の配信状況、日本国内からの実再生、埋め込み内の再生、Clean／Dirty版との完全一致は未確認です。",
+      "metadataEvidence": "Recovered prior metadata summary; not a new availability or playback test."
+    },
+    "aliases": [
+      "M.E.D. — Classic",
+      "Medaphoar — Classic"
+    ],
+    "versionBasis": "採用候補はStones Throw自身が公開した「Classic feat Talib Kweli」の公式ビデオ。レーベルの2010年シングルおよびビデオ紹介はいずれもKarriem Riggins制作と明記。Dirty／Clean／アルバム版のどのマスターと完全一致するかは未確認で、公式ビデオ版として扱う。2009年ポッドキャストの同名曲を別プロデュースと断定しない。",
+    "context": "Talib Kweliを迎えた2010年の両A面シングル。Karriem Rigginsの制作と、MEDとの以前からの接点を手がかりに読む。",
+    "datePublished": "2026-10-21",
+    "addedOrder": 504,
+    "art": {
+      "word": "CLASSIC (FEAT. TALIB KWELI)",
+      "lines": [
+        "CLASSIC",
+        "(FEAT. TALIB KWELI)"
+      ],
+      "tag": "MED",
+      "style": "piece",
+      "seed": 20102255,
+      "palette": [
+        "#E52620",
+        "#F0F0E8",
+        "#1B1D17"
+      ],
+      "paletteSource": "Classic / Where I’m From — STH2255 original 2010 sleeve",
+      "paletteSourceUrl": "https://stonesthrow.com/images/2010/medclassic-01.jpg",
+      "paletteNote": "以前目視した原盤ジャケットの赤・オフホワイト・黒を参照した編集上の近似値。既存の生成原画を復元し、文字と透過を再確認。"
+    }
   }
 ]
