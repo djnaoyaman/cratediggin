@@ -6,6 +6,7 @@ import re
 from pathlib import Path
 from urllib.parse import quote, urlparse
 from revision_dates import revision_dates
+from person_photos import photo_feature
 from brand_assets import brand_revision
 from catalog import work_type, work_label, work_count, year_label
 
@@ -162,9 +163,12 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         relative = 'artists/' + slugs[name] + '.html'
         selected = [t for t in tracks if t['artist'] == name]
         url = host + '/' + relative
+        portrait = photo_feature(features, name)
+        portrait_meta = {'image': 'feature-og/'+portrait['id']+'.jpg', 'image_alt': portrait['visual']['alt']} if portrait else {}
         add('#/artist/' + encoded(name), relative, name + ' の楽曲一覧 — CRATEDIGGIN\'',
             name + 'の掲載' + work_count(selected) + '。楽曲解説、サンプリング元ネタと制作背景を出典からたどる。',
-            graph=[{'@type': 'CollectionPage', '@id': url + '#page', 'url': url, 'name': name + ' の楽曲一覧',
+            **portrait_meta, graph=[{'@type': 'CollectionPage', '@id': url + '#page', 'url': url, 'name': name + ' の楽曲一覧',
+                    **({'image': image_url(portrait_meta['image'])} if portrait else {}),
                     'about': entity(name), 'mainEntity': {'@type': 'ItemList', 'numberOfItems': len(selected),
                     'itemListElement': [{'@type': 'ListItem', 'position': i + 1, 'url': host + '/songs/' + t['id'] + '.html',
                                          'name': t['title']} for i, t in enumerate(selected)]}}])

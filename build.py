@@ -20,6 +20,7 @@ guides=json.loads((ROOT/'guides.json').read_text(encoding='utf-8'))
 feature_data=json.loads((ROOT/'features.json').read_text(encoding='utf-8'))
 from feature_policy import qualify_features
 from feature_editorial import render_longform
+from person_photos import photo_feature, photo_header
 features=qualify_features(tracks,feature_data['features'])
 from frontend import build_frontend
 build_frontend(ROOT,DIST,features,feature_data['policy'],guides)
@@ -134,7 +135,7 @@ for artist in artist_names:
     slug=artist_slugs[artist]
     artist_tracks=[t for t in tracks if t['artist']==artist]
     url=HOST+'/artists/'+slug+'.html'
-    listing='<main id="view" tabindex="-1"><article><h1>'+html.escape(artist)+'</h1><p>CRATEDIGGIN\' '+work_count(artist_tracks)+'</p><ul>'+''.join('<li><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+html.escape(t['title'])+'</a> ('+year_label(t)+')</li>' for t in artist_tracks)+'</ul><p><a href="'+BASE_PATH+'/">CRATEDIGGIN\' トップへ</a></p></article></main>'
+    listing='<main id="view" tabindex="-1"><article><h1>'+html.escape(artist)+'</h1>'+photo_header(photo_feature(features,artist),BASE_PATH)+'<p>CRATEDIGGIN\' '+work_count(artist_tracks)+'</p><ul>'+''.join('<li><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+html.escape(t['title'])+'</a> ('+year_label(t)+')</li>' for t in artist_tracks)+'</ul><p><a href="'+BASE_PATH+'/">CRATEDIGGIN\' トップへ</a></p></article></main>'
     page=base.replace('<main id="view" tabindex="-1"></main>',listing)
     page=re.sub(r'<title>.*?</title>','<title>'+html.escape(artist)+' の楽曲一覧 — CRATEDIGGIN\'</title>',page)
     page=re.sub(r'<meta name="description" content="[^"]*">','<meta name="description" content="'+html.escape(artist+' の掲載'+work_count(artist_tracks)+'。楽曲解説、サンプリングの元ネタ、出典をDJ Naoyamanが紹介。',quote=True)+'">',page)
@@ -208,9 +209,9 @@ for stale in feature_dir.glob('*.html'):
     if stale.stem not in {f['id'] for f in features}:stale.unlink()
 for f in features:
     e=f['editorial'];esc=html.escape;selected=feature_tracks(f)
-    body='<h1>'+esc(f['name'])+'</h1><p>'+esc(feature_data['policy'])+'</p><p>'+esc(f.get('identityNote',''))+'</p><article class="prose"><h2>'+esc(e['title'])+'</h2>'
+    body='<h1>'+esc(f['name'])+'</h1>'+photo_header(f,BASE_PATH)+'<p>'+esc(feature_data['policy'])+'</p><p>'+esc(f.get('identityNote',''))+'</p><article class="prose"><h2>'+esc(e['title'])+'</h2>'
     if e.get('format')=='source-led-v1':
-        body='<h1>'+esc(f['name'])+'</h1><p>'+esc(feature_data['policy'])+'</p><p>'+esc(f.get('identityNote',''))+'</p>'+render_longform(e,BASE_PATH)
+        body='<h1>'+esc(f['name'])+'</h1>'+photo_header(f,BASE_PATH)+'<p>'+esc(feature_data['policy'])+'</p><p>'+esc(f.get('identityNote',''))+'</p>'+render_longform(e,BASE_PATH)
     else:
         for title,key in [('音楽性と背景','context'),('後世に残したもの','legacy'),('私の聴き方','listening'),('作品と系譜をたどる','connections')]:
             body+='<h3>'+title+'</h3><p>'+esc(e[key])+'</p>'

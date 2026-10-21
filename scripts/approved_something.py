@@ -5,6 +5,8 @@ ROOT=Path(__file__).resolve().parents[1]
 F=json.loads((ROOT/'scripts/fixtures/approved-something.json').read_text())
 sha=lambda b:hashlib.sha256(b).hexdigest()
 def historical_something_file(path,data):
+ from approved_person_photos import historical_person_photos_file
+ data=historical_person_photos_file(path,data)
  c=F['files'].get(path)
  if c is None:return data
  assert sha(data)==c['afterSHA256'],'Unapproved Something drift: '+path
