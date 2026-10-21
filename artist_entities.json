@@ -613,5 +613,14 @@
   },
   "Cash Money & Marvelous": {
     "type": "MusicGroup"
+  },
+  "The Sugarhill Gang": {
+    "type": "MusicGroup"
+  },
+  "Grandmaster Flash & The Furious Five": {
+    "type": "MusicGroup"
+  },
+  "RUN-D.M.C. feat. Aerosmith": {
+    "type": "MusicGroup"
   }
 }

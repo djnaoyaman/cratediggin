@@ -10037,6 +10037,58 @@
       "transparent": true,
       "textReviewed": true,
       "paletteReviewed": true
+    },
+    {
+      "palette": [
+        "#D33329",
+        "#EE9735",
+        "#F6D852",
+        "#26221E"
+      ],
+      "paletteSource": "1979 Sugar Hill SH-542 red-label 12-inch, orange/yellow company sleeve",
+      "paletteSourceUrl": "https://www.breakwellrecords.com/product/1965",
+      "paletteNote": "現物写真を目視した編集上の近似。赤いセンターラベル、橙／黄の放射状カンパニースリーヴ、黒い活字を参照。後年の青いSugar Hillスリーヴや配信コンピレーションの絵柄は使わない。全体ジャケット固有の絵ではなく会社共通スリーヴであることを明記。",
+      "id": "sugarhill-gang-rappers-delight",
+      "status": "ready",
+      "image": "assets/graffiti/sugarhill-gang-rappers-delight-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    },
+    {
+      "palette": [
+        "#B1B0A3",
+        "#72223D",
+        "#9B86B7",
+        "#EDE9E6",
+        "#242123"
+      ],
+      "paletteSource": "The Message original album artwork",
+      "paletteSourceUrl": "https://www.rhino.com/product/the-message",
+      "paletteNote": "Rhinoのオリジナル・アルバム図版を目視した編集上の近似。上部の灰緑、衣服の臙脂、路面と写真の紫、白い服と黒い輪郭を参照。街路写真自体を転載・模倣しない。",
+      "id": "grandmaster-flash-the-furious-five-the-message",
+      "status": "ready",
+      "image": "assets/graffiti/grandmaster-flash-the-furious-five-the-message-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    },
+    {
+      "palette": [
+        "#008A4D",
+        "#B62479",
+        "#B5D0B6",
+        "#17291E"
+      ],
+      "paletteSource": "Raising Hell",
+      "paletteSourceUrl": "https://vinyl.sonymusic.com/products/run-dmc-raising-hell-lp",
+      "paletteNote": "Sony掲載の緑の写真／マゼンタ文字の表ジャケットを目視して選んだ近似色。白い商品写真の余白と黒い盤は配色対象外。Janet Perr本人の取材は、この組み合わせと紫／緑の組み合わせをともに当初の2仕様として説明している。再発で新造された配色と誤認しない。",
+      "id": "run-dmc-walk-this-way",
+      "status": "ready",
+      "image": "assets/graffiti/run-dmc-walk-this-way-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
