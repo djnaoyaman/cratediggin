@@ -71,11 +71,11 @@
       "id": "in-the-house",
       "tags": [
         {
-          "shelf": "loop",
+          "shelf": "arrangement",
           "evidence": {
             "file": "tracks.json",
-            "field": "listening.2",
-            "quote": "ループの継ぎ目よりも、余白に耳を向ける。ここに書いた聴感は編者の私見です。"
+            "field": "listening.0",
+            "quote": "イントロ、本編、アウトロを区別するというSaidの分析を手がかりに、ビートの切り替わりを追う。"
           }
         }
       ]
@@ -101,7 +101,7 @@
           "evidence": {
             "file": "tracks.json",
             "field": "listening.0",
-            "quote": "ピアノが一周する長さと、ラップの区切りを比べる。"
+            "quote": "Dolphin Danceの前後の演奏と、切り出されたピアノの断片を聴き比べる。"
           }
         }
       ]
@@ -126,8 +126,8 @@
           "shelf": "bass",
           "evidence": {
             "file": "tracks.json",
-            "field": "essay.0",
-            "quote": "洒落ているのに、気取っていない。「Props Over Here」は、その具合がいい。低音がどっしり座っているから、上の声が少しはしゃいでも曲は落ち着いている。床がしっかりしていれば、人は好きに踊れるのである。"
+            "field": "listening.0",
+            "quote": "Psycho Lesが挙げたジャズのベースラインを手がかりに、先行曲に選ばれた理由を自分でも考えてみる。"
           }
         }
       ]
@@ -139,8 +139,8 @@
           "shelf": "voice",
           "evidence": {
             "file": "tracks.json",
-            "field": "essay.1",
-            "quote": "「The Lump Lump」は、私には深刻な顔で聴き続けるより、肩の動きに任せたい一曲に聞こえる。Buckwildのビートと、Sadatの独特な節回し。噛み合っているのに、きれいに揃えすぎないところがいい。"
+            "field": "listening.0",
+            "quote": "アルバム版とNubian Mixを区別し、別版を聴く機会にはGrand PubaとLord Jamarの参加で声の組み合わせがどう変わるかを比べる。"
           }
         }
       ]
@@ -175,11 +175,11 @@
       "id": "pete-rock-c-l-smooth-take-you-there",
       "tags": [
         {
-          "shelf": "drums",
+          "shelf": "voice",
           "evidence": {
             "file": "tracks.json",
-            "field": "essay.1",
-            "quote": "甘い響きに身を任せたら、次はドラムだけを追ってみる。柔らかく聞こえる曲の足元に、思いのほか硬い輪郭があることを楽しみたい。"
+            "field": "listening.0",
+            "quote": "アカペラ盤で練習したA-Trakの話を手がかりに、声の区切りへ耳を向ける。"
           }
         }
       ]

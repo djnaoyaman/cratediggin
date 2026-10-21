@@ -371,15 +371,12 @@
       "lettering": "block",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "扉を開けた瞬間、もういい音がしている。ビートには厚みがあり、声には余裕がある。主役が二人いる部屋は、案外居心地がいい。",
-    "essayTitle": "いい部屋には、いい音がある。",
+    "deck": "アルバムの一曲目。その中にも、入口と出口がある。",
+    "essayTitle": "本編の前後に、もう二つのビート。",
     "essay": [
-      "いい店は、入った瞬間にだいたいわかる。照明や内装をひとつずつ採点する前に、身体が勝手に居場所を決めてしまうからだ。Pete Rock & C.L. Smoothの「In the House」には、そんな入口がある。まだ上着も脱いでいないのに、もう長居するつもりになっている。",
-      "1994年の『The Main Ingredient』は、この曲から始まる。アルバムの一曲目というのは、店なら玄関である。そこにこれを置く。ずいぶん頼もしい迎え方だと思う。こちらに予備知識がなくても、音のほうが先に招き入れてくれる。",
-      "私には、Pete Rockのビートが、よく手入れされた古い家具のように聞こえる。新しさを誇らなくても、触れれば仕事の細かさがわかる。重みがあるのに、窮屈ではない。そこへC.L. Smoothの声が入ってくると、家具だけだった部屋に、人が住み始める。",
-      "サンプリング元を知るのは面白い。しかし答え合わせが済んだところで、曲の楽しみまで終わるわけではない。同じレコードを持っていても、この部屋はできない。どこを取り、どう置き、どこを空けるか。その判断の積み重ねを、私たちはグルーヴと呼んでいるのだろう。",
-      "音をつくる人と、言葉を乗せる人。二人が互いを押しのけずに、音楽を前へ進める。こういう関係を聴いていると、編集という仕事にも少し似ていると思う。自分の存在を大きくするより、相手のよさが見える配置を探す。もちろん、腕がなければ遠慮だけで終わってしまうのだが。",
-      "古い曲を聴いているつもりが、いまの自分の耳を確かめている。レコードを掘る時間の豊かさは、そこにもある。玄関で立ち話をしている場合ではない。もう少し、この部屋にいてみよう。"
+      "1994年の『The Main Ingredient』は「In the House」で始まる。ビート制作の研究者Amir Saidは、この曲には本編に加え、イントロとアウトロの二つのビートがあると分析している。",
+      "『The Art of Sampling』では、冒頭のドラムと終わりのハイハットを分けて取り上げる。制作本人の証言ではなく、構成を聴き分けるための著者の見方だ。",
+      "ラップの前後も飛ばさず、ビートの切り替わりを追ってみたい。曲名の区切りと、音の区切りは重なるだろうか。"
     ],
     "facts": [
       {
@@ -432,11 +429,9 @@
       }
     ],
     "listening": [
-      "アルバムの入口として聴く。曲単体とは、また違う迎え方に気づく。",
-      "ビートの厚みと、声の輪郭を交互に追う。どちらも前にいるのに、ぶつからない。",
-      "ループの継ぎ目よりも、余白に耳を向ける。ここに書いた聴感は編者の私見です。"
+      "イントロ、本編、アウトロを区別するというSaidの分析を手がかりに、ビートの切り替わりを追う。"
     ],
-    "context": "年表ではNew Yorkのレーンに置き、地域の細部はMount Vernonとして残す。ニューヨーク市の区と、州内の別の街を混同しない。 Pete RockがMount Vernonで育ったことは、出演者紹介でも確認できる。",
+    "context": "1994年『The Main Ingredient』の冒頭曲を対象にする。Warnerの2015年再発発売日と原作の発表年は区別。",
     "sources": [
       {
         "label": "Warner Music Japan — The Main Ingredient公式情報",
@@ -462,6 +457,16 @@
         "label": "Universal Music — Music, You All公式トラック情報",
         "url": "https://www.universalmusic.it/musica-jazz/album/music-you-all_32244977582/",
         "kind": "レーベル公式"
+      },
+      {
+        "label": "Amir Said — The Art of Sampling 第2版、p.162",
+        "url": "https://theartofsampling.com/wp-content/uploads/2024/08/TAOS_3_eBook_e2.pdf",
+        "kind": "ビート制作研究書・著者の分析"
+      },
+      {
+        "label": "Amir Said — The BeatTips Manual著者紹介",
+        "url": "https://thebeattipsmanual.substack.com/about",
+        "kind": "著者公式プロフィール"
       }
     ],
     "producers": [
@@ -480,7 +485,19 @@
     "editorialCrates": [
       "funk-soul"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        0,
+        5
+      ],
+      [
+        5
+      ],
+      [
+        5
+      ]
+    ]
   },
   {
     "id": "what-im-after",
@@ -1031,12 +1048,12 @@
       "lettering": "tag",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "ピアノの断片がくるりと回り、言葉がその内側を歩く。シカゴから届く、軽快な一曲。",
-    "essayTitle": "ピアノは、四角く切っても丸く踊る。",
+    "deck": "Ahmad Jamalの演奏を、曲の途中から聴き直す。",
+    "essayTitle": "長い演奏の途中に、次の曲がある。",
     "essay": [
-      "ピアノのループを聴いているだけで、少し姿勢がよくなる。ただし、かしこまるほどではない。「Resurrection」の気持ちよさは、洒落た音と普段着の声が同じ場所にいることだと思う。",
-      "No I.D.が選んだのは、Ahmad Jamalの「Dolphin Dance」の短い一節。曲を丸ごと借りるのではなく、そこで立ち止まり、何度も戻る。その反復の上で、Commonの言葉は先へ進んでいく。私には、その逆向きの動きが面白い。",
-      "「Runnin’」のあとに置くなら、風通しを保ったままピアノへ移れる。音楽を聴きながら頭が働くこともあるが、この曲では首もちゃんと参加している。机に向かうだけが、考える姿勢ではないらしい。"
+      "「Resurrection」のピアノをたどると、Ahmad Jamalの「Dolphin Dance」に行き着く。University Musical Societyの解説によれば、No I.D.が取り出したのは、1970年の『The Awakening』に収められた演奏の途中、その数秒だった。",
+      "長い演奏の途中で立ち止まり、その一節から別の曲を作る。「Resurrection」から原曲へ戻るときは、短い素材が前後の演奏にどうつながっているかを確かめてみたい。",
+      "Commonは、声の素材をNasからNice & Smoothへ替えたと語っている。"
     ],
     "samples": [
       {
@@ -1092,14 +1109,17 @@
         "label": "UMG — Dolphin Dance正規配信",
         "url": "https://www.youtube.com/watch?v=dxnTYFE0x1I",
         "kind": "公式音源"
+      },
+      {
+        "label": "Complex — The Making of Common’s Resurrection（Common本人の回想）",
+        "url": "https://www.complex.com/music/a/insanulahmed/the-making-of-commons-resurrection",
+        "kind": "制作当事者インタビュー"
       }
     ],
     "listening": [
-      "ピアノが一周する長さと、ラップの区切りを比べる。",
-      "次にドラムの隙間へ耳を移す。",
-      "元音源へ戻り、ループの前後に続いていた演奏を聴く。"
+      "Dolphin Danceの前後の演奏と、切り出されたピアノの断片を聴き比べる。"
     ],
-    "context": "Chicago / No I.D.を軸に聴く一曲。年表の地域は活動拠点を基準にし、出身地やサンプル元の地域とは分けて扱う。",
+    "context": "1994年のNo I.D.制作曲を対象とする。",
     "producers": [
       "No I.D."
     ],
@@ -1115,7 +1135,18 @@
     "editorialCrates": [
       "jazz-mellow"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "mass-appeal",
@@ -1315,12 +1346,12 @@
       "lettering": "bubble",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "ベースの太さと、ラップの遊び心。ジャズの断片を、気取らずフロアへ持ち出す。",
-    "essayTitle": "低音に、いい顔をさせる。",
+    "deck": "「Props Over Here」を最初に推していたのは、作った本人たちではなかった。",
+    "essayTitle": "聴く人が、作った人の評価を変えた。",
     "essay": [
-      "洒落ているのに、気取っていない。「Props Over Here」は、その具合がいい。低音がどっしり座っているから、上の声が少しはしゃいでも曲は落ち着いている。床がしっかりしていれば、人は好きに踊れるのである。",
-      "素材はDonald ByrdとBooker Littleの「Wee Tina」。トランペット奏者の名が並ぶ音源から、ベースの一節を拾う。目立つ楽器が主役になるとは限らない。The Beatnutsは、レコードの奥にいた音へ、別の出番を渡したように聞こえる。",
-      "Commonで風を通し、Gang Starrで輪郭を締めたあと、この曲で少し笑いたい。私には、ジャズを教養の棚に戻さず、夜の遊びへ連れ出す曲に聞こえる。レコードを大切にする方法は、静かに飾ることだけではない。"
+      "「Props Over Here」は、作り手が迷いなく選んだ先行シングルではなかった。Fashionは2014年のUnkutの取材で、もっと荒々しい曲を出したかったのに、レーベル側がラジオ向けの一曲を求めたと振り返っている。",
+      "Psycho Lesも翌年の取材で、当時はこの選択に少し抵抗があったと話した。自分たちが目指していたハードな曲とは違い、この曲には明るさとジャズのベースラインがあったという。ここでは、その違いを本人がどう感じていたかが大事になる。",
+      "けれど、彼の評価はそこで止まっていない。人々がこの曲を好んでくれるため、いまでは大切に思うようになったとも語っている。作った人の狙いと、聴く人が見つけた魅力は、最初から一致しなくてもいい。低音を追うとき、この曲がその距離を埋めていったことも思い出したい。"
     ],
     "samples": [
       {
@@ -1379,14 +1410,22 @@
         "label": "Musica Terra — Wee Tinaの解説と参考音源",
         "url": "https://musica-terra.com/2021/12/31/special-native-tongue-street-level/",
         "kind": "サンプル解説"
+      },
+      {
+        "label": "Unkut — Al’ Tariq aka Fashion本人インタビュー（2014）",
+        "url": "https://unkut.com/2014/11/al-tariq-aka-fashion-the-unkut-interview-part-one/",
+        "kind": "制作参加者の取材・証言"
+      },
+      {
+        "label": "Unkut — Psycho Les本人インタビュー（2015）",
+        "url": "https://unkut.com/2015/05/psycho-les-the-beatnuts-the-unkut-interview/",
+        "kind": "制作参加者の取材・証言"
       }
     ],
     "listening": [
-      "まずはベースの一周を追う。",
-      "同じ低音の上で声とドラムがどう跳ねるか。",
-      "Mass Appealから続けて聴き、反復の表情の違いを楽しむ。"
+      "Psycho Lesが挙げたジャズのベースラインを手がかりに、先行曲に選ばれた理由を自分でも考えてみる。"
     ],
-    "context": "Queens / The Beatnutsを軸に聴く一曲。年表の地域は活動拠点を基準にし、出身地やサンプル元の地域とは分けて扱う。",
+    "context": "1994年のThe Beatnuts（通称Street Level）期の曲。制作当時への回想は、FashionとPsycho Lesそれぞれの証言として紹介する。",
     "producers": [
       "The Beatnuts"
     ],
@@ -1403,7 +1442,18 @@
     "editorialCrates": [
       "funk-soul"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        5
+      ],
+      [
+        5
+      ]
+    ]
   },
   {
     "id": "times-up",
@@ -1448,12 +1498,12 @@
       "paletteSource": "Word...Life",
       "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。"
     },
-    "deck": "音を増やせば強くなる、とは限らない。「Time’s Up」は、余白の多さが言葉をいっそう近くへ連れてくる。",
-    "essayTitle": "余白まで、言葉の味方。",
+    "deck": "特定の相手への攻撃ではなく、ラッパー像そのものへの反論。",
+    "essayTitle": "敵は一人ではない。Time’s Up。",
     "essay": [
-      "音を増やせば強くなる、とは限らない。「Time’s Up」は、余白の多さが言葉をいっそう近くへ連れてくる。",
-      "Les DeMerleの「A Day In The Life」から拾った音が、短いループになる。ビートの隙間に、O.C.の声が入る。私には、その少ない材料の噛み合わせが、曲の緊張を支えているように聞こえる。",
-      "「Props Over Here」の遊び心から、ここで少し背筋を伸ばしたい。かしこまるためではない。次に来る言葉を、一つも聞き逃したくなくなるからだ。"
+      "「Time’s Up」は、誰か一人に向けた曲なのか。O.C.は2020年掲載のインタビューで、相手は特定の人物ではなく、ラップ界全体だったと話している。犯罪や暴力の経歴でラッパーを判断する見方に、言葉と知性で応じたかったという。",
+      "制作の出発点も、ビート任せではない。Buckwildは2006年のインタビューで、O.C.にはすでにヴァースとコーラスの構想があったと振り返っている。音が届いて初めて言いたいことを探したのではなく、伝えたいものに音が加わったという証言だ。",
+      "この二人の話を踏まえると、曲の強さを怒りだけで片づけたくなくなる。どんな言葉を選び、何を実力の証拠にするのか。相手を威圧する量より、価値観をひっくり返す言葉に注目してみたい。"
     ],
     "facts": [
       {
@@ -1491,11 +1541,9 @@
       }
     ],
     "listening": [
-      "まずはループの一周を追い、次に声が入る位置を聴く。",
-      "同じ素材の反復が、ラップによってどう表情を変えるか。",
-      "サンプル元へ戻り、切り取られた音の前後も聴いてみる。"
+      "個人への攻撃と決めつけず、ラッパーに求められるものを問い直す詞として追う。"
     ],
-    "context": "Brooklyn / D.I.T.C.の一曲。地域の表示は編集上の活動拠点で、制作・素材の出自とは分けて読む。",
+    "context": "1994年『Word...Life』収録のオリジナル曲を対象とし、後年のRemixやBuckwild Original表記の別トラックとは混同しない。",
     "sources": [
       {
         "label": "O.C. — Word...Life / Time’s Up",
@@ -1511,6 +1559,16 @@
         "label": "O.C. — Topic音源",
         "url": "https://www.youtube.com/watch?v=6gNmCGQRpcc",
         "kind": "公式音源"
+      },
+      {
+        "label": "Passion of the Weiss — O.C.本人に聞くWord…Lifeの制作",
+        "url": "https://www.powmag.net/p/i-didnt-need-to-rap-about-guns-i-killed-them-with-intellect-the-making-of-o-c-s-word-life",
+        "kind": "アーティスト本人インタビュー"
+      },
+      {
+        "label": "AllHipHop — Buckwild: Still Diggin’",
+        "url": "https://allhiphop.com/features/buckwild-still-diggin/",
+        "kind": "制作当事者インタビュー"
       }
     ],
     "producers": [
@@ -1529,7 +1587,19 @@
     "editorialCrates": [
       "raw-beats"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        4
+      ],
+      [
+        3,
+        4
+      ]
+    ]
   },
   {
     "id": "the-lump-lump",
@@ -1577,12 +1647,12 @@
       "paletteSource": "Wild Cowboys",
       "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。"
     },
-    "deck": "Sadat Xの声は、一度聞くと曲の輪郭ごと覚えてしまう。低音の上を、少し角度をつけて歩いていくような声だ。",
-    "essayTitle": "肩の力は、ビートに預ける。",
+    "deck": "同じ曲名でも、参加するMCは同じとは限らない。",
+    "essayTitle": "ソロ曲から、三人のNubian Mixへ。",
     "essay": [
-      "Sadat Xの声は、一度聞くと曲の輪郭ごと覚えてしまう。低音の上を、少し角度をつけて歩いていくような声だ。",
-      "「The Lump Lump」は、私には深刻な顔で聴き続けるより、肩の動きに任せたい一曲に聞こえる。Buckwildのビートと、Sadatの独特な節回し。噛み合っているのに、きれいに揃えすぎないところがいい。",
-      "音の硬さは保ちつつ、表情を少しほぐす。「Time’s Up」の緊張のあとなら、こんな寄り道がちょうどいい。首を振るにも、いろいろな顔があっていいのだ。"
+      "1996年の『Wild Cowboys』に入った「The Lump Lump」は、Sadat Xのソロ曲として聴くところから始めたい。公式配信の曲別クレジットでは制作がBuckwild、参加者にRoc Raiderの名がある。Grand PubaとLord Jamarの名を、ここに足すことはできない。",
+      "二人の名前が並ぶのは、別版の「Nubian Mix」だ。BuckwildのBandcampでも、Sadat XにGrand PubaとLord Jamarを迎えた曲として掲載されている。題名が同じだからといって、アルバム版とこのミックスの参加者を一緒にしてはいけない。",
+      "Sadatは2016年の取材で、ソロ作では当時のブロンクスの仲間との生活を反映したかったと語り、Jamarとの不仲によるものではないとも説明した。ソロになった人の曲が、別の版では三人の接点にもなる。まず一人のラップを聴き、そのあと別版で声の組み合わせを比べると、名義だけでは見えないつながりがわかる。"
     ],
     "facts": [
       {
@@ -1621,11 +1691,9 @@
       }
     ],
     "listening": [
-      "まずはループの一周を追い、次に声が入る位置を聴く。",
-      "同じ素材の反復が、ラップによってどう表情を変えるか。",
-      "サンプル元へ戻り、切り取られた音の前後も聴いてみる。"
+      "アルバム版とNubian Mixを区別し、別版を聴く機会にはGrand PubaとLord Jamarの参加で声の組み合わせがどう変わるかを比べる。"
     ],
-    "context": "New York / Brand Nubianの一曲。地域の表示は編集上の活動拠点で、制作・素材の出自とは分けて読む。",
+    "context": "対象は1996年『Wild Cowboys』のアルバム版。Grand Puba／Lord Jamar参加のNubian Mixを関連する別版として紹介する。",
     "sources": [
       {
         "label": "Apple Music — Wild Cowboys",
@@ -1641,6 +1709,21 @@
         "label": "Sadat X - Topic — The Lump Lump",
         "url": "https://www.youtube.com/watch?v=0fCjP8wY8BQ",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Qobuz — Wild Cowboys公式曲別クレジット",
+        "url": "https://www.qobuz.com/us-en/album/wild-cowboys-sadat-x/vipcyzn13n2na",
+        "kind": "正規配信・レーベル提供クレジット"
+      },
+      {
+        "label": "Buckwild — The Lump Lump (Nubian Mix)",
+        "url": "https://ditcbuckwild.bandcamp.com/track/32-sadat-x-feat-grand-puba-lord-jamar-the-lump-lump-nubian-mix",
+        "kind": "アーティスト公式配信"
+      },
+      {
+        "label": "XXL — Sadat X本人のWild Cowboys回想（2016）",
+        "url": "https://www.xxlmag.com/sadat-x-interview-agua-album/",
+        "kind": "アーティスト本人の取材・証言"
       }
     ],
     "producers": [
@@ -1657,6 +1740,18 @@
       "pizza",
       "walk",
       "east"
+    ],
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        4
+      ],
+      [
+        5,
+        4
+      ]
     ]
   },
   {
@@ -1703,12 +1798,12 @@
       "paletteSource": "Lifestylez ov da Poor & Dangerous",
       "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。"
     },
-    "deck": "軽やかなループに、Big Lの声が鋭く入る。「Put It On」は、勢いがあるのに足元がよく見える曲だと思う。",
-    "essayTitle": "小さな音、大きな声。",
+    "deck": "Buckwildが作る。Big Lが選ぶ。Kid Capriが観客へ渡す。",
+    "essayTitle": "選び抜いたビートに、みんなの掛け声を。",
     "essay": [
-      "軽やかなループに、Big Lの声が鋭く入る。「Put It On」は、勢いがあるのに足元がよく見える曲だと思う。",
-      "Buckwildが組んだビートの顔は、Buster Williamsの「Vibrations」の断片。丸みのある音を、切れ味のある言葉が横切る。その組み合わせに、私の耳は何度でも引っかかる。",
-      "Kid Capriの掛け声も含め、曲がこちらを輪の中へ招いてくれる。声を張ることと、勢いだけになることは違う。何周聴いても、その区別がくっきり残る。"
+      "「Put It On」のビートは、Big Lの厳しい耳を通っている。Buckwildは、彼をとりわけビート選びに厳しいラッパーだったと振り返る。一方、Buster Williamsの「Vibrations」を刻んで作ったこのビートは、すぐに気に入られたという。",
+      "Buckwildの回想によれば、Big Lは家で時間をかけてヴァースを書き、Kid Capriがフックに加わった。細部を詰めたラップと、曲を呼びかけへ変える声。同じマイクの仕事でも、二人は違う役割を持っている。",
+      "その呼びかけは録音の中だけで終わらない。Kid Capriは2013年の取材で、自分のショーでもこの曲を観客に届け、フックを歌っていると語った。Big Lの言葉を追ったあと、今度はCapriの声がどこで人を参加させるかに耳を向けたい。"
     ],
     "facts": [
       {
@@ -1747,11 +1842,9 @@
       }
     ],
     "listening": [
-      "まずはループの一周を追い、次に声が入る位置を聴く。",
-      "同じ素材の反復が、ラップによってどう表情を変えるか。",
-      "サンプル元へ戻り、切り取られた音の前後も聴いてみる。"
+      "Big LのヴァースとKid Capriのフックを分けて追い、声の役割が切り替わるところを聴く。"
     ],
-    "context": "Harlem / D.I.T.C.の一曲。地域の表示は編集上の活動拠点で、制作・素材の出自とは分けて読む。",
+    "context": "1994年のシングル、1995年『Lifestylez ov da Poor & Dangerous』収録曲。既存MVとアルバム版の編集差は今回未照合。",
     "sources": [
       {
         "label": "Big L — Put It On公式動画",
@@ -1767,6 +1860,16 @@
         "label": "Big Division — Put It Onシングル紹介",
         "url": "https://www.big-division.com/product/5088",
         "kind": "レコード販売資料"
+      },
+      {
+        "label": "Okayplayer — Buckwild on How Put It On Became the Defining Big L Anthem",
+        "url": "https://www.okayplayer.com/behind-the-beat-buckwild-on-how-put-it-on-became-the-defining-big-l-anthem/579861",
+        "kind": "制作当事者インタビュー"
+      },
+      {
+        "label": "YouKnowIGotSoul — Kid Capri on Memories of Big L",
+        "url": "https://youknowigotsoul.com/exclusive-kid-capri-on-upcoming-label-projects-memories-of-big-l",
+        "kind": "参加者本人インタビュー"
       }
     ],
     "producers": [
@@ -1785,7 +1888,18 @@
     "editorialCrates": [
       "raw-beats"
     ],
-    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。"
+    "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "the-shit-is-real",
@@ -1832,12 +1946,12 @@
       "paletteSource": "Jealous One’s Envy",
       "paletteNote": "収録アルバムを基準にした編集上の配色。厳密な色抽出値ではない。"
     },
-    "deck": "強い声の向こうに、柔らかな鍵盤がある。このリミックスの良さは、片方で片方を消さないことだと思う。",
-    "essayTitle": "強い声にも、夜の陰影。",
+    "deck": "年齢を追う物語が、最後にはラップへの批判になる。",
+    "essayTitle": "十四歳、十六歳。そして、ラップへの言葉。",
     "essay": [
-      "強い声の向こうに、柔らかな鍵盤がある。このリミックスの良さは、片方で片方を消さないことだと思う。",
-      "DJ Premierが用いたのは、Ahmad Jamalの「The World Is A Ghetto」。元の演奏の陰影が、反復の中で別の重さになる。私には、その鍵盤がFat Joeの声に、夜の奥行きを足しているように聞こえる。",
-      "「Mass Appeal」と並べても、同じPremierだから同じ景色、とはならない。小さなループの使い方が変われば、街の照明も変わる。ここでは、歩く速度を少し落として聴きたい。"
+      "掲載歌詞では、語り手が十四歳から十六歳へ進み、最後は虚勢を張るラッパーへの批判に転じる。自分の物語から、他人の語り方へ。視線の向きが変わる構成だ。",
+      "対象はDJ Premierのリミックス。正規配信にも制作・リミックスの担当者として記載される。Fat Joeは取材で、遅いビートに驚いたが、聴き直すうちに気に入ったと振り返った。",
+      "歌詞の人物を、そのまま実在の作者と同一視はしない。過去を語る声が最後に誰へ向くのか。「real」という題名も、その変化を追う手がかりになる。"
     ],
     "facts": [
       {
@@ -1876,11 +1990,9 @@
       }
     ],
     "listening": [
-      "まずはループの一周を追い、次に声が入る位置を聴く。",
-      "同じ素材の反復が、ラップによってどう表情を変えるか。",
-      "サンプル元へ戻り、切り取られた音の前後も聴いてみる。"
+      "年齢を追う物語が、最後のヴァースで誰に向かうかを追う。"
     ],
-    "context": "Bronx / D.I.T.C.の一曲。地域の表示は編集上の活動拠点で、制作・素材の出自とは分けて読む。",
+    "context": "1995年『Jealous One’s Envy』収録のDJ Premier Remixを参照。歌詞は物語として扱う。",
     "sources": [
       {
         "label": "Fat Joe — リミックスの正規配信",
@@ -1896,6 +2008,16 @@
         "label": "YouTube — DJ Premier Remix音源",
         "url": "https://www.youtube.com/watch?v=E8kZRCJVFDE",
         "kind": "配信音源"
+      },
+      {
+        "label": "Shazam — The Shit is Real (DJ Premier Remix)公式配信クレジット・掲載歌詞",
+        "url": "https://www.shazam.com/song/1111072287/the-shit-is-real-dj-premier-remix",
+        "kind": "正規配信メタデータ・掲載歌詞"
+      },
+      {
+        "label": "Complex — Fat Joe本人の25曲回想",
+        "url": "https://www.complex.com/music/a/daniel-isenberg/interview-fat-joe-25-best-songs",
+        "kind": "アーティスト本人の取材・証言"
       }
     ],
     "producers": [
@@ -1910,6 +2032,18 @@
     "addedOrder": 12,
     "collections": [
       "east"
+    ],
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3
+      ]
     ]
   },
   {
@@ -2654,11 +2788,12 @@
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "ジャズを飾りにせず、ラップの呼吸へ組み込む。",
-    "essayTitle": "ジャズの響きがラップの足場になるまで",
+    "deck": "曲末の呼びかけから、Q-Tipの回想へ。",
+    "essayTitle": "三人で乗るはずのビートが、Tribeの曲になった。",
     "essay": [
-      "ジャズを飾りにせず、ラップの呼吸へ組み込む。",
-      "ジャズらしい響きを見つけたら、そのままドラムへ耳を移してみる。音色の印象とラップの足場が、どこで一つになるかを聴きたい。"
+      "Q-Tipは2009年のMOOVMNT取材で、このビートにはPete Rock、Large Professor、自分の三人でラップする構想があったと回想している。",
+      "共演が進まず、使ったレコードを聞いて自分でもビートを組む相談をしたという。自分の素材も渡す交換の話で、曲末のPete Rockへの呼びかけにもその経緯がある、と説明した。",
+      "正式な制作クレジットとは分けて読む、Q-Tip側の回想だ。曲末で呼ばれる名前から、制作前の交流へ戻ってみたい。"
     ],
     "facts": [
       {
@@ -2672,14 +2807,24 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "ジャズを飾りにせず、ラップの呼吸へ組み込む。"
+      "曲末のPete Rockへの呼びかけに耳を向ける。"
     ],
-    "context": "ジャズらしい響きを見つけたら、そのままドラムへ耳を移してみる。音色の印象とラップの足場が、どこで一つになるかを聴きたい。",
+    "context": "1991年『The Low End Theory』収録の原曲。Re-Recordingとは区別する。",
     "sources": [
       {
         "label": "YouTube — A Tribe Called Quest / Jazz (We've Got)",
         "url": "https://www.youtube.com/watch?v=zlA0GHnERLs",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "MOOVMNT — Exclusive: Q-Tip Interview（2009年4月19日）",
+        "url": "https://www.moovmnt.com/2009/04/19/exclusive-q-tip-interview/",
+        "kind": "制作当事者の直接インタビュー"
+      },
+      {
+        "label": "A Tribe Called Quest公式 — The Low End Theory",
+        "url": "https://atribecalledquest.com/blogs/discography/1991-the-low-end-theory",
+        "kind": "アーティスト公式ディスコグラフィー"
       }
     ],
     "producers": [
@@ -2702,7 +2847,19 @@
       "jazz-mellow"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ]
   },
   {
     "id": "pete-rock-c-l-smooth-they-reminisce-over-you-t-r-o-y",
@@ -3027,11 +3184,12 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "甘い音を、芯のあるドラムが支える。奥行きのあるメロウ。",
-    "essayTitle": "甘い響きの足元に、硬いドラムの輪郭",
+    "deck": "13歳のA-Trakが、アルバムを持っていてもシングルを買った理由。",
+    "essayTitle": "A-Trakは、この曲の言葉をスクラッチした。",
     "essay": [
-      "甘い音を、芯のあるドラムが支える。奥行きのあるメロウ。",
-      "甘い響きに身を任せたら、次はドラムだけを追ってみる。柔らかく聞こえる曲の足元に、思いのほか硬い輪郭があることを楽しみたい。"
+      "A-Trakは13歳で初めて兄なしにレコード店へ行き、「Take You There」のシングルを買った。Dust & Groovesの取材で語った、DJを始めたころの思い出だ。",
+      "アルバムのカセットはすでに持っていた。シングルの価値はアカペラにあった。曲全体ではなく、言葉をスクラッチする練習ができたという。",
+      "このページの対象は1994年のアルバム曲で、アカペラ盤は別版として扱う。声の区切りに耳を向けながら、聴くための曲が、手で動かす素材にもなることを考えてみたい。"
     ],
     "facts": [
       {
@@ -3045,14 +3203,24 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "甘い音を、芯のあるドラムが支える。奥行きのあるメロウ。"
+      "アカペラ盤で練習したA-Trakの話を手がかりに、声の区切りへ耳を向ける。"
     ],
-    "context": "甘い響きに身を任せたら、次はドラムだけを追ってみる。柔らかく聞こえる曲の足元に、思いのほか硬い輪郭があることを楽しみたい。",
+    "context": "1994年『The Main Ingredient』収録曲。アカペラ盤の個別プレスは未特定。",
     "sources": [
       {
         "label": "Pete Rock - Topic — Take You There",
         "url": "https://www.youtube.com/watch?v=jh_Qkm-wKrs",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Dust & Grooves — A-Trak本人インタビュー",
+        "url": "https://dustandgrooves.com/a-trak/",
+        "kind": "演奏者本人の取材・使用体験"
+      },
+      {
+        "label": "Warner Music Japan — The Main Ingredient公式作品情報",
+        "url": "https://wmg.jp/pete-rock-cl-smooth/discography/15956",
+        "kind": "レーベル公式"
       }
     ],
     "producers": [
@@ -3069,7 +3237,19 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ]
   },
   {
     "id": "pete-rock-c-l-smooth-i-get-physical",
