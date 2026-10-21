@@ -2352,6 +2352,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "two-player-region-browser"
+    },
+    {
+      "id": "four-mix",
+      "argv": [
+        "python",
+        "scripts/verify_four_mix.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "four-mix"
+    },
+    {
+      "id": "four-mix-browser",
+      "argv": [
+        "node",
+        "scripts/verify_four_mix_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "four-mix-browser"
     }
   ],
   "groups": {
@@ -2796,6 +2820,10 @@
     "two_player_region": [
       "two-player-region",
       "two-player-region-browser"
+    ],
+    "four_mix": [
+      "four-mix",
+      "four-mix-browser"
     ]
   },
   "runtime_rules": {
@@ -3627,7 +3655,8 @@
     ],
     "scripts/approved_blu_amnesia.py": [
       "scripts/fixtures/approved-blu-amnesia.json",
-      "scripts/approved_two_player_region.py"
+      "scripts/approved_two_player_region.py",
+      "scripts/approved_four_mix.py"
     ],
     "scripts/verify_blu_amnesia.py": [
       "scripts/approved_blu_amnesia.py",
@@ -3646,6 +3675,18 @@
     ],
     "scripts/approved_two_player_region.py": [
       "scripts/fixtures/approved-two-player-region.json"
+    ],
+    "scripts/approved_four_mix.py": [
+      "scripts/fixtures/approved-four-mix.json"
+    ],
+    "scripts/verify_four_mix.py": [
+      "scripts/approved_four_mix.py",
+      "scripts/editorial_uniqueness.py",
+      "scripts/fixtures/editorial-legacy-debt.json"
+    ],
+    "scripts/verify_four_mix_browser.cjs": [
+      "scripts/verify_visible_art_browser.cjs",
+      "scripts/fixtures/approved-four-mix.json"
     ]
   },
   "policy_paths": [
@@ -3725,7 +3766,9 @@
     "scripts/approved_blu_amnesia.py",
     "scripts/fixtures/approved-blu-amnesia.json",
     "scripts/approved_two_player_region.py",
-    "scripts/fixtures/approved-two-player-region.json"
+    "scripts/fixtures/approved-two-player-region.json",
+    "scripts/approved_four_mix.py",
+    "scripts/fixtures/approved-four-mix.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -3775,7 +3818,8 @@
     "research/intake-timeline-three-20261021.json",
     "research/intake-timeline-pair-20261021.json",
     "research/intake-blu-amnesia-20261021.json",
-    "research/two-player-region-repair-20261021.json"
+    "research/two-player-region-repair-20261021.json",
+    "research/intake-four-mix-20261021.json"
   ],
   "syntax_existing": [
     "dist/app.js",
@@ -4247,6 +4291,13 @@
         "groups": [
           "two_player_region"
         ]
+      },
+      {
+        "before_sha256": "b2ea1bded1649adf8038a8cd0b0e95fc9bce746ea2a972d167dc030662c6eb09",
+        "after_sha256": "f8195ac68b04ea63d92a681a11d6909558849ffa1bbe6ef84111a538d4c7fbeb",
+        "groups": [
+          "four_mix"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -4333,6 +4384,13 @@
         "groups": [
           "blu_amnesia"
         ]
+      },
+      {
+        "before_sha256": "af79b81fdd597c329831b431f661b37b4659520d76bf48a6ce6edb15321a5698",
+        "after_sha256": "5b989c85ad5e6b0114a341209da18e6ed05608b71424d5184fe3733dc86436c0",
+        "groups": [
+          "four_mix"
+        ]
       }
     ],
     "graffiti_artwork.json": [
@@ -4411,6 +4469,13 @@
         "after_sha256": "556d4a16edb799469fec18c5c619036f0bb08fa216c0f8dae654693f4b5b2b7f",
         "groups": [
           "blu_amnesia"
+        ]
+      },
+      {
+        "before_sha256": "556d4a16edb799469fec18c5c619036f0bb08fa216c0f8dae654693f4b5b2b7f",
+        "after_sha256": "fccdb745bbd3b2871ef3b506b3197077f5e6b42cd543cefdbd042a2efb3f9c49",
+        "groups": [
+          "four_mix"
         ]
       }
     ],
@@ -4527,6 +4592,13 @@
         "after_sha256": "2605d2555e1eafc7f0c0a686b5afded14cd6de209310894453965affa141f9b7",
         "groups": [
           "blu_amnesia"
+        ]
+      },
+      {
+        "before_sha256": "2605d2555e1eafc7f0c0a686b5afded14cd6de209310894453965affa141f9b7",
+        "after_sha256": "be0a95389d26e99480325ad2a7f0872ba3e21e7e58b6cf2b3fd7515d5805469b",
+        "groups": [
+          "four_mix"
         ]
       }
     ],
@@ -4653,6 +4725,42 @@
         "after_sha256": "73d893c979aabb52d54024b638c888c3ed5dcdf9102227c5955dd2c7c12dccef",
         "groups": [
           "blu_amnesia"
+        ]
+      }
+    ],
+    "assets/graffiti/med-push-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "49f96b4e6d6744baaa4fbde74b5e3cfc5149d7c23948cd06682a32595a54f02a",
+        "groups": [
+          "four_mix"
+        ]
+      }
+    ],
+    "assets/graffiti/med-aint-bragging-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "f37d2d1e44efe23c48a7a6f72ab8e93080cbe2d66d5c2511bbcf393504b70691",
+        "groups": [
+          "four_mix"
+        ]
+      }
+    ],
+    "assets/graffiti/planet-asia-madlib-masonic-vocals-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "2334270228c853d2a5bec4c8b6486dc1b23b42d3e94dbe276d15d9473922812a",
+        "groups": [
+          "four_mix"
+        ]
+      }
+    ],
+    "assets/graffiti/strong-arm-steady-all-the-brothers-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "56816ff527b74eb420cab774122ec58b1b819ac51d97d38f70e9e249c169a4b8",
+        "groups": [
+          "four_mix"
         ]
       }
     ]

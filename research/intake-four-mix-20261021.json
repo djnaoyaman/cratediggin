@@ -1,0 +1,287 @@
+{
+  "source": "User-submitted TRUE SCHOOL UNDERGROUND CONTEMPORARY MIX VOL.1 / VOL.2, Book1.xlsx retained rows",
+  "baseCatalog": 517,
+  "selected": [
+    {
+      "id": "med-push",
+      "title": "Push",
+      "artist": "MED",
+      "provenance": {
+        "intakeFile": "Book1.xlsx",
+        "sheet": "Sheet1",
+        "rawRow": {
+          "source_row_id": "Book1.xlsx:Sheet1:1619",
+          "excel_row": 1619,
+          "title": "Push",
+          "artist": "MED",
+          "source_mix": "TRUE SCHOOL UNDERGROUND CONTEMPORARY MIX VOL.2",
+          "source_genre": "Mix Tape",
+          "typed_queue_source_row_ids": [],
+          "catalog_ids": [],
+          "status": "unreviewed_genre_identity_version"
+        },
+        "rawRowPreserved": true,
+        "mixYearIsNotTrackYear": true,
+        "mixYearContext": 2012
+      },
+      "versionIdentity": {
+        "selectedVersion": "Original vocal album track from Push Comes to Shove; official Topic audio approximately 2:30.",
+        "originalYear": 2005,
+        "albumReleaseDate": "2005-05-31",
+        "firstYearBasis": "Stones Throw also lists Push on the sampler prepared at the start of 2005. Exact first-day release is not independently established.",
+        "notSelected": [
+          "instrumental",
+          "Radio edit",
+          "Push / Get Back composite music video",
+          "2012 mix excerpt"
+        ],
+        "producerBasis": "Official Stones Throw video description explicitly says Push produced by J Dilla; album catalog credits J Dilla feature.",
+        "coProduction": "No co-producer established for Push. Just Blaze produced Get Back, the other song in the composite music video, not Push.",
+        "rejectedYouTube": {
+          "id": "mtgsWg5zjiU",
+          "reason": "Official video is 234 seconds and contains both Push (J Dilla) and Get Back (Just Blaze). It is not the isolated album track."
+        },
+        "durationNote": "YouTube videoDetails says149 seconds; microformat rounds to150. This is a metadata rounding difference, not proof of an edit.",
+        "sources": [
+          0,
+          1,
+          2,
+          4,
+          5
+        ]
+      },
+      "selectedVideo": {
+        "id": "h6ac-HhfV9Q",
+        "channel": "MED - Topic",
+        "type": "Official Audio",
+        "verified": "2026-10-21",
+        "url": "https://www.youtube.com/watch?v=h6ac-HhfV9Q",
+        "official": true,
+        "japanAvailableMetadata": true,
+        "playbackVerified": false,
+        "embeddedPlaybackVerified": false,
+        "title": "Push",
+        "duration": "PT2M29S",
+        "embedUrl": "https://www.youtube.com/embed/h6ac-HhfV9Q",
+        "embeddableMetadata": true,
+        "playableInEmbed": true,
+        "japanRegionStatus": "included",
+        "metadataVerifiedAt": "2026-10-21T10:04:13.314685+00:00",
+        "japanPlaybackVerified": false,
+        "exactMasterVerified": false,
+        "notice": "2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。",
+        "version": "Original vocal album track from Push Comes to Shove; official Topic audio approximately 2:30.",
+        "versionBasis": "掲載音源は2005年『Push Comes to Shove』の単独アルバム曲です。Radio編集、インスト、「Push / Get Back」をつないだ公式映像とは分けています。配信メタデータの149秒と約2分30秒の表記には丸めの差があり、原盤との波形一致を示すものではありません。",
+        "verification": "2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。"
+      },
+      "artOriginalLibraryId": "libfile_48e61340a4ec819182ae52a137ce30e5"
+    },
+    {
+      "id": "med-aint-bragging",
+      "title": "Ain't Bragging (feat. Guilty Simpson)",
+      "artist": "MED",
+      "provenance": {
+        "intakeFile": "Book1.xlsx",
+        "sheet": "Sheet1",
+        "rawRow": {
+          "source_row_id": "Book1.xlsx:Sheet1:1602",
+          "excel_row": 1602,
+          "title": "Ain't Bragging(feat. Guilty Simpson)",
+          "artist": "MED",
+          "source_mix": "TRUE SCHOOL UNDERGROUND CONTEMPORARY MIX VOL.2",
+          "source_genre": "Mix Tape",
+          "typed_queue_source_row_ids": [],
+          "catalog_ids": [],
+          "status": "unreviewed_genre_identity_version"
+        },
+        "rawRowPreserved": true,
+        "mixYearIsNotTrackYear": true,
+        "mixYearContext": 2012
+      },
+      "versionIdentity": {
+        "selectedVersion": "Original vocal song featuring Guilty Simpson, as carried on the 2011 Bang Ya Head 3 compilation; no remix designation.",
+        "originalYear": 2010,
+        "availableBy": "2010-11-29",
+        "exactFirstReleaseDateVerified": false,
+        "compilationReleaseDate": "2011-04-26",
+        "selectedYouTubeEdition": "Soulspazm-distributed 2011 compilation track, 175 seconds.",
+        "notSelected": [
+          "instrumental",
+          "remix",
+          "2012 mix excerpt"
+        ],
+        "producerBasis": "Official distributor metadata and Stones Throw tracklist both explicitly credit Waajeed.",
+        "coProduction": "No co-producer established. Do not credit Madlib for this track.",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      "selectedVideo": {
+        "id": "JyP_NqSwVrE",
+        "channel": "MED - Topic",
+        "type": "Official Audio",
+        "verified": "2026-10-21",
+        "url": "https://www.youtube.com/watch?v=JyP_NqSwVrE",
+        "official": true,
+        "japanAvailableMetadata": true,
+        "playbackVerified": false,
+        "embeddedPlaybackVerified": false,
+        "title": "Ain't Bragging (feat. Guilty Simpson)",
+        "duration": "PT2M55S",
+        "embedUrl": "https://www.youtube.com/embed/JyP_NqSwVrE",
+        "embeddableMetadata": true,
+        "playableInEmbed": true,
+        "japanRegionStatus": "included",
+        "metadataVerifiedAt": "2026-10-21T10:04:30.428052+00:00",
+        "japanPlaybackVerified": false,
+        "exactMasterVerified": false,
+        "notice": "2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。",
+        "version": "Original vocal song featuring Guilty Simpson, as carried on the 2011 Bang Ya Head 3 compilation; no remix designation.",
+        "versionBasis": "曲は2010年11月までに先行配信され、掲載音源は2011年『Bang Ya Head 3』のコンピレーション版です。曲の初出年と選択した配信版の年を分けています。2010年の先行配信ファイルと完全に同じマスターかは未検証です。",
+        "verification": "2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。"
+      },
+      "artOriginalLibraryId": "libfile_41d4d4916dc88191bfad754768bff01f"
+    },
+    {
+      "id": "planet-asia-madlib-masonic-vocals",
+      "title": "Masonic Vocals",
+      "artist": "Planet Asia & Madlib",
+      "provenance": {
+        "intakeFile": "Book1.xlsx",
+        "sheet": "Sheet1",
+        "rawRow": {
+          "source_row_id": "Book1.xlsx:Sheet1:1594",
+          "excel_row": 1594,
+          "title": "Masonic Vocals",
+          "artist": "Planet Asia & Madlib",
+          "source_mix": "TRUE SCHOOL UNDERGROUND CONTEMPORARY MIX VOL.1",
+          "source_genre": "Mix Tape",
+          "typed_queue_source_row_ids": [],
+          "catalog_ids": [],
+          "status": "unreviewed_genre_identity_version"
+        },
+        "rawRowPreserved": true,
+        "mixYearIsNotTrackYear": true,
+        "mixYearContext": 2012
+      },
+      "versionIdentity": {
+        "selectedVersion": "Original EP vocal track, Cracks in the Vinyl track 3.",
+        "originalYear": 2011,
+        "documentedBy": "2011-12-20",
+        "exactFirstReleaseDateVerified": false,
+        "currentCatalogDate": "2023-10-10",
+        "durationTriangulation": "2011 tracklist 03:02; artist Bandcamp 182.133 seconds; selected YouTube videoDetails 182 seconds.",
+        "youtubeIdentityBasis": "Title, artist and duration agree with original EP listing and current artist catalog. Uploader is independent, not the artist or label. No audio fingerprint comparison or exact-master certification.",
+        "notSelected": [
+          "instrumental",
+          "remix",
+          "2023 as original release year",
+          "2012 mix excerpt"
+        ],
+        "producerBasis": "Artist Bandcamp explicitly says all Madlib beats.",
+        "coProduction": "No co-producer established.",
+        "labelBasis": "Contemporaneous free-download link points to Wandering Worx Bandcamp; NTS catalogs the 2011 track under Wandering Worx. Stones Throw anniversary framing does not prove a Stones Throw label release.",
+        "sources": [
+          0,
+          1,
+          2,
+          5,
+          6
+        ]
+      },
+      "selectedVideo": {
+        "id": "phKBE2bOe7I",
+        "channel": "FreshFormality",
+        "type": "非公式アップロード",
+        "verified": "2026-10-21",
+        "url": "https://www.youtube.com/watch?v=phKBE2bOe7I",
+        "official": false,
+        "japanAvailableMetadata": true,
+        "playbackVerified": false,
+        "embeddedPlaybackVerified": false,
+        "title": "Masonic Vocals - Planet Asia",
+        "duration": "PT3M2S",
+        "embedUrl": "https://www.youtube.com/embed/phKBE2bOe7I",
+        "embeddableMetadata": true,
+        "playableInEmbed": true,
+        "japanRegionStatus": "included",
+        "metadataVerifiedAt": "2026-10-21T10:04:43.638936+00:00",
+        "japanPlaybackVerified": false,
+        "exactMasterVerified": false,
+        "notice": "非公式アップロードです。2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。",
+        "version": "Original EP vocal track, Cracks in the Vinyl track 3.",
+        "versionBasis": "2011年『Cracks in the Vinyl』の3曲目にあたるボーカル曲です。掲載音源は非公式投稿で、曲名・名義・約3分2秒という長さを当時の曲目と照合しています。現在の公式Bandcampの2023年という掲載日を原曲の初出年にはしていません。原版との音声・波形一致は未検証です。",
+        "verification": "非公式アップロードです。2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。"
+      },
+      "artOriginalLibraryId": "libfile_da3dcf661a008191879a77b5e3e9e0bd"
+    },
+    {
+      "id": "strong-arm-steady-all-the-brothers",
+      "title": "All the Brothers",
+      "artist": "Strong Arm Steady",
+      "provenance": {
+        "intakeFile": "Book1.xlsx",
+        "sheet": "Sheet1",
+        "rawRow": {
+          "source_row_id": "Book1.xlsx:Sheet1:1580",
+          "excel_row": 1580,
+          "title": "All th Brothers",
+          "artist": "Strong Arm Steady",
+          "source_mix": "TRUE SCHOOL UNDERGROUND CONTEMPORARY MIX VOL.1",
+          "source_genre": "Mix Tape",
+          "typed_queue_source_row_ids": [],
+          "catalog_ids": [],
+          "status": "unreviewed_genre_identity_version"
+        },
+        "rawRowPreserved": true,
+        "mixYearIsNotTrackYear": true,
+        "mixYearContext": 2012
+      },
+      "versionIdentity": {
+        "selectedVersion": "Original vocal album version, Arms & Hammers track 6, approximately 3:42.",
+        "notSelected": [
+          "instrumental",
+          "remix",
+          "2012 mix excerpt"
+        ],
+        "originalYear": 2011,
+        "originalDate": "2011-02-22",
+        "producerBasis": "Contemporaneous tracklist explicitly credits Nottz. Official distributor metadata includes Dominick Lamb among composers, supporting but not independently establishing production.",
+        "coProduction": "No co-producer established; do not add Madlib.",
+        "featuredCreditBasis": "All four guests are listed on the contemporaneous tracklist; the Topic title is abbreviated and does not list them.",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      "selectedVideo": {
+        "id": "tMlPKnCNXcA",
+        "channel": "Strong Arm Steady - Topic",
+        "type": "Official Audio",
+        "verified": "2026-10-21",
+        "url": "https://www.youtube.com/watch?v=tMlPKnCNXcA",
+        "official": true,
+        "japanAvailableMetadata": true,
+        "playbackVerified": false,
+        "embeddedPlaybackVerified": false,
+        "title": "All the Brothers",
+        "duration": "PT3M42S",
+        "embedUrl": "https://www.youtube.com/embed/tMlPKnCNXcA",
+        "embeddableMetadata": true,
+        "playableInEmbed": true,
+        "japanRegionStatus": "included",
+        "metadataVerifiedAt": "2026-10-21T10:05:00.963786+00:00",
+        "japanPlaybackVerified": false,
+        "exactMasterVerified": false,
+        "notice": "2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。",
+        "version": "Original vocal album version, Arms & Hammers track 6, approximately 3:42.",
+        "versionBasis": "掲載音源は2011年『Arms & Hammers』の6曲目にあたる、約3分42秒のボーカル曲です。インストやリミックス、受領したMIXの抜粋ではありません。制作はNottzで、Madlib制作の前作とは区別しています。",
+        "verification": "2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。"
+      },
+      "artOriginalLibraryId": "libfile_14b4e914e46c8191947130887f29ec99"
+    }
+  ],
+  "verificationLimit": "Fresh2026-10-21 metadata confirms Japan availability and embed permission; no actual Japan playback. Unofficial Masonic Vocals explicitly labeled. Mix2012 is intake context, not original track year."
+}

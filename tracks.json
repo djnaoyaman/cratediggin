@@ -60303,5 +60303,730 @@
       "paletteSourceUrl": "https://blu-lp.bandcamp.com/album/her-favorite-colo-u-r",
       "paletteNote": "公式ジャケットの青い空、白い光、暗い人物輪郭、淡い緑のフレアを目視参照した近似色。写真や人物は転載せず、独自の文字構成で制作。"
     }
+  },
+  {
+    "id": "med-push",
+    "artist": "MED",
+    "title": "Push",
+    "year": 2005,
+    "region": "California / Michigan",
+    "scene": "Oxnard / Detroit",
+    "category": "Hip Hop",
+    "album": "Push Comes to Shove",
+    "label": "Stones Throw",
+    "producer": "J Dilla",
+    "producers": [
+      "J Dilla"
+    ],
+    "members": "MED、J Dilla（guest / production）",
+    "featuredArtists": [
+      "J Dilla"
+    ],
+    "aliases": [
+      "MED Push",
+      "M.E.D. Push",
+      "Medaphoar Push"
+    ],
+    "youtube": {
+      "id": "h6ac-HhfV9Q",
+      "channel": "MED - Topic",
+      "type": "Official Audio",
+      "verified": "2026-10-21",
+      "url": "https://www.youtube.com/watch?v=h6ac-HhfV9Q",
+      "official": true,
+      "japanAvailableMetadata": true,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "title": "Push",
+      "duration": "PT2M29S",
+      "embedUrl": "https://www.youtube.com/embed/h6ac-HhfV9Q",
+      "embeddableMetadata": true,
+      "playableInEmbed": true,
+      "japanRegionStatus": "included",
+      "metadataVerifiedAt": "2026-10-21T10:04:13.314685+00:00",
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "notice": "2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。",
+      "version": "Original vocal album track from Push Comes to Shove; official Topic audio approximately 2:30.",
+      "versionBasis": "掲載音源は2005年『Push Comes to Shove』の単独アルバム曲です。Radio編集、インスト、「Push / Get Back」をつないだ公式映像とは分けています。配信メタデータの149秒と約2分30秒の表記には丸めの差があり、原盤との波形一致を示すものではありません。",
+      "verification": "2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。"
+    },
+    "essayTitle": "カメラが止まる、その少し前に。",
+    "deck": "MEDの「Push」の撮影現場から、J Dillaの『Donuts』の笑顔が生まれた。二枚の作品を結ぶのは、演出よりも撮影の余白だった。",
+    "essay": [
+      "2005年の「Push」は、MEDのデビュー・アルバム『Push Comes to Shove』に入っている。アルバムにはMadlib、Oh No、Just Blazeも参加するが、この曲の制作と客演はJ Dilla。誰がどの曲を作ったのかを分けて見ると、豪華な名前の一覧が、具体的な共同作業へ変わってくる。",
+      "映像を監督したAndrew Guraは、2005年に「Push」の撮影を依頼され、ロサンゼルスのHighland ParkやHollywood Boulevardで撮ったと振り返る。J Dillaも現場へ来て、MEDと一緒に楽しんでいた。音楽を止めたあとも、Guraはカメラを回し続けたという。予定どおりの場面だけを残したわけではなかった。",
+      "数か月後、Stones ThrowのJeff Jankから、J Dillaの『Donuts』に使える写真がないかと連絡が来る。そこで映像の静止画が渡され、よく知られる笑顔のジャケットにつながった。Jankによれば、当初はCDやデジタルにこの写真を、LPにはドーナツ店の絵を使っていた。名盤の顔にも、媒体によって別の姿があった。",
+      "「Push」は、後のジャケットの出所としてだけ覚えるには惜しい。MED自身の最初のアルバムにある、MEDとDillaの一曲なのだから。ただ、作品の裏側をたどると、別の作品へ続く扉がふいに開くことがある。音楽が止まったあとも回っていたカメラ。その小さな余白が、いまも二枚のレコードをつないでいる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "デビュー作を予告した、2005年のサンプラー",
+        "text": "Stones Throwは2005年の初めに、予定していたリリースを紹介するサンプラーを制作したと説明し、その収録曲にMEDの「Push」を挙げている。アルバムに入る前から、レーベルが新しい作品を知らせる役目も担っていた。",
+        "sources": [
+          5
+        ]
+      },
+      {
+        "title": "掲載音源の版と確認範囲",
+        "text": "掲載音源は2005年『Push Comes to Shove』の単独アルバム曲です。Radio編集、インスト、「Push / Get Back」をつないだ公式映像とは分けています。配信メタデータの149秒と約2分30秒の表記には丸めの差があり、原盤との波形一致を示すものではありません。 2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。",
+        "sources": [
+          0,
+          1,
+          2,
+          4,
+          5
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "MED - Topic — Push / Stones Throw公式配信情報",
+        "url": "https://www.youtube.com/watch?v=h6ac-HhfV9Q",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Stones Throw — Push Comes to Shove / STH2108",
+        "url": "https://www.stonesthrow.com/store/push-comes-to-shove/",
+        "kind": "公式カタログ"
+      },
+      {
+        "label": "Stones Throw — MED Pushの公式映像説明 / J DillaとJust Blazeの曲別クレジット",
+        "url": "https://www.youtube.com/watch?v=mtgsWg5zjiU",
+        "kind": "公式映像"
+      },
+      {
+        "label": "Stones Throw — Behind the Smile: J Dilla’s Donuts（2011-02-08）",
+        "url": "https://www.stonesthrow.com/news/behind-the-smile-j-dilla-donuts/",
+        "kind": "制作当事者の証言"
+      },
+      {
+        "label": "Stones Throw — Push / STH2109、12インチ収録版",
+        "url": "https://www.stonesthrow.com/store/push/",
+        "kind": "公式カタログ"
+      },
+      {
+        "label": "Stones Throw — Stones Throw Records 2005 Sampler",
+        "url": "https://www.stonesthrow.com/store/stones-throw-records-2005-sampler/",
+        "kind": "公式カタログ"
+      },
+      {
+        "label": "Stones Throw — Stones Throw 102: In Living the True Gods / STH2187 DVD",
+        "url": "https://www.stonesthrow.com/store/stones-throw-102-in-living-the-true-gods/",
+        "kind": "公式カタログ"
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "未調査。サンプル名・制作機材・ビート制作年を断定していない。",
+    "connections": [
+      "med-cant-hold-on",
+      "j-dilla-donuts"
+    ],
+    "artists": [
+      "MED"
+    ],
+    "yearBasis": "掲載音源は2005年『Push Comes to Shove』の単独アルバム曲です。Radio編集、インスト、「Push / Get Back」をつないだ公式映像とは分けています。配信メタデータの149秒と約2分30秒の表記には丸めの差があり、原盤との波形一致を示すものではありません。",
+    "versionBasis": "掲載音源は2005年『Push Comes to Shove』の単独アルバム曲です。Radio編集、インスト、「Push / Get Back」をつないだ公式映像とは分けています。配信メタデータの149秒と約2分30秒の表記には丸めの差があり、原盤との波形一致を示すものではありません。",
+    "context": "J Dillaとの共作を、単独のアルバム音源と、後のジャケットへつながる映像制作の双方から読む。",
+    "listening": [
+      "単独のアルバム音源と、Push／Get Backを組み合わせた映像の構成を分けてたどる。"
+    ],
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "datePublished": "2026-10-21",
+    "noteReviewedAt": "2026-10-21",
+    "addedOrder": 511,
+    "audioVerificationStatus": "2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。",
+    "editorialStatus": "当事者の証言と作品資料に基づく記事。配信地域・埋め込み許可は2026年10月21日のメタデータで確認し、実再生とは区別しています。",
+    "art": {
+      "word": "PUSH",
+      "tag": "MED",
+      "lines": [
+        "PUSH"
+      ],
+      "style": "piece",
+      "seed": 200500,
+      "palette": [
+        "#123E4D",
+        "#2C6175",
+        "#BDDCE9",
+        "#FAFCFC",
+        "#07171D"
+      ],
+      "paletteSource": "2005 debut album Push Comes to Shove, STH2108",
+      "paletteSourceUrl": "https://www.stonesthrow.com/store/push-comes-to-shove/",
+      "paletteNote": "2005年のオリジナル・アルバムの青緑、白、暗い輪郭を目視参照した近似色。12インチは無地スリーヴのため、アルバムを配色資料に使用。人物・写真・既存題字は転載していません。"
+    }
+  },
+  {
+    "id": "med-aint-bragging",
+    "artist": "MED",
+    "title": "Ain't Bragging (feat. Guilty Simpson)",
+    "year": 2010,
+    "region": "California / Michigan",
+    "scene": "Oxnard / Detroit",
+    "category": "Hip Hop",
+    "album": "MED Presents…Bang Ya Head 3",
+    "label": "Bang Ya Head",
+    "producer": "Waajeed",
+    "producers": [
+      "Waajeed"
+    ],
+    "members": "MED、Guilty Simpson（guest）",
+    "featuredArtists": [
+      "Guilty Simpson"
+    ],
+    "aliases": [
+      "Ain't Bragging",
+      "Aint Bragging",
+      "Ain't Bragging(feat. Guilty Simpson)"
+    ],
+    "youtube": {
+      "id": "JyP_NqSwVrE",
+      "channel": "MED - Topic",
+      "type": "Official Audio",
+      "verified": "2026-10-21",
+      "url": "https://www.youtube.com/watch?v=JyP_NqSwVrE",
+      "official": true,
+      "japanAvailableMetadata": true,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "title": "Ain't Bragging (feat. Guilty Simpson)",
+      "duration": "PT2M55S",
+      "embedUrl": "https://www.youtube.com/embed/JyP_NqSwVrE",
+      "embeddableMetadata": true,
+      "playableInEmbed": true,
+      "japanRegionStatus": "included",
+      "metadataVerifiedAt": "2026-10-21T10:04:30.428052+00:00",
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "notice": "2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。",
+      "version": "Original vocal song featuring Guilty Simpson, as carried on the 2011 Bang Ya Head 3 compilation; no remix designation.",
+      "versionBasis": "曲は2010年11月までに先行配信され、掲載音源は2011年『Bang Ya Head 3』のコンピレーション版です。曲の初出年と選択した配信版の年を分けています。2010年の先行配信ファイルと完全に同じマスターかは未検証です。",
+      "verification": "2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。"
+    },
+    "essayTitle": "待ち時間を、自分の出口に変える。",
+    "deck": "MEDとGuilty Simpson、制作はWaajeed。2010年の先行公開曲には、MEDが自分で音楽を送り出すために育てた道がつながっている。",
+    "essay": [
+      "「Ain’t Bragging」は、MEDがGuilty Simpsonを迎えた曲で、プロデューサーはWaajeed。2011年の『Bang Ya Head 3』で知られるが、2010年11月にはVTechでの先行配信が紹介されていた。ここでは曲の年を2010年とする。アルバムにまとまる前にも、一曲が人の手へ渡っていく時間がある。",
+      "Bang Ya Headという名前は、単なるミックスの見出しではなかった。2015年の取材でMEDは、最初のアルバム以前、2005年に録りためた曲を集めてミックステープを作り、Fat Beatsを通じて出したと振り返る。次のアルバムを待つ間にも、このシリーズで音楽を発表し続けたという。待つことと、止まることは同じではない。",
+      "第三集でコンピレーションを本格的に出そうと決め、それまでの販売実績が流通の契約へつながった、とMEDは説明する。「Ain’t Bragging」の周囲には、Georgia Anne Muldrow、Exile、J Rocc、Oddiseeらの制作曲も並ぶ。一人のプロデューサーに作品の表情を預けるのではなく、異なる人との仕事を、自分の看板の下へ集めていた。",
+      "その中でWaajeedとGuilty Simpsonを迎えたこの曲は、OxnardのMEDとDetroitの作り手をつなぐ入口になる。Madlibとの関係だけでMEDの道筋を説明してしまうと、こうした枝分かれを見落とす。自分の音楽を出す場所を持つことは、誰と何を作るかを自分で選び続けることでもある。シリーズの歩みからは、そんな実務の強さが見えてくる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        0,
+        3,
+        4
+      ]
+    ],
+    "facts": [
+      {
+        "title": "Guilty SimpsonをStones Throwへつないだ人物",
+        "text": "公式バイオによると、Guilty Simpsonは2001年にJ Dillaとつながり、Jaylibの『Champion Sound』収録「Strapped」に参加した。さらにDillaの推薦を受け、2006年にStones Throwと契約している。この客演の背景にも、レーベルの枠を越えて続いた人の紹介がある。",
+        "sources": [
+          4
+        ]
+      },
+      {
+        "title": "2010年の無料ミックスと、2011年のCDは別に読む",
+        "text": "2010年10月に紹介された『Bang Ya Head III』はDJ Romesがミックスを担当した先行企画。2011年のSpecial Editionには別の曲順があり、「Ain’t Bragging」は2曲目に載る。同じ第三集という名前でも、配信企画と後の正式コンピレーションの収録内容を混同しない。",
+        "sources": [
+          1,
+          5
+        ]
+      },
+      {
+        "title": "掲載音源の版と確認範囲",
+        "text": "曲は2010年11月までに先行配信され、掲載音源は2011年『Bang Ya Head 3』のコンピレーション版です。曲の初出年と選択した配信版の年を分けています。2010年の先行配信ファイルと完全に同じマスターかは未検証です。 2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "MED - Topic — Ain’t Bragging / Soulspazm配信情報",
+        "url": "https://www.youtube.com/watch?v=JyP_NqSwVrE",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Stones Throw — MED Bang Ya Head 3 Special Edition（2011-04-21）",
+        "url": "https://www.stonesthrow.com/news/med-bang-ya-head-3-special-edition/",
+        "kind": "公式告知"
+      },
+      {
+        "label": "Stereotree — News: Modestie（2010-11-29、VTech先行配信を紹介）",
+        "url": "https://stereotree.blogspot.com/2010/11/news-modestie.html",
+        "kind": "同時代記事"
+      },
+      {
+        "label": "Brooklyn Radio / Lara Gamble — Axel F Wordsmith MED（2015-01-26）",
+        "url": "https://brooklynradio.com/axel-f-wordsmith-med/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Stones Throw — Guilty Simpson公式バイオグラフィー",
+        "url": "https://www.stonesthrow.com/artist/guiltysimpson/",
+        "kind": "公式"
+      },
+      {
+        "label": "Hypebeast — MED Bang Ya Head III Mixtape（2010年10月）",
+        "url": "https://hypebeast.com/2010/10/med-bang-ya-head-iii-mixtape",
+        "kind": "同時代記事"
+      },
+      {
+        "label": "Red Bull Music Academy — Waajeed本人のSeattle 2005講演・全文書き起こし",
+        "url": "https://www.redbullmusicacademy.com/lectures/waajeed-voices-from-within/",
+        "kind": "本人講演"
+      },
+      {
+        "label": "Stones Throw — Guilty Simpson, Ode to the Ghetto / The Future feat. MED",
+        "url": "https://www.stonesthrow.com/store/ode-to-the-ghetto/",
+        "kind": "公式カタログ"
+      },
+      {
+        "label": "Stones Throw — The Verdict / Guilty Simpson本人インタビュー（2008-02-15）",
+        "url": "https://www.stonesthrow.com/news/the-verdict/",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "未調査。サンプルや演奏楽器を推定していない。",
+    "connections": [
+      "med-classic",
+      "med-push"
+    ],
+    "artists": [
+      "MED"
+    ],
+    "yearBasis": "曲は2010年11月までに先行配信され、掲載音源は2011年『Bang Ya Head 3』のコンピレーション版です。曲の初出年と選択した配信版の年を分けています。2010年の先行配信ファイルと完全に同じマスターかは未検証です。",
+    "versionBasis": "曲は2010年11月までに先行配信され、掲載音源は2011年『Bang Ya Head 3』のコンピレーション版です。曲の初出年と選択した配信版の年を分けています。2010年の先行配信ファイルと完全に同じマスターかは未検証です。",
+    "context": "2010年の先行配信と2011年の収録版。その間にある、MED自身のリリースの仕組みをたどる。",
+    "listening": [
+      "2010年の先行曲を、翌年のBang Ya Head 3の曲順へ戻してみる。"
+    ],
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "datePublished": "2026-10-21",
+    "noteReviewedAt": "2026-10-21",
+    "addedOrder": 512,
+    "audioVerificationStatus": "2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。",
+    "editorialStatus": "当事者の証言と作品資料に基づく記事。配信地域・埋め込み許可は2026年10月21日のメタデータで確認し、実再生とは区別しています。",
+    "art": {
+      "word": "AIN'T BRAGGING (FEAT. GUILTY SIMPSON)",
+      "tag": "MED",
+      "lines": [
+        "AIN'T BRAGGING (FEAT. GUILTY SIMPSON)"
+      ],
+      "style": "piece",
+      "seed": 201001,
+      "palette": [
+        "#B2B593",
+        "#9B9F83",
+        "#EEEEE4",
+        "#64747A",
+        "#303033"
+      ],
+      "paletteSource": "2011 Bang Ya Head 3 Special Edition compilation CD; not an invented 2010 single jacket.",
+      "paletteSourceUrl": "https://www.stonesthrow.com/news/med-bang-ya-head-3-special-edition/",
+      "paletteNote": "該当する版のジャケットを目視参照した近似色です。人物・写真・既存題字は転載していません。"
+    }
+  },
+  {
+    "id": "planet-asia-madlib-masonic-vocals",
+    "artist": "Planet Asia & Madlib",
+    "title": "Masonic Vocals",
+    "year": 2011,
+    "region": "California",
+    "scene": "Fresno / Oxnard",
+    "category": "Hip Hop",
+    "album": "Cracks in the Vinyl",
+    "label": "Wandering Worx",
+    "producer": "Madlib",
+    "producers": [
+      "Madlib"
+    ],
+    "members": "Planet Asia（MC）、Madlib（production）",
+    "featuredArtists": [],
+    "youtube": {
+      "id": "phKBE2bOe7I",
+      "channel": "FreshFormality",
+      "type": "非公式アップロード",
+      "verified": "2026-10-21",
+      "url": "https://www.youtube.com/watch?v=phKBE2bOe7I",
+      "official": false,
+      "japanAvailableMetadata": true,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "title": "Masonic Vocals - Planet Asia",
+      "duration": "PT3M2S",
+      "embedUrl": "https://www.youtube.com/embed/phKBE2bOe7I",
+      "embeddableMetadata": true,
+      "playableInEmbed": true,
+      "japanRegionStatus": "included",
+      "metadataVerifiedAt": "2026-10-21T10:04:43.638936+00:00",
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "notice": "非公式アップロードです。2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。",
+      "version": "Original EP vocal track, Cracks in the Vinyl track 3.",
+      "versionBasis": "2011年『Cracks in the Vinyl』の3曲目にあたるボーカル曲です。掲載音源は非公式投稿で、曲名・名義・約3分2秒という長さを当時の曲目と照合しています。現在の公式Bandcampの2023年という掲載日を原曲の初出年にはしていません。原版との音声・波形一致は未検証です。",
+      "verification": "非公式アップロードです。2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。"
+    },
+    "essayTitle": "ツアーの合間に残った、三分間。",
+    "deck": "ヨーロッパ・ツアーの空き時間から生まれたという短いEP。その三曲目に、Planet AsiaとMadlibの「Masonic Vocals」がある。",
+    "essay": [
+      "「Masonic Vocals」は、Planet AsiaとMadlibの『Cracks in the Vinyl』に入っている。2011年12月の紹介記事は六曲の順番を記録し、この曲を三曲目、3分2秒と掲載した。いま目に入る配信ページの日付より、曲の来歴は少し古い。短いEPの中に置かれた一曲として、まずその場所を押さえておきたい。",
+      "当時のThe Word Is Bondは、Cali Agentsのヨーロッパ・ツアー中、三日間の空き時間にドイツで録音された企画だと伝えている。長い制作期間を売り文句にする作品ばかりではない。移動の途中に生まれた時間を、録音へ振り向ける。旅の余白が、そのまま作品を置く場所になったという来歴が面白い。",
+      "Planet Asia自身の現行Bandcampでも、全曲がMadlibのビートであることを明記している。「Masonic Vocals」は、短い「Double Dutch」と「Carrying Crates」に続き、その後を「Street Clothes」へつなぐ。曲順をたどるだけでも、独立した三分間として聴くのか、六曲の流れの中に置くのかという、二つの入口が見えてくる。",
+      "2018年、NTSのTed DrawsによるMadlib特集でも、この曲が選曲表に残っている。発売時の無料配信記事だけで終わらず、後の選曲家が膨大な仕事の中から拾い直した一曲なのだ。大作の代表曲だけをたどると見落とす場所がある。短いEPの三曲目から、その人の仕事へ入っていく道もある。"
+    ],
+    "essaySources": [
+      [
+        1,
+        2
+      ],
+      [
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "ドイツとの接点は、録音場所だけではない",
+        "text": "同時代のHHVの記事は、EPにドイツのMC、Retrogottが参加していることも伝える。これはEP単位の情報であり、「Masonic Vocals」への客演を示すものではない。旅の経緯と、作品に集まった人々を分けてたどりたい。",
+        "sources": [
+          4
+        ]
+      },
+      {
+        "title": "2023年のページを、2011年の初出と取り違えない",
+        "text": "現行の公式Bandcampには2023年10月10日という日付があるが、曲順と時間は2011年の掲載資料まで遡れる。ジャケットも同じ岩場とレコードの風景を使いながら、現在の版では文字が変わっている。公開年は2011年、原版の視覚資料は当時の掲載画像を参照する。",
+        "sources": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "掲載音源の版と確認範囲",
+        "text": "2011年『Cracks in the Vinyl』の3曲目にあたるボーカル曲です。掲載音源は非公式投稿で、曲名・名義・約3分2秒という長さを当時の曲目と照合しています。現在の公式Bandcampの2023年という掲載日を原曲の初出年にはしていません。原版との音声・波形一致は未検証です。 非公式アップロードです。2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。",
+        "sources": [
+          0,
+          1,
+          2,
+          5,
+          6
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Planet Asia公式Bandcamp — Cracks In The Vinyl（現行2023年掲載版）",
+        "url": "https://planetasiamedallions.bandcamp.com/album/cracks-in-the-vinyl",
+        "kind": "アーティスト公式"
+      },
+      {
+        "label": "The Word Is Bond — Planet Asia & Madlib: Cracks in the Vinyl（2011-12-20）",
+        "url": "https://www.thewordisbond.com/freeness-planet-asia-madlib-cracks-in-the-vinyl/",
+        "kind": "同時代記事"
+      },
+      {
+        "label": "Gemini Hip Hop — Cracks in the Vinylの曲順・時間・原版ジャケット（2011-12-21）",
+        "url": "https://geminihiphop.blogspot.com/2011/12/ep-planet-asia-and-madlib-cracks-in.html",
+        "kind": "同時代資料"
+      },
+      {
+        "label": "NTS — Ted Draws: Madlib Special（2018-09-25）",
+        "url": "https://www.nts.live/shows/TED-DRAWS/episodes/ted-draws-25th-september-2018",
+        "kind": "番組公式選曲表"
+      },
+      {
+        "label": "HHV — Cracks in the Vinyl / Retrogott参加情報（2011-12-22）",
+        "url": "https://www.hhv-mag.com/news/planet-asia-madlib-stones-throw-verschenkt-kostenlose-ep/",
+        "kind": "同時代記事"
+      },
+      {
+        "label": "FreshFormality — Masonic Vocals（非公式アップロード）",
+        "url": "https://www.youtube.com/watch?v=phKBE2bOe7I",
+        "kind": "非公式音源掲載"
+      },
+      {
+        "label": "NTS — Planet Asia楽曲カタログ / Wandering Worx, 2011",
+        "url": "https://www.nts.live/artists/10790-planet-asia",
+        "kind": "放送局カタログ"
+      },
+      {
+        "label": "Stones Throw — Peanut Butter Wolf, Definition of Ill / STH2022",
+        "url": "https://www.stonesthrow.com/store/definition-of-ill/",
+        "kind": "公式カタログ"
+      },
+      {
+        "label": "SPITGAN / Jordan C. — Gravitational Pull: Planet Asia Interview（2018-08-31）",
+        "url": "https://blog.spitgan.com/gravitational-pull-planet-asia/",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "未調査。題名から特定のサンプルや思想的主題を推定していない。",
+    "connections": [
+      "madvillain-figaro"
+    ],
+    "artists": [
+      "Planet Asia & Madlib"
+    ],
+    "yearBasis": "2011年『Cracks in the Vinyl』の3曲目にあたるボーカル曲です。掲載音源は非公式投稿で、曲名・名義・約3分2秒という長さを当時の曲目と照合しています。現在の公式Bandcampの2023年という掲載日を原曲の初出年にはしていません。原版との音声・波形一致は未検証です。",
+    "versionBasis": "2011年『Cracks in the Vinyl』の3曲目にあたるボーカル曲です。掲載音源は非公式投稿で、曲名・名義・約3分2秒という長さを当時の曲目と照合しています。現在の公式Bandcampの2023年という掲載日を原曲の初出年にはしていません。原版との音声・波形一致は未検証です。",
+    "context": "六曲のEPと後年の配信を分け、Planet Asiaの声とMadlibのビートが出会う場所を確かめる。",
+    "listening": [
+      "Cracks in the Vinylの三曲目として、前後の曲との並びを確かめてみる。"
+    ],
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "datePublished": "2026-10-21",
+    "noteReviewedAt": "2026-10-21",
+    "addedOrder": 513,
+    "audioVerificationStatus": "非公式アップロードです。2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。",
+    "editorialStatus": "当事者の証言と作品資料に基づく記事。配信地域・埋め込み許可は2026年10月21日のメタデータで確認し、実再生とは区別しています。",
+    "art": {
+      "word": "MASONIC VOCALS",
+      "tag": "PLANET ASIA & MADLIB",
+      "lines": [
+        "MASONIC VOCALS"
+      ],
+      "style": "piece",
+      "seed": 201102,
+      "palette": [
+        "#DE5A16",
+        "#B7471C",
+        "#E5B247",
+        "#F4DEA2",
+        "#6D6951",
+        "#28251D"
+      ],
+      "paletteSource": "Original 2011 EP cover with birds and bottom-left artists; not changed 2023 cover.",
+      "paletteSourceUrl": "https://geminihiphop.blogspot.com/2011/12/ep-planet-asia-and-madlib-cracks-in.html",
+      "paletteNote": "該当する版のジャケットを目視参照した近似色です。人物・写真・既存題字は転載していません。"
+    }
+  },
+  {
+    "id": "strong-arm-steady-all-the-brothers",
+    "artist": "Strong Arm Steady",
+    "title": "All the Brothers",
+    "year": 2011,
+    "region": "California",
+    "scene": "Los Angeles / Strong Arm Steady",
+    "category": "Hip Hop",
+    "album": "Arms & Hammers",
+    "label": "Blacksmith / Element 9",
+    "producer": "Nottz",
+    "producers": [
+      "Nottz"
+    ],
+    "members": "Krondon、Phil Da Agony、Mitchy Slick",
+    "featuredArtists": [
+      "Chace Infinite",
+      "Talib Kweli",
+      "KRS-One",
+      "Planet Asia"
+    ],
+    "aliases": [
+      "All th Brothers",
+      "All The Brothers"
+    ],
+    "youtube": {
+      "id": "tMlPKnCNXcA",
+      "channel": "Strong Arm Steady - Topic",
+      "type": "Official Audio",
+      "verified": "2026-10-21",
+      "url": "https://www.youtube.com/watch?v=tMlPKnCNXcA",
+      "official": true,
+      "japanAvailableMetadata": true,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "title": "All the Brothers",
+      "duration": "PT3M42S",
+      "embedUrl": "https://www.youtube.com/embed/tMlPKnCNXcA",
+      "embeddableMetadata": true,
+      "playableInEmbed": true,
+      "japanRegionStatus": "included",
+      "metadataVerifiedAt": "2026-10-21T10:05:00.963786+00:00",
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "notice": "2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。",
+      "version": "Original vocal album version, Arms & Hammers track 6, approximately 3:42.",
+      "versionBasis": "掲載音源は2011年『Arms & Hammers』の6曲目にあたる、約3分42秒のボーカル曲です。インストやリミックス、受領したMIXの抜粋ではありません。制作はNottzで、Madlib制作の前作とは区別しています。",
+      "verification": "2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。"
+    },
+    "essayTitle": "仲間の名前が、曲の輪郭になる。",
+    "deck": "Nottzのもとに集まる、四人の客演とStrong Arm Steady。2011年の一曲から、制作年数よりも長い仲間のつながりをたどる。",
+    "essay": [
+      "Strong Arm Steadyの「All the Brothers」は、2011年の『Arms & Hammers』に収められた一曲。制作はNottzで、Chace Infinite、Talib Kweli、KRS-One、Planet Asiaが加わる。名前を並べるだけでも、ずいぶん広い輪になる。主役の三人だけで閉じず、先輩や仲間まで同じ曲へ招き入れる。その人選自体が、このグループの立ち位置を教えてくれる。",
+      "前年の『In Search of Stoney Jackson』はMadlibと組んだ作品だった。だから今回も、という早合点はしないでおきたい。当時のiHipHopの批評は、『Arms & Hammers』が前作とは異なる方向へ広がる一方、この曲にはアンダーグラウンドの客演陣が集まっていると指摘する。アルバム全体の変化と、手放さなかったつながり。その両方を考える入口になる。",
+      "2011年のインタビューで、Krondonは『Arms & Hammers』のために五年をかけ、およそ150曲を録ったと話している。一時の話題で終わらない作品にしたいという考えも、そこにはあった。ここでの長さは、音源の再生時間ではない。曲を作り、選び、もう一度作る時間のことだ。完成したトラックリストの背後に、それだけ多くの候補が控えていた。",
+      "同じ取材でMitchy Slickは、参加者たちを実際に付き合いのある人々として語る。その言葉を踏まえると、「Brothers」という題を、ただ大勢を呼んだ記念写真のようには扱いたくない。これは曲名からの編集上の読みだが、クレジットに並ぶ名前は、そのまま仕事と友情の履歴にも見えてくる。大きな輪は、顔の見える関係からできている。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        3
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "発売を祝う場所は、ギャラリーだった",
+        "text": "HVW8は2011年2月24日に、Strong Arm SteadyのライブとMunk Oneのアートを組み合わせた発売記念イベントを告知している。音源の外側にも、ラップと視覚表現が同じ場所に集まる場があった。これだけを根拠にMunk Oneをジャケット制作者とは断定しない。",
+        "sources": [
+          5
+        ]
+      },
+      {
+        "title": "掲載音源の版と確認範囲",
+        "text": "掲載音源は2011年『Arms & Hammers』の6曲目にあたる、約3分42秒のボーカル曲です。インストやリミックス、受領したMIXの抜粋ではありません。制作はNottzで、Madlib制作の前作とは区別しています。 2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Strong Arm Steady - Topic — All the Brothers / Virgin Music Group配信情報",
+        "url": "https://www.youtube.com/watch?v=tMlPKnCNXcA",
+        "kind": "公式配信"
+      },
+      {
+        "label": "RefinedHype — Arms & Hammersの発売前トラックリスト（2011-02-11）",
+        "url": "https://refinedhype.com/hyped/entry/strong-arm-steady-arms-hammers",
+        "kind": "同時代記事"
+      },
+      {
+        "label": "HipHopDX / Sryon — Strong Arm Steady: Hammer Time（2011-03-07、Rapchive転載）",
+        "url": "https://rapchive.com/news/strong-arm-steady-hammer-time/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "iHipHop — Album Review: Strong Arm Steady, Arms & Hammers",
+        "url": "https://www.ihiphop.com/album-review-strong-arm-steady-arms-hammers/",
+        "kind": "同時代批評"
+      },
+      {
+        "label": "Jasen T. Davis — Strong Arm Steadyインタビュー掲載アーカイブ",
+        "url": "https://www.thejasentarldaviscompany.com/2011/11/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "HVW8 — Strong Arm Steady & Munk One / 2011年2月24日発売記念イベント",
+        "url": "https://hvw8.com/news/page/20/",
+        "kind": "主催者告知"
+      },
+      {
+        "label": "Spotify — All the Brothers / Arms & Hammers",
+        "url": "https://open.spotify.com/track/6gMHo0kBBNxzwPo0DkHYii",
+        "kind": "配信カタログ"
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "未調査。サンプル名・使用方法を推定していない。",
+    "connections": [
+      "med-classic",
+      "planet-asia-madlib-masonic-vocals"
+    ],
+    "artists": [
+      "Strong Arm Steady"
+    ],
+    "yearBasis": "掲載音源は2011年『Arms & Hammers』の6曲目にあたる、約3分42秒のボーカル曲です。インストやリミックス、受領したMIXの抜粋ではありません。制作はNottzで、Madlib制作の前作とは区別しています。",
+    "versionBasis": "掲載音源は2011年『Arms & Hammers』の6曲目にあたる、約3分42秒のボーカル曲です。インストやリミックス、受領したMIXの抜粋ではありません。制作はNottzで、Madlib制作の前作とは区別しています。",
+    "context": "制作と客演のクレジットから、三人のグループが外へ開いたつながりを読む。",
+    "listening": [
+      "Nottzの制作と四人の客演を、クレジットの名前ごとに追ってみる。"
+    ],
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "datePublished": "2026-10-21",
+    "noteReviewedAt": "2026-10-21",
+    "addedOrder": 514,
+    "audioVerificationStatus": "2026年10月21日に配信メタデータで日本が対象地域に含まれることと埋め込み許可を確認しました。日本国内からの実再生・音声の同一性は未確認です。",
+    "editorialStatus": "当事者の証言と作品資料に基づく記事。配信地域・埋め込み許可は2026年10月21日のメタデータで確認し、実再生とは区別しています。",
+    "art": {
+      "word": "ALL THE BROTHERS",
+      "tag": "STRONG ARM STEADY",
+      "lines": [
+        "ALL THE BROTHERS"
+      ],
+      "style": "piece",
+      "seed": 201103,
+      "palette": [
+        "#F1E8B3",
+        "#F8F4DD",
+        "#7E1610",
+        "#100A06",
+        "#8F8A81"
+      ],
+      "paletteSource": "2011 Arms & Hammers original album.",
+      "paletteSourceUrl": "https://open.spotify.com/track/6gMHo0kBBNxzwPo0DkHYii",
+      "paletteNote": "該当する版のジャケットを目視参照した近似色です。人物・写真・既存題字は転載していません。"
+    }
   }
 ]
