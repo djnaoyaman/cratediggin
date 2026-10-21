@@ -1,0 +1,64 @@
+{
+  "userMessageId": "Sentinel_59059692a6cc81918fae4905c4680ba6",
+  "request": "年表で取り上げられている曲、関連する曲は優先的に追加してください。",
+  "baseCatalog": 514,
+  "selected": [
+    {
+      "id": "madvillain-figaro",
+      "title": "Figaro",
+      "artist": "Madvillain",
+      "yearBasis": "2004年3月23日発売Madvillainyの完成アルバム版。2002年に作られたデモ、後年のDemos盤、Instrumentals、Madvillainy 2のリミックスは別版として扱います。",
+      "selectedVideo": {
+        "id": "I4P5RR4jPGg",
+        "url": "https://www.youtube.com/watch?v=I4P5RR4jPGg",
+        "title": "Figaro",
+        "channel": "投稿チャンネル未確認",
+        "providedBy": "Stones Throw Records LLC",
+        "type": "公式音源（レーベル配信情報）",
+        "official": true,
+        "verified": "2026-10-21",
+        "embedUrl": "https://www.youtube.com/embed/I4P5RR4jPGg",
+        "playbackVerified": false,
+        "embeddedPlaybackVerified": false,
+        "version": "2004 final Madvillainy album recording",
+        "versionBasis": "公式Bandcamp標準アルバムの14曲目Figaro、2:25。既存YouTube候補は2004年Stones Throw配信の完成アルバム版として記録済みですが、今回再アクセス・再生していません。",
+        "notice": "以前に確認したレーベル配信情報に基づく掲載です。日本での配信可否・埋め込み許可・動画の再生時間・実再生は今回再確認せず、現時点では未確認です。原盤と配信マスターの完全一致も未検証です。",
+        "verification": "既存proposal.jsonの2026-10-21照合記録を継承。今回YouTubeを再取得していない。公式Bandcampの曲・収録・長さ・発売日を独立確認。 以前に確認したレーベル配信情報に基づく掲載です。日本での配信可否・埋め込み許可・動画の再生時間・実再生は今回再確認せず、現時点では未確認です。原盤と配信マスターの完全一致も未検証です。"
+      },
+      "artOriginalLibraryId": "libfile_bd9b1ea5422481918d1c3f00bb6a588a"
+    },
+    {
+      "id": "de-la-soul-me-myself-and-i",
+      "title": "Me Myself and I",
+      "artist": "De La Soul",
+      "yearBasis": "1989年の3 Feet High and Rising収録曲。現行配信の2023年表記は配信再開／再発の年であり、曲の初出年に置き換えません。",
+      "selectedVideo": {
+        "id": "a0ZhDbZIbiM",
+        "url": "https://www.youtube.com/watch?v=a0ZhDbZIbiM",
+        "title": "Me Myself and I",
+        "channel": "WeAreDeLaSoul",
+        "providedBy": "Reservoir（先行資料の配信元記録。今回未再取得）",
+        "type": "公式音源（レーベル配信情報）",
+        "official": true,
+        "verified": "2026-10-21",
+        "embedUrl": "https://www.youtube.com/embed/a0ZhDbZIbiM",
+        "playbackVerified": false,
+        "embeddedPlaybackVerified": false,
+        "version": "1989 album composition / 2023 streaming reissue",
+        "versionBasis": "1989年のアルバム曲を対象とし、現在の2023年AOI/Chrysalis配信版を案内します。リミックス、インスト、MV導入部を含む編集版、Single Mixへ黙って差し替えません。原盤と配信マスターの完全一致は未確認です。",
+        "notice": "以前に確認したレーベル配信情報に基づく掲載です。日本での配信可否・埋め込み許可・動画の再生時間・実再生は今回再確認せず、現時点では未確認です。原盤と配信マスターの完全一致も未検証です。",
+        "verification": "既存proposal.jsonの2026-10-21照合記録を継承。今回YouTubeを再取得していない。Appleの現行曲ページとReservoir告知を独立確認。 以前に確認したレーベル配信情報に基づく掲載です。日本での配信可否・埋め込み許可・動画の再生時間・実再生は今回再確認せず、現時点では未確認です。原盤と配信マスターの完全一致も未検証です。"
+      },
+      "artOriginalLibraryId": "libfile_4708103dca608191b90ba592280a2fad"
+    }
+  ],
+  "verificationLimit": "Inherited metadata-verified official label audio IDs; independent official catalog/version crosschecks. No fresh YouTube request, embed/JP/duration or actual playback claim.",
+  "held": [
+    "Beat Bop: original full vocal identified; selected playable upload not locked.",
+    "Parents Just Don’t Understand: full LP identified; retained upload exact version unresolved.",
+    "Alone Again: original13-track CD identified; selected upload unresolved.",
+    "Lost Ones: originalalbum identified; retained upload unresolved.",
+    "Nur mir: current upload original sampled mix identity unresolved.",
+    "Cash Money remaining six: original queue and generation/version holds preserved."
+  ]
+}

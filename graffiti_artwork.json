@@ -10089,6 +10089,44 @@
       "transparent": true,
       "textReviewed": true,
       "paletteReviewed": true
+    },
+    {
+      "palette": [
+        "#E0E0DE",
+        "#A0A09C",
+        "#51514F",
+        "#111110",
+        "#F47729"
+      ],
+      "paletteSource": "Madvillainy — standard original album cover",
+      "paletteSourceUrl": "https://www.stonesthrow.com/store/madvillainy/",
+      "paletteNote": "Stones Throw標準盤ページのジャケット画像を目視。白銀〜灰〜黒の写真と右上のオレンジから編集上の近似色を選択。人物・金属仮面・オレンジの四角を模写せず、独自の文字構成へ用いる。Demos盤や別リミックスのジャケットではない。",
+      "id": "madvillain-figaro",
+      "status": "ready",
+      "image": "assets/graffiti/madvillain-figaro-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
+    },
+    {
+      "palette": [
+        "#FFF400",
+        "#EC4097",
+        "#64BC32",
+        "#039DCF",
+        "#F6A54C",
+        "#191919",
+        "#F5F5F2"
+      ],
+      "paletteSource": "3 Feet High and Rising — standard album sleeve",
+      "paletteSourceUrl": "https://music.apple.com/us/album/3-feet-high-and-rising/1657705063",
+      "paletteNote": "Apple Musicの標準アルバム画像を目視。黄色地、ピンクのグループ名、緑のタイトル、青と橙の装飾、モノクロ写真から編集上の近似色を選択。Appleカード外側の白い余白は除外。肖像や花柄の配置は転用しない。",
+      "id": "de-la-soul-me-myself-and-i",
+      "status": "ready",
+      "image": "assets/graffiti/de-la-soul-me-myself-and-i-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

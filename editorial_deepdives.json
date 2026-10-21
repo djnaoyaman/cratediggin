@@ -4069,5 +4069,54 @@
         "sourceLabel": "Eye on Design — Janet Perrへのジャケット制作取材（2020）"
       }
     ]
+  },
+  {
+    "artist": "Madvillain",
+    "title": "Figaro",
+    "sections": [
+      {
+        "heading": "すぐに生まれた曲も、すぐ完成したとは限らない",
+        "text": "Stones Throwは初期の制作の勢いを記す一方、デモ流出後に制作が停滞し、DOOMが2003年後半まで歌詞と歌唱を磨いたことも説明する。これはアルバム全体の経緯であり、「Figaro」のどの一節をいつ直したかまでは示していない。デモと完成版を区別して聴くための手掛かりにしたい。",
+        "sources": [
+          0
+        ],
+        "source": "https://www.stonesthrow.com/news/madvillain-madvillainy/",
+        "sourceLabel": "Stones Throw — Madvillainy 10周年回顧"
+      },
+      {
+        "heading": "ビートの形を、そのまま渡す",
+        "text": "Egonとの対話でMadlibは、ビートを2チャンネルへ録り、あとから構成をばらされない形で渡す方法を説明している。DOOMも、その上へ声を置くやり方に賛同する。アルバム制作全体を語った証言で、「Figaro」だけの工程表ではないが、ビートと声を独立した二つの塊として捉える入口になる。",
+        "sources": [
+          4
+        ],
+        "source": "https://www.stonesthrow.com/news/blunted-on-beats/",
+        "sourceLabel": "Wax Poetics — EgonによるMadlib / MF DOOM取材（2004、Stones Throw再掲）"
+      }
+    ]
+  },
+  {
+    "artist": "De La Soul",
+    "title": "Me Myself and I",
+    "sections": [
+      {
+        "heading": "共同制作の中にいた、DJの仕事",
+        "text": "Maseoは2013年の取材で、この曲のアイデアを持ち込んだのは自分だったと話す。同時に、グループ名でまとめられたクレジットでは個々の仕事が見えにくかったとも振り返る。Prince Paulの役割を小さくするためではなく、制作を一人の名前に集約しないために残したい証言だ。",
+        "sources": [
+          4
+        ],
+        "source": "https://cultmtl.com/2013/10/maseo/",
+        "sourceLabel": "Cult MTL — Maseo本人への取材（2013）"
+      },
+      {
+        "heading": "1989と2023は、別々の時計",
+        "text": "Apple Musicの標準盤ページは発売年を1989年としつつ、権利表記に2023年のA.O.I.／Chrysalisを置いている。Reservoirの発表でも配信開始日は2023年3月3日。現在の配信日だけを拾うと、曲が34歳若返ってしまう。初出と再発を別に記録する理由が、ここでははっきり見える。",
+        "sources": [
+          6,
+          2
+        ],
+        "source": "https://music.apple.com/us/album/3-feet-high-and-rising/1657705063",
+        "sourceLabel": "Apple Music — 3 Feet High and Rising標準盤"
+      }
+    ]
   }
 ]
