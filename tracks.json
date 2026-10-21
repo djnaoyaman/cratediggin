@@ -12651,11 +12651,11 @@
       "lettering": "subway",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "遊び心のある声が、音の隙間を跳ね回る。",
-    "essayTitle": "声が遊ぶと、音の隙間も動きだす",
+    "deck": "共同名義の向こうに、個々の仕事がある。",
+    "essayTitle": "Maseoが、自分の曲だと語った理由。",
     "essay": [
-      "遊び心のある声が、音の隙間を跳ね回る。",
-      "声の遊びを追いかけると、背景の隙間まで動いて聞こえる。真っすぐ進むだけでは出会えない面白さを、この曲の中で探したい。"
+      "MaseoはCult MTLの取材で「Ego Trippin’」を自分の曲として挙げた。制作は共同作業でも、個々の貢献が見えにくくなることを惜しんでいる。",
+      "Prince Paulの重要性を否定する話ではない。誰が出発点を作ったのか。その違いを残しておきたいという証言だ。"
     ],
     "facts": [
       {
@@ -12669,14 +12669,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "遊び心のある声が、音の隙間を跳ね回る。"
+      "制作名義と、本人が語る貢献を分けて考える。"
     ],
-    "context": "声の遊びを追いかけると、背景の隙間まで動いて聞こえる。真っすぐ進むだけでは出会えない面白さを、この曲の中で探したい。",
+    "context": "共同制作を一人の仕事にまとめないための回想。",
     "sources": [
       {
         "label": "YouTube — De La Soul / Ego Trippin' (Part Two)",
         "url": "https://www.youtube.com/watch?v=yUz9TuUO1Gw",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Darcy MacDonaldによるMaseoインタビュー / Cult MTL",
+        "url": "https://cultmtl.com/2013/10/maseo/",
+        "kind": "取材・本人証言"
       }
     ],
     "producers": [
@@ -12695,7 +12700,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "de-la-soul-ring-ring-ring-ha-ha-hey",
@@ -12744,11 +12757,11 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "日常の小さな煩わしさも、曲の楽しさへ変える。",
-    "essayTitle": "日常の煩わしさを、耳に残る楽しさへ",
+    "deck": "MTV Unpluggedの回想に、演奏方法への迷いが残る。",
+    "essayTitle": "ループを愛する人たちが、バンドと鳴らした曲。",
     "essay": [
-      "日常の小さな煩わしさも、曲の楽しさへ変える。",
-      "日常の煩わしさが、耳に残る楽しさへ変わってしまう。題材の小ささを気にせず曲にできる、その身軽さにも惹かれる。"
+      "2016年、Ron Hartの取材でDe La SoulはMTV Unpluggedを振り返った。Trugoyは当初、生演奏ではサンプラーやドラムマシンの感触が失われるようで、バンドとの演奏が好きではなかったという。",
+      "Posは「Ring Ring Ring」がライブでよく機能し、観客の反応も良かったと語る。録音されたループへの愛着と、別の形で人に届いた手応え。その両方が、この曲の回想にはある。"
     ],
     "facts": [
       {
@@ -12762,14 +12775,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "日常の小さな煩わしさも、曲の楽しさへ変える。"
+      "原盤の制作とUnpluggedでの演奏は、別の場面として捉える。"
     ],
-    "context": "日常の煩わしさが、耳に残る楽しさへ変わってしまう。題材の小ささを気にせず曲にできる、その身軽さにも惹かれる。",
+    "context": "ループへの愛着と、生演奏で得た手応えを本人たちが振り返る。",
     "sources": [
       {
         "label": "YouTube — De La Soul / Ring Ring Ring (Ha Ha Hey)",
         "url": "https://www.youtube.com/watch?v=Er04b43woew",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Ron HartによるDe La Soulインタビュー / Observer",
+        "url": "https://observer.com/2016/06/buffoon-mind-state-de-la-soul-and-the-killing-of-sacred-cows/",
+        "kind": "取材・本人証言"
       }
     ],
     "producers": [
@@ -12787,7 +12805,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "de-la-soul-buddy",
@@ -12835,12 +12861,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "90年代に続く仲間の輪。その温かな入口。",
-    "essayTitle": "90年代に続く仲間の輪。",
+    "deck": "Maseoの回想から、原曲が動き出す場面へ。",
+    "essayTitle": "スタジオに入ると、仲間が自分のビートで。",
     "essay": [
-      "90年代に続く仲間の輪。その温かな入口。",
-      "遊び心は、音を軽く扱うこととは違う。構成の寄り道や声の表情に耳を向けると、レコードを組み替える楽しさが見えてくる。",
-      "90年代へつながるルーツとして、声とビートの組み方をたどる。Native Tonguesの曲を続けて聴くと、共通する耳と、それぞれの違いが見えてくる。"
+      "MaseoがRed Bull Music Academyで語った「Buddy」の始まりは、すでに用意していたビートだった。スタジオへ行くとMike G、Pos、Afrikaがそれを使って制作しており、Q-Tipも後から加わったという。仲間の動きが、曲を先へ進めていた。",
+      "ただし、この原曲の話と「Native Tongue Decision」リミックスは分けたい。Michael GonikのOkayplayer記事によると、後者は1989年の12インチに収録され、Prince Paulによる新しいビートにPhife Dawg、Monie Love、Queen Latifahの追加ヴァースが乗った。"
     ],
     "facts": [
       {
@@ -12854,15 +12879,24 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "90年代に続く仲間の輪。その温かな入口。",
-      "声が入る前のビートと、声が入ったあとの重心を聴き比べる。"
+      "原曲とNative Tongue Decisionの参加者・ビートを混同しない。"
     ],
-    "context": "90年代へつながるルーツとして、声とビートの組み方をたどる。Native Tonguesの曲を続けて聴くと、共通する耳と、それぞれの違いが見えてくる。",
+    "context": "一つの題名の下に、異なる共同制作の形がある。",
     "sources": [
       {
         "label": "YouTube — De La Soul / Buddy",
         "url": "https://www.youtube.com/watch?v=Sk73NThhUno",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Maseo Lecture / Red Bull Music Academy",
+        "url": "https://www.redbullmusicacademy.com/lectures/maseo/",
+        "kind": "取材・本人証言"
+      },
+      {
+        "label": "Michael Gonik — Buddy remix / Okayplayer",
+        "url": "https://www.okayplayer.com/the-de-la-soul-catalog-is-thriving-but-wheres-the-buddy-remix/749474",
+        "kind": "署名記事"
       }
     ],
     "producers": [
@@ -12880,6 +12914,14 @@
       "cafe",
       "walk",
       "east"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2
+      ]
     ]
   },
   {
@@ -13053,12 +13095,11 @@
       "lettering": "tag",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "短い反復の上で、言葉の輪郭を楽しむ。",
-    "essayTitle": "短い反復の上で、言葉の輪郭を楽しむ。",
+    "deck": "最初から同じ形で完成していたわけではない。",
+    "essayTitle": "Q-Tipのデモが、仲間の曲へ育つ。",
     "essay": [
-      "短い反復の上で、言葉の輪郭を楽しむ。",
-      "「Black Is Black」をこの棚に置く理由は、短い反復の上で、言葉の輪郭を楽しむという聴きどころにある。大きな名前の曲も、少し掘った曲も、その音の魅力で隣り合うように選んだ。",
-      "90年代へつながるルーツとして、声とビートの組み方をたどる。Native Tonguesの曲を続けて聴くと、共通する耳と、それぞれの違いが見えてくる。"
+      "Rock The Bellsの口述史でAfrikaは、Q-Tipが「Black Is Black」のデモを持っていたと語る。アルバム制作の終盤に招き、AfrikaとMikeのヴァースを仕上げ、曲を作り直したという。",
+      "一人の着想を、別の声が引き受ける。その制作の受け渡しが見える回想だ。"
     ],
     "facts": [
       {
@@ -13072,15 +13113,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "短い反復の上で、言葉の輪郭を楽しむ。",
-      "声が入る前のビートと、声が入ったあとの重心を聴き比べる。"
+      "誰が最初の着想を持ち込み、誰が加わったかに注目。"
     ],
-    "context": "90年代へつながるルーツとして、声とビートの組み方をたどる。Native Tonguesの曲を続けて聴くと、共通する耳と、それぞれの違いが見えてくる。",
+    "context": "デモから共同制作へ進んだ経緯を、Afrikaの回想でたどる。",
     "sources": [
       {
         "label": "YouTube — Jungle Brothers / Black Is Black",
         "url": "https://www.youtube.com/watch?v=Bu1n4jMeg6I",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Native Tongues oral history — Afrikaの証言 / Rock The Bells",
+        "url": "https://production--rtbs.netlify.app/articles/native-tongues-oral-history/",
+        "kind": "取材・本人証言"
       }
     ],
     "producers": [
@@ -13097,6 +13142,14 @@
     "collections": [
       "walk",
       "east"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
     ]
   },
   {
@@ -13146,12 +13199,11 @@
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "仲間の声が集まると、曲の表情が増えていく。",
-    "essayTitle": "仲間の声が集まると、曲の表情が増えていく。",
+    "deck": "「Buddy」への参加が、逆向きの誘いにつながった。",
+    "essayTitle": "レーベルの提案を、仲間の意味に変える。",
     "essay": [
-      "仲間の声が集まると、曲の表情が増えていく。",
-      "「Doin' Our Own Dang」をこの棚に置く理由は、仲間の声が集まると、曲の表情が増えていくという聴きどころにある。大きな名前の曲も、少し掘った曲も、その音の魅力で隣り合うように選んだ。",
-      "90年代へつながるルーツとして、声とビートの組み方をたどる。Native Tonguesの曲を続けて聴くと、共通する耳と、それぞれの違いが見えてくる。"
+      "Angus BateyがThe Quietusに記したAfrikaへの取材によると、「Doin’ Our Own Dang」はレーベル側の提案がなければ生まれなかったかもしれない。Jungle BrothersがDe La Soulの「Buddy」に参加したのだから、今度は彼らを呼んではどうか、という話だった。",
+      "だがAfrikaは、相手の成功を利用する発想で動いていたわけではないと振り返る。スタジオに集まるなら意味のあるものにしたかった。客演を交換する商売の理屈と、仲間と作る本人たちの理由は、同じではなかった。"
     ],
     "facts": [
       {
@@ -13165,15 +13217,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "仲間の声が集まると、曲の表情が増えていく。",
-      "声が入る前のビートと、声が入ったあとの重心を聴き比べる。"
+      "参加者の人数だけでなく、集まる理由に目を向ける。"
     ],
-    "context": "90年代へつながるルーツとして、声とビートの組み方をたどる。Native Tonguesの曲を続けて聴くと、共通する耳と、それぞれの違いが見えてくる。",
+    "context": "レーベルの働きかけを、当事者は別の動機で受け止めていた。",
     "sources": [
       {
         "label": "Jungle Brothers - Topic — Doin' Our Own Dang",
         "url": "https://www.youtube.com/watch?v=gBX0BN26PIE",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Angus Batey — Done by the Forces of Nature / The Quietus",
+        "url": "https://thequietus.com/opinion-and-essays/anniversary/the-jungle-brothers-done-by-the-forces-of-nature/",
+        "kind": "取材・本人証言"
       }
     ],
     "producers": [
@@ -13192,6 +13248,14 @@
       "pizza",
       "walk",
       "east"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
     ]
   },
   {
@@ -13240,11 +13304,11 @@
       "lettering": "stencil",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "太い音の中に、声の強さと明快さがある。",
-    "essayTitle": "太い音の前に立つ、言葉の明快さ",
+    "deck": "本人が後年明かした、身近な暴力とのつながり。",
+    "essayTitle": "もう必要のない歌に、なってほしかった。",
     "essay": [
-      "太い音の中に、声の強さと明快さがある。",
-      "太い音の中で、声がどこまではっきり前に立つかを聴く。押し出しの強さだけでなく、言葉を届かせる明快さにも注目したい。"
+      "Queen Latifahは自身の番組で、「U.N.I.T.Y.」の二番には、暴力を振るう夫と暮らしていたいとこの経験があると明かした。Essenceが伝えた発言によると、家族が彼女を助け、その関係から離れられたという。",
+      "同じ発言でLatifahは、この曲の問題をもう語らずに済む世の中を望んでいたと振り返る。代表曲として残ったことを祝うだけでは届かない、歌い手自身の願いがある。"
     ],
     "facts": [
       {
@@ -13258,14 +13322,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "太い音の中に、声の強さと明快さがある。"
+      "強い言葉の背景にある、身近な人を守りたい理由を考える。"
     ],
-    "context": "太い音の中で、声がどこまではっきり前に立つかを聴く。押し出しの強さだけでなく、言葉を届かせる明快さにも注目したい。",
+    "context": "本人が番組で明かした経験として紹介し、歌詞の全てを実話扱いしない。",
     "sources": [
       {
         "label": "YouTube — Queen Latifah / U.N.I.T.Y.",
         "url": "https://www.youtube.com/watch?v=f8cHxydDb7o",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Queen Latifah on domestic violence in her family / Essence",
+        "url": "https://www.essence.com/celebrity/queen-latifah-domestic-violence-family/",
+        "kind": "取材・本人証言"
       }
     ],
     "producers": [],
@@ -13282,7 +13351,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "monie-love-it-s-a-shame-my-sister",
@@ -13331,11 +13408,11 @@
       "lettering": "subway",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "ソウルの親しみやすさを、ラップの速さへつなぐ。",
-    "essayTitle": "親しい旋律から、ラップの細かな運びへ",
+    "deck": "批評家が読んだ、原曲との立ち位置の違い。",
+    "essayTitle": "嘆きの歌を、隣で話を聞く歌へ。",
     "essay": [
-      "ソウルの親しみやすさを、ラップの速さへつなぐ。",
-      "親しみのある旋律と、先へ動くラップを同時に追ってみる。耳を誘う音があるから、声の運びの細かさにも自然に近づける。"
+      "Jamison CrabtreeはMarch Xnessの論考で、Monie Loveの「It’s a Shame (My Sister)」を、借りた旋律だけではなく、誰が誰に話すかという違いから読んでいる。Spinnersの失恋の歌に対し、こちらには悩む女性へ語りかける友人がいる。",
+      "Crabtreeが注目するのは、相手の答えを決めつけず、話を聞き、問いかける姿勢だ。これは作者の制作意図を断定する話ではない。同じ素材でも、語りかける相手が変われば、歌の役割も変わるという読み方である。"
     ],
     "facts": [
       {
@@ -13349,14 +13426,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "ソウルの親しみやすさを、ラップの速さへつなぐ。"
+      "嘆く本人の声か、そばにいる人の声かを意識する。"
     ],
-    "context": "親しみのある旋律と、先へ動くラップを同時に追ってみる。耳を誘う音があるから、声の運びの細かさにも自然に近づける。",
+    "context": "Jamison Crabtreeの批評を手がかりに、語りの相手を考える。",
     "sources": [
       {
         "label": "YouTube — Monie Love / It's a Shame (My Sister)",
         "url": "https://www.youtube.com/watch?v=ZT_U_C9ezVQ",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Jamison Crabtree on Monie Love / March Xness",
+        "url": "https://marchxness.com/janechildvsmonielove",
+        "kind": "署名批評"
       }
     ],
     "producers": [],
@@ -13372,7 +13454,15 @@
     "collections": [
       "walk"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "mc-lyte-poor-georgie",
@@ -13420,11 +13510,11 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "滑らかな音と物語。声の運ぶ景色に耳を向ける。",
-    "essayTitle": "滑らかな音の向こう、語りが運ぶ景色",
+    "deck": "曲の主人公は、音から思い浮かんだ。",
+    "essayTitle": "ビートを聴いて、問題を抱えた男が現れた。",
     "essay": [
-      "滑らかな音と物語。声の運ぶ景色に耳を向ける。",
-      "滑らかな響きに乗りながら、語りがつくる景色を追う。音が心地よいほど、物語の動きとの距離も意識して聴いてみたい。"
+      "MC LyteはHalftimeOnlineのアーカイブ・インタビューで、「Poor Georgie」の音を聴いたとき、深い問題を抱える男性の物語だと感じたと語っている。すでにある話に伴奏を添えたのではなく、音が人物を思い描くきっかけになった。",
+      "同じ取材では、最初のアルバムでは音楽なしに詞を書いていたとも説明する。いつも同じ順序ではない。「Poor Georgie」は、ビートが書く内容を変える例として、本人が挙げた曲だった。"
     ],
     "facts": [
       {
@@ -13438,14 +13528,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "滑らかな音と物語。声の運ぶ景色に耳を向ける。"
+      "この曲では音から人物像へ進んだ、という本人の制作順序を手がかりに。"
     ],
-    "context": "滑らかな響きに乗りながら、語りがつくる景色を追う。音が心地よいほど、物語の動きとの距離も意識して聴いてみたい。",
+    "context": "主人公を実在の知人と断定せず、作詞の発想として扱う。",
     "sources": [
       {
         "label": "YouTube — MC Lyte / Poor Georgie",
         "url": "https://www.youtube.com/watch?v=fUO612ZqLgw",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "MC Lyte archive interview / HalftimeOnline",
+        "url": "https://halftimeonline.net/artists/new-york/mc-lyte/",
+        "kind": "取材・本人証言"
       }
     ],
     "producers": [],
@@ -13460,7 +13555,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "ll-cool-j-mama-said-knock-you-out",
@@ -13509,11 +13612,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "掛け声とドラムの圧力。代表曲の身体性を味わう。",
-    "essayTitle": "掛け声とドラム、重なる瞬間の圧力",
+    "deck": "巻き返しの言葉は、身近な部屋から始まった。",
+    "essayTitle": "祖母のひと言を、部屋いっぱいの声に。",
     "essay": [
-      "掛け声とドラムの圧力。代表曲の身体性を味わう。",
-      "掛け声とドラムが重なる瞬間、その圧力を受け止めてみる。よく知る曲でも、声だけ、足元だけと聴き分けると、新しい強さが見つかる。"
+      "LL Cool JはAllHipHopの取材で、前作への反応に落ち込み、祖母のそばで不満を話したことを振り返っている。売上そのものより、自分が理解されていないことがつらかった。そこで祖母に、力を見せつけてやりなさいと励まされたという。",
+      "「Mama Said Knock You Out」を書いていた夜には、コンドミニアムに集まった男たちが跳ね回り、フックを歌っていたとも語る。ひとりで抱えた悔しさが、人と声を合わせる場面へ変わっていく。本人の回想にあるのは、その制作の熱だ。"
     ],
     "facts": [
       {
@@ -13527,14 +13630,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "掛け声とドラムの圧力。代表曲の身体性を味わう。"
+      "祖母との会話と、仲間がフックを歌う場面をつないで捉える。"
     ],
-    "context": "掛け声とドラムが重なる瞬間、その圧力を受け止めてみる。よく知る曲でも、声だけ、足元だけと聴き分けると、新しい強さが見つかる。",
+    "context": "本人が振り返った、前作の受け止められ方と制作時の記憶。",
     "sources": [
       {
         "label": "YouTube — LL Cool J / Mama Said Knock You Out",
         "url": "https://www.youtube.com/watch?v=vimZj8HW0Kg",
         "kind": "参考投稿・配信候補"
+      },
+      {
+        "label": "Rewind the Rhyme: LL Cool J / AllHipHop",
+        "url": "https://allhiphop.com/features/rewind-the-rhyme-ll-cool-j/",
+        "kind": "取材・本人証言"
       }
     ],
     "producers": [
@@ -13551,7 +13659,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "ll-cool-j-around-the-way-girl",
@@ -13599,11 +13715,11 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "街の親しみやすさを、明るいグルーヴへ。",
-    "essayTitle": "明るいグルーヴが近づける街の風景",
+    "deck": "本人が後年語った、歌の相手を選ぶ基準。",
+    "essayTitle": "有名だからではなく、近くにいるあなたへ。",
     "essay": [
-      "街の親しみやすさを、明るいグルーヴへ。",
-      "明るいグルーヴの中で、声がどんな近さを作るかを聴く。大きな話を待たず、身近な風景が音楽になるところを楽しみたい。"
+      "2024年のThe Breakfast Clubで、「Around the Way Girl」を書いたときの考えを問われたLL Cool Jは、有名なスターではなく、身近にいる普通の女性への敬意を説明した。華やかな地位よりも、その人自身に惹かれていたという。",
+      "そこで彼は、現代ならフォロワーの多さ、とも言い換えている。これは発売当時の言葉ではなく、後年の説明だ。時代の物差しが変わっても、肩書きではなく相手を見るという、この曲についての本人の考えは伝わる。"
     ],
     "facts": [
       {
@@ -13617,14 +13733,19 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "街の親しみやすさを、明るいグルーヴへ。"
+      "2024年の回想と、楽曲が作られた時代を分けて読む。"
     ],
-    "context": "明るいグルーヴの中で、声がどんな近さを作るかを聴く。大きな話を待たず、身近な風景が音楽になるところを楽しみたい。",
+    "context": "番組で本人が説明した、身近な女性への敬意。",
     "sources": [
       {
         "label": "YouTube — LL Cool J / Around the Way Girl",
         "url": "https://www.youtube.com/watch?v=7_WWTS9gKqk",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "LL Cool J interview, 2024-09-06 / The Breakfast Club, iHeart",
+        "url": "https://www.iheart.com/podcast/51-the-breakfast-club-24992238/episode/interview-ll-cool-j-talks-new-213228244/",
+        "kind": "本人インタビュー・番組掲載の自動文字起こし"
       }
     ],
     "producers": [
@@ -13640,7 +13761,15 @@
       "walk",
       "east"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "ll-cool-j-doin-it",
