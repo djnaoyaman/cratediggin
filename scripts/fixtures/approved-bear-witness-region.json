@@ -226,7 +226,7 @@
     ],
     "editorialCrates": [],
     "audioVerificationStatus": "metadata_qualified_playback_unverified",
-    "editorialStatus": "日本を含む配信地域と埋め込み許可のメタデータを確認した参考投稿です。日本国内での実再生・音声の同一性は未確認です。",
+    "editorialStatus": "日本を含む配信地域と埋め込み許可のメタデータを確認した非公式の参考投稿です。日本国内での実再生・音声の同一性は未確認です。",
     "noteReviewedAt": "2026-10-18",
     "addedOrder": 483,
     "versionBasis": "Original circa-three-minute album recording, also subtitled Q-Bert’s Story. Not the 6:46 Automator re-edit or Bear Witness IV.",
@@ -290,7 +290,7 @@
   "files": {
     "tracks.json": {
       "beforeSHA256": "d8b772c8929bf9985fc9ee1165e37adc0c7cfd811e82bdca8db67adf5b9c1600",
-      "afterSHA256": "9decd71b23f2d1c7b287a086ce3b35d2f57c47cc5c3aea9cabdb8acc3933db21"
+      "afterSHA256": "3b8c18cd1460c62ffaec3361cc3af7c00b91f79f1dc4f5caf5efacaf8f44ad1e"
     },
     "releases.json": {
       "beforeSHA256": "6e4c269bff0fb36ecfeabf9a5209375f4c2e64b0c3609af37b155a3d19bcdc4d",
