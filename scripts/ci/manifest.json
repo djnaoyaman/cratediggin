@@ -2424,6 +2424,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "nine-branding-browser"
+    },
+    {
+      "id": "remaining-size",
+      "argv": [
+        "python",
+        "scripts/verify_remaining_size.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "remaining-size"
+    },
+    {
+      "id": "remaining-size-browser",
+      "argv": [
+        "node",
+        "scripts/verify_remaining_size_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "remaining-size-browser"
     }
   ],
   "groups": {
@@ -2880,6 +2904,10 @@
     "nine_branding": [
       "nine-branding",
       "nine-branding-browser"
+    ],
+    "remaining_size": [
+      "remaining-size",
+      "remaining-size-browser"
     ]
   },
   "runtime_rules": {
@@ -3757,13 +3785,24 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/approved_nine_branding.py": [
-      "scripts/fixtures/approved-nine-branding.json"
+      "scripts/fixtures/approved-nine-branding.json",
+      "scripts/approved_remaining_size.py"
     ],
     "scripts/verify_nine_branding.py": [
       "scripts/approved_nine_branding.py"
     ],
     "scripts/verify_nine_branding_browser.cjs": [
       "scripts/fixtures/approved-nine-branding.json",
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_remaining_size.py": [
+      "scripts/fixtures/approved-remaining-size.json"
+    ],
+    "scripts/verify_remaining_size.py": [
+      "scripts/approved_remaining_size.py"
+    ],
+    "scripts/verify_remaining_size_browser.cjs": [
+      "scripts/fixtures/approved-remaining-size.json",
       "scripts/verify_visible_art_browser.cjs"
     ]
   },
@@ -3850,7 +3889,9 @@
     "scripts/approved_named_art_first.py",
     "scripts/fixtures/approved-named-art-first.json",
     "scripts/approved_nine_branding.py",
-    "scripts/fixtures/approved-nine-branding.json"
+    "scripts/fixtures/approved-nine-branding.json",
+    "scripts/approved_remaining_size.py",
+    "scripts/fixtures/approved-remaining-size.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -4942,6 +4983,87 @@
         "after_sha256": "c745049d8088d28fe3d57491faa6acb259fff38b7d98e5151625e8c43a2be8d8",
         "groups": [
           "nine_branding"
+        ]
+      }
+    ],
+    "assets/graffiti/the-beatnuts-third-of-the-trio-alpha.webp": [
+      {
+        "before_sha256": "95cdeadf79571f6afd4a6ca86a379e5cab9089566ba84166a86a17dd6b942ab9",
+        "after_sha256": "29ceeaf90adc6ab9116b84ff26314a631f494791fe2c3d622c1966726b8c5e73",
+        "groups": [
+          "remaining_size"
+        ]
+      }
+    ],
+    "assets/graffiti/redman-a-day-of-sooperman-lover-alpha.webp": [
+      {
+        "before_sha256": "bd12eef25ac8f38e6b2e532fbb33396b1ae2300b4b8dc861b7450047e3e4319a",
+        "after_sha256": "a8f023b35a7d019b5745a0ed9628bdf80287ac1c0b5302ecd3e63130487426ef",
+        "groups": [
+          "remaining_size"
+        ]
+      }
+    ],
+    "assets/graffiti/showbiz-a-g-hold-ya-head-alpha.webp": [
+      {
+        "before_sha256": "ec4a3157f6406f4a407010ffddd2d26e57b087987eb1fd2ece2c5d7112a86a51",
+        "after_sha256": "2e01edfb02cecf038b3301ce11027b0ff40dacbd517284e497300fea54b92972",
+        "groups": [
+          "remaining_size"
+        ]
+      }
+    ],
+    "assets/graffiti/epmd-scratch-bring-it-back-part-2-alpha.webp": [
+      {
+        "before_sha256": "296b39bca0b818acbdf25625d14336e2e5d9ec1f8728e5233b666816e52773c2",
+        "after_sha256": "f937f2401932b5c20ccc2b938becf1574c6a3d2a9e72a5c9a119bac3a27b6c2d",
+        "groups": [
+          "remaining_size"
+        ]
+      }
+    ],
+    "assets/graffiti/smif-n-wessun-wrektime-alpha.webp": [
+      {
+        "before_sha256": "f4228f2b8b9b7833c731a7065b2034b9a4d4cfce0c0f72ec1afb85fc7e96503c",
+        "after_sha256": "46dd45877ae2d1f9f2086d960c5ba12f4adb267e5e7e33929d0ca928dc9dbe02",
+        "groups": [
+          "remaining_size"
+        ]
+      }
+    ],
+    "assets/graffiti/brand-nubian-step-into-da-cipher-alpha.webp": [
+      {
+        "before_sha256": "62781d0d337aef87dff7dbe7f95f787a3accfeaaad955774adaf788736abc745",
+        "after_sha256": "c4dd24a9c4d6e09674643a681ce55e233f7cac3a5c4d4ea12079d04b60c9e300",
+        "groups": [
+          "remaining_size"
+        ]
+      }
+    ],
+    "assets/graffiti/kanye-west-through-the-wire-alpha.webp": [
+      {
+        "before_sha256": "0ca432765c5a03c8df512d6a483764a3f94d70f31f8476c1b145bf0c2e26c2ac",
+        "after_sha256": "99b5e3274cbb64d177c2c8c41814edb7389e7aa6f68b6ff7a1fffc4121b2b9e4",
+        "groups": [
+          "remaining_size"
+        ]
+      }
+    ],
+    "assets/graffiti/pete-rock-tha-game-alpha.webp": [
+      {
+        "before_sha256": "56a5482601776f4033b02e160ea857803dcdffdca47db04261074228433d37e2",
+        "after_sha256": "0aaa7a93decdd6587b05c7865047417f237f2c7018e08136cc1269a84d248b0b",
+        "groups": [
+          "remaining_size"
+        ]
+      }
+    ],
+    "assets/graffiti/public-enemy-contract-on-the-world-love-jam-alpha.webp": [
+      {
+        "before_sha256": "0f0351b5c609ae825c11287a0ee4ba1a860a475364b5600ebb61156e887e7ff6",
+        "after_sha256": "038776b13142fac01fe42d045fa13dd296e704f574d54236c5e2a918be7adc7c",
+        "groups": [
+          "remaining_size"
         ]
       }
     ]
