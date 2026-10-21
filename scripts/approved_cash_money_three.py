@@ -5,6 +5,8 @@ R=Path(__file__).resolve().parents[1]
 F=json.loads((R/'scripts/fixtures/approved-cash-money-three.json').read_text())
 sha=lambda b:hashlib.sha256(b).hexdigest()
 def historical_cash_money_three_file(path,data):
+ from approved_med_classic import historical_med_classic_file
+ data=historical_med_classic_file(path,data)
  c=F['files'].get(path)
  if c is None:return data
  assert sha(data)==c['afterSHA256'],'Unapproved Cash Money drift: '+path

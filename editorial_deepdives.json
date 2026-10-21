@@ -3973,5 +3973,29 @@
         "sourceLabel": "Jomod Music Publishing：Metersサンプル使用一覧"
       }
     ]
+  },
+  {
+    "artist": "MED",
+    "title": "Classic (feat. Talib Kweli)",
+    "sections": [
+      {
+        "heading": "DIG DEEPER 01｜「Classic」の次に置かれた曲",
+        "text": "Riggins本人がミックスした2012年のポッドキャストでは、「Classic」の後にKweliの「Jump Up」、Phat Katの「Vip In」、J Dillaの「The Clapper」が続きます。レーベルは『Alone Together』の同年秋発売を前に、それまでの制作と共同作業を振り返る企画として紹介しました。次のソロ作品へ進む前に、この並びから共演者の輪を辿れます。",
+        "sources": [
+          7
+        ],
+        "source": "https://www.stonesthrow.com/news/stones-throw-podcast-74-2/",
+        "sourceLabel": "Stones Throw Podcast 74 — Karriem Riggins Produced That, 2012-06-19"
+      },
+      {
+        "heading": "DIG DEEPER 02｜『The Shining』をアルバムへ仕上げる",
+        "text": "Dillaが希望するラッパーを決めていた曲もあれば、まだ相談していなかったインストもあった、とRigginsは説明します。客演に加えてインタールードなどを補い、EPではなくアルバムとして完成させる必要があったという。「Jungle Love」でMEDとGuilty Simpsonを迎えた話は、その全体を仕上げる仕事の一部でした。曲ごとのビート制作とは別に、アルバムを完成へ導く役割を辿れる証言です。",
+        "sources": [
+          5
+        ],
+        "source": "https://www.powmag.net/p/karriem-riggins-interview-2",
+        "sourceLabel": "POW — Karriem Riggins interview by Joel Biswas, 2021-02-26"
+      }
+    ]
   }
 ]

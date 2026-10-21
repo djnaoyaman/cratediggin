@@ -10021,6 +10021,22 @@
       "transparent": true,
       "textReviewed": true,
       "paletteReviewed": true
+    },
+    {
+      "palette": [
+        "#E52620",
+        "#F0F0E8",
+        "#1B1D17"
+      ],
+      "paletteSource": "Classic / Where I’m From — STH2255 original 2010 sleeve",
+      "paletteSourceUrl": "https://stonesthrow.com/images/2010/medclassic-01.jpg",
+      "paletteNote": "以前目視した原盤ジャケットの赤・オフホワイト・黒を参照した編集上の近似値。既存の生成原画を復元し、文字と透過を再確認。",
+      "id": "med-classic",
+      "status": "ready",
+      "image": "assets/graffiti/med-classic-alpha.webp",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
