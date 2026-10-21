@@ -19357,12 +19357,11 @@
       "lettering": "angular",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "ラップの語り口と、ビートの余白に耳を向ける。",
-    "essayTitle": "声の輪郭を、近くで聴く。",
+    "deck": "Freddie Hubbardの「Povo」から、低音の役割をたどる。",
+    "essayTitle": "速めたベースを、曲の軸にする。",
     "essay": [
-      "軽い足取りの音楽でも、声の輪郭は薄くならない。言葉の置かれ方を追うと、曲の重心がどこにあるかが見えてくる。",
-      "音の反復に身を預けながら、声だけを少し近くで聴いてみる。全体のグルーヴと細部の語り口、その両方を往復したい。",
-      "ここに記したのは編者の聴感です。"
+      "音楽ライターのJesse TaylorはPOWの解説で、この曲を支えるのは「Povo」のベースを速めたものだと記している。制作はMr. Lawngeによるものとして紹介されている。",
+      "出典の説明を手がかりに、元曲の低音が、別の速さでラップを支える役へ移るところに注目したい。似た旋律を探すだけでなく、速度と役割の変化を比べる聴き方だ。"
     ],
     "facts": [
       {
@@ -19383,10 +19382,9 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "ラップの語り口と、ビートの余白に耳を向ける。",
-      "声とビートの間合い。"
+      "「Povo」と並べ、ベースの速さと、曲の中で担う役割を比べる。"
     ],
-    "context": "Black Sheepの各作品を、声とグルーヴの違いからたどる。",
+    "context": "元曲との関係を、音楽ライターの具体的な指摘からたどる。",
     "sources": [
       {
         "label": "収録作品・配信情報",
@@ -19397,6 +19395,11 @@
         "label": "Black Sheep - Topic — Black With N V (No Vision)",
         "url": "https://www.youtube.com/watch?v=-J8EwAGteVc",
         "kind": "公式音源"
+      },
+      {
+        "url": "https://www.powmag.net/p/a-wolf-in-sheeps-clothing-black-sheep-30-anniversary-album-interview",
+        "label": "Jesse Taylor — Who’s The Black Sheep? What’s The Black Sheep? / POW",
+        "kind": "音楽ライターによる作品解説"
       }
     ],
     "producers": [],
@@ -19412,6 +19415,14 @@
       "pizza",
       "walk",
       "east"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
     ]
   },
   {
@@ -19461,12 +19472,11 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "短いフックとラップの間合いが、曲を前へ運ぶ。",
-    "essayTitle": "最初の一声で、空気が決まる。",
+    "deck": "D-Niceへ渡るはずだった音が、Neekの出番になった。",
+    "essayTitle": "断られたビートを、自分たちの曲にする。",
     "essay": [
-      "曲が始まると、声とビートの関係がすぐに見えてくる。長い助走をつけずに、こちらの耳を引き寄せる。その身軽さを楽しみたい。",
-      "短いフレーズが戻ってくるたび、ラップの置き場所にも耳が向く。繰り返しているようで、声の重心は少しずつ動いている。",
-      "ここに記した聴きどころは編者の解釈。発売情報と掲載音源の出典は、制作背景に分けて記している。"
+      "Neek the ExoticはSIN-SEERの取材で、「Fakin’ the Funk」のビートをLarge ProfessorがD-Niceへ渡そうとしていたと語る。断られたため、自分たちで使うことになったという。",
+      "Neekは自分の録音を、ほぼフリースタイルだったと振り返っている。初めから決まっていた組み合わせではなく、行き先の変わったビートに声を乗せた共演として聴きたい。"
     ],
     "facts": [
       {
@@ -19487,10 +19497,9 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "短いフックとラップの間合いが、曲を前へ運ぶ。",
-      "声の切り替わりとビートの隙間。"
+      "ビートの行き先が変わった経緯を手がかりに、Neekの参加に耳を向ける。"
     ],
-    "context": "Main Sourceの作品を、音の組み立てとラップの違いからたどる。",
+    "context": "ビートの行き先が変わり、生まれた共演という本人の回想。",
     "sources": [
       {
         "label": "レーベルの収録・発売情報",
@@ -19501,6 +19510,11 @@
         "label": "Main Source - Topic — Fakin The Funk",
         "url": "https://www.youtube.com/watch?v=tSi_XLDLQac",
         "kind": "公式音源"
+      },
+      {
+        "url": "https://thejournalistsinseer.wordpress.com/2017/10/22/interview-neek-the-exotic/",
+        "label": "Neek the Exotic — SIN-SEER interview（2017）",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -19516,6 +19530,14 @@
       "pizza",
       "walk",
       "east"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
     ]
   },
   {
@@ -19565,19 +19587,19 @@
       "lettering": "bubble",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "声と音の切り替わりに、曲の表情を探す。",
-    "essayTitle": "声とスクラッチが、場所を分け合う。",
+    "deck": "Large Professorの隣にいる声にも、名前がある。",
+    "essayTitle": "コーラスで話すのは、もう一人の仲間。",
     "essay": [
-      "声が前に出たあと、音のほうが顔を出す。主役をひとつに決めず、その受け渡しを聴くと、曲の景色が広がってくる。",
-      "スクラッチの動きを追いながら、ビートの床にも耳を戻す。断片があるから流れが見える。その組み立てを楽しみたい。",
-      "ここに記した聴きどころは編者の解釈。発売情報と掲載音源の出典は、制作背景に分けて記している。"
+      "Dr. ButcherはUnkutの取材で、「He Got So Much Soul」のコーラスでLarge Professorと話しているのはVanだと説明している。Vanはアルバムの背景の話し声や、面白い声も担っていたという。",
+      "ラップの主役だけを追うのではなく、話しかける声とのやり取りに耳を向けたい。短い声の参加にも、制作現場にいた仲間の役割が残っている。"
     ],
     "facts": [
       {
         "title": "収録作品・版と年代",
         "text": "1991年の『Breaking Atoms』収録曲。P-VINEの2023年再発情報でも曲名とスクラッチの聴きどころを確認。",
         "sources": [
-          0
+          0,
+          2
         ]
       },
       {
@@ -19591,10 +19613,9 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "声と音の切り替わりに、曲の表情を探す。",
-      "声の切り替わりとビートの隙間。"
+      "コーラスを一人の声としてまとめず、話し声の参加にも注目する。"
     ],
-    "context": "Main Sourceの作品を、音の組み立てとラップの違いからたどる。",
+    "context": "制作現場を知るDr. Butcherの証言から、脇の声をたどる。",
     "sources": [
       {
         "label": "Apple Music — Breaking Atoms",
@@ -19610,6 +19631,11 @@
         "label": "P-VINE — Fakin’ The Funk / He Got So Much Soul",
         "url": "https://p-vine.jp/music/p7-6471",
         "kind": "レーベル再発情報"
+      },
+      {
+        "url": "https://unkut.com/2008/07/drbutcher-the-unkut-interview-pt-3/",
+        "label": "Dr. Butcher — Unkut interview, part 3（2008）",
+        "kind": "制作現場を知るDJのインタビュー"
       }
     ],
     "producers": [
@@ -19625,6 +19651,14 @@
       "pizza",
       "walk",
       "east"
+    ],
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        3
+      ]
     ]
   },
   {

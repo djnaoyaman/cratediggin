@@ -386,8 +386,8 @@
           "shelf": "scratch",
           "evidence": {
             "file": "tracks.json",
-            "field": "essay.1",
-            "quote": "スクラッチの動きを追いながら、ビートの床にも耳を戻す。断片があるから流れが見える。その組み立てを楽しみたい。"
+            "field": "facts.0.text",
+            "quote": "1991年の『Breaking Atoms』収録曲。P-VINEの2023年再発情報でも曲名とスクラッチの聴きどころを確認。"
           }
         },
         {
@@ -395,7 +395,7 @@
           "evidence": {
             "file": "tracks.json",
             "field": "essay.0",
-            "quote": "声が前に出たあと、音のほうが顔を出す。主役をひとつに決めず、その受け渡しを聴くと、曲の景色が広がってくる。"
+            "quote": "Dr. ButcherはUnkutの取材で、「He Got So Much Soul」のコーラスでLarge Professorと話しているのはVanだと説明している。Vanはアルバムの背景の話し声や、面白い声も担っていたという。"
           }
         }
       ]
