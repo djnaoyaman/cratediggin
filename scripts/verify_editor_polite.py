@@ -20,7 +20,7 @@ from render_editorial import about_html
 about=about_html(R,json.loads((R/'tracks.json').read_text()));assert 'SAMPLED MIND.' in about and '{{EDITOR_NOTE_REPLACEMENTS}}' not in about
 print('Actual About static renderer excludes EDITOR-only token and executes successfully.')
 import hashlib
-for path,digest in packet['protected'].items():assert hashlib.sha256((R/path).read_bytes()).hexdigest()==digest,path
+for path,digest in packet['protected'].items():assert hashlib.sha256(historical_editor_polite_file(path,(R/path).read_bytes())).hexdigest()==digest,path
 print('Exact17 prose blocks, supplied14 paragraphs/headings/links/photos preserved; real profile renderer; actual static full-page note isolation and SPA enter/exit/repeat helpers PASS. Browser not run.')
 
 for path,c in F['files'].items():

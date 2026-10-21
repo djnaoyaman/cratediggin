@@ -1896,6 +1896,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "editor-polite-browser"
+    },
+    {
+      "id": "drop-editorial",
+      "argv": [
+        "python",
+        "scripts/verify_drop_editorial.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "drop-editorial"
+    },
+    {
+      "id": "drop-editorial-browser",
+      "argv": [
+        "node",
+        "scripts/verify_drop_editorial_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "drop-editorial-browser"
     }
   ],
   "groups": {
@@ -2261,6 +2285,10 @@
     "editor_polite": [
       "editor-polite-source",
       "editor-polite-browser"
+    ],
+    "drop_editorial": [
+      "drop-editorial",
+      "drop-editorial-browser"
     ]
   },
   "runtime_rules": {
@@ -2825,7 +2853,8 @@
     "scripts/verify_chessboxin.py": [
       "scripts/approved_chessboxin.py",
       "scripts/editorial_uniqueness.py",
-      "scripts/fixtures/editorial-legacy-debt.json"
+      "scripts/fixtures/editorial-legacy-debt.json",
+      "scripts/approved_drop_editorial.py"
     ],
     "scripts/verify_chessboxin_browser.cjs": [
       "scripts/verify_visible_art_browser.cjs"
@@ -2861,7 +2890,8 @@
       "scripts/approved_editor_polite.py"
     ],
     "scripts/approved_editor_polite.py": [
-      "scripts/fixtures/approved-editor-polite.json"
+      "scripts/fixtures/approved-editor-polite.json",
+      "scripts/approved_drop_editorial.py"
     ],
     "scripts/verify_editor_polite.py": [
       "scripts/approved_editor_polite.py",
@@ -2876,6 +2906,17 @@
     "scripts/verify_editor_polite_browser.cjs": [
       "editor_profile.json",
       "scripts/fixtures/editor-polite-prose.json"
+    ],
+    "scripts/approved_drop_editorial.py": [
+      "scripts/fixtures/approved-drop-editorial.json"
+    ],
+    "scripts/verify_drop_editorial.py": [
+      "scripts/approved_drop_editorial.py",
+      "scripts/editorial_uniqueness.py",
+      "scripts/fixtures/editorial-legacy-debt.json"
+    ],
+    "scripts/verify_drop_editorial_browser.cjs": [
+      "scripts/fixtures/approved-drop-editorial.json"
     ]
   },
   "policy_paths": [
@@ -2916,7 +2957,9 @@
     "scripts/fixtures/approved-person-queue.json",
     "scripts/approved_editor_polite.py",
     "scripts/fixtures/approved-editor-polite.json",
-    "scripts/fixtures/editor-polite-prose.json"
+    "scripts/fixtures/editor-polite-prose.json",
+    "scripts/approved_drop_editorial.py",
+    "scripts/fixtures/approved-drop-editorial.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -3199,6 +3242,13 @@
         "after_sha256": "17b115e1e2f1fcce3b6549898d7f08e0ffe11f2bc33ff3fee9530f8b80b725bb",
         "groups": [
           "chessboxin"
+        ]
+      },
+      {
+        "before_sha256": "17b115e1e2f1fcce3b6549898d7f08e0ffe11f2bc33ff3fee9530f8b80b725bb",
+        "after_sha256": "bf12ae0e0436741530043323c14cdfeeb8712b9533b136a2227cf0600da0bcf5",
+        "groups": [
+          "drop_editorial"
         ]
       }
     ],

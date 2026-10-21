@@ -5,6 +5,8 @@ R=Path(__file__).resolve().parents[1]
 F=json.loads((R/'scripts/fixtures/approved-editor-polite.json').read_text())
 sha=lambda b:hashlib.sha256(b).hexdigest()
 def historical_editor_polite_file(path,data):
+ from approved_drop_editorial import historical_drop_file
+ data=historical_drop_file(path,data)
  c=F['files'].get(path)
  if c is None:return data
  assert sha(data)==c['afterSHA256'],'Unapproved EDITOR polite drift: '+path
