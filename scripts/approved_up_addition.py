@@ -6,7 +6,8 @@ raw=(R/'scripts/fixtures/approved-up-addition.json').read_bytes()
 assert sha(raw)=='0d98865602def0bcce1bc90500db658ca1a9accc8276417d01366279f0d18340','Immutable addition fixture changed'
 F=json.loads(raw)
 def current_up_addition_file(path,data):
- return data
+ from approved_bank_addition import historical_bank_addition_file
+ return historical_bank_addition_file(path,data)
 def historical_up_addition_file(path,data):
  data=current_up_addition_file(path,data)
  c=F['files'].get(path)

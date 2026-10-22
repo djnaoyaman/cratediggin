@@ -4956,6 +4956,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "up-addition-browser"
+    },
+    {
+      "id": "bank-addition",
+      "argv": [
+        "python",
+        "scripts/verify_bank_addition.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "bank-addition"
+    },
+    {
+      "id": "bank-addition-browser",
+      "argv": [
+        "node",
+        "scripts/verify_bank_addition_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "bank-addition-browser"
     }
   ],
   "groups": {
@@ -5835,6 +5859,10 @@
     "up_addition": [
       "up-addition",
       "up-addition-browser"
+    ],
+    "bank_addition": [
+      "bank-addition",
+      "bank-addition-browser"
     ]
   },
   "runtime_rules": {
@@ -7916,7 +7944,8 @@
       "scripts/fixtures/approved-klink-addition.json"
     ],
     "scripts/approved_up_addition.py": [
-      "scripts/fixtures/approved-up-addition.json"
+      "scripts/fixtures/approved-up-addition.json",
+      "scripts/approved_bank_addition.py"
     ],
     "scripts/verify_up_addition.py": [
       "scripts/approved_up_addition.py",
@@ -7929,6 +7958,21 @@
     ],
     "scripts/verify_up_addition_browser.cjs": [
       "scripts/fixtures/approved-up-addition.json"
+    ],
+    "scripts/approved_bank_addition.py": [
+      "scripts/fixtures/approved-bank-addition.json"
+    ],
+    "scripts/verify_bank_addition.py": [
+      "scripts/approved_bank_addition.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "releases.json",
+      "artist_entities.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_up_addition.py"
+    ],
+    "scripts/verify_bank_addition_browser.cjs": [
+      "scripts/fixtures/approved-bank-addition.json"
     ]
   },
   "policy_paths": [
@@ -8227,7 +8271,9 @@
     "scripts/approved_klink_addition.py",
     "scripts/fixtures/approved-klink-addition.json",
     "scripts/approved_up_addition.py",
-    "scripts/fixtures/approved-up-addition.json"
+    "scripts/fixtures/approved-up-addition.json",
+    "scripts/approved_bank_addition.py",
+    "scripts/fixtures/approved-bank-addition.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9465,6 +9511,13 @@
         "groups": [
           "up_addition"
         ]
+      },
+      {
+        "before_sha256": "0a7972e2748b72fa863db171026b6df984095bf1daa32a8ee36753fa807345f0",
+        "after_sha256": "88a0d3d8e0f1b104d08273ebf333578afa1dcecfab418ddd7606f9ae3d1812c7",
+        "groups": [
+          "bank_addition"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -9868,6 +9921,13 @@
         "groups": [
           "up_addition"
         ]
+      },
+      {
+        "before_sha256": "e0fdc62a6356c0c3265cb20cdee1a93a0ab7405ace40f41f6b896b3a72600949",
+        "after_sha256": "dee84fe3d172ccf0951af87778f4b882fad2545f49e121d62cd147a4184bf7d5",
+        "groups": [
+          "bank_addition"
+        ]
       }
     ],
     "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
@@ -10046,6 +10106,13 @@
         "after_sha256": "28fbd59bba64e82fd44d368968f192949261d6354d941b108705757093a164be",
         "groups": [
           "up_addition"
+        ]
+      },
+      {
+        "before_sha256": "28fbd59bba64e82fd44d368968f192949261d6354d941b108705757093a164be",
+        "after_sha256": "72718b1001d0d995c0bacb1b22ab3538f899da191490ac566a2729acda0ef84c",
+        "groups": [
+          "bank_addition"
         ]
       }
     ],
@@ -10650,6 +10717,15 @@
         "after_sha256": "fcecd49786df4be471893fb679b35726220da9cd229727d8c1eceac8b795886e",
         "groups": [
           "up_addition"
+        ]
+      }
+    ],
+    "assets/graffiti/earthgang-bank-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "1fe92d1515e90d42d2899cec8c5337617dce4c2b771cf54bccc39ff378eb8e2f",
+        "groups": [
+          "bank_addition"
         ]
       }
     ]

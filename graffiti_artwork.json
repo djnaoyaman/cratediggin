@@ -10419,6 +10419,27 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "earthgang-bank",
+      "title": "Bank",
+      "artist": "EARTHGANG",
+      "album": "Mirrorland",
+      "palette": [
+        "#1599bd",
+        "#e8b72e",
+        "#eae4d7",
+        "#3d2e22",
+        "#75943b"
+      ],
+      "paletteSource": "Mirrorland — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://interscope.com/products/mirrorland-2lp",
+      "paletteNote": "公式ショップで示されたカバーの青緑・黄・クリーム・茶を配色参照に使用。人物・商品写真・カバー構図や文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/earthgang-bank-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

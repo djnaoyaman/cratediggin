@@ -68221,5 +68221,135 @@
       "paletteSourceUrl": "https://www.qobuz.com/se-en/album/black-goat-2-sonny-digital-black-boe/tl6kyvqu96kub",
       "paletteNote": "黒とクリームの公式カバーを配色だけの参照に使用。カバーのヤギ型文字・ロゴ・構図は再現していません。"
     }
+  },
+  {
+    "title": "Bank",
+    "artist": "EARTHGANG",
+    "artists": [
+      "EARTHGANG"
+    ],
+    "year": 2019,
+    "album": "Mirrorland",
+    "producer": "Ant Chamberlin / Big Korey",
+    "producers": [
+      "Ant Chamberlin",
+      "Big Korey"
+    ],
+    "label": "Dreamville / Interscope Records",
+    "region": "Atlanta",
+    "category": "Hip Hop",
+    "id": "earthgang-bank",
+    "scene": "Atlanta",
+    "essayTitle": "アルバムでは離れた2曲が、テレビではひと続きに",
+    "deck": "「Bank」と「This Side」。『Mirrorland』の曲順から、2019年のテレビ公演へたどる入口です。",
+    "essay": [
+      "『Mirrorland』では「Bank」は4曲目、「This Side」は6曲目に置かれています。その二曲を別の組み合わせでたどれるのが、EARTHGANGが公式公開している2019年の『The Tonight Show Starring Jimmy Fallon』でのメドレーです。映像の題名は「This Side/Bank」。アルバムでは間に別の曲を挟む二曲が、テレビの舞台では一つの演目として並んでいます。",
+      "ここで選んだ音源は、そのライブではなく『Mirrorland』のスタジオ版「Bank」です。公式配信の制作欄にはAnt ChamberlinとBig Koreyが並びます。まず一曲として聴き、そのあとで「This Side」と組み合わされた公式映像へ進むと、アルバムの曲順とは違う入口から、この曲を見直せそうです。"
+    ],
+    "essaySources": [
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "公式配信とアルバム発売情報による2019年。依頼ミックスの2020年とは区別する。",
+    "regionBasis": "Interscope公式紹介によるAtlantaのデュオとの関連。録音場所を示すものではない。",
+    "versionBasis": "『Mirrorland』のスタジオ版。2019年の「This Side / Bank」テレビ公演メドレーとは別音源。選定音源3:00、カタログ2:59、依頼ミックス2:39の編集・マスター同一性は未確認。",
+    "context": "『Mirrorland』の4曲目から、公式のテレビ公演映像へ。",
+    "producerBasis": "公式配信の制作欄にAnt ChamberlinとBig Koreyを記載。担当割合までは示しません。",
+    "facts": [
+      {
+        "title": "発売情報",
+        "text": "『Mirrorland』収録。公式配信の発売日は2019年9月6日です。",
+        "sources": [
+          0,
+          3
+        ]
+      },
+      {
+        "title": "制作クレジット",
+        "text": "制作クレジットはAnt ChamberlinとBig Korey。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "UMG / EARTHGANG — Bank 公式配信・制作クレジット",
+        "url": "https://www.youtube.com/watch?v=z_aYd_5N0pY",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Interscope — Mirrorland 2LP 曲順",
+        "url": "https://interscope.com/products/mirrorland-2lp",
+        "kind": "公式レーベル"
+      },
+      {
+        "label": "EARTHGANG — This Side / Bank テレビ公演メドレー（2019）",
+        "url": "https://www.youtube.com/watch?v=nS7fWQVcj7E",
+        "kind": "公式映像"
+      },
+      {
+        "label": "Apple Music — Mirrorland 発売情報",
+        "url": "https://music.apple.com/us/album/mirrorland/1478445586",
+        "kind": "配信カタログ"
+      }
+    ],
+    "youtube": {
+      "id": "z_aYd_5N0pY",
+      "url": "https://www.youtube.com/watch?v=z_aYd_5N0pY",
+      "title": "Bank",
+      "provider": "EARTHGANG",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-22",
+      "embedUrl": "https://www.youtube.com/embed/z_aYd_5N0pY",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "2019年オリジナルのスタジオ版（公式配信）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の説明・アーティスト表示とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-22",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "addedOrder": 525,
+    "datePublished": "2026-10-22",
+    "art": {
+      "word": "Bank",
+      "tag": "EARTHGANG",
+      "lines": [
+        "Bank"
+      ],
+      "style": "piece",
+      "seed": 201901,
+      "palette": [
+        "#1599bd",
+        "#e8b72e",
+        "#eae4d7",
+        "#3d2e22",
+        "#75943b"
+      ],
+      "paletteSource": "Mirrorland — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://interscope.com/products/mirrorland-2lp",
+      "paletteNote": "公式ショップで示されたカバーの青緑・黄・クリーム・茶を配色参照に使用。人物・商品写真・カバー構図や文字は再現していません。"
+    }
   }
 ]
