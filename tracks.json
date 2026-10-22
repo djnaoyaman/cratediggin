@@ -61075,12 +61075,13 @@
         "relation": "related_context_not_same_recording"
       }
     ],
-    "deck": "聴かせることと、見せること。Product Placementを入口に、二人のDJのステージを考える。",
-    "essayTitle": "レコードを鳴らす、その姿まで",
+    "deck": "関連DVD『On Tour』の構成から、二人のツアーを辿る。",
+    "essayTitle": "四台のターンテーブルが、街を渡る。",
     "essay": [
       "『Product Placement』について、DJ Shadowは2002年のExclaim!で、自分にとっては『Brainfreeze』を上回るセットだったと語った。続編に注いだ仕事への強い自負が、その言葉にある。前作の評判をなぞるのではなく、もう一度二人で組み立て直す。その意欲を手がかりに、作品の背景をたどりたい。",
       "Cut Chemistは2007年のPlug Oneで、自分のステージは見て面白く、聴いて面白く、踊れるものでありたいと話している。音か見せ場か、どちらか一方ではない。これは後年の本人によるライブ観であり、特定の映像場面の説明ではないが、DJを舞台に立つ表現者として見るための言葉だ。",
-      "Dante Carfagnaは、2001年の英国公演に加わった事情も話している。当時はBig Daddy創設者George Mahoodと英国の小さなクラブを回り、ファンクやソウルをかけていた。その最中に『Product Placement』のツアーがやって来たという。ロンドンの夜について本人が思い出すのは、終演後の搬出中、霧の朝に聞こえてきたGang Starr「Mass Appeal」の着信音だった。大きなセットの歴史に、出演者が持ち帰った小さな記憶が重なる。"
+      "Dante Carfagnaは、2001年の英国公演に加わった事情も話している。当時はBig Daddy創設者George Mahoodと英国の小さなクラブを回り、ファンクやソウルをかけていた。その最中に『Product Placement』のツアーがやって来たという。ロンドンの夜について本人が思い出すのは、終演後の搬出中、霧の朝に聞こえてきたGang Starr「Mass Appeal」の着信音だった。大きなセットの歴史に、出演者が持ち帰った小さな記憶が重なる。",
+      "Banquet RecordsのDVD紹介は、二人と四台のターンテーブル、7インチ盤によるツアーを記録し、六都市で演奏されたセットの一部と舞台裏映像、音声CDを収めると説明する。関連DVDでは、公演だけでなく旅の記録も作品の一部になっている。ただし、ここに掲載した動画と、このDVDとの同一性は確認できていない。"
     ],
     "essaySources": [
       [
@@ -61091,6 +61092,9 @@
       ],
       [
         4
+      ],
+      [
+        2
       ]
     ],
     "context": "Product Placementとして公開されたライブ映像。収録版は未確認。",
@@ -61636,7 +61640,8 @@
     ],
     "essay": [
       "「Bear Witness」を掘るときは、まず版を分けておきたい。Interscopeの公式曲目では、約3分の「Q-Bert’s Story」と、6分46秒の「Automator’s 2 Turntables and a Razor Blade Re-Edit」が別々に載る。 ここで辿るのは約3分のアルバム版。長尺の再編集とは異なる録音として聴きたい。",
-      "Dan the Automatorは原作について、Kool Keithのキャラクターを聞いて音楽を組み立て、Qbertを迎え入れたと語っている。制作場所は両親の家の地下にあったGlue Factory。レコード会社の期待する音に合わせずに進められた自由も、彼が強調する点だ。 Qbertへの評価を語る別のインタビューからも、ターンテーブルを特別な演奏の場として考える姿勢が伝わる。 この曲を入口にすると、Dr. OctagonをMC一人の変名だけで捉えず、声、制作、DJの技術が持ち場を持つ作品として辿れる。"
+      "Dan the Automatorは原作について、Kool Keithのキャラクターを聞いて音楽を組み立て、Qbertを迎え入れたと語っている。制作場所は両親の家の地下にあったGlue Factory。レコード会社の期待する音に合わせずに進められた自由も、彼が強調する点だ。 Qbertへの評価を語る別のインタビューからも、ターンテーブルを特別な演奏の場として考える姿勢が伝わる。 この曲を入口にすると、Dr. OctagonをMC一人の変名だけで捉えず、声、制作、DJの技術が持ち場を持つ作品として辿れる。",
+      "Dan the AutomatorはMadeleine Byrneの取材で、Run-D.M.C.の完成度に圧倒された一方、Malcolm McLarenの作品では何が起こっているかが分かり、自分も親のターンテーブルで試すようになったと話す。「Bear Witness」の個別セッションの説明ではないが、Qbertの演奏を招く制作者自身も、DJとして音楽へ入った人だったという接点が見える。"
     ],
     "essaySources": [
       [
@@ -61644,6 +61649,9 @@
       ],
       [
         2,
+        3
+      ],
+      [
         3
       ]
     ],
@@ -61764,8 +61772,8 @@
     "region": "California",
     "scene": "San Francisco / Dr. Octagon / Turntablism",
     "label": "Bulk Recordings / Mo’ Wax",
-    "essayTitle": "Qbertの手が語る、Dr. Octagonのもう一つの顔",
-    "deck": "Dan the Automatorの証言から、制作とターンテーブルが出会う場所へ。",
+    "essayTitle": "スクラッチを、自分も参加できる音楽にした。",
+    "deck": "Dan the AutomatorのDJとしての入口を、本人の言葉で辿る。",
     "context": "Dan the Automatorの証言から、制作とターンテーブルが出会う場所へ。",
     "category": "Hip Hop",
     "datePublished": "2026-10-18",
@@ -61786,7 +61794,8 @@
     ],
     "essay": [
       "『Fear of a Black Planet』の入口で、Public Enemyは声の断片を組み立てる。「Contract On The World Love Jam」の作り方を尋ねられたChuck Dは、ラジオからインタビューや広告をカセットへ録音し、その断片をどう並べれば曲になるか考えたと説明している。 既成の歌を引用するだけでなく、日常の放送そのものを作詞の材料として扱う発想だ。",
-      "同じ証言では、こうした導入を長くしすぎず、次の動きのある曲へ勢いよくつなぐ必要も語られる。 Smithsonian所蔵の2014年再発LPでも、A面は本曲から「Brothers Gonna Work It Out」へ進む。 約1分44秒という短さを、内容の少なさと取り違えないようにしたい。アルバムの順番まで含めて聴くための入口であり、声をどう配置するかという制作の判断が前面に出た一曲だ。"
+      "同じ証言では、こうした導入を長くしすぎず、次の動きのある曲へ勢いよくつなぐ必要も語られる。 Smithsonian所蔵の2014年再発LPでも、A面は本曲から「Brothers Gonna Work It Out」へ進む。 約1分44秒という短さを、内容の少なさと取り違えないようにしたい。アルバムの順番まで含めて聴くための入口であり、声をどう配置するかという制作の判断が前面に出た一曲だ。",
+      "「Contract」の成立を説明した取材で、Chuck DはPublic Enemyの制作を、ループを重ねたあと、ミックスで要素を取り除く作業とも説明する。録音した放送を並べる発想と、積み重なった音を引き算する判断は別の段階にある。これは制作全般の証言であり、本曲に使った素材数や全機材を確定するものではない。"
     ],
     "essaySources": [
       [
@@ -61796,6 +61805,9 @@
         1,
         2,
         3
+      ],
+      [
+        1
       ]
     ],
     "facts": [],
@@ -61895,8 +61907,8 @@
     "region": "New York",
     "scene": "Long Island / WBAU / The Bomb Squad",
     "label": "Def Jam",
-    "essayTitle": "ラジオの断片が、アルバムの扉になる",
-    "deck": "Chuck Dの説明から、録りためた声を曲へ組み上げる方法を読む。",
+    "essayTitle": "断片を足すだけでなく、ミックスで削る。",
+    "deck": "Chuck Dが語る、コラージュの後にある整理の仕事。",
     "context": "Chuck Dの説明から、録りためた声を曲へ組み上げる方法を読む。",
     "category": "Hip Hop",
     "datePublished": "2026-10-18",
@@ -62037,12 +62049,16 @@
       "Kanye West"
     ],
     "essay": [
-      "2004年2月のインタビューでKanyeは、映像の費用を自分で負担し、ラジオに届けるため独立したプロモーターも起用したと語っている。 「Through The Wire」は、曲を書くことと、その曲が届く場所を作ることが隣り合った一曲として辿れる。ここでは2003年の商業発売版を、2004年の『The College Dropout』に収めた音源を選ぶ。公式配信は制作をKanye、録音をFrancis Graham、ミックスをManny Marroquinと記す。 事故後の録音という逸話には版の区別が欠かせない。音楽研究者Jeremy Tatarは、初期ミックステープ版と後の再録版を比較している。 現在選んだアルバム版のすべての声を、顎を固定したまま録った声だと一括りにはしない。"
+      "2004年2月のインタビューでKanyeは、映像の費用を自分で負担し、ラジオに届けるため独立したプロモーターも起用したと語っている。 「Through The Wire」は、曲を書くことと、その曲が届く場所を作ることが隣り合った一曲として辿れる。ここでは2003年の商業発売版を、2004年の『The College Dropout』に収めた音源を選ぶ。公式配信は制作をKanye、録音をFrancis Graham、ミックスをManny Marroquinと記す。 事故後の録音という逸話には版の区別が欠かせない。音楽研究者Jeremy Tatarは、初期ミックステープ版と後の再録版を比較している。 現在選んだアルバム版のすべての声を、顎を固定したまま録った声だと一括りにはしない。",
+      "音楽研究者Jeremy Tatarは、2003年の再録版にも、最初の版から残されたKanyeのアドリブがあると指摘する。新しいラップへ全面的に置き換えただけではない。顎を固定した時期の録音と回復後の録音を区別しつつ、同じ完成版の中に異なる時点の声が共存することまで見ると、「事故の直後に録った曲」という短い紹介では足りない理由が分かる。"
     ],
     "essaySources": [
       [
         1,
         2,
+        3
+      ],
+      [
         3
       ]
     ],
@@ -62158,8 +62174,8 @@
     "region": "Chicago",
     "scene": "Chicago / Roc-A-Fella",
     "label": "Roc-A-Fella / Def Jam",
-    "essayTitle": "声を録り、届く場所を作る",
-    "deck": "自ら進めた映像と宣伝、Chaka Khanの声、二つの録音からデビュー曲を辿る。",
+    "essayTitle": "録り直した声にも、最初の声が残っている。",
+    "deck": "Jeremy Tatarの比較が示す、二つの録音の単純ではない関係。",
     "context": "自ら進めた映像と宣伝、Chaka Khanの声、二つの録音からデビュー曲を辿る。",
     "category": "Hip Hop",
     "datePublished": "2026-10-18",
@@ -62185,13 +62201,14 @@
     "scene": "クイーンズのプロデューサー／MC集団",
     "label": "Violator / Relativity",
     "category": "Hip Hop",
-    "essayTitle": "トリオの三人目を聴く",
-    "deck": "Fashionが前に出る1993年の一曲。後の二人組という印象から、初期Beatnutsを掘り直す。",
+    "essayTitle": "三人組で、ただ一人のソロ曲。",
+    "deck": "EPの構成から見えてくるFashionの位置。",
     "context": "Fashionが前に出る1993年の一曲。後の二人組という印象から、初期Beatnutsを掘り直す。",
     "essay": [
       "「Third of the Trio」は、1993年の『Intoxicated Demons: The EP』に収められたFashionのソロ曲。のちにAl’ Tariqとして活動する彼も、当時のThe Beatnutsを形づくる一人だった。JuJuとPsycho Lesの二人組という後年の印象から少し離れ、三人編成の中で誰が前に出るかを辿ると、このEPの別の顔が見えてくる。",
       "制作はThe Beatnuts。Sonyの公式紹介も、EP全体をメンバー自身が制作した作品と位置づける。Albumismの回顧は、本曲でFashionがドラム主体のトラックに合わせ、言葉の運びを変化させる点に注目した。フレーズをどこで区切り、次の言葉へどう踏み出すか。ビートの組み立てと一緒に、声のリズムにも目を向けたい。",
-      "同じEPの「Reign of the Tec」、翌1994年の「Props Over Here」へ進むと、初期Beatnutsの作品を発表順に辿れる。Fashionが前に出る本曲を、その二曲と並べてみたい。誰がマイクを握るかを比較の軸にすると、グループの別の輪郭が見えてくる。"
+      "同じEPの「Reign of the Tec」、翌1994年の「Props Over Here」へ進むと、初期Beatnutsの作品を発表順に辿れる。Fashionが前に出る本曲を、その二曲と並べてみたい。誰がマイクを握るかを比較の軸にすると、グループの別の輪郭が見えてくる。",
+      "Jesse DuckerのAlbumism評は、「Third of the Trio」を『Intoxicated Demons』で唯一のメンバー単独曲と位置づける。同じ評によれば、三人全員がそろう曲は「No Equal」だ。ソロ曲を単なる人数の少ない録音と見ず、全員が集まる一曲と対にして捉えると、EPの中でFashionへ焦点を合わせた配置がはっきりする。"
     ],
     "essaySources": [
       [
@@ -62209,6 +62226,9 @@
         0,
         6,
         7
+      ],
+      [
+        3
       ]
     ],
     "facts": [],
@@ -62335,13 +62355,14 @@
     "scene": "ロングアイランドのEPMDとDJ文化",
     "label": "Def Jam / Rush Associated Labels",
     "category": "Hip Hop",
-    "essayTitle": "DJが切り替える二つの場面",
-    "deck": "アルバムと12インチの裏面をつなぐ一曲。オリジナル盤のクレジットからDJ Scratchの仕事を辿る。",
+    "essayTitle": "会話と呼び声で、曲の場面をつなぐ。",
+    "deck": "二部を結ぶ声を、Steve Juonは具体的に指摘した。",
     "context": "アルバムと12インチの裏面をつなぐ一曲。オリジナル盤のクレジットからDJ Scratchの仕事を辿る。",
     "essay": [
       "『Business Never Personal』の第6曲「Scratch Bring It Back (Part 2-Mic Doc)」は、「Head Banger」と「Crossover」の間に置かれている。1992年のUS盤「Head Banger」のB面にも収録された。アルバムの曲順と12インチの組み合わせ、その両方から辿れる一曲だ。",
       "RapReviewsの回顧が強調するのは、一曲の中に二つの曲があるような構成だ。スタジオでの会話を挟んで展開が切り替わり、DJ Scratchのカットが続く。ラップ、会話、レコード操作が、どのように一つの場面を形づくるのか。スクラッチを装飾としてだけでなく、曲の流れを追う手掛かりとして聴いてみたい。",
-      "1992年CDの裏面は、本曲の制作担当をDJ Scratchと記している。現行配信のErick Sermon／Parrish Smith表記とは異なるが、当時の盤には曲ごとの担当が残っている。MCだけでなくDJの仕事にも目を向けると、この曲をグループの中で捉え直す入口になる。"
+      "1992年CDの裏面は、本曲の制作担当をDJ Scratchと記している。現行配信のErick Sermon／Parrish Smith表記とは異なるが、当時の盤には曲ごとの担当が残っている。MCだけでなくDJの仕事にも目を向けると、この曲をグループの中で捉え直す入口になる。",
+      "RapReviewsのSteve “Flash” Juonは、二つの曲のような展開をつなぐものとして、スタジオの会話に加え、KRS-Oneの巻き戻しを促す声の引用を挙げている。DJ Scratchの演奏を、ラップの背後の飾りでなく、場面の接続を担うものとして読む手がかりになる。声の出典盤や正確な使用箇所までは同評に示されていないため、サンプル欄の確定情報とは分けて扱う。"
     ],
     "essaySources": [
       [
@@ -62355,6 +62376,9 @@
         0,
         4,
         5
+      ],
+      [
+        3
       ]
     ],
     "facts": [],
@@ -62470,13 +62494,14 @@
     "scene": "ブルックリン／Boot Camp Clik周辺",
     "label": "Wreck / Nervous",
     "category": "Hip Hop",
-    "essayTitle": "似た曲名の奥にいる作り手",
-    "deck": "WrektimeとWontimeを混同せず、Mr. Waltの個別クレジットからDa Beatminerzの制作を掘る。",
+    "essayTitle": "同じ制作チームでも、準備の仕方は違う。",
+    "deck": "Mr. Waltは家で作り、Evil Deeはスタジオの圧力を好む。",
     "context": "WrektimeとWontimeを混同せず、Mr. Waltの個別クレジットからDa Beatminerzの制作を掘る。",
     "essay": [
       "「Wrektime」は1995年の『Dah Shinin’』の2曲目。「Wontime」や「Wrekonize」と字面は近いが、それぞれ別の曲だ。P-VINEは2022年の再発で「Wontime」と組み合わせ、本曲を初めて7インチ化したと説明している。アルバムの一曲が、後から別の表裏の関係を持つ。曲順と盤の組み合わせを行き来すると、代表曲だけでは見えない作品の輪郭を辿れる。",
       "原盤ブックレットでは、「Wrektime」の制作はMr. Walt。同作の「Wontime」にはRich Blakも加わり、「Wrekonize」はBaby Paulと記される。NY Pressの取材は、Mr. Waltが個人より集団の名でクレジットを共有する形を思い描いていたことを伝えている。兄弟のレコード収集から仲間へ広がった制作の場を、個別の名前から辿り直してみたい。",
-      "Nervousの沿革は、Black Moonから『Dah Shinin’』へ続くヒップホップ作品の展開を記している。「Wrektime」からBlack Moonへ戻る道には、レーベルと制作陣のつながりがある。同じアルバムの「Sound Bwoy Bureill」とも並べ、共通する仲間の仕事を比較してみたい。"
+      "Nervousの沿革は、Black Moonから『Dah Shinin’』へ続くヒップホップ作品の展開を記している。「Wrektime」からBlack Moonへ戻る道には、レーベルと制作陣のつながりがある。同じアルバムの「Sound Bwoy Bureill」とも並べ、共通する仲間の仕事を比較してみたい。",
+      "NY Pressの兄弟への取材で、Evil Deeはスタジオでその場で作るのを好むと答え、Mr. Waltは家で作って準備を済ませて行くと話す。これは「Wrektime」のセッションを直接説明したものではない。だが、Beatminerzという共通名義の下にも制作手順の違いがあると知ると、本曲に記されたMr. Waltの個人名を追う意味が増す。"
     ],
     "essaySources": [
       [
@@ -62493,6 +62518,9 @@
         3,
         4,
         7
+      ],
+      [
+        3
       ]
     ],
     "facts": [],
