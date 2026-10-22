@@ -68486,5 +68486,139 @@
       "paletteSourceUrl": "https://www.qobuz.com/dk-en/album/father-of-4-offset/hg64xvewf8sqc",
       "paletteNote": "公式配信カバーの砂色・クリーム・黒を配色だけの参照に使用。人物・椅子・写真の配置やカバーの構図は再現していません。"
     }
+  },
+  {
+    "title": "Off Da Zoinkys",
+    "artist": "JID",
+    "artists": [
+      "JID"
+    ],
+    "year": 2018,
+    "album": "DiCaprio 2",
+    "producer": "Christo",
+    "producers": [
+      "Christo"
+    ],
+    "label": "Dreamville / Interscope Records",
+    "region": "Atlanta",
+    "category": "Hip Hop",
+    "id": "jid-off-da-zoinkys",
+    "scene": "Atlanta",
+    "essayTitle": "2018年の曲、その出発点は2016年",
+    "deck": "「Off Da Zoinkys」を、流行ではなく日々の暮らしから生まれた曲として捉える、JID本人の制作証言です。",
+    "essay": [
+      "「Off Da Zoinkys」は、2018年の『DiCaprio 2』に収められた曲ですが、JIDが制作したと語るのは2016年です。2019年のXXLのインタビューで、薬物の問題を扱うJ. Coleの『KOD』との共通点を尋ねられると、彼はその時期を明かしました。当時考えていたのはラップ文化というより、自分の周囲にある生活だったと説明しています。発表年だけでは見えない、曲の出発点です。",
+      "公式配信のクレジットでは、制作はChristo、録音担当の一人としてJID自身も記載されています。本人の証言を踏まえると、この曲をラップ界の話題への反応だけで片づけず、彼が身近な問題に向き合った記録として捉えることもできます。誰に向けて言葉を届けようとしているのか。その問いを置いて聴くと、曲への入口が一つ増えそうです。"
+    ],
+    "essaySources": [
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "公式配信とカタログによる2018年発売。本人が語る2016年は制作年、依頼ミックスの2020年は選曲盤の年。",
+    "regionBasis": "Universal Music Japanの公式紹介によるJIDとEast Atlantaの関連。録音場所の説明ではない。",
+    "versionBasis": "『DiCaprio 2』のオリジナル歌入り版。選定音源3:29、カタログ3:28、依頼ミックス2:14の編集・マスター同一性は未確認。「Off Deez」とは別曲。",
+    "context": "2016年の制作証言から、『DiCaprio 2』の6曲目へ。",
+    "producerBasis": "公式配信と曲別カタログでChristoを制作担当として確認。JIDの録音担当表記を制作担当に置き換えない。",
+    "facts": [
+      {
+        "title": "収録版と制作担当",
+        "text": "『DiCaprio 2』の6曲目。公式配信ではChristoがプロデューサーとして記載されています。",
+        "sources": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "title": "本人が語る制作年",
+        "text": "本人は2019年のXXLのインタビューで、制作したのは2016年だったと説明しています。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Universal Music Group / JID — Off Da Zoinkys 公式配信",
+        "url": "https://www.youtube.com/watch?v=6QTYQ5Mof3s",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Qobuz — DiCaprio 2 配信情報",
+        "url": "https://www.qobuz.com/us-en/album/dicaprio-2-jid/m8uyscr3hk0uc",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "XXL — J.I.D Has a Story to Tell（2019年本人インタビュー）",
+        "url": "https://www.xxlmag.com/j-i-d-interview-story-tell/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Universal Music Japan — DiCaprio 2 公式作品ページ",
+        "url": "https://www.universal-music.co.jp/jid/products/00602577077937/",
+        "kind": "公式作品情報"
+      },
+      {
+        "label": "Universal Music Japan — J.I.D 公式プロフィール",
+        "url": "https://www.universal-music.co.jp/jid/biography/",
+        "kind": "公式アーティスト紹介"
+      }
+    ],
+    "youtube": {
+      "id": "6QTYQ5Mof3s",
+      "url": "https://www.youtube.com/watch?v=6QTYQ5Mof3s",
+      "title": "Off Da Zoinkys",
+      "provider": "JID",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-22",
+      "embedUrl": "https://www.youtube.com/embed/6QTYQ5Mof3s",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "2018年アルバム収録のオリジナル歌入り版（公式配信）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の説明・アーティスト表示とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-22",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "addedOrder": 527,
+    "datePublished": "2026-10-22",
+    "art": {
+      "word": "Off Da Zoinkys",
+      "tag": "JID",
+      "lines": [
+        "Off Da Zoinkys"
+      ],
+      "style": "piece",
+      "seed": 201801,
+      "palette": [
+        "#090604",
+        "#c8ac5c",
+        "#725831",
+        "#e1cc84"
+      ],
+      "paletteSource": "DiCaprio 2 — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://www.qobuz.com/us-en/album/dicaprio-2-jid/m8uyscr3hk0uc",
+      "paletteNote": "現行の公式配信カバーの金・黒・茶を配色だけの参照に使用。初版ジャケットとは断定せず、トロフィーや人物形状・ロゴ・構図は再現していません。"
+    }
   }
 ]
