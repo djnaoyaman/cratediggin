@@ -3432,6 +3432,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "research-batch28-browser"
+    },
+    {
+      "id": "lost-in-thought",
+      "argv": [
+        "python",
+        "scripts/verify_lost_in_thought.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "lost-in-thought"
+    },
+    {
+      "id": "lost-in-thought-browser",
+      "argv": [
+        "node",
+        "scripts/verify_lost_in_thought_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "lost-in-thought-browser"
     }
   ],
   "groups": {
@@ -4057,6 +4081,10 @@
     "research_batch28": [
       "research-batch28",
       "research-batch28-browser"
+    ],
+    "lost_in_thought": [
+      "lost-in-thought",
+      "lost-in-thought-browser"
     ]
   },
   "runtime_rules": {
@@ -5361,13 +5389,28 @@
       "scripts/fixtures/approved-research-batch27.json"
     ],
     "scripts/approved_research_batch28.py": [
-      "scripts/fixtures/approved-research-batch28.json"
+      "scripts/fixtures/approved-research-batch28.json",
+      "scripts/approved_lost_in_thought.py"
     ],
     "scripts/verify_research_batch28.py": [
       "scripts/approved_research_batch28.py"
     ],
     "scripts/verify_research_batch28_browser.cjs": [
       "scripts/fixtures/approved-research-batch28.json"
+    ],
+    "scripts/approved_lost_in_thought.py": [
+      "scripts/fixtures/approved-lost-in-thought.json"
+    ],
+    "scripts/verify_lost_in_thought.py": [
+      "scripts/approved_lost_in_thought.py",
+      "scripts/approved_research_batch28.py",
+      "scripts/ci/manifest.json",
+      "scripts/fixtures/approved-lost-in-thought.json",
+      "scripts/verify_lost_in_thought.py",
+      "scripts/verify_lost_in_thought_browser.cjs"
+    ],
+    "scripts/verify_lost_in_thought_browser.cjs": [
+      "scripts/fixtures/approved-lost-in-thought.json"
     ]
   },
   "policy_paths": [
@@ -5537,7 +5580,9 @@
     "scripts/approved_research_batch27.py",
     "scripts/fixtures/approved-research-batch27.json",
     "scripts/approved_research_batch28.py",
-    "scripts/fixtures/approved-research-batch28.json"
+    "scripts/fixtures/approved-research-batch28.json",
+    "scripts/approved_lost_in_thought.py",
+    "scripts/fixtures/approved-lost-in-thought.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -6333,6 +6378,13 @@
         "groups": [
           "research_batch28"
         ]
+      },
+      {
+        "before_sha256": "ca4ccf75f1d1c4589227e5a647506b72766de4aa50100bbff47ee74c496c470c",
+        "after_sha256": "23fbb7d6c08da279c3818925badc7ea3236a38ce2cd27b2f6d348da4f8cdaf0b",
+        "groups": [
+          "lost_in_thought"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -6603,6 +6655,13 @@
         "groups": [
           "four_mix"
         ]
+      },
+      {
+        "before_sha256": "fccdb745bbd3b2871ef3b506b3197077f5e6b42cd543cefdbd042a2efb3f9c49",
+        "after_sha256": "b012e9826b582bec8821815a5e4deaf93a608020f9c9c606f391c6060cb6b43a",
+        "groups": [
+          "lost_in_thought"
+        ]
       }
     ],
     "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
@@ -6739,6 +6798,13 @@
         "after_sha256": "be0a95389d26e99480325ad2a7f0872ba3e21e7e58b6cf2b3fd7515d5805469b",
         "groups": [
           "four_mix"
+        ]
+      },
+      {
+        "before_sha256": "be0a95389d26e99480325ad2a7f0872ba3e21e7e58b6cf2b3fd7515d5805469b",
+        "after_sha256": "2e0d96ff5e9f1556184d08a472d002c96cd4fa10c184a24c7ff6caf16bcc1d5e",
+        "groups": [
+          "lost_in_thought"
         ]
       }
     ],
@@ -7253,6 +7319,15 @@
         "after_sha256": "9d5a6934b8a468aa509fce553cccaa90cea7b795239c66f70db5eb81c69ca642",
         "groups": [
           "research_batch28"
+        ]
+      }
+    ],
+    "assets/graffiti/funkdoobiest-lost-in-thought-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "40a4aa6639476729d698fa067671c829fafc37c80afabce3235c3eef65f013e0",
+        "groups": [
+          "lost_in_thought"
         ]
       }
     ]

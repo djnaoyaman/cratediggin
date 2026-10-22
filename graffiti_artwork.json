@@ -10218,6 +10218,25 @@
       "transparent": true,
       "textReviewed": true,
       "paletteReviewed": true
+    },
+    {
+      "id": "funkdoobiest-lost-in-thought",
+      "title": "Lost in Thought",
+      "artist": "Funkdoobiest",
+      "album": "Brothas Doobie",
+      "palette": [
+        "#B7B332",
+        "#667D7B",
+        "#F0E6C7",
+        "#171811"
+      ],
+      "paletteSource": "Brothas Doobie (1995)",
+      "paletteNote": "収録アルバムのジャケットを目視参照した、黄緑・くすんだ青緑・白・濃色の近似配色。厳密な色抽出ではなく、写真や既存題字は転載していません。",
+      "status": "ready",
+      "image": "assets/graffiti/funkdoobiest-lost-in-thought-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
