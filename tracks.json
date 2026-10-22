@@ -30768,12 +30768,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "Kendrick Lamarを迎えた、長い言葉の応酬。",
-    "essayTitle": "パーティーのあとも、声は続く。",
+    "deck": "2016年の発表から、Stones Throwの映像特典へさかのぼる。",
+    "essayTitle": "完成の二年前、歌詞はDVD特典に顔を出していた。",
     "essay": [
-      "言葉が長く続いても、ビートは腰を据えて回っている。ラップの密度とループの粘りが、互いの持久力を引き出しているようだ。",
-      "Madlibのビートが、大きな作品の一角で鳴る。アンダーグラウンドとメインストリームを別々の部屋に閉じ込めない接点でもある。",
-      "作り手の名前をたどると、思いがけない場所へ出る。レコードを掘る面白さは、地図の境界がいつも書き換わるところにある。"
+      "Stones Throwの2016年の告知によると、Kanye Westは2014年の『Our Vinyl Weighs a Ton』DVD特典で、Madlibとの作業を語りながら、後に「No More Parties in LA」となる歌詞を口にしていた。完成曲を知ってから、その前の姿へ戻れる。",
+      "同じ告知は、Madlibのパートの素材をJunie Morrisonの「Suzie Thundertussy」と説明する。映画の発言と元曲は、完成までをたどる別々の入口になる。録音開始年や使用機材は、この資料だけでは決めない。"
     ],
     "facts": [
       {
@@ -30787,15 +30786,19 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "Kendrick Lamarを迎えた、長い言葉の応酬。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "DVD特典での発言と、2016年に発表された曲を区別してたどる。"
     ],
-    "context": "2016年の作品として、Madlib / Kanye Westの制作とKanye Westの表現の接点を聴く。",
+    "context": "完成曲より前に公開されていた歌詞と、レーベルが示す素材の関係を読む。",
     "sources": [
       {
         "label": "Kanye West - Topic / No More Parties In LA",
         "url": "https://www.youtube.com/watch?v=0F5CSjcRZxU",
         "kind": "公式配信・動画"
+      },
+      {
+        "url": "https://www.stonesthrow.com/news/kanye-real-friends-madlib/",
+        "label": "Stones Throw — No More Parties in L.A.（2016年1月19日）",
+        "kind": "当事者証言・公式解説"
       }
     ],
     "producers": [
@@ -30820,7 +30823,15 @@
       "Kanye West",
       "Kendrick Lamar"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "dj-shadow-organ-donor-extended-overhaul",
@@ -30868,12 +30879,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "Organ Donorの輪郭を、Extended Overhaulでたどり直す。",
-    "essayTitle": "同じ名前に、もうひとつの展開。",
+    "deck": "TZUのJoelisticsが語る「Organ Donor」と、生演奏への広がり。",
+    "essayTitle": "サンプラーの曲が、バンドの手本にもなった。",
     "essay": [
-      "Organ Donorという名前を知っていても、Extended Overhaulという後ろの言葉まで確かめておきたい。同じ曲から始まった音楽でも、版が変われば聴く時間の形も変わる。",
-      "印象的な反復を追う耳と、曲全体の展開を追う耳。その二つを行き来すると、短いアルバム版とは別の楽しみ方が見えてくる。",
-      "好きな曲の別バージョンを探すのは、知っている道を違う時間に歩くことに似ている。見慣れたはずの角で、もう一度足が止まる。"
+      "オーストラリアのグループTZUのJoelisticsは、ABCの取材で「Organ Donor」を制作の参考にしていたと語り、自分たちでも何度かカバーしたと思う、と振り返っている。サンプリングで組まれた曲が、バンドの演奏へ渡っていく接点だ。",
+      "記事は「Extended Overhaul」の項目でこの話を紹介し、拡張版の『Preemptive Strike』収録も示す。ただし、TZUが演奏したのがどの版かまでは特定していない。ここに掲載する拡張版と、証言が指す曲全体の影響を混同せずに読みたい。"
     ],
     "facts": [
       {
@@ -30896,10 +30906,9 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "アルバム版との構成と展開の違い。",
-      "反復する旋律とドラムの重なり。"
+      "通常版と拡張版を比べる。TZUのカバーの版や編曲内容は、証言だけから補わない。"
     ],
-    "context": "Mo' Wax期のシングルに展開したOrgan Donorの別バージョン。1997年のシングル収録と後年の再発を分けてたどる。",
+    "context": "作品を受け取った音楽家の回想から、バンドへの影響をたどる。",
     "sources": [
       {
         "label": "DJ Shadow - Topic / Organ Donor (Extended Overhaul)",
@@ -30920,6 +30929,11 @@
         "label": "The Quietus：DJ Shadow本人の曲別回想（2012）",
         "url": "https://thequietus.com/interviews/dj-shadow-reconstructed-best-of-interview/",
         "kind": "本人インタビュー"
+      },
+      {
+        "url": "https://www.abc.net.au/listen/doublej/music-reads/features/dj-shadow-beginners-guide-j-files-best-songs-biography-guide/103173348",
+        "label": "ABC Double J — DJ Shadow入門 / Joelisticsの証言",
+        "kind": "当事者証言・公式解説"
       }
     ],
     "producers": [
@@ -30939,7 +30953,15 @@
       "cut-scratch"
     ],
     "curationNote": "音の質感・構成・聴きどころに基づく本サイトの編集上の選曲。ジャンルの断定や史実上の分類ではありません。",
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "j-live-hush-the-crowd",
@@ -30986,7 +31008,7 @@
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
     "deck": "「Hush The Crowd」は、まだ知られていない演者の側から書かれた。Fugeesの前座を務めた経験と、後にJ-Liveが前座へ返した敬意をたどる。",
-    "essayTitle": "観客がまだ入口にいた、前座の時間。",
+    "essayTitle": "前座での悔しさを、次の前座への敬意に変えた。",
     "essay": [
       "出番が来ても、入場を待つ観客が外に残っている。J-Liveが2002年のインタビューで振り返ったのは、そんな前座の難しさだった。「Hush The Crowd」は1996年、駆け出しの演者が置かれる立場を題材にした曲だと本人は説明している。",
       "Fugeesの公演に出演したときも、出番が早く、外には入場を待つ列が残っていたという。ここから見えてくるのは、実力だけでは埋められない、演者と観客が出会う機会の差だ。曲名の強さを、単なる自信の表明として片づけられなくなる。",
@@ -31229,12 +31251,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "バンドの運動とラップが交わる接点を聴く。",
-    "essayTitle": "バンドの動きに、ラップが交わる瞬間",
+    "deck": "Questloveが語った、DJ Premierへの目配せ。",
+    "essayTitle": "生のドラムを、機械のように締める。",
     "essay": [
-      "The Rootsの「Push Up Ya Lighter」。まず耳を向けたいのは、バンドの運動とラップが交わる接点だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Illadelph Halflife』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「You Got Me」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "QuestloveはJ-Zoneとの対談で、Joe Tarsiaからゲート処理を教わったと話す。余分な響きを切り、ドラムを合成音のように引き締める方法だ。その例に挙げたのが「Push Up Ya Lighter」で、本人はDJ Premierへの目配せだったと説明している。",
+      "生演奏かサンプリングかという二択だけでは、この発想を捉えきれない。演奏した音をどう録り、どう処理するか。その工程を意識して曲へ戻りたい。具体的な設定値や、どの一打にどの処理をしたかは証言にない。"
     ],
     "facts": [
       {
@@ -31256,10 +31277,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "バンドの運動とラップが交わる接点。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "Questloveの説明を手がかりに、演奏と録音処理を分けて考える。"
     ],
-    "context": "1996年のHip Hop選曲。『Illadelph Halflife』の作品情報と音源の版を分けて掲載。",
+    "context": "J-Zoneによる本人取材から、ゲート処理とDJ Premierへの意識を読む。",
     "sources": [
       {
         "label": "The Roots - Topic / Push Up Ya Lighter (Album Version)",
@@ -31280,6 +31300,11 @@
         "label": "‎The Roots Essentials - 歌单 - Apple Music",
         "url": "https://music.apple.com/us/playlist/the-roots%E4%BB%A3%E8%A1%A8%E4%BD%9C/pl.dc00bd42d6c44ad792347389221fdbfc?l=zh-Hans-CN",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://daily.redbullmusicacademy.com/2019/02/give-the-drummer-some-questlove/",
+        "label": "Red Bull Music Academy — Give The Drummer Some: Questlove / J-Zone",
+        "kind": "当事者証言・公式解説"
       }
     ],
     "producers": [
@@ -31302,7 +31327,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "ed-o-g-what-u-got",
@@ -31348,12 +31381,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "短い問いかけを反復する声の輪郭を聴く。",
-    "essayTitle": "短い問いが戻るたび、声の輪郭を追う",
+    "deck": "1996年の録音を、後年の『Acting』からたどり直す。",
+    "essayTitle": "六曲のEPの先に、眠っていたアルバムがある。",
     "essay": [
-      "Ed O.Gの「What U Got」。まず耳を向けたいのは、短い問いかけを反復する声の輪郭だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Six Song EP』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "1996年という数字をいったん脇へ置き、声とリズムの関係から聴いてみたい。名盤の知識はあとからでも追いつける。まず「What U Got」という名前と、自分の耳に残った場所を結びつけておく。"
+      "90s Tapesの再発解説によると、Edo. Gの『Acting』は1996年に録音され、全編が初めて出たのは2008年のCDだった。それ以前の1990年代には12インチとEPが出ていたという。「What U Got」は、公式の全曲版にも並ぶ一曲だ。",
+      "同じ曲目表には「What U Got (Remix)」も別に置かれている。ここでは原曲を入口に、EPだけでは見えなかった作品全体へ進みたい。ただし、各再発のマスターが同一かどうかは、曲名の一致だけで判断しない。"
     ],
     "facts": [
       {
@@ -31375,10 +31407,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "短い問いかけを反復する声の輪郭。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "原曲とRemixの表記を分け、『Six Song EP』から『Acting』の曲順へ進む。"
     ],
-    "context": "1996年のHip Hop選曲。『Six Song EP』の作品情報と音源の版を分けて掲載。",
+    "context": "レーベルの再発説明をもとに、EPと後年の全曲版の関係をたどる。",
     "sources": [
       {
         "label": "Edo. G - Topic / What U Got",
@@ -31394,6 +31425,11 @@
         "label": "‎Edo. G - Apple Music",
         "url": "https://music.apple.com/us/artist/edo-g/259654976",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://90stapes.bandcamp.com/album/acting",
+        "label": "90s Tapes — Edo. G / Acting公式再発解説",
+        "kind": "当事者証言・公式解説"
       }
     ],
     "producers": [
@@ -31413,7 +31449,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        3
+      ]
+    ]
   },
   {
     "id": "camp-lo-swing",
@@ -31459,12 +31503,10 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "会話のように受け渡される二人のフロウを聴く。",
-    "essayTitle": "二人のフロウが、会話のように渡る",
+    "deck": "Ski Beatzが喜んだ、Digable Planetsとの接点。",
+    "essayTitle": "憧れのButterflyから、ビートを認められた。",
     "essay": [
-      "Camp Loの「Swing」。まず耳を向けたいのは、会話のように受け渡される二人のフロウだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Uptown Saturday Night』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Coolie High」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "Ski Beatzは2012年の取材で、Digable Planetsのファンだった自分にとって、Butterflyが「Swing」のビートを気に入ってくれたことは大きな喜びだったと振り返る。客演の名前を、作り手が憧れの相手と出会う場面として読み直せる。"
     ],
     "facts": [
       {
@@ -31486,10 +31528,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "会話のように受け渡される二人のフロウ。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "Camp Loの二人に加わるButterflyを、Skiの回想を手がかりに聴く。"
     ],
-    "context": "1997年のHip Hop選曲。『Uptown Saturday Night』の作品情報と音源の版を分けて掲載。",
+    "context": "Ski Beatzの本人談から、客演が持っていた個人的な意味を読む。",
     "sources": [
       {
         "label": "CampLoVEVO / Camp Lo - Swing (Official Audio)",
@@ -31510,6 +31551,11 @@
         "label": "‎Swing - Song with Lyrics by Camp Lo - Apple Music",
         "url": "https://music.apple.com/us/song/298544255",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://officialcamplo.com/2012/07/",
+        "label": "Camp Lo公式転載 — Ski Beatz / Uptown Saturday Night 15周年取材",
+        "kind": "当事者証言・公式解説"
       }
     ],
     "producers": [],
@@ -31529,7 +31575,12 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "a-tribe-called-quest-crew",
@@ -31805,12 +31856,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "ラヴソングという題名とラップの語り口の関係を聴く。",
-    "essayTitle": "ラヴソングを、ラップの語り口から",
+    "deck": "Bush BabeesからRIP SLYMEへつながる、本人が明かした手がかり。",
+    "essayTitle": "PESが「One」を書くとき、聴いていた曲。",
     "essay": [
-      "Bush Babees feat. Mos Defの「The Love Song」。まず耳を向けたいのは、ラヴソングという題名とラップの語り口の関係だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Gravity』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "1996年という数字をいったん脇へ置き、声とリズムの関係から聴いてみたい。名盤の知識はあとからでも追いつける。まず「The Love Song」という名前と、自分の耳に残った場所を結びつけておく。"
+      "TOKYO FMが2015年の番組イベントを報告した資料で、PESは「The Love Song」を選び、インストゥルメンタルを繰り返し聴いたこと、RIP SLYMEの「One」もこの曲を聴きながら書いたことを明かしている。日本の一曲へ伸びる関係を、聴き手の連想ではなく本人の言葉からたどれる。",
+      "これは執筆時の聴取についての証言であり、「One」がこの録音をサンプリングしたという話ではない。影響と素材の使用を分けて、二曲を並べてみたい。"
     ],
     "facts": [
       {
@@ -31831,10 +31881,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "ラヴソングという題名とラップの語り口の関係。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "「The Love Song」と「One」を並べる。影響の証言をサンプル使用の証明に置き換えない。"
     ],
-    "context": "1996年のHip Hop選曲。『Gravity』の作品情報と音源の版を分けて掲載。",
+    "context": "PESが明かした執筆時の聴取を手がかりに、日本での受け取られ方を読む。",
     "sources": [
       {
         "label": "Bush Babees - Topic / The Love Song (feat. Mos Def)",
@@ -31845,6 +31894,11 @@
         "url": "https://90stapes.bandcamp.com/album/gravity",
         "label": "90s Tapes — Gravity公式再発解説・収録曲",
         "kind": "レーベル公式資料"
+      },
+      {
+        "url": "https://prtimes.jp/a/?c=4829&f=d4829-20150429-6579.pdf&r=619",
+        "label": "TOKYO FM — 2015年4月29日プレスリリース / PESの発言",
+        "kind": "当事者証言・公式解説"
       }
     ],
     "producers": [
@@ -31864,7 +31918,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "big-noyd-usual-suspect-stretch-armstrong-remix",
