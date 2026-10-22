@@ -10336,6 +10336,28 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "anderson-paak-the-waters",
+      "title": "The Waters",
+      "artist": "Anderson .Paak",
+      "album": "Malibu",
+      "palette": [
+        "#bb3c25",
+        "#d8a14c",
+        "#7da88a",
+        "#317d81",
+        "#dfdcc1",
+        "#30241e"
+      ],
+      "paletteSource": "Malibu — 公式ストアの商品画像（配色参照）",
+      "paletteSourceUrl": "https://shop.andersonpaak.com/products/malibu-cd",
+      "paletteNote": "Collaged ocean and white sea foam; red-orange sunset and large ochre sun; mint-green title; dark brown piano/figure; shell and paper accents.; palette reference only, not a reproduction or a claim about original-edition packaging.",
+      "status": "ready",
+      "image": "assets/graffiti/anderson-paak-the-waters-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

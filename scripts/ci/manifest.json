@@ -4860,6 +4860,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "chittlins-pepsi-addition-browser"
+    },
+    {
+      "id": "the-waters-addition",
+      "argv": [
+        "python",
+        "scripts/verify_the_waters_addition.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "the-waters-addition"
+    },
+    {
+      "id": "the-waters-addition-browser",
+      "argv": [
+        "node",
+        "scripts/verify_the_waters_addition_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "the-waters-addition-browser"
     }
   ],
   "groups": {
@@ -5723,6 +5747,10 @@
     "chittlins_pepsi_addition": [
       "chittlins-pepsi-addition",
       "chittlins-pepsi-addition-browser"
+    ],
+    "the_waters_addition": [
+      "the-waters-addition",
+      "the-waters-addition-browser"
     ]
   },
   "runtime_rules": {
@@ -7741,7 +7769,8 @@
       "scripts/fixtures/approved-baby-addition.json"
     ],
     "scripts/approved_chittlins_pepsi_addition.py": [
-      "scripts/fixtures/approved-chittlins-pepsi-addition.json"
+      "scripts/fixtures/approved-chittlins-pepsi-addition.json",
+      "scripts/approved_the_waters_addition.py"
     ],
     "scripts/verify_chittlins_pepsi_addition.py": [
       "scripts/approved_chittlins_pepsi_addition.py",
@@ -7753,6 +7782,21 @@
     ],
     "scripts/verify_chittlins_pepsi_addition_browser.cjs": [
       "scripts/fixtures/approved-chittlins-pepsi-addition.json"
+    ],
+    "scripts/approved_the_waters_addition.py": [
+      "scripts/fixtures/approved-the-waters-addition.json"
+    ],
+    "scripts/verify_the_waters_addition.py": [
+      "scripts/approved_the_waters_addition.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "releases.json",
+      "artist_entities.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_chittlins_pepsi_addition.py"
+    ],
+    "scripts/verify_the_waters_addition_browser.cjs": [
+      "scripts/fixtures/approved-the-waters-addition.json"
     ]
   },
   "policy_paths": [
@@ -8043,7 +8087,9 @@
     "scripts/approved_baby_addition.py",
     "scripts/fixtures/approved-baby-addition.json",
     "scripts/approved_chittlins_pepsi_addition.py",
-    "scripts/fixtures/approved-chittlins-pepsi-addition.json"
+    "scripts/fixtures/approved-chittlins-pepsi-addition.json",
+    "scripts/approved_the_waters_addition.py",
+    "scripts/fixtures/approved-the-waters-addition.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9253,6 +9299,13 @@
         "groups": [
           "chittlins_pepsi_addition"
         ]
+      },
+      {
+        "before_sha256": "6c281592cf358f239cc7f209cd3e3ea87ea228be4ebe61374532ba3ccd8db6a1",
+        "after_sha256": "ae786285346982b373199d40cd001a94398ce171dde4f601d8d9cc8ce8ed87f2",
+        "groups": [
+          "the_waters_addition"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -9628,6 +9681,13 @@
         "groups": [
           "chittlins_pepsi_addition"
         ]
+      },
+      {
+        "before_sha256": "4e6212f606dea86195172b8798682e3f9de4c4083b4218b7529c3dc94585bddd",
+        "after_sha256": "4380a61267c1eff5819eb577e5a353ccac07908ee24dac3e900d2228a98619fd",
+        "groups": [
+          "the_waters_addition"
+        ]
       }
     ],
     "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
@@ -9778,6 +9838,13 @@
         "after_sha256": "e1275ec042add70d06006dc4410028adc2a3e43193f0cdecc89d7515726ea7df",
         "groups": [
           "no_sleep_addition"
+        ]
+      },
+      {
+        "before_sha256": "e1275ec042add70d06006dc4410028adc2a3e43193f0cdecc89d7515726ea7df",
+        "after_sha256": "68832e11330cd5ce0c1fd15a9149bce5a225aed7d48b72cf7511daaca23047a3",
+        "groups": [
+          "the_waters_addition"
         ]
       }
     ],
@@ -10346,6 +10413,15 @@
         "after_sha256": "ed62cb2053118146a845c1d144ed9f429718c3faee455ca925df36a25efc8dbc",
         "groups": [
           "chittlins_pepsi_addition"
+        ]
+      }
+    ],
+    "assets/graffiti/anderson-paak-the-waters-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "9dd3180de38c4d0fbc55c8e3eab6bd4ac3d43ebb59777e582d61cd2241a10f5c",
+        "groups": [
+          "the_waters_addition"
         ]
       }
     ]

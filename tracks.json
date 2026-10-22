@@ -67750,5 +67750,129 @@
       "paletteSourceUrl": "https://www.stonesthrow.com/store/in-search-of-stoney-jackson/",
       "paletteNote": "Black central afro portrait with cream lettering; concentric irregular red, ochre, muted teal and dark bands; teal jacket.; visual approximation, not exact extraction."
     }
+  },
+  {
+    "id": "anderson-paak-the-waters",
+    "title": "The Waters",
+    "artist": "Anderson .Paak",
+    "artists": [
+      "Anderson .Paak",
+      "BJ the Chicago Kid"
+    ],
+    "year": 2016,
+    "album": "Malibu",
+    "producer": "Madlib / Anderson .Paak",
+    "producers": [
+      "Madlib",
+      "Anderson .Paak"
+    ],
+    "label": "OBE / Apeshit, Inc / EMPIRE",
+    "region": "California",
+    "scene": "California",
+    "category": "Hip Hop",
+    "essayTitle": "「The Waters」の隣にある、もう一曲",
+    "deck": "『Malibu』の曲目表と公式映像のタイトルから、二曲の組み合わせをたどります。",
+    "essay": [
+      "『Malibu』の公式曲目では、「The Waters」が3曲目、その次が「The Season / Carry Me」です。ところが、この二曲をまとめた公式映像のタイトルには「The Season / Carry Me / The Waters」と、曲目表とは逆の順で名前が並んでいます。一曲だけを探していたところから、隣の曲へ進む手がかりになります。",
+      "「The Waters」にはBJ the Chicago Kidが参加し、公式アルバム音源の制作欄にはMadlibとB. Paak Andersonの名が記されています。ここでは、その単独のアルバム音源を入口にします。続いて『Malibu』の4曲目、さらに二曲をまとめた映像へ。同じ曲を別の組み合わせで取り上げた、アルバムと映像の関係をたどる聴き方です。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        0,
+        2
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "選定した公式アルバム配信の2016年1月15日表記に基づく。初出日の網羅的確認ではない。",
+    "regionBasis": "NPRによる南カリフォルニアとの関連づけ。出身地・居住地・録音場所は未確認。",
+    "versionBasis": "BJ the Chicago Kid参加の『Malibu』オリジナル歌入り版。選定配信の尺は2:55。複数曲をまとめた映像やSXSWライブ版とは区別し、依頼ミックスの2:35表記との編集・マスター同一性は未確認。",
+    "context": "『Malibu』の曲目と、複数曲をまとめた映像を行き来する。",
+    "facts": [
+      {
+        "title": "選定配信の制作表記",
+        "text": "選定配信の制作欄はB. Paak Anderson、Madlib、O. Jackson Jr.と記載。ここではMadlib／Anderson .Paakのクレジットとして整理し、各人の具体的な制作分担は未確認。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Anderson .Paak公式ストア — Malibu曲目",
+        "url": "https://shop.andersonpaak.com/products/malibu-cd",
+        "kind": "アーティスト公式資料"
+      },
+      {
+        "label": "YouTube公式配信 — The Waters",
+        "url": "https://www.youtube.com/watch?v=1qm_G_pESYs",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Anderson .Paak公式映像 — The Season / Carry Me / The Waters",
+        "url": "https://www.youtube.com/watch?v=y_Ka5wiQBEw",
+        "kind": "アーティスト公式映像"
+      },
+      {
+        "label": "NPR — The Waters / SXSW 2016",
+        "url": "https://www.npr.org/2016/03/19/470454128/anderson-paak-the-free-nationals-the-waters-live-at-sxsw-2016",
+        "kind": "放送局の収録・紹介記事"
+      }
+    ],
+    "youtube": {
+      "id": "1qm_G_pESYs",
+      "url": "https://www.youtube.com/watch?v=1qm_G_pESYs",
+      "title": "The Waters",
+      "provider": "EMPIRE Distribution",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-22",
+      "embedUrl": "https://www.youtube.com/embed/1qm_G_pESYs",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "オリジナル・アルバム歌入り版（公式配信）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式配信説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-22",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "addedOrder": 521,
+    "datePublished": "2026-10-22",
+    "art": {
+      "word": "THE WATERS",
+      "tag": "ANDERSON .PAAK",
+      "lines": [
+        "THE WATERS"
+      ],
+      "style": "piece",
+      "seed": 201603,
+      "palette": [
+        "#bb3c25",
+        "#d8a14c",
+        "#7da88a",
+        "#317d81",
+        "#dfdcc1",
+        "#30241e"
+      ],
+      "paletteSource": "Malibu — 公式ストアの商品画像（配色参照）",
+      "paletteSourceUrl": "https://shop.andersonpaak.com/products/malibu-cd",
+      "paletteNote": "Collaged ocean and white sea foam; red-orange sunset and large ochre sun; mint-green title; dark brown piano/figure; shell and paper accents.; palette reference only, not a reproduction or a claim about original-edition packaging."
+    }
   }
 ]
