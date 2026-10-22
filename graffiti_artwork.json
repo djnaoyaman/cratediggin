@@ -10256,6 +10256,25 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "freddie-gibbs-madlib-knicks",
+      "title": "Knicks",
+      "artist": "Freddie Gibbs & Madlib",
+      "album": "Piñata",
+      "palette": [
+        "#171817",
+        "#F0EDE4",
+        "#CAA960",
+        "#67694A"
+      ],
+      "paletteSource": "Piñata (2014) — standard cover",
+      "paletteNote": "公式標準盤ジャケットを目視参照した黒・白・金・くすんだ緑の近似色。NBAチームロゴや球団配色ではなく掲載音源のアルバムを参照。写真・縞柄・既存題字は転載しない。",
+      "status": "ready",
+      "image": "assets/graffiti/freddie-gibbs-madlib-knicks-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

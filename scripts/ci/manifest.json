@@ -4764,6 +4764,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "shame-addition-browser"
+    },
+    {
+      "id": "knicks-addition",
+      "argv": [
+        "python",
+        "scripts/verify_knicks_addition.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "knicks-addition"
+    },
+    {
+      "id": "knicks-addition-browser",
+      "argv": [
+        "node",
+        "scripts/verify_knicks_addition_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "knicks-addition-browser"
     }
   ],
   "groups": {
@@ -5611,6 +5635,10 @@
     "shame_addition": [
       "shame-addition",
       "shame-addition-browser"
+    ],
+    "knicks_addition": [
+      "knicks-addition",
+      "knicks-addition-browser"
     ]
   },
   "runtime_rules": {
@@ -7568,7 +7596,8 @@
       "scripts/ci/manifest.json"
     ],
     "scripts/approved_shame_addition.py": [
-      "scripts/fixtures/approved-shame-addition.json"
+      "scripts/fixtures/approved-shame-addition.json",
+      "scripts/approved_knicks_addition.py"
     ],
     "scripts/verify_shame_addition.py": [
       "scripts/approved_shame_addition.py",
@@ -7580,6 +7609,20 @@
     ],
     "scripts/verify_shame_addition_browser.cjs": [
       "scripts/fixtures/approved-shame-addition.json"
+    ],
+    "scripts/approved_knicks_addition.py": [
+      "scripts/fixtures/approved-knicks-addition.json"
+    ],
+    "scripts/verify_knicks_addition.py": [
+      "scripts/approved_knicks_addition.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "releases.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_shame_addition.py"
+    ],
+    "scripts/verify_knicks_addition_browser.cjs": [
+      "scripts/fixtures/approved-knicks-addition.json"
     ]
   },
   "policy_paths": [
@@ -7862,7 +7905,9 @@
     "scripts/fixtures/approved-simple-content-ci.json",
     "scripts/verify_simple_content_ci.py",
     "scripts/approved_shame_addition.py",
-    "scripts/fixtures/approved-shame-addition.json"
+    "scripts/fixtures/approved-shame-addition.json",
+    "scripts/approved_knicks_addition.py",
+    "scripts/fixtures/approved-knicks-addition.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9044,6 +9089,13 @@
         "groups": [
           "shame_addition"
         ]
+      },
+      {
+        "before_sha256": "06a246e2a7743cbc9e7f656f1edaed3f296e5a7c58585bba7ee5cd4fc8f57696",
+        "after_sha256": "2f4a93548f01694067716a03637f5b88866a74c9255653a50bab8ddf508f2754",
+        "groups": [
+          "knicks_addition"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -9390,6 +9442,13 @@
         "after_sha256": "61de772ddfaefe2b3e47eeb18336a4af22a0e39be9a874a7f6a1c386a3c9e87c",
         "groups": [
           "shame_addition"
+        ]
+      },
+      {
+        "before_sha256": "61de772ddfaefe2b3e47eeb18336a4af22a0e39be9a874a7f6a1c386a3c9e87c",
+        "after_sha256": "5e2c54892b3016d9dfe41f46ba1e1265b8b648ac342e6b847f952f3ab7882baf",
+        "groups": [
+          "knicks_addition"
         ]
       }
     ],
@@ -10066,6 +10125,15 @@
         "after_sha256": "902f44c993e427b3f91688a8dffe4c468a76544b12611870d1a8d72fb61ab4cd",
         "groups": [
           "shame_addition"
+        ]
+      }
+    ],
+    "assets/graffiti/freddie-gibbs-madlib-knicks-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "11973f7279232f3952352f6fea468a3eb587aa911885d5a4c3702a283bc2e4d5",
+        "groups": [
+          "knicks_addition"
         ]
       }
     ]
