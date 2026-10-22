@@ -4704,6 +4704,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "research-batch79-browser"
+    },
+    {
+      "id": "reader-research-notes",
+      "argv": [
+        "python",
+        "scripts/verify_reader_research_notes.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "reader-research-notes"
+    },
+    {
+      "id": "reader-research-notes-browser",
+      "argv": [
+        "node",
+        "scripts/verify_reader_research_notes_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "reader-research-notes-browser"
     }
   ],
   "groups": {
@@ -5542,6 +5566,10 @@
     "research_batch79": [
       "research-batch79",
       "research-batch79-browser"
+    ],
+    "reader_research_notes": [
+      "reader-research-notes",
+      "reader-research-notes-browser"
     ]
   },
   "runtime_rules": {
@@ -5730,6 +5758,12 @@
     ],
     "person_photos.py": [
       "person_photos"
+    ],
+    "article_research.py": [
+      "reader_research_notes"
+    ],
+    "article_research_notes.json": [
+      "reader_research_notes"
     ]
   },
   "script_dependencies": {
@@ -7456,7 +7490,8 @@
       "scripts/fixtures/approved-research-batch78.json"
     ],
     "scripts/approved_research_batch79.py": [
-      "scripts/fixtures/approved-research-batch79.json"
+      "scripts/fixtures/approved-research-batch79.json",
+      "scripts/approved_reader_research_notes.py"
     ],
     "scripts/verify_research_batch79.py": [
       "scripts/approved_research_batch79.py",
@@ -7465,6 +7500,17 @@
     ],
     "scripts/verify_research_batch79_browser.cjs": [
       "scripts/fixtures/approved-research-batch79.json"
+    ],
+    "scripts/approved_reader_research_notes.py": [
+      "scripts/fixtures/approved-reader-research-notes.json"
+    ],
+    "scripts/verify_reader_research_notes.py": [
+      "scripts/approved_reader_research_notes.py",
+      "scripts/fixtures/approved-reader-research-notes.json",
+      "scripts/approved_lost_in_thought.py"
+    ],
+    "scripts/verify_reader_research_notes_browser.cjs": [
+      "scripts/fixtures/approved-reader-research-notes.json"
     ]
   },
   "policy_paths": [
@@ -7740,7 +7786,9 @@
     "scripts/approved_research_batch78.py",
     "scripts/fixtures/approved-research-batch78.json",
     "scripts/approved_research_batch79.py",
-    "scripts/fixtures/approved-research-batch79.json"
+    "scripts/fixtures/approved-research-batch79.json",
+    "scripts/approved_reader_research_notes.py",
+    "scripts/fixtures/approved-reader-research-notes.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -7962,6 +8010,13 @@
         "groups": [
           "live_video_year_labels"
         ]
+      },
+      {
+        "before_sha256": "a96fc013d3e5e4ca3dfe359a8cc78c051fa559a9215d210ee3f84a073891b41a",
+        "after_sha256": "65abe58ac464e6623940aebbbca5acb278f540110d65adfee3e77f31976f8f7d",
+        "groups": [
+          "reader_research_notes"
+        ]
       }
     ],
     "src/app/inline-player.js": [
@@ -8002,6 +8057,13 @@
         "after_sha256": "207997f4e3017ab7a8a7ac77bd0942ebaebdd6679e27f22bf0624441156e41c9",
         "groups": [
           "live_video_year_labels"
+        ]
+      },
+      {
+        "before_sha256": "207997f4e3017ab7a8a7ac77bd0942ebaebdd6679e27f22bf0624441156e41c9",
+        "after_sha256": "1dd7ea63abd86dccfac6f8fb1db68422b903649761674b95c50eaaf16468ddf9",
+        "groups": [
+          "reader_research_notes"
         ]
       }
     ],
@@ -8131,6 +8193,13 @@
         "after_sha256": "1a59fd029f7ca100f00f16125dc43da84ba493a2137ebc017e7cba9a9632ff30",
         "groups": [
           "readings_song_titles"
+        ]
+      },
+      {
+        "before_sha256": "1a59fd029f7ca100f00f16125dc43da84ba493a2137ebc017e7cba9a9632ff30",
+        "after_sha256": "fc5bd6a3252ae85760be8182e93a4ccfea99ae90cb4cbb139f2c11a443c3eb65",
+        "groups": [
+          "reader_research_notes"
         ]
       }
     ],
