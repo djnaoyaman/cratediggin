@@ -46688,9 +46688,10 @@
       "lettering": "block",
       "letteringNote": "既存作品の転載ではない独自の文字表現。"
     },
-    "deck": "整いすぎないキックが、ラップの時間を別の角度から動かす。",
-    "essayTitle": "Questloveが足を止めたキック",
+    "deck": "Questloveが会場の正面へ引き返した、「Bullshit」の最初の出会い。",
+    "essayTitle": "ラジオ出演へ急ぐ足を、キックが引き止めた。",
     "essay": [
+      "Wax PoeticsでQuestloveが語る出会いには、時間制限もあった。The Rootsは前座を終えると、放送終了前のラジオ局へ向かうため、すぐバスに乗る必要があったという。それでもPharcydeの一曲目「Bullshit」のキックが気になり、彼はクラブの正面へ回った。ドラマーが足を止めた場面から、この曲の入口を辿りたい。",
       "1995年のセカンド作『Labcabincalifornia』を開く一曲。Jay Deeとして活動していたJ Dillaが制作を担当し、The Pharcydeの声を新しいリズム感へ導いた。前作を単純に再現するのではなく、制作陣と音の重心を変えたアルバムの入口でもある。",
       "この曲の重要さを具体的に語ったのがQuestloveだ。Wax Poeticsの取材で彼は、The Pharcydeの前座を終えて会場を離れようとした際、彼らの最初の曲だった「Bullshit」のキックに違和感を覚え、音を確かめようと会場の正面へ回ったと回想している。均等に揃わない打点は、ドラマーの耳を引き返させるほどの出来事だった。",
       "聴くときは、上に乗るラップとキックを一度別々に追ってみたい。声の流れを基準にする場合と、低い打点を基準にする場合とで、拍の感じ方がどう変わるか。Questloveの証言は、この曲を「メロウ」という形容だけで片づけず、リズムの設計に耳を向ける手掛かりになる。",
@@ -46753,7 +46754,27 @@
     "editorialStatus": "作品情報と曲別クレジットは出典をご覧ください。未確認のサンプル情報があり、聴き方は編者の考察です。",
     "collections": [],
     "editorialCrates": [],
-    "curationNote": "ユーザー指定曲。音源の公開プレイヤー情報を照合済み。実音声聴取・ブラウザ実再生は未確認。"
+    "curationNote": "ユーザー指定曲。音源の公開プレイヤー情報を照合済み。実音声聴取・ブラウザ実再生は未確認。",
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        0,
+        1
+      ]
+    ]
   },
   {
     "id": "mood-secrets-of-the-sand-jay-dee-remix",
@@ -46804,13 +46825,14 @@
       "lettering": "block",
       "letteringNote": "既存作品の転載ではない独自の文字表現。"
     },
-    "deck": "原曲と別の制作として、12インチのB面から聴き直す。",
-    "essayTitle": "曲名だけでは拾えないJay Deeのリミックス",
+    "deck": "Spin Doctorが「Secrets Of The Sand」に見いだした、簡潔さの強さ。",
+    "essayTitle": "Dillaを掘るDJが選んだ、余白のあるリミックス。",
     "essay": [
+      "Dilla追悼イベントを手がけるDJのSpin Doctorは、The Vinyl Factoryの選曲記事でMoodの「Secrets Of The Sand」をお気に入りのDilla作品に挙げている。彼が注目するのは、空間の多い作りと強いドラム、そして歌うようなコーラスだ。簡潔なのに印象が強い、というのが彼の評価である。ここではその批評を、原曲ではなくJay Dee版へ耳を向ける手がかりにする。",
       "Moodの「Secrets Of The Sand」をJay Deeがリミックスしたバージョン。タイトルの一致だけで『Doom』収録の原曲と同じ扱いにはできない。ここでは「Snakebacks」と組み合わされた12インチに収められたリミックスを対象にしている。",
       "現物を扱う販売店の曲目・制作表記では、A面「Snakebacks」はHi-Tek、B面「Secrets Of The Sand」のリミックスはJay Deeと区別されている。同じ盤の中で異なるプロデューサーの仕事を行き来できる点も、12インチという形で聴く面白さだ。",
       "現在の公式配信では曲名が「Secrets Of The Sand (Remix)」と短く表示されるため、配信タイトルだけではJay Dee版か判断しにくい。収録作品『Snakebacks/Secrets Of The Sand』と盤の曲目を合わせて照合し、別のリミックスや原曲を取り違えないようにしている。",
-      "初出の扱いは1999年のシングル資料と権利者配信を基準とする。聴き比べる際には、ラップそのものの魅力と、それをどの伴奏で聴かせるかというリミックスの役割を分けてみたい。サンプル名や制作機材は、裏付けのない推測を加えていない。"
+      "本ページの年は、1999年とするシングル販売資料と権利者配信を基準にしている。一方、Spin Doctorの記事には1998年の表記もあり、最初の発売時期は原盤資料での追加確認が必要だ。聴き比べる際には、ラップそのものの魅力と、それをどの伴奏で聴かせるかというリミックスの役割を分けてみたい。サンプル名や制作機材は、裏付けのない推測を加えていない。"
     ],
     "facts": [
       {
@@ -46850,6 +46872,11 @@
         "label": "発売情報・収録盤資料",
         "url": "https://www.cocobeat-records.com/products/detail/27208",
         "kind": "発売情報"
+      },
+      {
+        "url": "https://www.thevinylfactory.com/features/digging-for-donuts-15-slept-on-and-unreleased-j-dilla-cuts",
+        "label": "Spin Doctor / The Vinyl Factory — Digging for donuts",
+        "kind": "記名DJ選曲・批評"
       }
     ],
     "connections": [],
@@ -46862,7 +46889,31 @@
     "editorialStatus": "作品情報と曲別クレジットは出典をご覧ください。未確認のサンプル情報があり、聴き方は編者の考察です。",
     "collections": [],
     "editorialCrates": [],
-    "curationNote": "ユーザー指定曲。音源の公開プレイヤー情報を照合済み。実音声聴取・ブラウザ実再生は未確認。"
+    "curationNote": "ユーザー指定曲。音源の公開プレイヤー情報を照合済み。実音声聴取・ブラウザ実再生は未確認。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        0,
+        2,
+        4
+      ]
+    ]
   },
   {
     "id": "camp-lo-black-connection",
@@ -46913,9 +46964,10 @@
       "lettering": "block",
       "letteringNote": "既存作品の転載ではない独自の文字表現。"
     },
-    "deck": "Skiの制作と二人のラップを、アルバムの世界観の中で聴く。",
-    "essayTitle": "二人の声で組み上げる街の物語",
+    "deck": "1996年の取材記事が伝える、「Black Connection」の映画的な入口。",
+    "essayTitle": "ブルース・リーの映画から、二人の題名へ。",
     "essay": [
+      "Camp Lo公式サイトが再掲する1996年11月のVibe記事は、「Black Connection」をブルース・リーの『Chinese Connection』を踏まえた曲として紹介している。同じ記事でGeechi Suedeは、映画の切り口から入るMCは多くなかったので、その発想が気に入ったと語る。映画を背景の雰囲気だけでなく、曲の発想を探る入口として置いてみたい。",
       "Camp Loの『Uptown Saturday Night』に収録された1997年の一曲。公式配信ではSkiがプロデューサーとして記される。アルバムの代表的なシングルだけでなく、その内部へ踏み込む入口として「Black Connection」を置きたい。",
       "発売当時のCMJは、Sonny CheebaとGeechi Suedeの二人が1970年代のブラックスプロイテーション映画から受けた影響に触れ、アルバムの中でも「Black Connection」に可能性を見いだしている。一方で作品全体のスタイルには批判的でもあり、当初から無条件に称賛されていたと後付けする必要はない。 制作したSkiも2012年のインタビューで、本曲への強い愛着を語っている。",
       "二人組の曲として聴くなら、一人のヴァースだけを追うより、声が交代することで同じ伴奏の見え方がどう変わるかに注目したい。作品全体の映画的な設定を念頭に置きつつ、語り手の距離や受け渡しを聴くと、単なる心地よい背景音とは違う面が見えてくる。",
@@ -46966,6 +47018,11 @@
         "label": "Ski Beatzインタビュー — OfficialCampLo.com掲載",
         "url": "https://officialcamplo.com/2012/07/",
         "kind": "制作者本人の証言"
+      },
+      {
+        "url": "https://officialcamplo.com/category/interview/",
+        "label": "Camp Lo公式サイト / Vibe November 1996取材再掲",
+        "kind": "公式サイト再掲の本人取材"
       }
     ],
     "connections": [],
@@ -46978,7 +47035,25 @@
     "editorialStatus": "作品情報と曲別クレジットは出典をご覧ください。未確認のサンプル情報があり、聴き方は編者の考察です。",
     "collections": [],
     "editorialCrates": [],
-    "curationNote": "ユーザー指定曲。音源の公開プレイヤー情報を照合済み。実音声聴取・ブラウザ実再生は未確認。"
+    "curationNote": "ユーザー指定曲。音源の公開プレイヤー情報を照合済み。実音声聴取・ブラウザ実再生は未確認。",
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ]
+    ]
   },
   {
     "id": "the-roots-mellow-my-man",
@@ -47150,9 +47225,10 @@
       "lettering": "block",
       "letteringNote": "既存作品の転載ではない独自の文字表現。"
     },
-    "deck": "成功の眩しさだけでなく、そこへ至る時間を語る。",
-    "essayTitle": "Biggieが先に聴き取っていた「一曲」の形",
+    "deck": "Clark Kentが語る、「Sky’s The Limit」がスタジオを行き来した工程。",
+    "essayTitle": "ビートが出ていき、歌を連れて戻ってくる。",
     "essay": [
+      "Drink ChampsでClark Kentは、録音の全工程に立ち会ったわけではないと説明している。自分が録ったビートはPuffのスタジオへ渡り、ヴォーカルを伴って戻ったあと、112を加えるため再び送り出された。最後はKentのいるスタジオへ戻り、彼がミックスしたという。完成した共演の裏にある、録音を受け渡す順番が見えてくる。",
       "Clark Kentの回想によれば、このビートは最初からBiggieのソロ曲として用意されたわけではなかった。2017年のDrink Champsで彼は、Junior M.A.F.I.A.用の曲を選んでいたBiggieが、このトラックだけは自分のために欲しがったと話している。仲間のアルバムを組み立てる耳と、自身の次作を見据える耳が交わったところから「Sky’s The Limit」は始まった。",
       "同じ回想でKentは、当初Biggie自身がフックを歌い、その後112が加わったと説明する。完成形の甘いコーラスを、単なる外付けのR&B要素と考えるだけでは制作過程を取りこぼす。Biggieが先に持っていた曲の輪郭を、別の声へ渡していく工程もあった。これはKentの後年の証言として読むべき話で、未発表の初期版をここで試聴したという意味ではない。",
       "公式音源の紹介は、Bobby Caldwellの「My Flame」を使い、貧困から成功へ至るBiggie自身の経験を語る曲と位置づけている。その背景を踏まえるなら、聴く焦点は「成功」を祝うフックだけでなく、そこへ至る具体的な時間を語るヴァースとの距離にある。歌が掲げる希望と、ラップが積み重ねる来歴を行き来することで、この曲を単純な上昇志向の標語以上のものとして捉えられる。"
@@ -47211,7 +47287,21 @@
     "editorialStatus": "作品情報と曲別クレジットは出典をご覧ください。未確認のサンプル情報があり、聴き方は編者の考察です。",
     "collections": [],
     "editorialCrates": [],
-    "curationNote": "ユーザー指定曲。音源の公開プレイヤー情報を照合済み。実音声聴取・ブラウザ実再生は未確認。"
+    "curationNote": "ユーザー指定曲。音源の公開プレイヤー情報を照合済み。実音声聴取・ブラウザ実再生は未確認。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        0
+      ]
+    ]
   },
   {
     "id": "black-eyed-peas-duet",
@@ -47342,9 +47432,10 @@
       "verified": "2026-10-17",
       "official": true
     },
-    "deck": "Grand Pubaのソロ作から、言葉を主役にした一曲。",
-    "essayTitle": "Proper Education：作品と録音の背景",
+    "deck": "Grand Pubaの回想から見る、声が書類へ移される場面。",
+    "essayTitle": "歌詞を書き出して、とレーベルは言った。",
     "essay": [
+      "Paul Thompsonの取材で「Proper Education」などへの反発を問われたGrand Pubaは、レーベルが『Reel to Reel』の歌詞を書き出すよう求めたと振り返る。彼が断ると、別の人が雇われて転記したという。これは本人が語るアルバム全体の話で、この一曲が検閲された、という証言ではない。ラップを聴く側と文字で確かめる側の距離を考える入口になる。",
       "1992年のソロ・アルバム『Reel to Reel』収録。Tommy Boyの現行カタログでは11曲目に位置し、同レーベルの公式音源も公開されている。初出のElektraと現在の配信権利表記は区別して捉えたい。",
       "Grand Pubaはニューヨーク州New Rochelle出身。Masters of Ceremonyで活動し、Brand Nubianを経た後にソロ作を発表した。グループの一員として知られる声を、一枚のアルバムの中心に据え直した時期の曲である。",
       "曲別の盤クレジット転記では制作をGrand Pubaが担当し、Vaughn Sessionsがエンジニアとして記される。グループでの活動を経たMCが、自分の声と制作を一枚の作品にまとめる。その重なりが、このソロ作を辿る手がかりになる。"
@@ -47397,13 +47488,18 @@
         "label": "The Good Ol’Dayz — CDの曲別クレジット",
         "url": "https://www.thegoodoldayz.com/album/reel-to-reel/24934.html",
         "kind": "盤クレジット転記"
+      },
+      {
+        "url": "https://www.powmag.net/p/the-foundation-an-interview-with-grand-puba",
+        "label": "Paul Thompson / POW — Grand Puba interview",
+        "kind": "本人インタビュー"
       }
     ],
     "samples": [],
     "listening": [
       "MCと制作者の両方にGrand Pubaの名前があることを手がかりに、声と伴奏の関係を追う。"
     ],
-    "context": "1992年のソロ・アルバム『Reel to Reel』収録。Tommy Boyの現行カタログでは11曲目に位置し、同レーベルの公式音源も公開されている。初出のElektraと現在の配信権利表記は区別して捉えたい。",
+    "context": "MCとしての言葉と制作者としての仕事を、『Reel to Reel』の一曲から辿る。",
     "producers": [
       "Grand Puba"
     ],
@@ -47440,7 +47536,22 @@
     "yearBasis": "収録アルバムの原発売年。再発・配信公開年とは区別する。",
     "addedOrder": 384,
     "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
-    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。",
+    "essaySources": [
+      [
+        5
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "krs-one-uh-oh",
@@ -47465,9 +47576,10 @@
       "verified": "2026-10-17",
       "official": true
     },
-    "deck": "MCと制作、その両方にKRS-Oneの名前が刻まれた曲。",
-    "essayTitle": "Uh Oh：作品と録音の背景",
+    "deck": "Steve Juonが「Uh Oh」の自作ビートに見いだした、最小限の強さ。",
+    "essayTitle": "音を足すより、ビートボックスへ絞る。",
     "essay": [
+      "Steve “Flash” Juonは2002年のRapReviews評で、KRS-One自身の制作曲を評価するなか、「Uh Oh」の特徴として最小限のビートボックスを挙げている。豪華な制作陣の名前からだけではなく、MC本人が音を絞る方法から入る。この批評を手がかりに、声が言葉とリズムの両方を担う曲として聴いてみたい。",
       "1993年『Return of the Boom Bap』収録。DJ Premierの参加でも知られるアルバムだが、全曲を同じプロデューサーの仕事として括るべきではない。「Uh Oh」の配信クレジットにはKRS-One自身が制作とミックスの担当として記されている。",
       "詞曲はL. Parker名義。ラップの実演だけでなく、その声を乗せる録音の構成にも本人が関わる。MCとプロデューサーという役割の重なりを手がかりにすると、この曲はアルバムの中でも別の入口を開いてくれる。",
       "Jive提供のアルバム音源には、1993年のZombaの権利表記がある。再発盤でも『Return of the Boom Bap』の一曲として受け継がれ、MC自身の制作を聴く入口になっている。"
@@ -47515,13 +47627,18 @@
         "label": "Apple Music — オリジナルアルバム",
         "url": "https://music.apple.com/us/album/return-of-the-boom-bap/267251596",
         "kind": "配信"
+      },
+      {
+        "url": "https://www.rapreviews.com/2002/05/krs-one-return-of-the-boom-bap/",
+        "label": "Steve “Flash” Juon / RapReviews — Return of the Boom Bap",
+        "kind": "記名音楽批評"
       }
     ],
     "samples": [],
     "listening": [
       "KRS-Oneが制作とミックスも担う一曲として、ラップの切れ目と伴奏の関係を追う。"
     ],
-    "context": "1993年『Return of the Boom Bap』収録。DJ Premierの参加でも知られるアルバムだが、全曲を同じプロデューサーの仕事として括るべきではない。「Uh Oh」の配信クレジットにはKRS-One自身が制作とミックスの担当として記されている。",
+    "context": "KRS-One自身の制作クレジットから、声と伴奏の関係へ。",
     "producers": [
       "KRS-One"
     ],
@@ -47558,7 +47675,24 @@
     "yearBasis": "収録アルバムの原発売年。再発・配信公開年とは区別する。",
     "addedOrder": 385,
     "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
-    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1
+      ],
+      [
+        0,
+        2,
+        3
+      ]
+    ]
   },
   {
     "id": "fugees-vocab",
