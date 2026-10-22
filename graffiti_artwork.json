@@ -10237,6 +10237,25 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "freddie-gibbs-madlib-shame",
+      "title": "Shame (feat. BJ the Chicago Kid)",
+      "artist": "Freddie Gibbs & Madlib",
+      "album": "Piñata",
+      "palette": [
+        "#161716",
+        "#F1EEE6",
+        "#C9AA62",
+        "#676A4C"
+      ],
+      "paletteSource": "Piñata (2014) — standard cover",
+      "paletteNote": "公式Bandcampの標準盤ジャケットを2026-10-22に目視参照。黒・白・ラベルの金色・背景のくすんだ緑を近似。厳密な抽出ではない。写真・縞模様・既存題字は転載せず、制作時は独自の文字構成とする。",
+      "status": "ready",
+      "image": "assets/graffiti/freddie-gibbs-madlib-shame-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

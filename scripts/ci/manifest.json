@@ -4740,6 +4740,30 @@
       "legacy": false,
       "requires_build": false,
       "label": "simple-content-ci-preservation"
+    },
+    {
+      "id": "shame-addition",
+      "argv": [
+        "python",
+        "scripts/verify_shame_addition.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "shame-addition"
+    },
+    {
+      "id": "shame-addition-browser",
+      "argv": [
+        "node",
+        "scripts/verify_shame_addition_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "shame-addition-browser"
     }
   ],
   "groups": {
@@ -5583,6 +5607,10 @@
     "reader_research_notes": [
       "reader-research-notes",
       "reader-research-notes-browser"
+    ],
+    "shame_addition": [
+      "shame-addition",
+      "shame-addition-browser"
     ]
   },
   "runtime_rules": {
@@ -7527,7 +7555,8 @@
       "scripts/fixtures/approved-reader-research-notes.json"
     ],
     "scripts/approved_simple_content_ci.py": [
-      "scripts/fixtures/approved-simple-content-ci.json"
+      "scripts/fixtures/approved-simple-content-ci.json",
+      "scripts/approved_shame_addition.py"
     ],
     "scripts/verify_simple_content_ci.py": [
       "scripts/approved_simple_content_ci.py",
@@ -7537,6 +7566,20 @@
     "scripts/ci/test_simple_content.py": [
       "scripts/ci/select_checks.py",
       "scripts/ci/manifest.json"
+    ],
+    "scripts/approved_shame_addition.py": [
+      "scripts/fixtures/approved-shame-addition.json"
+    ],
+    "scripts/verify_shame_addition.py": [
+      "scripts/approved_shame_addition.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "releases.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_simple_content_ci.py"
+    ],
+    "scripts/verify_shame_addition_browser.cjs": [
+      "scripts/fixtures/approved-shame-addition.json"
     ]
   },
   "policy_paths": [
@@ -7817,7 +7860,9 @@
     "scripts/fixtures/approved-reader-research-notes.json",
     "scripts/approved_simple_content_ci.py",
     "scripts/fixtures/approved-simple-content-ci.json",
-    "scripts/verify_simple_content_ci.py"
+    "scripts/verify_simple_content_ci.py",
+    "scripts/approved_shame_addition.py",
+    "scripts/fixtures/approved-shame-addition.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -8992,6 +9037,13 @@
         "groups": [
           "research_batch79"
         ]
+      },
+      {
+        "before_sha256": "cbd05c0ac0713690839b48fa1c7e66da20298cb8d9aaf7638a747ccaa2e2e725",
+        "after_sha256": "06a246e2a7743cbc9e7f656f1edaed3f296e5a7c58585bba7ee5cd4fc8f57696",
+        "groups": [
+          "shame_addition"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -9331,6 +9383,13 @@
         "after_sha256": "b012e9826b582bec8821815a5e4deaf93a608020f9c9c606f391c6060cb6b43a",
         "groups": [
           "lost_in_thought"
+        ]
+      },
+      {
+        "before_sha256": "b012e9826b582bec8821815a5e4deaf93a608020f9c9c606f391c6060cb6b43a",
+        "after_sha256": "61de772ddfaefe2b3e47eeb18336a4af22a0e39be9a874a7f6a1c386a3c9e87c",
+        "groups": [
+          "shame_addition"
         ]
       }
     ],
@@ -9998,6 +10057,15 @@
         "after_sha256": "40a4aa6639476729d698fa067671c829fafc37c80afabce3235c3eef65f013e0",
         "groups": [
           "lost_in_thought"
+        ]
+      }
+    ],
+    "assets/graffiti/freddie-gibbs-madlib-shame-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "902f44c993e427b3f91688a8dffe4c468a76544b12611870d1a8d72fb61ab4cd",
+        "groups": [
+          "shame_addition"
         ]
       }
     ]
