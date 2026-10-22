@@ -4,6 +4,8 @@ R=Path(__file__).resolve().parents[1]
 F=json.loads((R/'scripts/fixtures/approved-research-batch50.json').read_text())
 sha=lambda b:hashlib.sha256(b).hexdigest()
 def historical_research_batch50_file(path,data):
+ from approved_research_batch51 import historical_research_batch51_file
+ data=historical_research_batch51_file(path,data)
  c=F['files'].get(path)
  if c is None:return data
  assert sha(data)==c['afterSHA256'],'Unapproved research pilot drift: '+path
