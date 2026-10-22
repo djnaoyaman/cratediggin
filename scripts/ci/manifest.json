@@ -4980,6 +4980,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "bank-addition-browser"
+    },
+    {
+      "id": "audio-source-labels",
+      "argv": [
+        "python",
+        "scripts/verify_audio_source_labels.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "audio-source-labels"
+    },
+    {
+      "id": "audio-source-labels-browser",
+      "argv": [
+        "node",
+        "scripts/verify_audio_source_labels_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "audio-source-labels-browser"
     }
   ],
   "groups": {
@@ -5863,6 +5887,10 @@
     "bank_addition": [
       "bank-addition",
       "bank-addition-browser"
+    ],
+    "audio_source_labels": [
+      "audio-source-labels",
+      "audio-source-labels-browser"
     ]
   },
   "runtime_rules": {
@@ -7960,7 +7988,8 @@
       "scripts/fixtures/approved-up-addition.json"
     ],
     "scripts/approved_bank_addition.py": [
-      "scripts/fixtures/approved-bank-addition.json"
+      "scripts/fixtures/approved-bank-addition.json",
+      "scripts/approved_audio_source_labels.py"
     ],
     "scripts/verify_bank_addition.py": [
       "scripts/approved_bank_addition.py",
@@ -7973,6 +8002,18 @@
     ],
     "scripts/verify_bank_addition_browser.cjs": [
       "scripts/fixtures/approved-bank-addition.json"
+    ],
+    "scripts/approved_audio_source_labels.py": [
+      "scripts/fixtures/approved-audio-source-labels.json"
+    ],
+    "scripts/verify_audio_source_labels.py": [
+      "scripts/approved_audio_source_labels.py",
+      "src/app/song-ui.js",
+      "src/app/player.js",
+      "tracks.json"
+    ],
+    "scripts/verify_audio_source_labels_browser.cjs": [
+      "scripts/fixtures/approved-audio-source-labels.json"
     ]
   },
   "policy_paths": [
@@ -8273,7 +8314,9 @@
     "scripts/approved_up_addition.py",
     "scripts/fixtures/approved-up-addition.json",
     "scripts/approved_bank_addition.py",
-    "scripts/fixtures/approved-bank-addition.json"
+    "scripts/fixtures/approved-bank-addition.json",
+    "scripts/approved_audio_source_labels.py",
+    "scripts/fixtures/approved-audio-source-labels.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -8432,6 +8475,13 @@
         "groups": [
           "live_video_year_labels"
         ]
+      },
+      {
+        "before_sha256": "6796ca1e0ebe8ede8c3619fd6af2785410d247728bb627e79dceb8769e942c0a",
+        "after_sha256": "7b914a297133b1f5faf0e545439652040e320f570e3bf01e1e22eb8b9eaa3648",
+        "groups": [
+          "audio_source_labels"
+        ]
       }
     ],
     "src/app/router.js": [
@@ -8502,6 +8552,13 @@
         "after_sha256": "65abe58ac464e6623940aebbbca5acb278f540110d65adfee3e77f31976f8f7d",
         "groups": [
           "reader_research_notes"
+        ]
+      },
+      {
+        "before_sha256": "65abe58ac464e6623940aebbbca5acb278f540110d65adfee3e77f31976f8f7d",
+        "after_sha256": "9be068242bd7a74855b021ed997f67a60d2b5c46cc404249418ac2ef69fd279b",
+        "groups": [
+          "audio_source_labels"
         ]
       }
     ],
