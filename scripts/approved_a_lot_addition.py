@@ -6,7 +6,8 @@ raw=(R/'scripts/fixtures/approved-a_lot-addition.json').read_bytes()
 assert sha(raw)=='23d5f9ac959cc7b389c08ddc82a8628076acd7dacf78714f626dd3e00be93a57','Immutable addition fixture changed'
 F=json.loads(raw)
 def current_a_lot_addition_file(path,data):
- return data
+ from approved_trapped_in_addition import historical_trapped_in_addition_file
+ return historical_trapped_in_addition_file(path,data)
 def historical_a_lot_addition_file(path,data):
  data=current_a_lot_addition_file(path,data)
  c=F['files'].get(path)

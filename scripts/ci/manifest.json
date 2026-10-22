@@ -5076,6 +5076,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "a-lot-addition-browser"
+    },
+    {
+      "id": "trapped-in-addition",
+      "argv": [
+        "python",
+        "scripts/verify_trapped_in_addition.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "trapped-in-addition"
+    },
+    {
+      "id": "trapped-in-addition-browser",
+      "argv": [
+        "node",
+        "scripts/verify_trapped_in_addition_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "trapped-in-addition-browser"
     }
   ],
   "groups": {
@@ -5975,6 +5999,10 @@
     "a_lot_addition": [
       "a-lot-addition",
       "a-lot-addition-browser"
+    ],
+    "trapped_in_addition": [
+      "trapped-in-addition",
+      "trapped-in-addition-browser"
     ]
   },
   "runtime_rules": {
@@ -8133,7 +8161,8 @@
       "scripts/fixtures/approved-off_da_zoinkys-addition.json"
     ],
     "scripts/approved_a_lot_addition.py": [
-      "scripts/fixtures/approved-a_lot-addition.json"
+      "scripts/fixtures/approved-a_lot-addition.json",
+      "scripts/approved_trapped_in_addition.py"
     ],
     "scripts/verify_a_lot_addition.py": [
       "scripts/approved_a_lot_addition.py",
@@ -8146,6 +8175,21 @@
     ],
     "scripts/verify_a_lot_addition_browser.cjs": [
       "scripts/fixtures/approved-a_lot-addition.json"
+    ],
+    "scripts/approved_trapped_in_addition.py": [
+      "scripts/fixtures/approved-trapped_in-addition.json"
+    ],
+    "scripts/verify_trapped_in_addition.py": [
+      "scripts/approved_trapped_in_addition.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "releases.json",
+      "artist_entities.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_a_lot_addition.py"
+    ],
+    "scripts/verify_trapped_in_addition_browser.cjs": [
+      "scripts/fixtures/approved-trapped_in-addition.json"
     ]
   },
   "policy_paths": [
@@ -8454,7 +8498,9 @@
     "scripts/approved_off_da_zoinkys_addition.py",
     "scripts/fixtures/approved-off_da_zoinkys-addition.json",
     "scripts/approved_a_lot_addition.py",
-    "scripts/fixtures/approved-a_lot-addition.json"
+    "scripts/fixtures/approved-a_lot-addition.json",
+    "scripts/approved_trapped_in_addition.py",
+    "scripts/fixtures/approved-trapped_in-addition.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9734,6 +9780,13 @@
         "groups": [
           "a_lot_addition"
         ]
+      },
+      {
+        "before_sha256": "0973373561a61de9364b6910ab5ba82d5e8702b3aa07e30c33f4aafbfa125721",
+        "after_sha256": "4cd13b5d90eba0d2e1422df9b0cc8ccd6393fcad628eeeb16edc4cd4529f0f4d",
+        "groups": [
+          "trapped_in_addition"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -10165,6 +10218,13 @@
         "groups": [
           "a_lot_addition"
         ]
+      },
+      {
+        "before_sha256": "e4642ee347701e9f4fb2232a68eaa3939ef84fa3ab8091356da2ef7a53e6bc1d",
+        "after_sha256": "4155e6d4e96696193568754815916b8b84a5fca3b2ceb070087bd71269c0e225",
+        "groups": [
+          "trapped_in_addition"
+        ]
       }
     ],
     "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
@@ -10371,6 +10431,13 @@
         "after_sha256": "cd0d0c9c8cb058c6eb6fb854f0358c6f6a61f62288eb5bc107c0b5a08f876e8c",
         "groups": [
           "a_lot_addition"
+        ]
+      },
+      {
+        "before_sha256": "cd0d0c9c8cb058c6eb6fb854f0358c6f6a61f62288eb5bc107c0b5a08f876e8c",
+        "after_sha256": "c07c11e5e0482924f6b379e9ee234d63f23f44411b46566c6608bfaf947049c3",
+        "groups": [
+          "trapped_in_addition"
         ]
       }
     ],
@@ -11011,6 +11078,15 @@
         "after_sha256": "ec757b1570898d608e0b4c07bc92283c7eabc9313a64a259ec85aa6303363262",
         "groups": [
           "a_lot_addition"
+        ]
+      }
+    ],
+    "assets/graffiti/reason-trapped-in-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "17b54e5c0ffc2c08f37dcface626f9377371d124f5ab836d79a220d055d1cc04",
+        "groups": [
+          "trapped_in_addition"
         ]
       }
     ]

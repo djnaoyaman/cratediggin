@@ -10500,6 +10500,26 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "reason-trapped-in",
+      "title": "Trapped In",
+      "artist": "REASON feat. Boogie & Ab-Soul",
+      "album": "Trapped In - Single",
+      "palette": [
+        "#0b0b0b",
+        "#333333",
+        "#777777",
+        "#f0f0f0"
+      ],
+      "paletteSource": "Trapped In - Single — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/ca/song/1501687337",
+      "paletteNote": "公式掲載カバーの黒・白・灰を配色だけの参照に使用。人物、ロゴ、構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/reason-trapped-in-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
