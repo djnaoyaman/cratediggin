@@ -3768,6 +3768,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "research-batch41-browser"
+    },
+    {
+      "id": "research-batch42",
+      "argv": [
+        "python",
+        "scripts/verify_research_batch42.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "research-batch42"
+    },
+    {
+      "id": "research-batch42-browser",
+      "argv": [
+        "node",
+        "scripts/verify_research_batch42_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "research-batch42-browser"
     }
   ],
   "groups": {
@@ -4449,6 +4473,10 @@
     "research_batch41": [
       "research-batch41",
       "research-batch41-browser"
+    ],
+    "research_batch42": [
+      "research-batch42",
+      "research-batch42-browser"
     ]
   },
   "runtime_rules": {
@@ -5910,7 +5938,8 @@
       "scripts/fixtures/approved-research-batch40.json"
     ],
     "scripts/approved_research_batch41.py": [
-      "scripts/fixtures/approved-research-batch41.json"
+      "scripts/fixtures/approved-research-batch41.json",
+      "scripts/approved_research_batch42.py"
     ],
     "scripts/verify_research_batch41.py": [
       "scripts/approved_research_batch41.py",
@@ -5918,6 +5947,16 @@
     ],
     "scripts/verify_research_batch41_browser.cjs": [
       "scripts/fixtures/approved-research-batch41.json"
+    ],
+    "scripts/approved_research_batch42.py": [
+      "scripts/fixtures/approved-research-batch42.json"
+    ],
+    "scripts/verify_research_batch42.py": [
+      "scripts/approved_research_batch42.py",
+      "scripts/approved_lost_in_thought.py"
+    ],
+    "scripts/verify_research_batch42_browser.cjs": [
+      "scripts/fixtures/approved-research-batch42.json"
     ]
   },
   "policy_paths": [
@@ -6115,7 +6154,9 @@
     "scripts/approved_research_batch40.py",
     "scripts/fixtures/approved-research-batch40.json",
     "scripts/approved_research_batch41.py",
-    "scripts/fixtures/approved-research-batch41.json"
+    "scripts/fixtures/approved-research-batch41.json",
+    "scripts/approved_research_batch42.py",
+    "scripts/fixtures/approved-research-batch42.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -7008,6 +7049,13 @@
         "after_sha256": "b8ecf0c5b533b1f7c97ee9b5a3e2ea73debd3c59f72d20c1d08030cb4a638f38",
         "groups": [
           "research_batch41"
+        ]
+      },
+      {
+        "before_sha256": "b8ecf0c5b533b1f7c97ee9b5a3e2ea73debd3c59f72d20c1d08030cb4a638f38",
+        "after_sha256": "1a8fccd767aea830dffdbfa3d569433beab919a2127f84d6bc9e5d1158d92a28",
+        "groups": [
+          "research_batch42"
         ]
       }
     ],
