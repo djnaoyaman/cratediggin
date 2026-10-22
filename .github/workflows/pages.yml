@@ -25,6 +25,13 @@ jobs:
       - uses: actions/checkout@v6
         with:
           fetch-depth: 0
+      - name: Set up patched Node.js
+        uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6
+        with:
+          node-version: '24.22.1'
+          package-manager-cache: false
+      - name: Verify patched Node.js runtime
+        run: node -e "if (process.versions.node !== '24.22.1') throw new Error('Unexpected Node.js runtime'); console.log(process.version)"
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
