@@ -10971,9 +10971,11 @@
       "lettering": "brush",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "音楽との関係を、一つの物語として聴く。",
-    "essayTitle": "変わる音楽、物語に残る愛着",
+    "deck": "Commonが後年語った、1994年の不満と、その先にあるヒップホップへの愛情。",
+    "essayTitle": "愛しているから、変化に戸惑う。",
     "essay": [
+      "Commonは2019年、Ryan Leasの取材で「I Used to Love H.E.R.」は当時のヒップホップへの不満を歌った曲だったと振り返った。一方、新しい「HER Love」は、若い世代が文化を進めることへの祝福だという。同じ愛情でも、相手を自分の望む姿へ戻そうとするのか、変わっていく姿を受け入れるのかで言葉は変わる。この比較は、1994年の曲をただの懐古ではなく、愛する音楽との距離を測った記録として読む手がかりになる。",
+      "その言葉は、制作側の想定を越えて受け取られた。No I.D.は2023年のAl Shipleyの取材で、Ice Cube側からの反応は予想外だったと説明している。Commonが反撃曲を作ろうとした際には、争いが本物なのかを確かめ、そうではないと判断してビートを作らなかったという。本曲への反応と、その後の応酬を一続きの作戦として見ないこと。二人が常に同じ判断をしたわけではない、という当事者の留保も残しておきたい。",
       "音楽との関係を、一つの物語として聴く。",
       "物語を追ったあと、同じ曲を音楽との距離の話として聴き直したい。好きなものが変わっていくとき、好きだった自分も一緒に残る。その感覚が重なる。"
     ],
@@ -10989,14 +10991,24 @@
     "samples": [],
     "sampleStatus": "個別調査中。サンプル不使用を意味しません。",
     "listening": [
-      "音楽との関係を、一つの物語として聴く。"
+      "原曲のあとに「HER Love」へ進み、ヒップホップとの関係を語る言葉を比べてみる。"
     ],
-    "context": "物語を追ったあと、同じ曲を音楽との距離の話として聴き直したい。好きなものが変わっていくとき、好きだった自分も一緒に残る。その感覚が重なる。",
+    "context": "1994年の本曲と2019年の「HER Love」は別の録音。後年の回想を手がかりに、二つの時点を分けて読む。",
     "sources": [
       {
         "label": "YouTube — Common / I Used to Love H.E.R.",
         "url": "https://www.youtube.com/watch?v=FJmGBMx7LNw",
         "kind": "公式配信情報"
+      },
+      {
+        "label": "Stereogum — Ryan LeasによるCommon取材（2019）",
+        "url": "https://stereogum.com/2056009/common-kanye-west-hell-on-wheels-john-wick-glory-oscars/interviews",
+        "kind": "本人への取材"
+      },
+      {
+        "label": "Stereogum — Al ShipleyによるNo I.D.取材（2023）",
+        "url": "https://stereogum.com/2239092/weve-got-a-file-on-you-no-i-d/interviews",
+        "kind": "本人への取材"
       }
     ],
     "producers": [
@@ -11012,7 +11024,17 @@
       "cafe",
       "walk"
     ],
-    "noteReviewedAt": "2026-10-17"
+    "noteReviewedAt": "2026-10-17",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [],
+      []
+    ]
   },
   {
     "id": "common-the-light",
@@ -21943,6 +21965,7 @@
     "deck": "客の席から、EPMDの最初のアルバムへ。",
     "essayTitle": "商売の名前で、始まる。",
     "essay": [
+      "2008年のAllHipHop取材で、Erick SermonはZZ Topのループを使った初期形を地元で聴かせ、ギターを外すよう勧められたと回想。Parrish Smithも、多くのループをミュートし、ハイハットとベース、声の断片が残ったと説明する。重ねるだけでなく、引くことで形になった曲だ。",
       "You’re a Customer。客だと言われて、急に店先に立たされた気がする。EPMDの商売に関する題名は、どこか人を食っている。こちらも財布を握りしめる代わりに、好きな音を見つけに行けばいい。",
       "1988年の『Strictly Business』に収められた一曲。公式音源の配信欄に後年の日付があっても、年表ではアルバムの初出年へ置く。デジタルの名札と、レコードが最初に出た時間を取り違えないためだ。",
       "同じ棚のYou Gots to Chillへ続けて聴いてみる。一枚の看板を、代表曲ひとつだけで読み終えない。客にだって寄り道する権利はある。その権利は、レコード屋では大いに使うべきだと思う。"
@@ -21980,6 +22003,11 @@
         "label": "Apple Music — Strictly Business初出情報",
         "url": "https://music.apple.com/us/song/721248543",
         "kind": "配信情報"
+      },
+      {
+        "label": "AllHipHop — EPMDによる曲別制作回想（2008）",
+        "url": "https://allhiphop.com/reviews-music/class-of-88-strictly-business/",
+        "kind": "本人への取材"
       }
     ],
     "producers": [
@@ -22002,6 +22030,14 @@
     "datePublished": "2026-10-14",
     "artists": [
       "EPMD"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [],
+      [],
+      []
     ]
   },
   {
@@ -22367,9 +22403,11 @@
       "lettering": "subway",
       "letteringNote": "地域と聴感をもとにした独自の編集判断。地域全体の固定的な書体を意味しない。"
     },
-    "deck": "人生の荒さと、古いソウルの温度が同じ場所にある。",
-    "essayTitle": "ため息にも、音楽は付く。",
+    "deck": "あらかじめ決めた客演ではなかった。AZ自身が振り返る、スタジオでの成り行き。",
+    "essayTitle": "応援に来たAZが、録音へ加わる。",
     "essay": [
+      "AZはKhalid Stricklandの取材で、「Life’s a Bitch」への参加は計画していたものではなかったと語る。Nasのスタジオへ行くのは二、三度目。音楽が流れる中で言葉を口にしていると、Nasから録音を促されたという。本人は、それをアルバムの穴埋めにするのかと聞き返したほどだった。後から見える名場面と、その場にいた人の手応えは同じではない。",
+      "Nicholas Maltbyの取材では、AZはNasと約一年電話で話してから実際に会い、録音現場には応援のつもりで来ていたと説明している。さらにヴァース中の「schweppervesence」という言葉について、子どもの頃によく見た広告から来たと思う、と振り返った。言葉の響きが口と頭に浮かび、その時の話題に合ったという。大きな人生観だけでなく、記憶に残った広告の一語も、このラップの材料になっている。",
       "人生は厄介だという話に、反対する材料はそう多くない。だが、その話を音楽にしてしまうと、ただの愚痴とは違うものになる。Nasの隣にはAZがいて、さらにOlu Daraの名前がある。重い題名の下に、人の輪郭が並んでいる。",
       "『Illmatic』の一曲を、The Gap BandのYearning for Your Loveまで戻って聴く。同じ音の時間を辿ると、1994年の景色が1980年のレコードに触れていることが見える。過去の音は、慰めだけでなく、新しい言葉の居場所にもなる。",
       "AZの声が気になったら、次は彼のソロへ行けばいい。一曲の客演が、そのまま別の人生への入口になる。厄介な世の中にも、こういう親切な道案内は残っている。私には、それだけでも聴く理由になる。"
@@ -22417,6 +22455,16 @@
         "label": "サンプル関係の確認 — The Gap Band / Yearning for Your Love",
         "url": "https://glidemagazine.com/324119/golden-age-thursday-samples-the-gap-bands-yearning-for-your-love-1980-gets-positioned-alongside-hip-hop-heavyweights-like-nas-1994-the-pharcyde-1995/",
         "kind": "サンプル照合"
+      },
+      {
+        "label": "Insomniac Magazine — Khalid StricklandによるAZ取材",
+        "url": "https://insomniacmagazine.com/az-interview-by-khalid-j-strickland/",
+        "kind": "本人への取材"
+      },
+      {
+        "label": "Interview — Nicholas MaltbyによるAZ取材",
+        "url": "https://www.interviewmagazine.com/music/az",
+        "kind": "本人への取材"
       }
     ],
     "producers": [
@@ -22439,6 +22487,17 @@
       "Nas",
       "AZ",
       "Olu Dara"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [],
+      [],
+      []
     ]
   },
   {
