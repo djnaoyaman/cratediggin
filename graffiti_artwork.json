@@ -10316,6 +10316,26 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "strong-arm-steady-chittlins-pepsi",
+      "title": "Chittlins & Pepsi",
+      "artist": "Strong Arm Steady",
+      "album": "In Search of Stoney Jackson",
+      "palette": [
+        "#a53731",
+        "#d9b849",
+        "#287d80",
+        "#eee0b7",
+        "#161411"
+      ],
+      "paletteSource": "In Search of Stoney Jackson — 公式アルバムカバー",
+      "paletteNote": "Black central afro portrait with cream lettering; concentric irregular red, ochre, muted teal and dark bands; teal jacket.; visual approximation, not exact extraction.",
+      "status": "ready",
+      "image": "assets/graffiti/strong-arm-steady-chittlins-pepsi-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

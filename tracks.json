@@ -67630,5 +67630,125 @@
       "paletteSourceUrl": "https://bbemusic.com/product/the-shining",
       "paletteNote": "deep red patterned field, ochre/gold silhouette medallion, cream lettering; visual approximation, not exact extraction."
     }
+  },
+  {
+    "id": "strong-arm-steady-chittlins-pepsi",
+    "title": "Chittlins & Pepsi",
+    "artist": "Strong Arm Steady",
+    "artists": [
+      "Strong Arm Steady",
+      "Planet Asia"
+    ],
+    "year": 2009,
+    "album": "In Search of Stoney Jackson",
+    "producer": "Madlib",
+    "producers": [
+      "Madlib"
+    ],
+    "label": "Stones Throw",
+    "region": "California",
+    "scene": "California",
+    "category": "Hip Hop",
+    "essayTitle": "選び取ったビートに、Planet Asiaを迎えて",
+    "deck": "J.Roccが渡した多数のMadlib作品から生まれた共作。その一曲にPlanet Asiaが加わります。",
+    "essay": [
+      "「Chittlins & Pepsi」は、Strong Arm SteadyがPlanet Asiaを迎え、Madlibの制作で録音した曲です。『In Search of Stoney Jackson』の公式曲目では3曲目。グループ名とプロデューサー名だけでなく、客演者の名まで追うことで、このアルバムの人のつながりが見えてきます。",
+      "制作の入口を作ったのはJ.Roccでした。Stones Throwの発売告知によると、彼はStrong Arm Steadyに約200曲のMadlib作品を渡し、選べるようにしたといいます。すでに『Liberation』でも交わっていた作り手たちが、今度はアルバム一枚の共作へ進みました。大量の素材があることと、一枚を作ることの間には、選ぶという仕事があります。",
+      "アルバムのクレジットには、録音場所としてロサンゼルスのStrong Arm Studios、ミックスにDJ BabuとMadlibが記されています。2010年夏にはHenry Demaio監督の本曲の映像も発表されました。ビートを渡す人、声を加える人、録音をまとめる人、映像を作る人。一曲から制作の輪をたどると、Madlib一人の仕事としては捉えきれない共作の姿が見えてきます。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "listening": [],
+    "aliases": [
+      "Chitlins & Pepsi",
+      "Chitlins & Pepsi feat.Planet Asia"
+    ],
+    "yearBasis": "Stones Throwは2009年12月14日に先行デジタル配信を告知。一般発売日と選定配信の版情報は2010年1月26日。",
+    "versionBasis": "Planet Asiaを迎えたオリジナル歌入り版。選定音源は2010年のアルバム配信で、2009年の先行配信とは年を区別する。インスト版・ミュージックビデオではなく、依頼ミックスとのマスター同一性は未確認。",
+    "context": "2009年の先行配信と2010年の一般発売を区別して、アルバムの共作関係を読む。",
+    "facts": [],
+    "sources": [
+      {
+        "label": "Stones Throw — In Search of Stoney Jackson公式商品ページ",
+        "url": "https://www.stonesthrow.com/store/in-search-of-stoney-jackson/",
+        "kind": "レーベル公式資料"
+      },
+      {
+        "label": "Stones Throw — In Search of Stoney Jackson先行配信告知",
+        "url": "https://www.stonesthrow.com/news/strong-arm-steady-in-search-of-stoney-jackson/",
+        "kind": "レーベル公式資料"
+      },
+      {
+        "label": "YouTube公式配信 — Chittlins & Pepsi",
+        "url": "https://www.youtube.com/watch?v=9IiAs2_6UHs",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Stones Throw — Chittlins & Pepsi映像公開告知",
+        "url": "https://www.stonesthrow.com/news/video-strong-arm-steady-pepsi-chittlins/",
+        "kind": "レーベル公式資料"
+      }
+    ],
+    "youtube": {
+      "id": "9IiAs2_6UHs",
+      "url": "https://www.youtube.com/watch?v=9IiAs2_6UHs",
+      "title": "Chittlins & Pepsi",
+      "provider": "Stones Throw Records LLC",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-22",
+      "embedUrl": "https://www.youtube.com/embed/9IiAs2_6UHs",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "オリジナル・アルバム歌入り版（公式配信）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式配信説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-22",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく制作背景の解説。音源の実再生は未確認。",
+    "addedOrder": 520,
+    "datePublished": "2026-10-22",
+    "art": {
+      "word": "CHITTLINS & PEPSI",
+      "tag": "STRONG ARM STEADY",
+      "lines": [
+        "CHITTLINS",
+        "& PEPSI"
+      ],
+      "style": "piece",
+      "seed": 201003,
+      "palette": [
+        "#a53731",
+        "#d9b849",
+        "#287d80",
+        "#eee0b7",
+        "#161411"
+      ],
+      "paletteSource": "In Search of Stoney Jackson — 公式アルバムカバー",
+      "paletteSourceUrl": "https://www.stonesthrow.com/store/in-search-of-stoney-jackson/",
+      "paletteNote": "Black central afro portrait with cream lettering; concentric irregular red, ochre, muted teal and dark bands; teal jacket.; visual approximation, not exact extraction."
+    }
   }
 ]
