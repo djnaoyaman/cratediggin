@@ -10400,6 +10400,25 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "sonny-digital-black-boe-up",
+      "title": "Up",
+      "artist": "Sonny Digital & Black Boe",
+      "album": "Black Goat 2",
+      "palette": [
+        "#050505",
+        "#dfcba8",
+        "#f0eadf"
+      ],
+      "paletteSource": "Black Goat 2 — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://www.qobuz.com/se-en/album/black-goat-2-sonny-digital-black-boe/tl6kyvqu96kub",
+      "paletteNote": "黒とクリームの公式カバーを配色だけの参照に使用。カバーのヤギ型文字・ロゴ・構図は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/sonny-digital-black-boe-up-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

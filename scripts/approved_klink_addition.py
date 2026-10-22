@@ -6,7 +6,8 @@ raw=(R/'scripts/fixtures/approved-klink-addition.json').read_bytes()
 assert sha(raw)=='0ef9a3f31804c247011b791146c39e6790f084b1c63d1f9e4dc5f2d8f29057c4','Immutable addition fixture changed'
 F=json.loads(raw)
 def current_klink_addition_file(path,data):
- return data
+ from approved_up_addition import historical_up_addition_file
+ return historical_up_addition_file(path,data)
 def historical_klink_addition_file(path,data):
  data=current_klink_addition_file(path,data)
  c=F['files'].get(path)
