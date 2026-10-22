@@ -35791,12 +35791,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "名を呼びかける声とフックの繰り返しを聴く。",
-    "essayTitle": "名を呼ぶ声が、フックで繰り返される",
+    "deck": "「JRH」を、前作から続く曲としてたどる。",
+    "essayTitle": "二枚のアルバムに、二つの「Shakiyla」。",
     "essay": [
-      "Poor Righteous Teachersの「Shakiyla (JRH)」。まず耳を向けたいのは、名を呼びかける声とフックの繰り返しだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Pure Poverty』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "1991年という数字をいったん脇へ置き、声とリズムの関係から聴いてみたい。名盤の知識はあとからでも追いつける。まず「Shakiyla (JRH)」という名前と、自分の耳に残った場所を結びつけておく。"
+      "『Pure Poverty』の冒頭曲「Shakiyla (JRH)」には、前作『Holy Intellect』の「Shakiyla」という比較相手がある。AlbumismのJesse Duckerは、この曲を前作の再解釈として紹介し、黒人女性への愛情を表す曲と読んでいる。",
+      "同じ題名の曲が、次のアルバムでは別の形で置かれる。二つの収録版を順に聴き、言葉と伴奏のどちらに連続性を感じるか確かめたい。「JRH」の略語の意味は、この資料でも明らかにされていない。"
     ],
     "facts": [
       {
@@ -35818,10 +35817,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "名を呼びかける声とフックの繰り返し。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "『Holy Intellect』版と『Pure Poverty』版を区別して聴き比べる。"
     ],
-    "context": "1991年のHip Hop選曲。『Pure Poverty』の作品情報と音源の版を分けて掲載。",
+    "context": "同名曲の再解釈という、二枚のアルバムをまたぐ入口。",
     "sources": [
       {
         "label": "PoorRightTeachVEVO / Poor Righteous Teachers - Shakiyla (Official Video)",
@@ -35842,6 +35840,11 @@
         "label": "Shakiyla (JRH) [Vocal] - Music Video by Poor Righteous Teachers - Shazam",
         "url": "https://www.shazam.com/song/1065982213/shakiyla-jrh-vocal/music-video",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Jesse Ducker / Albumism — Pure Poverty",
+        "url": "https://albumism.com/features/poor-righetous-teachers-pure-poverty-album-anniversary",
+        "kind": "記名批評・資料"
       }
     ],
     "producers": [],
@@ -35859,7 +35862,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "3rd-bass-derelicts-of-dialect",
@@ -35905,12 +35916,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "表題曲で交差する声とことばの勢いを聴く。",
-    "essayTitle": "表題曲で声が交差し、ことばが走る",
+    "deck": "Pete Niceが語る、表題曲から決まったアルバムの方向。",
+    "essayTitle": "先にあった構想に、Prince Paulがループを持ち込んだ。",
     "essay": [
-      "3rd Bassの「Derelicts Of Dialect」。まず耳を向けたいのは、表題曲で交差する声とことばの勢いだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Derelicts of Dialect』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "1991年という数字をいったん脇へ置き、声とリズムの関係から聴いてみたい。名盤の知識はあとからでも追いつける。まず「Derelicts Of Dialect」という名前と、自分の耳に残った場所を結びつけておく。"
+      "Pete Niceによれば、「Derelicts of Dialect」では、3rd Bass側にすでに曲の構想があり、Prince Paulが9th Creationのループを持ってきた。完成したビートに言葉を載せるだけではなく、互いの案を投げ返す共同作業だったという。",
+      "彼は、この曲がおそらくアルバムで最初に作った録音で、前作より暗い方向を定めたとも振り返る。ここでいう「暗さ」はPete Nice自身の説明だ。表題曲を先に置き、そのあとアルバムへ進むと、彼らが選んだ方向を一曲からたどれる。"
     ],
     "facts": [
       {
@@ -35932,10 +35942,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "表題曲で交差する声とことばの勢い。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "表題曲を起点にアルバムへ進み、Pete Niceのいう方向性を確かめる。"
     ],
-    "context": "1991年のHip Hop選曲。『Derelicts of Dialect』の作品情報と音源の版を分けて掲載。",
+    "context": "曲の構想とサンプルの提案が出会い、アルバムの起点になる。",
     "sources": [
       {
         "label": "3rd Bass - Topic / Derelicts Of Dialect",
@@ -35956,6 +35965,11 @@
         "label": "I Buy Way Too Many Records Dot Com: 3rd Bass - Derelicts of Dialect 2xLP",
         "url": "https://www.ibuywaytoomanyrecords.com/2021/05/3rd-bass-derelicts-of-dialect-2xlp.html",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Pete Nice / Ryan Proctor — Old To The New Q&A Part Three",
+        "url": "https://oldtothenew.wordpress.com/2013/04/20/old-to-the-new-qa-prime-minister-pete-nice-part-three/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -35976,7 +35990,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "tim-dog-i-ain-t-havin-it-feat-kool-keith",
@@ -36022,12 +36044,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "二人の個性がぶつかる声の対照を聴く。",
-    "essayTitle": "Tim DogとKool Keith、声の個性がぶつかる",
+    "deck": "DJ Fatboyが見いだした、商業化されたラップへの異議。",
+    "essayTitle": "敵は西海岸だけではなかった。",
     "essay": [
-      "Tim Dogの「I Ain't Havin' It (feat. Kool Keith)」。まず耳を向けたいのは、二人の個性がぶつかる声の対照だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Penicillin on Wax』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "1991年という数字をいったん脇へ置き、声とリズムの関係から聴いてみたい。名盤の知識はあとからでも追いつける。まず「I Ain't Havin' It (feat. Kool Keith)」という名前と、自分の耳に残った場所を結びつけておく。"
+      "Tim Dogを「Fuck Compton」だけで捉えると、「I Ain’t Havin’ It」の批判対象を見落とす。RapReviewsのDJ Fatboyは、この曲がポップなラッパーとストリートとの距離を問題にしていると評し、終盤ではKwame、Kid ’n Play、Hammer、Vanilla Iceへ批判が向かうと説明している。",
+      "これは制作者の意図を直接聞いた証言ではなく、評者による歌詞の読みだ。その区別を残したうえで、地域の対立から、売られ方への反発へと焦点を移して聴いてみたい。何をラップとして認めないのか、拒否の対象を追う入口になる。"
     ],
     "facts": [
       {
@@ -36048,10 +36069,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "二人の個性がぶつかる声の対照。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "批判が誰に、何に向けられているかを追う。"
     ],
-    "context": "1991年のHip Hop選曲。『Penicillin on Wax』の作品情報と音源の版を分けて掲載。",
+    "context": "東西対立だけでなく、ラップの商業化をめぐる批評として読む。",
     "sources": [
       {
         "label": "Tim Dog - Topic / I Ain't Havin' It",
@@ -36072,6 +36092,11 @@
         "label": "Music | Kool Keith",
         "url": "https://officialkoolkeith.bandcamp.com/music",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "DJ Fatboy / RapReviews — Penicillin on Wax",
+        "url": "https://www.rapreviews.com/archive/BTTL_penicillinonwax.html",
+        "kind": "記名批評・資料"
       }
     ],
     "producers": [],
@@ -36089,7 +36114,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "ll-cool-j-the-boomin-system",
@@ -36135,12 +36168,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "低音を鳴らすこと自体をテーマにするラップを聴く。",
-    "essayTitle": "低音を鳴らすことが、ラップの主題になる",
+    "deck": "別の曲から生まれた題名。",
+    "essayTitle": "LLの声を、次の曲の種に。",
     "essay": [
-      "LL Cool Jの「The Boomin' System」。まず耳を向けたいのは、低音を鳴らすこと自体をテーマにするラップだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Mama Said Knock You Out』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Doin' It」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "Marley Marlによれば、「Cheesy Rat Blues」のLLの一節から新しい曲名を思いつき、その声をサンプリングして「The Boomin’ System」を作ったという。",
+      "二曲をこの順で聴き、言葉のつながりをたどりたい。"
     ],
     "facts": [
       {
@@ -36162,10 +36194,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "低音を鳴らすこと自体をテーマにするラップ。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "二曲の言葉を比べる。"
     ],
-    "context": "1990年のHip Hop選曲。『Mama Said Knock You Out』の作品情報と音源の版を分けて掲載。",
+    "context": "Marley Marlの制作回想。",
     "sources": [
       {
         "label": "LLCoolJVEVO / LL COOL J - The Boomin' System (Official Music Video)",
@@ -36186,6 +36217,11 @@
         "label": "‎The Boomin' System (Mixed) - Song by LL COOL J - Apple Music",
         "url": "https://music.apple.com/us/song/1844995778",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Marley Marl / Vanity Fair — Mama Said Knock You Out",
+        "url": "https://www.vanityfair.com/culture/2015/08/ll-cool-j-mama-said-knock-you-out-marley-marl-interview",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [],
@@ -36205,7 +36241,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "cypress-hill-hand-on-the-pump",
@@ -36251,12 +36295,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "耳に残るフックと声のリズムを聴く。",
-    "essayTitle": "フックを覚えたら、声のリズムへ戻る",
+    "deck": "Oliver Wangがクラブで体験した、長く引き延ばされた冒頭。",
+    "essayTitle": "ビートを待たせるだけで、入口が変わる。",
     "essay": [
-      "Cypress Hillの「Hand On The Pump」。まず耳を向けたいのは、耳に残るフックと声のリズムだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Cypress Hill』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Stoned Is The Way Of The Walk」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "「Hand on the Pump」の冒頭を、DJがいつもより長く繰り返した。Heat RocksでOliver Wangは、クラブでそんな場面に出会い、来るはずのビートを待つ時間が期待を高めたと振り返っている。曲そのものの録音と、DJがその場で作る展開は別だ。",
+      "同じ番組でWangは、Gene Chandlerの「Duke of Earl」をループへ変えた発想にも注目する。原曲とのつながりを確認したあと、Cypress Hillの録音ではビートが入るまでどう待つのかを聴いてみたい。Wangの体験は、冒頭だけでもDJの扱い方が変わりうることを教えてくれる。"
     ],
     "facts": [
       {
@@ -36278,10 +36321,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "耳に残るフックと声のリズム。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "原曲「Duke of Earl」と本曲の冒頭を比較し、ビートが入る場所に注目する。"
     ],
-    "context": "1991年のHip Hop選曲。『Cypress Hill』の作品情報と音源の版を分けて掲載。",
+    "context": "録音の入口と、それを伸ばすDJの操作を分けて考える。",
     "sources": [
       {
         "label": "Cypress Hill - Topic / Hand On the Pump",
@@ -36302,6 +36344,11 @@
         "label": "‎Hand On the Pump - Song with Lyrics by Cypress Hill - Apple Music",
         "url": "https://music.apple.com/us/song/920149934",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Oliver Wang / Heat Rocks — Cypress Hill transcript",
+        "url": "https://maximumfun.org/transcripts/heat-rocks/transcript-heat-rocks-ep-140-felicia-angeja-viator-on-cypress-hills-cypress-hill-1991/",
+        "kind": "記名批評・資料"
       }
     ],
     "producers": [
@@ -36323,7 +36370,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "de-la-soul-oodles-of-o-s",
@@ -36369,12 +36424,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "言葉遊びとフレーズの受け渡しを聴く。",
-    "essayTitle": "言葉遊びを次のフレーズへ手渡す",
+    "deck": "題名の答えも、三人で一つとは限らない。",
+    "essayTitle": "Daveの思いつきを、Posは語尾の「O」と受け取った。",
     "essay": [
-      "De La Soulの「Oodles Of O's」。まず耳を向けたいのは、言葉遊びとフレーズの受け渡しだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『De La Soul Is Dead』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Shopping Bags (She Got from You)」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "「Oodles of O’s」のOとは何なのか。LA Weeklyに尋ねられたPosdnuosは、Daveが考えたことだと答え、自分はOで終わるものについての曲と解釈した、と説明している。本人の回答にも「自分はこう受け取った」という余白がある。",
+      "題名を一つの正解へ閉じず、語尾に注意して聴いてみたい。仲間の発想を完全に説明しきらなくても、別のメンバーが自分なりに受け取り、曲を一緒に作れる。この短いやりとりは、その関係をのぞかせる。"
     ],
     "facts": [
       {
@@ -36396,10 +36450,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "言葉遊びとフレーズの受け渡し。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "Posdnuosの説明を手掛かりに、Oで終わる言葉を追ってみる。"
     ],
-    "context": "1991年のHip Hop選曲。『De La Soul Is Dead』の作品情報と音源の版を分けて掲載。",
+    "context": "Daveの発想とPosdnuosの受け取り方を区別する。",
     "sources": [
       {
         "label": "WeAreDeLaSoul / De La Soul - Oodles of O's (Official Audio)",
@@ -36420,6 +36473,11 @@
         "label": "‎Oodles of O's - Song with Lyrics by De La Soul - Apple Music",
         "url": "https://music.apple.com/us/song/1664602255",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Posdnuos / Jeff Weiss — LA Weekly interview",
+        "url": "https://www.laweekly.com/a-conversation-with-posdnuos-of-de-la-soul-on-nike-run-mixes-the-current-state-of-hip-hop-and-oodles-of-os/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [],
@@ -36439,7 +36497,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "brand-nubian-love-me-or-leave-me-alone",
@@ -36601,12 +36667,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "二人の異なる声が作るフロウを聴く。",
-    "essayTitle": "違う声ふたつ、フロウの作り方",
+    "deck": "「How to Flow」が並ぶ、もう一つの曲順。",
+    "essayTitle": "自分たちのアルバムから、映画のサントラへ。",
     "essay": [
-      "Nice & Smoothの「How To Flow」。まず耳を向けたいのは、二人の異なる声が作るフロウだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Ain't a Damn Thing Changed』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "1991年という数字をいったん脇へ置き、声とリズムの関係から聴いてみたい。名盤の知識はあとからでも追いつける。まず「How To Flow」という名前と、自分の耳に残った場所を結びつけておく。"
+      "「How to Flow」は『Ain’t a Damn Thing Changed』だけでなく、映画『Strictly Business』のサウンドトラックにも入っている。Muziekwebの所蔵CD目録では、Jodeciの「Let’s Fly」とHeavy D & The Boyzの「Let the People Sing」の間が、この曲の位置だ。",
+      "二人のアルバムで聴く場合と、映画のために集められた複数の歌い手の間で聴く場合。その順番を変え、同じ曲の入り方がどう感じられるか確かめたい。映画のどの場面で流れるかや、両盤のマスターの同一性までは、この目録からは分からない。"
     ],
     "facts": [
       {
@@ -36628,10 +36693,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "二人の異なる声が作るフロウ。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "単独アルバムと『Strictly Business』の曲順で聴き、前後のつながりを比べる。"
     ],
-    "context": "1991年のHip Hop選曲。『Ain't a Damn Thing Changed』の作品情報と音源の版を分けて掲載。",
+    "context": "映画サントラの収録順を、別の聴き方への入口にする。",
     "sources": [
       {
         "label": "Nice & Smooth - Topic / How To Flow",
@@ -36652,6 +36716,11 @@
         "label": "Nice & Smooth / How To Flow (12 Inch) - Vinyl Cycle Records",
         "url": "https://vinylcycle.com/?pid=142292720",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Muziekweb / Strictly Business — 所蔵CD目録",
+        "url": "https://www.muziekweb.nl/Link/HFX1296/Strictly-business-Original-motion-picture-soundtrack",
+        "kind": "図書館所蔵CD目録"
       }
     ],
     "producers": [
@@ -36672,7 +36741,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "showbiz-a-g-he-say-she-say",
