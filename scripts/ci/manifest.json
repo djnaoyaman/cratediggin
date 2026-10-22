@@ -4812,6 +4812,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "no-sleep-addition-browser"
+    },
+    {
+      "id": "baby-addition",
+      "argv": [
+        "python",
+        "scripts/verify_baby_addition.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "baby-addition"
+    },
+    {
+      "id": "baby-addition-browser",
+      "argv": [
+        "node",
+        "scripts/verify_baby_addition_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "baby-addition-browser"
     }
   ],
   "groups": {
@@ -5667,6 +5691,10 @@
     "no_sleep_addition": [
       "no-sleep-addition",
       "no-sleep-addition-browser"
+    ],
+    "baby_addition": [
+      "baby-addition",
+      "baby-addition-browser"
     ]
   },
   "runtime_rules": {
@@ -7654,7 +7682,8 @@
       "scripts/fixtures/approved-knicks-addition.json"
     ],
     "scripts/approved_no_sleep_addition.py": [
-      "scripts/fixtures/approved-no-sleep-addition.json"
+      "scripts/fixtures/approved-no-sleep-addition.json",
+      "scripts/approved_baby_addition.py"
     ],
     "scripts/verify_no_sleep_addition.py": [
       "scripts/approved_no_sleep_addition.py",
@@ -7667,6 +7696,20 @@
     ],
     "scripts/verify_no_sleep_addition_browser.cjs": [
       "scripts/fixtures/approved-no-sleep-addition.json"
+    ],
+    "scripts/approved_baby_addition.py": [
+      "scripts/fixtures/approved-baby-addition.json"
+    ],
+    "scripts/verify_baby_addition.py": [
+      "scripts/approved_baby_addition.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "releases.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_no_sleep_addition.py"
+    ],
+    "scripts/verify_baby_addition_browser.cjs": [
+      "scripts/fixtures/approved-baby-addition.json"
     ]
   },
   "policy_paths": [
@@ -7953,7 +7996,9 @@
     "scripts/approved_knicks_addition.py",
     "scripts/fixtures/approved-knicks-addition.json",
     "scripts/approved_no_sleep_addition.py",
-    "scripts/fixtures/approved-no-sleep-addition.json"
+    "scripts/fixtures/approved-no-sleep-addition.json",
+    "scripts/approved_baby_addition.py",
+    "scripts/fixtures/approved-baby-addition.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9149,6 +9194,13 @@
         "groups": [
           "no_sleep_addition"
         ]
+      },
+      {
+        "before_sha256": "57f0a74d026efdb7f1e6f9c3a43f30b9446ae4d5bdb306fa379b6bb42e3b640d",
+        "after_sha256": "8fc1d2076bbdcf9b2693ebd8995de6da17f2c72a0a2f92fb78ff00cec9ec16f2",
+        "groups": [
+          "baby_addition"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -9509,6 +9561,13 @@
         "after_sha256": "a985b79a5855733d712b9fc9cb709872e06c73a1fd249c958114dde2a705fd3c",
         "groups": [
           "no_sleep_addition"
+        ]
+      },
+      {
+        "before_sha256": "a985b79a5855733d712b9fc9cb709872e06c73a1fd249c958114dde2a705fd3c",
+        "after_sha256": "e094f4ddc33af946bf03009b9cb8c860c9cf900a88ee0ea0ede10bc9ae1f94d4",
+        "groups": [
+          "baby_addition"
         ]
       }
     ],
@@ -10210,6 +10269,15 @@
         "after_sha256": "3742d1f76ac496bd132b9c4c2f9022a56c307c6b73896ea37e06eac1efd2c447",
         "groups": [
           "no_sleep_addition"
+        ]
+      }
+    ],
+    "assets/graffiti/j-dilla-baby-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "456f53deca1f27e8beb4ec24cf7d4b3618e7c79c2b7c943a14b4f0e8d30a181d",
+        "groups": [
+          "baby_addition"
         ]
       }
     ]
