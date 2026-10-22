@@ -49244,9 +49244,10 @@
       "letteringNote": "既存作品の転載ではない独自の文字表現。",
       "paletteNote": "公式カタログ・配信サービスの画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。"
     },
-    "deck": "GZAの世界を知っていても、Mos Defの声で聴き直す余地がある。",
-    "essayTitle": "同じ伴奏が、違うMCを浮かび上がらせる。",
+    "deck": "Mosの再解釈を頂点としたGlideと、物足りないとしたPitchfork。",
+    "essayTitle": "同じ「Liquid Swords」で、批評が割れた。",
     "essay": [
+      "2007年の発売期評を並べると、「Crime & Medicine」への期待の違いがはっきりする。GlideのJack SpilbergはGZA曲の解釈をアルバムの頂点としたが、PitchforkのSean Fennesseyは元曲の言葉の鋭さや強度が欠けると評した。これは二人の批評家の判断であって、どちらかをこの曲の結論にする必要はない。",
       "「Crime & Medicine」は『True Magic』の5曲目。公式配信ではMos Def自身がプロデューサーとして記載される。同時代のレビューが揃って指摘するのは、GZAの「Liquid Swords」との明確なつながりだ。すでに記憶されている伴奏を別のMCが引き受けることで、声そのものの違いが浮かび上がる。",
       "2007年2月のGlide評は、Mosによるこの解釈をアルバムの好場面とした。一方、同年1月のPitchfork評は同じ再利用を厳しく評価している。同じ事実から評価が分かれるところに、この曲を掘る面白さがある。名曲というひとことで結論を借りず、自分の耳で二つの声を比べてみる。",
       "アルバムの外見も通常と違った。AllMusicの発売期レビューは、初回CDが紙のアートワークを持たず、透明ケースとステッカーで流通したことを記録している。装丁をそぎ落とした作品と、よく知られた伴奏へ新しい言葉を置く曲。その両方が、このアルバムをめぐる賛否の風景に残っている。",
@@ -49319,7 +49320,29 @@
     ],
     "addedOrder": 397,
     "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
-    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。",
+    "essaySources": [
+      [
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2
+      ],
+      [
+        1,
+        3
+      ]
+    ]
   },
   {
     "id": "krs-one-marley-marl-the-victory",
@@ -49376,9 +49399,10 @@
       "letteringNote": "既存作品の転載ではない独自の文字表現。",
       "paletteNote": "公式カタログ・配信サービスの画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。"
     },
-    "deck": "勝利とは、昔の相手をもう一度倒すことだけではない。",
-    "essayTitle": "対立の物語を、共同制作で書き換える。",
+    "deck": "KRS-Oneが語る、Marley Marlとの共同盤が動き出した瞬間。",
+    "essayTitle": "一曲を選ぶはずが、九曲すべて録った。",
     "essay": [
+      "KRS-Oneは2007年のUnkut取材で、Marleyから九つのトラックを受け取り、一つ選ぶよう言われたのに、全部に録音して返したと話している。その後House of Hitsで作業し、約四日で三、四十曲を録ったという。これは「The Victory」単独の録音日数ではなく、収録アルバム全体の制作回想だ。かつての対立だけでなく、ビートに応える速さにも、この組み合わせを知る手がかりがある。",
       "KRS-OneとMarley Marlの2007年作『Hip Hop Lives』。「The Victory」にはBlaq Poetも加わる。かつて別の側に立っていた人々が同じレコードへ名前を並べる。その事実だけでも、この曲にはヒップホップの歴史を読み直す入口がある。",
       "ただし、発売年になって突然仲直りしたという単純な話にはしない。2007年のUnkutによる直接取材でKRSは、Marleyとは以前から友人だったと語り、過去の対立だけで二人を捉える見方を正そうとしている。共同アルバムは関係の誕生というより、本人たちの実像を音で示す機会でもあった。",
       "同じインタビューでKRSは、Marleyから送られた9曲をすべて録音し、その後House of Hitsでアルバム制作を進めたと回想する。一曲を選ぶはずが、九曲全部を返す。二人の共同作業を動かしたのは、過去の物語だけではなく、届いたビートへすぐに応じるMCの意欲だった。",
@@ -49438,7 +49462,25 @@
     ],
     "addedOrder": 398,
     "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
-    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ]
   },
   {
     "id": "handsome-boy-modeling-school-if-it-wasnt-for-you",
@@ -49483,9 +49525,10 @@
       "letteringNote": "既存作品の転載ではない独自の文字表現。",
       "paletteNote": "公式カタログ・配信サービスの画像を目視確認した編集上の近似配色。厳密な色抽出値ではない。"
     },
-    "deck": "Prince PaulとDan the Automatorの架空の学校へ、De La SoulとStarchild Excaliburが登場。2004年の共同制作をつなぐ一曲。",
-    "essayTitle": "架空の学校に集まる、本物の声。",
+    "deck": "De La Soulの隣にある名義を、Mike Van Olden本人の話からたどる。",
+    "essayTitle": "Starchild Excaliburは、誰なのか。",
     "essay": [
+      "この曲に客演したStarchild Excaliburは、Drum Crazyシリーズでも知られるMike Van Oldenの別名義。2008年のDirty Waters取材では本人が本曲への参加を挙げ、仕事ごとに名前を変えたのは、過去の活動から生まれる期待に縛られたくなかったからだと説明している。架空の学校だけでなく、参加者にも名義を使い分ける理由があった。",
       "Handsome Boy Modeling Schoolの名前には、最初から少し芝居がかった可笑しさがある。Prince PaulとDan the Automatorが組み、架空のモデル学校という設定をまとって音楽をつくる。その二人の2004年作『White People』で、「If It Wasn’t for You」はDe La SoulとStarchild Excaliburを迎えた曲として置かれている。",
       "ここで大切なのは、客演の名前を飾りとして並べるだけで終わらないことだ。制作側にPrince Paul、ラップ側にDe La Soulという組み合わせを意識すると、グループの作品から共同プロジェクトへ視線が移る。別名義のアルバムは、誰かの脇道ではなく、音楽家同士のつながりが見える交差点でもある。",
       "Warnerの公式紹介では、二人はナサニエル・メリーウェザーとチェスト・ロックウェルというモデルの人格まで用意している。1999年の前作から5年を経たセカンド作でも、その大掛かりな遊びは続く。顔ぶれの豪華さだけでなく、架空の学校という舞台が参加者たちをどう迎えるかにも、このプロジェクトの可笑しさがある。",
@@ -49535,6 +49578,11 @@
         "label": "Tommy Boy公式音源",
         "url": "https://www.youtube.com/watch?v=i1GZhvLhRpI",
         "kind": "公式"
+      },
+      {
+        "label": "Dirty Waters — Mike Van Olden本人インタビュー（2008年1月29日）",
+        "url": "https://dirtywaters.blogspot.com/2008/01/mike-van-olden-interview.html",
+        "kind": "本人取材"
       }
     ],
     "producers": [
@@ -49548,7 +49596,24 @@
     ],
     "addedOrder": 399,
     "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
-    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。"
+    "sampleStatus": "個別確認中。未掲載はサンプル不使用を意味しない。",
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "cipher-complete-bring-hip-hop-back",
@@ -49580,9 +49645,10 @@
         "kind": "source reference"
       }
     ],
-    "deck": "新人の声が、コンピレーションを越えて届く。",
-    "essayTitle": "一曲から、次の扉が開く。",
+    "deck": "Flashへの取材が残す、Cipher Completeに届いた次の機会。",
+    "essayTitle": "Rawkusの一曲から、Unsigned Hypeへ。",
     "essay": [
+      "Julz ManciniによるFlashの取材記事は、「Bring Hip Hop Back」の収録後、Cipher CompleteがThe Sourceの「Unsigned Hype」で紹介され、Elektraから契約を提示されたと伝える。有名な顔ぶれの中に入った一曲は、無名のデュオが次の機会へ進む接点でもあった。記事が述べるのは契約の提示であり、Elektraからアルバムが発売されたという話ではない。",
       "1998年の『Lyricist Lounge, Vol. 1』は、すでに知られた名前と、これから覚えられる名前が並ぶ場所だった。Cipher Completeの「Bring Hip Hop Back」は、その後者から聴いてみたい一曲だ。",
       "Dorsey Wesleyが制作・録音・ミックスを担う。表に立つデュオの名前と、その声をレコードへまとめる人の名前。クレジットは、短い曲の背後にある作業の輪を見せてくれる。",
       "メンバーのFlashにとって、この収録は業界への入口になった。Rawkusという大きな看板を先に見るだけでなく、ここから何かが始まった一人の側へ立ってみる。コンピレーションの聴き方が、少し変わる。"
@@ -49638,7 +49704,21 @@
       "letteringNote": "既存作品の転載ではない独自の文字表現。"
     },
     "addedOrder": 400,
-    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "common-like-they-used-to-say",
@@ -49680,9 +49760,10 @@
         "kind": "record sleeve"
       }
     ],
-    "deck": "CommonとDug Infinite。シングルのもう一面を、制作の人脈から掘る。",
-    "essayTitle": "もう一面にも、シカゴの時間が流れている。",
+    "deck": "Dug Infiniteの回想から、Commonと出会ったスタジオへ戻る。",
+    "essayTitle": "二台のSP-1200がつないだ仲間。",
     "essay": [
+      "Dug Infiniteは2016年のFake Shore Drive取材で、No I.D.と二台のSP-1200をミキサーにつなぎ、Commonらがそのビートで一晩中フリースタイルしていたと振り返る。これは「Like They Used to Say」の機材を特定する証言ではなく、二人が出会った制作環境の話だ。Dugの名が載るシングルの片面から、録音以前に積み重なった交流をたどれる。",
       "Commonの「Like They Used to Say」は、1999年の「One-Nine-Nine-Nine」と対になったシングル曲。大きく刷られたCommonの名前の下に、片面ごとに違う制作者の仕事がある。",
       "こちらを手掛けるのはDug Infinite。「One-Nine-Nine-Nine」のHi-Tekとは別の接点から、Commonの声を囲む。歌い手を軸にレコードを集めていても、制作名義へ目を移すだけで別の地図が開く。",
       "DugとCommonをつないだのはNo I.D.だった。シカゴでビートを流し、フリースタイルを交わし、集まる場所を維持した仲間たち。この一曲から、その日常へ少し戻ってみたい。"
@@ -49739,7 +49820,22 @@
       "letteringNote": "既存作品の転載ではない独自の文字表現。"
     },
     "addedOrder": 401,
-    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        3
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0
+      ]
+    ]
   },
   {
     "id": "black-eyed-peas-que-dices",
@@ -49779,11 +49875,17 @@
         "label": "Forbes — Steve BaltinによるBlack Eyed Peas取材（2018）",
         "url": "https://www.forbes.com/sites/stevebaltin/2018/01/18/how-black-eyed-peas-came-back-more-determined-than-ever/",
         "kind": "primary source / original reporting"
+      },
+      {
+        "label": "LOS40 — Taboo本人インタビュー（2023年5月18日）",
+        "url": "https://los40.com/los40/2023/05/18/musica/1684409718_513206.html/",
+        "kind": "本人取材"
       }
     ],
-    "deck": "will.i.amと仲間たちの制作をたどる、初期Black Eyed Peasの一曲。",
-    "essayTitle": "デビュー盤へ、クレジットから戻る。",
+    "deck": "Tabooが語った「Que Dices?」と「Constant」のつながり。",
+    "essayTitle": "二十年後にも使った、デビュー盤のヴァース。",
     "essay": [
+      "Tabooは2023年のLOS40取材で、2018年の「Constant」を「Que Dices?」の延長と説明し、昔の曲のヴァースを取り入れたと語った。デビュー盤は、本人たちが後年の制作へ持ち帰る素材でもあった。",
       "Black Eyed Peasの「Que Dices?」を、1998年のアルバム『Behind the Front』に収められた形で聴く。後年の巨大なヒット曲を知るほど、最初のアルバムには先入観を外して向き合いたくなる。",
       "曲別クレジットのWilliam Adamsはwill.i.amの本名。そこにBrian Lapin、Kevin Feyen、Allan Pineda、J. Gomezの名前が重なる。スターの前史というだけでなく、人が集まり作品を作る現場として捉えたい。",
       "本人たちは後年、初期の自分たちのラップが新しい制作への刺激になったと語っている。過去を置き去りにした、あるいは戻った、と線を一本引くより、時代をまたいで自分たちへ問いかける音楽として聴くほうが面白い。"
@@ -49840,7 +49942,23 @@
       "letteringNote": "既存作品の転載ではない独自の文字表現。"
     },
     "addedOrder": 402,
-    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        3
+      ]
+    ]
   },
   {
     "id": "shadez-of-brooklyn-change",
@@ -49890,9 +50008,10 @@
       "lettering": "block",
       "letteringNote": "既存作品の転載ではない独自の文字表現。"
     },
-    "deck": "Mr. Walt、Tone The Backbone、D&D Studios。原盤ラベルから音の輪郭へ。",
-    "essayTitle": "ピアノとドラムの間に、証言が立つ。",
+    "deck": "大学論文に収められた本人のメール取材が、「Change」へつながる。",
+    "essayTitle": "Mr. Waltが挙げた、Ahmad Jamalとの接点。",
     "essay": [
+      "2015年のMarta Chludilováの卒業論文には、Mr. Waltへのメール取材が収録されている。Ahmad Jamalがヒップホップへ与えた影響を尋ねられ、彼は具体例にShadez Of Brooklynの「Change」を挙げた。ここで確認できるのは制作者自身が示したつながりであり、この回答だけから使用曲や切り取った箇所までは決められない。",
       "1996年の「Change」は、Shadez Of BrooklynがPandemonium Wrekordzから出したシングル。『When It Rains It Pours (Survival Warz)』と組み合わされ、街の名前を掲げた声が一枚の12インチになった。",
       "制作はMr. Walt、キーボードはTone The Backbone。D&D Studiosという録音場所までラベルに残っている。目立つ名前だけでなく、こうした小さな記載から曲へ入る方法もある。",
       "当時のGavin Reportが拾ったのは、物憂いピアノ、強いドラム、淡々とした語りの取り合わせだった。その見取り図を借りて、伴奏の余韻と声の距離を追ってみたい。"
@@ -49936,6 +50055,11 @@
         "label": "SOB 001原盤A面ラベル画像",
         "url": "https://www.thegoodoldayz.com/album/change-when-it-rains-it-pours/30370.html",
         "kind": "original label scan"
+      },
+      {
+        "label": "Marta Chludilová — Ahmad Jamal論文、付録2：Mr. Waltメール取材（2015、印刷55頁）",
+        "url": "https://library.upol.cz/arl-upol/cs/csg/?key=82154352257&repo=upolrepo",
+        "kind": "本人取材／大学所蔵論文"
       }
     ],
     "connections": [],
@@ -49946,7 +50070,21 @@
       "east"
     ],
     "addedOrder": 403,
-    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。"
+    "editorialStatus": "公式音源の公開情報で曲名と投稿者を確認しています。サイト内での実再生は未確認です。",
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "brand-nubian-love-vs-hate",
@@ -50210,9 +50348,10 @@
       "profile": "ny-subway",
       "letteringNote": "既存作品の転載ではない独自の文字表現。"
     },
-    "deck": "Danger MouseとMF DOOM。二人の名前が、一つの架空世界になる。",
-    "essayTitle": "仮面の向こうで、作者が遊ぶ。",
+    "deck": "Max Mertensが「Mince Meat」を知ったのは、Punk-O-Rama 10だった。",
+    "essayTitle": "パンクのコンピから、DOOMに出会う。",
     "essay": [
+      "音楽ライターMax MertensはTone Glowへの寄稿で、弟が持ち帰った『Punk-O-Rama 10』から「Mince Meat」を知ったと回想している。NOFXやThe Offspringと同じ盤に入っていたDOOM。彼は当時Adult Swimの引用を理解できなかったが、曲の言葉に引き込まれたという。作品の背景をすべて知るより先に、別のジャンルのコンピが出会いを作った一例だ。",
       "「Mince Meat」は、Danger MouseとMF DOOMによるDANGERDOOMの2005年作『The Mouse & The Mask』に入っている。共同名義が、そのまま二人の役割を思い出させる。声の主と、その声の舞台をつくる人だ。",
       "DOOMはキャラクターを使うことで、一人称を実生活の証明から解き放とうとした。話し手の誇張を、作者自身の告白へ即座に置き換えない。そうして聴くと、ラップの中に置かれた想像力へ近づける。",
       "アルバムの図案も、一度では読み切れない。仮面と耳、色の粒と小さな災厄。遠くから見える形と、近づいて見える内容が違う。一曲を入口に、言葉とパッケージの両方を覗いてみたい。"
@@ -50260,6 +50399,11 @@
         "label": "The Wire — MF DOOM本人への2005年取材（Stones Throw転載）",
         "url": "https://www.stonesthrow.com/news/mask-of-sorrow/",
         "kind": "primary interview"
+      },
+      {
+        "label": "Tone Glow — Max Mertens「Mince Meat」回想（In Memoriam: MF DOOM）",
+        "url": "https://toneglow.substack.com/p/in-memoriam-mf-doom",
+        "kind": "記名批評／筆者の体験記"
       }
     ],
     "producers": [
@@ -50275,7 +50419,23 @@
     ],
     "members": "Danger Mouse、MF DOOM",
     "addedOrder": 406,
-    "editorialStatus": "Danger Mouse公式チャンネルの音源。公開情報では日本を含む地域での配信が案内されています。サイト内での実再生と、従来の配信音源との同一マスターの確認はできていません。"
+    "editorialStatus": "Danger Mouse公式チャンネルの音源。公開情報では日本を含む地域での配信が案内されています。サイト内での実再生と、従来の配信音源との同一マスターの確認はできていません。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        3
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "the-grouch-eligh-everafter",
