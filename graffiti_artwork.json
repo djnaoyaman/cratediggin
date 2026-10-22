@@ -10275,6 +10275,28 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "skepta-no-sleep",
+      "title": "No Sleep",
+      "artist": "Skepta",
+      "album": "Ignorance Is Bliss",
+      "palette": [
+        "#111113",
+        "#078696",
+        "#195A8D",
+        "#FF5A18",
+        "#FFE335",
+        "#FFF1A6"
+      ],
+      "paletteSource": "Ignorance Is Bliss — artist official store standard cover",
+      "paletteSourceUrl": "https://imagedelivery.net/7yy6dErF9hbNfcqoZCcxBA/4a933f0c-a546-40b7-2ac2-5a755b85ac00/public",
+      "paletteNote": "1000x1000 PNG visually inspected: black frame, thermal-photo cyan/teal/blue with yellow/orange/red highlights. Approximate palette, not an exact extraction.",
+      "status": "ready",
+      "image": "assets/graffiti/skepta-no-sleep-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

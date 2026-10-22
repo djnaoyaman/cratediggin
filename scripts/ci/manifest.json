@@ -4788,6 +4788,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "knicks-addition-browser"
+    },
+    {
+      "id": "no-sleep-addition",
+      "argv": [
+        "python",
+        "scripts/verify_no_sleep_addition.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "no-sleep-addition"
+    },
+    {
+      "id": "no-sleep-addition-browser",
+      "argv": [
+        "node",
+        "scripts/verify_no_sleep_addition_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "no-sleep-addition-browser"
     }
   ],
   "groups": {
@@ -5639,6 +5663,10 @@
     "knicks_addition": [
       "knicks-addition",
       "knicks-addition-browser"
+    ],
+    "no_sleep_addition": [
+      "no-sleep-addition",
+      "no-sleep-addition-browser"
     ]
   },
   "runtime_rules": {
@@ -7611,7 +7639,8 @@
       "scripts/fixtures/approved-shame-addition.json"
     ],
     "scripts/approved_knicks_addition.py": [
-      "scripts/fixtures/approved-knicks-addition.json"
+      "scripts/fixtures/approved-knicks-addition.json",
+      "scripts/approved_no_sleep_addition.py"
     ],
     "scripts/verify_knicks_addition.py": [
       "scripts/approved_knicks_addition.py",
@@ -7623,6 +7652,21 @@
     ],
     "scripts/verify_knicks_addition_browser.cjs": [
       "scripts/fixtures/approved-knicks-addition.json"
+    ],
+    "scripts/approved_no_sleep_addition.py": [
+      "scripts/fixtures/approved-no-sleep-addition.json"
+    ],
+    "scripts/verify_no_sleep_addition.py": [
+      "scripts/approved_no_sleep_addition.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "releases.json",
+      "artist_entities.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_knicks_addition.py"
+    ],
+    "scripts/verify_no_sleep_addition_browser.cjs": [
+      "scripts/fixtures/approved-no-sleep-addition.json"
     ]
   },
   "policy_paths": [
@@ -7907,7 +7951,9 @@
     "scripts/approved_shame_addition.py",
     "scripts/fixtures/approved-shame-addition.json",
     "scripts/approved_knicks_addition.py",
-    "scripts/fixtures/approved-knicks-addition.json"
+    "scripts/fixtures/approved-knicks-addition.json",
+    "scripts/approved_no_sleep_addition.py",
+    "scripts/fixtures/approved-no-sleep-addition.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9096,6 +9142,13 @@
         "groups": [
           "knicks_addition"
         ]
+      },
+      {
+        "before_sha256": "2f4a93548f01694067716a03637f5b88866a74c9255653a50bab8ddf508f2754",
+        "after_sha256": "57f0a74d026efdb7f1e6f9c3a43f30b9446ae4d5bdb306fa379b6bb42e3b640d",
+        "groups": [
+          "no_sleep_addition"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -9450,6 +9503,13 @@
         "groups": [
           "knicks_addition"
         ]
+      },
+      {
+        "before_sha256": "5e2c54892b3016d9dfe41f46ba1e1265b8b648ac342e6b847f952f3ab7882baf",
+        "after_sha256": "a985b79a5855733d712b9fc9cb709872e06c73a1fd249c958114dde2a705fd3c",
+        "groups": [
+          "no_sleep_addition"
+        ]
       }
     ],
     "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
@@ -9593,6 +9653,13 @@
         "after_sha256": "2e0d96ff5e9f1556184d08a472d002c96cd4fa10c184a24c7ff6caf16bcc1d5e",
         "groups": [
           "lost_in_thought"
+        ]
+      },
+      {
+        "before_sha256": "2e0d96ff5e9f1556184d08a472d002c96cd4fa10c184a24c7ff6caf16bcc1d5e",
+        "after_sha256": "e1275ec042add70d06006dc4410028adc2a3e43193f0cdecc89d7515726ea7df",
+        "groups": [
+          "no_sleep_addition"
         ]
       }
     ],
@@ -10134,6 +10201,15 @@
         "after_sha256": "11973f7279232f3952352f6fea468a3eb587aa911885d5a4c3702a283bc2e4d5",
         "groups": [
           "knicks_addition"
+        ]
+      }
+    ],
+    "assets/graffiti/skepta-no-sleep-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "3742d1f76ac496bd132b9c4c2f9022a56c307c6b73896ea37e06eac1efd2c447",
+        "groups": [
+          "no_sleep_addition"
         ]
       }
     ]
