@@ -6,11 +6,15 @@ from listening_shelves import load_shelves
 from catalog import review_state, sample_projection, feature_tracks as select_feature_tracks, work_type, work_label, work_count, validate_work, year_label
 from art_motion import motion_for_track
 from editorial_references import enrich_sections, markdown_reference, essay_references
+from article_research import load_notes, render_notice, markdown_notice
 ROOT=Path(__file__).parent
 DIST=ROOT/'dist'
 HOST=os.environ.get('SITE_URL','https://djnaoyaman.github.io/cratediggin').rstrip('/')
 BASE_PATH=urlparse(HOST).path.rstrip('/')
 tracks=json.loads((ROOT/'tracks.json').read_text(encoding='utf-8'))
+research_notes=load_notes(ROOT,tracks)
+for track in tracks:
+    if track['id'] in research_notes:track['articleResearch']=research_notes[track['id']]
 deepdives=json.loads((ROOT/'editorial_deepdives.json').read_text(encoding='utf-8'))
 deepdive_map={(e['artist'].casefold(),e['title'].casefold()):e['sections'] for e in deepdives}
 assert len(deepdive_map)==len(deepdives), 'Duplicate deep-dive artist/title key'
@@ -92,7 +96,7 @@ links=[]
 for t in tracks:
     p=DIST/'songs';p.mkdir(exist_ok=True)
     e=html.escape
-    body='<article><h1>'+e(t['title'])+'</h1>'+('<p class="work-year">'+e(year_label(t))+'</p><p class="work-year-note">'+e(t['yearDisplayNote'])+'</p>' if t.get('yearQualifier') else '')+('<p class="work-format">'+e(work_label(t))+'</p>' if work_type(t)!='single' else '')+'<p>'+e(t['artist'])+'</p><p>'+e(t['deck'])+'</p><h2>'+e(t['essayTitle'])+'</h2>'+''.join('<p>'+e(x)+'</p>'+('<div class="essay-references">参考資料：'+ ' / '.join('<a href="'+e(ref['url'],quote=True)+'">'+e(ref['label'])+'</a>' for ref in essay_references(t,j))+'</div>' if essay_references(t,j) else '') for j,x in enumerate(t['essay']))
+    body='<article><h1>'+e(t['title'])+'</h1>'+('<p class="work-year">'+e(year_label(t))+'</p><p class="work-year-note">'+e(t['yearDisplayNote'])+'</p>' if t.get('yearQualifier') else '')+('<p class="work-format">'+e(work_label(t))+'</p>' if work_type(t)!='single' else '')+'<p>'+e(t['artist'])+'</p><p>'+e(t['deck'])+'</p>'+render_notice(t)+'<h2>'+e(t['essayTitle'])+'</h2>'+''.join('<p>'+e(x)+'</p>'+('<div class="essay-references">参考資料：'+ ' / '.join('<a href="'+e(ref['url'],quote=True)+'">'+e(ref['label'])+'</a>' for ref in essay_references(t,j))+'</div>' if essay_references(t,j) else '') for j,x in enumerate(t['essay']))
     if work_type(t)=='live_video' and not t.get('yearQualifier'): body+='<p class="work-year">'+e(year_label(t))+'</p>'
     if work_type(t)=='album': body+='<section class="album-sequence"><h2>ALBUM SEQUENCE</h2><ol>'+''.join('<li>'+e(x['title'])+'</li>' for x in t['playlistSequence'])+'</ol><p>個別の記事：'+ ' / '.join('<a href="'+BASE_PATH+'/tracks/'+id+'.html">'+e(next(x['title'] for x in tracks if x['id']==id))+'</a>' for id in t.get('relatedTrackIds',[]))+'</p></section>'
     body+='<p class="review-summary">'+('深掘り記事あり' if t['deepdives'] else 'リスニングノート')+' · サンプル資料 '+str(len(t['samples']))+' 件'+(' · 確認中 '+e(' / '.join(t['review']['metadataPending'])) if t['review']['metadataPending'] else '')+'</p>'
@@ -116,7 +120,7 @@ for t in tracks:
     if t.get('datePublished'):ld['datePublished']=t['datePublished']
     page=page.replace('</head>','<script type="application/ld+json">'+json.dumps(ld,ensure_ascii=False)+'</script></head>')
     (p/(t['id']+'.html')).write_text(page, encoding='utf-8')
-    md='# '+t['title']+'\n\n'+t['artist']+' / '+year_label(t)+' / '+t['region']+('\n\n'+t['yearDisplayNote'] if t.get('yearDisplayNote') else '')+'\n\n## '+t['essayTitle']+'\n\n'+'\n\n'.join(x+('\n\n参考資料：'+ ' / '.join(markdown_reference(ref) for ref in essay_references(t,j)) if essay_references(t,j) else '') for j,x in enumerate(t['essay']))+'\n\n## 制作背景\n\n'+'\n\n'.join('### '+f['title']+'\n\n'+f['text'] for f in t['facts'])+'\n\n## サンプル元\n\n'+'\n\n'.join(s['artist']+' — '+s['title']+'\n\n'+s['role']+('\n\nhttps://www.youtube.com/watch?v='+s['youtube']['id'] if s.get('youtube') else '') for s in t['samples'])+'\n\n## 出典\n\n'+'\n'.join('- ['+s['label']+']('+s['url']+')' for s in t['sources'])+'\n'
+    md='# '+t['title']+'\n\n'+t['artist']+' / '+year_label(t)+' / '+t['region']+('\n\n'+t['yearDisplayNote'] if t.get('yearDisplayNote') else '')+markdown_notice(t)+'\n\n## '+t['essayTitle']+'\n\n'+'\n\n'.join(x+('\n\n参考資料：'+ ' / '.join(markdown_reference(ref) for ref in essay_references(t,j)) if essay_references(t,j) else '') for j,x in enumerate(t['essay']))+'\n\n## 制作背景\n\n'+'\n\n'.join('### '+f['title']+'\n\n'+f['text'] for f in t['facts'])+'\n\n## サンプル元\n\n'+'\n\n'.join(s['artist']+' — '+s['title']+'\n\n'+s['role']+('\n\nhttps://www.youtube.com/watch?v='+s['youtube']['id'] if s.get('youtube') else '') for s in t['samples'])+'\n\n## 出典\n\n'+'\n'.join('- ['+s['label']+']('+s['url']+')' for s in t['sources'])+'\n'
     if work_type(t)=='album':md+='\n## ALBUM SEQUENCE\n\n'+'\n'.join(str(x['index'])+'. '+x['title'] for x in t['playlistSequence'])+'\n'
     if work_type(t)!='single':md+='\n## 作品区分\n\n'+work_label(t)+'\n'
     if t.get('editorSelectionMemory'):

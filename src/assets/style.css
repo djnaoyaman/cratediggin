@@ -477,3 +477,8 @@ body[data-art-mode=video] .art-credit{flex-direction:row;align-items:center;gap:
 
 /* Identify the track before the editorial headline, without truncating versions. */
 .reading-card .reading-song-title{font:700 clamp(18px,2vw,24px)/1.45 var(--sans);margin:10px 0 0;overflow-wrap:anywhere}
+
+/* A bounded evidence gap, not an audio or whole-article status. */
+.article-research-note{margin:1.5rem 0;padding:1rem 1.1rem;border-left:3px solid var(--blue,#006CB6);background:rgba(0,108,182,.045);overflow-wrap:anywhere}
+.article-research-note h2{font-size:1rem;margin:0 0 .6rem}
+.article-research-note p{margin:.5rem 0}
