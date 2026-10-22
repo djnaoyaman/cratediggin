@@ -4152,6 +4152,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "READINGS titles static/SPA/mobile/Back and shared home cards"
+    },
+    {
+      "id": "research-batch57",
+      "argv": [
+        "python",
+        "scripts/verify_research_batch57.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "research-batch57"
+    },
+    {
+      "id": "research-batch57-browser",
+      "argv": [
+        "node",
+        "scripts/verify_research_batch57_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "research-batch57-browser"
     }
   ],
   "groups": {
@@ -4898,6 +4922,10 @@
       "readings-song-titles",
       "readings-song-titles-browser",
       "5ff83d5a4edfa5fe"
+    ],
+    "research_batch57": [
+      "research-batch57",
+      "research-batch57-browser"
     ]
   },
   "runtime_rules": {
@@ -6535,7 +6563,8 @@
       "scripts/fixtures/approved-research-batch56.json"
     ],
     "scripts/approved_readings_song_titles.py": [
-      "scripts/fixtures/approved-readings-song-titles.json"
+      "scripts/fixtures/approved-readings-song-titles.json",
+      "scripts/approved_research_batch57.py"
     ],
     "scripts/verify_readings_song_titles.py": [
       "scripts/approved_readings_song_titles.py",
@@ -6545,6 +6574,17 @@
     ],
     "scripts/verify_readings_song_titles_browser.cjs": [
       "tracks.json"
+    ],
+    "scripts/approved_research_batch57.py": [
+      "scripts/fixtures/approved-research-batch57.json"
+    ],
+    "scripts/verify_research_batch57.py": [
+      "scripts/approved_research_batch57.py",
+      "scripts/approved_lost_in_thought.py",
+      "scripts/fixtures/approved-research-batch57.json"
+    ],
+    "scripts/verify_research_batch57_browser.cjs": [
+      "scripts/fixtures/approved-research-batch57.json"
     ]
   },
   "policy_paths": [
@@ -6774,7 +6814,9 @@
     "scripts/approved_research_batch56.py",
     "scripts/fixtures/approved-research-batch56.json",
     "scripts/approved_readings_song_titles.py",
-    "scripts/fixtures/approved-readings-song-titles.json"
+    "scripts/fixtures/approved-readings-song-titles.json",
+    "scripts/approved_research_batch57.py",
+    "scripts/fixtures/approved-research-batch57.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -7793,6 +7835,13 @@
         "after_sha256": "b186fc4aa165df7e41d9220ae6b2ef37bb39bae997959a3cb8349cde0e1fb507",
         "groups": [
           "research_batch56"
+        ]
+      },
+      {
+        "before_sha256": "b186fc4aa165df7e41d9220ae6b2ef37bb39bae997959a3cb8349cde0e1fb507",
+        "after_sha256": "3277f7d5b683369fac03b5dc9c0b66bbcc19527ff822bd5e4586002ef038e826",
+        "groups": [
+          "research_batch57"
         ]
       }
     ],
