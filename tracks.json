@@ -40748,12 +40748,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "強い言葉をはっきり届ける声の置き方を聴く。",
-    "essayTitle": "強い言葉をぼかさない、声の置き方",
+    "deck": "Flavor UnitとNaughty By Natureをつなぐ一曲。",
+    "essayTitle": "送り出した仲間が、今度は自分の曲を作る。",
     "essay": [
-      "Queen Latifahの「Latifah's Had It Up 2 Here」。まず耳を向けたいのは、強い言葉をはっきり届ける声の置き方だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Nature of a Sista'』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「U.N.I.T.Y.」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "Queen Latifahの会社Flavor Unitは、Naughty By Natureのキャリアを後押しした。そのNaughty By Natureが制作したのが「Latifah’s Had It Up 2 Here」だ。Mark ChappelleのAlbumism評は、会社を広げていた時期のLatifahと、この曲の制作陣を結びつけて紹介している。",
+      "Chappelleは本曲を、R&Bへ接近した先行シングル「Fly Girl」に続いて、ラッパーとしてのLatifahを改めて示す曲と評価する。二曲を並べるときは、その評価とともに、彼女が支えた仲間が制作側に回る関係にも目を向けたい。"
     ],
     "facts": [
       {
@@ -40775,10 +40774,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "強い言葉をはっきり届ける声の置き方。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "「Fly Girl」と本曲を並べ、Chappelleが指摘するラップへの力点を確かめる。"
     ],
-    "context": "1991年のHip Hop選曲。『Nature of a Sista'』の作品情報と音源の版を分けて掲載。",
+    "context": "マネジメントのつながりが、制作クレジットにも現れる。",
     "sources": [
       {
         "label": "Tommy Boy / Queen Latifah - Latifah's Had it Up 2 Here (Official 4K Music Video)",
@@ -40799,6 +40797,11 @@
         "label": "‎Latifah's Had It up to Here - Song by Queen Latifah - Apple Music",
         "url": "https://music.apple.com/us/song/1604629126",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Mark Chappelle / Albumism — Nature of a Sista’",
+        "url": "https://albumism.com/features/queen-latifah-nature-of-a-sista-album-anniversary",
+        "kind": "記名批評・資料"
       }
     ],
     "producers": [],
@@ -40818,7 +40821,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "n-w-a-express-yourself",
@@ -40864,12 +40875,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "自己表現を呼びかける言葉の明瞭さを聴く。",
-    "essayTitle": "自分を表せ、その呼びかけを明瞭に",
+    "deck": "Charles Wrightが語る、N.W.A.と一本の電話。",
+    "essayTitle": "隣家から聞こえた自分の曲を、権利者が追った。",
     "essay": [
-      "N.W.A.の「Express Yourself」。まず耳を向けたいのは、自己表現を呼びかける言葉の明瞭さだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Straight Outta Compton』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "1988年という数字をいったん脇へ置き、声とリズムの関係から聴いてみたい。名盤の知識はあとからでも追いつける。まず「Express Yourself」という名前と、自分の耳に残った場所を結びつけておく。"
+      "Charles WrightがN.W.A.の「Express Yourself」に気づいたのは、隣人がその曲を大音量で流したときだったという。Jeff WeissによるLA Weeklyの取材で、Wrightは自分の曲だと分かり、作曲者クレジットの問題でPriority Recordsへ電話したと回想している。",
+      "Wrightによれば、そこでIce Cubeの連絡先を教わり、直接話した後に謝罪とロイヤルティを受けた。これは権利者本人の証言だ。Charles Wright & The Watts 103rd Street Rhythm Bandの同名曲と並べると、音の引用だけでなく、元の作者へつながり直した経緯も見えてくる。"
     ],
     "facts": [
       {
@@ -40891,10 +40901,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "自己表現を呼びかける言葉の明瞭さ。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "Charles Wright側の同名曲もたどり、引用と作者の関係を考える。"
     ],
-    "context": "1988年のHip Hop選曲。『Straight Outta Compton』の作品情報と音源の版を分けて掲載。",
+    "context": "サンプルの出所を、権利者自身の回想からたどる。",
     "sources": [
       {
         "label": "N.W.A. - Topic / Express Yourself",
@@ -40915,6 +40924,11 @@
         "label": "‎Express Yourself - Song with Lyrics by N.W.A - Apple Music",
         "url": "https://music.apple.com/us/song/1770337064",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Charles Wright / Jeff Weiss interview — LA Weekly",
+        "url": "https://www.laweekly.com/watts-soul-legend-charles-wrights-mistake-turned-into-express-yourself/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -40935,7 +40949,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "cypress-hill-the-phuncky-feel-one",
@@ -40981,12 +41003,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "声の質感とファンクのリズムの接点を聴く。",
-    "essayTitle": "声の手触りがファンクの拍に触れる",
+    "deck": "Sen Dogが振り返る、シングルを裏返したニューヨーク。",
+    "essayTitle": "A面の裏から、突破口が開いた。",
     "essay": [
-      "Cypress Hillの「The Phuncky Feel One」。まず耳を向けたいのは、声の質感とファンクのリズムの接点だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Cypress Hill』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Hand On The Pump」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "「The Phuncky Feel One」の裏面には「How I Could Just Kill a Man」があった。Billboard Italiaの取材でSen Dogは、ツアーを続けても売上につながらなかった時期の後、ニューヨークの誰かが盤を裏返したのだろうと振り返っている。",
+      "彼の回想では、B面が現地で支持され、グループはニューヨークへ映像を撮りに向かった。A面とB面を一組でたどると、最初に表へ出した曲と、聴き手が選んだ入口が同じとは限らないことが分かる。誰が最初に裏返したかは、この取材では特定されていない。"
     ],
     "facts": [
       {
@@ -41008,10 +41029,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "声の質感とファンクのリズムの接点。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "A面の本曲からB面へ進み、二曲を同じシングルとしてたどる。"
     ],
-    "context": "1991年のHip Hop選曲。『Cypress Hill』の作品情報と音源の版を分けて掲載。",
+    "context": "表に置かれた曲と、突破口になった裏面の関係。",
     "sources": [
       {
         "label": "Cypress Hill - Topic / The Phuncky Feel One",
@@ -41032,6 +41052,11 @@
         "label": "‎The Phuncky Feel One - Song by Cypress Hill - Apple Music",
         "url": "https://music.apple.com/us/song/920156801",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Sen Dog / Federico Durante interview — Billboard Italia",
+        "url": "https://billboard.it/interviste/cypress-hill-30-anni-intervista/2021/08/1372174/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -41053,7 +41078,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "double-xx-posse-we-got-it-goin-on",
@@ -41216,12 +41249,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "踊る体を想像させる声と拍の関係を聴く。",
-    "essayTitle": "踊る体を思い浮かべ、声と拍を聴く",
+    "deck": "Jesse Duckerが読む、「Treat ’Em Right」の呼びかけ。",
+    "essayTitle": "仲間のラッパーに、ファンを大切にしろと伝える。",
     "essay": [
-      "Chubb Rockの「Treat 'Em Right」。まず耳を向けたいのは、踊る体を想像させる声と拍の関係だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Treat 'Em Right / The One』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「The One」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "「Treat ’Em Right」が求める敬意は、聴き手だけに向いているわけではない。AlbumismのJesse Duckerは、Chubb Rockが同業のラッパーにも、ファンに敬意を持って接するよう促している点を拾っている。",
+      "Duckerはこの曲を、観客を楽しませることと、言葉の中身を薄めないことが両立した例として評価する。題名の「彼ら」を一括りにせず、誰が誰をどう扱うべきなのかを追うと、パーティー曲という分類の先にある呼びかけへ近づける。"
     ],
     "facts": [
       {
@@ -41243,10 +41275,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "踊る体を想像させる声と拍の関係。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "同業者への言葉とファンへの言葉を区別して追う。"
     ],
-    "context": "1990年のHip Hop選曲。『Treat 'Em Right / The One』の作品情報と音源の版を分けて掲載。",
+    "context": "盛り上げる相手を、どう扱うかまで語る。",
     "sources": [
       {
         "label": "Chubb Rock - Topic / Treat 'Em Right",
@@ -41267,6 +41298,11 @@
         "label": "‎Treat 'Em Right - Song with Lyrics by Chubb Rock - Apple Music",
         "url": "https://music.apple.com/us/song/1259679383",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Jesse Ducker / Albumism — The One",
+        "url": "https://albumism.com/features/chubb-rock-the-one-album-anniversary",
+        "kind": "記名批評・資料"
       }
     ],
     "producers": [],
@@ -41286,7 +41322,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "epmd-it-s-time-2-party",
@@ -41332,12 +41376,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "パーティーを促す言葉と二人の声の対照を聴く。",
-    "essayTitle": "パーティーへの誘い、二人の声を聴き分ける",
+    "deck": "Jesse Duckerの厳しい評から開く、もう一つの聴き比べ。",
+    "essayTitle": "同じMFSBの曲を、LL Cool Jとの比較で聴く。",
     "essay": [
-      "EPMDの「It's Time 2 Party」。まず耳を向けたいのは、パーティーを促す言葉と二人の声の対照だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Unfinished Business』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Underground」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "AlbumismのJesse Duckerは「It’s Time 2 Party」を、ダンス・クラブでの支持を狙った試みと読む。ヒップハウスへの自身の苦手意識も明かし、EPMDの中では厳しく評価している。これは制作陣の意図を確認した発言ではなく、評者の解釈だ。",
+      "その比較対象に挙がるのが、LL Cool Jの『Walking with a Panther』でのMFSB「Love Is the Message」の使い方。同じ素材の別の使い方を探す入口になる。Duckerの優劣をそのまま結論にせず、比較したくなる理由を確かめてみたい。"
     ],
     "facts": [
       {
@@ -41359,10 +41402,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "パーティーを促す言葉と二人の声の対照。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "MFSBの原曲と、評者が挙げるLL Cool J側の使い方をたどる。"
     ],
-    "context": "1989年のHip Hop選曲。『Unfinished Business』の作品情報と音源の版を分けて掲載。",
+    "context": "評者の好みを明示したうえで、共通の素材から比較する。",
     "sources": [
       {
         "label": "EPMD - Topic / It's Time 2 Party",
@@ -41383,6 +41425,11 @@
         "label": "#802 It's My Thing / You're A Customer - Epmd – Kay-Dee Records",
         "url": "https://kaydeerecords.com/products/802-its-my-thing-youre-a-customer-epmd",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Jesse Ducker / Albumism — Unfinished Business",
+        "url": "https://albumism.com/features/epmd-unfinished-business-album-anniversary",
+        "kind": "記名批評・資料"
       }
     ],
     "producers": [],
@@ -41402,7 +41449,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "boogie-down-productions-you-must-learn",
@@ -41448,12 +41503,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "学ぶことを呼びかける言葉のリズムを聴く。",
-    "essayTitle": "学べという呼びかけを、リズムで受け取る",
+    "deck": "KRS-One自身が分けた、二つの作り方。",
+    "essayTitle": "一発で録れた曲とは違う、考える時間があった。",
     "essay": [
-      "Boogie Down Productionsの「You Must Learn」。まず耳を向けたいのは、学ぶことを呼びかける言葉のリズムだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Ghetto Music: The Blueprint of Hip Hop』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "1989年という数字をいったん脇へ置き、声とリズムの関係から聴いてみたい。名盤の知識はあとからでも追いつける。まず「You Must Learn」という名前と、自分の耳に残った場所を結びつけておく。"
+      "KRS-OneはWHO?MAGのWill Hernandezに、「Rappaz R. N. Dainja」はDJ Premierのビートがあるスタジオで一度で録れたと話している。その対照として、考える必要があった曲に「You Must Learn」を挙げた。",
+      "即座に言葉が出てきた曲と、考えながら作った曲。同じラッパーでも作り方は一つではない。所要時間や書き直しの回数は明かされていないが、この二曲を並べるときには、本人が感じていた制作の違いを手掛かりにできる。"
     ],
     "facts": [
       {
@@ -41475,10 +41529,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "学ぶことを呼びかける言葉のリズム。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "「Rappaz R. N. Dainja」と並べ、本人が語る制作の違いを意識する。"
     ],
-    "context": "1989年のHip Hop選曲。『Ghetto Music: The Blueprint of Hip Hop』の作品情報と音源の版を分けて掲載。",
+    "context": "制作の手応えは、同じラッパーの曲ごとにも違う。",
     "sources": [
       {
         "label": "Boogie Down Productions - Topic / You Must Learn",
@@ -41499,6 +41552,11 @@
         "label": "‎Boogie Down Productions Essentials - Playlist - Apple Music",
         "url": "https://music.apple.com/us/playlist/boogie-down-productions-essentials/pl.5a7fbca92abb4a3f9271301955d82715",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "KRS-One / Will Hernandez interview — WHO?MAG",
+        "url": "https://www.whomag.net/krs-one/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -41518,7 +41576,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "the-troubleneck-brothers-back-to-the-hip-hop",
@@ -41564,12 +41630,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "ヒップホップを名指すフックと声のまとまりを聴く。",
-    "essayTitle": "ヒップホップを名指すフックに声がまとまる",
+    "deck": "2024年の『Love/Hate』に残された、別の入口。",
+    "essayTitle": "90年代のテープから、デモ版へたどり直す。",
     "essay": [
-      "The Troubleneck Brothersの「Back To The Hip Hop」。まず耳を向けたいのは、ヒップホップを名指すフックと声のまとまりだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Back to the Hip Hop』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "1994年という数字をいったん脇へ置き、声とリズムの関係から聴いてみたい。名盤の知識はあとからでも追いつける。まず「Back To The Hip Hop」という名前と、自分の耳に残った場所を結びつけておく。"
+      "90s Tapesは2024年に、The Troubleneck Brothersの90年代前半から半ばのデモ・テープをまとめた『Love/Hate』を出した。そこには「Back 2 The Hip Hop」が、明確にDemo Versionと記されて収められている。",
+      "本ページで紹介するシングルと、再発盤のデモを同じ録音と決めつけてはいけない。曲名から一歩進み、版名を確かめて別の録音を探せることが、この再発資料の面白さだ。どの部分が変わったかは、実際の比較で確かめる余地として残しておきたい。"
     ],
     "facts": [
       {
@@ -41591,10 +41656,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "ヒップホップを名指すフックと声のまとまり。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "『Love/Hate』ではDemo Version表記を確かめ、シングル版と区別する。"
     ],
-    "context": "1994年のHip Hop選曲。『Back to the Hip Hop』の作品情報と音源の版を分けて掲載。",
+    "context": "曲名だけではなく版名を手掛かりに、デモの資料へ進む。",
     "sources": [
       {
         "label": "djjerc / Troubleneck Brothers - Back To The Hip Hop",
@@ -41615,6 +41679,11 @@
         "label": "The Troubleneck Brothers - Troubleneck Wreck 12\" (StepSun '93) who remembers this group?",
         "url": "https://www.reddit.com/r/hiphopvinyl/comments/17xhkhp/the_troubleneck_brothers_troubleneck_wreck_12/",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "90s Tapes — Love/Hate official release",
+        "url": "https://90stapes.bandcamp.com/album/love-hate",
+        "kind": "レーベル公式資料"
       }
     ],
     "producers": [],
@@ -41632,7 +41701,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "the-notorious-b-i-g-just-playing-dreams",
@@ -41678,12 +41755,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "夢という枠で進む物語とラップの間合いを聴く。",
-    "essayTitle": "夢として語る物語、そのラップの間合い",
+    "deck": "XscapeのTinyが語る、「Dreams」のその後。",
+    "essayTitle": "曲で傷つけた相手に、後で謝った。",
     "essay": [
-      "The Notorious B.I.G.の「Just Playing (Dreams)」。まず耳を向けたいのは、夢という枠で進む物語とラップの間合いだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Just Playing (Dreams) / Ready to Die (bonus track)』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Big Poppa」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "「Just Playing (Dreams)」で侮辱されたXscapeのTinyは、後年VladTVで、その言葉の先にあった対面について語っている。取材元の紹介によれば、1997年のVibeのパーティーでBiggieと言葉を交わし、彼から謝罪を受けた。",
+      "曲の題名だけで冗談として片づけず、名指しされた側にも話が続いていたことを残したい。ここで手掛かりにするのはTinyの回想であり、Biggieの胸中を推測する説明ではない。歌詞と、それを受けた人の証言を分けてたどる入口になる。"
     ],
     "facts": [
       {
@@ -41705,10 +41781,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "夢という枠で進む物語とラップの間合い。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "歌詞で名指しされた相手の証言にも目を向ける。"
     ],
-    "context": "1993年のHip Hop選曲。『Just Playing (Dreams) / Ready to Die (bonus track)』の作品情報と音源の版を分けて掲載。",
+    "context": "題名の冗談という枠だけでなく、受け手の回想を残す。",
     "sources": [
       {
         "label": "The Notorious B.I.G. / The Notorious B.I.G. - Just Playing (Dreams) (Official Audio)",
@@ -41729,6 +41804,11 @@
         "label": "‎Just Playing (Dreams) - Song with Lyrics by The Notorious B.I.G. - Apple Music",
         "url": "https://music.apple.com/us/song/204669758",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Tiny / VladTV interview recap",
+        "url": "https://www.vladtv.com/article/302843/tiny-on-biggie-apologizing-to-her-xscape-for-ugly-a-bhes-line",
+        "kind": "本人インタビュー紹介"
       }
     ],
     "producers": [],
@@ -41748,7 +41828,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "jeru-the-damaja-da-bichez",
