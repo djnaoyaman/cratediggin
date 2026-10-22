@@ -31972,12 +31972,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "Stretch Armstrong版での声と伴奏の組み合わせを聴く。",
-    "essayTitle": "Stretch Armstrong版、声と伴奏の接点",
+    "deck": "リミックス名のStretch Armstrongは、作品をまとめる現場にもいた。",
+    "essayTitle": "本人のいない制作を、二人が支えた。",
     "essay": [
-      "Big Noydの「Usual Suspect (Stretch Armstrong Remix)」。まず耳を向けたいのは、Stretch Armstrong版での声と伴奏の組み合わせだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Episodes of a Hustla』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Usual Suspect」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "Big NoydはUnkutの取材で、『Episodes of a Hustla』の制作途中に収監され、残した録音をHavocやレーベル側が組み合わせて作品にしたと振り返っている。Havocが不在の時にはStretch Armstrongも手を貸したという。",
+      "この曲の版名にも、そのStretchの名がある。ただし、取材が説明するのは作品全体の仕上げであり、このリミックスの具体的な加工手順ではない。本人が現場を離れた後にも、録音を世に出すために動いた人がいた。そのつながりから、この版へ戻ってみたい。"
     ],
     "facts": [
       {
@@ -31999,10 +31998,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "Stretch Armstrong版での声と伴奏の組み合わせ。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "原曲とStretch Armstrong版を聴き比べる。作品全体の証言を、この版だけの制作手順と混同しない。"
     ],
-    "context": "1996年のHip Hop選曲。『Episodes of a Hustla』の作品情報と音源の版を分けて掲載。",
+    "context": "Big Noydの回想から、録音を作品へまとめた人々をたどる。",
     "sources": [
       {
         "label": "Big Noyd - Topic / Usual Suspect (Stretch Armstrong Remix)",
@@ -32013,6 +32011,11 @@
         "label": "Big Noyd - The Usual Suspect",
         "url": "https://www.reddit.com/r/hiphopvinyl/comments/mm3ofr",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://unkut.com/2014/03/big-noyd-the-unkut-interview/",
+        "label": "Robbie Ettelson — Big Noyd / Unkut（2014）",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [],
@@ -32032,7 +32035,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "sadat-x-the-lump-lump-nubian-mix",
@@ -32078,12 +32089,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "Nubian Mixという別の角度から追う独特の声を聴く。",
-    "essayTitle": "Nubian Mixで追う、Sadat Xの声",
+    "deck": "Sadat X、Grand Puba、Lord JamarをつなぐNubian Mix。",
+    "essayTitle": "ソロ盤のリミックスで、三人が合流した。",
     "essay": [
-      "Sadat Xの「The Lump Lump (Nubian Mix)」。まず耳を向けたいのは、Nubian Mixという別の角度から追う独特の声だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『The Lump Lump』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「The Lump Lump」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "「The Lump Lump」のNubian Mixには、Grand PubaとLord Jamarが加わる。RapReviewsのMatt Jostは、Buckwildが関わったBrand Nubian再結集の流れの中に、このリミックスを置いている。",
+      "Jostが並べるのは、Grand Pubaの「I Like It」リミックス、この曲、そして「Rockin’ It」。一枚の再結成アルバムだけでなく、互いの曲へ参加する段階をたどれる。版名のNubianは、ここでは三人の関係を探す入口になる。"
     ],
     "facts": [
       {
@@ -32105,10 +32115,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "Nubian Mixという別の角度から追う独特の声。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "「I Like It」リミックスからNubian Mix、「Rockin’ It」へ、参加者の合流をたどる。"
     ],
-    "context": "1996年のHip Hop選曲。『The Lump Lump』の作品情報と音源の版を分けて掲載。",
+    "context": "Matt Jostの作品評を手がかりに、Brand Nubian再結集へ至る曲のつながりを見る。",
     "sources": [
       {
         "label": "Sadat X - Topic / The Lump Lump (Nubian Mix)",
@@ -32129,6 +32138,11 @@
         "label": "The Lump Lump, Sadat X - Qobuz",
         "url": "https://www.qobuz.com/us-en/album/the-lump-lump-sadat-x/pr4plgcl6r8ka",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://www.rapreviews.com/2007/04/buckwild-diggin-in-the-crates-rare-studio-masters-1993-1997/",
+        "label": "Matt Jost — Buckwild: Rare Studio Masters / RapReviews（2007）",
+        "kind": "署名付き作品評"
       }
     ],
     "producers": [
@@ -32150,7 +32164,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "krs-one-feat-busta-rhymes-build-ya-skillz",
@@ -32308,12 +32330,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "言葉の区切りと小節の終わりの関係を聴く。",
-    "essayTitle": "言葉の切れ目は、小節のどこに来るか",
+    "deck": "デモの「O-Zone」は、歌詞もビートも別だった。",
+    "essayTitle": "題材を残して、曲を作り直した。",
     "essay": [
-      "O.C.の「O-Zone」。まず耳を向けたいのは、言葉の区切りと小節の終わりの関係だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Word...Life』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Born 2 Live」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "O.C.はUnkutのインタビューで、「O-Zone」は以前のデモを作り直した曲だと話す。もとの録音は別のプロデューサーとのもので、Buckwildと進めていたアルバムの方向に合わなかったという。",
+      "そこで題材は残しながら、歌詞とビートを変えた。デモが悪かったのではなく、作品全体に合うかどうかが判断の理由だった。『Word...Life』の一曲として聴く時には、この「残すものと変えるもの」の選択も考えてみたい。"
     ],
     "facts": [
       {
@@ -32334,10 +32355,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "言葉の区切りと小節の終わりの関係。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "曲単体だけでなく、『Word...Life』の前後の曲と続けて聴く。未確認のデモとの音響差は決めつけない。"
     ],
-    "context": "1994年のHip Hop選曲。『Word...Life』の作品情報と音源の版を分けて掲載。",
+    "context": "O.C.本人の回想から、デモをアルバムの一曲へ作り直す判断を見る。",
     "sources": [
       {
         "label": "O.C. - Topic / O-Zone",
@@ -32348,6 +32368,11 @@
         "label": "O.C. — 『Word...Life』公式作品ページ",
         "url": "https://omarcredle.bandcamp.com/album/word-life-deluxe-edition",
         "kind": "アーティスト公式作品資料"
+      },
+      {
+        "url": "https://unkut.com/2015/01/o-c-the-unkut-interview/",
+        "label": "Robbie Ettelson — O.C. / Unkut（2015、Acclaim初出）",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [],
@@ -32367,7 +32392,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "grand-puba-a-little-of-this",
@@ -32525,12 +32558,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "長いフレーズを収める声の流れを聴く。",
-    "essayTitle": "長いフレーズを運ぶ、AZの声の流れ",
+    "deck": "AZが「Gimme Yours」を作り直した理由を、原曲からたどる。",
+    "essayTitle": "十五年後、同じ曲へもう一度。",
     "essay": [
-      "AZの「Gimme Yours」。まず耳を向けたいのは、長いフレーズを収める声の流れだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Doe or Die』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Rather Unique」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "AZは2010年、YouKnowIGotSoulの取材で「Gimme Yours」の新しい版のビデオを撮り終えたと話している。『Doe or Die』十五周年に合わせ、旧曲のリミックスと新曲を組み合わせる企画だった。",
+      "次作を急いで仕上げるのではなく、そこへ渡す橋を作りたかったという。ここで採用しているのは1995年のアルバム版。後年の録音と同じものとして扱わず、作り手が十五年後に選び直した曲として、まず原曲へ戻ってみたい。"
     ],
     "facts": [
       {
@@ -32552,10 +32584,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "長いフレーズを収める声の流れ。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "1995年のアルバム版と2010年版を取り違えず、別の録音として探す。"
     ],
-    "context": "1995年のHip Hop選曲。『Doe or Die』の作品情報と音源の版を分けて掲載。",
+    "context": "十五周年盤を語ったAZの証言から、原曲が後年もう一度選ばれた経緯を読む。",
     "sources": [
       {
         "label": "UPROXX / AZ - Gimme Yours (Album Version)",
@@ -32571,6 +32602,11 @@
         "label": "‎Gimme Yours (feat. Nas) - Song with Lyrics by AZ - Apple Music",
         "url": "https://music.apple.com/us/song/1670161991",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://youknowigotsoul.com/youknowigotsoul-interview-with-az",
+        "label": "YouKnowIGotSoul — AZインタビュー（2010年11月23日）",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [],
@@ -32590,7 +32626,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        3
+      ]
+    ]
   },
   {
     "id": "mobb-deep-up-north-trip",
@@ -32637,12 +32681,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "都市の風景を浮かばせる声の温度を聴く。",
-    "essayTitle": "街の風景を浮かべる、声の温度を聴く",
+    "deck": "Prodigyが題材を決め、Havocがその方向に続いた。",
+    "essayTitle": "ビートから浮かんだのは、刑務所の話だった。",
     "essay": [
-      "Mobb Deepの「Up North Trip」。まず耳を向けたいのは、都市の風景を浮かばせる声の温度だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『The Infamous』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Survival of the Fittest」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "ProdigyはRed Bull Music Academyの対談で、Havocの「Up North Trip」のビートを聴くと物語を書きたくなり、刑務所へ行く話を書き始めたと回想する。当時、周囲には服役と帰還を繰り返す人が多かったという。",
+      "Havocは、Prodigyがその話を始めたので自分も続いたと説明している。ビートの印象に歌詞を合わせるのではなく、異なる要素を組み合わせたというのが本人の整理だ。明るいか暗いかを先に決めるより、音から選ばれた物語に目を向けたい。"
     ],
     "facts": [
       {
@@ -32664,10 +32707,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "都市の風景を浮かばせる声の温度。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "本人たちの説明を手がかりに、伴奏の受け取り方と歌詞の題材を分けて考える。"
     ],
-    "context": "1995年のHip Hop選曲。『The Infamous』の作品情報と音源の版を分けて掲載。",
+    "context": "2011年の本人対談から、ビートが題材を導いた過程を読む。",
     "sources": [
       {
         "label": "MobbDeepVEVO / Mobb Deep - Up North Trip (Official Audio)",
@@ -32688,6 +32730,11 @@
         "label": "‎Up North Trip - Song by Mobb Deep - Apple Music",
         "url": "https://music.apple.com/us/song/255343366",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://www.redbullmusicacademy.com/lectures/mobb-deep/",
+        "label": "Red Bull Music Academy — Mobb Deep / 聞き手Sacha Jenkins（2011）",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [],
@@ -32707,7 +32754,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "a-tribe-called-quest-sucka-nigga",
@@ -32754,12 +32809,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "呼び名を問い直す言葉の重なりを聴く。",
-    "essayTitle": "呼び名を問い直す、言葉の重なり",
+    "deck": "Ali Shaheed Muhammadが説明した、題名の言葉へのためらい。",
+    "essayTitle": "同じ言葉でも、世代で重さが違う。",
     "essay": [
-      "A Tribe Called Questの「Sucka Nigga」。まず耳を向けたいのは、呼び名を問い直す言葉の重なりだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Midnight Marauders』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Crew」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "Ali Shaheed Muhammadは1993年頃のCAKE誌の取材で、「Sucka Nigga」を若い世代の日常語と、親世代がその言葉に感じる痛みの隔たりから説明した。言わないほうがよいと分かっていても口に出てしまう、と語っている。",
+      "さらに、いずれ皆がその言葉を使わずに済むようになれば、とも述べた。題名を単なる挑発や無条件の肯定に縮めず、使う側のためらいまで読む。その視点を持ってQ-Tipの言葉へ戻りたい。"
     ],
     "facts": [
       {
@@ -32781,10 +32835,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "呼び名を問い直す言葉の重なり。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "題名だけで結論を出さず、呼び方をめぐる世代差とためらいに注意して歌詞を読む。"
     ],
-    "context": "1993年のHip Hop選曲。『Midnight Marauders』の作品情報と音源の版を分けて掲載。",
+    "context": "Erik Blakkestadによる同時代の取材で、Ali自身が語った説明をたどる。",
     "sources": [
       {
         "label": "Certified / A Tribe Called Quest - Sucka Ni**a (Official Audio)",
@@ -32795,6 +32848,11 @@
         "label": "‎Sucka N***a - Song by A Tribe Called Quest - Apple Music",
         "url": "https://music.apple.com/us/song/266768866",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://medium.com/the-cake-articles/a-tribe-called-quest-916d68bd762c",
+        "label": "Erik Blakkestad — Tribe Called Quest / CAKE誌（約1993年、著者再掲2020年）",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [],
@@ -32814,7 +32872,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "o-c-organized-konfusion-you-won-t-go-far",
@@ -32970,12 +33036,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "一行ごとの言葉の切れ味と着地点を聴く。",
-    "essayTitle": "一行ずつ、言葉の切れ味と着地を追う",
+    "deck": "Lord Finesseが語るBig Lの曲と、普段の顔。",
+    "essayTitle": "暗い題材を選んだ、冗談好きの人。",
     "essay": [
-      "Big Lの「All Black」。まず耳を向けたいのは、一行ごとの言葉の切れ味と着地点だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Lifestylez ov da Poor & Dangerous』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Put It On」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "Lord FinesseはThe Findの取材で、Big Lは深く暗い題材をやりたがっていたと語り、その例として「All Black」を挙げている。一方、日常のBig Lについては、何でも笑い話にしてしまう、生まれつき冗談好きな人だったと回想する。",
+      "作品で選んだ表現と、友人が覚えている人柄は同じではない。曲の人物像をそのまま本人の全体像に重ねず、近くで制作を見たFinesseの二つの話を並べて読んでみたい。"
     ],
     "facts": [
       {
@@ -32997,10 +33062,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "一行ごとの言葉の切れ味と着地点。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "歌の中の語り手と、Finesseが回想する普段のBig Lを分けて捉える。"
     ],
-    "context": "1995年のHip Hop選曲。『Lifestylez ov da Poor & Dangerous』の作品情報と音源の版を分けて掲載。",
+    "context": "制作仲間の証言から、曲の題材と作者の人柄の違いを見る。",
     "sources": [
       {
         "label": "Certified / Big L - All Black (Official Audio)",
@@ -33011,6 +33075,11 @@
         "label": "‎All Black - Song with Lyrics by Big L - Apple Music",
         "url": "https://music.apple.com/us/song/171029045",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://thefindmag.com/features/hip-hop-interviews/interview-lord-finesse/",
+        "label": "The Find — Lord Finesseインタビュー（2012）",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [],
@@ -33030,7 +33099,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "smif-n-wessun-let-s-git-it-on",
