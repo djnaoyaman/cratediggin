@@ -34432,12 +34432,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "シカゴのMCが刻む言葉のアクセントを聴く。",
-    "essayTitle": "シカゴのMC、言葉のアクセントを追う",
+    "deck": "Matt Jostの比較からたどる「Between the Sheets」。",
+    "essayTitle": "「Big Poppa」と同じ曲を、別の方向へ。",
     "essay": [
-      "Commonの「Breaker 1/9」。まず耳を向けたいのは、シカゴのMCが刻む言葉のアクセントだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Can I Borrow a Dollar?』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「The Light」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "RapReviewsのMatt Jostは、「Breaker 1/9」とNotorious B.I.G.の「Big Poppa」を、同じ「Between the Sheets」を使った二曲として並べている。そのうえで、後者が弦の部分を生かす一方、Commonの曲はドラムを加えている、と違いを説明する。",
+      "同じ素材なら同じ曲になるわけではない。Jostの比較を手がかりに、元曲と二つの使われ方を順にたどりたい。これは評論家の聴き分けであり、制作者がその差を狙ったという証言ではない。"
     ],
     "facts": [
       {
@@ -34459,10 +34458,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "シカゴのMCが刻む言葉のアクセント。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "元曲、Common、Biggieの順に並べ、Jostが指摘した違いを確かめる。"
     ],
-    "context": "1992年のHip Hop選曲。『Can I Borrow a Dollar?』の作品情報と音源の版を分けて掲載。",
+    "context": "同じサンプルから分かれた二曲を、署名レビューの比較で読む。",
     "sources": [
       {
         "label": "CommonVEVO / Common - Breaker 1/9 (Official Video)",
@@ -34483,6 +34481,11 @@
         "label": "‎Breaker 1/9 – Song by Common – Apple Music",
         "url": "https://music.apple.com/ca/song/267707448",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://www.rapreviews.com/2006/02/common-sense-can-i-borrow-a-dollar/",
+        "label": "RapReviews — Matt Jost / Can I Borrow a Dollar?",
+        "kind": "取材・署名評論"
       }
     ],
     "producers": [],
@@ -34502,7 +34505,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "das-efx-mic-checka",
@@ -34548,12 +34559,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "音節が弾むラップとビートの噛み合わせを聴く。",
-    "essayTitle": "弾む音節は、ビートとどう噛み合うか",
+    "deck": "奇抜な語尾には、流れを止めない役目もあった。",
+    "essayTitle": "言葉の隙間を埋めた「iggety」。",
     "essay": [
-      "Das EFXの「Mic Checka」。まず耳を向けたいのは、音節が弾むラップとビートの噛み合わせだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Dead Serious』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「They Want EFX」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "Kevin Covalは「Mic Checka」を取り上げ、Das EFXの「iggety」という音節には、個性を出すだけでなく、言葉の間に休止を作らない役目があったと説明する。グループの話として紹介されているのは、息と言葉遊びを循環させる実験だったということだ。",
+      "語尾を意味のない飾りとして片づけず、次の言葉へ渡るための仕掛けとして聴いてみる。これはCovalの記事が示す入口であって、録音の全箇所を実測した分析ではない。"
     ],
     "facts": [
       {
@@ -34575,10 +34585,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "音節が弾むラップとビートの噛み合わせ。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "付け足された音節が、前後の言葉をどうつなぐか確かめる。"
     ],
-    "context": "1992年のHip Hop選曲。『Dead Serious』の作品情報と音源の版を分けて掲載。",
+    "context": "Kevin Covalの記事に帰属させ、言葉をつなぐ音節の役割を読む。",
     "sources": [
       {
         "label": "Das Efx - Topic / Mic Checka",
@@ -34599,6 +34608,11 @@
         "label": "‎Mic Checka - Song by Das EFX - Apple Music",
         "url": "https://music.apple.com/us/song/1268831896",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://www.breakbeatcreatives.com/journal/straight-from-the-sewers-the-grimy-verbal-virtuosity-of-das-efx",
+        "label": "Kevin Coval — Das EFX / Rock the Bells記事の転載",
+        "kind": "取材・署名評論"
       }
     ],
     "producers": [
@@ -34621,7 +34635,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "cypress-hill-stoned-is-the-way-of-the-walk",
@@ -34667,12 +34689,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "声のクセとリズムの揺れの結びつきを聴く。",
-    "essayTitle": "声のクセとリズムの揺れが結びつく",
+    "deck": "ジャズの一曲から伸びる、別のラップへの道。",
+    "essayTitle": "Cypress Hillの先に、Grant Greenがいる。",
     "essay": [
-      "Cypress Hillの「Stoned Is The Way Of The Walk」。まず耳を向けたいのは、声のクセとリズムの揺れの結びつきだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Cypress Hill』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Throw Your Hands in the Air」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "Village VoiceのPhillip Mlynarは、「Stoned Is The Way Of The Walk」の素材をGrant Greenの「Down Here On The Ground」と紹介する。同じ曲の使用例には、Tribeの「Vibes And Stuff」やPete Rock & C.L. Smoothの「Act Like You Know」も挙げている。",
+      "Cypress Hillから元曲へ戻り、そこから別のラップへ進める。この聴き比べは素材の共有を入口にするもので、三組が同じ盤を一緒に掘ったという話ではない。"
     ],
     "facts": [
       {
@@ -34694,10 +34715,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "声のクセとリズムの揺れの結びつき。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "Grant Greenの曲を間に置いて、別々の使われ方を比べる。"
     ],
-    "context": "1991年のHip Hop選曲。『Cypress Hill』の作品情報と音源の版を分けて掲載。",
+    "context": "Phillip Mlynarが挙げたサンプルの関係をたどる。",
     "sources": [
       {
         "label": "Cypress Hill - Topic / Stoned Is the Way of the Walk",
@@ -34718,6 +34738,11 @@
         "label": "‎Stoned Is the Way of the Walk - Song with Lyrics by Cypress Hill - Apple Music",
         "url": "https://music.apple.com/us/song/192755274",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://www.villagevoice.com/blue-note-records-ten-best-sample-sources/",
+        "label": "Village Voice — Phillip Mlynar / Blue Note Records’ Ten Best Sample Sources",
+        "kind": "取材・署名評論"
       }
     ],
     "producers": [
@@ -34739,7 +34764,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "a-tribe-called-quest-vibes-and-stuff",
@@ -34786,12 +34819,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "言葉の後ろに残る低音の役割を聴く。",
-    "essayTitle": "言葉の後ろに残る低音を、追いかける",
+    "deck": "「Vibes And Stuff」を足がかりに、元の演奏へ戻る。",
+    "essayTitle": "Tribeから、Grant Greenの選曲盤へ。",
     "essay": [
-      "A Tribe Called Questの「Vibes And Stuff」。まず耳を向けたいのは、言葉の後ろに残る低音の役割だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『The Low End Theory』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Sucka Nigga」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "AllMusicのAl Campbellは、Grant Greenの選曲盤『Finest in Jazz』を解説するなかで、「Down Here on the Ground」がTribeの「Vibes And Stuff」に使われたことを記している。ラップの一曲が、ジャズ・ギタリストの録音へ入る入口になる。",
+      "Campbellはこの選曲盤を、Greenの後期の録音を知るための案内として捉えている。まず元曲を聴き、その前後の選曲にも手を伸ばしてみたい。どの箇所をどう加工したかは、この解説だけでは断定しない。"
     ],
     "facts": [
       {
@@ -34813,10 +34845,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "言葉の後ろに残る低音の役割。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "「Down Here on the Ground」へ戻ってから、選曲盤の隣の曲にも進む。"
     ],
-    "context": "1991年のHip Hop選曲。『The Low End Theory』の作品情報と音源の版を分けて掲載。",
+    "context": "Al Campbellの選曲盤評から、サンプル元の録音へ戻る。",
     "sources": [
       {
         "label": "TribeCalledQuestVEVO / A Tribe Called Quest - Vibes and Stuff (Official Audio)",
@@ -34832,6 +34863,11 @@
         "label": "‎Vibes and Stuff - Song with Lyrics by A Tribe Called Quest - Apple Music",
         "url": "https://music.apple.com/us/song/278911469",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://www.allmusic.com/album/finest-in-jazz-mw0000578146",
+        "label": "AllMusic — Al Campbell / Grant Green, Finest in Jazz",
+        "kind": "取材・署名評論"
       }
     ],
     "producers": [],
@@ -34851,7 +34887,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        3
+      ]
+    ]
   },
   {
     "id": "brand-nubian-steady-bootleggin",
@@ -34897,12 +34941,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "反復するフレーズとラップの拍の位置を聴く。",
-    "essayTitle": "戻るフレーズ、その拍にラップを探す",
+    "deck": "Lord Jamarが1993年に語った疑念を、事実認定と分けて読む。",
+    "essayTitle": "海賊盤をめぐる、Lord Jamarの疑念。",
     "essay": [
-      "Brand Nubianの「Steady Bootleggin'」。まず耳を向けたいのは、反復するフレーズとラップの拍の位置だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『In God We Trust』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「All for One」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "1993年4月16日の『The Hard Report』は、「Steady Bootleggin’」についてのLord Jamarの発言を載せている。彼が疑っていたのは、路上の海賊盤によって売上を低く見せ、黒人のハードコアな音楽の制作予算を下げるために、レコード会社自身が関わっている可能性だった。",
+      "Jamar自身、あくまで可能性を探っていると話している。この記事は会社の関与を裏付ける証拠を示していない。海賊盤への批判が、作品を評価し予算を決める側への不信にもつながっていた――そんな本人の視点が残された発言だ。"
     ],
     "facts": [
       {
@@ -34924,10 +34967,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "反復するフレーズとラップの拍の位置。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "歌の問題提起と、Jamarが取材で示した疑念を分けて読む。"
     ],
-    "context": "1993年のHip Hop選曲。『In God We Trust』の作品情報と音源の版を分けて掲載。",
+    "context": "同時代のLord Jamarの発言を、未立証の疑念として明示する。",
     "sources": [
       {
         "label": "Tommy Boy / Brand Nubian - Steady Bootleggin'",
@@ -34943,6 +34985,11 @@
         "label": "Brand Nubian: The Instrumental Collection, Brand Nubian - Qobuz",
         "url": "https://www.qobuz.com/us-en/album/brand-nubian-the-instrumental-collection-brand-nubian/jnlvi63ek87ab",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://manuals.plus/m/7bc84b341b05c9276c98bf5865949f631530303ff93263a1a9d8ec190aecdcc9",
+        "label": "The Hard Report — 1993年4月16日 p60 / Lord Jamarの発言（OCR公開版）",
+        "kind": "取材・署名評論"
       }
     ],
     "producers": [],
@@ -34962,7 +35009,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        3
+      ]
+    ]
   },
   {
     "id": "epmd-underground",
@@ -35008,12 +35063,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "二人のラップの温度差とビートの足場を聴く。",
-    "essayTitle": "二人のラップの温度差、その下のビート",
+    "deck": "Jesse Duckerが示した「Underground」の素材と構成。",
+    "essayTitle": "「Hydra」の低音に、二人の言葉を乗せる。",
     "essay": [
-      "EPMDの「Underground」。まず耳を向けたいのは、二人のラップの温度差とビートの足場だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Business as Usual』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「You’re a Customer」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "AlbumismのJesse Duckerは、「Underground」でErickとParrishが短い二つのヴァースを、Grover Washington Jr.の「Hydra」のベースラインに乗せていると説明する。曲名から受ける地下のイメージより先に、ジャズの録音との具体的な接点がある。",
+      "Duckerの指摘を手がかりに、元曲とEPMDを並べてみたい。低音がラップの足場になる関係は聴き比べの問いにできるが、切り出した長さや機材までは記事に書かれていない。"
     ],
     "facts": [
       {
@@ -35035,10 +35089,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "二人のラップの温度差とビートの足場。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "「Hydra」から「Underground」へ進み、低音と二人のヴァースの関係を確かめる。"
     ],
-    "context": "1990年のHip Hop選曲。『Business as Usual』の作品情報と音源の版を分けて掲載。",
+    "context": "Jesse Duckerの曲別解説から、Grover Washington Jr.への接点を読む。",
     "sources": [
       {
         "label": "EPMD - Topic / Underground",
@@ -35054,6 +35107,11 @@
         "label": "‎Business As Usual - Album by EPMD - Apple Music",
         "url": "https://music.apple.com/us/album/business-as-usual/1443839321",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://albumism.com/features/epmd-business-as-usual-album-anniversary",
+        "label": "Albumism — Jesse Ducker / Business As Usual回顧",
+        "kind": "取材・署名評論"
       }
     ],
     "producers": [
@@ -35077,7 +35135,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        3
+      ]
+    ]
   },
   {
     "id": "chubb-rock-the-one",
@@ -35354,12 +35420,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "社会へ向けた言葉と伴奏の温度差を聴く。",
-    "essayTitle": "社会へ向く言葉、伴奏との温度差",
+    "deck": "Dan Mennellaが注目した、フックの切り貼りされた声。",
+    "essayTitle": "メッセージを運ぶのは、ラップだけではない。",
     "essay": [
-      "Pete Rock & C.L. Smoothの「Anger In The Nation」。まず耳を向けたいのは、社会へ向けた言葉と伴奏の温度差だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Mecca and the Soul Brother』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Worldwide」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "RapReviewsのDan Mennellaは、「Anger In The Nation」でPete Rockが声をカットし、スクラッチしてフックを作る点を、DJ Premierになぞらえている。一方のC.L. Smoothには、黒人の団結と暮らしの改善を促す意図を読み取っている。",
+      "二人の役割を、伴奏とメッセージという単純な分業だけで考えない。Mennellaの評論を手がかりに、ラップする声とフックで扱われる声が、どう並ぶかを確かめたい。Premierとの比較は評論家の見立てであり、制作時の影響を本人が認めた証言ではない。"
     ],
     "facts": [
       {
@@ -35381,10 +35446,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "社会へ向けた言葉と伴奏の温度差。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "ラップとフックを行き来し、二通りの声の役割を確かめる。"
     ],
-    "context": "1992年のHip Hop選曲。『Mecca and the Soul Brother』の作品情報と音源の版を分けて掲載。",
+    "context": "署名レビューに帰属させ、ラップとスクラッチされた声の関係を読む。",
     "sources": [
       {
         "label": "Pete Rock Official / Pete Rock & C.L. Smooth - Anger In The Nation",
@@ -35405,6 +35469,11 @@
         "label": "Mecca And The Soul Brother, Pete Rock & CL Smooth - Qobuz",
         "url": "https://www.qobuz.com/jp-ja/album/mecca-and-the-soul-brother-pete-rock-cl-smooth/0075596094863",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://www.rapreviews.com/archive/BTTL_meccasoul.html",
+        "label": "RapReviews — Dan Mennella / Mecca and the Soul Brother",
+        "kind": "取材・署名評論"
       }
     ],
     "producers": [],
@@ -35424,7 +35493,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "lord-finesse-dj-mike-smooth-bud-mutha",
@@ -35470,12 +35547,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "声の抑揚とパンチラインの着地点を聴く。",
-    "essayTitle": "声の抑揚をたどり、パンチラインの着地へ",
+    "deck": "Lord Finesseが明かした、パンチラインの出発点。",
+    "essayTitle": "遊び場の悪口を、目の前の会話に変える。",
     "essay": [
-      "Lord Finesse & DJ Mike Smoothの「Bud Mutha」。まず耳を向けたいのは、声の抑揚とパンチラインの着地点だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Funky Technician』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "1990年という数字をいったん脇へ置き、声とリズムの関係から聴いてみたい。名盤の知識はあとからでも追いつける。まず「Bud Mutha」という名前と、自分の耳に残った場所を結びつけておく。"
+      "Lord FinesseはThomas Hobbsの取材で、子ども同士が悪口を応酬する「Dozens」の気分を、自分のパンチラインや比喩へ持ち込んだと語る。「Funky Technician」と「Bad Mutha」は、生の会話のように聞こえる必要があったという。",
+      "配信では「Bud Mutha」と表記されるこの曲を、本人の言葉から聴き直す。相手が目の前にいるような語りを、どうラップにするのか。巧さを数えるだけでなく、話しかける距離にも耳を向けたい。"
     ],
     "facts": [
       {
@@ -35497,10 +35573,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "声の抑揚とパンチラインの着地点。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "パンチラインを、目の前の相手への言葉として受け取ってみる。"
     ],
-    "context": "1990年のHip Hop選曲。『Funky Technician』の作品情報と音源の版を分けて掲載。",
+    "context": "Thomas Hobbsによる本人取材から、会話としてのラップを読む。",
     "sources": [
       {
         "label": "Lord Finesse - Topic / Bud Mutha",
@@ -35521,6 +35596,11 @@
         "label": "LORD FINESSE & DJ MIKE SMOOTH / FUNKY TECHNICIAN (LP) – fastcut records",
         "url": "https://fastcutrecords.net/en/products/lord-finesse-dj-mike-smooth-funky-technician-lp",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://www.powmag.net/p/lord-finesse-interview-ditc-funky-technician-the-awakening-the-sp-1200-project",
+        "label": "Passion of the Weiss — Thomas Hobbs / Lord Finesse本人取材",
+        "kind": "取材・署名評論"
       }
     ],
     "producers": [],
@@ -35538,7 +35618,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "slick-rick-it-s-a-boy",
