@@ -41882,12 +41882,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "言葉の角を立てる声のアクセントを聴く。",
-    "essayTitle": "言葉の角は、声のアクセントに現れる",
+    "deck": "2015年のPremier公演評から辿る、「Da Bichez」の別の姿。",
+    "essayTitle": "ヘルシンキでは、二人の管楽器奏者が加わった。",
     "essay": [
-      "Jeru the Damajaの「Da Bichez」。まず耳を向けたいのは、言葉の角を立てる声のアクセントだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『The Sun Rises in the East』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Ya Playin' Yaself」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "Tony ÖhbergはFinland Todayの2015年公演評で、ヘルシンキのNosturiでDJ Premierがライブ・バンドと演奏した「Da Bichez」を取り上げている。そこで加わったのは、Takuya KurodaのホーンとCorey Kingのトロンボーンだった。",
+      "ここに掲載するのはJeruの原曲で、その公演音源ではない。後年、制作したDJが生演奏の舞台へ持ち出した曲として原曲へ戻ると、ラッパーの作品とプロデューサーのレパートリーが重なる場所を考えられる。"
     ],
     "facts": [
       {
@@ -41909,10 +41908,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "言葉の角を立てる声のアクセント。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "2015年のバンド演奏という後日談を入口に、Jeruの原曲へ戻る。"
     ],
-    "context": "1994年のHip Hop選曲。『The Sun Rises in the East』の作品情報と音源の版を分けて掲載。",
+    "context": "Tony Öhbergの現場報告で見る、原曲からライブのレパートリーへの広がり。",
     "sources": [
       {
         "label": "Jeru The Damaja - Topic / Da Bichez",
@@ -41933,6 +41931,11 @@
         "label": "‎Da Bichez (Mixed) - Song by Jeru the Damaja - Apple Music",
         "url": "https://music.apple.com/us/song/1746586986",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Tony Öhberg / Finland Today — DJ Premier Helsinki公演評",
+        "url": "https://finlandtoday.fi/dj-premier-brings-the-rap-classics-to-life-with-his-live-band-in-helsinki/",
+        "kind": "記名現場取材"
       }
     ],
     "producers": [
@@ -41956,7 +41959,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "krs-one-return-of-the-boom-bap",
@@ -42002,12 +42013,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "表題そのものを響かせるドラムと声を聴く。",
-    "essayTitle": "ブーン・バップを名乗る、ドラムと声の響き",
+    "deck": "Jesse Duckerが表題曲に聴き取った、サウス・ブロンクスの風景。",
+    "essayTitle": "戻る先は、公園のサウンドシステム。",
     "essay": [
-      "KRS-Oneの「Return Of The Boom Bap」。まず耳を向けたいのは、表題そのものを響かせるドラムと声だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Return of the Boom Bap』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「I Can't Wake Up」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "Jesse DuckerはAlbumismの回顧評で、「Return of the Boom Bap」の荒く歪んだドラムを、サウス・ブロンクスの公園のジャムで鳴るサウンドシステムになぞらえている。これはKRS-Oneが制作とラップを担う表題曲についての、評者の聴き方だ。",
+      "曲名にある「戻る」を、特定の場所の記憶と結びつけて読む入口になる。ただし公園で録音したという意味ではない。Duckerの比喩を手がかりに、曲が掲げる音楽観を考えてみたい。"
     ],
     "facts": [
       {
@@ -42029,10 +42039,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "表題そのものを響かせるドラムと声。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "公園のジャムというDuckerの比喩を手がかりに、表題の「戻る」を考える。"
     ],
-    "context": "1993年のHip Hop選曲。『Return of the Boom Bap』の作品情報と音源の版を分けて掲載。",
+    "context": "録音場所の断定ではなく、記名評が描くサウンドシステムのイメージ。",
     "sources": [
       {
         "label": "KRS ONE - Topic / Return of the Boom Bap",
@@ -42053,6 +42062,11 @@
         "label": "KRS-One - Return Of The Boombap (30th Anniversary) | Banquet Records",
         "url": "https://www.banquetrecords.com/krs-one/return-of-the-boombap-%2830th-anniversary%29/krsone",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Jesse Ducker / Albumism — Return of the Boom Bap回顧",
+        "url": "https://albumism.com/features/krs-one-return-of-the-boom-bap-album-anniversary",
+        "kind": "記名音楽批評"
       }
     ],
     "producers": [],
@@ -42072,7 +42086,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "akinyele-ak-ha-ha-ak-hoo-hoo",
@@ -42118,12 +42140,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "声の表情が変わるフックと小節の区切りを聴く。",
-    "essayTitle": "フックで変わる声の表情、小節で追う",
+    "deck": "Robbie Ettelsonが意外なシングル選択と見た、短い自己紹介。",
+    "essayTitle": "八小節で、次のフックへ。",
     "essay": [
-      "Akinyeleの「Ak Ha Ha! Ak Hoo Hoo?」。まず耳を向けたいのは、声の表情が変わるフックと小節の区切りだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Vagina Diner』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "1993年という数字をいったん脇へ置き、声とリズムの関係から聴いてみたい。名盤の知識はあとからでも追いつける。まず「Ak Ha Ha! Ak Hoo Hoo?」という名前と、自分の耳に残った場所を結びつけておく。"
+      "Robbie EttelsonはUnkutの『Vagina Diner』曲別評で、「Ak Ha Ha!」を三分に満たない曲とし、フックごとのラップが八小節しかない点に注目している。彼にとっては、最初のシングルとして意外な選択だった。",
+      "長いヴァースで押し切るのでなく、短いまとまりがフックへ戻る。その区切りを数えながら聴くことはできる。Ettelsonの評価に同意するかどうかは別として、短さが自己紹介にどう働くかを確かめてみたい。"
     ],
     "facts": [
       {
@@ -42145,10 +42166,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "声の表情が変わるフックと小節の区切り。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "Ettelsonの八小節という指摘を手がかりに、フックへ戻る区切りを追う。"
     ],
-    "context": "1993年のHip Hop選曲。『Vagina Diner』の作品情報と音源の版を分けて掲載。",
+    "context": "短いヴァースを入口にする、Unkutの曲別批評。",
     "sources": [
       {
         "label": "everydayhiphop / Akinyele - Ak Ha Ha Ak Hoo Hoo",
@@ -42164,6 +42184,11 @@
         "label": "‎Akinyele - Apple Music",
         "url": "https://music.apple.com/jp/artist/akinyele/1572860449",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Robbie Ettelson / Unkut — Vagina Diner曲別評",
+        "url": "https://unkut.com/2020/02/great-rap-you-cant-stream-akinyeles-vagina-diner-lp/",
+        "kind": "記名音楽批評"
       }
     ],
     "producers": [],
@@ -42181,7 +42206,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        3
+      ]
+    ]
   },
   {
     "id": "intelligent-hoodlum-at-large",
@@ -42345,12 +42378,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "音楽の仕事を語る複数の声の交差を聴く。",
-    "essayTitle": "音楽を仕事として語る、いくつもの声",
+    "deck": "Skeff Anselmが語る、「Show Business」の作り直し。",
+    "essayTitle": "一度録った曲を、別のスタジオでやり直す。",
     "essay": [
-      "A Tribe Called Questの「Show Business」。まず耳を向けたいのは、音楽の仕事を語る複数の声の交差だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『The Low End Theory』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Vibes And Stuff」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "Skeff AnselmはAmbrosia For Headsの取材で、TribeとBrand Nubianの「Show Business」を最初はJazzy Jayのスタジオで録ったと話す。その方向性を、とりわけChris Lightyが好まず、曲をやり直してBattery Studiosで録音したという。",
+      "参加者が集まれば、そのまま完成するとは限らない。この証言から見えてくるのは、録音済みの曲をもう一度組み立て直す判断だ。掲載版へ辿り着くまでに別の段階があったことを意識して、複数の声のやり取りを追いたい。"
     ],
     "facts": [
       {
@@ -42372,10 +42404,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "音楽の仕事を語る複数の声の交差。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "Skeff Anselmの再録の回想を手がかりに、完成版に集まる声を追う。"
     ],
-    "context": "1991年のHip Hop選曲。『The Low End Theory』の作品情報と音源の版を分けて掲載。",
+    "context": "二つのスタジオを辿る、録音担当者の「Show Business」回想。",
     "sources": [
       {
         "label": "A Tribe Called Quest - Topic / Show Business",
@@ -42386,6 +42417,11 @@
         "label": "‎Show Business (feat. Diamond D, Lord Jamar & Sadat X) - Song with Lyrics by A Tribe Called Quest - Apple Music",
         "url": "https://music.apple.com/us/song/278911467",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Ambrosia For Heads / Skeff Anselm・Bob Power取材",
+        "url": "https://ambrosiaforheads.com/2016/09/a-tribe-called-quest-low-end-theory-making-the-album-interview/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -42407,7 +42443,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "diamond-the-psychotic-neurotics-pass-dat-shit",
@@ -42454,12 +42498,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "次々と交代するMCとビートの一定さを聴く。",
-    "essayTitle": "ＭＣは交代する、ビートは一定のまま",
+    "deck": "Diamond Dの回想に残る、Fat Joeとのご近所関係。",
+    "essayTitle": "通りの向こうのJoeが、レコードに登場する。",
     "essay": [
-      "Diamond & The Psychotic Neuroticsの「Pass Dat Shit」。まず耳を向けたいのは、次々と交代するMCとビートの一定さだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Stunts, Blunts & Hip Hop』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Freestyle (Yo, That's That Shit)」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "Diamond DはUnkutの取材で、Fat Joeとは同じ住宅団地の出身で、Joeが通りの向かいに住んでいたと話す。そしてJoeの名が初めて聴かれた曲として「Pass Dat Shit」を挙げ、ソロ契約前から一緒に仕事をしていたことを振り返っている。",
+      "後の名義を並べるだけでは見えない、日常の距離がある。Diamondの証言を入口にすると、この共演は有名人同士の集合というより、近所の関係がレコードに残った場面として辿れる。初登場という位置付けは、彼自身の回想として受け取りたい。"
     ],
     "facts": [
       {
@@ -42480,10 +42523,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "次々と交代するMCとビートの一定さ。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "Diamond Dのご近所の回想を手がかりに、Fat Joeとの共演を辿る。"
     ],
-    "context": "1992年のHip Hop選曲。『Stunts, Blunts & Hip Hop』の作品情報と音源の版を分けて掲載。",
+    "context": "ソロ契約より前から続いていた、通りを挟んだ仲間との制作。",
     "sources": [
       {
         "label": "Diamond & The Psychotic Neurotics - Topic / Pass Dat S**T",
@@ -42494,6 +42536,11 @@
         "label": "Apple Music — Diamond & The Psychotic Neurotics『Stunts, Blunts, & Hip Hop』",
         "url": "https://music.apple.com/us/album/stunts-blunts-hip-hop/1442812533",
         "kind": "正規配信の作品情報"
+      },
+      {
+        "label": "Unkut / Diamond D interview",
+        "url": "https://unkut.com/2014/02/diamond-d-the-unkut-interview/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -42515,7 +42562,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "the-legion-legion-groove",
@@ -42561,12 +42616,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "グループ名と結びついたフックの輪郭を聴く。",
-    "essayTitle": "グループの名がフックの輪郭になる",
+    "deck": "Chucky Smashが「Legion Groove」に挙げる、先人たちの影響。",
+    "essayTitle": "エコーの向こうに、最初に通ったジャムがある。",
     "essay": [
-      "The Legionの「Legion Groove」。まず耳を向けたいのは、グループ名と結びついたフックの輪郭だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Theme + Echo = Krill』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "1994年という数字をいったん脇へ置き、声とリズムの関係から聴いてみたい。名盤の知識はあとからでも追いつける。まず「Legion Groove」という名前と、自分の耳に残った場所を結びつけておく。"
+      "Chucky SmashはThe Hype Magazineの取材で、Cold CrushやFunky 4 Plusらを影響源として挙げ、ジャムの時代にはエコー・チェンバーが重要だったと振り返る。自分たちもエコーとディレイを多用し、その影響の好例が「Legion Groove」だと説明している。",
+      "ここでの反響は、単なる装飾というより、本人が辿るヒップホップの記憶への入口になる。どの機材を使ったかまでは、この証言は特定していない。Chuckyの言葉を頼りに、曲の中で声がどう返ってくるかに耳を向けたい。"
     ],
     "facts": [
       {
@@ -42588,10 +42642,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "グループ名と結びついたフックの輪郭。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "Chucky Smashが語るジャムの記憶を手がかりに、声の反響を追う。"
     ],
-    "context": "1994年のHip Hop選曲。『Theme + Echo = Krill』の作品情報と音源の版を分けて掲載。",
+    "context": "エコーとディレイを先人たちへの影響線として語る、メンバー本人の証言。",
     "sources": [
       {
         "label": "The Legion - Topic / Legion Groove",
@@ -42602,6 +42655,11 @@
         "label": "‎Legion Groove - Song by The Legion - Apple Music",
         "url": "https://music.apple.com/us/song/573958856",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "The Hype Magazine / Chucky Smash interview",
+        "url": "https://www.thehypemagazine.com/2023/04/30/chucky-smash-the-legion-bringing-it-back/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [],
@@ -42619,7 +42677,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "common-take-it-ez",
@@ -42665,12 +42731,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "初期の声の弾み方とフロウの細かな変化を聴く。",
-    "essayTitle": "初期の声の弾みを、フロウの変化で追う",
+    "deck": "Commonが覚えている、Best Westernの一室。",
+    "essayTitle": "自分の曲を初めて聴いたのは、ホテルのラジオ。",
     "essay": [
-      "Commonの「Take It EZ」。まず耳を向けたいのは、初期の声の弾み方とフロウの細かな変化だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Can I Borrow a Dollar?』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Breaker 1/9」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "CommonはAdam Fleischerに語ったXXLの回想で、「Take It EZ」がラジオにかかった最初のシングルだったと振り返る。初めて耳にしたときは、シカゴ北部での宣伝活動中、Best Westernの部屋にいたという。",
+      "そのときはスターになれると高揚した一方、後から見れば、一度の放送だけでは足りなかったとも彼は語る。初めて公共の電波に自分の声が乗る喜びと、聴かれ続けるための仕事。その両方の入口として、このデビュー曲へ戻ってみたい。"
     ],
     "facts": [
       {
@@ -42692,10 +42757,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "初期の声の弾み方とフロウの細かな変化。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "Commonが初めてラジオで自分を聴いた記憶から、デビュー曲を辿る。"
     ],
-    "context": "1992年のHip Hop選曲。『Can I Borrow a Dollar?』の作品情報と音源の版を分けて掲載。",
+    "context": "Best Westernの部屋から始まる、放送と継続的な活動についての本人回想。",
     "sources": [
       {
         "label": "Common - Topic / Take It EZ",
@@ -42716,6 +42780,11 @@
         "label": "‎Take It EZ – Song by Common – Apple Music",
         "url": "https://music.apple.com/gb/song/444480473",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Adam Fleischer / XXL — Common debut回想",
+        "url": "https://www.xxlmag.com/common-reflects-on-20-year-anniversary-of-debut-can-i-borrow-a-dollar/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -42737,7 +42806,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "showbiz-a-g-silence-of-the-lambs",
@@ -42897,12 +42974,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "客演を挟んで切り替わる声の個性を聴く。",
-    "essayTitle": "客演の前後で聴き分ける、声の個性",
+    "deck": "Steve “Flash” Juonが聴き分ける、『Reasonable Doubt』以前。",
+    "essayTitle": "まだ、速さで名を刻もうとしていたJay-Z。",
     "essay": [
-      "Original Flavor feat. Jay-Zの「Can I Get Open」。まず耳を向けたいのは、客演を挟んで切り替わる声の個性だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Beyond Flavor』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "1993年という数字をいったん脇へ置き、声とリズムの関係から聴いてみたい。名盤の知識はあとからでも追いつける。まず「Can I Get Open」という名前と、自分の耳に残った場所を結びつけておく。"
+      "Steve “Flash” JuonはRapReviewsの『Beyond Flavor』評で、「Can I Get Open」のJay-Zを、言葉を聴き取るのが難しいほど速いと評している。彼はその客演を、Jaz-Oのハイプマンという立場から自分を際立たせようとする時期の表現として読む。",
+      "後の代表作から遡るだけでなく、まだ声の出し方で居場所を探す時期として聴く。これはJay-Z本人の制作意図ではなく、Juonのキャリアを横断する解釈だ。速さがどんな自己紹介になるかを考える入口にしたい。"
     ],
     "facts": [
       {
@@ -42924,10 +43000,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "客演を挟んで切り替わる声の個性。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "Juonの評を手がかりに、後年の代表作と決めつけず初期の客演を聴く。"
     ],
-    "context": "1993年のHip Hop選曲。『Beyond Flavor』の作品情報と音源の版を分けて掲載。",
+    "context": "RapReviewsが読む、Jaz-O周辺から独自の存在感を求めるJay-Z。",
     "sources": [
       {
         "label": "Ill Al Kush / Original Flavor - Can I Get Open? feat. Jay-Z (HD)",
@@ -42948,6 +43023,11 @@
         "label": "Can I Get Open (feat. JAŸ-Z) - Original Flavor: Song Lyrics, Music Videos & Concerts",
         "url": "https://www.shazam.com/en-gb/song/1716584717/can-i-get-open-feat-jay-z",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Steve “Flash” Juon / RapReviews — Beyond Flavor",
+        "url": "https://www.rapreviews.com/2009/03/original-flavor-beyond-flavor/",
+        "kind": "記名音楽批評"
       }
     ],
     "producers": [],
@@ -42965,7 +43045,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "the-umc-s-never-never-land",
