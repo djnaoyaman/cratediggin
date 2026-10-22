@@ -4,6 +4,8 @@ R=Path(__file__).resolve().parents[1]
 F=json.loads((R/'scripts/fixtures/approved-reader-research-notes.json').read_text())
 sha=lambda b:hashlib.sha256(b).hexdigest()
 def historical_reader_research_notes_file(path,data):
+ from approved_simple_content_ci import historical_simple_content_ci_file
+ data=historical_simple_content_ci_file(path,data)
  c=F['files'].get(path)
  if c is None:return data
  assert sha(data)==c['afterSHA256'],'Unapproved reader notice drift: '+path
