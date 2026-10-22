@@ -28103,12 +28103,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "抗議の言葉と、鋭いビートの輪郭。",
-    "essayTitle": "音が先に、姿勢を示す。",
+    "deck": "「Fuck the Police」のきっかけを、母は覚えていた。",
+    "essayTitle": "怒りを、曲にして返しなさい。",
     "essay": [
-      "題名を柔らかく包み直す必要はない。強い言葉には、そのまま向き合うべき理由がある。",
-      "声の主張を追いながら、ビートの細部にも耳を残しておく。言葉と音が別々に立っているわけではない。",
-      "楽しい音楽と切実な音楽は、別の棚にしか入らないものではない。体が動いたあとで、考え始めることもある。"
+      "J Dillaの母Maureen Yanceyは、LA Weeklyの取材で「Fuck the Police」が生まれるきっかけを語っている。家の近くのガソリンスタンドへ出かけた息子が警察に止められ、車を調べられた夜のことだ。",
+      "母の回想では、ひどく怒ったDillaに、怒りを役立てて曲にするよう勧めたという。題名の強い言葉だけを取り出すより、身近な場所で受けた扱いと、それを音楽へ向けた会話を一緒に読むほうが、この曲への入口になる。"
     ],
     "facts": [
       {
@@ -28129,10 +28128,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "抗議の言葉と、鋭いビートの輪郭。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "母が語る出来事を背景に、Dilla自身の言葉を追う。"
     ],
-    "context": "2001年の作品として、J Dillaの制作とJ Dillaの表現の接点を聴く。",
+    "context": "2008年の母への取材から、曲へ向かった怒りの背景を読む。",
     "sources": [
       {
         "label": "J Dilla - Topic / Fuck the Police",
@@ -28143,6 +28141,11 @@
         "label": "J Dilla公式 / Pay Jay",
         "url": "https://jdilla.com/catalog/payjay.html",
         "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "url": "https://www.laweekly.com/an-interview-with-j-dillas-mother-ms-maureen-yancey/",
+        "label": "Jeff Weiss — Maureen Yanceyインタビュー / LA Weekly (2008)",
+        "kind": "調査出典（本人・関係者証言または署名記事）"
       }
     ],
     "producers": [
@@ -28165,7 +28168,15 @@
     "artists": [
       "J Dilla"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "jaylib-the-red",
@@ -28714,12 +28725,12 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "Baduの歌と、ゆっくりうねるビート。",
-    "essayTitle": "声が歩くための、柔らかな道。",
+    "deck": "Dillaの地下室で始まった、最初のサンプリングの授業。",
+    "essayTitle": "レコードも、切り出す場所も、Baduが選んだ。",
     "essay": [
-      "Erykah Baduの声を聴いているつもりが、いつのまにか低音の動きまで追っている。歌とビートの関係が、とても近い。",
-      "主役を支えるというより、同じ場所で呼吸している感じがする。間の取り方に、曲全体の居心地がある。",
-      "細かな仕組みはあとで調べてもいい。まずは体がどこで揺れたかを覚えておく。それも立派な聴き方だと思う。"
+      "Erykah Baduは2011年のRed Bull Music Academyで、DillaのレコードからTarika Blueを選び、それが「Didn’t Cha Know」になったと話している。選ばせてもらったのは盤だけではない。使う部分も自分で選び、Dillaからサンプリングの方法を教わったという。",
+      "さらにBaduは、レコードの二か所をサンプリングし、その上に生のパーカッションやシェイカーが加えられたと説明する。完成したビートを受け取った歌手、という図だけでは収まらない共同作業だった。",
+      "声を聴く時にも、その前にあった素材選びを思い浮かべたい。どこを切り取るかを歌い手自身が決めることも、曲の出発点になっている。"
     ],
     "facts": [
       {
@@ -28733,15 +28744,19 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "Baduの歌と、ゆっくりうねるビート。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "歌だけでなく、Baduが選んだ素材と追加された打楽器の関係にも耳を向ける。"
     ],
-    "context": "2000年の作品として、J Dillaの制作とErykah Baduの表現の接点を聴く。",
+    "context": "Badu本人の説明から、素材選びとサンプリングの共同作業をたどる。",
     "sources": [
       {
         "label": "Erykah Badu - Topic / Didn't Cha Know",
         "url": "https://www.youtube.com/watch?v=b4fCymLkgOQ",
         "kind": "公式配信・動画"
+      },
+      {
+        "url": "https://www.redbullmusicacademy.com/lectures/erykah-badu-frother-of-the-month/",
+        "label": "Erykah Badu — RBMA Madrid講演 (2011)",
+        "kind": "調査出典（本人・関係者証言または署名記事）"
       }
     ],
     "producers": [
@@ -28762,7 +28777,18 @@
     "artists": [
       "Erykah Badu"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "janet-jackson-got-til-its-gone",
@@ -28809,12 +28835,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "Janet、Q-Tip、Joni Mitchellが重なる原曲版。",
-    "essayTitle": "同じ曲名でも、制作の名前は確かめる。",
+    "deck": "Joni Mitchellが語った、Janetの声と自分の声。",
+    "essayTitle": "引用された声の主も、この曲を好きだった。",
     "essay": [
-      "声が重なるたびに、曲の中の距離が変わる。Janetの歌、Q-Tipのラップ、引用されたJoni Mitchellの声が、それぞれの場所を持っている。",
-      "音の手触りから好きな作り手を連想することはある。しかし、聴感と制作クレジットは同じではない。ここでは原曲とリミックスを分けて並べた。",
-      "思い込みを一度ほどくと、同じ曲を聴く入口が増える。レコードを掘る作業には、名前を確かめ直す時間も含まれている。"
+      "Joni Mitchellは1998年のKGSR-FMのインタビューで、Janet Jacksonが自分の歌をサンプリングした曲を気に入っていると話している。現代のラジオへの先入観をほどこうと聴いていた時、ひときわ印象に残ったという。",
+      "とりわけ彼女が挙げたのは、Janetの声と自分の声の組み合わせだった。引用された側の歌手も、新しい曲の中で声がどう出会ったかを聴いていた。原曲とリミックスの制作名義は区別したまま、その声の受け渡しを追ってみたい。"
     ],
     "facts": [
       {
@@ -28835,10 +28860,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "Janet、Q-Tip、Joni Mitchellが重なる原曲版。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "JanetとJoniの声が現れる場所を確かめる。評価はJoni自身の言葉として読む。"
     ],
-    "context": "1997年の作品として、Janet Jackson / Jimmy Jam / Terry Lewisの制作とJanet Jacksonの表現の接点を聴く。",
+    "context": "サンプルの出どころだけでなく、引用された本人の受け止め方へ。",
     "sources": [
       {
         "label": "Janet Jackson - Topic / Got 'Til It's Gone",
@@ -28849,6 +28873,11 @@
         "label": "Universal Music / 原曲制作クレジット",
         "url": "https://www.universalmusic.it/popular-music/album/got-til-its-gone_30821155966/",
         "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "url": "https://jonimitchell.com/library/print.cfm?id=998",
+        "label": "Jody Denberg — Joni Mitchellインタビュー / KGSR-FM (1998)",
+        "kind": "調査出典（本人・関係者証言または署名記事）"
       }
     ],
     "producers": [
@@ -28871,7 +28900,15 @@
     "artists": [
       "Janet Jackson"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "janet-jackson-got-til-its-gone-jay-dees-revenge-mix",
@@ -28918,12 +28955,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "Jay Deeによるリミックスを、原曲と区別して聴く。",
-    "essayTitle": "同じ声に、別の足取りを。",
+    "deck": "Brand New Heaviesの盤からつながった、Jay Deeの仕事。",
+    "essayTitle": "Janetとの接点は、別のリミックスだった。",
     "essay": [
-      "同じ歌声でも、その下のビートが変わると歩き方まで変わる。リミックスの面白さは、知っている曲が別の顔を見せるところにある。",
-      "Jay Deeの名を追うなら、ここではRevenge Mixという版まで確かめておきたい。曲名だけでは、制作の役割を取り違えてしまう。",
-      "原曲と行き来しながら、どこに重さを感じるかを比べる。正解を当てるためではなく、自分の耳の動きを知るために。"
+      "Jay Deeは2001年のインタビューで、Janet Jacksonと当時の恋人から声をかけられた時のことを語っている。二人はバルバドスのパーティーで彼のBrand New Heaviesのリミックスを一晩聴き、作り手が彼だとは知らなかったという。Jay Deeは、その出会いが次のアルバムでのリミックス仕事につながったと振り返る。",
+      "ここで聴くのは「Ummah Jay Dee’s Revenge Mix」。Universalの25周年版案内でも、原曲とは別にこの版名で収録されている。別の曲で届いた仕事が、Janetの声を扱う機会になる。そのつながりを、原曲の制作クレジットと混同せずにたどりたい。"
     ],
     "facts": [
       {
@@ -28944,10 +28980,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "Jay Deeによるリミックスを、原曲と区別して聴く。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "Brand New Heaviesのリミックス仕事からJanetへ、作り手の足跡を追う。"
     ],
-    "context": "1997年の作品として、J Dilla / The Ummahの制作とJanet Jacksonの表現の接点を聴く。",
+    "context": "Jay Dee本人の出会いの回想と、レーベルが示す正確な版名を分けて照合する。",
     "sources": [
       {
         "label": "Janet Jackson - Topic / Got 'Til It's Gone (Ummah Jay Dee's Revenge Mix)",
@@ -28958,6 +28993,11 @@
         "label": "Universal Music / The Velvet Rope Deluxe",
         "url": "https://www.universal-music.co.jp/janet-jackson/news/2022-10-07/",
         "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "url": "https://www.stonesthrow.com/news/soul-under-control/",
+        "label": "Datwon Thomas — Jay Deeインタビュー / Platform.net (2001), Stones Throw転載",
+        "kind": "調査出典（本人・関係者証言または署名記事）"
       }
     ],
     "producers": [
@@ -28981,7 +29021,16 @@
     "artists": [
       "Janet Jackson"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        1,
+        2
+      ]
+    ]
   },
   {
     "id": "lootpack-whenimondamic",
@@ -29530,12 +29579,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "MF DOOM、Madlib、Quasimotoの声が入り交じる。",
-    "essayTitle": "煙の向こうに、何人いる。",
+    "deck": "2004年の評者が拾った、Madlibのもう一つの役割。",
+    "essayTitle": "ビートの作り手が、声の高さまで変えて出てくる。",
     "essay": [
-      "声が次々と現れ、曲の輪郭まで少し曖昧になる。誰がどこから話しかけてくるのか、その距離感が面白い。",
-      "MF DOOMとMadlibの組み合わせは、役割分担を知ったあとでも簡単には整理しきれない。音の断片が、話の合間へ入り込む。",
-      "わからない部分をすぐに片づけなくてもいい。一度聴いて残った小さな引っかかりが、次に再生する理由になる。"
+      "発売当時の「Money Folder / America’s Most Blunted」を評したSteve “Flash” Juonは、後者でMadlibが声のピッチを変えたヴァースを披露している点を挙げている。ビートを作るだけでなく、声を加工して曲の内側へ入ってくる。",
+      "この指摘を入口に、DOOMとMadlibそれぞれの声を追ってみたい。聞こえてくる声の違いを、そのまま人数の違いだと思わずに聴く。加工方法の細部やサンプルの出どころは、この作品評だけからは決めつけない。"
     ],
     "facts": [
       {
@@ -29549,15 +29597,19 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "MF DOOM、Madlib、Quasimotoの声が入り交じる。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "評者が指摘したMadlibの声の変化を手がかりに、各ヴァースを聴き分ける。"
     ],
-    "context": "2003年の作品として、Madlibの制作とMadvillainの表現の接点を聴く。",
+    "context": "制作とラップを分けきれないMadlibの役割を、同時代の署名評から読む。",
     "sources": [
       {
         "label": "Madvillain - Topic / America's Most Blunted",
         "url": "https://www.youtube.com/watch?v=Fw_qKG1xe_8",
         "kind": "公式配信・動画"
+      },
+      {
+        "url": "https://www.rapreviews.com/archive/2004_01_filevol026.html",
+        "label": "Steve “Flash” Juon — The Singles File 026 / RapReviews (2004)",
+        "kind": "調査出典（本人・関係者証言または署名記事）"
       }
     ],
     "producers": [
@@ -29580,7 +29632,15 @@
     "artists": [
       "Madvillain"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "madvillain-accordion",
@@ -30009,12 +30069,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "Freddie Gibbsの語りと、反復する旋律。",
-    "essayTitle": "強い声の下に、柔らかな反復。",
+    "deck": "サンフランシスコのステージから届いた「Thuggin」。",
+    "essayTitle": "二人の組み合わせは、まず会場で明かされた。",
     "essay": [
-      "声の強さと、下で回る旋律の感じが同じ方向を向いていない。その距離が、曲に奥行きをつくっている。",
-      "Freddie Gibbsの言葉を追っていても、ループは耳の隅から離れない。ラップとビートのどちらを聴いていたか、途中でわからなくなる。",
-      "一緒に作るとは、同じことをすることではない。異なる手触りが一曲に収まったときの面白さを、ここでは味わいたい。"
+      "2011年11月、Madlibはサンフランシスコの公演でFreddie Gibbsをステージへ招き、共同EP『Thuggin』を発表した。The FADERのNaomi Zeichnerは、公演後に金色のスリーブに入った500枚が販売されたと報じている。",
+      "表題曲は、長い共同作業の入口を同時代に知らせた一曲でもある。EPではヴォーカル版のすぐあとにインスト版が並ぶ。まず二人を一緒に聴き、それから声を外した版へ進むと、この出会いを別の角度から確かめられる。"
     ],
     "facts": [
       {
@@ -30035,10 +30094,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "Freddie Gibbsの語りと、反復する旋律。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "EPのヴォーカル版とインスト版を行き来し、ラップとビートの関係を確かめる。"
     ],
-    "context": "2011年の作品として、Madlibの制作とFreddie Gibbs & Madlibの表現の接点を聴く。",
+    "context": "2011年の同時代記事から、共同EPが公の場へ出た瞬間をたどる。",
     "sources": [
       {
         "label": "Freddie Gibbs - Topic / Thuggin’",
@@ -30049,6 +30107,11 @@
         "label": "Freddie Gibbs & Madlib公式 / Thuggin EP",
         "url": "https://freddiegibbsmadlib.bandcamp.com/album/thuggin-ep",
         "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "url": "https://www.thefader.com/2011/11/21/stream-freddie-gibbs-and-madlib-thuggin",
+        "label": "Naomi Zeichner — Freddie Gibbs and Madlib, Thuggin / The FADER (2011)",
+        "kind": "調査出典（本人・関係者証言または署名記事）"
       }
     ],
     "producers": [
@@ -30069,7 +30132,15 @@
     "artists": [
       "Freddie Gibbs & Madlib"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "freddie-gibbs-madlib-crime-pays",
@@ -30116,12 +30187,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "流れるような歌声の断片に、ラップが切り込む。",
-    "essayTitle": "滑らかな道を、速い言葉で。",
+    "deck": "「Crime Pays」の映像に持ち込まれた、Gibbs自身の象徴。",
+    "essayTitle": "シマウマは、ただの異国の飾りではなかった。",
     "essay": [
-      "耳に残る柔らかな反復と、細かく進むラップ。両方を同時に追おうとすると、何度でも聴き直したくなる。",
-      "ビートが優しいからといって、語られることまで穏やかとは限らない。その温度差も、曲を平面的にしない理由のひとつだ。",
-      "心地よい、で終えてもいい。そこからもう一歩耳を寄せてもいい。聴く深さを自分で選べる曲は、長く手元に残る。"
+      "「Crime Pays」の映像に登場するシマウマについて、Freddie GibbsはInterviewの取材で由来を説明している。『Piñata』制作中、黒いテーブルの上のコカインを見て模様を連想したのが始まりで、MadlibのQuasimotoのように人の記憶に残る象徴を作りたかったという。",
+      "Madlibも同じ取材で、この映像のシマウマにはドラッグへの参照があると説明する。シマウマを映像の飾りとだけ見るのではなく、本人がそこへ何を持ち込んだのかを読む。映像のモチーフから、二人の作品をつなぐ手がかりも見つかる。"
     ],
     "facts": [
       {
@@ -30135,15 +30205,19 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "流れるような歌声の断片に、ラップが切り込む。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "曲と映像を区別しながら、Gibbsが語るシマウマの由来を手がかりにする。"
     ],
-    "context": "2019年の作品として、Madlibの制作とFreddie Gibbs & Madlibの表現の接点を聴く。",
+    "context": "2019年の二人への取材から、ミュージックビデオの象徴を読む。",
     "sources": [
       {
         "label": "Freddie Gibbs - Topic / Crime Pays",
         "url": "https://www.youtube.com/watch?v=99G6GU7Vv4g",
         "kind": "公式配信・動画"
+      },
+      {
+        "url": "https://www.interviewmagazine.com/music/freddie-gibbs-madlib-madgibbs-bandana-burgers-black-holes-rorschach-test",
+        "label": "Mat Ferraro — Freddie Gibbs & Madlib / Interview (2019)",
+        "kind": "調査出典（本人・関係者証言または署名記事）"
       }
     ],
     "producers": [
@@ -30164,7 +30238,15 @@
     "artists": [
       "Freddie Gibbs & Madlib"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "madlib-road-of-the-lonely-ones",
@@ -30349,12 +30431,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "Madlibのビートと、MF DOOMの自在な語り。",
-    "essayTitle": "一杯の題名に、詰め込む言葉。",
+    "deck": "『Madvillainy』から外れた「One Beer」の行き先。",
+    "essayTitle": "入らなかった一曲が、別のアルバムへ移った。",
     "essay": [
-      "曲名はずいぶん小さな注文だが、言葉の量は一杯では収まらない。MF DOOMの声が、ビートの隙間を次々と歩いていく。",
-      "同じ作り手同士でも、Madvillain名義とソロ作品では見え方が変わる。名前の違いを確かめると、音楽の行き来が少し楽しくなる。",
-      "軽い題名と濃い中身。その釣り合わなさも、この曲の気前のよさなのだろう。"
+      "Stones Throwによると、「One Beer」は『Madvillainy』のために録音されたが、作り手たちはアルバムに合わないと判断した。そこでレーベルは片面の7インチ盤を約千枚作り、一部の店でアルバム購入者へ期間限定で配った。",
+      "その後DOOMは、この曲をソロ作『MM..FOOD』に収録する。レーベルは発売されてからそのことを知ったと記している。Madvillainの周辺にあった一曲が、DOOMの別の作品で居場所を得た。名義や収録先の違いも、曲の歩いた道になる。"
     ],
     "facts": [
       {
@@ -30368,15 +30449,19 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "Madlibのビートと、MF DOOMの自在な語り。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "『MM..FOOD』の中で聴いたあと、Madvillainの作品へ戻ってみる。"
     ],
-    "context": "2004年の作品として、Madlibの制作とMF DOOMの表現の接点を聴く。",
+    "context": "レーベルが記す、限定7インチ盤からソロアルバムへの移動。",
     "sources": [
       {
         "label": "MF Doom - Topic / One Beer",
         "url": "https://www.youtube.com/watch?v=ypClJkPhx8o",
         "kind": "公式配信・動画"
+      },
+      {
+        "url": "https://www.stonesthrow.com/store/one-beer-2/",
+        "label": "Stones Throw — One Beer / STH4008",
+        "kind": "調査出典（本人・関係者証言または署名記事）"
       }
     ],
     "producers": [
@@ -30399,7 +30484,15 @@
     "artists": [
       "MF DOOM"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "de-la-soul-shopping-bags",
@@ -30445,12 +30538,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "De La Soulの声に、Madlibのビートが加わる。",
-    "essayTitle": "買い物袋より、ビートが重い。",
+    "deck": "Daveが例に挙げた、曲作りの順番。",
+    "essayTitle": "買い物袋という題名に、合う音を見つける。",
     "essay": [
-      "声とフックが行き来するたび、曲の足取りが軽くなる。題名の日常感に似合って、音楽はすぐそばで鳴っている。",
-      "De La SoulとMadlibという組み合わせを、名前の大きさだけで聴くのはもったいない。声を受けるビートの置き方にも耳を向けたい。",
-      "誰かの買い物袋の話が、こちらの体を揺らす。ヒップホップは、生活の細部を音楽へ変えるのがうまい。"
+      "De La SoulのDaveは2005年のAllHipHopの取材で、「Shopping Bags」を曲作りの例に挙げている。女性に金を使わされる男性の話を思いつき、買い物袋という題名と、それに合う音楽が結びつく。ビートから書き始める場合だけでなく、見聞きしたことや体験が先に来る場合もあるという説明だった。",
+      "Daveが強調したのは、一つの手順に固定しないことだ。題名からビートへ、ビートから言葉へ。この曲を聴く時は、日常の題材と音楽がどう結びつくかに目を向けたい。"
     ],
     "facts": [
       {
@@ -30471,10 +30563,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "De La Soulの声に、Madlibのビートが加わる。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "題名が示す場面とラップの内容をたどる。制作順の説明はDaveの回想として読む。"
     ],
-    "context": "2004年の作品として、Madlibの制作とDe La Soulの表現の接点を聴く。",
+    "context": "題材、題名、音楽のどこからでも始めるという、Daveの制作観。",
     "sources": [
       {
         "label": "De La Soul / De La Soul - Shopping Bags (She Got From You) (Official HD Video)",
@@ -30485,6 +30576,11 @@
         "label": "De La Soul公式 / Shopping Bags",
         "url": "https://www.youtube.com/watch?v=TKDHqAMa7T8",
         "kind": "アーティスト・レーベル公式"
+      },
+      {
+        "url": "https://allhiphop.com/features/de-la-soul-still-grinding/",
+        "label": "Dave — De La Soul: Still Grinding / AllHipHop (2005)",
+        "kind": "調査出典（本人・関係者証言または署名記事）"
       }
     ],
     "producers": [
@@ -30505,7 +30601,15 @@
     "artists": [
       "De La Soul"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "mos-def-auditorium",
@@ -30551,12 +30655,11 @@
       "lettering": "block",
       "letteringNote": "グラフィティの文脈に沿った独自の文字表現。地域固有の様式を断定しない。"
     },
-    "deck": "Madlibの音の上で、Mos DefとSlick Rickが語る。",
-    "essayTitle": "声が変わると、風景が変わる。",
+    "deck": "Madlibのインスト盤から「Auditorium」へ。",
+    "essayTitle": "「Movie Finale」に、二人の語り手が加わる。",
     "essay": [
-      "同じビートを聴いているのに、語り手が変わると部屋の明るさまで変わったように感じる。声は、それほど大きな楽器なのだ。",
-      "Mos DefとSlick Rickの語りを、Madlibの音が支える。下を流れる反復は動きすぎず、言葉の景色を受け止めている。",
-      "耳を置く場所を変えながら、もう一度。音楽の中にも、席を移るだけで見え方が変わる客席がある。"
+      "Stones Throwは『The Ecstatic』の発売案内で、「Auditorium」をMos DefとSlick RickがMadlibの「Movie Finale」に乗った曲として紹介している。そのインストゥルメンタルの収録先は『Beat Konducta in India』だ。",
+      "制作名にMadlibとあるだけでなく、声が加わる前の曲へ戻れる。まず「Movie Finale」を聴き、それから二人のラップへ進みたい。既にある音楽に語り手が加わることで、何が新しく感じられるかを自分の耳で確かめるための往復だ。"
     ],
     "facts": [
       {
@@ -30577,10 +30680,9 @@
     "samples": [],
     "sampleStatus": "サンプル元の録音・バージョンは個別照合中。サンプル不使用を意味しません。",
     "listening": [
-      "Madlibの音の上で、Mos DefとSlick Rickが語る。",
-      "声・旋律とドラムの間に生まれる余白。"
+      "「Movie Finale」から「Auditorium」へ進み、声が加わる前後を比較する。"
     ],
-    "context": "2009年の作品として、Madlibの制作とMos Defの表現の接点を聴く。",
+    "context": "インスト作品とラップ曲を、レーベルが明示する同一ビートの関係からつなぐ。",
     "sources": [
       {
         "label": "broncos20 / Mos Def - Auditorium (High Quality)",
@@ -30612,7 +30714,15 @@
       "Mos Def",
       "Slick Rick"
     ],
-    "datePublished": "2026-10-15"
+    "datePublished": "2026-10-15",
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ]
   },
   {
     "id": "kanye-west-no-more-parties-in-la",

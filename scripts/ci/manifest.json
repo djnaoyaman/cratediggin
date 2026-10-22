@@ -3456,6 +3456,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "lost-in-thought-browser"
+    },
+    {
+      "id": "research-batch29",
+      "argv": [
+        "python",
+        "scripts/verify_research_batch29.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "research-batch29"
+    },
+    {
+      "id": "research-batch29-browser",
+      "argv": [
+        "node",
+        "scripts/verify_research_batch29_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "research-batch29-browser"
     }
   ],
   "groups": {
@@ -4085,6 +4109,10 @@
     "lost_in_thought": [
       "lost-in-thought",
       "lost-in-thought-browser"
+    ],
+    "research_batch29": [
+      "research-batch29",
+      "research-batch29-browser"
     ]
   },
   "runtime_rules": {
@@ -5399,7 +5427,8 @@
       "scripts/fixtures/approved-research-batch28.json"
     ],
     "scripts/approved_lost_in_thought.py": [
-      "scripts/fixtures/approved-lost-in-thought.json"
+      "scripts/fixtures/approved-lost-in-thought.json",
+      "scripts/approved_research_batch29.py"
     ],
     "scripts/verify_lost_in_thought.py": [
       "scripts/approved_lost_in_thought.py",
@@ -5411,6 +5440,16 @@
     ],
     "scripts/verify_lost_in_thought_browser.cjs": [
       "scripts/fixtures/approved-lost-in-thought.json"
+    ],
+    "scripts/approved_research_batch29.py": [
+      "scripts/fixtures/approved-research-batch29.json"
+    ],
+    "scripts/verify_research_batch29.py": [
+      "scripts/approved_research_batch29.py",
+      "scripts/approved_lost_in_thought.py"
+    ],
+    "scripts/verify_research_batch29_browser.cjs": [
+      "scripts/fixtures/approved-research-batch29.json"
     ]
   },
   "policy_paths": [
@@ -5582,7 +5621,9 @@
     "scripts/approved_research_batch28.py",
     "scripts/fixtures/approved-research-batch28.json",
     "scripts/approved_lost_in_thought.py",
-    "scripts/fixtures/approved-lost-in-thought.json"
+    "scripts/fixtures/approved-lost-in-thought.json",
+    "scripts/approved_research_batch29.py",
+    "scripts/fixtures/approved-research-batch29.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -6384,6 +6425,13 @@
         "after_sha256": "23fbb7d6c08da279c3818925badc7ea3236a38ce2cd27b2f6d348da4f8cdaf0b",
         "groups": [
           "lost_in_thought"
+        ]
+      },
+      {
+        "before_sha256": "23fbb7d6c08da279c3818925badc7ea3236a38ce2cd27b2f6d348da4f8cdaf0b",
+        "after_sha256": "d359b5c970e066a5884fa78bc042cd7ebed721a137b06a3ec21e8b9aee650350",
+        "groups": [
+          "research_batch29"
         ]
       }
     ],
