@@ -6,7 +6,8 @@ raw=(R/'scripts/fixtures/approved-the-waters-addition.json').read_bytes()
 assert sha(raw)=='8bd86be6f6d7ef1efb46e0105519dec6e89a0457f506acf94445ef70d8ed7ab8','Immutable addition fixture changed'
 F=json.loads(raw)
 def current_the_waters_addition_file(path,data):
- return data
+ from approved_rap_city_addition import historical_rap_city_addition_file
+ return historical_rap_city_addition_file(path,data)
 def historical_the_waters_addition_file(path,data):
  data=current_the_waters_addition_file(path,data)
  c=F['files'].get(path)

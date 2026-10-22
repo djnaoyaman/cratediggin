@@ -4884,6 +4884,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "the-waters-addition-browser"
+    },
+    {
+      "id": "rap-city-addition",
+      "argv": [
+        "python",
+        "scripts/verify_rap_city_addition.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "rap-city-addition"
+    },
+    {
+      "id": "rap-city-addition-browser",
+      "argv": [
+        "node",
+        "scripts/verify_rap_city_addition_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "rap-city-addition-browser"
     }
   ],
   "groups": {
@@ -5751,6 +5775,10 @@
     "the_waters_addition": [
       "the-waters-addition",
       "the-waters-addition-browser"
+    ],
+    "rap_city_addition": [
+      "rap-city-addition",
+      "rap-city-addition-browser"
     ]
   },
   "runtime_rules": {
@@ -7784,7 +7812,8 @@
       "scripts/fixtures/approved-chittlins-pepsi-addition.json"
     ],
     "scripts/approved_the_waters_addition.py": [
-      "scripts/fixtures/approved-the-waters-addition.json"
+      "scripts/fixtures/approved-the-waters-addition.json",
+      "scripts/approved_rap_city_addition.py"
     ],
     "scripts/verify_the_waters_addition.py": [
       "scripts/approved_the_waters_addition.py",
@@ -7797,6 +7826,21 @@
     ],
     "scripts/verify_the_waters_addition_browser.cjs": [
       "scripts/fixtures/approved-the-waters-addition.json"
+    ],
+    "scripts/approved_rap_city_addition.py": [
+      "scripts/fixtures/approved-rap-city-addition.json"
+    ],
+    "scripts/verify_rap_city_addition.py": [
+      "scripts/approved_rap_city_addition.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "releases.json",
+      "artist_entities.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_the_waters_addition.py"
+    ],
+    "scripts/verify_rap_city_addition_browser.cjs": [
+      "scripts/fixtures/approved-rap-city-addition.json"
     ]
   },
   "policy_paths": [
@@ -8089,7 +8133,9 @@
     "scripts/approved_chittlins_pepsi_addition.py",
     "scripts/fixtures/approved-chittlins-pepsi-addition.json",
     "scripts/approved_the_waters_addition.py",
-    "scripts/fixtures/approved-the-waters-addition.json"
+    "scripts/fixtures/approved-the-waters-addition.json",
+    "scripts/approved_rap_city_addition.py",
+    "scripts/fixtures/approved-rap-city-addition.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9306,6 +9352,13 @@
         "groups": [
           "the_waters_addition"
         ]
+      },
+      {
+        "before_sha256": "ae786285346982b373199d40cd001a94398ce171dde4f601d8d9cc8ce8ed87f2",
+        "after_sha256": "8d2fe861b67ff0449d1544e9e0b71b7c2911895d31973f2130988c40a6a3a579",
+        "groups": [
+          "rap_city_addition"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -9688,6 +9741,13 @@
         "groups": [
           "the_waters_addition"
         ]
+      },
+      {
+        "before_sha256": "4380a61267c1eff5819eb577e5a353ccac07908ee24dac3e900d2228a98619fd",
+        "after_sha256": "55590cafb681ecd66e914f050b7f342749f7a929b5096f83ed434816cfe19544",
+        "groups": [
+          "rap_city_addition"
+        ]
       }
     ],
     "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
@@ -9845,6 +9905,13 @@
         "after_sha256": "68832e11330cd5ce0c1fd15a9149bce5a225aed7d48b72cf7511daaca23047a3",
         "groups": [
           "the_waters_addition"
+        ]
+      },
+      {
+        "before_sha256": "68832e11330cd5ce0c1fd15a9149bce5a225aed7d48b72cf7511daaca23047a3",
+        "after_sha256": "0f1e01f1c57150aa854231943fd2944e3a7af2bfd81e6db7b94556ba18b78824",
+        "groups": [
+          "rap_city_addition"
         ]
       }
     ],
@@ -10422,6 +10489,15 @@
         "after_sha256": "9dd3180de38c4d0fbc55c8e3eab6bd4ac3d43ebb59777e582d61cd2241a10f5c",
         "groups": [
           "the_waters_addition"
+        ]
+      }
+    ],
+    "assets/graffiti/femdot-rap-city-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "14b31dbaa1cec995594fb90d0bb93a04f5337850431ee01a8b60eded05571c00",
+        "groups": [
+          "rap_city_addition"
         ]
       }
     ]

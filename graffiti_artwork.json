@@ -10358,6 +10358,27 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "femdot-rap-city",
+      "title": "Rap City",
+      "artist": "femdot.",
+      "album": "94 Camry Music",
+      "palette": [
+        "#345d62",
+        "#798b7b",
+        "#c6c7bc",
+        "#e4d92d",
+        "#222c2d"
+      ],
+      "paletteSource": "94 Camry Music — アーティスト公式投稿のカバー（配色参照）",
+      "paletteSourceUrl": "https://audiomack.com/femdot/song/rap-city",
+      "paletteNote": "Worn square sleeve with muted photograph: teal sedan, open door, seated figure on roof; green trees and pale gray sky; bright yellow94 CAMRY MUSIC line along lower edge.; palette reference only, not a reproduction or a claim about original-edition packaging.",
+      "status": "ready",
+      "image": "assets/graffiti/femdot-rap-city-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

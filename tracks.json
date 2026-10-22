@@ -67874,5 +67874,117 @@
       "paletteSourceUrl": "https://shop.andersonpaak.com/products/malibu-cd",
       "paletteNote": "Collaged ocean and white sea foam; red-orange sunset and large ochre sun; mint-green title; dark brown piano/figure; shell and paper accents.; palette reference only, not a reproduction or a claim about original-edition packaging."
     }
+  },
+  {
+    "id": "femdot-rap-city",
+    "title": "Rap City",
+    "artist": "femdot.",
+    "artists": [
+      "femdot.",
+      "Smino"
+    ],
+    "year": 2019,
+    "album": "94 Camry Music",
+    "producer": "Ambi Lyrics",
+    "producers": [
+      "Ambi Lyrics"
+    ],
+    "label": "Delacreme Music Group LLC",
+    "region": "Chicago",
+    "scene": "Chicago",
+    "category": "Hip Hop",
+    "essayTitle": "2019年に思い描く「Rap City」の映像",
+    "deck": "femdot.が語ったのは、番組が続いていたらそこで流れそうなビデオを作る、という発想でした。",
+    "essay": [
+      "femdot.は「Rap City」の映像について、The FADERに、同名番組の地下室を再現する案も考えたと説明しています。ただ、実際に求めたのは、その時代のミュージックビデオが持っていた感覚だったそうです。番組が今も続いていたら、そこで流れていそうな一本を作りたい。その本人の説明から、映像制作の狙いが見えてきます。",
+      "曲は2019年の『94 Camry Music』に収められ、Sminoが客演、Ambi Lyricsが制作を担当しています。公式映像の監督はAddison Wrightです。まずアルバム音源で二人の参加を確かめ、次にその映像へ進むと、femdot.が思い描いた「番組で流れそうな一本」を、自分の目と耳で考えられます。"
+    ],
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "公式配信とアーティスト投稿ページは2019年9月30日発売と記載。選定YouTube投稿の2023年とは区別する。",
+    "versionBasis": "Smino参加の『94 Camry Music』オリジナル歌入り版。選定配信は2:37で、依頼ミックスの2:36表記から別版とは推定しない。編集・マスター同一性は未確認。",
+    "context": "2019年の『94 Camry Music』を、映像についての本人の言葉から読む。",
+    "facts": [],
+    "sources": [
+      {
+        "label": "YouTube公式配信 — Rap City",
+        "url": "https://www.youtube.com/watch?v=Y84TqIMwfSY",
+        "kind": "公式配信"
+      },
+      {
+        "label": "femdot.公式投稿 — Rap City / Audiomack",
+        "url": "https://audiomack.com/femdot/song/rap-city",
+        "kind": "アーティスト公式投稿"
+      },
+      {
+        "label": "femdot.公式映像 — Rap City",
+        "url": "https://www.youtube.com/watch?v=N5yQXyuqEGA",
+        "kind": "アーティスト公式映像"
+      },
+      {
+        "label": "The FADER — femdot.本人が語るRap Cityの映像",
+        "url": "https://www.thefader.com/2019/11/16/femdot-smino-video-rap-city",
+        "kind": "本人談を含む記事"
+      }
+    ],
+    "youtube": {
+      "id": "Y84TqIMwfSY",
+      "url": "https://www.youtube.com/watch?v=Y84TqIMwfSY",
+      "title": "Rap City",
+      "provider": "The Orchard Enterprises",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-22",
+      "embedUrl": "https://www.youtube.com/embed/Y84TqIMwfSY",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "オリジナル・アルバム歌入り版（公式配信）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式配信説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-22",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "addedOrder": 522,
+    "datePublished": "2026-10-22",
+    "art": {
+      "word": "RAP CITY",
+      "tag": "FEMDOT.",
+      "lines": [
+        "RAP CITY"
+      ],
+      "style": "piece",
+      "seed": 201909,
+      "palette": [
+        "#345d62",
+        "#798b7b",
+        "#c6c7bc",
+        "#e4d92d",
+        "#222c2d"
+      ],
+      "paletteSource": "94 Camry Music — アーティスト公式投稿のカバー（配色参照）",
+      "paletteSourceUrl": "https://audiomack.com/femdot/song/rap-city",
+      "paletteNote": "Worn square sleeve with muted photograph: teal sedan, open door, seated figure on roof; green trees and pale gray sky; bright yellow94 CAMRY MUSIC line along lower edge.; palette reference only, not a reproduction or a claim about original-edition packaging."
+    }
   }
 ]
