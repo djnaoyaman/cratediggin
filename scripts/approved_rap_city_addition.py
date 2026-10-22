@@ -6,7 +6,8 @@ raw=(R/'scripts/fixtures/approved-rap-city-addition.json').read_bytes()
 assert sha(raw)=='18c375597661a70072c2d358f837175e3e1c51cba6fe66ae609fb2ceb8553edd','Immutable addition fixture changed'
 F=json.loads(raw)
 def current_rap_city_addition_file(path,data):
- return data
+ from approved_klink_addition import historical_klink_addition_file
+ return historical_klink_addition_file(path,data)
 def historical_rap_city_addition_file(path,data):
  data=current_rap_city_addition_file(path,data)
  c=F['files'].get(path)

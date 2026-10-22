@@ -67986,5 +67986,121 @@
       "paletteSourceUrl": "https://audiomack.com/femdot/song/rap-city",
       "paletteNote": "Worn square sleeve with muted photograph: teal sedan, open door, seated figure on roof; green trees and pale gray sky; bright yellow94 CAMRY MUSIC line along lower edge.; palette reference only, not a reproduction or a claim about original-edition packaging."
     }
+  },
+  {
+    "title": "KLINK",
+    "artist": "Smino",
+    "artists": [
+      "Smino"
+    ],
+    "year": 2018,
+    "album": "NOIR",
+    "producer": "Monte Booker",
+    "producers": [
+      "Monte Booker"
+    ],
+    "label": "Zero Fatigue / Downtown / Interscope",
+    "region": "St. Louis",
+    "category": "Hip Hop",
+    "id": "smino-klink",
+    "scene": "St. Louis",
+    "essayTitle": "「KLINK」をたどると、制作欄の名前も変わります",
+    "deck": "原曲はMonte Booker。T-Painを迎えたリミックスでは、Phoelixの名前が見えてきます。",
+    "essay": [
+      "Sminoの「KLINK」には、客演者だけでなく制作担当の違いも楽しめる枝道があります。2018年の原曲はMonte Bookerの制作です。一方、Sminoが2020年に公開したT-Pain参加の「Klink Remix」は、公式説明でPhoelix制作とされています。同じ題名を入口にしても、そこから出会う作り手は一人ではありません。",
+      "ここで取り上げるのは、2018年の『NOIR』に収められたSmino単独名義の原曲です。まずこの曲を起点に、次にT-Painが参加し、Phoelixが制作を担当した別版へ進んでみると、歌い手の名前と制作欄の両方を手掛かりに聴き比べられます。リミックスを原曲の代わりにするのではなく、それぞれの参加者を知るためのもう一つの入口にしたいところです。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "2018年のアーティスト公式音源と『NOIR』の発売情報に基づく。依頼ミックスやリミックスの2020年とは区別する。",
+    "regionBasis": "Apple Musicのアルバム紹介によるSt. Louisとの関連づけ。録音場所を示すものではない。",
+    "versionBasis": "Monte Booker制作の2018年オリジナル歌入り版。T-Pain参加・Phoelix制作の2020年リミックスとは区別。選定配信3:03と依頼ミックス1:26の編集・マスター同一性は未確認。",
+    "context": "『NOIR』の原曲から、参加者の異なるリミックスへ。",
+    "facts": [
+      {
+        "title": "アルバムでの位置",
+        "text": "「KLINK」は『NOIR』の3曲目。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Smino公式音源 — KLINK",
+        "url": "https://www.youtube.com/watch?v=EnH_1wPTQ9Q",
+        "kind": "アーティスト公式音源"
+      },
+      {
+        "label": "Apple Music — NOIR",
+        "url": "https://music.apple.com/us/album/noir/1441333559",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Smino公式音源 — Klink Remix feat. T-Pain",
+        "url": "https://www.youtube.com/watch?v=VCYmxNoSSPY",
+        "kind": "アーティスト公式音源"
+      }
+    ],
+    "youtube": {
+      "id": "EnH_1wPTQ9Q",
+      "url": "https://www.youtube.com/watch?v=EnH_1wPTQ9Q",
+      "title": "KLINK",
+      "provider": "Smino",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-22",
+      "embedUrl": "https://www.youtube.com/embed/EnH_1wPTQ9Q",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "2018年オリジナル歌入り版（アーティスト公式音源）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の説明・アーティスト表示とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-22",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "addedOrder": 523,
+    "datePublished": "2026-10-22",
+    "art": {
+      "word": "KLINK",
+      "tag": "SMINO",
+      "lines": [
+        "KLINK"
+      ],
+      "style": "piece",
+      "seed": 201811,
+      "palette": [
+        "#252724",
+        "#41676a",
+        "#91b99d",
+        "#82705d",
+        "#d4d4c8"
+      ],
+      "paletteSource": "NOIR — 配信カタログのカバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/album/noir/1441333559",
+      "paletteNote": "NOIR album sleeve framed by the dark rear of a television: interior scene, green fabric, muted teal and warm brown, off-white cassette label at lower right. No identity or location inferred from image.; palette reference only, not a cover reproduction."
+    }
   }
 ]

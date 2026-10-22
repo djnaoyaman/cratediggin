@@ -10379,6 +10379,27 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "smino-klink",
+      "title": "KLINK",
+      "artist": "Smino",
+      "album": "NOIR",
+      "palette": [
+        "#252724",
+        "#41676a",
+        "#91b99d",
+        "#82705d",
+        "#d4d4c8"
+      ],
+      "paletteSource": "NOIR — 配信カタログのカバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/album/noir/1441333559",
+      "paletteNote": "NOIR album sleeve framed by the dark rear of a television: interior scene, green fabric, muted teal and warm brown, off-white cassette label at lower right. No identity or location inferred from image.; palette reference only, not a cover reproduction.",
+      "status": "ready",
+      "image": "assets/graffiti/smino-klink-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
