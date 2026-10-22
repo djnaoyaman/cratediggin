@@ -4836,6 +4836,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "baby-addition-browser"
+    },
+    {
+      "id": "chittlins-pepsi-addition",
+      "argv": [
+        "python",
+        "scripts/verify_chittlins_pepsi_addition.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "chittlins-pepsi-addition"
+    },
+    {
+      "id": "chittlins-pepsi-addition-browser",
+      "argv": [
+        "node",
+        "scripts/verify_chittlins_pepsi_addition_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "chittlins-pepsi-addition-browser"
     }
   ],
   "groups": {
@@ -5695,6 +5719,10 @@
     "baby_addition": [
       "baby-addition",
       "baby-addition-browser"
+    ],
+    "chittlins_pepsi_addition": [
+      "chittlins-pepsi-addition",
+      "chittlins-pepsi-addition-browser"
     ]
   },
   "runtime_rules": {
@@ -7698,7 +7726,8 @@
       "scripts/fixtures/approved-no-sleep-addition.json"
     ],
     "scripts/approved_baby_addition.py": [
-      "scripts/fixtures/approved-baby-addition.json"
+      "scripts/fixtures/approved-baby-addition.json",
+      "scripts/approved_chittlins_pepsi_addition.py"
     ],
     "scripts/verify_baby_addition.py": [
       "scripts/approved_baby_addition.py",
@@ -7710,6 +7739,20 @@
     ],
     "scripts/verify_baby_addition_browser.cjs": [
       "scripts/fixtures/approved-baby-addition.json"
+    ],
+    "scripts/approved_chittlins_pepsi_addition.py": [
+      "scripts/fixtures/approved-chittlins-pepsi-addition.json"
+    ],
+    "scripts/verify_chittlins_pepsi_addition.py": [
+      "scripts/approved_chittlins_pepsi_addition.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "releases.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_baby_addition.py"
+    ],
+    "scripts/verify_chittlins_pepsi_addition_browser.cjs": [
+      "scripts/fixtures/approved-chittlins-pepsi-addition.json"
     ]
   },
   "policy_paths": [
@@ -7998,7 +8041,9 @@
     "scripts/approved_no_sleep_addition.py",
     "scripts/fixtures/approved-no-sleep-addition.json",
     "scripts/approved_baby_addition.py",
-    "scripts/fixtures/approved-baby-addition.json"
+    "scripts/fixtures/approved-baby-addition.json",
+    "scripts/approved_chittlins_pepsi_addition.py",
+    "scripts/fixtures/approved-chittlins-pepsi-addition.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9201,6 +9246,13 @@
         "groups": [
           "baby_addition"
         ]
+      },
+      {
+        "before_sha256": "8fc1d2076bbdcf9b2693ebd8995de6da17f2c72a0a2f92fb78ff00cec9ec16f2",
+        "after_sha256": "6c281592cf358f239cc7f209cd3e3ea87ea228be4ebe61374532ba3ccd8db6a1",
+        "groups": [
+          "chittlins_pepsi_addition"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -9568,6 +9620,13 @@
         "after_sha256": "e094f4ddc33af946bf03009b9cb8c860c9cf900a88ee0ea0ede10bc9ae1f94d4",
         "groups": [
           "baby_addition"
+        ]
+      },
+      {
+        "before_sha256": "e094f4ddc33af946bf03009b9cb8c860c9cf900a88ee0ea0ede10bc9ae1f94d4",
+        "after_sha256": "4e6212f606dea86195172b8798682e3f9de4c4083b4218b7529c3dc94585bddd",
+        "groups": [
+          "chittlins_pepsi_addition"
         ]
       }
     ],
@@ -10278,6 +10337,15 @@
         "after_sha256": "456f53deca1f27e8beb4ec24cf7d4b3618e7c79c2b7c943a14b4f0e8d30a181d",
         "groups": [
           "baby_addition"
+        ]
+      }
+    ],
+    "assets/graffiti/strong-arm-steady-chittlins-pepsi-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "ed62cb2053118146a845c1d144ed9f429718c3faee455ca925df36a25efc8dbc",
+        "groups": [
+          "chittlins_pepsi_addition"
         ]
       }
     ]

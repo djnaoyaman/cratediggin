@@ -6,7 +6,8 @@ raw=(R/'scripts/fixtures/approved-baby-addition.json').read_bytes()
 assert sha(raw)=='9b80a5586a1f28280684deb9f54600441f24e24a02754699a405483cf5a5468e','Immutable addition fixture changed'
 F=json.loads(raw)
 def current_baby_addition_file(path,data):
- return data
+ from approved_chittlins_pepsi_addition import historical_chittlins_pepsi_addition_file
+ return historical_chittlins_pepsi_addition_file(path,data)
 def historical_baby_addition_file(path,data):
  data=current_baby_addition_file(path,data)
  c=F['files'].get(path)
