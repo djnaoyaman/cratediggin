@@ -4932,6 +4932,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "klink-addition-browser"
+    },
+    {
+      "id": "up-addition",
+      "argv": [
+        "python",
+        "scripts/verify_up_addition.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "up-addition"
+    },
+    {
+      "id": "up-addition-browser",
+      "argv": [
+        "node",
+        "scripts/verify_up_addition_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "up-addition-browser"
     }
   ],
   "groups": {
@@ -5807,6 +5831,10 @@
     "klink_addition": [
       "klink-addition",
       "klink-addition-browser"
+    ],
+    "up_addition": [
+      "up-addition",
+      "up-addition-browser"
     ]
   },
   "runtime_rules": {
@@ -7872,7 +7900,8 @@
       "scripts/fixtures/approved-rap-city-addition.json"
     ],
     "scripts/approved_klink_addition.py": [
-      "scripts/fixtures/approved-klink-addition.json"
+      "scripts/fixtures/approved-klink-addition.json",
+      "scripts/approved_up_addition.py"
     ],
     "scripts/verify_klink_addition.py": [
       "scripts/approved_klink_addition.py",
@@ -7885,6 +7914,21 @@
     ],
     "scripts/verify_klink_addition_browser.cjs": [
       "scripts/fixtures/approved-klink-addition.json"
+    ],
+    "scripts/approved_up_addition.py": [
+      "scripts/fixtures/approved-up-addition.json"
+    ],
+    "scripts/verify_up_addition.py": [
+      "scripts/approved_up_addition.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "releases.json",
+      "artist_entities.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_klink_addition.py"
+    ],
+    "scripts/verify_up_addition_browser.cjs": [
+      "scripts/fixtures/approved-up-addition.json"
     ]
   },
   "policy_paths": [
@@ -8181,7 +8225,9 @@
     "scripts/approved_rap_city_addition.py",
     "scripts/fixtures/approved-rap-city-addition.json",
     "scripts/approved_klink_addition.py",
-    "scripts/fixtures/approved-klink-addition.json"
+    "scripts/fixtures/approved-klink-addition.json",
+    "scripts/approved_up_addition.py",
+    "scripts/fixtures/approved-up-addition.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9412,6 +9458,13 @@
         "groups": [
           "klink_addition"
         ]
+      },
+      {
+        "before_sha256": "0d156ae43777fefbe63351c2c4462669725ea925ac0a70da6afb1c38a6aac3b1",
+        "after_sha256": "0a7972e2748b72fa863db171026b6df984095bf1daa32a8ee36753fa807345f0",
+        "groups": [
+          "up_addition"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -9808,6 +9861,13 @@
         "groups": [
           "klink_addition"
         ]
+      },
+      {
+        "before_sha256": "3b7675f3d2bf570dba50b7d324b0a3cd893b16c447ac33a2aa150ac8e1b4e067",
+        "after_sha256": "e0fdc62a6356c0c3265cb20cdee1a93a0ab7405ace40f41f6b896b3a72600949",
+        "groups": [
+          "up_addition"
+        ]
       }
     ],
     "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
@@ -9979,6 +10039,13 @@
         "after_sha256": "112acf50ba3817445d9441748a4806d99defaf25ea242e0344d6b5761d1fd716",
         "groups": [
           "klink_addition"
+        ]
+      },
+      {
+        "before_sha256": "112acf50ba3817445d9441748a4806d99defaf25ea242e0344d6b5761d1fd716",
+        "after_sha256": "28fbd59bba64e82fd44d368968f192949261d6354d941b108705757093a164be",
+        "groups": [
+          "up_addition"
         ]
       }
     ],
@@ -10574,6 +10641,15 @@
         "after_sha256": "bba3a39e9c8e9fda4d9169ff50a0f4a954b17d0276dc27f176e20d71d334f93e",
         "groups": [
           "klink_addition"
+        ]
+      }
+    ],
+    "assets/graffiti/sonny-digital-black-boe-up-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "fcecd49786df4be471893fb679b35726220da9cd229727d8c1eceac8b795886e",
+        "groups": [
+          "up_addition"
         ]
       }
     ]

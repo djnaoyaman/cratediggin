@@ -68102,5 +68102,124 @@
       "paletteSourceUrl": "https://music.apple.com/us/album/noir/1441333559",
       "paletteNote": "NOIR album sleeve framed by the dark rear of a television: interior scene, green fabric, muted teal and warm brown, off-white cassette label at lower right. No identity or location inferred from image.; palette reference only, not a cover reproduction."
     }
+  },
+  {
+    "title": "Up",
+    "artist": "Sonny Digital & Black Boe",
+    "artists": [
+      "Sonny Digital",
+      "Black Boe"
+    ],
+    "year": 2020,
+    "album": "Black Goat 2",
+    "producer": "未確認",
+    "producers": [],
+    "label": "Rollin Records",
+    "region": "Atlanta",
+    "category": "Hip Hop",
+    "id": "sonny-digital-black-boe-up",
+    "scene": "Atlanta",
+    "essayTitle": "声も楽器。Sonny Digitalがマイクに立つ理由",
+    "deck": "Black Boeと並ぶ「Up」を、声も音作りの一部と考える本人の言葉から聴いてみます。",
+    "essay": [
+      "Sonny Digitalをビートの作り手として知っているなら、Black Boeとの「Up」は、マイクを持つ側にも目を向ける入口になります。2020年の共同作『Black Goat 2』では、二人が主アーティストとして並んでいます。曲を作る人と、そこでラップをする人。その二つの役割を、名前だけで一つに決めつけずに聴いてみたいところです。",
+      "2022年の活動を紹介するGeneration Nowの公式ページでSonny Digitalは、自分の声を加えるときも楽器として考え、別の人の声が合うと思えばその人に渡す、という音楽作りの姿勢を語っています。「Up」個別の制作証言ではありませんが、彼が制作とラップを行き来する理由を知る手掛かりになります。まずはBlack Boeと名前を並べたこの曲で、二人の声がどこで受け渡されるかを追ってみるのもよさそうです。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "配信カタログと公式レーベル紹介による2020年発売。公式音源の権利表記℗2019とは区別する。",
+    "regionBasis": "Generation NowのSonny Digital公式紹介によるAtlantaとの関連。録音場所やBlack Boeの出身地を示すものではない。",
+    "versionBasis": "『Black Goat 2』の8曲入り配信版にある「Up」。「Way Up」とは別曲。選定音源3:06、カタログ3:05、依頼ミックス2:56の編集・マスター同一性は未確認。",
+    "context": "『Black Goat 2』で、Sonny DigitalとBlack Boeが並ぶ一曲。",
+    "producerBasis": "選定音源と配信カタログでは主アーティストを確認。曲別の制作担当は一次資料で未確認。",
+    "facts": [
+      {
+        "title": "収録版の区別",
+        "text": "『Black Goat 2』の8曲入り配信版では5曲目。同作2曲目の「Way Up」とは別曲です。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "公式配信の名義",
+        "text": "選定した公式音源はRollin Records提供。Sonny DigitalとBlack Boeが主アーティストとして記載されています。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Rollin Records / Sonny Digital — Up 公式配信",
+        "url": "https://www.youtube.com/watch?v=mQ973hLaomo",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Qobuz — Black Goat 2 配信情報",
+        "url": "https://www.qobuz.com/se-en/album/black-goat-2-sonny-digital-black-boe/tl6kyvqu96kub",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Generation Now — Sonny Digital 公式紹介・本人談",
+        "url": "https://thegenerationnow.com/artists/sonny-digital/",
+        "kind": "公式アーティスト紹介"
+      }
+    ],
+    "youtube": {
+      "id": "mQ973hLaomo",
+      "url": "https://www.youtube.com/watch?v=mQ973hLaomo",
+      "title": "Up",
+      "provider": "Sonny Digital",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-22",
+      "embedUrl": "https://www.youtube.com/embed/mQ973hLaomo",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "2020年発売作のオリジナル歌入り版（公式配信）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の説明・アーティスト表示とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-22",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "addedOrder": 524,
+    "datePublished": "2026-10-22",
+    "art": {
+      "word": "Up",
+      "tag": "SONNY DIGITAL & BLACK BOE",
+      "lines": [
+        "Up"
+      ],
+      "style": "piece",
+      "seed": 202001,
+      "palette": [
+        "#050505",
+        "#dfcba8",
+        "#f0eadf"
+      ],
+      "paletteSource": "Black Goat 2 — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://www.qobuz.com/se-en/album/black-goat-2-sonny-digital-black-boe/tl6kyvqu96kub",
+      "paletteNote": "黒とクリームの公式カバーを配色だけの参照に使用。カバーのヤギ型文字・ロゴ・構図は再現していません。"
+    }
   }
 ]
