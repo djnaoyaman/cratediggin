@@ -6,7 +6,8 @@ raw=(R/'scripts/fixtures/approved-knicks-addition.json').read_bytes()
 assert sha(raw)=='11a26427055bb8e66349523c648292e8379f02b2f4850fd4f4003c3b98b0ec75','Immutable addition fixture changed'
 F=json.loads(raw)
 def current_knicks_addition_file(path,data):
- return data
+ from approved_no_sleep_addition import historical_no_sleep_addition_file
+ return historical_no_sleep_addition_file(path,data)
 def historical_knicks_addition_file(path,data):
  data=current_knicks_addition_file(path,data)
  c=F['files'].get(path)
