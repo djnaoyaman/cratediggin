@@ -474,3 +474,6 @@ body[data-art-mode=video] .art-credit{flex-direction:row;align-items:center;gap:
  body[data-art-owner=full][data-art-mode=full] .art-mode-controls{top:14px;left:200px;right:auto}
  body[data-art-owner=full][data-art-mode=full] .art-view canvas{top:96px;height:calc(100% - 296px)}
 }
+
+/* Identify the track before the editorial headline, without truncating versions. */
+.reading-card .reading-song-title{font:700 clamp(18px,2vw,24px)/1.45 var(--sans);margin:10px 0 0;overflow-wrap:anywhere}
