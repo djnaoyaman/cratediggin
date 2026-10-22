@@ -39426,12 +39426,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "勢いのある声が拍を乗り越える瞬間を聴く。",
-    "essayTitle": "声の勢いが拍を乗り越える、その瞬間",
+    "deck": "2011年のライブ取材に残る、「Time 4 Sum Aksion」の呼び出し方。",
+    "essayTitle": "1992年を覚えているか、と客席に聞く。",
     "essay": [
-      "Redmanの「Time 4 Sum Aksion」。まず耳を向けたいのは、勢いのある声が拍を乗り越える瞬間だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Whut? Thee Album』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Funkorama」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "Aaron MatthewsのExclaim!公演評によると、2011年10月30日のRockpile公演で、Redmanは1992年を覚えているかと客席に問いかけてから「Time 4 Sum Aksion」に入った。評者は、その場でモッシュと拳を突き上げる反応が起きたと記している。",
+      "発売年は、資料に載る数字だけではない。本人がステージで呼びかけるとき、それは客席と共有する記憶の入口にもなる。この公演評を手がかりに、スタジオ版へ戻ってみたい。"
     ],
     "facts": [
       {
@@ -39453,10 +39452,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "勢いのある声が拍を乗り越える瞬間。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "2011年の公演評を入口に、Redmanが1992年を呼び戻す曲として原曲を聴く。"
     ],
-    "context": "1992年のHip Hop選曲。『Whut? Thee Album』の作品情報と音源の版を分けて掲載。",
+    "context": "Aaron Matthewsの現場取材から辿る、曲と客席の共有記憶。",
     "sources": [
       {
         "label": "Redman - Topic / Time 4 Sumaksion",
@@ -39477,6 +39475,11 @@
         "label": "‎Time 4 Sum Aksion (Mixed) - Song with Lyrics by Redman - Apple Music",
         "url": "https://music.apple.com/us/song/1841472667",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Aaron Matthews / Exclaim! — Rockpile公演評",
+        "url": "https://exclaim.ca/music/article/redman_mad_child_in_raw-rockpile_etobicoke_on_october_30",
+        "kind": "記名ライブ取材"
       }
     ],
     "producers": [
@@ -39499,7 +39502,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "k-solo-letterman",
@@ -39654,12 +39665,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "夢の場面を語るラップの連続性を聴く。",
-    "essayTitle": "夢の場面を切らさず、ラップでたどる",
+    "deck": "A.G.が覚えている、「I Can’t Wake Up」のスタジオ。",
+    "essayTitle": "外で待っていた憧れの人が、自分の名を呼ぶ。",
     "essay": [
-      "KRS-Oneの「I Can't Wake Up」。まず耳を向けたいのは、夢の場面を語るラップの連続性だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Return of the Boom Bap』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Step into a World (Rapture's Delight)」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "A.G.はUnkutの取材で、KRS-Oneが「I Can’t Wake Up」を録っているスタジオに居合わせ、自分の名前を呼ばれた驚きを語っている。それ以前は、KRS-Oneが出てくるのを期待してB-Boy Recordsの向かいで待っていたという。",
+      "会いたくて外で待っていた相手と、同じスタジオにいる。A.G.の回想から見ると、この曲には一人のラッパーが憧れの存在に認められた記憶も重なる。KRS-One自身の制作意図とは分けて、名を呼ばれた側の経験から曲を辿りたい。"
     ],
     "facts": [
       {
@@ -39681,10 +39691,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "夢の場面を語るラップの連続性。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "A.G.の回想を手がかりに、曲に登場する名前とラッパー同士の関係を辿る。"
     ],
-    "context": "1993年のHip Hop選曲。『Return of the Boom Bap』の作品情報と音源の版を分けて掲載。",
+    "context": "B-Boy Recordsの外で待つ側から、KRS-Oneの曲で名を呼ばれる側へ。",
     "sources": [
       {
         "label": "KRS ONE - Topic / I Can't Wake Up",
@@ -39705,6 +39714,11 @@
         "label": "‎I Can't Wake Up - Song by KRS-One - Apple Music",
         "url": "https://music.apple.com/us/song/288625643",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Unkut / A.G. interview",
+        "url": "https://unkut.com/2014/05/ag-the-unkut-interview/",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [
@@ -39727,7 +39741,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "gang-starr-now-you-re-mine",
@@ -39774,12 +39796,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "同じビートの上で続く声の安定感を聴く。",
-    "essayTitle": "ビートが巡っても、揺るがない語り",
+    "deck": "DJ Premierの回想から見る、「Now You’re Mine」の宛先。",
+    "essayTitle": "曲の相手は、同じGang Starrの相棒だった。",
     "essay": [
-      "Gang Starrの「Now You're Mine」。まず耳を向けたいのは、同じビートの上で続く声の安定感だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Hard to Earn』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Step in the Arena」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "Rock The Bellsの2020年取材を紹介するThe Hype Magazineの記事で、DJ Premierは「Now You’re Mine」でGuruが自分のことを歌っていたと明かしている。記事は、映画『White Men Can’t Jump』用の録音へ向かう前夜、二人が激しく衝突したことも伝える。",
+      "相棒とぶつかっても、翌日には仕事がある。ここで辿れるのは、二人の対立まで作品の背景に残る共同制作の関係だ。これはPremier側の回想として読み、Guruの内心を別に推測して補わない。"
     ],
     "facts": [
       {
@@ -39801,10 +39822,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "同じビートの上で続く声の安定感。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "Premierが自分に向けられた曲だと語ったことを念頭に、Guruの呼びかけを追う。"
     ],
-    "context": "1994年のHip Hop選曲。『Hard to Earn』の作品情報と音源の版を分けて掲載。",
+    "context": "Rock The Bells取材の紹介記事に残る、相棒同士の衝突と翌日の制作。",
     "sources": [
       {
         "label": "Gang Starr - Topic / Now You're Mine",
@@ -39825,6 +39845,11 @@
         "label": "‎Now You're Mine - Song by Gang Starr - Apple Music",
         "url": "https://music.apple.com/us/song/720099696",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Jerry Doby / The Hype Magazine — Rock The Bells取材紹介",
+        "url": "https://www.thehypemagazine.com/2020/09/28/dj-premier-shares-untold-backstories-on-gang-starr-and-his-career-in-new-interview/",
+        "kind": "本人回想を伝える記名取材紹介"
       }
     ],
     "producers": [],
@@ -39844,7 +39869,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "dj-jazzy-jeff-the-fresh-prince-somethin-like-dis",
@@ -40115,12 +40148,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "細かな音節の連打とラップの流れを聴く。",
-    "essayTitle": "細かな音節の連打が、ラップをつなぐ",
+    "deck": "Jesse Duckerが見た、「Looseys」のストーリーテリング。",
+    "essayTitle": "言葉遊びの二人が、腹の不調を物語にする。",
     "essay": [
-      "Das EFXの「Looseys」。まず耳を向けたいのは、細かな音節の連打とラップの流れだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Dead Serious』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Mic Checka」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "Jesse DuckerはAlbumismの『Dead Serious』評で、「Looseys」を、DrayとSkoobが下痢について語るコンセプト曲として取り上げる。彼は「Dum Dums」とあわせ、二人が筋の通った物語も組み立てられることを示す曲だと評価している。",
+      "派手な言葉遊びだけでなく、ひとつの困りごとをどう話にするか。Duckerの指摘を入口に、二人の語りがどこへ進んでいくかを追ってみたい。曲の出来事が本人たちの実体験だったとは、この評から決めつけない。"
     ],
     "facts": [
       {
@@ -40142,10 +40174,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "細かな音節の連打とラップの流れ。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "Jesse Duckerの読みを手がかりに、音節だけでなく物語の進み方を追う。"
     ],
-    "context": "1992年のHip Hop選曲。『Dead Serious』の作品情報と音源の版を分けて掲載。",
+    "context": "腹の不調を題材にした曲から、Das EFXの物語を組み立てる力を見る。",
     "sources": [
       {
         "label": "DASEFXOfficial / Das EFX - Looseys",
@@ -40166,6 +40197,11 @@
         "label": "‎Looseys - Song by Das EFX - Apple Music",
         "url": "https://music.apple.com/us/song/305124077",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Jesse Ducker / Albumism — Dead Serious回顧",
+        "url": "https://albumism.com/features/tribute-celebrating-30-years-of-das-efx-dead-serious",
+        "kind": "記名音楽批評"
       }
     ],
     "producers": [],
@@ -40185,7 +40221,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "the-pharcyde-officer",
@@ -40232,12 +40276,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "役を演じるような声と物語の進行を聴く。",
-    "essayTitle": "役を演じるような声で、物語を進める",
+    "deck": "Fatlipが語る、「Officer」と最初の売り込み。",
+    "essayTitle": "契約を取りに行ったデモの、三曲のうちの一曲。",
     "essay": [
-      "The Pharcydeの「Officer」。まず耳を向けたいのは、役を演じるような声と物語の進行だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Bizarre Ride II the Pharcyde』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「4 Better Or 4 Worse」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "FatlipはShing02の取材で、最初のデモに「Passin’ Me By」「Officer」「Ya Mama」が入っていたと話している。そのデモをハリウッドで売り込み、二、三か月ほどで契約に至ったという。",
+      "アルバムの一曲になる前に、「Officer」はグループを初めて聞く相手へ差し出す曲のひとつだった。同じデモに並んだ三曲を聴くときは、それぞれがどんな自己紹介になり得たかを考えてみたい。デモ音源とアルバム版が同じ録音だとは、ここでは断定しない。"
     ],
     "facts": [
       {
@@ -40259,10 +40302,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "役を演じるような声と物語の進行。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "デモに並んだ「Passin’ Me By」「Ya Mama」とともに、グループの自己紹介として聴く。"
     ],
-    "context": "1992年のHip Hop選曲。『Bizarre Ride II the Pharcyde』の作品情報と音源の版を分けて掲載。",
+    "context": "Fatlipの証言から辿る、ハリウッドへ持ち込んだ三曲入りデモ。",
     "sources": [
       {
         "label": "Craft Recordings / The Pharcyde - Officer (Official Audio)",
@@ -40283,6 +40325,11 @@
         "label": "‎Officer - Song with Lyrics by The Pharcyde - Apple Music",
         "url": "https://music.apple.com/us/song/1440946560",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Shing02 / Tre and Fatlip Interview",
+        "url": "https://www.e22.com/shing02/tre_fatlip_interview.htm",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [],
@@ -40302,7 +40349,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "original-flavor-all-that",
@@ -40462,12 +40517,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "声の押し引きとビートの隙間を聴く。",
-    "essayTitle": "押す声、引く声、ビートに残る隙間",
+    "deck": "Steve “Flash” Juonが読む、「Nutin’ Ta Lose」の上昇志向。",
+    "essayTitle": "地下にいるだけでは、終わらない。",
     "essay": [
-      "Dred Scottの「Nutin' Ta Lose」。まず耳を向けたいのは、声の押し引きとビートの隙間だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Nutin' Ta Lose / Breakin' Combs』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "1993年という数字をいったん脇へ置き、声とリズムの関係から聴いてみたい。名盤の知識はあとからでも追いつける。まず「Nutin' Ta Lose」という名前と、自分の耳に残った場所を結びつけておく。"
+      "Steve “Flash” JuonはRapReviewsの『Breakin’ Combs』評で、「Nutin’ Ta Lose」に、アンダーグラウンドから何としても上へ出ようとする意志を読み取っている。地下にいることを誇るだけでなく、そこから進み出ようとする曲としての読みだ。",
+      "この評を手がかりにするなら、曲名の強気な言葉を、無名の場所にとどまらない姿勢と結びつけて考えられる。Dred Scott本人が制作意図を説明した証言ではなく、歌詞に対する評者の解釈として受け取りたい。"
     ],
     "facts": [
       {
@@ -40489,10 +40543,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "声の押し引きとビートの隙間。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "Juonの解釈を入口に、曲名の強気さと上へ出ようとする姿勢を考える。"
     ],
-    "context": "1993年のHip Hop選曲。『Nutin' Ta Lose / Breakin' Combs』の作品情報と音源の版を分けて掲載。",
+    "context": "RapReviewsの記名評から辿る、アンダーグラウンドと上昇志向の関係。",
     "sources": [
       {
         "label": "Dred Scott - Topic / Nutin' Ta Lose",
@@ -40513,6 +40566,11 @@
         "label": "Nutin Ta Lose/Duck Ya Head | Dred Scott",
         "url": "https://www.onamrecords.com/artists/dred-scott/discography/united-states/tuff-break-records/31458-8172/nutin-ta-lose-duck-ya-head",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Steve “Flash” Juon / RapReviews — Breakin’ Combs",
+        "url": "https://www.rapreviews.com/2020/09/dred-scott-breakin-combs/",
+        "kind": "記名音楽批評"
       }
     ],
     "producers": [
@@ -40532,7 +40590,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "black-maddness-wild-brooklyn-bandits",
