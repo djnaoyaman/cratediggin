@@ -53267,9 +53267,10 @@
         "kind": "本人インタビュー"
       }
     ],
-    "deck": "レコード店で出会った二人の音楽観を、ヴォーカルとGangstramentalを収めた初期12インチからたどる。",
-    "essayTitle": "ラッパーになる前に、二人は音楽を作っていた",
+    "deck": "Thes Oneの講演記録が伝える、初期People Under the Stairsの負担。",
+    "essayTitle": "自主盤に注いだ、学生ローン。",
     "essay": [
+      "Thes Oneは2011年のオレゴン大学講演で、初期の自主リリースに学生ローンを投じ、流通業者との取引で3,600ドルを失ったと振り返っている。「The Next Step II」を含む出発期には、自分たちで録音する自由だけでなく、レコードを届ける費用とリスクもあった。これは本人が語る初期リリース全体の経験で、本曲一枚の制作費を示す数字ではない。",
       "People Under the Stairsの出発点は、大きなクルーを結成する計画ではなく、レコード店で出会った二人のビート制作者だった。Thes Oneは2011年の大学講演で、互いの学校に「向こうにはもっと良いビートを作るやつがいる」と噂されていたDouble Kと顔を合わせ、持っていたカセットを聴かせ合ったと振り返る。競争相手のはずだった相手と、好きな音楽が重なることを発見したのだ。",
       "「The Next Step II」は、その二人の初期曲であり、同名12インチの表題曲でもある。盤にはヴォーカル曲とGangstramentalが並び、「4 Everybody」や「Time To Rock Our Shit」も同居する。後にアルバム『The Next Step』で一続きになる世界が、ここではDJが面を返し、曲やインストを選ぶ一枚にまとまっている。アルバムの略称ではなく、二人の出発を担った固有の曲名だ。",
       "Thes Oneは同じ講演で、二人がまず気にしていたのは、自分のラップを目立たせることより音楽そのものだったと語っている。自分たちのビートを自分たちで完成させるために、ラップも引き受ける。その順序を知ると、MCとプロデューサーをきれいに分けないPeople Under the Stairsの姿が見えてくる。この曲は、声もビートも同じ生活の中で育つ、二人だけの制作体制への入口になる。"
@@ -53338,7 +53339,22 @@
       ],
       "paletteSource": "https://peopleunderthestairs.bandcamp.com/track/the-next-step-ii-2",
       "paletteNote": "The Next Stepの表紙。クリーム色の上部、赤褐色の人物写真、黒い見出し文字。 目視参照による編集上の近似配色。厳密な色抽出値ではない。"
-    }
+    },
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        3
+      ]
+    ]
   },
   {
     "id": "lone-catalysts-lone-catalysts-instrumental",
@@ -53388,9 +53404,10 @@
         "kind": "公式配信"
       }
     ],
-    "deck": "Lone Catalystsのセルフタイトル曲をインストゥルメンタルで聴く指定。",
-    "essayTitle": "グループの名前を、ビートだけで名乗る",
+    "deck": "インスト盤のB.U.K.A.という表記にも、人とのつながりが残る。",
+    "essayTitle": "二人を会わせた友人が、レーベル名になった。",
     "essay": [
+      "J. Rawlsは2000年のSoulman取材で、J. Sandsを紹介してくれた友人Bukaにちなんでレーベル名を付けたと説明している。二人は同じ大学へ通っていたのに、実際に出会ったのはColumbusだったという。このインストを収めた盤のB.U.K.A.という表記は、会社名であると同時に二人の出会いの記録でもある。これはインスト版の個別録音談ではなく、送り出したレーベルの背景だ。",
       "グループ名をそのまま曲名にした「Lone Catalysts」を、ラップを外した版から捉え直す。J. Rawlsは2003年のインタビューで、Lone Catalystsでは自分がビートを、J. Sandsがライムを担うと説明している。ただし、その基本的な分業と、このインスト版の個別制作クレジットは別の話だ。ここで確かめたいのは、MCと制作者の二人組が、ラップを外した状態でも自分たちの名前を掲げているという作品のあり方である。",
       "1999年のB.U.K.A.盤『Due Process / Let It Soak』の収録表には、B面に「Lone Catalysts (Instrumental)」が並ぶ。一方、現在の公式配信では『Hip Hop (Instrumentals)』の14曲目として4分27秒の版に辿り着く。配信の2001年という作品日付や2025年の権利表記は、12インチの発表時期とは区別したい。タイトルと長さが重なっても、それだけで両者を同一マスターと決めることはできない。",
       "歌入りの「Lone Catalysts」は、公式Bandcampではアルバム『Hip Hop』の一曲として残されている。インストを単なる欠落版と見るのではなく、同じ曲名の下で注目する対象が変わる、と考えると面白い。言葉を追う代わりに反復や区切りへ耳を向け、その後でヴォーカル版へ戻る。グループの輪郭を、ラップの有無という両側から探るための一曲だ。"
@@ -53462,7 +53479,23 @@
       ],
       "paletteSource": "https://music.apple.com/jp/song/1822208715",
       "paletteNote": "Hip Hop (Instrumentals)現行配信の表紙。灰色の舞台写真と黒白の手描き風文字。初出12インチの表紙とは区別。 目視参照による編集上の近似配色。厳密な色抽出値ではない。"
-    }
+    },
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        3
+      ],
+      [
+        0,
+        1,
+        5
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "jurassic-5-unified-rebelution",
@@ -53514,9 +53547,10 @@
         "kind": "本人インタビュー"
       }
     ],
-    "deck": "Jurassic 5の結成初期をたどる重要なシングル「Unified Rebelution」。",
-    "essayTitle": "一曲を一緒に演じることから、グループは生まれた",
+    "deck": "「Unified Rebelution」の後を、Cut Chemistの回想からたどる。",
+    "essayTitle": "レーベルを離れた翌日、自主盤へ進んだ。",
     "essay": [
+      "Cut Chemistは2003年のHip Hop Core取材で、Blunt／TVTが自分たちへ投資しようとしなかったため、手持ちの資金でRumbleを作ったと話す。契約を切られるのを待ち、実際に切られた翌日にEPを出した、という回想だ。「Unified Rebelution」の発売がそのまま成功へ続いたのではなく、自分たちで次の盤を出す判断につながった。",
       "「Unified Rebelution」は、完成したJurassic 5が最初の挨拶として作った曲、とだけ説明すると肝心なところを取り落とす。先にあったのはUnity CommitteeとRebels of Rhythmという二つの集団であり、一緒に曲を作り、ステージに立つ関係だった。Cut Chemistは2003年の取材で、家で仲間とカセットを録り、やがて4トラックのデモを作るようになった過程を振り返っている。グループの誕生は、その日常の延長にあった。",
       "ここでの1995年はBlunt／TVT盤を指す。ただしCut Chemist本人の販売ページには、Blunt盤より前の水色ラベルの自主盤が示されている。そこには表題曲だけでなく「Lesson 4」、Nu-Markのボーナス・ビーツ、アカペラも収録されていた。MCの共同曲と二人のDJの仕事を一枚に収める構成は、後のJ5の編成を、名前や人数以上に具体的に伝えてくれる。",
       "Bluntからの発売は、そのまま成功への一本道にはならなかった。Soupはレーベルから一時的な珍しさで見られていたと述べ、Cut Chemistは後に自分たちでRumbleを立ち上げた経緯を語っている。したがってこの曲は、レーベルに発見された瞬間だけの記録ではない。仲間同士の合作を自分たちのレコードにし、流通に乗せ、その後も主体性を取り戻していく歩みの始点として重要なのだ。"
@@ -53586,7 +53620,23 @@
       ],
       "paletteSource": "https://cutchemist.bandcamp.com/merch/unified-rebelution-12-sealed",
       "paletteNote": "Cut Chemist本人の販売ページにある初期12インチのラベル。淡い青緑色に黒い大文字、盤の穴とクリーム色の周囲。 目視参照による編集上の近似配色。厳密な色抽出値ではない。"
-    }
+    },
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "ugly-duckling-everybody-c-mon",
@@ -53641,9 +53691,10 @@
         "kind": "本人による公式ミュージックビデオ"
       }
     ],
-    "deck": "ロングビーチのUgly Ducklingが1999年に発表したEP『Fresh Mode』の収録曲。",
-    "essayTitle": "ロングビーチの三人が作った、自分たちの居場所",
+    "deck": "Young Einsteinが語る「Fresh Mode」の予算と時間。",
+    "essayTitle": "四日間で録った、最初のEP。",
     "essay": [
+      "Young Einsteinはrap.deの取材で、「Everybody C’mon」を収めたEP『Fresh Mode』を四日間で録音したと話している。ほとんど予算がなく、スタジオの時間を急いで使う必要があったという。これは本曲だけに四日かけたという意味ではない。のちの『Journey to Anywhere』では、ツアーを挟みながら約九か月作業できたと振り返り、二つの作品を分ける制作条件の違いを示している。",
       "「Everybody C’mon」は、Ugly DucklingのデビューEP『Fresh Mode』に収められた一曲。公式配信が示す発表日は1999年4月20日で、8曲中の5曲目に置かれている。直前はDJの名前を掲げた「Einstein’s Takin’ Off」、直後は「Do You Know What I’m Sayin’」。一曲の名前だけでなく、この並びを見ることでも、MCとDJを別々の付属物にしないグループの考え方へ入っていける。",
       "1993年に結成された三人組は、MCのAndy Cooper、Dizzy Dustin、DJのYoung Einsteinからなる。1999年のOC Weeklyの取材でDustinは、ロングビーチで広く知られていたギャングスタ・ラップの流れに自分たちは属していなかったと説明し、それが「みにくいアヒルの子」という名前にもつながったと話す。地元を離れて別の土地を演じるのではなく、同じ街にいる自分たちの違いを、グループ名に引き受けていた。",
       "一方で「クラシックなヒップホップ」という美学を、余裕のある懐古趣味だと思うのも違う。Young Einsteinは後年のrap.deの取材で、『Fresh Mode』の録音は予算が乏しく、4日間で進めたと振り返っている。ここにあるのは、昔の様式への愛着と、限られた条件で曲をまとめる現実の仕事だ。「Everybody C’mon」を入口にEP全体へ進むと、短い作品に自分たちの役割を集めて届けようとした初期の姿が見えてくる。"
@@ -53713,7 +53764,22 @@
       ],
       "paletteSource": "https://uglyduckling.bandcamp.com/album/fresh-mode",
       "paletteNote": "Fresh Modeの表紙。クリーム色の地に赤・青・黄色の服を着た漫画の人物たち。 目視参照による編集上の近似配色。厳密な色抽出値ではない。"
-    }
+    },
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        3
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "lootpack-the-anthem",
@@ -53768,11 +53834,17 @@
         "label": "Stones Throw／Elemental — Wildchildが語る制作の自由（2003年）",
         "url": "https://www.stonesthrow.com/news/wildchild-in-elemental-magazine/",
         "kind": "本人インタビュー"
+      },
+      {
+        "label": "Albumism — Jesse Ducker「Soundpieces: Da Antidote!」再訪（2024更新）",
+        "url": "https://albumism.com/features/lootpack-debut-album-soundpieces-da-antidote-album-anniversary",
+        "kind": "記名批評"
       }
     ],
-    "deck": "LootpackがStones Throwから発表した初期シングル。",
-    "essayTitle": "自主盤の次へ進んだ、Lootpackの共同宣言",
+    "deck": "Jesse Duckerは「The Anthem」のピアノとオルガンの編集に注目した。",
+    "essayTitle": "宣言を支える、鍵盤の切り貼り。",
     "essay": [
+      "AlbumismのJesse Duckerは「The Anthem」を、見せかけのラッパーを批判し、自分たちのヒップホップを打ち出す曲と読んでいる。同時に彼が評価するのは、Madlibがピアノとオルガンの打音を切り貼りした制作だ。言葉の宣言と、断片を組み直す手仕事を並べて捉える批評である。これは評者による聴き取りで、使用レコードや機材を本人が明かした証言とは分けたい。",
       "「The Anthem」は、Madlib、Wildchild、DJ RomesからなるLootpackがStones Throwで発表した最初のシングルだ。レーベルの作品紹介は、自主プレスの『Psyche Move』に続く一枚と位置づけている。回顧記事が示す順番は、1998年の本EP、そして翌1999年の『Soundpieces: Da Antidote!』。後年のMadlibの名声から逆算するより、まず三人組が自分たちの作品を広く送り出した局面として置きたい。",
       "品番STH2013の内容は、表題曲、「Lost Art」、Tha AlkaholiksとDefariを迎えた「Likwit Fusion」、そして各曲のインストという組み合わせである。複数のラップ曲を紹介すると同時に、その音の土台だけを取り出せる構成になっている。12インチはアルバムの予告だけではない。グループの曲、仲間との接続、ビートを別々の入口として差し出す、独立した小さな作品集でもある。",
       "同じStones Throwの案内によれば、「Lost Art」は後に『Loopdigga EP』へ再収録された。こうした枝道まで辿ると、「The Anthem」の周囲には、アルバム本編だけでは見えない制作の広がりがある。表題曲を単独の代表作として覚えるのもいいが、最初のシングルの全体を見渡すことで、Lootpackが何を自分たちの看板とし、誰と並んで登場しようとしたのかをより具体的に考えられる。"
@@ -53841,7 +53913,22 @@
       ],
       "paletteSource": "https://www.stonesthrow.com/store/the-anthem/",
       "paletteNote": "The Anthem EPの表紙。白地、黒白の顔写真、細い黒文字と淡い赤の小さな記号。 目視参照による編集上の近似配色。厳密な色抽出値ではない。"
-    }
+    },
+    "essaySources": [
+      [
+        7
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ]
   },
   {
     "id": "the-beatnuts-worlds-famous",
@@ -54020,9 +54107,10 @@
       "lettering": "block",
       "letteringNote": "地域と作品の印象をもとにした独自の編集判断。"
     },
-    "deck": "水滴のような響きを、ラップの背後から主役へ。インスト版は、空間そのものを聴くための別の入口になる。",
-    "essayTitle": "声のいない場所に、骨格が残る。",
+    "deck": "Jeruが語る「Come Clean」のビートができるまで。",
+    "essayTitle": "十数枚を聴いて、二人で選んだ音。",
     "essay": [
+      "JeruはDaniel Isenbergの取材で、Premierの家で十〜十五枚ほどのレコードを聴き、Shelly Manneの盤に二人で反応したと回想する。Premierはループの組み方を相談してカセットに録り、Jeruは帰りの車で最初の一行を思いついたという。この制作談は元の「Come Clean」のもので、2024年配信のインスト版のマスター同一性を証明するものではない。それでも、声が入る前に二人で音を選んだ順序は、インストを考える具体的な手がかりになる。",
       "「Come Clean」のインスト版では、誰が何を言うかより、次の音が来るまでの距離に意識を向けたい。水滴を連想させる響きと硬いドラムを、単なる奇抜さとして片づけないこと。音を少なくすれば自動的に強くなるわけではない。残す音の輪郭と配置によって、空いている場所までリズムの一部になる。",
       "1993年の12インチにはInstrumentalが独立して収録されていた。ここで案内する正規配信は、2024年の拡張版に収められた同名インストである。ヴォーカル曲とは分けて紹介するが、当時の盤と配信のマスターが完全に同一だとは言わない。歴史上の版と、今日アクセスできる版の両方を区別することで、このビートの入口が明瞭になる。",
       "JeruはPremierとの関係を、好みを伝えれば仕立て直してくれる協働として語っている。その話を踏まえると、インストはラッパーを取り除いた残り物ではない。ある声が入るために選び抜かれた空間を、別の角度から示す一曲だ。ヴォーカル版へ戻ったとき、言葉が音の隙間をどう使うのかも、いっそう意識できる。"
@@ -54092,6 +54180,9 @@
     "noteReviewedAt": "2026-10-18",
     "essaySources": [
       [
+        3
+      ],
+      [
         0
       ],
       [
@@ -54154,9 +54245,10 @@
       "lettering": "block",
       "letteringNote": "地域と作品の印象をもとにした独自の編集判断。"
     },
-    "deck": "「Props Over Here」とは別の一曲。低音の重さと複数の声の距離から、三人時代のBeatnutsを辿る。",
-    "essayTitle": "同じ言葉でも、別の場所へ。",
+    "deck": "Matt Jostが見つけた、アルバム前半と後半をつなぐ関係。",
+    "essayTitle": "「Props」が、別の歌詞でもう一度。",
     "essay": [
+      "RapReviewsのMatt Jostは、「Props Over Here」が別の歌詞と目立つベースラインを伴って「Yeah You Get Props」に再登場する、と評している。二曲を同一録音とする話ではなく、同じアルバム内でのつながりを指摘した批評だ。似た題名を混同しないだけでなく、前半の曲を思い出しながら後半へ進む聴き方が、この文章から見えてくる。",
       "似た題名が並ぶと、曲まで同じだと思ってしまいそうになる。「Yeah You Get Props」は「Props Over Here」とは別の録音で、『Street Level』の後半に置かれている。まずその距離を保って聴きたい。名高いシングルの陰に畳んでしまわなければ、この曲が三人の声をどう前へ押し出すかに集中できる。",
       "曲別の正規配信クレジットでは、制作はThe Beatnuts、作詞作曲にはJerry Tineo、Lester Fernandez、Bertony Smallsが並ぶ。制作の看板とマイクの役割が重なる時代の曲だ。低音だけを追う一周と、語尾や掛け声の受け渡しを追う一周を分けてみると、同じ伴奏の中でも声が場面を変える様子を捉えやすい。",
       "ここでは通常のアルバム曲を入口にし、別表記のRough MixやRadio Editを混ぜない。同じ曲名でも、編集やミックスが変われば聴く場所が変わる。三分余りの曲を、制作の精密さとラップの荒々しさがぶつかる場所として味わいたい。整った演奏へ磨き上げるのとは違う、輪郭の尖りを残す魅力がある。"
@@ -54203,6 +54295,11 @@
         "label": "Unkut — Psycho Lesによる制作と音質の証言",
         "url": "https://unkut.com/2015/05/psycho-les-the-beatnuts-the-unkut-interview/",
         "kind": "本人への取材"
+      },
+      {
+        "label": "RapReviews — Matt Jost「The Beatnuts」（2005年12月20日）",
+        "url": "https://www.rapreviews.com/2005/12/the-beatnuts-the-beatnuts/",
+        "kind": "記名批評"
       }
     ],
     "producers": [
@@ -54225,10 +54322,13 @@
     "noteReviewedAt": "2026-10-18",
     "essaySources": [
       [
-        1
+        4
       ],
       [
         0,
+        1
+      ],
+      [
         1
       ],
       [
@@ -54418,9 +54518,10 @@
       "lettering": "block",
       "letteringNote": "地域と作品の印象をもとにした独自の編集判断。"
     },
-    "deck": "急がずに、主導権を握る。低い重心と二人の応酬で聴く、1988年のアルバム原曲。",
-    "essayTitle": "速度よりも、重さで進む。",
+    "deck": "Erick Sermonが明かした、この曲を向けた相手。",
+    "essayTitle": "「You’re A Customer」の続きとして。",
     "essay": [
+      "Erick Sermonは2008年のAllHipHopの曲別取材で、「Get Off the Bandwagon」を自分たちにとっての「You’re A Customer」の第二部と説明し、地元で敵意を向ける人々への曲だったと振り返った。「便乗するな」という題名だけから態度を想像するよりも、書き手が示した相手と、先行曲との関係を手がかりにできる。",
       "「Get Off the Bandwagon」は、EPMDの『Strictly Business』に収録された1988年の曲だ。後年のリミックスではなく、このアルバム曲を入口にする。言葉数や速さで圧倒する聴き方をいったん脇へ置き、低い重心の上で二人がどのくらい余裕を残すのかに耳を向けたい。",
       "公式配信の制作名義はEPMD。Erick SermonとParrish Smithが作詞作曲に並ぶ。二人のどちらかを声、もう片方を音という固定した分業に分けるより、声と制作が同じ集団の中から出てくる曲として聴くと自然だ。短い受け答えや語尾の置き方は、伴奏の隙間を埋めるだけでなく、曲の歩幅を決めている。",
       "「bandwagon」という言葉は、勢いのある側へ便乗する態度を思わせる。曲名を踏まえながら、誰かを急いで追いかけるのではない二人の構えを聴いてみたい。『Strictly Business』の他の曲と続けると、冷静さと威圧が両立することが分かる。大きく身振りをしないからこそ、繰り返されるビートがこちらへ重く届く。"
@@ -54468,6 +54569,11 @@
         "label": "Red Bull Music Academy — Eric HazeとEPMDロゴの誕生",
         "url": "https://daily.redbullmusicacademy.com/2013/06/iconic-logos/",
         "kind": "デザイン史・本人証言"
+      },
+      {
+        "label": "AllHipHop — Erick Sermon／Parrish Smithが語るStrictly Business（2008）",
+        "url": "https://allhiphop.com/reviews-music/class-of-88-strictly-business/",
+        "kind": "本人への曲別取材"
       }
     ],
     "producers": [
@@ -54490,13 +54596,18 @@
     "noteReviewedAt": "2026-10-18",
     "essaySources": [
       [
+        4
+      ],
+      [
         0,
         1
       ],
       [
         0
       ],
-      []
+      [
+        0
+      ]
     ],
     "requestList": "owner-restored-first8",
     "requestRow": "Sentinel_aaa36f2a920c819181f2807f6da11dc7:13",
@@ -54543,17 +54654,20 @@
         "kind": "本人インタビュー"
       }
     ],
-    "deck": "『The Ownerz』に収録。Guru自身が「Full Clip」との近さを語った、二人の勝負曲。",
-    "essayTitle": "変わらない看板で、更新を続ける",
+    "deck": "発売時の本人の言葉から「Playtawin」を置き直す。",
+    "essayTitle": "Guruが示した比較相手は「Full Clip」。",
     "essay": [
+      "2003年のTodd E. JonesによるMVRemix取材で、Guruは「Playtawin」を「Full Clip」に近い雰囲気の曲として挙げている。同じ取材では、曲作りはタイトル、Premierのビート、自分のライムの順に進み、必ずそのビートへ直接書くと説明した。似ているという判断を外から付け足すのではなく、本人が選んだ比較相手と制作の順序から、一曲へ戻ることができる。",
       "「Playtawin」は、Gang Starrが2003年に発表した『The Ownerz』の一曲。公式クレジットにはDJ Premierのプロデュースとミックス、Guruの共同プロデュースが並ぶ。MCとビート職人というわかりやすい役割分担の奥に、二人で作品を組み立てる関係がある。看板だけを懐かしむより、その共同作業を出発点にしたい。",
       "発売時のMVRemixの取材で、Guruは本曲を「Full Clip」に近い雰囲気の曲として紹介した。同時に、変わっていないという評判に対し、自分は韻の置き方を更新していると説明している。過去の代表曲とのつながりは、以前と同じものを繰り返すという宣言ではない。自分たちの輪郭を保ったまま、今の技術で立ち直すという姿勢だ。",
       "作品名『The Ownerz』の説明も、その姿勢と重なる。Guruは流行を借りて一時的に振る舞う人々と、自分たちの音を持ち続ける二人を対比した。所有という言葉は、ここでは単なる権利の話ではなく、文化に対する継続した責任を指している。本曲の勝負という言葉も、短期の流行争いより長い時間軸へ置くと違って見える。"
     ],
     "essaySources": [
       [
-        0,
-        1
+        2
+      ],
+      [
+        0
       ],
       [
         2
