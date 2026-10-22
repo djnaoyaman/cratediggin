@@ -4128,6 +4128,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "research-batch56-browser"
+    },
+    {
+      "id": "readings-song-titles",
+      "argv": [
+        "python",
+        "scripts/verify_readings_song_titles.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "READINGS exact track titles and preservation"
+    },
+    {
+      "id": "readings-song-titles-browser",
+      "argv": [
+        "node",
+        "scripts/verify_readings_song_titles_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "READINGS titles static/SPA/mobile/Back and shared home cards"
     }
   ],
   "groups": {
@@ -4869,6 +4893,11 @@
     "research_batch56": [
       "research-batch56",
       "research-batch56-browser"
+    ],
+    "readings_song_titles": [
+      "readings-song-titles",
+      "readings-song-titles-browser",
+      "5ff83d5a4edfa5fe"
     ]
   },
   "runtime_rules": {
@@ -6495,7 +6524,8 @@
       "scripts/fixtures/approved-research-batch55.json"
     ],
     "scripts/approved_research_batch56.py": [
-      "scripts/fixtures/approved-research-batch56.json"
+      "scripts/fixtures/approved-research-batch56.json",
+      "scripts/approved_readings_song_titles.py"
     ],
     "scripts/verify_research_batch56.py": [
       "scripts/approved_research_batch56.py",
@@ -6503,6 +6533,18 @@
     ],
     "scripts/verify_research_batch56_browser.cjs": [
       "scripts/fixtures/approved-research-batch56.json"
+    ],
+    "scripts/approved_readings_song_titles.py": [
+      "scripts/fixtures/approved-readings-song-titles.json"
+    ],
+    "scripts/verify_readings_song_titles.py": [
+      "scripts/approved_readings_song_titles.py",
+      "scripts/fixtures/approved-readings-song-titles.json",
+      "tracks.json",
+      "scripts/ci/manifest.json"
+    ],
+    "scripts/verify_readings_song_titles_browser.cjs": [
+      "tracks.json"
     ]
   },
   "policy_paths": [
@@ -6730,7 +6772,9 @@
     "scripts/approved_research_batch55.py",
     "scripts/fixtures/approved-research-batch55.json",
     "scripts/approved_research_batch56.py",
-    "scripts/fixtures/approved-research-batch56.json"
+    "scripts/fixtures/approved-research-batch56.json",
+    "scripts/approved_readings_song_titles.py",
+    "scripts/fixtures/approved-readings-song-titles.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -7030,6 +7074,13 @@
         "groups": [
           "live_video_year_labels"
         ]
+      },
+      {
+        "before_sha256": "a435ce710c4c465307e7ff18986af65d4a5a0a2fd2a4bebe2d9e657ad5b38b98",
+        "after_sha256": "7b714cd1acb389d9b83fc2e9207944ce9a247b792fe3ddeac64959dbfe7bd07c",
+        "groups": [
+          "readings_song_titles"
+        ]
       }
     ],
     "src/app/editorial.js": [
@@ -7078,6 +7129,13 @@
         "groups": [
           "live_video_year_labels"
         ]
+      },
+      {
+        "before_sha256": "235b46593c1387db6253201c29e70fbe650d08260d670cd66b6ee9a8d3d833b4",
+        "after_sha256": "1b69175512443a02228625ce29af11a59a7b3d721f2241cf43c0cffa3b6c2e49",
+        "groups": [
+          "readings_song_titles"
+        ]
       }
     ],
     "src/assets/style.css": [
@@ -7100,6 +7158,13 @@
         "after_sha256": "369f75276d3aa790753db69ae410b1c5e24b93c24c8a645c436cf4c6053ef421",
         "groups": [
           "desktop_art_space"
+        ]
+      },
+      {
+        "before_sha256": "369f75276d3aa790753db69ae410b1c5e24b93c24c8a645c436cf4c6053ef421",
+        "after_sha256": "1a59fd029f7ca100f00f16125dc43da84ba493a2137ebc017e7cba9a9632ff30",
+        "groups": [
+          "readings_song_titles"
         ]
       }
     ],
