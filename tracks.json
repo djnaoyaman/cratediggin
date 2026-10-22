@@ -68351,5 +68351,140 @@
       "paletteSourceUrl": "https://interscope.com/products/mirrorland-2lp",
       "paletteNote": "公式ショップで示されたカバーの青緑・黄・クリーム・茶を配色参照に使用。人物・商品写真・カバー構図や文字は再現していません。"
     }
+  },
+  {
+    "title": "Clout",
+    "artist": "Offset feat. Cardi B",
+    "artists": [
+      "Offset",
+      "Cardi B"
+    ],
+    "year": 2019,
+    "album": "FATHER OF 4",
+    "producer": "Metro Boomin / Southside / CuBeatz",
+    "producers": [
+      "Metro Boomin",
+      "Southside",
+      "CuBeatz"
+    ],
+    "label": "Quality Control Music / Motown Records",
+    "region": "Atlanta",
+    "category": "Hip Hop",
+    "id": "offset-clout",
+    "scene": "Atlanta",
+    "essayTitle": "話題にされる側から、話題を作る側へ",
+    "deck": "「Clout」を、他人に使われる自分の名前を取り戻す二人の曲としてたどります。",
+    "essay": [
+      "OffsetとCardi Bの共演を、有名人同士の話題だけで終わらせない曲が「Clout」です。2019年4月のMV公開時、Universal Music Canadaは、二人の名前で注目を集めようとする相手へ向き合う作品として紹介しました。客演の豪華さよりも、誰が二人の物語を語るのかに目を向けると、この共演の別の入口が見えてきます。",
+      "映像のクリエイティブ・ディレクションにはOffset自身とJoseph Desrosiers Jr.、監督にはDaniel Russellが名を連ねています。話題にされる本人が、映像を作る側にも立っている点が興味深いところです。ここで選んだのは、同年2月に発売された『FATHER OF 4』収録曲の公式音源です。まずはOffsetからCardi Bへと主役が渡る場面を追い、二人が同じ題名にどう応えるか聴いてみてください。"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        0,
+        2,
+        3
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "アルバム発売情報による2019年。依頼ミックスの2020年やMVの公開日とは区別する。",
+    "regionBasis": "Universal Music Canadaの公式紹介によるOffsetとAtlantaの関連。出生地・録音場所の説明ではない。",
+    "versionBasis": "『FATHER OF 4』のCardi B客演版。選定した公式音源3:27、カタログ3:25、依頼ミックス2:03の編集・マスター同一性は未確認。MVとは別の公式音源を選定。",
+    "context": "『FATHER OF 4』で、OffsetとCardi Bが共演する一曲。",
+    "producerBasis": "Capitol Music Groupの曲別制作欄によるMetro Boomin、Southside、CuBeatzの表記。アルバム全体のエグゼクティブ・プロデューサー欄とは区別する。",
+    "facts": [
+      {
+        "title": "収録アルバム",
+        "text": "『FATHER OF 4』の12曲目で、Cardi Bが客演しています。アルバム発売日は2019年2月22日です。",
+        "sources": [
+          3
+        ]
+      },
+      {
+        "title": "曲別制作クレジット",
+        "text": "Capitol Music Groupの公式クレジットでは、制作担当にMetro Boomin、Southside、CuBeatzの3組が記載されています。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Migos ATL / Quality Control — Clout feat. Cardi B 公式音源",
+        "url": "https://www.youtube.com/watch?v=IafCTjajefE",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Capitol Music Group — FATHER OF 4 公式クレジット",
+        "url": "https://www.cmgcredits.com/artist/offset/",
+        "kind": "公式クレジット"
+      },
+      {
+        "label": "Universal Music Canada — Clout MV公開時の紹介",
+        "url": "https://www.universalmusic.ca/2019/04/17/offset-releases-video-for-clout-featuring-cardi-b/",
+        "kind": "レーベル公式記事"
+      },
+      {
+        "label": "Qobuz — FATHER OF 4 配信情報",
+        "url": "https://www.qobuz.com/dk-en/album/father-of-4-offset/hg64xvewf8sqc",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Universal Music Canada — Offset公式紹介",
+        "url": "https://www.universalmusic.ca/2022/08/19/offset-unleashes-brand-new-record-music-video-5-4-3-2-1/",
+        "kind": "公式アーティスト紹介"
+      }
+    ],
+    "youtube": {
+      "id": "IafCTjajefE",
+      "url": "https://www.youtube.com/watch?v=IafCTjajefE",
+      "title": "Clout",
+      "provider": "Migos ATL",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-22",
+      "embedUrl": "https://www.youtube.com/embed/IafCTjajefE",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "Cardi B客演のオリジナル歌入り版（公式音源）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の説明・アーティスト表示とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-22",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "addedOrder": 526,
+    "datePublished": "2026-10-22",
+    "art": {
+      "word": "Clout",
+      "tag": "OFFSET FEAT. CARDI B",
+      "lines": [
+        "Clout"
+      ],
+      "style": "piece",
+      "seed": 201901,
+      "palette": [
+        "#b39a4a",
+        "#e9dfb8",
+        "#17150e",
+        "#f2eee0"
+      ],
+      "paletteSource": "FATHER OF 4 — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://www.qobuz.com/dk-en/album/father-of-4-offset/hg64xvewf8sqc",
+      "paletteNote": "公式配信カバーの砂色・クリーム・黒を配色だけの参照に使用。人物・椅子・写真の配置やカバーの構図は再現していません。"
+    }
   }
 ]

@@ -5004,6 +5004,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "audio-source-labels-browser"
+    },
+    {
+      "id": "clout-addition",
+      "argv": [
+        "python",
+        "scripts/verify_clout_addition.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "clout-addition"
+    },
+    {
+      "id": "clout-addition-browser",
+      "argv": [
+        "node",
+        "scripts/verify_clout_addition_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "clout-addition-browser"
     }
   ],
   "groups": {
@@ -5891,6 +5915,10 @@
     "audio_source_labels": [
       "audio-source-labels",
       "audio-source-labels-browser"
+    ],
+    "clout_addition": [
+      "clout-addition",
+      "clout-addition-browser"
     ]
   },
   "runtime_rules": {
@@ -8004,7 +8032,8 @@
       "scripts/fixtures/approved-bank-addition.json"
     ],
     "scripts/approved_audio_source_labels.py": [
-      "scripts/fixtures/approved-audio-source-labels.json"
+      "scripts/fixtures/approved-audio-source-labels.json",
+      "scripts/approved_clout_addition.py"
     ],
     "scripts/verify_audio_source_labels.py": [
       "scripts/approved_audio_source_labels.py",
@@ -8014,6 +8043,21 @@
     ],
     "scripts/verify_audio_source_labels_browser.cjs": [
       "scripts/fixtures/approved-audio-source-labels.json"
+    ],
+    "scripts/approved_clout_addition.py": [
+      "scripts/fixtures/approved-clout-addition.json"
+    ],
+    "scripts/verify_clout_addition.py": [
+      "scripts/approved_clout_addition.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "releases.json",
+      "artist_entities.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_audio_source_labels.py"
+    ],
+    "scripts/verify_clout_addition_browser.cjs": [
+      "scripts/fixtures/approved-clout-addition.json"
     ]
   },
   "policy_paths": [
@@ -8316,7 +8360,9 @@
     "scripts/approved_bank_addition.py",
     "scripts/fixtures/approved-bank-addition.json",
     "scripts/approved_audio_source_labels.py",
-    "scripts/fixtures/approved-audio-source-labels.json"
+    "scripts/fixtures/approved-audio-source-labels.json",
+    "scripts/approved_clout_addition.py",
+    "scripts/fixtures/approved-clout-addition.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9575,6 +9621,13 @@
         "groups": [
           "bank_addition"
         ]
+      },
+      {
+        "before_sha256": "88a0d3d8e0f1b104d08273ebf333578afa1dcecfab418ddd7606f9ae3d1812c7",
+        "after_sha256": "e2d6bf9068644bdc9a694db3c7cb42d34b5e3cad4d958d3d2755ed786508463d",
+        "groups": [
+          "clout_addition"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -9985,6 +10038,13 @@
         "groups": [
           "bank_addition"
         ]
+      },
+      {
+        "before_sha256": "dee84fe3d172ccf0951af87778f4b882fad2545f49e121d62cd147a4184bf7d5",
+        "after_sha256": "ac3b28f4bd28446712b0c24bbafcdf674fde0de3f9f4f959ebaa94866f6422c7",
+        "groups": [
+          "clout_addition"
+        ]
       }
     ],
     "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
@@ -10170,6 +10230,13 @@
         "after_sha256": "72718b1001d0d995c0bacb1b22ab3538f899da191490ac566a2729acda0ef84c",
         "groups": [
           "bank_addition"
+        ]
+      },
+      {
+        "before_sha256": "72718b1001d0d995c0bacb1b22ab3538f899da191490ac566a2729acda0ef84c",
+        "after_sha256": "436b499261c7f649427015f7e2500b30177494f5db80243c108a35f2f5a70236",
+        "groups": [
+          "clout_addition"
         ]
       }
     ],
@@ -10783,6 +10850,15 @@
         "after_sha256": "1fe92d1515e90d42d2899cec8c5337617dce4c2b771cf54bccc39ff378eb8e2f",
         "groups": [
           "bank_addition"
+        ]
+      }
+    ],
+    "assets/graffiti/offset-clout-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "bb2a3b290fac046b44c056fdccf40327db2fcf8c4cf682a35efa804928dc181e",
+        "groups": [
+          "clout_addition"
         ]
       }
     ]
