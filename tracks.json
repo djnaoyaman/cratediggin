@@ -33154,12 +33154,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "二人のMCが受け継ぐフレーズの手触りを聴く。",
-    "essayTitle": "受け継ぐフレーズに、二人の手触り",
+    "deck": "「North Carolina」がつなぐ、別々の曲。",
+    "essayTitle": "Les McCannから、二組のラップへ。",
     "essay": [
-      "Smif-N-Wessunの「Let's Git It On」。まず耳を向けたいのは、二人のMCが受け継ぐフレーズの手触りだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Dah Shinin'』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Sound Bwoy Bureill」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "Les McCannの公式サイトは、『Talk to the People』収録の「North Carolina」を使った曲として、Smif-N-Wessunの「Let’s Git It On」とPete Rock & C.L. Smoothの「Lots of Lovin」を挙げている。",
+      "同じ演奏が、別々のラップへ渡っている。元曲を間にはさんで二曲を聴けば、共通の素材と、それぞれの使い方を比べる入口になる。"
     ],
     "facts": [
       {
@@ -33179,12 +33178,11 @@
       }
     ],
     "samples": [],
-    "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
+    "sampleStatus": "本文で挙げたサンプルの関係は掲載資料に基づきます。原盤の許諾表記・使用箇所の全件照合は未実施です。",
     "listening": [
-      "二人のMCが受け継ぐフレーズの手触り。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "「North Carolina」を間にはさんで二曲を聴き比べる。"
     ],
-    "context": "1995年のHip Hop選曲。『Dah Shinin'』の作品情報と音源の版を分けて掲載。",
+    "context": "Les McCann側が明示するサンプルのつながり。",
     "sources": [
       {
         "label": "NervousRecordsNYC / Smif-N-Wessun - Let's Git It On",
@@ -33205,6 +33203,11 @@
         "label": "‎Let's Git It On (feat. Black Moon & Funkmaster Flex) [Jaguar Skills Re-Fix] - Song by Smif-N-Wessun - Apple Music",
         "url": "https://music.apple.com/us/song/847862881",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://www.lesmccannxmas.com/sampled-works",
+        "label": "Les McCann — Sampled Works",
+        "kind": "調査出典（本人・関係者証言または署名記事）"
       }
     ],
     "producers": [],
@@ -33224,7 +33227,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "black-moon-how-many-mc-s",
@@ -33271,12 +33282,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "問いかけの反復と声の押し出しを聴く。",
-    "essayTitle": "何人のMCへ、問いを押し出す声",
+    "deck": "再発レーベルが示した、サンプルへの道。",
+    "essayTitle": "Grover Washington Jr.の「Hydra」が、ラップの土台へ。",
     "essay": [
-      "Black Moonの「How Many MC's」。まず耳を向けたいのは、問いかけの反復と声の押し出しだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Enta da Stage』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「I Got Cha Opin (Remix)」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "P-Vineは「How Many MC’s…」の7インチ再発案内で、Grover Washington Jr.の「Hydra」をサンプリングした曲だと明記している。Black Moonの名義から、ジャズ奏者の一曲へ戻れる手がかりだ。",
+      "再発盤では「Who Got Da Props?」と背中合わせに収められた。二曲を並べた盤から入り、「Hydra」へ進んでみる。引用元とラップ曲を行き来することで、何を残し、何を変えたのかを自分の耳で確かめたい。"
     ],
     "facts": [
       {
@@ -33296,12 +33306,11 @@
       }
     ],
     "samples": [],
-    "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
+    "sampleStatus": "本文で挙げたサンプルの関係は掲載資料に基づきます。原盤の許諾表記・使用箇所の全件照合は未実施です。",
     "listening": [
-      "問いかけの反復と声の押し出し。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "「Hydra」と「How Many MC’s…」を往復し、素材が置かれた場所を確かめる。"
     ],
-    "context": "1993年のHip Hop選曲。『Enta da Stage』の作品情報と音源の版を分けて掲載。",
+    "context": "P-Vineの再発案内からサンプルへたどる。",
     "sources": [
       {
         "label": "NervousRecordsNYC / Black Moon - How Many MC's...",
@@ -33322,6 +33331,11 @@
         "label": "Black Moon - Enta Da Stage",
         "url": "https://whitenoiserecords.org/products/black-moon-enta-da-stage",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://anywherestore.p-vine.jp/en/products/p7-6451",
+        "label": "P-Vine — Who Got Da Props? / How Many MC’s…",
+        "kind": "調査出典（本人・関係者証言または署名記事）"
       }
     ],
     "producers": [],
@@ -33341,7 +33355,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "group-home-up-against-the-wall-low-budget-mix",
@@ -33387,12 +33409,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "Low Budget Mixの音数とラップの間合いを聴く。",
-    "essayTitle": "Low Budget Mix、音数より間合いへ",
+    "deck": "Tom Doggettが注目したLow Budget Mixの仕掛け。",
+    "essayTitle": "二秒の反復を、退屈にしない。",
     "essay": [
-      "Group Homeの「Up Against The Wall (Low Budget Mix)」。まず耳を向けたいのは、Low Budget Mixの音数とラップの間合いだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Livin' Proof』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Livin' Proof」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "RapReviewsのTom Doggettは「Up Against The Wall (Low Budget Mix)」を、同じ二秒ほどのループを繰り返しながら、調整によって新鮮さを保つ曲と評している。素材を次々に足すのではなく、短い反復をどう持たせるかに注目した読みだ。",
+      "同じ評では、テンポの異なる二つの「Up Against The Wall」を作ったPremierの仕事にも触れている。まずLow Budget Mixの繰り返しを追い、それから別版へ移ってみたい。二秒という長さは評者の記述であり、こちらで計測した値ではない。"
     ],
     "facts": [
       {
@@ -33414,10 +33435,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "Low Budget Mixの音数とラップの間合い。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "Low Budget Mixの反復を追ったあと、Getaway Car Mixとの違いを確かめる。"
     ],
-    "context": "1995年のHip Hop選曲。『Livin' Proof』の作品情報と音源の版を分けて掲載。",
+    "context": "短いループへの評者の観察を、二つの版を聴く手がかりにする。",
     "sources": [
       {
         "label": "Group Home - Topic / Up Against The Wall (Low Budget Mix)",
@@ -33438,6 +33458,11 @@
         "label": "GROUP HOME / LIVIN' PROOF (2LP) - HIP TANK RECORDS",
         "url": "https://hiptankrecords.shop-pro.jp/?pid=140975552",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://rapreviews.com/archive/BTTL_livinproof.html",
+        "label": "Tom Doggett — Livin’ Proof / RapReviews (2004)",
+        "kind": "調査出典（本人・関係者証言または署名記事）"
       }
     ],
     "producers": [
@@ -33459,7 +33484,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "kool-g-rap-blowin-up-in-the-world",
@@ -33505,12 +33538,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "細かな音節がまとまって進むフロウを聴く。",
-    "essayTitle": "細かな音節が、ひと続きのフロウになる",
+    "deck": "評者が見つけた『Enta Da Stage』との近さ。",
+    "essayTitle": "この一曲から、Black Moonへ聴き進む。",
     "essay": [
-      "Kool G Rapの「Blowin' Up In The World」。まず耳を向けたいのは、細かな音節がまとまって進むフロウだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『4,5,6』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "1995年という数字をいったん脇へ置き、声とリズムの関係から聴いてみたい。名盤の知識はあとからでも追いつける。まず「Blowin' Up In The World」という名前と、自分の耳に残った場所を結びつけておく。"
+      "「Blowin’ Up in the World」を聴いてBlack Moonの『Enta Da Stage』を思い浮かべたのは、RapReviewsのSteve “Flash” Juonだ。『4, 5, 6』評で、Buckwildが手がけたこの曲を、Black Moonのジャズを取り込んだ作風になぞらえている。",
+      "これは共通サンプルや共同制作を示す話ではなく、評者の聴き比べだ。G Rapの曲からBlack Moonへ進む順路として受け取り、自分にはどんな共通点と違いが聞こえるか確かめたい。"
     ],
     "facts": [
       {
@@ -33532,10 +33564,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "細かな音節がまとまって進むフロウ。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "『Enta Da Stage』と続けて聴く。似ているという評価はJuonの視点として扱う。"
     ],
-    "context": "1995年のHip Hop選曲。『4,5,6』の作品情報と音源の版を分けて掲載。",
+    "context": "署名評にある作品間の比較を、次の一枚への入口にする。",
     "sources": [
       {
         "label": "Kool G Rap - Topic / Blowin' Up In The World",
@@ -33551,6 +33582,11 @@
         "label": "‎Blowin' Up In the World - Song with Lyrics by Kool G Rap - Apple Music",
         "url": "https://music.apple.com/us/song/169715542",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://www.rapreviews.com/2016/10/kool-g-rap-4-5-6/",
+        "label": "Steve “Flash” Juon — 4, 5, 6 / RapReviews (2016)",
+        "kind": "調査出典（本人・関係者証言または署名記事）"
       }
     ],
     "producers": [],
@@ -33568,7 +33604,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        3
+      ]
+    ]
   },
   {
     "id": "o-c-word-life",
@@ -33615,12 +33659,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "アルバムと同じ言葉を掲げる表題曲の語り口を聴く。",
-    "essayTitle": "O.C.の表題曲、語りの息継ぎを探す",
+    "deck": "Matt Jostが分けた、O.C.の二つの語り口。",
+    "essayTitle": "表題曲では、言葉の組み方を追う。",
     "essay": [
-      "O.C.の「Word...Life」。まず耳を向けたいのは、アルバムと同じ言葉を掲げる表題曲の語り口だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Word...Life』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「O-Zone」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "RapReviewsのMatt Jostは、O.C.のラップに二つの方向を見ている。「Time’s Up」などの明快な語り口に対し、表題曲「Word…Life」や「O-Zone」では、入り組んだ抽象的な言葉の組み立てが前に出るという。",
+      "アルバムの題名を背負う曲だからといって、作品全体を一つの物語に要約しているとは限らない。この評を手がかりに、表題曲と「Time’s Up」を行き来してみる。筋を追うことと、言葉の運びを追うことを切り替える聴き方だ。"
     ],
     "facts": [
       {
@@ -33642,10 +33685,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "アルバムと同じ言葉を掲げる表題曲の語り口。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "「Time’s Up」と表題曲を往復し、Jostの分類を自分の耳で検討する。"
     ],
-    "context": "1994年のHip Hop選曲。『Word...Life』の作品情報と音源の版を分けて掲載。",
+    "context": "O.C.の二つの語り口を、署名評から読み分ける。",
     "sources": [
       {
         "label": "O.C. - Topic / Word... Life",
@@ -33666,6 +33708,11 @@
         "label": "‎Word...Life - Album by O.C. - Apple Music",
         "url": "https://music.apple.com/us/album/word-life/1565381875",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://rapreviews.com/archive/BTTL_wordlife.html",
+        "label": "Matt Jost — Word…Life / RapReviews (2005)",
+        "kind": "調査出典（本人・関係者証言または署名記事）"
       }
     ],
     "producers": [],
@@ -33685,7 +33732,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "the-roots-distortion-to-static",
@@ -33731,12 +33786,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "反復の中で動く声とリズムの関係を聴く。",
-    "essayTitle": "繰り返すリズムの中、声の動きを追う",
+    "deck": "Scott Storchが持ち込んだ鍵盤と、曲のイントロ。",
+    "essayTitle": "中古のRhodesが、バンドの音を広げた。",
     "essay": [
-      "The Rootsの「Distortion To Static」。まず耳を向けたいのは、反復の中で動く声とリズムの関係だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Distortion to Static / Do You Want More?!!!??!』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Push Up Ya Lighter」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "Questloveは2005年のRed Bull Music Academyで、Scott Storchが中古のFender Rhodesを買い、既に作っていた曲に試していったと振り返っている。司会者が「Distortion To Static」のイントロもRhodesなのかと尋ねると、彼は肯定した。",
+      "Questloveによれば、その音は数年にわたってThe Rootsを形作った。既存の曲に新しい楽器を合わせてみる試みが、バンドの輪郭を変えていく。イントロを、そうした試行の一つとして聴いてみたい。"
     ],
     "facts": [
       {
@@ -33758,10 +33812,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "反復の中で動く声とリズムの関係。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "本人がRhodesと認めたイントロから、バンド全体へ耳を広げる。"
     ],
-    "context": "1994年のHip Hop選曲。『Distortion to Static / Do You Want More?!!!??!』の作品情報と音源の版を分けて掲載。",
+    "context": "Questloveの回想から、楽器を試すこととバンドの変化をつなぐ。",
     "sources": [
       {
         "label": "The Roots - Topic / Distortion To Static",
@@ -33782,6 +33835,11 @@
         "label": "‎Distortion To Static - Song with Lyrics by The Roots - Apple Music",
         "url": "https://music.apple.com/us/song/1543795054",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://www.redbullmusicacademy.com/lectures/uestlove-phrenology-of-hip-hop/",
+        "label": "Questlove — RBMA Seattle講演 (2005)",
+        "kind": "調査出典（本人・関係者証言または署名記事）"
       }
     ],
     "producers": [
@@ -33805,7 +33863,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "erick-sermon-bomdigi",
@@ -33971,12 +34037,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "表題曲からたどる声とビートの均衡を聴く。",
-    "essayTitle": "表題曲の中で釣り合う、声とビート",
+    "deck": "表題曲に重なる二つの素材。",
+    "essayTitle": "George DukeとAlbino Gorillaを、一曲へ。",
     "essay": [
-      "Pete Rock & C.L. Smoothの「The Main Ingredient」。まず耳を向けたいのは、表題曲からたどる声とビートの均衡だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『The Main Ingredient』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Lots of Lovin’」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "AlbumismのMarcus Willisは「The Main Ingredient」の素材として、George Dukeの「North Beach」とAlbino Gorillaの「Psychedelic Shack」を挙げている。鍵盤と声という異なる要素が、一曲の中に組み合わされる。",
+      "二つの元曲へ戻り、どの要素が聞き取れるか確かめたい。"
     ],
     "facts": [
       {
@@ -33996,12 +34061,11 @@
       }
     ],
     "samples": [],
-    "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
+    "sampleStatus": "本文で挙げたサンプルの関係は掲載資料に基づきます。原盤の許諾表記・使用箇所の全件照合は未実施です。",
     "listening": [
-      "表題曲からたどる声とビートの均衡。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "二つの元曲と表題曲を往復する。"
     ],
-    "context": "1994年のHip Hop選曲。『The Main Ingredient』の作品情報と音源の版を分けて掲載。",
+    "context": "Willisの指摘から、二つの素材をたどる。",
     "sources": [
       {
         "label": "Pete Rock - Topic / The Main Ingredient",
@@ -34022,6 +34086,11 @@
         "label": "PETE ROCK & C.L. SMOOTH / I GOT A LOVE / 12″ / – RECORD SHOP VIEW",
         "url": "https://viewrecordshop.com/product/pete-rock-c-l-smooth-i-got-a-love-12/",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://albumism.com/features/pete-rock-and-cl-smooth-the-main-ingredient-album-anniversary",
+        "label": "Marcus Willis — The Main Ingredient / Albumism (2024)",
+        "kind": "調査出典（本人・関係者証言または署名記事）"
       }
     ],
     "producers": [
@@ -34044,7 +34113,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "pete-rock-c-l-smooth-worldwide",
@@ -34091,12 +34168,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "大きな題名に対して近く響くラップの距離感を聴く。",
-    "essayTitle": "世界を掲げる題名、すぐ近くのラップ",
+    "deck": "二人組のアルバムで、マイクの顔ぶれが変わる。",
+    "essayTitle": "ここでは、C.L. SmoothではなくRob-O。",
     "essay": [
-      "Pete Rock & C.L. Smoothの「Worldwide」。まず耳を向けたいのは、大きな題名に対して近く響くラップの距離感だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『The Main Ingredient』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「The Main Ingredient」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "AlbumismのMarcus Willisは「Worldwide」を、C.L. Smoothがラップせず、Rob-Oがヴァースを披露する曲として紹介している。アルバムの名義と、各曲で聞こえる声は必ずしも同じ顔ぶれではない。",
+      "曲ごとに誰がマイクを握るのか。その違いを追って、アルバムへ戻りたい。"
     ],
     "facts": [
       {
@@ -34118,10 +34194,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "大きな題名に対して近く響くラップの距離感。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "Rob-Oの参加を手がかりに、曲ごとの声を聴き分ける。"
     ],
-    "context": "1994年のHip Hop選曲。『The Main Ingredient』の作品情報と音源の版を分けて掲載。",
+    "context": "署名評から、アルバム名義と歌い手の違いへ。",
     "sources": [
       {
         "label": "Pete Rock - Topic / Worldwide",
@@ -34142,6 +34217,11 @@
         "label": "PETE ROCK & C.L. SMOOTH / SEARCHING [12inch - MFJP-1004]：HIP HOP：アナログレコード専門通販のSTEREO RECORDS",
         "url": "https://www.stereo-records.com/detail.php?itemCd=58383",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://albumism.com/features/pete-rock-and-cl-smooth-the-main-ingredient-album-anniversary",
+        "label": "Marcus Willis — The Main Ingredient / Albumism (2024)",
+        "kind": "調査出典（本人・関係者証言または署名記事）"
       }
     ],
     "producers": [
@@ -34164,7 +34244,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "black-moon-buck-em-down",
@@ -34211,12 +34299,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "アルバム版の構成と声の入り方を聴く。",
-    "essayTitle": "アルバム版で確かめる、声の入り口",
+    "deck": "「Wind Parade」からBlack Moonへ続く道。",
+    "essayTitle": "Nightmares on Waxも選んだ、Donald Byrdへの入口。",
     "essay": [
-      "Black Moonの「Buck 'Em Down」。まず耳を向けたいのは、アルバム版の構成と声の入り方だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Enta da Stage』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「How Many MC's」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "Nightmares on WaxことGeorge Evelynは、お気に入りのヒップホップ・サンプルを選ぶ企画で、Donald Byrdの「Wind Parade」とBlack Moonの「Buck ’Em Down」の関係を挙げている。とくに気に入っているのは、元曲の弦の編曲や質感だという。",
+      "元曲のどこに惹かれるかを、別の作り手から教えてもらう聴き方だ。「Wind Parade」からアルバム版へ戻ってみたい。流通案内でもアルバム版とリミックスは別商品として扱われている。聴き比べるなら、同名のリミックスとは分けて選びたい。"
     ],
     "facts": [
       {
@@ -34236,12 +34323,11 @@
       }
     ],
     "samples": [],
-    "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
+    "sampleStatus": "本文で挙げたサンプルの関係は掲載資料に基づきます。原盤の許諾表記・使用箇所の全件照合は未実施です。",
     "listening": [
-      "アルバム版の構成と声の入り方。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "Evelynが挙げた元曲の弦に耳を向けてから、Black Moonのアルバム版へ戻る。"
     ],
-    "context": "1993年のHip Hop選曲。『Enta da Stage』の作品情報と音源の版を分けて掲載。",
+    "context": "別の作り手の選曲を、サンプル元へ向かう手がかりにする。",
     "sources": [
       {
         "label": "Black Moon - Topic / Buck 'Em Down",
@@ -34262,6 +34348,16 @@
         "label": "BLACK MOON ‎/ BUCK EM DOWN / MURDER MC'S (12\") - HIP TANK RECORDS",
         "url": "https://hiptankrecords.com/?pid=165182726",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "url": "https://www.stampthewax.com/2014/10/17/nightmares-on-waxs-favourite-hip-hop-samples/",
+        "label": "George Evelyn — Favourite Hip-Hop Samples / Stamp The Wax (2014)",
+        "kind": "調査出典（本人・関係者証言または署名記事）"
+      },
+      {
+        "url": "https://www.groovedis.com/shop/New-Releases-p-1-c-360.html?genre=Drum%252B&page=9&sort=productcode&sort_direction=1",
+        "label": "Groove Distribution — Wreck WR24734 / WR24733",
+        "kind": "流通業者による再発盤・版情報"
       }
     ],
     "producers": [],
@@ -34281,7 +34377,16 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4,
+        5
+      ]
+    ]
   },
   {
     "id": "common-breaker-1-9",
