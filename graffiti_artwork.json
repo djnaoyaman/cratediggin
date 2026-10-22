@@ -10460,6 +10460,26 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "jid-off-da-zoinkys",
+      "title": "Off Da Zoinkys",
+      "artist": "JID",
+      "album": "DiCaprio 2",
+      "palette": [
+        "#090604",
+        "#c8ac5c",
+        "#725831",
+        "#e1cc84"
+      ],
+      "paletteSource": "DiCaprio 2 — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://www.qobuz.com/us-en/album/dicaprio-2-jid/m8uyscr3hk0uc",
+      "paletteNote": "現行の公式配信カバーの金・黒・茶を配色だけの参照に使用。初版ジャケットとは断定せず、トロフィーや人物形状・ロゴ・構図は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/jid-off-da-zoinkys-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

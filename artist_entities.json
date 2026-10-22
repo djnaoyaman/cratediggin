@@ -655,5 +655,8 @@
   },
   "Offset feat. Cardi B": {
     "type": null
+  },
+  "JID": {
+    "type": "Person"
   }
 }

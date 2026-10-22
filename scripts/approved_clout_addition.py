@@ -6,7 +6,8 @@ raw=(R/'scripts/fixtures/approved-clout-addition.json').read_bytes()
 assert sha(raw)=='5927b42bba1ea8184c6e0c2438a5939a1264c8fb12d5e3d1775d8cb5ac0cd05f','Immutable addition fixture changed'
 F=json.loads(raw)
 def current_clout_addition_file(path,data):
- return data
+ from approved_off_da_zoinkys_addition import historical_off_da_zoinkys_addition_file
+ return historical_off_da_zoinkys_addition_file(path,data)
 def historical_clout_addition_file(path,data):
  data=current_clout_addition_file(path,data)
  c=F['files'].get(path)

@@ -5028,6 +5028,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "clout-addition-browser"
+    },
+    {
+      "id": "off-da-zoinkys-addition",
+      "argv": [
+        "python",
+        "scripts/verify_off_da_zoinkys_addition.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "off-da-zoinkys-addition"
+    },
+    {
+      "id": "off-da-zoinkys-addition-browser",
+      "argv": [
+        "node",
+        "scripts/verify_off_da_zoinkys_addition_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "off-da-zoinkys-addition-browser"
     }
   ],
   "groups": {
@@ -5919,6 +5943,10 @@
     "clout_addition": [
       "clout-addition",
       "clout-addition-browser"
+    ],
+    "off_da_zoinkys_addition": [
+      "off-da-zoinkys-addition",
+      "off-da-zoinkys-addition-browser"
     ]
   },
   "runtime_rules": {
@@ -8045,7 +8073,8 @@
       "scripts/fixtures/approved-audio-source-labels.json"
     ],
     "scripts/approved_clout_addition.py": [
-      "scripts/fixtures/approved-clout-addition.json"
+      "scripts/fixtures/approved-clout-addition.json",
+      "scripts/approved_off_da_zoinkys_addition.py"
     ],
     "scripts/verify_clout_addition.py": [
       "scripts/approved_clout_addition.py",
@@ -8058,6 +8087,21 @@
     ],
     "scripts/verify_clout_addition_browser.cjs": [
       "scripts/fixtures/approved-clout-addition.json"
+    ],
+    "scripts/approved_off_da_zoinkys_addition.py": [
+      "scripts/fixtures/approved-off_da_zoinkys-addition.json"
+    ],
+    "scripts/verify_off_da_zoinkys_addition.py": [
+      "scripts/approved_off_da_zoinkys_addition.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "releases.json",
+      "artist_entities.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_clout_addition.py"
+    ],
+    "scripts/verify_off_da_zoinkys_addition_browser.cjs": [
+      "scripts/fixtures/approved-off_da_zoinkys-addition.json"
     ]
   },
   "policy_paths": [
@@ -8362,7 +8406,9 @@
     "scripts/approved_audio_source_labels.py",
     "scripts/fixtures/approved-audio-source-labels.json",
     "scripts/approved_clout_addition.py",
-    "scripts/fixtures/approved-clout-addition.json"
+    "scripts/fixtures/approved-clout-addition.json",
+    "scripts/approved_off_da_zoinkys_addition.py",
+    "scripts/fixtures/approved-off_da_zoinkys-addition.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9628,6 +9674,13 @@
         "groups": [
           "clout_addition"
         ]
+      },
+      {
+        "before_sha256": "e2d6bf9068644bdc9a694db3c7cb42d34b5e3cad4d958d3d2755ed786508463d",
+        "after_sha256": "dc0cc52a5206ceefddd74e34d839683dedd8a154e8f6d47de751903850cffac3",
+        "groups": [
+          "off_da_zoinkys_addition"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -10045,6 +10098,13 @@
         "groups": [
           "clout_addition"
         ]
+      },
+      {
+        "before_sha256": "ac3b28f4bd28446712b0c24bbafcdf674fde0de3f9f4f959ebaa94866f6422c7",
+        "after_sha256": "8c846a3ae8b40b202f32dbbf4ff806694e1cb757dac0ada29e6435e3b855cbef",
+        "groups": [
+          "off_da_zoinkys_addition"
+        ]
       }
     ],
     "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
@@ -10237,6 +10297,13 @@
         "after_sha256": "436b499261c7f649427015f7e2500b30177494f5db80243c108a35f2f5a70236",
         "groups": [
           "clout_addition"
+        ]
+      },
+      {
+        "before_sha256": "436b499261c7f649427015f7e2500b30177494f5db80243c108a35f2f5a70236",
+        "after_sha256": "fdb7ccc144a2bd593eedd6acffaad2fdc4bc61efebaee59ebeab8cf279b8d604",
+        "groups": [
+          "off_da_zoinkys_addition"
         ]
       }
     ],
@@ -10859,6 +10926,15 @@
         "after_sha256": "bb2a3b290fac046b44c056fdccf40327db2fcf8c4cf682a35efa804928dc181e",
         "groups": [
           "clout_addition"
+        ]
+      }
+    ],
+    "assets/graffiti/jid-off-da-zoinkys-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "93726620a2a1e0588eebed19b3a278293d237a64b8a81307ac0d1b1de92e2969",
+        "groups": [
+          "off_da_zoinkys_addition"
         ]
       }
     ]
