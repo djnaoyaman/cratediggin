@@ -5402,7 +5402,12 @@
       "scripts/fixtures/approved-lost-in-thought.json"
     ],
     "scripts/verify_lost_in_thought.py": [
-      "scripts/approved_lost_in_thought.py"
+      "scripts/approved_lost_in_thought.py",
+      "scripts/approved_research_batch28.py",
+      "scripts/ci/manifest.json",
+      "scripts/fixtures/approved-lost-in-thought.json",
+      "scripts/verify_lost_in_thought.py",
+      "scripts/verify_lost_in_thought_browser.cjs"
     ],
     "scripts/verify_lost_in_thought_browser.cjs": [
       "scripts/fixtures/approved-lost-in-thought.json"
