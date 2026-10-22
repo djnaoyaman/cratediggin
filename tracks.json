@@ -68620,5 +68620,141 @@
       "paletteSourceUrl": "https://www.qobuz.com/us-en/album/dicaprio-2-jid/m8uyscr3hk0uc",
       "paletteNote": "現行の公式配信カバーの金・黒・茶を配色だけの参照に使用。初版ジャケットとは断定せず、トロフィーや人物形状・ロゴ・構図は再現していません。"
     }
+  },
+  {
+    "title": "a lot",
+    "artist": "21 Savage feat. J. Cole",
+    "artists": [
+      "21 Savage",
+      "J. Cole"
+    ],
+    "year": 2018,
+    "album": "i am > i was",
+    "producer": "DJ Dahi / J. White Did It",
+    "producers": [
+      "DJ Dahi",
+      "J. White Did It"
+    ],
+    "label": "Slaughter Gang / Epic Records",
+    "region": "Atlanta",
+    "category": "Hip Hop",
+    "id": "21-savage-a-lot",
+    "scene": "Atlanta",
+    "essayTitle": "後から届いた声を、同じ場所へ",
+    "deck": "「a lot」の共演を支えたのは、声を迎えるミックスと、制作の場で交わされた対話でした。",
+    "essay": [
+      "「a lot」の制作では、21 Savageの曲として進んでいたセッションに、後からJ. Coleが加わりました。ミックスを担当したMaddmixが、2019年3月のSound On Soundで明かしています。届いたJ. Coleのボーカル用セッションには、すでに残響や反復音の設定がありましたが、そのまま足したわけではありません。Maddmixは残響を抑えた曲全体の方針に合わせ、客演の声の空間づくりを調整しました。",
+      "この曲を手がけたDJ DahiとJ. Whiteは、2018年7月にアトランタで開かれたSpotifyの制作セッションに参加しています。Dahiは同社のインタビューで、21 Savageと人生について話し、人としてつながれたことを振り返りました。声を迎えるためのミックスと、制作の場での対話。こうした過程を知ると、この共演を大物同士の組み合わせだけで捉えない聴き方ができます。二人の声と背景の距離に注目してみてください。"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "2018年12月21日のアルバム発売に基づく。依頼ミックスの2020年や動画投稿日と区別。",
+    "regionBasis": "配信カタログで紹介される21 SavageとAtlantaの関連。出身地や録音場所の断定ではない。",
+    "producerBasis": "曲別クレジットに基づく。QobuzではJ. Whiteを共同制作担当として記載。",
+    "versionBasis": "J. Cole参加のオリジナル歌入りアルバム版。公式音源4:49、カタログ4:48。依頼ミックス2:38との編集・マスター同一性は未確認。",
+    "context": "J. Coleの声を迎える、Maddmixのミックス作業。",
+    "facts": [
+      {
+        "title": "収録版と客演",
+        "text": "2018年12月21日発売の『i am > i was』の1曲目で、J. Coleがボーカルで参加しています。",
+        "sources": [
+          3,
+          4
+        ]
+      },
+      {
+        "title": "制作とミックス",
+        "text": "制作はDJ DahiとJ. White。ミックスはMaddox “MaddMix” Chhimが担当しています。",
+        "sources": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "21 Savage — A Lot 公式音源",
+        "url": "https://www.youtube.com/watch?v=VbrEsOLu75c",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Sound On Sound — Maddmix本人のミックス解説",
+        "url": "https://www.soundonsound.com/techniques/inside-track-21-savage?page=2",
+        "kind": "担当者インタビュー"
+      },
+      {
+        "label": "Spotify — 制作セッション参加者インタビュー",
+        "url": "https://newsroom.spotify.com/2020-01-24/meet-the-behind-the-scenes-talent-behind-21-savages-grammy-nominated-album-i-am-i-was/",
+        "kind": "主催者記事・参加者インタビュー"
+      },
+      {
+        "label": "Qobuz — i am > i was 配信情報",
+        "url": "https://www.qobuz.com/us-en/album/i-am-i-was-21-savage/o52ck2eenr4lb",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Apple Music — a lot 曲別クレジット",
+        "url": "https://music.apple.com/us/song/1446918495",
+        "kind": "配信クレジット"
+      }
+    ],
+    "youtube": {
+      "id": "VbrEsOLu75c",
+      "url": "https://www.youtube.com/watch?v=VbrEsOLu75c",
+      "title": "a lot",
+      "channel": "21 Savage",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-22",
+      "embedUrl": "https://www.youtube.com/embed/VbrEsOLu75c",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "J. Cole参加のオリジナル歌入り版（公式音源）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿のアーティスト表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-22",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "addedOrder": 528,
+    "datePublished": "2026-10-22",
+    "art": {
+      "word": "a lot",
+      "tag": "21 SAVAGE FEAT. J. COLE",
+      "lines": [
+        "a lot"
+      ],
+      "style": "piece",
+      "seed": 201901,
+      "palette": [
+        "#080808",
+        "#efefec",
+        "#89867f",
+        "#c4c1b8"
+      ],
+      "paletteSource": "i am > i was — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://www.qobuz.com/us-en/album/i-am-i-was-21-savage/o52ck2eenr4lb",
+      "paletteNote": "公式掲載カバーの黒・白・灰を配色だけの参照に使用。人物、ロゴ、構図や元の文字は再現していません。"
+    }
   }
 ]
