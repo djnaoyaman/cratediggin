@@ -4908,6 +4908,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "rap-city-addition-browser"
+    },
+    {
+      "id": "klink-addition",
+      "argv": [
+        "python",
+        "scripts/verify_klink_addition.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "klink-addition"
+    },
+    {
+      "id": "klink-addition-browser",
+      "argv": [
+        "node",
+        "scripts/verify_klink_addition_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "klink-addition-browser"
     }
   ],
   "groups": {
@@ -5779,6 +5803,10 @@
     "rap_city_addition": [
       "rap-city-addition",
       "rap-city-addition-browser"
+    ],
+    "klink_addition": [
+      "klink-addition",
+      "klink-addition-browser"
     ]
   },
   "runtime_rules": {
@@ -7828,7 +7856,8 @@
       "scripts/fixtures/approved-the-waters-addition.json"
     ],
     "scripts/approved_rap_city_addition.py": [
-      "scripts/fixtures/approved-rap-city-addition.json"
+      "scripts/fixtures/approved-rap-city-addition.json",
+      "scripts/approved_klink_addition.py"
     ],
     "scripts/verify_rap_city_addition.py": [
       "scripts/approved_rap_city_addition.py",
@@ -7841,6 +7870,21 @@
     ],
     "scripts/verify_rap_city_addition_browser.cjs": [
       "scripts/fixtures/approved-rap-city-addition.json"
+    ],
+    "scripts/approved_klink_addition.py": [
+      "scripts/fixtures/approved-klink-addition.json"
+    ],
+    "scripts/verify_klink_addition.py": [
+      "scripts/approved_klink_addition.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "releases.json",
+      "artist_entities.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_rap_city_addition.py"
+    ],
+    "scripts/verify_klink_addition_browser.cjs": [
+      "scripts/fixtures/approved-klink-addition.json"
     ]
   },
   "policy_paths": [
@@ -8135,7 +8179,9 @@
     "scripts/approved_the_waters_addition.py",
     "scripts/fixtures/approved-the-waters-addition.json",
     "scripts/approved_rap_city_addition.py",
-    "scripts/fixtures/approved-rap-city-addition.json"
+    "scripts/fixtures/approved-rap-city-addition.json",
+    "scripts/approved_klink_addition.py",
+    "scripts/fixtures/approved-klink-addition.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9359,6 +9405,13 @@
         "groups": [
           "rap_city_addition"
         ]
+      },
+      {
+        "before_sha256": "8d2fe861b67ff0449d1544e9e0b71b7c2911895d31973f2130988c40a6a3a579",
+        "after_sha256": "0d156ae43777fefbe63351c2c4462669725ea925ac0a70da6afb1c38a6aac3b1",
+        "groups": [
+          "klink_addition"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -9748,6 +9801,13 @@
         "groups": [
           "rap_city_addition"
         ]
+      },
+      {
+        "before_sha256": "55590cafb681ecd66e914f050b7f342749f7a929b5096f83ed434816cfe19544",
+        "after_sha256": "3b7675f3d2bf570dba50b7d324b0a3cd893b16c447ac33a2aa150ac8e1b4e067",
+        "groups": [
+          "klink_addition"
+        ]
       }
     ],
     "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
@@ -9912,6 +9972,13 @@
         "after_sha256": "0f1e01f1c57150aa854231943fd2944e3a7af2bfd81e6db7b94556ba18b78824",
         "groups": [
           "rap_city_addition"
+        ]
+      },
+      {
+        "before_sha256": "0f1e01f1c57150aa854231943fd2944e3a7af2bfd81e6db7b94556ba18b78824",
+        "after_sha256": "112acf50ba3817445d9441748a4806d99defaf25ea242e0344d6b5761d1fd716",
+        "groups": [
+          "klink_addition"
         ]
       }
     ],
@@ -10498,6 +10565,15 @@
         "after_sha256": "14b31dbaa1cec995594fb90d0bb93a04f5337850431ee01a8b60eded05571c00",
         "groups": [
           "rap_city_addition"
+        ]
+      }
+    ],
+    "assets/graffiti/smino-klink-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "bba3a39e9c8e9fda4d9169ff50a0f4a954b17d0276dc27f176e20d71d334f93e",
+        "groups": [
+          "klink_addition"
         ]
       }
     ]
