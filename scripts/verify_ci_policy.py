@@ -27,3 +27,18 @@ for path in ('.github/workflows/pages.yml','releases.json'):
  else:raise AssertionError('Downstream queue normalization accepted drift: '+path)
 assert historical_queue_scope_file('unrelated.txt',b'unchanged')==b'unchanged'
 print('Exact targeted-CI delta, unchanged deployment guards/permissions,501 authored content and strict historical normalization PASS')
+
+# Security runtime selection must precede all application Node/npm commands.
+runtime_step = "          node-version: '24.22.1'"
+assert new.count(runtime_step) == 1
+assert new.index(runtime_step) < new.index('      - name: Select directly affected checks')
+assert 'uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6' in new
+assert 'package-manager-cache: false' in new
+assert "process.versions.node !== '24.22.1'" in new
+for changed in (new.replace("node-version: '24.22.1'", "node-version: '24.22.0'"),
+                new.replace("process.versions.node !== '24.22.1'", "process.versions.node !== '24.22.0'"),
+                new.replace('package-manager-cache: false', 'package-manager-cache: true')):
+ try: historical_ci_policy_file('.github/workflows/pages.yml', changed.encode())
+ except AssertionError: pass
+ else: raise AssertionError('Unapproved Node.js runtime drift accepted')
+print('Patched Node.js 24.22.1 selection, runtime assertion and downgrade rejection PASS')
