@@ -67232,5 +67232,136 @@
     },
     "addedOrder": 516,
     "datePublished": "2026-10-22"
+  },
+  {
+    "category": "Hip Hop",
+    "samples": [],
+    "sampleStatus": "サンプルの一次資料クレジットは未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "id": "freddie-gibbs-madlib-knicks",
+    "title": "Knicks",
+    "artist": "Freddie Gibbs & Madlib",
+    "artists": [
+      "Freddie Gibbs",
+      "Madlib"
+    ],
+    "year": 2014,
+    "album": "Piñata",
+    "producer": "Madlib",
+    "producers": [
+      "Madlib"
+    ],
+    "label": "Madlib Invazion",
+    "region": "California",
+    "scene": "Los Angeles / Gary, Indiana",
+    "essayTitle": "一人のMCの「Knicks」から、四人のリミックスへ",
+    "deck": "まず『Piñata』のオリジナルを。そこからAction Bronson、Joey Bada$$、Ransomを迎えた別の姿へたどる。",
+    "essay": [
+      "「Knicks」を探すと、三人の客演者を迎えたリミックスにも行き当たる。けれど入口は、2014年の『Piñata』に入ったオリジナルに置きたい。アルバムの曲順では、Ab-SoulとPolyester The Saintを迎えた「Lakers」と、BJ the Chicago Kidを迎えた「Shame」の間。客演者の名が並ぶ二曲にはさまれて、ここにはFreddie GibbsとMadlibの二人の名前が残る。",
+      "同じ年の『Knicks Remix EP』では、Action Bronson、Joey Bada$$、Ransomが加わる。原曲を知ったあとなら、三人が加わった時に一曲の語り手がどう入れ替わるか、という聴き比べができる。公式ページに並ぶ長さも、原曲は3分39秒、リミックスは4分48秒。単に曲名の後ろへRemixと付いただけではない、別の顔ぶれの録音として選びたい。",
+      "寄り道するなら、EPの4曲目「Home」にも進んでみたい。ここで迎えられるのはBJ the Chicago Kid。『Piñata』で「Knicks」の次に来る「Shame」にも参加していた歌い手だ。原曲からリミックスへ進んだ先で、アルバムの隣の曲にいた人とまた出会う。「Knicks」の版をたどる道は、GibbsとMadlibがBJと組んだ別の一曲にもつながっている。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Freddie Gibbs & Madlib — Piñata / 公式Bandcamp",
+        "url": "https://freddiegibbsmadlib.bandcamp.com/album/pi-ata",
+        "kind": "公式資料"
+      },
+      {
+        "label": "Freddie Gibbs & Madlib — Knicks / 公式Bandcamp",
+        "url": "https://freddiegibbsmadlib.bandcamp.com/track/knicks",
+        "kind": "公式資料"
+      },
+      {
+        "label": "Freddie Gibbs & Madlib — Knicks Remix EP / 公式Bandcamp",
+        "url": "https://freddiegibbsmadlib.bandcamp.com/album/knicks-remix-ep",
+        "kind": "公式資料"
+      },
+      {
+        "label": "Freddie Gibbs - Topic — Knicks / Virgin Music Group配信",
+        "url": "https://www.youtube.com/watch?v=SD2-VW4HYEM",
+        "kind": "公式配信"
+      }
+    ],
+    "listening": [],
+    "noteReviewedAt": "2026-10-22",
+    "editorialStatus": "一次資料に基づく制作・刊行背景の解説。音源の実再生は未確認。",
+    "audioVerificationStatus": "公式公開情報の照合のみ。実再生、日本での再生、依頼ミックスとのマスター一致は未確認。",
+    "yearBasis": "公式Bandcampと公式YouTube配信が2014-03-18発売『Piñata』を示す。依頼リスト2018年はミックスの年として区別。",
+    "versionBasis": "歌入りのオリジナル版を採用。客演入りリミックス、各インスト、Alex Goose Remix、Alternative Introとは区別。依頼行の2:18と公式本編尺には差があり、ミックス区間・編集・マスターの同一性は未確認。",
+    "context": "曲から人へ、気になった客演者の別の一曲へ寄り道する。",
+    "audioUrl": "https://www.youtube.com/watch?v=SD2-VW4HYEM",
+    "youtube": {
+      "id": "SD2-VW4HYEM",
+      "url": "https://www.youtube.com/watch?v=SD2-VW4HYEM",
+      "title": "Knicks",
+      "channel": "Freddie Gibbs - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-22",
+      "embedUrl": "https://www.youtube.com/embed/SD2-VW4HYEM",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "Original vocal album track",
+      "verification": "検索索引の配信情報とoEmbedの題名・投稿者を照合。watchページの再取得は失敗。実再生・配信地域・依頼ミックスとの同一性は未確認。"
+    },
+    "facts": [
+      {
+        "title": "アルバム版とリミックスは別の入口",
+        "text": "『Piñata』14曲目の「Knicks」に対し、『Knicks Remix EP』1曲目はAction Bronson、Joey Bada$$、Ransomを迎えた版。2曲目はそのリミックスのインスト。",
+        "sources": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "MCとビートの担当",
+        "text": "『Piñata』の公式クレジットはMCがFreddie Gibbs、ビートがMadlib。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "art": {
+      "word": "KNICKS",
+      "tag": "FREDDIE GIBBS & MADLIB",
+      "lines": [
+        "KNICKS"
+      ],
+      "style": "piece",
+      "seed": 201414,
+      "palette": [
+        "#171817",
+        "#F0EDE4",
+        "#CAA960",
+        "#67694A"
+      ],
+      "paletteSource": "Piñata (2014) — standard cover",
+      "paletteSourceUrl": "https://f4.bcbits.com/img/a2655697433_5.jpg",
+      "paletteNote": "公式標準盤ジャケットを目視参照した黒・白・金・くすんだ緑の近似色。NBAチームロゴや球団配色ではなく掲載音源のアルバムを参照。写真・縞柄・既存題字は転載しない。"
+    },
+    "addedOrder": 517,
+    "datePublished": "2026-10-22"
   }
 ]

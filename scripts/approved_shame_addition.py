@@ -6,7 +6,8 @@ raw=(R/'scripts/fixtures/approved-shame-addition.json').read_bytes()
 assert sha(raw)=='554f8caefacd8235cf24bab23e64e66a5aced749773cd68978f1cb607b88f25c','Immutable addition fixture changed'
 F=json.loads(raw)
 def current_shame_addition_file(path,data):
- return data
+ from approved_knicks_addition import historical_knicks_addition_file
+ return historical_knicks_addition_file(path,data)
 def historical_shame_addition_file(path,data):
  data=current_shame_addition_file(path,data)
  c=F['files'].get(path)
