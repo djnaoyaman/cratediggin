@@ -6,7 +6,8 @@ raw=(R/'scripts/fixtures/approved-bank-addition.json').read_bytes()
 assert sha(raw)=='8e5a6e8683d0114e5dd8216e19e6f1d471869468ff2a941cc2ef562da216388b','Immutable addition fixture changed'
 F=json.loads(raw)
 def current_bank_addition_file(path,data):
- return data
+ from approved_audio_source_labels import historical_audio_source_labels_file
+ return historical_audio_source_labels_file(path,data)
 def historical_bank_addition_file(path,data):
  data=current_bank_addition_file(path,data)
  c=F['files'].get(path)
