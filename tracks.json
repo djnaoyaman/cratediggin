@@ -67089,5 +67089,148 @@
       "paletteSourceUrl": "https://static.qobuz.com/images/covers/26/95/0074646419526_600.jpg",
       "paletteNote": "収録アルバムのジャケットを目視参照した、黄緑・くすんだ青緑・白・濃色の近似配色。厳密な色抽出ではなく、写真や既存題字は転載していません。"
     }
+  },
+  {
+    "id": "freddie-gibbs-madlib-shame",
+    "title": "Shame (feat. BJ the Chicago Kid)",
+    "artist": "Freddie Gibbs & Madlib",
+    "artists": [
+      "Freddie Gibbs",
+      "Madlib"
+    ],
+    "year": 2012,
+    "album": "Piñata",
+    "producer": "Madlib",
+    "producers": [
+      "Madlib"
+    ],
+    "label": "Madlib Invazion",
+    "region": "California",
+    "scene": "Los Angeles / Gary, Indiana",
+    "category": "Hip Hop",
+    "yearBasis": "初出は2012年の『Shame EP』。公式Bandcampは2012-06-12と記載し、Stones Throwの2012-07-17告知も発売済みEPとして確認できる。掲載音源の『Piñata』は2014-03-18発売。依頼リストの2018年はミックスのメタデータとして区別する。",
+    "versionBasis": "BJ the Chicago Kidを迎えたオリジナル歌入り曲。掲載候補は『Piñata』版の公式配信。公式BandcampではEP版3:05、アルバム版3:03と異なるため、両者のマスター同一性は断定しない。Instrumental、Acapella、Alex Goose Remix、映像用イントロ付き版とは区別。",
+    "essayTitle": "歌入りの隣に、インストとアカペラも置くEP",
+    "deck": "BJ the Chicago Kidを迎えた一曲を、2012年のEPと2014年の『Piñata』、二つの曲順から聴き直す。",
+    "essay": [
+      "「Shame」は、最初から『Piñata』の終盤にいたわけではない。2012年の『Shame EP』では、BJ the Chicago Kidを迎えたこの曲が先頭を飾る。ところが2014年のアルバムでは15曲目。「Knicks」と「Watts」の間へ席を移す。入口だった一曲を、今度は長い作品の出口に近い場所で迎える。その配置の変化から聴き直してみたい。",
+      "EPの曲目を眺めると、もうひとつ面白い仕掛けがある。歌入りの「Shame」に続いてインストゥルメンタルが置かれ、ボーナス・ビートを挟んでアカペラも入る。ラップと歌、ビートが一緒にある姿だけでなく、それぞれを分けて確かめられる構成だ。完成した料理の隣に材料が並んでいる、と考えると少し楽しい。",
+      "この組み合わせを考える手がかりは、Madlib自身の説明にもある。『Piñata』の公式紹介で彼は、自分の音楽を完全にはクオンタイズしていないため、速さが揺れることがあると話し、その動きをつかめるラッパーとしてDOOMとFreddieの名を挙げた。これはアルバム全体についての発言で、「Shame」だけの制作手順ではない。それでも、MCとビートの関係へ耳を向ける入口にはなる。",
+      "まずBJを迎えた歌入りの曲を聴き、次にEPのインストへ戻り、もう一度歌入りへ。最後に「Knicks」から「Shame」、「Watts」へとアルバムの順番でたどる。同じ曲を別の棚へ移すだけでなく、周囲の曲ごと聴いてみる。EPとアルバムの両方が残っているからこそできる、小さな寄り道だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        0
+      ],
+      [
+        2
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "facts": [
+      {
+        "title": "歌入り・インスト・アカペラを分ける",
+        "text": "『Shame EP』の1曲目はBJ the Chicago Kidを迎えた歌入り版。2曲目にInstrumental、4曲目にAcapellaを収録。MCはFreddie Gibbs、ビートはMadlibと公式に記載される。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "初出年とアルバム収録年",
+        "text": "2012年のEPから、2014年発売『Piñata』の15曲目へ。初出年は2012年として扱う。",
+        "sources": [
+          0,
+          1,
+          4
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Freddie Gibbs & Madlib — Shame EP / 公式Bandcamp",
+        "url": "https://freddiegibbsmadlib.bandcamp.com/album/shame-ep",
+        "kind": "公式ディスコグラフィー"
+      },
+      {
+        "label": "Freddie Gibbs & Madlib — Piñata / 公式Bandcamp",
+        "url": "https://freddiegibbsmadlib.bandcamp.com/album/pi-ata",
+        "kind": "公式ディスコグラフィー"
+      },
+      {
+        "label": "Rappcats — Freddie Gibbs & Madlib - Piñata (2014-03-18)",
+        "url": "https://rappcats.com/blogs/news/freddie-gibbs-madlib-pinata/",
+        "kind": "レーベル関連公式告知・本人発言"
+      },
+      {
+        "label": "Freddie Gibbs - Topic — Shame (feat. BJ The Chicago Kid)",
+        "url": "https://www.youtube.com/watch?v=2dDrYEVzjDE",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Stones Throw — DOOM + MADLIB + LONDON (2012-07-17)",
+        "url": "https://www.stonesthrow.com/news/doom-madlib-london/",
+        "kind": "公式同時代告知"
+      }
+    ],
+    "youtube": {
+      "id": "2dDrYEVzjDE",
+      "url": "https://www.youtube.com/watch?v=2dDrYEVzjDE",
+      "title": "Shame (feat. BJ The Chicago Kid)",
+      "channel": "Freddie Gibbs - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-22",
+      "embedUrl": "https://www.youtube.com/embed/2dDrYEVzjDE",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "オリジナル歌入り版（公式配信）",
+      "versionBasis": "EP版とのマスター同一性は未確認。別版との区別は曲の版情報に記載。",
+      "verification": "2026-10-22にoEmbedで題名・Freddie Gibbs - Topic投稿者を照合。YouTube検索表示でVirgin Music Groupによる正規配信、℗2014 Madlib Invazion、発売日2014-03-18を確認。音声・埋め込み・日本での実再生とEP版とのマスター同一性は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルの一次資料クレジットは未確認。",
+    "context": "EPの先頭とアルバムの終盤を行き来し、歌入り・インスト・アカペラの構成をたどる。",
+    "listening": [
+      "EPの歌入り版とインストを比べてから、『Piñata』の「Knicks」→「Shame」→「Watts」という並びへ戻る。"
+    ],
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-22",
+    "audioVerificationStatus": "公式配信メタデータとoEmbedを照合。実再生、日本での再生可否、マスター同一性は未確認。",
+    "editorialStatus": "一次資料を用いた曲順・制作背景の解説。音源の実再生は未確認。",
+    "art": {
+      "word": "SHAME",
+      "tag": "FREDDIE GIBBS & MADLIB",
+      "lines": [
+        "SHAME"
+      ],
+      "style": "piece",
+      "seed": 201215,
+      "palette": [
+        "#161716",
+        "#F1EEE6",
+        "#C9AA62",
+        "#676A4C"
+      ],
+      "paletteSource": "Piñata (2014) — standard cover",
+      "paletteSourceUrl": "https://f4.bcbits.com/img/a2655697433_5.jpg",
+      "paletteNote": "公式Bandcampの標準盤ジャケットを2026-10-22に目視参照。黒・白・ラベルの金色・背景のくすんだ緑を近似。厳密な抽出ではない。写真・縞模様・既存題字は転載せず、制作時は独自の文字構成とする。"
+    },
+    "addedOrder": 516,
+    "datePublished": "2026-10-22"
   }
 ]

@@ -4,7 +4,8 @@ R=Path(__file__).resolve().parents[1]
 F=json.loads((R/'scripts/fixtures/approved-simple-content-ci.json').read_text())
 sha=lambda b:hashlib.sha256(b).hexdigest()
 def current_simple_content_ci_file(path,data):
- return data
+ from approved_shame_addition import historical_shame_addition_file
+ return historical_shame_addition_file(path,data)
 def historical_simple_content_ci_file(path,data):
  data=current_simple_content_ci_file(path,data)
  c=F['files'].get(path)
