@@ -38478,12 +38478,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "言葉の反復と声のまとまり方を聴く。",
-    "essayTitle": "繰り返す言葉を、声のまとまりで追う",
+    "deck": "Steve Juonが注目した、Nasteeの語り方への言及。",
+    "essayTitle": "露骨な自慢の中で、フリースタイルを選ぶ。",
     "essay": [
-      "Trends of Cultureの「Valley Of The Skinz」。まず耳を向けたいのは、言葉の反復と声のまとまり方だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Trendz』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "1993年という数字をいったん脇へ置き、声とリズムの関係から聴いてみたい。名盤の知識はあとからでも追いつける。まず「Valley Of The Skinz」という名前と、自分の耳に残った場所を結びつけておく。"
+      "「Valley of the Skinz」の性的な自慢を紹介する一方、RapReviewsのSteve “Flash” Juonは、Nasteeが物語を語ることよりフリースタイルを好むと述べる部分にも目を向けている。曲の内容だけでなく、どうラップしたいかまで言葉にしている、という読み方ができる。",
+      "ここでフリースタイルに言及することと、この録音が即興だったと確定することは別だ。制作方法を決めつけず、Nasteeが自分のスタイルをどう見せようとしているかに注意して聴きたい。"
     ],
     "facts": [
       {
@@ -38505,10 +38504,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "言葉の反復と声のまとまり方。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "内容の自慢と、ラップの語り方についての自己紹介を分けて追う。"
     ],
-    "context": "1993年のHip Hop選曲。『Trendz』の作品情報と音源の版を分けて掲載。",
+    "context": "歌詞で掲げるスタイルと、未確認の録音手法を区別する。",
     "sources": [
       {
         "label": "Trends of Culture - Topic / Valley Of The Skinz",
@@ -38519,6 +38517,11 @@
         "label": "‎Valley of the Skinz - Song with Lyrics by Trends of Culture - Apple Music",
         "url": "https://music.apple.com/us/song/1443475826",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Steve “Flash” Juon / RapReviews — Trendz",
+        "url": "https://www.rapreviews.com/archive/BTTL_trendsofculture.html",
+        "kind": "記名批評・資料"
       }
     ],
     "producers": [
@@ -38540,7 +38543,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "the-beatnuts-rik-s-joint",
@@ -38587,12 +38598,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "ビートの反復を軸にしたラップの配置を聴く。",
-    "essayTitle": "巡るビートのどこにラップを置くか",
+    "deck": "Matt Jostが拾う、「Rik’s Joint」のもう一つの顔。",
+    "essayTitle": "挑発の先で、聴き手に楽しんでほしいと言う。",
     "essay": [
-      "The Beatnutsの「Rik's Joint」。まず耳を向けたいのは、ビートの反復を軸にしたラップの配置だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『The Beatnuts (Street Level)』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Off the Books」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "「Rik’s Joint」には、相手を挑発する言葉だけがあるわけではない。RapReviewsのMatt Jostは、missjonesのフックに触れたうえで、聴き手を楽しませたいという思いが曲中に現れる点を取り上げている。",
+      "乱暴な言葉遣いと、楽しんでほしいという呼びかけ。その両方が同じ曲にある、というのがJostの読みだ。誰を相手にした言葉なのかを追い、対抗する相手から聴き手へと視線が変わる場所を探してみたい。"
     ],
     "facts": [
       {
@@ -38614,10 +38624,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "ビートの反復を軸にしたラップの配置。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "挑発の相手と、楽しませたい聴き手を区別して言葉を追う。"
     ],
-    "context": "1994年のHip Hop選曲。『The Beatnuts (Street Level)』の作品情報と音源の版を分けて掲載。",
+    "context": "攻撃的な表現の内側に、観客への呼びかけを読む。",
     "sources": [
       {
         "label": "The Beatnuts - Topic / Rik's Joint",
@@ -38638,6 +38647,11 @@
         "label": "THE BEATNUTS / THE BEATNUTS (2LP) - HIP TANK RECORDS",
         "url": "https://hiptankrecords.com/?pid=175066418",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Matt Jost / RapReviews — The Beatnuts",
+        "url": "https://www.rapreviews.com/archive/BTTL_thebeatnuts.html",
+        "kind": "記名批評・資料"
       }
     ],
     "producers": [],
@@ -38657,7 +38671,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "m-o-p-rugged-neva-smoove",
@@ -38926,12 +38948,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "言葉を約束として刻むフックの反復を聴く。",
-    "essayTitle": "約束の言葉をフックで繰り返す",
+    "deck": "Steve Juonが拾った、Lord Jamarのひと言。",
+    "essayTitle": "酒の力を借りずに、パーティーで示す。",
     "essay": [
-      "Brand Nubianの「Word Is Bond」。まず耳を向けたいのは、言葉を約束として刻むフックの反復だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Everything Is Everything』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "続けて「Love Me Or Leave Me Alone」へ。アーティスト名は同じでも、声がビートに寄りかかる場所は同じだろうか。好きな一曲を増やすつもりが、聴き比べる宿題まで増える。レコード棚は、なかなか片づかない。"
+      "「Word Is Bond」をパーティー曲として評するSteve “Flash” Juonは、その中でLord Jamarが酒に頼らず腕を示すと語る点に注目している。RapReviewsの批評では、場を盛り上げることと、しらふであることが矛盾せずに置かれている。",
+      "踊るための曲、という分類だけでは取り落とす一節がある。どんな状態でマイクを握りたいのか。評者の読みを手掛かりに、ラップの技量と酒の関係を語る部分へ耳を向けたい。"
     ],
     "facts": [
       {
@@ -38953,10 +38974,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "言葉を約束として刻むフックの反復。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "Lord Jamarが、技量を示すことと酒をどう結びつけるか追う。"
     ],
-    "context": "1994年のHip Hop選曲。『Everything Is Everything』の作品情報と音源の版を分けて掲載。",
+    "context": "パーティー曲の中に置かれた、酒に頼らないという姿勢。",
     "sources": [
       {
         "label": "Tommy Boy / Brand Nubian - Word is Bond (Official Music Video)",
@@ -38977,6 +38997,11 @@
         "label": "BRAND NUBIAN / EVERYTHING IS EVERYTHING (LP) - HIP TANK RECORDS",
         "url": "https://hiptankrecords.shop-pro.jp/?pid=63216466",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Steve “Flash” Juon / RapReviews — Everything Is Everything",
+        "url": "https://www.rapreviews.com/2020/09/brand-nubian-everything-is-everything/",
+        "kind": "記名批評・資料"
       }
     ],
     "producers": [],
@@ -38996,7 +39021,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "boogiemonsters-strange",
@@ -39042,12 +39075,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "不思議さを言葉と伴奏の両方から追う聴き方を聴く。",
-    "essayTitle": "不思議さは言葉にあるか、伴奏にあるか",
+    "deck": "Steve Juonは、題名をグループの自己定義として読む。",
+    "essayTitle": "「奇妙だ」と呼ばれることを、曲の側から引き受ける。",
     "essay": [
-      "Boogiemonstersの「Strange」。まず耳を向けたいのは、不思議さを言葉と伴奏の両方から追う聴き方だ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Riders of the Storm: The Underwater Album』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "1994年という数字をいったん脇へ置き、声とリズムの関係から聴いてみたい。名盤の知識はあとからでも追いつける。まず「Strange」という名前と、自分の耳に残った場所を結びつけておく。"
+      "Boogiemonstersの「Strange」を、RapReviewsのSteve “Flash” Juonは、既存のラップ・グループと同じにならないという姿勢の表れとして読んでいる。単に難解になるのではなく、追いやすい言葉の中に奥行きを残すところを評価している。",
+      "「変わった音だからStrange」と決めてしまう前に、誰が彼らをそう呼ぶのか、その呼び名を本人たちはどう受け止めるのかを追ってみたい。これはJuonの批評を手掛かりにした聴き方であり、制作意図を本人に確認した説明ではない。"
     ],
     "facts": [
       {
@@ -39069,10 +39101,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "不思議さを言葉と伴奏の両方から追う聴き方。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "誰から「Strange」と呼ばれるのか、語り手との距離に注目する。"
     ],
-    "context": "1994年のHip Hop選曲。『Riders of the Storm: The Underwater Album』の作品情報と音源の版を分けて掲載。",
+    "context": "他人からの呼び名を、自分たちの姿勢へ変える曲として読む。",
     "sources": [
       {
         "label": "UPROXX / Boogiemonsters - Strange",
@@ -39093,6 +39124,11 @@
         "label": "‎Boogiemonsters en Apple Music",
         "url": "https://music.apple.com/ar/artist/boogiemonsters/276341189",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Steve “Flash” Juon / RapReviews — Riders of the Storm",
+        "url": "https://www.rapreviews.com/2022/09/boogiemonsters-riders-of-the-storm-the-underwater-album/",
+        "kind": "記名批評・資料"
       }
     ],
     "producers": [],
@@ -39110,7 +39146,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
   },
   {
     "id": "yaggfu-front-left-field",
@@ -39156,12 +39200,11 @@
       "lettering": "block",
       "letteringNote": "曲ごとの独自文字設定。既存ライターの作品は使用しない。"
     },
-    "deck": "フックとヴァースで変わる声の運びを聴く。",
-    "essayTitle": "フックを境に、声の運びはどう変わるか",
+    "deck": "Damageが「Left Field」と結びつけた、Lisa Stansfieldの経験。",
+    "essayTitle": "前のシングルの権利処理が、次の曲にも影を落とした。",
     "essay": [
-      "Yaggfu Frontの「Left Field」。まず耳を向けたいのは、フックとヴァースで変わる声の運びだ。題名を覚えたあとにもう一度戻ると、声の置かれ方が気になってくる。",
-      "『Left Field / Action Packed Adventure!』という作品の並びから、この一曲を取り出してみる。フックが来る前と後で、同じ拍をどう受け取るか。音数を数えるより、ラップがひと息つく場所を探すほうが、曲に近づけることもある。",
-      "1993年という数字をいったん脇へ置き、声とリズムの関係から聴いてみたい。名盤の知識はあとからでも追いつける。まず「Left Field」という名前と、自分の耳に残った場所を結びつけておく。"
+      "Yaggfu FrontのSpin-4thは、前のシングル「Lookin’ for a Contract」でLisa Stansfieldの曲をフックに使い、出版権をすべて持っていかれたと回想している。Chopped Herringの取材でDamageは、その経験が次のシングル「Left Field」にも大きく影響したと続けた。",
+      "ただし、どの音をどう変えたのかまでは、この回答には書かれていない。前の曲と本曲を並べて聴く入口はあるが、「だからこのサンプルを選んだ」と理由を作り足すことはできない。レコードから音を借りることと、その後の権利処理が、次の制作につながる一例だ。"
     ],
     "facts": [
       {
@@ -39183,10 +39226,9 @@
     "samples": [],
     "sampleStatus": "個別の原盤・サンプル出典は未確認。サンプル不使用を意味しません。",
     "listening": [
-      "フックとヴァースで変わる声の運び。",
-      "フックとヴァースの間で声の位置がどう変わるか。"
+      "「Lookin’ for a Contract」と本曲を聴き、権利処理の経験が続く背景も意識する。"
     ],
-    "context": "1993年のHip Hop選曲。『Left Field / Action Packed Adventure!』の作品情報と音源の版を分けて掲載。",
+    "context": "具体的な音の変更を推測せず、メンバーが語る曲間の関係を残す。",
     "sources": [
       {
         "label": "UPROXX / Yaggfu Front - Left Field",
@@ -39197,6 +39239,11 @@
         "label": "Yaggfu Front",
         "url": "https://www.discrepancy-records.com.au/artist/yaggfu-front/",
         "kind": "作品情報の照合先（配信・レコード資料）"
+      },
+      {
+        "label": "Yaggfu Front / Chopped Herring Records interview",
+        "url": "https://www.choppedherringrecords.com/post/various-artists-foundation-entertainment-ep",
+        "kind": "本人インタビュー"
       }
     ],
     "producers": [],
@@ -39214,7 +39261,15 @@
     "editorialCrates": [
       "mic-skills"
     ],
-    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。"
+    "curationNote": "今回のHip Hop追加候補。歌唱の有無でR&B判定せず、配信作品のジャンルと作品資料を照合。DJ KIYO名義の音源ではない。",
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ]
   },
   {
     "id": "grand-puba-amazing",
