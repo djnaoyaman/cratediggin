@@ -4728,6 +4728,18 @@
       "legacy": false,
       "requires_build": true,
       "label": "reader-research-notes-browser"
+    },
+    {
+      "id": "simple-content-ci-preservation",
+      "argv": [
+        "python",
+        "scripts/verify_simple_content_ci.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": false,
+      "label": "simple-content-ci-preservation"
     }
   ],
   "groups": {
@@ -4969,7 +4981,8 @@
       "5790b8c6bd29cc39",
       "cfbf4af948b88cfd",
       "e0297cb34bc6eb08",
-      "album-navigation-preservation"
+      "album-navigation-preservation",
+      "simple-content-ci-preservation"
     ],
     "article": [
       "3a98739a23fad1c3",
@@ -7502,7 +7515,8 @@
       "scripts/fixtures/approved-research-batch79.json"
     ],
     "scripts/approved_reader_research_notes.py": [
-      "scripts/fixtures/approved-reader-research-notes.json"
+      "scripts/fixtures/approved-reader-research-notes.json",
+      "scripts/approved_simple_content_ci.py"
     ],
     "scripts/verify_reader_research_notes.py": [
       "scripts/approved_reader_research_notes.py",
@@ -7511,6 +7525,18 @@
     ],
     "scripts/verify_reader_research_notes_browser.cjs": [
       "scripts/fixtures/approved-reader-research-notes.json"
+    ],
+    "scripts/approved_simple_content_ci.py": [
+      "scripts/fixtures/approved-simple-content-ci.json"
+    ],
+    "scripts/verify_simple_content_ci.py": [
+      "scripts/approved_simple_content_ci.py",
+      "scripts/fixtures/approved-simple-content-ci.json",
+      "scripts/ci/manifest.json"
+    ],
+    "scripts/ci/test_simple_content.py": [
+      "scripts/ci/select_checks.py",
+      "scripts/ci/manifest.json"
     ]
   },
   "policy_paths": [
@@ -7788,7 +7814,10 @@
     "scripts/approved_research_batch79.py",
     "scripts/fixtures/approved-research-batch79.json",
     "scripts/approved_reader_research_notes.py",
-    "scripts/fixtures/approved-reader-research-notes.json"
+    "scripts/fixtures/approved-reader-research-notes.json",
+    "scripts/approved_simple_content_ci.py",
+    "scripts/fixtures/approved-simple-content-ci.json",
+    "scripts/verify_simple_content_ci.py"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -7802,7 +7831,8 @@
     "scripts/ci/README.md",
     "scripts/ci/test_scoped_runtime_changes.py",
     "scripts/ci/test_scoped_content_changes.py",
-    "scripts/ci/test_person_photo_scope.py"
+    "scripts/ci/test_person_photo_scope.py",
+    "scripts/ci/test_simple_content.py"
   ],
   "data_paths": [
     "listening_shelves.json",

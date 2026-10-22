@@ -257,6 +257,123 @@ def version_only(before, after):
     return True
 
 
+def simple_content_exemption(manifest, changes, read_before, read_after):
+    """Recognize pre-proven data-only editorial edits; never trust filenames alone.
+
+    A new fixture/helper/manifest is deliberately NOT eligible. Its preparation
+    remains a policy change with the normal browser selection.
+    """
+    if not changes or read_before is None or read_after is None:
+        return None
+    paths = [c.get('new_path') for c in changes]
+    if len(paths) != len(set(paths)) or 'tracks.json' not in paths:
+        return None
+    if any(c.get('status') != 'M' or c.get('old_path') != c.get('new_path')
+           or c.get('new_path') not in {'tracks.json', 'releases.json'} for c in changes):
+        return None
+    def same(a, b):
+        # JSON numeric/bool type drift must not hide inside Python's 1 == True.
+        options = dict(sort_keys=True, ensure_ascii=False, allow_nan=False, separators=(',', ':'))
+        return json.dumps(a, **options) == json.dumps(b, **options)
+    try:
+        if read_before(MANIFEST_PATH) is None or read_before(MANIFEST_PATH) != read_after(MANIFEST_PATH):
+            return None
+        old_raw, new_raw = read_before('tracks.json'), read_after('tracks.json')
+        if old_raw is None or new_raw is None:
+            return None
+        old, new = strict_json(old_raw, 'old tracks'), strict_json(new_raw, 'new tracks')
+        if not isinstance(old, list) or not old or not isinstance(new, list) or len(old) != len(new):
+            return None
+        ids = [t.get('id') if isinstance(t, dict) else None for t in old]
+        if any(not isinstance(i, str) or not i for i in ids) or len(set(ids)) != len(ids):
+            return None
+        if [t.get('id') if isinstance(t, dict) else None for t in new] != ids:
+            return None
+        allowed = {'essayTitle', 'deck', 'essay', 'context', 'listening', 'sources', 'essaySources'}
+        changed = []
+        for a, b in zip(old, new):
+            if same(a, b):
+                continue
+            fields = {k for k in set(a) | set(b) if not same(a.get(k), b.get(k)) or (k in a) != (k in b)}
+            if not fields or not fields <= allowed or set(a) != set(b):
+                return None
+            for key in ('essayTitle', 'deck', 'context'):
+                if not isinstance(b.get(key), str) or not b[key].strip():
+                    return None
+            for key in ('essay', 'listening'):
+                if not isinstance(b.get(key), list) or not b[key] or any(not isinstance(s, str) or not s.strip() for s in b[key]):
+                    return None
+            sources = b.get('sources')
+            if not isinstance(sources, list) or not sources:
+                return None
+            for source in sources:
+                if not isinstance(source, dict) or set(source) != {'label', 'url', 'kind'}:
+                    return None
+                if any(not isinstance(v, str) or not v.strip() for v in source.values()):
+                    return None
+                if not re.fullmatch(r'https?://[^\s/]+(?:/[^\s]*)?', source['url']):
+                    return None
+            def indices(values):
+                return isinstance(values, list) and all(type(i) is int and 0 <= i < len(sources) for i in values)
+            refs = b.get('essaySources')
+            if not isinstance(refs, list) or len(refs) != len(b['essay']) or not all(indices(v) for v in refs):
+                return None
+            def nested_refs(value):
+                if isinstance(value, dict):
+                    return all(indices(v) if k == 'sources' else nested_refs(v) for k, v in value.items())
+                if isinstance(value, list):
+                    return all(nested_refs(v) for v in value)
+                return True
+            if not all(nested_refs(b.get(k, [])) for k in ('facts', 'samples')):
+                return None
+            changed.append((a, b, fields))
+        if not changed:
+            return None
+        if 'releases.json' in paths:
+            version_only(read_before('releases.json'), read_after('releases.json'))
+            releases = [strict_json(reader('releases.json'), 'typed release check') for reader in (read_before, read_after)]
+            if not same(*[{k: v for k, v in r.items() if k != 'version'} for r in releases]):
+                return None
+        groups = scoped_content_groups(manifest, 'tracks.json', read_before, read_after)
+        if not groups:
+            return None
+        members = {i for group in groups for i in manifest['groups'][group]}
+        statics = [c for c in manifest['commands'] if c['id'] in members and c['kind'] == 'static']
+        dependencies = manifest['script_dependencies']
+        for command in statics:
+            pending, seen = [command['argv'][1]], set()
+            while pending:
+                path = pending.pop()
+                if path in seen:
+                    continue
+                seen.add(path)
+                pending.extend(dependencies.get(path, []))
+            for path in sorted(seen):
+                if not path.startswith('scripts/fixtures/') or not path.endswith('.json'):
+                    continue
+                raw = read_before(path)
+                if raw is None or raw != read_after(path):
+                    continue
+                f = strict_json(raw, 'unchanged editorial fixture')
+                file = f.get('files', {}).get('tracks.json', {})
+                if file.get('beforeSHA256') != hashlib.sha256(old_raw).hexdigest() or file.get('afterSHA256') != hashlib.sha256(new_raw).hexdigest():
+                    continue
+                rows = f.get('rows')
+                if not isinstance(rows, list) or len(rows) != len(changed):
+                    continue
+                by_id = {r.get('id'): r for r in rows if isinstance(r, dict)}
+                if len(by_id) != len(changed):
+                    continue
+                if all(same(by_id.get(a['id'], {}).get('before'), a)
+                       and same(by_id[a['id']].get('after'), b)
+                       and set(by_id[a['id']].get('allowedFields', [])) == fields
+                       for a, b, fields in changed):
+                    return {'fixture': path, 'static_check': command['id'], 'track_ids': [a['id'] for a, _, _ in changed]}
+    except (SelectionError, KeyError, TypeError, ValueError, AttributeError):
+        return None
+    return None
+
+
 def select_changes(manifest, changes, read_before=None, read_after=None, event='pull_request'):
     if event not in EVENTS:
         raise SelectionError(f'Unsupported event: {event}')
@@ -358,11 +475,18 @@ def select_changes(manifest, changes, read_before=None, read_after=None, event='
         compile_paths.update({'build.py', 'scripts/audit_catalog.py'})
     if policy_changed:
         compile_paths.update(p for p in manifest['policy_files'] if p.endswith('.py'))
+    exemption = None if blockers else simple_content_exemption(manifest, changes, read_before, read_after)
+    exempted = set()
+    if exemption is not None:
+        exempted = {ident for ident in selected if commands[ident]['kind'] == 'browser'}
+        for ident in exempted:
+            del selected[ident]
     return {
+        'simple_content_exemption': exemption,
         'schema': 1, 'event': event, 'build_required': build,
         'browser_required': any(commands[c]['kind'] == 'browser' for c in selected),
         'selected': [{**command, 'reasons': selected[command['id']]} for command in manifest['commands'] if command['id'] in selected],
-        'skipped': [{'id': c['id'], 'label': c['label'], 'reason': 'No declared changed-path/direct-dependency edge; not executed, not a pass'} for c in manifest['commands'] if c['id'] not in selected],
+        'skipped': [{'id': c['id'], 'label': c['label'], 'reason': ('Pre-proven data-only editorial correction; browser not executed, not a pass' if c['id'] in exempted else 'No declared changed-path/direct-dependency edge; not executed, not a pass')} for c in manifest['commands'] if c['id'] not in selected],
         'syntax': sorted(syntax), 'python_compile': sorted(compile_paths),
         'integrity_groups': [x for x in manifest['integrity_ids'] if x in integrity],
         'source_drift_check': build, 'changes': changes, 'classified': classified, 'blockers': blockers,

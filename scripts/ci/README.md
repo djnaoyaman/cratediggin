@@ -49,3 +49,27 @@ is not implemented.
 Run focused units with:
 
     python -m unittest discover -s scripts/ci -p 'test_*.py' -v
+
+
+## Conservative data-only editorial browser exemption
+
+A simple prose/source correction does not need a browser run when the complete
+base-to-head change proves it is data-only. The selector requires unchanged,
+already-reviewed manifest/fixture/static-consumer bytes; the fixture must match
+the exact ordered records, changed fields and before/after file hashes. Only
+`tracks.json` (optionally exact version-only `releases.json`) may change.
+
+Eligible fields are essayTitle, deck, essay, context, listening, sources and
+essaySources, subject to conservative shape/reference validation. Existing
+identity/version metadata, facts/samples, media, artwork, DIG, shelves, UI, code,
+security policy, new fixtures/helpers and unknown/mixed changes are not exempt.
+The entire existing static/build/syntax/integrity/source-drift plan remains;
+skipped browsers are reported as NOT EXECUTED, never as passing.
+
+For a future small edit, first inspect whether an unchanged reviewed static
+contract already covers the exact data transition. Reuse it; do not generate a
+new executable helper merely because text changed. If no such proof exists,
+prepare/review the static contract separately, or retain the ordinary policy
+checks. This first version does NOT accelerate the earlier eight-file batches
+that add executable helpers and fixtures; it does not claim that all textual
+work is automatically exempt. A new CI-code change itself keeps browser checks.
