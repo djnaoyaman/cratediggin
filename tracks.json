@@ -64615,5 +64615,147 @@
       "paletteSourceUrl": "https://open.spotify.com/track/6gMHo0kBBNxzwPo0DkHYii",
       "paletteNote": "該当する版のジャケットを目視参照した近似色です。人物・写真・既存題字は転載していません。"
     }
+  },
+  {
+    "artist": "Funkdoobiest",
+    "title": "Lost in Thought",
+    "album": "Brothas Doobie",
+    "year": 1995,
+    "producer": "DJ Muggs / Ray Roll",
+    "producers": [
+      "DJ Muggs",
+      "Ray Roll"
+    ],
+    "label": "Immortal / Epic",
+    "region": "California",
+    "scene": "Los Angeles",
+    "yearBasis": "1995年の『Brothas Doobie』収録曲。発売月日は配信カタログ間で相違があるため年のみ採用。Topicの2016-01-08は配信版の日付として区別する。",
+    "versionBasis": "Qobuzで『Brothas Doobie』4曲目、Album Version・Explicit・3分39秒の表記を確認。2019年のNova編集盤掲載音源は3分36秒表記で、今回の採用音源へ置き換えない。",
+    "id": "funkdoobiest-lost-in-thought",
+    "category": "Hip Hop",
+    "artists": [
+      "Funkdoobiest"
+    ],
+    "essayTitle": "アルバムの4曲目から、ラジオ局のレコード棚へ",
+    "deck": "DJ MuggsとRay Rollの共同制作を、Radio Novaが選び直した一曲としてたどる。",
+    "essay": [
+      "『Brothas Doobie』の4曲目「Lost in Thought」。1995年のこの曲は、DJ MuggsとRay Rollの共同制作だ。Muggsの名だけで話を進めるより、二人の名前を横に置いておきたい。アルバムの中で「What the Deal」と「Dedicated」に挟まれた3分39秒である。",
+      "もうひとつの入口は、Radio Novaのレコード棚にある。2019年、同局は蓄えてきた音盤から選ぶ『Nova Classics Hip Hop 01』を発表した。その配信版の5曲目に入ったのが「Lost in Thought」。Q-TipやMadvillain、The Pharcydeと同じ選曲盤に並び、元のアルバムとは違う隣人を持つことになった。",
+      "同じ曲でも、前後に何を置くかで聴く入口は変わる。まず『Brothas Doobie』の曲順に戻り、それからNovaの選曲をたどってみる。1995年という年号だけでは見えない、この曲の居場所が少し広がると思う。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        0,
+        2,
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "制作はMuggsとRay Roll",
+        "text": "曲別クレジットではDJ MuggsとRay RollがともにProducerとして記載されている。作詞・作曲欄にはJason Vasquez、Larry Muggerud、Ray Rollが並ぶ。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "2019年にはNovaの選曲盤へ",
+        "text": "Radio Novaの『Nova Classics Hip Hop』の配信版には5曲目として収録。原アルバムの3分39秒に対し、この配信カタログは3分36秒と記載しているため、掲載音源の版は分けて扱う。",
+        "sources": [
+          0,
+          2,
+          3
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Qobuz — Brothas Doobie / 正規配信曲別クレジット",
+        "url": "https://www.qobuz.com/us-en/album/brothas-doobie-funkdoobiest/0074646419526",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Funkdoobiest - Topic — Lost in Thought / Immortal配信",
+        "url": "https://www.youtube.com/watch?v=e1BgXvNvq2E",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Radio Nova — Nova revisite ses classiques en vinyle ! (2019-09-19)",
+        "url": "https://www.nova.fr/news/nova-revisite-ses-classiques-en-vinyle-24733-19-09-2019/",
+        "kind": "選曲者・発売元告知"
+      },
+      {
+        "label": "Qobuz — Nova Classics Hip Hop / Nova Records (2019)",
+        "url": "https://www.qobuz.com/fr-fr/album/nova-classics-hip-hop-nova-tunes/pgbwwvo1kgfga",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Music On Vinyl — Brothas Doobie",
+        "url": "https://www.musiconvinyl.com/products/funkdoobiest-brothas-doobie-vinyl",
+        "kind": "再発レーベル"
+      }
+    ],
+    "youtube": {
+      "id": "e1BgXvNvq2E",
+      "url": "https://www.youtube.com/watch?v=e1BgXvNvq2E",
+      "title": "Lost in Thought",
+      "channel": "Funkdoobiest - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-22",
+      "embedUrl": "https://www.youtube.com/embed/e1BgXvNvq2E",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "Brothas Doobie収録曲の公式配信候補（カタログ上はAlbum Version / Explicit・3:39、マスター同一性は未確認）",
+      "versionBasis": "Qobuzで『Brothas Doobie』4曲目、Album Version・Explicit・3分39秒の表記を確認。2019年のNova編集盤掲載音源は3分36秒表記で、今回の採用音源へ置き換えない。",
+      "verification": "2026年10月22日にoEmbedで曲名とFunkdoobiest - Topicの投稿者名を照合。音声・埋め込み実再生、日本での再生可否、マスターの同一性は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "context": "1995年の原アルバムと、2019年のRadio Novaによる選曲をたどる。",
+    "listening": [
+      "まず原アルバムの前後の曲と続け、次にNovaの選曲盤の並びで、この曲がどう位置づくかを比べてみる。"
+    ],
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "datePublished": "2026-10-22",
+    "noteReviewedAt": "2026-10-22",
+    "audioVerificationStatus": "oEmbedの曲名・投稿者を照合。実再生、日本での再生可否、マスター同一性は未確認。",
+    "editorialStatus": "音源の実再生と、日本での再生可否は未確認。",
+    "addedOrder": 515,
+    "art": {
+      "word": "LOST IN THOUGHT",
+      "tag": "FUNKDOOBIEST",
+      "lines": [
+        "LOST IN",
+        "THOUGHT"
+      ],
+      "style": "piece",
+      "seed": 199504,
+      "palette": [
+        "#B7B332",
+        "#667D7B",
+        "#F0E6C7",
+        "#171811"
+      ],
+      "paletteSource": "Brothas Doobie (1995)",
+      "paletteSourceUrl": "https://static.qobuz.com/images/covers/26/95/0074646419526_600.jpg",
+      "paletteNote": "収録アルバムのジャケットを目視参照した、黄緑・くすんだ青緑・白・濃色の近似配色。厳密な色抽出ではなく、写真や既存題字は転載していません。"
+    }
   }
 ]
