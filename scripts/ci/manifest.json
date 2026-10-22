@@ -5052,6 +5052,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "off-da-zoinkys-addition-browser"
+    },
+    {
+      "id": "a-lot-addition",
+      "argv": [
+        "python",
+        "scripts/verify_a_lot_addition.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "a-lot-addition"
+    },
+    {
+      "id": "a-lot-addition-browser",
+      "argv": [
+        "node",
+        "scripts/verify_a_lot_addition_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "a-lot-addition-browser"
     }
   ],
   "groups": {
@@ -5947,6 +5971,10 @@
     "off_da_zoinkys_addition": [
       "off-da-zoinkys-addition",
       "off-da-zoinkys-addition-browser"
+    ],
+    "a_lot_addition": [
+      "a-lot-addition",
+      "a-lot-addition-browser"
     ]
   },
   "runtime_rules": {
@@ -8089,7 +8117,8 @@
       "scripts/fixtures/approved-clout-addition.json"
     ],
     "scripts/approved_off_da_zoinkys_addition.py": [
-      "scripts/fixtures/approved-off_da_zoinkys-addition.json"
+      "scripts/fixtures/approved-off_da_zoinkys-addition.json",
+      "scripts/approved_a_lot_addition.py"
     ],
     "scripts/verify_off_da_zoinkys_addition.py": [
       "scripts/approved_off_da_zoinkys_addition.py",
@@ -8102,6 +8131,21 @@
     ],
     "scripts/verify_off_da_zoinkys_addition_browser.cjs": [
       "scripts/fixtures/approved-off_da_zoinkys-addition.json"
+    ],
+    "scripts/approved_a_lot_addition.py": [
+      "scripts/fixtures/approved-a_lot-addition.json"
+    ],
+    "scripts/verify_a_lot_addition.py": [
+      "scripts/approved_a_lot_addition.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "releases.json",
+      "artist_entities.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_off_da_zoinkys_addition.py"
+    ],
+    "scripts/verify_a_lot_addition_browser.cjs": [
+      "scripts/fixtures/approved-a_lot-addition.json"
     ]
   },
   "policy_paths": [
@@ -8408,7 +8452,9 @@
     "scripts/approved_clout_addition.py",
     "scripts/fixtures/approved-clout-addition.json",
     "scripts/approved_off_da_zoinkys_addition.py",
-    "scripts/fixtures/approved-off_da_zoinkys-addition.json"
+    "scripts/fixtures/approved-off_da_zoinkys-addition.json",
+    "scripts/approved_a_lot_addition.py",
+    "scripts/fixtures/approved-a_lot-addition.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9681,6 +9727,13 @@
         "groups": [
           "off_da_zoinkys_addition"
         ]
+      },
+      {
+        "before_sha256": "dc0cc52a5206ceefddd74e34d839683dedd8a154e8f6d47de751903850cffac3",
+        "after_sha256": "0973373561a61de9364b6910ab5ba82d5e8702b3aa07e30c33f4aafbfa125721",
+        "groups": [
+          "a_lot_addition"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -10105,6 +10158,13 @@
         "groups": [
           "off_da_zoinkys_addition"
         ]
+      },
+      {
+        "before_sha256": "8c846a3ae8b40b202f32dbbf4ff806694e1cb757dac0ada29e6435e3b855cbef",
+        "after_sha256": "e4642ee347701e9f4fb2232a68eaa3939ef84fa3ab8091356da2ef7a53e6bc1d",
+        "groups": [
+          "a_lot_addition"
+        ]
       }
     ],
     "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
@@ -10304,6 +10364,13 @@
         "after_sha256": "fdb7ccc144a2bd593eedd6acffaad2fdc4bc61efebaee59ebeab8cf279b8d604",
         "groups": [
           "off_da_zoinkys_addition"
+        ]
+      },
+      {
+        "before_sha256": "fdb7ccc144a2bd593eedd6acffaad2fdc4bc61efebaee59ebeab8cf279b8d604",
+        "after_sha256": "cd0d0c9c8cb058c6eb6fb854f0358c6f6a61f62288eb5bc107c0b5a08f876e8c",
+        "groups": [
+          "a_lot_addition"
         ]
       }
     ],
@@ -10935,6 +11002,15 @@
         "after_sha256": "93726620a2a1e0588eebed19b3a278293d237a64b8a81307ac0d1b1de92e2969",
         "groups": [
           "off_da_zoinkys_addition"
+        ]
+      }
+    ],
+    "assets/graffiti/21-savage-a-lot-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "ec757b1570898d608e0b4c07bc92283c7eabc9313a64a259ec85aa6303363262",
+        "groups": [
+          "a_lot_addition"
         ]
       }
     ]

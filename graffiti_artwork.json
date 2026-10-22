@@ -10480,6 +10480,26 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "21-savage-a-lot",
+      "title": "a lot",
+      "artist": "21 Savage feat. J. Cole",
+      "album": "i am > i was",
+      "palette": [
+        "#080808",
+        "#efefec",
+        "#89867f",
+        "#c4c1b8"
+      ],
+      "paletteSource": "i am > i was — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://www.qobuz.com/us-en/album/i-am-i-was-21-savage/o52ck2eenr4lb",
+      "paletteNote": "公式掲載カバーの黒・白・灰を配色だけの参照に使用。人物、ロゴ、構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/21-savage-a-lot-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
