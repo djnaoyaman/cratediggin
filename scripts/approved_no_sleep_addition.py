@@ -6,7 +6,8 @@ raw=(R/'scripts/fixtures/approved-no-sleep-addition.json').read_bytes()
 assert sha(raw)=='a34871b869cb291ee9629a22deadf3eefbad4cf31fb72f59ec6935db7fefa3f1','Immutable addition fixture changed'
 F=json.loads(raw)
 def current_no_sleep_addition_file(path,data):
- return data
+ from approved_baby_addition import historical_baby_addition_file
+ return historical_baby_addition_file(path,data)
 def historical_no_sleep_addition_file(path,data):
  data=current_no_sleep_addition_file(path,data)
  c=F['files'].get(path)

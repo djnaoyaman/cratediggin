@@ -67507,5 +67507,128 @@
       "paletteSourceUrl": "https://imagedelivery.net/7yy6dErF9hbNfcqoZCcxBA/4a933f0c-a546-40b7-2ac2-5a755b85ac00/public",
       "paletteNote": "1000x1000 PNG visually inspected: black frame, thermal-photo cyan/teal/blue with yellow/orange/red highlights. Approximate palette, not an exact extraction."
     }
+  },
+  {
+    "id": "j-dilla-baby",
+    "title": "Baby",
+    "artist": "J Dilla",
+    "artists": [
+      "J Dilla",
+      "Guilty Simpson",
+      "Madlib"
+    ],
+    "year": 2006,
+    "album": "The Shining",
+    "producer": "J Dilla",
+    "producers": [
+      "J Dilla"
+    ],
+    "label": "BBE",
+    "region": "Detroit",
+    "scene": "Detroit",
+    "category": "Hip Hop",
+    "essayTitle": "「Baby」に並ぶ三人、その前と後",
+    "deck": "Guilty Simpsonの参加から、DillaとMadlibの間に続いていた交流をたどります。",
+    "essay": [
+      "「Baby」は、J Dillaの『The Shining』にGuilty SimpsonとMadlibを迎えた一曲です。客演の二人を単なる豪華な顔ぶれとして見るより、三人がそれ以前にどこで交わっていたかをたどると、この組み合わせを身近に感じられます。",
+      "Guilty Simpsonは2001年にDillaとつながり、2003年にはJaylibの『Champion Sound』に収録された「Strapped」で初めてレコードに登場しました。Stones Throwの公式紹介は、2006年の契約もDillaの推薦によるものと記しています。「Baby」の客演には、それまでに続いていた紹介と共演の歴史があります。",
+      "その後、Guiltyは2008年に『Ode to the Ghetto』を発表し、2010年にはMadlibと『OJ Simpson』を作ります。「Strapped」から「Baby」、さらに『OJ Simpson』へ。これは同じ制作方法を繰り返したという意味ではなく、参加者の名前を道しるべにして聴く順番です。一曲のクレジットから、別の作品へ進む道が見えてきます。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "BBEの公式紹介と選定した公式配信が2006年と記載。8月21日／22日の表記差は年を変更しない。",
+    "versionBasis": "『The Shining』のオリジナル歌入り版。選定配信は3:29。2016年の記念盤配信とは区別し、依頼ミックスの3:15表記との編集・マスター同一性は未確認。",
+    "context": "『The Shining』の客演から、Guilty Simpsonの共演歴へ。",
+    "facts": [
+      {
+        "title": "選定配信の制作クレジット",
+        "text": "選定した公式配信はProducerをJames Yanceyと記載。ここではJ Dillaのクレジットとして扱い、単独制作や全制作分担の確定とはしない。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "BBE — The Shining",
+        "url": "https://bbemusic.com/product/the-shining",
+        "kind": "レーベル公式資料"
+      },
+      {
+        "label": "YouTube公式配信 — Baby",
+        "url": "https://www.youtube.com/watch?v=eln0KC5CI18",
+        "kind": "公式配信"
+      },
+      {
+        "label": "Stones Throw — Guilty Simpson公式紹介",
+        "url": "https://www.stonesthrow.com/artist/guiltysimpson/",
+        "kind": "レーベル公式資料"
+      },
+      {
+        "label": "Stones Throw — Guilty Simpson / Detroit’s Son",
+        "url": "https://www.stonesthrow.com/news/guilty-simpson-detroits-son/",
+        "kind": "レーベル公式資料"
+      }
+    ],
+    "youtube": {
+      "id": "eln0KC5CI18",
+      "url": "https://www.youtube.com/watch?v=eln0KC5CI18",
+      "title": "Baby",
+      "provider": "The Orchard Enterprises",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-22",
+      "embedUrl": "https://www.youtube.com/embed/eln0KC5CI18",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "オリジナル・アルバム歌入り版（公式配信）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式配信説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-22",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく制作背景の解説。音源の実再生は未確認。",
+    "addedOrder": 519,
+    "datePublished": "2026-10-22",
+    "art": {
+      "word": "BABY",
+      "tag": "J DILLA",
+      "lines": [
+        "BABY"
+      ],
+      "style": "piece",
+      "seed": 200606,
+      "palette": [
+        "#8b2024",
+        "#d5a32d",
+        "#f4ebce",
+        "#201916"
+      ],
+      "paletteSource": "The Shining — 公式アルバムカバー",
+      "paletteSourceUrl": "https://bbemusic.com/product/the-shining",
+      "paletteNote": "deep red patterned field, ochre/gold silhouette medallion, cream lettering; visual approximation, not exact extraction."
+    }
   }
 ]

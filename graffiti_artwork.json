@@ -10297,6 +10297,25 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "j-dilla-baby",
+      "title": "Baby",
+      "artist": "J Dilla",
+      "album": "The Shining",
+      "palette": [
+        "#8b2024",
+        "#d5a32d",
+        "#f4ebce",
+        "#201916"
+      ],
+      "paletteSource": "The Shining — 公式アルバムカバー",
+      "paletteNote": "deep red patterned field, ochre/gold silhouette medallion, cream lettering; visual approximation, not exact extraction.",
+      "status": "ready",
+      "image": "assets/graffiti/j-dilla-baby-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
