@@ -6,7 +6,8 @@ raw=(R/'scripts/fixtures/approved-audio-source-labels.json').read_bytes()
 assert sha(raw)=='6971d5be879c6623ed4fdabc2eec7155a5e1ac84fafbee46a3d6d33abacc6211','Immutable audio label fixture changed'
 F=json.loads(raw)
 def current_audio_source_labels_file(path,data):
- return data
+ from approved_clout_addition import historical_clout_addition_file
+ return historical_clout_addition_file(path,data)
 def historical_audio_source_labels_file(path,data):
  data=current_audio_source_labels_file(path,data)
  c=F['files'].get(path)

@@ -10440,6 +10440,26 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "offset-clout",
+      "title": "Clout",
+      "artist": "Offset feat. Cardi B",
+      "album": "FATHER OF 4",
+      "palette": [
+        "#b39a4a",
+        "#e9dfb8",
+        "#17150e",
+        "#f2eee0"
+      ],
+      "paletteSource": "FATHER OF 4 — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://www.qobuz.com/dk-en/album/father-of-4-offset/hg64xvewf8sqc",
+      "paletteNote": "公式配信カバーの砂色・クリーム・黒を配色だけの参照に使用。人物・椅子・写真の配置やカバーの構図は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/offset-clout-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
