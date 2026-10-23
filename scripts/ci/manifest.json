@@ -5544,6 +5544,18 @@
       "legacy": false,
       "requires_build": true,
       "label": "power-status-correction-browser"
+    },
+    {
+      "id": "creator-sites-output",
+      "argv": [
+        "python",
+        "scripts/verify_creator_sites.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "Creator-owned websites, descriptions, exclusion and generated output"
     }
   ],
   "groups": {
@@ -6555,6 +6567,9 @@
       "power-status-correction-browser",
       "11cc02294f7b3422",
       "edf6a18bb0e41e73"
+    ],
+    "creator_sites": [
+      "creator-sites-output"
     ]
   },
   "runtime_rules": {
@@ -6668,7 +6683,8 @@
       "dates",
       "navigation",
       "editorial",
-      "profile"
+      "profile",
+      "creator_sites"
     ],
     "frontend.py": [
       "shared_runtime"
@@ -6749,6 +6765,13 @@
     ],
     "article_research_notes.json": [
       "reader_research_notes"
+    ],
+    "creator-sites.html": [
+      "creator_sites",
+      "navigation",
+      "profile",
+      "privacy",
+      "responsive"
     ]
   },
   "script_dependencies": {
@@ -9133,7 +9156,8 @@
     "scripts/verify_power_status_correction_browser.cjs": [
       "scripts/fixtures/approved-power-status-correction.json",
       "scripts/verify_visible_art_browser.cjs"
-    ]
+    ],
+    "scripts/verify_creator_sites.py": []
   },
   "policy_paths": [
     ".github/workflows/pages.yml",
@@ -9539,7 +9563,8 @@
     "research/intake-timeline-pair-20261021.json",
     "research/intake-blu-amnesia-20261021.json",
     "research/two-player-region-repair-20261021.json",
-    "research/intake-four-mix-20261021.json"
+    "research/intake-four-mix-20261021.json",
+    "CREATOR_SITES.md"
   ],
   "syntax_existing": [
     "dist/app.js",
