@@ -41,6 +41,12 @@ for t in tracks:
     validate_work(t)
     assert (isinstance(t['year'],int) and not isinstance(t['year'],bool) and 1970<=t['year']<=2100) or (work_type(t)=='live_video' and t['year'] is None)
     assert t['youtube'].get('id') is None or re.fullmatch(r'[A-Za-z0-9_-]{11}',t['youtube']['id'])
+    if t.get('externalAudio'):
+        a=t['externalAudio'];u=urlparse(a['url'])
+        assert u.scheme=='https' and u.netloc and not u.username and not u.password
+        assert a.get('official') is True and isinstance(a.get('label'),str) and a['label'].strip()
+        assert not t['youtube'].get('id') and not t['youtube'].get('playlistId'), 'External article mode must not enter the internal player'
+        assert t.get('audioVerificationStatus')=='サイト内再生は確認中'
     assert len(t['essay'])>=1 and t['sources'] and t['moods']
     main=[s for s in t['samples'] if s.get('main')]
     assert len(main)<=1, 'At most one representative sample record is allowed'
@@ -97,6 +103,8 @@ for t in tracks:
     p=DIST/'songs';p.mkdir(exist_ok=True)
     e=html.escape
     body='<article><h1>'+e(t['title'])+'</h1>'+('<p class="work-year">'+e(year_label(t))+'</p><p class="work-year-note">'+e(t['yearDisplayNote'])+'</p>' if t.get('yearQualifier') else '')+('<p class="work-format">'+e(work_label(t))+'</p>' if work_type(t)!='single' else '')+'<p>'+e(t['artist'])+'</p><p>'+e(t['deck'])+'</p>'+render_notice(t)+'<h2>'+e(t['essayTitle'])+'</h2>'+''.join('<p>'+e(x)+'</p>'+('<div class="essay-references">参考資料：'+ ' / '.join('<a href="'+e(ref['url'],quote=True)+'">'+e(ref['label'])+'</a>' for ref in essay_references(t,j))+'</div>' if essay_references(t,j) else '') for j,x in enumerate(t['essay']))
+    if t.get('externalAudio'):
+        a=t['externalAudio'];body+='<p class="external-listening"><a href="'+e(a['url'],quote=True)+'" target="_blank" rel="noopener noreferrer">'+e(a['label'])+' ↗</a><br><span>サイト内再生は確認中</span></p>'
     if work_type(t)=='live_video' and not t.get('yearQualifier'): body+='<p class="work-year">'+e(year_label(t))+'</p>'
     if work_type(t)=='album': body+='<section class="album-sequence"><h2>ALBUM SEQUENCE</h2><ol>'+''.join('<li>'+e(x['title'])+'</li>' for x in t['playlistSequence'])+'</ol><p>個別の記事：'+ ' / '.join('<a href="'+BASE_PATH+'/tracks/'+id+'.html">'+e(next(x['title'] for x in tracks if x['id']==id))+'</a>' for id in t.get('relatedTrackIds',[]))+'</p></section>'
     body+='<p class="review-summary">'+('深掘り記事あり' if t['deepdives'] else 'リスニングノート')+' · サンプル資料 '+str(len(t['samples']))+' 件'+(' · 確認中 '+e(' / '.join(t['review']['metadataPending'])) if t['review']['metadataPending'] else '')+'</p>'
@@ -121,6 +129,8 @@ for t in tracks:
     page=page.replace('</head>','<script type="application/ld+json">'+json.dumps(ld,ensure_ascii=False)+'</script></head>')
     (p/(t['id']+'.html')).write_text(page, encoding='utf-8')
     md='# '+t['title']+'\n\n'+t['artist']+' / '+year_label(t)+' / '+t['region']+('\n\n'+t['yearDisplayNote'] if t.get('yearDisplayNote') else '')+markdown_notice(t)+'\n\n## '+t['essayTitle']+'\n\n'+'\n\n'.join(x+('\n\n参考資料：'+ ' / '.join(markdown_reference(ref) for ref in essay_references(t,j)) if essay_references(t,j) else '') for j,x in enumerate(t['essay']))+'\n\n## 制作背景\n\n'+'\n\n'.join('### '+f['title']+'\n\n'+f['text'] for f in t['facts'])+'\n\n## サンプル元\n\n'+'\n\n'.join(s['artist']+' — '+s['title']+'\n\n'+s['role']+('\n\nhttps://www.youtube.com/watch?v='+s['youtube']['id'] if s.get('youtube') else '') for s in t['samples'])+'\n\n## 出典\n\n'+'\n'.join('- ['+s['label']+']('+s['url']+')' for s in t['sources'])+'\n'
+    if t.get('externalAudio'):
+        a=t['externalAudio'];md+='\n## 公式音源への外部リンク\n\n['+a['label']+']('+a['url']+')\n\nサイト内再生は確認中\n'
     if work_type(t)=='album':md+='\n## ALBUM SEQUENCE\n\n'+'\n'.join(str(x['index'])+'. '+x['title'] for x in t['playlistSequence'])+'\n'
     if work_type(t)!='single':md+='\n## 作品区分\n\n'+work_label(t)+'\n'
     if t.get('editorSelectionMemory'):
@@ -198,7 +208,7 @@ for artist in artist_names:
 for t in tracks:
     save_social_image(DIST/'og'/(t['id']+'.jpg'),t)
     url=HOST+'/songs/'+t['id']+'.html'
-    data={'@context':'https://schema.org','@graph':[{'@type':'MusicRecording','@id':url+'#recording','name':t['title'],'byArtist':{'name':t['artist']},'inAlbum':{'@type':'MusicAlbum','name':t['album']},**({'datePublished':str(t['year'])} if t['year'] is not None and not t.get('yearQualifier') else {}),'url':url,'sameAs':t['youtube']['url']},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'CRATEDIGGIN\'','item':HOST+'/'},{'@type':'ListItem','position':2,'name':t['title'],'item':url}]}]}
+    data={'@context':'https://schema.org','@graph':[{'@type':'MusicRecording','@id':url+'#recording','name':t['title'],'byArtist':{'name':t['artist']},'inAlbum':{'@type':'MusicAlbum','name':t['album']},**({'datePublished':str(t['year'])} if t['year'] is not None and not t.get('yearQualifier') else {}),'url':url,'sameAs':t['externalAudio']['url'] if t.get('externalAudio') else t['youtube']['url']},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'CRATEDIGGIN\'','item':HOST+'/'},{'@type':'ListItem','position':2,'name':t['title'],'item':url}]}]}
     enhance(DIST/'songs'/(t['id']+'.html'),t['title']+' / '+t['artist'],t['deck'],url,HOST+'/og/'+t['id']+'.jpg',data,True)
 # Expose song links in HTML before JavaScript runs; the client then replaces the view.
 artist_directory='<section aria-label="アーティストから探す"><h2>ARTIST INDEX</h2><p>アーティスト別の収録曲一覧</p><ul>'+''.join('<li><a href="'+BASE_PATH+'/artists/'+artist_slugs[name]+'.html">'+html.escape(name)+'</a></li>' for name in artist_names)+'</ul></section>'
