@@ -6683,7 +6683,8 @@
       "catalog"
     ],
     "src/assets/analytics-privacy.js": [
-      "privacy"
+      "privacy",
+      "ga_events"
     ],
     "src/assets/style.css": [
       "shared_runtime"

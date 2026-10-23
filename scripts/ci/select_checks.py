@@ -158,7 +158,8 @@ def validate_manifest(manifest, snapshot):
                 raise SelectionError(f'Invalid scoped runtime groups: {path}')
     for path, rules in manifest.get('scoped_content_changes', {}).items():
         safe_path(path)
-        if path not in manifest['data_paths'] and not any(path.startswith(prefix) for prefix in manifest['blocked_asset_prefixes']):
+        reviewed_assertion = bool(re.fullmatch(r'scripts/approved_[a-z0-9_]+\.py', path) or (path.startswith('scripts/fixtures/') and path.endswith('.json')))
+        if path not in manifest['data_paths'] and not any(path.startswith(prefix) for prefix in manifest['blocked_asset_prefixes']) and not reviewed_assertion:
             raise SelectionError(f'Invalid scoped content path: {path}')
         if not isinstance(rules, list) or not rules:
             raise SelectionError(f'Empty scoped content rules: {path}')

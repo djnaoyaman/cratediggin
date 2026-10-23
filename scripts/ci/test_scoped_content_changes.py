@@ -26,6 +26,15 @@ class ScopedContentTests(unittest.TestCase):
   for change in [{'after_sha256':None},{'groups':['unknown']},{'before_sha256':'wrong'}]:
    bad=copy.deepcopy(self.m);bad['scoped_content_changes']['tracks.json'][0].update(change)
    with self.assertRaises(s.SelectionError):s.validate_manifest(bad,(HERE/'bootstrap-pages.yml').read_bytes())
+ def test_reviewed_assertion_paths_remain_exact(self):
+  for path in ['scripts/approved_example.py','scripts/fixtures/approved-example.json']:
+   self.m['scoped_content_changes']={path:[{'before_sha256':hashlib.sha256(self.before).hexdigest(),'after_sha256':hashlib.sha256(self.after).hexdigest(),'groups':['release']}]}
+   s.validate_manifest(self.m,(HERE/'bootstrap-pages.yml').read_bytes())
+   self.assertFalse(self.plan(self.before,self.after,path)['blockers'])
+   self.assertTrue(self.plan(self.before,self.after+b' ',path)['blockers'])
+   self.assertTrue(self.plan(self.before+b' ',self.after,path)['blockers'])
+  self.m['scoped_content_changes']={}
+  self.assertTrue(self.plan(self.before,self.after,'scripts/approved_unmapped.py')['blockers'])
  def test_rename_requires_both_paths(self):
   p=s.select_changes(self.m,[{'status':'R100','old_path':'tracks.json','new_path':'other.json'}],lambda _:self.before,lambda _:self.after)
   self.assertTrue(p['blockers'])
