@@ -300,4 +300,3 @@ import os, sys
 retire_legacy_social_pngs(DIST, [t['id'] for t in tracks], [f['id'] for f in features])
 sys.stdout.flush()
 os.execv(sys.executable, [sys.executable, str(ROOT / 'image_delivery.py'), str(DIST)])
-
