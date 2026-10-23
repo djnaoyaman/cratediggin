@@ -70007,5 +70007,1128 @@
       "paletteSourceUrl": "https://music.apple.com/us/song/boats-hoes/1504584300",
       "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。"
     }
+  },
+  {
+    "title": "Burn",
+    "artist": "OSHUN",
+    "artists": [
+      "OSHUN"
+    ],
+    "year": 2017,
+    "album": "bittersweet vol. 1 (Deluxe)",
+    "producers": [
+      "Alex Henderson-Clark",
+      "Zuri Lyric Marley",
+      "Kyleel \"Proda\" Rolle"
+    ],
+    "category": "Hip Hop / Soul",
+    "id": "oshun-burn",
+    "producer": "Alex Henderson-Clark, Zuri Lyric Marley & Kyleel \"Proda\" Rolle",
+    "label": "未確認",
+    "region": "New York",
+    "scene": "New York",
+    "essayTitle": "クレジットの名前から、大学時代のつながりへ",
+    "deck": "「Burn」に見えるProdaの名前が、OSHUNの始まりを教えてくれます。",
+    "essay": [
+      "OSHUNを知る手がかりは、二人の名前だけではありません。2017年のThe FADERのインタビューでThandiweは、Niambi Salaとの関係がNYUで始まり、同じ大学のProdaも制作チームの大切な一員になったと話しています。",
+      "「Burn」の公式配信クレジットにも、Kyleel “Proda” Rolleの名前があります。Alex Henderson-Clark、Zuri Lyric Marleyと並ぶプロデューサーの一人です。曲を見つけたあと、参加者の名前から出会いの場所へ戻ってみる。そんなたどり方をすると、OSHUNの一曲が、学生時代から続くつながりを知る入口にもなります。"
+    ],
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "2017年11月3日のシングル発売に基づく。選定音源の2019年Deluxe盤収録と2025年の動画投稿とは区別。",
+    "regionBasis": "本人インタビューが紹介するNew Yorkのデュオとしての関連。録音場所の説明ではない。",
+    "producerBasis": "選定公式配信の曲別Producer欄に記された三名。作詞作曲表記からの推測ではない。",
+    "versionBasis": "2019年Deluxe盤の公式配信音源。2017年シングルや依頼ミックスとの編集・マスター同一性は未確認。",
+    "context": "OSHUNの参加者の名前から、大学時代のつながりへ。",
+    "primaryArtist": "OSHUN",
+    "primaryArtists": [
+      "OSHUN"
+    ],
+    "featuredArtists": [],
+    "facts": [
+      {
+        "title": "作品の発売と位置",
+        "text": "「Burn」は2017年11月3日にシングルとして発表。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "曲別の制作担当",
+        "text": "現在の公式配信にはAlex Henderson-Clark、Zuri Lyric Marley、Kyleel “Proda” Rolleがプロデューサーとして記載。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "OSHUN — Burn 公式配信音源",
+        "url": "https://www.youtube.com/watch?v=tdmqxUvTYuc",
+        "kind": "公式配信音源"
+      },
+      {
+        "label": "Apple Music — Burn",
+        "url": "https://music.apple.com/us/song/burn/1824846267?l=vi",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "OSHUN — Burn 2017年シングル配信情報（音源は現在利用不可）",
+        "url": "https://www.youtube.com/watch?v=CjyGc_eXlXc",
+        "kind": "公式配信メタデータ"
+      },
+      {
+        "label": "The FADER — OSHUN インタビュー",
+        "url": "https://www.thefader.com/2017/04/12/oshun-interview-not-my-president",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "OSHUN / Diggers Factory — bittersweet vol. 1 & vol. ii",
+        "url": "https://www.diggersfactory.com/vinyl/312799/oshun-bittersweet-vol-i-ii",
+        "kind": "公式作品販売ページ"
+      }
+    ],
+    "youtube": {
+      "id": "tdmqxUvTYuc",
+      "url": "https://www.youtube.com/watch?v=tdmqxUvTYuc",
+      "title": "Burn",
+      "channel": "OSHUN - Topic",
+      "provider": "Amuseio AB",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/tdmqxUvTYuc",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "歌入り版（公式配信・投稿）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 538,
+    "art": {
+      "word": "Burn",
+      "tag": "OSHUN",
+      "lines": [
+        "Burn"
+      ],
+      "style": "piece",
+      "seed": 202610240,
+      "palette": [
+        "#414681",
+        "#e3dd1b",
+        "#b25bd2",
+        "#a76c24"
+      ],
+      "paletteSource": "bittersweet vol. 1 (Deluxe) — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/burn/1824846267?l=vi",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。"
+    }
+  },
+  {
+    "title": "Oranges On A Jet (feat. Curren$y)",
+    "artist": "Larry June",
+    "artists": [
+      "Larry June",
+      "Curren$y"
+    ],
+    "year": 2019,
+    "album": "Mr. Midnight",
+    "producers": [
+      "Cardo"
+    ],
+    "category": "Hip Hop",
+    "id": "larry-june-oranges-on-a-jet",
+    "producer": "Cardo",
+    "label": "未確認",
+    "region": "未確認",
+    "scene": "未確認",
+    "essayTitle": "二人の名前から、次の一曲へ",
+    "deck": "Larry June、Curren$y、そしてCardo。「Oranges On A Jet」を三つの入口に。",
+    "essay": [
+      "気になる曲が見つかったら、主役だけでなく、客演とプロデューサーの名前も覚えておきたい。「Oranges On A Jet」ならLarry JuneにCurren$yが加わり、制作を担うのはCardoです。一曲をきっかけに、ラッパー二人と作り手一人、それぞれの作品へ寄り道できます。",
+      "この曲は2019年の『Mr. Midnight』の五曲目。まず一曲から入り、気に入ったら同じアルバムの「Organic Mud」や「Feeling Good Today」へ進んでみてください。曲順をたどるのも、名前から探すのも自由。知らなかった一枚を、自分のための小さな地図にしていく入口です。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "公式配信とApple Musicの2019年6月29日発売に基づく。2021年の動画投稿とは区別。",
+    "regionBasis": "曲の資料から地域を断定しない。",
+    "producerBasis": "公式配信の曲別Producer欄にCardoと記載。",
+    "versionBasis": "Curren$yを迎えた2019年の歌入り曲。後年のリミックスとは区別し、依頼ミックスとの編集・マスター同一性は未確認。",
+    "context": "Larry Juneのアルバムから、Curren$yとの共演へ。",
+    "primaryArtist": "Larry June",
+    "primaryArtists": [
+      "Larry June"
+    ],
+    "featuredArtists": [
+      "Curren$y"
+    ],
+    "facts": [
+      {
+        "title": "作品の発売と位置",
+        "text": "2019年6月29日発売の『Mr. Midnight』の五曲目に収録。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "曲別の制作担当",
+        "text": "客演はCurren$y。公式配信音源のプロデューサー表記はCardo。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Larry June — Oranges On A Jet 公式配信音源",
+        "url": "https://www.youtube.com/watch?v=5LX6z2bytME",
+        "kind": "公式配信音源"
+      },
+      {
+        "label": "Apple Music — Oranges On A Jet",
+        "url": "https://music.apple.com/us/song/oranges-on-a-jet-feat-curren%24y/1551703731",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Apple Music — Mr. Midnight",
+        "url": "https://music.apple.com/us/album/mr-midnight/1551703720",
+        "kind": "配信カタログ"
+      }
+    ],
+    "youtube": {
+      "id": "5LX6z2bytME",
+      "url": "https://www.youtube.com/watch?v=5LX6z2bytME",
+      "title": "Oranges On A Jet (feat. Curren$y)",
+      "channel": "Larry June",
+      "provider": "EMPIRE Distribution",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/5LX6z2bytME",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "歌入り版（公式配信・投稿）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 539,
+    "art": {
+      "word": "Oranges On A Jet (feat. Curren$y)",
+      "tag": "LARRY JUNE",
+      "lines": [
+        "Oranges On A Jet (feat. Curren$y)"
+      ],
+      "style": "piece",
+      "seed": 202610241,
+      "palette": [
+        "#d6d5d2",
+        "#a6b4bd",
+        "#173345",
+        "#d5963b",
+        "#9f5a2d"
+      ],
+      "paletteSource": "Mr. Midnight — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/oranges-on-a-jet-feat-curren%24y/1551703731",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。"
+    }
+  },
+  {
+    "title": "Mission Bay",
+    "artist": "Larry June",
+    "artists": [
+      "Larry June"
+    ],
+    "year": 2019,
+    "album": "Out The Trunk",
+    "producers": [
+      "K. Fisha"
+    ],
+    "category": "Hip Hop",
+    "id": "larry-june-mission-bay",
+    "producer": "K. Fisha",
+    "label": "The Freeminded Records",
+    "region": "未確認",
+    "scene": "未確認",
+    "essayTitle": "二分あまりを入口に、一枚をひらく",
+    "deck": "「Mission Bay」から、Larry Juneの『Out The Trunk』を少しずつ。",
+    "essay": [
+      "新しいアーティストを知るのに、最初から長いアルバムを聴き通さなくてもいい。「Mission Bay」はApple Musicの表記で2分7秒。Larry Juneの作品をまだあまり知らないなら、まずこの一曲を入口にしてみてください。制作クレジットにはK. Fishaの名前があり、気になったら作り手から探す道もあります。",
+      "収録先は2019年の『Out The Trunk』。全十曲、配信ページの表記で約27分という一枚です。一曲からアルバムへ進むときも、全部を一度に覚える必要はありません。「Mission Bay」という題名を目印に、気になる曲を一つずつ増やしていく。それくらいの小さな始め方でどうでしょう。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "公式配信とApple Musicの2019年9月3日発売に基づく。2021年の動画投稿とは区別。",
+    "regionBasis": "曲の資料から地域を断定しない。",
+    "producerBasis": "公式配信の曲別Producer欄にK. Fishaと記載。ミキシング担当とは区別。",
+    "versionBasis": "『Out The Trunk』の2019年の歌入り曲。後年のリミックスとは区別し、依頼ミックスとの編集・マスター同一性は未確認。",
+    "context": "Larry Juneの一曲から、作品と制作クレジットへ。",
+    "primaryArtist": "Larry June",
+    "primaryArtists": [
+      "Larry June"
+    ],
+    "featuredArtists": [],
+    "facts": [
+      {
+        "title": "作品の発売と位置",
+        "text": "2019年9月3日発売の『Out The Trunk』に収録。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "曲別の制作担当",
+        "text": "制作はK. Fisha。ShazamではTodd Cooperがミキシングを担当したと記載されています。",
+        "sources": [
+          0,
+          3
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Larry June — Mission Bay 公式配信音源",
+        "url": "https://www.youtube.com/watch?v=6i1Q9mar1LE",
+        "kind": "公式配信音源"
+      },
+      {
+        "label": "Apple Music — Mission Bay",
+        "url": "https://music.apple.com/us/song/1551703604",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Apple Music — Out The Trunk",
+        "url": "https://music.apple.com/us/album/out-the-trunk/1551703598",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Shazam — Mission Bay 制作クレジット",
+        "url": "https://www.shazam.com/song/1551703604/mission-bay",
+        "kind": "配信カタログ"
+      }
+    ],
+    "youtube": {
+      "id": "6i1Q9mar1LE",
+      "url": "https://www.youtube.com/watch?v=6i1Q9mar1LE",
+      "title": "Mission Bay",
+      "channel": "Larry June - Topic",
+      "provider": "EMPIRE Distribution",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/6i1Q9mar1LE",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "歌入り版（公式配信・投稿）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 540,
+    "art": {
+      "word": "Mission Bay",
+      "tag": "LARRY JUNE",
+      "lines": [
+        "Mission Bay"
+      ],
+      "style": "piece",
+      "seed": 202610242,
+      "palette": [
+        "#bcd8e5",
+        "#18292f",
+        "#f3ca36",
+        "#c7642e",
+        "#f1f1df"
+      ],
+      "paletteSource": "Out The Trunk — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/mission-bay/1551703604",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。"
+    }
+  },
+  {
+    "title": "Eff U Thought (feat. Lex Bratcher)",
+    "artist": "Maez301",
+    "artists": [
+      "Maez301",
+      "Lex Bratcher"
+    ],
+    "year": 2020,
+    "album": "Hasaan",
+    "producers": [
+      "Ervin \"EP\" Pope"
+    ],
+    "category": "Hip Hop",
+    "id": "maez301-eff-u-thought",
+    "producer": "Ervin \"EP\" Pope",
+    "label": "未確認",
+    "region": "未確認",
+    "scene": "未確認",
+    "essayTitle": "客演の名前を、次の行き先に",
+    "deck": "Maez301の「Eff U Thought」で、Lex Bratcherの名前も覚えておきたい。",
+    "essay": [
+      "曲名の後ろに添えられた「feat.」は、新しいアーティストを見つける小さな道しるべです。Maez301の「Eff U Thought」に参加しているのはLex Bratcher。まずはこの二人の名前を覚えて、どちらの作品をもっと聴いてみたいか、自分で選んでみてください。",
+      "制作はErvin “EP” Pope。2020年1月に発表されたこの曲は、同年9月のアルバム『Hasaan』にも収録されています。一曲からMaez301のアルバムへ進むか、客演のLex Bratcherへ寄り道するか。知らない名前を一つ持ち帰るだけでも、音楽を探す楽しみは広がります。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        1,
+        2,
+        3
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "レーベルのAudiomackとApple Musicの2020年1月31日発売に基づく。同年9月のアルバム発売とは区別。",
+    "regionBasis": "曲の資料から地域を断定しない。",
+    "producerBasis": "レーベルの曲別制作欄と公式映像にErvin “EP” Popeと記載。",
+    "versionBasis": "Lex Bratcherを迎えた曲の公式ミュージックビデオ。映像3:38とアルバム3:32の編集差、依頼ミックスとのマスター同一性は未確認。",
+    "context": "Maez301の一曲から、Lex Bratcherとの共演へ。",
+    "primaryArtist": "Maez301",
+    "primaryArtists": [
+      "Maez301"
+    ],
+    "featuredArtists": [
+      "Lex Bratcher"
+    ],
+    "facts": [
+      {
+        "title": "作品の発売と位置",
+        "text": "Strange Musicの公式配信ページでは、公開日を2020年1月31日、制作をErvin “EP” Popeと記載。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "曲別の制作担当",
+        "text": "Lex Bratcherを迎えた楽曲。2020年9月11日発売の『Hasaan』にも収録されています。",
+        "sources": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Strange Music Inc — Eff U Thought 公式MV",
+        "url": "https://www.youtube.com/watch?v=I5UabWa6mUY",
+        "kind": "レーベル公式"
+      },
+      {
+        "label": "Strange Music Inc — Audiomack 楽曲・制作情報",
+        "url": "https://audiomack.com/strange-music-inc/song/eff-u-thought",
+        "kind": "レーベル公式配信"
+      },
+      {
+        "label": "Apple Music — Eff U Thought",
+        "url": "https://music.apple.com/us/song/1530052490",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Apple Music — Hasaan",
+        "url": "https://music.apple.com/us/album/hasaan/1530052482",
+        "kind": "配信カタログ"
+      }
+    ],
+    "youtube": {
+      "id": "I5UabWa6mUY",
+      "url": "https://www.youtube.com/watch?v=I5UabWa6mUY",
+      "title": "Eff U Thought (feat. Lex Bratcher)",
+      "channel": "Strange Music Inc",
+      "provider": null,
+      "type": "Official Video",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/I5UabWa6mUY",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "公式ミュージックビデオ",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 541,
+    "art": {
+      "word": "Eff U Thought (feat. Lex Bratcher)",
+      "tag": "MAEZ301",
+      "lines": [
+        "Eff U Thought (feat. Lex Bratcher)"
+      ],
+      "style": "piece",
+      "seed": 202610243,
+      "palette": [
+        "#ffb313",
+        "#ef8b08",
+        "#e6ed25",
+        "#f6f5ed",
+        "#bc4323"
+      ],
+      "paletteSource": "Hasaan — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/eff-u-thought-feat-lex-bratcher/1530052490",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。"
+    }
+  },
+  {
+    "title": "Tech Grey Sweats",
+    "artist": "Big Kahuna OG & Fly Anakin",
+    "artists": [
+      "Big Kahuna OG",
+      "Fly Anakin"
+    ],
+    "year": 2020,
+    "album": "360 SANTANA",
+    "producers": [
+      "Fly Anakin"
+    ],
+    "category": "Hip Hop",
+    "id": "big-kahuna-og-fly-anakin-tech-grey-sweats",
+    "producer": "Fly Anakin",
+    "label": "MUTANT ACADEMY",
+    "region": "未確認",
+    "scene": "未確認",
+    "essayTitle": "ラップとビート、役割から見つける一曲",
+    "deck": "Big Kahuna OGとFly Anakinの名前を、制作の役割からたどってみる。",
+    "essay": [
+      "二人の連名を見て、誰が何を担ったのか気になったら、クレジットが入口になります。『360 SANTANA』の公式ページではラップ、ミックス、マスタリングがKahuna、ビートがAnakin。「Tech Grey Sweats」から、それぞれの仕事に注目してみてください。",
+      "アルバムの発売日は2020年3月6日。公式Bandcampでは曲名が「Tech Gray Sweats」、配信音源では「Tech Grey Sweats」と表記されています。綴りの違いを目印に、同じ連名のアルバム収録曲を探せます。"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "公式Bandcampの2020年3月6日発売に基づく。後年の配信・リマスター告知とは区別。",
+    "regionBasis": "曲の資料から地域を断定しない。",
+    "producerBasis": "公式Bandcampのbeats担当にFly Anakinと記載。ラップ・ミックス・マスター担当とは区別。",
+    "versionBasis": "選定音源は歌入り曲。現在のBandcampはリマスターを案内しているが、選定音源が旧版かリマスターか、依頼ミックスとの同一性は未確認。",
+    "context": "二人のクレジットから、アルバムの役割分担へ。",
+    "primaryArtist": "Big Kahuna OG",
+    "primaryArtists": [
+      "Big Kahuna OG",
+      "Fly Anakin"
+    ],
+    "featuredArtists": [],
+    "facts": [],
+    "sources": [
+      {
+        "label": "Big Kahuna OG & Fly Anakin — Tech Grey Sweats 公式音源",
+        "url": "https://www.youtube.com/watch?v=maUxVqd0C60",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Mutant Academy — 360 SANTANA",
+        "url": "https://mutantacademyrva.bandcamp.com/album/360-santana",
+        "kind": "アーティスト公式"
+      },
+      {
+        "label": "Amazon Music — 360 SANTANA",
+        "url": "https://music.amazon.in/albums/B09R9CPK4W",
+        "kind": "配信カタログ"
+      }
+    ],
+    "youtube": {
+      "id": "maUxVqd0C60",
+      "url": "https://www.youtube.com/watch?v=maUxVqd0C60",
+      "title": "Tech Grey Sweats",
+      "channel": "Big Kahuna OG - Topic",
+      "provider": "DistroKid",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/maUxVqd0C60",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "歌入り版（公式配信・投稿）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 542,
+    "art": {
+      "word": "Tech Grey Sweats",
+      "tag": "BIG KAHUNA OG & FLY ANAKIN",
+      "lines": [
+        "Tech Grey Sweats"
+      ],
+      "style": "piece",
+      "seed": 202610244,
+      "palette": [
+        "#e8dcc2",
+        "#186577",
+        "#d74572",
+        "#e0aa40",
+        "#172321"
+      ],
+      "paletteSource": "360 SANTANA — 現在のBandcampリマスター掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://mutantacademyrva.bandcamp.com/album/360-santana",
+      "paletteNote": "現在のBandcampリマスター掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。選定音源のマスターを特定する説明ではありません。"
+    }
+  },
+  {
+    "title": "PRESSURE",
+    "artist": "$NOT",
+    "artists": [
+      "$NOT"
+    ],
+    "year": 2020,
+    "album": "- TRAGEDY +",
+    "producers": [
+      "Kevin Katana"
+    ],
+    "category": "Hip Hop",
+    "id": "not-pressure",
+    "producer": "Kevin Katana",
+    "label": "未確認",
+    "region": "未確認",
+    "scene": "未確認",
+    "essayTitle": "一曲から制作名をたどる",
+    "deck": "「PRESSURE」を入口に、$NOTとKevin Katanaを知る。",
+    "essay": [
+      "曲から気になる作り手を一人ずつ増やすなら、「PRESSURE」の公式音源を起点に。$NOTの公式チャンネルは、この曲を『- TRAGEDY +』の収録曲として公開し、制作にKevin Katanaの名を記しています。",
+      "Apple Musicの発売日表記は2020年3月6日。まず曲名とアルバム名を覚えて、作品へ戻るための小さな目印にしてみてください。曲名から、アルバムへ、そして制作クレジットへ。そんな探し方もできます。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "公式作品カタログの2020年発売に基づく。依頼ミックスの年から推測したものではない。",
+    "regionBasis": "曲の資料から地域を断定しない。",
+    "producerBasis": "曲別の制作表記にKevin Katanaと記載。",
+    "versionBasis": "本人の公式アルバム音源を選定。別映像や速度変更版ではなく、依頼ミックスとの編集・マスター同一性は未確認。",
+    "context": "曲名を入口に、$NOTの作品へ進みます。",
+    "primaryArtist": "$NOT",
+    "primaryArtists": [
+      "$NOT"
+    ],
+    "featuredArtists": [],
+    "facts": [],
+    "sources": [
+      {
+        "label": "$NOT — PRESSURE 公式音源",
+        "url": "https://www.youtube.com/watch?v=q5d7PFs5yEQ",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — PRESSURE",
+        "url": "https://music.apple.com/us/song/1505631497",
+        "kind": "配信カタログ"
+      }
+    ],
+    "youtube": {
+      "id": "q5d7PFs5yEQ",
+      "url": "https://www.youtube.com/watch?v=q5d7PFs5yEQ",
+      "title": "PRESSURE",
+      "channel": "SNOT",
+      "provider": null,
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/q5d7PFs5yEQ",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "歌入り版（公式配信・投稿）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 543,
+    "art": {
+      "word": "PRESSURE",
+      "tag": "$NOT",
+      "lines": [
+        "PRESSURE"
+      ],
+      "style": "piece",
+      "seed": 202610245,
+      "palette": [
+        "#151515",
+        "#464646",
+        "#929292",
+        "#e7e7e7"
+      ],
+      "paletteSource": "- TRAGEDY + — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/1505631497",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。"
+    }
+  },
+  {
+    "title": "GED (Gettin Every Dolla)",
+    "artist": "Lute",
+    "artists": [
+      "Lute"
+    ],
+    "year": 2020,
+    "album": "Gold Mouf",
+    "producers": [
+      "JSmash",
+      "mixMP",
+      "Patrick \"Guitarboy\" Hayes"
+    ],
+    "category": "Hip Hop",
+    "id": "lute-ged",
+    "producer": "JSmash / mixMP / Patrick \"Guitarboy\" Hayes",
+    "label": "Dreamville/Interscope Records",
+    "region": "未確認",
+    "scene": "未確認",
+    "essayTitle": "一曲の後ろにいる作り手たち",
+    "deck": "Luteの「GED」を、制作クレジットからひらく。",
+    "essay": [
+      "歌う人の名前を覚えたら、その後ろに並ぶ名前にも目を向けてみる。「GED (Gettin Every Dolla)」の制作にはJSmash、mixMP、Patrick “Guitarboy” Hayesが記されています。Luteという入口から、制作の側へも探す道が伸びています。",
+      "最初のシングル発売日は、Universal Musicの案内で2020年2月4日。その後『Gold Mouf』にも収録されました。シングルから知る人も、アルバムからたどり着く人も、この曲名を目印に聴く範囲を広げられます。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "公式レーベルの2020年2月4日シングル発売に基づく。後年のアルバム配信や2022年の動画投稿とは区別。",
+    "regionBasis": "曲の資料から地域を断定しない。",
+    "producerBasis": "曲別のProducer欄に記された三名。作詞作曲表記からの推測ではない。",
+    "versionBasis": "2020年のシングル曲を、後年の『Gold Mouf』公式配信音源で紹介。依頼ミックスとの編集・マスター同一性は未確認。",
+    "context": "Luteの一曲から、シングルとアルバムのつながりへ。",
+    "primaryArtist": "Lute",
+    "primaryArtists": [
+      "Lute"
+    ],
+    "featuredArtists": [],
+    "facts": [],
+    "sources": [
+      {
+        "label": "Lute — GED (Gettin Every Dolla) 公式音源",
+        "url": "https://www.youtube.com/watch?v=SZA-kEIfNmU",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Universal Music — GED single",
+        "url": "https://www.universalmusic.it/popular-music/album/ged-gettin-every-dolla-_33773346226/",
+        "kind": "レーベル公式"
+      },
+      {
+        "label": "Apple Music — GED",
+        "url": "https://music.apple.com/us/song/1586713299",
+        "kind": "配信カタログ"
+      }
+    ],
+    "youtube": {
+      "id": "SZA-kEIfNmU",
+      "url": "https://www.youtube.com/watch?v=SZA-kEIfNmU",
+      "title": "GED (Gettin Every Dolla)",
+      "channel": "Lute - Topic",
+      "provider": "Universal Music Group",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/SZA-kEIfNmU",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "歌入り版（公式配信・投稿）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 544,
+    "art": {
+      "word": "GED (Gettin Every Dolla)",
+      "tag": "LUTE",
+      "lines": [
+        "GED (Gettin Every Dolla)"
+      ],
+      "style": "piece",
+      "seed": 202610246,
+      "palette": [
+        "#21362e",
+        "#668477",
+        "#c8bb67",
+        "#b68249",
+        "#202523"
+      ],
+      "paletteSource": "GED (Gettin Every Dolla) — 2020年シングルの公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://www.universalmusic.it/popular-music/album/ged-gettin-every-dolla-_33773346226/",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。"
+    }
+  },
+  {
+    "title": "Still Coolie in the Cut",
+    "artist": "Curren$y, Trademark Da Skydiver & Young Roddy",
+    "artists": [
+      "Curren$y",
+      "Trademark Da Skydiver",
+      "Young Roddy"
+    ],
+    "year": 2019,
+    "album": "Plan of Attack",
+    "producers": [
+      "Djay Cas"
+    ],
+    "category": "Hip Hop",
+    "id": "curren-y-trademark-da-skydiver-young-roddy-still-coolie-in-the-cut",
+    "producer": "Djay Cas",
+    "label": "Babygrande Records",
+    "region": "未確認",
+    "scene": "未確認",
+    "essayTitle": "三人の名前から、次の一枚へ",
+    "deck": "「Still Coolie in the Cut」で、連名の作品をたどる。",
+    "essay": [
+      "一曲に三人の名前が並んでいたら、それだけ次の探索先が増えます。「Still Coolie in the Cut」はCurren$y、Trademark Da Skydiver、Young Roddyによる『Plan of Attack』の収録曲。制作クレジットにはDjay Casも記されています。",
+      "アルバムの発売日は2019年10月11日。まずこの連名と曲名を覚えて、気になった人の作品へ進んでみてください。三人を一度に詳しく知る必要はありません。一曲を足場に、一人ずつたどる楽しみ方もあります。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "公式作品カタログの2019年発売に基づく。動画投稿年とは区別。",
+    "regionBasis": "共同名義を一つの地域に結び付けず、地域は未確認とする。",
+    "producerBasis": "曲別の制作表記にDjay Casと記載。",
+    "versionBasis": "アルバムの歌入り曲を公式レーベル投稿で紹介。再生不可の旧Topic投稿は選定せず、依頼ミックスとのマスター同一性は未確認。",
+    "context": "三人の共演から、アルバムの一曲へ。",
+    "primaryArtist": "Curren$y",
+    "primaryArtists": [
+      "Curren$y",
+      "Trademark Da Skydiver",
+      "Young Roddy"
+    ],
+    "featuredArtists": [],
+    "facts": [],
+    "sources": [
+      {
+        "label": "Curren$y, Trademark Da Skydiver & Young Roddy — Still Coolie in the Cut 公式音源",
+        "url": "https://www.youtube.com/watch?v=yNjDVH7S_rk",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — Still Coolie in the Cut",
+        "url": "https://music.apple.com/us/song/1849695440",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Official Topic metadata — credits only; unavailable audio",
+        "url": "https://www.youtube.com/watch?v=1TdUaClxTHA",
+        "kind": "公式配信クレジット"
+      }
+    ],
+    "youtube": {
+      "id": "yNjDVH7S_rk",
+      "url": "https://www.youtube.com/watch?v=yNjDVH7S_rk",
+      "title": "Still Coolie in the Cut",
+      "channel": "iHipHopDistribution",
+      "provider": null,
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/yNjDVH7S_rk",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "歌入り版（公式配信・投稿）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 545,
+    "art": {
+      "word": "Still Coolie in the Cut",
+      "tag": "CURREN$Y, TRADEMARK DA SKYDIVER & YOUNG RODDY",
+      "lines": [
+        "Still Coolie in the Cut"
+      ],
+      "style": "piece",
+      "seed": 202610247,
+      "palette": [
+        "#53c2ce",
+        "#20201d",
+        "#e5e3dd",
+        "#8e9391"
+      ],
+      "paletteSource": "Plan of Attack — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/1849695440",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。"
+    }
+  },
+  {
+    "title": "Something Gotta Change",
+    "artist": "Larry June",
+    "artists": [
+      "Larry June"
+    ],
+    "year": 2019,
+    "album": "Product of the Dope Game",
+    "producers": [],
+    "category": "Hip Hop",
+    "id": "larry-june-something-gotta-change",
+    "producer": "未確認",
+    "label": "The Freeminded Records",
+    "region": "未確認",
+    "scene": "未確認",
+    "essayTitle": "曲名を目印に、一枚の後半へ",
+    "deck": "Larry Juneの「Something Gotta Change」からアルバムへ。",
+    "essay": [
+      "アルバムを最初から順番に聴くだけが、出会い方ではありません。「Something Gotta Change」は『Product of the Dope Game』の十二曲目。気になった一曲を目印に、前後の曲へ戻ってみる聴き方もあります。",
+      "作品の発売日は2019年11月9日。全十四曲の中に、この曲は置かれています。配信クレジットで確認できるミキシング担当はTodd Cooper。ラッパーの名前から作品へ、作品から制作に関わった人へと、少しずつ関心を広げてみてください。"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "公式配信と作品カタログの2019年11月9日発売に基づく。2021年の動画投稿とは区別。",
+    "regionBasis": "曲の資料から地域を断定しない。",
+    "producerBasis": "Producerは一次資料未確認。Todd Cooperのミキシング担当を制作担当へ置き換えない。",
+    "versionBasis": "『Product of the Dope Game』の歌入り曲。依頼ミックスとの編集・マスター同一性は未確認。",
+    "context": "Larry Juneの一曲を目印に、アルバムの後半へ。",
+    "primaryArtist": "Larry June",
+    "primaryArtists": [
+      "Larry June"
+    ],
+    "featuredArtists": [],
+    "facts": [],
+    "sources": [
+      {
+        "label": "Larry June — Something Gotta Change 公式音源",
+        "url": "https://www.youtube.com/watch?v=kaET8B6tiZs",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — Product of the Dope Game",
+        "url": "https://music.apple.com/us/album/product-of-the-dope-game/1551703409",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Shazam — Something Gotta Change credits",
+        "url": "https://www.shazam.com/song/1551703938/something-gotta-change",
+        "kind": "配信カタログ"
+      }
+    ],
+    "youtube": {
+      "id": "kaET8B6tiZs",
+      "url": "https://www.youtube.com/watch?v=kaET8B6tiZs",
+      "title": "Something Gotta Change",
+      "channel": "Larry June - Topic",
+      "provider": "EMPIRE Distribution",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/kaET8B6tiZs",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "歌入り版（公式配信・投稿）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 546,
+    "art": {
+      "word": "Something Gotta Change",
+      "tag": "LARRY JUNE",
+      "lines": [
+        "Something Gotta Change"
+      ],
+      "style": "piece",
+      "seed": 202610248,
+      "palette": [
+        "#0b1b30",
+        "#314d64",
+        "#c0aa87",
+        "#e9e0d1",
+        "#171512"
+      ],
+      "paletteSource": "Product of the Dope Game — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/album/product-of-the-dope-game/1551703409",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。"
+    }
   }
 ]

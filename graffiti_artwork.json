@@ -10683,6 +10683,192 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "oshun-burn",
+      "title": "Burn",
+      "artist": "OSHUN",
+      "album": "bittersweet vol. 1 (Deluxe)",
+      "palette": [
+        "#414681",
+        "#e3dd1b",
+        "#b25bd2",
+        "#a76c24"
+      ],
+      "paletteSource": "bittersweet vol. 1 (Deluxe) — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/burn/1824846267?l=vi",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/oshun-burn-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "larry-june-oranges-on-a-jet",
+      "title": "Oranges On A Jet (feat. Curren$y)",
+      "artist": "Larry June",
+      "album": "Mr. Midnight",
+      "palette": [
+        "#d6d5d2",
+        "#a6b4bd",
+        "#173345",
+        "#d5963b",
+        "#9f5a2d"
+      ],
+      "paletteSource": "Mr. Midnight — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/oranges-on-a-jet-feat-curren%24y/1551703731",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/larry-june-oranges-on-a-jet-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "larry-june-mission-bay",
+      "title": "Mission Bay",
+      "artist": "Larry June",
+      "album": "Out The Trunk",
+      "palette": [
+        "#bcd8e5",
+        "#18292f",
+        "#f3ca36",
+        "#c7642e",
+        "#f1f1df"
+      ],
+      "paletteSource": "Out The Trunk — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/mission-bay/1551703604",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/larry-june-mission-bay-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "maez301-eff-u-thought",
+      "title": "Eff U Thought (feat. Lex Bratcher)",
+      "artist": "Maez301",
+      "album": "Hasaan",
+      "palette": [
+        "#ffb313",
+        "#ef8b08",
+        "#e6ed25",
+        "#f6f5ed",
+        "#bc4323"
+      ],
+      "paletteSource": "Hasaan — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/eff-u-thought-feat-lex-bratcher/1530052490",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/maez301-eff-u-thought-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "big-kahuna-og-fly-anakin-tech-grey-sweats",
+      "title": "Tech Grey Sweats",
+      "artist": "Big Kahuna OG & Fly Anakin",
+      "album": "360 SANTANA",
+      "palette": [
+        "#e8dcc2",
+        "#186577",
+        "#d74572",
+        "#e0aa40",
+        "#172321"
+      ],
+      "paletteSource": "360 SANTANA — 現在のBandcampリマスター掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://mutantacademyrva.bandcamp.com/album/360-santana",
+      "paletteNote": "現在のBandcampリマスター掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。選定音源のマスターを特定する説明ではありません。",
+      "status": "ready",
+      "image": "assets/graffiti/big-kahuna-og-fly-anakin-tech-grey-sweats-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "not-pressure",
+      "title": "PRESSURE",
+      "artist": "$NOT",
+      "album": "- TRAGEDY +",
+      "palette": [
+        "#151515",
+        "#464646",
+        "#929292",
+        "#e7e7e7"
+      ],
+      "paletteSource": "- TRAGEDY + — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/1505631497",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/not-pressure-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "lute-ged",
+      "title": "GED (Gettin Every Dolla)",
+      "artist": "Lute",
+      "album": "Gold Mouf",
+      "palette": [
+        "#21362e",
+        "#668477",
+        "#c8bb67",
+        "#b68249",
+        "#202523"
+      ],
+      "paletteSource": "GED (Gettin Every Dolla) — 2020年シングルの公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://www.universalmusic.it/popular-music/album/ged-gettin-every-dolla-_33773346226/",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/lute-ged-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "curren-y-trademark-da-skydiver-young-roddy-still-coolie-in-the-cut",
+      "title": "Still Coolie in the Cut",
+      "artist": "Curren$y, Trademark Da Skydiver & Young Roddy",
+      "album": "Plan of Attack",
+      "palette": [
+        "#53c2ce",
+        "#20201d",
+        "#e5e3dd",
+        "#8e9391"
+      ],
+      "paletteSource": "Plan of Attack — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/1849695440",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/curren-y-trademark-da-skydiver-young-roddy-still-coolie-in-the-cut-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "larry-june-something-gotta-change",
+      "title": "Something Gotta Change",
+      "artist": "Larry June",
+      "album": "Product of the Dope Game",
+      "palette": [
+        "#0b1b30",
+        "#314d64",
+        "#c0aa87",
+        "#e9e0d1",
+        "#171512"
+      ],
+      "paletteSource": "Product of the Dope Game — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/album/product-of-the-dope-game/1551703409",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/larry-june-something-gotta-change-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
