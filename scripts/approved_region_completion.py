@@ -1,0 +1,24 @@
+from pathlib import Path
+import json,hashlib
+R=Path(__file__).resolve().parents[1]
+sha=lambda b:hashlib.sha256(b).hexdigest()
+raw=(R/"scripts/fixtures/approved-region-completion.json").read_bytes();assert sha(raw)=="7686f694f0129d8e4b021fca0841ec23f785cecf04dae788ab07e7e6eb33424e",'Immutable region fixture drift'
+F=json.loads(raw)
+def current_region_completion_file(path,data):
+ return data
+def historical_region_completion_file(path,data):
+ data=current_region_completion_file(path,data);c=F['files'].get(path)
+ if c is None:return data
+ assert sha(data)==c['afterSHA256'],'Unapproved region drift: '+path
+ if 'before' in c:out=c['before'].encode()
+ else:
+  obj=json.loads(data)
+  if path=='tracks.json':
+   assert len(obj)==F['count']
+   for row in F['records']:
+    i=next(i for i,t in enumerate(obj) if t['id']==row['id']);assert obj[i]==row['after'];obj[i]=row['before']
+  elif path=='releases.json':assert obj['version']==F['afterVersion'];obj['version']=F['beforeVersion']
+  else:raise AssertionError('Unknown inverse')
+  out=(json.dumps(obj,ensure_ascii=False,indent=2)+'\n').encode()
+ assert sha(out)==c['beforeSHA256'],'Prior content drift: '+path
+ return out
