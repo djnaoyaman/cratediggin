@@ -5364,6 +5364,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "external-articles-browser"
+    },
+    {
+      "id": "following-articles",
+      "argv": [
+        "python",
+        "scripts/verify_following_articles.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "following-articles"
+    },
+    {
+      "id": "following-articles-browser",
+      "argv": [
+        "node",
+        "scripts/verify_following_articles_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "following-articles-browser"
     }
   ],
   "groups": {
@@ -6329,6 +6353,10 @@
       "4700053810aa755c",
       "66d6521fb1ff5bb0",
       "be79c0fe5c1e7856"
+    ],
+    "following_articles": [
+      "following-articles",
+      "following-articles-browser"
     ]
   },
   "runtime_rules": {
@@ -8714,7 +8742,8 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/approved_external_articles.py": [
-      "scripts/fixtures/approved-external-articles.json"
+      "scripts/fixtures/approved-external-articles.json",
+      "scripts/approved_following_articles.py"
     ],
     "scripts/verify_external_articles.py": [
       "scripts/approved_external_articles.py",
@@ -8731,6 +8760,22 @@
     ],
     "scripts/verify_external_articles_browser.cjs": [
       "scripts/fixtures/approved-external-articles.json"
+    ],
+    "scripts/approved_following_articles.py": [
+      "scripts/fixtures/approved-following-articles.json"
+    ],
+    "scripts/verify_following_articles.py": [
+      "scripts/approved_following_articles.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "artist_entities.json",
+      "releases.json",
+      "src/app/core.js",
+      "scripts/ci/manifest.json",
+      "scripts/approved_external_articles.py"
+    ],
+    "scripts/verify_following_articles_browser.cjs": [
+      "scripts/fixtures/approved-following-articles.json"
     ]
   },
   "policy_paths": [
@@ -9071,7 +9116,9 @@
     "scripts/approved_gallery_visibility.py",
     "scripts/fixtures/approved-gallery-visibility.json",
     "scripts/approved_external_articles.py",
-    "scripts/fixtures/approved-external-articles.json"
+    "scripts/fixtures/approved-external-articles.json",
+    "scripts/approved_following_articles.py",
+    "scripts/fixtures/approved-following-articles.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -10477,6 +10524,13 @@
         "groups": [
           "external_articles"
         ]
+      },
+      {
+        "before_sha256": "117a707b612ac854a4198eab1193932fbe9bcd6aaec82d5c2e3bf6b4681fbd64",
+        "after_sha256": "7b3bf5ca2d5907def19c54040a223b69b188ba2449ac5ca8cc8d9cbe6d43b1c4",
+        "groups": [
+          "following_articles"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -10957,6 +11011,13 @@
         "groups": [
           "external_articles"
         ]
+      },
+      {
+        "before_sha256": "ceba44e55d1fd34c62335493050b3772feab9a0898136945db54900bfa325dd9",
+        "after_sha256": "09404f5e3a73b58680f823afa574a59a6a0153f9fa09645c0f5cfe3fffd1a20f",
+        "groups": [
+          "following_articles"
+        ]
       }
     ],
     "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
@@ -11212,6 +11273,13 @@
         "after_sha256": "640daf30baf59c93ef9f3ed64e375d409c996453e48001200a786bfe642c3933",
         "groups": [
           "external_articles"
+        ]
+      },
+      {
+        "before_sha256": "640daf30baf59c93ef9f3ed64e375d409c996453e48001200a786bfe642c3933",
+        "after_sha256": "e1c3113ed841eb9f758b85a9bdda4933e7fa94bc3f2d3735ad0bf4211cd33789",
+        "groups": [
+          "following_articles"
         ]
       }
     ],
@@ -12185,6 +12253,96 @@
         "after_sha256": "560c712c0f928d8ce68c92bc9517a4ec5df7a38c7dd998b847f62961d9ac5a5a",
         "groups": [
           "external_articles"
+        ]
+      }
+    ],
+    "assets/graffiti/rapsody-2-am-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "e256d8a8d318913287beae33ffb7ddff5321947db5c1125edbb7978f10e38b02",
+        "groups": [
+          "following_articles"
+        ]
+      }
+    ],
+    "assets/graffiti/murs-9th-wonder-no-shots-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "60dc07d89cee51c5016998a5d8ddf6052ddf0decdb0860e91d8988191a6fe955",
+        "groups": [
+          "following_articles"
+        ]
+      }
+    ],
+    "assets/graffiti/9th-wonder-tellmenow-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "bb6f98e86aa96b859b2ecf6b4e8925ce46a7f3d4ff621156a1c196095ed76029",
+        "groups": [
+          "following_articles"
+        ]
+      }
+    ],
+    "assets/graffiti/9th-wonder-buckshot-no-comparison-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "815755b0199a01cc0b6417402c615ebb9a7970d55b40921a0aeb7b373d4bd98c",
+        "groups": [
+          "following_articles"
+        ]
+      }
+    ],
+    "assets/graffiti/problem-top-off-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "e2caffdf111419decf55e435e1ae59d9e46dbf9c8fabb2e6914e8b7a4ccdd901",
+        "groups": [
+          "following_articles"
+        ]
+      }
+    ],
+    "assets/graffiti/king-magnetic-under-pressure-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "0df0a5af14ba894d98956b81bb6587551e821914c28b2eb31efc01dabad85db9",
+        "groups": [
+          "following_articles"
+        ]
+      }
+    ],
+    "assets/graffiti/talib-kweli-9th-wonder-life-ahead-of-me-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "77da87d1f91232ee66f4b55b69c0c2050f94c6eaa819e85b388c1b50be5c3ff2",
+        "groups": [
+          "following_articles"
+        ]
+      }
+    ],
+    "assets/graffiti/smif-n-wessun-let-it-go-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "b95820964fe9521298b4b0a12b6a8521d30fe98ce3bf099adefab4d35081afcb",
+        "groups": [
+          "following_articles"
+        ]
+      }
+    ],
+    "assets/graffiti/murs-9th-wonder-walk-like-a-god-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "fcaa456df451944de17c4a86ca9d3d75758719999685d7b941801ae7287a59d1",
+        "groups": [
+          "following_articles"
+        ]
+      }
+    ],
+    "assets/graffiti/termanology-grade-a-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "698709a12a3f88445c9d917b2c292c981773d35d83445734e61f73b1089f9e64",
+        "groups": [
+          "following_articles"
         ]
       }
     ]
