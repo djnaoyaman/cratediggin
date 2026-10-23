@@ -25269,6 +25269,13 @@
         "sources": [
           0
         ]
+      },
+      {
+        "title": "配信上のProducerクレジット",
+        "text": "Qobuzの本曲の配信クレジットは、DJ PremierとGuruの両者をProducerとして記載している。この表記だけでは、Guruがビートを制作したことや、二人の具体的な分担までは確認できない。",
+        "sources": [
+          2
+        ]
       }
     ],
     "samples": [],
@@ -25288,6 +25295,11 @@
         "label": "Gang Starr公式バイオグラフィー",
         "url": "https://gangstarr.global/pages/bio",
         "kind": "アーティスト公式資料"
+      },
+      {
+        "label": "Qobuz — Hard to Earn：第12曲「Blowin’ Up the Spot」のProducerクレジット",
+        "url": "https://www.qobuz.com/us-en/album/hard-to-earn-gang-starr/0724382843559",
+        "kind": "配信メタデータ（曲別制作クレジット）"
       }
     ],
     "producers": [
