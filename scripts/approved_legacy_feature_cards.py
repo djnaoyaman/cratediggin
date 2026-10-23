@@ -6,7 +6,8 @@ raw=(R/'scripts/fixtures/approved-legacy-feature-cards.json').read_bytes()
 assert sha(raw)=='09605b3d687046b9b879f0e7366e81e9c8ccc663365e99a2e08a8cf4d198174f','Immutable legacy cards fixture changed'
 F=json.loads(raw)
 def current_legacy_feature_cards_file(path,data):
- return data
+ from approved_hell_bound_addition import historical_hell_bound_addition_file
+ return historical_hell_bound_addition_file(path,data)
 def historical_legacy_feature_cards_file(path,data):
  data=current_legacy_feature_cards_file(path,data)
  c=F['files'].get(path)

@@ -5112,6 +5112,30 @@
       "legacy": false,
       "requires_build": false,
       "label": "legacy-feature-cards"
+    },
+    {
+      "id": "hell-bound-addition",
+      "argv": [
+        "python",
+        "scripts/verify_hell_bound_addition.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "hell-bound-addition"
+    },
+    {
+      "id": "hell-bound-addition-browser",
+      "argv": [
+        "node",
+        "scripts/verify_hell_bound_addition_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "hell-bound-addition-browser"
     }
   ],
   "groups": {
@@ -6018,6 +6042,10 @@
     ],
     "legacy_feature_cards": [
       "legacy-feature-cards"
+    ],
+    "hell_bound_addition": [
+      "hell-bound-addition",
+      "hell-bound-addition-browser"
     ]
   },
   "runtime_rules": {
@@ -8208,13 +8236,29 @@
       "scripts/fixtures/approved-trapped_in-addition.json"
     ],
     "scripts/approved_legacy_feature_cards.py": [
-      "scripts/fixtures/approved-legacy-feature-cards.json"
+      "scripts/fixtures/approved-legacy-feature-cards.json",
+      "scripts/approved_hell_bound_addition.py"
     ],
     "scripts/verify_legacy_feature_cards.py": [
       "scripts/approved_legacy_feature_cards.py",
       "url_migration.py",
       "features.json",
       "tracks.json"
+    ],
+    "scripts/approved_hell_bound_addition.py": [
+      "scripts/fixtures/approved-hell_bound-addition.json"
+    ],
+    "scripts/verify_hell_bound_addition.py": [
+      "scripts/approved_hell_bound_addition.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "releases.json",
+      "artist_entities.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_legacy_feature_cards.py"
+    ],
+    "scripts/verify_hell_bound_addition_browser.cjs": [
+      "scripts/fixtures/approved-hell_bound-addition.json"
     ]
   },
   "policy_paths": [
@@ -8527,7 +8571,9 @@
     "scripts/approved_trapped_in_addition.py",
     "scripts/fixtures/approved-trapped_in-addition.json",
     "scripts/approved_legacy_feature_cards.py",
-    "scripts/fixtures/approved-legacy-feature-cards.json"
+    "scripts/fixtures/approved-legacy-feature-cards.json",
+    "scripts/approved_hell_bound_addition.py",
+    "scripts/fixtures/approved-hell_bound-addition.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9814,6 +9860,13 @@
         "groups": [
           "trapped_in_addition"
         ]
+      },
+      {
+        "before_sha256": "4cd13b5d90eba0d2e1422df9b0cc8ccd6393fcad628eeeb16edc4cd4529f0f4d",
+        "after_sha256": "95e538c033f9d9134fae61860c4b19beb0341fc7ba38f25ab944f9f432ebe4ed",
+        "groups": [
+          "hell_bound_addition"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -10252,6 +10305,13 @@
         "groups": [
           "trapped_in_addition"
         ]
+      },
+      {
+        "before_sha256": "4155e6d4e96696193568754815916b8b84a5fca3b2ceb070087bd71269c0e225",
+        "after_sha256": "f035a4dea4c724c6fae00d19f46025331e30aaeede1171e03079e68fb4d300e2",
+        "groups": [
+          "hell_bound_addition"
+        ]
       }
     ],
     "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
@@ -10465,6 +10525,13 @@
         "after_sha256": "c07c11e5e0482924f6b379e9ee234d63f23f44411b46566c6608bfaf947049c3",
         "groups": [
           "trapped_in_addition"
+        ]
+      },
+      {
+        "before_sha256": "c07c11e5e0482924f6b379e9ee234d63f23f44411b46566c6608bfaf947049c3",
+        "after_sha256": "b4810f83a3f3bddc135f0f89b7d9d87b94396bcd91124ec051eca94e5777ac91",
+        "groups": [
+          "hell_bound_addition"
         ]
       }
     ],
@@ -11114,6 +11181,15 @@
         "after_sha256": "17b54e5c0ffc2c08f37dcface626f9377371d124f5ab836d79a220d055d1cc04",
         "groups": [
           "trapped_in_addition"
+        ]
+      }
+    ],
+    "assets/graffiti/vince-staples-hell-bound-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "00a76a9288f1a5240a1a1d85fed97ef3084a3f5fdec2443e2f6d2d95c2b081b3",
+        "groups": [
+          "hell_bound_addition"
         ]
       }
     ]

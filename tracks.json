@@ -68892,5 +68892,147 @@
       "paletteSourceUrl": "https://music.apple.com/ca/song/1501687337",
       "paletteNote": "公式掲載カバーの黒・白・灰を配色だけの参照に使用。人物、ロゴ、構図や元の文字は再現していません。"
     }
+  },
+  {
+    "title": "Hell Bound (Ad 01)",
+    "artist": "Vince Staples",
+    "artists": [
+      "Vince Staples"
+    ],
+    "year": 2019,
+    "album": "Hell Bound (Ad 01) — Single",
+    "producer": "LeKen Taylor",
+    "producers": [
+      "LeKen Taylor"
+    ],
+    "label": "Blacksmith Recordings / Motown Records",
+    "region": "Long Beach",
+    "category": "Hip Hop",
+    "id": "vince-staples-hell-bound",
+    "scene": "Long Beach",
+    "essayTitle": "曲名に付いた、小さな広告番号",
+    "deck": "「Ad 01」の先にある映像への入口を、Vince Staples自身の表現についての言葉からたどります。",
+    "essay": [
+      "「Hell Bound」の配信名には、曲名の後ろに「Ad 01」が付いています。2019年12月、Vince Staplesの公式チャンネルでは歌詞映像とは別に「Ad 01: Hell Bound」も公開され、その説明欄は自身の「The Vince Staples Show」へ案内していました。新しい曲を届けながら、映像シリーズへも誘う。広告という位置づけまで題名に取り込んだ一曲です。",
+      "2021年のHighsnobietyのインタビューで、Vinceは音楽以外の表現について、映像、テレビ、映画、本を地続きのものとして語っています。以前は音楽活動を損なうのではと考えたものの、さまざまな形で自分自身を届けることには、むしろ利点があるという振り返りでした。その視点を手がかりにこのシングルへ戻ると、曲だけで完結させない入口のつくり方にも目を向けられます。まずはLeKen Taylorが制作した約2分の本編から、当時の映像へとたどってみてください。"
+    ],
+    "essaySources": [
+      [
+        1,
+        2,
+        5
+      ],
+      [
+        0,
+        3,
+        4
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "公式レーベルと配信カタログの2019年12月19日発売に基づく。依頼ミックスの2020年や動画投稿日とは区別。",
+    "regionBasis": "本人インタビューで紹介されるVince StaplesとLong Beachの関連。録音場所の説明ではない。",
+    "producerBasis": "曲別クレジットでLeKen Taylorの制作・プログラミングを確認。",
+    "versionBasis": "オリジナル歌入りシングル版。「Ad 01」は配信タイトルの一部。音源2:12、カタログ2:11、依頼ミックス2:10の編集・マスター同一性は未確認。別の広告動画や歌詞映像とは区別。",
+    "context": "2019年のシングルから、Vince Staplesの映像表現へ。",
+    "facts": [
+      {
+        "title": "シングルの発売",
+        "text": "2019年12月19日にリリースされたシングルです。",
+        "sources": [
+          4,
+          5
+        ]
+      },
+      {
+        "title": "曲別の制作担当",
+        "text": "制作とプログラミングはLeKen Taylorが担当しています。",
+        "sources": [
+          0,
+          4
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Vince Staples / Universal Music Group — 公式配信音源",
+        "url": "https://www.youtube.com/watch?v=Ks-58CurJU0",
+        "kind": "公式配信音源"
+      },
+      {
+        "label": "Vince Staples — Ad 01: Hell Bound 公式動画",
+        "url": "https://www.youtube.com/watch?v=dKsBWMLWcZc",
+        "kind": "公式動画情報"
+      },
+      {
+        "label": "Vince Staples — Hell Bound 公式歌詞映像",
+        "url": "https://www.youtube.com/watch?v=TWSs_aWC0Lo",
+        "kind": "公式動画情報"
+      },
+      {
+        "label": "Highsnobiety — Vince Staples本人インタビュー",
+        "url": "https://www.highsnobiety.com/p/vince-staples-interview-on-everything/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Qobuz — Hell Bound (Ad 01) 配信情報",
+        "url": "https://www.qobuz.com/us-en/album/hell-bound-vince-staples/xbzlehln48ptb",
+        "kind": "配信クレジット"
+      },
+      {
+        "label": "Universal Music Japan — Hell Bound (Ad 01)",
+        "url": "https://www.universal-music.co.jp/vince-staples/products/00602508599415/",
+        "kind": "レーベル公式商品情報"
+      }
+    ],
+    "youtube": {
+      "id": "Ks-58CurJU0",
+      "url": "https://www.youtube.com/watch?v=Ks-58CurJU0",
+      "title": "Hell Bound (Ad 01)",
+      "channel": "Vince Staples",
+      "provider": "Universal Music Group",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/Ks-58CurJU0",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "オリジナル歌入りシングル版（公式配信）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式配信の投稿表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "addedOrder": 530,
+    "datePublished": "2026-10-23",
+    "art": {
+      "word": "Hell Bound (Ad 01)",
+      "tag": "VINCE STAPLES",
+      "lines": [
+        "Hell Bound (Ad 01)"
+      ],
+      "style": "piece",
+      "seed": 201912,
+      "palette": [
+        "#dfb7b3",
+        "#e7e8e5",
+        "#171817",
+        "#e8322a"
+      ],
+      "paletteSource": "Hell Bound (Ad 01) — Single — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://www.qobuz.com/us-en/album/hell-bound-vince-staples/xbzlehln48ptb",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。"
+    }
   }
 ]
