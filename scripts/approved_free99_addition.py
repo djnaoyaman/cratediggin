@@ -6,7 +6,8 @@ raw=(R/'scripts/fixtures/approved-free99-addition.json').read_bytes()
 assert sha(raw)=='bd75e482bff00c09050ed632a2f9c2e72c696d8b33753759c3f74a59c8d67a74','Immutable addition fixture changed'
 F=json.loads(raw)
 def current_free99_addition_file(path,data):
- return data
+ from approved_guru_note1 import historical_guru_note1_file
+ return historical_guru_note1_file(path,data)
 def historical_free99_addition_file(path,data):
  data=current_free99_addition_file(path,data)
  c=F['files'].get(path)
