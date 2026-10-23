@@ -5520,6 +5520,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "selected-concept-browser"
+    },
+    {
+      "id": "power-status-correction",
+      "argv": [
+        "python",
+        "scripts/verify_power_status_correction.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "power-status-correction"
+    },
+    {
+      "id": "power-status-correction-browser",
+      "argv": [
+        "node",
+        "scripts/verify_power_status_correction_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "power-status-correction-browser"
     }
   ],
   "groups": {
@@ -6523,6 +6547,12 @@
     "selected_concept": [
       "selected-concept",
       "selected-concept-browser",
+      "11cc02294f7b3422",
+      "edf6a18bb0e41e73"
+    ],
+    "power_status_correction": [
+      "power-status-correction",
+      "power-status-correction-browser",
       "11cc02294f7b3422",
       "edf6a18bb0e41e73"
     ]
@@ -9069,7 +9099,8 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/approved_selected_concept.py": [
-      "scripts/fixtures/approved-selected-concept.json"
+      "scripts/fixtures/approved-selected-concept.json",
+      "scripts/approved_power_status_correction.py"
     ],
     "scripts/verify_selected_concept.py": [
       "scripts/approved_selected_concept.py",
@@ -9085,6 +9116,22 @@
     ],
     "scripts/verify_selected_concept_browser.cjs": [
       "scripts/fixtures/approved-selected-concept.json",
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_power_status_correction.py": [
+      "scripts/fixtures/approved-power-status-correction.json"
+    ],
+    "scripts/verify_power_status_correction.py": [
+      "scripts/approved_power_status_correction.py",
+      "tracks.json",
+      "releases.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_selected_concept.py",
+      "build.py",
+      "src/app/core.js"
+    ],
+    "scripts/verify_power_status_correction_browser.cjs": [
+      "scripts/fixtures/approved-power-status-correction.json",
       "scripts/verify_visible_art_browser.cjs"
     ]
   },
@@ -9438,7 +9485,9 @@
     "scripts/approved_power_addition.py",
     "scripts/fixtures/approved-power-addition.json",
     "scripts/approved_selected_concept.py",
-    "scripts/fixtures/approved-selected-concept.json"
+    "scripts/fixtures/approved-selected-concept.json",
+    "scripts/approved_power_status_correction.py",
+    "scripts/fixtures/approved-power-status-correction.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -10920,6 +10969,13 @@
         "after_sha256": "592ec45ad739c4246e6b0c2b36a9e74a447214f443bec3d1e7d756d7d7fee53a",
         "groups": [
           "selected_concept"
+        ]
+      },
+      {
+        "before_sha256": "592ec45ad739c4246e6b0c2b36a9e74a447214f443bec3d1e7d756d7d7fee53a",
+        "after_sha256": "2a7a442cee60e48c2897b0c689acdfac13f6fd2024ac987c0ea1254eb3b51512",
+        "groups": [
+          "power_status_correction"
         ]
       }
     ],
