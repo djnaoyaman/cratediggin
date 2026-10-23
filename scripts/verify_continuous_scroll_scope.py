@@ -31,7 +31,7 @@ for path,entries in old['scoped_runtime_changes'].items():assert new['scoped_run
 for path in F['runtimeFiles']:
  x=F['patch'][path];assert new['scoped_runtime_changes'][path][-1]=={'before_sha256':x['beforeSHA256'],'after_sha256':x['afterSHA256'],'groups':['continuous_scroll']}
 if not a.source_only:
- D=R/'dist';tracks=json.loads((D/'tracks.js').read_text().split('window.TRACKS = ',1)[1].strip().removesuffix(';'));assert len(tracks)==562
+ D=R/'dist';tracks=json.loads((D/'tracks.js').read_text().split('window.TRACKS = ',1)[1].strip().removesuffix(';'));assert len(tracks)==len(json.loads((R/'tracks.json').read_text()));assert [t['id']for t in tracks]==[t['id']for t in json.loads((R/'tracks.json').read_text())]
  assert (D/'app.js').is_file()and(D/'style.css').is_file()
  assert 'resultLimit=restoredResultLimit(browseRestoring)'in(D/'app.js').read_text()
 print('Continuous scrolling: exact approved patch, prior562 catalog/assets/player/core/build, strict historical inverse/mutation rejection and unchanged CI registrations PASS.')

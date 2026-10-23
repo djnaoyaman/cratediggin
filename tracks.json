@@ -72352,5 +72352,150 @@
       "paletteSourceUrl": "https://music.apple.com/us/album/live-in-concert-ep/637872886",
       "paletteNote": "公式掲載カバーを目視した編集上の近似配色。絵柄・ロゴ・構図や元の文字は再現していません。"
     }
+  },
+  {
+    "id": "rapsody-power",
+    "title": "Power (feat. Kendrick Lamar & Lance Skiiiwalker)",
+    "artist": "Rapsody",
+    "primaryArtist": "Rapsody",
+    "primaryArtists": [
+      "Rapsody"
+    ],
+    "featuredArtists": [
+      "Kendrick Lamar",
+      "Lance Skiiiwalker"
+    ],
+    "artists": [
+      "Rapsody",
+      "Kendrick Lamar",
+      "Lance Skiiiwalker"
+    ],
+    "year": 2017,
+    "album": "Laila’s Wisdom",
+    "category": "Hip Hop",
+    "region": "North Carolina",
+    "scene": "North Carolina",
+    "regionBasis": "Artist origin or self-published location from cited primary sources, not recording location. Unconfirmed joint region omitted.",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "Original release year in cited primary catalog; not KIYO mixtape year or later video upload.",
+    "label": "Jamla Records / Roc Nation",
+    "essayTitle": "演奏者の名前まで辿る",
+    "deck": "Rapsodyの『Laila’s Wisdom』に収められた2017年の一曲。",
+    "context": "演奏者の名前まで辿る",
+    "essay": [
+      "Rapsodyの『Laila’s Wisdom』に収められた2017年の一曲。制作は9th Wonder、客演はKendrick LamarとLance Skiiiwalker。Terrace Martinの鍵盤と編曲も加わり、演奏者のクレジットからアルバムの共同制作をたどれる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        7
+      ]
+    ],
+    "sources": [
+      {
+        "label": "www.youtube.com — Power (feat. Kendrick Lamar & Lance Skiiiwalker)",
+        "url": "https://www.youtube.com/watch?v=TZsmRmdtVUE",
+        "kind": "公式音源",
+        "evidence": "OAC Rapsody; UMG delivery; original release 2017-09-22; Jamla/Roc Nation; producer9thWonder; TerraceMartin arrangement and MarlonWilliams strings"
+      },
+      {
+        "label": "www.shazam.com — Power (feat. Kendrick Lamar & Lance Skiiiwalker)",
+        "url": "https://www.shazam.com/song/1440940233/power-feat-kendrick-lamar-and-lance-skiiiwalker",
+        "kind": "配信カタログ",
+        "evidence": "2017-09-22; performers Rapsody/Kendrick/Lance; producer9thWonder; TerraceMartin keyboards"
+      },
+      {
+        "label": "rapsody.bandcamp.com — Power (feat. Kendrick Lamar & Lance Skiiiwalker)",
+        "url": "https://rapsody.bandcamp.com/album/for-everything",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Artist account tagged North Carolina"
+      },
+      {
+        "label": "open.spotify.com — Power (feat. Kendrick Lamar & Lance Skiiiwalker)",
+        "url": "https://open.spotify.com/intl-fr/track/6SxfpFpECdR0bc0aL8Rygq",
+        "kind": "配信カタログ",
+        "evidence": "Album version duration5:34 and label2017"
+      },
+      {
+        "label": "Power — ユーザー提供のYouTube動画",
+        "url": "https://www.youtube.com/watch?v=sVsehWDsoR0",
+        "kind": "ユーザー提供リンク"
+      },
+      {
+        "label": "Avopolis — Powerの2017年紹介（同じ動画ID）",
+        "url": "https://www.avopolis.gr/music-news/international-news/61424-lamar-power",
+        "kind": "音楽報道"
+      },
+      {
+        "label": "Apple Music — Laila’s Wisdom",
+        "url": "https://music.apple.com/us/album/lailas-wisdom/1442288486",
+        "kind": "公式配信カタログ"
+      },
+      {
+        "label": "Apple Music — Powerの制作・演奏クレジット",
+        "url": "https://music.apple.com/us/song/1443204423",
+        "kind": "公式配信クレジット"
+      }
+    ],
+    "youtube": {
+      "id": "sVsehWDsoR0",
+      "url": "https://www.youtube.com/watch?v=sVsehWDsoR0",
+      "embedUrl": "https://www.youtube.com/embed/sVsehWDsoR0",
+      "title": "Power (feat. Kendrick Lamar & Lance Skiiiwalker)",
+      "channel": "Jamla Records（ユーザー提供情報）",
+      "type": "ユーザー提供音源",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "2017年公開音源（ユーザー提供）",
+      "versionBasis": "同じIDを記載した2017年の記事から曲名・客演を照合。現行チャンネル情報、動画内の編集・マスター同一性は未確認。",
+      "verification": "ユーザー提供の動画。再生状況・埋め込み可否は確認中。日本所在地からの実再生は未確認。"
+    },
+    "versionBasis": "同じIDを記載した2017年の記事から曲名・客演を照合。現行チャンネル情報、動画内の編集・マスター同一性は未確認。",
+    "audioVerificationStatus": "ユーザー提供の動画。再生状況・埋め込み可否は確認中。",
+    "editorialStatus": "ユーザー提供の動画。再生状況・埋め込み可否は確認中。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ラップ"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "editorSelectionMemory": {
+      "heading": "音源の確認状況",
+      "text": "ユーザー提供の動画。再生状況・埋め込み可否は確認中。"
+    },
+    "datePublished": "2026-10-23",
+    "addedOrder": 556,
+    "art": {
+      "word": "POWER",
+      "tag": "RAPSODY",
+      "lines": [
+        "POWER"
+      ],
+      "style": "piece",
+      "seed": 2026102301,
+      "palette": [
+        "#d8b64b",
+        "#171818",
+        "#c4517c",
+        "#486c43",
+        "#eee2c5"
+      ],
+      "paletteSource": "Laila’s Wisdom",
+      "paletteSourceUrl": "https://music.apple.com/us/album/lailas-wisdom/1440939999",
+      "paletteNote": "公式カタログの既存確認済みジャケットを再度目視した編集上の配色。厳密な色抽出値ではない。人物・構図を複製せず、塗料片から言葉を築く独自文字アートとして制作。"
+    }
   }
 ]

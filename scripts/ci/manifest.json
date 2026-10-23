@@ -5472,6 +5472,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "top-return-scope"
+    },
+    {
+      "id": "power-addition",
+      "argv": [
+        "python",
+        "scripts/verify_power_addition.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "power-addition"
+    },
+    {
+      "id": "power-addition-browser",
+      "argv": [
+        "node",
+        "scripts/verify_power_addition_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "power-addition-browser"
     }
   ],
   "groups": {
@@ -6465,6 +6489,12 @@
       "top-return-model",
       "top-return-browser",
       "top-return-scope"
+    ],
+    "power_addition": [
+      "power-addition",
+      "power-addition-browser",
+      "11cc02294f7b3422",
+      "edf6a18bb0e41e73"
     ]
   },
   "runtime_rules": {
@@ -8956,7 +8986,8 @@
       "build.py"
     ],
     "scripts/approved_top_return.py": [
-      "scripts/fixtures/approved-top-return.json"
+      "scripts/fixtures/approved-top-return.json",
+      "scripts/approved_power_addition.py"
     ],
     "scripts/verify_top_return.cjs": [
       "src/app/renewal.js",
@@ -8985,6 +9016,26 @@
       "src/app/player.js",
       "build.py",
       "audit-reports/maintenance.json"
+    ],
+    "scripts/approved_power_addition.py": [
+      "scripts/fixtures/approved-power-addition.json"
+    ],
+    "scripts/verify_power_addition.py": [
+      "scripts/approved_power_addition.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "artist_entities.json",
+      "releases.json",
+      "scripts/verify_top_return_scope.py",
+      "scripts/verify_continuous_scroll_scope.py",
+      "src/app/core.js",
+      "build.py",
+      "scripts/ci/manifest.json",
+      "scripts/approved_top_return.py"
+    ],
+    "scripts/verify_power_addition_browser.cjs": [
+      "scripts/fixtures/approved-power-addition.json",
+      "scripts/verify_visible_art_browser.cjs"
     ]
   },
   "policy_paths": [
@@ -9333,7 +9384,9 @@
     "scripts/approved_continuous_scroll.py",
     "scripts/fixtures/approved-continuous-scroll.json",
     "scripts/approved_top_return.py",
-    "scripts/fixtures/approved-top-return.json"
+    "scripts/fixtures/approved-top-return.json",
+    "scripts/approved_power_addition.py",
+    "scripts/fixtures/approved-power-addition.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -10802,6 +10855,13 @@
         "groups": [
           "article_first_rollback"
         ]
+      },
+      {
+        "before_sha256": "7bd69260c1f1f99577029c06541c49b1643747d94cdd145dac3694ef1f1b459a",
+        "after_sha256": "afa55485cac240d153de0976162fb465f7af9d22ca289febc6b8f79aea242425",
+        "groups": [
+          "power_addition"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -11296,6 +11356,13 @@
         "groups": [
           "article_first_rollback"
         ]
+      },
+      {
+        "before_sha256": "ddb4c3d8a1190ef5b7341414d3e3b1862f35d459fc39720aa85acfc593a0dff2",
+        "after_sha256": "51dda1e933c00dcd1b4b9ed37f8c72176bbed877dcd78c9cd1307f8b4fb5b469",
+        "groups": [
+          "power_addition"
+        ]
       }
     ],
     "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
@@ -11565,6 +11632,13 @@
         "after_sha256": "2d1b1d31c6b975ff4abc962d8ca9e622c63746973b2b7b9716f654c2a2d595cf",
         "groups": [
           "article_first_rollback"
+        ]
+      },
+      {
+        "before_sha256": "2d1b1d31c6b975ff4abc962d8ca9e622c63746973b2b7b9716f654c2a2d595cf",
+        "after_sha256": "cbe822e73b5d194989cef75c34f6291d1bf128a540e084d4150adc5ca100c376",
+        "groups": [
+          "power_addition"
         ]
       }
     ],
@@ -12628,6 +12702,15 @@
         "after_sha256": "698709a12a3f88445c9d917b2c292c981773d35d83445734e61f73b1089f9e64",
         "groups": [
           "following_articles"
+        ]
+      }
+    ],
+    "assets/graffiti/rapsody-power-rebuilt-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "17c26745c1855aabbcfe5617ee2bf6735191b22b0a392cf07b603a12518606f5",
+        "groups": [
+          "power_addition"
         ]
       }
     ]

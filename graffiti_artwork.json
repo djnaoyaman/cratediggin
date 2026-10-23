@@ -11051,6 +11051,30 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "rapsody-power",
+      "title": "Power (feat. Kendrick Lamar & Lance Skiiiwalker)",
+      "artist": "Rapsody",
+      "album": "Laila’s Wisdom",
+      "palette": [
+        "#d8b64b",
+        "#171818",
+        "#c4517c",
+        "#486c43",
+        "#eee2c5"
+      ],
+      "paletteSource": "Laila’s Wisdom",
+      "paletteNote": "公式カタログの既存確認済みジャケットを再度目視した編集上の配色。厳密な色抽出値ではない。人物・構図を複製せず、塗料片から言葉を築く独自文字アートとして制作。",
+      "status": "ready",
+      "image": "assets/graffiti/rapsody-power-rebuilt-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "noSiteBranding": true,
+      "concept": "投げつけられた石を拾い直し、同じ欠けと色層を自分の言葉 POWER の支えへ組み直す。",
+      "reviewNote": "左の未整列な欠片と POWER 内の部材に同じローズ／緑／マット金の層と欠けが連続。アイボリーの手描き線で接合し、再構築を示す。alpha>=16 の最小可視余白14.65%。alpha=1の微小残渣は元画像を保ったままQAに記録。再生確認の実施を意味しない。",
+      "paletteSourceUrl": "https://music.apple.com/us/album/lailas-wisdom/1440939999"
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
