@@ -5316,6 +5316,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "guru-note5"
+    },
+    {
+      "id": "gallery-visibility",
+      "argv": [
+        "python",
+        "scripts/verify_gallery_visibility.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "gallery-visibility"
+    },
+    {
+      "id": "gallery-visibility-browser",
+      "argv": [
+        "node",
+        "scripts/verify_gallery_visibility_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "gallery-visibility-browser"
     }
   ],
   "groups": {
@@ -6263,6 +6287,13 @@
     ],
     "guru_note5": [
       "guru-note5"
+    ],
+    "gallery_visibility": [
+      "gallery-visibility",
+      "gallery-visibility-browser",
+      "d3aa673ac108a720",
+      "4d25788a3f2e8faa",
+      "3a98739a23fad1c3"
     ]
   },
   "runtime_rules": {
@@ -6487,7 +6518,10 @@
       "scripts/fixtures/approved-contextual-opening.json"
     ],
     "scripts/verify_tracks_gallery_browser.cjs": [
-      "scripts/verify_visible_art_browser.cjs"
+      "scripts/verify_visible_art_browser.cjs",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "editorial_deepdives.json"
     ],
     "scripts/approved_queue_scope.py": [
       "scripts/approved_shuffle_scope.py",
@@ -6505,7 +6539,10 @@
     ],
     "scripts/verify_artifacts_credits_browser.cjs": [
       "scripts/fixtures/approved-artifacts-credits.json",
-      "scripts/verify_visible_art_browser.cjs"
+      "scripts/verify_visible_art_browser.cjs",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "editorial_deepdives.json"
     ],
     "scripts/approved_media_correction.py": [
       "scripts/approved_editorial_corrections.py",
@@ -6650,7 +6687,10 @@
     "scripts/verify_oct19_two_browser.cjs": [
       "scripts/fixtures/approved-artifacts-credits.json",
       "scripts/fixtures/requested-two.json",
-      "scripts/verify_visible_art_browser.cjs"
+      "scripts/verify_visible_art_browser.cjs",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "editorial_deepdives.json"
     ],
     "scripts/verify_compact_list_dilla_browser.cjs": [
       "scripts/verify_visible_art_browser.cjs",
@@ -8610,7 +8650,8 @@
       "scripts/approved_kiyo_batch3.py"
     ],
     "scripts/approved_guru_note5.py": [
-      "scripts/fixtures/approved-guru-note5.json"
+      "scripts/fixtures/approved-guru-note5.json",
+      "scripts/approved_gallery_visibility.py"
     ],
     "scripts/verify_guru_note5.py": [
       "scripts/approved_guru_note5.py",
@@ -8618,6 +8659,23 @@
       "releases.json",
       "scripts/ci/manifest.json",
       "scripts/approved_guru_note4.py"
+    ],
+    "scripts/approved_gallery_visibility.py": [
+      "scripts/fixtures/approved-gallery-visibility.json"
+    ],
+    "scripts/verify_gallery_visibility.py": [
+      "scripts/approved_gallery_visibility.py",
+      "src/assets/style.css",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "src/app/player.js",
+      "releases.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_guru_note5.py"
+    ],
+    "scripts/verify_gallery_visibility_browser.cjs": [
+      "scripts/fixtures/approved-gallery-visibility.json",
+      "scripts/verify_visible_art_browser.cjs"
     ]
   },
   "policy_paths": [
@@ -8954,7 +9012,9 @@
     "scripts/approved_guru_note4.py",
     "scripts/fixtures/approved-guru-note4.json",
     "scripts/approved_guru_note5.py",
-    "scripts/fixtures/approved-guru-note5.json"
+    "scripts/fixtures/approved-guru-note5.json",
+    "scripts/approved_gallery_visibility.py",
+    "scripts/fixtures/approved-gallery-visibility.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9388,6 +9448,13 @@
         "after_sha256": "601f44841bd03d288cc5e23c0b7c1fd33c25b667d52d4cc45b9d0b81de1f370e",
         "groups": [
           "list_year_restore"
+        ]
+      },
+      {
+        "before_sha256": "601f44841bd03d288cc5e23c0b7c1fd33c25b667d52d4cc45b9d0b81de1f370e",
+        "after_sha256": "52ff1836949cf33752921951380dd244d711f1f5267ca19dff1668333a0c3aa8",
+        "groups": [
+          "gallery_visibility"
         ]
       }
     ],
