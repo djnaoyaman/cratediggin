@@ -72410,9 +72410,9 @@
         "evidence": "2017-09-22; performers Rapsody/Kendrick/Lance; producer9thWonder; TerraceMartin keyboards"
       },
       {
-        "label": "rapsody.bandcamp.com — Power (feat. Kendrick Lamar & Lance Skiiiwalker)",
+        "label": "Rapsody — アーティスト所在地（Bandcamp）",
         "url": "https://rapsody.bandcamp.com/album/for-everything",
-        "kind": "アーティスト・レーベル公式",
+        "kind": "プロフィール地域情報",
         "evidence": "Artist account tagged North Carolina"
       },
       {
@@ -72458,8 +72458,8 @@
       "verification": "ユーザー提供の動画。再生状況・埋め込み可否は確認中。日本所在地からの実再生は未確認。"
     },
     "versionBasis": "同じIDを記載した2017年の記事から曲名・客演を照合。現行チャンネル情報、動画内の編集・マスター同一性は未確認。",
-    "audioVerificationStatus": "ユーザー提供の動画。再生状況・埋め込み可否は確認中。",
-    "editorialStatus": "ユーザー提供の動画。再生状況・埋め込み可否は確認中。",
+    "audioVerificationStatus": "利用者の環境で再生確認済み（2026年10月24日）。環境により再生できない場合があります。",
+    "editorialStatus": "利用者の環境で再生確認済み（2026年10月24日）。環境により再生できない場合があります。",
     "listening": [],
     "facts": [],
     "samples": [],
@@ -72474,7 +72474,7 @@
     "noteReviewedAt": "2026-10-23",
     "editorSelectionMemory": {
       "heading": "音源の確認状況",
-      "text": "ユーザー提供の動画。再生状況・埋め込み可否は確認中。"
+      "text": "利用者の環境で再生確認済み（2026年10月24日）。環境により再生できない場合があります。"
     },
     "datePublished": "2026-10-23",
     "addedOrder": 556,
@@ -72496,6 +72496,16 @@
       "paletteSource": "Laila’s Wisdom",
       "paletteSourceUrl": "https://music.apple.com/us/album/lailas-wisdom/1440939999",
       "paletteNote": "公式カタログの既存確認済みジャケットを再度目視した編集上の配色。厳密な色抽出値ではない。人物・構図を複製せず、塗料片から言葉を築く独自文字アートとして制作。"
+    },
+    "userReportedPlayback": {
+      "status": "reported_playable",
+      "reportedDate": "2026-10-24",
+      "timezone": "Asia/Tokyo",
+      "environment": "iOS",
+      "videoId": "sVsehWDsoR0",
+      "provenance": "利用者からの再生報告",
+      "agentObserved": false,
+      "universalAvailabilityConfirmed": false
     }
   },
   {
