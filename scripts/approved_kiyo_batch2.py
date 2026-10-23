@@ -3,7 +3,8 @@ import json,hashlib
 R=Path(__file__).resolve().parents[1];sha=lambda b:hashlib.sha256(b).hexdigest()
 raw=(R/'scripts/fixtures/approved-kiyo-batch2.json').read_bytes();assert sha(raw)=='d4e139eb9aaadf88001a0907ce222e07b47814563c1bd3e1991287d28209ba58','Immutable batch fixture drift';F=json.loads(raw)
 def current_kiyo_batch2_file(path,data):
- return data
+ from approved_guru_note2 import historical_guru_note2_file
+ return historical_guru_note2_file(path,data)
 def historical_kiyo_batch2_file(path,data):
  data=current_kiyo_batch2_file(path,data);c=F['files'].get(path)
  if c is None:return data
