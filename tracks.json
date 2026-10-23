@@ -69229,8 +69229,8 @@
     "category": "Hip Hop",
     "id": "dreamville-bas-spin-move",
     "label": "Dreamville/Interscope Records",
-    "region": "未確認",
-    "scene": "未確認",
+    "region": "New York",
+    "scene": "Queens / Dreamville（Bas）",
     "essayTitle": "ゲームの中の一曲が、共演への入口に",
     "deck": "「Spin Move」に並ぶThe Hicsの名前から、Basとの出会いをさかのぼります。",
     "essay": [
@@ -69250,7 +69250,7 @@
     ],
     "listening": [],
     "yearBasis": "配信カタログの2020年1月16日発売に基づく。元の2019年版コンピレーションや動画投稿日とは区別。",
-    "regionBasis": "複数の参加者を一つの地域に結び付けず、地域は未確認とする。",
+    "regionBasis": "主名義のBasについて、Universal Musicの公式紹介がQueensでの成長と音楽活動を記載している。Dreamville全体や客演者を同じ地域とする分類ではなく、録音場所も示さない。",
     "producerBasis": "曲別のProducerクレジットにMonte Bookerを確認。",
     "versionBasis": "Director’s Cut版のオリジナル歌入り曲。カタログ3:43、公式音源metadata3:44。依頼ミックス3:34との編集・マスター同一性は未確認。",
     "context": "DreamvilleとBasの共演作から、The Hicsとのつながりへ。",
@@ -69308,6 +69308,11 @@
         "label": "Bringin’ it Backwards — The Hics インタビュー紹介",
         "url": "https://www.bringinitbackwards.com/videos/interview-with-the-hics/",
         "kind": "本人インタビュー主催者"
+      },
+      {
+        "label": "Universal Music France — Bas公式プロフィール",
+        "url": "https://www.universalmusic.fr/artistes/31004642429",
+        "kind": "レーベル公式"
       }
     ],
     "youtube": {
@@ -69651,8 +69656,8 @@
     "category": "Hip Hop",
     "id": "maxo-kream-drizzy-draco",
     "label": "RCA Records",
-    "region": "未確認",
-    "scene": "未確認",
+    "region": "Houston",
+    "scene": "Houston, Texas",
     "essayTitle": "本人がライブで選びたい一曲から",
     "deck": "Maxo Kreamが挙げたお気に入りを手がかりに、「Drizzy Draco」へ。",
     "essay": [
@@ -69671,7 +69676,7 @@
     ],
     "listening": [],
     "yearBasis": "配信カタログと公式音源が示す2019年に基づく。7月18日と19日の表記差は確定せず、年のみ掲載。",
-    "regionBasis": "この曲の資料から特定の地域を断定しない。",
+    "regionBasis": "2019年のVanity Fair本人インタビューがMaxo KreamをHoustonのラッパーとして紹介し、この曲にも言及している。録音場所を示す分類ではない。",
     "producerBasis": "公式音源の曲別Producer欄にRyan ESLを確認。映像の制作担当とは区別。",
     "versionBasis": "『Brandon Banks』のオリジナル歌入りアルバム版。カタログ2:35、音源metadata2:36。別曲・ライブ映像とは区別し、依頼ミックスとのマスター同一性は未確認。",
     "context": "『Brandon Banks』の一曲から、本人のお気に入りへ進みます。",
@@ -69711,6 +69716,11 @@
       {
         "label": "KDUP — Maxo Kream 本人インタビュー",
         "url": "https://sites.up.edu/kdup/interview-maxo-kream/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Vanity Fair — Maxo Kream本人インタビュー（2019年）",
+        "url": "https://www.vanityfair.com/style/2019/07/maxo-kream-brandon-banks-interview",
         "kind": "本人インタビュー"
       }
     ],
@@ -69912,8 +69922,8 @@
     "category": "Hip Hop",
     "id": "smoke-dza-currensy-boats-and-hoes",
     "label": "Cinematic Music Group",
-    "region": "未確認",
-    "scene": "未確認",
+    "region": "New York / New Orleans",
+    "scene": "Harlem / New Orleans",
     "essayTitle": "映画の冗談から生まれた、二人の合言葉",
     "deck": "「Boats & Hoes」と作品名をつなぐのは、Smoke DZAが語った映画の話。",
     "essay": [
@@ -69932,7 +69942,7 @@
     ],
     "listening": [],
     "yearBasis": "配信カタログの2019年11月29日発売に基づく。依頼ミックスの2020年や後年の再発とは区別。",
-    "regionBasis": "共同名義を一つの地域に結び付けず、地域は未確認とする。",
+    "regionBasis": "Smoke DZA本人インタビューのHarlemとの関係と、Babygrande公式紹介のCurren$yとNew Orleansとの関係に基づく共同名義の地域表記。録音場所ではない。",
     "producerBasis": "曲別のProducer欄にGirl Talkを確認。作詞作曲表記から推測したものではない。",
     "versionBasis": "『Prestige Worldwide』のオリジナル歌入り曲。リミックスやライブ表記のない選定音源だが、依頼ミックスとの編集・マスター同一性は未確認。",
     "context": "Smoke DZAとCurren$yの共作へ、曲名に込めた冗談から入ります。",
@@ -69979,6 +69989,16 @@
         "label": "AllHipHop — Smoke DZA インタビュー",
         "url": "https://allhiphop.com/features/smoke-dza-talks-recording-prestige-worldwide-with-currensy/",
         "kind": "本人インタビュー"
+      },
+      {
+        "label": "Interview Magazine — Smoke DZA本人インタビュー",
+        "url": "https://www.interviewmagazine.com/music/discovery-smoke-dza",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Babygrande — Plan of Attack公式紹介・制作クレジット",
+        "url": "https://store.babygrande.com/collections/homepage/products/plan-of-attack-standard-vinyl",
+        "kind": "レーベル公式"
       }
     ],
     "youtube": {
@@ -70188,8 +70208,8 @@
     "id": "larry-june-oranges-on-a-jet",
     "producer": "Cardo",
     "label": "未確認",
-    "region": "未確認",
-    "scene": "未確認",
+    "region": "San Francisco Bay Area",
+    "scene": "San Francisco / Hunters Point",
     "essayTitle": "二人の名前から、次の一曲へ",
     "deck": "Larry June、Curren$y、そしてCardo。「Oranges On A Jet」を三つの入口に。",
     "essay": [
@@ -70208,7 +70228,7 @@
     ],
     "listening": [],
     "yearBasis": "公式配信とApple Musicの2019年6月29日発売に基づく。2021年の動画投稿とは区別。",
-    "regionBasis": "曲の資料から地域を断定しない。",
+    "regionBasis": "Larry June本人インタビューが示すSan Francisco・Hunters Pointとの関係に基づく活動シーンの分類。Atlantaで育った時期と区別し、曲の録音場所を示すものではない。",
     "producerBasis": "公式配信の曲別Producer欄にCardoと記載。",
     "versionBasis": "Curren$yを迎えた2019年の歌入り曲。後年のリミックスとは区別し、依頼ミックスとの編集・マスター同一性は未確認。",
     "context": "Larry Juneのアルバムから、Curren$yとの共演へ。",
@@ -70253,6 +70273,11 @@
         "label": "Apple Music — Mr. Midnight",
         "url": "https://music.apple.com/us/album/mr-midnight/1551703720",
         "kind": "配信カタログ"
+      },
+      {
+        "label": "UPROXX — Larry June本人インタビュー：San Franciscoとの関係",
+        "url": "https://uproxx.com/music/larry-june-interview-san-francisco/",
+        "kind": "本人インタビュー"
       }
     ],
     "youtube": {
@@ -70322,8 +70347,8 @@
     "id": "larry-june-mission-bay",
     "producer": "K. Fisha",
     "label": "The Freeminded Records",
-    "region": "未確認",
-    "scene": "未確認",
+    "region": "San Francisco Bay Area",
+    "scene": "San Francisco / Hunters Point",
     "essayTitle": "二分あまりを入口に、一枚をひらく",
     "deck": "「Mission Bay」から、Larry Juneの『Out The Trunk』を少しずつ。",
     "essay": [
@@ -70343,7 +70368,7 @@
     ],
     "listening": [],
     "yearBasis": "公式配信とApple Musicの2019年9月3日発売に基づく。2021年の動画投稿とは区別。",
-    "regionBasis": "曲の資料から地域を断定しない。",
+    "regionBasis": "Larry June本人インタビューが示すSan Francisco・Hunters Pointとの関係に基づく活動シーンの分類。Atlantaで育った時期と区別し、曲の録音場所を示すものではない。",
     "producerBasis": "公式配信の曲別Producer欄にK. Fishaと記載。ミキシング担当とは区別。",
     "versionBasis": "『Out The Trunk』の2019年の歌入り曲。後年のリミックスとは区別し、依頼ミックスとの編集・マスター同一性は未確認。",
     "context": "Larry Juneの一曲から、作品と制作クレジットへ。",
@@ -70391,6 +70416,11 @@
         "label": "Shazam — Mission Bay 制作クレジット",
         "url": "https://www.shazam.com/song/1551703604/mission-bay",
         "kind": "配信カタログ"
+      },
+      {
+        "label": "UPROXX — Larry June本人インタビュー：San Franciscoとの関係",
+        "url": "https://uproxx.com/music/larry-june-interview-san-francisco/",
+        "kind": "本人インタビュー"
       }
     ],
     "youtube": {
@@ -70461,8 +70491,8 @@
     "id": "maez301-eff-u-thought",
     "producer": "Ervin \"EP\" Pope",
     "label": "未確認",
-    "region": "未確認",
-    "scene": "未確認",
+    "region": "Los Angeles",
+    "scene": "Los Angeles（活動拠点） / Maryland（育った地域）",
     "essayTitle": "客演の名前を、次の行き先に",
     "deck": "Maez301の「Eff U Thought」で、Lex Bratcherの名前も覚えておきたい。",
     "essay": [
@@ -70483,7 +70513,7 @@
     ],
     "listening": [],
     "yearBasis": "レーベルのAudiomackとApple Musicの2020年1月31日発売に基づく。同年9月のアルバム発売とは区別。",
-    "regionBasis": "曲の資料から地域を断定しない。",
+    "regionBasis": "2019年のMusic Connection本人インタビューはMaez301をMaryland育ち、Los Angeles拠点と区別して紹介している。地域分類は活動拠点に基づき、録音場所や客演者の出身地は示さない。",
     "producerBasis": "レーベルの曲別制作欄と公式映像にErvin “EP” Popeと記載。",
     "versionBasis": "Lex Bratcherを迎えた曲の公式ミュージックビデオ。映像3:38とアルバム3:32の編集差、依頼ミックスとのマスター同一性は未確認。",
     "context": "Maez301の一曲から、Lex Bratcherとの共演へ。",
@@ -70534,6 +70564,11 @@
         "label": "Apple Music — Hasaan",
         "url": "https://music.apple.com/us/album/hasaan/1530052482",
         "kind": "配信カタログ"
+      },
+      {
+        "label": "Music Connection — Maez301本人インタビュー（2019年）",
+        "url": "https://www.musicconnection.com/signing-story-maez301/",
+        "kind": "本人インタビュー"
       }
     ],
     "youtube": {
@@ -70604,8 +70639,8 @@
     "id": "big-kahuna-og-fly-anakin-tech-grey-sweats",
     "producer": "Fly Anakin",
     "label": "MUTANT ACADEMY",
-    "region": "未確認",
-    "scene": "未確認",
+    "region": "Richmond",
+    "scene": "Richmond, Virginia / Mutant Academy",
     "essayTitle": "ラップとビート、役割から見つける一曲",
     "deck": "Big Kahuna OGとFly Anakinの名前を、制作の役割からたどってみる。",
     "essay": [
@@ -70624,7 +70659,7 @@
     ],
     "listening": [],
     "yearBasis": "公式Bandcampの2020年3月6日発売に基づく。後年の配信・リマスター告知とは区別。",
-    "regionBasis": "曲の資料から地域を断定しない。",
+    "regionBasis": "Mutant Academy公式Bandcampの所在地と360 SANTANAの地域タグがRichmond, Virginiaを示す。共同制作のシーンとしての分類であり、録音場所を断定するものではない。",
     "producerBasis": "公式Bandcampのbeats担当にFly Anakinと記載。ラップ・ミックス・マスター担当とは区別。",
     "versionBasis": "選定音源は歌入り曲。現在のBandcampはリマスターを案内しているが、選定音源が旧版かリマスターか、依頼ミックスとの同一性は未確認。",
     "context": "二人のクレジットから、アルバムの役割分担へ。",
@@ -70650,6 +70685,11 @@
         "label": "Amazon Music — 360 SANTANA",
         "url": "https://music.amazon.in/albums/B09R9CPK4W",
         "kind": "配信カタログ"
+      },
+      {
+        "label": "Mutant Academy — 公式プロフィール・所在地",
+        "url": "https://mutantacademyrva.bandcamp.com/music",
+        "kind": "アーティスト公式"
       }
     ],
     "youtube": {
@@ -70719,8 +70759,8 @@
     "id": "not-pressure",
     "producer": "Kevin Katana",
     "label": "未確認",
-    "region": "未確認",
-    "scene": "未確認",
+    "region": "Florida",
+    "scene": "Lake Worth / South Florida",
     "essayTitle": "一曲から制作名をたどる",
     "deck": "「PRESSURE」を入口に、$NOTとKevin Katanaを知る。",
     "essay": [
@@ -70737,7 +70777,7 @@
     ],
     "listening": [],
     "yearBasis": "公式作品カタログの2020年発売に基づく。依頼ミックスの年から推測したものではない。",
-    "regionBasis": "曲の資料から地域を断定しない。",
+    "regionBasis": "本人取材がLake Worthを拠点として記載し、広報資料もSouth Floridaのシーンとの関係を示す。New York出生と活動地域を分け、録音場所を示すものではない。",
     "producerBasis": "曲別の制作表記にKevin Katanaと記載。",
     "versionBasis": "本人の公式アルバム音源を選定。別映像や速度変更版ではなく、依頼ミックスとの編集・マスター同一性は未確認。",
     "context": "曲名を入口に、$NOTの作品へ進みます。",
@@ -70757,6 +70797,16 @@
         "label": "Apple Music — PRESSURE",
         "url": "https://music.apple.com/us/song/1505631497",
         "kind": "配信カタログ"
+      },
+      {
+        "label": "Broward Palm Beach New Times — $NOT本人インタビュー",
+        "url": "https://www.browardpalmbeach.com/music/interview-with-west-palm-beach-rapper-not-11295989/",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Audible Treats — $NOT公式広報資料",
+        "url": "https://audibletreats.com/snot_pr19-2/",
+        "kind": "アーティスト広報"
       }
     ],
     "youtube": {
@@ -70827,8 +70877,8 @@
     "id": "lute-ged",
     "producer": "JSmash / mixMP / Patrick \"Guitarboy\" Hayes",
     "label": "Dreamville/Interscope Records",
-    "region": "未確認",
-    "scene": "未確認",
+    "region": "North Carolina",
+    "scene": "Charlotte, North Carolina",
     "essayTitle": "一曲の後ろにいる作り手たち",
     "deck": "Luteの「GED」を、制作クレジットからひらく。",
     "essay": [
@@ -70847,7 +70897,7 @@
     ],
     "listening": [],
     "yearBasis": "公式レーベルの2020年2月4日シングル発売に基づく。後年のアルバム配信や2022年の動画投稿とは区別。",
-    "regionBasis": "曲の資料から地域を断定しない。",
+    "regionBasis": "GED発表時のCharlotte Observer本人インタビューと現地取材がLuteのCharlotteでの成長・音楽活動を記載している。録音場所を示す分類ではない。",
     "producerBasis": "曲別のProducer欄に記された三名。作詞作曲表記からの推測ではない。",
     "versionBasis": "2020年のシングル曲を、後年の『Gold Mouf』公式配信音源で紹介。依頼ミックスとの編集・マスター同一性は未確認。",
     "context": "Luteの一曲から、シングルとアルバムのつながりへ。",
@@ -70872,6 +70922,11 @@
         "label": "Apple Music — GED",
         "url": "https://music.apple.com/us/song/1586713299",
         "kind": "配信カタログ"
+      },
+      {
+        "label": "Charlotte Observer — Lute本人インタビュー・GED地元公演（2020年）",
+        "url": "https://www.charlotteobserver.com/entertainment/music-news-reviews/article241012086.html",
+        "kind": "本人インタビュー・現地取材"
       }
     ],
     "youtube": {
@@ -70943,8 +70998,8 @@
     "id": "curren-y-trademark-da-skydiver-young-roddy-still-coolie-in-the-cut",
     "producer": "Djay Cas",
     "label": "Babygrande Records",
-    "region": "未確認",
-    "scene": "未確認",
+    "region": "New Orleans",
+    "scene": "New Orleans / Jet Life",
     "essayTitle": "三人の名前から、次の一枚へ",
     "deck": "「Still Coolie in the Cut」で、連名の作品をたどる。",
     "essay": [
@@ -70963,7 +71018,7 @@
     ],
     "listening": [],
     "yearBasis": "公式作品カタログの2019年発売に基づく。動画投稿年とは区別。",
-    "regionBasis": "共同名義を一つの地域に結び付けず、地域は未確認とする。",
+    "regionBasis": "BabygrandeのPlan of Attack公式紹介はCurren$y、Trademark Da Skydiver、Young Roddyの3名をNew Orleansのアーティストとして紹介する。Atlantaでの録音クレジットとは区別したシーン分類。",
     "producerBasis": "曲別の制作表記にDjay Casと記載。",
     "versionBasis": "アルバムの歌入り曲を公式レーベル投稿で紹介。再生不可の旧Topic投稿は選定せず、依頼ミックスとのマスター同一性は未確認。",
     "context": "三人の共演から、アルバムの一曲へ。",
@@ -70990,6 +71045,11 @@
         "label": "Official Topic metadata — credits only; unavailable audio",
         "url": "https://www.youtube.com/watch?v=1TdUaClxTHA",
         "kind": "公式配信クレジット"
+      },
+      {
+        "label": "Babygrande — Plan of Attack公式紹介・制作クレジット",
+        "url": "https://store.babygrande.com/collections/homepage/products/plan-of-attack-standard-vinyl",
+        "kind": "レーベル公式"
       }
     ],
     "youtube": {
@@ -71056,8 +71116,8 @@
     "id": "larry-june-something-gotta-change",
     "producer": "未確認",
     "label": "The Freeminded Records",
-    "region": "未確認",
-    "scene": "未確認",
+    "region": "San Francisco Bay Area",
+    "scene": "San Francisco / Hunters Point",
     "essayTitle": "曲名を目印に、一枚の後半へ",
     "deck": "Larry Juneの「Something Gotta Change」からアルバムへ。",
     "essay": [
@@ -71076,7 +71136,7 @@
     ],
     "listening": [],
     "yearBasis": "公式配信と作品カタログの2019年11月9日発売に基づく。2021年の動画投稿とは区別。",
-    "regionBasis": "曲の資料から地域を断定しない。",
+    "regionBasis": "Larry June本人インタビューが示すSan Francisco・Hunters Pointとの関係に基づく活動シーンの分類。Atlantaで育った時期と区別し、曲の録音場所を示すものではない。",
     "producerBasis": "Producerは一次資料未確認。Todd Cooperのミキシング担当を制作担当へ置き換えない。",
     "versionBasis": "『Product of the Dope Game』の歌入り曲。依頼ミックスとの編集・マスター同一性は未確認。",
     "context": "Larry Juneの一曲を目印に、アルバムの後半へ。",
@@ -71101,6 +71161,11 @@
         "label": "Shazam — Something Gotta Change credits",
         "url": "https://www.shazam.com/song/1551703938/something-gotta-change",
         "kind": "配信カタログ"
+      },
+      {
+        "label": "UPROXX — Larry June本人インタビュー：San Franciscoとの関係",
+        "url": "https://uproxx.com/music/larry-june-interview-san-francisco/",
+        "kind": "本人インタビュー"
       }
     ],
     "youtube": {

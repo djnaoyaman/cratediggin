@@ -5256,6 +5256,18 @@
       "legacy": false,
       "requires_build": true,
       "label": "guru-note3"
+    },
+    {
+      "id": "region-completion",
+      "argv": [
+        "python",
+        "scripts/verify_region_completion.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "region-completion"
     }
   ],
   "groups": {
@@ -6190,6 +6202,9 @@
     ],
     "guru_note3": [
       "guru-note3"
+    ],
+    "region_completion": [
+      "region-completion"
     ]
   },
   "runtime_rules": {
@@ -8488,7 +8503,8 @@
       "scripts/approved_kiyo_batch2.py"
     ],
     "scripts/approved_guru_note3.py": [
-      "scripts/fixtures/approved-guru-note3.json"
+      "scripts/fixtures/approved-guru-note3.json",
+      "scripts/approved_region_completion.py"
     ],
     "scripts/verify_guru_note3.py": [
       "scripts/approved_guru_note3.py",
@@ -8496,6 +8512,16 @@
       "releases.json",
       "scripts/ci/manifest.json",
       "scripts/approved_guru_note2.py"
+    ],
+    "scripts/approved_region_completion.py": [
+      "scripts/fixtures/approved-region-completion.json"
+    ],
+    "scripts/verify_region_completion.py": [
+      "scripts/approved_region_completion.py",
+      "tracks.json",
+      "releases.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_guru_note3.py"
     ]
   },
   "policy_paths": [
@@ -8824,7 +8850,9 @@
     "scripts/approved_guru_note2.py",
     "scripts/fixtures/approved-guru-note2.json",
     "scripts/approved_guru_note3.py",
-    "scripts/fixtures/approved-guru-note3.json"
+    "scripts/fixtures/approved-guru-note3.json",
+    "scripts/approved_region_completion.py",
+    "scripts/fixtures/approved-region-completion.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -10166,6 +10194,13 @@
         "after_sha256": "2afa91edb731cbb6fe5e7df55ce2bcce7928c9e97078b067abe461534e2bb98b",
         "groups": [
           "guru_note3"
+        ]
+      },
+      {
+        "before_sha256": "2afa91edb731cbb6fe5e7df55ce2bcce7928c9e97078b067abe461534e2bb98b",
+        "after_sha256": "3926847a46ac18474c6df2525f993b6b8e2f0a0e9b706ad89a770f8308756fa2",
+        "groups": [
+          "region_completion"
         ]
       }
     ],
