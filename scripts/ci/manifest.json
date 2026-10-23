@@ -5196,6 +5196,18 @@
       "legacy": false,
       "requires_build": true,
       "label": "kiyo-batch1-browser"
+    },
+    {
+      "id": "list-year-restore",
+      "argv": [
+        "python",
+        "scripts/verify_list_year_restore.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "list-year-restore"
     }
   ],
   "groups": {
@@ -6117,6 +6129,9 @@
     "kiyo_batch1": [
       "kiyo-batch1",
       "kiyo-batch1-browser"
+    ],
+    "list_year_restore": [
+      "list-year-restore"
     ]
   },
   "runtime_rules": {
@@ -8360,7 +8375,8 @@
       "scripts/approved_free99_addition.py"
     ],
     "scripts/approved_kiyo_batch1.py": [
-      "scripts/fixtures/approved-kiyo-batch1.json"
+      "scripts/fixtures/approved-kiyo-batch1.json",
+      "scripts/approved_list_year_restore.py"
     ],
     "scripts/verify_kiyo_batch1.py": [
       "scripts/approved_kiyo_batch1.py",
@@ -8373,6 +8389,17 @@
     ],
     "scripts/verify_kiyo_batch1_browser.cjs": [
       "scripts/fixtures/approved-kiyo-batch1.json"
+    ],
+    "scripts/approved_list_year_restore.py": [
+      "scripts/fixtures/approved-list-year-restore.json"
+    ],
+    "scripts/verify_list_year_restore.py": [
+      "scripts/approved_list_year_restore.py",
+      "src/assets/style.css",
+      "src/app/player.js",
+      "releases.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_kiyo_batch1.py"
     ]
   },
   "policy_paths": [
@@ -8693,7 +8720,9 @@
     "scripts/approved_guru_note1.py",
     "scripts/fixtures/approved-guru-note1.json",
     "scripts/approved_kiyo_batch1.py",
-    "scripts/fixtures/approved-kiyo-batch1.json"
+    "scripts/fixtures/approved-kiyo-batch1.json",
+    "scripts/approved_list_year_restore.py",
+    "scripts/fixtures/approved-list-year-restore.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9120,6 +9149,13 @@
         "after_sha256": "fc5bd6a3252ae85760be8182e93a4ccfea99ae90cb4cbb139f2c11a443c3eb65",
         "groups": [
           "reader_research_notes"
+        ]
+      },
+      {
+        "before_sha256": "fc5bd6a3252ae85760be8182e93a4ccfea99ae90cb4cbb139f2c11a443c3eb65",
+        "after_sha256": "601f44841bd03d288cc5e23c0b7c1fd33c25b667d52d4cc45b9d0b81de1f370e",
+        "groups": [
+          "list_year_restore"
         ]
       }
     ],

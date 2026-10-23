@@ -3,7 +3,8 @@ import json,hashlib
 R=Path(__file__).resolve().parents[1];sha=lambda b:hashlib.sha256(b).hexdigest()
 raw=(R/'scripts/fixtures/approved-kiyo-batch1.json').read_bytes();assert sha(raw)=='419008b8731764e294f6a5ed1b1acd77af101bef5f4d0fd883e1489caab1586f','Immutable batch fixture drift';F=json.loads(raw)
 def current_kiyo_batch1_file(path,data):
- return data
+ from approved_list_year_restore import historical_list_year_restore_file
+ return historical_list_year_restore_file(path,data)
 def historical_kiyo_batch1_file(path,data):
  data=current_kiyo_batch1_file(path,data);c=F['files'].get(path)
  if c is None:return data
