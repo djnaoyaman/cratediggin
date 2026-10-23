@@ -279,8 +279,12 @@ body[data-art-owner] #art-wall-background{display:block}body[data-art-owner]::be
 body[data-art-owner] .art-view,body[data-art-owner] .art-view.image-art{background:transparent;border:0;box-shadow:none}
 
 /* Explicit navigation affordances never cover ART or the native player. */
-#back-to-top{position:fixed;right:max(16px,env(safe-area-inset-right));bottom:max(16px,env(safe-area-inset-bottom));min-width:64px;min-height:44px;padding:8px 14px;background:var(--paper);color:var(--ink);border:1px solid var(--ink);z-index:60;font-weight:700;box-shadow:0 2px 12px #141b2d18}
-#back-to-top[hidden],body[data-art-owner] #back-to-top{display:none}
+#back-to-top{position:fixed;right:calc(max(16px,env(safe-area-inset-right)) + var(--top-return-shift,0px));bottom:calc(max(16px,env(safe-area-inset-bottom)) + var(--top-return-lift,0px));min-width:64px;min-height:44px;padding:8px 14px;background:var(--paper);color:var(--ink);border:1px solid var(--ink);border-radius:24px;z-index:60;font-weight:700;box-shadow:0 2px 12px #141b2d18;animation:top-return-enter 180ms ease-out both}
+@keyframes top-return-enter{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+#back-to-top:focus-visible{outline:3px solid var(--blue);outline-offset:3px}
+@media(prefers-reduced-motion:reduce){#back-to-top{animation:none}}
+body.reduce-motion #back-to-top{animation:none}
+#back-to-top[hidden],body[data-art-owner] #back-to-top,body:has(#art-view:not([hidden])) #back-to-top,body:has(dialog[open]) #back-to-top{display:none}
 #enter-crate:focus-visible{outline:3px solid white;outline-offset:4px}
 
 .shuffle-mixer{position:relative;min-height:260px;overflow:hidden;border-block:1px solid var(--line);padding:24px 12px;background:var(--off);perspective:700px}
@@ -396,8 +400,6 @@ body[data-art-mode=video] .art-signature{display:none}
 #view .results-pagination select{border:1px solid var(--line);min-height:44px;background:var(--paper)}
 #view .record-row{border-top:0;border-bottom:1px solid var(--line)}
 #view .record-row>.record-card{border:0}
-#back-to-top.back-to-top-inline{position:static;display:block;width:max-content;max-width:100%;margin:20px 0 20px auto;box-shadow:none;border:0;background:var(--off);min-height:44px}
-#back-to-top.back-to-top-inline[hidden],body[data-art-owner] #back-to-top.back-to-top-inline{display:none}
 /* Source-led text features remain honest typography, without placeholder portraits. */
 .feature-card--text{display:flex;flex-direction:column;justify-content:center;gap:16px;min-height:240px;padding:24px;align-self:start;background:transparent;border:1px solid var(--ink);overflow-wrap:anywhere}
 .feature-card--text h3{font-size:clamp(28px,4vw,48px);line-height:1.05}

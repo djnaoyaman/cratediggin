@@ -18,8 +18,37 @@
  function renewalScrollBehavior(){return matchMedia('(prefers-reduced-motion: reduce)').matches||document.body.classList.contains('reduce-motion')?'instant':'smooth'}
  const enterCrate=$('#enter-crate');if(enterCrate)enterCrate.onclick=e=>{e.preventDefault();const target=$('#search')||$('#view');target?.focus({preventScroll:true});target?.scrollIntoView({block:'center',behavior:renewalScrollBehavior()})};
  const backToTop=$('#back-to-top');let renewalScrollFrame=0;
- function refreshBackToTop(){renewalScrollFrame=0;if(backToTop){const results=$('#results'),view=$('#view'),inline=Boolean(view);if(inline){if(results){if(backToTop.previousElementSibling!==results)results.after(backToTop)}else if(backToTop.parentNode!==view||view.lastElementChild!==backToTop)view.append(backToTop)}else if(backToTop.parentNode!==document.body)document.body.insertBefore(backToTop,$('#art-wall-background'));backToTop.classList.toggle('back-to-top-inline',Boolean(inline));const b={left:innerWidth-140,right:innerWidth,top:innerHeight-100,bottom:innerHeight},overlap=[...document.querySelectorAll('iframe')].some(f=>{const r=f.getBoundingClientRect();return r.width>0&&r.height>0&&r.right>b.left&&r.left<b.right&&r.bottom>b.top&&r.top<b.bottom});backToTop.hidden=scrollY<Math.max(600,innerHeight)||!art.hidden||(!inline&&overlap);}}
- if(backToTop){backToTop.onclick=()=>{const target=$('.brand');target?.focus({preventScroll:true});window.scrollTo({top:0,behavior:renewalScrollBehavior()})};addEventListener('scroll',()=>{if(!renewalScrollFrame)renewalScrollFrame=requestAnimationFrame(refreshBackToTop)},{passive:true});addEventListener('resize',refreshBackToTop);refreshBackToTop();}
+ function scheduleBackToTop(){if(!renewalScrollFrame)renewalScrollFrame=requestAnimationFrame(refreshBackToTop)}
+ function refreshBackToTop(){
+  if(renewalScrollFrame)cancelAnimationFrame(renewalScrollFrame);renewalScrollFrame=0;if(!backToTop)return;
+  // Keep the original control outside route content so progressive lists cannot move it away.
+  if(backToTop.parentNode!==document.body)document.body.insertBefore(backToTop,$('#art-wall-background'));
+  if(scrollY<Math.max(600,innerHeight)||!art.hidden||document.querySelector('dialog[open],[aria-modal="true"]:not([hidden])')){backToTop.hidden=true;return}
+  const viewport=window.visualViewport,baseLift=viewport?Math.max(0,innerHeight-viewport.height-viewport.offsetTop):0;
+  backToTop.hidden=false;
+  // Never cover provider pixels, player controls, open row actions or the focused control.
+  const controls=[...document.querySelectorAll('iframe,video,#listening-player,.sample-video,#inline-player-panel,.row-actions:not([hidden]),.row-menu,.transport,.filter-bar,.list-tools,.crate-sort,.advanced-filters,.search,.shuffle-area button')];
+  const focused=document.activeElement;if(focused&&focused!==backToTop&&focused.matches('button,input,select,textarea,summary,a[href],[role="button"]'))controls.push(focused);
+  const boxes=controls.filter(e=>e.getClientRects().length&&getComputedStyle(e).visibility!=='hidden').map(e=>e.getBoundingClientRect()).filter(r=>r.width>1&&r.height>1&&r.bottom>0&&r.top<innerHeight);
+  // HOME row menus can form a continuous right-hand strip; try a clear horizontal lane too.
+  for(const shift of [0,64]){
+   let lift=baseLift;backToTop.style.setProperty('--top-return-shift',shift+'px');backToTop.style.setProperty('--top-return-lift',lift+'px');
+   for(let attempt=0;attempt<=boxes.length;attempt++){
+    const b=backToTop.getBoundingClientRect();if(b.top<72||b.right>innerWidth||b.left<0)break;
+    const overlap=boxes.filter(r=>r.right>b.left-8&&r.left<b.right+8&&r.bottom>b.top-8&&r.top<b.bottom+8);if(!overlap.length)return;
+    lift+=Math.max(...overlap.map(r=>b.bottom-r.top+12));backToTop.style.setProperty('--top-return-lift',lift+'px');
+   }
+  }
+  backToTop.hidden=true;
+ }
+ if(backToTop){
+  backToTop.onclick=()=>{const target=$('.brand');target?.focus({preventScroll:true});window.scrollTo({top:0,behavior:renewalScrollBehavior()})};
+  addEventListener('scroll',scheduleBackToTop,{passive:true});addEventListener('resize',scheduleBackToTop);
+  window.visualViewport?.addEventListener('scroll',scheduleBackToTop,{passive:true});window.visualViewport?.addEventListener('resize',scheduleBackToTop);
+  document.addEventListener('focusin',scheduleBackToTop);document.addEventListener('focusout',scheduleBackToTop);document.addEventListener('click',scheduleBackToTop);
+  if(typeof MutationObserver==='function'){const observer=new MutationObserver(scheduleBackToTop);observer.observe(document.body,{attributes:true,attributeFilter:['class','data-art-owner','data-player-folded','data-player-presentation']});observer.observe(art,{attributes:true,attributeFilter:['hidden']});document.querySelectorAll('dialog').forEach(d=>observer.observe(d,{attributes:true,attributeFilter:['open']}))}
+  refreshBackToTop();
+ }
 
  // Installation stays a user-owned browser action; no service worker or permissions are registered.
  function refreshBrowserSaveTools(){const group=$('.browser-save-tools');if(group)group.hidden=[...group.querySelectorAll('button')].every(b=>b.hidden)}
