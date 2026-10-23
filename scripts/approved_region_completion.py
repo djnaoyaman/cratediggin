@@ -5,7 +5,8 @@ sha=lambda b:hashlib.sha256(b).hexdigest()
 raw=(R/"scripts/fixtures/approved-region-completion.json").read_bytes();assert sha(raw)=="7686f694f0129d8e4b021fca0841ec23f785cecf04dae788ab07e7e6eb33424e",'Immutable region fixture drift'
 F=json.loads(raw)
 def current_region_completion_file(path,data):
- return data
+ from approved_kiyo_batch3 import historical_kiyo_batch3_file
+ return historical_kiyo_batch3_file(path,data)
 def historical_region_completion_file(path,data):
  data=current_region_completion_file(path,data);c=F['files'].get(path)
  if c is None:return data
