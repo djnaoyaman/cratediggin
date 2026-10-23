@@ -5544,6 +5544,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "power-status-correction-browser"
+    },
+    {
+      "id": "ga-events-preservation",
+      "argv": [
+        "python",
+        "scripts/verify_ga_events.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": false,
+      "label": "Exact GA version delta and negative normalizer cases"
+    },
+    {
+      "id": "ga-events-runtime",
+      "argv": [
+        "node",
+        "scripts/verify_ga_events.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": false,
+      "label": "GA iframe origin/state and input privacy regressions"
     }
   ],
   "groups": {
@@ -6555,6 +6579,10 @@
       "power-status-correction-browser",
       "11cc02294f7b3422",
       "edf6a18bb0e41e73"
+    ],
+    "ga_events": [
+      "ga-events-preservation",
+      "ga-events-runtime"
     ]
   },
   "runtime_rules": {
@@ -9119,7 +9147,8 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/approved_power_status_correction.py": [
-      "scripts/fixtures/approved-power-status-correction.json"
+      "scripts/fixtures/approved-power-status-correction.json",
+      "scripts/approved_ga_events.py"
     ],
     "scripts/verify_power_status_correction.py": [
       "scripts/approved_power_status_correction.py",
@@ -9133,6 +9162,16 @@
     "scripts/verify_power_status_correction_browser.cjs": [
       "scripts/fixtures/approved-power-status-correction.json",
       "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_ga_events.py": [
+      "scripts/fixtures/approved-ga-events.json"
+    ],
+    "scripts/verify_ga_events.py": [
+      "scripts/approved_ga_events.py",
+      "scripts/fixtures/approved-ga-events.json"
+    ],
+    "scripts/verify_ga_events.cjs": [
+      "src/assets/analytics-privacy.js"
     ]
   },
   "policy_paths": [
@@ -9539,7 +9578,8 @@
     "research/intake-timeline-pair-20261021.json",
     "research/intake-blu-amnesia-20261021.json",
     "research/two-player-region-repair-20261021.json",
-    "research/intake-four-mix-20261021.json"
+    "research/intake-four-mix-20261021.json",
+    "ANALYTICS_EVENTS.md"
   ],
   "syntax_existing": [
     "dist/app.js",
@@ -12867,6 +12907,33 @@
         "after_sha256": "3af1d6dd8f225ada1109bfa923a6a9e623fb354822049d0b20a6b6918fcdf351",
         "groups": [
           "selected_concept"
+        ]
+      }
+    ],
+    "scripts/approved_ga_events.py": [
+      {
+        "before_sha256": null,
+        "after_sha256": "14683c9278b859c519d83432e3f9306116bf8abe4d7b72854de378b8a3becae9",
+        "groups": [
+          "ga_events"
+        ]
+      }
+    ],
+    "scripts/fixtures/approved-ga-events.json": [
+      {
+        "before_sha256": null,
+        "after_sha256": "a1af373fa35d521a2f8f50cb4f844f3edcb4944903e099d13eae999d740f4a14",
+        "groups": [
+          "ga_events"
+        ]
+      }
+    ],
+    "scripts/approved_power_status_correction.py": [
+      {
+        "before_sha256": "2d7b19bfb2629f5b93c2d7e8731f1a0106d82961c338e998c8bbbd50c0a31033",
+        "after_sha256": "3f85f40f00a56f6ffd7d562b342ee7cd4678cb41cb1bee94c0e571eb9e987ae1",
+        "groups": [
+          "ga_events"
         ]
       }
     ]

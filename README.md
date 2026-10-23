@@ -93,6 +93,3 @@ GA4に以下のイベントを送ります。ページ表示は実URLとタイ�
 ## 楽曲アートの制作・公開ルール
 
 [ARTWORK_NOTES.md](ARTWORK_NOTES.md)、[ADDING_TRACKS.md](ADDING_TRACKS.md)、[AGENTS.md](AGENTS.md) を次回以降も適用します。作品ジャケットの配色、実際の透過背景、壁面の描画演出、曲名・アーティスト名・CRATE DIGGIN・DJ Naoyamanを含むaltを共通基準とし、最初の42曲の公開後は40曲単位で進めます。現在のカタログは381曲で、新規追加曲も制作台帳に含めます。
-
-
-GA4の追加イベント: `sample_playback_start`（サンプル元の実再生開始、連続playing通知は除外）、`select_filter`（選曲条件の種類のみ）、`select_listening_shelf`（聴きどころの棚の公開ID）、`art_open`（手動でのアート表示）。自動アート表示、検索語、MY CRATE名はこれらのイベントに含めません。既存の再生・選曲・共有イベントを維持しています。

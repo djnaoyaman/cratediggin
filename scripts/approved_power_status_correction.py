@@ -2,7 +2,9 @@ from pathlib import Path
 import json,hashlib
 R=Path(__file__).resolve().parents[1];sha=lambda b:hashlib.sha256(b).hexdigest();enc=lambda o:(json.dumps(o,ensure_ascii=False,indent=2)+'\n').encode()
 raw=(R/'scripts/fixtures/approved-power-status-correction.json').read_bytes();assert sha(raw)=='830c5dbb03a3c98d4461285aa659bd878b28a72b75f6f1f4c4bab3b3f819adce','Immutable correction fixture drift';F=json.loads(raw)
-def current_power_status_correction_file(path,data):return data
+def current_power_status_correction_file(path,data):
+ from approved_ga_events import historical_ga_events_file
+ return historical_ga_events_file(path,data)
 def historical_power_status_correction_file(path,data):
  data=current_power_status_correction_file(path,data)
  if path=='audit-reports/maintenance.json'and sha(data)==F['generatedAuditSHA256']:

@@ -1,0 +1,10 @@
+const fs=require('fs'),vm=require('vm'),assert=require('node:assert/strict'),path=require('path');
+const calls=[],handlers={},origin='https://djnaoyaman.github.io',source={},frame={contentWindow:source};
+const document={addEventListener:(type,fn)=>handlers[type]=fn,getElementById:id=>id==='sample-yt'?frame:{hidden:false}};
+const window={gtag:(...args)=>calls.push(args),addEventListener:(type,fn)=>handlers[type]=fn};
+vm.runInNewContext(fs.readFileSync(path.join(__dirname,'../src/assets/analytics-privacy.js'),'utf8'),{window,document,location:{hostname:'djnaoyaman.github.io',origin,pathname:'/cratediggin/tracks/test-track.html'},URL,WeakMap,JSON});
+const fire=(state,extra={})=>handlers.message({origin:'https://www.youtube.com',source,data:JSON.stringify({event:'onStateChange',info:state}),...extra});
+fire(1,{origin:'https://example.com'});fire(1,{source:{}});assert.equal(calls.length,0);fire(1);fire(1);assert.equal(calls.length,1);assert.equal(calls[0][1],'sample_playback_start');assert.equal(calls[0][2].song_id,'test-track');fire(2);fire(1);assert.equal(calls.length,2);
+handlers.change({isTrusted:true,target:{tagName:'INPUT',id:'search',value:'PRIVATE_PROBE'}});assert.equal(calls.length,2);
+handlers.change({isTrusted:true,target:{tagName:'SELECT',id:'region',value:'PRIVATE_PROBE'}});assert.equal(calls.length,3);assert.equal(calls[2][2].filter_key,'region');assert.ok(!JSON.stringify(calls).includes('PRIVATE_PROBE'));
+window.gtag=()=>{throw Error('blocked')};window.CrateInteractionEvents.track('art_open');console.log('GA events: exact YouTube origin/window, playback dedupe, filters without input text, blocked analytics isolation pass');
