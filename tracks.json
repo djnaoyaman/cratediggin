@@ -71219,5 +71219,1114 @@
       "paletteSourceUrl": "https://music.apple.com/us/album/product-of-the-dope-game/1551703409",
       "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。"
     }
+  },
+  {
+    "title": "Poetic Justice",
+    "artist": "Kendrick Lamar",
+    "year": 2012,
+    "album": "good kid, m.A.A.d city",
+    "producers": [
+      "Scoop DeVille"
+    ],
+    "category": "Hip Hop",
+    "primaryArtist": "Kendrick Lamar",
+    "primaryArtists": [
+      "Kendrick Lamar"
+    ],
+    "featuredArtists": [
+      "Drake"
+    ],
+    "region": "West Coast",
+    "scene": "Compton",
+    "yearBasis": "Apple standard album release 2012-10-22; Topic describes ℗2012 with digital edition Released on2013-01-01, not original year.",
+    "producerBasis": "Explicit Producer role only. Unresolved credits omitted; no artist/songwriter/mixer inference.",
+    "regionBasis": "Artist origin/established scene as specifically identified below, not recording location",
+    "artists": [
+      "Kendrick Lamar",
+      "Drake"
+    ],
+    "id": "kendrick-lamar-poetic-justice",
+    "producer": "Scoop DeVille",
+    "label": "Aftermath/Interscope Records",
+    "essayTitle": "Drakeが入る前に、届いていた",
+    "deck": "Janet Jacksonの曲を作ったJimmy Jamが、サンプルの使われ方に驚いた。",
+    "essay": [
+      "Kendrick LamarとDrakeが共演する「Poetic Justice」は、Scoop DeVilleが制作した2012年の『good kid, m.A.A.d city』収録曲。Janet Jacksonの「Any Time, Any Place」をサンプリングしています。",
+      "原曲の制作に携わったJimmy Jamは、Dazedの取材で、サンプル許諾のために聴いた段階ではまだDrakeが参加していなかったと回想しています。その使い方に驚き、後にラジオで完成曲を聴くとJanetへ電話したそうです。完成曲の二人の後ろには、原曲の作り手まで喜ばせたアイデアがある。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        3
+      ]
+    ],
+    "listening": [],
+    "versionBasis": "Exact official unsuffixed work identity; user mixed duration is not used to assert exact DJ master. Apple standard album release 2012-10-22; Topic describes ℗2012 with digital edition Released on2013-01-01, not original year.",
+    "context": "Janet Jacksonの曲を作ったJimmy Jamが、サンプルの使われ方に驚いた。",
+    "facts": [],
+    "sources": [
+      {
+        "label": "Kendrick Lamar - Topic — 公式音源",
+        "url": "https://www.youtube.com/watch?v=XWQJdnmpnhc",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — good kid, m.A.A.d city（通常盤）",
+        "url": "https://music.apple.com/us/album/good-kid-m-a-a-d-city/1471263898",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Universal Music Japan — Kendrick Lamar Biography",
+        "url": "https://www.universal-music.co.jp/kendrick-lamar/biography/",
+        "kind": "レーベル公式",
+        "evidence": "Official biography identifies Compton, California as upbringing and the beginning of local rap activity.",
+        "basis": "origin and established music scene, not recording location"
+      },
+      {
+        "label": "Dazed — Jimmy Jam本人インタビュー：Poetic Justiceのサンプル許諾を回想",
+        "url": "https://www.dazeddigital.com/music/article/16704/1/dazed93-jimmy-jam-on-janet",
+        "kind": "制作参加者本人インタビュー"
+      }
+    ],
+    "youtube": {
+      "id": "XWQJdnmpnhc",
+      "url": "https://www.youtube.com/watch?v=XWQJdnmpnhc",
+      "title": "Poetic Justice",
+      "channel": "Kendrick Lamar - Topic",
+      "provider": "Universal Music Group",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/XWQJdnmpnhc",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "公式音源",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "本文で触れたサンプル以外は一次資料未確認。サンプル元の音源は未掲載。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 547,
+    "art": {
+      "word": "Poetic Justice",
+      "tag": "KENDRICK LAMAR",
+      "lines": [
+        "Poetic Justice"
+      ],
+      "style": "piece",
+      "seed": 202610250,
+      "palette": [
+        "#deddd3",
+        "#96967a",
+        "#282e23",
+        "#a48c58"
+      ],
+      "paletteSource": "good kid, m.A.A.d city — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/album/good-kid-m-a-a-d-city/1471263898",
+      "paletteNote": "公式掲載カバーを目視した編集上の近似配色。絵柄・ロゴ・構図や元の文字は再現していません。"
+    }
+  },
+  {
+    "title": "Feel the Vibe (feat. Anderson .Paak)",
+    "artist": "BJ The Chicago Kid",
+    "year": 2019,
+    "album": "1123",
+    "producers": [
+      "Danja"
+    ],
+    "category": "R&B",
+    "primaryArtist": "BJ The Chicago Kid",
+    "primaryArtists": [
+      "BJ The Chicago Kid"
+    ],
+    "featuredArtists": [
+      "Anderson .Paak"
+    ],
+    "region": "Chicago / Los Angeles",
+    "scene": "Chicago出身 / Los Angelesで活動",
+    "yearBasis": "Original release year supported by exact sources; not DJ mix year or later upload year.",
+    "producerBasis": "Explicit producer role only, never inferred from writing/mixing/executive role.",
+    "regionBasis": "Artist origin/established scene as specifically identified below, not recording location",
+    "artists": [
+      "BJ The Chicago Kid",
+      "Anderson .Paak"
+    ],
+    "id": "bj-the-chicago-kid-feel-the-vibe",
+    "producer": "Danja",
+    "label": "未確認",
+    "essayTitle": "二人の声と、三つの制作クレジット",
+    "deck": "BJ The Chicago KidとAnderson .Paak。その後ろにも、役割の違う名前が並ぶ。",
+    "essay": [
+      "BJ The Chicago Kidの「Feel the Vibe」にはAnderson .Paakが客演。2019年の『1123』に収められた曲です。歌う二人の名前を確かめたら、今度は制作欄へ。",
+      "公式配信のクレジットは、Danjaをプロデューサー、M Millzを追加プロデューサー、Aaron Sledgeをヴォーカル・プロデューサーとして区別しています。同じ「制作」に見えても、表記された仕事は一つではありません。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        0
+      ]
+    ],
+    "listening": [],
+    "versionBasis": "Unsuffixed original work supported by primary title/artist/album metadata. No remix/live/master identity substitution; exact DJ mix master not verified.",
+    "context": "BJ The Chicago KidとAnderson .Paak。その後ろにも、役割の違う名前が並ぶ。",
+    "facts": [],
+    "sources": [
+      {
+        "label": "BJ The Chicago Kid — 公式配信音源",
+        "url": "https://www.youtube.com/watch?v=ZooLtukzmJk",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — Feel the Vibe",
+        "url": "https://music.apple.com/us/song/1468033939",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Universal Music Japan — BJ The Chicago Kid Biography",
+        "url": "https://www.universal-music.co.jp/bj-the-chicago-kid/biography/",
+        "kind": "レーベル公式",
+        "evidence": "Official biography states Chicago origin and relocation to Los Angeles at age 19 to begin professional backing-vocal work.",
+        "basis": "Chicago origin and Los Angeles activity are distinguished"
+      }
+    ],
+    "youtube": {
+      "id": "ZooLtukzmJk",
+      "url": "https://www.youtube.com/watch?v=ZooLtukzmJk",
+      "title": "Feel the Vibe (feat. Anderson .Paak)",
+      "channel": "BJ The Chicago Kid - Topic",
+      "provider": "Universal Music Group",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/ZooLtukzmJk",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "公式音源",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ソウル"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 548,
+    "art": {
+      "word": "Feel the Vibe (feat. Anderson .Paak)",
+      "tag": "BJ THE CHICAGO KID",
+      "lines": [
+        "Feel the Vibe (feat. Anderson .Paak)"
+      ],
+      "style": "piece",
+      "seed": 202610251,
+      "palette": [
+        "#ead4a1",
+        "#af956b",
+        "#6b5538",
+        "#241e16"
+      ],
+      "paletteSource": "1123 — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/1468033939",
+      "paletteNote": "公式掲載カバーを目視した編集上の近似配色。絵柄・ロゴ・構図や元の文字は再現していません。"
+    }
+  },
+  {
+    "title": "Spaceship (feat. Buddy)",
+    "artist": "Asher Roth",
+    "year": 2020,
+    "album": "Flowers On the Weekend",
+    "producers": [
+      "Rob Devious"
+    ],
+    "category": "Hip Hop",
+    "primaryArtist": "Asher Roth",
+    "primaryArtists": [
+      "Asher Roth"
+    ],
+    "featuredArtists": [
+      "Buddy"
+    ],
+    "region": "Pennsylvania",
+    "scene": "Morrisville",
+    "yearBasis": "Original release year supported by exact sources; not DJ mix year or later upload year.",
+    "producerBasis": "Explicit producer role only, never inferred from writing/mixing/executive role.",
+    "regionBasis": "Artist origin/established scene as specifically identified below, not recording location",
+    "artists": [
+      "Asher Roth",
+      "Buddy"
+    ],
+    "id": "asher-roth-spaceship",
+    "producer": "Rob Devious",
+    "label": "未確認",
+    "essayTitle": "8曲目で、Buddyが加わる",
+    "deck": "Rob Devious制作の『Flowers on the Weekend』。8曲目の相手はBuddy。",
+    "essay": [
+      "「Spaceship」はAsher Rothの2020年作『Flowers on the Weekend』の8曲目で、Buddyが客演しています。本人のBandcampはアルバムの制作担当をRob Deviousと紹介しています。",
+      "同じ作品にはJoyce Wriceを迎えた「Hunnid」や、Lil Yachtyが参加する「Way More Fun」も収録。制作担当の名前を覚えたうえで、曲ごとに変わる客演者を見ていくと、「Spaceship」だけでは見えなかった一枚の顔ぶれがつながります。"
+    ],
+    "essaySources": [
+      [
+        1,
+        2
+      ],
+      [
+        1
+      ]
+    ],
+    "listening": [],
+    "versionBasis": "Unsuffixed original work supported by primary title/artist/album metadata. No remix/live/master identity substitution; exact DJ mix master not verified.",
+    "context": "曲から、参加した人の作品へ。",
+    "facts": [],
+    "sources": [
+      {
+        "label": "StrictlyHits — Spaceship公式音源",
+        "url": "https://www.youtube.com/watch?v=8EmVqQNt1Ds",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Asher Roth — Flowers on the Weekend",
+        "url": "https://asherroth.bandcamp.com/album/flowers-on-the-weekend",
+        "kind": "アーティスト公式"
+      },
+      {
+        "label": "Apple Music — Spaceship",
+        "url": "https://music.apple.com/us/song/1502779570",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Foundation Media — 公式チャンネル案内",
+        "url": "https://www.youtube.com/@FoundationMedia/about",
+        "kind": "配信元公式"
+      },
+      {
+        "label": "Asher Roth — official Bandcamp profile",
+        "url": "https://asherroth.bandcamp.com/",
+        "kind": "アーティスト公式",
+        "evidence": "Artist profile location reads Morrisville, Pennsylvania.",
+        "basis": "self-published artist location, not recording studio or automatic Philadelphia classification"
+      }
+    ],
+    "youtube": {
+      "id": "8EmVqQNt1Ds",
+      "url": "https://www.youtube.com/watch?v=8EmVqQNt1Ds",
+      "title": "Spaceship (feat. Buddy)",
+      "channel": "StrictlyHits",
+      "provider": null,
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/8EmVqQNt1Ds",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "公式音源",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 549,
+    "art": {
+      "word": "Spaceship (feat. Buddy)",
+      "tag": "ASHER ROTH",
+      "lines": [
+        "Spaceship (feat. Buddy)"
+      ],
+      "style": "piece",
+      "seed": 202610252,
+      "palette": [
+        "#f6f5ef",
+        "#e7c3af",
+        "#e79b85",
+        "#7da9a0",
+        "#475748"
+      ],
+      "paletteSource": "Flowers On the Weekend — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://asherroth.bandcamp.com/album/flowers-on-the-weekend",
+      "paletteNote": "公式掲載カバーを目視した編集上の近似配色。絵柄・ロゴ・構図や元の文字は再現していません。"
+    }
+  },
+  {
+    "title": "Uza Trikk / Power (Interlude)",
+    "artist": "LNDN DRGS",
+    "year": 2015,
+    "album": "Aktive (Deluxe)",
+    "producers": [],
+    "category": "Hip Hop",
+    "primaryArtist": "LNDN DRGS",
+    "primaryArtists": [
+      "LNDN DRGS"
+    ],
+    "featuredArtists": [
+      "A$AP Yams",
+      "G Perico",
+      "Earl Swavey"
+    ],
+    "region": "Compton / Vancouver",
+    "scene": "Jay Worthy（Compton） / Sean House（Vancouver）",
+    "yearBasis": "Artist SoundCloud publicly indexed combined-title upload dated2015-11-24; official YouTube/audio artwork and Apple Deluxe edition2018 distinguished. Exact DJ mix master not established.",
+    "producerBasis": "Explicit Producer role only. Unresolved credits omitted; no artist/songwriter/mixer inference.",
+    "regionBasis": "Artist origin/established scene as specifically identified below, not recording location",
+    "artists": [
+      "LNDN DRGS",
+      "A$AP Yams",
+      "G Perico",
+      "Earl Swavey"
+    ],
+    "id": "lndn-drgs-uza-trikk-power",
+    "producer": "未確認",
+    "label": "GDF Records",
+    "essayTitle": "導いた人が、客演の欄にもいる",
+    "deck": "LNDN DRGSを支えたA$AP Yams。その名前が、この曲にも残る。",
+    "essay": [
+      "「Uza Trikk / Power (Interlude)」は、LNDN DRGSの公式音源で一つの曲名として掲載されています。客演欄にはA$AP Yams、G Perico、Earl Swavey。ここでは2015年に公開された連結タイトルの作品を扱い、単独の「Uza Trikk」や2018年のDeluxe盤と区別しています。",
+      "レーベルFool’s Goldは、LNDN DRGSがA$AP Yamsの指導を受けたと紹介しています。Jay WorthyとSean Houseの二人組を導いた人が、この曲では客演者としても名を連ねる。クレジットは、参加者だけでなく関係の手がかりにもなります。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2,
+        1
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "listening": [],
+    "versionBasis": "Exact official unsuffixed work identity; user mixed duration is not used to assert exact DJ master. Artist SoundCloud publicly indexed combined-title upload dated2015-11-24; official YouTube/audio artwork and Apple Deluxe edition2018 distinguished. Exact DJ mix master not established.",
+    "context": "LNDN DRGSを支えたA$AP Yams。その名前が、この曲にも残る。",
+    "facts": [],
+    "sources": [
+      {
+        "label": "LNDN DRGS — 公式音源",
+        "url": "https://www.youtube.com/watch?v=ZiUMUaudS1c",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — Uza Trikk / Power (Interlude), Aktive (Deluxe)",
+        "url": "https://music.apple.com/us/album/uza-trikk-power-interlude-feat-a%24ap-yams-g-perico-earl/1416323440?i=1416324119",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "LNDN DRGS — artist SoundCloud original combined-title upload index",
+        "url": "https://soundcloud.com/lndn_drgs/popular-tracks",
+        "kind": "アーティスト公式索引",
+        "evidence": "Web search returned exact combined title and published on2015-11-24T16:14:09Z. Full page robots.txt blocked; no alternate access attempted."
+      },
+      {
+        "label": "Fool’s Gold — LNDN DRGS",
+        "url": "https://foolsgoldrecs.com/artists/lndn-drgs/",
+        "kind": "レーベル公式",
+        "evidence": "Label identifies Jay Worthy as Bompton rapper and Sean House as Vancouver producer, and Aktive as West Coast release.",
+        "basis": "member-specific scenes, not birthplace or recording location"
+      },
+      {
+        "label": "Viper — LNDN DRGS interview",
+        "url": "https://www.vipermag.com/2016/04/15/profile-lndn-drgs/",
+        "kind": "本人インタビュー",
+        "evidence": "Jay Worthy describes his writing as a Compton/LA perspective; interview discusses the local scene.",
+        "basis": "supports Compton spelling and scene attribution"
+      }
+    ],
+    "youtube": {
+      "id": "ZiUMUaudS1c",
+      "url": "https://www.youtube.com/watch?v=ZiUMUaudS1c",
+      "title": "Uza Trikk / Power (Interlude)",
+      "channel": "LNDN DRGS",
+      "provider": null,
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/ZiUMUaudS1c",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "公式音源",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 550,
+    "art": {
+      "word": "Uza Trikk / Power (Interlude)",
+      "tag": "LNDN DRGS",
+      "lines": [
+        "Uza Trikk / Power (Interlude)"
+      ],
+      "style": "piece",
+      "seed": 202610253,
+      "palette": [
+        "#e33136",
+        "#291f57",
+        "#29272a",
+        "#d1cecb"
+      ],
+      "paletteSource": "Aktive (Deluxe) — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/album/uza-trikk-power-interlude-feat-a%24ap-yams-g-perico-earl/1416323440?i=1416324119",
+      "paletteNote": "公式掲載カバーを目視した編集上の近似配色。絵柄・ロゴ・構図や元の文字は再現していません。"
+    }
+  },
+  {
+    "title": "Half a Ticket",
+    "artist": "Young Roddy",
+    "year": 2015,
+    "album": "The Kenner Loop",
+    "producers": [],
+    "category": "Hip Hop",
+    "primaryArtist": "Young Roddy",
+    "primaryArtists": [
+      "Young Roddy"
+    ],
+    "featuredArtists": [],
+    "region": "New Orleans",
+    "scene": "New Orleans / Young Roddy",
+    "yearBasis": "Distributor original CD product release2015-12-04. Official distributor audio explicitly names track and album.",
+    "producerBasis": "Explicit Producer role only. Unresolved credits omitted; no artist/songwriter/mixer inference.",
+    "regionBasis": "Artist scene from label profile; do not imply Half a Ticket was recorded in New Orleans.",
+    "artists": [
+      "Young Roddy"
+    ],
+    "id": "young-roddy-half-a-ticket",
+    "producer": "未確認",
+    "label": "GOOD$ENSE / iHipHop Distribution",
+    "essayTitle": "客演で知られた人の、初アルバム",
+    "deck": "Curren$yたちとの共演から、Young Roddy自身の『The Kenner Loop』へ。",
+    "essay": [
+      "「Half a Ticket」は、Young Roddyが2015年に発表した『The Kenner Loop』の収録曲。発売元iHipHop Distributionは、この作品をデビュー・アルバムとして紹介しています。",
+      "同じ発売元の紹介には、それまでCurren$y、Styles P、Smoke DZAらとの共演で注目を集めてきた経緯も記されています。誰かの作品で見かけた名前を、今度は本人のアルバムで聴く。「Half a Ticket」は、その違いを確かめる一曲です。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        1
+      ]
+    ],
+    "listening": [],
+    "versionBasis": "Exact official unsuffixed work identity; user mixed duration is not used to assert exact DJ master. Distributor original CD product release2015-12-04. Official distributor audio explicitly names track and album.",
+    "context": "Curren$yたちとの共演から、Young Roddy自身の『The Kenner Loop』へ。",
+    "facts": [],
+    "sources": [
+      {
+        "label": "iHipHopDistribution — 公式音源",
+        "url": "https://www.youtube.com/watch?v=I-5bri0uk2g",
+        "kind": "公式音源"
+      },
+      {
+        "label": "iHipHop Distribution — The Kenner Loop original CD",
+        "url": "https://store.ihiphop.com/products/young-roddy-the-kenner-loop-audio-cd",
+        "kind": "発売元資料"
+      },
+      {
+        "label": "Babygrande — Plan of Attack公式紹介・制作クレジット",
+        "url": "https://store.babygrande.com/collections/homepage/products/plan-of-attack-standard-vinyl",
+        "kind": "レーベル公式",
+        "evidence": "Label describes Curren$y, Trademark and Young Roddy as New Orleans artists.",
+        "basis": "artist scene only; not album-specific recording location or hometown for every collaborator"
+      }
+    ],
+    "youtube": {
+      "id": "I-5bri0uk2g",
+      "url": "https://www.youtube.com/watch?v=I-5bri0uk2g",
+      "title": "Half a Ticket",
+      "channel": "iHipHopDistribution",
+      "provider": null,
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/I-5bri0uk2g",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "公式音源",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 551,
+    "art": {
+      "word": "Half a Ticket",
+      "tag": "YOUNG RODDY",
+      "lines": [
+        "Half a Ticket"
+      ],
+      "style": "piece",
+      "seed": 202610254,
+      "palette": [
+        "#e5e6da",
+        "#8d896c",
+        "#30382c",
+        "#b1a77c"
+      ],
+      "paletteSource": "The Kenner Loop — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://store.ihiphop.com/products/young-roddy-the-kenner-loop-audio-cd",
+      "paletteNote": "公式掲載カバーを目視した編集上の近似配色。絵柄・ロゴ・構図や元の文字は再現していません。"
+    }
+  },
+  {
+    "title": "Vibes",
+    "artist": "Berner & Styles P",
+    "year": 2017,
+    "album": "Vibes",
+    "producers": [],
+    "category": "Hip Hop",
+    "primaryArtist": "Berner",
+    "primaryArtists": [
+      "Berner",
+      "Styles P"
+    ],
+    "featuredArtists": [],
+    "region": "San Francisco Bay Area / New York",
+    "scene": "Berner（San Francisco） / Styles P（Yonkers）",
+    "yearBasis": "Apple exact joint album release2017-06-23; artist official upload2017-09-10 is not original release date.",
+    "producerBasis": "Explicit Producer role only. Unresolved credits omitted; no artist/songwriter/mixer inference.",
+    "regionBasis": "Artist origin/established scene as specifically identified below, not recording location",
+    "artists": [
+      "Berner",
+      "Styles P"
+    ],
+    "id": "berner-styles-p-vibes",
+    "producer": "未確認",
+    "label": "Bern One Entertainment",
+    "essayTitle": "西のBerner、東のStyles P",
+    "deck": "San FranciscoとYonkers。二人の名前が、一枚の『Vibes』で並ぶ。",
+    "essay": [
+      "BernerとStyles Pの「Vibes」は、2017年6月23日発売の同名アルバムに収録されています。客演ではなく、二人の共同名義。その組み合わせが作品全体の看板です。",
+      "Bernerは本人のQ&AでSan Francisco出身と自己紹介し、Styles Pは取材でYonkersの学校や近所で仲間とラップしていた頃を語っています。二つの街を背負う名前を並べてから聴いてみる。ここで示すのは二人の活動の背景で、録音地ではありません。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "listening": [],
+    "versionBasis": "Exact official unsuffixed work identity; user mixed duration is not used to assert exact DJ master. Apple exact joint album release2017-06-23; artist official upload2017-09-10 is not original release date.",
+    "context": "San FranciscoとYonkers。二人の名前が、一枚の『Vibes』で並ぶ。",
+    "facts": [],
+    "sources": [
+      {
+        "label": "Berner415 — 公式音源",
+        "url": "https://www.youtube.com/watch?v=wMC9RM0HR5A",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Apple Music — Vibes",
+        "url": "https://music.apple.com/us/album/vibes/1245978482",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Berner — official Reddit AMA",
+        "url": "https://www.reddit.com/r/hiphopheads/comments/4dobks/im_berner_rapper_and_entrepreneur_ask_me_anything/",
+        "kind": "本人Q&A",
+        "evidence": "Official-flair AMA by berner415 identifies himself as from San Francisco, CA; post includes Instagram proof link.",
+        "basis": "artist self-identification"
+      },
+      {
+        "label": "Sports Illustrated — Styles P interview",
+        "url": "https://www.si.com/extra-mustard/2015/11/06/styles-p-boxing-nba-gennady-golovkin-carmelo-anthony-jalen-rose-new-york-knicks",
+        "kind": "本人インタビュー",
+        "evidence": "Styles P directly recalls living in Yonkers, meeting future LOX members at school and rapping together there.",
+        "basis": "upbringing and formative music activity, not birthplace"
+      }
+    ],
+    "youtube": {
+      "id": "wMC9RM0HR5A",
+      "url": "https://www.youtube.com/watch?v=wMC9RM0HR5A",
+      "title": "Vibes",
+      "channel": "Berner415",
+      "provider": null,
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/wMC9RM0HR5A",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "公式音源",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 552,
+    "art": {
+      "word": "Vibes",
+      "tag": "BERNER & STYLES P",
+      "lines": [
+        "Vibes"
+      ],
+      "style": "piece",
+      "seed": 202610255,
+      "palette": [
+        "#e4e5e3",
+        "#242327",
+        "#bd6e78",
+        "#68c1c5"
+      ],
+      "paletteSource": "Vibes — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/album/vibes/1245978482",
+      "paletteNote": "公式掲載カバーを目視した編集上の近似配色。絵柄・ロゴ・構図や元の文字は再現していません。"
+    }
+  },
+  {
+    "title": "As the Night Moves (feat. Devin Morrison)",
+    "artist": "Tall Black Guy",
+    "year": 2020,
+    "album": "Restless As We Are",
+    "producers": [],
+    "category": "Hip Hop",
+    "primaryArtist": "Tall Black Guy",
+    "primaryArtists": [
+      "Tall Black Guy"
+    ],
+    "featuredArtists": [
+      "Devin Morrison"
+    ],
+    "region": "Detroit",
+    "scene": "Detroit, Michigan",
+    "yearBasis": "Original release year supported by exact sources; not DJ mix year or later upload year.",
+    "producerBasis": "Explicit producer role only, never inferred from writing/mixing/executive role.",
+    "regionBasis": "Artist official Bandcamp location and label-described Detroit musical roots, not recording location.",
+    "artists": [
+      "Tall Black Guy",
+      "Devin Morrison"
+    ],
+    "id": "tall-black-guy-as-the-night-moves",
+    "producer": "未確認",
+    "label": "未確認",
+    "essayTitle": "Devin Morrisonが歌う夜",
+    "deck": "Devin Morrisonの参加を目印に、Tall Black Guyの『Restless As We Are』へ。",
+    "essay": [
+      "Devin Morrisonの参加を目印に、Tall Black Guyの『Restless As We Are』へ。「As the Night Moves」は、2020年6月12日発表のこの作品に収録されています。",
+      "アーティストのBandcampでは、この曲のヴォーカルをDevin Morrisonと明記。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2
+      ],
+      [
+        1
+      ]
+    ],
+    "listening": [],
+    "versionBasis": "Unsuffixed original work supported by primary title/artist/album metadata. No remix/live/master identity substitution; exact DJ mix master not verified.",
+    "context": "Devin Morrisonの参加を目印に、Tall Black Guyの『Restless As We Are』へ。",
+    "facts": [],
+    "sources": [
+      {
+        "label": "Tall Black Guy — 公式配信音源",
+        "url": "https://www.youtube.com/watch?v=eetBZZHy2tI",
+        "kind": "公式音源"
+      },
+      {
+        "label": "Tall Black Guy — Restless As We Are",
+        "url": "https://tallblackguy.bandcamp.com/album/restless-as-we-are",
+        "kind": "アーティスト公式"
+      },
+      {
+        "label": "Tall Black Guy — As The Night Moves",
+        "url": "https://tallblackguy.bandcamp.com/track/as-the-night-moves-feat-devin-morrison",
+        "kind": "アーティスト公式"
+      },
+      {
+        "label": "SWEET SOUL RECORDS — Tall Black Guy",
+        "url": "https://sweetsoulrecords.com/artists/tall-black-guy/",
+        "kind": "発売元公式",
+        "evidence": "Label biography identifies Detroit upbringing and the Moenart Block background of debut album.",
+        "basis": "Detroit music roots; no claim of current residence"
+      },
+      {
+        "label": "Tall Black Guy — official Bandcamp profile",
+        "url": "https://tallblackguy.bandcamp.com/",
+        "kind": "アーティスト公式",
+        "evidence": "Artist profile location reads Detroit, Michigan.",
+        "basis": "self-published artist location and Detroit origins"
+      }
+    ],
+    "youtube": {
+      "id": "eetBZZHy2tI",
+      "url": "https://www.youtube.com/watch?v=eetBZZHy2tI",
+      "title": "As the Night Moves (feat. Devin Morrison)",
+      "channel": "Tall Black Guy - Topic",
+      "provider": "Catapult Reservatory, LLC",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/eetBZZHy2tI",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "公式音源",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 553,
+    "art": {
+      "word": "As the Night Moves (feat. Devin Morrison)",
+      "tag": "TALL BLACK GUY",
+      "lines": [
+        "As the Night Moves (feat. Devin Morrison)"
+      ],
+      "style": "piece",
+      "seed": 202610256,
+      "palette": [
+        "#91d2e2",
+        "#f8f5e9",
+        "#ffe34b",
+        "#102bb7",
+        "#7d2320"
+      ],
+      "paletteSource": "Restless As We Are — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://tallblackguy.bandcamp.com/album/restless-as-we-are",
+      "paletteNote": "公式掲載カバーを目視した編集上の近似配色。絵柄・ロゴ・構図や元の文字は再現していません。"
+    }
+  },
+  {
+    "title": "Fiscal Thoughts (feat. Wale & Phil Ade)",
+    "artist": "Smoke DZA",
+    "year": 2018,
+    "album": "A Closed Mouth Don't Get Fed",
+    "producers": [
+      "Lee Major"
+    ],
+    "category": "Hip Hop",
+    "primaryArtist": "Smoke DZA",
+    "primaryArtists": [
+      "Smoke DZA"
+    ],
+    "featuredArtists": [
+      "Wale",
+      "Phil Ade"
+    ],
+    "region": "New York",
+    "scene": "Harlem",
+    "yearBasis": "2018 original work: official artist upload dated2018-11-27 and description calls it Free Smoke. canonical.album and cover refer explicitly to later2020 A Closed Mouth Don’t Get Fed appearance, not original-album dating.",
+    "producerBasis": "Explicit producer role only, never inferred from writing/mixing/executive role.",
+    "regionBasis": "Primary artist Smoke DZA scene; guests Wale and Phil Ade are not relabeled New York.",
+    "artists": [
+      "Smoke DZA",
+      "Wale",
+      "Phil Ade"
+    ],
+    "id": "smoke-dza-fiscal-thoughts",
+    "producer": "Lee Major",
+    "label": "未確認",
+    "essayTitle": "2018年の曲が、2020年のアルバムに",
+    "deck": "WaleとPhil Adeの名前から、Smoke DZAの「Fiscal Thoughts」へ。",
+    "essay": [
+      "WaleとPhil Adeの名前から、Smoke DZAの「Fiscal Thoughts」へ。2018年公開の公式音源は、制作担当としてLee Majorを挙げています。",
+      "この曲は、2020年のアルバム『A Closed Mouth Don’t Get Fed』にも収録。一曲の発表時期と、後に収まった作品を分けて覚えておくと、共演からアルバムへたどる目印になります。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ],
+    "listening": [],
+    "versionBasis": "Unsuffixed original work supported by primary title/artist/album metadata. No remix/live/master identity substitution; exact DJ mix master not verified.",
+    "context": "WaleとPhil Adeの名前から、Smoke DZAの「Fiscal Thoughts」へ。",
+    "facts": [],
+    "sources": [
+      {
+        "label": "DZAVision — Fiscal Thoughts公式音源",
+        "url": "https://www.youtube.com/watch?v=1OHKeDiremY",
+        "kind": "アーティスト公式"
+      },
+      {
+        "label": "Apple Music — A Closed Mouth Don’t Get Fed",
+        "url": "https://music.apple.com/us/album/a-closed-mouth-dont-get-fed/1498298148",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Interview Magazine — Smoke DZA本人インタビュー",
+        "url": "https://www.interviewmagazine.com/music/discovery-smoke-dza",
+        "kind": "本人インタビュー",
+        "evidence": "Interview explicitly lists hometown and current city as Harlem, NY.",
+        "basis": "artist hometown and activity scene"
+      }
+    ],
+    "youtube": {
+      "id": "1OHKeDiremY",
+      "url": "https://www.youtube.com/watch?v=1OHKeDiremY",
+      "title": "Fiscal Thoughts (feat. Wale & Phil Ade)",
+      "channel": "DZAVision",
+      "provider": null,
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/1OHKeDiremY",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "公式音源",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 554,
+    "art": {
+      "word": "Fiscal Thoughts (feat. Wale & Phil Ade)",
+      "tag": "SMOKE DZA",
+      "lines": [
+        "Fiscal Thoughts (feat. Wale & Phil Ade)"
+      ],
+      "style": "piece",
+      "seed": 202610257,
+      "palette": [
+        "#090909",
+        "#f5e8df",
+        "#e8cf83",
+        "#b18559"
+      ],
+      "paletteSource": "A Closed Mouth Don't Get Fed — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/album/a-closed-mouth-dont-get-fed/1498298148",
+      "paletteNote": "公式掲載カバーを目視した編集上の近似配色。絵柄・ロゴ・構図や元の文字は再現していません。後年の2020年収録アルバムのカバーで、2018年初出時の図柄とは区別。"
+    }
+  },
+  {
+    "title": "Revenge and Cake",
+    "artist": "Wiz Khalifa & Curren$y",
+    "year": 2013,
+    "album": "Live In Concert EP",
+    "producers": [],
+    "category": "Hip Hop",
+    "primaryArtist": "Wiz Khalifa",
+    "primaryArtists": [
+      "Wiz Khalifa",
+      "Curren$y"
+    ],
+    "featuredArtists": [],
+    "region": "Pittsburgh / New Orleans",
+    "scene": "Wiz Khalifa（Pittsburgh） / Curren$y（New Orleans）",
+    "yearBasis": "Original release year supported by exact sources; not DJ mix year or later upload year.",
+    "producerBasis": "Explicit producer role only, never inferred from writing/mixing/executive role.",
+    "regionBasis": "Both jointly credited primary artists are retained. Not recording location.",
+    "artists": [
+      "Wiz Khalifa",
+      "Curren$y"
+    ],
+    "id": "wiz-khalifa-currensy-revenge-and-cake",
+    "producer": "未確認",
+    "label": "未確認",
+    "essayTitle": "WizとCurren$y、二人名義の一枚",
+    "deck": "Wiz KhalifaとCurren$yの共作を探すなら、「Revenge and Cake」から。",
+    "essay": [
+      "Wiz KhalifaとCurren$yの共作を探すなら、「Revenge and Cake」から。二人の名前が並ぶ『Live In Concert EP』の収録曲です。",
+      "Apple Musicの発売日は2013年4月20日。Curren$yの公式チャンネルも、この曲からEPへ案内しています。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "listening": [],
+    "versionBasis": "Unsuffixed original work supported by primary title/artist/album metadata. No remix/live/master identity substitution; exact DJ mix master not verified.",
+    "context": "Wiz KhalifaとCurren$yの共作を探すなら、「Revenge and Cake」から。",
+    "facts": [],
+    "sources": [
+      {
+        "label": "Wiz Khalifa & Curren$y — 公式配信音源",
+        "url": "https://www.youtube.com/watch?v=p2biUCuSVoc",
+        "kind": "公式音源"
+      },
+      {
+        "label": "CurrensySpittaTV — Revenge and Cake",
+        "url": "https://www.youtube.com/watch?v=hrjGeajrH0U",
+        "kind": "アーティスト公式"
+      },
+      {
+        "label": "Apple Music — Live In Concert",
+        "url": "https://music.apple.com/us/album/live-in-concert-ep/637872886",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Warner Music Japan — Wiz Khalifa profile",
+        "url": "https://wmg.jp/wiz_khalifa",
+        "kind": "レーベル公式",
+        "evidence": "Official profile expressly calls Pittsburgh his base.",
+        "basis": "established artist base, not birthplace"
+      },
+      {
+        "label": "Babygrande — Plan of Attack公式紹介・制作クレジット",
+        "url": "https://store.babygrande.com/collections/homepage/products/plan-of-attack-standard-vinyl",
+        "kind": "レーベル公式",
+        "evidence": "Label describes Curren$y, Trademark and Young Roddy as New Orleans artists.",
+        "basis": "artist scene only; not album-specific recording location or hometown for every collaborator"
+      }
+    ],
+    "youtube": {
+      "id": "p2biUCuSVoc",
+      "url": "https://www.youtube.com/watch?v=p2biUCuSVoc",
+      "title": "Revenge and Cake",
+      "channel": "Wiz Khalifa - Topic",
+      "provider": "Jetlife/Rostrum",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/p2biUCuSVoc",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "公式音源",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 555,
+    "art": {
+      "word": "Revenge and Cake",
+      "tag": "WIZ KHALIFA & CURREN$Y",
+      "lines": [
+        "Revenge and Cake"
+      ],
+      "style": "piece",
+      "seed": 202610258,
+      "palette": [
+        "#fff1d7",
+        "#e7c38f",
+        "#b88e58",
+        "#49300b"
+      ],
+      "paletteSource": "Live In Concert EP — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/album/live-in-concert-ep/637872886",
+      "paletteNote": "公式掲載カバーを目視した編集上の近似配色。絵柄・ロゴ・構図や元の文字は再現していません。"
+    }
   }
 ]

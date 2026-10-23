@@ -10869,6 +10869,188 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "kendrick-lamar-poetic-justice",
+      "title": "Poetic Justice",
+      "artist": "Kendrick Lamar",
+      "album": "good kid, m.A.A.d city",
+      "palette": [
+        "#deddd3",
+        "#96967a",
+        "#282e23",
+        "#a48c58"
+      ],
+      "paletteSource": "good kid, m.A.A.d city — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/album/good-kid-m-a-a-d-city/1471263898",
+      "paletteNote": "公式掲載カバーを目視した編集上の近似配色。絵柄・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/kendrick-lamar-poetic-justice-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "bj-the-chicago-kid-feel-the-vibe",
+      "title": "Feel the Vibe (feat. Anderson .Paak)",
+      "artist": "BJ The Chicago Kid",
+      "album": "1123",
+      "palette": [
+        "#ead4a1",
+        "#af956b",
+        "#6b5538",
+        "#241e16"
+      ],
+      "paletteSource": "1123 — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/1468033939",
+      "paletteNote": "公式掲載カバーを目視した編集上の近似配色。絵柄・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/bj-the-chicago-kid-feel-the-vibe-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "asher-roth-spaceship",
+      "title": "Spaceship (feat. Buddy)",
+      "artist": "Asher Roth",
+      "album": "Flowers On the Weekend",
+      "palette": [
+        "#f6f5ef",
+        "#e7c3af",
+        "#e79b85",
+        "#7da9a0",
+        "#475748"
+      ],
+      "paletteSource": "Flowers On the Weekend — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://asherroth.bandcamp.com/album/flowers-on-the-weekend",
+      "paletteNote": "公式掲載カバーを目視した編集上の近似配色。絵柄・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/asher-roth-spaceship-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "lndn-drgs-uza-trikk-power",
+      "title": "Uza Trikk / Power (Interlude)",
+      "artist": "LNDN DRGS",
+      "album": "Aktive (Deluxe)",
+      "palette": [
+        "#e33136",
+        "#291f57",
+        "#29272a",
+        "#d1cecb"
+      ],
+      "paletteSource": "Aktive (Deluxe) — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/album/uza-trikk-power-interlude-feat-a%24ap-yams-g-perico-earl/1416323440?i=1416324119",
+      "paletteNote": "公式掲載カバーを目視した編集上の近似配色。絵柄・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/lndn-drgs-uza-trikk-power-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "young-roddy-half-a-ticket",
+      "title": "Half a Ticket",
+      "artist": "Young Roddy",
+      "album": "The Kenner Loop",
+      "palette": [
+        "#e5e6da",
+        "#8d896c",
+        "#30382c",
+        "#b1a77c"
+      ],
+      "paletteSource": "The Kenner Loop — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://store.ihiphop.com/products/young-roddy-the-kenner-loop-audio-cd",
+      "paletteNote": "公式掲載カバーを目視した編集上の近似配色。絵柄・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/young-roddy-half-a-ticket-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "berner-styles-p-vibes",
+      "title": "Vibes",
+      "artist": "Berner & Styles P",
+      "album": "Vibes",
+      "palette": [
+        "#e4e5e3",
+        "#242327",
+        "#bd6e78",
+        "#68c1c5"
+      ],
+      "paletteSource": "Vibes — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/album/vibes/1245978482",
+      "paletteNote": "公式掲載カバーを目視した編集上の近似配色。絵柄・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/berner-styles-p-vibes-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "tall-black-guy-as-the-night-moves",
+      "title": "As the Night Moves (feat. Devin Morrison)",
+      "artist": "Tall Black Guy",
+      "album": "Restless As We Are",
+      "palette": [
+        "#91d2e2",
+        "#f8f5e9",
+        "#ffe34b",
+        "#102bb7",
+        "#7d2320"
+      ],
+      "paletteSource": "Restless As We Are — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://tallblackguy.bandcamp.com/album/restless-as-we-are",
+      "paletteNote": "公式掲載カバーを目視した編集上の近似配色。絵柄・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/tall-black-guy-as-the-night-moves-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "smoke-dza-fiscal-thoughts",
+      "title": "Fiscal Thoughts (feat. Wale & Phil Ade)",
+      "artist": "Smoke DZA",
+      "album": "A Closed Mouth Don't Get Fed",
+      "palette": [
+        "#090909",
+        "#f5e8df",
+        "#e8cf83",
+        "#b18559"
+      ],
+      "paletteSource": "A Closed Mouth Don't Get Fed — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/album/a-closed-mouth-dont-get-fed/1498298148",
+      "paletteNote": "公式掲載カバーを目視した編集上の近似配色。絵柄・ロゴ・構図や元の文字は再現していません。後年の2020年収録アルバムのカバーで、2018年初出時の図柄とは区別。",
+      "status": "ready",
+      "image": "assets/graffiti/smoke-dza-fiscal-thoughts-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "wiz-khalifa-currensy-revenge-and-cake",
+      "title": "Revenge and Cake",
+      "artist": "Wiz Khalifa & Curren$y",
+      "album": "Live In Concert EP",
+      "palette": [
+        "#fff1d7",
+        "#e7c38f",
+        "#b88e58",
+        "#49300b"
+      ],
+      "paletteSource": "Live In Concert EP — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/album/live-in-concert-ep/637872886",
+      "paletteNote": "公式掲載カバーを目視した編集上の近似配色。絵柄・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/wiz-khalifa-currensy-revenge-and-cake-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
