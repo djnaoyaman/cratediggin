@@ -5496,6 +5496,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "power-addition-browser"
+    },
+    {
+      "id": "selected-concept",
+      "argv": [
+        "python",
+        "scripts/verify_selected_concept.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "selected-concept"
+    },
+    {
+      "id": "selected-concept-browser",
+      "argv": [
+        "node",
+        "scripts/verify_selected_concept_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "selected-concept-browser"
     }
   ],
   "groups": {
@@ -6493,6 +6517,12 @@
     "power_addition": [
       "power-addition",
       "power-addition-browser",
+      "11cc02294f7b3422",
+      "edf6a18bb0e41e73"
+    ],
+    "selected_concept": [
+      "selected-concept",
+      "selected-concept-browser",
       "11cc02294f7b3422",
       "edf6a18bb0e41e73"
     ]
@@ -9018,7 +9048,8 @@
       "audit-reports/maintenance.json"
     ],
     "scripts/approved_power_addition.py": [
-      "scripts/fixtures/approved-power-addition.json"
+      "scripts/fixtures/approved-power-addition.json",
+      "scripts/approved_selected_concept.py"
     ],
     "scripts/verify_power_addition.py": [
       "scripts/approved_power_addition.py",
@@ -9035,6 +9066,25 @@
     ],
     "scripts/verify_power_addition_browser.cjs": [
       "scripts/fixtures/approved-power-addition.json",
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_selected_concept.py": [
+      "scripts/fixtures/approved-selected-concept.json"
+    ],
+    "scripts/verify_selected_concept.py": [
+      "scripts/approved_selected_concept.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "artist_entities.json",
+      "releases.json",
+      "scripts/verify_power_addition.py",
+      "scripts/ci/manifest.json",
+      "scripts/approved_power_addition.py",
+      "src/app/core.js",
+      "build.py"
+    ],
+    "scripts/verify_selected_concept_browser.cjs": [
+      "scripts/fixtures/approved-selected-concept.json",
       "scripts/verify_visible_art_browser.cjs"
     ]
   },
@@ -9386,7 +9436,9 @@
     "scripts/approved_top_return.py",
     "scripts/fixtures/approved-top-return.json",
     "scripts/approved_power_addition.py",
-    "scripts/fixtures/approved-power-addition.json"
+    "scripts/fixtures/approved-power-addition.json",
+    "scripts/approved_selected_concept.py",
+    "scripts/fixtures/approved-selected-concept.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -10862,6 +10914,13 @@
         "groups": [
           "power_addition"
         ]
+      },
+      {
+        "before_sha256": "afa55485cac240d153de0976162fb465f7af9d22ca289febc6b8f79aea242425",
+        "after_sha256": "592ec45ad739c4246e6b0c2b36a9e74a447214f443bec3d1e7d756d7d7fee53a",
+        "groups": [
+          "selected_concept"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -11363,6 +11422,13 @@
         "groups": [
           "power_addition"
         ]
+      },
+      {
+        "before_sha256": "51dda1e933c00dcd1b4b9ed37f8c72176bbed877dcd78c9cd1307f8b4fb5b469",
+        "after_sha256": "9f169612a122f2109510083363a8201a5912815a99cee0e946c582448b03f185",
+        "groups": [
+          "selected_concept"
+        ]
       }
     ],
     "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
@@ -11639,6 +11705,13 @@
         "after_sha256": "cbe822e73b5d194989cef75c34f6291d1bf128a540e084d4150adc5ca100c376",
         "groups": [
           "power_addition"
+        ]
+      },
+      {
+        "before_sha256": "cbe822e73b5d194989cef75c34f6291d1bf128a540e084d4150adc5ca100c376",
+        "after_sha256": "8fd3a28f511fc01e6cb796833b1f1cabc711ff18ba2a9b635c95350bdd98d615",
+        "groups": [
+          "selected_concept"
         ]
       }
     ],
@@ -12711,6 +12784,33 @@
         "after_sha256": "17c26745c1855aabbcfe5617ee2bf6735191b22b0a392cf07b603a12518606f5",
         "groups": [
           "power_addition"
+        ]
+      }
+    ],
+    "assets/graffiti/anderson-paak-the-season-carry-me-supported-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "cbd9bd63bccbbb02a6a87b1a380488576074f94a567082ebd7be0a4689d92aa2",
+        "groups": [
+          "selected_concept"
+        ]
+      }
+    ],
+    "assets/graffiti/robert-glasper-afro-blue-9th-wonder-remix-rebuilt-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "666c3da57d76bfed30bda977f8562eb7a019e3f3c286dbe0a4a1718103493ef6",
+        "groups": [
+          "selected_concept"
+        ]
+      }
+    ],
+    "assets/graffiti/2-chainz-threat-2-society-inner-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "3af1d6dd8f225ada1109bfa923a6a9e623fb354822049d0b20a6b6918fcdf351",
+        "groups": [
+          "selected_concept"
         ]
       }
     ]

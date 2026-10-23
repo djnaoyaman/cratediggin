@@ -11075,6 +11075,78 @@
       "concept": "投げつけられた石を拾い直し、同じ欠けと色層を自分の言葉 POWER の支えへ組み直す。",
       "reviewNote": "左の未整列な欠片と POWER 内の部材に同じローズ／緑／マット金の層と欠けが連続。アイボリーの手描き線で接合し、再構築を示す。alpha>=16 の最小可視余白14.65%。alpha=1の微小残渣は元画像を保ったままQAに記録。再生確認の実施を意味しない。",
       "paletteSourceUrl": "https://music.apple.com/us/album/lailas-wisdom/1440939999"
+    },
+    {
+      "id": "anderson-paak-the-season-carry-me",
+      "title": "The Season / Carry Me",
+      "artist": "Anderson .Paak",
+      "album": "Malibu",
+      "palette": [
+        "#b4c48c",
+        "#e4deb4",
+        "#91364e",
+        "#6eaaa0",
+        "#343830"
+      ],
+      "paletteSource": "The Season / Carry Me – Single (2015)",
+      "paletteNote": "2015年公式シングルのジャケットを再度目視した編集上の配色。sage/cream/wine/turquoise/charcoalの色相系を引継ぎ、厳密な色抽出値の再現とは称さない。画像・人物・構図は複製せず文字構造として制作。",
+      "status": "ready",
+      "image": "assets/graffiti/anderson-paak-the-season-carry-me-supported-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "noSiteBranding": true,
+      "reviewNote": "CARRY ME の長い C 画が THE SEASON の下を受け止め、SEASON の N 終筆が ME の下へ戻って支える。透明な間隙、ワイン色の荷重部とターコイズ接続線による相互支持。曲資料からの編集解釈であり聴感の記録ではない。canonical title の slash はHTML側で保持。",
+      "concept": "母に抱えてほしい子の記憶と、妻子を支える父となった自分を、互いを支える二段の文字に重ねる。",
+      "paletteSourceUrl": "https://music.apple.com/us/album/the-season-carry-me-single/1056869728"
+    },
+    {
+      "id": "robert-glasper-afro-blue-9th-wonder-remix",
+      "title": "Afro Blue (9th Wonder’s Blue Light Basement Remix)",
+      "artist": "Robert Glasper Experiment",
+      "album": "Black Radio Recovered: The Remix EP",
+      "palette": [
+        "#d5c39a",
+        "#131712",
+        "#a4442a",
+        "#667c84"
+      ],
+      "paletteSource": "Black Radio Recovered: The Remix EP (2012)",
+      "paletteNote": "公式公開ジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図・既存ロゴは複製せず、独自の文字アートとして制作。",
+      "status": "ready",
+      "image": "assets/graffiti/robert-glasper-afro-blue-9th-wonder-remix-rebuilt-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "noSiteBranding": true,
+      "reviewNote": "元の錆色の線を、クリームの筆画が共有する曲がりや交差で描き直す。A/F/R、O、B/U/Eを辿る線の継承を目視確認。正しい長いremix表記と客演名を保持。alpha>=16 の最小可視余白をmanifestに実測記録。試聴は未実施・主張なし。",
+      "concept": "魂の故郷を夢見る Afro Blue の記憶を、消さずに受け継いで描き直す一本の文字線にする。",
+      "interpretationLimits": "Glasper本人の2012年原曲Q&AとBlue Note公式のremix版関係からの編集的な継承／描き直し解釈。remix新ヴァースの意味、全歌詞、どの原曲歌詞が録音に残るか、各パートの聴感は未確認であり主張しない。",
+      "paletteSourceUrl": "https://soundcloud.com/robertglasper/robert-glasper-afro-blue-remix"
+    },
+    {
+      "id": "2-chainz-threat-2-society",
+      "title": "Threat 2 Society",
+      "artist": "2 Chainz",
+      "album": "Rap or Go to the League",
+      "palette": [
+        "#d9b54a",
+        "#a88d51",
+        "#594332",
+        "#c4b69a",
+        "#292720"
+      ],
+      "paletteSource": "Rap or Go to the League",
+      "paletteNote": "公式カタログのジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図は複製せず独自の文字アートとして制作。",
+      "status": "ready",
+      "image": "assets/graffiti/2-chainz-threat-2-society-inner-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "noSiteBranding": true,
+      "reviewNote": "マットな外面を内向きにめくり、THREATとSOCIETYに同じ未修復の内層を露出させる。金塊・爆発・金継ぎではなく、自伝的告白を文字の断面へ翻訳した編集解釈。聴感の記録ではない。",
+      "concept": "THREAT の強い外面をめくり、家族に対する消せない後悔の断面を文字の内側に残す。",
+      "paletteSourceUrl": "https://music.apple.com/us/album/rap-or-go-to-the-league/1455519361"
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
