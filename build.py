@@ -279,7 +279,6 @@ for page in DIST.rglob('*.html'):
     if '/app.js' not in text:
         analytics += '<script>gtag(\"event\",\"page_view\",{page_title:document.title,page_location:CrateAnalyticsURL(location.href,true),page_referrer:CrateAnalyticsReferrer(document.referrer)});</script>'
     text=text.replace('</head>',analytics+'</head>') if '</head>' in text else text.replace('<body',analytics+'<body',1)
-    text=text.replace('</body>',(ROOT/'creator-sites.html').read_text(encoding='utf-8')+'\n</body>')
     page.write_text(text, encoding='utf-8')
 manifest=json.loads((DIST/'site.webmanifest').read_text(encoding='utf-8'))
 manifest['start_url']=BASE_PATH+'/'
