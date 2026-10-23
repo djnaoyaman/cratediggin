@@ -338,8 +338,9 @@ body[data-player-folded=true]:not([data-art-owner]) #player-fold{grid-column:3;g
  body[data-art-mode=video] .art-controls{left:max(16px,var(--art-safe-left));bottom:max(8px,var(--art-safe-bottom))}
 }
 
-/* Compact listening lists expose only the work and artist; detailed mode retains every field. */
-#results.compact-results .record-card .card-main>:not(h3):not(.card-artist),#results.compact-results .record-card .card-arrow,#results.compact-results .card-artist-arrow{display:none!important}
+/* Compact listening lists retain work, artist and release year; detailed mode retains every field. */
+#results.compact-results .record-card .card-main>:not(h3):not(.card-artist):not(.card-meta),#results.compact-results .record-card .card-arrow,#results.compact-results .card-artist-arrow{display:none!important}
+#results.compact-results .record-card:not(.contextual-year-card) .card-main>.card-meta>span{display:none!important}
 #results.compact-results .record-card{grid-template-columns:minmax(0,1fr)}
 
 /* Authorship stays visible independently of the decorative room heading. */
