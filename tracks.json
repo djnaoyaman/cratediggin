@@ -68756,5 +68756,141 @@
       "paletteSourceUrl": "https://www.qobuz.com/us-en/album/i-am-i-was-21-savage/o52ck2eenr4lb",
       "paletteNote": "公式掲載カバーの黒・白・灰を配色だけの参照に使用。人物、ロゴ、構図や元の文字は再現していません。"
     }
+  },
+  {
+    "title": "Trapped In",
+    "artist": "REASON feat. Boogie & Ab-Soul",
+    "artists": [
+      "REASON",
+      "Boogie",
+      "Ab-Soul"
+    ],
+    "year": 2020,
+    "album": "Trapped In - Single",
+    "producer": "Kal Banx",
+    "producers": [
+      "Kal Banx"
+    ],
+    "label": "Top Dawg Entertainment",
+    "region": "Carson",
+    "category": "Hip Hop",
+    "id": "reason-trapped-in",
+    "scene": "Carson",
+    "essayTitle": "アルバムの外に残った、聴きたかった共演",
+    "deck": "『New Beginnings』未収録の「Trapped In」を、REASON自身のファンとしての視点からたどります。",
+    "essay": [
+      "「Trapped In」は、『New Beginnings』の収録曲一覧だけでは見つからない共演です。2020年のPAPERのインタビューで、REASONはAb-Soulを「Flick It Up」と本曲に招いたと振り返りながら、本曲はアルバムに入っていないと説明しています。アルバムだけを追っていると、こぼれ落ちてしまう一曲です。",
+      "その話の背景にあるのは、ファンとして聴きたい共演を自分で実現する、という制作の考え方でした。Boogieも加わり、Kal Banxが制作した本曲を、豪華な客演というだけでなく、REASON自身の聴き手としての好みから捉えてみるのも面白そうです。三人の言葉がどうつながるのか、そこを入口に聴いてみてください。"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "公式配信とカタログで共通する2020年を採用。地域別配信日や動画投稿日を原発売日と同一視しない。",
+    "regionBasis": "本人インタビュー記事が紹介するREASONとCarsonの関連。録音場所や客演者の出身地の説明ではない。",
+    "producerBasis": "公式の曲別クレジットと配信音源でKal Banxを確認。映像制作の担当者とは区別。",
+    "versionBasis": "BoogieとAb-Soul参加のオリジナル歌入りシングル版。選定音源4:26、カタログ4:25。依頼ミックス3:47との編集・マスター同一性は未確認。",
+    "context": "BoogieとAb-Soulを迎えた、2020年のシングル。",
+    "facts": [
+      {
+        "title": "曲別の制作担当",
+        "text": "公式配信ではKal Banxがプロデューサーとして記載されています。",
+        "sources": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "アルバムとの関係",
+        "text": "REASON本人は2020年のPAPERのインタビューで、『New Beginnings』には収録されていないと説明しています。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "REASON / Universal Music Group — Trapped In 公式配信音源",
+        "url": "https://www.youtube.com/watch?v=INZ9ofQF5rs",
+        "kind": "公式配信音源"
+      },
+      {
+        "label": "PAPER — REASON 本人インタビュー（2020年10月9日）",
+        "url": "https://www.papermag.com/interview-reason-new-beginnings-album",
+        "kind": "本人インタビュー"
+      },
+      {
+        "label": "Universal Music Italia — Trapped In 曲別クレジット",
+        "url": "https://www.universalmusic.it/popular-music/album/trapped-in_33935205434/",
+        "kind": "公式クレジット"
+      },
+      {
+        "label": "Apple Music — Trapped In シングル配信情報",
+        "url": "https://music.apple.com/ca/song/1501687337",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "EARMILK — REASON 本人インタビュー／Carson の紹介",
+        "url": "https://earmilk.com/2020/10/20/reason-talks-new-beginnings-tde-and-more-interview/",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "youtube": {
+      "id": "INZ9ofQF5rs",
+      "url": "https://www.youtube.com/watch?v=INZ9ofQF5rs",
+      "title": "Trapped In",
+      "channel": "REASON",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-22",
+      "embedUrl": "https://www.youtube.com/embed/INZ9ofQF5rs",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "オリジナル歌入りシングル版（公式配信）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿のアーティスト表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。",
+      "provider": "Universal Music Group"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-22",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "addedOrder": 529,
+    "datePublished": "2026-10-22",
+    "art": {
+      "word": "Trapped In",
+      "tag": "REASON FEAT. BOOGIE & AB-SOUL",
+      "lines": [
+        "Trapped In"
+      ],
+      "style": "piece",
+      "seed": 201901,
+      "palette": [
+        "#0b0b0b",
+        "#333333",
+        "#777777",
+        "#f0f0f0"
+      ],
+      "paletteSource": "Trapped In - Single — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/ca/song/1501687337",
+      "paletteNote": "公式掲載カバーの黒・白・灰を配色だけの参照に使用。人物、ロゴ、構図や元の文字は再現していません。"
+    }
   }
 ]
