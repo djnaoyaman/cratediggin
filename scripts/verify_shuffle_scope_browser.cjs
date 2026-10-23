@@ -47,9 +47,9 @@ deadline.unref();
         await page.locator('#library-tab').click();
         if (await page.locator('#clear-browse').isEnabled()) await page.locator('#clear-browse').click();
       }
-      async function draw(phase) {
+      async function draw(phase, withoutScroll=false) {
         await page.emulateMedia({reducedMotion: phase === 'running' ? 'no-preference' : 'reduce'});
-        await page.locator('#shuffle-draw').click();
+        if(withoutScroll)await page.locator('#shuffle-draw').evaluate(e=>e.click());else await page.locator('#shuffle-draw').click();
         await page.locator(phase === 'running' ? '#shuffle-cancel' : '#shuffle-play').waitFor();
         await page.evaluate(() => {
           window.__staleShuffle = {play: document.querySelector('#shuffle-play'), save: document.querySelector('#shuffle-save')};
@@ -146,14 +146,23 @@ deadline.unref();
         await page.locator('#restore-queue').click();
       }
 
+      let observedReveal=false;
       for (const phase of ['running', 'complete']) {
-        await resetLibrary(); const before = await playback(); await draw(phase);
+        await resetLibrary(); const before = await playback(); await draw(phase,true);
         const generation = (await state()).generation, original = phase === 'complete' ? await page.locator('#shuffle-play').elementHandle() : null;
         await page.locator('#view-toggle').click(); assert.equal((await state()).generation, generation, 'Density retains draw generation');
-        const beforeReveal=await page.locator('#results .record-card').count();await page.locator('.results-status').evaluate(e=>e.scrollIntoView({block:'end'}));await page.waitForFunction(n=>document.querySelectorAll('#results .record-card').length>n,beforeReveal);assert.equal((await state()).generation, generation, 'Progressive reveal retains draw generation');
+        const rendered=()=>page.evaluate(()=>({all:window.__shuffleState().pool.map(s=>s.id),shown:[...document.querySelectorAll('#results .record-card')].map(e=>new URL(e.href).pathname.split('/').pop().replace(/\.html$/,''))}));
+        const revealBefore=await rendered();assert(revealBefore.shown.length>0&&revealBefore.shown.length<=revealBefore.all.length);assert.deepEqual(revealBefore.shown,revealBefore.all.slice(0,revealBefore.shown.length),'Before scrolling, every row is the exact pool prefix');
+        await page.locator('.results-status').evaluate(e=>e.scrollIntoView({block:'end'}));
+        if(revealBefore.shown.length<revealBefore.all.length)await page.waitForFunction(n=>document.querySelectorAll('#results .record-card').length>n,revealBefore.shown.length);
+        const revealAfter=await rendered();assert.deepEqual(revealAfter.all,revealBefore.all,'Scrolling retains the complete ordered draw pool');assert.equal(new Set(revealAfter.shown).size,revealAfter.shown.length,'Progressive reveal has no duplicate rows');assert.deepEqual(revealAfter.shown,revealAfter.all.slice(0,revealAfter.shown.length),'After scrolling, every row remains the exact ordered prefix');
+        if(revealBefore.shown.length===revealBefore.all.length)assert.deepEqual(revealAfter.shown,revealAfter.all,'An already exhausted list remains complete');else {assert(revealAfter.shown.length>revealBefore.shown.length,'Unrevealed results are appended');observedReveal=true;}
+        assert.equal((await state()).generation, generation, 'Progressive reveal retains draw generation');
         if (original) assert(await original.evaluate(e => e.isConnected), 'Completed result retains its original controls');
         await page.locator('#shuffle-play').waitFor({timeout: 6000}); await preserved(before, phase + ' density/pagination');
       }
+
+      assert(observedReveal,'Shuffle generation preservation must include an actual progressive append');
 
       // Fresh explicit PLAY must replace the old queue with the current rotated pool, never a superseded snapshot.
       for (const custom of [false, true]) {
