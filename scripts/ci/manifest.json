@@ -5100,6 +5100,18 @@
       "legacy": false,
       "requires_build": true,
       "label": "trapped-in-addition-browser"
+    },
+    {
+      "id": "legacy-feature-cards",
+      "argv": [
+        "python",
+        "scripts/verify_legacy_feature_cards.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": false,
+      "label": "legacy-feature-cards"
     }
   ],
   "groups": {
@@ -6003,6 +6015,9 @@
     "trapped_in_addition": [
       "trapped-in-addition",
       "trapped-in-addition-browser"
+    ],
+    "legacy_feature_cards": [
+      "legacy-feature-cards"
     ]
   },
   "runtime_rules": {
@@ -8177,7 +8192,8 @@
       "scripts/fixtures/approved-a_lot-addition.json"
     ],
     "scripts/approved_trapped_in_addition.py": [
-      "scripts/fixtures/approved-trapped_in-addition.json"
+      "scripts/fixtures/approved-trapped_in-addition.json",
+      "scripts/approved_legacy_feature_cards.py"
     ],
     "scripts/verify_trapped_in_addition.py": [
       "scripts/approved_trapped_in_addition.py",
@@ -8190,6 +8206,15 @@
     ],
     "scripts/verify_trapped_in_addition_browser.cjs": [
       "scripts/fixtures/approved-trapped_in-addition.json"
+    ],
+    "scripts/approved_legacy_feature_cards.py": [
+      "scripts/fixtures/approved-legacy-feature-cards.json"
+    ],
+    "scripts/verify_legacy_feature_cards.py": [
+      "scripts/approved_legacy_feature_cards.py",
+      "url_migration.py",
+      "features.json",
+      "tracks.json"
     ]
   },
   "policy_paths": [
@@ -8500,7 +8525,9 @@
     "scripts/approved_a_lot_addition.py",
     "scripts/fixtures/approved-a_lot-addition.json",
     "scripts/approved_trapped_in_addition.py",
-    "scripts/fixtures/approved-trapped_in-addition.json"
+    "scripts/fixtures/approved-trapped_in-addition.json",
+    "scripts/approved_legacy_feature_cards.py",
+    "scripts/fixtures/approved-legacy-feature-cards.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
