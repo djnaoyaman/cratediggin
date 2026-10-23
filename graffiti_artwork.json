@@ -10520,6 +10520,26 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "vince-staples-hell-bound",
+      "title": "Hell Bound (Ad 01)",
+      "artist": "Vince Staples",
+      "album": "Hell Bound (Ad 01) — Single",
+      "palette": [
+        "#dfb7b3",
+        "#e7e8e5",
+        "#171817",
+        "#e8322a"
+      ],
+      "paletteSource": "Hell Bound (Ad 01) — Single — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://www.qobuz.com/us-en/album/hell-bound-vince-staples/xbzlehln48ptb",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/vince-staples-hell-bound-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
