@@ -483,3 +483,6 @@ body[data-art-mode=video] .art-credit{flex-direction:row;align-items:center;gap:
 .article-research-note{margin:1.5rem 0;padding:1rem 1.1rem;border-left:3px solid var(--blue,#006CB6);background:rgba(0,108,182,.045);overflow-wrap:anywhere}
 .article-research-note h2{font-size:1rem;margin:0 0 .6rem}
 .article-research-note p{margin:.5rem 0}
+
+/* Continuous catalog: quiet loading/end feedback, no visible pages or batch size. */
+#results>.results-status{margin:24px 0;padding:12px 0;color:var(--muted);font-size:13px;line-height:1.7}

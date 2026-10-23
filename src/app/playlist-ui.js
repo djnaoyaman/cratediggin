@@ -6,6 +6,7 @@
  function savedSelection(ok,message){status(ok?message:'選曲は変更しましたが、このブラウザに保存できませんでした。');}
  function removeSelected(id){lastCustomRemoved=myCrate.remove(id);if(lastCustomRemoved)trackInteraction('remove_from_playlist',{song_id:id});const old=queue.slice(),position=old.indexOf(id);refreshSelection();syncSelectionQueue();if(started&&queueCustom&&songs[cur].id===id){pauseActivePlayer();toggleUI(false);if(queue.length){const next=queue[Math.max(0,position)%queue.length];if(albumOwnsPlayback())loadSong(songs.findIndex(t=>t.id===next),started);navigate('#/song/'+next)}else{started=false;status('選曲したプレイリストが空です。曲を追加してください。')}}savedSelection(lastCustomRemoved?.saved,'自分のプレイリストから外しました。取り消せます。');}
  function bindPlaylistRows(host){host.querySelectorAll('.record-card').forEach(link=>{
+ if(link.parentElement?.classList.contains('record-row'))return;
  const id=link.getAttribute('href').split('/').pop(),title=link.querySelector('h3').textContent,row=document.createElement('div');row.className='record-row';link.replaceWith(row);row.append(link);link.draggable=false;
  if(myCrate.has(id)){const marker=document.createElement('span');marker.className='selected-marker';marker.textContent=' ✓';marker.setAttribute('aria-label','自分のプレイリストに選曲済み');link.querySelector('h3').append(marker)}
  const gallery=host.classList.contains('gallery-results');const menu=document.createElement('button');menu.type='button';menu.className='row-menu';menu.textContent=gallery?'ACTIONS':'•••';menu.setAttribute('aria-label',title+'の曲の操作');menu.setAttribute('aria-expanded','false');

@@ -150,7 +150,7 @@ deadline.unref();
         await resetLibrary(); const before = await playback(); await draw(phase);
         const generation = (await state()).generation, original = phase === 'complete' ? await page.locator('#shuffle-play').elementHandle() : null;
         await page.locator('#view-toggle').click(); assert.equal((await state()).generation, generation, 'Density retains draw generation');
-        await page.locator('#results [data-page-next]').first().click(); assert.equal((await state()).generation, generation, 'Pagination retains draw generation');
+        const beforeReveal=await page.locator('#results .record-card').count();await page.locator('.results-status').evaluate(e=>e.scrollIntoView({block:'end'}));await page.waitForFunction(n=>document.querySelectorAll('#results .record-card').length>n,beforeReveal);assert.equal((await state()).generation, generation, 'Progressive reveal retains draw generation');
         if (original) assert(await original.evaluate(e => e.isConnected), 'Completed result retains its original controls');
         await page.locator('#shuffle-play').waitFor({timeout: 6000}); await preserved(before, phase + ' density/pagination');
       }
