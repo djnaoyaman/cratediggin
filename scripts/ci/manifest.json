@@ -5160,6 +5160,18 @@
       "legacy": false,
       "requires_build": true,
       "label": "free99-addition-browser"
+    },
+    {
+      "id": "guru-note1",
+      "argv": [
+        "python",
+        "scripts/verify_guru_note1.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "guru-note1"
     }
   ],
   "groups": {
@@ -6074,6 +6086,9 @@
     "free99_addition": [
       "free99-addition",
       "free99-addition-browser"
+    ],
+    "guru_note1": [
+      "guru-note1"
     ]
   },
   "runtime_rules": {
@@ -8290,7 +8305,8 @@
       "scripts/fixtures/approved-hell_bound-addition.json"
     ],
     "scripts/approved_free99_addition.py": [
-      "scripts/fixtures/approved-free99-addition.json"
+      "scripts/fixtures/approved-free99-addition.json",
+      "scripts/approved_guru_note1.py"
     ],
     "scripts/verify_free99_addition.py": [
       "scripts/approved_free99_addition.py",
@@ -8303,6 +8319,16 @@
     ],
     "scripts/verify_free99_addition_browser.cjs": [
       "scripts/fixtures/approved-free99-addition.json"
+    ],
+    "scripts/approved_guru_note1.py": [
+      "scripts/fixtures/approved-guru-note1.json"
+    ],
+    "scripts/verify_guru_note1.py": [
+      "scripts/approved_guru_note1.py",
+      "tracks.json",
+      "releases.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_free99_addition.py"
     ]
   },
   "policy_paths": [
@@ -8619,7 +8645,9 @@
     "scripts/approved_hell_bound_addition.py",
     "scripts/fixtures/approved-hell_bound-addition.json",
     "scripts/approved_free99_addition.py",
-    "scripts/fixtures/approved-free99-addition.json"
+    "scripts/fixtures/approved-free99-addition.json",
+    "scripts/approved_guru_note1.py",
+    "scripts/fixtures/approved-guru-note1.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9919,6 +9947,13 @@
         "after_sha256": "4c84d2ea6f11893765434bfef43dadf0f7e90d48dcb727a65bde6db54d84709e",
         "groups": [
           "free99_addition"
+        ]
+      },
+      {
+        "before_sha256": "4c84d2ea6f11893765434bfef43dadf0f7e90d48dcb727a65bde6db54d84709e",
+        "after_sha256": "abc0bb070373b42a8f426fd8a708cc0744555c092a96806c29c71f71f18ce9ed",
+        "groups": [
+          "guru_note1"
         ]
       }
     ],

@@ -23952,6 +23952,13 @@
         "sources": [
           1
         ]
+      },
+      {
+        "title": "配信上のProducerクレジット",
+        "text": "Qobuzの本曲の配信クレジットは、DJ PremierとGuruの両者をProducerとして記載している。この表記だけでは、Guruがビートを制作したことや、二人の具体的な分担までは確認できない。",
+        "sources": [
+          2
+        ]
       }
     ],
     "samples": [],
@@ -23971,6 +23978,11 @@
         "label": "収録・発表の資料",
         "url": "https://www.universal-music.co.jp/p/uicy-76777/",
         "kind": "盤情報"
+      },
+      {
+        "label": "Qobuz — Daily Operation：第3曲「Flip the Script」のProducerクレジット",
+        "url": "https://www.qobuz.com/gb-en/album/daily-operation-gang-starr/0094632191052",
+        "kind": "配信メタデータ（曲別制作クレジット）"
       }
     ],
     "producers": [
