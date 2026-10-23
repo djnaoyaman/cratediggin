@@ -72352,5 +72352,1263 @@
       "paletteSourceUrl": "https://music.apple.com/us/album/live-in-concert-ep/637872886",
       "paletteNote": "公式掲載カバーを目視した編集上の近似配色。絵柄・ロゴ・構図や元の文字は再現していません。"
     }
+  },
+  {
+    "id": "little-brother-the-listening",
+    "title": "The Listening",
+    "artist": "Little Brother",
+    "primaryArtist": "Little Brother",
+    "primaryArtists": [
+      "Little Brother"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Little Brother"
+    ],
+    "year": 2003,
+    "album": "The Listening",
+    "category": "Hip Hop",
+    "region": "Durham, North Carolina",
+    "scene": "Durham, North Carolina",
+    "regionBasis": "Artist origin or self-published location from cited primary sources, not recording location. Unconfirmed joint region omitted.",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "Original release year in cited primary catalog; not KIYO mixtape year or later video upload.",
+    "label": "未確認",
+    "essayTitle": "タイトル曲から、デビュー作を聴き直す",
+    "deck": "Little Brotherのデビュー作『The Listening』から、アルバムと同じ名を持つ一曲。",
+    "context": "タイトル曲から、デビュー作を聴き直す",
+    "essay": [
+      "Little Brotherのデビュー作『The Listening』から、アルバムと同じ名を持つ一曲。本人たちの公式カタログは原作を2003年の作品と明記している。現在のDeluxe Editionでは、ボーナス曲とインストゥルメンタルもまとめて聴ける。",
+      "制作は9th Wonder。公式の曲別クレジットにはP. Coleman、T. Jones、P. Douthitの名が並び、ChaundonとMedianらの追加ヴォーカルも記される。DJ KIYOのミックスで出会った短い抜粋から、6分を超える原曲へと戻る入口にしたい。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "sources": [
+      {
+        "label": "littlebrother.bandcamp.com — The Listening",
+        "url": "https://littlebrother.bandcamp.com/album/the-listening-deluxe-edition",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "original2003,edition,region"
+      },
+      {
+        "label": "littlebrother.bandcamp.com — The Listening",
+        "url": "https://littlebrother.bandcamp.com/track/the-listening",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "writer/additionalvocalcredits"
+      },
+      {
+        "label": "www.qobuz.com — The Listening",
+        "url": "https://www.qobuz.com/ie-en/album/the-listening-little-brother/wzpmhjykmri5b",
+        "kind": "配信カタログ",
+        "evidence": "producer9thWonder,length"
+      }
+    ],
+    "youtube": {
+      "id": null,
+      "url": "",
+      "title": "The Listening",
+      "channel": "未確認",
+      "type": "サイト内再生は確認中",
+      "official": null,
+      "embedUrl": "",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "外部リンクで紹介",
+      "versionBasis": "Internalplayer notenabled; external source edition separatelylabelled.",
+      "verification": "日本での再生可否・埋込可否は未確認。サイト内再生は有効化していません。"
+    },
+    "externalAudio": {
+      "url": "https://littlebrother.bandcamp.com/track/the-listening",
+      "label": "公式音源の外部ページ",
+      "edition": "exacttitleversion",
+      "official": true
+    },
+    "versionBasis": "exacttitleversion; exact DJ mix master not verified.",
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "一次資料に基づく解説。実試聴に基づく聴感記述はありません。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "datePublished": "2026-10-23",
+    "addedOrder": 556,
+    "art": {
+      "word": "The Listening",
+      "tag": "LITTLE BROTHER",
+      "lines": [
+        "The Listening"
+      ],
+      "style": "piece",
+      "seed": 202610260,
+      "palette": [
+        "#817950",
+        "#d7d1b6",
+        "#171e35",
+        "#79502e"
+      ],
+      "paletteSource": "The Listening (Deluxe Edition)",
+      "paletteSourceUrl": "https://littlebrother.bandcamp.com/album/the-listening-deluxe-edition",
+      "paletteNote": "公式公開ジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図・既存ロゴは複製せず、独自の文字アートとして制作。"
+    }
+  },
+  {
+    "id": "little-brother-nighttime-maneuvers",
+    "title": "Nighttime Maneuvers",
+    "artist": "Little Brother",
+    "primaryArtist": "Little Brother",
+    "primaryArtists": [
+      "Little Brother"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Little Brother"
+    ],
+    "year": 2003,
+    "album": "The Listening",
+    "category": "Hip Hop",
+    "region": "Durham, North Carolina",
+    "scene": "Durham, North Carolina",
+    "regionBasis": "Artist origin or self-published location from cited primary sources, not recording location. Unconfirmed joint region omitted.",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "Original release year in cited primary catalog; not KIYO mixtape year or later video upload.",
+    "label": "未確認",
+    "essayTitle": "三分の小窓から、ノースカロライナへ",
+    "deck": "「Nighttime Maneuvers」は、Little Brotherの2003年作『The Listening』に収められた一曲。",
+    "context": "三分の小窓から、ノースカロライナへ",
+    "essay": [
+      "「Nighttime Maneuvers」は、Little Brotherの2003年作『The Listening』に収められた一曲。現在の公式Deluxe Editionでも、タイトル曲「The Listening」の直前に置かれている。単独の3分3秒という長さを確認してから、ミックスの抜粋とは区別して辿りたい。",
+      "権利者から供給された配信クレジットでは、プロデュースは9th Wonder、作曲・作詞にはP. ColemanとP. Douthitが並ぶ。同じDeluxe Editionには別トラックとしてインスト版もある。まずヴォーカル入りの原曲を選び、その後に声のない版へ進むという聴き比べもできる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "sources": [
+      {
+        "label": "littlebrother.bandcamp.com — Nighttime Maneuvers",
+        "url": "https://littlebrother.bandcamp.com/album/the-listening-deluxe-edition",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "sequence,year,region,instrumental distinct"
+      },
+      {
+        "label": "www.qobuz.com — Nighttime Maneuvers",
+        "url": "https://www.qobuz.com/ie-en/album/the-listening-little-brother/wzpmhjykmri5b",
+        "kind": "配信カタログ",
+        "evidence": "producer,writers,length"
+      },
+      {
+        "label": "公式音源の外部ページ — Nighttime Maneuvers",
+        "url": "https://littlebrother.bandcamp.com/track/nighttime-maneuvers",
+        "kind": "公式の外部音源・作品ページ（サイト内再生は確認中）"
+      }
+    ],
+    "youtube": {
+      "id": null,
+      "url": "",
+      "title": "Nighttime Maneuvers",
+      "channel": "未確認",
+      "type": "サイト内再生は確認中",
+      "official": null,
+      "embedUrl": "",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "外部リンクで紹介",
+      "versionBasis": "Internalplayer notenabled; external source edition separatelylabelled.",
+      "verification": "日本での再生可否・埋込可否は未確認。サイト内再生は有効化していません。"
+    },
+    "externalAudio": {
+      "url": "https://littlebrother.bandcamp.com/track/nighttime-maneuvers",
+      "label": "公式音源の外部ページ",
+      "edition": "exacttitleversion",
+      "official": true
+    },
+    "versionBasis": "exacttitleversion; exact DJ mix master not verified.",
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "一次資料に基づく解説。実試聴に基づく聴感記述はありません。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "datePublished": "2026-10-23",
+    "addedOrder": 557,
+    "art": {
+      "word": "Nighttime Maneuvers",
+      "tag": "LITTLE BROTHER",
+      "lines": [
+        "Nighttime Maneuvers"
+      ],
+      "style": "piece",
+      "seed": 202610261,
+      "palette": [
+        "#171e35",
+        "#d7d1b6",
+        "#817950",
+        "#79502e"
+      ],
+      "paletteSource": "The Listening (Deluxe Edition)",
+      "paletteSourceUrl": "https://littlebrother.bandcamp.com/track/nighttime-maneuvers",
+      "paletteNote": "公式公開ジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図・既存ロゴは複製せず、独自の文字アートとして制作。"
+    }
+  },
+  {
+    "id": "phonte-not-here-anymore",
+    "title": "Not Here Anymore (feat. Elzhi)",
+    "artist": "Phonte",
+    "primaryArtist": "Phonte",
+    "primaryArtists": [
+      "Phonte"
+    ],
+    "featuredArtists": [
+      "Elzhi"
+    ],
+    "artists": [
+      "Phonte",
+      "Elzhi"
+    ],
+    "year": 2011,
+    "album": "Charity Starts At Home",
+    "category": "Hip Hop",
+    "region": "North Carolina",
+    "scene": "North Carolina",
+    "regionBasis": "Artist origin or self-published location from cited primary sources, not recording location. Unconfirmed joint region omitted.",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "Original release year in cited primary catalog; not KIYO mixtape year or later video upload.",
+    "label": "未確認",
+    "essayTitle": "再び通じ合う、二人の制作言語",
+    "deck": "Phonteの『Charity Starts At Home』に収められた、Elzhi参加の「Not Here Anymore」。",
+    "context": "再び通じ合う、二人の制作言語",
+    "essay": [
+      "Phonteの『Charity Starts At Home』に収められた、Elzhi参加の「Not Here Anymore」。+FE Musicは2011年8月に公式SoundCloudで先行曲として公開し、アルバムは同年9月27日に発売された。",
+      "この曲には、Phonteと9th Wonderの再会という背景もある。2011年のXXLのインタビューで9th Wonderは、長く話していなかった二人が近況を交わしたこと、互いが欲しい音や感触を理解していることを語っている。旧知の相手との共同作業が、ソロ作の一曲に結びついた。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "sources": [
+      {
+        "label": "phonte.bandcamp.com — Not Here Anymore (feat. Elzhi)",
+        "url": "https://phonte.bandcamp.com/album/charity-starts-at-home",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "catalog release,feature,length,region; search indexed, directopen404"
+      },
+      {
+        "label": "soundcloud.com — Not Here Anymore (feat. Elzhi)",
+        "url": "https://soundcloud.com/theforeignexchangemusic/phonte-not-here-anymore-feat",
+        "kind": "公式音源",
+        "evidence": "officialsingle2011-08-24,album2011-09-27"
+      },
+      {
+        "label": "www.xxlmag.com — Not Here Anymore (feat. Elzhi)",
+        "url": "https://www.xxlmag.com/production-credit-9th-wonder-speaks-on-digging-for-samples-take-care-staying-in-his-lane/",
+        "kind": "制作参加者本人インタビュー",
+        "evidence": "directartistinterview2011-10-13 production/reunion"
+      }
+    ],
+    "youtube": {
+      "id": null,
+      "url": "",
+      "title": "Not Here Anymore (feat. Elzhi)",
+      "channel": "未確認",
+      "type": "サイト内再生は確認中",
+      "official": null,
+      "embedUrl": "",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "外部リンクで紹介",
+      "versionBasis": "Internalplayer notenabled; external source edition separatelylabelled.",
+      "verification": "日本での再生可否・埋込可否は未確認。サイト内再生は有効化していません。"
+    },
+    "externalAudio": {
+      "url": "https://soundcloud.com/theforeignexchangemusic/phonte-not-here-anymore-feat",
+      "label": "公式音源の外部ページ",
+      "edition": "exacttitleversion",
+      "official": true
+    },
+    "versionBasis": "exacttitleversion; exact DJ mix master not verified.",
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "一次資料に基づく解説。実試聴に基づく聴感記述はありません。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "datePublished": "2026-10-23",
+    "addedOrder": 558,
+    "art": {
+      "word": "Not Here Anymore (feat. Elzhi)",
+      "tag": "PHONTE",
+      "lines": [
+        "Not Here Anymore (feat. Elzhi)"
+      ],
+      "style": "piece",
+      "seed": 202610262,
+      "palette": [
+        "#091311",
+        "#dce5e1",
+        "#617c78",
+        "#ffffff"
+      ],
+      "paletteSource": "Charity Starts At Home (2011)",
+      "paletteSourceUrl": "https://phonte.bandcamp.com/album/charity-starts-at-home",
+      "paletteNote": "公式公開ジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図・既存ロゴは複製せず、独自の文字アートとして制作。"
+    }
+  },
+  {
+    "id": "robert-glasper-afro-blue-9th-wonder-remix",
+    "title": "Afro Blue (9th Wonder’s Blue Light Basement Remix)",
+    "artist": "Robert Glasper Experiment",
+    "primaryArtist": "Robert Glasper Experiment",
+    "primaryArtists": [
+      "Robert Glasper Experiment"
+    ],
+    "featuredArtists": [
+      "Erykah Badu",
+      "Phonte"
+    ],
+    "artists": [
+      "Robert Glasper Experiment",
+      "Erykah Badu",
+      "Phonte"
+    ],
+    "year": 2012,
+    "album": "Black Radio Recovered: The Remix EP",
+    "category": "Jazz / Hip Hop",
+    "region": "Houston, Texas",
+    "scene": "Houston, Texas",
+    "regionBasis": "Artist origin or self-published location from cited primary sources, not recording location. Unconfirmed joint region omitted.",
+    "producer": "Robert Glasper",
+    "producers": [
+      "Robert Glasper"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "2012 original remix. YouTube metadata2012-10-05 vsBlueNote announcementOct9 discrepancy unexplained;yearagrees. 2017upload/2022reissue notoriginal.",
+    "label": "未確認",
+    "essayTitle": "同じ曲を、別の入口から",
+    "deck": "Erykah Baduを迎えた「Afro Blue」を、9th Wonderがリミックスし、Phonteが加わった版。",
+    "context": "同じ曲を、別の入口から",
+    "essay": [
+      "Erykah Baduを迎えた「Afro Blue」を、9th Wonderがリミックスし、Phonteが加わった版。Robert Glasper Experimentの『Black Radio Recovered: The Remix EP』に収められている。アルバム『Black Radio』の原曲とは分けて選びたい。",
+      "Blue Noteは2012年10月のEP発売告知で、この版を曲目の先頭に掲げた。公式配信クレジットもRobert Glasperをプロデューサー、9th Wonderをリミキサーとして区別する。2022年の『Black Radio』10周年盤にも収録されたが、このリミックス自体は2012年の作品だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "sources": [
+      {
+        "label": "www.bluenote.com — Afro Blue (9th Wonder’s Blue Light Basement Remix)",
+        "url": "https://www.bluenote.com/robert-glasper-announces-oct-9-release-of-bla/",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "EP2012-10-09announcement,exactversion"
+      },
+      {
+        "label": "www.youtube.com — Afro Blue (9th Wonder’s Blue Light Basement Remix)",
+        "url": "https://www.youtube.com/watch?v=0HbagZwKBro",
+        "kind": "公式音源",
+        "evidence": "SEARCHMETADATAONLY officialOAC UMG,2012-10-05digitaldate,producer/remixer"
+      },
+      {
+        "label": "www.bluenote.com — Afro Blue (9th Wonder’s Blue Light Basement Remix)",
+        "url": "https://www.bluenote.com/robert-glasper-black-radio-10th-anniversary-deluxe-edition/",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "reissue2022 notoriginal"
+      },
+      {
+        "label": "www.bluenote.com — Afro Blue (9th Wonder’s Blue Light Basement Remix)",
+        "url": "https://www.bluenote.com/artist/robert-glasper/",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Houston origin"
+      }
+    ],
+    "youtube": {
+      "id": null,
+      "url": "",
+      "title": "Afro Blue (9th Wonder’s Blue Light Basement Remix)",
+      "channel": "未確認",
+      "type": "サイト内再生は確認中",
+      "official": null,
+      "embedUrl": "",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "外部リンクで紹介",
+      "versionBasis": "Internalplayer notenabled; external source edition separatelylabelled.",
+      "verification": "日本での再生可否・埋込可否は未確認。サイト内再生は有効化していません。"
+    },
+    "externalAudio": {
+      "url": "https://www.youtube.com/watch?v=0HbagZwKBro",
+      "label": "公式音源の外部ページ",
+      "edition": "exacttitleversion",
+      "official": true
+    },
+    "versionBasis": "exacttitleversion; exact DJ mix master not verified.",
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "一次資料に基づく解説。実試聴に基づく聴感記述はありません。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "remixer": "9th Wonder",
+    "datePublished": "2026-10-23",
+    "addedOrder": 559,
+    "art": {
+      "word": "Afro Blue (9th Wonder’s Blue Light Basement Remix)",
+      "tag": "ROBERT GLASPER EXPERIMENT",
+      "lines": [
+        "Afro Blue (9th Wonder’s Blue Light Basement Remix)"
+      ],
+      "style": "piece",
+      "seed": 202610263,
+      "palette": [
+        "#d5c39a",
+        "#131712",
+        "#a4442a",
+        "#667c84"
+      ],
+      "paletteSource": "Black Radio Recovered: The Remix EP (2012)",
+      "paletteSourceUrl": "https://soundcloud.com/robertglasper/robert-glasper-afro-blue-remix",
+      "paletteNote": "公式公開ジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図・既存ロゴは複製せず、独自の文字アートとして制作。"
+    }
+  },
+  {
+    "id": "9th-wonder-buckshot-here-we-go",
+    "title": "Here We Go",
+    "artist": "9th Wonder & Buckshot",
+    "primaryArtist": "9th Wonder",
+    "primaryArtists": [
+      "9th Wonder",
+      "Buckshot"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "9th Wonder",
+      "Buckshot"
+    ],
+    "year": 2008,
+    "album": "The Formula",
+    "category": "Hip Hop",
+    "region": "未確認",
+    "scene": "未確認",
+    "regionBasis": "Artist origin or self-published location from cited primary sources, not recording location. Unconfirmed joint region omitted.",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "Original release year in cited primary catalog; not KIYO mixtape year or later video upload.",
+    "label": "未確認",
+    "essayTitle": "共同名義のアルバムを辿る",
+    "deck": "「Here We Go」は9th WonderとBuckshotの共同名義作『The Formula』に収録された2008年の曲。",
+    "context": "共同名義のアルバムを辿る",
+    "essay": [
+      "「Here We Go」は9th WonderとBuckshotの共同名義作『The Formula』に収録された2008年の曲。Duck Down名義の配信カタログでは10曲目として確認できる。制作は9th Wonder。",
+      "同名曲の多いタイトルだからこそ、アーティスト名だけでなく、アルバム名まで合わせて辿りたい。DJ KIYOの選曲から、二人が並んで名を連ねた一枚へと戻るための一曲だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "sources": [
+      {
+        "label": "www.qobuz.com — Here We Go",
+        "url": "https://www.qobuz.com/us-en/album/the-formula-9th-wonder-buckshot/qy3fzbxkrb7wb",
+        "kind": "配信カタログ",
+        "evidence": "year,album,track10"
+      },
+      {
+        "label": "music.apple.com — Here We Go",
+        "url": "https://music.apple.com/us/song/370711464",
+        "kind": "配信カタログ",
+        "evidence": "title,artist,2008catalog"
+      },
+      {
+        "label": "www.complex.com — Here We Go",
+        "url": "https://www.complex.com/music/a/jaeki-cho/interview-9th-wonder",
+        "kind": "制作参加者本人インタビュー",
+        "evidence": "direct9thWonderinterview Formula section; onlyproducerattribution drawn;25wordbudget"
+      },
+      {
+        "label": "soundcloud.com — Here We Go",
+        "url": "https://soundcloud.com/official-buckshot",
+        "kind": "公式音源",
+        "evidence": "officialBuckshotbio Brooklyn; artistregion not wholecollaborationregion"
+      }
+    ],
+    "youtube": {
+      "id": null,
+      "url": "",
+      "title": "Here We Go",
+      "channel": "未確認",
+      "type": "サイト内再生は確認中",
+      "official": null,
+      "embedUrl": "",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "外部リンクで紹介",
+      "versionBasis": "Internalplayer notenabled; external source edition separatelylabelled.",
+      "verification": "日本での再生可否・埋込可否は未確認。サイト内再生は有効化していません。"
+    },
+    "externalAudio": {
+      "url": "https://music.apple.com/us/song/370711464",
+      "label": "Apple Musicで作品情報・試聴",
+      "edition": "TheFormulaofficialcatalog;previewmayrequirelogin/region",
+      "official": true
+    },
+    "versionBasis": "TheFormulaofficialcatalog;previewmayrequirelogin/region; exact DJ mix master not verified.",
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "一次資料に基づく解説。実試聴に基づく聴感記述はありません。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "datePublished": "2026-10-23",
+    "addedOrder": 560,
+    "art": {
+      "word": "Here We Go",
+      "tag": "9TH WONDER & BUCKSHOT",
+      "lines": [
+        "Here We Go"
+      ],
+      "style": "piece",
+      "seed": 202610264,
+      "palette": [
+        "#164a30",
+        "#c5d8a2",
+        "#f0f2e0",
+        "#7b8d49",
+        "#17251b"
+      ],
+      "paletteSource": "The Formula",
+      "paletteSourceUrl": "https://music.apple.com/us/album/the-formula/370711405",
+      "paletteNote": "公式カタログのジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図は複製せず独自の文字アートとして制作。"
+    }
+  },
+  {
+    "id": "rapsody-power",
+    "title": "Power (feat. Kendrick Lamar & Lance Skiiiwalker)",
+    "artist": "Rapsody",
+    "primaryArtist": "Rapsody",
+    "primaryArtists": [
+      "Rapsody"
+    ],
+    "featuredArtists": [
+      "Kendrick Lamar",
+      "Lance Skiiiwalker"
+    ],
+    "artists": [
+      "Rapsody",
+      "Kendrick Lamar",
+      "Lance Skiiiwalker"
+    ],
+    "year": 2017,
+    "album": "Laila’s Wisdom",
+    "category": "Hip Hop",
+    "region": "North Carolina",
+    "scene": "North Carolina",
+    "regionBasis": "Artist origin or self-published location from cited primary sources, not recording location. Unconfirmed joint region omitted.",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "Original release year in cited primary catalog; not KIYO mixtape year or later video upload.",
+    "label": "未確認",
+    "essayTitle": "演奏者の名前まで辿る",
+    "deck": "Rapsodyの『Laila’s Wisdom』に収められた2017年の一曲。",
+    "context": "演奏者の名前まで辿る",
+    "essay": [
+      "Rapsodyの『Laila’s Wisdom』に収められた2017年の一曲。制作は9th Wonder、客演はKendrick LamarとLance Skiiiwalker。Terrace Martinの鍵盤と編曲も加わり、演奏者のクレジットからアルバムの共同制作をたどれる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ]
+    ],
+    "sources": [
+      {
+        "label": "www.youtube.com — Power (feat. Kendrick Lamar & Lance Skiiiwalker)",
+        "url": "https://www.youtube.com/watch?v=TZsmRmdtVUE",
+        "kind": "公式音源",
+        "evidence": "OAC Rapsody; UMG delivery; original release 2017-09-22; Jamla/Roc Nation; producer9thWonder; TerraceMartin arrangement and MarlonWilliams strings"
+      },
+      {
+        "label": "www.shazam.com — Power (feat. Kendrick Lamar & Lance Skiiiwalker)",
+        "url": "https://www.shazam.com/song/1440940233/power-feat-kendrick-lamar-and-lance-skiiiwalker",
+        "kind": "配信カタログ",
+        "evidence": "2017-09-22; performers Rapsody/Kendrick/Lance; producer9thWonder; TerraceMartin keyboards"
+      },
+      {
+        "label": "rapsody.bandcamp.com — Power (feat. Kendrick Lamar & Lance Skiiiwalker)",
+        "url": "https://rapsody.bandcamp.com/album/for-everything",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Artist account tagged North Carolina"
+      },
+      {
+        "label": "open.spotify.com — Power (feat. Kendrick Lamar & Lance Skiiiwalker)",
+        "url": "https://open.spotify.com/intl-fr/track/6SxfpFpECdR0bc0aL8Rygq",
+        "kind": "配信カタログ",
+        "evidence": "Album version duration5:34 and label2017"
+      }
+    ],
+    "youtube": {
+      "id": null,
+      "url": "",
+      "title": "Power (feat. Kendrick Lamar & Lance Skiiiwalker)",
+      "channel": "未確認",
+      "type": "サイト内再生は確認中",
+      "official": null,
+      "embedUrl": "",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "外部リンクで紹介",
+      "versionBasis": "Internalplayer notenabled; external source edition separatelylabelled.",
+      "verification": "日本での再生可否・埋込可否は未確認。サイト内再生は有効化していません。"
+    },
+    "externalAudio": {
+      "url": "https://www.youtube.com/watch?v=TZsmRmdtVUE",
+      "label": "公式配信音源（YouTube）",
+      "edition": "LailasWisdomalbumversion",
+      "official": true
+    },
+    "versionBasis": "LailasWisdomalbumversion; exact DJ mix master not verified.",
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "一次資料に基づく解説。実試聴に基づく聴感記述はありません。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "datePublished": "2026-10-23",
+    "addedOrder": 561,
+    "art": {
+      "word": "Power (feat. Kendrick Lamar & Lance Skiiiwalker)",
+      "tag": "RAPSODY",
+      "lines": [
+        "Power (feat. Kendrick Lamar & Lance Skiiiwalker)"
+      ],
+      "style": "piece",
+      "seed": 202610265,
+      "palette": [
+        "#d8b64b",
+        "#171818",
+        "#c4517c",
+        "#486c43",
+        "#eee2c5"
+      ],
+      "paletteSource": "Laila’s Wisdom",
+      "paletteSourceUrl": "https://music.apple.com/us/album/lailas-wisdom/1440939999",
+      "paletteNote": "公式カタログのジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図は複製せず独自の文字アートとして制作。"
+    }
+  },
+  {
+    "id": "anderson-paak-the-season-carry-me",
+    "title": "The Season / Carry Me",
+    "artist": "Anderson .Paak",
+    "primaryArtist": "Anderson .Paak",
+    "primaryArtists": [
+      "Anderson .Paak"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Anderson .Paak"
+    ],
+    "year": 2015,
+    "album": "Malibu",
+    "category": "Hip Hop",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "regionBasis": "Artist origin or self-published location from cited primary sources, not recording location. Unconfirmed joint region omitted.",
+    "producer": "9th Wonder & Callum Connor",
+    "producers": [
+      "9th Wonder",
+      "Callum Connor"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "Single original release2015-11-08; Malibu album2016. Displayyear2015 refers songfirstrelease.",
+    "label": "未確認",
+    "essayTitle": "アルバムの前に発表された二つの題",
+    "deck": "『Malibu』では2016年の一曲として出会うが、単曲は2015年11月に先行発表されている。",
+    "context": "アルバムの前に発表された二つの題",
+    "essay": [
+      "『Malibu』では2016年の一曲として出会うが、単曲は2015年11月に先行発表されている。「The Season / Carry Me」という二つの題を一曲に持ち、制作には9th WonderとCallum Connorが名を連ねる。シングルの初出とアルバム収録を分けて押さえたい作品だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    ],
+    "sources": [
+      {
+        "label": "music.apple.com — The Season / Carry Me",
+        "url": "https://music.apple.com/us/album/the-season-carry-me-single/1056869728",
+        "kind": "配信カタログ",
+        "evidence": "Single2015-11-08; OBE/Apeshit/EMPIRE"
+      },
+      {
+        "label": "music.apple.com — The Season / Carry Me",
+        "url": "https://music.apple.com/us/song/1065681697",
+        "kind": "配信カタログ",
+        "evidence": "Track credit producers9thWonder and CallumConnor"
+      },
+      {
+        "label": "breezylovejoy.bandcamp.com — The Season / Carry Me",
+        "url": "https://breezylovejoy.bandcamp.com/track/the-season-carry-me",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Artist/EMPIRE affiliated catalog; Malibu edition2016-01-15; artist profile Los Angeles"
+      },
+      {
+        "label": "soundcloud.com — The Season / Carry Me",
+        "url": "https://soundcloud.com/andersonpaak/sets/malibu",
+        "kind": "公式音源",
+        "evidence": "Official artist track title credits9thWonder and CallumConnor; track2015-11-07 UTC"
+      },
+      {
+        "label": "www.youtube.com — The Season / Carry Me",
+        "url": "https://www.youtube.com/watch?v=p7GH9JJlDL8",
+        "kind": "公式音源",
+        "evidence": "OAC Anderson Paak, titleThe Season|Carry Me"
+      }
+    ],
+    "youtube": {
+      "id": null,
+      "url": "",
+      "title": "The Season / Carry Me",
+      "channel": "未確認",
+      "type": "サイト内再生は確認中",
+      "official": null,
+      "embedUrl": "",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "外部リンクで紹介",
+      "versionBasis": "Internalplayer notenabled; external source edition separatelylabelled.",
+      "verification": "日本での再生可否・埋込可否は未確認。サイト内再生は有効化していません。"
+    },
+    "externalAudio": {
+      "url": "https://www.youtube.com/watch?v=p7GH9JJlDL8",
+      "label": "公式音源（YouTube）",
+      "edition": "The Season / CarryMe single; NOTTheWaterscombinedMV",
+      "official": true
+    },
+    "versionBasis": "The Season / CarryMe single; NOTTheWaterscombinedMV; exact DJ mix master not verified.",
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "一次資料に基づく解説。実試聴に基づく聴感記述はありません。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "datePublished": "2026-10-23",
+    "addedOrder": 562,
+    "art": {
+      "word": "The Season / Carry Me",
+      "tag": "ANDERSON .PAAK",
+      "lines": [
+        "The Season / Carry Me"
+      ],
+      "style": "piece",
+      "seed": 202610266,
+      "palette": [
+        "#b4c48c",
+        "#e4deb4",
+        "#91364e",
+        "#6eaaa0",
+        "#343830"
+      ],
+      "paletteSource": "The Season / Carry Me – Single (2015)",
+      "paletteSourceUrl": "https://music.apple.com/us/album/the-season-carry-me-single/1056869728",
+      "paletteNote": "公式カタログのジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図は複製せず独自の文字アートとして制作。"
+    }
+  },
+  {
+    "id": "2-chainz-threat-2-society",
+    "title": "Threat 2 Society",
+    "artist": "2 Chainz",
+    "primaryArtist": "2 Chainz",
+    "primaryArtists": [
+      "2 Chainz"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "2 Chainz"
+    ],
+    "year": 2019,
+    "album": "Rap or Go to the League",
+    "category": "Hip Hop",
+    "region": "College Park, Georgia",
+    "scene": "College Park, Georgia",
+    "regionBasis": "Artist origin or self-published location from cited primary sources, not recording location. Unconfirmed joint region omitted.",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "Original release year in cited primary catalog; not KIYO mixtape year or later video upload.",
+    "label": "未確認",
+    "essayTitle": "制作クレジットがつなぐ南部の一曲",
+    "deck": "ジョージア州College Parkの2 Chainzが、2019年の『Rap or Go to the League』に収めた曲。",
+    "context": "制作クレジットがつなぐ南部の一曲",
+    "essay": [
+      "ジョージア州College Parkの2 Chainzが、2019年の『Rap or Go to the League』に収めた曲。9th Wonderの制作、Nolan Presleyの録音、Finis “KY” Whiteのミックスというクレジットを確認できる。南部のラッパーとノースカロライナの制作家を結ぶ、DJ KIYOの9th Wonder選曲を広げる一枚。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "www.youtube.com — Threat 2 Society",
+        "url": "https://www.youtube.com/watch?v=jeVivltkmV4",
+        "kind": "公式音源",
+        "evidence": "2ChainzOAC; UMG; release2019-03-01;9thWonderproducer; NolanPresley recording; FinisKYWhite mixing"
+      },
+      {
+        "label": "music.apple.com — Threat 2 Society",
+        "url": "https://music.apple.com/us/song/1454470255",
+        "kind": "配信カタログ",
+        "evidence": "Track identity and2019-03-01 release"
+      },
+      {
+        "label": "www.universalmusic.it — Threat 2 Society",
+        "url": "https://www.universalmusic.it/popular-music/album/rap-or-go-to-the-league_35314513802/",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "DolbyAtmos variant credits9thWonder; do not use anomalous albumdate2018-11-16"
+      },
+      {
+        "label": "www.universalmusic.ca — Threat 2 Society",
+        "url": "https://www.universalmusic.ca/2023/11/17/2-chainz-lil-wayne-drop-highly-anticipated-new-album-welcome-2-collegrove-available-today/",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Label explicitly identifies hometownCollegePark Georgia"
+      }
+    ],
+    "youtube": {
+      "id": null,
+      "url": "",
+      "title": "Threat 2 Society",
+      "channel": "未確認",
+      "type": "サイト内再生は確認中",
+      "official": null,
+      "embedUrl": "",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "外部リンクで紹介",
+      "versionBasis": "Internalplayer notenabled; external source edition separatelylabelled.",
+      "verification": "日本での再生可否・埋込可否は未確認。サイト内再生は有効化していません。"
+    },
+    "externalAudio": {
+      "url": "https://www.youtube.com/watch?v=jeVivltkmV4",
+      "label": "公式配信音源（YouTube）",
+      "edition": "Rap or Go to the League albumversion",
+      "official": true
+    },
+    "versionBasis": "Rap or Go to the League albumversion; exact DJ mix master not verified.",
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "一次資料に基づく解説。実試聴に基づく聴感記述はありません。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "datePublished": "2026-10-23",
+    "addedOrder": 563,
+    "art": {
+      "word": "Threat 2 Society",
+      "tag": "2 CHAINZ",
+      "lines": [
+        "Threat 2 Society"
+      ],
+      "style": "piece",
+      "seed": 202610267,
+      "palette": [
+        "#d9b54a",
+        "#a88d51",
+        "#594332",
+        "#c4b69a",
+        "#292720"
+      ],
+      "paletteSource": "Rap or Go to the League",
+      "paletteSourceUrl": "https://music.apple.com/us/album/rap-or-go-to-the-league/1455519361",
+      "paletteNote": "公式カタログのジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図は複製せず独自の文字アートとして制作。"
+    }
+  },
+  {
+    "id": "sean-price-heartburn",
+    "title": "Heartburn",
+    "artist": "Sean Price",
+    "primaryArtist": "Sean Price",
+    "primaryArtists": [
+      "Sean Price"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Sean Price"
+    ],
+    "year": 2005,
+    "album": "Monkey Barz",
+    "category": "Hip Hop",
+    "region": "Brooklyn",
+    "scene": "Brooklyn",
+    "regionBasis": "Artist origin or self-published location from cited primary sources, not recording location. Unconfirmed joint region omitted.",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "Original release year in cited primary catalog; not KIYO mixtape year or later video upload.",
+    "label": "未確認",
+    "essayTitle": "ソロ作と制作家が交わる場所",
+    "deck": "BrooklynのSean Priceによる『Monkey Barz』（2005年）収録曲。",
+    "context": "ソロ作と制作家が交わる場所",
+    "essay": [
+      "BrooklynのSean Priceによる『Monkey Barz』（2005年）収録曲。制作は9th Wonder。Duck Downから発表されたこの曲は、Sean Priceのソロ作品と9th Wonderの制作仕事が交わる場所として聴きたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2,
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "music.apple.com — Heartburn",
+        "url": "https://music.apple.com/us/album/monkey-barz/355812879",
+        "kind": "配信カタログ",
+        "evidence": "2005 MonkeyBarz album;DuckDownMusic"
+      },
+      {
+        "label": "www.youtube.com — Heartburn",
+        "url": "https://www.youtube.com/watch?v=-S4f2l5oP8M",
+        "kind": "公式音源",
+        "evidence": "VirginMusicGroup delivered;DuckDown;MonkeyBarz; writerP.Douthit;ByNone so uploader needsidentityclosure"
+      },
+      {
+        "label": "www.complex.com — Heartburn",
+        "url": "https://www.complex.com/music/a/insanul-ahmed/sean-price-25-essentials",
+        "kind": "制作参加者本人インタビュー",
+        "evidence": "Direct SeanPrice interview Heartburn section identifies9thWonder beat; use only very brief summary due25wordlimit"
+      },
+      {
+        "label": "seanprice.duckdown.com — Heartburn",
+        "url": "https://seanprice.duckdown.com/author/SeanPrice/",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Officiallabel memorial identifiesBrooklyn/Brownsville"
+      },
+      {
+        "label": "Duck Down Music — Onion Head / Heartburn（公式2曲構成MV）",
+        "url": "https://www.youtube.com/watch?v=NEWVam8XuaA",
+        "kind": "レーベル公式MV",
+        "evidence": "Searchmetadata DuckDownMusic; combined two-song video, not isolatedHeartburn."
+      }
+    ],
+    "youtube": {
+      "id": null,
+      "url": "",
+      "title": "Heartburn",
+      "channel": "未確認",
+      "type": "サイト内再生は確認中",
+      "official": null,
+      "embedUrl": "",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "外部リンクで紹介",
+      "versionBasis": "Internalplayer notenabled; external source edition separatelylabelled.",
+      "verification": "日本での再生可否・埋込可否は未確認。サイト内再生は有効化していません。"
+    },
+    "externalAudio": {
+      "url": "https://www.youtube.com/watch?v=NEWVam8XuaA",
+      "label": "Onion Head / Heartburn（公式2曲構成MV）",
+      "edition": "Two-songcombinedMV;referenceonlyNOTsingletrackaudio",
+      "official": true
+    },
+    "versionBasis": "Two-songcombinedMV;referenceonlyNOTsingletrackaudio; exact DJ mix master not verified.",
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "一次資料に基づく解説。実試聴に基づく聴感記述はありません。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "datePublished": "2026-10-23",
+    "addedOrder": 564,
+    "art": {
+      "word": "Heartburn",
+      "tag": "SEAN PRICE",
+      "lines": [
+        "Heartburn"
+      ],
+      "style": "piece",
+      "seed": 202610268,
+      "palette": [
+        "#bd224d",
+        "#922665",
+        "#13101a",
+        "#9e9fce"
+      ],
+      "paletteSource": "Monkey Barz",
+      "paletteSourceUrl": "https://music.apple.com/us/album/monkey-barz/355812879",
+      "paletteNote": "公式カタログのジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図は複製せず独自の文字アートとして制作。"
+    }
+  },
+  {
+    "id": "westside-gunn-wrestlemania-20",
+    "title": "Wrestlemania 20 (feat. Anderson .Paak)",
+    "artist": "Westside Gunn",
+    "primaryArtist": "Westside Gunn",
+    "primaryArtists": [
+      "Westside Gunn"
+    ],
+    "featuredArtists": [
+      "Anderson .Paak"
+    ],
+    "artists": [
+      "Westside Gunn",
+      "Anderson .Paak"
+    ],
+    "year": 2018,
+    "album": "Supreme Blientele",
+    "category": "Hip Hop",
+    "region": "Buffalo",
+    "scene": "Buffalo",
+    "regionBasis": "Artist origin or self-published location from cited primary sources, not recording location. Unconfirmed joint region omitted.",
+    "producer": "未確認",
+    "producers": [],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "Original release year in cited primary catalog; not KIYO mixtape year or later video upload.",
+    "label": "未確認",
+    "essayTitle": "公開動画の日付より前にある一枚",
+    "deck": "BuffaloのWestside Gunnが2018年に発表した『Supreme Blientele』から、Anderson .Paakを迎えた一曲。",
+    "context": "公開動画の日付より前にある一枚",
+    "essay": [
+      "BuffaloのWestside Gunnが2018年に発表した『Supreme Blientele』から、Anderson .Paakを迎えた一曲。Daupeのレコード版にも6分24秒のトラックとして記載される。2022年に追加された公式配信動画を見る場合も、作品の発表年は2018年と分けて押さえたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "www.youtube.com — Wrestlemania 20 (feat. Anderson .Paak)",
+        "url": "https://www.youtube.com/watch?v=_6woMoW3JJk",
+        "kind": "公式音源",
+        "evidence": "WestsideGunnOAC;EMPIRE;Griselda2018;2018-06-22release;2022upload"
+      },
+      {
+        "label": "music.apple.com — Wrestlemania 20 (feat. Anderson .Paak)",
+        "url": "https://music.apple.com/us/song/1604971476",
+        "kind": "配信カタログ",
+        "evidence": "SupremeBlientele track featuringAnderson.Paak;2018-06-22"
+      },
+      {
+        "label": "daupe.bandcamp.com — Wrestlemania 20 (feat. Anderson .Paak)",
+        "url": "https://daupe.bandcamp.com/album/supreme-blientele?t=2",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Labelphysicalcatalog exacttracklisted6:24"
+      },
+      {
+        "label": "www.shadyrecords.com — Wrestlemania 20 (feat. Anderson .Paak)",
+        "url": "https://www.shadyrecords.com/2020/07/29/westside-gunn-announces-new-album-who-made-the-sunshine/",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Officiallabel explicitlyBuffalo hometown"
+      }
+    ],
+    "youtube": {
+      "id": null,
+      "url": "",
+      "title": "Wrestlemania 20 (feat. Anderson .Paak)",
+      "channel": "未確認",
+      "type": "サイト内再生は確認中",
+      "official": null,
+      "embedUrl": "",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "外部リンクで紹介",
+      "versionBasis": "Internalplayer notenabled; external source edition separatelylabelled.",
+      "verification": "日本での再生可否・埋込可否は未確認。サイト内再生は有効化していません。"
+    },
+    "externalAudio": {
+      "url": "https://www.youtube.com/watch?v=_6woMoW3JJk",
+      "label": "公式配信音源（YouTube）",
+      "edition": "SupremeBlientele2018;upload2022notoriginalyear",
+      "official": true
+    },
+    "versionBasis": "SupremeBlientele2018;upload2022notoriginalyear; exact DJ mix master not verified.",
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "一次資料に基づく解説。実試聴に基づく聴感記述はありません。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "datePublished": "2026-10-23",
+    "addedOrder": 565,
+    "art": {
+      "word": "Wrestlemania 20 (feat. Anderson .Paak)",
+      "tag": "WESTSIDE GUNN",
+      "lines": [
+        "Wrestlemania 20 (feat. Anderson .Paak)"
+      ],
+      "style": "piece",
+      "seed": 202610269,
+      "palette": [
+        "#111111",
+        "#cececb",
+        "#eeeeea",
+        "#eb171b"
+      ],
+      "paletteSource": "Supreme Blientele",
+      "paletteSourceUrl": "https://daupe.bandcamp.com/album/supreme-blientele",
+      "paletteNote": "公式カタログのジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図は複製せず独自の文字アートとして制作。"
+    }
   }
 ]

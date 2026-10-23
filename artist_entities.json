@@ -733,5 +733,41 @@
   },
   "Wiz Khalifa & Curren$y": {
     "type": null
+  },
+  "Little Brother": {
+    "type": "MusicGroup"
+  },
+  "Phonte": {
+    "type": "Person"
+  },
+  "Elzhi": {
+    "type": "Person"
+  },
+  "Robert Glasper Experiment": {
+    "type": "MusicGroup"
+  },
+  "9th Wonder": {
+    "type": "Person"
+  },
+  "Buckshot": {
+    "type": "Person"
+  },
+  "9th Wonder & Buckshot": {
+    "type": null
+  },
+  "Rapsody": {
+    "type": "Person"
+  },
+  "Lance Skiiiwalker": {
+    "type": "Person"
+  },
+  "2 Chainz": {
+    "type": "Person"
+  },
+  "Sean Price": {
+    "type": "Person"
+  },
+  "Westside Gunn": {
+    "type": "Person"
   }
 }

@@ -5340,6 +5340,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "gallery-visibility-browser"
+    },
+    {
+      "id": "external-articles",
+      "argv": [
+        "python",
+        "scripts/verify_external_articles.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "external-articles"
+    },
+    {
+      "id": "external-articles-browser",
+      "argv": [
+        "node",
+        "scripts/verify_external_articles_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "external-articles-browser"
     }
   ],
   "groups": {
@@ -6294,6 +6318,17 @@
       "d3aa673ac108a720",
       "4d25788a3f2e8faa",
       "3a98739a23fad1c3"
+    ],
+    "external_articles": [
+      "external-articles",
+      "external-articles-browser",
+      "11cc02294f7b3422",
+      "edf6a18bb0e41e73",
+      "c0e498c4bc9a0343",
+      "8aa8a08ab16690d1",
+      "4700053810aa755c",
+      "66d6521fb1ff5bb0",
+      "be79c0fe5c1e7856"
     ]
   },
   "runtime_rules": {
@@ -8661,7 +8696,8 @@
       "scripts/approved_guru_note4.py"
     ],
     "scripts/approved_gallery_visibility.py": [
-      "scripts/fixtures/approved-gallery-visibility.json"
+      "scripts/fixtures/approved-gallery-visibility.json",
+      "scripts/approved_external_articles.py"
     ],
     "scripts/verify_gallery_visibility.py": [
       "scripts/approved_gallery_visibility.py",
@@ -8676,6 +8712,25 @@
     "scripts/verify_gallery_visibility_browser.cjs": [
       "scripts/fixtures/approved-gallery-visibility.json",
       "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_external_articles.py": [
+      "scripts/fixtures/approved-external-articles.json"
+    ],
+    "scripts/verify_external_articles.py": [
+      "scripts/approved_external_articles.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "artist_entities.json",
+      "releases.json",
+      "build.py",
+      "src/app/song-ui.js",
+      "src/app/player.js",
+      "src/app/core.js",
+      "scripts/ci/manifest.json",
+      "scripts/approved_gallery_visibility.py"
+    ],
+    "scripts/verify_external_articles_browser.cjs": [
+      "scripts/fixtures/approved-external-articles.json"
     ]
   },
   "policy_paths": [
@@ -9014,7 +9069,9 @@
     "scripts/approved_guru_note5.py",
     "scripts/fixtures/approved-guru-note5.json",
     "scripts/approved_gallery_visibility.py",
-    "scripts/fixtures/approved-gallery-visibility.json"
+    "scripts/fixtures/approved-gallery-visibility.json",
+    "scripts/approved_external_articles.py",
+    "scripts/fixtures/approved-external-articles.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9180,6 +9237,13 @@
         "groups": [
           "audio_source_labels"
         ]
+      },
+      {
+        "before_sha256": "7b914a297133b1f5faf0e545439652040e320f570e3bf01e1e22eb8b9eaa3648",
+        "after_sha256": "b5d1fec4e1c6e86e7d91d41cf6c2203ca72cac6f6c9ac5c6fae30106a661b2d0",
+        "groups": [
+          "external_articles"
+        ]
       }
     ],
     "src/app/router.js": [
@@ -9258,6 +9322,13 @@
         "groups": [
           "audio_source_labels"
         ]
+      },
+      {
+        "before_sha256": "9be068242bd7a74855b021ed997f67a60d2b5c46cc404249418ac2ef69fd279b",
+        "after_sha256": "b5d2936f6549c042614acae18553e0cdf49d09c338eb081fe5d21cd04334435d",
+        "groups": [
+          "external_articles"
+        ]
       }
     ],
     "src/app/inline-player.js": [
@@ -9305,6 +9376,13 @@
         "after_sha256": "1dd7ea63abd86dccfac6f8fb1db68422b903649761674b95c50eaaf16468ddf9",
         "groups": [
           "reader_research_notes"
+        ]
+      },
+      {
+        "before_sha256": "1dd7ea63abd86dccfac6f8fb1db68422b903649761674b95c50eaaf16468ddf9",
+        "after_sha256": "b88081095293bfeb2a33c9565881077ad5fdbbfaa153ef5ed2f7866dbacaa6e6",
+        "groups": [
+          "external_articles"
         ]
       }
     ],
@@ -10392,6 +10470,13 @@
         "groups": [
           "guru_note5"
         ]
+      },
+      {
+        "before_sha256": "7bd69260c1f1f99577029c06541c49b1643747d94cdd145dac3694ef1f1b459a",
+        "after_sha256": "117a707b612ac854a4198eab1193932fbe9bcd6aaec82d5c2e3bf6b4681fbd64",
+        "groups": [
+          "external_articles"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -10865,6 +10950,13 @@
         "groups": [
           "kiyo_batch3"
         ]
+      },
+      {
+        "before_sha256": "ddb4c3d8a1190ef5b7341414d3e3b1862f35d459fc39720aa85acfc593a0dff2",
+        "after_sha256": "ceba44e55d1fd34c62335493050b3772feab9a0898136945db54900bfa325dd9",
+        "groups": [
+          "external_articles"
+        ]
       }
     ],
     "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
@@ -11113,6 +11205,13 @@
         "after_sha256": "2d1b1d31c6b975ff4abc962d8ca9e622c63746973b2b7b9716f654c2a2d595cf",
         "groups": [
           "kiyo_batch3"
+        ]
+      },
+      {
+        "before_sha256": "2d1b1d31c6b975ff4abc962d8ca9e622c63746973b2b7b9716f654c2a2d595cf",
+        "after_sha256": "640daf30baf59c93ef9f3ed64e375d409c996453e48001200a786bfe642c3933",
+        "groups": [
+          "external_articles"
         ]
       }
     ],
@@ -11996,6 +12095,96 @@
         "after_sha256": "76c55e440ffd4c01d2f5d10040fb8e88cd4e14e81df5189cfc4df77c6dac798d",
         "groups": [
           "kiyo_batch3"
+        ]
+      }
+    ],
+    "assets/graffiti/little-brother-the-listening-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "613d6d5a360bb41c8d77630e13767eec046cf65d482bbafd8c09bb578969c258",
+        "groups": [
+          "external_articles"
+        ]
+      }
+    ],
+    "assets/graffiti/little-brother-nighttime-maneuvers-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "29d41291a1c41c26bb0f94cdf680405bb097cb12c49e267a83f1645b2ce817e0",
+        "groups": [
+          "external_articles"
+        ]
+      }
+    ],
+    "assets/graffiti/phonte-not-here-anymore-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "7ebc6baff3d5c9ca7c844970ec2bd69520738ce219e458da0dc55919e0f3514b",
+        "groups": [
+          "external_articles"
+        ]
+      }
+    ],
+    "assets/graffiti/robert-glasper-afro-blue-9th-wonder-remix-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "6b212cf448acd3808cd341f06d015d80671905c0e482003d2bc4fb38a8827fec",
+        "groups": [
+          "external_articles"
+        ]
+      }
+    ],
+    "assets/graffiti/9th-wonder-buckshot-here-we-go-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "450afdd020d029e2bea4d9dff64505c99da00df5bf1ab8d595d0db504ae1b1cf",
+        "groups": [
+          "external_articles"
+        ]
+      }
+    ],
+    "assets/graffiti/rapsody-power-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "e39639e8bc2ef080e09ffe2b33b66fd3ed0bf9d00dd552b14437fe578ab1be11",
+        "groups": [
+          "external_articles"
+        ]
+      }
+    ],
+    "assets/graffiti/anderson-paak-the-season-carry-me-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "6eb54625ce1f90469795cc2cc7f7a242e95bcb0bb9e8aff67646f66f1e961909",
+        "groups": [
+          "external_articles"
+        ]
+      }
+    ],
+    "assets/graffiti/2-chainz-threat-2-society-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "28ab53a9301781b665cf12c3db141b518814e316ebb91e55071df41431cfe20e",
+        "groups": [
+          "external_articles"
+        ]
+      }
+    ],
+    "assets/graffiti/sean-price-heartburn-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "2b20cdfec2bead69c94b80343772129e3a93eed63335d05d189c4e466ad3bf9c",
+        "groups": [
+          "external_articles"
+        ]
+      }
+    ],
+    "assets/graffiti/westside-gunn-wrestlemania-20-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "560c712c0f928d8ce68c92bc9517a4ec5df7a38c7dd998b847f62961d9ac5a5a",
+        "groups": [
+          "external_articles"
         ]
       }
     ]
