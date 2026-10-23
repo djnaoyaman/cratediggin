@@ -79,7 +79,7 @@
  }
  function trackInteraction(name,params={}){
   // Only public catalog IDs and fixed action values; never names typed into MY CRATE or search text.
-  if(typeof window.gtag==='function')window.gtag('event',name,params);
+  try{if(typeof window.gtag==='function')window.gtag('event',name,params);}catch(_){}
  }
  function articleByline(value){
   const p=pageRegistry[value];
@@ -127,3 +127,4 @@
   event.preventDefault();navigate(next);
  });
  addEventListener('popstate',route);
+
