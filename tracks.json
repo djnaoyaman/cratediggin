@@ -73610,5 +73610,1226 @@
       "paletteSourceUrl": "https://daupe.bandcamp.com/album/supreme-blientele",
       "paletteNote": "公式カタログのジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図は複製せず独自の文字アートとして制作。"
     }
+  },
+  {
+    "id": "rapsody-2-am",
+    "title": "2 AM",
+    "artist": "Rapsody",
+    "primaryArtist": "Rapsody",
+    "primaryArtists": [
+      "Rapsody"
+    ],
+    "featuredArtists": [
+      "Ab-Soul"
+    ],
+    "artists": [
+      "Rapsody",
+      "Ab-Soul"
+    ],
+    "year": 2016,
+    "album": "Crown",
+    "category": "Hip Hop",
+    "region": "",
+    "scene": "",
+    "regionBasis": "未確認の地域は省略。録音地と出身地を混同しない。",
+    "producer": "Khrysis & 9th Wonder",
+    "producers": [
+      "Khrysis",
+      "9th Wonder"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "公式公開または配信カタログの原作年。後年アップロードや再配信と区別。",
+    "label": "Jamla Records",
+    "essayTitle": "Ab-Soulを迎えた、Crownの一曲",
+    "deck": "RapsodyがAb-Soulを迎えた「2 AM」。2016年の『Crown』に収められ、Jamla Recordsの公式SoundCloudでは同年11月15日に公開されている。",
+    "context": "Ab-Soulを迎えた、Crownの一曲",
+    "essay": [
+      "RapsodyがAb-Soulを迎えた「2 AM」。2016年の『Crown』に収められ、Jamla Recordsの公式SoundCloudでは同年11月15日に公開されている。",
+      "制作はKhrysisと9th Wonderの共同クレジット。客演だけでなく制作陣も確かめながら、『Crown』へ戻る入口にしたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        0
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Jamla Records — 2 AM",
+        "url": "https://soundcloud.com/jamlarecords/rapsody-2-am-ft-ab-soul",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "artist;guest;production;public2016-11-15"
+      },
+      {
+        "label": "Apple Music — 2 AM",
+        "url": "https://music.apple.com/sg/song/1177802829",
+        "kind": "配信カタログ",
+        "evidence": "Crown;year2016;guest"
+      }
+    ],
+    "youtube": {
+      "id": null,
+      "url": "",
+      "title": "2 AM",
+      "channel": "未確認",
+      "type": "サイト内再生は確認中",
+      "official": null,
+      "embedUrl": "",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "外部リンクで紹介",
+      "versionBasis": "Internalplayer notenabled; external source edition separatelylabelled.",
+      "verification": "日本での再生可否・埋込可否は未確認。サイト内再生は有効化していません。"
+    },
+    "externalAudio": {
+      "url": "https://soundcloud.com/jamlarecords/rapsody-2-am-ft-ab-soul",
+      "label": "Jamla Records公式音源（SoundCloud）",
+      "edition": "公式曲別ページ。DJミックスと同一マスターの照合は未実施。",
+      "official": true
+    },
+    "versionBasis": "exacttitleversion; exact DJ mix master not verified.",
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "一次資料に基づく解説。実試聴に基づく聴感記述はありません。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "datePublished": "2026-10-23",
+    "addedOrder": 566,
+    "art": {
+      "word": "2 AM",
+      "tag": "RAPSODY",
+      "lines": [
+        "2 AM"
+      ],
+      "style": "piece",
+      "seed": 202610270,
+      "palette": [
+        "#291414",
+        "#a37a46",
+        "#8e3441",
+        "#ded1b8",
+        "#272625"
+      ],
+      "paletteSource": "Crown",
+      "paletteSourceUrl": "https://music.apple.com/sg/song/1177802829",
+      "paletteNote": "公式カタログのジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図は複製せず独自の文字アートとして制作。"
+    }
+  },
+  {
+    "id": "murs-9th-wonder-no-shots",
+    "title": "No Shots",
+    "artist": "Murs & 9th Wonder",
+    "primaryArtist": "Murs",
+    "primaryArtists": [
+      "Murs",
+      "9th Wonder"
+    ],
+    "featuredArtists": [
+      "Mac Miller",
+      "Vinny Radio",
+      "Franchise",
+      "Choo Jackson"
+    ],
+    "artists": [
+      "Murs",
+      "9th Wonder",
+      "Mac Miller",
+      "Vinny Radio",
+      "Franchise",
+      "Choo Jackson"
+    ],
+    "year": 2015,
+    "album": "Brighter Daze",
+    "category": "Hip Hop",
+    "region": "",
+    "scene": "",
+    "regionBasis": "未確認の地域は省略。録音地と出身地を混同しない。",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "公式公開または配信カタログの原作年。後年アップロードや再配信と区別。",
+    "label": "Jamla Records",
+    "essayTitle": "四人の客演とたどる、Brighter Daze",
+    "deck": "Mursと9th Wonderの『Brighter Daze』から「No Shots」。Mac Miller、Vinny Radio、Franchise、Choo Jacksonが名を連ねる。",
+    "context": "四人の客演とたどる、Brighter Daze",
+    "essay": [
+      "Mursと9th Wonderの『Brighter Daze』から「No Shots」。Mac Miller、Vinny Radio、Franchise、Choo Jacksonが名を連ねる。",
+      "Jamla Recordsは2015年12月31日にこの音源を公開した。後年の再配信日と区別して、当時の公式ページから作品をたどれる。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Jamla Records — No Shots",
+        "url": "https://soundcloud.com/jamlarecords/murs-9th-wonder-no-shots-ft-mac-miller-vinny-radio-franchise-and-choo-jackson",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "jointartist;guests;BrighterDaze;originalpublication2015-12-31"
+      }
+    ],
+    "youtube": {
+      "id": null,
+      "url": "",
+      "title": "No Shots",
+      "channel": "未確認",
+      "type": "サイト内再生は確認中",
+      "official": null,
+      "embedUrl": "",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "外部リンクで紹介",
+      "versionBasis": "Internalplayer notenabled; external source edition separatelylabelled.",
+      "verification": "日本での再生可否・埋込可否は未確認。サイト内再生は有効化していません。"
+    },
+    "externalAudio": {
+      "url": "https://soundcloud.com/jamlarecords/murs-9th-wonder-no-shots-ft-mac-miller-vinny-radio-franchise-and-choo-jackson",
+      "label": "Jamla Records公式音源（SoundCloud）",
+      "edition": "公式曲別ページ。DJミックスと同一マスターの照合は未実施。",
+      "official": true
+    },
+    "versionBasis": "exacttitleversion; exact DJ mix master not verified.",
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "一次資料に基づく解説。実試聴に基づく聴感記述はありません。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "datePublished": "2026-10-23",
+    "addedOrder": 567,
+    "art": {
+      "word": "No Shots",
+      "tag": "MURS & 9TH WONDER",
+      "lines": [
+        "No Shots"
+      ],
+      "style": "piece",
+      "seed": 202610271,
+      "palette": [
+        "#dededb",
+        "#17191a",
+        "#272e49",
+        "#737782",
+        "#e44450"
+      ],
+      "paletteSource": "Brighter Daze",
+      "paletteSourceUrl": "https://soundcloud.com/jamlarecords/murs-9th-wonder-no-shots-ft-mac-miller-vinny-radio-franchise-and-choo-jackson",
+      "paletteNote": "公式カタログのジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図は複製せず独自の文字アートとして制作。"
+    }
+  },
+  {
+    "id": "9th-wonder-tellmenow",
+    "title": "TellMeNow!!!",
+    "artist": "9th Wonder",
+    "primaryArtist": "9th Wonder",
+    "primaryArtists": [
+      "9th Wonder"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "9th Wonder"
+    ],
+    "year": 2017,
+    "album": "Zion II",
+    "category": "Hip Hop",
+    "region": "",
+    "scene": "",
+    "regionBasis": "未確認の地域は省略。録音地と出身地を混同しない。",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "公式公開または配信カタログの原作年。後年アップロードや再配信と区別。",
+    "label": "Jamla Records",
+    "essayTitle": "Zion IIの曲目から、もう一歩奥へ",
+    "deck": "「TellMeNow!!!」は9th Wonderの『Zion II』に収録された2017年の作品。Apple Musicの曲別ページも、この曲を同作に結び付けている。",
+    "context": "Zion IIの曲目から、もう一歩奥へ",
+    "essay": [
+      "「TellMeNow!!!」は9th Wonderの『Zion II』に収録された2017年の作品。Apple Musicの曲別ページも、この曲を同作に結び付けている。",
+      "『Zion II』はJamla Recordsから発表された43曲入りのアルバム。ミックスの曲名を手掛かりに、収録作品全体へと掘り進めたい。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Apple Music — TellMeNow!!!",
+        "url": "https://music.apple.com/us/song/1325503346",
+        "kind": "配信カタログ",
+        "evidence": "artist;title;album;year"
+      },
+      {
+        "label": "Apple Music — Zion II",
+        "url": "https://music.apple.com/us/album/zion-ii/1325502928",
+        "kind": "配信カタログ",
+        "evidence": "2017-12-15;43tracks;JamlaRecords"
+      }
+    ],
+    "youtube": {
+      "id": null,
+      "url": "",
+      "title": "TellMeNow!!!",
+      "channel": "未確認",
+      "type": "サイト内再生は確認中",
+      "official": null,
+      "embedUrl": "",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "外部リンクで紹介",
+      "versionBasis": "Internalplayer notenabled; external source edition separatelylabelled.",
+      "verification": "日本での再生可否・埋込可否は未確認。サイト内再生は有効化していません。"
+    },
+    "externalAudio": {
+      "url": "https://music.apple.com/us/song/1325503346",
+      "label": "Apple Musicで作品情報・試聴",
+      "edition": "公式曲別ページ。DJミックスと同一マスターの照合は未実施。",
+      "official": true
+    },
+    "versionBasis": "exacttitleversion; exact DJ mix master not verified.",
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "一次資料に基づく解説。実試聴に基づく聴感記述はありません。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "datePublished": "2026-10-23",
+    "addedOrder": 568,
+    "art": {
+      "word": "TellMeNow!!!",
+      "tag": "9TH WONDER",
+      "lines": [
+        "TellMeNow!!!"
+      ],
+      "style": "piece",
+      "seed": 202610272,
+      "palette": [
+        "#506b73",
+        "#929c91",
+        "#e4ddcc",
+        "#292b28",
+        "#aa9780"
+      ],
+      "paletteSource": "Zion II",
+      "paletteSourceUrl": "https://music.apple.com/us/album/zion-ii/1325502928",
+      "paletteNote": "公式ジャケットを実視認した編集上の近似配色。人物・構図・既存ロゴは複製せず、独自の文字アートとして制作。"
+    }
+  },
+  {
+    "id": "9th-wonder-buckshot-no-comparison",
+    "title": "No Comparison",
+    "artist": "9th Wonder & Buckshot",
+    "primaryArtist": "9th Wonder",
+    "primaryArtists": [
+      "9th Wonder",
+      "Buckshot"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "9th Wonder",
+      "Buckshot"
+    ],
+    "year": 2005,
+    "album": "Chemistry",
+    "category": "Hip Hop",
+    "region": "",
+    "scene": "",
+    "regionBasis": "未確認の地域は省略。録音地と出身地を混同しない。",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "公式公開または配信カタログの原作年。後年アップロードや再配信と区別。",
+    "label": "Duck Down Music",
+    "essayTitle": "Chemistryをたどる、9曲目の接点",
+    "deck": "9th WonderとBuckshotの「No Comparison」は、2005年の共同作『Chemistry』に収録。Duck Down公式ストアの曲目では9曲目に置かれている。",
+    "context": "Chemistryをたどる、9曲目の接点",
+    "essay": [
+      "9th WonderとBuckshotの「No Comparison」は、2005年の共同作『Chemistry』に収録。Duck Down公式ストアの曲目では9曲目に置かれている。",
+      "公式紹介はBlack MoonのBuckshotと、ノースカロライナのプロデューサー9th Wonderによる共同作として同盤を位置付ける。一曲から、二人のアルバムへ戻る入口だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        0
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Duck Down公式ストア — Chemistry",
+        "url": "https://www.shopduckdown.com/product/5QLPDM29/buckshot-9thwonder-chemistry",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "original2005;artists;track9;9thproducerbio"
+      },
+      {
+        "label": "Qobuz — Chemistry",
+        "url": "https://www.qobuz.com/fr-fr/album/chemistry-9th-wonder-and-buckshot/0693461201422",
+        "kind": "配信カタログ",
+        "evidence": "catalogtitle;year;label;writers-not-producers"
+      },
+      {
+        "label": "Apple Music — No Comparison",
+        "url": "https://music.apple.com/us/song/no-comparison/355819006",
+        "kind": "配信カタログ",
+        "evidence": "exact official catalog track URL observed in Apple playlist JSONLD"
+      }
+    ],
+    "youtube": {
+      "id": null,
+      "url": "",
+      "title": "No Comparison",
+      "channel": "未確認",
+      "type": "サイト内再生は確認中",
+      "official": null,
+      "embedUrl": "",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "外部リンクで紹介",
+      "versionBasis": "Internalplayer notenabled; external source edition separatelylabelled.",
+      "verification": "日本での再生可否・埋込可否は未確認。サイト内再生は有効化していません。"
+    },
+    "externalAudio": {
+      "url": "https://music.apple.com/us/song/no-comparison/355819006",
+      "label": "Apple Musicで作品情報・試聴",
+      "edition": "公式曲別ページ。DJミックスと同一マスターの照合は未実施。",
+      "official": true
+    },
+    "versionBasis": "exacttitleversion; exact DJ mix master not verified.",
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "一次資料に基づく解説。実試聴に基づく聴感記述はありません。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "datePublished": "2026-10-23",
+    "addedOrder": 569,
+    "art": {
+      "word": "No Comparison",
+      "tag": "9TH WONDER & BUCKSHOT",
+      "lines": [
+        "No Comparison"
+      ],
+      "style": "piece",
+      "seed": 202610273,
+      "palette": [
+        "#77ddeb",
+        "#d833c5",
+        "#8ee941",
+        "#f5e942",
+        "#302638",
+        "#ffffd9"
+      ],
+      "paletteSource": "Chemistry",
+      "paletteSourceUrl": "https://music.apple.com/us/playlist/best-of-duck-down-music-inc/pl.f42fd9e7500043e7874a6c3e123761fc",
+      "paletteNote": "公式ジャケットを実視認した編集上の近似配色。人物・構図・既存ロゴは複製せず、独自の文字アートとして制作。"
+    }
+  },
+  {
+    "id": "problem-top-off",
+    "title": "Top Off",
+    "artist": "Problem",
+    "primaryArtist": "Problem",
+    "primaryArtists": [
+      "Problem"
+    ],
+    "featuredArtists": [
+      "Airplane James"
+    ],
+    "artists": [
+      "Problem",
+      "Airplane James"
+    ],
+    "year": 2017,
+    "album": "Selfish",
+    "category": "Hip Hop",
+    "region": "",
+    "scene": "",
+    "regionBasis": "未確認の地域は省略。録音地と出身地を混同しない。",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "公式公開または配信カタログの原作年。後年アップロードや再配信と区別。",
+    "label": "Diamond Lane Music Group / EMPIRE",
+    "essayTitle": "Selfishから、Airplane Jamesとの一曲",
+    "deck": "ProblemがAirplane Jamesを迎えた「Top Off」。2017年の『Selfish』に収録されている。",
+    "context": "Selfishから、Airplane Jamesとの一曲",
+    "essay": [
+      "ProblemがAirplane Jamesを迎えた「Top Off」。2017年の『Selfish』に収録されている。",
+      "配信カタログでは現在のJasonMartin名義で表示される一方、Beatportの同曲ページではProblem名義を確認できる。ここではDJ KIYOのリストに合わせ、Problemとして紹介する。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Apple Music — Top Off",
+        "url": "https://music.apple.com/gb/song/1288222126",
+        "kind": "配信カタログ",
+        "evidence": "JasonMartin;guest;Selfish;2017"
+      },
+      {
+        "label": "Beatport — Top Off",
+        "url": "https://www.beatport.com/track/top-off-feat-airplane-james/23176944",
+        "kind": "配信カタログ",
+        "evidence": "Problem;guest;2017;label"
+      }
+    ],
+    "youtube": {
+      "id": null,
+      "url": "",
+      "title": "Top Off",
+      "channel": "未確認",
+      "type": "サイト内再生は確認中",
+      "official": null,
+      "embedUrl": "",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "外部リンクで紹介",
+      "versionBasis": "Internalplayer notenabled; external source edition separatelylabelled.",
+      "verification": "日本での再生可否・埋込可否は未確認。サイト内再生は有効化していません。"
+    },
+    "externalAudio": {
+      "url": "https://music.apple.com/gb/song/1288222126",
+      "label": "Apple Musicで作品情報・試聴",
+      "edition": "公式曲別ページ。DJミックスと同一マスターの照合は未実施。",
+      "official": true
+    },
+    "versionBasis": "exacttitleversion; exact DJ mix master not verified.",
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "一次資料に基づく解説。実試聴に基づく聴感記述はありません。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "datePublished": "2026-10-23",
+    "addedOrder": 570,
+    "art": {
+      "word": "Top Off",
+      "tag": "PROBLEM",
+      "lines": [
+        "Top Off"
+      ],
+      "style": "piece",
+      "seed": 202610274,
+      "palette": [
+        "#070707",
+        "#424242",
+        "#909090",
+        "#eeeeee"
+      ],
+      "paletteSource": "Selfish",
+      "paletteSourceUrl": "https://music.apple.com/gb/song/1288222126",
+      "paletteNote": "公式ジャケットを実視認した編集上の近似配色。人物・構図・既存ロゴは複製せず、独自の文字アートとして制作。"
+    }
+  },
+  {
+    "id": "king-magnetic-under-pressure",
+    "title": "Under Pressure",
+    "artist": "King Magnetic",
+    "primaryArtist": "King Magnetic",
+    "primaryArtists": [
+      "King Magnetic"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "King Magnetic"
+    ],
+    "year": 2014,
+    "album": "Timing Is Everything",
+    "category": "Hip Hop",
+    "region": "Allentown, Pennsylvania",
+    "scene": "Allentown, Pennsylvania",
+    "regionBasis": "本人プロフィールの所在地。共同名義の地域は省略し、録音地と混同しない。",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "公式公開または配信カタログの原作年。後年アップロードや再配信と区別。",
+    "label": "未確認",
+    "essayTitle": "先行曲から、Timing Is Everythingへ",
+    "deck": "King Magneticが2014年に公式SoundCloudで公開した「Under Pressure」。翌2015年の『Timing Is Everything』に収録されている。",
+    "context": "先行曲から、Timing Is Everythingへ",
+    "essay": [
+      "King Magneticが2014年に公式SoundCloudで公開した「Under Pressure」。翌2015年の『Timing Is Everything』に収録されている。",
+      "制作は9th Wonder、ミックスはKhrysis。本人の拠点Allentownと、ミックスが行われたRaleighのBright Lady Studiosを区別して押さえたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "sources": [
+      {
+        "label": "soundcloud.com — Under Pressure",
+        "url": "https://soundcloud.com/kingmagnetic/king-magnetic-under-pressure-beat-by-9th-wonder",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Official artist upload 2014-10-28; producer9thWonder; mixedKhrysis at BrightLadyStudios RaleighNC"
+      },
+      {
+        "label": "kingmagnetic.bandcamp.com — Under Pressure",
+        "url": "https://kingmagnetic.bandcamp.com/album/timing-is-everything-2",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Official artist; album2015-07-10; track3 duration3:07; producer9thWonder; profileAllentownPA"
+      }
+    ],
+    "youtube": {
+      "id": null,
+      "url": "",
+      "title": "Under Pressure",
+      "channel": "未確認",
+      "type": "サイト内再生は確認中",
+      "official": null,
+      "embedUrl": "",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "外部リンクで紹介",
+      "versionBasis": "Internalplayer notenabled; external source edition separatelylabelled.",
+      "verification": "日本での再生可否・埋込可否は未確認。サイト内再生は有効化していません。"
+    },
+    "externalAudio": {
+      "url": "https://kingmagnetic.bandcamp.com/album/timing-is-everything-2",
+      "label": "Bandcampで公式アルバムを聴く（3曲目）",
+      "edition": "Confirmed album page; exacttrackpath open cache miss, not used.",
+      "official": true
+    },
+    "versionBasis": "exacttitleversion; exact DJ mix master not verified.",
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "一次資料に基づく解説。実試聴に基づく聴感記述はありません。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "datePublished": "2026-10-23",
+    "addedOrder": 571,
+    "art": {
+      "word": "Under Pressure",
+      "tag": "KING MAGNETIC",
+      "lines": [
+        "Under Pressure"
+      ],
+      "style": "piece",
+      "seed": 202610275,
+      "palette": [
+        "#191a19",
+        "#413a32",
+        "#727676",
+        "#bfc8c7",
+        "#e3dfd5"
+      ],
+      "paletteSource": "Timing Is Everything",
+      "paletteSourceUrl": "https://kingmagnetic.bandcamp.com/album/timing-is-everything-2",
+      "paletteNote": "公式カタログのジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図は複製せず独自の文字アートとして制作。"
+    }
+  },
+  {
+    "id": "talib-kweli-9th-wonder-life-ahead-of-me",
+    "title": "Life Ahead Of Me",
+    "artist": "Talib Kweli & 9th Wonder",
+    "primaryArtist": "Talib Kweli",
+    "primaryArtists": [
+      "Talib Kweli",
+      "9th Wonder"
+    ],
+    "featuredArtists": [
+      "Rapsody"
+    ],
+    "artists": [
+      "Talib Kweli",
+      "9th Wonder",
+      "Rapsody"
+    ],
+    "year": 2015,
+    "album": "Indie 500",
+    "category": "Hip Hop",
+    "region": "",
+    "scene": "",
+    "regionBasis": "本人プロフィールの所在地。共同名義の地域は省略し、録音地と混同しない。",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "公式公開または配信カタログの原作年。後年アップロードや再配信と区別。",
+    "label": "未確認",
+    "essayTitle": "Rapsodyを迎えた、Indie 500の一曲",
+    "deck": "Talib Kweliと9th Wonderの『Indie 500』（2015年）に収録された「Life Ahead Of Me」。Rapsodyが客演し、制作は9th Wonderが担当する。",
+    "context": "Rapsodyを迎えた、Indie 500の一曲",
+    "essay": [
+      "Talib Kweliと9th Wonderの『Indie 500』（2015年）に収録された「Life Ahead Of Me」。Rapsodyが客演し、制作は9th Wonderが担当する。",
+      "本人の公式ディスコグラフィーと販売ページで、客演と制作クレジットを確かめられる。2016年公開の公式MVは、原作の発表年とは分けて紹介する。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "sources": [
+      {
+        "label": "talibkweli.com — Life Ahead Of Me",
+        "url": "https://talibkweli.com/discography/",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Artist official discography: album2015-11-06; featRapsody; producer9thWonder"
+      },
+      {
+        "label": "kweliclub.com — Life Ahead Of Me",
+        "url": "https://kweliclub.com/products/talib-kweli-9th-wonder-presents-indie500-cd",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Official artist store track6 featuringRapsody/produced9thWonder; artwork"
+      },
+      {
+        "label": "www.youtube.com — Life Ahead Of Me",
+        "url": "https://www.youtube.com/watch?v=OuEuc13TUag",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "TalibKweli OfficialArtistChannel MV2016-06-13; CamBe directed; trackidentity"
+      },
+      {
+        "label": "soundcloud.com — Life Ahead Of Me",
+        "url": "https://soundcloud.com/talibkweli/popular-tracks",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Artist profileBrooklyn and first2015-11-03 track upload; currentlist also has2017reupload"
+      }
+    ],
+    "youtube": {
+      "id": null,
+      "url": "",
+      "title": "Life Ahead Of Me",
+      "channel": "未確認",
+      "type": "サイト内再生は確認中",
+      "official": null,
+      "embedUrl": "",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "外部リンクで紹介",
+      "versionBasis": "Internalplayer notenabled; external source edition separatelylabelled.",
+      "verification": "日本での再生可否・埋込可否は未確認。サイト内再生は有効化していません。"
+    },
+    "externalAudio": {
+      "url": "https://www.youtube.com/watch?v=OuEuc13TUag",
+      "label": "YouTubeで公式MVを見る",
+      "edition": "Official channel established from search metadata only; no JP/embed/playback claim",
+      "official": true
+    },
+    "versionBasis": "exacttitleversion; exact DJ mix master not verified.",
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "一次資料に基づく解説。実試聴に基づく聴感記述はありません。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "datePublished": "2026-10-23",
+    "addedOrder": 572,
+    "art": {
+      "word": "Life Ahead Of Me",
+      "tag": "TALIB KWELI & 9TH WONDER",
+      "lines": [
+        "Life Ahead Of Me"
+      ],
+      "style": "piece",
+      "seed": 202610276,
+      "palette": [
+        "#fffbea",
+        "#ed2930",
+        "#1176a5",
+        "#141918",
+        "#44a56b"
+      ],
+      "paletteSource": "Indie 500",
+      "paletteSourceUrl": "https://kweliclub.com/products/talib-kweli-9th-wonder-presents-indie500-cd",
+      "paletteNote": "公式ジャケットを実視認した編集上の配色。色のみ参照し画像・人物・構図は複製せず独自文字アート制作。"
+    }
+  },
+  {
+    "id": "smif-n-wessun-let-it-go",
+    "title": "Let It Go",
+    "artist": "Smif-N-Wessun",
+    "primaryArtist": "Smif-N-Wessun",
+    "primaryArtists": [
+      "Smif-N-Wessun"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Smif-N-Wessun"
+    ],
+    "year": 2018,
+    "album": "The All",
+    "category": "Hip Hop",
+    "region": "Brooklyn",
+    "scene": "Brooklyn",
+    "regionBasis": "本人プロフィールの所在地。共同名義の地域は省略し、録音地と混同しない。",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "公式公開または配信カタログの原作年。後年アップロードや再配信と区別。",
+    "label": "未確認",
+    "essayTitle": "先行シングルと、翌年のThe All",
+    "deck": "BrooklynのSmif-N-Wessunが2018年に先行発表した「Let It Go」。翌2019年の『The All』にも収録された一曲だ。",
+    "context": "先行シングルと、翌年のThe All",
+    "essay": [
+      "BrooklynのSmif-N-Wessunが2018年に先行発表した「Let It Go」。翌2019年の『The All』にも収録された一曲だ。",
+      "曲の制作は9th Wonder。Duck Downの公式音源を入口に、シングルとしての初出とアルバムへの収録を分けてたどりたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "sources": [
+      {
+        "label": "www.smifnwessun.com — Let It Go",
+        "url": "https://www.smifnwessun.com/blog/2018/9/8/smif-n-wessun-set-to-release-the-1st-single-let-it-go-from-their-forthcoming-lp",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Artist2018-09-10 post announces Friday single2018-09-14; album date then tentative Jan2019 not final"
+      },
+      {
+        "label": "www.youtube.com — Let It Go",
+        "url": "https://www.youtube.com/watch?v=xzv2T7k2q-M",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "DuckDownMusic officialaudio searchmetadata2018-09-13; explicit producer9thWonder"
+      },
+      {
+        "label": "soundcloud.com — Let It Go",
+        "url": "https://soundcloud.com/duckdown/5-let-it-go",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "LabelSoundCloud; TheAll track2019-02-20; album produced9thWonder&SoulCouncil"
+      },
+      {
+        "label": "www.smifnwessun.com — Let It Go",
+        "url": "https://www.smifnwessun.com/home",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Artist official identifiesBrooklyn duo Tek&Steele and TheALL2019"
+      },
+      {
+        "label": "music.amazon.ca — Let It Go",
+        "url": "https://music.amazon.ca/albums/B07H9P8F45",
+        "kind": "配信カタログ",
+        "evidence": "Single2018-09-14 BucktownUSA/DuckDown; officialcatalog artwork"
+      }
+    ],
+    "youtube": {
+      "id": null,
+      "url": "",
+      "title": "Let It Go",
+      "channel": "未確認",
+      "type": "サイト内再生は確認中",
+      "official": null,
+      "embedUrl": "",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "外部リンクで紹介",
+      "versionBasis": "Internalplayer notenabled; external source edition separatelylabelled.",
+      "verification": "日本での再生可否・埋込可否は未確認。サイト内再生は有効化していません。"
+    },
+    "externalAudio": {
+      "url": "https://soundcloud.com/duckdown/5-let-it-go",
+      "label": "Duck Down公式SoundCloudで聴く",
+      "edition": "Label catalog reference; playback not tested",
+      "official": true
+    },
+    "versionBasis": "exacttitleversion; exact DJ mix master not verified.",
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "一次資料に基づく解説。実試聴に基づく聴感記述はありません。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "datePublished": "2026-10-23",
+    "addedOrder": 573,
+    "art": {
+      "word": "Let It Go",
+      "tag": "SMIF-N-WESSUN",
+      "lines": [
+        "Let It Go"
+      ],
+      "style": "piece",
+      "seed": 202610277,
+      "palette": [
+        "#111111",
+        "#444444",
+        "#969696",
+        "#d5d5d5",
+        "#ffffff"
+      ],
+      "paletteSource": "The All",
+      "paletteSourceUrl": "https://music.apple.com/gb/song/1449502269",
+      "paletteNote": "公式ジャケットを実視認した編集上の配色。色のみ参照し画像・人物・構図は複製せず独自文字アート制作。"
+    }
+  },
+  {
+    "id": "murs-9th-wonder-walk-like-a-god",
+    "title": "Walk Like A God",
+    "artist": "Murs & 9th Wonder",
+    "primaryArtist": "Murs",
+    "primaryArtists": [
+      "Murs",
+      "9th Wonder"
+    ],
+    "featuredArtists": [
+      "Rapsody",
+      "Propaganda"
+    ],
+    "artists": [
+      "Murs",
+      "9th Wonder",
+      "Rapsody",
+      "Propaganda"
+    ],
+    "year": 2015,
+    "album": "Brighter Daze",
+    "category": "Hip Hop",
+    "region": "",
+    "scene": "",
+    "regionBasis": "本人プロフィールの所在地。共同名義の地域は省略し、録音地と混同しない。",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "流通元原作2015表記を採用。公式Bandcamp2016-01-01と本文で区別。市販デジタル2019は再発売。",
+    "label": "未確認",
+    "essayTitle": "初期配信と再発売をつなぐ一曲",
+    "deck": "Mursと9th Wonderの『Brighter Daze』から、RapsodyとPropagandaを迎えた「Walk Like A God」。制作は9th Wonder。",
+    "context": "初期配信と再発売をつなぐ一曲",
+    "essay": [
+      "Mursと9th Wonderの『Brighter Daze』から、RapsodyとPropagandaを迎えた「Walk Like A God」。制作は9th Wonder。",
+      "流通元の商品説明は原作を2015年の作品とし、公式Bandcampには2016年1月1日の日付が残る。2019年の市販デジタル版とは分け、ここでは初期Bandcamp版へのリンクを添える。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        1,
+        2,
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "murs9thwonder.bandcamp.com — Walk Like A God",
+        "url": "https://murs9thwonder.bandcamp.com/track/walk-like-a-god-ft-rapsody-and-propaganda",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Official linked Jamla artistBandcamp exacttrack"
+      },
+      {
+        "label": "murs9thwonder.bandcamp.com — Walk Like A God",
+        "url": "https://murs9thwonder.bandcamp.com/album/brighter-daze",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Bandcamp2016-01-01;4:04;track9; featRapsodyPropaganda; artistprofileLA"
+      },
+      {
+        "label": "wordandsound.net — Walk Like A God",
+        "url": "https://wordandsound.net/presales/2041/-1057",
+        "kind": "流通元商品情報",
+        "evidence": "Distributor labelproductdescription: originallyBandcamp2015; retaildigital2019; wholly9thWonderproduced"
+      },
+      {
+        "label": "music.apple.com — Walk Like A God",
+        "url": "https://music.apple.com/us/song/1576934904",
+        "kind": "配信カタログ",
+        "evidence": "Officialretailtrack2019-07-19 exacttitlefeature"
+      }
+    ],
+    "youtube": {
+      "id": null,
+      "url": "",
+      "title": "Walk Like A God",
+      "channel": "未確認",
+      "type": "サイト内再生は確認中",
+      "official": null,
+      "embedUrl": "",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "外部リンクで紹介",
+      "versionBasis": "Internalplayer notenabled; external source edition separatelylabelled.",
+      "verification": "日本での再生可否・埋込可否は未確認。サイト内再生は有効化していません。"
+    },
+    "externalAudio": {
+      "url": "https://murs9thwonder.bandcamp.com/track/walk-like-a-god-ft-rapsody-and-propaganda",
+      "label": "Bandcampで公式音源を聴く",
+      "edition": "Original12trackBandcamp edition not2019shortenedretail edition",
+      "official": true
+    },
+    "versionBasis": "exacttitleversion; exact DJ mix master not verified.",
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "一次資料に基づく解説。実試聴に基づく聴感記述はありません。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "datePublished": "2026-10-23",
+    "addedOrder": 574,
+    "art": {
+      "word": "Walk Like A God",
+      "tag": "MURS & 9TH WONDER",
+      "lines": [
+        "Walk Like A God"
+      ],
+      "style": "piece",
+      "seed": 202610278,
+      "palette": [
+        "#202943",
+        "#b8b8b5",
+        "#f1f0eb",
+        "#191919",
+        "#e33337"
+      ],
+      "paletteSource": "Brighter Daze",
+      "paletteSourceUrl": "https://murs9thwonder.bandcamp.com/album/brighter-daze",
+      "paletteNote": "公式ジャケットを実視認した編集上の配色。色のみ参照し画像・人物・構図は複製せず独自文字アート制作。"
+    }
+  },
+  {
+    "id": "termanology-grade-a",
+    "title": "Grade A",
+    "artist": "Termanology",
+    "primaryArtist": "Termanology",
+    "primaryArtists": [
+      "Termanology"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Termanology"
+    ],
+    "year": 2015,
+    "album": "Term Brady",
+    "category": "Hip Hop",
+    "region": "Lawrence, Massachusetts",
+    "scene": "Lawrence, Massachusetts",
+    "regionBasis": "本人プロフィールの所在地。共同名義の地域は省略し、録音地と混同しない。",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "公式公開または配信カタログの原作年。後年アップロードや再配信と区別。",
+    "label": "未確認",
+    "essayTitle": "Term Bradyへ戻る、制作陣の接点",
+    "deck": "LawrenceのTermanologyによる『Term Brady』（2015年）の収録曲。9th Wonderが制作し、Statik Selektahがスクラッチを担当する。",
+    "context": "Term Bradyへ戻る、制作陣の接点",
+    "essay": [
+      "LawrenceのTermanologyによる『Term Brady』（2015年）の収録曲。9th Wonderが制作し、Statik Selektahがスクラッチを担当する。",
+      "本人の公式MVは2015年公開。公式Bandcampに記された2019年という日付を初出年と取り違えず、作品の入口としてたどりたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "sources": [
+      {
+        "label": "www.youtube.com — Grade A",
+        "url": "https://www.youtube.com/watch?v=G02qZyjVmqA",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "TermanologyVids OfficialArtistChannel,2015-10-05; TermBradyforthcomingEP; producer9thWonder,cutsStatikSelektah,directedMysterDl"
+      },
+      {
+        "label": "termanologyst.bandcamp.com — Grade A",
+        "url": "https://termanologyst.bandcamp.com/track/grade-a",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Artist ownBandcamp exacttrack fromTermBrady; profileLawrenceMA; Bandcampdate2019-07-06"
+      },
+      {
+        "label": "music.amazon.in — Grade A",
+        "url": "https://music.amazon.in/albums/B085LCWSPS",
+        "kind": "配信カタログ",
+        "evidence": "Rights-holdercatalog TermBrady2015-10-09; GradeA track5 3:07"
+      }
+    ],
+    "youtube": {
+      "id": null,
+      "url": "",
+      "title": "Grade A",
+      "channel": "未確認",
+      "type": "サイト内再生は確認中",
+      "official": null,
+      "embedUrl": "",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "外部リンクで紹介",
+      "versionBasis": "Internalplayer notenabled; external source edition separatelylabelled.",
+      "verification": "日本での再生可否・埋込可否は未確認。サイト内再生は有効化していません。"
+    },
+    "externalAudio": {
+      "url": "https://termanologyst.bandcamp.com/track/grade-a",
+      "label": "Bandcampで公式音源を聴く",
+      "edition": "No playback test claim",
+      "official": true
+    },
+    "versionBasis": "exacttitleversion; exact DJ mix master not verified.",
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "一次資料に基づく解説。実試聴に基づく聴感記述はありません。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "datePublished": "2026-10-23",
+    "addedOrder": 575,
+    "art": {
+      "word": "Grade A",
+      "tag": "TERMANOLOGY",
+      "lines": [
+        "Grade A"
+      ],
+      "style": "piece",
+      "seed": 202610279,
+      "palette": [
+        "#0b1b30",
+        "#c6cccf",
+        "#f4f4ee",
+        "#b84e22",
+        "#1474b5"
+      ],
+      "paletteSource": "Term Brady",
+      "paletteSourceUrl": "https://termanologyst.bandcamp.com/track/grade-a",
+      "paletteNote": "公式ジャケットを実視認した編集上の配色。色のみ参照し画像・人物・構図は複製せず独自文字アート制作。"
+    }
   }
 ]
