@@ -24755,6 +24755,13 @@
         "sources": [
           1
         ]
+      },
+      {
+        "title": "配信上のProducerクレジット",
+        "text": "Qobuzの本曲の配信クレジットは、DJ PremierとGuruの両者をProducerとして記載している。この表記だけでは、Guruがビートを制作したことや、二人の具体的な分担までは確認できない。",
+        "sources": [
+          2
+        ]
       }
     ],
     "samples": [],
@@ -24774,6 +24781,11 @@
         "label": "収録・発表の資料",
         "url": "https://open.spotify.com/track/68CZM1NEyM5wNFbJqBoCu0",
         "kind": "盤情報"
+      },
+      {
+        "label": "Qobuz — Hard to Earn：第17曲「Comin’ for the Datazz」のProducerクレジット",
+        "url": "https://www.qobuz.com/us-en/album/hard-to-earn-gang-starr/0724382843559",
+        "kind": "配信メタデータ（曲別制作クレジット）"
       }
     ],
     "producers": [
