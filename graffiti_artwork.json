@@ -10540,6 +10540,26 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "benjamin-earl-turner-free99",
+      "title": "FREE.99",
+      "artist": "Benjamin Earl Turner",
+      "album": "Bad Nature",
+      "palette": [
+        "#477587",
+        "#72959a",
+        "#a96b3d",
+        "#e1c28c"
+      ],
+      "paletteSource": "Bad Nature — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/1481505218",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/benjamin-earl-turner-free99-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

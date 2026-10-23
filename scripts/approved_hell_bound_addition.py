@@ -6,7 +6,8 @@ raw=(R/'scripts/fixtures/approved-hell_bound-addition.json').read_bytes()
 assert sha(raw)=='53714ebff13c33443f443e45c71ca0cfa6e94f48d6d9a4b89576cc421d7af38b','Immutable addition fixture changed'
 F=json.loads(raw)
 def current_hell_bound_addition_file(path,data):
- return data
+ from approved_free99_addition import historical_free99_addition_file
+ return historical_free99_addition_file(path,data)
 def historical_hell_bound_addition_file(path,data):
  data=current_hell_bound_addition_file(path,data)
  c=F['files'].get(path)

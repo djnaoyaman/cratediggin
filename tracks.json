@@ -69034,5 +69034,144 @@
       "paletteSourceUrl": "https://www.qobuz.com/us-en/album/hell-bound-vince-staples/xbzlehln48ptb",
       "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。"
     }
+  },
+  {
+    "title": "FREE.99",
+    "artist": "Benjamin Earl Turner",
+    "artists": [
+      "Benjamin Earl Turner"
+    ],
+    "year": 2019,
+    "album": "Bad Nature",
+    "producer": "daedaePIVOT",
+    "producers": [
+      "daedaePIVOT"
+    ],
+    "label": "Los Banditos",
+    "region": "Antioch",
+    "category": "Hip Hop",
+    "id": "benjamin-earl-turner-free99",
+    "scene": "Antioch",
+    "essayTitle": "クレジットの先にいる、打楽器奏者",
+    "deck": "daedaePIVOTの歩みから、「FREE.99」を声だけではない角度でたどります。",
+    "essay": [
+      "「FREE.99」の制作側には、クラシック打楽器を学んだ音楽家がいます。daedaePIVOTは自身の紹介ページで、ノースウェスタン大学での専攻と、Civic Orchestra of Chicagoでの活動を記しています。本曲を制作実績に、収録作『Bad Nature』をエグゼクティブ・プロデュース作品に挙げているのも、そのページです。",
+      "彼は2015〜2020年、Sabaのライブで音楽監督を務め、鍵盤やシンセ・ベース、打楽器も担当しました。その歩みを入口にすると、Benjamin Earl Turnerの声だけでなく、言葉とリズムの関わりにも耳を向けたくなります。2019年の「FREE.99」を、ラッパーと制作側の両方からたどってみてください。"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "公式配信とApple Musicの2019年10月4日発売に基づく。依頼ミックスの2020年や動画投稿日とは区別。",
+    "regionBasis": "制作会社の紹介記事が記すBenjamin Earl TurnerとAntiochの関連。録音場所や制作者の出身地の説明ではない。",
+    "producerBasis": "本人の曲別制作実績に基づく参加確認。制作陣の全体や単独制作を確定したものではない。",
+    "versionBasis": "『Bad Nature』のオリジナル歌入りアルバム版。音源表示とカタログは4:14、動画metadataは4:15。依頼ミックス2:47との編集・マスター同一性は未確認。",
+    "context": "『Bad Nature』に収録された、Benjamin Earl Turnerの2019年作。",
+    "producerCreditsComplete": false,
+    "facts": [
+      {
+        "title": "アルバムでの位置",
+        "text": "2019年10月4日発売の『Bad Nature』の7曲目に収録されています。",
+        "sources": [
+          2,
+          3
+        ]
+      },
+      {
+        "title": "確認できる制作参加",
+        "text": "daedaePIVOT本人の制作クレジットに本曲が掲載されています。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Benjamin Earl Turner — FREE.99 公式配信音源",
+        "url": "https://www.youtube.com/watch?v=VAPGW-ZuyfY",
+        "kind": "公式配信音源"
+      },
+      {
+        "label": "daedaePIVOT — 本人の経歴・制作クレジット",
+        "url": "https://daedaepivot.sellfy.store/about/",
+        "kind": "制作者公式"
+      },
+      {
+        "label": "Apple Music — Free.99 配信情報",
+        "url": "https://music.apple.com/us/song/1481505218",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Apple Music — Bad Nature 配信情報",
+        "url": "https://music.apple.com/us/album/bad-nature/1481505209",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Love Song / LBB — アーティスト紹介",
+        "url": "https://lbbonline.com/news/abteen-bagheri-brings-a-7-foot-animatronic-to-life-for-benjamin-earl-turners-video-headspace",
+        "kind": "制作会社発表"
+      },
+      {
+        "label": "BFF.fm — 2020年2月1日 Opal Heights 選曲表",
+        "url": "https://bff.fm/broadcasts/21593",
+        "kind": "放送局選曲記録"
+      }
+    ],
+    "youtube": {
+      "id": "VAPGW-ZuyfY",
+      "url": "https://www.youtube.com/watch?v=VAPGW-ZuyfY",
+      "title": "FREE.99",
+      "channel": "Benjamin Earl Turner - Topic",
+      "provider": "Stem Disintermedia Inc.",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/VAPGW-ZuyfY",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "オリジナル歌入りアルバム版（公式配信）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式配信の投稿表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "addedOrder": 531,
+    "datePublished": "2026-10-23",
+    "art": {
+      "word": "FREE.99",
+      "tag": "BENJAMIN EARL TURNER",
+      "lines": [
+        "FREE.99"
+      ],
+      "style": "piece",
+      "seed": 201910,
+      "palette": [
+        "#477587",
+        "#72959a",
+        "#a96b3d",
+        "#e1c28c"
+      ],
+      "paletteSource": "Bad Nature — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/1481505218",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。"
+    }
   }
 ]

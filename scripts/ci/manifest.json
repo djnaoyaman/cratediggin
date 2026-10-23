@@ -5136,6 +5136,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "hell-bound-addition-browser"
+    },
+    {
+      "id": "free99-addition",
+      "argv": [
+        "python",
+        "scripts/verify_free99_addition.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "free99-addition"
+    },
+    {
+      "id": "free99-addition-browser",
+      "argv": [
+        "node",
+        "scripts/verify_free99_addition_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "free99-addition-browser"
     }
   ],
   "groups": {
@@ -6046,6 +6070,10 @@
     "hell_bound_addition": [
       "hell-bound-addition",
       "hell-bound-addition-browser"
+    ],
+    "free99_addition": [
+      "free99-addition",
+      "free99-addition-browser"
     ]
   },
   "runtime_rules": {
@@ -8246,7 +8274,8 @@
       "tracks.json"
     ],
     "scripts/approved_hell_bound_addition.py": [
-      "scripts/fixtures/approved-hell_bound-addition.json"
+      "scripts/fixtures/approved-hell_bound-addition.json",
+      "scripts/approved_free99_addition.py"
     ],
     "scripts/verify_hell_bound_addition.py": [
       "scripts/approved_hell_bound_addition.py",
@@ -8259,6 +8288,21 @@
     ],
     "scripts/verify_hell_bound_addition_browser.cjs": [
       "scripts/fixtures/approved-hell_bound-addition.json"
+    ],
+    "scripts/approved_free99_addition.py": [
+      "scripts/fixtures/approved-free99-addition.json"
+    ],
+    "scripts/verify_free99_addition.py": [
+      "scripts/approved_free99_addition.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "releases.json",
+      "artist_entities.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_hell_bound_addition.py"
+    ],
+    "scripts/verify_free99_addition_browser.cjs": [
+      "scripts/fixtures/approved-free99-addition.json"
     ]
   },
   "policy_paths": [
@@ -8573,7 +8617,9 @@
     "scripts/approved_legacy_feature_cards.py",
     "scripts/fixtures/approved-legacy-feature-cards.json",
     "scripts/approved_hell_bound_addition.py",
-    "scripts/fixtures/approved-hell_bound-addition.json"
+    "scripts/fixtures/approved-hell_bound-addition.json",
+    "scripts/approved_free99_addition.py",
+    "scripts/fixtures/approved-free99-addition.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9867,6 +9913,13 @@
         "groups": [
           "hell_bound_addition"
         ]
+      },
+      {
+        "before_sha256": "95e538c033f9d9134fae61860c4b19beb0341fc7ba38f25ab944f9f432ebe4ed",
+        "after_sha256": "4c84d2ea6f11893765434bfef43dadf0f7e90d48dcb727a65bde6db54d84709e",
+        "groups": [
+          "free99_addition"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -10312,6 +10365,13 @@
         "groups": [
           "hell_bound_addition"
         ]
+      },
+      {
+        "before_sha256": "f035a4dea4c724c6fae00d19f46025331e30aaeede1171e03079e68fb4d300e2",
+        "after_sha256": "7795644c93f97db32b3855bcf14f8d17be0889e0ead228fde5dd82b46c286efd",
+        "groups": [
+          "free99_addition"
+        ]
       }
     ],
     "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
@@ -10532,6 +10592,13 @@
         "after_sha256": "b4810f83a3f3bddc135f0f89b7d9d87b94396bcd91124ec051eca94e5777ac91",
         "groups": [
           "hell_bound_addition"
+        ]
+      },
+      {
+        "before_sha256": "b4810f83a3f3bddc135f0f89b7d9d87b94396bcd91124ec051eca94e5777ac91",
+        "after_sha256": "10fb37b2a01b208a3c58d28d753b1b78ef3574867375f6f7628764eb279447b2",
+        "groups": [
+          "free99_addition"
         ]
       }
     ],
@@ -11190,6 +11257,15 @@
         "after_sha256": "00a76a9288f1a5240a1a1d85fed97ef3084a3f5fdec2443e2f6d2d95c2b081b3",
         "groups": [
           "hell_bound_addition"
+        ]
+      }
+    ],
+    "assets/graffiti/benjamin-earl-turner-free99-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "6a94fd8ffb74492ee20595d5dd90ffc7d73cf1fc4f1c4138a7ff210c2a9a864c",
+        "groups": [
+          "free99_addition"
         ]
       }
     ]
