@@ -30,11 +30,14 @@
   const controls=[...document.querySelectorAll('iframe,video,#listening-player,.sample-video,#inline-player-panel,.row-actions:not([hidden]),.row-menu,.transport,.filter-bar,.list-tools,.crate-sort,.advanced-filters,.search,.shuffle-area button')];
   const focused=document.activeElement;if(focused&&focused!==backToTop&&focused.matches('button,input,select,textarea,summary,a[href],[role="button"]'))controls.push(focused);
   const boxes=controls.filter(e=>e.getClientRects().length&&getComputedStyle(e).visibility!=='hidden').map(e=>e.getBoundingClientRect()).filter(r=>r.width>1&&r.height>1&&r.bottom>0&&r.top<innerHeight);
-  // HOME row menus can form a continuous right-hand strip; try a clear horizontal lane too.
-  for(const shift of [0,64]){
+  // HOME row menus form a strip whose inset changes with viewport/layout padding.
+  backToTop.style.setProperty('--top-return-shift','0px');backToTop.style.setProperty('--top-return-lift',baseLift+'px');
+  const edge=backToTop.getBoundingClientRect(),menuBoxes=controls.filter(e=>e.matches('.row-menu')&&e.getClientRects().length&&getComputedStyle(e).visibility!=='hidden').map(e=>e.getBoundingClientRect()).filter(r=>r.width>1&&r.height>1&&r.bottom>0&&r.top<innerHeight&&r.right>edge.left-8&&r.left<edge.right+8);
+  const menuShift=Math.max(64,...menuBoxes.map(r=>edge.right-r.left+12)),safeLeft=Math.max(16,parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--art-safe-left'))||0);
+  for(const shift of [0,menuShift]){
    let lift=baseLift;backToTop.style.setProperty('--top-return-shift',shift+'px');backToTop.style.setProperty('--top-return-lift',lift+'px');
    for(let attempt=0;attempt<=boxes.length;attempt++){
-    const b=backToTop.getBoundingClientRect();if(b.top<72||b.right>innerWidth||b.left<0)break;
+    const b=backToTop.getBoundingClientRect();if(b.top<72||b.right>innerWidth||b.left<safeLeft)break;
     const overlap=boxes.filter(r=>r.right>b.left-8&&r.left<b.right+8&&r.bottom>b.top-8&&r.top<b.bottom+8);if(!overlap.length)return;
     lift+=Math.max(...overlap.map(r=>b.bottom-r.top+12));backToTop.style.setProperty('--top-return-lift',lift+'px');
    }
