@@ -16,8 +16,8 @@ const elements=new Map(),$=selector=>{if(['#back-to-top','#enter-crate'].include
 const buttons=['all','own','related'].map(scope=>({dataset:{featureScope:scope},setAttribute(){}}));
 const view={innerHTML:'',querySelectorAll:selector=>selector==='[data-feature-scope]'?buttons:[]};
 const esc=s=>String(s??'').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
-const context=vm.createContext({songs,window,view,$,esc,top:()=>'',paintResults:()=>{},playableIds:xs=>xs.map(t=>t.id),origin:'https://djnaoyaman.github.io/cratediggin',document:{title:''}});
-vm.runInContext(app.slice(app.indexOf(' function yearLabel('),app.indexOf(' const songs='))+'let customMode,applyListFilters,filtered,queue,resultPage;const browseRestoring=null;'+app.slice(app.indexOf(' const features=['),app.indexOf(' let lastAnalyticsPage'))+';globalThis.api={featurePage,guidePage,featureTracks,featureIdentity,features,listeningGuides,getFiltered:()=>filtered,reviewSummary};',context);
+const context=vm.createContext({songs,window,view,$,esc,top:()=>'',paintResults:()=>{},scopePersonQueue:()=>{},playableIds:xs=>xs.map(t=>t.id),origin:'https://djnaoyaman.github.io/cratediggin',document:{title:''}});
+vm.runInContext(app.slice(app.indexOf(' function yearLabel('),app.indexOf(' const songs='))+'let customMode,applyListFilters,filtered,queue,resultLimit;const RESULT_CHUNK_SIZE=36,browseRestoring=null;const restoredResultLimit=()=>RESULT_CHUNK_SIZE;'+app.slice(app.indexOf(' const features=['),app.indexOf(' let lastAnalyticsPage'))+';globalThis.api={featurePage,guidePage,featureTracks,featureIdentity,features,listeningGuides,getFiltered:()=>filtered,reviewSummary};',context);
 const api=context.api;
 api.featurePage('tribe-production');assert(view.innerHTML.includes('知性が、身体を動かす。'));
 const all=api.getFiltered().map(t=>t.id);buttons[1].onclick();const own=api.getFiltered().map(t=>t.id);buttons[2].onclick();const related=api.getFiltered().map(t=>t.id);

@@ -5412,6 +5412,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "article-first-rollback-browser"
+    },
+    {
+      "id": "continuous-scroll-model",
+      "argv": [
+        "node",
+        "scripts/verify_continuous_scroll.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "continuous-scroll-model"
+    },
+    {
+      "id": "continuous-scroll-scope",
+      "argv": [
+        "python",
+        "scripts/verify_continuous_scroll_scope.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "continuous-scroll-scope"
     }
   ],
   "groups": {
@@ -6385,6 +6409,18 @@
     "article_first_rollback": [
       "article-first-rollback",
       "article-first-rollback-browser"
+    ],
+    "continuous_scroll": [
+      "54a3b5310da6d3db",
+      "8b173b1a3b4b5fcc",
+      "b21fd2c0cd0e8344",
+      "139fd687fe25e7ad",
+      "d3aa673ac108a720",
+      "ac1912fd4817c0c2",
+      "sort-direction-browser",
+      "catalog-scope-repair-browser",
+      "continuous-scroll-model",
+      "continuous-scroll-scope"
     ]
   },
   "runtime_rules": {
@@ -8807,7 +8843,8 @@
       "scripts/fixtures/approved-following-articles.json"
     ],
     "scripts/approved_article_first_rollback.py": [
-      "scripts/fixtures/approved-article-first-rollback.json"
+      "scripts/fixtures/approved-article-first-rollback.json",
+      "scripts/approved_continuous_scroll.py"
     ],
     "scripts/verify_article_first_rollback.py": [
       "scripts/approved_article_first_rollback.py",
@@ -8823,6 +8860,55 @@
     "scripts/verify_article_first_rollback_browser.cjs": [
       "scripts/fixtures/approved-article-first-rollback.json",
       "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/approved_continuous_scroll.py": [
+      "scripts/fixtures/approved-continuous-scroll.json"
+    ],
+    "scripts/verify_continuous_scroll.cjs": [
+      "src/app/catalog-ui.js",
+      "src/app/editorial.js",
+      "src/app/playlist-ui.js",
+      "src/app/router.js",
+      "src/assets/style.css"
+    ],
+    "scripts/verify_continuous_scroll_browser.cjs": [
+      "src/app/catalog-ui.js",
+      "src/app/editorial.js",
+      "src/app/playlist-ui.js",
+      "src/app/router.js",
+      "src/assets/style.css",
+      "scripts/verify_visible_art_browser.cjs",
+      "src/app/core.js",
+      "src/app/player.js"
+    ],
+    "scripts/verify_pagination_browser.cjs": [
+      "scripts/verify_continuous_scroll_browser.cjs"
+    ],
+    "scripts/verify_continuous_scroll_scope.py": [
+      "scripts/approved_continuous_scroll.py",
+      "scripts/verify_browse_spacing_browser.cjs",
+      "scripts/verify_catalog_scope_repair_browser.cjs",
+      "scripts/verify_catalog_views.js",
+      "scripts/verify_continuous_scroll.cjs",
+      "scripts/verify_continuous_scroll_browser.cjs",
+      "scripts/verify_feature_editorials.js",
+      "scripts/verify_pagination_browser.cjs",
+      "scripts/verify_shuffle_scope_browser.cjs",
+      "scripts/verify_sort_direction_browser.cjs",
+      "scripts/verify_tracks_gallery_browser.cjs",
+      "src/app/catalog-ui.js",
+      "src/app/editorial.js",
+      "src/app/playlist-ui.js",
+      "src/app/router.js",
+      "src/assets/style.css",
+      "releases.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_article_first_rollback.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "src/app/player.js",
+      "src/app/core.js",
+      "build.py"
     ]
   },
   "policy_paths": [
@@ -9167,7 +9253,9 @@
     "scripts/approved_following_articles.py",
     "scripts/fixtures/approved-following-articles.json",
     "scripts/approved_article_first_rollback.py",
-    "scripts/fixtures/approved-article-first-rollback.json"
+    "scripts/fixtures/approved-article-first-rollback.json",
+    "scripts/approved_continuous_scroll.py",
+    "scripts/fixtures/approved-continuous-scroll.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9356,6 +9444,13 @@
         "groups": [
           "live_video_year_labels"
         ]
+      },
+      {
+        "before_sha256": "1cb3fafc99ac53400560ccc768186809eb37855cbc261e9fff86f10309558eb9",
+        "after_sha256": "cbdab8467b27d62e77cd4819874054b74c98bb924100fbce2aa055b0768a5a33",
+        "groups": [
+          "continuous_scroll"
+        ]
       }
     ],
     "src/app/playlist-ui.js": [
@@ -9364,6 +9459,13 @@
         "after_sha256": "9c9f9545138b87ed085db1e521eed2ffce6747e301445be3f23501ec43cd0542",
         "groups": [
           "album_navigation"
+        ]
+      },
+      {
+        "before_sha256": "9c9f9545138b87ed085db1e521eed2ffce6747e301445be3f23501ec43cd0542",
+        "after_sha256": "f1a92c8ad9dabb63772e40f386f7589a36358ccbd9470a4fcba36c89aba5a7a2",
+        "groups": [
+          "continuous_scroll"
         ]
       }
     ],
@@ -9387,6 +9489,13 @@
         "after_sha256": "2566d24be62e0a069bea040046664e301f36333890cf9057667e64866d5c1400",
         "groups": [
           "catalog_scope_repair"
+        ]
+      },
+      {
+        "before_sha256": "2566d24be62e0a069bea040046664e301f36333890cf9057667e64866d5c1400",
+        "after_sha256": "cc9ea320f6e746281d2d99b49873482221b18a3bac2be132ba8182dd6d6c99ea",
+        "groups": [
+          "continuous_scroll"
         ]
       }
     ],
@@ -9547,6 +9656,13 @@
         "groups": [
           "person_photos"
         ]
+      },
+      {
+        "before_sha256": "0e50447ea73ea4dc15fcf27c2f38d8214af89f77590d03a25b39cf4b31e5917d",
+        "after_sha256": "9d654535c9b53c2eb1e705602cf457aeeda73e2a2e83b1dc4681a6413122ba8b",
+        "groups": [
+          "continuous_scroll"
+        ]
       }
     ],
     "profile_content.py": [
@@ -9629,6 +9745,13 @@
         "after_sha256": "52ff1836949cf33752921951380dd244d711f1f5267ca19dff1668333a0c3aa8",
         "groups": [
           "gallery_visibility"
+        ]
+      },
+      {
+        "before_sha256": "52ff1836949cf33752921951380dd244d711f1f5267ca19dff1668333a0c3aa8",
+        "after_sha256": "a0132f858e4771372c6440eb753ccf8555e98716be6f3f5c8cc56e543911f7e3",
+        "groups": [
+          "continuous_scroll"
         ]
       }
     ],
