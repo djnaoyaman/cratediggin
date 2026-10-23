@@ -25641,6 +25641,13 @@
         "sources": [
           0
         ]
+      },
+      {
+        "title": "配信上のProducerクレジット",
+        "text": "Qobuzの本曲の配信クレジットは、DJ PremierとGuruの両者をProducerとして記載している。この表記だけでは、Guruがビートを制作したことや、二人の具体的な分担までは確認できない。",
+        "sources": [
+          2
+        ]
       }
     ],
     "samples": [],
@@ -25660,6 +25667,11 @@
         "label": "Gang Starr公式バイオグラフィー",
         "url": "https://gangstarr.global/pages/bio",
         "kind": "アーティスト公式資料"
+      },
+      {
+        "label": "Qobuz — Daily Operation：第11曲「No Shame in My Game」のProducerクレジット",
+        "url": "https://www.qobuz.com/gb-en/album/daily-operation-gang-starr/0094632191052",
+        "kind": "配信メタデータ（曲別制作クレジット）"
       }
     ],
     "producers": [
