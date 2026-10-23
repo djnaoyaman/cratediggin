@@ -72497,5 +72497,388 @@
       "paletteSourceUrl": "https://music.apple.com/us/album/lailas-wisdom/1440939999",
       "paletteNote": "公式カタログの既存確認済みジャケットを再度目視した編集上の配色。厳密な色抽出値ではない。人物・構図を複製せず、塗料片から言葉を築く独自文字アートとして制作。"
     }
+  },
+  {
+    "id": "anderson-paak-the-season-carry-me",
+    "title": "The Season / Carry Me",
+    "artist": "Anderson .Paak",
+    "primaryArtist": "Anderson .Paak",
+    "primaryArtists": [
+      "Anderson .Paak"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Anderson .Paak"
+    ],
+    "year": 2015,
+    "album": "Malibu",
+    "category": "Hip Hop",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "regionBasis": "Artist origin or self-published location from cited primary sources, not recording location. Unconfirmed joint region omitted.",
+    "producer": "9th Wonder & Callum Connor",
+    "producers": [
+      "9th Wonder",
+      "Callum Connor"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "Single original release2015-11-08; Malibu album2016. Displayyear2015 refers songfirstrelease.",
+    "label": "未確認",
+    "essayTitle": "アルバムの前に発表された二つの題",
+    "deck": "『Malibu』では2016年の一曲として出会うが、単曲は2015年11月に先行発表されている。",
+    "context": "アルバムの前に発表された二つの題",
+    "essay": [
+      "『Malibu』では2016年の一曲として出会うが、単曲は2015年11月に先行発表されている。「The Season / Carry Me」という二つの題を一曲に持ち、制作には9th WonderとCallum Connorが名を連ねる。シングルの初出とアルバム収録を分けて押さえたい作品だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    ],
+    "sources": [
+      {
+        "label": "music.apple.com — The Season / Carry Me",
+        "url": "https://music.apple.com/us/album/the-season-carry-me-single/1056869728",
+        "kind": "配信カタログ",
+        "evidence": "Single2015-11-08; OBE/Apeshit/EMPIRE"
+      },
+      {
+        "label": "music.apple.com — The Season / Carry Me",
+        "url": "https://music.apple.com/us/song/1065681697",
+        "kind": "配信カタログ",
+        "evidence": "Track credit producers9thWonder and CallumConnor"
+      },
+      {
+        "label": "breezylovejoy.bandcamp.com — The Season / Carry Me",
+        "url": "https://breezylovejoy.bandcamp.com/track/the-season-carry-me",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Artist/EMPIRE affiliated catalog; Malibu edition2016-01-15; artist profile Los Angeles"
+      },
+      {
+        "label": "soundcloud.com — The Season / Carry Me",
+        "url": "https://soundcloud.com/andersonpaak/sets/malibu",
+        "kind": "公式音源",
+        "evidence": "Official artist track title credits9thWonder and CallumConnor; track2015-11-07 UTC"
+      },
+      {
+        "label": "www.youtube.com — The Season / Carry Me",
+        "url": "https://www.youtube.com/watch?v=p7GH9JJlDL8",
+        "kind": "公式音源",
+        "evidence": "EMPIRE公式のThe Season / Carry Me単曲音源（親担当の同定）。The Watersを含む3曲構成MVではない。再生・日本制限・埋込可否は未検証。"
+      }
+    ],
+    "youtube": {
+      "id": "p7GH9JJlDL8",
+      "url": "https://www.youtube.com/watch?v=p7GH9JJlDL8",
+      "title": "The Season / Carry Me",
+      "channel": "EMPIRE",
+      "type": "Official Audio",
+      "official": true,
+      "embedUrl": "https://www.youtube.com/embed/p7GH9JJlDL8",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "The Season / Carry Meの単曲音源。The Watersを含む3曲構成MVとは区別。",
+      "versionBasis": "The Season / Carry Meの単曲音源。The Watersを含む3曲構成MVとは区別。公開曲名・版表記による同定。DJミックスと同一マスターかの音声照合は未実施。",
+      "verification": "公開資料から音源を同定。再生状況・埋め込み可否は確認中。日本での実再生・同一マスターは未検証。"
+    },
+    "versionBasis": "The Season / Carry Meの単曲音源。The Watersを含む3曲構成MVとは区別。公開曲名・版表記による同定。DJミックスと同一マスターかの音声照合は未実施。",
+    "audioVerificationStatus": "再生状況・埋め込み可否は確認中。",
+    "editorialStatus": "再生状況・埋め込み可否は確認中。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "editorSelectionMemory": {
+      "heading": "音源の確認状況",
+      "text": "再生状況・埋め込み可否は確認中。"
+    },
+    "datePublished": "2026-10-23",
+    "addedOrder": 557,
+    "art": {
+      "word": "The Season / Carry Me",
+      "tag": "ANDERSON .PAAK",
+      "lines": [
+        "The Season / Carry Me"
+      ],
+      "style": "piece",
+      "seed": 2026102401,
+      "palette": [
+        "#b4c48c",
+        "#e4deb4",
+        "#91364e",
+        "#6eaaa0",
+        "#343830"
+      ],
+      "paletteSource": "The Season / Carry Me – Single (2015)",
+      "paletteSourceUrl": "https://music.apple.com/us/album/the-season-carry-me-single/1056869728",
+      "paletteNote": "2015年公式シングルのジャケットを再度目視した編集上の配色。sage/cream/wine/turquoise/charcoalの色相系を引継ぎ、厳密な色抽出値の再現とは称さない。画像・人物・構図は複製せず文字構造として制作。"
+    }
+  },
+  {
+    "id": "robert-glasper-afro-blue-9th-wonder-remix",
+    "title": "Afro Blue (9th Wonder’s Blue Light Basement Remix)",
+    "artist": "Robert Glasper Experiment",
+    "primaryArtist": "Robert Glasper Experiment",
+    "primaryArtists": [
+      "Robert Glasper Experiment"
+    ],
+    "featuredArtists": [
+      "Erykah Badu",
+      "Phonte"
+    ],
+    "artists": [
+      "Robert Glasper Experiment",
+      "Erykah Badu",
+      "Phonte"
+    ],
+    "year": 2012,
+    "album": "Black Radio Recovered: The Remix EP",
+    "category": "Jazz / Hip Hop",
+    "region": "Houston, Texas",
+    "scene": "Houston, Texas",
+    "regionBasis": "Artist origin or self-published location from cited primary sources, not recording location. Unconfirmed joint region omitted.",
+    "producer": "Robert Glasper",
+    "producers": [
+      "Robert Glasper"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "2012 original remix. YouTube metadata2012-10-05 vsBlueNote announcementOct9 discrepancy unexplained;yearagrees. 2017upload/2022reissue notoriginal.",
+    "label": "未確認",
+    "essayTitle": "同じ曲を、別の入口から",
+    "deck": "Erykah Baduを迎えた「Afro Blue」を、9th Wonderがリミックスし、Phonteが加わった版。",
+    "context": "同じ曲を、別の入口から",
+    "essay": [
+      "Erykah Baduを迎えた「Afro Blue」を、9th Wonderがリミックスし、Phonteが加わった版。Robert Glasper Experimentの『Black Radio Recovered: The Remix EP』に収められている。アルバム『Black Radio』の原曲とは分けて選びたい。",
+      "Blue Noteは2012年10月のEP発売告知で、この版を曲目の先頭に掲げた。公式配信クレジットもRobert Glasperをプロデューサー、9th Wonderをリミキサーとして区別する。2022年の『Black Radio』10周年盤にも収録されたが、このリミックス自体は2012年の作品だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "sources": [
+      {
+        "label": "www.bluenote.com — Afro Blue (9th Wonder’s Blue Light Basement Remix)",
+        "url": "https://www.bluenote.com/robert-glasper-announces-oct-9-release-of-bla/",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "EP2012-10-09announcement,exactversion"
+      },
+      {
+        "label": "www.youtube.com — Afro Blue (9th Wonder’s Blue Light Basement Remix)",
+        "url": "https://www.youtube.com/watch?v=0HbagZwKBro",
+        "kind": "公式音源",
+        "evidence": "SEARCHMETADATAONLY officialOAC UMG,2012-10-05digitaldate,producer/remixer"
+      },
+      {
+        "label": "www.bluenote.com — Afro Blue (9th Wonder’s Blue Light Basement Remix)",
+        "url": "https://www.bluenote.com/robert-glasper-black-radio-10th-anniversary-deluxe-edition/",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "reissue2022 notoriginal"
+      },
+      {
+        "label": "www.bluenote.com — Afro Blue (9th Wonder’s Blue Light Basement Remix)",
+        "url": "https://www.bluenote.com/artist/robert-glasper/",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Houston origin"
+      }
+    ],
+    "youtube": {
+      "id": "0HbagZwKBro",
+      "url": "https://www.youtube.com/watch?v=0HbagZwKBro",
+      "title": "Afro Blue (9th Wonder’s Blue Light Basement Remix)",
+      "channel": "Robert Glasper",
+      "type": "Official Audio",
+      "official": true,
+      "embedUrl": "https://www.youtube.com/embed/0HbagZwKBro",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "9th Wonder’s Blue Light Basement Remix。原曲版とは区別。",
+      "versionBasis": "9th Wonder’s Blue Light Basement Remix。原曲版とは区別。公開曲名・版表記による同定。DJミックスと同一マスターかの音声照合は未実施。",
+      "verification": "公開資料から音源を同定。再生状況・埋め込み可否は確認中。日本での実再生・同一マスターは未検証。"
+    },
+    "versionBasis": "9th Wonder’s Blue Light Basement Remix。原曲版とは区別。公開曲名・版表記による同定。DJミックスと同一マスターかの音声照合は未実施。",
+    "audioVerificationStatus": "再生状況・埋め込み可否は確認中。",
+    "editorialStatus": "再生状況・埋め込み可否は確認中。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "remixer": "9th Wonder",
+    "editorSelectionMemory": {
+      "heading": "音源の確認状況",
+      "text": "再生状況・埋め込み可否は確認中。"
+    },
+    "datePublished": "2026-10-23",
+    "addedOrder": 558,
+    "art": {
+      "word": "Afro Blue (9th Wonder’s Blue Light Basement Remix)",
+      "tag": "ROBERT GLASPER EXPERIMENT",
+      "lines": [
+        "Afro Blue (9th Wonder’s Blue Light Basement Remix)"
+      ],
+      "style": "piece",
+      "seed": 2026102402,
+      "palette": [
+        "#d5c39a",
+        "#131712",
+        "#a4442a",
+        "#667c84"
+      ],
+      "paletteSource": "Black Radio Recovered: The Remix EP (2012)",
+      "paletteSourceUrl": "https://soundcloud.com/robertglasper/robert-glasper-afro-blue-remix",
+      "paletteNote": "公式公開ジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図・既存ロゴは複製せず、独自の文字アートとして制作。"
+    }
+  },
+  {
+    "id": "2-chainz-threat-2-society",
+    "title": "Threat 2 Society",
+    "artist": "2 Chainz",
+    "primaryArtist": "2 Chainz",
+    "primaryArtists": [
+      "2 Chainz"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "2 Chainz"
+    ],
+    "year": 2019,
+    "album": "Rap or Go to the League",
+    "category": "Hip Hop",
+    "region": "College Park, Georgia",
+    "scene": "College Park, Georgia",
+    "regionBasis": "Artist origin or self-published location from cited primary sources, not recording location. Unconfirmed joint region omitted.",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "Original release year in cited primary catalog; not KIYO mixtape year or later video upload.",
+    "label": "未確認",
+    "essayTitle": "制作クレジットがつなぐ南部の一曲",
+    "deck": "ジョージア州College Parkの2 Chainzが、2019年の『Rap or Go to the League』に収めた曲。",
+    "context": "制作クレジットがつなぐ南部の一曲",
+    "essay": [
+      "ジョージア州College Parkの2 Chainzが、2019年の『Rap or Go to the League』に収めた曲。9th Wonderの制作、Nolan Presleyの録音、Finis “KY” Whiteのミックスというクレジットを確認できる。南部のラッパーとノースカロライナの制作家を結ぶ、DJ KIYOの9th Wonder選曲を広げる一枚。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "www.youtube.com — Threat 2 Society",
+        "url": "https://www.youtube.com/watch?v=jeVivltkmV4",
+        "kind": "公式音源",
+        "evidence": "2ChainzOAC; UMG; release2019-03-01;9thWonderproducer; NolanPresley recording; FinisKYWhite mixing"
+      },
+      {
+        "label": "music.apple.com — Threat 2 Society",
+        "url": "https://music.apple.com/us/song/1454470255",
+        "kind": "配信カタログ",
+        "evidence": "Track identity and2019-03-01 release"
+      },
+      {
+        "label": "www.universalmusic.it — Threat 2 Society",
+        "url": "https://www.universalmusic.it/popular-music/album/rap-or-go-to-the-league_35314513802/",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "DolbyAtmos variant credits9thWonder; do not use anomalous albumdate2018-11-16"
+      },
+      {
+        "label": "www.universalmusic.ca — Threat 2 Society",
+        "url": "https://www.universalmusic.ca/2023/11/17/2-chainz-lil-wayne-drop-highly-anticipated-new-album-welcome-2-collegrove-available-today/",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Label explicitly identifies hometownCollegePark Georgia"
+      }
+    ],
+    "youtube": {
+      "id": "jeVivltkmV4",
+      "url": "https://www.youtube.com/watch?v=jeVivltkmV4",
+      "title": "Threat 2 Society",
+      "channel": "2 Chainz",
+      "type": "Official Audio",
+      "official": true,
+      "embedUrl": "https://www.youtube.com/embed/jeVivltkmV4",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "Rap or Go to the League収録版。",
+      "versionBasis": "Rap or Go to the League収録版。公開曲名・版表記による同定。DJミックスと同一マスターかの音声照合は未実施。",
+      "verification": "公開資料から音源を同定。再生状況・埋め込み可否は確認中。日本での実再生・同一マスターは未検証。"
+    },
+    "versionBasis": "Rap or Go to the League収録版。公開曲名・版表記による同定。DJミックスと同一マスターかの音声照合は未実施。",
+    "audioVerificationStatus": "再生状況・埋め込み可否は確認中。",
+    "editorialStatus": "再生状況・埋め込み可否は確認中。",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "editorSelectionMemory": {
+      "heading": "音源の確認状況",
+      "text": "再生状況・埋め込み可否は確認中。"
+    },
+    "datePublished": "2026-10-23",
+    "addedOrder": 559,
+    "art": {
+      "word": "Threat 2 Society",
+      "tag": "2 CHAINZ",
+      "lines": [
+        "Threat 2 Society"
+      ],
+      "style": "piece",
+      "seed": 2026102403,
+      "palette": [
+        "#d9b54a",
+        "#a88d51",
+        "#594332",
+        "#c4b69a",
+        "#292720"
+      ],
+      "paletteSource": "Rap or Go to the League",
+      "paletteSourceUrl": "https://music.apple.com/us/album/rap-or-go-to-the-league/1455519361",
+      "paletteNote": "公式カタログのジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図は複製せず独自の文字アートとして制作。"
+    }
   }
 ]

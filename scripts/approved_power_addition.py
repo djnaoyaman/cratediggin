@@ -2,7 +2,9 @@ from pathlib import Path
 import json,hashlib
 R=Path(__file__).resolve().parents[1];sha=lambda b:hashlib.sha256(b).hexdigest()
 raw=(R/'scripts/fixtures/approved-power-addition.json').read_bytes();assert sha(raw)=='7c9ea9ce044f2cd2bcb488130e0bbc4baafefa3e76ff4b2678d11510b73f3e8c','Immutable single-Power fixture drift';F=json.loads(raw)
-def current_power_addition_file(path,data):return data
+def current_power_addition_file(path,data):
+ from approved_selected_concept import historical_selected_concept_file
+ return historical_selected_concept_file(path,data)
 def historical_power_addition_file(path,data):
  data=current_power_addition_file(path,data)
  if path=='audit-reports/maintenance.json'and sha(data)==F['generatedAuditSHA256']:return F['previousGeneratedAudit'].encode()
