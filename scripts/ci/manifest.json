@@ -5208,6 +5208,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "list-year-restore"
+    },
+    {
+      "id": "kiyo-batch2",
+      "argv": [
+        "python",
+        "scripts/verify_kiyo_batch2.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "kiyo-batch2"
+    },
+    {
+      "id": "kiyo-batch2-browser",
+      "argv": [
+        "node",
+        "scripts/verify_kiyo_batch2_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "kiyo-batch2-browser"
     }
   ],
   "groups": {
@@ -6132,6 +6156,10 @@
     ],
     "list_year_restore": [
       "list-year-restore"
+    ],
+    "kiyo_batch2": [
+      "kiyo-batch2",
+      "kiyo-batch2-browser"
     ]
   },
   "runtime_rules": {
@@ -8391,7 +8419,8 @@
       "scripts/fixtures/approved-kiyo-batch1.json"
     ],
     "scripts/approved_list_year_restore.py": [
-      "scripts/fixtures/approved-list-year-restore.json"
+      "scripts/fixtures/approved-list-year-restore.json",
+      "scripts/approved_kiyo_batch2.py"
     ],
     "scripts/verify_list_year_restore.py": [
       "scripts/approved_list_year_restore.py",
@@ -8400,6 +8429,21 @@
       "releases.json",
       "scripts/ci/manifest.json",
       "scripts/approved_kiyo_batch1.py"
+    ],
+    "scripts/approved_kiyo_batch2.py": [
+      "scripts/fixtures/approved-kiyo-batch2.json"
+    ],
+    "scripts/verify_kiyo_batch2.py": [
+      "scripts/approved_kiyo_batch2.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "artist_entities.json",
+      "releases.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_list_year_restore.py"
+    ],
+    "scripts/verify_kiyo_batch2_browser.cjs": [
+      "scripts/fixtures/approved-kiyo-batch2.json"
     ]
   },
   "policy_paths": [
@@ -8722,7 +8766,9 @@
     "scripts/approved_kiyo_batch1.py",
     "scripts/fixtures/approved-kiyo-batch1.json",
     "scripts/approved_list_year_restore.py",
-    "scripts/fixtures/approved-list-year-restore.json"
+    "scripts/fixtures/approved-list-year-restore.json",
+    "scripts/approved_kiyo_batch2.py",
+    "scripts/fixtures/approved-kiyo-batch2.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -10044,6 +10090,13 @@
         "groups": [
           "kiyo_batch1"
         ]
+      },
+      {
+        "before_sha256": "864476e5b72d9b3ee8072b95744b5c4812e998d3787fc21d423e0a4cff1f19cf",
+        "after_sha256": "0f4ccf4c0fd90e6e0329055a02addfdf6de29735e116b350f48900960e3273fe",
+        "groups": [
+          "kiyo_batch2"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -10503,6 +10556,13 @@
         "groups": [
           "kiyo_batch1"
         ]
+      },
+      {
+        "before_sha256": "ee40234e90d39a8b93dc129fa2294a99a3da92c09fd23b6277c1bebcebba6d79",
+        "after_sha256": "23598d961081b8ce8a812ad282056bd6eeeaac117448b938c098559e4f27437f",
+        "groups": [
+          "kiyo_batch2"
+        ]
       }
     ],
     "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
@@ -10737,6 +10797,13 @@
         "after_sha256": "7547ce87143da9cb259720a9676e00cc9da81d1b35a52b0ce48eba437c65bc26",
         "groups": [
           "kiyo_batch1"
+        ]
+      },
+      {
+        "before_sha256": "7547ce87143da9cb259720a9676e00cc9da81d1b35a52b0ce48eba437c65bc26",
+        "after_sha256": "333dbae46ecbdbe0f354a670bf98959c1b5db1dfa3105c86ab86f329fe864d4e",
+        "groups": [
+          "kiyo_batch2"
         ]
       }
     ],
@@ -11458,6 +11525,87 @@
         "after_sha256": "eb8f44b9742e1bf6c2ae49e31c9845098c85745b7881bc2fe6a655d190aa21e1",
         "groups": [
           "kiyo_batch1"
+        ]
+      }
+    ],
+    "assets/graffiti/oshun-burn-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "b676ce627a964cf43ff44b656c191967e35b76dc4a9861c26d5aa0e6a7fdc052",
+        "groups": [
+          "kiyo_batch2"
+        ]
+      }
+    ],
+    "assets/graffiti/larry-june-oranges-on-a-jet-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "b52725215b23aaffc4ac7ac5c00e8aab38a309ba6430ede0fe9e036443b37916",
+        "groups": [
+          "kiyo_batch2"
+        ]
+      }
+    ],
+    "assets/graffiti/larry-june-mission-bay-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "59d8a00c44072c7dfe9c3344de65df6e606bc3f173b4af78b928c038bfebe8eb",
+        "groups": [
+          "kiyo_batch2"
+        ]
+      }
+    ],
+    "assets/graffiti/maez301-eff-u-thought-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "4ca7ddfd6c0dacefd29b1e2806685545517a33813c73324166f12874f564951f",
+        "groups": [
+          "kiyo_batch2"
+        ]
+      }
+    ],
+    "assets/graffiti/big-kahuna-og-fly-anakin-tech-grey-sweats-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "ed2c07fa0a36e636fa6c85597a6d8480d5ef1d6fdc54991adbe356f4f870c315",
+        "groups": [
+          "kiyo_batch2"
+        ]
+      }
+    ],
+    "assets/graffiti/not-pressure-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "6831ce0bae1bc3435009521a8c5568bb6c505dabffa8133a87541d78292427cc",
+        "groups": [
+          "kiyo_batch2"
+        ]
+      }
+    ],
+    "assets/graffiti/lute-ged-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "3e22dbd73c5c9d7408366e29282caca2d99e758304f579b1deec093f41feb142",
+        "groups": [
+          "kiyo_batch2"
+        ]
+      }
+    ],
+    "assets/graffiti/curren-y-trademark-da-skydiver-young-roddy-still-coolie-in-the-cut-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "a3abc11602e9d7c0fb174707dac8b1607540ae83a860d5c2982b2372b22986fc",
+        "groups": [
+          "kiyo_batch2"
+        ]
+      }
+    ],
+    "assets/graffiti/larry-june-something-gotta-change-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "29204a6b33ce11bb41d266636a5f402a0fc3de3b315d146141b89fe8ca83a4c4",
+        "groups": [
+          "kiyo_batch2"
         ]
       }
     ]

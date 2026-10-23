@@ -688,5 +688,26 @@
   },
   "Smoke DZA & Curren$y": {
     "type": null
+  },
+  "OSHUN": {
+    "type": "MusicGroup"
+  },
+  "Larry June": {
+    "type": "Person"
+  },
+  "Maez301": {
+    "type": "Person"
+  },
+  "Big Kahuna OG & Fly Anakin": {
+    "type": null
+  },
+  "$NOT": {
+    "type": "Person"
+  },
+  "Lute": {
+    "type": "Person"
+  },
+  "Curren$y, Trademark Da Skydiver & Young Roddy": {
+    "type": null
   }
 }
