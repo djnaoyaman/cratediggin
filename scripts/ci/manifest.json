@@ -5304,6 +5304,18 @@
       "legacy": false,
       "requires_build": true,
       "label": "guru-note4"
+    },
+    {
+      "id": "guru-note5",
+      "argv": [
+        "python",
+        "scripts/verify_guru_note5.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "guru-note5"
     }
   ],
   "groups": {
@@ -6248,6 +6260,9 @@
     ],
     "guru_note4": [
       "guru-note4"
+    ],
+    "guru_note5": [
+      "guru-note5"
     ]
   },
   "runtime_rules": {
@@ -8584,7 +8599,8 @@
       "scripts/fixtures/approved-kiyo-batch3.json"
     ],
     "scripts/approved_guru_note4.py": [
-      "scripts/fixtures/approved-guru-note4.json"
+      "scripts/fixtures/approved-guru-note4.json",
+      "scripts/approved_guru_note5.py"
     ],
     "scripts/verify_guru_note4.py": [
       "scripts/approved_guru_note4.py",
@@ -8592,6 +8608,16 @@
       "releases.json",
       "scripts/ci/manifest.json",
       "scripts/approved_kiyo_batch3.py"
+    ],
+    "scripts/approved_guru_note5.py": [
+      "scripts/fixtures/approved-guru-note5.json"
+    ],
+    "scripts/verify_guru_note5.py": [
+      "scripts/approved_guru_note5.py",
+      "tracks.json",
+      "releases.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_guru_note4.py"
     ]
   },
   "policy_paths": [
@@ -8926,7 +8952,9 @@
     "scripts/approved_kiyo_batch3.py",
     "scripts/fixtures/approved-kiyo-batch3.json",
     "scripts/approved_guru_note4.py",
-    "scripts/fixtures/approved-guru-note4.json"
+    "scripts/fixtures/approved-guru-note4.json",
+    "scripts/approved_guru_note5.py",
+    "scripts/fixtures/approved-guru-note5.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -10289,6 +10317,13 @@
         "after_sha256": "f5db6bf58da4c1e73e4c38df42303ec5f9a15008659a437573316d31461e18e2",
         "groups": [
           "guru_note4"
+        ]
+      },
+      {
+        "before_sha256": "f5db6bf58da4c1e73e4c38df42303ec5f9a15008659a437573316d31461e18e2",
+        "after_sha256": "7bd69260c1f1f99577029c06541c49b1643747d94cdd145dac3694ef1f1b459a",
+        "groups": [
+          "guru_note5"
         ]
       }
     ],
