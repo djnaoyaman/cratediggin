@@ -5388,6 +5388,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "following-articles-browser"
+    },
+    {
+      "id": "article-first-rollback",
+      "argv": [
+        "python",
+        "scripts/verify_article_first_rollback.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "article-first-rollback"
+    },
+    {
+      "id": "article-first-rollback-browser",
+      "argv": [
+        "node",
+        "scripts/verify_article_first_rollback_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "article-first-rollback-browser"
     }
   ],
   "groups": {
@@ -6357,6 +6381,10 @@
     "following_articles": [
       "following-articles",
       "following-articles-browser"
+    ],
+    "article_first_rollback": [
+      "article-first-rollback",
+      "article-first-rollback-browser"
     ]
   },
   "runtime_rules": {
@@ -8762,7 +8790,8 @@
       "scripts/fixtures/approved-external-articles.json"
     ],
     "scripts/approved_following_articles.py": [
-      "scripts/fixtures/approved-following-articles.json"
+      "scripts/fixtures/approved-following-articles.json",
+      "scripts/approved_article_first_rollback.py"
     ],
     "scripts/verify_following_articles.py": [
       "scripts/approved_following_articles.py",
@@ -8776,6 +8805,24 @@
     ],
     "scripts/verify_following_articles_browser.cjs": [
       "scripts/fixtures/approved-following-articles.json"
+    ],
+    "scripts/approved_article_first_rollback.py": [
+      "scripts/fixtures/approved-article-first-rollback.json"
+    ],
+    "scripts/verify_article_first_rollback.py": [
+      "scripts/approved_article_first_rollback.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "artist_entities.json",
+      "releases.json",
+      "build.py",
+      "src/app/core.js",
+      "scripts/ci/manifest.json",
+      "scripts/approved_following_articles.py"
+    ],
+    "scripts/verify_article_first_rollback_browser.cjs": [
+      "scripts/fixtures/approved-article-first-rollback.json",
+      "scripts/verify_visible_art_browser.cjs"
     ]
   },
   "policy_paths": [
@@ -9118,7 +9165,9 @@
     "scripts/approved_external_articles.py",
     "scripts/fixtures/approved-external-articles.json",
     "scripts/approved_following_articles.py",
-    "scripts/fixtures/approved-following-articles.json"
+    "scripts/fixtures/approved-following-articles.json",
+    "scripts/approved_article_first_rollback.py",
+    "scripts/fixtures/approved-article-first-rollback.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -10531,6 +10580,13 @@
         "groups": [
           "following_articles"
         ]
+      },
+      {
+        "before_sha256": "7b3bf5ca2d5907def19c54040a223b69b188ba2449ac5ca8cc8d9cbe6d43b1c4",
+        "after_sha256": "7bd69260c1f1f99577029c06541c49b1643747d94cdd145dac3694ef1f1b459a",
+        "groups": [
+          "article_first_rollback"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -11018,6 +11074,13 @@
         "groups": [
           "following_articles"
         ]
+      },
+      {
+        "before_sha256": "09404f5e3a73b58680f823afa574a59a6a0153f9fa09645c0f5cfe3fffd1a20f",
+        "after_sha256": "ddb4c3d8a1190ef5b7341414d3e3b1862f35d459fc39720aa85acfc593a0dff2",
+        "groups": [
+          "article_first_rollback"
+        ]
       }
     ],
     "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
@@ -11280,6 +11343,13 @@
         "after_sha256": "e1c3113ed841eb9f758b85a9bdda4933e7fa94bc3f2d3735ad0bf4211cd33789",
         "groups": [
           "following_articles"
+        ]
+      },
+      {
+        "before_sha256": "e1c3113ed841eb9f758b85a9bdda4933e7fa94bc3f2d3735ad0bf4211cd33789",
+        "after_sha256": "2d1b1d31c6b975ff4abc962d8ca9e622c63746973b2b7b9716f654c2a2d595cf",
+        "groups": [
+          "article_first_rollback"
         ]
       }
     ],

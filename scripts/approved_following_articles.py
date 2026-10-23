@@ -2,7 +2,9 @@ from pathlib import Path
 import json,hashlib
 R=Path(__file__).resolve().parents[1];sha=lambda b:hashlib.sha256(b).hexdigest()
 raw=(R/'scripts/fixtures/approved-following-articles.json').read_bytes();assert sha(raw)=='d6b02d47aba396ebbcedb641be9330f2609aea30121f960f459dcd23374fb750','Immutable article-first fixture drift';F=json.loads(raw)
-def current_following_articles_file(path,data):return data
+def current_following_articles_file(path,data):
+ from approved_article_first_rollback import historical_article_first_rollback_file
+ return historical_article_first_rollback_file(path,data)
 def historical_following_articles_file(path,data):
  data=current_following_articles_file(path,data)
  if path=='audit-reports/maintenance.json' and sha(data)==F['generatedAuditSHA256']:return F['previousGeneratedAudit'].encode()
