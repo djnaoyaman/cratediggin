@@ -6520,7 +6520,8 @@
     "scripts/verify_tracks_gallery_browser.cjs": [
       "scripts/verify_visible_art_browser.cjs",
       "tracks.json",
-      "graffiti_artwork.json"
+      "graffiti_artwork.json",
+      "editorial_deepdives.json"
     ],
     "scripts/approved_queue_scope.py": [
       "scripts/approved_shuffle_scope.py",
@@ -6540,7 +6541,8 @@
       "scripts/fixtures/approved-artifacts-credits.json",
       "scripts/verify_visible_art_browser.cjs",
       "tracks.json",
-      "graffiti_artwork.json"
+      "graffiti_artwork.json",
+      "editorial_deepdives.json"
     ],
     "scripts/approved_media_correction.py": [
       "scripts/approved_editorial_corrections.py",
@@ -6685,7 +6687,10 @@
     "scripts/verify_oct19_two_browser.cjs": [
       "scripts/fixtures/approved-artifacts-credits.json",
       "scripts/fixtures/requested-two.json",
-      "scripts/verify_visible_art_browser.cjs"
+      "scripts/verify_visible_art_browser.cjs",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "editorial_deepdives.json"
     ],
     "scripts/verify_compact_list_dilla_browser.cjs": [
       "scripts/verify_visible_art_browser.cjs",
