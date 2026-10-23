@@ -279,6 +279,7 @@ for page in DIST.rglob('*.html'):
     if '/app.js' not in text:
         analytics += '<script>gtag(\"event\",\"page_view\",{page_title:document.title,page_location:CrateAnalyticsURL(location.href,true),page_referrer:CrateAnalyticsReferrer(document.referrer)});</script>'
     text=text.replace('</head>',analytics+'</head>') if '</head>' in text else text.replace('<body',analytics+'<body',1)
+    text=text.replace('</body>',(ROOT/'creator-sites.html').read_text(encoding='utf-8')+'\n</body>')
     page.write_text(text, encoding='utf-8')
 manifest=json.loads((DIST/'site.webmanifest').read_text(encoding='utf-8'))
 manifest['start_url']=BASE_PATH+'/'
@@ -300,3 +301,4 @@ import os, sys
 retire_legacy_social_pngs(DIST, [t['id'] for t in tracks], [f['id'] for f in features])
 sys.stdout.flush()
 os.execv(sys.executable, [sys.executable, str(ROOT / 'image_delivery.py'), str(DIST)])
+
