@@ -5244,6 +5244,18 @@
       "legacy": false,
       "requires_build": true,
       "label": "guru-note2"
+    },
+    {
+      "id": "guru-note3",
+      "argv": [
+        "python",
+        "scripts/verify_guru_note3.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "guru-note3"
     }
   ],
   "groups": {
@@ -6175,6 +6187,9 @@
     ],
     "guru_note2": [
       "guru-note2"
+    ],
+    "guru_note3": [
+      "guru-note3"
     ]
   },
   "runtime_rules": {
@@ -8462,7 +8477,8 @@
       "scripts/fixtures/approved-kiyo-batch2.json"
     ],
     "scripts/approved_guru_note2.py": [
-      "scripts/fixtures/approved-guru-note2.json"
+      "scripts/fixtures/approved-guru-note2.json",
+      "scripts/approved_guru_note3.py"
     ],
     "scripts/verify_guru_note2.py": [
       "scripts/approved_guru_note2.py",
@@ -8470,6 +8486,16 @@
       "releases.json",
       "scripts/ci/manifest.json",
       "scripts/approved_kiyo_batch2.py"
+    ],
+    "scripts/approved_guru_note3.py": [
+      "scripts/fixtures/approved-guru-note3.json"
+    ],
+    "scripts/verify_guru_note3.py": [
+      "scripts/approved_guru_note3.py",
+      "tracks.json",
+      "releases.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_guru_note2.py"
     ]
   },
   "policy_paths": [
@@ -8796,7 +8822,9 @@
     "scripts/approved_kiyo_batch2.py",
     "scripts/fixtures/approved-kiyo-batch2.json",
     "scripts/approved_guru_note2.py",
-    "scripts/fixtures/approved-guru-note2.json"
+    "scripts/fixtures/approved-guru-note2.json",
+    "scripts/approved_guru_note3.py",
+    "scripts/fixtures/approved-guru-note3.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -10131,6 +10159,13 @@
         "after_sha256": "cae42a0e96d279505a32149a5c5727f488b9113946fc6c3905b33ddbfb3c9fd7",
         "groups": [
           "guru_note2"
+        ]
+      },
+      {
+        "before_sha256": "cae42a0e96d279505a32149a5c5727f488b9113946fc6c3905b33ddbfb3c9fd7",
+        "after_sha256": "2afa91edb731cbb6fe5e7df55ce2bcce7928c9e97078b067abe461534e2bb98b",
+        "groups": [
+          "guru_note3"
         ]
       }
     ],

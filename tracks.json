@@ -24878,6 +24878,13 @@
         "sources": [
           1
         ]
+      },
+      {
+        "title": "配信上のProducerクレジット",
+        "text": "Qobuzの本曲の配信クレジットは、DJ PremierとGuruの両者をProducerとして記載している。この表記だけでは、Guruがビートを制作したことや、二人の具体的な分担までは確認できない。",
+        "sources": [
+          4
+        ]
       }
     ],
     "samples": [
@@ -24925,6 +24932,11 @@
         "label": "Billy Garner - Topic — I Got Some (Pt. 1)",
         "url": "https://www.youtube.com/watch?v=SjMRKYCmiCg",
         "kind": "公式原曲"
+      },
+      {
+        "label": "Qobuz — Daily Operation：第15曲「B.Y.S.」のProducerクレジット",
+        "url": "https://www.qobuz.com/gb-en/album/daily-operation-gang-starr/0094632191052",
+        "kind": "配信メタデータ（曲別制作クレジット）"
       }
     ],
     "producers": [
