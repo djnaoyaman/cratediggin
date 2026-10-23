@@ -5436,6 +5436,42 @@
       "legacy": false,
       "requires_build": true,
       "label": "continuous-scroll-scope"
+    },
+    {
+      "id": "top-return-model",
+      "argv": [
+        "node",
+        "scripts/verify_top_return.cjs"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "top-return-model"
+    },
+    {
+      "id": "top-return-browser",
+      "argv": [
+        "node",
+        "scripts/verify_top_return_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "top-return-browser"
+    },
+    {
+      "id": "top-return-scope",
+      "argv": [
+        "python",
+        "scripts/verify_top_return_scope.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "top-return-scope"
     }
   ],
   "groups": {
@@ -6421,6 +6457,14 @@
       "catalog-scope-repair-browser",
       "continuous-scroll-model",
       "continuous-scroll-scope"
+    ],
+    "top_return": [
+      "025198f09819e1ca",
+      "139fd687fe25e7ad",
+      "continuous-scroll-scope",
+      "top-return-model",
+      "top-return-browser",
+      "top-return-scope"
     ]
   },
   "runtime_rules": {
@@ -8862,7 +8906,8 @@
       "scripts/verify_visible_art_browser.cjs"
     ],
     "scripts/approved_continuous_scroll.py": [
-      "scripts/fixtures/approved-continuous-scroll.json"
+      "scripts/fixtures/approved-continuous-scroll.json",
+      "scripts/approved_top_return.py"
     ],
     "scripts/verify_continuous_scroll.cjs": [
       "src/app/catalog-ui.js",
@@ -8909,6 +8954,37 @@
       "src/app/player.js",
       "src/app/core.js",
       "build.py"
+    ],
+    "scripts/approved_top_return.py": [
+      "scripts/fixtures/approved-top-return.json"
+    ],
+    "scripts/verify_top_return.cjs": [
+      "src/app/renewal.js",
+      "src/assets/style.css"
+    ],
+    "scripts/verify_top_return_browser.cjs": [
+      "src/app/renewal.js",
+      "src/assets/style.css",
+      "scripts/verify_visible_art_browser.cjs"
+    ],
+    "scripts/verify_top_return_scope.py": [
+      "scripts/approved_top_return.py",
+      "scripts/verify_continuous_scroll_scope.py",
+      "scripts/verify_browse_spacing_browser.cjs",
+      "scripts/verify_top_return.cjs",
+      "scripts/verify_top_return_browser.cjs",
+      "src/app/renewal.js",
+      "src/assets/style.css",
+      "releases.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_continuous_scroll.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "artist_entities.json",
+      "src/app/core.js",
+      "src/app/player.js",
+      "build.py",
+      "audit-reports/maintenance.json"
     ]
   },
   "policy_paths": [
@@ -9255,7 +9331,9 @@
     "scripts/approved_article_first_rollback.py",
     "scripts/fixtures/approved-article-first-rollback.json",
     "scripts/approved_continuous_scroll.py",
-    "scripts/fixtures/approved-continuous-scroll.json"
+    "scripts/fixtures/approved-continuous-scroll.json",
+    "scripts/approved_top_return.py",
+    "scripts/fixtures/approved-top-return.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9695,6 +9773,13 @@
         "groups": [
           "readings_song_titles"
         ]
+      },
+      {
+        "before_sha256": "1b69175512443a02228625ce29af11a59a7b3d721f2241cf43c0cffa3b6c2e49",
+        "after_sha256": "c6fa43fe0715726f6f36f314a6afea1f2eab27b8658b3e916f53853cb09fec6a",
+        "groups": [
+          "top_return"
+        ]
       }
     ],
     "src/assets/style.css": [
@@ -9752,6 +9837,13 @@
         "after_sha256": "a0132f858e4771372c6440eb753ccf8555e98716be6f3f5c8cc56e543911f7e3",
         "groups": [
           "continuous_scroll"
+        ]
+      },
+      {
+        "before_sha256": "a0132f858e4771372c6440eb753ccf8555e98716be6f3f5c8cc56e543911f7e3",
+        "after_sha256": "bfd41b9023f17a9052105431bfe758c4e2d6dbac1c78762e391e6c2ded8d9e0c",
+        "groups": [
+          "top_return"
         ]
       }
     ],
