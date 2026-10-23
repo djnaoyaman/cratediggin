@@ -4,7 +4,7 @@ window.CrateAnalyticsReferrer=function(value){if(!value)return '';try{const u=ne
 
 /* Additive events: keep transport, queues, player ownership and existing analytics intact. */
 (()=>{
- if(window.CrateInteractionEvents)return;
+ if(window.CrateInteractionEvents||typeof document.addEventListener!=='function'||typeof window.addEventListener!=='function')return;
  const schemas={sample_playback_start:['song_id'],select_filter:['filter_key'],select_listening_shelf:['shelf_id'],art_open:[]};
  function track(name,values={}){try{if(location.hostname!=='djnaoyaman.github.io'||!schemas[name]||typeof window.gtag!=='function')return;const p={send_to:'G-71ENPHWEJH',transport_type:'beacon'};for(const k of schemas[name]){const v=values[k];if(typeof v==='string'&&/^[a-zA-Z0-9_-]{1,100}$/.test(v))p[k]=v;}window.gtag('event',name,p);}catch{}}
  window.CrateInteractionEvents={track};
