@@ -10560,6 +10560,129 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "transparent": true
+    },
+    {
+      "id": "dreamville-bas-spin-move",
+      "title": "Spin Move (feat. Saba, Smino & The Hics)",
+      "artist": "Dreamville & Bas",
+      "album": "Revenge of the Dreamers III: Director's Cut",
+      "palette": [
+        "#262c29",
+        "#e9d995",
+        "#b8884d",
+        "#315d81",
+        "#798a48"
+      ],
+      "paletteSource": "Revenge of the Dreamers III: Director's Cut — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/1494858083",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/dreamville-bas-spin-move-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "iamddb-urban-jazz",
+      "title": "Urban Jazz",
+      "artist": "IAMDDB",
+      "album": "Swervvvvv.5",
+      "palette": [
+        "#2637ef",
+        "#643ce9",
+        "#ed53b6",
+        "#f59286",
+        "#f51c19"
+      ],
+      "paletteSource": "Swervvvvv.5 — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/album/swervvvvv-5/1452937007",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/iamddb-urban-jazz-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "kari-faux-medicated",
+      "title": "MEDICATED",
+      "artist": "Kari Faux",
+      "album": "CRY 4 HELP",
+      "palette": [
+        "#d3c4b5",
+        "#282621",
+        "#795032",
+        "#b52e26"
+      ],
+      "paletteSource": "CRY 4 HELP — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/medicated/1465819854",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/kari-faux-medicated-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "maxo-kream-drizzy-draco",
+      "title": "Drizzy Draco",
+      "artist": "Maxo Kream",
+      "album": "Brandon Banks",
+      "palette": [
+        "#f3f2ef",
+        "#adadab",
+        "#767a79",
+        "#343b3d"
+      ],
+      "paletteSource": "Brandon Banks — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/drizzy-draco/1470166974",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/maxo-kream-drizzy-draco-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "wiki-fee-fi-fo-fum",
+      "title": "Fee Fi Fo Fum",
+      "artist": "Wiki",
+      "album": "Fee Fi Fo Fum b/w Smarty Jones (feat. Cleo Reed)",
+      "palette": [
+        "#ffffff",
+        "#71bdcf",
+        "#eeeb8b",
+        "#d99b68",
+        "#676862"
+      ],
+      "paletteSource": "Fee Fi Fo Fum b/w Smarty Jones (feat. Cleo Reed) — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://wiksetnyc.bandcamp.com/album/fee-fi-fo-fum-b-w-smarty-jones-feat-cleo-reed",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/wiki-fee-fi-fo-fum-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
+    },
+    {
+      "id": "smoke-dza-currensy-boats-and-hoes",
+      "title": "Boats & Hoes",
+      "artist": "Smoke DZA & Curren$y",
+      "album": "Prestige Worldwide",
+      "palette": [
+        "#292e39",
+        "#c5c7b7",
+        "#6f873c",
+        "#8194ab"
+      ],
+      "paletteSource": "Prestige Worldwide — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/boats-hoes/1504584300",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。",
+      "status": "ready",
+      "image": "assets/graffiti/smoke-dza-currensy-boats-and-hoes-alpha.webp",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

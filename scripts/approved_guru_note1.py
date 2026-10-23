@@ -5,7 +5,8 @@ sha=lambda b:hashlib.sha256(b).hexdigest()
 raw=(R/"scripts/fixtures/approved-guru-note1.json").read_bytes();assert sha(raw)=="e21e82a27e3bcfc4747b3c54f9f87756fa32fad762fed1145506d7921a7deb36",'Immutable credit-note fixture drift'
 F=json.loads(raw)
 def current_guru_note1_file(path,data):
- return data
+ from approved_kiyo_batch1 import historical_kiyo_batch1_file
+ return historical_kiyo_batch1_file(path,data)
 def historical_guru_note1_file(path,data):
  data=current_guru_note1_file(path,data)
  c=F['files'].get(path)

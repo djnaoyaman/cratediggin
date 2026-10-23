@@ -69185,5 +69185,827 @@
       "paletteSourceUrl": "https://music.apple.com/us/song/1481505218",
       "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。"
     }
+  },
+  {
+    "title": "Spin Move (feat. Saba, Smino & The Hics)",
+    "artist": "Dreamville & Bas",
+    "artists": [
+      "Dreamville",
+      "Bas",
+      "Saba",
+      "Smino",
+      "The Hics"
+    ],
+    "year": 2020,
+    "album": "Revenge of the Dreamers III: Director's Cut",
+    "producer": "Monte Booker",
+    "producers": [
+      "Monte Booker"
+    ],
+    "category": "Hip Hop",
+    "id": "dreamville-bas-spin-move",
+    "label": "Dreamville/Interscope Records",
+    "region": "未確認",
+    "scene": "未確認",
+    "essayTitle": "ゲームの中の一曲が、共演への入口に",
+    "deck": "「Spin Move」に並ぶThe Hicsの名前から、Basとの出会いをさかのぼります。",
+    "essay": [
+      "BasとThe Hicsの接点は、ゲームの中で流れた音楽でした。The Hicsを迎えた番組Bringin’ it Backwardsの紹介によると、Basは『Grand Theft Auto V』で「Cold Air」を聴き、共作を求めて連絡。ロンドンでの一週間の制作は、Basのアルバム『Too High to Riot』に入る二曲につながりました。",
+      "その関係を頭に置いて、2020年の「Spin Move」を開いてみてください。DreamvilleとBasの名義にSaba、Smino、The Hicsが加わり、制作はMonte Booker。豪華な名前の列を、以前から続くつながりの交点として眺めると、気になる参加者の作品へ進む道も見えてきます。まずはThe Hicsの名前を覚えて、この共演を入口にしてみてはいかがでしょう。"
+    ],
+    "essaySources": [
+      [
+        4
+      ],
+      [
+        0,
+        1,
+        3,
+        4
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "配信カタログの2020年1月16日発売に基づく。元の2019年版コンピレーションや動画投稿日とは区別。",
+    "regionBasis": "複数の参加者を一つの地域に結び付けず、地域は未確認とする。",
+    "producerBasis": "曲別のProducerクレジットにMonte Bookerを確認。",
+    "versionBasis": "Director’s Cut版のオリジナル歌入り曲。カタログ3:43、公式音源metadata3:44。依頼ミックス3:34との編集・マスター同一性は未確認。",
+    "context": "DreamvilleとBasの共演作から、The Hicsとのつながりへ。",
+    "primaryArtist": "Dreamville & Bas",
+    "primaryArtists": [
+      "Dreamville",
+      "Bas"
+    ],
+    "featuredArtists": [
+      "Saba",
+      "Smino",
+      "The Hics"
+    ],
+    "facts": [
+      {
+        "title": "作品の発売と位置",
+        "text": "2020年1月16日発売の『Revenge of the Dreamers III: Director’s Cut』の23曲目に収録。",
+        "sources": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "title": "曲別の制作担当",
+        "text": "Monte Bookerがプロデューサーとして記載されています。",
+        "sources": [
+          1,
+          3
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Dreamville — Spin Move 公式音源",
+        "url": "https://www.youtube.com/watch?v=g_R4tkSE6y8",
+        "kind": "レーベル公式"
+      },
+      {
+        "label": "Apple Music — Spin Move 楽曲・制作クレジット",
+        "url": "https://music.apple.com/us/song/1494858083",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Apple Music — Revenge of the Dreamers III: Director’s Cut",
+        "url": "https://music.apple.com/us/album/revenge-of-the-dreamers-iii-directors-cut/1494857069",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Qobuz — Director’s Cut 収録曲クレジット",
+        "url": "https://www.qobuz.com/us-en/album/revenge-of-the-dreamers-iii-directors-cut-j-cole-dreamville/noren82lu05rb",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Bringin’ it Backwards — The Hics インタビュー紹介",
+        "url": "https://www.bringinitbackwards.com/videos/interview-with-the-hics/",
+        "kind": "本人インタビュー主催者"
+      }
+    ],
+    "youtube": {
+      "id": "g_R4tkSE6y8",
+      "url": "https://www.youtube.com/watch?v=g_R4tkSE6y8",
+      "title": "Spin Move (feat. Saba, Smino & The Hics)",
+      "channel": "Dreamville",
+      "provider": null,
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/g_R4tkSE6y8",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "オリジナル歌入り版（公式投稿）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 532,
+    "art": {
+      "word": "Spin Move (feat. Saba, Smino & The Hics)",
+      "tag": "DREAMVILLE & BAS",
+      "lines": [
+        "Spin Move (feat. Saba, Smino & The Hics)"
+      ],
+      "style": "piece",
+      "seed": 202610230,
+      "palette": [
+        "#262c29",
+        "#e9d995",
+        "#b8884d",
+        "#315d81",
+        "#798a48"
+      ],
+      "paletteSource": "Revenge of the Dreamers III: Director's Cut — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/1494858083",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。"
+    }
+  },
+  {
+    "title": "Urban Jazz",
+    "artist": "IAMDDB",
+    "artists": [
+      "IAMDDB"
+    ],
+    "year": 2019,
+    "album": "Swervvvvv.5",
+    "producer": "Drae Da Skimask",
+    "producers": [
+      "Drae Da Skimask"
+    ],
+    "category": "Hip Hop",
+    "id": "iamddb-urban-jazz",
+    "label": "Union IV Recordings",
+    "region": "Manchester",
+    "scene": "Manchester",
+    "essayTitle": "曲名であり、自分の音楽の呼び名",
+    "deck": "「Urban Jazz」を、IAMDDB自身が選んだ言葉からたどります。",
+    "essay": [
+      "「Urban Jazz」は、IAMDDBにとって曲名だけではありません。New Waveのインタビューで彼女は、自分の音楽を流動的なものとして説明し、ジャンルよりも聴く人の感情に応えたいと語っています。ここでの言葉は、音楽を一つの棚に収めるためというより、その棚を行き来する自分を示す呼び名として読めそうです。",
+      "同名曲は2019年の『Swervvvvv.5』の2曲目。制作にはDrae Da Skimaskがクレジットされています。まずこの一曲を入口に、彼女が自分の音楽に付けた名前と、あなたが実際に受け取る感覚を並べてみてください。分類を決める前に聴く、という楽しみ方ができるはずです。"
+    ],
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "公式配信とカタログの2019年2月22日発売に基づく。2018年の著作権表記や動画投稿日とは区別。",
+    "regionBasis": "本人インタビューで語られるManchesterとの関連。現在の居住地や録音場所の説明ではない。",
+    "producerBasis": "曲別のProducerクレジットにDrae Da Skimaskを確認。",
+    "versionBasis": "『Swervvvvv.5』のオリジナル歌入りアルバム版。カタログ3:06、音源metadata3:07。依頼ミックス2:19との編集・マスター同一性は未確認。",
+    "context": "IAMDDBが自分の音楽に付けた呼び名を、同名曲から考えます。",
+    "primaryArtist": "IAMDDB",
+    "featuredArtists": [],
+    "facts": [
+      {
+        "title": "作品の発売と位置",
+        "text": "2019年2月22日発売の『Swervvvvv.5』の2曲目に収録されています。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "曲別の制作担当",
+        "text": "公式配信音源にはDrae Da Skimaskがプロデューサーとして記載されています。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "IAMDDB — Urban Jazz 公式配信音源",
+        "url": "https://www.youtube.com/watch?v=xJlJIFdS9Ao",
+        "kind": "公式配信音源"
+      },
+      {
+        "label": "Qobuz — Swervvvvv.5 楽曲別クレジット",
+        "url": "https://www.qobuz.com/us-en/album/swervvvvv5-iamddb/na64060vxb2vb",
+        "kind": "配信クレジット"
+      },
+      {
+        "label": "Apple Music — Swervvvvv.5 配信情報",
+        "url": "https://music.apple.com/us/album/swervvvvv-5/1452937007",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "New Wave — IAMDDB本人インタビュー",
+        "url": "https://www.newwavemagazine.com/cover-editorials/iamddb",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "youtube": {
+      "id": "xJlJIFdS9Ao",
+      "url": "https://www.youtube.com/watch?v=xJlJIFdS9Ao",
+      "title": "Urban Jazz",
+      "channel": "IAM DDB",
+      "provider": "The Orchard Enterprises",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/xJlJIFdS9Ao",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "オリジナル歌入り版（公式投稿）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 533,
+    "art": {
+      "word": "Urban Jazz",
+      "tag": "IAMDDB",
+      "lines": [
+        "Urban Jazz"
+      ],
+      "style": "piece",
+      "seed": 202610231,
+      "palette": [
+        "#2637ef",
+        "#643ce9",
+        "#ed53b6",
+        "#f59286",
+        "#f51c19"
+      ],
+      "paletteSource": "Swervvvvv.5 — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/album/swervvvvv-5/1452937007",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。"
+    }
+  },
+  {
+    "title": "MEDICATED",
+    "artist": "Kari Faux",
+    "artists": [
+      "Kari Faux"
+    ],
+    "year": 2019,
+    "album": "CRY 4 HELP",
+    "producer": "Columbus Smith II",
+    "producers": [
+      "Columbus Smith II"
+    ],
+    "category": "Hip Hop",
+    "id": "kari-faux-medicated",
+    "label": "未確認",
+    "region": "Little Rock",
+    "scene": "Little Rock",
+    "essayTitle": "プレイリストから、五曲の作品へ",
+    "deck": "「MEDICATED」を入口に、Kari Fauxの『CRY 4 HELP』をたどります。",
+    "essay": [
+      "新しい音楽との出会いは、アルバムの表紙からとは限りません。Kari Fauxの配信を担当したSymphonicは、「MEDICATED」がSpotifyのプレイリスト「Pollen」に取り上げられたことを紹介しています。一曲との出会いが、その先の作品へつながる例です。",
+      "この曲が入る『CRY 4 HELP』は2019年発表。「MEDICATED」から気になったら、同作の「LEAVE ME ALONE」や「NIGHT TIME」へ進んでみてください。Symphonicはこの二曲のミュージックビデオ展開も手がけています。一曲、作品、映像と、入口を変えながらKari Fauxの名前を追ってみるのも楽しみ方の一つです。"
+    ],
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        1,
+        3,
+        4
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "公式配信、Apple Music、本人のAudiomackが示す2019年3月8日発売に基づく。5月の動画投稿日とは区別。",
+    "regionBasis": "本人のAudiomack紹介文にあるLittle Rock出身という記載に基づく。録音場所の説明ではない。",
+    "producerBasis": "公式配信と本人の曲別Producer欄にColumbus Smith IIと記載。別名や異なる数字表記への推測置換はしない。",
+    "versionBasis": "『CRY 4 HELP』のオリジナル歌入り曲。カタログ3:40、動画metadata3:41。依頼ミックス2:47との編集・マスター同一性は未確認。",
+    "context": "Kari Fauxの一曲から、作品とミュージックビデオへ。",
+    "primaryArtist": "Kari Faux",
+    "primaryArtists": [
+      "Kari Faux"
+    ],
+    "featuredArtists": [],
+    "facts": [
+      {
+        "title": "作品の発売と位置",
+        "text": "2019年3月8日発表の『CRY 4 HELP』収録曲。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "曲別の制作担当",
+        "text": "公式配信クレジットのプロデューサー表記はColumbus Smith II。",
+        "sources": [
+          0,
+          2
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Kari Faux — MEDICATED 公式配信音源",
+        "url": "https://www.youtube.com/watch?v=OvSe63vQj-c",
+        "kind": "公式配信音源"
+      },
+      {
+        "label": "Apple Music — Medicated",
+        "url": "https://music.apple.com/us/song/medicated/1465819854",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Kari Faux Audiomack — MEDICATED",
+        "url": "https://audiomack.com/kari-faux/song/medicated",
+        "kind": "アーティスト公式"
+      },
+      {
+        "label": "Symphonic — Kari Faux ケーススタディ",
+        "url": "https://symphonic.com/kari-faux-case-study/",
+        "kind": "配信元公式"
+      },
+      {
+        "label": "Kari Faux Audiomack — CRY 4 HELP",
+        "url": "https://audiomack.com/kari-faux/album/cry-4-help-1",
+        "kind": "アーティスト公式"
+      }
+    ],
+    "youtube": {
+      "id": "OvSe63vQj-c",
+      "url": "https://www.youtube.com/watch?v=OvSe63vQj-c",
+      "title": "MEDICATED",
+      "channel": "Kari Faux - Topic",
+      "provider": "Symphonic Distribution",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/OvSe63vQj-c",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "オリジナル歌入り版（公式投稿）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 534,
+    "art": {
+      "word": "MEDICATED",
+      "tag": "KARI FAUX",
+      "lines": [
+        "MEDICATED"
+      ],
+      "style": "piece",
+      "seed": 202610232,
+      "palette": [
+        "#d3c4b5",
+        "#282621",
+        "#795032",
+        "#b52e26"
+      ],
+      "paletteSource": "CRY 4 HELP — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/medicated/1465819854",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。"
+    }
+  },
+  {
+    "title": "Drizzy Draco",
+    "artist": "Maxo Kream",
+    "artists": [
+      "Maxo Kream"
+    ],
+    "year": 2019,
+    "album": "Brandon Banks",
+    "producer": "Ryan ESL",
+    "producers": [
+      "Ryan ESL"
+    ],
+    "category": "Hip Hop",
+    "id": "maxo-kream-drizzy-draco",
+    "label": "RCA Records",
+    "region": "未確認",
+    "scene": "未確認",
+    "essayTitle": "本人がライブで選びたい一曲から",
+    "deck": "Maxo Kreamが挙げたお気に入りを手がかりに、「Drizzy Draco」へ。",
+    "essay": [
+      "どこからMaxo Kreamを聴けばいいのか迷ったら、本人がライブで披露するのを好きだと話した曲から入るのも一つの方法です。2019年のKDUPのインタビューで挙げていたのは「Drizzy Draco」「Fetti」「Relays」「Roaches」。おすすめを誰かに尋ねる代わりに、この四曲を小さな入口にしてみてください。",
+      "「Drizzy Draco」は2019年の『Brandon Banks』に収録され、プロデューサーはRyan ESL。同じインタビューでMaxoは、アルバムのお気に入りとして物語性を理由に「Brenda」も挙げています。「Drizzy Draco」から入って、次に「Brenda」へ。一人のアーティストを一曲だけで決めつけず、本人の選択をたどってみる聴き方です。"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "配信カタログと公式音源が示す2019年に基づく。7月18日と19日の表記差は確定せず、年のみ掲載。",
+    "regionBasis": "この曲の資料から特定の地域を断定しない。",
+    "producerBasis": "公式音源の曲別Producer欄にRyan ESLを確認。映像の制作担当とは区別。",
+    "versionBasis": "『Brandon Banks』のオリジナル歌入りアルバム版。カタログ2:35、音源metadata2:36。別曲・ライブ映像とは区別し、依頼ミックスとのマスター同一性は未確認。",
+    "context": "『Brandon Banks』の一曲から、本人のお気に入りへ進みます。",
+    "primaryArtist": "Maxo Kream",
+    "primaryArtists": [
+      "Maxo Kream"
+    ],
+    "featuredArtists": [],
+    "facts": [
+      {
+        "title": "作品の発売と位置",
+        "text": "2019年のアルバム『Brandon Banks』に収録。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "曲別の制作担当",
+        "text": "公式配信音源にRyan ESLのプロデュースが記載されています。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Maxo Kream — Drizzy Draco 公式配信音源",
+        "url": "https://www.youtube.com/watch?v=OYf8tDc9XyE",
+        "kind": "公式配信音源"
+      },
+      {
+        "label": "Apple Music — Drizzy Draco",
+        "url": "https://music.apple.com/us/song/1470166974",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "KDUP — Maxo Kream 本人インタビュー",
+        "url": "https://sites.up.edu/kdup/interview-maxo-kream/",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "youtube": {
+      "id": "OYf8tDc9XyE",
+      "url": "https://www.youtube.com/watch?v=OYf8tDc9XyE",
+      "title": "Drizzy Draco",
+      "channel": "Maxo Kream",
+      "provider": "Big Persona/88 Classic/RCA Records",
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/OYf8tDc9XyE",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "オリジナル歌入り版（公式投稿）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 535,
+    "art": {
+      "word": "Drizzy Draco",
+      "tag": "MAXO KREAM",
+      "lines": [
+        "Drizzy Draco"
+      ],
+      "style": "piece",
+      "seed": 202610233,
+      "palette": [
+        "#f3f2ef",
+        "#adadab",
+        "#767a79",
+        "#343b3d"
+      ],
+      "paletteSource": "Brandon Banks — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/drizzy-draco/1470166974",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。"
+    }
+  },
+  {
+    "title": "Fee Fi Fo Fum",
+    "artist": "Wiki",
+    "artists": [
+      "Wiki"
+    ],
+    "year": 2019,
+    "album": "Fee Fi Fo Fum b/w Smarty Jones (feat. Cleo Reed)",
+    "producer": "Tony Seltzer",
+    "producers": [
+      "Tony Seltzer"
+    ],
+    "category": "Hip Hop",
+    "id": "wiki-fee-fi-fo-fum",
+    "label": "未確認",
+    "region": "New York",
+    "scene": "New York",
+    "essayTitle": "一曲から、もう一曲へ渡る入口",
+    "deck": "「Fee Fi Fo Fum」の相方は、Cleo Reedを迎えた「Smarty Jones」。",
+    "essay": [
+      "一曲だけを見つけたつもりが、すぐ隣にもう一曲が待っている。Wikiの「Fee Fi Fo Fum」は、2019年に「Smarty Jones」と組み合わせて発表されました。公式Bandcampで並ぶ二つの曲名のうち、Cleo Reedの客演表記が付くのは「Smarty Jones」のほうです。",
+      "「Fee Fi Fo Fum」を手がけたのはTony Seltzer。Wikiの公式音源の説明にも、彼の名前と、もう一方のシングルへの案内が並びます。まずはこの一曲から入り、次にCleo Reedの参加する曲へ。作品を一つずつたどるだけで、Wikiを中心にした共演者の名前も少しずつ増えていきます。"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "公式Bandcampの2019年10月18日発売に基づく。依頼ミックスの2020年とは区別。",
+    "regionBasis": "公式Bandcampのアーティスト所在地に示されるNew Yorkとの関連。録音場所の説明ではない。",
+    "producerBasis": "公式Bandcampと公式音源の制作表記にTony Seltzerを確認。",
+    "versionBasis": "2019年のオリジナルシングル。Bandcamp3:22、動画metadata3:24・表示3:23。依頼ミックス2:46との編集・マスター同一性は未確認。",
+    "context": "Wikiの一曲から、二曲組シングルのもう一曲へ。",
+    "primaryArtist": "Wiki",
+    "primaryArtists": [
+      "Wiki"
+    ],
+    "featuredArtists": [],
+    "facts": [
+      {
+        "title": "作品の発売と位置",
+        "text": "2019年10月18日、「Smarty Jones」と組み合わせて発表。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "曲別の制作担当",
+        "text": "Tony Seltzerがプロデュース。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wiki — Fee Fi Fo Fum 公式音源",
+        "url": "https://www.youtube.com/watch?v=fNBnq4M5QH8",
+        "kind": "アーティスト公式"
+      },
+      {
+        "label": "Wiki Bandcamp — Fee Fi Fo Fum",
+        "url": "https://wiksetnyc.bandcamp.com/track/fee-fi-fo-fum",
+        "kind": "アーティスト公式"
+      },
+      {
+        "label": "Wiki Bandcamp — Fee Fi Fo Fum b/w Smarty Jones",
+        "url": "https://wiksetnyc.bandcamp.com/album/fee-fi-fo-fum-b-w-smarty-jones-feat-cleo-reed",
+        "kind": "アーティスト公式"
+      }
+    ],
+    "youtube": {
+      "id": "fNBnq4M5QH8",
+      "url": "https://www.youtube.com/watch?v=fNBnq4M5QH8",
+      "title": "Fee Fi Fo Fum",
+      "channel": "Wiki",
+      "provider": null,
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/fNBnq4M5QH8",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "オリジナル歌入り版（公式投稿）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 536,
+    "art": {
+      "word": "Fee Fi Fo Fum",
+      "tag": "WIKI",
+      "lines": [
+        "Fee Fi Fo Fum"
+      ],
+      "style": "piece",
+      "seed": 202610234,
+      "palette": [
+        "#ffffff",
+        "#71bdcf",
+        "#eeeb8b",
+        "#d99b68",
+        "#676862"
+      ],
+      "paletteSource": "Fee Fi Fo Fum b/w Smarty Jones (feat. Cleo Reed) — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://wiksetnyc.bandcamp.com/album/fee-fi-fo-fum-b-w-smarty-jones-feat-cleo-reed",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。"
+    }
+  },
+  {
+    "title": "Boats & Hoes",
+    "artist": "Smoke DZA & Curren$y",
+    "artists": [
+      "Smoke DZA",
+      "Curren$y"
+    ],
+    "year": 2019,
+    "album": "Prestige Worldwide",
+    "producer": "Girl Talk",
+    "producers": [
+      "Girl Talk"
+    ],
+    "category": "Hip Hop",
+    "id": "smoke-dza-currensy-boats-and-hoes",
+    "label": "Cinematic Music Group",
+    "region": "未確認",
+    "scene": "未確認",
+    "essayTitle": "映画の冗談から生まれた、二人の合言葉",
+    "deck": "「Boats & Hoes」と作品名をつなぐのは、Smoke DZAが語った映画の話。",
+    "essay": [
+      "「Boats & Hoes」という題名が気になったら、収録作『Prestige Worldwide』の名前も並べてみてください。Smoke DZAはAllHipHopのインタビューで、どちらも映画『Step Brothers』に由来すると説明しています。彼が冗談めかして思いついた作品名を、Curren$yも気に入ったそうです。",
+      "二人の間で通じる冗談が、作品への入口になる。2019年に発表されたこの曲のプロデューサーはGirl Talkです。まずは題名に込められたやり取りを手がかりに一曲へ。そこから二人の共作『Prestige Worldwide』へ進むと、曲名と作品名のつながりも楽しめます。"
+    ],
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        1,
+        2,
+        3
+      ]
+    ],
+    "listening": [],
+    "yearBasis": "配信カタログの2019年11月29日発売に基づく。依頼ミックスの2020年や後年の再発とは区別。",
+    "regionBasis": "共同名義を一つの地域に結び付けず、地域は未確認とする。",
+    "producerBasis": "曲別のProducer欄にGirl Talkを確認。作詞作曲表記から推測したものではない。",
+    "versionBasis": "『Prestige Worldwide』のオリジナル歌入り曲。リミックスやライブ表記のない選定音源だが、依頼ミックスとの編集・マスター同一性は未確認。",
+    "context": "Smoke DZAとCurren$yの共作へ、曲名に込めた冗談から入ります。",
+    "primaryArtist": "Smoke DZA & Curren$y",
+    "primaryArtists": [
+      "Smoke DZA",
+      "Curren$y"
+    ],
+    "featuredArtists": [],
+    "facts": [
+      {
+        "title": "作品の発売と位置",
+        "text": "2019年11月29日発表の『Prestige Worldwide』に収録。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "曲別の制作担当",
+        "text": "Girl Talkがプロデューサーを担当。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "DZAVision — Boats & Hoes 公式音源",
+        "url": "https://www.youtube.com/watch?v=Te1p2_IDyYU",
+        "kind": "アーティスト公式"
+      },
+      {
+        "label": "Apple Music — Boats & Hoes 楽曲・制作クレジット",
+        "url": "https://music.apple.com/us/song/boats-hoes/1504584300",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "Apple Music — Prestige Worldwide",
+        "url": "https://music.apple.com/us/album/prestige-worldwide/1504583972",
+        "kind": "配信カタログ"
+      },
+      {
+        "label": "AllHipHop — Smoke DZA インタビュー",
+        "url": "https://allhiphop.com/features/smoke-dza-talks-recording-prestige-worldwide-with-currensy/",
+        "kind": "本人インタビュー"
+      }
+    ],
+    "youtube": {
+      "id": "Te1p2_IDyYU",
+      "url": "https://www.youtube.com/watch?v=Te1p2_IDyYU",
+      "title": "Boats & Hoes",
+      "channel": "DZAVision",
+      "provider": null,
+      "type": "Official Audio",
+      "official": true,
+      "verified": "2026-10-23",
+      "embedUrl": "https://www.youtube.com/embed/Te1p2_IDyYU",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "オリジナル歌入り版（公式投稿）",
+      "versionBasis": "依頼ミックスとの編集・マスター同一性は未確認。",
+      "verification": "公式投稿の表示・説明とregionsAllowedのJPを確認。実再生・埋め込み・日本所在地からの再生は未確認。"
+    },
+    "samples": [],
+    "sampleStatus": "サンプルは一次資料未確認。",
+    "moods": [
+      "ラップ"
+    ],
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "audioVerificationStatus": "公式地域情報で日本を許可対象と確認。実再生は未確認。",
+    "editorialStatus": "一次資料に基づく解説。音源の実再生は未確認。",
+    "datePublished": "2026-10-23",
+    "addedOrder": 537,
+    "art": {
+      "word": "Boats & Hoes",
+      "tag": "SMOKE DZA & CURREN$Y",
+      "lines": [
+        "Boats & Hoes"
+      ],
+      "style": "piece",
+      "seed": 202610235,
+      "palette": [
+        "#292e39",
+        "#c5c7b7",
+        "#6f873c",
+        "#8194ab"
+      ],
+      "paletteSource": "Prestige Worldwide — 公式掲載カバー（配色参照）",
+      "paletteSourceUrl": "https://music.apple.com/us/song/boats-hoes/1504584300",
+      "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。"
+    }
   }
 ]

@@ -5172,6 +5172,30 @@
       "legacy": false,
       "requires_build": true,
       "label": "guru-note1"
+    },
+    {
+      "id": "kiyo-batch1",
+      "argv": [
+        "python",
+        "scripts/verify_kiyo_batch1.py"
+      ],
+      "env": {},
+      "kind": "static",
+      "legacy": false,
+      "requires_build": true,
+      "label": "kiyo-batch1"
+    },
+    {
+      "id": "kiyo-batch1-browser",
+      "argv": [
+        "node",
+        "scripts/verify_kiyo_batch1_browser.cjs"
+      ],
+      "env": {},
+      "kind": "browser",
+      "legacy": false,
+      "requires_build": true,
+      "label": "kiyo-batch1-browser"
     }
   ],
   "groups": {
@@ -6089,6 +6113,10 @@
     ],
     "guru_note1": [
       "guru-note1"
+    ],
+    "kiyo_batch1": [
+      "kiyo-batch1",
+      "kiyo-batch1-browser"
     ]
   },
   "runtime_rules": {
@@ -8321,7 +8349,8 @@
       "scripts/fixtures/approved-free99-addition.json"
     ],
     "scripts/approved_guru_note1.py": [
-      "scripts/fixtures/approved-guru-note1.json"
+      "scripts/fixtures/approved-guru-note1.json",
+      "scripts/approved_kiyo_batch1.py"
     ],
     "scripts/verify_guru_note1.py": [
       "scripts/approved_guru_note1.py",
@@ -8329,6 +8358,21 @@
       "releases.json",
       "scripts/ci/manifest.json",
       "scripts/approved_free99_addition.py"
+    ],
+    "scripts/approved_kiyo_batch1.py": [
+      "scripts/fixtures/approved-kiyo-batch1.json"
+    ],
+    "scripts/verify_kiyo_batch1.py": [
+      "scripts/approved_kiyo_batch1.py",
+      "tracks.json",
+      "graffiti_artwork.json",
+      "artist_entities.json",
+      "releases.json",
+      "scripts/ci/manifest.json",
+      "scripts/approved_guru_note1.py"
+    ],
+    "scripts/verify_kiyo_batch1_browser.cjs": [
+      "scripts/fixtures/approved-kiyo-batch1.json"
     ]
   },
   "policy_paths": [
@@ -8647,7 +8691,9 @@
     "scripts/approved_free99_addition.py",
     "scripts/fixtures/approved-free99-addition.json",
     "scripts/approved_guru_note1.py",
-    "scripts/fixtures/approved-guru-note1.json"
+    "scripts/fixtures/approved-guru-note1.json",
+    "scripts/approved_kiyo_batch1.py",
+    "scripts/fixtures/approved-kiyo-batch1.json"
   ],
   "policy_files": [
     "scripts/ci/select_checks.py",
@@ -9955,6 +10001,13 @@
         "groups": [
           "guru_note1"
         ]
+      },
+      {
+        "before_sha256": "abc0bb070373b42a8f426fd8a708cc0744555c092a96806c29c71f71f18ce9ed",
+        "after_sha256": "864476e5b72d9b3ee8072b95744b5c4812e998d3787fc21d423e0a4cff1f19cf",
+        "groups": [
+          "kiyo_batch1"
+        ]
       }
     ],
     "editorial_deepdives.json": [
@@ -10407,6 +10460,13 @@
         "groups": [
           "free99_addition"
         ]
+      },
+      {
+        "before_sha256": "7795644c93f97db32b3855bcf14f8d17be0889e0ead228fde5dd82b46c286efd",
+        "after_sha256": "ee40234e90d39a8b93dc129fa2294a99a3da92c09fd23b6277c1bebcebba6d79",
+        "groups": [
+          "kiyo_batch1"
+        ]
       }
     ],
     "assets/graffiti/wu-tang-clan-method-man-alpha.webp": [
@@ -10634,6 +10694,13 @@
         "after_sha256": "10fb37b2a01b208a3c58d28d753b1b78ef3574867375f6f7628764eb279447b2",
         "groups": [
           "free99_addition"
+        ]
+      },
+      {
+        "before_sha256": "10fb37b2a01b208a3c58d28d753b1b78ef3574867375f6f7628764eb279447b2",
+        "after_sha256": "7547ce87143da9cb259720a9676e00cc9da81d1b35a52b0ce48eba437c65bc26",
+        "groups": [
+          "kiyo_batch1"
         ]
       }
     ],
@@ -11301,6 +11368,60 @@
         "after_sha256": "6a94fd8ffb74492ee20595d5dd90ffc7d73cf1fc4f1c4138a7ff210c2a9a864c",
         "groups": [
           "free99_addition"
+        ]
+      }
+    ],
+    "assets/graffiti/dreamville-bas-spin-move-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "29b0d1d8aa1361e1368796fa0d3f7c9e360b4fe908de51469ea0a7ea1f509bd2",
+        "groups": [
+          "kiyo_batch1"
+        ]
+      }
+    ],
+    "assets/graffiti/iamddb-urban-jazz-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "1e8a40b577704ee4796df9706e3b1ac219fe7ea7aa9793b105c843ccf437faa0",
+        "groups": [
+          "kiyo_batch1"
+        ]
+      }
+    ],
+    "assets/graffiti/kari-faux-medicated-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "b18e587f7a1117aba1ae00de053349138da340180f7adb6792be0f931cf1812a",
+        "groups": [
+          "kiyo_batch1"
+        ]
+      }
+    ],
+    "assets/graffiti/maxo-kream-drizzy-draco-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "9015a016bded91a2b8c78bdeccee385cc0d3bc7cc229c6cd9f3dd06b5e6a8256",
+        "groups": [
+          "kiyo_batch1"
+        ]
+      }
+    ],
+    "assets/graffiti/wiki-fee-fi-fo-fum-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "1489b2fe1c96a5284a0c70e33aadbb338cdd3d576d07eaa3651231ded55dc38d",
+        "groups": [
+          "kiyo_batch1"
+        ]
+      }
+    ],
+    "assets/graffiti/smoke-dza-currensy-boats-and-hoes-alpha.webp": [
+      {
+        "before_sha256": null,
+        "after_sha256": "eb8f44b9742e1bf6c2ae49e31c9845098c85745b7881bc2fe6a655d190aa21e1",
+        "groups": [
+          "kiyo_batch1"
         ]
       }
     ]
