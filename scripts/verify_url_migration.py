@@ -18,6 +18,10 @@ for old,new in mapping.items():
  assert 'href="'+host+new[len(base):]+'"' in s and 'noindex' not in s
  q=d/new.removeprefix(base+'/');q=q/'index.html' if new.endswith('/') else q
  assert q.is_file() and 'http-equiv="refresh"' not in q.read_text(),(old,new)
+ if old.startswith(base+'/features/'):
+  social=lambda text: sorted(re.findall(r'<meta (?:property|name)="((?:og|twitter):[^"]+)" content="([^"]*)">',text))
+  expected=social(q.read_text())
+  assert expected and social(s)==expected,('Legacy feature social metadata differs',old,new)
 assert mapping[base+'/features/tribe-production.html']==base+'/artists/tribe.html'
 for route,p in pages.items():
  rel=p['path'].removeprefix(base+'/');f=d/rel;f=f/'index.html' if not rel or rel.endswith('/') else f
@@ -37,13 +41,16 @@ for route,p in pages.items():
    assert 'class="track-artwork"' in main, 'Artwork must be in the article, not the global hero'
    fig=main.split('<figure class="track-artwork">')[1].split('</figure>')[0]
    assert 'width="' in fig and 'height="' in fig and 'CRATE DIGGIN｜DJ Naoyaman' in fig
-for kind,count,photo in [('artists',10,10),('producers',6,6)]:
+for kind,feature_type in [('artists','artist'),('producers','producer')]:
+ expected=[f for f in features if f['type']==feature_type and f.get('editorial') and f.get('visual')]
+ count=len(expected);photo=sum(not f['visual'].get('nameOnly') for f in expected)
  s=(d/kind/'index.html').read_text();assert s.count('class="feature-poster"')==count;assert s.count('class="feature-photo"')==photo
 sitemap=ET.parse(d/'sitemap.xml');ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9','i':'http://www.google.com/schemas/sitemap-image/1.1'}
 urls=[n.text for n in sitemap.findall('s:url/s:loc',ns)];assert len(urls)==len(set(urls))==len(pages)
 assert set(urls)=={p['url'] for p in pages.values()}
 personal_images=sum(len(f.get('personalFeature',{}).get('photos',[])) for f in json.loads((r/'features.json').read_text())['features'] if '#/feature/'+f['id'] in pages)
-images=sitemap.findall('s:url/i:image/i:loc',ns);assert len(images)==len(ready)+32+(3 if (r/'editor_profile.json').exists() else 0)+personal_images
+feature_images=sum(len({f['visual'][key] for f in features if f.get('editorial') and f['type']==kind for key in ('photo','tag') if f.get('visual',{}).get(key)}) for kind in ('artist','producer'))
+images=sitemap.findall('s:url/i:image/i:loc',ns);assert len(images)==len(ready)+feature_images+(3 if (r/'editor_profile.json').exists() else 0)+personal_images
 for n in images: assert (d/n.text.removeprefix(host+'/')).is_file()
 assert len(list((d/'artists').glob('[0-9a-f]'*16+'.html')))==len({t['artist'] for t in tracks})
 print(f'{len(mapping)} old URL mappings, {len(pages)} canonical pages, {len(images)} image entries, unchanged artist directory verified')

@@ -61,7 +61,9 @@ def write_legacy_pages(dist, host, mapping, pages=None):
         target.parent.mkdir(parents=True, exist_ok=True)
         url = host + new[len(base):]
         social = ''
-        page = metadata.get(new) if old.startswith(base + '/songs/') and old.endswith('.html') else None
+        # Feature aliases need the destination card without executing the redirect.
+        has_social = old.startswith(base + '/features/') or (old.startswith(base + '/songs/') and old.endswith('.html'))
+        page = metadata.get(new) if has_social else None
         if page:
             values = {'og:title': page['title'], 'og:description': page['description'], 'og:url': page['url'], 'og:type': page['kind'], 'og:site_name': 'CRATEDIGGIN\'', 'og:locale': 'ja_JP', 'og:image': page['image'], 'og:image:width': '1200', 'og:image:height': '630', 'og:image:type': 'image/jpeg', 'og:image:alt': page['imageAlt']}
             social = ''.join('<meta property="'+key+'" content="'+html.escape(value, quote=True)+'">' for key,value in values.items())
