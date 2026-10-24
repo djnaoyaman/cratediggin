@@ -72458,8 +72458,6 @@
       "verification": "ユーザー提供の動画。再生状況・埋め込み可否は確認中。日本所在地からの実再生は未確認。"
     },
     "versionBasis": "同じIDを記載した2017年の記事から曲名・客演を照合。現行チャンネル情報、動画内の編集・マスター同一性は未確認。",
-    "audioVerificationStatus": "利用者の環境で再生確認済み（2026年10月24日）。環境により再生できない場合があります。",
-    "editorialStatus": "利用者の環境で再生確認済み（2026年10月24日）。環境により再生できない場合があります。",
     "listening": [],
     "facts": [],
     "samples": [],
@@ -72472,10 +72470,6 @@
     "editorialCrates": [],
     "connections": [],
     "noteReviewedAt": "2026-10-23",
-    "editorSelectionMemory": {
-      "heading": "音源の確認状況",
-      "text": "利用者の環境で再生確認済み（2026年10月24日）。環境により再生できない場合があります。"
-    },
     "datePublished": "2026-10-23",
     "addedOrder": 556,
     "art": {
@@ -72598,8 +72592,6 @@
       "verification": "公開資料から音源を同定。再生状況・埋め込み可否は確認中。日本での実再生・同一マスターは未検証。"
     },
     "versionBasis": "The Season / Carry Meの単曲音源。The Watersを含む3曲構成MVとは区別。公開曲名・版表記による同定。DJミックスと同一マスターかの音声照合は未実施。",
-    "audioVerificationStatus": "再生状況・埋め込み可否は確認中。",
-    "editorialStatus": "再生状況・埋め込み可否は確認中。",
     "listening": [],
     "facts": [],
     "samples": [],
@@ -72612,10 +72604,6 @@
     "editorialCrates": [],
     "connections": [],
     "noteReviewedAt": "2026-10-23",
-    "editorSelectionMemory": {
-      "heading": "音源の確認状況",
-      "text": "再生状況・埋め込み可否は確認中。"
-    },
     "datePublished": "2026-10-23",
     "addedOrder": 557,
     "art": {
@@ -72729,8 +72717,6 @@
       "verification": "公開資料から音源を同定。再生状況・埋め込み可否は確認中。日本での実再生・同一マスターは未検証。"
     },
     "versionBasis": "9th Wonder’s Blue Light Basement Remix。原曲版とは区別。公開曲名・版表記による同定。DJミックスと同一マスターかの音声照合は未実施。",
-    "audioVerificationStatus": "再生状況・埋め込み可否は確認中。",
-    "editorialStatus": "再生状況・埋め込み可否は確認中。",
     "listening": [],
     "facts": [],
     "samples": [],
@@ -72744,10 +72730,6 @@
     "connections": [],
     "noteReviewedAt": "2026-10-23",
     "remixer": "9th Wonder",
-    "editorSelectionMemory": {
-      "heading": "音源の確認状況",
-      "text": "再生状況・埋め込み可否は確認中。"
-    },
     "datePublished": "2026-10-23",
     "addedOrder": 558,
     "art": {
@@ -72851,8 +72833,6 @@
       "verification": "公開資料から音源を同定。再生状況・埋め込み可否は確認中。日本での実再生・同一マスターは未検証。"
     },
     "versionBasis": "Rap or Go to the League収録版。公開曲名・版表記による同定。DJミックスと同一マスターかの音声照合は未実施。",
-    "audioVerificationStatus": "再生状況・埋め込み可否は確認中。",
-    "editorialStatus": "再生状況・埋め込み可否は確認中。",
     "listening": [],
     "facts": [],
     "samples": [],
@@ -72865,10 +72845,6 @@
     "editorialCrates": [],
     "connections": [],
     "noteReviewedAt": "2026-10-23",
-    "editorSelectionMemory": {
-      "heading": "音源の確認状況",
-      "text": "再生状況・埋め込み可否は確認中。"
-    },
     "datePublished": "2026-10-23",
     "addedOrder": 559,
     "art": {
