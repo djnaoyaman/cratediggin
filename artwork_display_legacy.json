@@ -1,0 +1,2375 @@
+{
+  "version": 1,
+  "frozenAt": "2026-10-24",
+  "basis": "One-time ready artwork inventory at policy installation; do not exempt future additions or changed images.",
+  "unchangedLegacy": {
+    "can-i-kick-it": {
+      "image": "assets/graffiti/can-i-kick-it-alpha.webp",
+      "sha256": "25846173a861670669143ffb1d4990963f57ebfa9bd4c0b440754908924fddc4"
+    },
+    "93-til-infinity": {
+      "image": "assets/graffiti/93-til-infinity-alpha.webp",
+      "sha256": "5a261fb1ecdc774e56d49e2b89839bf3f246ffb221f88b0e3024f7e79c1bace7"
+    },
+    "in-the-house": {
+      "image": "assets/graffiti/in-the-house-alpha.webp",
+      "sha256": "699d0b5f7088e36866284c91d1193c5fc3e6a16f9768f9f0c4337cffef07e8ba"
+    },
+    "what-im-after": {
+      "image": "assets/graffiti/what-im-after-alpha.webp",
+      "sha256": "e629a0c7ea10e42ef7d8068dbc3e10ecb5a46b78176bc5fc160b60dcc81a99c6"
+    },
+    "bucktown": {
+      "image": "assets/graffiti/bucktown-alpha.webp",
+      "sha256": "bdb033d8c430baadd1afe55deafa3870ddfaf226f331040e2661e31b64750066"
+    },
+    "runnin": {
+      "image": "assets/graffiti/runnin-alpha.webp",
+      "sha256": "1f334fe603891b0de5b3b2d223dac3341bd114065310801907a4db9d61438bd6"
+    },
+    "resurrection": {
+      "image": "assets/graffiti/resurrection-alpha.webp",
+      "sha256": "89163d14128ffe397b77218338c4fb97dd0c477a9695385f9df72842019bd485"
+    },
+    "mass-appeal": {
+      "image": "assets/graffiti/mass-appeal-alpha.webp",
+      "sha256": "c5e07487c548263184d14ffb2e67a20b79c1887286e71e776eb4e936335f79ac"
+    },
+    "props-over-here": {
+      "image": "assets/graffiti/props-over-here-alpha.webp",
+      "sha256": "18acb9513dcd4b9c8b73d51385ee909f6a474605f661e0e92a60fb859978d766"
+    },
+    "times-up": {
+      "image": "assets/graffiti/times-up-alpha.webp",
+      "sha256": "a765ec15b23167ea2134103c633e82aab88d731c855a8f3e16a834776fcc8d1e"
+    },
+    "the-lump-lump": {
+      "image": "assets/graffiti/the-lump-lump-alpha.webp",
+      "sha256": "2872fd414dca70a5870f67cefa9bfc3174094136c8806290ab8da28329ecb7e5"
+    },
+    "put-it-on": {
+      "image": "assets/graffiti/put-it-on-alpha.webp",
+      "sha256": "0df196ff6384cafc2b131acf7b662ab85aa764e4d3f6a03dea66ee6386f04333"
+    },
+    "the-shit-is-real": {
+      "image": "assets/graffiti/the-shit-is-real-alpha.png",
+      "sha256": "4728e6c81dea4bb938c7aca3a0a86f384b8620549cbf6fbf2d9329f3975583d1"
+    },
+    "a-tribe-called-quest-electric-relaxation": {
+      "image": "assets/graffiti/a-tribe-called-quest-electric-relaxation-alpha.webp",
+      "sha256": "0b46c2a4a1da8683423f59567f675efa761800ce7f617cdd91db46f6091178d5"
+    },
+    "a-tribe-called-quest-check-the-rhime": {
+      "image": "assets/graffiti/a-tribe-called-quest-check-the-rhime-alpha.webp",
+      "sha256": "6bc6ca1352930cbe358600c648db2cc1a41ffa912f287a48fcd75134017c13f9"
+    },
+    "a-tribe-called-quest-award-tour": {
+      "image": "assets/graffiti/a-tribe-called-quest-award-tour-alpha.webp",
+      "sha256": "1fdd19d993f0d4bd68beacf1d7dacf83bc3c049651155e865aefaac992f0e8c1"
+    },
+    "a-tribe-called-quest-scenario": {
+      "image": "assets/graffiti/a-tribe-called-quest-scenario-alpha.webp",
+      "sha256": "785c161b6dbe7210ae38cda63672b635cafa151a7c2327a7b93487e860b40506"
+    },
+    "a-tribe-called-quest-bonita-applebum": {
+      "image": "assets/graffiti/a-tribe-called-quest-bonita-applebum-alpha.webp",
+      "sha256": "a9b0a7121553cfc7c43a7f348c72efb8a29d8521664ba112c75e427bc5040c3a"
+    },
+    "a-tribe-called-quest-jazz-we-ve-got": {
+      "image": "assets/graffiti/a-tribe-called-quest-jazz-we-ve-got-alpha.png",
+      "sha256": "f32dcb096e31a3bd00744d0f16183f8e88d3e43383e66284b1c08a6fb611acb4"
+    },
+    "pete-rock-c-l-smooth-they-reminisce-over-you-t-r-o-y": {
+      "image": "assets/graffiti/pete-rock-c-l-smooth-they-reminisce-over-you-t-r-o-y-alpha.png",
+      "sha256": "fd4e2478af9ac15e3f92dee0eb1bd5d6ff3c8f38967b316783b48660eefeec89"
+    },
+    "pete-rock-c-l-smooth-straighten-it-out": {
+      "image": "assets/graffiti/pete-rock-c-l-smooth-straighten-it-out-alpha.webp",
+      "sha256": "f9179ec767d8a9ee68211ad1b5c9ab41d95f8cf59fdbb60a46d0a0e02c140085"
+    },
+    "pete-rock-c-l-smooth-take-you-there": {
+      "image": "assets/graffiti/pete-rock-c-l-smooth-take-you-there-alpha.png",
+      "sha256": "ebc899364746d25f1df0770ad8c08208739a144272b909b109639fc03a9c78d0"
+    },
+    "pete-rock-c-l-smooth-i-get-physical": {
+      "image": "assets/graffiti/pete-rock-c-l-smooth-i-get-physical-alpha.webp",
+      "sha256": "5a8c07a27afe3356d7a06fac0fb24f9d63f510bec7edc6596641790a4354ad81"
+    },
+    "ini-fakin-jax": {
+      "image": "assets/graffiti/ini-fakin-jax-alpha.webp",
+      "sha256": "3889b75bbc2be413b54957c834dcac807e41e9d3f7052aa68b602f7ef14aac23"
+    },
+    "souls-of-mischief-that-s-when-ya-lost": {
+      "image": "assets/graffiti/souls-of-mischief-that-s-when-ya-lost-alpha.webp",
+      "sha256": "70e0b8275b9e7bfbbd5aff65ef1801c0bc4ab648e31a917a0067d7fefb9a8290"
+    },
+    "the-pharcyde-passin-me-by": {
+      "image": "assets/graffiti/the-pharcyde-passin-me-by-alpha.webp",
+      "sha256": "21f384dc77c14d293e8bda5b600095555a73795776573e2f195da8149a36d32a"
+    },
+    "the-pharcyde-drop": {
+      "image": "assets/graffiti/the-pharcyde-drop-alpha.png",
+      "sha256": "ec57a12aab0969399354cfd7f8d148ff245cc1b565b79629911d23d0a23c31da"
+    },
+    "the-beatnuts-reign-of-the-tec": {
+      "image": "assets/graffiti/the-beatnuts-reign-of-the-tec-alpha.webp",
+      "sha256": "5c1a56714ffbc1c1039aa09d63ea1b59f9e40fc5fa71fc95e22663aa0f081e92"
+    },
+    "the-beatnuts-get-funky": {
+      "image": "assets/graffiti/the-beatnuts-get-funky-alpha.webp",
+      "sha256": "1ab04a254a3be953c8734d5b4d97105d9ed3ac63ed08a5fc43d80e5ec0cb0b82"
+    },
+    "the-beatnuts-off-the-books": {
+      "image": "assets/graffiti/the-beatnuts-off-the-books-alpha.webp",
+      "sha256": "994a2ea9ac1e490dc82aa5596377fdf8bed7d1c2be42fdab4ba2f7cddb55ad48"
+    },
+    "lords-of-the-underground-chief-rocka": {
+      "image": "assets/graffiti/lords-of-the-underground-chief-rocka-alpha.webp",
+      "sha256": "3540c4c313e96fe7824b4e5fa5ae92c6a26eeb2da54fc8a6972c841de24e0b3d"
+    },
+    "lords-of-the-underground-funky-child": {
+      "image": "assets/graffiti/lords-of-the-underground-funky-child-alpha.webp",
+      "sha256": "31678d860f931eaf87e9c75f880f80e8131b9c8416f350c40c273170f6d9de51"
+    },
+    "gang-starr-dwyck": {
+      "image": "assets/graffiti/gang-starr-dwyck-alpha.webp",
+      "sha256": "bacff3eeb846843859c7c4bcf9e40950c21c886be784706defd4e06efa1223ea"
+    },
+    "gang-starr-take-it-personal": {
+      "image": "assets/graffiti/gang-starr-take-it-personal-alpha.webp",
+      "sha256": "7f39e1f09cc87f2a42d64bf91f2819d93d39149abd940a94fe0f870c81683a2f"
+    },
+    "gang-starr-code-of-the-streets": {
+      "image": "assets/graffiti/gang-starr-code-of-the-streets-alpha.webp",
+      "sha256": "60acb15a08fd331effa615a6644a4f6656a40981293dc1c724259cada153a206"
+    },
+    "gang-starr-above-the-clouds": {
+      "image": "assets/graffiti/gang-starr-above-the-clouds-alpha.webp",
+      "sha256": "70e41bd5b53e97cd1125b4707e8f9e455a65ae1a99677649730853db5a9c270b"
+    },
+    "gang-starr-full-clip": {
+      "image": "assets/graffiti/gang-starr-full-clip-alpha.webp",
+      "sha256": "f0a199ce13e108d6d5147273dfc0c525bf9e4de031d0fec94c8253aceac3c2e5"
+    },
+    "diamond-d-best-kept-secret": {
+      "image": "assets/graffiti/diamond-d-best-kept-secret-alpha.webp",
+      "sha256": "f3353b1887aa4ab295e5045278d201154f325d3a865384f2bfe9ed08c70698a3"
+    },
+    "diamond-d-sally-got-a-one-track-mind": {
+      "image": "assets/graffiti/diamond-d-sally-got-a-one-track-mind-alpha.webp",
+      "sha256": "9f834e3a00ba2913ef519e44493af892b7dff6c467681b6e19bdccbf096a8be4"
+    },
+    "lord-finesse-hip-2-da-game": {
+      "image": "assets/graffiti/lord-finesse-hip-2-da-game-alpha.webp",
+      "sha256": "bb3a29c793202f58e61e23c6d7f0ef395dbd390c64b90b3d16e5cdc68e63407e"
+    },
+    "lord-finesse-return-of-the-funky-man": {
+      "image": "assets/graffiti/lord-finesse-return-of-the-funky-man-alpha.webp",
+      "sha256": "3294ec0b50e1fcf89e35bfaaad74b75c5ca88ac0f16c4c223f35016dc1893622"
+    },
+    "showbiz-a-g-party-groove-instrumental": {
+      "image": "assets/graffiti/showbiz-a-g-party-groove-instrumental-alpha.webp",
+      "sha256": "387bd9fab68ba570f385ce26a343938b02295900951f6c2420447709c28534c4"
+    },
+    "showbiz-a-g-soul-clap": {
+      "image": "assets/graffiti/showbiz-a-g-soul-clap-alpha.webp",
+      "sha256": "49cd2cdbc59bd8823e5eb0d22750f414c0cec65e25b2b771d822f7e888623346"
+    },
+    "showbiz-a-g-next-level-nyte-time-mix": {
+      "image": "assets/graffiti/showbiz-a-g-next-level-nyte-time-mix-alpha.webp",
+      "sha256": "e444afc8e61c4a5d8cf0da0c51705d48bc452766f7b6689be9aafe3efbbd9d58"
+    },
+    "black-moon-who-got-da-props": {
+      "image": "assets/graffiti/black-moon-who-got-da-props-alpha.webp",
+      "sha256": "05d9500689f3ae8b8bec0c1e6a87cb8104f324ba747dde952b90d6ff99be9799"
+    },
+    "black-moon-i-got-cha-opin-remix": {
+      "image": "assets/graffiti/black-moon-i-got-cha-opin-remix-alpha.webp",
+      "sha256": "fc739f1ef438f8c6a206ed8f8ee78b88e59fddd9f872d3c49cd9fe3f7efd263a"
+    },
+    "jeru-the-damaja-come-clean": {
+      "image": "assets/graffiti/jeru-the-damaja-come-clean-alpha.webp",
+      "sha256": "4973a5c5ce7b2ffa0ceef084be7285feebb4a09b04cc18ef13860dac514c2c85"
+    },
+    "jeru-the-damaja-ya-playin-yaself": {
+      "image": "assets/graffiti/jeru-the-damaja-ya-playin-yaself-alpha.webp",
+      "sha256": "a124ebcbbd7bf5aeb73d27a1b2560cc22285cc639a57ada9bb94f35da3e053bd"
+    },
+    "group-home-livin-proof": {
+      "image": "assets/graffiti/group-home-livin-proof-alpha.webp",
+      "sha256": "03ecbb0f2e60abbe698d4fbff03080fd8cbf0cea57241b89a3ce60309f6de6eb"
+    },
+    "all-city-productions-unsolved-mysterme": {
+      "image": "assets/graffiti/all-city-productions-unsolved-mysterme-alpha.webp",
+      "sha256": "9b2b4aa38fb13c80226a5f0d0302e4885a9d0d6f163008e5383253b917104ef4"
+    },
+    "public-enemy-shut-em-down-pe-te-rock-mixx": {
+      "image": "assets/graffiti/public-enemy-shut-em-down-pe-te-rock-mixx-alpha.webp",
+      "sha256": "5a445c18e0b3a85b84a688807579c6bc04e3a6b9f459debcb379f7144d6a9ec8"
+    },
+    "public-enemy-don-t-believe-the-hype": {
+      "image": "assets/graffiti/public-enemy-don-t-believe-the-hype-alpha.webp",
+      "sha256": "061475c26d2730082eb23cb3053afdfea7355a9e7e2faddd0bd2f1392e80c07c"
+    },
+    "public-enemy-fight-the-power": {
+      "image": "assets/graffiti/public-enemy-fight-the-power-alpha.webp",
+      "sha256": "10c13c0f7f1ebd2ae540487e83c8a9e14d6c86371eebabb447b2575e5b40b9a6"
+    },
+    "public-enemy-911-is-a-joke": {
+      "image": "assets/graffiti/public-enemy-911-is-a-joke-alpha.webp",
+      "sha256": "82aaeaa0d6d49baa7fa09cda88f6989dcc41419d01a77c117bb916dbdeba633f"
+    },
+    "public-enemy-brothers-gonna-work-it-out": {
+      "image": "assets/graffiti/public-enemy-brothers-gonna-work-it-out-alpha.webp",
+      "sha256": "5db993e9a16bde86c6216ee60411029798e5fdcf8868eeecac5f48ac57c80a3d"
+    },
+    "public-enemy-can-t-truss-it": {
+      "image": "assets/graffiti/public-enemy-can-t-truss-it-alpha.webp",
+      "sha256": "9e8154a40681f49eb23af0918ca4129bcf29e5983a36833886378bfc9a185afd"
+    },
+    "public-enemy-welcome-to-the-terrordome": {
+      "image": "assets/graffiti/public-enemy-welcome-to-the-terrordome-alpha.webp",
+      "sha256": "a0841e36707cba2ff9bf93092d35085055225f787a9285460f622aa37f146a62"
+    },
+    "nas-the-world-is-yours": {
+      "image": "assets/graffiti/nas-the-world-is-yours-alpha.webp",
+      "sha256": "7bed1868910cb347b6baceaf9be6aa133a364b95ccdf043af49836c09f2bf535"
+    },
+    "nas-it-ain-t-hard-to-tell": {
+      "image": "assets/graffiti/nas-it-ain-t-hard-to-tell-alpha.webp",
+      "sha256": "3a4a9a277f914d3bbca822d6212f7d776c43719106e26b7d59cf86cbadf91281"
+    },
+    "nas-n-y-state-of-mind": {
+      "image": "assets/graffiti/nas-n-y-state-of-mind-alpha.webp",
+      "sha256": "23a750ba7ac25b11bca59569e69c6c8c91b34b00c0b4f203ffa7770cd0597f99"
+    },
+    "nas-represent": {
+      "image": "assets/graffiti/nas-represent-alpha.webp",
+      "sha256": "b81a248fb794a4b7050f8df11c6f98bdfe248d554b34fd007c1fb2d9b12d6875"
+    },
+    "large-professor-i-juswanna-chill": {
+      "image": "assets/graffiti/large-professor-i-juswanna-chill-alpha.webp",
+      "sha256": "58c3cfd2e0782ab66649063c0f3893ba8a5a18cb6196eeabdf5a393e4dc02b77"
+    },
+    "main-source-looking-at-the-front-door": {
+      "image": "assets/graffiti/main-source-looking-at-the-front-door-alpha.webp",
+      "sha256": "3a636aa46799c659d250c1d2457fb926ca84589ce67c412f0685bd5c32d4fd1d"
+    },
+    "main-source-just-hangin-out": {
+      "image": "assets/graffiti/main-source-just-hangin-out-alpha.webp",
+      "sha256": "95818836fcf52cf058673d8e8d633eb1c2ff6fe6d2276ed57ebc107af6f92767"
+    },
+    "main-source-live-at-the-barbeque": {
+      "image": "assets/graffiti/main-source-live-at-the-barbeque-alpha.webp",
+      "sha256": "fb9d9d17856fc276abec5e43284a84cbab8c64300e0d62188815f2c9dd324f5e"
+    },
+    "the-notorious-b-i-g-juicy": {
+      "image": "assets/graffiti/the-notorious-b-i-g-juicy-alpha.webp",
+      "sha256": "a3b09ccbb577ed78b3ea403f27133c884304a839e9780cda07b1a3283befe160"
+    },
+    "the-notorious-b-i-g-unbelievable": {
+      "image": "assets/graffiti/the-notorious-b-i-g-unbelievable-alpha.webp",
+      "sha256": "7b537cecde9f5d842dfe68fcc4f8fe5b9888a51512e9b323561e38de4bec7940"
+    },
+    "the-notorious-b-i-g-big-poppa": {
+      "image": "assets/graffiti/the-notorious-b-i-g-big-poppa-alpha.webp",
+      "sha256": "0c429439015d1fcd85e8cb3cf9265906459f1a82978632a19f731098134c3bcf"
+    },
+    "craig-mack-flava-in-ya-ear": {
+      "image": "assets/graffiti/craig-mack-flava-in-ya-ear-alpha.webp",
+      "sha256": "54ff9af619cc229603a4bb239a7ec1ee08cb06f948e76ef88f1732236ea28e3c"
+    },
+    "mobb-deep-shook-ones-pt-ii": {
+      "image": "assets/graffiti/mobb-deep-shook-ones-pt-ii-alpha.webp",
+      "sha256": "dc5b42c746a8eed19fe4f5593ebc9fab73ff8060ef70b46fbbe73ff109fb98d3"
+    },
+    "mobb-deep-survival-of-the-fittest": {
+      "image": "assets/graffiti/mobb-deep-survival-of-the-fittest-alpha.webp",
+      "sha256": "cf1aec140f61e4306d87a271886dfbb003875d141656c0f87ac2873406117bd1"
+    },
+    "wu-tang-clan-c-r-e-a-m": {
+      "image": "assets/graffiti/wu-tang-clan-c-r-e-a-m-alpha.webp",
+      "sha256": "1d30991ced272fed77d5ddeb89ec182f3e7e49f21875792059404cbe7c6f1e3c"
+    },
+    "wu-tang-clan-protect-ya-neck": {
+      "image": "assets/graffiti/wu-tang-clan-protect-ya-neck-alpha.webp",
+      "sha256": "30649cbe2340629282efe23c6e57dbcbc6c539b2c942b386f7b440045612fe66"
+    },
+    "gza-liquid-swords": {
+      "image": "assets/graffiti/gza-liquid-swords-alpha.webp",
+      "sha256": "caa9c5c9b3ef6399b6f459452bed09653d1e5b614336cb122496bf40cc9cd88c"
+    },
+    "raekwon-ice-cream": {
+      "image": "assets/graffiti/raekwon-ice-cream-alpha.webp",
+      "sha256": "26d36fead2fd9430b24cbc88841a2c540e75a87d01f4a1a920c954cda6dd6f50"
+    },
+    "ol-dirty-bastard-shimmy-shimmy-ya": {
+      "image": "assets/graffiti/ol-dirty-bastard-shimmy-shimmy-ya-alpha.webp",
+      "sha256": "ffdb80c7220a3ac3cd33a99f1cb15ade8d5200681edcb7489945a7e0b273406f"
+    },
+    "de-la-soul-a-roller-skating-jam-named-saturdays": {
+      "image": "assets/graffiti/de-la-soul-a-roller-skating-jam-named-saturdays-alpha.webp",
+      "sha256": "7dcc5d8456f912bb8ed41b3d107700fd69d292efe60e3d0d54ee03d436797e2c"
+    },
+    "de-la-soul-stakes-is-high": {
+      "image": "assets/graffiti/de-la-soul-stakes-is-high-alpha.webp",
+      "sha256": "30fcc3dfcf5a665cfec0f0faf4d0daff3f60774ddc0519e68a5afe60a2aa2fe9"
+    },
+    "de-la-soul-breakadawn": {
+      "image": "assets/graffiti/de-la-soul-breakadawn-alpha.webp",
+      "sha256": "5f0670588d434c62945f4fa3ce22c50557221ebecca6ae62ec3ad6757f97ec01"
+    },
+    "black-sheep-the-choice-is-yours-revisited": {
+      "image": "assets/graffiti/black-sheep-the-choice-is-yours-revisited-alpha.webp",
+      "sha256": "e1767ef9dd3e4c6403c6a3a9f43f62cf5caa9141620d3e625d50e68ddfac4970"
+    },
+    "brand-nubian-slow-down": {
+      "image": "assets/graffiti/brand-nubian-slow-down-alpha.webp",
+      "sha256": "c1fe55afaa510603a119641b45b339c23bbcd0ae26ed6775675c1c1746a9e0b7"
+    },
+    "brand-nubian-all-for-one": {
+      "image": "assets/graffiti/brand-nubian-all-for-one-alpha.webp",
+      "sha256": "43aadcace332a87e470aaacf663d39276a5bc96b7663cdbb08e7f45bebb7a791"
+    },
+    "grand-puba-i-like-it-i-wanna-be-where-you-are": {
+      "image": "assets/graffiti/grand-puba-i-like-it-i-wanna-be-where-you-are-alpha.webp",
+      "sha256": "2b3843926725c11f027c21a75d2c56a9299d2707881487773279d35770f51e4e"
+    },
+    "digable-planets-rebirth-of-slick-cool-like-dat": {
+      "image": "assets/graffiti/digable-planets-rebirth-of-slick-cool-like-dat-alpha.webp",
+      "sha256": "5f59fafa65a058dd4d448123dd89422343b4816ff3e30da7a81e6c45f0dde59c"
+    },
+    "digable-planets-9th-wonder-blackitolism": {
+      "image": "assets/graffiti/digable-planets-9th-wonder-blackitolism-alpha.webp",
+      "sha256": "b335bf0a22a6d18bf1a2eb3dc5cce186a3ca107ee767d209e9832d86374f8391"
+    },
+    "us3-cantaloop-flip-fantasia": {
+      "image": "assets/graffiti/us3-cantaloop-flip-fantasia-alpha.webp",
+      "sha256": "0bd53eb28b57504a8bd3d3e84fd29762580aff750785eabebed3e67b2cf82d8d"
+    },
+    "the-roots-proceed": {
+      "image": "assets/graffiti/the-roots-proceed-alpha.webp",
+      "sha256": "0bcc53b89639c3562f2cc4600798a41ba91a1f96172f574065c35810eb34464c"
+    },
+    "the-roots-what-they-do": {
+      "image": "assets/graffiti/the-roots-what-they-do-alpha.webp",
+      "sha256": "9e33cd3585cc1b44c6cd614ca539cf17274e0c1c7fbbd9d109b020eaca42e8f6"
+    },
+    "common-i-used-to-love-h-e-r": {
+      "image": "assets/graffiti/common-i-used-to-love-h-e-r-alpha.webp",
+      "sha256": "251b11fa81e7e918b00228de146b96e7f1e31d6b0e6b0b1ba33d4d181c1ba107"
+    },
+    "common-the-light": {
+      "image": "assets/graffiti/common-the-light-alpha.webp",
+      "sha256": "d7dd8962573e342803ffe5d7f4835ed9bc6b50f3f440f30c97f0bc148c4ba66d"
+    },
+    "mos-def-ms-fat-booty": {
+      "image": "assets/graffiti/mos-def-ms-fat-booty-alpha.webp",
+      "sha256": "54c87d89c4b4a522596efe1f5f9ea87b24a539bcade2c6be9f223971cdd756ea"
+    },
+    "black-star-definition": {
+      "image": "assets/graffiti/black-star-definition-alpha.webp",
+      "sha256": "47f691a6fe65bd87421144071b9d9ba5f685f7f8bd3ce2e14ac991e3bff4cb30"
+    },
+    "pharoahe-monch-simon-says": {
+      "image": "assets/graffiti/pharoahe-monch-simon-says-alpha.webp",
+      "sha256": "e8a0d1a8f060702595a9b3965aacd5cfc4c9b18fea93ae8a0871a9b8a99e1c7b"
+    },
+    "krs-one-mc-s-act-like-they-don-t-know": {
+      "image": "assets/graffiti/krs-one-mc-s-act-like-they-don-t-know-alpha.webp",
+      "sha256": "d72faf5249fdf4f15239ace7e4ec5d7d84b06d2e4a0170202a0da641c89bc9d4"
+    },
+    "krs-one-sound-of-da-police": {
+      "image": "assets/graffiti/krs-one-sound-of-da-police-alpha.webp",
+      "sha256": "df5e3bd1ebfb8a7a52e2e9cc4602897ee0124c5cc64ef78db25d901ba4f040fe"
+    },
+    "eric-b-rakim-don-t-sweat-the-technique": {
+      "image": "assets/graffiti/eric-b-rakim-don-t-sweat-the-technique-alpha.webp",
+      "sha256": "8d8dc288b78bca59a74c6fe098174ca6631e4bc132c08c8ff68b03a3f726e652"
+    },
+    "epmd-so-wat-cha-sayin": {
+      "image": "assets/graffiti/epmd-so-wat-cha-sayin-alpha.webp",
+      "sha256": "eb61079735f0d181f78ec7e4db02a38b21eb082a1ab84f55a1c2c506d81d3c54"
+    },
+    "das-efx-they-want-efx": {
+      "image": "assets/graffiti/das-efx-they-want-efx-alpha.webp",
+      "sha256": "c064d28502116b8ee1e869c6a7a7817e03aac4ca2d17d519589f5c48de47d40a"
+    },
+    "redman-tonight-s-da-night": {
+      "image": "assets/graffiti/redman-tonight-s-da-night-alpha.webp",
+      "sha256": "7beaefc59fad9ec79051b479a790229f7376785b7da6ee581c381ba6e89a6ef4"
+    },
+    "naughty-by-nature-hip-hop-hooray": {
+      "image": "assets/graffiti/naughty-by-nature-hip-hop-hooray-alpha.webp",
+      "sha256": "39228b71d23b443c5d76a13ded3503c9e97876f4774a495fcc39699e6b99efe4"
+    },
+    "a-tribe-called-quest-oh-my-god": {
+      "image": "assets/graffiti/a-tribe-called-quest-oh-my-god-alpha.webp",
+      "sha256": "409e1f5fe8fde712e0ba81a7e125f48ecb702ae30e2a15da6280fe9113326824"
+    },
+    "a-tribe-called-quest-steve-biko-stir-it-up": {
+      "image": "assets/graffiti/a-tribe-called-quest-steve-biko-stir-it-up-alpha.webp",
+      "sha256": "89580d39df9a09aa6a7fedeec743fdd2e227df12ffb21746487837a0f4b533c7"
+    },
+    "a-tribe-called-quest-we-can-get-down": {
+      "image": "assets/graffiti/a-tribe-called-quest-we-can-get-down-alpha.webp",
+      "sha256": "5b95b55b71d5769eeda081690e3ea2e703c1ad5d06d290289c251a5bf36814b5"
+    },
+    "a-tribe-called-quest-find-a-way": {
+      "image": "assets/graffiti/a-tribe-called-quest-find-a-way-alpha.webp",
+      "sha256": "ca97d6df5b2c209070c9ab15fa9f76dd51f6ab03e9b9ebb675e816af91e72663"
+    },
+    "de-la-soul-ego-trippin-part-two": {
+      "image": "assets/graffiti/de-la-soul-ego-trippin-part-two-alpha.webp",
+      "sha256": "840a59bf7938636edc03008fd8b58f38645ed62a881108ab3a40b9c17cdec5a0"
+    },
+    "de-la-soul-ring-ring-ring-ha-ha-hey": {
+      "image": "assets/graffiti/de-la-soul-ring-ring-ring-ha-ha-hey-alpha.webp",
+      "sha256": "1cc37b6850789f8d2ee451c695406f2afa70079ac82a8de80f16d80e514b0941"
+    },
+    "de-la-soul-buddy": {
+      "image": "assets/graffiti/de-la-soul-buddy-alpha.webp",
+      "sha256": "85fed4a718b696a66ec4c916f4a3964ac041df15206be4f1c5e35bf6a62af63f"
+    },
+    "jungle-brothers-straight-out-the-jungle": {
+      "image": "assets/graffiti/jungle-brothers-straight-out-the-jungle-alpha.webp",
+      "sha256": "1495eefba068dd710f69e72baedbaffd89d726e6cb387edec00ebab2ba621d9a"
+    },
+    "jungle-brothers-black-is-black": {
+      "image": "assets/graffiti/jungle-brothers-black-is-black-alpha.webp",
+      "sha256": "fbfe5adc12f74eccd0b2d870a7389d4426e66398e0877f9e6dd528334be41ce9"
+    },
+    "jungle-brothers-doin-our-own-dang": {
+      "image": "assets/graffiti/jungle-brothers-doin-our-own-dang-alpha.webp",
+      "sha256": "54dd69ee215f8ea337f9331f13a9d22d05a056ed34f60f44475a9b56337e3ffd"
+    },
+    "queen-latifah-u-n-i-t-y": {
+      "image": "assets/graffiti/queen-latifah-u-n-i-t-y-alpha.webp",
+      "sha256": "0101e852868aa434b50671064a131d1e986990970ee810bb1435977e88af9261"
+    },
+    "monie-love-it-s-a-shame-my-sister": {
+      "image": "assets/graffiti/monie-love-it-s-a-shame-my-sister-alpha.webp",
+      "sha256": "23f72d13c06cf8a2019e8af0cf278e2102f57fa5ac625d6e1a4728741dc9d709"
+    },
+    "mc-lyte-poor-georgie": {
+      "image": "assets/graffiti/mc-lyte-poor-georgie-alpha.webp",
+      "sha256": "9dea1d5047f958594d72078d20b0be4ed639b320e29db5ce0b6301364d8c2a03"
+    },
+    "ll-cool-j-mama-said-knock-you-out": {
+      "image": "assets/graffiti/ll-cool-j-mama-said-knock-you-out-alpha.webp",
+      "sha256": "a590edc44a622d45e93e341087cacb496892156a1689b3301c2a837765d0a1d9"
+    },
+    "ll-cool-j-around-the-way-girl": {
+      "image": "assets/graffiti/ll-cool-j-around-the-way-girl-alpha.webp",
+      "sha256": "fbaab3f9458fc573969fc112d906d56e36a427db7359d890184b223886a2e3f0"
+    },
+    "ll-cool-j-doin-it": {
+      "image": "assets/graffiti/ll-cool-j-doin-it-alpha.webp",
+      "sha256": "dd3c5e0cd1638438ed7ec33ac71baae7d4ff414c6420c10aa9c017c5c663c814"
+    },
+    "biz-markie-just-a-friend": {
+      "image": "assets/graffiti/biz-markie-just-a-friend-alpha.webp",
+      "sha256": "62e2819f4e4f58e98294f616ea68e9a2eef57d989f9595d679c19be29c13632e"
+    },
+    "slick-rick-children-s-story": {
+      "image": "assets/graffiti/slick-rick-children-s-story-alpha.webp",
+      "sha256": "32700fda335f88e187cc354b582f45c9c8b816047fc7acdaacdc58699e178ae8"
+    },
+    "rakim-when-i-b-on-tha-mic": {
+      "image": "assets/graffiti/rakim-when-i-b-on-tha-mic-alpha.webp",
+      "sha256": "fb952794cbc464e5da9c6a7f5b7249c0feb4729ce9db76786facda758f2b2437"
+    },
+    "kool-g-rap-dj-polo-ill-street-blues": {
+      "image": "assets/graffiti/kool-g-rap-dj-polo-ill-street-blues-alpha.webp",
+      "sha256": "2ea61c231c48da8b773f9f7b390d9cd0cc902a63dd1abb39d45a69e04608f166"
+    },
+    "big-daddy-kane-ain-t-no-half-steppin": {
+      "image": "assets/graffiti/big-daddy-kane-ain-t-no-half-steppin-alpha.webp",
+      "sha256": "aa49a4d36ba92546fe1866c306f3606d3a82c2fd3e1646c32904375ef16345bb"
+    },
+    "epmd-you-gots-to-chill": {
+      "image": "assets/graffiti/epmd-you-gots-to-chill-alpha.webp",
+      "sha256": "abe2f0ff6165678352cf05fad3c98ceac661a192e8656b15e4a71cc8a5bbd723"
+    },
+    "epmd-crossover": {
+      "image": "assets/graffiti/epmd-crossover-alpha.webp",
+      "sha256": "94bd536846edb80062fe1f13134e40be42d04a2f65745809382fe7c3097f1f48"
+    },
+    "keith-murray-the-most-beautifullest-thing-in-this-world": {
+      "image": "assets/graffiti/keith-murray-the-most-beautifullest-thing-in-this-world-alpha.webp",
+      "sha256": "d5e97d0b039b3e7e1ca606d402f0f1e2af02f1f6f64c11da3e7aa81149db6132"
+    },
+    "redman-da-goodness": {
+      "image": "assets/graffiti/redman-da-goodness-alpha.webp",
+      "sha256": "42c73ccc7f848f6b31de41cff5d9fdbf6e7666e391e8a9871a7766ae586f98dc"
+    },
+    "smif-n-wessun-sound-bwoy-bureill": {
+      "image": "assets/graffiti/smif-n-wessun-sound-bwoy-bureill-alpha.webp",
+      "sha256": "bb83c82d4e68a5bee5dca0cc3d2bf3a8f0be6574f33ca7d11a5d41f851bc6ebc"
+    },
+    "heltah-skeltah-leflaur-leflah-eshkoshka": {
+      "image": "assets/graffiti/heltah-skeltah-leflaur-leflah-eshkoshka-alpha.webp",
+      "sha256": "f655089bb8cf25d3cf86cb1c8505c6c6421cf5cf49d9f51dc7eefb9bace1010c"
+    },
+    "o-g-c-no-fear": {
+      "image": "assets/graffiti/o-g-c-no-fear-alpha.webp",
+      "sha256": "2f34e6834355e26b0485bfbe94679f3d46382046a53f86451dbe7e07cca602b9"
+    },
+    "artifacts-wrong-side-of-da-tracks": {
+      "image": "assets/graffiti/artifacts-wrong-side-of-da-tracks-alpha.webp",
+      "sha256": "54b0dbf50cca9e471224221c5d63b719f26264aeec1f66b80a373ec497076eb0"
+    },
+    "artifacts-c-mon-wit-da-git-down": {
+      "image": "assets/graffiti/artifacts-c-mon-wit-da-git-down-alpha.webp",
+      "sha256": "c76cc38461263ed0bc6f2936bfde871c88a308ba0b4353c691b38a4aa5f0da92"
+    },
+    "channel-live-mad-izm": {
+      "image": "assets/graffiti/channel-live-mad-izm-alpha.webp",
+      "sha256": "31d548f5e2269c9d2a61a2197be1bd7eeb4b6a64ae10b2d093313d63373f03e9"
+    },
+    "nine-whutcha-want": {
+      "image": "assets/graffiti/nine-whutcha-want-alpha.webp",
+      "sha256": "59fbc74d53bf28ec629fa8b0ba71636707ba8efa2627b331ddb571577fe731aa"
+    },
+    "mic-geronimo-shit-s-real": {
+      "image": "assets/graffiti/mic-geronimo-shit-s-real-alpha.webp",
+      "sha256": "c2c14259b422ec2834d879527bd63fe665bf4660a2a54f4538f0ee0410256f96"
+    },
+    "royal-flush-iced-down-medallions": {
+      "image": "assets/graffiti/royal-flush-iced-down-medallions-alpha.webp",
+      "sha256": "051d2d96aad726d438eec5247e49fa7e85eb4f01dcb493bb87b3273f042dd9f6"
+    },
+    "camp-lo-luchini-aka-this-is-it": {
+      "image": "assets/graffiti/camp-lo-luchini-aka-this-is-it-alpha.webp",
+      "sha256": "e712d13b0ea80750e3bfd6cfb4c2630d1e73bf3b8be63fe82c6ea2da25b911d4"
+    },
+    "camp-lo-coolie-high": {
+      "image": "assets/graffiti/camp-lo-coolie-high-alpha.webp",
+      "sha256": "49a3f27abb1c725a91883528590a154253fd011e3d1f8a9b9759cad4ac425e39"
+    },
+    "fugees-fu-gee-la": {
+      "image": "assets/graffiti/fugees-fu-gee-la-alpha.webp",
+      "sha256": "f198a8f5658ffb1309bb3cdfe5d7cf23ca43a6f2dfeb61ecbe5cb4746312a5ec"
+    },
+    "fugees-ready-or-not": {
+      "image": "assets/graffiti/fugees-ready-or-not-alpha.webp",
+      "sha256": "3cbdec5b1c5f1c8ec67578c0601f1a4ffa77b4ae3d6aabe8dc47f12a273bc225"
+    },
+    "lauryn-hill-doo-wop-that-thing": {
+      "image": "assets/graffiti/lauryn-hill-doo-wop-that-thing-alpha.webp",
+      "sha256": "cb6f420bbe8750ce275289ea47c1020b538a42c4e267107557a1366344a0452b"
+    },
+    "jurassic-5-concrete-schoolyard": {
+      "image": "assets/graffiti/jurassic-5-concrete-schoolyard-alpha.webp",
+      "sha256": "6ec03987971d056035a9a8fa5824e29b6efea1516e558fbc87194555520e2769"
+    },
+    "dilated-peoples-worst-comes-to-worst": {
+      "image": "assets/graffiti/dilated-peoples-worst-comes-to-worst-alpha.webp",
+      "sha256": "c8a946f138af4d84fb91926abf1c63b42cf573a440f43f64b234fc670d7d7f46"
+    },
+    "dj-shadow-organ-donor": {
+      "image": "assets/graffiti/dj-shadow-organ-donor-alpha.webp",
+      "sha256": "1cab539a90e0a8cdb51132ca1003a1e17fa09f3da1260f374328bd25ba3ee961"
+    },
+    "dj-shadow-midnight-in-a-perfect-world": {
+      "image": "assets/graffiti/dj-shadow-midnight-in-a-perfect-world-alpha.webp",
+      "sha256": "74d9bb10dd89264bfc81a1f1f10a95ebf6f117fd1b79fda94c21bd46dbf01c4c"
+    },
+    "dj-krush-kemuri": {
+      "image": "assets/graffiti/dj-krush-kemuri-alpha.webp",
+      "sha256": "db74b27557696cc549dfe8364bea6b309200ca0aeaa2ef0963280410a282a284"
+    },
+    "nujabes-feather": {
+      "image": "assets/graffiti/nujabes-feather-alpha.webp",
+      "sha256": "b1d2c350cbab6508a1c509a05b938421180b868ec5d91146b9331a09c95aee55"
+    },
+    "nujabes-luv-sic-part-3": {
+      "image": "assets/graffiti/nujabes-luv-sic-part-3-alpha.webp",
+      "sha256": "1d32dbb8fbdfb2091c2ad4217ee013e7a05736c26ab5f4880ec446b4e1daa925"
+    },
+    "j-dilla-so-far-to-go": {
+      "image": "assets/graffiti/j-dilla-so-far-to-go-alpha.webp",
+      "sha256": "7df6ec93c93c29a58d8bda3f4b026170d80fa6d9971956e0e5c1a5017732ca71"
+    },
+    "slum-village-fall-in-love": {
+      "image": "assets/graffiti/slum-village-fall-in-love-alpha.webp",
+      "sha256": "8025aa16253700d2f61846bc97595619ba0b70e9ef8e7831c4e454b4e6fe7950"
+    },
+    "the-roots-you-got-me": {
+      "image": "assets/graffiti/the-roots-you-got-me-alpha.webp",
+      "sha256": "28333b932244bcb05d344d455967990e3430d2dfc2fe2f45be8351356f82d961"
+    },
+    "o-c-born-2-live": {
+      "image": "assets/graffiti/o-c-born-2-live-alpha.webp",
+      "sha256": "a4fbc9cdafa98b9664e6fd250a78ca0ef468a3573195fdb94b9efd56096aff20"
+    },
+    "krs-one-step-into-a-world": {
+      "image": "assets/graffiti/krs-one-step-into-a-world-alpha.webp",
+      "sha256": "b6d91708bb464d90b439a06568c1f4664857e34859482a4edb89b19d83b9d328"
+    },
+    "beastie-boys-shadrach": {
+      "image": "assets/graffiti/beastie-boys-shadrach-alpha.webp",
+      "sha256": "37a1a9f1624d6d3dcdb85cca3e7e839abb70223341385b6d87ea6c5b290e34e0"
+    },
+    "beastie-boys-jimmy-james": {
+      "image": "assets/graffiti/beastie-boys-jimmy-james-alpha.webp",
+      "sha256": "90258ef77874004e0d99d85f483602e27516698cd09787e8bb15b0a8ba1996fa"
+    },
+    "beastie-boys-shake-your-rump": {
+      "image": "assets/graffiti/beastie-boys-shake-your-rump-alpha.webp",
+      "sha256": "110f9aac32b18cce0be22b3174b9670eb19fef7c7910171c9c877aad9070f48c"
+    },
+    "beastie-boys-root-down": {
+      "image": "assets/graffiti/beastie-boys-root-down-alpha.webp",
+      "sha256": "d5972e90a60b08eab0a2096a4c9b3a0307c582a64fdf15caa6c0e7afeeeb95fd"
+    },
+    "beastie-boys-pass-the-mic": {
+      "image": "assets/graffiti/beastie-boys-pass-the-mic-alpha.webp",
+      "sha256": "0abef212c561e8afe8d387c51a1e8c4555e982da32b83ac6dea8f74ab2b243da"
+    },
+    "beastie-boys-ch-check-it-out": {
+      "image": "assets/graffiti/beastie-boys-ch-check-it-out-alpha.webp",
+      "sha256": "a25877aedc5c7c9e504ea97a3e01617c297ee6952c91157264406270ae49f460"
+    },
+    "beastie-boys-negotiation-limerick-file-41-small-stars-remix": {
+      "image": "assets/graffiti/beastie-boys-negotiation-limerick-file-41-small-stars-remix-alpha.webp",
+      "sha256": "426de3c88c1b232b6986bbda3b17f87c5d6a64b962212b7f07b449b3802cd471"
+    },
+    "beastie-boys-brass-monkey": {
+      "image": "assets/graffiti/beastie-boys-brass-monkey-alpha.webp",
+      "sha256": "381f054fe43d6f8486e1470fecca875e50f6b54c67b30792acdff8e5502bbe5d"
+    },
+    "beastie-boys-paul-revere": {
+      "image": "assets/graffiti/beastie-boys-paul-revere-alpha.webp",
+      "sha256": "f1825d9679ba5962f74e17e34e1e69a3ae123adc638b7da2e07b92abfd74e2e0"
+    },
+    "black-sheep-splash": {
+      "image": "assets/graffiti/black-sheep-splash-alpha.webp",
+      "sha256": "d7d911d01f83422d9f83594411237793b9e41fc786a63aab92e69cf36ac53450"
+    },
+    "black-sheep-flavor-of-the-month": {
+      "image": "assets/graffiti/black-sheep-flavor-of-the-month-alpha.webp",
+      "sha256": "3c298c3bddbe6657e7bf7732f1f0de7ece3c495bebbf2e02f7b90eb371c1b432"
+    },
+    "black-sheep-similak-child": {
+      "image": "assets/graffiti/black-sheep-similak-child-alpha.webp",
+      "sha256": "1c3a4ff156f3419324e9d914db6a052917f46b2a785cb7ed0d68142f5a8c6f56"
+    },
+    "black-sheep-strobelite-honey-no-we-didnt-mix": {
+      "image": "assets/graffiti/black-sheep-strobelite-honey-no-we-didnt-mix-alpha.webp",
+      "sha256": "7c1c0c30751eabfe6bf4200df9de19de5fd79607e245c0adcc5ebb69f2d41c81"
+    },
+    "black-sheep-without-a-doubt": {
+      "image": "assets/graffiti/black-sheep-without-a-doubt-alpha.webp",
+      "sha256": "4ad49fe75d2eb7ad34b81a8e4c40d02ac33b63f66b93c3e6081ab2973bf404d5"
+    },
+    "black-sheep-black-with-nv": {
+      "image": "assets/graffiti/black-sheep-black-with-nv-alpha.webp",
+      "sha256": "8d8907e41a9767bb96b9730f4e07e6bfc46f9dea755385240a90c80e5ad1d538"
+    },
+    "main-source-fakin-the-funk": {
+      "image": "assets/graffiti/main-source-fakin-the-funk-alpha.webp",
+      "sha256": "e27038e04782d3da9a499f3a36ffea84a6ff0752e5416eae6f6a2d45c089655d"
+    },
+    "main-source-he-got-so-much-soul": {
+      "image": "assets/graffiti/main-source-he-got-so-much-soul-alpha.webp",
+      "sha256": "e76ef57ef7019e5d5f69fccad932b5022f83cfdbaf384e7d78807929484ae3f3"
+    },
+    "main-source-hellavision": {
+      "image": "assets/graffiti/main-source-hellavision-alpha.webp",
+      "sha256": "17622723b94f820c1be9f58a719d7cd50e8c7fd94f4f0995e3c3f9cb4f04e51f"
+    },
+    "dangelo-dreamin-eyes-def-squad-remix": {
+      "image": "assets/graffiti/dangelo-dreamin-eyes-def-squad-remix-alpha.webp",
+      "sha256": "8859ece34ab56900181dc7b40b7d562958b894506643f465acd8b5e70807d702"
+    },
+    "erick-sermon-as-the": {
+      "image": "assets/graffiti/erick-sermon-as-the-alpha.webp",
+      "sha256": "07f56e09c5196bcf12062112c8693923db7d461979ae93f6fab2e384d5c3a2da"
+    },
+    "erick-sermon-its-that-hit": {
+      "image": "assets/graffiti/erick-sermon-its-that-hit-alpha.webp",
+      "sha256": "0a2b32624f1f287666c76913994056f77bcc625e3a47087eec07b22d7905da9e"
+    },
+    "erick-sermon-up-jump-the-boogie": {
+      "image": "assets/graffiti/erick-sermon-up-jump-the-boogie-alpha.webp",
+      "sha256": "25e801d2911dbe5d53973aeedb122592707a084858fa581e8bab4fd27883fbe8"
+    },
+    "redman-funkorama": {
+      "image": "assets/graffiti/redman-funkorama-alpha.webp",
+      "sha256": "237b733354f6707f769fa7bc829ec631c113b613120f6aad038da24a5d855dbd"
+    },
+    "erick-sermon-lookaway-remix": {
+      "image": "assets/graffiti/erick-sermon-lookaway-remix-alpha.webp",
+      "sha256": "af6bd02982ddba2de6fdae4caaeeee0d03bbcf3bb5617cb8549cfdf9bf8e5f4b"
+    },
+    "cypress-hill-throw-your-hands-in-the-air": {
+      "image": "assets/graffiti/cypress-hill-throw-your-hands-in-the-air-alpha.webp",
+      "sha256": "2c4dba948b72f4f42b9dd1cd7e976c8d5aed0d3835f7a7bf66b97898c6ca75aa"
+    },
+    "epmd-jane-ii": {
+      "image": "assets/graffiti/epmd-jane-ii-alpha.webp",
+      "sha256": "fb003f444caf404bf9698d5a750afe66c6f10b5847bf263408c2c6c2ad7717c0"
+    },
+    "method-man-redman-maaad-crew": {
+      "image": "assets/graffiti/method-man-redman-maaad-crew-alpha.webp",
+      "sha256": "da0b7f9d6e18fb640a4c9e6e05339a828e23c873e1f22d6090fda6766847baaf"
+    },
+    "erick-sermon-maintain": {
+      "image": "assets/graffiti/erick-sermon-maintain-alpha.webp",
+      "sha256": "9c0a20ce5407e7623e51dd5bbc0b6256d1b7bbc888187e1fd90890629956b51a"
+    },
+    "erick-sermon-open-fire": {
+      "image": "assets/graffiti/erick-sermon-open-fire-alpha.webp",
+      "sha256": "7791b30167d0740f50c205b32689821f912e9e16131a4899888db6c35c72042d"
+    },
+    "erick-sermon-lil-crazy": {
+      "image": "assets/graffiti/erick-sermon-lil-crazy-alpha.webp",
+      "sha256": "baf6f10232a15841916a07340f9354c6acccaaf34f58069d22c812fae339ea1b"
+    },
+    "erick-sermon-on-the-regular": {
+      "image": "assets/graffiti/erick-sermon-on-the-regular-alpha.webp",
+      "sha256": "b3100ba22a3c8544f7690ff614cfbcdae8c29a97af2a068e8625318e5ecb48d2"
+    },
+    "erick-sermon-set-it-off": {
+      "image": "assets/graffiti/erick-sermon-set-it-off-alpha.webp",
+      "sha256": "15c777705aea15fb23d8e0d377fa79bae0e6fba30b01dbb3d668a1eebf659e39"
+    },
+    "keith-murray-radio": {
+      "image": "assets/graffiti/keith-murray-radio-alpha.webp",
+      "sha256": "4989de216ff9bc7515cfa1c931c167777225dc90dad0e30e17806f86974f17ab"
+    },
+    "ll-cool-j-hey-lover-street-mix": {
+      "image": "assets/graffiti/ll-cool-j-hey-lover-street-mix-alpha.webp",
+      "sha256": "7ded85be01ae01772d45412af300cd121af25a862ec4565bf9e5bda8899d91bc"
+    },
+    "erick-sermon-dip-dip-di-you-remix-me": {
+      "image": "assets/graffiti/erick-sermon-dip-dip-di-you-remix-me-alpha.webp",
+      "sha256": "9e9fcb872972bd4e943eca68b5efd0ee7efa559a78f386de6f4b6e99b2be05a4"
+    },
+    "erick-sermon-stay-real-remix": {
+      "image": "assets/graffiti/erick-sermon-stay-real-remix-alpha.webp",
+      "sha256": "f4f8e5c9e53c692fb369d9d2a9512b1520a0adc4256940188783bb0403d6f191"
+    },
+    "epmd-richter-scale": {
+      "image": "assets/graffiti/epmd-richter-scale-alpha.webp",
+      "sha256": "3334250b5a57e0dbf5bda2f4137cb10b6b002d21549b60284458d32bd86b531e"
+    },
+    "erick-sermon-stay-real-pt-2": {
+      "image": "assets/graffiti/erick-sermon-stay-real-pt-2-alpha.webp",
+      "sha256": "a1e2a8e373c662e1a09a1f836f43880d03a69838d2e47991453aa8f07318cc1f"
+    },
+    "epmd-youre-a-customer": {
+      "image": "assets/graffiti/epmd-youre-a-customer-alpha.webp",
+      "sha256": "689451eebde6da4d9247d9bed209ffea89bb1b1749fef3a5b16876d68b66f5f1"
+    },
+    "erick-sermon-im-hot": {
+      "image": "assets/graffiti/erick-sermon-im-hot-alpha.webp",
+      "sha256": "d1e842ae1e98d99df8f776a74d2bf6de7b31729fb4f4b2cf32201c68c51f7c16"
+    },
+    "erick-sermon-feel-it": {
+      "image": "assets/graffiti/erick-sermon-feel-it-alpha.webp",
+      "sha256": "be0ab50af1c67b5d7e5138f270b506913e6302beafe28122c3b9497e6d5fb137"
+    },
+    "erick-sermon-focus": {
+      "image": "assets/graffiti/erick-sermon-focus-alpha.webp",
+      "sha256": "e2432c4eb77d88eded728fb5c154724e2ff15e1894cc936047b303b64ebeef29"
+    },
+    "nas-lifes-a-bitch": {
+      "image": "assets/graffiti/nas-lifes-a-bitch-alpha.webp",
+      "sha256": "434462c77d361b088414f8ec65ab75f42cc60dd2395c5f1a3b1ceb76436e60f5"
+    },
+    "nas-one-love": {
+      "image": "assets/graffiti/nas-one-love-alpha.webp",
+      "sha256": "548ce835e8e62fdfc34c45d048ff8292f52fe7cbb56d3840afcd102b1e60d637"
+    },
+    "az-sugar-hill": {
+      "image": "assets/graffiti/az-sugar-hill-alpha.webp",
+      "sha256": "8abac8f762690d8a1d083c280a33e17b1134ddbc50540fc7e895127ad7e85444"
+    },
+    "az-rather-unique": {
+      "image": "assets/graffiti/az-rather-unique-alpha.webp",
+      "sha256": "fc30edeeeae4bd9a060b8b309617f2a568c98120dea18115667c8129e01f3448"
+    },
+    "pete-rock-cl-smooth-lots-of-lovin": {
+      "image": "assets/graffiti/pete-rock-cl-smooth-lots-of-lovin-alpha.webp",
+      "sha256": "3193bf4ae86fb77b7322a5d4a02bd021757b16db46629f2a5c3160773dce183d"
+    },
+    "group-therapy-east-coast-west-coast-killas-fire-version": {
+      "image": "assets/graffiti/group-therapy-east-coast-west-coast-killas-fire-version-alpha.webp",
+      "sha256": "0a1e9978b8203363a50120af4810ae0ab8f3798630e66f0d1d806ea34a41bf97"
+    },
+    "dj-bombjack-lesson-7-the-next-lesson": {
+      "image": "assets/graffiti/dj-bombjack-lesson-7-the-next-lesson-alpha.webp",
+      "sha256": "ae482fd22454b9039877f17135458d11e72997e78867fd064de9866ea0b3738f"
+    },
+    "jurassic-5-lesson-6-the-lecture": {
+      "image": "assets/graffiti/jurassic-5-lesson-6-the-lecture-alpha.webp",
+      "sha256": "f82cd426c185d99059f584becb1b65f00182731cf5f0a2c5ba13452695557466"
+    },
+    "jurassic-5-jayou": {
+      "image": "assets/graffiti/jurassic-5-jayou-alpha.webp",
+      "sha256": "60b6b35820994e60c610a86999922cee1a5c7d3896ea3c040d983c5facfc75e7"
+    },
+    "ugly-duckling-now-who-s-laughin": {
+      "image": "assets/graffiti/ugly-duckling-now-who-s-laughin-alpha.webp",
+      "sha256": "944159e185965dcbcb9f04ea676ad8d1b168f636b120be16a013034e36cb526d"
+    },
+    "big-noyd-usual-suspect": {
+      "image": "assets/graffiti/big-noyd-usual-suspect-alpha.webp",
+      "sha256": "4f3dd7440f5eabbc52fc687d5a861aca44e37c4b92ed845c5f8b6b349534b8b8"
+    },
+    "dilated-peoples-work-the-angles": {
+      "image": "assets/graffiti/dilated-peoples-work-the-angles-alpha.webp",
+      "sha256": "95904527cf4aec381fdbf39fe557524f3600d23ff3081f07c02c2e6b056e43b5"
+    },
+    "gang-starr-flip-the-script": {
+      "image": "assets/graffiti/gang-starr-flip-the-script-alpha.webp",
+      "sha256": "be5d2bd5b30e180ee9d2f02941fb85927867777733f70814bf24bd3e95225dab"
+    },
+    "gang-starr-ex-girl-to-next-girl": {
+      "image": "assets/graffiti/gang-starr-ex-girl-to-next-girl-alpha.webp",
+      "sha256": "a64c7224a24d322c8a604540b46f6703a11043eb510fcfb0f889ea8ba54158c0"
+    },
+    "gang-starr-take-two-and-pass": {
+      "image": "assets/graffiti/gang-starr-take-two-and-pass-alpha.webp",
+      "sha256": "c979f06e8d12753e7930ab1aa72cc2c0596acd17a07fa84e32df63af48e89912"
+    },
+    "gang-starr-2-deep": {
+      "image": "assets/graffiti/gang-starr-2-deep-alpha.webp",
+      "sha256": "184d65c75d40df14f57fc319fc3f40cb1c69157eada0a634f8a9a97ad60f3aa0"
+    },
+    "gang-starr-mostly-tha-voice": {
+      "image": "assets/graffiti/gang-starr-mostly-tha-voice-alpha.webp",
+      "sha256": "3a593f7c55775f25820d052adad523fc5ac055ecc324ec131dc1d36e8ff39d2e"
+    },
+    "gang-starr-the-remainz": {
+      "image": "assets/graffiti/gang-starr-the-remainz-alpha.webp",
+      "sha256": "0597fb94ea8f4bcf5840d389b3fe2df5686482bcf4065217405604737254ea17"
+    },
+    "gang-starr-comin-for-the-datazz": {
+      "image": "assets/graffiti/gang-starr-comin-for-the-datazz-alpha.webp",
+      "sha256": "e3f470966a6347e477d47bf095757678017344bbc1ad7ec97816826980e32286"
+    },
+    "gang-starr-b-y-s": {
+      "image": "assets/graffiti/gang-starr-b-y-s-alpha.webp",
+      "sha256": "60628351d81ffb88aa6873df8133861ee50f82a7f4636b9083b1a68f9ceed95b"
+    },
+    "gang-starr-alongwaytogo": {
+      "image": "assets/graffiti/gang-starr-alongwaytogo-alpha.webp",
+      "sha256": "d4e637c0bba25389e320be99c2ae8e1e9bd2c6ffdfd593cc629c717baf04dcf1"
+    },
+    "gang-starr-battle": {
+      "image": "assets/graffiti/gang-starr-battle-alpha.webp",
+      "sha256": "cb5c996fbb4aef821a629c7c67e265e4ea0193d34e7a72dd8bd0c18f9cddbce5"
+    },
+    "gang-starr-blowin-up-the-spot": {
+      "image": "assets/graffiti/gang-starr-blowin-up-the-spot-alpha.webp",
+      "sha256": "ac98b1b53616b3865d8f4c331a93f07f7da0b9fb9455f6d17b43dedfb4405bf9"
+    },
+    "gang-starr-dj-premier-in-deep-concentration": {
+      "image": "assets/graffiti/gang-starr-dj-premier-in-deep-concentration-alpha.webp",
+      "sha256": "e02c2d8ab7d4193a0801f517d5dd72a291de619bb7992892d5c06be716ec0ddd"
+    },
+    "gang-starr-gotta-get-over-taking-loot": {
+      "image": "assets/graffiti/gang-starr-gotta-get-over-taking-loot-alpha.webp",
+      "sha256": "5d18c8323b97ad83e33c8d743ef3e4616d5f7a210f5eea52881afb9d9e745a05"
+    },
+    "gang-starr-no-shame-in-my-game": {
+      "image": "assets/graffiti/gang-starr-no-shame-in-my-game-alpha.webp",
+      "sha256": "1b3270b5a927506d8fdd5f1603e8815c2b4e74792e685f8f597409c6bd72cb4d"
+    },
+    "gang-starr-step-in-the-arena": {
+      "image": "assets/graffiti/gang-starr-step-in-the-arena-alpha.webp",
+      "sha256": "ddb3251d7cc2345ba51d294879d3c0f4fa1a0143a092a4341bcd5069b2ed83c2"
+    },
+    "dj-shadow-in-flux": {
+      "image": "assets/graffiti/dj-shadow-in-flux-alpha.webp",
+      "sha256": "e5c8f06a9c906415811c2759be666975e16b194f6bd1c19ca6e7574c89a5430e"
+    },
+    "dj-shadow-lost-and-found-sfl": {
+      "image": "assets/graffiti/dj-shadow-lost-and-found-sfl-alpha.webp",
+      "sha256": "d9b2781f54e312a4d3a0d017e2a248da0c5cf7d7b0e4f7b3eb8f5f7c14640170"
+    },
+    "dj-shadow-what-does-your-soul-look-like": {
+      "image": "assets/graffiti/dj-shadow-what-does-your-soul-look-like-alpha.webp",
+      "sha256": "bbc27de0fde6d775755a65393fee965e03b220378cbff9fd10af5fa392c881de"
+    },
+    "dj-shadow-high-noon": {
+      "image": "assets/graffiti/dj-shadow-high-noon-alpha.webp",
+      "sha256": "b45869648808df66f91465ce3eb0b2fc5c470140b5cd352db240d8ec390ea5af"
+    },
+    "dj-shadow-the-number-song": {
+      "image": "assets/graffiti/dj-shadow-the-number-song-alpha.webp",
+      "sha256": "b4a672928648b2c601a821f089bb52e2291b6f927bacfe09529f11cf08a98f45"
+    },
+    "dj-shadow-the-number-song-cut-chemist-remix": {
+      "image": "assets/graffiti/dj-shadow-the-number-song-cut-chemist-remix-alpha.webp",
+      "sha256": "be93cf0965fc669ca9df2c374586973af46e0c23cf63d844dc884559e3424881"
+    },
+    "dj-shadow-building-steam-with-a-grain-of-salt": {
+      "image": "assets/graffiti/dj-shadow-building-steam-with-a-grain-of-salt-alpha.webp",
+      "sha256": "fe44644059636297892a1dbe32bc8bc24efa37b981c84b5752a0f8fe264014c9"
+    },
+    "dj-shadow-stem-long-stem": {
+      "image": "assets/graffiti/dj-shadow-stem-long-stem-alpha.webp",
+      "sha256": "c615d0628b0162189c08be7761072fd457f21f0693af427b3c26696cb732cbf4"
+    },
+    "unkle-rabbit-in-your-headlights": {
+      "image": "assets/graffiti/unkle-rabbit-in-your-headlights-alpha.webp",
+      "sha256": "fbbab3acbcea2106e4be09d2c0c6302519af67c12c6aee58db56d25eee9e2c21"
+    },
+    "unkle-lonely-soul": {
+      "image": "assets/graffiti/unkle-lonely-soul-alpha.webp",
+      "sha256": "f8e5552739a8fd0d3f506027cafa5a6f4a47523341ee65211cea7726a04567fa"
+    },
+    "dj-shadow-six-days": {
+      "image": "assets/graffiti/dj-shadow-six-days-alpha.webp",
+      "sha256": "52ac0b0045cb5f95411c5fd76f144d9c4b0ab5ec689dbee0dce09b33e93e1a14"
+    },
+    "dj-shadow-mashin-on-the-motorway": {
+      "image": "assets/graffiti/dj-shadow-mashin-on-the-motorway-alpha.webp",
+      "sha256": "eb702df8529260ef88ee8d730d04a3ae298b422c7088d1e5acee90d311031f37"
+    },
+    "dj-shadow-scale-it-back": {
+      "image": "assets/graffiti/dj-shadow-scale-it-back-alpha.webp",
+      "sha256": "e28cce527a298ebdf1776f8c04dc78284d13aba53cb637559fe8092ea2632dee"
+    },
+    "dj-shadow-the-mountain-will-fall": {
+      "image": "assets/graffiti/dj-shadow-the-mountain-will-fall-alpha.webp",
+      "sha256": "088f73fb774c352472e73208af419d7ee01a65b4c3e482f696f34173cd1d69a3"
+    },
+    "dj-shadow-nobody-speak": {
+      "image": "assets/graffiti/dj-shadow-nobody-speak-alpha.webp",
+      "sha256": "0a8c87444b21d727b1e99b887fb741c56dc1a501ebeabb16dcf4010b6378fab8"
+    },
+    "dj-shadow-rocket-fuel": {
+      "image": "assets/graffiti/dj-shadow-rocket-fuel-alpha.webp",
+      "sha256": "c6f4cfae650a891b79f33641922e4dc30401d60a7209b4b1d91fa599e377ec98"
+    },
+    "dj-shadow-ozone-scraper": {
+      "image": "assets/graffiti/dj-shadow-ozone-scraper-alpha.webp",
+      "sha256": "73195656091b3772c12405ec0d7967175585a8609c6a4279319d6f14a82cb134"
+    },
+    "slum-village-players": {
+      "image": "assets/graffiti/slum-village-players-alpha.webp",
+      "sha256": "8cab1fb6aa261ba056d3081281adca1123ef7b66e8cc9ec608758db78767bcea"
+    },
+    "slum-village-get-dis-money": {
+      "image": "assets/graffiti/slum-village-get-dis-money-alpha.webp",
+      "sha256": "ebf5b9fbba8823571a65d0460e373beff0b57da5aa7de71cc259abf589678fcd"
+    },
+    "j-dilla-fuck-the-police": {
+      "image": "assets/graffiti/j-dilla-fuck-the-police-alpha.webp",
+      "sha256": "89345232971e2cbecbb952f1e2c609ce4aa0e683cf3109334fb6604c7f9daf31"
+    },
+    "jaylib-the-red": {
+      "image": "assets/graffiti/jaylib-the-red-alpha.webp",
+      "sha256": "b1cb17a4690b74d9cb2586f95e01bb8971f5dbb80ed0970c0a26cd8a0e76e723"
+    },
+    "j-dilla-workinonit": {
+      "image": "assets/graffiti/j-dilla-workinonit-alpha.webp",
+      "sha256": "2783ad13f90e3fa6442936d1cbfc6cfd857563b28ad86430d4c393ac833f5746"
+    },
+    "j-dilla-time-the-donut-of-the-heart": {
+      "image": "assets/graffiti/j-dilla-time-the-donut-of-the-heart-alpha.webp",
+      "sha256": "050d76b3fa3b544d0a6498d49dc7df6e587108a24822b93d0657a6ac9500b8bc"
+    },
+    "j-dilla-last-donut-of-the-night": {
+      "image": "assets/graffiti/j-dilla-last-donut-of-the-night-alpha.webp",
+      "sha256": "2769584ea54e62d2dd2bf001eb7436d1d03178f1ec6365321d4888353bfdacdc"
+    },
+    "erykah-badu-didnt-cha-know": {
+      "image": "assets/graffiti/erykah-badu-didnt-cha-know-alpha.webp",
+      "sha256": "3865107432a47f905f44b4fa9d9bb2b037d5085f9bdd5f3cfa0ea81795010f27"
+    },
+    "janet-jackson-got-til-its-gone": {
+      "image": "assets/graffiti/janet-jackson-got-til-its-gone-alpha.webp",
+      "sha256": "03ce44fca6194f5524c5313e676348bbe2944387453b5fb3978e6f6b77ec2a20"
+    },
+    "janet-jackson-got-til-its-gone-jay-dees-revenge-mix": {
+      "image": "assets/graffiti/janet-jackson-got-til-its-gone-jay-dees-revenge-mix-alpha.webp",
+      "sha256": "c988f87ad5eb2dfed2307df2e1b95c15aabd70674bff5394ad3c3a73cc12b3b8"
+    },
+    "lootpack-whenimondamic": {
+      "image": "assets/graffiti/lootpack-whenimondamic-alpha.webp",
+      "sha256": "224a76e9e065cba845f807ccb462e7a8fdb70edfcb7bdee63628320ec5cbcb50"
+    },
+    "quasimoto-microphone-mathematics": {
+      "image": "assets/graffiti/quasimoto-microphone-mathematics-alpha.webp",
+      "sha256": "160af8fe93956858960566059d2965ba3796c4c46c1d426c224dc260358d83e1"
+    },
+    "quasimoto-low-class-conspiracy": {
+      "image": "assets/graffiti/quasimoto-low-class-conspiracy-alpha.webp",
+      "sha256": "1e5b6589a37a56069697d65be603eaff9f621c86dc1d7d8cc79513786a6a1c72"
+    },
+    "madlib-slims-return": {
+      "image": "assets/graffiti/madlib-slims-return-alpha.webp",
+      "sha256": "8e436863fa3e4214ae915d1a9d3f1ce3cd7113ca12da800a34db51ae8a06c56f"
+    },
+    "madvillain-americas-most-blunted": {
+      "image": "assets/graffiti/madvillain-americas-most-blunted-alpha.webp",
+      "sha256": "0f0a485f6d9cc996c880eb16fc99191791887aaac30d5e45d4a1a976a8a73c48"
+    },
+    "madvillain-accordion": {
+      "image": "assets/graffiti/madvillain-accordion-alpha.webp",
+      "sha256": "38a1699452dd1bfdcd4d298752ac36963cbe95f21a9553295da702eab8cee91f"
+    },
+    "madvillain-all-caps": {
+      "image": "assets/graffiti/madvillain-all-caps-alpha.webp",
+      "sha256": "760f2b71da24771840911134ab90efbb7eec5fe3a66f7d89ba22802f3a5e88a4"
+    },
+    "madvillain-meat-grinder": {
+      "image": "assets/graffiti/madvillain-meat-grinder-alpha.webp",
+      "sha256": "92d6029ded143c5df020f4667753828e00d859e20449c852321ff94ec80976f5"
+    },
+    "freddie-gibbs-madlib-thuggin": {
+      "image": "assets/graffiti/freddie-gibbs-madlib-thuggin-alpha.webp",
+      "sha256": "38b0aea97061665f53369a8b89e52de1b67e51aad6909a71d36ab113d7769269"
+    },
+    "freddie-gibbs-madlib-crime-pays": {
+      "image": "assets/graffiti/freddie-gibbs-madlib-crime-pays-alpha.webp",
+      "sha256": "968b7cd8c20ab1b179959f664acebbcef210bb49f9c027bceb044cba84b51cb9"
+    },
+    "madlib-road-of-the-lonely-ones": {
+      "image": "assets/graffiti/madlib-road-of-the-lonely-ones-alpha.webp",
+      "sha256": "aa8c4d1beef3a96e8564e0766ec2eec28f78ad9653f2e45abe6cfdf9fee7a160"
+    },
+    "mf-doom-one-beer": {
+      "image": "assets/graffiti/mf-doom-one-beer-alpha.webp",
+      "sha256": "e4d938e423ac5f66a415f8ef73c2a881ad7cdbba67310aeb89ac428d23e60852"
+    },
+    "de-la-soul-shopping-bags": {
+      "image": "assets/graffiti/de-la-soul-shopping-bags-alpha.webp",
+      "sha256": "022a88a46bc38ca2a654a989dba3fea76607b3ec0dc7fa75adb905d9f1a59058"
+    },
+    "mos-def-auditorium": {
+      "image": "assets/graffiti/mos-def-auditorium-alpha.webp",
+      "sha256": "4c5ee2626792c7c4c0f9d1d4e03f63fbce426fa98dcc417d6d62c27de0c3b88f"
+    },
+    "kanye-west-no-more-parties-in-la": {
+      "image": "assets/graffiti/kanye-west-no-more-parties-in-la-alpha.webp",
+      "sha256": "ca8bfb68b7f160dce5b8992c368fa7c184487c799340a9be694f0cc8445efc3b"
+    },
+    "dj-shadow-organ-donor-extended-overhaul": {
+      "image": "assets/graffiti/dj-shadow-organ-donor-extended-overhaul-alpha.webp",
+      "sha256": "07739bde1032b42970a11589ea20228b60035d5b4f6806a6eca69594f0599f71"
+    },
+    "j-live-hush-the-crowd": {
+      "image": "assets/graffiti/j-live-hush-the-crowd-alpha.webp",
+      "sha256": "502dadf511c7f8e2ec50d802f8fd9936ef5e094404a84e6f1fce12f7be01db80"
+    },
+    "dead-poetz-society-lick-a-shot-remix": {
+      "image": "assets/graffiti/dead-poetz-society-lick-a-shot-remix-alpha.webp",
+      "sha256": "3e2c47a997d683bf56de106c33cbe8d364b781d71ec6c0bd71e250ba2a911815"
+    },
+    "the-roots-push-up-ya-lighter": {
+      "image": "assets/graffiti/the-roots-push-up-ya-lighter-alpha.webp",
+      "sha256": "3f96871cb9c246d51e94c8898aebf6b4369bf3e95cc9ad0645e3b837ea385dfa"
+    },
+    "ed-o-g-what-u-got": {
+      "image": "assets/graffiti/ed-o-g-what-u-got-alpha.webp",
+      "sha256": "8f34f32e0a72948920ad4d67c5d9f0367ee446f46cdb051104d739d525978399"
+    },
+    "camp-lo-swing": {
+      "image": "assets/graffiti/camp-lo-swing-alpha.webp",
+      "sha256": "235bc435169535694027f80016d5a84c5bfc548a6b5e44de83411615b252a7af"
+    },
+    "a-tribe-called-quest-crew": {
+      "image": "assets/graffiti/a-tribe-called-quest-crew-alpha.webp",
+      "sha256": "164de47a6ecb23013518b71e4393ef456d2856fc49fe70aec3bda9ef06a3247d"
+    },
+    "heltah-skeltah-therapy": {
+      "image": "assets/graffiti/heltah-skeltah-therapy-alpha.webp",
+      "sha256": "038490cf4e64aa0b04fdb6f62acc4911f9b9a496b00cad71bf16c0fb9e0d522b"
+    },
+    "bush-babees-feat-mos-def-the-love-song": {
+      "image": "assets/graffiti/bush-babees-feat-mos-def-the-love-song-alpha.webp",
+      "sha256": "13738a9317b59c3b26273466476a008082c6a3cc22adc2b35df69268c2865e66"
+    },
+    "big-noyd-usual-suspect-stretch-armstrong-remix": {
+      "image": "assets/graffiti/big-noyd-usual-suspect-stretch-armstrong-remix-alpha.webp",
+      "sha256": "4edbbb1e60edb418b5563e2931e476ae2cdd971596c5b8485f10e2b0b4aac572"
+    },
+    "sadat-x-the-lump-lump-nubian-mix": {
+      "image": "assets/graffiti/sadat-x-the-lump-lump-nubian-mix-alpha.webp",
+      "sha256": "e633cf190b2931d33f30864a33a98ea27212d0b44516a73579f02fb6cca4ed73"
+    },
+    "krs-one-feat-busta-rhymes-build-ya-skillz": {
+      "image": "assets/graffiti/krs-one-feat-busta-rhymes-build-ya-skillz-alpha.webp",
+      "sha256": "b426bde7d7e4cb07b9489f4667f7fd1472237212f11476269c60ddb7bbe3b225"
+    },
+    "o-c-o-zone": {
+      "image": "assets/graffiti/o-c-o-zone-alpha.webp",
+      "sha256": "cacb5cc6dfe430f0c7be5a67dadae87f4e3dbd6700f064c7f143ec5e847109cf"
+    },
+    "grand-puba-a-little-of-this": {
+      "image": "assets/graffiti/grand-puba-a-little-of-this-alpha.webp",
+      "sha256": "29810ee51ac7da92d9c93c8d269fbc45b758fa4e619fc18d34018225ca55d175"
+    },
+    "az-gimme-yours": {
+      "image": "assets/graffiti/az-gimme-yours-alpha.webp",
+      "sha256": "56371725f43aa58941790ed3b578815e140100a8969de4d59ddc3ed26cb58d4f"
+    },
+    "mobb-deep-up-north-trip": {
+      "image": "assets/graffiti/mobb-deep-up-north-trip-alpha.webp",
+      "sha256": "1778984483a48761a83be4667a6ccacdd78d43e0e8e8d7f176a94c7f7ad5d7f6"
+    },
+    "o-c-organized-konfusion-you-won-t-go-far": {
+      "image": "assets/graffiti/o-c-organized-konfusion-you-won-t-go-far-alpha.webp",
+      "sha256": "eea071c4b9e1c2f5c3b149d6e6c3cebebfb26b2ca06d317b2e2d0644372a6044"
+    },
+    "big-l-all-black": {
+      "image": "assets/graffiti/big-l-all-black-alpha.webp",
+      "sha256": "e96567ff58e819d2cfe2af88b20775f8d43312e2a782a91f436adf17f9dff8d8"
+    },
+    "smif-n-wessun-let-s-git-it-on": {
+      "image": "assets/graffiti/smif-n-wessun-let-s-git-it-on-alpha.webp",
+      "sha256": "d96d35ab8da5297508442affcaa07b6e8c41c49a19660ae74b03f81e9a6b2784"
+    },
+    "black-moon-how-many-mc-s": {
+      "image": "assets/graffiti/black-moon-how-many-mc-s-alpha.webp",
+      "sha256": "db5d97baa78c747eb6a34dc17d4f2cca5df2189075fa6d3853ddf287116d82e3"
+    },
+    "group-home-up-against-the-wall-low-budget-mix": {
+      "image": "assets/graffiti/group-home-up-against-the-wall-low-budget-mix-alpha.webp",
+      "sha256": "fd8b7027d5dbb0e7989c8c193f66b7e62401eef7e2523c6b2165f45d7d65014b"
+    },
+    "kool-g-rap-blowin-up-in-the-world": {
+      "image": "assets/graffiti/kool-g-rap-blowin-up-in-the-world-alpha.webp",
+      "sha256": "28adbc6d21a2548c86555527f59e1cdb711d42b3ed7f20d730b064141e14927f"
+    },
+    "o-c-word-life": {
+      "image": "assets/graffiti/o-c-word-life-alpha.webp",
+      "sha256": "9f3c7a5b47a75499209a195a729714c094fc3759773e0384b502806e281081f5"
+    },
+    "the-roots-distortion-to-static": {
+      "image": "assets/graffiti/the-roots-distortion-to-static-alpha.webp",
+      "sha256": "6a6175e9e5f894f70d1b4206bb7d9ee74fcd64e90b9f822f3a20c0afd35e0472"
+    },
+    "erick-sermon-bomdigi": {
+      "image": "assets/graffiti/erick-sermon-bomdigi-alpha.webp",
+      "sha256": "32be86b36b70a812b537ea917ea0dcc66d01104ab7eadbb22dbccfa45736989f"
+    },
+    "pete-rock-c-l-smooth-the-main-ingredient": {
+      "image": "assets/graffiti/pete-rock-c-l-smooth-the-main-ingredient-alpha.webp",
+      "sha256": "0ab9cfe7e901a0c8e9d96a7584c8dcbf300cae8825d49098afcdb86120bbe586"
+    },
+    "pete-rock-c-l-smooth-worldwide": {
+      "image": "assets/graffiti/pete-rock-c-l-smooth-worldwide-alpha.webp",
+      "sha256": "de4d37fd37feba68876b522fd9da8ffc804c018e13c864692133844b11a18528"
+    },
+    "black-moon-buck-em-down": {
+      "image": "assets/graffiti/black-moon-buck-em-down-alpha.webp",
+      "sha256": "a7c070f429ffdc2f4385dcf583e9725f615108d849dfe6bbb345bb8bd3278106"
+    },
+    "common-breaker-1-9": {
+      "image": "assets/graffiti/common-breaker-1-9-alpha.webp",
+      "sha256": "fc541bb0bb309976aa5db10ce4182334e204993523ddb9d469195fb0740f2aa8"
+    },
+    "das-efx-mic-checka": {
+      "image": "assets/graffiti/das-efx-mic-checka-alpha.webp",
+      "sha256": "c92b643af97337a1fac776f846e0454e1c3f8d79ff89c5ce024a12dde7c95222"
+    },
+    "cypress-hill-stoned-is-the-way-of-the-walk": {
+      "image": "assets/graffiti/cypress-hill-stoned-is-the-way-of-the-walk-alpha.webp",
+      "sha256": "56cf01314f0351bf6218da2d12e3c45452fbcfcba55b56025d287315902c7274"
+    },
+    "a-tribe-called-quest-vibes-and-stuff": {
+      "image": "assets/graffiti/a-tribe-called-quest-vibes-and-stuff-alpha.webp",
+      "sha256": "9d9e26e089c9afbf36db4777c383f64140ac7f882357b6757b8d6f45fe1bd764"
+    },
+    "brand-nubian-steady-bootleggin": {
+      "image": "assets/graffiti/brand-nubian-steady-bootleggin-alpha.webp",
+      "sha256": "b6b8959a6c4c1b561694d38e07aaaf3fc4b1a0537a649bb280566212ebb6d2b1"
+    },
+    "epmd-underground": {
+      "image": "assets/graffiti/epmd-underground-alpha.webp",
+      "sha256": "5a9fb9ae7a43ed8a16673846e3f6b93a96f85a2ae03c3d03c5c0591886e0034b"
+    },
+    "chubb-rock-the-one": {
+      "image": "assets/graffiti/chubb-rock-the-one-alpha.webp",
+      "sha256": "c7c9c851a2a5a98d6d1ede330addadea21fafdfd65536f188f468592e1257e4a"
+    },
+    "big-daddy-kane-taste-of-chocolate-video-version": {
+      "image": "assets/graffiti/big-daddy-kane-taste-of-chocolate-video-version-alpha.webp",
+      "sha256": "a9bdbdba11342df6bd7832dd79e62fb670a2b3751ebf10430b83bb66d012ee2a"
+    },
+    "pete-rock-c-l-smooth-anger-in-the-nation": {
+      "image": "assets/graffiti/pete-rock-c-l-smooth-anger-in-the-nation-alpha.webp",
+      "sha256": "4759bd1f8f32d244dca13e62a687e4a58a92756fd4588edb9e97ae224fc46c72"
+    },
+    "lord-finesse-dj-mike-smooth-bud-mutha": {
+      "image": "assets/graffiti/lord-finesse-dj-mike-smooth-bud-mutha-alpha.webp",
+      "sha256": "d288ce2ba5056d7a60f04a0dd7b3a576471fbbf61c4f33e0b9eef86587182d82"
+    },
+    "slick-rick-it-s-a-boy": {
+      "image": "assets/graffiti/slick-rick-it-s-a-boy-alpha.webp",
+      "sha256": "da07487aed65178db5a33ee81ea457095748a155ef6b09f44308a67a322b8753"
+    },
+    "poor-righteous-teachers-shakiyla-jrh": {
+      "image": "assets/graffiti/poor-righteous-teachers-shakiyla-jrh-alpha.webp",
+      "sha256": "26d2c7335145d04eeaeec77fd222a151852af70d83c36f35bce16e3ca816f49d"
+    },
+    "3rd-bass-derelicts-of-dialect": {
+      "image": "assets/graffiti/3rd-bass-derelicts-of-dialect-alpha.webp",
+      "sha256": "65cb34db31a265826793fa9cc6fc1aa4eef3de45dc9a89432e61c5757c85e182"
+    },
+    "tim-dog-i-ain-t-havin-it-feat-kool-keith": {
+      "image": "assets/graffiti/tim-dog-i-ain-t-havin-it-feat-kool-keith-alpha.webp",
+      "sha256": "9f343b101fe5445027eca508a172c8897f5e7e580e07f44653da164d1bef0943"
+    },
+    "ll-cool-j-the-boomin-system": {
+      "image": "assets/graffiti/ll-cool-j-the-boomin-system-alpha.webp",
+      "sha256": "6ec54171316a149dab619f470d652c19433b4bbc7a4b4f3baf123080cf7de7d1"
+    },
+    "cypress-hill-hand-on-the-pump": {
+      "image": "assets/graffiti/cypress-hill-hand-on-the-pump-alpha.webp",
+      "sha256": "ce3e6f93e30498c8c2e4bbe611d035bbaee6bbee4855af20c707a888bfdbaf3b"
+    },
+    "de-la-soul-oodles-of-o-s": {
+      "image": "assets/graffiti/de-la-soul-oodles-of-o-s-alpha.webp",
+      "sha256": "e99bad22dfb7d7ca7d085445af810b6740c1e367534a8c324d400f79d8d561ea"
+    },
+    "brand-nubian-love-me-or-leave-me-alone": {
+      "image": "assets/graffiti/brand-nubian-love-me-or-leave-me-alone-alpha.webp",
+      "sha256": "bea6797bd4619934afa26f7f06e2ecf1a4f6cc7e63977b8fff0e79d4ce3412c5"
+    },
+    "nice-smooth-how-to-flow": {
+      "image": "assets/graffiti/nice-smooth-how-to-flow-alpha.webp",
+      "sha256": "84b34cfa8acb602b0191eca02a725e6470eb1db52bbb8326514d3e92a548c11b"
+    },
+    "showbiz-a-g-he-say-she-say": {
+      "image": "assets/graffiti/showbiz-a-g-he-say-she-say-alpha.webp",
+      "sha256": "b59455149e74f4b1d1cb39e70740492a8a996097ac436c2a634aea620f1ac01f"
+    },
+    "diamond-the-psychotic-neurotics-freestyle-yo-that-s-that-shit": {
+      "image": "assets/graffiti/diamond-the-psychotic-neurotics-freestyle-yo-that-s-that-shit-alpha.webp",
+      "sha256": "8c4281e74f13e3eea924dee1b46d373a4c3e867c55bd8da0000b37d48310de6b"
+    },
+    "eric-b-rakim-what-s-on-your-mind": {
+      "image": "assets/graffiti/eric-b-rakim-what-s-on-your-mind-alpha.webp",
+      "sha256": "2493f7da44157d0a8483fe7cd8c19a09b90e8fa79866dde1fe9cc589bc591012"
+    },
+    "da-bush-babees-we-run-things-it-s-like-dat": {
+      "image": "assets/graffiti/da-bush-babees-we-run-things-it-s-like-dat-alpha.webp",
+      "sha256": "78dc619b921a8bc762ff222c3091ceecc7abf19647f6659a031bb8f182e5dacd"
+    },
+    "the-pharcyde-4-better-or-4-worse": {
+      "image": "assets/graffiti/the-pharcyde-4-better-or-4-worse-alpha.webp",
+      "sha256": "cad28fadbd6ea58b368f5b5c43575f5635dbfcbf2d6abe6ab0caa5b91ae35894"
+    },
+    "da-king-i-flip-da-scrip": {
+      "image": "assets/graffiti/da-king-i-flip-da-scrip-alpha.webp",
+      "sha256": "586f43a5f112cbec407ee3144a990f007437ab7af8fdde71de4a0400a697fac1"
+    },
+    "kirk-uptown-style": {
+      "image": "assets/graffiti/kirk-uptown-style-alpha.webp",
+      "sha256": "f660d26936c7ff0a40e710f532cbe2071f66caa9a435982d3cc7927250e0e291"
+    },
+    "super-lover-cee-casanova-rud-this-dub-s-for-you": {
+      "image": "assets/graffiti/super-lover-cee-casanova-rud-this-dub-s-for-you-alpha.webp",
+      "sha256": "df527e064673a5d8a50433ab26b8df3d4f5d25c87cada41b6c61fed39976f598"
+    },
+    "nice-smooth-old-to-the-new": {
+      "image": "assets/graffiti/nice-smooth-old-to-the-new-alpha.webp",
+      "sha256": "c051c7bd8a9603c28a658b8f6a5130d6654af4d31b01cda5aa6d0b8d8465cab5"
+    },
+    "da-youngsta-s-pass-da-mic": {
+      "image": "assets/graffiti/da-youngsta-s-pass-da-mic-alpha.webp",
+      "sha256": "b34b8f17d5d3d61499272be5ff8d752bb2130ee3b121ffa200a40966d78fca8c"
+    },
+    "zhigge-toss-it-up": {
+      "image": "assets/graffiti/zhigge-toss-it-up-alpha.webp",
+      "sha256": "b547b7e0d9805bc11700255475daf30bf0cd6dd226d66ecf3a2bcc2d853b5226"
+    },
+    "mesanjarz-of-funk-flip-da-script": {
+      "image": "assets/graffiti/mesanjarz-of-funk-flip-da-script-alpha.webp",
+      "sha256": "23bc3116194c03e34501cb3a37b1a02c6d38894976f6b15d4548460c6e1757a6"
+    },
+    "leaders-of-the-new-school-what-s-next": {
+      "image": "assets/graffiti/leaders-of-the-new-school-what-s-next-alpha.webp",
+      "sha256": "e889c9fb5e4f22775433a46df04a7773a2de9d070e5059ad079e5157d7d30cec"
+    },
+    "neneh-cherry-i-ain-t-gone-under-yet": {
+      "image": "assets/graffiti/neneh-cherry-i-ain-t-gone-under-yet-alpha.webp",
+      "sha256": "e80cd3e5851d3e7e29398291c1d83c8fecbc1687169bbb70fd98c501b26d744c"
+    },
+    "trends-of-culture-valley-of-the-skinz": {
+      "image": "assets/graffiti/trends-of-culture-valley-of-the-skinz-alpha.webp",
+      "sha256": "d9290965d7186fb8f7744648f535d78df4a3d1fe7d0a3a58c9a1599c1fc2e7dc"
+    },
+    "the-beatnuts-rik-s-joint": {
+      "image": "assets/graffiti/the-beatnuts-rik-s-joint-alpha.webp",
+      "sha256": "37235f26381fcd9ec35aac001836afb6489a7bf32df5a4235d20603f29cb9439"
+    },
+    "m-o-p-rugged-neva-smoove": {
+      "image": "assets/graffiti/m-o-p-rugged-neva-smoove-alpha.webp",
+      "sha256": "d36cbef198137ca464ee8f7a2a592a1756c5736e546de6a1d99871d8a3b5c71c"
+    },
+    "champ-mc-keep-it-on-the-real": {
+      "image": "assets/graffiti/champ-mc-keep-it-on-the-real-alpha.webp",
+      "sha256": "e40c7a9b107b9ce8c7294eece1b5fbaa3bf792ae084c796de37d98af27e4ba01"
+    },
+    "brand-nubian-word-is-bond": {
+      "image": "assets/graffiti/brand-nubian-word-is-bond-alpha.webp",
+      "sha256": "53acc221bcccb44c8c8ac65d707315d1bf0d8054e0d2878add56b2b88414b932"
+    },
+    "boogiemonsters-strange": {
+      "image": "assets/graffiti/boogiemonsters-strange-alpha.webp",
+      "sha256": "12864833e67dc91a492e6a8fd9d28af376ec28dd689738ec95e57160c909f6b9"
+    },
+    "yaggfu-front-left-field": {
+      "image": "assets/graffiti/yaggfu-front-left-field-alpha.webp",
+      "sha256": "03a2b97aa78bc0e008617ff21315c6c73a0de74d4ac930f0be3ddf87095294cd"
+    },
+    "grand-puba-amazing": {
+      "image": "assets/graffiti/grand-puba-amazing-alpha.webp",
+      "sha256": "7f4c7b5e2094f5a6dbd498df9a14790de7416d791d98d06882673b151e64cb80"
+    },
+    "redman-time-4-sum-aksion": {
+      "image": "assets/graffiti/redman-time-4-sum-aksion-alpha.webp",
+      "sha256": "11bca75cd6cb925ba32dd058a3a5785f19292b9f4657741a29bef25d529f2957"
+    },
+    "k-solo-letterman": {
+      "image": "assets/graffiti/k-solo-letterman-alpha.webp",
+      "sha256": "f525c9cb43a905ff97aea5bc4cc2a59febb4e66fd29591d30519d9285a85a19d"
+    },
+    "krs-one-i-can-t-wake-up": {
+      "image": "assets/graffiti/krs-one-i-can-t-wake-up-alpha.webp",
+      "sha256": "b6f4524ff383047105ce37698e88d4ae8bba4ad9635423df937f6d370b36fa82"
+    },
+    "gang-starr-now-you-re-mine": {
+      "image": "assets/graffiti/gang-starr-now-you-re-mine-alpha.webp",
+      "sha256": "87ed8aeb147fd4e96f3193c6c07c8ee34bc7f0401289f303093c87486dfc29e4"
+    },
+    "dj-jazzy-jeff-the-fresh-prince-somethin-like-dis": {
+      "image": "assets/graffiti/dj-jazzy-jeff-the-fresh-prince-somethin-like-dis-alpha.webp",
+      "sha256": "966f5500d05bd8eebbbafe3914bf6bdc8c77e2fa339114016b740dda60f00c3c"
+    },
+    "doug-e-fresh-bounce": {
+      "image": "assets/graffiti/doug-e-fresh-bounce-alpha.webp",
+      "sha256": "4144209867cb69150d41f2dfa0e482f1eed994ab29d169f1384f27d03cfe833b"
+    },
+    "das-efx-looseys": {
+      "image": "assets/graffiti/das-efx-looseys-alpha.webp",
+      "sha256": "1e8e33c033d5bf7c2731d79c630d55a93a695571913791859cf3eea3c6eaebd6"
+    },
+    "the-pharcyde-officer": {
+      "image": "assets/graffiti/the-pharcyde-officer-alpha.webp",
+      "sha256": "a9daaf32268f7b42e4d21b61394f36324b39f1755e4fd58d99b6777059351aac"
+    },
+    "original-flavor-all-that": {
+      "image": "assets/graffiti/original-flavor-all-that-alpha.webp",
+      "sha256": "39bf077baa0fe6924ed5f926d1ca189b8364b124977a5584e6c90d36197734a5"
+    },
+    "dred-scott-nutin-ta-lose": {
+      "image": "assets/graffiti/dred-scott-nutin-ta-lose-alpha.webp",
+      "sha256": "4f4ed1dd23f674ea9f6527373afb0630ced8797052c31968649a49fe73b0aeb1"
+    },
+    "black-maddness-wild-brooklyn-bandits": {
+      "image": "assets/graffiti/black-maddness-wild-brooklyn-bandits-alpha.webp",
+      "sha256": "e6cb0cd8bd6a738a49321f459991731e0a3ecc5330f2c0e91cfc8907b88b6aa9"
+    },
+    "queen-latifah-latifah-s-had-it-up-2-here": {
+      "image": "assets/graffiti/queen-latifah-latifah-s-had-it-up-2-here-alpha.webp",
+      "sha256": "0f59d2b63fb7a10f435861a1fc0151321a8329c640bb04a17bbe50e31cc94e26"
+    },
+    "n-w-a-express-yourself": {
+      "image": "assets/graffiti/n-w-a-express-yourself-alpha.webp",
+      "sha256": "fa50bcd1b4eebd649a2b9e284e40e1a1dca76971d21e58495b83188256fa620b"
+    },
+    "cypress-hill-the-phuncky-feel-one": {
+      "image": "assets/graffiti/cypress-hill-the-phuncky-feel-one-alpha.webp",
+      "sha256": "bc1494bdf2118e1c520639fd0cb8616b3a115f86d3f543345a27cd9a0e879706"
+    },
+    "double-xx-posse-we-got-it-goin-on": {
+      "image": "assets/graffiti/double-xx-posse-we-got-it-goin-on-alpha.webp",
+      "sha256": "3c3bf935349d0d433886523435cfc0f26a8fad66f83abf3bdf578754b943ae52"
+    },
+    "chubb-rock-treat-em-right": {
+      "image": "assets/graffiti/chubb-rock-treat-em-right-alpha.webp",
+      "sha256": "fb4509b847d8381232eb9733d2f1eca337eab8c3010af1ae75106f27d32d6454"
+    },
+    "epmd-it-s-time-2-party": {
+      "image": "assets/graffiti/epmd-it-s-time-2-party-alpha.webp",
+      "sha256": "9c1c923fcbc85eb55b111fe1ea9563886334cf0a91f4c034f5657630c1889018"
+    },
+    "boogie-down-productions-you-must-learn": {
+      "image": "assets/graffiti/boogie-down-productions-you-must-learn-alpha.webp",
+      "sha256": "78a24b5948298e692dfc5c4b95f4e64b85735fc8dd008b5cf3fa1e191708fdfe"
+    },
+    "the-troubleneck-brothers-back-to-the-hip-hop": {
+      "image": "assets/graffiti/the-troubleneck-brothers-back-to-the-hip-hop-alpha.webp",
+      "sha256": "aa7f87a382fb4571bf4594dc7b999dd52cc746391e94ac99eb4b69216c5d4b04"
+    },
+    "the-notorious-b-i-g-just-playing-dreams": {
+      "image": "assets/graffiti/the-notorious-b-i-g-just-playing-dreams-alpha.webp",
+      "sha256": "1f3572449c8dd7666563c76e5e3ce46b1fd2b0a9b0de9d4ba16c171cf6bca4f1"
+    },
+    "jeru-the-damaja-da-bichez": {
+      "image": "assets/graffiti/jeru-the-damaja-da-bichez-alpha.webp",
+      "sha256": "6d61cbf2ec95aa53cd3f7c59170b6f642d4e72cd3e74ed447ab4c13b50da1555"
+    },
+    "krs-one-return-of-the-boom-bap": {
+      "image": "assets/graffiti/krs-one-return-of-the-boom-bap-alpha.webp",
+      "sha256": "e85345829d4ca8adddb193a7bd8b259bc764e100eb077d04a2eacf601e33d47b"
+    },
+    "akinyele-ak-ha-ha-ak-hoo-hoo": {
+      "image": "assets/graffiti/akinyele-ak-ha-ha-ak-hoo-hoo-alpha.webp",
+      "sha256": "b73c769e84729b55ad6962e36885979245806bb9d91b2a78bc01b02f702bc67e"
+    },
+    "intelligent-hoodlum-at-large": {
+      "image": "assets/graffiti/intelligent-hoodlum-at-large-alpha.webp",
+      "sha256": "ef850438cc830972d3e6da7515aa2e106f671a482a061a584703fc9ea122ad0c"
+    },
+    "a-tribe-called-quest-show-business": {
+      "image": "assets/graffiti/a-tribe-called-quest-show-business-alpha.webp",
+      "sha256": "14192c11fd5c6cb0ec5818d1e7ef482bba4d82a25544f2d5b657f94a1330d8f8"
+    },
+    "diamond-the-psychotic-neurotics-pass-dat-shit": {
+      "image": "assets/graffiti/diamond-the-psychotic-neurotics-pass-dat-shit-alpha.webp",
+      "sha256": "94610861e31e1e6231041a23f9fc2fd709f71f1dcb4248a8759be895f8063a1d"
+    },
+    "the-legion-legion-groove": {
+      "image": "assets/graffiti/the-legion-legion-groove-alpha.webp",
+      "sha256": "d3da0ccff691e3af157e4f35cd107f8fd4947790d3310dd239b8d3f348dbd95b"
+    },
+    "common-take-it-ez": {
+      "image": "assets/graffiti/common-take-it-ez-alpha.webp",
+      "sha256": "26111c3d48ee7a801aeabbb41ffcbba370634b3e491e2200cc618aee2d7bdf1c"
+    },
+    "showbiz-a-g-silence-of-the-lambs": {
+      "image": "assets/graffiti/showbiz-a-g-silence-of-the-lambs-alpha.webp",
+      "sha256": "d3ea90f4d18fe3e43fe0abf351b8f75ce7b5858d9bc6b2179947de6b81da70ef"
+    },
+    "original-flavor-feat-jay-z-can-i-get-open": {
+      "image": "assets/graffiti/original-flavor-feat-jay-z-can-i-get-open-alpha.webp",
+      "sha256": "ac7a7723716139b2d4ce14ed204c7a504f6f84b88ff25f593c11747635c45637"
+    },
+    "the-umc-s-never-never-land": {
+      "image": "assets/graffiti/the-umc-s-never-never-land-alpha.webp",
+      "sha256": "05386f81747869858f868b9cdf92c759caac1bf16a6f45378ae0cd86116f3cee"
+    },
+    "fat-joe-dat-gangsta-shit": {
+      "image": "assets/graffiti/fat-joe-dat-gangsta-shit-alpha.webp",
+      "sha256": "8ba6c5f812e473358a02e9ccd8b969b44bb763b13f5e59310f311c12e6000e4b"
+    },
+    "busta-rhymes-everybody-rise": {
+      "image": "assets/graffiti/busta-rhymes-everybody-rise-alpha.webp",
+      "sha256": "b03fa4616328948f276b0557d479938612fba9f6747c363f639e97c93aad057e"
+    },
+    "lord-finesse-yes-you-may-funk-flow-mix": {
+      "image": "assets/graffiti/lord-finesse-yes-you-may-funk-flow-mix-alpha.webp",
+      "sha256": "6cd079634063e23412e3d83f158687d9af58ede21536706ceeb2204df68f2a2a"
+    },
+    "the-roots-without-a-doubt": {
+      "image": "assets/graffiti/the-roots-without-a-doubt-alpha.webp",
+      "sha256": "a58c8a9b9417a8881fcebffa4ddd7e4b2d6731502340c4d5468b1c7f564c675c"
+    },
+    "black-moon-showdown": {
+      "image": "assets/graffiti/black-moon-showdown-alpha.webp",
+      "sha256": "ded88e1828d8e86dc36ad1ce2cc37694fe0640b95c5be925cb9a1f333ba95f0e"
+    },
+    "eminem-my-name-is": {
+      "image": "assets/graffiti/eminem-my-name-is-alpha.webp",
+      "sha256": "46067a2f0e35faba42c47708e8c3f78f50f48c5290e65d10d34d57fa2ef111ad"
+    },
+    "all-city-get-paid": {
+      "image": "assets/graffiti/all-city-get-paid-alpha.webp",
+      "sha256": "91d512f6b8927b3a716884c1e56e41d7c8080f231d8d230e41eb40222e064cdb"
+    },
+    "kool-g-rap-cant-stop-the-shine": {
+      "image": "assets/graffiti/kool-g-rap-cant-stop-the-shine-alpha.webp",
+      "sha256": "dcb3578fabca843a4a01484df2615266d1d356bc792fc5dc938de5eb056f72c8"
+    },
+    "nas-street-dreams": {
+      "image": "assets/graffiti/nas-street-dreams-alpha.webp",
+      "sha256": "ed3734343f70b21f5a79aa1c8e6d80165da7154595b943a427f6ed1d4c980ed9"
+    },
+    "jay-z-cant-knock-the-hustle": {
+      "image": "assets/graffiti/jay-z-cant-knock-the-hustle-alpha.webp",
+      "sha256": "fda230c3f537999e67c383b73fe5688949dc94857af45f611f90b19e20fc9d87"
+    },
+    "akinyele-three": {
+      "image": "assets/graffiti/akinyele-three-alpha.webp",
+      "sha256": "c757c0ddfacebc88cf93d9ac27d6b3b92659c4671170c81170af3a0e216a1abd"
+    },
+    "d-d-all-stars-1-2-pass-it": {
+      "image": "assets/graffiti/d-d-all-stars-1-2-pass-it-alpha.webp",
+      "sha256": "2ef206f41b2d44ca8532ab4bcac454429f9b9f8075d5a9c4bf8cd58d6ae2cae0"
+    },
+    "jeru-me-or-the-papes": {
+      "image": "assets/graffiti/jeru-me-or-the-papes-alpha.webp",
+      "sha256": "7996238455123681a4d1cdcef31681ca72c6585c2f3c74265943d966fb89d2a9"
+    },
+    "pete-rock-cl-smooth-its-on-you": {
+      "image": "assets/graffiti/pete-rock-cl-smooth-its-on-you-alpha.webp",
+      "sha256": "23f61620b63f0cded189f5016717dbfcdcf1a219851149ab663c5c94bc3c80f6"
+    },
+    "oc-sharp-as-a-knife": {
+      "image": "assets/graffiti/oc-sharp-as-a-knife-alpha.webp",
+      "sha256": "8471e8397b2781e339e2fbefe5867418e8acc152367004454c7d6813b0fd407d"
+    },
+    "q-ball-curt-cazal-my-kinda-moves": {
+      "image": "assets/graffiti/q-ball-curt-cazal-my-kinda-moves-alpha.webp",
+      "sha256": "945b50b20791050b90e50e3660283ea8669e005023ec5fa38c5d3f0db1148cab"
+    },
+    "lords-of-the-underground-flow-on-pete-rock-remix": {
+      "image": "assets/graffiti/lords-of-the-underground-flow-on-pete-rock-remix-alpha.webp",
+      "sha256": "9cc4d6771eda3b4b3b321fb801e66d12ef780a405857d333b0d22ef01880970f"
+    },
+    "blahzay-blahzay-danger": {
+      "image": "assets/graffiti/blahzay-blahzay-danger-alpha.webp",
+      "sha256": "cf015be6bca9d45bc0a909d69b14edfa49d31ac7f66feb39f03c9ec3d17a3048"
+    },
+    "heavy-d-the-boyz-you-cant-see-what-i-can-see": {
+      "image": "assets/graffiti/heavy-d-the-boyz-you-cant-see-what-i-can-see-alpha.webp",
+      "sha256": "ccb61d7a7b4e7e4277ba74e83795c5b3756bf21e29216f35435c2a8ccf76181e"
+    },
+    "prince-markie-dee-the-soul-convention-something-special": {
+      "image": "assets/graffiti/prince-markie-dee-the-soul-convention-something-special-alpha.webp",
+      "sha256": "5ab4badde9b4f7d783dd9465f851a7e646b36eb83c6d2762b4ea45687309c545"
+    },
+    "heavy-d-the-boyz-blue-funk": {
+      "image": "assets/graffiti/heavy-d-the-boyz-blue-funk-alpha.webp",
+      "sha256": "2441394d76e562e3e7257eda72198e4df935062939171f9adf21878a606fa390"
+    },
+    "the-pharcyde-bullshit": {
+      "image": "assets/graffiti/the-pharcyde-bullshit-alpha.webp",
+      "sha256": "80aa387b77dee67c0cce4d1610a9b3b795d7458d4404a4965d66cb27606d3086"
+    },
+    "mood-secrets-of-the-sand-jay-dee-remix": {
+      "image": "assets/graffiti/mood-secrets-of-the-sand-jay-dee-remix-alpha.webp",
+      "sha256": "729689dbef0ba817b4b6bc84d28dd212db0dc14765ef29d4a1d6fb910330a18c"
+    },
+    "camp-lo-black-connection": {
+      "image": "assets/graffiti/camp-lo-black-connection-alpha.webp",
+      "sha256": "85001196f113b0efbf467ab99e89968ea19ce14d3727849630fe00429c1cacb8"
+    },
+    "the-roots-mellow-my-man": {
+      "image": "assets/graffiti/the-roots-mellow-my-man-alpha.webp",
+      "sha256": "b9abd2067bd079cf34b0ef1d8522e6ece30e5e96efd7b86659aa80e4e7f82363"
+    },
+    "the-notorious-big-skys-the-limit": {
+      "image": "assets/graffiti/the-notorious-big-skys-the-limit-alpha.webp",
+      "sha256": "608637a0e342e74a342c2dbd5ac2cf27470f235cbfcb85438f90d1de6a6c17ce"
+    },
+    "black-eyed-peas-duet": {
+      "image": "assets/graffiti/black-eyed-peas-duet-alpha.webp",
+      "sha256": "fd7af39783536e5a22e7ea371414ce016f12b5c44bc1de9eb058c5a68a08cb28"
+    },
+    "grand-puba-proper-education": {
+      "image": "assets/graffiti/grand-puba-proper-education-alpha.webp",
+      "sha256": "689e8843c3f0120d69d3a3b5a46577d295dd6558deb87495e1032d9c516d93fb"
+    },
+    "krs-one-uh-oh": {
+      "image": "assets/graffiti/krs-one-uh-oh-alpha.webp",
+      "sha256": "2cb52fbe770038628097f08c97cf10d4f92b0737e20ce6ceda6452401395d2e3"
+    },
+    "fugees-vocab": {
+      "image": "assets/graffiti/fugees-vocab-alpha.webp",
+      "sha256": "a04af2a2d3a1b468d7e5c867071ec96392a9f2fc7e018fe75eab3851818a1085"
+    },
+    "a-tribe-called-quest-verses-from-the-abstract": {
+      "image": "assets/graffiti/a-tribe-called-quest-verses-from-the-abstract-alpha.webp",
+      "sha256": "ea00313351956afca8355e59a539d104850967e737535f0a6eeb2c9c0082a258"
+    },
+    "pete-rock-cl-smooth-soul-brother-1": {
+      "image": "assets/graffiti/pete-rock-cl-smooth-soul-brother-1-alpha.webp",
+      "sha256": "61d2bf3844cad6d554f3d3ea466332fe95e33008ddc96c4b0bf17eefe4217f65"
+    },
+    "diamond-d-flowin": {
+      "image": "assets/graffiti/diamond-d-flowin-alpha.webp",
+      "sha256": "1db0b75fb8890a4f0034552419f4ada0c5dd7888148ad2f35290dd4c5d897a4f"
+    },
+    "ini-grown-man-sport": {
+      "image": "assets/graffiti/ini-grown-man-sport-alpha.webp",
+      "sha256": "7ed5d5a5826d83ad2fddccbee82dd0a6b5fcf894f6e9718ea4caed539d79f8bb"
+    },
+    "large-professor-hungry": {
+      "image": "assets/graffiti/large-professor-hungry-alpha.webp",
+      "sha256": "bc7a92e7748496436f887cf9d56f0081af0ac32d1c6f99ac8c3a929244a02deb"
+    },
+    "j-dilla-body-movin": {
+      "image": "assets/graffiti/j-dilla-body-movin-alpha.webp",
+      "sha256": "edd5066cdafac0e4c9753a354a4bce56bf084b83946f95cd66535fe0475eb94c"
+    },
+    "deltron-3030-mastermind": {
+      "image": "assets/graffiti/deltron-3030-mastermind-alpha.webp",
+      "sha256": "27a9bf568e2c933be3bc6e39170e00eceed261b15310c5c63b41d341f4b4e64a"
+    },
+    "flying-lotus-melt": {
+      "image": "assets/graffiti/flying-lotus-melt-alpha.webp",
+      "sha256": "a14f8c388f73cbecb7e5e1740dd75758f61acf839967429a1c2a2aaed21bcff2"
+    },
+    "common-start-the-show": {
+      "image": "assets/graffiti/common-start-the-show-alpha.webp",
+      "sha256": "4ac0e9f513c856718ee497688ad9072004c7f4d1fa120330f1a84c3b34bd496c"
+    },
+    "the-roots-criminal": {
+      "image": "assets/graffiti/the-roots-criminal-alpha.webp",
+      "sha256": "3fca216fe5107ba141c54cae15cbe91002723bac4b6d2aa03951c9444393bdbe"
+    },
+    "mos-def-crime-medicine": {
+      "image": "assets/graffiti/mos-def-crime-medicine-alpha.webp",
+      "sha256": "894f1638f157967b1afb232594e41fd2f1764f026bb0dc488d9f910e6daa2836"
+    },
+    "krs-one-marley-marl-the-victory": {
+      "image": "assets/graffiti/krs-one-marley-marl-the-victory-alpha.webp",
+      "sha256": "4c2de77370ba2c659d51feedb4cb131ae36340dd19ae453c2c4766421666fe7f"
+    },
+    "handsome-boy-modeling-school-if-it-wasnt-for-you": {
+      "image": "assets/graffiti/handsome-boy-modeling-school-if-it-wasnt-for-you-alpha.webp",
+      "sha256": "e9efcc484beedf6fa3a4351a8c2b9ac21502561497e7ec3eeb4a8e9dd0c0576c"
+    },
+    "cipher-complete-bring-hip-hop-back": {
+      "image": "assets/graffiti/cipher-complete-bring-hip-hop-back-alpha.webp",
+      "sha256": "9e312f6c6b9ad6c47986dbe573f97fb1fe75bf5b17a280902350d9d076c26212"
+    },
+    "common-like-they-used-to-say": {
+      "image": "assets/graffiti/common-like-they-used-to-say-alpha.webp",
+      "sha256": "949ee0165dc022eaf99fd4f20023efe6f7de8d340018df5498543e94138cfc7e"
+    },
+    "black-eyed-peas-que-dices": {
+      "image": "assets/graffiti/black-eyed-peas-que-dices-alpha.webp",
+      "sha256": "32103444a21373810d98d86d1c0c575cd222f9e122a4a18766adfddd73903314"
+    },
+    "shadez-of-brooklyn-change": {
+      "image": "assets/graffiti/shadez-of-brooklyn-change-alpha.webp",
+      "sha256": "17c0d24f71ea585f69349da699990dcb85b34bf168a6816430b88aaa3e0ddd25"
+    },
+    "brand-nubian-love-vs-hate": {
+      "image": "assets/graffiti/brand-nubian-love-vs-hate-alpha.webp",
+      "sha256": "c83814a152a27c846410f959884299c9eaf73087d04ecbda534c7035381aa9c9"
+    },
+    "trends-of-culture-top-ten-interlude": {
+      "image": "assets/graffiti/trends-of-culture-top-ten-interlude-alpha.webp",
+      "sha256": "d32d38a0459528c39d691a77a9a91d9e1dbe3108329911e2677a3f2b28f0ce79"
+    },
+    "dangerdoom-mince-meat": {
+      "image": "assets/graffiti/dangerdoom-mince-meat-alpha.webp",
+      "sha256": "d8f6b9871fd5b3797e79d5f8e8f2be0076d8b07e29b79b82c76f1356e5aef362"
+    },
+    "the-grouch-eligh-everafter": {
+      "image": "assets/graffiti/the-grouch-eligh-everafter-alpha.webp",
+      "sha256": "93c0741eba0eb26df7fc8300de019dfcca999abda611d2dc6e2753f10962256f"
+    },
+    "the-beatnuts-fried-chicken": {
+      "image": "assets/graffiti/the-beatnuts-fried-chicken-alpha.webp",
+      "sha256": "7de4a2e678c051077c176837712f2b10435ebe8e81aaca68bfce358b57067b71"
+    },
+    "the-beatnuts-let-off-a-couple": {
+      "image": "assets/graffiti/the-beatnuts-let-off-a-couple-alpha.webp",
+      "sha256": "68476298d71c700fe6e5370dddc5a1287b4b4bb9df51b8e5d95678f31f55cf91"
+    },
+    "a-tribe-called-quest-lyrics-to-go": {
+      "image": "assets/graffiti/a-tribe-called-quest-lyrics-to-go-alpha.webp",
+      "sha256": "609219a535e1c08d9c8b97213db13009f0e3bc2e5efd9b4dc8e62f1c51543b80"
+    },
+    "tha-alkaholiks-daaam-buckwild-remix": {
+      "image": "assets/graffiti/tha-alkaholiks-daaam-buckwild-remix-alpha.webp",
+      "sha256": "16871a365446339df5ce284a058f5ef528b2dde3d621b3eed244ef5f6c3b9817"
+    },
+    "beastie-boys-get-it-together": {
+      "image": "assets/graffiti/beastie-boys-get-it-together-alpha.webp",
+      "sha256": "24838c2da7673b1cbe3884ba4b4e788fcb221cf1b3aadbd41047e4dadd35d734"
+    },
+    "cypress-hill-when-the-shit-goes-down": {
+      "image": "assets/graffiti/cypress-hill-when-the-shit-goes-down-alpha.webp",
+      "sha256": "221114b580e13fe513963ea1f615c1bc3f12db558062d657c2de16b33429a174"
+    },
+    "peanut-butter-wolf-run-the-line": {
+      "image": "assets/graffiti/peanut-butter-wolf-run-the-line-alpha.webp",
+      "sha256": "392bfa5d797b432af956d89145c3860958dbabad0b48fc40d70f626e3117f855"
+    },
+    "tha-alkaholiks-wlix": {
+      "image": "assets/graffiti/tha-alkaholiks-wlix-alpha.webp",
+      "sha256": "5f375c1a9d0211731794e54e8e19522a9284537e3cf29fb1555f488b8a04c82b"
+    },
+    "j-dilla-wont-do": {
+      "image": "assets/graffiti/j-dilla-wont-do-alpha.webp",
+      "sha256": "87a56c9d5b9eb79563cc6b7fcf51140ce921a39b2955121108406731541d5dcc"
+    },
+    "madlib-two-for-pay-jay": {
+      "image": "assets/graffiti/madlib-two-for-pay-jay-alpha.webp",
+      "sha256": "2d8ddb44db2e715e3ab27bbbaffdbf4849e575794df53f32cb78017638f67ca8"
+    },
+    "the-roots-stay-cool": {
+      "image": "assets/graffiti/the-roots-stay-cool-alpha.webp",
+      "sha256": "facb143d70d7e930d2794e3e3501d663d8c69248336d414877a2b19e3b6d0d50"
+    },
+    "homeliss-derilex-cash-money": {
+      "image": "assets/graffiti/homeliss-derilex-cash-money-alpha.webp",
+      "sha256": "f69340fa840c188a7535efd3616d452b5a7dcd9b789b19714953395a5e965d33"
+    },
+    "black-star-astronomy-8th-light": {
+      "image": "assets/graffiti/black-star-astronomy-8th-light-alpha.webp",
+      "sha256": "e48c4ddb042ff074463aad5dac7a6369863e72cf9e95ab876c0bbbb8ea1e1a31"
+    },
+    "mf-doom-dead-bent": {
+      "image": "assets/graffiti/mf-doom-dead-bent-alpha.webp",
+      "sha256": "2c1faf4ab8784ee18ce33337174684935b0041a30d9b851596983bdcdb90c24f"
+    },
+    "a-tribe-called-quest-the-pressure": {
+      "image": "assets/graffiti/a-tribe-called-quest-the-pressure-alpha.webp",
+      "sha256": "2c45ef3073edf8421131f375afc99ab0a62389b881f6cc1ce08391eaf30330ea"
+    },
+    "krs-one-the-mc": {
+      "image": "assets/graffiti/krs-one-the-mc-alpha.webp",
+      "sha256": "e4bb0d770ea527e9e498ba32fb0ad925d17787f46a2d6d61ae123c1ebeedd9a6"
+    },
+    "jurassic-5-without-a-doubt": {
+      "image": "assets/graffiti/jurassic-5-without-a-doubt-alpha.webp",
+      "sha256": "18fc7f3e567010608f109ceb6aec22afb43341c0378a1de221fb07f7d6893858"
+    },
+    "the-roots-it-s-comin": {
+      "image": "assets/graffiti/the-roots-it-s-comin-alpha.webp",
+      "sha256": "25929b44816d3482051f3dc5d7ea7d4a024506aff6439b2a782345945d7117bd"
+    },
+    "kmd-stop-smokin-that-shit-vocal": {
+      "image": "assets/graffiti/kmd-stop-smokin-that-shit-vocal-alpha.webp",
+      "sha256": "e884cbf0c49b776e7fa4e7f9badbec75d4b0ae646e9cbc8c77cc67a138708807"
+    },
+    "people-under-the-stairs-the-next-step-ii": {
+      "image": "assets/graffiti/people-under-the-stairs-the-next-step-ii-alpha.webp",
+      "sha256": "b3e929b801b43417832616e544ba5c9bb1dda9147eaa0f87d9c690266e9359e5"
+    },
+    "lone-catalysts-lone-catalysts-instrumental": {
+      "image": "assets/graffiti/lone-catalysts-lone-catalysts-instrumental-alpha.webp",
+      "sha256": "a050d2e5e3ad0ba11179e7ab16c66df52ae30c6666bac660e0a4df688658d3d3"
+    },
+    "jurassic-5-unified-rebelution": {
+      "image": "assets/graffiti/jurassic-5-unified-rebelution-alpha.webp",
+      "sha256": "62dacc9fc36c23eca7ed1314e58293f16712a8321651a645b40194842ac766e1"
+    },
+    "ugly-duckling-everybody-c-mon": {
+      "image": "assets/graffiti/ugly-duckling-everybody-c-mon-alpha.webp",
+      "sha256": "de2f19105afc48d0622316a30700c50307d9f21408f6c9a73424c11054948b6b"
+    },
+    "lootpack-the-anthem": {
+      "image": "assets/graffiti/lootpack-the-anthem-alpha.webp",
+      "sha256": "b470d80ef3a0099088a103abadb4a22e44291e09e85d458551d12ffb88f93dd9"
+    },
+    "the-beatnuts-worlds-famous": {
+      "image": "assets/graffiti/the-beatnuts-worlds-famous-alpha.webp",
+      "sha256": "cb4f11514e84b863febc15bf1358fe0642254bdbfcd88290516a2647e70d26a2"
+    },
+    "jeru-the-damaja-come-clean-instrumental": {
+      "image": "assets/graffiti/jeru-the-damaja-come-clean-instrumental-alpha.webp",
+      "sha256": "8525813606d7654a6aa99cc561c523d192c938e1974beadc941304418f244c21"
+    },
+    "the-beatnuts-yeah-you-get-props": {
+      "image": "assets/graffiti/the-beatnuts-yeah-you-get-props-alpha.webp",
+      "sha256": "470721d32e342ef95182df18026158652bce93e8aa0c5649f28072232b2f1fac"
+    },
+    "krs-one-p-is-still-free": {
+      "image": "assets/graffiti/krs-one-p-is-still-free-alpha.webp",
+      "sha256": "a2eeb87e16546f626ba8e95504111e20f3575f32522d89a66fd49783936059ba"
+    },
+    "epmd-get-off-the-bandwagon": {
+      "image": "assets/graffiti/epmd-get-off-the-bandwagon-alpha.webp",
+      "sha256": "70b040b1c39b09de8a36e0bf276030463b5d6ce2952704951778a5a54a65df9b"
+    },
+    "gang-starr-playtawin": {
+      "image": "assets/graffiti/gang-starr-playtawin-alpha.webp",
+      "sha256": "df88ce75a2622200740d53d16c434f9fd39e5c53253b8063972c35f2daafa824"
+    },
+    "mos-def-champion-requiem": {
+      "image": "assets/graffiti/mos-def-champion-requiem-alpha.webp",
+      "sha256": "d6518133517abaa8fe884e7e64f3da09f1af091990b90e75d882307a03a44352"
+    },
+    "nas-my-way": {
+      "image": "assets/graffiti/nas-my-way-alpha.webp",
+      "sha256": "60e6b34a2f432d60c95bd1f618d53d988ca12fbcda3c6dda218d45857c76329a"
+    },
+    "a-tribe-called-quest-excursions": {
+      "image": "assets/graffiti/a-tribe-called-quest-excursions-alpha.webp",
+      "sha256": "119bab71ec3e55d6749ecb0d563e487e866ffc686b87cf79fca2f78743042506"
+    },
+    "pete-rock-cl-smooth-in-the-flesh": {
+      "image": "assets/graffiti/pete-rock-cl-smooth-in-the-flesh-alpha.webp",
+      "sha256": "d10c599f45fc239d4ecef65834d40c04381ce975d468fbb248b76b7c0caa99c8"
+    },
+    "nas-n-y-state-of-mind-pt-ii": {
+      "image": "assets/graffiti/nas-n-y-state-of-mind-pt-ii-alpha.webp",
+      "sha256": "72867e05cba9b9a1dcbbbb4b45048dae5b64af4f772af73601eb5e9cafe69c72"
+    },
+    "common-chi-city": {
+      "image": "assets/graffiti/common-chi-city-alpha.webp",
+      "sha256": "02fc1e7f908948d2077c46f11a89bee2d522fe2789658bf316d7fcdafe557651"
+    },
+    "common-the-corner": {
+      "image": "assets/graffiti/common-the-corner-alpha.webp",
+      "sha256": "23fb5f1b89e2007aa6c2dfca543e6f660ee3f8919279df6862e8e898a486a762"
+    },
+    "common-the-food-live": {
+      "image": "assets/graffiti/common-the-food-live-alpha.webp",
+      "sha256": "e69e44c5e1b9637b6a96a9a1cfc2d8e5a9dc1dffe0b3b066c055f42e3fa8389f"
+    },
+    "masta-ace-good-ol-love": {
+      "image": "assets/graffiti/masta-ace-good-ol-love-alpha.webp",
+      "sha256": "b893d31c708b383bbb9123d57d13bdab63fd49bb7ff1d1ced960e256478a8458"
+    },
+    "med-cant-hold-on": {
+      "image": "assets/graffiti/med-cant-hold-on-alpha.webp",
+      "sha256": "c92d7860234e797cab43ace6504ad07fc607a09a4f01f5115fe2d8806ee92e83"
+    },
+    "med-where-im-from": {
+      "image": "assets/graffiti/med-where-im-from-alpha.webp",
+      "sha256": "7d2ec442e8986f6d46fe01e14f814d2d4e0d66529e0f9a447f2bb7eba13153b0"
+    },
+    "jurassic-5-improvise": {
+      "image": "assets/graffiti/jurassic-5-improvise-alpha.webp",
+      "sha256": "1277f32467038a21bd8999fae38cbe54df4c3b5578ccbd258c4c6dbe838518ac"
+    },
+    "living-legends-brand-new": {
+      "image": "assets/graffiti/living-legends-brand-new-alpha.webp",
+      "sha256": "326c3b12794dde7f03479686bd5539b162d8032bd1015c9e604dd749165f2412"
+    },
+    "living-legends-blast-your-radio": {
+      "image": "assets/graffiti/living-legends-blast-your-radio-alpha.webp",
+      "sha256": "c745049d8088d28fe3d57491faa6acb259fff38b7d98e5151625e8c43a2be8d8"
+    },
+    "living-legends-even-though": {
+      "image": "assets/graffiti/living-legends-even-though-alpha.webp",
+      "sha256": "31cc01c3ec992dc8734156c37a9b239aeb0a14685e551c26fae1a4cf32f2a9ad"
+    },
+    "living-legends-never-fallin": {
+      "image": "assets/graffiti/living-legends-never-fallin-alpha.webp",
+      "sha256": "ee2f865d381e5a2c4f2d9f8b4ee40e7c82dc10c34db146d4916e0ee6f2d7d3ac"
+    },
+    "visionaries-blessings": {
+      "image": "assets/graffiti/visionaries-blessings-alpha.webp",
+      "sha256": "f22bb330fb9590dffe486e2edef9c1d33d30c4c3417f56ae72c2729dace0eee6"
+    },
+    "visionaries-sight-for-sore-eyes": {
+      "image": "assets/graffiti/visionaries-sight-for-sore-eyes-alpha.webp",
+      "sha256": "94a9b97b740cb0a165a830b8522aa225867eae832903bfe273196db4dec0d3d8"
+    },
+    "lmno-hit": {
+      "image": "assets/graffiti/lmno-hit-alpha.webp",
+      "sha256": "e2496f1e65dbb1405243d4dd2845d1dfa8651b7a390bc46fa433f122a01132ec"
+    },
+    "pitch-black-its-all-real": {
+      "image": "assets/graffiti/pitch-black-its-all-real-alpha.webp",
+      "sha256": "402af06de23c3403f2f57b44df70437ac0864a02f47de23936d95fcb20fce4b7"
+    },
+    "time-machine-mind-in-a-spin": {
+      "image": "assets/graffiti/time-machine-mind-in-a-spin-alpha.webp",
+      "sha256": "96cfb02e79f43b4ae641ad1992ac8e3c916c4d196b810b26a195bc240af27824"
+    },
+    "method-man-say-what": {
+      "image": "assets/graffiti/method-man-say-what-alpha.webp",
+      "sha256": "05250a1aa8a37320305e46d38502ccc321ee08b30034b0b4811a6ba4e49bf97e"
+    },
+    "wu-tang-clan-soul-power": {
+      "image": "assets/graffiti/wu-tang-clan-soul-power-alpha.webp",
+      "sha256": "1034281f4d978f3215f4efec221282e6ffdfd9f516791307f54069f0d3706bec"
+    },
+    "large-professor-the-beginning": {
+      "image": "assets/graffiti/large-professor-the-beginning-alpha.webp",
+      "sha256": "663bef18db9d13130d4d3b36bd6a1c2e7fc3e112ddebc6116c9267f88337355c"
+    },
+    "masta-ace-hood": {
+      "image": "assets/graffiti/masta-ace-hood-alpha.webp",
+      "sha256": "245cb3edd3a1b318842d30d7b0c13f3d19722cc7bde85f2d0c0439489d52daab"
+    },
+    "finsta-bundy-bizm": {
+      "image": "assets/graffiti/finsta-bundy-bizm-alpha.webp",
+      "sha256": "f1982961327c4c81579c42b3d07d03fc9f97e7e7dc69b94c32871a5de077e3fa"
+    },
+    "mhz-absotively-posolutely": {
+      "image": "assets/graffiti/mhz-absotively-posolutely-alpha.webp",
+      "sha256": "e1790204e7e229701155c6f62aad0146d874e31655eca6acbc630013cccf427c"
+    },
+    "nas-rewind": {
+      "image": "assets/graffiti/nas-rewind-alpha.webp",
+      "sha256": "ab6ce0bc6d231616f701241bc7e9319d46b5ba368fced1d9d31b122f065e669d"
+    },
+    "kendrick-lamar-the-art-of-peer-pressure": {
+      "image": "assets/graffiti/kendrick-lamar-the-art-of-peer-pressure-alpha.webp",
+      "sha256": "d882c5c409c4f9f9c57e949ad437bb32d62d6b46b3b6ccaebceb4d9acef9d4cd"
+    },
+    "quasimoto-green-power-original": {
+      "image": "assets/graffiti/quasimoto-green-power-original-alpha.webp",
+      "sha256": "87e3b5447133e86aeef1185630bc7f6441b40f935b9411953529947e00779e45"
+    },
+    "gza-duel-of-the-iron-mic": {
+      "image": "assets/graffiti/gza-duel-of-the-iron-mic-alpha.webp",
+      "sha256": "5bc9aa4b48fe06fb4e624dca147e38ebad1c08ffc671dde264c1d1aab08a51ea"
+    },
+    "redman-rated-r": {
+      "image": "assets/graffiti/redman-rated-r-alpha.webp",
+      "sha256": "2d5338f7b2c05898f11266945a415b44659cd078c83685805bbe8b657723fcbc"
+    },
+    "wu-tang-clan-bells-of-war": {
+      "image": "assets/graffiti/wu-tang-clan-bells-of-war-alpha.webp",
+      "sha256": "3fd74b7e10ac7745a9e77b2da8f004737d45a1664b778d1ed482589b5d1dd80c"
+    },
+    "common-celebrate": {
+      "image": "assets/graffiti/common-celebrate-alpha.webp",
+      "sha256": "0651af792993ce6dad777b27a0286a36fdbff36956cc1c6cefad238f79fc2b0a"
+    },
+    "kid-cudi-make-her-say": {
+      "image": "assets/graffiti/kid-cudi-make-her-say-alpha.webp",
+      "sha256": "05efebd8a0046130b0a5fdd1ba3ede32c2b6f186249ec17791aacdee57fb0e45"
+    },
+    "dj-shadow-cut-chemist-brainfreeze": {
+      "image": "assets/graffiti/dj-shadow-cut-chemist-brainfreeze-alpha.webp",
+      "sha256": "7215d1ec49591525037f56e92c3c4a762e49c181e40c4490edd9c11d3a8d74b1"
+    },
+    "dj-shadow-cut-chemist-product-placement-on-tour": {
+      "image": "assets/graffiti/dj-shadow-cut-chemist-product-placement-on-tour-alpha.webp",
+      "sha256": "3ededae1ef0c4beef0806236784c79a20d5000fac66925a4485aa28232535a5a"
+    },
+    "dj-shadow-mutual-slump": {
+      "image": "assets/graffiti/dj-shadow-mutual-slump-alpha.webp",
+      "sha256": "9a63776fcaf8558d641c78c8c4b9e1edd1b0eb9c06d0d7c3466267e153a683a7"
+    },
+    "dj-shadow-napalm-brain-scatter-brain": {
+      "image": "assets/graffiti/dj-shadow-napalm-brain-scatter-brain-alpha.webp",
+      "sha256": "27325fdc5e683ca8547e75aab8bed2e516b819388e5465542db9ad0351b5369e"
+    },
+    "dj-shadow-changeling": {
+      "image": "assets/graffiti/dj-shadow-changeling-alpha.webp",
+      "sha256": "c02cac0800c4748270064ff900c8a33b73a824f1ce2a0b73d1786dfe87a80b5d"
+    },
+    "dj-shadow-monosylabik": {
+      "image": "assets/graffiti/dj-shadow-monosylabik-alpha.webp",
+      "sha256": "c4a8f1b729bd6e7156d6bf51eb5489ba338f0e51e8c9c5e8e5ed8342e6a479fc"
+    },
+    "dj-shadow-you-cant-go-home-again": {
+      "image": "assets/graffiti/dj-shadow-you-cant-go-home-again-alpha.webp",
+      "sha256": "0df221c7b997e60fba913dc931b11034b11afc1d343e7be1b1fbd47320ce5116"
+    },
+    "dj-shadow-cut-chemist-freeze-live-video": {
+      "image": "assets/graffiti/dj-shadow-cut-chemist-freeze-live-video-alpha.webp",
+      "sha256": "af64c57b40fe9a100d72ac6ea7887f672dd60370189365719cf9adb7d8feeb78"
+    },
+    "dj-shadow-cut-chemist-product-placement-live-video": {
+      "image": "assets/graffiti/dj-shadow-cut-chemist-product-placement-live-video-alpha.webp",
+      "sha256": "305c2f7f5462680ebc09be01c4a1393696fd153bd3b8a115eaeb6598bb848866"
+    },
+    "j-dilla-donuts": {
+      "image": "assets/graffiti/j-dilla-donuts-alpha.webp",
+      "sha256": "b7c2ad3e37151cacfadb51c2cdb0351031b76d6261be83b503cdac56178828fe"
+    },
+    "dr-octagon-bear-witness": {
+      "image": "assets/graffiti/dr-octagon-bear-witness-alpha.webp",
+      "sha256": "b0d25431b2154a6ae4f893fc38b8518ac3b0dbbd3551b60e302b3bbbf3759670"
+    },
+    "public-enemy-contract-on-the-world-love-jam": {
+      "image": "assets/graffiti/public-enemy-contract-on-the-world-love-jam-alpha.webp",
+      "sha256": "038776b13142fac01fe42d045fa13dd296e704f574d54236c5e2a918be7adc7c"
+    },
+    "pete-rock-tha-game": {
+      "image": "assets/graffiti/pete-rock-tha-game-alpha.webp",
+      "sha256": "0aaa7a93decdd6587b05c7865047417f237f2c7018e08136cc1269a84d248b0b"
+    },
+    "kanye-west-through-the-wire": {
+      "image": "assets/graffiti/kanye-west-through-the-wire-alpha.webp",
+      "sha256": "99b5e3274cbb64d177c2c8c41814edb7389e7aa6f68b6ff7a1fffc4121b2b9e4"
+    },
+    "the-beatnuts-third-of-the-trio": {
+      "image": "assets/graffiti/the-beatnuts-third-of-the-trio-alpha.webp",
+      "sha256": "29ceeaf90adc6ab9116b84ff26314a631f494791fe2c3d622c1966726b8c5e73"
+    },
+    "epmd-scratch-bring-it-back-part-2": {
+      "image": "assets/graffiti/epmd-scratch-bring-it-back-part-2-alpha.webp",
+      "sha256": "f937f2401932b5c20ccc2b938becf1574c6a3d2a9e72a5c9a119bac3a27b6c2d"
+    },
+    "smif-n-wessun-wrektime": {
+      "image": "assets/graffiti/smif-n-wessun-wrektime-alpha.webp",
+      "sha256": "46dd45877ae2d1f9f2086d960c5ba12f4adb267e5e7e33929d0ca928dc9dbe02"
+    },
+    "brand-nubian-step-into-da-cipher": {
+      "image": "assets/graffiti/brand-nubian-step-into-da-cipher-alpha.webp",
+      "sha256": "c4dd24a9c4d6e09674643a681ce55e233f7cac3a5c4d4ea12079d04b60c9e300"
+    },
+    "redman-a-day-of-sooperman-lover": {
+      "image": "assets/graffiti/redman-a-day-of-sooperman-lover-alpha.webp",
+      "sha256": "a8f023b35a7d019b5745a0ed9628bdf80287ac1c0b5302ecd3e63130487426ef"
+    },
+    "showbiz-a-g-hold-ya-head": {
+      "image": "assets/graffiti/showbiz-a-g-hold-ya-head-alpha.webp",
+      "sha256": "2e01edfb02cecf038b3301ce11027b0ff40dacbd517284e497300fea54b92972"
+    },
+    "artifacts-whassup-now-muthafucka": {
+      "image": "assets/graffiti/artifacts-whassup-now-muthafucka-alpha.webp",
+      "sha256": "b6da85736f9010729254d7ce63e439736ce76dc1505e59aa5272f2f29410bc78"
+    },
+    "diamond-the-psychotic-neurotics-i-went-for-mine": {
+      "image": "assets/graffiti/diamond-the-psychotic-neurotics-i-went-for-mine-alpha.webp",
+      "sha256": "ceeb3ff3ed9e0feab200a4e9285acda984858e157dcc36e4aec58fb7c446cfaa"
+    },
+    "wu-tang-clan-method-man": {
+      "image": "assets/graffiti/wu-tang-clan-method-man-alpha.webp",
+      "sha256": "1eed0bc4335ae9c6e0088d49ba61f4faf19e32f49a65b922a128ac709ce5046e"
+    },
+    "wu-tang-clan-triumph": {
+      "image": "assets/graffiti/wu-tang-clan-triumph-alpha.webp",
+      "sha256": "81dc16b319c1fe41eefae6a422925528719c6cf055b39a07a1f5e2bcb553adbc"
+    },
+    "wu-tang-clan-aint-nuthing-ta-f-wit": {
+      "image": "assets/graffiti/wu-tang-clan-aint-nuthing-ta-f-wit-alpha.webp",
+      "sha256": "f2f762173439510f0a561cd7f0791c6ed894b96fbdb7512c38df5d2eb942af60"
+    },
+    "wu-tang-clan-da-mystery-of-chessboxin": {
+      "image": "assets/graffiti/wu-tang-clan-da-mystery-of-chessboxin-alpha.webp",
+      "sha256": "a3b52a650a0979ae9d1dbc6f084d846ddb356712798a1c79de8f184540823eba"
+    },
+    "hassaan-mackey-apollo-brown-something": {
+      "image": "assets/graffiti/hassaan-mackey-apollo-brown-something-alpha.webp",
+      "sha256": "7f3992b7f4f7d6dbc9779c668a4ef4f97b922e0f4a698317bea1394699cc7b60"
+    },
+    "nas-halftime": {
+      "image": "assets/graffiti/nas-halftime-alpha.webp",
+      "sha256": "599a6ae9cffa2b19432befd20b031a4f341af596a645663e1c2d6e7dc90d58f4"
+    },
+    "cash-money-marvelous-ugly-people-be-quiet": {
+      "image": "assets/graffiti/cash-money-marvelous-ugly-people-be-quiet-alpha.webp",
+      "sha256": "a94db705740ea28ed4dd67ffc393a649b233981d554b4829beed1bf1f6ae375f"
+    },
+    "cash-money-marvelous-ugly-people-be-quiet-dj-cash-money-remix": {
+      "image": "assets/graffiti/cash-money-marvelous-ugly-people-be-quiet-dj-cash-money-remix-alpha.webp",
+      "sha256": "824d3e1dea69896f157e065ce64f1b79654a7c5ecf80f4150c72d956f959522f"
+    },
+    "cash-money-marvelous-the-mighty-hard-rocker": {
+      "image": "assets/graffiti/cash-money-marvelous-the-mighty-hard-rocker-alpha.webp",
+      "sha256": "6e20242e10adfb3d331cacfd91e038510a4695c3c17cacce7fb81ddc33515ece"
+    },
+    "med-classic": {
+      "image": "assets/graffiti/med-classic-alpha.webp",
+      "sha256": "d29d25e2e2bc5796bcf0bae7b8f3a7f4f363f04ae9e1e41ffac046186015895e"
+    },
+    "sugarhill-gang-rappers-delight": {
+      "image": "assets/graffiti/sugarhill-gang-rappers-delight-alpha.webp",
+      "sha256": "752ba061a51522000eb466066f630f1e9f7b6f4f7fc61a4c4f3908e473bafead"
+    },
+    "grandmaster-flash-the-furious-five-the-message": {
+      "image": "assets/graffiti/grandmaster-flash-the-furious-five-the-message-alpha.webp",
+      "sha256": "01ef4b0fe4c1a58dc6c2b769f903f245b2bc829bc4fc88faef2ce1cbb573f018"
+    },
+    "run-dmc-walk-this-way": {
+      "image": "assets/graffiti/run-dmc-walk-this-way-alpha.webp",
+      "sha256": "cea0e37ca525aaa7bc1f0c9c12fa4fbf35b32b66879cfd97301279391bed1315"
+    },
+    "madvillain-figaro": {
+      "image": "assets/graffiti/madvillain-figaro-alpha.webp",
+      "sha256": "da9ecac093f382a670ff672f7ce97f95eef60fad926b3b39dd559d0c4212ab77"
+    },
+    "de-la-soul-me-myself-and-i": {
+      "image": "assets/graffiti/de-la-soul-me-myself-and-i-alpha.webp",
+      "sha256": "0d969046205a89e100a396fc84f9a4ef08e7d92b6098aeec09e503022eb4dbc2"
+    },
+    "blu-amnesia": {
+      "image": "assets/graffiti/blu-amnesia-alpha.webp",
+      "sha256": "73d893c979aabb52d54024b638c888c3ed5dcdf9102227c5955dd2c7c12dccef"
+    },
+    "med-push": {
+      "image": "assets/graffiti/med-push-alpha.webp",
+      "sha256": "49f96b4e6d6744baaa4fbde74b5e3cfc5149d7c23948cd06682a32595a54f02a"
+    },
+    "med-aint-bragging": {
+      "image": "assets/graffiti/med-aint-bragging-alpha.webp",
+      "sha256": "f37d2d1e44efe23c48a7a6f72ab8e93080cbe2d66d5c2511bbcf393504b70691"
+    },
+    "planet-asia-madlib-masonic-vocals": {
+      "image": "assets/graffiti/planet-asia-madlib-masonic-vocals-alpha.webp",
+      "sha256": "2334270228c853d2a5bec4c8b6486dc1b23b42d3e94dbe276d15d9473922812a"
+    },
+    "strong-arm-steady-all-the-brothers": {
+      "image": "assets/graffiti/strong-arm-steady-all-the-brothers-alpha.webp",
+      "sha256": "56816ff527b74eb420cab774122ec58b1b819ac51d97d38f70e9e249c169a4b8"
+    },
+    "funkdoobiest-lost-in-thought": {
+      "image": "assets/graffiti/funkdoobiest-lost-in-thought-alpha.webp",
+      "sha256": "40a4aa6639476729d698fa067671c829fafc37c80afabce3235c3eef65f013e0"
+    },
+    "freddie-gibbs-madlib-shame": {
+      "image": "assets/graffiti/freddie-gibbs-madlib-shame-alpha.webp",
+      "sha256": "902f44c993e427b3f91688a8dffe4c468a76544b12611870d1a8d72fb61ab4cd"
+    },
+    "freddie-gibbs-madlib-knicks": {
+      "image": "assets/graffiti/freddie-gibbs-madlib-knicks-alpha.webp",
+      "sha256": "11973f7279232f3952352f6fea468a3eb587aa911885d5a4c3702a283bc2e4d5"
+    },
+    "skepta-no-sleep": {
+      "image": "assets/graffiti/skepta-no-sleep-alpha.webp",
+      "sha256": "3742d1f76ac496bd132b9c4c2f9022a56c307c6b73896ea37e06eac1efd2c447"
+    },
+    "j-dilla-baby": {
+      "image": "assets/graffiti/j-dilla-baby-alpha.webp",
+      "sha256": "456f53deca1f27e8beb4ec24cf7d4b3618e7c79c2b7c943a14b4f0e8d30a181d"
+    },
+    "strong-arm-steady-chittlins-pepsi": {
+      "image": "assets/graffiti/strong-arm-steady-chittlins-pepsi-alpha.webp",
+      "sha256": "ed62cb2053118146a845c1d144ed9f429718c3faee455ca925df36a25efc8dbc"
+    },
+    "anderson-paak-the-waters": {
+      "image": "assets/graffiti/anderson-paak-the-waters-alpha.webp",
+      "sha256": "9dd3180de38c4d0fbc55c8e3eab6bd4ac3d43ebb59777e582d61cd2241a10f5c"
+    },
+    "femdot-rap-city": {
+      "image": "assets/graffiti/femdot-rap-city-alpha.webp",
+      "sha256": "14b31dbaa1cec995594fb90d0bb93a04f5337850431ee01a8b60eded05571c00"
+    },
+    "smino-klink": {
+      "image": "assets/graffiti/smino-klink-alpha.webp",
+      "sha256": "bba3a39e9c8e9fda4d9169ff50a0f4a954b17d0276dc27f176e20d71d334f93e"
+    },
+    "sonny-digital-black-boe-up": {
+      "image": "assets/graffiti/sonny-digital-black-boe-up-alpha.webp",
+      "sha256": "fcecd49786df4be471893fb679b35726220da9cd229727d8c1eceac8b795886e"
+    },
+    "earthgang-bank": {
+      "image": "assets/graffiti/earthgang-bank-alpha.webp",
+      "sha256": "1fe92d1515e90d42d2899cec8c5337617dce4c2b771cf54bccc39ff378eb8e2f"
+    },
+    "offset-clout": {
+      "image": "assets/graffiti/offset-clout-alpha.webp",
+      "sha256": "bb2a3b290fac046b44c056fdccf40327db2fcf8c4cf682a35efa804928dc181e"
+    },
+    "jid-off-da-zoinkys": {
+      "image": "assets/graffiti/jid-off-da-zoinkys-alpha.webp",
+      "sha256": "93726620a2a1e0588eebed19b3a278293d237a64b8a81307ac0d1b1de92e2969"
+    },
+    "21-savage-a-lot": {
+      "image": "assets/graffiti/21-savage-a-lot-alpha.webp",
+      "sha256": "ec757b1570898d608e0b4c07bc92283c7eabc9313a64a259ec85aa6303363262"
+    },
+    "reason-trapped-in": {
+      "image": "assets/graffiti/reason-trapped-in-alpha.webp",
+      "sha256": "17b54e5c0ffc2c08f37dcface626f9377371d124f5ab836d79a220d055d1cc04"
+    },
+    "vince-staples-hell-bound": {
+      "image": "assets/graffiti/vince-staples-hell-bound-alpha.webp",
+      "sha256": "00a76a9288f1a5240a1a1d85fed97ef3084a3f5fdec2443e2f6d2d95c2b081b3"
+    },
+    "kari-faux-medicated": {
+      "image": "assets/graffiti/kari-faux-medicated-alpha.webp",
+      "sha256": "b18e587f7a1117aba1ae00de053349138da340180f7adb6792be0f931cf1812a"
+    },
+    "maxo-kream-drizzy-draco": {
+      "image": "assets/graffiti/maxo-kream-drizzy-draco-alpha.webp",
+      "sha256": "9015a016bded91a2b8c78bdeccee385cc0d3bc7cc229c6cd9f3dd06b5e6a8256"
+    },
+    "wiki-fee-fi-fo-fum": {
+      "image": "assets/graffiti/wiki-fee-fi-fo-fum-alpha.webp",
+      "sha256": "1489b2fe1c96a5284a0c70e33aadbb338cdd3d576d07eaa3651231ded55dc38d"
+    },
+    "smoke-dza-currensy-boats-and-hoes": {
+      "image": "assets/graffiti/smoke-dza-currensy-boats-and-hoes-alpha.webp",
+      "sha256": "eb8f44b9742e1bf6c2ae49e31c9845098c85745b7881bc2fe6a655d190aa21e1"
+    },
+    "oshun-burn": {
+      "image": "assets/graffiti/oshun-burn-alpha.webp",
+      "sha256": "b676ce627a964cf43ff44b656c191967e35b76dc4a9861c26d5aa0e6a7fdc052"
+    },
+    "larry-june-oranges-on-a-jet": {
+      "image": "assets/graffiti/larry-june-oranges-on-a-jet-alpha.webp",
+      "sha256": "b52725215b23aaffc4ac7ac5c00e8aab38a309ba6430ede0fe9e036443b37916"
+    },
+    "larry-june-mission-bay": {
+      "image": "assets/graffiti/larry-june-mission-bay-alpha.webp",
+      "sha256": "59d8a00c44072c7dfe9c3344de65df6e606bc3f173b4af78b928c038bfebe8eb"
+    },
+    "maez301-eff-u-thought": {
+      "image": "assets/graffiti/maez301-eff-u-thought-alpha.webp",
+      "sha256": "4ca7ddfd6c0dacefd29b1e2806685545517a33813c73324166f12874f564951f"
+    },
+    "big-kahuna-og-fly-anakin-tech-grey-sweats": {
+      "image": "assets/graffiti/big-kahuna-og-fly-anakin-tech-grey-sweats-alpha.webp",
+      "sha256": "ed2c07fa0a36e636fa6c85597a6d8480d5ef1d6fdc54991adbe356f4f870c315"
+    },
+    "not-pressure": {
+      "image": "assets/graffiti/not-pressure-alpha.webp",
+      "sha256": "6831ce0bae1bc3435009521a8c5568bb6c505dabffa8133a87541d78292427cc"
+    },
+    "lute-ged": {
+      "image": "assets/graffiti/lute-ged-alpha.webp",
+      "sha256": "3e22dbd73c5c9d7408366e29282caca2d99e758304f579b1deec093f41feb142"
+    },
+    "curren-y-trademark-da-skydiver-young-roddy-still-coolie-in-the-cut": {
+      "image": "assets/graffiti/curren-y-trademark-da-skydiver-young-roddy-still-coolie-in-the-cut-alpha.webp",
+      "sha256": "a3abc11602e9d7c0fb174707dac8b1607540ae83a860d5c2982b2372b22986fc"
+    },
+    "larry-june-something-gotta-change": {
+      "image": "assets/graffiti/larry-june-something-gotta-change-alpha.webp",
+      "sha256": "29204a6b33ce11bb41d266636a5f402a0fc3de3b315d146141b89fe8ca83a4c4"
+    },
+    "kendrick-lamar-poetic-justice": {
+      "image": "assets/graffiti/kendrick-lamar-poetic-justice-alpha.webp",
+      "sha256": "4a55a842e87fd61d06fd011bd36527f29b988de4c6a1d0ff527b810173e464e4"
+    },
+    "bj-the-chicago-kid-feel-the-vibe": {
+      "image": "assets/graffiti/bj-the-chicago-kid-feel-the-vibe-alpha.webp",
+      "sha256": "c21ce72770012261acfa276ce65d56009bb438fe107cac4d81050d09adb1c59e"
+    },
+    "asher-roth-spaceship": {
+      "image": "assets/graffiti/asher-roth-spaceship-alpha.webp",
+      "sha256": "f262c7006ed3734581d16048de259b3f24fb1f6cd5100f7fad39600debf9453a"
+    },
+    "lndn-drgs-uza-trikk-power": {
+      "image": "assets/graffiti/lndn-drgs-uza-trikk-power-alpha.webp",
+      "sha256": "1fb18b6fc601eb3c1158a98463d17cf787cdf782234e08e9a0400edf6287310c"
+    },
+    "young-roddy-half-a-ticket": {
+      "image": "assets/graffiti/young-roddy-half-a-ticket-alpha.webp",
+      "sha256": "591ffac9055c37073e2e2e475fb357f46cff42eccfca83d4da4b3c818200695c"
+    },
+    "berner-styles-p-vibes": {
+      "image": "assets/graffiti/berner-styles-p-vibes-alpha.webp",
+      "sha256": "f15fd8d5432c8052bb521ce3aaf1113ee4c9ffa66e9d14f4e2dd75932be91b51"
+    },
+    "tall-black-guy-as-the-night-moves": {
+      "image": "assets/graffiti/tall-black-guy-as-the-night-moves-alpha.webp",
+      "sha256": "3158739e42b760426f414efe71cd800d807ce51863eb692e945a6cf745140db4"
+    },
+    "smoke-dza-fiscal-thoughts": {
+      "image": "assets/graffiti/smoke-dza-fiscal-thoughts-alpha.webp",
+      "sha256": "7d142866f50e78b06ddc9a52accc3616c6a996321aa833699751a5bf1317365e"
+    },
+    "wiz-khalifa-currensy-revenge-and-cake": {
+      "image": "assets/graffiti/wiz-khalifa-currensy-revenge-and-cake-alpha.webp",
+      "sha256": "76c55e440ffd4c01d2f5d10040fb8e88cd4e14e81df5189cfc4df77c6dac798d"
+    },
+    "rapsody-power": {
+      "image": "assets/graffiti/rapsody-power-rebuilt-alpha.webp",
+      "sha256": "17c26745c1855aabbcfe5617ee2bf6735191b22b0a392cf07b603a12518606f5"
+    },
+    "anderson-paak-the-season-carry-me": {
+      "image": "assets/graffiti/anderson-paak-the-season-carry-me-supported-alpha.webp",
+      "sha256": "cbd9bd63bccbbb02a6a87b1a380488576074f94a567082ebd7be0a4689d92aa2"
+    },
+    "robert-glasper-afro-blue-9th-wonder-remix": {
+      "image": "assets/graffiti/robert-glasper-afro-blue-9th-wonder-remix-rebuilt-alpha.webp",
+      "sha256": "666c3da57d76bfed30bda977f8562eb7a019e3f3c286dbe0a4a1718103493ef6"
+    },
+    "2-chainz-threat-2-society": {
+      "image": "assets/graffiti/2-chainz-threat-2-society-inner-alpha.webp",
+      "sha256": "3af1d6dd8f225ada1109bfa923a6a9e623fb354822049d0b20a6b6918fcdf351"
+    },
+    "slum-village-fantastic": {
+      "image": "assets/graffiti/slum-village-fantastic-boundary-line-alpha.webp",
+      "sha256": "7d1afbac8b2a0d6d1f5bf761cec8d06fb71601e02b1dd057cd92341928533b20"
+    },
+    "slum-village-things-u-do-remix": {
+      "image": "assets/graffiti/slum-village-things-u-do-remix-repetition-alpha.webp",
+      "sha256": "4525d32b81b5fd4c910debae519c24e7a909d378e4892d2e87770b9e933d659a"
+    },
+    "slum-village-this-beat-keep-it-on-remix": {
+      "image": "assets/graffiti/slum-village-keep-it-on-remix-continuity-alpha.webp",
+      "sha256": "e92f48cf60bb7709b69754fb28a6d2e6d784631f5978e1dbf70b9e646648c5c2"
+    },
+    "slum-village-get-it-together-madlib-remix": {
+      "image": "assets/graffiti/j-88-get-it-together-madlib-remix-same-core-alpha.webp",
+      "sha256": "a6cc005e4cb30b7edf74baabcd612c99820fb16363dce7438ff92d00424eb661"
+    },
+    "slum-village-itz-your-world": {
+      "image": "assets/graffiti/slum-village-itz-your-world-space-private-alpha.webp",
+      "sha256": "f4eb3d4b9eb09d9c3d7a2beba1c55ab312931a6b8e426cc591c043163d752775"
+    },
+    "dj-jazzy-jeff-are-u-ready": {
+      "image": "assets/graffiti/dj-jazzy-jeff-are-u-ready-last-contact-alpha.webp",
+      "sha256": "c2e05def1cdba30f419e316f600f184b7c48e2553194109bcef5d0658f987a5b"
+    },
+    "slum-village-ez-up": {
+      "image": "assets/graffiti/slum-village-ez-up-cut-space-alpha.webp",
+      "sha256": "1439d866fe3f19eb459619848f9ece602ebfb4c1cd4d8d24de679b3177a7af64"
+    },
+    "slum-village-where-do-we-go-from-here": {
+      "image": "assets/graffiti/slum-village-where-do-we-go-from-here-supported-alpha.webp",
+      "sha256": "ac1b58370223ca332b5af412c1d3564e7ad653db1c299c47ab2a259324284cdb"
+    },
+    "slum-village-can-i-be-me": {
+      "image": "assets/graffiti/slum-village-can-i-be-me-boundary-alpha.webp",
+      "sha256": "125f1ad198d082e72ba43eafcdb2fb2a1bedd1071e068038339dcea95db4700e"
+    },
+    "slum-village-conant-gardens": {
+      "image": "assets/graffiti/slum-village-conant-gardens-connected-alpha.webp",
+      "sha256": "e6f20001c152aa61384667926a99f58a74aee4bba855f5643b3a4663a37f0d4d"
+    },
+    "slum-village-earl-flinn": {
+      "image": "assets/graffiti/slum-village-earl-flinn-inner-contour-private-alpha.webp",
+      "sha256": "369e69304aa6600dd02892d44c6000cf69cc8601ead499de20283229f18ff96e"
+    },
+    "slum-village-multiply": {
+      "image": "assets/graffiti/slum-village-multiply-cut-fragment-alpha.webp",
+      "sha256": "4f07e0ae70f399e23fd081c3ab98cad26a46af4e3d22f51b291cc463352ce2ca"
+    },
+    "common-thelonius": {
+      "image": "assets/graffiti/common-thelonius-retained-origin-alpha.webp",
+      "sha256": "d74ad2e077a86351f18ac9b114b9ab535a8e2a5f8f2ad890a6853662e1bb28db"
+    },
+    "slum-village-reunion": {
+      "image": "assets/graffiti/slum-village-reunion-three-states-private-alpha.webp",
+      "sha256": "35d9b362dcac39ad87594b9997f2ae0b68e625da3005b282509bd68bbb3e0e4f"
+    },
+    "little-brother-nighttime-maneuvers": {
+      "image": "assets/graffiti/little-brother-nighttime-maneuvers-circle-alpha.webp",
+      "sha256": "cdc6329554b92a96050e421c13301a443e64677f6a98dc9912232eab9bd9c1db"
+    },
+    "phonte-not-here-anymore": {
+      "image": "assets/graffiti/phonte-not-here-anymore-moved-alpha.webp",
+      "sha256": "837318763c50adb0804085bb40de077cae7f32ef5e9fcf026f08e81e9f2983e5"
+    },
+    "westside-gunn-wrestlemania-20": {
+      "image": "assets/graffiti/westside-gunn-wrestlemania-20-weighted-alpha.webp",
+      "sha256": "738c623693f1032446bae674d031c040a10618df6644fd0522d5559bc9a3c26a"
+    },
+    "rapsody-2-am": {
+      "image": "assets/graffiti/rapsody-2-am-near-miss-alpha.webp",
+      "sha256": "82ae17d220eb82a2b618fcc23c0105340ddedf418e8666e28e90653c4174f85b"
+    },
+    "9th-wonder-buckshot-no-comparison": {
+      "image": "assets/graffiti/9th-wonder-buckshot-no-comparison-unmatched-alpha.webp",
+      "sha256": "791f0b83ea9a50dd39c3e4f5ccf202b1a292695b806e3c2671547b933987313e"
+    },
+    "dwele-angel-user-selected": {
+      "image": "assets/graffiti/dwele-angel-period-support-user-version-alpha.webp",
+      "sha256": "bcc5f7fcb7e383aed3a6f3d48ca99630730275b419732e11a525a487ad668aca"
+    },
+    "talib-kweli-9th-wonder-life-ahead-of-me": {
+      "image": "assets/graffiti/talib-kweli-9th-wonder-life-ahead-of-me-pressure-alpha.webp",
+      "sha256": "d4da3e1436b903214e6165f2b37235106bab2efd57e788c5676881f8165cc36a"
+    },
+    "smif-n-wessun-let-it-go": {
+      "image": "assets/graffiti/smif-n-wessun-let-it-go-four-corners-alpha.webp",
+      "sha256": "e2acff44679cb6ef1f1b97e23e3b0883560088eb62e4c29a42e81a124b180917"
+    },
+    "murs-9th-wonder-walk-like-a-god": {
+      "image": "assets/graffiti/murs-9th-wonder-walk-like-a-god-footholds-alpha.webp",
+      "sha256": "517a74690c28d0eca6a5f4371100ee89035bbd0c256d5fc737e3139794465b2c"
+    },
+    "termanology-grade-a": {
+      "image": "assets/graffiti/termanology-grade-a-untransferred-alpha.webp",
+      "sha256": "505c391f5a923b9420805c46318312f174e4246d9082ebf1e0e8f9f420422dab"
+    },
+    "j-dilla-lets-take-it-back": {
+      "image": "assets/graffiti/j-dilla-lets-take-it-back-moulded-alpha.webp",
+      "sha256": "c9f108f73259389321bba30b621d336c67ab34ba83c6230caf2bd03a1d2084ae"
+    },
+    "jaylib-starz": {
+      "image": "assets/graffiti/jaylib-starz-shared-surface-private-alpha.webp",
+      "sha256": "497ce8fb11458039eed893ff902783e682132005087e9ff48d7969b4fb707ae7"
+    },
+    "j-dilla-wild": {
+      "image": "assets/graffiti/j-dilla-wild-unfolded-archive-alpha.webp",
+      "sha256": "fd6d5c796efe1e09c9a1851701f96c8387a9e858aefecebb9fe10cd6240ccf14"
+    },
+    "common-dooinit": {
+      "image": "assets/graffiti/common-dooinit-last-joint-alpha.webp",
+      "sha256": "fb73249506e80bf5cfc0bc2aeccfd7a899bd1c2d2444f99e84de5d74252f1d92"
+    },
+    "illa-j-dftf": {
+      "image": "assets/graffiti/illa-j-dftf-new-front-private-alpha.webp",
+      "sha256": "423bfe54ec77abf6777ca65d30a85e72890fc6a57706b12e529e30ff118951be"
+    },
+    "phat-kat-game-time": {
+      "image": "assets/graffiti/phat-kat-game-time-start-stroke-alpha.webp",
+      "sha256": "edc02f628138d4345bf732541a7a7acbb99b5c09a2707323ce145a5e4790c6da"
+    }
+  }
+}
