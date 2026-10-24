@@ -79390,5 +79390,114 @@
     },
     "addedOrder": 613,
     "datePublished": "2026-10-25"
+  },
+  {
+    "id": "cut-chemist-bunkys-pick",
+    "title": "Bunky's Pick",
+    "artist": "Cut Chemist",
+    "primaryArtist": "Cut Chemist",
+    "primaryArtists": [
+      "Cut Chemist"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Cut Chemist"
+    ],
+    "year": 2001,
+    "album": "The Funky 16 Corners",
+    "category": "Hip Hop",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": "Cut Chemist",
+    "producers": [
+      "Cut Chemist"
+    ],
+    "producerBasis": "曲別Producer役割を一次資料で確認。",
+    "label": "Stones Throw / Now-Again Records",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "yearBasis": "Stones Throw公式STH2037 split12は2001年。選択公式TopicのReleased2001-10-30、℗2019表記は別扱い。",
+    "essayTitle": "コンピレーションを組み直す、約8分のメガミックス",
+    "deck": "通常のラップ曲とは別の入口。Cut Chemist自身の選曲と再構成を聴く作品。",
+    "context": "",
+    "essay": [
+      "「Bunky’s Pick」は、Cut Chemistが『The Funky 16 Corners』の複数の曲を組み直したメガミックス。Stones Throwによれば、ファンクのドラマーに焦点を当てた構成だ。2001年の12インチでは、Madlibの「6 Variations of In the Rain」と両面を分け合っている。",
+      "この組み合わせのきっかけは、2000年にロサンゼルスのRoot Downで行われた二人のSoundclashだった。レコードの半数はCut Chemistが表、残りはMadlibが表というジャケットの仕掛けもある。第三者DJの使用実績ではなく、DJ自身による再構成作品として取り上げる。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Bunky’s Pick — Stones Throw catalog",
+        "url": "https://www.stonesthrow.com/store/bunkys-pick/",
+        "kind": "所属レーベル公式カタログ",
+        "evidence": "STH2037/2001 split12、Cut側fulltitle7 Minutes and48seconds ofFunk、funkydrummers重視のmegamix、RootDown2000のSoundclashに着想。写真B+、表裏半数ずつ。2000会場で本作が再生されたとは書いていない。"
+      },
+      {
+        "label": "Bunky’s Pick — official Topic",
+        "url": "https://www.youtube.com/watch?v=U5Kj6P-fMt0",
+        "kind": "公式配信メタデータ",
+        "evidence": "Virgin Music Group/The Funky16Corners/Released2001-10-30/℗2019 Now-Again/Composer Writer LucasMacFadden。oEmbed Cut Chemist - Topic。単曲版、Madlib側と連結した動画ではない。"
+      },
+      {
+        "label": "Cut Chemist — official profile",
+        "url": "https://cutchemist.bandcamp.com/album/the-litmus-test",
+        "kind": "公式プロフィール",
+        "evidence": "Los Angeles, California。"
+      }
+    ],
+    "youtube": {
+      "id": "U5Kj6P-fMt0",
+      "url": "https://www.youtube.com/watch?v=U5Kj6P-fMt0",
+      "embedUrl": "https://www.youtube.com/embed/U5Kj6P-fMt0",
+      "title": "Bunky's Pick",
+      "channel": "Cut Chemist - Topic",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "公式単曲配信の曲名・artist・albumを確認。実再生・同一masterは未確認。",
+      "verified": "2026-10-24"
+    },
+    "art": {
+      "word": "Bunky's Pick",
+      "tag": "CUT CHEMIST",
+      "style": "tag",
+      "seed": 4095208096,
+      "palette": [
+        "#747f9e",
+        "#434c65",
+        "#d2d4dc",
+        "#c83437",
+        "#13151c"
+      ],
+      "paletteSourceUrl": "https://www.stonesthrow.com/store/bunkys-pick/",
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteNote": "2001年のBunky’s Pick／6 Variations of In the Rainのスプリット12インチ、Cut Chemist側ジャケットを参照した青灰色と赤の配色。選択音源のコンピレーション盤ジャケットとは別の参照。"
+    },
+    "workType": "mix",
+    "workScope": "whole_work",
+    "workTypeLabel": "メガミックス作品",
+    "addedOrder": 614,
+    "datePublished": "2026-10-25"
   }
 ]

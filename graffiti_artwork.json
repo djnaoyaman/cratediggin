@@ -12926,6 +12926,47 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "noSiteBranding": true
+    },
+    {
+      "id": "cut-chemist-bunkys-pick",
+      "title": "Bunky's Pick",
+      "artist": "Cut Chemist",
+      "album": "The Funky 16 Corners",
+      "palette": [
+        "#747f9e",
+        "#434c65",
+        "#d2d4dc",
+        "#c83437",
+        "#13151c"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceURL": "https://www.stonesthrow.com/store/bunkys-pick/",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          138,
+          66,
+          1831,
+          866
+        ],
+        "outputSha256": "b236b3f7a631633b445c6623aee01f1c18b7f7ce9c896c0f1154490d469548d3",
+        "sourceImage": "assets/graffiti/originals/cut-chemist-bunkys-pick-mass-anchor-v1-original.png",
+        "sourceSha256": "12ab3f4c4055e3097fc4c6ba061193ba79de02f1ad0be4d87bb622176d85410a"
+      },
+      "paletteNote": "2001年のBunky’s Pick／6 Variations of In the Rainのスプリット12インチ、Cut Chemist側ジャケットを参照した青灰色と赤の配色。選択音源のコンピレーション盤ジャケットとは別の参照。",
+      "concept": "曲名の太い文字と重なり、白い切れ込みと配色の飛沫による構成。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "Editorial visual interpretation; no artist intent or playback verification claim.",
+      "status": "ready",
+      "image": "assets/graffiti/cut-chemist-bunkys-pick-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/cut-chemist-bunkys-pick-mass-anchor-v1-original.png",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
