@@ -763,5 +763,23 @@
   },
   "Little Brother": {
     "type": "MusicGroup"
+  },
+  "Elzhi": {
+    "type": "Person"
+  },
+  "Westside Gunn": {
+    "type": "Person"
+  },
+  "Ab-Soul": {
+    "type": "Person"
+  },
+  "9th Wonder": {
+    "type": "Person"
+  },
+  "Buckshot": {
+    "type": "Person"
+  },
+  "9th Wonder & Buckshot": {
+    "type": "MusicGroup"
   }
 }
