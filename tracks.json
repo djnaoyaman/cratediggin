@@ -79061,5 +79061,116 @@
     },
     "addedOrder": 610,
     "datePublished": "2026-10-25"
+  },
+  {
+    "id": "people-under-the-stairs-san-francisco-knights",
+    "title": "San Francisco Knights",
+    "artist": "People Under the Stairs",
+    "primaryArtist": "People Under the Stairs",
+    "primaryArtists": [
+      "People Under the Stairs"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "People Under the Stairs"
+    ],
+    "year": 1998,
+    "album": "The Next Step",
+    "category": "Hip Hop",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "曲別Producer役割は未確認のため空欄。",
+    "label": "Om Records",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "yearBasis": "Thes One本人インタビューは制作1996年、初アルバム発売1998年。公式Bandcampプロフィールも初作1998年。カタログ日付1999-03-23と選択Topic1999-10-26は配信側表記として区別。",
+    "essayTitle": "初めての街の記憶を、最初のアルバムへ",
+    "deck": "1996年に作られた曲が、1998年のデビュー作につながる。",
+    "context": "",
+    "essay": [
+      "Thes Oneによると、「San Francisco Knights」を作ったのは1996年。Double Kと初めての街を楽しんだ経験が曲になり、当初はアルバムを作るつもりさえなかったという。録りためた曲をまとめ、1998年に最初のアルバムを発表した。地名は二人の拠点ではなく、旅先の記憶だ。",
+      "DJ Mordecaiの「Send It For Cesar!」では11分28秒の位置にこの曲が並ぶ。ロサンゼルスの二人が残したサンフランシスコの記憶は、後年のDJセットにも受け継がれている。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Thes One interview — David Ma",
+        "url": "https://www.powmag.net/p/the-making-of-people-under-the-stairs-acid-raindrops-and-san-francisco-knights",
+        "kind": "本人インタビュー",
+        "evidence": "2021-02-10掲載。本人が制作1996、1997に曲集約検討、初作1998発売を説明。web本文実読、直接HTTPは403。"
+      },
+      {
+        "label": "The Next Step — official catalog",
+        "url": "https://peopleunderthestairs.bandcamp.com/album/the-next-step",
+        "kind": "公式カタログ",
+        "evidence": "track8 04:31、カタログ日付1999-03-23。プロフィール初作1998、Los Angeles。"
+      },
+      {
+        "label": "DJ Mordecai — Send It For Cesar!",
+        "url": "https://serato.com/playlists/mordecai/send-it-for-cesar",
+        "kind": "DJ公開プレイリスト",
+        "evidence": "00:11:28 San Francisco Knights。ログ掲載のみ確認、音声/つなぎ/頻用度は未確認。"
+      },
+      {
+        "label": "San Francisco Knights — official Topic",
+        "url": "https://www.youtube.com/watch?v=xqgJfFbOKnU",
+        "kind": "公式配信メタデータ",
+        "evidence": "通常YouTube展開説明でVirgin Music Group/The Next Step/℗1999 Om Records,Clover Beats/Released1999-10-26/Composer Lyricist Chris Portugal,Mike Turner。4:32。Producer役割とは区別。"
+      }
+    ],
+    "youtube": {
+      "id": "xqgJfFbOKnU",
+      "url": "https://www.youtube.com/watch?v=xqgJfFbOKnU",
+      "embedUrl": "https://www.youtube.com/embed/xqgJfFbOKnU",
+      "title": "San Francisco Knights",
+      "channel": "PEOPLE UNDER THE STAIRS - Topic",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "公式単曲配信の曲名・artist・albumを確認。実再生・同一masterは未確認。",
+      "verified": "2026-10-24"
+    },
+    "art": {
+      "word": "San Francisco Knights",
+      "tag": "PEOPLE UNDER THE STAIRS",
+      "style": "tag",
+      "seed": 1013294804,
+      "palette": [
+        "#c44e40",
+        "#e9d6b0",
+        "#f4edda",
+        "#672c25",
+        "#131313"
+      ],
+      "paletteSourceUrl": "https://peopleunderthestairs.bandcamp.com/album/the-next-step",
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteNote": "The Next Stepのジャケットを参照した赤・生成りに、黒白のコントラストを組み合わせた配色。"
+    },
+    "addedOrder": 611,
+    "datePublished": "2026-10-25"
   }
 ]
