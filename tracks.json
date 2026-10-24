@@ -78842,5 +78842,117 @@
     },
     "addedOrder": 608,
     "datePublished": "2026-10-25"
+  },
+  {
+    "id": "people-under-the-stairs-youth-explosion",
+    "title": "Youth Explosion",
+    "artist": "People Under the Stairs",
+    "primaryArtist": "People Under the Stairs",
+    "primaryArtists": [
+      "People Under the Stairs"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "People Under the Stairs"
+    ],
+    "year": 2000,
+    "album": "Question in the Form of an Answer",
+    "category": "Hip Hop",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "曲別Producer役割は未確認のため空欄。",
+    "label": "Om Records",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "yearBasis": "公式Bandcampのシングル2000-02-10とalbum2000-06-06。選択Topic説明は2000-06-02で日付差があるため年2000を採用。",
+    "essayTitle": "シングルとアルバムで、異なる長さを持つ一曲",
+    "deck": "2000年のシングルからアルバムへ。後年のDJセットにも名前が残る。",
+    "context": "",
+    "essay": [
+      "「Youth Explosion」は、公式カタログでは2000年2月のシングルに4分25秒、同年6月の『Question in the Form of an Answer』に4分39秒として並ぶ。同じ曲名でも、作品をまたぐと長さが変わる。本ページにはアルバム名が明記された公式配信を選んだ。",
+      "DJ Mordecaiの「Send It For Cesar!」では、39分05秒の位置にこの曲が記録されている。シングルとアルバムの両方を持ち、さらに後年のDJの選曲へつながる一曲だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Youth Explosion — single",
+        "url": "https://peopleunderthestairs.bandcamp.com/album/youth-explosion",
+        "kind": "公式カタログ",
+        "evidence": "2000-02-10、04:25。2026-10-24再取得。"
+      },
+      {
+        "label": "Question in the Form of an Answer",
+        "url": "https://peopleunderthestairs.bandcamp.com/album/question-in-the-form-of-an-answer",
+        "kind": "公式カタログ",
+        "evidence": "2000-06-06、track3 Youth Explosion04:39、Los Angeles。"
+      },
+      {
+        "label": "Youth Explosion — official Topic",
+        "url": "https://www.youtube.com/watch?v=hpdbY2CVH20",
+        "kind": "公式配信メタデータ",
+        "evidence": "前回通常UI展開説明確認済みVirgin Music Group、Question in the Form of an Answer、Released2000-06-02、動画表示4:40。単曲EP4:25との同一masterは未確認。"
+      },
+      {
+        "label": "DJ Mordecai — Send It For Cesar!",
+        "url": "https://serato.com/playlists/mordecai/send-it-for-cesar",
+        "kind": "DJ公開プレイリスト",
+        "evidence": "00:39:05 Youth Explosion。2026-10-24本文再取得。実音声未確認。"
+      }
+    ],
+    "youtube": {
+      "id": "hpdbY2CVH20",
+      "url": "https://www.youtube.com/watch?v=hpdbY2CVH20",
+      "embedUrl": "https://www.youtube.com/embed/hpdbY2CVH20",
+      "title": "Youth Explosion",
+      "channel": "PEOPLE UNDER THE STAIRS - Topic",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "公式配信の曲名・artist・albumを確認。実再生・同一masterは未確認。",
+      "verified": "2026-10-24"
+    },
+    "art": {
+      "word": "Youth Explosion",
+      "tag": "PEOPLE UNDER THE STAIRS",
+      "style": "tag",
+      "seed": 2242406828,
+      "palette": [
+        "#534f7f",
+        "#aa7f75",
+        "#dfa260",
+        "#eee7cf",
+        "#171717"
+      ],
+      "paletteSourceUrl": "https://peopleunderthestairs.bandcamp.com/album/question-in-the-form-of-an-answer",
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteNote": "Question in the Form of an Answerのジャケットを参照した紫・橙・生成りに、黒白のコントラストを組み合わせた配色。"
+    },
+    "addedOrder": 609,
+    "datePublished": "2026-10-25"
   }
 ]
