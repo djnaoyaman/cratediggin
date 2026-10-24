@@ -78140,12 +78140,15 @@
       "style": "tag",
       "seed": 20261024100,
       "palette": [
-        "#bd7750",
-        "#f4e7bd"
+        "#242829",
+        "#eee7d9",
+        "#e3b449",
+        "#d88336",
+        "#a84834"
       ],
       "paletteSource": "Viewed official catalog cover, approximate editorial palette",
       "paletteSourceUrl": "https://music.apple.com/us/album/power-in-numbers/1673116557",
-      "paletteNote": "Restrained one/two-color flat marker palette approximated from the actually re-viewed current catalog cover and adjusted to medium luminance for white/dark legibility. No copied cover layout or official lettering. Minimal edge if present is planar readability only."
+      "paletteNote": "Power In Numbersのジャケットを参照した黄・橙・赤に、黒白のコントラストを組み合わせた配色。"
     },
     "addedOrder": 602,
     "datePublished": "2026-10-24"
