@@ -835,5 +835,11 @@
   },
   "King Magnetic": {
     "type": "Person"
+  },
+  "80's Babies": {
+    "type": "MusicGroup"
+  },
+  "Demrick": {
+    "type": "Person"
   }
 }

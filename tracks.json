@@ -77181,5 +77181,487 @@
     },
     "addedOrder": 596,
     "datePublished": "2026-10-24"
+  },
+  {
+    "id": "tall-black-guy-gimme-mine",
+    "title": "Gimme Mine (feat. 80's Babies)",
+    "artist": "Tall Black Guy",
+    "primaryArtist": "Tall Black Guy",
+    "primaryArtists": [
+      "Tall Black Guy"
+    ],
+    "featuredArtists": [
+      "80's Babies"
+    ],
+    "artists": [
+      "Tall Black Guy",
+      "80's Babies"
+    ],
+    "year": 2020,
+    "album": "Restless As We Are",
+    "category": "Hip Hop",
+    "region": "",
+    "scene": "",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "このpacketでは曲別producerの一次根拠を確定していない。客演・演奏・mixingの役割から推測で補わない。",
+    "label": "未確認",
+    "listening": [],
+    "facts": [
+      {
+        "title": "正式な曲名と客演",
+        "text": "アーティストの曲別ページにある表記は「Gimme Mine Feat. 80's Babies」。MiniではなくMineとして収録作品へたどれる。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "yearBasis": "アーティスト公式Bandcampが原作を2020-06-12と記載。2020というDJミックス年からの推定ではない。",
+    "essayTitle": "制作を再開した作品の四曲目",
+    "deck": "約一か月半の休止を経た『Restless As We Are』で、80's Babiesを迎える。",
+    "context": "本人の制作記録からたどる収録作の背景",
+    "essay": [
+      "Tall Black Guyは『Restless As We Are』の制作記録で、パンデミック初期に約一か月半、音楽から離れたと記している。「Gimme Mine」は、ふたたび制作へ戻って生まれた同作で80's Babiesを迎えた四曲目。一曲の背景を、制作を再開した作品全体の中に置いてみたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Tall Black Guy — Gimme Mine",
+        "url": "https://tallblackguy.bandcamp.com/track/gimme-mine-feat-80s-babies",
+        "kind": "アーティスト公式",
+        "evidence": "Exact Mine spelling, 80's Babies feature, Restless As We Are, 2020-06-12."
+      },
+      {
+        "label": "Tall Black Guy — Restless As We Are 制作記録",
+        "url": "https://tallblackguy.bandcamp.com/album/restless-as-we-are",
+        "kind": "本人の制作記録",
+        "evidence": "Track 4 / 4:40; artist describes a month-and-a-half pause and return to making the album. This is album context, not verified lyrics or a claim about this track alone."
+      },
+      {
+        "label": "Tall Black Guy - Topic — Gimme Mine",
+        "url": "https://www.youtube.com/watch?v=qwgqN-Vw9-Q",
+        "kind": "公式配信音源の検索メタデータ",
+        "evidence": "Finder read exact title/feature, Topic channel, Catapult Reservatory, LLC, truncated Restless as We… and displayed 4:40 on 2026-10-24."
+      }
+    ],
+    "youtube": {
+      "id": "qwgqN-Vw9-Q",
+      "url": "https://www.youtube.com/watch?v=qwgqN-Vw9-Q",
+      "embedUrl": "https://www.youtube.com/embed/qwgqN-Vw9-Q",
+      "title": "Gimme Mine (feat. 80's Babies)",
+      "channel": "Tall Black Guy - Topic",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "Catapult配信の公式Topic投稿。正式なMine表記、アーティスト・客演と4:40の表示が公式Bandcamp曲目に一致。2:50の別Editは採用しない。検索表示の照合であり、実再生・依頼ミックスと同一マスターの確認ではない。",
+      "duration": "4:40"
+    },
+    "art": {
+      "word": "Gimme Mine (feat. 80's Babies)",
+      "tag": "TALL BLACK GUY",
+      "lines": [
+        "Gimme Mine (feat. 80's Babies)"
+      ],
+      "style": "piece",
+      "seed": 2026102490,
+      "palette": [
+        "#91d2e2",
+        "#f8f5e9",
+        "#ffe34b",
+        "#102bb7",
+        "#7d2320"
+      ],
+      "paletteSource": "Restless As We Are official Bandcamp cover",
+      "paletteSourceUrl": "https://tallblackguy.bandcamp.com/album/restless-as-we-are",
+      "paletteNote": "Viewed official cover, approximate editorial colors only; no protest imagery, people, signs, cover lettering or layout copied."
+    },
+    "addedOrder": 597,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "demrick-clouded",
+    "title": "Clouded",
+    "artist": "Demrick",
+    "primaryArtist": "Demrick",
+    "primaryArtists": [
+      "Demrick"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Demrick"
+    ],
+    "year": 2017,
+    "album": "Clouded - Single",
+    "category": "Hip Hop",
+    "region": "",
+    "scene": "",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "このpacketでは曲別producerの一次根拠を確定していない。客演・演奏・mixingの役割から推測で補わない。",
+    "label": "Still Movin",
+    "listening": [],
+    "facts": [
+      {
+        "title": "Demrickという表記",
+        "text": "本人の公式サイトとSUMMER MADNESS 3の公式販売元が使う名義はDemrick。販売元のページは参加者一覧までで、曲ごとの版や編集の同一性までは示していない。",
+        "sources": [
+          3,
+          5
+        ]
+      },
+      {
+        "title": "原作日と更新日を分ける",
+        "text": "紹介記事の現在の更新日を初出年とは扱わない。掲載日索引にも2017年7月24日の記録が残る。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "yearBasis": "Appleの原作日2017-07-24と当時の掲載日が一致。現行カタログの℗2023を原作年へ置換せず、再配信の具体的実施日は未確定。",
+    "essayTitle": "2017年の月曜日に届いた一曲",
+    "deck": "週ごとに新曲を届けるStill Movin Mondays。その流れに「Clouded」を戻す。",
+    "context": "週次企画と原作年を手掛かりにする",
+    "essay": [
+      "Demrickの「Clouded」は、2017年7月24日に紹介されたStill Movin Mondaysの一曲。毎週のリリースを追うと、一枚のアルバムとは別の単位で作品がつながっていたことが分かる。現在のApple Musicには2017年の発売日と2023年の権利表記が併記されており、後者だけで原作年を塗り替えないでおきたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        4
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Apple Music — Clouded - Single",
+        "url": "https://music.apple.com/us/album/clouded-single/1665812700",
+        "kind": "正規配信カタログ（検索表示）",
+        "evidence": "Demrick / 2017-07-24 / ℗2023 Still Movin. Current indexed metadata; prior failed direct open was not retried."
+      },
+      {
+        "label": "HotNewHipHop — Clouded",
+        "url": "https://www.hotnewhiphop.com/596632-demrick-clouded-prod-by-the-makerz-new-song",
+        "kind": "当時の紹介記事（後日更新あり）",
+        "evidence": "Identifies Demrick and Still Movin Mondays. Do not borrow sonic descriptions, lyrics or its erroneous Golden Age 2 attribution."
+      },
+      {
+        "label": "HotNewHipHop — 掲載日索引",
+        "url": "https://www.hotnewhiphop.com/tag/the-golden-age-2",
+        "kind": "掲載日補強",
+        "evidence": "Clouded by Demrick appears with original article date 2017-07-24; distinct from article modification date."
+      },
+      {
+        "label": "Demrick — 公式サイト",
+        "url": "https://demrick.com/",
+        "kind": "アーティスト公式",
+        "evidence": "Artist name is Demrick. Los Angeles profile is not used as a recording-place claim."
+      },
+      {
+        "label": "Independent Living — Demrick / Clouded",
+        "url": "https://www.youtube.com/watch?v=6TWHMz05I8U",
+        "kind": "参考投稿（公式性未確証）",
+        "evidence": "Finder read Demrick - Clouded (Prod by The Makerz), 2:50 and Still Movin Monday weekly-release description on 2026-10-24. Channel affiliation remains unknown."
+      },
+      {
+        "label": "Royal Collective — Summer Madness 3",
+        "url": "https://royalcollective.stores.jp/items/5f171662223ead2f241e46fb",
+        "kind": "DJ KIYO作品の公式販売元",
+        "evidence": "Participating artist list includes Demrick. It does not provide a song-by-song tracklist or establish exact mix-master identity."
+      }
+    ],
+    "youtube": {
+      "id": "6TWHMz05I8U",
+      "url": "https://www.youtube.com/watch?v=6TWHMz05I8U",
+      "embedUrl": "https://www.youtube.com/embed/6TWHMz05I8U",
+      "title": "Demrick - Clouded (Prod by The Makerz)",
+      "channel": "Independent Living",
+      "type": "参考投稿（公式性未確証）",
+      "official": null,
+      "officialStatus": "unknown",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "Demrick / Cloudedの曲名とStill Movin Mondayの企画説明が原作資料と一致する単曲候補。投稿チャンネルと権利元の関係は未確証。2:50は検索表示であり、依頼ミックス抜粋2:15との同一編集・マスターを確認したものではない。",
+      "duration": "2:50"
+    },
+    "art": {
+      "word": "Clouded",
+      "tag": "DEMRICK",
+      "lines": [
+        "Clouded"
+      ],
+      "style": "piece",
+      "seed": 2026102491,
+      "palette": [
+        "#607f98",
+        "#202b3c",
+        "#e8ebe8",
+        "#8c87a2",
+        "#b5bdc5"
+      ],
+      "paletteSource": "Original editorial palette; not cover-derived.",
+      "paletteSourceUrl": null,
+      "paletteNote": "独自の編集配色。正規ジャケット由来ではなく、文字内部の覆いと輪郭を見分けるための設計。音響の連想を根拠にはしていない。"
+    },
+    "addedOrder": 598,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "problem-janet-freestyle-remix",
+    "title": "Janet Freestyle (Remix)",
+    "artist": "Problem",
+    "primaryArtist": "Problem",
+    "primaryArtists": [
+      "Problem"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Problem"
+    ],
+    "year": 2020,
+    "album": "Coffee & Kush, Vol. 1",
+    "category": "Hip Hop",
+    "region": "",
+    "scene": "",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "このpacketでは曲別producerの一次根拠を確定していない。客演・演奏・mixingの役割から推測で補わない。",
+    "label": "Diamond Lane Music Group / Rostrum Records",
+    "listening": [],
+    "facts": [
+      {
+        "title": "本文が参照した本人発言",
+        "text": "制作経緯はUrban Influencerに掲載された本人の説明に基づく。初出のComplex本文を直接読めたものとしては扱っていない。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "yearBasis": "保存済み公式Remix映像の2020-05-15と当時2020年の本人発言掲載が原作年を支持。新しい配信catalog IDや後年の取得年を初出年にしない。",
+    "essayTitle": "バルコニーの原型を、追悼のリミックスへ",
+    "deck": "一人で録ったフリースタイルが、Nipsey Hussleへ向けた版に組み直される。",
+    "context": "本人の言葉を掲載した記事からたどるRemixの成立",
+    "essay": [
+      "Problemの「Janet Freestyle (Remix)」は、Nipsey Hussleを追悼するために組み直された版。Urban Influencerに掲載された本人の説明では、原型はバルコニーで一人で録ったフリースタイルで、その後Mike & Keys、E. Dan、Terrace Martinが加わったという。Remixという表記から、その作り直しの経緯までたどれる。"
+    ],
+    "essaySources": [
+      [
+        0
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Urban Influencer — Problem本人発言の再掲",
+        "url": "https://www.theurbaninfluencer.com/article/problems-tributes-nipsey-hussle-in-new-video-for-janet-freestyle-remix",
+        "kind": "本人発言を掲載した二次資料",
+        "evidence": "Balcony original, Nipsey tribute remake, named collaborators and Coffee & Kush Vol.1 / Diamond Lane Music Group / Rostrum Records. Original Complex interview was not directly obtained."
+      },
+      {
+        "label": "Apple Music — Janet Freestyle (Remix)",
+        "url": "https://music.apple.com/jp/song/1847685237",
+        "kind": "正規配信カタログ（保存済み検索資料）",
+        "evidence": "Existing exact catalog title/Problem/Coffee & Kush Vol.1/2020. Current direct open returned cache miss, not retried."
+      },
+      {
+        "label": "Diamond Lane Music TV — Janet Freestyle (Remix)",
+        "url": "https://www.youtube.com/watch?v=038gn51YagQ",
+        "kind": "公式ミュージックビデオ（保存済み検索資料）",
+        "evidence": "Prior packet observed exact Remix title and 2020-05-15 publication. No new direct video access in this task."
+      }
+    ],
+    "youtube": {
+      "id": "038gn51YagQ",
+      "url": "https://www.youtube.com/watch?v=038gn51YagQ",
+      "embedUrl": "https://www.youtube.com/embed/038gn51YagQ",
+      "title": "Janet Freestyle (Remix)",
+      "channel": "Diamond Lane Music TV",
+      "type": "公式ミュージックビデオ",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "2026年10月23日保存の検索資料で、Diamond Laneの公式映像とRemix表記を確認。今回は動画metadataを新規取得していない。原型の無印Freestyleへ置き換えず、このRemixを選ぶ。実再生・依頼ミックスと同一編集の確認ではない。"
+    },
+    "art": {
+      "word": "Janet Freestyle (Remix)",
+      "tag": "PROBLEM",
+      "lines": [
+        "Janet Freestyle (Remix)"
+      ],
+      "style": "piece",
+      "seed": 2026102492,
+      "palette": [
+        "#7e9a90",
+        "#eee7db",
+        "#263741",
+        "#b57660",
+        "#8c8983"
+      ],
+      "paletteSource": "Original editorial palette, not cover-derived",
+      "paletteSourceUrl": null,
+      "paletteNote": "Sage/ivory distinguish fuller added strokes from warm-clay/graphite retained core. Original design choice only, not album-cover or sound association. Exact cover was not verified; no press photograph substituted."
+    },
+    "addedOrder": 599,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "larry-june-the-red-carpet",
+    "title": "The Red Carpet (feat. LNDN DRGS)",
+    "artist": "Larry June",
+    "primaryArtist": "Larry June",
+    "primaryArtists": [
+      "Larry June"
+    ],
+    "featuredArtists": [
+      "LNDN DRGS"
+    ],
+    "artists": [
+      "Larry June",
+      "LNDN DRGS"
+    ],
+    "year": 2018,
+    "album": "Very Peaceful",
+    "category": "Hip Hop",
+    "region": "",
+    "scene": "",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "このpacketでは曲別producerの一次根拠を確定していない。客演・演奏・mixingの役割から推測で補わない。",
+    "label": "The Freeminded Records",
+    "listening": [],
+    "facts": [
+      {
+        "title": "主名義と客演を分ける",
+        "text": "主名義はLarry June、LNDN DRGSは客演としてクレジットされている。客演メンバーの役割から、この曲のproducerを推測で補わない。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "yearBasis": "正規Spotify曲目とApple検索metadataは2018-11-29を示す。保存済みYouTube説明の2021年uploadを原作年にしない。",
+    "essayTitle": "作品の終盤で、二度現れるLNDN DRGS",
+    "deck": "『Very Peaceful』の11曲目から、最後の13曲目へ。",
+    "context": "客演クレジットを収録順と一緒に読む",
+    "essay": [
+      "「The Red Carpet」は、Larry Juneの『Very Peaceful』（2018年）の11曲目。LNDN DRGSとの組み合わせはこの曲だけで終わらず、最後の13曲目「Organic Poly Seeds」にも現れる。客演表記を収録順と一緒に追うと、作品の終盤で再び合流するこの二曲が見えてくる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Spotify — Very Peaceful 正規曲目",
+        "url": "https://open.spotify.com/album/0JFFcQ7ZxrutK3LIvePIUP",
+        "kind": "正規配信カタログ（検索表示）",
+        "evidence": "13 tracks; track11 The Red Carpet and track13 Organic Poly Seeds both feature LNDN DRGS; 2018-11-29 / The Freeminded Records."
+      },
+      {
+        "label": "Apple Music — The Red Carpet",
+        "url": "https://music.apple.com/us/song/1551703908",
+        "kind": "正規配信カタログ（検索表示）",
+        "evidence": "Exact Larry June / LNDN DRGS feature / Very Peaceful / 2018-11-29. Direct open unavailable; no retry."
+      },
+      {
+        "label": "Larry June — The Red Carpet 公式配信音源",
+        "url": "https://www.youtube.com/watch?v=KSJTwHtYTCo",
+        "kind": "公式配信音源（保存済み検索資料）",
+        "evidence": "Prior packet confirms EMPIRE Distribution, Released on2018-11-29 and ℗2018 The Freeminded Records; upload2021-02-01 is not the original year."
+      }
+    ],
+    "youtube": {
+      "id": "KSJTwHtYTCo",
+      "url": "https://www.youtube.com/watch?v=KSJTwHtYTCo",
+      "embedUrl": "https://www.youtube.com/embed/KSJTwHtYTCo",
+      "title": "The Red Carpet (feat. LNDN DRGS)",
+      "channel": "表示名未再確認（保存済み公式配信資料）",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "2026年10月23日保存の公式配信説明にEMPIRE、2018-11-29、The Freeminded Recordsを確認。今回は動画metadataを新規取得していない。Larry June主名義、LNDN DRGS客演の単曲を選び、実再生・依頼ミックスの編集と同一マスターは未確認。"
+    },
+    "art": {
+      "word": "The Red Carpet (feat. LNDN DRGS)",
+      "tag": "LARRY JUNE",
+      "lines": [
+        "The Red Carpet (feat. LNDN DRGS)"
+      ],
+      "style": "piece",
+      "seed": 2026102493,
+      "palette": [
+        "#c8b8a5",
+        "#e5e1db",
+        "#879099",
+        "#4f5963",
+        "#192725",
+        "#9c443d"
+      ],
+      "paletteSource": "Very Peaceful official cover plus declared title-led rust-red accent",
+      "paletteSourceUrl": "https://music.apple.com/us/album/very-peaceful/1551703561",
+      "paletteNote": "Neutral/slate main colors approximately interpreted from actual official cover; rust red is an explicitly authorial title-driven accent, not a cover-derived swatch."
+    },
+    "addedOrder": 600,
+    "datePublished": "2026-10-24"
   }
 ]
