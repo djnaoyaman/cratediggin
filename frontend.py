@@ -1,9 +1,6 @@
 """Build browser assets exclusively from source, never from previous output."""
 import json
 import shutil
-import os
-from urllib.parse import urlparse
-from profile_content import render_profile, EDITOR_NOTE_REPLACEMENTS
 
 
 def render_work_count(template, tracks):
@@ -15,24 +12,15 @@ def render_work_count(template, tracks):
     return template.replace('{{WORK_COUNT}}', str(len(tracks)).zfill(2))
 
 
-def build_frontend(root, dist, features, policy, guides):
-    dist.mkdir(parents=True, exist_ok=True)
-    retired=json.loads((root/'retired_feature_photos.json').read_text())['paths']
-    assert len(retired)==13 and all('/' not in name and name.startswith('feature-') for name in retired)
-    for name in retired:
-        stale=dist/name
-        if stale.exists():stale.unlink()
-    for asset in (root / 'src' / 'assets').iterdir():
-        if asset.is_file() and asset.name not in retired:
-            shutil.copyfile(asset, dist / asset.name)
+def build_client(root, dist, features, policy, guides):
+    """Rebuild only the shared JavaScript. Author biography is loaded independently."""
     source = root / 'src' / 'app'
     order = json.loads((source / 'order.json').read_text(encoding='utf-8'))
     tokens = {
         '{{FEATURES}}': features,
         '{{FEATURE_POLICY}}': policy,
         '{{GUIDES}}': guides,
-        '{{EDITOR_NOTE_REPLACEMENTS}}': EDITOR_NOTE_REPLACEMENTS,
-        '{{EDITOR_PROFILE}}': render_profile(root,urlparse(os.environ.get('SITE_URL','https://djnaoyaman.github.io/cratediggin')).path.rstrip('/')),
+        '{{EDITOR_NOTE_REPLACEMENTS}}': json.loads((root/'editor_notes.json').read_text(encoding='utf-8')),
     }
     client = '\n'.join((source / name).read_text(encoding='utf-8') for name in order)
     for token, data in tokens.items():
@@ -40,6 +28,20 @@ def build_frontend(root, dist, features, policy, guides):
             raise ValueError(f'Expected exactly one frontend token: {token}')
         client = client.replace(token, json.dumps(data, ensure_ascii=False))
     (dist / 'app.js').write_text("'use strict';\n(()=>{\n" + client + '\n})();\n', encoding='utf-8')
+
+
+def build_frontend(root, dist, features, policy, guides):
+    dist.mkdir(parents=True, exist_ok=True)
+    retired=json.loads((root/'retired_feature_photos.json').read_text())['paths']
+    assert len(retired)==13 and all('/' not in name and name.startswith('feature-') for name in retired)
+    for name in retired:
+        stale=dist/name
+        if stale.exists():stale.unlink()
+    for asset in (root/'src/assets').iterdir():
+        if asset.is_file() and asset.name not in retired:shutil.copyfile(asset,dist/asset.name)
+    support=root/'.build-support';support.mkdir(exist_ok=True)
+    (support/'frontend.json').write_text(json.dumps(dict(features=features,policy=policy,guides=guides),ensure_ascii=False),encoding='utf-8')
+    build_client(root,dist,features,policy,guides)
     template = (root / 'templates' / 'index.html').read_text(encoding='utf-8')
     template = render_work_count(template, json.loads((root / 'tracks.json').read_text(encoding='utf-8')))
     (dist / 'index.html').write_text(template, encoding='utf-8')

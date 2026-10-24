@@ -1,5 +1,6 @@
 """Render the owner's supplied public biography with escaped text and supplied public links."""
 import html,json,re
+from pathlib import Path
 
 def inline(text):
     result=[];start=0
@@ -28,7 +29,7 @@ def render_profile(root,base_path):
     out.append('</div></article>');return ''.join(out)
 
 
-EDITOR_NOTE_REPLACEMENTS = [['少しばかりよくできすぎている。', '少しばかりよくできすぎています。'], ['好きな曲を掘る。元になった音をたどる。街や仲間の話に寄り道する。', '好きな曲を掘ります。元になった音をたどります。街や仲間の話に寄り道します。'], ['そうして、いまの自分の耳を、もう一度確かめる。', 'そうして、いまの自分の耳を、もう一度確かめます。']]
+EDITOR_NOTE_REPLACEMENTS = json.loads(Path(__file__).with_name('editor_notes.json').read_text(encoding='utf-8'))
 
 def polite_editor_note(content):
     """Change only the shared note within an EDITOR static page."""

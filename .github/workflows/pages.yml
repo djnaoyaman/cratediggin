@@ -1,26 +1,20 @@
-name: Deploy Crate Diggin to GitHub Pages
-# v14.0 publication retry; push triggers a fresh deployment
+name: Incremental Crate Diggin publication
 on:
   push:
     branches: [main]
   pull_request:
     branches: [main]
   workflow_dispatch:
-    inputs:
-      base_sha:
-        description: Exact comparison commit for targeted validation
-        required: true
-        type: string
 permissions:
   contents: read
 concurrency:
   group: ${{ github.event_name == 'pull_request' && format('pages-pr-validation-{0}', github.event.pull_request.number) || 'github-pages' }}
-  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+  cancel-in-progress: true
 jobs:
   validate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
+    outputs:
+      publish: ${{ steps.plan.outputs.publish }}
     steps:
       - uses: actions/checkout@v6
         with:
@@ -35,20 +29,36 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Select directly affected checks
-        id: select
+      - name: Restore verified site outputs
+        id: site-cache
+        uses: actions/cache/restore@v4
+        with:
+          path: .build-cache
+          key: ${{ runner.os }}-site-v1-${{ github.sha }}
+          restore-keys: |
+            ${{ runner.os }}-site-v1-
+      - name: Select work from content fingerprints
+        id: plan
         env:
-          CI_BASE_SHA: ${{ github.event.pull_request.base.sha || github.event.before || inputs.base_sha }}
+          FORCE_PUBLISH: ${{ github.event_name == 'workflow_dispatch' }}
+        run: python scripts/build_pipeline.py plan --github-output "$GITHUB_OUTPUT"
+      - name: Test build isolation and cache integrity
+        run: python -m unittest discover -s scripts -p test_build_pipeline.py -v
+      - name: Preserve analytics, storage and player behavior when affected
+        if: steps.plan.outputs.mode != 'profile' && steps.plan.outputs.mode != 'none'
         run: |
-          python scripts/ci/select_checks.py --repo . --base "$CI_BASE_SHA" --candidate "$GITHUB_SHA" --event "$GITHUB_EVENT_NAME" --output /tmp/ci-selection.json --github-output "$GITHUB_OUTPUT"
-      - name: Install build dependencies
-        if: steps.select.outputs.build_required == 'true'
+          node scripts/verify_ga_events.cjs
+          node scripts/verify_analytics_privacy.cjs
+          node scripts/verify_playlist_storage.cjs
+          node scripts/verify_player_readiness.cjs
+      - name: Install full-build dependencies
+        if: steps.plan.outputs.full == 'true'
         run: |
           python -m pip install Pillow markdown-it-py==4.0.0
           sudo apt-get update -qq
           sudo apt-get install -y fonts-dejavu-core
-      - name: Restore verified image encoding cache
-        if: steps.select.outputs.build_required == 'true'
+      - name: Restore encoded images when relevant
+        if: steps.plan.outputs.full == 'true'
         id: image-cache
         uses: actions/cache/restore@v4
         with:
@@ -56,94 +66,58 @@ jobs:
           key: ${{ runner.os }}-image-delivery-${{ hashFiles('image_delivery.py') }}-${{ github.sha }}
           restore-keys: |
             ${{ runner.os }}-image-delivery-${{ hashFiles('image_delivery.py') }}-
-      - name: Generate validated deployment artifact
-        if: steps.select.outputs.build_required == 'true'
-        env:
-          SITE_URL: https://djnaoyaman.github.io/cratediggin
-        run: python build.py
-      - name: Check affected syntax and generated integrity
-        run: python scripts/ci/run_checks.py --plan /tmp/ci-selection.json --stage integrity
-      - name: Run directly related source checks
-        run: python scripts/ci/run_checks.py --plan /tmp/ci-selection.json --stage static
-      - name: Save verified image encoding cache
-        if: steps.select.outputs.build_required == 'true' && steps.image-cache.outputs.cache-hit != 'true'
-        uses: actions/cache/save@v4
+      - name: Build selected outputs
+        if: steps.plan.outputs.publish == 'true'
+        run: python scripts/build_pipeline.py build
+      - name: Validate authored profile and affected outputs
+        if: steps.plan.outputs.publish == 'true'
+        run: python scripts/validate_site.py --mode "${{ steps.plan.outputs.mode }}"
+      - name: Cache browser runtime
+        if: steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none'
+        uses: actions/cache@v4
         with:
-          path: /tmp/cratediggin-image-delivery-cache
-          key: ${{ steps.image-cache.outputs.cache-primary-key }}
-      - name: Verify affected browser behavior
-        if: steps.select.outputs.browser_required == 'true'
+          path: ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright-1.62.1
+      - name: Verify profile text, links, display and navigation
+        if: steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none'
         run: |
-          npm install --no-save playwright
+          npm install --no-save playwright@1.62.1
           npx playwright install --with-deps chromium
           mkdir -p /tmp/crate-preview
           ln -s "$GITHUB_WORKSPACE/dist" /tmp/crate-preview/cratediggin
           python -m http.server 8765 --directory /tmp/crate-preview >/tmp/crate-preview.log 2>&1 &
           server=$!
           trap 'kill "$server"' EXIT
-          python scripts/ci/run_checks.py --plan /tmp/ci-selection.json --stage browser
-      - name: Save browser screenshots
+          node scripts/verify_profile_independent.cjs
+      - name: Save validated site outputs
+        if: steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none'
+        run: python scripts/build_pipeline.py cache
+      - uses: actions/cache/save@v4
+        if: steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none' && steps.site-cache.outputs.cache-hit != 'true'
+        with:
+          path: .build-cache
+          key: ${{ steps.site-cache.outputs.cache-primary-key }}
+      - uses: actions/cache/save@v4
+        if: steps.plan.outputs.full == 'true' && steps.image-cache.outputs.cache-hit != 'true'
+        with:
+          path: /tmp/cratediggin-image-delivery-cache
+          key: ${{ steps.image-cache.outputs.cache-primary-key }}
+      - name: Save build report and profile screenshots
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: listening-shelf-screenshots
+          name: incremental-build-report
           path: |
-            /tmp/ci-selection*.json
-            /tmp/listening-shelf-*.png
-            /tmp/catalog-pagination-*.png
-            /tmp/graffiti-*.png
-            /tmp/feature-portrait-*.png
-            /tmp/feature-swipe-*.png
-            /tmp/social-sharing-*.png
-            /tmp/crawl-artwork-*.png
-            /tmp/requested-four-*.png
-            /tmp/requested-six-*.png
-            /tmp/artifacts-credit-*.png
-            /tmp/timeline-explorer-*.png
-            /tmp/requested-two-*.png
-            /tmp/ini-japan-media-*.png
-            /tmp/editorial-remediation-*.png
-            /tmp/producer-collage-*.png
-            /tmp/bookmark-*.png
-            /tmp/browse-spacing-*.png
-            /tmp/premier-feature-*.png
-            /tmp/editor-photo-*.png
-            /tmp/tracks-gallery-*.png
-            /tmp/opening-context-*.png
-            /tmp/compact-list-*.png
-            /tmp/compact-dilla-*.png
-            /tmp/migration-navigation-*.png
-            /tmp/editor-profile-*.png
-            /tmp/producer-note-*.png
-            /tmp/inline-bandcamp-*.png
-            /tmp/section-references-*.png
-            /tmp/art-crate-*.png
-            /tmp/dj-shadow-cut-chemist-*.png
-            /tmp/live-video-*.png
-            /tmp/work-label-*.png
-            /tmp/donuts-album-*.png
-            /tmp/player-intent-*.png
-            /tmp/player-presentation-*.png
-            /tmp/renewal-*.png
-            /tmp/visible-art-*.png
-            /tmp/art-modes-*.png
-            /tmp/art-landscape-*.png
-            /tmp/navigation-hotfix-*.png
-            /tmp/responsive-renewal-*.png
-            /tmp/crate-naming-*.png
-            /tmp/mix-enrichment-*.png
-            /tmp/shadow-personal-*.png
-            /tmp/shadow-photos-*.png
-            /tmp/common-celebrate-*.png
-            /tmp/kid-cudi-make-her-say-*.png
+            /tmp/build-plan.json
+            /tmp/build-plan.json.report.json
+            /tmp/editor-profile-independent-*.png
           if-no-files-found: ignore
-          retention-days: 3
       - uses: actions/upload-pages-artifact@v4
-        if: github.event_name != 'pull_request'
+        if: github.event_name != 'pull_request' && steps.plan.outputs.publish == 'true'
         with:
           path: dist
   deploy:
-    if: github.event_name != 'pull_request'
+    if: github.event_name != 'pull_request' && needs.validate.outputs.publish == 'true'
     needs: validate
     runs-on: ubuntu-latest
     permissions:

@@ -10,3 +10,7 @@ node_modules/
 dist/
 audit-reports/
 editorial_depth_audit.csv
+
+.build-cache/
+.build-support/
+.pipeline-test-tmp/
