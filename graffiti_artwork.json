@@ -12435,35 +12435,38 @@
       "artist": "Jurassic 5",
       "album": "Power In Numbers",
       "palette": [
-        "#bd7750",
-        "#f4e7bd"
+        "#242829",
+        "#eee7d9",
+        "#e3b449",
+        "#d88336",
+        "#a84834"
       ],
       "paletteSource": "Viewed official catalog cover, approximate editorial palette",
       "paletteSourceURL": "https://music.apple.com/us/album/power-in-numbers/1673116557",
-      "paletteNote": "Restrained one/two-color flat marker palette approximated from the actually re-viewed current catalog cover and adjusted to medium luminance for white/dark legibility. No copied cover layout or official lettering. Minimal edge if present is planar readability only.",
+      "paletteNote": "Power In Numbersのジャケットを参照した黄・橙・赤に、黒白のコントラストを組み合わせた配色。",
       "displaySizing": {
         "version": 1,
         "alphaThreshold": 8,
         "paddingFraction": 0.07,
         "visibleBox": [
-          88,
-          60,
-          1161,
-          794
+          139,
+          69,
+          1835,
+          911
         ],
-        "outputSha256": "827f9af5982f93be4163584a54348ebfacb2d1eb4600fc631af039ac03378821",
-        "sourceImage": "assets/graffiti/originals/jurassic-5-whats-golden-handstyle-v1-original.png",
-        "sourceSha256": "6f48945ca83d03ed8a18549205e53f1eb808bd9786a440b4143c718956158dfc"
+        "outputSha256": "65d538f34e86db529393c8c378801a11b268acfe2e8457eca8716e72bdc7f8bf",
+        "sourceImage": "assets/graffiti/originals/jurassic-5-whats-golden-anchor-v1-original.png",
+        "sourceSha256": "92fa00a708824241abf7b83f195762d6be7fd4bf9ef960aca82a70c531dd1338"
       },
-      "concept": "G と O の手書きループに似た筆順を繰り返し、末端を次の文字へ自然につなぐ。発見したものを次へ渡す感覚だけを、字のリズムとして読む。溝・円盤・金属・素材片は描かない。",
+      "concept": "曲名を太い二段の文字と重なりで組み、白い塗りと切れ込み、黄・橙・赤の飛沫でリズムを表す。",
       "conceptIsVerifiedSongMeaning": false,
       "artistIntendedThisVisual": false,
-      "interpretationLimits": "Latest strict handstyle requirement: only handwritten letter strokes, pressure, joins, direction, rhythm and restrained color. No illustrated source material or physical letter objects. Editorial interpretation, not verified lyric meaning or artist visual intent. Latest approved metadata/source retained; no actual audio, sample identification or exact-master proof claimed. Prior art/visual PASS retained only as history.",
+      "interpretationLimits": "Editorial visual interpretation; palette references the album cover. No claim of artist intent, waveform analysis or playback verification.",
       "status": "ready",
-      "image": "assets/graffiti/jurassic-5-whats-golden-handstyle-v1-sized-v1.webp",
-      "originalImage": "assets/graffiti/originals/jurassic-5-whats-golden-handstyle-v1-original.png",
+      "image": "assets/graffiti/jurassic-5-whats-golden-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/jurassic-5-whats-golden-anchor-v1-original.png",
       "transparent": true,
-      "reviewNote": "Latest strict handstyle policy PASS (prior visual PASS not reused); creator and independent final white/dark 600px and 300px, exact typography, concept/evidence boundaries, displaySizing v1, full crop RGBA and SHA256 QA PASS. Private preparation only; no playback or live-site approval.",
+      "reviewNote": "Initial-style restoration: typography, transparent paint, white/dark small-size readability and displaySizing v1 independently checked; previous originals retained.",
       "textReviewed": true,
       "paletteReviewed": true,
       "noSiteBranding": true
