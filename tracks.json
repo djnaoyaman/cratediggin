@@ -78614,5 +78614,108 @@
     },
     "addedOrder": 606,
     "datePublished": "2026-10-24"
+  },
+  {
+    "id": "jurassic-5-monkey-bars",
+    "title": "Monkey Bars",
+    "artist": "Jurassic 5",
+    "primaryArtist": "Jurassic 5",
+    "primaryArtists": [
+      "Jurassic 5"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Jurassic 5"
+    ],
+    "year": 2000,
+    "album": "Quality Control",
+    "category": "Hip Hop",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": "DJ Nu-Mark",
+    "producers": [
+      "DJ Nu-Mark"
+    ],
+    "producerBasis": "公式曲別YouTube説明のProducer役割のみ。未確認は空欄。",
+    "label": "Interscope",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "yearBasis": "公式配信または公式Bandcampの作品年。再配信年/YouTube upload年と区別。",
+    "essayTitle": "DJ Nu-Markの一曲が、後年の選曲にも残る",
+    "deck": "2000年のQuality Controlから、DJ TAMAの2022年のプレイリストへ。",
+    "context": "",
+    "essay": [
+      "「Monkey Bars」は、DJ Nu-Markが制作した2000年の『Quality Control』収録曲。DJ TAMAの2022年10月4日付プレイリストには、16分53秒と18分57秒の二つの位置にその名が並ぶ。どんなつなぎ方だったかまでは記録だけでは分からないが、発売から22年後にもDJの選曲に残っていたことが見える。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Jurassic 5 — Monkey Bars",
+        "url": "https://www.youtube.com/watch?v=4uCVY6NHaJw",
+        "kind": "公式配信メタデータ",
+        "evidence": "PIAS提供、Quality Control、Released2000、Producer DJ Nu-Mark。検索で説明取得、実再生なし。"
+      },
+      {
+        "label": "DJ TAMA — 2022/10/04",
+        "url": "https://serato.com/playlists/DJ_TAMA/2022-10-04",
+        "kind": "DJ公開プレイリスト",
+        "evidence": "00:16:53と00:18:57の2項目に曲名。公開ページ本文を直接取得して確認。二枚使い等の技法や実音声は未確認。"
+      },
+      {
+        "label": "Jurassic 5 — official SoundCloud",
+        "url": "https://soundcloud.com/jurassic5",
+        "kind": "公式プロフィール",
+        "evidence": "Official soundcloudとの自己表記とLos Angelesを実読。個々のメンバー出身地とは区別。"
+      }
+    ],
+    "youtube": {
+      "id": "4uCVY6NHaJw",
+      "url": "https://www.youtube.com/watch?v=4uCVY6NHaJw",
+      "embedUrl": "https://www.youtube.com/embed/4uCVY6NHaJw",
+      "title": "Monkey Bars",
+      "channel": "Jurassic 5 - Topic",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "公式配信検索メタデータで曲名・artist・作品を照合。実再生未確認。",
+      "verified": "2026-10-24"
+    },
+    "art": {
+      "word": "MONKEY BARS",
+      "tag": "JURASSIC 5",
+      "seed": 2389684429,
+      "style": "tag",
+      "palette": [
+        "#94b2bd",
+        "#eee7d9",
+        "#746454",
+        "#b4775c",
+        "#242829"
+      ],
+      "paletteSource": "Viewed official catalog cover, approximate editorial palette",
+      "paletteSourceUrl": "https://music.apple.com/us/album/quality-control/1673109195",
+      "paletteNote": "Quality Controlのジャケットを参照した青灰色・黄褐色・錆色に、黒白のコントラストを組み合わせた配色。"
+    },
+    "addedOrder": 607,
+    "datePublished": "2026-10-25"
   }
 ]
