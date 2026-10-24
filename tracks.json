@@ -78954,5 +78954,112 @@
     },
     "addedOrder": 609,
     "datePublished": "2026-10-25"
+  },
+  {
+    "id": "people-under-the-stairs-suite-for-beaver-pt-1",
+    "title": "Suite for Beaver Pt. 1",
+    "artist": "People Under the Stairs",
+    "primaryArtist": "People Under the Stairs",
+    "primaryArtists": [
+      "People Under the Stairs"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "People Under the Stairs"
+    ],
+    "year": 2002,
+    "album": "OST",
+    "category": "Hip Hop",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "曲別Producer役割は未確認のため空欄。",
+    "label": "Om Records",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "yearBasis": "初出年は公式Bandcamp O.S.T.2002-06-02。選択Topic説明Released2003-06-02は配信側の別表記として分離。",
+    "essayTitle": "Part 1からPart 2へ、そしてMushroom Jazzへ",
+    "deck": "アルバムの連作と、Mark Farinaの選曲をつなぐ一曲。",
+    "context": "",
+    "essay": [
+      "2002年の『O.S.T.』では、「The Suite for Beaver Pt. 1」の次にPart 2が続く。公式カタログのPart 1は4分26秒。一方、Mark Farinaの『Mushroom Jazz Bundle』にも「Suite For Beaver Pt. 1」が入り、こちらの表記は6分57秒だ。",
+      "アルバム内の二部構成と、DJの選曲集という二つの置かれ方が見える。ただし収録時間が異なるため、本ページの公式配信とFarina側の収録音源を同じ編集版とは断定していない。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "sources": [
+      {
+        "label": "People Under the Stairs — O.S.T.",
+        "url": "https://peopleunderthestairs.bandcamp.com/album/o-s-t",
+        "kind": "公式カタログ",
+        "evidence": "2002-06-02、track3 The Suite for Beaver Pt.1 04:26、次track4 Part2。Los Angeles。"
+      },
+      {
+        "label": "Mark Farina — Mushroom Jazz Bundle",
+        "url": "https://markfarina.bandcamp.com/album/mushroom-jazz-bundle",
+        "kind": "DJ公式カタログ",
+        "evidence": "track48 People Under the Stairs - Suite For Beaver Pt.1 06:57。Om Records公式リンクあり。OST04:26と編集/master同一性未確認。"
+      },
+      {
+        "label": "Suite for Beaver Pt. 1 — official Topic",
+        "url": "https://www.youtube.com/watch?v=2FjxTotpJ3I",
+        "kind": "公式配信メタデータ",
+        "evidence": "前回確認済みVirgin Music Group提供、OST、Released2003-06-02。選択配信の正題は先頭Theなし。実再生未確認。"
+      }
+    ],
+    "youtube": {
+      "id": "2FjxTotpJ3I",
+      "url": "https://www.youtube.com/watch?v=2FjxTotpJ3I",
+      "embedUrl": "https://www.youtube.com/embed/2FjxTotpJ3I",
+      "title": "Suite for Beaver Pt. 1",
+      "channel": "PEOPLE UNDER THE STAIRS - Topic",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "公式配信の曲名・artist・albumを確認。実再生・同一masterは未確認。",
+      "verified": "2026-10-24"
+    },
+    "art": {
+      "word": "Suite for Beaver Pt. 1",
+      "tag": "PEOPLE UNDER THE STAIRS",
+      "style": "tag",
+      "seed": 2204666119,
+      "palette": [
+        "#c4ca92",
+        "#efe8d5",
+        "#bca78c",
+        "#7092a9",
+        "#17191b"
+      ],
+      "paletteSourceUrl": "https://peopleunderthestairs.bandcamp.com/album/o-s-t",
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteNote": "O.S.T.のジャケットを参照した茶・緑・生成りに、黒白のコントラストを組み合わせた配色。"
+    },
+    "addedOrder": 610,
+    "datePublished": "2026-10-25"
   }
 ]
