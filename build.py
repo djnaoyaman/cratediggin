@@ -39,7 +39,7 @@ for t in tracks:
     assert re.fullmatch(r'[a-z0-9-]+',t['id']) and t['id'] not in ids, 'Invalid or duplicate ID'
     ids.add(t['id'])
     validate_work(t)
-    assert (isinstance(t['year'],int) and not isinstance(t['year'],bool) and 1970<=t['year']<=2100) or (work_type(t)=='live_video' and t['year'] is None)
+    assert (isinstance(t['year'],int) and not isinstance(t['year'],bool) and 1970<=t['year']<=2100) or (work_type(t)=='live_video' and t['year'] is None) or (work_type(t)=='single' and t['year'] is None and t.get('yearStatus')=='unconfirmed' and all(isinstance(t.get(k),str) and t[k].strip() for k in ('yearBasis','yearDisplayNote')))
     assert t['youtube'].get('id') is None or re.fullmatch(r'[A-Za-z0-9_-]{11}',t['youtube']['id'])
     if t.get('externalAudio'):
         a=t['externalAudio'];u=urlparse(a['url'])
@@ -102,7 +102,7 @@ links=[]
 for t in tracks:
     p=DIST/'songs';p.mkdir(exist_ok=True)
     e=html.escape
-    body='<article><h1>'+e(t['title'])+'</h1>'+('<p class="work-year">'+e(year_label(t))+'</p><p class="work-year-note">'+e(t['yearDisplayNote'])+'</p>' if t.get('yearQualifier') else '')+('<p class="work-format">'+e(work_label(t))+'</p>' if work_type(t)!='single' else '')+'<p>'+e(t['artist'])+'</p><p>'+e(t['deck'])+'</p>'+render_notice(t)+'<h2>'+e(t['essayTitle'])+'</h2>'+''.join('<p>'+e(x)+'</p>'+('<div class="essay-references">参考資料：'+ ' / '.join('<a href="'+e(ref['url'],quote=True)+'">'+e(ref['label'])+'</a>' for ref in essay_references(t,j))+'</div>' if essay_references(t,j) else '') for j,x in enumerate(t['essay']))
+    body='<article><h1>'+e(t['title'])+'</h1>'+('<p class="work-year">'+e(year_label(t))+'</p><p class="work-year-note">'+e(t['yearDisplayNote'])+'</p>' if t.get('yearQualifier') or t.get('yearStatus')=='unconfirmed' else '')+('<p class="work-format">'+e(work_label(t))+'</p>' if work_type(t)!='single' else '')+'<p>'+e(t['artist'])+'</p><p>'+e(t['deck'])+'</p>'+render_notice(t)+'<h2>'+e(t['essayTitle'])+'</h2>'+''.join('<p>'+e(x)+'</p>'+('<div class="essay-references">参考資料：'+ ' / '.join('<a href="'+e(ref['url'],quote=True)+'">'+e(ref['label'])+'</a>' for ref in essay_references(t,j))+'</div>' if essay_references(t,j) else '') for j,x in enumerate(t['essay']))
     if t.get('externalAudio'):
         a=t['externalAudio'];body+='<p class="external-listening"><a href="'+e(a['url'],quote=True)+'" target="_blank" rel="noopener noreferrer">'+e(a['label'])+' ↗</a><br><span>サイト内再生は確認中</span></p>'
     if work_type(t)=='live_video' and not t.get('yearQualifier'): body+='<p class="work-year">'+e(year_label(t))+'</p>'
@@ -208,7 +208,7 @@ for artist in artist_names:
 for t in tracks:
     save_social_image(DIST/'og'/(t['id']+'.jpg'),t)
     url=HOST+'/songs/'+t['id']+'.html'
-    data={'@context':'https://schema.org','@graph':[{'@type':'MusicRecording','@id':url+'#recording','name':t['title'],'byArtist':{'name':t['artist']},'inAlbum':{'@type':'MusicAlbum','name':t['album']},**({'datePublished':str(t['year'])} if t['year'] is not None and not t.get('yearQualifier') else {}),'url':url,'sameAs':t['externalAudio']['url'] if t.get('externalAudio') else t['youtube']['url']},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'CRATEDIGGIN\'','item':HOST+'/'},{'@type':'ListItem','position':2,'name':t['title'],'item':url}]}]}
+    data={'@context':'https://schema.org','@graph':[{'@type':'MusicRecording','@id':url+'#recording','name':t['title'],'byArtist':{'name':t['artist']},**({'inAlbum':{'@type':'MusicAlbum','name':t['album']}} if isinstance(t.get('album'),str) and t['album'].strip() and t['album'] not in ('未確認','不明') else {}),**({'datePublished':str(t['year'])} if t['year'] is not None and not t.get('yearQualifier') else {}),'url':url,'sameAs':t['externalAudio']['url'] if t.get('externalAudio') else t['youtube']['url']},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'CRATEDIGGIN\'','item':HOST+'/'},{'@type':'ListItem','position':2,'name':t['title'],'item':url}]}]}
     enhance(DIST/'songs'/(t['id']+'.html'),t['title']+' / '+t['artist'],t['deck'],url,HOST+'/og/'+t['id']+'.jpg',data,True)
 # Expose song links in HTML before JavaScript runs; the client then replaces the view.
 artist_directory='<section aria-label="アーティストから探す"><h2>ARTIST INDEX</h2><p>アーティスト別の収録曲一覧</p><ul>'+''.join('<li><a href="'+BASE_PATH+'/artists/'+artist_slugs[name]+'.html">'+html.escape(name)+'</a></li>' for name in artist_names)+'</ul></section>'
