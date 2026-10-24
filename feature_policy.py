@@ -18,7 +18,12 @@ def role_projection(tracks):
 
 def qualify_features(tracks,features):
     roles=role_projection(tracks)
-    return [dict(f,qualification=roles.get(ALIASES.get(f['names'][0],f['names'][0]),{'artistIds':[],'producerIds':[],'artistCount':0,'producerCount':0,'unionCount':0,'tier':'archive'})) for f in features if f.get('editorial')]
+    result=[dict(f,qualification=roles.get(ALIASES.get(f['names'][0],f['names'][0]),{'artistIds':[],'producerIds':[],'artistCount':0,'producerCount':0,'unionCount':0,'tier':'archive'})) for f in features if f.get('editorial')]
+    for f in result:
+        if f['type']=='artist' and f.get('scopeOwnNames'):
+            own=sorted(t['id'] for t in tracks if t.get('workType','single')=='single' and t['artist'].split(' feat. ')[0] in f['scopeOwnNames'])
+            n=len(own);f['qualification']=dict(artistIds=own,producerIds=[],artistCount=n,producerCount=0,unionCount=n,tier='priority' if n>=8 else 'candidate' if n>=5 else 'archive')
+    return result
 
 def qualification_label(f):
     q=f['qualification'];n=q['artistCount'] if f['type']=='artist' else q['producerCount']

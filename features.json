@@ -837,6 +837,132 @@
         "precomposed": true,
         "tag": "feature-wu-tang-clan-tag.webp"
       }
+    },
+    {
+      "id": "slum-village",
+      "name": "Slum Village",
+      "type": "artist",
+      "names": [
+        "Slum Village"
+      ],
+      "aliases": [
+        "J-88"
+      ],
+      "allYears": true,
+      "scopeOwnNames": [
+        "Slum Village",
+        "J-88"
+      ],
+      "identityNote": "活動拠点：Detroit, Michigan, USA。Slum Villageと別名義J-88をグループ名義として扱い、Common、DJ Jazzy Jeff、Dweleの掲載曲はSlum Villageの客演・参加作品として分けます。J Dillaのソロ作品や、メンバーが制作しただけの他アーティスト曲は自動追加しません。",
+      "note": "収録範囲は、このサイトに掲載済みのSlum Village関連作品です。全ディスコグラフィーではありません。作品の初出年・再発年・選択した音源の版は、各楽曲ページの出典と注記を参照してください。",
+      "visual": {
+        "photo": "feature-slum-village-provided-collage.webp",
+        "tag": "feature-slum-village-name.svg",
+        "alt": "Slum Villageのコラージュ画像（ユーザー提供）",
+        "fit": "contain",
+        "focus": "50% 50%",
+        "provenance": "user-provided",
+        "credit": "ユーザー提供",
+        "changes": "提供された完成画像の構図・色・人物を変更せず、同じ寸法の可逆WebPに変換。名前は写真とは独立した文字デザインとして表示。",
+        "precomposed": true
+      },
+      "editorial": {
+        "format": "source-led-v1",
+        "title": "Detroitの輪の中から、次のグルーヴへ。",
+        "deck": "Conant Gardensから広がったラップとビートの共同作業。初期の3人、変わる編成、変わらないレコードへの好奇心をたどる。",
+        "introduction": [
+          "Slum Villageを、J Dillaの参加したグループという一行だけで閉じてしまうのは惜しい。誰がビートを作り、誰が声を重ね、どんな場所でその曲が育ったのか。ここではその関係を、本人の証言とレーベル資料から読み直す。"
+        ],
+        "sections": [
+          {
+            "heading": "DETROIT / CONANT GARDENS",
+            "paragraphs": [
+              "活動の根は米国ミシガン州Detroit、Conant Gardens。Ne’Astra Musicの2013年の資料は、初期のメンバーをBaatin、T3、J Dillaと記し、同じ地域で育った3人がDetroitのアンダーグラウンドで活動を広げたことを伝えている。これは出生地だけでなく、音楽活動の地域としてのDetroitだ。"
+            ],
+            "sources": [
+              0
+            ]
+          },
+          {
+            "heading": "レコードが街に届くまで",
+            "paragraphs": [
+              "T3は2024年の取材で、St. Andrew’sとHip Hop Shopを当時の集まる場所として挙げている。自分たちで作ったカセットをDJのHouse Shoesへ渡し、毎週プレイされることで曲が知られていったという。作品が街に届く道筋には、スタジオだけでなくDJと現場があった。"
+            ],
+            "sources": [
+              1
+            ]
+          },
+          {
+            "heading": "2000 / FANTASTIC VOL. 2",
+            "paragraphs": [
+              "2000年作『Fantastic Vol. 2』は、このページから聴き進める大きな入口。日本盤のレーベル資料では、[Conant Gardens](#/song/slum-village-conant-gardens)、[Fall in Love](#/song/slum-village-fall-in-love)、[Get Dis Money](#/song/slum-village-get-dis-money)、[Players](#/song/slum-village-players)の収録を確認できる。日本盤発売日は2000年8月2日で、各曲の最初の発表時点と同一とは限らない。",
+              "なお、本サイトの[Fantastic](#/song/slum-village-fantastic)は2005年作『Slum Village』に収録された曲。『Fantastic Vol. 2』の「Untitled / Fantastic」と、タイトルの似かよいだけでひとまとめにしない。"
+            ],
+            "sources": [
+              2,
+              5
+            ]
+          },
+          {
+            "heading": "J-88という別名義、客演という別の接点",
+            "paragraphs": [
+              "J-88はSlum Villageの別名義。『Best Kept Secret』に収録された[Get It Together (Madlib Remix)](#/song/slum-village-get-it-together-madlib-remix)も、このグループをたどる作品として含める。別名義の同定にはQobuz掲載のTiVo解説を参照した。",
+              "一方、Commonの[Thelonius](#/song/common-thelonius)、DJ Jazzy Jeffの[Are U Ready?](#/song/dj-jazzy-jeff-are-u-ready)、Dweleの[A.N.G.E.L.](#/song/dwele-angel-user-selected)は、主名義を置き換えず参加作品として並べる。下の切り替えで「本人・グループ名義」と「制作・参加作品」を分けて聴ける。"
+            ],
+            "sources": [
+              3
+            ]
+          },
+          {
+            "heading": "編成を変えて続くグループ",
+            "paragraphs": [
+              "歴代の編成と、取材時点の編成は分けておきたい。2013年の『Evolution』のレーベル資料ではT3、Young RJ、Illa Jが記されている。2024年のThe FADERのインタビューはT3とYoung RJの2人を取材している。掲載写真だけから現在のメンバー構成や撮影時期を判断してはいない。",
+              "同取材でT3は、2人でレコードを聴き、ループを選び、Young RJが切り分けていく作業を説明する。『F.U.N.』（2024年）ではファンクやディスコへ向かった。昔の音を固定して守るだけでなく、レコードを探す方法を次の作品へ持ち込んでいる。"
+            ],
+            "sources": [
+              0,
+              1,
+              4
+            ]
+          },
+          {
+            "heading": "このページの聴き方",
+            "paragraphs": [
+              "まず「Conant Gardens」から、同じアルバムの「Players」「Fall in Love」へ。次に2004年の「Reunion」、2005年の「Ez Up」や「Can I Be Me」、2010年の「Earl Flinn」へ進む。ここでの選曲順は編集上の提案であり、DJでの使用頻度の順位ではない。",
+              "声とビートを別々に採点するのではなく、どこで譲り合い、どこで前へ出るかに耳を置きたい。グループの名前はひとつでも、そこに残る時間と人の組み合わせはひとつではない。"
+            ],
+            "sources": []
+          }
+        ],
+        "sources": [
+          {
+            "label": "Ne’Astra Music / Traffic Entertainment — Evolution（2013年・公式配給資料）",
+            "url": "https://trafficent.com/wp-content/uploads/2013/06/NMG-0051-SLUM-VILLAGE-Evolution-CD-LP.pdf"
+          },
+          {
+            "label": "The FADER — T3・Young RJインタビュー（2024年5月15日）",
+            "url": "https://www.thefader.com/2024/05/15/slum-village-fun-interview"
+          },
+          {
+            "label": "Victor — Fantastic Vol.2 日本盤（2000年）",
+            "url": "https://www.jvcmusic.co.jp/-/Discography/A014910/VICP-61092.html"
+          },
+          {
+            "label": "Qobuz — J-88 / Slum Village（TiVo解説・別名義の補助資料）",
+            "url": "https://www.qobuz.com/us-en/album/j-88-slum-village/ujaqmi2huhvva"
+          },
+          {
+            "label": "Slum Village公式Bandcamp — F.U.N（2024年）",
+            "url": "https://officialslumvillage.bandcamp.com/album/f-u-n"
+          },
+          {
+            "label": "Apple Music — Slum Village（2005年・公式配信カタログ）",
+            "url": "https://music.apple.com/us/album/slum-village/6820296166"
+          }
+        ],
+        "disclosure": "沿革は出典の時点を明記し、歴代メンバーと現在の編成を混同しません。「このページの聴き方」はDJ Naoyamanによる編集上の視点です。個別曲の制作クレジット・発表年はリンク先の資料に基づきます。",
+        "context": "Detroitを活動拠点に、T3、Baatin、J Dillaの初期編成から歩みを重ねたグループ。別名義J-88と客演作品も区別してたどる。"
+      }
     }
   ]
 }
