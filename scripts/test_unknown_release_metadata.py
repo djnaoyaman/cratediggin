@@ -56,7 +56,9 @@ class UnknownReleaseMetadataTests(unittest.TestCase):
         self.assertIn("['制作',s.producer||'未確認']", source)
         script = "const s={album:null,producer:null}; const v=[['アルバム',s.album||'未確認'],['制作',s.producer||'未確認']]; process.stdout.write(JSON.stringify(v));"
         self.assertEqual(json.loads(subprocess.check_output(['node', '-e', script])), [['アルバム','未確認'],['制作','未確認']])
-        self.assertIn("t.get('yearQualifier') or t.get('yearStatus')=='unconfirmed'", (ROOT/'build.py').read_text())
+        static_source = (ROOT/'build.py').read_text()
+        self.assertIn("'<p class=\"work-year\">'+e(year_label(t))+'</p>'", static_source)
+        self.assertIn("'<p class=\"work-year-note\">'+e(t['yearDisplayNote'])+'</p>' if t.get('yearDisplayNote') else ''", static_source)
 
 if __name__ == '__main__':
     unittest.main()
