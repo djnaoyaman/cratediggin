@@ -12385,6 +12385,49 @@
       "paletteReviewed": true,
       "noSiteBranding": true,
       "reviewNote": "Creator and independent white/dark 600px and 300px, title/artist/feature/version, concept-boundary, displaySizing v1 and full-crop RGBA/hash QA PASS. Private preparation only; no playback or live-site approval."
+    },
+    {
+      "id": "michael-christmas-intercontinental-champion",
+      "title": "Intercontinental Champion",
+      "artist": "Michael Christmas",
+      "album": "Baggy Eyes",
+      "palette": [
+        "#00623b",
+        "#13b94d",
+        "#b795e0",
+        "#817858",
+        "#a62a1d",
+        "#f3ead5"
+      ],
+      "paletteSource": "Official current Baggy Eyes Apple catalog cover plus declared pale-cream readability accent",
+      "paletteSourceURL": "https://music.apple.com/us/song/intercontinental-champion/1462838570",
+      "paletteNote": "Main green/lavender/earth/red colors approximately derived from a viewed official current Baggy Eyes catalog cover. Pale cream is a declared readability accent. Palette only, no character, hammock, landscape, fruit, illustration layout or advisory copied. This is a current catalog cover, not a verified original-issue cover scan.",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          138,
+          61,
+          1825,
+          801
+        ],
+        "outputSha256": "8531ab3bfa1c022f79b86606e4804464d20fba3e2ae760d700001435e5c0cc3a",
+        "sourceImage": "assets/graffiti/originals/michael-christmas-intercontinental-champion-shared-stroke-original.png",
+        "sourceSha256": "c5e0a7257fda56c2f4c11e089331392614bc920742d4a0734a32db82b83307fa"
+      },
+      "concept": "INTER と CONTINENTAL の間に残る透明な隔たりを、CHAMPION の H から続く共通筆画で受け止める。離れた字群に同じ称号を成立させる、題名由来の自主的な編集解釈。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "Original title-led editorial interpretation only: the H stroke supports separated parts of the long title. Not verified lyrics, sound, wrestling biography, sports achievement, artist visual intent or cover narrative. Current selected official Topic audio and catalog date are 2019-05-17; exact song original year remains null. Earlier 2016 eight-track EP reporting does not prove this exact song/master equivalence with the current seven-track catalog. Producer remains null. No remix/live specification in the user request, but DJ-mix excerpt/master identity is not verified. No playback, Japan or embed success claimed. Existing denied SoundCloud research route and unsuccessful Shazam route were not retried.",
+      "status": "ready",
+      "image": "assets/graffiti/michael-christmas-intercontinental-champion-shared-stroke-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/michael-christmas-intercontinental-champion-shared-stroke-original.png",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "reviewNote": "Creator and independent final white/dark 600px and 300px, exact typography, concept/evidence boundaries, displaySizing v1, full crop RGBA and SHA256 QA PASS. Private preparation only; no playback or live-site approval."
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
