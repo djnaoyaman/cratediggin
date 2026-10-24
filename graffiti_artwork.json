@@ -12176,6 +12176,48 @@
       "status": "ready",
       "image": "assets/graffiti/9th-wonder-buckshot-here-we-go-reused-sized-v1.webp",
       "reviewNote": "独立確認済みの曲別文字構成。元描画を保ち可視alpha境界からcanvas余白のみ正規化。"
+    },
+    {
+      "id": "9th-wonder-tellmenow",
+      "title": "TellMeNow!!!",
+      "artist": "9th Wonder",
+      "album": "Zion II",
+      "palette": [
+        "#506b73",
+        "#929c91",
+        "#e4ddcc",
+        "#292b28",
+        "#aa9780"
+      ],
+      "paletteSource": "Zion II",
+      "paletteNote": "Actual official cover viewed; approximate editorial colors only. Existing artwork reused without redraw.",
+      "paletteSourceURL": "https://music.apple.com/us/album/zion-ii/1325502928",
+      "concept": "TellMe / Now / !!! を別の段に置き、Now のすぐ下で三つの大きな独立した感嘆符を重ねる。今、返答を求める題名の語感を、文字と符号の配置・重みで強める自主的な編集解釈。",
+      "interpretationLimits": "Existing art reused unchanged. Authored title-led reading only, not verified lyrics, artist intent, an audible vocal demand or sonic intensity. Three exclamation marks are the exact written punctuation, not three performers, beats or recorded events. No acronym or sample identification. Selected official distributor Topic metadata matches TellMeNow!!! /9th Wonder/Zion II/2017 Jamla; YouTube2:47 versus catalog2:46 is recorded without asserting why or exact-master equivalence. No playback, embed, Japan availability or clean/explicit verification. Producer is left unasserted in this art packet.",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "noSiteBranding": true,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          87,
+          79,
+          1144,
+          1047
+        ],
+        "outputSha256": "a3e25a55bb566898082905a3aaab0af4ec97db3684389809af84b17c820e2510",
+        "sourceImage": "assets/graffiti/originals/9th-wonder-tellmenow-punctuation-reused-original.png",
+        "sourceSha256": "533dc4aa2ae4683e68437eda126c0c7f56e457cf03b0534b92592604258bcc56"
+      },
+      "originalImage": "assets/graffiti/originals/9th-wonder-tellmenow-punctuation-reused-original.png",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "status": "ready",
+      "image": "assets/graffiti/9th-wonder-tellmenow-punctuation-reused-sized-v1.webp",
+      "reviewNote": "独立確認済みの曲名/3つの感嘆符と既存原画を保持し、可視alpha境界からcanvas余白のみ正規化。"
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
