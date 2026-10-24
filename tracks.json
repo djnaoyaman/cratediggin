@@ -72890,5 +72890,1075 @@
       "paletteSourceUrl": "https://music.apple.com/us/album/rap-or-go-to-the-league/1455519361",
       "paletteNote": "公式カタログのジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図は複製せず独自の文字アートとして制作。"
     }
+  },
+  {
+    "id": "slum-village-fantastic",
+    "title": "Fantastic",
+    "artist": "Slum Village",
+    "primaryArtist": "Slum Village",
+    "primaryArtists": [
+      "Slum Village"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Slum Village"
+    ],
+    "year": 2005,
+    "album": "Slum Village",
+    "category": "Hip Hop",
+    "region": "未確認",
+    "scene": "未確認",
+    "producer": null,
+    "producers": [],
+    "label": "未確認",
+    "yearBasis": "原曲年と配信版・DJミックス年を区別。",
+    "essayTitle": "Fantastic — 版と背景をたどる",
+    "deck": "選んだ「Fantastic」は、Slum Villageのセルフタイトル作に収められた曲。指定された動画の表示も同作に対応しており、『Fan-Tas-Tic, Vol. 1』の導入曲やVol. 2の「Untitled / Fantastic」とは区別した。原曲の年は2005年として整理し、依頼リストの2013年を初出年とは扱わない。アートでは題名から、文字の内側に収まっていた線が境界を越える姿を自分たちなりに描いた。これは歌詞や作者の意図を説明するものではない。",
+    "context": "曲名・版指定と資料からたどる",
+    "essay": [
+      "選んだ「Fantastic」は、Slum Villageのセルフタイトル作に収められた曲。指定された動画の表示も同作に対応しており、『Fan-Tas-Tic, Vol. 1』の導入曲やVol. 2の「Untitled / Fantastic」とは区別した。原曲の年は2005年として整理し、依頼リストの2013年を初出年とは扱わない。アートでは題名から、文字の内側に収まっていた線が境界を越える姿を自分たちなりに描いた。これは歌詞や作者の意図を説明するものではない。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ]
+    ],
+    "sources": [
+      {
+        "label": "OfficialSlumVillage — Fantastic",
+        "url": "https://www.youtube.com/watch?v=-G2e2CGNKHY",
+        "kind": "動画メタデータ（検索表示）",
+        "evidence": "AdShare; Ne’Astra Music; official artist badge. User exact URL matches. Not Fan-Tas-Tic Vol1 intro or Vol2 Untitled/Fantastic."
+      },
+      {
+        "label": "Apple Music — Slum Village（セルフタイトル作）",
+        "url": "https://music.apple.com/us/album/slum-village/6820296166",
+        "kind": "公式配信カタログ",
+        "evidence": "2005 self-titled album; selected Fantastic, not Vol.1 intro or Vol.2 Untitled/Fantastic."
+      }
+    ],
+    "youtube": {
+      "id": "-G2e2CGNKHY",
+      "url": "https://www.youtube.com/watch?v=-G2e2CGNKHY",
+      "embedUrl": "https://www.youtube.com/embed/-G2e2CGNKHY",
+      "title": "Fantastic",
+      "channel": "OfficialSlumVillage",
+      "type": "Official Audio",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "AdShare; Ne’Astra Music; official artist badge. User exact URL matches. Not Fan-Tas-Tic Vol1 intro or Vol2 Untitled/Fantastic."
+    },
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "Fantastic",
+      "tag": "SLUM VILLAGE",
+      "lines": [
+        "Fantastic"
+      ],
+      "style": "piece",
+      "seed": 2026102401,
+      "palette": [
+        "#f2f2eb",
+        "#aeb1aa",
+        "#171b18",
+        "#666d5b",
+        "#b3a06a"
+      ],
+      "paletteSource": "Slum Village",
+      "paletteSourceUrl": "",
+      "paletteNote": "Exact identity and title support this private design; no verified lyric meaning, artist intention, heard sound or measured music claim. Do not substitute Fantastic Vol1 intro or Fantastic Vol2. User2013 is mix-container year, not originalrelease. No full playback or originalmaster/DJmix comparison performed by creator. Album date/day not independently reasserted. Current official albumcover reused for palette only. First A line remains contained; second A line emerges through its boundary and reaches the left inner edge of S. The S mustard inner curve echoes that line; do not overstate it as a mathematically continuous single mustard contour through the whole S."
+    },
+    "addedOrder": 560,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "slum-village-things-u-do-remix",
+    "title": "Things U Do (Remix)",
+    "artist": "Slum Village",
+    "primaryArtist": "Slum Village",
+    "primaryArtists": [
+      "Slum Village"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Slum Village"
+    ],
+    "year": 1997,
+    "album": "Fan-Tas-Tic, Vol. 1",
+    "category": "Hip Hop",
+    "region": "未確認",
+    "scene": "未確認",
+    "producer": "J Dilla",
+    "producers": [
+      "J Dilla"
+    ],
+    "label": "未確認",
+    "yearBasis": "1997 circulation-era attribution; selected official digital edition is 2006-05-30. Apple search metadata says 1996, so do not invent an exact first-release date. Preserve this discrepancy in private research.",
+    "essayTitle": "Things U Do (Remix) — 版と背景をたどる",
+    "deck": "『Fan-Tas-Tic, Vol. 1』に収められた Jay Dee のリミックス。J-88 名義で発表された Madlib 版とは別の録音として押さえておきたい。Ethan Hein の採譜分析は、再利用された Gary Burton の素材と、反復の中の小さな変化に着目している。DJ KIYO のリストを辿るときも、曲名だけでなく、この版指定が手掛かりになる。",
+    "context": "曲名・版指定と資料からたどる",
+    "essay": [
+      "『Fan-Tas-Tic, Vol. 1』に収められた Jay Dee のリミックス。J-88 名義で発表された Madlib 版とは別の録音として押さえておきたい。Ethan Hein の採譜分析は、再利用された Gary Burton の素材と、反復の中の小さな変化に着目している。DJ KIYO のリストを辿るときも、曲名だけでなく、この版指定が手掛かりになる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Ethan Hein — J Dillaのサンプル再構成分析",
+        "url": "https://ethanhein.substack.com/p/hear-j-dilla-flip-a-gary-burton-sample-three-different-ways",
+        "kind": "named educator original analytical essay",
+        "evidence": "Exact remix-specific concept: reused Gary Burton source and variations within apparent repetition. Do not repeat his speculative live-bass explanation as fact. Keep total paraphrase under 200 words; quote zero lyrics."
+      },
+      {
+        "label": "music.apple.com — Things U Do (Remix)",
+        "url": "https://music.apple.com/us/song/1160014768",
+        "kind": "authorized catalog search metadata",
+        "evidence": "Exact title/album; catalog year1996 conflicts with1997 circulation attribution. Ordinary open Cache miss; not retried."
+      },
+      {
+        "label": "Qobuz — Fan-Tas-Tic, Vol. 1 収録一覧",
+        "url": "https://www.qobuz.com/ca-en/album/fan-tas-tic-vol-1-slum-village/0084854212925",
+        "kind": "authorized catalog search metadata",
+        "evidence": "Selected edition2006-05-30, Ne'Astra Music, Hip-Hop/Rap; ordinary open Cache miss; not retried."
+      },
+      {
+        "label": "www.youtube.com — Things U Do (Remix)",
+        "url": "https://www.youtube.com/watch?v=uGqGgUomx00",
+        "kind": "indexed metadata only; never opened",
+        "evidence": "Official exact recording, producer and selected digital edition."
+      },
+      {
+        "label": "Royal Collective — DJ KIYOミックス作品の商品紹介",
+        "url": "https://royalcollective.stores.jp/items/67a8b1a6b4982d6d31392f2d",
+        "kind": "DJ KIYO official storefront",
+        "evidence": "2013 original Slum Village Japan concert distribution; 15track/30min mix; not original song dates."
+      }
+    ],
+    "youtube": {
+      "id": "uGqGgUomx00",
+      "url": "https://www.youtube.com/watch?v=uGqGgUomx00",
+      "embedUrl": "https://www.youtube.com/embed/uGqGgUomx00",
+      "title": "Things U Do (Remix)",
+      "channel": "OfficialSlumVillage",
+      "type": "Official Audio",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "Indexed search metadata only: OfficialSlumVillage, Official Artist Channel; Virgin Music Group; exact Things U Do (Remix); Fan-Tas-Tic, Vol. 1; producer Jay Dee; 2006 Donut Boy Records; release 2006-05-30."
+    },
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "Things U Do (Remix)",
+      "tag": "SLUM VILLAGE",
+      "lines": [
+        "Things U Do (Remix)"
+      ],
+      "style": "piece",
+      "seed": 2026102402,
+      "palette": [
+        "#202321",
+        "#e4dfcf",
+        "#aa563d",
+        "#64747a",
+        "#526453"
+      ],
+      "paletteSource": "Fan-Tas-Tic Vol.1 official release cover shown by Get On Down",
+      "paletteSourceUrl": "https://getondown.com/products/fan-tas-tic-volume-1-2-lp",
+      "paletteNote": "実際に視認したジャケット由来の近似編集配色。厳密抽出値ではない。写真・人物・構図・既存logoは複製しない。"
+    },
+    "addedOrder": 561,
+    "datePublished": "2026-10-24",
+    "yearQualifier": "流通期・資料差あり",
+    "yearDisplayNote": "1997年の流通期を基準に整理。カタログには1996年の表記もあり、選択デジタル版の日付とは区別しています。"
+  },
+  {
+    "id": "slum-village-this-beat-keep-it-on-remix",
+    "title": "This Beat (Keep It On) (Remix)",
+    "artist": "Slum Village",
+    "primaryArtist": "Slum Village",
+    "primaryArtists": [
+      "Slum Village"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Slum Village"
+    ],
+    "year": 1997,
+    "album": "Fan-Tas-Tic, Vol. 1",
+    "category": "Hip Hop",
+    "region": "未確認",
+    "scene": "未確認",
+    "producer": null,
+    "producers": [],
+    "label": "未確認",
+    "yearBasis": "1997 circulation-era attribution; catalogs also tag1996. No exact originalday asserted.",
+    "essayTitle": "This Beat (Keep It On) (Remix) — 版と背景をたどる",
+    "deck": "「This Beat (Keep It On) (Remix)」としてリストに挙げられた曲。配信カタログでは「Keep It On (Remix)」の表記で、『Fan-Tas-Tic, Vol. 1』の通常版とは別のトラックとして並ぶ。今回はリミックス表記のある動画を候補に選んだ。1996年と1997年の年表記には資料差があり、選択配信版の日付と原曲の流通期は分けて扱う。",
+    "context": "曲名・版指定と資料からたどる",
+    "essay": [
+      "「This Beat (Keep It On) (Remix)」としてリストに挙げられた曲。配信カタログでは「Keep It On (Remix)」の表記で、『Fan-Tas-Tic, Vol. 1』の通常版とは別のトラックとして並ぶ。今回はリミックス表記のある動画を候補に選んだ。1996年と1997年の年表記には資料差があり、選択配信版の日付と原曲の流通期は分けて扱う。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Qobuz — Fan-Tas-Tic, Vol. 1 収録一覧",
+        "url": "https://www.qobuz.com/ca-en/album/fan-tas-tic-vol-1-slum-village/0084854212925",
+        "kind": "参考資料",
+        "evidence": "Authorized search catalog: track14 Keep It On(Remix),2:59; copyright2006. Openfailed Cache miss not retried."
+      },
+      {
+        "label": "Sounds of the Universe — Fan-Tas-Tic Volume 1 再発収録一覧",
+        "url": "https://soundsoftheuniverse.com/product/slum-village-fan-tas-tic-volume-1-2xlp-bonus-unreleased-7",
+        "kind": "参考資料",
+        "evidence": "Retailer Barak officialreissue tracklist separately identifies original track2 and remixtrack14."
+      },
+      {
+        "label": "Banquet Records — The Fantastic Box 収録一覧",
+        "url": "https://www.banquetrecords.com/slum-village/the-fantastic-box/NMG5760AC7",
+        "kind": "参考資料",
+        "evidence": "Long title This Beat(Keep It On)(Remix) confirmsalias."
+      },
+      {
+        "label": "OfficialSlumVillage — This Beat (Keep It On) (Remix)",
+        "url": "https://www.youtube.com/watch?v=hibcIgWag_M",
+        "kind": "動画メタデータ（検索表示）",
+        "evidence": "Search title Keep It On (Remix); AdShare / Ne’Astra. Matches requested remix alias and ~2:59 catalog, not 3:10 original."
+      }
+    ],
+    "youtube": {
+      "id": "hibcIgWag_M",
+      "url": "https://www.youtube.com/watch?v=hibcIgWag_M",
+      "embedUrl": "https://www.youtube.com/embed/hibcIgWag_M",
+      "title": "This Beat (Keep It On) (Remix)",
+      "channel": "OfficialSlumVillage",
+      "type": "Official Audio",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "Search title Keep It On (Remix); AdShare / Ne’Astra. Matches requested remix alias and ~2:59 catalog, not 3:10 original."
+    },
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "This Beat (Keep It On) (Remix)",
+      "tag": "SLUM VILLAGE",
+      "lines": [
+        "This Beat (Keep It On) (Remix)"
+      ],
+      "style": "piece",
+      "seed": 2026102403,
+      "palette": [
+        "#202321",
+        "#e4dfcf",
+        "#aa563d",
+        "#64747a",
+        "#526453"
+      ],
+      "paletteSource": "Fan-Tas-Tic Vol. 1",
+      "paletteSourceUrl": "",
+      "paletteNote": "Authored editorial design derived from the title’s continuity and the catalog’s separate original/remix entries. It is not verified lyric meaning, artist-intended design, an audio-derived loop, shared actual sample claim or comparison of the two masters. Requested This Beat (Keep It On) (Remix) and catalog Keep It On (Remix) aliases remain distinct. 1997 circulation-era attribution and 1996 catalog dates are preserved without invented first-release day. Exact official remix ID is unresolved; do not substitute ordinary Keep It On ID RGpcYtwE-24 or Madlib version. Full preparation remains incomplete despite art readiness."
+    },
+    "addedOrder": 562,
+    "datePublished": "2026-10-24",
+    "yearQualifier": "流通期・資料差あり",
+    "yearDisplayNote": "1997年の流通期を基準に整理。カタログには1996年の表記もあり、選択デジタル版の日付とは区別しています。"
+  },
+  {
+    "id": "slum-village-get-it-together-madlib-remix",
+    "title": "Get It Together (Madlib Remix)",
+    "artist": "J-88",
+    "primaryArtist": "J-88",
+    "primaryArtists": [
+      "J-88"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "J-88"
+    ],
+    "year": 2000,
+    "album": "Best Kept Secret",
+    "category": "Hip Hop",
+    "region": "未確認",
+    "scene": "未確認",
+    "producer": null,
+    "producers": [],
+    "label": "未確認",
+    "yearBasis": "原曲年と配信版・DJミックス年を区別。",
+    "essayTitle": "Get It Together (Madlib Remix) — 版と背景をたどる",
+    "deck": "J-88という別名の下で発表されたSlum Villageの『Best Kept Secret』に入るMadlibリミックス。2000年の作品と、2009年の配信版『J-88』を分けて記録しておきたい。題名だけで検索すると原曲やIG Culture版も並ぶが、ここで辿るのはMadlibの名を伴う版。別名義と版指定の二つをほどくことが、この選曲の入口になる。",
+    "context": "曲名・版指定と資料からたどる",
+    "essay": [
+      "J-88という別名の下で発表されたSlum Villageの『Best Kept Secret』に入るMadlibリミックス。2000年の作品と、2009年の配信版『J-88』を分けて記録しておきたい。題名だけで検索すると原曲やIG Culture版も並ぶが、ここで辿るのはMadlibの名を伴う版。別名義と版指定の二つをほどくことが、この選曲の入口になる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Qobuz — J-88 配信作品情報",
+        "url": "https://www.qobuz.com/us-en/album/j-88-slum-village/ujaqmi2huhvva",
+        "kind": "authorizedcatalog+attributedTiVoreview",
+        "evidence": "Track8exactremix,selected2009edition,writer/remixercredits; TiVoreviewexplicitlyJ88alias and2000original. Totalderivedwordsunder200; noquotations."
+      },
+      {
+        "label": "Groove Distribution — J-88 作品資料",
+        "url": "https://www.groovedis.com/shop/product.php?cat=263&page=207&productid=847179",
+        "kind": "distributorsearchmetadata",
+        "evidence": "2000Superrappin;J88isDilla,T3,Baatin;MadlibGetItTogether remix. OrdinaryopenCachemissnotretried."
+      },
+      {
+        "label": "RecordProduction — Madlib／Quasimoto 制作クレジット集",
+        "url": "https://www.recordproduction.com/credits/madlib-quasimoto",
+        "kind": "producercreditarchive2002withWaxploitationcontact",
+        "evidence": "J88GetItTogether additionalproduction/remix creditedMadlib."
+      },
+      {
+        "label": "www.youtube.com — Get It Together (Madlib Remix)",
+        "url": "https://www.youtube.com/watch?v=HuRjDr0HQgo",
+        "kind": "officialindexedmetadataONLY",
+        "evidence": "Exactofficialdigitalrecording."
+      }
+    ],
+    "youtube": {
+      "id": "HuRjDr0HQgo",
+      "url": "https://www.youtube.com/watch?v=HuRjDr0HQgo",
+      "embedUrl": "https://www.youtube.com/embed/HuRjDr0HQgo",
+      "title": "Get It Together (Madlib Remix)",
+      "channel": "OfficialSlumVillage",
+      "type": "Official Audio",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "Search metadata only: OfficialSlumVillage official artistchannel,VirginMusicGroup,J-88,2009BarakEntertainment,2009-04-15,JayDeecomposer,MadLibremixer. No YouTubeopen/fetch/playback."
+    },
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "Get It Together (Madlib Remix)",
+      "tag": "J-88",
+      "lines": [
+        "Get It Together (Madlib Remix)"
+      ],
+      "style": "piece",
+      "seed": 2026102404,
+      "palette": [
+        "#281c1d",
+        "#a9372b",
+        "#d6c884",
+        "#eee5d4",
+        "#bd7449"
+      ],
+      "paletteSource": "J-88 / Best Kept Secret authorized cover",
+      "paletteSourceUrl": "https://music.apple.com/us/album/j-88/6820632374",
+      "paletteNote": "Actual cover visually inspected; editorial paper-ink colors only, not an exact colorimetric extraction. No cover portrait, logo or composition copied."
+    },
+    "artistAliases": [
+      "Slum Village"
+    ],
+    "remixer": "Madlib",
+    "remixers": [
+      "Madlib"
+    ],
+    "producerBasis": "Jay Dee is documented as composer; not promoted to producer solely from that credit. Madlib explicitly credited remix/additional production.",
+    "addedOrder": 563,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "slum-village-itz-your-world",
+    "title": "It'z Your World",
+    "artist": "Slum Village",
+    "primaryArtist": "Slum Village",
+    "primaryArtists": [
+      "Slum Village"
+    ],
+    "featuredArtists": [
+      "J. Isaac",
+      "Kurupt"
+    ],
+    "artists": [
+      "Slum Village",
+      "J. Isaac",
+      "Kurupt"
+    ],
+    "year": 2005,
+    "album": "Prequel to a Classic",
+    "category": "Hip Hop",
+    "region": "未確認",
+    "scene": "未確認",
+    "producer": null,
+    "producers": [],
+    "label": "未確認",
+    "yearBasis": "原曲年と配信版・DJミックス年を区別。",
+    "essayTitle": "It'z Your World — 版と背景をたどる",
+    "deck": "Slum Villageの「It’z Your World」は、2005年の『Prequel to a Classic』に収められ、後の『Greatest Hits, Vol. 2』にも収録された曲。今回は後者の配信音源を候補に選んだ。コンピレーションの配信年を原曲の初出年と取り違えず、同名の別アーティスト曲とも区別している。",
+    "context": "曲名・版指定と資料からたどる",
+    "essay": [
+      "Slum Villageの「It’z Your World」は、2005年の『Prequel to a Classic』に収められ、後の『Greatest Hits, Vol. 2』にも収録された曲。今回は後者の配信音源を候補に選んだ。コンピレーションの配信年を原曲の初出年と取り違えず、同名の別アーティスト曲とも区別している。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "music.amazon.com — It'z Your World",
+        "url": "https://music.amazon.com/tracks/B01M0Y812A",
+        "kind": "authorizedcatalog",
+        "evidence": "2007GreatestHitsVol.2;4:10;Barak. Do not call2007original."
+      },
+      {
+        "label": "RapReviews — Prequel to a Classic レビュー",
+        "url": "https://www.rapreviews.com/archive/2005_10_prequelto.html",
+        "kind": "contemporarycriticalreview",
+        "evidence": "2005Prequeltrack and Kuruptromanticaddress; noheardsonicclaimsborrowed."
+      },
+      {
+        "label": "Air Adam — Episode 87 曲目と解説",
+        "url": "https://airadam.libsyn.com/episode-87",
+        "kind": "DJpodcasteditorial",
+        "evidence": "TracknamedwithJ.Isaac/Kurupt,JayDee+YoungRJattribution; secondarynotartistinterview."
+      },
+      {
+        "label": "OfficialSlumVillage — It'z Your World",
+        "url": "https://www.youtube.com/watch?v=utAS0WxexPo",
+        "kind": "動画メタデータ（検索表示）",
+        "evidence": "AdShare / Ne’Astra. Compilation reissue candidate, original Prequel to a Classic. Not Common or J.Isaac solo/remaster."
+      }
+    ],
+    "youtube": {
+      "id": "utAS0WxexPo",
+      "url": "https://www.youtube.com/watch?v=utAS0WxexPo",
+      "embedUrl": "https://www.youtube.com/embed/utAS0WxexPo",
+      "title": "It'z Your World",
+      "channel": "OfficialSlumVillage",
+      "type": "Official Audio",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "AdShare / Ne’Astra. Compilation reissue candidate, original Prequel to a Classic. Not Common or J.Isaac solo/remaster."
+    },
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "It'z Your World",
+      "tag": "SLUM VILLAGE",
+      "lines": [
+        "It'z Your World"
+      ],
+      "style": "piece",
+      "seed": 2026102405,
+      "palette": [
+        "#a7883b",
+        "#c2b15c",
+        "#22251f",
+        "#efeee0",
+        "#7f8580"
+      ],
+      "paletteSource": "Prequel to a Classic (2005)",
+      "paletteSourceUrl": "https://www.amoeba.com/prequel-to-a-classic-cd-slum-village/albums/670499/",
+      "paletteNote": "Approximate visual selection after actual cover viewing, not measured dominant-colour statistics. Palette reference only, no portrait or cover composition copying."
+    },
+    "addedOrder": 564,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "dj-jazzy-jeff-are-u-ready",
+    "title": "Are U Ready?",
+    "artist": "DJ Jazzy Jeff",
+    "primaryArtist": "DJ Jazzy Jeff",
+    "primaryArtists": [
+      "DJ Jazzy Jeff"
+    ],
+    "featuredArtists": [
+      "Slum Village"
+    ],
+    "artists": [
+      "DJ Jazzy Jeff",
+      "Slum Village"
+    ],
+    "year": 2002,
+    "album": "The Magnificent EP /For Da Love Of Da Game",
+    "category": "Hip Hop",
+    "region": "未確認",
+    "scene": "未確認",
+    "producer": "J Dilla / Jeffrey A. Townes / T. Glover / R.L. Altman",
+    "producers": [
+      "J Dilla",
+      "Jeffrey A. Townes",
+      "T. Glover",
+      "R.L. Altman"
+    ],
+    "label": "BBE Music",
+    "yearBasis": "原曲年と配信版・DJミックス年を区別。",
+    "essayTitle": "主役の名義と、制作の名義をたどる",
+    "deck": "2002年の『The Magnificent EP /For Da Love Of Da Game』に収められた「Are U Ready?」。DJ Jazzy Jeff名義でSlum Villageを迎え、曲別の配信クレジットでは制作欄にJames Dewitt Yancey、つまりJ Dillaの名も並ぶ。表に出るアーティスト名と制作の名をたどると、この一曲の交わりが見えてくる。",
+    "context": "曲名・版指定と資料からたどる",
+    "essay": [
+      "2002年の『The Magnificent EP /For Da Love Of Da Game』に収められた「Are U Ready?」。DJ Jazzy Jeff名義でSlum Villageを迎え、曲別の配信クレジットでは制作欄にJames Dewitt Yancey、つまりJ Dillaの名も並ぶ。表に出るアーティスト名と制作の名をたどると、この一曲の交わりが見えてくる。",
+      "背景にあるのは、作り手の自由を重視したBBEのBeat Generation企画。レーベルは『The Magnificent』を、Jazzy JeffのA Touch Of Jazzに集まるフィラデルフィアの才能を紹介する作品として説明している。その周辺に置かれたこのEPでは、Slum Villageとの接点も見逃せない。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Apple Music — The Magnificent EP 収録一覧",
+        "url": "https://music.apple.com/us/album/the-magnificent-ep-for-da-love-of-da-game/1477392535",
+        "kind": "official distribution catalog",
+        "evidence": "EP title / 2002 original catalog year / 2002-06-17 catalog date / BBE Music / official cover URL from public page metadata"
+      },
+      {
+        "label": "www.youtube.com — Are U Ready?",
+        "url": "https://www.youtube.com/watch?v=To7fmWOt5cU",
+        "kind": "official distributor indexed search metadata ONLY",
+        "evidence": "exact track title / DJ Jazzy Jeff and Slum Village / original EP catalog mapping / producer James Dewitt Yancey / 2002 BBE copyright / 2002-06-17 release date"
+      },
+      {
+        "label": "BBE Music — The Magnificent EP 再発作品情報",
+        "url": "https://bbemusic.com/product/the-beat-generation-10th-anniversary-presents-dj-jazzy-jeff-the-magnificent-ep",
+        "kind": "record label primary text",
+        "evidence": "2011 reissue explicitly separate / Are You Ready alias with Slum Village / Beat Generation producer-led creative freedom / The Magnificent and A Touch Of Jazz Philadelphia talent context"
+      },
+      {
+        "label": "Apple Music — J Dilla Production Deep Cuts プレイリスト",
+        "url": "https://music.apple.com/lr/playlist/j-dilla-production-deep-cuts/pl.cd56f5fccf5b45ecab39011743c76691",
+        "kind": "official distributor editorial playlist",
+        "evidence": "J Dilla production attribution corroboration / feature Slum Village / EP identity / 3:35 catalog duration"
+      },
+      {
+        "label": "bbemusic.bandcamp.com — Are U Ready?",
+        "url": "https://bbemusic.bandcamp.com/track/are-u-ready-main",
+        "kind": "record label official track",
+        "evidence": "Main version label / Slum Village feature / official external audio URL / 2011 compilation date not original date"
+      },
+      {
+        "label": "music.apple.com — Are U Ready?",
+        "url": "https://music.apple.com/us/song/1477392777",
+        "kind": "official exact-song catalog credits",
+        "evidence": "DJ Jazzy Jeff / Slum Village vocal catalog identity / James Dewitt Yancey, Jeffrey A. Townes, T. Glover and R.L. Altman all explicitly listed under Producer"
+      }
+    ],
+    "youtube": {
+      "id": "To7fmWOt5cU",
+      "url": "https://www.youtube.com/watch?v=To7fmWOt5cU",
+      "embedUrl": "https://www.youtube.com/embed/To7fmWOt5cU",
+      "title": "Are U Ready?",
+      "channel": "DJ Jazzy Jeff - Topic",
+      "type": "Official Audio",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "2002 The Magnificent EP /For Da Love Of Da Game catalog vocal track, not a remix; the exact master/excerpt used in the user mix is unverified."
+    },
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "Are U Ready?",
+      "tag": "DJ JAZZY JEFF",
+      "lines": [
+        "Are U Ready?"
+      ],
+      "style": "piece",
+      "seed": 2026102407,
+      "palette": [
+        "#213779",
+        "#f0f0e9",
+        "#17161b",
+        "#89847c",
+        "#a92e35"
+      ],
+      "paletteSource": "The Magnificent EP /For Da Love Of Da Game",
+      "paletteSourceUrl": "https://music.apple.com/us/album/the-magnificent-ep-for-da-love-of-da-game/1477392535",
+      "paletteNote": "Actual official EP cover visually inspected; editorial deep blue/chalk/charcoal/warmgrey/small mutedred. No cover imagery copied, no status-color interpretation."
+    },
+    "producerBasis": "Exact Apple song credits list James Dewitt Yancey, Jeffrey A. Townes, T. Glover and R.L. Altman as Producer; not sole J Dilla.",
+    "addedOrder": 565,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "slum-village-ez-up",
+    "title": "Ez Up",
+    "artist": "Slum Village",
+    "primaryArtist": "Slum Village",
+    "primaryArtists": [
+      "Slum Village"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Slum Village"
+    ],
+    "year": 2005,
+    "album": "Slum Village",
+    "category": "Hip Hop",
+    "region": "未確認",
+    "scene": "未確認",
+    "producer": "Young RJ（配信クレジット）",
+    "producers": [
+      "Young RJ"
+    ],
+    "label": "Barak Records (original album); Ne'Astra/Cinq (current Apple distribution)",
+    "yearBasis": "Self-titled album date. Older Apple song metadata gives 2005-08-23; October 17 contemporaneous release says current single and forthcoming October 25 album. Do not use album date as first single day.",
+    "essayTitle": "弦を切り分け、余白を残す",
+    "deck": "「Ez Up」の出発点を、Black Milkは2006年のRed Bull Music Academyで具体的に語っている。まず弦のサンプルがあり、それを切り分けてクラップとシンセ・ベースを加えた。音を詰め込みすぎず、必要な変化だけを置くという作り方だ。これは本人の制作説明であり、ここで新たに聴き取った描写ではない。",
+    "context": "曲名・版指定と資料からたどる",
+    "essay": [
+      "「Ez Up」の出発点を、Black Milkは2006年のRed Bull Music Academyで具体的に語っている。まず弦のサンプルがあり、それを切り分けてクラップとシンセ・ベースを加えた。音を詰め込みすぎず、必要な変化だけを置くという作り方だ。これは本人の制作説明であり、ここで新たに聴き取った描写ではない。",
+      "このトラックは当初Dweleが持っていたが、彼のアルバムには採用されず、Slum Villageが使うことになったという。2005年のセルフタイトル作に収録され、同年には歌詞を自動車向けに変えた広告版も作られた。本編とその別用途を分けておくと、一曲が辿った道筋が見えやすい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Apple Music — Slum Village セルフタイトル作",
+        "url": "https://music.apple.com/us/album/slum-village/6820296166",
+        "kind": "current official album catalog",
+        "evidence": "self-titled album / 2005-10-25 album date / current rights line / cover metadata / current Ez Up song URL"
+      },
+      {
+        "label": "www.youtube.com — Ez Up",
+        "url": "https://www.youtube.com/watch?v=Uw7PfsCEBOQ",
+        "kind": "official distributor indexed metadata ONLY",
+        "evidence": "exact self-titled vocal track / 2005 Barak / 2005-10-25 / Young RJ producer"
+      },
+      {
+        "label": "Red Bull Music Academy — Black Milk 本人講演",
+        "url": "https://www.redbullmusicacademy.com/lectures/black-milk-milkin-it/",
+        "kind": "2006 Black Milk first-person lecture transcript",
+        "evidence": "track initially with Dwele then used by Slum / sampled strings chopped / claps / synth bass / deliberate avoidance of clutter / Chevy commercial exposure"
+      },
+      {
+        "label": "The Auto Channel — Slum Village作品告知",
+        "url": "https://www.theautochannel.com/news/2005/10/17/145723.html",
+        "kind": "contemporaneous October 17, 2005 release announcement",
+        "evidence": "current Ez Up single before album / October 25 album release / Chevrolet commercial adaptation with car-themed lyrics; separate version"
+      }
+    ],
+    "youtube": {
+      "id": "Uw7PfsCEBOQ",
+      "url": "https://www.youtube.com/watch?v=Uw7PfsCEBOQ",
+      "embedUrl": "https://www.youtube.com/embed/Uw7PfsCEBOQ",
+      "title": "Ez Up",
+      "channel": "OfficialSlumVillage",
+      "type": "Official Audio",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "2005 self-titled vocal album track. No claim of identity with Prequel To A Classic excerpt, Connect Set rendition, Original Version/feat. Dwele, or Motor City commercial adaptation. Exact source of the 2013 mix excerpt is not verified."
+    },
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "Ez Up",
+      "tag": "SLUM VILLAGE",
+      "lines": [
+        "Ez Up"
+      ],
+      "style": "piece",
+      "seed": 2026102408,
+      "palette": [
+        "#f2f2eb",
+        "#aeb1aa",
+        "#171b18",
+        "#666d5b",
+        "#b3a06a"
+      ],
+      "paletteSource": "Slum Village",
+      "paletteSourceUrl": "",
+      "paletteNote": "The cut-band/one-strand/sparse-accent construction is editorial interpretation of Black Milk’s exact Ez Up production account in his 2006 RBMA lecture, not our listening result, a score or exact beat count. Unidentified sampled record is not named. The selected album track is not equated with the Chevrolet adaptation, Dwele Original Version, Prequel excerpt or Connect Set. Guest discrepancy is not merged; image names Slum Village only. Album date is not asserted as first single day. No lyric quotation or artist-approved diagram. Official audio ID is indexed metadata only; original 2013 mix master/runtime is not verified."
+    },
+    "producerBasis": "Selected indexed catalog gives Young RJ; Black Milk first-person production discussion is separately attributed in article.",
+    "addedOrder": 566,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "slum-village-where-do-we-go-from-here",
+    "title": "Where Do We Go From Here",
+    "artist": "Slum Village",
+    "primaryArtist": "Slum Village",
+    "primaryArtists": [
+      "Slum Village"
+    ],
+    "featuredArtists": [
+      "Little Brother"
+    ],
+    "artists": [
+      "Slum Village",
+      "Little Brother"
+    ],
+    "year": 2010,
+    "album": "Villa Manifesto",
+    "category": "Hip Hop",
+    "region": "未確認",
+    "scene": "未確認",
+    "producer": "Young RJ",
+    "producers": [
+      "Young RJ"
+    ],
+    "label": "Ne'Astra Music (indexed official audio); E1 Music (2010 Apple album edition)",
+    "yearBasis": "原曲年と配信版・DJミックス年を区別。",
+    "essayTitle": "問いの向こうに残る、仲間への信頼",
+    "deck": "2010年の『Villa Manifesto』に収録された「Where Do We Go From Here」。Little Brotherが参加し、公式配信ではYoung RJがプロデューサーに記される。アルバム終盤のこの曲は、先へ進む問いを二つのグループが同じ作品の中で共有する場になっている。",
+    "context": "曲名・版指定と資料からたどる",
+    "essay": [
+      "2010年の『Villa Manifesto』に収録された「Where Do We Go From Here」。Little Brotherが参加し、公式配信ではYoung RJがプロデューサーに記される。アルバム終盤のこの曲は、先へ進む問いを二つのグループが同じ作品の中で共有する場になっている。",
+      "Apple Musicの作品解説は、Elzhiの一節にある、夢へ進む自分を信じた仲間への言及を取り上げている。そこで示される信頼と、グループの先行きに揺れがあった当時の文脈を重ねると、単なる前進の合言葉には収まらない。ここではその資料上の読みを入口とし、歌声やビートの細部は聴取済みのように語らない。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Apple Music — Villa Manifesto 作品情報",
+        "url": "https://music.apple.com/us/album/villa-manifesto/382433727",
+        "kind": "official album catalog and distributor editorial",
+        "evidence": "2010-07-27 date / Little Brother feature / track12 / E1 catalog rights / short interpretation of highlighted Elzhi trust passage / official cover"
+      },
+      {
+        "label": "www.youtube.com — Where Do We Go From Here",
+        "url": "https://www.youtube.com/watch?v=WnlY_yiyesw",
+        "kind": "official distributor indexed metadata ONLY",
+        "evidence": "exact vocal track / Little Brother / Young RJ producer / Ne'Astra2010 / 2010-07-27"
+      },
+      {
+        "label": "www.beatport.com — Where Do We Go From Here",
+        "url": "https://www.beatport.com/track/where-do-we-go-from-here/22953672",
+        "kind": "licensed catalog",
+        "evidence": "Original Mix vocal identity / Slum Village/Little Brother / 2:53 / Ne'Astra / 2010-07-27"
+      },
+      {
+        "label": "music.amazon.com — Where Do We Go From Here",
+        "url": "https://music.amazon.com/tracks/B0HMJBYZ7K",
+        "kind": "current licensed catalog",
+        "evidence": "same titled vocal feature / different3:02 duration / Ne'Astra/Cinq rights; master equivalence not assumed"
+      }
+    ],
+    "youtube": {
+      "id": "WnlY_yiyesw",
+      "url": "https://www.youtube.com/watch?v=WnlY_yiyesw",
+      "embedUrl": "https://www.youtube.com/embed/WnlY_yiyesw",
+      "title": "Where Do We Go From Here",
+      "channel": "OfficialSlumVillage",
+      "type": "Official Audio",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "Villa Manifesto vocal track featuring Little Brother, not the 2012 instrumental. Current distributor editions show length discrepancies; exact mix excerpt/master and inter-edition master equivalence are not verified."
+    },
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "Where Do We Go From Here",
+      "tag": "SLUM VILLAGE",
+      "lines": [
+        "Where Do We Go From Here"
+      ],
+      "style": "piece",
+      "seed": 2026102409,
+      "palette": [
+        "#101111",
+        "#292a27",
+        "#c3ae3b",
+        "#999b91",
+        "#e5e3d7"
+      ],
+      "paletteSource": "Villa Manifesto official 2010 E1 Music cover",
+      "paletteSourceUrl": "https://music.apple.com/us/album/villa-manifesto/382433727",
+      "paletteNote": "実際に視認した公式ジャケット由来の近似編集配色。厳密抽出値ではない。旧紋章・monogram・背景模様・既存logoは複製しない。"
+    },
+    "addedOrder": 567,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "slum-village-can-i-be-me",
+    "title": "Can I Be Me",
+    "artist": "Slum Village",
+    "primaryArtist": "Slum Village",
+    "primaryArtists": [
+      "Slum Village"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Slum Village"
+    ],
+    "year": 2005,
+    "album": "Slum Village",
+    "category": "Hip Hop",
+    "region": "未確認",
+    "scene": "未確認",
+    "producer": null,
+    "producers": [],
+    "label": "Barak Records (original); Ne'Astra/Cinq(current)",
+    "yearBasis": "Self-titled album date; old Apple song metadata says September27,2005, and a short Prequel To A Classic excerpt predates album. First exact full-length release day not resolved. Year2005 secure.",
+    "essayTitle": "自分の道を歩く。その前に、同じ場所を見てほしい",
+    "deck": "Slum Villageのセルフタイトル作に収められた「Can I Be Me」。2005年のフルレングス曲として扱い、『Prequel to a Classic』の短い収録形態とは区別した。選択動画はセルフタイトル作のフル曲表記に対応する。曲別の制作担当は確かな一次クレジットが揃わないため、ここでは断定しない。",
+    "context": "曲名・版指定と資料からたどる",
+    "essay": [
+      "Slum Villageのセルフタイトル作に収められた「Can I Be Me」。2005年のフルレングス曲として扱い、『Prequel to a Classic』の短い収録形態とは区別した。選択動画はセルフタイトル作のフル曲表記に対応する。曲別の制作担当は確かな一次クレジットが揃わないため、ここでは断定しない。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Apple Music — Slum Village セルフタイトル作",
+        "url": "https://music.apple.com/us/album/slum-village/6820296166",
+        "kind": "current official catalog",
+        "evidence": "self-titled full track / 2005 album / cover / current songID6820296174"
+      },
+      {
+        "label": "lyricsweb.com — Can I Be Me",
+        "url": "https://lyricsweb.com/song/slum-village/slum-village-can-i-be-me",
+        "kind": "lyrics page explicitly labeled LyricsFind licensed/provided",
+        "evidence": "T3 personal path/autonomy / invitation to walk/talk/see place of origin / Elzhi moral strain and isolation"
+      },
+      {
+        "label": "HipHopDX — Slum Village アルバムレビュー",
+        "url": "https://hiphopdx.com/reviews/id.595/title.slum-village-slum-village",
+        "kind": "December22,2005 contemporaneous review",
+        "evidence": "song-specific struggle/hope and Elzhi appeal for moral help / T3/Elzhi album context"
+      },
+      {
+        "label": "music.apple.com — Can I Be Me",
+        "url": "https://music.apple.com/us/song/1160090744",
+        "kind": "older indexed official catalog",
+        "evidence": "Can I Be Me title / Slum Village album / 2005 song date September27; discrepancy logged"
+      },
+      {
+        "label": "audiomack.com — Can I Be Me",
+        "url": "https://audiomack.com/slum-village/song/can-i-be-me-2",
+        "kind": "artist-named licensed catalog feed, secondary edition",
+        "evidence": "2016 siCde-s / C Sides reissue; not evidence original full-length master"
+      },
+      {
+        "label": "OfficialSlumVillage — Can I Be Me",
+        "url": "https://www.youtube.com/watch?v=3lulx4CTiLs",
+        "kind": "動画メタデータ（検索表示）",
+        "evidence": "AdShare / Ne’Astra; official artist badge. Full song, not Prequel excerpt. Separate Clean result XsuwvRys2T0 not selected."
+      }
+    ],
+    "youtube": {
+      "id": "3lulx4CTiLs",
+      "url": "https://www.youtube.com/watch?v=3lulx4CTiLs",
+      "embedUrl": "https://www.youtube.com/embed/3lulx4CTiLs",
+      "title": "Can I Be Me",
+      "channel": "OfficialSlumVillage",
+      "type": "Official Audio",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "AdShare / Ne’Astra; official artist badge. Full song, not Prequel excerpt. Separate Clean result XsuwvRys2T0 not selected."
+    },
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "Can I Be Me",
+      "tag": "SLUM VILLAGE",
+      "lines": [
+        "Can I Be Me"
+      ],
+      "style": "piece",
+      "seed": 2026102410,
+      "palette": [
+        "#ecebe3",
+        "#171914",
+        "#a5a79e",
+        "#6e7461",
+        "#b8ab75"
+      ],
+      "paletteSource": "Slum Village self-titled2005 official cover, current distributor edition",
+      "paletteSourceUrl": "https://music.apple.com/us/album/slum-village/6820296166",
+      "paletteNote": "実視認した公式ジャケット由来の近似編集配色。厳密抽出値ではない。写真/人物/構図/logoは複製しない。"
+    },
+    "addedOrder": 568,
+    "datePublished": "2026-10-24"
   }
 ]
