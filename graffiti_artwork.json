@@ -12218,6 +12218,173 @@
       "status": "ready",
       "image": "assets/graffiti/9th-wonder-tellmenow-punctuation-reused-sized-v1.webp",
       "reviewNote": "独立確認済みの曲名/3つの感嘆符と既存原画を保持し、可視alpha境界からcanvas余白のみ正規化。"
+    },
+    {
+      "id": "tall-black-guy-gimme-mine",
+      "title": "Gimme Mine (feat. 80's Babies)",
+      "artist": "Tall Black Guy",
+      "album": "Restless As We Are",
+      "palette": [
+        "#91d2e2",
+        "#f8f5e9",
+        "#ffe34b",
+        "#102bb7",
+        "#7d2320"
+      ],
+      "paletteSource": "Restless As We Are official Bandcamp cover",
+      "paletteSourceURL": "https://tallblackguy.bandcamp.com/album/restless-as-we-are",
+      "paletteNote": "Viewed official cover, approximate editorial colors only; no protest imagery, people, signs, cover lettering or layout copied.",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          120,
+          74,
+          1593,
+          983
+        ],
+        "outputSha256": "20617df3b3faf73b939aa884a033ad9edb704cdc8b28a376f24b833dad780391",
+        "sourceImage": "assets/graffiti/originals/tall-black-guy-gimme-mine-resumed-original.png",
+        "sourceSha256": "de99e61fe1a8130c37b8155d8d1db65122f595426e08472ed8ab995c6d7bb142"
+      },
+      "concept": "GIMMEの主筆画を一か所で止め、同じ筆の続きが別段のMINEから再開する構造で、制作休止後の再開という収録作の背景を読む。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "Our diagram interprets the album-level documented pause and resumption, not verified Gimme Mine lyrics or artist visual intent. The matching G tail and M start are separated by a gap, not a continuous uninterrupted line. Mine corrects user Mini through official artist+feature metadata; exact DJ-mix master not compared. qwgqN-Vw9-Q4:40 is the selected official Topic; the2:50 Edit is excluded. Producer credit not inferred from artist/instrument/mixing role.",
+      "status": "ready",
+      "image": "assets/graffiti/tall-black-guy-gimme-mine-resumed-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/tall-black-guy-gimme-mine-resumed-original.png",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "reviewNote": "Creator and independent white/dark 600px and 300px, title/artist/feature/version, concept-boundary, displaySizing v1 and full-crop RGBA/hash QA PASS. Private preparation only; no playback or live-site approval."
+    },
+    {
+      "id": "demrick-clouded",
+      "title": "Clouded",
+      "artist": "Demrick",
+      "album": "Clouded - Single",
+      "palette": [
+        "#607f98",
+        "#202b3c",
+        "#e8ebe8",
+        "#8c87a2",
+        "#b5bdc5"
+      ],
+      "paletteSource": "Original editorial palette; not cover-derived.",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          153,
+          47,
+          2027,
+          623
+        ],
+        "outputSha256": "be023e64fa5333729a59856c087400eb4318903ee252aeaec4b54a09365e3440",
+        "sourceImage": "assets/graffiti/originals/demrick-clouded-veiled-stroke-original.png",
+        "sourceSha256": "a57e21b81900472c53e03eee0005f3478878c33e778d2bcac6d34e0ea68f9b49"
+      },
+      "concept": "O の下側と最初の D の接合部だけ、字画内部の細い線を乳白色の塗りで一部覆う。隠れた箇所の前後に対応する線を残し、輪郭全体をぼかさず「覆われている」という題名の読みを字の構造に置く。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "Explicitly authored title-led visual interpretation, not verified lyric meaning, artist intent, sonic quality, drug use or mental state. No literal cloud/smoke imagery. The patches cover portions of an inner contour while the aligned parts remain visible; a physically continuous hidden line is not separately verified. Original editorial palette, not derived from a verified record cover. No official cover pixels were obtained or used.2017 single date and2023 catalog rights line are kept distinct. Selected upload6TWHMz05I8U has matching title/artist and The Makerz credit in its title, but channel affiliation remains unverified. Producer is not promoted to a primary-sourced credit. No playback, embed/Japan availability or exact DJ-mix/master comparison.",
+      "status": "ready",
+      "image": "assets/graffiti/demrick-clouded-veiled-stroke-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/demrick-clouded-veiled-stroke-original.png",
+      "paletteReviewed": true,
+      "textReviewed": true,
+      "transparent": true,
+      "noSiteBranding": true,
+      "reviewNote": "Creator and independent white/dark 600px and 300px, title/artist/feature/version, concept-boundary, displaySizing v1 and full-crop RGBA/hash QA PASS. Private preparation only; no playback or live-site approval."
+    },
+    {
+      "id": "problem-janet-freestyle-remix",
+      "title": "Janet Freestyle (Remix)",
+      "artist": "Problem",
+      "album": "Coffee & Kush, Vol. 1",
+      "palette": [
+        "#7e9a90",
+        "#eee7db",
+        "#263741",
+        "#b57660",
+        "#8c8983"
+      ],
+      "paletteSource": "Original editorial palette, not cover-derived",
+      "paletteSourceURL": null,
+      "paletteNote": "Sage/ivory distinguish fuller added strokes from warm-clay/graphite retained core. Original design choice only, not album-cover or sound association. Exact cover was not verified; no press photograph substituted.",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          122,
+          83,
+          1619,
+          1091
+        ],
+        "outputSha256": "45412947d318a6a2206c395c45af7e0c8f8712f762debc6c1b901863b708390c",
+        "sourceImage": "assets/graffiti/originals/problem-janet-freestyle-rebuilt-original.png",
+        "sourceSha256": "1804f11d91eb454aad5ce4e2abe8684729fd23690a821be61967d740fd96f2a2"
+      },
+      "concept": "一人で録った原型を再構成した版という制作経緯から、元の細い芯線を残し、別の主筆画が補って全体を組み直す。REMIXを明瞭に残す。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "Interpretation of the specific documented solo-original to collaborative-remix history. Artist words are available via secondary reproduction in Urban Influencer, not a directly obtained original Complex interview. Thin retained path and new broad paint are our visual interpretation, not heard instruments, actual waveform, literal personnel count or artist-approved imagery. Janet is title text, not a featured-artist/portrait claim. REMIX is explicit. Palette is original because no exact official cover was verified.2020 single/video and album dates are kept distinct; selected video metadata comes from saved official-channel evidence, not new playback.",
+      "status": "ready",
+      "image": "assets/graffiti/problem-janet-freestyle-rebuilt-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/problem-janet-freestyle-rebuilt-original.png",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "reviewNote": "Creator and independent white/dark 600px and 300px, title/artist/feature/version, concept-boundary, displaySizing v1 and full-crop RGBA/hash QA PASS. Private preparation only; no playback or live-site approval."
+    },
+    {
+      "id": "larry-june-the-red-carpet",
+      "artist": "Larry June",
+      "title": "The Red Carpet (feat. LNDN DRGS)",
+      "album": "Very Peaceful",
+      "palette": [
+        "#c8b8a5",
+        "#e5e1db",
+        "#879099",
+        "#4f5963",
+        "#192725",
+        "#9c443d"
+      ],
+      "paletteNote": "Neutral/slate main colors approximately interpreted from actual official cover; rust red is an explicitly authorial title-driven accent, not a cover-derived swatch.",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          135,
+          67,
+          1784,
+          885
+        ],
+        "outputSha256": "c36bc8f69440f2165723c82315df3f3e19843b0fb8c321ff16f53b016eff05dc",
+        "sourceImage": "assets/graffiti/originals/larry-june-the-red-carpet-unfolded-type-original.png",
+        "sourceSha256": "82fbc86b8559657b2b8a19eb19d8daf6ea742ae866ae9123443f43360decba29"
+      },
+      "concept": "RED の D の終端を同じ赤い筆画のまま下へ折り返し、CARPET の C・A・R などの字脚になる支持面へ展開する。迎え入れる面を、文字そのものが作るという題名由来の自主的な編集解釈。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "Explicitly authored title-led concept, not verified lyric meaning, artist intent or heard sound. The red stroke is typography, not a literal rug or VIP scene. Its red accent is original editorial color chosen from the title, not falsely attributed to the official cover. Main neutral/slate palette derives approximately from a visually inspected official Very Peaceful cover. Original2018 release is distinct from2021 distributed-video upload;2020 is the user mix container year, not the recording release. Producer remains null; LNDN DRGS feature does not establish Sean House production. No playback, Japan availability, embed or exact-master verification.",
+      "status": "ready",
+      "image": "assets/graffiti/larry-june-the-red-carpet-unfolded-type-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/larry-june-the-red-carpet-unfolded-type-original.png",
+      "paletteSource": "Very Peaceful official cover plus declared title-led rust-red accent",
+      "paletteSourceURL": "https://music.apple.com/us/album/very-peaceful/1551703561",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "reviewNote": "Creator and independent white/dark 600px and 300px, title/artist/feature/version, concept-boundary, displaySizing v1 and full-crop RGBA/hash QA PASS. Private preparation only; no playback or live-site approval."
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
