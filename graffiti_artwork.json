@@ -12428,6 +12428,201 @@
       "paletteReviewed": true,
       "noSiteBranding": true,
       "reviewNote": "Creator and independent final white/dark 600px and 300px, exact typography, concept/evidence boundaries, displaySizing v1, full crop RGBA and SHA256 QA PASS. Private preparation only; no playback or live-site approval."
+    },
+    {
+      "id": "jurassic-5-whats-golden",
+      "title": "What's Golden",
+      "artist": "Jurassic 5",
+      "album": "Power In Numbers",
+      "palette": [
+        "#bd7750",
+        "#f4e7bd"
+      ],
+      "paletteSource": "Viewed official catalog cover, approximate editorial palette",
+      "paletteSourceURL": "https://music.apple.com/us/album/power-in-numbers/1673116557",
+      "paletteNote": "Restrained one/two-color flat marker palette approximated from the actually re-viewed current catalog cover and adjusted to medium luminance for white/dark legibility. No copied cover layout or official lettering. Minimal edge if present is planar readability only.",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          88,
+          60,
+          1161,
+          794
+        ],
+        "outputSha256": "827f9af5982f93be4163584a54348ebfacb2d1eb4600fc631af039ac03378821",
+        "sourceImage": "assets/graffiti/originals/jurassic-5-whats-golden-handstyle-v1-original.png",
+        "sourceSha256": "6f48945ca83d03ed8a18549205e53f1eb808bd9786a440b4143c718956158dfc"
+      },
+      "concept": "G と O の手書きループに似た筆順を繰り返し、末端を次の文字へ自然につなぐ。発見したものを次へ渡す感覚だけを、字のリズムとして読む。溝・円盤・金属・素材片は描かない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "Latest strict handstyle requirement: only handwritten letter strokes, pressure, joins, direction, rhythm and restrained color. No illustrated source material or physical letter objects. Editorial interpretation, not verified lyric meaning or artist visual intent. Latest approved metadata/source retained; no actual audio, sample identification or exact-master proof claimed. Prior art/visual PASS retained only as history.",
+      "status": "ready",
+      "image": "assets/graffiti/jurassic-5-whats-golden-handstyle-v1-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/jurassic-5-whats-golden-handstyle-v1-original.png",
+      "transparent": true,
+      "reviewNote": "Latest strict handstyle policy PASS (prior visual PASS not reused); creator and independent final white/dark 600px and 300px, exact typography, concept/evidence boundaries, displaySizing v1, full crop RGBA and SHA256 QA PASS. Private preparation only; no playback or live-site approval.",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true
+    },
+    {
+      "id": "jurassic-5-quality-control",
+      "title": "Quality Control",
+      "artist": "Jurassic 5",
+      "album": "Quality Control",
+      "palette": [
+        "#667f87",
+        "#eee7d9"
+      ],
+      "paletteSource": "Viewed official catalog cover, approximate editorial palette",
+      "paletteSourceURL": "https://music.apple.com/us/album/quality-control/1673109195",
+      "paletteNote": "Two flat approximate colors derived from the re-viewed current catalog cover: a medium-value slate marker ink adapted for light/dark readability and a fine warm-ivory hairline. No copied cover lettering, image layout or modeled light.",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          114,
+          59,
+          1511,
+          779
+        ],
+        "outputSha256": "3a78c53c486b70bfc0297ce1a6e9ec3a9466fa152de51cdece7cd3c3c9326cd9",
+        "sourceImage": "assets/graffiti/originals/jurassic-5-quality-control-handstyle-v2-original.png",
+        "sourceSha256": "68910e6475f9b8bb3f6bea1ae39f378a8f7d6bd948b1317379bab939f2007367"
+      },
+      "concept": "短い入りの筆画から、後半へ少し伸びる連結と筆勢。短いプロモから曲へ展開した背景を、手書きの流れだけで控えめに読む。物体化した小片や図解にはしない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "Latest strict-tagging revision: lettering and natural pen gestures only. Prior concept renders and visual approvals are retained as history but do not approve this replacement. Source/editorial metadata and selected video remain unchanged. Short radio promo history is a documented context, not a claim that the pictured stroke rhythm was intended by the artists. No listening, actual waveform, sample identification or exact mix-master verification claimed. Current catalog cover is palette only, not an original physical-scan assertion.",
+      "status": "ready",
+      "image": "assets/graffiti/jurassic-5-quality-control-handstyle-v2-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/jurassic-5-quality-control-handstyle-v2-original.png",
+      "transparent": true,
+      "reviewNote": "Latest strict handstyle policy PASS (prior visual PASS not reused); creator and independent final white/dark 600px and 300px, exact typography, concept/evidence boundaries, displaySizing v1, full crop RGBA and SHA256 QA PASS. Private preparation only; no playback or live-site approval.",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true
+    },
+    {
+      "id": "people-under-the-stairs-acid-raindrops",
+      "title": "Acid Raindrops",
+      "artist": "People Under the Stairs",
+      "album": "O.S.T.",
+      "palette": [
+        "#75876f",
+        "#242829"
+      ],
+      "paletteSource": "Viewed official catalog cover, approximate editorial palette",
+      "paletteSourceURL": "https://peopleunderthestairs.bandcamp.com/album/o-s-t",
+      "paletteNote": "Restrained one/two-color flat marker palette approximated from the actually re-viewed current catalog cover and adjusted to medium luminance for white/dark legibility. No copied cover layout or official lettering. Minimal edge if present is planar readability only.",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          119,
+          60,
+          1578,
+          795
+        ],
+        "outputSha256": "1374ffd56fbd9d7a4ba11f997b06ea341a6aafcd80728513af09501758ae3ead",
+        "sourceImage": "assets/graffiti/originals/people-under-the-stairs-acid-raindrops-handstyle-v1-original.png",
+        "sourceSha256": "aa1f057e8881ec99eee08489e3fdce09a77c987df68a6d7054660f7d543caf12"
+      },
+      "concept": "短い下向きの運筆と軽い抜きが、次の文字へ書き継がれる。題名から受ける流れを自然なmarkerの筆順にだけ託し、雨滴や液体の絵にはしない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "Latest strict handstyle requirement: only handwritten letter strokes, pressure, joins, direction, rhythm and restrained color. No illustrated source material or physical letter objects. Editorial interpretation, not verified lyric meaning or artist visual intent. Latest approved metadata/source retained; no actual audio, sample identification or exact-master proof claimed. Prior art/visual PASS retained only as history.",
+      "status": "ready",
+      "image": "assets/graffiti/people-under-the-stairs-acid-raindrops-handstyle-v1-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/people-under-the-stairs-acid-raindrops-handstyle-v1-original.png",
+      "transparent": true,
+      "reviewNote": "Latest strict handstyle policy PASS (prior visual PASS not reused); creator and independent final white/dark 600px and 300px, exact typography, concept/evidence boundaries, displaySizing v1, full crop RGBA and SHA256 QA PASS. Private preparation only; no playback or live-site approval.",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true
+    },
+    {
+      "id": "cut-chemist-whats-the-altitude",
+      "title": "What's the Altitude (feat. Hymnal)",
+      "artist": "Cut Chemist",
+      "album": "The Audience's Listening",
+      "palette": [
+        "#7d939f",
+        "#efe6d8"
+      ],
+      "paletteSource": "Viewed official catalog cover, approximate editorial palette",
+      "paletteSourceURL": "https://music.apple.com/us/album/the-audiences-listening/168709805",
+      "paletteNote": "Flat medium-value slate marker ink derived approximately from current catalog blues/greys, lifted for light/dark readability with a minimal warm-ivory hairline. No modeled light, copied cover art or shadow.",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          112,
+          72,
+          1484,
+          947
+        ],
+        "outputSha256": "f7f90d6e4559ec5b418a9b99c38a572701f3ab7bdb32d0a632aafedd7c7d49d8",
+        "sourceImage": "assets/graffiti/originals/cut-chemist-whats-the-altitude-handstyle-v2-original.png",
+        "sourceSha256": "de57821125dc8bc811bd3ef1caf26bd54f8332bf783a156cbb2d691f8ede8a6f"
+      },
+      "concept": "ALTITUDE のbaselineを控えめに右上がりにし、細い終筆を少し高く抜く。高さは筆勢だけにし、折帯・カセット・積層面は描かない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "Latest strict handstyle requirement: only handwritten letter strokes, pressure, joins, direction, rhythm and restrained color. No illustrated source material or physical letter objects. Editorial interpretation, not verified lyric meaning or artist visual intent. Latest approved metadata/source retained; no actual audio, sample identification or exact-master proof claimed. Prior art/visual PASS retained only as history.",
+      "status": "ready",
+      "image": "assets/graffiti/cut-chemist-whats-the-altitude-handstyle-v2-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/cut-chemist-whats-the-altitude-handstyle-v2-original.png",
+      "transparent": true,
+      "reviewNote": "Latest strict handstyle policy PASS (prior visual PASS not reused); creator and independent final white/dark 600px and 300px, exact typography, concept/evidence boundaries, displaySizing v1, full crop RGBA and SHA256 QA PASS. Private preparation only; no playback or live-site approval.",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true
+    },
+    {
+      "id": "cut-chemist-the-garden",
+      "title": "The Garden",
+      "artist": "Cut Chemist",
+      "album": "The Audience's Listening",
+      "palette": [
+        "#7d939f",
+        "#efe6d8"
+      ],
+      "paletteSource": "Viewed official catalog cover, approximate editorial palette",
+      "paletteSourceURL": "https://music.apple.com/us/album/the-audiences-listening/168709805",
+      "paletteNote": "Flat medium-value slate marker ink derived approximately from current catalog blues/greys, lifted for light/dark readability with a minimal warm-ivory hairline. No modeled light, copied cover art or shadow.",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          112,
+          46,
+          1482,
+          606
+        ],
+        "outputSha256": "3354752d14f69ae96fc5a70a49bc0849a753cd50a6a5dea10a5fda9f3381fd67",
+        "sourceImage": "assets/graffiti/originals/cut-chemist-the-garden-handstyle-v2-original.png",
+        "sourceSha256": "2299932d0a62c163e970ac741b75151de8ec7a4fd177865d71e408d29d5ea447"
+      },
+      "concept": "G の丸い入りから A/R へ無理なく続く筆順と、文字の間の開いた余白。題名の広がりを自然なhandstyleの流れにとどめ、枝・植物・根や文字物体は描かない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "Latest strict handstyle requirement: only handwritten letter strokes, pressure, joins, direction, rhythm and restrained color. No illustrated source material or physical letter objects. Editorial interpretation, not verified lyric meaning or artist visual intent. Latest approved metadata/source retained; no actual audio, sample identification or exact-master proof claimed. Prior art/visual PASS retained only as history.",
+      "status": "ready",
+      "image": "assets/graffiti/cut-chemist-the-garden-handstyle-v2-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/cut-chemist-the-garden-handstyle-v2-original.png",
+      "transparent": true,
+      "reviewNote": "Latest strict handstyle policy PASS (prior visual PASS not reused); creator and independent final white/dark 600px and 300px, exact typography, concept/evidence boundaries, displaySizing v1, full crop RGBA and SHA256 QA PASS. Private preparation only; no playback or live-site approval.",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
