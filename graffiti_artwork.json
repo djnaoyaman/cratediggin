@@ -12603,35 +12603,38 @@
       "artist": "Cut Chemist",
       "album": "The Audience's Listening",
       "palette": [
-        "#7d939f",
-        "#efe6d8"
+        "#242829",
+        "#eee7d9",
+        "#273b50",
+        "#61798c",
+        "#91969a"
       ],
       "paletteSource": "Viewed official catalog cover, approximate editorial palette",
       "paletteSourceURL": "https://music.apple.com/us/album/the-audiences-listening/168709805",
-      "paletteNote": "Flat medium-value slate marker ink derived approximately from current catalog blues/greys, lifted for light/dark readability with a minimal warm-ivory hairline. No modeled light, copied cover art or shadow.",
+      "paletteNote": "The Audience’s Listeningのジャケットを参照した紺・青灰色・灰色に、黒白のコントラストを組み合わせた配色。",
       "displaySizing": {
         "version": 1,
         "alphaThreshold": 8,
         "paddingFraction": 0.07,
         "visibleBox": [
-          112,
-          46,
-          1482,
-          606
+          138,
+          67,
+          1831,
+          887
         ],
-        "outputSha256": "3354752d14f69ae96fc5a70a49bc0849a753cd50a6a5dea10a5fda9f3381fd67",
-        "sourceImage": "assets/graffiti/originals/cut-chemist-the-garden-handstyle-v2-original.png",
-        "sourceSha256": "2299932d0a62c163e970ac741b75151de8ec7a4fd177865d71e408d29d5ea447"
+        "outputSha256": "9fa575306054701f14721049f398dcc0003f36a540afda7852a424f9d3598c77",
+        "sourceImage": "assets/graffiti/originals/cut-chemist-the-garden-anchor-v1-original.png",
+        "sourceSha256": "59613e6d9734251584142a55166b857b8bd8197d4ea43bbfa819595a44a4eb21"
       },
-      "concept": "G の丸い入りから A/R へ無理なく続く筆順と、文字の間の開いた余白。題名の広がりを自然なhandstyleの流れにとどめ、枝・植物・根や文字物体は描かない。",
+      "concept": "曲名を太い二段の文字と重なりで組み、白い塗りと切れ込み、紺・青灰色・灰色の飛沫でリズムを表す。",
       "conceptIsVerifiedSongMeaning": false,
       "artistIntendedThisVisual": false,
-      "interpretationLimits": "Latest strict handstyle requirement: only handwritten letter strokes, pressure, joins, direction, rhythm and restrained color. No illustrated source material or physical letter objects. Editorial interpretation, not verified lyric meaning or artist visual intent. Latest approved metadata/source retained; no actual audio, sample identification or exact-master proof claimed. Prior art/visual PASS retained only as history.",
+      "interpretationLimits": "Editorial visual interpretation; palette references the album cover. No claim of artist intent, waveform analysis or playback verification.",
       "status": "ready",
-      "image": "assets/graffiti/cut-chemist-the-garden-handstyle-v2-sized-v1.webp",
-      "originalImage": "assets/graffiti/originals/cut-chemist-the-garden-handstyle-v2-original.png",
+      "image": "assets/graffiti/cut-chemist-the-garden-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/cut-chemist-the-garden-anchor-v1-original.png",
       "transparent": true,
-      "reviewNote": "Latest strict handstyle policy PASS (prior visual PASS not reused); creator and independent final white/dark 600px and 300px, exact typography, concept/evidence boundaries, displaySizing v1, full crop RGBA and SHA256 QA PASS. Private preparation only; no playback or live-site approval.",
+      "reviewNote": "Initial-style restoration: typography, transparent paint, white/dark small-size readability and displaySizing v1 independently checked; previous originals retained.",
       "textReviewed": true,
       "paletteReviewed": true,
       "noSiteBranding": true
