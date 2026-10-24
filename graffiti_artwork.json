@@ -12474,35 +12474,38 @@
       "artist": "Jurassic 5",
       "album": "Quality Control",
       "palette": [
-        "#667f87",
-        "#eee7d9"
+        "#242829",
+        "#eee7d9",
+        "#94b2bd",
+        "#746454",
+        "#b4775c"
       ],
       "paletteSource": "Viewed official catalog cover, approximate editorial palette",
       "paletteSourceURL": "https://music.apple.com/us/album/quality-control/1673109195",
-      "paletteNote": "Two flat approximate colors derived from the re-viewed current catalog cover: a medium-value slate marker ink adapted for light/dark readability and a fine warm-ivory hairline. No copied cover lettering, image layout or modeled light.",
+      "paletteNote": "Quality Controlのジャケットを参照した青灰色・生成り・錆色に、黒白のコントラストを組み合わせた配色。",
       "displaySizing": {
         "version": 1,
         "alphaThreshold": 8,
         "paddingFraction": 0.07,
         "visibleBox": [
-          114,
-          59,
-          1511,
-          779
+          143,
+          69,
+          1890,
+          912
         ],
-        "outputSha256": "3a78c53c486b70bfc0297ce1a6e9ec3a9466fa152de51cdece7cd3c3c9326cd9",
-        "sourceImage": "assets/graffiti/originals/jurassic-5-quality-control-handstyle-v2-original.png",
-        "sourceSha256": "68910e6475f9b8bb3f6bea1ae39f378a8f7d6bd948b1317379bab939f2007367"
+        "outputSha256": "acbecf83960600acf0e965661a2f69a9aca38a0953c18885876a3820172d2d0b",
+        "sourceImage": "assets/graffiti/originals/jurassic-5-quality-control-anchor-v2-original.png",
+        "sourceSha256": "d9870c4d41ab6116784b559a6e1b1e30cb06b9bcf3b9574c1fcc4e6d20429f88"
       },
-      "concept": "短い入りの筆画から、後半へ少し伸びる連結と筆勢。短いプロモから曲へ展開した背景を、手書きの流れだけで控えめに読む。物体化した小片や図解にはしない。",
+      "concept": "曲名を太い二段の文字と重なりで組み、白い塗りと切れ込み、細かな飛沫でリズムを表す。",
       "conceptIsVerifiedSongMeaning": false,
       "artistIntendedThisVisual": false,
-      "interpretationLimits": "Latest strict-tagging revision: lettering and natural pen gestures only. Prior concept renders and visual approvals are retained as history but do not approve this replacement. Source/editorial metadata and selected video remain unchanged. Short radio promo history is a documented context, not a claim that the pictured stroke rhythm was intended by the artists. No listening, actual waveform, sample identification or exact mix-master verification claimed. Current catalog cover is palette only, not an original physical-scan assertion.",
+      "interpretationLimits": "Editorial visual interpretation; palette references the album cover. No claim of artist intent, waveform analysis or playback verification.",
       "status": "ready",
-      "image": "assets/graffiti/jurassic-5-quality-control-handstyle-v2-sized-v1.webp",
-      "originalImage": "assets/graffiti/originals/jurassic-5-quality-control-handstyle-v2-original.png",
+      "image": "assets/graffiti/jurassic-5-quality-control-anchor-v2-sized.webp",
+      "originalImage": "assets/graffiti/originals/jurassic-5-quality-control-anchor-v2-original.png",
       "transparent": true,
-      "reviewNote": "Latest strict handstyle policy PASS (prior visual PASS not reused); creator and independent final white/dark 600px and 300px, exact typography, concept/evidence boundaries, displaySizing v1, full crop RGBA and SHA256 QA PASS. Private preparation only; no playback or live-site approval.",
+      "reviewNote": "Initial-style restoration: typography, transparent paint, white/dark small-size readability and displaySizing v1 independently checked; previous originals retained.",
       "textReviewed": true,
       "paletteReviewed": true,
       "noSiteBranding": true

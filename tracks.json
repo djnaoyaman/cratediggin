@@ -78247,12 +78247,15 @@
       "style": "tag",
       "seed": 20261024101,
       "palette": [
-        "#667f87",
-        "#eee7d9"
+        "#242829",
+        "#eee7d9",
+        "#94b2bd",
+        "#746454",
+        "#b4775c"
       ],
       "paletteSource": "Viewed official catalog cover, approximate editorial palette",
       "paletteSourceUrl": "https://music.apple.com/us/album/quality-control/1673109195",
-      "paletteNote": "Two flat approximate colors derived from the re-viewed current catalog cover: a medium-value slate marker ink adapted for light/dark readability and a fine warm-ivory hairline. No copied cover lettering, image layout or modeled light."
+      "paletteNote": "Quality Controlのジャケットを参照した青灰色・生成り・錆色に、黒白のコントラストを組み合わせた配色。"
     },
     "addedOrder": 603,
     "datePublished": "2026-10-24"
