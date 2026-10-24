@@ -99,7 +99,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         url = host + '/' + relative
         image = 'og/' + t['id'] + '.jpg'
         recording = {'@type': 'MusicRecording', '@id': url + '#recording', 'name': t['title'],
-                     'byArtist': entity(t['artist']), 'inAlbum': {'@type': 'MusicAlbum', 'name': t['album']},
+                     'byArtist': entity(t['artist']), **({'inAlbum': {'@type': 'MusicAlbum', 'name': t['album']}} if isinstance(t.get('album'),str) and t['album'].strip() and t['album'] not in ('未確認','不明') else {}),
                      'url': url, 'subjectOf': {'@id': url + '#article'}}
         if work_type(t)=='mix':
             recording['@type']='MusicAlbum'

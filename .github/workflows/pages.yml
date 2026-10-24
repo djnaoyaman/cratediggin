@@ -44,6 +44,8 @@ jobs:
         run: python scripts/build_pipeline.py plan --github-output "$GITHUB_OUTPUT"
       - name: Test build isolation and cache integrity
         run: python -m unittest discover -s scripts -p test_build_pipeline.py -v
+      - name: Verify explicit unknown release metadata contracts
+        run: python -m unittest discover -s scripts -p test_unknown_release_metadata.py -v
       - name: Preserve analytics, storage and player behavior when affected
         if: steps.plan.outputs.mode != 'profile' && steps.plan.outputs.mode != 'none'
         run: |
@@ -89,6 +91,7 @@ jobs:
           server=$!
           trap 'kill "$server"' EXIT
           node scripts/verify_profile_independent.cjs
+          node scripts/verify_unknown_release_metadata_browser.cjs
       - name: Save validated site outputs
         if: steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none'
         run: python scripts/build_pipeline.py cache

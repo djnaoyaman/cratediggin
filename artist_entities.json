@@ -781,5 +781,32 @@
   },
   "9th Wonder & Buckshot": {
     "type": "MusicGroup"
+  },
+  "Dwele": {
+    "type": "Person"
+  },
+  "Talib Kweli": {
+    "type": "Person"
+  },
+  "Talib Kweli & 9th Wonder": {
+    "type": "MusicGroup"
+  },
+  "Murs": {
+    "type": "Person"
+  },
+  "Propaganda": {
+    "type": "Person"
+  },
+  "Murs & 9th Wonder": {
+    "type": "MusicGroup"
+  },
+  "Termanology": {
+    "type": "Person"
+  },
+  "Illa J": {
+    "type": "Person"
+  },
+  "Affion Crockett": {
+    "type": "Person"
   }
 }
