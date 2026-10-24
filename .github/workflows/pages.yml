@@ -93,6 +93,7 @@ jobs:
           node scripts/verify_profile_independent.cjs
           node scripts/verify_unknown_release_metadata_browser.cjs
           node scripts/verify_requested_notice_removal_browser.cjs
+          node scripts/verify_year_region_display_browser.cjs
       - name: Save validated site outputs
         if: steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none'
         run: python scripts/build_pipeline.py cache
