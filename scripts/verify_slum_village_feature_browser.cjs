@@ -32,7 +32,10 @@ for(const width of [390,1280]){
  assert.deepEqual(errors,[]);
  await page.goto(base+'/artists/');
  const card=page.locator('.feature-poster').filter({has:page.locator('h3',{hasText:'Slum Village'})});assert.equal(await card.count(),1);assert((await card.innerText()).includes('アーティスト名義 15曲'));
- await card.locator('.feature-photo').evaluate(i=>i.decode());assert.equal(await card.locator('.feature-photo').evaluate(i=>getComputedStyle(i).objectFit),'contain');
+ await card.scrollIntoViewIfNeeded();
+ const indexPhoto=card.locator('.feature-photo');
+ await page.waitForFunction(i=>i.complete&&i.naturalWidth>0,await indexPhoto.elementHandle(),{timeout:15000});
+ await indexPhoto.evaluate(i=>Promise.race([i.decode(),new Promise((_,reject)=>setTimeout(()=>reject(new Error('Slum index photo decode timed out')),15000))]));assert.equal(await indexPhoto.evaluate(i=>getComputedStyle(i).objectFit),'contain');
  await context.close();
 }
 for(const width of [390,1280]){const context=await browser.newContext({javaScriptEnabled:false,viewport:{width,height:900}}),page=await context.newPage();await page.goto(base+'/artists/slum-village.html');assert.equal(await page.locator('.person-photo-header').count(),1);assert((await page.locator('main').innerText()).includes('DETROIT / CONANT GARDENS'));const ids=idsFromHrefs(await page.locator('main > ul > li > a').evaluateAll(xs=>xs.map(x=>x.getAttribute('href'))));assert.equal(new Set(ids).size,18);assert.deepEqual(ids,allIds);assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));await context.close();}
