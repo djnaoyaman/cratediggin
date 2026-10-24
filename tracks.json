@@ -73960,5 +73960,1139 @@
     },
     "addedOrder": 568,
     "datePublished": "2026-10-24"
+  },
+  {
+    "id": "slum-village-conant-gardens",
+    "title": "Conant Gardens",
+    "artist": "Slum Village",
+    "primaryArtist": "Slum Village",
+    "primaryArtists": [
+      "Slum Village"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Slum Village"
+    ],
+    "year": 2000,
+    "album": "Fantastic, Vol. 2 / Fan-Tas-Tic Vol 2",
+    "category": "Hip Hop",
+    "region": "未確認",
+    "scene": "未確認",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "Explicit selected recording producer metadata only; composer credits not promoted to producer.",
+    "label": "未確認",
+    "yearBasis": "Original-album vocal catalog recording; the selected official audio is on Fan-Tas-Tic, Vol. 2 with ℗2000 Barak and a 2009-01-26 digital reissue release field. Current Apple track 2 also uses singular Conant Garden. Requested plural title retained as alias. Do not use 2.10 or instrumental variants as an unlabelled substitute.",
+    "essayTitle": "Conant Gardens — 作品と背景をたどる",
+    "deck": "「Conant Gardens」が指すのは、Slum Villageの出発点になったデトロイトの地域だ。T3は、同じ地区に暮らしていても初めから互いを知っていたわけではなく、音楽を介して自分たちの共同体を作ったと振り返る。『Fantastic, Vol. 2』のこの曲を、地名の看板ではなく、別々の場所から一つの名前が立ち上がる過程として捉えたい。",
+    "context": "作品・版と資料からたどる",
+    "essay": [
+      "「Conant Gardens」が指すのは、Slum Villageの出発点になったデトロイトの地域だ。T3は、同じ地区に暮らしていても初めから互いを知っていたわけではなく、音楽を介して自分たちの共同体を作ったと振り返る。『Fantastic, Vol. 2』のこの曲を、地名の看板ではなく、別々の場所から一つの名前が立ち上がる過程として捉えたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Apple Music — Fan-Tas-Tic Vol.2 作品情報",
+        "url": "https://music.apple.com/us/album/fan-tas-tic-vol-2/6820633352",
+        "kind": "official distributor catalog",
+        "evidence": "original album catalog / Conant Garden singular alias at track2 / 2000-06-13 / official cover"
+      },
+      {
+        "label": "www.youtube.com — Conant Gardens",
+        "url": "https://www.youtube.com/watch?v=Vc75QQIrWl0",
+        "kind": "official indexed metadata only",
+        "evidence": "original-album catalog audio / ℗2000 Barak / 2009 digital reissue date separate from original release / official artist channel / Jay Dee composition credit"
+      },
+      {
+        "label": "Cuepoint — T3インタビューと初期史",
+        "url": "https://medium.com/cuepoint/the-fantastic-origin-story-of-j-dilla-slum-village-818cc795cb0f",
+        "kind": "primary T3 interview and authorized Ne’Astra box-set liner-note excerpt",
+        "evidence": "separate nearby homes and non-immediate acquaintance / music-first formation of community within community / June13 2000 album release"
+      },
+      {
+        "label": "Albumism — Fantastic Vol.2 周年回顧",
+        "url": "https://albumism.com/features/slum-village-fantastic-vol-2-album-anniversary",
+        "kind": "music criticism, optional corroboration",
+        "evidence": "specifically identifies Conant Gardens as native-neighborhood tribute"
+      }
+    ],
+    "youtube": {
+      "id": "Vc75QQIrWl0",
+      "url": "https://www.youtube.com/watch?v=Vc75QQIrWl0",
+      "embedUrl": "https://www.youtube.com/embed/Vc75QQIrWl0",
+      "title": "Conant Gardens",
+      "channel": "OfficialSlumVillage",
+      "type": "Official Audio",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "Original-album vocal catalog recording; the selected official audio is on Fan-Tas-Tic, Vol. 2 with ℗2000 Barak and a 2009-01-26 digital reissue release field. Current Apple track 2 also uses singular Conant Garden. Requested plural title retained as alias. Do not use 2.10 or instrumental variants as an unlabelled substitute."
+    },
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "Conant Gardens",
+      "tag": "SLUM VILLAGE",
+      "lines": [
+        "Conant Gardens"
+      ],
+      "style": "piece",
+      "seed": 2026102420,
+      "palette": [
+        "#c79879",
+        "#34302e",
+        "#8c877c",
+        "#ede8d9",
+        "#a59555"
+      ],
+      "paletteSource": "Fantastic, Vol. 2 / Fan-Tas-Tic Vol 2",
+      "paletteSourceUrl": "",
+      "paletteNote": "編集上の配色。厳密な色抽出値ではない。"
+    },
+    "titleAliases": [
+      "Conant Gardens",
+      "Conant Garden"
+    ],
+    "addedOrder": 569,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "slum-village-earl-flinn",
+    "title": "Earl Flinn",
+    "artist": "Slum Village",
+    "primaryArtist": "Slum Village",
+    "primaryArtists": [
+      "Slum Village"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Slum Village"
+    ],
+    "year": 2010,
+    "album": "Villa Manifesto",
+    "category": "Hip Hop",
+    "region": "未確認",
+    "scene": "未確認",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "Explicit selected recording producer metadata only; composer credits not promoted to producer.",
+    "label": "未確認",
+    "yearBasis": "Standard vocal album track on the 13-track US E1 Music catalog. Do not substitute instrumentals or claim an unverified J Dilla feature; later 16-track catalog variants have divergent durations.",
+    "essayTitle": "Earl Flinn — 作品と背景をたどる",
+    "deck": "「Earl Flinn」は、2010年の『Villa Manifesto』に収められたSlum Villageの曲。選択候補の配信メタデータも、eOne Musicと同作の情報に対応している。依頼リストの短いミックス尺を曲全体の長さとはせず、原曲の収録作品を入口に整理した。",
+    "context": "作品・版と資料からたどる",
+    "essay": [
+      "「Earl Flinn」は、2010年の『Villa Manifesto』に収められたSlum Villageの曲。選択候補の配信メタデータも、eOne Musicと同作の情報に対応している。依頼リストの短いミックス尺を曲全体の長さとはせず、原曲の収録作品を入口に整理した。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Apple Music — Villa Manifesto 作品情報",
+        "url": "https://music.apple.com/us/album/villa-manifesto/382433727",
+        "kind": "official distributor catalog",
+        "evidence": "Earl Flinn track4 / 3:04 full catalog runtime, distinct from mix1:43 / 2010-07-27 / E1 Music / official cover"
+      },
+      {
+        "label": "Pitchfork — Villa Manifesto レビュー",
+        "url": "https://pitchfork.com/reviews/albums/14490-villa-manifesto/",
+        "kind": "contemporary music criticism",
+        "evidence": "song-specific kazoo-driven description / Young RJ production context"
+      },
+      {
+        "label": "AllMusic — Villa Manifesto 作品資料",
+        "url": "https://www.allmusic.com/album/villa-manifesto-mw0001983976/awards",
+        "kind": "music criticism and catalog",
+        "evidence": "song-specific kazoo-like bassline description / album context"
+      },
+      {
+        "label": "OfficialSlumVillage — Earl Flinn",
+        "url": "https://www.youtube.com/watch?v=_hUPZie1pFk",
+        "kind": "動画メタデータ（検索表示）",
+        "evidence": "Provided by eOne Music; 2010 E1 Music; released2010-07-27; official artist badge."
+      }
+    ],
+    "youtube": {
+      "id": "_hUPZie1pFk",
+      "url": "https://www.youtube.com/watch?v=_hUPZie1pFk",
+      "embedUrl": "https://www.youtube.com/embed/_hUPZie1pFk",
+      "title": "Earl Flinn",
+      "channel": "OfficialSlumVillage",
+      "type": "Official Audio",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "Standard vocal album track on the 13-track US E1 Music catalog. Do not substitute instrumentals or claim an unverified J Dilla feature; later 16-track catalog variants have divergent durations."
+    },
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "Earl Flinn",
+      "tag": "SLUM VILLAGE",
+      "lines": [
+        "Earl Flinn"
+      ],
+      "style": "piece",
+      "seed": 2026102421,
+      "palette": [
+        "#101111",
+        "#292a27",
+        "#c3ae3b",
+        "#999b91",
+        "#e5e3d7"
+      ],
+      "paletteSource": "Villa Manifesto",
+      "paletteSourceUrl": "https://music.apple.com/us/album/villa-manifesto/382433727",
+      "paletteNote": "Editorial approximate palette chosen after actual official cover inspection, not exact extracted output samples."
+    },
+    "addedOrder": 570,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "slum-village-multiply",
+    "title": "Multiply",
+    "artist": "Slum Village",
+    "primaryArtist": "Slum Village",
+    "primaryArtists": [
+      "Slum Village"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Slum Village"
+    ],
+    "year": 2005,
+    "album": "Slum Village",
+    "category": "Hip Hop",
+    "region": "未確認",
+    "scene": "未確認",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "Explicit selected recording producer metadata only; composer credits not promoted to producer.",
+    "label": "未確認",
+    "yearBasis": "Standard vocal track7 from the 2005 self-titled album. Full current catalog runtime 3:29, not mix1:52. Digital catalog dates differ (old Apple/Qobuz September27 versus current Apple October25); year is secure, exact first release day is not asserted.",
+    "essayTitle": "Multiply — 作品と背景をたどる",
+    "deck": "「Multiply」は、Slum Villageの2005年のセルフタイトル作に収められた曲。今回は通常の歌入り曲に対応する配信動画を選び、インストゥルメンタル版や短縮された自主制作映像とは区別した。配信カタログの発売日には差があるため、原曲の年は2005年とし、最初の発売日までは断定しない。",
+    "context": "作品・版と資料からたどる",
+    "essay": [
+      "「Multiply」は、Slum Villageの2005年のセルフタイトル作に収められた曲。今回は通常の歌入り曲に対応する配信動画を選び、インストゥルメンタル版や短縮された自主制作映像とは区別した。配信カタログの発売日には差があるため、原曲の年は2005年とし、最初の発売日までは断定しない。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Apple Music — Slum Village セルフタイトル作",
+        "url": "https://music.apple.com/us/album/slum-village/6820296166",
+        "kind": "official current distributor catalog",
+        "evidence": "2005 album / Multiply track7 / 3:29 runtime / official cover"
+      },
+      {
+        "label": "AllMusic — Slum Village レビュー",
+        "url": "https://www.allmusic.com/album/slum-village-mw0000702918",
+        "kind": "David Jeffries music criticism/catalog",
+        "evidence": "specific King Crimson fragment-loop description / 2005 self-titled album context"
+      },
+      {
+        "label": "Qobuz — Slum Village 作品情報・レビュー",
+        "url": "https://www.qobuz.com/no-en/album/slum-village-slum-village/ppyay172sr4ec",
+        "kind": "official distributor catalog plus licensed TiVo review",
+        "evidence": "2005 year / 3:29 track7 / David Jeffries sample-loop observation"
+      },
+      {
+        "label": "OfficialSlumVillage — Multiply",
+        "url": "https://www.youtube.com/watch?v=33gIGyAYpIg",
+        "kind": "動画メタデータ（検索表示）",
+        "evidence": "AdShare / Ne’Astra; official artist badge. Full vocal self-titled song; not Instrumental 9rvwXLbaXGY or homemade shortened Db hau candidate. Alternate official feat.Melanie Rutherford iDwyY5YkSdA."
+      }
+    ],
+    "youtube": {
+      "id": "33gIGyAYpIg",
+      "url": "https://www.youtube.com/watch?v=33gIGyAYpIg",
+      "embedUrl": "https://www.youtube.com/embed/33gIGyAYpIg",
+      "title": "Multiply",
+      "channel": "OfficialSlumVillage",
+      "type": "Official Audio",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "Standard vocal track7 from the 2005 self-titled album. Full current catalog runtime 3:29, not mix1:52. Digital catalog dates differ (old Apple/Qobuz September27 versus current Apple October25); year is secure, exact first release day is not asserted."
+    },
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "Multiply",
+      "tag": "SLUM VILLAGE",
+      "lines": [
+        "Multiply"
+      ],
+      "style": "piece",
+      "seed": 2026102422,
+      "palette": [
+        "#f2f2eb",
+        "#aeb1aa",
+        "#171b18",
+        "#666d5b",
+        "#b3a06a"
+      ],
+      "paletteSource": "Slum Village",
+      "paletteSourceUrl": "https://music.apple.com/us/album/slum-village/6820296166",
+      "paletteNote": "Actual official cover visually inspected, editorial palette only. Matte white/coolgrey/charcoal/olivegrey with small muted mustard, not metallic gold."
+    },
+    "addedOrder": 571,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "common-thelonius",
+    "title": "Thelonius",
+    "artist": "Common",
+    "primaryArtist": "Common",
+    "primaryArtists": [
+      "Common"
+    ],
+    "featuredArtists": [
+      "Slum Village"
+    ],
+    "artists": [
+      "Common",
+      "Slum Village"
+    ],
+    "year": 2000,
+    "album": "Like Water For Chocolate",
+    "category": "Hip Hop",
+    "region": "未確認",
+    "scene": "未確認",
+    "producer": "J Dilla",
+    "producers": [
+      "J Dilla"
+    ],
+    "producerBasis": "Explicit selected recording producer metadata only; composer credits not promoted to producer.",
+    "label": "未確認",
+    "yearBasis": "Common album recording, featuring Slum Village; not the Slum Village album attribution. Requested Thelonious is an apparent spelling alias of catalog Thelonius. 2013/4:04 remain mix-container metadata; the mix edit itself was not auditioned.",
+    "essayTitle": "Thelonius — 作品と背景をたどる",
+    "deck": "2000年の『Like Water For Chocolate』に収録された、CommonとSlum Villageの接点。T3の回想によると、もとはSlum Village側の曲だったが、耳にしたCommonが自身のアルバムに望み、グループも参加する形になった。Jay Deeは制作だけでなくラップでも加わっている。名義の違いを隔てる壁ではなく、互いの作品を行き来する入口として捉えたい一曲だ。",
+    "context": "作品・版と資料からたどる",
+    "essay": [
+      "2000年の『Like Water For Chocolate』に収録された、CommonとSlum Villageの接点。T3の回想によると、もとはSlum Village側の曲だったが、耳にしたCommonが自身のアルバムに望み、グループも参加する形になった。Jay Deeは制作だけでなくラップでも加わっている。名義の違いを隔てる壁ではなく、互いの作品を行き来する入口として捉えたい一曲だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "sources": [
+      {
+        "label": "music.apple.com — Thelonius",
+        "url": "https://music.apple.com/us/song/thelonius-feat-slum-village/1854232116",
+        "kind": "official distributor catalog",
+        "evidence": "catalog title and feature / album / 2000-03-28 / official cover URL"
+      },
+      {
+        "label": "www.youtube.com — Thelonius",
+        "url": "https://www.youtube.com/watch?v=BddWDRn8des",
+        "kind": "official indexed metadata only",
+        "evidence": "official artist channel / UMG-provided album audio / Jay Dee producer / matching catalog artist/title/album/year"
+      },
+      {
+        "label": "Rapologia — Slum Village インタビュー",
+        "url": "https://www.rapologia.it/slum-village-intervista/",
+        "kind": "primary artist interview",
+        "evidence": "T3: originally intended as a Slum Village song / Common wanted it for his album / Slum Village involvement retained / Dilla made the beat and rapped"
+      }
+    ],
+    "youtube": {
+      "id": "BddWDRn8des",
+      "url": "https://www.youtube.com/watch?v=BddWDRn8des",
+      "embedUrl": "https://www.youtube.com/embed/BddWDRn8des",
+      "title": "Thelonius",
+      "channel": "Common",
+      "type": "Official Audio",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "Common album recording, featuring Slum Village; not the Slum Village album attribution. Requested Thelonious is an apparent spelling alias of catalog Thelonius. 2013/4:04 remain mix-container metadata; the mix edit itself was not auditioned."
+    },
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "Thelonius",
+      "tag": "COMMON",
+      "lines": [
+        "Thelonius"
+      ],
+      "style": "piece",
+      "seed": 2026102423,
+      "palette": [
+        "#0d3322",
+        "#5c7b60",
+        "#cbd1c4",
+        "#f5f5e8",
+        "#252e27"
+      ],
+      "paletteSource": "Like Water For Chocolate",
+      "paletteSourceUrl": "https://music.apple.com/us/song/thelonius-feat-slum-village/1854232116",
+      "paletteNote": "Official album cover directly viewed for approximate evergreen/sage/ivory/grey palette only. Photograph, typography, layout and figures not copied."
+    },
+    "titleAliases": [
+      "Thelonious",
+      "Thelonius"
+    ],
+    "addedOrder": 572,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "slum-village-reunion",
+    "title": "Reunion",
+    "artist": "Slum Village",
+    "primaryArtist": "Slum Village",
+    "primaryArtists": [
+      "Slum Village"
+    ],
+    "featuredArtists": [
+      "J Dilla"
+    ],
+    "artists": [
+      "Slum Village",
+      "J Dilla"
+    ],
+    "year": 2004,
+    "album": "Detroit Deli (A Taste of Detroit)",
+    "category": "Hip Hop",
+    "region": "未確認",
+    "scene": "未確認",
+    "producer": "Young RJ / Black Milk",
+    "producers": [
+      "Young RJ",
+      "Black Milk"
+    ],
+    "producerBasis": "Explicit selected recording producer metadata only; composer credits not promoted to producer.",
+    "label": "未確認",
+    "yearBasis": "Album recording on Detroit Deli, not The Reunion, Pt. 2 from Villa Manifesto. Official audio metadata has a generic 2004-01-01 date; Apple and contemporary 2004 reporting support June 29 album release. Mix excerpt has not been auditioned.",
+    "essayTitle": "Reunion — 作品と背景をたどる",
+    "deck": "2004年の『Detroit Deli』を閉じる「Reunion」は、単純な再集結の祝歌ではない。発売前のT3の説明では、再び一緒にいたいという願い、可能性、そして一緒にはいない現実という、三つの心境を重ねた曲だ。J Dillaを迎えた声の集合と、揃い切らない関係。その距離を消さずに残すところに、この一曲の輪郭がある。",
+    "context": "作品・版と資料からたどる",
+    "essay": [
+      "2004年の『Detroit Deli』を閉じる「Reunion」は、単純な再集結の祝歌ではない。発売前のT3の説明では、再び一緒にいたいという願い、可能性、そして一緒にはいない現実という、三つの心境を重ねた曲だ。J Dillaを迎えた声の集合と、揃い切らない関係。その距離を消さずに残すところに、この一曲の輪郭がある。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    ],
+    "sources": [
+      {
+        "label": "music.apple.com — Reunion",
+        "url": "https://music.apple.com/us/song/724199296",
+        "kind": "official distributor catalog",
+        "evidence": "Reunion / Slum Village & J Dilla / Detroit Deli / 2004-06-29 / official cover"
+      },
+      {
+        "label": "Apple Music — Detroit Deli 作品情報",
+        "url": "https://music.apple.com/us/album/detroit-deli-a-taste-of-detroit/724198843",
+        "kind": "official distributor catalog",
+        "evidence": "album closing track 13 / catalog full duration 4:03, not supplied mix 3:54"
+      },
+      {
+        "label": "www.youtube.com — Reunion",
+        "url": "https://www.youtube.com/watch?v=eO9k-cFmoEA",
+        "kind": "official indexed metadata only",
+        "evidence": "official artist channel / UMG album audio / Young RJ and Black Milk production credits / 2004 phonogram"
+      },
+      {
+        "label": "AllHipHop — T3のDetroit Deli発売前コメント",
+        "url": "https://allhiphop.com/news/slum-village-reduced-to-a-pair-preps-detroit-deli/",
+        "kind": "contemporary reporting with T3 statement",
+        "evidence": "three states of togetherness form the song concept / album due June 29"
+      },
+      {
+        "label": "DJBooth — Black Milk 制作回顧インタビュー",
+        "url": "https://djbooth.net/features/2018-02-20-black-milk-interview-beat-break/",
+        "kind": "primary Black Milk interview",
+        "evidence": "Black Milk describes a quickly assembled loop plus kick/snare for Reunion; optional background only, not used as a claimed listening impression"
+      }
+    ],
+    "youtube": {
+      "id": "eO9k-cFmoEA",
+      "url": "https://www.youtube.com/watch?v=eO9k-cFmoEA",
+      "embedUrl": "https://www.youtube.com/embed/eO9k-cFmoEA",
+      "title": "Reunion",
+      "channel": "OfficialSlumVillage",
+      "type": "Official Audio",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "Album recording on Detroit Deli, not The Reunion, Pt. 2 from Villa Manifesto. Official audio metadata has a generic 2004-01-01 date; Apple and contemporary 2004 reporting support June 29 album release. Mix excerpt has not been auditioned."
+    },
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "Reunion",
+      "tag": "SLUM VILLAGE",
+      "lines": [
+        "Reunion"
+      ],
+      "style": "piece",
+      "seed": 2026102424,
+      "palette": [
+        "#e2d39a",
+        "#1f1c14",
+        "#31584a",
+        "#b8994c",
+        "#a24e36"
+      ],
+      "paletteSource": "Detroit Deli (A Taste of Detroit)",
+      "paletteSourceUrl": "https://music.apple.com/us/song/reunion/724199296",
+      "paletteNote": "Approximate editorial palette chosen after actual cover inspection; colors are not mechanically extracted or exact output samples. Generated accents are more saturated than the cover, retaining its cream/green/ochre/rust/charcoal families."
+    },
+    "artistCreditBasis": "Selected catalog lists Slum Village & J Dilla; represented as Slum Village with J Dilla featured.",
+    "addedOrder": 573,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "little-brother-nighttime-maneuvers",
+    "title": "Nighttime Maneuvers",
+    "artist": "Little Brother",
+    "primaryArtist": "Little Brother",
+    "primaryArtists": [
+      "Little Brother"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Little Brother"
+    ],
+    "year": 2003,
+    "album": "The Listening",
+    "category": "Hip Hop",
+    "region": "Durham, North Carolina",
+    "scene": "Durham, North Carolina",
+    "regionBasis": "Artist origin or self-published location from cited primary sources, not recording location. Unconfirmed joint region omitted.",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "Original release year in cited primary catalog; not KIYO mixtape year or later video upload.",
+    "label": "未確認",
+    "essayTitle": "三分の小窓から、ノースカロライナへ",
+    "deck": "「Nighttime Maneuvers」は、Little Brotherの2003年作『The Listening』に収められた一曲。",
+    "context": "三分の小窓から、ノースカロライナへ",
+    "essay": [
+      "「Nighttime Maneuvers」は、Little Brotherの2003年作『The Listening』に収められた一曲。現在の公式Deluxe Editionでも、タイトル曲「The Listening」の直前に置かれている。単独の3分3秒という長さを確認してから、ミックスの抜粋とは区別して辿りたい。",
+      "権利者から供給された配信クレジットでは、プロデュースは9th Wonder、作曲・作詞にはP. ColemanとP. Douthitが並ぶ。同じDeluxe Editionには別トラックとしてインスト版もある。まずヴォーカル入りの原曲を選び、その後に声のない版へ進むという聴き比べもできる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Little Brother — The Listening Deluxe Edition",
+        "url": "https://littlebrother.bandcamp.com/album/the-listening-deluxe-edition",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "sequence,year,region,instrumental distinct"
+      },
+      {
+        "label": "Qobuz — The Listening 収録一覧",
+        "url": "https://www.qobuz.com/ie-en/album/the-listening-little-brother/wzpmhjykmri5b",
+        "kind": "配信カタログ",
+        "evidence": "producer,writers,length"
+      }
+    ],
+    "youtube": {
+      "id": "1gxs72IWxyU",
+      "url": "https://www.youtube.com/watch?v=1gxs72IWxyU",
+      "title": "Nighttime Maneuvers",
+      "channel": "Little Brother - Topic",
+      "type": "公式配信音源",
+      "official": true,
+      "embedUrl": "https://www.youtube.com/embed/1gxs72IWxyU",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "The Listening (Deluxe Edition) の公式配信音源",
+      "versionBasis": "検索索引のEMPIRE自動配信メタデータ。作品年2003と2021年アップロードを区別。元マスターとの同一性は未確認。",
+      "verification": "実再生・日本所在地での再生可否・埋め込み可否・マスター同一性は未確認。"
+    },
+    "versionBasis": "exacttitleversion; exact DJ mix master not verified.",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "art": {
+      "word": "Nighttime Maneuvers",
+      "tag": "LITTLE BROTHER",
+      "lines": [
+        "Nighttime Maneuvers"
+      ],
+      "style": "piece",
+      "seed": 2026102425,
+      "palette": [
+        "#171e35",
+        "#d7d1b6",
+        "#817950",
+        "#79502e"
+      ],
+      "paletteSource": "The Listening (Deluxe Edition)",
+      "paletteSourceUrl": "https://littlebrother.bandcamp.com/track/nighttime-maneuvers",
+      "paletteNote": "公式公開ジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図・既存ロゴは複製せず、独自の文字アートとして制作。"
+    },
+    "addedOrder": 574,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "phonte-not-here-anymore",
+    "title": "Not Here Anymore (feat. Elzhi)",
+    "artist": "Phonte",
+    "primaryArtist": "Phonte",
+    "primaryArtists": [
+      "Phonte"
+    ],
+    "featuredArtists": [
+      "Elzhi"
+    ],
+    "artists": [
+      "Phonte",
+      "Elzhi"
+    ],
+    "year": 2011,
+    "album": "Charity Starts At Home",
+    "category": "Hip Hop",
+    "region": "North Carolina",
+    "scene": "North Carolina",
+    "regionBasis": "Artist origin or self-published location from cited primary sources, not recording location. Unconfirmed joint region omitted.",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "Original release year in cited primary catalog; not KIYO mixtape year or later video upload.",
+    "label": "未確認",
+    "essayTitle": "再び通じ合う、二人の制作言語",
+    "deck": "Phonteの『Charity Starts At Home』に収められた、Elzhi参加の「Not Here Anymore」。",
+    "context": "再び通じ合う、二人の制作言語",
+    "essay": [
+      "Phonteの『Charity Starts At Home』に収められた、Elzhi参加の「Not Here Anymore」。+FE Musicは2011年8月に公式SoundCloudで先行曲として公開し、アルバムは同年9月27日に発売された。",
+      "この曲には、Phonteと9th Wonderの再会という背景もある。2011年のXXLのインタビューで9th Wonderは、長く話していなかった二人が近況を交わしたこと、互いが欲しい音や感触を理解していることを語っている。旧知の相手との共同作業が、ソロ作の一曲に結びついた。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Phonte — Charity Starts at Home",
+        "url": "https://phonte.bandcamp.com/album/charity-starts-at-home",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "catalog release,feature,length,region; search indexed, directopen404"
+      },
+      {
+        "label": "soundcloud.com — Not Here Anymore (feat. Elzhi)",
+        "url": "https://soundcloud.com/theforeignexchangemusic/phonte-not-here-anymore-feat",
+        "kind": "公式音源",
+        "evidence": "officialsingle2011-08-24,album2011-09-27"
+      },
+      {
+        "label": "XXL — 9th Wonder 制作インタビュー",
+        "url": "https://www.xxlmag.com/production-credit-9th-wonder-speaks-on-digging-for-samples-take-care-staying-in-his-lane/",
+        "kind": "制作参加者本人インタビュー",
+        "evidence": "directartistinterview2011-10-13 production/reunion"
+      }
+    ],
+    "youtube": {
+      "id": "CIf3-kbktAU",
+      "url": "https://www.youtube.com/watch?v=CIf3-kbktAU",
+      "title": "Not Here Anymore (feat. Elzhi)",
+      "channel": "EMPIRE",
+      "type": "Official Audio",
+      "official": true,
+      "embedUrl": "https://www.youtube.com/embed/CIf3-kbktAU",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "Charity Starts at Home収録曲（2011年公開音源）",
+      "versionBasis": "検索索引で認証済みEMPIRE、2011-09-28 upload、Charity Starts at HomeとProduced by 9th Wonderの説明を確認した既存報告。音源マスター未照合。",
+      "verification": "実再生・日本所在地での再生可否・埋め込み可否・マスター同一性は未確認。"
+    },
+    "versionBasis": "exacttitleversion; exact DJ mix master not verified.",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "art": {
+      "word": "Not Here Anymore (feat. Elzhi)",
+      "tag": "PHONTE",
+      "lines": [
+        "Not Here Anymore (feat. Elzhi)"
+      ],
+      "style": "piece",
+      "seed": 2026102426,
+      "palette": [
+        "#091311",
+        "#dce5e1",
+        "#617c78",
+        "#ffffff"
+      ],
+      "paletteSource": "Charity Starts At Home (2011)",
+      "paletteSourceUrl": "https://phonte.bandcamp.com/album/charity-starts-at-home",
+      "paletteNote": "公式公開ジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図・既存ロゴは複製せず、独自の文字アートとして制作。"
+    },
+    "addedOrder": 575,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "westside-gunn-wrestlemania-20",
+    "title": "Wrestlemania 20 (feat. Anderson .Paak)",
+    "artist": "Westside Gunn",
+    "primaryArtist": "Westside Gunn",
+    "primaryArtists": [
+      "Westside Gunn"
+    ],
+    "featuredArtists": [
+      "Anderson .Paak"
+    ],
+    "artists": [
+      "Westside Gunn",
+      "Anderson .Paak"
+    ],
+    "year": 2018,
+    "album": "Supreme Blientele",
+    "category": "Hip Hop",
+    "region": "Buffalo",
+    "scene": "Buffalo",
+    "regionBasis": "Artist origin or self-published location from cited primary sources, not recording location. Unconfirmed joint region omitted.",
+    "producer": "未確認",
+    "producers": [],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "Original release year in cited primary catalog; not KIYO mixtape year or later video upload.",
+    "label": "未確認",
+    "essayTitle": "公開動画の日付より前にある一枚",
+    "deck": "BuffaloのWestside Gunnが2018年に発表した『Supreme Blientele』から、Anderson .Paakを迎えた一曲。",
+    "context": "公開動画の日付より前にある一枚",
+    "essay": [
+      "BuffaloのWestside Gunnが2018年に発表した『Supreme Blientele』から、Anderson .Paakを迎えた一曲。Daupeのレコード版にも6分24秒のトラックとして記載される。2022年に追加された公式配信動画を見る場合も、作品の発表年は2018年と分けて押さえたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "www.youtube.com — Wrestlemania 20 (feat. Anderson .Paak)",
+        "url": "https://www.youtube.com/watch?v=_6woMoW3JJk",
+        "kind": "公式音源",
+        "evidence": "WestsideGunnOAC;EMPIRE;Griselda2018;2018-06-22release;2022upload"
+      },
+      {
+        "label": "music.apple.com — Wrestlemania 20 (feat. Anderson .Paak)",
+        "url": "https://music.apple.com/us/song/1604971476",
+        "kind": "配信カタログ",
+        "evidence": "SupremeBlientele track featuringAnderson.Paak;2018-06-22"
+      },
+      {
+        "label": "Daupe — Supreme Blientele 収録一覧",
+        "url": "https://daupe.bandcamp.com/album/supreme-blientele?t=2",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "Labelphysicalcatalog exacttracklisted6:24"
+      },
+      {
+        "label": "Shady Records — Westside Gunn の出身地（Buffalo）",
+        "url": "https://www.shadyrecords.com/2020/07/29/westside-gunn-announces-new-album-who-made-the-sunshine/",
+        "kind": "アーティスト地域情報",
+        "evidence": "Officiallabel explicitlyBuffalo hometown"
+      }
+    ],
+    "youtube": {
+      "id": "_6woMoW3JJk",
+      "url": "https://www.youtube.com/watch?v=_6woMoW3JJk",
+      "title": "Wrestlemania 20 (feat. Anderson .Paak)",
+      "channel": "WestsideGunn",
+      "type": "Official Audio",
+      "official": true,
+      "embedUrl": "https://www.youtube.com/embed/_6woMoW3JJk",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "Supreme Blientele収録版（2018作品／2022年配信動画）",
+      "versionBasis": "既存調査packetの検索メタデータにWestside Gunn OAC、EMPIRE、Griselda、2018-06-22 release、2022 upload。作品年と動画追加年を区別。音源マスター未照合。",
+      "verification": "実再生・日本所在地での再生可否・埋め込み可否・マスター同一性は未確認。"
+    },
+    "versionBasis": "SupremeBlientele2018;upload2022notoriginalyear; exact DJ mix master not verified.",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "art": {
+      "word": "Wrestlemania 20 (feat. Anderson .Paak)",
+      "tag": "WESTSIDE GUNN",
+      "lines": [
+        "Wrestlemania 20 (feat. Anderson .Paak)"
+      ],
+      "style": "piece",
+      "seed": 2026102427,
+      "palette": [
+        "#111111",
+        "#cececb",
+        "#eeeeea",
+        "#eb171b"
+      ],
+      "paletteSource": "Supreme Blientele",
+      "paletteSourceUrl": "https://daupe.bandcamp.com/album/supreme-blientele",
+      "paletteNote": "公式カタログのジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図は複製せず独自の文字アートとして制作。"
+    },
+    "addedOrder": 576,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "rapsody-2-am",
+    "title": "2 AM",
+    "artist": "Rapsody",
+    "primaryArtist": "Rapsody",
+    "primaryArtists": [
+      "Rapsody"
+    ],
+    "featuredArtists": [
+      "Ab-Soul"
+    ],
+    "artists": [
+      "Rapsody",
+      "Ab-Soul"
+    ],
+    "year": 2016,
+    "album": "Crown",
+    "category": "Hip Hop",
+    "region": "",
+    "scene": "",
+    "regionBasis": "未確認の地域は省略。録音地と出身地を混同しない。",
+    "producer": "Khrysis & 9th Wonder",
+    "producers": [
+      "Khrysis",
+      "9th Wonder"
+    ],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "公式公開または配信カタログの原作年。後年アップロードや再配信と区別。",
+    "label": "Jamla Records",
+    "essayTitle": "Ab-Soulを迎えた、Crownの一曲",
+    "deck": "RapsodyがAb-Soulを迎えた「2 AM」。2016年の『Crown』に収められ、Jamla Recordsの公式SoundCloudでは同年11月15日に公開されている。",
+    "context": "Ab-Soulを迎えた、Crownの一曲",
+    "essay": [
+      "RapsodyがAb-Soulを迎えた「2 AM」。2016年の『Crown』に収められ、Jamla Recordsの公式SoundCloudでは同年11月15日に公開されている。",
+      "制作はKhrysisと9th Wonderの共同クレジット。客演だけでなく制作陣も確かめながら、『Crown』へ戻る入口にしたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        0
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Jamla Records — 2 AM",
+        "url": "https://soundcloud.com/jamlarecords/rapsody-2-am-ft-ab-soul",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "artist;guest;production;public2016-11-15"
+      },
+      {
+        "label": "Apple Music — 2 AM",
+        "url": "https://music.apple.com/sg/song/1177802829",
+        "kind": "配信カタログ",
+        "evidence": "Crown;year2016;guest"
+      }
+    ],
+    "youtube": {
+      "id": "mZv0T35SaU4",
+      "url": "https://www.youtube.com/watch?v=mZv0T35SaU4",
+      "title": "2 AM",
+      "channel": "Rapsody",
+      "type": "Official Audio",
+      "official": true,
+      "embedUrl": "https://www.youtube.com/embed/mZv0T35SaU4",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "Crown収録版（2016）",
+      "versionBasis": "Rapsody OACの検索索引にProvided by EMPIRE、Crown、℗2016 Jamla / Culture Over Everything、2016-11-17 release。先行公開2016-11-15とは区別。音源マスター未照合。",
+      "verification": "実再生・日本所在地での再生可否・埋め込み可否・マスター同一性は未確認。"
+    },
+    "versionBasis": "exacttitleversion; exact DJ mix master not verified.",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "art": {
+      "word": "2 AM",
+      "tag": "RAPSODY",
+      "lines": [
+        "2 AM"
+      ],
+      "style": "piece",
+      "seed": 2026102428,
+      "palette": [
+        "#291414",
+        "#a37a46",
+        "#8e3441",
+        "#ded1b8",
+        "#272625"
+      ],
+      "paletteSource": "Crown",
+      "paletteSourceUrl": "https://music.apple.com/sg/song/1177802829",
+      "paletteNote": "公式カタログのジャケットを実際に視認した編集上の配色。厳密な色抽出値ではない。画像・人物・構図は複製せず独自の文字アートとして制作。"
+    },
+    "addedOrder": 577,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "9th-wonder-buckshot-no-comparison",
+    "title": "No Comparison",
+    "artist": "9th Wonder & Buckshot",
+    "primaryArtist": "9th Wonder",
+    "primaryArtists": [
+      "9th Wonder",
+      "Buckshot"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "9th Wonder",
+      "Buckshot"
+    ],
+    "year": 2005,
+    "album": "Chemistry",
+    "category": "Hip Hop",
+    "region": "",
+    "scene": "",
+    "regionBasis": "未確認の地域は省略。録音地と出身地を混同しない。",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "Explicit producer role or direct artist interview only; unverified omitted. Remixer distinct from producer.",
+    "yearBasis": "公式公開または配信カタログの原作年。後年アップロードや再配信と区別。",
+    "label": "Duck Down Music",
+    "essayTitle": "Chemistryをたどる、9曲目の接点",
+    "deck": "9th WonderとBuckshotの「No Comparison」は、2005年の共同作『Chemistry』に収録。Duck Down公式ストアの曲目では9曲目に置かれている。",
+    "context": "Chemistryをたどる、9曲目の接点",
+    "essay": [
+      "9th WonderとBuckshotの「No Comparison」は、2005年の共同作『Chemistry』に収録。Duck Down公式ストアの曲目では9曲目に置かれている。",
+      "公式紹介はBlack MoonのBuckshotと、ノースカロライナのプロデューサー9th Wonderによる共同作として同盤を位置付ける。一曲から、二人のアルバムへ戻る入口だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        0
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Duck Down公式ストア — Chemistry",
+        "url": "https://www.shopduckdown.com/product/5QLPDM29/buckshot-9thwonder-chemistry",
+        "kind": "アーティスト・レーベル公式",
+        "evidence": "original2005;artists;track9;9thproducerbio"
+      },
+      {
+        "label": "Qobuz — Chemistry",
+        "url": "https://www.qobuz.com/fr-fr/album/chemistry-9th-wonder-and-buckshot/0693461201422",
+        "kind": "配信カタログ",
+        "evidence": "catalogtitle;year;label;writers-not-producers"
+      },
+      {
+        "label": "Apple Music — No Comparison",
+        "url": "https://music.apple.com/us/song/no-comparison/355819006",
+        "kind": "配信カタログ",
+        "evidence": "exact official catalog track URL observed in Apple playlist JSONLD"
+      }
+    ],
+    "youtube": {
+      "id": "WSxjF7Wj28k",
+      "url": "https://www.youtube.com/watch?v=WSxjF7Wj28k",
+      "title": "No Comparison",
+      "channel": "9th Wonder - Topic",
+      "type": "公式配信音源",
+      "official": true,
+      "embedUrl": "https://www.youtube.com/embed/WSxjF7Wj28k",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "Chemistryの公式配信音源",
+      "versionBasis": "検索索引のVirgin Music Group自動配信、Duck Down権利表記。作品年2005と動画公開日を区別。元マスターとの同一性は未確認。",
+      "verification": "実再生・日本所在地での再生可否・埋め込み可否・マスター同一性は未確認。"
+    },
+    "versionBasis": "exacttitleversion; exact DJ mix master not verified.",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "一次資料で未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-23",
+    "art": {
+      "word": "No Comparison",
+      "tag": "9TH WONDER & BUCKSHOT",
+      "lines": [
+        "No Comparison"
+      ],
+      "style": "piece",
+      "seed": 2026102429,
+      "palette": [
+        "#77ddeb",
+        "#d833c5",
+        "#8ee941",
+        "#f5e942",
+        "#302638",
+        "#ffffd9"
+      ],
+      "paletteSource": "Chemistry",
+      "paletteSourceUrl": "https://music.apple.com/us/playlist/best-of-duck-down-music-inc/pl.f42fd9e7500043e7874a6c3e123761fc",
+      "paletteNote": "公式ジャケットを実視認した編集上の近似配色。人物・構図・既存ロゴは複製せず、独自の文字アートとして制作。"
+    },
+    "addedOrder": 578,
+    "datePublished": "2026-10-24"
   }
 ]
