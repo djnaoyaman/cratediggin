@@ -78717,5 +78717,130 @@
     },
     "addedOrder": 607,
     "datePublished": "2026-10-25"
+  },
+  {
+    "id": "jurassic-5-a-day-at-the-races",
+    "title": "A Day At The Races",
+    "artist": "Jurassic 5",
+    "primaryArtist": "Jurassic 5",
+    "primaryArtists": [
+      "Jurassic 5"
+    ],
+    "featuredArtists": [
+      "Percee P",
+      "Big Daddy Kane"
+    ],
+    "artists": [
+      "Jurassic 5",
+      "Percee P",
+      "Big Daddy Kane"
+    ],
+    "year": 2002,
+    "album": "Power In Numbers",
+    "category": "Hip Hop",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": "Cut Chemist",
+    "producers": [
+      "Cut Chemist"
+    ],
+    "producerBasis": "公式配信曲別役割で確認。",
+    "label": "Interscope",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "yearBasis": "公式配信または公式Bandcampの作品年。再配信年/YouTube upload年と区別。",
+    "essayTitle": "公演での出会いから、Jurassic 5との共演へ",
+    "deck": "公演での出会いが、Big Daddy Kaneも参加する録音につながった。",
+    "context": "",
+    "essay": [
+      "Percee Pは、Jurassic 5の公演で自分のCDを売っていたときにCut Chemistと話したことを、Stones Throw掲載のインタビューで振り返っている。ステージでの共演を経て、Big Daddy Kaneも参加するアルバム録音へ。その出会いが形になった「A Day At The Races」は、Cut Chemistが制作した2002年の『Power In Numbers』収録曲だ。",
+      "Jeremy Garciaの2022年8月25日付プレイリストでは、この曲が最初の項目に置かれている。客演の組み合わせだけでなく、後年のDJの選曲にも足跡を残す一曲。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Jurassic 5 — A Day At The Races",
+        "url": "https://www.youtube.com/watch?v=YietowKD0vo",
+        "kind": "公式配信メタデータ",
+        "evidence": "前回確認済みPIAS提供・Power In Numbers・Released2002・Producer Cut Chemist。配信表記Percy PはStones Throw一次資料と照合しcanonical Percee Pへ正規化。実再生なし。"
+      },
+      {
+        "label": "Percee Interview",
+        "url": "https://www.stonesthrow.com/news/percee-interview/",
+        "kind": "本人インタビュー",
+        "evidence": "公演でCD販売→Cut Chemistとの会話→ステージ共演→Big Daddy Kane参加の録音依頼を本人が説明。2026-10-24再取得。"
+      },
+      {
+        "label": "Now they wanna see him",
+        "url": "https://www.stonesthrow.com/news/now-they-wanna-see-him/",
+        "kind": "所属レーベル記事",
+        "evidence": "Percee PがJurassic 5のDay At The RacesでBig Daddy Kaneと共演したことを明示。"
+      },
+      {
+        "label": "Jeremy Garcia — 8/25/22",
+        "url": "https://serato.com/playlists/Jeremy_Garcia/8-25-22",
+        "kind": "DJ公開プレイリスト",
+        "evidence": "00:00:00にA Day At The Races（Percy P/Big Daddy Kane）を掲載。音声やつなぎ方は未確認。"
+      },
+      {
+        "label": "Jurassic 5 — official SoundCloud",
+        "url": "https://soundcloud.com/jurassic5",
+        "kind": "公式プロフィール",
+        "evidence": "前回実読したOfficial soundcloud自己表記とLos Angeles。各メンバー出生地とは区別。"
+      }
+    ],
+    "youtube": {
+      "id": "YietowKD0vo",
+      "url": "https://www.youtube.com/watch?v=YietowKD0vo",
+      "embedUrl": "https://www.youtube.com/embed/YietowKD0vo",
+      "title": "A Day At The Races",
+      "channel": "Jurassic 5 - Topic",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "公式配信の曲名・artist・albumを確認。実再生・同一masterは未確認。",
+      "verified": "2026-10-24"
+    },
+    "art": {
+      "word": "A Day At The Races",
+      "tag": "JURASSIC 5",
+      "style": "tag",
+      "seed": 828710583,
+      "palette": [
+        "#ffdb22",
+        "#df7b21",
+        "#b52c20",
+        "#f3edda",
+        "#121212"
+      ],
+      "paletteSourceUrl": "https://music.apple.com/us/album/power-in-numbers/1673116557",
+      "paletteSource": "Actually viewed official catalog cover",
+      "paletteNote": "Power In Numbersのジャケットを参照した黄・橙・赤に、黒白のコントラストを組み合わせた配色。"
+    },
+    "addedOrder": 608,
+    "datePublished": "2026-10-25"
   }
 ]
