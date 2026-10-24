@@ -78487,12 +78487,15 @@
       "style": "tag",
       "seed": 20261024130,
       "palette": [
-        "#7d939f",
-        "#efe6d8"
+        "#242829",
+        "#eee7d9",
+        "#273b50",
+        "#61798c",
+        "#91969a"
       ],
       "paletteSource": "Viewed official catalog cover, approximate editorial palette",
       "paletteSourceUrl": "https://music.apple.com/us/album/the-audiences-listening/168709805",
-      "paletteNote": "Flat medium-value slate marker ink derived approximately from current catalog blues/greys, lifted for light/dark readability with a minimal warm-ivory hairline. No modeled light, copied cover art or shadow."
+      "paletteNote": "The Audience’s Listeningのジャケットを参照した紺・青灰色・灰色に、黒白のコントラストを組み合わせた配色。"
     },
     "addedOrder": 605,
     "datePublished": "2026-10-24"
