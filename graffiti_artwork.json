@@ -11858,6 +11858,29 @@
       "status": "ready",
       "image": "assets/graffiti/illa-j-dftf-new-front-private-alpha.webp",
       "reviewNote": "曲固有の文字構成・透過・文字表記を独立確認したオリジナルアート。解釈の範囲はconceptとinterpretationLimitsに記録。"
+    },
+    {
+      "id": "phat-kat-game-time",
+      "title": "Game Time",
+      "artist": "Phat Kat",
+      "album": "Carte Blanche (Deluxe Edition)",
+      "palette": [
+        "#f08b22",
+        "#1b0e09",
+        "#f8f4e8",
+        "#915629",
+        "#56301e"
+      ],
+      "concept": "開始を待つ整列が、TIMEの一画だけで動き出す瞬間。GAMEは安定して整列、TIMEのT横棒が一つの正確な開始の隙間を越え、他の字は待機状態を保つ。自作の題名解釈であり歌詞・作者意図ではない。",
+      "interpretationLimits": "Explicitly authored title-led graphic: one T crossbar beginning to cross a precise gap while the remaining title stays aligned. Not verified lyrics, artist intent, a sports theme, measured timing or actual listening. Exact identity is Apple canonical Game Time on Carte Blanche Deluxe, supported by Amazon original2007 tracklist. Game Tight correspondence remains unresolved and is not assumed; producer remains null. Currentdeluxe ℗2018 is distinct from original2007 LookRecords; no master parity or physical first-release-day claim. Selected video candidate 6HKMt3d1p6M is metadata-bound; uploader officiality, playback and exact-master identity remain unverified. The0:43 usermix excerpt is not the original runtime.",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "noSiteBranding": true,
+      "paletteSource": "Carte Blanche (Deluxe Edition)",
+      "status": "ready",
+      "image": "assets/graffiti/phat-kat-game-time-start-stroke-alpha.webp",
+      "reviewNote": "曲固有の文字構成・透過・文字表記を独立確認したオリジナルアート。解釈の範囲はconceptとinterpretationLimitsに記録。"
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

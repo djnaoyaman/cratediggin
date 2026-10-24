@@ -76247,5 +76247,115 @@
     },
     "addedOrder": 588,
     "datePublished": "2026-10-24"
+  },
+  {
+    "id": "phat-kat-game-time",
+    "title": "Game Time",
+    "artist": "Phat Kat",
+    "primaryArtist": "Phat Kat",
+    "primaryArtists": [
+      "Phat Kat"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Phat Kat"
+    ],
+    "year": 2007,
+    "album": "Carte Blanche",
+    "category": "Hip Hop",
+    "region": "未確認",
+    "scene": "未確認",
+    "producer": null,
+    "producers": [],
+    "label": "未確認",
+    "yearBasis": "原作年を採用。再配信・資料登録日やDJミックス年は区別。",
+    "essayTitle": "Game Time — 作品と背景をたどる",
+    "deck": "Phat Katの「Game Time」は『Carte Blanche』に収められた曲で、原作の年は2007年として整理した。選択候補は同曲名とデラックス版への配信案内を示す動画だが、投稿者の公式性は未確証。別資料にある「Game Tight」との対応を推測で確定せず、曲別の制作担当も未確定のまま残している。",
+    "context": "出典と版からたどる",
+    "essay": [
+      "Phat Katの「Game Time」は『Carte Blanche』に収められた曲で、原作の年は2007年として整理した。選択候補は同曲名とデラックス版への配信案内を示す動画だが、投稿者の公式性は未確証。別資料にある「Game Tight」との対応を推測で確定せず、曲別の制作担当も未確定のまま残している。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "music.apple.com — Game Time",
+        "url": "https://music.apple.com/us/song/1399211379",
+        "kind": "作品カタログ・レーベル資料",
+        "evidence": "Apple Music lists Game Time on Carte Blanche (Deluxe Edition) with April 3, 2007 metadata."
+      },
+      {
+        "label": "Amazon Music — Carte Blanche アルバム情報",
+        "url": "https://music.amazon.com/albums/B000S9AUIA",
+        "kind": "作品カタログ・レーベル資料",
+        "evidence": "Amazon's original 14-track Carte Blanche listing identifies track 9 as Game Time, 3:38, with 2007 Look Records copyright."
+      },
+      {
+        "label": "Look Records — Carte Blanche 作品情報",
+        "url": "https://lookrecords.bandcamp.com/album/carte-blanche",
+        "kind": "作品カタログ・レーベル資料",
+        "evidence": "Look Records' Bandcamp has track 9 at 3:38 but calls it Game Tight (Prod by. J Dilla) and gives a later 2008 catalog date."
+      },
+      {
+        "label": "StrictlyHits — Game Time",
+        "url": "https://www.youtube.com/watch?v=6HKMt3d1p6M",
+        "kind": "動画メタデータ",
+        "evidence": "Title Phat Kat - \"Game Time\" OFFICIAL VERSION; @FoundationMedia; Stream/Buy smarturl.it/CarteBlancheDE. Officiality not proven by title. BelowSystem label catalog independently lists Game Time3:38 original2007/reissue2018."
+      }
+    ],
+    "youtube": {
+      "id": "6HKMt3d1p6M",
+      "url": "https://www.youtube.com/watch?v=6HKMt3d1p6M",
+      "embedUrl": "https://www.youtube.com/embed/6HKMt3d1p6M",
+      "title": "Game Time",
+      "channel": "StrictlyHits",
+      "type": "Video upload",
+      "official": null,
+      "officialStatus": "unknown",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "Title Phat Kat - \"Game Time\" OFFICIAL VERSION; @FoundationMedia; Stream/Buy smarturl.it/CarteBlancheDE. Officiality not proven by title. BelowSystem label catalog independently lists Game Time3:38 original2007/reissue2018."
+    },
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "Game Time",
+      "tag": "PHAT KAT",
+      "lines": [
+        "Game Time"
+      ],
+      "style": "piece",
+      "seed": 2026102460,
+      "palette": [
+        "#f08b22",
+        "#1b0e09",
+        "#f8f4e8",
+        "#915629",
+        "#56301e"
+      ],
+      "paletteSource": "Carte Blanche (Deluxe Edition)",
+      "paletteSourceUrl": "",
+      "paletteNote": "編集上の配色。厳密な色抽出値ではない。"
+    },
+    "addedOrder": 589,
+    "datePublished": "2026-10-24"
   }
 ]
