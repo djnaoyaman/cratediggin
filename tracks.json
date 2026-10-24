@@ -79499,5 +79499,128 @@
     "workTypeLabel": "メガミックス作品",
     "addedOrder": 614,
     "datePublished": "2026-10-25"
+  },
+  {
+    "id": "jurassic-5-acetate-prophets",
+    "title": "Acetate Prophets",
+    "artist": "Jurassic 5",
+    "primaryArtist": "Jurassic 5",
+    "primaryArtists": [
+      "Jurassic 5"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Jurassic 5"
+    ],
+    "year": 2002,
+    "album": "Power In Numbers",
+    "category": "Hip Hop",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": "Cut Chemist / DJ Nu-Mark",
+    "producers": [
+      "Cut Chemist",
+      "DJ Nu-Mark"
+    ],
+    "producerBasis": "選択公式単曲の配信説明に明示されたProducer役割。作曲者名から推測していない。",
+    "label": "Interscope",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "yearBasis": "所属レーベル紹介と公式Appleカタログおよび選択PIAS単曲説明が2002年で一致。現行配信の1月1日を原発売日とは断定せず年のみ採用。2023年動画掲載とは分離。",
+    "essayTitle": "二人のDJが作り、別のDJが最後に置いた曲",
+    "deck": "2002年のアルバム終曲から、DJ Foodの選曲記録へ。",
+    "context": "",
+    "essay": [
+      "「Acetate Prophets」は、2002年の『Power In Numbers』に収録された、Cut ChemistとDJ Nu-Markの共同制作曲。公式配信の曲別クレジットに二人が並ぶ。Nu-MarkがMix誌に語った制作過程では、多数のトラックを組み合わせ、ドラムのパートを順に切り替える作業に時間をかけたという。完成した一曲の背後に、二人が組み上げた編集の工程が見えてくる。",
+      "別のDJの選曲に目を移すと、DJ Foodの「Tour of Duty 27/11/2002」はこの曲で終わる。本人が後年に公開した解説と曲目表の両方に記録があり、直前はTinoの「Living Dead Dub」。アルバムの最後に置かれた曲が、異なる曲を渡るミックスでも締めくくりに選ばれている。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2
+      ],
+      [
+        1
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Acetate Prophets — 公式配信メタデータ",
+        "url": "https://www.youtube.com/watch?v=2PqyxzbxTNM",
+        "kind": "公式配信メタデータ",
+        "evidence": "検索インデックスでJurassic 5 OAC、PIAS、Power In Numbers、Released2002-01-01、Producer Cut Chemist / DJ Nu-Markを確認。動画掲載2023-02-22と原曲年2002を分離。"
+      },
+      {
+        "label": "DJ Food — MS124 Tour of Duty 27/11/2002",
+        "url": "https://www.djfood.org/ms124-tour-of-duty-27112002/",
+        "kind": "DJ本人の選曲記録・回顧",
+        "evidence": "2002-11-27名義のmix。2022-10-28掲載/11-04更新。本人本文でAcetate Prophetsを最後に使用と記し曲目表にも列挙、直前Tino Living Dead Dub。"
+      },
+      {
+        "label": "Mix — DJ Nu-MarkへのPower In Numbers制作取材",
+        "url": "https://www.mixonline.com/recording/jurassic-5-364998",
+        "kind": "制作者本人への取材",
+        "evidence": "2003-02-01 David John Farinella。Acetate ProphetsでNu-MarkとCut Chemistの64tracks、12drumloopsを順にmute/unmuteする制作を本人説明。特定サンプル原曲の推測はしない。"
+      },
+      {
+        "label": "Apple Music — Power In Numbers 作品情報",
+        "url": "https://music.apple.com/us/album/power-in-numbers/1673116557",
+        "kind": "公式配信カタログ",
+        "evidence": "Jurassic 5 / Power In Numbers / 2002 / Interscope Geffen (A&M)。1月1日は現行配信メタデータであり原発売日と断定しない。"
+      },
+      {
+        "label": "Universal Music Japan — Jurassic 5 biography",
+        "url": "https://www.universal-music.co.jp/jurassic5/biography/",
+        "kind": "所属レーベル紹介",
+        "evidence": "LAベースのヒップホップ・グループと明記。現在直接取得確認。"
+      }
+    ],
+    "youtube": {
+      "id": "2PqyxzbxTNM",
+      "url": "https://www.youtube.com/watch?v=2PqyxzbxTNM",
+      "embedUrl": "https://www.youtube.com/embed/2PqyxzbxTNM",
+      "title": "Acetate Prophets",
+      "channel": "Jurassic 5 - Topic",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "PIAS提供／Jurassic 5公式Artist ChannelのPower In Numbers単曲配信。検索インデックスの曲名・album・Producer情報と通常oEmbedの正字／Topic投稿者を確認。DJ選曲に使われた盤/編集と同一masterの照合および実再生は未実施。",
+      "verified": "2026-10-24"
+    },
+    "regionBasis": "Universal Music Japanの本人所属レーベル紹介がLAベースと明記。",
+    "regionSources": [
+      4
+    ],
+    "art": {
+      "word": "Acetate Prophets",
+      "tag": "JURASSIC 5",
+      "seed": 189278694,
+      "style": "tag",
+      "palette": [
+        "#ffdb22",
+        "#df7b21",
+        "#b52c20",
+        "#f3edda",
+        "#121212"
+      ],
+      "paletteSourceUrl": "https://music.apple.com/us/album/power-in-numbers/1673116557",
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette"
+    },
+    "addedOrder": 615,
+    "datePublished": "2026-10-25"
   }
 ]

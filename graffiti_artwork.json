@@ -12967,6 +12967,47 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "noSiteBranding": true
+    },
+    {
+      "id": "jurassic-5-acetate-prophets",
+      "title": "Acetate Prophets",
+      "artist": "Jurassic 5",
+      "album": "Power In Numbers",
+      "palette": [
+        "#ffdb22",
+        "#df7b21",
+        "#b52c20",
+        "#f3edda",
+        "#121212"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceURL": "https://music.apple.com/us/album/power-in-numbers/1673116557",
+      "paletteNote": "実見したPower In Numbersのジャケットから黄・橙・赤を拾い、黒白の太い字形へ配した編集上の近似。ジャケットの情景は転載しない。",
+      "concept": "二人のDJによる組み合わせの制作記録を、太い文字同士の重なりに翻訳した編集図案。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "制作取材を入口とする字形の編集解釈。作者の視覚意図、試聴、DJ使用盤とのマスター一致は主張しない。",
+      "status": "ready",
+      "image": "assets/graffiti/jurassic-5-acetate-prophets-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/jurassic-5-acetate-prophets-mass-anchor-v1-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          139,
+          68,
+          1837,
+          901
+        ],
+        "outputSha256": "66b041ae7260acc66ccd68713a6fdb0880bf1da583b44f741a327f3cd7ae4398",
+        "sourceImage": "assets/graffiti/originals/jurassic-5-acetate-prophets-mass-anchor-v1-original.png",
+        "sourceSha256": "a1487773e06fcb6268afced96e5a48b398c2d05f2a1c2584316fe6842579e8bb"
+      },
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
