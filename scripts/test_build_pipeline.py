@@ -83,6 +83,22 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual({p for p in before if before[p]!=after[p]},{'editor.html','editor-profile.json'})
         self.assertEqual(json.loads((self.root/'dist/editor-profile.json').read_text())['page']['title'],'Updated author — 編者紹介 / CRATEDIGGIN’')
 
+    @unittest.skipUnless(shutil.which('node'),'Node executable unavailable')
+    def test_about_renderer_survives_profile_bundle_separation(self):
+        import importlib.util, sys, types
+        from unittest.mock import patch
+        repository=Path(__file__).resolve().parents[1]
+        self.write('src/app/editorial.js',(repository/'src/app/editorial.js').read_text(encoding='utf-8'))
+        self.write('releases.json','{"version":"test","history":[]}')
+        spec=importlib.util.spec_from_file_location('about_renderer',repository/'render_editorial.py')
+        module=importlib.util.module_from_spec(spec)
+        with patch.dict(sys.modules,{'catalog':types.SimpleNamespace(work_count=lambda tracks:str(len(tracks)))}):
+            spec.loader.exec_module(module)
+        rendered=module.about_html(self.root,[{}])
+        self.assertIn('A Guide to Sampled Mind & Vintage Grooves',rendered)
+        self.assertIn('VERSION HISTORY',rendered)
+        self.assertNotIn('editor-profile.json',rendered)
+
     @unittest.skipUnless(shutil.which('git'),'Git executable unavailable')
     def test_git_object_fingerprints_and_worktree_guard(self):
         def git(*args):return subprocess.run(['git','-C',str(self.root),*args],check=True,capture_output=True)
