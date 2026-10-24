@@ -12519,35 +12519,38 @@
       "artist": "People Under the Stairs",
       "album": "O.S.T.",
       "palette": [
-        "#75876f",
-        "#242829"
+        "#242829",
+        "#eee7d9",
+        "#95a58b",
+        "#b69a77",
+        "#708b9d"
       ],
       "paletteSource": "Viewed official catalog cover, approximate editorial palette",
       "paletteSourceURL": "https://peopleunderthestairs.bandcamp.com/album/o-s-t",
-      "paletteNote": "Restrained one/two-color flat marker palette approximated from the actually re-viewed current catalog cover and adjusted to medium luminance for white/dark legibility. No copied cover layout or official lettering. Minimal edge if present is planar readability only.",
+      "paletteNote": "O.S.T.のジャケットを参照したセージ色・黄褐色・青灰色に、黒白のコントラストを組み合わせた配色。",
       "displaySizing": {
         "version": 1,
         "alphaThreshold": 8,
         "paddingFraction": 0.07,
         "visibleBox": [
-          119,
-          60,
-          1578,
-          795
+          139,
+          66,
+          1838,
+          871
         ],
-        "outputSha256": "1374ffd56fbd9d7a4ba11f997b06ea341a6aafcd80728513af09501758ae3ead",
-        "sourceImage": "assets/graffiti/originals/people-under-the-stairs-acid-raindrops-handstyle-v1-original.png",
-        "sourceSha256": "aa1f057e8881ec99eee08489e3fdce09a77c987df68a6d7054660f7d543caf12"
+        "outputSha256": "b46a549a6d8ed2b2528734c0a76713c7a75b63a439fee4862a2ce38e9924367c",
+        "sourceImage": "assets/graffiti/originals/people-under-the-stairs-acid-raindrops-anchor-v1-original.png",
+        "sourceSha256": "b3d3ffb4f03c72432037c33d3becb26d406721fb6ff42c1a01a1e37cf2e98920"
       },
-      "concept": "短い下向きの運筆と軽い抜きが、次の文字へ書き継がれる。題名から受ける流れを自然なmarkerの筆順にだけ託し、雨滴や液体の絵にはしない。",
+      "concept": "曲名を太い二段の文字と重なりで組み、白い塗りと切れ込み、落ち着いた緑・黄褐色・青灰色の飛沫でリズムを表す。",
       "conceptIsVerifiedSongMeaning": false,
       "artistIntendedThisVisual": false,
-      "interpretationLimits": "Latest strict handstyle requirement: only handwritten letter strokes, pressure, joins, direction, rhythm and restrained color. No illustrated source material or physical letter objects. Editorial interpretation, not verified lyric meaning or artist visual intent. Latest approved metadata/source retained; no actual audio, sample identification or exact-master proof claimed. Prior art/visual PASS retained only as history.",
+      "interpretationLimits": "Editorial visual interpretation; palette references the album cover. No claim of artist intent, waveform analysis or playback verification.",
       "status": "ready",
-      "image": "assets/graffiti/people-under-the-stairs-acid-raindrops-handstyle-v1-sized-v1.webp",
-      "originalImage": "assets/graffiti/originals/people-under-the-stairs-acid-raindrops-handstyle-v1-original.png",
+      "image": "assets/graffiti/people-under-the-stairs-acid-raindrops-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/people-under-the-stairs-acid-raindrops-anchor-v1-original.png",
       "transparent": true,
-      "reviewNote": "Latest strict handstyle policy PASS (prior visual PASS not reused); creator and independent final white/dark 600px and 300px, exact typography, concept/evidence boundaries, displaySizing v1, full crop RGBA and SHA256 QA PASS. Private preparation only; no playback or live-site approval.",
+      "reviewNote": "Initial-style restoration: typography, transparent paint, white/dark small-size readability and displaySizing v1 independently checked; previous originals retained.",
       "textReviewed": true,
       "paletteReviewed": true,
       "noSiteBranding": true

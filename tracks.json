@@ -78367,12 +78367,15 @@
       "style": "tag",
       "seed": 2026102418,
       "palette": [
-        "#75876f",
-        "#242829"
+        "#242829",
+        "#eee7d9",
+        "#95a58b",
+        "#b69a77",
+        "#708b9d"
       ],
       "paletteSource": "Viewed official catalog cover, approximate editorial palette",
       "paletteSourceUrl": "https://peopleunderthestairs.bandcamp.com/album/o-s-t",
-      "paletteNote": "Restrained one/two-color flat marker palette approximated from the actually re-viewed current catalog cover and adjusted to medium luminance for white/dark legibility. No copied cover layout or official lettering. Minimal edge if present is planar readability only."
+      "paletteNote": "O.S.T.のジャケットを参照したセージ色・黄褐色・青灰色に、黒白のコントラストを組み合わせた配色。"
     },
     "regionBasis": "Om Records公式Bandcampのアーティスト紹介でLos Angeles based duoと確認。出身地・録音地・出生地ではなく活動地域。",
     "regionSources": [
