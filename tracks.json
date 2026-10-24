@@ -79284,5 +79284,111 @@
     },
     "addedOrder": 612,
     "datePublished": "2026-10-25"
+  },
+  {
+    "id": "jurassic-5-baby-please",
+    "title": "Baby Please",
+    "artist": "Jurassic 5",
+    "primaryArtist": "Jurassic 5",
+    "primaryArtists": [
+      "Jurassic 5"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Jurassic 5"
+    ],
+    "year": 2006,
+    "album": "Feedback",
+    "category": "Hip Hop",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": "Exile",
+    "producers": [
+      "Exile"
+    ],
+    "producerBasis": "曲別Producer役割を一次資料で確認。",
+    "label": "Interscope",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "yearBasis": "PIAS提供公式YouTube説明Released2006-01-01。年のみ採用。",
+    "essayTitle": "Exileのクレジットから広がるFeedback",
+    "deck": "2006年のアルバム曲を、後年のライブDJの選曲で追う。",
+    "context": "",
+    "essay": [
+      "「Baby Please」は、2006年の『Feedback』に収められたExile制作の一曲。公式配信にはプロデューサーとしてExileの名前が明記されている。アルバム名からだけでは見えにくい、Jurassic 5と制作陣の接点だ。",
+      "Khy Boogieの「Live at the Rooftop Lounge 07-Jul-12」では42分12秒にこの曲が記録され、次にはRob Swiftの「Fabric of an Orchestra」が並ぶ。2012年の現場の選曲として確認できる例であり、この一件だけから定番度や使用頻度を決めつけることはしない。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Baby Please — official Topic",
+        "url": "https://www.youtube.com/watch?v=Ksv_tA35c6E",
+        "kind": "公式配信メタデータ",
+        "evidence": "PIAS/Feedback/Released2006-01-01/Producer Exile。web検索公式説明全文、oEmbed title/channel一致。"
+      },
+      {
+        "label": "Khy Boogie — Live at the Rooftop Lounge 07-Jul-12",
+        "url": "https://serato.com/playlists/khy/live-at-the-rooftop-lounge-07-jul-12",
+        "kind": "DJ公開プレイリスト",
+        "evidence": "00:42:12 Baby Please、次00:45:55 Rob Swift Fabric of an Orchestra。"
+      },
+      {
+        "label": "Jurassic 5 — Universal Music biography",
+        "url": "https://www.universal-music.co.jp/jurassic5/biography/",
+        "kind": "所属レーベル紹介",
+        "evidence": "LAを拠点とするグループ。"
+      }
+    ],
+    "youtube": {
+      "id": "Ksv_tA35c6E",
+      "url": "https://www.youtube.com/watch?v=Ksv_tA35c6E",
+      "embedUrl": "https://www.youtube.com/embed/Ksv_tA35c6E",
+      "title": "Baby Please",
+      "channel": "Jurassic 5 - Topic",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "公式単曲配信の曲名・artist・albumを確認。実再生・同一masterは未確認。",
+      "verified": "2026-10-24"
+    },
+    "art": {
+      "word": "Baby Please",
+      "tag": "JURASSIC 5",
+      "style": "tag",
+      "seed": 23647255,
+      "palette": [
+        "#c92d2e",
+        "#e58d2c",
+        "#c2d774",
+        "#f5f1df",
+        "#0c1011"
+      ],
+      "paletteSourceUrl": "https://music.apple.com/us/album/feedback/1673100965",
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteNote": "Feedbackのジャケットを参照した赤・黄・緑に、黒白のコントラストを組み合わせた配色。"
+    },
+    "addedOrder": 613,
+    "datePublished": "2026-10-25"
   }
 ]
