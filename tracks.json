@@ -72990,7 +72990,7 @@
       "J Dilla"
     ],
     "label": "未確認",
-    "yearBasis": "1997 circulation-era attribution; selected official digital edition is 2006-05-30. Apple search metadata says 1996, so do not invent an exact first-release date. Preserve this discrepancy in private research.",
+    "yearBasis": "以前参照した公式カタログ・旧音源候補の資料に基づく作品情報。現在の利用者指定動画との同一masterは未照合。 1997 circulation-era attribution; previously referenced official digital edition is 2006-05-30. Apple search metadata says 1996, so do not invent an exact first-release date. Preserve this discrepancy in private research.",
     "essayTitle": "Things U Do (Remix) — 版と背景をたどる",
     "deck": "『Fan-Tas-Tic, Vol. 1』に収められた Jay Dee のリミックス。J-88 名義で発表された Madlib 版とは別の録音として押さえておきたい。Ethan Hein の採譜分析は、再利用された Gary Burton の素材と、反復の中の小さな変化に着目している。DJ KIYO のリストを辿るときも、曲名だけでなく、この版指定が手掛かりになる。",
     "context": "曲名・版指定と資料からたどる",
@@ -73026,9 +73026,9 @@
         "evidence": "Selected edition2006-05-30, Ne'Astra Music, Hip-Hop/Rap; ordinary open Cache miss; not retried."
       },
       {
-        "label": "www.youtube.com — Things U Do (Remix)",
+        "label": "旧音源候補の資料 — Things U Do (Remix)",
         "url": "https://www.youtube.com/watch?v=uGqGgUomx00",
-        "kind": "indexed metadata only; never opened",
+        "kind": "制作・収録版の照合資料（現在の選択動画ではありません）",
         "evidence": "Official exact recording, producer and selected digital edition."
       },
       {
@@ -73041,22 +73041,31 @@
         "label": "Axios Detroit — Slum Village本人取材",
         "url": "https://www.axios.com/local/detroit/2024/05/14/slum-village-talks-about-their-european-tour-new-album-and-pleasing-old-fans",
         "kind": "地域資料"
+      },
+      {
+        "label": "選択動画 — Slum Village - Things U Do Remix Uh Ah Wu Ah (prod. by J Dilla)",
+        "url": "https://www.youtube.com/watch?v=I58NNb1bZY0",
+        "kind": "利用者指定・検索メタデータ照合",
+        "evidence": "Uploader J DILLA - Archive of the Genius; officiality unknown; metadata duration 3:30. Uploader description dates1996/1997/2006 are not independently verified; not UC48 official channel."
       }
     ],
     "youtube": {
-      "id": "uGqGgUomx00",
-      "url": "https://www.youtube.com/watch?v=uGqGgUomx00",
-      "embedUrl": "https://www.youtube.com/embed/uGqGgUomx00",
-      "title": "Things U Do (Remix)",
-      "channel": "OfficialSlumVillage",
-      "type": "Official Audio",
-      "official": true,
-      "officialStatus": "official",
+      "id": "I58NNb1bZY0",
+      "url": "https://www.youtube.com/watch?v=I58NNb1bZY0",
+      "embedUrl": "https://www.youtube.com/embed/I58NNb1bZY0",
+      "title": "Slum Village - Things U Do Remix Uh Ah Wu Ah (prod. by J Dilla)",
+      "channel": "J DILLA - Archive of the Genius",
+      "channelURL": "https://www.youtube.com/@alexilolloesp",
+      "type": "参考投稿（公式性未確証）",
+      "official": null,
+      "officialStatus": "unknown",
       "playbackVerified": false,
       "embeddedPlaybackVerified": false,
       "japanPlaybackVerified": false,
       "exactMasterVerified": false,
-      "versionBasis": "Indexed search metadata only: OfficialSlumVillage, Official Artist Channel; Virgin Music Group; exact Things U Do (Remix); Fan-Tas-Tic, Vol. 1; producer Jay Dee; 2006 Donut Boy Records; release 2006-05-30."
+      "versionBasis": "利用者指定の動画。検索メタデータで題名・投稿者を照合。Uploader description dates1996/1997/2006 are not independently verified; not UC48 official channel. 旧選択音源との同一master・実再生・埋め込み可否は未検証。",
+      "selectionBasis": "Explicit user replacement instruction Sentinel_4973d595a16c81918b20f13d1242836d",
+      "metadataDuration": "3:30"
     },
     "listening": [],
     "facts": [],
@@ -73231,7 +73240,7 @@
     "producer": null,
     "producers": [],
     "label": "未確認",
-    "yearBasis": "原曲年と配信版・DJミックス年を区別。",
+    "yearBasis": "以前参照した公式カタログ・旧音源候補の資料に基づく作品情報。現在の利用者指定動画との同一masterは未照合。 原曲年と配信版・DJミックス年を区別。",
     "essayTitle": "Get It Together (Madlib Remix) — 版と背景をたどる",
     "deck": "J-88という別名の下で発表されたSlum Villageの『Best Kept Secret』に入るMadlibリミックス。2000年の作品と、2009年の配信版『J-88』を分けて記録しておきたい。題名だけで検索すると原曲やIG Culture版も並ぶが、ここで辿るのはMadlibの名を伴う版。別名義と版指定の二つをほどくことが、この選曲の入口になる。",
     "context": "曲名・版指定と資料からたどる",
@@ -73266,23 +73275,30 @@
         "evidence": "J88GetItTogether additionalproduction/remix creditedMadlib."
       },
       {
-        "label": "www.youtube.com — Get It Together (Madlib Remix)",
+        "label": "旧音源候補の資料 — Get It Together (Madlib Remix)",
         "url": "https://www.youtube.com/watch?v=HuRjDr0HQgo",
-        "kind": "officialindexedmetadataONLY",
+        "kind": "制作・収録版の照合資料（現在の選択動画ではありません）",
         "evidence": "Exactofficialdigitalrecording."
       },
       {
         "label": "Axios Detroit — Slum Village本人取材",
         "url": "https://www.axios.com/local/detroit/2024/05/14/slum-village-talks-about-their-european-tour-new-album-and-pleasing-old-fans",
         "kind": "地域資料"
+      },
+      {
+        "label": "選択動画 — Get It Together (Madlib Remix)",
+        "url": "https://www.youtube.com/watch?v=NPVU4it87po",
+        "kind": "利用者指定・検索メタデータ照合",
+        "evidence": "Uploader OfficialSlumVillage / Slum Village - Topic; officiality official; metadata duration 2:47. User-specified seventh swap. Preserve original-release J-88 credit separately; no new release-date claim. Do not inherit earlier upload metadata. Existing six-swap evidence untouched. Current distribution artist Slum Village; album J-88; AdShare metadata; original-release J-88 credit remains distinct."
       }
     ],
     "youtube": {
-      "id": "HuRjDr0HQgo",
-      "url": "https://www.youtube.com/watch?v=HuRjDr0HQgo",
-      "embedUrl": "https://www.youtube.com/embed/HuRjDr0HQgo",
+      "id": "NPVU4it87po",
+      "url": "https://www.youtube.com/watch?v=NPVU4it87po",
+      "embedUrl": "https://www.youtube.com/embed/NPVU4it87po",
       "title": "Get It Together (Madlib Remix)",
-      "channel": "OfficialSlumVillage",
+      "channel": "OfficialSlumVillage / Slum Village - Topic",
+      "channelURL": "https://www.youtube.com/channel/UC48icgRQjPTyzfj8pg0rkxw",
       "type": "Official Audio",
       "official": true,
       "officialStatus": "official",
@@ -73290,7 +73306,9 @@
       "embeddedPlaybackVerified": false,
       "japanPlaybackVerified": false,
       "exactMasterVerified": false,
-      "versionBasis": "Search metadata only: OfficialSlumVillage official artistchannel,VirginMusicGroup,J-88,2009BarakEntertainment,2009-04-15,JayDeecomposer,MadLibremixer. No YouTubeopen/fetch/playback."
+      "versionBasis": "利用者指定の動画。検索メタデータで題名・投稿者を照合。User-specified seventh swap. Preserve original-release J-88 credit separately; no new release-date claim. Do not inherit earlier upload metadata. Existing six-swap evidence untouched. Current distribution artist Slum Village; album J-88; AdShare metadata; original-release J-88 credit remains distinct. 旧選択音源との同一master・実再生・埋め込み可否は未検証。",
+      "selectionBasis": "Explicit user replacement instruction Sentinel_adc820bca73c8191833874a63001c602",
+      "metadataDuration": "2:47"
     },
     "listening": [],
     "facts": [],
@@ -73330,7 +73348,7 @@
     "remixers": [
       "Madlib"
     ],
-    "producerBasis": "Jay Dee is documented as composer; not promoted to producer solely from that credit. Madlib explicitly credited remix/additional production.",
+    "producerBasis": "以前参照した公式カタログ・旧音源候補の資料に基づく作品情報。現在の利用者指定動画との同一masterは未照合。 Jay Dee is documented as composer; not promoted to producer solely from that credit. Madlib explicitly credited remix/additional production.",
     "addedOrder": 563,
     "datePublished": "2026-10-24"
   },
@@ -73623,7 +73641,7 @@
       "Young RJ"
     ],
     "label": "Barak Records (original album); Ne'Astra/Cinq (current Apple distribution)",
-    "yearBasis": "Self-titled album date. Older Apple song metadata gives 2005-08-23; October 17 contemporaneous release says current single and forthcoming October 25 album. Do not use album date as first single day.",
+    "yearBasis": "以前参照した公式カタログ・旧音源候補の資料に基づく作品情報。現在の利用者指定動画との同一masterは未照合。 Self-titled album date. Older Apple song metadata gives 2005-08-23; October 17 contemporaneous release says current single and forthcoming October 25 album. Do not use album date as first single day.",
     "essayTitle": "弦を切り分け、余白を残す",
     "deck": "「Ez Up」の出発点を、Black Milkは2006年のRed Bull Music Academyで具体的に語っている。まず弦のサンプルがあり、それを切り分けてクラップとシンセ・ベースを加えた。音を詰め込みすぎず、必要な変化だけを置くという作り方だ。これは本人の制作説明であり、ここで新たに聴き取った描写ではない。",
     "context": "曲名・版指定と資料からたどる",
@@ -73653,9 +73671,9 @@
         "evidence": "self-titled album / 2005-10-25 album date / current rights line / cover metadata / current Ez Up song URL"
       },
       {
-        "label": "www.youtube.com — Ez Up",
+        "label": "旧音源候補の資料 — Ez Up",
         "url": "https://www.youtube.com/watch?v=Uw7PfsCEBOQ",
-        "kind": "official distributor indexed metadata ONLY",
+        "kind": "制作・収録版の照合資料（現在の選択動画ではありません）",
         "evidence": "exact self-titled vocal track / 2005 Barak / 2005-10-25 / Young RJ producer"
       },
       {
@@ -73674,14 +73692,21 @@
         "label": "Axios Detroit — Slum Village本人取材",
         "url": "https://www.axios.com/local/detroit/2024/05/14/slum-village-talks-about-their-european-tour-new-album-and-pleasing-old-fans",
         "kind": "地域資料"
+      },
+      {
+        "label": "選択動画 — Ez Up",
+        "url": "https://www.youtube.com/watch?v=v7ocnKlTKmk",
+        "kind": "利用者指定・検索メタデータ照合",
+        "evidence": "Uploader OfficialSlumVillage; officiality official; metadata duration 3:33. Officialartistbadge; SlumVillage-Topic; AdShare; Slum Village album; Ne'Astra."
       }
     ],
     "youtube": {
-      "id": "Uw7PfsCEBOQ",
-      "url": "https://www.youtube.com/watch?v=Uw7PfsCEBOQ",
-      "embedUrl": "https://www.youtube.com/embed/Uw7PfsCEBOQ",
+      "id": "v7ocnKlTKmk",
+      "url": "https://www.youtube.com/watch?v=v7ocnKlTKmk",
+      "embedUrl": "https://www.youtube.com/embed/v7ocnKlTKmk",
       "title": "Ez Up",
       "channel": "OfficialSlumVillage",
+      "channelURL": "https://www.youtube.com/channel/UC48icgRQjPTyzfj8pg0rkxw",
       "type": "Official Audio",
       "official": true,
       "officialStatus": "official",
@@ -73689,7 +73714,9 @@
       "embeddedPlaybackVerified": false,
       "japanPlaybackVerified": false,
       "exactMasterVerified": false,
-      "versionBasis": "2005 self-titled vocal album track. No claim of identity with Prequel To A Classic excerpt, Connect Set rendition, Original Version/feat. Dwele, or Motor City commercial adaptation. Exact source of the 2013 mix excerpt is not verified."
+      "versionBasis": "利用者指定の動画。検索メタデータで題名・投稿者を照合。Officialartistbadge; SlumVillage-Topic; AdShare; Slum Village album; Ne'Astra. 旧選択音源との同一master・実再生・埋め込み可否は未検証。",
+      "selectionBasis": "Explicit user replacement instruction Sentinel_4973d595a16c81918b20f13d1242836d",
+      "metadataDuration": "3:33"
     },
     "listening": [],
     "facts": [],
@@ -73722,7 +73749,7 @@
       "paletteSourceUrl": "",
       "paletteNote": "The cut-band/one-strand/sparse-accent construction is editorial interpretation of Black Milk’s exact Ez Up production account in his 2006 RBMA lecture, not our listening result, a score or exact beat count. Unidentified sampled record is not named. The selected album track is not equated with the Chevrolet adaptation, Dwele Original Version, Prequel excerpt or Connect Set. Guest discrepancy is not merged; image names Slum Village only. Album date is not asserted as first single day. No lyric quotation or artist-approved diagram. Official audio ID is indexed metadata only; original 2013 mix master/runtime is not verified."
     },
-    "producerBasis": "Selected indexed catalog gives Young RJ; Black Milk first-person production discussion is separately attributed in article.",
+    "producerBasis": "以前参照した公式カタログ・旧音源候補の資料に基づく作品情報。現在の利用者指定動画との同一masterは未照合。 Previously referenced indexed catalog gives Young RJ; Black Milk first-person production discussion is separately attributed in article.",
     "addedOrder": 566,
     "datePublished": "2026-10-24"
   },
@@ -73781,9 +73808,9 @@
         "evidence": "2010-07-27 date / Little Brother feature / track12 / E1 catalog rights / short interpretation of highlighted Elzhi trust passage / official cover"
       },
       {
-        "label": "www.youtube.com — Where Do We Go From Here",
+        "label": "旧音源候補の資料 — Where Do We Go From Here",
         "url": "https://www.youtube.com/watch?v=WnlY_yiyesw",
-        "kind": "official distributor indexed metadata ONLY",
+        "kind": "制作・収録版の照合資料（現在の選択動画ではありません）",
         "evidence": "exact vocal track / Little Brother / Young RJ producer / Ne'Astra2010 / 2010-07-27"
       },
       {
@@ -73802,14 +73829,21 @@
         "label": "Axios Detroit — Slum Village本人取材",
         "url": "https://www.axios.com/local/detroit/2024/05/14/slum-village-talks-about-their-european-tour-new-album-and-pleasing-old-fans",
         "kind": "地域資料"
+      },
+      {
+        "label": "選択動画 — Where Do We Go From Here [feat. Little Brother]",
+        "url": "https://www.youtube.com/watch?v=PvrmU5LOY58",
+        "kind": "利用者指定・検索メタデータ照合",
+        "evidence": "Uploader OfficialSlumVillage; officiality official; metadata duration 2:54. Officialartistbadge; AdShare; guestLittleBrother. Album/date not shown in snippet."
       }
     ],
     "youtube": {
-      "id": "WnlY_yiyesw",
-      "url": "https://www.youtube.com/watch?v=WnlY_yiyesw",
-      "embedUrl": "https://www.youtube.com/embed/WnlY_yiyesw",
-      "title": "Where Do We Go From Here",
+      "id": "PvrmU5LOY58",
+      "url": "https://www.youtube.com/watch?v=PvrmU5LOY58",
+      "embedUrl": "https://www.youtube.com/embed/PvrmU5LOY58",
+      "title": "Where Do We Go From Here [feat. Little Brother]",
       "channel": "OfficialSlumVillage",
+      "channelURL": "https://www.youtube.com/channel/UC48icgRQjPTyzfj8pg0rkxw",
       "type": "Official Audio",
       "official": true,
       "officialStatus": "official",
@@ -73817,7 +73851,9 @@
       "embeddedPlaybackVerified": false,
       "japanPlaybackVerified": false,
       "exactMasterVerified": false,
-      "versionBasis": "Villa Manifesto vocal track featuring Little Brother, not the 2012 instrumental. Current distributor editions show length discrepancies; exact mix excerpt/master and inter-edition master equivalence are not verified."
+      "versionBasis": "利用者指定の動画。検索メタデータで題名・投稿者を照合。Officialartistbadge; AdShare; guestLittleBrother. Album/date not shown in snippet. 旧選択音源との同一master・実再生・埋め込み可否は未検証。",
+      "selectionBasis": "Explicit user replacement instruction Sentinel_4973d595a16c81918b20f13d1242836d",
+      "metadataDuration": "2:54"
     },
     "listening": [],
     "facts": [],
@@ -74001,9 +74037,9 @@
     "scene": "Detroit",
     "producer": null,
     "producers": [],
-    "producerBasis": "Explicit selected recording producer metadata only; composer credits not promoted to producer.",
+    "producerBasis": "以前参照した公式カタログ・旧音源候補の資料に基づく作品情報。現在の利用者指定動画との同一masterは未照合。 Explicit previously referenced catalog recording producer metadata only; composer credits not promoted to producer.",
     "label": "未確認",
-    "yearBasis": "Original-album vocal catalog recording; the selected official audio is on Fan-Tas-Tic, Vol. 2 with ℗2000 Barak and a 2009-01-26 digital reissue release field. Current Apple track 2 also uses singular Conant Garden. Requested plural title retained as alias. Do not use 2.10 or instrumental variants as an unlabelled substitute.",
+    "yearBasis": "以前参照した公式カタログ・旧音源候補の資料に基づく作品情報。現在の利用者指定動画との同一masterは未照合。 Original-album vocal catalog recording; the previously referenced official audio is on Fan-Tas-Tic, Vol. 2 with ℗2000 Barak and a 2009-01-26 digital reissue release field. Current Apple track 2 also uses singular Conant Garden. Requested plural title retained as alias. Do not use 2.10 or instrumental variants as an unlabelled substitute.",
     "essayTitle": "Conant Gardens — 作品と背景をたどる",
     "deck": "「Conant Gardens」が指すのは、Slum Villageの出発点になったデトロイトの地域だ。T3は、同じ地区に暮らしていても初めから互いを知っていたわけではなく、音楽を介して自分たちの共同体を作ったと振り返る。『Fantastic, Vol. 2』のこの曲を、地名の看板ではなく、別々の場所から一つの名前が立ち上がる過程として捉えたい。",
     "context": "作品・版と資料からたどる",
@@ -74026,9 +74062,9 @@
         "evidence": "original album catalog / Conant Garden singular alias at track2 / 2000-06-13 / official cover"
       },
       {
-        "label": "www.youtube.com — Conant Gardens",
+        "label": "旧音源候補の資料 — Conant Gardens",
         "url": "https://www.youtube.com/watch?v=Vc75QQIrWl0",
-        "kind": "official indexed metadata only",
+        "kind": "制作・収録版の照合資料（現在の選択動画ではありません）",
         "evidence": "original-album catalog audio / ℗2000 Barak / 2009 digital reissue date separate from original release / official artist channel / Jay Dee composition credit"
       },
       {
@@ -74047,22 +74083,31 @@
         "label": "Axios Detroit — Slum Village本人取材",
         "url": "https://www.axios.com/local/detroit/2024/05/14/slum-village-talks-about-their-european-tour-new-album-and-pleasing-old-fans",
         "kind": "地域資料"
+      },
+      {
+        "label": "選択動画 — Slum Village \\ Conant Gardens",
+        "url": "https://www.youtube.com/watch?v=Krd5ANdLlYg",
+        "kind": "利用者指定・検索メタデータ照合",
+        "evidence": "Uploader midwestrap; officiality unknown; metadata duration 3:04. Description fantastic2. Not UC48 officialchannel."
       }
     ],
     "youtube": {
-      "id": "Vc75QQIrWl0",
-      "url": "https://www.youtube.com/watch?v=Vc75QQIrWl0",
-      "embedUrl": "https://www.youtube.com/embed/Vc75QQIrWl0",
-      "title": "Conant Gardens",
-      "channel": "OfficialSlumVillage",
-      "type": "Official Audio",
-      "official": true,
-      "officialStatus": "official",
+      "id": "Krd5ANdLlYg",
+      "url": "https://www.youtube.com/watch?v=Krd5ANdLlYg",
+      "embedUrl": "https://www.youtube.com/embed/Krd5ANdLlYg",
+      "title": "Slum Village \\ Conant Gardens",
+      "channel": "midwestrap",
+      "channelURL": "https://www.youtube.com/@midwestrap",
+      "type": "参考投稿（公式性未確証）",
+      "official": null,
+      "officialStatus": "unknown",
       "playbackVerified": false,
       "embeddedPlaybackVerified": false,
       "japanPlaybackVerified": false,
       "exactMasterVerified": false,
-      "versionBasis": "Original-album vocal catalog recording; the selected official audio is on Fan-Tas-Tic, Vol. 2 with ℗2000 Barak and a 2009-01-26 digital reissue release field. Current Apple track 2 also uses singular Conant Garden. Requested plural title retained as alias. Do not use 2.10 or instrumental variants as an unlabelled substitute."
+      "versionBasis": "利用者指定の動画。検索メタデータで題名・投稿者を照合。Description fantastic2. Not UC48 officialchannel. 旧選択音源との同一master・実再生・埋め込み可否は未検証。",
+      "selectionBasis": "Explicit user replacement instruction Sentinel_4973d595a16c81918b20f13d1242836d",
+      "metadataDuration": "3:04"
     },
     "listening": [],
     "facts": [],
@@ -74121,9 +74166,9 @@
     "scene": "Detroit",
     "producer": null,
     "producers": [],
-    "producerBasis": "Explicit selected recording producer metadata only; composer credits not promoted to producer.",
+    "producerBasis": "以前参照した公式カタログ・旧音源候補の資料に基づく作品情報。現在の利用者指定動画との同一masterは未照合。 Explicit previously referenced catalog recording producer metadata only; composer credits not promoted to producer.",
     "label": "未確認",
-    "yearBasis": "Standard vocal album track on the 13-track US E1 Music catalog. Do not substitute instrumentals or claim an unverified J Dilla feature; later 16-track catalog variants have divergent durations.",
+    "yearBasis": "以前参照した公式カタログ・旧音源候補の資料に基づく作品情報。現在の利用者指定動画との同一masterは未照合。 Standard vocal album track on the 13-track US E1 Music catalog. Do not substitute instrumentals or claim an unverified J Dilla feature; later 16-track catalog variants have divergent durations.",
     "essayTitle": "Earl Flinn — 作品と背景をたどる",
     "deck": "「Earl Flinn」は、2010年の『Villa Manifesto』に収められたSlum Villageの曲。選択候補の配信メタデータも、eOne Musicと同作の情報に対応している。依頼リストの短いミックス尺を曲全体の長さとはせず、原曲の収録作品を入口に整理した。",
     "context": "作品・版と資料からたどる",
@@ -74158,23 +74203,30 @@
         "evidence": "song-specific kazoo-like bassline description / album context"
       },
       {
-        "label": "OfficialSlumVillage — Earl Flinn",
+        "label": "旧音源候補の資料 — Earl Flinn",
         "url": "https://www.youtube.com/watch?v=_hUPZie1pFk",
-        "kind": "動画メタデータ（検索表示）",
+        "kind": "制作・収録版の照合資料（現在の選択動画ではありません）",
         "evidence": "Provided by eOne Music; 2010 E1 Music; released2010-07-27; official artist badge."
       },
       {
         "label": "Axios Detroit — Slum Village本人取材",
         "url": "https://www.axios.com/local/detroit/2024/05/14/slum-village-talks-about-their-european-tour-new-album-and-pleasing-old-fans",
         "kind": "地域資料"
+      },
+      {
+        "label": "選択動画 — Earl Flinn",
+        "url": "https://www.youtube.com/watch?v=iB1KWsWAA_8",
+        "kind": "利用者指定・検索メタデータ照合",
+        "evidence": "Uploader OfficialSlumVillage; officiality official; metadata duration 3:08. Officialartistbadge; AdShare; VillaManifesto; Ne'Astra. Different provider and length from prior eOne _hUPZie1pFk3:05; do not carry oldprovider/date."
       }
     ],
     "youtube": {
-      "id": "_hUPZie1pFk",
-      "url": "https://www.youtube.com/watch?v=_hUPZie1pFk",
-      "embedUrl": "https://www.youtube.com/embed/_hUPZie1pFk",
+      "id": "iB1KWsWAA_8",
+      "url": "https://www.youtube.com/watch?v=iB1KWsWAA_8",
+      "embedUrl": "https://www.youtube.com/embed/iB1KWsWAA_8",
       "title": "Earl Flinn",
       "channel": "OfficialSlumVillage",
+      "channelURL": "https://www.youtube.com/channel/UC48icgRQjPTyzfj8pg0rkxw",
       "type": "Official Audio",
       "official": true,
       "officialStatus": "official",
@@ -74182,7 +74234,9 @@
       "embeddedPlaybackVerified": false,
       "japanPlaybackVerified": false,
       "exactMasterVerified": false,
-      "versionBasis": "Standard vocal album track on the 13-track US E1 Music catalog. Do not substitute instrumentals or claim an unverified J Dilla feature; later 16-track catalog variants have divergent durations."
+      "versionBasis": "利用者指定の動画。検索メタデータで題名・投稿者を照合。Officialartistbadge; AdShare; VillaManifesto; Ne'Astra. Different provider and length from prior eOne _hUPZie1pFk3:05; do not carry oldprovider/date. 旧選択音源との同一master・実再生・埋め込み可否は未検証。",
+      "selectionBasis": "Explicit user replacement instruction Sentinel_4973d595a16c81918b20f13d1242836d",
+      "metadataDuration": "3:08"
     },
     "listening": [],
     "facts": [],
@@ -74477,9 +74531,9 @@
       "Young RJ",
       "Black Milk"
     ],
-    "producerBasis": "Explicit selected recording producer metadata only; composer credits not promoted to producer.",
+    "producerBasis": "以前参照した公式カタログ・旧音源候補の資料に基づく作品情報。現在の利用者指定動画との同一masterは未照合。 Explicit previously referenced catalog recording producer metadata only; composer credits not promoted to producer.",
     "label": "未確認",
-    "yearBasis": "Album recording on Detroit Deli, not The Reunion, Pt. 2 from Villa Manifesto. Official audio metadata has a generic 2004-01-01 date; Apple and contemporary 2004 reporting support June 29 album release. Mix excerpt has not been auditioned.",
+    "yearBasis": "以前参照した公式カタログ・旧音源候補の資料に基づく作品情報。現在の利用者指定動画との同一masterは未照合。 Album recording on Detroit Deli, not The Reunion, Pt. 2 from Villa Manifesto. Previously referenced official audio metadata has a generic 2004-01-01 date; Apple and contemporary 2004 reporting support June 29 album release. Mix excerpt has not been auditioned.",
     "essayTitle": "Reunion — 作品と背景をたどる",
     "deck": "2004年の『Detroit Deli』を閉じる「Reunion」は、単純な再集結の祝歌ではない。発売前のT3の説明では、再び一緒にいたいという願い、可能性、そして一緒にはいない現実という、三つの心境を重ねた曲だ。J Dillaを迎えた声の集合と、揃い切らない関係。その距離を消さずに残すところに、この一曲の輪郭がある。",
     "context": "作品・版と資料からたどる",
@@ -74509,9 +74563,9 @@
         "evidence": "album closing track 13 / catalog full duration 4:03, not supplied mix 3:54"
       },
       {
-        "label": "www.youtube.com — Reunion",
+        "label": "旧音源候補の資料 — Reunion",
         "url": "https://www.youtube.com/watch?v=eO9k-cFmoEA",
-        "kind": "official indexed metadata only",
+        "kind": "制作・収録版の照合資料（現在の選択動画ではありません）",
         "evidence": "official artist channel / UMG album audio / Young RJ and Black Milk production credits / 2004 phonogram"
       },
       {
@@ -74530,22 +74584,31 @@
         "label": "Axios Detroit — Slum Village本人取材",
         "url": "https://www.axios.com/local/detroit/2024/05/14/slum-village-talks-about-their-european-tour-new-album-and-pleasing-old-fans",
         "kind": "地域資料"
+      },
+      {
+        "label": "選択動画 — Slum Village - Reunion ft J Dilla (HQ)",
+        "url": "https://www.youtube.com/watch?v=qXk9J6-qg1U",
+        "kind": "利用者指定・検索メタデータ照合",
+        "evidence": "Uploader b0nkar; officiality unknown; metadata duration 4:06. J Dilla guest in title; no album/year/provider confirmed; not UC48officialchannel."
       }
     ],
     "youtube": {
-      "id": "eO9k-cFmoEA",
-      "url": "https://www.youtube.com/watch?v=eO9k-cFmoEA",
-      "embedUrl": "https://www.youtube.com/embed/eO9k-cFmoEA",
-      "title": "Reunion",
-      "channel": "OfficialSlumVillage",
-      "type": "Official Audio",
-      "official": true,
-      "officialStatus": "official",
+      "id": "qXk9J6-qg1U",
+      "url": "https://www.youtube.com/watch?v=qXk9J6-qg1U",
+      "embedUrl": "https://www.youtube.com/embed/qXk9J6-qg1U",
+      "title": "Slum Village - Reunion ft J Dilla (HQ)",
+      "channel": "b0nkar",
+      "channelURL": "https://www.youtube.com/@b0nkar",
+      "type": "参考投稿（公式性未確証）",
+      "official": null,
+      "officialStatus": "unknown",
       "playbackVerified": false,
       "embeddedPlaybackVerified": false,
       "japanPlaybackVerified": false,
       "exactMasterVerified": false,
-      "versionBasis": "Album recording on Detroit Deli, not The Reunion, Pt. 2 from Villa Manifesto. Official audio metadata has a generic 2004-01-01 date; Apple and contemporary 2004 reporting support June 29 album release. Mix excerpt has not been auditioned."
+      "versionBasis": "利用者指定の動画。検索メタデータで題名・投稿者を照合。J Dilla guest in title; no album/year/provider confirmed; not UC48officialchannel. 旧選択音源との同一master・実再生・埋め込み可否は未検証。",
+      "selectionBasis": "Explicit user replacement instruction Sentinel_4973d595a16c81918b20f13d1242836d",
+      "metadataDuration": "4:06"
     },
     "listening": [],
     "facts": [],
