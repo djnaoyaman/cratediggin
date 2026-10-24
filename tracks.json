@@ -79172,5 +79172,117 @@
     },
     "addedOrder": 611,
     "datePublished": "2026-10-25"
+  },
+  {
+    "id": "jurassic-5-if-you-only-knew",
+    "title": "If You Only Knew",
+    "artist": "Jurassic 5",
+    "primaryArtist": "Jurassic 5",
+    "primaryArtists": [
+      "Jurassic 5"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Jurassic 5"
+    ],
+    "year": 2002,
+    "album": "Power In Numbers",
+    "category": "Hip Hop",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": "Juju",
+    "producers": [
+      "Juju"
+    ],
+    "producerBasis": "曲別Producer役割を一次資料で確認。",
+    "label": "Interscope",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "yearBasis": "PIAS提供の公式YouTube説明Released2002-01-01。年のみ採用し初出日を断定しない。",
+    "essayTitle": "Jujuの制作と、DJセットで並ぶもう一つのJ5",
+    "deck": "「Concrete Schoolyard」と隣り合う、2002年のアルバム曲。",
+    "context": "",
+    "essay": [
+      "『Power In Numbers』の「If You Only Knew」は、公式クレジットでJujuがプロデューサーを務める曲。Jurassic 5の名前だけでなく、曲ごとの制作陣へ目を向けると、アルバムの別のつながりが見えてくる。",
+      "Mike Ruckusの2011年8月31日付ログでは、3時間10分55秒にこの曲、次の項目に「Concrete Schoolyard」が並ぶ。同じグループの異なる時期の作品を続けて選んだ記録だ。実際のミックス方法までは、このログだけからは分からない。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ],
+    "sources": [
+      {
+        "label": "If You Only Knew — official Topic",
+        "url": "https://www.youtube.com/watch?v=Pu2gEEc7Q2s",
+        "kind": "公式配信メタデータ",
+        "evidence": "PIAS/Power In Numbers/Released2002-01-01/Producer Juju。web検索で公式説明全文取得、oEmbed title/channel一致。"
+      },
+      {
+        "label": "Mike Ruckus — 31/08/11",
+        "url": "https://serato.com/playlists/theduckfather/31-08-11",
+        "kind": "DJ公開プレイリスト",
+        "evidence": "03:10:55 If You Only Knew、次項目03:14:32 Concrete Schoolyard。"
+      },
+      {
+        "label": "Mike Ruckus — gluck Friday",
+        "url": "https://serato.com/playlists/theduckfather/gluck-friday",
+        "kind": "DJ公開プレイリスト",
+        "evidence": "同曲01:39:22と01:44:27。重複行を別DJとは数えない。"
+      },
+      {
+        "label": "Jurassic 5 — Universal Music biography",
+        "url": "https://www.universal-music.co.jp/jurassic5/biography/",
+        "kind": "所属レーベル紹介",
+        "evidence": "LAを拠点とするグループ。"
+      }
+    ],
+    "youtube": {
+      "id": "Pu2gEEc7Q2s",
+      "url": "https://www.youtube.com/watch?v=Pu2gEEc7Q2s",
+      "embedUrl": "https://www.youtube.com/embed/Pu2gEEc7Q2s",
+      "title": "If You Only Knew",
+      "channel": "Jurassic 5 - Topic",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "公式単曲配信の曲名・artist・albumを確認。実再生・同一masterは未確認。",
+      "verified": "2026-10-24"
+    },
+    "art": {
+      "word": "If You Only Knew",
+      "tag": "JURASSIC 5",
+      "style": "tag",
+      "seed": 3411797691,
+      "palette": [
+        "#ffdb22",
+        "#df7b21",
+        "#b52c20",
+        "#f3edda",
+        "#121212"
+      ],
+      "paletteSourceUrl": "https://music.apple.com/us/album/power-in-numbers/1673116557",
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteNote": "Power In Numbersのジャケットを参照した黄・橙・赤に、黒白のコントラストを組み合わせた配色。"
+    },
+    "addedOrder": 612,
+    "datePublished": "2026-10-25"
   }
 ]
