@@ -77663,5 +77663,131 @@
     },
     "addedOrder": 600,
     "datePublished": "2026-10-24"
+  },
+  {
+    "id": "michael-christmas-intercontinental-champion",
+    "title": "Intercontinental Champion",
+    "artist": "Michael Christmas",
+    "primaryArtist": "Michael Christmas",
+    "primaryArtists": [
+      "Michael Christmas"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Michael Christmas"
+    ],
+    "year": null,
+    "yearStatus": "unconfirmed",
+    "yearBasis": "選択音源の公式配信日は2019-05-17。2016年に同名EPの発表報道があるが、この曲の初出年と当時の音源版を一次資料で確定していない。2019を原作年として記載しない。",
+    "yearDisplayNote": "初出年未確認。紹介音源は2019年配信版。",
+    "album": "Baggy Eyes",
+    "category": "Hip Hop",
+    "region": "",
+    "scene": "",
+    "label": "未確認",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "曲別producerの一次クレジットは未確定。Lakimという二次資料の記載だけで確定欄を埋めない。",
+    "essayTitle": "七曲版と八曲の記録を分けてたどる",
+    "deck": "『Baggy Eyes』の現在の配信版から、一曲の来歴へ。",
+    "context": "原作の初出と、選択した配信版の日付を混同しない",
+    "essay": [
+      "「Intercontinental Champion」は、現在の『Baggy Eyes』配信版では七曲中の五曲目。同名EPは2016年の報道で八曲入りとして紹介されており、いま見える曲数とは異なる。ここでは2019年5月17日付の公式配信版を案内し、この曲の初出年まで2019年と決めつけないでおきたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Amazon Music — Baggy Eyes",
+        "url": "https://music.amazon.com/albums/B07RLVCM8J",
+        "kind": "正規配信カタログ",
+        "evidence": "Current ordinary open: Michael Christmas, seven tracks, track5 Intercontinental Champion3:45, 2019-05-17. Search snippet had3:44; direct page currently3:45. No master comparison inferred."
+      },
+      {
+        "label": "Apple Music — Baggy Eyes",
+        "url": "https://music.apple.com/us/album/baggy-eyes/1462838559",
+        "kind": "正規配信カタログ",
+        "evidence": "Current ordinary open: seven tracks and2019-05-17. This is the current catalog date, not proof of original composition release."
+      },
+      {
+        "label": "XXL — Baggy Eyes 発表時の報道",
+        "url": "https://www.xxlmag.com/michael-christmas-baggy-eyes-ep/",
+        "kind": "2016年5月25日の同時代報道",
+        "evidence": "Reports an eight-track EP. Does not directly establish this exact song first release or equivalence with the2019 master."
+      },
+      {
+        "label": "Michael Christmas - Topic — Intercontinental Champion",
+        "url": "https://www.youtube.com/watch?v=wj7L4F7Qkzs",
+        "kind": "公式配信音源（保存済みメタデータ）",
+        "evidence": "Saved2026-10-23 videoDetails: exact title/artist/Baggy Eyes, DistroKid, released2019-05-17,225seconds. No fresh YouTube request or playback in this pass."
+      }
+    ],
+    "youtube": {
+      "id": "wj7L4F7Qkzs",
+      "url": "https://www.youtube.com/watch?v=wj7L4F7Qkzs",
+      "embedUrl": "https://www.youtube.com/embed/wj7L4F7Qkzs",
+      "title": "Intercontinental Champion",
+      "channel": "Michael Christmas - Topic",
+      "type": "公式配信音源（2019年配信版）",
+      "official": true,
+      "officialStatus": "official",
+      "duration": "3:45",
+      "versionBasis": "DistroKid提供の公式Topic音源。曲名・Michael Christmas・Baggy Eyesが依頼と正規catalogに一致し、説明の配信日は2019-05-17。元依頼に特定remix/live指定はない。2016EP原盤やDJ KIYOの抜粋と同一編集・マスターを証明したものではない。",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false
+    },
+    "facts": [
+      {
+        "title": "日付が分かる版と、まだ分からない初出",
+        "text": "選択音源の配信日と本曲の初出年は別の情報として扱う。原作年とproducerの未確定欄を推測で補わず、2019年配信版であることを明示する。",
+        "sources": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "listening": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "Intercontinental Champion",
+      "tag": "MICHAEL CHRISTMAS",
+      "lines": [
+        "Intercontinental Champion"
+      ],
+      "style": "piece",
+      "seed": 2026102494,
+      "palette": [
+        "#00623b",
+        "#13b94d",
+        "#b795e0",
+        "#817858",
+        "#a62a1d",
+        "#f3ead5"
+      ],
+      "paletteSource": "Official current Baggy Eyes Apple catalog cover plus declared pale-cream readability accent",
+      "paletteSourceUrl": "https://music.apple.com/us/song/intercontinental-champion/1462838570",
+      "paletteNote": "Main green/lavender/earth/red colors approximately derived from a viewed official current Baggy Eyes catalog cover. Pale cream is a declared readability accent. Palette only, no character, hammock, landscape, fruit, illustration layout or advisory copied. This is a current catalog cover, not a verified original-issue cover scan."
+    },
+    "addedOrder": 601,
+    "datePublished": "2026-10-24"
   }
 ]
