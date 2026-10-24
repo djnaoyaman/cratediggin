@@ -10556,10 +10556,25 @@
       "paletteSourceUrl": "https://music.apple.com/us/song/1481505218",
       "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。",
       "status": "ready",
-      "image": "assets/graffiti/benjamin-earl-turner-free99-alpha.webp",
+      "image": "assets/graffiti/benjamin-earl-turner-free99-sized-v1.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "transparent": true
+      "transparent": true,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          71,
+          48,
+          937,
+          637
+        ],
+        "outputSha256": "398010ee63489482e3e84b69f81455e8af8bf52e1189841f56594721280bfbe5",
+        "sourceImage": "assets/graffiti/benjamin-earl-turner-free99-alpha.webp",
+        "sourceSha256": "6a94fd8ffb74492ee20595d5dd90ffc7d73cf1fc4f1c4138a7ff210c2a9a864c",
+        "normalization": "canvas-only; lettering pixels unchanged"
+      }
     },
     {
       "id": "dreamville-bas-spin-move",
@@ -10577,10 +10592,25 @@
       "paletteSourceUrl": "https://music.apple.com/us/song/1494858083",
       "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。",
       "status": "ready",
-      "image": "assets/graffiti/dreamville-bas-spin-move-alpha.webp",
+      "image": "assets/graffiti/dreamville-bas-spin-move-sized-v1.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "transparent": true
+      "transparent": true,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          80,
+          49,
+          1056,
+          650
+        ],
+        "outputSha256": "ca1611916e500deb0b976262e6a9c7ffb3c512071b6211f33f91429eb8bba845",
+        "sourceImage": "assets/graffiti/dreamville-bas-spin-move-alpha.webp",
+        "sourceSha256": "29b0d1d8aa1361e1368796fa0d3f7c9e360b4fe908de51469ea0a7ea1f509bd2",
+        "normalization": "canvas-only; lettering pixels unchanged"
+      }
     },
     {
       "id": "iamddb-urban-jazz",
@@ -10598,10 +10628,25 @@
       "paletteSourceUrl": "https://music.apple.com/us/album/swervvvvv-5/1452937007",
       "paletteNote": "公式掲載カバーの配色だけを参照し、モチーフ・ロゴ・構図や元の文字は再現していません。",
       "status": "ready",
-      "image": "assets/graffiti/iamddb-urban-jazz-alpha.webp",
+      "image": "assets/graffiti/iamddb-urban-jazz-sized-v1.webp",
       "textReviewed": true,
       "paletteReviewed": true,
-      "transparent": true
+      "transparent": true,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          79,
+          67,
+          1039,
+          890
+        ],
+        "outputSha256": "c0ae762313addfa0e54e4169914b512dcf13014fc48e4330628984c4a0288263",
+        "sourceImage": "assets/graffiti/iamddb-urban-jazz-alpha.webp",
+        "sourceSha256": "1e8a40b577704ee4796df9706e3b1ac219fe7ea7aa9793b105c843ccf437faa0",
+        "normalization": "canvas-only; lettering pixels unchanged"
+      }
     },
     {
       "id": "kari-faux-medicated",

@@ -8,6 +8,8 @@ from art_motion import motion_for_track
 from editorial_references import enrich_sections, markdown_reference, essay_references
 from article_research import load_notes, render_notice, markdown_notice
 ROOT=Path(__file__).parent
+from artwork_display import validate as validate_artwork_display
+validate_artwork_display(ROOT)  # Fail before output generation for new/changed undersized tag art.
 DIST=ROOT/'dist'
 HOST=os.environ.get('SITE_URL','https://djnaoyaman.github.io/cratediggin').rstrip('/')
 BASE_PATH=urlparse(HOST).path.rstrip('/')
