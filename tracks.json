@@ -77073,5 +77073,113 @@
     },
     "addedOrder": 595,
     "datePublished": "2026-10-24"
+  },
+  {
+    "id": "9th-wonder-tellmenow",
+    "title": "TellMeNow!!!",
+    "artist": "9th Wonder",
+    "primaryArtist": "9th Wonder",
+    "primaryArtists": [
+      "9th Wonder"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "9th Wonder"
+    ],
+    "year": 2017,
+    "album": "Zion II",
+    "category": "Hip Hop",
+    "region": "",
+    "scene": "",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "曲別の明示的な制作クレジットはこの資料では未確認。アーティスト名だけからproducerを補わない。",
+    "label": "Jamla Records",
+    "yearBasis": "Apple Musicの2017-12-15と、公式TopicのReleased on 2017-12-15が一致。検索確認年2026を原作年にしない。",
+    "essayTitle": "43曲の中の33曲目",
+    "deck": "曲名から『Zion II』の収録順へ。2017年の一曲を、アルバムの中に置き直す。",
+    "context": "曲名だけでなく収録順までたどる",
+    "essay": [
+      "「TellMeNow!!!」は、9th Wonderの『Zion II』全43曲の33曲目。2017年12月15日にJamla Recordsから発表されたアルバムの後半に位置している。一曲の名前を収録順へ戻してみると、その前後へ掘り進める手掛かりが見つかる。"
+    ],
+    "essaySources": [
+      [
+        0
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Apple Music — Zion II",
+        "url": "https://music.apple.com/us/album/zion-ii/1325502928",
+        "kind": "正規配信カタログ",
+        "evidence": "43 tracks; 2017-12-15; Jamla Records. Saved official album metadata identifies TellMeNow!!! as track 33, song 1325503346, duration 2:46. Album date, count and label directly rechecked on 2026-10-24."
+      },
+      {
+        "label": "9th Wonder - Topic — TellMeNow!!!",
+        "url": "https://www.youtube.com/watch?v=Ao3TPgmQlKw",
+        "kind": "公式配信音源の検索メタデータ",
+        "evidence": "Finder directly read exact title, 9th Wonder - Topic, EMPIRE Distribution, Zion II, 2017 Jamla Records, 2017-12-15 and displayed 2:47; saved 2026-10-24T05:08:53Z. Playback and exact master were not verified."
+      }
+    ],
+    "youtube": {
+      "id": "Ao3TPgmQlKw",
+      "url": "https://www.youtube.com/watch?v=Ao3TPgmQlKw",
+      "embedUrl": "https://www.youtube.com/embed/Ao3TPgmQlKw",
+      "title": "TellMeNow!!!",
+      "channel": "9th Wonder - Topic",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "duration": "2:47",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "9th Wonder - Topicの単曲投稿。EMPIRE Distribution配信、Zion II、2017 Jamla Records、Released on 2017-12-15の表記が正規カタログと一致。2:47は検索画面の表示尺で、実再生による測定ではない。同一マスター・日本での再生・埋込可否は未確認。"
+    },
+    "listening": [],
+    "facts": [
+      {
+        "title": "表示尺とマスターは別の確認",
+        "text": "Apple Musicの曲目情報は2分46秒、選択したTopic投稿の検索表示は2分47秒。この表記差だけで、別ミックスとも同一マスターとも断定しない。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "TellMeNow!!!",
+      "tag": "9TH WONDER",
+      "lines": [
+        "TellMe",
+        "Now",
+        "!!!"
+      ],
+      "style": "piece",
+      "seed": 2026102486,
+      "palette": [
+        "#506b73",
+        "#929c91",
+        "#e4ddcc",
+        "#292b28",
+        "#aa9780"
+      ],
+      "paletteSource": "Zion II",
+      "paletteSourceUrl": "https://music.apple.com/us/album/zion-ii/1325502928",
+      "paletteNote": "Actual official cover viewed; approximate editorial colors only. Existing artwork reused without redraw."
+    },
+    "addedOrder": 596,
+    "datePublished": "2026-10-24"
   }
 ]
