@@ -12638,6 +12638,48 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "noSiteBranding": true
+    },
+    {
+      "id": "jurassic-5-monkey-bars",
+      "title": "Monkey Bars",
+      "artist": "Jurassic 5",
+      "album": "Quality Control",
+      "palette": [
+        "#94b2bd",
+        "#eee7d9",
+        "#746454",
+        "#b4775c",
+        "#242829"
+      ],
+      "paletteSource": "Viewed official catalog cover, approximate editorial palette",
+      "paletteSourceURL": "https://music.apple.com/us/album/quality-control/1673109195",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          130,
+          68,
+          1726,
+          901
+        ],
+        "outputSha256": "30826e8c8dd629ab432bfa9d479f6dee0b7201deb3cef05fbd5551b5afc01f60",
+        "sourceImage": "assets/graffiti/originals/jurassic-5-monkey-bars-anchor-v1-original.png",
+        "sourceSha256": "c42da267a7f6c976f2d84333d898f75a66915e39ead9ed8ad647366f3e258c5a"
+      },
+      "paletteNote": "Quality Controlのジャケットを参照した青灰色・黄褐色・錆色に、黒白のコントラストを組み合わせた配色。",
+      "concept": "曲名を太い文字と切れ込み、飛沫で組み立てた構成。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "Editorial visual interpretation; no claim of artist intent or playback verification.",
+      "status": "ready",
+      "image": "assets/graffiti/jurassic-5-monkey-bars-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/jurassic-5-monkey-bars-anchor-v1-original.png",
+      "transparent": true,
+      "reviewNote": "Typography, transparent paint, white/dark small-size readability and displaySizing v1 checked.",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
