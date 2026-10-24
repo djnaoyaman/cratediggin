@@ -78042,5 +78042,562 @@
     },
     "addedOrder": 601,
     "datePublished": "2026-10-24"
+  },
+  {
+    "id": "jurassic-5-whats-golden",
+    "title": "What's Golden",
+    "artist": "Jurassic 5",
+    "primaryArtist": "Jurassic 5",
+    "primaryArtists": [
+      "Jurassic 5"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Jurassic 5"
+    ],
+    "year": 2002,
+    "album": "Power In Numbers",
+    "category": "Hip Hop",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": "DJ Nu-Mark",
+    "producers": [
+      "DJ Nu-Mark"
+    ],
+    "producerBasis": "曲別公式クレジットまたは本人制作回顧。確認外の役割は補わない。",
+    "label": "Interscope",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプル名は記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "yearBasis": "公式MV copyrightまたは公式配信の作品年。YouTubeのアップロード年とは区別。",
+    "essayTitle": "英国で掘った一枚が、長く届く曲になる",
+    "deck": "EPのツアーで見つけたレコードから、映像作品へ広がった一曲。",
+    "context": "メンバー自身の言葉から制作背景をたどる",
+    "essay": [
+      "「What’s Golden」の背景には、ツアー先でのディギングがある。Nu-Markはインタビューで、素材となるレコードをEP期の英国ツアー中に見つけたと振り返る。同じ対話では、テレビや映画への使用依頼がJ5の曲でとりわけ多いとも語っている。ステージを回る旅が新しいビートを生み、その曲が今度は別の映像へ渡っていく。そんな循環を知ると、この一曲の入口が少し広がる。"
+    ],
+    "essaySources": [
+      [
+        0
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Once A DJ — DJ Nu-Mark interview",
+        "url": "https://pathsofrhythm.com/captivate-podcast/flava-in-ya-ear-with-dj-nu-mark/",
+        "kind": "本人インタビュー逐語記録",
+        "evidence": "48:52 Nu-Mark says this receives by far the most sync requests; 50:19 says source record was found on UK tours for the EP. Do not identify exact sample from this alone."
+      },
+      {
+        "label": "Jurassic 5 — What’s Golden 公式MV",
+        "url": "https://www.youtube.com/watch?v=XsZKrctSDaw",
+        "kind": "公式Artist Channel",
+        "evidence": "Final Revised Version; official channel; copyright 2002 Interscope; upload 2010-01-08. No listening verification."
+      },
+      {
+        "label": "The Fix — Ep 24 Nu-Mark",
+        "url": "https://podcasts.apple.com/ng/podcast/ep-24-nu-mark/id1334212137?i=1000433200682",
+        "kind": "本人出演番組の公式説明",
+        "evidence": "Description specifically calls What’s Golden one of his beats. Episode not listened to."
+      },
+      {
+        "label": "Chali 2na interview — Jurassic 5の地域",
+        "url": "https://hiphopandpolitics.com/2013/10/05/wisdom-chali-2na-jurassic-5-joke/",
+        "kind": "本人インタビューの紹介",
+        "evidence": "Jurassic5 identified as LosAngeles group; reviewer independently confirmed. Group locality not every member birthplace."
+      }
+    ],
+    "youtube": {
+      "id": "XsZKrctSDaw",
+      "url": "https://www.youtube.com/watch?v=XsZKrctSDaw",
+      "embedUrl": "https://www.youtube.com/embed/XsZKrctSDaw",
+      "title": "What's Golden",
+      "channel": "Jurassic 5",
+      "type": "公式MV",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "YouTube公開検索メタデータの曲名、公式Artist Channel、説明を照合。実再生未確認。MVとアルバム音源の編集差は未検証。"
+    },
+    "art": {
+      "word": "What's Golden",
+      "tag": "JURASSIC 5",
+      "lines": [
+        "What's Golden"
+      ],
+      "style": "tag",
+      "seed": 20261024100,
+      "palette": [
+        "#bd7750",
+        "#f4e7bd"
+      ],
+      "paletteSource": "Viewed official catalog cover, approximate editorial palette",
+      "paletteSourceUrl": "https://music.apple.com/us/album/power-in-numbers/1673116557",
+      "paletteNote": "Restrained one/two-color flat marker palette approximated from the actually re-viewed current catalog cover and adjusted to medium luminance for white/dark legibility. No copied cover layout or official lettering. Minimal edge if present is planar readability only."
+    },
+    "addedOrder": 602,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "jurassic-5-quality-control",
+    "title": "Quality Control",
+    "artist": "Jurassic 5",
+    "primaryArtist": "Jurassic 5",
+    "primaryArtists": [
+      "Jurassic 5"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Jurassic 5"
+    ],
+    "year": 2000,
+    "album": "Quality Control",
+    "category": "Hip Hop",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": "Cut Chemist",
+    "producers": [
+      "Cut Chemist"
+    ],
+    "producerBasis": "曲別公式クレジットまたは本人制作回顧。確認外の役割は補わない。",
+    "label": "Interscope",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプル名は記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "yearBasis": "公式MV copyrightまたは公式配信の作品年。YouTubeのアップロード年とは区別。",
+    "essayTitle": "ラジオの短い断片を、一曲に育てる",
+    "deck": "Wake Up Showのプロモから、アルバムの表題曲へ。",
+    "context": "メンバー自身の言葉から制作背景をたどる",
+    "essay": [
+      "「Quality Control」は、最初からアルバムの表題曲として完成していたわけではない。Marc 7の回想によると、出発点はWake Up Show向けの短いプロモだった。Cut Chemistがそのビートを再び持ち出し、気に入ったメンバーが曲を書いたという。短い放送用の断片を捨てず、一曲に育て直す。完成版だけでは見えない、J5のアイデアの保存と再発見がここにある。"
+    ],
+    "essaySources": [
+      [
+        0
+      ]
+    ],
+    "sources": [
+      {
+        "label": "SPIN — Quality Control oral history",
+        "url": "https://www.spinmagazine.com/2020/06/jurassic-5-quality-control-20th-anniversary/2/",
+        "kind": "メンバー本人の制作回顧",
+        "evidence": "Marc 7 says track began as short Wake Up Show promo and Cut revisited beat. Cut says Quality Control beat was on a 1994 sample tape. Use concise paraphrase; shared 200-word budget across this source."
+      },
+      {
+        "label": "Jurassic 5 — Quality Control 公式MV",
+        "url": "https://www.youtube.com/watch?v=PgpDN-bARwc",
+        "kind": "公式Artist Channel",
+        "evidence": "Official music video; copyright 2000 Interscope; upload 2009-12-24."
+      },
+      {
+        "label": "Apple Music — Quality Control",
+        "url": "https://music.apple.com/us/song/quality-control/1673123283",
+        "kind": "公式配信曲ページ",
+        "evidence": "Exact song / Jurassic 5 / June 6 2000."
+      },
+      {
+        "label": "Chali 2na interview — Jurassic 5の地域",
+        "url": "https://hiphopandpolitics.com/2013/10/05/wisdom-chali-2na-jurassic-5-joke/",
+        "kind": "本人インタビューの紹介",
+        "evidence": "Jurassic5 identified as LosAngeles group; reviewer independently confirmed. Group locality not every member birthplace."
+      }
+    ],
+    "youtube": {
+      "id": "PgpDN-bARwc",
+      "url": "https://www.youtube.com/watch?v=PgpDN-bARwc",
+      "embedUrl": "https://www.youtube.com/embed/PgpDN-bARwc",
+      "title": "Quality Control",
+      "channel": "Jurassic 5",
+      "type": "公式MV",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "YouTube公開検索メタデータの曲名、公式Artist Channel、説明を照合。実再生未確認。MVとアルバム音源の編集差は未検証。"
+    },
+    "art": {
+      "word": "Quality Control",
+      "tag": "JURASSIC 5",
+      "lines": [
+        "Quality Control"
+      ],
+      "style": "tag",
+      "seed": 20261024101,
+      "palette": [
+        "#667f87",
+        "#eee7d9"
+      ],
+      "paletteSource": "Viewed official catalog cover, approximate editorial palette",
+      "paletteSourceUrl": "https://music.apple.com/us/album/quality-control/1673109195",
+      "paletteNote": "Two flat approximate colors derived from the re-viewed current catalog cover: a medium-value slate marker ink adapted for light/dark readability and a fine warm-ivory hairline. No copied cover lettering, image layout or modeled light."
+    },
+    "addedOrder": 603,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "people-under-the-stairs-acid-raindrops",
+    "title": "Acid Raindrops",
+    "artist": "People Under the Stairs",
+    "primaryArtist": "People Under the Stairs",
+    "primaryArtists": [
+      "People Under the Stairs"
+    ],
+    "featuredArtists": [
+      "Camel MC"
+    ],
+    "artists": [
+      "People Under the Stairs",
+      "Camel MC"
+    ],
+    "year": 2002,
+    "album": "O.S.T.",
+    "category": "Hip Hop",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "曲別producerの一次クレジットは未確定。著者・engineer・cutsの役割から推測しない。",
+    "label": "Om Records",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "essayTitle": "記憶に残るコーラスを書いたCamel",
+    "deck": "記憶に残るコーラスを書いたCamel",
+    "context": "リリース資料と本人の言葉からたどる一曲",
+    "essay": [
+      "「Acid Raindrops」を振り返ったThes Oneが鍵として挙げたのは、Camelの書いたコーラスだった。本人によれば、冒頭でラップするのもCamel。ビートから始まった曲を、声とフックの共同作業として捉え直せる証言だ。ここではOm Recordsの4分56秒の投稿を選んでいる。同じレーベルに4分25秒の投稿もあるため、曲名だけで版を混同しないようにした。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Thes One — 制作回想",
+        "url": "https://www.powmag.net/p/the-making-of-people-under-the-stairs-acid-raindrops-and-san-francisco-knights",
+        "kind": "本人インタビュー",
+        "evidence": "Thes One credits Camel with chorus and first rap; no sample/producer claim."
+      },
+      {
+        "label": "Om Records — O.S.T.",
+        "url": "https://peopleunderthestairs.bandcamp.com/album/o-s-t",
+        "kind": "レーベル公式",
+        "evidence": "Track18 Acid Raindrops 4:55; 2002 album. June2 differs from other catalogs June4; only year used."
+      },
+      {
+        "label": "Om Records — Acid Raindrops",
+        "url": "https://www.youtube.com/watch?v=6MALEzGfHdk",
+        "kind": "YouTube検索表示の照合",
+        "evidence": "2026-10-24に通常検索UIで曲名、投稿者、作品情報、長さを照合。実再生は未確認。"
+      },
+      {
+        "label": "Apple Music — Acid Raindrops (feat. Camel MC)",
+        "url": "https://music.apple.com/us/song/457810905",
+        "kind": "権利者提供の配信カタログ",
+        "evidence": "2026-10-24検索メタデータがfeat. Camel MC表記。本文は本人interviewのCamel表記を維持。"
+      }
+    ],
+    "youtube": {
+      "id": "6MALEzGfHdk",
+      "url": "https://www.youtube.com/watch?v=6MALEzGfHdk",
+      "embedUrl": "https://www.youtube.com/embed/6MALEzGfHdk",
+      "title": "Acid Raindrops",
+      "channel": "Om Records",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "exactMixMasterVerified": false,
+      "versionBasis": "Om Records認証済みchannelの4:56投稿。説明は元O.S.T.曲と明記、Om25周年紹介。4:25投稿やinstrumental/liveは採用しない。マスター一致未検証。",
+      "duration": "4:56"
+    },
+    "artConcept": "曲名から雨滴が輪郭を結び、中心に集まるtag。声がまとまるchorusを編集側の視覚比喩にする。薬物器具や本人似顔絵、作者意図の断定なし。",
+    "yearBasis": "Om公式O.S.T.2002。日付表記差があるため年のみ。",
+    "art": {
+      "word": "Acid Raindrops",
+      "tag": "PEOPLE UNDER THE STAIRS",
+      "lines": [
+        "Acid Raindrops"
+      ],
+      "style": "tag",
+      "seed": 2026102418,
+      "palette": [
+        "#75876f",
+        "#242829"
+      ],
+      "paletteSource": "Viewed official catalog cover, approximate editorial palette",
+      "paletteSourceUrl": "https://peopleunderthestairs.bandcamp.com/album/o-s-t",
+      "paletteNote": "Restrained one/two-color flat marker palette approximated from the actually re-viewed current catalog cover and adjusted to medium luminance for white/dark legibility. No copied cover layout or official lettering. Minimal edge if present is planar readability only."
+    },
+    "regionBasis": "Om Records公式Bandcampのアーティスト紹介でLos Angeles based duoと確認。出身地・録音地・出生地ではなく活動地域。",
+    "regionSources": [
+      1
+    ],
+    "addedOrder": 604,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "artist": "Cut Chemist",
+    "primaryArtist": "Cut Chemist",
+    "primaryArtists": [
+      "Cut Chemist"
+    ],
+    "year": 2006,
+    "album": "The Audience's Listening",
+    "category": "Hip Hop",
+    "region": "Los Angeles",
+    "scene": "Los Angeles / Hip Hop",
+    "producer": null,
+    "producers": [],
+    "label": "Warner Records",
+    "listening": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "yearBasis": "レーベル配信2006年原作。YouTube投稿日を発表年にしない。",
+    "facts": [
+      {
+        "title": "活動拠点",
+        "text": "公式プロフィールの拠点表記は、カリフォルニア州ロサンゼルス。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "id": "cut-chemist-whats-the-altitude",
+    "title": "What's the Altitude (feat. Hymnal)",
+    "featuredArtists": [
+      "Hymnal"
+    ],
+    "artists": [
+      "Cut Chemist",
+      "Hymnal"
+    ],
+    "essayTitle": "古いバトル・テープから届く着想",
+    "deck": "Hymnalを迎えた一曲に、カセット録音の記憶をたどる。",
+    "context": "一次資料からたどる制作背景",
+    "essay": [
+      "「What’s the Altitude」の背景をたどると、古いDJバトルのカセットに行き着く。ワーナーの紹介は、その雑音を含んだ録音の質感が着想になったと説明している。客演はHymnal。曲名が示す高さを、ここでは単なる上昇のイメージだけでなく、過去の録音を新しい制作へ引き上げる動きとして捉えたい。これは題名と制作背景を結ぶ編集上の見方であって、歌詞の解釈を本人に帰すものではない。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ]
+    ],
+    "producerBasis": "Gardenのみ公式配信のProducerを確認。他2曲は曲別credit未取得のためnull。",
+    "sources": [
+      {
+        "label": "Warner Music Japan — Cut Chemist profile",
+        "url": "https://wmg.jp/cut-chemist/profile/",
+        "kind": "レーベル公式",
+        "evidence": "Garden Brazilian recording; Altitude inspired by old-school DJ battle cassette sound; Theme described among classic Cut style. Total paraphrase budget across these three rows kept concise, no verbatim quotations."
+      },
+      {
+        "label": "Cut Chemist — What's the Altitude (feat. Hymnal)",
+        "url": "https://www.youtube.com/watch?v=lpEKYKNQw5Q",
+        "kind": "公式配信音源のメタデータ",
+        "evidence": "YouTube検索UIでWarner提供、Cut Chemist / Hymnal、Audience album、4:24表示と公式Artist/Topic channel IDを照合。"
+      },
+      {
+        "label": "Cut Chemist — artist Bandcamp profile",
+        "url": "https://cutchemist.bandcamp.com/music",
+        "kind": "アーティスト公式",
+        "evidence": "About: Cut Chemist Los Angeles, California. Read 2026-10-24T06:13:57Z. Official artist self-identification of base, not birthplace."
+      }
+    ],
+    "youtube": {
+      "id": "lpEKYKNQw5Q",
+      "url": "https://www.youtube.com/watch?v=lpEKYKNQw5Q",
+      "embedUrl": "https://www.youtube.com/embed/lpEKYKNQw5Q",
+      "title": "What's the Altitude (feat. Hymnal)",
+      "channel": "Cut Chemist",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "duration": "4:24",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "YouTube検索UIでWarner提供、Cut Chemist / Hymnal、Audience album、4:24表示と公式Artist/Topic channel IDを照合。 実再生、地域可否、埋め込み、ビット単位マスター同一性は未検証。"
+    },
+    "regionBasis": "活動拠点: 本人公式BandcampがLos Angeles, Californiaと明示。出生地やThe Gardenの録音地Brazilを活動地域の代用にしていない。",
+    "art": {
+      "word": "What's the Altitude (feat. Hymnal)",
+      "tag": "CUT CHEMIST",
+      "lines": [
+        "What's the Altitude (feat. Hymnal)"
+      ],
+      "style": "tag",
+      "seed": 20261024130,
+      "palette": [
+        "#7d939f",
+        "#efe6d8"
+      ],
+      "paletteSource": "Viewed official catalog cover, approximate editorial palette",
+      "paletteSourceUrl": "https://music.apple.com/us/album/the-audiences-listening/168709805",
+      "paletteNote": "Flat medium-value slate marker ink derived approximately from current catalog blues/greys, lifted for light/dark readability with a minimal warm-ivory hairline. No modeled light, copied cover art or shadow."
+    },
+    "addedOrder": 605,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "artist": "Cut Chemist",
+    "primaryArtist": "Cut Chemist",
+    "primaryArtists": [
+      "Cut Chemist"
+    ],
+    "year": 2006,
+    "album": "The Audience's Listening",
+    "category": "Hip Hop",
+    "region": "Los Angeles",
+    "scene": "Los Angeles / Hip Hop",
+    "producer": "Cut Chemist",
+    "producers": [
+      "Cut Chemist"
+    ],
+    "label": "Warner Records",
+    "listening": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "yearBasis": "レーベル配信2006年原作。YouTube投稿日を発表年にしない。",
+    "facts": [
+      {
+        "title": "活動拠点",
+        "text": "公式プロフィールの拠点表記は、カリフォルニア州ロサンゼルス。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "id": "cut-chemist-the-garden",
+    "title": "The Garden",
+    "featuredArtists": [],
+    "artists": [
+      "Cut Chemist"
+    ],
+    "essayTitle": "ブラジル録音のクレジットをたどる",
+    "deck": "録音クレジットに残る、ギターとビリンバウの存在。",
+    "context": "一次資料からたどる制作背景",
+    "essay": [
+      "ワーナーの紹介によれば、「The Garden」はブラジルで録音された曲だ。公式配信のクレジットには、Beto Villaresのギターとカヴァキーニョ、Marcos Axeのビリンバウ、BetãoとBocaoの打楽器が並ぶ。レコードを切り貼りするDJという入口から来た人にこそ、演奏者の名前をたどってほしい。レコード収集という入口だけでなく、録音に参加した演奏者へも視野が広がる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ]
+    ],
+    "producerBasis": "Gardenのみ公式配信のProducerを確認。他2曲は曲別credit未取得のためnull。",
+    "sources": [
+      {
+        "label": "Warner Music Japan — Cut Chemist profile",
+        "url": "https://wmg.jp/cut-chemist/profile/",
+        "kind": "レーベル公式",
+        "evidence": "Garden Brazilian recording; Altitude inspired by old-school DJ battle cassette sound; Theme described among classic Cut style. Total paraphrase budget across these three rows kept concise, no verbatim quotations."
+      },
+      {
+        "label": "Cut Chemist — The Garden",
+        "url": "https://www.youtube.com/watch?v=tmxf-qHAtyE",
+        "kind": "公式配信音源のメタデータ",
+        "evidence": "Warner提供公式音源。album名、2006、曲名とproducer Cut Chemistおよび演奏者表示をweb検索結果で照合。"
+      },
+      {
+        "label": "Cut Chemist — artist Bandcamp profile",
+        "url": "https://cutchemist.bandcamp.com/music",
+        "kind": "アーティスト公式",
+        "evidence": "About: Cut Chemist Los Angeles, California. Read 2026-10-24T06:13:57Z. Official artist self-identification of base, not birthplace."
+      }
+    ],
+    "youtube": {
+      "id": "tmxf-qHAtyE",
+      "url": "https://www.youtube.com/watch?v=tmxf-qHAtyE",
+      "embedUrl": "https://www.youtube.com/embed/tmxf-qHAtyE",
+      "title": "The Garden",
+      "channel": "Cut Chemist",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "duration": "6:15",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "Warner提供公式音源。album名、2006、曲名とproducer Cut Chemistおよび演奏者表示をweb検索結果で照合。 実再生、地域可否、埋め込み、ビット単位マスター同一性は未検証。"
+    },
+    "regionBasis": "活動拠点: 本人公式BandcampがLos Angeles, Californiaと明示。出生地やThe Gardenの録音地Brazilを活動地域の代用にしていない。",
+    "art": {
+      "word": "The Garden",
+      "tag": "CUT CHEMIST",
+      "lines": [
+        "The Garden"
+      ],
+      "style": "tag",
+      "seed": 20261024131,
+      "palette": [
+        "#7d939f",
+        "#efe6d8"
+      ],
+      "paletteSource": "Viewed official catalog cover, approximate editorial palette",
+      "paletteSourceUrl": "https://music.apple.com/us/album/the-audiences-listening/168709805",
+      "paletteNote": "Flat medium-value slate marker ink derived approximately from current catalog blues/greys, lifted for light/dark readability with a minimal warm-ivory hairline. No modeled light, copied cover art or shadow."
+    },
+    "addedOrder": 606,
+    "datePublished": "2026-10-24"
   }
 ]
