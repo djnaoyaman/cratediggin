@@ -12885,6 +12885,47 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "noSiteBranding": true
+    },
+    {
+      "id": "jurassic-5-baby-please",
+      "title": "Baby Please",
+      "artist": "Jurassic 5",
+      "album": "Feedback",
+      "palette": [
+        "#c92d2e",
+        "#e58d2c",
+        "#c2d774",
+        "#f5f1df",
+        "#0c1011"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceURL": "https://music.apple.com/us/album/feedback/1673100965",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          141,
+          67,
+          1863,
+          889
+        ],
+        "outputSha256": "2b318e8d52999b27899efbe22e32660aad0cbd6932091e7488db1d73bc5f5de8",
+        "sourceImage": "assets/graffiti/originals/jurassic-5-baby-please-mass-anchor-v1-original.png",
+        "sourceSha256": "678118b9b22531b406a26ca562ce1d310b26a0872673f3c4c5a1871897203bec"
+      },
+      "paletteNote": "Feedbackのジャケットを参照した赤・黄・緑に、黒白のコントラストを組み合わせた配色。",
+      "concept": "曲名の太い文字と重なり、白い切れ込みと配色の飛沫による構成。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "Editorial visual interpretation; no artist intent or playback verification claim.",
+      "status": "ready",
+      "image": "assets/graffiti/jurassic-5-baby-please-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/jurassic-5-baby-please-mass-anchor-v1-original.png",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
