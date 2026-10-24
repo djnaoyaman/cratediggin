@@ -11926,6 +11926,256 @@
       "status": "ready",
       "image": "assets/graffiti/phat-kat-game-time-start-stroke-alpha.webp",
       "reviewNote": "曲固有の文字構成・透過・文字表記を独立確認したオリジナルアート。解釈の範囲はconceptとinterpretationLimitsに記録。"
+    },
+    {
+      "id": "little-brother-the-listening",
+      "title": "The Listening",
+      "artist": "Little Brother",
+      "album": "The Listening",
+      "palette": [
+        "#817950",
+        "#d7d1b6",
+        "#171e35",
+        "#79502e"
+      ],
+      "paletteSource": "The Listening (Deluxe Edition)",
+      "paletteNote": "Official catalog cover actually viewed for approximate palette; no imagery/layout copied.",
+      "paletteSourceURL": "https://littlebrother.bandcamp.com/album/the-listening-deluxe-edition",
+      "concept": "最後の N から出た細い線を、開いた G の内側が受け止める。発するだけでなく、受け入れる行為として「Listening」を字形に置く自主的な題名解釈。",
+      "interpretationLimits": "Not verified lyric meaning, artist intent or heard sound. No ear/headphone icon or actual audio waveform. The official catalog says 2003; the selected YouTube distribution field says 2002-10-29, which remains a separate unresolved date field rather than replacing originalYear. Selected duration6:08 is not an exact-master comparison.",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "noSiteBranding": true,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          122,
+          70,
+          1612,
+          920
+        ],
+        "outputSha256": "c728fceb3177e9a588588a487dae856927313452c0b0c003f67c7a7eebc6096f",
+        "sourceImage": "assets/graffiti/originals/little-brother-the-listening-receptive-original.png",
+        "sourceSha256": "1fe04573d2c0b4ad596b5783f625f048a162b87f2e8fc4e07b93215b635be7d9"
+      },
+      "originalImage": "assets/graffiti/originals/little-brother-the-listening-receptive-original.png",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "status": "ready",
+      "image": "assets/graffiti/little-brother-the-listening-receptive-sized-v1.webp",
+      "reviewNote": "独立確認済みの曲別文字構成。元描画を保ち可視alpha境界からcanvas余白のみ正規化。"
+    },
+    {
+      "id": "sean-price-heartburn",
+      "title": "Heartburn",
+      "artist": "Sean Price",
+      "album": "Monkey Barz",
+      "palette": [
+        "#bd224d",
+        "#922665",
+        "#13101a",
+        "#9e9fce"
+      ],
+      "paletteSource": "Monkey Barz official catalog cover",
+      "paletteNote": "Official cover actually viewed; approximate editorial palette only. No cover figures, image, typography or layout reused.",
+      "paletteSourceURL": "https://music.apple.com/us/album/monkey-barz/355812879",
+      "concept": "中央の T と B の外輪郭を切らず、その字画の内側だけに灼けた細い溝を置く。「内部から灼ける」という題名の編集解釈。",
+      "interpretationLimits": "Authored title-led visual interpretation, not verified lyrics, artist intention, a medical depiction or heard sound. The selected standalone Heartburn upload is not the combined Onion Head / Heartburn music video. Original year 2005 is retained; conflicting exact release dates across editions are not resolved. Source identity derives from the supplied search-worker metadata; creator did not play or independently re-search the video.",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "noSiteBranding": true,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          123,
+          71,
+          1629,
+          933
+        ],
+        "outputSha256": "b384213025d05b1fef5eb2d44a256337ed7cf402993d974225782d1e110ab075",
+        "sourceImage": "assets/graffiti/originals/sean-price-heartburn-inner-scorch.png",
+        "sourceSha256": "68725208921b2d1819d77ccf5afc5e030308b7f2c065ae244dd8708979ef8065",
+        "pixelsRescaled": false,
+        "visiblePixelsPreserved": true
+      },
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "status": "ready",
+      "image": "assets/graffiti/sean-price-heartburn-inner-scorch-sized-v1.webp",
+      "reviewNote": "独立確認済みの曲別文字構成。元描画を保ち可視alpha境界からcanvas余白のみ正規化。"
+    },
+    {
+      "id": "murs-9th-wonder-no-shots",
+      "title": "No Shots",
+      "artist": "Murs & 9th Wonder",
+      "album": "Brighter Daze",
+      "palette": [
+        "#dededb",
+        "#17191a",
+        "#272e49",
+        "#737782",
+        "#e44450"
+      ],
+      "paletteSource": "Brighter Daze",
+      "paletteNote": "Official catalog cover actually viewed for approximate palette; no imagery/layout copied.",
+      "paletteSourceURL": "https://soundcloud.com/jamlarecords/murs-9th-wonder-no-shots-ft-mac-miller-vinny-radio-franchise-and-choo-jackson",
+      "concept": "SHOTS の両端の S の尖った先端を外へ放たず、字の内側へ折り返す。NO はその上で動かさず、外向きの身振りを留めるという自主的な題名解釈。",
+      "interpretationLimits": "Not verified lyric meaning, a pacifist message, artist intent, heard sound or a literal weapon/alcohol interpretation. All four guests retained. Selected YouTube upload is explicitly third-party/unofficial; original Jamla label audio dated2015-12-31 remains primary identity evidence. Do not assign 2019 reissue/video provenance to this song. Producer is not independently asserted by this packet.",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "noSiteBranding": true,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          115,
+          82,
+          1527,
+          1082
+        ],
+        "outputSha256": "901c49a5071e260209619242c9d6b45aa0176081a10492c23598e8a10441474e",
+        "sourceImage": "assets/graffiti/originals/murs-9th-wonder-no-shots-restrained-original.png",
+        "sourceSha256": "680e0cb44b5a5595481a6cb529b310bb232e74de484f05bbfb3a2794e62121b8"
+      },
+      "originalImage": "assets/graffiti/originals/murs-9th-wonder-no-shots-restrained-original.png",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "status": "ready",
+      "image": "assets/graffiti/murs-9th-wonder-no-shots-restrained-sized-v1.webp",
+      "reviewNote": "独立確認済みの曲別文字構成。元描画を保ち可視alpha境界からcanvas余白のみ正規化。"
+    },
+    {
+      "id": "problem-top-off",
+      "title": "Top Off",
+      "artist": "Problem",
+      "album": "Selfish",
+      "palette": [
+        "#070707",
+        "#424242",
+        "#909090",
+        "#eeeeee"
+      ],
+      "paletteSource": "Selfish",
+      "paletteNote": "Approximate editorial palette only; no portrait, composition or cover typography copied.",
+      "paletteSourceURL": "https://music.apple.com/gb/song/1288222126",
+      "concept": "TOP の O から上面を少し持ち上げ、対応する受け口と透明な隙間を見せる。OFF の O は閉じたままにし、上が外れた状態を一つの字だけで示す。",
+      "interpretationLimits": "No car/MV scene, lyric meaning, artist intent, heard sound or exact master equivalence asserted. Problem retained as requested historical artist name; JasonMartin is recorded as current catalog alias. Producer unverified. Source UI metadata is not playback verification.",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "noSiteBranding": true,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          117,
+          80,
+          1543,
+          1060
+        ],
+        "outputSha256": "a9b3a3f7005221e7e6e3866568fac2eb9d137e5f997199101264db173331e5ca",
+        "sourceImage": "assets/graffiti/originals/problem-top-off-lifted-cap-original.png",
+        "sourceSha256": "f6c18c75db65c91cad6a3f4c78300911030d8adb99c3d79f1155eb5c92e7d673"
+      },
+      "originalImage": "assets/graffiti/originals/problem-top-off-lifted-cap-original.png",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "status": "ready",
+      "image": "assets/graffiti/problem-top-off-lifted-cap-sized-v1.webp",
+      "reviewNote": "独立確認済みの曲別文字構成。元描画を保ち可視alpha境界からcanvas余白のみ正規化。"
+    },
+    {
+      "id": "king-magnetic-under-pressure",
+      "title": "Under Pressure",
+      "artist": "King Magnetic",
+      "album": "Timing Is Everything",
+      "palette": [
+        "#191a19",
+        "#413a32",
+        "#727676",
+        "#bfc8c7",
+        "#e3dfd5"
+      ],
+      "paletteSource": "Timing Is Everything",
+      "paletteNote": "Official catalog cover actually viewed for approximate palette; no imagery/layout copied.",
+      "paletteSourceURL": "https://kingmagnetic.bandcamp.com/album/timing-is-everything-2",
+      "concept": "厚い字面の内部を横切る割れを、圧力の痕跡として読む。題名に沿った既存の文字構造を再利用し、強さの象徴や爆発を新たに足さない自主的な編集解釈。",
+      "interpretationLimits": "Existing artwork reused without redraw. Cracks are an editorial title interpretation, not verified lyric meaning, a physical stress simulation, artist intent or heard sound.2014 single publication and2015 album release are distinct. Selected3:16 YouTube upload and3:07 album length are not certified the same master. Channel is probable artist channel, no badge observed; do not upgrade to verified official.",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "noSiteBranding": true,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          120,
+          81,
+          1583,
+          1068
+        ],
+        "outputSha256": "cf7a024767f16d6e7d1a685227531d3701c15002e5e66f6870347e0cf636c74a",
+        "sourceImage": "assets/graffiti/originals/king-magnetic-under-pressure-reused-original.png",
+        "sourceSha256": "1565995125e8c9df9e1c6ef917bd8c8284eecbc0df336c45ec0edd3fff52e15f"
+      },
+      "originalImage": "assets/graffiti/originals/king-magnetic-under-pressure-reused-original.png",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "status": "ready",
+      "image": "assets/graffiti/king-magnetic-under-pressure-reused-sized-v1.webp",
+      "reviewNote": "独立確認済みの曲別文字構成。元描画を保ち可視alpha境界からcanvas余白のみ正規化。"
+    },
+    {
+      "id": "9th-wonder-buckshot-here-we-go",
+      "title": "Here We Go",
+      "artist": "9th Wonder & Buckshot",
+      "album": "The Formula",
+      "palette": [
+        "#164a30",
+        "#c5d8a2",
+        "#f0f2e0",
+        "#7b8d49",
+        "#17251b"
+      ],
+      "paletteSource": "The Formula",
+      "paletteNote": "Actual official catalog cover viewed; editorial approximate colors only. Existing art reused without redraw.",
+      "paletteSourceURL": "https://music.apple.com/us/album/the-formula/370711405",
+      "concept": "HERE 末尾 E の右下への長い払いと、WE 末尾 E の右への払いから、右側の GO へ視線を渡す。出発の向きを既存の字形と配置に読む、題名由来の自主的な編集解釈。",
+      "interpretationLimits": "Existing artwork reused without redraw. This is explicitly authored title-led interpretation, not verified lyrics, artist intent or heard sound. The two directional terminals need not touch GO; no single continuous path is asserted. Selected third-party video rTqU7jpskTg matches artist/title/The Formula track10 in prior indexed metadata; official status remains unknown despite the channel name containing Official. The indexed4:51 is a catalog description, not newly measured playback. Original year2008 is retained; Apple2008-04-22 versus uploader2008-04-15 and catalog duration differences are unresolved, not silently normalized. No exact master, clean/explicit, Japan or embed verification.",
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "transparent": true,
+      "noSiteBranding": true,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          120,
+          76,
+          1588,
+          1007
+        ],
+        "outputSha256": "44503b27ce8a95afac9422c1bc55a2b5f91fc03b916e2b8067b33b597738eba3",
+        "sourceImage": "assets/graffiti/originals/9th-wonder-buckshot-here-we-go-reused-original.png",
+        "sourceSha256": "8ed00180636f3d049a2c8a684b9f1af6e9624f73a9dbe6a5000e86ecebdda54e"
+      },
+      "originalImage": "assets/graffiti/originals/9th-wonder-buckshot-here-we-go-reused-original.png",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "status": "ready",
+      "image": "assets/graffiti/9th-wonder-buckshot-here-we-go-reused-sized-v1.webp",
+      "reviewNote": "独立確認済みの曲別文字構成。元描画を保ち可視alpha境界からcanvas余白のみ正規化。"
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

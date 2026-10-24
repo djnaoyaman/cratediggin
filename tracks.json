@@ -76333,5 +76333,745 @@
     },
     "addedOrder": 589,
     "datePublished": "2026-10-24"
+  },
+  {
+    "id": "little-brother-the-listening",
+    "title": "The Listening",
+    "artist": "Little Brother",
+    "primaryArtist": "Little Brother",
+    "primaryArtists": [
+      "Little Brother"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Little Brother"
+    ],
+    "year": 2003,
+    "album": "The Listening",
+    "category": "Hip Hop",
+    "region": "Durham, North Carolina",
+    "scene": "",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "label": "ABB Records",
+    "yearBasis": "公式artist catalogの原作年2003を採用。選択YouTubeのReleased on2002-10-29は不一致の配信欄として区別し、初出年に置換しない。",
+    "essayTitle": "曲名の下に残る、もう二人の名前",
+    "deck": "アルバムの表題曲を曲別クレジットまで追うと、ChaundonとMedianの名前が見つかる。",
+    "context": "曲別のクレジットと発表時の資料からたどる",
+    "essay": [
+      "Little Brotherのデビュー作と同じ名前を持つ「The Listening」。2003年の一曲を公式の曲別ページでたどると、追加ヴォーカルにChaundon、Median、Little Brotherが記されている。大きく掲げられたグループ名だけでは見落としやすい、小さなクレジットだ。",
+      "制作は9th Wonder。公式Deluxe Editionでは6分7秒の本曲とインストゥルメンタルを別々に収録している。曲名だけで見つけた一曲を、アルバムの曲順と追加ヴォーカルの名前まで広げて確かめたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Little Brother — The Listening 公式曲別クレジット",
+        "url": "https://littlebrother.bandcamp.com/track/the-listening",
+        "kind": "アーティスト公式",
+        "evidence": "2003 release; additional vocals credited to Chaundon, Median and Little Brother."
+      },
+      {
+        "label": "Little Brother — The Listening Deluxe Edition",
+        "url": "https://littlebrother.bandcamp.com/album/the-listening-deluxe-edition",
+        "kind": "アーティスト公式",
+        "evidence": "Debut album originally2003; track18 The Listening6:07; bonus/instrumental collection; Durham profile."
+      },
+      {
+        "label": "Qobuz — The Listening 曲別制作クレジット",
+        "url": "https://www.qobuz.com/ie-en/album/the-listening-little-brother/wzpmhjykmri5b",
+        "kind": "正規配信カタログ（保存済み検索資料）",
+        "evidence": "Saved track18 credits explicitly list9th Wonder as Producer."
+      },
+      {
+        "label": "Little Brother - Topic — The Listening",
+        "url": "https://www.youtube.com/watch?v=cZ3XLtu2-ws",
+        "kind": "動画メタデータ（検索画面の確認記録）",
+        "evidence": "Little Brother - Topicの単曲投稿。IIP-DDS配信・ABB表記。Released on欄は2002-10-29で、公式artist catalogの原作年2003とは不一致。"
+      }
+    ],
+    "youtube": {
+      "id": "cZ3XLtu2-ws",
+      "url": "https://www.youtube.com/watch?v=cZ3XLtu2-ws",
+      "embedUrl": "https://www.youtube.com/embed/cZ3XLtu2-ws",
+      "title": "The Listening",
+      "channel": "Little Brother - Topic",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "duration": "6:08",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "Little Brother - Topicの単曲投稿。IIP-DDS配信・ABB表記。Released on欄は2002-10-29で、公式artist catalogの原作年2003とは不一致。 検索画面のメタデータ照合であり、実再生や同一マスターの確認ではありません。"
+    },
+    "listening": [],
+    "facts": [
+      {
+        "title": "原作年と配信欄の日付",
+        "text": "公式カタログは2003年。選択動画の配信情報には2002年10月29日とあり、この差の理由は未確認。動画の6分8秒表示も、公式カタログの6分7秒とのマスター同一性を保証しない。",
+        "sources": [
+          0,
+          1,
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "The Listening",
+      "tag": "LITTLE BROTHER",
+      "lines": [
+        "The Listening"
+      ],
+      "style": "piece",
+      "seed": 2026102480,
+      "palette": [
+        "#817950",
+        "#d7d1b6",
+        "#171e35",
+        "#79502e"
+      ],
+      "paletteSource": "The Listening (Deluxe Edition)",
+      "paletteSourceUrl": "https://littlebrother.bandcamp.com/album/the-listening-deluxe-edition",
+      "paletteNote": "Official catalog cover actually viewed for approximate palette; no imagery/layout copied."
+    },
+    "addedOrder": 590,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "sean-price-heartburn",
+    "title": "Heartburn",
+    "artist": "Sean Price",
+    "primaryArtist": "Sean Price",
+    "primaryArtists": [
+      "Sean Price"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "Sean Price"
+    ],
+    "year": 2005,
+    "album": "Monkey Barz",
+    "category": "Hip Hop",
+    "region": "",
+    "scene": "",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "label": "Duck Down Music",
+    "yearBasis": "Monkey Barz原作年2005。Apple5月22日・選択配信欄11月22日などの日付差は未解決のため、初出の月日は断定しない。",
+    "essayTitle": "取っておいたビート",
+    "deck": "『Monkey Barz』の「Heartburn」を、単曲の公式配信から。",
+    "context": "曲別のクレジットと発表時の資料からたどる",
+    "essay": [
+      "『Monkey Barz』（2005年）に収められた「Heartburn」。Sean Price本人は、9th Wonderがこの曲のビートを取り置きしてくれたと回想している。",
+      "Duck Downの公式MVでは「Onion Head」と二曲をまとめた形でも紹介されている。ここで選んだのは、その映像とは別の「Heartburn」単曲の公式配信。タイトルが同じでも、単曲音源と二曲構成のMVは分けて辿りたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Apple Music — Monkey Barz",
+        "url": "https://music.apple.com/us/album/monkey-barz/355812879",
+        "kind": "正規配信カタログ",
+        "evidence": "Album2005; Duck Down Music; exact first day differs across catalog editions."
+      },
+      {
+        "label": "Complex — Sean Price本人の楽曲回顧",
+        "url": "https://www.complex.com/music/a/insanul-ahmed/sean-price-25-essentials",
+        "kind": "本人インタビュー（2011年）",
+        "evidence": "Heartburn section."
+      },
+      {
+        "label": "Sean Price - Topic — Heartburn",
+        "url": "https://www.youtube.com/watch?v=-S4f2l5oP8M",
+        "kind": "動画メタデータ（検索画面の確認記録）",
+        "evidence": "Sean Price - Topicの4:03単曲配信。Virgin Music Group、Monkey Barz、Duck Down Musicの表記を照合。二曲構成MVとは別。"
+      },
+      {
+        "label": "Duck Down Music — Onion Head / Heartburn 公式MV",
+        "url": "https://www.youtube.com/watch?v=NEWVam8XuaA",
+        "kind": "レーベル公式動画の保存済み検索記録",
+        "evidence": "Two-song music video, not selected standalone audio; prior metadata2007-06-08."
+      }
+    ],
+    "youtube": {
+      "id": "-S4f2l5oP8M",
+      "url": "https://www.youtube.com/watch?v=-S4f2l5oP8M",
+      "embedUrl": "https://www.youtube.com/embed/-S4f2l5oP8M",
+      "title": "Heartburn",
+      "channel": "Sean Price - Topic",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "duration": "4:03",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "Sean Price - Topicの4:03単曲配信。Virgin Music Group、Monkey Barz、Duck Down Musicの表記を照合。二曲構成MVとは別。 検索画面のメタデータ照合であり、実再生や同一マスターの確認ではありません。"
+    },
+    "listening": [],
+    "facts": [
+      {
+        "title": "日付は年までに留める",
+        "text": "原作年は2005年で一致するが、配信版によって月日が異なる。後年のMV公開日も原作の発売日とは分けている。",
+        "sources": [
+          0,
+          2,
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "Heartburn",
+      "tag": "SEAN PRICE",
+      "lines": [
+        "Heartburn"
+      ],
+      "style": "piece",
+      "seed": 2026102481,
+      "palette": [
+        "#bd224d",
+        "#922665",
+        "#13101a",
+        "#9e9fce"
+      ],
+      "paletteSource": "Monkey Barz official catalog cover",
+      "paletteSourceUrl": "https://music.apple.com/us/album/monkey-barz/355812879",
+      "paletteNote": "Official cover actually viewed; approximate editorial palette only. No cover figures, image, typography or layout reused."
+    },
+    "addedOrder": 591,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "murs-9th-wonder-no-shots",
+    "title": "No Shots",
+    "artist": "Murs & 9th Wonder",
+    "primaryArtist": "Murs",
+    "primaryArtists": [
+      "Murs",
+      "9th Wonder"
+    ],
+    "featuredArtists": [
+      "Mac Miller",
+      "Vinny Radio",
+      "Franchise",
+      "Choo Jackson"
+    ],
+    "artists": [
+      "Murs",
+      "9th Wonder",
+      "Mac Miller",
+      "Vinny Radio",
+      "Franchise",
+      "Choo Jackson"
+    ],
+    "year": 2015,
+    "album": "Brighter Daze",
+    "category": "Hip Hop",
+    "region": "",
+    "scene": "",
+    "producer": null,
+    "producers": [],
+    "label": "未確認",
+    "yearBasis": "公式Jamla公開2015-12-31を採用。選択された第三者動画の2019-04-03アップロードを原曲年・公式再発年としない。",
+    "essayTitle": "大晦日の公開ページに並ぶ四人",
+    "deck": "2015年の終わりにJamlaが公開した、四人の客演名が並ぶ「No Shots」。",
+    "context": "曲別のクレジットと発表時の資料からたどる",
+    "essay": [
+      "「No Shots」の出発点を探すなら、2015年12月31日のJamla公式公開ページへ。『Brighter Daze』の名とともに、Mac Miller、Vinny Radio、Franchise、Choo Jacksonの四人が記されている。Mac Millerの名前だけで覚えていたとしても、残る三人まで辿れる一曲だ。",
+      "紹介するYouTubeはEmiel Heymanによる第三者投稿で、公式公開ではない。曲名と四人の客演表記を照合して選んだもので、発表年と参加者の確認には元のJamla資料を使っている。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Jamla Records — No Shots 公式公開",
+        "url": "https://soundcloud.com/jamlarecords/murs-9th-wonder-no-shots-ft-mac-miller-vinny-radio-franchise-and-choo-jackson",
+        "kind": "レーベル公式",
+        "evidence": "Published2015-12-31T15:10:18Z; Brighter Daze; Mac Miller, Vinny Radio, Franchise and Choo Jackson all credited."
+      },
+      {
+        "label": "Emiel Heyman — No Shots",
+        "url": "https://www.youtube.com/watch?v=y4XnqZMpqKg",
+        "kind": "動画メタデータ（検索画面の確認記録）",
+        "evidence": "Emiel Heymanの第三者投稿。Murs & 9th Wonderの曲名と4人全員の客演表記が一致し、投稿者は権利非所有を明記。公式投稿とは扱わない。"
+      }
+    ],
+    "youtube": {
+      "id": "y4XnqZMpqKg",
+      "url": "https://www.youtube.com/watch?v=y4XnqZMpqKg",
+      "embedUrl": "https://www.youtube.com/embed/y4XnqZMpqKg",
+      "title": "No Shots",
+      "channel": "Emiel Heyman",
+      "type": "第三者投稿",
+      "official": false,
+      "officialStatus": "unofficial",
+      "duration": "5:38",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "Emiel Heymanの第三者投稿。Murs & 9th Wonderの曲名と4人全員の客演表記が一致し、投稿者は権利非所有を明記。公式投稿とは扱わない。 検索画面のメタデータ照合であり、実再生や同一マスターの確認ではありません。"
+    },
+    "listening": [],
+    "facts": [
+      {
+        "title": "原曲年と動画の投稿年",
+        "text": "2015年末のJamla公開と、2019年の選択YouTube投稿を区別している。後者の日付は、この曲の初出年ではない。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "No Shots",
+      "tag": "MURS & 9TH WONDER",
+      "lines": [
+        "No Shots"
+      ],
+      "style": "piece",
+      "seed": 2026102482,
+      "palette": [
+        "#dededb",
+        "#17191a",
+        "#272e49",
+        "#737782",
+        "#e44450"
+      ],
+      "paletteSource": "Brighter Daze",
+      "paletteSourceUrl": "https://soundcloud.com/jamlarecords/murs-9th-wonder-no-shots-ft-mac-miller-vinny-radio-franchise-and-choo-jackson",
+      "paletteNote": "Official catalog cover actually viewed for approximate palette; no imagery/layout copied."
+    },
+    "producerBasis": "共同アーティスト表記だけから曲別制作担当を推定せず、今回は未確定として省略。",
+    "addedOrder": 592,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "problem-top-off",
+    "title": "Top Off",
+    "artist": "Problem",
+    "primaryArtist": "Problem",
+    "primaryArtists": [
+      "Problem"
+    ],
+    "featuredArtists": [
+      "Airplane James"
+    ],
+    "artists": [
+      "Problem",
+      "Airplane James"
+    ],
+    "year": 2017,
+    "album": "Selfish",
+    "category": "Hip Hop",
+    "region": "",
+    "scene": "",
+    "producer": null,
+    "producers": [],
+    "label": "Diamond Lane Music",
+    "yearBasis": "Selfishの2017年catalogと選択音源の2017Diamond Lane metadataを採用。後年のupload日を初出日にしない。",
+    "essayTitle": "Problemから探して、JasonMartinで見つかる",
+    "deck": "「Top Off」はAirplane Jamesを迎えた2017年の曲。配信ページではJasonMartinの名でも見つかる。",
+    "context": "曲別のクレジットと発表時の資料からたどる",
+    "essay": [
+      "Problemの『Selfish』（2017年）から、Airplane Jamesを迎えた「Top Off」。いまApple Musicの同曲ページを開くと、アーティスト名はJasonMartinと表示される。選択した公式配信のチャンネルにも、JasonMartinとProblemの両方の名前が並ぶ。",
+      "過去の名義で覚えている曲が、現在の配信表記では見つけにくいことがある。この曲なら「Selfish」とAirplane Jamesの客演名が目印になる。Problemの名前を入口に、同じ作品へ戻る手がかりとして残しておきたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Apple Music — Top Off feat. Airplane James",
+        "url": "https://music.apple.com/gb/song/top-off-feat-airplane-james/1288222126",
+        "kind": "正規配信カタログ",
+        "evidence": "Selfish; current catalog artistJasonMartin; Airplane James; November3,2017."
+      },
+      {
+        "label": "JasonMartin / Problem - Topic — Top Off",
+        "url": "https://www.youtube.com/watch?v=NnYSzem17Uk",
+        "kind": "動画メタデータ（検索画面の確認記録）",
+        "evidence": "JasonMartin / Problem - Topic、公式artist badge、EMPIRE Distribution配信を確認。Problem、Airplane James、Selfish、2017 Diamond Lane Musicの表記が一致。"
+      }
+    ],
+    "youtube": {
+      "id": "NnYSzem17Uk",
+      "url": "https://www.youtube.com/watch?v=NnYSzem17Uk",
+      "embedUrl": "https://www.youtube.com/embed/NnYSzem17Uk",
+      "title": "Top Off",
+      "channel": "JasonMartin / Problem - Topic",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "duration": "3:46",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "JasonMartin / Problem - Topic、公式artist badge、EMPIRE Distribution配信を確認。Problem、Airplane James、Selfish、2017 Diamond Lane Musicの表記が一致。 検索画面のメタデータ照合であり、実再生や同一マスターの確認ではありません。"
+    },
+    "listening": [],
+    "facts": [
+      {
+        "title": "選んだのは配信音源",
+        "text": "EMPIRE配信のSelfish収録音源を選択。3分46秒は動画の表示尺で、原盤やDJミックスとの同一マスターを確認したものではない。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "Top Off",
+      "tag": "PROBLEM",
+      "lines": [
+        "Top Off"
+      ],
+      "style": "piece",
+      "seed": 2026102483,
+      "palette": [
+        "#070707",
+        "#424242",
+        "#909090",
+        "#eeeeee"
+      ],
+      "paletteSource": "Selfish",
+      "paletteSourceUrl": "https://music.apple.com/gb/song/1288222126",
+      "paletteNote": "Approximate editorial palette only; no portrait, composition or cover typography copied."
+    },
+    "artistAliases": [
+      "JasonMartin"
+    ],
+    "producerBasis": "今回の確認資料では曲別producerの明示が未確定。作曲者名や選曲テーマから補完しない。",
+    "addedOrder": 593,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "king-magnetic-under-pressure",
+    "title": "Under Pressure",
+    "artist": "King Magnetic",
+    "primaryArtist": "King Magnetic",
+    "primaryArtists": [
+      "King Magnetic"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "King Magnetic"
+    ],
+    "year": 2014,
+    "album": "Timing Is Everything",
+    "category": "Hip Hop",
+    "region": "Allentown, Pennsylvania",
+    "scene": "",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "label": "未確認",
+    "yearBasis": "公式SoundCloudでの先行公開2014年を採用。Timing Is Everythingのアルバム発売2015-07-10とは分ける。",
+    "essayTitle": "アルバムより先に残った2014年の一曲",
+    "deck": "2014年の先行公開から、翌年の『Timing Is Everything』へ。",
+    "context": "曲別のクレジットと発表時の資料からたどる",
+    "essay": [
+      "『Timing Is Everything』では2015年の曲として出会う「Under Pressure」だが、本人の公式SoundCloudには2014年10月28日の公開記録が残る。アルバムでは三曲目。年表を少し遡ると、作品にまとまる前の一曲として辿れる。",
+      "制作は9th Wonder、ミックスはKhrysis。公式先行公開の説明は、ミックス場所をRaleighのBright Lady Studiosと記している。AllentownのKing Magneticから、ノースカロライナでの制作へとつながる具体的な接点だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "sources": [
+      {
+        "label": "King Magnetic — Under Pressure 公式先行公開",
+        "url": "https://soundcloud.com/kingmagnetic/king-magnetic-under-pressure-beat-by-9th-wonder",
+        "kind": "アーティスト公式の保存済み検索資料",
+        "evidence": "Original publication2014-10-28T23:39:06Z; produced9th Wonder; mixedKhrysis at Bright Lady Studios,Raleigh,NC."
+      },
+      {
+        "label": "King Magnetic — Timing Is Everything",
+        "url": "https://kingmagnetic.bandcamp.com/album/timing-is-everything-2",
+        "kind": "アーティスト公式",
+        "evidence": "Album2015-07-10; track3 Under Pressure3:07; track-specific9th Wonder credit; Allentown profile."
+      },
+      {
+        "label": "KingMagnetic — Under Pressure",
+        "url": "https://www.youtube.com/watch?v=hM-CVNrO8zI",
+        "kind": "動画メタデータ（検索画面の確認記録）",
+        "evidence": "KingMagnetic名義の3:16投稿。artist album playlistにkingmagnetic.comへのリンク。本人チャンネルとみられるがbadgeは未確認で、公式性は未確証。"
+      }
+    ],
+    "youtube": {
+      "id": "hM-CVNrO8zI",
+      "url": "https://www.youtube.com/watch?v=hM-CVNrO8zI",
+      "embedUrl": "https://www.youtube.com/embed/hM-CVNrO8zI",
+      "title": "Under Pressure",
+      "channel": "KingMagnetic",
+      "type": "アーティスト本人とみられるチャンネルの投稿",
+      "official": null,
+      "officialStatus": "probable_artist_channel",
+      "duration": "3:16",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "KingMagnetic名義の3:16投稿。artist album playlistにkingmagnetic.comへのリンク。本人チャンネルとみられるがbadgeは未確認で、公式性は未確証。 検索画面のメタデータ照合であり、実再生や同一マスターの確認ではありません。"
+    },
+    "listening": [],
+    "facts": [
+      {
+        "title": "動画の位置づけ",
+        "text": "選択投稿のKingMagneticチャンネルは本人とみられるが、公式認証は未確証。動画の3分16秒と公式アルバムの3分7秒の差を含め、編集・マスターの一致は確認していない。",
+        "sources": [
+          1,
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "Under Pressure",
+      "tag": "KING MAGNETIC",
+      "lines": [
+        "Under Pressure"
+      ],
+      "style": "piece",
+      "seed": 2026102484,
+      "palette": [
+        "#191a19",
+        "#413a32",
+        "#727676",
+        "#bfc8c7",
+        "#e3dfd5"
+      ],
+      "paletteSource": "Timing Is Everything",
+      "paletteSourceUrl": "https://kingmagnetic.bandcamp.com/album/timing-is-everything-2",
+      "paletteNote": "Official catalog cover actually viewed for approximate palette; no imagery/layout copied."
+    },
+    "yearQualifier": "先行公開",
+    "yearDisplayNote": "2014年に公式先行公開、2015年のTiming Is Everythingに収録。",
+    "addedOrder": 594,
+    "datePublished": "2026-10-24"
+  },
+  {
+    "id": "9th-wonder-buckshot-here-we-go",
+    "title": "Here We Go",
+    "artist": "9th Wonder & Buckshot",
+    "primaryArtist": "9th Wonder",
+    "primaryArtists": [
+      "9th Wonder",
+      "Buckshot"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "9th Wonder",
+      "Buckshot"
+    ],
+    "year": 2008,
+    "album": "The Formula",
+    "category": "Hip Hop",
+    "region": "",
+    "scene": "",
+    "producer": "9th Wonder",
+    "producers": [
+      "9th Wonder"
+    ],
+    "producerBasis": "Existing primary artist interview on The Formula production; no writer-to-producer inference.",
+    "label": "Duck Down Music",
+    "yearBasis": "公式catalogの原作年2008を採用。Apple4月22日と投稿説明4月15日の差は未解決で、原作の月日は確定しない。",
+    "essayTitle": "十曲目から、共同作をたどる",
+    "deck": "『The Formula』（2008年）の十曲目。作り手の回想を手がかりに、アルバムの中の一曲へ。",
+    "context": "本人の制作回顧とアルバム曲目からたどる",
+    "essay": [
+      "9th WonderとBuckshotの『The Formula』（2008年）に収められた「Here We Go」は、曲目の十曲目。9th Wonder本人は、後年のインタビューでこの曲のMVを作りたかったと振り返っている。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "sources": [
+      {
+        "label": "Apple Music — Here We Go",
+        "url": "https://music.apple.com/us/song/here-we-go/370711464",
+        "kind": "正規配信カタログ",
+        "evidence": "9th Wonder & Buckshot / The Formula / April22,2008. Current ordinary page opened2026-10-24."
+      },
+      {
+        "label": "Qobuz — The Formula 曲目",
+        "url": "https://www.qobuz.com/us-en/album/the-formula-9th-wonder-buckshot/qy3fzbxkrb7wb",
+        "kind": "正規配信カタログ（保存済み検索資料）",
+        "evidence": "Saved exact album list: track10 Here We Go4:49,2008DuckDown; do not infer producer from writer role."
+      },
+      {
+        "label": "Complex — 9th Wonder本人の制作回顧",
+        "url": "https://www.complex.com/music/a/jaeki-cho/interview-9th-wonder",
+        "kind": "本人インタビュー（2011年）",
+        "evidence": "The Formula section."
+      },
+      {
+        "label": "Real Hip Hop Lives! — Here We Go 参考投稿",
+        "url": "https://www.youtube.com/watch?v=rTqU7jpskTg",
+        "kind": "保存済み動画検索メタデータ・再発見リンク",
+        "evidence": "Saved exact artist/title description identifies The Formula,track10,4:51,2008DuckDown. Same link resurfaced in2026-10-24 search; current title not re-read. Official in channel name is not rights-holder affiliation proof."
+      }
+    ],
+    "youtube": {
+      "id": "rTqU7jpskTg",
+      "url": "https://www.youtube.com/watch?v=rTqU7jpskTg",
+      "embedUrl": "https://www.youtube.com/embed/rTqU7jpskTg",
+      "title": "Here We Go",
+      "channel": "Real Hip Hop Lives! (The Official Hip Hop Channel)",
+      "type": "参考投稿（公式性未確証）",
+      "official": null,
+      "officialStatus": "unknown",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "保存済み検索資料で曲名・アーティスト・The Formula・十曲目の表記が一致。2026年10月24日の検索でも同じリンクを再発見した。現行の題名表示・実再生・同一マスターを再確認したものではない。4分51秒は投稿説明の曲目情報であり、実動画の測定尺としては扱わない。"
+    },
+    "listening": [],
+    "facts": [
+      {
+        "title": "公式という語と投稿者の立場",
+        "text": "投稿チャンネル名にはOfficialとあるが、それだけではアーティストやレーベルとの関係は確定しない。曲の表記が一致する参考投稿として選び、公式音源とは区別している。",
+        "sources": [
+          3
+        ]
+      },
+      {
+        "title": "年と尺の扱い",
+        "text": "原作年は2008年。公式catalogと投稿文では発売日や尺の記載が異なるため、月日やマスターの一致を推測で補わない。",
+        "sources": [
+          0,
+          1,
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "art": {
+      "word": "Here We Go",
+      "tag": "9TH WONDER & BUCKSHOT",
+      "lines": [
+        "Here We Go"
+      ],
+      "style": "piece",
+      "seed": 2026102485,
+      "palette": [
+        "#164a30",
+        "#c5d8a2",
+        "#f0f2e0",
+        "#7b8d49",
+        "#17251b"
+      ],
+      "paletteSource": "The Formula",
+      "paletteSourceUrl": "https://music.apple.com/us/album/the-formula/370711405",
+      "paletteNote": "Actual official catalog cover viewed; editorial approximate colors only. Existing art reused without redraw."
+    },
+    "addedOrder": 595,
+    "datePublished": "2026-10-24"
   }
 ]
