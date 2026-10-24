@@ -43,7 +43,7 @@ def validate_profile(root=ROOT):
     assert '<title>'+payload['page']['title']+'</title>' in page
     script=(dist/'app.js').read_text(encoding='utf-8')
     assert '{{EDITOR_PROFILE}}' not in script
-    assert "'/editor-profile.json'" in script
+    assert "new URL('editor-profile.json',new URL(routeURL('#/editor'),location.origin))" in script
     assert authored['blocks'][2]['text'] not in script, 'Biography must not be embedded in shared app.js'
     print('Native author text, links, images, independent payload and SEO PASS')
 

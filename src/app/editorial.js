@@ -21,13 +21,14 @@
   const canonical=document.querySelector('link[rel="canonical"]');if(canonical)canonical.href=page.url;
   for(const [selector,value] of [['meta[name="description"]',page.description],['meta[property="og:title"]',page.title],['meta[name="twitter:title"]',page.title],['meta[property="og:description"]',page.description],['meta[name="twitter:description"]',page.description],['meta[property="og:url"]',page.url]]){const tag=document.querySelector(selector);if(tag)tag.content=value;}
   if(window.CRATE_PAGES?.['#/editor'])Object.assign(window.CRATE_PAGES['#/editor'],page);
-  if(page.jsonld)setStructuredData(page.jsonld,'#/editor');
+  if(page.jsonld){metadataRequest++;metadataCache.set('#/editor',page.jsonld);setStructuredData(page.jsonld,'#/editor');}
  }
  function editor(){
   const request=++editorRequest,initial=document.getElementById('editor-profile-metadata');
   if(view.querySelector('.editor-profile')){if(initial)queueMicrotask(()=>{if(currentRoute()==='#/editor')syncEditorMetadata(JSON.parse(initial.textContent));});return;}
   view.innerHTML=top('THE PERSON BEHIND THE CRATE')+'<p role="status">プロフィールを読み込んでいます。</p>';
-  fetch(origin+'/editor-profile.json',{cache:'no-cache',credentials:'same-origin'}).then(response=>{if(!response.ok)throw Error('Profile unavailable');return response.json();}).then(profile=>{
+  const profileURL=new URL('editor-profile.json',new URL(routeURL('#/editor'),location.origin));
+  fetch(profileURL,{cache:'no-cache',credentials:'same-origin'}).then(response=>{if(!response.ok)throw Error('Profile unavailable');return response.json();}).then(profile=>{
    if(request!==editorRequest||currentRoute()!=='#/editor')return;
    view.innerHTML=top('THE PERSON BEHIND THE CRATE')+profile.html;syncEditorMetadata(profile.page);
   }).catch(()=>{if(request===editorRequest&&currentRoute()==='#/editor')view.innerHTML=top('THE PERSON BEHIND THE CRATE')+'<p>プロフィールを読み込めませんでした。<a href="'+origin+'/editor.html" data-no-route>プロフィールページを開く</a></p>';});

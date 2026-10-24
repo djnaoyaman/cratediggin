@@ -17,9 +17,16 @@ const expected=source.blocks.filter(b=>b.type!=='h1').map(b=>b.text.replace(/\[(
   for(const image of await page.locator('.editor-profile img').all()){await image.scrollIntoViewIfNeeded();await image.evaluate(i=>i.decode());assert(await image.evaluate(i=>i.naturalWidth>0));}
   await page.locator('.editor-profile').screenshot({path:'/tmp/editor-profile-independent-'+width+'.png'});
   await page.goto(base+'/');let requests=0;page.on('request',r=>{if(r.url().includes('/editor-profile.json'))requests++;});
+  const metadataPath=await page.evaluate(()=>window.CRATE_PAGES['#/editor'].metadataPath);
+  let releaseOldMetadata;
+  await page.route(url=>url.pathname===metadataPath,async route=>{await new Promise(resolve=>releaseOldMetadata=resolve);await route.fulfill({json:{jsonld:{'@context':'https://schema.org','@graph':[{'@type':'ProfilePage',mainEntity:{name:'STALE_PROFILE_PROBE'}}]}}});});
   await page.locator('a[data-nav="editor"]').first().click();await page.locator('.editor-profile').waitFor();
   assert(requests>0,'SPA profile must load its independent payload');
   assert((await page.locator('.editor-profile').innerText()).includes(source.realName));
+  if(releaseOldMetadata){const response=page.waitForResponse(url=>new URL(url.url()).pathname===metadataPath);releaseOldMetadata();await (await response).finished();await page.evaluate(()=>new Promise(resolve=>requestAnimationFrame(()=>requestAnimationFrame(resolve))));}
+  await page.waitForFunction(()=>document.documentElement.dataset.metadataRoute==='#/editor');
+  const graph=await page.locator('script[type="application/ld+json"]').last().textContent();
+  assert(!graph.includes('STALE_PROFILE_PROBE'),'An older shared metadata request must not replace the independent profile');
   await page.locator('a[data-nav="songs"]').first().click();await page.waitForFunction(()=>!document.querySelector('#view .editor-profile'));
   assert.deepEqual(errors,[]);await context.close();
  }
