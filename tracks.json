@@ -80254,5 +80254,119 @@
     },
     "addedOrder": 620,
     "datePublished": "2026-10-25"
+  },
+  {
+    "artist": "People Under the Stairs",
+    "primaryArtist": "People Under the Stairs",
+    "primaryArtists": [
+      "People Under the Stairs"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "People Under the Stairs"
+    ],
+    "category": "Hip Hop",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "曲別Producer役割の一次クレジット未確認。作詞者・グループ名から推測しない。",
+    "label": "Om Records",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-25",
+    "context": "",
+    "id": "people-under-the-stairs-earth-travelers",
+    "title": "Earth Travelers",
+    "year": 2000,
+    "album": "Question in the Form of an Answer",
+    "yearBasis": "公式Bandcamp2000-06-06。2000-05-18掲載のThes One本人インタビューも同作6月6日発売予定と記述。",
+    "essayTitle": "発売翌年のラジオから、約二十四年後の選曲まで",
+    "deck": "2000年の一曲を、離れた時代の二つのDJ記録から辿る。",
+    "essay": [
+      "「Earth Travelers」は、People Under the Stairsの2000年作『Question in the Form of an Answer』に収められた曲。同作の発売前、Thes OneはWestwordの取材で、サンプラーとレコードだけでアルバムを作ったと説明している。機材が変わってもレコードを中心に据える姿勢は、当時の本人の言葉から確認できる。",
+      "2001年2月2日収録のWEFUNK第169回は、Kazi「Down for the Kaz」とRamsey Lewis「Slippin’ into Darkness」の間にこの曲を記録する。さらにDJ Mordecaiの2024年3月16日公開セット「Send It For Cesar!」にも48分25秒で登場。発売直後の番組と約二十四年後のDJセット、二つの時点をつなぐ一曲だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "sources": [
+      {
+        "label": "People Under the Stairs — Earth Travelers 公式カタログ",
+        "url": "https://peopleunderthestairs.bandcamp.com/track/earth-travelers-2",
+        "kind": "公式カタログ",
+        "evidence": "Question in the Form of an Answer、2000-06-06、公式プロフィールLos Angeles。直接HTML保存済み。"
+      },
+      {
+        "label": "Westword — Thes One 本人インタビュー（2000年）",
+        "url": "https://www.westword.com/music/up-with-people-5062691/",
+        "kind": "本人インタビュー",
+        "evidence": "James Mayo、2000-05-18。6/6発売予定と本人のsampler/records制作発言を実読。アルバム全体の制作方針であり当該曲の個別サンプル/producer役割とはしない。"
+      },
+      {
+        "label": "WEFUNK 169 — Professor Groove / DJ Spazmodik",
+        "url": "https://www.wefunkradio.com/show/169",
+        "kind": "番組公式プレイリスト",
+        "evidence": "2001-02-02収録。Kaziの次、Ramsey Lewisの前にEarth Travelers。曲単位担当DJの割当は明示されていないため推測しない。"
+      },
+      {
+        "label": "DJ Mordecai — Send It For Cesar!",
+        "url": "https://serato.com/playlists/mordecai/send-it-for-cesar",
+        "kind": "DJ本人公開プレイリスト",
+        "evidence": "2024-03-16、00:48:25 Earth Travelers。King Kuffの後、We’ll Be Thereの前。音声/つなぎは未聴取。"
+      },
+      {
+        "label": "Earth Travelers — 公式Topic配信メタデータ",
+        "url": "https://www.youtube.com/watch?v=8vNMU5OV0RY",
+        "kind": "公式配信メタデータ",
+        "evidence": "root通常YouTube検索UIで正題/Topic UC2iOJ6K_0ug4lNxMrgns5ww、Virgin Music Group、Question in the Form of an Answer、℗2000、4:35を確認。カタログ4:34と区別。 正規oEmbed直接取得で正題/同Topicchannel一致を確認。"
+      }
+    ],
+    "youtube": {
+      "id": "8vNMU5OV0RY",
+      "url": "https://www.youtube.com/watch?v=8vNMU5OV0RY",
+      "embedUrl": "https://www.youtube.com/embed/8vNMU5OV0RY",
+      "title": "Earth Travelers",
+      "channel": "PEOPLE UNDER THE STAIRS - Topic",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "root通常検索UIのVirgin Music Group公式単曲配信。カタログ4:34と選択動画表示4:35の差あり。DJ使用ファイルとの同一master未照合。",
+      "verified": "2026-10-25"
+    },
+    "art": {
+      "style": "tag",
+      "palette": [
+        "#111111",
+        "#F2EADB",
+        "#38386B",
+        "#77768C",
+        "#D58950"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceUrl": "https://peopleunderthestairs.bandcamp.com/track/earth-travelers-2"
+    },
+    "addedOrder": 621,
+    "datePublished": "2026-10-25"
   }
 ]

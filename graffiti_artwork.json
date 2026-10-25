@@ -13213,6 +13213,47 @@
         "sourceImage": "assets/graffiti/originals/people-under-the-stairs-keepin-it-live-mass-anchor-v1-original.png",
         "sourceSha256": "1e080bd7663c41ff3b5b02f569474f6bad5b2d913e13d4b7004750c92f296013"
       }
+    },
+    {
+      "interpretationLimits": "曲の資料・題名を入口とする字形の編集解釈。作者の視覚意図、試聴、DJ使用盤とのマスター一致は主張しない。",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "id": "people-under-the-stairs-earth-travelers",
+      "title": "Earth Travelers",
+      "artist": "People Under the Stairs",
+      "album": "Question in the Form of an Answer",
+      "palette": [
+        "#111111",
+        "#F2EADB",
+        "#38386B",
+        "#77768C",
+        "#D58950"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceURL": "https://peopleunderthestairs.bandcamp.com/track/earth-travelers-2",
+      "paletteNote": "Question in the Form of an Answerの夕空の藍・灰紫・橙とシルエットの黒、白い題字から近似。夕景そのものは描かない。",
+      "concept": "二段の角張った太字を斜めの共通ストロークで重ねる。時代をまたぐ選曲記録の編集的な見立てで、地球・地図・旅行者の情景にはしない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "image": "assets/graffiti/people-under-the-stairs-earth-travelers-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/people-under-the-stairs-earth-travelers-mass-anchor-v1-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          141,
+          65,
+          1865,
+          857
+        ],
+        "outputSha256": "fbec7b2263738371280532332a32a949e803283372dd3f2c0090c5172162e29d",
+        "sourceImage": "assets/graffiti/originals/people-under-the-stairs-earth-travelers-mass-anchor-v1-original.png",
+        "sourceSha256": "04e752ba4ed010878c78b49523468bd43a06e3661eb2b14bbc97005da2c9dfc2"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
