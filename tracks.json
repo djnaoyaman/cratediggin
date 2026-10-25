@@ -79735,7 +79735,8 @@
       "paletteSource": "Actually viewed official catalog cover; approximate editorial palette"
     },
     "addedOrder": 616,
-    "datePublished": "2026-10-25"
+    "datePublished": "2026-10-25",
+    "yearStatus": "verified"
   },
   {
     "id": "people-under-the-stairs-the-break-down",
@@ -79863,7 +79864,8 @@
       "paletteSource": "Actually viewed official catalog cover; approximate editorial palette"
     },
     "addedOrder": 617,
-    "datePublished": "2026-10-25"
+    "datePublished": "2026-10-25",
+    "yearStatus": "verified"
   },
   {
     "id": "people-under-the-stairs-schooled-in-the-trade-instrumental",
@@ -79976,7 +79978,7 @@
       "People Under the Stairs"
     ],
     "category": "Hip Hop",
-    "label": "未確認",
+    "label": "Om Records",
     "listening": [],
     "facts": [],
     "samples": [],
@@ -80004,7 +80006,11 @@
       "paletteSourceUrl": "https://peopleunderthestairs.bandcamp.com/album/the-om-years"
     },
     "addedOrder": 618,
-    "datePublished": "2026-10-25"
+    "datePublished": "2026-10-25",
+    "labelBasis": "選択した2008年The Om Yearsの公式Bandcampは、Om Recordsのリリースに本作を含むと明記。動画配信代行The Orchardをレーベルと推定したものではない。",
+    "labelSources": [
+      4
+    ]
   },
   {
     "id": "people-under-the-stairs-sunroof-instrumental",
@@ -80115,7 +80121,7 @@
       "People Under the Stairs"
     ],
     "category": "Hip Hop",
-    "label": "未確認",
+    "label": "Om Records",
     "listening": [],
     "facts": [],
     "samples": [],
@@ -80143,7 +80149,11 @@
       "paletteSourceUrl": "https://peopleunderthestairs.bandcamp.com/album/the-om-years"
     },
     "addedOrder": 619,
-    "datePublished": "2026-10-25"
+    "datePublished": "2026-10-25",
+    "labelBasis": "選択した2008年The Om Yearsの公式Bandcampは、Om Recordsのリリースに本作を含むと明記。動画配信代行The Orchardをレーベルと推定したものではない。",
+    "labelSources": [
+      4
+    ]
   },
   {
     "artist": "People Under the Stairs",
@@ -80253,7 +80263,8 @@
       "paletteSourceUrl": "https://peopleunderthestairs.bandcamp.com/track/keepin-it-live-2"
     },
     "addedOrder": 620,
-    "datePublished": "2026-10-25"
+    "datePublished": "2026-10-25",
+    "yearStatus": "verified"
   },
   {
     "artist": "People Under the Stairs",
@@ -80367,6 +80378,7 @@
       "paletteSourceUrl": "https://peopleunderthestairs.bandcamp.com/track/earth-travelers-2"
     },
     "addedOrder": 621,
-    "datePublished": "2026-10-25"
+    "datePublished": "2026-10-25",
+    "yearStatus": "verified"
   }
 ]
