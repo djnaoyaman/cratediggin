@@ -80783,5 +80783,135 @@
     },
     "addedOrder": 624,
     "datePublished": "2026-10-25"
+  },
+  {
+    "id": "people-under-the-stairs-hang-loose",
+    "title": "Hang Loose",
+    "artist": "People Under the Stairs",
+    "primaryArtist": "People Under the Stairs",
+    "primaryArtists": [
+      "People Under the Stairs"
+    ],
+    "artists": [
+      "People Under the Stairs"
+    ],
+    "featuredArtists": [],
+    "workType": "single",
+    "album": "O.S.T.",
+    "year": 2002,
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "regionBasis": "Thes One管理の公式グループ略歴はLA basedと明記。レーベル所在地とは区分。",
+    "regionSources": [
+      1
+    ],
+    "producer": null,
+    "producers": [],
+    "producerBasis": "本曲の確かな単曲制作credit未確認。グループ略歴やwriterから推測しない。",
+    "label": "Om Records",
+    "moods": [
+      "ディギング"
+    ],
+    "sources": [
+      {
+        "label": "People Under the Stairs / Om — O.S.T. 公式収録資料",
+        "url": "https://peopleunderthestairs.bandcamp.com/album/o-s-t",
+        "kind": "公式作品情報"
+      },
+      {
+        "label": "People Under the Stairs — 公式アーティスト略歴（LA）",
+        "url": "https://www.puts.band/about",
+        "kind": "アーティスト地域情報"
+      },
+      {
+        "label": "Radio Ellebore — Antichambre 311 放送・DJ Elber選曲",
+        "url": "https://www.radio-ellebore.com/2022/05/07/antichambre-311-le-podcast/",
+        "kind": "放送局自身の選曲記録"
+      },
+      {
+        "label": "YouTube — Hang Loose 公式Topic音源",
+        "url": "https://www.youtube.com/watch?v=JFEGNfxcEkI",
+        "kind": "公式配信音源metadata"
+      }
+    ],
+    "youtube": {
+      "id": "JFEGNfxcEkI",
+      "url": "https://www.youtube.com/watch?v=JFEGNfxcEkI",
+      "embedUrl": "https://www.youtube.com/embed/JFEGNfxcEkI",
+      "title": "Hang Loose",
+      "channel": "PEOPLE UNDER THE STAIRS - Topic",
+      "channelUrl": "https://www.youtube.com/channel/UC2iOJ6K_0ug4lNxMrgns5ww",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verified": "2026-10-25",
+      "verification": "通常web検索の公式配信metadataとoEmbed HTTP200の正題/Topic channelを照合。再生/日本地域/埋込実行/master同一性は確認していない。 親writerが通常YouTube検索UIで正題/Topic/provider/表示尺を直接照合。",
+      "versionBasis": "通常検索はVirgin Music Group/Hang Loose/O.S.T./Released2003-06-02/公開2018-01-26。検索投稿者Noneだったため正規oEmbedを直接確認しPEOPLE UNDER THE STAIRS - Topic UC2iOJ6K_0ug4lNxMrgns5wwを照合。Pt.2、instrumental、DJ editとはしていない。 動画検索UI表示4:03、公式カタログ4:02の尺差を保持し、同一masterと断定しない。",
+      "duration": "4:03",
+      "durationBasis": "通常YouTube検索UIの表示尺。音声未再生。"
+    },
+    "titleAliases": [
+      "The Hang Loose"
+    ],
+    "yearBasis": "公式O.S.T.発売2002-06-02、9曲目Hang Loose。選択TopicはReleased2003-06-02と表示する現行配信metadataで、原盤年と区分。",
+    "yearQualifier": "原盤年",
+    "yearDisplayNote": "O.S.T.原盤は2002年。選択した配信の発売欄は2003年6月2日。",
+    "catalogDuration": "4:02",
+    "essayTitle": "放送の終盤に残った、アルバムへの入口",
+    "deck": "フランスの選曲表から、O.S.T.の9曲目へ。",
+    "essay": [
+      "「Hang Loose」は、2002年の『O.S.T.』の9曲目。公式カタログには4分02秒と記されている。ロサンゼルスのPeople Under the Stairsの一曲を探す際は、「The Hang Loose」という表記にも目を向けたい。ただし、別に存在するPt. 2やInstrumentalと同じ版だとは扱わない。",
+      "フランスのRadio Elleboreが2022年5月7日に公開した「Antichambre #311」は、締めくくりのミックスをDJ Elberが担当すると紹介し、終盤の選曲表に「The Hang Loose」を載せている。放送局自身の記録に残った曲名を入口に、元のアルバムへ戻れる。番組で使われた編集・マスターと、今回選んだ公式配信の一致は確認していない。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "djEvidence": {
+      "primarySources": [
+        2
+      ],
+      "performers": [
+        "DJ Elber"
+      ],
+      "specificEntries": [
+        "Antichambre #311 published2022-05-07; closing DJ Elber mix introduced; The Hang Loose near playlist end"
+      ],
+      "limits": "番組全体tracklistで厳密セグメント境界は記載されない。末尾曲という順序とDJ Elber締めmix紹介を根拠とし、演奏分秒や編集同一性は断定しない。"
+    },
+    "category": "Hip Hop",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-25",
+    "context": "",
+    "art": {
+      "style": "tag",
+      "palette": [
+        "#141414",
+        "#F5F1E4",
+        "#B7BC84",
+        "#6B8BA0",
+        "#9E836D"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceUrl": "https://peopleunderthestairs.bandcamp.com/album/o-s-t"
+    },
+    "addedOrder": 625,
+    "datePublished": "2026-10-25"
   }
 ]
