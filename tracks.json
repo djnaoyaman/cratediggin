@@ -80504,9 +80504,9 @@
   {
     "id": "jurassic-5-lesson-4-the-radio",
     "title": "Lesson 4: The Radio",
-    "artist": "Jurassic 5",
+    "artist": "Cut Chemist",
     "primaryArtists": [
-      "Jurassic 5"
+      "Cut Chemist"
     ],
     "featuredArtists": [],
     "album": "J5 (Deluxe Edition)",
@@ -80520,12 +80520,12 @@
     "sources": [
       {
         "url": "https://www.youtube.com/watch?v=uqq6Yg-2XC0",
-        "label": "Jurassic 5 — Lesson 4: The Radio（公式配信音源のカタログ情報）",
+        "label": "Jurassic 5『J5』収録配信 — Lesson 4: The Radio（選択動画の配信情報。作品の原名義はCut Chemist）",
         "access": "2026-10-25 primary page / indexed official metadata; see evidence.json"
       },
       {
         "url": "https://www.universal-music.co.jp/jurassic5/biography/",
-        "label": "Universal Music Japan — Jurassic 5公式バイオグラフィー（活動地域）",
+        "label": "Universal Music Japan — Jurassic 5公式バイオグラフィー（関連グループ資料）",
         "access": "2026-10-25 primary page / indexed official metadata; see evidence.json"
       },
       {
@@ -80547,6 +80547,11 @@
         "url": "https://3wisemenentertainment.bandcamp.com/album/this-is-where-you-got-it-from",
         "label": "DJ Nikoless — This Is Where You Got It From（2004年ミックスの公式選曲表）",
         "access": "2026-10-25 primary page / indexed official metadata; see evidence.json"
+      },
+      {
+        "url": "https://cutchemist.bandcamp.com/music",
+        "label": "Cut Chemist — 公式Bandcampプロフィール（Los Angeles）",
+        "access": "2026-10-25 primary page directly read"
       }
     ],
     "youtube": {
@@ -80563,18 +80568,18 @@
       "embeddedPlaybackVerified": false,
       "japanPlaybackVerified": false,
       "exactMasterVerified": false,
-      "versionBasis": "選択配信はJurassic 5名義J5、Symphonic/Mass Appeal。歴史的カタログとDJトラックリストはCut Chemist名義。同名曲の版として対応するが、DJluvが明記したStar Child1997/2002盤・Bomb1995版と選択2008配信のmaster同一性は未確認。DJ Shadowの同名Lesson 4とは別。",
+      "versionBasis": "作品の原名義はCut Chemist。掲載動画はJurassic 5名義J5の2008年収録配信版（Symphonic/Mass Appeal）で、配信収録名義を主artist分類へ転用しない。Bomb1995版やDJ luvが記すStar Child1997/2002盤とのmaster同一性は未確認。DJ Shadowの同名Lesson 4とは別。",
       "verified": "2026-10-25"
     },
-    "regionBasis": "Universal Music Japanの公式バイオグラフィーがLAをベースとするグループと説明。レーベル所在地の転用ではない。",
+    "regionBasis": "Cut Chemist本人の公式BandcampプロフィールがLos Angeles, Californiaと明記。旧Jurassic 5グループの地域資料からの転用ではない。",
     "regionSources": [
-      1
+      6
     ],
     "yearQualifier": "選択版",
-    "yearDisplayNote": "2008年のJ5再発版を選択。曲自体は少なくとも1995年のReturn of the DJに収録されている。",
+    "yearDisplayNote": "2008年は選択したJ5収録配信版の年。Cut Chemist名義の1995年Return of the DJ収録を確認できるが、曲の初出年は未特定。",
     "releaseDate": "2008-02-06",
-    "yearBasis": "Apple Music J5 (Deluxe Edition)と選択公式YouTubeの2008-02-06が一致。2008は選択再発版年で初出ではない。Bomb Hip-Hop公式Return of the DJは1995-07-11を記録しそれ以前の存在も示唆されるが、1993/1994初出年差を確定しない。",
-    "versionBasis": "選択配信はJurassic 5名義J5、Symphonic/Mass Appeal。歴史的カタログとDJトラックリストはCut Chemist名義。同名曲の版として対応するが、DJluvが明記したStar Child1997/2002盤・Bomb1995版と選択2008配信のmaster同一性は未確認。DJ Shadowの同名Lesson 4とは別。",
+    "yearBasis": "選択J5配信版はApple Musicと公式YouTubeが2008-02-06と記録。Bomb Hip-Hop公式カタログではCut Chemist名義でReturn of the DJに1995-07-11収録。1995を絶対初出とは断定せず、2008も初出年とは扱わない。",
+    "versionBasis": "作品の原名義はCut Chemist。掲載動画はJurassic 5名義J5の2008年収録配信版（Symphonic/Mass Appeal）で、配信収録名義を主artist分類へ転用しない。Bomb1995版やDJ luvが記すStar Child1997/2002盤とのmaster同一性は未確認。DJ Shadowの同名Lesson 4とは別。",
     "djEvidence": {
       "dj": "DJ luv; DJ Nikoless",
       "date": [
@@ -80592,24 +80597,25 @@
       "strength": "本人サイトと制作者公式Bandcampの具体的選曲記録",
       "editionLimit": "Cut Chemist名義の旧盤選曲。今回Jurassic5名義配信との同一masterは未確認、頻出断定なし。"
     },
-    "essayTitle": "二つの名前から辿る、Lesson 4の記録",
+    "essayTitle": "Cut Chemistの曲を、二つのDJの記録から辿る",
     "essay": [
-      "「Lesson 4: The Radio」は、Cut Chemist名義で『Return of the DJ』に記録され、Jurassic 5の『J5』にも収められた曲。今回選んだ『J5』の公式配信もプロデューサーをCut Chemistと記す。グループの作品から一人のDJの制作へ、名前を辿って行き来できる。",
+      "「Lesson 4: The Radio」はCut Chemistの曲。Bomb Hip-Hopの公式カタログは『Return of the DJ』の1995年収録曲として、その名前を記している。後年のJurassic 5『J5』にも収められ、今回選んだ2008年の公式配信も制作をCut Chemistと記す。グループの収録作品を入口に、一人のDJの仕事へと辿り着く一曲だ。",
       "DJ luvの「I’m On The Cuts」には、X-Ecutionersの曲に続いて「Lesson 4 : The Radio」が並ぶ。DJ Nikolessの『This Is Where You Got It From』でもDisc Twoの9番目に登場する。曲単体の知名度を語るより、異なるDJが残した選曲表を入口にすると、この一曲を探す具体的な道筋が見えてくる。"
     ],
     "essaySources": [
       [
+        3,
         0,
-        3
+        2
       ],
       [
         4,
         5
       ]
     ],
-    "primaryArtist": "Jurassic 5",
+    "primaryArtist": "Cut Chemist",
     "artists": [
-      "Jurassic 5"
+      "Cut Chemist"
     ],
     "category": "Hip Hop",
     "label": "未確認",
@@ -80640,7 +80646,30 @@
     },
     "addedOrder": 623,
     "datePublished": "2026-10-25",
-    "deck": "二つのDJの記録を通して、Cut Chemistの曲を辿る。"
+    "deck": "二つのDJの記録を通して、Cut Chemistの曲を辿る。",
+    "originalArtist": "Cut Chemist",
+    "firstReleaseYear": null,
+    "earliestDocumentedRelease": {
+      "year": 1995,
+      "date": "1995-07-11",
+      "album": "Return of the DJ",
+      "artist": "Cut Chemist",
+      "label": "Bomb Hip-Hop",
+      "source": 3,
+      "isVerifiedFirstRelease": false
+    },
+    "selectedRelease": {
+      "artist": "Jurassic 5",
+      "album": "J5 (Deluxe Edition)",
+      "year": 2008,
+      "releaseDate": "2008-02-06",
+      "sourceIndices": [
+        0,
+        2
+      ],
+      "role": "配信収録名義。作品主名義ではない。"
+    },
+    "artistBasis": "Bomb Hip-Hop公式カタログとDJの選曲表がCut Chemist名義で掲載するため作品の主名義に採用。選択2008年J5配信のJurassic 5表示は収録・配信名義として区別する。"
   },
   {
     "id": "people-under-the-stairs-time-to-rock-our-shit",

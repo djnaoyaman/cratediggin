@@ -77,3 +77,8 @@ GRAFFITI ROOM の全ページ・全曲で `Designed by DJ Naoyaman` を常時表
 ## 追加時のタグアート表示サイズ（2026-10-24）
 
 新規・差替え画像は `ARTWORK_NOTES.md` の可視文字サイズv1を必須とする。alpha>=8の全描画領域に上下左右7%の安全余白を付け、元絵を保持した別名画像を登録する。正方形キャンバスの寸法だけで合格にしない。`displaySizing` のハッシュ・可視bboxを登録し、`python artwork_display.py validate` を通す。未達は `build.py` が生成前に止める。旧作品のハッシュ固定免除へ新規曲を追加して回避しない。
+
+
+### Original work credit versus a compilation/distribution artist
+
+For DJ/scratch works and compilation inclusions, establish the original work's artist from primary credits. Do not substitute the selected upload's album/distribution artist for `artist`, `primaryArtist`, `primaryArtists`, or `artists`. Preserve the selected upload's factual channel/album/year separately in `selectedRelease` and `versionBasis`; keep an uncertain original release year explicitly uncertain. A known compilation date is not automatically a first-release date. Artist corrections must cover artwork text/alt, artist indexes, article/SEO/JSON-LD and preserve existing public URLs. `Lesson 4: The Radio` is credited to Cut Chemist; its selected 2008 J5 distribution entry is not a Jurassic 5 main-artist classification.
