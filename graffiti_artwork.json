@@ -13541,6 +13541,47 @@
         "sourceImage": "assets/graffiti/originals/people-under-the-stairs-code-check-mass-anchor-v1-original.png",
         "sourceSha256": "54aec23323f6701666f7db459c7662c2d3c461625f58e85c9afc53afd249e4df"
       }
+    },
+    {
+      "id": "jurassic-5-the-influence",
+      "title": "The Influence",
+      "artist": "Jurassic 5",
+      "album": "Quality Control",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#161411",
+        "#F2E9D8",
+        "#7A9CAE",
+        "#A56545",
+        "#8B7969"
+      ],
+      "paletteSource": "Actually viewed official Apple Music Quality Control cover; approximate editorial palette of black, ivory, blue-grey, rust and warm earth.",
+      "paletteSourceURL": "https://music.apple.com/us/album/quality-control/1673109195",
+      "paletteNote": "Main black-filled letters and white painted edges follow fixed Mass/QC series. Selected catalog cover colors only; no figurative objects/scenery copied.",
+      "concept": "INFLUENCEの太い隣接文字を段階的に重ね、ひとつの字形が隣へ続く流れを作る題名由来の編集図案。影響という歌詞主題を検証済みとはしない。 自作題名由来の限定編集図案、音/詞/artist意図を検証済みとしない",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "題名と作品資料を入口とする独自の字形解釈。作者の視覚意図、試聴、DJ使用盤とのマスター一致は主張しない。",
+      "image": "assets/graffiti/jurassic-5-the-influence-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/jurassic-5-the-influence-mass-anchor-v1-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          139,
+          65,
+          1845,
+          853
+        ],
+        "outputSha256": "dedf90e7c9c2b62f339d2aaa9f9707c85089fc05964b2d57caefdd23a35b24e7",
+        "sourceImage": "assets/graffiti/originals/jurassic-5-the-influence-mass-anchor-v1-original.png",
+        "sourceSha256": "33c23930cd31e154209d97dd550548d2db9cc0423959ae43d519a0911ab814b2"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

@@ -81309,5 +81309,137 @@
     },
     "addedOrder": 628,
     "datePublished": "2026-10-26"
+  },
+  {
+    "id": "jurassic-5-the-influence",
+    "title": "The Influence",
+    "artist": "Jurassic 5",
+    "primaryArtists": [
+      "Jurassic 5"
+    ],
+    "featuredArtists": [],
+    "album": "Quality Control",
+    "year": 2000,
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": "DJ Nu-Mark",
+    "producers": [
+      "DJ Nu-Mark"
+    ],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=loFGGrdJpfs",
+        "label": "Jurassic 5 — The Influence（公式配信クレジット）",
+        "kind": "公式配信metadata"
+      },
+      {
+        "url": "https://www.universal-music.co.jp/jurassic5/biography/",
+        "label": "Jurassic 5 — 公式略歴・活動地域",
+        "kind": "アーティスト地域情報"
+      },
+      {
+        "url": "https://serato.com/playlists/DJ_Quartz/club-o-zone-03-15-2025",
+        "label": "DJ QUARTZ — CLUB O-ZONE (03-15-2025) 選曲表",
+        "kind": "DJ本人の選曲記録"
+      },
+      {
+        "url": "https://music.apple.com/us/album/quality-control/1673109195",
+        "label": "Apple Music — Quality Control作品情報",
+        "kind": "公式作品情報"
+      },
+      {
+        "url": "https://www.abc.net.au/rage/guest/jurassic-5-guest-program-rage-2002-/104001664",
+        "label": "ABC rage — Jurassic 5の2002年ゲスト回を紹介する2024年番組ページ",
+        "kind": "放送局の番組記録"
+      }
+    ],
+    "youtube": {
+      "id": "loFGGrdJpfs",
+      "url": "https://www.youtube.com/watch?v=loFGGrdJpfs",
+      "embedUrl": "https://www.youtube.com/embed/loFGGrdJpfs",
+      "title": "The Influence",
+      "channel": "Jurassic 5 - Topic",
+      "channelUrl": "https://www.youtube.com/channel/UCiXGLhdMax4XsC8JBo9PZ4A",
+      "official": true,
+      "officialStatus": "official",
+      "type": "公式配信音源",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verified": "2026-10-25",
+      "verification": "通常web成功indexed公式配信metadataとoEmbed HTTP200正題/投稿者を照合。音声未再生。",
+      "versionBasis": "選択音源はQuality ControlのThe Influence、PIAS公式配信。別のEdited表記カタログ1673121993は選択しない。DJ Quartzのログは曲名のみでclean/dirty/extended指定なし、同一masterは未照合。ABCページ公開は2024年、回顧対象のゲスト回は2002年。"
+    },
+    "regionBasis": "Universal Music Japan公式略歴のLAベースという記述。",
+    "regionSources": [
+      1
+    ],
+    "yearBasis": "Quality Control公式カタログと選択公式配信の2000年が一致。Jan1表記を確定初出月日としない。",
+    "versionBasis": "選択音源はQuality ControlのThe Influence、PIAS公式配信。別のEdited表記カタログ1673121993は選択しない。DJ Quartzのログは曲名のみでclean/dirty/extended指定なし、同一masterは未照合。ABCページ公開は2024年、回顧対象のゲスト回は2002年。",
+    "djEvidence": {
+      "url": "https://serato.com/playlists/DJ_Quartz/club-o-zone-03-15-2025",
+      "dj": "DJ QUARTZ",
+      "event": "CLUB O-ZONE (03-15-2025)",
+      "date": "2025-03-15",
+      "position": "00:47:54",
+      "preceding": "De La Soul — All Good? (feat. Chaka Khan),00:45:03",
+      "following": "Choclair ft Jully Black — Light It Up (Clean)(Extended),00:52:50",
+      "edition": "Artist/title only, no remix or clean/extended specified for this track",
+      "access": "Full indexed firstparty tracklist and ordinary HTTP200 rawHTML saved influence-dj.html"
+    },
+    "essayTitle": "アルバムの入口が、DJの一曲になる",
+    "essay": [
+      "ロサンゼルスのJurassic 5が2000年の『Quality Control』に収めた「The Influence」。アルバムでは「How We Get Along」に続く2曲目で、公式配信クレジットにはDJ Nu-Markの制作と記されている。ABCの「rage」が紹介する2002年のゲスト回にもこの曲名が載り、メンバーが出演する番組と作品をつなぐ入口になる。",
+      "DJ Quartzの「CLUB O-ZONE」2025年3月15日回では、47分54秒に「The Influence」が記録されている。前はDe La Soulの「All Good?」、次はChoclairとJully Blackの「Light It Up」。アルバム冒頭で出会う曲を、別のアーティストと並ぶDJの曲順から探し直せる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        3,
+        4
+      ],
+      [
+        2
+      ]
+    ],
+    "primaryArtist": "Jurassic 5",
+    "artists": [
+      "Jurassic 5"
+    ],
+    "category": "Hip Hop",
+    "label": "未確認",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-25",
+    "context": "",
+    "yearStatus": "verified",
+    "deck": "DJ Quartzの曲順と、Jurassic 5のゲスト番組を辿る。",
+    "workType": "single",
+    "producerBasis": "選択PIAS公式配信metadataが本曲ProducerをDJ Nu-Markと明記。",
+    "art": {
+      "style": "tag",
+      "palette": [
+        "#161411",
+        "#F2E9D8",
+        "#7A9CAE",
+        "#A56545",
+        "#8B7969"
+      ],
+      "paletteSource": "Actually viewed official Apple Music Quality Control cover; approximate editorial palette of black, ivory, blue-grey, rust and warm earth.",
+      "paletteSourceUrl": "https://music.apple.com/us/album/quality-control/1673109195"
+    },
+    "addedOrder": 629,
+    "datePublished": "2026-10-26"
   }
 ]
