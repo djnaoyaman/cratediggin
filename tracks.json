@@ -80942,5 +80942,144 @@
     },
     "addedOrder": 625,
     "datePublished": "2026-10-25"
+  },
+  {
+    "id": "jurassic-5-concrete-and-clay",
+    "title": "Concrete & Clay",
+    "artist": "Jurassic 5",
+    "primaryArtists": [
+      "Jurassic 5"
+    ],
+    "featuredArtists": [],
+    "album": "Quality Control",
+    "year": 2000,
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": "DJ Nu-Mark",
+    "producers": [
+      "DJ Nu-Mark"
+    ],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=rMkphaK6dsk",
+        "label": "Jurassic 5 — Concrete & Clay（公式配信クレジット）",
+        "kind": "公式配信音源metadata"
+      },
+      {
+        "url": "https://www.universal-music.co.jp/jurassic5/biography/",
+        "label": "Universal Music Japan — Jurassic 5公式略歴（LA）",
+        "kind": "アーティスト地域情報"
+      },
+      {
+        "url": "https://music.apple.com/us/song/1673111570",
+        "label": "Apple Music — Concrete & Clay／Quality Control作品情報",
+        "kind": "公式作品情報"
+      },
+      {
+        "url": "https://wfmu.org/playlists/shows/158419",
+        "label": "WFMU — Wake with Clay Pigeon（Dan Morfitt代打回の選曲表）",
+        "kind": "放送局自身の選曲記録"
+      },
+      {
+        "url": "https://hiptankrecords.com/?pid=190422983",
+        "label": "HIP TANK RECORDS — 1999年Improviseほか3曲収録US12インチ現物資料",
+        "kind": "現物販売資料"
+      },
+      {
+        "url": "https://radiomilwaukee.org/2012-12-14/jurassic-5-samples",
+        "label": "Radio Milwaukee — Jurassic 5の曲名を区別した番組記事",
+        "kind": "放送局自身の記事"
+      }
+    ],
+    "youtube": {
+      "id": "rMkphaK6dsk",
+      "url": "https://www.youtube.com/watch?v=rMkphaK6dsk",
+      "embedUrl": "https://www.youtube.com/embed/rMkphaK6dsk",
+      "official": true,
+      "officialStatus": "official",
+      "type": "公式配信音源",
+      "channel": "Jurassic 5 - Topic",
+      "channelUrl": "https://www.youtube.com/channel/UCiXGLhdMax4XsC8JBo9PZ4A",
+      "title": "Concrete & Clay",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "選択はPIASによるQuality Control公式配信。Appleは2000-06-06、YouTubeは2000-01-01と表記し日付を混同しない。1999年12inchのClean版・WFMUが用いたCDとのmaster同一性は未確認。WFMUページ見出し/本文は2025-11-21だが他曲欄に2026年盤表記があり、放送日を本文で断定しない。代打Dan Morfitt・2曲の順序・約開始位置はページが直接明記。Unit4+2との同題という関係以外のcover/sample関係を推測しない。",
+      "verified": "2026-10-25",
+      "verification": "成功した通常web検索の公式OAC/PIAS配信metadataを確認。実再生/JP/埋込/master同一未確認。 oEmbed HTTP200で正題/Topic投稿者URLを直接照合。"
+    },
+    "regionBasis": "Universal Music Japanの公式バイオグラフィーがLAをベースとするグループと説明。レーベル所在地の転用ではない。",
+    "regionSources": [
+      1
+    ],
+    "yearBasis": "公式Apple Musicの選択曲Quality Controlは2000-06-06、公式PIAS配信は2000-01-01と日付差があるため年のみ採用。1999年US12inch0694971191はClean版収録を示す現物販売資料。曲の初出年や各版master同一性を2000と断定しない。",
+    "versionBasis": "選択はPIASによるQuality Control公式配信。Appleは2000-06-06、YouTubeは2000-01-01と表記し日付を混同しない。1999年12inchのClean版・WFMUが用いたCDとのmaster同一性は未確認。WFMUページ見出し/本文は2025-11-21だが他曲欄に2026年盤表記があり、放送日を本文で断定しない。代打Dan Morfitt・2曲の順序・約開始位置はページが直接明記。Unit4+2との同題という関係以外のcover/sample関係を推測しない。",
+    "djEvidence": {
+      "dj": "Dan Morfitt (guest host)",
+      "program": "Wake with Clay Pigeon, WFMU",
+      "url": "https://wfmu.org/playlists/shows/158419",
+      "time": "1:06:09 (Approx. start time)",
+      "preceding": "Unit 4 + 2 — Concrete and Clay,1:03:48",
+      "pageDate": "2025-11-21",
+      "dateStatus": "Page heading and body agree, but unrelated catalog year fields include2026; precise broadcastdate deliberately omitted from essay.",
+      "strength": "放送局自身の具体的選曲表",
+      "editionLimit": "CDと公式配信master同一未確認。頻度/定番度やサンプル関係を主張しない。"
+    },
+    "essayTitle": "同じ題名が並ぶ、ラジオの曲順",
+    "essay": [
+      "ロサンゼルスのJurassic 5が『Quality Control』に収めた「Concrete & Clay」。選択したアルバムは2000年の作品で、公式配信の制作クレジットはDJ Nu-Mark。すでに名前を知っている「Concrete Schoolyard」とは別の曲として、こちらの題名も拾っておきたい。",
+      "WFMUの「Wake with Clay Pigeon」、Dan Morfittが代打を務めた回の選曲表では、Unit 4 + 2の「Concrete and Clay」の次にJurassic 5の同題曲が置かれている。後者の開始位置は約1時間6分9秒。同じ言葉を持つ二つの曲を隣り合わせにした並びが、別の年代や作品へ寄り道する入口になる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        5
+      ],
+      [
+        3
+      ]
+    ],
+    "primaryArtist": "Jurassic 5",
+    "artists": [
+      "Jurassic 5"
+    ],
+    "category": "Hip Hop",
+    "label": "未確認",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-25",
+    "context": "",
+    "yearStatus": "verified",
+    "deck": "同じ曲名を続けたラジオの選曲表から、Quality Controlへ。",
+    "yearQualifier": "選択アルバム年",
+    "yearDisplayNote": "選択したQuality Controlは2000年。1999年盤にもClean版の収録資料がある。",
+    "producerBasis": "選択公式YouTube配信metadataのProducer: DJ Nu-Markを採用。店の商品紹介の全曲一括共同制作表記を本曲個別creditへ転用しない。",
+    "workType": "single",
+    "art": {
+      "style": "tag",
+      "palette": [
+        "#161411",
+        "#F2E9D8",
+        "#7A9CAE",
+        "#A56545",
+        "#8B7969"
+      ],
+      "paletteSource": "Actually viewed official Apple Music Quality Control cover; approximate editorial palette from album artwork, excluding its social-image wrapper.",
+      "paletteSourceUrl": "https://music.apple.com/us/song/1673111570"
+    },
+    "addedOrder": 626,
+    "datePublished": "2026-10-26"
   }
 ]

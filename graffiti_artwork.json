@@ -13418,6 +13418,47 @@
         "sourceImage": "assets/graffiti/originals/people-under-the-stairs-hang-loose-mass-anchor-v1-original.png",
         "sourceSha256": "0be0dc381433b7d5cbadc85d6a61d47721fa79a5221e5b967884aa2a9ef77051"
       }
+    },
+    {
+      "id": "jurassic-5-concrete-and-clay",
+      "title": "Concrete & Clay",
+      "artist": "Jurassic 5",
+      "album": "Quality Control",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#161411",
+        "#F2E9D8",
+        "#7A9CAE",
+        "#A56545",
+        "#8B7969"
+      ],
+      "paletteSource": "Actually viewed official Apple Music Quality Control cover; approximate editorial palette from album artwork, excluding its social-image wrapper.",
+      "paletteSourceURL": "https://music.apple.com/us/song/1673111570",
+      "paletteNote": "Blue-grey sky, rust title ink, warm earth and ivory from the selected Quality Control cover; black/white letter contrast follows the fixed Mass/QC series. No literal concrete or clay objects.",
+      "concept": "CONCRETE と CLAY を二段で隣接させ、& の前後で字の端だけを重ねる題名由来の編集的字形解釈。WFMUの同題曲の隣接という記事の構成に呼応するが、音・歌詞・サンプル関係・本人意図の証明とはしない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "題名と作品資料を入口とする独自の字形解釈。作者の視覚意図、試聴、DJ使用盤とのマスター一致は主張しない。",
+      "image": "assets/graffiti/jurassic-5-concrete-and-clay-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/jurassic-5-concrete-and-clay-mass-anchor-v1-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          131,
+          64,
+          1736,
+          843
+        ],
+        "outputSha256": "894afd6649da9f9c6c09e1b447eb227f7f403350a71455d6583a5433ab9f76c8",
+        "sourceImage": "assets/graffiti/originals/jurassic-5-concrete-and-clay-mass-anchor-v1-original.png",
+        "sourceSha256": "dac101b01f49430d1e225b23402df64e5dcc08a96ab536c7f9de8d25ecf402c0"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
