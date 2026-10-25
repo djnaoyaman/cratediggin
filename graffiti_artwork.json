@@ -13459,6 +13459,47 @@
         "sourceImage": "assets/graffiti/originals/jurassic-5-concrete-and-clay-mass-anchor-v1-original.png",
         "sourceSha256": "dac101b01f49430d1e225b23402df64e5dcc08a96ab536c7f9de8d25ecf402c0"
       }
+    },
+    {
+      "id": "people-under-the-stairs-jappy-jap",
+      "title": "Jappy Jap",
+      "artist": "People Under the Stairs",
+      "album": "Jappy Jap",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#151411",
+        "#F7F1D2",
+        "#9FA6A4",
+        "#98705B",
+        "#62594E"
+      ],
+      "paletteSource": "Actually viewed official Bandcamp Jappy Jap single cover; approximate editorial palette of cool grey, ivory, sepia and black. Not the O.S.T. cover.",
+      "paletteSourceURL": "https://peopleunderthestairs.bandcamp.com/album/jappy-jap",
+      "paletteNote": "Palette sampled by visual interpretation of the selected six-track 2002 single cover. Black-filled letterfaces and white paint preserve the fixed Mass/QC series; album photograph, people and typography not copied.",
+      "concept": "二つのJ、A/Pの反復を二段の大小と角・重なりで組み、同じ題名が別の並びに置かれる記事構成へ控えめに応答する独自字形解釈。題名の意味・民族性・歌詞・音・作者意図は示さない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "題名と作品資料を入口とする独自の字形解釈。作者の視覚意図、試聴、DJ使用盤とのマスター一致は主張しない。",
+      "image": "assets/graffiti/people-under-the-stairs-jappy-jap-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/people-under-the-stairs-jappy-jap-mass-anchor-v1-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          128,
+          67,
+          1698,
+          880
+        ],
+        "outputSha256": "565b7116eb5ce4b2f92acb598b4f9f56b9997352c3468609e33b49ba9bd3299c",
+        "sourceImage": "assets/graffiti/originals/people-under-the-stairs-jappy-jap-mass-anchor-v1-original.png",
+        "sourceSha256": "b9d6878952a5728f9d2733f8230ad1d9c0bd27e70a992bff912aede4cebd5943"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
