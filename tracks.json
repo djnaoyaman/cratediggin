@@ -79736,5 +79736,133 @@
     },
     "addedOrder": 616,
     "datePublished": "2026-10-25"
+  },
+  {
+    "id": "people-under-the-stairs-the-break-down",
+    "title": "The Break Down",
+    "artist": "People Under the Stairs",
+    "primaryArtist": "People Under the Stairs",
+    "primaryArtists": [
+      "People Under the Stairs"
+    ],
+    "featuredArtists": [
+      "Headnodic"
+    ],
+    "artists": [
+      "People Under the Stairs",
+      "Headnodic"
+    ],
+    "year": 2002,
+    "album": "O.S.T.",
+    "category": "Hip Hop",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "曲別Producer役割は未確認のため空欄。",
+    "label": "Om Records",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "yearBasis": "公式Bandcamp O.S.T.は2002-06-02。原作年2002を採用し、後年の配信日・動画公開日とは区別。Apple曲資料の2002-06-04とは日付差があるため年のみ確定。選択TopicのReleased2003-06-02/動画公開2018-01-26を原作年へ転用しない。",
+    "essayTitle": "アルバムの最後から、ロンドンの選曲へ",
+    "deck": "O.S.T.の最終曲を、A Sidesの公開ログから辿る。",
+    "context": "",
+    "essay": [
+      "『O.S.T.』の公式収録一覧は、20曲目の「The Break Down」で締めくくられる。ロサンゼルスのPeople Under the Stairsが2002年に発表したアルバムで、カタログ上の尺は5分。曲順の終点に置かれたこの一曲には、アルバムとは別の入口もある。Apple MusicではHeadnodicの客演表記が付く。",
+      "A Sidesが公開した「Live From BBE Audio Lounge London - Nov 2018」のSeratoログでは、57分26秒の位置に「The Breakdown」と記されている。本人は同ページでロンドンのBBE Audio Loungeに招かれてDJをしたと説明する。表記を辿ってアルバムへ戻れるが、セット中の編集やマスターの一致までは確認していない。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        2
+      ]
+    ],
+    "sources": [
+      {
+        "label": "People Under the Stairs — O.S.T. 公式収録一覧",
+        "url": "https://peopleunderthestairs.bandcamp.com/album/o-s-t",
+        "kind": "公式カタログ",
+        "evidence": "公式Bandcamp実読。2002-06-02、track16 The L.A. Song 4:26、track20 The Break Down 5:00。"
+      },
+      {
+        "label": "People Under the Stairs — 公式プロフィール",
+        "url": "https://www.puts.band/about",
+        "kind": "アーティスト地域情報",
+        "evidence": "Thes One維持の公式サイト。LA basedと明記。"
+      },
+      {
+        "label": "A Sides — Live From BBE Audio Lounge London, Nov 2018",
+        "url": "https://serato.com/playlists/DJ_A_Sides/live-from-bbe-audio-lounge-london-nov-20",
+        "kind": "DJ公開プレイリスト",
+        "evidence": "本人公開ログ実読。2018-11-29掲載、00:57:26 People Under The Stairs - The Breakdown。本人のBBE出演説明あり。実音声/編集master未確認。"
+      },
+      {
+        "label": "Apple Music — The Breakdown (feat. Headnodic)",
+        "url": "https://music.apple.com/ph/song/457810911",
+        "kind": "公式楽曲カタログ",
+        "evidence": "公式Apple検索表示はThe Breakdown (feat. Headnodic)、O.S.T.、2002-06-04。BandcampのThe Break Down表記/2002-06-02と区別、年2002一致。客演表示を採用するがbass/producer役割は推定しない。"
+      },
+      {
+        "label": "The Breakdown — 公式Topic配信メタデータ",
+        "url": "https://www.youtube.com/watch?v=gnGqlvvsgbg",
+        "kind": "公式配信メタデータ",
+        "evidence": "通常検索索引：PEOPLE UNDER THE STAIRS - Topic、Virgin Music Group、The Breakdown · People Under The Stairs · Headnodic、O.S.T.、Released2003-06-02、Published2018-01-26。実再生なし。"
+      }
+    ],
+    "youtube": {
+      "id": "gnGqlvvsgbg",
+      "url": "https://www.youtube.com/watch?v=gnGqlvvsgbg",
+      "embedUrl": "https://www.youtube.com/embed/gnGqlvvsgbg",
+      "title": "The Breakdown",
+      "channel": "PEOPLE UNDER THE STAIRS - Topic",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "検索索引の曲名・artist/Headnodic・O.S.T.・Virgin Music Group配信を確認。Released2003-06-02は配信側表記で原作2002とは区別。DJ使用版と同一master未確認。",
+      "verified": "2026-10-24"
+    },
+    "regionBasis": "Thes Oneが維持するPeople Under the Stairs公式プロフィールでLA basedと明記。",
+    "regionSources": [
+      1
+    ],
+    "aliases": [
+      "The Breakdown",
+      "The Breakdown (feat. Headnodic)"
+    ],
+    "art": {
+      "word": "The Break Down",
+      "tag": "PEOPLE UNDER THE STAIRS",
+      "seed": 1344537418,
+      "style": "tag",
+      "palette": [
+        "#c4ca92",
+        "#efe8d5",
+        "#bca78c",
+        "#7092a9",
+        "#17191b"
+      ],
+      "paletteSourceUrl": "https://peopleunderthestairs.bandcamp.com/album/o-s-t",
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette"
+    },
+    "addedOrder": 617,
+    "datePublished": "2026-10-25"
   }
 ]
