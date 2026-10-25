@@ -13500,6 +13500,47 @@
         "sourceImage": "assets/graffiti/originals/people-under-the-stairs-jappy-jap-mass-anchor-v1-original.png",
         "sourceSha256": "b9d6878952a5728f9d2733f8230ad1d9c0bd27e70a992bff912aede4cebd5943"
       }
+    },
+    {
+      "id": "people-under-the-stairs-code-check",
+      "title": "Code Check",
+      "artist": "People Under the Stairs",
+      "album": "Question in the Form of an Answer",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#131212",
+        "#F4EAD5",
+        "#3D3E78",
+        "#7F6A87",
+        "#C67845"
+      ],
+      "paletteSource": "Actually viewed official Bandcamp Question in the Form of an Answer cover; approximate editorial palette of black, ivory, indigo-violet and burnt orange.",
+      "paletteSourceURL": "https://peopleunderthestairs.bandcamp.com/track/code-check-6",
+      "paletteNote": "Colors from the selected 2000 album cover only. Main black fill and white painted edge follow the fixed Mass/QC series. No cover figures, sunset scenery, code screen or checkmark reproduced.",
+      "concept": "CODEとCHECKの共通Cの角、二段の太い文字の前後重なりを対応させる題名由来の独自編集構成。二つのDJ記録を入口にする本文を補う字形であり、歌詞・音・サンプル・作者意図の可視化ではない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "題名と作品資料を入口とする独自の字形解釈。作者の視覚意図、試聴、DJ使用盤とのマスター一致は主張しない。",
+      "image": "assets/graffiti/people-under-the-stairs-code-check-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/people-under-the-stairs-code-check-mass-anchor-v1-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          131,
+          64,
+          1736,
+          849
+        ],
+        "outputSha256": "0eaa223df99a7faf5e39b0dc3f3cad4ac5bc26e0b376487645234e548c3a7853",
+        "sourceImage": "assets/graffiti/originals/people-under-the-stairs-code-check-mass-anchor-v1-original.png",
+        "sourceSha256": "54aec23323f6701666f7db459c7662c2d3c461625f58e85c9afc53afd249e4df"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

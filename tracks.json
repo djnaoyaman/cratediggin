@@ -81194,5 +81194,120 @@
     },
     "addedOrder": 627,
     "datePublished": "2026-10-26"
+  },
+  {
+    "id": "people-under-the-stairs-code-check",
+    "title": "Code Check",
+    "artist": "People Under the Stairs",
+    "primaryArtist": "People Under the Stairs",
+    "primaryArtists": [
+      "People Under the Stairs"
+    ],
+    "artists": [
+      "People Under the Stairs"
+    ],
+    "featuredArtists": [],
+    "workType": "single",
+    "album": "Question in the Form of an Answer",
+    "year": 2000,
+    "yearQualifier": "収録盤年",
+    "yearDisplayNote": "2000年の収録アルバムは公式資料で6月6日付。アルバムの日付を本曲の初出日とは断定しない。",
+    "yearBasis": "公式Bandcampの収録アルバム資料がreleased 2000-06-06と記録。これは収録盤の発売資料であり、本曲の最初の発売日を確定する根拠とは区別する。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "regionBasis": "同公式Bandcampのアーティスト欄がLos Angeles basedと明記。",
+    "regionSources": [
+      0
+    ],
+    "producer": null,
+    "producers": [],
+    "producerBasis": "本曲の一次制作credit未確定。member/作詞者/他曲creditから推測しない。",
+    "label": "Om Records",
+    "catalogDuration": "3:35",
+    "moods": [
+      "ディギング"
+    ],
+    "sources": [
+      {
+        "label": "People Under the Stairs / Om — Code Check公式曲別・収録作品資料",
+        "url": "https://peopleunderthestairs.bandcamp.com/track/code-check-6",
+        "kind": "公式作品情報"
+      },
+      {
+        "label": "DJ Food — Solid Steel 03/07/2000 Pt.1 選曲と回顧",
+        "url": "https://www.djfood.org/mixcloud-select-116-hip-hop-2000-solid-steel-03072000-pt-1/",
+        "kind": "DJ本人の選曲記録"
+      },
+      {
+        "label": "DJ Mordecai — Send It For Cesar!（2024年3月16日）",
+        "url": "https://serato.com/playlists/mordecai/send-it-for-cesar",
+        "kind": "DJ本人の選曲記録"
+      },
+      {
+        "label": "YouTube — Code Check公式Topicアルバム収録音源",
+        "url": "https://www.youtube.com/watch?v=4tfdcJRpDZo",
+        "kind": "公式配信音源metadata"
+      }
+    ],
+    "youtube": {
+      "id": "4tfdcJRpDZo",
+      "url": "https://www.youtube.com/watch?v=4tfdcJRpDZo",
+      "embedUrl": "https://www.youtube.com/embed/4tfdcJRpDZo",
+      "title": "Code Check",
+      "channel": "PEOPLE UNDER THE STAIRS - Topic",
+      "channelUrl": "https://www.youtube.com/channel/UC2iOJ6K_0ug4lNxMrgns5ww",
+      "official": true,
+      "officialStatus": "official",
+      "type": "公式配信音源",
+      "verified": "2026-10-25",
+      "verification": "writer通常YouTube検索UIで正題/Topic/3:36/Virgin/収録作/℗2000を直接確認。通常oEmbed HTTP200で正題/Topic一致。再生・地域・埋込・master同一性は未検証。",
+      "versionBasis": "Question in the Form of an Answer収録の通常曲を選択。The Om Years2008版UMJwwcJjSNw、非公式Instrumental BGstvG18XkUは不採用。UI尺3:36とカタログ3:35の差を保持。DJ使用ファイルとのmaster一致は未確認。",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "duration": "3:36"
+    },
+    "essayTitle": "Solid Steelの二曲目から、LAの二作目へ",
+    "deck": "DJ Foodの2000年選曲表と、24年後のDJログをつなぐ。",
+    "essay": [
+      "DJ Foodが自身のサイトで公開した「Solid Steel 03/07/2000 Pt.1」の選曲表は、Def Texの「Written Response」、People Under the Stairsの「Code Check」、Jurassic 5の「Quality Control」と続く。2000年のUKとUSのインディペンデント・ヒップホップを振り返る文章の中で、DJ FoodはPUTSの二作目にも触れている。この並びから、ロサンゼルスの二人が残した『Question in the Form of an Answer』へ戻ってみたい。",
+      "2000年の同作に収められた「Code Check」は、2024年3月16日のDJ Mordecai「Send It For Cesar!」にも登場する。公開ログでは「Youth Explosion」の次、44分09秒の位置に置かれ、その後には「King Kuff」「Earth Travelers」が並ぶ。同時代のDJミックスと、後年にグループの曲を連ねた選曲。二つの記録が、この一曲への別々の入口になる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "category": "Hip Hop",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-25",
+    "context": "",
+    "art": {
+      "style": "tag",
+      "palette": [
+        "#131212",
+        "#F4EAD5",
+        "#3D3E78",
+        "#7F6A87",
+        "#C67845"
+      ],
+      "paletteSource": "Actually viewed official Bandcamp Question in the Form of an Answer cover; approximate editorial palette of black, ivory, indigo-violet and burnt orange.",
+      "paletteSourceUrl": "https://peopleunderthestairs.bandcamp.com/track/code-check-6"
+    },
+    "addedOrder": 628,
+    "datePublished": "2026-10-26"
   }
 ]
