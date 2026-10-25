@@ -13049,6 +13049,47 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "noSiteBranding": true
+    },
+    {
+      "id": "people-under-the-stairs-the-break-down",
+      "title": "The Break Down",
+      "artist": "People Under the Stairs",
+      "album": "O.S.T.",
+      "palette": [
+        "#c4ca92",
+        "#efe8d5",
+        "#bca78c",
+        "#7092a9",
+        "#17191b"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceURL": "https://peopleunderthestairs.bandcamp.com/album/o-s-t",
+      "paletteNote": "Keep Mass/QC black-white filled angular lettering, borrow restrained accents from actual cover. No cover scene copied; not exact measured RGB.",
+      "concept": "題名を二段の太い字形に分けて重ねる自作図案。歌詞や作者の意図を再現したものではない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "曲の資料・題名を入口とする字形の編集解釈。作者の視覚意図、試聴、DJ使用盤とのマスター一致は主張しない。",
+      "status": "ready",
+      "image": "assets/graffiti/people-under-the-stairs-the-break-down-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/people-under-the-stairs-the-break-down-mass-anchor-v1-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          142,
+          64,
+          1876,
+          843
+        ],
+        "outputSha256": "954c9796aa66360d0e79bf69b69c0ddb7fdb785695aed1167353da58c3d55847",
+        "sourceImage": "assets/graffiti/originals/people-under-the-stairs-the-break-down-mass-anchor-v1-original.png",
+        "sourceSha256": "e340b05494ea2158ee902eb23dff210f8e7bbe611ea191cde01b7c1301febc8a"
+      },
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
