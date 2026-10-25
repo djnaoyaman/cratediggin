@@ -13172,6 +13172,47 @@
         "sourceImage": "assets/graffiti/originals/people-under-the-stairs-sunroof-instrumental-mass-anchor-v1-original.png",
         "sourceSha256": "bfafb01c136a817bcc43ab2273229512debc485f510b250cda36c71f5132427c"
       }
+    },
+    {
+      "interpretationLimits": "曲の資料・題名を入口とする字形の編集解釈。作者の視覚意図、試聴、DJ使用盤とのマスター一致は主張しない。",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "id": "people-under-the-stairs-keepin-it-live",
+      "title": "Keepin It Live",
+      "artist": "People Under the Stairs",
+      "album": "O.S.T.",
+      "palette": [
+        "#141414",
+        "#F5F1E4",
+        "#B7BC84",
+        "#6B8BA0",
+        "#9E836D"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceURL": "https://peopleunderthestairs.bandcamp.com/track/keepin-it-live-2",
+      "paletteNote": "O.S.T.の淡いオリーブ、生成り、デニム青、路面の茶灰を実見して近似。白縁/黒塗りはMass系列の可読性用。",
+      "concept": "太いKEEPINの末端と次段LIVEの始端を重ね、継続する文字運びを作る。後年のDJ選曲という編集文脈を字形へ置くが、未聴取の音や歌詞の意味とはしない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "image": "assets/graffiti/people-under-the-stairs-keepin-it-live-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/people-under-the-stairs-keepin-it-live-mass-anchor-v1-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          133,
+          70,
+          1755,
+          922
+        ],
+        "outputSha256": "dbf119581105f9146ce0659fc5620620be134277c1b193fb9136ced33f70246d",
+        "sourceImage": "assets/graffiti/originals/people-under-the-stairs-keepin-it-live-mass-anchor-v1-original.png",
+        "sourceSha256": "1e080bd7663c41ff3b5b02f569474f6bad5b2d913e13d4b7004750c92f296013"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

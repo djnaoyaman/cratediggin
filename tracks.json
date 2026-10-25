@@ -80144,5 +80144,115 @@
     },
     "addedOrder": 619,
     "datePublished": "2026-10-25"
+  },
+  {
+    "artist": "People Under the Stairs",
+    "primaryArtist": "People Under the Stairs",
+    "primaryArtists": [
+      "People Under the Stairs"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "People Under the Stairs"
+    ],
+    "category": "Hip Hop",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "曲別Producer役割の一次クレジット未確認。作詞者・グループ名から推測しない。",
+    "label": "Om Records",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-25",
+    "context": "",
+    "id": "people-under-the-stairs-keepin-it-live",
+    "title": "Keepin It Live",
+    "titleAliases": [
+      "Keepin’ It Live",
+      "Keepin' It Live"
+    ],
+    "year": 2002,
+    "album": "O.S.T.",
+    "yearBasis": "公式Bandcampは2002-06-02、Apple Musicは2002-06-04で日差あり。年2002は一致。選択TopicのReleased on 2003-06-02と2018uploadは後年配信メタデータで原作年へ転記しない。",
+    "essayTitle": "約二十二年後も、DJの選曲のなかへ",
+    "deck": "2002年のアルバム曲が、2024年のDJ Netwerkのセットに並ぶ。",
+    "essay": [
+      "ロサンゼルスのPeople Under the Stairsが2002年の『O.S.T.』に収めた「Keepin It Live」。アルバムの有名曲だけを入口にするなら通り過ぎかねない一曲だが、後年のDJの選曲表を辿ると、別の場所から見つけ直せる。",
+      "2024年5月10日収録のWEFUNK第1204回では、DJ Netwerkの第1セットにこの曲が入る。曲順はOddisee「N.N.G.E.」の次、Zion I「Critical」の前。原盤の発売から約二十二年を隔てて、別の作品と並べられた記録が残る。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ],
+    "sources": [
+      {
+        "label": "People Under the Stairs — Keepin It Live 公式カタログ",
+        "url": "https://peopleunderthestairs.bandcamp.com/track/keepin-it-live-2",
+        "kind": "公式カタログ",
+        "evidence": "O.S.T.収録、2002-06-02、公式プロフィールLos Angeles。直接HTML保存済み。"
+      },
+      {
+        "label": "WEFUNK 1204 — DJ Netwerk 第1セット",
+        "url": "https://www.wefunkradio.com/show/1204",
+        "kind": "番組公式プレイリスト",
+        "evidence": "2024-05-10収録。start/end of Netwerk first setの内側、Oddisee N.N.G.E.とZion I Criticalの間に当該曲。本文直接実読。"
+      },
+      {
+        "label": "Keepin It Live — 公式Topic配信メタデータ",
+        "url": "https://www.youtube.com/watch?v=fn7pfLR4MWY",
+        "kind": "公式配信メタデータ",
+        "evidence": "検索索引でPEOPLE UNDER THE STAIRS - Topic/Virgin Music Group/O.S.T./Released2003-06-02/upload2018-01-26。通常oEmbed直接取得は正字/Topicを確認。watch直接openは技術取得失敗、実再生なし。"
+      },
+      {
+        "label": "Apple Music — Keepin’ It Live 作品情報",
+        "url": "https://music.apple.com/us/song/2827114",
+        "kind": "公式カタログ",
+        "evidence": "検索索引は2002-06-04、Bandcampとは日差があるが年一致。"
+      }
+    ],
+    "youtube": {
+      "id": "fn7pfLR4MWY",
+      "url": "https://www.youtube.com/watch?v=fn7pfLR4MWY",
+      "embedUrl": "https://www.youtube.com/embed/fn7pfLR4MWY",
+      "title": "Keepin It Live",
+      "channel": "PEOPLE UNDER THE STAIRS - Topic",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "Virgin Music Group配信TopicのO.S.T.単曲。2003配信日と2002原作は区別。WEFUNKで使用された実ファイルとのmaster同一性は未照合。",
+      "verified": "2026-10-25"
+    },
+    "art": {
+      "style": "tag",
+      "palette": [
+        "#141414",
+        "#F5F1E4",
+        "#B7BC84",
+        "#6B8BA0",
+        "#9E836D"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceUrl": "https://peopleunderthestairs.bandcamp.com/track/keepin-it-live-2"
+    },
+    "addedOrder": 620,
+    "datePublished": "2026-10-25"
   }
 ]
