@@ -13295,6 +13295,47 @@
         "sourceImage": "assets/graffiti/originals/jurassic-5-freedom-mass-anchor-v1-original.png",
         "sourceSha256": "d30777ffc1a88c4a98e3f39c11a2e4813f27e37c36b63d13952e5cace1a5e072"
       }
+    },
+    {
+      "id": "jurassic-5-lesson-4-the-radio",
+      "title": "Lesson 4: The Radio",
+      "artist": "Jurassic 5",
+      "album": "J5 (Deluxe Edition)",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#191919",
+        "#F2E8D1",
+        "#D6B44A",
+        "#A7783D",
+        "#6A4931"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceURL": "https://music.apple.com/us/album/j5-deluxe-edition/1777704233",
+      "paletteNote": "Actual selected J5 (Deluxe Edition) cover viewed; approximate accent palette with Mass/QC black-white letter contrast. Not metallic gold or copied cover imagery.",
+      "concept": "LESSON 4の大きい4とTHE RADIOの文字線を重ねて一続きにする、題名と収録名義を渡る編集的字形構成。ラジオ機器・レコード・情景は描かず、音源のサンプル内容を推測しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "題名と作品資料を入口とする独自の字形解釈。作者の視覚意図、試聴、DJ使用盤とのマスター一致は主張しない。",
+      "image": "assets/graffiti/jurassic-5-lesson-4-the-radio-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/jurassic-5-lesson-4-the-radio-mass-anchor-v1-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          141,
+          62,
+          1869,
+          822
+        ],
+        "outputSha256": "bab7b2a53b4c11e3f528355db363d5e71b9eb62f589cd546bf7fd08f460e5276",
+        "sourceImage": "assets/graffiti/originals/jurassic-5-lesson-4-the-radio-mass-anchor-v1-original.png",
+        "sourceSha256": "e1ca5d8c8462d0d2bab256deb76af3bbb5db96a8be493b9e7c5ba8953dcb0571"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

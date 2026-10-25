@@ -80500,5 +80500,146 @@
     "addedOrder": 622,
     "datePublished": "2026-10-25",
     "deck": "DJ A Sidesの選曲記録から、Power In Numbersの一曲へ。"
+  },
+  {
+    "id": "jurassic-5-lesson-4-the-radio",
+    "title": "Lesson 4: The Radio",
+    "artist": "Jurassic 5",
+    "primaryArtists": [
+      "Jurassic 5"
+    ],
+    "featuredArtists": [],
+    "album": "J5 (Deluxe Edition)",
+    "year": 2008,
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": "Cut Chemist",
+    "producers": [
+      "Cut Chemist"
+    ],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uqq6Yg-2XC0",
+        "label": "Jurassic 5 — Lesson 4: The Radio（公式配信音源のカタログ情報）",
+        "access": "2026-10-25 primary page / indexed official metadata; see evidence.json"
+      },
+      {
+        "url": "https://www.universal-music.co.jp/jurassic5/biography/",
+        "label": "Universal Music Japan — Jurassic 5公式バイオグラフィー（活動地域）",
+        "access": "2026-10-25 primary page / indexed official metadata; see evidence.json"
+      },
+      {
+        "url": "https://music.apple.com/us/album/j5-deluxe-edition/1777704233",
+        "label": "Apple Music — J5 (Deluxe Edition)作品情報",
+        "access": "2026-10-25 primary page / indexed official metadata; see evidence.json"
+      },
+      {
+        "url": "https://bombhiphop.bandcamp.com/track/lesson-4-the-radio",
+        "label": "Bomb Hip-Hop — Cut Chemist「Lesson 4 the Radio」／Return of the DJ（1995年版）",
+        "access": "2026-10-25 primary page / indexed official metadata; see evidence.json"
+      },
+      {
+        "url": "https://www.djluvsrecords.com/2011/04/luv038/",
+        "label": "DJ luv — I’m On The Cuts（2011年4月24日、本人の選曲表）",
+        "access": "2026-10-25 primary page / indexed official metadata; see evidence.json"
+      },
+      {
+        "url": "https://3wisemenentertainment.bandcamp.com/album/this-is-where-you-got-it-from",
+        "label": "DJ Nikoless — This Is Where You Got It From（2004年ミックスの公式選曲表）",
+        "access": "2026-10-25 primary page / indexed official metadata; see evidence.json"
+      }
+    ],
+    "youtube": {
+      "id": "uqq6Yg-2XC0",
+      "url": "https://www.youtube.com/watch?v=uqq6Yg-2XC0",
+      "embedUrl": "https://www.youtube.com/embed/uqq6Yg-2XC0",
+      "official": true,
+      "officialStatus": "official",
+      "type": "公式配信音源",
+      "channel": "Jurassic 5 - Topic",
+      "channelUrl": "https://www.youtube.com/channel/UCiXGLhdMax4XsC8JBo9PZ4A",
+      "title": "Lesson 4: The Radio",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "選択配信はJurassic 5名義J5、Symphonic/Mass Appeal。歴史的カタログとDJトラックリストはCut Chemist名義。同名曲の版として対応するが、DJluvが明記したStar Child1997/2002盤・Bomb1995版と選択2008配信のmaster同一性は未確認。DJ Shadowの同名Lesson 4とは別。",
+      "verified": "2026-10-25"
+    },
+    "regionBasis": "Universal Music Japanの公式バイオグラフィーがLAをベースとするグループと説明。レーベル所在地の転用ではない。",
+    "regionSources": [
+      1
+    ],
+    "yearQualifier": "選択版",
+    "yearDisplayNote": "2008年のJ5再発版を選択。曲自体は少なくとも1995年のReturn of the DJに収録されている。",
+    "releaseDate": "2008-02-06",
+    "yearBasis": "Apple Music J5 (Deluxe Edition)と選択公式YouTubeの2008-02-06が一致。2008は選択再発版年で初出ではない。Bomb Hip-Hop公式Return of the DJは1995-07-11を記録しそれ以前の存在も示唆されるが、1993/1994初出年差を確定しない。",
+    "versionBasis": "選択配信はJurassic 5名義J5、Symphonic/Mass Appeal。歴史的カタログとDJトラックリストはCut Chemist名義。同名曲の版として対応するが、DJluvが明記したStar Child1997/2002盤・Bomb1995版と選択2008配信のmaster同一性は未確認。DJ Shadowの同名Lesson 4とは別。",
+    "djEvidence": {
+      "dj": "DJ luv; DJ Nikoless",
+      "date": [
+        "2011-04-24",
+        "2004-09-28"
+      ],
+      "set": [
+        "I’m On The Cuts (luv038)",
+        "This Is Where You Got It From"
+      ],
+      "position": [
+        "11",
+        "Disc Two 9"
+      ],
+      "strength": "本人サイトと制作者公式Bandcampの具体的選曲記録",
+      "editionLimit": "Cut Chemist名義の旧盤選曲。今回Jurassic5名義配信との同一masterは未確認、頻出断定なし。"
+    },
+    "essayTitle": "二つの名前から辿る、Lesson 4の記録",
+    "essay": [
+      "「Lesson 4: The Radio」は、Cut Chemist名義で『Return of the DJ』に記録され、Jurassic 5の『J5』にも収められた曲。今回選んだ『J5』の公式配信もプロデューサーをCut Chemistと記す。グループの作品から一人のDJの制作へ、名前を辿って行き来できる。",
+      "DJ luvの「I’m On The Cuts」には、X-Ecutionersの曲に続いて「Lesson 4 : The Radio」が並ぶ。DJ Nikolessの『This Is Where You Got It From』でもDisc Twoの9番目に登場する。曲単体の知名度を語るより、異なるDJが残した選曲表を入口にすると、この一曲を探す具体的な道筋が見えてくる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        3
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "primaryArtist": "Jurassic 5",
+    "artists": [
+      "Jurassic 5"
+    ],
+    "category": "Hip Hop",
+    "label": "未確認",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-25",
+    "context": "",
+    "art": {
+      "style": "tag",
+      "palette": [
+        "#191919",
+        "#F2E8D1",
+        "#D6B44A",
+        "#A7783D",
+        "#6A4931"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceUrl": "https://music.apple.com/us/album/j5-deluxe-edition/1777704233"
+    },
+    "addedOrder": 623,
+    "datePublished": "2026-10-25",
+    "deck": "二つのDJの記録を通して、Cut Chemistの曲を辿る。"
   }
 ]
