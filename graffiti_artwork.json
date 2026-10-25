@@ -13254,6 +13254,47 @@
         "sourceImage": "assets/graffiti/originals/people-under-the-stairs-earth-travelers-mass-anchor-v1-original.png",
         "sourceSha256": "04e752ba4ed010878c78b49523468bd43a06e3661eb2b14bbc97005da2c9dfc2"
       }
+    },
+    {
+      "id": "jurassic-5-freedom",
+      "title": "Freedom",
+      "artist": "Jurassic 5",
+      "album": "Power In Numbers",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#14110E",
+        "#F3EBD9",
+        "#F2CE24",
+        "#CB722C",
+        "#AD2F23"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceURL": "https://music.apple.com/us/album/power-in-numbers/1673116557",
+      "paletteNote": "Actual selected Power In Numbers cover viewed; approximate accent palette with Mass/QC black-white letter contrast. Not metallic gold or copied cover imagery.",
+      "concept": "FREEDOMの両端文字を外へ広げつつ中央の重なりを保つ、題名由来の自作字形解釈。政治的歌詞内容・本人意図・音の性質を表すとは主張しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "題名と作品資料を入口とする独自の字形解釈。作者の視覚意図、試聴、DJ使用盤とのマスター一致は主張しない。",
+      "image": "assets/graffiti/jurassic-5-freedom-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/jurassic-5-freedom-mass-anchor-v1-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          153,
+          62,
+          2027,
+          813
+        ],
+        "outputSha256": "95370cec05f5336d2cc04765064a2bbea296e4e99916e254c491a4400595b063",
+        "sourceImage": "assets/graffiti/originals/jurassic-5-freedom-mass-anchor-v1-original.png",
+        "sourceSha256": "d30777ffc1a88c4a98e3f39c11a2e4813f27e37c36b63d13952e5cace1a5e072"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
