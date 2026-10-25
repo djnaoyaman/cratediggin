@@ -80380,5 +80380,124 @@
     "addedOrder": 621,
     "datePublished": "2026-10-25",
     "yearStatus": "verified"
+  },
+  {
+    "id": "jurassic-5-freedom",
+    "title": "Freedom",
+    "artist": "Jurassic 5",
+    "primaryArtists": [
+      "Jurassic 5"
+    ],
+    "featuredArtists": [],
+    "album": "Power In Numbers",
+    "year": 2002,
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": "DJ Nu-Mark",
+    "producers": [
+      "DJ Nu-Mark"
+    ],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=YCXbQvRiNhk",
+        "label": "Jurassic 5 — Freedom（公式配信音源のカタログ情報）",
+        "access": "2026-10-25 primary page / indexed official metadata; see evidence.json"
+      },
+      {
+        "url": "https://www.universal-music.co.jp/jurassic5/biography/",
+        "label": "Universal Music Japan — Jurassic 5公式バイオグラフィー（活動地域）",
+        "access": "2026-10-25 primary page / indexed official metadata; see evidence.json"
+      },
+      {
+        "url": "https://music.apple.com/us/album/power-in-numbers/1673116557",
+        "label": "Apple Music — Power In Numbers作品情報",
+        "access": "2026-10-25 primary page / indexed official metadata; see evidence.json"
+      },
+      {
+        "url": "https://serato.com/playlists/DJ_A_Sides/container-sessions-vol-4",
+        "label": "DJ A Sides — Container Sessions Vol.4（2017年7月14日の本人公開トラックリスト）",
+        "access": "2026-10-25 primary page / indexed official metadata; see evidence.json"
+      }
+    ],
+    "youtube": {
+      "id": "YCXbQvRiNhk",
+      "url": "https://www.youtube.com/watch?v=YCXbQvRiNhk",
+      "embedUrl": "https://www.youtube.com/embed/YCXbQvRiNhk",
+      "official": true,
+      "officialStatus": "official",
+      "type": "公式配信音源",
+      "channel": "Jurassic 5 - Topic",
+      "channelUrl": "https://www.youtube.com/channel/UCiXGLhdMax4XsC8JBo9PZ4A",
+      "title": "Freedom",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "原アルバム曲の公式PIAS配信音源。DJ A Sidesは曲名Freedomと記載しリミックス指定なし。ただしDJが使用した盤と今回の配信master同一性は未照合。",
+      "verified": "2026-10-25"
+    },
+    "regionBasis": "Universal Music Japanの公式バイオグラフィーがLAをベースとするグループと説明。レーベル所在地の転用ではない。",
+    "regionSources": [
+      1
+    ],
+    "yearBasis": "Power In Numbersの原作年2002。現公式YouTube配信metadataのReleased on2002-01-01は便宜的カタログ日であり初出月日として採用しない。",
+    "versionBasis": "原アルバム曲の公式PIAS配信音源。DJ A Sidesは曲名Freedomと記載しリミックス指定なし。ただしDJが使用した盤と今回の配信master同一性は未照合。",
+    "djEvidence": {
+      "dj": "DJ A Sides",
+      "date": "2017-07-14",
+      "set": "Container Sessions Vol.4",
+      "time": "01:07:13",
+      "strength": "本人公開Seratoトラックリストの具体的一回の選曲記録",
+      "editionLimit": "原曲名表記、remix指定なし。頻出・定番・同一masterまでは主張しない。"
+    },
+    "essayTitle": "DJの並びから拾う、もう一つのPower In Numbers",
+    "essay": [
+      "ロサンゼルスのJurassic 5が2002年の『Power In Numbers』に収めた「Freedom」。公式配信クレジットで制作を担うのはDJ Nu-Markだ。「What’s Golden」と同じ作品を、別の一曲から開き直す入口になる。",
+      "DJ A Sidesが公開した2017年7月14日の「Container Sessions Vol.4」では、Slimkid3 & DJ Nu-Mark「I Know, Didn’t I」の次、Funky DL「About You」の前にこの曲が置かれている。アルバムの曲順ではなく、DJが組んだ隣り合わせから辿ると、Nu-Markという名前が別の作品への手がかりになる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        3
+      ]
+    ],
+    "primaryArtist": "Jurassic 5",
+    "artists": [
+      "Jurassic 5"
+    ],
+    "category": "Hip Hop",
+    "label": "未確認",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-25",
+    "context": "",
+    "yearStatus": "verified",
+    "art": {
+      "style": "tag",
+      "palette": [
+        "#14110E",
+        "#F3EBD9",
+        "#F2CE24",
+        "#CB722C",
+        "#AD2F23"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceUrl": "https://music.apple.com/us/album/power-in-numbers/1673116557"
+    },
+    "addedOrder": 622,
+    "datePublished": "2026-10-25"
   }
 ]
