@@ -13131,6 +13131,47 @@
         "sourceImage": "assets/graffiti/originals/people-under-the-stairs-schooled-in-the-trade-instrumental-mass-anchor-v1-original.png",
         "sourceSha256": "703f71ea5f16cee5f1d35cf8ad7d4d12a27e4f53c4b785bf54c185f8b318cf46"
       }
+    },
+    {
+      "interpretationLimits": "曲の資料・題名を入口とする字形の編集解釈。作者の視覚意図、試聴、DJ使用盤とのマスター一致は主張しない。",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "id": "people-under-the-stairs-sunroof-instrumental",
+      "title": "Sunroof (Instrumental)",
+      "artist": "People Under the Stairs",
+      "album": "The Om Years",
+      "palette": [
+        "#171311",
+        "#F2E8D7",
+        "#B88C21",
+        "#D1B335",
+        "#754323"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceURL": "https://peopleunderthestairs.bandcamp.com/album/the-om-years",
+      "paletteNote": "選択したThe Om Yearsのジャケット配色。元Om Lounge Vol.4の装丁とは混用しない。近似色。",
+      "concept": "SUNROOFの二つのOの内側を開け、上部の角張った縁の一部を広げる。タイトル由来の字形構成のみ。車・屋根・日輪のイラストにしない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "image": "assets/graffiti/people-under-the-stairs-sunroof-instrumental-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/people-under-the-stairs-sunroof-instrumental-mass-anchor-v1-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          138,
+          65,
+          1823,
+          861
+        ],
+        "outputSha256": "fd0180267d96fad48f6fed6dc44279fa03b6fe903cf3f9d1110c542e3e80bb1f",
+        "sourceImage": "assets/graffiti/originals/people-under-the-stairs-sunroof-instrumental-mass-anchor-v1-original.png",
+        "sourceSha256": "bfafb01c136a817bcc43ab2273229512debc485f510b250cda36c71f5132427c"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

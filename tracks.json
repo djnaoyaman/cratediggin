@@ -80005,5 +80005,144 @@
     },
     "addedOrder": 618,
     "datePublished": "2026-10-25"
+  },
+  {
+    "id": "people-under-the-stairs-sunroof-instrumental",
+    "title": "Sunroof (Instrumental)",
+    "artist": "People Under the Stairs",
+    "primaryArtists": [
+      "People Under the Stairs"
+    ],
+    "featuredArtists": [],
+    "album": "The Om Years",
+    "year": 2008,
+    "releaseDate": "2008-07-22",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": null,
+    "producers": [],
+    "yearBasis": "公式The Om Yearsカタログ2008-07-22を選択版年として表示。Instrumental版そのものの初出年を2008と断定しない。元の同名曲は2000 Om Lounge Vol3/4資料に残る。",
+    "sources": [
+      {
+        "url": "https://omlounge.bandcamp.com/album/om-lounge-vol-4",
+        "label": "Om Records — Om Lounge Vol. 4 収録・発売資料",
+        "access": "web full text + ordinary HTTP 200, 2026-10-25"
+      },
+      {
+        "url": "https://www.puts.band/about",
+        "label": "People Under the Stairs — 公式アーティスト紹介",
+        "basis": "Thes Oneが管理する公式サイト本文がLA basedと明記。レーベル所在地San Franciscoとは分離。",
+        "access": "web full text + ordinary HTTP 200, 2026-10-25"
+      },
+      {
+        "url": "https://www.hawaiipublicradio.org/show/bridging-the-gap/2015-02-21/bridging-the-gap-february-21st-2015",
+        "label": "Hawaiʻi Public Radio — Bridging the Gap 2015年2月21日選曲",
+        "access": "web open cachemiss; ordinary HTTP200 full187704B independently read",
+        "basis": "djmrnickタグ、第2時間6曲目Sunroof [OM Lounge Vol.4]。"
+      },
+      {
+        "url": "https://www.recordbreakin.com/eavesdropradio?category=music&offset=1623901834194",
+        "label": "Record Breakin — Eavesdrop Radio #508 Double K追悼選曲",
+        "access": "web full text",
+        "basis": "2021-02-05放送/02-12掲載。Sunroof (Instrumental)と明示、Om Lounge版との同一性未確認。"
+      },
+      {
+        "url": "https://peopleunderthestairs.bandcamp.com/album/the-om-years",
+        "label": "People Under the Stairs — The Om Years 公式収録・発売資料",
+        "access": "web full text and HTTP200 2026-10-25",
+        "basis": "24 Schooled in the Trade (Instrumental)4:41、27 Sunroof (Instrumental)5:28、2008-07-22"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=dtddzkG67IE",
+        "label": "YouTube — Sunroof (Instrumental) 公式Topic選択音源",
+        "access": "direct ordinary oEmbed HTTP200; root normal UI rawAX independently reread and pinned root-normal-ui-two-evidence.json"
+      }
+    ],
+    "catalogDuration": "5:28",
+    "cover": {
+      "url": "https://f4.bcbits.com/img/a4252800133_5.jpg",
+      "source": "https://peopleunderthestairs.bandcamp.com/album/the-om-years",
+      "basis": "official og:image HTTP200",
+      "visuallyInspected": false
+    },
+    "youtube": {
+      "id": "dtddzkG67IE",
+      "url": "https://www.youtube.com/watch?v=dtddzkG67IE",
+      "official": true,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "officialStatus": "official",
+      "type": "公式配信音源",
+      "channel": "PEOPLE UNDER THE STAIRS - Topic",
+      "channelUrl": "https://www.youtube.com/channel/UC2iOJ6K_0ug4lNxMrgns5ww",
+      "title": "Sunroof (Instrumental)",
+      "reportedVideoDuration": "5:29",
+      "versionBasis": "oEmbed HTTP200で正題とTopic投稿者を直接確認。root通常UI保存AXを再読しOrchard/The Om Yearsを確認。選択版はInstrumental、カタログと動画表示は1秒差、2000年同名原曲およびDJ使用masterとの同一性は未照合。 選択2008年The Om Years Instrumental版と2000年Om Loungeの同名曲、DJ使用Mixed/Instrumentalファイルの同一master・編集内容は未照合。カタログと選択動画表示に各1秒差（Schooled4:41/4:42、Sunroof5:28/5:29）。",
+      "embedUrl": "https://www.youtube.com/embed/dtddzkG67IE"
+    },
+    "djEvidence": {
+      "dj": "Eavesdrop Radio / Record Breakin",
+      "strength": "primary programme published playlist, explicit Instrumental title",
+      "editionLimit": "Instrumental表記が一致。番組使用masterとThe Om Years/選択YouTubeの同一性は未検証。HPRのOmLounge4記録は別履歴で現版DJ根拠に流用しない。"
+    },
+    "essayTitle": "追悼番組に残る、Instrumental表記の一曲",
+    "essay": [
+      "Double Kへの追悼選曲は、「Sunroof (Instrumental)」から始まる。Record Breakinが公開したEavesdrop Radio第508回、2021年2月5日放送回の曲目表だ。Instrumental表記の一曲が、People Under the Stairsを振り返る追悼区間の入口に置かれている。",
+      "ここで選ぶのは、2008年の『The Om Years』の27曲目に収められた版。2000年の『Om Lounge Vol. 4』には4分31秒の同名曲がある一方、この編集盤のInstrumental版は5分28秒と記される。曲名だけでひとまとめにせず、盤と版を辿ると、追悼番組からもう一歩ディスクの内側へ進める。"
+    ],
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    "yearQualifier": "選択版",
+    "yearDisplayNote": "2008年のThe Om Years収録版。2000年のOm Lounge掲載曲とのマスター同一性は未確認。",
+    "historicalOriginalCatalog": {
+      "url": "https://omlounge.bandcamp.com/album/om-lounge-vol-4",
+      "label": "Om Records — Om Lounge Vol. 4 収録・発売資料",
+      "access": "web full text + ordinary HTTP 200, 2026-10-25"
+    },
+    "historicalOriginalYear": 2000,
+    "versionBasis": "oEmbed HTTP200で正題とTopic投稿者を直接確認。root通常UI保存AXを再読しOrchard/The Om Yearsを確認。選択版はInstrumental、カタログと動画表示は1秒差、2000年同名原曲およびDJ使用masterとの同一性は未照合。 選択2008年The Om Years Instrumental版と2000年Om Loungeの同名曲、DJ使用Mixed/Instrumentalファイルの同一master・編集内容は未照合。カタログと選択動画表示に各1秒差（Schooled4:41/4:42、Sunroof5:28/5:29）。",
+    "primaryArtist": "People Under the Stairs",
+    "artists": [
+      "People Under the Stairs"
+    ],
+    "category": "Hip Hop",
+    "label": "未確認",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-25",
+    "context": "",
+    "deck": "",
+    "art": {
+      "style": "tag",
+      "palette": [
+        "#171311",
+        "#F2E8D7",
+        "#B88C21",
+        "#D1B335",
+        "#754323"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceUrl": "https://peopleunderthestairs.bandcamp.com/album/the-om-years"
+    },
+    "addedOrder": 619,
+    "datePublished": "2026-10-25"
   }
 ]
