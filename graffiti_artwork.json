@@ -13008,6 +13008,47 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "noSiteBranding": true
+    },
+    {
+      "id": "people-under-the-stairs-the-la-song",
+      "title": "The L.A. Song",
+      "artist": "People Under the Stairs",
+      "album": "O.S.T.",
+      "palette": [
+        "#c4ca92",
+        "#efe8d5",
+        "#bca78c",
+        "#7092a9",
+        "#17191b"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceURL": "https://peopleunderthestairs.bandcamp.com/album/o-s-t",
+      "paletteNote": "Keep Mass/QC black-white filled angular lettering, borrow restrained accents from actual cover. No cover scene copied; not exact measured RGB.",
+      "concept": "街の略称を大きな字形として置く題名由来の自作図案。情景や街並みは描かない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "曲の資料・題名を入口とする字形の編集解釈。作者の視覚意図、試聴、DJ使用盤とのマスター一致は主張しない。",
+      "status": "ready",
+      "image": "assets/graffiti/people-under-the-stairs-the-la-song-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/people-under-the-stairs-the-la-song-mass-anchor-v1-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          142,
+          66,
+          1883,
+          873
+        ],
+        "outputSha256": "1aec7674708890ad179925889f08902695b180ba191cc2977c72de20f0934463",
+        "sourceImage": "assets/graffiti/originals/people-under-the-stairs-the-la-song-mass-anchor-v1-original.png",
+        "sourceSha256": "d1aa0efd899ff55a719259bc8174744a75e293ed74dd6be2870f5de74ee736eb"
+      },
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

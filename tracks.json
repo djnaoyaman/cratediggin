@@ -79622,5 +79622,119 @@
     },
     "addedOrder": 615,
     "datePublished": "2026-10-25"
+  },
+  {
+    "id": "people-under-the-stairs-the-la-song",
+    "title": "The L.A. Song",
+    "artist": "People Under the Stairs",
+    "primaryArtist": "People Under the Stairs",
+    "primaryArtists": [
+      "People Under the Stairs"
+    ],
+    "featuredArtists": [],
+    "artists": [
+      "People Under the Stairs"
+    ],
+    "year": 2002,
+    "album": "O.S.T.",
+    "category": "Hip Hop",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": null,
+    "producers": [],
+    "producerBasis": "曲別Producer役割は未確認のため空欄。",
+    "label": "Om Records",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-24",
+    "yearBasis": "公式Bandcamp O.S.T.は2002-06-02。原作年2002を採用し、後年の配信日・動画公開日とは区別。選択TopicのReleased on2003-06-02は配信側日付として区別。Apple別コンピ版には2002-06-04表記もあるため初出の日付一致は主張せず年のみ採用。",
+    "essayTitle": "拠点の名を掲げる一曲、DJの別版へ",
+    "deck": "2002年のO.S.T.から、後年のDJ編集版へ。",
+    "context": "",
+    "essay": [
+      "ロサンゼルスを拠点とする二人が、街の略称をそのまま題名に置いた「The L.A. Song」。2002年の『O.S.T.』では16曲目に収まり、公式カタログ上の尺は4分26秒。土地の名前を入口に、アルバムの一曲へと辿れる。",
+      "AUDIO1が公開した2024年10月14日のSeratoログには、「The LA Song」のSINcere Editが54分10秒と58分00秒に記録されている。ここで選んだ公式アルバム配信とは別の編集版で、同じマスターだとは断定できない。それでも、曲がDJの現場で扱い直されている具体的な手掛かりになる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "sources": [
+      {
+        "label": "People Under the Stairs — O.S.T. 公式収録一覧",
+        "url": "https://peopleunderthestairs.bandcamp.com/album/o-s-t",
+        "kind": "公式カタログ",
+        "evidence": "公式Bandcamp実読。2002-06-02、track16 The L.A. Song 4:26、track20 The Break Down 5:00。"
+      },
+      {
+        "label": "People Under the Stairs — 公式プロフィール",
+        "url": "https://www.puts.band/about",
+        "kind": "アーティスト地域情報",
+        "evidence": "Thes One維持の公式サイト。LA basedと明記。"
+      },
+      {
+        "label": "AUDIO1 — 2024-10-14 公開DJログ",
+        "url": "https://serato.com/playlists/Audio1/10-14-24_1",
+        "kind": "DJ公開プレイリスト",
+        "evidence": "本人Seratoログの実HTMLをHTTP200で取得。00:54:10/00:58:00 The LA Song (SINcere Edit) (Dirty)。web openはcache miss、通常HTTPは成功。選択原曲配信とeditのmaster一致は未確認。"
+      },
+      {
+        "label": "The L.A. Song — 公式Topic配信メタデータ",
+        "url": "https://www.youtube.com/watch?v=p4H1S4J852Y",
+        "kind": "公式配信メタデータ",
+        "evidence": "検索索引でPEOPLE UNDER THE STAIRS - Topic / Virgin Music Group / O.S.T. / Released2003-06-02 / Published2018-01-26。直接web open取得失敗、実再生なし。"
+      }
+    ],
+    "youtube": {
+      "id": "p4H1S4J852Y",
+      "url": "https://www.youtube.com/watch?v=p4H1S4J852Y",
+      "embedUrl": "https://www.youtube.com/embed/p4H1S4J852Y",
+      "title": "The L.A. Song",
+      "channel": "PEOPLE UNDER THE STAIRS - Topic",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "検索索引の曲名・artist・album・Virgin Music Group配信を確認。実再生/master・DJ使用SINcere Editとの同一性は未確認。",
+      "verified": "2026-10-24"
+    },
+    "regionBasis": "Thes Oneが維持するPeople Under the Stairs公式プロフィールでLA basedと明記。",
+    "regionSources": [
+      1
+    ],
+    "art": {
+      "word": "The L.A. Song",
+      "tag": "PEOPLE UNDER THE STAIRS",
+      "seed": 3519543812,
+      "style": "tag",
+      "palette": [
+        "#c4ca92",
+        "#efe8d5",
+        "#bca78c",
+        "#7092a9",
+        "#17191b"
+      ],
+      "paletteSourceUrl": "https://peopleunderthestairs.bandcamp.com/album/o-s-t",
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette"
+    },
+    "addedOrder": 616,
+    "datePublished": "2026-10-25"
   }
 ]
