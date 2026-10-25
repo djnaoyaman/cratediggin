@@ -81441,5 +81441,140 @@
     },
     "addedOrder": 629,
     "datePublished": "2026-10-26"
+  },
+  {
+    "id": "cut-chemist-storm",
+    "title": "Storm",
+    "artist": "Cut Chemist",
+    "primaryArtists": [
+      "Cut Chemist"
+    ],
+    "featuredArtists": [
+      "Edan",
+      "Mr. Lif"
+    ],
+    "album": "Storm (feat. Edan and Mr. Lif) - Single",
+    "year": 2006,
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": "Cut Chemist",
+    "producers": [
+      "Cut Chemist"
+    ],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=1N1RkAebVwo",
+        "label": "Cut Chemist — Storm（公式配信クレジット）",
+        "kind": "公式配信metadata"
+      },
+      {
+        "url": "https://cutchemist.bandcamp.com/",
+        "label": "Cut Chemist — 公式略歴・活動地域",
+        "kind": "アーティスト地域情報"
+      },
+      {
+        "url": "https://serato.com/playlists/geoff_t/leeds-terrace-25-11-2011",
+        "label": "Geoff Ticehurst — Leeds Terrace -25/11/2011 選曲表",
+        "kind": "DJ本人の選曲記録"
+      },
+      {
+        "url": "https://music.apple.com/us/song/129602364",
+        "label": "Apple Music — Storm featuring Edan and Mr. Lif（2006年シングル）",
+        "kind": "公式作品情報"
+      },
+      {
+        "url": "https://mrlif.bandcamp.com/track/storm",
+        "label": "Mr. Lif — Stormの2006年原曲・制作と参加経緯の本人説明",
+        "kind": "参加アーティスト本人説明"
+      }
+    ],
+    "youtube": {
+      "id": "1N1RkAebVwo",
+      "url": "https://www.youtube.com/watch?v=1N1RkAebVwo",
+      "embedUrl": "https://www.youtube.com/embed/1N1RkAebVwo",
+      "title": "Storm (feat. Edan and Mr. Lif)",
+      "channel": "Cut Chemist - Topic",
+      "channelUrl": "https://www.youtube.com/channel/UCoKAEbFgHVwJc1rMqO6dfIA",
+      "official": true,
+      "officialStatus": "official",
+      "type": "公式配信音源",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verified": "2026-10-25",
+      "verification": "通常web成功indexed公式配信metadataとoEmbed HTTP200正題/投稿者を照合。音声未再生。",
+      "versionBasis": "原曲主artistはCut Chemist、客演Edan/Mr.Lif。選択はWarnerの2006単独シングル公式配信で、SleepyheadsIIコンピartistMr.Lif/2014年を主名義・原曲年へ転用しない。2018Metalstorm、2026TechnicolorStereoRemasterとは区別。2011DJログはStormとだけ記載、使用盤/編集と現配信masterは未照合。"
+    },
+    "regionBasis": "Cut Chemist自身の公式BandcampプロフィールがLos Angeles, Californiaと明記。客演Mr.LifのBostonではなく主artist活動地域。",
+    "regionSources": [
+      1
+    ],
+    "yearBasis": "参加者Mr.Lif本人が2006年と説明。Apple公式シングルは2006-03-21、選択Warner音源のcopyrightも2006。2014本人コンピの公開年を原曲年としない。",
+    "versionBasis": "原曲主artistはCut Chemist、客演Edan/Mr.Lif。選択はWarnerの2006単独シングル公式配信で、SleepyheadsIIコンピartistMr.Lif/2014年を主名義・原曲年へ転用しない。2018Metalstorm、2026TechnicolorStereoRemasterとは区別。2011DJログはStormとだけ記載、使用盤/編集と現配信masterは未照合。",
+    "djEvidence": {
+      "url": "https://serato.com/playlists/geoff_t/leeds-terrace-25-11-2011",
+      "dj": "Geoff Ticehurst",
+      "event": "Leeds Terrace -25/11/2011",
+      "date": "2011-11-25",
+      "position": "00:37:20",
+      "preceding": "Count Jackula — Africa,00:35:31",
+      "following": "Herve ft.CadenceWeapon — Roll With The Winners (The Mane Thing Moombahton Remix),00:39:36",
+      "edition": "Cut Chemist - Storm only, no remixsuffix;exactDJmaster unverified",
+      "access": "Indexed firstparty fulltracklist then ordinary HTTP200 rawHTML saved storm-dj.html; webopenCachemiss not denial"
+    },
+    "essayTitle": "Edanを介して届いた、Stormの制作記録",
+    "essay": [
+      "ロサンゼルスのCut Chemistによる「Storm」は、EdanとMr. Lifを迎えた2006年のシングル。Mr. Lifは自身のページで、EdanからCut Chemistのトラックを受け取り、アムステルダムでヴァースを書いた経緯を振り返っている。制作はCut Chemist、二人は客演。その役割を本人の記録から辿れる一曲だ。",
+      "Geoff Ticehurstの「Leeds Terrace」2011年11月25日回には、37分20秒の位置に「Storm」が載る。Count Jackula「Africa」の後、HerveとCadence Weaponの「Roll With The Winners」のリミックスの前という並びだ。制作時のつながりとDJの選曲表を行き来すると、この曲へ入る道筋が二つ見つかる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        3,
+        4
+      ],
+      [
+        2
+      ]
+    ],
+    "primaryArtist": "Cut Chemist",
+    "artists": [
+      "Cut Chemist"
+    ],
+    "category": "Hip Hop",
+    "label": "未確認",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-25",
+    "context": "",
+    "yearStatus": "verified",
+    "deck": "客演本人の記録と、LeedsのDJ選曲表をつなぐ。",
+    "workType": "single",
+    "producerBasis": "Warner公式配信Producer:Cut Chemistと、Mr.Lif本人のProduced by Cut Chemistという説明が一致。",
+    "art": {
+      "style": "tag",
+      "palette": [
+        "#151312",
+        "#F7F3E9",
+        "#C93428",
+        "#B8B9B6",
+        "#681F1A"
+      ],
+      "paletteSource": "Actually viewed official Apple Music Storm 2006 single cover; approximate editorial palette of red, black, white and grey. Not the 2014 Mr. Lif compilation.",
+      "paletteSourceUrl": "https://music.apple.com/us/song/129602364"
+    },
+    "addedOrder": 630,
+    "datePublished": "2026-10-26"
   }
 ]
