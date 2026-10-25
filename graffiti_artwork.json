@@ -13299,7 +13299,7 @@
     {
       "id": "jurassic-5-lesson-4-the-radio",
       "title": "Lesson 4: The Radio",
-      "artist": "Jurassic 5",
+      "artist": "Cut Chemist",
       "album": "J5 (Deluxe Edition)",
       "status": "ready",
       "transparent": true,
@@ -13315,26 +13315,26 @@
       ],
       "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
       "paletteSourceURL": "https://music.apple.com/us/album/j5-deluxe-edition/1777704233",
-      "paletteNote": "Actual selected J5 (Deluxe Edition) cover viewed; approximate accent palette with Mass/QC black-white letter contrast. Not metallic gold or copied cover imagery.",
-      "concept": "LESSON 4の大きい4とTHE RADIOの文字線を重ねて一続きにする、題名と収録名義を渡る編集的字形構成。ラジオ機器・レコード・情景は描かず、音源のサンプル内容を推測しない。",
+      "paletteNote": "Existing selected J5 (Deluxe Edition) cover palette retained and actually re-viewed. Cover is a selected compilation/streaming-release reference, not evidence that Jurassic 5 is the work-primary artist. Black/white paint and original layout retained visually; new edit not pixel-identical to prior image.",
+      "concept": "既存LESSON 4: THE RADIOの主題文字・構成を維持し、補助artistタグだけ原作主名義CUT CHEMISTへ訂正。2008年J5収録名義と作品主名義を区別。音・歌詞・サンプルを推測しない。",
       "conceptIsVerifiedSongMeaning": false,
       "artistIntendedThisVisual": false,
-      "interpretationLimits": "題名と作品資料を入口とする独自の字形解釈。作者の視覚意図、試聴、DJ使用盤とのマスター一致は主張しない。",
-      "image": "assets/graffiti/jurassic-5-lesson-4-the-radio-mass-anchor-v1-sized.webp",
-      "originalImage": "assets/graffiti/originals/jurassic-5-lesson-4-the-radio-mass-anchor-v1-original.png",
+      "interpretationLimits": "作品の原名義はCut Chemist。J5は選択収録配信版であり主アーティスト名義ではない。図案は編集上の字形解釈で、音・歌詞・公式視覚意図や同一masterは主張しない。",
+      "image": "assets/graffiti/cut-chemist-lesson-4-the-radio-attribution-corrected-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/cut-chemist-lesson-4-the-radio-attribution-corrected-v1-original.png",
       "displaySizing": {
         "version": 1,
         "alphaThreshold": 8,
         "paddingFraction": 0.07,
         "visibleBox": [
           141,
-          62,
-          1869,
-          822
+          63,
+          1872,
+          826
         ],
-        "outputSha256": "bab7b2a53b4c11e3f528355db363d5e71b9eb62f589cd546bf7fd08f460e5276",
-        "sourceImage": "assets/graffiti/originals/jurassic-5-lesson-4-the-radio-mass-anchor-v1-original.png",
-        "sourceSha256": "e1ca5d8c8462d0d2bab256deb76af3bbb5db96a8be493b9e7c5ba8953dcb0571"
+        "outputSha256": "751ac325f1ea106a06f7b00dd4e84d43704c6b1ee98e400c35afb268f1c4c349",
+        "sourceImage": "assets/graffiti/originals/cut-chemist-lesson-4-the-radio-attribution-corrected-v1-original.png",
+        "sourceSha256": "7670daca57cc19219f90fc1543d347204840a22904e0f25024a8a4b82e252392"
       }
     },
     {
