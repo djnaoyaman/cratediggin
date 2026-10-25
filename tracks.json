@@ -81576,5 +81576,129 @@
     },
     "addedOrder": 630,
     "datePublished": "2026-10-26"
+  },
+  {
+    "id": "jurassic-5-twelve",
+    "title": "Twelve",
+    "artist": "Jurassic 5",
+    "primaryArtists": [
+      "Jurassic 5"
+    ],
+    "featuredArtists": [],
+    "album": "Quality Control",
+    "year": 2000,
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": "DJ Nu-Mark",
+    "producers": [
+      "DJ Nu-Mark"
+    ],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=MMxeq_Rilh8",
+        "label": "Jurassic 5 — Twelve（公式配信クレジット）",
+        "kind": "公式配信metadata"
+      },
+      {
+        "url": "https://www.universal-music.co.jp/jurassic5/biography/",
+        "label": "Jurassic 5 — 公式略歴・活動地域",
+        "kind": "アーティスト地域情報"
+      },
+      {
+        "url": "https://serato.com/playlists/dj_subotage/abb-kiel-set-mit-dj-genos",
+        "label": "DJ Subotage — ABB Kiel (Set mit DJ Genos) 2014年5月17日選曲表",
+        "kind": "DJ本人の選曲記録"
+      },
+      {
+        "url": "https://music.apple.com/us/album/quality-control/1673109195",
+        "label": "Apple Music — Quality Control作品情報",
+        "kind": "公式作品情報"
+      }
+    ],
+    "youtube": {
+      "id": "MMxeq_Rilh8",
+      "url": "https://www.youtube.com/watch?v=MMxeq_Rilh8",
+      "embedUrl": "https://www.youtube.com/embed/MMxeq_Rilh8",
+      "title": "Twelve",
+      "channel": "Jurassic 5",
+      "official": true,
+      "officialStatus": "official",
+      "type": "公式配信音源",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verified": "2026-10-25",
+      "verification": "通常web成功indexed公式アーティストチャンネル/PIAS配信metadataを確認し元tool結果を保存。音声未再生。",
+      "versionBasis": "DJ first-party playlist names Twelve without an edit suffix; identity of the actual DJ file and current distributor master is not verified. One recorded selection is not evidence of frequency."
+    },
+    "regionBasis": "Universal Music Japan公式略歴のLAベースという記述。",
+    "regionSources": [
+      1
+    ],
+    "yearBasis": "Quality Control公式カタログと選択公式配信の2000年が一致。Jan1表記を確定初出月日としない。",
+    "versionBasis": "DJ first-party playlist names Twelve without an edit suffix; identity of the actual DJ file and current distributor master is not verified. One recorded selection is not evidence of frequency.",
+    "djEvidence": {
+      "url": "https://serato.com/playlists/dj_subotage/abb-kiel-set-mit-dj-genos",
+      "dj": "DJ Subotage",
+      "event": "ABB Kiel (Set mit DJ Genos)",
+      "date": "2014-05-17",
+      "time": "06:18:01",
+      "preceding": "06:15:30 Das EFX — Real Hip Hop",
+      "following": "06:20:20 Screwball — H-O-S-T-Y-L-E",
+      "raw": "twelve-dj.html"
+    },
+    "essayTitle": "DJの曲順から拾う「Twelve」",
+    "essay": [
+      "ロサンゼルスを拠点とするJurassic 5の「Twelve」は、2000年の『Quality Control』に収められた一曲。公式配信の制作欄にはDJ Nu-Markの名が記されている。グループ内のDJが制作した曲として、同じアルバムにある「Quality Control」や「The Influence」と並べて辿れる。",
+      "DJ Subotageが公開した2014年5月17日の「ABB Kiel (Set mit DJ Genos)」には、06:18:01の位置に「Twelve」が載っている。直前はDas EFXの「Real Hip Hop」、次はScrewballの「H-O-S-T-Y-L-E」。Jurassic 5のアルバム収録曲を、この二組の間に置いた選曲として見つけ直せる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        2
+      ]
+    ],
+    "primaryArtist": "Jurassic 5",
+    "artists": [
+      "Jurassic 5"
+    ],
+    "category": "Hip Hop",
+    "label": "未確認",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-25",
+    "context": "",
+    "yearStatus": "verified",
+    "deck": "Das EFXとScrewballの間に置かれた、Jurassic 5の一曲。",
+    "workType": "single",
+    "producerBasis": "選択PIAS公式配信の成功検索結果がProducer: DJ Nu-Markを明記。元tool結果全文nextOfficial2-raw.jsonを保存。",
+    "art": {
+      "style": "tag",
+      "palette": [
+        "#161411",
+        "#F2E9D8",
+        "#7A9CAE",
+        "#A56545",
+        "#8B7969"
+      ],
+      "paletteSource": "Actually viewed official Apple Music Quality Control cover in the selected album social-preview image; approximate editorial palette of black, ivory, blue-grey, rust and warm earth.",
+      "paletteSourceUrl": "https://music.apple.com/us/album/quality-control/1673109195"
+    },
+    "addedOrder": 631,
+    "datePublished": "2026-10-26"
   }
 ]

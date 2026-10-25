@@ -13623,6 +13623,47 @@
         "sourceImage": "assets/graffiti/originals/cut-chemist-storm-mass-anchor-v1-original.png",
         "sourceSha256": "b114bb28c2eb4c41af85099e177bc23815c2bf8f29f81256fbb25d9c73d129f6"
       }
+    },
+    {
+      "id": "jurassic-5-twelve",
+      "title": "Twelve",
+      "artist": "Jurassic 5",
+      "album": "Quality Control",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#161411",
+        "#F2E9D8",
+        "#7A9CAE",
+        "#A56545",
+        "#8B7969"
+      ],
+      "paletteSource": "Actually viewed official Apple Music Quality Control cover in the selected album social-preview image; approximate editorial palette of black, ivory, blue-grey, rust and warm earth.",
+      "paletteSourceURL": "https://music.apple.com/us/album/quality-control/1673109195",
+      "paletteNote": "Main black-filled letters and white painted edges follow fixed Mass/QC series. Selected catalog cover colors only; no figurative objects/scenery copied.",
+      "concept": "TWELVE内の二つのEで同系の角を反復し、WとVの斜線で流れを作る題名の文字構成に限定した自作編集図案。歌詞・未聴取の音・数字12の意味・作者意図を検証済みとはしない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "題名と作品資料を入口とする独自の字形解釈。作者の視覚意図、試聴、DJ使用盤とのマスター一致は主張しない。",
+      "image": "assets/graffiti/jurassic-5-twelve-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/jurassic-5-twelve-mass-anchor-v1-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          137,
+          59,
+          1819,
+          772
+        ],
+        "outputSha256": "8143967e5c786afe523f9bb0c640feaf42e6f18a0874659a3883dcc5f2e71e85",
+        "sourceImage": "assets/graffiti/originals/jurassic-5-twelve-mass-anchor-v1-original.png",
+        "sourceSha256": "b0c42a687aa1779f7fc9821729f4fc3bc6396d86fa5d0caab42500e50f4f8fc0"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
