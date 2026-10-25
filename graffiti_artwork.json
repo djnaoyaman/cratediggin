@@ -13090,6 +13090,47 @@
       "textReviewed": true,
       "paletteReviewed": true,
       "noSiteBranding": true
+    },
+    {
+      "interpretationLimits": "曲の資料・題名を入口とする字形の編集解釈。作者の視覚意図、試聴、DJ使用盤とのマスター一致は主張しない。",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "id": "people-under-the-stairs-schooled-in-the-trade-instrumental",
+      "title": "Schooled in the Trade (Instrumental)",
+      "artist": "People Under the Stairs",
+      "album": "The Om Years",
+      "palette": [
+        "#171311",
+        "#F2E8D7",
+        "#B88C21",
+        "#D1B335",
+        "#754323"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceURL": "https://peopleunderthestairs.bandcamp.com/album/the-om-years",
+      "paletteNote": "The Om Yearsの黄土・金色、黒、生成りを実ジャケットから参照。色値は編集上の近似。",
+      "concept": "太いSCHOOLEDの折れを次段THE TRADEへ重ね、同じ角・筆幅を受け渡す。題名からの編集的文字構成で、学びの歌詞解釈や作者意図を主張しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "image": "assets/graffiti/people-under-the-stairs-schooled-in-the-trade-instrumental-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/people-under-the-stairs-schooled-in-the-trade-instrumental-mass-anchor-v1-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          140,
+          68,
+          1848,
+          896
+        ],
+        "outputSha256": "2ed7a7324e4117de2c763f93f1cd3a1fa9415214ce262eb409281cf3c1ce35d3",
+        "sourceImage": "assets/graffiti/originals/people-under-the-stairs-schooled-in-the-trade-instrumental-mass-anchor-v1-original.png",
+        "sourceSha256": "703f71ea5f16cee5f1d35cf8ad7d4d12a27e4f53c4b785bf54c185f8b318cf46"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
