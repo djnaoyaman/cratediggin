@@ -13336,6 +13336,47 @@
         "sourceImage": "assets/graffiti/originals/jurassic-5-lesson-4-the-radio-mass-anchor-v1-original.png",
         "sourceSha256": "e1ca5d8c8462d0d2bab256deb76af3bbb5db96a8be493b9e7c5ba8953dcb0571"
       }
+    },
+    {
+      "id": "people-under-the-stairs-time-to-rock-our-shit",
+      "title": "Time to Rock Our Shit",
+      "artist": "People Under the Stairs",
+      "album": "The Next Step",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#13110E",
+        "#F4EAD5",
+        "#C24535",
+        "#813126",
+        "#D6A292"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceURL": "https://peopleunderthestairs.bandcamp.com/album/the-next-step",
+      "paletteNote": "Actually viewed The Next Step selected cover; approximate accent colors, black/white letter contrast from fixed Mass/QC series. No cover scene copied.",
+      "concept": "TIMEとROCKの太い字を斜めに噛み合わせ、OUR SHITまで一つの塗り文字構成として続ける。題名の動詞からの独自構成のみ。時計・岩・物体化の挿絵、曲の音の視覚化はしない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "題名と作品資料を入口とする独自の字形解釈。作者の視覚意図、試聴、DJ使用盤とのマスター一致は主張しない。",
+      "image": "assets/graffiti/people-under-the-stairs-time-to-rock-our-shit-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/people-under-the-stairs-time-to-rock-our-shit-mass-anchor-v1-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          140,
+          64,
+          1860,
+          845
+        ],
+        "outputSha256": "3b3860b39fdc35cee4c3f3cb9dc9ed13f456f6914c6ad0359b05e003e886b780",
+        "sourceImage": "assets/graffiti/originals/people-under-the-stairs-time-to-rock-our-shit-mass-anchor-v1-original.png",
+        "sourceSha256": "81b38d70ebe6110a573c1a3573b967573bf197d20bd8b2c39202d5ab0358ebc0"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

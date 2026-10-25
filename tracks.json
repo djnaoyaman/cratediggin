@@ -80641,5 +80641,147 @@
     "addedOrder": 623,
     "datePublished": "2026-10-25",
     "deck": "二つのDJの記録を通して、Cut Chemistの曲を辿る。"
+  },
+  {
+    "id": "people-under-the-stairs-time-to-rock-our-shit",
+    "title": "Time to Rock Our Shit",
+    "artist": "People Under the Stairs",
+    "primaryArtist": "People Under the Stairs",
+    "primaryArtists": [
+      "People Under the Stairs"
+    ],
+    "artists": [
+      "People Under the Stairs"
+    ],
+    "featuredArtists": [],
+    "workType": "single",
+    "album": "The Next Step",
+    "year": 1998,
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "regionBasis": "Thes One管理の公式グループ略歴はLA basedと明記。レーベル所在地とは区分。",
+    "regionSources": [
+      1
+    ],
+    "producer": null,
+    "producers": [],
+    "producerBasis": "本曲の確かな単曲制作credit未確認。グループ略歴やwriterから推測しない。",
+    "label": "Om Records",
+    "moods": [
+      "ディギング"
+    ],
+    "sources": [
+      {
+        "label": "People Under the Stairs / Om — The Next Step 公式収録資料",
+        "url": "https://peopleunderthestairs.bandcamp.com/album/the-next-step",
+        "kind": "公式作品情報"
+      },
+      {
+        "label": "People Under the Stairs — 公式アーティスト略歴（LA）",
+        "url": "https://www.puts.band/about",
+        "kind": "アーティスト地域情報"
+      },
+      {
+        "label": "CRIB RECORDS — The Next Step II 1998年盤B面曲目",
+        "url": "https://www.cribrecords.jp/product/2084",
+        "kind": "現物販売資料"
+      },
+      {
+        "label": "DJ Mordecai — IN THE GROOVE 2022年3月31日公開ログ",
+        "url": "https://serato.com/playlists/mordecai/in-the-groove-3-31-2022",
+        "kind": "DJ本人の選曲記録"
+      },
+      {
+        "label": "Wax Poetics / Chris Read — Classic Material Edition 12（1998）選曲",
+        "url": "https://soundcloud.com/wax-poetics/hiphop50-classic-material-edition-12-1998-mixed-by-chris-read",
+        "kind": "ミックス公開者の選曲記録"
+      },
+      {
+        "label": "YouTube — Time To Rock Our Shit 公式Topic音源",
+        "url": "https://www.youtube.com/watch?v=xi_vmchLqjw",
+        "kind": "公式配信音源metadata"
+      }
+    ],
+    "youtube": {
+      "id": "xi_vmchLqjw",
+      "url": "https://www.youtube.com/watch?v=xi_vmchLqjw",
+      "embedUrl": "https://www.youtube.com/embed/xi_vmchLqjw",
+      "title": "Time to Rock Our Shit",
+      "channel": "PEOPLE UNDER THE STAIRS - Topic",
+      "channelUrl": "https://www.youtube.com/channel/UC2iOJ6K_0ug4lNxMrgns5ww",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verified": "2026-10-25",
+      "verification": "通常web検索の公式配信metadataとoEmbed HTTP200の正題/Topic channelを照合。再生/日本地域/埋込実行/master同一性は確認していない。 親writerが通常YouTube検索UIで正題/Topic/provider/表示尺を直接照合。",
+      "versionBasis": "Virgin Music Group配信、The Next Step、℗1999 Om、Released1999-10-26、動画公開2014-11-06を通常検索indexで確認。oEmbedは正題/Topicを直接確認。1998年現物盤やDJ使用masterとの同一性は未確認。 動画検索UI表示4:25、公式カタログ4:24の尺差を保持し、同一masterと断定しない。",
+      "duration": "4:25",
+      "durationBasis": "通常YouTube検索UIの表示尺。音声未再生。"
+    },
+    "yearBasis": "CRIB現物1998年12インチB1に本曲。公式略歴も初フル作1998。現行Bandcamp1999-03-23、選択Topic1999-10-26は別の配信日付表記として保持。",
+    "yearQualifier": "原盤年",
+    "yearDisplayNote": "原盤1998年。現行Bandcampは1999年3月23日、選択配信は1999年10月26日と表記。",
+    "catalogDuration": "4:24",
+    "essayTitle": "最初の12インチから、後年のDJログへ",
+    "deck": "B面の曲名と、選曲の記録をつなぐ。",
+    "essay": [
+      "ロサンゼルスのPeople Under the Stairsが初期に残した「Time to Rock Our Shit」。1998年の12インチ『The Next Step II』ではB面の1曲目に載り、『The Next Step』の公式カタログにも収められている。現行配信の日付は1999年表記だが、それを最初の発売年と混同せず、盤の記録から辿りたい。",
+      "DJ Mordecaiの「IN THE GROOVE」2022年3月31日回では、15分47秒の位置に同曲名が記録されている。Wax Poeticsが公開したChris Readの1998年回顧ミックスにも26曲目として掲載。二つの具体的な選曲記録が、初期盤を探し直す入口になる。使用ファイルの編集や、今回の公式配信とのマスター一致は未確認だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "djEvidence": {
+      "primarySources": [
+        3,
+        4
+      ],
+      "performers": [
+        "DJ Mordecai",
+        "Chris Read"
+      ],
+      "specificEntries": [
+        "2022-03-31 00:15:47",
+        "Classic Material Edition12 (1998), track26"
+      ],
+      "limits": "実際の音を聴いて編集/clean/dirty/masterを確認したわけではない。使用頻度や定番度は断定しない。"
+    },
+    "category": "Hip Hop",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-25",
+    "context": "",
+    "art": {
+      "style": "tag",
+      "palette": [
+        "#13110E",
+        "#F4EAD5",
+        "#C24535",
+        "#813126",
+        "#D6A292"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceUrl": "https://peopleunderthestairs.bandcamp.com/album/the-next-step"
+    },
+    "addedOrder": 624,
+    "datePublished": "2026-10-25"
   }
 ]
