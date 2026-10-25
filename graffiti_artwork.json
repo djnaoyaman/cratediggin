@@ -13377,6 +13377,47 @@
         "sourceImage": "assets/graffiti/originals/people-under-the-stairs-time-to-rock-our-shit-mass-anchor-v1-original.png",
         "sourceSha256": "81b38d70ebe6110a573c1a3573b967573bf197d20bd8b2c39202d5ab0358ebc0"
       }
+    },
+    {
+      "id": "people-under-the-stairs-hang-loose",
+      "title": "Hang Loose",
+      "artist": "People Under the Stairs",
+      "album": "O.S.T.",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#141414",
+        "#F5F1E4",
+        "#B7BC84",
+        "#6B8BA0",
+        "#9E836D"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceURL": "https://peopleunderthestairs.bandcamp.com/album/o-s-t",
+      "paletteNote": "Actually viewed O.S.T. selected cover; approximate accent colors, black/white letter contrast from fixed Mass/QC series. No cover scene copied.",
+      "concept": "HANGを詰め気味、LOOSEの2つのOの内側に余白を残して大小と重なりで対比する。題名を使う独自字形構成。紐・吊物や情景化せず、歌詞の意味の断定なし。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "題名と作品資料を入口とする独自の字形解釈。作者の視覚意図、試聴、DJ使用盤とのマスター一致は主張しない。",
+      "image": "assets/graffiti/people-under-the-stairs-hang-loose-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/people-under-the-stairs-hang-loose-mass-anchor-v1-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          138,
+          67,
+          1829,
+          886
+        ],
+        "outputSha256": "751736cf4dd516234ff0d169d5436a777768149c84e8cdbc4e0be7a633416936",
+        "sourceImage": "assets/graffiti/originals/people-under-the-stairs-hang-loose-mass-anchor-v1-original.png",
+        "sourceSha256": "0be0dc381433b7d5cbadc85d6a61d47721fa79a5221e5b967884aa2a9ef77051"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
