@@ -81081,5 +81081,118 @@
     },
     "addedOrder": 626,
     "datePublished": "2026-10-26"
+  },
+  {
+    "id": "people-under-the-stairs-jappy-jap",
+    "title": "Jappy Jap",
+    "artist": "People Under the Stairs",
+    "primaryArtist": "People Under the Stairs",
+    "primaryArtists": [
+      "People Under the Stairs"
+    ],
+    "artists": [
+      "People Under the Stairs"
+    ],
+    "featuredArtists": [],
+    "workType": "single",
+    "album": "Jappy Jap",
+    "year": 2002,
+    "yearQualifier": "シングル発表年",
+    "yearDisplayNote": "公式シングル資料は2002年3月12日。選択動画の投稿年2014年とは区別。",
+    "yearBasis": "公式Bandcampシングルreleased2002-03-12と選択Virgin配信metadataのReleased日一致。O.S.T.別配信2003年表記はこの選択に転用しない。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "regionBasis": "同公式Bandcampのアーティスト欄がLos Angeles basedと明記。",
+    "regionSources": [
+      0
+    ],
+    "producer": null,
+    "producers": [],
+    "producerBasis": "単曲制作creditを確認できずnull。Topic Composer:-、グループmemberやwriterから推測しない。",
+    "label": "Om Records",
+    "catalogDuration": "3:46",
+    "moods": [
+      "ディギング"
+    ],
+    "sources": [
+      {
+        "label": "People Under the Stairs / Om — Jappy Jap シングル作品情報",
+        "url": "https://peopleunderthestairs.bandcamp.com/album/jappy-jap",
+        "kind": "公式作品情報"
+      },
+      {
+        "label": "DJ Mordecai — Send It For Cesar!（2024年3月16日）",
+        "url": "https://serato.com/playlists/mordecai/send-it-for-cesar",
+        "kind": "DJ本人の選曲記録"
+      },
+      {
+        "label": "Jeremy Garcia — 2024年11月18日 Serato選曲記録",
+        "url": "https://serato.com/playlists/Jeremy_Garcia/11-18-24",
+        "kind": "DJ本人の選曲記録"
+      },
+      {
+        "label": "YouTube — Jappy Jap シングル収録版公式Topic",
+        "url": "https://www.youtube.com/watch?v=76WoCYuwCyw",
+        "kind": "公式配信音源metadata"
+      }
+    ],
+    "youtube": {
+      "id": "76WoCYuwCyw",
+      "url": "https://www.youtube.com/watch?v=76WoCYuwCyw",
+      "embedUrl": "https://www.youtube.com/embed/76WoCYuwCyw",
+      "title": "Jappy Jap",
+      "channel": "PEOPLE UNDER THE STAIRS - Topic",
+      "channelUrl": "https://www.youtube.com/channel/UC2iOJ6K_0ug4lNxMrgns5ww",
+      "official": true,
+      "officialStatus": "official",
+      "type": "公式配信音源",
+      "verified": "2026-10-25",
+      "verification": "通常web検索indexでVirgin配信・作品Jappy Jap・2002-03-12・投稿2014-11-06を照合、oEmbed HTTP200で正題/Topic一致。watch直接webopenは取得失敗。再生・地域・埋込・master一致未検証。",
+      "versionBasis": "選択はJappy Japシングル収録の通常曲。O.S.T.別配信o4hC_c-6Y8w（Released2003-06-02）やInstrumentalとは区別。DJ使用masterとの一致は未確認。",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false
+    },
+    "essayTitle": "二十二年後の選曲表で、もう一度出会う",
+    "deck": "6曲入りシングルの先頭から、二人のDJの並びへ。",
+    "essay": [
+      "ロサンゼルスのPeople Under the Stairsが2002年に発表した「Jappy Jap」。同名の6曲入りシングルでは先頭を飾り、続くInstrumentalに加えて「I-15」「Hang Loose」まで収める。ひとつの曲名から、別の曲やヴァージョンへ手を伸ばせる一枚だ。",
+      "2024年3月16日、DJ Mordecaiの「Send It For Cesar!」には「Step Bacc」と「O.S.T.」の間にこの曲が並ぶ。同年11月18日のJeremy Garciaのログでは、Cookin Soul「Karate Frees」に続き、Large ProfessorとCZARFACEの「World Premier」へ渡す位置に登場する。同じ曲が二人の異なる選曲の中に置かれた記録を、シングルを探し直す入口にしたい。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "category": "Hip Hop",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-25",
+    "context": "",
+    "art": {
+      "style": "tag",
+      "palette": [
+        "#151411",
+        "#F7F1D2",
+        "#9FA6A4",
+        "#98705B",
+        "#62594E"
+      ],
+      "paletteSource": "Actually viewed official Bandcamp Jappy Jap single cover; approximate editorial palette of cool grey, ivory, sepia and black. Not the O.S.T. cover.",
+      "paletteSourceUrl": "https://peopleunderthestairs.bandcamp.com/album/jappy-jap"
+    },
+    "addedOrder": 627,
+    "datePublished": "2026-10-26"
   }
 ]
