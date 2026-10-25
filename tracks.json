@@ -79864,5 +79864,146 @@
     },
     "addedOrder": 617,
     "datePublished": "2026-10-25"
+  },
+  {
+    "id": "people-under-the-stairs-schooled-in-the-trade-instrumental",
+    "title": "Schooled in the Trade (Instrumental)",
+    "artist": "People Under the Stairs",
+    "primaryArtists": [
+      "People Under the Stairs"
+    ],
+    "featuredArtists": [],
+    "album": "The Om Years",
+    "year": 2008,
+    "releaseDate": "2008-07-22",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": null,
+    "producers": [],
+    "yearBasis": "公式The Om Yearsカタログ2008-07-22を選択版年として表示。Instrumental版そのものの初出年を2008と断定しない。元の同名曲は2000 Om Lounge Vol3/4資料に残る。",
+    "sources": [
+      {
+        "url": "https://omlounge.bandcamp.com/album/om-lounge-vol-3",
+        "label": "Om Records — Om Lounge Vol. 3 収録・発売資料",
+        "access": "web full text + ordinary HTTP 200, 2026-10-25"
+      },
+      {
+        "url": "https://www.puts.band/about",
+        "label": "People Under the Stairs — 公式アーティスト紹介",
+        "basis": "Thes Oneが管理する公式サイト本文がLA basedと明記。レーベル所在地San Franciscoとは分離。",
+        "access": "web full text + ordinary HTTP 200, 2026-10-25"
+      },
+      {
+        "url": "https://markfarina.bandcamp.com/album/mushroom-jazz-bundle",
+        "label": "Mark Farina — Mushroom Jazz Bundle 選曲一覧",
+        "access": "web full text + ordinary HTTP200",
+        "basis": "38曲目Schooled In The Trade、3:41。bundle発売2013-12-09は原曲年ではない。"
+      },
+      {
+        "url": "https://music.apple.com/us/song/1603694731",
+        "label": "Apple Music — Mushroom Jazz 3 DJ Mix収録版",
+        "access": "primary catalog indexed search only",
+        "basis": "Schooled In the Trade (Instrumental) [Mixed]、2001-03-20。Om Lounge原版と同一master未確認。"
+      },
+      {
+        "url": "https://peopleunderthestairs.bandcamp.com/album/the-om-years",
+        "label": "People Under the Stairs — The Om Years 公式収録・発売資料",
+        "access": "web full text and HTTP200 2026-10-25",
+        "basis": "24 Schooled in the Trade (Instrumental)4:41、27 Sunroof (Instrumental)5:28、2008-07-22"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=nU5wkiU4QQQ",
+        "label": "YouTube — Schooled In The Trade (Instrumental) 公式Topic選択音源",
+        "access": "direct ordinary oEmbed HTTP200; root normal UI rawAX independently reread and pinned root-normal-ui-two-evidence.json"
+      }
+    ],
+    "catalogDuration": "4:41",
+    "cover": {
+      "url": "https://f4.bcbits.com/img/a4252800133_5.jpg",
+      "source": "https://peopleunderthestairs.bandcamp.com/album/the-om-years",
+      "basis": "official og:image HTTP200",
+      "visuallyInspected": false
+    },
+    "youtube": {
+      "id": "nU5wkiU4QQQ",
+      "url": "https://www.youtube.com/watch?v=nU5wkiU4QQQ",
+      "official": true,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "officialStatus": "official",
+      "type": "公式配信音源",
+      "channel": "PEOPLE UNDER THE STAIRS - Topic",
+      "channelUrl": "https://www.youtube.com/channel/UC2iOJ6K_0ug4lNxMrgns5ww",
+      "title": "Schooled In The Trade (Instrumental)",
+      "reportedVideoDuration": "4:42",
+      "versionBasis": "oEmbed HTTP200で正題とTopic投稿者を直接確認。root通常UI保存AXを再読しOrchard/The Om Yearsを確認。選択版はInstrumental、カタログと動画表示は1秒差、2000年同名原曲およびDJ使用masterとの同一性は未照合。 選択2008年The Om Years Instrumental版と2000年Om Loungeの同名曲、DJ使用Mixed/Instrumentalファイルの同一master・編集内容は未照合。カタログと選択動画表示に各1秒差（Schooled4:41/4:42、Sunroof5:28/5:29）。",
+      "embedUrl": "https://www.youtube.com/embed/nU5wkiU4QQQ"
+    },
+    "djEvidence": {
+      "dj": "Mark Farina",
+      "strength": "strong primary official catalog",
+      "editionLimit": "Farinaのmixed版と選択The Om Years Instrumental版の同一master/編集内容は未照合。原曲初出2000と選択盤年2008を区分。"
+    },
+    "essayTitle": "Farinaの選曲から辿る、もう一つの収録版",
+    "essay": [
+      "Mark Farinaの『Mushroom Jazz 3』では、「Schooled in the Trade」がInstrumental／Mixed表記で収録されている。Farina公式の『Mushroom Jazz Bundle』にも3分41秒の同曲が並ぶ。People Under the Stairsをアルバム単位で探すだけでなく、DJが組んだ曲順から見つける入口だ。",
+      "同名曲の記録は2000年の『Om Lounge Vol. 3』に遡る。今回選ぶのは、2008年の公式編集盤『The Om Years』に収められた4分41秒のInstrumental版。DJミックスの選曲を手掛かりに、ロサンゼルスの二人組のカタログへ戻っていける。"
+    ],
+    "essaySources": [
+      [
+        2,
+        3
+      ],
+      [
+        0,
+        1,
+        4
+      ]
+    ],
+    "yearQualifier": "選択版",
+    "yearDisplayNote": "2008年のThe Om Years収録版。2000年のOm Lounge掲載曲とのマスター同一性は未確認。",
+    "historicalOriginalCatalog": {
+      "url": "https://omlounge.bandcamp.com/album/om-lounge-vol-3",
+      "label": "Om Records — Om Lounge Vol. 3 収録・発売資料",
+      "access": "web full text + ordinary HTTP 200, 2026-10-25"
+    },
+    "historicalOriginalYear": 2000,
+    "versionBasis": "oEmbed HTTP200で正題とTopic投稿者を直接確認。root通常UI保存AXを再読しOrchard/The Om Yearsを確認。選択版はInstrumental、カタログと動画表示は1秒差、2000年同名原曲およびDJ使用masterとの同一性は未照合。 選択2008年The Om Years Instrumental版と2000年Om Loungeの同名曲、DJ使用Mixed/Instrumentalファイルの同一master・編集内容は未照合。カタログと選択動画表示に各1秒差（Schooled4:41/4:42、Sunroof5:28/5:29）。",
+    "primaryArtist": "People Under the Stairs",
+    "artists": [
+      "People Under the Stairs"
+    ],
+    "category": "Hip Hop",
+    "label": "未確認",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-25",
+    "context": "",
+    "deck": "",
+    "art": {
+      "style": "tag",
+      "palette": [
+        "#171311",
+        "#F2E8D7",
+        "#B88C21",
+        "#D1B335",
+        "#754323"
+      ],
+      "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
+      "paletteSourceUrl": "https://peopleunderthestairs.bandcamp.com/album/the-om-years"
+    },
+    "addedOrder": 618,
+    "datePublished": "2026-10-25"
   }
 ]
