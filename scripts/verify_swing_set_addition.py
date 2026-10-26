@@ -6,7 +6,7 @@ import sys
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
 from artwork_display import assert_normalized,measure
 ROOT=Path(__file__).resolve().parents[1]
-BASE='8c5b2f6fc0abfd88d2422dc5673d8e162570a019'
+BASE='a69438eaa6dd50dba68eba08aebaf54938027444'
 ID='jurassic-5-swing-set'
 def read(path):return json.loads((ROOT/path).read_text(encoding='utf-8'))
 def original(path):return json.loads(subprocess.check_output(['git','show',f'{BASE}:{path}'],cwd=ROOT))
@@ -33,7 +33,7 @@ assert a['transparent'] and a['textReviewed'] and a['noSiteBranding']
 assert hashlib.sha256((ROOT/a['image']).read_bytes()).hexdigest()==a['displaySizing']['outputSha256']
 with Image.open(ROOT/a['image']) as im:
  im.load();assert 'A' in im.getbands();metrics=assert_normalized(measure(im));assert metrics['visibleBox']==a['displaySizing']['visibleBox'];assert im.getchannel('A').getextrema()==(0,255)
-release=read('releases.json');oldrelease=original('releases.json');assert release['version']=='22.223';assert {k:v for k,v in release.items() if k!='version'}=={k:v for k,v in oldrelease.items() if k!='version'}
+release=read('releases.json');oldrelease=original('releases.json');assert release['version']=='22.224';assert {k:v for k,v in release.items() if k!='version'}=={k:v for k,v in oldrelease.items() if k!='version'}
 if (ROOT/'dist').exists():
  page=(ROOT/'dist/tracks'/f'{ID}.html').read_text(encoding='utf-8')
  assert all(x in page for x in ['Swing Set','Jurassic 5','Los Angeles','2000'])
