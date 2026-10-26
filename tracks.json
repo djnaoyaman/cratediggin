@@ -79914,9 +79914,10 @@
         "basis": "24 Schooled in the Trade (Instrumental)4:41、27 Sunroof (Instrumental)5:28、2008-07-22"
       },
       {
-        "url": "https://www.youtube.com/watch?v=nU5wkiU4QQQ",
-        "label": "YouTube — Schooled In The Trade (Instrumental) 公式Topic選択音源",
-        "access": "direct ordinary oEmbed HTTP200; root normal UI rawAX independently reread and pinned root-normal-ui-two-evidence.json"
+        "url": "https://www.youtube.com/watch?v=ZqpqMKKrbJs",
+        "label": "SteveSpliffler — Schooled In The Trade (Instrumental)（一般投稿）",
+        "access": "oEmbed HTTP200と通常ブラウザの題名・投稿者・説明・表示尺を照合、2026-10-26",
+        "basis": "The OM Years表記、4:42。投稿者を公式配信チャンネルとは扱わない。実再生・同一マスターは未確認。"
       }
     ],
     "catalogDuration": "4:41",
@@ -79927,21 +79928,21 @@
       "visuallyInspected": false
     },
     "youtube": {
-      "id": "nU5wkiU4QQQ",
-      "url": "https://www.youtube.com/watch?v=nU5wkiU4QQQ",
-      "official": true,
+      "id": "ZqpqMKKrbJs",
+      "url": "https://www.youtube.com/watch?v=ZqpqMKKrbJs",
+      "official": false,
       "playbackVerified": false,
       "embeddedPlaybackVerified": false,
       "japanPlaybackVerified": false,
       "exactMasterVerified": false,
-      "officialStatus": "official",
-      "type": "公式配信音源",
-      "channel": "PEOPLE UNDER THE STAIRS - Topic",
-      "channelUrl": "https://www.youtube.com/channel/UC2iOJ6K_0ug4lNxMrgns5ww",
-      "title": "Schooled In The Trade (Instrumental)",
+      "officialStatus": "unofficial",
+      "type": "一般投稿",
+      "channel": "SteveSpliffler",
+      "channelUrl": "https://www.youtube.com/@SteveSpliffler",
+      "title": "People Under The Stairs - Schooled In The Trade (Instrumental)",
       "reportedVideoDuration": "4:42",
-      "versionBasis": "oEmbed HTTP200で正題とTopic投稿者を直接確認。root通常UI保存AXを再読しOrchard/The Om Yearsを確認。選択版はInstrumental、カタログと動画表示は1秒差、2000年同名原曲およびDJ使用masterとの同一性は未照合。 選択2008年The Om Years Instrumental版と2000年Om Loungeの同名曲、DJ使用Mixed/Instrumentalファイルの同一master・編集内容は未照合。カタログと選択動画表示に各1秒差（Schooled4:41/4:42、Sunroof5:28/5:29）。",
-      "embedUrl": "https://www.youtube.com/embed/nU5wkiU4QQQ"
+      "versionBasis": "指定された一般投稿の曲名はInstrumental、説明欄はThe OM Years。通常ブラウザの表示尺4:42は公式カタログ4:41と1秒差。2008年の選択盤年を保持し、2000年の同名曲やDJミックス版との同一マスター・編集内容は未照合。音声の実再生、日本での再生可否は未確認。",
+      "embedUrl": "https://www.youtube.com/embed/ZqpqMKKrbJs"
     },
     "djEvidence": {
       "dj": "Mark Farina",
@@ -79972,7 +79973,7 @@
       "access": "web full text + ordinary HTTP 200, 2026-10-25"
     },
     "historicalOriginalYear": 2000,
-    "versionBasis": "oEmbed HTTP200で正題とTopic投稿者を直接確認。root通常UI保存AXを再読しOrchard/The Om Yearsを確認。選択版はInstrumental、カタログと動画表示は1秒差、2000年同名原曲およびDJ使用masterとの同一性は未照合。 選択2008年The Om Years Instrumental版と2000年Om Loungeの同名曲、DJ使用Mixed/Instrumentalファイルの同一master・編集内容は未照合。カタログと選択動画表示に各1秒差（Schooled4:41/4:42、Sunroof5:28/5:29）。",
+    "versionBasis": "指定された一般投稿の曲名はInstrumental、説明欄はThe OM Years。通常ブラウザの表示尺4:42は公式カタログ4:41と1秒差。2008年の選択盤年を保持し、2000年の同名曲やDJミックス版との同一マスター・編集内容は未照合。音声の実再生、日本での再生可否は未確認。",
     "primaryArtist": "People Under the Stairs",
     "artists": [
       "People Under the Stairs"
