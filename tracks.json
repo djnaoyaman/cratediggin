@@ -78334,7 +78334,7 @@
     "deck": "記憶に残るコーラスを書いたCamel",
     "context": "リリース資料と本人の言葉からたどる一曲",
     "essay": [
-      "「Acid Raindrops」を振り返ったThes Oneが鍵として挙げたのは、Camelの書いたコーラスだった。本人によれば、冒頭でラップするのもCamel。ビートから始まった曲を、声とフックの共同作業として捉え直せる証言だ。ここではOm Recordsの4分56秒の投稿を選んでいる。同じレーベルに4分25秒の投稿もあるため、曲名だけで版を混同しないようにした。"
+      "「Acid Raindrops」を振り返ったThes Oneが鍵として挙げたのは、Camelの書いたコーラスだった。本人によれば、冒頭でラップするのもCamel。ビートから始まった曲を、声とフックの共同作業として捉え直せる証言だ。二人組の名前の奥に、もう一人の声が見えてくる。"
     ],
     "essaySources": [
       [
@@ -78358,10 +78358,10 @@
         "evidence": "Track18 Acid Raindrops 4:55; 2002 album. June2 differs from other catalogs June4; only year used."
       },
       {
-        "label": "Om Records — Acid Raindrops",
-        "url": "https://www.youtube.com/watch?v=6MALEzGfHdk",
-        "kind": "YouTube検索表示の照合",
-        "evidence": "2026-10-24に通常検索UIで曲名、投稿者、作品情報、長さを照合。実再生は未確認。"
+        "label": "People Under the Stairs — Acid Raindrops（公式Topic配信）",
+        "url": "https://www.youtube.com/watch?v=UcKDx4cmvio",
+        "kind": "権利者提供配信・oEmbedチャンネル照合",
+        "evidence": "O.S.T.収録、Virgin Music Group提供。曲名とアーティストTopicチャンネルを2026-10-26に再確認。配信版2003年表記を原アルバム2002年と区別。"
       },
       {
         "label": "Apple Music — Acid Raindrops (feat. Camel MC)",
@@ -78371,12 +78371,12 @@
       }
     ],
     "youtube": {
-      "id": "6MALEzGfHdk",
-      "url": "https://www.youtube.com/watch?v=6MALEzGfHdk",
-      "embedUrl": "https://www.youtube.com/embed/6MALEzGfHdk",
+      "id": "UcKDx4cmvio",
+      "url": "https://www.youtube.com/watch?v=UcKDx4cmvio",
+      "embedUrl": "https://www.youtube.com/embed/UcKDx4cmvio",
       "title": "Acid Raindrops",
-      "channel": "Om Records",
-      "type": "公式配信音源",
+      "channel": "PEOPLE UNDER THE STAIRS - Topic",
+      "type": "公式Topic配信音源",
       "official": true,
       "officialStatus": "official",
       "playbackVerified": false,
@@ -78384,11 +78384,13 @@
       "japanPlaybackVerified": false,
       "exactMasterVerified": false,
       "exactMixMasterVerified": false,
-      "versionBasis": "Om Records認証済みchannelの4:56投稿。説明は元O.S.T.曲と明記、Om25周年紹介。4:25投稿やinstrumental/liveは採用しない。マスター一致未検証。",
-      "duration": "4:56"
+      "versionBasis": "アーティスト関連Topicの権利者提供配信。O.S.T.収録、配信側2003年表記と原アルバム2002年を区別。旧Om Records投稿や別盤とのmaster同一性は未確認。",
+      "channelUrl": "https://www.youtube.com/channel/UC2iOJ6K_0ug4lNxMrgns5ww",
+      "verified": "2026-10-26",
+      "verification": "2026-10-26 YouTube oEmbed HTTP200で曲名・artistTopic・channelURLを照合。本人直接投稿のPiecelock70とは別。実再生や埋め込み・日本地域可否は未検証。"
     },
     "artConcept": "曲名から雨滴が輪郭を結び、中心に集まるtag。声がまとまるchorusを編集側の視覚比喩にする。薬物器具や本人似顔絵、作者意図の断定なし。",
-    "yearBasis": "Om公式O.S.T.2002。日付表記差があるため年のみ。",
+    "yearBasis": "Om Records公式O.S.T.カタログは2002年。日付表記差があるため年のみ。選択Topic配信の2003年表記は後年の配信版として別に保持。",
     "art": {
       "word": "Acid Raindrops",
       "tag": "PEOPLE UNDER THE STAIRS",
@@ -78413,7 +78415,15 @@
       1
     ],
     "addedOrder": 604,
-    "datePublished": "2026-10-24"
+    "datePublished": "2026-10-24",
+    "selectedRelease": {
+      "artist": "People Under the Stairs",
+      "album": "O.S.T.",
+      "year": 2003,
+      "distributor": "Virgin Music Group",
+      "source": "https://www.youtube.com/watch?v=UcKDx4cmvio",
+      "role": "選択Topicの配信版。原アルバムは2002年。"
+    }
   },
   {
     "artist": "Cut Chemist",

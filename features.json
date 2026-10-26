@@ -1102,6 +1102,135 @@
         ],
         "disclosure": "聴く順番と聴きどころはDJ Naoyamanの編集上の視点です。制作クレジットは曲ごとの資料を参照。指定4曲はPIASの公式Topic配信で、本人の直接投稿とは区別しています。 Jayouの2版はSymphonicの公式配信です。"
       }
+    },
+    {
+      "id": "people-under-the-stairs",
+      "name": "People Under the Stairs",
+      "type": "artist",
+      "names": [
+        "People Under the Stairs"
+      ],
+      "aliases": [
+        "People Under The Stairs"
+      ],
+      "allYears": true,
+      "scopeOwnNames": [
+        "People Under the Stairs",
+        "People Under The Stairs"
+      ],
+      "identityNote": "活動拠点：Los Angeles, California, USA。Thes OneとDouble Kによるグループ名義の掲載作品をたどります。",
+      "note": "掲載作品から選んだ特集です。全ディスコグラフィーではありません。",
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-people-under-the-stairs-tag-v1.webp",
+        "alt": "People Under the Stairs — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      },
+      "listeningOrder": [
+        "people-under-the-stairs-san-francisco-knights",
+        "people-under-the-stairs-the-next-step-ii",
+        "people-under-the-stairs-youth-explosion",
+        "people-under-the-stairs-code-check",
+        "people-under-the-stairs-montego-slay",
+        "people-under-the-stairs-the-la-song",
+        "people-under-the-stairs-acid-raindrops",
+        "people-under-the-stairs-the-break-down"
+      ],
+      "editorial": {
+        "format": "source-led-v1",
+        "title": "二人で掘って、街へ持ち帰る。",
+        "deck": "Los Angelesの二人組、People Under the Stairs。The Next StepからO.S.T.へ、街の名前とレコードの記憶をたどる8曲。",
+        "context": "Thes OneとDouble K。レコード店で出会った二人の音楽を、三枚のアルバムから聴く。",
+        "introduction": [
+          "一曲が好きになると、その隣に置かれた曲も気になってくる。People Under the Stairsは、そんな聴き方で戻りたくなる二人組だ。ここでは地名の入った曲から始めて、アルバムの後半へ少しずつ歩いていく。"
+        ],
+        "sections": [
+          {
+            "heading": "LOS ANGELES / レコード店から",
+            "paragraphs": [
+              "Thes OneとDouble K。公式サイトが振り返る出会いの場所は、Pico BoulevardのMartin’s Record Store。1994年、レコードのそばで知り合った二人の音楽を、ここでは三枚のアルバムから聴いてみたい。"
+            ],
+            "sources": [
+              0
+            ]
+          },
+          {
+            "heading": "THE NEXT STEP / 旅先の記憶",
+            "paragraphs": [
+              "入口は[San Francisco Knights](#/song/people-under-the-stairs-san-francisco-knights)。Thes Oneは、この曲を1996年に作ったと振り返っている。LAの二人が旅先の時間を曲へ持ち帰り、1998年の最初のアルバムへ収めた。そのあとに[The Next Step II](#/song/people-under-the-stairs-the-next-step-ii)を置く。曲名どおり、もう一歩先へ。"
+            ],
+            "sources": [
+              0,
+              1,
+              4
+            ]
+          },
+          {
+            "heading": "QUESTION IN THE FORM OF AN ANSWER / 同じ棚の二曲",
+            "paragraphs": [
+              "2000年の『Question in the Form of an Answer』からは、[Youth Explosion](#/song/people-under-the-stairs-youth-explosion)と[Code Check](#/song/people-under-the-stairs-code-check)。アルバムでは3曲目と6曲目に置かれている。気に入った一曲の次に、同じ盤からもう一曲。名前を覚えるより先に、そのアルバムへ戻る理由を増やしておく。"
+            ],
+            "sources": [
+              2
+            ]
+          },
+          {
+            "heading": "O.S.T. / アルバムの後半を歩く",
+            "paragraphs": [
+              "2002年の『O.S.T.』では、[Montego Slay](#/song/people-under-the-stairs-montego-slay)から[The L.A. Song](#/song/people-under-the-stairs-the-la-song)へ。この二曲はアルバムでも隣り合っている。続いて[Acid Raindrops](#/song/people-under-the-stairs-acid-raindrops)、最後は[The Break Down](#/song/people-under-the-stairs-the-break-down)。後半の曲順を小さく抜き出すと、一曲ずつ探していた盤にも帰り道ができる。"
+            ],
+            "sources": [
+              3
+            ]
+          },
+          {
+            "heading": "ACID RAINDROPS / もう一人の声",
+            "paragraphs": [
+              "Thes Oneによれば、「Acid Raindrops」のコーラスを書き、最初のラップを担当したのはCamel。二人組の名前だけで聴いていた曲にも、もう一人の顔が見えてくる。まずは声の入り口を確かめて、それからコーラスへ。クレジットを読むことも、聴き直すきっかけになる。"
+            ],
+            "sources": [
+              4
+            ]
+          },
+          {
+            "heading": "隣の棚へ",
+            "paragraphs": [
+              "同じ取材では、Thes OneがCut Chemistとレコードを探しに出かけた思い出も語っている。収穫だけでなく、移動中の会話や食事まで含めてディギング。その話を頭の隅に置きながら、次はJurassic 5の[The Game](#/song/jurassic-5-the-game)へ寄ってみてもいい。",
+              "下の「LISTENING ROUTE」は、三枚のアルバムを順にたどる8曲。その下の掲載一覧から、自分ならどこを入れ替えるかを考えるのも楽しい。"
+            ],
+            "sources": [
+              4
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "label": "People Under the Stairs — 公式略歴",
+            "url": "https://www.puts.band/about"
+          },
+          {
+            "label": "The Next Step — Om Records公式カタログ",
+            "url": "https://peopleunderthestairs.bandcamp.com/album/the-next-step"
+          },
+          {
+            "label": "Question in the Form of an Answer — Om Records公式カタログ",
+            "url": "https://peopleunderthestairs.bandcamp.com/album/question-in-the-form-of-an-answer"
+          },
+          {
+            "label": "O.S.T. — Om Records公式カタログ",
+            "url": "https://peopleunderthestairs.bandcamp.com/album/o-s-t"
+          },
+          {
+            "label": "Thes One — 制作とディギングの回想 / David Ma取材（2021年掲載）",
+            "url": "https://www.powmag.net/p/the-making-of-people-under-the-stairs-acid-raindrops-and-san-francisco-knights"
+          },
+          {
+            "label": "People Under the Stairs — 公式サイト",
+            "url": "https://www.puts.band/"
+          }
+        ],
+        "disclosure": "聴く順番と聴きどころはDJ Naoyamanの編集上の視点です。8曲の選曲ルートには、権利者から提供されたアーティストTopic配信を使用。本人運営のPiecelock70への公式リンクとは区別しています。アルバム初出年と、後年の配信版の日付を混同しません。"
+      }
     }
   ]
 }
