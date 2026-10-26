@@ -13299,7 +13299,7 @@
     {
       "id": "jurassic-5-lesson-4-the-radio",
       "title": "Lesson 4: The Radio",
-      "artist": "Cut Chemist",
+      "artist": "Jurassic 5",
       "album": "J5 (Deluxe Edition)",
       "status": "ready",
       "transparent": true,
@@ -13315,11 +13315,11 @@
       ],
       "paletteSource": "Actually viewed official catalog cover; approximate editorial palette",
       "paletteSourceURL": "https://music.apple.com/us/album/j5-deluxe-edition/1777704233",
-      "paletteNote": "Existing selected J5 (Deluxe Edition) cover palette retained and actually re-viewed. Cover is a selected compilation/streaming-release reference, not evidence that Jurassic 5 is the work-primary artist. Black/white paint and original layout retained visually; new edit not pixel-identical to prior image.",
-      "concept": "既存LESSON 4: THE RADIOの主題文字・構成を維持し、補助artistタグだけ原作主名義CUT CHEMISTへ訂正。2008年J5収録名義と作品主名義を区別。音・歌詞・サンプルを推測しない。",
+      "paletteNote": "Existing J5 (Deluxe Edition) selected-release cover palette retained. Existing original artwork and display bytes are unchanged.",
+      "concept": "LESSON 4: THE RADIOの既存タグを保持。補助CUT CHEMIST表記は制作・原盤名義を示し、掲載の選択収録版はJurassic 5 / J5 (Deluxe Edition)。",
       "conceptIsVerifiedSongMeaning": false,
       "artistIntendedThisVisual": false,
-      "interpretationLimits": "作品の原名義はCut Chemist。J5は選択収録配信版であり主アーティスト名義ではない。図案は編集上の字形解釈で、音・歌詞・公式視覚意図や同一masterは主張しない。",
+      "interpretationLimits": "掲載はユーザー指定のJurassic 5収録配信版。Cut Chemistの制作・原盤履歴を保持する。図案は編集上の字形解釈で、音・歌詞・公式視覚意図や同一masterは主張しない。",
       "image": "assets/graffiti/cut-chemist-lesson-4-the-radio-attribution-corrected-v1-sized.webp",
       "originalImage": "assets/graffiti/originals/cut-chemist-lesson-4-the-radio-attribution-corrected-v1-original.png",
       "displaySizing": {
@@ -13335,7 +13335,8 @@
         "outputSha256": "751ac325f1ea106a06f7b00dd4e84d43704c6b1ee98e400c35afb268f1c4c349",
         "sourceImage": "assets/graffiti/originals/cut-chemist-lesson-4-the-radio-attribution-corrected-v1-original.png",
         "sourceSha256": "7670daca57cc19219f90fc1543d347204840a22904e0f25024a8a4b82e252392"
-      }
+      },
+      "originalCreditArtist": "Cut Chemist"
     },
     {
       "id": "people-under-the-stairs-time-to-rock-our-shit",
