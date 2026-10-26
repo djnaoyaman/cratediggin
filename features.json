@@ -1231,6 +1231,147 @@
         ],
         "disclosure": "聴く順番と聴きどころはDJ Naoyamanの編集上の視点です。8曲の選曲ルートには、権利者から提供されたアーティストTopic配信を使用。本人運営のPiecelock70への公式リンクとは区別しています。アルバム初出年と、後年の配信版の日付を混同しません。"
       }
+    },
+    {
+      "id": "cut-chemist",
+      "name": "Cut Chemist",
+      "type": "producer",
+      "names": [
+        "Cut Chemist"
+      ],
+      "aliases": [],
+      "allYears": true,
+      "scopeOwnNames": [
+        "Cut Chemist"
+      ],
+      "identityNote": "活動拠点：Los Angeles, California, USA。制作・リミックスの仕事を軸に、本人名義の作品、DJミックス、ライブ参考映像を区別して掲載します。Jurassic 5名義をCut Chemist単独制作とみなさず、曲別クレジットで辿ります。",
+      "note": "掲載作品から選んだプロデューサー特集です。全ディスコグラフィーではありません。",
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-cut-chemist-tag-v1.webp",
+        "alt": "Cut Chemist — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      },
+      "listeningOrder": [
+        "jurassic-5-lesson-4-the-radio",
+        "jurassic-5-lesson-6-the-lecture",
+        "jurassic-5-quality-control",
+        "jurassic-5-swing-set",
+        "dj-shadow-the-number-song-cut-chemist-remix",
+        "cut-chemist-bunkys-pick",
+        "cut-chemist-storm",
+        "cut-chemist-the-garden"
+      ],
+      "editorial": {
+        "format": "source-led-v1",
+        "title": "レコードを、もう一度組み立てる。",
+        "deck": "Cut Chemistの仕事を、切り貼り、共同制作、リミックス、ソロ作品から聴く。グループ名を越えて、作り手の手つきをたどる8作品。",
+        "context": "アーティスト名の一覧とは別に、誰のどの曲へ、どんな役割で参加したかを辿る。",
+        "introduction": [
+          "曲の表にある名前だけでは、作り手の仕事は見えきらない。Jurassic 5の曲からDJ Shadowのリミックスへ、そして本人のソロ作品へ。ここではCut Chemistという制作名義を頼りに、レコードの置き場所を少し変えてみる。"
+        ],
+        "sections": [
+          {
+            "heading": "LESSONS / レコードで話す",
+            "paragraphs": [
+              "[Lesson 4: The Radio](#/song/jurassic-5-lesson-4-the-radio)から[Lesson 6: The Lecture](#/song/jurassic-5-lesson-6-the-lecture)へ。前者は1995年の『Return of the DJ』にCut Chemist名義で収められている。ここで聴けるJ5収録版から、その前のレコードへも道が続いている。題名の番号を追うだけでなく、音の断片をどう一曲へまとめるかに耳を向けたい。",
+              "「Lesson 6」には、本人が後年マルチトラックから全要素を復元した版もある。ここで選んだJ5配信版とは区別しておく。同じ題名でも、版の来歴を読むと聴き比べる入口が増えていく。"
+            ],
+            "sources": [
+              0,
+              1,
+              2
+            ]
+          },
+          {
+            "heading": "QUALITY CONTROL / 二人で答えを返す",
+            "paragraphs": [
+              "2000年の[Quality Control](#/song/jurassic-5-quality-control)はCut Chemist制作。[Swing Set](#/song/jurassic-5-swing-set)はDJ Nu-Markとの共同制作だ。本人たちの回想には、相手の出したレコードへ別のレコードで答え、同じ部屋で曲を作っていく様子が残っている。プロデューサー名を読むと、二人のやり取りまで聴く入口になる。"
+            ],
+            "sources": [
+              3
+            ]
+          },
+          {
+            "heading": "REMIX / 人の曲へ入っていく",
+            "paragraphs": [
+              "[The Number Song (Cut Chemist Remix)](#/song/dj-shadow-the-number-song-cut-chemist-remix)は、DJ Shadowとの仕事をたどる入口。Cutはこのリミックスを二人の最初の正式な共同仕事として振り返っている。自分の曲を作るときと、誰かの曲へ入るとき。残すものと動かすものに、同じ人の判断が見えてくる。"
+            ],
+            "sources": [
+              4,
+              5
+            ]
+          },
+          {
+            "heading": "BUNKY’S PICK / 一枚のコンピから",
+            "paragraphs": [
+              "[Bunky’s Pick](#/song/cut-chemist-bunkys-pick)は、『The Funky 16 Corners』の複数曲を使ったメガミックス。Stones Throwは、ドラムに焦点を当てたCut側と、別の素材へ集中したMadlib側を紹介している。同じ盤に並んでも、掘り方は同じではない。曲の名前だけでなく、組み立て方を聴く一枚だ。"
+            ],
+            "sources": [
+              6
+            ]
+          },
+          {
+            "heading": "STORM / 声を受けて作り替える",
+            "paragraphs": [
+              "[Storm](#/song/cut-chemist-storm)にはEdanとMr. Lifが参加。Cutは、ラップが入ってから元のトラックを作り替えたと話している。先にビートがあっても、そこで完成とは限らない。声を受け取ったあとに、もう一度曲を考える。その往復も制作の面白さだ。"
+            ],
+            "sources": [
+              7,
+              8
+            ]
+          },
+          {
+            "heading": "THE GARDEN / レコードから録音現場へ",
+            "paragraphs": [
+              "最後は[The Garden](#/song/cut-chemist-the-garden)。CutはAstrud Gilbertoの「Berimbau」を使い、許諾を得たあと、São Pauloでサンバのバンドを録音したと説明している。レコードを探すところから、演奏を録る場所へ。切り貼りの技術を追っていたはずの耳が、別の制作現場へ着いている。",
+              "「LISTENING ROUTE」はこの8作品を順番に聴く入口。その下では本人名義と制作・参加作品を切り替えられる。名義を分けて、また隣に並べる。グループの一枚も、ソロの一枚も、少し違った見え方になるかもしれない。"
+            ],
+            "sources": [
+              7
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "label": "Bomb Hip-Hop — Lesson 4 the Radio / Cut Chemist",
+            "url": "https://bombhiphop.bandcamp.com/track/lesson-4-the-radio"
+          },
+          {
+            "label": "Cut Chemist — Lesson 6: The Lecture EP / 2016復元版本人解説",
+            "url": "https://cutchemist.bandcamp.com/album/lesson-6-the-lecture-ep-remastered"
+          },
+          {
+            "label": "Warner Music Japan — Cut Chemist公式プロフィール",
+            "url": "https://wmg.jp/cut-chemist/profile/"
+          },
+          {
+            "label": "Brian Coleman — Quality Control復刻盤ライナーノーツ / メンバー取材（2015）",
+            "url": "https://medium.com/cuepoint/check-the-technique-jurassic-5-s-quality-control-f6933702c2dd"
+          },
+          {
+            "label": "WTJU — Cut Chemist本人取材",
+            "url": "https://www.wtju.net/interview-cut-chemist-behalf-upc-pkg-concerts/"
+          },
+          {
+            "label": "DJ Shadow — The Number Song (Cut Chemist Remix)公式商品解説",
+            "url": "https://djshadow.com/products/dj-shadow-the-number-song-cut-chemist-remix-7-vinyl"
+          },
+          {
+            "label": "Stones Throw — Bunky’s Pick公式解説",
+            "url": "https://www.stonesthrow.com/store/bunkys-pick/"
+          },
+          {
+            "label": "Cut Chemist — The Audience’s Listening曲別制作回想 / MusicRadar",
+            "url": "https://www.musicradar.com/news/classic-album-cut-chemist-on-the-audiences-listening"
+          },
+          {
+            "label": "Mr. Lif — Storm / 参加者本人の制作クレジット",
+            "url": "https://mrlif.bandcamp.com/track/storm"
+          }
+        ],
+        "disclosure": "聴く順番と聴きどころはDJ Naoyamanの編集上の視点です。選曲ルートはアーティスト関連の公式配信・公式MVを使用。制作、共同制作、リミックス、ミックスを区別し、公式Topic配信を本人の直接投稿とは扱いません。掲載一覧の参考映像は楽曲数と分けて表示します。"
+      }
     }
   ]
 }

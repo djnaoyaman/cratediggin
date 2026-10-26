@@ -23308,7 +23308,7 @@
     ],
     "album": "Jurassic 5 EP / J5",
     "label": "配信ページを参照",
-    "producer": "個別クレジット照合中",
+    "producer": "Cut Chemist",
     "members": "Jurassic 5",
     "youtube": {
       "id": "bcOv_eBmaSk",
@@ -23377,9 +23377,16 @@
         "url": "https://cutchemist.bandcamp.com/album/lesson-6-the-lecture-ep-remastered",
         "label": "Cut Chemist — Lesson 6: The Lecture EP (Remastered)",
         "kind": "制作者公式リリース解説"
+      },
+      {
+        "label": "Warner Music Japan — Cut Chemist公式プロフィール / Lesson 6制作",
+        "url": "https://wmg.jp/cut-chemist/profile/",
+        "kind": "アーティスト公式プロフィール"
       }
     ],
-    "producers": [],
+    "producers": [
+      "Cut Chemist"
+    ],
     "connections": [],
     "sounds": [
       "Breaks"
@@ -23407,7 +23414,8 @@
       [
         2
       ]
-    ]
+    ],
+    "producerBasis": "Cut Chemist本人Bandcampの制作・復元解説とWarner Music Japan公式紹介が本曲のCut Chemist productionを確認。2016復元版の説明を選択J5配信版との同一master証明には使わない。"
   },
   {
     "id": "jurassic-5-jayou",
@@ -26561,7 +26569,10 @@
       [
         3
       ]
-    ]
+    ],
+    "yearQualifier": "原曲の年",
+    "yearDisplayNote": "1996年は原曲の年。選択はCut Chemist Remixで、リミックスの初出年とは区別。",
+    "producerBasis": "DJ Shadow原曲のCut Chemist Remix。本人WTJU取材とDJ Shadow公式リリース解説でリミックス担当を確認。二人を同一役割の共同制作と一括しない。"
   },
   {
     "id": "dj-shadow-building-steam-with-a-grain-of-salt",
@@ -78262,7 +78273,7 @@
       "url": "https://www.youtube.com/watch?v=PgpDN-bARwc",
       "embedUrl": "https://www.youtube.com/embed/PgpDN-bARwc",
       "title": "Quality Control",
-      "channel": "Jurassic 5",
+      "channel": "Jurassic5VEVO",
       "type": "公式MV",
       "official": true,
       "officialStatus": "official",
@@ -78622,7 +78633,7 @@
       "url": "https://www.youtube.com/watch?v=tmxf-qHAtyE",
       "embedUrl": "https://www.youtube.com/embed/tmxf-qHAtyE",
       "title": "The Garden",
-      "channel": "Cut Chemist",
+      "channel": "Cut Chemist - Topic",
       "type": "公式配信音源",
       "official": true,
       "officialStatus": "official",
@@ -81758,8 +81769,9 @@
     "year": 2000,
     "region": "Los Angeles",
     "scene": "Los Angeles",
-    "producer": "DJ Nu-Mark",
+    "producer": "Cut Chemist / DJ Nu-Mark",
     "producers": [
+      "Cut Chemist",
       "DJ Nu-Mark"
     ],
     "sources": [
@@ -81782,6 +81794,11 @@
         "url": "https://music.apple.com/us/album/quality-control/1673109195",
         "label": "Apple Music — Quality Control（2000年・収録曲15・5:18）",
         "kind": "公式作品情報"
+      },
+      {
+        "label": "Brian Coleman — Quality Control復刻盤ライナーノーツ / Swing Setの共同制作クレジットと本人回想",
+        "url": "https://medium.com/cuepoint/check-the-technique-jurassic-5-s-quality-control-f6933702c2dd",
+        "kind": "メンバー協力の復刻盤ライナーノーツ・制作本人取材"
       }
     ],
     "youtube": {
@@ -81821,14 +81838,15 @@
     },
     "essayTitle": "The Swing Botの二曲の間に、Jurassic 5",
     "essay": [
-      "ロサンゼルスを拠点とするJurassic 5の「Swing Set」は、2000年の『Quality Control』を締めくくる15曲目。現在の公式配信では5分18秒、制作欄にはDJ Nu-Markの名がある。アルバムの最後から聴き始めてみる、という入口もよさそうだ。",
+      "ロサンゼルスを拠点とするJurassic 5の「Swing Set」は、2000年の『Quality Control』を締めくくる15曲目。Cut ChemistとDJ Nu-Markの共同制作で、復刻盤のライナーノーツには同じ部屋で作った二人の回想が残る。アルバムの最後から聴き始めてみる、という入口もよさそうだ。",
       "myquadeが公開した2024年4月16日の選曲表では、51分08秒に「Swing Set」が登場する。前後を挟むのはThe Swing Botの「Evenin'」と「Doin' the Jive (Electro Swing Bot Mix)」。アルバムでの居場所と、DJが組んだ曲順での居場所。二つの並びを見比べると、次に辿りたい曲も変わってくる。"
     ],
     "essaySources": [
       [
         0,
         1,
-        3
+        3,
+        4
       ],
       [
         2
@@ -81856,7 +81874,7 @@
     "yearStatus": "verified",
     "deck": "アルバムの最後の一曲を、DJの公開選曲表から見つけ直す。",
     "workType": "single",
-    "producerBasis": "選択PIAS公式配信の説明欄にProducer: DJ Nu-Markと記載。作曲者一覧のLucas MacFaddenを追加producerへ転用しない。",
+    "producerBasis": "2015年復刻盤のメンバー協力ライナーノーツがProduced by Cut Chemist and DJ Nu-Markと明記。両本人の共同制作回想で確認。選択PIAS配信のDJ Nu-Mark単独表示をこの一次資料で補完し、作曲者名だけから推測していない。",
     "art": {
       "style": "tag",
       "palette": [
