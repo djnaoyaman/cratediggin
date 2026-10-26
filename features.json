@@ -963,6 +963,145 @@
         "disclosure": "沿革は出典の時点を明記し、歴代メンバーと現在の編成を混同しません。「このページの聴き方」はDJ Naoyamanによる編集上の視点です。個別曲の制作クレジット・発表年はリンク先の資料に基づきます。",
         "context": "Detroitを活動拠点に、T3、Baatin、J Dillaの初期編成から歩みを重ねたグループ。別名義J-88と客演作品も区別してたどる。"
       }
+    },
+    {
+      "id": "jurassic-5",
+      "name": "Jurassic 5",
+      "type": "artist",
+      "names": [
+        "Jurassic 5"
+      ],
+      "aliases": [],
+      "allYears": true,
+      "scopeOwnNames": [
+        "Jurassic 5"
+      ],
+      "identityNote": "活動拠点：Los Angeles, California, USA。グループ名義の掲載曲をたどります。Cut Chemistのソロ作品や他名義での制作は、グループの曲数へ加算しません。",
+      "note": "掲載曲から選んだ特集です。全ディスコグラフィーではありません。",
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-jurassic-5-tag-v1.webp",
+        "alt": "Jurassic 5 — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      },
+      "listeningOrder": [
+        "jurassic-5-the-game",
+        "jurassic-5-quality-control",
+        "jurassic-5-contact",
+        "jurassic-5-lausd",
+        "jurassic-5-jayou",
+        "jurassic-5-jayou-remix",
+        "jurassic-5-concrete-schoolyard",
+        "jurassic-5-whats-golden",
+        "jurassic-5-canto-de-ossanha"
+      ],
+      "editorial": {
+        "format": "source-led-v1",
+        "title": "マイクを渡す。レコードの輪を広げる。",
+        "deck": "The Game、Contact、Lausd、Canto De Ossanha。声のチームワークと、ふたりのDJの仕事を、曲ごとのクレジットから聴く。",
+        "context": "Los Angelesを活動拠点とするJurassic 5。4人のMCとDJの共同作業を、Quality ControlからFeedbackへたどる。",
+        "introduction": [
+          "Jurassic 5の入口をひとつ選ぶなら、ここでは[The Game](#/song/jurassic-5-the-game)から。声が何人分あるかを数えるより、次の声にどんな場所を空けるかを聴いてみたい。ひとりずつの輪郭と、全員で作る輪郭。その両方が気になってくる。"
+        ],
+        "sections": [
+          {
+            "heading": "LOS ANGELES / 声が集まる場所",
+            "paragraphs": [
+              "グループの核は、Unity CommitteeとRebels of Rhythm、そしてDJ Nu-Markの合流。2015年のメンバー取材は、Rat Raceでの出会いとGood Lifeの交流をたどる。MCはChali 2na、Marc 7、Akil、Soup。Cut ChemistとDJ Nu-Markを合わせると6人。「5」という名前だけでは収まらない。"
+            ],
+            "sources": [
+              0,
+              1
+            ]
+          },
+          {
+            "heading": "THE GAME / パスを受け取る",
+            "paragraphs": [
+              "[The Game](#/song/jurassic-5-the-game)はCut Chemist制作、DJ Nu-Mark共同制作。Shawny MacとMarvskiも声で参加する。マイクをボールのように渡す発想が、曲の組み立てにつながっている。",
+              "ここで聴きたいのは交代の瞬間だ。誰かが前へ出れば、誰かが次の入口を作る。腕前を並べるだけでは生まれない、グループならではの気持ちよさを探してみる。"
+            ],
+            "sources": [
+              1,
+              2
+            ]
+          },
+          {
+            "heading": "QUALITY CONTROL / 曲と曲の間まで",
+            "paragraphs": [
+              "2000年の『Quality Control』から、[表題曲](#/song/jurassic-5-quality-control) → [Contact](#/song/jurassic-5-contact) → [Lausd](#/song/jurassic-5-lausd)へ。アルバムの並びを小さく抜き出して聴く入口だ。短い「Contact」にも、ひとつの曲として耳を向けたい。",
+              "「Lausd」はCut Chemist制作。題名にはLos Angeles Unified School Districtと「Lost」が重なる。People Under the Stairsの「The L.A. Song」とは別の一曲として、ここに置いておく。"
+            ],
+            "sources": [
+              1,
+              3
+            ]
+          },
+          {
+            "heading": "JAYOU / 二つの入口",
+            "paragraphs": [
+              "[Jayou](#/song/jurassic-5-jayou)から、[Jayou (Remix)](#/song/jurassic-5-jayou-remix)へ。ここで聴けるのは、J5 / Mass Appealの2008年配信版に収められた二つのテイク。通常版は1997年のEPまでさかのぼる。リミックスの2008年表記は、この収録版の年だ。",
+              "通常版からリミックスへ、続けて聴く順番にした。タイトルが同じだからこそ、曲の置き方や展開の違いに耳を向けやすい。選曲の中でどちらを先に置くかを考えるのも楽しい。"
+            ],
+            "sources": [
+              6,
+              7
+            ]
+          },
+          {
+            "heading": "CANTO DE OSSANHA / 次の棚へ",
+            "paragraphs": [
+              "[Canto De Ossanha](#/song/jurassic-5-canto-de-ossanha)は2006年の『Feedback』へ進む出口。制作はDJ Nu-Mark、作曲クレジットにはBaden PowellとVinicius de Moraesの名がある。グループの曲を一律にCut Chemist制作とは扱わない。",
+              "最後にここへ着く順番にしてみた。MCの声を追っていた耳が、作り手と作曲家の名前にも向く。気に入った曲から、もう一枚。そのくらいの身軽さで、レコードの棚は広がっていく。"
+            ],
+            "sources": [
+              4,
+              5
+            ]
+          },
+          {
+            "heading": "このページの聴き方",
+            "paragraphs": [
+              "下の「LISTENING ROUTE」は、この特集の選曲順で再生する入口。[Concrete Schoolyard](#/song/jurassic-5-concrete-schoolyard)や[What’s Golden](#/song/jurassic-5-whats-golden)を間に挟み、最後に「Canto De Ossanha」へ。年代順の掲載一覧は、その下に残した。順番を替えて聴くと、同じ曲から別の接点が見つかるかもしれない。"
+            ],
+            "sources": []
+          }
+        ],
+        "sources": [
+          {
+            "label": "Jurassic 5 — 公式サイト",
+            "url": "https://jurassic-five.squarespace.com/"
+          },
+          {
+            "label": "Brian Coleman — Quality Control復刻盤ライナーノーツ / メンバー取材（2015）",
+            "url": "https://medium.com/cuepoint/check-the-technique-jurassic-5-s-quality-control-f6933702c2dd"
+          },
+          {
+            "label": "Jurassic 5 — The Game（指定・PIAS公式配信）",
+            "url": "https://www.youtube.com/watch?v=n1Q958eWCxA"
+          },
+          {
+            "label": "Apple Music — Quality Control（2000）",
+            "url": "https://music.apple.com/us/album/quality-control/1673109195"
+          },
+          {
+            "label": "Jurassic 5 — Canto De Ossanha（指定・PIAS公式配信）",
+            "url": "https://www.youtube.com/watch?v=-dZQgvRMFIA"
+          },
+          {
+            "label": "DJ Nu-Mark — 公式ディスコグラフィー",
+            "url": "https://djnu-mark.com/discography/"
+          },
+          {
+            "label": "Jurassic 5 — Jayou（指定・Symphonic公式配信）",
+            "url": "https://www.youtube.com/watch?v=2ZuN8rc6y7s"
+          },
+          {
+            "label": "Jurassic 5 — Jayou (Remix)（指定・Symphonic公式配信）",
+            "url": "https://www.youtube.com/watch?v=pSUeddnqv6o"
+          }
+        ],
+        "disclosure": "聴く順番と聴きどころはDJ Naoyamanの編集上の視点です。制作クレジットは曲ごとの資料を参照。指定4曲はPIASの公式Topic配信で、本人の直接投稿とは区別しています。 Jayouの2版はSymphonicの公式配信です。"
+      }
     }
   ]
 }
