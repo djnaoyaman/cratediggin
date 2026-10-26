@@ -25,7 +25,7 @@ assert len(deepdive_map)==len(deepdives), 'Duplicate deep-dive artist/title key'
 guides=json.loads((ROOT/'guides.json').read_text(encoding='utf-8'))
 feature_data=json.loads((ROOT/'features.json').read_text(encoding='utf-8'))
 from feature_policy import qualify_features
-from feature_editorial import render_longform
+from feature_editorial import render_longform, render_listening_route
 from person_photos import photo_feature, photo_header
 features=qualify_features(tracks,feature_data['features'])
 from frontend import build_frontend
@@ -242,6 +242,7 @@ for f in features:
     if f.get('noteArticle'):
         note=f['noteArticle']
         body+='<section class="producer-note"><p class="eyebrow">MY LISTENING NOTES</p><h2>noteで読む</h2><h3>'+esc(note['title'])+'</h3><p>'+esc(note['introduction'])+'</p><a href="'+esc(note['url'],quote=True)+'" target="_blank" rel="noopener noreferrer">noteで続きを読む ↗</a></section>'
+    body+=render_listening_route(f, tracks, BASE_PATH)
     body+='<h2>収録作品 '+work_count(selected)+'</h2><ul>'+''.join('<li><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+esc(t['artist']+' — '+t['title'])+'</a></li>' for t in selected)+'</ul>'
     page=re.sub(r'<main id="view" tabindex="-1">.*?</main>','<main id="view" tabindex="-1">'+body+'</main>',base,flags=re.S)
     page=page.replace('<head>','<head><script>window.INITIAL_ROUTE='+json.dumps('#/feature/'+f['id'])+';</script>',1)

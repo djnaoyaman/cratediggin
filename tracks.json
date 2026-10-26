@@ -23414,7 +23414,7 @@
     "title": "Jayou",
     "artist": "Jurassic 5",
     "year": 1998,
-    "yearBasis": "",
+    "yearBasis": "1998年は既存掲載盤Lyricist Lounge Vol. 1の収録年。曲自体は1997年のJurassic 5 EPにも収録される。今回指定の配信版J5は2008年表記で、曲の初出年にはしない。",
     "region": "Los Angeles",
     "scene": "Los Angeles / Hip Hop",
     "category": "Hip Hop / Breaks",
@@ -23424,16 +23424,25 @@
     ],
     "album": "Lyricist Lounge Vol. 1",
     "label": "配信ページを参照",
-    "producer": "個別クレジット照合中",
+    "producer": "Cut Chemist",
     "members": "Jurassic 5",
     "youtube": {
-      "id": "3QnVOibhJIc",
-      "url": "https://www.youtube.com/watch?v=3QnVOibhJIc",
+      "id": "2ZuN8rc6y7s",
+      "url": "https://www.youtube.com/watch?v=2ZuN8rc6y7s",
       "channel": "Jurassic 5 - Topic",
-      "type": "Official Audio",
+      "type": "公式配信音源（指定）",
       "official": true,
-      "verified": "2026-10-14",
-      "verification": "公式配信の曲名と投稿者をYouTubeの表示で照合。"
+      "verified": "2026-10-26",
+      "verification": "ユーザー指定ID。Symphonic Distribution提供、J5、℗2008 Mass Appealの配信説明を照合。Topic配信を本人直接投稿とは表示しない。",
+      "embedUrl": "https://www.youtube.com/embed/2ZuN8rc6y7s",
+      "title": "Jayou",
+      "channelUrl": "https://www.youtube.com/channel/UCiXGLhdMax4XsC8JBo9PZ4A",
+      "userSelected": true,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "指定されたJ5 / ℗2008 Mass Appeal配信のJayou。本曲の旧掲載盤Lyricist Lounge Vol. 1（1998年）と選択音源の収録版を分離。Jayou (Remix)は別ページで扱う。"
     },
     "art": {
       "word": "JAYOU",
@@ -23478,9 +23487,9 @@
     "context": "Oliver Wangの解説から、同じ盤の別の使い方を読む。",
     "sources": [
       {
-        "label": "Jurassic 5 - Topic — Jayou",
-        "url": "https://www.youtube.com/watch?v=3QnVOibhJIc",
-        "kind": "公式音源"
+        "label": "Jurassic 5 — Jayou（指定音源・Symphonic公式配信）",
+        "url": "https://www.youtube.com/watch?v=2ZuN8rc6y7s",
+        "kind": "公式配信・ユーザー指定"
       },
       {
         "label": "収録・発表の資料",
@@ -23491,15 +23500,22 @@
         "url": "https://soul-sides.com/2007/12/cut-chemist-vs-cut-chemist-which-flip-is-better.html",
         "label": "Oliver Wang（O-Dub）— Cut Chemist vs. Cut Chemist / Soul Sides",
         "kind": "音楽ライターによるサンプル解説"
+      },
+      {
+        "label": "Brian Coleman — Jurassic 5 EPとQuality Control / メンバー協力ライナーノーツ",
+        "url": "https://medium.com/cuepoint/check-the-technique-jurassic-5-s-quality-control-f6933702c2dd",
+        "kind": "EP収録の確認"
       }
     ],
-    "producers": [],
+    "producers": [
+      "Cut Chemist"
+    ],
     "connections": [],
     "sounds": [
       "Breaks"
     ],
     "addedOrder": 202,
-    "editorialStatus": "聴き方と選曲メモは編者の私見。制作クレジットは個別照合中。",
+    "editorialStatus": "聴き方と選曲メモは編者の私見。選択音源の制作表記は配信クレジットを参照。",
     "sampleStatus": "多くの断片を組み合わせる作品を含むため、単一のメインサンプルは未確定。確認できた原曲を順次記録します。",
     "collections": [
       "pizza",
@@ -23518,6 +23534,21 @@
       [
         2
       ]
+    ],
+    "selectedRelease": {
+      "title": "J5",
+      "catalogTitle": "J5 (Deluxe Edition)",
+      "year": 2008,
+      "label": "Mass Appeal",
+      "distributor": "Symphonic Distribution",
+      "source": "https://www.youtube.com/watch?v=2ZuN8rc6y7s"
+    },
+    "versionBasis": "指定されたJ5 / ℗2008 Mass Appeal配信のJayou。本曲の旧掲載盤Lyricist Lounge Vol. 1（1998年）と選択音源の収録版を分離。Jayou (Remix)は別ページで扱う。",
+    "yearQualifier": "掲載コンピレーションの年",
+    "yearDisplayNote": "1997年のJurassic 5 EPにも収録。選択音源はJ5 / 2008 Mass Appeal配信。",
+    "producerBasis": "指定したSymphonic配信のProducer: Cut Chemist表記。",
+    "producerSources": [
+      0
     ]
   },
   {
@@ -82147,5 +82178,661 @@
     },
     "addedOrder": 634,
     "datePublished": "2026-10-26"
+  },
+  {
+    "id": "jurassic-5-the-game",
+    "title": "The Game",
+    "artist": "Jurassic 5",
+    "primaryArtist": "Jurassic 5",
+    "primaryArtists": [
+      "Jurassic 5"
+    ],
+    "artists": [
+      "Jurassic 5",
+      "Shawny Mac",
+      "Marvski"
+    ],
+    "workType": "single",
+    "album": "Quality Control",
+    "year": 2000,
+    "yearStatus": "verified",
+    "yearBasis": "Quality Controlの発表年。動画の公開年を初出年として扱わない。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "regionBasis": "グループの活動地域。メンバー全員の出生地を意味しない。",
+    "producer": "Cut Chemist / DJ Nu-Mark",
+    "producers": [
+      "Cut Chemist",
+      "DJ Nu-Mark"
+    ],
+    "producerBasis": "Cut Chemist制作、DJ Nu-Mark共同制作。客演はShawny Mac、Marvski。",
+    "producerSources": [
+      0,
+      2
+    ],
+    "label": "Interscope",
+    "moods": [
+      "ディギング"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Jurassic 5 — The Game（指定音源・PIAS公式配信）",
+        "url": "https://www.youtube.com/watch?v=n1Q958eWCxA",
+        "kind": "権利者配信・ユーザー指定音源"
+      },
+      {
+        "label": "Apple Music — Quality Control（公式配信カタログ）",
+        "url": "https://music.apple.com/us/album/quality-control/1673109195",
+        "kind": "収録作品・発表年"
+      },
+      {
+        "label": "Brian Coleman — Quality Control 2015年復刻盤ライナーノーツ（メンバー取材）",
+        "url": "https://medium.com/cuepoint/check-the-technique-jurassic-5-s-quality-control-f6933702c2dd",
+        "kind": "メンバー協力の原盤資料・本人取材"
+      },
+      {
+        "label": "Jurassic 5 — Official Website",
+        "url": "https://jurassic-five.squarespace.com/",
+        "kind": "本人公式サイト"
+      }
+    ],
+    "youtube": {
+      "id": "n1Q958eWCxA",
+      "url": "https://www.youtube.com/watch?v=n1Q958eWCxA",
+      "embedUrl": "https://www.youtube.com/embed/n1Q958eWCxA",
+      "title": "The Game",
+      "channel": "Jurassic 5 - Topic",
+      "channelUrl": "https://www.youtube.com/channel/UCiXGLhdMax4XsC8JBo9PZ4A",
+      "type": "公式配信音源（指定）",
+      "official": true,
+      "officialStatus": "official",
+      "userSelected": true,
+      "verified": "2026-10-26",
+      "verification": "ユーザーが指定した動画ID。oEmbedの曲名・Topic投稿者とPIAS配信メタデータを照合。本人直接投稿の@J5Officialとは区別する。",
+      "versionBasis": "ユーザー指定のJurassic 5 - Topic / PIAS公式配信。Quality Control収録の同名曲を採用。一般ユーザー投稿、ライヴ、リミックス、別演奏で代替していない。配信動画と初出盤のマスター同一性・実再生は未検証。",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false
+    },
+    "versionBasis": "ユーザー指定のJurassic 5 - Topic / PIAS公式配信。Quality Control収録の同名曲を採用。一般ユーザー投稿、ライヴ、リミックス、別演奏で代替していない。配信動画と初出盤のマスター同一性・実再生は未検証。",
+    "essayTitle": "マイクを渡す、チームの音楽。",
+    "deck": "声を渡すたび、グループの輪郭が見えてくる。Cut ChemistとDJ Nu-Markの共同作業を聴く。",
+    "essay": [
+      "「The Game」は、マイクをボールのように渡す発想で作られた曲。2015年のメンバーへの取材を含むライナーノーツは、Cut Chemist制作、DJ Nu-Mark共同制作、Shawny MacとMarvskiの参加を記している。",
+      "ここでは、ひとりの声を追い続けるより、次の人へ受け渡す瞬間に耳を置きたい。独走よりパス回し。人数が多いことを説明ではなく曲の仕組みにしてしまうところに、J5を聴く楽しみがある。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ],
+      []
+    ],
+    "facts": [
+      {
+        "title": "収録・制作",
+        "text": "2000年『Quality Control』。Cut Chemist制作、DJ Nu-Mark共同制作。客演はShawny Mac、Marvski。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "作曲クレジットと、実際に使用された録音素材の同定は分けて扱います。",
+    "sounds": [],
+    "listening": [],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "",
+    "art": {
+      "word": "The Game",
+      "tag": "JURASSIC 5",
+      "style": "tag",
+      "seed": 20261026635,
+      "palette": [
+        "#171615",
+        "#FFFFFF",
+        "#94B2BD",
+        "#A56545",
+        "#EEE7D9"
+      ],
+      "paletteSource": "Actually viewed official Apple Music Quality Control cover on 2026-10-26. Editorial approximate palette; no cover imagery copied.",
+      "paletteSourceUrl": "https://music.apple.com/us/album/quality-control/1673109195",
+      "paletteNote": "黒白の文字を中心に青灰色・錆色の小さなアクセント。ジャケットを実見した目視解釈。"
+    },
+    "addedOrder": 635,
+    "datePublished": "2026-10-26",
+    "noteReviewedAt": "2026-10-26",
+    "featuredArtists": [
+      "Shawny Mac",
+      "Marvski"
+    ]
+  },
+  {
+    "id": "jurassic-5-lausd",
+    "title": "Lausd",
+    "artist": "Jurassic 5",
+    "primaryArtist": "Jurassic 5",
+    "primaryArtists": [
+      "Jurassic 5"
+    ],
+    "artists": [
+      "Jurassic 5"
+    ],
+    "workType": "single",
+    "album": "Quality Control",
+    "year": 2000,
+    "yearStatus": "verified",
+    "yearBasis": "Quality Controlの発表年。動画の公開年を初出年として扱わない。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "regionBasis": "グループの活動地域。メンバー全員の出生地を意味しない。",
+    "producer": "Cut Chemist",
+    "producers": [
+      "Cut Chemist"
+    ],
+    "producerBasis": "制作はCut Chemist。題名の表記と由来は本人の説明を参照。",
+    "producerSources": [
+      0,
+      2
+    ],
+    "label": "Interscope",
+    "moods": [
+      "ディギング"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Jurassic 5 — Lausd（指定音源・PIAS公式配信）",
+        "url": "https://www.youtube.com/watch?v=JjyUI40Umg8",
+        "kind": "権利者配信・ユーザー指定音源"
+      },
+      {
+        "label": "Apple Music — Quality Control（公式配信カタログ）",
+        "url": "https://music.apple.com/us/album/quality-control/1673109195",
+        "kind": "収録作品・発表年"
+      },
+      {
+        "label": "Brian Coleman — Quality Control 2015年復刻盤ライナーノーツ（メンバー取材）",
+        "url": "https://medium.com/cuepoint/check-the-technique-jurassic-5-s-quality-control-f6933702c2dd",
+        "kind": "メンバー協力の原盤資料・本人取材"
+      },
+      {
+        "label": "Jurassic 5 — Official Website",
+        "url": "https://jurassic-five.squarespace.com/",
+        "kind": "本人公式サイト"
+      }
+    ],
+    "youtube": {
+      "id": "JjyUI40Umg8",
+      "url": "https://www.youtube.com/watch?v=JjyUI40Umg8",
+      "embedUrl": "https://www.youtube.com/embed/JjyUI40Umg8",
+      "title": "Lausd",
+      "channel": "Jurassic 5 - Topic",
+      "channelUrl": "https://www.youtube.com/channel/UCiXGLhdMax4XsC8JBo9PZ4A",
+      "type": "公式配信音源（指定）",
+      "official": true,
+      "officialStatus": "official",
+      "userSelected": true,
+      "verified": "2026-10-26",
+      "verification": "ユーザーが指定した動画ID。oEmbedの曲名・Topic投稿者とPIAS配信メタデータを照合。本人直接投稿の@J5Officialとは区別する。",
+      "versionBasis": "ユーザー指定のJurassic 5 - Topic / PIAS公式配信。Quality Control収録の同名曲を採用。一般ユーザー投稿、ライヴ、リミックス、別演奏で代替していない。配信動画と初出盤のマスター同一性・実再生は未検証。",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false
+    },
+    "versionBasis": "ユーザー指定のJurassic 5 - Topic / PIAS公式配信。Quality Control収録の同名曲を採用。一般ユーザー投稿、ライヴ、リミックス、別演奏で代替していない。配信動画と初出盤のマスター同一性・実再生は未検証。",
+    "essayTitle": "街の名前を、少しひねって。",
+    "deck": "L.A. Songとは別の一曲。Quality Controlの7曲目、Cut Chemist制作のLausd。",
+    "essay": [
+      "題名は「Lausd」。Cut Chemistはライナーノーツで、Los Angeles Unified School Districtと「Lost」を重ねた言葉遊びだと説明している。別のグループの「The L.A. Song」とは、もちろん別のレコードだ。",
+      "「The Game」の声の受け渡しを聴いたあとに、こちらへ進んでみる。同じアルバム、同じ作り手という手がかりを持つと、曲ごとの距離感に注意が向く。街の名前から曲を探して、今度は音のほうから街へ戻る。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ],
+      []
+    ],
+    "facts": [
+      {
+        "title": "収録・制作",
+        "text": "2000年『Quality Control』。制作はCut Chemist。題名の表記と由来は本人の説明を参照。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "作曲クレジットと、実際に使用された録音素材の同定は分けて扱います。",
+    "sounds": [],
+    "listening": [],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "",
+    "art": {
+      "word": "Lausd",
+      "tag": "JURASSIC 5",
+      "style": "tag",
+      "seed": 20261026636,
+      "palette": [
+        "#171615",
+        "#FFFFFF",
+        "#94B2BD",
+        "#A56545",
+        "#EEE7D9"
+      ],
+      "paletteSource": "Actually viewed official Apple Music Quality Control cover on 2026-10-26. Editorial approximate palette; no cover imagery copied.",
+      "paletteSourceUrl": "https://music.apple.com/us/album/quality-control/1673109195",
+      "paletteNote": "黒白の文字を中心に青灰色・錆色の小さなアクセント。ジャケットを実見した目視解釈。"
+    },
+    "addedOrder": 636,
+    "datePublished": "2026-10-26",
+    "noteReviewedAt": "2026-10-26"
+  },
+  {
+    "id": "jurassic-5-contact",
+    "title": "Contact",
+    "artist": "Jurassic 5",
+    "primaryArtist": "Jurassic 5",
+    "primaryArtists": [
+      "Jurassic 5"
+    ],
+    "artists": [
+      "Jurassic 5"
+    ],
+    "workType": "single",
+    "album": "Quality Control",
+    "year": 2000,
+    "yearStatus": "verified",
+    "yearBasis": "Quality Controlの発表年。動画の公開年を初出年として扱わない。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "regionBasis": "グループの活動地域。メンバー全員の出生地を意味しない。",
+    "producer": "Cut Chemist",
+    "producers": [
+      "Cut Chemist"
+    ],
+    "producerBasis": "Cut Chemist制作。Quality Controlでは第6曲、Lausdの直前。",
+    "producerSources": [
+      0,
+      2
+    ],
+    "label": "Interscope",
+    "moods": [
+      "ディギング"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Jurassic 5 — Contact（指定音源・PIAS公式配信）",
+        "url": "https://www.youtube.com/watch?v=egtB6CzGkHY",
+        "kind": "権利者配信・ユーザー指定音源"
+      },
+      {
+        "label": "Apple Music — Quality Control（公式配信カタログ）",
+        "url": "https://music.apple.com/us/album/quality-control/1673109195",
+        "kind": "収録作品・発表年"
+      },
+      {
+        "label": "Brian Coleman — Quality Control 2015年復刻盤ライナーノーツ（メンバー取材）",
+        "url": "https://medium.com/cuepoint/check-the-technique-jurassic-5-s-quality-control-f6933702c2dd",
+        "kind": "メンバー協力の原盤資料・本人取材"
+      },
+      {
+        "label": "Jurassic 5 — Official Website",
+        "url": "https://jurassic-five.squarespace.com/",
+        "kind": "本人公式サイト"
+      }
+    ],
+    "youtube": {
+      "id": "egtB6CzGkHY",
+      "url": "https://www.youtube.com/watch?v=egtB6CzGkHY",
+      "embedUrl": "https://www.youtube.com/embed/egtB6CzGkHY",
+      "title": "Contact",
+      "channel": "Jurassic 5 - Topic",
+      "channelUrl": "https://www.youtube.com/channel/UCiXGLhdMax4XsC8JBo9PZ4A",
+      "type": "公式配信音源（指定）",
+      "official": true,
+      "officialStatus": "official",
+      "userSelected": true,
+      "verified": "2026-10-26",
+      "verification": "ユーザーが指定した動画ID。oEmbedの曲名・Topic投稿者とPIAS配信メタデータを照合。本人直接投稿の@J5Officialとは区別する。",
+      "versionBasis": "ユーザー指定のJurassic 5 - Topic / PIAS公式配信。Quality Control収録の同名曲を採用。一般ユーザー投稿、ライヴ、リミックス、別演奏で代替していない。配信動画と初出盤のマスター同一性・実再生は未検証。",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false
+    },
+    "versionBasis": "ユーザー指定のJurassic 5 - Topic / PIAS公式配信。Quality Control収録の同名曲を採用。一般ユーザー投稿、ライヴ、リミックス、別演奏で代替していない。配信動画と初出盤のマスター同一性・実再生は未検証。",
+    "essayTitle": "短い曲にも、ひとつの席を。",
+    "deck": "Quality ControlからLausdへ続く短い接点。Cut Chemistの制作曲をひとつずつたどる。",
+    "essay": [
+      "『Quality Control』では、表題曲と「Lausd」の間に置かれた「Contact」。メンバー協力のライナーノーツは制作をCut Chemistと記す。短い曲だからとアルバム名の陰へしまわず、ここでは独立した一曲として並べる。",
+      "まず「Quality Control」から「Contact」、そして「Lausd」へ。長さの違う曲が続いたとき、耳の構えはどう変わるだろう。大きな曲だけを抜き出す聴き方から一度離れて、曲と曲の間にも席を用意しておきたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ],
+      []
+    ],
+    "facts": [
+      {
+        "title": "収録・制作",
+        "text": "2000年『Quality Control』。Cut Chemist制作。Quality Controlでは第6曲、Lausdの直前。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "作曲クレジットと、実際に使用された録音素材の同定は分けて扱います。",
+    "sounds": [],
+    "listening": [],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "",
+    "art": {
+      "word": "Contact",
+      "tag": "JURASSIC 5",
+      "style": "tag",
+      "seed": 20261026637,
+      "palette": [
+        "#171615",
+        "#FFFFFF",
+        "#94B2BD",
+        "#A56545",
+        "#EEE7D9"
+      ],
+      "paletteSource": "Actually viewed official Apple Music Quality Control cover on 2026-10-26. Editorial approximate palette; no cover imagery copied.",
+      "paletteSourceUrl": "https://music.apple.com/us/album/quality-control/1673109195",
+      "paletteNote": "黒白の文字を中心に青灰色・錆色の小さなアクセント。ジャケットを実見した目視解釈。"
+    },
+    "addedOrder": 637,
+    "datePublished": "2026-10-26",
+    "noteReviewedAt": "2026-10-26"
+  },
+  {
+    "id": "jurassic-5-canto-de-ossanha",
+    "title": "Canto De Ossanha",
+    "artist": "Jurassic 5",
+    "primaryArtist": "Jurassic 5",
+    "primaryArtists": [
+      "Jurassic 5"
+    ],
+    "artists": [
+      "Jurassic 5"
+    ],
+    "workType": "single",
+    "album": "Feedback",
+    "year": 2006,
+    "yearStatus": "verified",
+    "yearBasis": "Feedbackの発表年。動画の公開年を初出年として扱わない。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "regionBasis": "グループの活動地域。メンバー全員の出生地を意味しない。",
+    "producer": "DJ Nu-Mark",
+    "producers": [
+      "DJ Nu-Mark"
+    ],
+    "producerBasis": "制作DJ Nu-Mark。配信クレジットの作曲者はBaden Powell、Vinicius de Moraes。",
+    "producerSources": [
+      0,
+      2
+    ],
+    "label": "Interscope",
+    "moods": [
+      "ディギング"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Jurassic 5 — Canto De Ossanha（指定音源・PIAS公式配信）",
+        "url": "https://www.youtube.com/watch?v=-dZQgvRMFIA",
+        "kind": "権利者配信・ユーザー指定音源"
+      },
+      {
+        "label": "Apple Music — Feedback（公式配信カタログ）",
+        "url": "https://music.apple.com/us/album/feedback/1673100965",
+        "kind": "収録作品・発表年"
+      },
+      {
+        "label": "DJ Nu-Mark — 公式ディスコグラフィー",
+        "url": "https://djnu-mark.com/discography/",
+        "kind": "制作者公式資料"
+      },
+      {
+        "label": "Jurassic 5 — Official Website",
+        "url": "https://jurassic-five.squarespace.com/",
+        "kind": "本人公式サイト"
+      }
+    ],
+    "youtube": {
+      "id": "-dZQgvRMFIA",
+      "url": "https://www.youtube.com/watch?v=-dZQgvRMFIA",
+      "embedUrl": "https://www.youtube.com/embed/-dZQgvRMFIA",
+      "title": "Canto De Ossanha",
+      "channel": "Jurassic 5 - Topic",
+      "channelUrl": "https://www.youtube.com/channel/UCiXGLhdMax4XsC8JBo9PZ4A",
+      "type": "公式配信音源（指定）",
+      "official": true,
+      "officialStatus": "official",
+      "userSelected": true,
+      "verified": "2026-10-26",
+      "verification": "ユーザーが指定した動画ID。oEmbedの曲名・Topic投稿者とPIAS配信メタデータを照合。本人直接投稿の@J5Officialとは区別する。",
+      "versionBasis": "ユーザー指定のJurassic 5 - Topic / PIAS公式配信。Feedback収録の同名曲を採用。一般ユーザー投稿、ライヴ、リミックス、別演奏で代替していない。配信動画と初出盤のマスター同一性・実再生は未検証。",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false
+    },
+    "versionBasis": "ユーザー指定のJurassic 5 - Topic / PIAS公式配信。Feedback収録の同名曲を採用。一般ユーザー投稿、ライヴ、リミックス、別演奏で代替していない。配信動画と初出盤のマスター同一性・実再生は未検証。",
+    "essayTitle": "声の輪から、もうひとつの出口へ。",
+    "deck": "Feedbackの終曲へ。DJ Nu-Markと、Baden Powell／Vinicius de Moraesの名をたどる。",
+    "essay": [
+      "「Canto De Ossanha」は『Feedback』（2006年）の収録曲。指定されたPIAS配信は制作をDJ Nu-Mark、作曲をBaden PowellとVinicius de Moraesと記す。Nu-Mark本人のディスコグラフィーにも、この曲の項目がある。",
+      "「The Game」や「Lausd」からここまで歩くと、ひとつのグループ名の中に、別の作り手と別の出口が見つかる。ラップの曲を探していたはずが、ブラジルの作曲家の名前までメモに加わる。こういう寄り道は、帰り道を少し長くする。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ],
+      []
+    ],
+    "facts": [
+      {
+        "title": "収録・制作",
+        "text": "2006年『Feedback』。制作DJ Nu-Mark。配信クレジットの作曲者はBaden Powell、Vinicius de Moraes。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "作曲クレジットと、実際に使用された録音素材の同定は分けて扱います。",
+    "sounds": [],
+    "listening": [],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "",
+    "art": {
+      "word": "Canto De Ossanha",
+      "tag": "JURASSIC 5",
+      "style": "tag",
+      "seed": 20261026638,
+      "palette": [
+        "#171615",
+        "#FFFFFF",
+        "#C92D2E",
+        "#E58D2C",
+        "#C2D774"
+      ],
+      "paletteSource": "Actually viewed official Apple Music Feedback cover on 2026-10-26. Editorial approximate palette; no cover imagery copied.",
+      "paletteSourceUrl": "https://music.apple.com/us/album/feedback/1673100965",
+      "paletteNote": "黒白の文字を中心に赤・黄・緑の小さなアクセント。ジャケットを実見した目視解釈。"
+    },
+    "addedOrder": 638,
+    "datePublished": "2026-10-26",
+    "noteReviewedAt": "2026-10-26"
+  },
+  {
+    "id": "jurassic-5-jayou-remix",
+    "title": "Jayou (Remix)",
+    "artist": "Jurassic 5",
+    "primaryArtist": "Jurassic 5",
+    "primaryArtists": [
+      "Jurassic 5"
+    ],
+    "artists": [
+      "Jurassic 5"
+    ],
+    "workType": "single",
+    "album": "J5 (Deluxe Edition)",
+    "year": 2008,
+    "yearStatus": "selected-edition",
+    "yearBasis": "2008年は指定配信J5 / Mass Appeal収録版の年。2005年のJayou (Cut Chemist Remix)盤情報はあるが、指定音源との版同一性は未検証のため初出年には採用しない。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "regionBasis": "グループの活動地域。メンバー全員の出生地を意味しない。",
+    "producer": "Cut Chemist",
+    "producers": [
+      "Cut Chemist"
+    ],
+    "producerBasis": "指定Symphonic配信のProducer: Cut Chemistを採用。",
+    "producerSources": [
+      0
+    ],
+    "label": "Mass Appeal",
+    "moods": [
+      "ディギング"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Jurassic 5 — Jayou (Remix)（ユーザー指定・Symphonic公式配信）",
+        "url": "https://www.youtube.com/watch?v=pSUeddnqv6o",
+        "kind": "公式配信・版と制作クレジット"
+      },
+      {
+        "label": "Apple Music — J5 (Deluxe Edition) / Mass Appeal",
+        "url": "https://music.apple.com/us/album/j5-deluxe-edition/1777704233",
+        "kind": "公式配信カタログ"
+      },
+      {
+        "label": "HHV — Jayou (Cut Chemist Remix) 2005年盤（版未照合の補助資料）",
+        "url": "https://www.hhv.de/records/artikel/jurassic-5-jayou-cut-chemist-remix-164256",
+        "kind": "販売店の盤情報・指定音源との一致は未検証"
+      }
+    ],
+    "youtube": {
+      "id": "pSUeddnqv6o",
+      "url": "https://www.youtube.com/watch?v=pSUeddnqv6o",
+      "channel": "Jurassic 5 - Topic",
+      "type": "公式配信音源（指定）",
+      "official": true,
+      "verified": "2026-10-26",
+      "verification": "ユーザー指定ID。Symphonic Distribution提供、J5、℗2008 Mass Appealの配信説明を照合。Topic配信を本人直接投稿とは表示しない。",
+      "embedUrl": "https://www.youtube.com/embed/pSUeddnqv6o",
+      "title": "Jayou (Remix)",
+      "channelUrl": "https://www.youtube.com/channel/UCiXGLhdMax4XsC8JBo9PZ4A",
+      "userSelected": true,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "versionBasis": "ユーザー指定のJayou (Remix)、Symphonic Distribution提供J5 / ℗2008 Mass Appeal版。通常版Jayouと区別。2005年の同名リミックス盤との録音・マスター同一性は未検証。"
+    },
+    "versionBasis": "ユーザー指定のJayou (Remix)、Symphonic Distribution提供J5 / ℗2008 Mass Appeal版。通常版Jayouと区別。2005年の同名リミックス盤との録音・マスター同一性は未検証。",
+    "essayTitle": "同じ名前の、もうひとつの並べ方。",
+    "deck": "Jayouのあとに、Jayou (Remix)。2008年J5収録版として、別の一曲で聴き比べる。",
+    "essay": [
+      "「Jayou (Remix)」は、通常版と並べて聴きたいもう一つのテイク。ここではJ5 / Mass Appealの2008年配信版を選んだ。制作クレジットはCut Chemist。2008年はこの収録版の年として、曲そのものの初出年とは分けている。",
+      "まず通常版、続けてリミックスへ。同じタイトルに括弧が付いたとき、どこを残し、どこを動かしたのかを考えながら聴く。好きな曲にもう一つの入口ができるのは、レコードを掘る小さなご褒美だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      []
+    ],
+    "facts": [
+      {
+        "title": "選択した版",
+        "text": "J5 / 2008 Mass Appeal配信のJayou (Remix)。Producer: Cut Chemist。2008年は確認できる収録版の年で、リミックスの初出年とは断定しない。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "通常版のサンプル資料をリミックスへ自動継承しません。",
+    "sounds": [],
+    "listening": [],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "",
+    "art": {
+      "word": "JAYOU (REMIX)",
+      "tag": "JURASSIC 5",
+      "style": "tag",
+      "seed": 20261026639,
+      "palette": [
+        "#171615",
+        "#FFFFFF",
+        "#A68143",
+        "#D1B15D"
+      ],
+      "paletteSource": "Actually viewed Apple Music J5 (Deluxe Edition) cover on 2026-10-26: black/charcoal with bronze-gold. Editorial approximate palette; no logo or geometric cover copied.",
+      "paletteSourceUrl": "https://music.apple.com/us/album/j5-deluxe-edition/1777704233",
+      "paletteNote": "黒白の手描き文字を主体に、ごく小さなブロンズ金色の飛沫。実見した公式配信ジャケットの目視解釈。"
+    },
+    "addedOrder": 639,
+    "datePublished": "2026-10-26",
+    "noteReviewedAt": "2026-10-26",
+    "yearQualifier": "選択した収録版の年",
+    "yearDisplayNote": "2008年はJ5収録版。リミックス自体の初出年は未確定。",
+    "selectedRelease": {
+      "title": "J5",
+      "catalogTitle": "J5 (Deluxe Edition)",
+      "year": 2008,
+      "label": "Mass Appeal",
+      "distributor": "Symphonic Distribution"
+    }
   }
 ]

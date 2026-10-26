@@ -13787,6 +13787,209 @@
         "sourceImage": "assets/graffiti/originals/cut-chemist-work-my-mind-mass-anchor-v1-original.png",
         "sourceSha256": "beabd6d27d41a0cbc595829eb507567c4ba9e4c98f88beed674ca56ae9412b99"
       }
+    },
+    {
+      "id": "jurassic-5-the-game",
+      "title": "The Game",
+      "artist": "Jurassic 5",
+      "album": "Quality Control",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#171615",
+        "#FFFFFF",
+        "#94B2BD",
+        "#A56545",
+        "#EEE7D9"
+      ],
+      "paletteSource": "Actually viewed official Apple Music Quality Control cover on 2026-10-26. Editorial approximate palette; no cover imagery copied.",
+      "paletteSourceURL": "https://music.apple.com/us/album/quality-control/1673109195",
+      "paletteNote": "黒白の文字を中心に青灰色・錆色の小さなアクセント。ジャケットを実見した目視解釈。",
+      "image": "assets/graffiti/jurassic-5-the-game-mass-tag-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/jurassic-5-the-game-mass-tag-v1-original.png",
+      "concept": "正題とJURASSIC 5の手描きレタリング。黒白を中心とする平面の文字・飛沫・短い垂れ。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "実見した盤の配色と正題による独自図案。作者の意図や音声解析を主張しない。",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          121,
+          81,
+          1596,
+          1068
+        ],
+        "outputSha256": "abba57a2f14e6ac7335f6db73196b20e8d55b23e5dc245d45ced3e6fdc0c7de5",
+        "sourceImage": "assets/graffiti/originals/jurassic-5-the-game-mass-tag-v1-original.png",
+        "sourceSha256": "85f6784ace31c6381b9f32ecc089e1ecc0fc8f4c95f7214212616b94aec2d57a"
+      }
+    },
+    {
+      "id": "jurassic-5-lausd",
+      "title": "Lausd",
+      "artist": "Jurassic 5",
+      "album": "Quality Control",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#171615",
+        "#FFFFFF",
+        "#94B2BD",
+        "#A56545",
+        "#EEE7D9"
+      ],
+      "paletteSource": "Actually viewed official Apple Music Quality Control cover on 2026-10-26. Editorial approximate palette; no cover imagery copied.",
+      "paletteSourceURL": "https://music.apple.com/us/album/quality-control/1673109195",
+      "paletteNote": "黒白の文字を中心に青灰色・錆色の小さなアクセント。ジャケットを実見した目視解釈。",
+      "image": "assets/graffiti/jurassic-5-lausd-mass-tag-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/jurassic-5-lausd-mass-tag-v1-original.png",
+      "concept": "正題とJURASSIC 5の手描きレタリング。黒白を中心とする平面の文字・飛沫・短い垂れ。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "実見した盤の配色と正題による独自図案。作者の意図や音声解析を主張しない。",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          139,
+          68,
+          1845,
+          900
+        ],
+        "outputSha256": "d4a2a72c62f1e3cb56a299d1bb421689c96ad48fd50c06fb6e169858378ef92e",
+        "sourceImage": "assets/graffiti/originals/jurassic-5-lausd-mass-tag-v1-original.png",
+        "sourceSha256": "2b54c446145e3cc9e224f5465e6cb96f921bc32f0613967f67df9b6c6c4ec659"
+      }
+    },
+    {
+      "id": "jurassic-5-canto-de-ossanha",
+      "title": "Canto De Ossanha",
+      "artist": "Jurassic 5",
+      "album": "Feedback",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#171615",
+        "#FFFFFF",
+        "#C92D2E",
+        "#E58D2C",
+        "#C2D774"
+      ],
+      "paletteSource": "Actually viewed official Apple Music Feedback cover on 2026-10-26. Editorial approximate palette; no cover imagery copied.",
+      "paletteSourceURL": "https://music.apple.com/us/album/feedback/1673100965",
+      "paletteNote": "黒白の文字を中心に赤・黄・緑の小さなアクセント。ジャケットを実見した目視解釈。",
+      "image": "assets/graffiti/jurassic-5-canto-de-ossanha-mass-tag-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/jurassic-5-canto-de-ossanha-mass-tag-v1-original.png",
+      "concept": "正題とJURASSIC 5の手描きレタリング。黒白を中心とする平面の文字・飛沫・短い垂れ。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "実見した盤の配色と正題による独自図案。作者の意図や音声解析を主張しない。",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          136,
+          61,
+          1797,
+          803
+        ],
+        "outputSha256": "7423026deaa1e7aeffd36c1f8cd0a237991ed4c78e4a7706087f174ba796ab0e",
+        "sourceImage": "assets/graffiti/originals/jurassic-5-canto-de-ossanha-mass-tag-v1-original.png",
+        "sourceSha256": "9cf60b920f072dcfaa11ab26e193c09db2dfee741f1f1a61b0199b691cb4f6a1"
+      }
+    },
+    {
+      "id": "jurassic-5-contact",
+      "title": "Contact",
+      "artist": "Jurassic 5",
+      "album": "Quality Control",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#171615",
+        "#FFFFFF",
+        "#94B2BD",
+        "#A56545",
+        "#EEE7D9"
+      ],
+      "paletteSource": "Actually viewed official Apple Music Quality Control cover on 2026-10-26. Editorial approximate palette; no cover imagery copied.",
+      "paletteSourceURL": "https://music.apple.com/us/album/quality-control/1673109195",
+      "paletteNote": "黒白の文字を中心に青灰色・錆色の小さなアクセント。ジャケットを実見した目視解釈。",
+      "image": "assets/graffiti/jurassic-5-contact-mass-tag-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/jurassic-5-contact-mass-tag-v1-original.png",
+      "concept": "正題とJURASSIC 5の手描きレタリング。黒白を中心とする平面の文字・飛沫・短い垂れ。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "実見した盤の配色と正題による独自図案。作者の意図や音声解析を主張しない。",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          153,
+          56,
+          2028,
+          741
+        ],
+        "outputSha256": "b511276d87f4dd006209952d2d185ecd38ec1d52dd84c14246dab879bc10a4b4",
+        "sourceImage": "assets/graffiti/originals/jurassic-5-contact-mass-tag-v1-original.png",
+        "sourceSha256": "891dabfff37dc4148a243d76ba0c771f2d86e6cf9f009c35a0a8b5bccd3fce57"
+      }
+    },
+    {
+      "id": "jurassic-5-jayou-remix",
+      "title": "Jayou (Remix)",
+      "artist": "Jurassic 5",
+      "album": "J5 (Deluxe Edition)",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#171615",
+        "#FFFFFF",
+        "#A68143",
+        "#D1B15D"
+      ],
+      "paletteSource": "Actually viewed Apple Music J5 (Deluxe Edition) cover on 2026-10-26: black/charcoal with bronze-gold. Editorial approximate palette; no logo or geometric cover copied.",
+      "paletteSourceURL": "https://music.apple.com/us/album/j5-deluxe-edition/1777704233",
+      "paletteNote": "黒白の手描き文字を主体に、ごく小さなブロンズ金色の飛沫。実見した公式配信ジャケットの目視解釈。",
+      "image": "assets/graffiti/jurassic-5-jayou-remix-mass-tag-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/jurassic-5-jayou-remix-mass-tag-v1-original.png",
+      "concept": "JAYOUとREMIXを独立した大きな行にし、JURASSIC 5を添えた平面の手描き文字。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          140,
+          68,
+          1854,
+          897
+        ],
+        "outputSha256": "d7185f1c385a6e48bb67d9644eb12c63fbf9c38afa15523320979701637ad809",
+        "sourceImage": "assets/graffiti/originals/jurassic-5-jayou-remix-mass-tag-v1-original.png",
+        "sourceSha256": "4fc378996e379ba0b6cc9cd615d515296fd2a05c08d34308a95aaab7a3c215f7"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

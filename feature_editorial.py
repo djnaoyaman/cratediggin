@@ -21,3 +21,14 @@ def render_longform(e,base_path=''):
         if refs:body+='<p class="essay-references">出典：'+ ' / '.join('<a href="'+html.escape(e['sources'][i]['url'],quote=True)+'">'+html.escape(e['sources'][i]['label'])+'</a>' for i in refs)+'</p>'
         body+='</section>'
     return body+'<p class="read-only-note">'+html.escape(e['disclosure'])+'</p></article>'
+
+
+def render_listening_route(feature, tracks, base_path=''):
+    ids = feature.get('listeningOrder', [])
+    if not ids: return ''
+    by_id = {t['id']: t for t in tracks}
+    assert len(ids) == len(set(ids)) and all(i in by_id for i in ids), 'Invalid feature listening route'
+    from catalog import year_label
+    esc = html.escape
+    rows = ''.join('<li><a href="'+base_path+'/tracks/'+i+'.html"><span>'+esc(by_id[i]['title'])+'</span><small>'+esc(by_id[i]['album'])+' · '+esc(year_label(by_id[i]))+'</small></a></li>' for i in ids)
+    return '<section class="feature-listening-route" aria-labelledby="feature-route-title"><p class="eyebrow">LISTENING ROUTE</p><h2 id="feature-route-title">この順番で、聴いてみる。</h2><p>DJ Naoyamanの選曲順。気になる一曲からでも。</p><ol>'+rows+'</ol></section>'

@@ -510,3 +510,18 @@ body[data-art-mode=hybrid] .art-info,body[data-art-mode=hybrid] .art-provider-he
  body[data-art-mode=hybrid] .art-provider-help,body[data-art-mode=hybrid] .art-crate-status{right:max(16px,var(--art-safe-right))}
  body[data-art-mode=hybrid] .art-credit{width:calc(var(--provider-left) - max(16px,var(--art-safe-left)) - 12px)}
 }
+
+/* Tag-led features keep the photograph slot optional, with no fabricated portrait. */
+.person-tag-header{margin:24px 0 40px;padding:clamp(20px,4vw,48px);border:1px solid var(--line);background:var(--off);display:grid;place-items:center;gap:16px}
+.person-tag-header img{display:block;width:100%;max-width:900px;max-height:340px;object-fit:contain}
+.person-tag-header figcaption{font:500 11px/1.5 var(--sans);color:var(--muted);text-align:center;letter-spacing:.04em}
+.feature-listening-route{margin:42px 0;padding:28px;border-block:2px solid var(--ink);background:var(--off)}
+.feature-listening-route h2{margin:8px 0 14px}.feature-listening-route>p{line-height:1.7}
+.feature-listening-route ol{padding-left:1.7em;margin:24px 0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 32px}
+.feature-listening-route li{padding:13px 8px;border-bottom:1px solid var(--line)}
+.feature-listening-route li::marker{font-weight:700;color:var(--blue)}
+.feature-listening-route a{display:flex;flex-direction:column;gap:5px;text-decoration:none}
+.feature-listening-route a span{font-weight:750}.feature-listening-route a:hover span{text-decoration:underline}.feature-listening-route small{font-size:11px;line-height:1.6;color:var(--muted)}
+.feature-listening-route button{padding:14px 20px;border:1px solid var(--blue);background:var(--blue);color:#fff;font:700 14px var(--sans);cursor:pointer;min-height:44px}
+.feature-listening-route a:focus-visible,.feature-listening-route button:focus-visible{outline:3px solid var(--blue);outline-offset:4px}
+@media(max-width:640px){.person-tag-header{padding:14px;margin:20px 0 30px}.person-tag-header img{max-height:250px}.feature-listening-route{padding:22px 16px}.feature-listening-route ol{grid-template-columns:1fr}.feature-listening-route button{width:100%}}
