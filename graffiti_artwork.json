@@ -13664,6 +13664,47 @@
         "sourceImage": "assets/graffiti/originals/jurassic-5-twelve-mass-anchor-v1-original.png",
         "sourceSha256": "b0c42a687aa1779f7fc9821729f4fc3bc6396d86fa5d0caab42500e50f4f8fc0"
       }
+    },
+    {
+      "id": "jurassic-5-swing-set",
+      "title": "Swing Set",
+      "artist": "Jurassic 5",
+      "album": "Quality Control",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#161411",
+        "#F2E9D8",
+        "#7A9CAE",
+        "#A56545",
+        "#8B7969"
+      ],
+      "paletteSource": "Actually viewed Apple Music Quality Control cover on 2026-10-26. Editorial approximate palette: black, ivory, muted blue-grey, rust and warm earth. No photograph or band logo copied.",
+      "paletteSourceURL": "https://music.apple.com/us/album/quality-control/1673109195",
+      "paletteNote": "Main black-filled letters and white painted edges follow fixed Mass/QC series. Selected catalog cover colors only; no figurative objects/scenery copied.",
+      "concept": "SWINGとSETのSを反復し、WとGの斜線と曲線を噛み合わせる手描き文字だけの編集図案。文字・飛沫以外の物体や情景を使わない。未聴取のリズムや作者の意図を表したという主張はしない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "題名と作品資料を入口とする独自の字形解釈。作者の視覚意図、試聴、DJ使用盤とのマスター一致は主張しない。",
+      "image": "assets/graffiti/jurassic-5-swing-set-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/jurassic-5-swing-set-mass-anchor-v1-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          130,
+          72,
+          1727,
+          950
+        ],
+        "outputSha256": "0b9de2f86d62c43852e3d0d4264780a0dd0a78bab441858c76c2b2666868198c",
+        "sourceImage": "assets/graffiti/originals/jurassic-5-swing-set-mass-anchor-v1-original.png",
+        "sourceSha256": "5cdc5b36dd7dace5119c15f5e29cbfbe64a2c8ed2cb7386e31bf5ef7c2600355"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

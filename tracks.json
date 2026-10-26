@@ -81700,5 +81700,136 @@
     },
     "addedOrder": 631,
     "datePublished": "2026-10-26"
+  },
+  {
+    "id": "jurassic-5-swing-set",
+    "title": "Swing Set",
+    "artist": "Jurassic 5",
+    "primaryArtists": [
+      "Jurassic 5"
+    ],
+    "featuredArtists": [],
+    "album": "Quality Control",
+    "year": 2000,
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "producer": "DJ Nu-Mark",
+    "producers": [
+      "DJ Nu-Mark"
+    ],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=LA0jouPMb9s",
+        "label": "Jurassic 5 — Swing Set（PIAS公式配信クレジット）",
+        "kind": "公式配信metadata"
+      },
+      {
+        "url": "https://www.universal-music.co.jp/jurassic5/biography/",
+        "label": "Universal Music Japan — Jurassic 5公式略歴",
+        "kind": "公式活動地域"
+      },
+      {
+        "url": "https://serato.com/playlists/myquade/4-16-2024",
+        "label": "myquade — 4/16/2024 選曲表",
+        "kind": "DJ本人の公開選曲記録"
+      },
+      {
+        "url": "https://music.apple.com/us/album/quality-control/1673109195",
+        "label": "Apple Music — Quality Control（2000年・収録曲15・5:18）",
+        "kind": "公式作品情報"
+      }
+    ],
+    "youtube": {
+      "id": "LA0jouPMb9s",
+      "url": "https://www.youtube.com/watch?v=LA0jouPMb9s",
+      "embedUrl": "https://www.youtube.com/embed/LA0jouPMb9s",
+      "title": "Swing Set",
+      "channel": "Jurassic 5 - Topic",
+      "channelUrl": "https://www.youtube.com/channel/UCiXGLhdMax4XsC8JBo9PZ4A",
+      "official": true,
+      "officialStatus": "official",
+      "type": "公式配信音源",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verified": "2026-10-26",
+      "verification": "oEmbed HTTP200で題名・投稿者を照合。通常ブラウザーの公式アーティスト表示、PIAS配信説明、Quality Control、2000年、DJ Nu-Mark制作、5:18を確認。プレイヤー0:00からの進行と音声は未検証。",
+      "versionBasis": "Quality Control収録のSwing Set。選択は2023年公開のPIAS公式配信、表示尺5:18はApple収録曲15と一致。DJログは版名なしのSwing Setで、実際のDJ使用ファイルと現在の配信マスターの一致は未確認。"
+    },
+    "regionBasis": "Universal Music Japan公式略歴はグループをLAベースと記載。活動地域Los Angelesを採用し、全メンバーの出身地とは扱わない。",
+    "regionSources": [
+      1
+    ],
+    "yearBasis": "Quality Control公式カタログと選択公式配信のrelease yearが2000年で一致。2023年の動画公開を初出年としない。Jan1表記から初出月日までは確定しない。",
+    "versionBasis": "Quality Control収録のSwing Set。選択は2023年公開のPIAS公式配信、表示尺5:18はApple収録曲15と一致。DJログは版名なしのSwing Setで、実際のDJ使用ファイルと現在の配信マスターの一致は未確認。",
+    "djEvidence": {
+      "url": "https://serato.com/playlists/myquade/4-16-2024",
+      "dj": "myquade",
+      "event": "4/16/2024",
+      "date": "2024-04-16",
+      "position": "00:51:08",
+      "preceding": "00:49:27 The Swing Bot — Evenin'",
+      "following": "00:54:38 The Swing Bot — Doin' the Jive (Electro Swing Bot Mix)",
+      "edition": "No remix/edit suffix in source; played file/master not established",
+      "limits": "One first-party selection record; not evidence of play frequency or universal DJ popularity."
+    },
+    "essayTitle": "The Swing Botの二曲の間に、Jurassic 5",
+    "essay": [
+      "ロサンゼルスを拠点とするJurassic 5の「Swing Set」は、2000年の『Quality Control』を締めくくる15曲目。現在の公式配信では5分18秒、制作欄にはDJ Nu-Markの名がある。アルバムの最後から聴き始めてみる、という入口もよさそうだ。",
+      "myquadeが公開した2024年4月16日の選曲表では、51分08秒に「Swing Set」が登場する。前後を挟むのはThe Swing Botの「Evenin'」と「Doin' the Jive (Electro Swing Bot Mix)」。アルバムでの居場所と、DJが組んだ曲順での居場所。二つの並びを見比べると、次に辿りたい曲も変わってくる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        2
+      ]
+    ],
+    "primaryArtist": "Jurassic 5",
+    "artists": [
+      "Jurassic 5"
+    ],
+    "category": "Hip Hop",
+    "label": "Interscope Records",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-26",
+    "context": "",
+    "yearStatus": "verified",
+    "deck": "アルバムの最後の一曲を、DJの公開選曲表から見つけ直す。",
+    "workType": "single",
+    "producerBasis": "選択PIAS公式配信の説明欄にProducer: DJ Nu-Markと記載。作曲者一覧のLucas MacFaddenを追加producerへ転用しない。",
+    "art": {
+      "style": "tag",
+      "palette": [
+        "#161411",
+        "#F2E9D8",
+        "#7A9CAE",
+        "#A56545",
+        "#8B7969"
+      ],
+      "paletteSource": "Actually viewed Apple Music Quality Control cover on 2026-10-26. Editorial approximate palette: black, ivory, muted blue-grey, rust and warm earth. No photograph or band logo copied.",
+      "paletteSourceUrl": "https://music.apple.com/us/album/quality-control/1673109195",
+      "paletteNote": "Main black and white lettering with small blue-grey/rust paint accents; approximate visual interpretation, not sampled color measurements."
+    },
+    "addedOrder": 632,
+    "datePublished": "2026-10-26",
+    "labelSources": [
+      0
+    ],
+    "labelBasis": "選択配信の原盤表記はInterscope Geffen (A&M) Records A Division of UMG Recordings Inc.。現在の配信提供者PIASとは区別。"
   }
 ]
