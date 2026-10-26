@@ -1,0 +1,57 @@
+{
+  "checkedAt": "2026-10-26",
+  "baseCommit": "8c5b2f6fc0abfd88d2422dc5673d8e162570a019",
+  "catalogCount": 638,
+  "id": "jurassic-5-swing-set",
+  "title": "Swing Set",
+  "artist": "Jurassic 5",
+  "year": 2000,
+  "region": "Los Angeles",
+  "selectedEdition": "Quality Control album track, current PIAS delivery (2023 upload; catalog release year 2000)",
+  "dedup": "No existing Swing Set title/id in fresh 638-entry catalog",
+  "djEvidence": {
+    "url": "https://serato.com/playlists/myquade/4-16-2024",
+    "dj": "myquade",
+    "date": "2024-04-16",
+    "time": "00:51:08",
+    "preceding": "00:49:27 The Swing Bot — Evenin'",
+    "following": "00:54:38 The Swing Bot — Doin' the Jive (Electro Swing Bot Mix)",
+    "limits": "First-party selection log; no remix suffix. Does not identify played master, prove repeated popularity or confirm selected upload playback."
+  },
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=LA0jouPMb9s",
+      "basis": "Successful web indexed official artist PIAS metadata: Swing Set, Quality Control, Released 2000-01-01, Producer DJ Nu-Mark. Successful oEmbed HTTP200 author Jurassic 5 - Topic. No actual playback."
+    },
+    {
+      "url": "https://music.apple.com/us/album/quality-control/1673109195",
+      "basis": "Official album 2000; current browser track15 Swing Set 5:18; original release month/day not inferred from January1 catalog date. Cover visually inspected."
+    },
+    {
+      "url": "https://www.universal-music.co.jp/jurassic5/biography/",
+      "basis": "Official LA-based biography"
+    }
+  ],
+  "art": {
+    "reference": "libfile_75fb8413c38c819186eda919f76fb0fc",
+    "palette": "Viewed Quality Control Apple cover: black/ivory with small muted blue-grey, rust and warm-earth accents",
+    "concept": "Original interlocking broad marker typography only; SWING SET and JURASSIC 5. No scenery, 3D, illustrations, site signature, or thin cursive. No claimed artist intention.",
+    "display": "alpha>=8 bbox; 7% margins; normalize canvas only, preserve original."
+  },
+  "holdsPreserved": [
+    "legacy PR100",
+    "ambiguous Sum operation",
+    "Peek/Peak",
+    "Audience Theme",
+    "cashmoney3",
+    "bulk articles",
+    "existing art/photos"
+  ],
+  "publicationEvidence": {
+    "youtubeDuration": "5:18",
+    "appleDuration": "5:18",
+    "youtubeCredit": "Producer: DJ Nu-Mark",
+    "playback": "Not verified; UI duration and metadata only",
+    "art": "Built-in image generation from inspected Mass Appeal reference; targeted second generation improves artist contrast; alpha8/7% normalized without stretching; original retained."
+  }
+}
