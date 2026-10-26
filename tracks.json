@@ -81970,5 +81970,182 @@
     ],
     "labelBasis": "公式O.S.T.カタログと選択配信の原盤表記Om Records / Clover Beatsに基づく。配信提供者Virgin Music Groupとは区別。",
     "versionBasis": "O.S.T.収録曲Montego Slay。公式カタログと通常YouTubeプレイヤーの表示尺はともに4:12。選択Topicの説明はVirgin Music Group提供、℗2003 Om Records / Clover Beats、Released 2003-06-02。原盤2002年と分離し、再発版や同一マスターと断定しない。シングル別尺、edit、instrumentalとは区別。"
+  },
+  {
+    "id": "cut-chemist-work-my-mind",
+    "title": "Work My Mind (feat. Chali 2na & Hymnal)",
+    "artist": "Cut Chemist",
+    "primaryArtist": "Cut Chemist",
+    "primaryArtists": [
+      "Cut Chemist"
+    ],
+    "artists": [
+      "Cut Chemist",
+      "Chali 2na",
+      "Hymnal"
+    ],
+    "featuredArtists": [
+      "Chali 2na",
+      "Hymnal"
+    ],
+    "workType": "single",
+    "album": "Die Cut",
+    "year": 2017,
+    "yearStatus": "verified",
+    "yearQualifier": "シングル初出年",
+    "yearBasis": "本人公式動画が案内するApple Musicの同名シングルは2017年10月6日。Die Cut収録は公式Bandcampの2018年3月2日。単曲の先行発表と翌年のアルバム収録を分離し、動画投稿日を初出年にしない。",
+    "yearDisplayNote": "シングルは2017年10月6日。Die Cut収録は2018年3月2日。",
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "regionBasis": "本人公式Bandcampのアーティスト欄がLos Angeles, Californiaと明記。活動拠点であり、出生地の認定ではない。",
+    "regionSources": [
+      1
+    ],
+    "producer": null,
+    "producers": [],
+    "producerBasis": "参照した一次資料で単曲のproducer creditを確定していない。主名義・作曲者・動画投稿者から推定しない。",
+    "label": "A Stable Sound",
+    "labelBasis": "本人公式動画がリンクするApple Musicシングルの℗2017 A Stable Sound表記。",
+    "labelSources": [
+      0
+    ],
+    "catalogDuration": "3:38",
+    "moods": [
+      "ディギング"
+    ],
+    "sources": [
+      {
+        "label": "Apple Music — Work My Mind (feat. Chali 2na & Hymnal) - Single",
+        "url": "https://music.apple.com/ca/album/work-my-mind-feat-chali-2na-hymnal-single/1291326807",
+        "kind": "公式配信・シングル情報",
+        "evidence": "2017-10-06 / A Stable Sound / original vocal 3:38; Technoself Remix 3:34; Instrumental 3:38. Artist music-video description links this same catalog ID."
+      },
+      {
+        "label": "Cut Chemist — Die Cut 公式カタログ",
+        "url": "https://cutchemist.bandcamp.com/album/die-cut",
+        "kind": "本人公式作品・活動地域情報",
+        "evidence": "2018-03-02; track 7, Work My Mind feat. Chali 2na & Hymnal, 03:38. Artist location: Los Angeles, California. Actual cover viewed for palette."
+      },
+      {
+        "label": "Cut Chemist — Work My Mind 公式ミュージックビデオ",
+        "url": "https://www.youtube.com/watch?v=zmYXYlCeUYE",
+        "kind": "本人公式動画・サンプル出典",
+        "evidence": "Official title and artist channel confirmed by oEmbed HTTP200 and browser. Description links Apple single and identifies Alternative Fresh by Vox Populi! as sample source, as featured on Cut Chemist Presents Funk Off."
+      },
+      {
+        "label": "Sim Ca — Warm Up 1",
+        "url": "https://serato.com/playlists/Sim_Ca/warm-up-1",
+        "kind": "DJ本人の公開選曲記録",
+        "evidence": "06 Jul 2022. Final listed entry 00:51:57 Cut Chemist - Work My Mind (feat. Chali 2na & Hymnal). One selection example; played file/master is not documented."
+      },
+      {
+        "label": "Cut Chemist — Funk Off 公式収録資料",
+        "url": "https://cutchemist.bandcamp.com/album/cut-chemist-presents-funk-off-featuring-vox-populi-and-pacific-231",
+        "kind": "本人公式サンプル曲収録資料",
+        "evidence": "Track 8: Vox populi! - Alternative Fresh, 03:08. This compilation is not treated as the original recording date."
+      }
+    ],
+    "youtube": {
+      "id": "zmYXYlCeUYE",
+      "url": "https://www.youtube.com/watch?v=zmYXYlCeUYE",
+      "embedUrl": "https://www.youtube.com/embed/zmYXYlCeUYE",
+      "title": "CUT CHEMIST - \"Work My Mind\" feat Chali 2na and Hymnal (Official Music Video)",
+      "channel": "Cut Chemist",
+      "channelUrl": "https://www.youtube.com/@OfficialCutChemist",
+      "type": "公式ミュージックビデオ",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verified": "2026-10-26",
+      "verification": "oEmbed HTTP200の正題・投稿者と通常ブラウザーの公式チャンネル・説明欄のシングルリンク・停止中0:00 / 3:38表示を照合。音声、再生進行、日本地域での再生、埋め込み実行、マスター同一性は未検証。",
+      "versionBasis": "本人公式のMusic Video。動画説明は2017年の同名シングルへリンクし、客演Chali 2na / Hymnalと表示尺3:38が同シングルの歌入り原曲に一致。3:34のTECHNOSELF Remixおよび3:38のInstrumentalとは区別する。2018年Die Cutの7曲目にも同題・客演・3:38で収録されるが、動画と各配信のマスター同一性は未検証。",
+      "duration": "3:38",
+      "durationBasis": "通常YouTubeプレイヤーの停止中の表示尺。音声未検証。"
+    },
+    "versionBasis": "本人公式のMusic Video。動画説明は2017年の同名シングルへリンクし、客演Chali 2na / Hymnalと表示尺3:38が同シングルの歌入り原曲に一致。3:34のTECHNOSELF Remixおよび3:38のInstrumentalとは区別する。2018年Die Cutの7曲目にも同題・客演・3:38で収録されるが、動画と各配信のマスター同一性は未検証。",
+    "titleAliases": [
+      "Work My Mind"
+    ],
+    "essayTitle": "選曲表の終わりから、サンプルの棚へ",
+    "deck": "Sim Caの選曲記録に残る一曲。客演の二人と、公式のサンプル案内を辿る。",
+    "essay": [
+      "Sim Caの「Warm Up 1」は、2022年7月6日付の公開選曲表。その最後、51分57秒に「Work My Mind」が載っている。ひとつ前はDRA’man、Prince、Odeszaの「My kiss - Mashup」。並びを眺めていると、アルバムの棚だけでは出会わない隣り合わせが見えてくる。ここで挙げるのは一つのDJ使用例で、定番ぶりを数えたものではない。",
+      "Chali 2naとHymnalを迎えた曲は、2017年のシングルを経て、翌年の『Die Cut』へ入る。さらに本人の動画説明には、素材がVox Populi!の「Alternative Fresh」だという案内がある。曲名を一つ調べるつもりが、客演、アルバム、サンプル元と棚が増えていく。ディギングの寄り道にも、たまには親切な道標がある。"
+    ],
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "djEvidence": {
+      "url": "https://serato.com/playlists/Sim_Ca/warm-up-1",
+      "dj": "Sim Ca",
+      "event": "Warm Up 1",
+      "date": "2022-07-06",
+      "position": "00:51:57",
+      "preceding": "00:49:03 DRA'man, Prince, Odesza — My kiss - Mashup",
+      "following": null,
+      "edition": "Exact featured artists listed; no remix/edit suffix. Played file/master not established.",
+      "limits": "One first-party selection record, not evidence of frequent use or universal DJ popularity. Last listed track does not prove the end of the actual set."
+    },
+    "category": "Hip Hop",
+    "listening": [],
+    "facts": [
+      {
+        "title": "単曲とアルバムの年",
+        "text": "同名シングルは2017年10月6日。Die Cutへの収録は2018年3月2日。客演はChali 2naとHymnal。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [
+      {
+        "artist": "Vox Populi!",
+        "title": "Alternative Fresh",
+        "year": null,
+        "main": false,
+        "role": "本人公式動画の説明がサンプル元として明記。Funk Off公式カタログにも収録。素材の初出年、具体的な切り出し位置、主従関係は未照合。",
+        "sources": [
+          2,
+          4
+        ]
+      }
+    ],
+    "sampleStatus": "公式動画で明示された素材のみ掲載。原曲の適切なYouTube音源は探索しても特定できず、別のCut Chemist Club Mixで代替せず再生欄を省略。",
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-26",
+    "context": "",
+    "art": {
+      "style": "tag",
+      "word": "WORK MY MIND",
+      "tag": "CUT CHEMIST / FEAT. CHALI 2NA & HYMNAL",
+      "seed": 20261026634,
+      "palette": [
+        "#171615",
+        "#FFFFFF",
+        "#BD2928",
+        "#93AF29",
+        "#BD985D",
+        "#79419B"
+      ],
+      "paletteSource": "Actually viewed official Die Cut Bandcamp cover on 2026-10-26: predominantly black and white with small red, green, tan and violet record-label accents. Editorial approximation; no cover photograph or artwork copied.",
+      "paletteSourceUrl": "https://cutchemist.bandcamp.com/album/die-cut",
+      "paletteNote": "黒白の手描き文字を主体に、赤・緑・砂色・紫の小さな塗料アクセントを添える目視解釈。ジャケットの人物やレコード片は描かない。"
+    },
+    "addedOrder": 634,
+    "datePublished": "2026-10-26"
   }
 ]
