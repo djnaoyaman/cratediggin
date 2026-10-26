@@ -81833,5 +81833,142 @@
       0
     ],
     "labelBasis": "選択配信の原盤表記はInterscope Geffen (A&M) Records A Division of UMG Recordings Inc.。現在の配信提供者PIASとは区別。"
+  },
+  {
+    "id": "people-under-the-stairs-montego-slay",
+    "title": "Montego Slay",
+    "artist": "People Under the Stairs",
+    "primaryArtist": "People Under the Stairs",
+    "primaryArtists": [
+      "People Under the Stairs"
+    ],
+    "artists": [
+      "People Under the Stairs"
+    ],
+    "featuredArtists": [],
+    "workType": "single",
+    "album": "O.S.T.",
+    "year": 2002,
+    "region": "Los Angeles",
+    "scene": "Los Angeles",
+    "regionBasis": "公式O.S.T.カタログのアーティスト欄はLos Angeles, California、紹介文はLA basedと明記。活動拠点を示し、全メンバーの出身地とは扱わない。",
+    "regionSources": [
+      0
+    ],
+    "producer": null,
+    "producers": [],
+    "producerBasis": "単曲の制作担当を確定できる一次creditは未確認。公式配信のComposer Lyricist欄にあるChris PortugalとMike Turnerをproducerへ転用しない。",
+    "label": "Om Records",
+    "moods": [
+      "ディギング"
+    ],
+    "sources": [
+      {
+        "label": "People Under the Stairs / Om — O.S.T. 公式収録資料",
+        "url": "https://peopleunderthestairs.bandcamp.com/album/o-s-t",
+        "kind": "公式作品・活動地域情報"
+      },
+      {
+        "label": "T-Bird & R.D. — Lyrics Rhymes & VIBES September 2026",
+        "url": "https://serato.com/playlists/djtbird/lyrics-rhymes-vibes-september-2026",
+        "kind": "DJ本人の公開選曲記録"
+      },
+      {
+        "label": "YouTube — Montego Slay 公式Topic配信",
+        "url": "https://www.youtube.com/watch?v=e9_xZ4jeyh0",
+        "kind": "公式配信metadata"
+      },
+      {
+        "label": "Virgin Music — O.S.T. 公式商品情報",
+        "url": "https://shop.virginmusic.com/vinyl/332409/people-under-the-stairs-ost",
+        "kind": "公式作品情報"
+      }
+    ],
+    "youtube": {
+      "id": "e9_xZ4jeyh0",
+      "url": "https://www.youtube.com/watch?v=e9_xZ4jeyh0",
+      "embedUrl": "https://www.youtube.com/embed/e9_xZ4jeyh0",
+      "title": "Montego Slay",
+      "channel": "PEOPLE UNDER THE STAIRS - Topic",
+      "channelUrl": "https://www.youtube.com/channel/UC2iOJ6K_0ug4lNxMrgns5ww",
+      "type": "公式配信音源",
+      "official": true,
+      "officialStatus": "official",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verified": "2026-10-26",
+      "verification": "oEmbed HTTP200の正題とTopic投稿者、通常ブラウザーの配信説明・O.S.T.表記・0:00 / 4:12を照合。音声、再生進行、日本地域での再生、埋め込み実行、マスター同一性は未検証。",
+      "versionBasis": "O.S.T.収録曲Montego Slay。公式カタログと通常YouTubeプレイヤーの表示尺はともに4:12。選択Topicの説明はVirgin Music Group提供、℗2003 Om Records / Clover Beats、Released 2003-06-02。原盤2002年と分離し、再発版や同一マスターと断定しない。シングル別尺、edit、instrumentalとは区別。",
+      "duration": "4:12",
+      "durationBasis": "通常YouTubeプレイヤーの停止中の表示尺。音声未検証。"
+    },
+    "titleAliases": [],
+    "yearBasis": "公式O.S.T.カタログの15曲目、原盤年2002。Bandcampは6月2日、Virgin Music商品情報は6月4日と月日が異なるため初出月日は確定しない。選択TopicのReleased 2003-06-02は配信の表示として分離する。",
+    "yearQualifier": "原盤年",
+    "yearDisplayNote": "O.S.T.原盤は2002年。選択した配信の発売欄は2003年6月2日。",
+    "catalogDuration": "4:12",
+    "essayTitle": "2026年の選曲表から、2002年の15曲目へ",
+    "deck": "Dinner PartyからBusta Rhymesへ。その間に置かれたO.S.T.の一曲。",
+    "essay": [
+      "T-Bird & R.D.が公開している2026年9月23日付の選曲表の1時間21分58秒に「Montego Slay」がある。直前はDinner Partyらの「For Granted」、次はBusta Rhymesの「Woo Hah (Jay Dee Remix)」。曲名を順に辿っているだけで、気になるレコードが増えていく。ディギングは棚の前に立っていないときにも始まるらしい。",
+      "ロサンゼルスを拠点とするPeople Under the Stairsの『O.S.T.』では、2002年のアルバムの15曲目に収まる4分12秒。DJの並びから見つけた曲を、今度はアルバムの曲順へ戻してみたい。ここで紹介するのは公開選曲記録の一例。そこで使われた盤や編集と、今回選んだ公式配信が同じマスターかどうかまでは分かっていない。"
+    ],
+    "essaySources": [
+      [
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "djEvidence": {
+      "url": "https://serato.com/playlists/djtbird/lyrics-rhymes-vibes-september-2026",
+      "dj": "T-Bird & R.D.",
+      "event": "Lyrics Rhymes & VIBES September 2026",
+      "date": "2026-09-23",
+      "position": "01:21:58",
+      "preceding": "01:18:48 Dinner Party, Terrace Martin, 9th Wonder & Kamasi Washington — For Granted feat. Arin Ray",
+      "following": "01:24:23 Busta Rhymes — Woo Hah (Jay Dee Remix)",
+      "edition": "No remix/edit suffix in source; played file/master not established",
+      "limits": "One first-party selection record, not evidence of frequent use or universal DJ popularity. Selected distribution master is not identified by the log."
+    },
+    "category": "Hip Hop",
+    "listening": [],
+    "facts": [],
+    "samples": [],
+    "sampleStatus": "",
+    "sounds": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "noteReviewedAt": "2026-10-26",
+    "context": "",
+    "art": {
+      "style": "tag",
+      "word": "MONTEGO SLAY",
+      "tag": "PEOPLE UNDER THE STAIRS",
+      "seed": 20261026633,
+      "palette": [
+        "#151512",
+        "#F4F0DF",
+        "#A3AA6A",
+        "#B79D75"
+      ],
+      "paletteSource": "Actually viewed official O.S.T. Bandcamp cover on 2026-10-26: black, ivory, muted olive and sand. Editorial approximate palette; no cover photograph or lettering copied.",
+      "paletteSourceUrl": "https://peopleunderthestairs.bandcamp.com/album/o-s-t",
+      "paletteNote": "Black-filled interlocking handwritten letters with white counters and small olive/sand paint accents; visual interpretation rather than exact color sampling."
+    },
+    "addedOrder": 633,
+    "datePublished": "2026-10-26",
+    "yearStatus": "verified",
+    "labelSources": [
+      0,
+      2
+    ],
+    "labelBasis": "公式O.S.T.カタログと選択配信の原盤表記Om Records / Clover Beatsに基づく。配信提供者Virgin Music Groupとは区別。",
+    "versionBasis": "O.S.T.収録曲Montego Slay。公式カタログと通常YouTubeプレイヤーの表示尺はともに4:12。選択Topicの説明はVirgin Music Group提供、℗2003 Om Records / Clover Beats、Released 2003-06-02。原盤2002年と分離し、再発版や同一マスターと断定しない。シングル別尺、edit、instrumentalとは区別。"
   }
 ]

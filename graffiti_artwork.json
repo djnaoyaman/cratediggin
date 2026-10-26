@@ -13705,6 +13705,46 @@
         "sourceImage": "assets/graffiti/originals/jurassic-5-swing-set-mass-anchor-v1-original.png",
         "sourceSha256": "5cdc5b36dd7dace5119c15f5e29cbfbe64a2c8ed2cb7386e31bf5ef7c2600355"
       }
+    },
+    {
+      "id": "people-under-the-stairs-montego-slay",
+      "title": "Montego Slay",
+      "artist": "People Under the Stairs",
+      "album": "O.S.T.",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#151512",
+        "#F4F0DF",
+        "#A3AA6A",
+        "#B79D75"
+      ],
+      "paletteSource": "Actually viewed official O.S.T. Bandcamp cover on 2026-10-26: black, ivory, muted olive and sand. Editorial approximate palette; no cover photograph or lettering copied.",
+      "paletteSourceURL": "https://peopleunderthestairs.bandcamp.com/album/o-s-t",
+      "paletteNote": "Black-filled interlocking handwritten letters with white counters and small olive/sand paint accents; visual interpretation rather than exact color sampling.",
+      "concept": "MONTEGOとSLAYを太い手描き文字で二段に噛み合わせ、PEOPLE UNDER THE STAIRSを右下の手描きタグとして添える。字形、白いカウンター、飛沫の範囲だけで構成する。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "曲名と実見したジャケット配色を入口とする独自の編集図案。情景、音の視覚化、作者の意図、実再生確認を主張しない。",
+      "image": "assets/graffiti/people-under-the-stairs-montego-slay-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/people-under-the-stairs-montego-slay-mass-anchor-v1-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          127,
+          72,
+          1682,
+          949
+        ],
+        "outputSha256": "00105f3b8cd786ad6c31f3a35a2d2955838c0909ff5ddd278db43c98fa9a4ad9",
+        "sourceImage": "assets/graffiti/originals/people-under-the-stairs-montego-slay-mass-anchor-v1-original.png",
+        "sourceSha256": "c57f1d8c07dc0dfa2f4f4461b47f8b4b934ace5dac46b8ece88b81f7cf94ae29"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

@@ -1,0 +1,75 @@
+{
+  "checkedAt": "2026-10-26",
+  "baseCommit": "a70ade12b82816da6b23e4018a62ed2b46f82fe8",
+  "catalogCount": 639,
+  "id": "people-under-the-stairs-montego-slay",
+  "title": "Montego Slay",
+  "artist": "People Under the Stairs",
+  "year": 2002,
+  "region": "Los Angeles",
+  "dedup": "No Montego Slay title or ID in the fresh 639-entry catalog.",
+  "selectedEdition": "O.S.T.収録曲Montego Slay。公式カタログと通常YouTubeプレイヤーの表示尺はともに4:12。選択Topicの説明はVirgin Music Group提供、℗2003 Om Records / Clover Beats、Released 2003-06-02。原盤2002年と分離し、再発版や同一マスターと断定しない。シングル別尺、edit、instrumentalとは区別。",
+  "sources": [
+    {
+      "label": "People Under the Stairs / Om — O.S.T. 公式収録資料",
+      "url": "https://peopleunderthestairs.bandcamp.com/album/o-s-t",
+      "kind": "公式作品・活動地域情報"
+    },
+    {
+      "label": "T-Bird & R.D. — Lyrics Rhymes & VIBES September 2026",
+      "url": "https://serato.com/playlists/djtbird/lyrics-rhymes-vibes-september-2026",
+      "kind": "DJ本人の公開選曲記録"
+    },
+    {
+      "label": "YouTube — Montego Slay 公式Topic配信",
+      "url": "https://www.youtube.com/watch?v=e9_xZ4jeyh0",
+      "kind": "公式配信metadata"
+    },
+    {
+      "label": "Virgin Music — O.S.T. 公式商品情報",
+      "url": "https://shop.virginmusic.com/vinyl/332409/people-under-the-stairs-ost",
+      "kind": "公式作品情報"
+    }
+  ],
+  "djEvidence": {
+    "url": "https://serato.com/playlists/djtbird/lyrics-rhymes-vibes-september-2026",
+    "dj": "T-Bird & R.D.",
+    "event": "Lyrics Rhymes & VIBES September 2026",
+    "date": "2026-09-23",
+    "position": "01:21:58",
+    "preceding": "01:18:48 Dinner Party, Terrace Martin, 9th Wonder & Kamasi Washington — For Granted feat. Arin Ray",
+    "following": "01:24:23 Busta Rhymes — Woo Hah (Jay Dee Remix)",
+    "edition": "No remix/edit suffix in source; played file/master not established",
+    "limits": "One first-party selection record, not evidence of frequent use or universal DJ popularity. Selected distribution master is not identified by the log."
+  },
+  "dateDiscrepancy": "Bandcamp June 2, 2002 vs Virgin Music June 4, 2002; use year 2002 only. Selected distribution release field June 2, 2003 is separate.",
+  "excludedVersions": [
+    "Acid Raindrops single version listed 3:58",
+    "SINcere Edit",
+    "Thes One 2017 instrumental listed 1:33"
+  ],
+  "producer": "Unknown primary single-track producer credit; composer fields are not production evidence.",
+  "art": {
+    "reference": "libfile_75fb8413c38c819186eda919f76fb0fc",
+    "originalLibrary": "libfile_57c941215ae081919f4f6528a60aefce",
+    "paletteSource": "https://peopleunderthestairs.bandcamp.com/album/o-s-t",
+    "paletteCover": "https://f4.bcbits.com/img/a2506824524_5.jpg",
+    "pixelReview": "Original, approved reference, official cover and normalized image viewed. Light/dark 580x460 and 320x240 contain views independently reviewed. Exact title and artist; no site signature or scenery.",
+    "normalization": "Existing artwork_display.py alpha8 / 7% canvas-only normalization; visible 1555x877 RGBA pixels exactly preserved; no regeneration or rescaling.",
+    "displaySizing": {
+      "version": 1,
+      "alphaThreshold": 8,
+      "paddingFraction": 0.07,
+      "visibleBox": [
+        127,
+        72,
+        1682,
+        949
+      ],
+      "outputSha256": "00105f3b8cd786ad6c31f3a35a2d2955838c0909ff5ddd278db43c98fa9a4ad9",
+      "sourceImage": "assets/graffiti/originals/people-under-the-stairs-montego-slay-mass-anchor-v1-original.png",
+      "sourceSha256": "c57f1d8c07dc0dfa2f4f4461b47f8b4b934ace5dac46b8ece88b81f7cf94ae29"
+    }
+  },
+  "playback": "No audio/playback progression/Japan availability/exact-master certification; normal browser paused 0:00 / 4:12 and official description inspected."
+}
