@@ -13,7 +13,12 @@ for(const width of [320,390,768,1280]){
  assert.equal(await page.locator('iframe[src*="youtube"]').count(),0,'Reading must not autoplay or embed on entry');
  assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'No horizontal overflow');
  await page.screenshot({path:`/tmp/cut-producer-feature-${width}.png`,fullPage:true});
- assert.equal(await page.locator('[data-feature-scope=related]').isDisabled(),false);await page.locator('[data-feature-scope=related]').click();assert(await page.locator('#results a[href*="jurassic-5-the-game"]').count()>0);await page.locator('[data-feature-scope=own]').click();assert(await page.locator('#results a[href*="cut-chemist-the-garden"]').count()>0);await page.locator('[data-feature-scope=all]').click();
+ assert.equal(await page.locator('[data-feature-scope=related]').isDisabled(),false);await page.locator('[data-feature-scope=related]').click();
+ const relatedIds=['jurassic-5-the-game','jurassic-5-lesson-4-the-radio','jurassic-5-swing-set','dj-shadow-the-number-song-cut-chemist-remix'];
+ for(const id of relatedIds)assert(await page.locator('#results a[href*="'+id+'"]').count()>0,'Related work missing: '+id);
+ await page.locator('[data-feature-scope=own]').click();assert(await page.locator('#results a[href*="cut-chemist-the-garden"]').count()>0);
+ for(const id of relatedIds)assert.equal(await page.locator('#results a[href*="'+id+'"]').count(),0,'Related artist leaked into own scope: '+id);
+ await page.locator('[data-feature-scope=all]').click();
  await page.locator('#feature-route-play').click();await page.waitForURL(/lesson-4-the-radio/);assert((await page.locator('#view h1.song-heading').textContent()).includes('Lesson 4: The Radio'));
  await page.goBack();await page.waitForSelector('#feature-route-play');assert.equal(await page.locator('.feature-listening-route li').count(),8);
  await page.goForward();await page.waitForURL(/lesson-4-the-radio/);await page.goBack();await page.waitForSelector('#feature-route-play');

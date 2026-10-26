@@ -19,7 +19,12 @@ assert(own.some(t=>t.artist==='J-88'));
 const built=JSON.parse(fs.readFileSync('.build-support/frontend.json','utf8')).features.find(x=>x.id==='slum-village');
 assert.equal(built.qualification.artistCount,15);assert.deepEqual(built.qualification.artistIds.slice().sort(),own.map(t=>t.id).sort());
 assert(all.every(t=>['Slum Village','J-88'].includes(t.artist)||(t.artists||[]).includes('Slum Village')));
-for(const prior of features.filter(x=>x.id!=='slum-village'))for(const t of songs)assert.equal(ctx.featureScopeIdentity(prior,t),ctx.featureIdentity(prior,t));
+// Features without an explicit own-name scope keep the original identity contract.
+// Explicit scopes distinguish primary artist names from guest/production associations.
+for(const prior of features.filter(x=>x.id!=='slum-village'))for(const t of songs){
+ const expected=prior.scopeOwnNames?prior.scopeOwnNames.includes(t.artist.split(' feat. ')[0]):ctx.featureIdentity(prior,t);
+ assert.equal(ctx.featureScopeIdentity(prior,t),expected,prior.id+' / '+t.id);
+}
 assert(source.includes("scope==='own'?featureScopeIdentity(f,t):!featureScopeIdentity(f,t)"));
 assert(source.includes('initialScope=false;scopePersonQueue(filtered);'));
 const html=fs.readFileSync('dist/artists/slum-village.html','utf8');
@@ -31,4 +36,4 @@ assert(html.includes('https://djnaoyaman.github.io/cratediggin/artists/slum-vill
 const meta=JSON.parse(fs.readFileSync('dist/metadata.js','utf8').replace(/^window.CRATE_PAGES=/,'').replace(/;\s*$/,''));
 assert.equal(meta['#/feature/slum-village'].path,'/cratediggin/artists/slum-village.html');
 assert(meta['#/feature/slum-village'].image.includes('/feature-og/slum-village.jpg'));
-console.log('Slum Village feature: 18 unique related tracks / 15 own+alias / 3 guests; existing scopes unchanged; source, photo and metadata PASS');
+console.log('Slum Village feature: 18 unique related tracks / 15 own+alias / 3 guests; default identity and explicit own-name scopes verified; source, photo and metadata PASS');
