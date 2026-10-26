@@ -13745,6 +13745,48 @@
         "sourceImage": "assets/graffiti/originals/people-under-the-stairs-montego-slay-mass-anchor-v1-original.png",
         "sourceSha256": "c57f1d8c07dc0dfa2f4f4461b47f8b4b934ace5dac46b8ece88b81f7cf94ae29"
       }
+    },
+    {
+      "id": "cut-chemist-work-my-mind",
+      "title": "Work My Mind (feat. Chali 2na & Hymnal)",
+      "artist": "Cut Chemist",
+      "album": "Die Cut",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#171615",
+        "#FFFFFF",
+        "#BD2928",
+        "#93AF29",
+        "#BD985D",
+        "#79419B"
+      ],
+      "paletteSource": "Actually viewed official Die Cut Bandcamp cover on 2026-10-26: predominantly black and white with small red, green, tan and violet record-label accents. Editorial approximation; no cover photograph or artwork copied.",
+      "paletteSourceURL": "https://cutchemist.bandcamp.com/album/die-cut",
+      "paletteNote": "黒白の手描き文字を主体に、赤・緑・砂色・紫の小さな塗料アクセントを添える目視解釈。ジャケットの人物やレコード片は描かない。",
+      "concept": "WORKとMY MINDを二段の手描き文字で組み、CUT CHEMISTとFEAT. CHALI 2NA & HYMNALのタグを添える。白いカウンター、線の交差、飛沫と垂れだけで構成する。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "interpretationLimits": "実見した収録アルバムの配色と曲名から作った独自の編集図案。情景、物体化、作者意図、音声の視覚化を主張しない。",
+      "image": "assets/graffiti/cut-chemist-work-my-mind-mass-anchor-v1-sized.webp",
+      "originalImage": "assets/graffiti/originals/cut-chemist-work-my-mind-mass-anchor-v1-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          131,
+          69,
+          1729,
+          909
+        ],
+        "outputSha256": "5338de50eea7c87234dd777db0409e46f963984e9d63c6d4e86bc795bc8f513b",
+        "sourceImage": "assets/graffiti/originals/cut-chemist-work-my-mind-mass-anchor-v1-original.png",
+        "sourceSha256": "beabd6d27d41a0cbc595829eb507567c4ba9e4c98f88beed674ca56ae9412b99"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
