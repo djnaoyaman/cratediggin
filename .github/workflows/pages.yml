@@ -101,6 +101,8 @@ jobs:
           node scripts/verify_jurassic_feature_browser.cjs
           python scripts/verify_puts_feature.py --generated
           node scripts/verify_puts_feature_browser.cjs
+          python scripts/verify_cut_producer_feature.py --generated
+          node scripts/verify_cut_producer_feature_browser.cjs
           node scripts/verify_slum_village_feature.cjs
           CRATE_PREVIEW_URL=http://127.0.0.1:8765/cratediggin node scripts/verify_slum_village_feature_browser.cjs
       - name: Save validated site outputs
@@ -129,6 +131,7 @@ jobs:
             /tmp/hybrid-overlay-report.json
             /tmp/jurassic-feature-*.png
             /tmp/puts-feature-*.png
+            /tmp/cut-producer-feature-*.png
           if-no-files-found: ignore
       - uses: actions/upload-pages-artifact@v4
         if: github.event_name != 'pull_request' && steps.plan.outputs.publish == 'true'
