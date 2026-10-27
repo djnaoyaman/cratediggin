@@ -555,3 +555,8 @@ body[data-art-owner] .art-crate-status{width:1px;height:1px;padding:0;margin:-1p
 }
 body[data-art-mode=video] .art-provider-help{width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;left:0;right:auto;top:0;bottom:auto}
 @media(min-width:700px) and (min-height:501px){body[data-art-mode=hybrid] .art-info{bottom:calc(120px + var(--art-safe-bottom))}}
+/* At 300px landscape height, the existing 200px video leaves no footer lane.
+   Use the free left column for the timeline instead of covering native controls. */
+@media(min-width:560px) and (max-height:315px) and (orientation:landscape){
+ body[data-art-mode=hybrid] .art-progress,body[data-art-mode=video] .art-progress{left:max(16px,var(--art-safe-left));right:calc(100% - var(--provider-left) + 12px);bottom:calc(84px + var(--art-safe-bottom))}
+}

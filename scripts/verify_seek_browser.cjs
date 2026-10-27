@@ -33,6 +33,7 @@ const disjoint=(a,b)=>a.x+a.width<=b.x+1||b.x+b.width<=a.x+1||a.y+a.height<=b.y+
    assert.equal(await p.evaluate(()=>window.__players[0].seeks?.length||0),before,'Pointer movement only previews');
    await p.mouse.up();assert.equal(await p.evaluate(()=>window.__players[0].seeks.length),before+1);assert.equal(await p.evaluate(()=>window.__players[0].stateValue),2);
    const expected=(r.width*.7-12)/(r.width-24)*120,actual=Number(await range.inputValue());assert(Math.abs(actual-expected)<=2,'Native thumb-center geometry maps to the requested position');
+   if(width<700){await p.touchscreen.tap(r.x+r.width*.25,r.y+r.height/2);assert.equal(await p.evaluate(()=>window.__players[0].stateValue),2,'Touch tap retains pause')}
    await range.focus();await p.keyboard.press('Home');assert.equal(await range.inputValue(),'0');await p.keyboard.press('End');assert.equal(await range.inputValue(),'120');await p.keyboard.press('ArrowLeft');assert.equal(await range.inputValue(),'119');
    await range.evaluate(e=>{e.dispatchEvent(new PointerEvent('pointerdown',{pointerId:9,bubbles:true}));e.value='40';e.dispatchEvent(new Event('input',{bubbles:true}));e.dispatchEvent(new PointerEvent('pointercancel',{pointerId:9,bubbles:true}));e.dispatchEvent(new Event('change',{bubbles:true}))});assert.equal(await p.evaluate(()=>window.__players[0].t),119,'Cancelled preview does not seek');
    await p.screenshot({path:`/tmp/seek-${width}x${height}-${mode}.png`});
