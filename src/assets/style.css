@@ -525,3 +525,38 @@ body[data-art-mode=hybrid] .art-info,body[data-art-mode=hybrid] .art-provider-he
 .feature-listening-route button{padding:14px 20px;border:1px solid var(--blue);background:var(--blue);color:#fff;font:700 14px var(--sans);cursor:pointer;min-height:44px}
 .feature-listening-route a:focus-visible,.feature-listening-route button:focus-visible{outline:3px solid var(--blue);outline-offset:4px}
 @media(max-width:640px){.person-tag-header{padding:14px;margin:20px 0 30px}.person-tag-header img{max-height:250px}.feature-listening-route{padding:22px 16px}.feature-listening-route ol{grid-template-columns:1fr}.feature-listening-route button{width:100%}}
+
+/* A shared, thumb-friendly timeline. Native range semantics remain intact. */
+.progress-row{font-size:11px;font-variant-numeric:tabular-nums;gap:10px}
+.progress-row>span{flex:0 0 auto;min-width:3ch}
+.progress-row input.playback-seek{appearance:none;-webkit-appearance:none;display:block;flex:1;min-width:0;width:100%;height:44px;margin:0;padding:0;border:0;background:transparent;cursor:pointer;touch-action:pan-y;direction:ltr}
+.playback-seek::-webkit-slider-runnable-track{height:6px;border-radius:3px;background:linear-gradient(to right,#80caff var(--seek-fill,0%),#778394 var(--seek-fill,0%))}
+.playback-seek::-webkit-slider-thumb{appearance:none;-webkit-appearance:none;width:24px;height:24px;margin-top:-9px;border-radius:50%;background:#fff;border:2px solid #4169e1;box-shadow:0 1px 4px #0005}
+.playback-seek::-moz-range-track{height:6px;border-radius:3px;background:#778394}
+.playback-seek::-moz-range-progress{height:6px;border-radius:3px;background:#80caff}
+.playback-seek::-moz-range-thumb{width:20px;height:20px;border-radius:50%;background:#fff;border:2px solid #4169e1;box-shadow:0 1px 4px #0005}
+.progress-row input.playback-seek:disabled{opacity:.45;cursor:not-allowed}
+.progress-row input.playback-seek:focus-visible{outline:3px solid #75caff;outline-offset:2px;border-radius:4px}
+body[data-art-owner] .art-progress{position:absolute;left:max(16px,var(--art-safe-left));right:max(16px,var(--art-safe-right));bottom:calc(60px + var(--art-safe-bottom));height:44px;margin:0;color:inherit;z-index:4}
+body[data-art-owner] .art-controls{bottom:calc(12px + var(--art-safe-bottom))}
+body[data-art-owner=full] .art-info{bottom:calc(140px + var(--art-safe-bottom))}
+body[data-art-owner] .art-provider-help{bottom:calc(112px + var(--art-safe-bottom))}
+body[data-art-mode=hybrid] .art-progress{right:calc(100% - var(--provider-left) + 16px)}
+body[data-art-mode=hybrid] .art-provider-help{top:calc(var(--provider-top) - 30px);bottom:auto;left:var(--provider-left);right:max(16px,var(--art-safe-right))}
+/* The crate button's pressed state supplies visual feedback; retain the live announcement. */
+body[data-art-owner] .art-crate-status{width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;left:0;right:auto;bottom:0}
+@media(max-width:699px) and (min-height:501px){body[data-art-mode=hybrid] .art-progress{right:max(16px,var(--art-safe-right))}}
+@media(min-width:560px) and (max-height:500px) and (orientation:landscape){
+ body[data-art-owner] .art-progress{left:calc(max(16px,var(--art-safe-left)) + 218px);right:max(16px,var(--art-safe-right));bottom:max(8px,var(--art-safe-bottom))}
+ body[data-art-owner] .art-controls{bottom:max(8px,var(--art-safe-bottom))}
+ body[data-art-owner] .art-provider-help{left:max(16px,var(--art-safe-left));right:calc(100% - var(--provider-left) + 12px);top:100px;bottom:auto}
+ body[data-art-owner=full] .art-provider-help{right:max(16px,var(--art-safe-right));top:100px}
+ body[data-art-owner=full] .art-info{bottom:auto}
+}
+body[data-art-mode=video] .art-provider-help{width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;left:0;right:auto;top:0;bottom:auto}
+@media(min-width:700px) and (min-height:501px){body[data-art-mode=hybrid] .art-info{bottom:calc(120px + var(--art-safe-bottom))}}
+/* At 300px landscape height, the existing 200px video leaves no footer lane.
+   Use the free left column for the timeline instead of covering native controls. */
+@media(min-width:560px) and (max-height:315px) and (orientation:landscape){
+ body[data-art-mode=hybrid] .art-progress,body[data-art-mode=video] .art-progress{left:max(16px,var(--art-safe-left));right:calc(100% - var(--provider-left) + 12px);bottom:calc(84px + var(--art-safe-bottom))}
+}
