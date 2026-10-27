@@ -68,6 +68,6 @@
   input.addEventListener('pointerup',()=>{const g=seekGesture;setTimeout(()=>{if(seekGesture===g)cancelSeek()},0)});
   input.addEventListener('pointercancel',cancelSeek);
   input.addEventListener('blur',cancelSeek);
-  input.addEventListener('keydown',e=>{if(e.key==='Escape'){e.preventDefault();e.stopPropagation();cancelSeek()}});
+  input.addEventListener('keydown',e=>{if(e.key==='Escape'&&seekGesture){e.preventDefault();e.stopPropagation();cancelSeek()}});
  }
  resetSeek();

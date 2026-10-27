@@ -39,7 +39,7 @@ const disjoint=(a,b)=>a.x+a.width<=b.x+1||b.x+b.width<=a.x+1||a.y+a.height<=b.y+
    await p.screenshot({path:`/tmp/seek-${width}x${height}-${mode}.png`});
   }
   assert.deepEqual(await p.evaluate(()=>window.__players.map(x=>[x.plays,x.loads])),counts,'Seek and presentation add no play/load commands');
-  await p.locator('#art-close').click();assert.equal(await p.evaluate(()=>document.activeElement.id),'article-art');
+  await p.locator('#art-seek').focus();await p.keyboard.press('Escape');assert(await p.locator('#art-view').isHidden(),'Escape after a completed seek closes ART');assert.equal(await p.evaluate(()=>document.activeElement.id),'article-art');
   await p.evaluate(()=>{window.__players[0].duration=0});await p.waitForFunction(()=>document.querySelector('#seek').disabled);assert.equal(await p.locator('#duration').textContent(),'—');
   await p.evaluate(()=>{window.__players[0].duration=120});await p.waitForFunction(()=>!document.querySelector('#seek').disabled);
   assert.deepEqual(errors,[]);await c.close();
