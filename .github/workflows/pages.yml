@@ -83,6 +83,8 @@ jobs:
           key: ${{ runner.os }}-playwright-1.62.1
       - name: Verify profile text, links, display and navigation
         if: steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none'
+        env:
+          PROFILE_TEST_URL: http://127.0.0.1:8765/cratediggin
         run: |
           npm install --no-save playwright@1.62.1
           npx playwright install --with-deps chromium
@@ -95,6 +97,7 @@ jobs:
           node scripts/verify_hybrid_overlay_browser.cjs
           node scripts/verify_seek_browser.cjs
           node scripts/verify_unknown_release_metadata_browser.cjs
+          node scripts/verify_external_audio_browser.cjs
           node scripts/verify_lesson_original_attribution.cjs
           node scripts/verify_requested_notice_removal_browser.cjs
           node scripts/verify_year_region_display_browser.cjs
@@ -132,6 +135,7 @@ jobs:
             /tmp/hybrid-overlay-*.png
             /tmp/hybrid-overlay-report.json
             /tmp/seek-*.png
+            /tmp/external-audio-*.png
             /tmp/jurassic-feature-*.png
             /tmp/puts-feature-*.png
             /tmp/cut-producer-feature-*.png

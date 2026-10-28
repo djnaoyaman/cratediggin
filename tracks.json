@@ -82864,5 +82864,161 @@
       "label": "Mass Appeal",
       "distributor": "Symphonic Distribution"
     }
+  },
+  {
+    "id": "mos-def-universal-magnetic",
+    "title": "Universal Magnetic",
+    "artist": "Mos Def",
+    "primaryArtist": "Mos Def",
+    "primaryArtists": [
+      "Mos Def"
+    ],
+    "artists": [
+      "Mos Def"
+    ],
+    "workType": "single",
+    "album": "The Universal Magnetic / If You Can Huh You Can Hear",
+    "year": 1997,
+    "yearStatus": "selected-edition",
+    "yearBasis": "1997年Rawkusの12インチ。1997年7月27日付KZSU局内チャートに掲載を確認し、原盤販売資料の年・版と照合。再発やライブ版の年は採用しない。",
+    "region": "New York",
+    "scene": "Brooklyn, New York",
+    "regionBasis": "Universal Music Japanの公式略歴に基づくBrooklyn出身。New Yorkの活動文脈と区別して明記。",
+    "producer": "Shawn J. Period",
+    "producers": [
+      "Shawn J. Period"
+    ],
+    "producerBasis": "原盤販売資料と、DJ Spinnaの直接発言を紹介するFact記事でShawn J. Period制作を照合。",
+    "producerSources": [
+      1,
+      3
+    ],
+    "label": "Rawkus",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "KZSU Stanford — Chart for week ending July 27, 1997",
+        "url": "https://kzsu.stanford.edu/archives/charts/1997/97-07-27.html/",
+        "kind": "当時の放送局自身のチャート記録・一次資料"
+      },
+      {
+        "label": "Vinyl Cycle — The Universal Magnetic / Rawkus 12-inch",
+        "url": "https://vinylcycle.com/?pid=170596339",
+        "kind": "原盤販売資料・版／制作／ジャケットの補助照合"
+      },
+      {
+        "label": "Universal Music Japan — Mos Def biography",
+        "url": "https://www.universal-music.co.jp/mos-def/biography/",
+        "kind": "公式レーベルの人物紹介・地域の根拠"
+      },
+      {
+        "label": "Fact — Rawkus oral history / DJ Spinnaの証言紹介",
+        "url": "https://www.factmag.com/2014/04/19/i-actually-met-james-murdoch-el-p-talib-kweli-dj-premier-and-label-founders-remember-hip-hop-indie-powerhouse-rawkus/",
+        "kind": "関係者の直接発言を引用した記事"
+      },
+      {
+        "label": "Spotify — Universal Magnetic (best of decade I version)",
+        "url": "https://open.spotify.com/track/4UMsiE4vgpItrO3oMk19t7",
+        "kind": "正規配信・2005年コンピレーション収録版への外部リンク"
+      }
+    ],
+    "essayTitle": "大きな名前になる前の、12インチ。",
+    "deck": "1997年、Rawkusの12インチとして届いたMos Def。後年の代表作から少し手前へ針を戻す。",
+    "essay": [
+      "1997年7月27日付のKZSUのチャートを開くと、ヒップホップ部門の3位に「Universal Magnetic」がある。レーベルはRawkus、形態は12インチ。大きな歴史を語る前に、大学のラジオ局が実際にかけていた一枚の記録が残っている。レコードの履歴書には、こういう小さな印鑑がよく似合う。",
+      "原盤のA面にはこの曲のオリジナルとインスト、B面には「If You Can Huh You Can Hear」のオリジナルとインストが並ぶ。Shawn J. Periodの制作という手掛かりを持って、まず声、次にその声を支える足場へ耳を向けたい。曲を覚えたあとでも、インスト側にまだ部屋がある。",
+      "高校を同じくしたDJ Spinnaは、Factが紹介した証言の中で、Urban Thermo DynamicsのあとにMosが戻ってきた一枚としてこの曲を語り、Shawn J. Periodの仕事を高く評価している。未開封盤を三枚ほど持っている、という話まで出てくる。好きな曲を複数買いする人の言葉は、少し信用してしまう。Black Starや『Black on Both Sides』へ進む前に、ここで針を止める理由がある。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1997年の流通記録",
+        "text": "KZSUの1997年7月27日付ヒップホップ部門で3位。局内チャートであり、全米チャート順位ではありません。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "12インチの構成",
+        "text": "Rawkus盤のA1はThe Universal Magnetic (Original Version)、A2はInstrumental。B面にはIf You Can Huh You Can Hearの2バージョン。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "外部音源の版",
+        "text": "Spotifyの外部リンクはBest of Decade I収録版です。1997年の12インチと同一マスターであることや、日本での実際の再生可否は未検証です。",
+        "sources": [
+          4
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "原曲・使用箇所を一次資料で確認できたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "声のあるオリジナルと、12インチに収められたインストの役割を分けて聴く入口。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [
+      "mos-def-ms-fat-booty"
+    ],
+    "context": "当時の局内チャートと原盤の構成を入口にした編集。実際の再生やマスター同一性の検証を意味しません。",
+    "art": {
+      "word": "UNIVERSAL MAGNETIC",
+      "tag": "MOS DEF",
+      "style": "tag",
+      "seed": 2026102901,
+      "palette": [
+        "#272932",
+        "#E2D6B4",
+        "#C87875",
+        "#FFFFFF"
+      ],
+      "paletteSource": "1997 Rawkus original 12-inch picture sleeve, viewed 2026-10-29 JST via Vinyl Cycle.",
+      "paletteSourceUrl": "https://vinylcycle.com/?pid=170596339",
+      "paletteNote": "実見したジャケットの炭黒、生成り、くすんだ珊瑚色を目視で解釈。写真・原盤の署名は転用せず、平面の手描き文字として新規制作。"
+    },
+    "addedOrder": 640,
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "yearQualifier": "確認できる12インチ盤",
+    "yearDisplayNote": "1997年Rawkus盤の流通を当時の放送局記録で確認。1996年とする後年の人物紹介もあり、ここでは確認できる盤の年を表示。",
+    "youtube": {
+      "id": null,
+      "url": "https://www.youtube.com/results?search_query=Mos+Def+Universal+Magnetic+original",
+      "channel": "未設定",
+      "type": "原盤に対応する動画は確認中",
+      "official": false,
+      "verified": "2026-10-29",
+      "verification": "公式配信・一般投稿を探索。確認できた公式ライブ版は対象外。原盤に対応する動画は未設定。実再生未検証。"
+    },
+    "externalAudio": {
+      "url": "https://open.spotify.com/track/4UMsiE4vgpItrO3oMk19t7",
+      "label": "Spotifyで2005年コンピレーション収録版を聴く",
+      "official": true,
+      "versionBasis": "Universal Magnetic (best of decade I version)。1997年12インチと同一マスターとは断定しない。"
+    },
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "members": "Mos Def",
+    "editorialStatus": "1997年の原盤記録を紹介。サイト内音源は確認中、外部リンクは2005年コンピレーション版。"
   }
 ]

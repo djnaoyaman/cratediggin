@@ -13991,6 +13991,45 @@
         "sourceImage": "assets/graffiti/originals/jurassic-5-jayou-remix-mass-tag-v1-original.png",
         "sourceSha256": "4fc378996e379ba0b6cc9cd615d515296fd2a05c08d34308a95aaab7a3c215f7"
       }
+    },
+    {
+      "id": "mos-def-universal-magnetic",
+      "title": "Universal Magnetic",
+      "artist": "Mos Def",
+      "album": "The Universal Magnetic / If You Can Huh You Can Hear",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#272932",
+        "#E2D6B4",
+        "#C87875",
+        "#FFFFFF"
+      ],
+      "paletteSource": "1997 Rawkus original 12-inch picture sleeve, viewed 2026-10-29 JST via Vinyl Cycle.",
+      "paletteSourceURL": "https://vinylcycle.com/?pid=170596339",
+      "paletteNote": "実見したジャケットの炭黒、生成り、くすんだ珊瑚色を目視で解釈。写真・原盤の署名は転用せず、平面の手描き文字として新規制作。",
+      "image": "assets/graffiti/mos-def-universal-magnetic-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/mos-def-universal-magnetic-tag-original.png",
+      "concept": "UNIVERSAL / MAGNETICを連なる平面ブラシ文字にし、MOS DEFを添える。写真や原盤署名は転用しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          124,
+          77,
+          1639,
+          1018
+        ],
+        "outputSha256": "d968aeb6b41f2715ef57a9e4c3bed65d840c165624358e01d6af1676ee0195de",
+        "sourceImage": "assets/graffiti/originals/mos-def-universal-magnetic-tag-original.png",
+        "sourceSha256": "4a55b11fdc33c95c38dea3c4eb63ab7c25bab384e41b41a519e251c24358a4ce"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
