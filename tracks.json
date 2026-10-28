@@ -82924,6 +82924,11 @@
         "label": "Spotify — Universal Magnetic (best of decade I version)",
         "url": "https://open.spotify.com/track/4UMsiE4vgpItrO3oMk19t7",
         "kind": "正規配信・2005年コンピレーション収録版への外部リンク"
+      },
+      {
+        "label": "YouTube — Mos Def / Universal Magnetic（一般投稿）",
+        "url": "https://www.youtube.com/watch?v=TsoCr5KoNoM",
+        "kind": "利用者指定の参考音源。曲名・演者・投稿者を照合。公式性と原盤マスター同一性は未認定"
       }
     ],
     "essayTitle": "大きな名前になる前の、12インチ。",
@@ -83003,23 +83008,22 @@
     "yearQualifier": "確認できる12インチ盤",
     "yearDisplayNote": "1997年Rawkus盤の流通を当時の放送局記録で確認。1996年とする後年の人物紹介もあり、ここでは確認できる盤の年を表示。",
     "youtube": {
-      "id": null,
-      "url": "https://www.youtube.com/results?search_query=Mos+Def+Universal+Magnetic+original",
-      "channel": "未設定",
-      "type": "原盤に対応する動画は確認中",
+      "id": "TsoCr5KoNoM",
+      "url": "https://www.youtube.com/watch?v=TsoCr5KoNoM",
+      "embedUrl": "https://www.youtube.com/embed/TsoCr5KoNoM",
+      "channel": "@kmir224",
+      "title": "Mos Def - Universal Magnetic",
+      "type": "一般ユーザー投稿・利用者指定音源",
       "official": false,
       "verified": "2026-10-29",
-      "verification": "公式配信・一般投稿を探索。確認できた公式ライブ版は対象外。原盤に対応する動画は未設定。実再生未検証。"
+      "metadataVerified": true,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "利用者指定の動画ページでMos Def / Universal Magneticの曲名・演者と投稿者@kmir224を照合。公式投稿とは扱わず、1997年原盤とのマスター同一性、実音声、埋め込み、日本からの再生は未検証。"
     },
-    "externalAudio": {
-      "url": "https://open.spotify.com/track/4UMsiE4vgpItrO3oMk19t7",
-      "label": "Spotifyで2005年コンピレーション収録版を聴く",
-      "official": true,
-      "versionBasis": "Universal Magnetic (best of decade I version)。1997年12インチと同一マスターとは断定しない。"
-    },
-    "audioVerificationStatus": "サイト内再生は確認中",
-    "members": "Mos Def",
-    "editorialStatus": "1997年の原盤記録を紹介。サイト内音源は確認中、外部リンクは2005年コンピレーション版。"
+    "members": "Mos Def"
   },
   {
     "id": "siah-yeshua-dapoed-the-visualz",
@@ -83087,6 +83091,11 @@
         "label": "Spotify — The Visualz Anthology / Traffic 2008",
         "url": "https://open.spotify.com/album/4TWTPAqPKkGNJjgsoGGFgV",
         "kind": "正規配信の曲目・収録版・権利表記"
+      },
+      {
+        "label": "YouTube — Siah & Yeshua dapoED / The Visualz（一般投稿）",
+        "url": "https://www.youtube.com/watch?v=iMAeEkIoBK0",
+        "kind": "利用者指定の参考音源。投稿者のAnthology表記を照合、公式性と原盤マスター同一性は未認定"
       }
     ],
     "essayTitle": "白いラベルの、二つのアスタリスク。",
@@ -83126,11 +83135,12 @@
         ]
       },
       {
-        "title": "外部リンクは2008年版",
-        "text": "SpotifyはThe Visualz Anthologyの収録版で、表示時間は3:52。原盤ラベルの3:44とは区別し、同一マスターや実再生の確認を意味しません。",
+        "title": "2008年アンソロジーとの照合",
+        "text": "Spotifyのアンソロジー収録版は3:52。採用した一般投稿もAnthology表記と3:52を確認しています。1996年原盤の3:44とは区別し、同一マスターや実再生確認を意味しません。",
         "sources": [
           4,
-          5
+          5,
+          6
         ]
       }
     ],
@@ -83145,7 +83155,7 @@
     ],
     "editorialCrates": [],
     "connections": [],
-    "context": "原盤の印刷クレジットと本人証言を入口にした編集。音源の実再生や1996年盤とのマスター同一性は未検証。",
+    "context": "原盤の印刷クレジットと本人証言を入口にした編集。サイト内音源は投稿者がThe Visualz Anthologyと表記する一般投稿。1996年盤とのマスター同一性は未確認。",
     "art": {
       "word": "THE VISUALZ",
       "tag": "SIAH & YESHUA DAPOED",
@@ -83162,22 +83172,22 @@
       "paletteNote": "実見した原盤の白い袋、灰色がかったラベル、黒い印刷を目視で近似。原盤ロゴや印刷文字は転用せず、平面の手描き文字として制作。"
     },
     "youtube": {
-      "id": null,
-      "url": "https://www.youtube.com/results?search_query=Siah+Yeshua+The+Visualz",
-      "channel": "未設定",
-      "type": "原盤に対応する動画は確認中",
+      "id": "iMAeEkIoBK0",
+      "url": "https://www.youtube.com/watch?v=iMAeEkIoBK0",
+      "embedUrl": "https://www.youtube.com/embed/iMAeEkIoBK0",
+      "channel": "HarmL0v3r",
+      "title": "siah & yeshua dapoed - The Visualz - The Visualz Anthology",
+      "type": "一般ユーザー投稿・アンソロジー収録版（投稿者表記）",
       "official": false,
       "verified": "2026-10-29",
-      "verification": "正式な1996年盤と2008年再発の同定資料を照合して探索したが、適切な動画IDは未確定。実再生未検証。"
+      "metadataVerified": true,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "利用者指定の動画ページで曲名、名義、投稿者HarmL0v3r、The Visualz Anthology表記、3:52の表示を照合。公式投稿や1996年原盤と同一マスターとは断定しない。実音声・埋め込み・日本での再生は未検証。",
+      "durationSeconds": 232
     },
-    "externalAudio": {
-      "url": "https://open.spotify.com/track/18YIjhu5pIwRrG14lRgIhC",
-      "label": "Spotifyで2008年アンソロジー収録版を聴く",
-      "official": true,
-      "versionBasis": "The Visualz Anthology（Traffic Entertainment Group、2008）の1曲目。1996年FE005と同一マスターとは断定しない。"
-    },
-    "audioVerificationStatus": "サイト内再生は確認中",
-    "editorialStatus": "1996年原盤の記録を紹介。サイト内音源は確認中、外部リンクは2008年アンソロジー版。",
     "datePublished": "2026-10-29",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 641
