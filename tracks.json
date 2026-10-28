@@ -83191,5 +83191,180 @@
     "datePublished": "2026-10-29",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 641
+  },
+  {
+    "id": "royal-flush-world-wide",
+    "title": "World Wide",
+    "artist": "Royal Flush",
+    "primaryArtist": "Royal Flush",
+    "primaryArtists": [
+      "Royal Flush"
+    ],
+    "artists": [
+      "Royal Flush"
+    ],
+    "workType": "single",
+    "album": "World Wide (12-inch single)",
+    "year": 1996,
+    "yearStatus": "verified",
+    "yearBasis": "Blunt Recordings TVT6612-0の原盤ラベルに©℗1996を目視。1997年のアルバムGhetto Millionaireとは初出を分ける。",
+    "region": "New York",
+    "scene": "Flushing, Queens",
+    "regionBasis": "2005年の本人インタビューはFlushingの自宅スタジオで実施され、本人も自分がFlushing出身であると述べる。",
+    "producer": "L.E.S.",
+    "producers": [
+      "L.E.S."
+    ],
+    "producerSources": [
+      1,
+      2
+    ],
+    "producerBasis": "原盤裏面とA面ラベルのProduced by L.E.S. for Total Package Productionsを目視。",
+    "label": "Blunt Recordings / TVT",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Between Music — Royal Flush / Worldwide TVT6612-0",
+        "url": "https://www.betweenmusicstore.jp/product/858",
+        "kind": "US原盤の写真・版・曲目を照合する販売店資料"
+      },
+      {
+        "label": "World Wide 原盤裏ジャケット",
+        "url": "https://www.betweenmusicstore.jp/data/betweenmusic/product/20180413_6c2204.jpg",
+        "kind": "制作・録音クレジットと発売予告表記を目視した一次資料"
+      },
+      {
+        "label": "World Wide 原盤A面ラベル",
+        "url": "https://www.betweenmusicstore.jp/data/betweenmusic/product/20180413_0008ff.jpg",
+        "kind": "©℗1996、作品名、版と制作クレジットを目視した一次資料"
+      },
+      {
+        "label": "AllHipHop — Royal Flush: Queens Wild（2005）",
+        "url": "https://allhiphop.com/features/royal-flush-queens-wild/",
+        "kind": "本人インタビュー。FlushingとMic Geronimoとの活動開始の回想"
+      },
+      {
+        "label": "World Wide 原盤表ジャケット",
+        "url": "https://www.betweenmusicstore.jp/data/betweenmusic/product/20180413_e03079.jpg",
+        "kind": "1996年シングルの写真を実見。新規アートは配色だけを編集上の参考にする"
+      },
+      {
+        "label": "Amazon Music — World Wide EP / 1996 Blunt",
+        "url": "https://music.amazon.com.au/albums/B002U95V26",
+        "kind": "正規配信の作品・版・1996年権利情報。日本での再生可否は未検証"
+      },
+      {
+        "label": "Royal Flush - Topic — Worldwide",
+        "url": "https://www.youtube.com/watch?v=Rs0ZRP4wrY0",
+        "kind": "正規Topicの表示メタデータ。The Orchard Enterprises提供、1997年Ghetto Millionaire収録版。実再生は利用者確認。"
+      }
+    ],
+    "essayTitle": "世界へ出る、その一つ手前。",
+    "deck": "1996年のシングルには、まだ「これから出るアルバム」と書かれている。FlushingのMCが、自分の名前で踏み出す一枚。",
+    "essay": [
+      "Royal Flushは後年のインタビューで、Mic Geronimoのステージに加わったことが契約へのきっかけだったと振り返っている。最初から大きな計画があったというより、そこに立ってみたら次の扉が開いた。その話を頭に置くと、World Wideという大きな題名の手前に、Flushingの一人のMCが見えてくる。",
+      "1996年のシングルの裏には、Ghetto Millionaireを「これから出るLP」として案内する一行がある。制作はL.E.S.、録音とミックスはUnique Recording StudiosのJason Vogel。のちのアルバムの一曲としてまとめる前に、この予告の時間を残しておきたい。まだアルバムが届いていない世界で、先にこの一枚が回っていた。"
+    ],
+    "essaySources": [
+      [
+        3
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1996年の先行シングル",
+        "text": "TVT6612-0の原盤に©℗1996。裏面はGhetto Millionaireを発売予定のLPとして案内しています。1997年のアルバム発売年で上書きしません。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "L.E.S.とJason Vogel",
+        "text": "制作はL.E.S.、録音とミックスはJason Vogel、場所はUnique Recording Studiosという原盤表記。制作と録音の役割を区別します。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "AlbumとRadioの区別",
+        "text": "A面にはAlbumとRadio、B面にはInstrumentalとAcapellaを収録。原盤のA面表記は両版とも3:12です。",
+        "sources": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "外部リンクの収録版",
+        "text": "Amazon Musicの1996年EPにはAlbum、Radio、Instrumental、Acapellaを掲載。Album版の表示は3:14で、原盤の3:12とは別の表記です。海外ページであり、日本からの再生可否は未検証です。",
+        "sources": [
+          2,
+          5
+        ]
+      },
+      {
+        "title": "ここで聴く収録版",
+        "text": "再生に選んだのはRoyal Flush - TopicのGhetto Millionaire収録版。表示は3:11、権利表記は1997 Blunt Recordingsです。1996年の先行シングルとは発売情報を分けています。",
+        "sources": [
+          6
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と使用箇所を一次資料で個別照合できたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "1996年シングルの位置づけと、Album／Radioの版表示を確認して辿る。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "原盤の発売予告と本人の活動開始の回想をつなぐ編集。実再生や別配信マスターとの同一性を主張しない。",
+    "art": {
+      "word": "WORLD WIDE",
+      "tag": "ROYAL FLUSH",
+      "style": "blockbuster",
+      "seed": 2026102905,
+      "palette": [
+        "#242923",
+        "#C59435",
+        "#8F3F2C",
+        "#F2E9C8"
+      ],
+      "paletteSource": "1996 Blunt TVT6612-0 original World Wide picture sleeve, visually inspected 2026-10-29 JST.",
+      "paletteSourceUrl": "https://www.betweenmusicstore.jp/data/betweenmusic/product/20180413_e03079.jpg",
+      "paletteNote": "原盤写真の黒い衣服、琥珀色の背景、赤茶の縁取り、白い文字から目視で近似。写真や原盤ロゴは転用せず、太い幾何的な手描き文字に再構成。"
+    },
+    "youtube": {
+      "id": "Rs0ZRP4wrY0",
+      "url": "https://www.youtube.com/watch?v=Rs0ZRP4wrY0",
+      "embedUrl": "https://www.youtube.com/embed/Rs0ZRP4wrY0",
+      "title": "Worldwide",
+      "channel": "Royal Flush - Topic",
+      "type": "正規Topic配信 / 1997年Ghetto Millionaire収録版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 191,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "検索結果に曲名・Royal Flushの名義・公式Topic・3:11・The Orchard Enterprises提供、1997 Blunt RecordingsのGhetto Millionaire収録版を表示。1996年シングルの初出記録とは分け、同一マスターを断定しない。実再生・日本からの再生は利用者確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 642
   }
 ]
