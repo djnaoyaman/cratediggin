@@ -83020,5 +83020,166 @@
     "audioVerificationStatus": "サイト内再生は確認中",
     "members": "Mos Def",
     "editorialStatus": "1997年の原盤記録を紹介。サイト内音源は確認中、外部リンクは2005年コンピレーション版。"
+  },
+  {
+    "id": "siah-yeshua-dapoed-the-visualz",
+    "title": "The Visualz",
+    "artist": "Siah & Yeshua dapoED",
+    "primaryArtist": "Siah & Yeshua dapoED",
+    "primaryArtists": [
+      "Siah & Yeshua dapoED"
+    ],
+    "artists": [
+      "Siah & Yeshua dapoED"
+    ],
+    "workType": "single",
+    "album": "Siah And Yeshua Dapo ED (The Visualz EP)",
+    "year": 1996,
+    "yearStatus": "verified",
+    "yearBasis": "Siah本人へのインタビューは1995年録音・1996年Fondle Em発表を区別。原盤FE005の1996年権利表記も目視。2008年アンソロジーの年ではありません。",
+    "region": "New York",
+    "scene": "Brooklyn, New York",
+    "regionBasis": "本人インタビューはBrooklynのManhattan BeachとBrighton Beachで活動したデュオと記載。",
+    "producer": "Jon Adler / Siah / Yeshua dapoED（原盤の総括表記）",
+    "producers": [
+      "Jon Adler",
+      "Siah",
+      "Yeshua dapoED"
+    ],
+    "producerSources": [
+      2
+    ],
+    "producerBasis": "FE005原盤はTracks produced by Jon Adler, Siah & Yeshua dapoEDと総括表記。個々の制作工程や寄与率は推定しない。",
+    "label": "Fondle 'Em",
+    "members": "Siah / Yeshua dapoED",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Tablet — Siah本人へのインタビュー「Make Some Noise」",
+        "url": "https://www.tabletmag.com/sections/arts-letters/articles/make-some-noise",
+        "kind": "本人インタビュー・録音年／発表年／活動地域の一次資料"
+      },
+      {
+        "label": "Plexus Records — 1996年FE005原盤・曲目",
+        "url": "https://www.plexusrecords.com/siah-and-yeshua-dapo-ed-a58022-en.html",
+        "kind": "販売中原盤の写真と盤情報。共同データベース由来の項目は補助照合"
+      },
+      {
+        "label": "FE005原盤ラベル写真 — 制作と録音クレジット",
+        "url": "https://www.plexusrecords.com/upload/image/siah-and-yeshua-dapo-ed-p-image-168293-grande.jpg",
+        "kind": "原盤印刷物を写した写真を目視確認・一次資料"
+      },
+      {
+        "label": "Rhymesayers / Kevin Beacham — The Visualz Anthology",
+        "url": "https://rhymesayers.com/blogs/fifth-element/6417088-recommended-listening-siah-and-yeshua-dapoed-the-visualz-anthology-circa-96-98",
+        "kind": "レーベル／販売店による編集記事・2008年アンソロジーの構成説明"
+      },
+      {
+        "label": "Spotify — The Visualz / 2008年アンソロジー版",
+        "url": "https://open.spotify.com/track/18YIjhu5pIwRrG14lRgIhC",
+        "kind": "正規配信への外部リンク・原盤と同一マスターとは断定しない"
+      },
+      {
+        "label": "Spotify — The Visualz Anthology / Traffic 2008",
+        "url": "https://open.spotify.com/album/4TWTPAqPKkGNJjgsoGGFgV",
+        "kind": "正規配信の曲目・収録版・権利表記"
+      }
+    ],
+    "essayTitle": "白いラベルの、二つのアスタリスク。",
+    "deck": "1996年、Fondle EmのFE005。素っ気ない盤面の小さな注記から、ブルックリンの二人組へ。",
+    "essay": [
+      "白い袋から覗くラベルには、大きな写真も派手な色もない。「The Visualz」の横には3分44秒という表記と、二つのアスタリスク。小さな印を辿ると、Troy Davisによる録音という注記に行き着く。曲名より小さな文字が、レコードの向こうにいた人を一人、こちらへ連れてくる。",
+      "同じラベルの制作欄にはJon Adler、Siah、Yeshua dapoEDの名前が並ぶ。Siahへのインタビューでは、友人だったAdlerがスタジオを使える機会を持ち込み、1995年に録音、翌1996年にFondle Emから発表した経緯が語られている。発売年の一つ手前に、集まって作っていた時間がある。",
+      "この曲は六曲入りEPの最初に置かれている。あとから2008年のアンソロジーで出会っても、まずはその入口を覚えておきたい。大きな歴史へ急ぐより、二人の声と制作の名前を一緒に辿ってみる。レコードの小さな文字を読む時間も、聴く準備のうちなのだ。"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "録音年と発表年",
+        "text": "本人インタビューでは1995年に録音し、1996年にFondle Emから発表。原盤にも1996年の表記があります。",
+        "sources": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "二つのアスタリスク",
+        "text": "FE005のThe Visualzには「**」が付され、その注記はTroy Davisによる録音。原盤表記は3:44です。",
+        "sources": [
+          2
+        ]
+      },
+      {
+        "title": "外部リンクは2008年版",
+        "text": "SpotifyはThe Visualz Anthologyの収録版で、表示時間は3:52。原盤ラベルの3:44とは区別し、同一マスターや実再生の確認を意味しません。",
+        "sources": [
+          4,
+          5
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と使用箇所を一次資料で個別照合できたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "EPの一曲目という位置と、ラベルの制作・録音クレジットを分けて辿る。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "原盤の印刷クレジットと本人証言を入口にした編集。音源の実再生や1996年盤とのマスター同一性は未検証。",
+    "art": {
+      "word": "THE VISUALZ",
+      "tag": "SIAH & YESHUA DAPOED",
+      "style": "tag",
+      "seed": 2026102903,
+      "palette": [
+        "#252521",
+        "#AFAFA5",
+        "#EFEDE3",
+        "#73746E"
+      ],
+      "paletteSource": "1996 Fondle Em FE005 original EP label and plain sleeve, visually inspected 2026-10-29 JST.",
+      "paletteSourceUrl": "https://www.plexusrecords.com/siah-and-yeshua-dapo-ed-a58022-en.html",
+      "paletteNote": "実見した原盤の白い袋、灰色がかったラベル、黒い印刷を目視で近似。原盤ロゴや印刷文字は転用せず、平面の手描き文字として制作。"
+    },
+    "youtube": {
+      "id": null,
+      "url": "https://www.youtube.com/results?search_query=Siah+Yeshua+The+Visualz",
+      "channel": "未設定",
+      "type": "原盤に対応する動画は確認中",
+      "official": false,
+      "verified": "2026-10-29",
+      "verification": "正式な1996年盤と2008年再発の同定資料を照合して探索したが、適切な動画IDは未確定。実再生未検証。"
+    },
+    "externalAudio": {
+      "url": "https://open.spotify.com/track/18YIjhu5pIwRrG14lRgIhC",
+      "label": "Spotifyで2008年アンソロジー収録版を聴く",
+      "official": true,
+      "versionBasis": "The Visualz Anthology（Traffic Entertainment Group、2008）の1曲目。1996年FE005と同一マスターとは断定しない。"
+    },
+    "audioVerificationStatus": "サイト内再生は確認中",
+    "editorialStatus": "1996年原盤の記録を紹介。サイト内音源は確認中、外部リンクは2008年アンソロジー版。",
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 641
   }
 ]
