@@ -54,6 +54,7 @@ jobs:
           node scripts/verify_playlist_storage.cjs
           node scripts/verify_player_readiness.cjs
           node scripts/verify_seek.cjs
+          node scripts/verify_default_added_sort.cjs
       - name: Install full-build dependencies
         if: steps.plan.outputs.full == 'true'
         run: |
@@ -98,6 +99,7 @@ jobs:
           node scripts/verify_seek_browser.cjs
           node scripts/verify_unknown_release_metadata_browser.cjs
           node scripts/verify_external_audio_browser.cjs
+          node scripts/verify_default_added_sort_browser.cjs
           node scripts/verify_lesson_original_attribution.cjs
           node scripts/verify_requested_notice_removal_browser.cjs
           node scripts/verify_year_region_display_browser.cjs
@@ -136,6 +138,7 @@ jobs:
             /tmp/hybrid-overlay-report.json
             /tmp/seek-*.png
             /tmp/external-audio-*.png
+            /tmp/default-added-sort-*.png
             /tmp/jurassic-feature-*.png
             /tmp/puts-feature-*.png
             /tmp/cut-producer-feature-*.png
