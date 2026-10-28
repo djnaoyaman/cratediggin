@@ -1,0 +1,6 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict'),path=require('node:path');const root=process.env.TEST_SOURCE||'.',s=fs.readFileSync(path.join(root,'src/app/router.js'),'utf8'),start=s.indexOf(' function legacyArtDockGeometry'),end=s.indexOf(' function artVideoGeometry',start),ctx={};vm.createContext(ctx);vm.runInContext(s.slice(start,end)+';globalThis.geometry=artDockGeometry;globalThis.legacy=legacyArtDockGeometry;',ctx);
+for(const [w,h]of[[320,568],[390,844],[390,600],[844,390],[667,375]]){const b=ctx.geometry(w,h,false,{});assert(b);assert(b.width>=200&&b.height>=200);const stageW=w-24,stageTop=w>h?56:236,stageBottom=h-(w>h?84:96);assert(Math.abs(b.left+b.width-(w-20))<1);assert(Math.abs(b.top+b.height-(stageBottom-8))<1);assert(b.top>=stageTop+8);assert.equal(b.width,Math.max(200,Math.round(stageW*.35)));}
+for(const [w,h]of[[320,420],[568,320],[560,300],[390,500]])assert.equal(ctx.geometry(w,h,false,{}),null);
+for(const [w,h]of[[1440,900],[768,900],[1180,757]])assert.deepEqual(ctx.geometry(w,h,false,{}),ctx.legacy(w,h,false,{}));
+for(const [w,h]of[[390,844],[844,390]])assert.deepEqual(ctx.geometry(w,h,true,{}),ctx.legacy(w,h,true,{}));
+console.log('Mobile art-relative35% target,200x200 native minimum,inset geometry,short fallback,desktop/inline preserved PASS');

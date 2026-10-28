@@ -7,7 +7,19 @@
  let artInertRestore=[],artPreviousOverflow='';
  function restoreArtInert(){for(const [node,was] of artInertRestore){if(node.isConnected)node.inert=was}artInertRestore=[]}
  function isolateArtPaths(provider){restoreArtInert();const keep=[art,provider];function visit(node){for(const child of node.children){if(keep.includes(child))continue;if(keep.some(target=>child.contains(target)))visit(child);else{artInertRestore.push([child,child.inert]);child.inert=true}}}visit(document.body)}
- function artDockGeometry(width,height,inline,safe={}){const short=width>=560&&height>=300&&height<=500&&width>height,edge=width>=700&&!short?24:12,leftEdge=Math.max(edge,safe.left||0),rightEdge=Math.max(edge,safe.right||0),bottomSafe=safe.bottom||0,topSafe=safe.top||0,pw=Math.min(width-leftEdge-rightEdge,short?Math.min(320,Math.floor(width*.4)):width>=700?Math.min(480,Math.max(356,Math.round(width*.35))):height<700&&!inline?200:360),ph=inline?42:short?200:Math.max(200,Math.round(pw*9/16)),bottom=short?60+bottomSafe:width<700?104+bottomSafe:Math.max(24,bottomSafe),top=Math.max(short?52+topSafe:0,height-ph-bottom);if(pw<200||(!short&&width<700&&height<501)||(!short&&(width>=700?height<420:top<236+topSafe))||top+ph>height-Math.max(12,bottomSafe))return null;return {left:width-pw-rightEdge,top,width:pw,height:ph,artWidth:width,artHeight:height}}
+ function legacyArtDockGeometry(width,height,inline,safe={}){const short=width>=560&&height>=300&&height<=500&&width>height,edge=width>=700&&!short?24:12,leftEdge=Math.max(edge,safe.left||0),rightEdge=Math.max(edge,safe.right||0),bottomSafe=safe.bottom||0,topSafe=safe.top||0,pw=Math.min(width-leftEdge-rightEdge,short?Math.min(320,Math.floor(width*.4)):width>=700?Math.min(480,Math.max(356,Math.round(width*.35))):height<700&&!inline?200:360),ph=inline?42:short?200:Math.max(200,Math.round(pw*9/16)),bottom=short?60+bottomSafe:width<700?104+bottomSafe:Math.max(24,bottomSafe),top=Math.max(short?52+topSafe:0,height-ph-bottom);if(pw<200||(!short&&width<700&&height<501)||(!short&&(width>=700?height<420:top<236+topSafe))||top+ph>height-Math.max(12,bottomSafe))return null;return {left:width-pw-rightEdge,top,width:pw,height:ph,artWidth:width,artHeight:height}}
+ // Mobile HYBRID follows the artwork panel, while respecting the native player's minimum.
+ function artDockGeometry(width,height,inline,safe={}){
+  const short=width>=560&&height>=300&&height<=500&&width>height;
+  if(inline||(width>=700&&!short))return legacyArtDockGeometry(width,height,inline,safe);
+  if(!short&&height<501)return null;
+  const left=Math.max(12,safe.left||0),right=Math.max(12,safe.right||0),bottomSafe=safe.bottom||0,topSafe=safe.top||0;
+  const stageWidth=width-left-right,stageTop=short?56+topSafe:236,stageBottom=height-(short?84:96)-bottomSafe;
+  const pw=Math.min(stageWidth-16,Math.max(200,Math.round(stageWidth*.35))),ph=Math.max(200,Math.round(pw*9/16));
+  const top=stageBottom-8-ph;if(pw<200||top<stageTop+8)return null;
+  return {left:width-right-8-pw,top,width:pw,height:ph,artWidth:width,artHeight:height};
+ }
+
  function artSafeInsets(){const style=getComputedStyle(document.documentElement);return Object.fromEntries(['top','right','bottom','left'].map(side=>[side,parseFloat(style.getPropertyValue('--art-safe-'+side))||0]))}
  function artVideoGeometry(width,height,inline){if(width>=560&&height>=300&&height<=500&&width>height){const ph=inline?42:200,pw=Math.min(480,width-300);return {left:width-pw-48,top:52,width:pw,height:ph,artWidth:width,artHeight:height}}const ph=inline?42:Math.max(200,Math.min(height-220,(width-24)*9/16)),pw=Math.min(width-24,Math.max(200,ph*16/9));if(width<224||height<384)return null;return {left:(width-pw)/2,top:100,width:pw,height:ph,artWidth:width,artHeight:height}}
  function clearArtDock(){restoreArtInert();document.querySelectorAll('.art-provider-dock,.art-provider-parent').forEach(e=>e.classList.remove('art-provider-dock','art-provider-parent'));delete document.body.dataset.artOwner;delete document.body.dataset.artMode;for(const k of ['--art-width','--art-height','--provider-left','--provider-top','--provider-width','--provider-height'])document.body.style.removeProperty(k)}
