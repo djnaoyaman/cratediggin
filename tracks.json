@@ -83366,5 +83366,178 @@
     "datePublished": "2026-10-29",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 642
+  },
+  {
+    "id": "artifacts-art-of-facts",
+    "title": "Art of Facts",
+    "artist": "Artifacts",
+    "primaryArtist": "Artifacts",
+    "primaryArtists": [
+      "Artifacts"
+    ],
+    "artists": [
+      "Artifacts"
+    ],
+    "workType": "single",
+    "album": "Art of Facts / More Facts (12-inch single)",
+    "year": 1996,
+    "yearStatus": "verified",
+    "yearBasis": "Big Beat 0-95642原盤B面ラベルの©1996を目視。翌1997年のアルバムThat's Themとは区別。",
+    "region": "New Jersey",
+    "scene": "Newark, New Jersey",
+    "regionBasis": "El Da Sensei本人インタビューはNew Jersey出身とJerseyでの活動を記載。Tame OneのアーティストページもArtifactsをNWK,NJのグループと説明。",
+    "producer": "Shawn J. Period",
+    "producers": [
+      "Shawn J. Period"
+    ],
+    "producerSources": [
+      1,
+      2
+    ],
+    "producerBasis": "A/B原盤ラベルとスリーブのステッカーにShawn J. Period制作を明記。受領テキストのT-Rayではない。",
+    "label": "Big Beat / Atlantic",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Subway HipHop Records — Art Of Facts / More Facts",
+        "url": "https://www.subwayhiphop.com/all-sold-out/artifacts-art-of-factsmore-facts",
+        "kind": "US原盤0-95642の実物写真・曲目を掲載する販売店資料"
+      },
+      {
+        "label": "Art of Facts 原盤A面ラベル",
+        "url": "https://images.squarespace-cdn.com/content/v1/52a8c8a1e4b056691c63aa4b/1517942648045-3OC32W50CNU1JEC86OA5/artifacts%2Bart%2Bof%2Bfacts%2Blabel.jpg",
+        "kind": "制作・録音・版別時間を目視した一次資料"
+      },
+      {
+        "label": "Art of Facts / More Facts 原盤B面ラベル",
+        "url": "https://images.squarespace-cdn.com/content/v1/52a8c8a1e4b056691c63aa4b/1517942651359-3A6963VY2LYBYLNI0B9I/artifacts%2Bmore%2Bfacts%2Blabel.jpg",
+        "kind": "©1996とB面の別曲・版を目視した一次資料"
+      },
+      {
+        "label": "Art of Facts 原盤スリーブ",
+        "url": "https://images.squarespace-cdn.com/content/v1/52a8c8a1e4b056691c63aa4b/1517942655341-9K64R77VZAROWCF3C6DG/artifacts%2Bart%2Bof%2Bfacts.jpg",
+        "kind": "黄色いステッカーと白い袋を実見。新規アートは配色のみ参考にする"
+      },
+      {
+        "label": "Unkut — T-Ray本人インタビュー Part 2",
+        "url": "https://unkut.com/2007/08/t-ray-the-unkut-interview-part-2/",
+        "kind": "Wrong Side of da Tracks制作についての本人証言。Art of Facts制作の証言ではない"
+      },
+      {
+        "label": "AllHipHop — El Da Sensei: El Producto",
+        "url": "https://allhiphop.com/features/el-da-sensei-el-producto/",
+        "kind": "本人インタビューとNew Jerseyでの活動の記述"
+      },
+      {
+        "label": "Tame One — アーティストページ",
+        "url": "https://tamerdizzle.bandcamp.com/",
+        "kind": "アーティストの地域・Artifacts所属の自己紹介"
+      },
+      {
+        "label": "Artifacts - Topic — Art of Facts (LP Dirty Version)",
+        "url": "https://www.youtube.com/watch?v=1P90NkYgruI",
+        "kind": "正規Topicの表示メタデータ。Big Beat Records提供、1997年That’s Them収録版。実再生は利用者確認。"
+      }
+    ],
+    "essayTitle": "黄色いステッカーの、新しい名前。",
+    "deck": "1996年、Art of Facts。白いスリーブの黄色い四角には、Shawn J. Periodの制作名が大きく載っている。",
+    "essay": [
+      "白いスリーブに、黄色いステッカー。その上で曲名と並んで目に入るのが、Shawn J. Periodの名前だ。Wrong Side of da Tracksを手掛けたT-Rayの記憶だけでArtifactsを聴き続けると、この文字を見落としてしまう。同じグループの棚にも、制作を担う人が変わる節目がある。まずはその違いを、袋の表から拾っておく。",
+      "A面にはCleanとDirty、裏にはMore FactsというBonus Version。その下にArt of FactsのInstrumentalとAcapellaが続く。「Facts」が増えても、全部が同じ録音の別名というわけではない。1996年のこの一枚は、曲を一つのタイトルへ片づける前に、版と曲順をもう一度見てほしくなる構成なのだ。"
+    ],
+    "essaySources": [
+      [
+        1,
+        3,
+        4
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "制作はShawn J. Period",
+        "text": "原盤の制作・ミックス表記はShawn J. Period。録音・ミックスのエンジニアはKen Duro Ifill、アシスタントはBill Importico、場所はPlatinum Island Studiosです。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "1996年の12インチ",
+        "text": "0-95642原盤B面の権利表記は1996年。1997年のアルバム収録より前のシングルとして記録します。",
+        "sources": [
+          2
+        ]
+      },
+      {
+        "title": "More Factsを混同しない",
+        "text": "A面のArt of FactsはClean4:08、Dirty4:26。B面のMore FactsはBonus Version3:04と表記され、Art of FactsのInstrumental4:26、Acapella3:45とは別に並びます。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "再生はLP Dirty Version",
+        "text": "Artifacts - Topicの配信はLP Dirty Version、表示4:24。1997年That’s Them収録版を選択し、原盤の1996年という初出記録は保持しています。Cleanや別曲More Factsではありません。",
+        "sources": [
+          7
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と使用箇所を一次資料で個別照合できたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "Shawn J. Periodの制作クレジットと、Art of Facts／More Factsの曲名・版の違いを辿る。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "原盤の印刷情報から制作名と版の関係を読む編集。実再生や制作意図を捏造せず、More Factsを同一音源へ統合しない。",
+    "art": {
+      "word": "ART OF FACTS",
+      "tag": "ARTIFACTS",
+      "style": "tag",
+      "seed": 2026102906,
+      "palette": [
+        "#C1B600",
+        "#20201B",
+        "#E9E8DC",
+        "#92938A"
+      ],
+      "paletteSource": "1996 Big Beat0-95642 original single white sleeve with yellow sticker, visually inspected2026-10-29 JST.",
+      "paletteSourceUrl": "https://images.squarespace-cdn.com/content/v1/52a8c8a1e4b056691c63aa4b/1517942655341-9K64R77VZAROWCF3C6DG/artifacts%2Bart%2Bof%2Bfacts.jpg",
+      "paletteNote": "実物スリーブの黄色いステッカー、白い袋、黒い印刷を目視で近似。既存Artifactsロゴや四角いステッカーは描かず、独自の太いマーカー文字へ展開。"
+    },
+    "youtube": {
+      "id": "1P90NkYgruI",
+      "url": "https://www.youtube.com/watch?v=1P90NkYgruI",
+      "embedUrl": "https://www.youtube.com/embed/1P90NkYgruI",
+      "title": "Art of Facts (LP Dirty Version)",
+      "channel": "Artifacts - Topic",
+      "type": "正規Topic配信 / LP Dirty Version",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 264,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "検索結果でArtifacts - Topic、Art of Facts (LP Dirty Version)、4:24、Big Beat Records提供、1997 AtlanticのThat’s Them収録版を確認。1996年シングルの初出記録と分け、Clean・More Facts・リミックスを混同しない。実再生・日本からの再生は利用者確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 643
   }
 ]
