@@ -133,6 +133,7 @@ jobs:
             /tmp/hybrid-overlay-*.png
             /tmp/hybrid-overlay-report.json
             /tmp/seek-*.png
+            /tmp/external-audio-*.png
             /tmp/jurassic-feature-*.png
             /tmp/puts-feature-*.png
             /tmp/cut-producer-feature-*.png
