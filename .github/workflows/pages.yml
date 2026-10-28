@@ -56,6 +56,7 @@ jobs:
           node scripts/verify_seek.cjs
           node scripts/verify_default_added_sort.cjs
           node scripts/verify_top_return.cjs
+          node scripts/verify_mobile_hybrid.cjs
       - name: Install full-build dependencies
         if: steps.plan.outputs.full == 'true'
         run: |
