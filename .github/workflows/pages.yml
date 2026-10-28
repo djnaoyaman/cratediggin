@@ -83,6 +83,8 @@ jobs:
           key: ${{ runner.os }}-playwright-1.62.1
       - name: Verify profile text, links, display and navigation
         if: steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none'
+        env:
+          PROFILE_TEST_URL: http://127.0.0.1:8765/cratediggin
         run: |
           npm install --no-save playwright@1.62.1
           npx playwright install --with-deps chromium
