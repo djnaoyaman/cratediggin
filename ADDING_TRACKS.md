@@ -82,3 +82,14 @@ GRAFFITI ROOM の全ページ・全曲で `Designed by DJ Naoyaman` を常時表
 ### Original work credit versus a compilation/distribution artist
 
 For DJ/scratch works and compilation inclusions, establish the original work's artist from primary credits. Do not substitute the selected upload's album/distribution artist for `artist`, `primaryArtist`, `primaryArtists`, or `artists`. Preserve the selected upload's factual channel/album/year separately in `selectedRelease` and `versionBasis`; keep an uncertain original release year explicitly uncertain. A known compilation date is not automatically a first-release date. Artist corrections must cover artwork text/alt, artist indexes, article/SEO/JSON-LD and preserve existing public URLs. `Lesson 4: The Radio` is credited to Cut Chemist; its selected 2008 J5 distribution entry is not a Jurassic 5 main-artist classification.
+## 音源探索と追加の優先順位（2026-10-29更新）
+
+利用者の最新指定により、上記の「適切な投稿も見つからない場合は再生欄を省略して追加と公開を進める」は、新規追加には適用しません。
+
+1. 原則として「アーティスト名 + 曲名」で探し、演者・曲名・指定された版が一致する候補を優先する。公式性の調査を際限なく深掘りするのではなく、表示された曲名、演者、版、チャンネル、再生時間で誤曲・別演奏・別版を避ける。
+2. 版が一致する中で、公式／正規Topic、PV・MV・VEVO、ジャケット固定動画の順を目安にする。利用者が指定した動画は優先して登録する。一般投稿を公式と表示しない。
+3. 10分を超える動画は、アルバム全体やミックスでないか確認する。長尺が正しい作品まで一律に除外しない。
+4. 上位の少数候補と、必要なら一度の代替検索で区切る。見つからない曲は根拠と保留理由を残して次へ進む。似た検索を繰り返したり、別演者・別バージョンで穴埋めしない。
+5. 対応する動画IDが未設定の新曲を新規公開しない。確認できた候補の登録後、実際の音声再生・日本からの再生確認は利用者に委ね、これを待って追加を遅らせない。こちらで未実施の実再生・埋め込み・地域再生・原盤マスター同一性は確認済みと記録しない。通常のコード・データ・画面・CI検証は維持する。
+
+共通の検索・閲覧時計と単一担当の運用を守る。現在は担当間を横断した65秒間隔を維持し、サービス指定の長い待機・利用制限・審査拒否を優先する。拒否やアクセス制限を別経路・別表記で回避しない。後の利用者の変更・停止指示を最優先する。
