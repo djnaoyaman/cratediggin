@@ -50,3 +50,9 @@ for(const readyFirst of [false,true]){
  assert(t.$('#status').textContent.includes('未確定'));
 }
 console.log('Switching from pending/active audio to external-only track clears playback and prevents fallback');
+
+for(const [id,video] of Object.entries({"mos-def-universal-magnetic":"TsoCr5KoNoM","siah-yeshua-dapoed-the-visualz":"iMAeEkIoBK0"})){
+ const selected=JSON.parse(fs.readFileSync("tracks.json","utf8")).find(x=>x.id===id);assert.equal(selected.youtube.id,video);assert(!selected.externalAudio);
+ const t=setup();t.c.songs[1]=selected;t.c.queue=["first",id];t.c.startSong(1);t.ready();assert.deepEqual(t.loads,[video],"Owner-selected source must reach loadVideoById exactly");assert.equal(t.c.cur,1);
+}
+console.log("Both owner-selected KIYO sources route to their exact IDs; mock only, no actual playback claim");
