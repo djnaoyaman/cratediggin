@@ -14108,6 +14108,45 @@
         "sourceImage": "assets/graffiti/originals/royal-flush-world-wide-tag-original.png",
         "sourceSha256": "1d42ed465e2e562a97aca1727d35082d8685ef1bbbc9c9bd8df50f5f5302dace"
       }
+    },
+    {
+      "id": "artifacts-art-of-facts",
+      "title": "Art of Facts",
+      "artist": "Artifacts",
+      "album": "Art of Facts / More Facts (12-inch single)",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#C1B600",
+        "#20201B",
+        "#E9E8DC",
+        "#92938A"
+      ],
+      "paletteSource": "1996 Big Beat0-95642 original single white sleeve with yellow sticker, visually inspected2026-10-29 JST.",
+      "paletteSourceURL": "https://images.squarespace-cdn.com/content/v1/52a8c8a1e4b056691c63aa4b/1517942655341-9K64R77VZAROWCF3C6DG/artifacts%2Bart%2Bof%2Bfacts.jpg",
+      "paletteNote": "実物スリーブの黄色いステッカー、白い袋、黒い印刷を目視で近似。既存Artifactsロゴや四角いステッカーは描かず、独自の太いマーカー文字へ展開。",
+      "image": "assets/graffiti/artifacts-art-of-facts-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/artifacts-art-of-facts-tag-original.png",
+      "concept": "ART OF FACTSとARTIFACTSを独自の太いマーカー文字で構成。原盤ステッカーの黄・白・黒を配色として解釈し、既存ロゴは描かない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          110,
+          76,
+          1454,
+          1009
+        ],
+        "outputSha256": "462a02e11c6d23401737aae63ce3bab787c6034eb4243b841d5a93119414249e",
+        "sourceImage": "assets/graffiti/originals/artifacts-art-of-facts-tag-original.png",
+        "sourceSha256": "a33f3837692dce2f6a2dce4b348cecee0dbbed9da6f40ff7e9ceb22a59beb36d"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
