@@ -45,6 +45,7 @@ for(const readyFirst of [false,true]){
  t.c.loadSong(2,true);assert.equal(t.c.cur,2);assert.equal(t.c.started,false);
  assert.equal(vm.runInContext('mainIntent.wantsPlay',t.c),false,'Unavailable source clears old play intent');
  assert.equal(vm.runInContext('pendingLoad',t.c),null,'Unavailable source clears pending old track');
+ if(!readyFirst){t.ready();assert.equal(t.loads.length,0);assert.equal(t.cues.length,0);assert(t.$('#status').textContent.includes('サイト内再生は確認中'),'Late readiness must preserve unavailable status');}
  const before=t.loads.length;t.c.toggle();t.c.startSong();assert.equal(t.loads.length,before);assert.equal(t.c.cur,2);
  assert(t.$('#status').textContent.includes('未確定'));
 }
