@@ -6,6 +6,7 @@
   "playlist-ui.js",
   "art-modes.js",
   "album-player.js",
+  "premium-hint.js",
   "player.js",
   "inline-player.js",
   "seek.js",

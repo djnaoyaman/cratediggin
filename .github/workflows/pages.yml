@@ -104,6 +104,7 @@ jobs:
           node scripts/verify_default_added_sort_browser.cjs
           node scripts/verify_removed_shelf_browser.cjs
           node scripts/verify_top_return_browser.cjs
+          node scripts/verify_premium_hint_browser.cjs
           node scripts/verify_lesson_original_attribution.cjs
           node scripts/verify_requested_notice_removal_browser.cjs
           node scripts/verify_year_region_display_browser.cjs
@@ -145,6 +146,7 @@ jobs:
             /tmp/default-added-sort-*.png
             /tmp/removed-shelf-*.png
             /tmp/top-return-visible-*.png
+            /tmp/premium-hint-*.png
             /tmp/jurassic-feature-*.png
             /tmp/puts-feature-*.png
             /tmp/cut-producer-feature-*.png
