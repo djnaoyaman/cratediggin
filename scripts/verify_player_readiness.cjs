@@ -38,3 +38,14 @@ console.log('Provider-error auto-skip respects auto preference, sample playback 
 {const t=setup();t.ready();t.c.startSong(1);t.players[0].fail(150);assert(t.$('#status').textContent.includes('YouTube'));assert.equal(t.c.playbackErrors().length,1);assert.equal(t.copied.length,0);assert(!playerSource.includes('playback-report'));assert(!fs.readFileSync('templates/index.html','utf8').includes('playback-report'));}
 {const t=setup();t.ready();t.c.startSong(1);t.runTimers();assert.equal(t.$('#start').hidden,false);assert(t.$('#status').textContent.includes('読み込みに時間'));assert.equal(t.c.playbackErrors()[0].code,'LOAD_TIMEOUT');const ok=setup();ok.ready();ok.c.startSong(1);ok.players[0].state(1);ok.runTimers();assert.equal(ok.c.playbackErrors().length,0);}
 console.log('Failed-track copy control absent; retry, external link and internal error handling preserved');
+
+for(const readyFirst of [false,true]){
+ const t=setup();if(readyFirst)t.ready();t.c.startSong(1);
+ t.c.songs.push({id:'external',title:'External',artist:'C',youtube:{id:null,url:'https://example.com/search'},externalAudio:{url:'https://example.com/audio'}});
+ t.c.loadSong(2,true);assert.equal(t.c.cur,2);assert.equal(t.c.started,false);
+ assert.equal(vm.runInContext('mainIntent.wantsPlay',t.c),false,'Unavailable source clears old play intent');
+ assert.equal(vm.runInContext('pendingLoad',t.c),null,'Unavailable source clears pending old track');
+ const before=t.loads.length;t.c.toggle();t.c.startSong();assert.equal(t.loads.length,before);assert.equal(t.c.cur,2);
+ assert(t.$('#status').textContent.includes('未確定'));
+}
+console.log('Switching from pending/active audio to external-only track clears playback and prevents fallback');
