@@ -84932,5 +84932,152 @@
     "datePublished": "2026-10-29",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 653
+  },
+  {
+    "id": "mos-def-got",
+    "title": "Got",
+    "artist": "Mos Def",
+    "primaryArtist": "Mos Def",
+    "primaryArtists": [
+      "Mos Def"
+    ],
+    "artists": [
+      "Mos Def"
+    ],
+    "album": "Black On Both Sides",
+    "year": 1999,
+    "yearStatus": "verified",
+    "yearBasis": "UMJ公式略歴の1999ソロ作品、博物館のRawkus1999現物目録とUMG公式音源の1999権利表記を照合。後年の配信権利年を初出年へ転用しない。",
+    "region": "New York",
+    "regionBasis": "Universal Music Japan公式略歴のNew York、Brooklyn出身表記。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Mos Def — Universal Music Japan biography",
+        "url": "https://www.universal-music.co.jp/mos-def/biography/",
+        "kind": "公式略歴。Brooklyn、1999ソロアルバムの記述"
+      },
+      {
+        "label": "Black On Both Sides — Qobuz",
+        "url": "https://www.qobuz.com/us-en/album/black-on-both-sides-mos-def/0000881129052",
+        "kind": "正規配信Got曲別欄。Ali Shaheed Muhammad制作・作曲、Dante Smith作曲、Explicit3:27。レビュー本文は参照しない"
+      },
+      {
+        "label": "Mos Def - Topic — Got",
+        "url": "https://www.youtube.com/watch?v=pUjlMgYCUSI",
+        "kind": "UMG公式配信。1999 Rawkus、Black On Both Sides、表示尺3:28"
+      },
+      {
+        "label": "Black On Both Sides — Rock Hall catalog",
+        "url": "https://catalog.rockhall.com/rrhof-ais/Details/fullCatalogue/200026884",
+        "kind": "博物館の1999 Rawkus現物目録。客演欄をこの曲の役割と解釈しない"
+      },
+      {
+        "label": "Black On Both Sides — Apple Music",
+        "url": "https://music.apple.com/us/album/black-on-both-sides/1444213589",
+        "kind": "正規配信アルバムと掲載カバー"
+      },
+      {
+        "label": "Black On Both Sides 正規配信カバー",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/89/20/70/89207018-b8f3-4935-b812-dc94a5504df1/00602547873125.rgb.jpg/296x296bb.webp",
+        "kind": "Apple実ページの画像URLを取得・目視。人物写真や既存レイアウトを複製しない"
+      }
+    ],
+    "essayTitle": "Gotを手掛ける、Ali Shaheed Muhammad。",
+    "deck": "Mos Defの1999年ソロ作から。曲別クレジットに並ぶのはAli Shaheed MuhammadとDante Smith。",
+    "essay": [
+      "Gotの制作を担うのはAli Shaheed Muhammad。正規配信の曲別クレジットでは、プロデューサーと作曲者の両方に名前があり、Dante Smithも作曲者として並ぶ。Mos Defのソロ作品Black On Both Sidesを、アルバム名だけでなく一曲ごとの協働から辿る。短いタイトルの横に、二つの名前を置いて聴きたい。"
+    ],
+    "essaySources": [
+      [
+        1,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "Ali Shaheed Muhammadの制作",
+        "text": "QobuzのGot曲別欄はAli Shaheed MuhammadをProducer/Composer、Dante SmithをComposerと記載しています。アルバム全体の人名一覧から割り当てたものではありません。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "1999年のソロ作品",
+        "text": "Universal Music Japanの略歴と博物館の原盤目録が1999年のBlack On Both Sidesを裏付けます。選択公式音源も1999 Rawkusの権利表記です。",
+        "sources": [
+          0,
+          2,
+          3
+        ]
+      },
+      {
+        "title": "配信ごとの表示尺",
+        "text": "選択公式Topicは3:28、正規販売のAlbum Version Explicitは3:27。表示の1秒差だけで別演奏とは決めず、原盤マスターの同一性や実音声・日本からの再生は未確認のまま区別しています。",
+        "sources": [
+          1,
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "当該曲のAli Shaheed Muhammad制作クレジットから、Black On Both Sidesを曲単位で辿る。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "曲別の正規producerを採用。未確認の使用サンプル・制作意図・録音場所は付加しない。",
+    "art": {
+      "word": "GOT",
+      "tag": "MOS DEF",
+      "style": "tag",
+      "seed": 2026102917,
+      "palette": [
+        "#BC7B3A",
+        "#784B2B",
+        "#231B18",
+        "#EEE1C5"
+      ],
+      "paletteSource": "Black On Both Sides licensed Apple Music cover, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/89/20/70/89207018-b8f3-4935-b812-dc94a5504df1/00602547873125.rgb.jpg/296x296bb.webp",
+      "paletteNote": "実画像の銅色、黄土、暗い茶、アイボリーを目視近似。人物・顔・既存カバー文字や配置を複製しない三文字の独自グラフィティ。"
+    },
+    "youtube": {
+      "id": "pUjlMgYCUSI",
+      "url": "https://www.youtube.com/watch?v=pUjlMgYCUSI",
+      "embedUrl": "https://www.youtube.com/embed/pUjlMgYCUSI",
+      "title": "Got",
+      "channel": "Mos Def - Topic",
+      "type": "公式配信 / Black On Both Sides収録版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 208,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実YouTube検索でUMG公式Topic、1999Rawkus、BlackOnBothSides、3:28を確認。Qobuz曲別AlbumVersionExplicit3:27と表示尺を区別。実再生・日本再生・原盤とのマスター一致は未検証。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "producer": "Ali Shaheed Muhammad",
+    "producers": [
+      "Ali Shaheed Muhammad"
+    ],
+    "producerSources": [
+      1
+    ],
+    "producerBasis": "Qobuz正規配信の当該Got Album Version Explicitトラック欄にProducer/Composerとして明示。",
+    "addedOrder": 654
   }
 ]
