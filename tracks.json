@@ -84381,5 +84381,144 @@
       "Das EFX"
     ],
     "addedOrder": 649
+  },
+  {
+    "id": "black-moon-murder-mcs",
+    "title": "Murder MC's",
+    "artist": "Black Moon",
+    "primaryArtist": "Black Moon",
+    "primaryArtists": [
+      "Black Moon"
+    ],
+    "artists": [
+      "Black Moon"
+    ],
+    "album": "Diggin' In Dah Vaults",
+    "year": 1994,
+    "yearStatus": "verified",
+    "yearBasis": "1994 USシングルBuck Em DownのB面として現物販売曲目が記載。対応A面ラベル写真に©&℗1994 Nervousを目視。後年のコンピレーション1995℗を初出年としない。",
+    "region": "New York",
+    "regionBasis": "RBMA2011本人講演でBuckshotがグループの各人がBrooklynの異なる地区で育ったことを述べる。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Black Moon — Buck Em Down 12-inch",
+        "url": "https://www.turntablelab.com/products/black-moon-buck-em-down-12",
+        "kind": "1994シングルとB面Murder MCsの現物販売資料。A面の制作説明をB面へ転用しない"
+      },
+      {
+        "label": "Black Moon — Buck Em Down / Murder MCs",
+        "url": "https://hiptankrecords.shop-pro.jp/?pid=146166391",
+        "kind": "1994 US原盤の独立した販売曲目資料"
+      },
+      {
+        "label": "Black Moon - Topic — Murder MCs",
+        "url": "https://www.youtube.com/watch?v=khpq8IlnG5U",
+        "kind": "Nervous公式配信、Diggin In Dah Vaults、1995℗、vocal5:23メタデータ"
+      },
+      {
+        "label": "Black Moon — Red Bull Music Academy lecture",
+        "url": "https://www.redbullmusicacademy.com/lectures/black-moon-lecture/",
+        "kind": "2011本人講演。Brooklyn内の異なる地域から集まったグループの来歴"
+      },
+      {
+        "label": "Buck Em Down シングルA面ラベル現物写真",
+        "url": "https://www.turntablelab.com/cdn/shop/products/blackmoon-1.jpg?v=1762198663",
+        "kind": "©&℗1994 Nervous表記と配色を目視。写真はA面でありMurder MCsのB面ラベルとは称さない"
+      }
+    ],
+    "essayTitle": "ひとつのBrooklyn、異なる出発点。",
+    "deck": "同じBrooklynの三人でも、育った場所は同じではない。Buckshotの回想からBlack Moonの輪郭を辿る。",
+    "essay": [
+      "2011年の講演で、Buckshotはグループの面々がBrooklynの異なる地域で育ったことを振り返っている。挙がるのはConey Island、Franklin Avenue、Bushwick。ひとつの地名で括られがちなグループを、区内の距離から見直す入口になる。これはBlack Moonの来歴であって、Murder MC’sの制作場所や音の由来を説明する証言ではない。曲の側では、1994年のシングルB面と、のちのDiggin’ In Dah Vaults配信を別の資料として辿りたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1994年のB面",
+        "text": "Buck Em Downのシングル曲目にMurder MCsがB面として記載されています。対応するA面ラベル写真には©&℗1994 Nervous表記が見えます。A面のサンプルや制作クレジットをB面へ移していません。",
+        "sources": [
+          0,
+          1,
+          4
+        ]
+      },
+      {
+        "title": "保管庫からの配信",
+        "text": "選択した公式音源はDiggin In Dah Vaults収録、1995 Nervousの権利表記です。この後年の配信作品の年を、1994年のシングル初出と置き換えていません。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "表示尺と演者欄",
+        "text": "選択公式動画は5:23。原12インチの販売曲目には5:17とあり、同一マスターとは断定しません。配信欄のSmif-N-Wessun併記だけから、この曲の客演役割を確定していません。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "1994年シングルと後年のDiggin In Dah Vaultsを、別の収録資料として辿る。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "本人講演はグループ来歴に限定。曲別の制作場所・音の由来・サンプル・客演役割を未確認のまま加えない。",
+    "art": {
+      "word": "MURDER MC'S",
+      "tag": "BLACK MOON",
+      "style": "tag",
+      "seed": 2026102913,
+      "palette": [
+        "#F6E928",
+        "#251B0E",
+        "#FFF2D2",
+        "#B49926"
+      ],
+      "paletteSource": "Buck Em Down single A-side physical label photograph, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://www.turntablelab.com/cdn/shop/products/blackmoon-1.jpg?v=1762198663",
+      "paletteNote": "当該B面を収録するシングルのA面ラベルから黄、焦茶、クリームを目視近似。B面ラベルの参照とは称さず、Nervousロゴ・キャラクター・盤形を複製しない独自文字。"
+    },
+    "youtube": {
+      "id": "khpq8IlnG5U",
+      "url": "https://www.youtube.com/watch?v=khpq8IlnG5U",
+      "embedUrl": "https://www.youtube.com/embed/khpq8IlnG5U",
+      "title": "Murder MC's",
+      "channel": "Black Moon - Topic",
+      "type": "公式配信 / Diggin In Dah Vaults収録版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 323,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実YouTube検索でBlack Moon公式Topic、Nervous提供、Diggin In Dah Vaults、1995権利表記、5:23を確認。Smif-N-Wessun併記は客演役割と断定しない。実音声・日本再生・原12インチとのマスター同一性は未検証。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 650
   }
 ]
