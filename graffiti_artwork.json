@@ -14899,6 +14899,46 @@
         "sourceImage": "assets/graffiti/originals/heavy-d-listen-tag-original.png",
         "sourceSha256": "60e4438337c09896d43caf3d7fc9802be1db02443e7ceaff76c1d2ac08ebbc93"
       }
+    },
+    {
+      "id": "street-smartz-problemz",
+      "title": "Problemz",
+      "artist": "Street Smartz",
+      "album": "Problemz / Metal Thangz (12-inch single)",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#E1E7E7",
+        "#F1F2ED",
+        "#858B8D",
+        "#24282C",
+        "#101215"
+      ],
+      "paletteSource": "CRIM004 original1996 A-side label, visually inspected2026-10-29 UTC.",
+      "paletteSourceURL": "https://www.cribrecords.jp/data/cribrecords/product/20190209_237001.jpg",
+      "paletteNote": "現物ラベルの白、冷灰、黒と盤面のチャコールを目視近似。円盤、靴と鎖のレーベル図案、タイポ配置、既存ロゴは複製しない。",
+      "image": "assets/graffiti/street-smartz-problemz-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/street-smartz-problemz-tag-original.png",
+      "concept": "PROBLEMZ、STREET SMARTZの独自文字。原盤ラベルの白灰黒のみ参照、円盤・靴・鎖・既存ロゴ・配置を複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          140,
+          63,
+          1860,
+          834
+        ],
+        "outputSha256": "b8c48e30ba45a5359d0b1ee05a9468752d1bac4e25a7e9ff89651cfbad92b233",
+        "sourceImage": "assets/graffiti/originals/street-smartz-problemz-tag-original.png",
+        "sourceSha256": "122a61a9dc587b0afe3c33160a97d9327f00bd80a4e0dbd777e75be85e02149f"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

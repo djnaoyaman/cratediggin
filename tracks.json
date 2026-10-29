@@ -86212,5 +86212,149 @@
       "Q-Tip"
     ],
     "addedOrder": 662
+  },
+  {
+    "id": "street-smartz-problemz",
+    "title": "Problemz",
+    "artist": "Street Smartz",
+    "primaryArtist": "Street Smartz",
+    "primaryArtists": [
+      "Street Smartz"
+    ],
+    "artists": [
+      "Street Smartz"
+    ],
+    "album": "Problemz / Metal Thangz (12-inch single)",
+    "year": 1996,
+    "yearStatus": "verified",
+    "yearBasis": "CRIM004現物A面の©℗1996 Tru Criminalを目視。2022正規再発と後年All the Classics配信を初出年にしない。",
+    "region": "New York",
+    "regionBasis": "F.T.本人はBrooklyn出身、Southside Queensで育ったと説明。Street Smartzの活動背景としてNew Yorkを採用し、全員の出生地へ広げない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Problemz / Metal Thangz — CRIM004現物",
+        "url": "https://www.cribrecords.jp/product/5953",
+        "kind": "原盤商品ページとA面実写真。©℗1996、Buckwild制作、Dirty/Clean/Instrumental/Accapella"
+      },
+      {
+        "label": "CRIM004 A面ラベル実画像",
+        "url": "https://www.cribrecords.jp/data/cribrecords/product/20190209_237001.jpg",
+        "kind": "1996年とProduced by Buckwildを目視確認。白灰黒の配色参照"
+      },
+      {
+        "label": "Problemz b/w Metal Thangz — Funky Dividends Records",
+        "url": "https://funkydividendsrecords.bandcamp.com/album/problemz-b-w-metal-thangz",
+        "kind": "正規2022再発。ProblemzにProd. by Buckwild、4:27を記載。再発年は初出と分離"
+      },
+      {
+        "label": "F.T. — Unkut本人インタビュー",
+        "url": "https://unkut.com/2009/04/the-90s-files-ft-of-street-smartz/",
+        "kind": "本人がStreet SmartzをFT/Maoz/Syxのグループと説明。Brooklyn/Queensの本人地域情報"
+      },
+      {
+        "label": "Problemz — Street Smartz - Topic",
+        "url": "https://www.youtube.com/watch?v=_0NoVcQaK9Q",
+        "kind": "実表示でDistroKid提供、All the Classics、Uncut Grams、4:31。原1996マスター完全一致は未確認"
+      }
+    ],
+    "essayTitle": "A面に刻まれた、Buckwildの名前。",
+    "deck": "1996年のTru Criminal盤。原盤と再発に残る制作クレジット。",
+    "essay": [
+      "「Problemz」の原盤A面には、Buckwildの制作クレジットが印刷されている。2022年の正規再発にもその名前が残り、1996年の一枚と後年の紹介をつなぐ。F.T.が語るStreet Smartzは、FT、Maoz、Syxからなるグループだった。B面「Metal Thangz」の豪華な客演名義に目が向きやすい一枚だが、ここではA面の曲名と制作欄を読む。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "原盤A面の曲別クレジット",
+        "text": "実ラベルはProduced by Buckwild for Still Diggin’ Productionsと明記。B面Metal ThangzのO.C.やPharoahe Monchの名義をProblemzの客演へ転記していません。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "1996原盤と選択音源",
+        "text": "CRIM004は©℗1996。原盤はDirty/Clean/Instrumental/Accapellaを分けています。選択TopicはAll the Classicsの4:31で、正規2022再発4:27と尺差があります。原1996マスターやClean/Dirtyの完全一致は未認定です。サイト内・日本での実音声再生可否は未確認です。",
+        "sources": [
+          0,
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "title": "三人のグループと活動背景",
+        "text": "F.T.本人の説明ではStreet SmartzはFT、Maoz、Syxのグループ。Brooklyn出身、Southside Queensで育ったという話はF.T.本人のものであり、全メンバーの出身地ではありません。",
+        "sources": [
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "原盤A面と後年の再発に残るBuckwildの曲別クレジットを手掛かりに、B面とは分けて聴く。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "原盤A面写真と正規再発を照合。選択コンピ音源の原盤マスター/Clean-Dirty一致は未確認。B面客演と別曲制作は転記しない。",
+    "art": {
+      "word": "PROBLEMZ",
+      "tag": "STREET SMARTZ",
+      "style": "tag",
+      "seed": 2026102926,
+      "palette": [
+        "#E1E7E7",
+        "#F1F2ED",
+        "#858B8D",
+        "#24282C",
+        "#101215"
+      ],
+      "paletteSource": "CRIM004 original1996 A-side label, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://www.cribrecords.jp/data/cribrecords/product/20190209_237001.jpg",
+      "paletteNote": "現物ラベルの白、冷灰、黒と盤面のチャコールを目視近似。円盤、靴と鎖のレーベル図案、タイポ配置、既存ロゴは複製しない。"
+    },
+    "youtube": {
+      "id": "_0NoVcQaK9Q",
+      "url": "https://www.youtube.com/watch?v=_0NoVcQaK9Q",
+      "embedUrl": "https://www.youtube.com/embed/_0NoVcQaK9Q",
+      "title": "Problemz",
+      "channel": "Street Smartz - Topic / FT Street Smartz",
+      "type": "公式配信 / All the Classics収録版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 271,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示でDistroKid提供、Street Smartz、All the Classics、Uncut Grams Entertainment、4:31を確認。一般原曲表題4:31と比較、Instrumental除外。原盤Clean/Dirty・マスター完全一致と実音声・日本再生は未確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [],
+    "addedOrder": 663,
+    "producer": "Buckwild",
+    "producers": [
+      "Buckwild"
+    ]
   }
 ]
