@@ -14859,6 +14859,46 @@
         "sourceImage": "assets/graffiti/originals/walkin-large-listen-to-this-tag-original.png",
         "sourceSha256": "fe515727c3775369ffab1f4374ceff6fce7efd210e001207a27621a9813fe34d"
       }
+    },
+    {
+      "id": "heavy-d-listen",
+      "title": "Listen",
+      "artist": "Heavy D feat. Q-Tip",
+      "album": "Heavy",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#101011",
+        "#353437",
+        "#79777B",
+        "#B8B6BA",
+        "#F0EDEE"
+      ],
+      "paletteSource": "Heavy album licensed Apple cover, visually inspected2026-10-29 UTC.",
+      "paletteSourceURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/bb/a9/ae/bba9ae66-36bb-3fb3-193c-5cb6934b8761/00601215326024.rgb.jpg/296x296bb.webp",
+      "paletteNote": "実アルバムカバーの黒、チャコール、灰、銀灰、白を目視近似。人物、サングラス、手、毛皮、写真配置、既存文字は複製しない。",
+      "image": "assets/graffiti/heavy-d-listen-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/heavy-d-listen-tag-original.png",
+      "concept": "LISTEN、HEAVY D、feat. Q-TIPの独自文字。正規アルバムのモノクロ配色のみ参照、人物・手・サングラス・既存配置を複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          134,
+          68,
+          1769,
+          901
+        ],
+        "outputSha256": "2c1b533735ac1aa03d40e90d0670b852f9982c221ac2fae8a0c88bcb57061dbf",
+        "sourceImage": "assets/graffiti/originals/heavy-d-listen-tag-original.png",
+        "sourceSha256": "60e4438337c09896d43caf3d7fc9802be1db02443e7ceaff76c1d2ac08ebbc93"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
