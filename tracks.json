@@ -85946,5 +85946,143 @@
     "datePublished": "2026-10-29",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 660
+  },
+  {
+    "id": "walkin-large-listen-to-this",
+    "title": "Listen to This",
+    "artist": "Walkin' Large feat. Black Thought",
+    "primaryArtist": "Walkin' Large",
+    "primaryArtists": [
+      "Walkin' Large"
+    ],
+    "artists": [
+      "Walkin' Large",
+      "Black Thought"
+    ],
+    "album": "Listen To This (12-inch single)",
+    "year": 1997,
+    "yearStatus": "verified",
+    "yearBasis": "現物HRM001写真の℗1997 Headrushと販売店の1997表記を照合。選択Self音源の1998 WEA表記と分け、回想中の1999は発売年の根拠にしない。",
+    "region": "Germany",
+    "regionBasis": "Roe Beardie本人がWuppertalのジャムでOnoとDJ Araに出会ったと説明。ドイツでの活動地域であり、個人出生地を推定しない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Listen To This — HRM001現物",
+        "url": "https://www.mrrecordsusa.com/product-page/walkin-large-listen-to-this",
+        "kind": "現物写真と商品説明。1997 Headrush、Black Thought客演、Original Version5:05とRoots Remix4:15"
+      },
+      {
+        "label": "Roe Beardie — ALL GOOD本人インタビュー",
+        "url": "https://allgood.de/features/interviews/die-musik-sollte-so-sein-dass-die-rapper-nicht-nur-darauf-ueberleben-sondern-strahlen-konnten/",
+        "kind": "Wuppertalでの出会い、Black Thought録音、Rootsリミックスのテープ方式についての本人回想。発売年の証拠には使わない"
+      },
+      {
+        "label": "Listen to This (feat. Black Thought) — Walkin’ Large - Topic",
+        "url": "https://www.youtube.com/watch?v=d4S1P_cfzwY",
+        "kind": "実表示でWM Germany提供、Self、1998 WEA、Black Thought客演、5:07を確認"
+      },
+      {
+        "label": "HRM001スリーブ実画像",
+        "url": "https://static.wixstatic.com/media/deb989_46a70e0e3a3246cb9014860ec726d8b8~mv2.jpg/v1/fill/w_2765%2Ch_2780%2Cal_c%2Cq_90%2Cenc_avif%2Cquality_auto/deb989_46a70e0e3a3246cb9014860ec726d8b8~mv2.jpg",
+        "kind": "実写真を取得し目視。原盤年、A1/B1の区別と配色を確認"
+      }
+    ],
+    "essayTitle": "ドイツのスタジオから、Rootsのリミックスへ。",
+    "deck": "Black Thoughtの録音と、二つの制作環境。Roe Beardieの回想を辿る。",
+    "essay": [
+      "Roe Beardieによれば、Black ThoughtはThe Rootsのドイツ・ツアー中、彼らのスタジオでこの曲を録音した。その後にRoots側がリミックスを手掛けることになり、テープを使う制作方式を求めたという。ZipカートリッジやPro Toolsを使っていたドイツ側との違いまで、回想には残っている。国をまたいだ客演は、録音の道具や手順も行き交う出来事だった。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ]
+    ],
+    "facts": [
+      {
+        "title": "録音とリミックスの回想",
+        "text": "Roe BeardieはBlack Thoughtのスタジオ録音と、その後のRoots側のリミックス制作を説明しています。ここで選択したのは標準のアルバム版で、Roots Remixではありません。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "原盤1997と選択版1998",
+        "text": "現物HRM001は℗1997、A1 Original Version5:05、B1 The Roots Remix4:15と記載。選択TopicはSelf／℗1998 WEAの5:07です。2秒差から原盤マスター同一性は認定していません。",
+        "sources": [
+          0,
+          2,
+          3
+        ]
+      },
+      {
+        "title": "名義と活動地域",
+        "text": "現物と選択配信にBlack Thought客演を確認。Roe本人はWuppertalでOnoとDJ Araに会ったと語っています。Germanyは活動地域であり、二人の出生地の表記ではありません。サイト内・日本での実音声再生可否は未確認です。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "標準版とRoots Remixを混同せず、Black Thoughtがドイツで録音したという回想を手掛かりに聴く。"
+    ],
+    "collections": [
+      "other"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "本人の曲別回想と現物を照合。Roots Remixの制作/楽器担当を標準版へ転記しない。原盤とSelf配信版の同一マスターは未確認。",
+    "art": {
+      "word": "LISTEN TO THIS",
+      "tag": "WALKIN' LARGE feat. BLACK THOUGHT",
+      "style": "tag",
+      "seed": 2026102924,
+      "palette": [
+        "#EEE8D9",
+        "#C1D1D1",
+        "#8C8988",
+        "#262221",
+        "#D55B2D",
+        "#575F92"
+      ],
+      "paletteSource": "Listen To This HRM001 physical single sleeve, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://static.wixstatic.com/media/deb989_46a70e0e3a3246cb9014860ec726d8b8~mv2.jpg/v1/fill/w_2765%2Ch_2780%2Cal_c%2Cq_90%2Cenc_avif%2Cquality_auto/deb989_46a70e0e3a3246cb9014860ec726d8b8~mv2.jpg",
+      "paletteNote": "実スリーブのクリーム白、薄水色、灰、黒、ジャケットの橙赤と青紫を目視近似。人物写真、ステッカー配置、ハーフトーンや既存ロゴは複製しない。"
+    },
+    "youtube": {
+      "id": "d4S1P_cfzwY",
+      "url": "https://www.youtube.com/watch?v=d4S1P_cfzwY",
+      "embedUrl": "https://www.youtube.com/embed/d4S1P_cfzwY",
+      "title": "Listen to This (feat. Black Thought)",
+      "channel": "Walkin' Large - Topic",
+      "type": "公式配信 / Self収録版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 307,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示でWM Germany提供、Walkin Large feat.Black Thought、Self、℗1998 WEA、5:07を確認。Roots Remix、Extra Play Remix、Instrumental、一般投稿と比較。実音声・日本再生・1997原盤マスター一致は未検証。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [
+      "Black Thought"
+    ],
+    "addedOrder": 661
   }
 ]
