@@ -14147,6 +14147,46 @@
         "sourceImage": "assets/graffiti/originals/artifacts-art-of-facts-tag-original.png",
         "sourceSha256": "a33f3837692dce2f6a2dce4b348cecee0dbbed9da6f40ff7e9ceb22a59beb36d"
       }
+    },
+    {
+      "id": "company-flow-vital-nerve",
+      "title": "Vital Nerve",
+      "artist": "Company Flow feat. BMS",
+      "album": "Funcrusher (EP)",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#7562B4",
+        "#A94D31",
+        "#E2CE58",
+        "#171B20",
+        "#F0E9D0"
+      ],
+      "paletteSource": "Funcrusher Plus selected audio edition physical sleeve, visually inspected2026-10-29 JST.",
+      "paletteSourceURL": "https://www.cribrecords.jp/data/cribrecords/product/20180226_8ab003.jpg",
+      "paletteNote": "選択音源のアルバムジャケットにある紫・青紫、錆色の橙、黄、暗色を目視で近似。1996EPの配色とは主張せず、人物・風景・既存ロゴを描かない独自の文字構成。",
+      "image": "assets/graffiti/company-flow-vital-nerve-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/company-flow-vital-nerve-tag-original.png",
+      "concept": "VITAL NERVEとCOMPANY FLOW、feat.BMSを鋭い独自文字で構成。選択Funcrusher Plus版の紫・橙・黄を目視解釈し、既存絵柄・ロゴは描かない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          154,
+          65,
+          2034,
+          854
+        ],
+        "outputSha256": "781b802f0394c7b3ebf5a5437752e584933d383285fd9cca64eff1165f9625b3",
+        "sourceImage": "assets/graffiti/originals/company-flow-vital-nerve-tag-original.png",
+        "sourceSha256": "5f68c03250e592c6c21f4278a189b8515cd4e24cb12bce974bed52c471685eac"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
