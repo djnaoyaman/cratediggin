@@ -85812,5 +85812,139 @@
     "datePublished": "2026-10-29",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 659
+  },
+  {
+    "id": "boogiemonsters-mc-mental-calisthenics",
+    "title": "M.C. (Mental Calisthenics)",
+    "artist": "Boogiemonsters",
+    "primaryArtist": "Boogiemonsters",
+    "primaryArtists": [
+      "Boogiemonsters"
+    ],
+    "artists": [
+      "Boogiemonsters"
+    ],
+    "album": "God Sound",
+    "year": 1997,
+    "yearStatus": "verified",
+    "yearBasis": "正規再発レーベル90s Tapesが1997年の第二作と明示。2021再発年や現在のC.R.A.M.配信権利表記とは分ける。",
+    "region": "New York",
+    "regionBasis": "Vex本人インタビューのNYでのグループ活動の回想。Virginiaでの結成や各人の出生地とは区別した活動地域。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "God Sound — 90s Tapes",
+        "url": "https://90stapes.bandcamp.com/album/god-sound",
+        "kind": "正規再発レーベルが原1997年、Vex/Mondo二人体制を明示。2021は再発年"
+      },
+      {
+        "label": "Vex Da Vortex: Mental Calisthenics — 本人インタビュー",
+        "url": "https://hiphopgoldenage.com/vex-da-vortex-boogiemonsters-mental-calisthenics/",
+        "kind": "Vex本人がM.C.(Mental Calisthenics)を自分を表す曲として挙げる2015年の回答。NY活動の回想も確認"
+      },
+      {
+        "label": "God Sound — Amazon Music",
+        "url": "https://music.amazon.in/albums/B0BQX53671",
+        "kind": "正規現行配信の当該曲M.C.(Mental Calisthenics)2:43、原1997、C.R.A.M.表記"
+      },
+      {
+        "label": "M.C. (Mental Calisthenics) — BOOGIEMONSTERS - Topic",
+        "url": "https://www.youtube.com/watch?v=ftFQpnKyLm4",
+        "kind": "実表示でDistroKid提供、GOD SOUND、C.R.A.M.、2:43を確認"
+      },
+      {
+        "label": "God Sound 正規再発カバー",
+        "url": "https://f4.bcbits.com/img/a4100256154_10.jpg",
+        "kind": "90s Tapes実ページ画像を取得し目視。配色のみ参照"
+      }
+    ],
+    "essayTitle": "Vexが、自分を表す曲に選んだ。",
+    "deck": "2015年の本人の答えから、1997年の一曲を聴き直す。",
+    "essay": [
+      "自分をよく表す曲を尋ねられたVexは、2015年のインタビューでM.C. (Mental Calisthenics)を挙げている。The Lunchroom Tableとともに、歌詞が自分自身をよく表しているという答えだった。God Soundの一曲を、本人が後から選び直した視点で聴ける。"
+    ],
+    "essaySources": [
+      [
+        1,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "本人が選び直した一曲",
+        "text": "Vexは2015年のインタビューで、M.C. (Mental Calisthenics)とThe Lunchroom Tableを自身を表す曲として挙げています。発売当時の制作意図ではなく、後年の本人の振り返りです。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "略記と曲名を照合",
+        "text": "受領リストのM.C.に対し、正規配信曲目と本人インタビューでMental Calisthenicsの併記を確認しています。原作は1997年、90s Tapesの2021年表記は再発年です。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "現行Topicの2:43",
+        "text": "選択TopicのGOD SOUND／C.R.A.M.表記と2:43を正規現行配信と照合。一般投稿2:32・2:45とも比較しましたが、尺差の原因は未確定です。原盤マスター同一性、サイト内・日本での実再生可否は未確認です。",
+        "sources": [
+          2,
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "Vex自身が歌詞に自分らしさを見出したという、後年の言葉を手掛かりに聴く。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "2015年の本人選曲を1997年の制作意図へ置き換えない。NYは活動地域、Virginia結成と区別。未確認の制作担当・サンプル曲名を加えない。",
+    "art": {
+      "word": "M.C. (MENTAL CALISTHENICS)",
+      "tag": "BOOGIEMONSTERS",
+      "style": "tag",
+      "seed": 2026102923,
+      "palette": [
+        "#EEECDD",
+        "#88A8AC",
+        "#476467",
+        "#0E1915"
+      ],
+      "paletteSource": "God Sound licensed90sTapes reissue cover, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://f4.bcbits.com/img/a4100256154_10.jpg",
+      "paletteNote": "実画像のアイボリー文字、冷たい青灰色、煙った緑灰色、黒緑を目視近似。人物、建築、車、既存書体・ロゴは複製しない。"
+    },
+    "youtube": {
+      "id": "ftFQpnKyLm4",
+      "url": "https://www.youtube.com/watch?v=ftFQpnKyLm4",
+      "embedUrl": "https://www.youtube.com/embed/ftFQpnKyLm4",
+      "title": "M.C. (Mental Calisthenics)",
+      "channel": "BOOGIEMONSTERS - Topic",
+      "type": "公式配信 / God Sound現行版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 163,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示の曲名、Topic、DistroKid提供、GOD SOUND／C.R.A.M.、2:43を正規現行配信と照合。一般投稿2:32・2:45を比較して選定。実音声・日本再生・原盤マスター一致は未検証。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 660
   }
 ]
