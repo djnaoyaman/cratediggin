@@ -79,3 +79,9 @@ build.pyとart_motion.pyが、掲載済みのmoods・deck・listening・essay先
 
 ## 2026-10-24: タギングを主役にする
 新規タグアートは手描き文字・線・筆勢を主役とし、コンセプトは字形、線の流れ、重なり、配色の範囲で表現する。3Dの立体装飾、文字の物体化、情景イラストやイラストロゴへ広げない。既存全画像の一括変換は行わず、新規・改訂時にこの基準を確認する。提供写真や通常の見出し文字は別用途として扱う。
+
+## 2026-10-29: thirteen requested feature-name tags
+
+The Beatnuts, Buckwild, Large Professor, Black Moon, Common, The Roots, Diamond D, 9th Wonder, RZA, Prince Paul, KRS-One, Mos Def and Da Beatminerz receive original black-and-white transparent name lettering in the existing `visual.nameOnly` component. This is feature-name artwork, not track jacket-derived art. No supplied portrait has been replaced or invented; photos have not yet been provided for these thirteen features and can be inserted later using the existing separate photo/name slots.
+
+Each name was generated individually with the built-in image tool, decoded and visually checked for spelling, intact edges, readable white paint and transparency. The existing canvas-only normalizer preserves painted pixels and adds approximately seven-percent visible margins without rescaling. White pigment remains visually opaque (some generated white pixels use alpha 254, not exactly 255). Diamond D's punctuation-like extra stroke was removed using the image tool and rechecked. Original source images, per-image hashes and independent visual review are retained in the task's `recovery/features-13-20261029/art/` evidence folder. These name designs are original editorial lettering, not reproductions of official artist logos or endorsements.

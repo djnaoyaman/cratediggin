@@ -46,7 +46,8 @@ def inputs(root):
             objects[name.decode()]='git:'+oid
     for name in sorted(source_paths(root)):
         if name in DOCS or name.startswith(('audit-reports/','dist/','tests/','handoff/','notes/','scripts/ci/','scripts/fixtures/')):continue
-        if name.startswith('scripts/') and name not in {'scripts/build_pipeline.py','scripts/profile_build.py'}:continue
+        # This feature QA is release-critical: changing its coverage must run the CI-local build/browser checks.
+        if name.startswith('scripts/') and name not in {'scripts/build_pipeline.py','scripts/profile_build.py','scripts/verify_requested_feature_editorials_browser.cjs'}:continue
         if name.endswith(('.pyc','.log')):continue
         if name in PROFILE:group='profile'
         elif name.startswith('src/app/'):group='client'

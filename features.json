@@ -1372,6 +1372,1277 @@
         ],
         "disclosure": "聴く順番と聴きどころはDJ Naoyamanの編集上の視点です。選曲ルートはアーティスト関連の公式配信・公式MVを使用。制作、共同制作、リミックス、ミックスを区別し、公式Topic配信を本人の直接投稿とは扱いません。掲載一覧の参考映像は楽曲数と分けて表示します。"
       }
+    },
+    {
+      "id": "the-beatnuts",
+      "name": "The Beatnuts",
+      "type": "artist",
+      "names": [
+        "The Beatnuts"
+      ],
+      "aliases": [],
+      "allYears": true,
+      "note": "公開確認済みの掲載録音から選んだ特集です。全ディスコグラフィーではありません。",
+      "listeningOrder": [
+        "the-beatnuts-third-of-the-trio",
+        "the-beatnuts-worlds-famous",
+        "the-beatnuts-get-funky",
+        "props-over-here",
+        "the-beatnuts-let-off-a-couple",
+        "the-beatnuts-off-the-books"
+      ],
+      "editorial": {
+        "format": "source-led-v1",
+        "title": "掘った音で、自分たちがラップする。",
+        "deck": "三人時代のEP、先行シングルの選択、客演との応酬。ビートと声を一緒に作るグループとして聴く。",
+        "context": "三人時代のEP、先行シングルの選択、客演との応酬。ビートと声を一緒に作るグループとして聴く。",
+        "introduction": [
+          "The Beatnutsをプロデューサーとラッパーに分けるより、一曲の中でその役割がどう重なるかを追いたい。誰が作り、誰が前へ出るのか。初期の録音には、その組み替えを聴く入口がある。"
+        ],
+        "sections": [
+          {
+            "heading": "THIRD OF THE TRIO / 三人のうちの一人",
+            "paragraphs": [
+              "[Third of the Trio](#/song/the-beatnuts-third-of-the-trio)は1993年のEPでFashionが前に出る曲。後年のJujuとPsycho Lesの二人組という印象だけで遡ると、この一人の存在を見落としてしまう。Sonyの紹介は、EP全体をメンバー自身が制作した作品としている。",
+              "そこから[Worlds Famous](#/song/the-beatnuts-worlds-famous)へ。こちらは短い導入と区別された本編だ。一人を追ったあと、声が交代するところに耳を移す。制作チームがマイクを握るとはどういうことかを、編成の違いから考えてみる。"
+            ],
+            "sources": [
+              0,
+              1,
+              2
+            ]
+          },
+          {
+            "heading": "PROPS / 作った人と、選んだ人",
+            "paragraphs": [
+              "[Get Funky](#/song/the-beatnuts-get-funky)から[Props Over Here](#/song/props-over-here)へ。Fashionの回想では、レーベルが求めるラジオ向けの曲と、自分たちが押したい曲は一致していなかった。Psycho Lesも当初の抵抗と、その後に聴き手の支持で評価が変わったことを語っている。",
+              "二曲を並べると、シングル選びは完成後の事務作業ではなく、グループをどんな姿で紹介するかの選択に見える。自分ならどちらを最初にかけるか。作り手の結論をなぞるより、その迷いを聴く順番にしてみたい。"
+            ],
+            "sources": [
+              3,
+              4
+            ]
+          },
+          {
+            "heading": "VOICES / 曲ごとに、居場所を変える",
+            "paragraphs": [
+              "[Let Off a Couple](#/song/the-beatnuts-let-off-a-couple)では、Psycho Lesは歌詞が浮かばず、短いコーラスを担当したと回想する。三人の参加を三等分する必要はない。その短い曲から[Off the Books](#/song/the-beatnuts-off-the-books)の客演との受け渡しへ進む。",
+              "Cuban Linkの証言では、Big Punとスタジオへ行ったことが参加につながり、以前に試した掛け合いを踏まえて書いたという。内側の役割分担から外の声との応酬へ。ビートだけでなく、人が集まった結果として曲の形が変わるところが、この順番の出口になる。"
+            ],
+            "sources": [
+              5,
+              6
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "label": "Sony Music Poland: Intoxicated Demons 30th-anniversary announcement",
+            "url": "https://newsroom.sonymusic.pl/263550-przygotujcie-sie-na-tegoroczna-edycje-rsd-black-friday"
+          },
+          {
+            "label": "Qobuz: Intoxicated Demons, track 9 credits",
+            "url": "https://www.qobuz.com/us-en/album/intoxicated-demons-the-ep-the-beatnuts/ajus5hfrny0cc"
+          },
+          {
+            "label": "Apple Music — 『Intoxicated Demons』曲順とジャケット",
+            "url": "https://music.apple.com/us/album/intoxicated-demons-the-ep/1641384858"
+          },
+          {
+            "label": "Unkut — Al’ Tariq aka Fashion本人インタビュー（2014）",
+            "url": "https://unkut.com/2014/11/al-tariq-aka-fashion-the-unkut-interview-part-one/"
+          },
+          {
+            "label": "Unkut — Psycho Les本人インタビュー（2015）",
+            "url": "https://unkut.com/2015/05/psycho-les-the-beatnuts-the-unkut-interview/"
+          },
+          {
+            "label": "Take It Personal — Street Level対談（2020年収録／2024年再掲）",
+            "url": "https://www.iheart.com/podcast/1150-take-it-personal-30487669/episode/take-it-personal-flashback-street-level-219850105/"
+          },
+          {
+            "label": "Sherron Shabazz — Cuban Link interview / HipHopDX, preserved by Rapchive",
+            "url": "https://rapchive.com/news/cuban-link-says-the-fat-joe-conflict-will-never-be-resolved/"
+          }
+        ],
+        "disclosure": "選曲順と聴きどころはCRATEDIGGIN’の編集上の提案です。制作当事者の回想、公式クレジット、編集上の聴き方を区別しています。全ディスコグラフィーや制作工程を網羅するものではありません。"
+      },
+      "scopeOwnNames": [
+        "The Beatnuts"
+      ],
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-the-beatnuts-tag-v1.webp",
+        "alt": "The Beatnuts — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      },
+      "readerFacingIntro": true
+    },
+    {
+      "id": "buckwild",
+      "name": "Buckwild",
+      "type": "producer",
+      "names": [
+        "Buckwild"
+      ],
+      "aliases": [],
+      "allYears": true,
+      "note": "公開確認済みの掲載録音から選んだ特集です。全ディスコグラフィーではありません。",
+      "listeningOrder": [
+        "put-it-on",
+        "o-c-born-2-live",
+        "oc-sharp-as-a-knife",
+        "street-smartz-problemz",
+        "tha-alkaholiks-daaam-buckwild-remix"
+      ],
+      "editorial": {
+        "format": "source-led-v1",
+        "title": "違う声に、違うループを。",
+        "deck": "Big L、O.C.、Street Smartz、Tha Alkaholiks。MCの選択とリミックスの役割から制作を辿る。",
+        "context": "Big L、O.C.、Street Smartz、Tha Alkaholiks。MCの選択とリミックスの役割から制作を辿る。",
+        "introduction": [
+          "Buckwildという名前を頼りに棚を並べ替えると、主役の違うレコードが隣になる。同じ音色を探すだけでなく、誰に何を渡したのかを聴く特集にしたい。"
+        ],
+        "sections": [
+          {
+            "heading": "PUT IT ON / 選ばれるビート",
+            "paragraphs": [
+              "[Put It On](#/song/put-it-on)について、BuckwildはBig Lをビート選びに厳しいMCだったと振り返る。その相手がこのビートにはすぐ反応したという。制作側の自信だけでなく、受け取る側の選択まで含めて一曲が始まる。",
+              "Buckwildの回想では、Big Lは時間をかけてヴァースを書き、Kid Capriがフックに加わった。言葉を詰める声と、人を参加させる声。ビートの上で二つの仕事がどう並ぶかを追ってみたい。"
+            ],
+            "sources": [
+              0,
+              1
+            ]
+          },
+          {
+            "heading": "O.C. / 代表作の隣を開く",
+            "paragraphs": [
+              "[Born 2 Live](#/song/o-c-born-2-live)でO.C.が語った出発点は、育った街区で経験した死だった。人生一般の題名として読む前に、本人が話す具体的な記憶へ立ち止まりたい。",
+              "次は[Sharp as a Knife](#/song/oc-sharp-as-a-knife)。O.C.名義のBandcampはBuckwild制作、1994年のデモと記す。2011年のEPで紹介された時期と、録音時期を分けながら、代表作の外へ残った声を聴く。二曲を並べるのは同じテーマだと断定するためではなく、同じ組み合わせの幅を見るためだ。"
+            ],
+            "sources": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "heading": "12 INCH / 原曲と、組み直す仕事",
+            "paragraphs": [
+              "[Problemz](#/song/street-smartz-problemz)では原盤ラベルにBuckwildの名が残る。Street Smartzの一枚を、B面の客演の豪華さだけでなくA面の制作欄から開いてみる。",
+              "[Daaam! (Buckwild Remix)](#/song/tha-alkaholiks-daaam-buckwild-remix)は別の役割だ。原曲制作のE-Swiftとリミックス担当のBuckwildを分けて読む。1995年の業界紙はリミックスのラジオでの動きにも触れている。別版は飾りではなく、曲を違う入口へ運ぶ仕事でもあった。"
+            ],
+            "sources": [
+              5,
+              6,
+              7,
+              8
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "label": "Okayplayer — Buckwild on How Put It On Became the Defining Big L Anthem",
+            "url": "https://www.okayplayer.com/behind-the-beat-buckwild-on-how-put-it-on-became-the-defining-big-l-anthem/579861"
+          },
+          {
+            "label": "YouKnowIGotSoul — Kid Capri on Memories of Big L",
+            "url": "https://youknowigotsoul.com/exclusive-kid-capri-on-upcoming-label-projects-memories-of-big-l"
+          },
+          {
+            "label": "O.C.本人インタビュー — Aaron Matthews / Passion of the Weiss",
+            "url": "https://www.powmag.net/p/question-in-the-form-of-an-answer-an-interview-and-bluffers-guide-to-the-music-of-o-c"
+          },
+          {
+            "label": "O.C.名義Bandcamp：Sharp As A Knife",
+            "url": "https://omarcredle.bandcamp.com/track/sharp-as-a-knife"
+          },
+          {
+            "label": "O.C. Demos and Vaulted Treasures — Werner von Wallenrod, May14 2011",
+            "url": "https://wernervonwallenrod.blogspot.com/2011/05/oc-demos-and-vaulted-treasures.html"
+          },
+          {
+            "label": "CRIM004 A面ラベル実画像",
+            "url": "https://www.cribrecords.jp/data/cribrecords/product/20190209_237001.jpg"
+          },
+          {
+            "label": "Problemz b/w Metal Thangz — Funky Dividends Records",
+            "url": "https://funkydividendsrecords.bandcamp.com/album/problemz-b-w-metal-thangz"
+          },
+          {
+            "label": "Slash Records: Daaam! Buckwild Remix US promo",
+            "url": "https://slash-record.com/?pid=168124810"
+          },
+          {
+            "label": "Hitmakers — Street Sheet（1995年3月3日号）",
+            "url": "https://device.report/m/b65098f89d8470202964440f846424c697832a619088806f30b41b6adc8e3451.pdf"
+          }
+        ],
+        "disclosure": "選曲順と聴きどころはCRATEDIGGIN’の編集上の提案です。制作当事者の回想、公式クレジット、編集上の聴き方を区別しています。全ディスコグラフィーや制作工程を網羅するものではありません。"
+      },
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-buckwild-tag-v1.webp",
+        "alt": "Buckwild — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      },
+      "readerFacingIntro": true
+    },
+    {
+      "id": "large-professor",
+      "name": "Large Professor",
+      "type": "producer",
+      "names": [
+        "Large Professor"
+      ],
+      "aliases": [],
+      "allYears": true,
+      "note": "公開確認済みの掲載録音から選んだ特集です。全ディスコグラフィーではありません。",
+      "listeningOrder": [
+        "nas-halftime",
+        "nas-it-ain-t-hard-to-tell",
+        "nas-rewind",
+        "large-professor-hungry"
+      ],
+      "editorial": {
+        "format": "source-led-v1",
+        "title": "Main Sourceの、その先へ。",
+        "deck": "Nasとの制作、デモから完成版への変化、自分の声。既存Main Source特集から別の名義へ進む。",
+        "context": "Nasとの制作、デモから完成版への変化、自分の声。既存Main Source特集から別の名義へ進む。",
+        "introduction": [
+          "Main Sourceを入口にしても、このページではそこに留まらない。グループの歴史ではなく、Large Professorが別の声と仕事をするとき、自分の作品へ戻るとき、その間を歩いてみる。"
+        ],
+        "sections": [
+          {
+            "heading": "HALFTIME / アルバムより前の一曲",
+            "paragraphs": [
+              "[Halftime](#/song/nas-halftime)は1994年のIllmaticより前、1992年の作品だ。Sonyの復刻告知とNas本人の回想を並べると、映画のサウンドトラックへ提供した録音からアルバムへ続く道が見えてくる。",
+              "Large ProfessorとBusta Rhymesの回想は、同じビートでも誰が引き受けるかで結果が変わることを教える。Bustaは使う機会があっても乗せ方を思いつかなかったと語った。後から知る名曲の必然性を、いったん外して聴いてみたい。"
+            ],
+            "sources": [
+              0,
+              1,
+              2
+            ]
+          },
+          {
+            "heading": "REWORK / 骨格を残し、細部を動かす",
+            "paragraphs": [
+              "[It Ain’t Hard to Tell](#/song/nas-it-ain-t-hard-to-tell)の制作を見たDJ Premierは、Large Professorが音に手を加え、新しいドラムを組んだと振り返る。完成曲の輪郭だけでなく、そこへ至る変更に目を向ける。",
+              "[Rewind](#/song/nas-rewind)へ進むと、今度は物語の順番が反転する。制作クレジットはLarge Professor。逆向きに辿る言葉と、その足元を聴き分けたい。ビートの構造まで逆再生だという意味ではない。"
+            ],
+            "sources": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "heading": "OWN VOICE / 自分の名で届ける",
+            "paragraphs": [
+              "最後は[Hungry](#/song/large-professor-hungry)。The LPは1990年代に制作されながら、予定どおりの発売に至らず、2002年の限定プロモ盤、2009年の正式発売という経緯を持つ。現在見える配信年だけでは、制作の時間を読み切れない。",
+              "他のMCに渡したビートから、自身がラップする曲へ戻る。ここでは制作家とMCを別人のように扱わず、誰の声を置くかが変わる一続きの仕事として聴いてみる。"
+            ],
+            "sources": [
+              6,
+              7,
+              8
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "label": "Sony Legacy Recordings — 1992年オリジナル12インチの復刻告知（2013-10-16）",
+            "url": "https://www.legacyrecordings.com/2013/10/16/legacy-recordings-announces-limited-edition-vinyl-exclusives-for-record-store-day-black-friday-friday-november-29-2013/"
+          },
+          {
+            "label": "Nas / NPR Microphone Check — Ali Shaheed Muhammad・Frannie Kelleyによる取材（2014-04-23、転載全文）",
+            "url": "https://www.northcountrypublicradio.org/news/npr/305629896/"
+          },
+          {
+            "label": "XXL — An Oral History of Nas’ Illmatic（2009年4月号、2014-04-16ウェブ再掲）",
+            "url": "https://www.xxlmag.com/making-of-nas-illmatic/"
+          },
+          {
+            "label": "The FADER Uncovered：DJ Premier本人インタビュー",
+            "url": "https://www.thefader.com/2021/11/01/dj-premier-on-gang-starr-80s-synth-pop-and-biggies-comedic-side"
+          },
+          {
+            "label": "Apple Music — Rewindの制作クレジット",
+            "url": "https://music.apple.com/us/song/868691285"
+          },
+          {
+            "label": "Westword — Nas本人が語る逆順の物語と音楽観",
+            "url": "https://www.westword.com/music/fighting-the-power-5069453/"
+          },
+          {
+            "label": "P-VINE — The LP 正式発売情報",
+            "url": "https://p-vine.jp/music/pcd-93253"
+          },
+          {
+            "label": "NPR / KUNC — Large Professor本人インタビュー",
+            "url": "https://www.kunc.org/2015-08-20/large-professor-part-2-i-really-live-through-this-music"
+          },
+          {
+            "label": "RapReviews — 2003年1月の同時代レビュー",
+            "url": "https://www.rapreviews.com/2003/01/large-professor-the-lp/"
+          }
+        ],
+        "disclosure": "選曲順と聴きどころはCRATEDIGGIN’の編集上の提案です。制作当事者の回想、公式クレジット、編集上の聴き方を区別しています。全ディスコグラフィーや制作工程を網羅するものではありません。"
+      },
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-large-professor-tag-v1.webp",
+        "alt": "Large Professor — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      },
+      "readerFacingIntro": true
+    },
+    {
+      "id": "black-moon",
+      "name": "Black Moon",
+      "type": "artist",
+      "names": [
+        "Black Moon"
+      ],
+      "aliases": [],
+      "allYears": true,
+      "note": "公開確認済みの掲載録音から選んだ特集です。全ディスコグラフィーではありません。",
+      "listeningOrder": [
+        "black-moon-who-got-da-props",
+        "black-moon-u-da-man",
+        "black-moon-i-got-cha-opin-remix",
+        "black-moon-reality-killing-every",
+        "black-moon-murder-mcs"
+      ],
+      "editorial": {
+        "format": "source-led-v1",
+        "title": "アルバムの外にも、夜は続く。",
+        "deck": "代表曲から1994年の別版とB面へ。曲名だけでは見えないBlack Moonの棚を辿る。",
+        "context": "代表曲から1994年の別版とB面へ。曲名だけでは見えないBlack Moonの棚を辿る。",
+        "introduction": [
+          "一枚のアルバムを聴き終えても、グループの同じ時期は終わらない。12インチの裏面、リミックス、後年の収録先。版を区別すると、知っているはずの名前からもう一曲へ進める。"
+        ],
+        "sections": [
+          {
+            "heading": "LOOP / 終わりの一片を聴く",
+            "paragraphs": [
+              "[Who Got da Props](#/song/black-moon-who-got-da-props)についてDJ Evil Deeは、Ronnie LawsのTidal Waveから取った部分を三度繰り返し、最後に別の部分を入れたとRBMAで説明している。素材名だけではなく、どこで違う音へ移るかを手がかりに戻ってみたい。",
+              "[U Da Man](#/song/black-moon-u-da-man)は1993年の原アルバムの音源を選ぶ。後のDJ Evil Dee Remixへ勝手に読み替えず、まずアルバムにある声の集まりを受け止める。"
+            ],
+            "sources": [
+              0,
+              1
+            ]
+          },
+          {
+            "heading": "REVERSE SIDE / 表の名前から、裏の曲へ",
+            "paragraphs": [
+              "[I Got Cha Opin (Remix)](#/song/black-moon-i-got-cha-opin-remix)はEnta da Stageの同名曲と別版。Evil Deeが語るBarry Whiteの素材の扱いを読むと、目立つフレーズ以外の音にも注意が向く。",
+              "その12インチの裏へ進むと[Reality (Killing Every...)](#/song/black-moon-reality-killing-every)がある。ここで選ぶのはVocal Mixで、Instrumentalとは別。表側の曲だけを集めていると見落とす棚を、盤の構成から開いてみたい。"
+            ],
+            "sources": [
+              2,
+              3
+            ]
+          },
+          {
+            "heading": "ANOTHER SIDE / 曲の来歴と、人の来歴",
+            "paragraphs": [
+              "[Murder MC’s](#/song/black-moon-murder-mcs)も、1994年のシングルB面から辿れる曲だ。後の編集盤で知った曲を元の盤へ戻すと、同じ曲でも出会う隣人が変わる。",
+              "BuckshotはRBMAで、メンバーがBrooklynの異なる地域で育ったことを語る。ただし、その来歴からこの曲の制作場所や担当者は決められない。街の名前で音をひと括りにせず、盤と曲ごとの記録を残して聴く。それがこの棚を広げる方法になる。"
+            ],
+            "sources": [
+              4,
+              0
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "label": "Red Bull Music Academy — Black Moon lecture (2011)",
+            "url": "https://www.redbullmusicacademy.com/lectures/black-moon-lecture/"
+          },
+          {
+            "label": "Enta Da Stage — Apple Music",
+            "url": "https://music.apple.com/us/album/enta-da-stage/1500489652"
+          },
+          {
+            "label": "Albumism — Da Beatminerz interview (2024)",
+            "url": "https://albumism.com/interviews/sustained-creativity-a-conversation-with-da-beatminerz"
+          },
+          {
+            "label": "Reality — Black Moon / Nervous Bandcamp",
+            "url": "https://black-moon.bandcamp.com/track/reality-killing-every"
+          },
+          {
+            "label": "Black Moon — Buck Em Down 12-inch",
+            "url": "https://www.turntablelab.com/products/black-moon-buck-em-down-12"
+          }
+        ],
+        "disclosure": "選曲順と聴きどころはCRATEDIGGIN’の編集上の提案です。制作当事者の回想、公式クレジット、編集上の聴き方を区別しています。全ディスコグラフィーや制作工程を網羅するものではありません。"
+      },
+      "scopeOwnNames": [
+        "Black Moon"
+      ],
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-black-moon-tag-v1.webp",
+        "alt": "Black Moon — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      },
+      "readerFacingIntro": true
+    },
+    {
+      "id": "common",
+      "name": "Common",
+      "type": "artist",
+      "names": [
+        "Common"
+      ],
+      "aliases": [],
+      "allYears": true,
+      "note": "公開確認済みの掲載録音から選んだ特集です。全ディスコグラフィーではありません。",
+      "listeningOrder": [
+        "resurrection",
+        "common-the-light",
+        "common-the-corner",
+        "common-celebrate"
+      ],
+      "editorial": {
+        "format": "source-led-v1",
+        "title": "声は続く。ビートは変わる。",
+        "deck": "No I.D.、J Dilla、Kanye West。その名前の交代を、Commonが言葉を届ける方法から聴く。",
+        "context": "No I.D.、J Dilla、Kanye West。その名前の交代を、Commonが言葉を届ける方法から聴く。",
+        "introduction": [
+          "プロデューサーを辿るときは、違うMCの曲を横断する。このページでは逆に、Commonの声を真ん中に置く。同じ人が、違う共同作業の中で何を残し、何を変えるのかを追う。"
+        ],
+        "sections": [
+          {
+            "heading": "RESURRECTION / 一節から、言葉の場所へ",
+            "paragraphs": [
+              "[Resurrection](#/song/resurrection)のピアノについて、University Musical SocietyはAhmad Jamalの長い演奏の途中からNo I.D.が切り取った数秒を紹介している。元曲を知るだけでなく、前後がある音楽から短い反復を作る行為へ耳を向けたい。",
+              "その反復の上を言葉が進む。ここではサンプルの知識をゴールにせず、Commonが一文をどこで区切るかを聴く足場にする。原曲へ戻る時間と、ラップだけを追う時間を分けると、同じ一曲の入口が二つになる。"
+            ],
+            "sources": [
+              0,
+              1
+            ]
+          },
+          {
+            "heading": "THE LIGHT / 書き終わる前の声",
+            "paragraphs": [
+              "[The Light](#/song/common-the-light)についてCommonは、歌詞の空いたところをリズムで補いながら先に録音したと振り返る。後から言葉を入れ、何度録り直しても最初のテイクを越えられなかったという。完成した文章と、よい声の瞬間は同じタイミングで来るとは限らない。",
+              "J Dilla制作という接点から来た人も、ここではビートの分析だけで止まらず、録り直さなかった声の判断へ進みたい。曲に残る自然さを、生まれつきの気楽さと決めつけないための証言だ。"
+            ],
+            "sources": [
+              2
+            ]
+          },
+          {
+            "heading": "THE CORNER / 街角に、別の世代を招く",
+            "paragraphs": [
+              "[The Corner](#/song/common-the-corner)はThe Last Poetsも参加する2005年のBe収録曲。公式音源のクレジットから、CommonとKanye Westだけで完結しない声の関係を読む。街角という題名を、異なる世代が出会う場所として聴く入口にしたい。",
+              "最後は[Celebrate](#/song/common-celebrate)へ。2011年にNo I.D.へ戻った共同作業についてCommonは、最初から全曲を任せる計画ではなく、日々の制作がその形へなったと説明している。出発点への単純な回帰ではなく、時間を経た二人がもう一度作る過程として辿る。"
+            ],
+            "sources": [
+              3,
+              4,
+              5
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "label": "University Musical Society — Ahmad Jamalとヒップホップ",
+            "url": "https://ums.org/2011/09/14/ahmad-jamal-sampled-into-the-hearts-of-hip-hop/"
+          },
+          {
+            "label": "Complex — The Making of Common’s Resurrection（Common本人の回想）",
+            "url": "https://www.complex.com/music/a/insanulahmed/the-making-of-commons-resurrection"
+          },
+          {
+            "label": "Common — The Making of The Light / RapIndustry",
+            "url": "https://rapindustry.com/common-the-making-of-the-light/"
+          },
+          {
+            "label": "YouTube — 公式音源・クレジット",
+            "url": "https://www.youtube.com/watch?v=B9g2z0i2qdQ"
+          },
+          {
+            "label": "Warner Music Japan — 公式曲目・No I.D.全曲制作",
+            "url": "https://wmg.jp/common/discography/7936"
+          },
+          {
+            "label": "AllHipHop — Common本人が語るNo I.D.との再結集（2011年）",
+            "url": "https://allhiphop.com/news/common-talks-the-dreamer-the-believer-reuniting-with-no-i-d/"
+          }
+        ],
+        "disclosure": "選曲順と聴きどころはCRATEDIGGIN’の編集上の提案です。制作当事者の回想、公式クレジット、編集上の聴き方を区別しています。全ディスコグラフィーや制作工程を網羅するものではありません。"
+      },
+      "scopeOwnNames": [
+        "Common"
+      ],
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-common-tag-v1.webp",
+        "alt": "Common — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      },
+      "readerFacingIntro": true
+    },
+    {
+      "id": "the-roots",
+      "name": "The Roots",
+      "type": "artist",
+      "names": [
+        "The Roots"
+      ],
+      "aliases": [],
+      "allYears": true,
+      "note": "公開確認済みの掲載録音から選んだ特集です。全ディスコグラフィーではありません。",
+      "listeningOrder": [
+        "the-roots-distortion-to-static",
+        "the-roots-proceed",
+        "the-roots-push-up-ya-lighter",
+        "the-roots-you-got-me",
+        "the-roots-stay-cool"
+      ],
+      "editorial": {
+        "format": "source-led-v1",
+        "title": "演奏を、ヒップホップの言葉に。",
+        "deck": "楽器が加わる瞬間、MCの呼吸、録音後の処理。「生演奏」という一語の先へ進む。",
+        "context": "楽器が加わる瞬間、MCの呼吸、録音後の処理。「生演奏」という一語の先へ進む。",
+        "introduction": [
+          "バンドだから生々しい、と言ってしまう前に、何を演奏し、どう録り、どんな声を重ねたのかを分けてみる。The Rootsの制作証言は、その境目を行き来する聴き方を教えてくれる。"
+        ],
+        "sections": [
+          {
+            "heading": "RHODES / 途中から入ってきた音",
+            "paragraphs": [
+              "[Distortion To Static](#/song/the-roots-distortion-to-static)のイントロについて、QuestloveはScott Storchが買った中古のFender Rhodesを既存の曲に試した時期のことを語る。最初から決まったバンドの音ではなく、新しい楽器を合わせる過程で輪郭が変わった。",
+              "入口の音を聴いてから[Proceed](#/song/the-roots-proceed)へ。Black ThoughtはMalik Bとの即興の積み重ねと、狭い録音室でテープを回した記憶を話している。楽器だけでなく、MC同士の呼吸も現場で育つ演奏として受け取れる。"
+            ],
+            "sources": [
+              0,
+              1
+            ]
+          },
+          {
+            "heading": "GATE / 録ったまま、とは限らない",
+            "paragraphs": [
+              "[Push Up Ya Lighter](#/song/the-roots-push-up-ya-lighter)を例に、QuestloveはJoe Tarsiaから教わったゲート処理について説明する。余分な響きを切り、ドラムを引き締める工程だ。本人はDJ Premierへの目配せだったとも話している。",
+              "演奏した音を電子的な質感へ近づけるなら、生楽器とサンプラーを対立させる聴き方だけでは足りない。どの一打をどう処理したかは証言以上に補わず、音が録音の後でも作られていることへ注意を向けたい。"
+            ],
+            "sources": [
+              2
+            ]
+          },
+          {
+            "heading": "HANDOVER / 設計を、演奏へ渡す",
+            "paragraphs": [
+              "[You Got Me](#/song/the-roots-you-got-me)についてScott Storchは、Jill Scottとピアノで始め、その後に組んだドラムや鍵盤のベースを、HubとQuestloveが弾き直し、録り直したと語る。これは本人の制作回想であり、未確認の正式な制作名義をここで補完するものではない。",
+              "最後は[Stay Cool](#/song/the-roots-stay-cool)。曲別の制作欄にはMelvin “Chaos” Lewis、さらに録音・ミックスの担当が並ぶ。グループ名だけで全工程を一人に集約せず、演奏、設計、仕上げを受け渡す仕事として棚を閉じたい。"
+            ],
+            "sources": [
+              3,
+              4,
+              5
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "label": "Questlove — RBMA Seattle講演 (2005)",
+            "url": "https://www.redbullmusicacademy.com/lectures/uestlove-phrenology-of-hip-hop/"
+          },
+          {
+            "label": "Black Thought: My Life in 20 Songs / Jason Newman, Rolling Stone",
+            "url": "https://au.rollingstone.com/music/music-lists/roots-black-thought-songs-35967/theres-something-goin-on-1995-35969/"
+          },
+          {
+            "label": "Red Bull Music Academy — Give The Drummer Some: Questlove / J-Zone",
+            "url": "https://daily.redbullmusicacademy.com/2019/02/give-the-drummer-some-questlove/"
+          },
+          {
+            "label": "Scott Storch本人講演 — Red Bull Music Academy",
+            "url": "https://www.redbullmusicacademy.com/lectures/scott-storch-hits-dr-dre-fat-joe-the-roots/"
+          },
+          {
+            "label": "The Roots — UMG公式配信クレジット",
+            "url": "https://www.youtube.com/watch?v=KyQFEbcVO-c"
+          },
+          {
+            "label": "Qobuz — The Tipping Point曲別クレジット",
+            "url": "https://www.qobuz.com/us-en/album/the-tipping-point-the-roots/0007502101777"
+          }
+        ],
+        "disclosure": "選曲順と聴きどころはCRATEDIGGIN’の編集上の提案です。制作当事者の回想、公式クレジット、編集上の聴き方を区別しています。全ディスコグラフィーや制作工程を網羅するものではありません。"
+      },
+      "scopeOwnNames": [
+        "The Roots"
+      ],
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-the-roots-tag-v1.webp",
+        "alt": "The Roots — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      },
+      "readerFacingIntro": true
+    },
+    {
+      "id": "diamond-d",
+      "name": "Diamond D",
+      "type": "producer",
+      "names": [
+        "Diamond D"
+      ],
+      "aliases": [],
+      "allYears": true,
+      "note": "公開確認済みの掲載録音から選んだ特集です。全ディスコグラフィーではありません。",
+      "listeningOrder": [
+        "diamond-d-best-kept-secret",
+        "diamond-d-sally-got-a-one-track-mind",
+        "diamond-the-psychotic-neurotics-i-went-for-mine",
+        "diamond-the-psychotic-neurotics-pass-dat-shit",
+        "diamond-d-flowin"
+      ],
+      "editorial": {
+        "format": "source-led-v1",
+        "title": "マイクの前と、ビートの奥。",
+        "deck": "自身のラップ、Jazzy Jayとの共同制作、身近な仲間の参加。担当を分けると見えてくる一枚の広さ。",
+        "context": "自身のラップ、Jazzy Jayとの共同制作、身近な仲間の参加。担当を分けると見えてくる一枚の広さ。",
+        "introduction": [
+          "自分の名を掲げたアルバムでも、全部を一人で作ったとは限らない。Diamond Dを辿るこのページでは、本人の声と、隣で働く人の名前を一緒に残しておく。"
+        ],
+        "sections": [
+          {
+            "heading": "BEST KEPT SECRET / 音だけではない自己紹介",
+            "paragraphs": [
+              "[Best Kept Secret](#/song/diamond-d-best-kept-secret)は、Diamond Dによると元はUltimate Forceのアルバム用だった。別のMCへのビートを持参した場で、自分もラップすることを伝え、自作を聴かせたと回想している。",
+              "続けて[Sally Got a One Track Mind](#/song/diamond-d-sally-got-a-one-track-mind)へ。本人は幼い妹に向けて書いたと語る。制作家が自分の声を出す理由を、技量の披露だけでなく、誰へ話したかったかという点から考えてみたい。"
+            ],
+            "sources": [
+              0
+            ]
+          },
+          {
+            "heading": "I WENT FOR MINE / 師匠の名前を残す",
+            "paragraphs": [
+              "[I Went for Mine](#/song/diamond-the-psychotic-neurotics-i-went-for-mine)の当時のブックレットは、制作をJazzy Jay、共同制作をDiamond、スクラッチをMaster Teeと記す。アルバムの表にある名前だけで全員の仕事を塗りつぶさない。",
+              "DiamondはJazzy Jayから断片を組み合わせて独自のループを作ることを学んだ一方、この曲のループには意外さを感じたと話す。教えをそのまま当てはめるのではなく、一曲ごとの判断を残す。共同制作という言葉に具体的な人間関係を戻す聴き方だ。"
+            ],
+            "sources": [
+              1,
+              2
+            ]
+          },
+          {
+            "heading": "NEIGHBOURS / 近所から、別の声へ",
+            "paragraphs": [
+              "[Pass Dat Shit](#/song/diamond-the-psychotic-neurotics-pass-dat-shit)について、DiamondはFat Joeが通りの向かいに住み、契約前から一緒に仕事をしていたと振り返る。後の有名人同士の共演としてではなく、日常の距離が録音へ続いた場面として聴く。",
+              "最後は1997年の[Flowin’](#/song/diamond-d-flowin)。John Doughを迎えた本人作品へ移る。原作の1997年と、現在の公式配信にある再発表記を分けておきたい。自分で声を出しながら他の声も招く、その両方がこの特集の軸になる。"
+            ],
+            "sources": [
+              3,
+              4,
+              5
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "label": "Diamond D — Stunts, Blunts & Hip-Hop track-by-track / Unkut",
+            "url": "https://unkut.com/2014/02/track-by-track-diamond-d-breaks-down-the-stunts-blunts-hip-hop-album/"
+          },
+          {
+            "label": "Albumism — Jesse DuckerによるDiamond D本人インタビュー（2017年12月29日）",
+            "url": "https://albumism.com/interviews/the-enduring-duality-and-dynamism-of-hip-hop-legend-diamond-d"
+          },
+          {
+            "label": "Stunts, Blunts & Hip Hop — CDブックレット、曲1〜11",
+            "url": "https://www.thegoodoldayz.com/files/tgod/covers%20Discogs/s/stunts-blunts-hip-hop/discogs/stunts-blunts-hip-hop-600-600-4.jpg"
+          },
+          {
+            "label": "Unkut / Diamond D interview",
+            "url": "https://unkut.com/2014/02/diamond-d-the-unkut-interview/"
+          },
+          {
+            "label": "Dymond Mine — Diamond Dの活動歴",
+            "url": "https://www.dymondminerecords.com/html/artists.htm"
+          },
+          {
+            "label": "EMPIRE提供公式音源",
+            "url": "https://www.youtube.com/watch?v=4X0Sd1fM5kg"
+          }
+        ],
+        "disclosure": "選曲順と聴きどころはCRATEDIGGIN’の編集上の提案です。制作当事者の回想、公式クレジット、編集上の聴き方を区別しています。全ディスコグラフィーや制作工程を網羅するものではありません。"
+      },
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-diamond-d-tag-v1.webp",
+        "alt": "Diamond D — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      },
+      "readerFacingIntro": true
+    },
+    {
+      "id": "9th-wonder",
+      "name": "9th Wonder",
+      "type": "producer",
+      "names": [
+        "9th Wonder"
+      ],
+      "aliases": [],
+      "allYears": true,
+      "note": "公開確認済みの掲載録音から選んだ特集です。全ディスコグラフィーではありません。",
+      "listeningOrder": [
+        "little-brother-nighttime-maneuvers",
+        "little-brother-the-listening",
+        "masta-ace-good-ol-love",
+        "phonte-not-here-anymore",
+        "rapsody-power"
+      ],
+      "editorial": {
+        "format": "source-led-v1",
+        "title": "90年代の耳で、その先を聴く。",
+        "deck": "Little BrotherからPhonte、Masta Ace、Rapsodyへ。グループの中で始まった制作を、相手との関係から広げる。",
+        "context": "Little BrotherからPhonte、Masta Ace、Rapsodyへ。グループの中で始まった制作を、相手との関係から広げる。",
+        "introduction": [
+          "90年代の棚から次へ進むとき、年号だけで境界を引かなくていい。同じ作り手が誰と曲を作ったかを辿れば、知っているMCも、新しく聴く声も、一つの道に並べられる。"
+        ],
+        "sections": [
+          {
+            "heading": "THE LISTENING / グループの内側から",
+            "paragraphs": [
+              "[Nighttime Maneuvers](#/song/little-brother-nighttime-maneuvers)から[The Listening](#/song/little-brother-the-listening)へ。公式Deluxe Editionの曲順でも隣り合う二曲だ。本曲と別収録のインストゥルメンタルを混ぜず、声を伴うこの並びを入口にする。",
+              "表題曲の公式クレジットは、9th Wonderの制作に加えChaundon、Medianらの追加ヴォーカルも記す。グループの看板を読むだけでなく、声の参加者を拾うと、アルバムの周囲にいる人まで棚が広がる。"
+            ],
+            "sources": [
+              0,
+              1,
+              2
+            ]
+          },
+          {
+            "heading": "ACE / 世代をまたいで、一曲を作る",
+            "paragraphs": [
+              "[Good Ol Love](#/song/masta-ace-good-ol-love)はMasta Aceの2004年作A Long Hot Summerから。レーベルの公式映像は9th Wonder制作と明記する。活動歴の長いMCと次の世代の作り手という説明を、実際の一曲へ戻してみたい。",
+              "同年の取材でAceは若い才能の足場を作ることについて話している。ただし、その発言だけからこの曲の発注理由までは決めない。ここでは、声の進み方と反復の関係を聴き、世代という大きな言葉を耳で確かめる。"
+            ],
+            "sources": [
+              3,
+              4
+            ]
+          },
+          {
+            "heading": "REUNION / また作ること、新しく招くこと",
+            "paragraphs": [
+              "[Not Here Anymore](#/song/phonte-not-here-anymore)はPhonteのソロ作へ続く道。9th Wonderは2011年の取材で、長く話していなかった二人の再会と、互いに欲しい感触を理解する関係を語っている。グループの外へ進んでも、共同作業が途切れたままとは限らない。",
+              "[Power](#/song/rapsody-power)ではRapsody、Kendrick Lamar、Lance Skiiiwalkerに加え、Terrace Martinの鍵盤と編曲をクレジットから辿れる。9th Wonderという一本の糸を追いながら、曲を一人の功績に閉じない。ここから別の声の棚へ移ってほしい。"
+            ],
+            "sources": [
+              5,
+              6,
+              7
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "label": "Little Brother — The Listening Deluxe Edition",
+            "url": "https://littlebrother.bandcamp.com/album/the-listening-deluxe-edition"
+          },
+          {
+            "label": "Little Brother — The Listening 公式曲別クレジット",
+            "url": "https://littlebrother.bandcamp.com/track/the-listening"
+          },
+          {
+            "label": "Qobuz — The Listening 曲別制作クレジット",
+            "url": "https://www.qobuz.com/ie-en/album/the-listening-little-brother/wzpmhjykmri5b"
+          },
+          {
+            "label": "Below System Records — 公式映像と制作クレジット",
+            "url": "https://www.youtube.com/watch?v=Wjc_gPObZqQ"
+          },
+          {
+            "label": "RapReviews — Masta Ace本人インタビュー（2004年）",
+            "url": "https://rapreviews.com/interview/mastaace.html"
+          },
+          {
+            "label": "Phonte — Charity Starts at Home",
+            "url": "https://phonte.bandcamp.com/album/charity-starts-at-home"
+          },
+          {
+            "label": "XXL — 9th Wonder 制作インタビュー",
+            "url": "https://www.xxlmag.com/production-credit-9th-wonder-speaks-on-digging-for-samples-take-care-staying-in-his-lane/"
+          },
+          {
+            "label": "Apple Music — Powerの制作・演奏クレジット",
+            "url": "https://music.apple.com/us/song/1443204423"
+          }
+        ],
+        "disclosure": "選曲順と聴きどころはCRATEDIGGIN’の編集上の提案です。制作当事者の回想、公式クレジット、編集上の聴き方を区別しています。全ディスコグラフィーや制作工程を網羅するものではありません。"
+      },
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-9th-wonder-tag-v1.webp",
+        "alt": "9th Wonder — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      },
+      "readerFacingIntro": true
+    },
+    {
+      "id": "rza",
+      "name": "RZA",
+      "type": "producer",
+      "names": [
+        "RZA"
+      ],
+      "aliases": [],
+      "allYears": true,
+      "note": "公開確認済みの掲載録音から選んだ特集です。全ディスコグラフィーではありません。",
+      "listeningOrder": [
+        "wu-tang-clan-c-r-e-a-m",
+        "gza-liquid-swords",
+        "gza-duel-of-the-iron-mic",
+        "raekwon-ice-cream"
+      ],
+      "editorial": {
+        "format": "source-led-v1",
+        "title": "一人ずつの声に、別の部屋を。",
+        "deck": "Wu-Tangの集団像から、GZA、Raekwonのソロへ。完成までに人が加わり、曲が変わるところを辿る。",
+        "context": "Wu-Tangの集団像から、GZA、Raekwonのソロへ。完成までに人が加わり、曲が変わるところを辿る。",
+        "introduction": [
+          "既存のWu-Tang Clan特集から、今回は制作の側へ歩く。RZAの名前で曲を集めても、声の主役は同じではない。誰を招き、どこへ置いたかという判断を、当事者の回想から読んでみる。"
+        ],
+        "sections": [
+          {
+            "heading": "C.R.E.A.M. / まだ、足りなかったもの",
+            "paragraphs": [
+              "[C.R.E.A.M.](#/song/wu-tang-clan-c-r-e-a-m)は最初から今の形だったわけではない。RZAはGRAMMY.comで、RaekwonとInspectah Deckの段階から複数の形を経て、Method Manへフックを任せたと説明している。",
+              "ヴァースがよくても、曲として足りないものがある。作り手の役割を音の材料だけへ限定しなければ、覚えやすい声をどこへ置くかも制作になる。まず二人の語りを追い、次にフックが戻る場所へ耳を移してみたい。"
+            ],
+            "sources": [
+              0
+            ]
+          },
+          {
+            "heading": "LIQUID SWORDS / 昔の遊びを、今の曲へ",
+            "paragraphs": [
+              "[Liquid Swords](#/song/gza-liquid-swords)のフックは、GZAによれば1984年ごろにRZA、ODBとしていた掛け合いが元だ。長く書き込む普段とは違い、この曲ではビートを聴いてその場でラップしたとも振り返る。",
+              "[Duel of the Iron Mic](#/song/gza-duel-of-the-iron-mic)へ進む前に、GZAがRZAを言葉の順序やフロウにも意見を出すMCとして説明したことを覚えておきたい。共同作業全般への証言であり、この曲の全ヴァースをRZAが指示したという意味ではない。"
+            ],
+            "sources": [
+              1,
+              2
+            ]
+          },
+          {
+            "heading": "ICE CREAM / 見学者にも、出番がある",
+            "paragraphs": [
+              "[Ice Cream](#/song/raekwon-ice-cream)では、Cappadonnaは見学に来たスタジオでRZAに参加を促されたと回想する。RaekwonとGhostfaceのヴァースは既にあり、Method Manのフックは後から加わったという。",
+              "グループ名を外したソロ作品でも、制作は一対一に閉じない。曲の完成までに誰が入ってくるかを追うと、RZAを唯一の主人公にせずに、その制作の仕事を聴ける。ここからは、それぞれのMCの作品へ分かれていける。"
+            ],
+            "sources": [
+              3
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "label": "GRAMMY.com：RZA’s Constant Elevation（2022）",
+            "url": "https://www.grammy.com/news/rza-wu-tang-clan-bobby-digital-saturday-afternoon-kung-fu-theater-interview/"
+          },
+          {
+            "label": "Wax Poetics — David MaによるGZA取材（2014年初出、2021年再掲）",
+            "url": "https://magazine.waxpoetics.com/article/wu-tang-clans-gza-runs-down-every-track-off-liquid-swords/"
+          },
+          {
+            "label": "GZA — Liquid Swords二十周年インタビュー／SPIN",
+            "url": "https://www.spinmagazine.com/2015/11/gza-liquid-swords-20-years-anniversary-interview/"
+          },
+          {
+            "label": "Red Bull Music Academy — Wu-Tang Clan lecture",
+            "url": "https://www.redbullmusicacademy.com/lectures/wu-tang-lecture/"
+          }
+        ],
+        "disclosure": "選曲順と聴きどころはCRATEDIGGIN’の編集上の提案です。制作当事者の回想、公式クレジット、編集上の聴き方を区別しています。全ディスコグラフィーや制作工程を網羅するものではありません。"
+      },
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-rza-tag-v1.webp",
+        "alt": "RZA — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      },
+      "readerFacingIntro": true
+    },
+    {
+      "id": "prince-paul",
+      "name": "Prince Paul",
+      "type": "producer",
+      "names": [
+        "Prince Paul"
+      ],
+      "aliases": [],
+      "allYears": true,
+      "note": "公開確認済みの掲載録音から選んだ特集です。全ディスコグラフィーではありません。",
+      "listeningOrder": [
+        "de-la-soul-me-myself-and-i",
+        "de-la-soul-breakadawn",
+        "de-la-soul-area",
+        "3rd-bass-derelicts-of-dialect"
+      ],
+      "editorial": {
+        "format": "source-led-v1",
+        "title": "ひとりの署名に、閉じない制作。",
+        "deck": "De La Soulと3rd Bass。素材の持ち込み、構成、共同制作の境目からPrince Paulを聴く。",
+        "context": "De La Soulと3rd Bass。素材の持ち込み、構成、共同制作の境目からPrince Paulを聴く。",
+        "introduction": [
+          "プロデューサー特集だからこそ、本人の名だけで説明しない。Prince Paulの曲を辿ると、メンバーが持ってきた素材や、相手に既にあった構想が見えてくる。そこへ何を加えたかが、このページの問いになる。"
+        ],
+        "sections": [
+          {
+            "heading": "ME MYSELF AND I / 素材を持ち込んだ人",
+            "paragraphs": [
+              "[Me Myself and I](#/song/de-la-soul-me-myself-and-i)で使われたKnee Deepは、Maseoが持ち込んだ素材だった。Prince Paulは1990年の取材で、レーベルから親しみやすい曲を求められ、そこへドラムと構成を加えたと説明している。",
+              "最初から全員が同じ気持ちだったわけではない。後年の本人たちの取材には、それぞれの温度差が残る。商業的な選択か純粋な表現か、どちらか一方に決めず、同じ一曲へ違う希望が集まったことを聴く入口にしたい。"
+            ],
+            "sources": [
+              0,
+              1
+            ]
+          },
+          {
+            "heading": "BREAKADAWN / 発想の出発点を残す",
+            "paragraphs": [
+              "[Breakadawn](#/song/de-la-soul-breakadawn)の音の組み合わせについて、Posdnuosは部屋で聴いたMichael Jacksonと、頭に浮かんだSmokey Robinsonの歌声を結びつけたと話す。制作欄の代表名だけを追うと、こうした発想の出発点が消えてしまう。",
+              "[Area](#/song/de-la-soul-area)の公式クレジットもDe La SoulとPrince Paulを並べ、ミックスにはBob Powerが加わる。個々の音を誰が担当したかまでは、この表記から割り振らない。複数の役割が一曲へ集まること自体を残しておく。"
+            ],
+            "sources": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "heading": "3RD BASS / 既にある構想へ、応える",
+            "paragraphs": [
+              "最後は[Derelicts of Dialect](#/song/3rd-bass-derelicts-of-dialect)へ。Pete Niceの回想では、3rd Bass側にあった構想へPrince Paulが9th Creationのループを持ってきた。完成済みのビートを一方通行で渡すだけではない共同作業だった。",
+              "De La Soulの外へ出ても、見たいのは共同作業の手順だ。相手が持っているものを受け、何を返すか。制作家の個性を同じ音の繰り返しで測るより、その応答の仕方から辿ってみたい。"
+            ],
+            "sources": [
+              5
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "label": "Music Technology — Prince Paul本人への取材（1990）",
+            "url": "https://www.muzines.co.uk/articles/soul-sonic-force/293?theme=2"
+          },
+          {
+            "label": "GQ — De La Soul Picks Their Favorite (and/or Most Hated) Tracks（本人たちのインタビュー）",
+            "url": "https://www.gq.com/story/de-la-soul-albums-streaming-favorite-songs-dave-jolicoeur-trugoy-the-dove"
+          },
+          {
+            "label": "Soul Sides — Buhloone Bonus Beats / Oliver Wang's original interviews",
+            "url": "https://soul-sides.com/2013/12/buhloone-bonus-beats.html"
+          },
+          {
+            "label": "Apple Music — Breakadawn credits",
+            "url": "https://music.apple.com/us/song/1664590462"
+          },
+          {
+            "label": "WeAreDeLaSoul — Area",
+            "url": "https://www.youtube.com/watch?v=QX159d-nGO0"
+          },
+          {
+            "label": "Pete Nice / Ryan Proctor — Old To The New Q&A Part Three",
+            "url": "https://oldtothenew.wordpress.com/2013/04/20/old-to-the-new-qa-prime-minister-pete-nice-part-three/"
+          }
+        ],
+        "disclosure": "選曲順と聴きどころはCRATEDIGGIN’の編集上の提案です。制作当事者の回想、公式クレジット、編集上の聴き方を区別しています。全ディスコグラフィーや制作工程を網羅するものではありません。"
+      },
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-prince-paul-tag-v1.webp",
+        "alt": "Prince Paul — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      },
+      "readerFacingIntro": true
+    },
+    {
+      "id": "krs-one",
+      "name": "KRS-One",
+      "type": "artist",
+      "names": [
+        "KRS-One"
+      ],
+      "aliases": [],
+      "allYears": true,
+      "note": "公開確認済みの掲載録音から選んだ特集です。全ディスコグラフィーではありません。",
+      "listeningOrder": [
+        "krs-one-sound-of-da-police",
+        "krs-one-the-mc",
+        "krs-one-step-into-a-world",
+        "krs-one-uh-oh"
+      ],
+      "editorial": {
+        "format": "source-led-v1",
+        "title": "声の強さを、出会ったビートから。",
+        "deck": "Showbiz、Domingo、Jesse Westとの仕事。MCが選ぶこと、言葉を置くことで変わる一曲。",
+        "context": "Showbiz、Domingo、Jesse Westとの仕事。MCが選ぶこと、言葉を置くことで変わる一曲。",
+        "introduction": [
+          "声が強い、と評するだけでは、曲がどう生まれたかは見えない。KRS-Oneの制作に関わった人の回想を辿り、候補のビートが彼の曲になる瞬間を探す。"
+        ],
+        "sections": [
+          {
+            "heading": "SOUND OF DA POLICE / 二つの未採用が出会う",
+            "paragraphs": [
+              "[Sound of da Police](#/song/krs-one-sound-of-da-police)の歌詞について、KRS-Oneはツアー中の東京の空港で書いたと話す。元はHeather Bのためで、彼女は録音したものの自分に合わないと判断したという。",
+              "一方、ShowbizがFreddie Foxxxへ用意したビートも採用されなかった。KRSはそれを聴いて先の言葉を合わせた。後から聴けば切り離せない曲も、言葉と伴奏は別々の道を通っていた。その接点から聴き直したい。"
+            ],
+            "sources": [
+              0
+            ]
+          },
+          {
+            "heading": "THE MC / 選んだ人の曲になる",
+            "paragraphs": [
+              "[The MC](#/song/krs-one-the-mc)の制作を担うDomingoは、KRSがビートテープから選んだと回想する。同じテープの候補はFat Joe側にも渡っていたが、そこでは選ばれなかったという。どの曲になるかは、渡した時点では決まっていない。",
+              "ここではMCという役割そのものを語る声を追いたい。Domingoの証言は、ビートの価値を競う逸話というより、どのMCが自分の言葉の置き場を見つけたかという話として読むと面白い。"
+            ],
+            "sources": [
+              1,
+              2
+            ]
+          },
+          {
+            "heading": "STEP INTO A WORLD / 声を重ねて、評価が変わる",
+            "paragraphs": [
+              "[Step into a World](#/song/krs-one-step-into-a-world)のビートを最初に聴いたKenny Parkerは、Jesse Westの案に強く惹かれなかったと回想する。ところが、翌日歌が加わった版を聴いて評価を変えたという。",
+              "ビートだけの第一印象が、そのまま曲の結論になるとは限らない。最後に[Uh Oh](#/song/krs-one-uh-oh)へ移り、今度はKRS自身が制作欄に立つ一曲を聴く。誰の音を選ぶかと、自分で何を絞るか。MCとしての判断を両側から辿る順番だ。"
+            ],
+            "sources": [
+              3,
+              4
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "label": "Eric Ducker — Sound of Da Police / LEVEL",
+            "url": "https://www.levelman.com/how-krs-ones-sound-of-da-police-went-from-anti-cop-anthem-to-theme-song-and-back-again-8ad757473bd9/"
+          },
+          {
+            "label": "Jive/Legacy official audio credits",
+            "url": "https://www.youtube.com/watch?v=2H9L3yNe6p8"
+          },
+          {
+            "label": "VALIDATED — Domingoインタビュー「Brooklyn Legend」（2023）",
+            "url": "https://www.validatedmagazine.com/music-1/2023/2/20/brooklyn-legend-domingo"
+          },
+          {
+            "label": "Kenny Parker本人インタビュー — Unkut / Robbie Ettelson",
+            "url": "https://unkut.com/2006/10/the-kenny-parker-show-part-3/"
+          },
+          {
+            "label": "Qobuz — 曲別クレジット",
+            "url": "https://www.qobuz.com/us-en/album/return-of-the-boom-bap-krs-one/0012414151728"
+          }
+        ],
+        "disclosure": "選曲順と聴きどころはCRATEDIGGIN’の編集上の提案です。制作当事者の回想、公式クレジット、編集上の聴き方を区別しています。全ディスコグラフィーや制作工程を網羅するものではありません。"
+      },
+      "scopeOwnNames": [
+        "KRS-One"
+      ],
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-krs-one-tag-v1.webp",
+        "alt": "KRS-One — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      },
+      "readerFacingIntro": true
+    },
+    {
+      "id": "mos-def",
+      "name": "Mos Def",
+      "type": "artist",
+      "names": [
+        "Mos Def"
+      ],
+      "aliases": [],
+      "allYears": true,
+      "note": "公開確認済みの掲載録音から選んだ特集です。全ディスコグラフィーではありません。",
+      "listeningOrder": [
+        "mos-def-universal-magnetic",
+        "mos-def-got",
+        "mos-def-champion-requiem",
+        "mos-def-auditorium"
+      ],
+      "editorial": {
+        "format": "source-led-v1",
+        "title": "一枚の12インチから、その先へ。",
+        "deck": "Universal Magnetic、Black on Both Sides、Madlibとの接点。曲ごとに違う作り手を、同じ声で辿る。",
+        "context": "Universal Magnetic、Black on Both Sides、Madlibとの接点。曲ごとに違う作り手を、同じ声で辿る。",
+        "introduction": [
+          "後の代表作から過去を見下ろすのではなく、まず一枚のシングルで立ち止まる。そこからアルバム、さらに別の制作家の作品へ。Mos Defの声が、棚と棚の間を繋いでくれる。"
+        ],
+        "sections": [
+          {
+            "heading": "RAWKUS / ラジオに残る、小さな記録",
+            "paragraphs": [
+              "[Universal Magnetic](#/song/mos-def-universal-magnetic)は、1997年7月27日付KZSUのヒップホップ・チャートで3位に記録されている。Rawkusの12インチという形まで残った資料だ。大きな歴史より先に、その週にかけられていた一枚として出会える。",
+              "原盤には歌入りとインストゥルメンタルが並ぶ。ただし、この選曲ルートでは公開済みの歌入りを辿り、別版を同じ音源とは扱わない。声を覚えてから、声の止まる間に何が残るかへ注意を移してみたい。"
+            ],
+            "sources": [
+              0,
+              1
+            ]
+          },
+          {
+            "heading": "GOT / アルバムを、共同作業の単位で読む",
+            "paragraphs": [
+              "[Got](#/song/mos-def-got)の正規配信クレジットにはAli Shaheed Muhammadの制作が記されている。Black on Both Sidesという一つの作品の中にも、曲ごとに違う組み合わせがある。",
+              "[Champion Requiem](#/song/mos-def-champion-requiem)では制作は88 Keys。こちらは2004年のThe New Dangerからだ。初期の人間関係を感じても、時代や作品を同じ箱へ押し込まず、一曲ずつ制作の名前を読み直す。"
+            ],
+            "sources": [
+              2,
+              3
+            ]
+          },
+          {
+            "heading": "AUDITORIUM / 声が入る前へ、戻ってみる",
+            "paragraphs": [
+              "[Auditorium](#/song/mos-def-auditorium)についてStones Throwは、Mos DefとSlick RickがMadlibのMovie Finaleに乗る曲として紹介している。制作名の一致だけでなく、Beat Konducta in Indiaという具体的な作品へ戻れる接点だ。",
+              "このルートの終わりを、別の作り手の棚への出口にする。既にある音楽へ語り手が加わったとき、自分が追うものはどう変わるか。Madlibの既存特集へ移る前に、二人の声が場面をどう引き受けるかを聴いてみたい。"
+            ],
+            "sources": [
+              4
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "label": "KZSU Stanford — Chart for week ending July 27, 1997",
+            "url": "https://kzsu.stanford.edu/archives/charts/1997/97-07-27.html/"
+          },
+          {
+            "label": "Vinyl Cycle — The Universal Magnetic / Rawkus 12-inch",
+            "url": "https://vinylcycle.com/?pid=170596339"
+          },
+          {
+            "label": "Black On Both Sides — Qobuz",
+            "url": "https://www.qobuz.com/us-en/album/black-on-both-sides-mos-def/0000881129052"
+          },
+          {
+            "label": "YouTube — 公式音源・クレジット",
+            "url": "https://www.youtube.com/watch?v=bwByioixEmU"
+          },
+          {
+            "label": "Stones Throw / The Ecstatic",
+            "url": "https://www.stonesthrow.com/news/mos-def-the-ecstatic/"
+          }
+        ],
+        "disclosure": "選曲順と聴きどころはCRATEDIGGIN’の編集上の提案です。制作当事者の回想、公式クレジット、編集上の聴き方を区別しています。全ディスコグラフィーや制作工程を網羅するものではありません。"
+      },
+      "scopeOwnNames": [
+        "Mos Def"
+      ],
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-mos-def-tag-v1.webp",
+        "alt": "Mos Def — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      },
+      "readerFacingIntro": true
+    },
+    {
+      "id": "da-beatminerz",
+      "name": "Da Beatminerz",
+      "type": "producer",
+      "names": [
+        "Da Beatminerz"
+      ],
+      "aliases": [],
+      "allYears": true,
+      "note": "公開確認済みの掲載録音から選んだ特集です。全ディスコグラフィーではありません。",
+      "listeningOrder": [
+        "black-moon-i-got-cha-opin-remix",
+        "bucktown",
+        "smif-n-wessun-sound-bwoy-bureill"
+      ],
+      "editorial": {
+        "format": "source-led-v1",
+        "title": "Black Moonから、隣のクルーへ。",
+        "deck": "同じ作り手の曲でも、受け取る声は違う。素材の組み方と、MCが選ぶまでの道を辿る。",
+        "context": "同じ作り手の曲でも、受け取る声は違う。素材の組み方と、MCが選ぶまでの道を辿る。",
+        "introduction": [
+          "Black Moonの特集が盤を裏返す旅なら、こちらは制作名を頼りに別のグループへ渡る旅。共通する質感を決めつける前に、音と声が出会った経緯から聴いてみる。"
+        ],
+        "sections": [
+          {
+            "heading": "REMIX / 目立つ断片の、さらに奥",
+            "paragraphs": [
+              "[I Got Cha Opin (Remix)](#/song/black-moon-i-got-cha-opin-remix)について、Evil DeeはMr. Waltと組んだビートのハイハット以外をBarry Whiteの音から作ったと回想する。歌のフレーズだけではなく、どこまで素材を拾ったかが話の中心になる。",
+              "ここではアルバム版でなく1994年のRemixを選ぶ。使われた曲名を知ったあと、低音やリズムの手がかりにも耳を移したい。特定の機材設定や工程まで、この回想から補うことはしない。"
+            ],
+            "sources": [
+              0
+            ]
+          },
+          {
+            "heading": "BUCKTOWN / 選ばれなかった先に、別の声",
+            "paragraphs": [
+              "[Bucktown](#/song/bucktown)についてTekは、ビートが元はHeltah Skeltah向けだったと語る。そこでは選ばれず、Smif-N-Wessunの曲になったという。作り手の名前が同じでも、受け取るMCが変われば別の一曲が始まる。",
+              "コーラスの声が増えた理由を尋ねられると、Tekは友人たちを呼び、夜が進むにつれ人が集まったのだろうと回想した。厳密に設計された演出と決めず、本人の記憶の留保も残して聴きたい。二人のラップだけではない周囲の声も、曲の輪郭になる。"
+            ],
+            "sources": [
+              1,
+              2
+            ]
+          },
+          {
+            "heading": "SOUND BWOY / 身近な耳を、録音へ招く",
+            "paragraphs": [
+              "[Sound Bwoy Bureill](#/song/smif-n-wessun-sound-bwoy-bureill)でSteeleが弟のTop Dogを招いた理由は、家でいつもレゲエを聴いていた人だったからだと本人は語る。自分たちだけで真似るのでなく、その感覚を持つ人へ声をかけた。",
+              "当時はまだラップしていなかったというTop Dogの参加を、客演名簿だけで終わらせない。ビートの制作、MCの選択、家で育った聴き方。その接点まで辿ると、制作チームの特集もスタジオの外へ広がっていく。"
+            ],
+            "sources": [
+              3,
+              1
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "label": "Albumism — Da Beatminerz interview (2024)",
+            "url": "https://albumism.com/interviews/sustained-creativity-a-conversation-with-da-beatminerz"
+          },
+          {
+            "label": "Playatuner — Tek interview (2017)",
+            "url": "https://playatuner.com/2017/05/tek-of-smif-n-wessun-interview/"
+          },
+          {
+            "label": "Nervous Records — Bucktown 360 / 1994年のデビュー・シングル",
+            "url": "https://nervousrecords.bandcamp.com/album/bucktown-360"
+          },
+          {
+            "label": "Jesse Serwer — Smif-n-Wessun / LargeUp",
+            "url": "https://www.largeup.com/2011/06/28/heds-and-dreds-pt-2-exclusive-interview-with-smif-n-wessun/amp/"
+          }
+        ],
+        "disclosure": "選曲順と聴きどころはCRATEDIGGIN’の編集上の提案です。制作当事者の回想、公式クレジット、編集上の聴き方を区別しています。全ディスコグラフィーや制作工程を網羅するものではありません。"
+      },
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-da-beatminerz-tag-v1.webp",
+        "alt": "Da Beatminerz — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      },
+      "readerFacingIntro": true
     }
   ]
 }

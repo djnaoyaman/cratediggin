@@ -225,9 +225,10 @@ for stale in feature_dir.glob('*.html'):
     if stale.stem not in {f['id'] for f in features}:stale.unlink()
 for f in features:
     e=f['editorial'];esc=html.escape;selected=feature_tracks(f)
-    body='<h1>'+esc(f['name'])+'</h1>'+photo_header(f,BASE_PATH)+'<p>'+esc(feature_data['policy'])+'</p><p>'+esc(f.get('identityNote',''))+'</p><article class="prose"><h2>'+esc(e['title'])+'</h2>'
+    intro='<p class="intro">'+esc('音楽性と制作背景を、収録作品からたどる特集。'+work_count(selected)+'を年代順でたどります。')+'</p>' if f.get('readerFacingIntro') else '<p>'+esc(feature_data['policy'])+'</p>'
+    body='<h1>'+esc(f['name'])+'</h1>'+photo_header(f,BASE_PATH)+intro+'<p>'+esc(f.get('identityNote',''))+'</p><article class="prose"><h2>'+esc(e['title'])+'</h2>'
     if e.get('format')=='source-led-v1':
-        body='<h1>'+esc(f['name'])+'</h1>'+photo_header(f,BASE_PATH)+'<p>'+esc(feature_data['policy'])+'</p><p>'+esc(f.get('identityNote',''))+'</p>'+render_longform(e,BASE_PATH)
+        body='<h1>'+esc(f['name'])+'</h1>'+photo_header(f,BASE_PATH)+intro+'<p>'+esc(f.get('identityNote',''))+'</p>'+render_longform(e,BASE_PATH)
     else:
         for title,key in [('音楽性と背景','context'),('後世に残したもの','legacy'),('私の聴き方','listening'),('作品と系譜をたどる','connections')]:
             body+='<h3>'+title+'</h3><p>'+esc(e[key])+'</p>'
