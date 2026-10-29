@@ -14700,6 +14700,46 @@
         "sourceImage": "assets/graffiti/originals/erick-sermon-welcome-tag-original.png",
         "sourceSha256": "536cf4bac4df8bdcd8ed0609714b5d633db893f417bce31bca570408ae444fc3"
       }
+    },
+    {
+      "id": "black-moon-u-da-man",
+      "title": "U Da Man",
+      "artist": "Black Moon",
+      "album": "Enta Da Stage",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#B33122",
+        "#171214",
+        "#C29451",
+        "#254E36",
+        "#EEE4CA"
+      ],
+      "paletteSource": "Enta Da Stage licensed Apple cover, visually inspected2026-10-29 UTC.",
+      "paletteSourceURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/89/47/ef/8947efbe-09d2-80d2-0069-9199d0790dbd/091012493768.jpg/296x296bb.webp",
+      "paletteNote": "実画像の朱赤地、黒、金ベージュ文字、緑の帽子、クリーム白を目視近似。人物・服装・配置・既存ロゴは複製しない。",
+      "image": "assets/graffiti/black-moon-u-da-man-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/black-moon-u-da-man-tag-original.png",
+      "concept": "U DA MANとBLACK MOONの独自文字。正規カバーの配色のみ参照、人物・ロゴ・配置を複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          160,
+          62,
+          2117,
+          813
+        ],
+        "outputSha256": "b93ceeb4289092d158f67812eb4fa11ac54fce962f77b1f0c173e4a69240c1fa",
+        "sourceImage": "assets/graffiti/originals/black-moon-u-da-man-tag-original.png",
+        "sourceSha256": "03b4e8a2b82c6009feba7f3385d262110fabe04a4d2f351e1cd6567ff299b668"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

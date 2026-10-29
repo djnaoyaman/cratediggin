@@ -85542,5 +85542,142 @@
     ],
     "versionBasis": "1995原曲を紹介し、Aaron Hall/Keith Murray表記の本人公式動画を選択。原アルバムとのマスター一致と具体的edit名は未確認。",
     "addedOrder": 657
+  },
+  {
+    "id": "black-moon-u-da-man",
+    "title": "U Da Man",
+    "artist": "Black Moon",
+    "primaryArtist": "Black Moon",
+    "primaryArtists": [
+      "Black Moon"
+    ],
+    "artists": [
+      "Black Moon"
+    ],
+    "album": "Enta Da Stage",
+    "year": 1993,
+    "yearStatus": "verified",
+    "yearBasis": "Apple正規アルバム曲目とBeatport当該Original Mixが1993年を明示。2013単曲配信や後のリミックス盤と分ける。",
+    "region": "New York",
+    "regionBasis": "本人BandcampのNew Yorkプロフィールと、XXLの本人参加記事にあるBrooklynの三人組という記述。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Enta Da Stage — Apple Music",
+        "url": "https://music.apple.com/us/album/enta-da-stage/1500489652",
+        "kind": "実画面で1993、Nervous、U Da Man Explicit4:24とカバーを確認"
+      },
+      {
+        "label": "U Da Man (Original Mix) — Beatport",
+        "url": "https://www.beatport.com/track/u-da-man/164463",
+        "kind": "正規当該曲の1993年、Black Moon、Nervous、4:24表記"
+      },
+      {
+        "label": "Duck Down Records: All We Got Is Us — XXL",
+        "url": "https://www.xxlmag.com/duck-down-records-all-we-got-is-us-originally-published-julyaugust-2010/",
+        "kind": "Buckshot/Dru Ha本人参加記事。Brooklyn三人組とDru Haのアルバム全般の制作回想。別作品の誤年は採用しない"
+      },
+      {
+        "label": "Black Moon - U Da Man — NervousRecordsNYC",
+        "url": "https://www.youtube.com/watch?v=MyJYJZio3lI",
+        "kind": "実YouTube表示でレーベル投稿、Enta Da Stageへのリンク、4:25を確認"
+      },
+      {
+        "label": "Enta Da Stage 正規カバー",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/89/47/ef/8947efbe-09d2-80d2-0069-9199d0790dbd/091012493768.jpg/296x296bb.webp",
+        "kind": "Apple実ページの画像を取得し目視。配色のみ参照、人物とロゴは複製しない"
+      }
+    ],
+    "essayTitle": "レーベルの仕事も、スタジオの中へ。",
+    "deck": "Dru Haが振り返るEnta Da Stageの制作と、原アルバムのU Da Man。",
+    "essay": [
+      "Dru HaはEnta Da Stageを振り返り、スタジオの予約だけでなく、セッションに入り曲を組み立てる過程にも関わったと語っている。レーベル側の仕事と制作現場が近かったアルバムだ。U Da Manもその1993年作に収録。ここではNervousが公開した原アルバムの音源を選び、後のDJ Evil Dee Remixとは分けている。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2,
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "制作現場についての回想",
+        "text": "Dru Haのスタジオ予約、セッション参加、曲構成への関与はEnta Da Stage全般についての本人証言です。U Da Man個別の客演や制作クレジットの証明としては用いていません。",
+        "sources": [
+          2
+        ]
+      },
+      {
+        "title": "原アルバム版を選ぶ",
+        "text": "選択したNervousRecordsNYCの投稿は4:25でEnta Da Stageを案内しています。明示されたDJ Evil Dee RemixやInstrumentalとは区別。正規曲目4:24との1秒差だけで同一マスターとは認定していません。",
+        "sources": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "title": "原作1993、後年の配信と分ける",
+        "text": "1993年の原アルバムを基準に掲載。別の2013年単曲配信を初出年にはしていません。サイト内・日本での実音声再生可否は未確認です。",
+        "sources": [
+          0,
+          1,
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "原アルバム版とDJ Evil Dee Remixを区別して聴く。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "アルバム全般の本人証言と、当該曲の原盤・選択版情報を分ける。未確認の客演・制作担当・サンプル曲名を加えない。",
+    "art": {
+      "word": "U DA MAN",
+      "tag": "BLACK MOON",
+      "style": "tag",
+      "seed": 2026102921,
+      "palette": [
+        "#B33122",
+        "#171214",
+        "#C29451",
+        "#254E36",
+        "#EEE4CA"
+      ],
+      "paletteSource": "Enta Da Stage licensed Apple cover, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/89/47/ef/8947efbe-09d2-80d2-0069-9199d0790dbd/091012493768.jpg/296x296bb.webp",
+      "paletteNote": "実画像の朱赤地、黒、金ベージュ文字、緑の帽子、クリーム白を目視近似。人物・服装・配置・既存ロゴは複製しない。"
+    },
+    "youtube": {
+      "id": "MyJYJZio3lI",
+      "url": "https://www.youtube.com/watch?v=MyJYJZio3lI",
+      "embedUrl": "https://www.youtube.com/embed/MyJYJZio3lI",
+      "title": "Black Moon - U Da Man",
+      "channel": "NervousRecordsNYC",
+      "type": "レーベル公式 / Enta Da Stage収録版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 265,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実YouTube表示の曲名、NervousRecordsNYC、4:25、原アルバムへのリンクを確認。別のDJ Evil Dee Remix、Instrumental、後年Original Mix投稿と比較して選定。実音声・日本再生・原盤マスター一致は未検証。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 658
   }
 ]
