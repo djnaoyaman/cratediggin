@@ -88914,7 +88914,9 @@
       "T-Ray",
       "Ozomatli"
     ],
-    "moods": [],
+    "moods": [
+      "ディギング"
+    ],
     "collections": [
       "west"
     ],
@@ -89023,7 +89025,7 @@
         ]
       }
     ],
-    "datePublished": "2026-10-29",
+    "datePublished": "2026-10-30",
     "addedOrder": 682
   }
 ]
