@@ -84520,5 +84520,147 @@
     "datePublished": "2026-10-29",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 650
+  },
+  {
+    "id": "bahamadia-rugged-ruff",
+    "title": "Rugged Ruff",
+    "artist": "Bahamadia",
+    "primaryArtist": "Bahamadia",
+    "primaryArtists": [
+      "Bahamadia"
+    ],
+    "artists": [
+      "Bahamadia"
+    ],
+    "album": "Kollage",
+    "year": 1996,
+    "yearStatus": "verified",
+    "yearBasis": "UMG/Capitol公式配信の1996権利表記と再発レーベル提供文の原作1996年記載が一致。再発年2026やミックス年2016を曲の初出年に使わない。",
+    "region": "Pennsylvania",
+    "regionBasis": "本人BandcampのPhiladelphia, Pennsylvania表記。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Bahamadia - Topic — Rugged Ruff",
+        "url": "https://www.youtube.com/watch?v=OrYKESic7CI",
+        "kind": "UMG/Capitol公式音源。1996 Kollage、DJ Premier制作と作曲者を確認"
+      },
+      {
+        "label": "Bahamadia — artist profile",
+        "url": "https://bahamadia.bandcamp.com/",
+        "kind": "本人プロフィール。Philadelphia, Pennsylvania所在地を確認"
+      },
+      {
+        "label": "Be With — Kollage reissue notes",
+        "url": "https://wordandsound.net/release/148926-bewith166lp-Bahamadia-Kollage-2LP-2026-Repress",
+        "kind": "再発レーベル提供解説。原作1996年、Rugged RuffのPremier制作、本人のアルバム名の説明を確認。2026再発と原年を区別"
+      },
+      {
+        "label": "Kollage — Capitol licensed catalog",
+        "url": "https://www.prestomusic.com/jazz/products/8506482--kollage",
+        "kind": "正規配信カタログ。Rugged Ruff3:08とアルバム画像"
+      },
+      {
+        "label": "Kollage 正規配信アート",
+        "url": "https://d1iiivw74516uk.cloudfront.net/eyJidWNrZXQiOiJwcmVzdG8tY292ZXItaW1hZ2VzIiwia2V5IjoiODUwNjQ4Mi4xLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTAwfSwid2VicCI6eyJxdWFsaXR5Ijo2NX0sInRvRm9ybWF0Ijoid2VicCJ9LCJ0aW1lc3RhbXAiOjE3MjMwNjI2MjZ9",
+        "kind": "実画像の配色を目視。人物写真や本人の既存署名を複製しない"
+      }
+    ],
+    "essayTitle": "家族のレコードと、ラジオの先へ。",
+    "deck": "Kollageという名前には、聴いて育った音楽の幅がある。その中でRugged Ruffを手掛けるのはDJ Premier。",
+    "essay": [
+      "再発解説に収められた本人の説明では、家族のレコードやラジオを通して触れた多様な音楽が、Kollageというアルバム名につながっている。一つの型だけに収めず、聴いてきたものを持ち寄る。その作品の中で、Rugged Ruffの制作を担うのはDJ Premierだ。アルバム全体についての本人の言葉を入口にしつつ、この曲の具体的なサンプルや制作意図まで代弁することはしない。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "DJ Premierの制作",
+        "text": "公式UMG音源にProducer: DJ Premierと記載。作曲者欄にはAntonia ReedとKeith Elamが並びます。再発レーベルの曲別解説もPremier制作と記しています。",
+        "sources": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "原作は1996年",
+        "text": "Kollageの原作年は1996年。紹介に使ったBe Withの2026再発情報やDJ KIYOミックスの年とは分けています。",
+        "sources": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "Kollageの一曲として",
+        "text": "正規配信カタログのRugged Ruffは3:08。ここではアルバム全体ではなく、この一曲を選択しています。選択YouTubeの実測尺は未確認です。",
+        "sources": [
+          0,
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "本人のアルバム名の説明と、当該曲のPremierクレジットを別々の手掛かりにする。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "アルバム全体の本人説明と曲別producerを区別。全曲の録音場所やサンプル、曲別の意図を未確認のまま加えない。",
+    "art": {
+      "word": "RUGGED RUFF",
+      "tag": "BAHAMADIA",
+      "style": "tag",
+      "seed": 2026102914,
+      "palette": [
+        "#F3381D",
+        "#EDCE18",
+        "#121027",
+        "#F9EACA"
+      ],
+      "paletteSource": "Kollage licensed Capitol artwork viaPresto, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://d1iiivw74516uk.cloudfront.net/eyJidWNrZXQiOiJwcmVzdG8tY292ZXItaW1hZ2VzIiwia2V5IjoiODUwNjQ4Mi4xLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTAwfSwid2VicCI6eyJxdWFsaXR5Ijo2NX0sInRvRm9ybWF0Ijoid2VicCJ9LCJ0aW1lc3RhbXAiOjE3MjMwNjI2MjZ9",
+      "paletteNote": "実画像の赤、黄、暗い藍、クリームを目視近似。肖像・既存署名・アルバム配置を複製しない粗い独自文字。"
+    },
+    "youtube": {
+      "id": "OrYKESic7CI",
+      "url": "https://www.youtube.com/watch?v=OrYKESic7CI",
+      "embedUrl": "https://www.youtube.com/embed/OrYKESic7CI",
+      "title": "Rugged Ruff",
+      "channel": "Bahamadia - Topic",
+      "type": "公式配信 / Kollage収録版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "公式YouTubeの全文メタデータでUMG提供、1996Capitol、Kollage、DJ Premier制作、作曲者を確認。watch本文取得の技術失敗後は再試行せず。正規カタログ3:08を動画実測時間として使わない。実再生・日本再生・原盤マスター一致は未検証。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "producer": "DJ Premier",
+    "producers": [
+      "DJ Premier"
+    ],
+    "producerSources": [
+      0,
+      2
+    ],
+    "producerBasis": "UMG公式動画のProducerとBe With提供の再発解説で当該曲をDJ Premier制作と確認。",
+    "addedOrder": 651
   }
 ]

@@ -14425,6 +14425,45 @@
         "sourceImage": "assets/graffiti/originals/black-moon-murder-mcs-tag-original.png",
         "sourceSha256": "8866789f7a9ef29dce4020bebda42ba0d0b2ac098b642bfea614532e3bb6655e"
       }
+    },
+    {
+      "id": "bahamadia-rugged-ruff",
+      "title": "Rugged Ruff",
+      "artist": "Bahamadia",
+      "album": "Kollage",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#F3381D",
+        "#EDCE18",
+        "#121027",
+        "#F9EACA"
+      ],
+      "paletteSource": "Kollage licensed Capitol artwork viaPresto, visually inspected2026-10-29 UTC.",
+      "paletteSourceURL": "https://d1iiivw74516uk.cloudfront.net/eyJidWNrZXQiOiJwcmVzdG8tY292ZXItaW1hZ2VzIiwia2V5IjoiODUwNjQ4Mi4xLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTAwfSwid2VicCI6eyJxdWFsaXR5Ijo2NX0sInRvRm9ybWF0Ijoid2VicCJ9LCJ0aW1lc3RhbXAiOjE3MjMwNjI2MjZ9",
+      "paletteNote": "実画像の赤、黄、暗い藍、クリームを目視近似。肖像・既存署名・アルバム配置を複製しない粗い独自文字。",
+      "image": "assets/graffiti/bahamadia-rugged-ruff-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/bahamadia-rugged-ruff-tag-original.png",
+      "concept": "RUGGED RUFFとBAHAMADIAの粗い独自文字。正規Capitolカバー配色のみ参照、肖像や署名や既存配置を複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          123,
+          80,
+          1624,
+          1053
+        ],
+        "outputSha256": "96b752db36d357f23b4acdc532a37d996625cb1e139bdea43793e159a3a7ddea",
+        "sourceImage": "assets/graffiti/originals/bahamadia-rugged-ruff-tag-original.png",
+        "sourceSha256": "9b0d9a08cfa69d041fc7b87b4b4c438ab8aa6dca3ba3d51dd653c2d7ca5cd304"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
