@@ -15178,6 +15178,45 @@
         "sourceImage": "assets/graffiti/originals/science-of-sound-who-got-the-funk-tag-original.png",
         "sourceSha256": "f1caa73cae987601d661cb4bc2af23fd7464b5736d7d659ff42c1b4284ab87b7"
       }
+    },
+    {
+      "id": "godfather-don-piece-of-the-action",
+      "title": "Piece Of The Action",
+      "artist": "Godfather Don",
+      "album": "Piece Of The Action / Seeds Of Hate (12-inch single)",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#989898",
+        "#171717",
+        "#F2F1EB",
+        "#626262"
+      ],
+      "paletteSource": "Properties Of Steel — The Hydra Records Singles,2010 compilation artwork, visually inspected2026-10-29 UTC; not1997single or2014selectededition.",
+      "paletteSourceURL": "https://i.scdn.co/image/ab67616d0000e1a3ec65b9f61daf27a3f493844b",
+      "paletteNote": "実コンピ画像の灰地、黒文字、白縁を目視近似。既存ゴシック名義ロゴと文字配置は複製しない独自手描き。",
+      "image": "assets/graffiti/godfather-don-piece-of-the-action-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/godfather-don-piece-of-the-action-tag-original.png",
+      "concept": "PIECE OF THE ACTION / GODFATHER DONの独自手描き文字。2010Hydraコンピの灰黒白配色のみ参照、既存ゴシック名義ロゴを複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          120,
+          71,
+          1583,
+          936
+        ],
+        "outputSha256": "50920ea510cb74041e9786ca3711719f3d51ef855acf4e52df5c85841dd126f0",
+        "sourceImage": "assets/graffiti/originals/godfather-don-piece-of-the-action-tag-original.png",
+        "sourceSha256": "5dd64c9ceb4fa1341dbca6179a8f826ee425c7e64a4035ecbf5d60a453ff0d67"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

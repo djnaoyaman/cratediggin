@@ -87175,5 +87175,139 @@
       "Phife Dawg"
     ],
     "addedOrder": 669
+  },
+  {
+    "id": "godfather-don-piece-of-the-action",
+    "title": "Piece Of The Action",
+    "artist": "Godfather Don",
+    "primaryArtist": "Godfather Don",
+    "primaryArtists": [
+      "Godfather Don"
+    ],
+    "artists": [
+      "Godfather Don"
+    ],
+    "album": "Piece Of The Action / Seeds Of Hate (12-inch single)",
+    "year": 1997,
+    "yearStatus": "verified",
+    "yearBasis": "1997年5月5日HITSの同時代チャート検索索引とHYD-415現物目録索引を照合。PDF全文・原ラベル年は未目視。2010/2014後年コンピと区別。",
+    "region": "New York",
+    "regionBasis": "本人UnkutインタビューでBrooklynのBrownsvilleで育ち、その後Bushwick/Flatbushに移ったと述べる。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Godfather Don — The Unkut Interview",
+        "url": "https://unkut.com/2024/03/godfather-don-the-unkut-interview/",
+        "kind": "2024本人インタビュー全文。曲を名指しした回想、Hydra発売の経緯、Brooklynの本人地域証言"
+      },
+      {
+        "label": "HITS — 1997-05-05",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/Hits/90s/1997/Hits-1997-05-05.pdf",
+        "kind": "同時代チャートの検索索引で曲名/レーベルを確認。PDF全文は未読"
+      },
+      {
+        "label": "Piece Of The Action / Seeds Of Hate — HYD-415",
+        "url": "https://ticro.com/en/products/g00002800",
+        "kind": "現物販売目録の検索索引に1997/Clean/Dirty/Instrumental。本文取得は技術失敗、実ラベル未目視"
+      },
+      {
+        "label": "Properties Of Steel — Hydra Records",
+        "url": "https://open.spotify.com/track/62ByG18EHXYVL9v8cu0hQU",
+        "kind": "2010後年コンピの正規配信。実表示のアルバム画像を配色参照、原盤ではない"
+      },
+      {
+        "label": "Piece Of Action — Godfather Don - Topic",
+        "url": "https://www.youtube.com/watch?v=3NZUox_UE2M",
+        "kind": "Rapier Music提供Street Life2014版4:18を実表示比較。Clean/Dirty表示は未確認"
+      }
+    ],
+    "essayTitle": "シングルを狙っていたわけではなく。",
+    "deck": "本人が好きな二曲に挙げた、Hydraの12インチ。",
+    "essay": [
+      "Godfather Donは「Piece Of The Action」と「Seeds Of Hate」を、自分でも好きな二曲に挙げる。2024年のインタビューでは、友人のギタリストGodfrey Arthurに素材レコードを教わった経緯にも触れている。当時はまずアルバムのために音を作っていて、シングルを狙っていたわけではなかった。その素材がHydraの12インチとして世に出ていく。"
+    ],
+    "essaySources": [
+      [
+        0
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1997年のシングル記録",
+        "text": "同時代HITSチャートの検索索引とHYD-415の現物販売目録索引を照合し、1997年を採用しています。PDF全文や原ラベルを目視した確認とは区別します。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "選択音源は2014年配信版",
+        "text": "採用TopicはRapier Music提供、Street Life収録4:18。一般投稿4:10、内容・版未確定の6:44、全12インチ40分を比較しました。Clean/Dirtyの表記はなく、原1997年盤の特定ミックスや完全同一マスターとは断定していません。サイト内・日本での実音声再生は未確認です。",
+        "sources": [
+          2,
+          4
+        ]
+      },
+      {
+        "title": "参照ジャケットは別の後年コンピ",
+        "text": "アートの配色参照は2010年HydraのProperties Of Steel実ジャケットです。原1997年盤とも、選択した2014年Street Life配信とも区別します。後年収録を再録音とは扱いません。",
+        "sources": [
+          3,
+          4
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "本人が並べて挙げたPiece Of The ActionとSeeds Of Hateを、カップリングの二曲としてたどる。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "本人が名指しした二曲と当時の制作/発売回想を使用。Hazardous期の機材、未確認の具体的サンプル名、初発売日を補わない。",
+    "art": {
+      "word": "PIECE OF THE ACTION",
+      "tag": "GODFATHER DON",
+      "style": "tag",
+      "seed": 2026102933,
+      "palette": [
+        "#989898",
+        "#171717",
+        "#F2F1EB",
+        "#626262"
+      ],
+      "paletteSource": "Properties Of Steel — The Hydra Records Singles,2010 compilation artwork, visually inspected2026-10-29 UTC; not1997single or2014selectededition.",
+      "paletteSourceUrl": "https://i.scdn.co/image/ab67616d0000e1a3ec65b9f61daf27a3f493844b",
+      "paletteNote": "実コンピ画像の灰地、黒文字、白縁を目視近似。既存ゴシック名義ロゴと文字配置は複製しない独自手描き。"
+    },
+    "youtube": {
+      "id": "3NZUox_UE2M",
+      "url": "https://www.youtube.com/watch?v=3NZUox_UE2M",
+      "embedUrl": "https://www.youtube.com/embed/3NZUox_UE2M",
+      "title": "Piece Of Action",
+      "channel": "Godfather Don - Topic",
+      "type": "公式配信 / Street Life2014版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 258,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示でGodfather Don/Rapier Music/Street Life2014/4:18を確認。一般4:10/版未確定6:44/全12inch40分を比較。Clean/Dirty表示なし、原盤の特定mix・マスター一致・実音声・日本再生は未確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [],
+    "addedOrder": 670
   }
 ]
