@@ -83694,5 +83694,131 @@
     "datePublished": "2026-10-29",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 644
+  },
+  {
+    "id": "erick-sermon-boy-meets-world",
+    "title": "Boy Meets World",
+    "artist": "Erick Sermon feat. Rockwilder",
+    "primaryArtist": "Erick Sermon",
+    "primaryArtists": [
+      "Erick Sermon"
+    ],
+    "artists": [
+      "Erick Sermon",
+      "Rockwilder"
+    ],
+    "featuredArtists": [
+      "Rockwilder"
+    ],
+    "album": "Double Or Nothing",
+    "year": 1995,
+    "yearStatus": "verified",
+    "yearBasis": "本人Erick Sermon / Def SquadのBandcampがDouble Or Nothingを1995年11月7日と記載し、当該曲を第7曲に掲載。選択動画も同アルバム1995年の曲と説明。",
+    "region": "New York",
+    "regionBasis": "本人Bandcampの所在地表記New Yorkを採用。出生地・特定の街はここから推定しない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Erick Sermon / Def Squad — Double Or Nothing",
+        "url": "https://ericksermon.bandcamp.com/album/double-or-nothing",
+        "kind": "本人のアルバム公開ページ。1995年11月7日、第7曲のRockwilder客演と3:16、New York表記を確認"
+      },
+      {
+        "label": "BonKar ThuNder — Erick Sermon - Boy Meets World",
+        "url": "https://www.youtube.com/watch?v=rIjt0S6hwsY",
+        "kind": "一般ユーザーのアルバム曲投稿。実検索で曲名・演者・1995年Double Or Nothingの説明・表示3:21を確認。公式投稿ではない"
+      },
+      {
+        "label": "Double Or Nothing 公式アルバム画像",
+        "url": "https://f4.bcbits.com/img/a1420242002_10.jpg",
+        "kind": "本人Bandcampのalbum-art画像。実画像の配色のみ参照し、写真の眼・配置・既存書体は複製しない"
+      }
+    ],
+    "essayTitle": "スキットと、Welcomeのあいだ。",
+    "deck": "Rockwilderを迎える第7曲。In The Studioというスキットを抜け、次のWelcomeへ向かう途中に置かれたBoy Meets World。",
+    "essay": [
+      "曲だけを取り出す前に、Double Or Nothingの曲順を眺めてみる。第6曲はIn The Studio (Skit)、第7曲がRockwilderを迎えたBoy Meets World、そして第8曲はWelcome。スタジオという場所の名前から、世界に出会うという曲名へ。この並びを入口に、アルバムの中で一曲を聴く順番を選んでみたい。タイトルの連なりから編者が選ぶ聴き方であり、作者が語った物語や演出意図ではない。"
+    ],
+    "essaySources": [
+      [
+        0
+      ]
+    ],
+    "facts": [
+      {
+        "title": "Rockwilderの客演表記",
+        "text": "本人の公開曲目はBoy Meets World (Feat. Rockwilder)。Erick Sermonを主名義、Rockwilderを客演として記録します。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "1995年のアルバムから",
+        "text": "Double Or Nothingの本人ページは1995年11月7日と記載。当該曲は第7曲、表示時間は3:16です。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "選択した動画について",
+        "text": "BonKar ThuNderによる一般投稿を選択。動画は同アルバムの曲と説明され、表示時間は3:21です。公式投稿やマスターの完全一致とは表示せず、サイト内・日本での再生可否は未確認です。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と使用箇所を個別照合できたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "In The Studio (Skit) → Boy Meets World → Welcomeという前後の曲順も合わせて辿る。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "本人が公開した曲順と客演表記を起点とする編集。タイトルの連なりの読みは編者の提案で、制作意図や未聴の音の特徴を断定しない。",
+    "art": {
+      "word": "BOY MEETS WORLD",
+      "tag": "ERICK SERMON feat. ROCKWILDER",
+      "style": "tag",
+      "seed": 2026102908,
+      "palette": [
+        "#EFE5CC",
+        "#143B29",
+        "#6B233F",
+        "#A78AA8",
+        "#111513"
+      ],
+      "paletteSource": "Double Or Nothing official artist Bandcamp album cover, visually inspected2026-10-29 JST.",
+      "paletteSourceUrl": "https://f4.bcbits.com/img/a1420242002_10.jpg",
+      "paletteNote": "実画像のクリーム、暗い緑、黒、眼の写真に含まれる赤紫・淡紫を目視で近似。眼や写真の格子を再現せず、丸い独自レタリングで構成。"
+    },
+    "youtube": {
+      "id": "rIjt0S6hwsY",
+      "url": "https://www.youtube.com/watch?v=rIjt0S6hwsY",
+      "embedUrl": "https://www.youtube.com/embed/rIjt0S6hwsY",
+      "title": "Erick Sermon - Boy Meets World",
+      "channel": "BonKar ThuNder",
+      "type": "一般ユーザー投稿 / Double Or Nothing収録曲",
+      "official": false,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 201,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実検索画面でErick Sermon - Boy Meets World、BonKar ThuNder、3:21、From the solo album Double Or Nothing (1995)の説明を確認。本人Bandcampの曲名・アルバムと対応、remix/live表記なし。公式音源とは表示せず、実再生・日本再生・原盤マスター同一性は未検証。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 645
   }
 ]
