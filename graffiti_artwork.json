@@ -14939,6 +14939,46 @@
         "sourceImage": "assets/graffiti/originals/street-smartz-problemz-tag-original.png",
         "sourceSha256": "122a61a9dc587b0afe3c33160a97d9327f00bd80a4e0dbd777e75be85e02149f"
       }
+    },
+    {
+      "id": "mic-geronimo-masta-ic",
+      "title": "Masta I.C.",
+      "artist": "Mic Geronimo",
+      "album": "Masta I.C. - EP",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#ECD69A",
+        "#B69A4C",
+        "#6F5E96",
+        "#24203C",
+        "#12121C"
+      ],
+      "paletteSource": "The Natural licensed Apple album cover, visually inspected2026-10-29 UTC.",
+      "paletteSourceURL": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/74/04/88/740488d8-ce6b-5e74-f551-b69ef3aec87c/dj.jmwsghgv.jpg/296x296bb.webp",
+      "paletteNote": "同年The Naturalの実カバーの金、クリーム、紫、暗い藍を再目視。選択EP音源とは別の配色参照であり、肖像・街並み・既存ロゴを複製しない。",
+      "image": "assets/graffiti/mic-geronimo-masta-ic-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/mic-geronimo-masta-ic-tag-original.png",
+      "concept": "MASTA I.C.、MIC GERONIMOの独自文字。The Naturalの金・紫・藍の配色のみ参照、人物・街並み・既存文字を複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          140,
+          63,
+          1857,
+          833
+        ],
+        "outputSha256": "72e5dd1be958d8e85f18a47560f444c5a48d6a9a1531a035dff6f77bc4002fc0",
+        "sourceImage": "assets/graffiti/originals/mic-geronimo-masta-ic-tag-original.png",
+        "sourceSha256": "99b2f5047ca7547674cdd545adec1d16fa4312588405e6ac70af897afc55f3f4"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

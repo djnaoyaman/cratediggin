@@ -86356,5 +86356,145 @@
     "producers": [
       "Buckwild"
     ]
+  },
+  {
+    "id": "mic-geronimo-masta-ic",
+    "title": "Masta I.C.",
+    "artist": "Mic Geronimo",
+    "primaryArtist": "Mic Geronimo",
+    "primaryArtists": [
+      "Mic Geronimo"
+    ],
+    "artists": [
+      "Mic Geronimo"
+    ],
+    "album": "Masta I.C. - EP",
+    "year": 1995,
+    "yearStatus": "verified",
+    "yearBasis": "正規Apple EPは1995、選択Street音源も℗1995 Blunt。アルバムの1月1日表記を正確な発売日に採用しない。",
+    "region": "New York",
+    "regionBasis": "本人公式プロフィールのQueensを活動拠点として採用。別名義や客演者の地域を転記しない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Masta I.C. - EP — Apple Music",
+        "url": "https://music.apple.com/us/album/masta-i-c-ep/311272790",
+        "kind": "正規EP1995 Blunt。Street、Instrumental、Acapellaを分けた収録版"
+      },
+      {
+        "label": "Masta I.C. (Street) — Mic Geronimo - Topic",
+        "url": "https://www.youtube.com/watch?v=WHcj7J64IOU",
+        "kind": "実表示でOrchard提供、1995 Blunt EP、Street4:18を確認"
+      },
+      {
+        "label": "The Natural — Apple Music",
+        "url": "https://music.apple.com/us/album/the-natural/311282023",
+        "kind": "1995アルバムの別収録版。実カバーを配色参照。選択EP音源と同一マスターとはしない"
+      },
+      {
+        "label": "Mic Geronimo — 本人公式プロフィール",
+        "url": "https://linktr.ee/micgeronimo",
+        "kind": "Queensの活動プロフィール"
+      },
+      {
+        "label": "Masta I.C. — アルバム公式配信",
+        "url": "https://www.youtube.com/watch?v=yB6PljBlqXg",
+        "kind": "比較したThe Natural収録版5:51。選択Street4:18との版・尺差を確認"
+      }
+    ],
+    "essayTitle": "同じ曲名に、4分18秒と5分51秒。",
+    "deck": "ここで選ぶのは、1995年EPに記されたStreet。",
+    "essay": [
+      "「Masta I.C.」には、同じ1995年の正規配信でも異なる入口がある。EPのStreet版は4分18秒。『The Natural』に収録された版は5分51秒と、1分半以上の開きがある。ここではEPのStreet版を選んだ。さらに別のRemix、Instrumental、Acapellaまで並ぶ曲だから、曲名だけでなく盤と版の名前も一緒に残しておきたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        4
+      ]
+    ],
+    "facts": [
+      {
+        "title": "選択はEPのStreet版",
+        "text": "選択音源はOrchard提供のMasta I.C. (Street)、4:18、℗1995 Blunt。原リストは版無指定ですが、ここでは採用した版を明示しています。アルバム5:51やRemix5:59、Instrumental4:18、Acapella3:56とは分けています。",
+        "sources": [
+          0,
+          1,
+          4
+        ]
+      },
+      {
+        "title": "年と配色の参照先",
+        "text": "1995年は正規EPと音源クレジットを照合。文字アートの配色は同年アルバムThe Naturalの実カバーを参照し、EPのスリーブや音源版を再現したものではありません。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "名義と未確認事項",
+        "text": "選択Street配信の演者はMic Geronimo。別アルバム版やリミックスの客演クレジットをこの版へ転記していません。原盤マスターの完全同一性、サイト内・日本での実音声再生可否は未確認です。",
+        "sources": [
+          1,
+          4
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "Streetとアルバム版の尺を見比べながら、同じ曲名でも収録版を確かめる。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "正規1995EP Street4:18を選択。原リスト版無指定、アルバム551/Remix559等と比較。個別制作と客演はこの版で一次確認できないため補完しない。",
+    "art": {
+      "word": "MASTA I.C.",
+      "tag": "MIC GERONIMO",
+      "style": "tag",
+      "seed": 2026102927,
+      "palette": [
+        "#ECD69A",
+        "#B69A4C",
+        "#6F5E96",
+        "#24203C",
+        "#12121C"
+      ],
+      "paletteSource": "The Natural licensed Apple album cover, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/74/04/88/740488d8-ce6b-5e74-f551-b69ef3aec87c/dj.jmwsghgv.jpg/296x296bb.webp",
+      "paletteNote": "同年The Naturalの実カバーの金、クリーム、紫、暗い藍を再目視。選択EP音源とは別の配色参照であり、肖像・街並み・既存ロゴを複製しない。"
+    },
+    "youtube": {
+      "id": "WHcj7J64IOU",
+      "url": "https://www.youtube.com/watch?v=WHcj7J64IOU",
+      "embedUrl": "https://www.youtube.com/embed/WHcj7J64IOU",
+      "title": "Masta I.C. (Street)",
+      "channel": "Mic Geronimo - Topic",
+      "type": "公式配信 / 1995 EP Street版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 258,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示でOrchard提供、Mic Geronimo、EP Street4:18、℗1995 Bluntを確認。アルバム5:51、Remix5:59、Instrumental4:18、Acapella3:56、一般MV4:10等と比較。原盤マスター一致・実音声・日本再生は未確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [],
+    "addedOrder": 664
   }
 ]
