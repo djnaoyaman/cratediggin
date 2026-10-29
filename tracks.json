@@ -87724,5 +87724,147 @@
     "noteReviewedAt": "2026-10-29",
     "featuredArtists": [],
     "addedOrder": 673
+  },
+  {
+    "id": "homeliss-derilex-operations",
+    "title": "Operations",
+    "artist": "Homeliss Derilex",
+    "primaryArtist": "Homeliss Derilex",
+    "primaryArtists": [
+      "Homeliss Derilex"
+    ],
+    "artists": [
+      "Homeliss Derilex"
+    ],
+    "album": "Cash Money / Operations (12-inch single)",
+    "year": 1996,
+    "yearStatus": "verified",
+    "yearBasis": "Stones Throw公式が再掲する1996年11月Rap Pages記事時点でCash Money盤発売済み。同社商品にOperations収録、正規配信1996と照合。1993アーカイブ表記は録音年と区別。",
+    "region": "Bay Area",
+    "regionBasis": "Stones Throw公式のSan Franciscoシーン紹介に基づき、既存Cash Moneyと同じBay Area分類を維持。全員の出生地とはしない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Cash Money 12 — Stones Throw",
+        "url": "https://www.stonesthrow.com/store/cash-money-12/",
+        "kind": "公式商品全文。STH2003、レーベル第二作12インチ、50 GrandとArchitectの役割、Operations/Instrumentalを分けて掲載"
+      },
+      {
+        "label": "Rap Pages 1996 — Stones Throw",
+        "url": "https://www.stonesthrow.com/news/rap-pages-1996/",
+        "kind": "レーベルが当時1996年11月の記事を再掲、Cash Money盤が発売済みと確認。原発売日までは断定しない"
+      },
+      {
+        "label": "Cash Money EP — Apple Music",
+        "url": "https://music.apple.com/us/album/cash-money-ep/1547335952",
+        "kind": "Stones Throw正規1996配信カタログ、Operations3:58と実商品画像"
+      },
+      {
+        "label": "Fraudulent — Hip Hop Enterprise",
+        "url": "https://www.hiphopenterprise.com/product/21527716/homeliss-derilex-fraudulent-2xlp",
+        "kind": "後年アーカイブ編集盤のOperations(1993)表記。録音年と1996シングル発売を区別"
+      },
+      {
+        "label": "Operations — The Architect / Homeliss Derilex Topic",
+        "url": "https://www.youtube.com/watch?v=zfvQZ_7qWOw",
+        "kind": "公式アーティストチャンネル、Stones Throw提供Cash Money℗1996、3:59。Daily Operation別収録とInstrumentalを比較"
+      }
+    ],
+    "essayTitle": "レーベルの二枚目、そのもう一曲。",
+    "deck": "50 GrandとThe Architectが残した、Stones Throw初期の12インチ。",
+    "essay": [
+      "Stones Throwの二枚目の12インチが、Homeliss Derilexの「Cash Money」盤だった。50 GrandのラップとThe Architectのビートを紹介する公式ページには、「Operations」とそのInstrumentalも並んでいる。1996年11月のRap Pagesの記事でも、この盤はすでに発売された作品として紹介されていた。表の曲名だけでなく、もう一曲までたどってみる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ]
+    ],
+    "facts": [
+      {
+        "title": "発売年とアーカイブの年",
+        "text": "公式商品と正規配信の1996、当時記事の発売済み記述を照合しました。後年のアーカイブにあるOperations(1993)は録音年として区別し、それだけで1993年公開発売とは扱いません。",
+        "sources": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "title": "同名シングル音源を採用",
+        "text": "選択音源はStones Throw提供のOperations3:59、Apple表示は3:58。別収録のDaily Operation3:52には1994表記があり、題名・版・尺の関係が未確定のため代用していません。Instrumentalも別版です。実音声・日本再生、原マスター完全一致は未確認です。",
+        "sources": [
+          0,
+          2,
+          4
+        ]
+      },
+      {
+        "title": "同じ盤でも話題を混ぜない",
+        "text": "制作は公式商品にあるThe Architectを採用し、Cash Moneyに関連する別曲のサンプル話をOperationsへ移していません。配色参照は正規Cash Money EPの実画像で、写真や既存ロゴは複製せず独自文字を制作しました。",
+        "sources": [
+          0,
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "Cash MoneyとOperationsを別曲として、歌入りとInstrumentalも分けて聴く。"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "同盤のJ Dilla関連サンプル説明をOperationsへ転用しない。1993録音/1996発売/別DailyOperation1994表記を分離。既存HomelissDerilexグループとBayArea索引を維持。",
+    "art": {
+      "word": "OPERATIONS",
+      "tag": "HOMELISS DERILEX",
+      "style": "tag",
+      "seed": 2026102937,
+      "palette": [
+        "#EFEDE3",
+        "#151714",
+        "#42443A",
+        "#979044"
+      ],
+      "paletteSource": "Cash Money EP officialStonesThrow distributed artwork, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/25/20/1c/25201cc5-ad47-9ce1-9fe1-57ee0fb0dff6/Cash_Money_copy.jpg/296x296bb.webp",
+      "paletteNote": "実画像のoffwhite、黒/charcoalの白黒写真、olivegold文字を目視近似。人物写真、ターンテーブル、既存ロゴと配置は複製しない。"
+    },
+    "youtube": {
+      "id": "zfvQZ_7qWOw",
+      "url": "https://www.youtube.com/watch?v=zfvQZ_7qWOw",
+      "embedUrl": "https://www.youtube.com/embed/zfvQZ_7qWOw",
+      "title": "Operations",
+      "channel": "The Architect hiphop producer",
+      "type": "公式配信 / Cash Money収録版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 239,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示で公式アーティストチャンネル/Homeliss Derilex Topic関連/StonesThrow提供CashMoney℗1996/3:59を確認。DailyOperation3:52別収録とInstrumentalを比較し原リスト同名singleを優先。原master・実音声・日本再生は未確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [],
+    "producer": "The Architect",
+    "producers": [
+      "The Architect"
+    ],
+    "addedOrder": 674
   }
 ]
