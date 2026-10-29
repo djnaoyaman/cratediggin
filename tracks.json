@@ -84244,5 +84244,142 @@
     "datePublished": "2026-10-29",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 648
+  },
+  {
+    "id": "krs-one-represent-the-real-hip-hop",
+    "title": "Represent The Real Hip Hop",
+    "artist": "KRS-One feat. Das EFX",
+    "primaryArtist": "KRS-One",
+    "primaryArtists": [
+      "KRS-One"
+    ],
+    "artists": [
+      "KRS-One",
+      "Das EFX"
+    ],
+    "album": "KRS-One",
+    "year": 1995,
+    "yearStatus": "verified",
+    "yearBasis": "公式Jive配信の1995 Zomba表記と1995 US原盤販売記載で確認。",
+    "region": "New York",
+    "regionBasis": "Bronx Tourism Councilの公式顕彰プロフィールにNew Yorkの経歴記載。特定の出生地区は追加しない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "KRS ONE - Topic — Represent The Real Hip Hop",
+        "url": "https://www.youtube.com/watch?v=gWiyg_hqgkI",
+        "kind": "Jive提供、KRS-One/Das EFX、同名アルバム、1995 Zombaの公式メタデータ"
+      },
+      {
+        "label": "KRS-One — MCs Act Like They Dont Know / Represent The Real Hip Hop",
+        "url": "https://fatman.ocnk.net/product/21013",
+        "kind": "US Original1995の現物販売記載。B面にStreet/Clean/Instrumentalを掲載"
+      },
+      {
+        "label": "KRS-One — Bronx Walk of Fame",
+        "url": "https://www.bronxwalkoffame.com/inductees/krs-one",
+        "kind": "Bronx Tourism Council公式顕彰プロフィール。New Yorkの経歴のみに使用"
+      },
+      {
+        "label": "Represent The Real Hip Hop — Spotify",
+        "url": "https://open.spotify.com/track/7yWX15LbKFnSIxXqATVtBh",
+        "kind": "正規配信アルバムKRS-Oneの曲目。表示4:38は選択YouTubeの実測尺ではない"
+      },
+      {
+        "label": "1995 USシングルの現物スリーブ",
+        "url": "https://fatman.ocnk.net/data/fatman/product/20230802_84faa5.jpg",
+        "kind": "販売店の現物写真を目視。A面表題とKRS-ONEのクリーム/赤/暗色を配色参照。B面曲名は販売店曲目で確認"
+      }
+    ],
+    "essayTitle": "同じ12インチの、もう片面。",
+    "deck": "MCs Act Like They Dont Knowの裏側へ。Das EFXを迎えた曲には、Street、Clean、Instrumentalの三つの入口がある。",
+    "essay": [
+      "大きなKRS-ONEの文字とMC’s Act Like They Don’t Knowという表題が印刷されたスリーブ。そのレコードをB面へ辿ると、Represent The Real Hip HopがStreet、Clean、Instrumentalの三つの形で並んでいる。片面の名前だけでは見落とすもう一曲を、ここでは主役に据えたい。選択音源は公式Jive配信のKRS-Oneアルバム版。12インチの各版とマスターが同一だとはせず、原盤の曲目を曲への別の入口として紹介する。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        4
+      ]
+    ],
+    "facts": [
+      {
+        "title": "KRS-OneとDas EFX",
+        "text": "公式Jive音源の演者欄にはKRS-OneとDas EFXが記載されています。記事ではKRS-Oneを主名義、Das EFXを客演として表示しています。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "B面に三つの版",
+        "text": "1995 US原盤の掲載曲目では、A面がMCs Act Like They Dont Know。B面にRepresent The Real Hip HopのStreet、Clean、Instrumentalが並びます。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "選択はKRS-Oneアルバム版",
+        "text": "公式YouTubeは1995年のKRS-One収録音源です。Spotifyの同アルバム曲表示は4:38ですが、動画の実測尺や他作品収録版とのマスター一致は未確認です。",
+        "sources": [
+          0,
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "A面の表題だけでなく、同じ12インチのB面曲目も辿る。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "USシングル曲目と公式アルバム配信を区別した編集。producer、sample、各版の音源編集内容は未確認のまま断定しない。",
+    "art": {
+      "word": "REPRESENT THE REAL HIP HOP",
+      "tag": "KRS-ONE feat. DAS EFX",
+      "style": "tag",
+      "seed": 2026102912,
+      "palette": [
+        "#E4D1AE",
+        "#AF3C2D",
+        "#28251D",
+        "#B49B75"
+      ],
+      "paletteSource": "1995 US single sleeve physical photograph, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://fatman.ocnk.net/data/fatman/product/20230802_84faa5.jpg",
+      "paletteNote": "当該B面収録シングルの実スリーブ写真にあるクリーム、赤、暗色、くすんだ茶を目視近似。大きなKRS ONEの既存配置は複製しない独自の曲名文字。"
+    },
+    "youtube": {
+      "id": "gWiyg_hqgkI",
+      "url": "https://www.youtube.com/watch?v=gWiyg_hqgkI",
+      "embedUrl": "https://www.youtube.com/embed/gWiyg_hqgkI",
+      "title": "Represent The Real Hip Hop",
+      "channel": "KRS ONE - Topic",
+      "type": "公式配信 / KRS-Oneアルバム版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "公式YouTubeメタデータでJive提供、KRS-One/Das EFX、KRS-One、1995 Zombaを確認。Spotify同アルバム4:38を動画実測尺に置き換えない。実再生・日本再生・Street/Clean等とのマスター一致は未検証。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [
+      "Das EFX"
+    ],
+    "addedOrder": 649
   }
 ]

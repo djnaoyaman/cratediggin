@@ -14347,6 +14347,45 @@
         "sourceImage": "assets/graffiti/originals/artifacts-flexi-wit-da-technique-tag-original.png",
         "sourceSha256": "0b549a53428658fd4dc377c488231296e99f5bdf3a75bb9e9deef03020b3b87b"
       }
+    },
+    {
+      "id": "krs-one-represent-the-real-hip-hop",
+      "title": "Represent The Real Hip Hop",
+      "artist": "KRS-One feat. Das EFX",
+      "album": "KRS-One",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#E4D1AE",
+        "#AF3C2D",
+        "#28251D",
+        "#B49B75"
+      ],
+      "paletteSource": "1995 US single sleeve physical photograph, visually inspected2026-10-29 UTC.",
+      "paletteSourceURL": "https://fatman.ocnk.net/data/fatman/product/20230802_84faa5.jpg",
+      "paletteNote": "当該B面収録シングルの実スリーブ写真にあるクリーム、赤、暗色、くすんだ茶を目視近似。大きなKRS ONEの既存配置は複製しない独自の曲名文字。",
+      "image": "assets/graffiti/krs-one-represent-the-real-hip-hop-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/krs-one-represent-the-real-hip-hop-tag-original.png",
+      "concept": "REPRESENT THE REAL HIP HOP、KRS-ONE feat.DAS EFXの独自文字。B面収録USシングル現物スリーブの配色のみ参照、既存巨大文字配置を複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          159,
+          61,
+          2102,
+          799
+        ],
+        "outputSha256": "c4f0061e6e899249415c56f6e3a6cfcb7859e5d6b7a497ebaa63dc1f27453df4",
+        "sourceImage": "assets/graffiti/originals/krs-one-represent-the-real-hip-hop-tag-original.png",
+        "sourceSha256": "95380342d0903e3eb7e639d6ea3ece8ad2eb5d909f52d401cad74327e23ecf44"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
