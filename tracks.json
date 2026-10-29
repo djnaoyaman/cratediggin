@@ -88610,5 +88610,134 @@
     "datePublished": "2026-10-29",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 679
+  },
+  {
+    "id": "jeru-the-damaja-me-or-the-papes-instrumental",
+    "title": "Me or the Papes (LP Instrumental)",
+    "artist": "Jeru the Damaja",
+    "primaryArtist": "Jeru the Damaja",
+    "primaryArtists": [
+      "Jeru the Damaja"
+    ],
+    "artists": [
+      "Jeru the Damaja"
+    ],
+    "album": "Me or the Papes (1997 single)",
+    "year": 1997,
+    "yearStatus": "verified",
+    "yearBasis": "Payday162-531083-1の複数現物目録が1997年/A3 LP Instrumentalを記載。歌入り原曲の1996年をインストの初出へ転用しない。先行promoの有無と厳密初発売日は未確認。",
+    "region": "New York",
+    "regionBasis": "既存Jeru the Damajaの検証済み活動地域を継承。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Me or the Papes — Hiptank Records",
+        "url": "https://hiptankrecords.com/?pid=175627675",
+        "kind": "1997 US Payday162-531083-1現物目録A3 LP Instrumental。Me Not The Paper Remixと別収録"
+      },
+      {
+        "label": "Me or the Papes — physical single listing",
+        "url": "https://venditaviniliusati.it/shop/jeru-the-damaja-me-or-the-papes/",
+        "kind": "同1997盤A3 LP Instrumental4:07、B3歌入り4:03を区別"
+      },
+      {
+        "label": "Jeru The Damaja’s Me Or The Papes Gets Official YouTube Debut — uDiscover",
+        "url": "https://www.udiscovermusic.com/news/jeru-me-or-the-papas-video/",
+        "kind": "レーベル関連媒体の記事"
+      },
+      {
+        "label": "Me or the Papes LP Instrumental — Dkry Elsz",
+        "url": "https://www.youtube.com/watch?v=c-MtqdYIDk8",
+        "kind": "一般投稿の実表示、LP Instrumental/Payday12inch明記/4:10。remake・版名不明instと比較"
+      }
+    ],
+    "essayTitle": "同じ題名の、その隣の溝。",
+    "deck": "1997年の12インチに載るLP Instrumentalを、歌入りとは別に。",
+    "essay": [
+      "「Me or the Papes」の12インチには、歌入りに加えて「LP Instrumental」と「Me Not The Paper Remix」が収められている。リストに指定されたのはインストのほう。題名の似たリミックスでも、後から作り直されたビートでもなく、A3と同じ版名を掲げる音源を選んだ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "原曲の1996年と、インスト盤の1997年",
+        "text": "歌入り原曲はWrath of the Mathの1996年。今回はインスト収録を確認できた1997年のシングル目録を基準にしています。1996年の先行promoに同版が入った可能性は確認できておらず、厳密な最初の発売日までは確定していません。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "LP Instrumentalを指定",
+        "text": "選択は一般投稿者Dkry Elszの4:10、原12インチを説明に挙げるLP Instrumental版。目録のA3は4:07です。4:27の明示remake、版の説明がない4:35/4:27、Me Not The Paper Remixを区別しました。同一マスター、実音声・日本での再生可否は未確認です。",
+        "sources": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "title": "二つの原リストを保持",
+        "text": "DEEP ROOTEDのMe or the Papes (instrumental)と、Mighty 90’s Beatlogy -Chill-のMe Or Paper (Inst.)を対応させています。原行の文字とミックス内尺は記録に残し、全長音源の尺へ置き換えません。配色は既存記事で2026年10月17日に目視確認したWrath of the Mathの青緑・紺・金色を継承。シングル原ジャケットを今回見たものではありません。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "歌入りの既存記事と切り替え、声を外した版で細部の聞こえ方を比べる。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "DEEP ROOTEDとChillのInst.指定を保持。1996vocalと1997single LPInstrumental、MeNotThePaperRemix、後年remakeを分離。",
+    "art": {
+      "word": "ME OR THE PAPES",
+      "tag": "LP INSTRUMENTAL / JERU THE DAMAJA",
+      "style": "piece",
+      "seed": 2026102944,
+      "palette": [
+        "#278eaa",
+        "#283959",
+        "#d7c772"
+      ],
+      "paletteSource": "Wrath of the Math; palette inherited from existing jeru-me-or-the-papes, visually verified2026-10-17 per existing record, not newly viewed.",
+      "paletteNote": "既存確認済み青緑・紺・金色を継承した編集上の近似。原曲アルバム参照であり選択1997singleの原盤配色とはしない。"
+    },
+    "youtube": {
+      "id": "c-MtqdYIDk8",
+      "url": "https://www.youtube.com/watch?v=c-MtqdYIDk8",
+      "embedUrl": "https://www.youtube.com/embed/c-MtqdYIDk8",
+      "title": "Jeru The Damaja - Me Or The Papes (LP Instrumental)",
+      "channel": "Dkry Elsz",
+      "type": "一般投稿 / LP Instrumental",
+      "official": false,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 250,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示のLPInstrumental/Payday12inch/4:10を確認。A3目録4:07と版名対応、remakeと別remixを除外。実音声と原master完全一致は未確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 680
   }
 ]
