@@ -87866,5 +87866,149 @@
       "The Architect"
     ],
     "addedOrder": 674
+  },
+  {
+    "id": "mike-zoot-service",
+    "title": "Service",
+    "artist": "Mike Zoot",
+    "primaryArtist": "Mike Zoot",
+    "primaryArtists": [
+      "Mike Zoot"
+    ],
+    "artists": [
+      "Mike Zoot"
+    ],
+    "album": "Turn / Service / High Drama (12-inch single)",
+    "year": 1997,
+    "yearStatus": "verified",
+    "yearBasis": "1997年6月14日付Oliver Wangの同時代評に原曲Serviceが再収録されたと記載。現物目録GW200の1997と照合。厳密な初発売日は未確認。",
+    "region": "New York",
+    "regionBasis": "Apple Music公式編集紹介のNew Yorkインディラップ活動に基づく。個人の出生地や他人のEast Flatbush歴を移さない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Groove — Oliver Wang, June 14 1997",
+        "url": "https://oliverwang.net/groove/groove6-97.html",
+        "kind": "批評家本人の同時代レビュー全文。Mayhem remixと再収録されたoriginal Serviceを区別"
+      },
+      {
+        "label": "Matt Fingaz interview — Unkut",
+        "url": "https://unkut.com/2014/04/non-rapper-dudes-series-matt-fingaz-interview-guesswyld-records/",
+        "kind": "レーベル主宰本人の回想全文。1996年末の出会い、EZ Elpeeと最初の盤を作った経緯"
+      },
+      {
+        "label": "Turn / Service / High Drama — 23 Records",
+        "url": "https://www.23records.jp/product/16269",
+        "kind": "現物目録全文、GW200・1997・Service Dirty/Clean/Instrumental。ラベル写真未読の段階では目録として扱う"
+      },
+      {
+        "label": "That Was Then — Apple Music",
+        "url": "https://music.apple.com/us/album/that-was-then/1341978108",
+        "kind": "正規配信の公式編集紹介を索引で確認、New Yorkでの活動。原1997盤とは別の配信作品"
+      },
+      {
+        "label": "Service (Dirty) — TheIronSifu",
+        "url": "https://www.youtube.com/watch?v=nJZVxCNv6Sk",
+        "kind": "一般投稿、4:00。原盤Turn/Service/High Dramaを説明欄に表示、Dirty版。Mayhem remixやStraight Serviceと比較"
+      },
+      {
+        "label": "GW200A original label photograph — Crib Records",
+        "url": "https://www.cribrecords.jp/data/cribrecords/product/20141031_18cd5d.jpg",
+        "kind": "実写真を目視。Service制作EZ Elpee、Dirty/Clean3:58、Instrumental3:55。隣のTurn制作ShaSelfを混同しない。年は写真から読めない"
+      }
+    ],
+    "essayTitle": "一枚目につながった、年末の出会い。",
+    "deck": "Guesswhyldの始まりをたどると、Mike Zootの12インチに行き着く。",
+    "essay": [
+      "GuesswhyldのMatt Fingazは、1996年末にユニオンスクエアのマクドナルドでMike ZootとDrutsに会い、EZ Elpeeと最初の盤を作ったと振り返っている。1997年の目録で確認できる12インチには「Service」が収められている。翌年6月のOliver Wangのレビューには、Mayhemによるリミックスとともに原曲も再収録されたことが記されている。リミックスを重ねながら、一枚の12インチが次の聴き手へ渡っていった。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1997年に確認できる原曲",
+        "text": "当時のレビューとGW200現物目録を照合し1997を採用しました。後年の再収録年を原発売年にせず、厳密な初発売日は未確認です。",
+        "sources": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "Dirty版を選択",
+        "text": "採用動画は原盤名を明記する一般投稿Service (Dirty)、表示4:00です。版を明記しない4:01/4:02、Mayhem remix、Straight Service、全12インチ動画と比較しました。投稿タイトルのOFFICIALという自己表示だけでは公式と認定していません。原マスター完全一致とサイト内・日本での実再生は未確認です。 原盤写真のDirtyは3:58、選択動画は4:00と2秒差があるため尺だけで同一マスターとは断定しません。",
+        "sources": [
+          2,
+          4,
+          5
+        ]
+      },
+      {
+        "title": "原盤に記された制作",
+        "text": "Service欄はEZ Elpee制作と明記されています。左に並ぶTurnのShaSelfクレジットは別曲のものです。配色もこの原盤ラベルの実写真から採り、ロゴや配置は複製していません。",
+        "sources": [
+          5
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "同じ盤のDirty、Clean、Instrumentalと、後のMayhem remixを区別して聴く。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "レーベル主宰の具体的な出会いと初期盤の回想、同時代批評のoriginal/remix区別。個人地区・他曲の制作や客演は転用しない。",
+    "youtube": {
+      "id": "nJZVxCNv6Sk",
+      "url": "https://www.youtube.com/watch?v=nJZVxCNv6Sk",
+      "embedUrl": "https://www.youtube.com/embed/nJZVxCNv6Sk",
+      "title": "Mike Zoot - Service (Dirty)",
+      "channel": "TheIronSifu",
+      "type": "一般投稿 / Dirty版",
+      "official": false,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 240,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実検索表示で曲名/演者/Dirty/原盤名/4:00を確認。原曲未指定版、Mayhem remix、Straight Service、全盤を比較。公式認定なし、原master・実再生・日本可否は未確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [],
+    "producer": "EZ Elpee",
+    "producers": [
+      "EZ Elpee"
+    ],
+    "art": {
+      "word": "SERVICE",
+      "tag": "MIKE ZOOT",
+      "style": "tag",
+      "seed": 2026102938,
+      "palette": [
+        "#EFEDE3",
+        "#111211",
+        "#454641"
+      ],
+      "paletteSource": "Original GW200A label photograph, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://www.cribrecords.jp/data/cribrecords/product/20141031_18cd5d.jpg",
+      "paletteNote": "実ラベル写真の暖かい白、黒、charcoalを目視近似。レコード円、ロゴ、既存字体と配置は複製しない。"
+    },
+    "addedOrder": 675
   }
 ]

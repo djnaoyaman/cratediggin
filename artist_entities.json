@@ -931,5 +931,8 @@
   },
   "The Nonce": {
     "type": "MusicGroup"
+  },
+  "Mike Zoot": {
+    "type": "Person"
   }
 }
