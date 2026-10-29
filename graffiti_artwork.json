@@ -15452,6 +15452,45 @@
         "sourceImage": "assets/graffiti/originals/the-roots-the-lesson-pt-1-tag-original.png",
         "sourceSha256": "1ecd6fef8fae1a1b2ffd5ebd4c11dc13a7f93ed1c48609e900d6148ccd6cc685"
       }
+    },
+    {
+      "id": "das-efx-kaught-in-da-ak-dj-premier-remix",
+      "title": "Kaught In Da Ak (DJ Premier Remix)",
+      "artist": "Das EFX",
+      "album": "Kaught In Da Ak (Remix) (12-inch single)",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#EEE9DE",
+        "#A2A29C",
+        "#494A46",
+        "#242521"
+      ],
+      "paletteSource": "Original EastWest remix label as actually displayed on Fatman product page2026-10-29, softened by SOLDOUT overlay.",
+      "paletteSourceURL": "https://fatman.ocnk.net/product/28312",
+      "paletteNote": "実表示ラベルのcream/neutralgray/charcoalを編集上近似。overlayによる淡さを留保。サイト黒背景/redNEWは除外、原ロゴ/円盤/バーコード/文字配置を複製しない。",
+      "image": "assets/graffiti/das-efx-kaught-in-da-ak-dj-premier-remix-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/das-efx-kaught-in-da-ak-dj-premier-remix-tag-original.png",
+      "concept": "KAUGHT IN DA AK / DJ PREMIER REMIX / DAS EFXの独自文字。実商品画面ラベルのcream/gray/charcoal近似、SOLDOUT淡色を留保し原ロゴ/円盤を複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          174,
+          53,
+          2311,
+          694
+        ],
+        "outputSha256": "a9f515b150f7c7f4b1a6902753c5542826a60a95837e8df4554a8a77706fd19b",
+        "sourceImage": "assets/graffiti/originals/das-efx-kaught-in-da-ak-dj-premier-remix-tag-original.png",
+        "sourceSha256": "9e8669e415813b7f07d7165f4415674c077b95e9c6d8636b905e6cf3ed20033e"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
