@@ -15645,6 +15645,46 @@
         "sourceImage": "assets/graffiti/originals/lootpack-episodes-tag-original.png",
         "sourceSha256": "808e26c3854399d312b1a32d93ff58e9bdfe6eb086b2d181d488ca8f9eaea615"
       }
+    },
+    {
+      "id": "ozomatli-cut-chemist-suite",
+      "title": "Cut Chemist Suite",
+      "artist": "Ozomatli",
+      "album": "Ozomatli",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#087b61",
+        "#154f3a",
+        "#b4c71c",
+        "#d2dc32",
+        "#eeeace",
+        "#172621"
+      ],
+      "paletteSource": "Ozomatli (1998) — official Apple Music cover",
+      "paletteNote": "2026-10-29 23:27に実ジャケットを目視。濃いエメラルド/青緑の枠、黄緑・オリーブ・森林緑、オフホワイトと濃灰の編集近似。ロゴや写真コラージュは複製しない。",
+      "image": "assets/graffiti/ozomatli-cut-chemist-suite-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/ozomatli-cut-chemist-suite-tag-original.png",
+      "concept": "Cut Chemist Suite / Ozomatli の独自文字。実見したOzomatli原盤の緑・黄緑・オフ白を独自文字に編集近似。原ロゴや人物を転載しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          118,
+          80,
+          1561,
+          1058
+        ],
+        "outputSha256": "510c32d155e53a66a07394b49fbf0475e4281e6c60b3ca4c057db0a4103927b5",
+        "sourceImage": "assets/graffiti/originals/ozomatli-cut-chemist-suite-tag-original.png",
+        "sourceSha256": "e12d7d518fd96f0d6db196098a9b886e9fbebfc10edc7bee09adaadb3fcd33b8"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

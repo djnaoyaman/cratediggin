@@ -20,6 +20,11 @@ assert by[route[4]]['yearQualifier']=='原曲の年'
 assert by[route[5]]['workType']=='mix'
 assert by[route[2]]['youtube']['channel']=='Jurassic5VEVO' and by[route[7]]['youtube']['channel']=='Cut Chemist - Topic'
 selected=feature_tracks(s,f);assert set(route)<=set(t['id'] for t in selected)
+if 'ozomatli-cut-chemist-suite' in by:
+ suite=by['ozomatli-cut-chemist-suite'];assert suite['artist']=='Ozomatli' and suite['producers']==['T-Ray','Ozomatli']
+ assert suite['id'] not in {t['id'] for t in selected}, 'Band-context link must not inflate Cut producer works'
+ assert any('#/song/'+suite['id'] in p for sec in f['editorial']['sections'] for p in sec['paragraphs'])
+
 v=f['visual'];assert not v.get('nameOnly') and v['photo']=='feature-cut-chemist-provided-collage.webp'
 assert v['precomposed'] and v['fit']=='contain' and v['provenance']=='user-provided'
 assert hashlib.sha256((ROOT/'src/assets'/v['photo']).read_bytes()).hexdigest()=='fa1455d6449eb1fd33d0e73f018be9ffb3b66c2eed32b380b478bd293f2a185f'
