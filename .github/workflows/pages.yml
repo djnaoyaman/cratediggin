@@ -188,6 +188,20 @@ jobs:
             /tmp/jurassic-photo-nojs-390.png
             dist/feature-og/jurassic-5.jpg
           if-no-files-found: error
+      - name: Save People Under the Stairs photo review
+        if: always() && steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none'
+        uses: actions/upload-artifact@v4
+        with:
+          name: people-under-the-stairs-photo-review
+          path: |
+            /tmp/puts-feature-320.png
+            /tmp/puts-feature-390.png
+            /tmp/puts-feature-768.png
+            /tmp/puts-feature-1280.png
+            /tmp/puts-feature-card-*.png
+            /tmp/puts-photo-nojs-390.png
+            dist/feature-og/people-under-the-stairs.jpg
+          if-no-files-found: error
       - uses: actions/upload-pages-artifact@v4
         if: github.event_name != 'pull_request' && steps.plan.outputs.publish == 'true'
         with:
