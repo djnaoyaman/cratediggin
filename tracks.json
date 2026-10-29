@@ -87585,5 +87585,144 @@
     "noteReviewedAt": "2026-10-29",
     "featuredArtists": [],
     "addedOrder": 672
+  },
+  {
+    "id": "nonce-live-direct",
+    "title": "Live & Direct",
+    "artist": "The Nonce",
+    "primaryArtist": "The Nonce",
+    "primaryArtists": [
+      "The Nonce"
+    ],
+    "artists": [
+      "The Nonce"
+    ],
+    "album": "The Sight Of Things",
+    "year": 1998,
+    "yearStatus": "verified",
+    "yearBasis": "90’s Tapes正規再発の原作年1998と正規配信カタログ、1998シングル現物目録が一致。二次資料の1997表記とは差異があり、初発売日を断定しない。",
+    "region": "Los Angeles",
+    "regionBasis": "Sach本人取材を含むBandcamp DailyがYusef Afloat/Nouka Basetype(Sach)のLos Angeles二人組と紹介。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "The Sight Of Things — 90’s Tapes",
+        "url": "https://90stapes.bandcamp.com/album/the-sight-of-things",
+        "kind": "公式2021再発全文。原作1998、歌入りLive & Direct4:34と別Instrumental4:31"
+      },
+      {
+        "label": "The Nonce — Bandcamp Daily",
+        "url": "https://daily.bandcamp.com/lists/the-nonce-guide?utm_source=footer",
+        "kind": "Sach本人取材を含む紹介全文。Los AngelesのYusef Afloat/Sach二人組、他曲の制作話は転用しない"
+      },
+      {
+        "label": "Live & Direct — original single",
+        "url": "https://www.cribrecords.jp/product/6422",
+        "kind": "1998現物販売目録のRadio/Instrumental/Acapella/Album構成。原ラベル年を目視した確認とは別"
+      },
+      {
+        "label": "Live & Direct — licensed catalog",
+        "url": "https://open.spotify.com/intl-es/track/2THoFeEDAGlMdu7YRCmPMf",
+        "kind": "1998作品年の正規配信カタログ、歌入り4:35"
+      },
+      {
+        "label": "Live & Direct — The Nonce - Topic",
+        "url": "https://www.youtube.com/watch?v=kdYDLCu9wPc",
+        "kind": "HHV提供2018配信歌入り4:35。一般歌入り4:36と公式Instrumentalを比較"
+      }
+    ],
+    "essayTitle": "同じ曲名の下に、四つの役割。",
+    "deck": "Radio、Album、Instrumental、Acapellaを分けて読む12インチ。",
+    "essay": [
+      "The Nonceは、Yusef AfloatとNouka BasetypeことSachによるLos Angelesの二人組。「Live & Direct」の12インチには、Radio、Album、Instrumental、Acapellaが分かれて収められている。同じ曲名でも、盤の上では役割が違う。ここでは「The Sight Of Things」の標準的な歌入り配信を選び、別掲載のInstrumentalとは切り分けた。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        4
+      ]
+    ],
+    "facts": [
+      {
+        "title": "原作年と後年配信",
+        "text": "掲載年は正規レーベルの原作年・配信カタログ・現物目録が示す1998を採用。二次資料には1997という異なる表記もあり、厳密な初発売日は未確定です。2018は選択音源の配信年、2021は参照した正規再発年です。",
+        "sources": [
+          0,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "title": "歌入りを選択",
+        "text": "選択TopicはHHV提供4:35。公式再発の歌入り4:34、一般投稿4:36と比較し、公式Instrumentalは別版として除外しました。原シングルRadioとの同一性や原マスター完全一致、サイト内・日本からの実音声再生は未確認です。",
+        "sources": [
+          0,
+          2,
+          4
+        ]
+      },
+      {
+        "title": "題名とアート",
+        "text": "受領リストのLive At Directは、正規表記Live & Directへ照合しました。配色参照は2021年再発の実ジャケットで、人物写真・原ロゴ・レイアウトは複製していません。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "歌入り、Instrumental、Acapellaをそれぞれの版として区別して聴く。"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "正規題Live & Directへ原行を照合。SachのMixtapes20分制作やWorldUltimate4trackdemoの話を本曲へ転用しない。原年1998一次を採用し二次1997差異を留保。",
+    "art": {
+      "word": "LIVE & DIRECT",
+      "tag": "THE NONCE",
+      "style": "tag",
+      "seed": 2026102936,
+      "palette": [
+        "#2056A1",
+        "#60738A",
+        "#101719",
+        "#F6F7F3"
+      ],
+      "paletteSource": "The Sight Of Things2021official90sTapes reissue artwork, visually inspected2026-10-29 UTC; notoriginalsingle sleeve.",
+      "paletteSourceUrl": "https://f4.bcbits.com/img/a0258121772_10.jpg",
+      "paletteNote": "実ジャケットのcobaltblue、青灰、nearblack、白を目視近似。人物写真、既存ブロック文字と配置を複製しない独自handstyle。"
+    },
+    "youtube": {
+      "id": "kdYDLCu9wPc",
+      "url": "https://www.youtube.com/watch?v=kdYDLCu9wPc",
+      "embedUrl": "https://www.youtube.com/embed/kdYDLCu9wPc",
+      "title": "Live & Direct",
+      "channel": "The Nonce - Topic",
+      "type": "正規配信 / 歌入り標準版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 275,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示でHHV/TheSightOfThings/2018配信/4:35歌入りを確認。一般歌入り4:36と公式Instrumentalを比較、別版除外。原Radio同一性・原master・実音声・日本再生は未確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [],
+    "addedOrder": 673
   }
 ]
