@@ -85679,5 +85679,138 @@
     "datePublished": "2026-10-29",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 658
+  },
+  {
+    "id": "boogiemonsters-behold-a-pale-horse",
+    "title": "Behold A Pale Horse",
+    "artist": "Boogiemonsters",
+    "primaryArtist": "Boogiemonsters",
+    "primaryArtists": [
+      "Boogiemonsters"
+    ],
+    "artists": [
+      "Boogiemonsters"
+    ],
+    "album": "God Sound",
+    "year": 1997,
+    "yearStatus": "verified",
+    "yearBasis": "正規再発レーベル90s Tapesが1997年の第二作と明示。2021再発年や現在のC.R.A.M.配信権利表記とは分ける。",
+    "region": "New York",
+    "regionBasis": "Vex本人インタビューのNYでのグループ活動の回想。Virginiaでの結成や各人の出生地とは区別した活動地域。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "God Sound — 90s Tapes",
+        "url": "https://90stapes.bandcamp.com/album/god-sound",
+        "kind": "正規再発レーベルが原1997年、Vex/Mondo二人体制を明示。2021は再発年"
+      },
+      {
+        "label": "Vex Da Vortex: Mental Calisthenics — 本人インタビュー",
+        "url": "https://hiphopgoldenage.com/vex-da-vortex-boogiemonsters-mental-calisthenics/",
+        "kind": "Vex本人のNYでのグループ活動回想。結成地・各人出生地へ広げない"
+      },
+      {
+        "label": "God Sound — Amazon Music",
+        "url": "https://music.amazon.in/albums/B0BQX53671",
+        "kind": "正規現行配信、原1997年、当該曲3:28、C.R.A.M.表記"
+      },
+      {
+        "label": "Behold a Pale Horse — BOOGIEMONSTERS - Topic",
+        "url": "https://www.youtube.com/watch?v=Od13BrouLgU",
+        "kind": "実表示でDistroKid提供、GOD SOUND、C.R.A.M.、3:28を確認"
+      },
+      {
+        "label": "God Sound 正規再発カバー",
+        "url": "https://f4.bcbits.com/img/a4100256154_10.jpg",
+        "kind": "90s Tapes実ページ画像を取得し目視。配色のみ参照"
+      }
+    ],
+    "essayTitle": "二人で進めた、二枚目。",
+    "deck": "VexとMondoの体制になったGod Sound。その一曲として聴く。",
+    "essay": [
+      "1997年のGod Soundでは、BoogiemonstersはVexとMondoの二人体制になっていた。正規再発の解説によれば、制作の大部分も二人が担い、外部の制作陣が加わったという。Behold A Pale Horseは、その第二作に収められた曲。グループの編成が変わった時期の一枚として覚えておきたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "二人体制の第二作",
+        "text": "90s Tapesは1997年の第二作をVexとMondoによる作品として紹介しています。アルバム全体の制作説明から、当該曲の担当者を推定してはいません。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "活動地域と結成地",
+        "text": "Vex本人はNew Yorkでのグループ活動を振り返っています。ここでのNew Yorkは活動地域であり、Virginiaでの結成や各メンバーの出生地を置き換える表記ではありません。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "原1997年と現行配信",
+        "text": "選択したTopicはGOD SOUND／C.R.A.M.表記、3:28。正規現行配信の当該曲と照合し、Instrumentalや踊りの抜粋とは区別しました。原盤マスター同一性、サイト内・日本での実再生可否は未確認です。",
+        "sources": [
+          0,
+          2,
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "VexとMondoの二人体制になったアルバムの中で、この曲を聴く。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "確認済みのアルバム編成と原年、配信版を記載。曲題から書籍・宗教・陰謀論への影響を推定せず、未確認の曲別制作クレジットやサンプルを加えない。",
+    "art": {
+      "word": "BEHOLD A PALE HORSE",
+      "tag": "BOOGIEMONSTERS",
+      "style": "tag",
+      "seed": 2026102922,
+      "palette": [
+        "#EEECDD",
+        "#88A8AC",
+        "#476467",
+        "#0E1915"
+      ],
+      "paletteSource": "God Sound licensed90sTapes reissue cover, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://f4.bcbits.com/img/a4100256154_10.jpg",
+      "paletteNote": "実画像のアイボリー文字、冷たい青灰色、煙った緑灰色、黒緑を目視近似。人物、建築、車、既存書体・ロゴは複製しない。"
+    },
+    "youtube": {
+      "id": "Od13BrouLgU",
+      "url": "https://www.youtube.com/watch?v=Od13BrouLgU",
+      "embedUrl": "https://www.youtube.com/embed/Od13BrouLgU",
+      "title": "Behold a Pale Horse",
+      "channel": "BOOGIEMONSTERS - Topic",
+      "type": "公式配信 / God Sound現行版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 208,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示の曲名、Topic、DistroKid提供、GOD SOUND／C.R.A.M.、3:28と正規現行配信を照合。一般投稿、Instrumental、踊り抜粋と比較して選定。実音声・日本再生・原盤マスター一致は未検証。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 659
   }
 ]
