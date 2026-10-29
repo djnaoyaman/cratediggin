@@ -86910,5 +86910,130 @@
       "Da Beatminerz"
     ],
     "addedOrder": 667
+  },
+  {
+    "id": "rahsheed-keep-kickin-that",
+    "title": "Keep Kickin That",
+    "artist": "Rahsheed",
+    "primaryArtist": "Rahsheed",
+    "primaryArtists": [
+      "Rahsheed"
+    ],
+    "artists": [
+      "Rahsheed"
+    ],
+    "album": "East Wild West / Keep Kickin That (12-inch single)",
+    "year": 1996,
+    "yearStatus": "verified",
+    "yearBasis": "WFMUの放送選曲台帳がQuake City Recordsの1996年12インチRadio Mixとして記載。初版ラベルの年は未目視。Wasabiの1997年と2023再発を区別。",
+    "region": "Philadelphia",
+    "regionBasis": "本人Maylay SparksのBandcampがRahsheed別名とPhiladelphiaのMCであることを記載。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Rahsheed — WFMU選曲台帳",
+        "url": "https://wfmu.org/playlists/shows/130973",
+        "kind": "放送局の実選曲記録にRadio Mix、Quake City Records、1996、12inchを記載。初版ラベル目視とは別"
+      },
+      {
+        "label": "Wasabi (1997) — Maylay Sparks / Rahsheed",
+        "url": "https://maylaysparks.bandcamp.com/album/wasabi-1997",
+        "kind": "本人Bandcamp。1997日本限定アルバムと2023改装再発、別名・Philadelphia、収録4:36を確認"
+      },
+      {
+        "label": "Keep Kickin That (Radio Mix) — TheIronSifu",
+        "url": "https://www.youtube.com/watch?v=JdYc1Qnyr_8",
+        "kind": "一般投稿のRadio Mix4:10を実表示確認、アルバム版・instrumental・全盤と比較"
+      }
+    ],
+    "essayTitle": "日本盤アルバム、その前の12インチ。",
+    "deck": "Radio Mixから、Rahsheedのシングルをたどる。",
+    "essay": [
+      "後にMaylay Sparksの名で活動するPhiladelphiaのMC、Rahsheed。本人が再公開した「Wasabi」は、1997年に日本で限定発売されたアルバムだ。「Keep Kickin That」はそこにも収められているが、WFMUの選曲台帳には、その前年のQuake City Records製12インチとして残る。今回選んだのはRadio Mix。アルバムの4分36秒とは分けて、このシングルの形を紹介する。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1996年のシングル書誌",
+        "text": "WFMUの放送選曲記録はRadio MixをQuake City Records、1996年、12インチとして記載しています。初版ラベルの年は未目視のため、書誌情報による年の確認です。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "Radio Mixを選択",
+        "text": "採用した一般投稿はRadio Mix4:10。別Radio Edit4:11、版未明示4:07、アルバム版4:37前後、instrumental、全12インチの投稿を比較しました。本人Bandcampのアルバム音源は4:36で、同一マスターとは扱っていません。サイト内・日本からの実音声再生は未確認です。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "2023年の改装再発",
+        "text": "参照ジャケットは本人Bandcampに掲載されたWasabiの2023年改装再発画像です。原アルバムは1997年で、1996年シングルの装丁とは異なります。制作名義は一次資料で確定していないため追加していません。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "Radio MixとWasabi収録版を、版の違いとして区別して聴く。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "1996はWFMUの書誌記録、1997は本人記載の原アルバム、2023は改装再発。DJ Miz制作は二次資料のみのため未登録。",
+    "art": {
+      "word": "KEEP KICKIN THAT",
+      "tag": "RAHSHEED",
+      "style": "tag",
+      "seed": 2026102931,
+      "palette": [
+        "#557DAA",
+        "#514A34",
+        "#ECE8D7",
+        "#AB552F",
+        "#23251F"
+      ],
+      "paletteSource": "Wasabi artist-published 2023 revised reissue artwork, visually inspected2026-10-29 UTC; not original single sleeve.",
+      "paletteSourceUrl": "https://f4.bcbits.com/img/a3848327402_10.jpg",
+      "paletteNote": "本人再発画像の青帯・デニム、olive brown、cream、rust orangeを目視近似。人物、煉瓦背景、既存ロゴや配置は複製しない。"
+    },
+    "youtube": {
+      "id": "JdYc1Qnyr_8",
+      "url": "https://www.youtube.com/watch?v=JdYc1Qnyr_8",
+      "embedUrl": "https://www.youtube.com/embed/JdYc1Qnyr_8",
+      "title": "Rahsheed - Keep Kickin That (Radio Mix)",
+      "channel": "TheIronSifu",
+      "type": "一般投稿 / Radio Mix",
+      "official": false,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 250,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示で演者・曲名・Radio Mix4:10を確認。アルバム4:37/RadioEdit4:11/版未明示4:07/instrumental/全盤を比較、single Radio Mix明示を優先。原マスター・実音声・日本での再生は未確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [],
+    "addedOrder": 668
   }
 ]
