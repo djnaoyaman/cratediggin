@@ -566,3 +566,11 @@ body[data-art-mode=video] .art-provider-help{width:1px;height:1px;overflow:hidde
 .premium-playback-hint p{margin:0;font-weight:600}.premium-playback-hint small{display:block;font-size:10px;color:var(--muted)}
 .premium-playback-hint button{align-self:start;width:44px;height:44px;padding:0;border:1px solid var(--line);background:transparent;color:inherit;font-size:20px}
 .premium-playback-hint[hidden],body[data-art-owner] .premium-playback-hint{display:none}
+
+/* On phone swipe cards, keep credits next to the introduction instead of
+   reserving the desktop equal-height copy area. Photos and touch targets stay. */
+@media(max-width:640px){
+ .feature-grid.feature-swipe>.feature-poster{align-self:start}
+ .feature-swipe .feature-poster-copy{min-block-size:0;flex:none}
+ .feature-swipe .feature-poster-copy>span{margin-top:0;min-block-size:0}
+}
