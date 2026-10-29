@@ -83820,5 +83820,150 @@
     "datePublished": "2026-10-29",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 645
+  },
+  {
+    "id": "de-la-soul-area",
+    "title": "Area",
+    "artist": "De La Soul",
+    "primaryArtist": "De La Soul",
+    "primaryArtists": [
+      "De La Soul"
+    ],
+    "artists": [
+      "De La Soul"
+    ],
+    "album": "Buhloone Mindstate",
+    "year": 1993,
+    "yearStatus": "verified",
+    "yearBasis": "本人公式ストアと通常アルバムBandcampが1993年9月21日と記載。当該曲はアルバム第10曲。選択YouTubeは2023年デジタル配信で、初出年とは分ける。",
+    "region": "New York",
+    "regionBasis": "本人Bandcampの所在地New York表記を採用。特定の出生地・地域経歴を推定しない。",
+    "producer": "De La Soul / Prince Paul",
+    "producers": [
+      "De La Soul",
+      "Prince Paul"
+    ],
+    "producerSources": [
+      1,
+      2
+    ],
+    "producerBasis": "公式音源のProducer表記はDe La SoulとPrince Paul。Bob Powerのmixクレジットと、アルバム全体のadditional production表記は分けて扱う。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "De La Soul official store — Buhloone Mindstate",
+        "url": "https://store.wearedelasoul.com/products/buhloone-mindstate-cassette",
+        "kind": "本人公式ストア。初出1993年9月21日とAreaのカセット曲順を確認"
+      },
+      {
+        "label": "De La Soul — Buhloone Mindstate",
+        "url": "https://delasoul.bandcamp.com/album/buhloone-mindstate-1",
+        "kind": "本人の通常アルバム頁。1993年、第10曲Area3:31、制作クレジットを確認"
+      },
+      {
+        "label": "WeAreDeLaSoul — Area",
+        "url": "https://www.youtube.com/watch?v=QX159d-nGO0",
+        "kind": "公式アーティストチャンネル、Reservoir提供の2023デジタル配信。演者・曲名・作品と制作者を確認"
+      },
+      {
+        "label": "De La Soul — Area (30th Anniversary Edition)",
+        "url": "https://delasoul.bandcamp.com/track/area-2",
+        "kind": "本人30周年版2023年の曲頁。所在地New Yorkと選択アート参照元を確認。通常1993作品・選択YouTubeの2023配信とは版を分ける"
+      },
+      {
+        "label": "Buhloone Mindstate 公式30周年版アート",
+        "url": "https://f4.bcbits.com/img/a3731971294_10.jpg",
+        "kind": "実画像で配色のみ目視参照。人物・水面・既存ロゴは新規アートへ複製しない"
+      }
+    ],
+    "essayTitle": "Prince Paulの隣に、De La Soulの名前。",
+    "deck": "Areaの制作欄に並ぶのは、Prince Paulだけではない。グループ自身の名前を、同じ行で読み直す。",
+    "essay": [
+      "Prince Paulの仕事として辿り始めた一曲でも、公式配信の制作クレジットにはDe La Soulの名前が並んでいる。ミックス欄にはBob Powerも加わる。誰か一人の名前で音をまとめる前に、この並びを見ておきたい。Areaを聴く入口として、ここではグループとプロデューサー、ミックスを担う人の役割を分けて拾っている。個々の音や工程を誰が担当したかまで、この表記だけから決めることはしない。"
+    ],
+    "essaySources": [
+      [
+        1,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1993年と2023年を分ける",
+        "text": "Buhloone Mindstateの初出は本人公式ストアで1993年9月21日。選択した公式YouTubeは2023年のデジタル配信です。再配信年を曲の初出年に置き換えていません。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "制作者の並び",
+        "text": "公式配信のProducer表記はDe La SoulとPrince Paul。ミックスにはBob Powerの名も記載されています。アルバムの追加制作クレジットを、この曲の特定工程へ勝手に割り当てません。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "第10曲、3:31",
+        "text": "本人Bandcampの通常アルバムではAreaは第10曲、表示3:31。3 Days LaterとI Am I Beの間に置かれています。カセット版ではB面2曲目です。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と使用箇所を個別に裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "公式の制作・ミックスクレジットを参照しながら、前後の曲との並びも辿る。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "公式制作クレジットを起点とした編集。各制作者の個別作業、使用素材、作者の曲別意図は未確認のまま付け足さない。",
+    "art": {
+      "word": "AREA",
+      "tag": "DE LA SOUL",
+      "style": "tag",
+      "seed": 2026102909,
+      "palette": [
+        "#10ADA6",
+        "#07874B",
+        "#F0C827",
+        "#D91D20",
+        "#142728"
+      ],
+      "paletteSource": "Official Bandcamp30thAnniversary Buhloone Mindstate cover, visually inspected2026-10-29 JST.",
+      "paletteSourceUrl": "https://f4.bcbits.com/img/a3731971294_10.jpg",
+      "paletteNote": "本人30周年版の実画像にあるターコイズ、緑、黄、赤、暗色を目視で近似。1993原盤現物の参照とはせず、人物・水面・気球・ロゴを複製しない独自文字。"
+    },
+    "youtube": {
+      "id": "QX159d-nGO0",
+      "url": "https://www.youtube.com/watch?v=QX159d-nGO0",
+      "embedUrl": "https://www.youtube.com/embed/QX159d-nGO0",
+      "title": "Area",
+      "channel": "WeAreDeLaSoul",
+      "type": "公式配信 / 2023デジタル版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "公式アーティストチャンネルのArea、Reservoir Media Management提供、Buhloone Mindstate、2023 A.O.I./Chrysalis、De La Soul/Prince Paul制作表記を確認。動画の実再生・日本再生・1993原盤とのマスター同一性は未検証。公式Bandcamp曲の3:31を動画実測時間とは扱わない。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 646
   }
 ]
