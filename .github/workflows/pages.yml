@@ -151,6 +151,15 @@ jobs:
             /tmp/puts-feature-*.png
             /tmp/cut-producer-feature-*.png
           if-no-files-found: ignore
+      - name: Save focused current-song screenshots
+        if: always() && steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none'
+        uses: actions/upload-artifact@v4
+        with:
+          name: current-song-visual-review
+          path: |
+            /tmp/external-audio-slick-rick-behind-bars-dum-ditty-dum-mix-390.png
+            /tmp/external-audio-slick-rick-behind-bars-dum-ditty-dum-mix-1280.png
+          if-no-files-found: error
       - uses: actions/upload-pages-artifact@v4
         if: github.event_name != 'pull_request' && steps.plan.outputs.publish == 'true'
         with:
