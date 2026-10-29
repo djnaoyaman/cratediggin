@@ -1469,7 +1469,13 @@
       },
       "scopeOwnNames": [
         "The Beatnuts"
-      ]
+      ],
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-the-beatnuts-tag-v1.webp",
+        "alt": "The Beatnuts — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      }
     },
     {
       "id": "buckwild",
@@ -1573,6 +1579,12 @@
           }
         ],
         "disclosure": "選曲順と聴きどころはCRATEDIGGIN’の編集上の提案です。制作当事者の回想、公式クレジット、編集上の聴き方を区別しています。全ディスコグラフィーや制作工程を網羅するものではありません。"
+      },
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-buckwild-tag-v1.webp",
+        "alt": "Buckwild — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
       }
     },
     {
@@ -1676,6 +1688,12 @@
           }
         ],
         "disclosure": "選曲順と聴きどころはCRATEDIGGIN’の編集上の提案です。制作当事者の回想、公式クレジット、編集上の聴き方を区別しています。全ディスコグラフィーや制作工程を網羅するものではありません。"
+      },
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-large-professor-tag-v1.webp",
+        "alt": "Large Professor — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
       }
     },
     {
@@ -1764,7 +1782,13 @@
       },
       "scopeOwnNames": [
         "Black Moon"
-      ]
+      ],
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-black-moon-tag-v1.webp",
+        "alt": "Black Moon — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      }
     },
     {
       "id": "common",
@@ -1855,7 +1879,13 @@
       },
       "scopeOwnNames": [
         "Common"
-      ]
+      ],
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-common-tag-v1.webp",
+        "alt": "Common — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      }
     },
     {
       "id": "the-roots",
@@ -1947,7 +1977,13 @@
       },
       "scopeOwnNames": [
         "The Roots"
-      ]
+      ],
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-the-roots-tag-v1.webp",
+        "alt": "The Roots — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      }
     },
     {
       "id": "diamond-d",
@@ -2036,6 +2072,12 @@
           }
         ],
         "disclosure": "選曲順と聴きどころはCRATEDIGGIN’の編集上の提案です。制作当事者の回想、公式クレジット、編集上の聴き方を区別しています。全ディスコグラフィーや制作工程を網羅するものではありません。"
+      },
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-diamond-d-tag-v1.webp",
+        "alt": "Diamond D — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
       }
     },
     {
@@ -2135,6 +2177,12 @@
           }
         ],
         "disclosure": "選曲順と聴きどころはCRATEDIGGIN’の編集上の提案です。制作当事者の回想、公式クレジット、編集上の聴き方を区別しています。全ディスコグラフィーや制作工程を網羅するものではありません。"
+      },
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-9th-wonder-tag-v1.webp",
+        "alt": "9th Wonder — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
       }
     },
     {
@@ -2213,6 +2261,12 @@
           }
         ],
         "disclosure": "選曲順と聴きどころはCRATEDIGGIN’の編集上の提案です。制作当事者の回想、公式クレジット、編集上の聴き方を区別しています。全ディスコグラフィーや制作工程を網羅するものではありません。"
+      },
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-rza-tag-v1.webp",
+        "alt": "RZA — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
       }
     },
     {
@@ -2301,6 +2355,12 @@
           }
         ],
         "disclosure": "選曲順と聴きどころはCRATEDIGGIN’の編集上の提案です。制作当事者の回想、公式クレジット、編集上の聴き方を区別しています。全ディスコグラフィーや制作工程を網羅するものではありません。"
+      },
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-prince-paul-tag-v1.webp",
+        "alt": "Prince Paul — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
       }
     },
     {
@@ -2387,7 +2447,13 @@
       },
       "scopeOwnNames": [
         "KRS-One"
-      ]
+      ],
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-krs-one-tag-v1.webp",
+        "alt": "KRS-One — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      }
     },
     {
       "id": "mos-def",
@@ -2473,7 +2539,13 @@
       },
       "scopeOwnNames": [
         "Mos Def"
-      ]
+      ],
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-mos-def-tag-v1.webp",
+        "alt": "Mos Def — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
+      }
     },
     {
       "id": "da-beatminerz",
@@ -2551,6 +2623,12 @@
           }
         ],
         "disclosure": "選曲順と聴きどころはCRATEDIGGIN’の編集上の提案です。制作当事者の回想、公式クレジット、編集上の聴き方を区別しています。全ディスコグラフィーや制作工程を網羅するものではありません。"
+      },
+      "visual": {
+        "nameOnly": true,
+        "tag": "feature-da-beatminerz-tag-v1.webp",
+        "alt": "Da Beatminerz — オリジナル・グラフィティタグ",
+        "provenance": "original-artwork"
       }
     }
   ]
