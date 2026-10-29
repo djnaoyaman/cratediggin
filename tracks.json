@@ -88321,5 +88321,160 @@
       "paletteNote": "実表示ラベルのcream/neutralgray/charcoalを編集上近似。overlayによる淡さを留保。サイト黒背景/redNEWは除外、原ロゴ/円盤/バーコード/文字配置を複製しない。"
     },
     "addedOrder": 677
+  },
+  {
+    "id": "slick-rick-behind-bars-dum-ditty-dum-mix",
+    "title": "Behind Bars (Dum Ditty Dum Mix)",
+    "artist": "Slick Rick feat. Warren G",
+    "primaryArtist": "Slick Rick",
+    "primaryArtists": [
+      "Slick Rick"
+    ],
+    "artists": [
+      "Slick Rick",
+      "Warren G"
+    ],
+    "album": "Behind Bars",
+    "year": 1994,
+    "yearStatus": "verified",
+    "yearBasis": "DefJam正規1994カタログ、1994-11-12Billboard当時評、1994US原LP曲目B5のWarrenG版を照合。後年配信日と原発売年を分離。",
+    "region": "New York",
+    "regionBasis": "UMG掲載の本人取材全文でLondon出生、Bronx移住/Harlem活動を区別し、既存NY活動分類を維持。客演の出生地には広げない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Behind Bars — Beatport / Def Jam",
+        "url": "https://www.beatport.com/track/behind-bars/21753140",
+        "kind": "正規DumDittyDumMix W/WarrenG、1994、3:23。W/O版は別項目"
+      },
+      {
+        "label": "Behind Bars — Qobuz / Def Jam",
+        "url": "https://www.qobuz.com/no-en/album/behind-bars-slick-rick/0073145238472",
+        "kind": "正規アルバム曲11の索引、1994・3:21。PrincePaul制作とWarrenGmixingタグを別役割として保持。直接ページcachemiss"
+      },
+      {
+        "label": "Singles review — Billboard, November 12 1994",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/90s/1994/BB-1994-11-12-N.pdf",
+        "kind": "同時代誌索引のDumDittyDumMix/WarrenG客演言及。PDF全体は未読"
+      },
+      {
+        "label": "Behind Bars US original LP — Crib Records",
+        "url": "https://www.cribrecords.jp/product/5203",
+        "kind": "現物商品全文、1994US盤B5にDumDittyDumMixfeatWarrenG。実ジャケットを商品画面で視認、SOLDOUToverlayで色近似を留保"
+      },
+      {
+        "label": "Slick Rick interview — uDiscoverMusic / UMG",
+        "url": "https://www.udiscovermusic.com/stories/slick-rick-interview-great-adventures/",
+        "kind": "BenMerlis本人取材全文、London出生とBronx移住/Harlem活動を分けて確認。個人史の曲意図への転用なし"
+      },
+      {
+        "label": "Behind Bars Dum Ditty Dum Mix W/ Warren G — Slick Rick Topic",
+        "url": "https://www.youtube.com/watch?v=F4gYg7137hQ",
+        "kind": "UMG公式3:24、WarrenG有り版を明示。W/O3:19・短いMV・inst・faneditと比較"
+      },
+      {
+        "label": "Behind Bars W/O Warren G — Beatport comparison",
+        "url": "https://www.beatport.com/track/behind-bars/21753139",
+        "kind": "正規カタログ上の別の客演なし版。今回再生元にはしていない"
+      }
+    ],
+    "essayTitle": "Warren Gの声が入る、もうひとつの版。",
+    "deck": "Dum Ditty Dum Mixの中から、客演ありの公式音源を選ぶ。",
+    "essay": [
+      "1994年11月のBillboardのシングル評は、「Dum Ditty Dum Mix」を取り上げ、Warren Gの客演ラップにも触れている。同名のリミックスにはWarren G有りと無しの版が並ぶが、原LPの曲目にも載るのは客演有りのほう。ここでは、その版を明記した公式音源を選んだ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2,
+        3,
+        6
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1994年のアルバムとシングル",
+        "text": "正規DefJamの年表記、同時代誌の紹介、US原LP目録を照合して1994を採用しました。原受領のBehind The Barsを正規題Behind Barsへ対応させ、Dum Ditty Dumというリミックス指定を保持しています。",
+        "sources": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "title": "Warren G有りを明記",
+        "text": "選択UMG音源はW/ Warren G、3:24。正規別カタログでは3:23、アルバム項目では3:21と尺差があるため同一マスターとは断定しません。W/O3:19、2:58の公式MV、Instrumental、投稿者が再編集と明記した動画は区別しました。実音声・日本での再生可否は未確認です。",
+        "sources": [
+          0,
+          1,
+          5,
+          6
+        ]
+      },
+      {
+        "title": "役割と配色を分ける",
+        "text": "正規配信の索引にあるPrince Paulの制作とWarren Gのmixingは同一の役割としてまとめず、構造化した制作欄は未登録にしています。配色は1994LP実写真の冷たい青・lavender gray・暗灰・白からの編集上の近似。SOLDOUTの薄い重ね表示で厳密色は測れず、写真外のサイトcream地は使っていません。",
+        "sources": [
+          1,
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "Warren G有り/無しを別の版として確認し、選択音源の客演パートへ耳を向ける。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "London出生とNewYork活動を分離。原1994LPと選択DumDittyDumW/WarrenG版の対応を明示、元曲制作とremix/mixing役割を統合しない。",
+    "youtube": {
+      "id": "F4gYg7137hQ",
+      "url": "https://www.youtube.com/watch?v=F4gYg7137hQ",
+      "embedUrl": "https://www.youtube.com/embed/F4gYg7137hQ",
+      "title": "Behind Bars (Dum Ditty Dum Mix W/ Warren G)",
+      "channel": "Slick Rick - Topic / OfficialSlickRick",
+      "type": "公式配信 / Dum Ditty Dum Mix with Warren G",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 204,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示でUMG/WarrenG有り版/3:24を確認。W/O3:19、MV2:58、inst、faneditを比較。原LPB5と正規版名対応、配信尺差3:21/3:23保持。実再生と原master完全一致は未確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [
+      "Warren G"
+    ],
+    "art": {
+      "word": "BEHIND BARS",
+      "tag": "DUM DITTY DUM MIX / SLICK RICK feat. WARREN G",
+      "style": "tag",
+      "seed": 2026102941,
+      "palette": [
+        "#C8CBDD",
+        "#7B91AC",
+        "#3B4953",
+        "#F4F4F2",
+        "#40A8CF"
+      ],
+      "paletteSource": "1994 US Behind Bars LP actual cover displayed on Crib product page2026-10-29, softened by SOLDOUT overlay.",
+      "paletteSourceUrl": "https://www.cribrecords.jp/product/5203",
+      "paletteNote": "実画像のcoldblue/lavendergray/darkgray/whiteと小cyanaccentを編集近似。overlayで原色の厳密採取はしない。サイトcream背景・人物・原ロゴ・写真montageは複製しない。"
+    },
+    "addedOrder": 678
   }
 ]
