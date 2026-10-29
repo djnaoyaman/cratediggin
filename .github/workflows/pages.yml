@@ -157,8 +157,8 @@ jobs:
         with:
           name: current-song-visual-review
           path: |
-            /tmp/external-audio-slick-rick-behind-bars-dum-ditty-dum-mix-390.png
-            /tmp/external-audio-slick-rick-behind-bars-dum-ditty-dum-mix-1280.png
+            /tmp/external-audio-black-moon-how-many-emcees-bushwick-jeep-beats-390.png
+            /tmp/external-audio-black-moon-how-many-emcees-bushwick-jeep-beats-1280.png
           if-no-files-found: error
       - uses: actions/upload-pages-artifact@v4
         if: github.event_name != 'pull_request' && steps.plan.outputs.publish == 'true'
