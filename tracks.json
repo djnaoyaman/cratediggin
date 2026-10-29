@@ -84805,5 +84805,132 @@
     "datePublished": "2026-10-29",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 652
+  },
+  {
+    "id": "cella-dwellas-worries",
+    "title": "Worries",
+    "artist": "Cella Dwellas",
+    "primaryArtist": "Cella Dwellas",
+    "primaryArtists": [
+      "Cella Dwellas"
+    ],
+    "artists": [
+      "Cella Dwellas"
+    ],
+    "album": "Realms 'N' Reality",
+    "year": 1996,
+    "yearStatus": "verified",
+    "yearBasis": "正規再発レーベル90s Tapesが原作1996年と明示。RCA公式音源も1996権利表記。2021再発や2016ミックスの年と分ける。",
+    "region": "New York",
+    "regionBasis": "90s Tapes正規再発解説がBrooklynのUGとPhantasmの二人組と記載。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Cella Dwellas — Realms N Reality",
+        "url": "https://90stapes.bandcamp.com/album/realms-n-reality",
+        "kind": "90s Tapes正規再発レーベル。1996原作、BrooklynのUGとPhantasmを確認。再発2021と区別"
+      },
+      {
+        "label": "Cella Dwellas — Worries",
+        "url": "https://www.youtube.com/watch?v=L2CsNNEd4Z4",
+        "kind": "RCA公式配信、1996 Realms N Reality、実検索表示4:02"
+      },
+      {
+        "label": "Realms N Reality — Apple Music",
+        "url": "https://music.apple.com/us/album/realms-n-reality/268472365",
+        "kind": "正規アルバムカタログ"
+      },
+      {
+        "label": "Realms N Reality — 正規再発カバー",
+        "url": "https://f4.bcbits.com/img/a3468310197_10.jpg",
+        "kind": "90s Tapes実ページから取得し目視。人物・既存文字・石壁を複製しない"
+      }
+    ],
+    "essayTitle": "二人の名前を、アルバムの名前とともに。",
+    "deck": "BrooklynのUGとPhantasm。Cella Dwellasの1996年作Realms N Realityから、Worriesを。",
+    "essay": [
+      "Cella Dwellasは、BrooklynのUGとPhantasmによる二人組。Worriesが収められた1996年のRealms N Realityは、2021年に90s Tapesから再発された。作品の名前が大きな世界を指す一方で、曲名は日々の心配事を思わせる。その言葉の距離を楽しみながら、一曲だけ取り出してみるのもいい。曲名からの連想はあくまでこちらの読み方だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ]
+    ],
+    "facts": [
+      {
+        "title": "原作1996、再発2021",
+        "text": "90s Tapesの正規再発情報は、原作を1996年と説明しています。Bandcampの2021年6月22日は再発の発売日で、曲の初出年ではありません。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "UGとPhantasm",
+        "text": "正規再発レーベルの紹介で、Brooklynを拠点とするUGとPhantasmの二人組と確認できます。アルバム全体の制作紹介から、Worriesの担当プロデューサーまでは断定していません。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "公式の単曲音源",
+        "text": "選択した公式RCA配信はWorries、表示尺4:02。インストゥルメンタルではなくRealms N Reality収録の単曲を採用しています。実音声・日本からの再生と原盤マスター同一性は未確認です。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "Realms N Realityという作品名とWorriesという曲名を、二人組の来歴とともに辿る。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "作品名と曲名の距離は編集上の連想であって、本人の制作意図の主張ではない。アルバム大半のproducerを当該曲へ割り当てない。",
+    "art": {
+      "word": "WORRIES",
+      "tag": "CELLA DWELLAS",
+      "style": "tag",
+      "seed": 2026102916,
+      "palette": [
+        "#D89A22",
+        "#753A20",
+        "#2D0D12",
+        "#F4E9CB"
+      ],
+      "paletteSource": "Realms N Reality licensed 90s Tapes reissue cover, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://f4.bcbits.com/img/a3468310197_10.jpg",
+      "paletteNote": "正規再発画像の黄土金、錆茶、暗い赤紫、クリームを目視近似。人物、石の入口、既存のブラックレター書体を複製しない幅広の独自マーカー文字。"
+    },
+    "youtube": {
+      "id": "L2CsNNEd4Z4",
+      "url": "https://www.youtube.com/watch?v=L2CsNNEd4Z4",
+      "embedUrl": "https://www.youtube.com/embed/L2CsNNEd4Z4",
+      "title": "Worries",
+      "channel": "CellaDwellasTV / Cella Dwellas - Topic",
+      "type": "公式配信 / Realms N Reality収録版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 242,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実YouTube検索で公式アーティスト/Topic、RCA提供、1996権利表記、4:02を確認。インストゥルメンタル候補とは区別。実再生・日本再生・原盤とのマスター同一性は未検証。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 653
   }
 ]
