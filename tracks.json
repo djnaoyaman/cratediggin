@@ -84393,7 +84393,7 @@
     "artists": [
       "Black Moon"
     ],
-    "album": "Diggin' In Dah Vaults",
+    "album": "Buck Em Down / Murder MC's (12-inch single)",
     "year": 1994,
     "yearStatus": "verified",
     "yearBasis": "1994 USシングルBuck Em DownのB面として現物販売曲目が記載。対応A面ラベル写真に©&℗1994 Nervousを目視。後年のコンピレーション1995℗を初出年としない。",
@@ -84418,7 +84418,7 @@
       {
         "label": "Black Moon - Topic — Murder MCs",
         "url": "https://www.youtube.com/watch?v=khpq8IlnG5U",
-        "kind": "Nervous公式配信、Diggin In Dah Vaults、1995℗、vocal5:23メタデータ"
+        "kind": "後年のDiggin In Dah Vaults公式配信を比較する参考資料。旧選択音源であり、現在の再生先ではない。1995権利表記と表示5:23を当該新動画へ転用しない。"
       },
       {
         "label": "Black Moon — Red Bull Music Academy lecture",
@@ -84429,6 +84429,11 @@
         "label": "Buck Em Down シングルA面ラベル現物写真",
         "url": "https://www.turntablelab.com/cdn/shop/products/blackmoon-1.jpg?v=1762198663",
         "kind": "©&℗1994 Nervous表記と配色を目視。写真はA面でありMurder MCsのB面ラベルとは称さない"
+      },
+      {
+        "label": "Black Moon - Topic — Murder MC's (B Side Vocals)",
+        "url": "https://www.youtube.com/watch?v=oVx2ANMMubI",
+        "kind": "利用者指定の公式Topic。実画面の曲名・B面ボーカル表記と投稿者を確認。確認環境では視聴不可表示、利用者側の可否は未判定。"
       }
     ],
     "essayTitle": "ひとつのBrooklyn、異なる出発点。",
@@ -84455,21 +84460,22 @@
         ]
       },
       {
-        "title": "保管庫からの配信",
-        "text": "選択した公式音源はDiggin In Dah Vaults収録、1995 Nervousの権利表記です。この後年の配信作品の年を、1994年のシングル初出と置き換えていません。",
+        "title": "B Side Vocalsの表記",
+        "text": "今回選択した公式Topicは、動画名にB Side Vocalsと明記されています。参考資料として残したDiggin In Dah Vaultsの配信とは区別し、原1994年シングルとのマスター同一性までは断定しません。",
         "sources": [
           0,
           1,
-          2
+          2,
+          5
         ]
       },
       {
-        "title": "表示尺と演者欄",
-        "text": "選択公式動画は5:23。原12インチの販売曲目には5:17とあり、同一マスターとは断定しません。配信欄のSmif-N-Wessun併記だけから、この曲の客演役割を確定していません。",
+        "title": "確認環境での再生表示",
+        "text": "確認用ブラウザでは、この指定動画に視聴できない旨の表示がありました。利用者の端末や日本での再生可否は未判定です。動画の実測尺も未確認で、原12インチの販売資料にある5:17を動画尺として転記していません。",
         "sources": [
           0,
           1,
-          2
+          5
         ]
       }
     ],
@@ -84501,21 +84507,27 @@
       "paletteNote": "当該B面を収録するシングルのA面ラベルから黄、焦茶、クリームを目視近似。B面ラベルの参照とは称さず、Nervousロゴ・キャラクター・盤形を複製しない独自文字。"
     },
     "youtube": {
-      "id": "khpq8IlnG5U",
-      "url": "https://www.youtube.com/watch?v=khpq8IlnG5U",
-      "embedUrl": "https://www.youtube.com/embed/khpq8IlnG5U",
-      "title": "Murder MC's",
+      "id": "oVx2ANMMubI",
+      "url": "https://www.youtube.com/watch?v=oVx2ANMMubI",
+      "embedUrl": "https://www.youtube.com/embed/oVx2ANMMubI",
+      "title": "Murder MC's (B Side Vocals)",
       "channel": "Black Moon - Topic",
-      "type": "公式配信 / Diggin In Dah Vaults収録版",
+      "type": "利用者指定 / 公式Topic・B Side Vocals",
       "official": true,
       "metadataVerified": true,
       "verified": "2026-10-29",
-      "durationSeconds": 323,
       "playbackVerified": false,
       "embeddedPlaybackVerified": false,
       "japanPlaybackVerified": false,
       "exactMasterVerified": false,
-      "verification": "実YouTube検索でBlack Moon公式Topic、Nervous提供、Diggin In Dah Vaults、1995権利表記、5:23を確認。Smif-N-Wessun併記は客演役割と断定しない。実音声・日本再生・原12インチとのマスター同一性は未検証。"
+      "verification": "利用者直指定。実watch画面でBlack Moon - TopicとMurder MC’s (B Side Vocals)を確認。確認用cloud browserでは動画を再生できません／この動画はご覧いただけませんと表示。利用者端末や日本の再生不可とは断定しない。尺と原盤マスター一致は未確認。",
+      "availabilityObservation": {
+        "context": "確認用cloud browserのwatch画面",
+        "message": "動画を再生できません。この動画はご覧いただけません。",
+        "observedAt": "2026-10-29",
+        "appliesToUserDevice": false,
+        "japanAvailabilityDetermined": false
+      }
     },
     "datePublished": "2026-10-29",
     "noteReviewedAt": "2026-10-29",
