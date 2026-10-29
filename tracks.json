@@ -84720,6 +84720,11 @@
         "label": "Nocturnal 原盤カバー写真",
         "url": "https://www.groovenutrecords.net/html/upload/save_image/0708174416_668ba6e0c9131.jpg",
         "kind": "現物画像の配色を目視。人物、割れたガラス、既存文字を複製しない"
+      },
+      {
+        "label": "Sm0k3y1986 — Heltah Skeltah – Undastand",
+        "url": "https://www.youtube.com/watch?v=aoYaB47kODI",
+        "kind": "利用者指定の単曲動画。曲名・演者・投稿者の検索照合。直接画面取得は技術的に未完了で、公式配信や特定editとは表示しない。"
       }
     ],
     "essayTitle": "Nocturnalの中の、三つの名前。",
@@ -84787,20 +84792,20 @@
       "paletteNote": "実画像の暗い緑、炭色、赤、アイボリーを目視近似した独自文字。肖像、割れたガラス、既存のカバーレイアウトや文字形を複製しない。"
     },
     "youtube": {
-      "id": "Tin6Su8Nkas",
-      "url": "https://www.youtube.com/watch?v=Tin6Su8Nkas",
-      "embedUrl": "https://www.youtube.com/embed/Tin6Su8Nkas",
-      "title": "Undastand",
-      "channel": "Heltah Skeltah - Topic",
-      "type": "公式配信 / Nocturnal収録版",
-      "official": true,
+      "id": "aoYaB47kODI",
+      "url": "https://www.youtube.com/watch?v=aoYaB47kODI",
+      "embedUrl": "https://www.youtube.com/embed/aoYaB47kODI",
+      "title": "Heltah Skeltah – Undastand",
+      "channel": "Sm0k3y1986",
+      "type": "利用者指定 / Undastand単曲動画",
+      "official": false,
       "metadataVerified": true,
       "verified": "2026-10-29",
       "playbackVerified": false,
       "embeddedPlaybackVerified": false,
       "japanPlaybackVerified": false,
       "exactMasterVerified": false,
-      "verification": "公式YouTubeの全文メタデータでUMG、Nocturnal、1996 Duck Down/Priority、三名の作曲者を確認。正規カタログ4:15は動画実測尺としない。実再生・日本再生・原盤とのマスター同一性は未検証。"
+      "verification": "利用者が指定した動画ID。exact-ID検索の引用でHeltah Skeltah – UndastandとSm0k3y1986を照合。直接watch画面の取得は技術タイムアウトで、尺・映像形式・具体的edit名・原盤とのマスター一致は未確認。一般投稿として区分し、実再生・日本再生を確認済みとはしない。"
     },
     "datePublished": "2026-10-29",
     "noteReviewedAt": "2026-10-29",
