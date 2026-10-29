@@ -15217,6 +15217,46 @@
         "sourceImage": "assets/graffiti/originals/godfather-don-piece-of-the-action-tag-original.png",
         "sourceSha256": "5dd64c9ceb4fa1341dbca6179a8f826ee425c7e64a4035ecbf5d60a453ff0d67"
       }
+    },
+    {
+      "id": "ed-o-g-acting",
+      "title": "Acting",
+      "artist": "Ed O.G",
+      "album": "Acting / Six Song EP",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#984E47",
+        "#B6D0D9",
+        "#687584",
+        "#E8DFCB",
+        "#25252B"
+      ],
+      "paletteSource": "Acting 2025 official90sTapes reissue artwork, visually inspected2026-10-29 UTC; not original1996single sleeve.",
+      "paletteSourceURL": "https://f4.bcbits.com/img/a3299715698_10.jpg",
+      "paletteNote": "実ジャケットの錆赤、淡青空、灰青デニム、creamと黒を目視近似。人物、手の絵、電柱、煉瓦、原文字配置は複製しない。",
+      "image": "assets/graffiti/ed-o-g-acting-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/ed-o-g-acting-tag-original.png",
+      "concept": "ACTING / ED O.Gの独自文字。2025正規再発配色のみ参照、人物や手の絵と原文字配置を複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          140,
+          56,
+          1853,
+          735
+        ],
+        "outputSha256": "dca5d6452e6732e9aaace2d4f04f51b90f951d847b41d832415ab9c6d6a96dd5",
+        "sourceImage": "assets/graffiti/originals/ed-o-g-acting-tag-original.png",
+        "sourceSha256": "56ff85b6a4befe2b592018f3b79cf602541bc0f0e0814b7af8952822e6f0c22a"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

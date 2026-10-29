@@ -87309,5 +87309,136 @@
     "noteReviewedAt": "2026-10-29",
     "featuredArtists": [],
     "addedOrder": 670
+  },
+  {
+    "id": "ed-o-g-acting",
+    "title": "Acting",
+    "artist": "Ed O.G",
+    "primaryArtist": "Ed O.G",
+    "primaryArtists": [
+      "Ed O.G"
+    ],
+    "artists": [
+      "Ed O.G"
+    ],
+    "album": "Acting / Six Song EP",
+    "year": 1996,
+    "yearStatus": "verified",
+    "yearBasis": "正規90’s Tapes/HHVの選択Topicに1996年配信作品メタデータ、原MV投稿説明に1996 Solid EP。レーベル説明は1996録音と90年代先行EPを区別。原ラベル未目視、初発売日は断定しない。",
+    "region": "Boston",
+    "regionBasis": "WBUR本人取材のBoston/Roxbury記述。既存の都市分類Bostonを使用。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Acting — 90’s Tapes",
+        "url": "https://90stapes.bandcamp.com/album/acting",
+        "kind": "公式2025再発。1996録音、90年代EP/12inch先行、2008アルバム初公開、標準4:31とRemix4:24、制作/新装アートを説明"
+      },
+      {
+        "label": "Ed O.G and MaceyOMaze — WBUR",
+        "url": "https://www.wbur.org/news/2025/05/01/maceyomaze-edog-see-you-in-boston-hip-hop",
+        "kind": "本人取材全文。BostonとRoxburyへの本人言及。歌詞の転載なし"
+      },
+      {
+        "label": "Acting — Edo. G - Topic",
+        "url": "https://www.youtube.com/watch?v=kkzXf8aUdlA",
+        "kind": "90’s Tapes/HHV提供の標準版4:32、現在の配信メタデータに1996年。初版日付の現物確認とは別"
+      },
+      {
+        "label": "EDO.G Acting Music Video — Jamieson Grillo",
+        "url": "https://www.youtube.com/watch?v=Wuh4sto8cLg",
+        "kind": "比較した一般投稿MV5:00、説明に1996 Solid Six Song EP/12inchと監督名。公式投稿とは認定しない"
+      }
+    ],
+    "essayTitle": "EPから、アルバムの全体像へ。",
+    "deck": "1996年に録音された作品を、標準版のActingから。",
+    "essay": [
+      "「Acting」のアルバムは1996年に録音されたが、全体が発売されたのは2008年だった。90年代には、その一部がEPや12インチとして先に世に出ている。90’s Tapesの2025年再発は、Joe MansfieldとVinyl Reanimatorsによる制作を紹介し、Ed O.G提供の当時の素材を使って装丁も新たにした。ここでは標準版「Acting」を選び、別収録のRemixとは分けている。"
+    ],
+    "essaySources": [
+      [
+        0
+      ]
+    ],
+    "facts": [
+      {
+        "title": "録音、先行盤、全アルバム",
+        "text": "公式説明は1996年録音、90年代のEP/12インチ、2008年のアルバム初公開を分けています。掲載年は正規配信メタデータと原MV投稿説明の1996を照合して採用。原ラベルは未目視で、初発売日は断定しません。",
+        "sources": [
+          0,
+          2,
+          3
+        ]
+      },
+      {
+        "title": "標準版とRemix",
+        "text": "選択Topicは標準版4:32。公式Bandcampは標準4:31、Remix4:24、Instrumental4:34を別に掲載しています。MV5:00と一般EP音源4:31も比較し、版対応の明確な正規標準版を選択しました。実音声・日本からの再生、原マスター完全一致は未確認です。",
+        "sources": [
+          0,
+          2,
+          3
+        ]
+      },
+      {
+        "title": "新装の2025年アート",
+        "text": "配色参照は正規2025年再発の実ジャケットで、1996年の原盤装丁ではありません。レーベルが記すJoe Mansfield / Vinyl Reanimatorsはアルバム制作の説明として扱い、当該曲の細かな担当分担を補っていません。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "標準Actingと別収録のRemixを、同一版として扱わず聴き分ける。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "Edo G/Edo. Gは既存Ed O.Gと同じ名義の表記揺れとして既存索引を維持。録音1996/アルバム2008/再発2025を区別し、他曲客演や個別制作役割を転用しない。",
+    "art": {
+      "word": "ACTING",
+      "tag": "ED O.G",
+      "style": "tag",
+      "seed": 2026102934,
+      "palette": [
+        "#984E47",
+        "#B6D0D9",
+        "#687584",
+        "#E8DFCB",
+        "#25252B"
+      ],
+      "paletteSource": "Acting 2025 official90sTapes reissue artwork, visually inspected2026-10-29 UTC; not original1996single sleeve.",
+      "paletteSourceUrl": "https://f4.bcbits.com/img/a3299715698_10.jpg",
+      "paletteNote": "実ジャケットの錆赤、淡青空、灰青デニム、creamと黒を目視近似。人物、手の絵、電柱、煉瓦、原文字配置は複製しない。"
+    },
+    "youtube": {
+      "id": "kkzXf8aUdlA",
+      "url": "https://www.youtube.com/watch?v=kkzXf8aUdlA",
+      "embedUrl": "https://www.youtube.com/embed/kkzXf8aUdlA",
+      "title": "Acting",
+      "channel": "Edo. G - Topic",
+      "type": "正規配信 / 標準版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 272,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示で90’s Tapes/HHV/Acting DeluxeEdition/標準4:32を確認。公式Bandcamp標準4:31とRemix4:24を区別、一般MV5:00/EP4:31と比較。原マスター一致・実音声・日本再生は未確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [],
+    "addedOrder": 671
   }
 ]
