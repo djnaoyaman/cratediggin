@@ -15297,6 +15297,45 @@
         "sourceImage": "assets/graffiti/originals/jigmastas-dead-mans-walk-tag-original.png",
         "sourceSha256": "433d54be6a06809ab052a064c66068b3e3775eeb4d44332a1cfdce8097c18fd1"
       }
+    },
+    {
+      "id": "nonce-live-direct",
+      "title": "Live & Direct",
+      "artist": "The Nonce",
+      "album": "The Sight Of Things",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#2056A1",
+        "#60738A",
+        "#101719",
+        "#F6F7F3"
+      ],
+      "paletteSource": "The Sight Of Things2021official90sTapes reissue artwork, visually inspected2026-10-29 UTC; notoriginalsingle sleeve.",
+      "paletteSourceURL": "https://f4.bcbits.com/img/a0258121772_10.jpg",
+      "paletteNote": "実ジャケットのcobaltblue、青灰、nearblack、白を目視近似。人物写真、既存ブロック文字と配置を複製しない独自handstyle。",
+      "image": "assets/graffiti/nonce-live-direct-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/nonce-live-direct-tag-original.png",
+      "concept": "LIVE & DIRECT / THE NONCEの独自handstyle。2021正規再発の青黒白のみ参照、人物・原ロゴ・配置は複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          143,
+          60,
+          1888,
+          792
+        ],
+        "outputSha256": "1d85d4eadc5adf87d2d80414c318b9f42fe82dcd3b950034bd080386482d2418",
+        "sourceImage": "assets/graffiti/originals/nonce-live-direct-tag-original.png",
+        "sourceSha256": "86ce2e0d4d60f13c4cae4a3a3d1135ee1f64ecc6326d833f4bb935e2fb450574"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
