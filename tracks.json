@@ -84662,5 +84662,148 @@
     ],
     "producerBasis": "UMG公式動画のProducerとBe With提供の再発解説で当該曲をDJ Premier制作と確認。",
     "addedOrder": 651
+  },
+  {
+    "id": "heltah-skeltah-undastand",
+    "title": "Undastand",
+    "artist": "Heltah Skeltah",
+    "primaryArtist": "Heltah Skeltah",
+    "primaryArtists": [
+      "Heltah Skeltah"
+    ],
+    "artists": [
+      "Heltah Skeltah"
+    ],
+    "album": "Nocturnal",
+    "year": 1996,
+    "yearStatus": "verified",
+    "yearBasis": "Universal Music Japan公式商品ページのオリジナル発売日1996.06.18、曲目UndastandおよびUMG公式音源の1996権利表記。再発商品年と区別。",
+    "region": "New York",
+    "regionBasis": "Apple正規アルバム解説のBrooklynを拠点とするBoot Camp Clik文脈。Dru-Ha本人の回想はSean PriceのBrownsvilleに限定し、Rockの出生地とは称さない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Nocturnal — Universal Music Japan",
+        "url": "https://www.universal-music.co.jp/p/uicy-77606/",
+        "kind": "公式商品のオリジナル発売日1996.06.18と曲目。別作品に言及する誤った紹介段落は参照しない"
+      },
+      {
+        "label": "Heltah Skeltah - Topic — Undastand",
+        "url": "https://www.youtube.com/watch?v=Tin6Su8Nkas",
+        "kind": "UMG公式音源。Nocturnal、1996 Duck Down/Priority、作曲者を確認"
+      },
+      {
+        "label": "Nocturnal — Apple Music",
+        "url": "https://music.apple.com/us/album/nocturnal/723345818",
+        "kind": "正規アルバム解説。BrooklynのBoot Camp Clikに属する二人組の文脈"
+      },
+      {
+        "label": "Dru-Ha’s Eulogy for Sean Price",
+        "url": "https://seanprice.duckdown.com/2015/08/19/dru-has-eulogy/",
+        "kind": "Duck Down共同創設者による本人回想。Sean PriceのBrownsville、Brooklynの来歴"
+      },
+      {
+        "label": "Nocturnal — 1996 US vinyl",
+        "url": "https://www.groovenutrecords.net/products/detail/15502",
+        "kind": "P1 50532原盤の販売曲目。UndastandはA3"
+      },
+      {
+        "label": "Nocturnal — licensed Qobuz catalog",
+        "url": "https://www.qobuz.com/nl-nl/album/nocturnal-heltah-skeltah/0724384191955",
+        "kind": "正規配信カタログのUndastand4:15。動画実測尺とは区別"
+      },
+      {
+        "label": "Nocturnal 原盤カバー写真",
+        "url": "https://www.groovenutrecords.net/html/upload/save_image/0708174416_668ba6e0c9131.jpg",
+        "kind": "現物画像の配色を目視。人物、割れたガラス、既存文字を複製しない"
+      }
+    ],
+    "essayTitle": "Nocturnalの中の、三つの名前。",
+    "deck": "Heltah Skeltahの二人に、もう一つの作曲者名。公式クレジットからUndastandへ入る。",
+    "essay": [
+      "Undastandの公式作曲者欄には、Jahmal Bush、Sean Price、Paul Hendricksの三名が並ぶ。Heltah Skeltahの二人の名だけでなく、曲に関わったもう一人へも目を向けたい。1996年のNocturnalでは、US盤のA面3曲目に置かれた一曲。大きなアルバム名の下にある、小さな一行のクレジットから辿ってみる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        4
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1996年のNocturnal",
+        "text": "Universal Music Japanの公式商品情報はオリジナル発売日を1996年6月18日と記載し、Undastandを曲目に掲載。再発商品の発売年を初出年にはしていません。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "三名の作曲者",
+        "text": "公式音源にはJahmal Bush、Paul Hendricks、Sean Priceが作曲者として記載されています。作曲者という表記だけから、担当楽器や使用サンプル、制作工程までは決めていません。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "単曲の収録情報",
+        "text": "1996年US盤の販売曲目ではA3、正規配信カタログでは4:15と記載。選択したYouTubeの実測尺や、原盤とのマスター同一性は未確認です。",
+        "sources": [
+          4,
+          5
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "三名の作曲者クレジットを手掛かりに、Nocturnal収録の単曲として辿る。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "公式作曲者の役割をproducerやサンプルの証明へ転用しない。Sean Price個人の地区をもう一人の出生地としない。",
+    "art": {
+      "word": "UNDASTAND",
+      "tag": "HELTAH SKELTAH",
+      "style": "tag",
+      "seed": 2026102915,
+      "palette": [
+        "#AF1B21",
+        "#14271D",
+        "#242728",
+        "#F1E8D3"
+      ],
+      "paletteSource": "Nocturnal 1996 US cover photograph viaGroovenut, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://www.groovenutrecords.net/html/upload/save_image/0708174416_668ba6e0c9131.jpg",
+      "paletteNote": "実画像の暗い緑、炭色、赤、アイボリーを目視近似した独自文字。肖像、割れたガラス、既存のカバーレイアウトや文字形を複製しない。"
+    },
+    "youtube": {
+      "id": "Tin6Su8Nkas",
+      "url": "https://www.youtube.com/watch?v=Tin6Su8Nkas",
+      "embedUrl": "https://www.youtube.com/embed/Tin6Su8Nkas",
+      "title": "Undastand",
+      "channel": "Heltah Skeltah - Topic",
+      "type": "公式配信 / Nocturnal収録版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "公式YouTubeの全文メタデータでUMG、Nocturnal、1996 Duck Down/Priority、三名の作曲者を確認。正規カタログ4:15は動画実測尺としない。実再生・日本再生・原盤とのマスター同一性は未検証。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 652
   }
 ]
