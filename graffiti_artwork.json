@@ -14187,6 +14187,46 @@
         "sourceImage": "assets/graffiti/originals/company-flow-vital-nerve-tag-original.png",
         "sourceSha256": "5f68c03250e592c6c21f4278a189b8515cd4e24cb12bce974bed52c471685eac"
       }
+    },
+    {
+      "id": "erick-sermon-boy-meets-world",
+      "title": "Boy Meets World",
+      "artist": "Erick Sermon feat. Rockwilder",
+      "album": "Double Or Nothing",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#EFE5CC",
+        "#143B29",
+        "#6B233F",
+        "#A78AA8",
+        "#111513"
+      ],
+      "paletteSource": "Double Or Nothing official artist Bandcamp album cover, visually inspected2026-10-29 JST.",
+      "paletteSourceURL": "https://f4.bcbits.com/img/a1420242002_10.jpg",
+      "paletteNote": "実画像のクリーム、暗い緑、黒、眼の写真に含まれる赤紫・淡紫を目視で近似。眼や写真の格子を再現せず、丸い独自レタリングで構成。",
+      "image": "assets/graffiti/erick-sermon-boy-meets-world-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/erick-sermon-boy-meets-world-tag-original.png",
+      "concept": "BOY MEETS WORLDとERICK SERMON、feat.ROCKWILDERを丸い独自文字で構成。本人アルバム画像の配色のみ参照し、眼や格子写真を描かない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          121,
+          78,
+          1601,
+          1028
+        ],
+        "outputSha256": "4b597dccfe2aecc4aa1e32f9178fb72a8b8fd16809ccbca41f12860a4927640c",
+        "sourceImage": "assets/graffiti/originals/erick-sermon-boy-meets-world-tag-original.png",
+        "sourceSha256": "086a98017a3d6d2754a51e6e78381d2fe61cc779b8f0908732dc5b1f67954123"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
