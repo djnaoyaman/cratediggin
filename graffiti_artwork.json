@@ -14660,6 +14660,46 @@
         "sourceImage": "assets/graffiti/originals/black-star-kos-determination-tag-original.png",
         "sourceSha256": "c9a355ad34af9e11c1b0990668ba55842f09b0d0ef92652b2865ddf1f792d573"
       }
+    },
+    {
+      "id": "erick-sermon-welcome",
+      "title": "Welcome",
+      "artist": "Erick Sermon feat. Aaron Hall & Keith Murray",
+      "album": "Double Or Nothing",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#22452E",
+        "#665272",
+        "#A47736",
+        "#EEE6CB",
+        "#211E1C"
+      ],
+      "paletteSource": "Double Or Nothing artist Bandcamp cover, re-inspected2026-10-29 UTC.",
+      "paletteSourceURL": "https://f4.bcbits.com/img/a1420242002_10.jpg",
+      "paletteNote": "本人掲載画像の深緑、紫、温かい茶金、クリーム、黒を目視近似。目の写真・タイル・既存のロゴや文字形を複製せず、選択公式動画の客演表記を含む独自文字。",
+      "image": "assets/graffiti/erick-sermon-welcome-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/erick-sermon-welcome-tag-original.png",
+      "concept": "WELCOMEとErick Sermon、Aaron Hall、Keith Murrayの独自文字。本人カバーの配色のみ参照、目の写真やタイル配置を複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          144,
+          71,
+          1904,
+          936
+        ],
+        "outputSha256": "e86afc8cd698058a27a0b8bb876d170199402aacd6fdf795b64fd0f0f42e830e",
+        "sourceImage": "assets/graffiti/originals/erick-sermon-welcome-tag-original.png",
+        "sourceSha256": "536cf4bac4df8bdcd8ed0609714b5d633db893f417bce31bca570408ae444fc3"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
