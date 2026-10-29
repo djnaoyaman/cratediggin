@@ -86084,5 +86084,133 @@
       "Black Thought"
     ],
     "addedOrder": 661
+  },
+  {
+    "id": "heavy-d-listen",
+    "title": "Listen",
+    "artist": "Heavy D feat. Q-Tip",
+    "primaryArtist": "Heavy D",
+    "primaryArtists": [
+      "Heavy D"
+    ],
+    "artists": [
+      "Heavy D",
+      "Q-Tip"
+    ],
+    "album": "Heavy",
+    "year": 1999,
+    "yearStatus": "verified",
+    "yearBasis": "Apple/UMG正規アルバムHeavyの1999表記と選択音源℗1999 Universal Motownを照合。1月1日は正確な発売日として採用しない。",
+    "region": "New York",
+    "regionBasis": "Eddie Ferrell本人のRBMA回想はMount VernonでHeavy Dに出会い共同活動を始めたことを説明。活動地域であり出生地ではない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Heavy — Heavy D / Apple Music",
+        "url": "https://music.apple.com/us/album/heavy/1443262799",
+        "kind": "正規アルバム1999、track4 Listen feat.Q-Tip、3:26を実DOMで確認"
+      },
+      {
+        "label": "Listen (Album Version) — Heavy D - Topic",
+        "url": "https://www.youtube.com/watch?v=bpPmbCV382s",
+        "kind": "UMG提供、Heavy DとQ-Tip、Heavy、℗1999 Universal Motown、3:27を実表示で確認"
+      },
+      {
+        "label": "Eddie Ferrell — RBMA本人インタビュー",
+        "url": "https://daily.redbullmusicacademy.com/2014/10/key-tracks-heavy-d-and-the-boyz-big-tyme/",
+        "kind": "Mount Vernonでの出会いと活動についての本人回想。1989年アルバムの制作談は本曲へ転用しない"
+      }
+    ],
+    "essayTitle": "Heavy Dのソロ作に、Q-Tipを迎える。",
+    "deck": "1999年のHeavy。その4曲目に置かれた二人の共演。",
+    "essay": [
+      "1999年のソロ・アルバム『Heavy』で、Heavy DはQ-Tipを迎えて「Listen」を収録した。正規配信でも客演が明記された4曲目で、名義はHeavy D & The BoyzではなくHeavy D。ここではUMGがAlbum Versionと記す音源を選び、同名のJay Dee RemixやQ-Tip名義のミックステープ収録版とは分けている。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1999年のソロ名義",
+        "text": "正規配信はアルバムHeavy、Heavy Dの名義、Q-Tipの客演を記載。Waterbed Hevの1997年を本曲へ転記せず、1999年を採用しています。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "選択したAlbum Version",
+        "text": "選択TopicはUMG提供のAlbum Version、3:27。Appleの3:26とは1秒差があり、同一マスターの確定には使っていません。Jay Dee Remixやミックステープ版は採用していません。サイト内・日本での実音声再生可否は未確認です。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Mount Vernonでの活動",
+        "text": "Eddie FerrellはMount VernonでHeavy Dに出会い、共同活動を始めたと語っています。地域欄はこの活動の背景を示し、出生地やListenの録音場所を表すものではありません。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "Heavy Dのソロ作でQ-Tipを迎えたAlbum Versionとして、別リミックスと分けて聴く。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "客演は正規配信で確認。個別プロデューサーやサンプルは一次資料未確認のため付加しない。RBMAのBig Tyme制作回想を1999年Listenへ転用しない。",
+    "art": {
+      "word": "LISTEN",
+      "tag": "HEAVY D feat. Q-TIP",
+      "style": "tag",
+      "seed": 2026102925,
+      "palette": [
+        "#101011",
+        "#353437",
+        "#79777B",
+        "#B8B6BA",
+        "#F0EDEE"
+      ],
+      "paletteSource": "Heavy album licensed Apple cover, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/bb/a9/ae/bba9ae66-36bb-3fb3-193c-5cb6934b8761/00601215326024.rgb.jpg/296x296bb.webp",
+      "paletteNote": "実アルバムカバーの黒、チャコール、灰、銀灰、白を目視近似。人物、サングラス、手、毛皮、写真配置、既存文字は複製しない。"
+    },
+    "youtube": {
+      "id": "bpPmbCV382s",
+      "url": "https://www.youtube.com/watch?v=bpPmbCV382s",
+      "embedUrl": "https://www.youtube.com/embed/bpPmbCV382s",
+      "title": "Listen (Album Version)",
+      "channel": "Heavy D - Topic",
+      "type": "公式配信 / Heavy収録Album Version",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 207,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示でUMG提供、Heavy D・Q-Tip、Album Version、Heavy、℗1999 Universal Motown、3:27を確認。一般投稿、mixtape、Jay Dee Remixと比較。実音声・日本再生・マスター一致は未検証。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [
+      "Q-Tip"
+    ],
+    "addedOrder": 662
   }
 ]
