@@ -14818,6 +14818,47 @@
         "sourceImage": "assets/graffiti/originals/boogiemonsters-mc-mental-calisthenics-tag-original.png",
         "sourceSha256": "c81817708492a56afb2ec7d19321240f300c9956495f0d63149ca4e86ccde515"
       }
+    },
+    {
+      "id": "walkin-large-listen-to-this",
+      "title": "Listen to This",
+      "artist": "Walkin' Large feat. Black Thought",
+      "album": "Listen To This (12-inch single)",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#EEE8D9",
+        "#C1D1D1",
+        "#8C8988",
+        "#262221",
+        "#D55B2D",
+        "#575F92"
+      ],
+      "paletteSource": "Listen To This HRM001 physical single sleeve, visually inspected2026-10-29 UTC.",
+      "paletteSourceURL": "https://static.wixstatic.com/media/deb989_46a70e0e3a3246cb9014860ec726d8b8~mv2.jpg/v1/fill/w_2765%2Ch_2780%2Cal_c%2Cq_90%2Cenc_avif%2Cquality_auto/deb989_46a70e0e3a3246cb9014860ec726d8b8~mv2.jpg",
+      "paletteNote": "実スリーブのクリーム白、薄水色、灰、黒、ジャケットの橙赤と青紫を目視近似。人物写真、ステッカー配置、ハーフトーンや既存ロゴは複製しない。",
+      "image": "assets/graffiti/walkin-large-listen-to-this-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/walkin-large-listen-to-this-tag-original.png",
+      "concept": "LISTEN TO THIS、WALKIN LARGE、BLACK THOUGHTの独自文字。正規カバーの配色のみ参照、人物・車・ロゴ・配置を複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          159,
+          62,
+          2111,
+          820
+        ],
+        "outputSha256": "6a459a2c7cbe837f87cbf080b7699bd74bba0f262458f5e263255f2ee73c76b7",
+        "sourceImage": "assets/graffiti/originals/walkin-large-listen-to-this-tag-original.png",
+        "sourceSha256": "fe515727c3775369ffab1f4374ceff6fce7efd210e001207a27621a9813fe34d"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
