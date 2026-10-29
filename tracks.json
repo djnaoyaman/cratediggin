@@ -87035,5 +87035,145 @@
     "noteReviewedAt": "2026-10-29",
     "featuredArtists": [],
     "addedOrder": 668
+  },
+  {
+    "id": "science-of-sound-who-got-the-funk",
+    "title": "Who Got The Funk",
+    "artist": "Science Of Sound feat. Phife Dawg",
+    "primaryArtist": "Science Of Sound",
+    "primaryArtists": [
+      "Science Of Sound"
+    ],
+    "artists": [
+      "Science Of Sound",
+      "Phife Dawg"
+    ],
+    "album": "Science Of Sound EP (SOS01)",
+    "year": 1995,
+    "yearStatus": "verified",
+    "yearBasis": "SOS01 A面実ラベルの©℗1995を目視。同現物ページのB2曲目Who Got The Funkを照合。2020再発年と区別。",
+    "region": "New York",
+    "regionBasis": "Blackout掲載のHHV本人出演番組紹介がBrooklynのグループと記載。二次掲載の紹介文であり、元放送の発言全文は未確認。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Science Of Sound — SOS01現物",
+        "url": "https://ticro.com/products/s00003689",
+        "kind": "1995盤のB2曲目を販売現物記録で確認、取得した同盤Aラベル©℗1995を目視"
+      },
+      {
+        "label": "SOS01 A-side label",
+        "url": "https://ticro.com/cdn/shop/files/image-2022-09-11T164928.743_999a5a81-e71f-46c0-b6d9-3326527d2d8c_345x%402x.jpg?v=1687843602",
+        "kind": "原年と配色を目視。It Ain’t Safeに付くATCQ制作印をB面曲へ転用しない"
+      },
+      {
+        "label": "Kaleidoscope Phonetics — 90’s Tapes",
+        "url": "https://90stapes.bandcamp.com/album/kaleidoscope-phonetics?label=3683190544&tab=music",
+        "kind": "2020正規再発、Who Got The Funk feat.Phife Dawg4:26、Ali Shaheed本人のアルバム全体回想"
+      },
+      {
+        "label": "90’s Tapes Radio Show006 — Blackout",
+        "url": "https://blackouthiphop.com/blog/90s-tapes-radio-show-006-with-science-of-sound-the-realist/",
+        "kind": "HHVによる本人出演番組の二次紹介全文。Brooklyn、Peter Chan/Tike-O/Beetleと記載。元放送発言の直接確認とは別"
+      },
+      {
+        "label": "Who Got the Funk — Release - Topic",
+        "url": "https://www.youtube.com/watch?v=UPAEXEjNTBI",
+        "kind": "90’s Tapes/HHV提供の2020再発4:27、一般投稿4:26/4:20と実表示比較"
+      }
+    ],
+    "essayTitle": "二つのセッションを行き来して。",
+    "deck": "1995年のEPに残る曲を、Phife Dawgの客演とともに。",
+    "essay": [
+      "Ali Shaheed Muhammadは、Tribeの「Beats, Rhymes & Life」制作期にScience Of Soundのセッションも往復していたと振り返る。これはアルバム全体についての回想だ。一方、「Who Got The Funk」は1995年のSOS01盤にB2として記録されている。2020年の正規再発ではPhife Dawgの客演を掲げて収録。今回はその再発に対応する配信を選んだ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        4
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1995年盤のB2",
+        "text": "同現物ページのB2曲目と、A面ラベルにある©℗1995 Science Of Soundを合わせて照合しました。A面It Ain’t Safeに付くA Tribe Called Quest制作表記は、この曲の制作クレジットへ移していません。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "2020年の正規再発音源",
+        "text": "選択Topicは90’s Tapes / HHV提供、4:27。レーベルBandcampは4:26で、一般投稿4:26と旧アルバム表記4:20を比較しています。原盤との完全なマスター一致、サイト内・日本からの実音声再生は未確認です。",
+        "sources": [
+          2,
+          4
+        ]
+      },
+      {
+        "title": "客演名義を区別",
+        "text": "客演Phife Dawgはレーベル表記で確認。動画の見出しにはGodfather Donも含まれますが、その役割がここでは確定していないためラップ客演として追加していません。",
+        "sources": [
+          2,
+          4
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "原EPの曲目と2020年再発の客演表記を分けて、選択した再発版を聴く。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "Ali Shaheed本人のアルバム全体回想を曲別制作や原年の根拠へ転用しない。原盤Aラベルの1995と販売B2曲目で年を照合。地域はBlackoutの番組紹介という二次根拠を明示。",
+    "art": {
+      "word": "WHO GOT THE FUNK",
+      "tag": "SCIENCE OF SOUND feat. PHIFE DAWG",
+      "style": "tag",
+      "seed": 2026102932,
+      "palette": [
+        "#405CC6",
+        "#D9D8CA",
+        "#283D8C",
+        "#20221F"
+      ],
+      "paletteSource": "Original SOS01 blue A-side label, visually inspected2026-10-29 UTC; B2 track belongs to same physical release.",
+      "paletteSourceUrl": "https://ticro.com/cdn/shop/files/image-2022-09-11T164928.743_999a5a81-e71f-46c0-b6d9-3326527d2d8c_345x%402x.jpg?v=1687843602",
+      "paletteNote": "実ラベルの青、銀白、濃青と黒を目視近似。円形文字配置、ヘッドホン絵、盤面を複製しない独自文字。"
+    },
+    "youtube": {
+      "id": "UPAEXEjNTBI",
+      "url": "https://www.youtube.com/watch?v=UPAEXEjNTBI",
+      "embedUrl": "https://www.youtube.com/embed/UPAEXEjNTBI",
+      "title": "Who Got the Funk (feat. Phife Dawg, Godfather Don)",
+      "channel": "Release - Topic",
+      "type": "正規配信 / 2020再発",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 267,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示で90’s Tapes/HHV提供4:27を確認。一般投稿4:26/旧アルバム4:20と比較し正規2020再発対応を優先。Godfather Donは動画側見出しを保存するが役割未確定。原マスター一致・実音声・日本再生は未確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [
+      "Phife Dawg"
+    ],
+    "addedOrder": 669
   }
 ]
