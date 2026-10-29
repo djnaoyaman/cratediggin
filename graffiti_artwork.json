@@ -15019,6 +15019,46 @@
         "sourceImage": "assets/graffiti/originals/royal-flush-movin-on-your-weak-productions-tag-original.png",
         "sourceSha256": "8b72cd9335f96961f5333eda58d6aaa3f83415a49ab6d65e2de3bc0234d0b3d5"
       }
+    },
+    {
+      "id": "frankenstein-rocksumshit",
+      "title": "Rocksumshit",
+      "artist": "Frankenstein feat. Luminous",
+      "album": "UV EP",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#E5D4A2",
+        "#AE843C",
+        "#8E3D18",
+        "#4D301A",
+        "#17120C"
+      ],
+      "paletteSource": "The Science of Sound2014 licensed Apple cover, visually inspected2026-10-29 UTC.",
+      "paletteSourceURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c0/6f/60/c06f60f4-7655-1534-7e3a-be96a2c4991a/Frankenstein_-_The_Science_of_Sound_cover_2400x2400.jpg/632x632bb.webp",
+      "paletteNote": "2014音源集の実カバーの古紙クリーム、黄土金、錆色、暗褐色、黒を目視近似。人物輪郭、ミキサー、古紙背景、既存ロゴ・配置を複製せず独自文字。1997原盤ジャケットではない。",
+      "image": "assets/graffiti/frankenstein-rocksumshit-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/frankenstein-rocksumshit-tag-original.png",
+      "concept": "ROCKSUMSHIT、FRANKENSTEIN、feat.LUMINOUSの独自文字。2014音源集のクリーム・黄土・錆・褐色のみ参照、人物輪郭・ミキサー・古紙背景を複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          141,
+          65,
+          1869,
+          856
+        ],
+        "outputSha256": "0d2e8c89e3fa63cc24f711cd2c96e38b05f530ebf653187c0bde6d42fe3b36d7",
+        "sourceImage": "assets/graffiti/originals/frankenstein-rocksumshit-tag-original.png",
+        "sourceSha256": "4b7ba239f565600d8eeee51674f4c80dfde46474b4d8d51a28a17fe74925cc8e"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
