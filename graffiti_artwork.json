@@ -15608,6 +15608,43 @@
         "sourceImage": "assets/graffiti/originals/jeru-the-damaja-me-or-the-papes-instrumental-tag-original.png",
         "sourceSha256": "6695ab7e18b1b3ccd48bc3ab08f38e4cdfdb84c2d6de560b03532bf284b46f0a"
       }
+    },
+    {
+      "id": "lootpack-episodes",
+      "title": "Episodes",
+      "artist": "Lootpack feat. Kazi, God’s Gift, Declaime, Oh No, MED",
+      "album": "Soundpieces: Da Antidote!",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#2455a0",
+        "#d82d2a",
+        "#e9be35"
+      ],
+      "paletteSource": "Soundpieces: Da Antidote! inherited from lootpack-whenimondamic, prior visual confirmation2026-10-17, not new image inspection.",
+      "paletteNote": "同アルバムの確認済み青・赤・黄を編集近似として継承。既存ロゴや人物/構図は複製しない。",
+      "image": "assets/graffiti/lootpack-episodes-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/lootpack-episodes-tag-original.png",
+      "concept": "Episodes / Lootpack と5客演名の独自文字。確認済み同アルバム配色を継承、原ロゴや人物を転載しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          142,
+          65,
+          1877,
+          856
+        ],
+        "outputSha256": "f04e88b72c8cbd3c81310350195d45cdff28c33f0a31c9575126b21e37d90e46",
+        "sourceImage": "assets/graffiti/originals/lootpack-episodes-tag-original.png",
+        "sourceSha256": "808e26c3854399d312b1a32d93ff58e9bdfe6eb086b2d181d488ca8f9eaea615"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
