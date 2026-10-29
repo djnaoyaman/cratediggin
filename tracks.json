@@ -86626,5 +86626,146 @@
     "noteReviewedAt": "2026-10-29",
     "featuredArtists": [],
     "addedOrder": 665
+  },
+  {
+    "id": "frankenstein-rocksumshit",
+    "title": "Rocksumshit",
+    "artist": "Frankenstein feat. Luminous",
+    "primaryArtist": "Frankenstein",
+    "primaryArtists": [
+      "Frankenstein"
+    ],
+    "artists": [
+      "Frankenstein",
+      "Luminous"
+    ],
+    "album": "UV EP",
+    "year": 1997,
+    "yearStatus": "verified",
+    "yearBasis": "Citizenfreakの現物目録はUV EP／Knowledge of Self KOSV-350を1997と記録、A3に本曲。原ラベル写真の年を目視したとはせず、2014音源集の年と分ける。",
+    "region": "Canada",
+    "regionBasis": "本人出演番組を掲載するHipHopCanadaの紹介がTorontoのMCと明記し、Torontoでの子供時代に言及。活動地域としてCanada/Toronto、本人発言の逐語録や出生年とは扱わない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "UV EP — Citizenfreak現物目録",
+        "url": "https://citizenfreak.com/titles/276997-frankenstein-uv-ep",
+        "kind": "1997、Knowledge of Self KOSV-350、A3 Rocksumshit3:56。ボーナス盤のInstrumentalと別記。原ラベル写真は未取得"
+      },
+      {
+        "label": "The Science of Sound — Apple Music",
+        "url": "https://music.apple.com/us/album/the-science-of-sound/836275005",
+        "kind": "2014 Ill Adrenalineの正規音源集。本曲feat.Luminous3:54を実DOMで確認"
+      },
+      {
+        "label": "Frankenstein — Views Before The 6",
+        "url": "https://hiphopcanada.com/views-before-the-6-ep-8-frankenstein/",
+        "kind": "本人出演回の番組紹介。TorontoのMCと子供時代の紹介を全文確認、音声逐語録として引用しない"
+      },
+      {
+        "label": "Rocksumshit — StrictlyHits投稿",
+        "url": "https://www.youtube.com/watch?v=tESj_dDpUZs",
+        "kind": "実タイトルFrankenstein feat.Luminous、3:55。OFFICIAL VERSIONという投稿題名だけでは公式性未認定"
+      },
+      {
+        "label": "The Science of Sound正規カバー実画像",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c0/6f/60/c06f60f4-7655-1534-7e3a-be96a2c4991a/Frankenstein_-_The_Science_of_Sound_cover_2400x2400.jpg/632x632bb.webp",
+        "kind": "2014音源集の実画像を目視し配色だけ参照。1997原盤スリーブではない"
+      }
+    ],
+    "essayTitle": "UV EPのA3から、後年の音源集へ。",
+    "deck": "歌入りとInstrumentalを分けて辿る、トロントの一曲。",
+    "essay": [
+      "現物目録が記録する1997年の『UV EP』では、「Rocksumshit」はA面3曲目。Instrumentalはボーナス盤に分けて載っている。2014年の音源集『The Science of Sound』では、Luminousの客演を添えて再び曲名が並ぶ。同じタイトルを探しても、歌入りかInstrumentalかで辿り着く先は違う。ここで選んだのは、FrankensteinとLuminousを記した歌入りの投稿だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1997年は現物目録の記録",
+        "text": "CitizenfreakはUV EPを1997、Knowledge of Self KOSV-350と記録し、A3にRocksumshit3:56を掲載。原盤ラベル写真の年は未目視であり、2014音源集を初出として扱っていません。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "歌入り投稿と客演の照合",
+        "text": "採用投稿はFrankenstein feat.Luminous、3:55。正規2014配信は3:54、原盤目録は3:56です。同尺の一般投稿と比較しInstrumental3:31は除外しましたが、原盤マスター完全一致は未確認です。",
+        "sources": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "title": "投稿者の表記と地域",
+        "text": "動画題名のOFFICIAL VERSIONは投稿者の表記です。公式配信との所属関係が未確認のため、公式認定していません。地域は本人出演番組のToronto紹介に基づきます。サイト内・日本での実音声再生可否も未確認です。",
+        "sources": [
+          2,
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "原EPの曲目と後年の正規配信を照らし、歌入りとInstrumentalの別を確かめて聴く。"
+    ],
+    "collections": [
+      "other"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "原年は1997現物目録、原ラベル写真未目視。2014音源集と同年配色参照を区別。StrictlyHits公式性未認定、LuminousのPerson/Groupも未確定でtype:null保持。",
+    "art": {
+      "word": "ROCKSUMSHIT",
+      "tag": "FRANKENSTEIN feat. LUMINOUS",
+      "style": "tag",
+      "seed": 2026102929,
+      "palette": [
+        "#E5D4A2",
+        "#AE843C",
+        "#8E3D18",
+        "#4D301A",
+        "#17120C"
+      ],
+      "paletteSource": "The Science of Sound2014 licensed Apple cover, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c0/6f/60/c06f60f4-7655-1534-7e3a-be96a2c4991a/Frankenstein_-_The_Science_of_Sound_cover_2400x2400.jpg/632x632bb.webp",
+      "paletteNote": "2014音源集の実カバーの古紙クリーム、黄土金、錆色、暗褐色、黒を目視近似。人物輪郭、ミキサー、古紙背景、既存ロゴ・配置を複製せず独自文字。1997原盤ジャケットではない。"
+    },
+    "youtube": {
+      "id": "tESj_dDpUZs",
+      "url": "https://www.youtube.com/watch?v=tESj_dDpUZs",
+      "embedUrl": "https://www.youtube.com/embed/tESj_dDpUZs",
+      "title": "Frankenstein feat. Luminous - Rocksumshit OFFICIAL VERSION",
+      "channel": "StrictlyHits @FoundationMedia",
+      "type": "投稿音源 / 歌入り・公式性未認定",
+      "official": false,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 235,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示で曲名/演者/客演3:55を確認、一般歌入り3:55と比較しInstrumental3:31除外。OFFICIAL VERSIONは動画題名で公式性未認定。原盤目録3:56/正規2014配信3:54とは尺差あり、マスター一致・実音声・日本再生は未確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [
+      "Luminous"
+    ],
+    "addedOrder": 666
   }
 ]

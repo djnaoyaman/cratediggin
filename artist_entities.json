@@ -901,5 +901,14 @@
   },
   "Street Smartz": {
     "type": "MusicGroup"
+  },
+  "Frankenstein": {
+    "type": "Person"
+  },
+  "Luminous": {
+    "type": null
+  },
+  "Frankenstein feat. Luminous": {
+    "type": null
   }
 }
