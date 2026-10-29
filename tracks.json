@@ -84108,5 +84108,141 @@
     "datePublished": "2026-10-29",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 647
+  },
+  {
+    "id": "artifacts-flexi-wit-da-technique",
+    "title": "Flexi wit da Tech(nique)",
+    "artist": "Artifacts",
+    "primaryArtist": "Artifacts",
+    "primaryArtists": [
+      "Artifacts"
+    ],
+    "artists": [
+      "Artifacts"
+    ],
+    "album": "Between a Rock and a Hard Place",
+    "year": 1994,
+    "yearStatus": "verified",
+    "yearBasis": "正規配信アルバムの1994年と1994 Big Beat表記。1993 demoの動画表記を当該発売音源の初出年に移さない。",
+    "region": "New Jersey",
+    "regionBasis": "メンバーTame One本人BandcampのArtifacts from NWK, NJ表記を根拠とする。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Artifacts — Between a Rock and a Hard Place",
+        "url": "https://music.apple.com/us/album/between-a-rock-and-a-hard-place/1282101825",
+        "kind": "正規配信アルバム。1994年、当該曲の収録を確認"
+      },
+      {
+        "label": "Artifacts - Topic — Flexi wit da Tech(nique)",
+        "url": "https://www.youtube.com/watch?v=kK4UdRPJAzw",
+        "kind": "Rhino Atlantic提供、1994 Big Beat、アルバム版4:09の公式動画メタデータを確認"
+      },
+      {
+        "label": "Flexi wit da Tech(nique) — Apple Music",
+        "url": "https://music.apple.com/us/song/flexi-wit-da-tech-nique/1282101847",
+        "kind": "正規配信の第8曲、4:08"
+      },
+      {
+        "label": "Tame One — artist profile",
+        "url": "https://tamerdizzle.bandcamp.com/",
+        "kind": "本人プロフィールでArtifactsとNWK, NJの関係を確認"
+      },
+      {
+        "label": "Between a Rock and a Hard Place 配信アート",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/e7/84/b9/e784b97c-7214-6566-44e7-623f4b4de823/OBJECT_PROXY0bf5871b-70d5-4a75-b0ce-79980cfacd7e_KEY_FRAME_OUTPUT_0_OBJECT_PROXY0bf5871b-70d5-4a75-b0ce-79980cfacd7e.png/296x296bb.webp",
+        "kind": "現行正規配信アニメーション画像の静止フレームを目視。1994原盤現物とは称さず、配色のみ参照"
+      }
+    ],
+    "essayTitle": "括弧まで含めて、一曲の名前。",
+    "deck": "Tech(nique)という綴りを、そのまま辿る。ここで選ぶのは1994年アルバムに収録された4分台の版。",
+    "essay": [
+      "Flexi wit da Tech(nique)。単語の途中に括弧を差し込む綴りは、正規配信の曲名にも残っている。タイトルを短く整えずに置くと、TECHとNIQUEの境目が目に入る。これは文字の見え方を入口にした編集上の読み方で、命名意図の説明ではない。同名のデモや短いRadio Editを曲名だけで取り違えないよう、このページはBetween a Rock and a Hard Placeのアルバム版に結び付けた。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1994年のアルバム音源",
+        "text": "選択した公式動画はRhino Atlantic提供、1994 Big Beat表記。Between a Rock and a Hard Placeのアルバム版です。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "括弧を含む綴り",
+        "text": "正規配信の曲名はFlexi wit da Tech(nique)。この表記を維持し、括弧の意味を本人の意図として推測していません。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "公式配信にある4分台",
+        "text": "公式YouTubeの表示は4:09、Appleの曲目は4:08です。ここではアルバム収録音源を選び、demoやRadio Edit、instrumentalとは混同していません。",
+        "sources": [
+          1,
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "タイトルの表記とアルバム名を確かめ、同名のdemoや短いeditとは分けて辿る。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "曲名の括弧は編集上の視覚的な入口。作者の命名意図、プロデューサー、使用素材は未確認のまま加えない。",
+    "art": {
+      "word": "FLEXI WIT DA TECH(NIQUE)",
+      "tag": "ARTIFACTS",
+      "style": "tag",
+      "seed": 2026102911,
+      "palette": [
+        "#E86A09",
+        "#A52C08",
+        "#4A1709",
+        "#F9B642",
+        "#B9E7E4"
+      ],
+      "paletteSource": "Licensed Apple current animated-album-art still, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/e7/84/b9/e784b97c-7214-6566-44e7-623f4b4de823/OBJECT_PROXY0bf5871b-70d5-4a75-b0ce-79980cfacd7e_KEY_FRAME_OUTPUT_0_OBJECT_PROXY0bf5871b-70d5-4a75-b0ce-79980cfacd7e.png/296x296bb.webp",
+      "paletteNote": "実画像の橙、赤茶、焦茶、黄、薄い青緑を目視近似。1994原盤写真とは称さず、岩や土・既存ロゴを複製しない独自文字。"
+    },
+    "youtube": {
+      "id": "kK4UdRPJAzw",
+      "url": "https://www.youtube.com/watch?v=kK4UdRPJAzw",
+      "embedUrl": "https://www.youtube.com/embed/kK4UdRPJAzw",
+      "title": "Flexi wit da Tech(nique)",
+      "channel": "Artifacts - Topic",
+      "type": "公式配信 / アルバム版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 249,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実YouTube検索で公式Topic、Rhino Atlantic提供、1994 Big Beat、Between A Rock And A Hard Place、4:09を確認。1993demo、Radio Edit、instrumentalを選択せず。実音声・日本再生・原盤とのマスター同一性は未検証。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 648
   }
 ]
