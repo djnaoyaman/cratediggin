@@ -83965,5 +83965,148 @@
     "datePublished": "2026-10-29",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 646
+  },
+  {
+    "id": "mic-geronimo-the-natural",
+    "title": "The Natural",
+    "artist": "Mic Geronimo",
+    "primaryArtist": "Mic Geronimo",
+    "primaryArtists": [
+      "Mic Geronimo"
+    ],
+    "artists": [
+      "Mic Geronimo"
+    ],
+    "album": "The Natural",
+    "year": 1995,
+    "yearStatus": "verified",
+    "yearBasis": "公式配信アルバムの1995年と1995 Blunt Recordings表記。デジタル記載の1月1日を原発売日とは断定しない。",
+    "region": "New York",
+    "regionBasis": "本人LinktreeのLegendary Queens Rapper表記を根拠にNew York。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Mic Geronimo — The Natural",
+        "url": "https://music.apple.com/us/album/the-natural/311282023",
+        "kind": "正規配信アルバム。1995年、冒頭タイトル曲を確認"
+      },
+      {
+        "label": "Mic Geronimo — Official links",
+        "url": "https://linktr.ee/micgeronimo",
+        "kind": "本人公式サイト・アカウントへ接続するプロフィール。Queens表記を確認"
+      },
+      {
+        "label": "Mic Geronimo - Topic — The Natural",
+        "url": "https://www.youtube.com/watch?v=vaD6CAs-VAw",
+        "kind": "The Orchard提供、1995 Blunt、同名アルバム版4:14の公式メタデータを確認"
+      },
+      {
+        "label": "The Natural — Apple Music track",
+        "url": "https://music.apple.com/us/song/the-natural/311282088",
+        "kind": "正規配信の第1曲、4:13、演者Mic Geronimo表記"
+      },
+      {
+        "label": "The Natural EP — Qobuz",
+        "url": "https://www.qobuz.com/us-en/album/the-natural-ep-mic-geronimo/y96vi2ay349hc",
+        "kind": "EPのRadio3:12、Street3:14と選択アルバム音源を区別"
+      },
+      {
+        "label": "The Natural 正規配信アート",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/74/04/88/740488d8-ce6b-5e74-f551-b69ef3aec87c/dj.jmwsghgv.jpg/296x296bb.webp",
+        "kind": "実画像の配色のみ参照。人物・街並み・既存ロゴは複製しない"
+      }
+    ],
+    "essayTitle": "アルバムの看板を、最初の一曲に。",
+    "deck": "The Naturalは作品名であり、冒頭の曲名でもある。まずは4分台のアルバム版から辿る。",
+    "essay": [
+      "アルバムを開くと、最初にもう一度The Naturalという名前が現れる。次はLifecheck。同じ言葉を作品の表紙と入口の両方に置いた並びを、ここでは聴き始める手掛かりにしている。シングルEPに載る3分台のStreetやRadioではなく、選択したのは4分台のアルバム音源。尺の違いだけで編集内容を決めつけず、この版を一曲として聴いてからアルバムへ戻りたい。曲順を入口にするのは編集上の読み方で、本人の制作意図を断定するものではない。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2,
+        3,
+        4
+      ]
+    ],
+    "facts": [
+      {
+        "title": "同名アルバムの第1曲",
+        "text": "The Naturalは1995年の同名アルバム冒頭。正規配信では次にLifecheckが続きます。",
+        "sources": [
+          0,
+          3
+        ]
+      },
+      {
+        "title": "4分台のアルバム版",
+        "text": "選択した公式YouTubeの表示は4:14。Appleのアルバム曲は4:13です。EPのStreet3:14、Radio3:12とは別の掲載音源として扱い、マスターの同一性や編集内容は断定していません。",
+        "sources": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "title": "配信による名義表記の差",
+        "text": "YouTube提供欄にはMic GeronimoとRoyal Flushが並びますが、Appleの曲目はMic Geronimo単独表記です。この差だけからRoyal Flushの客演役割を確定せず、記事の主名義はMic Geronimoとしています。",
+        "sources": [
+          2,
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "タイトル曲から次のLifecheckへ、アルバム冒頭の並びを辿る。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "本人Queens表記と正規配信を根拠にした編集。プロデューサー、客演役割、サンプルは未確認のまま付け加えない。",
+    "art": {
+      "word": "THE NATURAL",
+      "tag": "MIC GERONIMO",
+      "style": "tag",
+      "seed": 2026102910,
+      "palette": [
+        "#ECD69A",
+        "#B69A4C",
+        "#6F5E96",
+        "#24203C",
+        "#12121C"
+      ],
+      "paletteSource": "The Natural licensed Apple album cover, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/74/04/88/740488d8-ce6b-5e74-f551-b69ef3aec87c/dj.jmwsghgv.jpg/296x296bb.webp",
+      "paletteNote": "実画像の金色、クリーム、紫、暗い藍色を目視近似。肖像・街並み・既存ロゴを再現しない独自文字。"
+    },
+    "youtube": {
+      "id": "vaD6CAs-VAw",
+      "url": "https://www.youtube.com/watch?v=vaD6CAs-VAw",
+      "embedUrl": "https://www.youtube.com/embed/vaD6CAs-VAw",
+      "title": "The Natural",
+      "channel": "Mic Geronimo - Topic",
+      "type": "公式配信 / アルバム版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 254,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実YouTube検索で公式Topic、The Orchard提供、1995 Blunt、同名アルバム、4:14を確認。Royal Flush併記は客演役割と断定せず。実音声・日本での再生・原盤とのマスター一致は未検証。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 647
   }
 ]

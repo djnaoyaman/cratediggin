@@ -14267,6 +14267,46 @@
         "sourceImage": "assets/graffiti/originals/de-la-soul-area-tag-original.png",
         "sourceSha256": "1db2a07f18b461c8ecc2597a028bd868f129cef7c17c66a8489b1c213c96f3e5"
       }
+    },
+    {
+      "id": "mic-geronimo-the-natural",
+      "title": "The Natural",
+      "artist": "Mic Geronimo",
+      "album": "The Natural",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#ECD69A",
+        "#B69A4C",
+        "#6F5E96",
+        "#24203C",
+        "#12121C"
+      ],
+      "paletteSource": "The Natural licensed Apple album cover, visually inspected2026-10-29 UTC.",
+      "paletteSourceURL": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/74/04/88/740488d8-ce6b-5e74-f551-b69ef3aec87c/dj.jmwsghgv.jpg/296x296bb.webp",
+      "paletteNote": "実画像の金色、クリーム、紫、暗い藍色を目視近似。肖像・街並み・既存ロゴを再現しない独自文字。",
+      "image": "assets/graffiti/mic-geronimo-the-natural-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/mic-geronimo-the-natural-tag-original.png",
+      "concept": "THE NATURALとMIC GERONIMOの独自文字。正規配信アルバムの配色のみ参照し、人物・街並み・既存ロゴを描かない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          143,
+          59,
+          1898,
+          779
+        ],
+        "outputSha256": "7710a64deab61d83cd37ec547c5223098b1292c87d591382ec0f3a79aece9e97",
+        "sourceImage": "assets/graffiti/originals/mic-geronimo-the-natural-tag-original.png",
+        "sourceSha256": "3f9c1a974e058507736f987ad4076a1c4dd1a69fd20a11298c80c7fafe0c3014"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
