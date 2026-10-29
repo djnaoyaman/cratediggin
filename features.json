@@ -1247,10 +1247,15 @@
       "identityNote": "活動拠点：Los Angeles, California, USA。制作・リミックスの仕事を軸に、本人名義の作品、DJミックス、ライブ参考映像を区別して掲載します。Jurassic 5名義をCut Chemist単独制作とみなさず、曲別クレジットで辿ります。",
       "note": "掲載作品から選んだプロデューサー特集です。全ディスコグラフィーではありません。",
       "visual": {
-        "nameOnly": true,
+        "photo": "feature-cut-chemist-provided-collage.webp",
         "tag": "feature-cut-chemist-tag-v1.webp",
-        "alt": "Cut Chemist — オリジナル・グラフィティタグ",
-        "provenance": "original-artwork"
+        "alt": "Cut Chemistのコラージュ画像（ユーザー提供）",
+        "fit": "contain",
+        "focus": "50% 50%",
+        "provenance": "user-provided",
+        "credit": "ユーザー提供",
+        "changes": "提供された完成画像の構図・色・人物は変更せず掲載。",
+        "precomposed": true
       },
       "listeningOrder": [
         "jurassic-5-lesson-4-the-radio",
