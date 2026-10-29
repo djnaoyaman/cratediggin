@@ -15257,6 +15257,46 @@
         "sourceImage": "assets/graffiti/originals/ed-o-g-acting-tag-original.png",
         "sourceSha256": "56ff85b6a4befe2b592018f3b79cf602541bc0f0e0814b7af8952822e6f0c22a"
       }
+    },
+    {
+      "id": "jigmastas-dead-mans-walk",
+      "title": "Dead Man's Walk",
+      "artist": "Jigmastas",
+      "album": "Beyond Real / Dead Man's Walk (12-inch single)",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#DDDCCF",
+        "#20252D",
+        "#A49C69",
+        "#51416B",
+        "#8C3D60"
+      ],
+      "paletteSource": "Grassroots: The Prologue Deluxe2015BBE compilation artwork, visually inspected2026-10-29 UTC; not1996single sleeve.",
+      "paletteSourceURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/48/35/67/483567c8-8333-3e9c-94f9-57d72ea04ae9/193483439778.jpg/296x296bb.webp",
+      "paletteNote": "実画のcream灰白、黒navy、黄土beige、紫と少量magentaを目視近似。人物写真、額縁、アルバム文字配置を複製しない。",
+      "image": "assets/graffiti/jigmastas-dead-mans-walk-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/jigmastas-dead-mans-walk-tag-original.png",
+      "concept": "DEAD MANS WALK / JIGMASTAS独自文字、実2015編集盤配色のみ。アポストロフィあり、人物写真や額縁を複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          142,
+          63,
+          1877,
+          832
+        ],
+        "outputSha256": "295de184839398f6a99b5c851514937ed717e0b1a67ee28d88b7b04aa43ef18e",
+        "sourceImage": "assets/graffiti/originals/jigmastas-dead-mans-walk-tag-original.png",
+        "sourceSha256": "433d54be6a06809ab052a064c66068b3e3775eeb4d44332a1cfdce8097c18fd1"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

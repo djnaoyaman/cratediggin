@@ -87440,5 +87440,150 @@
     "noteReviewedAt": "2026-10-29",
     "featuredArtists": [],
     "addedOrder": 671
+  },
+  {
+    "id": "jigmastas-dead-mans-walk",
+    "title": "Dead Man's Walk",
+    "artist": "Jigmastas",
+    "primaryArtist": "Jigmastas",
+    "primaryArtists": [
+      "Jigmastas"
+    ],
+    "artists": [
+      "Jigmastas"
+    ],
+    "album": "Beyond Real / Dead Man's Walk (12-inch single)",
+    "year": 1996,
+    "yearStatus": "verified",
+    "yearBasis": "WFMU自身の選曲書誌の検索索引がBeyond Real1996年12インチと記載、BR001現物目録索引と照合。原ラベル年の目視確認ではない。2015編集盤と区別。",
+    "region": "New York",
+    "regionBasis": "BBE公式アーティスト紹介がBrooklynのDJ Spinna/MC Kriminulによるグループと説明。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Jigmastas — BBE Music",
+        "url": "https://bbemusic.com/artist/jigmastas",
+        "kind": "レーベル公式紹介全文。Brooklyn、DJ SpinnaとMC Kriminulの二人組"
+      },
+      {
+        "label": "Dead Man’s Walk — WFMU選曲書誌",
+        "url": "https://wfmu.org/playlists/shows/40470",
+        "kind": "局自身の選曲記録の検索索引にBeyond Real1996/12inch。本文取得はcache miss、全文精読ではない"
+      },
+      {
+        "label": "Beyond Real / Dead Mans Walk — BR001",
+        "url": "https://hiptankrecords.com/?pid=191203099",
+        "kind": "現物目録索引に1996、B1Clean/B2Dirty/B3Instrumental。本文取得timeout、原ラベル未目視"
+      },
+      {
+        "label": "Grassroots: The Prologue Deluxe — Jigmastas",
+        "url": "https://jigmastas.bandcamp.com/album/grassroots-the-prologue-deluxe-edition",
+        "kind": "本人正規2015編集盤。初期singleやアルバム外作品、当曲track11 4:03を確認"
+      },
+      {
+        "label": "Grassroots: The Prologue Deluxe — Apple Music",
+        "url": "https://music.apple.com/us/album/grassroots-the-prologue-deluxe-edition/1451139936",
+        "kind": "正規2015編集盤、track11 Explicit4:02、実アルバム画像を配色参照"
+      },
+      {
+        "label": "Dead Man’s Walk — Jigmastas - Topic",
+        "url": "https://www.youtube.com/watch?v=RaKm2O6UaTc",
+        "kind": "Orchard提供の標準歌入り4:03。原single一般投稿/Dirty/Instrumental/Remixと実表示比較"
+      }
+    ],
+    "essayTitle": "Beyond Realの、もう一面。",
+    "deck": "Brooklynの二人組が残した1996年のカップリング。",
+    "essay": [
+      "DJ SpinnaとMC KriminulによるBrooklynの二人組、Jigmastas。「Beyond Real」と組になった12インチのB面に「Dead Man’s Walk」がある。2015年の「Grassroots: The Prologue Deluxe Edition」は、初期シングルやアルバム外の作品を集めた編集盤で、この二曲も続けて収録している。ここではその正規配信を選び、一枚のA面とB面の関係から聴き直す。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1996年のカップリング",
+        "text": "WFMUの選曲書誌索引とBR001現物目録索引を照合した年です。原ラベルは未目視。目録ではB面にClean、Dirty、Instrumentalが分かれており、別曲Beyond Realの歌詞やサンプルの解説をこの曲へ転用していません。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "選択した2015年編集盤",
+        "text": "Topicは標準歌入り4:03、同編集盤のApple表示はExplicit4:02です。1996singleを掲げる一般投稿4:06、Dirty4:04/4:05、Instrumentalや別Remixも比較。原盤の特定ミックスと完全同一マスターであること、サイト内・日本からの実音声再生は未確認です。",
+        "sources": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "title": "配色参照も後年版",
+        "text": "画像は実際に確認した2015年BBE編集盤のジャケット配色から制作しています。1996年シングルの装丁としては扱いません。人物写真やアルバムの枠・配置は複製せず、曲名の独自文字にしました。",
+        "sources": [
+          3,
+          4
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "Beyond RealとDead Man’s Walkを、元のカップリングと編集盤の並びでたどる。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "1996は書誌/現物索引、2015は正規編集盤。DJ Spinnaのグループ役割を認めるが、未確認の当曲サンプルや細かな制作クレジットを追加しない。",
+    "art": {
+      "word": "DEAD MAN'S WALK",
+      "tag": "JIGMASTAS",
+      "style": "tag",
+      "seed": 2026102935,
+      "palette": [
+        "#DDDCCF",
+        "#20252D",
+        "#A49C69",
+        "#51416B",
+        "#8C3D60"
+      ],
+      "paletteSource": "Grassroots: The Prologue Deluxe2015BBE compilation artwork, visually inspected2026-10-29 UTC; not1996single sleeve.",
+      "paletteSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/48/35/67/483567c8-8333-3e9c-94f9-57d72ea04ae9/193483439778.jpg/296x296bb.webp",
+      "paletteNote": "実画のcream灰白、黒navy、黄土beige、紫と少量magentaを目視近似。人物写真、額縁、アルバム文字配置を複製しない。"
+    },
+    "youtube": {
+      "id": "RaKm2O6UaTc",
+      "url": "https://www.youtube.com/watch?v=RaKm2O6UaTc",
+      "embedUrl": "https://www.youtube.com/embed/RaKm2O6UaTc",
+      "title": "Dead Man’s Walk",
+      "channel": "Jigmastas - Topic",
+      "type": "正規配信 / 2015編集盤",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 243,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示でOrchard提供GrassrootsDeluxe4:03標準歌入り。一般single4:06/Dirty4:04,4:05/Instrumental/Remixを比較。同編集盤AppleはExplicit4:02、原1996Dirtyと完全同一masterの証明ではない。実音声・日本再生未確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [],
+    "addedOrder": 672
   }
 ]
