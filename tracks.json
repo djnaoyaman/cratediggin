@@ -86496,5 +86496,135 @@
     "noteReviewedAt": "2026-10-29",
     "featuredArtists": [],
     "addedOrder": 664
+  },
+  {
+    "id": "royal-flush-movin-on-your-weak-productions",
+    "title": "Movin' on Your Weak Productions",
+    "artist": "Royal Flush",
+    "primaryArtist": "Royal Flush",
+    "primaryArtists": [
+      "Royal Flush"
+    ],
+    "artists": [
+      "Royal Flush"
+    ],
+    "album": "Movin' on Your Weak Productions (12-inch single)",
+    "year": 1996,
+    "yearStatus": "verified",
+    "yearBasis": "KZSU自身の1996年2月25日付ヒップホップチャートで、この年までにBluntの12inchが存在したと確認できる。1997 Ghetto Millionaireの年とは分離し、厳密な初発売日は未確定。",
+    "region": "New York",
+    "regionBasis": "Apple正規Ghetto Millionaire紹介と既存本人資料のQueensでの活動を照合。個人出生地は推測しない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "KZSU Hip-Hop Chart — 1996年2月25日",
+        "url": "https://kzsu.stanford.edu/archives/charts/1996/96-02-25.html/",
+        "kind": "当該局の同時代一次記録。17位Royal Flush Movin On Ya Weak Production、12inch、Blunt"
+      },
+      {
+        "label": "Ghetto Millionaire — Apple Music",
+        "url": "https://music.apple.com/us/album/ghetto-millionaire/311283144",
+        "kind": "1997 Bluntの正規アルバム。曲3:59、Queensの活動紹介と実カバー参照"
+      },
+      {
+        "label": "Movin’ on Your Weak Productions — Royal Flush - Topic",
+        "url": "https://www.youtube.com/watch?v=I0ZfDx44xoA",
+        "kind": "実表示でOrchard、Ghetto Millionaire、℗1997 Blunt、4:00"
+      },
+      {
+        "label": "Ghetto Millionaire正規カバー実画像",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bb/4b/19/bb4b192b-9c27-f672-0abc-b706e827c2c1/dj.hlquvgmp.jpg/632x632bb.webp",
+        "kind": "実画像を取得し目視。淡い青、クリーム、セピア金、暗色の配色だけ参照"
+      }
+    ],
+    "essayTitle": "アルバムの前年、12インチがチャートに残る。",
+    "deck": "1996年のKZSUと、翌年のGhetto Millionaire。",
+    "essay": [
+      "1996年2月25日付、スタンフォードのラジオ局KZSUが残したヒップホップ・チャート。その17位に、Royal Flushの12インチ「Movin On Ya Weak Production」が載っている。翌1997年の『Ghetto Millionaire』を聴く前に、曲はすでにシングルとして動いていた。アルバムの発売年だけでは見えない、シングルとしての先行した記録がここにある。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ]
+    ],
+    "facts": [
+      {
+        "title": "アルバムより早い12インチの記録",
+        "text": "1996年2月25日のKZSU局内ヒップホップチャートは17位にMovin On Ya Weak Productionを12inchとして記載しています。全米チャート順位ではなく、当時のラジオ局自身の記録です。Ya／Productionの表記は資料どおりで、選択配信のYour／Productionsとは綴りが異なります。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "選択は1997年アルバム版",
+        "text": "選択TopicはGhetto Millionaire／℗1997 Blunt、4:00。Appleは3:59です。1996年シングルのマスター完全一致は確認していません。2021年の新映像表記版や5:34の一般投稿、Instrumentalも比較しましたが採用していません。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "地域と確認範囲",
+        "text": "Queensの活動紹介に基づきNew Yorkと表記。2021年映像の客演名義をこの音源へ転記せず、曲別制作担当も一次資料未確認のため追記していません。サイト内・日本での実音声再生可否は未確認です。",
+        "sources": [
+          1,
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "1996年の12インチ記録と翌年のアルバム版を分け、曲が作品集に収まる前の履歴を辿る。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "KZSU1996同時代一次記録と正規1997アルバムを照合。2021新映像を新録音と断定しない。選択音源とのマスター未確定につき比較除外。曲別producerは未確認。",
+    "art": {
+      "word": "MOVIN' ON YOUR WEAK PRODUCTIONS",
+      "tag": "ROYAL FLUSH",
+      "style": "tag",
+      "seed": 2026102928,
+      "palette": [
+        "#A7C0CC",
+        "#F2EAD2",
+        "#BA9A65",
+        "#72634F",
+        "#242B35"
+      ],
+      "paletteSource": "Ghetto Millionaire licensed Apple cover, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bb/4b/19/bb4b192b-9c27-f672-0abc-b706e827c2c1/dj.hlquvgmp.jpg/632x632bb.webp",
+      "paletteNote": "実カバーの淡いスチール青、クリーム、黄土金、セピア、暗紺を目視近似。人物、サングラス、車、既存ロゴや配置は複製しない。1996原盤ではなく選択1997アルバムの配色参照。"
+    },
+    "youtube": {
+      "id": "I0ZfDx44xoA",
+      "url": "https://www.youtube.com/watch?v=I0ZfDx44xoA",
+      "embedUrl": "https://www.youtube.com/embed/I0ZfDx44xoA",
+      "title": "Movin' on Your Weak Productions",
+      "channel": "Royal Flush - Topic",
+      "type": "公式配信 / Ghetto Millionaire収録版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 240,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示でOrchard、Royal Flush、Ghetto Millionaire、℗1997 Blunt、4:00を確認。2021新映像3:57、一般5:34、Instrumentalと比較。原1996マスター一致・実音声・日本再生は未確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [],
+    "addedOrder": 665
   }
 ]

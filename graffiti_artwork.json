@@ -14979,6 +14979,46 @@
         "sourceImage": "assets/graffiti/originals/mic-geronimo-masta-ic-tag-original.png",
         "sourceSha256": "99b2f5047ca7547674cdd545adec1d16fa4312588405e6ac70af897afc55f3f4"
       }
+    },
+    {
+      "id": "royal-flush-movin-on-your-weak-productions",
+      "title": "Movin' on Your Weak Productions",
+      "artist": "Royal Flush",
+      "album": "Movin' on Your Weak Productions (12-inch single)",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#A7C0CC",
+        "#F2EAD2",
+        "#BA9A65",
+        "#72634F",
+        "#242B35"
+      ],
+      "paletteSource": "Ghetto Millionaire licensed Apple cover, visually inspected2026-10-29 UTC.",
+      "paletteSourceURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bb/4b/19/bb4b192b-9c27-f672-0abc-b706e827c2c1/dj.hlquvgmp.jpg/632x632bb.webp",
+      "paletteNote": "実カバーの淡いスチール青、クリーム、黄土金、セピア、暗紺を目視近似。人物、サングラス、車、既存ロゴや配置は複製しない。1996原盤ではなく選択1997アルバムの配色参照。",
+      "image": "assets/graffiti/royal-flush-movin-on-your-weak-productions-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/royal-flush-movin-on-your-weak-productions-tag-original.png",
+      "concept": "MOVIN ON YOUR WEAK PRODUCTIONS、ROYAL FLUSHの独自文字。Ghetto Millionaireの淡青・クリーム・セピア金のみ参照、人物・車・既存ロゴを複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          156,
+          63,
+          2072,
+          831
+        ],
+        "outputSha256": "7297b3a03a4f54b6433e95709f84cf22f7b898c8773eec6fb664ca8b56dddeee",
+        "sourceImage": "assets/graffiti/originals/royal-flush-movin-on-your-weak-productions-tag-original.png",
+        "sourceSha256": "8b72cd9335f96961f5333eda58d6aaa3f83415a49ab6d65e2de3bc0234d0b3d5"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
