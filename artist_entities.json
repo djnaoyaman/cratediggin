@@ -913,5 +913,14 @@
   },
   "Rahsheed": {
     "type": "Person"
+  },
+  "Science Of Sound": {
+    "type": "MusicGroup"
+  },
+  "Phife Dawg": {
+    "type": "Person"
+  },
+  "Science Of Sound feat. Phife Dawg": {
+    "type": null
   }
 }
