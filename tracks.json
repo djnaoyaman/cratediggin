@@ -85244,5 +85244,160 @@
       "Gang Starr"
     ],
     "addedOrder": 655
+  },
+  {
+    "id": "black-star-kos-determination",
+    "title": "K.O.S. (Determination)",
+    "artist": "Black Star feat. Vinia Mojica",
+    "primaryArtist": "Black Star",
+    "primaryArtists": [
+      "Black Star"
+    ],
+    "artists": [
+      "Black Star",
+      "Vinia Mojica"
+    ],
+    "album": "Mos Def & Talib Kweli Are Black Star",
+    "year": 1998,
+    "yearStatus": "verified",
+    "yearBasis": "Apple正規曲目1998年9月29日とQobuz原盤1998表記を確認。2002配信権利表記や以前の録音の回想を初出発売年としない。",
+    "region": "New York",
+    "regionBasis": "Apple正規アルバム解説がMos DefとTalib KweliをBrooklynの二人として紹介。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "K.O.S. (Determination) feat. Vinia Mojica — Apple Music",
+        "url": "https://music.apple.com/us/song/1440800754",
+        "kind": "正規曲目。1998年9月29日とVinia Mojica客演表記"
+      },
+      {
+        "label": "Black Star — Qobuz",
+        "url": "https://www.qobuz.com/jp-ja/album/black-star-mos-def-talib-kweli/0000881128972",
+        "kind": "正規配信当該曲欄。Hi-Tek制作、Vinia Mojica参加、1998原盤表記"
+      },
+      {
+        "label": "B-Boys Will B-Boys: An Oral History of Black Star",
+        "url": "https://www.powmag.net/p/b-boys-will-b-boys-an-oral-history-of-black-star",
+        "kind": "Talib KweliとHi-Tek本人の曲別証言。以前の録音、収録時のビート作り直しとViniaのフック"
+      },
+      {
+        "label": "Mos Def & Talib Kweli Are Black Star — Apple Music",
+        "url": "https://music.apple.com/us/album/mos-def-talib-kweli-are-black-star/1440799801",
+        "kind": "正規アルバム解説のBrooklyn二人組、1998原作。2002権利表記を初出年にしない"
+      },
+      {
+        "label": "Black Star - Topic — K.O.S. (Determination)",
+        "url": "https://www.youtube.com/watch?v=kETkgRNSVzk",
+        "kind": "UMG公式音源、Black Star/Vinia Mojica、表示尺4:50"
+      },
+      {
+        "label": "Black Star 正規配信カバー",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7d/9d/b4/7d9db404-4032-4ed2-f5d8-8055bc637806/00008811289720.rgb.jpg/296x296bf.webp",
+        "kind": "Apple実ページ画像を目視。人物、星、装飾枠、既存文字を複製しない"
+      }
+    ],
+    "essayTitle": "作り直したビートに、Viniaの声。",
+    "deck": "前からあった曲が、Black Starの一曲になるまで。Talib KweliとHi-Tekの回想を辿る。",
+    "essay": [
+      "Talib Kweliの回想では、K.O.S.はBlack Starのアルバム以前から録っていた曲だった。収録にあたりHi-Tekがビートを作り直し、Vinia Mojicaにフックを歌ってもらう。Hi-Tek自身が語るのは、素材をただ繰り返すのではなく、刻み直して展開を作る過程だ。一度録った曲も、組み直す相手と声が変われば新しい形になる。1998年の作品に至る、そのひと手間を覚えておきたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "本人が語る作り直し",
+        "text": "オーラルヒストリーではTalib Kweliが以前の録音を、Hi-Tekがビートの変更とVinia Mojicaへのフック依頼を説明しています。以前に録音したことを、以前に発売した証拠とは扱っていません。",
+        "sources": [
+          2
+        ]
+      },
+      {
+        "title": "制作と歌のクレジット",
+        "text": "正規曲目ではHi-Tek制作、Vinia Mojica参加を確認できます。Hi-Tek本人の回想にも、Viniaにフックを歌ってもらったことが具体的に登場します。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "原作1998、公式単曲4:50",
+        "text": "Appleは1998年の作品として掲載。選択公式Topicの表示尺は4:50です。配信の2002権利年やDJミックス抜粋の長さとは分け、実音声・日本再生・原盤マスター同一性は未確認です。",
+        "sources": [
+          0,
+          3,
+          4
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "以前の録音から作り直されたビートと、Viniaのフックという本人証言を手掛かりにする。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "曲別の本人証言を短く要約。未確認の原サンプル曲名・原曲音源・先行発売・Mos Defヴァースを加えない。",
+    "art": {
+      "word": "K.O.S. (DETERMINATION)",
+      "tag": "BLACK STAR feat. VINIA MOJICA",
+      "style": "tag",
+      "seed": 2026102919,
+      "palette": [
+        "#D93218",
+        "#D7A72A",
+        "#155F37",
+        "#F4E6B9",
+        "#29190F"
+      ],
+      "paletteSource": "Mos Def & Talib Kweli Are Black Star licensed Apple cover, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7d/9d/b4/7d9db404-4032-4ed2-f5d8-8055bc637806/00008811289720.rgb.jpg/296x296bf.webp",
+      "paletteNote": "実画像の朱赤、金黄、深緑、クリーム、暗茶を目視近似した独自文字。肖像、星、装飾枠、既存ロゴや書体は複製しない。"
+    },
+    "youtube": {
+      "id": "kETkgRNSVzk",
+      "url": "https://www.youtube.com/watch?v=kETkgRNSVzk",
+      "embedUrl": "https://www.youtube.com/embed/kETkgRNSVzk",
+      "title": "K.O.S. (Determination)",
+      "channel": "Black Star - Topic",
+      "type": "公式配信 / Black Star収録版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 290,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実YouTube検索でUMG公式Topic、Black StarとVinia Mojica、K.O.S.、4:50を確認。実音声・日本再生・原盤マスター一致は未検証。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "producer": "Hi-Tek",
+    "producers": [
+      "Hi-Tek"
+    ],
+    "producerSources": [
+      1,
+      2
+    ],
+    "producerBasis": "正規Qobuz当該曲欄とHi-Tek本人の曲別回想を照合。",
+    "featuredArtists": [
+      "Vinia Mojica"
+    ],
+    "addedOrder": 656
   }
 ]
