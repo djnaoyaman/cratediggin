@@ -14620,6 +14620,46 @@
         "sourceImage": "assets/graffiti/originals/mop-salute-part-ii-tag-original.png",
         "sourceSha256": "87dd1c12e81f8758ed32b7458424235b15d1346d61ba877fc605fa80722ea8ce"
       }
+    },
+    {
+      "id": "black-star-kos-determination",
+      "title": "K.O.S. (Determination)",
+      "artist": "Black Star feat. Vinia Mojica",
+      "album": "Mos Def & Talib Kweli Are Black Star",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#D93218",
+        "#D7A72A",
+        "#155F37",
+        "#F4E6B9",
+        "#29190F"
+      ],
+      "paletteSource": "Mos Def & Talib Kweli Are Black Star licensed Apple cover, visually inspected2026-10-29 UTC.",
+      "paletteSourceURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7d/9d/b4/7d9db404-4032-4ed2-f5d8-8055bc637806/00008811289720.rgb.jpg/296x296bf.webp",
+      "paletteNote": "実画像の朱赤、金黄、深緑、クリーム、暗茶を目視近似した独自文字。肖像、星、装飾枠、既存ロゴや書体は複製しない。",
+      "image": "assets/graffiti/black-star-kos-determination-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/black-star-kos-determination-tag-original.png",
+      "concept": "K.O.S.(DETERMINATION)、BLACK STAR feat.VINIA MOJICAの独自文字。カバー配色のみ参照、人物や星や装飾枠を複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          119,
+          76,
+          1572,
+          1008
+        ],
+        "outputSha256": "00ddc6fc4f089c5e4580f1d6c409c0123e4fe31c15ccf306426d43a226f14db1",
+        "sourceImage": "assets/graffiti/originals/black-star-kos-determination-tag-original.png",
+        "sourceSha256": "c9a355ad34af9e11c1b0990668ba55842f09b0d0ef92652b2865ddf1f792d573"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
