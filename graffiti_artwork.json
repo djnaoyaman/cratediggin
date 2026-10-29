@@ -15336,6 +15336,45 @@
         "sourceImage": "assets/graffiti/originals/nonce-live-direct-tag-original.png",
         "sourceSha256": "86ce2e0d4d60f13c4cae4a3a3d1135ee1f64ecc6326d833f4bb935e2fb450574"
       }
+    },
+    {
+      "id": "homeliss-derilex-operations",
+      "title": "Operations",
+      "artist": "Homeliss Derilex",
+      "album": "Cash Money / Operations (12-inch single)",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#EFEDE3",
+        "#151714",
+        "#42443A",
+        "#979044"
+      ],
+      "paletteSource": "Cash Money EP officialStonesThrow distributed artwork, visually inspected2026-10-29 UTC.",
+      "paletteSourceURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/25/20/1c/25201cc5-ad47-9ce1-9fe1-57ee0fb0dff6/Cash_Money_copy.jpg/296x296bb.webp",
+      "paletteNote": "実画像のoffwhite、黒/charcoalの白黒写真、olivegold文字を目視近似。人物写真、ターンテーブル、既存ロゴと配置は複製しない。",
+      "image": "assets/graffiti/homeliss-derilex-operations-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/homeliss-derilex-operations-tag-original.png",
+      "concept": "OPERATIONS / HOMELISS DERILEXの独自手描き。実CashMoneyEP配色のみ参照、人物写真・原ロゴ・ターンテーブルを複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          157,
+          54,
+          2082,
+          717
+        ],
+        "outputSha256": "4b0a21fae1c3fc3e9c9e9c69c757c5b6dd4f3534127d1aeef682f0419983a06f",
+        "sourceImage": "assets/graffiti/originals/homeliss-derilex-operations-tag-original.png",
+        "sourceSha256": "5c558c254b2073ea14942495d91dc4559695ae9a84ee55d1e47b6c22c0db7a93"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
