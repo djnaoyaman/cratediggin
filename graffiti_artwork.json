@@ -15413,6 +15413,45 @@
         "sourceImage": "assets/graffiti/originals/mike-zoot-service-tag-original.png",
         "sourceSha256": "fc7d8209d7e0a2b0b752c39def8eaabad8a0dfcf0ec993a1ce4e795f6e6e929c"
       }
+    },
+    {
+      "id": "the-roots-the-lesson-pt-1",
+      "title": "The Lesson Pt. 1",
+      "artist": "The Roots feat. Dice Raw",
+      "album": "Do You Want More?!!!??!",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#2b9fb5",
+        "#9fd3d7",
+        "#163c56",
+        "#182731"
+      ],
+      "paletteSource": "Do You Want More?!!!??! — existing Proceed palette verified2026-10-17, reused for same album; not newly viewed2026-10-29.",
+      "paletteSourceURL": "https://music.apple.com/us/album/do-you-want-more/1725363561",
+      "paletteNote": "既存実ジャケット目視記録のturquoise/pale teal/petrol navyを同一アルバムで引継ぎ。共通ブランド色ではない。新しい曲別文字アート、写真や原ロゴは複製しない。",
+      "image": "assets/graffiti/the-roots-the-lesson-pt-1-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/the-roots-the-lesson-pt-1-tag-original.png",
+      "concept": "THE LESSON PT.1 / THE ROOTS feat.DICE RAWの独自文字。既存同盤DoYouWantMore実確認済み配色を引継ぎ、原ロゴや写真を複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          174,
+          57,
+          2303,
+          750
+        ],
+        "outputSha256": "c3c2f51ea61069198817d070afd0f09757b16920c426d1275d6d867d098155b3",
+        "sourceImage": "assets/graffiti/originals/the-roots-the-lesson-pt-1-tag-original.png",
+        "sourceSha256": "1ecd6fef8fae1a1b2ffd5ebd4c11dc13a7f93ed1c48609e900d6148ccd6cc685"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
