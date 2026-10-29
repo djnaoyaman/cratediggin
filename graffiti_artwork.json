@@ -14307,6 +14307,46 @@
         "sourceImage": "assets/graffiti/originals/mic-geronimo-the-natural-tag-original.png",
         "sourceSha256": "3f9c1a974e058507736f987ad4076a1c4dd1a69fd20a11298c80c7fafe0c3014"
       }
+    },
+    {
+      "id": "artifacts-flexi-wit-da-technique",
+      "title": "Flexi wit da Tech(nique)",
+      "artist": "Artifacts",
+      "album": "Between a Rock and a Hard Place",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#E86A09",
+        "#A52C08",
+        "#4A1709",
+        "#F9B642",
+        "#B9E7E4"
+      ],
+      "paletteSource": "Licensed Apple current animated-album-art still, visually inspected2026-10-29 UTC.",
+      "paletteSourceURL": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/e7/84/b9/e784b97c-7214-6566-44e7-623f4b4de823/OBJECT_PROXY0bf5871b-70d5-4a75-b0ce-79980cfacd7e_KEY_FRAME_OUTPUT_0_OBJECT_PROXY0bf5871b-70d5-4a75-b0ce-79980cfacd7e.png/296x296bb.webp",
+      "paletteNote": "実画像の橙、赤茶、焦茶、黄、薄い青緑を目視近似。1994原盤写真とは称さず、岩や土・既存ロゴを複製しない独自文字。",
+      "image": "assets/graffiti/artifacts-flexi-wit-da-technique-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/artifacts-flexi-wit-da-technique-tag-original.png",
+      "concept": "FLEXI WIT DA TECH(NIQUE)とARTIFACTSの独自文字。開閉括弧を明確に描き、正規配信アートの配色のみ参照、岩や土やロゴを複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          142,
+          70,
+          1875,
+          923
+        ],
+        "outputSha256": "543d42d919914718764e85759fefb200b07d780fc5e7a008adff93cbb30fc59d",
+        "sourceImage": "assets/graffiti/originals/artifacts-flexi-wit-da-technique-tag-original.png",
+        "sourceSha256": "0b549a53428658fd4dc377c488231296e99f5bdf3a75bb9e9deef03020b3b87b"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
