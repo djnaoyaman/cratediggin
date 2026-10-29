@@ -14581,6 +14581,45 @@
         "sourceImage": "assets/graffiti/originals/mos-def-got-tag-original.png",
         "sourceSha256": "b71d40d8e32656ea85c2b2712bc696d8bd851376e511539bb7aaa6414e0cbb64"
       }
+    },
+    {
+      "id": "mop-salute-part-ii",
+      "title": "Salute, Pt. II",
+      "artist": "M.O.P. feat. Gang Starr",
+      "album": "First Family 4 Life",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#777B43",
+        "#BAA77B",
+        "#F1EBD5",
+        "#241D15"
+      ],
+      "paletteSource": "First Family 4 Life licensed Apple Music nonExplicit-edition cover, visually inspected2026-10-29 UTC.",
+      "paletteSourceURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a6/3e/ba/a63eba73-e3fb-f1fd-046f-d6ffebc5b1d8/886449245604.jpg/296x296bb.webp",
+      "paletteNote": "実画像のオリーブ、カーキ、アイボリー、暗茶を目視近似。非Explicit版カバーは配色のみ参照し、選択音源の版の同一性は主張しない。人物・楕円ロゴ・既存文字を複製しない。",
+      "image": "assets/graffiti/mop-salute-part-ii-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/mop-salute-part-ii-tag-original.png",
+      "concept": "SALUTE PART II、M.O.P. feat. GANG STARRの独自文字。カバー配色のみ参照、肖像や楕円ロゴを複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          140,
+          70,
+          1850,
+          929
+        ],
+        "outputSha256": "a5c6720612fad17a4d4969a62615a594803928d5f08f4e22d1729b31fbbdfa69",
+        "sourceImage": "assets/graffiti/originals/mop-salute-part-ii-tag-original.png",
+        "sourceSha256": "87dd1c12e81f8758ed32b7458424235b15d1346d61ba877fc605fa80722ea8ce"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

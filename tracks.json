@@ -85096,5 +85096,153 @@
     ],
     "producerBasis": "Qobuz正規配信の当該Got Album Version Explicitトラック欄にProducer/Composerとして明示。",
     "addedOrder": 654
+  },
+  {
+    "id": "mop-salute-part-ii",
+    "title": "Salute, Pt. II",
+    "artist": "M.O.P. feat. Gang Starr",
+    "primaryArtist": "M.O.P.",
+    "primaryArtists": [
+      "M.O.P."
+    ],
+    "artists": [
+      "M.O.P.",
+      "Gang Starr"
+    ],
+    "album": "First Family 4 Life",
+    "year": 1998,
+    "yearStatus": "verified",
+    "yearBasis": "公式Topicの1998 Columbia権利表記と正規配信First Family 4 Lifeの1998年を照合。1996 Firing Squad収録のSaluteとは別作品として扱う。",
+    "region": "New York",
+    "regionBasis": "The Hip Hop MuseumによるBilly Danze本人取材でBrooklyn、BrownsvilleのM.O.P.として紹介。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "First Family 4 Life — Qobuz",
+        "url": "https://www.qobuz.com/us-en/album/first-family-4-life-mop/5099748985323",
+        "kind": "正規配信の当該曲欄。DJ Premier制作、Gang Starr参加、1998 Columbia、4:16"
+      },
+      {
+        "label": "M.O.P. - Topic — Salute, Pt. II",
+        "url": "https://www.youtube.com/watch?v=uRBW0zb4If8",
+        "kind": "Relativity公式提供、1998 Columbia、First Family 4 Life、実検索表示4:17"
+      },
+      {
+        "label": "Billy Danze — The Hip Hop Museum interview",
+        "url": "https://thhm.org/blog/the-hip-hop-museum-billy-danze/",
+        "kind": "2026本人取材。Brownsvilleの来歴とDJ Premierとの一般的な協働の回想"
+      },
+      {
+        "label": "First Family 4 Life — Apple Music",
+        "url": "https://music.apple.com/us/album/first-family-4-life/1566468433",
+        "kind": "正規配信カバーの参照。非Explicit版のページであり、選択音源の版とは同一視しない"
+      },
+      {
+        "label": "First Family 4 Life 正規配信カバー",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a6/3e/ba/a63eba73-e3fb-f1fd-046f-d6ffebc5b1d8/886449245604.jpg/296x296bb.webp",
+        "kind": "Apple実ページの画像を目視。人物・楕円ロゴ・既存文字配置を複製しない"
+      }
+    ],
+    "essayTitle": "家族の距離で、何度でも録る。",
+    "deck": "DJ Premier制作、Gang Starr参加。M.O.P.の一曲から、Billy Danzeが語る協働の距離へ。",
+    "essay": [
+      "Billy Danzeは2026年の取材で、DJ Premierとの仕事を家族のように自然な関係として振り返っている。納得しないフロウには録り直しを求める。その率直さまで含めた近さが、本人の回想にはある。Salute, Pt. IIの曲別クレジットにも、制作のDJ Premierと参加のGang Starrが並ぶ。後年の言葉と1998年のクレジットを、二つの手掛かりとして聴きたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "制作と参加の役割",
+        "text": "正規配信の当該曲クレジットでDJ PremierはProducer、Gang StarrはPerformerとして確認できます。表示名の客演表記は受領リストとも一致します。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "1998年のPart II",
+        "text": "First Family 4 Life収録のSalute, Pt. IIを採用しています。1996年のFiring Squadに収録されたSaluteや、別題のNew York Saluteとは分けています。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "回想と版の違い",
+        "text": "Billy DanzeのPremier評は一般的な協働の回想で、この曲の録音日の証言ではありません。Topicの表示4:17と正規カタログ4:16、配色参照の非Explicit版は区別し、原盤マスターの同一性は未確認です。",
+        "sources": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "DJ Premierの制作とGang Starrの参加を、当該曲の役割として辿る。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "本人の一般的な協働回想を当該曲のセッション証言としない。Part IIを1996SaluteやNewYorkSaluteと混同しない。",
+    "art": {
+      "word": "SALUTE PART II",
+      "tag": "M.O.P. feat. GANG STARR",
+      "style": "tag",
+      "seed": 2026102918,
+      "palette": [
+        "#777B43",
+        "#BAA77B",
+        "#F1EBD5",
+        "#241D15"
+      ],
+      "paletteSource": "First Family 4 Life licensed Apple Music nonExplicit-edition cover, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a6/3e/ba/a63eba73-e3fb-f1fd-046f-d6ffebc5b1d8/886449245604.jpg/296x296bb.webp",
+      "paletteNote": "実画像のオリーブ、カーキ、アイボリー、暗茶を目視近似。非Explicit版カバーは配色のみ参照し、選択音源の版の同一性は主張しない。人物・楕円ロゴ・既存文字を複製しない。"
+    },
+    "youtube": {
+      "id": "uRBW0zb4If8",
+      "url": "https://www.youtube.com/watch?v=uRBW0zb4If8",
+      "embedUrl": "https://www.youtube.com/embed/uRBW0zb4If8",
+      "title": "Salute, Pt. II",
+      "channel": "M.O.P. - Topic",
+      "type": "公式配信 / First Family 4 Life収録版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 257,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実YouTube検索でRelativity提供の公式Topic、1998Columbia、FirstFamily4Life、4:17を確認。1996Salute2:14と区別、非Explicitカバー参照を音源へ差し替えない。実再生・日本再生・原盤とのマスター一致は未検証。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "producer": "DJ Premier",
+    "producers": [
+      "DJ Premier"
+    ],
+    "producerSources": [
+      0
+    ],
+    "producerBasis": "Qobuz正規配信のSalute Pt II曲別欄にDJ Premier Producer、Gang Starr Performerと明示。",
+    "featuredArtists": [
+      "Gang Starr"
+    ],
+    "addedOrder": 655
   }
 ]
