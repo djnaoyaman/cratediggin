@@ -47,7 +47,17 @@ if preservation:assert 'jurassic-5-lesson-4-the-radio' not in {t['id'] for t in 
 assert set(f['listeningOrder'])<=set(t['id'] for t in selected)
 assert len(f['listeningOrder'])==len(set(f['listeningOrder']))==9
 assert f['listeningOrder'][0]=='jurassic-5-the-game' and f['listeningOrder'][-1]=='jurassic-5-canto-de-ossanha'
-assert f['visual']['nameOnly'] and not f['visual'].get('photo')
+v=f['visual'];assert not v.get('nameOnly') and v['photo']=='feature-jurassic-5-provided-collage.webp'
+assert v['precomposed'] and v['fit']=='contain' and v['provenance']=='user-provided'
+assert hashlib.sha256((ROOT/'src/assets'/v['photo']).read_bytes()).hexdigest()=='410e447ae4be7ef65eedb94bdeb04a6425a07313dc06a506f19fedb646eeff39'
+with Image.open(ROOT/'src/assets'/v['photo']) as photo:
+ photo.load();assert photo.size==(1376,864);assert not photo.getexif();assert not any(k in photo.info for k in ['exif','xmp','icc_profile'])
+if '--photo-preservation' in sys.argv:
+ base=sys.argv[sys.argv.index('--photo-preservation')+1]
+ before=lambda file:json.loads(subprocess.check_output(['git','show',base+':'+file],cwd=ROOT))
+ assert read('tracks.json')==before('tracks.json') and read('graffiti_artwork.json')==before('graffiti_artwork.json')
+ previous=before('features.json')['features'];assert [x for x in fdata['features'] if x['id']!='jurassic-5']==[x for x in previous if x['id']!='jurassic-5']
+ oldfeature=next(x for x in previous if x['id']=='jurassic-5');assert {k:v for k,v in f.items() if k!='visual'}=={k:v for k,v in oldfeature.items() if k!='visual'}
 for section in f['editorial']['sections']:
  for text in section['paragraphs']:
   for tid in re.findall(r'\(#/song/([a-z0-9-]+)\)',text):assert tid in by,tid
@@ -73,7 +83,9 @@ if preservation:
   assert (ROOT/path).read_bytes()==subprocess.check_output(['git','show',f'{BASE}:{path}'],cwd=ROOT),path
 if '--generated' in sys.argv:
  page=(ROOT/'dist/artists/jurassic-5.html').read_text()
- assert 'data-tag-person="jurassic-5"' in page and f['visual']['tag'] in page
+ assert 'data-photo-person="jurassic-5"' in page and f['visual']['tag'] in page and v['photo'] in page
+ assert 'feature-og/jurassic-5.jpg' in page
+ with Image.open(ROOT/'dist/feature-og/jurassic-5.jpg') as og:og.load();assert og.size==(1200,630)
  assert 'feature-listening-route' in page and f'収録作品 {len(selected)}曲' in page
  for sec in f['editorial']['sections']:assert sec['heading'] in page
  assert '写真準備中' not in page and 'placeholder' not in page

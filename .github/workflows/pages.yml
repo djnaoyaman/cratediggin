@@ -174,6 +174,20 @@ jobs:
             /tmp/cut-producer-photo-nojs-390.png
             dist/feature-og/cut-chemist.jpg
           if-no-files-found: error
+      - name: Save Jurassic 5 photo review
+        if: always() && steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none'
+        uses: actions/upload-artifact@v4
+        with:
+          name: jurassic5-photo-review
+          path: |
+            /tmp/jurassic-feature-320.png
+            /tmp/jurassic-feature-390.png
+            /tmp/jurassic-feature-768.png
+            /tmp/jurassic-feature-1280.png
+            /tmp/jurassic-feature-card-*.png
+            /tmp/jurassic-photo-nojs-390.png
+            dist/feature-og/jurassic-5.jpg
+          if-no-files-found: error
       - uses: actions/upload-pages-artifact@v4
         if: github.event_name != 'pull_request' && steps.plan.outputs.publish == 'true'
         with:

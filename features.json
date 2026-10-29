@@ -979,10 +979,15 @@
       "identityNote": "活動拠点：Los Angeles, California, USA。グループ名義の掲載曲をたどります。Cut Chemistのソロ作品や他名義での制作は、グループの曲数へ加算しません。",
       "note": "掲載曲から選んだ特集です。全ディスコグラフィーではありません。",
       "visual": {
-        "nameOnly": true,
+        "photo": "feature-jurassic-5-provided-collage.webp",
         "tag": "feature-jurassic-5-tag-v1.webp",
-        "alt": "Jurassic 5 — オリジナル・グラフィティタグ",
-        "provenance": "original-artwork"
+        "alt": "Jurassic 5のコラージュ画像（ユーザー提供）",
+        "fit": "contain",
+        "focus": "50% 50%",
+        "provenance": "user-provided",
+        "credit": "ユーザー提供",
+        "changes": "提供された完成画像の構図・色・人物は変更せず掲載。",
+        "precomposed": true
       },
       "listeningOrder": [
         "jurassic-5-the-game",
