@@ -88169,5 +88169,157 @@
       "paletteNote": "既存実ジャケット目視記録のturquoise/pale teal/petrol navyを同一アルバムで引継ぎ。共通ブランド色ではない。新しい曲別文字アート、写真や原ロゴは複製しない。"
     },
     "addedOrder": 676
+  },
+  {
+    "id": "das-efx-kaught-in-da-ak-dj-premier-remix",
+    "title": "Kaught In Da Ak (DJ Premier Remix)",
+    "artist": "Das EFX",
+    "primaryArtist": "Das EFX",
+    "primaryArtists": [
+      "Das EFX"
+    ],
+    "artists": [
+      "Das EFX"
+    ],
+    "album": "Kaught In Da Ak (Remix) (12-inch single)",
+    "year": 1994,
+    "yearStatus": "verified",
+    "yearBasis": "Cash Box1994-07-23/Hitmakers1994-07-29/Billboard1994-07-30同時代索引の新Premier remix紹介を優先。販売店1993との資料差を保持し、1993原アルバム/phonogramと別扱い。厳密初発売日未確認。",
+    "region": "Brooklyn / Virginia",
+    "regionBasis": "2010HipHopDX本人取材の保存再録がVirginiaStateUniversityでの結成、SkoobのBrooklyn/DrayzのTeaneckNewJerseyを区別。既存活動・結成分類を維持し両者NY出生とはしない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Singles review — Cash Box, July 23 1994",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/Cash-Box/90s/1994/CB-1994-07-23.pdf",
+        "kind": "同時代誌索引のEastWest5741/DJ Premier remix紹介。PDF全体未実見"
+      },
+      {
+        "label": "Singles review — Billboard, July 30 1994",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/90s/1994/BB-1994-07-30.pdf",
+        "kind": "同時代索引の4:03新remix評。原アルバムと別のPremier処理を紹介、PDF全体未実見"
+      },
+      {
+        "label": "Hitmakers, July 29 1994",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/Hitmaker/94/Hitmakers-1994-07-29.pdf",
+        "kind": "当時のremix紹介索引、1994展開を補強。厳密発売日ではない"
+      },
+      {
+        "label": "Kaught In Da Ak Remix — Fatman Records",
+        "url": "https://fatman.ocnk.net/product/28312",
+        "kind": "実商品ページ/原盤写真を画面で目視。販売店は1993と記載、同時代1994記事と資料差を保持。SOLD OUT overlay下の細部/年は読めたとしない"
+      },
+      {
+        "label": "Das EFX Baknaffek — Paul Arnold / HipHopDX, preserved interview",
+        "url": "https://rapchive.com/news/das-efx-baknaffek/",
+        "kind": "2010-08-23本人取材の全文再録。VSU結成とメンバー各地域を分離。後年制作話は当該曲へ転用しない"
+      },
+      {
+        "label": "Kaught In Da Ak DJ Premier Remix — XCoverx",
+        "url": "https://www.youtube.com/watch?v=rmXUU7RH5j4",
+        "kind": "一般投稿4:03、演者/曲名/PremierRemixを明示。通常公式アルバム版/短いexplicit/clean/inst/二版連結と比較"
+      },
+      {
+        "label": "Kaught In Da Ak — official original album edition (comparison only)",
+        "url": "https://www.youtube.com/watch?v=Yqw8vn592W4",
+        "kind": "調査で除外した通常アルバム版、Solid Scheme制作。今回のPremierRemix再生元ではない"
+      }
+    ],
+    "essayTitle": "同じ題名を、別のビートで。",
+    "deck": "1994年のシングル評に登場した、DJ Premierのリミックス。",
+    "essay": [
+      "1994年7月のCash BoxやBillboardは、「Kaught In Da Ak」をDJ Premierによる新たなリミックスとして取り上げている。通常アルバム版がSolid Schemeの制作であるのに対し、ここでたどるのはPremierの版だ。同じ曲名の公式配信だけでは選びきれない、12インチならではの枝分かれがある。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        6
+      ]
+    ],
+    "facts": [
+      {
+        "title": "原曲年とリミックス年",
+        "text": "同時代の1994年7月の記事をリミックスの年の根拠として採用しました。販売店の1993表記との違いは残し、原アルバムの年や著作権年をそのままリミックス発売年にはしません。各当時誌は索引本文の確認で、PDF全体の実見や厳密な初発売日の確認ではありません。",
+        "sources": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "title": "Premier版、4:03を選択",
+        "text": "一般投稿のDJ Premier Remix4:03を採用。公式でも別の通常アルバム版4:52、短いExplicit3:09、Instrumental、歌入りとInstrumentalを連結した8:12は代用していません。4:05の別投稿とClean4:07も比較しました。選択版のClean/Explicit細別、原マスター完全一致、実再生・日本可否は未確認です。",
+        "sources": [
+          1,
+          3,
+          5
+        ]
+      },
+      {
+        "title": "原盤ラベルからの近似配色",
+        "text": "実商品ページに表示されたEastWestラベルの灰・charcoal・creamを参照しました。SOLD OUTの薄い重ね表示でコントラストが下がっているため厳密な原盤色とはせず、サイトの黒い背景や赤いNEW表示は配色に使っていません。写真の細かな制作文字を読めたともしていません。",
+        "sources": [
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "通常アルバム版とDJ Premier Remixを別の版として聴き分ける。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "VirginiaStateUniversityでの結成と各メンバーの地域を区別。現在のBrooklyn/Virginia索引は活動・結成の分類。制作欄DJPremierは今回選択リミックスに限る。",
+    "youtube": {
+      "id": "rmXUU7RH5j4",
+      "url": "https://www.youtube.com/watch?v=rmXUU7RH5j4",
+      "embedUrl": "https://www.youtube.com/embed/rmXUU7RH5j4",
+      "title": "Das EFX - Kaught In Da Ak HD (By DJ Premier Remix)",
+      "channel": "XCoverx",
+      "type": "一般投稿 / DJ Premier Remix",
+      "official": false,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 243,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示の曲名/演者/PremierRemix/4:03を当時single評と照合。通常公式4:52/shortexplicit3:09/inst/combined8:12と区別し、4:05別投稿/Clean4:07も比較。Clean/Explicit細別は未確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [],
+    "producer": "DJ Premier",
+    "producers": [
+      "DJ Premier"
+    ],
+    "art": {
+      "word": "KAUGHT IN DA AK",
+      "tag": "DJ PREMIER REMIX / DAS EFX",
+      "style": "tag",
+      "seed": 2026102940,
+      "palette": [
+        "#EEE9DE",
+        "#A2A29C",
+        "#494A46",
+        "#242521"
+      ],
+      "paletteSource": "Original EastWest remix label as actually displayed on Fatman product page2026-10-29, softened by SOLDOUT overlay.",
+      "paletteSourceUrl": "https://fatman.ocnk.net/product/28312",
+      "paletteNote": "実表示ラベルのcream/neutralgray/charcoalを編集上近似。overlayによる淡さを留保。サイト黒背景/redNEWは除外、原ロゴ/円盤/バーコード/文字配置を複製しない。"
+    },
+    "addedOrder": 677
   }
 ]
