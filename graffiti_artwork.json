@@ -15491,6 +15491,46 @@
         "sourceImage": "assets/graffiti/originals/das-efx-kaught-in-da-ak-dj-premier-remix-tag-original.png",
         "sourceSha256": "9e8669e415813b7f07d7165f4415674c077b95e9c6d8636b905e6cf3ed20033e"
       }
+    },
+    {
+      "id": "slick-rick-behind-bars-dum-ditty-dum-mix",
+      "title": "Behind Bars (Dum Ditty Dum Mix)",
+      "artist": "Slick Rick feat. Warren G",
+      "album": "Behind Bars",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#C8CBDD",
+        "#7B91AC",
+        "#3B4953",
+        "#F4F4F2",
+        "#40A8CF"
+      ],
+      "paletteSource": "1994 US Behind Bars LP actual cover displayed on Crib product page2026-10-29, softened by SOLDOUT overlay.",
+      "paletteSourceURL": "https://www.cribrecords.jp/product/5203",
+      "paletteNote": "実画像のcoldblue/lavendergray/darkgray/whiteと小cyanaccentを編集近似。overlayで原色の厳密採取はしない。サイトcream背景・人物・原ロゴ・写真montageは複製しない。",
+      "image": "assets/graffiti/slick-rick-behind-bars-dum-ditty-dum-mix-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/slick-rick-behind-bars-dum-ditty-dum-mix-tag-original.png",
+      "concept": "Behind Bars / Dum Ditty Dum Mix / Slick Rick feat. Warren G の独自文字。実見済みLP配色近似、人物/原ロゴ/写真を転載しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          156,
+          64,
+          2072,
+          839
+        ],
+        "outputSha256": "96547e2b4280d2abb35b22683487639c5b61eb547428809a02ce32721a34301c",
+        "sourceImage": "assets/graffiti/originals/slick-rick-behind-bars-dum-ditty-dum-mix-tag-original.png",
+        "sourceSha256": "9fcb23c2e61fe785af5983bb1136c50f800d3071ff9ab9565463042127377096"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
