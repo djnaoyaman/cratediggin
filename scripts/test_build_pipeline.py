@@ -58,6 +58,14 @@ class PipelineTests(unittest.TestCase):
         self.bootstrap();(self.cache/'site/photo.webp').write_text('tampered')
         self.assertEqual(pipeline.plan(self.root,self.cache)['mode'],'full')
 
+    def test_requested_feature_qa_change_requires_build_and_browser_validation(self):
+        self.write('scripts/verify_requested_feature_editorials_browser.cjs','// initial coverage')
+        self.bootstrap()
+        self.write('scripts/verify_requested_feature_editorials_browser.cjs','// expanded no-JS and card coverage')
+        selected=pipeline.plan(self.root,self.cache)
+        self.assertEqual(selected['stages'],['full'])
+        self.assertTrue(selected['publish'])
+
     def test_documentation_changes_need_no_build_or_publish(self):
         self.bootstrap();self.write('README.md','new documentation');selected=pipeline.plan(self.root,self.cache)
         self.assertEqual(selected['mode'],'none');self.assertFalse(selected['publish'])
