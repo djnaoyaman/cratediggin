@@ -85399,5 +85399,148 @@
       "Vinia Mojica"
     ],
     "addedOrder": 656
+  },
+  {
+    "id": "erick-sermon-welcome",
+    "title": "Welcome",
+    "artist": "Erick Sermon feat. Aaron Hall & Keith Murray",
+    "primaryArtist": "Erick Sermon",
+    "primaryArtists": [
+      "Erick Sermon"
+    ],
+    "artists": [
+      "Erick Sermon",
+      "Aaron Hall",
+      "Keith Murray"
+    ],
+    "album": "Double Or Nothing",
+    "year": 1995,
+    "yearStatus": "verified",
+    "yearBasis": "本人Bandcampと正規AppleのDouble Or Nothing1995年11月7日曲目にWelcome。後年シングルの年を原曲初出年にしない。選択動画edit自体の発売年は未確定。",
+    "region": "New York",
+    "regionBasis": "Erick Sermon本人BandcampのNew York表記。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Erick Sermon — Double Or Nothing",
+        "url": "https://ericksermon.bandcamp.com/album/double-or-nothing",
+        "kind": "本人掲載。1995年11月7日、Welcome曲目、New Yorkプロフィール"
+      },
+      {
+        "label": "Erick Sermon feat. Aaron Hall & Keith Murray — Welcome",
+        "url": "https://www.youtube.com/watch?v=DULT9169AAU",
+        "kind": "本人公式チャンネルの動画。客演表記と3:59を確認。アルバムと同一マスターとは称さない"
+      },
+      {
+        "label": "Double Or Nothing — Qobuz",
+        "url": "https://www.qobuz.com/be-nl/album/double-or-nothing-erick-sermon/0073145292862",
+        "kind": "正規配信のWelcome Album Version曲別クレジット。RockwilderとErick共同制作、3:55。動画editへの役割転用はしない"
+      },
+      {
+        "label": "Double Or Nothing — Apple Music",
+        "url": "https://music.apple.com/us/album/double-or-nothing/1442864760",
+        "kind": "正規配信の原アルバム1995年"
+      },
+      {
+        "label": "Double Or Nothing 本人掲載カバー",
+        "url": "https://f4.bcbits.com/img/a1420242002_10.jpg",
+        "kind": "保存済み本人Bandcampカバーを再目視。目の写真・タイル配置・既存文字を複製しない"
+      }
+    ],
+    "essayTitle": "アルバムの曲名と、動画の三人。",
+    "deck": "原曲は1995年のDouble Or Nothing。本人公式動画はAaron HallとKeith Murrayの名も掲げる。",
+    "essay": [
+      "Welcomeのアルバム版は、RockwilderとErick Sermonの共同制作。Double Or Nothingの曲別クレジットには、その二つの名前が並ぶ。一方、ここで選んだ本人公式動画はAaron HallとKeith Murrayを客演として掲げている。同じWelcomeでも、アルバムの曲目と動画のタイトルを並べると、名前の見え方が変わる。原曲の場所を確かめながら、この公式動画の版を楽しみたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "原曲は1995年",
+        "text": "本人Bandcampと正規Appleに、1995年のDouble Or Nothing収録曲としてWelcomeを確認できます。選択動画のedit自体の発売日は未確定で、原アルバムと同一マスターとは扱っていません。",
+        "sources": [
+          0,
+          3
+        ]
+      },
+      {
+        "title": "アルバム版の共同制作",
+        "text": "正規QobuzのWelcome Album Version欄はRockwilderとErick SermonをProducerとして記載。これはアルバム版のクレジットで、選択した動画editの制作役割を別途裏付けるものではありません。",
+        "sources": [
+          2
+        ]
+      },
+      {
+        "title": "本人公式動画の名義",
+        "text": "選択動画はErick Sermon本人公式チャンネルの3:59、Aaron HallとKeith Murrayをタイトルに掲げる版です。アルバム配信3:55、本人Bandcamp3:56とは区別し、ラジオ版という未確認の呼称は付けていません。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "原アルバムの共同制作クレジットと、選択公式動画の客演表記を分けて辿る。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "原曲1995と選択動画の未確定edit年を区別。AlbumVersionのproducerを動画editの証明とせず、未確認のradio/remix名を付けない。",
+    "art": {
+      "word": "WELCOME",
+      "tag": "ERICK SERMON feat. AARON HALL & KEITH MURRAY",
+      "style": "tag",
+      "seed": 2026102920,
+      "palette": [
+        "#22452E",
+        "#665272",
+        "#A47736",
+        "#EEE6CB",
+        "#211E1C"
+      ],
+      "paletteSource": "Double Or Nothing artist Bandcamp cover, re-inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://f4.bcbits.com/img/a1420242002_10.jpg",
+      "paletteNote": "本人掲載画像の深緑、紫、温かい茶金、クリーム、黒を目視近似。目の写真・タイル・既存のロゴや文字形を複製せず、選択公式動画の客演表記を含む独自文字。"
+    },
+    "youtube": {
+      "id": "DULT9169AAU",
+      "url": "https://www.youtube.com/watch?v=DULT9169AAU",
+      "embedUrl": "https://www.youtube.com/embed/DULT9169AAU",
+      "title": "Erick Sermon ft Aaron Hall & Keith Murray - Welcome",
+      "channel": "Erick Sermon",
+      "type": "本人公式動画 / Aaron Hall・Keith Murray表記版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 239,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実YouTube検索で本人公式アーティストバッジ、曲名と二名の客演表記、3:59を確認。1995AlbumVersionの同一マスター・具体的radio/edit名・動画版初出年は未確認。実音声と日本再生は未検証。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [
+      "Aaron Hall",
+      "Keith Murray"
+    ],
+    "versionBasis": "1995原曲を紹介し、Aaron Hall/Keith Murray表記の本人公式動画を選択。原アルバムとのマスター一致と具体的edit名は未確認。",
+    "addedOrder": 657
   }
 ]
