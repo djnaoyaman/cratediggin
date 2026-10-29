@@ -14227,6 +14227,46 @@
         "sourceImage": "assets/graffiti/originals/erick-sermon-boy-meets-world-tag-original.png",
         "sourceSha256": "086a98017a3d6d2754a51e6e78381d2fe61cc779b8f0908732dc5b1f67954123"
       }
+    },
+    {
+      "id": "de-la-soul-area",
+      "title": "Area",
+      "artist": "De La Soul",
+      "album": "Buhloone Mindstate",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#10ADA6",
+        "#07874B",
+        "#F0C827",
+        "#D91D20",
+        "#142728"
+      ],
+      "paletteSource": "Official Bandcamp30thAnniversary Buhloone Mindstate cover, visually inspected2026-10-29 JST.",
+      "paletteSourceURL": "https://f4.bcbits.com/img/a3731971294_10.jpg",
+      "paletteNote": "本人30周年版の実画像にあるターコイズ、緑、黄、赤、暗色を目視で近似。1993原盤現物の参照とはせず、人物・水面・気球・ロゴを複製しない独自文字。",
+      "image": "assets/graffiti/de-la-soul-area-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/de-la-soul-area-tag-original.png",
+      "concept": "AREAとDE LA SOULの独自文字。公式30周年版の配色のみ参照し、人物・水面・既存ロゴを描かない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          137,
+          66,
+          1819,
+          870
+        ],
+        "outputSha256": "36d0111df0afc0f2ab4762fddc67b972dcc50c021e1c892887b233ce02ebb07f",
+        "sourceImage": "assets/graffiti/originals/de-la-soul-area-tag-original.png",
+        "sourceSha256": "1db2a07f18b461c8ecc2597a028bd868f129cef7c17c66a8489b1c213c96f3e5"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
