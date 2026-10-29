@@ -160,6 +160,20 @@ jobs:
             /tmp/external-audio-black-moon-how-many-emcees-bushwick-jeep-beats-390.png
             /tmp/external-audio-black-moon-how-many-emcees-bushwick-jeep-beats-1280.png
           if-no-files-found: error
+      - name: Save Cut Chemist photo review
+        if: always() && steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none'
+        uses: actions/upload-artifact@v4
+        with:
+          name: cut-chemist-photo-review
+          path: |
+            /tmp/cut-producer-feature-320.png
+            /tmp/cut-producer-feature-390.png
+            /tmp/cut-producer-feature-768.png
+            /tmp/cut-producer-feature-1280.png
+            /tmp/cut-producer-feature-card-*.png
+            /tmp/cut-producer-photo-nojs-390.png
+            dist/feature-og/cut-chemist.jpg
+          if-no-files-found: error
       - uses: actions/upload-pages-artifact@v4
         if: github.event_name != 'pull_request' && steps.plan.outputs.publish == 'true'
         with:
