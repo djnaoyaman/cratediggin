@@ -88739,5 +88739,153 @@
     "datePublished": "2026-10-29",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 680
+  },
+  {
+    "id": "lootpack-episodes",
+    "title": "Episodes",
+    "artist": "Lootpack feat. Kazi, God’s Gift, Declaime, Oh No, MED",
+    "primaryArtist": "Lootpack",
+    "primaryArtists": [
+      "Lootpack"
+    ],
+    "artists": [
+      "Lootpack",
+      "Kazi",
+      "God’s Gift",
+      "Declaime",
+      "Oh No",
+      "MED"
+    ],
+    "album": "Soundpieces: Da Antidote!",
+    "year": 1999,
+    "yearStatus": "verified",
+    "yearBasis": "StonesThrow公式再発記事が原作1999年を明記し、公式販売の曲23Episodesを照合。2012再発年とは別。",
+    "region": "Oxnard",
+    "regionBasis": "公式MED本人取材でLAでなくcrewのOxnard California出身/活動文脈を説明。Wildchild本人取材のOxnard起源とも照合し、既存Lootpack地域表記を維持。全員の出生地や当曲録音地とはしない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Episodes — Stones Throw official track",
+        "url": "https://www.stonesthrow.com/store/soundpieces-da-antidote-23-episodes-feat-kazi-gods-gift-declaime-oh-no-med/",
+        "kind": "公式曲23、Kazi/God’s Gift/Declaime/Oh No/MED客演を明記、全文確認"
+      },
+      {
+        "label": "Lootpack Soundpieces: Da Antidote! — Stones Throw",
+        "url": "https://www.stonesthrow.com/news/lootpack-soundpieces-da-antidote/",
+        "kind": "公式2012再発紹介、原作1999年とMadlibのアルバム制作を確認"
+      },
+      {
+        "label": "MED Interview — Stones Throw",
+        "url": "https://www.stonesthrow.com/news/med-interview/",
+        "kind": "公式本人取材全文。MED/Medaphoar名義の対応、crewのOxnard地域を確認。別曲の制作意図を当曲へ移さない"
+      },
+      {
+        "label": "Wildchild in The Source — Stones Throw",
+        "url": "https://www.stonesthrow.com/news/wildchild-in-the-source/",
+        "kind": "本人取材のレーベル再掲全文。Oxnardの活動起源を補助確認"
+      },
+      {
+        "label": "Episodes — Lootpack Topic",
+        "url": "https://www.youtube.com/watch?v=Ur63IE-unz8",
+        "kind": "Stones Throw提供の公式配信、8:44、客演全5名を実表示で確認。一般1999アルバム投稿と比較"
+      }
+    ],
+    "essayTitle": "8分44秒、声が集まる。",
+    "deck": "Lootpackに五人の客演。Soundpiecesの長い一曲を切り出す。",
+    "essay": [
+      "Kazi、God’s Gift、Declaime、Oh No、MED。1999年のSoundpieces: Da Antidote!で、五人がLootpackに加わるのが「Episodes」だ。公式曲目では23曲目、選んだ音源は8分44秒。長さだけなら短いミックスにも見えるけれど、これは一曲に集まった顔ぶれをたどるための時間だ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        4
+      ]
+    ],
+    "facts": [
+      {
+        "title": "原作は1999年",
+        "text": "公式レーベルの再発紹介で原作年を確認しました。再発記事の2012年や配信上の更新日を初出年にはしていません。MADLIB TRADEMARKSOUND SERIES VOL.1の原行にある1:58はミックス内の尺として記録に残し、全長8:44とは区別します。",
+        "sources": [
+          0,
+          1,
+          4
+        ]
+      },
+      {
+        "title": "五人の客演と名義",
+        "text": "公式販売と選択配信の両方で五人を照合。配信説明のMedaphorは、公式MED Interview本文のMedaphoar表記と現在の曲目MEDを照合し、既存のMED名義へ統一しています。Oxnardという地域文脈を、全員の出生地やこの曲の録音場所へ広げることはしていません。",
+        "sources": [
+          0,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "title": "アルバム全体ではなく単曲",
+        "text": "選択は公式Topicの8:44。一般投稿の同じ1999年アルバム曲8:44、8:51とも比較し、公式提供を選びました。同一マスター、実音声・日本での再生可否は未確認です。配色は既存Whenimondamicの記事で2026年10月17日に確認済みの同アルバムの青・赤・黄を継承し、今回新たにジャケットを目視したとはしていません。",
+        "sources": [
+          0,
+          4
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "五人の客演クレジットを横に置き、声が変わるたびに曲の表情を追う。"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "1999album track23の客演全5名を公式曲目/選択Topicで対応。MED名義統合は公式本人取材根拠。長い単曲をアルバム動画と誤分類しない。",
+    "art": {
+      "word": "EPISODES",
+      "tag": "LOOTPACK feat. KAZI / GOD’S GIFT / DECLAIME / OH NO / MED",
+      "style": "blockbuster",
+      "seed": 2026102945,
+      "palette": [
+        "#2455a0",
+        "#d82d2a",
+        "#e9be35"
+      ],
+      "paletteSource": "Soundpieces: Da Antidote! inherited from lootpack-whenimondamic, prior visual confirmation2026-10-17, not new image inspection.",
+      "paletteNote": "同アルバムの確認済み青・赤・黄を編集近似として継承。既存ロゴや人物/構図は複製しない。"
+    },
+    "youtube": {
+      "id": "Ur63IE-unz8",
+      "url": "https://www.youtube.com/watch?v=Ur63IE-unz8",
+      "embedUrl": "https://www.youtube.com/embed/Ur63IE-unz8",
+      "title": "Episodes",
+      "channel": "Lootpack - Topic",
+      "type": "公式配信 / standard vocal album version",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 524,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示でStonesThrow提供/8:44/客演KaziGodsGiftDeclaimeOhNoMedaphor確認、正規曲23と照合。一般1999album8:44/8:51比較、実音声/原master完全一致は未確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [
+      "Kazi",
+      "God’s Gift",
+      "Declaime",
+      "Oh No",
+      "MED"
+    ],
+    "addedOrder": 681
   }
 ]
