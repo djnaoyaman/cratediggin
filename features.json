@@ -1475,7 +1475,8 @@
         "tag": "feature-the-beatnuts-tag-v1.webp",
         "alt": "The Beatnuts — オリジナル・グラフィティタグ",
         "provenance": "original-artwork"
-      }
+      },
+      "readerFacingIntro": true
     },
     {
       "id": "buckwild",
@@ -1585,7 +1586,8 @@
         "tag": "feature-buckwild-tag-v1.webp",
         "alt": "Buckwild — オリジナル・グラフィティタグ",
         "provenance": "original-artwork"
-      }
+      },
+      "readerFacingIntro": true
     },
     {
       "id": "large-professor",
@@ -1694,7 +1696,8 @@
         "tag": "feature-large-professor-tag-v1.webp",
         "alt": "Large Professor — オリジナル・グラフィティタグ",
         "provenance": "original-artwork"
-      }
+      },
+      "readerFacingIntro": true
     },
     {
       "id": "black-moon",
@@ -1788,7 +1791,8 @@
         "tag": "feature-black-moon-tag-v1.webp",
         "alt": "Black Moon — オリジナル・グラフィティタグ",
         "provenance": "original-artwork"
-      }
+      },
+      "readerFacingIntro": true
     },
     {
       "id": "common",
@@ -1885,7 +1889,8 @@
         "tag": "feature-common-tag-v1.webp",
         "alt": "Common — オリジナル・グラフィティタグ",
         "provenance": "original-artwork"
-      }
+      },
+      "readerFacingIntro": true
     },
     {
       "id": "the-roots",
@@ -1983,7 +1988,8 @@
         "tag": "feature-the-roots-tag-v1.webp",
         "alt": "The Roots — オリジナル・グラフィティタグ",
         "provenance": "original-artwork"
-      }
+      },
+      "readerFacingIntro": true
     },
     {
       "id": "diamond-d",
@@ -2078,7 +2084,8 @@
         "tag": "feature-diamond-d-tag-v1.webp",
         "alt": "Diamond D — オリジナル・グラフィティタグ",
         "provenance": "original-artwork"
-      }
+      },
+      "readerFacingIntro": true
     },
     {
       "id": "9th-wonder",
@@ -2183,7 +2190,8 @@
         "tag": "feature-9th-wonder-tag-v1.webp",
         "alt": "9th Wonder — オリジナル・グラフィティタグ",
         "provenance": "original-artwork"
-      }
+      },
+      "readerFacingIntro": true
     },
     {
       "id": "rza",
@@ -2267,7 +2275,8 @@
         "tag": "feature-rza-tag-v1.webp",
         "alt": "RZA — オリジナル・グラフィティタグ",
         "provenance": "original-artwork"
-      }
+      },
+      "readerFacingIntro": true
     },
     {
       "id": "prince-paul",
@@ -2361,7 +2370,8 @@
         "tag": "feature-prince-paul-tag-v1.webp",
         "alt": "Prince Paul — オリジナル・グラフィティタグ",
         "provenance": "original-artwork"
-      }
+      },
+      "readerFacingIntro": true
     },
     {
       "id": "krs-one",
@@ -2453,7 +2463,8 @@
         "tag": "feature-krs-one-tag-v1.webp",
         "alt": "KRS-One — オリジナル・グラフィティタグ",
         "provenance": "original-artwork"
-      }
+      },
+      "readerFacingIntro": true
     },
     {
       "id": "mos-def",
@@ -2545,7 +2556,8 @@
         "tag": "feature-mos-def-tag-v1.webp",
         "alt": "Mos Def — オリジナル・グラフィティタグ",
         "provenance": "original-artwork"
-      }
+      },
+      "readerFacingIntro": true
     },
     {
       "id": "da-beatminerz",
@@ -2629,7 +2641,8 @@
         "tag": "feature-da-beatminerz-tag-v1.webp",
         "alt": "Da Beatminerz — オリジナル・グラフィティタグ",
         "provenance": "original-artwork"
-      }
+      },
+      "readerFacingIntro": true
     }
   ]
 }
