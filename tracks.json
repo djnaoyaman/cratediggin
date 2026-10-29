@@ -88010,5 +88010,164 @@
       "paletteNote": "実ラベル写真の暖かい白、黒、charcoalを目視近似。レコード円、ロゴ、既存字体と配置は複製しない。"
     },
     "addedOrder": 675
+  },
+  {
+    "id": "the-roots-the-lesson-pt-1",
+    "title": "The Lesson Pt. 1",
+    "artist": "The Roots feat. Dice Raw",
+    "primaryArtist": "The Roots",
+    "primaryArtists": [
+      "The Roots"
+    ],
+    "artists": [
+      "The Roots",
+      "Dice Raw"
+    ],
+    "album": "Do You Want More?!!!??!",
+    "year": 1994,
+    "yearStatus": "verified",
+    "yearBasis": "CMJ1994-08-15当時評の索引本文がDistortion To StaticのB面The Lesson Part1を明記。DGC1994現物目録/WFMU選曲記録と照合。1995アルバムより先行、厳密発売日未確定。",
+    "region": "Philadelphia",
+    "regionBasis": "既存The RootsのPhiladelphia分類、1995本人取材と正規配信紹介を照合。客演個人の出生地には広げない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Hip Hop with ? and Thought — The Eyeopener, April 12 1995",
+        "url": "https://theeyeopener.com/1995/04/hip-hop-with-and-thought-april-12-1995/",
+        "kind": "当時のQuestlove本人取材全文。Dice Rawが用意したverseから即興に切り替えて1テイク録音したという当該曲の証言"
+      },
+      {
+        "label": "The Lesson Pt.1 — Qobuz licensed credits",
+        "url": "https://www.qobuz.com/se-en/album/do-you-want-more-deluxe-version-explicit-the-roots/l8o5chx3a3qoa",
+        "kind": "正規Deluxe配信の曲別Dice Raw客演/Questlove制作、曲15・5:11、原アルバム1995。再発と原発売を分離"
+      },
+      {
+        "label": "The Lesson Pt.1 feat. Dice Raw — Apple Music",
+        "url": "https://music.apple.com/us/album/the-lesson-pt-1-feat-dice-raw/1543795033?i=1543796187",
+        "kind": "公式配信の索引メタデータ。1995アルバム曲と2021Deluxe掲載を区別。直接ページはcachemiss"
+      },
+      {
+        "label": "The Lesson Pt.1 — The Roots Topic",
+        "url": "https://www.youtube.com/watch?v=OVgxrTLGsKg",
+        "kind": "UMG公式、The Roots/Dice Raw、Do You Want More収録、5:12、℗1994Geffen。Part2/3・インスト・Clean・2025liveと比較"
+      },
+      {
+        "label": "Do You Want More?!!!??! — previously verified cover reference",
+        "url": "https://music.apple.com/us/album/do-you-want-more/1725363561",
+        "kind": "既存Proceed台帳の2026-10-17実画像確認済み配色を同一アルバムへ引継ぎ。今回新規に画像を読んだという意味ではない"
+      },
+      {
+        "label": "SINGLELAND — CMJ New Music Report, August 15 1994",
+        "url": "https://www.worldradiohistory.com/Archive-All-Music/CMJ/1994/CMJ-New-Music-Report-1994-08-15.pdf",
+        "kind": "同時代誌p22索引本文。先行singleとB面TheLessonPart1を明記。PDF全体未読"
+      },
+      {
+        "label": "Distortion To Static / The Lesson — SoulClap physical catalog",
+        "url": "https://www.soulclaprecord.com/products/detail/66724",
+        "kind": "現物目録索引DGC/US1994、B1Part1LP5:13/B2Radio/B3Part2を区別"
+      },
+      {
+        "label": "The Lesson Part1 — WFMU playlist",
+        "url": "https://www.wfmu.org/playlists/shows/39765",
+        "kind": "放送局自身の選曲記録索引、SingleDGC1994。発売日断定には使わない"
+      }
+    ],
+    "essayTitle": "書いてきたヴァースを、いったん置く。",
+    "deck": "Dice Rawの即興を、ひとつのテイクに刻んだ「The Lesson」。",
+    "essay": [
+      "1995年4月の取材で、Questloveは「The Lesson」のDice Rawについて具体的に話している。最初は用意してきたヴァースを録るつもりだったが、その場で即興に切り替えてもらい、1テイクで録音したという。客演名を知るだけでなく、録音時のこの選択を知ると、曲に残された言葉の勢いへ耳を向けたくなる。"
+    ],
+    "essaySources": [
+      [
+        0
+      ]
+    ],
+    "facts": [
+      {
+        "title": "先行シングルとアルバム",
+        "text": "1994年8月15日付CMJの同時代評に、発売予定アルバムから届いたDistortion To Staticと、そのB面The Lesson Part1が登場します。原盤目録・WFMUの記録とも1994が一致し、1995アルバムより先行すると確認できます。CMJは索引本文の確認でPDF全体を実見したものではなく、厳密な初発売日は未確認です。",
+        "sources": [
+          5,
+          6,
+          7,
+          1
+        ]
+      },
+      {
+        "title": "Part.1の通常アルバム版",
+        "text": "選択音源はUMG公式の5:12、正規配信曲目は5:11。原受領のThe LessonをPart.1に照合し、Part.2、別曲Part.3、Instrumental、Clean、2025年ライブとは分けています。尺差からマスター差は断定せず、実音声・日本での再生可否は未確認です。",
+        "sources": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "title": "客演と制作、配色の出典",
+        "text": "Dice Raw客演とQuestlove制作は正規配信クレジットに基づきます。グラフィティは同じアルバムの既存確認済みジャケット配色を引き継いだ新しい曲別文字作品です。元のロゴや写真は複製していません。",
+        "sources": [
+          1,
+          4
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "Dice Rawの即興を1テイクで録ったという本人証言を踏まえ、ヴァースの進み方に耳を向ける。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "1995年当時のQuestlove本人取材による曲別録音証言。原曲Part.1と後のpart/live/clean/instを分ける。1994先行singleの同時代索引と1995アルバムを区別。",
+    "youtube": {
+      "id": "OVgxrTLGsKg",
+      "url": "https://www.youtube.com/watch?v=OVgxrTLGsKg",
+      "embedUrl": "https://www.youtube.com/embed/OVgxrTLGsKg",
+      "title": "The Lesson Pt. 1",
+      "channel": "The Roots - Topic",
+      "type": "公式配信 / 通常アルバム版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 312,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実検索表示でUMG/DiceRaw/DoYouWantMore/5:12/℗1994を確認。通常別upload5:13、一般5:11、Part2/3、inst/clean/liveを比較し通常公式版を採用。実音声・日本再生・原マスター完全一致は未確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [
+      "Dice Raw"
+    ],
+    "producer": "Questlove",
+    "producers": [
+      "Questlove"
+    ],
+    "art": {
+      "word": "THE LESSON PT. 1",
+      "tag": "THE ROOTS feat. DICE RAW",
+      "style": "tag",
+      "seed": 2026102939,
+      "palette": [
+        "#2b9fb5",
+        "#9fd3d7",
+        "#163c56",
+        "#182731"
+      ],
+      "paletteSource": "Do You Want More?!!!??! — existing Proceed palette verified2026-10-17, reused for same album; not newly viewed2026-10-29.",
+      "paletteSourceUrl": "https://music.apple.com/us/album/do-you-want-more/1725363561",
+      "paletteNote": "既存実ジャケット目視記録のturquoise/pale teal/petrol navyを同一アルバムで引継ぎ。共通ブランド色ではない。新しい曲別文字アート、写真や原ロゴは複製しない。"
+    },
+    "addedOrder": 676
   }
 ]
