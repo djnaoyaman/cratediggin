@@ -83539,5 +83539,160 @@
     "datePublished": "2026-10-29",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 643
+  },
+  {
+    "id": "company-flow-vital-nerve",
+    "title": "Vital Nerve",
+    "artist": "Company Flow feat. BMS",
+    "primaryArtist": "Company Flow",
+    "primaryArtists": [
+      "Company Flow"
+    ],
+    "artists": [
+      "Company Flow",
+      "BMS"
+    ],
+    "featuredArtists": [
+      "BMS"
+    ],
+    "album": "Funcrusher (EP)",
+    "year": 1996,
+    "yearStatus": "verified",
+    "yearBasis": "El-P自身の2012年RBMAインタビューはFuncrusherを1996年と回想。Funcrusher再発盤の曲目B1にVital Nerveを確認。販売店の1995年表記とは不一致があり、ここでは本人証言を採用。選択再生音源はFuncrusher Plus収録版で、EPと同一マスターとは未確認。",
+    "region": "New York",
+    "scene": "Brooklyn, New York",
+    "regionBasis": "RBMA講義の紹介はCompany FlowをBrooklynのグループと記述し、El-P本人もBrooklynで育ったと回想。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Red Bull Music Academy — El-P Interview (2012)",
+        "url": "https://daily.redbullmusicacademy.com/2012/10/el-p-interview/",
+        "kind": "El-P本人の回想。Funcrusherを1996年と説明し、自主制作と契約の経緯を語る"
+      },
+      {
+        "label": "Red Bull Music Academy — El-P Lecture",
+        "url": "https://www.redbullmusicacademy.com/lectures/el-p-lecture/",
+        "kind": "Brooklynのグループとして紹介。司会のEP1996年説明と本人の地域・制作回想を区別する"
+      },
+      {
+        "label": "Crib Records — Funcrusher (2nd PRESS)",
+        "url": "https://www.cribrecords.jp/product/745",
+        "kind": "実物再発盤の曲目B1 Vital Nerve。販売店の1995年表記は本人の1996年回想と不一致のため初出年に採用しない"
+      },
+      {
+        "label": "COMPANY FLOW - Topic — Vital Nerve",
+        "url": "https://www.youtube.com/watch?v=105emhbLmg4",
+        "kind": "選択音源の表示情報。Company Flow・BMS、Funcrusher Plus、5:02。実再生は利用者確認"
+      },
+      {
+        "label": "Crib Records — Funcrusher Plus",
+        "url": "https://www.cribrecords.jp/product/5264",
+        "kind": "選択音源が収録されたアルバムの実物ジャケット資料"
+      },
+      {
+        "label": "Funcrusher Plus 実物ジャケット",
+        "url": "https://www.cribrecords.jp/data/cribrecords/product/20180226_8ab003.jpg",
+        "kind": "配色のみ目視参照。新規グラフィティへ絵柄・人物・既存ロゴは転載しない"
+      },
+      {
+        "label": "Apple Music — Vital Nerve (feat. BMS)",
+        "url": "https://music.apple.com/us/song/vital-nerve-feat-bms/1675275224",
+        "kind": "公式配信の客演表記と1997年Funcrusher Plus収録を確認"
+      }
+    ],
+    "essayTitle": "自主盤から、条件を持ってレーベルへ。",
+    "deck": "Funcrusherを自分たちで出し、その反響を携えて交渉へ。音源を作ることと、原盤を持つことが近くにあった時期のCompany Flow。",
+    "essay": [
+      "Funcrusherは、まず自分たちで費用を出して世に送り出した作品だった。El-Pは後年のインタビューで、その反響からレーベルとの話し合いが始まったと振り返っている。Rawkusとの契約では、原盤の所有権を手元に残すことと利益の折半を条件にした。曲を作ることと、それを誰のものとして届けるかを決めること。その二つが近い距離にあった時期のCompany Flowを、ここから辿りたい。",
+      "Vital NerveはFuncrusherの曲目にも残り、ここではFuncrusher Plusの配信音源を選んでいる。画面に並ぶCompany FlowとBMSのクレジットも、選択した配信の表記から拾ったものだ。EPという出発点と、その後のアルバムという入口。片方を消して整理するのではなく、両方の記録を残して聴く一曲にしたい。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        2,
+        3,
+        6
+      ]
+    ],
+    "facts": [
+      {
+        "title": "初出年と配信版を分ける",
+        "text": "El-PはFuncrusherを1996年と回想しています。実物再発盤の曲目にもVital Nerveを確認できます。ここで選んだ再生音源はFuncrusher Plus収録版で、EPと同一マスターという確認はしていません。",
+        "sources": [
+          0,
+          2,
+          3
+        ]
+      },
+      {
+        "title": "Company FlowとBMS",
+        "text": "Apple MusicはVital Nerve (feat. BMS)、Company Flowと表記しています。グループを主名義、BMSを客演として区別し、未確認の別名・本名は付け足していません。",
+        "sources": [
+          3,
+          6
+        ]
+      },
+      {
+        "title": "自主制作からの交渉",
+        "text": "El-Pの回想では、自主制作盤の反響を受けてレーベルとの交渉へ進み、Rawkusでは原盤の所有権と利益折半という条件を得ています。これはグループ／作品の背景であり、この曲だけの録音工程の説明ではありません。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と使用箇所を一次資料で個別照合できたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "FuncrusherというEPと、選択したFuncrusher Plus配信版のクレジットを行き来する。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "自主制作と作品の所有をめぐる本人の回想を入口にする編集。個別セッションや音声解析、作者の曲別意図を断定しない。",
+    "art": {
+      "word": "VITAL NERVE",
+      "tag": "COMPANY FLOW feat. BMS",
+      "style": "tag",
+      "seed": 2026102907,
+      "palette": [
+        "#7562B4",
+        "#A94D31",
+        "#E2CE58",
+        "#171B20",
+        "#F0E9D0"
+      ],
+      "paletteSource": "Funcrusher Plus selected audio edition physical sleeve, visually inspected2026-10-29 JST.",
+      "paletteSourceUrl": "https://www.cribrecords.jp/data/cribrecords/product/20180226_8ab003.jpg",
+      "paletteNote": "選択音源のアルバムジャケットにある紫・青紫、錆色の橙、黄、暗色を目視で近似。1996EPの配色とは主張せず、人物・風景・既存ロゴを描かない独自の文字構成。"
+    },
+    "youtube": {
+      "id": "105emhbLmg4",
+      "url": "https://www.youtube.com/watch?v=105emhbLmg4",
+      "embedUrl": "https://www.youtube.com/embed/105emhbLmg4",
+      "title": "Vital Nerve",
+      "channel": "COMPANY FLOW - Topic",
+      "type": "正規Topic配信 / Funcrusher Plus収録版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 302,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実際の検索画面でCOMPANY FLOW - Topic、Vital Nerve、5:02、Sonosuite S.L.提供、Company Flow・BMS、Funcrusher Plusを確認。EPとのマスター同一性・実再生・日本からの再生は未検証。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 644
   }
 ]
