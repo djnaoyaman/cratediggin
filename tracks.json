@@ -86767,5 +86767,148 @@
       "Luminous"
     ],
     "addedOrder": 666
+  },
+  {
+    "id": "black-moon-reality-killing-every",
+    "title": "Reality (Killing Every...)",
+    "artist": "Black Moon",
+    "primaryArtist": "Black Moon",
+    "primaryArtists": [
+      "Black Moon"
+    ],
+    "artists": [
+      "Black Moon"
+    ],
+    "album": "I Got Cha Opin / Reality (12-inch single)",
+    "year": 1994,
+    "yearStatus": "verified",
+    "yearBasis": "原WR20083 B面実ラベルの©℗1994 Max Entertainmentを目視。2022 Nervous再発年と区別。",
+    "region": "New York",
+    "regionBasis": "Black Moon/Nervous公式BandcampのNew York,New Yorkプロフィールを確認。メンバー全員の出生地は推定しない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "I Got Cha Opin / Reality — WR20083現物",
+        "url": "https://www.groovenutrecords.net/products/detail/11234",
+        "kind": "現物販売説明1994。取得したB面ラベルで原年・Vocal5:09/Instrumental4:59と制作名義を確認"
+      },
+      {
+        "label": "WR20083 Original Headz Side B実ラベル",
+        "url": "https://www.groovenutrecords.net/html/upload/save_image/08061931_55c33768eda03.jpg",
+        "kind": "©℗1994、Reality (Killing Every...)、Vocal5:09、Da Beatminerzを目視。細かな役割は転記しない"
+      },
+      {
+        "label": "I Got Cha Opin b/w Reality — Nervous Records",
+        "url": "https://nervousnyc.com/release/black-moon-2/",
+        "kind": "2022年公式再発、Vocal MixとInstrumentalを別に記載。初出年ではない"
+      },
+      {
+        "label": "Reality — Black Moon / Nervous Bandcamp",
+        "url": "https://black-moon.bandcamp.com/track/reality-killing-every",
+        "kind": "正規音源とNew Yorkの公式アーティストプロフィール"
+      },
+      {
+        "label": "Reality (Killing Everyý) (Vocal Mix) — Black Moon - Topic",
+        "url": "https://www.youtube.com/watch?v=kYk8v38bf3g",
+        "kind": "実表示でNervous提供、single Vocal Mix5:12。題名の文字化けはそのまま出典側表記として記録"
+      }
+    ],
+    "essayTitle": "Original Headz Side、そのB面を読む。",
+    "deck": "1994年の黄ラベルに残る、VocalとInstrumentalの二本立て。",
+    "essay": [
+      "黒いスリーブのステッカーは「I Got Cha Opin」を大きく掲げる。その盤を裏返すと、Original Headz Side Bの「Reality (Killing Every...)」が現れる。Vocalは5分09秒、Instrumentalは4分59秒。制作欄にはDa Beatminerz。2022年のNervous再発でもこの歌入りとInstrumentalの区分は保たれており、今回はVocal Mixを選んだ。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1994年のB面現物",
+        "text": "WR20083のB面実ラベルは©℗1994 Max Entertainment。曲名の括弧と省略符、Vocal5:09／Instrumental4:59を確認しました。制作のDa Beatminerzは読める範囲を採用し、細かな他の役割までは補っていません。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "公式Vocal Mixを採用",
+        "text": "選択TopicはNervous提供のsingle Vocal Mix、5:12。一般投稿の歌入り5:12と比較し、10:02の長い投稿は内容・版が不明なため採用していません。現物Vocal5:09との3秒差があるため、原マスター完全一致は未確認です。",
+        "sources": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "title": "綴りと再発年",
+        "text": "ページの曲名は原ラベルのReality (Killing Every...)に合わせています。選択配信のEveryýは出典側の表記としてのみ残します。2022年はNervous再発の年です。サイト内・日本での実音声再生可否は未確認です。",
+        "sources": [
+          1,
+          2,
+          4
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "同じ12インチのA面とB面を分け、RealityのVocal Mixとして聴く。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "原WR20083B面1994目視、2022再発と分離。A面のサンプル/曲別説明をB面へ転記しない。原題省略符を維持し配信文字化けを正規題へ移さない。",
+    "art": {
+      "word": "REALITY (KILLING EVERY...)",
+      "tag": "BLACK MOON",
+      "style": "tag",
+      "seed": 2026102930,
+      "palette": [
+        "#E8D329",
+        "#BE333B",
+        "#ECEBE2",
+        "#222824",
+        "#85877D"
+      ],
+      "paletteSource": "WR20083 original single sleeve and B-side label, visually inspected2026-10-29 UTC.",
+      "paletteSourceUrl": "https://www.groovenutrecords.net/html/upload/save_image/08061931_55c3376e88106.jpg",
+      "paletteNote": "現物の黒スリーブ、黄ラベル、赤白ステッカーと灰を目視近似。Wreckロゴ、キャラクター、円盤、ステッカーの文字配置を複製しない独自文字。"
+    },
+    "youtube": {
+      "id": "kYk8v38bf3g",
+      "url": "https://www.youtube.com/watch?v=kYk8v38bf3g",
+      "embedUrl": "https://www.youtube.com/embed/kYk8v38bf3g",
+      "title": "Reality (Killing Everyý) (Vocal Mix)",
+      "channel": "Black Moon - Topic",
+      "type": "公式配信 / single Vocal Mix",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 312,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示でNervous提供、Black Moon、I GOT CHA OPIN b/w REALITY、Vocal Mix5:12を確認。一般歌入り5:12/長い投稿10:02と比較。原ラベルVocal5:09とは尺差あり、原盤マスター一致・実音声・日本再生は未確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [],
+    "producer": "Da Beatminerz",
+    "producers": [
+      "Da Beatminerz"
+    ],
+    "addedOrder": 667
   }
 ]

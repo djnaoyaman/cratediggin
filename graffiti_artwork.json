@@ -15059,6 +15059,46 @@
         "sourceImage": "assets/graffiti/originals/frankenstein-rocksumshit-tag-original.png",
         "sourceSha256": "4b7ba239f565600d8eeee51674f4c80dfde46474b4d8d51a28a17fe74925cc8e"
       }
+    },
+    {
+      "id": "black-moon-reality-killing-every",
+      "title": "Reality (Killing Every...)",
+      "artist": "Black Moon",
+      "album": "I Got Cha Opin / Reality (12-inch single)",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#E8D329",
+        "#BE333B",
+        "#ECEBE2",
+        "#222824",
+        "#85877D"
+      ],
+      "paletteSource": "WR20083 original single sleeve and B-side label, visually inspected2026-10-29 UTC.",
+      "paletteSourceURL": "https://www.groovenutrecords.net/html/upload/save_image/08061931_55c3376e88106.jpg",
+      "paletteNote": "現物の黒スリーブ、黄ラベル、赤白ステッカーと灰を目視近似。Wreckロゴ、キャラクター、円盤、ステッカーの文字配置を複製しない独自文字。",
+      "image": "assets/graffiti/black-moon-reality-killing-every-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/black-moon-reality-killing-every-tag-original.png",
+      "concept": "REALITY、(KILLING EVERY...)、BLACK MOONの独自文字。原盤スリーブの黄・黒・赤・白のみ参照、キャラクター・円盤・既存ロゴを複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          123,
+          76,
+          1633,
+          1001
+        ],
+        "outputSha256": "5f4c2974b638bee01dff0ea3a8a4c78b1ed609dd750e960dfe21f5ad98184127",
+        "sourceImage": "assets/graffiti/originals/black-moon-reality-killing-every-tag-original.png",
+        "sourceSha256": "d68d7228e942729950cc95af6193e1f60b8e4bae24249ab4d16dfe7a1054e663"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
