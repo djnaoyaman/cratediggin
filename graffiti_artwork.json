@@ -15531,6 +15531,46 @@
         "sourceImage": "assets/graffiti/originals/slick-rick-behind-bars-dum-ditty-dum-mix-tag-original.png",
         "sourceSha256": "9fcb23c2e61fe785af5983bb1136c50f800d3071ff9ab9565463042127377096"
       }
+    },
+    {
+      "id": "black-moon-how-many-emcees-bushwick-jeep-beats",
+      "title": "How Many Emcee’s (Must Get Dissed) (Bushwick Jeep Beats)",
+      "artist": "Black Moon",
+      "album": "How Many Emcee’s (1993 single)",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#B33122",
+        "#171214",
+        "#C29451",
+        "#254E36",
+        "#EEE4CA"
+      ],
+      "paletteSource": "Enta Da Stage licensed Apple cover, existing downloaded image visually reinspected2026-10-29 12:05UTC. Album reference, not selected single artwork.",
+      "paletteSourceURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/89/47/ef/8947efbe-09d2-80d2-0069-9199d0790dbd/091012493768.jpg/296x296bb.webp",
+      "paletteNote": "実画像の朱赤地、黒、金ベージュ文字、緑の帽子、クリーム白を目視近似。人物・服装・配置・既存ロゴは複製しない。",
+      "image": "assets/graffiti/black-moon-how-many-emcees-bushwick-jeep-beats-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/black-moon-how-many-emcees-bushwick-jeep-beats-tag-original.png",
+      "concept": "How Many Emcee’s / Bushwick Jeep Beats / Black Moon の独自文字。保存済み参照アルバム配色を継承、原ロゴや人物を転載しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          160,
+          63,
+          2121,
+          829
+        ],
+        "outputSha256": "1352efb2004066e3c0f8cdd4a87850e12e50d048cff5ef024c4b0d98de2dfe5f",
+        "sourceImage": "assets/graffiti/originals/black-moon-how-many-emcees-bushwick-jeep-beats-tag-original.png",
+        "sourceSha256": "1c6657f8cf214c7a760be4dd2740d74f74550cbcc8265013ebf63be53dd057e1"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

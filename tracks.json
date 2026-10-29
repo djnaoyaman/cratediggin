@@ -88476,5 +88476,139 @@
       "paletteNote": "実画像のcoldblue/lavendergray/darkgray/whiteと小cyanaccentを編集近似。overlayで原色の厳密採取はしない。サイトcream背景・人物・原ロゴ・写真montageは複製しない。"
     },
     "addedOrder": 678
+  },
+  {
+    "id": "black-moon-how-many-emcees-bushwick-jeep-beats",
+    "title": "How Many Emcee’s (Must Get Dissed) (Bushwick Jeep Beats)",
+    "artist": "Black Moon",
+    "primaryArtist": "Black Moon",
+    "primaryArtists": [
+      "Black Moon"
+    ],
+    "artists": [
+      "Black Moon"
+    ],
+    "album": "How Many Emcee’s (1993 single)",
+    "year": 1993,
+    "yearStatus": "verified",
+    "yearBasis": "既存の原曲1993年とNER20064現物目録の1993/A2 Bushwick Jeep Beatsを照合。原ラベル写真を今回目視したとはしない。",
+    "region": "New York",
+    "regionBasis": "既存記事で確認したXXLの本人参加記事にあるBrooklyn三人組という活動地域を継承。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "How Many Emcees NER20064 — Source Records",
+        "url": "https://www.sourcerecords.jp/product/10110",
+        "kind": "1993年表記のre-press現物目録。A2 Bushwick Jeep BeatsとB面FAP Instrumentalを区別。原ラベル写真未確認"
+      },
+      {
+        "label": "Enta Da Stage Complete Edition — HHV",
+        "url": "https://www.hhv.de/records/artikel/black-moon-enta-da-stage-the-complete-edition-518566",
+        "kind": "2017年版の曲目索引。How Many MCs InstrumentalとDJ Evil Dee Remixが独立収録。原発売年の根拠にはしない"
+      },
+      {
+        "label": "Duck Down Records: All We Got Is Us — XXL",
+        "url": "https://www.xxlmag.com/duck-down-records-all-we-got-is-us-originally-published-julyaugust-2010/",
+        "kind": "Buckshot/Dru Ha本人参加記事。Brooklyn三人組とDru Haのアルバム全般の制作回想。別作品の誤年は採用しない"
+      },
+      {
+        "label": "Bushwick Jeep Beats — Black Moon Topic / Nervous",
+        "url": "https://www.youtube.com/watch?v=zfDLJA5GTgY",
+        "kind": "実表示の正規Nervous配信、A2と一致する版名、3:55。2007編集盤、一般投稿、1996remix、歌入りMVと比較"
+      },
+      {
+        "label": "Enta Da Stage 正規カバー",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/89/47/ef/8947efbe-09d2-80d2-0069-9199d0790dbd/091012493768.jpg/296x296bb.webp",
+        "kind": "Apple実ページの画像を取得し目視。配色のみ参照、人物とロゴは複製しない"
+      }
+    ],
+    "essayTitle": "Jeep Mixの隣に、Jeep Beats。",
+    "deck": "歌入りの既存記事とは別に、12インチのインストゥルメンタルを。",
+    "essay": [
+      "1993年の12インチのA面には「Bushwick Jeep Mix」と「Bushwick Jeep Beats」が並ぶ。今回のリストにあるInst.指定は、後者に対応させた。声の入る曲を選び直すのではなく、同じ曲のビートだけを聴くための一枚として置いておきたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "A面のインストを選ぶ",
+        "text": "原リストのHow Many Emcee’s (Inst.)を、A2のBushwick Jeep Beatsに対応させました。同じ盤のB面にあるFAP InstrumentalはAct Like U Want Itの別曲です。1996年のDJ Evil Dee Remixとも混同していません。既存の歌入り記事はそのまま残します。",
+        "sources": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "title": "同じ曲でも、版名と尺を照合",
+        "text": "選択はNervous提供の公式Topic、版名を明記した3:55。Dah Instrumentalzの2007年編集盤配信3:57、一般投稿3:49、短い3:01、リミックス4:30、歌入りMVを比較しました。原盤との同一マスター、実音声・日本での再生可否は未確認です。",
+        "sources": [
+          3
+        ]
+      },
+      {
+        "title": "アルバムの色を参照する",
+        "text": "配色は原曲収録アルバムEnta Da Stageの正規ジャケットを参照。既存記事で取得した実画像を再確認し、朱赤・黒・金ベージュ・緑・クリームを編集上の近似として使いました。選択したシングルの原ジャケットを新たに確認したものではありません。",
+        "sources": [
+          4
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "既存の歌入りとインストを切り替えて、声がなくなった空間でビートの聞こえ方を比べる。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "KIYO原行のInst.を保持し、1993single A2 Bushwick Jeep Beatsと正規音源の版名を対応。既存vocal/1996remixとは別記事。",
+    "art": {
+      "word": "HOW MANY EMCEES",
+      "tag": "BUSHWICK JEEP BEATS / BLACK MOON",
+      "style": "tag",
+      "seed": 2026102943,
+      "palette": [
+        "#B33122",
+        "#171214",
+        "#C29451",
+        "#254E36",
+        "#EEE4CA"
+      ],
+      "paletteSource": "Enta Da Stage licensed Apple cover, existing downloaded image visually reinspected2026-10-29 12:05UTC. Album reference, not selected single artwork.",
+      "paletteSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/89/47/ef/8947efbe-09d2-80d2-0069-9199d0790dbd/091012493768.jpg/296x296bb.webp",
+      "paletteNote": "実画像の朱赤地、黒、金ベージュ文字、緑の帽子、クリーム白を目視近似。人物・服装・配置・既存ロゴは複製しない。"
+    },
+    "youtube": {
+      "id": "zfDLJA5GTgY",
+      "url": "https://www.youtube.com/watch?v=zfDLJA5GTgY",
+      "embedUrl": "https://www.youtube.com/embed/zfDLJA5GTgY",
+      "title": "How Many Emcee’s (Must Get Dissed) (Bushwick Jeep Beats)",
+      "channel": "Black Moon - Topic",
+      "type": "公式配信 / Bushwick Jeep Beats instrumental",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 235,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示でNervous提供/版名/3:55確認。原single A2版名対応、2007編集盤/1996remix/一般instrumental/歌入りMVを比較。実再生/原master完全一致は未確認。"
+    },
+    "datePublished": "2026-10-29",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 679
   }
 ]
