@@ -89027,5 +89027,138 @@
     ],
     "datePublished": "2026-10-30",
     "addedOrder": 682
+  },
+  {
+    "id": "ozomatli-eva",
+    "title": "Eva",
+    "artist": "Ozomatli",
+    "primaryArtist": "Ozomatli",
+    "primaryArtists": [
+      "Ozomatli"
+    ],
+    "artists": [
+      "Ozomatli"
+    ],
+    "featuredArtists": [],
+    "year": 1998,
+    "yearStatus": "verified",
+    "yearBasis": "バンド公式1998デビュー盤再発紹介がoriginal 1998 audioと明記。再発商品年や動画公開年とは分離し、厳密な初発売日は未記載。",
+    "region": "Los Angeles",
+    "regionBasis": "正規Apple MusicのL.A.-based bandという紹介とバンド公式商品ページのLos Angeles表記。個人の出生地ではなくグループの活動拠点。",
+    "scene": "Los Angeles / Latin Funk",
+    "category": "Latin / Funk / Hip Hop",
+    "album": "Ozomatli",
+    "label": "Almo Sounds",
+    "producer": null,
+    "producers": [],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "sounds": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sources": [
+      {
+        "label": "Ozomatli — 1998 debut album official reissue",
+        "url": "https://ozomatli.com/product.html?handle=ozomatli-1998-debut-album-double-lp-reissue",
+        "kind": "バンド公式の商品索引。原1998音源、曲目、表示尺。本文shellもLos Angelesを確認。"
+      },
+      {
+        "label": "Ozomatli — self-titled album / Apple Music",
+        "url": "https://music.apple.com/us/album/ozomatli/1440794592",
+        "kind": "正規配信の原盤曲目・1998年、L.A.-based bandという紹介。ジャケット実画像は同ページog:imageから取得し目視。"
+      },
+      {
+        "label": "Cut Chemist — official biography",
+        "url": "https://www.cutchemist.com/",
+        "kind": "本人公式プロフィール索引。OzomatliとJurassic 5の創設参加を紹介。曲別制作役割の証拠とは分ける。"
+      },
+      {
+        "label": "Ozomatli — Eva (Official Music Video) / user-selected link",
+        "url": "https://www.youtube.com/watch?v=OHl2NIab4nU",
+        "kind": "利用者指定URLと受信リンクの紹介metadata。公式MVという紹介文は確認、投稿元チャンネル・動画尺・直接ページ本文は未確認。"
+      }
+    ],
+    "noteReviewedAt": "2026-10-29",
+    "listening": [],
+    "art": {
+      "word": "EVA",
+      "tag": "OZOMATLI",
+      "style": "tag",
+      "seed": 2026103002,
+      "palette": [
+        "#087b61",
+        "#154f3a",
+        "#b4c71c",
+        "#d2dc32",
+        "#eeeace",
+        "#172621"
+      ],
+      "paletteSource": "Ozomatli (1998) — official Apple Music cover",
+      "paletteSourceUrl": "https://music.apple.com/us/album/ozomatli/1440794592",
+      "paletteCoverSource": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/84/a8/32/84a832d3-8d25-0b85-f5c4-2fb591a7f00b/00602517344990.rgb.jpg/1200x630wp-60.jpg",
+      "paletteNote": "2026-10-29 23:27に実ジャケットを目視。濃いエメラルド/青緑の枠、黄緑・オリーブ・森林緑、オフホワイトと濃灰の編集近似。ロゴや写真コラージュは複製しない。"
+    },
+    "youtube": {
+      "id": "OHl2NIab4nU",
+      "url": "https://www.youtube.com/watch?v=OHl2NIab4nU",
+      "embedUrl": "https://www.youtube.com/embed/OHl2NIab4nU",
+      "verified": "2026-10-29",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "title": "Ozomatli - Eva (Official Music Video)",
+      "channel": "投稿元未確認",
+      "type": "利用者指定MV / リンク紹介で公式MVと表記",
+      "official": false,
+      "officialStatus": "channel_unverified",
+      "metadataVerified": false,
+      "verification": "利用者が指定したURL。受信リンクmetadataの題名・演者・セルフタイトル盤との対応を照合。直接取得はfetch error。動画尺や投稿元公式性を追加で推測せず、実再生は未検証。"
+    },
+    "essayTitle": "同じデビュー盤の、もう一つの曲へ。",
+    "deck": "「Cut Chemist Suite」と同じ1998年のアルバムから、Ozomatli名義の「Eva」へ。",
+    "essay": [
+      "「Eva」はOzomatliのセルフタイトル作に収められた曲だ。バンド公式の曲目では、「Cut Chemist Suite」と同じ盤の5曲目に置かれている。一人のDJの名前を手がかりに見つけたアルバムを、その一曲だけで閉じずに聴き進める。ここではOzomatliというバンド名を見出しに戻しておきたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ]
+    ],
+    "context": "同じ原アルバムの別曲として、バンド名義を維持する。",
+    "facts": [
+      {
+        "title": "原アルバムの曲目",
+        "text": "公式1998デビュー盤の5曲目。原盤の曲目表示は3:09ですが、掲載したMVの尺としては登録していません。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "指定されたMV",
+        "text": "「Ozomatli - Eva (Official Music Video)」と紹介される指定リンクを掲載しています。投稿元チャンネル、動画の尺、実音声・日本での再生可否、アルバム版との同一マスターは未確認です。",
+        "sources": [
+          3
+        ]
+      },
+      {
+        "title": "曲別クレジット",
+        "text": "本曲のプロデューサーは照合中です。同じアルバムの別曲のクレジットを、この曲へ移して記載していません。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "datePublished": "2026-10-30",
+    "addedOrder": 683
   }
 ]
