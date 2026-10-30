@@ -91012,5 +91012,134 @@
     "noteReviewedAt": "2026-10-30",
     "label": "Stones Throw",
     "addedOrder": 697
+  },
+  {
+    "id": "illa-j-r-u-listenin",
+    "title": "R U Listenin'?",
+    "artist": "Illa J feat. Guilty Simpson",
+    "primaryArtist": "Illa J",
+    "primaryArtists": [
+      "Illa J"
+    ],
+    "artists": [
+      "Illa J",
+      "Guilty Simpson"
+    ],
+    "featuredArtists": [
+      "Guilty Simpson"
+    ],
+    "album": "Yancey Boys",
+    "year": 2008,
+    "yearStatus": "verified",
+    "yearBasis": "発売元の2008年制作・デビュー盤紹介と当時のレーベル投稿記録を照合。ミックス年2012と区別。",
+    "region": "Detroit / Los Angeles",
+    "regionBasis": "本人の発売元紹介でDetroitからLosAngelesへの移動と2008年制作を確認。",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ",
+      "ディギング"
+    ],
+    "sources": [
+      {
+        "label": "Delicious Vinyl — Illa J",
+        "url": "https://deliciousvinyl.com/artists/illa-j/",
+        "kind": "発売元のアーティスト紹介。2008年制作、未使用ビート、当該曲B面と客演・Detroitへの位置づけ。"
+      },
+      {
+        "label": "Delicious Vinyl — Yancey Boys",
+        "url": "https://store.deliciousvinyl.com/products/illa-j-yancey-boys-lp-produced-by-j-dilla",
+        "kind": "発売元公式曲目。R U Listenin? feat.Guilty Simpson、DFTF、J Dilla制作。"
+      },
+      {
+        "label": "DVi — Illa J R U Listenin",
+        "url": "https://www.youtube.com/watch?v=9VUYa49MVLY",
+        "kind": "投稿の検索メタデータで演者・曲・2008年Yancey Boys/Jay Dee制作を照合。動画ページ本文・実尺は未取得。"
+      }
+    ],
+    "essayTitle": "Guilty Simpsonとともに、Detroitを振り返る。",
+    "deck": "兄の残したビートから、Detroitへ声を返す。",
+    "essay": [
+      "Delicious Vinylによれば、Illa JはDetroitからLos Angelesへ移った後、2008年初頭に『Yancey Boys』の制作を始めた。土台になったのは、兄J Dillaが1995〜1998年に残していた未使用のビートだ。",
+      "デビュー・シングルのB面として紹介される「R U Listenin’？」にはGuilty Simpsonが参加。発売元はこの曲を、Illa Jの故郷Detroitへのトリビュートと位置づけている。兄の音を受け継ぐアルバムの中で、出発した街と向き合う一曲でもある。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "facts": [
+      {
+        "title": "2008年のデビュー盤",
+        "text": "『Yancey Boys』はIlla Jのデビュー・アルバム。制作を手がけたJay DeeはJ Dillaの別名義です。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "Guilty Simpsonを迎えて",
+        "text": "発売元の曲目はGuilty Simpsonの客演を明記。アルバムとシングル紹介の双方で同じ組み合わせが確認できます。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "音源の確認状況",
+        "text": "曲名・演者・作品情報を照合した投稿を掲載しています。実再生と日本での再生可否は未確認です。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しません。",
+    "sounds": [],
+    "listening": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "未使用のJ Dillaビートをもとに作られたIlla Jのデビュー盤。Guilty SimpsonとのDetroitへのトリビュートを、発売元の紹介からたどります。",
+    "art": {
+      "word": "R U LISTENIN'?",
+      "tag": "ILLA J / FEAT. GUILTY SIMPSON",
+      "style": "piece",
+      "seed": 20261030705,
+      "palette": [
+        "#070e0b",
+        "#06352e",
+        "#197e75",
+        "#83946d",
+        "#e5e6dd",
+        "#d88422"
+      ],
+      "paletteSource": "Yancey Boys / previously inspected illa-j-dftf official label cover",
+      "paletteNote": "既存DFTFで実見済みの同じ公式商品配色を継承。今回カバーの新規実見なし。",
+      "paletteSourceUrl": "https://store.deliciousvinyl.com/products/illa-j-yancey-boys-lp-produced-by-j-dilla"
+    },
+    "youtube": {
+      "id": "9VUYa49MVLY",
+      "url": "https://www.youtube.com/watch?v=9VUYa49MVLY",
+      "embedUrl": "https://www.youtube.com/embed/9VUYa49MVLY",
+      "title": "Illa J - R U Listenin'",
+      "channel": "DVi (Delicious Vinyl + Delicious Vinyl Island)",
+      "official": false,
+      "type": "レーベル名義投稿・公式性直接確認保留",
+      "metadataVerified": true,
+      "verified": "2026-10-30",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "Indexed DVi title/performer/YanceyBoys/JayDee/2008 metadata agrees direct label song account. Channel-name attribution supportive, current channel ownership not directly read; normal watch fetch failed once. Actual runtime/playback/JP/exactmaster unknown."
+    },
+    "datePublished": "2026-10-30",
+    "noteReviewedAt": "2026-10-30",
+    "label": "Delicious Vinyl",
+    "producer": "J Dilla",
+    "addedOrder": 698
   }
 ]

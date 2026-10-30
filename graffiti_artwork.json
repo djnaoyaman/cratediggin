@@ -16260,6 +16260,46 @@
         "sourceImage": "assets/graffiti/originals/jaylib-survival-test-tag-original.png",
         "sourceSha256": "78cd7d1972d8f3adf6d1b6433e77365daf7ae8b69f755f8aa17bd3e2c6113a97"
       }
+    },
+    {
+      "id": "illa-j-r-u-listenin",
+      "title": "R U Listenin'?",
+      "artist": "Illa J feat. Guilty Simpson",
+      "album": "Yancey Boys",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#070e0b",
+        "#06352e",
+        "#197e75",
+        "#83946d",
+        "#e5e6dd",
+        "#d88422"
+      ],
+      "paletteSource": "Yancey Boys / previously inspected illa-j-dftf official label cover",
+      "paletteNote": "既存DFTFで実見済みの同じ公式商品配色を継承。今回カバーの新規実見なし。",
+      "image": "assets/graffiti/illa-j-r-u-listenin-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/illa-j-r-u-listenin-tag-original.png",
+      "concept": "R U LISTENIN/ILLA J/FEAT.GUILTY SIMPSON独自文字。同盤で以前確認済みの配色を継承し、元ジャケットや人物を模写しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          169,
+          52,
+          2243,
+          684
+        ],
+        "outputSha256": "9286c3b4b400e8b1bdbaeae7bcc54bedd2ea3db9eaf9833f89fe3f664c8cf83d",
+        "sourceImage": "assets/graffiti/originals/illa-j-r-u-listenin-tag-original.png",
+        "sourceSha256": "fa6217aab6dc5358698b47563a99d3f92186fc8e742a9560ef98e3620f540480"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
