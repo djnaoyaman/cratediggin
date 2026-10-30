@@ -16300,6 +16300,44 @@
         "sourceImage": "assets/graffiti/originals/illa-j-r-u-listenin-tag-original.png",
         "sourceSha256": "fa6217aab6dc5358698b47563a99d3f92186fc8e742a9560ef98e3620f540480"
       }
+    },
+    {
+      "id": "westside-gunn-elizabeth",
+      "title": "Elizabeth",
+      "artist": "Westside Gunn",
+      "album": "Supreme Blientele",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#111111",
+        "#cececb",
+        "#eeeeea",
+        "#eb171b"
+      ],
+      "paletteSource": "Supreme Blientele — existing westside-gunn-wrestlemania-20",
+      "paletteNote": "同じDaupe正規盤の曲目で橋渡しし、既存Wrestlemania20で実見済みの黒・銀灰・白・赤の編集上近似配色を継承。今回はカバー新規実見なし。写真やジャケット構図は複製しない。",
+      "image": "assets/graffiti/westside-gunn-elizabeth-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/westside-gunn-elizabeth-tag-original.png",
+      "concept": "ELIZABETH/WESTSIDE GUNN独自文字。同盤で以前確認済みの配色を継承し、元ジャケットや人物を模写しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          173,
+          53,
+          2294,
+          695
+        ],
+        "outputSha256": "b507d106c9e81d8d11dc4974d68ad531254c0e919229d3cf841c5cf012cd2215",
+        "sourceImage": "assets/graffiti/originals/westside-gunn-elizabeth-tag-original.png",
+        "sourceSha256": "4db92a96179026ed9de68060e17945b24b6066261f2a16907ef4ca7984e8eeae"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
