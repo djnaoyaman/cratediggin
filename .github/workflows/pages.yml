@@ -167,8 +167,8 @@ jobs:
         with:
           name: current-song-visual-review
           path: |
-            /tmp/external-audio-lootpack-hityawitdat-390.png
-            /tmp/external-audio-lootpack-hityawitdat-1280.png
+            /tmp/external-audio-common-one-nine-nine-nine-390.png
+            /tmp/external-audio-common-one-nine-nine-nine-1280.png
           if-no-files-found: error
       - name: Save Cut Chemist photo review
         if: always() && steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none'

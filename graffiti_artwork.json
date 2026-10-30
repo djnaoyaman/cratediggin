@@ -15762,6 +15762,44 @@
         "sourceImage": "assets/graffiti/originals/lootpack-hityawitdat-tag-original.png",
         "sourceSha256": "bad2b6a049d3754f38515b1fb922fef5498aee4b078e9fdcb41fb4ce7cae3a8e"
       }
+    },
+    {
+      "id": "common-one-nine-nine-nine",
+      "title": "1-9-9-9",
+      "artist": "Common feat. Sadat X",
+      "album": "One-Nine-Nine-Nine / Like They Used to Say",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#f0c33c",
+        "#c94024",
+        "#38505a",
+        "#d0c6af"
+      ],
+      "paletteSource": "https://www.sourcerecords.jp/product/10580",
+      "paletteNote": "既存common-like-they-used-to-sayの確認済み同盤配色を継承した編集上の近似。今回新規目視とはしない。",
+      "image": "assets/graffiti/common-one-nine-nine-nine-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/common-one-nine-nine-nine-tag-original.png",
+      "concept": "1-9-9-9 / Common feat. Sadat X の独自文字。同一12インチの確認済み黄・朱赤・青灰を継承。原ロゴや人物を転載しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          158,
+          62,
+          2094,
+          816
+        ],
+        "outputSha256": "3012fac8d6f6311f4a80b6996e5e362437e01f006d4381297c0d6e40e02916c5",
+        "sourceImage": "assets/graffiti/originals/common-one-nine-nine-nine-tag-original.png",
+        "sourceSha256": "6d91325364972dfdc7618a2f47f58c86ea9f0afb1b66c981212f06a65dc67344"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
