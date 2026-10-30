@@ -89292,5 +89292,154 @@
     "datePublished": "2026-10-30",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 684
+  },
+  {
+    "id": "common-one-nine-nine-nine",
+    "title": "1-9-9-9",
+    "artist": "Common feat. Sadat X",
+    "primaryArtist": "Common",
+    "primaryArtists": [
+      "Common"
+    ],
+    "artists": [
+      "Common",
+      "Sadat X"
+    ],
+    "album": "One-Nine-Nine-Nine / Like They Used to Say",
+    "year": 1999,
+    "yearStatus": "verified",
+    "yearBasis": "CMJ New Music Report issue600 Dec28 1998 p29 (PDFindex28), exactreview lines4412-4425: CommonfeatSadatX 1-9-9-9 Rawkus12inch announces ReleaseDateJanuary19/AddDateJanuary19. This is advance1998review for followingJanuary1999, corroborated1999Rawkusphonogram/physicalcatalog. Do notclaim exactactualfirstretailday January19 fromscheduleddatealone.",
+    "region": "Chicago",
+    "regionBasis": "既存CommonのChicago活動地域を継承。客演Sadat Xや制作Hi-Tekの地域へ拡張しない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Hi-Tek interview — WHO?MAG",
+        "url": "https://www.whomag.net/hi-tek/",
+        "kind": "本人取材全文。MPC/ターンテーブル/盤から着想、CommonがSadat X参加を希望したと当曲を具体的に回想"
+      },
+      {
+        "label": "1-9-9-9 / Like They Used to Say — Crib Records",
+        "url": "https://www.cribrecords.jp/product/2060",
+        "kind": "1999US原盤目録A1Radio/A2Street/A3HiTekstrumental。Common feat.SadatXと確認"
+      },
+      {
+        "label": "CMJ New Music Report issue600, December28 1998",
+        "url": "https://device.report/m/b82374bed88a4eec8e0ed97869c547172b201dbee4a15e225bd084953ef2b649.pdf",
+        "kind": "同時代誌p29全文、Rawkus12inchの発売予定January19を明記。1998レビューは翌年発売予告、実売初日の証拠ではない"
+      },
+      {
+        "label": "1-9-9-9 music video — UPROXX",
+        "url": "https://www.youtube.com/watch?v=dMIXAYBoGBM",
+        "kind": "実表示4:22、Official Videoという投稿題名と1999SoundbombingII説明を確認。権利元/チャンネル認証は別途未確認"
+      },
+      {
+        "label": "1999 (Street) — Common Topic",
+        "url": "https://www.youtube.com/watch?v=0Zrqua55oDo",
+        "kind": "UMG提供の正規Street4:16、1999Rawkus。MV/withIntro5:30と比較"
+      },
+      {
+        "label": "One-Nine-Nine-Nine single — Source Records",
+        "url": "https://www.sourcerecords.jp/product/10580",
+        "kind": "既存Like They Used to Sayで実確認済み同盤配色の参照先。今回新たに画像閲覧はしていない"
+      }
+    ],
+    "essayTitle": "家具のない部屋から、新しい千年へ。",
+    "deck": "CommonとSadat Xが加わる前、Hi-Tekには曲のコンセプトがあった。",
+    "essay": [
+      "Hi-Tekは、家具のない一部屋にMPC、ターンテーブル、レコードを置いていた頃を振り返っている。そこで新しい千年を意識して作ったのが「1-9-9-9」のコンセプトだった。ビートを気に入ったCommonがSadat Xの参加を望み、SadatがHi-Tekをニューヨークへ呼んだという。曲名の数字に、作り手の生活と、これから来る時間が重なる。"
+    ],
+    "essaySources": [
+      [
+        0
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1998年の記事が予告した1999年",
+        "text": "1998年12月28日付CMJの紹介には、Rawkusの12インチの発売予定をJanuary 19と記載。翌1999年の予告であり、1998年発売の証拠とはしません。1999原盤目録と正規Rawkus配信年も照合しました。予定日を実際の最初の店頭発売日とまでは断定していません。",
+        "sources": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "title": "歌入りとインストを分ける",
+        "text": "今回の原行はHI-TEK TRADEMARKSOUND SERIES VOL.3のCommon & Sadat X。Chillリストにあるインスト指定は別行として残します。原盤のCommon feat. Sadat Xを採用し、映像タイトルのTalib KweliやHi-Tekを客演ラッパーとして機械的に登録しません。Hi-Tekは当曲制作の本人証言に基づく制作名義です。",
+        "sources": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "title": "正規Street版を選ぶ",
+        "text": "選択はUMG提供のCommon Topic、1999 (Street) 4:16。UPROXX掲載の4:22のMV、一般withIntro5:30も比較しました。MVは題名にOfficial Videoとありますが権利元認証を確認できていないため、正規音源を優先し映像は参考リンクに残します。MVのRadio/Street区分、尺差の理由、同一マスター、実音声・日本での再生可否は未確認です。",
+        "sources": [
+          3,
+          4
+        ]
+      },
+      {
+        "title": "同じ両面盤の配色",
+        "text": "既存Like They Used to Sayで目視確認した同じ12インチの黄・朱赤・青灰・淡いベージュを継承。今回新たに原盤画像を見たとはしていません。",
+        "sources": [
+          5
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "制作時の新千年というコンセプトを頭に置き、CommonとSadat Xの声を追う。"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "Hi-Tekが制作し、Sadat Xを迎えたCommonの1999年シングル。ここでは歌入りのStreet版を紹介しています。",
+    "art": {
+      "word": "1-9-9-9",
+      "tag": "COMMON feat. SADAT X",
+      "style": "blockbuster",
+      "seed": 2026102947,
+      "palette": [
+        "#f0c33c",
+        "#c94024",
+        "#38505a",
+        "#d0c6af"
+      ],
+      "paletteSource": "https://www.sourcerecords.jp/product/10580",
+      "paletteNote": "既存common-like-they-used-to-sayの確認済み同盤配色を継承した編集上の近似。今回新規目視とはしない。"
+    },
+    "youtube": {
+      "id": "0Zrqua55oDo",
+      "url": "https://www.youtube.com/watch?v=0Zrqua55oDo",
+      "embedUrl": "https://www.youtube.com/embed/0Zrqua55oDo",
+      "title": "1999 (Street)",
+      "channel": "Common - Topic",
+      "type": "公式配信 / Street version",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 256,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示のUMG提供/1999Rawkus/Street4:16を確認。UPROXXMV4:22はOfficialVideo題名のみ権利元認証未確認のため正規音源を優先。一般withIntro5:30比較。実音声/原master一致未確認。"
+    },
+    "datePublished": "2026-10-30",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [
+      "Sadat X"
+    ],
+    "producer": "Hi-Tek",
+    "addedOrder": 685
   }
 ]
