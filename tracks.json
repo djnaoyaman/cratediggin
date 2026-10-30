@@ -90231,5 +90231,150 @@
     ],
     "producer": "Hi-Tek",
     "addedOrder": 691
+  },
+  {
+    "title": "Dangerous (Instrumental)",
+    "artist": "Bas Blasta",
+    "year": 1994,
+    "region": "Connecticut",
+    "essayTitle": "シルエットが重なった、1994年のシングル。",
+    "essay": [
+      "1995年1月のBillboardは、コネチカット州ウォーターベリーのBas Blastaを取材している。記事が振り返るのは、前年11月に送り出された「Dangerous」。ここでは、そのシングルに用意されたインストゥルメンタルを選んだ。",
+      "同誌でRCAの担当者が語ったのは、映像とジャケットの思いがけない一致だった。Almighty RSOのRaydogが監督した映像にシルエットが使われ、別に進んでいたアートワーク案とも重なったという。録音の舞台裏ではなく、一枚のシングルを外へ届けるときの話だ。"
+    ],
+    "id": "bas-blasta-dangerous-instrumental",
+    "primaryArtist": "Bas Blasta",
+    "primaryArtists": [
+      "Bas Blasta"
+    ],
+    "artists": [
+      "Bas Blasta"
+    ],
+    "album": "Dangerous",
+    "yearStatus": "verified",
+    "yearBasis": "Billboard Jan28 1995 contemporary retrospective says single droppedNov15, hence1994; corroborated1994RCA catalog and licensedEP. AppleOct10 conflicts exactday; yearonly.",
+    "regionBasis": "Billboard Jan28 1995 contemporary interview explicitly Waterbury Connecticut; no Norwalk/Hartford inference.",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Billboard — January 28, 1995 / Havelock Nelson",
+        "url": "https://manuals.plus/m/f3ebc8d90f75f491e77ac148e2733e54e711fc1bfb624b3b28a15cff5914a2ff",
+        "kind": "同時代取材全文。Waterbury Connecticut、前年Dangerous発売と映像/アート制作の関係者証言"
+      },
+      {
+        "label": "Dangerous — Groovenut Records",
+        "url": "https://www.groovenutrecords.net/products/detail/5034",
+        "kind": "原盤目録索引。1994 RCA RDAB62987-1 A3 Instrumental。原ラベル未目視"
+      },
+      {
+        "label": "Dangerous — The Good Ol’ Dayz",
+        "url": "https://www.thegoodoldayz.com/album/dangerous-27063/27063.html",
+        "kind": "CD原盤目録索引の4:10。ラベル現物未目視"
+      },
+      {
+        "label": "Dangerous (Instrumental) — Bas Blasta / Topic",
+        "url": "https://www.youtube.com/watch?v=XrebAysOAQQ",
+        "kind": "実検索画面で題名・演者・4:11・The Orchard Enterprises提供を確認。実再生未確認"
+      },
+      {
+        "label": "Dangerous — Apple Music",
+        "url": "https://music.apple.com/us/album/dangerous/450088316",
+        "kind": "現行正規5曲EP本文とカバー画像実見。原盤実物スリーブの新規認証ではない"
+      }
+    ],
+    "deck": "映像とジャケットの偶然をたどり、A3のビートへ。",
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        0
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1994年のシングルにあるインスト",
+        "text": "原盤目録ではRCA RDAB62987-1のA3がInstrumental。発売日の資料差があるため初出は1994年のみとし、日付は断定しない。現物ラベル自体は未視認。",
+        "sources": [
+          0,
+          1,
+          4
+        ]
+      },
+      {
+        "title": "選択している音源",
+        "text": "Bas Blasta - Topicの正規配信「Dangerous (Instrumental)」4:11を選択。CD目録の4:10とは1秒差があり、同一マスターとは断定しない。サイト内・日本での実再生可否は未確認。",
+        "sources": [
+          2,
+          3
+        ]
+      },
+      {
+        "title": "客演と制作の範囲",
+        "text": "別B面「The Rhythm」の客演を、このインストの歌唱参加として登録しない。シルエットの逸話はシングルの映像・宣伝制作についての証言で、インスト録音の意図を示すものではない。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "現行EPから拾った色",
+        "text": "正規配信EPの実画像にある黒・深緑・青紫・くすんだ金色を、オリジナル文字作品の配色へ置き換えています。配色は目視による近似で、原盤スリーブの図柄や人物は転載していません。",
+        "sources": [
+          4
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "歌入りとは別のA3を、ビートに焦点を合わせて聴く。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "1994年のシングル「Dangerous」に用意されたインストゥルメンタル。翌年のBillboard取材が伝える、楽曲を届けるための映像とジャケットの話にも目を向けます。",
+    "art": {
+      "word": "DANGEROUS (INSTRUMENTAL)",
+      "tag": "BAS BLASTA",
+      "style": "blockbuster",
+      "seed": 2026102959,
+      "palette": [
+        "#080806",
+        "#28551D",
+        "#24213B",
+        "#8C853D"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/dangerous/450088316",
+      "paletteNote": "現行正規EPカバーを2026-10-29実見、深緑/青紫/olivegoldと黒を編集上近似。外周Appleカードの灰色は除外。"
+    },
+    "youtube": {
+      "id": "XrebAysOAQQ",
+      "url": "https://www.youtube.com/watch?v=XrebAysOAQQ",
+      "embedUrl": "https://www.youtube.com/embed/XrebAysOAQQ",
+      "title": "Dangerous (Instrumental)",
+      "channel": "Bas Blasta - Topic",
+      "type": "公式配信 / Instrumental",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 251,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "Actualsearch title/performer/Instrumental4:11/Orchardprovider. General4:08/4:07alternatives compared; licensedexactversion preferred. Notaudiblechecked."
+    },
+    "datePublished": "2026-10-30",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 692
   }
 ]

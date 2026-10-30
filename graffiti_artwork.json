@@ -16029,6 +16029,44 @@
         "sourceImage": "assets/graffiti/originals/black-star-respiration-tag-original.png",
         "sourceSha256": "58ef3f9fe241d39ceb03934b65f725be215a68713c9fb6ab7c4a2eeaedd47088"
       }
+    },
+    {
+      "id": "bas-blasta-dangerous-instrumental",
+      "title": "Dangerous (Instrumental)",
+      "artist": "Bas Blasta",
+      "album": "Dangerous",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#080806",
+        "#28551D",
+        "#24213B",
+        "#8C853D"
+      ],
+      "paletteSource": "https://music.apple.com/us/album/dangerous/450088316",
+      "paletteNote": "現行正規EPカバーを2026-10-29実見、深緑/青紫/olivegoldと黒を編集上近似。外周Appleカードの灰色は除外。",
+      "image": "assets/graffiti/bas-blasta-dangerous-instrumental-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/bas-blasta-dangerous-instrumental-tag-original.png",
+      "concept": "Dangerous / Instrumental / Bas Blasta の独自文字。正規配信EPの確認済み配色を参考に原ジャケットや人物を複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          142,
+          60,
+          1882,
+          786
+        ],
+        "outputSha256": "a759e5731083223f6f9f86ac74f1f39d4e3f7a32ce0b57906b193971b257b30c",
+        "sourceImage": "assets/graffiti/originals/bas-blasta-dangerous-instrumental-tag-original.png",
+        "sourceSha256": "acc232f4442c32790abfa79698cfe326ab133f01300501f8ca2f6ca1367a0d86"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
