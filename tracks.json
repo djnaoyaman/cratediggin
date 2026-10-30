@@ -90098,5 +90098,138 @@
     "datePublished": "2026-10-30",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 690
+  },
+  {
+    "id": "black-star-respiration",
+    "title": "Respiration",
+    "artist": "Black Star feat. Common",
+    "primaryArtist": "Black Star",
+    "primaryArtists": [
+      "Black Star"
+    ],
+    "artists": [
+      "Black Star",
+      "Common"
+    ],
+    "album": "Mos Def & Talib Kweli Are Black Star",
+    "year": 1998,
+    "yearStatus": "verified",
+    "yearBasis": "正規Qobuz原作1998-09-29/曲11の℗1998表記を確認。1999singleinstrumentalと2002digitaleditionは分離。",
+    "region": "New York",
+    "regionBasis": "既存Black Starの検証済み活動地域を継承。制作場所/個人出生地と同一扱いしない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Black Star — Qobuz",
+        "url": "https://www.qobuz.com/us-en/album/black-star-mos-def-talib-kweli/0000881128972",
+        "kind": "全文確認の正規1998-09-29Rawkus、曲11Respiration6:04、Common客演/Hi-Tek制作。footer2002配信別"
+      },
+      {
+        "label": "B-Boys Will B-Boys: An Oral History of Black Star — POW",
+        "url": "https://www.powmag.net/p/b-boys-will-b-boys-an-oral-history-of-black-star",
+        "kind": "本人オーラルヒストリー全文。Kweliの当曲ビート選び/ChicagoでのHi-Tekとの変更過程の証言を確認。K.O.S.話と分離"
+      },
+      {
+        "label": "Respiration ft.Common — BlackStarVEVO",
+        "url": "https://www.youtube.com/watch?v=eeTnog5RRQo",
+        "kind": "実表示で認証済BlackStarVEVO、OfficialMusicVideo4:38、Common表記。原アルバム6:04と尺差を保持"
+      },
+      {
+        "label": "Mos Def & Talib Kweli Are Black Star licensed cover",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7d/9d/b4/7d9db404-4032-4ed2-f5d8-8055bc637806/00008811289720.rgb.jpg/296x296bf.webp",
+        "kind": "K.O.S.記事で取得した実カバー画像を2026-10-29 13:06に再目視。アルバム配色参照、single原ジャケとは分離"
+      }
+    ],
+    "essayTitle": "最初にあったビートは、別の曲になった。",
+    "deck": "Commonとの一曲は、当初の案から作り替えられていた。",
+    "essay": [
+      "Talib Kweliの回想では、Commonに最初に提示したのは、のちに別の曲「Sharpshooters」で使われるビートだった。「Respiration」はそのまま進んだわけではない。シカゴでHi-Tekと案を練り直し、変更を受け入れる過程を経て、最終的な曲へ向かったという。"
+    ],
+    "essaySources": [
+      [
+        1
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1998年の歌入り原曲",
+        "text": "原リストはHI-TEK TRADEMARKSOUND SERIES VOL.3のRespiration feat.Common。正規1998年アルバムの曲11にあるCommon客演・Hi-Tek制作を確認しました。ILLのInstrumental原行、1999年のシングル版、Pete RockのFlying High Remixとは別に扱います。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "公式MVを選択",
+        "text": "選択はBlackStarVEVOの公式MV4:38。正規アルバム音源の6:04より短いため、無編集のアルバム全長とは呼びません。具体的な編集箇所、実音声・日本での再生可否、マスターの完全一致は未確認です。原ミックス内尺3:30は記録に残し、動画全長に書き換えません。",
+        "sources": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "原曲の制作証言と配色",
+        "text": "本文はKweli本人によるこの曲のビート選びの回想です。ほかの収録曲の制作話を転用していません。アートは既存K.O.S.で保存した正規アルバムカバーを13:06に再目視し、朱赤・金黄・深緑・クリーム・暗茶から新たに構成。肖像や星、既存ロゴは使いません。",
+        "sources": [
+          1,
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "最初の案から変わったビートと、Commonを含む三人の声の関係を意識して聴く。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "Hi-Tekが制作し、Commonを迎えたBlack Starの1998年作品。Talib Kweliの曲作りの回想とともに、アルバム音源より短い公式ミュージックビデオを紹介しています。",
+    "art": {
+      "word": "RESPIRATION",
+      "tag": "BLACK STAR feat. COMMON",
+      "style": "tag",
+      "seed": 2026102953,
+      "palette": [
+        "#D93218",
+        "#D7A72A",
+        "#155F37",
+        "#F4E6B9",
+        "#29190F"
+      ],
+      "paletteSource": "Mos Def & Talib Kweli Are Black Star licensed Apple cover from prior K.O.S. file, visually reinspected2026-10-29 13:06UTC; album not single artwork.",
+      "paletteSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7d/9d/b4/7d9db404-4032-4ed2-f5d8-8055bc637806/00008811289720.rgb.jpg/296x296bf.webp",
+      "paletteNote": "実画像の朱赤、金黄、深緑、クリーム、暗茶を目視近似した独自文字。肖像、星、装飾枠、既存ロゴや書体は複製しない。"
+    },
+    "youtube": {
+      "id": "eeTnog5RRQo",
+      "url": "https://www.youtube.com/watch?v=eeTnog5RRQo",
+      "embedUrl": "https://www.youtube.com/embed/eeTnog5RRQo",
+      "title": "Black Star - Respiration ft. Common",
+      "channel": "BlackStarVEVO",
+      "type": "公式ミュージックビデオ",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 278,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "認証済BlackStarVEVO実表示/OfficialMusicVideo/Common/4:38確認。正規1998album6:04との差を保持、具体edit/master/実再生は未確認。"
+    },
+    "datePublished": "2026-10-30",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [
+      "Common"
+    ],
+    "producer": "Hi-Tek",
+    "addedOrder": 691
   }
 ]
