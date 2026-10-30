@@ -90511,5 +90511,130 @@
     "datePublished": "2026-10-30",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 693
+  },
+  {
+    "id": "madlib-montara",
+    "title": "Montara",
+    "artist": "Madlib",
+    "primaryArtist": "Madlib",
+    "primaryArtists": [
+      "Madlib"
+    ],
+    "artists": [
+      "Madlib"
+    ],
+    "featuredArtists": [],
+    "producer": "Madlib",
+    "album": "Shades of Blue",
+    "year": 2003,
+    "yearStatus": "verified",
+    "yearBasis": "Blue Note official album description identifies original2003; selectedUMGmetadata2003Capitol/released2003-06-24. ModernClassicVinylreissue notoriginalyear.",
+    "region": "California",
+    "regionBasis": "DirectBlueNoteartistbiography identifiesOxnardhometown; origin context, notclaimLosAngelesrecordinglocation.",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ",
+      "ディギング"
+    ],
+    "sources": [
+      {
+        "label": "Shades of Blue — Blue Note公式",
+        "url": "https://store.bluenote.com/products/madlib-shades-of-blue-2lp-blue-note-classic-vinyl-series",
+        "kind": "レーベル公式。原2003年、同盤曲目、Classic Vinyl再発の説明。"
+      },
+      {
+        "label": "Madlib — Blue Note公式プロフィール",
+        "url": "https://www.bluenote.com/artist/madlib/",
+        "kind": "レーベル公式プロフィール。Oxnardの来歴とプロデューサー/DJとしての紹介。"
+      },
+      {
+        "label": "Montara — Madlib Invazion公式配信",
+        "url": "https://www.youtube.com/watch?v=P3zV0Ug4GCQ",
+        "kind": "Madlib Invazion公式チャンネル、UMG提供の2003 Capitol音源。"
+      },
+      {
+        "label": "Shades of Blue — Universal Music Italia 曲別クレジット",
+        "url": "https://www.universalmusic.it/musica-jazz/album/shades-of-blue_36082603934/",
+        "kind": "正規配信の曲別クレジット。アーティスト、ターンテーブル、リミックス、作曲を個別記載。"
+      }
+    ],
+    "essayTitle": "クレジットに残る、ターンテーブル。",
+    "deck": "Slim’s Returnの先で、Madlibの「Montara」へ。",
+    "essay": [
+      "「Montara」のクレジットを開くと、作曲のBobby Hutcherson、リミックスのMadlib、その横にターンテーブリストのDJ Lord Suchという三つの役割が見える。『Shades of Blue』を辿るとき、曲名だけでなく、誰がどの場所で音に触れたかへ目を向ける。そのための小さな手掛かりが、この一行に残っている。"
+    ],
+    "essaySources": [
+      [
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "2003年の作品、現在の再発盤",
+        "text": "『Shades of Blue』は2003年の作品。Blue NoteのClassic VinylシリーズではKevin Grayによる新リマスター盤が用意されています。「Slim’s Return」と「Montara」はともにこのアルバムの収録曲です。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "作曲・リミックス・ターンテーブル",
+        "text": "曲別クレジットは、アーティスト/リミキサーがMadlib、ターンテーブリストがDJ Lord Such、作曲者がBobby Hutcherson。",
+        "sources": [
+          3
+        ]
+      },
+      {
+        "title": "音源の確認状況",
+        "text": "正規提供音源を掲載しています。実再生と日本での再生可否は未確認です。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "作曲者クレジットと、使用録音・箇所の特定は分けて扱い、未確認サンプルは登録していません。",
+    "sounds": [],
+    "listening": [
+      "同じアルバムのSlim’s Returnと続けて聴き、二曲の組み立てを比べる。"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "Oxnardにルーツを持つMadlibの2003年作『Shades of Blue』から、Montara。同盤の曲目と正規配信の制作表記を手掛かりに紹介します。",
+    "art": {
+      "word": "MONTARA",
+      "tag": "MADLIB",
+      "style": "piece",
+      "seed": 20261030701,
+      "palette": [
+        "#234c74",
+        "#7ba3bd",
+        "#b7c8ce",
+        "#dcd7bb"
+      ],
+      "paletteSource": "Shades of Blue / existing madlib-slims-return",
+      "paletteNote": "既存同盤のpaletteReviewed配色を継承した編集上近似。Blue Note本文で同盤関係確認、今回カバー新規実見なし。"
+    },
+    "youtube": {
+      "id": "P3zV0Ug4GCQ",
+      "url": "https://www.youtube.com/watch?v=P3zV0Ug4GCQ",
+      "embedUrl": "https://www.youtube.com/embed/P3zV0Ug4GCQ",
+      "title": "Montara",
+      "channel": "Madlib Invazion",
+      "official": true,
+      "type": "公式音源",
+      "metadataVerified": true,
+      "verified": "2026-10-30",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "IndexedOAC/UMGprovidedmetadata titleMadlib/album2003 matched; BobbyHutchersonoriginal notsubstituted. Directwatchfetchfailed not retried; runtime/playbackunverified."
+    },
+    "datePublished": "2026-10-30",
+    "noteReviewedAt": "2026-10-30",
+    "addedOrder": 694
   }
 ]
