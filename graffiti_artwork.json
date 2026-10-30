@@ -16338,6 +16338,46 @@
         "sourceImage": "assets/graffiti/originals/westside-gunn-elizabeth-tag-original.png",
         "sourceSha256": "4db92a96179026ed9de68060e17945b24b6066261f2a16907ef4ca7984e8eeae"
       }
+    },
+    {
+      "id": "illa-j-sounds-like-love",
+      "title": "Sounds Like Love",
+      "artist": "Illa J feat. Debi Nova",
+      "album": "Yancey Boys",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#070e0b",
+        "#06352e",
+        "#197e75",
+        "#83946d",
+        "#e5e6dd",
+        "#d88422"
+      ],
+      "paletteSource": "Yancey Boys / previously inspected illa-j-dftf official label cover",
+      "paletteNote": "既存DFTFで実見済みの同じ公式商品配色を継承。今回カバーの新規実見なし。",
+      "image": "assets/graffiti/illa-j-sounds-like-love-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/illa-j-sounds-like-love-tag-original.png",
+      "concept": "SOUNDS LIKE LOVE/ILLA J/FEAT. DEBI NOVA独自文字。同盤で以前確認済みの配色を継承し、元ジャケットや人物を模写しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          123,
+          72,
+          1622,
+          947
+        ],
+        "outputSha256": "20316c646fada28b8ab971972404b5bdcc6224b049b8c5ebc135fad64297b023",
+        "sourceImage": "assets/graffiti/originals/illa-j-sounds-like-love-tag-original.png",
+        "sourceSha256": "dc4bbe2dfa921622790eaa0f0d44fb562d64073414b0fed445eda80c638e678a"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

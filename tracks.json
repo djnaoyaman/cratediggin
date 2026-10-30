@@ -91263,5 +91263,149 @@
     "datePublished": "2026-10-30",
     "noteReviewedAt": "2026-10-30",
     "addedOrder": 699
+  },
+  {
+    "id": "illa-j-sounds-like-love",
+    "title": "Sounds Like Love",
+    "artist": "Illa J feat. Debi Nova",
+    "primaryArtist": "Illa J",
+    "primaryArtists": [
+      "Illa J"
+    ],
+    "artists": [
+      "Illa J",
+      "Debi Nova"
+    ],
+    "featuredArtists": [
+      "Debi Nova"
+    ],
+    "album": "Yancey Boys",
+    "year": 2008,
+    "yearStatus": "verified",
+    "yearBasis": "発売元が2008年制作のYancey Boysに当該曲を掲載。2009年のシングルと映像紹介を区別。",
+    "region": "Detroit / Los Angeles",
+    "regionBasis": "本人の発売元紹介でDetroitからLosAngelesへの移動と2008年制作を確認。",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ",
+      "ディギング"
+    ],
+    "sources": [
+      {
+        "label": "Delicious Vinyl — Illa J",
+        "url": "https://deliciousvinyl.com/artists/illa-j/",
+        "kind": "発売元のアーティスト紹介。2008年制作、未使用ビート、当該曲B面と客演・Detroitへの位置づけ。"
+      },
+      {
+        "label": "Delicious Vinyl — Yancey Boys",
+        "url": "https://store.deliciousvinyl.com/products/illa-j-yancey-boys-lp-produced-by-j-dilla",
+        "kind": "発売元公式曲目のtrack11。Sounds Like Love feat.Debi NovaとJ Dilla制作を確認。"
+      },
+      {
+        "label": "OYE Records — Sounds Like Love",
+        "url": "https://www.oye-records.com/releases/illa-j-sounds-like-love",
+        "kind": "販売店掲載のレーベル広報文を検索本文で確認。2009年シングル、MV制作、別リミックスを区分。"
+      },
+      {
+        "label": "Earmilk — Illa J",
+        "url": "https://earmilk.com/2009/06/24/illa-j/",
+        "kind": "2009年6月24日の同時代紹介。検索本文に掲載された同曲・客演と映像IDを照合。"
+      },
+      {
+        "label": "Sony Music — Latin Sabor",
+        "url": "https://www.sonymusic.com/sonymusic-labels/sony-music-latin-sabor-mini-series/",
+        "kind": "Debi Novaをシンガー・ソングライターとして紹介する公式記事。"
+      }
+    ],
+    "essayTitle": "Debi Novaを迎えた一曲が、映像へ。",
+    "deck": "Yancey Boysの一曲を、Debi Novaとの共演から。",
+    "essay": [
+      "「Sounds Like Love」は、Illa Jのデビュー盤『Yancey Boys』にDebi Novaを迎えた一曲。アルバムの土台には、兄J Dillaが1995〜1998年に残した未使用のビートがある。Illa JがLos Angelesへ移った後、2008年に形にした作品だ。",
+      "翌2009年には、この曲のミュージックビデオも紹介された。販売店OYEが掲載した広報文によると、監督はDina Juntila。Whitley Heights Aquatic Clubを舞台に、人魚役のBrenda-Liも登場する。アルバムの一曲に、水辺の物語が添えられている。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "2008年のアルバムと2009年のシングル",
+        "text": "原アルバムはYancey Boys。2009年のシングルDV9052には別リミックスも収められていますが、ここでは標準曲名で紹介されたMVを選んでいます。",
+        "sources": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "title": "Debi Novaを迎えて",
+        "text": "発売元の曲目は客演をDebi Novaと表記。Sony Musicは彼女をシンガー・ソングライターとして紹介しています。",
+        "sources": [
+          1,
+          4
+        ]
+      },
+      {
+        "title": "映像の確認状況",
+        "text": "当時の記事が案内した同曲MVを掲載しています。現在の投稿者の公式性、実再生と日本での再生可否は未確認です。",
+        "sources": [
+          2,
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しません。",
+    "sounds": [],
+    "listening": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "J Dillaの未使用ビートを土台にしたYancey Boysから、Debi Novaを迎えた一曲。翌年に紹介されたMVの制作背景もたどります。",
+    "art": {
+      "word": "SOUNDS LIKE LOVE",
+      "tag": "ILLA J / FEAT. DEBI NOVA",
+      "style": "piece",
+      "seed": 20261030707,
+      "palette": [
+        "#070e0b",
+        "#06352e",
+        "#197e75",
+        "#83946d",
+        "#e5e6dd",
+        "#d88422"
+      ],
+      "paletteSource": "Yancey Boys / previously inspected illa-j-dftf official label cover",
+      "paletteNote": "既存DFTFで実見済みの同じ公式商品配色を継承。今回カバーの新規実見なし。",
+      "paletteSourceUrl": "https://store.deliciousvinyl.com/products/illa-j-yancey-boys-lp-produced-by-j-dilla"
+    },
+    "youtube": {
+      "id": "M8qTg-RXpn4",
+      "url": "https://www.youtube.com/watch?v=M8qTg-RXpn4",
+      "embedUrl": "https://www.youtube.com/embed/M8qTg-RXpn4",
+      "title": "Illa J - Sounds Like Love feat. Debi Nova",
+      "channel": "投稿者未確認",
+      "official": false,
+      "type": "当時の同曲紹介記事が案内したMV・投稿元未確認",
+      "metadataVerified": true,
+      "verified": "2026-10-30",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "Exact video ID linked by contemporaneous Earmilk2009 and retail label-promotion text OYE; title/performer/guest/album agree official DV track11. MetadataVerified refers to these linked work identifiers, not direct current video metadata. First watch Error fetching, no retry. Current uploader, runtime, playback, JP and master identity unknown. Alternate official-provider query empty; Nobody/Carlos Nino/Miguel Atwood-Ferguson remixes excluded."
+    },
+    "datePublished": "2026-10-30",
+    "noteReviewedAt": "2026-10-30",
+    "label": "Delicious Vinyl",
+    "producer": "J Dilla",
+    "addedOrder": 700
   }
 ]
