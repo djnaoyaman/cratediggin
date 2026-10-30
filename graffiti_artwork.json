@@ -15725,6 +15725,43 @@
         "sourceImage": "assets/graffiti/originals/ozomatli-eva-tag-original.png",
         "sourceSha256": "52b4a86ec39819f5ed8401b87c858d56cab38595b0a3c8f1a884670504b406e1"
       }
+    },
+    {
+      "id": "lootpack-hityawitdat",
+      "title": "Hityawitdat",
+      "artist": "Lootpack",
+      "album": "Soundpieces: Da Antidote!",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#2455a0",
+        "#d82d2a",
+        "#e9be35"
+      ],
+      "paletteSource": "Soundpieces: Da Antidote! inherited from lootpack-whenimondamic, prior visual confirmation2026-10-17, not new image inspection.",
+      "paletteNote": "同アルバムの確認済み青・赤・黄を編集近似として継承。既存ロゴや人物/構図は複製しない。",
+      "image": "assets/graffiti/lootpack-hityawitdat-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/lootpack-hityawitdat-tag-original.png",
+      "concept": "Hityawitdat / Lootpack の独自文字。確認済み同アルバム配色を継承、赤を主軸に再構成。原ロゴや人物を転載しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          172,
+          55,
+          2283,
+          722
+        ],
+        "outputSha256": "822d3ae65b2abe5e26b8d4338a5e85d673717c02c165bced14d71a7a237a218d",
+        "sourceImage": "assets/graffiti/originals/lootpack-hityawitdat-tag-original.png",
+        "sourceSha256": "bad2b6a049d3754f38515b1fb922fef5498aee4b078e9fdcb41fb4ce7cae3a8e"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
