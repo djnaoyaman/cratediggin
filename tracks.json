@@ -88887,5 +88887,145 @@
       "MED"
     ],
     "addedOrder": 681
+  },
+  {
+    "id": "ozomatli-cut-chemist-suite",
+    "title": "Cut Chemist Suite",
+    "artist": "Ozomatli",
+    "primaryArtist": "Ozomatli",
+    "primaryArtists": [
+      "Ozomatli"
+    ],
+    "artists": [
+      "Ozomatli"
+    ],
+    "featuredArtists": [],
+    "year": 1998,
+    "yearStatus": "verified",
+    "yearBasis": "バンド公式1998デビュー盤再発紹介がoriginal 1998 audioと明記。再発商品年や動画公開年とは分離し、厳密な初発売日は未記載。",
+    "region": "Los Angeles",
+    "regionBasis": "正規Apple MusicのL.A.-based bandという紹介とバンド公式商品ページのLos Angeles表記。個人の出生地ではなくグループの活動拠点。",
+    "scene": "Los Angeles / Latin Funk",
+    "category": "Latin / Funk / Hip Hop",
+    "album": "Ozomatli",
+    "label": "Almo Sounds",
+    "producer": "T-Ray / Ozomatli",
+    "producers": [
+      "T-Ray",
+      "Ozomatli"
+    ],
+    "moods": [
+      "ディギング"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "sounds": [],
+    "samples": [],
+    "sampleStatus": "未確認のサンプルは記載していません。",
+    "sources": [
+      {
+        "label": "Ozomatli — 1998 debut album official reissue",
+        "url": "https://ozomatli.com/product.html?handle=ozomatli-1998-debut-album-double-lp-reissue",
+        "kind": "バンド公式の商品索引。原1998音源、曲目、表示尺。本文shellもLos Angelesを確認。"
+      },
+      {
+        "label": "Ozomatli — self-titled album / Apple Music",
+        "url": "https://music.apple.com/us/album/ozomatli/1440794592",
+        "kind": "正規配信の原盤曲目・1998年、L.A.-based bandという紹介。ジャケット実画像は同ページog:imageから取得し目視。"
+      },
+      {
+        "label": "Cut Chemist — official biography",
+        "url": "https://www.cutchemist.com/",
+        "kind": "本人公式プロフィール索引。OzomatliとJurassic 5の創設参加を紹介。曲別制作役割の証拠とは分ける。"
+      },
+      {
+        "label": "Cut Chemist Suite — Ozomatli / Universal Music Group",
+        "url": "https://www.youtube.com/watch?v=wYxOS26Y-KY",
+        "kind": "公式音源の検索索引。1998 Almo Sounds、Ozomatli収録、Producer T-Ray/Ozomatli。直接実再生は未検証。"
+      }
+    ],
+    "noteReviewedAt": "2026-10-29",
+    "listening": [],
+    "art": {
+      "word": "CUT CHEMIST SUITE",
+      "tag": "OZOMATLI",
+      "style": "tag",
+      "seed": 2026103001,
+      "palette": [
+        "#087b61",
+        "#154f3a",
+        "#b4c71c",
+        "#d2dc32",
+        "#eeeace",
+        "#172621"
+      ],
+      "paletteSource": "Ozomatli (1998) — official Apple Music cover",
+      "paletteSourceUrl": "https://music.apple.com/us/album/ozomatli/1440794592",
+      "paletteCoverSource": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/84/a8/32/84a832d3-8d25-0b85-f5c4-2fb591a7f00b/00602517344990.rgb.jpg/1200x630wp-60.jpg",
+      "paletteNote": "2026-10-29 23:27に実ジャケットを目視。濃いエメラルド/青緑の枠、黄緑・オリーブ・森林緑、オフホワイトと濃灰の編集近似。ロゴや写真コラージュは複製しない。"
+    },
+    "youtube": {
+      "id": "wYxOS26Y-KY",
+      "url": "https://www.youtube.com/watch?v=wYxOS26Y-KY",
+      "embedUrl": "https://www.youtube.com/embed/wYxOS26Y-KY",
+      "verified": "2026-10-29",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "title": "Cut Chemist Suite",
+      "channel": "Ozomatli / Official Artist Channel",
+      "type": "UMG公式配信音源 / 1998 album",
+      "official": true,
+      "metadataVerified": true,
+      "verification": "正規YouTube検索索引で曲名・演者・UMG・1998Almo・曲別producer確認。2003の21 Grams収録候補とは区別。動画そのものの表示尺・実再生・原盤マスター同一性は未検証。"
+    },
+    "producerBasis": "選択UMG公式音源の索引がProducer T-Ray、Producer Ozomatliと明記。題名からCut Chemist単独制作とは推測しない。",
+    "essayTitle": "名前の付いた曲を、バンドの側から。",
+    "deck": "Cut Chemistという名前から、Ozomatliの1998年のデビュー盤へ。",
+    "essay": [
+      "Cut Chemistの公式プロフィールには、Jurassic 5と並んでOzomatliの創設メンバーだったことが記されている。そのバンドのデビュー盤にあるのが「Cut Chemist Suite」。ソロ名義を追っていた耳を、もう一つのグループのレコードへ向ける一曲だ。",
+      "曲名にある名前と、制作クレジットは同じとは限らない。選んだ公式配信には、プロデューサーとしてT-RayとOzomatliが並ぶ。Cut Chemistの仕事をたどりつつ、ここではOzomatliの作品として、その二つの名義も一緒に残しておきたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2
+      ],
+      [
+        3
+      ]
+    ],
+    "context": "本人のグループ参加と曲別制作クレジットを分けて辿る。",
+    "facts": [
+      {
+        "title": "1998年の原アルバム",
+        "text": "バンド公式の再発紹介は、1998年の音源を収めた盤として案内しています。「Cut Chemist Suite」は2曲目、曲目表示は4:32です。再発商品の発売年を原作年に置き換えていません。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "T-RayとOzomatliの制作名義",
+        "text": "選択したUMG配信のProducer欄はT-RayとOzomatli。Cut Chemistの創設参加というプロフィール情報と、この曲の制作名義は分けて記載しています。",
+        "sources": [
+          2,
+          3
+        ]
+      },
+      {
+        "title": "選択した音源",
+        "text": "1998年のアルバムを示す公式配信を掲載しています。2003年の映画サウンドトラック収録候補は採用していません。動画の表示尺、日本での再生可否、原盤との同一マスターは未確認です。",
+        "sources": [
+          3
+        ]
+      }
+    ],
+    "datePublished": "2026-10-30",
+    "addedOrder": 682
   }
 ]

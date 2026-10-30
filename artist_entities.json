@@ -949,5 +949,11 @@
   },
   "Lootpack feat. Kazi, God’s Gift, Declaime, Oh No, MED": {
     "type": null
+  },
+  "Ozomatli": {
+    "type": "MusicGroup"
+  },
+  "T-Ray": {
+    "type": null
   }
 }
