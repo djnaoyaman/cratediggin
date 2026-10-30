@@ -15800,6 +15800,44 @@
         "sourceImage": "assets/graffiti/originals/common-one-nine-nine-nine-tag-original.png",
         "sourceSha256": "6d91325364972dfdc7618a2f47f58c86ea9f0afb1b66c981212f06a65dc67344"
       }
+    },
+    {
+      "id": "common-one-nine-nine-nine-instrumental",
+      "title": "1-9-9-9 (Instrumental)",
+      "artist": "Common",
+      "album": "One-Nine-Nine-Nine / Like They Used to Say",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#f0c33c",
+        "#c94024",
+        "#38505a",
+        "#d0c6af"
+      ],
+      "paletteSource": "https://www.sourcerecords.jp/product/10580",
+      "paletteNote": "既存common-like-they-used-to-sayの確認済み同盤配色を継承した編集上の近似。今回新規目視とはしない。",
+      "image": "assets/graffiti/common-one-nine-nine-nine-instrumental-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/common-one-nine-nine-nine-instrumental-tag-original.png",
+      "concept": "1-9-9-9 / Instrumental / Common の独自文字。同一12インチの確認済み配色を継承し朱赤中心に構成。歌入り客演名を転用しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          157,
+          63,
+          2081,
+          830
+        ],
+        "outputSha256": "25b6127a336011abe748d3bf649efdcac6e065d0d7001b07cdb46e9f34c458f9",
+        "sourceImage": "assets/graffiti/originals/common-one-nine-nine-nine-instrumental-tag-original.png",
+        "sourceSha256": "7139d8d624ce02b55b9bb2ec6b30685f718c4aaaeb0a713842a36f9a1356df8b"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
