@@ -16143,6 +16143,45 @@
         "sourceImage": "assets/graffiti/originals/madlib-montara-tag-original.png",
         "sourceSha256": "b69d06182f0e137991cb3b013e9df5bc293bef97f757507a77d03df18856e581"
       }
+    },
+    {
+      "id": "madvillain-eye",
+      "title": "Eye",
+      "artist": "Madvillain feat. Stacy Epps",
+      "album": "Madvillainy",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#E0E0DE",
+        "#A0A09C",
+        "#51514F",
+        "#111110",
+        "#F47729"
+      ],
+      "paletteSource": "Madvillainy — standard album / existing madvillain-figaro",
+      "paletteNote": "既存Figaroで目視済みの標準同盤配色を継承。今回カバー新規実見なし。銀灰黒と橙の編集上近似、仮面やジャケット構図は模写しない。",
+      "image": "assets/graffiti/madvillain-eye-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/madvillain-eye-tag-original.png",
+      "concept": "EYE/MADVILLAIN/FEAT.STACY EPPS独自文字。同盤で以前確認済みの配色を継承し、元ジャケットや人物を模写しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          131,
+          63,
+          1730,
+          826
+        ],
+        "outputSha256": "80d30c0501d20c65d5e42ccd2c23d943fc22c875a0fc8ec9627df8adfa3451a2",
+        "sourceImage": "assets/graffiti/originals/madvillain-eye-tag-original.png",
+        "sourceSha256": "db3ac05f04d71fabb05fd14822c10cc11a7f95e59d965997b2b94f4db63652c6"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
