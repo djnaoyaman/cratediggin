@@ -90767,5 +90767,130 @@
     "datePublished": "2026-10-30",
     "noteReviewedAt": "2026-10-30",
     "addedOrder": 695
+  },
+  {
+    "id": "madvillain-shadows-of-tomorrow",
+    "title": "Shadows of Tomorrow",
+    "artist": "Madvillain feat. Quasimoto",
+    "primaryArtist": "Madvillain",
+    "primaryArtists": [
+      "Madvillain"
+    ],
+    "artists": [
+      "Madvillain",
+      "Quasimoto"
+    ],
+    "featuredArtists": [
+      "Quasimoto"
+    ],
+    "album": "Madvillainy",
+    "label": "Stones Throw",
+    "year": 2004,
+    "yearStatus": "verified",
+    "yearBasis": "公式標準盤Bandcamp2004-03-23。公式配信metadata2004-03-24と1日差があるため年のみ採用。後年Demos/Instrumentals/Madvillainy2を含めない。",
+    "region": "Los Angeles",
+    "regionBasis": "公式Madvillain Bandcamp group profile Los Angeles,California。メンバーや客演の出生地、録音場所を断定しない。",
+    "category": "Hip Hop",
+    "moods": [
+      "客演",
+      "アルバム"
+    ],
+    "sources": [
+      {
+        "label": "Madvillain / Stones Throw — Madvillainy",
+        "url": "https://madvillain.bandcamp.com/album/madvillainy",
+        "kind": "公式標準盤曲目。Shadows Of Tomorrow feat.Lord Quas、原2004年、Los Angeles拠点。"
+      },
+      {
+        "label": "Shadows of Tomorrow — Madlib Invazion公式配信",
+        "url": "https://www.youtube.com/watch?v=lkW3jsz0Gnc",
+        "kind": "公式Artist Channel、Stones Throw提供。Madvillainy、客演Quasimoto表記。"
+      },
+      {
+        "label": "Stones Throw — Quasimoto公式プロフィール",
+        "url": "https://www.stonesthrow.com/artist/quasimoto/",
+        "kind": "QuasimotoとMadlibの別名義関係、Lord Quasのキャラクター名を説明。"
+      }
+    ],
+    "deck": "Lord Quas、Quasimoto。二つの呼び名を、一人増えたという意味にしない。",
+    "essayTitle": "客演欄に現れる、もう一つの顔。",
+    "essay": [
+      "『Madvillainy』の曲目には「feat. Lord Quas」、正規配信には「feat. Quasimoto」。表記が変わっても、二人の客演がいるわけではない。Stones ThrowはQuasimotoをMadlibの芸術上の別人格、Lord Quasをそのキャラクターとして説明している。MadlibとMF DOOMの組み合わせに、Madlibのもう一つの顔が重なる。名義を辿るだけでも、この曲が置かれた少し奇妙な関係図が見えてくる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "標準アルバムの収録曲",
+        "text": "2004年の公式『Madvillainy』曲目には「Shadows Of Tomorrow feat. Lord Quas」と「Figaro」がともに掲載されています。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "Lord QuasとQuasimoto",
+        "text": "発売元はQuasimotoをMadlibの芸術上の別人格と紹介し、Lord Quasをそのキャラクターとして説明しています。ここでは二人の独立した客演者として数えません。",
+        "sources": [
+          2
+        ]
+      },
+      {
+        "title": "音源の確認状況",
+        "text": "正規提供音源を掲載しています。実再生と日本での再生可否は未確認です。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用録音の一次資料は未確認。サンプル元は未登録です。",
+    "sounds": [],
+    "listening": [],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "Madvillainの2004年作『Madvillainy』から、Lord Quas名義でも記されるQuasimotoを迎えた一曲。別名義の関係を公式資料で辿ります。",
+    "art": {
+      "word": "SHADOWS OF TOMORROW",
+      "tag": "MADVILLAIN FEAT. LORD QUAS",
+      "style": "piece",
+      "seed": 20261030703,
+      "palette": [
+        "#E0E0DE",
+        "#A0A09C",
+        "#51514F",
+        "#111110",
+        "#F47729"
+      ],
+      "paletteSource": "Madvillainy — standard album / existing madvillain-figaro",
+      "paletteSourceUrl": "https://www.stonesthrow.com/store/madvillainy/",
+      "paletteNote": "既存Figaroで目視済みの標準同盤配色を継承。今回カバー新規実見なし。銀灰黒と橙の編集上近似、仮面やジャケット構図は模写しない。"
+    },
+    "youtube": {
+      "id": "lkW3jsz0Gnc",
+      "url": "https://www.youtube.com/watch?v=lkW3jsz0Gnc",
+      "embedUrl": "https://www.youtube.com/embed/lkW3jsz0Gnc",
+      "title": "Shadows of Tomorrow (feat. Quasimoto)",
+      "channel": "Madlib Invazion",
+      "official": true,
+      "type": "公式音源",
+      "metadataVerified": true,
+      "verified": "2026-10-30",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "Official indexed StonesThrow delivery metadata matches direct standardalbum LordQuas credit; officiallabel alias bridge Quasimoto/LordQuas. Video runtime/actualplayback/JP unverified; album2:36 nottransferred."
+    },
+    "datePublished": "2026-10-30",
+    "noteReviewedAt": "2026-10-30",
+    "addedOrder": 696
   }
 ]
