@@ -89441,5 +89441,142 @@
     ],
     "producer": "Hi-Tek",
     "addedOrder": 685
+  },
+  {
+    "id": "common-one-nine-nine-nine-instrumental",
+    "title": "1-9-9-9 (Instrumental)",
+    "artist": "Common",
+    "primaryArtist": "Common",
+    "primaryArtists": [
+      "Common"
+    ],
+    "artists": [
+      "Common"
+    ],
+    "album": "One-Nine-Nine-Nine / Like They Used to Say",
+    "year": 1999,
+    "yearStatus": "verified",
+    "yearBasis": "CMJ New Music Report issue600 Dec28 1998 p29 (PDFindex28), exactreview lines4412-4425: CommonfeatSadatX 1-9-9-9 Rawkus12inch announces ReleaseDateJanuary19/AddDateJanuary19. This is advance1998review for followingJanuary1999, corroborated1999Rawkusphonogram/physicalcatalog. Do notclaim exactactualfirstretailday January19 fromscheduleddatealone.",
+    "region": "Chicago",
+    "regionBasis": "既存CommonのChicago活動地域を継承。客演Sadat Xや制作Hi-Tekの地域へ拡張しない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Hi-Tek interview — WHO?MAG",
+        "url": "https://www.whomag.net/hi-tek/",
+        "kind": "本人取材全文。MPC/ターンテーブル/盤から着想、CommonがSadat X参加を希望したと当曲を具体的に回想"
+      },
+      {
+        "label": "1-9-9-9 / Like They Used to Say — Crib Records",
+        "url": "https://www.cribrecords.jp/product/2060",
+        "kind": "1999US原盤目録A1Radio/A2Street/A3HiTekstrumental。Common feat.SadatXと確認"
+      },
+      {
+        "label": "CMJ New Music Report issue600, December28 1998",
+        "url": "https://device.report/m/b82374bed88a4eec8e0ed97869c547172b201dbee4a15e225bd084953ef2b649.pdf",
+        "kind": "同時代誌p29全文、Rawkus12inchの発売予定January19を明記。1998レビューは翌年発売予告、実売初日の証拠ではない"
+      },
+      {
+        "label": "1999 Instrumental — Common / UMG",
+        "url": "https://www.youtube.com/watch?v=qvefcVZNcuQ",
+        "kind": "UMG提供本文と実watch題名確認。1999Rawkus/2002配信/2018投稿を分離、読み込み途中の尺は採用しない"
+      },
+      {
+        "label": "One-Nine-Nine-Nine single — Source Records",
+        "url": "https://www.sourcerecords.jp/product/10580",
+        "kind": "既存Like They Used to Sayで実確認済み同盤配色の参照先。今回新たに画像閲覧はしていない"
+      }
+    ],
+    "essayTitle": "A3、その名もHi-Tekstrumental。",
+    "deck": "ラップの声ではなく、Hi-Tekのビートを指定して聴く。",
+    "essay": [
+      "12インチのA面はRadio、Street、そして「Hi-Tekstrumental」の順に並ぶ。Chillのリストが指定するインストは、この三つ目に対応する版だ。制作者の名前を折り込んだ呼び方に誘われて、歌入りとは別にビートへ耳を向けてみる。"
+    ],
+    "essaySources": [
+      [
+        1
+      ]
+    ],
+    "facts": [
+      {
+        "title": "同じ曲の、歌のない版",
+        "text": "Mighty 90’s Beatlogy -Chill-の1999 (Inst.)という指定に対応する版です。HI-TEK Vol.3のCommon & Sadat Xという歌入り原行とは分けています。選択配信は1999 (Instrumental)と明記し、原盤A3のHi-Tekstrumentalと照合。Sadat Xの作曲クレジットをインストの客演歌唱とは扱いません。",
+        "sources": [
+          1,
+          3
+        ]
+      },
+      {
+        "title": "原1999年と、配信上の2002年",
+        "text": "原盤目録と1999 Rawkusの権利表記、発売を予告する同時代誌を照合。配信に表示される2002年1月1日や2018年の動画投稿は初出年として使いません。誌面の1月19日は発売予定であり、最初の実売日まで確定していません。",
+        "sources": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "title": "正規シングル枠の配信",
+        "text": "再生元はUMG提供のCommon公式配信。後年のChill Beats編集盤配信、歌入りMVと比較し、1999 / Like They Used To Sayというシングル枠の音源を選びました。表示が読込途中だったため動画尺は未登録。実音声・日本での再生可否、原盤との同一マスターは未確認です。",
+        "sources": [
+          3
+        ]
+      },
+      {
+        "title": "同じ盤から、別の配色構成へ",
+        "text": "既存Like They Used to Sayの確認済み黄・朱赤・青灰・淡いベージュを継承し、インストは朱赤を中心に構成しました。新規に原盤画像を目視したものではありません。隣のB面曲のサンプル情報は転用していません。",
+        "sources": [
+          4
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "歌入りと切り替え、ラップの隙間だった音へ意識を移す。"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "Commonの1999年シングルに収められたインストゥルメンタル。Hi-Tekが手がけた伴奏を、歌入りのStreet版とは別に辿れる一曲です。",
+    "art": {
+      "word": "1-9-9-9 (INSTRUMENTAL)",
+      "tag": "COMMON",
+      "style": "blockbuster",
+      "seed": 2026102948,
+      "palette": [
+        "#f0c33c",
+        "#c94024",
+        "#38505a",
+        "#d0c6af"
+      ],
+      "paletteSource": "https://www.sourcerecords.jp/product/10580",
+      "paletteNote": "既存common-like-they-used-to-sayの確認済み同盤配色を継承した編集上の近似。今回新規目視とはしない。"
+    },
+    "youtube": {
+      "id": "qvefcVZNcuQ",
+      "url": "https://www.youtube.com/watch?v=qvefcVZNcuQ",
+      "embedUrl": "https://www.youtube.com/embed/qvefcVZNcuQ",
+      "title": "1999 (Instrumental)",
+      "channel": "Common - Topic",
+      "type": "公式配信 / Instrumental",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "UMG提供本文と実watch題名一致、1999Rawkus原盤枠。後年ChillBeats配信/歌入りMVと比較、未確定動画尺は未登録。実音声/同一master未確認。"
+    },
+    "datePublished": "2026-10-30",
+    "noteReviewedAt": "2026-10-29",
+    "producer": "Hi-Tek",
+    "addedOrder": 686
   }
 ]
