@@ -89578,5 +89578,143 @@
     "noteReviewedAt": "2026-10-29",
     "producer": "Hi-Tek",
     "addedOrder": 686
+  },
+  {
+    "id": "lootpack-break-dat-party",
+    "title": "Break Dat Party",
+    "artist": "Lootpack feat. Declaime",
+    "primaryArtist": "Lootpack",
+    "primaryArtists": [
+      "Lootpack"
+    ],
+    "artists": [
+      "Lootpack",
+      "Declaime"
+    ],
+    "album": "Soundpieces: Da Antidote!",
+    "year": 1999,
+    "yearStatus": "verified",
+    "yearBasis": "公式Soundpieces曲21/1999年とレーベル再発記事の原年を照合。後年Topic2004権利表示は初出年としない。",
+    "region": "Oxnard",
+    "regionBasis": "公式MED本人取材でLAでなくcrewのOxnard California出身/活動文脈を説明。Wildchild本人取材のOxnard起源とも照合し、既存Lootpack地域表記を維持。全員の出生地や当曲録音地とはしない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Soundpieces: Da Antidote! — official Bandcamp",
+        "url": "https://lootpack.bandcamp.com/album/soundpieces-da-antidote?t=20",
+        "kind": "公式索引の1999年、曲21Break Dat Party feat.Declaime3:35、Dudley PerkinsとDeclaimeの対応"
+      },
+      {
+        "label": "Lootpack Soundpieces: Da Antidote! — Stones Throw",
+        "url": "https://www.stonesthrow.com/news/lootpack-soundpieces-da-antidote/",
+        "kind": "公式2012再発紹介、原作1999年とMadlibのアルバム制作を確認"
+      },
+      {
+        "label": "MED Interview — Stones Throw",
+        "url": "https://www.stonesthrow.com/news/med-interview/",
+        "kind": "公式本人取材全文。MED/Medaphoar名義の対応、crewのOxnard地域を確認。別曲の制作意図を当曲へ移さない"
+      },
+      {
+        "label": "Wildchild in The Source — Stones Throw",
+        "url": "https://www.stonesthrow.com/news/wildchild-in-the-source/",
+        "kind": "本人取材のレーベル再掲全文。Oxnardの活動起源を補助確認"
+      },
+      {
+        "label": "Break Dat Party feat.Declaime — Stones Throw",
+        "url": "https://www.youtube.com/watch?v=AGWVIGTAvOg",
+        "kind": "レーベル直投稿の実表示3:36、説明Produced by Madlib、Soundpieces収録。MVと未確認のため呼称は公式投稿に留める"
+      }
+    ],
+    "essayTitle": "Declaimeの名前を、曲名の隣に。",
+    "deck": "Madlibのビートに加わる客演を、クレジットからたどる。",
+    "essay": [
+      "「Break Dat Party」の曲名には、Declaimeの名前が添えられている。Soundpieces: Da Antidote!の公式紹介がDudley Perkinsとしても挙げる人物だ。Madlib制作というラベル側の表記と、その客演名を並べておく。アルバムを作った人だけでなく、一曲に加わる声からも聴き直したい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        4
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1999年のアルバム曲",
+        "text": "公式曲目では21曲目、Declaime客演、3:35と表記。選択したレーベル投稿は3:36です。原作年は1999年を採用し、Topic側にある後年の権利表示とは分離します。",
+        "sources": [
+          0,
+          1,
+          4
+        ]
+      },
+      {
+        "title": "Declaimeを迎えた歌入り版",
+        "text": "客演はDeclaime。アルバムの公式紹介ではDudley Perkinsの名でも紹介されています。ここでは、その客演を含む歌入り版を掲載しています。",
+        "sources": [
+          0,
+          4
+        ]
+      },
+      {
+        "title": "Stones Throwのレーベル投稿",
+        "text": "Stones Throwが公開した3:36の動画を掲載しています。公式曲目の3:35とは表示尺に1秒の差があります。MVかどうか、実音声・日本での再生可否、原盤との同一マスターは未確認です。",
+        "sources": [
+          0,
+          4
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "Declaimeの客演表記を手がかりに、Lootpackの曲の中に加わる声へ耳を向ける。"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "Madlibが制作し、Declaimeを客演に迎えたLootpackの一曲。1999年の『Soundpieces: Da Antidote!』から、レーベルが公開する歌入り音源を紹介しています。",
+    "art": {
+      "word": "BREAK DAT PARTY",
+      "tag": "LOOTPACK feat. DECLAIME",
+      "style": "blockbuster",
+      "seed": 2026102949,
+      "palette": [
+        "#2455a0",
+        "#d82d2a",
+        "#e9be35"
+      ],
+      "paletteSource": "Soundpieces: Da Antidote! inherited from lootpack-whenimondamic, prior visual confirmation2026-10-17, not new image inspection.",
+      "paletteNote": "同アルバムの確認済み青・赤・黄を編集近似として継承。既存ロゴや人物/構図は複製しない。"
+    },
+    "youtube": {
+      "id": "AGWVIGTAvOg",
+      "url": "https://www.youtube.com/watch?v=AGWVIGTAvOg",
+      "embedUrl": "https://www.youtube.com/embed/AGWVIGTAvOg",
+      "title": "Lootpack - Break Dat Party feat. Declaime",
+      "channel": "Stones Throw",
+      "type": "公式レーベル投稿 / standard vocal album",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 216,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示StonesThrow直投稿3:36/Declaime/ProducedbyMadlib/Soundpieces確認。Topic/一般歌入り/inst比較、原行の客演歌入り版対応。MV・実音声・同一masterは未確認。"
+    },
+    "datePublished": "2026-10-30",
+    "noteReviewedAt": "2026-10-29",
+    "featuredArtists": [
+      "Declaime"
+    ],
+    "producer": "Madlib",
+    "addedOrder": 687
   }
 ]
