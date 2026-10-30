@@ -988,5 +988,13 @@
   },
   "Illa J feat. Guilty Simpson": {
     "type": null
+  },
+  "Debi Nova": {
+    "type": "Person",
+    "source": "https://www.sonymusic.com/sonymusic-labels/sony-music-latin-sabor-mini-series/",
+    "note": "Sony Music公式記事本文で個人singer/songwriterと確認。2026-10-30。"
+  },
+  "Illa J feat. Debi Nova": {
+    "type": null
   }
 }
