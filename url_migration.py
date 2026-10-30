@@ -14,6 +14,8 @@ def prepare_pages(pages, dist, host, features, tracks):
     for f in features:
         mapping[base+'/features/'+f['id']+'.html'] = base+('/artists/' if f['type']=='artist' else '/producers/')+f['id']+'.html'
     mapping[base+'/features/tribe-production.html'] = base+'/artists/tribe.html'
+    # Preserve the former case-variant artist URL after unifying the catalog name.
+    mapping[base+'/artists/cc191cccc5c76c55.html'] = base+'/artists/e3c2a3c81dee85cd.html'
     pairs = sorted(mapping.items(), key=lambda pair: len(pair[0]), reverse=True)
 
     def replace(value):

@@ -85,6 +85,16 @@ for route, meta in registry.items():
         feature_titles.add(meta['title'])
         feature_descriptions.add(meta['description'])
 feature_count = sum(x.startswith('#/feature/') for x in registry)
+readings=(dist/'readings/index.html').read_text(encoding='utf-8')
+for guide in json.loads((root/'guides.json').read_text(encoding='utf-8')):
+    assert 'href="'+base+'/guides/'+guide['id']+'.html"' in readings, 'Guide missing from crawlable readings navigation'
+artist_names={t['artist'] for t in tracks}
+assert len({name.casefold() for name in artist_names})==len(artist_names), 'Case-only artist variants split the catalog'
+normalized=next(meta for route,meta in registry.items() if route=='#/artist/Trends%20of%20Culture')
+assert 'Trends%20Of%20Culture' not in json.dumps({k:v for k,v in registry.items() if k.startswith('#/artist/')})
+legacy=(dist/'artists/cc191cccc5c76c55.html').read_text(encoding='utf-8')
+assert '<link rel="canonical" href="'+normalized['url']+'">' in legacy
+assert '/artists/cc191cccc5c76c55.html' not in listed
 assert len(feature_titles) == len(feature_descriptions) == feature_count
 assert '/about.html' in (dist / 'llms.txt').read_text(encoding='utf-8')
 assert (dist / 'llms-full.txt').read_text(encoding='utf-8').count('正規URL: ') == len(tracks)
