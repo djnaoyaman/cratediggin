@@ -16067,6 +16067,44 @@
         "sourceImage": "assets/graffiti/originals/bas-blasta-dangerous-instrumental-tag-original.png",
         "sourceSha256": "acc232f4442c32790abfa79698cfe326ab133f01300501f8ca2f6ca1367a0d86"
       }
+    },
+    {
+      "id": "common-i-want-you",
+      "title": "I Want You",
+      "artist": "Common feat. will.i.am",
+      "album": "Finding Forever",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#37281b",
+        "#da9141",
+        "#458b91",
+        "#f2e4d5"
+      ],
+      "paletteSource": "Finding Forever / existing common-start-the-show",
+      "paletteNote": "既存同盤の実見済み配色を継承した編集上近似、今回新規実見なし。",
+      "image": "assets/graffiti/common-i-want-you-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/common-i-want-you-tag-original.png",
+      "concept": "I Want You / Common feat. will.i.am の独自文字。既存同アルバムで確認済みの配色を継承し、原ジャケットや人物を複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          172,
+          47,
+          2275,
+          619
+        ],
+        "outputSha256": "ab73abf5eb2e7f5c770de997d226e2922e7c9d7f3420f40835bdd796faff82d5",
+        "sourceImage": "assets/graffiti/originals/common-i-want-you-tag-original.png",
+        "sourceSha256": "84ab882126a725536a235dcda649a0fa3be1df8bed2586bc5347d64bb076c498"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

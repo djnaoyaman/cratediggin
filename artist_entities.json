@@ -967,5 +967,11 @@
   },
   "Bas Blasta": {
     "type": "Person"
+  },
+  "will.i.am": {
+    "type": "Person"
+  },
+  "Common feat. will.i.am": {
+    "type": null
   }
 }

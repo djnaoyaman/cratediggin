@@ -90376,5 +90376,140 @@
     "datePublished": "2026-10-30",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 692
+  },
+  {
+    "id": "common-i-want-you",
+    "title": "I Want You",
+    "artist": "Common feat. will.i.am",
+    "primaryArtist": "Common",
+    "primaryArtists": [
+      "Common"
+    ],
+    "artists": [
+      "Common",
+      "will.i.am"
+    ],
+    "featuredArtists": [
+      "will.i.am"
+    ],
+    "producer": "will.i.am",
+    "album": "Finding Forever",
+    "year": 2007,
+    "yearStatus": "verified",
+    "yearBasis": "ContemporaryGeffen releaseannouncementJuly31 2007 +UMGphonogram2007;2009MVupload notinitialrelease.",
+    "region": "Chicago",
+    "regionBasis": "Contemporary2007Geffen releaseannouncement identifiesCommonChicago hiphopartist. will.i.am birthplace nottransferred.",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ",
+      "ディギング"
+    ],
+    "sources": [
+      {
+        "label": "Geffen Records — Common/Kerry Washington video announcement, Oct12 2007",
+        "url": "https://top40-charts.com/news.php?nid=36079",
+        "kind": "当時のレーベル発表転載。本人コメント、共同監督、制作will.i.am。映像出演と歌唱客演を区別"
+      },
+      {
+        "label": "Finding Forever release announcement — July31 2007",
+        "url": "https://djbooth.net/features/commons-finding-forever-hits-retail-today-0731071/",
+        "kind": "当時発売告知、Chicago/Geffen/曲別will.i.am制作"
+      },
+      {
+        "label": "I Want You — Common official video",
+        "url": "https://www.youtube.com/watch?v=QRfTS8bd05o",
+        "kind": "Common OAC、feat.will.i.am明記。2009投稿は初出年でない"
+      },
+      {
+        "label": "I Want You — Universal Music Group audio",
+        "url": "https://www.youtube.com/watch?v=eBM78fqrqFw",
+        "kind": "2007Geffen/July31、Common・will.i.am演者、will.i.am制作"
+      },
+      {
+        "label": "Finding Forever — Apple Music",
+        "url": "https://music.apple.com/us/album/finding-forever/1443273958",
+        "kind": "同盤Start the Showで確認済みカバー配色を継承。今回新規画像視認なし"
+      }
+    ],
+    "essayTitle": "出演の誘いが、監督の席へ。",
+    "deck": "CommonとKerry Washingtonが広げた、一本の映像の話。",
+    "essay": [
+      "CommonがKerry Washingtonへ最初に持ちかけたのは、出演の話だった。以前から一緒に何か作ろうと話していた二人は、「I Want You」で合流する。彼女の構想を受け、話は共同監督へと広がったと、Commonは当時のレーベル発表で語っている。"
+    ],
+    "essaySources": [
+      [
+        0
+      ]
+    ],
+    "facts": [
+      {
+        "title": "制作と客演",
+        "text": "will.i.amは制作担当かつ正規音源・公式MVで明記される客演。Alicia Keys、Kanye West、Serena Williamsらの映像出演を、当曲の歌唱参加へ転用しません。",
+        "sources": [
+          0,
+          2,
+          3
+        ]
+      },
+      {
+        "title": "2007年の曲と公式MV",
+        "text": "Finding Foreverは2007年のGeffen作品。2009年の動画投稿は初出年として使いません。正規UMGアルバム配信と比較し、Common公式のMVを選択しました。MVの尺やclean/edit差、実再生・日本での可否は未確認です。",
+        "sources": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "title": "同じアルバムから、別の文字へ",
+        "text": "Start the Showの制作時に確認済みのFinding Forever配色を継承し、茶・琥珀・くすんだ青緑・アイボリーを新しい文字構成にしました。今回新規にジャケットを取得・目視したものではありません。",
+        "sources": [
+          4
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "曲を聴いた後、映像の視点がどこで変わるかを見直す。"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "2007年のCommon作品から、will.i.amを迎えた「I Want You」。CommonとKerry Washingtonによる映像制作の経緯を、本人が当時語った言葉から辿ります。",
+    "art": {
+      "word": "I WANT YOU",
+      "tag": "COMMON feat. will.i.am",
+      "style": "piece",
+      "seed": 2026102961,
+      "palette": [
+        "#37281b",
+        "#da9141",
+        "#458b91",
+        "#f2e4d5"
+      ],
+      "paletteSource": "Finding Forever / existing common-start-the-show",
+      "paletteNote": "既存同盤の実見済み配色を継承した編集上近似、今回新規実見なし。"
+    },
+    "youtube": {
+      "id": "QRfTS8bd05o",
+      "url": "https://www.youtube.com/watch?v=QRfTS8bd05o",
+      "embedUrl": "https://www.youtube.com/embed/QRfTS8bd05o",
+      "title": "Common - I Want You ft. will.i.am",
+      "channel": "Common",
+      "official": true,
+      "type": "公式MV",
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "OAC and exacttitle/performers; sameworkUMGaudio compared,officialMV selected. Runtime/edit unverified notinvented."
+    },
+    "datePublished": "2026-10-30",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 693
   }
 ]
