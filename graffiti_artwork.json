@@ -15875,6 +15875,44 @@
         "sourceImage": "assets/graffiti/originals/lootpack-break-dat-party-tag-original.png",
         "sourceSha256": "7cb1aa40f8115117bad7fd2478fcefeee50c7deb480f1b3900a773759b5616b9"
       }
+    },
+    {
+      "id": "fugees-ready-or-not-instrumental",
+      "title": "Ready or Not (Instrumental)",
+      "artist": "Fugees",
+      "album": "Ready or Not (1996 single)",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#bd823d",
+        "#936048",
+        "#cfac89",
+        "#151718"
+      ],
+      "paletteSource": "The Score, inherited from fugees-ready-or-not, prior actual visual record2026-10-17; not newly inspected.",
+      "paletteNote": "原曲アルバムの確認済み銅色・茶・淡茶・黒を継承した編集近似。選択singleの写真を新規確認とはしない。",
+      "image": "assets/graffiti/fugees-ready-or-not-instrumental-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/fugees-ready-or-not-instrumental-tag-original.png",
+      "concept": "Ready or Not / LP Instrumental / Fugees の独自文字。既存歌入り記事で確認済みのアルバム配色を継承。原ジャケットや人物は転載しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          123,
+          69,
+          1634,
+          915
+        ],
+        "outputSha256": "2599e971124fdb6a22153c0133458ae3e06e31bee155e0afb5b7e3ba31f715b9",
+        "sourceImage": "assets/graffiti/originals/fugees-ready-or-not-instrumental-tag-original.png",
+        "sourceSha256": "82eb792e15bacb77f70b2e931b98fe0042640619ed91bb9119a4c9b80f8851a2"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
