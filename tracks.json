@@ -89837,5 +89837,135 @@
     "datePublished": "2026-10-30",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 688
+  },
+  {
+    "id": "black-star-respiration-instrumental",
+    "title": "Respiration (Instrumental)",
+    "artist": "Black Star",
+    "primaryArtist": "Black Star",
+    "primaryArtists": [
+      "Black Star"
+    ],
+    "artists": [
+      "Black Star"
+    ],
+    "album": "Respiration (1999 single)",
+    "year": 1999,
+    "yearStatus": "verified",
+    "yearBasis": "1999US原盤目録のA2 Album Version Instrumentalを確認。1998歌入りアルバム年をインスト初出へ移さない。厳密初発売日は未確認。",
+    "region": "New York",
+    "regionBasis": "既存Black Starの検証済み活動地域を継承。制作場所/個人出生地と同一扱いしない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Respiration US original — Crib Records",
+        "url": "https://www.cribrecords.jp/product/5233",
+        "kind": "1999Rawkus原盤目録全文、A2AlbumVersionInstrumental/B3FlyingHighInstrumental、A面Hi-Tek/B面PeteRockを分離"
+      },
+      {
+        "label": "Black Star — Qobuz",
+        "url": "https://www.qobuz.com/us-en/album/black-star-mos-def-talib-kweli/0000881128972",
+        "kind": "正規歌入り1998アルバム曲11の文脈。Common客演をインスト歌唱の根拠にしない"
+      },
+      {
+        "label": "Respiration Instrumental — MineurDuSon",
+        "url": "https://www.youtube.com/watch?v=mgogOtIuxeA",
+        "kind": "実表示一般投稿5:37の標準Instrumental題名。Extended/PeteRockFlyingHigh/Remakeと比較、原マスター完全一致は未確認"
+      },
+      {
+        "label": "Mos Def & Talib Kweli Are Black Star licensed cover",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7d/9d/b4/7d9db404-4032-4ed2-f5d8-8055bc637806/00008811289720.rgb.jpg/296x296bf.webp",
+        "kind": "K.O.S.記事で取得した実カバー画像を2026-10-29 13:06に再目視。アルバム配色参照、single原ジャケとは分離"
+      }
+    ],
+    "essayTitle": "A面とB面、二つのインスト。",
+    "deck": "Hi-Tekのアルバム版と、Pete RockのFlying Highを分けて聴く。",
+    "essay": [
+      "「Respiration」の12インチには、A面にAlbum Version Instrumental、B面にFlying High Instrumentalが入っている。前者はHi-Tek、後者はPete Rockの版だ。同じ題名でも、インストならどちらでもよいわけではない。今回はアルバム版に対応するものとして、標準Instrumental表記の音源を選んでいる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1999年のシングル版",
+        "text": "原リストILLのRespiration (Instrumental)に対応。1999US原盤目録のA2を参照し、B3 Flying High、Extended、Remake、歌入りMVとは分けています。歌入りアルバムの1998年をそのままインストの発売年にはしていません。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "原盤との一致を過大に言わない",
+        "text": "選択はMineurDuSonによる一般投稿5:37。標準Instrumentalの表記を確認し、別版名の候補と比較しました。目録にはA2尺がなく、原盤と完全に同じマスター/編集であるかは未確認です。実音声・日本での再生可否も未確認。歌入りのCommon客演や、未検証のサンプル解説をこの版の歌唱・制作情報へ転用しません。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "原曲アルバムの色",
+        "text": "配色はMos Def & Talib Kweli Are Black Starの正規カバー。既存K.O.S.記事で保存した画像を再目視し、朱赤・金黄・深緑・クリーム・暗茶を採りました。選択シングルの原ジャケットを新たに確認したものではなく、人物や星、装飾枠は複製していません。",
+        "sources": [
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "A面アルバム版とB面Flying Highという違いを手がかりに、同名曲のインストを区別する。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "1999年のシングルに収められたAlbum Version Instrumentalを参照。Hi-TekによるA面の版と、Pete Rockが手がけたB面のFlying Highを分けて紹介しています。",
+    "art": {
+      "word": "RESPIRATION",
+      "tag": "ALBUM INSTRUMENTAL / BLACK STAR",
+      "style": "tag",
+      "seed": 2026102951,
+      "palette": [
+        "#D93218",
+        "#D7A72A",
+        "#155F37",
+        "#F4E6B9",
+        "#29190F"
+      ],
+      "paletteSource": "Mos Def & Talib Kweli Are Black Star licensed Apple cover from prior K.O.S. file, visually reinspected2026-10-29 13:06UTC; album not single artwork.",
+      "paletteSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7d/9d/b4/7d9db404-4032-4ed2-f5d8-8055bc637806/00008811289720.rgb.jpg/296x296bf.webp",
+      "paletteNote": "実画像の朱赤、金黄、深緑、クリーム、暗茶を目視近似した独自文字。肖像、星、装飾枠、既存ロゴや書体は複製しない。"
+    },
+    "youtube": {
+      "id": "mgogOtIuxeA",
+      "url": "https://www.youtube.com/watch?v=mgogOtIuxeA",
+      "embedUrl": "https://www.youtube.com/embed/mgogOtIuxeA",
+      "title": "Black Star - Respiration (Instrumental)",
+      "channel": "MineurDuSon",
+      "type": "一般投稿 / standard Instrumental",
+      "official": false,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 337,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示標準Instrumental5:37確認、Extended/FlyingHigh/Remake/真正VEVO歌入りを除外。原盤A2の版対応候補、原master一致・実再生未確認。"
+    },
+    "datePublished": "2026-10-30",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 689
   }
 ]
