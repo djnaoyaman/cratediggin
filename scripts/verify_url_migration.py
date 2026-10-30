@@ -52,5 +52,11 @@ personal_images=sum(len(f.get('personalFeature',{}).get('photos',[])) for f in j
 feature_images=sum(len({f['visual'][key] for f in features if f.get('editorial') and f['type']==kind for key in ('photo','tag') if f.get('visual',{}).get(key)}) for kind in ('artist','producer'))
 images=sitemap.findall('s:url/i:image/i:loc',ns);assert len(images)==len(ready)+feature_images+(3 if (r/'editor_profile.json').exists() else 0)+personal_images
 for n in images: assert (d/n.text.removeprefix(host+'/')).is_file()
-assert len(list((d/'artists').glob('[0-9a-f]'*16+'.html')))==len({t['artist'] for t in tracks})
-print(f'{len(mapping)} old URL mappings, {len(pages)} canonical pages, {len(images)} image entries, unchanged artist directory verified')
+artist_files={base+'/artists/'+p.name for p in (d/'artists').glob('[0-9a-f]'*16+'.html')}
+legacy_artists={old for old in mapping if re.fullmatch(re.escape(base)+r'/artists/[0-9a-f]{16}\.html',old)}
+canonical_artists={p['path'] for route,p in pages.items() if route.startswith('#/artist/')}
+assert len(canonical_artists)==len({t['artist'] for t in tracks})
+assert artist_files==canonical_artists|legacy_artists
+assert not canonical_artists&legacy_artists
+print(f'{len(mapping)} old URL mappings, {len(pages)} canonical pages, {len(images)} image entries, canonical and legacy artist directory verified')
+
