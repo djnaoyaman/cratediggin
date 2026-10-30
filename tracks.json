@@ -90892,5 +90892,125 @@
     "datePublished": "2026-10-30",
     "noteReviewedAt": "2026-10-30",
     "addedOrder": 696
+  },
+  {
+    "id": "jaylib-survival-test",
+    "title": "Survival Test",
+    "artist": "Jaylib",
+    "primaryArtist": "Jaylib",
+    "primaryArtists": [
+      "Jaylib"
+    ],
+    "artists": [
+      "Jaylib"
+    ],
+    "featuredArtists": [],
+    "album": "Champion Sound",
+    "year": 2003,
+    "yearStatus": "verified",
+    "yearBasis": "公式Bandcamp曲ページが2003年表示、選択公式配信も2003年権利を記載。2016-07-29配信/2022uploadは初出と区別。Deluxeページ表示日を厳密な原発売日として断定しない。",
+    "region": "Detroit / Los Angeles",
+    "regionBasis": "発売元のJaylib紹介でMadlib/JDillaがDetroitとLosAngelesで別々に録音した背景を確認。個人の出生地を主張する欄ではない。",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ",
+      "ディギング"
+    ],
+    "sources": [
+      {
+        "label": "Stones Throw — Champion Sound",
+        "url": "https://www.stonesthrow.com/store/champion-sound/",
+        "kind": "公式標準商品STH2062。Survival Test/Starz曲目、二人組と制作地の説明。"
+      },
+      {
+        "label": "Jaylib — Survival Test",
+        "url": "https://jaylib.bandcamp.com/track/survival-test",
+        "kind": "発売元公式配信。曲名/Champion Sound/2003表示。"
+      },
+      {
+        "label": "Survival Test — Jaylib公式配信",
+        "url": "https://www.youtube.com/watch?v=LDs6w1y6KgI",
+        "kind": "Jaylib - Topic、Stones Throw提供、原権利2003/選択配信2016。"
+      }
+    ],
+    "essayTitle": "同じ部屋にいなくても、二人の作品になる。",
+    "deck": "DetroitとLos Angeles。離れた制作場所が、Jaylibの一枚につながる。",
+    "essay": [
+      "JaylibはJ DillaとMadlibの二人組だ。Stones Throwは『Champion Sound』を、2002〜2003年にDetroitとLos Angelesで別々に録音された作品として紹介している。同じスタジオに集まることだけが共同制作ではない。「Survival Test」も収めたこの一枚には、距離を挟んだ二人のやり取りという背景がある。"
+    ],
+    "essaySources": [
+      [
+        0
+      ]
+    ],
+    "facts": [
+      {
+        "title": "2003年の作品と現行配信",
+        "text": "「Survival Test」は『Champion Sound』の収録曲。公式曲ページと配信の権利表記は2003年、選択音源の配信メタデータは2016年です。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "標準題と別バージョン",
+        "text": "ここでは「Survival Test」という標準題の音源を選んでいます。Rasta Dub Remixやインストゥルメンタルとは区別します。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "音源の確認状況",
+        "text": "正規提供音源を掲載しています。実再生と日本での再生可否は未確認です。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しません。",
+    "sounds": [],
+    "listening": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "J DillaとMadlibによるJaylib。DetroitとLos Angelesで別々に録音を進めた『Champion Sound』の制作背景とともに紹介します。",
+    "art": {
+      "word": "SURVIVAL TEST",
+      "tag": "JAYLIB",
+      "style": "piece",
+      "seed": 20261030704,
+      "palette": [
+        "#10171b",
+        "#303b46",
+        "#68717c",
+        "#b2b7bb",
+        "#f0f1ee"
+      ],
+      "paletteSource": "Champion Sound / previously inspected jaylib-starz official label cover",
+      "paletteNote": "既存Starzで実見済みの同商品STH2062配色を継承した編集上近似。今回カバー新規実見なし。現商品の他曲Remix表記を含め全曲原master同一とは断定しない。",
+      "paletteSourceUrl": "https://www.stonesthrow.com/store/champion-sound/"
+    },
+    "youtube": {
+      "id": "LDs6w1y6KgI",
+      "url": "https://www.youtube.com/watch?v=LDs6w1y6KgI",
+      "embedUrl": "https://www.youtube.com/embed/LDs6w1y6KgI",
+      "title": "Survival Test",
+      "channel": "Jaylib - Topic",
+      "official": true,
+      "type": "公式音源",
+      "metadataVerified": true,
+      "verified": "2026-10-30",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "IndexedofficialStonesThrow title/ChampionSound/2003rights/2016distribution matched directofficialtrack. Firstwatchfetchfailed no retry,video runtime/playback/JPunknown; remix/instnotselected."
+    },
+    "datePublished": "2026-10-30",
+    "noteReviewedAt": "2026-10-30",
+    "label": "Stones Throw",
+    "addedOrder": 697
   }
 ]

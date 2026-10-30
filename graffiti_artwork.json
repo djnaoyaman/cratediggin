@@ -16221,6 +16221,45 @@
         "sourceImage": "assets/graffiti/originals/madvillain-shadows-of-tomorrow-tag-original.png",
         "sourceSha256": "c1a520ba91a9c2f2d2d51817b4baca2e90e04ad32ee08163fa77e06c5aa22111"
       }
+    },
+    {
+      "id": "jaylib-survival-test",
+      "title": "Survival Test",
+      "artist": "Jaylib",
+      "album": "Champion Sound",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#10171b",
+        "#303b46",
+        "#68717c",
+        "#b2b7bb",
+        "#f0f1ee"
+      ],
+      "paletteSource": "Champion Sound / previously inspected jaylib-starz official label cover",
+      "paletteNote": "既存Starzで実見済みの同商品STH2062配色を継承した編集上近似。今回カバー新規実見なし。現商品の他曲Remix表記を含め全曲原master同一とは断定しない。",
+      "image": "assets/graffiti/jaylib-survival-test-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/jaylib-survival-test-tag-original.png",
+      "concept": "SURVIVAL TEST/JAYLIB独自文字。同盤で以前確認済みの配色を継承し、元ジャケットや人物を模写しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          124,
+          68,
+          1638,
+          900
+        ],
+        "outputSha256": "fbcb56cfe7ac70e2f44eed7d7a1fc6899a81cab3a1cd8b028c1341908cd3ab35",
+        "sourceImage": "assets/graffiti/originals/jaylib-survival-test-tag-original.png",
+        "sourceSha256": "78cd7d1972d8f3adf6d1b6433e77365daf7ae8b69f755f8aa17bd3e2c6113a97"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
