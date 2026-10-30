@@ -91141,5 +91141,121 @@
     "label": "Delicious Vinyl",
     "producer": "J Dilla",
     "addedOrder": 698
+  },
+  {
+    "id": "westside-gunn-elizabeth",
+    "title": "Elizabeth",
+    "artist": "Westside Gunn",
+    "primaryArtist": "Westside Gunn",
+    "primaryArtists": [
+      "Westside Gunn"
+    ],
+    "artists": [
+      "Westside Gunn"
+    ],
+    "featuredArtists": [],
+    "album": "Supreme Blientele",
+    "label": "Griselda",
+    "year": 2018,
+    "yearStatus": "verified",
+    "yearBasis": "Daupe正規盤2018-07-23、EMPIRE公式配信metadata release2018-06-22。媒体日差は残し年2018のみ採用、2022動画追加年は初出にしない。",
+    "region": "Buffalo",
+    "scene": "Buffalo",
+    "regionBasis": "既存WestsideGunn記事のShadyRecords公式Buffalo出身地根拠を継承。録音場所の断定ではない。",
+    "category": "Hip Hop",
+    "moods": [
+      "アルバム"
+    ],
+    "deck": "Buffaloから届いた2018年作『Supreme Blientele』。Westside Gunn自身の名義で並ぶ「Elizabeth」。",
+    "essayTitle": "客演の名前が並ぶ、その合間に。",
+    "essay": [
+      "『Supreme Blientele』の曲目には、Anderson .Paakを迎えた「Wrestlemania 20」など、客演の名前がいくつも並ぶ。そのなかで「Elizabeth」は、Westside Gunn自身の名義で置かれた一曲。Buffalo出身の彼の2018年作を、招かれた顔ぶれだけでなく、主役の名前から辿り直してみる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "2018年のアルバム収録曲",
+        "text": "Daupeの正規『Supreme Blientele』では「Elizabeth」を7曲目に掲載。選択したEMPIRE提供音源も同アルバムと2018年のGriselda権利を記載しています。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "音源の確認状況",
+        "text": "公式提供音源を掲載しています。実再生と日本での再生可否は未確認です。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Daupe — Supreme Blientele",
+        "url": "https://daupe.bandcamp.com/album/supreme-blientele",
+        "kind": "正規盤曲目を直接確認。ElizabethとWrestlemania 20を収録、Daupe版2018年7月23日。"
+      },
+      {
+        "label": "Elizabeth — WestsideGunn公式配信",
+        "url": "https://www.youtube.com/watch?v=QjbyPwDU3vY",
+        "kind": "検索メタデータでOAC、EMPIRE提供、Supreme Blientele、2018 Griselda、2018年6月22日releaseを確認。動画追加は2022年。"
+      },
+      {
+        "label": "Shady Records — Westside Gunn",
+        "url": "https://www.shadyrecords.com/2020/07/29/westside-gunn-announces-new-album-who-made-the-sunshine/",
+        "kind": "既存記事で確認済みのレーベル公式出身地資料。Buffaloを明記。今回の再取得ではない。"
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用録音の一次資料未確認のためサンプル元は未登録。",
+    "sounds": [],
+    "listening": [],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "Buffalo出身のWestside Gunnによる2018年作『Supreme Blientele』から「Elizabeth」。",
+    "art": {
+      "word": "ELIZABETH",
+      "tag": "WESTSIDE GUNN",
+      "style": "piece",
+      "seed": 20261030706,
+      "palette": [
+        "#111111",
+        "#cececb",
+        "#eeeeea",
+        "#eb171b"
+      ],
+      "paletteSource": "Supreme Blientele — existing westside-gunn-wrestlemania-20",
+      "paletteSourceUrl": "https://daupe.bandcamp.com/album/supreme-blientele",
+      "paletteNote": "同じDaupe正規盤の曲目で橋渡しし、既存Wrestlemania20で実見済みの黒・銀灰・白・赤の編集上近似配色を継承。今回はカバー新規実見なし。写真やジャケット構図は複製しない。"
+    },
+    "youtube": {
+      "id": "QjbyPwDU3vY",
+      "url": "https://www.youtube.com/watch?v=QjbyPwDU3vY",
+      "embedUrl": "https://www.youtube.com/embed/QjbyPwDU3vY",
+      "title": "Elizabeth",
+      "channel": "WestsideGunn",
+      "official": true,
+      "type": "公式音源",
+      "metadataVerified": true,
+      "verified": "2026-10-30",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "version": "Supreme Blientele収録曲（公式配信）",
+      "versionBasis": "OAC/EMPIRE/Griselda2018のindexedmetadataと直接Daupe曲目を照合。Alternate Introは別題として除外。Daupe盤4:08を動画尺へ転用しない。",
+      "verification": "初回watch取得失敗、再試行なし。実再生・日本・埋込・master同一性未確認。"
+    },
+    "datePublished": "2026-10-30",
+    "noteReviewedAt": "2026-10-30",
+    "addedOrder": 699
   }
 ]
