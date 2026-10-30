@@ -91413,5 +91413,145 @@
     "label": "Delicious Vinyl",
     "producer": "J Dilla",
     "addedOrder": 700
+  },
+  {
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しません。",
+    "sounds": [],
+    "listening": [],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "id": "heavy-d-the-boyz-here-comes-the-heavster",
+    "title": "Here Comes The Heavster",
+    "artist": "Heavy D & The Boyz",
+    "primaryArtist": "Heavy D & The Boyz",
+    "primaryArtists": [
+      "Heavy D & The Boyz"
+    ],
+    "artists": [
+      "Heavy D & The Boyz"
+    ],
+    "featuredArtists": [],
+    "album": "Blue Funk",
+    "year": 1993,
+    "yearStatus": "verified",
+    "yearBasis": "正規配信の1993年クレジットを基準に掲載。原盤目録には1992年表記の版もあり、厳密初出日や1992年先行を確定しない。原リスト年代幅と動画投稿年は初出根拠にしない。",
+    "region": "New York",
+    "regionBasis": "保存済みEddie Ferrell本人RBMA回想のMount VernonでのHeavy D & The Boyzとの活動を継承。出生地と区別。",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ",
+      "ディギング"
+    ],
+    "label": "MCA / Uptown",
+    "producer": "DJ Premier",
+    "datePublished": "2026-10-30",
+    "noteReviewedAt": "2026-10-30",
+    "sources": [
+      {
+        "label": "Here Comes The Heavster — Apple Music",
+        "url": "https://music.apple.com/gb/song/1443765955",
+        "kind": "正規配信本文で曲名・演者・Blue Funk・1993年を確認。曲別制作クレジットは検索本文。"
+      },
+      {
+        "label": "Here Comes The Heavster — Heavy D & The Boyz - Topic",
+        "url": "https://www.youtube.com/watch?v=0iisfmzT7_w",
+        "kind": "UMG提供の検索メタデータ。Blue Funk、1993 MCA、DJ Premier制作を確認。"
+      },
+      {
+        "label": "Blue Funk — Spotify",
+        "url": "https://open.spotify.com/album/0mjKnJ6EaGkrMozJlmQbdC",
+        "kind": "正規配信の検索曲目。track10当該曲とtrack11 Blue Funkの同盤対応。"
+      },
+      {
+        "label": "Heavy D & The Boyz — Blue Funk, Apple Music track credits",
+        "url": "https://music.apple.com/us/song/1443765960",
+        "kind": "正規配信・楽曲別制作クレジット"
+      },
+      {
+        "label": "Eddie Ferrell — RBMA本人インタビュー",
+        "url": "https://daily.redbullmusicacademy.com/2014/10/key-tracks-heavy-d-and-the-boyz-big-tyme/",
+        "kind": "Mount Vernonでの出会いと活動についての本人回想。1989年アルバムの制作談は本曲へ転用しない"
+      },
+      {
+        "label": "Blue Funk, Uptown UPT 10734 edition, MusicBrainz",
+        "url": "https://musicbrainz.org/release/310027b5-d86a-4b0f-a42b-0aec1da8688c",
+        "kind": "原盤資料・版別トラック情報"
+      }
+    ],
+    "essayTitle": "DJ Premierと組んだ、Blue Funkの一曲。",
+    "deck": "表題曲とは違う制作陣から、同じアルバムをたどる。",
+    "essay": [
+      "『Blue Funk』の10曲目「Here Comes The Heavster」を手がけたのはDJ Premier。続く表題曲「Blue Funk」はPete Rockの制作で、Heavy Dも共同制作に名を連ねる。同じHeavy D & The Boyzのアルバムで、異なる制作陣との組み合わせが隣り合っている。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "曲別の制作クレジット",
+        "text": "正規配信はDJ Premierをプロデューサー／作曲者、Heavy Dを作者として記載しています。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "1993年の配信クレジット",
+        "text": "掲載年は正規配信の1993年を採用。原盤目録にある1992年表記とは版を分け、厳密な初発売日は確定していません。",
+        "sources": [
+          0,
+          1,
+          5
+        ]
+      },
+      {
+        "title": "音源の確認状況",
+        "text": "UMG提供の正規Topic配信を選択しています。実再生と日本での再生可否は未確認です。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "context": "Blue Funkの中でDJ Premierが制作を担当した一曲。隣接するPete Rock制作の表題曲と、曲ごとのクレジットからたどります。",
+    "art": {
+      "word": "HERE COMES THE HEAVSTER",
+      "tag": "HEAVY D & THE BOYZ",
+      "style": "piece",
+      "seed": 20261030708,
+      "palette": [
+        "#284b70",
+        "#35215a",
+        "#0d1420"
+      ],
+      "paletteSource": "Blue Funk / previously visually inspected official MCA digital cover",
+      "paletteSourceUrl": "https://music.apple.com/gb/song/1443765955",
+      "paletteNote": "既存Blue Funkで2026-10-17に実見済みの同盤配色を継承。今回カバーの新規実見なし。"
+    },
+    "youtube": {
+      "id": "0iisfmzT7_w",
+      "url": "https://www.youtube.com/watch?v=0iisfmzT7_w",
+      "embedUrl": "https://www.youtube.com/embed/0iisfmzT7_w",
+      "title": "Here Comes The Heavster",
+      "channel": "Heavy D & The Boyz - Topic",
+      "official": true,
+      "type": "UMG提供Topicアルバム音源",
+      "metadataVerified": true,
+      "verified": "2026-10-30",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "Indexed UMG Topic matches performer/title/Blue Funk/1993 MCA and DJ Premier production. Apple direct title/artist/album/year agrees. Initial normal watch returned Cache miss; no retry. Actual video runtime/playback/JP/embed/master remain unverified. No contradictory remix/live label observed."
+    },
+    "addedOrder": 701
   }
 ]
