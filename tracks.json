@@ -90636,5 +90636,136 @@
     "datePublished": "2026-10-30",
     "noteReviewedAt": "2026-10-30",
     "addedOrder": 694
+  },
+  {
+    "id": "madvillain-eye",
+    "title": "Eye",
+    "artist": "Madvillain feat. Stacy Epps",
+    "primaryArtist": "Madvillain",
+    "primaryArtists": [
+      "Madvillain"
+    ],
+    "artists": [
+      "Madvillain",
+      "Stacy Epps"
+    ],
+    "featuredArtists": [
+      "Stacy Epps"
+    ],
+    "album": "Madvillainy",
+    "label": "Stones Throw",
+    "year": 2004,
+    "yearStatus": "verified",
+    "yearBasis": "公式標準盤Bandcamp2004-03-23。公式配信metadata2004-03-24と1日差があるため年のみ採用。後年Demos/Instrumentals/Madvillainy2を含めない。",
+    "region": "Los Angeles",
+    "regionBasis": "公式Madvillain Bandcamp group profile Los Angeles,California。メンバーや客演の出生地、録音場所を断定しない。",
+    "category": "Hip Hop",
+    "moods": [
+      "客演",
+      "アルバム"
+    ],
+    "sources": [
+      {
+        "label": "Madvillain / Stones Throw — Madvillainy",
+        "url": "https://madvillain.bandcamp.com/album/madvillainy",
+        "kind": "発売元公式。標準盤曲目、Stacy Epps客演、原2004年、Los Angeles拠点。"
+      },
+      {
+        "label": "Eye — Madvillain公式配信",
+        "url": "https://www.youtube.com/watch?v=4hw2XL7LlyY",
+        "kind": "Madvillain - Topic、Stones Throw提供。検索で曲名・客演・標準アルバム対応を確認。"
+      },
+      {
+        "label": "Stacy Epps — 本人公式プロフィール",
+        "url": "https://stacyepps.com/whoiam-1",
+        "kind": "本人公式。MadvillainyのEyeでのボーカル参加を明記。"
+      }
+    ],
+    "deck": "MadlibとMF DOOMの二人組に、Stacy Eppsの名前が加わる。",
+    "essayTitle": "二人の名義、その外から加わる名前。",
+    "essay": [
+      "『Madvillainy』の曲目を眺めると、「Eye」にはStacy Eppsの名前が添えられている。本人も公式プロフィールで、この曲へのボーカル参加を紹介している。MadlibとMF DOOMの二人組という説明に、ここではもう一人の声の担い手が加わる。クレジットを辿ると、アルバムからStacy Epps自身の作品へ視線を広げることができる。"
+    ],
+    "essaySources": [
+      [
+        0,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "2004年の標準アルバム版",
+        "text": "公式『Madvillainy』には「Figaro」と「Eye」がともに収録され、「Eye」の客演はStacy Eppsと明記されています。後年のデモ集やリミックス集とは区別します。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "Stacy Eppsのボーカル参加",
+        "text": "Stacy Epps本人の公式プロフィールも、『Madvillainy』収録「Eye」でのボーカル参加を記載しています。",
+        "sources": [
+          2
+        ]
+      },
+      {
+        "title": "配信上の制作表記",
+        "text": "選択したStones Throw提供音源はMadlibとMF DOOMをProducerとして記載しています。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "音源の確認状況",
+        "text": "正規提供音源を掲載しています。実再生と日本での再生可否は未確認です。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用録音の一次資料は未確認。サンプル元は未登録です。",
+    "sounds": [],
+    "listening": [],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "Los Angelesを拠点として掲げるMadvillainの2004年作『Madvillainy』。Stacy Eppsを迎えた「Eye」を標準アルバム版で紹介します。",
+    "art": {
+      "word": "EYE",
+      "tag": "MADVILLAIN FEAT. STACY EPPS",
+      "style": "piece",
+      "seed": 20261030702,
+      "palette": [
+        "#E0E0DE",
+        "#A0A09C",
+        "#51514F",
+        "#111110",
+        "#F47729"
+      ],
+      "paletteSource": "Madvillainy — standard album / existing madvillain-figaro",
+      "paletteSourceUrl": "https://www.stonesthrow.com/store/madvillainy/",
+      "paletteNote": "既存Figaroで目視済みの標準同盤配色を継承。今回カバー新規実見なし。銀灰黒と橙の編集上近似、仮面やジャケット構図は模写しない。"
+    },
+    "youtube": {
+      "id": "4hw2XL7LlyY",
+      "url": "https://www.youtube.com/watch?v=4hw2XL7LlyY",
+      "embedUrl": "https://www.youtube.com/embed/4hw2XL7LlyY",
+      "title": "Eye",
+      "channel": "Madvillain - Topic",
+      "official": true,
+      "type": "公式音源",
+      "metadataVerified": true,
+      "verified": "2026-10-30",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "StonesThrow official indexed title/guest/album metadata matched direct officialBandcamp standardalbum. Watch initial fetchfailed,no retry; album1:57 nottransferred to unknownvideo runtime."
+    },
+    "datePublished": "2026-10-30",
+    "noteReviewedAt": "2026-10-30",
+    "addedOrder": 695
   }
 ]
