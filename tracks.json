@@ -89967,5 +89967,136 @@
     "datePublished": "2026-10-30",
     "noteReviewedAt": "2026-10-29",
     "addedOrder": 689
+  },
+  {
+    "id": "mos-def-if-you-can-huh-you-can-hear-instrumental",
+    "title": "If You Can Huh You Can Hear (Instrumental)",
+    "artist": "Mos Def",
+    "primaryArtist": "Mos Def",
+    "primaryArtists": [
+      "Mos Def"
+    ],
+    "artists": [
+      "Mos Def"
+    ],
+    "album": "The Universal Magnetic / If You Can Huh You Can Hear",
+    "year": 1997,
+    "yearStatus": "verified",
+    "yearBasis": "1997USRawkusRWK138-1の現物目録B2Instrumentalを確認。既存UniversalMagneticと同一12inchで、A面年だけを根拠にはしない。",
+    "region": "New York",
+    "regionBasis": "既存MosDefのBrooklyn活動地域根拠を継承。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "The Universal Magnetic / If You Can Huh You Can Hear — EIL",
+        "url": "https://eil.com/shop/moreinfo.asp?catalogid=711629",
+        "kind": "1997USRawkusRWK138-1、A/B両面の歌入り/Instrumental曲目。以前の全文確認と今回索引照合"
+      },
+      {
+        "label": "If You Can Huh You Can Hear Instrumental — KaoZ BORn",
+        "url": "https://www.youtube.com/watch?v=M3zqYx3iIV8",
+        "kind": "実表示4:06、1997Rawkus/UniversalMagnetic原singleを説明。一般4:02/4:04、extended/remake/432Hzを比較"
+      },
+      {
+        "label": "1997 Rawkus single picture sleeve — Vinyl Cycle",
+        "url": "https://vinylcycle.com/?pid=170596339",
+        "kind": "既存UniversalMagneticの実見済み同盤配色を継承。今回新規画像閲覧はしていない"
+      },
+      {
+        "label": "Black Star oral history — Shawn J.Period / POW",
+        "url": "https://www.powmag.net/p/b-boys-will-b-boys-an-oral-history-of-black-star",
+        "kind": "全文確認の本人証言。Mosと両面の曲を制作したこと、当時Rawkusはsingle契約だったと回想。選択インストファイルの工程説明ではない"
+      }
+    ],
+    "essayTitle": "Universal Magneticを裏返す。",
+    "deck": "同じ12インチのB面にも、インストが入っている。",
+    "essay": [
+      "RawkusのRWK138-1は、「Universal Magnetic」だけのレコードではない。B面には「If You Can Huh You Can Hear」があり、こちらにも歌入りとインストが並ぶ。先にA面を聴いていたなら、盤を裏返すつもりでこの版へ進んでみたい。",
+      "Shawn J.Periodも、Mosとこの両面の曲を作ったと回想している。当時のRawkusとの契約はシングルだけだったという。アルバムの前に、二つの曲が一枚にまとまった時期の話だ。"
+    ],
+    "essaySources": [
+      [
+        0
+      ],
+      [
+        3
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1997年のB2",
+        "text": "Chill原行のInst.指定を、1997年US原盤目録のB2へ対応させています。A面Universal MagneticやB面の歌入りと混同せず、それぞれ独立した曲・版として扱います。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "原シングルを明記する一般投稿",
+        "text": "選択はKaoZ BORnの4:06。説明に1997RawkusとUniversal Magneticのシングルを挙げています。4:02/4:04の一般インスト、14:23のExtended、2:02のRemake、432Hz表記の変更音源も比較しました。原B2尺は目録にないため同一マスターを断定せず、実音声・日本での再生可否も未確認。限定範囲で適合する公式インストは確認できていません。",
+        "sources": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "同じ原盤の配色を継ぐ",
+        "text": "アートは既存Universal Magneticで実見した同じ1997年12インチの炭黒・生成り・珊瑚色・白を継承。写真や原盤の署名は使わず文字を新たに描いています。Shawn J.Periodの回想は原曲制作への参加についてで、選択したインスト投稿自体の録音工程を説明するものではありません。サンプル名は補完していません。",
+        "sources": [
+          2,
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "既存Universal Magneticと並べ、同じ12インチのA/B両面という関係から聴く。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "1997年のRawkusシングルで「Universal Magnetic」と対になったB面曲のインストゥルメンタル。Shawn J.Periodによる両面曲制作の回想とともに、同じ一枚のレコードを別の面から辿ります。",
+    "art": {
+      "word": "IF YOU CAN HUH YOU CAN HEAR",
+      "tag": "INSTRUMENTAL / MOS DEF",
+      "style": "tag",
+      "seed": 2026102952,
+      "palette": [
+        "#272932",
+        "#E2D6B4",
+        "#C87875",
+        "#FFFFFF"
+      ],
+      "paletteSource": "1997 Rawkus RWK138-1 original12inch picture sleeve, prior UniversalMagnetic visual record2026-10-29JST inherited; not newly inspected.",
+      "paletteSourceUrl": "https://vinylcycle.com/?pid=170596339",
+      "paletteNote": "実見したジャケットの炭黒、生成り、くすんだ珊瑚色を目視で解釈。写真・原盤の署名は転用せず、平面の手描き文字として新規制作。"
+    },
+    "youtube": {
+      "id": "M3zqYx3iIV8",
+      "url": "https://www.youtube.com/watch?v=M3zqYx3iIV8",
+      "embedUrl": "https://www.youtube.com/embed/M3zqYx3iIV8",
+      "title": "Mos Def - If You Can Huh You Can Hear (Instrumental)",
+      "channel": "KaoZ BORn",
+      "type": "一般投稿 / Instrumental",
+      "official": false,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 246,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示1997Rawkus原single説明/Instrumental4:06、他inst4:02/4:04/extended/remake/432Hzを比較。原B2尺不明/同一master/実音声未確認。"
+    },
+    "datePublished": "2026-10-30",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 690
   }
 ]

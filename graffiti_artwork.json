@@ -15952,6 +15952,44 @@
         "sourceImage": "assets/graffiti/originals/black-star-respiration-instrumental-tag-original.png",
         "sourceSha256": "f60b5596900eb9cc1a2e28fa51442221da58375fc008fcf7d6235dd28c0de003"
       }
+    },
+    {
+      "id": "mos-def-if-you-can-huh-you-can-hear-instrumental",
+      "title": "If You Can Huh You Can Hear (Instrumental)",
+      "artist": "Mos Def",
+      "album": "The Universal Magnetic / If You Can Huh You Can Hear",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#272932",
+        "#E2D6B4",
+        "#C87875",
+        "#FFFFFF"
+      ],
+      "paletteSource": "1997 Rawkus RWK138-1 original12inch picture sleeve, prior UniversalMagnetic visual record2026-10-29JST inherited; not newly inspected.",
+      "paletteNote": "実見したジャケットの炭黒、生成り、くすんだ珊瑚色を目視で解釈。写真・原盤の署名は転用せず、平面の手描き文字として新規制作。",
+      "image": "assets/graffiti/mos-def-if-you-can-huh-you-can-hear-instrumental-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/mos-def-if-you-can-huh-you-can-hear-instrumental-tag-original.png",
+      "concept": "If You Can Huh You Can Hear / Instrumental / Mos Def の独自文字。既存同盤の確認済み配色を継承、写真や署名を複製しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          156,
+          63,
+          2063,
+          825
+        ],
+        "outputSha256": "d709ddcda72cbabb69d69b948667eadf9d7e06515a1a35ac2393421eb4291425",
+        "sourceImage": "assets/graffiti/originals/mos-def-if-you-can-huh-you-can-hear-instrumental-tag-original.png",
+        "sourceSha256": "5ca1c8b3ec1e053927c1b289410267bc7ec67b6fbfd8e733ea609b7fc7d99dc6"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
