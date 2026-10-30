@@ -16105,6 +16105,44 @@
         "sourceImage": "assets/graffiti/originals/common-i-want-you-tag-original.png",
         "sourceSha256": "84ab882126a725536a235dcda649a0fa3be1df8bed2586bc5347d64bb076c498"
       }
+    },
+    {
+      "id": "madlib-montara",
+      "title": "Montara",
+      "artist": "Madlib",
+      "album": "Shades of Blue",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#234c74",
+        "#7ba3bd",
+        "#b7c8ce",
+        "#dcd7bb"
+      ],
+      "paletteSource": "Shades of Blue / existing madlib-slims-return",
+      "paletteNote": "既存同盤のpaletteReviewed配色を継承した編集上近似。Blue Note本文で同盤関係確認、今回カバー新規実見なし。",
+      "image": "assets/graffiti/madlib-montara-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/madlib-montara-tag-original.png",
+      "concept": "Montara/Madlib独自文字。同盤で以前確認済みの配色を継承し、元ジャケットや人物を模写しない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          140,
+          62,
+          1849,
+          822
+        ],
+        "outputSha256": "31216b2c972c0b8c2ad4b141276183ca2bb51e072ff1c010665757d94f296e1e",
+        "sourceImage": "assets/graffiti/originals/madlib-montara-tag-original.png",
+        "sourceSha256": "b69d06182f0e137991cb3b013e9df5bc293bef97f757507a77d03df18856e581"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
