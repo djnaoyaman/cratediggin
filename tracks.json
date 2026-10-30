@@ -88945,9 +88945,14 @@
         "label": "Cut Chemist Suite — Ozomatli / Universal Music Group",
         "url": "https://www.youtube.com/watch?v=wYxOS26Y-KY",
         "kind": "公式音源の検索索引。1998 Almo Sounds、Ozomatli収録、Producer T-Ray/Ozomatli。直接実再生は未検証。"
+      },
+      {
+        "label": "Ozomatli — Cut Chemist Suite（指定映像）",
+        "url": "https://www.youtube.com/watch?v=bjb9i5r9inc",
+        "kind": "ユーザー指定URL。共有プレビューと独立ディスコグラフィの同ID記録で曲名・演者を照合。タイトルのOfficial表記だけで投稿者を公式認定しない。"
       }
     ],
-    "noteReviewedAt": "2026-10-29",
+    "noteReviewedAt": "2026-10-30",
     "listening": [],
     "art": {
       "word": "CUT CHEMIST SUITE",
@@ -88968,27 +88973,28 @@
       "paletteNote": "2026-10-29 23:27に実ジャケットを目視。濃いエメラルド/青緑の枠、黄緑・オリーブ・森林緑、オフホワイトと濃灰の編集近似。ロゴや写真コラージュは複製しない。"
     },
     "youtube": {
-      "id": "wYxOS26Y-KY",
-      "url": "https://www.youtube.com/watch?v=wYxOS26Y-KY",
-      "embedUrl": "https://www.youtube.com/embed/wYxOS26Y-KY",
-      "verified": "2026-10-29",
+      "id": "bjb9i5r9inc",
+      "url": "https://www.youtube.com/watch?v=bjb9i5r9inc",
+      "embedUrl": "https://www.youtube.com/embed/bjb9i5r9inc",
+      "verified": "2026-10-30",
       "playbackVerified": false,
       "embeddedPlaybackVerified": false,
       "japanPlaybackVerified": false,
       "exactMasterVerified": false,
-      "title": "Cut Chemist Suite",
-      "channel": "Ozomatli / Official Artist Channel",
-      "type": "UMG公式配信音源 / 1998 album",
-      "official": true,
+      "title": "Ozomatli - Cut Chemist Suite ©(Official Video)",
+      "channel": "投稿者未確認",
+      "type": "ユーザー指定プロモーション映像（投稿者の公式性未確認）",
+      "official": false,
       "metadataVerified": true,
-      "verification": "正規YouTube検索索引で曲名・演者・UMG・1998Almo・曲別producer確認。2003の21 Grams収録候補とは区別。動画そのものの表示尺・実再生・原盤マスター同一性は未検証。"
+      "version": "ユーザー指定プロモーション映像。原アルバムとの編集・マスター同一性は未確認。",
+      "verification": "共有プレビューおよび独立ディスコグラフィOnAMRecordsの同ID記録で曲名/演者対応を確認。通常watch初回取得失敗、再試行なし。投稿者の公式性、実尺、実再生、日本、埋込可否は未確認。"
     },
-    "producerBasis": "選択UMG公式音源の索引がProducer T-Ray、Producer Ozomatliと明記。題名からCut Chemist単独制作とは推測しない。",
+    "producerBasis": "原アルバムのUMG公式配信wYxOS26Y-KY索引がProducer T-Ray、Producer Ozomatliと明記。今回のユーザー指定映像固有のクレジットを確認したものではない。",
     "essayTitle": "名前の付いた曲を、バンドの側から。",
     "deck": "Cut Chemistという名前から、Ozomatliの1998年のデビュー盤へ。",
     "essay": [
       "Cut Chemistの公式プロフィールには、Jurassic 5と並んでOzomatliの創設メンバーだったことが記されている。そのバンドのデビュー盤にあるのが「Cut Chemist Suite」。ソロ名義を追っていた耳を、もう一つのグループのレコードへ向ける一曲だ。",
-      "曲名にある名前と、制作クレジットは同じとは限らない。選んだ公式配信には、プロデューサーとしてT-RayとOzomatliが並ぶ。Cut Chemistの仕事をたどりつつ、ここではOzomatliの作品として、その二つの名義も一緒に残しておきたい。"
+      "曲名にある名前と、制作クレジットは同じとは限らない。原アルバムの公式配信には、プロデューサーとしてT-RayとOzomatliが並ぶ。Cut Chemistの仕事をたどりつつ、ここではOzomatliの作品として、その二つの名義も一緒に残しておきたい。"
     ],
     "essaySources": [
       [
@@ -89011,17 +89017,17 @@
       },
       {
         "title": "T-RayとOzomatliの制作名義",
-        "text": "選択したUMG配信のProducer欄はT-RayとOzomatli。Cut Chemistの創設参加というプロフィール情報と、この曲の制作名義は分けて記載しています。",
+        "text": "原アルバムのUMG配信のProducer欄はT-RayとOzomatli。Cut Chemistの創設参加というプロフィール情報と、この曲の制作名義は分けて記載しています。",
         "sources": [
           2,
           3
         ]
       },
       {
-        "title": "選択した音源",
-        "text": "1998年のアルバムを示す公式配信を掲載しています。2003年の映画サウンドトラック収録候補は採用していません。動画の表示尺、日本での再生可否、原盤との同一マスターは未確認です。",
+        "title": "選択した映像",
+        "text": "ユーザー指定のプロモーション映像を掲載しています。投稿者の公式性、実再生、日本での再生可否、原アルバムとの編集・マスター同一性は未確認です。",
         "sources": [
-          3
+          4
         ]
       }
     ],
