@@ -89160,5 +89160,137 @@
     ],
     "datePublished": "2026-10-30",
     "addedOrder": 683
+  },
+  {
+    "id": "lootpack-hityawitdat",
+    "title": "Hityawitdat",
+    "artist": "Lootpack",
+    "primaryArtist": "Lootpack",
+    "primaryArtists": [
+      "Lootpack"
+    ],
+    "artists": [
+      "Lootpack"
+    ],
+    "album": "Soundpieces: Da Antidote!",
+    "year": 1999,
+    "yearStatus": "verified",
+    "yearBasis": "公式MV説明とStonesThrow再発記事が1999年のSoundpieces収録曲と明記。1998映像制作/2004phonogram/2022配信更新を発売年に転用しない。",
+    "region": "Oxnard",
+    "regionBasis": "公式MED本人取材でLAでなくcrewのOxnard California出身/活動文脈を説明。Wildchild本人取材のOxnard起源とも照合し、既存Lootpack地域表記を維持。全員の出生地や当曲録音地とはしない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Hityawitdat official music video — Stones Throw",
+        "url": "https://www.youtube.com/watch?v=rRxdyftPVeo",
+        "kind": "認証済みレーベル投稿の実表示。説明に1999アルバムとWildchildによる1998映像制作を明記、3:29"
+      },
+      {
+        "label": "Lootpack Soundpieces: Da Antidote! — Stones Throw",
+        "url": "https://www.stonesthrow.com/news/lootpack-soundpieces-da-antidote/",
+        "kind": "公式2012再発紹介、原作1999年とMadlibのアルバム制作を確認"
+      },
+      {
+        "label": "MED Interview — Stones Throw",
+        "url": "https://www.stonesthrow.com/news/med-interview/",
+        "kind": "公式本人取材全文。MED/Medaphoar名義の対応、crewのOxnard地域を確認。別曲の制作意図を当曲へ移さない"
+      },
+      {
+        "label": "Wildchild in The Source — Stones Throw",
+        "url": "https://www.stonesthrow.com/news/wildchild-in-the-source/",
+        "kind": "本人取材のレーベル再掲全文。Oxnardの活動起源を補助確認"
+      },
+      {
+        "label": "Hityawitdat — Lootpack Topic",
+        "url": "https://www.youtube.com/watch?v=CVkl5lQXkRM",
+        "kind": "StonesThrow提供の公式標準アルバム音源3:13。MV3:29・一般アルバム3:14と比較"
+      }
+    ],
+    "essayTitle": "映像を作ったのは、Wildchild。",
+    "deck": "1998年の映像と、1999年のSoundpiecesを並べて見る。",
+    "essay": [
+      "「Hityawitdat」の公式映像は、Wildchildが1998年に作ったものだという。Stones Throwの投稿説明に、その短い一文が残っている。翌1999年のSoundpieces: Da Antidote!を聴くとき、声だけでなく映像の側にもメンバー自身が関わっていたことを覚えておきたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ]
+    ],
+    "facts": [
+      {
+        "title": "映像の年と、アルバムの年",
+        "text": "1998年は公式説明にある映像制作年です。原作年は公式レーベルが示す1999年を採用し、映像が制作されたことだけで1998年に商業発売済みだったとは扱いません。配信の2004年phonogram表記や2022年の投稿時点とも分けています。",
+        "sources": [
+          0,
+          1,
+          4
+        ]
+      },
+      {
+        "title": "公式MVを選ぶ",
+        "text": "再生元はStones Throw公式MVの3:29。公式Topicのアルバム音源3:13、一般アルバム投稿3:14も比較しました。MVにリミックスやライブなど別版の明示はなく、同曲の公式映像を優先しています。尺差が映像前後の余白によるかは未確認です。実音声・日本での再生可否、アルバム版との同一マスターは確認していません。",
+        "sources": [
+          0,
+          4
+        ]
+      },
+      {
+        "title": "同じアルバムの色を継ぐ",
+        "text": "MADLIB TRADEMARKSOUND SERIES VOL.1の原行2:08はミックス内尺として保持。アートは既存Whenimondamicで2026年10月17日に確認したSoundpiecesの青・赤・黄を継承し、赤を中心に再構成しました。今回新たにジャケットを目視したものではありません。",
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "Wildchild自身が制作した映像と曲を一緒に見る。"
+    ],
+    "collections": [
+      "west"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "LootpackはMadlib、Wildchild、DJ Romesによるグループ。この曲は1999年の『Soundpieces: Da Antidote!』に収められ、Wildchildが手がけた映像とともに紹介されています。",
+    "art": {
+      "word": "HITYAWITDAT",
+      "tag": "LOOTPACK",
+      "style": "blockbuster",
+      "seed": 2026102946,
+      "palette": [
+        "#2455a0",
+        "#d82d2a",
+        "#e9be35"
+      ],
+      "paletteSource": "Soundpieces: Da Antidote! inherited from lootpack-whenimondamic, prior visual confirmation2026-10-17, not new image inspection.",
+      "paletteNote": "同アルバムの確認済み青・赤・黄を編集近似として継承。既存ロゴや人物/構図は複製しない。"
+    },
+    "youtube": {
+      "id": "rRxdyftPVeo",
+      "url": "https://www.youtube.com/watch?v=rRxdyftPVeo",
+      "embedUrl": "https://www.youtube.com/embed/rRxdyftPVeo",
+      "title": "Madlib / Lootpack - Hityawitdat",
+      "channel": "Stones Throw",
+      "type": "公式ミュージックビデオ",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 209,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "認証済StonesThrow公式MV3:29/説明Wildchild1998制作を実表示確認。Topic3:13/一般album3:14も比較、別remix/live明示なしの公式MVを優先。尺差原因・実音声・同一masterは未確認。"
+    },
+    "datePublished": "2026-10-30",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 684
   }
 ]
