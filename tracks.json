@@ -89716,5 +89716,126 @@
     ],
     "producer": "Madlib",
     "addedOrder": 687
+  },
+  {
+    "id": "fugees-ready-or-not-instrumental",
+    "title": "Ready or Not (Instrumental)",
+    "artist": "Fugees",
+    "primaryArtist": "Fugees",
+    "primaryArtists": [
+      "Fugees"
+    ],
+    "artists": [
+      "Fugees"
+    ],
+    "album": "Ready or Not (1996 single)",
+    "year": 1996,
+    "yearStatus": "verified",
+    "yearBasis": "1996US promoCAS8462現物目録A2 LPInstrumental4:07を確認。歌入りアルバム年のみから転用していない。",
+    "region": "New Jersey",
+    "regionBasis": "既存Fugeesの活動地域を継承。本人取材のJersey/Brooklyn個人史を全員の出生地へ拡張しない。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Ready or Not US promo — Source Records",
+        "url": "https://www.sourcerecords.jp/product/8897",
+        "kind": "1996CAS8462現物目録全文、A2 LPInstrumental4:07/B2SalaamRemixInstrumental4:25を分離"
+      },
+      {
+        "label": "Nine Songs: Wyclef Jean — The Line of Best Fit",
+        "url": "https://www.thelineofbestfit.com/features/interviews/nine-songs-wyclef-jean",
+        "kind": "本人取材全文。叔父の家でEnyaのハミングを速めループを作りLauryn参加前にビート制作したと当曲について回想。歌詞引用なし"
+      },
+      {
+        "label": "Ready Or Not Instrumental — Crucial Mixtapes",
+        "url": "https://www.youtube.com/watch?v=KXPy00L1ecM",
+        "kind": "一般投稿の実表示4:09/1996説明/Instrumental。remixやremake表示なし、複数一般instと比較。原マスター同一未確認"
+      }
+    ],
+    "essayTitle": "ハミングが、ビートの輪郭になる。",
+    "deck": "Wyclefの回想を手がかりに、リードの声を外した版へ。",
+    "essay": [
+      "Wyclef Jeanは「Ready or Not」のビートを、叔父の家の小さな部屋で作ったと振り返っている。Enyaのハミングを速め、ループにした段階では、まだLaurynのフックは加わっていなかったという。インストを聴くときも、声がすべて消えると考えるより、声の素材がビートの中に残ることへ意識を向けたい。"
+    ],
+    "essaySources": [
+      [
+        1
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1996年のLP Instrumental",
+        "text": "原リストはReady Or Not (Inst.)。1996年USプロモ盤A2のLP Instrumentalを参照し、B2のSalaam Remix Instrumental、既存の歌入り記事と分けています。アルバムThe Scoreの年だけからインスト発売年を推測したものではありません。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "一般投稿の版対応には留保を",
+        "text": "選択はCrucial MixtapesのInstrumental4:09、1996年と説明する一般投稿。物理目録のLP Instrumentalは4:07です。4:15/4:03/4:17の一般インスト、3:48のBeatOnlyも比較しました。投稿にremixやrebuildの表示はありませんが、原盤との同一マスターや編集の有無までは未確認です。限定した検索範囲では適合する公式インスト投稿を確認できていません。実音声・日本での再生可否も未確認です。",
+        "sources": [
+          0,
+          2
+        ]
+      },
+      {
+        "title": "曲の回想と、選択音源を分ける",
+        "text": "Wyclefの話は原曲の制作についての証言で、この投稿ファイル自体を説明したものではありません。投稿者の制作人員一覧から全員の役割を確定せず、構造化した制作欄は未登録。配色は既存Ready or Notで2026年10月17日に確認したThe Scoreの銅色・茶・淡茶・黒を継承し、選択シングルの原ジャケットとは区別しています。",
+        "sources": [
+          1,
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [
+      "リードのラップや歌と、ビートに組み込まれた声の素材を分けて耳を向ける。"
+    ],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "1996年のUSプロモ盤に収められたLP Instrumentalを参照する一曲。歌入り版やSalaam Remixのインストとは分け、ビートの中に組み込まれた声の素材にも耳を向けます。",
+    "art": {
+      "word": "READY OR NOT",
+      "tag": "LP INSTRUMENTAL / FUGEES",
+      "style": "piece",
+      "seed": 2026102950,
+      "palette": [
+        "#bd823d",
+        "#936048",
+        "#cfac89",
+        "#151718"
+      ],
+      "paletteSource": "The Score, inherited from fugees-ready-or-not, prior actual visual record2026-10-17; not newly inspected.",
+      "paletteNote": "原曲アルバムの確認済み銅色・茶・淡茶・黒を継承した編集近似。選択singleの写真を新規確認とはしない。"
+    },
+    "youtube": {
+      "id": "KXPy00L1ecM",
+      "url": "https://www.youtube.com/watch?v=KXPy00L1ecM",
+      "embedUrl": "https://www.youtube.com/embed/KXPy00L1ecM",
+      "title": "Fugees - Ready Or Not [Instrumental]",
+      "channel": "Crucial Mixtapes",
+      "type": "一般投稿 / Instrumental",
+      "official": false,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "durationSeconds": 249,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実表示Instrumental/1996説明/4:09確認、原盤A2LPInstrumental4:07と比較。複数一般inst/BeatOnly/別Salaamremixを区別。原master同一・実音声未確認。"
+    },
+    "datePublished": "2026-10-30",
+    "noteReviewedAt": "2026-10-29",
+    "addedOrder": 688
   }
 ]
