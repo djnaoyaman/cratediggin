@@ -167,8 +167,8 @@ jobs:
         with:
           name: current-song-visual-review
           path: |
-            /tmp/external-audio-illa-j-sounds-like-love-390.png
-            /tmp/external-audio-illa-j-sounds-like-love-1280.png
+            /tmp/external-audio-heavy-d-the-boyz-here-comes-the-heavster-390.png
+            /tmp/external-audio-heavy-d-the-boyz-here-comes-the-heavster-1280.png
           if-no-files-found: error
       - name: Save Cut Chemist photo review
         if: always() && steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none'
