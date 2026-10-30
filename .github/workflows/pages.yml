@@ -167,8 +167,8 @@ jobs:
         with:
           name: current-song-visual-review
           path: |
-            /tmp/external-audio-black-star-respiration-instrumental-390.png
-            /tmp/external-audio-black-star-respiration-instrumental-1280.png
+            /tmp/external-audio-mos-def-if-you-can-huh-you-can-hear-instrumental-390.png
+            /tmp/external-audio-mos-def-if-you-can-huh-you-can-hear-instrumental-1280.png
           if-no-files-found: error
       - name: Save Cut Chemist photo review
         if: always() && steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none'
