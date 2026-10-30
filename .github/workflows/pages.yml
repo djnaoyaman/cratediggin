@@ -167,8 +167,8 @@ jobs:
         with:
           name: current-song-visual-review
           path: |
-            /tmp/external-audio-black-star-respiration-390.png
-            /tmp/external-audio-black-star-respiration-1280.png
+            /tmp/external-audio-bas-blasta-dangerous-instrumental-390.png
+            /tmp/external-audio-bas-blasta-dangerous-instrumental-1280.png
           if-no-files-found: error
       - name: Save Cut Chemist photo review
         if: always() && steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none'
