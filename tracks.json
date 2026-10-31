@@ -91919,5 +91919,92 @@
     "noteReviewedAt": "2026-10-31",
     "datePublished": "2026-10-31",
     "addedOrder": 704
+  },
+  {
+    "id": "med-listen-2-this",
+    "title": "Listen 2 This",
+    "artist": "MED",
+    "primaryArtist": "MED",
+    "primaryArtists": [
+      "MED"
+    ],
+    "artists": [
+      "MED"
+    ],
+    "featuredArtists": [],
+    "album": "Push Comes To Shove",
+    "year": 2005,
+    "yearBasis": "既存Cant Hold Onの保存済みStones Throw配信情報が示す2005年と、公式STH2108曲目の当該曲収録で照合。先行単独盤の初出まで確定する資料ではない。",
+    "region": "West Coast",
+    "scene": "カリフォルニア／Oxnard",
+    "regionBasis": "既存MED本人2002年インタビューの保存済み地域根拠を継承。",
+    "category": "Hip Hop",
+    "label": "Stones Throw",
+    "moods": [
+      "ラップ"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しません。",
+    "sounds": [],
+    "listening": [],
+    "sources": [
+      {
+        "label": "Stones Throw — Push Comes To Shove",
+        "url": "https://www.stonesthrow.com/store/push-comes-to-shove/",
+        "kind": "レーベル公式STH2108曲目を直接確認。Listen 2 ThisとCant Hold Onの同盤収録。"
+      },
+      {
+        "label": "MED interview, 2002",
+        "url": "https://www.stonesthrow.com/news/med-interview/",
+        "kind": "既存掲載曲で確認済みの本人取材。今回新規直接取得ではない。"
+      }
+    ],
+    "essayTitle": "MEDのデビュー盤から、Listen 2 This。",
+    "deck": "Push Comes To Shoveに収められたMEDの一曲。",
+    "essay": [
+      "「Listen 2 This」は、MEDのデビュー・アルバム『Push Comes To Shove』に収録されている。同じ盤には「Cant Hold On」や、Oh Noを迎えた「Serious」も並ぶ。"
+    ],
+    "essaySources": [
+      [
+        0
+      ]
+    ],
+    "facts": [
+      {
+        "title": "収録作品",
+        "text": "Stones Throwの公式曲目に「Listen 2 This」とMEDの名義が記載されています。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "editorialStatus": "音源照合中。適合する単曲動画を確認できていないため、再生欄は未設定です。",
+    "context": "MEDのPush Comes To Shove収録曲。",
+    "art": {
+      "palette": [
+        "#16473e",
+        "#f2f6f1",
+        "#171f1c",
+        "#a37762"
+      ],
+      "paletteSource": "MED — Push Comes To Shove (2005)",
+      "paletteSourceUrl": "https://www.stonesthrow.com/store/push-comes-to-shove/",
+      "paletteNote": "既存Cant Hold Onで実見済みの同STH2108盤配色を継承。公式曲目で同盤を直接確認、今回新規ジャケット実見なし。",
+      "word": "LISTEN 2 THIS",
+      "tag": "MED",
+      "style": "piece",
+      "seed": 20261031712
+    },
+    "youtube": {
+      "id": null,
+      "type": "未設定",
+      "official": false
+    },
+    "noteReviewedAt": "2026-10-31",
+    "datePublished": "2026-10-31",
+    "addedOrder": 705
   }
 ]
