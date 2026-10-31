@@ -72,7 +72,7 @@
   if(metadataCache.has(key)){setStructuredData(metadataCache.get(key),key);return;}
   document.querySelectorAll('script[type="application/ld+json"]').forEach(x=>x.remove());
   delete document.documentElement.dataset.metadataRoute;
-  fetch(p.metadataPath+'?v='+encodeURIComponent(window.CRATE_RELEASE?.version||''))
+  fetch(p.metadataPath+'?v='+encodeURIComponent(p.modified||window.CRATE_RELEASE?.version||''))
    .then(response=>{if(!response.ok)throw Error('Metadata unavailable');return response.json();})
    .then(data=>{metadataCache.set(key,data.jsonld);if(request===metadataRequest)setStructuredData(data.jsonld,key);})
    .catch(()=>{});
