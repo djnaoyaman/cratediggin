@@ -104,6 +104,7 @@ jobs:
           server=$!
           trap 'kill "$server"' EXIT
           node scripts/verify_profile_independent.cjs
+          node scripts/verify_compact_editor_footer.cjs
           node scripts/verify_site_update_dates_browser.cjs
           node scripts/verify_hybrid_overlay_browser.cjs
           node scripts/verify_seek_browser.cjs
@@ -156,6 +157,15 @@ jobs:
           path: |
             /tmp/site-update-*.png
             /tmp/site-update-report.json
+          if-no-files-found: error
+      - name: Save compact editor footer review
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: compact-editor-footer-review
+          path: |
+            /tmp/compact-editor-footer-*.png
+            /tmp/compact-editor-footer-report.json
           if-no-files-found: error
       - name: Save compact profile review
         if: always()
