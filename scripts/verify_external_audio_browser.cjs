@@ -23,7 +23,9 @@ for(const fixture of fixtures)for(const width of [390,1280]){
  if(['j-dilla-crushin','j-dilla-shouts','company-flow-eight-steps-to-perfection'].includes(fixture.id)){
   assert.equal(await page.evaluate(id=>window.TRACKS.find(t=>t.id===id).year,fixture.id),null);
   assert((await page.locator('#view').innerText()).includes('発表年未確認'));
-  assert((await page.locator('#view').innerText()).includes('2007年'));
+  const selectedYear={'j-dilla-crushin':2007,'j-dilla-shouts':2007,'company-flow-eight-steps-to-perfection':1997}[fixture.id];
+  assert.equal(await page.evaluate(id=>window.TRACKS.find(t=>t.id===id).selectedRelease.year,fixture.id),selectedYear);
+  assert((await page.locator('#view').innerText()).includes(selectedYear+'年'));
   const fs=require('node:fs'),doc=fs.readFileSync('dist/tracks/'+fixture.id+'.html','utf8');assert(doc.includes('発表年未確認'));
   const blocks=[...doc.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].map(m=>JSON.parse(m[1]));
   const nodes=blocks.flatMap(x=>x['@graph']||[x]),rec=nodes.find(x=>x['@type']==='MusicRecording');assert(rec);assert(!('datePublished' in rec));
