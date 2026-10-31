@@ -16569,6 +16569,45 @@
         "sourceImage": "assets/graffiti/originals/med-listen-2-this-tag-original.png",
         "sourceSha256": "c186dcec78e962e38330f992958c97f46817bec99d3c7990825c3617f632b207"
       }
+    },
+    {
+      "id": "company-flow-eight-steps-to-perfection",
+      "title": "8 Steps to Perfection",
+      "artist": "Company Flow",
+      "album": "Funcrusher Plus",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#7562B4",
+        "#A94D31",
+        "#E2CE58",
+        "#171B20",
+        "#F0E9D0"
+      ],
+      "paletteSource": "Funcrusher Plus — previously inspected physical sleeve",
+      "paletteNote": "既存Vital Nerve制作時の同盤カバー保存画像を2026-11-01 JSTに再実見。紫・錆橙・黄・黒・薄クリームの目視近似。EPの色とは主張せず、絵柄を模倣しない。",
+      "image": "assets/graffiti/company-flow-eight-steps-to-perfection-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/company-flow-eight-steps-to-perfection-tag-original.png",
+      "concept": "8 STEPS TO PERFECTION / COMPANY FLOW独自文字。選択Funcrusher Plusの実見済み配色を継承。聴感や作者の意図の断定ではない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          139,
+          65,
+          1842,
+          858
+        ],
+        "outputSha256": "c8302bddd64f7a0f7a8b3c55a675e67daed7fb92b0fae7e9157066537f709df8",
+        "sourceImage": "assets/graffiti/originals/company-flow-eight-steps-to-perfection-tag-original.png",
+        "sourceSha256": "7cb1d0403b11bb21a464d0d0e3bfcba62459dcdd02bd3e58fbcde89cd3d22475"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
