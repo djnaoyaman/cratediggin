@@ -148,6 +148,11 @@ def build(root,cache,selected,full_runner=None,client_runner=None,profile_runner
         if 'profile' in selected['stages'] or 'full' in selected['stages']:profile_runner(root)
         if 'client' in selected['stages'] or 'full' in selected['stages']:bust_assets(root/'dist',['app.js'])
         if 'assets' in selected['stages']:bust_assets(root/'dist',[Path(n).name for n in selected['inputs']['assets']])
+    # Metadata-only finalization also runs after incremental stages; no image/music work.
+    sys.path.insert(0, str(root))
+    from site_update_dates import finalize_update_dates
+    finalize_update_dates(root, root/'dist', set().union(*(set(v) for v in selected['inputs'].values())))
+    bust_assets(root/'dist', ['metadata.js'])
     report={**selected,'elapsed_seconds':round(time.monotonic()-start,3),'image_processing':'full build only' if 'full' in selected['stages'] else 'not executed','music_generation':'executed' if 'full' in selected['stages'] else 'not executed'}
     return report
 

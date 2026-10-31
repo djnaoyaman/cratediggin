@@ -44,6 +44,8 @@ jobs:
         run: python scripts/build_pipeline.py plan --github-output "$GITHUB_OUTPUT"
       - name: Test build isolation and cache integrity
         run: python -m unittest discover -s scripts -p test_build_pipeline.py -v
+      - name: Verify truthful site and profile update dates
+        run: python -m unittest discover -s scripts -p test_site_update_dates.py -v
       - name: Verify explicit unknown release metadata contracts
         run: python -m unittest discover -s scripts -p test_unknown_release_metadata.py -v
       - name: Preserve analytics, storage and player behavior when affected
@@ -97,6 +99,7 @@ jobs:
           server=$!
           trap 'kill "$server"' EXIT
           node scripts/verify_profile_independent.cjs
+          node scripts/verify_site_update_dates_browser.cjs
           node scripts/verify_hybrid_overlay_browser.cjs
           node scripts/verify_seek_browser.cjs
           node scripts/verify_unknown_release_metadata_browser.cjs
@@ -149,6 +152,8 @@ jobs:
             /tmp/build-plan.json
             /tmp/build-plan.json.report.json
             /tmp/editor-profile-independent-*.png
+            /tmp/site-update-*.png
+            /tmp/site-update-report.json
             /tmp/hybrid-overlay-*.png
             /tmp/hybrid-overlay-report.json
             /tmp/seek-*.png

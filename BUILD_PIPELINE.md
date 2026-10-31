@@ -18,3 +18,9 @@ Unknown production inputs conservatively select a full build. Input deletion is 
 The workflow validates the current authored biography, links, SEO, images, JavaScript syntax and direct/SPA navigation. It no longer uses old fixed paragraph/song counts or byte-identical historical workflow snapshots as gates for unrelated content updates. Those historical verifiers remain in the repository for reference. Deployment stays restricted to the current `main` SHA, excludes pull requests and keeps the patched Node runtime and existing deployment permissions.
 
 Tests: `python -m unittest discover -s scripts -p test_build_pipeline.py`; `python scripts/validate_site.py`; `node scripts/verify_profile_independent.cjs` against the local preview server.
+
+## Update-date provenance
+
+After every full or incremental build, `site_update_dates.py` synchronizes a visibly labelled site-wide last-update date, the home WebSite metadata and its sitemap entry. The date comes from the latest Git commit changing production inputs, never the build clock; documentation-only and CI-configuration-only commits and repeat deployments do not advance it. Display dates use Japan time while machine values retain an explicit timezone offset.
+
+The independent profile page additionally synchronizes its own source revision across static HTML, SPA payload, initial/shared JSON-LD and sitemap. Existing per-record article `dateModified`, original `datePublished`, research-review dates and the major-version history remain separate and unchanged. A shared footer date is not an assertion that every article was re-edited. Date finalization does not regenerate music or images; metadata cache keys reflect the synchronized revision.
