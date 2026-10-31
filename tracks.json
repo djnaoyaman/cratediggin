@@ -91553,5 +91553,145 @@
       "verification": "Indexed UMG Topic matches performer/title/Blue Funk/1993 MCA and DJ Premier production. Apple direct title/artist/album/year agrees. Initial normal watch returned Cache miss; no retry. Actual video runtime/playback/JP/embed/master remain unverified. No contradictory remix/live label observed."
     },
     "addedOrder": 701
+  },
+  {
+    "id": "j-dilla-crushin",
+    "title": "Crushin' (Yeeeeaah!)",
+    "artist": "J Dilla",
+    "primaryArtist": "J Dilla",
+    "primaryArtists": [
+      "J Dilla"
+    ],
+    "artists": [
+      "J Dilla"
+    ],
+    "featuredArtists": [],
+    "album": "Ruff Draft",
+    "year": null,
+    "yearStatus": "unconfirmed",
+    "yearDisplayNote": "選択音源は2007年のStones Throw再発版です。この曲の初出年は照合中です。",
+    "yearBasis": "初出年は照合中。公式2007年再発の曲目と選択配信の対応は確認済み。2003年原EPの曲別収録を一次資料で確定していないため、2003年も2007年も初出として登録しない。",
+    "region": "Detroit",
+    "regionBasis": "Stones Throw公式の制作史が2002年末のClinton Township（Detroit郊外）での録音と説明。出生地ではなく制作拠点。",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ",
+      "ディギング"
+    ],
+    "label": "Stones Throw",
+    "producer": "J Dilla",
+    "datePublished": "2026-10-31",
+    "noteReviewedAt": "2026-10-31",
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しません。",
+    "sounds": [],
+    "listening": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "sources": [
+      {
+        "label": "Stones Throw — Ruff Draft",
+        "url": "https://www.stonesthrow.com/store/ruff-draft/",
+        "kind": "レーベル公式。録音と原EP・再発の制作史。"
+      },
+      {
+        "label": "Stones Throw — J Dilla’s Ruff Draft",
+        "url": "https://www.stonesthrow.com/news/jdilla-ruff-draft/",
+        "kind": "レーベル公式本文。2002年末の録音、2003年EPと2007年再マスタリング、2018年別ミックスの区別。"
+      },
+      {
+        "label": "J Dilla — Ruff Draft, official Bandcamp",
+        "url": "https://dilla.bandcamp.com/album/ruff-draft",
+        "kind": "公式曲目本文。2007年版track9当該曲、track10 Shouts、track14 Shouts (Alt.)を区別。"
+      },
+      {
+        "label": "Crushin’ (Yeeeeaah!) — J Dilla - Topic",
+        "url": "https://www.youtube.com/watch?v=NGl42WyGYYs",
+        "kind": "Stones Throw提供の検索メタデータ。2007年Ruff DraftとJ Dilla制作。動画の実再生は未検証。"
+      },
+      {
+        "label": "Stones Throw — Dirty Crushin",
+        "url": "https://www.stonesthrow.com/store/dirty-crushin/",
+        "kind": "レーベル公式の検索本文。別のdirtyプロモ版と本来のclean版を区別。"
+      }
+    ],
+    "essayTitle": "2007年のRuff Draftで聴く、Crushin’。",
+    "deck": "原盤と再発、別ミックスを分けてたどるRuff Draft。",
+    "essay": [
+      "「Crushin’ (Yeeeeaah!)」は、Stones Throwによる2007年版『Ruff Draft』の9曲目。2002年末の録音をもとにした小さなEPは、2003年にMummy RecordsとGroove Attackから出ている。2007年の再発では原マスターテープへ戻り、未発表曲を加えて作品が組み直された。",
+      "ここで選んだのは、2007年の標準アルバム音源。同じレーベルのプロモーション盤「Dirty Crushin」や、2018年に出た別ミックスとは分けて聴く。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        1,
+        3,
+        4
+      ]
+    ],
+    "facts": [
+      {
+        "title": "2007年版の収録曲",
+        "text": "公式曲目では「Crushin’ (Yeeeeaah!)」が9曲目。制作クレジットはJ Dillaです。",
+        "sources": [
+          2,
+          3
+        ]
+      },
+      {
+        "title": "別プロモ版との区別",
+        "text": "レーベルは別途「Dirty Crushin」をプロモーション用のdirty版として紹介しています。ここでは2007年のRuff Draft標準アルバム音源を選んでいます。",
+        "sources": [
+          3,
+          4
+        ]
+      },
+      {
+        "title": "音源の確認状況",
+        "text": "Stones Throw提供のTopic配信情報を照合。実再生・日本からの再生可否は未確認です。",
+        "sources": [
+          3
+        ]
+      }
+    ],
+    "context": "原マスターテープから整えられた2007年のRuff Draft再発版に収録。原EPや2018年の別ミックスとは版を分けて掲載しています。",
+    "art": {
+      "palette": [
+        "#a48258",
+        "#c0a078",
+        "#2a2318",
+        "#dedbd3",
+        "#806347"
+      ],
+      "paletteSource": "Current official Stones Throw STH2153 product artwork",
+      "paletteSourceUrl": "https://www.stonesthrow.com/store/ruff-draft/",
+      "paletteNote": "既存Let’s Take It Backで実見済みの同STH2153商品配色を継承。公式2007年版曲目で橋渡し。今回カバー新規実見なし、2003原盤スリーブの再現ではない。",
+      "word": "CRUSHIN' (Yeeeeaah!)",
+      "tag": "J DILLA",
+      "style": "piece",
+      "seed": 20261031709
+    },
+    "youtube": {
+      "id": "NGl42WyGYYs",
+      "url": "https://www.youtube.com/watch?v=NGl42WyGYYs",
+      "embedUrl": "https://www.youtube.com/embed/NGl42WyGYYs",
+      "title": "Crushin' (Yeeeeaah!)",
+      "channel": "J Dilla - Topic",
+      "official": true,
+      "type": "Stones Throw提供Topicアルバム音源",
+      "metadataVerified": true,
+      "verified": "2026-10-30",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "Indexed Stones Throw provider metadata matches artist/title/Ruff Draft2007/J Dilla producer, direct official Bandcamp track9. Initial watch Error fetching; no retry. Duration/playback/JP/embed/master identity unverified. DirtyCrushin and DillasMix excluded."
+    },
+    "addedOrder": 702
   }
 ]
