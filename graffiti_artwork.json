@@ -16415,6 +16415,45 @@
         "sourceImage": "assets/graffiti/originals/heavy-d-the-boyz-here-comes-the-heavster-tag-original.png",
         "sourceSha256": "941f7d25fadccd1d11ba08b6518c362956b5b499a23e72daff9b2683debdf20d"
       }
+    },
+    {
+      "id": "j-dilla-crushin",
+      "title": "Crushin' (Yeeeeaah!)",
+      "artist": "J Dilla",
+      "album": "Ruff Draft",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#a48258",
+        "#c0a078",
+        "#2a2318",
+        "#dedbd3",
+        "#806347"
+      ],
+      "paletteSource": "Current official Stones Throw STH2153 product artwork",
+      "paletteNote": "既存Let’s Take It Backで実見済みの同STH2153商品配色を継承。公式2007年版曲目で橋渡し。今回カバー新規実見なし、2003原盤スリーブの再現ではない。",
+      "image": "assets/graffiti/j-dilla-crushin-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/j-dilla-crushin-tag-original.png",
+      "concept": "CRUSHIN / Yeeeeaah / J DILLA独自文字。同STH2153の以前実見済み配色のみ継承。聴感や作者の意図の断定ではない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          139,
+          67,
+          1835,
+          884
+        ],
+        "outputSha256": "60b75b970163d3013fb8f24793220ca62fec2f19eba3fa17aefe8416f1b4a092",
+        "sourceImage": "assets/graffiti/originals/j-dilla-crushin-tag-original.png",
+        "sourceSha256": "1c6b2fc8d70b7452236e3327f1e1113fe3f574a16c80faf334f7a7725b906e4e"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
