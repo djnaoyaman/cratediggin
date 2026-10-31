@@ -17,19 +17,21 @@ def render(root, dist, host):
     page = dist/'editor.html'
     if not page.is_file():
         raise ValueError('A validated site shell is required before an independent profile build')
-    text = page.read_text(encoding='utf-8')
+    text = re.sub(r'<section class="manifesto">.*?</section>', '', page.read_text(encoding='utf-8'), count=1, flags=re.S)
     text, count = re.subn(r'(<main id="view"[^>]*>).*?(</main>)', lambda m:m[1]+body+m[2], text, count=1, flags=re.S)
     if count != 1:
         raise ValueError('Missing native profile container')
     title = data['name']+' — 編者紹介 / CRATEDIGGIN’'
-    description = 'CRATE DIGGIN’の選曲・編集を行う'+data['name']+'（'+data['realName']+'）のプロフィール。'
+    description = data.get('description', 'CRATE DIGGIN’の選曲・編集を行う'+data['name']+'。')
     metadata = {'title':title,'description':description,'url':host.rstrip('/')+'/editor.html'}
     def refresh_graph(match):
         graph=json.loads(match[1])
         if not any(n.get('@type')=='ProfilePage' for n in graph.get('@graph',[])):return match[0]
         for node in graph.get('@graph',[]):
             if node.get('@type')=='ProfilePage':
-                node['mainEntity']['name']=data['name'];node['mainEntity']['alternateName']=data['realName']
+                node['mainEntity']['name']=data['name']
+                node['mainEntity'].pop('alternateName',None)
+                node['mainEntity']['sameAs']=[data.get('authorUrl','https://djnaoyaman.github.io/profile.html')]
         metadata['jsonld']=graph
         return '<script type="application/ld+json">'+json.dumps(graph,ensure_ascii=False).replace('<','\\u003c')+'</script>'
     text=re.sub(r'<script type="application/ld\+json">(.*?)</script>',refresh_graph,text,flags=re.S)

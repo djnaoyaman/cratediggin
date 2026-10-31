@@ -46,6 +46,8 @@ jobs:
         run: python -m unittest discover -s scripts -p test_build_pipeline.py -v
       - name: Verify truthful site and profile update dates
         run: python -m unittest discover -s scripts -p test_site_update_dates.py -v
+      - name: Verify compact owner profile contract
+        run: python scripts/verify_editor_profile_update.py --source-only
       - name: Verify explicit unknown release metadata contracts
         run: python -m unittest discover -s scripts -p test_unknown_release_metadata.py -v
       - name: Preserve analytics, storage and player behavior when affected
@@ -154,6 +156,14 @@ jobs:
           path: |
             /tmp/site-update-*.png
             /tmp/site-update-report.json
+          if-no-files-found: error
+      - name: Save compact profile review
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: compact-profile-review
+          path: |
+            /tmp/editor-profile-compact-*.png
           if-no-files-found: error
       - name: Save build report and profile screenshots
         if: always()
