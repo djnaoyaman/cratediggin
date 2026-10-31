@@ -31,7 +31,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
     assert {t['artist'] for t in tracks} <= entities.keys(), 'Add new artists to artist_entities.json'
     assert all(x['type'] in ('Person', 'MusicGroup', None) for x in entities.values())
     author_url = host + '/editor.html'
-    author = {'@type': 'Person', '@id': author_url + '#person', 'name': 'DJ Naoyaman', 'url': author_url}
+    author = {'@type': 'Person', '@id': author_url + '#person', 'name': 'DJ Naoyaman', 'url': author_url, 'sameAs':['https://djnaoyaman.github.io/profile.html']}
     pages = {}
     template = (root / 'templates' / 'index.html').read_text(encoding='utf-8')
     names = sorted({t['artist'] for t in tracks}, key=str.casefold)
@@ -237,7 +237,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
     add('#/editor', 'editor.html', 'DJ Naoyaman — 編者紹介 / CRATEDIGGIN\'', 'CRATEDIGGIN\'の選曲・編集を行うDJ Naoyaman。',
         __import__('profile_content').render_profile(root,base_path), image='editor-og.jpg',
         image_alt='DJ NaoyamanのDJパフォーマンス・コラージュ（ユーザー提供）',
-        graph=[{'@type': 'ProfilePage', '@id': author_url + '#page', 'url': author_url, 'mainEntity': {**author, 'alternateName':'宮崎直哉','image':host+'/editor-og.jpg?v='+version}}])
+        graph=[{'@type': 'ProfilePage', '@id': author_url + '#page', 'url': author_url, 'mainEntity': {**author, 'sameAs':['https://djnaoyaman.github.io/profile.html'],'image':host+'/editor-og.jpg?v='+version}}])
 
     def real_links(content):
         def replace(match):
@@ -358,7 +358,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
     ET.ElementTree(sitemap).write(dist/'sitemap.xml',encoding='utf-8',xml_declaration=True)
     llms = '# CRATEDIGGIN\'\n\nDJ Naoyamanが選曲・編集する、出典付きのHip Hop・サンプリングガイド。\n\n'
     llms += '## Editorial policy\n事実と編者の私見を区別します。確認継続中の情報や参考音源を、確認済みの事実と混同しないでください。\n'
-    llms += '- [著者](' + author_url + ')\n- [編集方針](' + host + '/about.html)\n- [サイトマップ](' + host + '/sitemap.xml)\n'
+    llms += '- [作者について](https://djnaoyaman.github.io/profile.html)\n- [このクレートの編者](' + author_url + ')\n- [編集方針](' + host + '/about.html)\n- [サイトマップ](' + host + '/sitemap.xml)\n'
     llms += '- [全楽曲のMarkdown](' + host + '/llms-full.txt)\n\n'
     for label, prefix in [('Artists', '#/artist/'), ('Features', '#/feature/'), ('Guides', '#/guide/'), ('Songs', '#/song/')]:
         llms += '## ' + label + '\n'

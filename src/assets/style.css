@@ -580,3 +580,6 @@ body[data-art-mode=video] .art-provider-help{width:1px;height:1px;overflow:hidde
 
 /* Site freshness is distinct from each article’s editorial revision. */
 footer .site-update{flex-basis:100%;margin:8px 0 0;font-size:11px;letter-spacing:.04em}.page-update{font-size:12px;color:var(--muted);margin-top:28px}
+
+/* Compact author note: preserve supplied photographs without a long biography. */
+.editor-photo-archive{margin-top:1.5rem}.editor-photo-archive>summary{cursor:pointer;font-size:.8rem}.editor-photo-archive .editor-photo{margin:1rem 0}

@@ -29,13 +29,13 @@ def validate_profile(root=ROOT):
         if block['type']=='h1':continue
         expected=re.sub(r'\[([^\]]+)\]\(https://[^)]+\)',r'\1',block['text'])
         assert expected in plain, 'Authored profile text omitted: '+expected[:50]
-    assert authored['name'] in plain and authored['realName'] in plain
+    assert authored['name'] in plain
+    assert all(term not in plain for term in ['宮崎直哉','15歳','足立区','32年','約5万曲','学歴','講演'])
     assert payload['html'].count('class="editor-profile"')==1
     assert payload['html'] in page
     assert 'id="creator-sites-network"' not in page
-    expected_sites={'ppp','youkai','sakanamushi','kuranpo','chems','suburbia-classica','sanreikotaiyoku','gooooooooood_expression','bookkeeping'}
-    for site in expected_sites:assert any(a.get('href','').startswith('https://djnaoyaman.github.io/'+site+'/') for a in text.links),site
-    assert not any('yoshida-farmer' in a.get('href','') for a in text.links)
+    assert len(text.links)==1 and text.links[0]['href']==authored['authorUrl']
+    assert len(text.images)==3, 'Signature and both supplied photos must remain'
     assert all(a.get('href','').startswith('https://') for a in text.links)
     for image in text.images:
         src=image.get('src','')
