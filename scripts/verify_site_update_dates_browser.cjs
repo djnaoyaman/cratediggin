@@ -17,12 +17,16 @@ const day=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Tokyo',year:'numeric',
   await page.evaluate(async()=>{await document.fonts.ready;document.querySelector('.site-update').scrollIntoView({behavior:'instant',block:'center'});await new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(r)));});
   await page.waitForFunction(()=>{const r=document.querySelector('.site-update').getBoundingClientRect();return r.top>=0&&r.bottom<=innerHeight;});
   assert(await page.locator('.site-update').isVisible());
-  await page.locator('footer').screenshot({path:`/tmp/site-update-home-${width}.png`,animations:'disabled'});
+  // Mobile home progressively appends records at its sentinel. Capture the
+  // common mobile footer on a finite page and the no-JS home below instead.
+  if(width===1280)await page.locator('footer').screenshot({path:`/tmp/site-update-home-${width}.png`,animations:'disabled'});
   await page.locator('a[data-nav="editor"]').first().click();await page.locator('#view .page-update').waitFor();
   assert.equal(await page.locator('#view .page-update time').getAttribute('datetime'),expected.profile.dateModified);
   await page.waitForFunction(()=>document.documentElement.dataset.metadataRoute==='#/editor');
   assert.equal(JSON.parse(await page.locator('script[type="application/ld+json"]').last().textContent())['@graph'][0].dateModified,expected.profile.dateModified);
   await page.locator('#view .page-update').scrollIntoViewIfNeeded();await page.screenshot({path:`/tmp/site-update-editor-${width}.png`});
+  await page.locator('.site-update').scrollIntoViewIfNeeded();
+  await page.locator('footer').screenshot({path:`/tmp/site-update-footer-${width}.png`,animations:'disabled'});
   assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'No horizontal overflow');
   await page.goBack();await page.waitForFunction(()=>document.documentElement.dataset.metadataRoute==='#/');
   assert.equal(await page.locator('.site-update').count(),1);
@@ -31,7 +35,9 @@ const day=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Tokyo',year:'numeric',
  const context=await browser.newContext({javaScriptEnabled:false,viewport:{width:390,height:960}});
  await context.route('**/*',route=>new URL(route.request().url()).origin===new URL(base).origin?route.continue():route.abort());
  const page=await context.newPage();await page.goto(base+'/editor.html');assert.equal(await page.locator('.page-update time').getAttribute('datetime'),expected.profile.dateModified);
- await page.locator('.page-update').scrollIntoViewIfNeeded();await page.screenshot({path:'/tmp/site-update-editor-no-js-390.png'});await context.close();
+ await page.locator('.page-update').scrollIntoViewIfNeeded();await page.screenshot({path:'/tmp/site-update-editor-no-js-390.png'});
+ await page.goto(base+'/');assert.equal(await page.locator('.site-update time').getAttribute('datetime'),expected.site.dateModified);
+ await page.locator('.site-update').scrollIntoViewIfNeeded();await page.locator('footer').screenshot({path:'/tmp/site-update-home-no-js-390.png',animations:'disabled'});await context.close();
  const xml=fs.readFileSync('dist/sitemap.xml','utf8');assert(xml.includes('<lastmod>'+expected.site.dateModified+'</lastmod>'));assert(xml.includes('<lastmod>'+expected.profile.dateModified+'</lastmod>'));
  fs.writeFileSync('/tmp/site-update-report.json',JSON.stringify({expected,report,noJS:true},null,2));
  console.log('Truthful site/profile dates: 390/1280 static/SPA/back/no-JS and metadata PASS');
