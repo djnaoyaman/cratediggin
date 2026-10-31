@@ -91693,5 +91693,132 @@
       "verification": "Indexed Stones Throw provider metadata matches artist/title/Ruff Draft2007/J Dilla producer, direct official Bandcamp track9. Initial watch Error fetching; no retry. Duration/playback/JP/embed/master identity unverified. DirtyCrushin and DillasMix excluded."
     },
     "addedOrder": 702
+  },
+  {
+    "id": "j-dilla-shouts",
+    "title": "Shouts",
+    "artist": "J Dilla",
+    "primaryArtist": "J Dilla",
+    "primaryArtists": [
+      "J Dilla"
+    ],
+    "artists": [
+      "J Dilla"
+    ],
+    "featuredArtists": [],
+    "album": "Ruff Draft",
+    "year": null,
+    "yearStatus": "unconfirmed",
+    "yearDisplayNote": "選択音源は2007年のStones Throw再発版です。この曲の初出年は照合中です。",
+    "yearBasis": "初出年は照合中。公式2007年再発の曲目と選択配信の対応は確認済み。2003年原EPの曲別収録を一次資料で確定していないため、2003年も2007年も初出として登録しない。",
+    "region": "Detroit",
+    "regionBasis": "Stones Throw公式の制作史が2002年末のClinton Township（Detroit郊外）での録音と説明。出生地ではなく制作拠点。",
+    "category": "Hip Hop",
+    "moods": [
+      "グルーヴ",
+      "ディギング"
+    ],
+    "label": "Stones Throw",
+    "producer": "J Dilla",
+    "datePublished": "2026-10-31",
+    "noteReviewedAt": "2026-10-31",
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しません。",
+    "sounds": [],
+    "listening": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "sources": [
+      {
+        "label": "Stones Throw — Ruff Draft",
+        "url": "https://www.stonesthrow.com/store/ruff-draft/",
+        "kind": "レーベル公式。録音と原EP・再発の制作史。"
+      },
+      {
+        "label": "Stones Throw — J Dilla’s Ruff Draft",
+        "url": "https://www.stonesthrow.com/news/jdilla-ruff-draft/",
+        "kind": "レーベル公式本文。2002年末の録音、2003年EPと2007年再マスタリング、2018年別ミックスの区別。"
+      },
+      {
+        "label": "J Dilla — Ruff Draft, official Bandcamp",
+        "url": "https://dilla.bandcamp.com/album/ruff-draft",
+        "kind": "公式曲目本文。2007年版track10 Shoutsとtrack14 Shouts (Alt.)を区別。"
+      },
+      {
+        "label": "Shouts — J Dilla - Topic",
+        "url": "https://www.youtube.com/watch?v=huuoFROwJoA",
+        "kind": "Stones Throw提供の検索メタデータ。2007年Ruff DraftとJ Dilla制作。動画の実再生は未検証。"
+      }
+    ],
+    "essayTitle": "Ruff Draft、10曲目のShouts。",
+    "deck": "Ruff Draftの10曲目に置かれた、標準版のShouts。",
+    "essay": [
+      "「Shouts」は、2007年版『Ruff Draft』の10曲目。公式曲目には51秒と記され、14曲目には別の「Shouts (Alt.)」も収められている。2002年末に録音されたEPを、原マスターテープから整え直した再発盤。その曲順の中に、この短い一曲がある。"
+    ],
+    "essaySources": [
+      [
+        1,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "標準版と別テイク",
+        "text": "公式2007年版の10曲目がShouts（51秒）、14曲目がShouts (Alt.)（1分47秒）です。",
+        "sources": [
+          2
+        ]
+      },
+      {
+        "title": "制作と再発",
+        "text": "配信上の制作クレジットはJ Dilla。2007年再発は原マスターテープから整えられた版です。",
+        "sources": [
+          1,
+          3
+        ]
+      },
+      {
+        "title": "音源の確認状況",
+        "text": "Stones Throw提供のTopic配信情報を照合。実再生・日本からの再生可否は未確認です。",
+        "sources": [
+          3
+        ]
+      }
+    ],
+    "context": "2007年Ruff Draftの標準曲目Shouts。別収録のShouts (Alt.)、2018年の別ミックスとは区別する。",
+    "art": {
+      "palette": [
+        "#a48258",
+        "#c0a078",
+        "#2a2318",
+        "#dedbd3",
+        "#806347"
+      ],
+      "paletteSource": "Current official Stones Throw STH2153 product artwork",
+      "paletteSourceUrl": "https://www.stonesthrow.com/store/ruff-draft/",
+      "paletteNote": "既存Let’s Take It Backで実見済みの同STH2153商品配色を継承。公式2007年版曲目で橋渡し。今回カバー新規実見なし、2003原盤スリーブの再現ではない。",
+      "word": "SHOUTS",
+      "tag": "J DILLA",
+      "style": "piece",
+      "seed": 20261031710
+    },
+    "youtube": {
+      "id": "huuoFROwJoA",
+      "url": "https://www.youtube.com/watch?v=huuoFROwJoA",
+      "embedUrl": "https://www.youtube.com/embed/huuoFROwJoA",
+      "title": "Shouts",
+      "channel": "J Dilla - Topic",
+      "official": true,
+      "type": "Stones Throw提供Topicアルバム音源",
+      "metadataVerified": true,
+      "verified": "2026-10-30",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "Indexed Stones Throw provider metadata matches artist/title/Ruff Draft2007/J Dilla producer; official Bandcamp track10 distinct from Shouts(Alt.) track14. Initial watch Cache miss; no retry. Duration/playback/JP/embed/master identity unverified."
+    },
+    "addedOrder": 703
   }
 ]
