@@ -40,7 +40,7 @@ jobs:
       - name: Select work from content fingerprints
         id: plan
         env:
-          FORCE_PUBLISH: ${{ github.event_name == 'workflow_dispatch' }}
+          FORCE_PUBLISH: ${{ github.event_name == 'workflow_dispatch' || github.event_name == 'pull_request' }}
         run: python scripts/build_pipeline.py plan --github-output "$GITHUB_OUTPUT"
       - name: Test build isolation and cache integrity
         run: python -m unittest discover -s scripts -p test_build_pipeline.py -v
@@ -81,13 +81,13 @@ jobs:
         if: steps.plan.outputs.publish == 'true'
         run: python scripts/validate_site.py --mode "${{ steps.plan.outputs.mode }}"
       - name: Cache browser runtime
-        if: steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none'
+        if: steps.plan.outputs.publish == 'true'
         uses: actions/cache@v4
         with:
           path: ~/.cache/ms-playwright
           key: ${{ runner.os }}-playwright-1.62.1
       - name: Verify profile text, links, display and navigation
-        if: steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none'
+        if: steps.plan.outputs.publish == 'true'
         env:
           PROFILE_TEST_URL: http://127.0.0.1:8765/cratediggin
         run: |
@@ -131,10 +131,10 @@ jobs:
             /tmp/feature-spacing-report.json
           if-no-files-found: error
       - name: Save validated site outputs
-        if: steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none'
+        if: steps.plan.outputs.publish == 'true'
         run: python scripts/build_pipeline.py cache
       - uses: actions/cache/save@v4
-        if: steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none' && steps.site-cache.outputs.cache-hit != 'true'
+        if: steps.plan.outputs.publish == 'true' && steps.site-cache.outputs.cache-hit != 'true'
         with:
           path: .build-cache
           key: ${{ steps.site-cache.outputs.cache-primary-key }}
