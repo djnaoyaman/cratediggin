@@ -25,6 +25,6 @@ for(const fixture of fixtures)for(const width of [390,1280]){
  if(fixture.id==='siah-yeshua-dapoed-the-visualz'){await page.goto(base+'/artists/26c15b787b770613.html');await page.locator('.record-card[href$="/tracks/'+fixture.id+'.html"]').waitFor();await page.locator('#toggle').dispatchEvent('click');assert((await page.locator('#now-title').innerText()).includes(fixture.title));assert(!(await page.locator('#status').innerText()).includes('未確定'));await page.locator('.record-card[href$="/tracks/'+fixture.id+'.html"]').click();await page.locator('#article-play').waitFor();assert.equal(await page.locator('#article-play').isDisabled(),false);}
  await page.goto(base+'/tracks/mos-def-ms-fat-booty.html');await page.locator('#article-play').waitFor();
  assert.equal(await page.locator('#article-play').isDisabled(),false,'Existing playable tracks unaffected');
- assert.deepEqual(errors,[]);await context.close();
+ assert.deepEqual(errors,[]);await context.unrouteAll({behavior:'wait'});await context.close();
 }console.log('Both owner-selected sources and artist entry controls PASS; actual audio not attempted');
 }finally{await browser.close();}})().catch(e=>{console.error(e);process.exitCode=1});

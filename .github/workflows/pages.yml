@@ -143,6 +143,15 @@ jobs:
         with:
           path: /tmp/cratediggin-image-delivery-cache
           key: ${{ steps.image-cache.outputs.cache-primary-key }}
+      - name: Save update date review
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-update-date-review
+          path: |
+            /tmp/site-update-*.png
+            /tmp/site-update-report.json
+          if-no-files-found: error
       - name: Save build report and profile screenshots
         if: always()
         uses: actions/upload-artifact@v4
