@@ -204,8 +204,8 @@ jobs:
         with:
           name: current-song-visual-review
           path: |
-            /tmp/external-audio-j-dilla-crushin-390.png
-            /tmp/external-audio-j-dilla-crushin-1280.png
+            /tmp/external-audio-j-dilla-shouts-390.png
+            /tmp/external-audio-j-dilla-shouts-1280.png
           if-no-files-found: error
       - name: Save Cut Chemist photo review
         if: always() && steps.plan.outputs.publish == 'true' && steps.plan.outputs.mode != 'none'
