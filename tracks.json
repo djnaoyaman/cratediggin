@@ -92006,5 +92006,137 @@
     "noteReviewedAt": "2026-10-31",
     "datePublished": "2026-10-31",
     "addedOrder": 705
+  },
+  {
+    "id": "company-flow-eight-steps-to-perfection",
+    "title": "8 Steps to Perfection",
+    "artist": "Company Flow",
+    "primaryArtist": "Company Flow",
+    "primaryArtists": [
+      "Company Flow"
+    ],
+    "artists": [
+      "Company Flow"
+    ],
+    "album": "Funcrusher Plus",
+    "year": null,
+    "yearStatus": "unconfirmed",
+    "yearBasis": "初出シングル／EPの年に1995年と1996年の資料差が残り、最初の発売年は未確定。選択した正規Topicは1997年のFuncrusher Plus収録版として配信されているが、その日付を曲の初出年には転用しない。",
+    "region": "New York",
+    "scene": "Brooklyn, New York",
+    "regionBasis": "RBMA講義の紹介はCompany FlowをBrooklynのグループと記述し、El-P本人もBrooklynで育ったと回想。",
+    "moods": [
+      "ディギング",
+      "グルーヴ"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Red Bull Music Academy — El-P Interview (2012)",
+        "url": "https://daily.redbullmusicacademy.com/2012/10/el-p-interview/",
+        "kind": "El-P本人の回想。Funcrusherを1996年と説明し、自主制作と契約の経緯を語る"
+      },
+      {
+        "label": "Red Bull Music Academy — El-P Lecture",
+        "url": "https://www.redbullmusicacademy.com/lectures/el-p-lecture/",
+        "kind": "Brooklynのグループとして紹介。司会のEP1996年説明と本人の地域・制作回想を区別する"
+      },
+      {
+        "label": "Funcrusher (2nd press) — Crib Records",
+        "url": "https://www.cribrecords.jp/product/745",
+        "kind": "全文曲目A2 8 Steps。店の1995表記と本人1996回想の差を保持"
+      },
+      {
+        "label": "8 Steps To Perfection / Vital Nerve — Vinylcycle",
+        "url": "https://www.vinylcycle.com/?pid=170257462",
+        "kind": "全文1996US盤目録。Radio/Album/Instrumentalを区別"
+      },
+      {
+        "label": "Bigg Jus interview — Vice",
+        "url": "https://www.vice.com/en/article/20-years-of-funcrusher-looking-back-on-company-flow-the-mad-geniuses-of-underground-rap/",
+        "kind": "本人の盤手渡しと番組放送回想。25語以内の短い要約一文に限定"
+      },
+      {
+        "label": "8 Steps to Perfection — Company Flow / Topic",
+        "url": "https://www.youtube.com/watch?v=5ebuKXOOG3Q",
+        "kind": "Sonosuite提供Funcrusher Plus標準音源。尺/実再生未確認"
+      },
+      {
+        "label": "Funcrusher Plus cover — Crib Records",
+        "url": "https://www.cribrecords.jp/data/cribrecords/product/20180226_8ab003.jpg",
+        "kind": "既存Vital Nerve制作時に実見した同盤配色の継承。今回新規画像取得なし"
+      }
+    ],
+    "essayTitle": "手渡した盤が、番組の最初に。",
+    "deck": "放送の始まりに届いた、Company Flowの一枚。",
+    "essay": [
+      "Bigg Jusは盤をStretchとBobbitoへ届け、番組冒頭で「8 Steps」を聴いたと回想する。"
+    ],
+    "essaySources": [
+      [
+        4
+      ]
+    ],
+    "facts": [
+      {
+        "title": "EPからアルバムへ",
+        "text": "「8 Steps」はFuncrusherのEP曲目にも掲載され、後のFuncrusher Plusへ収録されています。ここではFuncrusher Plusの正規配信を選んでいます。",
+        "sources": [
+          2,
+          5
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "Bigg Jusが振り返る、盤をラジオ番組へ届けたエピソード。",
+    "art": {
+      "word": "8 STEPS TO PERFECTION",
+      "tag": "COMPANY FLOW",
+      "style": "tag",
+      "seed": 2026102960,
+      "palette": [
+        "#7562B4",
+        "#A94D31",
+        "#E2CE58",
+        "#171B20",
+        "#F0E9D0"
+      ],
+      "paletteSource": "Funcrusher Plus — previously inspected physical sleeve",
+      "paletteSourceUrl": "https://www.cribrecords.jp/data/cribrecords/product/20180226_8ab003.jpg",
+      "paletteNote": "既存Vital Nerve制作時の同盤カバー保存画像を2026-11-01 JSTに再実見。紫・錆橙・黄・黒・薄クリームの目視近似。EPの色とは主張せず、絵柄を模倣しない。"
+    },
+    "youtube": {
+      "id": "5ebuKXOOG3Q",
+      "url": "https://www.youtube.com/watch?v=5ebuKXOOG3Q",
+      "embedUrl": "https://www.youtube.com/embed/5ebuKXOOG3Q",
+      "title": "8 Steps to Perfection",
+      "channel": "COMPANY FLOW - Topic",
+      "type": "公式配信 / アルバム収録版",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-10-29",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "Sonosuite/FuncrusherPlus standardtitle; generalMV uploadernotauthenticated; boundedalternate noqualifiedofficialMV. Runtimeunread notcopiedfromSpotify."
+    },
+    "datePublished": "2026-11-01",
+    "noteReviewedAt": "2026-11-01",
+    "yearDisplayNote": "初出年未確認。選択音源は1997年のFuncrusher Plus収録版。",
+    "selectedRelease": {
+      "album": "Funcrusher Plus",
+      "year": 1997,
+      "note": "正規Topicの配信メタデータ。原シングルやEPとのマスター同一性は未確認。"
+    },
+    "addedOrder": 706
   }
 ]
