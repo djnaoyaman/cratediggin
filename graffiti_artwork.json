@@ -16531,6 +16531,44 @@
         "sourceImage": "assets/graffiti/originals/med-serious-tag-original.png",
         "sourceSha256": "83b8dd463d1fac4ebbc57cb792f11528b6c72913c34cafdae916e48b04bf86b5"
       }
+    },
+    {
+      "id": "med-listen-2-this",
+      "title": "Listen 2 This",
+      "artist": "MED",
+      "album": "Push Comes To Shove",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#16473e",
+        "#f2f6f1",
+        "#171f1c",
+        "#a37762"
+      ],
+      "paletteSource": "MED — Push Comes To Shove (2005)",
+      "paletteNote": "既存Cant Hold Onで実見済みの同STH2108盤配色を継承。公式曲目で同盤を直接確認、今回新規ジャケット実見なし。",
+      "image": "assets/graffiti/med-listen-2-this-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/med-listen-2-this-tag-original.png",
+      "concept": "LISTEN 2 THIS / MED独自文字。同STH2108の以前実見済み配色のみ継承。音楽家の意図の断定ではない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          156,
+          55,
+          2065,
+          727
+        ],
+        "outputSha256": "e62ca14c89b71e84169c25d33986264931e83a532971fb9dc4e8eb47a013d6cc",
+        "sourceImage": "assets/graffiti/originals/med-listen-2-this-tag-original.png",
+        "sourceSha256": "c186dcec78e962e38330f992958c97f46817bec99d3c7990825c3617f632b207"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
