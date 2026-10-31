@@ -62,6 +62,17 @@ class PipelineTests(unittest.TestCase):
         self.bootstrap();self.write('README.md','new documentation');selected=pipeline.plan(self.root,self.cache)
         self.assertEqual(selected['mode'],'none');self.assertFalse(selected['publish'])
 
+    def test_review_artifacts_only_required_when_browser_review_runs(self):
+        # A docs-only push intentionally skips browser images. Publishing runs
+        # must still fail if their required review artifacts are missing.
+        workflow = (Path(__file__).resolve().parents[1]/'.github/workflows/pages.yml').read_text()
+        for name in ['Save update date review', 'Save compact editor footer review', 'Save compact profile review']:
+            block = workflow.split('- name: '+name+'\n', 1)[1].split('      - name:', 1)[0]
+            self.assertIn("if: always() && steps.plan.outputs.publish == 'true'", block)
+            self.assertIn('if-no-files-found: error', block)
+        review = workflow.split('- name: Verify profile text, links, display and navigation\n', 1)[1].split('      - name:', 1)[0]
+        self.assertIn("if: steps.plan.outputs.publish == 'true'", review)
+
     def test_source_change_after_plan_is_rejected(self):
         self.bootstrap();selected=pipeline.plan(self.root,self.cache);self.write('tracks.json','changed during build')
         with self.assertRaisesRegex(ValueError,'Source changed'):pipeline.build(self.root,self.cache,selected)
