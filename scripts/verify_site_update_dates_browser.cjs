@@ -14,7 +14,10 @@ const day=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Tokyo',year:'numeric',
   await page.waitForFunction(()=>document.documentElement.dataset.metadataRoute==='#/');
   const home=await page.locator('script[type="application/ld+json"]').last().textContent();
   assert.equal(JSON.parse(home)['@graph'][0].dateModified,expected.site.dateModified);
-  await page.locator('footer').scrollIntoViewIfNeeded();await page.screenshot({path:`/tmp/site-update-home-${width}.png`});
+  await page.evaluate(async()=>{await document.fonts.ready;document.querySelector('.site-update').scrollIntoView({behavior:'instant',block:'center'});await new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(r)));});
+  await page.waitForFunction(()=>{const r=document.querySelector('.site-update').getBoundingClientRect();return r.top>=0&&r.bottom<=innerHeight;});
+  assert(await page.locator('.site-update').isVisible());
+  await page.locator('footer').screenshot({path:`/tmp/site-update-home-${width}.png`,animations:'disabled'});
   await page.locator('a[data-nav="editor"]').first().click();await page.locator('#view .page-update').waitFor();
   assert.equal(await page.locator('#view .page-update time').getAttribute('datetime'),expected.profile.dateModified);
   await page.waitForFunction(()=>document.documentElement.dataset.metadataRoute==='#/editor');
