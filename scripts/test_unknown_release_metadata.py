@@ -49,6 +49,17 @@ class UnknownReleaseMetadataTests(unittest.TestCase):
             result = eval(compile(ast.Expression(branch), '<album-contract>', 'eval'), {'t': {'album': 'Subject'}})
             self.assertEqual(result, {'inAlbum': {'@type': 'MusicAlbum', 'name': 'Subject'}})
 
+    def test_legacy_jsonld_omits_absent_audio_identity(self):
+        tree = ast.parse((ROOT / 'build.py').read_text())
+        branch = next(n for n in ast.walk(tree) if isinstance(n, ast.IfExp) and "sameAs" in ast.unparse(n.body) and "externalAudio" in ast.unparse(n.test))
+        evaluate = lambda t: eval(compile(ast.Expression(branch), '<audio-identity-contract>', 'eval'), {'t': t})
+        self.assertEqual(evaluate({'youtube': {'id': None, 'type': '未設定'}}), {})
+        self.assertEqual(evaluate({'youtube': {}}), {})
+        self.assertEqual(evaluate({}), {})
+        for t in json.loads((ROOT / 'tracks.json').read_text()):
+            url = t.get('externalAudio', {}).get('url') or t.get('youtube', {}).get('url')
+            self.assertEqual(evaluate(t), {'sameAs': url} if url else {})
+
     def test_spa_null_album_producer_and_note_display(self):
         source = (ROOT / 'src/app/song-ui.js').read_text()
         self.assertIn("(s.yearQualifier||s.yearStatus==='unconfirmed')", source)

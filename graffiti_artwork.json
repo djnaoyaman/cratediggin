@@ -16493,6 +16493,44 @@
         "sourceImage": "assets/graffiti/originals/j-dilla-shouts-tag-original.png",
         "sourceSha256": "4a354f2d08d77b7f5d3d7b0736ab5499e9a084f740491d78fcadcc7a0f3b0b8a"
       }
+    },
+    {
+      "id": "med-serious",
+      "title": "Serious",
+      "artist": "MED feat. Oh No",
+      "album": "Push Comes To Shove",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#16473e",
+        "#f2f6f1",
+        "#171f1c",
+        "#a37762"
+      ],
+      "paletteSource": "MED — Push Comes To Shove (2005)",
+      "paletteNote": "既存Cant Hold Onで実見済みの同STH2108盤配色を継承。公式曲目で同盤を直接確認、今回新規ジャケット実見なし。",
+      "image": "assets/graffiti/med-serious-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/med-serious-tag-original.png",
+      "concept": "SERIOUS / MED feat. OH NO独自文字。同STH2108の以前実見済み配色のみ継承。音楽家の意図の断定ではない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          163,
+          57,
+          2163,
+          745
+        ],
+        "outputSha256": "a97ea50d84fe55f3d1208c58a2578254d9f3f44c84e377ddc91a631e5221961f",
+        "sourceImage": "assets/graffiti/originals/med-serious-tag-original.png",
+        "sourceSha256": "83b8dd463d1fac4ebbc57cb792f11528b6c72913c34cafdae916e48b04bf86b5"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

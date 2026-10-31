@@ -91820,5 +91820,104 @@
       "verification": "Indexed Stones Throw provider metadata matches artist/title/Ruff Draft2007/J Dilla producer; official Bandcamp track10 distinct from Shouts(Alt.) track14. Initial watch Cache miss; no retry. Duration/playback/JP/embed/master identity unverified."
     },
     "addedOrder": 703
+  },
+  {
+    "id": "med-serious",
+    "title": "Serious",
+    "artist": "MED feat. Oh No",
+    "primaryArtist": "MED",
+    "primaryArtists": [
+      "MED"
+    ],
+    "artists": [
+      "MED"
+    ],
+    "featuredArtists": [
+      "Oh No"
+    ],
+    "album": "Push Comes To Shove",
+    "year": 2005,
+    "yearBasis": "同盤Can’t Hold Onの保存済み公式2005年配信根拠と、公式STH2108曲目の当該曲収録・同時代2005年レビューで照合。今回動画の新規確認ではない。",
+    "region": "West Coast",
+    "scene": "カリフォルニア／Oxnard",
+    "regionBasis": "既存MED本人2002年インタビューの保存済み地域根拠を継承。",
+    "category": "Hip Hop",
+    "label": "Stones Throw",
+    "moods": [
+      "ラップ"
+    ],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "samples": [],
+    "sampleStatus": "サンプル元は未確認。未掲載はサンプル不使用を意味しません。",
+    "sounds": [],
+    "listening": [],
+    "sources": [
+      {
+        "label": "Stones Throw — Push Comes To Shove",
+        "url": "https://www.stonesthrow.com/store/push-comes-to-shove/",
+        "kind": "レーベル公式曲目本文。Serious feat. Oh Noと同盤Cant Hold On、STH2108を直接確認。"
+      },
+      {
+        "label": "Stones Throw掲載の発売時レビュー",
+        "url": "https://www.stonesthrow.com/news/push-comes-to-shove-news/",
+        "kind": "レーベル再掲の同時代レビュー。2005-07-08、Serious掲載を検索本文で確認。"
+      },
+      {
+        "label": "MED interview, 2002",
+        "url": "https://www.stonesthrow.com/news/med-interview/",
+        "kind": "既存掲載曲で確認済みの本人取材。今回新規直接取得ではない。"
+      },
+      {
+        "label": "Oh No in Anthem — Stones Throw",
+        "url": "https://www.stonesthrow.com/news/oh-no-in-anthem/",
+        "kind": "レーベル掲載の人物紹介。検索取得本文で個人MC／producer／DJと確認。曲別制作クレジットへの転用なし。"
+      }
+    ],
+    "essayTitle": "MEDのデビュー盤で、Oh Noを迎えたSerious。",
+    "deck": "Push Comes To Shoveに収められた、MEDとOh Noの一曲。",
+    "essay": [
+      "「Serious」はMEDのデビュー・アルバム『Push Comes To Shove』に収録され、公式曲目にはOh Noの客演が記されている。盤全体にはMadlib、Oh No、J Dilla、Just Blazeが参加。Stones Throw周辺の制作陣が集まったアルバムの中に、二人の名前を並べたこの曲がある。"
+    ],
+    "essaySources": [
+      [
+        0
+      ]
+    ],
+    "facts": [
+      {
+        "title": "収録と客演",
+        "text": "レーベルの公式曲目は「Serious feat. Oh No」と表記しています。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "editorialStatus": "音源照合中。適合する単曲動画を確認できていないため、再生欄は未設定です。",
+    "context": "MEDのデビュー盤Push Comes To Shoveに収録。Oh No客演。",
+    "art": {
+      "palette": [
+        "#16473e",
+        "#f2f6f1",
+        "#171f1c",
+        "#a37762"
+      ],
+      "paletteSource": "MED — Push Comes To Shove (2005)",
+      "paletteSourceUrl": "https://www.stonesthrow.com/store/push-comes-to-shove/",
+      "paletteNote": "既存Cant Hold Onで実見済みの同STH2108盤配色を継承。公式曲目で同盤を直接確認、今回新規ジャケット実見なし。",
+      "word": "SERIOUS",
+      "tag": "MED feat. OH NO",
+      "style": "piece",
+      "seed": 20261031711
+    },
+    "youtube": {
+      "id": null,
+      "type": "未設定",
+      "official": false
+    },
+    "noteReviewedAt": "2026-10-31",
+    "datePublished": "2026-10-31",
+    "addedOrder": 704
   }
 ]
