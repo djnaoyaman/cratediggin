@@ -16726,6 +16726,45 @@
         "sourceImage": "assets/graffiti/originals/nujabes-luv-sic-tag-original.png",
         "sourceSha256": "393f64690eadc5cc992163c6268d652dda1e3c76d8c9f011cbf57794df7cac32"
       }
+    },
+    {
+      "id": "dj-cam-quartet-youve-got-to-have-freedom",
+      "title": "You've Got to Have Freedom",
+      "artist": "DJ Cam Quartet feat. Inlove",
+      "album": "Diggin",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#E4D72A",
+        "#8D892D",
+        "#464524",
+        "#11120D",
+        "#F2EEDC"
+      ],
+      "paletteSource": "Diggin — DJ Cam Quartet / artist Bandcamp cover",
+      "paletteNote": "本人Bandcamp掲載のDigginカバーを2026-11-01に画像で実見。黄・オリーブ・濃い黄褐色・黒・白を目視で近似。後年編集盤の配色ではなく、同曲を収録するDigginを参照。空や樹木、既存ロゴは描かず独自の手描き文字を構成。",
+      "image": "assets/graffiti/dj-cam-quartet-youve-got-to-have-freedom-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/dj-cam-quartet-youve-got-to-have-freedom-tag-original.png",
+      "concept": "本人Bandcamp掲載Digginの実見した配色から、黄・オリーブ・黒・白の独自の手描き文字を構成。QuartetとInloveの名義を保持。曲の意味や作者の意図の断定ではない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          138,
+          62,
+          1829,
+          818
+        ],
+        "outputSha256": "0f33e8c673ebf82866626a1fc5802b8d5a7cdcfeb16ada6df08d5f5b425ccfe0",
+        "sourceImage": "assets/graffiti/originals/dj-cam-quartet-youve-got-to-have-freedom-tag-original.png",
+        "sourceSha256": "9680ce6b194bd3d019f4318a4e61a674f17360e52cf94a1b63d840dd677f57a9"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
