@@ -16647,6 +16647,45 @@
         "sourceImage": "assets/graffiti/originals/junior-mafia-players-anthem-tag-original.png",
         "sourceSha256": "df0a0fcb1cdcca8b5869c2d07f5f347b8ef99ce687fdff8befbb98725b28c6ee"
       }
+    },
+    {
+      "id": "nas-nas-is-like",
+      "title": "Nas Is Like",
+      "artist": "Nas",
+      "album": "I Am...",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#D9A743",
+        "#9A641E",
+        "#352117",
+        "#14100D",
+        "#F7F0DC"
+      ],
+      "paletteSource": "I Am... — Apple Music cover",
+      "paletteNote": "Apple MusicのNas Is Likeページに掲載されたI Am...カバーを2026-11-01に画像で実見。金・黄土・濃茶・黒・温かい白を目視で近似。肖像・仮面・既存ロゴは模倣せず独自の手描き文字に構成。",
+      "image": "assets/graffiti/nas-nas-is-like-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/nas-nas-is-like-tag-original.png",
+      "concept": "実見したI Am...の配色から、金・黄土・茶・白の独自の手描き文字を構成。曲の意味や作者の意図の断定ではない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          152,
+          52,
+          2009,
+          685
+        ],
+        "outputSha256": "efaca7f23777b32582df6b606211a6539116e91276de9aadc1a9d228b9b8295d",
+        "sourceImage": "assets/graffiti/originals/nas-nas-is-like-tag-original.png",
+        "sourceSha256": "a17e62313ae3d40fd703d2dd03e0e5796cab0326888224735e0b8755c3e923d5"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
