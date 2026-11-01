@@ -16686,6 +16686,46 @@
         "sourceImage": "assets/graffiti/originals/nas-nas-is-like-tag-original.png",
         "sourceSha256": "a17e62313ae3d40fd703d2dd03e0e5796cab0326888224735e0b8755c3e923d5"
       }
+    },
+    {
+      "id": "nujabes-luv-sic",
+      "title": "Luv(sic)",
+      "artist": "Nujabes feat. Shing02",
+      "album": "First Collection",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#F7F1E5",
+        "#D88B84",
+        "#337B80",
+        "#633D59",
+        "#5B3D2E",
+        "#D6AB53"
+      ],
+      "paletteSource": "First Collection — Apple Music cover",
+      "paletteNote": "Apple Music掲載のFirst Collectionカバーを2026-11-01に画像で実見。白・珊瑚色・青緑・紫・茶・黄土を目視で近似。ジャケットの絵柄や既存文字を複製せず独自の手描き文字を構成。",
+      "image": "assets/graffiti/nujabes-luv-sic-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/nujabes-luv-sic-tag-original.png",
+      "concept": "実見したFirst Collectionの配色から、白・珊瑚色・青緑・紫・茶・黄土の独自の手描き文字を構成。曲の意味や作者の意図の断定ではない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          141,
+          61,
+          1872,
+          801
+        ],
+        "outputSha256": "b8c82e38efbeec37a53369e923b7222ba985e27be234830cc47ef7e4a20f2d43",
+        "sourceImage": "assets/graffiti/originals/nujabes-luv-sic-tag-original.png",
+        "sourceSha256": "393f64690eadc5cc992163c6268d652dda1e3c76d8c9f011cbf57794df7cac32"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
