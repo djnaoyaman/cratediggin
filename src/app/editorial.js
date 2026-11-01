@@ -31,7 +31,7 @@
   fetch(profileURL,{cache:'no-cache',credentials:'same-origin'}).then(response=>{if(!response.ok)throw Error('Profile unavailable');return response.json();}).then(profile=>{
    if(request!==editorRequest||currentRoute()!=='#/editor')return;
    view.innerHTML=top('THE PERSON BEHIND THE CRATE')+profile.html;syncEditorMetadata(profile.page);
-  }).catch(()=>{if(request===editorRequest&&currentRoute()==='#/editor')view.innerHTML=top('THE PERSON BEHIND THE CRATE')+'<p>プロフィールを読み込めませんでした。<a href="'+origin+'/editor.html" data-no-route>プロフィールページを開く</a></p>';});
+  }).catch(()=>{if(request===editorRequest&&currentRoute()==='#/editor')view.innerHTML=top('THE PERSON BEHIND THE CRATE')+'<p>プロフィールを読み込めませんでした。<a href="'+origin+'/editor.html" data-no-route>編者ページを開く</a></p>';});
  }
 
  const features={{FEATURES}};

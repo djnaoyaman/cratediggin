@@ -27,7 +27,8 @@ const expected=source.blocks.filter(b=>b.type!=='h1').map(b=>b.text.replace(/\[(
   await page.goto(base+'/');let requests=0;page.on('request',r=>{if(r.url().includes('/editor-profile.json'))requests++;});
   const metadataPath=await page.evaluate(()=>window.CRATE_PAGES['#/editor'].metadataPath);
   let releaseOldMetadata;
-  await page.route(url=>url.pathname===metadataPath,async route=>{await new Promise(resolve=>releaseOldMetadata=resolve);await route.fulfill({json:{jsonld:{'@context':'https://schema.org','@graph':[{'@type':'ProfilePage',mainEntity:{name:'STALE_PROFILE_PROBE'}}]}}});});
+  const metadataMatcher=url=>url.pathname===metadataPath;
+  await page.route(metadataMatcher,async route=>{await new Promise(resolve=>releaseOldMetadata=resolve);await route.fulfill({json:{jsonld:{'@context':'https://schema.org','@graph':[{'@type':'ProfilePage',mainEntity:{name:'STALE_PROFILE_PROBE'}}]}}});});
   await page.locator('a[data-nav="editor"]').first().click();await page.locator('.editor-profile').waitFor();
   assert(requests>0,'SPA profile must load its independent payload');
   assert((await page.locator('.editor-profile').innerText()).includes(source.description));
@@ -38,6 +39,22 @@ const expected=source.blocks.filter(b=>b.type!=='h1').map(b=>b.text.replace(/\[(
   assert(!graph.includes('宮崎直哉'));assert(graph.includes(source.authorUrl));
   assert(!graph.includes('STALE_PROFILE_PROBE'),'An older shared metadata request must not replace the independent profile');
   await page.locator('a[data-nav="songs"]').first().click();await page.waitForFunction(()=>!document.querySelector('#view .editor-profile'));
+  await page.unroute(metadataMatcher);
+  // The independent profile failure link describes the editor role, not a generic profile.
+  await page.route('**/editor-profile.json',route=>route.fulfill({status:503,contentType:'application/json',body:'{}'}));
+  await page.locator('a[data-nav="editor"]').first().click();
+  const fallback=page.getByRole('link',{name:'編者ページを開く',exact:true});await fallback.waitFor();
+  const canonicalEditor='https://djnaoyaman.github.io/cratediggin/editor.html';
+  assert.equal(await fallback.getAttribute('href'),canonicalEditor);
+  assert.equal(await page.getByRole('link',{name:'プロフィールページを開く',exact:true}).count(),0);
+  assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
+  await page.screenshot({path:'/tmp/editor-profile-independent-fallback-'+width+'.png'});
+  await page.unroute('**/editor-profile.json');
+  // Preserve the production href while keeping the recovery navigation entirely local.
+  await page.route(canonicalEditor,route=>route.fulfill({status:302,headers:{location:base+'/editor.html'},body:''}));
+  await fallback.click();
+  await page.locator('.editor-profile').waitFor();
+  assert.equal(await page.getByRole('link',{name:'作者について',exact:true}).getAttribute('href'),source.authorUrl);
   assert.deepEqual(errors,[]);await context.close();
  }
  const context=await browser.newContext({javaScriptEnabled:false,viewport:{width:390,height:900}}),page=await context.newPage();
