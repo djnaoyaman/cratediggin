@@ -16842,6 +16842,45 @@
         "sourceImage": "assets/graffiti/originals/organized-konfusion-confrontations-tag-original.png",
         "sourceSha256": "454562d7ad39abcf772a7907cca6b8f19fcf0ed5f173659b97d778821d9830f3"
       }
+    },
+    {
+      "id": "arsonists-session",
+      "title": "Session",
+      "artist": "Arsonists",
+      "album": "As the World Burns",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#101820",
+        "#006A9B",
+        "#EC481F",
+        "#F4B838",
+        "#F3EEE4"
+      ],
+      "paletteSource": "As the World Burns Deluxe / Below System Records artist Bandcamp product photograph, inspected 2026-11-01 UTC.",
+      "paletteNote": "実見したDeluxeジャケットの濃紺、シアン、橙、金、白を目視近似。宇宙の人物・地球・炎・既存ロゴは複製せず、独自の平面手描き文字だけを構成。",
+      "image": "assets/graffiti/arsonists-session-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/arsonists-session-tag-original.png",
+      "concept": "本人・レーベルのDeluxeジャケット実物写真の橙・金・紺・シアン・白から独自の平面文字を構成。宇宙の人物・地球・炎や既存ロゴは複製しない。曲の意味や作者の意図の断定ではない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          140,
+          60,
+          1857,
+          787
+        ],
+        "outputSha256": "06f0c13ff0324ba86679d489efabc963488383de0fcd77ccfe8cf39218ebc590",
+        "sourceImage": "assets/graffiti/originals/arsonists-session-tag-original.png",
+        "sourceSha256": "4bff4cd82c8a0b786cf4c968f215b0f990f904af91b1c2aa1ef037cf60693543"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

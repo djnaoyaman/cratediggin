@@ -92835,5 +92835,139 @@
       "note": "正規Topicによる同作収録曲。リミックスやインストの表記なし。配信マスター同一性は未確認。"
     },
     "addedOrder": 712
+  },
+  {
+    "id": "arsonists-session",
+    "title": "Session",
+    "artist": "Arsonists",
+    "primaryArtist": "Arsonists",
+    "primaryArtists": [
+      "Arsonists"
+    ],
+    "artists": [
+      "Arsonists"
+    ],
+    "album": "As the World Burns",
+    "year": null,
+    "yearStatus": "unconfirmed",
+    "yearBasis": "1999年のアルバムAs the World Burnsと2018年のDeluxe再発は本人・レーベルの掲載で確認。先行シングルThe Sessionの1996年という二次情報と、選択したアルバム収録版の初出を同一視できる原盤資料は未確認のため、曲の初出年は保留する。",
+    "region": "New York",
+    "scene": "New York",
+    "regionBasis": "Below System Records配下の本人BandcampがNew York, New Yorkと掲載。出身地や録音地の認定ではない。",
+    "moods": [
+      "ディギング"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Session — Arsonists / CDBaby公式Topic",
+        "url": "https://www.youtube.com/watch?v=Lkfp2lV7Dw0",
+        "kind": "実ページのSession・ARSONISTS Topic・CDBaby提供・D-Stroy/Q-Unique/Freestyle/Swel・Explicit・3:50を照合。配信説明はAs the World Burns Deluxe、2018年2月16日。"
+      },
+      {
+        "label": "Arsonists / Below System Records — Deluxe再発案内",
+        "url": "https://arsonistsnyc.bandcamp.com/track/tough-guy-feat-vinnie-paz",
+        "kind": "本人・レーベルの案内。1999年デビュー作とSession、2018年Deluxe再発、New Yorkの掲載。Tough Guy自体をSessionとして扱わない。"
+      },
+      {
+        "label": "As the World Burns — Spotify / Matador",
+        "url": "https://open.spotify.com/album/1IwQqlB6H9wfUKd0WLapRB",
+        "kind": "正規配信の1999年8月24日Matador盤曲目。10曲目Session3:50。ブラウザ画像取得は未完了、曲目テキスト照合。"
+      },
+      {
+        "label": "As the World Burns Deluxe — レーベル掲載実物写真",
+        "url": "https://f4.bcbits.com/img/0012553115_10.jpg",
+        "kind": "本人BandcampのDeluxe商品画像を実見。濃紺・橙・金・シアン・白の目視配色だけを参照。"
+      }
+    ],
+    "essayTitle": "四つの名前が並ぶセッション。",
+    "deck": "1999年のアルバムへ、2018年のDeluxe配信から入る。",
+    "essay": [
+      "選んだSessionの配信欄には、Arsonistsに続いてD-Stroy、Q-Unique、Freestyle、Swelの名前が並ぶ。アルバムAs the World Burnsは1999年、ここで聴けるのは2018年のDeluxeに収められた3分50秒の音源。レコードの来歴と、いま再生できる版を分けておく。入口は一つでも、その向こうには何人もの声の名前がある。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1999年のアルバムと2018年の再発",
+        "text": "本人・レーベルのBandcampはAs the World Burnsを1999年のデビュー作とし、Lost In The FireとのDeluxe再発を2018年2月16日と記載しています。これらを先行シングルの初出年の証明にはしていません。",
+        "sources": [
+          1
+        ]
+      },
+      {
+        "title": "選択した音源は3分50秒",
+        "text": "CDBaby提供の正規TopicでSession、Arsonistsと四人の名前、Explicit、表示尺3:50を確認。原盤とのマスター一致や日本での再生は未確認です。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "アルバム曲目で照合",
+        "text": "正規Spotifyの1999年Matador盤は10曲目にSession、3:50を掲載。2018年配信とは年代を分けて参照しています。",
+        "sources": [
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "元DJ KIYOリストの無指定Sessionを、正規Topicのアルバム収録版で紹介。1996年の先行盤との版・マスター関係は未確認。",
+    "art": {
+      "word": "SESSION",
+      "tag": "ARSONISTS",
+      "style": "tag",
+      "seed": 2026110107,
+      "palette": [
+        "#101820",
+        "#006A9B",
+        "#EC481F",
+        "#F4B838",
+        "#F3EEE4"
+      ],
+      "paletteSource": "As the World Burns Deluxe / Below System Records artist Bandcamp product photograph, inspected 2026-11-01 UTC.",
+      "paletteSourceUrl": "https://f4.bcbits.com/img/0012553115_10.jpg",
+      "paletteNote": "実見したDeluxeジャケットの濃紺、シアン、橙、金、白を目視近似。宇宙の人物・地球・炎・既存ロゴは複製せず、独自の平面手描き文字だけを構成。"
+    },
+    "youtube": {
+      "id": "Lkfp2lV7Dw0",
+      "url": "https://www.youtube.com/watch?v=Lkfp2lV7Dw0",
+      "embedUrl": "https://www.youtube.com/embed/Lkfp2lV7Dw0",
+      "title": "Session",
+      "channel": "ARSONISTS - Topic",
+      "type": "公式Topic / CDBaby",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-11-01",
+      "durationSeconds": 230,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実ページで曲名、ArsonistsとD-Stroy/Q-Unique/Freestyle/Swel、CDBaby、Explicit、3:50を確認。説明のDeluxe2018と正規Matadorアルバム曲目3:50を照合。一般投稿x8DfDv2V8CYは1996シングル表記のみ、実尺未確認のため不採用。ライブ・instrumental・remix表記なし。実音声、地域、埋め込み、原盤同一性は未検証。"
+    },
+    "datePublished": "2026-11-01",
+    "noteReviewedAt": "2026-11-01",
+    "selectedRelease": {
+      "album": "As the World Burns (Deluxe Edition)",
+      "year": 2018,
+      "originalAlbumYear": 1999,
+      "note": "2018年2月16日の公式配信。元アルバム1999年と、未確定の曲初出年は区別。"
+    },
+    "yearDisplayNote": "初出年未確認。元アルバム1999年、選択Deluxe配信2018年とは区別。",
+    "versionBasis": "原リストはSession / Arsonists、特定remix・instrumental指定なし。正規CDBaby Topicの3:50 Explicitアルバム版を選択。一般投稿のThe Session / Halloween1996表記候補より配信版と尺を確認できた本候補を優先。先行盤と同一マスターとは扱わない。",
+    "addedOrder": 713
   }
 ]
