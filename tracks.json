@@ -92248,5 +92248,109 @@
     },
     "addedOrder": 707,
     "yearStatus": "verified"
+  },
+  {
+    "id": "organized-konfusion-confrontations",
+    "title": "Confrontations",
+    "artist": "Organized Konfusion",
+    "primaryArtist": "Organized Konfusion",
+    "primaryArtists": [
+      "Organized Konfusion"
+    ],
+    "artists": [
+      "Organized Konfusion"
+    ],
+    "album": "The Equinox",
+    "year": 1997,
+    "yearStatus": "verified",
+    "yearBasis": "UMG提供の公式TopicとApple Musicの収録作情報を照合し、1997年と確認。配信の1月1日表記を初発売日とは断定しない。2014年は選択動画の公開年。",
+    "region": "未確認",
+    "scene": "未確認",
+    "regionBasis": "本曲の追加時に活動拠点の出典は未確認。グループ名やジャンルから推定しない。",
+    "moods": [
+      "ディギング"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Confrontations — Organized Konfusion / Topic",
+        "url": "https://www.youtube.com/watch?v=fq_WMCXGCMM",
+        "kind": "Universal Music Group提供の正規Topic。The Equinox、℗1997 Priority Records、作曲者名を記載。ブラウザ表示尺3:54。"
+      },
+      {
+        "label": "The Equinox — Apple Music",
+        "url": "https://music.apple.com/us/album/the-equinox/714140428",
+        "kind": "正規配信の1997年作品情報。8曲目Confrontations、表示尺3:53、Explicit表記。掲載カバーを画像で実見。"
+      }
+    ],
+    "essayTitle": "『The Equinox』の8曲目。",
+    "deck": "1997年のアルバムから、曲名とクレジットをたどる。",
+    "essay": [
+      "Organized Konfusionの「Confrontations」は、1997年の『The Equinox』に収録。曲順は「Move」の次、8曲目に置かれている。正規TopicにはTroy Donald Jamerson、Lawrence Baskerville、R. Lemayの名が作曲者として並ぶ。アルバムの流れとクレジット、その両方を入口に聴いてみたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ]
+    ],
+    "facts": [
+      {
+        "title": "選択した音源",
+        "text": "Universal Music Group提供の公式Topicを掲載。動画の表示尺は3:54、Apple Musicは3:53。いずれもThe Equinox収録の同名曲で、リミックスやインストゥルメンタル表記はありません。秒単位の差をマスター同一性の証明には用いていません。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "1997年のThe Equinox収録曲。公式Topicと正規配信の曲順・クレジットを入口に。",
+    "art": {
+      "word": "CONFRONTATIONS",
+      "tag": "ORGANIZED KONFUSION",
+      "style": "tag",
+      "seed": 2026110102,
+      "palette": [
+        "#101217",
+        "#292D36",
+        "#B7BAC4",
+        "#EEEFEF",
+        "#7953B6"
+      ],
+      "paletteSource": "The Equinox — Apple Music cover",
+      "paletteSourceUrl": "https://music.apple.com/us/album/the-equinox/714140428",
+      "paletteNote": "Apple Music掲載のThe Equinoxカバーを2026-11-01に画像で実見。黒・濃い青灰・銀灰・白・紫を目視で近似。ジャケットの軌道線や既存文字は模倣せず独自に構成。"
+    },
+    "youtube": {
+      "id": "fq_WMCXGCMM",
+      "url": "https://www.youtube.com/watch?v=fq_WMCXGCMM",
+      "embedUrl": "https://www.youtube.com/embed/fq_WMCXGCMM",
+      "title": "Confrontations",
+      "channel": "Organized Konfusion - Topic",
+      "type": "公式Topic",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-11-01",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実ページで曲名・Topic名義・UMG提供表記・アルバム・1997年・表示尺3:54・Explicit表記を照合。Apple Musicの同名収録曲と比較。実音声、日本・埋め込み再生、原盤マスター同一性は未確認。"
+    },
+    "datePublished": "2026-11-01",
+    "noteReviewedAt": "2026-11-01",
+    "selectedRelease": {
+      "album": "The Equinox",
+      "year": 1997,
+      "note": "正規Topicによる同作収録曲。リミックスやインストの表記なし。配信マスター同一性は未確認。"
+    },
+    "addedOrder": 708
   }
 ]

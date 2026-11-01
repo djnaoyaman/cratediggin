@@ -16647,6 +16647,45 @@
         "sourceImage": "assets/graffiti/originals/junior-mafia-players-anthem-tag-original.png",
         "sourceSha256": "df0a0fcb1cdcca8b5869c2d07f5f347b8ef99ce687fdff8befbb98725b28c6ee"
       }
+    },
+    {
+      "id": "organized-konfusion-confrontations",
+      "title": "Confrontations",
+      "artist": "Organized Konfusion",
+      "album": "The Equinox",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#101217",
+        "#292D36",
+        "#B7BAC4",
+        "#EEEFEF",
+        "#7953B6"
+      ],
+      "paletteSource": "The Equinox — Apple Music cover",
+      "paletteNote": "Apple Music掲載のThe Equinoxカバーを2026-11-01に画像で実見。黒・濃い青灰・銀灰・白・紫を目視で近似。ジャケットの軌道線や既存文字は模倣せず独自に構成。",
+      "image": "assets/graffiti/organized-konfusion-confrontations-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/organized-konfusion-confrontations-tag-original.png",
+      "concept": "実見したThe Equinoxの配色から、白銀の曲名と紫のアクセントを持つ独自の手描き文字を構成。曲の意味や作者の意図の断定ではない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          174,
+          51,
+          2302,
+          676
+        ],
+        "outputSha256": "019e416964846d8da54e0ebb805384d04ad531db89a035f8d5ec2ef7f32b20b3",
+        "sourceImage": "assets/graffiti/originals/organized-konfusion-confrontations-tag-original.png",
+        "sourceSha256": "454562d7ad39abcf772a7907cca6b8f19fcf0ed5f173659b97d778821d9830f3"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
