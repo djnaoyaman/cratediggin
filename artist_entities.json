@@ -1009,6 +1009,27 @@
   "Junior M.A.F.I.A.": {
     "type": "MusicGroup"
   },
+  "Shing02": {
+    "type": "Person"
+  },
+  "Nujabes feat. Shing02": {
+    "type": null
+  },
+  "DJ Cam Quartet feat. Inlove": {
+    "type": null
+  },
+  "DJ Cam Quartet": {
+    "type": null
+  },
+  "Inlove": {
+    "type": null
+  },
+  "DJ Cam": {
+    "type": null
+  },
+  "Black Moon & Smif-N-Wessun": {
+    "type": null
+  },
   "Organized Konfusion": {
     "type": "MusicGroup"
   }

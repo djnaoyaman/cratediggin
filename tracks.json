@@ -92250,6 +92250,489 @@
     "yearStatus": "verified"
   },
   {
+    "id": "nas-nas-is-like",
+    "title": "Nas Is Like",
+    "artist": "Nas",
+    "primaryArtist": "Nas",
+    "primaryArtists": [
+      "Nas"
+    ],
+    "artists": [
+      "Nas"
+    ],
+    "album": "I Am...",
+    "year": 1999,
+    "yearStatus": "verified",
+    "yearBasis": "Columbia提供の公式TopicとApple Musicの同名収録曲を照合し1999年と確認。配信ページの日付は3月3日と4月6日で異なるため、初発売日は断定しない。",
+    "region": "未確認",
+    "scene": "未確認",
+    "regionBasis": "本曲の追加時に活動拠点の出典は未確認。既存の他曲の地域を機械的に転記しない。",
+    "moods": [
+      "ディギング"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Nas Is Like — Nas / Columbia公式音源",
+        "url": "https://www.youtube.com/watch?v=bXMtP5U-29s",
+        "kind": "Columbia提供の正規Topic。I Am...、1999年、DJ Premier制作・ミックス、表示尺3:57を実ページで確認。"
+      },
+      {
+        "label": "Nas Is Like — Apple Music",
+        "url": "https://music.apple.com/us/song/nas-is-like/170439594",
+        "kind": "I Am...収録の正規配信。1999年と制作クレジット、Explicit表記を照合。掲載アルバムカバーを画像で実見。"
+      }
+    ],
+    "essayTitle": "曲名から、制作クレジットへ。",
+    "deck": "1999年のI Am...から、NasとDJ Premierの組み合わせを聴く。",
+    "essay": [
+      "Nasの「Nas Is Like」は、1999年の『I Am...』に収録。制作とミックスにDJ Premier、録音にEddie Sancho、アシスタントにDexter Thibouの名が並ぶ。まずは曲名。その次に、音を組み立てた人たちの名前。クレジットを入口に、もう一度再生したい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ]
+    ],
+    "facts": [
+      {
+        "title": "選択した音源",
+        "text": "Columbia提供の公式アルバム音源を掲載。表示尺は3:57。公式ミュージックビデオ候補は3:59で、今回はI Am...の収録情報を確認できる音源を選択しました。曲名にリミックス、ライブ、インストの表記はありません。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "1999年のI Am...収録曲。DJ Premierの制作・ミックス表記をたどる。",
+    "art": {
+      "word": "NAS IS LIKE",
+      "tag": "NAS",
+      "style": "tag",
+      "seed": 2026110104,
+      "palette": [
+        "#D9A743",
+        "#9A641E",
+        "#352117",
+        "#14100D",
+        "#F7F0DC"
+      ],
+      "paletteSource": "I Am... — Apple Music cover",
+      "paletteSourceUrl": "https://music.apple.com/us/song/nas-is-like/170439594",
+      "paletteNote": "Apple MusicのNas Is Likeページに掲載されたI Am...カバーを2026-11-01に画像で実見。金・黄土・濃茶・黒・温かい白を目視で近似。肖像・仮面・既存ロゴは模倣せず独自の手描き文字に構成。"
+    },
+    "youtube": {
+      "id": "bXMtP5U-29s",
+      "url": "https://www.youtube.com/watch?v=bXMtP5U-29s",
+      "embedUrl": "https://www.youtube.com/embed/bXMtP5U-29s",
+      "title": "Nas Is Like",
+      "channel": "Nas",
+      "type": "公式Topic",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-11-01",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実ページでNas公式アーティスト表示・Columbia提供・曲名・I Am...・1999年・表示尺3:57・制作クレジットを照合。公式MV候補は3:59。Apple MusicにはExplicit表記あり。選択動画のclean/explicit差、実音声、日本・埋め込み再生、原盤マスター同一性は未確認。"
+    },
+    "datePublished": "2026-11-01",
+    "noteReviewedAt": "2026-11-01",
+    "selectedRelease": {
+      "album": "I Am...",
+      "year": 1999,
+      "note": "Columbia提供の正規アルバム音源。配信ページの日付差から初発売日は断定しない。原盤マスター同一性は未確認。"
+    },
+    "addedOrder": 708
+  },
+  {
+    "id": "nujabes-luv-sic",
+    "title": "Luv(sic)",
+    "artist": "Nujabes feat. Shing02",
+    "primaryArtist": "Nujabes",
+    "primaryArtists": [
+      "Nujabes"
+    ],
+    "artists": [
+      "Nujabes",
+      "Shing02"
+    ],
+    "album": "First Collection",
+    "year": 2001,
+    "yearStatus": "verified",
+    "yearBasis": "Shing02本人インタビューの掲載記事が、初作の翌年にあたる2002年にPart2が発売されたと記述。この年次関係から初作を2001年と整理。初発売日は未確認。Apple Musicの2006年はFirst Collectionの配信表記で、曲の初出年には採用しない。",
+    "region": "未確認",
+    "scene": "未確認",
+    "regionBasis": "本曲の追加時にNujabesの活動拠点の個別出典は未確認。既存の他曲から機械的に転記しない。",
+    "moods": [
+      "ディギング"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Nujabes — Luv(sic) feat. Shing02 / Official Audio",
+        "url": "https://www.youtube.com/watch?v=WPt1RrOw8OE",
+        "kind": "Nujabes公式アーティストチャンネル。Hydeout Productions権利表記、First Collection収録の説明、表示尺4:48を実ページ照合。"
+      },
+      {
+        "label": "Luv (Sic) — Apple Music / First Collection",
+        "url": "https://music.apple.com/us/song/luv-sic/1078900912",
+        "kind": "正規配信。Shing02歌唱、Nujabes作曲・プログラミング・制作、Shingo Annen作詞を掲載。2006年はこの配信の表記。掲載カバーを画像で実見。"
+      },
+      {
+        "label": "Shing02本人インタビュー — ARBAN / 大前至",
+        "url": "https://www.arban-mag.com/article/56044",
+        "kind": "2020年6月5日。無番号Luv(sic)の制作経緯、題名に込めた意味を本人が説明。"
+      },
+      {
+        "label": "Shing02本人インタビュー 第2頁 — ARBAN",
+        "url": "https://www.arban-mag.com/article/56044/2",
+        "kind": "初作の翌年2002年にPart2が発売されたという記事の年次説明。Part3や再録版との区別にも使用。"
+      }
+    ],
+    "essayTitle": "音楽へ宛てた、最初の手紙。",
+    "deck": "NujabesのビートとShing02の言葉。番号の付かない一曲から。",
+    "essay": [
+      "Shing02はARBANの取材で、最初の「Luv(sic)」を、音楽そのものに向けたラヴレターとして書いたと振り返っている。Nujabesから受け取ったビートテープをしばらく寝かせ、聴き直してから制作が動き出したという。",
+      "題名の綴りにも、Shing02なりの言葉遊びがある。まっすぐではない形の愛を、そのまま受け取ってほしい。そんな説明を頭の片隅に置いて、シリーズの最初の一曲へ戻りたい。"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "掲載するのは無番号の初作",
+        "text": "First Collection収録と説明されたNujabes公式音源（4:48）を掲載。Part2、Part3、Modal Soul remix、ライブ演奏ではありません。別候補の公式Hexalogy掲載音源とは収録作を区別し、マスターの完全一致は断定していません。動画の説明欄はFirst Collection、YouTubeの楽曲識別欄はHexalogyと表示されます。",
+        "sources": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "title": "曲の年と配信の年",
+        "text": "掲載インタビューの記事はPart2を初作の翌年、2002年の作品と記述。その年次関係から初作は2001年と整理しました。Apple Musicの2006年表記はFirst Collectionの配信情報として分けています。",
+        "sources": [
+          1,
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "記事には使用素材への言及がありますが、録音版と使用箇所の照合が未完了のためサンプル欄は未登録。",
+    "sounds": [],
+    "listening": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "音楽へ宛てた手紙としてShing02が語る、番号の付かないLuv(sic)。",
+    "art": {
+      "word": "LUV(SIC)",
+      "tag": "NUJABES feat. SHING02",
+      "style": "tag",
+      "seed": 2026110105,
+      "palette": [
+        "#F7F1E5",
+        "#D88B84",
+        "#337B80",
+        "#633D59",
+        "#5B3D2E",
+        "#D6AB53"
+      ],
+      "paletteSource": "First Collection — Apple Music cover",
+      "paletteSourceUrl": "https://music.apple.com/us/song/luv-sic/1078900912",
+      "paletteNote": "Apple Music掲載のFirst Collectionカバーを2026-11-01に画像で実見。白・珊瑚色・青緑・紫・茶・黄土を目視で近似。ジャケットの絵柄や既存文字を複製せず独自の手描き文字を構成。"
+    },
+    "youtube": {
+      "id": "WPt1RrOw8OE",
+      "url": "https://www.youtube.com/watch?v=WPt1RrOw8OE",
+      "embedUrl": "https://www.youtube.com/embed/WPt1RrOw8OE",
+      "title": "Nujabes - Luv(sic) feat. Shing02 [Official Audio]",
+      "channel": "Nujabes",
+      "type": "公式音源",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-11-01",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実ページでNujabes公式アーティスト表示、Luv(sic) feat. Shing02、Hydeout権利表記、First Collectionの説明、表示尺4:48を照合。公式Hexalogy版候補Y4HWvsGs0rYは別収録作として比較し未採用。clean/explicit、実音声、日本・埋め込み再生、原盤マスター同一性は未確認。"
+    },
+    "datePublished": "2026-11-01",
+    "noteReviewedAt": "2026-11-01",
+    "selectedRelease": {
+      "album": "First Collection",
+      "year": null,
+      "note": "選択動画の説明はFirst Collection。2006年は対応するApple Music配信ページの年で、原曲や編集盤の初出年とは断定しない。YouTubeの楽曲識別欄はHexalogy表記。原盤マスター同一性は未確認。",
+      "distributionYear": 2006
+    },
+    "featuredArtists": [
+      "Shing02"
+    ],
+    "producers": [
+      "Nujabes"
+    ],
+    "addedOrder": 709
+  },
+  {
+    "id": "dj-cam-quartet-youve-got-to-have-freedom",
+    "title": "You've Got to Have Freedom",
+    "artist": "DJ Cam Quartet feat. Inlove",
+    "primaryArtist": "DJ Cam Quartet",
+    "primaryArtists": [
+      "DJ Cam Quartet"
+    ],
+    "artists": [
+      "DJ Cam Quartet",
+      "Inlove"
+    ],
+    "album": "Diggin",
+    "year": null,
+    "yearStatus": "unconfirmed",
+    "yearBasis": "本人BandcampのDigginは2012年6月1日、選択動画のThe Essentialは2017年11月3日と表記。曲の初出年を確定する原盤資料を未確認のため、これらの配信年を初出年として登録しない。",
+    "region": "未確認",
+    "scene": "未確認",
+    "regionBasis": "本人アカウントにはParis, Franceとあるが、Quartetの活動拠点を個別には未確認。録音地と同一視しない。",
+    "moods": [
+      "ディギング"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "You've Got to Have Freedom (feat. Inlove) — DJ CAM提供公式音源",
+        "url": "https://www.youtube.com/watch?v=sokLUeUvK2E",
+        "kind": "利用者指定の動画。DJ CAM公式アーティストチャンネル、DJ CAM提供、DJ Cam Quartet・Inlove、The Essential、2017年配信、表示尺4:39を実ページで確認。"
+      },
+      {
+        "label": "Diggin — DJ Cam Quartet / 本人Bandcamp",
+        "url": "https://djcam.bandcamp.com/album/diggin",
+        "kind": "本人の配信ページ。9曲目の同名曲feat Inlove、表示4:40、Produced by DJ Cam、2012年配信表記。掲載Digginカバーを画像で実見。"
+      },
+      {
+        "label": "You've got to have freedom feat Inlove — 本人Bandcamp",
+        "url": "https://djcam.bandcamp.com/track/youve-got-to-have-freedom-feat-inlove",
+        "kind": "本人の曲別ページでQuartet名義、Diggin収録、feat Inlove、表示4:40を確認。"
+      },
+      {
+        "label": "Diggin — Diggers Factory / Attytude records",
+        "url": "https://www.diggersfactory.com/vinyl/247864/dj-cam-diggin",
+        "kind": "正規盤販売ページ。QuartetをDJ Camのライブ・プロジェクトと説明、B4同名曲feat Inloveを4:39で掲載。"
+      }
+    ],
+    "essayTitle": "QuartetとInlove、その名前をたどって。",
+    "deck": "Digginの収録曲を、指定された公式音源で。",
+    "essay": [
+      "DJ Cam Quartetの『Diggin』では、「You’ve Got to Have Freedom」にInloveの名が添えられている。本人のBandcampにはDJ Camのプロデュース表記。ここでは、利用者が指定した『The Essential』収録の公式音源を掲載している。曲名だけでなく、名義と収録作を確かめてから再生したい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "利用者指定の公式音源",
+        "text": "DJ CAM提供のThe Essential収録音源（4:39）を採用。本人BandcampのDiggin収録曲（4:40）と演者・曲名・Inloveの客演表記を照合しました。別演者の同名曲とは区別し、秒単位の差からマスターの完全一致は断定していません。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "曲の初出年は確認中",
+        "text": "Digginの本人配信ページは2012年、選択したThe Essentialは2017年の表記。これらを曲の初出年と取り違えないよう、年表上の初出年は未確認として残しています。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "DJ Cam QuartetとInloveの名義を、本人配信の曲目と利用者指定の公式音源で照合。",
+    "art": {
+      "word": "YOU'VE GOT TO HAVE FREEDOM",
+      "tag": "DJ CAM QUARTET feat. INLOVE",
+      "style": "tag",
+      "seed": 2026110106,
+      "palette": [
+        "#E4D72A",
+        "#8D892D",
+        "#464524",
+        "#11120D",
+        "#F2EEDC"
+      ],
+      "paletteSource": "Diggin — DJ Cam Quartet / artist Bandcamp cover",
+      "paletteSourceUrl": "https://djcam.bandcamp.com/album/diggin",
+      "paletteNote": "本人Bandcamp掲載のDigginカバーを2026-11-01に画像で実見。黄・オリーブ・濃い黄褐色・黒・白を目視で近似。後年編集盤の配色ではなく、同曲を収録するDigginを参照。空や樹木、既存ロゴは描かず独自の手描き文字を構成。"
+    },
+    "youtube": {
+      "id": "sokLUeUvK2E",
+      "url": "https://www.youtube.com/watch?v=sokLUeUvK2E",
+      "embedUrl": "https://www.youtube.com/embed/sokLUeUvK2E",
+      "title": "You've Got to Have Freedom (feat. Inlove)",
+      "channel": "DJ CAM",
+      "type": "公式Topic",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-11-01",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "利用者指定URLの実ページで曲名・DJ Cam Quartet・Inlove・DJ CAM提供・公式アーティスト表示・The Essential・配信2017年11月3日・表示尺4:39を照合。本人Bandcamp同名曲4:40と比較。clean/explicit差、実音声、日本・埋め込み再生、原盤マスター同一性は未確認。"
+    },
+    "datePublished": "2026-11-01",
+    "noteReviewedAt": "2026-11-01",
+    "selectedRelease": {
+      "album": "The Essential",
+      "year": 2017,
+      "note": "選択した公式配信の2017年11月3日表記。原曲の初出年やDigginの初発売年とは別に保存。"
+    },
+    "featuredArtists": [
+      "Inlove"
+    ],
+    "producers": [
+      "DJ Cam"
+    ],
+    "yearDisplayNote": "初出年未確認。選択したThe Essentialの2017年配信とは区別。",
+    "versionBasis": "利用者指定sokLUeUvK2Eを優先。Quartet・Inlove・同名曲を本人Bandcampと照合し、The Essential収録版を選択。別演者、ライブ、リミックス表記なし。原盤マスター一致は未確認。",
+    "addedOrder": 710
+  },
+  {
+    "id": "black-moon-smif-n-wessun-headz-aint-redee-original-buckshot-mix",
+    "title": "Headz Ain't Redee (Original Buckshot Mix)",
+    "artist": "Black Moon & Smif-N-Wessun",
+    "primaryArtist": "Black Moon",
+    "primaryArtists": [
+      "Black Moon",
+      "Smif-N-Wessun"
+    ],
+    "artists": [
+      "Black Moon",
+      "Smif-N-Wessun"
+    ],
+    "album": "Headz Ain't Redee! / Black Smif-N-Wessun",
+    "year": 1995,
+    "yearStatus": "verified",
+    "yearBasis": "実盤ラベルWR20165Aの℗&©1995表記とOriginal Buckshot Mixを目視で確認。CRIB RECORDSの原盤情報も1995年。選択動画の2013年コンピレーション表記や2017年投稿年とは区別する。",
+    "region": "未確認",
+    "scene": "未確認",
+    "regionBasis": "本曲の追加時に活動拠点の出典は未確認。グループ名やジャンルから推定しない。",
+    "moods": [
+      "ディギング"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Headz Ain't Redee — Wreck WR20165A label photograph",
+        "url": "https://www.cribrecords.jp/data/cribrecords/product/20130606_74e995.jpg",
+        "kind": "CRIB RECORDS掲載の実盤ラベル写真を実見。Black Moon/Smif-N-Wessunの共同名義、1995年、Original Buckshot Mix5:31、Buckshot制作、Kieran Walsh録音を確認。"
+      },
+      {
+        "label": "Headz Ain't Redee — CRIB RECORDS",
+        "url": "https://www.cribrecords.jp/product/1322",
+        "kind": "原盤販売資料。1995年Wreck12インチ、Original Buckshot MixとBeatminerz Remixを区別。"
+      },
+      {
+        "label": "Headz Ain't Redee (Original Buckshot Mix) — Black Moon / Topic",
+        "url": "https://www.youtube.com/watch?v=LMeBu_qqQ_A",
+        "kind": "Nervous Records提供の公式Topic。実ページ表示5:31、Smif-N-Wessun客演表記、Nervous Third50 Releases、℗2013を確認。"
+      }
+    ],
+    "essayTitle": "ふたつの名義、ふたつのミックス。",
+    "deck": "1995年のラベルに並ぶ、Black MoonとSmif-N-Wessun。",
+    "essay": [
+      "「Headz Ain’t Redee」の12インチには、Black MoonとSmif-N-Wessunの名が並ぶ。A面はOriginal Buckshot MixとBeatminerz Remixの2曲構成。ここで選んだのは前者で、実盤ラベルの制作クレジットはBuckshot、録音はKieran Walsh。曲名だけでなく、ミックス名までたどって聴きたい一枚。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ]
+    ],
+    "facts": [
+      {
+        "title": "選択した音源と原盤",
+        "text": "掲載音源はNervous Records提供のOriginal Buckshot Mix（表示尺5:31）。選択動画は2013年のNervous Third50 Releasesからの配信ですが、楽曲の年は実盤ラベルの1995年としています。Beatminerz RemixやPart IIとは別に登録。原盤と配信音源のマスター同一性は未確認です。",
+        "sources": [
+          0,
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "Black MoonとSmif-N-Wessunの共同名義シングル。実盤ラベルと公式TopicのOriginal Buckshot Mixを照合。",
+    "art": {
+      "word": "HEADZ AIN'T REDEE",
+      "tag": "BLACK MOON / SMIF-N-WESSUN",
+      "style": "tag",
+      "seed": 2026110103,
+      "palette": [
+        "#F3DD45",
+        "#181816",
+        "#EEEBD9",
+        "#8C8859"
+      ],
+      "paletteSource": "Headz Ain't Redee! — Wreck WR20165A original single label",
+      "paletteSourceUrl": "https://www.cribrecords.jp/data/cribrecords/product/20130606_74e995.jpg",
+      "paletteNote": "1995年のWreck実盤ラベル写真を2026-11-01に画像で実見。黄・黒・オフホワイト・灰褐色を目視で近似。後年コンピレーションのカバーではなく、このシングルの配色を参照。ロゴ・人物・弾丸等の絵柄は模倣しない。"
+    },
+    "youtube": {
+      "id": "LMeBu_qqQ_A",
+      "url": "https://www.youtube.com/watch?v=LMeBu_qqQ_A",
+      "embedUrl": "https://www.youtube.com/embed/LMeBu_qqQ_A",
+      "title": "Headz Ain't Redee feat. Smif-N-Wessun (Original Buckshot Mix)",
+      "channel": "Black Moon - Topic",
+      "type": "公式Topic",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-11-01",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実ページでTopic名義・Nervous提供・曲名・Original Buckshot Mix・Smif-N-Wessun表記・表示尺5:31を照合。実盤ラベルと共同名義・版・尺が対応。表示されたBeatminerz Remixとextra dirty投稿を別版/編集不明として除外。clean/explicit編集差、実音声、日本・埋め込み再生、原盤マスター同一性は未確認。"
+    },
+    "datePublished": "2026-11-01",
+    "noteReviewedAt": "2026-11-01",
+    "selectedRelease": {
+      "album": "Nervous Third 50 Releases",
+      "year": 2013,
+      "note": "選択した公式Topicのコンピレーション情報。原曲の1995年、原盤共同名義とは別に保存。"
+    },
+    "versionBasis": "原リストはHeads Aint Redee / Black Moon & Smif N Wessunと記載、版指定なし。実盤のHeadz Aint Redeeと共同名義を照合し、Original Buckshot Mixを選択。Beatminerz Remixと混同しない。",
+    "addedOrder": 711
+  },
+  {
     "id": "organized-konfusion-confrontations",
     "title": "Confrontations",
     "artist": "Organized Konfusion",
@@ -92351,6 +92834,6 @@
       "year": 1997,
       "note": "正規Topicによる同作収録曲。リミックスやインストの表記なし。配信マスター同一性は未確認。"
     },
-    "addedOrder": 708
+    "addedOrder": 712
   }
 ]

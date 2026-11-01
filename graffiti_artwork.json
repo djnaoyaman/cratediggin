@@ -16649,6 +16649,162 @@
       }
     },
     {
+      "id": "nas-nas-is-like",
+      "title": "Nas Is Like",
+      "artist": "Nas",
+      "album": "I Am...",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#D9A743",
+        "#9A641E",
+        "#352117",
+        "#14100D",
+        "#F7F0DC"
+      ],
+      "paletteSource": "I Am... — Apple Music cover",
+      "paletteNote": "Apple MusicのNas Is Likeページに掲載されたI Am...カバーを2026-11-01に画像で実見。金・黄土・濃茶・黒・温かい白を目視で近似。肖像・仮面・既存ロゴは模倣せず独自の手描き文字に構成。",
+      "image": "assets/graffiti/nas-nas-is-like-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/nas-nas-is-like-tag-original.png",
+      "concept": "実見したI Am...の配色から、金・黄土・茶・白の独自の手描き文字を構成。曲の意味や作者の意図の断定ではない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          152,
+          52,
+          2009,
+          685
+        ],
+        "outputSha256": "efaca7f23777b32582df6b606211a6539116e91276de9aadc1a9d228b9b8295d",
+        "sourceImage": "assets/graffiti/originals/nas-nas-is-like-tag-original.png",
+        "sourceSha256": "a17e62313ae3d40fd703d2dd03e0e5796cab0326888224735e0b8755c3e923d5"
+      }
+    },
+    {
+      "id": "nujabes-luv-sic",
+      "title": "Luv(sic)",
+      "artist": "Nujabes feat. Shing02",
+      "album": "First Collection",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#F7F1E5",
+        "#D88B84",
+        "#337B80",
+        "#633D59",
+        "#5B3D2E",
+        "#D6AB53"
+      ],
+      "paletteSource": "First Collection — Apple Music cover",
+      "paletteNote": "Apple Music掲載のFirst Collectionカバーを2026-11-01に画像で実見。白・珊瑚色・青緑・紫・茶・黄土を目視で近似。ジャケットの絵柄や既存文字を複製せず独自の手描き文字を構成。",
+      "image": "assets/graffiti/nujabes-luv-sic-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/nujabes-luv-sic-tag-original.png",
+      "concept": "実見したFirst Collectionの配色から、白・珊瑚色・青緑・紫・茶・黄土の独自の手描き文字を構成。曲の意味や作者の意図の断定ではない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          141,
+          61,
+          1872,
+          801
+        ],
+        "outputSha256": "b8c82e38efbeec37a53369e923b7222ba985e27be234830cc47ef7e4a20f2d43",
+        "sourceImage": "assets/graffiti/originals/nujabes-luv-sic-tag-original.png",
+        "sourceSha256": "393f64690eadc5cc992163c6268d652dda1e3c76d8c9f011cbf57794df7cac32"
+      }
+    },
+    {
+      "id": "dj-cam-quartet-youve-got-to-have-freedom",
+      "title": "You've Got to Have Freedom",
+      "artist": "DJ Cam Quartet feat. Inlove",
+      "album": "Diggin",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#E4D72A",
+        "#8D892D",
+        "#464524",
+        "#11120D",
+        "#F2EEDC"
+      ],
+      "paletteSource": "Diggin — DJ Cam Quartet / artist Bandcamp cover",
+      "paletteNote": "本人Bandcamp掲載のDigginカバーを2026-11-01に画像で実見。黄・オリーブ・濃い黄褐色・黒・白を目視で近似。後年編集盤の配色ではなく、同曲を収録するDigginを参照。空や樹木、既存ロゴは描かず独自の手描き文字を構成。",
+      "image": "assets/graffiti/dj-cam-quartet-youve-got-to-have-freedom-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/dj-cam-quartet-youve-got-to-have-freedom-tag-original.png",
+      "concept": "本人Bandcamp掲載Digginの実見した配色から、黄・オリーブ・黒・白の独自の手描き文字を構成。QuartetとInloveの名義を保持。曲の意味や作者の意図の断定ではない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          138,
+          62,
+          1829,
+          818
+        ],
+        "outputSha256": "0f33e8c673ebf82866626a1fc5802b8d5a7cdcfeb16ada6df08d5f5b425ccfe0",
+        "sourceImage": "assets/graffiti/originals/dj-cam-quartet-youve-got-to-have-freedom-tag-original.png",
+        "sourceSha256": "9680ce6b194bd3d019f4318a4e61a674f17360e52cf94a1b63d840dd677f57a9"
+      }
+    },
+    {
+      "id": "black-moon-smif-n-wessun-headz-aint-redee-original-buckshot-mix",
+      "title": "Headz Ain't Redee (Original Buckshot Mix)",
+      "artist": "Black Moon & Smif-N-Wessun",
+      "album": "Headz Ain't Redee! / Black Smif-N-Wessun",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#F3DD45",
+        "#181816",
+        "#EEEBD9",
+        "#8C8859"
+      ],
+      "paletteSource": "Headz Ain't Redee! — Wreck WR20165A original single label",
+      "paletteNote": "1995年のWreck実盤ラベル写真を2026-11-01に画像で実見。黄・黒・オフホワイト・灰褐色を目視で近似。後年コンピレーションのカバーではなく、このシングルの配色を参照。ロゴ・人物・弾丸等の絵柄は模倣しない。",
+      "image": "assets/graffiti/black-moon-smif-n-wessun-headz-aint-redee-original-buckshot-mix-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/black-moon-smif-n-wessun-headz-aint-redee-original-buckshot-mix-tag-original.png",
+      "concept": "実見した1995年シングルのラベル配色から、黄・黒・白の独自の手描き文字を構成。共同名義とミックス名を保持。曲の意味や作者の意図の断定ではない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          154,
+          61,
+          2037,
+          799
+        ],
+        "outputSha256": "63d3107773b6b2b62555080e6294a01d8f89571b612b7d9e990010674a456c6b",
+        "sourceImage": "assets/graffiti/originals/black-moon-smif-n-wessun-headz-aint-redee-original-buckshot-mix-tag-original.png",
+        "sourceSha256": "9debe641c1e3aceb236c2acac9b9cccef9537c86b6314437b2386d46263882ec"
+      }
+    },
+    {
       "id": "organized-konfusion-confrontations",
       "title": "Confrontations",
       "artist": "Organized Konfusion",
