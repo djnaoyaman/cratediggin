@@ -16765,6 +16765,44 @@
         "sourceImage": "assets/graffiti/originals/dj-cam-quartet-youve-got-to-have-freedom-tag-original.png",
         "sourceSha256": "9680ce6b194bd3d019f4318a4e61a674f17360e52cf94a1b63d840dd677f57a9"
       }
+    },
+    {
+      "id": "black-moon-smif-n-wessun-headz-aint-redee-original-buckshot-mix",
+      "title": "Headz Ain't Redee (Original Buckshot Mix)",
+      "artist": "Black Moon & Smif-N-Wessun",
+      "album": "Headz Ain't Redee! / Black Smif-N-Wessun",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#F3DD45",
+        "#181816",
+        "#EEEBD9",
+        "#8C8859"
+      ],
+      "paletteSource": "Headz Ain't Redee! — Wreck WR20165A original single label",
+      "paletteNote": "1995年のWreck実盤ラベル写真を2026-11-01に画像で実見。黄・黒・オフホワイト・灰褐色を目視で近似。後年コンピレーションのカバーではなく、このシングルの配色を参照。ロゴ・人物・弾丸等の絵柄は模倣しない。",
+      "image": "assets/graffiti/black-moon-smif-n-wessun-headz-aint-redee-original-buckshot-mix-tag-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/black-moon-smif-n-wessun-headz-aint-redee-original-buckshot-mix-tag-original.png",
+      "concept": "実見した1995年シングルのラベル配色から、黄・黒・白の独自の手描き文字を構成。共同名義とミックス名を保持。曲の意味や作者の意図の断定ではない。",
+      "conceptIsVerifiedSongMeaning": false,
+      "artistIntendedThisVisual": false,
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          154,
+          61,
+          2037,
+          799
+        ],
+        "outputSha256": "63d3107773b6b2b62555080e6294a01d8f89571b612b7d9e990010674a456c6b",
+        "sourceImage": "assets/graffiti/originals/black-moon-smif-n-wessun-headz-aint-redee-original-buckshot-mix-tag-original.png",
+        "sourceSha256": "9debe641c1e3aceb236c2acac9b9cccef9537c86b6314437b2386d46263882ec"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

@@ -92620,5 +92620,116 @@
     "yearDisplayNote": "初出年未確認。選択したThe Essentialの2017年配信とは区別。",
     "versionBasis": "利用者指定sokLUeUvK2Eを優先。Quartet・Inlove・同名曲を本人Bandcampと照合し、The Essential収録版を選択。別演者、ライブ、リミックス表記なし。原盤マスター一致は未確認。",
     "addedOrder": 710
+  },
+  {
+    "id": "black-moon-smif-n-wessun-headz-aint-redee-original-buckshot-mix",
+    "title": "Headz Ain't Redee (Original Buckshot Mix)",
+    "artist": "Black Moon & Smif-N-Wessun",
+    "primaryArtist": "Black Moon",
+    "primaryArtists": [
+      "Black Moon",
+      "Smif-N-Wessun"
+    ],
+    "artists": [
+      "Black Moon",
+      "Smif-N-Wessun"
+    ],
+    "album": "Headz Ain't Redee! / Black Smif-N-Wessun",
+    "year": 1995,
+    "yearStatus": "verified",
+    "yearBasis": "実盤ラベルWR20165Aの℗&©1995表記とOriginal Buckshot Mixを目視で確認。CRIB RECORDSの原盤情報も1995年。選択動画の2013年コンピレーション表記や2017年投稿年とは区別する。",
+    "region": "未確認",
+    "scene": "未確認",
+    "regionBasis": "本曲の追加時に活動拠点の出典は未確認。グループ名やジャンルから推定しない。",
+    "moods": [
+      "ディギング"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Headz Ain't Redee — Wreck WR20165A label photograph",
+        "url": "https://www.cribrecords.jp/data/cribrecords/product/20130606_74e995.jpg",
+        "kind": "CRIB RECORDS掲載の実盤ラベル写真を実見。Black Moon/Smif-N-Wessunの共同名義、1995年、Original Buckshot Mix5:31、Buckshot制作、Kieran Walsh録音を確認。"
+      },
+      {
+        "label": "Headz Ain't Redee — CRIB RECORDS",
+        "url": "https://www.cribrecords.jp/product/1322",
+        "kind": "原盤販売資料。1995年Wreck12インチ、Original Buckshot MixとBeatminerz Remixを区別。"
+      },
+      {
+        "label": "Headz Ain't Redee (Original Buckshot Mix) — Black Moon / Topic",
+        "url": "https://www.youtube.com/watch?v=LMeBu_qqQ_A",
+        "kind": "Nervous Records提供の公式Topic。実ページ表示5:31、Smif-N-Wessun客演表記、Nervous Third50 Releases、℗2013を確認。"
+      }
+    ],
+    "essayTitle": "ふたつの名義、ふたつのミックス。",
+    "deck": "1995年のラベルに並ぶ、Black MoonとSmif-N-Wessun。",
+    "essay": [
+      "「Headz Ain’t Redee」の12インチには、Black MoonとSmif-N-Wessunの名が並ぶ。A面はOriginal Buckshot MixとBeatminerz Remixの2曲構成。ここで選んだのは前者で、実盤ラベルの制作クレジットはBuckshot、録音はKieran Walsh。曲名だけでなく、ミックス名までたどって聴きたい一枚。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ]
+    ],
+    "facts": [
+      {
+        "title": "選択した音源と原盤",
+        "text": "掲載音源はNervous Records提供のOriginal Buckshot Mix（表示尺5:31）。選択動画は2013年のNervous Third50 Releasesからの配信ですが、楽曲の年は実盤ラベルの1995年としています。Beatminerz RemixやPart IIとは別に登録。原盤と配信音源のマスター同一性は未確認です。",
+        "sources": [
+          0,
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "Black MoonとSmif-N-Wessunの共同名義シングル。実盤ラベルと公式TopicのOriginal Buckshot Mixを照合。",
+    "art": {
+      "word": "HEADZ AIN'T REDEE",
+      "tag": "BLACK MOON / SMIF-N-WESSUN",
+      "style": "tag",
+      "seed": 2026110103,
+      "palette": [
+        "#F3DD45",
+        "#181816",
+        "#EEEBD9",
+        "#8C8859"
+      ],
+      "paletteSource": "Headz Ain't Redee! — Wreck WR20165A original single label",
+      "paletteSourceUrl": "https://www.cribrecords.jp/data/cribrecords/product/20130606_74e995.jpg",
+      "paletteNote": "1995年のWreck実盤ラベル写真を2026-11-01に画像で実見。黄・黒・オフホワイト・灰褐色を目視で近似。後年コンピレーションのカバーではなく、このシングルの配色を参照。ロゴ・人物・弾丸等の絵柄は模倣しない。"
+    },
+    "youtube": {
+      "id": "LMeBu_qqQ_A",
+      "url": "https://www.youtube.com/watch?v=LMeBu_qqQ_A",
+      "embedUrl": "https://www.youtube.com/embed/LMeBu_qqQ_A",
+      "title": "Headz Ain't Redee feat. Smif-N-Wessun (Original Buckshot Mix)",
+      "channel": "Black Moon - Topic",
+      "type": "公式Topic",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-11-01",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実ページでTopic名義・Nervous提供・曲名・Original Buckshot Mix・Smif-N-Wessun表記・表示尺5:31を照合。実盤ラベルと共同名義・版・尺が対応。表示されたBeatminerz Remixとextra dirty投稿を別版/編集不明として除外。clean/explicit編集差、実音声、日本・埋め込み再生、原盤マスター同一性は未確認。"
+    },
+    "datePublished": "2026-11-01",
+    "noteReviewedAt": "2026-11-01",
+    "selectedRelease": {
+      "album": "Nervous Third 50 Releases",
+      "year": 2013,
+      "note": "選択した公式Topicのコンピレーション情報。原曲の1995年、原盤共同名義とは別に保存。"
+    },
+    "versionBasis": "原リストはHeads Aint Redee / Black Moon & Smif N Wessunと記載、版指定なし。実盤のHeadz Aint Redeeと共同名義を照合し、Original Buckshot Mixを選択。Beatminerz Remixと混同しない。",
+    "addedOrder": 711
   }
 ]
