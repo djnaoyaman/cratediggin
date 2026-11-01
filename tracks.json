@@ -92352,5 +92352,140 @@
       "note": "Columbia提供の正規アルバム音源。配信ページの日付差から初発売日は断定しない。原盤マスター同一性は未確認。"
     },
     "addedOrder": 708
+  },
+  {
+    "id": "nujabes-luv-sic",
+    "title": "Luv(sic)",
+    "artist": "Nujabes feat. Shing02",
+    "primaryArtist": "Nujabes",
+    "primaryArtists": [
+      "Nujabes"
+    ],
+    "artists": [
+      "Nujabes",
+      "Shing02"
+    ],
+    "album": "First Collection",
+    "year": 2001,
+    "yearStatus": "verified",
+    "yearBasis": "Shing02本人インタビューの掲載記事が、初作の翌年にあたる2002年にPart2が発売されたと記述。この年次関係から初作を2001年と整理。初発売日は未確認。Apple Musicの2006年はFirst Collectionの配信表記で、曲の初出年には採用しない。",
+    "region": "未確認",
+    "scene": "未確認",
+    "regionBasis": "本曲の追加時にNujabesの活動拠点の個別出典は未確認。既存の他曲から機械的に転記しない。",
+    "moods": [
+      "ディギング"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Nujabes — Luv(sic) feat. Shing02 / Official Audio",
+        "url": "https://www.youtube.com/watch?v=WPt1RrOw8OE",
+        "kind": "Nujabes公式アーティストチャンネル。Hydeout Productions権利表記、First Collection収録の説明、表示尺4:48を実ページ照合。"
+      },
+      {
+        "label": "Luv (Sic) — Apple Music / First Collection",
+        "url": "https://music.apple.com/us/song/luv-sic/1078900912",
+        "kind": "正規配信。Shing02歌唱、Nujabes作曲・プログラミング・制作、Shingo Annen作詞を掲載。2006年はこの配信の表記。掲載カバーを画像で実見。"
+      },
+      {
+        "label": "Shing02本人インタビュー — ARBAN / 大前至",
+        "url": "https://www.arban-mag.com/article/56044",
+        "kind": "2020年6月5日。無番号Luv(sic)の制作経緯、題名に込めた意味を本人が説明。"
+      },
+      {
+        "label": "Shing02本人インタビュー 第2頁 — ARBAN",
+        "url": "https://www.arban-mag.com/article/56044/2",
+        "kind": "初作の翌年2002年にPart2が発売されたという記事の年次説明。Part3や再録版との区別にも使用。"
+      }
+    ],
+    "essayTitle": "音楽へ宛てた、最初の手紙。",
+    "deck": "NujabesのビートとShing02の言葉。番号の付かない一曲から。",
+    "essay": [
+      "Shing02はARBANの取材で、最初の「Luv(sic)」を、音楽そのものに向けたラヴレターとして書いたと振り返っている。Nujabesから受け取ったビートテープをしばらく寝かせ、聴き直してから制作が動き出したという。",
+      "題名の綴りにも、Shing02なりの言葉遊びがある。まっすぐではない形の愛を、そのまま受け取ってほしい。そんな説明を頭の片隅に置いて、シリーズの最初の一曲へ戻りたい。"
+    ],
+    "essaySources": [
+      [
+        2
+      ],
+      [
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "掲載するのは無番号の初作",
+        "text": "First Collection収録と説明されたNujabes公式音源（4:48）を掲載。Part2、Part3、Modal Soul remix、ライブ演奏ではありません。別候補の公式Hexalogy掲載音源とは収録作を区別し、マスターの完全一致は断定していません。動画の説明欄はFirst Collection、YouTubeの楽曲識別欄はHexalogyと表示されます。",
+        "sources": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "title": "曲の年と配信の年",
+        "text": "掲載インタビューの記事はPart2を初作の翌年、2002年の作品と記述。その年次関係から初作は2001年と整理しました。Apple Musicの2006年表記はFirst Collectionの配信情報として分けています。",
+        "sources": [
+          1,
+          3
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "記事には使用素材への言及がありますが、録音版と使用箇所の照合が未完了のためサンプル欄は未登録。",
+    "sounds": [],
+    "listening": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "音楽へ宛てた手紙としてShing02が語る、番号の付かないLuv(sic)。",
+    "art": {
+      "word": "LUV(SIC)",
+      "tag": "NUJABES feat. SHING02",
+      "style": "tag",
+      "seed": 2026110105,
+      "palette": [
+        "#F7F1E5",
+        "#D88B84",
+        "#337B80",
+        "#633D59",
+        "#5B3D2E",
+        "#D6AB53"
+      ],
+      "paletteSource": "First Collection — Apple Music cover",
+      "paletteSourceUrl": "https://music.apple.com/us/song/luv-sic/1078900912",
+      "paletteNote": "Apple Music掲載のFirst Collectionカバーを2026-11-01に画像で実見。白・珊瑚色・青緑・紫・茶・黄土を目視で近似。ジャケットの絵柄や既存文字を複製せず独自の手描き文字を構成。"
+    },
+    "youtube": {
+      "id": "WPt1RrOw8OE",
+      "url": "https://www.youtube.com/watch?v=WPt1RrOw8OE",
+      "embedUrl": "https://www.youtube.com/embed/WPt1RrOw8OE",
+      "title": "Nujabes - Luv(sic) feat. Shing02 [Official Audio]",
+      "channel": "Nujabes",
+      "type": "公式音源",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-11-01",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実ページでNujabes公式アーティスト表示、Luv(sic) feat. Shing02、Hydeout権利表記、First Collectionの説明、表示尺4:48を照合。公式Hexalogy版候補Y4HWvsGs0rYは別収録作として比較し未採用。clean/explicit、実音声、日本・埋め込み再生、原盤マスター同一性は未確認。"
+    },
+    "datePublished": "2026-11-01",
+    "noteReviewedAt": "2026-11-01",
+    "selectedRelease": {
+      "album": "First Collection",
+      "year": null,
+      "note": "選択動画の説明はFirst Collection。2006年は対応するApple Music配信ページの年で、原曲や編集盤の初出年とは断定しない。YouTubeの楽曲識別欄はHexalogy表記。原盤マスター同一性は未確認。",
+      "distributionYear": 2006
+    },
+    "featuredArtists": [
+      "Shing02"
+    ],
+    "producers": [
+      "Nujabes"
+    ],
+    "addedOrder": 709
   }
 ]
