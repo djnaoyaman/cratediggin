@@ -92138,5 +92138,115 @@
       "note": "正規Topicの配信メタデータ。原シングルやEPとのマスター同一性は未確認。"
     },
     "addedOrder": 706
+  },
+  {
+    "id": "junior-mafia-players-anthem",
+    "title": "Player's Anthem",
+    "artist": "Junior M.A.F.I.A.",
+    "primaryArtist": "Junior M.A.F.I.A.",
+    "primaryArtists": [
+      "Junior M.A.F.I.A."
+    ],
+    "artists": [
+      "Junior M.A.F.I.A."
+    ],
+    "album": "Conspiracy",
+    "year": 1995,
+    "yearBasis": "公式MV説明が1995年のデビューシングルと明記。Apple Musicの曲情報も1995年。2018年は選択動画の公開年で、曲の初出年ではない。",
+    "region": "New York",
+    "scene": "Brooklyn, New York",
+    "regionBasis": "AllMusicの二次資料にBrooklyn結成、Bedford-Stuyvesant出身のグループとある。検索に収録された本文で照合し、直接ページは403のため追加取得していない。各メンバーの出生地とは区別する。",
+    "moods": [
+      "ディギング"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Player’s Anthem — The Notorious B.I.G. / Official Video",
+        "url": "https://www.youtube.com/watch?v=2iAVQ5qEqvA",
+        "kind": "公式アーティストチャンネル。1995年のデビュー曲、Conspiracy収録、3名の参加とLance Rivera監督を記載。表示尺3:59"
+      },
+      {
+        "label": "Player’s Anthem — Apple Music",
+        "url": "https://music.apple.com/us/song/players-anthem/390328880",
+        "kind": "正規配信の作品情報・制作クレジットとConspiracyカバーを閲覧。DJ Clark KentがProducer / Mixing Engineer"
+      },
+      {
+        "label": "Junior M.A.F.I.A. — AllMusic biography",
+        "url": "https://www.allmusic.com/artist/p165563",
+        "kind": "二次資料。検索に収録された本文のBrooklyn / Bedford-Stuyvesant記述を照合。直接ページ取得は403で停止"
+      }
+    ],
+    "essayTitle": "三人の名で、扉を開く。",
+    "deck": "Biggie、Lil’ Kim、Lil’ Cease。グループのデビューを知らせる一曲。",
+    "essay": [
+      "「Player’s Anthem」は、Junior M.A.F.I.A.が1995年に送り出したデビューシングル。The Notorious B.I.G.、Lil’ Kim、Lil’ Ceaseの三人が参加する。制作クレジットにはDJ Clark Kent。グループの入口に、この名前の並びを置いて聴いてみたい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ]
+    ],
+    "facts": [
+      {
+        "title": "選択した音源",
+        "text": "掲載音源はThe Notorious B.I.G.公式チャンネルの公式MV（表示尺3:59）。Radio Versionやリミックスとしては登録していません。映像の監督はLance Rivera。clean / explicitの編集差とアルバム原盤との同一性は未確認です。",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "Junior M.A.F.I.A.のデビューシングル。公式MVと正規配信の制作クレジットを入口に。",
+    "art": {
+      "word": "PLAYER'S ANTHEM",
+      "tag": "JUNIOR M.A.F.I.A.",
+      "style": "tag",
+      "seed": 2026110101,
+      "palette": [
+        "#111313",
+        "#A52523",
+        "#ACAFB0",
+        "#DED5BB",
+        "#C6AF38"
+      ],
+      "paletteSource": "Conspiracy — Apple Music cover",
+      "paletteSourceUrl": "https://music.apple.com/us/song/players-anthem/390328880",
+      "paletteNote": "ConspiracyのApple Music掲載カバーを2026-11-01に画像で実見。黒・深赤・銀灰・アイボリー・黄を目視で近似。ジャケットの人物や構図は模倣しない。"
+    },
+    "youtube": {
+      "id": "2iAVQ5qEqvA",
+      "url": "https://www.youtube.com/watch?v=2iAVQ5qEqvA",
+      "embedUrl": "https://www.youtube.com/embed/2iAVQ5qEqvA",
+      "title": "Notorious B.I.G., Lil' Kim & Lil' Cease (Junior M.A.F.I.A.) - Player's Anthem (Official Video)",
+      "channel": "The Notorious B.I.G.",
+      "type": "公式MV",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-11-01",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "公式アーティストチャンネル表示・曲名・演者・説明・3:59の表示尺をブラウザで照合。正規Topic原曲とRadio Versionを比較し公式MVを選択。clean/explicit編集差、実音声、日本・埋め込み再生、原盤マスター同一性は未確認。"
+    },
+    "datePublished": "2026-11-01",
+    "noteReviewedAt": "2026-11-01",
+    "selectedRelease": {
+      "album": "Conspiracy",
+      "year": 1995,
+      "note": "同作収録曲の公式MV。2018-12-29はYouTube投稿年月日。アルバム音源とのマスター同一性は未確認。"
+    },
+    "addedOrder": 707,
+    "yearStatus": "verified"
   }
 ]
