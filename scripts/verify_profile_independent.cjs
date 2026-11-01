@@ -44,11 +44,15 @@ const expected=source.blocks.filter(b=>b.type!=='h1').map(b=>b.text.replace(/\[(
   await page.route('**/editor-profile.json',route=>route.fulfill({status:503,contentType:'application/json',body:'{}'}));
   await page.locator('a[data-nav="editor"]').first().click();
   const fallback=page.getByRole('link',{name:'編者ページを開く',exact:true});await fallback.waitFor();
-  assert.equal(await fallback.getAttribute('href'),base+'/editor.html');
+  const canonicalEditor='https://djnaoyaman.github.io/cratediggin/editor.html';
+  assert.equal(await fallback.getAttribute('href'),canonicalEditor);
   assert.equal(await page.getByRole('link',{name:'プロフィールページを開く',exact:true}).count(),0);
   assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
   await page.screenshot({path:'/tmp/editor-profile-independent-fallback-'+width+'.png'});
-  await page.unroute('**/editor-profile.json');await fallback.click();
+  await page.unroute('**/editor-profile.json');
+  // Preserve the production href while keeping the recovery navigation entirely local.
+  await page.route(canonicalEditor,route=>route.fulfill({status:302,headers:{location:base+'/editor.html'},body:''}));
+  await fallback.click();
   await page.locator('.editor-profile').waitFor();
   assert.equal(await page.getByRole('link',{name:'作者について',exact:true}).getAttribute('href'),source.authorUrl);
   assert.deepEqual(errors,[]);await context.close();
