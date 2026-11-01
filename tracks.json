@@ -92487,5 +92487,138 @@
       "Nujabes"
     ],
     "addedOrder": 709
+  },
+  {
+    "id": "dj-cam-quartet-youve-got-to-have-freedom",
+    "title": "You've Got to Have Freedom",
+    "artist": "DJ Cam Quartet feat. Inlove",
+    "primaryArtist": "DJ Cam Quartet",
+    "primaryArtists": [
+      "DJ Cam Quartet"
+    ],
+    "artists": [
+      "DJ Cam Quartet",
+      "Inlove"
+    ],
+    "album": "Diggin",
+    "year": null,
+    "yearStatus": "unconfirmed",
+    "yearBasis": "本人BandcampのDigginは2012年6月1日、選択動画のThe Essentialは2017年11月3日と表記。曲の初出年を確定する原盤資料を未確認のため、これらの配信年を初出年として登録しない。",
+    "region": "未確認",
+    "scene": "未確認",
+    "regionBasis": "本人アカウントにはParis, Franceとあるが、Quartetの活動拠点を個別には未確認。録音地と同一視しない。",
+    "moods": [
+      "ディギング"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "You've Got to Have Freedom (feat. Inlove) — DJ CAM提供公式音源",
+        "url": "https://www.youtube.com/watch?v=sokLUeUvK2E",
+        "kind": "利用者指定の動画。DJ CAM公式アーティストチャンネル、DJ CAM提供、DJ Cam Quartet・Inlove、The Essential、2017年配信、表示尺4:39を実ページで確認。"
+      },
+      {
+        "label": "Diggin — DJ Cam Quartet / 本人Bandcamp",
+        "url": "https://djcam.bandcamp.com/album/diggin",
+        "kind": "本人の配信ページ。9曲目の同名曲feat Inlove、表示4:40、Produced by DJ Cam、2012年配信表記。掲載Digginカバーを画像で実見。"
+      },
+      {
+        "label": "You've got to have freedom feat Inlove — 本人Bandcamp",
+        "url": "https://djcam.bandcamp.com/track/youve-got-to-have-freedom-feat-inlove",
+        "kind": "本人の曲別ページでQuartet名義、Diggin収録、feat Inlove、表示4:40を確認。"
+      },
+      {
+        "label": "Diggin — Diggers Factory / Attytude records",
+        "url": "https://www.diggersfactory.com/vinyl/247864/dj-cam-diggin",
+        "kind": "正規盤販売ページ。QuartetをDJ Camのライブ・プロジェクトと説明、B4同名曲feat Inloveを4:39で掲載。"
+      }
+    ],
+    "essayTitle": "QuartetとInlove、その名前をたどって。",
+    "deck": "Digginの収録曲を、指定された公式音源で。",
+    "essay": [
+      "DJ Cam Quartetの『Diggin』では、「You’ve Got to Have Freedom」にInloveの名が添えられている。本人のBandcampにはDJ Camのプロデュース表記。ここでは、利用者が指定した『The Essential』収録の公式音源を掲載している。曲名だけでなく、名義と収録作を確かめてから再生したい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "利用者指定の公式音源",
+        "text": "DJ CAM提供のThe Essential収録音源（4:39）を採用。本人BandcampのDiggin収録曲（4:40）と演者・曲名・Inloveの客演表記を照合しました。別演者の同名曲とは区別し、秒単位の差からマスターの完全一致は断定していません。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "曲の初出年は確認中",
+        "text": "Digginの本人配信ページは2012年、選択したThe Essentialは2017年の表記。これらを曲の初出年と取り違えないよう、年表上の初出年は未確認として残しています。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "DJ Cam QuartetとInloveの名義を、本人配信の曲目と利用者指定の公式音源で照合。",
+    "art": {
+      "word": "YOU'VE GOT TO HAVE FREEDOM",
+      "tag": "DJ CAM QUARTET feat. INLOVE",
+      "style": "tag",
+      "seed": 2026110106,
+      "palette": [
+        "#E4D72A",
+        "#8D892D",
+        "#464524",
+        "#11120D",
+        "#F2EEDC"
+      ],
+      "paletteSource": "Diggin — DJ Cam Quartet / artist Bandcamp cover",
+      "paletteSourceUrl": "https://djcam.bandcamp.com/album/diggin",
+      "paletteNote": "本人Bandcamp掲載のDigginカバーを2026-11-01に画像で実見。黄・オリーブ・濃い黄褐色・黒・白を目視で近似。後年編集盤の配色ではなく、同曲を収録するDigginを参照。空や樹木、既存ロゴは描かず独自の手描き文字を構成。"
+    },
+    "youtube": {
+      "id": "sokLUeUvK2E",
+      "url": "https://www.youtube.com/watch?v=sokLUeUvK2E",
+      "embedUrl": "https://www.youtube.com/embed/sokLUeUvK2E",
+      "title": "You've Got to Have Freedom (feat. Inlove)",
+      "channel": "DJ CAM",
+      "type": "公式Topic",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-11-01",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "利用者指定URLの実ページで曲名・DJ Cam Quartet・Inlove・DJ CAM提供・公式アーティスト表示・The Essential・配信2017年11月3日・表示尺4:39を照合。本人Bandcamp同名曲4:40と比較。clean/explicit差、実音声、日本・埋め込み再生、原盤マスター同一性は未確認。"
+    },
+    "datePublished": "2026-11-01",
+    "noteReviewedAt": "2026-11-01",
+    "selectedRelease": {
+      "album": "The Essential",
+      "year": 2017,
+      "note": "選択した公式配信の2017年11月3日表記。原曲の初出年やDigginの初発売年とは別に保存。"
+    },
+    "featuredArtists": [
+      "Inlove"
+    ],
+    "producers": [
+      "DJ Cam"
+    ],
+    "yearDisplayNote": "初出年未確認。選択したThe Essentialの2017年配信とは区別。",
+    "versionBasis": "利用者指定sokLUeUvK2Eを優先。Quartet・Inlove・同名曲を本人Bandcampと照合し、The Essential収録版を選択。別演者、ライブ、リミックス表記なし。原盤マスター一致は未確認。",
+    "addedOrder": 710
   }
 ]
