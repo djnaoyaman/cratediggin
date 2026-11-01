@@ -92248,5 +92248,109 @@
     },
     "addedOrder": 707,
     "yearStatus": "verified"
+  },
+  {
+    "id": "nas-nas-is-like",
+    "title": "Nas Is Like",
+    "artist": "Nas",
+    "primaryArtist": "Nas",
+    "primaryArtists": [
+      "Nas"
+    ],
+    "artists": [
+      "Nas"
+    ],
+    "album": "I Am...",
+    "year": 1999,
+    "yearStatus": "verified",
+    "yearBasis": "Columbia提供の公式TopicとApple Musicの同名収録曲を照合し1999年と確認。配信ページの日付は3月3日と4月6日で異なるため、初発売日は断定しない。",
+    "region": "未確認",
+    "scene": "未確認",
+    "regionBasis": "本曲の追加時に活動拠点の出典は未確認。既存の他曲の地域を機械的に転記しない。",
+    "moods": [
+      "ディギング"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Nas Is Like — Nas / Columbia公式音源",
+        "url": "https://www.youtube.com/watch?v=bXMtP5U-29s",
+        "kind": "Columbia提供の正規Topic。I Am...、1999年、DJ Premier制作・ミックス、表示尺3:57を実ページで確認。"
+      },
+      {
+        "label": "Nas Is Like — Apple Music",
+        "url": "https://music.apple.com/us/song/nas-is-like/170439594",
+        "kind": "I Am...収録の正規配信。1999年と制作クレジット、Explicit表記を照合。掲載アルバムカバーを画像で実見。"
+      }
+    ],
+    "essayTitle": "曲名から、制作クレジットへ。",
+    "deck": "1999年のI Am...から、NasとDJ Premierの組み合わせを聴く。",
+    "essay": [
+      "Nasの「Nas Is Like」は、1999年の『I Am...』に収録。制作とミックスにDJ Premier、録音にEddie Sancho、アシスタントにDexter Thibouの名が並ぶ。まずは曲名。その次に、音を組み立てた人たちの名前。クレジットを入口に、もう一度再生したい。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1
+      ]
+    ],
+    "facts": [
+      {
+        "title": "選択した音源",
+        "text": "Columbia提供の公式アルバム音源を掲載。表示尺は3:57。公式ミュージックビデオ候補は3:59で、今回はI Am...の収録情報を確認できる音源を選択しました。曲名にリミックス、ライブ、インストの表記はありません。",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [],
+    "collections": [],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "1999年のI Am...収録曲。DJ Premierの制作・ミックス表記をたどる。",
+    "art": {
+      "word": "NAS IS LIKE",
+      "tag": "NAS",
+      "style": "tag",
+      "seed": 2026110104,
+      "palette": [
+        "#D9A743",
+        "#9A641E",
+        "#352117",
+        "#14100D",
+        "#F7F0DC"
+      ],
+      "paletteSource": "I Am... — Apple Music cover",
+      "paletteSourceUrl": "https://music.apple.com/us/song/nas-is-like/170439594",
+      "paletteNote": "Apple MusicのNas Is Likeページに掲載されたI Am...カバーを2026-11-01に画像で実見。金・黄土・濃茶・黒・温かい白を目視で近似。肖像・仮面・既存ロゴは模倣せず独自の手描き文字に構成。"
+    },
+    "youtube": {
+      "id": "bXMtP5U-29s",
+      "url": "https://www.youtube.com/watch?v=bXMtP5U-29s",
+      "embedUrl": "https://www.youtube.com/embed/bXMtP5U-29s",
+      "title": "Nas Is Like",
+      "channel": "Nas",
+      "type": "公式Topic",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-11-01",
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実ページでNas公式アーティスト表示・Columbia提供・曲名・I Am...・1999年・表示尺3:57・制作クレジットを照合。公式MV候補は3:59。Apple MusicにはExplicit表記あり。選択動画のclean/explicit差、実音声、日本・埋め込み再生、原盤マスター同一性は未確認。"
+    },
+    "datePublished": "2026-11-01",
+    "noteReviewedAt": "2026-11-01",
+    "selectedRelease": {
+      "album": "I Am...",
+      "year": 1999,
+      "note": "Columbia提供の正規アルバム音源。配信ページの日付差から初発売日は断定しない。原盤マスター同一性は未確認。"
+    },
+    "addedOrder": 708
   }
 ]
