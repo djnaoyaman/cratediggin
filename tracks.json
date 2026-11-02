@@ -92746,7 +92746,7 @@
     "album": "The Equinox",
     "year": 1997,
     "yearStatus": "verified",
-    "yearBasis": "UMG提供の公式TopicとApple Musicの収録作情報を照合し、1997年と確認。配信の1月1日表記を初発売日とは断定しない。2014年は選択動画の公開年。",
+    "yearBasis": "UMG提供の公式TopicとApple Musicの収録作情報を照合し、1997年と確認。配信の1月1日表記を初発売日とは断定しない。2014年は従来参照した公式Topic動画の公開年。",
     "region": "未確認",
     "scene": "未確認",
     "regionBasis": "本曲の追加時に活動拠点の出典は未確認。グループ名やジャンルから推定しない。",
@@ -92764,6 +92764,11 @@
         "label": "The Equinox — Apple Music",
         "url": "https://music.apple.com/us/album/the-equinox/714140428",
         "kind": "正規配信の1997年作品情報。8曲目Confrontations、表示尺3:53、Explicit表記。掲載カバーを画像で実見。"
+      },
+      {
+        "label": "Confrontations — 依頼者指定のYouTube動画",
+        "url": "https://www.youtube.com/watch?v=JuQyrv7l6hs",
+        "kind": "2026-11-03に依頼者が再生動画として指定。投稿者・公式性・動画内容・実再生は未確認。作品情報の出典とは区別する。"
       }
     ],
     "essayTitle": "『The Equinox』の8曲目。",
@@ -92780,8 +92785,9 @@
     "facts": [
       {
         "title": "選択した音源",
-        "text": "Universal Music Group提供の公式Topicを掲載。動画の表示尺は3:54、Apple Musicは3:53。いずれもThe Equinox収録の同名曲で、リミックスやインストゥルメンタル表記はありません。秒単位の差をマスター同一性の証明には用いていません。",
+        "text": "依頼者が指定したYouTube動画を掲載しています。投稿者・公式性・実音声・日本での再生・埋め込み再生・原盤マスター同一性は未確認です。作品年や収録作は、従来照合した公式TopicとApple Musicの情報に基づきます。",
         "sources": [
+          2,
           0,
           1
         ]
@@ -92812,27 +92818,27 @@
       "paletteNote": "Apple Music掲載のThe Equinoxカバーを2026-11-01に画像で実見。黒・濃い青灰・銀灰・白・紫を目視で近似。ジャケットの軌道線や既存文字は模倣せず独自に構成。"
     },
     "youtube": {
-      "id": "fq_WMCXGCMM",
-      "url": "https://www.youtube.com/watch?v=fq_WMCXGCMM",
-      "embedUrl": "https://www.youtube.com/embed/fq_WMCXGCMM",
-      "title": "Confrontations",
-      "channel": "Organized Konfusion - Topic",
-      "type": "公式Topic",
-      "official": true,
-      "metadataVerified": true,
-      "verified": "2026-11-01",
+      "id": "JuQyrv7l6hs",
+      "url": "https://www.youtube.com/watch?v=JuQyrv7l6hs",
+      "embedUrl": "https://www.youtube.com/embed/JuQyrv7l6hs",
+      "title": "Confrontations（依頼者指定動画・表示題名未照合）",
+      "channel": "投稿者未確認",
+      "type": "依頼者指定動画",
+      "official": false,
+      "metadataVerified": false,
       "playbackVerified": false,
       "embeddedPlaybackVerified": false,
       "japanPlaybackVerified": false,
       "exactMasterVerified": false,
-      "verification": "実ページで曲名・Topic名義・UMG提供表記・アルバム・1997年・表示尺3:54・Explicit表記を照合。Apple Musicの同名収録曲と比較。実音声、日本・埋め込み再生、原盤マスター同一性は未確認。"
+      "selectedAt": "2026-11-03",
+      "verification": "2026-11-03の依頼者指定URLへ差し替え。URLと動画IDの対応を確認。YouTubeページ・投稿者・公式性・動画内容・実音声・日本および埋め込み再生は未確認。旧Topic動画の照合結果をこの動画へ転用していません。"
     },
     "datePublished": "2026-11-01",
     "noteReviewedAt": "2026-11-01",
     "selectedRelease": {
       "album": "The Equinox",
       "year": 1997,
-      "note": "正規Topicによる同作収録曲。リミックスやインストの表記なし。配信マスター同一性は未確認。"
+      "note": "作品情報は従来照合した公式TopicとApple Musicに基づく。依頼者指定の選択動画との版・マスター同一性は未確認。"
     },
     "addedOrder": 712
   },
