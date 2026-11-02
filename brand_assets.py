@@ -138,3 +138,22 @@ def feature_social_image(source):
 
 def save_feature_social_image(path,source):
     feature_social_image(source).save(path,format='JPEG',quality=95,subsampling=0,optimize=True)
+
+
+def retire_track_social_images(dist):
+    """Retire generated track-only SNS cards after the shared replacement decodes.
+
+    Never touch source or delivered tagging artwork. Repeated direct builds may
+    retain obsolete output even though the normal pipeline starts with clean dist.
+    """
+    dist = Path(dist)
+    with Image.open(dist / 'og-image.jpg') as image:
+        image.load()
+        assert image.format == 'JPEG' and image.mode == 'RGB' and image.size == (1200, 630)
+    directory = dist / 'og'
+    if directory.is_symlink():
+        raise ValueError('Refusing a symlinked generated social directory')
+    if directory.exists():
+        for path in directory.iterdir():
+            if path.is_file() and path.suffix.lower() in {'.jpg', '.png'}:
+                path.unlink()

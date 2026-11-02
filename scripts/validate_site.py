@@ -56,6 +56,7 @@ def main():
     for name in ['frontend.py','profile_content.py','scripts/build_pipeline.py','scripts/profile_build.py']:
         ast.parse((ROOT/name).read_text(encoding='utf-8'),filename=name)
     if args.mode=='full':
+        subprocess.run(['python', str(ROOT/'scripts/verify_shared_track_social.py')], check=True)
         tracks=json.loads((ROOT/'tracks.json').read_text(encoding='utf-8'))
         identifiers=[t['id'] for t in tracks];assert len(identifiers)==len(set(identifiers))
         for identifier in identifiers:assert (ROOT/'dist/songs'/(identifier+'.html')).is_file(),identifier

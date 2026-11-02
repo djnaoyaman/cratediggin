@@ -169,11 +169,10 @@ for artist in artist_names:
 print(f'Generated {len(tracks)} works ({work_count(tracks)}), source candidates, sitemap and Markdown. Data validation passed.')
 
 # Search, sharing and machine-readable views use the same editorial records.
-from brand_assets import save_social_image, write_icons, retire_legacy_social_pngs, normalize_brand_head, brand_revision
+from brand_assets import save_social_image, write_icons, retire_legacy_social_pngs, retire_track_social_images, normalize_brand_head, brand_revision
 write_icons(DIST)
 (DIST/'site.webmanifest').write_text(json.dumps({'name':'CRATEDIGGIN\'','short_name':'CRATEDIGGIN\'','start_url':'/','display':'standalone','theme_color':'#4169e1','background_color':'#ffffff','icons':[{'src':'/icon-192.png','sizes':'192x192','type':'image/png','purpose':'any'},{'src':'/icon-512.png','sizes':'512x512','type':'image/png','purpose':'any'},{'src':'/icon-maskable-512.png','sizes':'512x512','type':'image/png','purpose':'maskable'}]}), encoding='utf-8')
 
-(DIST/'og').mkdir(exist_ok=True)
 save_social_image(DIST/'og-image.jpg')
 def enhance(path,title,description,url,img,ld,article=False):
     content=path.read_text(encoding='utf-8')
@@ -207,17 +206,16 @@ for artist in artist_names:
     data={'@context':'https://schema.org','@graph':[{'@type':'CollectionPage','name':artist+' — CRATEDIGGIN\' 収録曲','url':url,'inLanguage':'ja','mainEntity':{'@type':'ItemList','numberOfItems':len(entries),'itemListElement':[{'@type':'ListItem','position':i+1,'name':t['title'],'url':HOST+'/songs/'+t['id']+'.html'} for i,t in enumerate(entries)]}},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'CRATEDIGGIN\'','item':HOST+'/'},{'@type':'ListItem','position':2,'name':artist,'item':url}]}]}
     enhance(DIST/'artists'/(slug+'.html'),artist+' の楽曲一覧 — CRATEDIGGIN\'',artist+' の掲載'+work_count(entries)+'。楽曲解説、サンプリング元ネタと出典を紹介。',url,HOST+'/og-image.jpg',data)
 for t in tracks:
-    save_social_image(DIST/'og'/(t['id']+'.jpg'),t)
     url=HOST+'/songs/'+t['id']+'.html'
     data={'@context':'https://schema.org','@graph':[{'@type':'MusicRecording','@id':url+'#recording','name':t['title'],'byArtist':{'name':t['artist']},**({'inAlbum':{'@type':'MusicAlbum','name':t['album']}} if isinstance(t.get('album'),str) and t['album'].strip() and t['album'] not in ('未確認','不明') else {}),**({'datePublished':str(t['year'])} if t['year'] is not None and not t.get('yearQualifier') else {}),'url':url,**({'sameAs':t['externalAudio']['url']} if t.get('externalAudio') else {'sameAs':t['youtube']['url']} if t.get('youtube',{}).get('url') else {})},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'CRATEDIGGIN\'','item':HOST+'/'},{'@type':'ListItem','position':2,'name':t['title'],'item':url}]}]}
-    enhance(DIST/'songs'/(t['id']+'.html'),t['title']+' / '+t['artist'],t['deck'],url,HOST+'/og/'+t['id']+'.jpg',data,True)
+    enhance(DIST/'songs'/(t['id']+'.html'),t['title']+' / '+t['artist'],t['deck'],url,HOST+'/og-image.jpg',data,True)
 # Expose song links in HTML before JavaScript runs; the client then replaces the view.
 artist_directory='<section aria-label="アーティストから探す"><h2>ARTIST INDEX</h2><p>アーティスト別の収録曲一覧</p><ul>'+''.join('<li><a href="'+BASE_PATH+'/artists/'+artist_slugs[name]+'.html">'+html.escape(name)+'</a></li>' for name in artist_names)+'</ul></section>'
 newest_tracks=[t for _,t in sorted(enumerate(tracks), key=lambda pair:(pair[1].get('addedOrder',pair[0]),pair[0]), reverse=True)]
 listing='<section aria-label="収録曲"><h2>THE RECORD CRATE</h2>'+''.join('<article><h3><a href="'+BASE_PATH+'/songs/'+t['id']+'.html">'+html.escape(t['title'])+'</a></h3><p>'+'<a href="'+BASE_PATH+'/artists/'+artist_slugs[t['artist']]+'.html">'+html.escape(t['artist'])+'</a> / '+year_label(t)+'</p>'+('<p class="work-year-note">'+html.escape(t['yearDisplayNote'])+'</p>' if t.get('yearDisplayNote') else '')+'<p>'+html.escape(t['deck'])+'</p></article>' for t in newest_tracks)+'</section>'
 home=DIST/'index.html';content=home.read_text(encoding='utf-8');content=re.sub(r'<main id="view" tabindex="-1">.*?</main>','<main id="view" tabindex="-1">'+artist_directory+listing+'</main>',content,flags=re.S);home.write_text(content, encoding='utf-8')
 enhance(home,'CRATEDIGGIN\' — DJ NaoyamanのHip Hop・サンプリングガイド','楽曲から元ネタへ。Hip Hop、サンプリング、グラフィティを出典付きでたどる音楽ガイド。',HOST+'/',HOST+'/og-image.jpg',{'@context':'https://schema.org','@type':'WebSite','name':'CRATEDIGGIN\'','url':HOST+'/','inLanguage':'ja','author':{'@type':'Person','name':'DJ Naoyaman'}})
-print('Generated per-song social cards, SEO metadata, structured data, touch icons and HTML links.')
+print('Generated shared home social image, per-song SEO metadata, structured data, touch icons and HTML links.')
 
 # Every feature is readable without JavaScript and has a shareable URL.
 feature_dir=DIST/'features';feature_dir.mkdir(exist_ok=True)
@@ -300,6 +298,7 @@ for page in DIST.rglob("*.html"):
 # Delivery-only derivatives preserve all authored source images and URLs.
 # Release build-time image caches before the final encoder stage.
 import os, sys
-retire_legacy_social_pngs(DIST, [t['id'] for t in tracks], [f['id'] for f in features])
+retire_legacy_social_pngs(DIST, [], [f['id'] for f in features])
+retire_track_social_images(DIST)
 sys.stdout.flush()
 os.execv(sys.executable, [sys.executable, str(ROOT / 'image_delivery.py'), str(DIST)])
