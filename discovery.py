@@ -19,7 +19,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
     esc = html.escape
     base_path = urlparse(host).path.rstrip('/')
     version = json.loads((root / 'releases.json').read_text(encoding='utf-8'))['version']
-    brand_images={'og-image.jpg'}|{'og/'+t['id']+'.jpg' for t in tracks if not t.get('art',{}).get('image')}
+    brand_images={'og-image.jpg'}
     def image_url(image):
         return host+'/'+image+'?v='+(brand_revision() if image in brand_images else version)
     deepdives = json.loads((root / 'editorial_deepdives.json').read_text(encoding='utf-8'))
@@ -97,7 +97,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
     for t in tracks:
         relative = 'songs/' + t['id'] + '.html'
         url = host + '/' + relative
-        image = 'og/' + t['id'] + '.jpg'
+        image = 'og-image.jpg'  # Shared homepage preview; song identity stays in metadata.
         recording = {'@type': 'MusicRecording', '@id': url + '#recording', 'name': t['title'],
                      'byArtist': entity(t['artist']), **({'inAlbum': {'@type': 'MusicAlbum', 'name': t['album']}} if isinstance(t.get('album'),str) and t['album'].strip() and t['album'] not in ('未確認','不明') else {}),
                      'url': url, 'subjectOf': {'@id': url + '#article'}}
@@ -126,7 +126,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
                       'song/' + t['id'], t.get('datePublished'), {'@id': url + '#recording'})
         art['citation'] = [s['url'] for s in t['sources']]
         add('#/song/' + t['id'], relative, t['title'] + ' / ' + t['artist'] + ' — CRATEDIGGIN\'',
-            (work_label(t)+'。' if work_type(t)!='single' else '')+t['deck'], image=image, graph=[art, recording], kind='article', image_alt=t['art']['alt'] if t['art'].get('image') else brand_image_alt)
+            (work_label(t)+'。' if work_type(t)!='single' else '')+t['deck'], image=image, graph=[art, recording], kind='article', image_alt=brand_image_alt)
         published = t.get('datePublished')
         updated = art.get('dateModified')
         byline = '<p class="byline">選曲・編集・文責 <a href="' + base_path + '/editor.html">DJ Naoyaman</a>'
