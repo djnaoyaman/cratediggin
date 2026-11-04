@@ -720,6 +720,126 @@
           }
         }
       ]
+    },
+    {
+      "id": "a-tribe-called-quest-bonita-applebum",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "声が続く場所と、次の言葉まで待つ場所をそれぞれ追ってみる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "the-pharcyde-passin-me-by",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "コーラスから各ヴァースへ、語り手が替わるところに注目する。"
+          }
+        },
+        {
+          "shelf": "arrangement",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "コーラスから各ヴァースへ、語り手が替わるところに注目する。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "craig-mack-flava-in-ya-ear",
+      "tags": [
+        {
+          "shelf": "loop",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "反復する音型を、素材の選択と音程の操作に分けて考える。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "the-roots-you-got-me",
+      "tags": [
+        {
+          "shelf": "bass",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "ベースとドラムを、最初の設計を引き継いだ演奏として捉える。"
+          }
+        },
+        {
+          "shelf": "drums",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "ベースとドラムを、最初の設計を引き継いだ演奏として捉える。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "beastie-boys-paul-revere",
+      "tags": [
+        {
+          "shelf": "drums",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "声とドラムを分け、テープ操作の回想を手掛かりにリズムを追ってみる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "black-sheep-black-with-nv",
+      "tags": [
+        {
+          "shelf": "bass",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "「Povo」と並べ、ベースの速さと、曲の中で担う役割を比べる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dj-shadow-high-noon",
+      "tags": [
+        {
+          "shelf": "drums",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "短いドラムの断片が次の打音へどうつながるかに注意して聴いてみる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "madlib-road-of-the-lonely-ones",
+      "tags": [
+        {
+          "shelf": "drums",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "J-Zoneの録音したドラムを使う曲として、ビートの手触りへ耳を向ける。"
+          }
+        }
+      ]
     }
   ]
 }
