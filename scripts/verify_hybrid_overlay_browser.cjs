@@ -4,7 +4,10 @@ const {chromium}=require('playwright'),fs=require('node:fs'),vm=require('node:vm
 const BASE='http://127.0.0.1:8765/cratediggin',BASE_SHA='8c5b2f6fc0abfd88d2422dc5673d8e162570a019';
 const router=fs.readFileSync('src/app/router.js','utf8'),css=fs.readFileSync('dist/style.css','utf8'),app=fs.readFileSync('dist/app.js','utf8');
 const geometryContext={};vm.createContext(geometryContext);vm.runInContext(router.slice(router.indexOf(' function legacyArtDockGeometry'),router.indexOf(' function artVideoGeometry'))+';globalThis.geometry=artDockGeometry;',geometryContext);
-const oldRouter=cp.execFileSync('git',['show',BASE_SHA+':src/app/router.js'],{encoding:'utf8'}),oldCSS=cp.execFileSync('git',['show',BASE_SHA+':src/assets/style.css'],{encoding:'utf8'});
+// Both variants use the current article markup. Keep its independent search-link
+// layout identical so the archived player CSS compares the same underlying page.
+const listeningSearchCSS=css.match(/\.listening-search a\.pill\{[^}]+\}/g);assert.equal(listeningSearchCSS?.length,1);
+const oldRouter=cp.execFileSync('git',['show',BASE_SHA+':src/app/router.js'],{encoding:'utf8'}),oldCSS=cp.execFileSync('git',['show',BASE_SHA+':src/assets/style.css'],{encoding:'utf8'})+'\n'+listeningSearchCSS[0];
 assert(app.includes(router));const oldApp=app.replace(router,oldRouter);
 let fixture=vm.runInNewContext(fs.readFileSync('scripts/verify_visible_art_browser.cjs','utf8').match(/const fixture=(`[^]*?`);/)[1]);
 fixture=fixture.replace("frame.title='Native provider fixture'","frame.allowFullscreen=true;frame.title='Native provider fixture'");
