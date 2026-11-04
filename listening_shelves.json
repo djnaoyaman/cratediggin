@@ -934,6 +934,100 @@
           }
         }
       ]
+    },
+    {
+      "id": "souls-of-mischief-that-s-when-ya-lost",
+      "tags": [
+        {
+          "shelf": "drums",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "Phestoが挙げたドラム、ホーン、ベースを手がかりに、四人の言葉を誘う伴奏として聴く。"
+          }
+        },
+        {
+          "shelf": "bass",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "Phestoが挙げたドラム、ホーン、ベースを手がかりに、四人の言葉を誘う伴奏として聴く。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nas-it-ain-t-hard-to-tell",
+      "tags": [
+        {
+          "shelf": "drums",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "デモと完成版を比較する際は、歌詞の改稿とドラムの変更を分けて確認する。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "beastie-boys-negotiation-limerick-file-41-small-stars-remix",
+      "tags": [
+        {
+          "shelf": "drums",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "Gardnerの評を手がかりに、原曲とドラムの扱いを比較する。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "black-sheep-similak-child",
+      "tags": [
+        {
+          "shelf": "loop",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "作詞のためのループへ耳を戻す。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "group-home-up-against-the-wall-low-budget-mix",
+      "tags": [
+        {
+          "shelf": "loop",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "Low Budget Mixの反復を追ったあと、Getaway Car Mixとの違いを確かめる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fat-joe-dat-gangsta-shit",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "声の前後の余白を、Premierの「ラップのために空ける」という制作意図と照らして聴く。"
+          }
+        },
+        {
+          "shelf": "loop",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.1",
+            "quote": "短い反復とMCの区切りの関係を追い、音数を増やさずに緊張を維持する方法を考える。"
+          }
+        }
+      ]
     }
   ]
 }
