@@ -85,6 +85,9 @@ jobs:
       - name: Validate authored profile and affected outputs
         if: steps.plan.outputs.publish == 'true'
         run: python scripts/validate_site.py --mode "${{ steps.plan.outputs.mode }}"
+      - name: Validate reviewed listening classifications
+        if: steps.plan.outputs.publish == 'true'
+        run: node scripts/verify_listening_shelves.js
       - name: Cache browser runtime
         if: steps.plan.outputs.publish == 'true'
         uses: actions/cache@v4
