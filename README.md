@@ -42,13 +42,13 @@ MY CRATEの選曲・名前・曲順はブラウザのlocalStorageに保存しま
 
 公開URLと既存の楽曲IDを維持します。フロントエンドの編集元は `src/`、共通HTMLは `templates/index.html` です。`dist/` はビルド生成物のため直接編集しません。
 
-## 聴きどころの選曲棚
+## 検索と曲ページの聴きどころ
 
-`listening_shelves.json` は「ループの妙／ドラムの手触り／ベースのうねり／声とライム／スクラッチの技／曲の展開」の6つの聴き方と、解説を個別に読んで選んだ楽曲を管理します。ジャンルやアーティスト名から一括分類しません。各タグには `tracks.json` または `editorial_deepdives.json` の該当箇所と短い根拠を持たせ、ビルド時に一致を検証します。複数の棚への所属が可能です。未分類曲も「すべて」および検索で見つけられます。
+`listening_shelves.json` は「ループの妙／ドラムの手触り／ベースのうねり／声とライム／スクラッチの技／曲の展開」の6つの聴き方を管理します。個別解説を確認した曲だけにタグを付け、原文と根拠パスをビルド時に照合します。ジャンルやアーティスト名から一括分類しません。
 
-棚の件数は検索・補助条件を反映し、0件の棚は選択不可になります。地域は折りたたみ式の補助フィルターです。旧 `editorialCrates` は過去データとして保存しますが、現在の棚判定には使いません。旧棚のURLは全曲に戻し、東西海岸の旧URLは地域条件として維持します。
+既存の検索欄で聴きどころの名前を検索できます。分類済み曲の記事には同じ名前で検索するリンクを表示し、静的HTMLにも残します。キーワードは曲名やアーティスト名と組み合わせられます。未分類曲も通常の検索・全曲一覧に残ります。旧「DJ Naoyamanの選曲棚」の一覧UIは復活させません。旧棚URLは全曲へ戻し、東西海岸の旧URLは地域条件として維持します。
 
-検証: `node scripts/verify_listening_shelves.js`。ブラウザ検証は `node scripts/verify_listening_shelves_browser.js`（PlaywrightとChromiumが必要。`dist` を `/cratediggin` 配下でローカル配信し、`TEST_URL` でURLを指定。CIでも公開前に実行）。
+検証: `node scripts/verify_listening_shelves.js`、`node scripts/verify_listening_search_browser.cjs`、`node scripts/verify_removed_shelf_browser.cjs`。ブラウザー検査はPlaywrightとローカル配信を使用し、CIでも実行します。
 
 ## ソース構成と再生成
 

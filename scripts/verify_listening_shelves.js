@@ -7,10 +7,18 @@ const tagged=songs.filter(s=>s.listeningTags.length);assert(tagged.length<songs.
 for(const shelf of shelves){
  const actual=filter(songs,{collection:shelf.id});assert(actual.length>0);
  assert.deepEqual(actual.map(s=>s.id).sort(),songs.filter(s=>s.listeningTags.includes(shelf.id)).map(s=>s.id).sort());
+ assert.deepEqual(filter(songs,{q:shelf.label}).map(s=>s.id).sort(),actual.map(s=>s.id).sort(),'Listening names use the ordinary search');
+ assert(filter(songs,{q:shelf.label+' '+actual[0].artist}).some(s=>s.id===actual[0].id));
+ assert.equal(filter(songs,{q:shelf.label+' zzzz-no-such-track-zzzz'}).length,0);
  for(const coast of ['east','west','other'])assert(filter(songs,{collection:shelf.id,coast}).every(s=>s.listeningTags.includes(shelf.id)));
  const term=actual[0].title;assert(filter(songs,{collection:shelf.id,q:term}).some(s=>s.id===actual[0].id));
  assert.equal(filter(songs,{collection:shelf.id,q:'zzzz-no-such-track-zzzz'}).length,0);
  console.log(shelf.label+': '+actual.length+' tracks');
+}
+for(const song of songs){
+ const page=fs.readFileSync('dist/tracks/'+song.id+'.html','utf8');
+ assert.equal(page.includes('class="listening-search"'),song.listeningTags.length>0);
+ for(const shelf of shelves.filter(s=>song.listeningTags.includes(s.id)))assert(page.includes('/tracks/?q='+encodeURIComponent(shelf.label)),'Static article has a real search URL: '+song.id);
 }
 assert(songs.some(s=>s.listeningTags.length>1));
 assert(filter(songs,{q:'Quasimoto'}).some(s=>s.artist==='Quasimoto'));

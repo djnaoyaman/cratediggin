@@ -566,6 +566,160 @@
           }
         }
       ]
+    },
+    {
+      "id": "what-im-after",
+      "tags": [
+        {
+          "shelf": "drums",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "ドラムと声の間にある隙間を追う。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "put-it-on",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "Big LのヴァースとKid Capriのフックを分けて追い、声の役割が切り替わるところを聴く。"
+          }
+        },
+        {
+          "shelf": "arrangement",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "Big LのヴァースとKid Capriのフックを分けて追い、声の役割が切り替わるところを聴く。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "showbiz-a-g-soul-clap",
+      "tags": [
+        {
+          "shelf": "bass",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "JBs由来と紹介されたベースラインを、声の下で追う。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "black-moon-who-got-da-props",
+      "tags": [
+        {
+          "shelf": "loop",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "ループの終わりに注目し、同じ部分から別の部分へ移る箇所を追ってみる。"
+          }
+        },
+        {
+          "shelf": "arrangement",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "ループの終わりに注目し、同じ部分から別の部分へ移る箇所を追ってみる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "us3-cantaloop-flip-fantasia",
+      "tags": [
+        {
+          "shelf": "arrangement",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "コーラス中盤と末尾を、断片の切り替わる場所として確かめたい。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "the-roots-proceed",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "Black ThoughtとMalik Bの受け渡しに注目したい。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "common-the-light",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "言葉が途切れてリズムになる箇所を、制作時の選択と結びつけて聴きたい。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a-tribe-called-quest-excursions",
+      "tags": [
+        {
+          "shelf": "bass",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "冒頭の低音を旋律として追い、その後ドラムとの位置関係へ注意を移す。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dj-shadow-mutual-slump",
+      "tags": [
+        {
+          "shelf": "drums",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.1",
+            "quote": "ドラムの出発点はPugh Rogefeldt「Love, Love, Love」。Shadowは複数のキックとスネアを切り出して交替させた。ループの継ぎ目を隠すことより、一打ごとの違いを残したまま新しい流れを作る。その手つきに耳を向けたい。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "epmd-scratch-bring-it-back-part-2",
+      "tags": [
+        {
+          "shelf": "scratch",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.1",
+            "quote": "RapReviewsの回顧が強調するのは、一曲の中に二つの曲があるような構成だ。スタジオでの会話を挟んで展開が切り替わり、DJ Scratchのカットが続く。ラップ、会話、レコード操作が、どのように一つの場面を形づくるのか。スクラッチを装飾としてだけでなく、曲の流れを追う手掛かりとして聴いてみたい。"
+          }
+        },
+        {
+          "shelf": "arrangement",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "essay.1",
+            "quote": "RapReviewsの回顧が強調するのは、一曲の中に二つの曲があるような構成だ。スタジオでの会話を挟んで展開が切り替わり、DJ Scratchのカットが続く。ラップ、会話、レコード操作が、どのように一つの場面を形づくるのか。スクラッチを装飾としてだけでなく、曲の流れを追う手掛かりとして聴いてみたい。"
+          }
+        }
+      ]
     }
   ]
 }
