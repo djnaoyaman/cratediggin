@@ -840,6 +840,100 @@
           }
         }
       ]
+    },
+    {
+      "id": "a-tribe-called-quest-scenario",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "Q-TipのパートからBustaの最後のヴァースまで、次の声を迎える部分に注目する。"
+          }
+        },
+        {
+          "shelf": "arrangement",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "Q-TipのパートからBustaの最後のヴァースまで、次の声を迎える部分に注目する。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "showbiz-a-g-party-groove-instrumental",
+      "tags": [
+        {
+          "shelf": "arrangement",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "Jostの批評を手がかりに、声の断片の登場と切り替わりに注目する。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wu-tang-clan-c-r-e-a-m",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "RaekwonとInspectah Deckの語りのあとで、Method Manのフックが戻る役割を考えてみる。"
+          }
+        },
+        {
+          "shelf": "arrangement",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "RaekwonとInspectah Deckの語りのあとで、Method Manのフックが戻る役割を考えてみる。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nas-the-world-is-yours",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "Pete Rockのフックに注意を向け、制作担当者の声を追う。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "grand-puba-i-like-it-i-wanna-be-where-you-are",
+      "tags": [
+        {
+          "shelf": "voice",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "録音から借りた音と、本人が歌うフレーズを分けて聴く。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "busta-rhymes-everybody-rise",
+      "tags": [
+        {
+          "shelf": "loop",
+          "evidence": {
+            "file": "tracks.json",
+            "field": "listening.0",
+            "quote": "編集部の聴取ガイド：ピアノの反復を元曲と比較し、旋律がビートの目印へ変わる箇所を探す。"
+          }
+        }
+      ]
     }
   ]
 }
