@@ -11,6 +11,7 @@ const source=fs.readFileSync('scripts/verify_visible_art_browser.cjs','utf8'),fi
   await p.goto(base+'/tracks/epmd-scratch-bring-it-back-part-2.html');
   await p.waitForFunction(()=>window.__ready);
   assert.equal(await p.locator('.listening-search a').count(),2);
+  for(const link of await p.locator('.listening-search a').all()){const box=await link.boundingBox();assert(box.height>=44&&box.width>=44);assert.equal(await link.evaluate(e=>e.getClientRects().length),1,'Keep each label together');}
   assert.equal(await p.locator('[data-crate],.crate-choices').count(),0);
   await p.locator('.listening-search').scrollIntoViewIfNeeded();
   await p.screenshot({path:require('node:path').join(require('node:os').tmpdir(),'listening-search-'+width+'.png')});
