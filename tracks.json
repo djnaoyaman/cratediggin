@@ -92975,5 +92975,136 @@
     "yearDisplayNote": "初出年未確認。元アルバム1999年、選択Deluxe配信2018年とは区別。",
     "versionBasis": "原リストはSession / Arsonists、特定remix・instrumental指定なし。正規CDBaby Topicの3:50 Explicitアルバム版を選択。一般投稿のThe Session / Halloween1996表記候補より配信版と尺を確認できた本候補を優先。先行盤と同一マスターとは扱わない。",
     "addedOrder": 713
+  },
+  {
+    "id": "jungle-brothers-brain",
+    "title": "Brain",
+    "artist": "Jungle Brothers",
+    "primaryArtist": "Jungle Brothers",
+    "primaryArtists": [
+      "Jungle Brothers"
+    ],
+    "artists": [
+      "Jungle Brothers"
+    ],
+    "album": "Raw Deluxe",
+    "year": 1997,
+    "yearStatus": "verified",
+    "yearBasis": "UPROXX掲載動画の説明は1997年のRaw Deluxe収録と表記。実見したPlexusのGee Street米盤63881-27001-1出品も1997年、C2 Brainを掲載。小売の原盤書誌と配信動画説明を突合した年で、原盤レーベルの年表記画像は未確認。選択コンピレーションの2003年とは区別する。",
+    "region": "New York",
+    "scene": "New York",
+    "regionBasis": "既存のJungle Brothers掲載と同じ活動地域。今回の録音場所や各人の出生地とは扱わない。",
+    "moods": [
+      "ディギング"
+    ],
+    "category": "Hip Hop",
+    "sources": [
+      {
+        "label": "Brain — Jungle Brothers / 公式アーティスト配信",
+        "url": "https://www.youtube.com/watch?v=nHvdZBWg-Hs",
+        "kind": "実ページの公式アーティスト表示、CSV2DDEX、コンピレーション名、2003年5月15日、House D’Arret、実尺4:42を確認。関連カード4:43ではなく実プレーヤー尺を記録。"
+      },
+      {
+        "label": "Jungle Brothers — Brain / UPROXX",
+        "url": "https://www.youtube.com/watch?v=mOAUldvABIg",
+        "kind": "実ページでUPROXX、1997年Raw Deluxeの説明、ミュージックビデオ3:58を確認。別編集として比較し不採用。"
+      },
+      {
+        "label": "Raw Deluxe — Gee Street米盤 / Plexus Records",
+        "url": "https://www.plexusrecords.com/raw-deluxe-a31253-en.html",
+        "kind": "小売の実物出品写真と書誌。63881-27001-1、US1997、C2 Brain4:56。写真配色を実見。バーコード・マトリクス欄は外部共同DB由来と明記されており一次原盤画像の証拠としない。"
+      }
+    ],
+    "essayTitle": "アルバムの場所と、いま聴ける版。",
+    "deck": "Raw Deluxeの一曲を、公式コンピレーション配信から。",
+    "essay": [
+      "Brainの場所は、1997年のRaw Deluxe。ここで選んだ公式配信は、後年のDôme Ibiza - The Chill-Out Session, Vol. 2に収められた4分42秒の音源だ。アルバムの曲目にある4分56秒や、3分58秒のミュージックビデオとは尺が違う。曲名が同じでも、入口まで同じとは限らない。その小さな違いも残しながら、Jungle Brothersをもう一曲。"
+    ],
+    "essaySources": [
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "facts": [
+      {
+        "title": "1997年のRaw Deluxe",
+        "text": "UPROXX動画説明とGee Street米盤63881-27001-1の小売書誌で1997年を突合。原アルバムはC2 Brain、4:56と掲載されています。原盤レーベルの年表記画像は未確認です。",
+        "sources": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "選択した公式配信は2003年のコンピレーション",
+        "text": "YouTubeの公式アーティストページはCSV2DDEX提供、Dôme Ibiza - The Chill-Out Session, Vol. 2、2003年5月15日、House D’Arretと記載。実プレーヤーの表示尺は4:42です。",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "title": "映像版と配信版を区別",
+        "text": "UPROXXのミュージックビデオは3:58。選択した公式配信4:42と原アルバム表記4:56を、同一マスターや特定リミックスと断定していません。",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "samples": [],
+    "sampleStatus": "使用素材と箇所を裏付けたサンプルは未登録。",
+    "sounds": [],
+    "listening": [],
+    "collections": [
+      "east"
+    ],
+    "editorialCrates": [],
+    "connections": [],
+    "context": "元DJ KIYOリストの無指定Brainを公式コンピレーション配信で紹介。原アルバムと選択版の尺差を保持、特定radio/remix名や同一マスターを推測しない。",
+    "art": {
+      "word": "BRAIN",
+      "tag": "JUNGLE BROTHERS",
+      "style": "tag",
+      "seed": 2026110108,
+      "palette": [
+        "#D7CCB6",
+        "#F0E8D9",
+        "#292320",
+        "#625C53",
+        "#663E37"
+      ],
+      "paletteSource": "Raw Deluxe original US sleeve, Plexus actual item photograph, inspected2026-11-01 UTC.",
+      "paletteSourceUrl": "https://www.plexusrecords.com/raw-deluxe-a31253-en.html",
+      "paletteNote": "原アルバム実物写真のセピア、クリーム、焦茶、灰褐色、くすんだ赤茶を目視近似。選択2003コンピレーションのカバーではない。人物写真・既存ロゴ・丸いバッジを複製せず、独自の手描き文字を構成。"
+    },
+    "youtube": {
+      "id": "nHvdZBWg-Hs",
+      "url": "https://www.youtube.com/watch?v=nHvdZBWg-Hs",
+      "embedUrl": "https://www.youtube.com/embed/nHvdZBWg-Hs",
+      "title": "Brain",
+      "channel": "Jungle Brothers",
+      "type": "公式アーティスト配信 / CSV2DDEX",
+      "official": true,
+      "metadataVerified": true,
+      "verified": "2026-11-01",
+      "durationSeconds": 282,
+      "playbackVerified": false,
+      "embeddedPlaybackVerified": false,
+      "japanPlaybackVerified": false,
+      "exactMasterVerified": false,
+      "verification": "実ページでBrain/Jungle Brothers/公式アーティストバッジ/CSV2DDEX、Dôme Ibiza Vol.2、House D’Arret2003-05-15、プレーヤー4:42を確認。MV3:58、原盤書誌4:56とは区別。clean/explicit、特定edit名、実音声、地域、埋め込み、原盤同一性未検証。"
+    },
+    "datePublished": "2026-11-11",
+    "noteReviewedAt": "2026-11-11",
+    "selectedRelease": {
+      "album": "Dôme Ibiza - The Chill-Out Session, Vol. 2",
+      "year": 2003,
+      "note": "公式配信表記2003年5月15日・House D’Arret。1997年原曲とは別。"
+    },
+    "yearDisplayNote": "原曲1997年。選択コンピレーション配信は2003年。",
+    "versionBasis": "公式アーティストCSV2DDEX配信4:42を選択。UPROXXMV3:58とRaw Deluxe書誌4:56は別尺。KEXPライブ3:33は別演奏として除外。一般投稿QBaaZl8CmDAは実尺未確認。clean/explicit、特定edit名、原盤同一性は未確定。",
+    "addedOrder": 714
   }
 ]
