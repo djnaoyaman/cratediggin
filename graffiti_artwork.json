@@ -16955,6 +16955,42 @@
         "sourceImage": "assets/graffiti/originals/beastie-boys-get-it-together-buck-wild-remix-tag-original.png",
         "sourceSha256": "92f01942d8cb01496057ba838d075844e633f81135ce0531c30acee26c53ccfc"
       }
+    },
+    {
+      "id": "beastie-boys-intergalactic-fuzzy-logic-remix",
+      "title": "Intergalactic (Fuzzy Logic Remix)",
+      "artist": "Beastie Boys",
+      "album": "Intergalactic (Fuzzy Logic Remix)",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#603178",
+        "#DFA819",
+        "#F4EBD4",
+        "#30302F",
+        "#696C3E"
+      ],
+      "paletteSource": "Intergalactic Fuzzy Logic Remix digital Single cover, Universal Music Italia",
+      "paletteNote": "公式配信ジャケットを実見。紫、金茶、生成り、墨、低彩度の緑を目視近似。動物・街並み・ジャケット文字は複製しない。",
+      "image": "assets/graffiti/beastie-boys-intergalactic-fuzzy-logic-remix-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/beastie-boys-intergalactic-fuzzy-logic-remix-tag-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          143,
+          71,
+          1891,
+          937
+        ],
+        "outputSha256": "079315302a2c37185a2186a2e598eef18f7bfc2aa577792087510308ce311c36",
+        "sourceImage": "assets/graffiti/originals/beastie-boys-intergalactic-fuzzy-logic-remix-tag-original.png",
+        "sourceSha256": "2aed3ad464e196af0888cd325fb6769230521e5e75b25b31937f6eec7ff30e97"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",

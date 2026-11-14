@@ -1,0 +1,129 @@
+{
+  "id": "beastie-boys-intergalactic-fuzzy-logic-remix",
+  "title": "Intergalactic (Fuzzy Logic Remix)",
+  "artist": "Beastie Boys",
+  "primaryArtist": "Beastie Boys",
+  "primaryArtists": [
+    "Beastie Boys"
+  ],
+  "artists": [
+    "Beastie Boys"
+  ],
+  "album": "Intergalactic (Fuzzy Logic Remix)",
+  "year": 1998,
+  "yearBasis": "Apple Musicの正規配信ページは作品年1998を表示。Universal Music Italiaが示す2018年7月6日はデジタルSingleの公開日として別記。初出の正確な日付は未照合。",
+  "yearStatus": "verified",
+  "yearDisplayNote": "作品年1998。参照デジタルSingleは2018年配信。",
+  "label": "Capitol / Beastie Boys JV",
+  "producer": "Sam Sever / Jonathan Hoffman（Remix）",
+  "producers": [
+    "Sam Sever",
+    "Jonathan Hoffman"
+  ],
+  "region": "New York",
+  "scene": "New York",
+  "regionBasis": "既存Beastie Boysの活動地域に対応。録音地・出身地は断定しない。",
+  "category": "Hip Hop",
+  "moods": [
+    "ラップ"
+  ],
+  "sources": [
+    {
+      "label": "Universal Music Italia — Intergalactic",
+      "url": "https://www.universalmusic.it/popular-music/album/intergalactic_32802357680/",
+      "kind": "公式レーベル資料。曲名、尺、Remixerクレジット、デジタル公開日。"
+    },
+    {
+      "label": "Apple Music — Intergalactic (Fuzzy Logic Remix)",
+      "url": "https://music.apple.com/us/album/intergalactic-fuzzy-logic-remix-single/1404578815",
+      "kind": "正規配信。作品年1998と2018権利表記を区別。"
+    },
+    {
+      "label": "Intergalactic (Fuzzy Logic Remix) — YouTube",
+      "url": "https://www.youtube.com/watch?v=RmmqSN6vpGM",
+      "kind": "検索索引の曲名・Beastie Boys名義とCapitol権利表記を照合。直接取得・実再生未確認。"
+    }
+  ],
+  "essayTitle": "名前をほどくと、ふたりいる。",
+  "deck": "Fuzzy Logicの括弧の先に、Sam SeverとJonathan Hoffman。通常版とは分けて辿る。",
+  "essay": [
+    "Fuzzy Logic Remix。この括弧を省くと、せっかくの寄り道がただの同じ曲になってしまう。Universalの曲別クレジットを開くと、RemixerとしてSam SeverとJonathan Hoffmanのふたりが並ぶ。大きな曲名の陰に、小さく書かれた別の手つき。その名まで連れて帰りたくなる。",
+    "配信ページでは1998年の作品に、2018年という別の日付が重なる。後者はUniversalが案内するデジタルSingleの公開日だ。曲が生まれた時間と、いま聴くために整えられた入口の時間。同じ棚に並べても、そこは分けておきたい。"
+  ],
+  "essaySources": [
+    [
+      0
+    ],
+    [
+      0,
+      1
+    ]
+  ],
+  "facts": [
+    {
+      "title": "Remixのクレジット",
+      "text": "Universal Music ItaliaはSam SeverとJonathan HoffmanをRemixerとして記載。曲名はFuzzy Logic Remix、掲載尺は3分50秒。",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "title": "作品年とデジタル公開日",
+      "text": "Apple Musicの作品年は1998。Universalの2018年7月6日はデジタルSingleの公開日。正確な初出日は未照合。",
+      "sources": [
+        0,
+        1
+      ]
+    }
+  ],
+  "samples": [],
+  "sampleStatus": "このRemix固有の使用素材は一次資料で未照合。通常版のサンプル情報を転記しない。",
+  "sounds": [],
+  "listening": [],
+  "collections": [
+    "east"
+  ],
+  "editorialCrates": [],
+  "connections": [],
+  "context": "通常版・Prisoners of Technology版と区別するFuzzy Logic Remix。",
+  "youtube": {
+    "id": "RmmqSN6vpGM",
+    "url": "https://www.youtube.com/watch?v=RmmqSN6vpGM",
+    "title": "Intergalactic (Fuzzy Logic Remix)",
+    "channel": "Beastie Boys",
+    "type": "正規配信候補（検索索引照合）",
+    "official": false,
+    "verified": "2026-11-14",
+    "metadataVerified": false,
+    "playbackVerified": false,
+    "embeddedPlaybackVerified": false,
+    "japanPlaybackVerified": false,
+    "exactMasterVerified": false,
+    "verification": "検索索引で指定Remix名、Beastie Boys名義とCapitol権利表記を照合。直接watch/oEmbedは取得制限。投稿者の一次確認と実再生、埋込み、日本可否、マスター同一性は未確認。"
+  },
+  "selectedRelease": {
+    "album": "Intergalactic (Fuzzy Logic Remix)",
+    "year": 2018,
+    "note": "UniversalのデジタルSingle公開日2018-07-06。原曲/Remixの初出年と区別。"
+  },
+  "versionBasis": "Universal公式のRemix名とYouTube検索索引の同名版を照合。直接watch/oEmbed取得は制限され、実再生、地域可否、厳密なマスター一致は未確認。",
+  "art": {
+    "word": "INTERGALACTIC",
+    "tag": "FUZZY LOGIC REMIX / BEASTIE BOYS",
+    "style": "tag",
+    "seed": 2026111402,
+    "palette": [
+      "#603178",
+      "#DFA819",
+      "#F4EBD4",
+      "#30302F",
+      "#696C3E"
+    ],
+    "paletteSource": "Intergalactic Fuzzy Logic Remix digital Single cover, Universal Music Italia",
+    "paletteSourceUrl": "https://www.universalmusic.it/dbcommon/file/cover/32802357680.jpg",
+    "paletteNote": "公式配信ジャケットを実見。紫、金茶、生成り、墨、低彩度の緑を目視近似。動物・街並み・ジャケット文字は複製しない。"
+  },
+  "datePublished": "2026-11-14",
+  "noteReviewedAt": "2026-11-14",
+  "addedOrder": 716
+}
