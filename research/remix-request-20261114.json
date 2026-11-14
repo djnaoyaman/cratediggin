@@ -1,0 +1,258 @@
+{
+  "baseCommit": "522cf2e9cbfbabb02e707d733233a1e33de63d58",
+  "tracksBlob": "610120993b4526fe1e28591328407671576a2cda",
+  "baseCount": 721,
+  "openPrsExcluded": [
+    399,
+    100
+  ],
+  "policy": "Publish separately; verify deployment before next. User handles real browser/audio playback. Never weaken CI.",
+  "items": [
+    {
+      "source_row_id": "remix-01",
+      "artist": "Beastie Boys",
+      "requestedVersion": "Get It Together (Buck-Wild Remix)",
+      "status": "candidate-found",
+      "candidateComparison": [
+        {
+          "url": "https://www.youtube.com/watch?v=qm9r0Loeko4",
+          "id": "qm9r0Loeko4",
+          "title": "Get It Together (Buck-Wild Remix/Remastered 2009)",
+          "artist": "Beastie Boys · Q-Tip",
+          "version": "Buck-Wild Remix/Remastered 2009",
+          "channel": "BeastieBoys (search result)",
+          "officiality": "Provided to YouTube by Universal Music Group (search snippet)",
+          "duration": "4:18 (playlist/search listing, not player verified)",
+          "decision": "preferred pending metadata confirmation: exact remix, licensed artist distribution",
+          "cleanExplicit": "unconfirmed",
+          "verification": "web search 2026-11-14",
+          "restriction": "not observed; playback not attempted"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Sx1A9aUnTX8",
+          "id": "Sx1A9aUnTX8",
+          "title": "Beastie Boys - Get It Together (Buckwild Remix) Ft. Q-Tip",
+          "version": "Buckwild Remix",
+          "channel": "unconfirmed",
+          "officiality": "unconfirmed",
+          "duration": "unconfirmed",
+          "decision": "not selected: exact named mix but officiality and duration not established"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=6zjyyZ5lW8w",
+          "id": "6zjyyZ5lW8w",
+          "title": "Beastie Boys - Get it Together (Buck Wild Remix - Clean Version)",
+          "version": "Clean Version",
+          "channel": "unconfirmed",
+          "officiality": "unconfirmed",
+          "duration": "unconfirmed",
+          "decision": "not selected: explicitly clean version; user did not request clean"
+        }
+      ],
+      "sources": [
+        "https://shopus.beastieboys.com/products/ill-communication-deluxe-edition-3lp",
+        "https://www.cribrecords.jp/product/92"
+      ],
+      "verificationLimit": "YouTube watch page via web open returned Online fetch throttled on 2026-11-14. No alternate YouTube access route used. Candidate metadata is search-index evidence only; oEmbed, playback, embedding and Japan availability not verified.",
+      "draft": "research/get-it-together-buck-wild-draft.json",
+      "artwork": "Generated with built-in imagegen; visually reviewed exact title, version, artist and no site branding. Saving generated data in small reviewed terminal inputs; alpha and sizing validation pending."
+    },
+    {
+      "source_row_id": "remix-02",
+      "artist": "Beastie Boys",
+      "requestedVersion": "Intergalactic (Fuzzy Logic Remix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-03",
+      "artist": "Beastie Boys",
+      "requestedVersion": "Putting Shame in Your Game (Prunes Remix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-04",
+      "artist": "Beastie Boys",
+      "requestedVersion": "So What’cha Want (Soul Assassins Remix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-05",
+      "artist": "Beastie Boys",
+      "requestedVersion": "The Negotiation Limerick File (The 41 Small Stars Remix)",
+      "status": "existing",
+      "existingId": "beastie-boys-negotiation-limerick-file-41-small-stars-remix"
+    },
+    {
+      "source_row_id": "remix-06",
+      "artist": "Black Moon",
+      "requestedVersion": "I Got Cha Opin (Loopless Dub)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-07",
+      "artist": "Busta Rhymes",
+      "requestedVersion": "Dangerous (Natural Born Chillers Remix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-08",
+      "artist": "Busta Rhymes",
+      "requestedVersion": "Woo Hah!! Got You All in Check (Fila Mix 3)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-09",
+      "artist": "cLOUDDEAD",
+      "requestedVersion": "Dead Dogs Two (Boards of Canada Remix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-10",
+      "artist": "Coldcut",
+      "requestedVersion": "True Skool (Zomby Remix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-11",
+      "artist": "Cypress Hill",
+      "requestedVersion": "Illusions (Q-Tip Remix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-12",
+      "artist": "Das EFX",
+      "requestedVersion": "Real Hip-Hop (Pete Rock Remix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-13",
+      "artist": "De La Soul",
+      "requestedVersion": "Stakes Is High (DJ Spinna Extended Remix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-14",
+      "artist": "DJ Krush",
+      "requestedVersion": "Meiso (Vocal Mix by 4 Hero)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-15",
+      "artist": "Edan feat. Percee P",
+      "requestedVersion": "Torture Chamber (Cut Chemist Remix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-16",
+      "artist": "Eric B. & Rakim",
+      "requestedVersion": "Paid in Full (Seven Minutes of Madness – The Coldcut Remix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-17",
+      "artist": "House of Pain",
+      "requestedVersion": "Jump Around (Pete Rock Remix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-18",
+      "artist": "House of Pain",
+      "requestedVersion": "Word Is Bond (Diamond D Remix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-19",
+      "artist": "Jungle Brothers",
+      "requestedVersion": "Because I Got It Like That (Ultimatum Mix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-20",
+      "artist": "Jungle Brothers",
+      "requestedVersion": "Jungle Brother (Urban Takeover Mix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-21",
+      "artist": "Madvillain",
+      "requestedVersion": "Accordion (Four Tet Remix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-22",
+      "artist": "Method Man",
+      "requestedVersion": "Release Yo’ Delf (Prodigy Mix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-23",
+      "artist": "The Pharcyde",
+      "requestedVersion": "Runnin’ (Philippians RMX)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-24",
+      "artist": "The Pharcyde",
+      "requestedVersion": "She Said (Jay Dee Remix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-25",
+      "artist": "Prefuse 73 feat. Ghostface & El-P",
+      "requestedVersion": "Hideyaface (El-P Mix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-26",
+      "artist": "Public Enemy",
+      "requestedVersion": "Shut Em Down (Pe-te Rock Mixx)",
+      "status": "existing",
+      "existingId": "public-enemy-shut-em-down-pe-te-rock-mixx"
+    },
+    {
+      "source_row_id": "remix-27",
+      "artist": "Roots Manuva",
+      "requestedVersion": "Witness (1 Hope) (Modeselektor Remix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-28",
+      "artist": "Run the Jewels",
+      "requestedVersion": "Meowpurrdy (El-P Remix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-29",
+      "artist": "Run the Jewels",
+      "requestedVersion": "ooh la la (Mexican Institute of Sound Remix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-30",
+      "artist": "Spank Rock",
+      "requestedVersion": "Rick Rubin (XXXChange Electro Remix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-31",
+      "artist": "Spank Rock",
+      "requestedVersion": "Sweet Talk (Matthew Herbert Remix)",
+      "status": "research-pending"
+    },
+    {
+      "source_row_id": "remix-32",
+      "artist": "Wu-Tang Clan",
+      "requestedVersion": "Reunited (Mix by Zulutronic)",
+      "status": "research-pending"
+    }
+  ],
+  "basePublication": {
+    "runId": 42957341331,
+    "url": "https://github.com/djnaoyaman/cratediggin/actions/runs/42957341331",
+    "headSha": "522cf2e9cbfbabb02e707d733233a1e33de63d58",
+    "status": "completed",
+    "conclusion": "success",
+    "observedAt": "2026-11-14",
+    "scope": "Workflow success; live HTTP content and audio not verified"
+  }
+}

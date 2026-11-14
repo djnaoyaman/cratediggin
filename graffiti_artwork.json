@@ -16920,6 +16920,41 @@
         "sourceImage": "assets/graffiti/originals/jungle-brothers-brain-tag-original.png",
         "sourceSha256": "b4fdcb0ecbd66104204c51efefe2e67192ebad122eb49070cc18d2d807e5f3b7"
       }
+    },
+    {
+      "id": "beastie-boys-get-it-together-buck-wild-remix",
+      "title": "Get It Together (Buck-Wild Remix)",
+      "artist": "Beastie Boys feat. Q-Tip",
+      "album": "Get It Together / Ill Communication (Deluxe Edition)",
+      "status": "ready",
+      "transparent": true,
+      "textReviewed": true,
+      "paletteReviewed": true,
+      "noSiteBranding": true,
+      "palette": [
+        "#F3F3F0",
+        "#BFC0BE",
+        "#737572",
+        "#222321"
+      ],
+      "paletteSource": "Ill Communication Deluxe Edition official store outer cover, inspected 2026-11-14",
+      "paletteNote": "公式商品画像の外装ジャケットを実見。白、銀灰、灰、黒を目視近似。内袋の黄・緑や人物写真・既存ロゴは転載しない。",
+      "image": "assets/graffiti/beastie-boys-get-it-together-buck-wild-remix-sized-v1.webp",
+      "originalImage": "assets/graffiti/originals/beastie-boys-get-it-together-buck-wild-remix-tag-original.png",
+      "displaySizing": {
+        "version": 1,
+        "alphaThreshold": 8,
+        "paddingFraction": 0.07,
+        "visibleBox": [
+          140,
+          71,
+          1850,
+          941
+        ],
+        "outputSha256": "8ae8e388cd75db6be51f4110e8bd0876cbda683782814905343508706377c8d9",
+        "sourceImage": "assets/graffiti/originals/beastie-boys-get-it-together-buck-wild-remix-tag-original.png",
+        "sourceSha256": "92f01942d8cb01496057ba838d075844e633f81135ce0531c30acee26c53ccfc"
+      }
     }
   ],
   "backgroundRule": "Genuine transparent paint layer, opaque white paint highlights retained; textured wall is rendered by the site.",
