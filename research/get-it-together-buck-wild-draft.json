@@ -1,0 +1,128 @@
+{
+  "id": "beastie-boys-get-it-together-buck-wild-remix",
+  "title": "Get It Together (Buck-Wild Remix)",
+  "artist": "Beastie Boys feat. Q-Tip",
+  "primaryArtist": "Beastie Boys",
+  "primaryArtists": [
+    "Beastie Boys"
+  ],
+  "artists": [
+    "Beastie Boys",
+    "Q-Tip"
+  ],
+  "album": "Get It Together / Ill Communication (Deluxe Edition)",
+  "year": 1994,
+  "yearBasis": "1994年のUS 12インチ掲載をCRIB RECORDSの原盤出品書誌で確認。公式ストアは2009年拡張盤由来の再発にBuck-Wild Remixを掲載。選択配信の2009リマスター表記を初出年とは扱わない。原盤年表記画像は未照合。",
+  "yearStatus": "verified",
+  "yearDisplayNote": "1994年シングルのRemix。選択音源は2009年リマスター表記。",
+  "label": "Capitol",
+  "producer": "Buckwild（Remix）",
+  "producers": [
+    "Buckwild"
+  ],
+  "region": "New York",
+  "scene": "New York",
+  "regionBasis": "既存Beastie Boysの活動地域に対応。録音地・出身地は断定しない。",
+  "category": "Hip Hop",
+  "moods": [
+    "ラップ"
+  ],
+  "sources": [
+    {
+      "label": "Beastie Boys公式ストア — Ill Communication Deluxe Edition",
+      "url": "https://shopus.beastieboys.com/products/ill-communication-deluxe-edition-3lp",
+      "kind": "一次資料・公式商品曲目。E3のBuck-Wild Remixと2009年拡張盤由来の再発を確認。"
+    },
+    {
+      "label": "Get It Together — Buck-Wild Remix / Remastered 2009",
+      "url": "https://www.youtube.com/watch?v=qm9r0Loeko4",
+      "kind": "検索索引の曲名・Beastie Boys / Q-Tip・Universal Music Group提供表記を照合。直接ページは取得制限のため未確認。実再生は未検証。"
+    },
+    {
+      "label": "CRIB RECORDS — Get It Together US original 12-inch",
+      "url": "https://www.cribrecords.jp/product/92",
+      "kind": "小売原盤書誌・二次照合。1994、Capitol、US、A2 Buck-Wild Remix feat. Q-Tip、A4 Instrumentalを掲載。"
+    }
+  ],
+  "essayTitle": "同じ四人、もうひとつの入口。",
+  "deck": "通常版とは別のBuck-Wild Remix。2009年リマスター表記の配信へつなぐ。",
+  "essay": [
+    "Get It Togetherには、アルバムの七曲目とは別の入口がある。1994年の米国12インチにはBuck-Wild Remixと、そのInstrumentalが並ぶ。Q-Tipの名はRemixにも残る。曲名だけで棚へ戻すと、この違いが隠れてしまう。ここではBuckwildの名を括弧の外へ引っぱり出すつもりで、別の一曲として置いた。",
+    "公式のIll Communication拡張盤では、通常版がB2、Buck-Wild RemixがE3。再発盤の曲順にも、両者を分けて残す考え方が見える。今回の配信候補にはRemastered 2009の表記がある。1994年のシングルと、後年に聴けるようになった窓口。その二つの日付を混ぜずに辿りたい。"
+  ],
+  "essaySources": [
+    [
+      2
+    ],
+    [
+      0,
+      1
+    ]
+  ],
+  "facts": [
+    {
+      "title": "Buck-Wild Remixを独立して掲載",
+      "text": "公式拡張盤曲目は通常版とBuck-Wild Remixを別トラックで記載。1994年US盤の小売書誌でもRemixとInstrumentalは別枠です。",
+      "sources": [
+        0,
+        2
+      ]
+    },
+    {
+      "title": "2009リマスター表記の配信候補",
+      "text": "検索索引でBeastie Boys、Q-Tip、指定Remix名とUMG提供表記を照合。直接ページの取得は制限され、実再生・埋め込み・日本での可否・原盤との同一マスターは未確認です。",
+      "sources": [
+        1
+      ]
+    }
+  ],
+  "samples": [],
+  "sampleStatus": "このRemix固有の使用素材は一次資料で未照合。通常版のサンプル情報を転記しない。",
+  "sounds": [],
+  "listening": [],
+  "collections": [
+    "east"
+  ],
+  "editorialCrates": [],
+  "connections": [],
+  "context": "通常アルバム版およびBuck-Wild Instrumentalと区別するRemix。",
+  "youtube": {
+    "id": "qm9r0Loeko4",
+    "url": "https://www.youtube.com/watch?v=qm9r0Loeko4",
+    "title": "Get It Together (Buck-Wild Remix/Remastered 2009)",
+    "channel": "BeastieBoys",
+    "type": "UMG提供表記の公式音源候補（検索索引照合）",
+    "official": true,
+    "verified": "2026-11-14",
+    "metadataVerified": false,
+    "playbackVerified": false,
+    "embeddedPlaybackVerified": false,
+    "japanPlaybackVerified": false,
+    "exactMasterVerified": false,
+    "verification": "検索索引のタイトル、Beastie Boys / Q-Tip、Provided to YouTube by Universal Music Group表記を照合。プレイリスト索引尺4:18。直接watchページはOnline fetch throttled。oEmbed未確認。情報照合は実再生やマスター同一性の確認ではない。"
+  },
+  "selectedRelease": {
+    "album": "Ill Communication",
+    "year": 2009,
+    "note": "選択候補のRemastered 2009表記。配信開始日とは断定しない。"
+  },
+  "versionBasis": "要求されたBuck-Wild Remix名が一致するUMG提供候補を選択。一般投稿同名版、Clean Version、Instrumentalを比較して除外。clean/explicitとマスター同一性は未確認。",
+  "art": {
+    "word": "GET IT TOGETHER",
+    "tag": "BUCK-WILD REMIX / BEASTIE BOYS feat. Q-TIP",
+    "style": "tag",
+    "seed": 2026111401,
+    "palette": [
+      "#F3F3F0",
+      "#BFC0BE",
+      "#737572",
+      "#222321"
+    ],
+    "paletteSource": "Ill Communication Deluxe Edition official store outer cover, inspected 2026-11-14",
+    "paletteSourceUrl": "https://shopus.beastieboys.com/products/ill-communication-deluxe-edition-3lp",
+    "paletteNote": "公式商品画像の外装ジャケットを実見。白、銀灰、灰、黒を目視近似。内袋の黄・緑や人物写真・既存ロゴは転載しない。"
+  },
+  "datePublished": "2026-11-14",
+  "noteReviewedAt": "2026-11-14",
+  "addedOrder": 715
+}
