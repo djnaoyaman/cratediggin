@@ -79,7 +79,14 @@
  }
  function trackInteraction(name,params={}){
   // Only public catalog IDs and fixed action values; never names typed into MY CRATE or search text.
-  if(typeof window.gtag==='function')window.gtag('event',name,params);
+  try{
+   if(typeof window.gtag!=='function'||location.hostname!=='djnaoyaman.github.io'||window['ga-disable-G-71ENPHWEJH']===true)return;
+   const schemas={playback_start:['song_id','content_type'],add_to_playlist:['song_id'],remove_from_playlist:['song_id'],restore_to_playlist:['song_id'],reorder_playlist:['song_id','direction'],share:['method','content_type','item_id']};
+   if(!schemas[name])return;
+   const safe={send_to:'G-71ENPHWEJH',transport_type:'beacon',page_location:location.origin+location.pathname,page_referrer:''};
+   for(const key of schemas[name]){const value=params[key];if(typeof value==='string'&&/^[A-Za-z0-9_-]{1,100}$/.test(value))safe[key]=value;}
+   window.gtag('event',name,safe);
+  }catch(_){};
  }
  function articleByline(value){
   const p=pageRegistry[value];
@@ -94,10 +101,11 @@
   return [['X','https://x.com/intent/tweet?text='+t+'&url='+u],['Facebook','https://www.facebook.com/sharer/sharer.php?u='+u],['LINE','https://line.me/R/share?text='+line]];
  }
  async function copyPageLink(value,button){
-  const p=sharingPage(value);if(!p)return;
+  const p=sharingPage(value);if(!p||button.disabled)return;button.disabled=true;
   const host=button.closest('.page-sharing')||button.parentElement,status=host.querySelector('[role="status"]');
-  try{await navigator.clipboard.writeText(p.url);trackInteraction('share',{method:'copy_link',content_type:value.startsWith('#/song/')?'song':'page',item_id:value.startsWith('#/timeline')?'timeline':value.split('/').pop()});if(status)status.textContent='リンクをコピーしました';else button.textContent='コピーしました';}
+  try{await navigator.clipboard.writeText(p.url);if(button.isConnected===false)return;trackInteraction('share',{method:'copy_link',content_type:value.startsWith('#/song/')?'song':'page',item_id:value.startsWith('#/timeline')?'timeline':value.split('/').pop()});if(status)status.textContent='リンクをコピーしました';else button.textContent='コピーしました';}
   catch(_){let input=host.querySelector('.share-fallback-url');if(!input){input=document.createElement('input');input.className='share-fallback-url';input.readOnly=true;input.setAttribute('aria-label','コピーする共有リンク');host.append(input);}input.value=p.url;input.focus();input.select();if(status)status.textContent='リンクを選択してコピーしてください';}
+  finally{button.disabled=false;}
  }
  function sharingControls(value){
   const p=sharingPage(value);if(!p)return null;
@@ -105,7 +113,7 @@
   const label=document.createElement('span');label.className='share-label';label.textContent='SHARE THIS PAGE';host.append(label);
   for(const [name,url] of shareLinks(p)){const a=document.createElement('a');a.href=url;a.target='_blank';a.rel='noopener noreferrer';a.textContent=name;a.setAttribute('aria-label',name+'でこのページをシェア（新しいタブ）');host.append(a);}
   const copy=document.createElement('button');copy.type='button';copy.textContent='リンクをコピー';copy.onclick=()=>copyPageLink(value,copy);host.append(copy);
-  if(typeof navigator.share==='function'){const native=document.createElement('button');native.type='button';native.textContent='その他に共有';native.onclick=async()=>{try{await navigator.share({title:p.title,url:p.url});}catch(e){if(e.name!=='AbortError')await copyPageLink(value,copy);}};host.append(native);}
+  if(typeof navigator.share==='function'){const native=document.createElement('button');native.type='button';native.textContent='その他に共有';native.onclick=async()=>{if(native.disabled)return;native.disabled=true;try{await navigator.share({title:p.title,url:p.url});if(native.isConnected!==false)trackInteraction('share',{method:'native',content_type:value.startsWith('#/song/')?'song':'page',item_id:value.startsWith('#/timeline')?'timeline':value.split('/').pop()});}catch(e){if(e.name!=='AbortError')await copyPageLink(value,copy);}finally{native.disabled=false;}};host.append(native);}
   const status=document.createElement('span');status.className='share-status';status.setAttribute('role','status');status.setAttribute('aria-live','polite');host.append(status);return host;
  }
  function addPageSharing(value){
