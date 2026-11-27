@@ -71,5 +71,24 @@ class UnknownReleaseMetadataTests(unittest.TestCase):
         self.assertIn("'<p class=\"work-year\">'+e(year_label(t))+'</p>'", static_source)
         self.assertIn("'<p class=\"work-year-note\">'+e(t['yearDisplayNote'])+'</p>' if t.get('yearDisplayNote') else ''", static_source)
 
+    def test_blank_decks_have_truthful_search_descriptions(self):
+        tree = ast.parse((ROOT / 'discovery.py').read_text())
+        helper = next(n for n in tree.body if isinstance(n, ast.FunctionDef) and n.name == 'track_metadata_description')
+        ns = {}
+        exec(compile(ast.Module(body=[helper], type_ignores=[]), '<description-contract>', 'exec'), ns)
+        description = ns['track_metadata_description']
+        base = {'artist': 'Example Artist', 'title': 'Example (Instrumental)'}
+        self.assertEqual(description(dict(base, deck='既存の紹介。', album='Album')), '既存の紹介。')
+        self.assertEqual(description(dict(base, deck='  ', album='Album')), 'Example Artist「Example (Instrumental)」。『Album』収録版の解説と出典。')
+        for unknown in (None, '', '不明', ' 未確認 '):
+            self.assertEqual(description(dict(base, deck='', album=unknown)), 'Example Artist「Example (Instrumental)」。楽曲の解説と出典。')
+        for track in json.loads((ROOT / 'tracks.json').read_text()):
+            if track['deck'].strip():
+                self.assertEqual(description(track), track['deck'], track['id'])
+            else:
+                self.assertIn(track['title'], description(track))
+                self.assertIn(track['artist'], description(track))
+
+
 if __name__ == '__main__':
     unittest.main()

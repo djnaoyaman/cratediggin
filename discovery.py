@@ -15,6 +15,18 @@ def encoded(value):
     return quote(value, safe="~!*'()-_")
 
 
+def track_metadata_description(track):
+    """Keep the authored deck; derive a search description only when it is blank."""
+    deck = track['deck']
+    if deck.strip():
+        return deck
+    artist, title = track['artist'], track['title']
+    album = track.get('album')
+    if isinstance(album, str) and album.strip() and album.strip() not in ('不明', '未確認'):
+        return f"{artist}「{title}」。『{album.strip()}』収録版の解説と出典。"
+    return f"{artist}「{title}」。楽曲の解説と出典。"
+
+
 def finalize_discovery(root, dist, host, tracks, features, guides):
     esc = html.escape
     base_path = urlparse(host).path.rstrip('/')
@@ -95,6 +107,7 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
         graph=[{'@type': 'WebSite', '@id': host + '/#website', 'url': host + '/', 'name': 'CRATEDIGGIN\'',
                 'inLanguage': 'ja', 'author': author}])
     for t in tracks:
+        description = track_metadata_description(t)
         relative = 'songs/' + t['id'] + '.html'
         url = host + '/' + relative
         image = 'og-image.jpg'  # Shared homepage preview; song identity stays in metadata.
@@ -115,18 +128,18 @@ def finalize_discovery(root, dist, host, tracks, features, guides):
             recording.pop('inAlbum',None)
         if work_type(t)=='live_video':
             recording={'@type':'VideoObject','@id':url+'#recording','name':t['title'],
-                       'description':t['deck'],'url':url,'subjectOf':{'@id':url+'#article'},
+                       'description':description,'url':url,'subjectOf':{'@id':url+'#article'},
                        'embedUrl':'https://www.youtube.com/embed/'+t['youtube']['id']}
             for key in ('uploadDate','thumbnailUrl','duration'):
                 if t['youtube'].get(key): recording[key]=t['youtube'][key]
         # A reference upload is not an authoritative identity link. Omit sameAs.
         if t.get('year') is not None and not t.get('yearBasis'):
             recording['datePublished'] = str(t['year'])
-        art = article(url, t['title'] + ' — ' + t['artist'], t['deck'], image,
+        art = article(url, t['title'] + ' — ' + t['artist'], description, image,
                       'song/' + t['id'], t.get('datePublished'), {'@id': url + '#recording'})
         art['citation'] = [s['url'] for s in t['sources']]
         add('#/song/' + t['id'], relative, t['title'] + ' / ' + t['artist'] + ' — CRATEDIGGIN\'',
-            (work_label(t)+'。' if work_type(t)!='single' else '')+t['deck'], image=image, graph=[art, recording], kind='article', image_alt=brand_image_alt)
+            (work_label(t)+'。' if work_type(t)!='single' else '')+description, image=image, graph=[art, recording], kind='article', image_alt=brand_image_alt)
         published = t.get('datePublished')
         updated = art.get('dateModified')
         byline = '<p class="byline">選曲・編集・文責 <a href="' + base_path + '/editor.html">DJ Naoyaman</a>'
